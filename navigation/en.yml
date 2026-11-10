@@ -13,6 +13,8 @@
     - label: Editor
       items:
         - slug: manual/editor/console
+        - slug: manual/editor/statistics
+        - slug: manual/editor/settings
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
 - label: Architecture
@@ -20,11 +22,18 @@
     - slug: architecture/overview
     - slug: architecture/ownership
     - slug: architecture/build-artifacts
+    - slug: architecture/editor-generations
 - label: Extending InnoEngine
   items:
     - slug: extending
     - slug: extending/customize-console
     - slug: extending/editor-panels
+    - slug: extending/editor-modules
+    - slug: extending/editor-modals
+    - slug: extending/editor-actions
+    - slug: extending/editor-selection
+    - slug: extending/editor-history
+    - slug: extending/editor-state
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -35,6 +44,14 @@
     - slug: api
     - slug: api/projects/inno-tooling-documentation
     - slug: api/projects/inno-editor-panel-logging
+    - label: Editor framework reference
+      items:
+        - slug: api/projects/inno-editor-core
+        - slug: api/projects/inno-editor-interactions
+        - slug: api/projects/inno-editor-diagnostics
+        - slug: api/projects/inno-editor-annotations
+        - slug: api/projects/inno-editor-settings
+        - slug: api/projects/inno-editor-panel-stats
     - slug: api/projects/inno-core-identity
     - label: Native integration reference
       items:
@@ -53,3 +70,4 @@
   items:
     - slug: contributing
     - slug: contributing/documentation-queries
+    - slug: contributing/example-validation

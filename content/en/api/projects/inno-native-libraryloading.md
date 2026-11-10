@@ -1,4 +1,6 @@
 ---
+exampleMode: host
+exampleProjects: [Inno.Native.LibraryLoading]
 title: Inno.Native.LibraryLoading
 description: Resolve a product's explicitly deployed native paths without searching source caches or owning module handles.
 uid: api.projects.inno-native-libraryloading

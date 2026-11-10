@@ -10,6 +10,11 @@ An extension belongs to the layer that owns its behavior. Start by identifying t
 
 ## Choose the boundary
 
+Start with [a panel](editor-panels.md), [a shared module](editor-modules.md),
+[a modal](editor-modals.md), or [an action and menu](editor-actions.md).
+Use the shared [selection](editor-selection.md), [History](editor-history.md) and
+[state persistence](editor-state.md) contracts when your feature needs them.
+
 | You want to change | Boundary to inspect |
 | --- | --- |
 | A panel's internal presentation | The owning panel and presentation services |

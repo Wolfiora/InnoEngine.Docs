@@ -1,0 +1,49 @@
+{
+  "project": "Inno.Editor.Settings",
+  "outputDirectory": "content/en/api/types/editor-settings",
+  "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "facts": "reference/api/editor.json",
+  "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+  "sharedContract": "api.projects.inno-editor-settings#identity-and-use-contracts",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-settings/editorsetting.md",
+      "sha256": "e0583b8916b711a9f409bb034c4de6acfbd58e0dff98498fb3cde54a18b52839"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/editorsettingobject.md",
+      "sha256": "12226624af41a854efe64e65039830f6756b0d9af0b2ac869503e44e4deffe45"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/editorsettingpathattribute.md",
+      "sha256": "fa64059b4ad27663ecf5123e27264418f59765b377d7f03eb2311eee31c5d04b"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/editorsettings.md",
+      "sha256": "4ecb634babf3b2ec668a37eecf1056ffa7cc505bffd98269c0b3c007f6402ee9"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/projectsettingeditor.md",
+      "sha256": "9a448964c9c638bbcc9bb48fe30cfb721c08df0c237eb90b37bc995485062f38"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/projectsettingeditor-1.md",
+      "sha256": "3fef257310c8a44140abcae60758e55fe048c2c4b5e850aba6876a6584ef9894"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/projectsettingpathattribute.md",
+      "sha256": "2487a7eab37780845ae71cb93866c110e14bd80bb3a0954525728bfc8b70ee7f"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/projectsettingseditor.md",
+      "sha256": "e2eea900f6c6043b28180c927bab6774d4e6a4e707e1887b264f3ee0e63f6e67"
+    },
+    {
+      "path": "content/en/api/types/editor-settings/index.md",
+      "sha256": "68eb96fe4bb353c6b0ab72b0398cde27de6d0e8fb015295810d24470336b6495"
+    }
+  ]
+}

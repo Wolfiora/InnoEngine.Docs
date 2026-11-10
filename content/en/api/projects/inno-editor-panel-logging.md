@@ -75,6 +75,8 @@ The host lifecycle bridge is the only caller of Console drawing. A drawing excep
 
 ## Project dependencies
 
+This implementation has no externally visible CLR types and declares no script API. The supported service contract belongs to [Editor Diagnostics](inno-editor-diagnostics.md); styling and card helpers remain internal.
+
 The following is explanatory project-reference ownership, not a separately maintained product-selection manifest.
 
 | Role | Projects |

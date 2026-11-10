@@ -17,6 +17,8 @@ export const collections = {
         aliases: z.array(z.string()).default([]),
         contracts: z.array(z.string()).default([]),
         apiSurface: z.string().optional(),
+        exampleMode: z.enum(['host', 'runtime-script', 'editor-script']).optional(),
+        exampleProjects: z.array(z.string()).optional(),
       }),
     }),
   }),

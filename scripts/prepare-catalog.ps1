@@ -57,6 +57,7 @@ finally
     if (File.Exists(staging)) File.Delete(staging);
 }
 Console.WriteLine(indexed.message);
+Console.WriteLine(JsonSerializer.Serialize(indexed.timingsMilliseconds));
 Console.WriteLine("Canonical catalog: " + result);
 '@
 $source = $source.Replace('PROJECT_PATH', $project.Replace('\', '/'))
@@ -73,7 +74,8 @@ $bundle = Join-Path $workspace 'bundle'
 $intermediate = Join-Path $workspace 'obj'
 Push-Location $workspace
 try {
-    & $DotnetHost build $sourcePath --output $bundle --artifacts-path $intermediate -p:PublishAot=false -v minimal
+    $parallelism = [Math]::Min([Environment]::ProcessorCount, 4)
+    & $DotnetHost build $sourcePath --output $bundle --artifacts-path $intermediate -p:PublishAot=false "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
     if ($LASTEXITCODE -ne 0) { throw "Documentation tooling bootstrap failed: $LASTEXITCODE" }
     & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root
     if ($LASTEXITCODE -ne 0) { throw "Canonical documentation preparation failed: $LASTEXITCODE" }

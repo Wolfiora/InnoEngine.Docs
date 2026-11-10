@@ -1,0 +1,41 @@
+{
+  "project": "Inno.Editor.Diagnostics",
+  "outputDirectory": "content/en/api/types/editor-diagnostics",
+  "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "facts": "reference/api/editor.json",
+  "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+  "sharedContract": "api.projects.inno-editor-diagnostics#lifetime-and-policy",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-diagnostics/editorconsole.md",
+      "sha256": "d4b2cf50b8af0fc029fe1c5e5bda7b6dcd8d1b96b95f144687f9b217522df1da"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/editorconsoleentrykind.md",
+      "sha256": "02ed9b9bf81bc24350e331132190ea40b4a7420a5214cb5e1b84b7280aab2920"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/editorconsolegroup.md",
+      "sha256": "eb93758461c042112ea57d0b1668f2d1f361a41bc793d918ebb2dc7b05d7674a"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/editorconsoleoccurrence.md",
+      "sha256": "88b6f0347a647f1c5c3e4266d9de4fbf1101fdd19f60f566d101a90db49fa073"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/editorconsolesnapshot.md",
+      "sha256": "670a6787e88f1ceedd2207ff044b801886c969fcde7be5b9babcad87a3f02e2f"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/ieditorconsole.md",
+      "sha256": "4623324a3b4c30941adea2bbf726a2e4c61c8ac3fe34e6f69e5e1847fffec1b8"
+    },
+    {
+      "path": "content/en/api/types/editor-diagnostics/index.md",
+      "sha256": "a4b44bc5aee361890a2fe46b21fbb6aeb01f3d3cce456f3e17232a5d2387def9"
+    }
+  ]
+}

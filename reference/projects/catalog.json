@@ -637,7 +637,9 @@
     "name": "Inno.Editor.Annotations",
     "path": "src/composition/editor/contracts/Inno.Editor.Annotations/Inno.Editor.Annotations.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -700,14 +702,18 @@
     "name": "Inno.Editor.Core",
     "path": "src/composition/editor/framework/Inno.Editor.Core/Inno.Editor.Core.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Diagnostics",
     "path": "src/composition/editor/framework/Inno.Editor.Diagnostics/Inno.Editor.Diagnostics.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -728,14 +734,18 @@
     "name": "Inno.Editor.Interactions",
     "path": "src/composition/editor/framework/Inno.Editor.Interactions/Inno.Editor.Interactions.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Settings",
     "path": "src/composition/editor/framework/Inno.Editor.Settings/Inno.Editor.Settings.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -777,7 +787,9 @@
     "name": "Inno.Editor.Panel.Logging",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Logging/Inno.Editor.Panel.Logging.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -805,7 +817,9 @@
     "name": "Inno.Editor.Panel.Stats",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Stats/Inno.Editor.Panel.Stats.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

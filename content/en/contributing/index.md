@@ -21,6 +21,8 @@ Use the engine's unified validation plan for code and contract changes. Preserve
 
 Documentation builds consume pinned project/API facts. Editing prose or website presentation should not prepare a native engine product. Executable examples still require the actual references and API surface they claim to use.
 
+Follow [example validation](example-validation.md) to declare host or script context and compile the exact code returned by the canonical documentation snapshot.
+
 ## Coordinate behavior and documentation
 
 Public behavior changes use paired PRs and immutable source identities. Preparing a documentation candidate does not automatically make it the published reference for a merged engine version. Publish only a matching, verified pair.

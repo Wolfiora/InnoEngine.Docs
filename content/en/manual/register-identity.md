@@ -1,4 +1,6 @@
 ---
+exampleMode: host
+exampleProjects: [Inno.Core.Identity]
 title: Register an identity object
 description: Preserve a saved identity while explicitly owning registration and release in a runtime domain.
 uid: manual.register-identity

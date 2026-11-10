@@ -44,8 +44,16 @@ The CLI adapter is `DocumentationCommand.ExecuteAsync`. JSON output contains the
 
 Catalog export reads the selected protected snapshot. It does not refresh a mutable checkout. A project without an authoritative entry is reported with a null entry, and an unverified API state remains unverified. The catalog's content identity describes sorted source paths and Markdown hashes independently of the query implementation identity.
 
+`DocumentationCodeBlockInfo` exports a fence's original normalized code, language, content identity, source line and containing section. A block whose content identity exactly matches a recorded declaration carries that symbol association. Other blocks remain examples or instructions; their language alone does not select host, script or platform references. Validation consumes these canonical blocks instead of parsing Markdown again, and must supply the actual example environment explicitly.
+
+`DocumentationExampleContext` preserves authored `exampleMode` and `exampleProjects` metadata. The parser checks the mode and project identities without preparing references. The separate [example validator](../../contributing/example-validation.md) consumes this context; a query never starts it automatically.
+
+Index results also contain measured preparation phases. `Total` and `PagePreparation` are inclusive; `MarkdownParsing` and `OwnerRegistration` are subsets of page preparation. Other phases identify setup/lock waiting, catalog validation, index projection, freshness checks and publication. Ordinary reads do not emit index timings or trigger these phases. Observations help diagnose work; they are not performance acceptance or source certificates.
+
 ## Failure and ownership boundaries
 
 Path escape, invalid ownership, corrupt payloads, duplicate authority and include cycles fail visibly. Missing content and ambiguous symbols remain distinct query results. Cancellation does not destroy the previous published generation or transfer ownership to the caller.
 
 The library uses the existing Core IO atomic publication and file leases together with the build cache ownership registry. It does not invent an independent cleanup authority. Current generations, their page dependencies and active readers must remain protected during retirement.
+
+Unchanged immutable page registrations are confirmed through `BuildCachePublisher.EnsureImmutableRegistration`. Confirmation checks ownership, dependencies, lease identity and payload size without updating the publication record's age. The documentation publisher separately verifies the actual payload hash. Size accounting is never a substitute for content integrity. Current-generation dependencies and active leases provide protection; reading a registration alone does not protect an artifact.

@@ -1,0 +1,69 @@
+{
+  "project": "Inno.Editor.Annotations",
+  "outputDirectory": "content/en/api/types/editor-annotations",
+  "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "facts": "reference/api/editor.json",
+  "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+  "sharedContract": "api.projects.inno-editor-annotations#loading-and-script-availability",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-annotations/headerattribute.md",
+      "sha256": "a3443534d9721cf03485af431303954f8b682fa9b2560e059ef1e703a969a36d"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/helpboxattribute.md",
+      "sha256": "e559c90e3002a2cbd6b9e0e187c1d812e9a848a43b4bd8e683a53aebf29bf6f1"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/hideifattribute.md",
+      "sha256": "37f454ccea37dbaf89e77eca17f790759a25a890f103ee4170ab27a18185f745"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/inspectorcondition.md",
+      "sha256": "8fb5f283ec2245286dc04d3ac1704133490c0b2bb84c194d3fece60ee4f90a40"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/inspectormessagetype.md",
+      "sha256": "d611b8a513e2c0f05d4b4876fe25c637de0753c7295ff0aa297eac813d81fdb1"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/inspectornameattribute.md",
+      "sha256": "dff5a7f76b7209f279eafc9b47afca4710d0c4eb836db01818351a62b37a1b55"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/inspectorpresentationattribute.md",
+      "sha256": "f0225b97471eea2139bd50e4a9cb9a1a8077f0f4341281f01839fa4dc299407e"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/inspectorreadonlyattribute.md",
+      "sha256": "a89bf5fbf9fc83747c3fb9aafb41b2cd06d20b8c968218147310e02213c077c3"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/rangeattribute.md",
+      "sha256": "aa86a21255b1d87bc9f796b0f7fc000542e3b4fc2af4ad2c2efb4570ea2de488"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/showifattribute.md",
+      "sha256": "b65748dea8f8c6704161c82d1c368e625ae6a3dd9bf276cd535de5ea62410a06"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/spaceattribute.md",
+      "sha256": "9b4875be95cbe6baf80bc3c09815d4c484a8f8bbf95d5ae74783cbac4153d5c3"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/textattribute.md",
+      "sha256": "a437219052cad54a93c7ca238273e8b5f6a16cbea7acd92e8c82024856133655"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/tooltipattribute.md",
+      "sha256": "41a2ee5a4791eb66835139733883516a22412278e35c8b6dcc7bb8bf7b666a49"
+    },
+    {
+      "path": "content/en/api/types/editor-annotations/index.md",
+      "sha256": "6a18e3d32392edcf9aa11e13b9ae715886a0045f2e0073a9f924983e112c4a0d"
+    }
+  ]
+}

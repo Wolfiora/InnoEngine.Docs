@@ -13,6 +13,8 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Start the Editor](../getting-started/first-editor-session.md) and recognize its default workspace.
 - [Open a project](../getting-started/first-project.md) without assuming that templates have been created.
 - [Read logs and current diagnostics](editor/console.md), filter entries, copy details, and control clearing on Play.
+- [Read and publish statistics](editor/statistics.md) through stable feature contributions.
+- [Change settings](editor/settings.md) in the scope that owns their persistence.
 
 ## State, references, and lifetime
 
