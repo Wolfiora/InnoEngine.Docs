@@ -1,0 +1,81 @@
+param(
+    [Parameter(Mandatory)][string]$EngineRoot,
+    [string]$DotnetHost = 'dotnet'
+)
+$ErrorActionPreference = 'Stop'
+$root = [IO.Path]::GetFullPath('..', $PSScriptRoot)
+$engine = (Resolve-Path -LiteralPath $EngineRoot).Path
+$binding = Get-Content -LiteralPath (Join-Path $root 'reference/engine.lock.json') -Raw | ConvertFrom-Json
+if ($binding.repository -ne 'https://github.com/Wolfiora/InnoEngine') { throw 'Unexpected engine repository in documentation binding.' }
+if ($binding.toolingRevision -notmatch '^[a-f0-9]{40}$') { throw 'Tooling must be pinned to an exact Git revision.' }
+$actualRevision = (& git -C $engine rev-parse HEAD).Trim()
+if ($LASTEXITCODE -ne 0 -or $actualRevision -ne $binding.toolingRevision) { throw 'Explicit tooling checkout does not match engine.lock.json toolingRevision.' }
+& git -C $engine diff --quiet HEAD --
+if ($LASTEXITCODE -ne 0) { throw 'Tooling checkout has tracked edits; commit and explicitly rebind the candidate before preparing its catalog.' }
+$untracked = @(& git -C $engine ls-files --others --exclude-standard)
+if ($LASTEXITCODE -ne 0 -or $untracked.Count -ne 0) { throw 'Tooling checkout has untracked inputs; use a complete immutable candidate.' }
+if ($binding.revision -eq $binding.toolingRevision) {
+    $actualTree = (& git -C $engine rev-parse 'HEAD^{tree}').Trim()
+    if ($LASTEXITCODE -ne 0 -or $actualTree -ne $binding.sourceTree) { throw 'Engine tree identity does not match the selected revision.' }
+}
+
+# This generated adapter is a site-build artifact, not a new engine executable project or query implementation.
+# It calls the library directly and compiles only its managed dependency closure.
+$workspace = Join-Path $root 'artifacts/tooling-bootstrap'
+[IO.Directory]::CreateDirectory($workspace) | Out-Null
+$project = Join-Path $engine 'tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj'
+if (-not (Test-Path -LiteralPath $project -PathType Leaf)) { throw 'Pinned revision does not provide the documentation query library.' }
+$source = @'
+#:property TargetFramework=net10.0
+#:property PublishAot=false
+#:property PackAsTool=false
+#:property ImplicitUsings=disable
+#:property Nullable=enable
+#:project PROJECT_PATH
+using System;
+using System.IO;
+using System.Text.Json;
+using System.Threading;
+using Inno.Tooling.Documentation;
+
+using var cancellation = new CancellationTokenSource();
+Console.CancelKeyPress += (_, options) => { options.Cancel = true; cancellation.Cancel(); };
+string root = Path.GetFullPath(args[0]);
+string cache = Path.Combine(root, "artifacts", "documentation-query");
+DocumentationResult indexed = await DocumentationStore.IndexAsync(root, root, cache, cancellation.Token);
+using DocumentationSnapshot snapshot = await DocumentationStore.OpenAsync(cache, indexed.snapshot, cancellationToken: cancellation.Token);
+DocumentationCatalogReport catalog = await snapshot.ExportCatalogAsync(cancellation.Token);
+string result = Path.Combine(root, "artifacts", "canonical-catalog.json");
+string staging = result + "." + Guid.NewGuid().ToString("N") + ".tmp";
+try
+{
+    await File.WriteAllTextAsync(staging, JsonSerializer.Serialize(catalog) + "\n", cancellation.Token);
+    File.Move(staging, result, overwrite: true);
+}
+finally
+{
+    if (File.Exists(staging)) File.Delete(staging);
+}
+Console.WriteLine(indexed.message);
+Console.WriteLine("Canonical catalog: " + result);
+'@
+$source = $source.Replace('PROJECT_PATH', $project.Replace('\', '/'))
+$sourcePath = Join-Path $workspace 'CatalogAdapter.cs'
+if (-not (Test-Path -LiteralPath $sourcePath) -or [IO.File]::ReadAllText($sourcePath) -ne $source) {
+    [IO.File]::WriteAllText($sourcePath, $source, [Text.UTF8Encoding]::new($false))
+}
+$sdk = [IO.File]::ReadAllText((Join-Path $engine 'global.json'))
+$sdkPath = Join-Path $workspace 'global.json'
+if (-not (Test-Path -LiteralPath $sdkPath) -or [IO.File]::ReadAllText($sdkPath) -ne $sdk) {
+    [IO.File]::WriteAllText($sdkPath, $sdk, [Text.UTF8Encoding]::new($false))
+}
+$bundle = Join-Path $workspace 'bundle'
+$intermediate = Join-Path $workspace 'obj'
+Push-Location $workspace
+try {
+    & $DotnetHost build $sourcePath --output $bundle --artifacts-path $intermediate -p:PublishAot=false -v minimal
+    if ($LASTEXITCODE -ne 0) { throw "Documentation tooling bootstrap failed: $LASTEXITCODE" }
+    & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root
+    if ($LASTEXITCODE -ne 0) { throw "Canonical documentation preparation failed: $LASTEXITCODE" }
+}
+finally { Pop-Location }

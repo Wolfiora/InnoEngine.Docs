@@ -6,6 +6,8 @@ kind: explanation
 ---
 # Backend boundaries
 
+[SDL3 platform integration](sdl3.md) provides a concrete guide to application ownership, native windows, event routing and binding deployment.
+
 A backend owns a concrete implementation of an engine capability. Its runtime code, native facade, binding configuration, build recipe, and component-specific tests belong to that implementation boundary.
 
 ## Neutral contracts and concrete limits

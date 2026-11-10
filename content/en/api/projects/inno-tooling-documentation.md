@@ -40,6 +40,10 @@ An open snapshot remains a snapshot of its captured inputs even if the authored 
 
 The CLI adapter is `DocumentationCommand.ExecuteAsync`. JSON output contains the structured result. Text output is intended for people and must not become an integration protocol.
 
+`DocumentationSnapshot.ExportCatalogAsync` returns a `DocumentationCatalogReport` with the complete canonical page and project inventory. Its `DocumentationPageInfo` entries include content identities, parsed anchors, symbol anchors and necessary contract relationships. Website navigation and rendered-output checks consume these facts instead of introducing another Markdown parser.
+
+Catalog export reads the selected protected snapshot. It does not refresh a mutable checkout. A project without an authoritative entry is reported with a null entry, and an unverified API state remains unverified. The catalog's content identity describes sorted source paths and Markdown hashes independently of the query implementation identity.
+
 ## Failure and ownership boundaries
 
 Path escape, invalid ownership, corrupt payloads, duplicate authority and include cycles fail visibly. Missing content and ambiguous symbols remain distinct query results. Cancellation does not destroy the previous published generation or transfer ownership to the caller.

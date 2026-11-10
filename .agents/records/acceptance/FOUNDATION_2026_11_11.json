@@ -1,0 +1,12 @@
+{
+  "engineSource": "7836ecac751ea3327249534ae031c321dd4ca1a6",
+  "contentPages": 22,
+  "actualProjects": 251,
+  "nodeTests": 9,
+  "typeCheck": "Passed: zero errors, warnings or hints",
+  "staticBuild": "Passed",
+  "renderedProjection": "Passed for available pages; exact anchors and Pages base path",
+  "completeProjection": "Failed as required: 249 missing project entries and Unverified API evidence",
+  "visual": "Panel guide inspected at 390, 768 and 1440 CSS pixels. Light mobile and dark tablet/desktop rendered without document overflow. Mobile menu works. Full site visual/accessibility matrix remains pending.",
+  "external": "No Pages deployment; no remote CI certification; GitHub App credentials not provisioned."
+}

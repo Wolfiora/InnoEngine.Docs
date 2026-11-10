@@ -21,6 +21,8 @@ An extension belongs to the layer that owns its behavior. Start by identifying t
 
 [Customize Console presentation](customize-console.md) is a concrete example of keeping a local change within its owner.
 
+[Add an Editor panel](editor-panels.md) explains registration, host-driven drawing, readable state and retirement without requiring prior knowledge of the assembly list.
+
 ## Discovery is not ownership
 
 Discovery identifies an extension and its stable metadata. The owning registry/host decides how it is constructed, activated, and retired. Do not manually invoke lifecycle callbacks or create a parallel discovery system to bypass that owner.

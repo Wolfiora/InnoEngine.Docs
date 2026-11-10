@@ -6,6 +6,8 @@ kind: explanation
 ---
 # Engine architecture
 
+For the build pipeline's ownership and reuse model, see [build artifacts, caches and consumer protection](build-artifacts.md).
+
 InnoEngine places reusable mechanisms below explicit product composition. A shared service describes what it needs; a backend implements that capability; a platform product supplies the actual combination and environment.
 
 ## Layers and responsibilities

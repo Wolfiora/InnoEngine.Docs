@@ -18,18 +18,22 @@
   items:
     - slug: architecture/overview
     - slug: architecture/ownership
+    - slug: architecture/build-artifacts
 - label: Extending InnoEngine
   items:
     - slug: extending
     - slug: extending/customize-console
+    - slug: extending/editor-panels
 - label: Platforms & Backends
   items:
     - slug: platforms
     - slug: backends
+    - slug: backends/sdl3
 - label: API Reference
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
+    - slug: api/projects/inno-editor-panel-logging
 - label: Contributing
   items:
     - slug: contributing

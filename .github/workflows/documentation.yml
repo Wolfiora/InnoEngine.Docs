@@ -1,0 +1,94 @@
+name: Documentation
+
+on:
+  pull_request:
+  push:
+    branches: [main, docs-modernization]
+  merge_group:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: documentation-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  projection:
+    name: Documentation projection
+    runs-on: windows-2025
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+          cache: npm
+      - name: Read immutable engine binding
+        id: binding
+        shell: pwsh
+        run: |
+          $binding = Get-Content reference/engine.lock.json -Raw | ConvertFrom-Json
+          if ($binding.repository -ne 'https://github.com/Wolfiora/InnoEngine' -or $binding.toolingRevision -notmatch '^[a-f0-9]{40}$') { throw 'Invalid engine binding.' }
+          "revision=$($binding.toolingRevision)" >> $env:GITHUB_OUTPUT
+      - name: Check out the pinned tooling source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: Wolfiora/InnoEngine
+          ref: ${{ steps.binding.outputs.revision }}
+          path: artifacts/engine-source
+          persist-credentials: false
+      - uses: actions/setup-dotnet@0f4a354dd5547a28c70b7853dbd95d5b67886e73 # v6
+        with:
+          global-json-file: artifacts/engine-source/global.json
+      - run: npm ci
+      - run: npm test
+      - name: Prepare canonical catalog using managed tooling only
+        shell: pwsh
+        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
+      - run: npm run check
+      - run: npm run build
+      - name: Verify the exact rendered projection
+        shell: pwsh
+        run: |
+          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist > artifacts/projection.json
+          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/projection.json; exit $LASTEXITCODE }
+      - name: Upload the inspected static preview
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-preview
+          path: dist/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Require complete content and source evidence
+        shell: pwsh
+        run: |
+          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist --complete > artifacts/completion.json
+          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
+      - name: Preserve first-failure and catalog diagnostics
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-diagnostics
+          path: |
+            artifacts/canonical-catalog.json
+            artifacts/projection.json
+            artifacts/completion.json
+          if-no-files-found: warn
+          retention-days: 30
+
+  validation:
+    name: Documentation validation
+    if: always()
+    needs: [projection]
+    runs-on: windows-2025
+    steps:
+      - name: Reconcile required results
+        shell: pwsh
+        env:
+          PROJECTION_RESULT: ${{ needs.projection.result }}
+        run: |
+          if ($env:PROJECTION_RESULT -ne 'success') { throw "Required documentation projection is $env:PROJECTION_RESULT; missing, canceled, skipped and failed work cannot certify documentation." }
+          'Documentation content, canonical projection and required source evidence passed.' >> $env:GITHUB_STEP_SUMMARY

@@ -80,6 +80,8 @@ Ordinary prepared-snapshot queries do not scan the authored document tree, acqui
 
 ## Integrate another transport
 
+`docs catalog --format json` exports canonical page identities, section anchors, project entries and source binding for website or coverage tooling. A null project entry identifies missing coverage. The export reads the prepared snapshot; it does not certify that every project is documented or that source API checks passed.
+
 An adapter can call `DocumentationStore.OpenAsync` and `DocumentationSnapshot.QueryAsync` directly with `DocumentationRequest`. Dispose a snapshot after its outstanding queries finish. Do not implement an adapter by shelling out to Build and parsing console text.
 
 Results expose resources with this shape:
@@ -89,3 +91,38 @@ inno-doc://innoengine/snapshots/<snapshot>/pages/<encoded-page-id>#<section>
 ```
 
 Resources retain snapshot identity and exact page ownership. The current implementation supplies the transport-independent core; it does not deploy an MCP server.
+
+## Build the website without building engine products
+
+From the Docs repository, run the explicit preparation adapter against the tooling revision in `reference/engine.lock.json`:
+
+```powershell
+./scripts/prepare-catalog.ps1 -EngineRoot C:/work/InnoEngine
+npm ci
+npm test
+npm run check
+npm run build
+node scripts/check-projection.mjs artifacts/canonical-catalog.json dist
+```
+
+The adapter requires a clean, exactly selected tooling checkout. It creates a managed build adapter under owned `artifacts/tooling-bootstrap/`, references the documentation library and calls its structured API. It does not create a new engine executable project, build Editor products or prepare Native dependencies. Build output remains stable across repeated preparation.
+
+The generated catalog is disposable. Refresh it after content changes; do not hand-edit its identities or add a second authored page inventory. Projection checks compare the exact file set, content hashes, navigation and rendered anchors with canonical facts.
+
+Available-page checks and complete publication acceptance are distinct. Add `--complete` to require every actual project entry and matching source API evidence. Missing coverage or an `Unverified` API state fails that check; a successful preview build does not override the failure.
+
+## Export source facts explicitly
+
+Source extraction is separate from a documentation read. When preparing references for a candidate, select the actual engine project and SDK explicitly:
+
+```sh
+dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs export-api \
+  --engine-root /work/InnoEngine \
+  --dotnet /sdk/dotnet \
+  --project src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj \
+  --output /work/InnoEngine/artifacts/reference/identity.json
+```
+
+Repeat `--project` to capture multiple owners together. The existing SDK graph and source extractor evaluate the selected closure without requesting product builds. Dependencies and restore inputs must already be available. Unavailable compilations and unresolved public signatures fail before replacing the previous output.
+
+The exported `source-clr` model preserves exact declarations, documentation IDs, signature hashes, source locations and inherited XML descriptions. It describes the requested configuration and target. It does not invent runtime/editor script surfaces or certify prose, examples, Native execution or platform support. Source API verification remains a distinct evidence obligation. Normal snapshot queries never invoke this operation.

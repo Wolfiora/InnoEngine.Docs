@@ -10,7 +10,7 @@ Engine and documentation changes share the same public contracts, but their sour
 
 ## Start with the right rules
 
-- [Engine contribution guide](https://github.com/Wolfiora/InnoEngine/blob/ai-pipeline/CONTRIBUTING.md).
+- [Engine contribution guide](https://github.com/Wolfiora/InnoEngine/blob/6315a9eea5a5004e352c8d709f7b5ff2b3469d9c/CONTRIBUTING.md).
 - [Documentation contribution guide](https://github.com/Wolfiora/InnoEngine.Docs/blob/main/CONTRIBUTING.md).
 
 The applicable rulebooks are the authority for repository changes. This Manual explains the engine rather than maintaining a second copy of those rules.

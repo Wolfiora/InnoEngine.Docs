@@ -2,3 +2,5 @@
 *.png binary
 *.ico binary
 *.woff2 binary
+# Preserve the original licensed asset bytes, including line endings.
+public/branding/** -text
