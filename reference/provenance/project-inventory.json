@@ -4,7 +4,8 @@
   "sourceTree": "0e9020ea8f34d7e5dfef7d8f4176b0eb3828f946",
   "extraction": "InnoEngine.Build docs export-projects; RepositorySourceInventory shared with architecture coverage",
   "projectCount": 251,
-  "apiSurfaces": "Not yet extracted; empty arrays are not API coverage",
+  "apiSurfaces": "Core Identity source-clr facts are now bound separately; all other empty arrays remain unextracted, not empty certified APIs.",
   "sourceApiEvidence": "Unverified",
-  "narrativeReview": "Representative task pages only; full 437-page migration outstanding"
+  "narrativeReview": "Representative task pages only; full 437-page migration outstanding",
+  "currentBinding": "reference/engine.lock.json"
 }

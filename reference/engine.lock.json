@@ -1,8 +1,17 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "7836ecac751ea3327249534ae031c321dd4ca1a6",
-  "sourceTree": "b886a8ac7ccd51b4bd543e85c22e8e85dd867438",
+  "revision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "sourceTree": "e1c8948c47172516286dc2a5662a31dbfadce5d2",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "3617ad852a957fb47701e8d5a19be6ce81a3a0fbfb8738f76e396ea8c9f5db40",
-  "toolingRevision": "bd655aca75f1749e1af2b3173b231d6be9749278"
+  "projectManifestIdentity": "04f2a5cc46b61766c5135601c2e1cdd4aef8f45eb00cadc96eadb065a78ca1ac",
+  "toolingRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "apiManifests": [
+    {
+      "path": "reference/api/core-identity.json",
+      "sha256": "1f200313105a9dd1376763fe397e9852790d2408c37b17f66af055ecdb07c1cc",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "project": "Inno.Core.Identity"
+    }
+  ]
 }

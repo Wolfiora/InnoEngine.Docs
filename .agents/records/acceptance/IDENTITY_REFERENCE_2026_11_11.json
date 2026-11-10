@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-11",
+  "status": "LocalPartialAcceptance",
+  "engineRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "engineTree": "e1c8948c47172516286dc2a5662a31dbfadce5d2",
+  "contentPages": 31,
+  "projectEntries": 3,
+  "actualProjects": 251,
+  "reference": {
+    "project": "Inno.Core.Identity",
+    "model": "source-clr",
+    "configuration": "Debug",
+    "typePages": 5,
+    "symbols": 42,
+    "declarationComparison": "Passed",
+    "proseReview": "Agent review against the original project narrative, source XML and Identity/Allocator/Registry implementations",
+    "sourceApiStatus": "Unverified",
+    "scriptProjection": "Not certified"
+  },
+  "tests": {
+    "snapshotTests": 21,
+    "siteTests": 12,
+    "typeCheck": "Passed: zero errors, warnings or hints",
+    "tutorialCompilation": "Passed: seven managed projects, 2.18 seconds, zero warnings/errors; no Native preparation",
+    "symbolQuery": "Reviewed Unregister returned 893 characters, both null/observer failure conditions and a necessary lifecycle continuation",
+    "overloadQuery": "Ambiguous with three Get candidates",
+    "renderedAnchors": "Passed for all current pages and API anchors",
+    "visual": "IdentityAllocator inspected in dark desktop/default viewport and light mobile 390px; API deep link heading visible, document client/scroll widths both 375px",
+    "apiXmlCorrection": "Documentation-only; all 42 signature identities unchanged"
+  },
+  "remaining": [
+    "Full 437-page baseline migration",
+    "248 missing project entries",
+    "Remaining API surfaces and example validation",
+    "Full visual and accessibility matrix",
+    "Paired repository certification",
+    "Real hosted Windows/macOS CI",
+    "GitHub App provisioning",
+    "Pages deployment",
+    "Legacy removal"
+  ],
+  "notes": [
+    "Source extraction and declaration presence do not certify behavioral prose or execution.",
+    "The one-off authoring draft encountered two PowerShell formatting issues; final canonical parsing, exact declaration checks and site checks passed after correction.",
+    "Initial API extraction fixture failure and retry remain in the engine acceptance evidence.",
+    "Automatic approval review rejected the guarded recursive removal of the owned Identity example bin/obj directories; outputs remain. C-drive free space was 42.23 GiB."
+  ]
+}

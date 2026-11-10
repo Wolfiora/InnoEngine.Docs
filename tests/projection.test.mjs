@@ -29,7 +29,7 @@ async function fixture(t) {
   await write('reference/projects.json', projects);
   await write('navigation/en.yml', '- slug: ""\n');
   await write('dist/index.html', '<!doctype html><html lang="en"><body><h1 id="probe">Probe</h1></body></html>');
-  return { root, site: path.join(root, 'dist'), catalog, write };
+  return { root, site: path.join(root, 'dist'), catalog, binding, write };
 }
 
 test('available projection is distinct from source API and complete publication acceptance', async (t) => {
@@ -85,4 +85,52 @@ test('a supplied catalog cannot read outside the explicit source root', async (t
   const f = await fixture(t);
   f.catalog.pages[0].path = '../outside.md';
   await assert.rejects(checkProjection(f), /escapes its root/);
+});
+
+async function apiFixture(t) {
+  const f = await fixture(t);
+  const id = 'M:Probe.Read(System.String)';
+  const signature = 'public string? Probe.Read(string key = "default")';
+  const signatureHash = digest(signature);
+  const facts = JSON.stringify({ model: 'source-clr', configuration: 'Debug', projects: [
+    { name: 'Probe', project: 'src/Probe.csproj', symbols: [{ id, signature, signatureHash }] }
+  ] });
+  const projects = JSON.stringify([{ name: 'Probe', path: 'src/Probe.csproj', surfaces: ['source-clr'] }]);
+  f.binding.projectManifestIdentity = digest(projects);
+  f.binding.apiManifests = [{ path: 'reference/api.json', sha256: digest(facts), model: 'source-clr', configuration: 'Debug' }];
+  await f.write('reference/projects.json', projects);
+  await f.write('reference/api.json', facts);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  f.catalog.pages[0].surface = 'source-clr';
+  f.catalog.pages[0].symbols[id] = { anchor: 'api-probe', signatureIdentity: signatureHash, code: [signature] };
+  await f.write('dist/index.html', '<h1 id="probe">Probe</h1><a id="api-probe"></a>');
+  return { ...f, id };
+}
+
+test('bound declarations require both the current mapping and exact visible signature', async (t) => {
+  const f = await apiFixture(t);
+  const valid = await checkProjection(f);
+  assert.equal(valid.status, 'Passed');
+  assert.equal(valid.api.extractedSymbols, 1);
+  assert.equal(valid.sourceApiStatus, 'Unverified');
+  f.catalog.pages[0].symbols[f.id].code = ['public string Probe.Read(string key)'];
+  assert.match((await checkProjection(f)).errors.join('\n'), /Visible declaration differs/);
+  f.catalog.pages[0].symbols[f.id].signatureIdentity = '0'.repeat(64);
+  assert.match((await checkProjection(f)).errors.join('\n'), /signature mapping is stale/);
+});
+
+test('omitted and invented API contracts cannot hide behind correct source hashes', async (t) => {
+  const f = await apiFixture(t);
+  const symbol = f.catalog.pages[0].symbols[f.id];
+  delete f.catalog.pages[0].symbols[f.id];
+  f.catalog.pages[0].symbols['M:Probe.Invented'] = symbol;
+  const result = await checkProjection(f);
+  assert.match(result.errors.join('\n'), /no authored contract/);
+  assert.match(result.errors.join('\n'), /no matching extracted contract/);
+});
+
+test('tampered API reference payload cannot supply declaration evidence', async (t) => {
+  const f = await apiFixture(t);
+  await f.write('reference/api.json', '{}');
+  assert.match((await checkProjection(f)).errors.join('\n'), /API manifest identity differs/);
 });

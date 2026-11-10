@@ -28,6 +28,8 @@ body { text-rendering: optimizeLegibility; }
 .sl-markdown-content h1 + p { font-size: 1.12rem; color: var(--sl-color-gray-2); line-height: 1.75; }
 .sl-markdown-content table { display: block; max-width: 100%; overflow-x: auto; font-size: .9rem; }
 .sl-markdown-content th { text-align: left; }
+.sl-markdown-content th, .sl-markdown-content td { min-width: 7ch; }
+.sl-markdown-content a[id^='api-'] { scroll-margin-top: calc(var(--sl-nav-height) + 8rem); }
 .sl-markdown-content pre { overflow-x: auto; overflow-wrap: normal; }
 .sl-markdown-content code:not(pre code) { overflow-wrap: anywhere; }
 .sl-markdown-content a { text-underline-offset: .18em; }

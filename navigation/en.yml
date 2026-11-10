@@ -14,6 +14,7 @@
       items:
         - slug: manual/editor/console
     - slug: manual/identity-and-missing
+    - slug: manual/register-identity
 - label: Architecture
   items:
     - slug: architecture/overview
@@ -34,6 +35,14 @@
     - slug: api
     - slug: api/projects/inno-tooling-documentation
     - slug: api/projects/inno-editor-panel-logging
+    - slug: api/projects/inno-core-identity
+    - label: Identity types
+      items:
+        - slug: api/types/core-identity/identity
+        - slug: api/types/core-identity/identityobject
+        - slug: api/types/core-identity/identityallocator
+        - slug: api/types/core-identity/identitydomainid
+        - slug: api/types/core-identity/runtimeidentity
 - label: Contributing
   items:
     - slug: contributing

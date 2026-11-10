@@ -969,7 +969,9 @@
     "name": "Inno.Core.Identity",
     "path": "src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

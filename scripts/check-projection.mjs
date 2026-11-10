@@ -11,8 +11,8 @@ const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 export async function checkProjection({ root, catalog, site, complete = false }) {
   root = path.resolve(root);
   const errors = [];
-  const binding = JSON.parse(await readFile(inside(root, 'reference/engine.lock.json'), 'utf8'));
-  const projectsBytes = await readFile(inside(root, binding.projectManifest));
+  const binding = JSON.parse(await readOwned(root, 'reference/engine.lock.json'));
+  const projectsBytes = await readOwned(root, binding.projectManifest);
   const projects = JSON.parse(projectsBytes);
   if (digest(projectsBytes) !== binding.projectManifestIdentity) errors.push('Project manifest identity differs from engine.lock.json.');
   for (const field of ['repository', 'revision', 'sourceTree', 'toolingRevision']) {
@@ -53,7 +53,7 @@ export async function checkProjection({ root, catalog, site, complete = false })
       }
     });
     if (headings.length !== 1) errors.push(`Expected one rendered H1, found ${headings.length}: ${page.path}.`);
-    for (const anchor of [...Object.keys(page.sections), ...Object.values(page.symbols)]) {
+    for (const anchor of [...Object.keys(page.sections), ...Object.values(page.symbols).map((symbol) => symbol.anchor)]) {
       if (!ids.has(anchor)) errors.push(`Canonical anchor missing from rendered HTML ${anchor}: ${page.path}.`);
     }
   }
@@ -74,12 +74,63 @@ export async function checkProjection({ root, catalog, site, complete = false })
     }
   }
   inspect(navigation);
+  const api = await checkApiReferences(root, binding, catalog, projects, errors);
   const missingProjects = Object.entries(catalog.projects).filter(([, entry]) => entry === null).map(([name]) => name);
   if (complete && missingProjects.length) errors.push(`${missingProjects.length} actual projects lack an authoritative entry.`);
   if (complete && catalog.sourceApiStatus !== 'Verified') errors.push(`Source API verification is ${catalog.sourceApiStatus}; publication requires matching evidence.`);
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
-    missingProjects, sourceApiStatus: catalog.sourceApiStatus, errors };
+    missingProjects, sourceApiStatus: catalog.sourceApiStatus, api, errors };
+}
+
+async function checkApiReferences(root, binding, catalog, projects, errors) {
+  const expected = new Map();
+  const observed = new Map();
+  const key = (project, surface, id) => `${project}\0${surface}\0${id}`;
+  for (const reference of binding.apiManifests ?? []) {
+    const bytes = await readOwned(root, reference.path);
+    if (digest(bytes) !== reference.sha256) {
+      errors.push(`API manifest identity differs: ${reference.path}.`);
+      continue;
+    }
+    const facts = JSON.parse(bytes);
+    if (facts.model !== reference.model || facts.configuration !== reference.configuration
+      || (facts.target ?? null) !== (reference.target ?? null)) {
+      errors.push(`API manifest context differs: ${reference.path}.`);
+      continue;
+    }
+    for (const project of facts.projects) {
+      const source = projects.find((item) => item.name === project.name && item.path === project.project);
+      if (!source || !source.surfaces.includes(facts.model)) {
+        errors.push(`API manifest owner or surface is not bound: ${project.name}.`);
+        continue;
+      }
+      for (const symbol of project.symbols) {
+        const identity = key(project.name, facts.model, symbol.id);
+        if (expected.has(identity)) errors.push(`Duplicate extracted API contract: ${symbol.id}.`);
+        if (digest(symbol.signature) !== symbol.signatureHash) errors.push(`Extracted signature hash is invalid: ${symbol.id}.`);
+        expected.set(identity, symbol);
+      }
+    }
+  }
+  for (const page of catalog.pages) {
+    for (const [id, symbol] of Object.entries(page.symbols)) {
+      const identity = key(page.owners[0], page.surface, id);
+      if (observed.has(identity)) errors.push(`Duplicate authored API contract: ${id}.`);
+      observed.set(identity, symbol);
+      const source = expected.get(identity);
+      if (!source) errors.push(`Authored API has no matching extracted contract: ${id}.`);
+      else {
+        if (symbol.signatureIdentity !== source.signatureHash) errors.push(`Authored signature mapping is stale: ${id}.`);
+        if (!symbol.code.includes(source.signature)) errors.push(`Visible declaration differs from extracted signature: ${id}.`);
+      }
+    }
+  }
+  for (const [identity, symbol] of expected) {
+    if (!observed.has(identity)) errors.push(`Extracted API has no authored contract: ${symbol.id}.`);
+  }
+  return { extractedSymbols: expected.size, authoredSymbols: observed.size,
+    scope: 'Bound declarations only; source execution, script projections and semantic prose review remain separate.' };
 }
 
 function route(source) {
@@ -96,6 +147,16 @@ function inside(root, relative) {
   const relation = path.relative(root, target);
   if (relation === '..' || relation.startsWith('..' + path.sep) || path.isAbsolute(relation)) throw new Error(`Path escapes its root: ${relative}`);
   return target;
+}
+
+async function readOwned(root, relative) {
+  const target = inside(root, relative);
+  let current = path.resolve(root);
+  for (const segment of path.relative(current, target).split(path.sep)) {
+    current = path.join(current, segment);
+    if ((await lstat(current)).isSymbolicLink()) throw new Error(`Reference input cannot traverse a link: ${relative}`);
+  }
+  return readFile(target);
 }
 
 async function files(root) {

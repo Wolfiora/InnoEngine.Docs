@@ -42,3 +42,9 @@ The explicit preparation adapter successfully built only the documentation tooli
 The initial canonical projection validated 21 available pages. Missing project entries and Unverified source API status remained visible. The added Editor panel task is based on the actual EditorPanel, EditorPanelAttribute, reload-state, interaction and Stats implementations; its lifecycle and ownership claims do not imply an executed full product journey.
 
 The new Documentation workflow preserves a static preview before checking full coverage. Its fixed Documentation validation aggregate rejects failed, missing, skipped or canceled prerequisites. It is not yet a successful remote CI or Pages deployment result. Full content and API evidence are intentionally required before that aggregate can pass.
+
+## Identity reference and declaration checks
+
+The Core Identity migration adds a task, one authoritative project entry and five type pages covering all 42 extracted symbols. Member contracts use focused sections, visible signatures and explicit shared lifecycle continuations. The tutorial compiled without Native preparation. Source XML corrections describe existing retained-ID, weak-entry counting and failure behavior; no public signature or runtime implementation changed.
+
+The canonical catalog now carries signature identities and visible code. Website reference checks reject a stale mapping, changed visible signature, omitted/invented member, wrong reference context and tampered payload. Twelve site tests and 21 engine snapshot tests passed. This is declaration comparison for a selected CLR surface, not whole-engine source API certification. The current site has 31 pages and three project entries; full content migration, release pairing and deployment remain incomplete. Detailed local observations are in the Identity acceptance record.
