@@ -1,0 +1,29 @@
+---
+title: "SDLContext.Constants — Fields: SDLK_RIGHTBRACE"
+description: "Exact Fields: SDLK_RIGHTBRACE contracts in SDLContext.Constants."
+uid: api.inno.native.sdl3.48b8ab83615ab007
+kind: api
+owners:
+  - Inno.Native.Sdl3
+apiSurface: source-clr
+contracts:
+  - api.projects.inno-native-sdl3#shared-abi-contract
+  - api.inno.native.sdl3.6d7b27f336ae85c8#type-declaration
+---
+# `SDLContext.Constants`: Fields: SDLK_RIGHTBRACE
+
+Read these exact member contracts together with the [containing type](sdlcontext.constants.md) and its [shared ownership contract](../../projects/inno-native-sdl3.md#shared-abi-contract).
+
+**Source context:** `source-clr`, configuration `Debug`. This page does not certify execution on other platforms.
+
+## `SDLK_RIGHTBRACE`
+
+<a id="api-7b6d667d9dd59529"></a>
+<!-- api: F:Inno.Native.Sdl3.SDLContext.Constants.SDLK_RIGHTBRACE 89dd17b47f9bd9d7b38b3f0e0e61858f147b220a0f67a54d7060a07e3183c0c9 -->
+
+```csharp
+public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_RIGHTBRACE = 125
+```
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5749).

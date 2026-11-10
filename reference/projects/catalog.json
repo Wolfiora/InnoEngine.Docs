@@ -150,7 +150,9 @@
     "name": "Inno.Native.LibraryLoading",
     "path": "backends/Interop/native/Inno.Native.LibraryLoading/Inno.Native.LibraryLoading.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -234,7 +236,9 @@
     "name": "Inno.Native.Sdl3",
     "path": "backends/Sdl3/native/Inno.Native.Sdl3/Inno.Native.Sdl3.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

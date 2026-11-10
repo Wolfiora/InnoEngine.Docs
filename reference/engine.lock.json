@@ -3,8 +3,8 @@
   "revision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
   "sourceTree": "e1c8948c47172516286dc2a5662a31dbfadce5d2",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "04f2a5cc46b61766c5135601c2e1cdd4aef8f45eb00cadc96eadb065a78ca1ac",
-  "toolingRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "projectManifestIdentity": "db09a5d64f50b07d580476998a900130f1980afc62e7e4ab8746a6f81a740b3d",
+  "toolingRevision": "562514f7ce2d1a69ba9838c758388690def1b7b5",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -12,6 +12,13 @@
       "model": "source-clr",
       "configuration": "Debug",
       "project": "Inno.Core.Identity"
+    },
+    {
+      "path": "reference/api/sdl3.json",
+      "sha256": "0ecbe7fffdf9931f07efd77f48d95c44a1501ae8315e4e75d9d9c7262f9bc390",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null
     }
   ]
 }

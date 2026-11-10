@@ -126,3 +126,26 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs export
 Repeat `--project` to capture multiple owners together. The existing SDK graph and source extractor evaluate the selected closure without requesting product builds. Dependencies and restore inputs must already be available. Unavailable compilations and unresolved public signatures fail before replacing the previous output.
 
 The exported `source-clr` model preserves exact declarations, documentation IDs, signature hashes, source locations and inherited XML descriptions. It describes the requested configuration and target. It does not invent runtime/editor script surfaces or certify prose, examples, Native execution or platform support. Source API verification remains a distinct evidence obligation. Normal snapshot queries never invoke this operation.
+
+## Maintain generated reference pages
+
+Write the project's explanation and shared use contracts first. Bind the extracted facts in `reference/engine.lock.json`, declare their actual surface in the derived project manifest, and refresh the canonical catalog. The reference writer requires those exact inputs; it never selects a project by its page title.
+
+```powershell
+./scripts/Update-ApiReference.ps1 `
+  -Facts reference/api/sdl3.json `
+  -Project Inno.Native.Sdl3 `
+  -Contract 'api.projects.inno-native-sdl3#shared-abi-contract' `
+  -OutputDirectory content/en/api/types/sdl3 `
+  -OwnershipManifest reference/provenance/sdl3-pages.json `
+  -XmlLinks reference/provenance/sdl-xml-links.json `
+  -SharedAbi
+```
+
+This authoring operation reads bound JSON and source XML locally. It does not extract APIs, restore packages, invoke an SDK, build a product or contact the network. It refuses to overwrite a handwritten page or a generated page containing an unreviewed edit. Its ownership manifest records the exact generated files and imported XML-link provenance. Keep tutorials and cross-member explanations outside those owned files.
+
+Small types keep declarations and member details together. Large types link to complete overload families and constant identifier groups; the group names are navigation, not another API-surface classification. Each exact symbol has one destination. A member page retains its containing type and shared contracts as explicit query relationships. Shrinking a type retires only unchanged files owned by that same generation scope.
+
+`-SharedAbi` is appropriate only for generated native declarations whose reviewed shared contract states the limits of raw ABI semantics. It does not supply missing safe-wrapper behavior or prove API quality. Handwritten members without XML are rejected. Unsupported XML constructs also fail explicitly; extend the renderer with preservation tests instead of discarding their content.
+
+XML prose retains lists and fenced examples. Reviewed upstream-relative links have explicit HTTPS destinations. After generation, refresh the canonical catalog and run reference, link, rendered-anchor and source-evidence checks before publication. If preparation fails, the previous immutable query snapshot remains selected; do not describe it as the current mutable checkout.

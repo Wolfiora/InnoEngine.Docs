@@ -4,6 +4,7 @@ import { createHash } from 'node:crypto';
 import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
+import { contentRoute } from './documentation-routes.mjs';
 
 const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
@@ -135,10 +136,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
 
 function route(source) {
   if (!source.startsWith('content/en/') || !source.endsWith('.md')) throw new Error(`Invalid content source: ${source}`);
-  let slug = source.slice('content/en/'.length, -3);
-  if (slug === 'index') return '';
-  if (slug.endsWith('/index')) slug = slug.slice(0, -'/index'.length);
-  return slug;
+  return contentRoute(source.slice('content/en/'.length));
 }
 
 function inside(root, relative) {

@@ -1,0 +1,29 @@
+---
+title: "SDLContext.Constants — Fields: SDL_CACHELINE_SIZE"
+description: "Exact Fields: SDL_CACHELINE_SIZE contracts in SDLContext.Constants."
+uid: api.inno.native.sdl3.0b4da8d67341ef85
+kind: api
+owners:
+  - Inno.Native.Sdl3
+apiSurface: source-clr
+contracts:
+  - api.projects.inno-native-sdl3#shared-abi-contract
+  - api.inno.native.sdl3.6d7b27f336ae85c8#type-declaration
+---
+# `SDLContext.Constants`: Fields: SDL_CACHELINE_SIZE
+
+Read these exact member contracts together with the [containing type](sdlcontext.constants.md) and its [shared ownership contract](../../projects/inno-native-sdl3.md#shared-abi-contract).
+
+**Source context:** `source-clr`, configuration `Debug`. This page does not certify execution on other platforms.
+
+## `SDL_CACHELINE_SIZE`
+
+<a id="api-4592d56b3bf3ca52"></a>
+<!-- api: F:Inno.Native.Sdl3.SDLContext.Constants.SDL_CACHELINE_SIZE 68077d728528f541dca8abf1b688bdb824cf32878b645e814a5e6e5544959fb6 -->
+
+```csharp
+public const int Inno.Native.Sdl3.SDLContext.Constants.SDL_CACHELINE_SIZE = 128
+```
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5515).

@@ -11,7 +11,7 @@ export default defineConfig({
   site: 'https://wolfiora.github.io',
   base: '/InnoEngine.Docs',
   trailingSlash: 'always',
-  markdown: { processor: unified({ remarkPlugins: [[documentationLinks, { contentRoot: './content/en', base: '/InnoEngine.Docs' }]] }) },
+  markdown: { processor: unified({ remarkPlugins: [[documentationLinks, { contentRoot: './content/en', publicRoot: './public', base: '/InnoEngine.Docs' }]] }) },
   integrations: [
     starlight({
       title: 'InnoEngine',

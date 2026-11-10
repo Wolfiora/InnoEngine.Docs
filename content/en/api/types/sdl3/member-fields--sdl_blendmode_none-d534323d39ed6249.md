@@ -1,0 +1,29 @@
+---
+title: "SDLContext.Constants — Fields: SDL_BLENDMODE_NONE"
+description: "Exact Fields: SDL_BLENDMODE_NONE contracts in SDLContext.Constants."
+uid: api.inno.native.sdl3.d534323d39ed6249
+kind: api
+owners:
+  - Inno.Native.Sdl3
+apiSurface: source-clr
+contracts:
+  - api.projects.inno-native-sdl3#shared-abi-contract
+  - api.inno.native.sdl3.6d7b27f336ae85c8#type-declaration
+---
+# `SDLContext.Constants`: Fields: SDL_BLENDMODE_NONE
+
+Read these exact member contracts together with the [containing type](sdlcontext.constants.md) and its [shared ownership contract](../../projects/inno-native-sdl3.md#shared-abi-contract).
+
+**Source context:** `source-clr`, configuration `Debug`. This page does not certify execution on other platforms.
+
+## `SDL_BLENDMODE_NONE`
+
+<a id="api-42e0e3d0dd2ba8b7"></a>
+<!-- api: F:Inno.Native.Sdl3.SDLContext.Constants.SDL_BLENDMODE_NONE fa5cd1c2b6f130090fa97fa5219fc244c10faebc4d72613b64658d10868e2e52 -->
+
+```csharp
+public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_BLENDMODE_NONE = 0
+```
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5733).

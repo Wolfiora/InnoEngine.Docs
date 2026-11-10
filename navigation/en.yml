@@ -36,6 +36,12 @@
     - slug: api/projects/inno-tooling-documentation
     - slug: api/projects/inno-editor-panel-logging
     - slug: api/projects/inno-core-identity
+    - label: Native integration reference
+      items:
+        - slug: api/projects/inno-native-libraryloading
+        - slug: api/types/native-libraryloading
+        - slug: api/projects/inno-native-sdl3
+        - slug: api/types/sdl3
     - label: Identity types
       items:
         - slug: api/types/core-identity/identity

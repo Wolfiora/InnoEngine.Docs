@@ -1,0 +1,12 @@
+{
+  "project": "Inno.Native.Sdl3",
+  "reason": "Generated SDL XML retains upstream Wiki-relative links. These exact imported destinations are resolved to their original SDL3 authority; the canonical parser still validates every resulting documentation link.",
+  "links": [
+    { "from": "CategoryGPU#vulkan", "to": "https://wiki.libsdl.org/SDL3/CategoryGPU#vulkan" },
+    { "from": "CategoryGPU#d3d12", "to": "https://wiki.libsdl.org/SDL3/CategoryGPU#d3d12" },
+    { "from": "CategoryGPU#metal", "to": "https://wiki.libsdl.org/SDL3/CategoryGPU#metal" },
+    { "from": "CategoryAudio#channel-layouts", "to": "https://wiki.libsdl.org/SDL3/CategoryAudio#channel-layouts" },
+    { "from": "README-wayland", "to": "https://wiki.libsdl.org/SDL3/README-wayland" },
+    { "from": "#remarks", "to": "https://wiki.libsdl.org/SDL3/SDL_PeepEvents#remarks" }
+  ]
+}
