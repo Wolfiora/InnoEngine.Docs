@@ -6,6 +6,8 @@ Product documentation explains the implemented engine to users and extension aut
 
 Use the pinned engine source for declarations and XML, the engine's actual manifests for project/API identity, and Markdown for tutorials and cross-member explanation. Active prose is English. Preserve legal text, historical quotations, and exact identifiers. Describe unsupported and unverified behavior accurately.
 
+Each API manifest records its captured source revision and tree independently of the current documentation candidate. Preserve those immutable source links when unchanged facts are reused. Changing the candidate revision alone must not rewrite every API page. Revalidate compatibility against the new engine input before certifying it; old captured facts or a matching declaration hash alone do not establish current source behavior. When extraction changes, bind the new facts and their actual capture provenance together.
+
 ## Page purpose
 
 Every page has one primary purpose: landing, tutorial, how-to, explanation, project overview, API reference, or troubleshooting. Begin with what the reader can learn or accomplish. Use one H1, meaningful section headings, focused paragraphs, and descriptive links. Do not create empty template sections.

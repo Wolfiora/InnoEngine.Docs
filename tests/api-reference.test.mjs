@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, readFile, writeFile, readdir, rm } from 'node:fs/promises';
+import { mkdtemp, mkdir, readFile, writeFile, readdir, rm, stat } from 'node:fs/promises';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import os from 'node:os';
@@ -30,7 +30,7 @@ async function fixture(t) {
   const projects = JSON.stringify([{ name: 'Probe', path: 'src/Probe.csproj', surfaces: ['source-clr'] }]);
   const binding = { repository: 'https://github.com/Wolfiora/InnoEngine', revision: 'a'.repeat(40), sourceTree: 'b'.repeat(40),
     projectManifest: 'reference/projects.json', projectManifestIdentity: hash(projects),
-    apiManifests: [{ path: 'reference/api.json', model: 'source-clr', configuration: 'Debug', target: null, sha256: '' }] };
+    apiManifests: [{ path: 'reference/api.json', sourceRevision: 'a'.repeat(40), sourceTree: 'b'.repeat(40), model: 'source-clr', configuration: 'Debug', target: null, sha256: '' }] };
   const contract = '# Ownership\n\nKeep the lease alive.\n';
   const catalog = { revision: binding.revision, sourceTree: binding.sourceTree,
     pages: [{ id: 'shared-contract', path: 'content/en/contract.md', contentIdentity: hash(contract), sections: { ownership: 1 },
@@ -49,8 +49,29 @@ async function fixture(t) {
     '-Facts', 'reference/api.json', '-Project', 'Probe', '-Contract', 'shared-contract#ownership',
     '-OutputDirectory', output, '-OwnershipManifest', 'reference/provenance/probe.json',
     '-Catalog', 'artifacts/catalog.json', ...extra], { cwd: root });
-  return { root, facts, write, run, bind, page: path.join(root, 'content/en/api/probe/value.md') };
+  return { root, facts, binding, catalog, write, run, bind, page: path.join(root, 'content/en/api/probe/value.md') };
 }
+
+test('candidate rebinding preserves unchanged captured source pages and rejects missing provenance', async (t) => {
+  const f = await fixture(t);
+  await f.run();
+  const first = await readFile(f.page, 'utf8');
+  const publishedTime = (await stat(f.page)).mtimeMs;
+  f.binding.revision = 'c'.repeat(40);
+  f.binding.sourceTree = 'd'.repeat(40);
+  f.catalog.revision = f.binding.revision;
+  f.catalog.sourceTree = f.binding.sourceTree;
+  await f.bind();
+  await f.write('artifacts/catalog.json', JSON.stringify(f.catalog));
+  await f.run();
+  assert.equal(await readFile(f.page, 'utf8'), first);
+  assert.equal((await stat(f.page)).mtimeMs, publishedTime);
+  assert.ok(first.includes('/blob/' + 'a'.repeat(40) + '/src/Probe.cs#L1'));
+  f.binding.apiManifests[0].sourceRevision = 'main';
+  await f.bind();
+  await assert.rejects(f.run(), /exact captured source revision and tree/);
+  assert.equal(await readFile(f.page, 'utf8'), first);
+});
 
 test('reference generation preserves exact declarations, XML constraints and shared contracts', async (t) => {
   const f = await fixture(t);

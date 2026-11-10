@@ -21,3 +21,9 @@ Refreshing generated source links to the new engine revision changed 3,473 page 
 ## Scope limits
 
 Only 14 of the 252 project entries are currently present. Generated page count is not a migration completion denominator. Full English coverage, external validator cutover, legacy query removal, API certification, paired CI, platform execution and publication remain open. The old Architecture query entry is still captured as an existing API, not declared removed. No website deployment or source execution certificate is claimed by these checks.
+
+## Captured API provenance
+
+API manifests now require their own exact captured revision and source tree. The reference writer uses that capture for source links instead of the documentation candidate's moving revision. A candidate-only rebind with unchanged facts preserves page bytes and modification times. Source behavior compatibility still requires separate certification; the capture is not automatically trusted as current execution evidence.
+
+Nineteen writer/projection tests passed, including candidate rebinding, immutable source links, missing provenance, changed declarations and protected authored edits. The existing 3,527-page rendered output passed the updated projection checks without rebuilding the site. The explicit index confirmation parsed zero pages, retained the current generation without rewriting its manifest, and took 27.393 seconds (21.572 seconds confirming owner registrations). This remains an observed IO cost, not prepared-query latency or proof of a stable warm upper bound.

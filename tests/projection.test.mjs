@@ -97,7 +97,7 @@ async function apiFixture(t) {
   ] });
   const projects = JSON.stringify([{ name: 'Probe', path: 'src/Probe.csproj', surfaces: ['source-clr'] }]);
   f.binding.projectManifestIdentity = digest(projects);
-  f.binding.apiManifests = [{ path: 'reference/api.json', sha256: digest(facts), model: 'source-clr', configuration: 'Debug' }];
+  f.binding.apiManifests = [{ path: 'reference/api.json', sourceRevision: 'a'.repeat(40), sourceTree: 'b'.repeat(40), sha256: digest(facts), model: 'source-clr', configuration: 'Debug' }];
   await f.write('reference/projects.json', projects);
   await f.write('reference/api.json', facts);
   await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
@@ -133,4 +133,13 @@ test('tampered API reference payload cannot supply declaration evidence', async 
   const f = await apiFixture(t);
   await f.write('reference/api.json', '{}');
   assert.match((await checkProjection(f)).errors.join('\n'), /API manifest identity differs/);
+});
+
+test('API captures require immutable provenance even when declarations match', async (t) => {
+  const f = await apiFixture(t);
+  delete f.binding.apiManifests[0].sourceRevision;
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  const result = await checkProjection(f);
+  assert.equal(result.status, 'Failed');
+  assert.match(result.errors.join('\n'), /captured source revision and tree/);
 });

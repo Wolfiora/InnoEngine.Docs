@@ -89,6 +89,9 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
   const observed = new Map();
   const key = (project, surface, id) => `${project}\0${surface}\0${id}`;
   for (const reference of binding.apiManifests ?? []) {
+    if (!/^[a-f0-9]{40}$/.test(reference.sourceRevision ?? '') || !/^[a-f0-9]{40}$/.test(reference.sourceTree ?? '')) {
+      errors.push(`API manifest requires its captured source revision and tree: ${reference.path}.`);
+    }
     const bytes = await readOwned(root, reference.path);
     if (digest(bytes) !== reference.sha256) {
       errors.push(`API manifest identity differs: ${reference.path}.`);

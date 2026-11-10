@@ -108,7 +108,7 @@ function Add-Declaration($Lines, $Symbol, $Type) {
     $Lines.AddRange([string[]]@(('## ' + $label), '', ('<a id="' + (Anchor $Symbol.id) + '"></a>'),
         ('<!-- api: ' + $Symbol.id + ' ' + $Symbol.signatureHash + ' -->'), '', '```csharp', $Symbol.signature, '```', ''))
     $Lines.AddRange([string[]]@(Contract-Lines $Symbol))
-    $Lines.Add(''); $Lines.Add('[Source declaration](' + $binding.repository + '/blob/' + $binding.revision + '/' + $Symbol.source + '#L' + $Symbol.line + ').'); $Lines.Add('')
+    $Lines.Add(''); $Lines.Add('[Source declaration](' + $binding.repository + '/blob/' + $sourceRevision + '/' + $Symbol.source + '#L' + $Symbol.line + ').'); $Lines.Add('')
 }
 function Prepare-Page([string]$Relative, $Lines) {
     $absolute = Resolve-Owned $Relative
@@ -152,6 +152,10 @@ if ($XmlLinks) {
 }
 $bound = @($binding.apiManifests | Where-Object { $_.path -ceq $Facts.Replace('\', '/') -and $_.sha256 -ceq $factIdentity })
 if ($bound.Count -ne 1) { throw 'API facts are not exactly bound by engine.lock.json.' }
+$sourceRevision = $bound[0].sourceRevision
+if ($sourceRevision -cnotmatch '^[a-f0-9]{40}$' -or $bound[0].sourceTree -cnotmatch '^[a-f0-9]{40}$') {
+    throw 'API facts require their exact captured source revision and tree; the current documentation candidate is not an implicit substitute.'
+}
 $factsModel = $utf8.GetString($factsBytes) | ConvertFrom-Json
 if ($factsModel.model -cne $bound[0].model -or $factsModel.configuration -cne $bound[0].configuration -or $factsModel.target -cne $bound[0].target) { throw 'Bound API context differs from extraction.' }
 $selected = @($factsModel.projects | Where-Object name -CEQ $Project)
@@ -282,7 +286,7 @@ foreach ($old in $owned.Keys) {
     if ((Hash ([IO.File]::ReadAllBytes($absolute))) -cne $owned[$old]) { throw 'A retired generated page contains an authored change.' }
     [IO.File]::Delete($absolute)
 }
-$record = [ordered]@{project=$Project; outputDirectory=$OutputDirectory; sourceRevision=$binding.revision; facts=$Facts; factsIdentity=$factIdentity;
+$record = [ordered]@{project=$Project; outputDirectory=$OutputDirectory; sourceRevision=$sourceRevision; sourceTree=$bound[0].sourceTree; facts=$Facts; factsIdentity=$factIdentity;
     sharedContract=$Contract; sharedAbi=[bool]$SharedAbi; xmlLinks=$XmlLinks; xmlLinksIdentity=$xmlLinkIdentity;
     files=@($prepared | ForEach-Object { [ordered]@{path=$_.path;sha256=$_.sha256} })}
 Atomic-Write $ownershipPath $utf8.GetBytes(($record | ConvertTo-Json -Depth 8).Replace("`r`n", "`n"))
