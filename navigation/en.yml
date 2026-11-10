@@ -23,12 +23,17 @@
     - label: Application storage
       items:
         - slug: manual/storage/save-data
+    - label: Audio
+      items:
+        - slug: manual/audio/play-audio
+        - slug: manual/audio/mix-audio
 - label: Architecture
   items:
     - slug: architecture/overview
     - slug: architecture/ownership
     - slug: architecture/build-artifacts
     - slug: architecture/editor-generations
+    - slug: architecture/audio-lifetime
 - label: Extending InnoEngine
   items:
     - slug: extending
@@ -40,6 +45,7 @@
     - slug: extending/editor-selection
     - slug: extending/editor-history
     - slug: extending/editor-state
+    - slug: extending/audio-content
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -75,6 +81,12 @@
         - slug: api/projects/inno-storage-runtime
         - slug: api/projects/inno-adapter-storage
         - slug: api/projects/inno-adapter-storage-filesystem
+    - label: Audio reference
+      items:
+        - slug: api/projects/inno-audio
+        - slug: api/projects/inno-audio-runtime
+        - slug: api/projects/inno-audio-assets
+        - slug: api/projects/inno-adapter-audio
     - label: Native integration reference
       items:
         - slug: api/projects/inno-native-libraryloading

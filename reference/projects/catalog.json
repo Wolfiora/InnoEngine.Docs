@@ -551,8 +551,10 @@
   {
     "name": "Inno.Adapter.Audio",
     "path": "src/adapters/audio/Inno.Adapter.Audio/Inno.Adapter.Audio.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-audio.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1145,22 +1147,28 @@
   {
     "name": "Inno.Audio.Assets",
     "path": "src/services/audio/Inno.Audio.Assets/Inno.Audio.Assets.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-audio-assets.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Audio.Runtime",
     "path": "src/services/audio/Inno.Audio.Runtime/Inno.Audio.Runtime.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-audio-runtime.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Audio",
     "path": "src/services/audio/Inno.Audio/Inno.Audio.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-audio.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

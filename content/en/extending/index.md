@@ -30,6 +30,8 @@ Use the shared [selection](editor-selection.md), [History](editor-history.md) an
 
 ## Discovery is not ownership
 
+[Provide audio from host content](audio-content.md) maps a scene or another host content model into bounded emitter and listener snapshots without retaining plugin objects on the audio thread.
+
 Discovery identifies an extension and its stable metadata. The owning registry/host decides how it is constructed, activated, and retired. Do not manually invoke lifecycle callbacks or create a parallel discovery system to bypass that owner.
 
 ## Keep public and internal behavior distinct

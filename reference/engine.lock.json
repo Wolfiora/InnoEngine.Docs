@@ -3,7 +3,7 @@
   "revision": "417557eb7687c7b488b67e0131430e9675feb496",
   "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "65998a9f5f87833ae46ede101418772aa0d6d84d2d3985e8822c5cf719cc677e",
+  "projectManifestIdentity": "28d399e6d99b6dffdf553473ee32b3c39c1f9444284fb301292be8e906f353da",
   "toolingRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
   "apiManifests": [
     {
@@ -58,6 +58,15 @@
       "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
       "model": "source-clr",
       "configuration": "Debug",
+      "target": null
+    },
+    {
+      "model": "source-clr",
+      "configuration": "Debug",
+      "path": "reference/api/audio.json",
+      "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+      "sha256": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
+      "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
       "target": null
     }
   ]

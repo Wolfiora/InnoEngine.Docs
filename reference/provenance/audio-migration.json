@@ -1,0 +1,125 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "reviews": [
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-adapter-audio.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "e127d59dcd15146a08e496f31940b06372804f464495f421a2165272991c8f53",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Adapter.Audio.md",
+      "missing": [],
+      "symbols": 25,
+      "project": "Inno.Adapter.Audio"
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-audio-assets.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "a5ddd8469bb308ec4e0351274d2c50c55d5fe289b45ae8379ffbf92cdd2263fc",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Audio.Assets.md",
+      "missing": [],
+      "symbols": 4,
+      "project": "Inno.Audio.Assets"
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-audio.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "7ad066d366aad57ce749c0f89af5f788d1049af29cb291aba5199802ffdce5de",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Audio.md",
+      "missing": [],
+      "symbols": 0,
+      "project": "Inno.Audio"
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-audio-runtime.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "bf26e35fb3ffac613592444bcef12a156843093e305ad2856ff5c89993ac6d13",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Audio.Runtime.md",
+      "missing": [],
+      "symbols": 61,
+      "project": "Inno.Audio.Runtime"
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "62c8275d790f1d34235bc4d76ed17823739f184d0aafe3214466befe0f075953",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/README.md",
+      "missing": [],
+      "symbols": 0,
+      "project": null
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-audio.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "f15f39c8fbf0793c8f4ccb053b3f3f104d7ba71ada2a612f0a264d3f1cfea0fd",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Audio/api.md",
+      "missing": [],
+      "symbols": 483,
+      "project": "Inno.Audio"
+    },
+    {
+      "destinations": [
+        "content/en/manual/audio/play-audio.md",
+        "content/en/manual/audio/mix-audio.md",
+        "content/en/extending/audio-content.md",
+        "content/en/architecture/audio-lifetime.md",
+        "content/en/api/projects/inno-audio-runtime.md"
+      ],
+      "note": "Preserve the original contracts in task, project and lifecycle pages. Separate host/device identities from Runtime script playback; retain provider batching, preload rollback, completion backpressure, replacement and pending-retirement obligations. Import metadata validation does not certify decoder support.",
+      "changedSignatures": [],
+      "sourceSha256": "83af252589f9f448e0d698cf65945e3545eeaee1d68e3b2ae79a43510275c375",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "source": "docs/modules/audio/Inno.Audio.Runtime/api.md",
+      "missing": [],
+      "symbols": 0,
+      "project": "Inno.Audio.Runtime"
+    }
+  ],
+  "sourceApiStatus": "Unverified",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4"
+}

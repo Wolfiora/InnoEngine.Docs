@@ -11,7 +11,7 @@
       "symbols": 12,
       "missing": [],
       "changedSignatures": [],
-      "status": "NarrativeReferencesAndExamplePassedRenderedBatchPending",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
       "note": "Correct outdated narrative claiming a parameterless provider and string creation argument. Actual signatures require a host root and StorageScope. Retain gate, path and cancellation obligations."
     },
     {
@@ -22,7 +22,7 @@
       "symbols": 23,
       "missing": [],
       "changedSignatures": [],
-      "status": "NarrativeReferencesAndExamplePassedRenderedBatchPending",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
       "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
     },
     {
@@ -33,7 +33,7 @@
       "symbols": 16,
       "missing": [],
       "changedSignatures": [],
-      "status": "NarrativeReferencesAndExamplePassedRenderedBatchPending",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
       "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
     },
     {
@@ -44,7 +44,7 @@
       "symbols": 35,
       "missing": [],
       "changedSignatures": [],
-      "status": "NarrativeReferencesAndExamplePassedRenderedBatchPending",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
       "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
     },
     {
@@ -55,7 +55,7 @@
       "symbols": 0,
       "missing": [],
       "changedSignatures": [],
-      "status": "NarrativeReferencesAndExamplePassedRenderedBatchPending",
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
       "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
     }
   ]

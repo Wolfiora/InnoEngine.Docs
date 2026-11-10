@@ -21,6 +21,11 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Read keyboard, pointer and text input](input/read-input.md) during the active runtime frame.
 - [Save and load application data](storage/save-data.md) with logical keys and complete-value writes.
 
+## Audio
+
+- [Play and control audio](audio/play-audio.md), observe preparation and release preload ownership.
+- [Route audio through a mixer](audio/mix-audio.md) using semantic buses and validated processor chains.
+
 ## State, references, and lifetime
 
 - [Understand identity and Missing states](identity-and-missing.md).
