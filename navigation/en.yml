@@ -1,0 +1,36 @@
+- label: About InnoEngine
+  items:
+    - slug: about/introduction
+    - slug: about/glossary
+- label: Getting Started
+  items:
+    - slug: getting-started/prerequisites
+    - slug: getting-started/first-editor-session
+    - slug: getting-started/first-project
+- label: Manual
+  items:
+    - slug: manual
+    - label: Editor
+      items:
+        - slug: manual/editor/console
+    - slug: manual/identity-and-missing
+- label: Architecture
+  items:
+    - slug: architecture/overview
+    - slug: architecture/ownership
+- label: Extending InnoEngine
+  items:
+    - slug: extending
+    - slug: extending/customize-console
+- label: Platforms & Backends
+  items:
+    - slug: platforms
+    - slug: backends
+- label: API Reference
+  items:
+    - slug: api
+    - slug: api/projects/inno-tooling-documentation
+- label: Contributing
+  items:
+    - slug: contributing
+    - slug: contributing/documentation-queries

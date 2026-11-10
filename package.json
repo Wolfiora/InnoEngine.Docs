@@ -1,0 +1,26 @@
+{
+  "name": "innoengine-docs",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.21.0" },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "check": "astro check",
+    "build": "astro build",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "7.3.6",
+    "@astrojs/starlight": "0.42.10",
+    "astro": "7.4.8",
+    "yaml": "2.9.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.12",
+    "@playwright/test": "1.65.0",
+    "typescript": "6.0.3"
+  }
+}

@@ -1,0 +1,17 @@
+---
+import binding from '../../reference/engine.lock.json';
+const { entry } = Astro.locals.starlightRoute;
+const labels: Record<string, string> = {
+  landing: 'Documentation', tutorial: 'Getting started', 'how-to': 'Task guide',
+  explanation: 'Concepts & architecture', project: 'Project reference', api: 'API reference',
+  troubleshooting: 'Troubleshooting',
+};
+---
+<div class="document-context" id="_top">
+  <span class="document-kind">{labels[entry.data.kind] ?? 'Documentation'}</span>
+  <span class="development-badge" title="Documentation for the approved development source; not a stable release.">Development</span>
+  {entry.data.apiSurface && <span class="api-surface">{entry.data.apiSurface}</span>}
+  <a class="source-revision" href={`${binding.repository}/tree/${binding.revision}`} title="Exact engine source used by this documentation candidate">
+    Engine {binding.revision.slice(0, 8)}
+  </a>
+</div>
