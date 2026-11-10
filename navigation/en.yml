@@ -17,6 +17,9 @@
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
+    - label: Input
+      items:
+        - slug: manual/input/read-input
 - label: Architecture
   items:
     - slug: architecture/overview
@@ -58,6 +61,11 @@
         - slug: api/projects/inno-editor-settings
         - slug: api/projects/inno-editor-panel-stats
     - slug: api/projects/inno-core-identity
+    - label: Input reference
+      items:
+        - slug: api/projects/inno-input
+        - slug: api/projects/inno-input-runtime
+        - slug: api/projects/inno-adapter-input
     - label: Native integration reference
       items:
         - slug: api/projects/inno-native-libraryloading

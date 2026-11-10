@@ -36,6 +36,8 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs search
 
 Search returns navigation excerpts with match reasons and source locations. An excerpt is not a complete contract. Read the selected page or section and follow its necessary contract relationships before relying on the behavior.
 
+Heading terms rank above incidental body matches even when punctuation or connecting words differ. For example, `read keyboard pointer text input` locates the input task without requiring its exact title. Exact symbols, project identities and authored aliases remain explicit matches. Being an assembly overview does not give a page priority over a matching task.
+
 ```sh
 dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs read \
   --engine-root /work/InnoEngine --page extending.console-style --format json

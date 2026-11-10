@@ -1,0 +1,38 @@
+{
+  "project": "Inno.Input",
+  "outputDirectory": "content/en/api/types/input",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
+  "facts": "reference/api/input.json",
+  "factsIdentity": "e4fe9af430307866f93557b1e0ebbdc5352d9f821b56da4e316476195af38ffd",
+  "sharedContract": "project.inno-input#execution-and-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/input/iinputbackend.md",
+      "sha256": "b5a5cd21c8af7a256555f38ff13e345bd20b536f947bc2fa3e18da919dd8a057"
+    },
+    {
+      "path": "content/en/api/types/input/iinputservice.md",
+      "sha256": "213537546b0f9e1e653e7016dc7551259c7bf0ad0ee1094d35d61f319d61571f"
+    },
+    {
+      "path": "content/en/api/types/input/input.md",
+      "sha256": "e354cd2b8489e473be0aab6fb2cd033fb971977fd2a6f728dd76a75cfa51ac50"
+    },
+    {
+      "path": "content/en/api/types/input/inputexecutioncontext.md",
+      "sha256": "c709eee2df9ed19579018e4596dc0cd5307e174b4c53a2495f85b274db5734e3"
+    },
+    {
+      "path": "content/en/api/types/input/inputsnapshot.md",
+      "sha256": "6593316a2395ae882437bd5ee899f1fb3977ae1f2551a6017f3e676b7dc2a676"
+    },
+    {
+      "path": "content/en/api/types/input/index.md",
+      "sha256": "93e6681051e8a7961a977630079cf58b49243dfd5e030ffd9bc8f9e5b5dcc506"
+    }
+  ]
+}

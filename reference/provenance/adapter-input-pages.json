@@ -1,0 +1,50 @@
+{
+  "project": "Inno.Adapter.Input",
+  "outputDirectory": "content/en/api/types/adapter-input",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
+  "facts": "reference/api/input.json",
+  "factsIdentity": "e4fe9af430307866f93557b1e0ebbdc5352d9f821b56da4e316476195af38ffd",
+  "sharedContract": "project.inno-adapter-input#ownership-and-threading",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-input/eventinputbackend.md",
+      "sha256": "e0c5740d3d8db11cb10d1f3926f9eed9a6985dbae17dcd6787022f8e382c8e40"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/eventinputbackendprovider.md",
+      "sha256": "033aeca73880c3c1d692e68d1da8531a7c8d0bf0795129e7079678bfd8b88856"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/eventinputsource.md",
+      "sha256": "4e2bf6d79bdae943df1f5ab4faaf6cd55f8ebbacb1a0180afa02db346d724f74"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/iinputbackendfactory.md",
+      "sha256": "3fda0eb301b62be388642129a154ce5676c9767128d96183244f75f0dc55af02"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/iinputeventsource.md",
+      "sha256": "6eb548e6f7638a489be3884ccd45c42c7db83eac8cbe562ae12bdd774d5348e8"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/inputbackendcatalog.md",
+      "sha256": "8f0d31b7f0cd8e21bf8b63d914a8532bcefc4b666980e68efcffa68cd3e4defd"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/inputbackendid.md",
+      "sha256": "a98ee0fd45187fd8ea39c7dfc4df972c1844af199c25828c8208c43de015c044"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/inputbackendprovider.md",
+      "sha256": "a8903ef792d702127a69c64291010edef234f5dd629ec6030605493a39cc2dac"
+    },
+    {
+      "path": "content/en/api/types/adapter-input/index.md",
+      "sha256": "011a7ca662bd9cd13b4a454b899254f09494eb72e801cdc34ae8bdaaac56d669"
+    }
+  ]
+}

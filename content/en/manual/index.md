@@ -6,6 +6,8 @@ kind: landing
 ---
 # InnoEngine Manual
 
+[Read keyboard, pointer and text input](input/read-input.md) during an active runtime frame, with explicit session and event-consumption boundaries.
+
 The Manual explains how to use the engine's implemented capabilities. Start with a task, then follow its links to the exact contracts and architectural concepts it relies on.
 
 ## Editor and projects

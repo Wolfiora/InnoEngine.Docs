@@ -1,0 +1,47 @@
+{
+  "toolingRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "snapshot": "cc09d932f441e46f90e611cbb5d2ec75cbd44313294ce2d854c579d4e5a8014c",
+  "contentIdentity": "d76af29120a5803eaed841214cc1f1e7dd3c96a85b63b3f6c779638caf5dbb5e",
+  "platform": "Windows x64",
+  "sdk": "10.0.402",
+  "query": "read keyboard pointer text input",
+  "scope": "Prepared snapshot CLI queries, including process startup; no SDK evaluation, Native preparation or network",
+  "samples": [
+    {
+      "elapsedMilliseconds": 758.2376,
+      "bytes": 4250,
+      "sections": 5,
+      "firstPage": "manual.input.read-input",
+      "reason": "All query terms in heading"
+    },
+    {
+      "elapsedMilliseconds": 769.6249,
+      "bytes": 4250,
+      "sections": 5,
+      "firstPage": "manual.input.read-input",
+      "reason": "All query terms in heading"
+    },
+    {
+      "elapsedMilliseconds": 788.3154,
+      "bytes": 4250,
+      "sections": 5,
+      "firstPage": "manual.input.read-input",
+      "reason": "All query terms in heading"
+    },
+    {
+      "elapsedMilliseconds": 824.8336,
+      "bytes": 4250,
+      "sections": 5,
+      "firstPage": "manual.input.read-input",
+      "reason": "All query terms in heading"
+    },
+    {
+      "elapsedMilliseconds": 792.7648,
+      "bytes": 4250,
+      "sections": 5,
+      "firstPage": "manual.input.read-input",
+      "reason": "All query terms in heading"
+    }
+  ],
+  "medianMilliseconds": 788.3154
+}

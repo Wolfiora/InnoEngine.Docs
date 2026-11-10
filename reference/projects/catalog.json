@@ -563,8 +563,10 @@
   {
     "name": "Inno.Adapter.Input",
     "path": "src/adapters/input/Inno.Adapter.Input/Inno.Adapter.Input.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-input.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1160,15 +1162,19 @@
   {
     "name": "Inno.Input.Runtime",
     "path": "src/services/input/Inno.Input.Runtime/Inno.Input.Runtime.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-input-runtime.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Input",
     "path": "src/services/input/Inno.Input/Inno.Input.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-input.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
