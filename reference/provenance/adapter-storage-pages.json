@@ -1,0 +1,34 @@
+{
+  "project": "Inno.Adapter.Storage",
+  "outputDirectory": "content/en/api/types/adapter-storage",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/storage.json",
+  "factsIdentity": "e91c49ca8f818d771e7ed720d773ca8e9bdbb3e88278f056697d703b7c219195",
+  "sharedContract": "project.inno-adapter-storage#ownership-and-scope-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-storage/istoragebackendfactory.md",
+      "sha256": "b4c099561297ac053d53dcb2ad32019949191ab8da33bac5681d324d4e088e30"
+    },
+    {
+      "path": "content/en/api/types/adapter-storage/storagebackendcatalog.md",
+      "sha256": "92c2f2318256288c4c3d1575ee66a3c8e07d021ed35260302ab09d0a31297fd2"
+    },
+    {
+      "path": "content/en/api/types/adapter-storage/storagebackendid.md",
+      "sha256": "b439d5e097b20e669159733892e54875fdbb1e8424c40fcf4735f3ccb8bb4b58"
+    },
+    {
+      "path": "content/en/api/types/adapter-storage/storagebackendprovider.md",
+      "sha256": "2e1ef3a44e7cf5c967796b744e6b1fbe7c9752426129f225f7f8c4e404c3533b"
+    },
+    {
+      "path": "content/en/api/types/adapter-storage/index.md",
+      "sha256": "3063f43596a51ba6bf8acf1efbd8e2a287b6cf6ec53cf221f7fc385a5ed0c858"
+    }
+  ]
+}

@@ -6,8 +6,6 @@ kind: landing
 ---
 # InnoEngine Manual
 
-[Read keyboard, pointer and text input](input/read-input.md) during an active runtime frame, with explicit session and event-consumption boundaries.
-
 The Manual explains how to use the engine's implemented capabilities. Start with a task, then follow its links to the exact contracts and architectural concepts it relies on.
 
 ## Editor and projects
@@ -17,6 +15,11 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Read logs and current diagnostics](editor/console.md), filter entries, copy details, and control clearing on Play.
 - [Read and publish statistics](editor/statistics.md) through stable feature contributions.
 - [Change settings](editor/settings.md) in the scope that owns their persistence.
+
+## Input and application data
+
+- [Read keyboard, pointer and text input](input/read-input.md) during the active runtime frame.
+- [Save and load application data](storage/save-data.md) with logical keys and complete-value writes.
 
 ## State, references, and lifetime
 

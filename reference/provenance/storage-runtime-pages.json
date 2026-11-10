@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Storage.Runtime",
+  "outputDirectory": "content/en/api/types/storage-runtime",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/storage.json",
+  "factsIdentity": "e91c49ca8f818d771e7ed720d773ca8e9bdbb3e88278f056697d703b7c219195",
+  "sharedContract": "project.inno-storage-runtime#admission-and-lifetime-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/storage-runtime/storageruntime.md",
+      "sha256": "4033940b9705ae00d83bc6f9c410011581df8054f7b3347b6778c7a965414c53"
+    },
+    {
+      "path": "content/en/api/types/storage-runtime/storageruntimefactory.md",
+      "sha256": "fd43bc0133a0e9d4bd802779e3b2f6d365f30afc623753bbb35b055a983d6929"
+    },
+    {
+      "path": "content/en/api/types/storage-runtime/index.md",
+      "sha256": "e1e834c81a9408705cb514a42415c600541e1bcfa2015cbbcfaef4804765c7e9"
+    }
+  ]
+}

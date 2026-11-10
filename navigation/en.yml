@@ -20,6 +20,9 @@
     - label: Input
       items:
         - slug: manual/input/read-input
+    - label: Application storage
+      items:
+        - slug: manual/storage/save-data
 - label: Architecture
   items:
     - slug: architecture/overview
@@ -66,6 +69,12 @@
         - slug: api/projects/inno-input
         - slug: api/projects/inno-input-runtime
         - slug: api/projects/inno-adapter-input
+    - label: Storage reference
+      items:
+        - slug: api/projects/inno-storage
+        - slug: api/projects/inno-storage-runtime
+        - slug: api/projects/inno-adapter-storage
+        - slug: api/projects/inno-adapter-storage-filesystem
     - label: Native integration reference
       items:
         - slug: api/projects/inno-native-libraryloading

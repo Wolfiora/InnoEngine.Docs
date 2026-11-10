@@ -79,8 +79,10 @@
   {
     "name": "Inno.Adapter.Storage.FileSystem",
     "path": "backends/FileSystem/runtime/Inno.Adapter.Storage.FileSystem/Inno.Adapter.Storage.FileSystem.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-storage-filesystem.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -600,8 +602,10 @@
   {
     "name": "Inno.Adapter.Storage",
     "path": "src/adapters/storage/Inno.Adapter.Storage/Inno.Adapter.Storage.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-storage.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1222,15 +1226,19 @@
   {
     "name": "Inno.Storage.Runtime",
     "path": "src/services/storage/Inno.Storage.Runtime/Inno.Storage.Runtime.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-storage-runtime.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Storage",
     "path": "src/services/storage/Inno.Storage/Inno.Storage.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-storage.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
