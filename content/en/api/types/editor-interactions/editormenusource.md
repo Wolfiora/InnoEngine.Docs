@@ -36,7 +36,7 @@ public abstract class Inno.Editor.Interactions.EditorMenuSource
 Contributes dynamic entries to one or more editor menu surfaces.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L8).
 
 ## `#ctor`
 
@@ -49,7 +49,7 @@ protected Inno.Editor.Interactions.EditorMenuSource.EditorMenuSource()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L8).
 
 ## `Build`
 
@@ -67,4 +67,4 @@ Adds context-dependent placements for the supplied menu request.
 **Parameter `builder`:** The collector that receives dynamic action placements.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSource.cs#L19).

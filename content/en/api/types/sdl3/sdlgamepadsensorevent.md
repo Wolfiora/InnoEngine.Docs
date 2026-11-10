@@ -41,7 +41,7 @@ public struct Inno.Native.Sdl3.SDLGamepadSensorEvent
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54975).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54975).
 
 ## `Data`
 
@@ -53,7 +53,7 @@ public Inno.Native.Sdl3.NativeArray_d2cb3a66fea745be Inno.Native.Sdl3.SDLGamepad
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54988).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54988).
 
 ## `Reserved`
 
@@ -65,7 +65,7 @@ public uint Inno.Native.Sdl3.SDLGamepadSensorEvent.Reserved
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54980).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54980).
 
 ## `Sensor`
 
@@ -77,7 +77,7 @@ public int Inno.Native.Sdl3.SDLGamepadSensorEvent.Sensor
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54986).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54986).
 
 ## `SensorTimestamp`
 
@@ -89,7 +89,7 @@ public ulong Inno.Native.Sdl3.SDLGamepadSensorEvent.SensorTimestamp
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54990).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54990).
 
 ## `Timestamp`
 
@@ -101,7 +101,7 @@ public ulong Inno.Native.Sdl3.SDLGamepadSensorEvent.Timestamp
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54982).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54982).
 
 ## `Type`
 
@@ -113,7 +113,7 @@ public Inno.Native.Sdl3.SDLEventType Inno.Native.Sdl3.SDLGamepadSensorEvent.Type
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54978).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54978).
 
 ## `Which`
 
@@ -125,4 +125,4 @@ public uint Inno.Native.Sdl3.SDLGamepadSensorEvent.Which
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54984).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54984).

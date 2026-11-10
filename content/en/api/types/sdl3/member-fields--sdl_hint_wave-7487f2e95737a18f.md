@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_HINT_WAVE_CHUNK_LI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6190).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6190).
 
 ## `SDL_HINT_WAVE_FACT_CHUNK`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_HINT_WAVE_FACT_CHU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6339).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6339).
 
 ## `SDL_HINT_WAVE_RIFF_CHUNK_SIZE`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_HINT_WAVE_RIFF_CHU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6021).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6021).
 
 ## `SDL_HINT_WAVE_TRUNCATION`
 
@@ -62,4 +62,4 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_HINT_WAVE_TRUNCATI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5973).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5973).

@@ -38,7 +38,7 @@ public delegate void Inno.Native.Sdl3.SDLAudioPostmixCallback(void* argument0, I
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
 
 ## `#ctor`
 
@@ -51,7 +51,7 @@ public Inno.Native.Sdl3.SDLAudioPostmixCallback.SDLAudioPostmixCallback(object @
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
 
 ## `BeginInvoke`
 
@@ -64,7 +64,7 @@ public virtual System.IAsyncResult Inno.Native.Sdl3.SDLAudioPostmixCallback.Begi
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
 
 ## `EndInvoke`
 
@@ -77,7 +77,7 @@ public virtual void Inno.Native.Sdl3.SDLAudioPostmixCallback.EndInvoke(System.IA
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
 
 ## `Invoke`
 
@@ -90,4 +90,4 @@ public virtual void Inno.Native.Sdl3.SDLAudioPostmixCallback.Invoke(void* argume
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53415).

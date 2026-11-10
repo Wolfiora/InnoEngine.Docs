@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_BACKGROUND_B
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5090).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5090).
 
 ## `SDL_PROP_PROCESS_CREATE_ARGS_POINTER`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_ARGS_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4833).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4833).
 
 ## `SDL_PROP_PROCESS_CREATE_BACKGROUND_BOOLEAN`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_BACKG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5382).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5382).
 
 ## `SDL_PROP_PROCESS_CREATE_CMDLINE_STRING`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_CMDLI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5245).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5245).
 
 ## `SDL_PROP_PROCESS_CREATE_ENVIRONMENT_POINTER`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_ENVIR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5247).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5247).
 
 ## `SDL_PROP_PROCESS_CREATE_STDERR_NUMBER`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5023).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5023).
 
 ## `SDL_PROP_PROCESS_CREATE_STDERR_POINTER`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4995).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4995).
 
 ## `SDL_PROP_PROCESS_CREATE_STDERR_TO_STDOUT_BOOLEAN`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5118).
 
 ## `SDL_PROP_PROCESS_CREATE_STDIN_NUMBER`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDIN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5325).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5325).
 
 ## `SDL_PROP_PROCESS_CREATE_STDIN_POINTER`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDIN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4946).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4946).
 
 ## `SDL_PROP_PROCESS_CREATE_STDOUT_NUMBER`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDOU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5165).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5165).
 
 ## `SDL_PROP_PROCESS_CREATE_STDOUT_POINTER`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_STDOU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4874).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4874).
 
 ## `SDL_PROP_PROCESS_CREATE_WORKING_DIRECTORY_STRING`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_CREATE_WORKI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5178).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5178).
 
 ## `SDL_PROP_PROCESS_PID_NUMBER`
 
@@ -182,7 +182,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_PID_NUMBER =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5022).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5022).
 
 ## `SDL_PROP_PROCESS_STDERR_POINTER`
 
@@ -194,7 +194,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_STDERR_POINT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4892).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4892).
 
 ## `SDL_PROP_PROCESS_STDIN_POINTER`
 
@@ -206,7 +206,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_STDIN_POINTE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5234).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5234).
 
 ## `SDL_PROP_PROCESS_STDOUT_POINTER`
 
@@ -218,4 +218,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_PROCESS_STDOUT_POINT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5137).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5137).

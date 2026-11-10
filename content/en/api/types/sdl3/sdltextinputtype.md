@@ -43,7 +43,7 @@ public enum Inno.Native.Sdl3.SDLTextInputType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59696).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59696).
 
 ## `SDL_TEXTINPUT_TYPE_NUMBER`
 
@@ -55,7 +55,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_NUMBER = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59704).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59704).
 
 ## `SDL_TEXTINPUT_TYPE_NUMBER_PASSWORD_HIDDEN`
 
@@ -67,7 +67,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_NUMBER_PASSWORD_HIDDEN = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59705).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59705).
 
 ## `SDL_TEXTINPUT_TYPE_NUMBER_PASSWORD_VISIBLE`
 
@@ -79,7 +79,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_NUMBER_PASSWORD_VISIBLE = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59706).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59706).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT`
 
@@ -91,7 +91,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59698).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59698).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT_EMAIL`
 
@@ -103,7 +103,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT_EMAIL = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59700).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59700).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT_NAME`
 
@@ -115,7 +115,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT_NAME = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59699).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59699).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT_PASSWORD_HIDDEN`
 
@@ -127,7 +127,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT_PASSWORD_HIDDEN = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59702).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59702).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT_PASSWORD_VISIBLE`
 
@@ -139,7 +139,7 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT_PASSWORD_VISIBLE = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59703).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59703).
 
 ## `SDL_TEXTINPUT_TYPE_TEXT_USERNAME`
 
@@ -151,4 +151,4 @@ Inno.Native.Sdl3.SDLTextInputType.SDL_TEXTINPUT_TYPE_TEXT_USERNAME = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59701).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59701).

@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Interactions.EditorToolbarItemAttribute : System
 Places an editor action on a compact toolbar surface.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -70,7 +70,7 @@ Creates a toolbar placement for the annotated targetless action.
 **Throws `System.ArgumentOutOfRangeException`:** Thrown when an icon value is not defined.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L37).
 
 ## `activeIcon`
 
@@ -84,7 +84,7 @@ public Inno.Editor.Interactions.EditorToolbarIcon Inno.Editor.Interactions.Edito
 Gets the optional replacement symbol shown while the action is checked.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L75).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L75).
 
 ## `area`
 
@@ -98,7 +98,7 @@ public string Inno.Editor.Interactions.EditorToolbarItemAttribute.area { get; }
 Gets the exact toolbar interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L65).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L65).
 
 ## `icon`
 
@@ -112,7 +112,7 @@ public Inno.Editor.Interactions.EditorToolbarIcon Inno.Editor.Interactions.Edito
 Gets the symbol shown while the action is not checked.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L70).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L70).
 
 ## `order`
 
@@ -126,7 +126,7 @@ public int Inno.Editor.Interactions.EditorToolbarItemAttribute.order { get; }
 Gets the stable ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L85).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L85).
 
 ## `tooltip`
 
@@ -140,4 +140,4 @@ public string Inno.Editor.Interactions.EditorToolbarItemAttribute.tooltip { get;
 Gets the fallback tooltip.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L80).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItemAttribute.cs#L80).

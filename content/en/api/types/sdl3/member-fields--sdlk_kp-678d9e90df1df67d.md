@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_0 = 1073741922
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5640).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5640).
 
 ## `SDLK_KP_00`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_00 = 1073742000
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5707).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5707).
 
 ## `SDLK_KP_000`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_000 = 1073742001
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5791).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5791).
 
 ## `SDLK_KP_1`
 
@@ -62,7 +62,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_1 = 1073741913
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5552).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5552).
 
 ## `SDLK_KP_2`
 
@@ -74,7 +74,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_2 = 1073741914
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5799).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5799).
 
 ## `SDLK_KP_3`
 
@@ -86,7 +86,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_3 = 1073741915
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5435).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5435).
 
 ## `SDLK_KP_4`
 
@@ -98,7 +98,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_4 = 1073741916
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5800).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5800).
 
 ## `SDLK_KP_5`
 
@@ -110,7 +110,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_5 = 1073741917
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5785).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5785).
 
 ## `SDLK_KP_6`
 
@@ -122,7 +122,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_6 = 1073741918
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5831).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5831).
 
 ## `SDLK_KP_7`
 
@@ -134,7 +134,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_7 = 1073741919
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5771).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5771).
 
 ## `SDLK_KP_8`
 
@@ -146,7 +146,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_8 = 1073741920
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5770).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5770).
 
 ## `SDLK_KP_9`
 
@@ -158,7 +158,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_9 = 1073741921
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5575).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5575).
 
 ## `SDLK_KP_A`
 
@@ -170,7 +170,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_A = 1073742012
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5786).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5786).
 
 ## `SDLK_KP_AMPERSAND`
 
@@ -182,7 +182,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_AMPERSAND = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5541).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5541).
 
 ## `SDLK_KP_AT`
 
@@ -194,7 +194,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_AT = 1073742030
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5735).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5735).
 
 ## `SDLK_KP_B`
 
@@ -206,7 +206,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_B = 1073742013
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5521).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5521).
 
 ## `SDLK_KP_BACKSPACE`
 
@@ -218,7 +218,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_BACKSPACE = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5511).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5511).
 
 ## `SDLK_KP_BINARY`
 
@@ -230,7 +230,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_BINARY = 1073742
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5453).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5453).
 
 ## `SDLK_KP_C`
 
@@ -242,7 +242,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_C = 1073742014
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5870).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5870).
 
 ## `SDLK_KP_CLEAR`
 
@@ -254,7 +254,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_CLEAR = 10737420
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5444).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5444).
 
 ## `SDLK_KP_CLEARENTRY`
 
@@ -266,7 +266,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_CLEARENTRY = 107
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5616).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5616).
 
 ## `SDLK_KP_COLON`
 
@@ -278,7 +278,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_COLON = 10737420
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5720).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5720).
 
 ## `SDLK_KP_COMMA`
 
@@ -290,7 +290,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_COMMA = 10737419
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5526).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5526).
 
 ## `SDLK_KP_D`
 
@@ -302,7 +302,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_D = 1073742015
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5704).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5704).
 
 ## `SDLK_KP_DBLAMPERSAND`
 
@@ -314,7 +314,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_DBLAMPERSAND = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5776).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5776).
 
 ## `SDLK_KP_DBLVERTICALBAR`
 
@@ -326,7 +326,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_DBLVERTICALBAR =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5460).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5460).
 
 ## `SDLK_KP_DECIMAL`
 
@@ -338,7 +338,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_DECIMAL = 107374
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5496).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5496).
 
 ## `SDLK_KP_DIVIDE`
 
@@ -350,7 +350,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_DIVIDE = 1073741
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5755).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5755).
 
 ## `SDLK_KP_E`
 
@@ -362,7 +362,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_E = 1073742016
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5691).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5691).
 
 ## `SDLK_KP_ENTER`
 
@@ -374,7 +374,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_ENTER = 10737419
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5672).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5672).
 
 ## `SDLK_KP_EQUALS`
 
@@ -386,7 +386,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_EQUALS = 1073741
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5850).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5850).
 
 ## `SDLK_KP_EQUALSAS400`
 
@@ -398,7 +398,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_EQUALSAS400 = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5501).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5501).
 
 ## `SDLK_KP_EXCLAM`
 
@@ -410,7 +410,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_EXCLAM = 1073742
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5761).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5761).
 
 ## `SDLK_KP_F`
 
@@ -422,7 +422,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_F = 1073742017
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5665).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5665).
 
 ## `SDLK_KP_GREATER`
 
@@ -434,7 +434,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_GREATER = 107374
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5630).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5630).
 
 ## `SDLK_KP_HASH`
 
@@ -446,7 +446,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_HASH = 107374202
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5428).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5428).
 
 ## `SDLK_KP_HEXADECIMAL`
 
@@ -458,7 +458,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_HEXADECIMAL = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5557).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5557).
 
 ## `SDLK_KP_LEFTBRACE`
 
@@ -470,7 +470,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_LEFTBRACE = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5583).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5583).
 
 ## `SDLK_KP_LEFTPAREN`
 
@@ -482,7 +482,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_LEFTPAREN = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5573).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5573).
 
 ## `SDLK_KP_LESS`
 
@@ -494,7 +494,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_LESS = 107374202
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5645).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5645).
 
 ## `SDLK_KP_MEMADD`
 
@@ -506,7 +506,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMADD = 1073742
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5680).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5680).
 
 ## `SDLK_KP_MEMCLEAR`
 
@@ -518,7 +518,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMCLEAR = 10737
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5765).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5765).
 
 ## `SDLK_KP_MEMDIVIDE`
 
@@ -530,7 +530,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMDIVIDE = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5803).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5803).
 
 ## `SDLK_KP_MEMMULTIPLY`
 
@@ -542,7 +542,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMMULTIPLY = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5560).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5560).
 
 ## `SDLK_KP_MEMRECALL`
 
@@ -554,7 +554,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMRECALL = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5679).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5679).
 
 ## `SDLK_KP_MEMSTORE`
 
@@ -566,7 +566,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMSTORE = 10737
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5615).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5615).
 
 ## `SDLK_KP_MEMSUBTRACT`
 
@@ -578,7 +578,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MEMSUBTRACT = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5628).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5628).
 
 ## `SDLK_KP_MINUS`
 
@@ -590,7 +590,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MINUS = 10737419
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5505).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5505).
 
 ## `SDLK_KP_MULTIPLY`
 
@@ -602,7 +602,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_MULTIPLY = 10737
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5823).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5823).
 
 ## `SDLK_KP_OCTAL`
 
@@ -614,7 +614,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_OCTAL = 10737420
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5798).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5798).
 
 ## `SDLK_KP_PERCENT`
 
@@ -626,7 +626,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_PERCENT = 107374
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5629).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5629).
 
 ## `SDLK_KP_PERIOD`
 
@@ -638,7 +638,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_PERIOD = 1073741
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5662).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5662).
 
 ## `SDLK_KP_PLUS`
 
@@ -650,7 +650,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_PLUS = 107374191
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5843).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5843).
 
 ## `SDLK_KP_PLUSMINUS`
 
@@ -662,7 +662,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_PLUSMINUS = 1073
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5681).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5681).
 
 ## `SDLK_KP_POWER`
 
@@ -674,7 +674,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_POWER = 10737420
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5482).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5482).
 
 ## `SDLK_KP_RIGHTBRACE`
 
@@ -686,7 +686,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_RIGHTBRACE = 107
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5492).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5492).
 
 ## `SDLK_KP_RIGHTPAREN`
 
@@ -698,7 +698,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_RIGHTPAREN = 107
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5528).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5528).
 
 ## `SDLK_KP_SPACE`
 
@@ -710,7 +710,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_SPACE = 10737420
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5838).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5838).
 
 ## `SDLK_KP_TAB`
 
@@ -722,7 +722,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_TAB = 1073742010
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5421).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5421).
 
 ## `SDLK_KP_VERTICALBAR`
 
@@ -734,7 +734,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_VERTICALBAR = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5697).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5697).
 
 ## `SDLK_KP_XOR`
 
@@ -746,4 +746,4 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDLK_KP_XOR = 1073742018
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5670).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5670).

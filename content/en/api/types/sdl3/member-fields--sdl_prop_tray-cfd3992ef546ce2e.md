@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_I
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6162).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6162).
 
 ## `SDL_PROP_TRAY_CREATE_LEFTCLICK_CALLBACK_POINTER`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_L
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6200).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6200).
 
 ## `SDL_PROP_TRAY_CREATE_MIDDLECLICK_CALLBACK_POINTER`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_M
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5975).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5975).
 
 ## `SDL_PROP_TRAY_CREATE_RIGHTCLICK_CALLBACK_POINTER`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_R
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6030).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6030).
 
 ## `SDL_PROP_TRAY_CREATE_TOOLTIP_STRING`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6357).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6357).
 
 ## `SDL_PROP_TRAY_CREATE_USERDATA_POINTER`
 
@@ -86,4 +86,4 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TRAY_CREATE_U
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6203).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6203).

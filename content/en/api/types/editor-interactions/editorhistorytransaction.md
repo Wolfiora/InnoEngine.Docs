@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryTransaction : System.I
 Collects several history operations into one atomic undo and redo entry.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L8).
 
 ## `Commit`
 
@@ -56,7 +56,7 @@ Commits all recorded child operations as one atomic history entry.
 **Throws `System.InvalidOperationException`:** Thrown when the transaction is no longer active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L36).
 
 ## `Dispose`
 
@@ -70,7 +70,7 @@ public void Inno.Editor.Interactions.EditorHistoryTransaction.Dispose()
 Rolls back an uncommitted transaction before releasing it.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L66).
 
 ## `Rollback`
 
@@ -88,7 +88,7 @@ Reverts every operation recorded by the transaction and does not add a history e
 **Throws `System.InvalidOperationException`:** Thrown when the transaction is no longer active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L52).
 
 ## `name`
 
@@ -102,4 +102,4 @@ public string Inno.Editor.Interactions.EditorHistoryTransaction.name { get; }
 Gets the user-facing name assigned to the transaction.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryTransaction.cs#L26).

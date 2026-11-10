@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_THREAD_CREATE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6206).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6206).
 
 ## `SDL_PROP_THREAD_CREATE_NAME_STRING`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_THREAD_CREATE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6319).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6319).
 
 ## `SDL_PROP_THREAD_CREATE_STACKSIZE_NUMBER`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_THREAD_CREATE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6195).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6195).
 
 ## `SDL_PROP_THREAD_CREATE_USERDATA_POINTER`
 
@@ -62,4 +62,4 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_THREAD_CREATE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6437).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6437).

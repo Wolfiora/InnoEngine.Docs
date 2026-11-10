@@ -45,7 +45,7 @@ public readonly record struct Inno.Editor.Core.EditorStatisticGroupId : System.I
 Identifies one visual group in the editor statistics presentation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `#ctor`
 
@@ -63,7 +63,7 @@ Creates a globally stable statistic-group identifier.
 **Throws `System.ArgumentException`:** Thrown when `value` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L60).
 
 ## `Equals`
 
@@ -81,7 +81,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `Equals`
 
@@ -99,7 +99,7 @@ Indicates whether this instance and a specified object are equal.
 **Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `GetHashCode`
 
@@ -115,7 +115,7 @@ Returns the hash code for this instance.
 **Returns:** A 32-bit signed integer that is the hash code for this instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `op_Equality`
 
@@ -128,7 +128,7 @@ public static bool Inno.Editor.Core.EditorStatisticGroupId.operator ==(Inno.Edit
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `op_Inequality`
 
@@ -141,7 +141,7 @@ public static bool Inno.Editor.Core.EditorStatisticGroupId.operator !=(Inno.Edit
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L49).
 
 ## `ToString`
 
@@ -157,7 +157,7 @@ Formats this value as a human-readable representation.
 **Returns:** The human-readable representation of this value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L82).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L82).
 
 ## `isValid`
 
@@ -171,7 +171,7 @@ public bool Inno.Editor.Core.EditorStatisticGroupId.isValid { get; }
 Gets whether this identifier contains a usable value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L74).
 
 ## `value`
 
@@ -185,4 +185,4 @@ public string Inno.Editor.Core.EditorStatisticGroupId.value { get; }
 Gets the globally stable identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L69).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L69).

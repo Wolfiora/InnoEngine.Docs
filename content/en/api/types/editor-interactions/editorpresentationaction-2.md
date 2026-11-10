@@ -41,7 +41,7 @@ Defines a target action with a typed presentation-only argument.
 **Type parameter `TPresentation`:** The presentation data type.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L350).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L350).
 
 ## `#ctor`
 
@@ -54,7 +54,7 @@ protected Inno.Editor.Interactions.EditorPresentationAction<TTarget, TPresentati
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L350).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L350).
 
 ## `Present`
 
@@ -72,7 +72,7 @@ Presents active content using strongly typed presentation data.
 **Returns:** `true` when content was presented.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L372).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L372).
 
 ## `Present`
 
@@ -90,4 +90,4 @@ Presents this action through the current editor interaction surface.
 **Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L361).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L361).

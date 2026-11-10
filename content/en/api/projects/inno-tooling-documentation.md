@@ -57,3 +57,7 @@ Path escape, invalid ownership, corrupt payloads, duplicate authority and includ
 The library uses the existing Core IO atomic publication and file leases together with the build cache ownership registry. It does not invent an independent cleanup authority. Current generations, their page dependencies and active readers must remain protected during retirement.
 
 Unchanged immutable page registrations are confirmed through `BuildCachePublisher.EnsureImmutableRegistration`. Confirmation checks ownership, dependencies, lease identity and payload size without updating the publication record's age. The documentation publisher separately verifies the actual payload hash. Size accounting is never a substitute for content integrity. Current-generation dependencies and active leases provide protection; reading a registration alone does not protect an artifact.
+
+## API reference
+
+[Browse documentation tooling types](../types/tooling-documentation/index.md) for exact requests, results, cancellation, ownership and continuation contracts.

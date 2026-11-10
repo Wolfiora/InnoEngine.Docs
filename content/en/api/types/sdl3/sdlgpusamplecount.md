@@ -38,7 +38,7 @@ public enum Inno.Native.Sdl3.SDLGPUSampleCount : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56077).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56077).
 
 ## `SDL_GPU_SAMPLECOUNT_1`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLGPUSampleCount.SDL_GPU_SAMPLECOUNT_1 = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56079).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56079).
 
 ## `SDL_GPU_SAMPLECOUNT_2`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLGPUSampleCount.SDL_GPU_SAMPLECOUNT_2 = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56080).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56080).
 
 ## `SDL_GPU_SAMPLECOUNT_4`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLGPUSampleCount.SDL_GPU_SAMPLECOUNT_4 = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56081).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56081).
 
 ## `SDL_GPU_SAMPLECOUNT_8`
 
@@ -86,4 +86,4 @@ Inno.Native.Sdl3.SDLGPUSampleCount.SDL_GPU_SAMPLECOUNT_8 = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56082).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56082).

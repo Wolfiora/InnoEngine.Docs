@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Core.EditorModuleAttribute : System.Attribute
 Registers an editor feature module with a stable identity for automatic discovery.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -58,7 +58,7 @@ module state.
 **Throws `System.ArgumentException`:** Thrown when `id` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L24).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L24).
 
 ## `id`
 
@@ -72,7 +72,7 @@ public string Inno.Editor.Core.EditorModuleAttribute.id { get; }
 Gets the stable module identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L37).
 
 ## `order`
 
@@ -86,4 +86,4 @@ public int Inno.Editor.Core.EditorModuleAttribute.order { get; }
 Gets the stable lifecycle order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModuleAttribute.cs#L42).

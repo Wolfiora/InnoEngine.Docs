@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Diagnostics.EditorConsoleSnapshot
 Provides one immutable and internally consistent view of editor Console state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L9).
 
 ## `groups`
 
@@ -51,7 +51,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Diagnostics.EditorCo
 Gets global fingerprint groups ordered by their latest occurrence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L34).
 
 ## `occurrences`
 
@@ -65,7 +65,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Diagnostics.EditorCo
 Gets every current occurrence in chronological arrival order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L29).
 
 ## `revision`
 
@@ -79,4 +79,4 @@ public long Inno.Editor.Diagnostics.EditorConsoleSnapshot.revision { get; }
 Gets the monotonic revision of the captured Console state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L24).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleSnapshot.cs#L24).

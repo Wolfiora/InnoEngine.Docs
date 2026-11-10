@@ -41,7 +41,7 @@ public enum Inno.Editor.Interactions.EditorViewportCursor : int
 Selects a presentation-independent cursor requested by a viewport tool.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L33).
 
 ## `Arrow`
 
@@ -55,7 +55,7 @@ Inno.Editor.Interactions.EditorViewportCursor.Arrow = 0
 Uses the normal arrow cursor.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L38).
 
 ## `Crosshair`
 
@@ -69,7 +69,7 @@ Inno.Editor.Interactions.EditorViewportCursor.Crosshair = 1
 Uses a precise crosshair.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L42).
 
 ## `Hand`
 
@@ -83,7 +83,7 @@ Inno.Editor.Interactions.EditorViewportCursor.Hand = 2
 Uses a hand suitable for panning.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L46).
 
 ## `Hidden`
 
@@ -97,7 +97,7 @@ Inno.Editor.Interactions.EditorViewportCursor.Hidden = 6
 Hides the pointer while the tool owns it.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L62).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L62).
 
 ## `Move`
 
@@ -111,7 +111,7 @@ Inno.Editor.Interactions.EditorViewportCursor.Move = 3
 Uses four-direction movement arrows.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L50).
 
 ## `ResizeHorizontal`
 
@@ -125,7 +125,7 @@ Inno.Editor.Interactions.EditorViewportCursor.ResizeHorizontal = 4
 Uses horizontal resizing arrows.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L54).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L54).
 
 ## `ResizeVertical`
 
@@ -139,4 +139,4 @@ Inno.Editor.Interactions.EditorViewportCursor.ResizeVertical = 5
 Uses vertical resizing arrows.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportTool.cs#L58).

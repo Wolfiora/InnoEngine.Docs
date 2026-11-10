@@ -42,7 +42,7 @@ public interface Inno.Editor.Interactions.IEditorDocumentService
 Owns single-instance editor documents independently from reloadable providers and presentation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L28).
 
 ## `Apply`
 
@@ -60,7 +60,7 @@ Applies staged changes through the current provider.
 **Returns:** `true` when changes are applied.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L122).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L122).
 
 ## `Close`
 
@@ -80,7 +80,7 @@ Closes one document using an explicit dirty-document decision.
 **Returns:** `true` when the document closed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L147).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L147).
 
 ## `Open`
 
@@ -100,7 +100,7 @@ Opens a document or returns its existing single instance.
 **Returns:** The stable document context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L58).
 
 ## `RegisterProvider`
 
@@ -118,7 +118,7 @@ Registers one current-generation document provider.
 **Returns:** A lease that detaches only this provider instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L44).
 
 ## `Revert`
 
@@ -136,7 +136,7 @@ Reverts staged changes through the current provider.
 **Returns:** `true` when changes are reverted.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L133).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L133).
 
 ## `Save`
 
@@ -154,7 +154,7 @@ Saves one open document through its current provider.
 **Returns:** `true` when the document is saved.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L103).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L103).
 
 ## `SaveAll`
 
@@ -170,7 +170,7 @@ Saves every dirty open document.
 **Returns:** `true` when every dirty document is saved.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L111).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L111).
 
 ## `SetDirty`
 
@@ -188,7 +188,7 @@ Updates a document's unsaved state without saving, discarding or changing its Hi
 **Parameter `isDirty`:** Whether the provider's current draft differs from its saved baseline.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L89).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L89).
 
 ## `UpdateAssetPath`
 
@@ -208,7 +208,7 @@ Updates an open document's source location after an identity-preserving asset mo
 **Returns:** Whether the document exists.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L75).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L75).
 
 ## `documents`
 
@@ -222,4 +222,4 @@ System.Collections.Generic.IReadOnlyList<Inno.Editor.Interactions.EditorDocument
 Gets the currently owned source documents.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L33).

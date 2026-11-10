@@ -40,7 +40,7 @@ public enum Inno.Editor.Interactions.EditorToolbarIcon : int
 Identifies a presentation-independent symbol for an editor toolbar command.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L6).
 
 ## `Edit`
 
@@ -54,7 +54,7 @@ Inno.Editor.Interactions.EditorToolbarIcon.Edit = 5
 Returns to an editing state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L36).
 
 ## `None`
 
@@ -68,7 +68,7 @@ Inno.Editor.Interactions.EditorToolbarIcon.None = 0
 No symbol is requested.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L11).
 
 ## `Pause`
 
@@ -82,7 +82,7 @@ Inno.Editor.Interactions.EditorToolbarIcon.Pause = 3
 Pauses an operation or simulation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L26).
 
 ## `Play`
 
@@ -96,7 +96,7 @@ Inno.Editor.Interactions.EditorToolbarIcon.Play = 1
 Starts an operation or simulation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L16).
 
 ## `Step`
 
@@ -110,7 +110,7 @@ Inno.Editor.Interactions.EditorToolbarIcon.Step = 4
 Advances a paused operation by one step.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L31).
 
 ## `Stop`
 
@@ -124,4 +124,4 @@ Inno.Editor.Interactions.EditorToolbarIcon.Stop = 2
 Stops an operation or simulation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarIcon.cs#L21).

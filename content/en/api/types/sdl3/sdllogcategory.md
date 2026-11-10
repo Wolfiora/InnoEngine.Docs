@@ -54,7 +54,7 @@ public enum Inno.Native.Sdl3.SDLLogCategory : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57918).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57918).
 
 ## `SDL_LOG_CATEGORY_APPLICATION`
 
@@ -66,7 +66,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_APPLICATION = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57920).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57920).
 
 ## `SDL_LOG_CATEGORY_ASSERT`
 
@@ -78,7 +78,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_ASSERT = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57922).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57922).
 
 ## `SDL_LOG_CATEGORY_AUDIO`
 
@@ -90,7 +90,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_AUDIO = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57924).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57924).
 
 ## `SDL_LOG_CATEGORY_CUSTOM`
 
@@ -102,7 +102,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_CUSTOM = 19
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57939).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57939).
 
 ## `SDL_LOG_CATEGORY_ERROR`
 
@@ -114,7 +114,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_ERROR = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57921).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57921).
 
 ## `SDL_LOG_CATEGORY_GPU`
 
@@ -126,7 +126,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_GPU = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57929).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57929).
 
 ## `SDL_LOG_CATEGORY_INPUT`
 
@@ -138,7 +138,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_INPUT = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57927).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57927).
 
 ## `SDL_LOG_CATEGORY_RENDER`
 
@@ -150,7 +150,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RENDER = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57926).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57926).
 
 ## `SDL_LOG_CATEGORY_RESERVED10`
 
@@ -162,7 +162,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED10 = 18
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57938).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57938).
 
 ## `SDL_LOG_CATEGORY_RESERVED2`
 
@@ -174,7 +174,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED2 = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57930).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57930).
 
 ## `SDL_LOG_CATEGORY_RESERVED3`
 
@@ -186,7 +186,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED3 = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57931).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57931).
 
 ## `SDL_LOG_CATEGORY_RESERVED4`
 
@@ -198,7 +198,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED4 = 12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57932).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57932).
 
 ## `SDL_LOG_CATEGORY_RESERVED5`
 
@@ -210,7 +210,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED5 = 13
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57933).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57933).
 
 ## `SDL_LOG_CATEGORY_RESERVED6`
 
@@ -222,7 +222,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED6 = 14
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57934).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57934).
 
 ## `SDL_LOG_CATEGORY_RESERVED7`
 
@@ -234,7 +234,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED7 = 15
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57935).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57935).
 
 ## `SDL_LOG_CATEGORY_RESERVED8`
 
@@ -246,7 +246,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED8 = 16
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57936).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57936).
 
 ## `SDL_LOG_CATEGORY_RESERVED9`
 
@@ -258,7 +258,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_RESERVED9 = 17
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57937).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57937).
 
 ## `SDL_LOG_CATEGORY_SYSTEM`
 
@@ -270,7 +270,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_SYSTEM = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57923).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57923).
 
 ## `SDL_LOG_CATEGORY_TEST`
 
@@ -282,7 +282,7 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_TEST = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57928).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57928).
 
 ## `SDL_LOG_CATEGORY_VIDEO`
 
@@ -294,4 +294,4 @@ Inno.Native.Sdl3.SDLLogCategory.SDL_LOG_CATEGORY_VIDEO = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57925).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57925).

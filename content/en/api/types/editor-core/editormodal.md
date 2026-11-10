@@ -46,7 +46,7 @@ public abstract class Inno.Editor.Core.EditorModal
 Defines non-dockable modal editor content.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L10).
 
 ## `#ctor`
 
@@ -59,7 +59,7 @@ protected Inno.Editor.Core.EditorModal.EditorModal()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L10).
 
 ## `Draw`
 
@@ -77,7 +77,7 @@ Draws the modal body inside the runtime-managed centered window.
 **Throws `System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L60).
 
 ## `OnDraw`
 
@@ -93,7 +93,7 @@ Draws the modal body inside the runtime-managed centered window.
 **Parameter `context`:** The shared editor context containing current project and frame state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L103).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L103).
 
 ## `OnPrepare`
 
@@ -114,7 +114,7 @@ Content-sized modals must return a finite, nonnegative size. Fixed-size modals m
 **Returns:** The content extent required by the captured state, or null for explicit sizing.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L118).
 
 ## `Prepare`
 
@@ -139,7 +139,7 @@ explicitly sized resizable windows prepare after current input establishes their
 **Throws `System.ArgumentOutOfRangeException`:** The available extent is not finite and positive.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L86).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L86).
 
 ## `allowScrolling`
 
@@ -154,7 +154,7 @@ Gets whether the modal window owns scrolling when its content overflows.
 Disable this when a child region owns all scrolling.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L36).
 
 ## `blocksInteraction`
 
@@ -168,7 +168,7 @@ public virtual bool Inno.Editor.Core.EditorModal.blocksInteraction { get; }
 Gets whether the modal prevents interaction with regular editor views.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L20).
 
 ## `canMove`
 
@@ -182,7 +182,7 @@ public virtual bool Inno.Editor.Core.EditorModal.canMove { get; }
 Gets whether the modal window can be moved inside the main viewport.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L25).
 
 ## `canResize`
 
@@ -196,7 +196,7 @@ public virtual bool Inno.Editor.Core.EditorModal.canResize { get; }
 Gets whether the modal window can be resized by the user.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L30).
 
 ## `initialSize`
 
@@ -211,7 +211,7 @@ Gets the initial modal size in unscaled editor units, or `System.Numerics.Vector
 when the runtime should size the modal from its content.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L42).
 
 ## `isVisible`
 
@@ -225,7 +225,7 @@ public abstract bool Inno.Editor.Core.EditorModal.isVisible { get; }
 Gets whether the modal should currently be visible.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L15).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L15).
 
 ## `minimumSize`
 
@@ -240,4 +240,4 @@ Gets the minimum modal size in unscaled editor units, or `System.Numerics.Vector
 when no explicit minimum is required.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModal.cs#L48).

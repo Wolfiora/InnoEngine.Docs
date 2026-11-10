@@ -39,7 +39,7 @@ public enum Inno.Editor.Interactions.EditorDropVisual : int
 Defines the standard visual used for a compatible drop target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L6).
 
 ## `Disabled`
 
@@ -53,7 +53,7 @@ Inno.Editor.Interactions.EditorDropVisual.Disabled = 4
 Draw a disabled target visual.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L31).
 
 ## `Highlight`
 
@@ -67,7 +67,7 @@ Inno.Editor.Interactions.EditorDropVisual.Highlight = 1
 Draw a content highlight.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L16).
 
 ## `InsertAfter`
 
@@ -81,7 +81,7 @@ Inno.Editor.Interactions.EditorDropVisual.InsertAfter = 3
 Draw an insertion line after the target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L26).
 
 ## `InsertBefore`
 
@@ -95,7 +95,7 @@ Inno.Editor.Interactions.EditorDropVisual.InsertBefore = 2
 Draw an insertion line before the target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L21).
 
 ## `None`
 
@@ -109,4 +109,4 @@ Inno.Editor.Interactions.EditorDropVisual.None = 0
 No visual is drawn.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropVisual.cs#L11).

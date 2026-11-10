@@ -46,7 +46,7 @@ Defines a target action that requires one strongly typed command argument.
 **Type parameter `TArgument`:** The command argument type accepted by the action.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L196).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L196).
 
 ## `#ctor`
 
@@ -59,7 +59,7 @@ protected Inno.Editor.Interactions.EditorAction<TTarget, TArgument>.EditorAction
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L196).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L196).
 
 ## `Execute`
 
@@ -75,7 +75,7 @@ Applies the editor action to the supplied interaction context.
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L223).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L223).
 
 ## `Execute`
 
@@ -91,7 +91,7 @@ Executes the action for a typed target and argument.
 **Parameter `context`:** The typed contextual request.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L259).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L259).
 
 ## `Present`
 
@@ -109,7 +109,7 @@ Presents this action through the current editor interaction surface.
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L242).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L242).
 
 ## `Present`
 
@@ -127,7 +127,7 @@ Presents an active action for a typed target and argument.
 **Returns:** `true` when content was presented.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L269).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L269).
 
 ## `Query`
 
@@ -145,7 +145,7 @@ Evaluates the operation's current availability and presentation state.
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L213).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L213).
 
 ## `Query`
 
@@ -163,7 +163,7 @@ Evaluates the action for a typed target and argument.
 **Returns:** The current presentation and availability state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L252).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L252).
 
 ## `targetType`
 
@@ -177,4 +177,4 @@ public override sealed System.Type Inno.Editor.Interactions.EditorAction<TTarget
 Gets the concrete type handled by this extension implementation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L201).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorAction.cs#L201).

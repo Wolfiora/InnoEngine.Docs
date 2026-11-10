@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_DIRECT3D_THRE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5342).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5342).
 
 ## `SDL_HINT_RENDER_DIRECT3D11_DEBUG`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_DIRECT3D11_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4844).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4844).
 
 ## `SDL_HINT_RENDER_DIRECT3D11_WARP`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_DIRECT3D11_WA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4826).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4826).
 
 ## `SDL_HINT_RENDER_DRIVER`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_DRIVER = "SDL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5272).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5272).
 
 ## `SDL_HINT_RENDER_GPU_DEBUG`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_GPU_DEBUG = "
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5341).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5341).
 
 ## `SDL_HINT_RENDER_GPU_LOW_POWER`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_GPU_LOW_POWER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5093).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5093).
 
 ## `SDL_HINT_RENDER_LINE_METHOD`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_LINE_METHOD =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5296).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5296).
 
 ## `SDL_HINT_RENDER_METAL_PREFER_LOW_POWER_DEVICE`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_METAL_PREFER_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4838).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4838).
 
 ## `SDL_HINT_RENDER_VSYNC`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_VSYNC = "SDL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5164).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5164).
 
 ## `SDL_HINT_RENDER_VULKAN_DEBUG`
 
@@ -134,4 +134,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_RENDER_VULKAN_DEBUG 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4983).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4983).

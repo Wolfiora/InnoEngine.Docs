@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_BUFFER_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6036).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6036).
 
 ## `SDL_PROP_GPU_COMPUTEPIPELINE_CREATE_NAME_STRING`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_COMPUTEPI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5882).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5882).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_D3D12_AGILITY_SDK_PATH_STRING`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6044).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6044).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_D3D12_AGILITY_SDK_VERSION_NUMBER`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6122).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6122).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_D3D12_ALLOW_FEWER_RESOURCE_SLOTS_BOOLEAN`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6187).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6187).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_D3D12_SEMANTIC_NAME_STRING`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5992).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5992).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_DEBUGMODE_BOOLEAN`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6315).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6315).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_FEATURE_ANISOTROPY_BOOLEAN`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5939).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5939).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_FEATURE_CLIP_DISTANCE_BOOLEAN`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6076).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6076).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_FEATURE_DEPTH_CLAMPING_BOOLEAN`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6192).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6192).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_FEATURE_INDIRECT_DRAW_FIRST_INSTANCE_BOOLEAN`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6108).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6108).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_METAL_ALLOW_MACFAMILY1_BOOLEAN`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6421).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6421).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_NAME_STRING`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6422).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6422).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_PREFERLOWPOWER_BOOLEAN`
 
@@ -182,7 +182,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5885).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5885).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_DXBC_BOOLEAN`
 
@@ -194,7 +194,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6347).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6347).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_DXIL_BOOLEAN`
 
@@ -206,7 +206,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6233).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6233).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_METALLIB_BOOLEAN`
 
@@ -218,7 +218,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6337).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6337).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_MSL_BOOLEAN`
 
@@ -230,7 +230,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6391).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6391).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_PRIVATE_BOOLEAN`
 
@@ -242,7 +242,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6461).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6461).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_SHADERS_SPIRV_BOOLEAN`
 
@@ -254,7 +254,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6106).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6106).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_VERBOSE_BOOLEAN`
 
@@ -266,7 +266,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6333).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6333).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_VULKAN_OPTIONS_POINTER`
 
@@ -278,7 +278,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5957).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5957).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_VULKAN_REQUIRE_HARDWARE_ACCELERATION_BOOLEAN`
 
@@ -290,7 +290,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5967).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5967).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_APPLICATION_NAME_STRING`
 
@@ -302,7 +302,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6361).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6361).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_APPLICATION_VERSION_NUMBER`
 
@@ -314,7 +314,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5951).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5951).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_ENABLE_BOOLEAN`
 
@@ -326,7 +326,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5960).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5960).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_ENGINE_NAME_STRING`
 
@@ -338,7 +338,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5958).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5958).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_ENGINE_VERSION_NUMBER`
 
@@ -350,7 +350,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6027).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6027).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_EXTENSION_COUNT_NUMBER`
 
@@ -362,7 +362,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6164).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6164).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_EXTENSION_NAMES_POINTER`
 
@@ -374,7 +374,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5889).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5889).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_FORM_FACTOR_NUMBER`
 
@@ -386,7 +386,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6205).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6205).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_INSTANCE_POINTER`
 
@@ -398,7 +398,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5953).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5953).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_LAYER_COUNT_NUMBER`
 
@@ -410,7 +410,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6397).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6397).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_LAYER_NAMES_POINTER`
 
@@ -422,7 +422,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6252).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6252).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_SYSTEM_ID_POINTER`
 
@@ -434,7 +434,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6125).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6125).
 
 ## `SDL_PROP_GPU_DEVICE_CREATE_XR_VERSION_NUMBER`
 
@@ -446,7 +446,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5894).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5894).
 
 ## `SDL_PROP_GPU_DEVICE_DRIVER_INFO_STRING`
 
@@ -458,7 +458,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_DR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6003).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6003).
 
 ## `SDL_PROP_GPU_DEVICE_DRIVER_NAME_STRING`
 
@@ -470,7 +470,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_DR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6231).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6231).
 
 ## `SDL_PROP_GPU_DEVICE_DRIVER_VERSION_STRING`
 
@@ -482,7 +482,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_DR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6042).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6042).
 
 ## `SDL_PROP_GPU_DEVICE_NAME_STRING`
 
@@ -494,7 +494,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_DEVICE_NA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6215).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6215).
 
 ## `SDL_PROP_GPU_GRAPHICSPIPELINE_CREATE_NAME_STRING`
 
@@ -506,7 +506,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_GRAPHICSP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5929).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5929).
 
 ## `SDL_PROP_GPU_SAMPLER_CREATE_NAME_STRING`
 
@@ -518,7 +518,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_SAMPLER_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6004).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6004).
 
 ## `SDL_PROP_GPU_SHADER_CREATE_NAME_STRING`
 
@@ -530,7 +530,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_SHADER_CR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6377).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6377).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_A_FLOAT`
 
@@ -542,7 +542,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5879).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5879).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_B_FLOAT`
 
@@ -554,7 +554,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6158).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6158).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_DEPTH_FLOAT`
 
@@ -566,7 +566,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6009).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6009).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_G_FLOAT`
 
@@ -578,7 +578,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6099).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6099).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_R_FLOAT`
 
@@ -590,7 +590,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5907).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5907).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_D3D12_CLEAR_STENCIL_NUMBER`
 
@@ -602,7 +602,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6291).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6291).
 
 ## `SDL_PROP_GPU_TEXTURE_CREATE_NAME_STRING`
 
@@ -614,7 +614,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TEXTURE_C
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6383).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6383).
 
 ## `SDL_PROP_GPU_TRANSFERBUFFER_CREATE_NAME_STRING`
 
@@ -626,4 +626,4 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_GPU_TRANSFERB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6328).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6328).

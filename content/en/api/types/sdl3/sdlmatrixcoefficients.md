@@ -49,7 +49,7 @@ public enum Inno.Native.Sdl3.SDLMatrixCoefficients : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57994).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57994).
 
 ## `SDL_MATRIX_COEFFICIENTS_BT2020_CL`
 
@@ -61,7 +61,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_BT2020_CL = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58005).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58005).
 
 ## `SDL_MATRIX_COEFFICIENTS_BT2020_NCL`
 
@@ -73,7 +73,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_BT2020_NCL = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58004).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58004).
 
 ## `SDL_MATRIX_COEFFICIENTS_BT470BG`
 
@@ -85,7 +85,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_BT470BG = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58000).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58000).
 
 ## `SDL_MATRIX_COEFFICIENTS_BT601`
 
@@ -97,7 +97,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_BT601 = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58001).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58001).
 
 ## `SDL_MATRIX_COEFFICIENTS_BT709`
 
@@ -109,7 +109,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_BT709 = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57997).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57997).
 
 ## `SDL_MATRIX_COEFFICIENTS_CHROMA_DERIVED_CL`
 
@@ -121,7 +121,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_CHROMA_DERIVED_CL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58008).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58008).
 
 ## `SDL_MATRIX_COEFFICIENTS_CHROMA_DERIVED_NCL`
 
@@ -133,7 +133,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_CHROMA_DERIVED_NC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58007).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58007).
 
 ## `SDL_MATRIX_COEFFICIENTS_CUSTOM`
 
@@ -145,7 +145,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_CUSTOM = 31
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58010).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58010).
 
 ## `SDL_MATRIX_COEFFICIENTS_FCC`
 
@@ -157,7 +157,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_FCC = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57999).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57999).
 
 ## `SDL_MATRIX_COEFFICIENTS_ICTCP`
 
@@ -169,7 +169,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_ICTCP = 14
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58009).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58009).
 
 ## `SDL_MATRIX_COEFFICIENTS_IDENTITY`
 
@@ -181,7 +181,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_IDENTITY = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57996).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57996).
 
 ## `SDL_MATRIX_COEFFICIENTS_SMPTE2085`
 
@@ -193,7 +193,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_SMPTE2085 = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58006).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58006).
 
 ## `SDL_MATRIX_COEFFICIENTS_SMPTE240`
 
@@ -205,7 +205,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_SMPTE240 = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58002).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58002).
 
 ## `SDL_MATRIX_COEFFICIENTS_UNSPECIFIED`
 
@@ -217,7 +217,7 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_UNSPECIFIED = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57998).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57998).
 
 ## `SDL_MATRIX_COEFFICIENTS_YCGCO`
 
@@ -229,4 +229,4 @@ Inno.Native.Sdl3.SDLMatrixCoefficients.SDL_MATRIX_COEFFICIENTS_YCGCO = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58003).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58003).

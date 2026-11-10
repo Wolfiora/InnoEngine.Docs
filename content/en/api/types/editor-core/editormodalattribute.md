@@ -38,7 +38,7 @@ public sealed class Inno.Editor.Core.EditorModalAttribute : System.Attribute
 Registers a centered editor modal for automatic discovery.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -60,7 +60,7 @@ Creates a centered modal registration with a stable identity and draw order.
 **Throws `System.ArgumentException`:** Thrown when `id` or `title` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L26).
 
 ## `id`
 
@@ -74,7 +74,7 @@ public string Inno.Editor.Core.EditorModalAttribute.id { get; }
 Gets the stable modal identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L43).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L43).
 
 ## `order`
 
@@ -88,7 +88,7 @@ public int Inno.Editor.Core.EditorModalAttribute.order { get; }
 Gets the stable draw order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L53).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L53).
 
 ## `title`
 
@@ -102,4 +102,4 @@ public string Inno.Editor.Core.EditorModalAttribute.title { get; }
 Gets the visible modal title.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModalAttribute.cs#L48).

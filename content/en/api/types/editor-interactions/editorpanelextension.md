@@ -41,7 +41,7 @@ public sealed class Inno.Editor.Interactions.EditorPanelExtension
 Describes one active dockable panel extension.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L11).
 
 ## `Draw`
 
@@ -61,7 +61,7 @@ Safely draws the panel body and quarantines a failing extension instance.
 **Throws `System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L118).
 
 ## `TakeFocusRequest`
 
@@ -77,7 +77,7 @@ Consumes a pending request to focus this panel window.
 **Returns:** `true` once for each accepted focus request.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L64).
 
 ## `TryGetWindowPresentation`
 
@@ -99,7 +99,7 @@ Safely reads the panel window-presentation policy through the active extension b
 **Returns:** `true` when the policy was read without quarantining the panel.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L81).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L81).
 
 ## `id`
 
@@ -113,7 +113,7 @@ public string Inno.Editor.Interactions.EditorPanelExtension.id { get; }
 Gets the stable panel identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L37).
 
 ## `isOpen`
 
@@ -127,7 +127,7 @@ public bool Inno.Editor.Interactions.EditorPanelExtension.isOpen { get; set; }
 Gets or sets whether this panel is open in the current extension generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L52).
 
 ## `order`
 
@@ -141,7 +141,7 @@ public int Inno.Editor.Interactions.EditorPanelExtension.order { get; }
 Gets the stable panel ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L47).
 
 ## `title`
 
@@ -155,4 +155,4 @@ public string Inno.Editor.Interactions.EditorPanelExtension.title { get; }
 Gets the visible panel title.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorPanelExtension.cs#L42).

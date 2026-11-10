@@ -62,7 +62,7 @@ public enum Inno.Native.Sdl3.SDLGLAttr : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55066).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55066).
 
 ## `SDL_GL_ACCELERATED_VISUAL`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ACCELERATED_VISUAL = 15
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55083).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55083).
 
 ## `SDL_GL_ACCUM_ALPHA_SIZE`
 
@@ -86,7 +86,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ACCUM_ALPHA_SIZE = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55079).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55079).
 
 ## `SDL_GL_ACCUM_BLUE_SIZE`
 
@@ -98,7 +98,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ACCUM_BLUE_SIZE = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55078).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55078).
 
 ## `SDL_GL_ACCUM_GREEN_SIZE`
 
@@ -110,7 +110,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ACCUM_GREEN_SIZE = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55077).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55077).
 
 ## `SDL_GL_ACCUM_RED_SIZE`
 
@@ -122,7 +122,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ACCUM_RED_SIZE = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55076).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55076).
 
 ## `SDL_GL_ALPHA_SIZE`
 
@@ -134,7 +134,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_ALPHA_SIZE = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55071).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55071).
 
 ## `SDL_GL_BLUE_SIZE`
 
@@ -146,7 +146,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_BLUE_SIZE = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55070).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55070).
 
 ## `SDL_GL_BUFFER_SIZE`
 
@@ -158,7 +158,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_BUFFER_SIZE = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55072).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55072).
 
 ## `SDL_GL_CONTEXT_FLAGS`
 
@@ -170,7 +170,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_FLAGS = 19
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55087).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55087).
 
 ## `SDL_GL_CONTEXT_MAJOR_VERSION`
 
@@ -182,7 +182,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_MAJOR_VERSION = 17
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55085).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55085).
 
 ## `SDL_GL_CONTEXT_MINOR_VERSION`
 
@@ -194,7 +194,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_MINOR_VERSION = 18
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55086).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55086).
 
 ## `SDL_GL_CONTEXT_NO_ERROR`
 
@@ -206,7 +206,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_NO_ERROR = 25
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55093).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55093).
 
 ## `SDL_GL_CONTEXT_PROFILE_MASK`
 
@@ -218,7 +218,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_PROFILE_MASK = 20
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55088).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55088).
 
 ## `SDL_GL_CONTEXT_RELEASE_BEHAVIOR`
 
@@ -230,7 +230,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_RELEASE_BEHAVIOR = 23
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55091).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55091).
 
 ## `SDL_GL_CONTEXT_RESET_NOTIFICATION`
 
@@ -242,7 +242,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_CONTEXT_RESET_NOTIFICATION = 24
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55092).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55092).
 
 ## `SDL_GL_DEPTH_SIZE`
 
@@ -254,7 +254,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_DEPTH_SIZE = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55074).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55074).
 
 ## `SDL_GL_DOUBLEBUFFER`
 
@@ -266,7 +266,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_DOUBLEBUFFER = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55073).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55073).
 
 ## `SDL_GL_EGL_PLATFORM`
 
@@ -278,7 +278,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_EGL_PLATFORM = 27
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55095).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55095).
 
 ## `SDL_GL_FLOATBUFFERS`
 
@@ -290,7 +290,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_FLOATBUFFERS = 26
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55094).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55094).
 
 ## `SDL_GL_FRAMEBUFFER_SRGB_CAPABLE`
 
@@ -302,7 +302,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_FRAMEBUFFER_SRGB_CAPABLE = 22
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55090).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55090).
 
 ## `SDL_GL_GREEN_SIZE`
 
@@ -314,7 +314,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_GREEN_SIZE = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55069).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55069).
 
 ## `SDL_GL_MULTISAMPLEBUFFERS`
 
@@ -326,7 +326,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_MULTISAMPLEBUFFERS = 13
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55081).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55081).
 
 ## `SDL_GL_MULTISAMPLESAMPLES`
 
@@ -338,7 +338,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_MULTISAMPLESAMPLES = 14
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55082).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55082).
 
 ## `SDL_GL_RED_SIZE`
 
@@ -350,7 +350,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_RED_SIZE = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55068).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55068).
 
 ## `SDL_GL_RETAINED_BACKING`
 
@@ -362,7 +362,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_RETAINED_BACKING = 16
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55084).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55084).
 
 ## `SDL_GL_SHARE_WITH_CURRENT_CONTEXT`
 
@@ -374,7 +374,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_SHARE_WITH_CURRENT_CONTEXT = 21
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55089).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55089).
 
 ## `SDL_GL_STENCIL_SIZE`
 
@@ -386,7 +386,7 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_STENCIL_SIZE = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55075).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55075).
 
 ## `SDL_GL_STEREO`
 
@@ -398,4 +398,4 @@ Inno.Native.Sdl3.SDLGLAttr.SDL_GL_STEREO = 12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55080).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55080).

@@ -38,7 +38,7 @@ public enum Inno.Native.Sdl3.SDLGPUSwapchainComposition : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56362).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56362).
 
 ## `SDL_GPU_SWAPCHAINCOMPOSITION_HDR_EXTENDED_LINEAR`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLGPUSwapchainComposition.SDL_GPU_SWAPCHAINCOMPOSITION_HDR_EXT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56366).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56366).
 
 ## `SDL_GPU_SWAPCHAINCOMPOSITION_HDR10_ST2084`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLGPUSwapchainComposition.SDL_GPU_SWAPCHAINCOMPOSITION_HDR10_S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56367).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56367).
 
 ## `SDL_GPU_SWAPCHAINCOMPOSITION_SDR`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLGPUSwapchainComposition.SDL_GPU_SWAPCHAINCOMPOSITION_SDR = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56364).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56364).
 
 ## `SDL_GPU_SWAPCHAINCOMPOSITION_SDR_LINEAR`
 
@@ -86,4 +86,4 @@ Inno.Native.Sdl3.SDLGPUSwapchainComposition.SDL_GPU_SWAPCHAINCOMPOSITION_SDR_LIN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56365).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56365).

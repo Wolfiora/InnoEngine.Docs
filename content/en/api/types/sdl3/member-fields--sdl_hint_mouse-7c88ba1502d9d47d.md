@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_AUTO_CAPTURE =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4987).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4987).
 
 ## `SDL_HINT_MOUSE_DEFAULT_SYSTEM_CURSOR`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_DEFAULT_SYSTEM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5053).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5053).
 
 ## `SDL_HINT_MOUSE_DOUBLE_CLICK_RADIUS`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_DOUBLE_CLICK_R
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5238).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5238).
 
 ## `SDL_HINT_MOUSE_DOUBLE_CLICK_TIME`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_DOUBLE_CLICK_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5356).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5356).
 
 ## `SDL_HINT_MOUSE_DPI_SCALE_CURSORS`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_DPI_SCALE_CURS
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4938).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4938).
 
 ## `SDL_HINT_MOUSE_EMULATE_WARP_WITH_RELATIVE`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_EMULATE_WARP_W
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5038).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5038).
 
 ## `SDL_HINT_MOUSE_FOCUS_CLICKTHROUGH`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_FOCUS_CLICKTHR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5143).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5143).
 
 ## `SDL_HINT_MOUSE_NORMAL_SPEED_SCALE`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_NORMAL_SPEED_S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5152).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5152).
 
 ## `SDL_HINT_MOUSE_RELATIVE_CURSOR_VISIBLE`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_RELATIVE_CURSO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5016).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5016).
 
 ## `SDL_HINT_MOUSE_RELATIVE_MODE_CENTER`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_RELATIVE_MODE_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5047).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5047).
 
 ## `SDL_HINT_MOUSE_RELATIVE_SPEED_SCALE`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_RELATIVE_SPEED
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5312).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5312).
 
 ## `SDL_HINT_MOUSE_RELATIVE_SYSTEM_SCALE`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_RELATIVE_SYSTE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4930).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4930).
 
 ## `SDL_HINT_MOUSE_RELATIVE_WARP_MOTION`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_RELATIVE_WARP_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5031).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5031).
 
 ## `SDL_HINT_MOUSE_TOUCH_EVENTS`
 
@@ -182,4 +182,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_MOUSE_TOUCH_EVENTS =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4926).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4926).

@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Interactions.EditorPlanarNavigation
 Shares captured planar gestures and mouse-anchored zoom math between scene and graph canvases.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L9).
 
 ## `#ctor`
 
@@ -53,7 +53,7 @@ public Inno.Editor.Interactions.EditorPlanarNavigation.EditorPlanarNavigation()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L9).
 
 ## `Cancel`
 
@@ -67,7 +67,7 @@ public void Inno.Editor.Interactions.EditorPlanarNavigation.Cancel()
 Releases capture when a canvas closes or a gesture is cancelled.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L67).
 
 ## `Update`
 
@@ -97,7 +97,7 @@ Advances pointer capture using logical button state rather than window-local rel
 **Returns:** Whether this canvas owns the current pointer gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L45).
 
 ## `WheelFactor`
 
@@ -119,7 +119,7 @@ Converts wheel input to the common exponential magnification used by Editor canv
 **Throws `System.ArgumentOutOfRangeException`:** Input is non-finite or sensitivity is not positive.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L84).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L84).
 
 ## `ZoomOrigin`
 
@@ -145,7 +145,7 @@ Changes the screen-space origin so zoom preserves the same content point beneath
 **Throws `System.ArgumentOutOfRangeException`:** An input is non-finite or a scale is not positive.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L116).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L116).
 
 ## `isPanning`
 
@@ -159,4 +159,4 @@ public bool Inno.Editor.Interactions.EditorPlanarNavigation.isPanning { get; pri
 Gets whether this canvas owns a pan gesture, including while the pointer is outside its bounds.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorPlanarNavigation.cs#L16).

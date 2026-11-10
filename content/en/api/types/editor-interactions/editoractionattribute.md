@@ -39,7 +39,7 @@ public sealed class Inno.Editor.Interactions.EditorActionAttribute : System.Attr
 Registers an editor action for automatic discovery and dispatch.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -59,7 +59,7 @@ Creates an action registration available from every area.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L23).
 
 ## `#ctor`
 
@@ -81,7 +81,7 @@ Creates an action registration restricted to one exact area.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L46).
 
 ## `action`
 
@@ -95,7 +95,7 @@ public string Inno.Editor.Interactions.EditorActionAttribute.action { get; }
 Gets the stable action name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L61).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L61).
 
 ## `area`
 
@@ -109,7 +109,7 @@ public string Inno.Editor.Interactions.EditorActionAttribute.area { get; }
 Gets the optional exact interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L66).
 
 ## `priority`
 
@@ -123,4 +123,4 @@ public int Inno.Editor.Interactions.EditorActionAttribute.priority { get; }
 Gets the tie-breaking priority.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L71).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionAttribute.cs#L71).

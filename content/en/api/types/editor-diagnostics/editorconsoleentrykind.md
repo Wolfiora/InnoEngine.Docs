@@ -36,7 +36,7 @@ public enum Inno.Editor.Diagnostics.EditorConsoleEntryKind : int
 Identifies the source protocol represented by one editor Console occurrence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L6).
 
 ## `Diagnostic`
 
@@ -50,7 +50,7 @@ Inno.Editor.Diagnostics.EditorConsoleEntryKind.Diagnostic = 1
 The occurrence represents current state from a diagnostic producer.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L16).
 
 ## `Log`
 
@@ -64,4 +64,4 @@ Inno.Editor.Diagnostics.EditorConsoleEntryKind.Log = 0
 The occurrence was emitted through the runtime logging pipeline.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleEntryKind.cs#L11).

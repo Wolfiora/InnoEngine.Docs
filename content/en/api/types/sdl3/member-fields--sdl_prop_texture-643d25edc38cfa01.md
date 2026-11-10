@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_ACCES
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6141).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6141).
 
 ## `SDL_PROP_TEXTURE_COLORSPACE_NUMBER`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_COLOR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6380).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6380).
 
 ## `SDL_PROP_TEXTURE_CREATE_ACCESS_NUMBER`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5905).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5905).
 
 ## `SDL_PROP_TEXTURE_CREATE_COLORSPACE_NUMBER`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6373).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6373).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D11_TEXTURE_POINTER`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6385).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6385).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D11_TEXTURE_U_POINTER`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6073).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6073).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D11_TEXTURE_V_POINTER`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5903).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5903).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D12_TEXTURE_POINTER`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6285).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6285).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D12_TEXTURE_U_POINTER`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6014).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6014).
 
 ## `SDL_PROP_TEXTURE_CREATE_D3D12_TEXTURE_V_POINTER`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6323).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6323).
 
 ## `SDL_PROP_TEXTURE_CREATE_FORMAT_NUMBER`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6455).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6455).
 
 ## `SDL_PROP_TEXTURE_CREATE_GPU_TEXTURE_POINTER`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6394).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6394).
 
 ## `SDL_PROP_TEXTURE_CREATE_GPU_TEXTURE_U_POINTER`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6379).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6379).
 
 ## `SDL_PROP_TEXTURE_CREATE_GPU_TEXTURE_UV_POINTER`
 
@@ -182,7 +182,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6269).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6269).
 
 ## `SDL_PROP_TEXTURE_CREATE_GPU_TEXTURE_V_POINTER`
 
@@ -194,7 +194,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6456).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6456).
 
 ## `SDL_PROP_TEXTURE_CREATE_HDR_HEADROOM_FLOAT`
 
@@ -206,7 +206,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6348).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6348).
 
 ## `SDL_PROP_TEXTURE_CREATE_HEIGHT_NUMBER`
 
@@ -218,7 +218,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6177).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6177).
 
 ## `SDL_PROP_TEXTURE_CREATE_METAL_PIXELBUFFER_POINTER`
 
@@ -230,7 +230,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6346).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6346).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGL_TEXTURE_NUMBER`
 
@@ -242,7 +242,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6296).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6296).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGL_TEXTURE_U_NUMBER`
 
@@ -254,7 +254,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6299).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6299).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGL_TEXTURE_UV_NUMBER`
 
@@ -266,7 +266,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5926).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5926).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGL_TEXTURE_V_NUMBER`
 
@@ -278,7 +278,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6433).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6433).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGLES2_TEXTURE_NUMBER`
 
@@ -290,7 +290,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6387).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6387).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGLES2_TEXTURE_U_NUMBER`
 
@@ -302,7 +302,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6043).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6043).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGLES2_TEXTURE_UV_NUMBER`
 
@@ -314,7 +314,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6031).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6031).
 
 ## `SDL_PROP_TEXTURE_CREATE_OPENGLES2_TEXTURE_V_NUMBER`
 
@@ -326,7 +326,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6246).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6246).
 
 ## `SDL_PROP_TEXTURE_CREATE_PALETTE_POINTER`
 
@@ -338,7 +338,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6046).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6046).
 
 ## `SDL_PROP_TEXTURE_CREATE_SDR_WHITE_POINT_FLOAT`
 
@@ -350,7 +350,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6364).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6364).
 
 ## `SDL_PROP_TEXTURE_CREATE_VULKAN_LAYOUT_NUMBER`
 
@@ -362,7 +362,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6083).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6083).
 
 ## `SDL_PROP_TEXTURE_CREATE_VULKAN_TEXTURE_NUMBER`
 
@@ -374,7 +374,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5954).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5954).
 
 ## `SDL_PROP_TEXTURE_CREATE_WIDTH_NUMBER`
 
@@ -386,7 +386,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_CREAT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6240).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6240).
 
 ## `SDL_PROP_TEXTURE_D3D11_TEXTURE_POINTER`
 
@@ -398,7 +398,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6169).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6169).
 
 ## `SDL_PROP_TEXTURE_D3D11_TEXTURE_U_POINTER`
 
@@ -410,7 +410,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5976).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5976).
 
 ## `SDL_PROP_TEXTURE_D3D11_TEXTURE_V_POINTER`
 
@@ -422,7 +422,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5984).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5984).
 
 ## `SDL_PROP_TEXTURE_D3D12_TEXTURE_POINTER`
 
@@ -434,7 +434,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6459).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6459).
 
 ## `SDL_PROP_TEXTURE_D3D12_TEXTURE_U_POINTER`
 
@@ -446,7 +446,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6426).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6426).
 
 ## `SDL_PROP_TEXTURE_D3D12_TEXTURE_V_POINTER`
 
@@ -458,7 +458,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_D3D12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6326).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6326).
 
 ## `SDL_PROP_TEXTURE_FORMAT_NUMBER`
 
@@ -470,7 +470,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_FORMA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6454).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6454).
 
 ## `SDL_PROP_TEXTURE_GPU_TEXTURE_POINTER`
 
@@ -482,7 +482,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_GPU_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5965).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5965).
 
 ## `SDL_PROP_TEXTURE_GPU_TEXTURE_U_POINTER`
 
@@ -494,7 +494,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_GPU_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6430).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6430).
 
 ## `SDL_PROP_TEXTURE_GPU_TEXTURE_UV_POINTER`
 
@@ -506,7 +506,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_GPU_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6007).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6007).
 
 ## `SDL_PROP_TEXTURE_GPU_TEXTURE_V_POINTER`
 
@@ -518,7 +518,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_GPU_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6029).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6029).
 
 ## `SDL_PROP_TEXTURE_HDR_HEADROOM_FLOAT`
 
@@ -530,7 +530,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_HDR_H
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5969).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5969).
 
 ## `SDL_PROP_TEXTURE_HEIGHT_NUMBER`
 
@@ -542,7 +542,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_HEIGH
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6286).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6286).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEX_H_FLOAT`
 
@@ -554,7 +554,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6306).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6306).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEX_W_FLOAT`
 
@@ -566,7 +566,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6223).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6223).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEXTURE_NUMBER`
 
@@ -578,7 +578,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5915).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5915).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEXTURE_TARGET_NUMBER`
 
@@ -590,7 +590,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6034).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6034).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEXTURE_U_NUMBER`
 
@@ -602,7 +602,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5964).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5964).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEXTURE_UV_NUMBER`
 
@@ -614,7 +614,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5918).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5918).
 
 ## `SDL_PROP_TEXTURE_OPENGL_TEXTURE_V_NUMBER`
 
@@ -626,7 +626,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6370).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6370).
 
 ## `SDL_PROP_TEXTURE_OPENGLES2_TEXTURE_NUMBER`
 
@@ -638,7 +638,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6210).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6210).
 
 ## `SDL_PROP_TEXTURE_OPENGLES2_TEXTURE_TARGET_NUMBER`
 
@@ -650,7 +650,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5997).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5997).
 
 ## `SDL_PROP_TEXTURE_OPENGLES2_TEXTURE_U_NUMBER`
 
@@ -662,7 +662,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6150).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6150).
 
 ## `SDL_PROP_TEXTURE_OPENGLES2_TEXTURE_UV_NUMBER`
 
@@ -674,7 +674,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5909).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5909).
 
 ## `SDL_PROP_TEXTURE_OPENGLES2_TEXTURE_V_NUMBER`
 
@@ -686,7 +686,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_OPENG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6409).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6409).
 
 ## `SDL_PROP_TEXTURE_SDR_WHITE_POINT_FLOAT`
 
@@ -698,7 +698,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_SDR_W
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5963).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5963).
 
 ## `SDL_PROP_TEXTURE_VULKAN_TEXTURE_NUMBER`
 
@@ -710,7 +710,7 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_VULKA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5932).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5932).
 
 ## `SDL_PROP_TEXTURE_WIDTH_NUMBER`
 
@@ -722,4 +722,4 @@ public const string Inno.Native.Sdl3.SDLContext.Constants.SDL_PROP_TEXTURE_WIDTH
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6341).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L6341).

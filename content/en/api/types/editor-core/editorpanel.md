@@ -47,7 +47,7 @@ public abstract class Inno.Editor.Core.EditorPanel
 Base class for editor panel implementations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L13).
 
 ## `#ctor`
 
@@ -60,7 +60,7 @@ protected Inno.Editor.Core.EditorPanel.EditorPanel()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L13).
 
 ## `Attach`
 
@@ -80,7 +80,7 @@ Attaches the panel after its extension generation becomes active.
 **Throws `System.InvalidOperationException`:** Thrown when the panel is already attached.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L56).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L56).
 
 ## `Capture`
 
@@ -100,7 +100,7 @@ no state reads or writes. Panel visibility is persisted separately for every reg
 **Parameter `state`:** The writable parameter that receives the complete readable state for this panel.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L168).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L168).
 
 ## `Detach`
 
@@ -122,7 +122,7 @@ Detaches the panel before its extension generation is released.
 **Throws `Inno.Core.Execution.RetirementPendingException`:** Panel work is still active. The owner must retain the panel and its dependencies and retry detachment.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L82).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L82).
 
 ## `Draw`
 
@@ -142,7 +142,7 @@ Draws the complete dockable contents of the panel for the current frame.
 **Throws `System.InvalidOperationException`:** Thrown when the panel is not attached.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L117).
 
 ## `OnAttach`
 
@@ -158,7 +158,7 @@ Runs after the panel is attached to an active extension generation.
 **Parameter `context`:** The shared editor context for the active runtime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L139).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L139).
 
 ## `OnDetach`
 
@@ -177,7 +177,7 @@ RetirementPendingException and avoid repeating completed cleanup steps on the ne
 **Parameter `context`:** The shared editor context for the runtime being detached.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L153).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L153).
 
 ## `OnDraw`
 
@@ -193,7 +193,7 @@ Draws the complete dockable contents of this panel for the current frame.
 **Parameter `context`:** The shared editor context containing current selection, focus, and frame state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L131).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L131).
 
 ## `Restore`
 
@@ -213,7 +213,7 @@ panel is attached and before the panel is allowed to capture replacement state.
 fallback supplied to ```Inno.Editor.Core.EditorState.Get``1(System.String,``0)```.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L183).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L183).
 
 ## `allowScrolling`
 
@@ -230,7 +230,7 @@ Gets whether the presentation backend may create a scroll range for this panel w
 own content instead of allowing the host window to scroll.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L31).
 
 ## `initialSize`
 
@@ -244,7 +244,7 @@ public virtual System.Numerics.Vector2 Inno.Editor.Core.EditorPanel.initialSize 
 Gets the initial floating size in UI coordinates; zero leaves native auto-sizing in control. Saved layouts take precedence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L36).
 
 ## `isOpen`
 
@@ -258,7 +258,7 @@ public bool Inno.Editor.Core.EditorPanel.isOpen { get; set; }
 Gets or sets whether panel is visible.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L41).
 
 ## `useWindowPadding`
 
@@ -273,4 +273,4 @@ Gets whether the presentation backend should inset this panel body by its standa
 window padding.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanel.cs#L22).

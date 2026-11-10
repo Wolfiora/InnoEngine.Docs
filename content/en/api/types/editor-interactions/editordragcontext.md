@@ -39,7 +39,7 @@ public sealed class Inno.Editor.Interactions.EditorDragContext
 Provides contextual state while beginning an editor drag.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L10).
 
 ## `#ctor`
 
@@ -65,7 +65,7 @@ Creates a managed editor drag request.
 **Throws `System.ArgumentException`:** Thrown when `area` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L33).
 
 ## `area`
 
@@ -79,7 +79,7 @@ public string Inno.Editor.Interactions.EditorDragContext.area { get; }
 Gets the source interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L59).
 
 ## `data`
 
@@ -93,7 +93,7 @@ public Inno.Editor.Interactions.EditorDragData Inno.Editor.Interactions.EditorDr
 Gets the managed drag data.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L64).
 
 ## `editor`
 
@@ -107,7 +107,7 @@ public Inno.Editor.Core.EditorContext Inno.Editor.Interactions.EditorDragContext
 Gets the shared passive editor context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L49).
 
 ## `interactions`
 
@@ -121,4 +121,4 @@ public Inno.Editor.Interactions.EditorInteractions Inno.Editor.Interactions.Edit
 Gets the active interaction entry point.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L54).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragContext.cs#L54).

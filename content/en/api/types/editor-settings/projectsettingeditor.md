@@ -44,7 +44,7 @@ public abstract class Inno.Editor.Settings.ProjectSettingEditor
 Describes one Editor presentation for a strongly typed runtime project setting.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L13).
 
 ## `#ctor`
 
@@ -57,7 +57,7 @@ protected Inno.Editor.Settings.ProjectSettingEditor.ProjectSettingEditor()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L13).
 
 ## `Draw`
 
@@ -77,7 +77,7 @@ Draws one isolated staged value through this presentation.
 **Throws `System.ArgumentException`:** Thrown when `value` has another runtime type.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L71).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L71).
 
 ## `ValuesEqual`
 
@@ -99,7 +99,7 @@ Compares two exact-type values through their native serialized property data.
 **Throws `System.ArgumentException`:** Thrown when either value has another runtime type.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L89).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L89).
 
 ## `description`
 
@@ -113,7 +113,7 @@ public virtual string Inno.Editor.Settings.ProjectSettingEditor.description { ge
 Gets the explanation displayed by the unified Settings frontend.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L56).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L56).
 
 ## `label`
 
@@ -127,7 +127,7 @@ public string Inno.Editor.Settings.ProjectSettingEditor.label { get; }
 Gets the display label derived from the final path segment.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L41).
 
 ## `order`
 
@@ -141,7 +141,7 @@ public int Inno.Editor.Settings.ProjectSettingEditor.order { get; }
 Gets the stable order among fields in the same section.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L46).
 
 ## `pagePath`
 
@@ -155,7 +155,7 @@ public string Inno.Editor.Settings.ProjectSettingEditor.pagePath { get; }
 Gets the page that owns this field.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L36).
 
 ## `path`
 
@@ -169,7 +169,7 @@ public string Inno.Editor.Settings.ProjectSettingEditor.path { get; }
 Gets the complete slash-delimited placement path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L31).
 
 ## `section`
 
@@ -183,7 +183,7 @@ public virtual string Inno.Editor.Settings.ProjectSettingEditor.section { get; }
 Gets the section heading used to group this field.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L51).
 
 ## `settingId`
 
@@ -198,4 +198,4 @@ Gets the stable runtime project setting protocol read from the target setting ty
 `Inno.Core.Settings.ProjectSettingDefinitionAttribute` by the Editor catalog.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L26).

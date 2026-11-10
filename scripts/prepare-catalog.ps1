@@ -19,19 +19,13 @@ if ($binding.revision -eq $binding.toolingRevision) {
     if ($LASTEXITCODE -ne 0 -or $actualTree -ne $binding.sourceTree) { throw 'Engine tree identity does not match the selected revision.' }
 }
 
-# This generated adapter is a site-build artifact, not a new engine executable project or query implementation.
+# This generated adapter is a site-build artifact, not a new daily executable or query implementation.
 # It calls the library directly and compiles only its managed dependency closure.
 $workspace = Join-Path $root 'artifacts/tooling-bootstrap'
 [IO.Directory]::CreateDirectory($workspace) | Out-Null
 $project = Join-Path $engine 'tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj'
 if (-not (Test-Path -LiteralPath $project -PathType Leaf)) { throw 'Pinned revision does not provide the documentation query library.' }
 $source = @'
-#:property TargetFramework=net10.0
-#:property PublishAot=false
-#:property PackAsTool=false
-#:property ImplicitUsings=disable
-#:property Nullable=enable
-#:project PROJECT_PATH
 using System;
 using System.IO;
 using System.Text.Json;
@@ -60,10 +54,30 @@ Console.WriteLine(indexed.message);
 Console.WriteLine(JsonSerializer.Serialize(indexed.timingsMilliseconds));
 Console.WriteLine("Canonical catalog: " + result);
 '@
-$source = $source.Replace('PROJECT_PATH', $project.Replace('\', '/'))
 $sourcePath = Join-Path $workspace 'CatalogAdapter.cs'
 if (-not (Test-Path -LiteralPath $sourcePath) -or [IO.File]::ReadAllText($sourcePath) -ne $source) {
     [IO.File]::WriteAllText($sourcePath, $source, [Text.UTF8Encoding]::new($false))
+}
+$projectPath = Join-Path $workspace 'CatalogAdapter.csproj'
+$reference = [Security.SecurityElement]::Escape($project.Replace('\', '/'))
+$projectText = @"
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <PublishAot>false</PublishAot>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CatalogAdapter.cs" />
+    <ProjectReference Include="$reference" />
+  </ItemGroup>
+</Project>
+"@
+if (-not (Test-Path -LiteralPath $projectPath) -or [IO.File]::ReadAllText($projectPath) -ne $projectText) {
+    [IO.File]::WriteAllText($projectPath, $projectText, [Text.UTF8Encoding]::new($false))
 }
 $sdk = [IO.File]::ReadAllText((Join-Path $engine 'global.json'))
 $sdkPath = Join-Path $workspace 'global.json'
@@ -75,7 +89,7 @@ $intermediate = Join-Path $workspace 'obj'
 Push-Location $workspace
 try {
     $parallelism = [Math]::Min([Environment]::ProcessorCount, 4)
-    & $DotnetHost build $sourcePath --output $bundle --artifacts-path $intermediate -p:PublishAot=false "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
+    & $DotnetHost build $projectPath --output $bundle --artifacts-path $intermediate "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
     if ($LASTEXITCODE -ne 0) { throw "Documentation tooling bootstrap failed: $LASTEXITCODE" }
     & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root
     if ($LASTEXITCODE -ne 0) { throw "Canonical documentation preparation failed: $LASTEXITCODE" }

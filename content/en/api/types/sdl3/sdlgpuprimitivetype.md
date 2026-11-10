@@ -39,7 +39,7 @@ public enum Inno.Native.Sdl3.SDLGPUPrimitiveType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55966).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55966).
 
 ## `SDL_GPU_PRIMITIVETYPE_LINELIST`
 
@@ -51,7 +51,7 @@ Inno.Native.Sdl3.SDLGPUPrimitiveType.SDL_GPU_PRIMITIVETYPE_LINELIST = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55970).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55970).
 
 ## `SDL_GPU_PRIMITIVETYPE_LINESTRIP`
 
@@ -63,7 +63,7 @@ Inno.Native.Sdl3.SDLGPUPrimitiveType.SDL_GPU_PRIMITIVETYPE_LINESTRIP = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55971).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55971).
 
 ## `SDL_GPU_PRIMITIVETYPE_POINTLIST`
 
@@ -75,7 +75,7 @@ Inno.Native.Sdl3.SDLGPUPrimitiveType.SDL_GPU_PRIMITIVETYPE_POINTLIST = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55972).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55972).
 
 ## `SDL_GPU_PRIMITIVETYPE_TRIANGLELIST`
 
@@ -87,7 +87,7 @@ Inno.Native.Sdl3.SDLGPUPrimitiveType.SDL_GPU_PRIMITIVETYPE_TRIANGLELIST = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55968).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55968).
 
 ## `SDL_GPU_PRIMITIVETYPE_TRIANGLESTRIP`
 
@@ -99,4 +99,4 @@ Inno.Native.Sdl3.SDLGPUPrimitiveType.SDL_GPU_PRIMITIVETYPE_TRIANGLESTRIP = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55969).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55969).

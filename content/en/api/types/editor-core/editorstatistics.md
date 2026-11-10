@@ -41,7 +41,7 @@ Exchanges frame-scoped, reload-safe statistics between independent editor featur
 current frame and one completed-frame handoff so panel draw order cannot lose data.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L185).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L185).
 
 ## `#ctor`
 
@@ -54,7 +54,7 @@ public Inno.Editor.Core.EditorStatistics.EditorStatistics()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L185).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L185).
 
 ## `GetSnapshot`
 
@@ -72,7 +72,7 @@ frame for providers that draw after their consumer.
 Unchanged content reuses the same snapshot; previously returned snapshots remain valid.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L238).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L238).
 
 ## `Publish`
 
@@ -90,7 +90,7 @@ Publishes or replaces one statistic for the current editor frame.
 **Throws `System.ArgumentNullException`:** Thrown when `statistic` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L202).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L202).
 
 ## `Publish`
 
@@ -108,4 +108,4 @@ Publishes or replaces several statistics for the current editor frame.
 **Throws `System.ArgumentNullException`:** Thrown when `statistics` or one of its values is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L223).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L223).

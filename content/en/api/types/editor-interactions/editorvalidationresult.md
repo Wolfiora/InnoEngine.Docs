@@ -52,7 +52,7 @@ Describes whether a requested editor operation is valid and carries a diagnostic
 **Parameter `message`:** The user-facing validation diagnostic, or an empty string for a valid result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `#ctor`
 
@@ -70,7 +70,7 @@ Describes whether a requested editor operation is valid and carries a diagnostic
 **Parameter `message`:** The user-facing validation diagnostic, or an empty string for a valid result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `Deconstruct`
 
@@ -83,7 +83,7 @@ public void Inno.Editor.Interactions.EditorValidationResult.Deconstruct(out bool
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `Equals`
 
@@ -101,7 +101,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `Equals`
 
@@ -119,7 +119,7 @@ Indicates whether this instance and a specified object are equal.
 **Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `GetHashCode`
 
@@ -135,7 +135,7 @@ Returns the hash code for this instance.
 **Returns:** A 32-bit signed integer that is the hash code for this instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `Invalid`
 
@@ -153,7 +153,7 @@ Creates a failed validation result with a user-facing diagnostic.
 **Returns:** An invalid result containing the supplied diagnostic.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L30).
 
 ## `op_Equality`
 
@@ -166,7 +166,7 @@ public static bool Inno.Editor.Interactions.EditorValidationResult.operator ==(I
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `op_Inequality`
 
@@ -179,7 +179,7 @@ public static bool Inno.Editor.Interactions.EditorValidationResult.operator !=(I
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `ToString`
 
@@ -195,7 +195,7 @@ Returns the fully qualified type name of this instance.
 **Returns:** The fully qualified type name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L12).
 
 ## `isValid`
 
@@ -209,7 +209,7 @@ public bool Inno.Editor.Interactions.EditorValidationResult.isValid { get; init;
 Whether the requested operation may proceed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L13).
 
 ## `message`
 
@@ -223,7 +223,7 @@ public string Inno.Editor.Interactions.EditorValidationResult.message { get; ini
 The user-facing validation diagnostic, or an empty string for a valid result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L14).
 
 ## `valid`
 
@@ -237,4 +237,4 @@ public static Inno.Editor.Interactions.EditorValidationResult Inno.Editor.Intera
 Gets a successful validation result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorValidationResult.cs#L19).

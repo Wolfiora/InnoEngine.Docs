@@ -38,7 +38,7 @@ public enum Inno.Editor.Interactions.EditorDropPlacement : int
 Describes the requested placement relative to an editor drop target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L6).
 
 ## `After`
 
@@ -52,7 +52,7 @@ Inno.Editor.Interactions.EditorDropPlacement.After = 3
 Insert after the target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L26).
 
 ## `Before`
 
@@ -66,7 +66,7 @@ Inno.Editor.Interactions.EditorDropPlacement.Before = 1
 Insert before the target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L16).
 
 ## `Into`
 
@@ -80,7 +80,7 @@ Inno.Editor.Interactions.EditorDropPlacement.Into = 2
 Drop into the target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L21).
 
 ## `None`
 
@@ -94,4 +94,4 @@ Inno.Editor.Interactions.EditorDropPlacement.None = 0
 No positional placement is requested.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropPlacement.cs#L11).

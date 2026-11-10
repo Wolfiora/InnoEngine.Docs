@@ -36,7 +36,7 @@ public interface Inno.Editor.Diagnostics.IEditorConsole
 Exposes read-only editor Console snapshots and explicit retention controls to editor features.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L6).
 
 ## `Capture`
 
@@ -52,7 +52,7 @@ Captures an immutable snapshot containing both individual occurrences and global
 **Returns:** A consistent snapshot that remains valid while new entries arrive.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L25).
 
 ## `Clear`
 
@@ -66,7 +66,7 @@ void Inno.Editor.Diagnostics.IEditorConsole.Clear()
 Removes retained logs while keeping currently reported issues visible until their owners resolve them.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L30).
 
 ## `capacity`
 
@@ -80,7 +80,7 @@ int Inno.Editor.Diagnostics.IEditorConsole.capacity { get; set; }
 Gets or sets the maximum number of ordinary log occurrences retained in memory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L11).
 
 ## `clearOnPlay`
 
@@ -95,4 +95,4 @@ Gets or sets whether ordinary Console logs are cleared when a new Play Mode requ
 Current diagnostics remain visible because they represent active compiler and subsystem state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/IEditorConsole.cs#L17).

@@ -65,7 +65,7 @@ public sealed class Inno.Editor.Settings.EditorSettingObject : Inno.Core.Seriali
 Represents one isolated, strongly typed object exposed to a Settings field and its consumers.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L13).
 
 ## `#ctor`
 
@@ -79,7 +79,7 @@ public Inno.Editor.Settings.EditorSettingObject.EditorSettingObject()
 Creates an empty Settings object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L21).
 
 ## `GetAsBoolean`
 
@@ -99,7 +99,7 @@ Gets a Boolean property, or a fallback when the property is absent.
 **Returns:** The stored Boolean or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L42).
 
 ## `GetAsBooleanArray`
 
@@ -119,7 +119,7 @@ Gets a Boolean array property, or a copied fallback when the property is absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L304).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L304).
 
 ## `GetAsDouble`
 
@@ -139,7 +139,7 @@ Gets a double-precision property, or a fallback when the property is absent.
 **Returns:** The stored number or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L235).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L235).
 
 ## `GetAsDoubleArray`
 
@@ -159,7 +159,7 @@ Gets a double-precision array property, or a copied fallback when absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L428).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L428).
 
 ## `GetAsInt32`
 
@@ -179,7 +179,7 @@ Gets a 32-bit signed integer property, or a fallback when the property is absent
 **Returns:** The stored integer or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L73).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L73).
 
 ## `GetAsInt32Array`
 
@@ -199,7 +199,7 @@ Gets a 32-bit signed integer array property, or a copied fallback when absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L335).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L335).
 
 ## `GetAsInt64`
 
@@ -219,7 +219,7 @@ Gets a 64-bit signed integer property, or a fallback when the property is absent
 **Returns:** The stored integer or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L135).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L135).
 
 ## `GetAsSingle`
 
@@ -239,7 +239,7 @@ Gets a single-precision property, or a fallback when the property is absent.
 **Returns:** The stored number or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L197).
 
 ## `GetAsSingleArray`
 
@@ -259,7 +259,7 @@ Gets a single-precision array property, or a copied fallback when absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L397).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L397).
 
 ## `GetAsString`
 
@@ -279,7 +279,7 @@ Gets a string property, or a fallback when the property is absent or null.
 **Returns:** The stored string or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L273).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L273).
 
 ## `GetAsStringArray`
 
@@ -299,7 +299,7 @@ Gets a nullable string array property, or a copied fallback when absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L459).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L459).
 
 ## `GetAsUInt32`
 
@@ -319,7 +319,7 @@ Gets a 32-bit unsigned integer property, or a fallback when the property is abse
 **Returns:** The stored integer or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L104).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L104).
 
 ## `GetAsUInt32Array`
 
@@ -339,7 +339,7 @@ Gets a 32-bit unsigned integer array property, or a copied fallback when absent.
 **Returns:** An independently owned array.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L366).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L366).
 
 ## `GetAsUInt64`
 
@@ -359,7 +359,7 @@ Gets a 64-bit unsigned integer property, or a fallback when the property is abse
 **Returns:** The stored integer or `defaultValue`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L166).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L166).
 
 ## `SetAsBoolean`
 
@@ -377,7 +377,7 @@ Sets a Boolean property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L56).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L56).
 
 ## `SetAsBooleanArray`
 
@@ -395,7 +395,7 @@ Sets a Boolean array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L318).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L318).
 
 ## `SetAsDouble`
 
@@ -415,7 +415,7 @@ Sets a finite double-precision property.
 **Throws `System.ArgumentOutOfRangeException`:** Thrown when `value` is not finite.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L252).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L252).
 
 ## `SetAsDoubleArray`
 
@@ -433,7 +433,7 @@ Sets a double-precision array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L442).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L442).
 
 ## `SetAsInt32`
 
@@ -451,7 +451,7 @@ Sets a 32-bit signed integer property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L87).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L87).
 
 ## `SetAsInt32Array`
 
@@ -469,7 +469,7 @@ Sets a 32-bit signed integer array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L349).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L349).
 
 ## `SetAsInt64`
 
@@ -487,7 +487,7 @@ Sets a 64-bit signed integer property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L149).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L149).
 
 ## `SetAsSingle`
 
@@ -507,7 +507,7 @@ Sets a finite single-precision property.
 **Throws `System.ArgumentOutOfRangeException`:** Thrown when `value` is not finite.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L214).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L214).
 
 ## `SetAsSingleArray`
 
@@ -525,7 +525,7 @@ Sets a single-precision array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L411).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L411).
 
 ## `SetAsString`
 
@@ -543,7 +543,7 @@ Sets a nullable string property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L287).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L287).
 
 ## `SetAsStringArray`
 
@@ -561,7 +561,7 @@ Sets a nullable string array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L473).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L473).
 
 ## `SetAsUInt32`
 
@@ -579,7 +579,7 @@ Sets a 32-bit unsigned integer property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L118).
 
 ## `SetAsUInt32Array`
 
@@ -597,7 +597,7 @@ Sets a 32-bit unsigned integer array property by value.
 **Parameter `value`:** The array copied into the object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L380).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L380).
 
 ## `SetAsUInt64`
 
@@ -615,4 +615,4 @@ Sets a 64-bit unsigned integer property.
 **Parameter `value`:** The value to store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L180).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingObject.cs#L180).

@@ -47,7 +47,7 @@ public readonly record struct Inno.Editor.Interactions.EditorHistoryResult : Sys
 Describes the outcome of applying, undoing, or redoing an editor history operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `Equals`
 
@@ -65,7 +65,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `Equals`
 
@@ -83,7 +83,7 @@ Indicates whether this instance and a specified object are equal.
 **Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `Failure`
 
@@ -103,7 +103,7 @@ Creates a failed history result without changing the owning history stack.
 **Throws `System.ArgumentException`:** Thrown when `message` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L59).
 
 ## `GetHashCode`
 
@@ -119,7 +119,7 @@ Returns the hash code for this instance.
 **Returns:** A 32-bit signed integer that is the hash code for this instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `op_Equality`
 
@@ -132,7 +132,7 @@ public static bool Inno.Editor.Interactions.EditorHistoryResult.operator ==(Inno
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `op_Inequality`
 
@@ -145,7 +145,7 @@ public static bool Inno.Editor.Interactions.EditorHistoryResult.operator !=(Inno
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `Success`
 
@@ -161,7 +161,7 @@ Creates a successful history result.
 **Returns:** A result representing a completed transition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L45).
 
 ## `ToString`
 
@@ -177,7 +177,7 @@ Returns the fully qualified type name of this instance.
 **Returns:** The fully qualified type name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L8).
 
 ## `message`
 
@@ -191,7 +191,7 @@ public string Inno.Editor.Interactions.EditorHistoryResult.message { get; }
 Gets the diagnostic message associated with a failed transition, or an empty string after success.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L37).
 
 ## `statePreserved`
 
@@ -208,7 +208,7 @@ Gets whether a failed transition restored the domain state that existed before t
 `false` faults the owning history because the transition can no longer be retried safely.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L32).
 
 ## `succeeded`
 
@@ -222,4 +222,4 @@ public bool Inno.Editor.Interactions.EditorHistoryResult.succeeded { get; }
 Gets whether the requested history transition completed successfully.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryResult.cs#L23).

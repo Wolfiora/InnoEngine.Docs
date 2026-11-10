@@ -37,7 +37,7 @@ public enum Inno.Native.Sdl3.SDLGPUSamplerAddressMode : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56102).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56102).
 
 ## `SDL_GPU_SAMPLERADDRESSMODE_CLAMP_TO_EDGE`
 
@@ -49,7 +49,7 @@ Inno.Native.Sdl3.SDLGPUSamplerAddressMode.SDL_GPU_SAMPLERADDRESSMODE_CLAMP_TO_ED
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56106).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56106).
 
 ## `SDL_GPU_SAMPLERADDRESSMODE_MIRRORED_REPEAT`
 
@@ -61,7 +61,7 @@ Inno.Native.Sdl3.SDLGPUSamplerAddressMode.SDL_GPU_SAMPLERADDRESSMODE_MIRRORED_RE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56105).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56105).
 
 ## `SDL_GPU_SAMPLERADDRESSMODE_REPEAT`
 
@@ -73,4 +73,4 @@ Inno.Native.Sdl3.SDLGPUSamplerAddressMode.SDL_GPU_SAMPLERADDRESSMODE_REPEAT = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56104).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56104).

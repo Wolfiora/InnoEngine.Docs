@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Settings.EditorSettingPathAttribute : System.Att
 Places an `Inno.Editor.Settings.EditorSetting` at an arbitrary string Settings path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -58,7 +58,7 @@ a definition that keeps the default drawing method describes the page at the com
 **Throws `System.ArgumentException`:** Thrown when `path` contains an empty segment or is outside the `Editor` root.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L24).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L24).
 
 ## `order`
 
@@ -72,7 +72,7 @@ public int Inno.Editor.Settings.EditorSettingPathAttribute.order { get; }
 Gets the stable order among fields with the same section and label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L48).
 
 ## `path`
 
@@ -86,4 +86,4 @@ public string Inno.Editor.Settings.EditorSettingPathAttribute.path { get; }
 Gets the normalized path including the field label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L43).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSettingPathAttribute.cs#L43).

@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_ACCEPT_S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4829).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4829).
 
 ## `SDL_PROP_FILE_DIALOG_CANCEL_STRING`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_CANCEL_S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5374).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5374).
 
 ## `SDL_PROP_FILE_DIALOG_FILTERS_POINTER`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_FILTERS_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5149).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5149).
 
 ## `SDL_PROP_FILE_DIALOG_LOCATION_STRING`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_LOCATION
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5292).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5292).
 
 ## `SDL_PROP_FILE_DIALOG_MANY_BOOLEAN`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_MANY_BOO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5271).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5271).
 
 ## `SDL_PROP_FILE_DIALOG_NFILTERS_NUMBER`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_NFILTERS
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5000).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5000).
 
 ## `SDL_PROP_FILE_DIALOG_TITLE_STRING`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_TITLE_ST
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5349).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5349).
 
 ## `SDL_PROP_FILE_DIALOG_WINDOW_POINTER`
 
@@ -110,4 +110,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_FILE_DIALOG_WINDOW_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5171).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5171).

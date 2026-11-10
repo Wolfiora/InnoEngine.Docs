@@ -37,7 +37,7 @@ Synchronously closes transient edits before command execution or an extension-ha
 **Constraints:** A handler failure aborts the boundary. Subscribers must use owned Core Event hubs and release them during retirement.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorOperationPreparingEvent.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorOperationPreparingEvent.cs#L10).
 
 ## `#ctor`
 
@@ -50,4 +50,4 @@ public Inno.Editor.Interactions.EditorOperationPreparingEvent.EditorOperationPre
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorOperationPreparingEvent.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorOperationPreparingEvent.cs#L10).

@@ -42,7 +42,7 @@ public sealed class Inno.Editor.Core.EditorStatistic
 Describes one immutable, presentation-ready statistic without retaining provider instances or types.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L88).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L88).
 
 ## `#ctor`
 
@@ -72,7 +72,7 @@ Creates one statistic contribution.
 **Throws `System.ArgumentException`:** Thrown when an identifier, group name, label, or value is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L117).
 
 ## `groupId`
 
@@ -86,7 +86,7 @@ public Inno.Editor.Core.EditorStatisticGroupId Inno.Editor.Core.EditorStatistic.
 Gets the stable visual group identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L150).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L150).
 
 ## `groupName`
 
@@ -100,7 +100,7 @@ public string Inno.Editor.Core.EditorStatistic.groupName { get; }
 Gets the user-facing group heading.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L155).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L155).
 
 ## `groupOrder`
 
@@ -114,7 +114,7 @@ public int Inno.Editor.Core.EditorStatistic.groupOrder { get; }
 Gets ascending group presentation order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L170).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L170).
 
 ## `id`
 
@@ -128,7 +128,7 @@ public Inno.Editor.Core.EditorStatisticId Inno.Editor.Core.EditorStatistic.id { 
 Gets the globally stable statistic identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L145).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L145).
 
 ## `label`
 
@@ -142,7 +142,7 @@ public string Inno.Editor.Core.EditorStatistic.label { get; }
 Gets the user-facing metric label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L160).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L160).
 
 ## `order`
 
@@ -156,7 +156,7 @@ public int Inno.Editor.Core.EditorStatistic.order { get; }
 Gets ascending metric order within the group.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L175).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L175).
 
 ## `value`
 
@@ -170,4 +170,4 @@ public string Inno.Editor.Core.EditorStatistic.value { get; }
 Gets the presentation-ready value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L165).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorStatistics.cs#L165).

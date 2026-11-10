@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_CLOSE_ON_ALT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5148).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5148).
 
 ## `SDL_HINT_WINDOWS_ENABLE_MENU_MNEMONICS`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_ENABLE_MENU_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5048).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5048).
 
 ## `SDL_HINT_WINDOWS_ENABLE_MESSAGELOOP`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_ENABLE_MESSA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5025).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5025).
 
 ## `SDL_HINT_WINDOWS_ERASE_BACKGROUND_MODE`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_ERASE_BACKGR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4961).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4961).
 
 ## `SDL_HINT_WINDOWS_FORCE_SEMAPHORE_KERNEL`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_FORCE_SEMAPH
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5104).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5104).
 
 ## `SDL_HINT_WINDOWS_GAMEINPUT`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_GAMEINPUT = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5346).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5346).
 
 ## `SDL_HINT_WINDOWS_INTRESOURCE_ICON`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_INTRESOURCE_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5220).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5220).
 
 ## `SDL_HINT_WINDOWS_INTRESOURCE_ICON_SMALL`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_INTRESOURCE_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5190).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5190).
 
 ## `SDL_HINT_WINDOWS_RAW_KEYBOARD`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_RAW_KEYBOARD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5099).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5099).
 
 ## `SDL_HINT_WINDOWS_RAW_KEYBOARD_EXCLUDE_HOTKEYS`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_RAW_KEYBOARD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4960).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4960).
 
 ## `SDL_HINT_WINDOWS_RAW_KEYBOARD_INPUTSINK`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_RAW_KEYBOARD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5020).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5020).
 
 ## `SDL_HINT_WINDOWS_USE_D3D9EX`
 
@@ -158,4 +158,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_WINDOWS_USE_D3D9EX =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5135).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5135).

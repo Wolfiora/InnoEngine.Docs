@@ -35,7 +35,7 @@ public static class Inno.Editor.Core.EditorTypeSpecificity
 Ranks assignable editor extension targets by class ancestry, with interface registrations one step away.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorTypeSpecificity.cs#L7).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorTypeSpecificity.cs#L7).
 
 ## `TryGet`
 
@@ -59,4 +59,4 @@ Determines whether a registration accepts a concrete target and returns its spec
 **Throws `System.ArgumentNullException`:** Either type is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorTypeSpecificity.cs#L27).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorTypeSpecificity.cs#L27).

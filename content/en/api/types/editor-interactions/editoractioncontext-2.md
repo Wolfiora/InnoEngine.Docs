@@ -40,7 +40,7 @@ Provides a strongly typed target and action argument to an editor action.
 **Type parameter `TArgument`:** The action argument type required by the action.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L106).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L106).
 
 ## `argument`
 
@@ -54,7 +54,7 @@ public TArgument Inno.Editor.Interactions.EditorActionContext<TTarget, TArgument
 Gets the strongly typed action argument.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L125).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L125).
 
 ## `target`
 
@@ -68,4 +68,4 @@ public TTarget Inno.Editor.Interactions.EditorActionContext<TTarget, TArgument>.
 Gets the strongly typed action target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L121).

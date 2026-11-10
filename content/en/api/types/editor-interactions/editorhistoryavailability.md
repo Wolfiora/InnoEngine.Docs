@@ -46,7 +46,7 @@ public readonly record struct Inno.Editor.Interactions.EditorHistoryAvailability
 Describes whether a history change can currently move in one direction.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `Available`
 
@@ -62,7 +62,7 @@ Creates an available transition result.
 **Returns:** An availability value that permits the transition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L34).
 
 ## `Equals`
 
@@ -80,7 +80,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `Equals`
 
@@ -98,7 +98,7 @@ Indicates whether this instance and a specified object are equal.
 **Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `GetHashCode`
 
@@ -114,7 +114,7 @@ Returns the hash code for this instance.
 **Returns:** A 32-bit signed integer that is the hash code for this instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `op_Equality`
 
@@ -127,7 +127,7 @@ public static bool Inno.Editor.Interactions.EditorHistoryAvailability.operator =
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `op_Inequality`
 
@@ -140,7 +140,7 @@ public static bool Inno.Editor.Interactions.EditorHistoryAvailability.operator !
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `ToString`
 
@@ -156,7 +156,7 @@ Returns the fully qualified type name of this instance.
 **Returns:** The fully qualified type name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L8).
 
 ## `Unavailable`
 
@@ -176,7 +176,7 @@ Creates an unavailable transition result.
 **Throws `System.ArgumentException`:** Thrown when `message` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L48).
 
 ## `isAvailable`
 
@@ -190,7 +190,7 @@ public bool Inno.Editor.Interactions.EditorHistoryAvailability.isAvailable { get
 Gets whether the requested transition is currently available.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L21).
 
 ## `message`
 
@@ -204,4 +204,4 @@ public string Inno.Editor.Interactions.EditorHistoryAvailability.message { get; 
 Gets the diagnostic explaining why the transition is unavailable, or an empty string when available.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryAvailability.cs#L26).

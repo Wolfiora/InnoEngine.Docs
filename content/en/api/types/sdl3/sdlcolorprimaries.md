@@ -48,7 +48,7 @@ public enum Inno.Native.Sdl3.SDLColorPrimaries : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53742).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53742).
 
 ## `SDL_COLOR_PRIMARIES_BT2020`
 
@@ -60,7 +60,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_BT2020 = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53752).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53752).
 
 ## `SDL_COLOR_PRIMARIES_BT470BG`
 
@@ -72,7 +72,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_BT470BG = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53748).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53748).
 
 ## `SDL_COLOR_PRIMARIES_BT470M`
 
@@ -84,7 +84,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_BT470M = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53747).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53747).
 
 ## `SDL_COLOR_PRIMARIES_BT601`
 
@@ -96,7 +96,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_BT601 = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53749).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53749).
 
 ## `SDL_COLOR_PRIMARIES_BT709`
 
@@ -108,7 +108,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_BT709 = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53745).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53745).
 
 ## `SDL_COLOR_PRIMARIES_CUSTOM`
 
@@ -120,7 +120,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_CUSTOM = 31
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53757).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53757).
 
 ## `SDL_COLOR_PRIMARIES_EBU3213`
 
@@ -132,7 +132,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_EBU3213 = 22
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53756).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53756).
 
 ## `SDL_COLOR_PRIMARIES_GENERIC_FILM`
 
@@ -144,7 +144,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_GENERIC_FILM = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53751).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53751).
 
 ## `SDL_COLOR_PRIMARIES_SMPTE240`
 
@@ -156,7 +156,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_SMPTE240 = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53750).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53750).
 
 ## `SDL_COLOR_PRIMARIES_SMPTE431`
 
@@ -168,7 +168,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_SMPTE431 = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53754).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53754).
 
 ## `SDL_COLOR_PRIMARIES_SMPTE432`
 
@@ -180,7 +180,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_SMPTE432 = 12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53755).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53755).
 
 ## `SDL_COLOR_PRIMARIES_UNKNOWN`
 
@@ -192,7 +192,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53744).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53744).
 
 ## `SDL_COLOR_PRIMARIES_UNSPECIFIED`
 
@@ -204,7 +204,7 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_UNSPECIFIED = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53746).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53746).
 
 ## `SDL_COLOR_PRIMARIES_XYZ`
 
@@ -216,4 +216,4 @@ Inno.Native.Sdl3.SDLColorPrimaries.SDL_COLOR_PRIMARIES_XYZ = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53753).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53753).

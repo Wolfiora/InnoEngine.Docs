@@ -45,7 +45,7 @@ public enum Inno.Native.Sdl3.SDLJoystickType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57777).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57777).
 
 ## `SDL_JOYSTICK_TYPE_ARCADE_PAD`
 
@@ -57,7 +57,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_ARCADE_PAD = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57787).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57787).
 
 ## `SDL_JOYSTICK_TYPE_ARCADE_STICK`
 
@@ -69,7 +69,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_ARCADE_STICK = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57782).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57782).
 
 ## `SDL_JOYSTICK_TYPE_COUNT`
 
@@ -81,7 +81,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_COUNT = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57789).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57789).
 
 ## `SDL_JOYSTICK_TYPE_DANCE_PAD`
 
@@ -93,7 +93,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_DANCE_PAD = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57784).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57784).
 
 ## `SDL_JOYSTICK_TYPE_DRUM_KIT`
 
@@ -105,7 +105,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_DRUM_KIT = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57786).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57786).
 
 ## `SDL_JOYSTICK_TYPE_FLIGHT_STICK`
 
@@ -117,7 +117,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_FLIGHT_STICK = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57783).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57783).
 
 ## `SDL_JOYSTICK_TYPE_GAMEPAD`
 
@@ -129,7 +129,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_GAMEPAD = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57780).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57780).
 
 ## `SDL_JOYSTICK_TYPE_GUITAR`
 
@@ -141,7 +141,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_GUITAR = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57785).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57785).
 
 ## `SDL_JOYSTICK_TYPE_THROTTLE`
 
@@ -153,7 +153,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_THROTTLE = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57788).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57788).
 
 ## `SDL_JOYSTICK_TYPE_UNKNOWN`
 
@@ -165,7 +165,7 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57779).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57779).
 
 ## `SDL_JOYSTICK_TYPE_WHEEL`
 
@@ -177,4 +177,4 @@ Inno.Native.Sdl3.SDLJoystickType.SDL_JOYSTICK_TYPE_WHEEL = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57781).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57781).

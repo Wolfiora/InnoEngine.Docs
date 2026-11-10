@@ -35,7 +35,7 @@ public interface Inno.Editor.Core.IEditorReloadGuard
 Describes whether an editor owner has released the state required for a generation change.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L6).
 
 ## `blockingReason`
 
@@ -49,7 +49,7 @@ string? Inno.Editor.Core.IEditorReloadGuard.blockingReason { get; }
 Gets the reason admission is blocked, or null when the owner is ready for reload.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L21).
 
 ## `canActivateReload`
 
@@ -63,7 +63,7 @@ bool Inno.Editor.Core.IEditorReloadGuard.canActivateReload { get; }
 Gets whether compilation and activation may proceed without a live isolated runtime session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L16).
 
 ## `canRequestReload`
 
@@ -77,4 +77,4 @@ bool Inno.Editor.Core.IEditorReloadGuard.canRequestReload { get; }
 Gets whether an explicit user reload request may be accepted in the current owner state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadGuard.cs#L11).

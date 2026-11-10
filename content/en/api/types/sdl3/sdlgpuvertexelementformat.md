@@ -65,7 +65,7 @@ public enum Inno.Native.Sdl3.SDLGPUVertexElementFormat : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56797).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56797).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_BYTE2`
 
@@ -77,7 +77,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_BYTE2 = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56812).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56812).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_BYTE2_NORM`
 
@@ -89,7 +89,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_BYTE2_NOR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56816).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56816).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_BYTE4`
 
@@ -101,7 +101,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_BYTE4 = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56813).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56813).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_BYTE4_NORM`
 
@@ -113,7 +113,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_BYTE4_NOR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56817).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56817).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_FLOAT`
 
@@ -125,7 +125,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_FLOAT = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56808).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56808).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_FLOAT2`
 
@@ -137,7 +137,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_FLOAT2 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56809).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56809).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_FLOAT3`
 
@@ -149,7 +149,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_FLOAT3 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56810).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56810).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_FLOAT4`
 
@@ -161,7 +161,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_FLOAT4 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56811).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56811).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_HALF2`
 
@@ -173,7 +173,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_HALF2 = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56828).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56828).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_HALF4`
 
@@ -185,7 +185,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_HALF4 = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56829).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56829).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_INT`
 
@@ -197,7 +197,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_INT = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56800).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56800).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_INT2`
 
@@ -209,7 +209,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_INT2 = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56801).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56801).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_INT3`
 
@@ -221,7 +221,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_INT3 = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56802).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56802).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_INT4`
 
@@ -233,7 +233,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_INT4 = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56803).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56803).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_INVALID`
 
@@ -245,7 +245,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_INVALID =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56799).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56799).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_SHORT2`
 
@@ -257,7 +257,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_SHORT2 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56820).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56820).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_SHORT2_NORM`
 
@@ -269,7 +269,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_SHORT2_NO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56824).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56824).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_SHORT4`
 
@@ -281,7 +281,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_SHORT4 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56821).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56821).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_SHORT4_NORM`
 
@@ -293,7 +293,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_SHORT4_NO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56825).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56825).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UBYTE2`
 
@@ -305,7 +305,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UBYTE2 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56814).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56814).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UBYTE2_NORM`
 
@@ -317,7 +317,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UBYTE2_NO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56818).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56818).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UBYTE4`
 
@@ -329,7 +329,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UBYTE4 = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56815).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56815).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UBYTE4_NORM`
 
@@ -341,7 +341,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UBYTE4_NO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56819).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56819).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UINT`
 
@@ -353,7 +353,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UINT = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56804).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56804).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UINT2`
 
@@ -365,7 +365,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UINT2 = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56805).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56805).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UINT3`
 
@@ -377,7 +377,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UINT3 = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56806).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56806).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_UINT4`
 
@@ -389,7 +389,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_UINT4 = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56807).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56807).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_USHORT2`
 
@@ -401,7 +401,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_USHORT2 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56822).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56822).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_USHORT2_NORM`
 
@@ -413,7 +413,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_USHORT2_N
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56826).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56826).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_USHORT4`
 
@@ -425,7 +425,7 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_USHORT4 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56823).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56823).
 
 ## `SDL_GPU_VERTEXELEMENTFORMAT_USHORT4_NORM`
 
@@ -437,4 +437,4 @@ Inno.Native.Sdl3.SDLGPUVertexElementFormat.SDL_GPU_VERTEXELEMENTFORMAT_USHORT4_N
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56827).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56827).

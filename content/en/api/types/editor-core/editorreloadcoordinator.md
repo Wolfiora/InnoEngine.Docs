@@ -43,7 +43,7 @@ public sealed class Inno.Editor.Core.EditorReloadCoordinator : Inno.Scripting.Re
 Coordinates weakly registered editor feature migrations around atomic assembly reload sessions.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L16).
 
 ## `#ctor`
 
@@ -56,7 +56,7 @@ public Inno.Editor.Core.EditorReloadCoordinator.EditorReloadCoordinator()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L16).
 
 ## `CanActivateReload`
 
@@ -74,7 +74,7 @@ Queries whether compilation and activation can proceed without interrupting a ru
 **Returns:** True when all live guards permit generation work.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L66).
 
 ## `CanRequestReload`
 
@@ -92,7 +92,7 @@ Queries whether every registered owner accepts an explicit reload request.
 **Returns:** True when all live guards permit a manual request.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L55).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L55).
 
 ## `Execute`
 
@@ -116,7 +116,7 @@ Applies one prepared assembly reload together with every registered editor featu
 **Throws `System.AggregateException`:** Thrown when activation fails and one or more feature or assembly rollback stages also fail.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L113).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L113).
 
 ## `RefreshDiagnostics`
 
@@ -130,7 +130,7 @@ public void Inno.Editor.Core.EditorReloadCoordinator.RefreshDiagnostics()
 Requests every live participant to republish diagnostics derived from its current state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L128).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L128).
 
 ## `Register`
 
@@ -151,7 +151,7 @@ The coordinator itself retains only a weak reference.
 **Throws `System.ArgumentNullException`:** Thrown when `participant` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L81).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L81).
 
 ## `RegisterGuard`
 
@@ -171,4 +171,4 @@ Registers a weak admission guard without stopping its owner or creating a genera
 **Throws `System.ArgumentNullException`:** The guard is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/EditorReloadCoordinator.cs#L34).

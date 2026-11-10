@@ -44,7 +44,7 @@ public sealed class Inno.Editor.Interactions.EditorModalExtension
 Describes one active modal extension.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L11).
 
 ## `Draw`
 
@@ -64,7 +64,7 @@ Safely draws the modal body and quarantines a failing extension instance.
 **Throws `System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L150).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L150).
 
 ## `TryGetPresentation`
 
@@ -82,7 +82,7 @@ Safely captures generation-local modal presentation values.
 **Returns:** `true` when every presentation value was read successfully.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L105).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L105).
 
 ## `TryPrepare`
 
@@ -108,7 +108,7 @@ Prepares one presentation frame and quarantines callback failures within its own
 **Throws `System.ArgumentNullException`:** The context is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L67).
 
 ## `id`
 
@@ -122,7 +122,7 @@ public string Inno.Editor.Interactions.EditorModalExtension.id { get; }
 Gets the stable modal identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L34).
 
 ## `order`
 
@@ -136,7 +136,7 @@ public int Inno.Editor.Interactions.EditorModalExtension.order { get; }
 Gets the stable modal ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L44).
 
 ## `title`
 
@@ -150,4 +150,4 @@ public string Inno.Editor.Interactions.EditorModalExtension.title { get; }
 Gets the visible modal title.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorModalExtension.cs#L39).

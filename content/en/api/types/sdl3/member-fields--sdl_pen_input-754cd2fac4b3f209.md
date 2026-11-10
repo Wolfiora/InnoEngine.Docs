@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_BUTTON_1 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5857).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5857).
 
 ## `SDL_PEN_INPUT_BUTTON_2`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_BUTTON_2 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5840).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5840).
 
 ## `SDL_PEN_INPUT_BUTTON_3`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_BUTTON_3 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5792).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5792).
 
 ## `SDL_PEN_INPUT_BUTTON_4`
 
@@ -62,7 +62,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_BUTTON_4 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5649).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5649).
 
 ## `SDL_PEN_INPUT_BUTTON_5`
 
@@ -74,7 +74,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_BUTTON_5 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5500).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5500).
 
 ## `SDL_PEN_INPUT_DOWN`
 
@@ -86,7 +86,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_DOWN = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5846).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5846).
 
 ## `SDL_PEN_INPUT_ERASER_TIP`
 
@@ -98,7 +98,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_ERASER_TIP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5774).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5774).
 
 ## `SDL_PEN_INPUT_IN_PROXIMITY`
 
@@ -110,4 +110,4 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_PEN_INPUT_IN_PROXIMI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5644).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5644).

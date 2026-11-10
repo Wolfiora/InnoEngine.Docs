@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_COL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5524).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5524).
 
 ## `SDL_GPU_TEXTUREUSAGE_COMPUTE_STORAGE_READ`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_COM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5556).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5556).
 
 ## `SDL_GPU_TEXTUREUSAGE_COMPUTE_STORAGE_SIMULTANEOUS_READ_WRITE`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_COM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5563).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5563).
 
 ## `SDL_GPU_TEXTUREUSAGE_COMPUTE_STORAGE_WRITE`
 
@@ -62,7 +62,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_COM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5456).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5456).
 
 ## `SDL_GPU_TEXTUREUSAGE_DEPTH_STENCIL_TARGET`
 
@@ -74,7 +74,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_DEP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5767).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5767).
 
 ## `SDL_GPU_TEXTUREUSAGE_GRAPHICS_STORAGE_READ`
 
@@ -86,7 +86,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_GRA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5479).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5479).
 
 ## `SDL_GPU_TEXTUREUSAGE_SAMPLER`
 
@@ -98,4 +98,4 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_GPU_TEXTUREUSAGE_SAM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5580).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5580).

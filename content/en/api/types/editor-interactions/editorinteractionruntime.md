@@ -48,7 +48,7 @@ public sealed class Inno.Editor.Interactions.EditorInteractionRuntime : Inno.Edi
 Hosts attribute-discovered editor extensions without depending on a presentation backend.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L17).
 
 ## `#ctor`
 
@@ -72,7 +72,7 @@ Creates an interaction runtime with stable host-owned extension services.
 **Throws `System.ArgumentNullException`:** Thrown when `context` or `hostServices` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L98).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L98).
 
 ## `#ctor`
 
@@ -94,7 +94,7 @@ Creates an interaction runtime for an existing passive editor context.
 **Throws `System.ArgumentNullException`:** Thrown when `context` or `logs` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L71).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L71).
 
 ## `#ctor`
 
@@ -116,7 +116,7 @@ Creates an interaction runtime for one project.
 **Parameter `keyboard`:** The explicit immutable product keyboard conventions.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L46).
 
 ## `Dispose`
 
@@ -134,7 +134,7 @@ Releases the resources owned by this implementation.
 **Throws `Inno.Core.Execution.RetirementPendingException`:** A stage still owns live work. This runtime retains all remaining stages and rejects new updates.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L248).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L248).
 
 ## `Flush`
 
@@ -148,7 +148,7 @@ public void Inno.Editor.Interactions.EditorInteractionRuntime.Flush()
 Flushes actions queued during the current presentation traversal.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L194).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L194).
 
 ## `HandleKeyPressed`
 
@@ -164,7 +164,7 @@ Dispatches an unhandled keyboard event through contextual shortcuts.
 **Parameter `keyEvent`:** The keyboard event received from the application event stream.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L232).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L232).
 
 ## `PrepareShutdown`
 
@@ -184,7 +184,7 @@ teardown state such as an empty scene workspace.
 **Throws `System.ObjectDisposedException`:** Thrown after this runtime has been disposed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L220).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L220).
 
 ## `SaveState`
 
@@ -201,7 +201,7 @@ to disk.
 **Throws `System.ObjectDisposedException`:** Thrown after this runtime has been disposed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L203).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L203).
 
 ## `Start`
 
@@ -215,7 +215,7 @@ public override void Inno.Editor.Interactions.EditorInteractionRuntime.Start()
 Starts value processing after validating the current state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L162).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L162).
 
 ## `Update`
 
@@ -231,7 +231,7 @@ Recomputes owned state from the current validated inputs.
 **Parameter `frame`:** The frame consumed by update; ownership remains with the caller unless explicitly stated otherwise.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L179).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L179).
 
 ## `interactions`
 
@@ -245,7 +245,7 @@ public Inno.Editor.Interactions.EditorInteractions Inno.Editor.Interactions.Edit
 Gets the active presentation-independent interaction entry point.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L128).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L128).
 
 ## `modals`
 
@@ -259,7 +259,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Interactions.EditorM
 Gets active modal extensions in deterministic order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L145).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L145).
 
 ## `panelCount`
 
@@ -273,7 +273,7 @@ public int Inno.Editor.Interactions.EditorInteractionRuntime.panelCount { get; }
 Gets the number of active dockable panels.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L157).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L157).
 
 ## `panels`
 
@@ -287,4 +287,4 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Interactions.EditorP
 Gets active dockable panel extensions in deterministic order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L133).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractionRuntime.cs#L133).

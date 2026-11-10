@@ -38,7 +38,7 @@ public enum Inno.Native.Sdl3.SDLTouchDeviceType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59847).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59847).
 
 ## `SDL_TOUCH_DEVICE_DIRECT`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLTouchDeviceType.SDL_TOUCH_DEVICE_DIRECT = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59850).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59850).
 
 ## `SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLTouchDeviceType.SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59851).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59851).
 
 ## `SDL_TOUCH_DEVICE_INDIRECT_RELATIVE`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLTouchDeviceType.SDL_TOUCH_DEVICE_INDIRECT_RELATIVE = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59852).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59852).
 
 ## `SDL_TOUCH_DEVICE_INVALID`
 
@@ -86,4 +86,4 @@ Inno.Native.Sdl3.SDLTouchDeviceType.SDL_TOUCH_DEVICE_INVALID = -1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59849).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59849).

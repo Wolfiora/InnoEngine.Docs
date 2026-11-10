@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_AUDIO_MASK_BIG_ENDIA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5747).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5747).
 
 ## `SDL_AUDIO_MASK_BITSIZE`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_AUDIO_MASK_BITSIZE =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5475).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5475).
 
 ## `SDL_AUDIO_MASK_FLOAT`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_AUDIO_MASK_FLOAT = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5426).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5426).
 
 ## `SDL_AUDIO_MASK_SIGNED`
 
@@ -62,4 +62,4 @@ public const uint Inno.Native.Sdl3.SDLContext.Constants.SDL_AUDIO_MASK_SIGNED = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5871).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5871).

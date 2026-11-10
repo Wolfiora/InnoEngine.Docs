@@ -42,7 +42,7 @@ public abstract class Inno.Editor.Interactions.EditorDocumentProvider
 Implements one reloadable asset-document kind without owning presentation or source identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L8).
 
 ## `#ctor`
 
@@ -55,7 +55,7 @@ protected Inno.Editor.Interactions.EditorDocumentProvider.EditorDocumentProvider
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L8).
 
 ## `Apply`
 
@@ -73,7 +73,7 @@ Applies staged authoring changes and saves their asset source.
 **Returns:** `true` when staged changes are applied.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L54).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L54).
 
 ## `CanOpen`
 
@@ -91,7 +91,7 @@ Returns whether this provider can open the supplied project asset path.
 **Returns:** `true` when the path is supported.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L24).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L24).
 
 ## `Close`
 
@@ -107,7 +107,7 @@ Releases transient provider state after a document closes.
 **Parameter `context`:** Stable document context owned by the host.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L77).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L77).
 
 ## `Open`
 
@@ -123,7 +123,7 @@ Initializes transient provider state for an opened or restored document.
 **Parameter `context`:** Stable document context owned by the host.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L32).
 
 ## `Revert`
 
@@ -141,7 +141,7 @@ Discards staged authoring changes and reloads the last saved source.
 **Returns:** `true` when the source is restored.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L65).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L65).
 
 ## `Save`
 
@@ -159,7 +159,7 @@ Saves all document changes to its asset source.
 **Returns:** `true` when the source is saved.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L43).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L43).
 
 ## `id`
 
@@ -173,4 +173,4 @@ public abstract string Inno.Editor.Interactions.EditorDocumentProvider.id { get;
 Gets the globally stable provider identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentProvider.cs#L13).

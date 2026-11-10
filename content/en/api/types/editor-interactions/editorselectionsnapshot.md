@@ -38,7 +38,7 @@ public sealed class Inno.Editor.Interactions.EditorSelectionSnapshot
 Captures ordered selection identities without retaining any domain object or extension instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L10).
 
 ## ```CopyTargets``1```
 
@@ -60,7 +60,7 @@ Resolves this immutable selection in its original domains, including same-identi
 **Returns:** The number of currently available compatible targets; missing members remain represented by this snapshot.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L46).
 
 ## `anchor`
 
@@ -74,7 +74,7 @@ public Inno.Core.Identity.RuntimeIdentity? Inno.Editor.Interactions.EditorSelect
 Gets the range anchor identity, or null when there is no registered anchor.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L29).
 
 ## `identities`
 
@@ -88,7 +88,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Core.Identity.RuntimeIdenti
 Gets unique selection identities in order; the final identity is the primary selection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L25).
 
 ## `primary`
 
@@ -102,4 +102,4 @@ public Inno.Core.Identity.RuntimeIdentity? Inno.Editor.Interactions.EditorSelect
 Gets the primary identity, or null when this snapshot contains no registered targets.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionSnapshot.cs#L64).

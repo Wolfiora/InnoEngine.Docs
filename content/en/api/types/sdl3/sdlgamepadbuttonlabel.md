@@ -43,7 +43,7 @@ public enum Inno.Native.Sdl3.SDLGamepadButtonLabel : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54927).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54927).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_A`
 
@@ -55,7 +55,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_A = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54930).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54930).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_B`
 
@@ -67,7 +67,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_B = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54931).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54931).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_CIRCLE`
 
@@ -79,7 +79,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_CIRCLE = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54935).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54935).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_CROSS`
 
@@ -91,7 +91,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_CROSS = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54934).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54934).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_SQUARE`
 
@@ -103,7 +103,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_SQUARE = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54936).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54936).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_TRIANGLE`
 
@@ -115,7 +115,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_TRIANGLE = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54937).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54937).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_UNKNOWN`
 
@@ -127,7 +127,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54929).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54929).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_X`
 
@@ -139,7 +139,7 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_X = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54932).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54932).
 
 ## `SDL_GAMEPAD_BUTTON_LABEL_Y`
 
@@ -151,4 +151,4 @@ Inno.Native.Sdl3.SDLGamepadButtonLabel.SDL_GAMEPAD_BUTTON_LABEL_Y = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54933).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54933).

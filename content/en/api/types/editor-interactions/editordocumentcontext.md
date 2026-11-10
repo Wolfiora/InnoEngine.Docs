@@ -44,7 +44,7 @@ public sealed class Inno.Editor.Interactions.EditorDocumentContext
 Stores only stable, reload-safe document identity and provider-owned draft parameters.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L10).
 
 ## `SetViewParameter`
 
@@ -62,7 +62,7 @@ Adds or replaces one stable scalar or JSON-formatted view parameter.
 **Parameter `value`:** Persistent scalar or JSON-formatted value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L76).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L76).
 
 ## `TryGetViewParameter`
 
@@ -82,7 +82,7 @@ Tries to read one stable view parameter.
 **Returns:** `true` when the parameter exists.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L97).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L97).
 
 ## `assetId`
 
@@ -96,7 +96,7 @@ public System.Guid Inno.Editor.Interactions.EditorDocumentContext.assetId { get;
 Gets the persistent asset identity, or an empty value before the source has one.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L35).
 
 ## `assetPath`
 
@@ -110,7 +110,7 @@ public string Inno.Editor.Interactions.EditorDocumentContext.assetPath { get; in
 Gets the normalized project asset path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L40).
 
 ## `documentId`
 
@@ -124,7 +124,7 @@ public System.Guid Inno.Editor.Interactions.EditorDocumentContext.documentId { g
 Gets the stable identity of this open source document.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L30).
 
 ## `isDirty`
 
@@ -138,7 +138,7 @@ public bool Inno.Editor.Interactions.EditorDocumentContext.isDirty { get; intern
 Gets whether unsaved source or staged changes exist.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L55).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L55).
 
 ## `isProviderAvailable`
 
@@ -152,7 +152,7 @@ public bool Inno.Editor.Interactions.EditorDocumentContext.isProviderAvailable {
 Gets whether a current-generation provider is available.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L60).
 
 ## `providerId`
 
@@ -166,7 +166,7 @@ public string Inno.Editor.Interactions.EditorDocumentContext.providerId { get; }
 Gets the stable provider identity used to recover across extension reload.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L45).
 
 ## `title`
 
@@ -180,7 +180,7 @@ public string Inno.Editor.Interactions.EditorDocumentContext.title { get; set; }
 Gets or sets the author-facing source title used by diagnostics and dedicated editors.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L50).
 
 ## `viewParameters`
 
@@ -194,4 +194,4 @@ public System.Collections.Generic.IReadOnlyDictionary<string, string> Inno.Edito
 Gets an immutable snapshot of stable view parameters.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L65).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/EditorDocumentContext.cs#L65).

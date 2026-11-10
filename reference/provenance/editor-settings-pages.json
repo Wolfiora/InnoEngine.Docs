@@ -1,7 +1,7 @@
 {
   "project": "Inno.Editor.Settings",
   "outputDirectory": "content/en/api/types/editor-settings",
-  "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
   "facts": "reference/api/editor.json",
   "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
   "sharedContract": "api.projects.inno-editor-settings#identity-and-use-contracts",
@@ -11,35 +11,35 @@
   "files": [
     {
       "path": "content/en/api/types/editor-settings/editorsetting.md",
-      "sha256": "e0583b8916b711a9f409bb034c4de6acfbd58e0dff98498fb3cde54a18b52839"
+      "sha256": "4790310dba5c35eb8236f235e6d0594fb24d2bbdea95ecded807973d6d14e5b5"
     },
     {
       "path": "content/en/api/types/editor-settings/editorsettingobject.md",
-      "sha256": "12226624af41a854efe64e65039830f6756b0d9af0b2ac869503e44e4deffe45"
+      "sha256": "00c8720d4e846d3bfc2b2ac6b9ed50c146015fe963becaee42bc6d7319ed5d93"
     },
     {
       "path": "content/en/api/types/editor-settings/editorsettingpathattribute.md",
-      "sha256": "fa64059b4ad27663ecf5123e27264418f59765b377d7f03eb2311eee31c5d04b"
+      "sha256": "87ccce599c7a730a3b9577eb734c1fd123914974c5fd832e6e15497bab4c9ebd"
     },
     {
       "path": "content/en/api/types/editor-settings/editorsettings.md",
-      "sha256": "4ecb634babf3b2ec668a37eecf1056ffa7cc505bffd98269c0b3c007f6402ee9"
+      "sha256": "22fb58197ee4f1985d8e75663ec198644c69136eddd991699b03e55f83dc0ac1"
     },
     {
       "path": "content/en/api/types/editor-settings/projectsettingeditor.md",
-      "sha256": "9a448964c9c638bbcc9bb48fe30cfb721c08df0c237eb90b37bc995485062f38"
+      "sha256": "1d3fe0815010a803a0b11d40fae2504e25aa46c415a7d71081be3565304c930b"
     },
     {
       "path": "content/en/api/types/editor-settings/projectsettingeditor-1.md",
-      "sha256": "3fef257310c8a44140abcae60758e55fe048c2c4b5e850aba6876a6584ef9894"
+      "sha256": "bdaea30a566284d5308cc6fc560b799b0d7aa561c698aaed6c83ba08703c51a3"
     },
     {
       "path": "content/en/api/types/editor-settings/projectsettingpathattribute.md",
-      "sha256": "2487a7eab37780845ae71cb93866c110e14bd80bb3a0954525728bfc8b70ee7f"
+      "sha256": "6cca5c5e47b955b51a15eec5ec863d7a85b1fc0a8d8cf382c7e26454b7d49d24"
     },
     {
       "path": "content/en/api/types/editor-settings/projectsettingseditor.md",
-      "sha256": "e2eea900f6c6043b28180c927bab6774d4e6a4e707e1887b264f3ee0e63f6e67"
+      "sha256": "8c37a523c36f5c732f8a3af8d7ef322e3552f16a387b53fcf376197f3304fd83"
     },
     {
       "path": "content/en/api/types/editor-settings/index.md",

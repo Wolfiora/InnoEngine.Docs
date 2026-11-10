@@ -42,7 +42,7 @@ public sealed class Inno.Editor.Interactions.EditorSelectionState
 Owns ordered transient selection through domain-qualified identities instead of retaining live objects.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L10).
 
 ## `Capture`
 
@@ -58,7 +58,7 @@ Captures the ordered runtime identities without retaining their resolved objects
 **Returns:** An immutable callback-independent snapshot; resolve identities afresh before using targets.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L98).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L98).
 
 ## `Contains`
 
@@ -76,7 +76,7 @@ Checks membership by the target's owning identity domain and generation.
 **Returns:** True when the target is a member of this selection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L48).
 
 ## ```CopyTargets``1```
 
@@ -98,7 +98,7 @@ Copies currently available selected targets into a caller-owned temporary collec
 **Throws `System.ArgumentNullException`:** The destination is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L78).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L78).
 
 ## ```TryGet``1```
 
@@ -118,7 +118,7 @@ Resolves the primary selected target as the requested type for immediate use.
 **Returns:** True when the current primary target has the requested type.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L117).
 
 ## `anchor`
 
@@ -132,7 +132,7 @@ public object? Inno.Editor.Interactions.EditorSelectionState.anchor { get; }
 Gets the current range anchor, or null when the anchor is unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L33).
 
 ## `count`
 
@@ -146,7 +146,7 @@ public int Inno.Editor.Interactions.EditorSelectionState.count { get; }
 Gets the number of selected identities, including temporarily unavailable members.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L29).
 
 ## `selectedTarget`
 
@@ -160,7 +160,7 @@ public object? Inno.Editor.Interactions.EditorSelectionState.selectedTarget { ge
 Gets the current primary target for this callback, or null when unavailable or unselected.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L25).
 
 ## `version`
 
@@ -174,4 +174,4 @@ public ulong Inno.Editor.Interactions.EditorSelectionState.version { get; privat
 Gets the selection revision, incremented only when membership, order or resolved generation changes.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Selection/EditorSelectionState.cs#L37).

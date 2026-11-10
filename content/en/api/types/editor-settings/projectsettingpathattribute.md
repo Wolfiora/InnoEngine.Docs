@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Settings.ProjectSettingPathAttribute : System.At
 Places a strongly typed project setting editor under the Project root of the unified Settings window.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -57,7 +57,7 @@ Creates a project setting placement.
 **Throws `System.ArgumentException`:** Thrown when `path` is outside the Project root or contains an empty segment.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L23).
 
 ## `order`
 
@@ -71,7 +71,7 @@ public int Inno.Editor.Settings.ProjectSettingPathAttribute.order { get; }
 Gets the stable order among fields in the same section.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L46).
 
 ## `path`
 
@@ -85,4 +85,4 @@ public string Inno.Editor.Settings.ProjectSettingPathAttribute.path { get; }
 Gets the normalized complete placement path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingPathAttribute.cs#L41).

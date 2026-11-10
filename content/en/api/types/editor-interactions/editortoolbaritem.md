@@ -39,7 +39,7 @@ public sealed class Inno.Editor.Interactions.EditorToolbarItem
 Describes one resolved toolbar command.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L6).
 
 ## `actionId`
 
@@ -53,7 +53,7 @@ public string Inno.Editor.Interactions.EditorToolbarItem.actionId { get; }
 Gets the stable action dispatched when this item is pressed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L25).
 
 ## `icon`
 
@@ -67,7 +67,7 @@ public Inno.Editor.Interactions.EditorToolbarIcon Inno.Editor.Interactions.Edito
 Gets the resolved presentation-independent symbol.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L30).
 
 ## `order`
 
@@ -81,7 +81,7 @@ public int Inno.Editor.Interactions.EditorToolbarItem.order { get; }
 Gets the stable ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L40).
 
 ## `status`
 
@@ -95,7 +95,7 @@ public Inno.Editor.Interactions.EditorActionState Inno.Editor.Interactions.Edito
 Gets the current action availability and checked state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L45).
 
 ## `tooltip`
 
@@ -109,4 +109,4 @@ public string Inno.Editor.Interactions.EditorToolbarItem.tooltip { get; }
 Gets the resolved contextual tooltip.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarItem.cs#L35).

@@ -46,7 +46,7 @@ public abstract class Inno.Editor.Settings.EditorSetting
 Defines one path-addressed Settings page or one custom-drawn Settings field.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L10).
 
 ## `#ctor`
 
@@ -61,7 +61,7 @@ Creates a Settings definition. A field supplies its persisted default through
 `Inno.Editor.Settings.EditorSetting.defaultValue`; a page keeps the base implementation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L23).
 
 ## `Draw`
 
@@ -82,7 +82,7 @@ Draws this field inside the frontend-managed content container.
 **Throws `System.ArgumentNullException`:** Thrown when `setting` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L85).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L85).
 
 ## `IsDefault`
 
@@ -104,7 +104,7 @@ Determines whether a staged field object equals this definition's bound default 
 **Throws `System.InvalidOperationException`:** Thrown when this definition describes a page rather than a field.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L110).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L110).
 
 ## `OnDraw`
 
@@ -121,7 +121,7 @@ A type that does not override this method describes a page.
 **Parameter `setting`:** The isolated mutable object being edited.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L126).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L126).
 
 ## `defaultValue`
 
@@ -138,7 +138,7 @@ whose internal value is `null`.
 **Constraints:** Field implementations must return a newly owned object on every access.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L59).
 
 ## `description`
 
@@ -152,7 +152,7 @@ public virtual string Inno.Editor.Settings.EditorSetting.description { get; }
 Gets the page or field explanation displayed by the Settings frontend.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L70).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L70).
 
 ## `hasValue`
 
@@ -166,7 +166,7 @@ public bool Inno.Editor.Settings.EditorSetting.hasValue { get; }
 Gets whether this definition owns one persisted JSON object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L50).
 
 ## `label`
 
@@ -180,7 +180,7 @@ public string Inno.Editor.Settings.EditorSetting.label { get; }
 Gets the display label derived from the final path segment.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L40).
 
 ## `order`
 
@@ -194,7 +194,7 @@ public int Inno.Editor.Settings.EditorSetting.order { get; }
 Gets the stable order among fields with the same section and label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L45).
 
 ## `pagePath`
 
@@ -208,7 +208,7 @@ public string Inno.Editor.Settings.EditorSetting.pagePath { get; }
 Gets the page that owns this field, or this page's own path for a page definition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L35).
 
 ## `path`
 
@@ -222,7 +222,7 @@ public string Inno.Editor.Settings.EditorSetting.path { get; }
 Gets the complete slash-delimited identity and placement path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L30).
 
 ## `section`
 
@@ -237,4 +237,4 @@ Gets the section heading used to group fields alphabetically. Definitions withou
 section keep the base implementation, whose internal value is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L65).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/EditorSetting.cs#L65).

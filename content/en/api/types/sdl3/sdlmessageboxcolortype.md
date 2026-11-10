@@ -40,7 +40,7 @@ public enum Inno.Native.Sdl3.SDLMessageBoxColorType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58090).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58090).
 
 ## `SDL_MESSAGEBOX_COLOR_BACKGROUND`
 
@@ -52,7 +52,7 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_BACKGROUND = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58092).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58092).
 
 ## `SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND`
 
@@ -64,7 +64,7 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58095).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58095).
 
 ## `SDL_MESSAGEBOX_COLOR_BUTTON_BORDER`
 
@@ -76,7 +76,7 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_BUTTON_BORDER = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58094).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58094).
 
 ## `SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED`
 
@@ -88,7 +88,7 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58096).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58096).
 
 ## `SDL_MESSAGEBOX_COLOR_COUNT`
 
@@ -100,7 +100,7 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_COUNT = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58097).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58097).
 
 ## `SDL_MESSAGEBOX_COLOR_TEXT`
 
@@ -112,4 +112,4 @@ Inno.Native.Sdl3.SDLMessageBoxColorType.SDL_MESSAGEBOX_COLOR_TEXT = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58093).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58093).

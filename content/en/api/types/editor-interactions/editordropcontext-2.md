@@ -45,7 +45,7 @@ Provides strongly typed source and target values to a drop operation.
 **Type parameter `TTarget`:** The managed drop-target type.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L135).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L135).
 
 ## `area`
 
@@ -59,7 +59,7 @@ public string Inno.Editor.Interactions.EditorDropContext<TSource, TTarget>.area 
 Gets the interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L167).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L167).
 
 ## `editor`
 
@@ -73,7 +73,7 @@ public Inno.Editor.Core.EditorContext Inno.Editor.Interactions.EditorDropContext
 Gets the active editor context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L157).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L157).
 
 ## `interactions`
 
@@ -87,7 +87,7 @@ public Inno.Editor.Interactions.EditorInteractions Inno.Editor.Interactions.Edit
 Gets the active interaction entry point.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L162).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L162).
 
 ## `placement`
 
@@ -101,7 +101,7 @@ public Inno.Editor.Interactions.EditorDropPlacement Inno.Editor.Interactions.Edi
 Gets the requested placement.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L182).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L182).
 
 ## `source`
 
@@ -115,7 +115,7 @@ public TSource Inno.Editor.Interactions.EditorDropContext<TSource, TTarget>.sour
 Gets the typed drag source.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L172).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L172).
 
 ## `target`
 
@@ -129,7 +129,7 @@ public TTarget Inno.Editor.Interactions.EditorDropContext<TSource, TTarget>.targ
 Gets the typed drop target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L177).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L177).
 
 ## `untyped`
 
@@ -143,4 +143,4 @@ public Inno.Editor.Interactions.EditorDropContext Inno.Editor.Interactions.Edito
 Gets the untyped drop context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L152).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDrop.cs#L152).

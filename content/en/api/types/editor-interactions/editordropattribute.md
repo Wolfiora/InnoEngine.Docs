@@ -38,7 +38,7 @@ public sealed class Inno.Editor.Interactions.EditorDropAttribute : System.Attrib
 Registers a typed editor drop handler for an optional exact area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -54,7 +54,7 @@ Creates a drop registration that can participate on any interaction surface.
 **Parameter `priority`:** The tie-breaking priority used after source and target specificity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L17).
 
 ## `#ctor`
 
@@ -72,7 +72,7 @@ Creates a drop registration scoped to an exact interaction area.
 **Parameter `priority`:** The tie-breaking priority used after source and target specificity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L31).
 
 ## `area`
 
@@ -86,7 +86,7 @@ public string Inno.Editor.Interactions.EditorDropAttribute.area { get; }
 Gets the optional exact interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L42).
 
 ## `priority`
 
@@ -100,4 +100,4 @@ public int Inno.Editor.Interactions.EditorDropAttribute.priority { get; }
 Gets the tie-breaking priority.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDropAttribute.cs#L47).

@@ -40,7 +40,7 @@ public enum Inno.Native.Sdl3.SDLGPUBlendOp : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55139).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55139).
 
 ## `SDL_GPU_BLENDOP_ADD`
 
@@ -52,7 +52,7 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_ADD = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55142).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55142).
 
 ## `SDL_GPU_BLENDOP_INVALID`
 
@@ -64,7 +64,7 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_INVALID = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55141).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55141).
 
 ## `SDL_GPU_BLENDOP_MAX`
 
@@ -76,7 +76,7 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_MAX = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55146).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55146).
 
 ## `SDL_GPU_BLENDOP_MIN`
 
@@ -88,7 +88,7 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_MIN = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55145).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55145).
 
 ## `SDL_GPU_BLENDOP_REVERSE_SUBTRACT`
 
@@ -100,7 +100,7 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_REVERSE_SUBTRACT = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55144).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55144).
 
 ## `SDL_GPU_BLENDOP_SUBTRACT`
 
@@ -112,4 +112,4 @@ Inno.Native.Sdl3.SDLGPUBlendOp.SDL_GPU_BLENDOP_SUBTRACT = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55143).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55143).

@@ -44,7 +44,7 @@ public enum Inno.Native.Sdl3.SDLBlendFactor : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53490).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53490).
 
 ## `SDL_BLENDFACTOR_DST_ALPHA`
 
@@ -56,7 +56,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_DST_ALPHA = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53500).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53500).
 
 ## `SDL_BLENDFACTOR_DST_COLOR`
 
@@ -68,7 +68,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_DST_COLOR = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53498).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53498).
 
 ## `SDL_BLENDFACTOR_ONE`
 
@@ -80,7 +80,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ONE = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53493).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53493).
 
 ## `SDL_BLENDFACTOR_ONE_MINUS_DST_ALPHA`
 
@@ -92,7 +92,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ONE_MINUS_DST_ALPHA = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53501).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53501).
 
 ## `SDL_BLENDFACTOR_ONE_MINUS_DST_COLOR`
 
@@ -104,7 +104,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ONE_MINUS_DST_COLOR = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53499).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53499).
 
 ## `SDL_BLENDFACTOR_ONE_MINUS_SRC_ALPHA`
 
@@ -116,7 +116,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ONE_MINUS_SRC_ALPHA = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53497).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53497).
 
 ## `SDL_BLENDFACTOR_ONE_MINUS_SRC_COLOR`
 
@@ -128,7 +128,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ONE_MINUS_SRC_COLOR = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53495).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53495).
 
 ## `SDL_BLENDFACTOR_SRC_ALPHA`
 
@@ -140,7 +140,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_SRC_ALPHA = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53496).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53496).
 
 ## `SDL_BLENDFACTOR_SRC_COLOR`
 
@@ -152,7 +152,7 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_SRC_COLOR = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53494).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53494).
 
 ## `SDL_BLENDFACTOR_ZERO`
 
@@ -164,4 +164,4 @@ Inno.Native.Sdl3.SDLBlendFactor.SDL_BLENDFACTOR_ZERO = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53492).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53492).

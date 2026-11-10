@@ -49,7 +49,7 @@ public sealed class Inno.Editor.Diagnostics.EditorConsoleOccurrence
 Describes one immutable log or diagnostic occurrence in the editor Console timeline.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L10).
 
 ## `category`
 
@@ -63,7 +63,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.category { get; }
 Gets the producer-defined category.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L77).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L77).
 
 ## `code`
 
@@ -77,7 +77,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.code { get; }
 Gets the diagnostic code, or an empty string for uncoded entries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L72).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L72).
 
 ## `column`
 
@@ -91,7 +91,7 @@ public int Inno.Editor.Diagnostics.EditorConsoleOccurrence.column { get; }
 Gets the one-based source column, or zero when unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L107).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L107).
 
 ## `displayMessage`
 
@@ -105,7 +105,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.displayMessage { g
 Gets the message text prefixed by its diagnostic code when one is present.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L87).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L87).
 
 ## `file`
 
@@ -119,7 +119,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.file { get; }
 Gets the related source path, or an empty string when unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L97).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L97).
 
 ## `kind`
 
@@ -133,7 +133,7 @@ public Inno.Editor.Diagnostics.EditorConsoleEntryKind Inno.Editor.Diagnostics.Ed
 Gets the source protocol represented by this occurrence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L52).
 
 ## `level`
 
@@ -147,7 +147,7 @@ public Inno.Core.Logging.LogLevel Inno.Editor.Diagnostics.EditorConsoleOccurrenc
 Gets the normalized Console severity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L57).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L57).
 
 ## `line`
 
@@ -161,7 +161,7 @@ public int Inno.Editor.Diagnostics.EditorConsoleOccurrence.line { get; }
 Gets the one-based source line, or zero when unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L102).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L102).
 
 ## `message`
 
@@ -175,7 +175,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.message { get; }
 Gets the original message text.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L82).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L82).
 
 ## `sequence`
 
@@ -189,7 +189,7 @@ public long Inno.Editor.Diagnostics.EditorConsoleOccurrence.sequence { get; }
 Gets the process-local monotonic sequence assigned when this occurrence entered the Console.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L47).
 
 ## `sessionId`
 
@@ -203,7 +203,7 @@ public Inno.Core.Logging.LogSessionId Inno.Editor.Diagnostics.EditorConsoleOccur
 Gets the isolated runtime session that emitted this occurrence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L117).
 
 ## `source`
 
@@ -217,7 +217,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.source { get; }
 Gets the human-readable producer name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L62).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L62).
 
 ## `sourceId`
 
@@ -231,7 +231,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.sourceId { get; }
 Gets the stable diagnostic producer identifier, or an empty string for log entries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L67).
 
 ## `stackTrace`
 
@@ -245,7 +245,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleOccurrence.stackTrace { get; 
 Gets the captured stack trace, or an empty string when unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L112).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L112).
 
 ## `time`
 
@@ -259,4 +259,4 @@ public System.DateTime Inno.Editor.Diagnostics.EditorConsoleOccurrence.time { ge
 Gets the occurrence timestamp.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L92).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleOccurrence.cs#L92).

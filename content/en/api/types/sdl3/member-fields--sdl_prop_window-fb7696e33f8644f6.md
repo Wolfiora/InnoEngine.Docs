@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_ANDROID_SURFA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5030).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5030).
 
 ## `SDL_PROP_WINDOW_ANDROID_WINDOW_POINTER`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_ANDROID_WINDO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5377).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5377).
 
 ## `SDL_PROP_WINDOW_COCOA_METAL_VIEW_TAG_NUMBER`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_COCOA_METAL_V
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5372).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5372).
 
 ## `SDL_PROP_WINDOW_COCOA_WINDOW_POINTER`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_COCOA_WINDOW_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5191).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5191).
 
 ## `SDL_PROP_WINDOW_CREATE_ALWAYS_ON_TOP_BOOLEAN`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_ALWAYS
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5380).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5380).
 
 ## `SDL_PROP_WINDOW_CREATE_BORDERLESS_BOOLEAN`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_BORDER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4860).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4860).
 
 ## `SDL_PROP_WINDOW_CREATE_COCOA_VIEW_POINTER`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_COCOA_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4937).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4937).
 
 ## `SDL_PROP_WINDOW_CREATE_COCOA_WINDOW_POINTER`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_COCOA_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4915).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4915).
 
 ## `SDL_PROP_WINDOW_CREATE_CONSTRAIN_POPUP_BOOLEAN`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_CONSTR
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5196).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5196).
 
 ## `SDL_PROP_WINDOW_CREATE_EMSCRIPTEN_CANVAS_ID_STRING`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_EMSCRI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4819).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4819).
 
 ## `SDL_PROP_WINDOW_CREATE_EMSCRIPTEN_KEYBOARD_ELEMENT_STRING`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_EMSCRI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5317).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5317).
 
 ## `SDL_PROP_WINDOW_CREATE_EXTERNAL_GRAPHICS_CONTEXT_BOOLEAN`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_EXTERN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5183).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5183).
 
 ## `SDL_PROP_WINDOW_CREATE_FLAGS_NUMBER`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_FLAGS_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5198).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5198).
 
 ## `SDL_PROP_WINDOW_CREATE_FOCUSABLE_BOOLEAN`
 
@@ -182,7 +182,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_FOCUSA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4962).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4962).
 
 ## `SDL_PROP_WINDOW_CREATE_FULLSCREEN_BOOLEAN`
 
@@ -194,7 +194,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_FULLSC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5185).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5185).
 
 ## `SDL_PROP_WINDOW_CREATE_HEIGHT_NUMBER`
 
@@ -206,7 +206,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_HEIGHT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5352).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5352).
 
 ## `SDL_PROP_WINDOW_CREATE_HIDDEN_BOOLEAN`
 
@@ -218,7 +218,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_HIDDEN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5260).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5260).
 
 ## `SDL_PROP_WINDOW_CREATE_HIGH_PIXEL_DENSITY_BOOLEAN`
 
@@ -230,7 +230,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_HIGH_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5050).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5050).
 
 ## `SDL_PROP_WINDOW_CREATE_MAXIMIZED_BOOLEAN`
 
@@ -242,7 +242,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_MAXIMI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5073).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5073).
 
 ## `SDL_PROP_WINDOW_CREATE_MENU_BOOLEAN`
 
@@ -254,7 +254,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_MENU_B
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5329).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5329).
 
 ## `SDL_PROP_WINDOW_CREATE_METAL_BOOLEAN`
 
@@ -266,7 +266,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_METAL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5102).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5102).
 
 ## `SDL_PROP_WINDOW_CREATE_MINIMIZED_BOOLEAN`
 
@@ -278,7 +278,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_MINIMI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5011).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5011).
 
 ## `SDL_PROP_WINDOW_CREATE_MODAL_BOOLEAN`
 
@@ -290,7 +290,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_MODAL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4977).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4977).
 
 ## `SDL_PROP_WINDOW_CREATE_MOUSE_GRABBED_BOOLEAN`
 
@@ -302,7 +302,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_MOUSE_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5379).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5379).
 
 ## `SDL_PROP_WINDOW_CREATE_OPENGL_BOOLEAN`
 
@@ -314,7 +314,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_OPENGL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5172).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5172).
 
 ## `SDL_PROP_WINDOW_CREATE_PARENT_POINTER`
 
@@ -326,7 +326,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_PARENT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4999).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4999).
 
 ## `SDL_PROP_WINDOW_CREATE_RESIZABLE_BOOLEAN`
 
@@ -338,7 +338,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_RESIZA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4913).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4913).
 
 ## `SDL_PROP_WINDOW_CREATE_TITLE_STRING`
 
@@ -350,7 +350,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_TITLE_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5029).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5029).
 
 ## `SDL_PROP_WINDOW_CREATE_TOOLTIP_BOOLEAN`
 
@@ -362,7 +362,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_TOOLTI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5166).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5166).
 
 ## `SDL_PROP_WINDOW_CREATE_TRANSPARENT_BOOLEAN`
 
@@ -374,7 +374,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_TRANSP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5074).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5074).
 
 ## `SDL_PROP_WINDOW_CREATE_UTILITY_BOOLEAN`
 
@@ -386,7 +386,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_UTILIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4846).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4846).
 
 ## `SDL_PROP_WINDOW_CREATE_VULKAN_BOOLEAN`
 
@@ -398,7 +398,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_VULKAN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5071).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5071).
 
 ## `SDL_PROP_WINDOW_CREATE_WAYLAND_CREATE_EGL_WINDOW_BOOLEAN`
 
@@ -410,7 +410,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WAYLAN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4953).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4953).
 
 ## `SDL_PROP_WINDOW_CREATE_WAYLAND_SURFACE_ROLE_CUSTOM_BOOLEAN`
 
@@ -422,7 +422,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WAYLAN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4817).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4817).
 
 ## `SDL_PROP_WINDOW_CREATE_WAYLAND_WL_SURFACE_POINTER`
 
@@ -434,7 +434,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WAYLAN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5400).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5400).
 
 ## `SDL_PROP_WINDOW_CREATE_WIDTH_NUMBER`
 
@@ -446,7 +446,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WIDTH_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5041).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5041).
 
 ## `SDL_PROP_WINDOW_CREATE_WIN32_HWND_POINTER`
 
@@ -458,7 +458,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WIN32_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5052).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5052).
 
 ## `SDL_PROP_WINDOW_CREATE_WIN32_PIXEL_FORMAT_HWND_POINTER`
 
@@ -470,7 +470,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WIN32_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5311).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5311).
 
 ## `SDL_PROP_WINDOW_CREATE_WINDOWSCENE_POINTER`
 
@@ -482,7 +482,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_WINDOW
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5004).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5004).
 
 ## `SDL_PROP_WINDOW_CREATE_X_NUMBER`
 
@@ -494,7 +494,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_X_NUMB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4876).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4876).
 
 ## `SDL_PROP_WINDOW_CREATE_X11_WINDOW_NUMBER`
 
@@ -506,7 +506,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_X11_WI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5125).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5125).
 
 ## `SDL_PROP_WINDOW_CREATE_Y_NUMBER`
 
@@ -518,7 +518,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_CREATE_Y_NUMB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5248).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5248).
 
 ## `SDL_PROP_WINDOW_EMSCRIPTEN_CANVAS_ID_STRING`
 
@@ -530,7 +530,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_EMSCRIPTEN_CA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5266).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5266).
 
 ## `SDL_PROP_WINDOW_EMSCRIPTEN_KEYBOARD_ELEMENT_STRING`
 
@@ -542,7 +542,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_EMSCRIPTEN_KE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5037).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5037).
 
 ## `SDL_PROP_WINDOW_HDR_ENABLED_BOOLEAN`
 
@@ -554,7 +554,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_HDR_ENABLED_B
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5355).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5355).
 
 ## `SDL_PROP_WINDOW_HDR_HEADROOM_FLOAT`
 
@@ -566,7 +566,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_HDR_HEADROOM_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4993).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4993).
 
 ## `SDL_PROP_WINDOW_KMSDRM_DEVICE_INDEX_NUMBER`
 
@@ -578,7 +578,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_KMSDRM_DEVICE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5115).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5115).
 
 ## `SDL_PROP_WINDOW_KMSDRM_DRM_FD_NUMBER`
 
@@ -590,7 +590,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_KMSDRM_DRM_FD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4996).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4996).
 
 ## `SDL_PROP_WINDOW_KMSDRM_GBM_DEVICE_POINTER`
 
@@ -602,7 +602,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_KMSDRM_GBM_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4986).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4986).
 
 ## `SDL_PROP_WINDOW_OPENVR_OVERLAY_ID_NUMBER`
 
@@ -614,7 +614,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_OPENVR_OVERLA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4976).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4976).
 
 ## `SDL_PROP_WINDOW_QNX_SURFACE_POINTER`
 
@@ -626,7 +626,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_QNX_SURFACE_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5378).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5378).
 
 ## `SDL_PROP_WINDOW_QNX_WINDOW_POINTER`
 
@@ -638,7 +638,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_QNX_WINDOW_PO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4994).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4994).
 
 ## `SDL_PROP_WINDOW_SDR_WHITE_LEVEL_FLOAT`
 
@@ -650,7 +650,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_SDR_WHITE_LEV
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4917).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4917).
 
 ## `SDL_PROP_WINDOW_SHAPE_POINTER`
 
@@ -662,7 +662,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_SHAPE_POINTER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5337).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5337).
 
 ## `SDL_PROP_WINDOW_UIKIT_METAL_VIEW_TAG_NUMBER`
 
@@ -674,7 +674,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_UIKIT_METAL_V
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5195).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5195).
 
 ## `SDL_PROP_WINDOW_UIKIT_OPENGL_FRAMEBUFFER_NUMBER`
 
@@ -686,7 +686,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_UIKIT_OPENGL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5124).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5124).
 
 ## `SDL_PROP_WINDOW_UIKIT_OPENGL_RENDERBUFFER_NUMBER`
 
@@ -698,7 +698,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_UIKIT_OPENGL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5210).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5210).
 
 ## `SDL_PROP_WINDOW_UIKIT_OPENGL_RESOLVE_FRAMEBUFFER_NUMBER`
 
@@ -710,7 +710,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_UIKIT_OPENGL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5298).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5298).
 
 ## `SDL_PROP_WINDOW_UIKIT_WINDOW_POINTER`
 
@@ -722,7 +722,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_UIKIT_WINDOW_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5276).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5276).
 
 ## `SDL_PROP_WINDOW_VIVANTE_DISPLAY_POINTER`
 
@@ -734,7 +734,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_VIVANTE_DISPL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5353).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5353).
 
 ## `SDL_PROP_WINDOW_VIVANTE_SURFACE_POINTER`
 
@@ -746,7 +746,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_VIVANTE_SURFA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4824).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4824).
 
 ## `SDL_PROP_WINDOW_VIVANTE_WINDOW_POINTER`
 
@@ -758,7 +758,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_VIVANTE_WINDO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5279).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5279).
 
 ## `SDL_PROP_WINDOW_WAYLAND_DISPLAY_POINTER`
 
@@ -770,7 +770,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_DISPL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5092).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5092).
 
 ## `SDL_PROP_WINDOW_WAYLAND_EGL_WINDOW_POINTER`
 
@@ -782,7 +782,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_EGL_W
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4871).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4871).
 
 ## `SDL_PROP_WINDOW_WAYLAND_SURFACE_POINTER`
 
@@ -794,7 +794,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_SURFA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4941).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4941).
 
 ## `SDL_PROP_WINDOW_WAYLAND_VIEWPORT_POINTER`
 
@@ -806,7 +806,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_VIEWP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5189).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5189).
 
 ## `SDL_PROP_WINDOW_WAYLAND_XDG_POPUP_POINTER`
 
@@ -818,7 +818,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_XDG_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4861).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4861).
 
 ## `SDL_PROP_WINDOW_WAYLAND_XDG_POSITIONER_POINTER`
 
@@ -830,7 +830,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_XDG_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5082).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5082).
 
 ## `SDL_PROP_WINDOW_WAYLAND_XDG_SURFACE_POINTER`
 
@@ -842,7 +842,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_XDG_S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5244).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5244).
 
 ## `SDL_PROP_WINDOW_WAYLAND_XDG_TOPLEVEL_EXPORT_HANDLE_STRING`
 
@@ -854,7 +854,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_XDG_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5087).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5087).
 
 ## `SDL_PROP_WINDOW_WAYLAND_XDG_TOPLEVEL_POINTER`
 
@@ -866,7 +866,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WAYLAND_XDG_T
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5383).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5383).
 
 ## `SDL_PROP_WINDOW_WIN32_HDC_POINTER`
 
@@ -878,7 +878,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WIN32_HDC_POI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5008).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5008).
 
 ## `SDL_PROP_WINDOW_WIN32_HWND_POINTER`
 
@@ -890,7 +890,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WIN32_HWND_PO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5199).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5199).
 
 ## `SDL_PROP_WINDOW_WIN32_INSTANCE_POINTER`
 
@@ -902,7 +902,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_WIN32_INSTANC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5202).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5202).
 
 ## `SDL_PROP_WINDOW_X11_DISPLAY_POINTER`
 
@@ -914,7 +914,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_X11_DISPLAY_P
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5155).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5155).
 
 ## `SDL_PROP_WINDOW_X11_SCREEN_NUMBER`
 
@@ -926,7 +926,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_X11_SCREEN_NU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5263).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5263).
 
 ## `SDL_PROP_WINDOW_X11_WINDOW_NUMBER`
 
@@ -938,4 +938,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_PROP_WINDOW_X11_WINDOW_NU
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5338).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5338).

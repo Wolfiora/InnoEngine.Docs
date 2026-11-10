@@ -48,7 +48,7 @@ Owns optional shared state and lifecycle for one editor feature.
 Simple panels and actions do not need a module.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L13).
 
 ## `#ctor`
 
@@ -61,7 +61,7 @@ protected Inno.Editor.Core.EditorModule.EditorModule()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L13).
 
 ## `Capture`
 
@@ -81,7 +81,7 @@ no state reads or writes.
 **Parameter `state`:** The writable parameter that receives the complete readable state for this module.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L172).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L172).
 
 ## `OnDispose`
 
@@ -96,7 +96,7 @@ Releases resources owned by this module after it has stopped and left the active
 generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L195).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L195).
 
 ## `OnStart`
 
@@ -112,7 +112,7 @@ Runs after the module generation becomes active and before its first update.
 **Parameter `context`:** The shared editor context for the active runtime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L133).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L133).
 
 ## `OnStop`
 
@@ -131,7 +131,7 @@ and preserve unfinished ownership; completed steps must be idempotent across ret
 **Parameter `context`:** The shared editor context for the runtime being stopped.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L157).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L157).
 
 ## `OnUpdate`
 
@@ -147,7 +147,7 @@ Runs once per editor frame before views are drawn.
 **Parameter `context`:** The shared editor context containing the current frame state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L143).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L143).
 
 ## `Restore`
 
@@ -167,7 +167,7 @@ module is started and before the module is allowed to capture replacement state.
 fallback supplied to ```Inno.Editor.Core.EditorState.Get``1(System.String,``0)```.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L187).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L187).
 
 ## `Start`
 
@@ -189,7 +189,7 @@ Starts the module after the containing extension generation becomes active.
 **Throws `System.InvalidOperationException`:** Thrown when the module is already started.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L46).
 
 ## `Stop`
 
@@ -213,7 +213,7 @@ Stops the module before the containing extension generation is released.
 **Throws `Inno.Core.Execution.RetirementPendingException`:** Live work still depends on this module. Its owner must retain it and retry Stop before disposal.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L102).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L102).
 
 ## `Update`
 
@@ -235,7 +235,7 @@ Updates the module once per editor frame before panels and modals are drawn.
 **Throws `System.InvalidOperationException`:** Thrown when the module is not started.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L74).
 
 ## `blocksFollowingUpdates`
 
@@ -252,4 +252,4 @@ Gets whether modules ordered after this module must defer their updates for the 
 transition that later modules must not observe partially. Panels and modals remain drawable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorModule.cs#L28).

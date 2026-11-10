@@ -41,7 +41,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryPayload : System.IDisp
 Owns immutable neutral bytes used by a reload-safe editor history change.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L9).
 
 ## `Dispose`
 
@@ -55,7 +55,7 @@ public void Inno.Editor.Interactions.EditorHistoryPayload.Dispose()
 Releases the resident or temporary disk storage owned by this payload.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L90).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L90).
 
 ## `FromBytes`
 
@@ -73,7 +73,7 @@ Creates an immutable history payload by copying the supplied bytes.
 **Returns:** A new independently owned payload.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L55).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L55).
 
 ## `ReadBytes`
 
@@ -91,7 +91,7 @@ Reads the complete immutable payload into a newly allocated byte array.
 **Throws `System.ObjectDisposedException`:** Thrown after the payload has been disposed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L66).
 
 ## `isStoredOnDisk`
 
@@ -105,7 +105,7 @@ public bool Inno.Editor.Interactions.EditorHistoryPayload.isStoredOnDisk { get; 
 Gets whether the payload is retained in the temporary disk store instead of resident memory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L40).
 
 ## `length`
 
@@ -119,4 +119,4 @@ public long Inno.Editor.Interactions.EditorHistoryPayload.length { get; }
 Gets the number of immutable bytes represented by this payload.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryPayload.cs#L35).

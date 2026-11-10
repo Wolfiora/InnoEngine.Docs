@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_COMPUTE_STO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4444).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4444).
 
 ## `SDL_GPU_BUFFERUSAGE_COMPUTE_STORAGE_WRITE`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_COMPUTE_STO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4778).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4778).
 
 ## `SDL_GPU_BUFFERUSAGE_GRAPHICS_STORAGE_READ`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_GRAPHICS_ST
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4425).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4425).
 
 ## `SDL_GPU_BUFFERUSAGE_INDEX`
 
@@ -62,7 +62,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_INDEX = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4442).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4442).
 
 ## `SDL_GPU_BUFFERUSAGE_INDIRECT`
 
@@ -74,7 +74,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_INDIRECT = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4406).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4406).
 
 ## `SDL_GPU_BUFFERUSAGE_VERTEX`
 
@@ -86,4 +86,4 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDL_GPU_BUFFERUSAGE_VERTEX = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4611).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4611).

@@ -42,7 +42,7 @@ public abstract class Inno.Editor.Core.EditorRuntime : System.IDisposable
 Defines the presentation-independent lifecycle of an editor runtime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L8).
 
 ## `#ctor`
 
@@ -60,7 +60,7 @@ Creates a runtime for the supplied passive context.
 **Throws `System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L19).
 
 ## `Dispose`
 
@@ -74,7 +74,7 @@ public abstract void Inno.Editor.Core.EditorRuntime.Dispose()
 Stops the runtime and releases active extensions.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L57).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L57).
 
 ## `SetFrame`
 
@@ -90,7 +90,7 @@ Advances frame-scoped data and publishes the latest immutable frame.
 **Parameter `frame`:** The frame to publish.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L48).
 
 ## `Start`
 
@@ -104,7 +104,7 @@ public abstract void Inno.Editor.Core.EditorRuntime.Start()
 Starts the runtime and activates its initial extension generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L32).
 
 ## `Update`
 
@@ -120,7 +120,7 @@ Updates the runtime for one editor frame.
 **Parameter `frame`:** The immutable frame state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L40).
 
 ## `context`
 
@@ -134,4 +134,4 @@ public Inno.Editor.Core.EditorContext Inno.Editor.Core.EditorRuntime.context { g
 Gets the shared passive editor context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L27).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorRuntime.cs#L27).

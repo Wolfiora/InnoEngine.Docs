@@ -46,7 +46,7 @@ public readonly record struct Inno.Editor.Interactions.HotKeyGesture : System.IE
 Describes one keyboard gesture used to invoke an editor command.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `#ctor`
 
@@ -68,7 +68,7 @@ Creates a keyboard gesture with an exact set of modifier keys after symbolic-key
 **Throws `System.ArgumentException`:** The modifier label is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L31).
 
 ## `Equals`
 
@@ -86,7 +86,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `Equals`
 
@@ -104,7 +104,7 @@ Indicates whether this instance and a specified object are equal.
 **Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `GetHashCode`
 
@@ -120,7 +120,7 @@ Returns the hash code for this instance.
 **Returns:** A 32-bit signed integer that is the hash code for this instance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `op_Equality`
 
@@ -133,7 +133,7 @@ public static bool Inno.Editor.Interactions.HotKeyGesture.operator ==(Inno.Edito
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `op_Inequality`
 
@@ -146,7 +146,7 @@ public static bool Inno.Editor.Interactions.HotKeyGesture.operator !=(Inno.Edito
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L12).
 
 ## `Primary`
 
@@ -168,7 +168,7 @@ Creates a gesture that includes the product-selected primary modifier.
 **Returns:** A product-resolved keyboard gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L67).
 
 ## `ToString`
 
@@ -184,7 +184,7 @@ Formats the gesture as a human-readable editor menu shortcut label.
 **Returns:** A product-resolved textual representation of the gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L82).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L82).
 
 ## `key`
 
@@ -198,7 +198,7 @@ public Inno.Core.Input.KeyCode Inno.Editor.Interactions.HotKeyGesture.key { get;
 Gets the main key.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L45).
 
 ## `modifiers`
 
@@ -212,4 +212,4 @@ public Inno.Core.Input.KeyModifier Inno.Editor.Interactions.HotKeyGesture.modifi
 Gets the required modifiers.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/HotKeyGesture.cs#L50).

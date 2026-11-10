@@ -35,7 +35,7 @@ public interface Inno.Editor.Interactions.IEditorSelectionCoordinator
 Coordinates host-owned selection and the Core identity lifetime of temporary presentations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L10).
 
 ## `RegisterIdentityDomain`
 
@@ -59,7 +59,7 @@ Registers the Core identity domain used by a temporary scene presentation.
 **Throws `System.ObjectDisposedException`:** The coordinator has retired.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L31).
 
 ## `SetSelection`
 
@@ -75,7 +75,7 @@ Replaces the current target after closing presentations owned by another target.
 **Parameter `target`:** The new target, or `null` to clear selection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L44).
 
 ## `selectedTarget`
 
@@ -89,4 +89,4 @@ object? Inno.Editor.Interactions.IEditorSelectionCoordinator.selectedTarget { ge
 Gets the currently selected target, or `null` when selection is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/IEditorSelectionCoordinator.cs#L36).

@@ -38,7 +38,7 @@ public enum Inno.Native.Sdl3.SDLPenDeviceType : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58565).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58565).
 
 ## `SDL_PEN_DEVICE_TYPE_DIRECT`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLPenDeviceType.SDL_PEN_DEVICE_TYPE_DIRECT = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58569).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58569).
 
 ## `SDL_PEN_DEVICE_TYPE_INDIRECT`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLPenDeviceType.SDL_PEN_DEVICE_TYPE_INDIRECT = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58570).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58570).
 
 ## `SDL_PEN_DEVICE_TYPE_INVALID`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLPenDeviceType.SDL_PEN_DEVICE_TYPE_INVALID = -1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58567).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58567).
 
 ## `SDL_PEN_DEVICE_TYPE_UNKNOWN`
 
@@ -86,4 +86,4 @@ Inno.Native.Sdl3.SDLPenDeviceType.SDL_PEN_DEVICE_TYPE_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58568).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L58568).

@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Interactions.EditorShortcutAttribute : System.At
 Associates an editor action with a keyboard shortcut.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L11).
 
 ## `#ctor`
 
@@ -60,7 +60,7 @@ Creates a shortcut that can be dispatched from any focused interaction surface.
 **Parameter `primary`:** Whether the platform primary modifier, Command on macOS or Control elsewhere, is required.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L25).
 
 ## `#ctor`
 
@@ -82,7 +82,7 @@ Creates a shortcut scoped to an exact interaction area.
 **Parameter `primary`:** Whether the platform primary modifier, Command on macOS or Control elsewhere, is required.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L49).
 
 ## `area`
 
@@ -96,7 +96,7 @@ public string Inno.Editor.Interactions.EditorShortcutAttribute.area { get; }
 Gets the optional exact interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L64).
 
 ## `key`
 
@@ -110,7 +110,7 @@ public Inno.Core.Input.KeyCode Inno.Editor.Interactions.EditorShortcutAttribute.
 Gets the shortcut key.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L69).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L69).
 
 ## `modifiers`
 
@@ -124,7 +124,7 @@ public Inno.Core.Input.KeyModifier Inno.Editor.Interactions.EditorShortcutAttrib
 Gets additional shortcut modifiers.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L74).
 
 ## `primary`
 
@@ -138,4 +138,4 @@ public bool Inno.Editor.Interactions.EditorShortcutAttribute.primary { get; }
 Gets whether the platform primary modifier is required.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L79).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorShortcutAttribute.cs#L79).

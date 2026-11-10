@@ -43,7 +43,7 @@ public enum Inno.Native.Sdl3.SDLGPUCompareOp : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55469).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55469).
 
 ## `SDL_GPU_COMPAREOP_ALWAYS`
 
@@ -55,7 +55,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_ALWAYS = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55479).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55479).
 
 ## `SDL_GPU_COMPAREOP_EQUAL`
 
@@ -67,7 +67,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_EQUAL = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55474).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55474).
 
 ## `SDL_GPU_COMPAREOP_GREATER`
 
@@ -79,7 +79,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_GREATER = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55476).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55476).
 
 ## `SDL_GPU_COMPAREOP_GREATER_OR_EQUAL`
 
@@ -91,7 +91,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_GREATER_OR_EQUAL = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55478).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55478).
 
 ## `SDL_GPU_COMPAREOP_INVALID`
 
@@ -103,7 +103,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_INVALID = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55471).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55471).
 
 ## `SDL_GPU_COMPAREOP_LESS`
 
@@ -115,7 +115,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_LESS = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55473).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55473).
 
 ## `SDL_GPU_COMPAREOP_LESS_OR_EQUAL`
 
@@ -127,7 +127,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_LESS_OR_EQUAL = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55475).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55475).
 
 ## `SDL_GPU_COMPAREOP_NEVER`
 
@@ -139,7 +139,7 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_NEVER = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55472).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55472).
 
 ## `SDL_GPU_COMPAREOP_NOT_EQUAL`
 
@@ -151,4 +151,4 @@ Inno.Native.Sdl3.SDLGPUCompareOp.SDL_GPU_COMPAREOP_NOT_EQUAL = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55477).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55477).

@@ -26,7 +26,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_EJECT = 1073742094
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4582).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4582).
 
 ## `SDLK_MEDIA_FAST_FORWARD`
 
@@ -38,7 +38,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_FAST_FORWARD = 10737
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4378).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4378).
 
 ## `SDLK_MEDIA_NEXT_TRACK`
 
@@ -50,7 +50,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_NEXT_TRACK = 1073742
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4794).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4794).
 
 ## `SDLK_MEDIA_PAUSE`
 
@@ -62,7 +62,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_PAUSE = 1073742087
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4639).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4639).
 
 ## `SDLK_MEDIA_PLAY`
 
@@ -74,7 +74,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_PLAY = 1073742086
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4755).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4755).
 
 ## `SDLK_MEDIA_PLAY_PAUSE`
 
@@ -86,7 +86,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_PLAY_PAUSE = 1073742
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4674).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4674).
 
 ## `SDLK_MEDIA_PREVIOUS_TRACK`
 
@@ -98,7 +98,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_PREVIOUS_TRACK = 107
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4768).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4768).
 
 ## `SDLK_MEDIA_RECORD`
 
@@ -110,7 +110,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_RECORD = 1073742088
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4386).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4386).
 
 ## `SDLK_MEDIA_REWIND`
 
@@ -122,7 +122,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_REWIND = 1073742090
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4495).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4495).
 
 ## `SDLK_MEDIA_SELECT`
 
@@ -134,7 +134,7 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_SELECT = 1073742096
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4370).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4370).
 
 ## `SDLK_MEDIA_STOP`
 
@@ -146,4 +146,4 @@ public const uint Inno.Native.Sdl3.SDL.Constants.SDLK_MEDIA_STOP = 1073742093
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4680).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4680).

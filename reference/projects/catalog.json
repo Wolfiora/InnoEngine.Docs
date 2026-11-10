@@ -293,8 +293,10 @@
   {
     "name": "Inno.Build.Cli",
     "path": "build/cli/Inno.Build.Cli/Inno.Build.Cli.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-build-cli.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -307,8 +309,10 @@
   {
     "name": "Inno.Build.Distribution.Standard",
     "path": "build/distributions/Inno.Build.Distribution.Standard/Inno.Build.Distribution.Standard.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-build-distribution-standard.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -480,6 +484,13 @@
     "isTest": false
   },
   {
+    "name": "Inno.Build.Windows.Host",
+    "path": "platforms/Windows/build/Inno.Build.Windows.Host/Inno.Build.Windows.Host.csproj",
+    "entry": null,
+    "surfaces": [],
+    "isTest": false
+  },
+  {
     "name": "Inno.Build.WindowsX64",
     "path": "platforms/WindowsX64/build/Inno.Build.WindowsX64/Inno.Build.WindowsX64.csproj",
     "entry": null,
@@ -531,13 +542,6 @@
   {
     "name": "Inno.Platform.WindowsX64",
     "path": "platforms/WindowsX64/runtime/Inno.Platform.WindowsX64/Inno.Platform.WindowsX64.csproj",
-    "entry": null,
-    "surfaces": [],
-    "isTest": false
-  },
-  {
-    "name": "Inno.Build.Windows.Host",
-    "path": "platforms/Windows/build/Inno.Build.Windows.Host/Inno.Build.Windows.Host.csproj",
     "entry": null,
     "surfaces": [],
     "isTest": false
@@ -1322,6 +1326,13 @@
     "isTest": true
   },
   {
+    "name": "Inno.Build.Cli.Tests",
+    "path": "tests/build/Inno.Build.Cli.Tests/Inno.Build.Cli.Tests.csproj",
+    "entry": null,
+    "surfaces": [],
+    "isTest": true
+  },
+  {
     "name": "Inno.Build.NativePerformance.Tests",
     "path": "tests/build/Inno.Build.NativePerformance.Tests/Inno.Build.NativePerformance.Tests.csproj",
     "entry": null,
@@ -1758,15 +1769,19 @@
   {
     "name": "Inno.Tooling.Architecture",
     "path": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-tooling-architecture.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Tooling.Documentation",
     "path": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-tooling-documentation.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

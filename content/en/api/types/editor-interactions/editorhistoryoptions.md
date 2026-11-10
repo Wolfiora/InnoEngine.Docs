@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryOptions
 Configures retention and payload storage for one editor history.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L8).
 
 ## `#ctor`
 
@@ -53,7 +53,7 @@ public Inno.Editor.Interactions.EditorHistoryOptions.EditorHistoryOptions()
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L8).
 
 ## `cacheDirectory`
 
@@ -67,7 +67,7 @@ public string? Inno.Editor.Interactions.EditorHistoryOptions.cacheDirectory { ge
 Gets or initializes the optional directory that owns temporary history payloads for this editor session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L33).
 
 ## `inlinePayloadThreshold`
 
@@ -81,7 +81,7 @@ public int Inno.Editor.Interactions.EditorHistoryOptions.inlinePayloadThreshold 
 Gets or initializes the payload size at which immutable bytes are moved to the temporary disk store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L28).
 
 ## `maxDiskBytes`
 
@@ -95,7 +95,7 @@ public long Inno.Editor.Interactions.EditorHistoryOptions.maxDiskBytes { get; in
 Gets or initializes the maximum payload bytes retained in the temporary disk store.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L23).
 
 ## `maxEntries`
 
@@ -109,7 +109,7 @@ public int Inno.Editor.Interactions.EditorHistoryOptions.maxEntries { get; init;
 Gets or initializes the maximum number of committed top-level entries retained in memory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L13).
 
 ## `maxResidentBytes`
 
@@ -123,4 +123,4 @@ public long Inno.Editor.Interactions.EditorHistoryOptions.maxResidentBytes { get
 Gets or initializes the maximum estimated resident payload bytes retained by the history.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryOptions.cs#L18).

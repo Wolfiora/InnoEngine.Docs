@@ -57,7 +57,7 @@ before creating a fresh handle. Focus and deferred routing capture their own ide
 Target-free handles can be reused within their owning interaction runtime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L14).
 
 ## `BeginDrag`
 
@@ -75,7 +75,7 @@ Begins a managed drag originating from this area.
 **Returns:** The source object's domain-qualified transient identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L197).
 
 ## `BuildCommands`
 
@@ -91,7 +91,7 @@ Builds searchable commands from this area's menus and applicable unplaced Action
 **Returns:** Current command states and neutral placement arguments; execution revalidates their targets.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L151).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L151).
 
 ## `BuildMenu`
 
@@ -107,7 +107,7 @@ Builds the complete contextual menu for this area and target.
 **Returns:** The immutable resolved menu model.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L144).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L144).
 
 ## `BuildToolbar`
 
@@ -123,7 +123,7 @@ Builds the complete compact toolbar for this area and target.
 **Returns:** The immutable resolved toolbar model.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L158).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L158).
 
 ## `Drop`
 
@@ -143,7 +143,7 @@ Delivers a managed drop to this target.
 **Returns:** The completed drop result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L226).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L226).
 
 ## `Enqueue`
 
@@ -163,7 +163,7 @@ Queues an action until the current UI traversal completes.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L102).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L102).
 
 ## `Execute`
 
@@ -185,7 +185,7 @@ Executes an action for this area and target.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L86).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L86).
 
 ## `Focus`
 
@@ -199,7 +199,7 @@ public void Inno.Editor.Interactions.EditorInteraction.Focus()
 Marks this area and target as the active keyboard context.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L44).
 
 ## `IsActive`
 
@@ -219,7 +219,7 @@ Gets whether an action owns an active multi-frame operation for this target.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L137).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L137).
 
 ## `Present`
 
@@ -241,7 +241,7 @@ Presents an active action in place of this target's normal content.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L121).
 
 ## `Query`
 
@@ -263,7 +263,7 @@ Queries an action for this area and target.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L67).
 
 ## `QueryDrop`
 
@@ -283,7 +283,7 @@ Queries this handle as a drop target.
 **Returns:** The drop compatibility and visual state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L210).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L210).
 
 ## `Select`
 
@@ -299,7 +299,7 @@ Selects this target, or clears selection when the target is `null`.
 **Returns:** `true` when the built-in selection action executed; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L51).
 
 ## `TryGetActiveDragIdentity`
 
@@ -317,7 +317,7 @@ Gets the currently active drag identity, if its source remains registered.
 **Returns:** `true` when a live drag source exists; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L187).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L187).
 
 ## `TryGetShortcut`
 
@@ -339,7 +339,7 @@ Resolves the shortcut displayed for an action in this area.
 **Throws `System.ArgumentException`:** Thrown when `action` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L174).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L174).
 
 ## `area`
 
@@ -353,7 +353,7 @@ public string Inno.Editor.Interactions.EditorInteraction.area { get; }
 Gets the stable interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L31).
 
 ## `isSelected`
 
@@ -367,7 +367,7 @@ public bool Inno.Editor.Interactions.EditorInteraction.isSelected { get; }
 Gets whether this handle's target is the current editor selection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L39).
 
 ## `target`
 
@@ -381,4 +381,4 @@ public object? Inno.Editor.Interactions.EditorInteraction.target { get; }
 Gets the borrowed target without extending its validity or resolving a replacement generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteraction.cs#L35).

@@ -1,0 +1,65 @@
+{
+  "project": "Inno.Tooling.Documentation",
+  "outputDirectory": "content/en/api/types/tooling-documentation",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "facts": "reference/api/tooling.json",
+  "factsIdentity": "353d3ceaf3376d87464e9657b3fcd1973dbb4522f30a81ce9cae489751cd1c9f",
+  "sharedContract": "project.inno-tooling-documentation#failure-and-ownership-boundaries",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationcatalogreport.md",
+      "sha256": "7b42b0a56c2a6bcf87e7b6b4ee36ca403f04b868441ef9cfc1c30c9a1238fe2d"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationcodeblockinfo.md",
+      "sha256": "60af587115e04e08ad674725ca82671ff1644989d199fb970cc507d4a0ab8510"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationcommand.md",
+      "sha256": "5fdf5324663d1a16747013728d3cdcfd75f7884d9d8a526a28b6ac0ddd3a94d9"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationcontinuation.md",
+      "sha256": "3384e5b8465d138e51a9af9952dd390037e21fcbb921dffeb2411c8a9ef17e62"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationexamplecontext.md",
+      "sha256": "27cc69a3867a50b26efa243488dc38466a3c6ae711a89f9dd4b7eef08beaca7a"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationhit.md",
+      "sha256": "909924bd8797bf7bfa1dc108fe959ac8eb46156b32f98da8fdde86e594a3f2d6"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationpageinfo.md",
+      "sha256": "e17e27b8e24c50e01c13c5039bc6d6d05d4b50da911a0c51db675a51becf322c"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationrequest.md",
+      "sha256": "d705fcb29c693906908d54ea38387a0ea7e415d14af416cf69a7fbf84fe6965a"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationresult.md",
+      "sha256": "773f975a24533e4e2c9668172dd1cc69b6043bd5b6bc64def9ca587be00444b6"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationsnapshot.md",
+      "sha256": "fb443cd61e7ce766106d535d248da47e0f5515823b9a483b5c20f86315dfece3"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationstore.md",
+      "sha256": "3948bea7cc7593bf76568b6ed6182f0104d411c06d9f0ae6c772db6b1ccbb36a"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationsymbolinfo.md",
+      "sha256": "c64efd6e5215af184ed6c577658b1eabcc6832e7cda3335fb9936eda8f58601a"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/index.md",
+      "sha256": "f955c91c34e98ca5b6efa6a66625009cbeb77ba2128b5398ce9c48e891c230b4"
+    }
+  ]
+}

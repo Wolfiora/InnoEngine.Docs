@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Core.EditorKeyboardPolicy
 Supplies immutable keyboard conventions selected by the Editor product composition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L9).
 
 ## `#ctor`
 
@@ -57,7 +57,7 @@ Defines the primary shortcut modifier and the display name of the Super modifier
 **Throws `System.ArgumentException`:** The modifier is not one supported modifier or the label is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L23).
 
 ## `primaryModifier`
 
@@ -71,7 +71,7 @@ public Inno.Core.Input.KeyModifier Inno.Editor.Core.EditorKeyboardPolicy.primary
 Gets the modifier used when resolving symbolic primary shortcuts.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L37).
 
 ## `superModifierLabel`
 
@@ -85,4 +85,4 @@ public string Inno.Editor.Core.EditorKeyboardPolicy.superModifierLabel { get; }
 Gets the product-selected display name of the Super modifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorKeyboardPolicy.cs#L42).

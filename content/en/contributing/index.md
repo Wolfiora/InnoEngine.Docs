@@ -23,6 +23,8 @@ Documentation builds consume pinned project/API facts. Editing prose or website 
 
 Follow [example validation](example-validation.md) to declare host or script context and compile the exact code returned by the canonical documentation snapshot.
 
+[Compile scripts and generate IDE projects](compile-project-scripts.md) to prepare the actual script references without Native product preparation.
+
 ## Coordinate behavior and documentation
 
 Public behavior changes use paired PRs and immutable source identities. Preparing a documentation candidate does not automatically make it the published reference for a merged engine version. Publish only a matching, verified pair.

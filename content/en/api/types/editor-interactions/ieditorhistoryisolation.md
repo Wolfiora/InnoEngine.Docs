@@ -33,7 +33,7 @@ public interface Inno.Editor.Interactions.IEditorHistoryIsolation
 Creates temporary history branches for transient editor workflows without exposing history internals.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistoryIsolation.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistoryIsolation.cs#L8).
 
 ## `BeginHistoryIsolation`
 
@@ -51,4 +51,4 @@ Starts an independently disposable history branch while retaining the current ed
 **Throws `System.InvalidOperationException`:** Thrown while another history transition, transaction, or isolated branch is active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistoryIsolation.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistoryIsolation.cs#L19).

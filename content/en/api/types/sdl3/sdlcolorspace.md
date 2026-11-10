@@ -47,7 +47,7 @@ public enum Inno.Native.Sdl3.SDLColorspace : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53779).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53779).
 
 ## `SDL_COLORSPACE_BT2020_FULL`
 
@@ -59,7 +59,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT2020_FULL = 571483657
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53791).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53791).
 
 ## `SDL_COLORSPACE_BT2020_LIMITED`
 
@@ -71,7 +71,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT2020_LIMITED = 554706441
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53790).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53790).
 
 ## `SDL_COLORSPACE_BT601_FULL`
 
@@ -83,7 +83,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT601_FULL = 571480262
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53787).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53787).
 
 ## `SDL_COLORSPACE_BT601_LIMITED`
 
@@ -95,7 +95,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT601_LIMITED = 554703046
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53786).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53786).
 
 ## `SDL_COLORSPACE_BT709_FULL`
 
@@ -107,7 +107,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT709_FULL = 571474977
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53789).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53789).
 
 ## `SDL_COLORSPACE_BT709_LIMITED`
 
@@ -119,7 +119,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_BT709_LIMITED = 554697761
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53788).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53788).
 
 ## `SDL_COLORSPACE_HDR10`
 
@@ -131,7 +131,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_HDR10 = 301999616
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53784).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53784).
 
 ## `SDL_COLORSPACE_JPEG`
 
@@ -143,7 +143,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_JPEG = 570426566
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53785).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53785).
 
 ## `SDL_COLORSPACE_RGB_DEFAULT`
 
@@ -155,7 +155,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_RGB_DEFAULT = 301991328
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53792).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53792).
 
 ## `SDL_COLORSPACE_SRGB`
 
@@ -167,7 +167,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_SRGB = 301991328
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53782).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53782).
 
 ## `SDL_COLORSPACE_SRGB_LINEAR`
 
@@ -179,7 +179,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_SRGB_LINEAR = 301991168
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53783).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53783).
 
 ## `SDL_COLORSPACE_UNKNOWN`
 
@@ -191,7 +191,7 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53781).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53781).
 
 ## `SDL_COLORSPACE_YUV_DEFAULT`
 
@@ -203,4 +203,4 @@ Inno.Native.Sdl3.SDLColorspace.SDL_COLORSPACE_YUV_DEFAULT = 554703046
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53793).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L53793).

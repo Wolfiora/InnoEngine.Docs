@@ -43,7 +43,7 @@ public enum Inno.Native.Sdl3.SDLGPUStencilOp : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56240).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56240).
 
 ## `SDL_GPU_STENCILOP_DECREMENT_AND_CLAMP`
 
@@ -55,7 +55,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_DECREMENT_AND_CLAMP = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56247).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56247).
 
 ## `SDL_GPU_STENCILOP_DECREMENT_AND_WRAP`
 
@@ -67,7 +67,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_DECREMENT_AND_WRAP = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56250).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56250).
 
 ## `SDL_GPU_STENCILOP_INCREMENT_AND_CLAMP`
 
@@ -79,7 +79,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_INCREMENT_AND_CLAMP = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56246).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56246).
 
 ## `SDL_GPU_STENCILOP_INCREMENT_AND_WRAP`
 
@@ -91,7 +91,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_INCREMENT_AND_WRAP = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56249).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56249).
 
 ## `SDL_GPU_STENCILOP_INVALID`
 
@@ -103,7 +103,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_INVALID = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56242).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56242).
 
 ## `SDL_GPU_STENCILOP_INVERT`
 
@@ -115,7 +115,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_INVERT = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56248).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56248).
 
 ## `SDL_GPU_STENCILOP_KEEP`
 
@@ -127,7 +127,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_KEEP = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56243).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56243).
 
 ## `SDL_GPU_STENCILOP_REPLACE`
 
@@ -139,7 +139,7 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_REPLACE = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56245).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56245).
 
 ## `SDL_GPU_STENCILOP_ZERO`
 
@@ -151,4 +151,4 @@ Inno.Native.Sdl3.SDLGPUStencilOp.SDL_GPU_STENCILOP_ZERO = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56244).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56244).

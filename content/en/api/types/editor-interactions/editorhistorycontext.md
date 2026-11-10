@@ -36,7 +36,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryContext
 Provides current-generation editor services to a history change handler.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L10).
 
 ## `editor`
 
@@ -50,7 +50,7 @@ public Inno.Editor.Core.EditorContext Inno.Editor.Interactions.EditorHistoryCont
 Gets the passive editor context for the active project.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L23).
 
 ## `interactions`
 
@@ -64,4 +64,4 @@ public Inno.Editor.Interactions.EditorInteractions Inno.Editor.Interactions.Edit
 Gets the active interaction entry point used for selection and feature coordination.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryContext.cs#L28).

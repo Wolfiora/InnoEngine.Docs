@@ -60,7 +60,7 @@ public sealed class Inno.Editor.Interactions.EditorInteractions : Inno.Editor.In
 Provides the single presentation-independent entry point for editor actions, menus, selection, focus, and drag-and-drop.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L15).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L15).
 
 ## `BeginHistoryIsolation`
 
@@ -81,7 +81,7 @@ This host-level boundary is intended for transient editor sessions such as Play 
 **Throws `System.InvalidOperationException`:** Thrown during an Undo, Redo, transaction, or another isolated branch.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L118).
 
 ## `ClosePanel`
 
@@ -101,7 +101,7 @@ Closes one panel in the active extension generation without toggling its current
 **Throws `System.ArgumentException`:** Thrown when `panelId` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L450).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L450).
 
 ## `For`
 
@@ -123,7 +123,7 @@ Creates a lightweight interaction handle for one area and optional target.
 **Throws `System.ArgumentException`:** Thrown when `area` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L173).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L173).
 
 ## `GetPanelDeclarations`
 
@@ -139,7 +139,7 @@ Gets immutable discovery metadata for the active, available panels.
 **Returns:** Current panel declarations; the snapshot contains no panel or extension instances.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L131).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L131).
 
 ## `OpenPanel`
 
@@ -159,7 +159,7 @@ Opens and requests presentation focus for one panel in the active extension gene
 **Throws `System.ArgumentException`:** Thrown when `panelId` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L432).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L432).
 
 ## `RegisterIdentityDomain`
 
@@ -183,7 +183,7 @@ Makes a temporary Core identity domain available to selection, focus and drag re
 **Throws `System.ObjectDisposedException`:** The interaction runtime has retired its identity routing.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L364).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L364).
 
 ## `SelectRange`
 
@@ -209,7 +209,7 @@ Selects the inclusive visible range between the current anchor and the clicked t
 **Throws `System.InvalidOperationException`:** A range identity is unavailable; the current selection remains unchanged.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L258).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L258).
 
 ## `SetSelection`
 
@@ -231,7 +231,7 @@ Replaces the ordered selection; duplicates are removed and the final target beco
 **Throws `System.InvalidOperationException`:** A target has no live identity registration.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L208).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L208).
 
 ## `SetSelection`
 
@@ -247,7 +247,7 @@ Replaces the editor selection after closing presentations owned by other targets
 **Parameter `target`:** The target to select, or `null` to clear the selection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L183).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L183).
 
 ## `TogglePanel`
 
@@ -267,7 +267,7 @@ Toggles one panel in the currently active extension generation.
 **Throws `System.ArgumentException`:** Thrown when `panelId` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L339).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L339).
 
 ## `ToggleSelection`
 
@@ -285,7 +285,7 @@ Adds or removes a member while preserving the existing range anchor.
 **Throws `System.ArgumentNullException`:** The target is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L226).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L226).
 
 ## `TryGetActiveDragIdentity`
 
@@ -303,7 +303,7 @@ Gets the active drag identity used to select the matching native payload domain.
 **Returns:** `true` when a live drag source exists; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L326).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L326).
 
 ## `TryGetDragSource`
 
@@ -323,7 +323,7 @@ Resolves the live source for an active runtime identity.
 **Returns:** `true` when the identity is active and resolves to a live source; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L313).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L313).
 
 ## ```TryGetModule``1```
 
@@ -345,7 +345,7 @@ Resolves an active feature module for immediate use in the current Editor callba
 **Constraints:** Do not retain the result across callbacks or generation changes. Candidate modules are never exposed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L95).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L95).
 
 ## `TryGetPanelState`
 
@@ -365,7 +365,7 @@ Reads whether one available panel is currently open.
 **Returns:** True when the current generation contains the requested available panel.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L144).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L144).
 
 ## `TryResolveIdentity`
 
@@ -387,7 +387,7 @@ Resolves a persistent identity through one explicitly selected Editor identity d
 **Returns:** `true` when the stable identity resolves in the requested domain.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L411).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L411).
 
 ## `TryResolveIdentity`
 
@@ -407,7 +407,7 @@ Resolves a domain-qualified runtime identity through the Editor's complete ident
 **Returns:** `true` when the exact identity resolves in its owning domain.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L387).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L387).
 
 ## `documents`
 
@@ -421,7 +421,7 @@ public Inno.Editor.Interactions.IEditorDocumentService Inno.Editor.Interactions.
 Gets the headless reload-safe document lifetime used by dedicated asset editors and Inspectors.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L78).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L78).
 
 ## `events`
 
@@ -437,7 +437,7 @@ Gets synchronous Editor lifecycle notifications implemented by the Core event di
 **Constraints:** Own and dispose a hub rather than retaining callbacks beyond their extension generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L57).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L57).
 
 ## `focusedArea`
 
@@ -451,7 +451,7 @@ public string Inno.Editor.Interactions.EditorInteractions.focusedArea { get; }
 Gets the area that most recently received keyboard focus.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L123).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L123).
 
 ## `focusedTarget`
 
@@ -465,7 +465,7 @@ public object? Inno.Editor.Interactions.EditorInteractions.focusedTarget { get; 
 Gets the target associated with the focused area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L156).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L156).
 
 ## `history`
 
@@ -479,7 +479,7 @@ public Inno.Editor.Interactions.IEditorHistory Inno.Editor.Interactions.EditorIn
 Gets the transactional Undo and Redo history owned by this editor runtime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L74).
 
 ## `keyboard`
 
@@ -493,7 +493,7 @@ public Inno.Editor.Core.EditorKeyboardPolicy Inno.Editor.Interactions.EditorInte
 Gets the immutable product keyboard policy used by commands and selection controls.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L68).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L68).
 
 ## `selection`
 
@@ -507,4 +507,4 @@ public Inno.Editor.Interactions.EditorSelectionState Inno.Editor.Interactions.Ed
 Gets the shared read-only editor selection state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Runtime/EditorInteractions.cs#L63).

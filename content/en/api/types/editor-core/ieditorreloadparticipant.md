@@ -35,7 +35,7 @@ Contributes editor-owned live state to an assembly reload without coupling the r
 to a feature domain.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L10).
 
 ## `Capture`
 
@@ -53,7 +53,7 @@ Captures one isolated transaction for the prepared assembly generation.
 **Returns:** A transaction that has captured current state but has not modified live editor objects.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L21).
 
 ## `RefreshDiagnostics`
 
@@ -67,4 +67,4 @@ void Inno.Editor.Core.IEditorReloadParticipant.RefreshDiagnostics()
 Republishes diagnostics derived from the participant's current live state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Reloading/IEditorReloadParticipant.cs#L26).

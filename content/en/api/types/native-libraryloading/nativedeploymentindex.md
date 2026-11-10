@@ -43,7 +43,7 @@ public sealed class Inno.Native.LibraryLoading.NativeDeploymentIndex
 Describes exact native library and tool locations selected by a product's deployment owner.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L14).
 
 ## `C_FILE_NAME`
 
@@ -57,7 +57,7 @@ public const string Inno.Native.LibraryLoading.NativeDeploymentIndex.C_FILE_NAME
 Gets the index filename inside the explicitly deployed native directory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L19).
 
 ## `#ctor`
 
@@ -81,7 +81,7 @@ Freezes one product target and its explicit aliases without detecting the host O
 **Throws `System.ArgumentNullException`:** A mapping is absent.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L39).
 
 ## `Decode`
 
@@ -101,7 +101,7 @@ Reads only the current index format and validates its complete path mappings.
 **Throws `System.IO.InvalidDataException`:** The index is malformed, incomplete or contains invalid mappings.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L97).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L97).
 
 ## `Encode`
 
@@ -117,7 +117,7 @@ Encodes the deployment layout without recording SDK or build cache locations.
 **Returns:** Deterministic UTF-8 bytes for the current strict index format.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L71).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L71).
 
 ## `ResolveFile`
 
@@ -139,7 +139,7 @@ Resolves a tool or resource alias from the explicit deployment mappings.
 **Throws `System.IO.FileNotFoundException`:** The alias is absent or its payload is missing.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L150).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L150).
 
 ## `ResolveLibrary`
 
@@ -161,7 +161,7 @@ Resolves a selected library without scanning directories or guessing suffixes.
 **Throws `System.IO.FileNotFoundException`:** The name is absent or the deployed payload is missing.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L130).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L130).
 
 ## `files`
 
@@ -175,7 +175,7 @@ public System.Collections.Generic.IReadOnlyDictionary<string, string> Inno.Nativ
 Gets immutable exact tool and resource mappings selected by composition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L63).
 
 ## `libraries`
 
@@ -189,7 +189,7 @@ public System.Collections.Generic.IReadOnlyDictionary<string, string> Inno.Nativ
 Gets immutable logical library mappings selected by composition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L58).
 
 ## `targetId`
 
@@ -203,4 +203,4 @@ public string Inno.Native.LibraryLoading.NativeDeploymentIndex.targetId { get; }
 Gets the explicit product target, without reconstructing it from OS or CPU names.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L53).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDeploymentIndex.cs#L53).

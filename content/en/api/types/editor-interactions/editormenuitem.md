@@ -41,7 +41,7 @@ public sealed class Inno.Editor.Interactions.EditorMenuItem
 Represents one immutable contextual menu node.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L11).
 
 ## `actionId`
 
@@ -55,7 +55,7 @@ public string Inno.Editor.Interactions.EditorMenuItem.actionId { get; }
 Gets the stable action identifier consumed by a presentation backend.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L64).
 
 ## `argument`
 
@@ -69,7 +69,7 @@ public object? Inno.Editor.Interactions.EditorMenuItem.argument { get; }
 Gets the generation-local action argument consumed by a presentation backend.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L90).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L90).
 
 ## `children`
 
@@ -83,7 +83,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Interactions.EditorM
 Gets child menu nodes.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L84).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L84).
 
 ## `label`
 
@@ -97,7 +97,7 @@ public string Inno.Editor.Interactions.EditorMenuItem.label { get; }
 Gets the visible node label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L58).
 
 ## `order`
 
@@ -111,7 +111,7 @@ public int Inno.Editor.Interactions.EditorMenuItem.order { get; }
 Gets the stable ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L69).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L69).
 
 ## `separatorBefore`
 
@@ -125,7 +125,7 @@ public bool Inno.Editor.Interactions.EditorMenuItem.separatorBefore { get; }
 Gets whether a separator precedes this node.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L74).
 
 ## `status`
 
@@ -139,4 +139,4 @@ public Inno.Editor.Interactions.EditorActionState Inno.Editor.Interactions.Edito
 Gets the current command presentation state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L79).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuItem.cs#L79).

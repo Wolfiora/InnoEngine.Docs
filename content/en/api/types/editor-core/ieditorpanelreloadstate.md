@@ -34,7 +34,7 @@ public interface Inno.Editor.Core.IEditorPanelReloadState
 Optionally migrates presentation-neutral panel state across assembly reloads.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L8).
 
 ## `CaptureReloadState`
 
@@ -50,7 +50,7 @@ Captures presentation-neutral state without retaining runtime or plugin object r
 **Returns:** An immutable byte payload that can be consumed by the replacement panel generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L16).
 
 ## `RestoreReloadState`
 
@@ -66,4 +66,4 @@ Restores presentation-neutral state captured from the previous panel generation.
 **Parameter `state`:** The immutable payload returned by the retiring panel generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L24).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/IEditorPanelReloadState.cs#L24).

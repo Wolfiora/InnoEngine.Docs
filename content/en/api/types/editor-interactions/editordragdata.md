@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Interactions.EditorDragData
 Contains the transient identity and preview label for one editor drag operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L10).
 
 ## `#ctor`
 
@@ -59,7 +59,7 @@ Creates drag data for a registered identity object.
 **Throws `System.InvalidOperationException`:** Thrown when `source` is not registered in a live identity domain.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L27).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L27).
 
 ## `label`
 
@@ -73,7 +73,7 @@ public string Inno.Editor.Interactions.EditorDragData.label { get; }
 Gets the drag preview label.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L46).
 
 ## `sourceIdentity`
 
@@ -87,4 +87,4 @@ public Inno.Core.Identity.RuntimeIdentity Inno.Editor.Interactions.EditorDragDat
 Gets the domain-qualified transient identity written to the native drag protocol.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/DragDrop/EditorDragData.cs#L41).

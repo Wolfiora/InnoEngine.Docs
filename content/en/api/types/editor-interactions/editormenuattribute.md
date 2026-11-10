@@ -39,7 +39,7 @@ public sealed class Inno.Editor.Interactions.EditorMenuAttribute : System.Attrib
 Places an editor action at an arbitrary path on a menu surface.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -63,7 +63,7 @@ Creates a static placement for the annotated action on an exact menu surface.
 **Throws `System.ArgumentException`:** Thrown when `area` or `path` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L29).
 
 ## `area`
 
@@ -77,7 +77,7 @@ public string Inno.Editor.Interactions.EditorMenuAttribute.area { get; }
 Gets the menu area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L48).
 
 ## `order`
 
@@ -91,7 +91,7 @@ public int Inno.Editor.Interactions.EditorMenuAttribute.order { get; }
 Gets the stable menu ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L58).
 
 ## `path`
 
@@ -105,7 +105,7 @@ public string Inno.Editor.Interactions.EditorMenuAttribute.path { get; }
 Gets the slash-delimited menu path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L53).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L53).
 
 ## `separatorBefore`
 
@@ -119,4 +119,4 @@ public bool Inno.Editor.Interactions.EditorMenuAttribute.separatorBefore { get; 
 Gets whether a separator is rendered before the item.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuAttribute.cs#L63).

@@ -42,7 +42,7 @@ project state.
 restore; storage format and persistence remain private runtime details.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L14).
 
 ## `#ctor`
 
@@ -56,7 +56,7 @@ protected Inno.Editor.Core.EditorState.EditorState()
 Initializes the base contract for a runtime-owned editor state parameter.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L19).
 
 ## ```Get``1```
 
@@ -81,7 +81,7 @@ Reads a compatible value or returns the caller-provided fallback.
 **Throws `System.ArgumentException`:** Thrown when `key` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L42).
 
 ## ```Set``1```
 
@@ -107,4 +107,4 @@ Writes one neutral value under a stable extension-local key.
 **Throws `System.NotSupportedException`:** Thrown when `value` cannot be represented by the runtime state serializer.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L68).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorState.cs#L68).

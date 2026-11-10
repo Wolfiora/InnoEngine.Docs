@@ -44,7 +44,7 @@ public sealed class Inno.Editor.Interactions.EditorViewportToolSession : System.
 Routes focused viewport input to one active tool while enforcing pointer-capture ownership.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L8).
 
 ## `#ctor`
 
@@ -62,7 +62,7 @@ Creates a viewport tool session.
 **Parameter `coordinates`:** Current viewport coordinate converter.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L23).
 
 ## `Dispose`
 
@@ -76,7 +76,7 @@ public void Inno.Editor.Interactions.EditorViewportToolSession.Dispose()
 Cancels active gesture state and deactivates the tool.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L115).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L115).
 
 ## `DrawOverlay`
 
@@ -90,7 +90,7 @@ public void Inno.Editor.Interactions.EditorViewportToolSession.DrawOverlay()
 Draws the active tool overlay.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L106).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L106).
 
 ## `HandlePointer`
 
@@ -108,7 +108,7 @@ Routes one immutable pointer sample.
 **Returns:** `true` when an active tool accepted the sample.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L64).
 
 ## `HandleShortcut`
 
@@ -126,7 +126,7 @@ Routes one focused keyboard shortcut.
 **Returns:** `true` when consumed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L97).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L97).
 
 ## `SetTool`
 
@@ -142,7 +142,7 @@ Activates a tool after cancelling any current gesture.
 **Parameter `tool`:** Tool to activate, or `null` to deactivate.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L46).
 
 ## `cursor`
 
@@ -156,7 +156,7 @@ public Inno.Editor.Interactions.EditorViewportCursor Inno.Editor.Interactions.Ed
 Gets the requested cursor for the active tool.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L38).
 
 ## `tool`
 
@@ -170,4 +170,4 @@ public Inno.Editor.Interactions.EditorViewportTool? Inno.Editor.Interactions.Edi
 Gets the active tool, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolSession.cs#L33).

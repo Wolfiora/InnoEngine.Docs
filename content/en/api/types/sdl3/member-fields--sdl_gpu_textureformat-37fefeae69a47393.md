@@ -26,7 +26,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_A8_UNORM = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56427).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56427).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x10_FLOAT`
 
@@ -38,7 +38,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x10_FLOAT = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56528).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56528).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x10_UNORM`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x10_UNORM = 74
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56500).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56500).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x10_UNORM_SRGB`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x10_UNORM_SRGB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56514).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56514).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x5_FLOAT`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x5_FLOAT = 99
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56525).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56525).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x5_UNORM`
 
@@ -86,7 +86,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x5_UNORM = 71
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56497).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56497).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x5_UNORM_SRGB`
 
@@ -98,7 +98,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x5_UNORM_SRGB 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56511).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56511).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x6_FLOAT`
 
@@ -110,7 +110,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x6_FLOAT = 100
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56526).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56526).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x6_UNORM`
 
@@ -122,7 +122,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x6_UNORM = 72
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56498).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56498).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x6_UNORM_SRGB`
 
@@ -134,7 +134,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x6_UNORM_SRGB 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56512).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56512).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x8_FLOAT`
 
@@ -146,7 +146,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x8_FLOAT = 101
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56527).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56527).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x8_UNORM`
 
@@ -158,7 +158,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x8_UNORM = 73
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56499).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56499).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_10x8_UNORM_SRGB`
 
@@ -170,7 +170,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_10x8_UNORM_SRGB 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56513).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56513).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x10_FLOAT`
 
@@ -182,7 +182,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x10_FLOAT = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56529).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56529).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x10_UNORM`
 
@@ -194,7 +194,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x10_UNORM = 75
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56501).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56501).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x10_UNORM_SRGB`
 
@@ -206,7 +206,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x10_UNORM_SRGB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56515).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56515).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x12_FLOAT`
 
@@ -218,7 +218,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x12_FLOAT = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56530).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56530).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x12_UNORM`
 
@@ -230,7 +230,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x12_UNORM = 76
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56502).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56502).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_12x12_UNORM_SRGB`
 
@@ -242,7 +242,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_12x12_UNORM_SRGB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56516).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56516).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_4x4_FLOAT`
 
@@ -254,7 +254,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_4x4_FLOAT = 91
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56517).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56517).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_4x4_UNORM`
 
@@ -266,7 +266,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_4x4_UNORM = 63
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56489).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56489).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_4x4_UNORM_SRGB`
 
@@ -278,7 +278,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_4x4_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56503).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56503).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x4_FLOAT`
 
@@ -290,7 +290,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x4_FLOAT = 92
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56518).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56518).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x4_UNORM`
 
@@ -302,7 +302,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x4_UNORM = 64
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56490).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56490).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x4_UNORM_SRGB`
 
@@ -314,7 +314,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x4_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56504).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56504).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x5_FLOAT`
 
@@ -326,7 +326,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x5_FLOAT = 93
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56519).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56519).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x5_UNORM`
 
@@ -338,7 +338,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x5_UNORM = 65
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56491).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56491).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_5x5_UNORM_SRGB`
 
@@ -350,7 +350,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_5x5_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56505).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56505).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x5_FLOAT`
 
@@ -362,7 +362,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x5_FLOAT = 94
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56520).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56520).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x5_UNORM`
 
@@ -374,7 +374,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x5_UNORM = 66
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56492).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56492).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x5_UNORM_SRGB`
 
@@ -386,7 +386,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x5_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56506).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56506).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x6_FLOAT`
 
@@ -398,7 +398,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x6_FLOAT = 95
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56521).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56521).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x6_UNORM`
 
@@ -410,7 +410,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x6_UNORM = 67
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56493).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56493).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_6x6_UNORM_SRGB`
 
@@ -422,7 +422,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_6x6_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56507).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56507).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x5_FLOAT`
 
@@ -434,7 +434,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x5_FLOAT = 96
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56522).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56522).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x5_UNORM`
 
@@ -446,7 +446,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x5_UNORM = 68
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56494).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56494).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x5_UNORM_SRGB`
 
@@ -458,7 +458,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x5_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56508).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56508).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x6_FLOAT`
 
@@ -470,7 +470,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x6_FLOAT = 97
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56523).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56523).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x6_UNORM`
 
@@ -482,7 +482,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x6_UNORM = 69
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56495).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56495).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x6_UNORM_SRGB`
 
@@ -494,7 +494,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x6_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56509).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56509).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x8_FLOAT`
 
@@ -506,7 +506,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x8_FLOAT = 98
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56524).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56524).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x8_UNORM`
 
@@ -518,7 +518,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x8_UNORM = 70
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56496).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56496).
 
 ## `SDL_GPU_TEXTUREFORMAT_ASTC_8x8_UNORM_SRGB`
 
@@ -530,7 +530,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_ASTC_8x8_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56510).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56510).
 
 ## `SDL_GPU_TEXTUREFORMAT_B4G4R4A4_UNORM`
 
@@ -542,7 +542,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_B4G4R4A4_UNORM = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56437).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56437).
 
 ## `SDL_GPU_TEXTUREFORMAT_B5G5R5A1_UNORM`
 
@@ -554,7 +554,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_B5G5R5A1_UNORM = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56436).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56436).
 
 ## `SDL_GPU_TEXTUREFORMAT_B5G6R5_UNORM`
 
@@ -566,7 +566,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_B5G6R5_UNORM = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56435).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56435).
 
 ## `SDL_GPU_TEXTUREFORMAT_B8G8R8A8_UNORM`
 
@@ -578,7 +578,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_B8G8R8A8_UNORM = 12
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56438).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56438).
 
 ## `SDL_GPU_TEXTUREFORMAT_B8G8R8A8_UNORM_SRGB`
 
@@ -590,7 +590,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_B8G8R8A8_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56479).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56479).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC1_RGBA_UNORM`
 
@@ -602,7 +602,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC1_RGBA_UNORM = 13
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56439).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56439).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC1_RGBA_UNORM_SRGB`
 
@@ -614,7 +614,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC1_RGBA_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56480).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56480).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC2_RGBA_UNORM`
 
@@ -626,7 +626,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC2_RGBA_UNORM = 14
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56440).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56440).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC2_RGBA_UNORM_SRGB`
 
@@ -638,7 +638,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC2_RGBA_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56481).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56481).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC3_RGBA_UNORM`
 
@@ -650,7 +650,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC3_RGBA_UNORM = 15
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56441).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56441).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC3_RGBA_UNORM_SRGB`
 
@@ -662,7 +662,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC3_RGBA_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56482).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56482).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC4_R_UNORM`
 
@@ -674,7 +674,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC4_R_UNORM = 16
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56442).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56442).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC5_RG_UNORM`
 
@@ -686,7 +686,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC5_RG_UNORM = 17
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56443).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56443).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC6H_RGB_FLOAT`
 
@@ -698,7 +698,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC6H_RGB_FLOAT = 19
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56445).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56445).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC6H_RGB_UFLOAT`
 
@@ -710,7 +710,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC6H_RGB_UFLOAT = 20
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56446).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56446).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC7_RGBA_UNORM`
 
@@ -722,7 +722,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC7_RGBA_UNORM = 18
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56444).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56444).
 
 ## `SDL_GPU_TEXTUREFORMAT_BC7_RGBA_UNORM_SRGB`
 
@@ -734,7 +734,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_BC7_RGBA_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56483).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56483).
 
 ## `SDL_GPU_TEXTUREFORMAT_D16_UNORM`
 
@@ -746,7 +746,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_D16_UNORM = 58
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56484).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56484).
 
 ## `SDL_GPU_TEXTUREFORMAT_D24_UNORM`
 
@@ -758,7 +758,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_D24_UNORM = 59
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56485).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56485).
 
 ## `SDL_GPU_TEXTUREFORMAT_D24_UNORM_S8_UINT`
 
@@ -770,7 +770,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_D24_UNORM_S8_UINT = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56487).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56487).
 
 ## `SDL_GPU_TEXTUREFORMAT_D32_FLOAT`
 
@@ -782,7 +782,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_D32_FLOAT = 60
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56486).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56486).
 
 ## `SDL_GPU_TEXTUREFORMAT_D32_FLOAT_S8_UINT`
 
@@ -794,7 +794,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_D32_FLOAT_S8_UINT = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56488).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56488).
 
 ## `SDL_GPU_TEXTUREFORMAT_INVALID`
 
@@ -806,7 +806,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_INVALID = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56426).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56426).
 
 ## `SDL_GPU_TEXTUREFORMAT_R10G10B10A2_UNORM`
 
@@ -818,7 +818,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R10G10B10A2_UNORM = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56434).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56434).
 
 ## `SDL_GPU_TEXTUREFORMAT_R11G11B10_UFLOAT`
 
@@ -830,7 +830,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R11G11B10_UFLOAT = 33
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56459).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56459).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16_FLOAT`
 
@@ -842,7 +842,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16_FLOAT = 27
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56453).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56453).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16_INT`
 
@@ -854,7 +854,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16_INT = 46
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56472).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56472).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16_SNORM`
 
@@ -866,7 +866,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16_SNORM = 24
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56450).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56450).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16_UINT`
 
@@ -878,7 +878,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16_UINT = 37
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56463).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56463).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16_UNORM`
 
@@ -890,7 +890,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16_UNORM = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56431).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56431).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16_FLOAT`
 
@@ -902,7 +902,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16_FLOAT = 28
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56454).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56454).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16_INT`
 
@@ -914,7 +914,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16_INT = 47
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56473).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56473).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16_SNORM`
 
@@ -926,7 +926,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16_SNORM = 25
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56451).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56451).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16_UINT`
 
@@ -938,7 +938,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16_UINT = 38
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56464).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56464).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16_UNORM`
 
@@ -950,7 +950,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16_UNORM = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56432).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56432).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16B16A16_FLOAT`
 
@@ -962,7 +962,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16B16A16_FLOAT = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56455).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56455).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16B16A16_INT`
 
@@ -974,7 +974,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16B16A16_INT = 48
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56474).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56474).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16B16A16_SNORM`
 
@@ -986,7 +986,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16B16A16_SNORM = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56452).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56452).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16B16A16_UINT`
 
@@ -998,7 +998,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16B16A16_UINT = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56465).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56465).
 
 ## `SDL_GPU_TEXTUREFORMAT_R16G16B16A16_UNORM`
 
@@ -1010,7 +1010,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R16G16B16A16_UNORM = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56433).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56433).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32_FLOAT`
 
@@ -1022,7 +1022,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32_FLOAT = 30
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56456).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56456).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32_INT`
 
@@ -1034,7 +1034,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32_INT = 49
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56475).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56475).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32_UINT`
 
@@ -1046,7 +1046,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32_UINT = 40
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56466).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56466).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32_FLOAT`
 
@@ -1058,7 +1058,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32_FLOAT = 31
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56457).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56457).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32_INT`
 
@@ -1070,7 +1070,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32_INT = 50
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56476).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56476).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32_UINT`
 
@@ -1082,7 +1082,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32_UINT = 41
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56467).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56467).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32B32A32_FLOAT`
 
@@ -1094,7 +1094,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32B32A32_FLOAT = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56458).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56458).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32B32A32_INT`
 
@@ -1106,7 +1106,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32B32A32_INT = 51
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56477).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56477).
 
 ## `SDL_GPU_TEXTUREFORMAT_R32G32B32A32_UINT`
 
@@ -1118,7 +1118,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R32G32B32A32_UINT = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56468).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56468).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8_INT`
 
@@ -1130,7 +1130,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8_INT = 43
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56469).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56469).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8_SNORM`
 
@@ -1142,7 +1142,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8_SNORM = 21
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56447).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56447).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8_UINT`
 
@@ -1154,7 +1154,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8_UINT = 34
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56460).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56460).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8_UNORM`
 
@@ -1166,7 +1166,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8_UNORM = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56428).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56428).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8_INT`
 
@@ -1178,7 +1178,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8_INT = 44
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56470).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56470).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8_SNORM`
 
@@ -1190,7 +1190,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8_SNORM = 22
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56448).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56448).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8_UINT`
 
@@ -1202,7 +1202,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8_UINT = 35
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56461).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56461).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8_UNORM`
 
@@ -1214,7 +1214,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8_UNORM = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56429).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56429).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8B8A8_INT`
 
@@ -1226,7 +1226,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8B8A8_INT = 45
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56471).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56471).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8B8A8_SNORM`
 
@@ -1238,7 +1238,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8B8A8_SNORM = 23
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56449).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56449).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UINT`
 
@@ -1250,7 +1250,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UINT = 36
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56462).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56462).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UNORM`
 
@@ -1262,7 +1262,7 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UNORM = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56430).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56430).
 
 ## `SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UNORM_SRGB`
 
@@ -1274,4 +1274,4 @@ Inno.Native.Sdl3.SDLGPUTextureFormat.SDL_GPU_TEXTUREFORMAT_R8G8B8A8_UNORM_SRGB =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56478).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L56478).

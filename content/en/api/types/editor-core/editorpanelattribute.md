@@ -41,7 +41,7 @@ public sealed class Inno.Editor.Core.EditorPanelAttribute : System.Attribute
 Registers an editor panel for automatic discovery.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -70,7 +70,7 @@ Creates a dockable panel registration with stable identity and presentation meta
 `menuPath` contains an empty segment.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L36).
 
 ## `defaultOpen`
 
@@ -84,7 +84,7 @@ public bool Inno.Editor.Core.EditorPanelAttribute.defaultOpen { get; }
 Gets whether a newly discovered panel is open by default.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L74).
 
 ## `id`
 
@@ -98,7 +98,7 @@ public string Inno.Editor.Core.EditorPanelAttribute.id { get; }
 Gets the stable panel identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L59).
 
 ## `menuPath`
 
@@ -112,7 +112,7 @@ public string Inno.Editor.Core.EditorPanelAttribute.menuPath { get; }
 Gets the optional category path under the generated `Panel` menu.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L79).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L79).
 
 ## `order`
 
@@ -126,7 +126,7 @@ public int Inno.Editor.Core.EditorPanelAttribute.order { get; }
 Gets the stable panel ordering value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L69).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L69).
 
 ## `separatorBefore`
 
@@ -140,7 +140,7 @@ public bool Inno.Editor.Core.EditorPanelAttribute.separatorBefore { get; }
 Gets whether the generated panel toggle begins a new visual group.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L84).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L84).
 
 ## `title`
 
@@ -154,4 +154,4 @@ public string Inno.Editor.Core.EditorPanelAttribute.title { get; }
 Gets the visible panel title.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Extensions/EditorPanelAttribute.cs#L64).

@@ -36,7 +36,7 @@ public static class Inno.Native.LibraryLoading.NativeDllLoader
 Resolves explicitly deployed native binaries and files without consulting repository caches.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L10).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L10).
 
 ## `FindNativeFile`
 
@@ -60,7 +60,7 @@ Resolves an exact tool or resource alias from the product's explicit native depl
 **Throws `System.IO.InvalidDataException`:** The product's explicit deployment index is malformed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L57).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L57).
 
 ## `FindNativeLibrary`
 
@@ -84,4 +84,4 @@ Resolves one logical module from the product's explicit deployment index without
 **Throws `System.IO.InvalidDataException`:** The deployment index is malformed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllLoader.cs#L32).

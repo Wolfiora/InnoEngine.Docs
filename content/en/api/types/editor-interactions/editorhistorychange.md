@@ -41,7 +41,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryChange : System.IDispo
 Describes one neutral reload-safe mutation interpreted by an attribute-discovered history handler.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L8).
 
 ## `#ctor`
 
@@ -65,7 +65,7 @@ Creates a neutral history change.
 **Throws `System.ArgumentNullException`:** Thrown when `payload` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L30).
 
 ## `Dispose`
 
@@ -79,7 +79,7 @@ public void Inno.Editor.Interactions.EditorHistoryChange.Dispose()
 Releases the payload storage owned by this history change.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L73).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L73).
 
 ## `kind`
 
@@ -93,7 +93,7 @@ public string Inno.Editor.Interactions.EditorHistoryChange.kind { get; }
 Gets the stable globally unique handler protocol identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L44).
 
 ## `mergeKey`
 
@@ -107,7 +107,7 @@ public string? Inno.Editor.Interactions.EditorHistoryChange.mergeKey { get; }
 Gets the optional stable key used to merge adjacent changes to the same logical value.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L54).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L54).
 
 ## `payload`
 
@@ -121,4 +121,4 @@ public Inno.Editor.Interactions.EditorHistoryPayload Inno.Editor.Interactions.Ed
 Gets the immutable neutral payload interpreted by the active handler generation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryChange.cs#L49).

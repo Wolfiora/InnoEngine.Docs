@@ -26,7 +26,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ALLOW_BACKG
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5007).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5007).
 
 ## `SDL_HINT_JOYSTICK_ARCADESTICK_DEVICES`
 
@@ -38,7 +38,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ARCADESTICK
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4919).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4919).
 
 ## `SDL_HINT_JOYSTICK_ARCADESTICK_DEVICES_EXCLUDED`
 
@@ -50,7 +50,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ARCADESTICK
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5103).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5103).
 
 ## `SDL_HINT_JOYSTICK_BLACKLIST_DEVICES`
 
@@ -62,7 +62,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_BLACKLIST_D
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5107).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5107).
 
 ## `SDL_HINT_JOYSTICK_BLACKLIST_DEVICES_EXCLUDED`
 
@@ -74,7 +74,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_BLACKLIST_D
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5217).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5217).
 
 ## `SDL_HINT_JOYSTICK_DEVICE`
 
@@ -86,7 +86,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_DEVICE = "S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5177).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5177).
 
 ## `SDL_HINT_JOYSTICK_DIRECTINPUT`
 
@@ -98,7 +98,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_DIRECTINPUT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5387).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5387).
 
 ## `SDL_HINT_JOYSTICK_ENHANCED_REPORTS`
 
@@ -110,7 +110,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ENHANCED_RE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4969).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4969).
 
 ## `SDL_HINT_JOYSTICK_FLIGHTSTICK_DEVICES`
 
@@ -122,7 +122,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_FLIGHTSTICK
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5213).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5213).
 
 ## `SDL_HINT_JOYSTICK_FLIGHTSTICK_DEVICES_EXCLUDED`
 
@@ -134,7 +134,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_FLIGHTSTICK
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5265).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5265).
 
 ## `SDL_HINT_JOYSTICK_GAMECUBE_DEVICES`
 
@@ -146,7 +146,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_GAMECUBE_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5236).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5236).
 
 ## `SDL_HINT_JOYSTICK_GAMECUBE_DEVICES_EXCLUDED`
 
@@ -158,7 +158,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_GAMECUBE_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5354).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5354).
 
 ## `SDL_HINT_JOYSTICK_GAMEINPUT`
 
@@ -170,7 +170,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_GAMEINPUT =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5209).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5209).
 
 ## `SDL_HINT_JOYSTICK_HAPTIC_AXES`
 
@@ -182,7 +182,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HAPTIC_AXES
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5066).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5066).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI`
 
@@ -194,7 +194,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI = "S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4971).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4971).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_8BITDO`
 
@@ -206,7 +206,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_8BIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4888).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4888).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_COMBINE_JOY_CONS`
 
@@ -218,7 +218,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_COMB
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4984).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4984).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_FLYDIGI`
 
@@ -230,7 +230,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_FLYD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5214).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5214).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_GAMECUBE`
 
@@ -242,7 +242,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_GAME
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5305).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5305).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_GAMECUBE_RUMBLE_BRAKE`
 
@@ -254,7 +254,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_GAME
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5200).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5200).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_GAMESIR`
 
@@ -266,7 +266,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_GAME
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4990).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4990).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_GIP`
 
@@ -278,7 +278,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_GIP 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5324).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5324).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_GIP_RESET_FOR_METADATA`
 
@@ -290,7 +290,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_GIP_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5268).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5268).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_JOY_CONS`
 
@@ -302,7 +302,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_JOY_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5215).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5215).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_JOYCON_HOME_LED`
 
@@ -314,7 +314,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_JOYC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4886).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4886).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_LG4FF`
 
@@ -326,7 +326,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_LG4F
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4985).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4985).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_LUNA`
 
@@ -338,7 +338,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_LUNA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4880).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4880).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_NINTENDO_CLASSIC`
 
@@ -350,7 +350,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_NINT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5285).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5285).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS3`
 
@@ -362,7 +362,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS3 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5207).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5207).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS3_SIXAXIS_DRIVER`
 
@@ -374,7 +374,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS3_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5204).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5204).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS4`
 
@@ -386,7 +386,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS4 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5280).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5280).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS4_REPORT_INTERVAL`
 
@@ -398,7 +398,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS4_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4923).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4923).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS5`
 
@@ -410,7 +410,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS5 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5114).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5114).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_PS5_PLAYER_LED`
 
@@ -422,7 +422,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_PS5_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5101).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5101).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SHIELD`
 
@@ -434,7 +434,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SHIE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4924).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4924).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SINPUT`
 
@@ -446,7 +446,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SINP
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5054).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5054).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_STADIA`
 
@@ -458,7 +458,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_STAD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4879).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4879).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_STEAM`
 
@@ -470,7 +470,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_STEA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5163).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5163).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_STEAM_HOME_LED`
 
@@ -482,7 +482,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_STEA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5134).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5134).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_STEAM_HORI`
 
@@ -494,7 +494,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_STEA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4898).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4898).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_STEAMDECK`
 
@@ -506,7 +506,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_STEA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5173).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5173).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SWITCH`
 
@@ -518,7 +518,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SWIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5253).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5253).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SWITCH_HOME_LED`
 
@@ -530,7 +530,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SWIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5343).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5343).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SWITCH_PLAYER_LED`
 
@@ -542,7 +542,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SWIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4823).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4823).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_SWITCH2`
 
@@ -554,7 +554,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_SWIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5246).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5246).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_VERTICAL_JOY_CONS`
 
@@ -566,7 +566,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_VERT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5110).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5110).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_WII`
 
@@ -578,7 +578,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_WII 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4867).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4867).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_WII_PLAYER_LED`
 
@@ -590,7 +590,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_WII_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4936).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4936).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX`
 
@@ -602,7 +602,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4935).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4935).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX_360`
 
@@ -614,7 +614,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5064).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5064).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX_360_PLAYER_LED`
 
@@ -626,7 +626,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4857).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4857).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX_360_WIRELESS`
 
@@ -638,7 +638,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4959).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4959).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX_ONE`
 
@@ -650,7 +650,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5088).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5088).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_XBOX_ONE_HOME_LED`
 
@@ -662,7 +662,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_XBOX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5243).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5243).
 
 ## `SDL_HINT_JOYSTICK_HIDAPI_ZUIKI`
 
@@ -674,7 +674,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_HIDAPI_ZUIK
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5070).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5070).
 
 ## `SDL_HINT_JOYSTICK_IOKIT`
 
@@ -686,7 +686,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_IOKIT = "SD
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5332).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5332).
 
 ## `SDL_HINT_JOYSTICK_LINUX_CLASSIC`
 
@@ -698,7 +698,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_LINUX_CLASS
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5314).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5314).
 
 ## `SDL_HINT_JOYSTICK_LINUX_DEADZONES`
 
@@ -710,7 +710,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_LINUX_DEADZ
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4848).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4848).
 
 ## `SDL_HINT_JOYSTICK_LINUX_DIGITAL_HATS`
 
@@ -722,7 +722,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_LINUX_DIGIT
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5258).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5258).
 
 ## `SDL_HINT_JOYSTICK_LINUX_HAT_DEADZONES`
 
@@ -734,7 +734,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_LINUX_HAT_D
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5062).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5062).
 
 ## `SDL_HINT_JOYSTICK_MFI`
 
@@ -746,7 +746,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_MFI = "SDL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5046).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5046).
 
 ## `SDL_HINT_JOYSTICK_RAWINPUT`
 
@@ -758,7 +758,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_RAWINPUT = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5003).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5003).
 
 ## `SDL_HINT_JOYSTICK_RAWINPUT_CORRELATE_XINPUT`
 
@@ -770,7 +770,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_RAWINPUT_CO
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5078).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5078).
 
 ## `SDL_HINT_JOYSTICK_ROG_CHAKRAM`
 
@@ -782,7 +782,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ROG_CHAKRAM
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5097).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5097).
 
 ## `SDL_HINT_JOYSTICK_THREAD`
 
@@ -794,7 +794,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_THREAD = "S
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5075).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5075).
 
 ## `SDL_HINT_JOYSTICK_THROTTLE_DEVICES`
 
@@ -806,7 +806,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_THROTTLE_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5399).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5399).
 
 ## `SDL_HINT_JOYSTICK_THROTTLE_DEVICES_EXCLUDED`
 
@@ -818,7 +818,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_THROTTLE_DE
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5197).
 
 ## `SDL_HINT_JOYSTICK_WGI`
 
@@ -830,7 +830,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_WGI = "SDL_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5001).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5001).
 
 ## `SDL_HINT_JOYSTICK_WHEEL_DEVICES`
 
@@ -842,7 +842,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_WHEEL_DEVIC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4840).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4840).
 
 ## `SDL_HINT_JOYSTICK_WHEEL_DEVICES_EXCLUDED`
 
@@ -854,7 +854,7 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_WHEEL_DEVIC
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4870).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4870).
 
 ## `SDL_HINT_JOYSTICK_ZERO_CENTERED_DEVICES`
 
@@ -866,4 +866,4 @@ public const string Inno.Native.Sdl3.SDL.Constants.SDL_HINT_JOYSTICK_ZERO_CENTER
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5040).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L5040).

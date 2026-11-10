@@ -40,7 +40,7 @@ public enum Inno.Native.Sdl3.SDLGPUCubeMapFace : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55568).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55568).
 
 ## `SDL_GPU_CUBEMAPFACE_NEGATIVEX`
 
@@ -52,7 +52,7 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_NEGATIVEX = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55571).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55571).
 
 ## `SDL_GPU_CUBEMAPFACE_NEGATIVEY`
 
@@ -64,7 +64,7 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_NEGATIVEY = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55573).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55573).
 
 ## `SDL_GPU_CUBEMAPFACE_NEGATIVEZ`
 
@@ -76,7 +76,7 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_NEGATIVEZ = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55575).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55575).
 
 ## `SDL_GPU_CUBEMAPFACE_POSITIVEX`
 
@@ -88,7 +88,7 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_POSITIVEX = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55570).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55570).
 
 ## `SDL_GPU_CUBEMAPFACE_POSITIVEY`
 
@@ -100,7 +100,7 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_POSITIVEY = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55572).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55572).
 
 ## `SDL_GPU_CUBEMAPFACE_POSITIVEZ`
 
@@ -112,4 +112,4 @@ Inno.Native.Sdl3.SDLGPUCubeMapFace.SDL_GPU_CUBEMAPFACE_POSITIVEZ = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55574).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55574).

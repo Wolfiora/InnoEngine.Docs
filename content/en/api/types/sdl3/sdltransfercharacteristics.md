@@ -53,7 +53,7 @@ public enum Inno.Native.Sdl3.SDLTransferCharacteristics : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59902).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59902).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_BT1361`
 
@@ -65,7 +65,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_BT1361 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59915).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59915).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_BT2020_10BIT`
 
@@ -77,7 +77,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_BT2020_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59917).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59917).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_BT2020_12BIT`
 
@@ -89,7 +89,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_BT2020_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59918).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59918).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_BT601`
 
@@ -101,7 +101,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_BT601 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59909).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59909).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_BT709`
 
@@ -113,7 +113,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_BT709 =
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59905).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59905).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_CUSTOM`
 
@@ -125,7 +125,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_CUSTOM 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59922).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59922).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_GAMMA22`
 
@@ -137,7 +137,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_GAMMA22
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59907).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59907).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_GAMMA28`
 
@@ -149,7 +149,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_GAMMA28
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59908).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59908).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_HLG`
 
@@ -161,7 +161,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_HLG = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59921).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59921).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_IEC61966`
 
@@ -173,7 +173,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_IEC6196
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59914).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59914).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_LINEAR`
 
@@ -185,7 +185,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_LINEAR 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59911).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59911).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_LOG100`
 
@@ -197,7 +197,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_LOG100 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59912).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59912).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_LOG100_SQRT10`
 
@@ -209,7 +209,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_LOG100_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59913).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59913).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_PQ`
 
@@ -221,7 +221,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_PQ = 16
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59919).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59919).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_SMPTE240`
 
@@ -233,7 +233,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_SMPTE24
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59910).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59910).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_SMPTE428`
 
@@ -245,7 +245,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_SMPTE42
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59920).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59920).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_SRGB`
 
@@ -257,7 +257,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_SRGB = 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59916).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59916).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_UNKNOWN`
 
@@ -269,7 +269,7 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_UNKNOWN
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59904).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59904).
 
 ## `SDL_TRANSFER_CHARACTERISTICS_UNSPECIFIED`
 
@@ -281,4 +281,4 @@ Inno.Native.Sdl3.SDLTransferCharacteristics.SDL_TRANSFER_CHARACTERISTICS_UNSPECI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59906).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L59906).

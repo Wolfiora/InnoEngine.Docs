@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Build.Distribution.Standard",
+  "outputDirectory": "content/en/api/types/build-distribution-standard",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "facts": "reference/api/tooling.json",
+  "factsIdentity": "353d3ceaf3376d87464e9657b3fcd1973dbb4522f30a81ce9cae489751cd1c9f",
+  "sharedContract": "project.inno-build-distribution-standard#cache-and-workspace-ownership",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-distribution-standard/standardbuildcaches.md",
+      "sha256": "01a6ca499b376665409f60ac956a2460dc0468fb17761d8cc311ea8d9c5a35c1"
+    },
+    {
+      "path": "content/en/api/types/build-distribution-standard/standardbuilddistribution.md",
+      "sha256": "9e7b4a65e873b858945f2b3012511fafa3ebaaf3b27120668d10b16e89c0e821"
+    },
+    {
+      "path": "content/en/api/types/build-distribution-standard/standardbuildenvironment.md",
+      "sha256": "635a78dcb8f2692ce8aab2c59a95d7c0841589d436282ce3fff69fc25a811ff2"
+    },
+    {
+      "path": "content/en/api/types/build-distribution-standard/standardbuildhosts.md",
+      "sha256": "420352c133238903d7f6f5963f81f0077841864368f7304484653991900e3913"
+    },
+    {
+      "path": "content/en/api/types/build-distribution-standard/index.md",
+      "sha256": "fba9dbd92e1312f01bdac13813e777d0af12e8c26f540dbdf5f17b17fb0f5d5a"
+    }
+  ]
+}

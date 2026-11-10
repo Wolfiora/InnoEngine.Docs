@@ -37,7 +37,7 @@ Provides a strongly typed action argument to a targetless editor action.
 **Type parameter `TArgument`:** The action argument type required by the action.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L134).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L134).
 
 ## `argument`
 
@@ -51,4 +51,4 @@ public TArgument Inno.Editor.Interactions.EditorActionArgumentContext<TArgument>
 Gets the strongly typed action argument.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L147).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Actions/EditorActionContext.cs#L147).

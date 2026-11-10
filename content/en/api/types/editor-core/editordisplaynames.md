@@ -35,7 +35,7 @@ public static class Inno.Editor.Core.EditorDisplayNames
 Formats readable Editor labels independently from a native UI context or session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Presentation/EditorDisplayNames.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Presentation/EditorDisplayNames.cs#L9).
 
 ## `Nicify`
 
@@ -53,4 +53,4 @@ Converts an identifier into a readable editor label.
 **Returns:** A label with identifier separators and lower-to-upper transitions spaced; empty when the input is blank.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Presentation/EditorDisplayNames.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Presentation/EditorDisplayNames.cs#L20).

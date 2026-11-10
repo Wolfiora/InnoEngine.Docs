@@ -43,7 +43,7 @@ public sealed class Inno.Editor.Interactions.EditorViewportToolContext
 Coordinates pointer capture, transforms, and one history transaction for a viewport gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L8).
 
 ## `BeginHistoryGesture`
 
@@ -59,7 +59,7 @@ Begins the only history transaction allowed for the current captured gesture.
 **Parameter `name`:** User-facing Undo operation name.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L64).
 
 ## `CapturePointer`
 
@@ -75,7 +75,7 @@ Captures one pointer until explicit release or cancellation.
 **Parameter `pointerId`:** Platform pointer identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L41).
 
 ## `CompleteHistoryGesture`
 
@@ -91,7 +91,7 @@ Commits or rolls back the current gesture transaction exactly once.
 **Parameter `commit`:** `true` to commit; otherwise, roll back.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L80).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L80).
 
 ## `ReleasePointer`
 
@@ -105,7 +105,7 @@ public void Inno.Editor.Interactions.EditorViewportToolContext.ReleasePointer()
 Releases the currently captured pointer.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L51).
 
 ## `ScreenToWorld`
 
@@ -123,7 +123,7 @@ Converts viewport-local pixel coordinates to world coordinates.
 **Returns:** World coordinates.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L107).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L107).
 
 ## `WorldToScreen`
 
@@ -141,7 +141,7 @@ Converts world coordinates to viewport-local pixel coordinates.
 **Returns:** Viewport-local pixel coordinates.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L117).
 
 ## `capturedPointerId`
 
@@ -155,7 +155,7 @@ public int? Inno.Editor.Interactions.EditorViewportToolContext.capturedPointerId
 Gets the captured pointer identity, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L29).
 
 ## `hasHistoryGesture`
 
@@ -169,7 +169,7 @@ public bool Inno.Editor.Interactions.EditorViewportToolContext.hasHistoryGesture
 Gets whether a history transaction is active for the current gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L33).
 
 ## `hasPointerCapture`
 
@@ -183,4 +183,4 @@ public bool Inno.Editor.Interactions.EditorViewportToolContext.hasPointerCapture
 Gets whether this tool owns a pointer.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Viewport/EditorViewportToolContext.cs#L25).

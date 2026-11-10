@@ -1,7 +1,7 @@
 {
   "project": "Inno.Native.LibraryLoading",
   "outputDirectory": "content/en/api/types/native-libraryloading",
-  "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
   "facts": "reference/api/sdl3.json",
   "factsIdentity": "0ecbe7fffdf9931f07efd77f48d95c44a1501ae8315e4e75d9d9c7262f9bc390",
   "sharedContract": "api.projects.inno-native-libraryloading#ownership-and-failure-contracts",
@@ -11,15 +11,15 @@
   "files": [
     {
       "path": "content/en/api/types/native-libraryloading/nativedeploymentindex.md",
-      "sha256": "a4a4df4a84838ef4437082a660538c607b1f29369cf709ed4cbf57c412169062"
+      "sha256": "6dd437a104ef8cabb1e9d1a9069ffabe6a2d9e31748e37c1a5db0f948ccbeb64"
     },
     {
       "path": "content/en/api/types/native-libraryloading/nativedllconstants.md",
-      "sha256": "5bf894a2722c73db624f9190da9265bc4da3d7e2f1a43ea05f01947fce8faa5a"
+      "sha256": "ad6f4b5699485e5c053f32c3afbf86bc873b58d6694ca8a17bf4ff9b2c30ca3f"
     },
     {
       "path": "content/en/api/types/native-libraryloading/nativedllloader.md",
-      "sha256": "9348c63ebe3f8bbf0f5ff820f8a66bae26a5d9cac909c04534b864682b154455"
+      "sha256": "e100084207d290cbb9d3fb7d8583f4a90543184176cf0c6fe06838c3ebaaa8a6"
     },
     {
       "path": "content/en/api/types/native-libraryloading/index.md",

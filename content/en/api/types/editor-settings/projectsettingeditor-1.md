@@ -38,7 +38,7 @@ Provides a typed drawing extension for one runtime project setting protocol.
 **Type parameter `TSetting`:** The exact serializable setting type registered by the runtime Plugin or host.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L173).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L173).
 
 ## `#ctor`
 
@@ -51,7 +51,7 @@ protected Inno.Editor.Settings.ProjectSettingEditor<TSetting>.ProjectSettingEdit
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L173).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L173).
 
 ## `OnDraw`
 
@@ -67,4 +67,4 @@ Draws the isolated staged value. Mutations remain local until the Settings front
 **Parameter `setting`:** The isolated current-generation setting snapshot.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L184).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Definitions/ProjectSettingEditor.cs#L184).

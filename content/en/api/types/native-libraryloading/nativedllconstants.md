@@ -35,7 +35,7 @@ public static class Inno.Native.LibraryLoading.NativeDllConstants
 Shared constants for native dll layout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllConstants.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllConstants.cs#L6).
 
 ## `NATIVE_DIR_NAME`
 
@@ -49,4 +49,4 @@ public const string Inno.Native.LibraryLoading.NativeDllConstants.NATIVE_DIR_NAM
 Output folder name for native binaries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllConstants.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Interop/native/Inno.Native.LibraryLoading/NativeDllConstants.cs#L11).

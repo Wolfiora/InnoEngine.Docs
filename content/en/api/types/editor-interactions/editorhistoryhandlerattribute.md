@@ -36,7 +36,7 @@ public sealed class Inno.Editor.Interactions.EditorHistoryHandlerAttribute : Sys
 Registers a stateless editor history handler for one stable change protocol.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -54,7 +54,7 @@ Creates a history handler registration.
 **Throws `System.ArgumentException`:** Thrown when `kind` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L20).
 
 ## `kind`
 
@@ -68,4 +68,4 @@ public string Inno.Editor.Interactions.EditorHistoryHandlerAttribute.kind { get;
 Gets the stable globally unique change protocol identifier.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/EditorHistoryHandlerAttribute.cs#L29).

@@ -46,7 +46,7 @@ public sealed class Inno.Editor.Diagnostics.EditorConsole : Inno.Editor.Diagnost
 Owns one editor's bounded Console history, current diagnostics, grouping, and Play Mode clearing policy.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L15).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L15).
 
 ## `#ctor`
 
@@ -68,7 +68,7 @@ Creates a Console service that observes one editor Play Mode controller.
 **Throws `System.ArgumentNullException`:** Thrown when `playMode` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L46).
 
 ## `Capture`
 
@@ -84,7 +84,7 @@ Captures an immutable snapshot containing both individual occurrences and global
 **Returns:** A consistent snapshot that remains valid while new entries arrive.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L170).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L170).
 
 ## `Clear`
 
@@ -98,7 +98,7 @@ public void Inno.Editor.Diagnostics.EditorConsole.Clear()
 Removes retained logs while keeping currently reported issues visible until their owners resolve them.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L190).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L190).
 
 ## `Clear`
 
@@ -114,7 +114,7 @@ Removes the current diagnostic report for one producer.
 **Parameter `source`:** The producer whose report should be removed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L155).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L155).
 
 ## `Dispose`
 
@@ -128,7 +128,7 @@ public void Inno.Editor.Diagnostics.EditorConsole.Dispose()
 Detaches this service and releases its subscriptions.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L204).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L204).
 
 ## `Receive`
 
@@ -144,7 +144,7 @@ Appends one asynchronously dispatched log entry.
 **Parameter `entry`:** The immutable entry to append.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L120).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L120).
 
 ## `Replace`
 
@@ -160,7 +160,7 @@ Replaces the complete current diagnostic report for one producer.
 **Parameter `report`:** The complete report to expose in subsequent snapshots.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L136).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L136).
 
 ## `Start`
 
@@ -176,7 +176,7 @@ Attaches this service to the process logging, diagnostic, and Play Mode sources.
 **Throws `System.ObjectDisposedException`:** Thrown after this service has been disposed.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L92).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L92).
 
 ## `capacity`
 
@@ -190,7 +190,7 @@ public int Inno.Editor.Diagnostics.EditorConsole.capacity { get; set; }
 Gets or sets the maximum number of ordinary log occurrences retained in memory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L59).
 
 ## `clearOnPlay`
 
@@ -205,4 +205,4 @@ Gets or sets whether ordinary Console logs are cleared when a new Play Mode requ
 Current diagnostics remain visible because they represent active compiler and subsystem state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L84).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsole.cs#L84).

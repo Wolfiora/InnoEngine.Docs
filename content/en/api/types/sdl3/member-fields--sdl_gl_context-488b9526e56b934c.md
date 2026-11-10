@@ -26,7 +26,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_DEBUG_FLAG = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4434).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4434).
 
 ## `SDL_GL_CONTEXT_FORWARD_COMPATIBLE_FLAG`
 
@@ -38,7 +38,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_FORWARD_COMPATIBL
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4461).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4461).
 
 ## `SDL_GL_CONTEXT_PROFILE_COMPATIBILITY`
 
@@ -50,7 +50,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_PROFILE_COMPATIBI
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4473).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4473).
 
 ## `SDL_GL_CONTEXT_PROFILE_CORE`
 
@@ -62,7 +62,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_PROFILE_CORE = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4750).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4750).
 
 ## `SDL_GL_CONTEXT_PROFILE_ES`
 
@@ -74,7 +74,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_PROFILE_ES = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4557).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4557).
 
 ## `SDL_GL_CONTEXT_RELEASE_BEHAVIOR_FLUSH`
 
@@ -86,7 +86,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_RELEASE_BEHAVIOR_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4758).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4758).
 
 ## `SDL_GL_CONTEXT_RELEASE_BEHAVIOR_NONE`
 
@@ -98,7 +98,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_RELEASE_BEHAVIOR_
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4803).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4803).
 
 ## `SDL_GL_CONTEXT_RESET_ISOLATION_FLAG`
 
@@ -110,7 +110,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_RESET_ISOLATION_F
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4590).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4590).
 
 ## `SDL_GL_CONTEXT_RESET_LOSE_CONTEXT`
 
@@ -122,7 +122,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_RESET_LOSE_CONTEX
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4510).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4510).
 
 ## `SDL_GL_CONTEXT_RESET_NO_NOTIFICATION`
 
@@ -134,7 +134,7 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_RESET_NO_NOTIFICA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4763).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4763).
 
 ## `SDL_GL_CONTEXT_ROBUST_ACCESS_FLAG`
 
@@ -146,4 +146,4 @@ public const int Inno.Native.Sdl3.SDL.Constants.SDL_GL_CONTEXT_ROBUST_ACCESS_FLA
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4438).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L4438).

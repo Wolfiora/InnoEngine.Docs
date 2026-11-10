@@ -44,7 +44,7 @@ public enum Inno.Native.Sdl3.SDLHitTestResult : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57383).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57383).
 
 ## `SDL_HITTEST_DRAGGABLE`
 
@@ -56,7 +56,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_DRAGGABLE = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57386).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57386).
 
 ## `SDL_HITTEST_NORMAL`
 
@@ -68,7 +68,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_NORMAL = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57385).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57385).
 
 ## `SDL_HITTEST_RESIZE_BOTTOM`
 
@@ -80,7 +80,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_BOTTOM = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57392).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57392).
 
 ## `SDL_HITTEST_RESIZE_BOTTOMLEFT`
 
@@ -92,7 +92,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_BOTTOMLEFT = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57393).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57393).
 
 ## `SDL_HITTEST_RESIZE_BOTTOMRIGHT`
 
@@ -104,7 +104,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_BOTTOMRIGHT = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57391).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57391).
 
 ## `SDL_HITTEST_RESIZE_LEFT`
 
@@ -116,7 +116,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_LEFT = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57394).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57394).
 
 ## `SDL_HITTEST_RESIZE_RIGHT`
 
@@ -128,7 +128,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_RIGHT = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57390).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57390).
 
 ## `SDL_HITTEST_RESIZE_TOP`
 
@@ -140,7 +140,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_TOP = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57388).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57388).
 
 ## `SDL_HITTEST_RESIZE_TOPLEFT`
 
@@ -152,7 +152,7 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_TOPLEFT = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57387).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57387).
 
 ## `SDL_HITTEST_RESIZE_TOPRIGHT`
 
@@ -164,4 +164,4 @@ Inno.Native.Sdl3.SDLHitTestResult.SDL_HITTEST_RESIZE_TOPRIGHT = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57389).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57389).

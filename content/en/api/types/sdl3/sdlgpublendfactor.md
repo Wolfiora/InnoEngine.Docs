@@ -48,7 +48,7 @@ public enum Inno.Native.Sdl3.SDLGPUBlendFactor : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55115).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55115).
 
 ## `SDL_GPU_BLENDFACTOR_CONSTANT_COLOR`
 
@@ -60,7 +60,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_CONSTANT_COLOR = 11
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55128).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55128).
 
 ## `SDL_GPU_BLENDFACTOR_DST_ALPHA`
 
@@ -72,7 +72,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_DST_ALPHA = 9
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55126).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55126).
 
 ## `SDL_GPU_BLENDFACTOR_DST_COLOR`
 
@@ -84,7 +84,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_DST_COLOR = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55122).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55122).
 
 ## `SDL_GPU_BLENDFACTOR_INVALID`
 
@@ -96,7 +96,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_INVALID = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55117).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55117).
 
 ## `SDL_GPU_BLENDFACTOR_ONE`
 
@@ -108,7 +108,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55119).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55119).
 
 ## `SDL_GPU_BLENDFACTOR_ONE_MINUS_CONSTANT_COLOR`
 
@@ -120,7 +120,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE_MINUS_CONSTANT_COLOR 
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55129).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55129).
 
 ## `SDL_GPU_BLENDFACTOR_ONE_MINUS_DST_ALPHA`
 
@@ -132,7 +132,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE_MINUS_DST_ALPHA = 10
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55127).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55127).
 
 ## `SDL_GPU_BLENDFACTOR_ONE_MINUS_DST_COLOR`
 
@@ -144,7 +144,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE_MINUS_DST_COLOR = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55123).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55123).
 
 ## `SDL_GPU_BLENDFACTOR_ONE_MINUS_SRC_ALPHA`
 
@@ -156,7 +156,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE_MINUS_SRC_ALPHA = 8
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55125).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55125).
 
 ## `SDL_GPU_BLENDFACTOR_ONE_MINUS_SRC_COLOR`
 
@@ -168,7 +168,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ONE_MINUS_SRC_COLOR = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55121).
 
 ## `SDL_GPU_BLENDFACTOR_SRC_ALPHA`
 
@@ -180,7 +180,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_SRC_ALPHA = 7
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55124).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55124).
 
 ## `SDL_GPU_BLENDFACTOR_SRC_ALPHA_SATURATE`
 
@@ -192,7 +192,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_SRC_ALPHA_SATURATE = 13
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55130).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55130).
 
 ## `SDL_GPU_BLENDFACTOR_SRC_COLOR`
 
@@ -204,7 +204,7 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_SRC_COLOR = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55120).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55120).
 
 ## `SDL_GPU_BLENDFACTOR_ZERO`
 
@@ -216,4 +216,4 @@ Inno.Native.Sdl3.SDLGPUBlendFactor.SDL_GPU_BLENDFACTOR_ZERO = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L55118).

@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Settings.ProjectSettingsEditor : Inno.Editor.Cor
 Owns the reloadable Editor presentations and history-aware project override workflow for runtime settings.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L17).
 
 ## `Apply`
 
@@ -62,7 +62,7 @@ Atomically applies project-authored overrides and records one stable history ent
 **Throws `System.ArgumentNullException`:** Thrown when `values` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L137).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L137).
 
 ## `Get`
 
@@ -84,7 +84,7 @@ Creates an isolated editable snapshot for one registered presentation.
 **Throws `System.InvalidOperationException`:** Thrown when the runtime setting definition is unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L81).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L81).
 
 ## `GetComposedDefault`
 
@@ -106,7 +106,7 @@ Creates the composed host and Plugin default without the project override.
 **Throws `System.InvalidOperationException`:** Thrown when the runtime setting definition is unavailable.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L108).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L108).
 
 ## `OnDispose`
 
@@ -120,7 +120,7 @@ protected override void Inno.Editor.Settings.ProjectSettingsEditor.OnDispose()
 Releases resources retained by this feature after it has stopped.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L162).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L162).
 
 ## `catalogRevision`
 
@@ -134,7 +134,7 @@ public long Inno.Editor.Settings.ProjectSettingsEditor.catalogRevision { get; }
 Gets the active project setting Editor catalog revision.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L59).
 
 ## `definitions`
 
@@ -148,4 +148,4 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Settings.ProjectSett
 Gets all active strongly typed project setting presentations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L64).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/ProjectSettingsEditor.cs#L64).

@@ -50,7 +50,7 @@ Provides passive project and frame state shared by editor extensions.
 Interaction routing is supplied separately by Inno.Editor.Interactions.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L13).
 
 ## `#ctor`
 
@@ -79,7 +79,7 @@ Creates a passive editor context for one project.
 **Throws `System.UnauthorizedAccessException`:** The caller cannot access or initialize the project settings document.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L41).
 
 ## `GetLayoutSectionNames`
 
@@ -99,7 +99,7 @@ Gets layout section names matching an ordinal prefix.
 **Throws `System.ArgumentNullException`:** Thrown when `prefix` is `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L97).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L97).
 
 ## `RemoveLayoutSection`
 
@@ -119,7 +119,7 @@ Removes one editor layout section from the in-memory document.
 **Throws `System.ArgumentException`:** Thrown when `sectionName` is empty or cannot be represented in the layout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L156).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L156).
 
 ## `SaveLayout`
 
@@ -137,7 +137,7 @@ Atomically rewrites the complete project editor layout document.
 **Throws `System.UnauthorizedAccessException`:** Thrown when the layout document is inaccessible.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L192).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L192).
 
 ## `SaveLayoutIfChanged`
 
@@ -157,7 +157,7 @@ Atomically saves the project editor layout when it changed.
 **Throws `System.UnauthorizedAccessException`:** Thrown when the layout document is inaccessible.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L180).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L180).
 
 ## `SetImGuiLayout`
 
@@ -173,7 +173,7 @@ Replaces the Dear ImGui layout while retaining editor module and panel state sec
 **Parameter `value`:** The complete layout text returned by Dear ImGui.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L165).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L165).
 
 ## `SetLayoutSection`
 
@@ -195,7 +195,7 @@ Adds or replaces one human-readable editor layout section in memory.
 **Throws `System.ArgumentException`:** Thrown when a section name, key, or value cannot be represented in the layout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L137).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L137).
 
 ## `TryGetLayoutSection`
 
@@ -217,7 +217,7 @@ Tries to read one independent editor layout section snapshot.
 **Throws `System.ArgumentException`:** Thrown when `sectionName` is empty or cannot be represented in the layout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L115).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L115).
 
 ## `frame`
 
@@ -231,7 +231,7 @@ public Inno.Editor.Core.EditorFrame Inno.Editor.Core.EditorContext.frame { get; 
 Gets the latest immutable editor frame snapshot.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L197).
 
 ## `imguiLayout`
 
@@ -245,7 +245,7 @@ public string Inno.Editor.Core.EditorContext.imguiLayout { get; }
 Gets the Dear ImGui layout text without editor module or panel state sections.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L80).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L80).
 
 ## `isFocused`
 
@@ -259,7 +259,7 @@ public bool Inno.Editor.Core.EditorContext.isFocused { get; }
 Gets whether any editor viewport currently owns application focus.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L202).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L202).
 
 ## `keyboard`
 
@@ -273,7 +273,7 @@ public Inno.Editor.Core.EditorKeyboardPolicy Inno.Editor.Core.EditorContext.keyb
 Gets the immutable keyboard conventions shared by discovery, dispatch and presentation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L63).
 
 ## `layoutPath`
 
@@ -287,7 +287,7 @@ public string Inno.Editor.Core.EditorContext.layoutPath { get; }
 Gets the absolute path of the project editor layout document.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L74).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L74).
 
 ## `projectDirectory`
 
@@ -301,7 +301,7 @@ public string Inno.Editor.Core.EditorContext.projectDirectory { get; }
 Gets the normalized project root directory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L58).
 
 ## `statistics`
 
@@ -315,4 +315,4 @@ public Inno.Editor.Core.EditorStatistics Inno.Editor.Core.EditorContext.statisti
 Gets the frame-scoped statistics exchange used by independent editor features and viewers.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L68).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Core/Runtime/EditorContext.cs#L68).

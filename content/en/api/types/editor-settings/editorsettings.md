@@ -40,7 +40,7 @@ public sealed class Inno.Editor.Settings.EditorSettings : Inno.Editor.Core.Edito
 Owns the discovered Settings catalog and the project-root Settings document.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L16).
 
 ## `Apply`
 
@@ -68,7 +68,7 @@ Atomically applies staged field objects as one shared Undo and Redo history entr
 **Throws `System.UnauthorizedAccessException`:** Thrown when the project-root document is inaccessible.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L154).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L154).
 
 ## `Get`
 
@@ -88,7 +88,7 @@ Reads an isolated effective object from one complete Settings path.
 **Throws `System.ArgumentException`:** Thrown when `path` is invalid, missing, or describes a page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L121).
 
 ## `ListenChanges`
 
@@ -108,7 +108,7 @@ Observes committed Apply, Undo and Redo changes through an owned Core Event hub.
 **Throws `System.ArgumentNullException`:** The observer is null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L80).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L80).
 
 ## `OnDispose`
 
@@ -122,7 +122,7 @@ protected override void Inno.Editor.Settings.EditorSettings.OnDispose()
 Releases resources retained by this feature after it has stopped.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L231).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L231).
 
 ## `catalogRevision`
 
@@ -136,7 +136,7 @@ public long Inno.Editor.Settings.EditorSettings.catalogRevision { get; }
 Gets the current discovered type-catalog revision.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L103).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L103).
 
 ## `definitions`
 
@@ -150,4 +150,4 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Settings.EditorSetti
 Gets all discovered path definitions in deterministic path order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L107).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Settings/Runtime/EditorSettings.cs#L107).

@@ -37,7 +37,7 @@ public sealed class Inno.Editor.Interactions.EditorMenuSourceAttribute : System.
 Registers a dynamic editor menu source.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L9).
 
 ## `#ctor`
 
@@ -57,7 +57,7 @@ Creates a dynamic menu-source registration for an exact interaction surface.
 **Throws `System.ArgumentException`:** Thrown when `area` is empty.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L23).
 
 ## `area`
 
@@ -71,7 +71,7 @@ public string Inno.Editor.Interactions.EditorMenuSourceAttribute.area { get; }
 Gets the contributed menu area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L36).
 
 ## `priority`
 
@@ -85,4 +85,4 @@ public int Inno.Editor.Interactions.EditorMenuSourceAttribute.priority { get; }
 Gets the provider ordering priority.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Menus/EditorMenuSourceAttribute.cs#L41).

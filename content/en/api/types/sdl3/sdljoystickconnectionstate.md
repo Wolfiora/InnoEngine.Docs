@@ -38,7 +38,7 @@ public enum Inno.Native.Sdl3.SDLJoystickConnectionState : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57763).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57763).
 
 ## `SDL_JOYSTICK_CONNECTION_INVALID`
 
@@ -50,7 +50,7 @@ Inno.Native.Sdl3.SDLJoystickConnectionState.SDL_JOYSTICK_CONNECTION_INVALID = -1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57765).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57765).
 
 ## `SDL_JOYSTICK_CONNECTION_UNKNOWN`
 
@@ -62,7 +62,7 @@ Inno.Native.Sdl3.SDLJoystickConnectionState.SDL_JOYSTICK_CONNECTION_UNKNOWN = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57766).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57766).
 
 ## `SDL_JOYSTICK_CONNECTION_WIRED`
 
@@ -74,7 +74,7 @@ Inno.Native.Sdl3.SDLJoystickConnectionState.SDL_JOYSTICK_CONNECTION_WIRED = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57767).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57767).
 
 ## `SDL_JOYSTICK_CONNECTION_WIRELESS`
 
@@ -86,4 +86,4 @@ Inno.Native.Sdl3.SDLJoystickConnectionState.SDL_JOYSTICK_CONNECTION_WIRELESS = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57768).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L57768).

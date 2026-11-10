@@ -43,6 +43,11 @@
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
+    - label: Build and validation tooling
+      items:
+        - slug: api/projects/inno-build-cli
+        - slug: api/projects/inno-build-distribution-standard
+        - slug: api/projects/inno-tooling-architecture
     - slug: api/projects/inno-editor-panel-logging
     - label: Editor framework reference
       items:
@@ -71,3 +76,4 @@
     - slug: contributing
     - slug: contributing/documentation-queries
     - slug: contributing/example-validation
+    - slug: contributing/compile-project-scripts

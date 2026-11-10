@@ -35,7 +35,7 @@ public sealed class Inno.Editor.Interactions.EditorToolbarModel
 Contains an immutable resolved toolbar for one interaction area.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarModel.cs#L8).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarModel.cs#L8).
 
 ## `items`
 
@@ -49,4 +49,4 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Interactions.EditorT
 Gets visible toolbar commands in deterministic display order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarModel.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Toolbars/EditorToolbarModel.cs#L18).

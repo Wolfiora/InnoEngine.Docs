@@ -37,7 +37,7 @@ public enum Inno.Editor.Interactions.EditorDocumentCloseMode : int
 Selects how a dirty document responds to a close request.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L9).
 
 ## `Cancel`
 
@@ -51,7 +51,7 @@ Inno.Editor.Interactions.EditorDocumentCloseMode.Cancel = 0
 Keeps the document open.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L14).
 
 ## `Discard`
 
@@ -65,7 +65,7 @@ Inno.Editor.Interactions.EditorDocumentCloseMode.Discard = 2
 Closes the document and discards unsaved state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L22).
 
 ## `Save`
 
@@ -79,4 +79,4 @@ Inno.Editor.Interactions.EditorDocumentCloseMode.Save = 1
 Closes the document after saving.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Documents/IEditorDocumentService.cs#L18).

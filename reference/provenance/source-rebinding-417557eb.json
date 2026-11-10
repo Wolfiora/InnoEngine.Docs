@@ -1,0 +1,58 @@
+{
+  "revision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
+  "sourceApiStatus": "Unverified",
+  "evaluatedNodes": 129,
+  "projects": [
+    {
+      "project": "Inno.Core.Identity",
+      "symbols": 42,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Native.LibraryLoading",
+      "symbols": 15,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Native.Sdl3",
+      "symbols": 6355,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Annotations",
+      "symbols": 61,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Core",
+      "symbols": 155,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Diagnostics",
+      "symbols": 44,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Interactions",
+      "symbols": 556,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Settings",
+      "symbols": 79,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Panel.Logging",
+      "symbols": 0,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    },
+    {
+      "project": "Inno.Editor.Panel.Stats",
+      "symbols": 0,
+      "result": "ExactDeclarationsXmlAndSourceLocationsMatched"
+    }
+  ]
+}

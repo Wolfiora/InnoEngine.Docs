@@ -47,7 +47,7 @@ public interface Inno.Editor.Interactions.IEditorHistory
 Exposes reload-safe Undo and Redo operations based exclusively on neutral history changes.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L6).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L6).
 
 ## `BeginTransaction`
 
@@ -65,7 +65,7 @@ Begins an atomic group of neutral history operations.
 **Returns:** A transaction that must be committed or rolled back.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L67).
 
 ## `Execute`
 
@@ -85,7 +85,7 @@ Applies and records a neutral change through its current-generation handler.
 **Returns:** The result of applying the change in the Redo direction.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L81).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L81).
 
 ## `RecordApplied`
 
@@ -103,7 +103,7 @@ Records a neutral change whose domain mutation is already applied.
 **Parameter `change`:** The independently owned neutral change.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L95).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L95).
 
 ## `Redo`
 
@@ -119,7 +119,7 @@ Attempts to reapply the newest reverted operation.
 **Returns:** The transition result. A state-preserving failure remains available for retry.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L114).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L114).
 
 ## `Undo`
 
@@ -135,7 +135,7 @@ Attempts to restore the state preceding the newest committed operation.
 **Returns:** The transition result. A state-preserving failure remains available for retry.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L106).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L106).
 
 ## `canRedo`
 
@@ -149,7 +149,7 @@ bool Inno.Editor.Interactions.IEditorHistory.canRedo { get; }
 Gets whether a Redo transition is currently available.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L16).
 
 ## `canUndo`
 
@@ -163,7 +163,7 @@ bool Inno.Editor.Interactions.IEditorHistory.canUndo { get; }
 Gets whether an Undo transition is currently available.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L11).
 
 ## `diskBytes`
 
@@ -177,7 +177,7 @@ long Inno.Editor.Interactions.IEditorHistory.diskBytes { get; }
 Gets the temporary disk payload bytes retained by committed entries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L56).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L56).
 
 ## `faultReason`
 
@@ -191,7 +191,7 @@ string? Inno.Editor.Interactions.IEditorHistory.faultReason { get; }
 Gets the diagnostic that faulted this history, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L46).
 
 ## `isFaulted`
 
@@ -205,7 +205,7 @@ bool Inno.Editor.Interactions.IEditorHistory.isFaulted { get; }
 Gets whether a failed compensation left the domain state indeterminate.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L21).
 
 ## `redoName`
 
@@ -219,7 +219,7 @@ string? Inno.Editor.Interactions.IEditorHistory.redoName { get; }
 Gets the next Redo operation name, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L31).
 
 ## `redoUnavailableReason`
 
@@ -233,7 +233,7 @@ string? Inno.Editor.Interactions.IEditorHistory.redoUnavailableReason { get; }
 Gets why the next Redo entry is unavailable, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L41).
 
 ## `residentBytes`
 
@@ -247,7 +247,7 @@ long Inno.Editor.Interactions.IEditorHistory.residentBytes { get; }
 Gets the resident payload bytes retained by committed entries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L51).
 
 ## `undoName`
 
@@ -261,7 +261,7 @@ string? Inno.Editor.Interactions.IEditorHistory.undoName { get; }
 Gets the next Undo operation name, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L26).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L26).
 
 ## `undoUnavailableReason`
 
@@ -275,4 +275,4 @@ string? Inno.Editor.Interactions.IEditorHistory.undoUnavailableReason { get; }
 Gets why the next Undo entry is unavailable, or `null`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/History/IEditorHistory.cs#L36).

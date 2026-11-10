@@ -42,7 +42,7 @@ public sealed class Inno.Editor.Interactions.EditorEditGesture : System.IDisposa
 Owns one continuous edit transaction without retaining edited objects, setters or extension instances.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L7).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L7).
 
 ## `#ctor`
 
@@ -64,7 +64,7 @@ Begins an edit whose updates use the existing domain mutation and History protoc
 **Throws `System.InvalidOperationException`:** History cannot begin a transaction in its current state.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L25).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L25).
 
 ## `Cancel`
 
@@ -82,7 +82,7 @@ Attempts to restore the state before the gesture without discarding a failed rol
 **Throws `System.InvalidOperationException`:** The gesture is finished or a nested transaction remains active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L66).
 
 ## `Commit`
 
@@ -98,7 +98,7 @@ Commits the edit exactly once; rejected completion leaves the transaction availa
 **Throws `System.InvalidOperationException`:** The gesture is finished or a nested transaction remains active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L49).
 
 ## `Dispose`
 
@@ -114,7 +114,7 @@ Cancels an unfinished gesture and releases its ownership only after rollback suc
 **Throws `System.InvalidOperationException`:** Rollback is blocked or a nested transaction remains active.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L85).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L85).
 
 ## `isActive`
 
@@ -128,7 +128,7 @@ public bool Inno.Editor.Interactions.EditorEditGesture.isActive { get; }
 Gets whether this gesture still owns an active transaction, including a rejected completion.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L41).
 
 ## `mergeKey`
 
@@ -142,4 +142,4 @@ public string Inno.Editor.Interactions.EditorEditGesture.mergeKey { get; }
 Gets the transient merge boundary shared only by updates within this gesture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Interactions/Editing/EditorEditGesture.cs#L37).

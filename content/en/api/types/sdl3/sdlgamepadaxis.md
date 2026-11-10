@@ -42,7 +42,7 @@ public enum Inno.Native.Sdl3.SDLGamepadAxis : int
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54635).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54635).
 
 ## `SDL_GAMEPAD_AXIS_COUNT`
 
@@ -54,7 +54,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_COUNT = 6
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54644).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54644).
 
 ## `SDL_GAMEPAD_AXIS_INVALID`
 
@@ -66,7 +66,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_INVALID = -1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54637).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54637).
 
 ## `SDL_GAMEPAD_AXIS_LEFT_TRIGGER`
 
@@ -78,7 +78,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_LEFT_TRIGGER = 4
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54642).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54642).
 
 ## `SDL_GAMEPAD_AXIS_LEFTX`
 
@@ -90,7 +90,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_LEFTX = 0
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54638).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54638).
 
 ## `SDL_GAMEPAD_AXIS_LEFTY`
 
@@ -102,7 +102,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_LEFTY = 1
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54639).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54639).
 
 ## `SDL_GAMEPAD_AXIS_RIGHT_TRIGGER`
 
@@ -114,7 +114,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_RIGHT_TRIGGER = 5
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54643).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54643).
 
 ## `SDL_GAMEPAD_AXIS_RIGHTX`
 
@@ -126,7 +126,7 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_RIGHTX = 2
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54640).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54640).
 
 ## `SDL_GAMEPAD_AXIS_RIGHTY`
 
@@ -138,4 +138,4 @@ Inno.Native.Sdl3.SDLGamepadAxis.SDL_GAMEPAD_AXIS_RIGHTY = 3
 ```
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54641).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/backends/Sdl3/native/Inno.Native.Sdl3/Generated/Bindings.cs#L54641).

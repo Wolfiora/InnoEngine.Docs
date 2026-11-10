@@ -38,7 +38,7 @@ public sealed class Inno.Editor.Diagnostics.EditorConsoleGroup
 Groups equivalent Console occurrences regardless of whether they arrived consecutively.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L9).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L9).
 
 ## `count`
 
@@ -52,7 +52,7 @@ public int Inno.Editor.Diagnostics.EditorConsoleGroup.count { get; }
 Gets the total number of matching occurrences.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L38).
 
 ## `identity`
 
@@ -66,7 +66,7 @@ public string Inno.Editor.Diagnostics.EditorConsoleGroup.identity { get; }
 Gets the deterministic content fingerprint used as the presentation identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L23).
 
 ## `latest`
 
@@ -80,7 +80,7 @@ public Inno.Editor.Diagnostics.EditorConsoleOccurrence Inno.Editor.Diagnostics.E
 Gets the most recently received matching occurrence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L33).
 
 ## `occurrences`
 
@@ -94,4 +94,4 @@ public System.Collections.Generic.IReadOnlyList<Inno.Editor.Diagnostics.EditorCo
 Gets every matching occurrence in arrival order.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/src/composition/editor/framework/Inno.Editor.Diagnostics/EditorConsoleGroup.cs#L28).
