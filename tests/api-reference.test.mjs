@@ -243,3 +243,45 @@ test('large types split complete member families and retain containing-type cont
   await f.run();
   assert.deepEqual((await readdir(path.dirname(f.page))).sort(), ['index.md', 'value.md']);
 });
+
+test('large enum values remain one complete set and retire owned per-value fragments', async (t) => {
+  const f = await fixture(t);
+  const type = f.facts.projects[0].symbols[0];
+  const fields = Array.from({ length: 80 }, (_, i) => {
+    const signature = `public const Probe.Value Probe.Value.Item${i} = ${i}`;
+    return { ...type, id: `F:Probe.Value.Item${i}`, kind: 'Field', containingType: type.id,
+      signature, signatureHash: hash(signature), constantValue: String(i),
+      documentation: `<member><summary>Mode ${i}.</summary><remarks>Keep the owning session active for mode ${i}.</remarks></member>` };
+  });
+  f.facts.projects[0].symbols = [type, ...fields];
+  await f.bind();
+  await f.run();
+  const previous = await readdir(path.dirname(f.page));
+  assert.equal(previous.filter(name => name.startsWith('member-field--item')).length, 80);
+
+  type.baseType = 'System.Enum';
+  type.signature = 'public enum Probe.Value';
+  type.signatureHash = hash(type.signature);
+  await f.bind();
+  await f.run();
+  const names = await readdir(path.dirname(f.page));
+  const valuesName = names.find(name => name.startsWith('member-values-'));
+  assert.ok(valuesName);
+  assert.deepEqual(names.sort(), ['index.md', valuesName, 'value.md'].sort());
+  const overview = await readFile(f.page, 'utf8');
+  assert.match(overview, /80 declarations/);
+  const values = await readFile(path.join(path.dirname(f.page), valuesName), 'utf8');
+  assert.match(values, /shared-contract#ownership/);
+  assert.match(values, /#type-declaration/);
+  for (const field of fields) {
+    assert.ok(values.includes(field.signature));
+    assert.ok(values.includes(`<!-- api: ${field.id} ${field.signatureHash} -->`));
+    assert.ok(values.includes(`Keep the owning session active for mode ${field.constantValue}.`));
+    assert.ok(values.includes(`id="api-${hash(field.id).slice(0, 16)}"`));
+  }
+  const all = (await Promise.all(names.map(name => readFile(path.join(path.dirname(f.page), name), 'utf8')))).join('\n');
+  assert.equal(all.match(/<!-- api:/g).length, 81);
+  const before = await readFile(path.join(path.dirname(f.page), valuesName), 'utf8');
+  await f.run();
+  assert.equal(await readFile(path.join(path.dirname(f.page), valuesName), 'utf8'), before);
+});

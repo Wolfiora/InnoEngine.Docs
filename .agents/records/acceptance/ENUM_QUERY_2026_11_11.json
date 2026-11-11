@@ -1,0 +1,178 @@
+{
+  "scope": "Five interleaved warm prepared-snapshot queries per layout, separate Build CLI processes including CLR startup; not an in-process or website benchmark.",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "sourceApiStatus": "Unverified",
+  "sdk": "10.0.402",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "queryAssemblySha256": "4bc269ffdbe78894d587634db32771ddf841e3a0d97f443f12e90156385b9afb",
+  "preparation": "Immutable snapshots prepared before sampling. No query-triggered SDK graph, compilation, Native preparation or network operation.",
+  "comparison": "Original response bytes are retained. Exact text differs by one terminal LF separator between members; contractIdentity excludes only terminal CR/LF. Declaration, source link, member prose, symbol anchor and both necessary contract continuations are otherwise identical.",
+  "priorAttempt": "The initial post-sampling byte-equality assertion rejected the terminal LF difference. Its ten original responses and original measurement script remain in artifacts; this corrected run records timing and both raw-unit and contract identities.",
+  "mediansMilliseconds": {
+    "Before": 1409.859,
+    "After": 1731.4295
+  },
+  "samples": [
+    {
+      "layout": "Before",
+      "sample": 1,
+      "milliseconds": 1433.3239,
+      "resultBytes": 1535,
+      "snapshot": "95512c8f3cb7e0d42ab1b50f0c8441876c4c0c6a4b135797d9610ddda506979d",
+      "page": "api.inno.core.input.918ffc168f439a74",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "59dfe67d1dc53df4c7add8c575e4893fe89ade2c4de1ada1edd20f063e0c3a17",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 1,
+      "milliseconds": 1405.3864,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "Before",
+      "sample": 2,
+      "milliseconds": 1495.2256,
+      "resultBytes": 1535,
+      "snapshot": "95512c8f3cb7e0d42ab1b50f0c8441876c4c0c6a4b135797d9610ddda506979d",
+      "page": "api.inno.core.input.918ffc168f439a74",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "59dfe67d1dc53df4c7add8c575e4893fe89ade2c4de1ada1edd20f063e0c3a17",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 2,
+      "milliseconds": 1580.3884,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "Before",
+      "sample": 3,
+      "milliseconds": 1409.859,
+      "resultBytes": 1535,
+      "snapshot": "95512c8f3cb7e0d42ab1b50f0c8441876c4c0c6a4b135797d9610ddda506979d",
+      "page": "api.inno.core.input.918ffc168f439a74",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "59dfe67d1dc53df4c7add8c575e4893fe89ade2c4de1ada1edd20f063e0c3a17",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 3,
+      "milliseconds": 1731.4295,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "Before",
+      "sample": 4,
+      "milliseconds": 1347.7816,
+      "resultBytes": 1535,
+      "snapshot": "95512c8f3cb7e0d42ab1b50f0c8441876c4c0c6a4b135797d9610ddda506979d",
+      "page": "api.inno.core.input.918ffc168f439a74",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "59dfe67d1dc53df4c7add8c575e4893fe89ade2c4de1ada1edd20f063e0c3a17",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 4,
+      "milliseconds": 1359.3624,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "Before",
+      "sample": 5,
+      "milliseconds": 1298.1869,
+      "resultBytes": 1535,
+      "snapshot": "95512c8f3cb7e0d42ab1b50f0c8441876c4c0c6a4b135797d9610ddda506979d",
+      "page": "api.inno.core.input.918ffc168f439a74",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "59dfe67d1dc53df4c7add8c575e4893fe89ade2c4de1ada1edd20f063e0c3a17",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 5,
+      "milliseconds": 1188.4828,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    }
+  ]
+}

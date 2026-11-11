@@ -179,6 +179,11 @@ function Contract-Lines($Symbol) {
 function Anchor([string]$Id) { return 'api-' + (Hash $utf8.GetBytes($Id)).Substring(0, 16) }
 function Member-Name($Symbol, $Type) { return $Symbol.id.Substring($Type.id.Length + 1).Split('(')[0] }
 function Member-Group($Symbol, $Type) {
+    if ($Type.baseType -ceq 'System.Enum' -and $Symbol.kind -ceq 'Field') {
+        # The declared enum is one value set; a separate page per value hides that relationship.
+        # Every value still receives its own declaration, anchor and exact symbol mapping.
+        return 'Values'
+    }
     $name = Member-Name $Symbol $Type
     if ($Symbol.kind -eq 'Field' -and $name.Contains('_')) {
         # Constant identifier families are navigation only; exact declarations remain independently mapped.

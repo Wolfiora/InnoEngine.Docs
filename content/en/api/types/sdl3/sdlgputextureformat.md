@@ -23,7 +23,7 @@ Generated declarations without member XML inherit only the explicitly associated
 
 | Member | Kind |
 | --- | --- |
-| [`Fields: SDL_GPU_TEXTUREFORMAT`](member-fields--sdl_gpu_textureformat-37fefeae69a47393.md) | 105 declarations |
+| [`Values`](member-values-dce33c90e0d81ece.md) | 105 declarations |
 
 ## Type declaration
 
