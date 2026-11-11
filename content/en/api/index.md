@@ -6,7 +6,7 @@ kind: landing
 ---
 # API reference
 
-Choose the API surface your caller actually receives. Public CLR declarations, script projections, and native interfaces have different consumers and obligations.
+Choose the engine API surface your caller actually receives. Public CLR declarations and script projections have different consumers and obligations. This reference covers InnoEngine; it does not mirror third-party native libraries or generated bindings.
 
 | Surface | Intended use |
 | --- | --- |
@@ -14,7 +14,7 @@ Choose the API surface your caller actually receives. Public CLR declarations, s
 | Host Editor | Editor composition and extension contracts available to the host. |
 | Runtime scripts | The selected logical runtime API exported to project scripts. |
 | Editor scripts | The selected logical Editor API exported to project scripts. |
-| Backend/native | Adapter and ABI contracts with explicit target and resource restrictions. |
+| Managed adapters | Engine integration contracts with explicit target and resource restrictions. |
 | Build/tooling | Build requests, immutable artifacts, validation, and documentation operations. |
 | Test infrastructure | Public fixture contracts used by the corresponding validation owner. |
 

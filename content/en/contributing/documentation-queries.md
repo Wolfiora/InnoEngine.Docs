@@ -36,6 +36,8 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs search
 
 Search returns navigation excerpts with match reasons and source locations. An excerpt is not a complete contract. Read the selected page or section and follow its necessary contract relationships before relying on the behavior.
 
+For a multiword task such as `instantiate prefab`, equally ranked heading matches prefer how-to and tutorial pages. Exact method identifiers and qualified XML symbol IDs retain reference priority. A task page that only mentions the words in its body does not displace a stronger heading match.
+
 Heading terms rank above incidental body matches even when punctuation or connecting words differ. For example, `read keyboard pointer text input` locates the input task without requiring its exact title. Exact symbols, project identities and authored aliases remain explicit matches. Being an assembly overview does not give a page priority over a matching task.
 
 ```sh

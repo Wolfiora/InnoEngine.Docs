@@ -36,7 +36,7 @@ public static class Inno.Build.Distribution.Standard.StandardBuildCaches
 Registers the standard distribution's actual immutable artifact publishers for coordinated cleanup.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L15).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L15).
 
 ## `CreateOwners`
 
@@ -59,7 +59,7 @@ Unrecorded directories remain outside the cleanup authority.
 **Throws `System.ArgumentException`:** The root is blank or relative.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L67).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L67).
 
 ## `CreateShaderWorkspaceAsync`
 
@@ -86,4 +86,4 @@ Remaining claim metadata is retired by the same cache maintenance service.
 **Throws `System.ArgumentException`:** The checkout root is blank or relative.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildCaches.cs#L39).

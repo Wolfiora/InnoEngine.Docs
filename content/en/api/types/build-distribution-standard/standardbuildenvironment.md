@@ -36,7 +36,7 @@ public static class Inno.Build.Distribution.Standard.StandardBuildEnvironment
 Captures the actual machine running distribution tools without choosing an output target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L12).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L12).
 
 ## `Capture`
 
@@ -63,7 +63,7 @@ muxer, then normal executable discovery when this process has no shared runtime 
 **Throws `System.IO.FileNotFoundException`:** The selected managed SDK host cannot be located.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L36).
 
 ## `ResolveManagedHost`
 
@@ -86,4 +86,4 @@ Normal executable discovery is used only when there is no shared runtime install
 **Throws `System.PlatformNotSupportedException`:** No standard execution host is registered for this system and processor.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L62).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/distributions/Inno.Build.Distribution.Standard/StandardBuildEnvironment.cs#L62).

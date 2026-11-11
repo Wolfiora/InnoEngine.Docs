@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
-  "sourceTree": "da490755a8b4e6773c0693ae6b5657c62c49c3be",
+  "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
+  "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "36d12c894c946fcf6e2909a39c4042389de7e5f7d97396a12d992a8b3bead198",
-  "toolingRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "projectManifestIdentity": "1f0764746ba2bf483b6e31e0f9aa332290fa63a36095e83f929dc247411ac39e",
+  "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -26,12 +26,12 @@
     },
     {
       "path": "reference/api/tooling.json",
-      "sha256": "93c835d35453674969d6559ad8a8e23c04eef43e216eba6514b0e5cc9dc59449",
+      "sha256": "be2924bdf9f5dd0893ba9bddb681fe72e5f2ebeb72193820c08ac4bf0989cf0d",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
-      "sourceTree": "da490755a8b4e6773c0693ae6b5657c62c49c3be"
+      "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
+      "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894"
     },
     {
       "path": "reference/api/input.json",
@@ -167,6 +167,15 @@
       "sha256": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
       "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
       "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2"
+    },
+    {
+      "path": "reference/api/scene.json",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sha256": "1b83056e00befc0b9946086411f873ce476cc217fdc064328bfcee7bc8097149",
+      "sourceRevision": "537ec77d8445967534cd932f5f7735758ad98f13",
+      "sourceTree": "233db1705c38ba8a279ed95efec8568d17fffc2c"
     }
   ]
 }

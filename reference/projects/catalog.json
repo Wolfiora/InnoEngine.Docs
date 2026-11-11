@@ -968,14 +968,18 @@
     "name": "Inno.Scene.Assets",
     "path": "src/content/scene/Inno.Scene.Assets/Inno.Scene.Assets.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Scene",
     "path": "src/content/scene/Inno.Scene/Inno.Scene.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

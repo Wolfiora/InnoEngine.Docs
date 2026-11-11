@@ -37,7 +37,7 @@ Publishes immutable documentation generations and opens protected read-only snap
 No operation invokes an SDK, product build or network client.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
 
 ## `IndexAsync`
 
@@ -70,7 +70,7 @@ and registration timing totals can overlap; PagePreparation reports their enclos
 **Throws `System.OperationCanceledException`:** Preparation is canceled. Completed immutable payloads remain registered for safe maintenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L60).
 
 ## `OpenAsync`
 
@@ -98,4 +98,4 @@ Opens one immutable generation without scanning authored content or acquiring an
 **Throws `System.OperationCanceledException`:** Reading acquisition is canceled.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L237).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L237).

@@ -8,7 +8,7 @@ On 2026-11-11 the user explicitly removed backend-native and generated binding A
 
 The existing project inventory owns this classification; no second project-selection list is introduced. Coverage and generation reject bound native API references rather than silently skipping expected engine declarations. The migration ledger records the approved retirement and original Git/provenance identities. Earlier generated-native counts below are historical work, not current completion requirements.
 
-Latest local checkpoint: 81 of 252 actual project entries, 812 Markdown pages and 4,524 exactly bound engine declarations after the approved native-reference retirement. [Engine-only scope acceptance](../acceptance/ENGINE_ONLY_SCOPE_2026_11_11.md) records the removals, preserved engine coverage, 34 regressions, actual site checks and query samples. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
+Latest local checkpoint: 83 of 252 actual project entries, 855 Markdown pages and 4,834 exactly bound engine declarations. [Scene acceptance](../acceptance/SCENE_2026_11_11.md) records task guides, host/script compilation and the query ranking correction; [engine-only scope acceptance](../acceptance/ENGINE_ONLY_SCOPE_2026_11_11.md) records the preceding native-reference retirement, preserved engine coverage and query samples. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
 
 ## Source and ownership
 

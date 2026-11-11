@@ -6,6 +6,8 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 
 | Area | Evidence |
 | --- | --- |
+| Engine-only documentation scope | [Native reference retirement and preserved engine coverage](ENGINE_ONLY_SCOPE_2026_11_11.md), [five query samples](ENGINE_ONLY_QUERY_2026_11_11.json) |
+| Scene tasks and state | [Manual, API, host/script examples and search ordering](SCENE_2026_11_11.md) |
 | Initial website and queries | [Foundation](FOUNDATION_2026_11_11.json) |
 | Identity | [Reference and example](IDENTITY_REFERENCE_2026_11_11.json) |
 | SDL and native loading | [Native reference](NATIVE_REFERENCE_2026_11_11.json) |

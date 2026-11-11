@@ -35,7 +35,7 @@ public static class Inno.Build.Cli.BuildApplication
 Executes explicit engine and project build commands for a caller-owned development lifetime.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/cli/Inno.Build.Cli/BuildApplication.cs#L13).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/cli/Inno.Build.Cli/BuildApplication.cs#L13).
 
 ## `Run`
 
@@ -57,4 +57,4 @@ Runs one build command without taking ownership of the caller's cancellation sou
 **Throws `System.ArgumentNullException`:** The argument array is absent.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/cli/Inno.Build.Cli/BuildApplication.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/build/cli/Inno.Build.Cli/BuildApplication.cs#L30).

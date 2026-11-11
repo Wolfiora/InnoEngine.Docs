@@ -16,6 +16,15 @@
         - slug: manual/editor/statistics
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
+    - label: Scenes and objects
+      items:
+        - slug: manual/scenes
+        - slug: manual/scenes/manage-scenes
+        - slug: manual/scenes/transforms
+        - slug: manual/scenes/behaviors
+        - slug: manual/scenes/prefabs
+        - slug: manual/scenes/tags-and-layers
+        - slug: manual/scenes/missing
     - slug: manual/register-identity
     - label: References and Missing
       items:
@@ -75,6 +84,7 @@
   items:
     - slug: architecture/overview
     - slug: architecture/ownership
+    - slug: architecture/scene-lifecycle
     - slug: architecture/serialization
     - slug: architecture/generation-publication
     - slug: architecture/execution-and-retirement
@@ -107,6 +117,7 @@
     - slug: extending/module-sources
     - slug: extending/static-type-catalogs
     - slug: extending/reference-recovery
+    - slug: extending/scene-state
     - slug: extending/plugin-packages
     - slug: extending/plugin-host
 - label: Platforms & Backends
@@ -122,9 +133,11 @@
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
-    - label: References and plugins
+    - label: Content reference
       items:
         - slug: api/projects/inno-references
+        - slug: api/projects/inno-scene
+        - slug: api/projects/inno-scene-assets
         - slug: api/projects/inno-plugins
         - slug: api/projects/inno-plugins-authoring
     - label: Extensibility reference

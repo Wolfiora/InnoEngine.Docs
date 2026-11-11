@@ -55,7 +55,7 @@ These facts support source comparisons; they do not certify behavioral prose or 
 An empty list provides no visible-declaration evidence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `#ctor`
 
@@ -77,7 +77,7 @@ These facts support source comparisons; they do not certify behavioral prose or 
 An empty list provides no visible-declaration evidence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `Deconstruct`
 
@@ -90,7 +90,7 @@ public void Inno.Tooling.Documentation.DocumentationSymbolInfo.Deconstruct(out s
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `Equals`
 
@@ -108,7 +108,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `Equals`
 
@@ -126,7 +126,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `GetHashCode`
 
@@ -142,7 +142,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `op_Equality`
 
@@ -155,7 +155,7 @@ public static bool Inno.Tooling.Documentation.DocumentationSymbolInfo.operator =
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `op_Inequality`
 
@@ -168,7 +168,7 @@ public static bool Inno.Tooling.Documentation.DocumentationSymbolInfo.operator !
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `ToString`
 
@@ -184,7 +184,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L19).
 
 ## `anchor`
 
@@ -198,7 +198,7 @@ public string Inno.Tooling.Documentation.DocumentationSymbolInfo.anchor { get; i
 Explicit API anchor derived from the exact XML documentation identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L20).
 
 ## `code`
 
@@ -213,7 +213,7 @@ Original C# code fences within the symbol's section, or inline code in its legac
 An empty list provides no visible-declaration evidence.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L22).
 
 ## `signatureIdentity`
 
@@ -227,4 +227,4 @@ public string Inno.Tooling.Documentation.DocumentationSymbolInfo.signatureIdenti
 Authored SHA-256 signature mapping to compare with the selected source manifest.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSymbolInfo.cs#L21).

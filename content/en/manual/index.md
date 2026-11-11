@@ -70,7 +70,7 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 
 ## Using reference material
 
-The [API reference](../api/index.md) distinguishes host, script, backend/native, and tooling surfaces. A public CLR member is not necessarily available to scripts. Read the linked shared contract as well as a member's declaration.
+The [API reference](../api/index.md) distinguishes host, script, managed adapter and tooling surfaces. A public CLR member is not necessarily available to scripts. Read the linked shared contract as well as a member's declaration. Third-party native and generated binding APIs are outside this documentation.
 
 ## Serialization and reload
 
@@ -79,6 +79,10 @@ The [API reference](../api/index.md) distinguishes host, script, backend/native,
 ## Extension discovery and reload
 
 [Find current extension types](extensions/find-types.md) without retaining old generations, and [diagnose reload failures](extensions/diagnose-reload.md) through the actual owner and admission state.
+
+## Scenes and objects
+
+[Load and arrange scenes](scenes/index.md), choose object or scene-level behaviors, instantiate prefabs and preserve missing-script state. The task guides distinguish runtime scripts from host persistence and Editor transactions.
 
 ## Plugins
 
