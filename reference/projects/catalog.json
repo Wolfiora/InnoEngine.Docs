@@ -980,7 +980,9 @@
     "name": "Inno.Core.Collections",
     "path": "src/foundation/core/Inno.Core.Collections/Inno.Core.Collections.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1023,7 +1025,9 @@
     "name": "Inno.Core.Graphs",
     "path": "src/foundation/core/Inno.Core.Graphs/Inno.Core.Graphs.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1048,7 +1052,9 @@
     "name": "Inno.Core.Input",
     "path": "src/foundation/core/Inno.Core.Input/Inno.Core.Input.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1064,7 +1070,9 @@
     "name": "Inno.Core.Layers",
     "path": "src/foundation/core/Inno.Core.Layers/Inno.Core.Layers.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1080,7 +1088,9 @@
     "name": "Inno.Core.Mathematics",
     "path": "src/foundation/core/Inno.Core.Mathematics/Inno.Core.Mathematics.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

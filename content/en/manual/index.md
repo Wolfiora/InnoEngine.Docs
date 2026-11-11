@@ -51,10 +51,18 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Understand identity and Missing states](identity-and-missing.md).
 - [Understand ownership](../architecture/ownership.md) before retaining resources or participating in reload.
 
+## Data models and mathematics
+
+- [Order dependencies and inspect cycles](data/order-dependencies.md) with explicit consumer-to-dependency direction.
+- [Query objects through typed indexes](data/query-objects.md) while retaining separate object ownership.
+- [Preserve an editable graph](data/preserve-graph.md) when extension definitions become unavailable.
+- [Transform positions, directions and colors](math/transform-values.md) using the engine's actual numeric conventions.
+
 ## Extending and deploying
 
 - [Extend InnoEngine](../extending/index.md) through the boundary appropriate to your task.
 - [Customize Console presentation](../extending/customize-console.md) without changing its public logging contract.
+- [Compose lifecycle layers and overlays](../extending/lifecycle-layers.md) with explicit frame and event ownership.
 - [Choose a platform and product](../platforms/index.md).
 - [Understand a backend's responsibilities](../backends/index.md).
 

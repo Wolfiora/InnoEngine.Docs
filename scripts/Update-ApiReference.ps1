@@ -43,7 +43,39 @@ function Xml-Text([System.Xml.XmlNode]$Node) {
         return Code $identity
     }
     if ($Node.LocalName -eq 'c') { return Code $Node.InnerText }
-    if ($Node.LocalName -notin @('member', 'summary', 'remarks', 'param', 'typeparam', 'returns', 'value', 'exception')) {
+    if ($Node.LocalName -eq 'code') {
+        $value = $Node.InnerText.Replace("`r`n", "`n").Trim("`n", "`r")
+        if (-not $value.Contains("`n")) { return Code $value.Trim() }
+        $codeLines = $value.Split("`n")
+        $nonblank = @($codeLines | Where-Object { $_.Trim().Length -gt 0 })
+        $indent = if ($nonblank.Count) { ($nonblank | ForEach-Object { $_.Length - $_.TrimStart().Length } | Measure-Object -Minimum).Minimum } else { 0 }
+        $value = ($codeLines | ForEach-Object { if ($_.Length -ge $indent) { $_.Substring($indent) } else { '' } }) -join "`n"
+        $longest = 2
+        foreach ($match in [regex]::Matches($value, '~+')) { $longest = [Math]::Max($longest, $match.Length) }
+        $fence = '~' * ($longest + 1)
+        return "`n`n" + $fence + "csharp`n" + $value + "`n" + $fence + "`n`n"
+    }
+    if ($Node.LocalName -eq 'list') {
+        $type = $Node.GetAttribute('type')
+        if ($type -notin @('bullet', 'number')) { throw "Unsupported XML list type; review its structure before publishing: $type" }
+        $items = [Collections.Generic.List[string]]::new()
+        foreach ($item in $Node.ChildNodes) {
+            if ($item.NodeType -in @('Whitespace', 'SignificantWhitespace') -or ($item.NodeType -eq 'Text' -and -not $item.Value.Trim())) { continue }
+            if ($item.LocalName -ne 'item') { throw "Unsupported XML list child: $($item.LocalName)" }
+            $text = Normalize-Contract (Xml-Text $item)
+            $prefix = if ($type -eq 'number') { '1. ' } else { '- ' }
+            $continuation = ' ' * $prefix.Length
+            $items.Add($prefix + $text.Replace("`n", "`n" + $continuation))
+        }
+        if (-not $items.Count) { throw 'XML contract lists cannot be empty.' }
+        return "`n`n" + ($items -join "`n") + "`n`n"
+    }
+    if ($Node.LocalName -eq 'para') { return "`n`n" + (($Node.ChildNodes | ForEach-Object { Xml-Text $_ }) -join '').Trim() + "`n`n" }
+    if ($Node.LocalName -in @('b', 'i')) {
+        $delimiter = if ($Node.LocalName -eq 'b') { '**' } else { '*' }
+        return $delimiter + (($Node.ChildNodes | ForEach-Object { Xml-Text $_ }) -join '').Trim() + $delimiter
+    }
+    if ($Node.LocalName -notin @('member', 'summary', 'remarks', 'param', 'typeparam', 'returns', 'value', 'exception', 'item', 'description')) {
         throw "Unsupported XML contract element; extend the renderer rather than dropping it: $($Node.LocalName)"
     }
     return (($Node.ChildNodes | ForEach-Object { Xml-Text $_ }) -join '')

@@ -23,6 +23,12 @@
         - slug: manual/execution/own-async-work
         - slug: manual/execution/run-coroutines
         - slug: manual/execution/schedule-frame-jobs
+    - label: Data models and mathematics
+      items:
+        - slug: manual/data/order-dependencies
+        - slug: manual/data/query-objects
+        - slug: manual/data/preserve-graph
+        - slug: manual/math/transform-values
     - label: Events and diagnostics
       items:
         - slug: manual/events/route-events
@@ -75,6 +81,7 @@
     - slug: extending/persist-host-documents
     - slug: extending/manage-process-output
     - slug: extending/ui-render-frames
+    - slug: extending/lifecycle-layers
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -109,6 +116,13 @@
         - slug: api/projects/inno-core-execution
         - slug: api/projects/inno-core-coroutines
         - slug: api/projects/inno-core-jobs
+        - slug: api/projects/inno-core-layers
+    - label: Foundation model reference
+      items:
+        - slug: api/projects/inno-core-collections
+        - slug: api/projects/inno-core-mathematics
+        - slug: api/projects/inno-core-graphs
+        - slug: api/projects/inno-core-input
     - label: Events and diagnostics reference
       items:
         - slug: api/projects/inno-core-events

@@ -34,6 +34,8 @@ Use the shared [selection](editor-selection.md), [History](editor-history.md) an
 
 [Add an Editor panel](editor-panels.md) explains registration, host-driven drawing, readable state and retirement without requiring prior knowledge of the assembly list.
 
+[Compose lifecycle layers](lifecycle-layers.md) when a host explicitly owns an ordered update/render stack. Layers do not replace Editor panels or a runtime pipeline.
+
 ## Discovery is not ownership
 
 [Provide audio from host content](audio-content.md) maps a scene or another host content model into bounded emitter and listener snapshots without retaining plugin objects on the audio thread.

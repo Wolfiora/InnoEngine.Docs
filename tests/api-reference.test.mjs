@@ -8,6 +8,7 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { createMarkdownProcessor } from '@astrojs/markdown-remark';
+import { fromHtml } from 'hast-util-from-html';
 
 const execute = promisify(execFile);
 const script = fileURLToPath(new URL('../scripts/Update-ApiReference.ps1', import.meta.url));
@@ -119,6 +120,49 @@ test('editing a previously generated file requires reconciliation', async (t) =>
   await writeFile(f.page, original + '\nA new authored constraint.\n');
   await assert.rejects(f.run(), /edited or removed/);
   assert.match(await readFile(f.page, 'utf8'), /new authored constraint/);
+});
+
+test('XML code preserves inline formulas and multiline indentation without opening executable markup', async (t) => {
+  const f = await fixture(t);
+  f.facts.projects[0].symbols[1].documentation = '<member><summary>Compute <code>a + b</code>.</summary><remarks>Keep the lease alive.\n<code>\n    if (ready)\n    {\n        string marker = "~~~ &lt;script&gt;";\n    }\n</code>\nObserve failure after this example.</remarks></member>';
+  await f.bind();
+  await f.run();
+  const page = await readFile(f.page, 'utf8');
+  assert.match(page, /Compute `a \+ b`\./);
+  assert.ok(page.includes('~~~~csharp\nif (ready)\n{\n    string marker = "~~~ <script>";\n}\n~~~~'));
+  assert.match(page, /Observe failure after this example/);
+  const renderer = await createMarkdownProcessor({ syntaxHighlight: false });
+  const rendered = await renderer.render(page);
+  const codeBlocks = [];
+  let scripts = 0;
+  function inspect(node) {
+    if (node.tagName === 'script') scripts++;
+    if (node.tagName === 'code' && node.properties?.className?.includes('language-csharp')) {
+      codeBlocks.push(node.children.map((child) => child.value ?? '').join(''));
+    }
+    for (const child of node.children ?? []) inspect(child);
+  }
+  inspect(fromHtml(rendered.code));
+  assert.ok(codeBlocks.includes('if (ready)\n{\n    string marker = "~~~ <script>";\n}\n'));
+  assert.equal(scripts, 0);
+});
+
+test('XML lists keep nested contracts and following paragraphs outside the list', async (t) => {
+  const f = await fixture(t);
+  f.facts.projects[0].symbols[1].documentation = '<member><summary>Read.</summary><remarks>Before the list.<list type="bullet"><item><description><b>Borrow</b> the value.<para>Do not release it.</para><list type="number"><item><description>Check <c>IsAlive</c>.</description></item><item><description>Use the <i>current</i> generation.</description></item></list></description></item><item><description>Retain the owner.</description></item></list><para>After the list, observe failure.</para></remarks></member>';
+  await f.bind();
+  await f.run();
+  const page = await readFile(f.page, 'utf8');
+  const renderer = await createMarkdownProcessor({ syntaxHighlight: false });
+  const rendered = await renderer.render(page);
+  assert.match(rendered.code, /<strong>Borrow<\/strong>/);
+  assert.match(rendered.code, /<p>Do not release it\.<\/p>/);
+  assert.match(rendered.code, /<ol>[\s\S]*Check <code>IsAlive<\/code>[\s\S]*<em>current<\/em>[\s\S]*<\/ol>/);
+  assert.match(rendered.code, /<\/ul>\s*<p>After the list, observe failure\.<\/p>/);
+  f.facts.projects[0].symbols[1].documentation = '<member><summary><list type="table"><item>Unknown layout must not disappear.</item></list></summary></member>';
+  await f.bind();
+  await assert.rejects(f.run(), /Unsupported XML list type/);
+  assert.equal(await readFile(f.page, 'utf8'), page);
 });
 
 test('upstream comment headings and framed tables become portable blocks without changing code', async (t) => {

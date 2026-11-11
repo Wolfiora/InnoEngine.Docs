@@ -53,6 +53,10 @@ Two consumers can query a press without taking it away from each other. The back
 
 Use committed text for text entry instead of translating physical key codes into characters. Physical key state does not encode keyboard layouts or input-method composition. The current stable contract does not include IME pre-edit/candidate presentation, gamepads or touch.
 
+## Interpret keys and modifiers
+
+Use [Core input values](../../api/projects/inno-core-input.md) as semantic identifiers rather than raw platform key numbers. A physical `LeftCtrl` key and the combined `KeyModifier.Control` flag answer different questions. Super represents the host's platform mapping; it does not automatically make every shortcut use Command on macOS. Mouse cursor shapes are host concerns and are not included with the Runtime key/button exports.
+
 ## Respect session and presentation boundaries
 
 Each Edit, Play or Player session owns its backend. Input scope follows the shared execution-context protocol and must unwind in strict reverse order. Host code should let the runtime own it. An `await` or retained context does not grant permission to access window objects on a different thread.
