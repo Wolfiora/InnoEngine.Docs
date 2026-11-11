@@ -404,4 +404,5 @@
     - slug: contributing/testing
     - slug: contributing/documentation-queries
     - slug: contributing/example-validation
+    - slug: contributing/reference-validation
     - slug: contributing/compile-project-scripts

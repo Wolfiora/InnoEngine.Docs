@@ -23,6 +23,7 @@ This reference describes `DocumentationReferences` in `Inno.Tooling.Architecture
 | --- | --- |
 | [`ExportApi`](#api-425601bf1543ed6d) | Method |
 | [`ExportProjects`](#api-90f9bad091c5bf03) | Method |
+| [`ValidateApi`](#api-e0968efaad27d45e) | Method |
 
 ## Type declaration
 
@@ -36,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L16).
 
 ## `ExportApi`
 
@@ -68,7 +69,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L46).
 
 ## `ExportProjects`
 
@@ -96,4 +97,35 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L135).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L243).
+
+## `ValidateApi`
+
+<a id="api-e0968efaad27d45e"></a>
+<!-- api: M:Inno.Tooling.Architecture.DocumentationReferences.ValidateApi(System.String[],System.Threading.CancellationToken) 121b26c57cb1dcd7e95f59150e6e518c8daa9dcebff953bc5702a7d990b07ed6 -->
+
+```csharp
+public static int Inno.Tooling.Architecture.DocumentationReferences.ValidateApi(string[] arguments, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))
+```
+
+Compares explicitly selected reference manifests with one freshly evaluated source compilation batch.
+Declaration, XML, constant and inheritance changes are checked without building products or parsing Markdown.
+
+**Parameter `arguments`:** Required engine-root, dotnet, output and repeated reference options. All references must select the same
+source-clr configuration and target; their actual projects determine the batch, including empty public surfaces.
+
+**Parameter `cancellationToken`:** Cancels capture or comparison before replacing the report.
+
+**Returns:** Zero when the selected reference facts match, or one with explicit differences. This bounded result does not
+certify authored prose, script projections, examples, other targets or publication provenance.
+
+**Throws `System.ArgumentException`:** Options, reference selection or evaluated context are missing, duplicated or unsupported.
+
+**Throws `System.IO.InvalidDataException`:** Required discovery is empty, identities repeat, reference inputs change, or source compilation is unavailable.
+
+**Throws `System.IO.IOException`:** A selected input is absent, escapes its declared source owner, or report publication fails.
+
+**Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L113).

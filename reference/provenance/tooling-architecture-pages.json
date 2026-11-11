@@ -1,29 +1,29 @@
 {
   "project": "Inno.Tooling.Architecture",
   "outputDirectory": "content/en/api/types/tooling-architecture",
-  "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
-  "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
-  "facts": "reference/api/tooling.json",
-  "factsIdentity": "be2924bdf9f5dd0893ba9bddb681fe72e5f2ebeb72193820c08ac4bf0989cf0d",
+  "sourceRevision": "02482088a47691c00455070aeb9cfd51b0c803ff",
+  "sourceTree": "34a82f451947147cd67933dc7eb9e60c6e46e9f4",
+  "facts": "reference/api/tooling-architecture.json",
+  "factsIdentity": "1efa51fd046580e68a638a75d8c55bf296f06e36d36935b4c22efd2ccee250b6",
   "sharedContract": "project.inno-tooling-architecture#choose-the-evidence-you-need",
   "xmlLinks": "",
   "xmlLinksIdentity": null,
   "files": [
     {
       "path": "content/en/api/types/tooling-architecture/architecturevalidator.md",
-      "sha256": "3c822b07f63d871e5d0fbe898980c16d738041abe868908bcbe8fa6d40bc5a4d"
+      "sha256": "e0424989d853e555a23cdbe4adf78411401785c94b1e5b9cfc346926be14bb85"
     },
     {
       "path": "content/en/api/types/tooling-architecture/documentationcommand.md",
-      "sha256": "556780aadfa5ad79aa3ce87747caa4c4266037ba169d3a2d3834a7c1f9ed8d1e"
+      "sha256": "511d44489e63c814ee9fc221a6e109669832b63ded81b27e6919311e2e4cc8c5"
     },
     {
       "path": "content/en/api/types/tooling-architecture/documentationexamples.md",
-      "sha256": "1d74d547a5e4fcf6fe4bc7a0f290df14611858b0577087105247af700bd9bb9b"
+      "sha256": "03a4d3882d0a9893638b39832b214b81dd7adaf1e3adf0311ba0c3bd5704a3fa"
     },
     {
       "path": "content/en/api/types/tooling-architecture/documentationreferences.md",
-      "sha256": "a4fdb27baa2b3a7649d370f4922a7ffb1d81332083bf79c8fd41e11bbda04620"
+      "sha256": "7bc1e66bf7c97e120f454022878e7364600a7ce98a1b6b3472825f6d82798bf2"
     },
     {
       "path": "content/en/api/types/tooling-architecture/index.md",

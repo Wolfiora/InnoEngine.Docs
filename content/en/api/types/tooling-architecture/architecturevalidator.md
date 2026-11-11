@@ -35,7 +35,7 @@ public static class Inno.Tooling.Architecture.ArchitectureValidator
 Checks repository dependency, API documentation and source ownership invariants.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
 
 ## `Execute`
 
@@ -66,4 +66,4 @@ and Wiki inventories with explicitly selected runtime and editor script referenc
 **Throws `System.IO.InvalidDataException`:** A selected Wiki script reference is not the declared logical API assembly.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L63).
