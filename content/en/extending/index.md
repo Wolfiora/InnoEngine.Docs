@@ -49,3 +49,7 @@ Discovery identifies an extension and its stable metadata. The owning registry/h
 A CLR public API may exist for host composition and be excluded from scripts. An internal style value is not a persistent or script protocol. Read the selected API surface before building an extension around a member.
 
 See [ownership](../architecture/ownership.md) for shared lifecycle obligations and [API reference](../api/index.md) for precise contracts.
+
+## Serialization extensions
+
+[Implement an explicit converter](serialization-converters.md) for domain schemas and references, or [supply generated metadata](serialization-metadata.md) for static deployment.

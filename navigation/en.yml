@@ -29,6 +29,11 @@
         - slug: manual/data/query-objects
         - slug: manual/data/preserve-graph
         - slug: manual/math/transform-values
+    - label: Serialization and reload
+      items:
+        - slug: manual/serialization/save-state
+        - slug: manual/serialization/restore-properties
+        - slug: manual/serialization/capture-snapshots
     - label: Events and diagnostics
       items:
         - slug: manual/events/route-events
@@ -58,6 +63,7 @@
   items:
     - slug: architecture/overview
     - slug: architecture/ownership
+    - slug: architecture/serialization
     - slug: architecture/execution-and-retirement
     - slug: architecture/build-artifacts
     - slug: architecture/editor-generations
@@ -82,6 +88,8 @@
     - slug: extending/manage-process-output
     - slug: extending/ui-render-frames
     - slug: extending/lifecycle-layers
+    - slug: extending/serialization-converters
+    - slug: extending/serialization-metadata
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -90,10 +98,16 @@
     - slug: backends/miniaudio
     - slug: backends/text
     - slug: backends/rmlui
+    - slug: backends/dotnet-serialization
 - label: API Reference
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
+    - label: Serialization reference
+      items:
+        - slug: api/projects/inno-core-serialization
+        - slug: api/projects/inno-core-serialization-generators
+        - slug: api/projects/inno-adapter-serialization-dotnet
     - label: Build and validation tooling
       items:
         - slug: api/projects/inno-build-cli

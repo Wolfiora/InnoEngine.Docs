@@ -1,0 +1,78 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "CollectFailures is the current property restoration mode; there is no Compatible enum member.",
+    "A per-property checkpoint cancels scheduled completion work, not arbitrary setter or converter side effects.",
+    "Completion callback failure can occur after earlier callbacks ran; serialization is not automatic domain rollback.",
+    "Neutral property-data bytes cross generations; in-memory property snapshots can retain collectible Type objects."
+  ],
+  "reviews": [
+    {
+      "source": "docs/backends/DotNet/Inno.Adapter.Serialization.DotNet.md",
+      "sourceSha256": "8517a86de894cd0b54ee1898efe928f05836b39734825da4792bc3ab9b6343b6",
+      "project": "Inno.Adapter.Serialization.DotNet",
+      "destinations": [
+        "content/en/backends/dotnet-serialization.md",
+        "content/en/api/projects/inno-adapter-serialization-dotnet.md"
+      ],
+      "baselineSymbols": 3,
+      "currentSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Serialization.Generators.md",
+      "sourceSha256": "247c4b3fdc895086cef99b084edd68bdd8412486d587f97a78ba02da5d7b10c2",
+      "project": "Inno.Core.Serialization.Generators",
+      "destinations": [
+        "content/en/extending/serialization-metadata.md",
+        "content/en/api/projects/inno-core-serialization-generators.md"
+      ],
+      "baselineSymbols": 6,
+      "currentSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Serialization.md",
+      "sourceSha256": "7e98b0541c1ed059158516b3e07d3cb32649c19bcc22a36bf94b0f695dbab8e4",
+      "project": "Inno.Core.Serialization",
+      "destinations": [
+        "content/en/manual/serialization/save-state.md",
+        "content/en/manual/serialization/restore-properties.md",
+        "content/en/manual/serialization/capture-snapshots.md",
+        "content/en/architecture/serialization.md",
+        "content/en/extending/serialization-converters.md",
+        "content/en/api/projects/inno-core-serialization.md"
+      ],
+      "baselineSymbols": 14,
+      "currentSymbols": 153,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Serialization/api.md",
+      "sourceSha256": "9ac09361a386010353952d0e3195ebe4081656f47ce3b1573ac889e1c0348711",
+      "project": "Inno.Core.Serialization",
+      "destinations": [
+        "content/en/manual/serialization/save-state.md",
+        "content/en/manual/serialization/restore-properties.md",
+        "content/en/manual/serialization/capture-snapshots.md",
+        "content/en/architecture/serialization.md",
+        "content/en/extending/serialization-converters.md",
+        "content/en/api/projects/inno-core-serialization.md"
+      ],
+      "baselineSymbols": 139,
+      "currentSymbols": 153,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    }
+  ]
+}

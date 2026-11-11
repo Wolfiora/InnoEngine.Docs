@@ -23,5 +23,6 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 | Settings and host IO | [Migration and compilation](SETTINGS_IO_2026_11_11.md), [warm CLI query samples](SETTINGS_QUERY_2026_11_11.json) |
 | Execution, coroutines and jobs | [Task guides, preserved declarations and compiled examples](EXECUTION_2026_11_11.md) |
 | Collections, graphs, input values, layers and mathematics | [Tasks, contracts and renderer regression](CORE_MODELS_2026_11_11.md) |
+| Serialization and metadata | [Tasks, failure boundaries and examples](SERIALIZATION_2026_11_11.md), [five query samples](SERIALIZATION_QUERY_2026_11_11.json) |
 
 First-failure logs and machine-generated catalogs stay under the task-owned `artifacts/` directory. Preserve their original contents when recording a corrected retry. The active plan lists missing coverage, external access requirements and remaining deployment obligations.

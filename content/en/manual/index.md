@@ -69,3 +69,7 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 ## Using reference material
 
 The [API reference](../api/index.md) distinguishes host, script, backend/native, and tooling surfaces. A public CLR member is not necessarily available to scripts. Read the linked shared contract as well as a member's declaration.
+
+## Serialization and reload
+
+[Save declared state](serialization/save-state.md), [restore independent properties across a reload](serialization/restore-properties.md), and [reuse immutable captures](serialization/capture-snapshots.md) while preserving generation ownership.

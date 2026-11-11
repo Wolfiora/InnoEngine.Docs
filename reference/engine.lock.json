@@ -3,7 +3,7 @@
   "revision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
   "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "f5a2c36d42d14af5a2095ac06dee3a619e3dc4f2f9eae71ac2cc808052a533e4",
+  "projectManifestIdentity": "6edccbbf071fc4169c7efeb04706279300e4cb982b7d330121013ed30b22c655",
   "toolingRevision": "c48b7d11fd48d8de21aaf94e416c73c37d70df26",
   "apiManifests": [
     {
@@ -147,6 +147,15 @@
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
+      "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+      "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71"
+    },
+    {
+      "path": "reference/api/serialization.json",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sha256": "9faaf2ac3e9a652f4dbcd64062c5f6aa7189d10699b0e17c85aad0b2d3197917",
       "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
       "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71"
     }

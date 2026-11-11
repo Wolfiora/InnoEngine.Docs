@@ -66,7 +66,9 @@
     "name": "Inno.Adapter.Serialization.DotNet",
     "path": "backends/DotNet/runtime/Inno.Adapter.Serialization.DotNet/Inno.Adapter.Serialization.DotNet.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1097,14 +1099,18 @@
     "name": "Inno.Core.Serialization.Generators",
     "path": "src/foundation/core/Inno.Core.Serialization.Generators/Inno.Core.Serialization.Generators.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Core.Serialization",
     "path": "src/foundation/core/Inno.Core.Serialization/Inno.Core.Serialization.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
