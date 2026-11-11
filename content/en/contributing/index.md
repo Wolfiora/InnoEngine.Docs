@@ -31,6 +31,8 @@ Follow [example validation](example-validation.md) to declare host or script con
 
 Public behavior changes use paired PRs and immutable source identities. Preparing a documentation candidate does not automatically make it the published reference for a merged engine version. Publish only a matching, verified pair.
 
+[Pair an engine change with documentation](pair-engine-documentation.md) explains immutable PR metadata, merge-candidate identities and blocked selections.
+
 ## Branding
 
 The InnoEngine logo was designed by [xdzzyq](https://github.com/XDzzzzzZyq). Its [separate branding license](https://github.com/Wolfiora/InnoEngine.Docs/blob/main/public/branding/LICENSE.txt) applies to the logo and its derivatives; it is not covered by the engine's Apache-2.0 source license.

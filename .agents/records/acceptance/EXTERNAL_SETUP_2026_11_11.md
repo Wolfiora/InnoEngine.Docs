@@ -15,3 +15,5 @@ This read-only inspection establishes repository configuration, not deployment o
 No branch protection, secret, App installation, workflow or deployment was changed by this inspection. Repository administrator access does not imply access to App private keys. Existing local source comparisons, rendered pages and browser checks do not replace the outstanding paired-repository, hosted CI and publication evidence.
 
 The available in-app browser redirected GitHub App settings to GitHub sign-in. No authentication was automated, no credentials were extracted, and no App or installation was created. An authenticated setup session remains necessary to inspect or provision the restricted App configuration.
+
+A subsequent attempt to inspect the existing Windows browser was stopped by the Computer Use tool because it could not determine the browser URL confidently enough to enforce its policy. No page was inspected or modified through that attempt, and no App settings or credentials changed. This is a browser-control blocker, not proof that repository administrator access or an App installation is absent.
