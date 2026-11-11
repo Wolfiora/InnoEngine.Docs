@@ -37,7 +37,7 @@ Publishes immutable documentation generations and opens protected read-only snap
 No operation invokes an SDK, product build or network client.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
 
 ## `IndexAsync`
 
@@ -67,10 +67,12 @@ and registration timing totals can overlap; PagePreparation reports their enclos
 
 **Throws `System.IO.IOException`:** Inputs change during preparation, paths escape ownership, or a reference, contract or inclusion is invalid.
 
+**Throws `System.IO.InvalidDataException`:** Reference hashes, contexts, project ownership or required catalog relationships are inconsistent.
+
 **Throws `System.OperationCanceledException`:** Preparation is canceled. Completed immutable payloads remain registered for safe maintenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L63).
 
 ## `OpenAsync`
 
@@ -98,4 +100,4 @@ Opens one immutable generation without scanning authored content or acquiring an
 **Throws `System.OperationCanceledException`:** Reading acquisition is canceled.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L237).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L247).

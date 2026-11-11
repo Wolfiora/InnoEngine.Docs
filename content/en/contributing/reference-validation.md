@@ -27,6 +27,25 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs valida
 
 The command reads project identities from the selected manifests and checks them against the actual source inventory. It does not infer ownership from page titles or build a second project list. An explicitly captured empty public surface is valid; an empty required project selection is not.
 
+## Compare a prepared snapshot
+
+For coordinated validation, first [prepare an explicit documentation snapshot](documentation-queries.md). Supply its cache and exact identity, then use reference paths reported by its canonical catalog. The comparison reads the protected payloads even if the authoring checkout changes or is unavailable.
+
+```sh
+dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs validate-api \
+  --engine-root /work/InnoEngine \
+  --dotnet /selected-sdk/dotnet \
+  --cache-root /work/InnoEngine.Docs/artifacts/documentation-query \
+  --snapshot SNAPSHOT_ID \
+  --reference reference/api/tooling-documentation.json \
+  --project tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj \
+  --output /work/InnoEngine/artifacts/acceptance/documentation-api.json
+```
+
+Replace `SNAPSHOT_ID` with the complete identity returned by preparation. `--cache-root` and `--snapshot` are a pair; neither silently falls back to files or a mutable current pointer. Reports cannot be written into the documentation cache.
+
+Use repeated `--project` options when only particular owners require comparison. Their paths must occur in the selected manifests and actual source inventory. Unrelated projects in the same manifest are not sent to SDK capture. Omitting this option compares all owners in the selected manifests; requesting an unknown owner fails rather than reducing required coverage silently.
+
 ## Interpret the differences
 
 Comparison checks the complete selected symbol set, exact declarations, nullable/default/generic syntax, XML, constants, source ownership and type relationships. A missing overload, obsolete member or changed release requirement fails even when other signature hashes match.
@@ -37,7 +56,7 @@ Mixed target/configuration batches, duplicate owners or symbols, escaping/noncan
 
 ## Keep the result within its scope
 
-The report identifies `SelectedSourceReferenceComparison`, selected manifests and their content identities, each project's symbol count and differences. It remains `Unverified` for overall source API certification: matching these facts does not validate executable examples, script projections, behavioral prose, other targets or the trustworthiness of a publication source.
+The report identifies `SelectedSourceReferenceComparison`, selected manifests and their content identities, each project's reference identity, symbol count and differences. Prepared input adds the exact documentation snapshot and its bound source tree. It remains `Unverified` for overall source API certification: matching these facts does not validate executable examples, script projections, behavioral prose, other targets or the trustworthiness of a publication source.
 
 The command requests source evaluation and extraction, not product builds, Native preparation, network fetching or example execution. A missing compile reference remains a prerequisite failure. Prepare it through its owning build; do not copy a differently configured DLL into place.
 

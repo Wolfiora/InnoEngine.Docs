@@ -26,6 +26,7 @@ This reference describes `DocumentationSnapshot` in `Inno.Tooling.Documentation`
 | [`Dispose`](#api-3074b93f2ca8645b) | Method |
 | [`ExportCatalogAsync`](#api-489036dd8e8b32de) | Method |
 | [`QueryAsync`](#api-ff200ecb1c784d87) | Method |
+| [`ReadReferenceAsync`](#api-8deef14306d26908) | Method |
 | [`identity`](#api-62a54f2e4bfddb95) | Property |
 | [`sourceTree`](#api-1e62dff512cb2d15) | Property |
 
@@ -43,7 +44,7 @@ Concurrent queries are supported; the owner must finish them before disposing th
 Exact reads and symbol lookups do not initialize keyword-search postings.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L18).
 
 ## `Dispose`
 
@@ -57,7 +58,7 @@ public void Inno.Tooling.Documentation.DocumentationSnapshot.Dispose()
 Releases this generation's shared reading protection after all its queries finish.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L249).
 
 ## `ExportCatalogAsync`
 
@@ -84,7 +85,7 @@ Reads protected cached pages only; it does not rescan a checkout or refresh the 
 **Throws `System.ObjectDisposedException`:** The session has released its reading protection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L64).
 
 ## `QueryAsync`
 
@@ -115,7 +116,40 @@ retain their reference priority; excerpts still require explicit contract reads.
 **Throws `System.ObjectDisposedException`:** The session has released its reading protection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L130).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L182).
+
+## `ReadReferenceAsync`
+
+<a id="api-8deef14306d26908"></a>
+<!-- api: M:Inno.Tooling.Documentation.DocumentationSnapshot.ReadReferenceAsync(System.String,System.Threading.CancellationToken) 58e31c639e06a578390b281242a71cf56b1bbd357997150455c12a988f226ff6 -->
+
+```csharp
+public System.Threading.Tasks.Task<byte[]> Inno.Tooling.Documentation.DocumentationSnapshot.ReadReferenceAsync(string path, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))
+```
+
+Reads one complete, hash-verified project or API reference from this protected generation.
+The original checkout is not consulted, and no SDK evaluation or network operation occurs.
+
+**Parameter `path`:** Exact reference path reported by `Inno.Tooling.Documentation.DocumentationSnapshot.ExportCatalogAsync(System.Threading.CancellationToken)`.
+
+**Parameter `cancellationToken`:** Cancels the selected payload read without changing publication.
+
+**Returns:** Caller-owned bytes of the recorded payload, without semantic certification.
+
+**Throws `System.ArgumentException`:** The path is not a reference in this snapshot.
+
+**Throws `System.IO.IOException`:** The payload is absent or outside its owned boundary.
+
+**Throws `System.IO.InvalidDataException`:** The payload's bytes do not match the recorded content identity.
+
+**Throws `System.InvalidOperationException`:** The snapshot does not match the caller's expected engine source tree.
+
+**Throws `System.ObjectDisposedException`:** The snapshot has released its reading protection.
+
+**Throws `System.OperationCanceledException`:** The caller cancels the read.
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L119).
 
 ## `identity`
 
@@ -129,7 +163,7 @@ public string Inno.Tooling.Documentation.DocumentationSnapshot.identity { get; }
 Gets the exact generation shared by every result in this session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L35).
 
 ## `sourceTree`
 
@@ -143,4 +177,4 @@ public string Inno.Tooling.Documentation.DocumentationSnapshot.sourceTree { get;
 Gets the source-tree identity recorded by the documentation binding, without asserting source API verification.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L40).

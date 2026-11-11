@@ -1,65 +1,69 @@
 {
   "project": "Inno.Tooling.Documentation",
   "outputDirectory": "content/en/api/types/tooling-documentation",
-  "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
-  "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
-  "facts": "reference/api/tooling.json",
-  "factsIdentity": "be2924bdf9f5dd0893ba9bddb681fe72e5f2ebeb72193820c08ac4bf0989cf0d",
+  "sourceRevision": "20ca428b9354c6ee587679cf323ee30c4fc1410f",
+  "sourceTree": "ab17e54e8d459fcc97bc071d1ba3393a4c80f61d",
+  "facts": "reference/api/tooling-documentation.json",
+  "factsIdentity": "01acbfea2c22bc60441a13ded79bb2df66e06635e1b2cd516b1c43adb3a90c00",
   "sharedContract": "project.inno-tooling-documentation#failure-and-ownership-boundaries",
   "xmlLinks": "",
   "xmlLinksIdentity": null,
   "files": [
     {
       "path": "content/en/api/types/tooling-documentation/documentationcatalogreport.md",
-      "sha256": "704369ee9f2d756029139dd09e61381d69c96a76a875f0ce9637eec436a1c53f"
+      "sha256": "e19c2fa3bad11ebef8e558645cf142d962ee059000cadf8e6b4c4d2d6ef364d0"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationcodeblockinfo.md",
-      "sha256": "02308a2b3aa0523c0bae69d50f13ca8b3fe989b7b5f974b8829ecb61e99bda7e"
+      "sha256": "f6df7b7d338bd941fdb85522c9b2361074b5b252fed504541deb3cc065d2d717"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationcommand.md",
-      "sha256": "2d8d1a8fc01bf745f28295eaaf931e553522cf4911afe47ea597a2c6c051f8d9"
+      "sha256": "7c23282fb83cc130ea91be04d0ed9fdc92661e3099acba88d097fb1673caf8bf"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationcontinuation.md",
-      "sha256": "6e4b63b27db487c7970f1c1447750617c18abdccc248f9b7ead927476c95467c"
+      "sha256": "592f5d2a7812ae359b9b7696489d213c04aac4f317e576cffa93cd996b957fe4"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationexamplecontext.md",
-      "sha256": "39019698e4ac4bc7dc1be9a19789d74dd0acde5ac1d1a714cdf012d967700d31"
+      "sha256": "a65cba8e69ee7c7a4da83218872948a95b63b52e5b3b7fb0791d7e92b159a111"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationhit.md",
-      "sha256": "2da6a96ad48d30a7bad46176802a6c495cf51d664f1da2e638152ab02a238e13"
+      "sha256": "21b70852b6e26b71f7631cb9869c2a698d8b3ee67bd6081f25cd43b3b509dccf"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationpageinfo.md",
-      "sha256": "e2539a07e152d30af099d863f98576f2f917129ad43d503977ecbba6d4e08add"
+      "sha256": "de62b4b191f2527b816c704468530559f55be67036eb5c587069cbaa4d2e195f"
+    },
+    {
+      "path": "content/en/api/types/tooling-documentation/documentationreferenceinfo.md",
+      "sha256": "6ce6259488c730429a34b226ec26d5f84df74dbc3bb42260e7f7a3e68626ed3d"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationrequest.md",
-      "sha256": "46671341613e327e030f13ec7bcb984fd2c77141b191b35da3685fce44299f2b"
+      "sha256": "3a083d6add64e7e90ab5399d9101b34daa89b9610e739507fab6aa4709be3bdc"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationresult.md",
-      "sha256": "8d1dfc22296e1410febec3f63db47132c4a626383d99f5c91cff3a11f45d0da8"
+      "sha256": "b0319d2cd57d835e388043ea9f98dec274b0f736cb661d0988a5ce8afee40c60"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationsnapshot.md",
-      "sha256": "e3f122338684c18740e9b4b55db9970d737637a859f9646639289084ff60bcd5"
+      "sha256": "573868d2550fe814d177740f3615af6f041eeba4ec2bc52fc3131d0122bec53e"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationstore.md",
-      "sha256": "4bc9381921c7b50af7a27538d7565d3861f22ceeb0a6aefff2e0cf6450681a53"
+      "sha256": "76ce2743202efbdff5b9d68c769d67e2d4a84f467248217bf290009fccea5656"
     },
     {
       "path": "content/en/api/types/tooling-documentation/documentationsymbolinfo.md",
-      "sha256": "cedf394c4c01d4ca07075a501a56a663f531afab866bf2a2aefc78d06fc8242b"
+      "sha256": "c46a94ff3485bed3a5bf0b0646e40b5f04c79a7f62be9fa1472acf0ad5c3a36e"
     },
     {
       "path": "content/en/api/types/tooling-documentation/index.md",
-      "sha256": "f955c91c34e98ca5b6efa6a66625009cbeb77ba2128b5398ce9c48e891c230b4"
+      "sha256": "e38c77c3b5d85984b304387391209b46237d144ed32b27f5a41643c4d7eefe6c"
     }
   ]
 }

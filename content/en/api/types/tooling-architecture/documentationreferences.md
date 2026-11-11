@@ -23,7 +23,7 @@ This reference describes `DocumentationReferences` in `Inno.Tooling.Architecture
 | --- | --- |
 | [`ExportApi`](#api-425601bf1543ed6d) | Method |
 | [`ExportProjects`](#api-90f9bad091c5bf03) | Method |
-| [`ValidateApi`](#api-e0968efaad27d45e) | Method |
+| [`ValidateApiAsync`](#api-21f81cb161a9f803) | Method |
 
 ## Type declaration
 
@@ -37,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
 
 ## `ExportApi`
 
@@ -69,7 +69,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
 
 ## `ExportProjects`
 
@@ -97,15 +97,15 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L243).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L288).
 
-## `ValidateApi`
+## `ValidateApiAsync`
 
-<a id="api-e0968efaad27d45e"></a>
-<!-- api: M:Inno.Tooling.Architecture.DocumentationReferences.ValidateApi(System.String[],System.Threading.CancellationToken) 121b26c57cb1dcd7e95f59150e6e518c8daa9dcebff953bc5702a7d990b07ed6 -->
+<a id="api-21f81cb161a9f803"></a>
+<!-- api: M:Inno.Tooling.Architecture.DocumentationReferences.ValidateApiAsync(System.String[],System.Threading.CancellationToken) 6e11ff22e134ad0182c3a9cc829dfb50255338b6d0bca11a0bbc75340f2dd10f -->
 
 ```csharp
-public static int Inno.Tooling.Architecture.DocumentationReferences.ValidateApi(string[] arguments, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))
+public static System.Threading.Tasks.Task<int> Inno.Tooling.Architecture.DocumentationReferences.ValidateApiAsync(string[] arguments, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))
 ```
 
 Compares explicitly selected reference manifests with one freshly evaluated source compilation batch.
@@ -113,6 +113,9 @@ Declaration, XML, constant and inheritance changes are checked without building 
 
 **Parameter `arguments`:** Required engine-root, dotnet, output and repeated reference options. All references must select the same
 source-clr configuration and target; their actual projects determine the batch, including empty public surfaces.
+An explicit cache-root and snapshot pair reads logical reference paths from that protected generation.
+Otherwise reference paths select local files. Repeated project options restrict comparison to declared owners;
+an absent owner is an error. Snapshot provenance is reported separately from source compatibility.
 
 **Parameter `cancellationToken`:** Cancels capture or comparison before replacing the report.
 
@@ -128,4 +131,4 @@ certify authored prose, script projections, examples, other targets or publicati
 **Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/02482088a47691c00455070aeb9cfd51b0c803ff/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L113).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L118).

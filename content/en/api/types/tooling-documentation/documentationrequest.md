@@ -65,7 +65,7 @@ Selects a read-only query against one already published documentation snapshot.
 **Parameter `limit`:** Maximum search candidates, between one and one hundred. Content reads retain complete units or explicit continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `#ctor`
 
@@ -93,7 +93,7 @@ Selects a read-only query against one already published documentation snapshot.
 **Parameter `limit`:** Maximum search candidates, between one and one hundred. Content reads retain complete units or explicit continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `Deconstruct`
 
@@ -106,7 +106,7 @@ public void Inno.Tooling.Documentation.DocumentationRequest.Deconstruct(out stri
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `Equals`
 
@@ -124,7 +124,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `Equals`
 
@@ -142,7 +142,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `GetHashCode`
 
@@ -158,7 +158,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `op_Equality`
 
@@ -171,7 +171,7 @@ public static bool Inno.Tooling.Documentation.DocumentationRequest.operator ==(I
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `op_Inequality`
 
@@ -184,7 +184,7 @@ public static bool Inno.Tooling.Documentation.DocumentationRequest.operator !=(I
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `ToString`
 
@@ -200,7 +200,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L29).
 
 ## `limit`
 
@@ -214,7 +214,7 @@ public int Inno.Tooling.Documentation.DocumentationRequest.limit { get; init; }
 Maximum search candidates, between one and one hundred. Content reads retain complete units or explicit continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L36).
 
 ## `offset`
 
@@ -228,7 +228,7 @@ public int Inno.Tooling.Documentation.DocumentationRequest.offset { get; init; }
 Zero-based UTF-16 continuation offset within the selected content; search uses a result offset.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L35).
 
 ## `operation`
 
@@ -242,7 +242,7 @@ public string Inno.Tooling.Documentation.DocumentationRequest.operation { get; i
 Search, read, symbol, resource or status; operation names use lowercase ASCII.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L30).
 
 ## `project`
 
@@ -256,7 +256,7 @@ public string? Inno.Tooling.Documentation.DocumentationRequest.project { get; in
 An exact project identity from the source project manifest, or null for every project.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L32).
 
 ## `section`
 
@@ -270,7 +270,7 @@ public string? Inno.Tooling.Documentation.DocumentationRequest.section { get; in
 A section anchor within the selected page, or null for the page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L34).
 
 ## `surface`
 
@@ -284,7 +284,7 @@ public string? Inno.Tooling.Documentation.DocumentationRequest.surface { get; in
 An exact API surface identity, or null to return qualified candidates without choosing a surface.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L33).
 
 ## `value`
 
@@ -298,4 +298,4 @@ public string? Inno.Tooling.Documentation.DocumentationRequest.value { get; init
 Search terms, a stable page identity or relative content path, an XML symbol ID, or a resource URI.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationRequest.cs#L31).

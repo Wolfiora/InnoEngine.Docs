@@ -77,7 +77,7 @@ Identifies an original content unit or an explicitly incomplete search excerpt.
 **Parameter `resource`:** Stable inno-doc resource URI bound to the returned snapshot and page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `#ctor`
 
@@ -113,7 +113,7 @@ Identifies an original content unit or an explicitly incomplete search excerpt.
 **Parameter `resource`:** Stable inno-doc resource URI bound to the returned snapshot and page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `Deconstruct`
 
@@ -126,7 +126,7 @@ public void Inno.Tooling.Documentation.DocumentationHit.Deconstruct(out string p
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `Equals`
 
@@ -144,7 +144,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `Equals`
 
@@ -162,7 +162,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `GetHashCode`
 
@@ -178,7 +178,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `op_Equality`
 
@@ -191,7 +191,7 @@ public static bool Inno.Tooling.Documentation.DocumentationHit.operator ==(Inno.
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `op_Inequality`
 
@@ -204,7 +204,7 @@ public static bool Inno.Tooling.Documentation.DocumentationHit.operator !=(Inno.
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `ToString`
 
@@ -220,7 +220,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L41).
 
 ## `completeness`
 
@@ -234,7 +234,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.completeness { get; in
 CompleteUnit, Excerpt or Partial; complete units may still have necessary related contracts.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L50).
 
 ## `line`
 
@@ -248,7 +248,7 @@ public int Inno.Tooling.Documentation.DocumentationHit.line { get; init; }
 One-based source line of the selected content.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L45).
 
 ## `page`
 
@@ -262,7 +262,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.page { get; init; }
 Relative path within the documentation checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L43).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L43).
 
 ## `pageId`
 
@@ -276,7 +276,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.pageId { get; init; }
 Stable page identity independent of its title or current path.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L42).
 
 ## `projects`
 
@@ -290,7 +290,7 @@ public System.Collections.Generic.IReadOnlyList<string> Inno.Tooling.Documentati
 Actual source project owners declared by the page and validated against the reference manifest.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L46).
 
 ## `reason`
 
@@ -304,7 +304,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.reason { get; init; }
 Why this content was selected.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L49).
 
 ## `resource`
 
@@ -318,7 +318,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.resource { get; init; 
 Stable inno-doc resource URI bound to the returned snapshot and page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L52).
 
 ## `section`
 
@@ -332,7 +332,7 @@ public string Inno.Tooling.Documentation.DocumentationHit.section { get; init; }
 Stable section anchor, or an empty string for a whole page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L44).
 
 ## `surface`
 
@@ -346,7 +346,7 @@ public string? Inno.Tooling.Documentation.DocumentationHit.surface { get; init; 
 Qualified API surface, or null for surface-independent guidance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L47).
 
 ## `symbol`
 
@@ -360,7 +360,7 @@ public string? Inno.Tooling.Documentation.DocumentationHit.symbol { get; init; }
 Exact XML symbol identity when resolving a symbol, otherwise null.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L48).
 
 ## `text`
 
@@ -374,4 +374,4 @@ public string Inno.Tooling.Documentation.DocumentationHit.text { get; init; }
 Original Markdown for reads, or an explicitly marked excerpt for search.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/18da08eaecb12d89b816166bae8d9480683f6948/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationHit.cs#L51).
