@@ -85,7 +85,7 @@ Compilation contexts and execution evidence belong to the validation caller.
 A validator must report executable examples without a context as blocked, not guess one from a namespace.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `#ctor`
 
@@ -127,7 +127,7 @@ Compilation contexts and execution evidence belong to the validation caller.
 A validator must report executable examples without a context as blocked, not guess one from a namespace.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `Deconstruct`
 
@@ -140,7 +140,7 @@ public void Inno.Tooling.Documentation.DocumentationPageInfo.Deconstruct(out str
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `Equals`
 
@@ -158,7 +158,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `Equals`
 
@@ -176,7 +176,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `GetHashCode`
 
@@ -192,7 +192,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `op_Equality`
 
@@ -205,7 +205,7 @@ public static bool Inno.Tooling.Documentation.DocumentationPageInfo.operator ==(
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `op_Inequality`
 
@@ -218,7 +218,7 @@ public static bool Inno.Tooling.Documentation.DocumentationPageInfo.operator !=(
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `ToString`
 
@@ -234,7 +234,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L49).
 
 ## `codeBlocks`
 
@@ -249,7 +249,7 @@ Canonical fenced code for example selection and declaration comparison, without 
 Compilation contexts and execution evidence belong to the validation caller.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L61).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L61).
 
 ## `contentIdentity`
 
@@ -263,7 +263,7 @@ public string Inno.Tooling.Documentation.DocumentationPageInfo.contentIdentity {
 SHA-256 of original UTF-8 Markdown text.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L52).
 
 ## `contracts`
 
@@ -277,7 +277,7 @@ public System.Collections.Generic.IReadOnlyList<string> Inno.Tooling.Documentati
 Necessary page or section identities that must remain visible to readers.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L59).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L59).
 
 ## `examples`
 
@@ -292,7 +292,7 @@ Explicit authored reference context, or null when the page declares no example c
 A validator must report executable examples without a context as blocked, not guess one from a namespace.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L62).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L62).
 
 ## `id`
 
@@ -306,7 +306,7 @@ public string Inno.Tooling.Documentation.DocumentationPageInfo.id { get; init; }
 Stable authored page identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L50).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L50).
 
 ## `includes`
 
@@ -320,7 +320,7 @@ public System.Collections.Generic.IReadOnlyList<string> Inno.Tooling.Documentati
 Source-relative API includes, validated for ownership, existence and cycles.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L60).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L60).
 
 ## `kind`
 
@@ -334,7 +334,7 @@ public string Inno.Tooling.Documentation.DocumentationPageInfo.kind { get; init;
 Validated page purpose, such as tutorial, project or api.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L54).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L54).
 
 ## `owners`
 
@@ -348,7 +348,7 @@ public System.Collections.Generic.IReadOnlyList<string> Inno.Tooling.Documentati
 Actual project identities from the bound manifest.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L55).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L55).
 
 ## `path`
 
@@ -362,7 +362,7 @@ public string Inno.Tooling.Documentation.DocumentationPageInfo.path { get; init;
 Source path relative to the selected Docs checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L51).
 
 ## `sections`
 
@@ -376,7 +376,7 @@ public System.Collections.Generic.IReadOnlyDictionary<string, int> Inno.Tooling.
 Canonical heading anchors mapped to one-based source lines.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L57).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L57).
 
 ## `surface`
 
@@ -390,7 +390,7 @@ public string? Inno.Tooling.Documentation.DocumentationPageInfo.surface { get; i
 Qualified API surface, or null for shared guidance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L56).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L56).
 
 ## `symbols`
 
@@ -404,7 +404,7 @@ public System.Collections.Generic.IReadOnlyDictionary<string, Inno.Tooling.Docum
 Exact XML symbol identities mapped to canonical anchors, signature identities and visible code.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L58).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L58).
 
 ## `title`
 
@@ -418,4 +418,4 @@ public string Inno.Tooling.Documentation.DocumentationPageInfo.title { get; init
 Plain-text H1 derived by the canonical parser.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L53).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationPageInfo.cs#L53).

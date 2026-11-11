@@ -1,0 +1,63 @@
+{
+  "correction": "Normalize upstream Markdown blocks and literal table pipes; no ranking changes.",
+  "toolingRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "samples": [
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "First process",
+      "elapsedMilliseconds": 1047.944,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    },
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "Warm",
+      "elapsedMilliseconds": 1032.8894,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    },
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "Warm",
+      "elapsedMilliseconds": 1036.2523,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    },
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "Warm",
+      "elapsedMilliseconds": 1015.8188,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    },
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "Warm",
+      "elapsedMilliseconds": 1022.4814,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    },
+    {
+      "reason": "All query terms in heading",
+      "bytes": 4088,
+      "phase": "Warm",
+      "elapsedMilliseconds": 1017.0306,
+      "sections": 5,
+      "firstPage": "manual.audio.play-audio"
+    }
+  ],
+  "query": "play control audio",
+  "snapshot": "164ba6c35e8ff42b3c17acae0c975cacea5c22c8d2fb5dd08e99f219ed762d96",
+  "sdk": "10.0.402",
+  "pages": 5195,
+  "medianWarmMilliseconds": 1022.4814,
+  "platform": "Windows x64",
+  "contentIdentity": "556c2da4a6ff9a0657766e8d6513305adc55c08edebb9d6dc51b7c27c3daf26d",
+  "firstFailure": "artifacts/audio-query-first-failure.json",
+  "scope": "Prepared snapshot CLI queries including process startup. No SDK evaluation, Native preparation or network. First process is separate, not a cold operating-system cache measurement."
+}

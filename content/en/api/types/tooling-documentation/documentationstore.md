@@ -37,7 +37,7 @@ Publishes immutable documentation generations and opens protected read-only snap
 No operation invokes an SDK, product build or network client.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
 
 ## `IndexAsync`
 
@@ -59,13 +59,14 @@ Explicitly scans a Docs checkout and publishes a consistent generation using reu
 **Parameter `cancellationToken`:** Cancels scanning, waiting and preparation before atomic selection. The previous generation remains readable.
 
 **Returns:** The published snapshot identity and the number of parsed and reused pages; source API remains unverified.
+Query-only changes rebuild the index while reusing pages whose parser, source and payload identities match.
 
 **Throws `System.IO.IOException`:** Inputs change during preparation, paths escape ownership, or a reference, contract or inclusion is invalid.
 
 **Throws `System.OperationCanceledException`:** Preparation is canceled. Completed immutable payloads remain registered for safe maintenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L55).
 
 ## `OpenAsync`
 
@@ -93,4 +94,4 @@ Opens one immutable generation without scanning authored content or acquiring an
 **Throws `System.OperationCanceledException`:** Reading acquisition is canceled.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L214).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L218).

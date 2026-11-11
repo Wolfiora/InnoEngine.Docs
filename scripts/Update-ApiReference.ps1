@@ -58,7 +58,61 @@ function Normalize-Contract([string]$Text) {
     $normalized = [regex]::Replace($normalized, '(?m)^@threadsafety ', "`n**Thread safety:** ")
     $normalized = [regex]::Replace($normalized, '(?m)^@since ', "`n**Upstream availability:** ")
     $normalized = [regex]::Replace($normalized, '(?m)^@sa ', "`n**See also:** ")
-    return $normalized.Trim()
+    return Normalize-NativeContractBlocks $normalized.Trim()
+}
+function Normalize-NativeContractBlocks([string]$Text) {
+    # Convert two explicit upstream comment conventions, not arbitrary Markdown syntax.
+    # Their missing paragraph boundaries otherwise produce multiline Setext headings.
+    $lines = $Text.Split("`n")
+    $result = [Collections.Generic.List[string]]::new()
+    $fenceCharacter = ''
+    $fenceLength = 0
+    $heading = '^(?:Parameters|Return Value|Thread Safety|Callback Safety|Remarks|See Also|Example [0-9]+(?: - .+)?)$'
+    $border = '^\s*\|(?:[-+: ]+\|)+\s*$'
+    for ($index = 0; $index -lt $lines.Count; $index++) {
+        $line = $lines[$index]
+        if ($fenceLength -gt 0) {
+            $result.Add($line)
+            if ($line -match ('^ {0,3}' + [regex]::Escape($fenceCharacter) + '{' + $fenceLength + ',}\s*$')) { $fenceLength = 0 }
+            continue
+        }
+        if ($line -match '^ {0,3}(`{3,}|~{3,})') {
+            $fenceCharacter = $Matches[1].Substring(0, 1)
+            $fenceLength = $Matches[1].Length
+            $result.Add($line)
+            continue
+        }
+        if ($line -match $heading -and $index + 1 -lt $lines.Count -and $lines[$index + 1] -match '^[-=]{3,}$') {
+            $result.Add(''); $result.Add('### ' + $line); $result.Add('')
+            $index++
+            continue
+        }
+        if ($line -match $border -and $index + 2 -lt $lines.Count -and
+            $lines[$index + 1] -match '^\s*\|.*\|\s*$' -and $lines[$index + 1] -notmatch $border -and
+            $lines[$index + 2] -match $border) {
+            $result.Add(''); $result.Add($lines[$index + 1]); $result.Add($lines[$index + 2])
+            $separators = [regex]::Matches($lines[$index + 2], '\|').Count
+            $index += 3
+            while ($index -lt $lines.Count -and $lines[$index] -match '^\s*\|.*\|\s*$') {
+                if ($lines[$index] -notmatch $border) {
+                    $row = $lines[$index]
+                    if ([regex]::Matches($row, '(?<!\\)\|').Count -gt $separators) {
+                        # Upstream names such as OpenSL|ES contain literal, unspaced pipes.
+                        $row = [regex]::Replace($row, '(?<=\S)(?<!\\)\|(?=\S)', '\|')
+                    }
+                    if ([regex]::Matches($row, '(?<!\\)\|').Count -ne $separators) {
+                        throw "Ambiguous upstream table row; review its columns before publishing: $row"
+                    }
+                    $result.Add($row)
+                }
+                $index++
+            }
+            $result.Add(''); $index--
+            continue
+        }
+        $result.Add($line)
+    }
+    return ($result -join "`n").Trim()
 }
 function Contract-Lines($Symbol) {
     if (-not $Symbol.documentation) {

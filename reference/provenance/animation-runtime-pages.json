@@ -1,0 +1,30 @@
+{
+  "project": "Inno.Animation.Runtime",
+  "outputDirectory": "content/en/api/types/animation-runtime",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+  "facts": "reference/api/animation.json",
+  "factsIdentity": "15f1078459eaa60556d5a6b2a88ac6682472cc70826b6e1c5c09c7bad07aa4e7",
+  "sharedContract": "project.inno-animation-runtime#playback-and-update-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/animation-runtime/animationbindingruntime.md",
+      "sha256": "e7a90c2deb11f97009b99ab05a6cabdab9f560db067122243c6ee561f68a21bb"
+    },
+    {
+      "path": "content/en/api/types/animation-runtime/animationruntime.md",
+      "sha256": "bc88410d8f810c17d87c1f0d85f20266ce4d35aeaa8fe4e0cbc785de276337c8"
+    },
+    {
+      "path": "content/en/api/types/animation-runtime/animationruntimefactory.md",
+      "sha256": "01ecff7370ef8fba4720d3eb3f1111c4a83c58036159b71424ed349c2208af60"
+    },
+    {
+      "path": "content/en/api/types/animation-runtime/index.md",
+      "sha256": "3859d638025f8e6a2c90dd9e0fa53138a2e1228f27a0857cff4f2d701d25d6bc"
+    }
+  ]
+}

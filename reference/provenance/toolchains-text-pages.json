@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Build.Toolchains.Text",
+  "outputDirectory": "content/en/api/types/toolchains-text",
+  "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0",
+  "facts": "reference/api/text.json",
+  "factsIdentity": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+  "sharedContract": "project.inno-build-toolchains-text#frozen-build-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/toolchains-text/texttoolchain.md",
+      "sha256": "9debdb33e087d0601f6f9bb0974b808092e7409114d29c4f1818b9b0df958ca5"
+    },
+    {
+      "path": "content/en/api/types/toolchains-text/index.md",
+      "sha256": "b98bed5afbf2121106050278fcfc309de91d7e07764768199de5ea8b6478c87c"
+    }
+  ]
+}

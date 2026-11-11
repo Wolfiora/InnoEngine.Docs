@@ -1,0 +1,77 @@
+{
+  "sourceApiStatus": "Unverified",
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "reviews": [
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/animation/play-clips.md",
+        "content/en/extending/animation-bindings.md",
+        "content/en/api/projects/inno-animation-assets.md"
+      ],
+      "missing": [],
+      "project": "Inno.Animation.Assets",
+      "symbols": 5,
+      "source": "docs/modules/animation/Inno.Animation.Assets.md",
+      "sourceSha256": "ffd6262183e674e97c5d04aa76a47e53e85ecdd2a725a9f7ba11a2de835b10a0",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/animation/play-clips.md",
+        "content/en/extending/animation-bindings.md",
+        "content/en/api/projects/inno-animation.md"
+      ],
+      "missing": [],
+      "project": "Inno.Animation",
+      "symbols": 134,
+      "source": "docs/modules/animation/Inno.Animation.md",
+      "sourceSha256": "3c7a7c3a79fd7291d84f0989359189a7d0d9b5ab84df8b1965fb0c2c730105bc",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/animation/play-clips.md",
+        "content/en/extending/animation-bindings.md",
+        "content/en/api/projects/inno-animation-runtime.md"
+      ],
+      "missing": [],
+      "project": "Inno.Animation.Runtime",
+      "symbols": 23,
+      "source": "docs/modules/animation/Inno.Animation.Runtime.md",
+      "sourceSha256": "b228aee99a338d932dc51f70c3e359d8d4ce486ecd6670c3c853249a0c2f35ce",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/animation/play-clips.md",
+        "content/en/extending/animation-bindings.md"
+      ],
+      "missing": [],
+      "project": null,
+      "symbols": 0,
+      "source": "docs/modules/animation/README.md",
+      "sourceSha256": "f8de12f770d2afd99137aae54248e409db0a8bb807c3de54a0ec62e78b5c24ba",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/animation/play-clips.md",
+        "content/en/extending/animation-bindings.md",
+        "content/en/api/projects/inno-animation.md"
+      ],
+      "missing": [],
+      "project": "Inno.Animation",
+      "symbols": 0,
+      "source": "docs/modules/animation/Inno.Animation/api.md",
+      "sourceSha256": "fbfbe4b3e00a3df20374b82697e78c8c9265fd30f35df9e96bd06de818395e1b",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    }
+  ],
+  "localProjection": "artifacts/text-final-rendered-projection.json"
+}

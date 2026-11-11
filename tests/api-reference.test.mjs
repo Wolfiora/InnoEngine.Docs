@@ -7,6 +7,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
+import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 
 const execute = promisify(execFile);
 const script = fileURLToPath(new URL('../scripts/Update-ApiReference.ps1', import.meta.url));
@@ -118,6 +119,28 @@ test('editing a previously generated file requires reconciliation', async (t) =>
   await writeFile(f.page, original + '\nA new authored constraint.\n');
   await assert.rejects(f.run(), /edited or removed/);
   assert.match(await readFile(f.page, 'utf8'), /new authored constraint/);
+});
+
+test('upstream comment headings and framed tables become portable blocks without changing code', async (t) => {
+  const f = await fixture(t);
+  f.facts.projects[0].symbols[1].documentation = '<member><summary>Choose the device.\nParameters\n----------\nmode (in)\nUse a supported value:\n|----------|----------|\n| Mode | Meaning |\n|----------|----------|\n| OpenSL|ES | play control audio |\n|----------|----------|\nReturn Value\n------------\nKeep the context alive.\n```c\nParameters\n----------\n|----------|\n| literal |\n|----------|\n```\n~~~~text\nRemarks\n-------\n~~~~\nCallback Safety\n---------------\nDo not initialize inside the callback.</summary></member>';
+  await f.bind();
+  await f.run();
+  const page = await readFile(f.page, 'utf8');
+  assert.match(page, /Choose the device\.\n\n### Parameters\n\nmode \(in\)/);
+  assert.match(page, /supported value:\n\n\| Mode \| Meaning \|\n\|----------\|----------\|\n\| OpenSL\\\|ES \| play control audio \|\n\n\n### Return Value/);
+  assert.match(page, /```c\nParameters\n----------\n\|----------\|\n\| literal \|\n\|----------\|\n```/);
+  assert.match(page, /~~~~text\nRemarks\n-------\n~~~~/);
+  assert.match(page, /### Callback Safety\n\nDo not initialize inside the callback/);
+  assert.match(page, /Keep the context alive/);
+  const renderer = await createMarkdownProcessor({ syntaxHighlight: false });
+  const rendered = await renderer.render(page);
+  assert.match(rendered.code, /<td>OpenSL\|ES<\/td>\s*<td>play control audio<\/td>/);
+  assert.match(rendered.code, /<h3[^>]*>Return Value<\/h3>/);
+  f.facts.projects[0].symbols[1].documentation = '<member><summary>|---|---|\n| First | Second |\n|---|---|\n| one | two | unexpected |\n|---|---|</summary></member>';
+  await f.bind();
+  await assert.rejects(f.run(), /Ambiguous upstream table row/);
+  assert.equal(await readFile(f.page, 'utf8'), page);
 });
 
 test('unbound facts, stale shared contracts and unsupported XML fail before writing', async (t) => {

@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "417557eb7687c7b488b67e0131430e9675feb496",
-  "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
+  "revision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "28d399e6d99b6dffdf553473ee32b3c39c1f9444284fb301292be8e906f353da",
-  "toolingRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "projectManifestIdentity": "49b40fb01b94debe56cb72d6dec0e8d742f4741ac8f6854032a380a9da50a3f3",
+  "toolingRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -35,12 +35,12 @@
     },
     {
       "path": "reference/api/tooling.json",
-      "sha256": "353d3ceaf3376d87464e9657b3fcd1973dbb4522f30a81ce9cae489751cd1c9f",
+      "sha256": "5925c1463dcf6c09a98dcc64a210929a2fab513530a43cfbf866daf8ac78fee4",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
-      "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e"
+      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da"
     },
     {
       "path": "reference/api/input.json",
@@ -68,6 +68,33 @@
       "sha256": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
       "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
       "target": null
+    },
+    {
+      "configuration": "Debug",
+      "model": "source-clr",
+      "target": null,
+      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+      "sha256": "83ef7e5fa7fa12a2a83e41a1f4cbad6dd8d9df854477b91e1d0628d1207456dd",
+      "path": "reference/api/miniaudio.json",
+      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5"
+    },
+    {
+      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+      "path": "reference/api/animation.json",
+      "model": "source-clr",
+      "target": null,
+      "configuration": "Debug",
+      "sha256": "15f1078459eaa60556d5a6b2a88ac6682472cc70826b6e1c5c09c7bad07aa4e7"
+    },
+    {
+      "model": "source-clr",
+      "path": "reference/api/text.json",
+      "configuration": "Debug",
+      "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+      "target": null,
+      "sha256": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+      "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0"
     }
   ]
 }

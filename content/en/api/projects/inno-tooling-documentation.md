@@ -32,6 +32,8 @@ It does not extract the engine's API, compile examples, certify source compatibi
 
 An open snapshot remains a snapshot of its captured inputs even if the authored checkout changes. Refresh explicitly to observe those changes. This distinction allows repeated reads without rescanning the source tree.
 
+The parsed-page schema covers the Markdown parser, its serialized page models and declared parser dependencies. The query/index schema also covers catalog validation, search and result implementation. When only the latter changes, explicit preparation can reuse verified parsed payloads while rebuilding and validating the current index. Reads reject incompatible generations; preparation never promotes old query metadata without current validation.
+
 ## Query contract
 
 `DocumentationRequest` selects search, read, symbol, resource or status operations. `DocumentationResult` separates status, provenance, selected content, required contracts and the next structured request.

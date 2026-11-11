@@ -27,6 +27,12 @@
       items:
         - slug: manual/audio/play-audio
         - slug: manual/audio/mix-audio
+    - label: Animation
+      items:
+        - slug: manual/animation/play-clips
+    - label: Text and fonts
+      items:
+        - slug: manual/text/shape-text
 - label: Architecture
   items:
     - slug: architecture/overview
@@ -46,11 +52,15 @@
     - slug: extending/editor-history
     - slug: extending/editor-state
     - slug: extending/audio-content
+    - slug: extending/animation-bindings
+    - slug: extending/text-backends
 - label: Platforms & Backends
   items:
     - slug: platforms
     - slug: backends
     - slug: backends/sdl3
+    - slug: backends/miniaudio
+    - slug: backends/text
 - label: API Reference
   items:
     - slug: api
@@ -87,6 +97,23 @@
         - slug: api/projects/inno-audio-runtime
         - slug: api/projects/inno-audio-assets
         - slug: api/projects/inno-adapter-audio
+        - slug: api/projects/inno-adapter-audio-miniaudio
+        - slug: api/projects/inno-native-miniaudio
+        - slug: api/projects/inno-build-toolchains-miniaudio
+    - label: Animation reference
+      items:
+        - slug: api/projects/inno-animation
+        - slug: api/projects/inno-animation-runtime
+        - slug: api/projects/inno-animation-assets
+    - label: Text reference
+      items:
+        - slug: api/projects/inno-build-toolchains-text
+        - slug: api/projects/inno-native-text
+        - slug: api/projects/inno-adapter-text-freetypeharfbuzz
+        - slug: api/projects/inno-adapter-text
+        - slug: api/projects/inno-text-assets
+        - slug: api/projects/inno-text-runtime
+        - slug: api/projects/inno-text
     - label: Native integration reference
       items:
         - slug: api/projects/inno-native-libraryloading

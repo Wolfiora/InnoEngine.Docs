@@ -1,0 +1,8 @@
+{
+  "upstream": "https://github.com/mackron/miniaudio",
+  "notes": "Original license bytes preserved. Source declarations are generated from the selected InnoEngine binding; raw ABI coverage is not complete member-specific semantic or platform certification.",
+  "source": "extern/miniaudio/LICENSE",
+  "revision": "9634bedb5b5a2ca38c1ee7108a9358a4e233f14d",
+  "sha256": "cf00884e3bae1ec7b49e96bc014079f5b4c803987586b894ac431779927c67b3",
+  "license": "public/licenses/miniaudio.txt"
+}

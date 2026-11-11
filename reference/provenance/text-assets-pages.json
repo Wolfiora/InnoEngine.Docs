@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Text.Assets",
+  "outputDirectory": "content/en/api/types/text-assets",
+  "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0",
+  "facts": "reference/api/text.json",
+  "factsIdentity": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+  "sharedContract": "project.inno-text-assets#import-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/text-assets/fontimporter.md",
+      "sha256": "9e09baf8b76a179f021a3cb77aefb4329fbbe3c885d9b6f5167b7ed21acfe90a"
+    },
+    {
+      "path": "content/en/api/types/text-assets/index.md",
+      "sha256": "7c16f3602e136c6914f5159bad32a3a6f09c2e9e9abfe477e54d6df527c33bf9"
+    }
+  ]
+}

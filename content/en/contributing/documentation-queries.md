@@ -78,6 +78,8 @@ Invalid requests, cancellation and corrupted cache payloads are execution failur
 
 Run `docs index` after relevant documentation or binding changes. It compares content rather than relying on timestamps, reuses matching parsed pages and publishes a new complete generation. Existing readers retain their original snapshot.
 
+Parsed-page identity is separate from the complete query/index implementation. A search-ranking or result-format change requires a current index but can reuse unchanged Markdown parsing. Parser, page-model or parser-dependency changes require fresh parsing. Reuse still verifies the source path, text and stored payload hash; it never treats an old query generation as a current one.
+
 Ordinary prepared-snapshot queries do not scan the authored document tree, acquire its update lock, rewrite its manifest, contact the network, evaluate SDK projects or start engine/Native builds. A corrupt selected payload fails visibly; explicit preparation can rebuild it.
 
 ## Integrate another transport

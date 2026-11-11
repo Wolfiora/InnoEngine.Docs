@@ -56,7 +56,7 @@ Identifies unread content without silently dropping constraints or splitting the
 **Parameter `reason`:** Whether the target continues original text or supplies a necessary associated contract.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `#ctor`
 
@@ -78,7 +78,7 @@ Identifies unread content without silently dropping constraints or splitting the
 **Parameter `reason`:** Whether the target continues original text or supplies a necessary associated contract.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `Deconstruct`
 
@@ -91,7 +91,7 @@ public void Inno.Tooling.Documentation.DocumentationContinuation.Deconstruct(out
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `Equals`
 
@@ -109,7 +109,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `Equals`
 
@@ -127,7 +127,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `GetHashCode`
 
@@ -143,7 +143,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `op_Equality`
 
@@ -156,7 +156,7 @@ public static bool Inno.Tooling.Documentation.DocumentationContinuation.operator
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `op_Inequality`
 
@@ -169,7 +169,7 @@ public static bool Inno.Tooling.Documentation.DocumentationContinuation.operator
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `ToString`
 
@@ -185,7 +185,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L18).
 
 ## `offset`
 
@@ -199,7 +199,7 @@ public int Inno.Tooling.Documentation.DocumentationContinuation.offset { get; in
 UTF-16 position within the selection for a content continuation; zero begins a related contract.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L21).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L21).
 
 ## `pageId`
 
@@ -213,7 +213,7 @@ public string Inno.Tooling.Documentation.DocumentationContinuation.pageId { get;
 Stable page identity within the same snapshot.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L19).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L19).
 
 ## `reason`
 
@@ -227,7 +227,7 @@ public string Inno.Tooling.Documentation.DocumentationContinuation.reason { get;
 Whether the target continues original text or supplies a necessary associated contract.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L22).
 
 ## `section`
 
@@ -241,4 +241,4 @@ public string? Inno.Tooling.Documentation.DocumentationContinuation.section { ge
 Section anchor, or null for the entire page.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationContinuation.cs#L20).

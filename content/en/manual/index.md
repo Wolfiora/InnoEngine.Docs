@@ -8,6 +8,10 @@ kind: landing
 
 The Manual explains how to use the engine's implemented capabilities. Start with a task, then follow its links to the exact contracts and architectural concepts it relies on.
 
+## Text and fonts
+
+[Shape text and rasterize glyphs](text/shape-text.md) from imported fonts, then pass their positions and coverage to your own presentation system.
+
 ## Editor and projects
 
 - [Start the Editor](../getting-started/first-editor-session.md) and recognize its default workspace.
@@ -27,6 +31,8 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Route audio through a mixer](audio/mix-audio.md) using semantic buses and validated processor chains.
 
 ## State, references, and lifetime
+
+- [Play an animation clip](animation/play-clips.md) against an explicit destination or sampling-only target.
 
 - [Understand identity and Missing states](identity-and-missing.md).
 - [Understand ownership](../architecture/ownership.md) before retaining resources or participating in reload.

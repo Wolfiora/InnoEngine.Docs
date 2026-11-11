@@ -8,6 +8,10 @@ kind: explanation
 
 [SDL3 platform integration](sdl3.md) provides a concrete guide to application ownership, native windows, event routing and binding deployment.
 
+[MiniAudio audio integration](miniaudio.md) explains audible and hardwareless native processing, clip preparation and device ownership.
+
+[FreeType and HarfBuzz text integration](text.md) explains font faces, Unicode shaping, coverage pixels and the current typography boundaries.
+
 A backend owns a concrete implementation of an engine capability. Its runtime code, native facade, binding configuration, build recipe, and component-specific tests belong to that implementation boundary.
 
 ## Neutral contracts and concrete limits

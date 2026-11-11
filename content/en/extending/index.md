@@ -10,6 +10,8 @@ An extension belongs to the layer that owns its behavior. Start by identifying t
 
 ## Choose the boundary
 
+[Add a text backend](text-backends.md) through neutral shaping contracts and explicit composition-owned providers.
+
 Start with [a panel](editor-panels.md), [a shared module](editor-modules.md),
 [a modal](editor-modals.md), or [an action and menu](editor-actions.md).
 Use the shared [selection](editor-selection.md), [History](editor-history.md) and
@@ -31,6 +33,8 @@ Use the shared [selection](editor-selection.md), [History](editor-history.md) an
 ## Discovery is not ownership
 
 [Provide audio from host content](audio-content.md) maps a scene or another host content model into bounded emitter and listener snapshots without retaining plugin objects on the audio thread.
+
+[Add an animation binding](animation-bindings.md) applies neutral sampled values through a declared destination protocol.
 
 Discovery identifies an extension and its stable metadata. The owning registry/host decides how it is constructed, activated, and retired. Do not manually invoke lifecycle callbacks or create a parallel discovery system to bypass that owner.
 

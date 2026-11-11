@@ -35,7 +35,7 @@ public static class Inno.Build.Distribution.Standard.StandardBuildHosts
 Registers supported build hosts without duplicating their execution facts.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/build/distributions/Inno.Build.Distribution.Standard/StandardBuildHosts.cs#L11).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildHosts.cs#L11).
 
 ## `Capture`
 
@@ -53,4 +53,4 @@ Captures the current execution machine from registered platform providers.
 **Throws `System.PlatformNotSupportedException`:** No registered provider supports the current machine.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/417557eb7687c7b488b67e0131430e9675feb496/build/distributions/Inno.Build.Distribution.Standard/StandardBuildHosts.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildHosts.cs#L22).

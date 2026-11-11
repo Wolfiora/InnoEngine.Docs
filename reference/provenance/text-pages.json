@@ -1,0 +1,82 @@
+{
+  "project": "Inno.Text",
+  "outputDirectory": "content/en/api/types/text",
+  "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0",
+  "facts": "reference/api/text.json",
+  "factsIdentity": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+  "sharedContract": "project.inno-text#shaping-and-glyph-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/text/fontasset.md",
+      "sha256": "0775f45bbaca8057110e2cbd47b78b822ec543d1877805236b96ba27c12a1a67"
+    },
+    {
+      "path": "content/en/api/types/text/fontmetadata.md",
+      "sha256": "35faf3052031be81419f27e8ed97051eca62e79557dd9293730eec34a84f84a2"
+    },
+    {
+      "path": "content/en/api/types/text/fontmetadatacodec.md",
+      "sha256": "e6fac9ab01026da04c1a12b82b0a877ea17926b6f52a563a0dc5ef0a585bcc83"
+    },
+    {
+      "path": "content/en/api/types/text/glyphbitmap.md",
+      "sha256": "5e3c9e59731a47fd997bdd5dec513f3a60321dfd5d85508415342b41e7acee3c"
+    },
+    {
+      "path": "content/en/api/types/text/itextbackend.md",
+      "sha256": "c03b6520c16862426dfe909472b69e95809d52ac6daab48542b9681685a526ec"
+    },
+    {
+      "path": "content/en/api/types/text/itextservice.md",
+      "sha256": "41eee1885198e9c9aca1ff48f0d92440980f1c339336aa6b23dd77641ff4d1cd"
+    },
+    {
+      "path": "content/en/api/types/text/text.md",
+      "sha256": "315506f5a4dfbb3015e4e6ac782003511ba44dccccfa65ef4552895a382cdeaa"
+    },
+    {
+      "path": "content/en/api/types/text/textdirection.md",
+      "sha256": "ae8449e1b65297ebac77e5bbc6b8604b69c001cbf9024fe03acb92d9671de59b"
+    },
+    {
+      "path": "content/en/api/types/text/textexecutioncontext.md",
+      "sha256": "ed6fac0baf57ec6a90d86f99533ce25dc3ed1136ff50b3c785cd41455fcc3ed1"
+    },
+    {
+      "path": "content/en/api/types/text/textfonthandle.md",
+      "sha256": "eefdbc83b5eb9409caa9eb0b7f8dbd5f0fa32c3c5a6c2937c2e97dd77a0b4ca2"
+    },
+    {
+      "path": "content/en/api/types/text/textfontstyle.md",
+      "sha256": "ac58df501ffabd6369868bb5451cbb3f6364bb35b012ea10e77ed3fcc3144f98"
+    },
+    {
+      "path": "content/en/api/types/text/textglyph.md",
+      "sha256": "4cb32d6abad405df5ec5113195e42b3b8168955c75dd832f4f02de5ce9eb5bee"
+    },
+    {
+      "path": "content/en/api/types/text/textlayout.md",
+      "sha256": "71add880c5a87332d77dd0cd5a28263dd61d1f4597edc8d0df5154508d06150a"
+    },
+    {
+      "path": "content/en/api/types/text/textmetrics.md",
+      "sha256": "9b4c66ccdffe263af3f055f6e32bab619fbdb135d5338f78d8a91f503b0a3f9b"
+    },
+    {
+      "path": "content/en/api/types/text/textshapingoptions.md",
+      "sha256": "563dfb70de3cbf576e2a42db331fd8e84e09fbabdf9d8677881b3d840e7bd8b0"
+    },
+    {
+      "path": "content/en/api/types/text/textstyle.md",
+      "sha256": "5b3612651252402cc8bb9471c584634ad418e976359f92be144b3f05e69c5453"
+    },
+    {
+      "path": "content/en/api/types/text/index.md",
+      "sha256": "0aa5c50a2cba5f3457f6afb50dd089e1044d28e6337ee325f0e69d6175bc16af"
+    }
+  ]
+}

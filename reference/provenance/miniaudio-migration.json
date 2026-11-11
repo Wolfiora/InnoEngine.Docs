@@ -1,0 +1,358 @@
+{
+  "sourceApiStatus": "Unverified",
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "reviews": [
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-adapter-audio-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Adapter.Audio.MiniAudio",
+      "symbols": 25,
+      "source": "docs/backends/MiniAudio/Inno.Adapter.Audio.MiniAudio.md",
+      "sourceSha256": "ff82af728f73f100fc8b8089f10eb95211e4f17bdfebe8194d7ca20195e04446",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-build-toolchains-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Build.Toolchains.MiniAudio",
+      "symbols": 4,
+      "source": "docs/backends/MiniAudio/Inno.Build.Toolchains.MiniAudio.md",
+      "sourceSha256": "ea7b7c7763b9a939c610ca69db23de24264334e73ddafbf60fc1f0f14aaefba9",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 1,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.md",
+      "sourceSha256": "56191f4e2c2d86a36ee92bab8ed523a0973750bbae89c6cb64c88e9c53e00a38",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md"
+      ],
+      "missing": [],
+      "project": null,
+      "symbols": 0,
+      "source": "docs/backends/MiniAudio/README.md",
+      "sourceSha256": "d5e81e021aaf2886f23b977acb08d3b63d366937c93f4ad19d5e25d42e777d89",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-01.md",
+      "sourceSha256": "a5d201899070227ba9815b42108da9a3cea0b5660e9cbf5811c0611140c731dd",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-02.md",
+      "sourceSha256": "0be11adf738bd616490e25808d02a77f4350852b5777f95e59172e708abf9444",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-03.md",
+      "sourceSha256": "96229e800470726cb376971047ec6ac4710f54e96f74d488c31cdb886205d9a7",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-04.md",
+      "sourceSha256": "e0ccd00cd5c17d59df911450d13359245fe927b3acf52f1c3859c85a6449800a",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-05.md",
+      "sourceSha256": "9e6609f409e7ab80b2e30cbd4fd979a82f107079afd26830b4a1b2bb55f35325",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-06.md",
+      "sourceSha256": "728bec63f7bdc2f5ea86b325c0ccb5fbf4acec9ca0683333ae23a45cce014b70",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-07.md",
+      "sourceSha256": "377ad3b1bd0022144b2ddd9e035fd4ee4fc454c2be019bbf209f955707f3dba7",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-08.md",
+      "sourceSha256": "7a03b0aca632442348ea37ff2a6a9cb7bd3b0a86141f2b4d674f41a7bf7b0e38",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-09.md",
+      "sourceSha256": "98228074f29857291101203b1ce6cd15d6e547c3539d50707a4cc737c5e0111e",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-10.md",
+      "sourceSha256": "8f54d97702096a2f7ec1a1cd7c96db74162e72679eb64f8321f8c78bd865e93e",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-11.md",
+      "sourceSha256": "e62ff5f43d707141c7cea30e6eb16f67f8546023d9dca648c8f7cefae8386807",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-12.md",
+      "sourceSha256": "aa5e9a7b292e9fcd097865868b30a6fbc7ce12e8226dc2e36dfbc3e85648c236",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-13.md",
+      "sourceSha256": "7a650c876ec4da956fa5e0fece946577201a9e2ab8d4a4d59aeef35db72ae10a",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-14.md",
+      "sourceSha256": "c9a33f7dcc92c011773f961e961992c590c76d8afe8612329745db26315ad63a",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-15.md",
+      "sourceSha256": "7535b819346380c5edcd5b75b35cb5a5ccc672bbe8de0248ff1f0c36af5a0c65",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-16.md",
+      "sourceSha256": "e6267cc246ef52202f49548be1728d7d3d1e4aca80f2e8a50aae4a3443250247",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-17.md",
+      "sourceSha256": "48daf15de00718418fe58cf99af26df5b4004fe79e6c0a942796eb2e0944677f",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-18.md",
+      "sourceSha256": "a83dc110bca26a4ce82b099708349d19151a9cb0cf33d7b75fe5db8b5b078d76",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-19.md",
+      "sourceSha256": "a73041b4ca97b174ab3c6162562eb3b5d73cd329fb188986d92fa9ed42385fb0",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-20.md",
+      "sourceSha256": "f6778630f4e4bfe1626f048a61ad35a08970dff18f119b87c3e864999e0cf807",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 147,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-21.md",
+      "sourceSha256": "29c9f5411a4f7ed05a7292313d8bce717f9aa7b967bbd109db908a9b76deb726",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 148,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/ABI-22.md",
+      "sourceSha256": "1bb3f93a9ce8e81150b7f4010d075a2461e1294b89885196bba63c6136d6ac6d",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/backends/miniaudio.md",
+        "content/en/api/projects/inno-native-miniaudio.md"
+      ],
+      "missing": [],
+      "project": "Inno.Native.MiniAudio",
+      "symbols": 0,
+      "source": "docs/backends/MiniAudio/Inno.Native.MiniAudio.Api/README.md",
+      "sourceSha256": "f51748da46d64e7f1b2ef080f2808e5c77f620c2ad76559019c9db948ea85e25",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    }
+  ],
+  "localProjection": "artifacts/text-final-rendered-projection.json"
+}

@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Adapter.Text.FreeTypeHarfBuzz",
+  "outputDirectory": "content/en/api/types/adapter-text-freetypeharfbuzz",
+  "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0",
+  "facts": "reference/api/text.json",
+  "factsIdentity": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+  "sharedContract": "project.inno-adapter-text-freetypeharfbuzz#backend-lifetime-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-text-freetypeharfbuzz/freetypeharfbuzztextbackend.md",
+      "sha256": "1129d2bdb8a4988ca1304f6d379c6e8f50cfa7e34f333b1d9778c0798263ee83"
+    },
+    {
+      "path": "content/en/api/types/adapter-text-freetypeharfbuzz/freetypeharfbuzztextbackendprovider.md",
+      "sha256": "e3127d08aa69330058f8ff970703779fbc83adb751ae669d932b8edb4bee24df"
+    },
+    {
+      "path": "content/en/api/types/adapter-text-freetypeharfbuzz/index.md",
+      "sha256": "03872cde569455b4000f294fe271eef93f1c203b4a896fd53550b716793c873a"
+    }
+  ]
+}

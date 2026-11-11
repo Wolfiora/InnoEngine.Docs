@@ -160,22 +160,28 @@
   {
     "name": "Inno.Build.Toolchains.MiniAudio",
     "path": "backends/MiniAudio/build/Inno.Build.Toolchains.MiniAudio/Inno.Build.Toolchains.MiniAudio.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-build-toolchains-miniaudio.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Native.MiniAudio",
     "path": "backends/MiniAudio/native/Inno.Native.MiniAudio/Inno.Native.MiniAudio.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-native-miniaudio.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Audio.MiniAudio",
     "path": "backends/MiniAudio/runtime/Inno.Adapter.Audio.MiniAudio/Inno.Adapter.Audio.MiniAudio.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-audio-miniaudio.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -267,22 +273,28 @@
   {
     "name": "Inno.Build.Toolchains.Text",
     "path": "backends/Text/build/Inno.Build.Toolchains.Text/Inno.Build.Toolchains.Text.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-build-toolchains-text.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Native.Text",
     "path": "backends/Text/native/Inno.Native.Text/Inno.Native.Text.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-native-text.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Text.FreeTypeHarfBuzz",
     "path": "backends/Text/runtime/Inno.Adapter.Text.FreeTypeHarfBuzz/Inno.Adapter.Text.FreeTypeHarfBuzz.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-text-freetypeharfbuzz.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -613,8 +625,10 @@
   {
     "name": "Inno.Adapter.Text",
     "path": "src/adapters/text/Inno.Adapter.Text/Inno.Adapter.Text.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-adapter-text.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -886,22 +900,28 @@
   {
     "name": "Inno.Animation.Assets",
     "path": "src/content/animation/Inno.Animation.Assets/Inno.Animation.Assets.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-animation-assets.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Animation.Runtime",
     "path": "src/content/animation/Inno.Animation.Runtime/Inno.Animation.Runtime.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-animation-runtime.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Animation",
     "path": "src/content/animation/Inno.Animation/Inno.Animation.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-animation.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1252,22 +1272,28 @@
   {
     "name": "Inno.Text.Assets",
     "path": "src/services/text/Inno.Text.Assets/Inno.Text.Assets.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-text-assets.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Text.Runtime",
     "path": "src/services/text/Inno.Text.Runtime/Inno.Text.Runtime.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-text-runtime.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Text",
     "path": "src/services/text/Inno.Text/Inno.Text.csproj",
-    "entry": null,
-    "surfaces": [],
+    "entry": "content/en/api/projects/inno-text.md",
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
