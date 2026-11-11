@@ -35,7 +35,7 @@ public static class Inno.Tooling.Validation.ValidationCommand
 Provides repository validation planning, execution and evidence reconciliation to the existing Build entry.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/022c4917f784020905c41e09c524420e0c22d3d9/tools/Inno.Tooling.Validation/ValidationCommand.cs#L15).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Validation/ValidationCommand.cs#L16).
 
 ## `ExecuteAsync`
 
@@ -50,6 +50,8 @@ Executes an explicit plan, run, full or evidence operation and persists inspecta
 
 **Parameter `arguments`:** The operation followed by explicit engine-root, base, dotnet, configuration, artifacts-path, output, plan,
 evidence, full, extended, cache-input or cache-output options. Cache archives contain immutable native payloads only.
+Explicit docs-cache-root and docs-snapshot options select protected external documentation facts.
+Optional docs-base-snapshot identifies changed pages and facts without rescanning an authoring checkout.
 
 **Parameter `cancellationToken`:** Cancels child processes while retaining the first failure and completed diagnostics.
 
@@ -62,4 +64,4 @@ evidence, full, extended, cache-input or cache-output options. Cache archives co
 **Throws `System.IO.InvalidDataException`:** A supplied plan or evidence record is invalid or does not describe the current input.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/022c4917f784020905c41e09c524420e0c22d3d9/tools/Inno.Tooling.Validation/ValidationCommand.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Validation/ValidationCommand.cs#L42).

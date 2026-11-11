@@ -25,6 +25,8 @@ ValidationCommand is the only public command entry. ExecuteAsync accepts operati
 
 The library remains tooling-only and does not add a daily executable or runtime/Player dependency. Architecture validation, evaluated SDK facts and neutral Build Toolchains supply its inputs and ownership mechanisms.
 
+`--docs-cache-root` and `--docs-snapshot` select an explicit protected documentation generation. Optional `--docs-base-snapshot` compares two prepared generations for documentation-only or paired changes. The canonical Documentation library owns parsing and page/reference identities; this planner owns which checks and compilation prerequisites the task requires. It does not maintain an independent Markdown parser or fall back to the engine's retired product-documentation tree.
+
 ## Ownership and failure
 
 The default stable writable owner is `artifacts/validation/workspaces/<configuration>`. An explicit workspace must be new or registered to the same owner. A lease protects the whole build/test operation; concurrent users wait and cancellation releases responsibility. The running CLI and outputs being replaced must have distinct write owners.

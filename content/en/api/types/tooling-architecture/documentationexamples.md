@@ -36,7 +36,7 @@ Compiles canonical documentation examples against explicit prepared host or scri
 This validator does not parse Markdown again, build products, run example code or certify source provenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
 
 ## `ExecuteAsync`
 
@@ -50,7 +50,9 @@ public static System.Threading.Tasks.Task<int> Inno.Tooling.Architecture.Documen
 Validates complete example groups in a prepared snapshot using one evaluated SDK graph.
 
 **Parameter `arguments`:** Required engine-root, cache-root, snapshot, dotnet and output options; optional repeated page identities,
-configuration, target, runtime-reference and editor-reference. References must already exist.
+configuration, target, artifacts-path, sdk-snapshot, runtime-reference and editor-reference. References must already exist.
+A supplied resolved SDK snapshot must match the requested properties and contain every selected example owner.
+Its caller maintains the stable execution boundary and verifies closing inputs; the graph alone does not certify freshness.
 
 **Parameter `cancellationToken`:** Cancels reading, SDK inspection or compilation before atomic report publication.
 
@@ -64,4 +66,4 @@ missing explicit contexts or empty required example discovery. The report preser
 **Throws `System.OperationCanceledException`:** Validation was canceled; no completed report replaces the previous result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L49).

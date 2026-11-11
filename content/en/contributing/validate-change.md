@@ -16,17 +16,37 @@ A managed contract test can still require a native backend. A `domain` suite mus
 
 ## Prepare and inspect a plan
 
-The following PowerShell commands use the existing Build entry. They do not create a separate validation executable.
+The following PowerShell commands use the existing Build entry. Select the Docs checkout explicitly and prepare its snapshot once for the task. Replace the example path with your chosen checkout; no sibling repository is inferred.
 
 ```powershell
 $run = 'artifacts/validation/runs/' + [Guid]::NewGuid().ToString('N')
-dotnet run --project entry/InnoEngine.Build -- validate plan --engine-root . --dotnet dotnet --base HEAD --output $run
+$docsSource = 'C:/work/InnoEngine.Docs'
+$docsCache = Join-Path (Get-Location) 'artifacts/documentation-query'
+dotnet build entry/InnoEngine.Build --configuration Debug
+if ($LASTEXITCODE -ne 0) { throw 'Build entry preparation failed.' }
+$indexed = dotnet run --no-build --project entry/InnoEngine.Build -- docs index `
+    --engine-root . --docs-root $docsSource --cache-root $docsCache --format json
+if ($LASTEXITCODE -ne 0) { throw 'Documentation preparation failed.' }
+$documentation = $indexed | ConvertFrom-Json
+dotnet run --no-build --project entry/InnoEngine.Build -- validate plan `
+    --engine-root . --dotnet dotnet --base HEAD --output $run `
+    --docs-cache-root $docsCache --docs-snapshot $documentation.snapshot
 if ($LASTEXITCODE -ne 0) { throw 'Validation planning failed.' }
 ```
 
 `HEAD` includes staged, unstaged and untracked changes relative to the current commit. For an already committed feature, choose the actual development baseline instead. A clean, unchanged checkout does not select an arbitrary suite just because you want to diagnose it.
 
 Read `plan.json` before executing. Confirm the affected owners, required checks and their reasons, excluded checks, evaluated contexts, product requirements and selected environment. An unknown relationship or missing required environment needs resolution; it is not permission to silently omit a check.
+
+Required external documentation without a selected snapshot is explicitly blocked. The engine's retired Wiki tree cannot supply substitute evidence. Once prepared, the plan reads immutable page and reference payloads; moving or editing the authoring checkout does not change that selected snapshot.
+
+## Include documentation changes
+
+When the task also changes Docs content, retain the previous snapshot identity, refresh after editing, and pass `--docs-base-snapshot PREVIOUS_ID` when creating the new plan. Both generations must be available in the explicitly selected cache. The planner compares content identities, including moved and deleted pages, includes and necessary contract relationships.
+
+Pure prose changes require document checks. Changed C# examples select their declared projects and host or script environment. Changed source-reference facts select their actual owners; removing a required capture produces a blocked obligation instead of an empty successful selection. Backend-native and generated binding member catalogs remain outside the approved documentation scope; managed adapter usage and real native tests keep their own obligations.
+
+Without a Docs baseline, the engine change determines related documentation checks. Website layout and browser-search changes are handled by Docs CI. Supplying an existing `--plan` fixes its documentation selection: regenerate the plan to change the snapshot or baseline.
 
 ## Execute the same plan
 
@@ -77,7 +97,7 @@ This interval is a reporting cadence, not a build deadline. Parent CPU does not 
 | `Blocked` | A required prerequisite prevented valid execution. |
 | `NotApplicable` | The plan explicitly excluded this check with a reason. |
 
-Reconcile evidence using `validate evidence` with the exact plan and evidence file. This checks completion, input/environment identities, required results and output/dependency identities. A report file or an intermediate green test result alone is insufficient.
+Reconcile evidence using `validate evidence` with the exact plan and evidence file. This checks completion, input/environment identities, required results and output/dependency identities. It also opens the bound documentation generation under reading protection and verifies its pages, project inventory and selected reference payloads. A missing or corrupt snapshot cannot inherit a previous pass. A report file or an intermediate green test result alone is insufficient.
 
 Keep the first failure. A retry records what changed or why it is justified. A filtered test can help investigate a failure, but it does not replace all obligations selected by the plan. Commit, push and report edits do not independently require repeating unchanged checks.
 

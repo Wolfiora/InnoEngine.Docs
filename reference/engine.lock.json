@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "20ca428b9354c6ee587679cf323ee30c4fc1410f",
-  "sourceTree": "ab17e54e8d459fcc97bc071d1ba3393a4c80f61d",
+  "revision": "b8d6c801595a5fc719c651b451123191ef4dd07f",
+  "sourceTree": "277771f0472056016d5d0630dac1642e52830ba6",
   "projectManifest": "reference/projects/catalog.json",
   "projectManifestIdentity": "df065051543efef82b119df4b49fcd86e3b22faf5760cb646e20d50e40b3a20a",
-  "toolingRevision": "20ca428b9354c6ee587679cf323ee30c4fc1410f",
+  "toolingRevision": "b8d6c801595a5fc719c651b451123191ef4dd07f",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -260,12 +260,12 @@
     },
     {
       "path": "reference/api/development-entries.json",
-      "sha256": "f21aeb71601cdfcd2debf8fd48a0356b49f75d7d78290c159c19a1a7b3111122",
+      "sha256": "c866bd1ba62279305072450a98b0a57549c1809a7c3ff9411cc60d9010289072",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
+      "sourceRevision": "b8d6c801595a5fc719c651b451123191ef4dd07f",
+      "sourceTree": "277771f0472056016d5d0630dac1642e52830ba6"
     },
     {
       "path": "reference/api/build-composition.json",
@@ -350,12 +350,12 @@
     },
     {
       "path": "reference/api/tooling-architecture.json",
-      "sha256": "ed827528cc0082eab057b628ecbae0d5c054b12cc3100c4e7dd27c5ae6ea1be4",
+      "sha256": "1d1dd017afec69152c555218fcb95914fd4f16ea361cb293d39336b89218f0bd",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "20ca428b9354c6ee587679cf323ee30c4fc1410f",
-      "sourceTree": "ab17e54e8d459fcc97bc071d1ba3393a4c80f61d"
+      "sourceRevision": "b8d6c801595a5fc719c651b451123191ef4dd07f",
+      "sourceTree": "277771f0472056016d5d0630dac1642e52830ba6"
     },
     {
       "path": "reference/api/tooling-documentation.json",

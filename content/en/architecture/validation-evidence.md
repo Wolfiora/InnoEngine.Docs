@@ -30,11 +30,17 @@ Source-policy inputs include the C#, templates and MSBuild files actually inspec
 
 Documentation structure/link checks precede dependent API/example checks. An API fragment belongs to its declared owner and selected surface. Script examples use the matching projected facade and configuration; a Debug request cannot borrow an unexecuted Release output.
 
+External documentation contributes a protected snapshot, its canonical owners, reference payloads and parsed example contexts. The planner consumes these facts directly. It does not parse Markdown a second time or infer a script environment from namespace text. Source-reference comparisons select owners within a captured configuration/target batch; example checks retain their declared host or script prerequisites.
+
+An explicit earlier Docs snapshot supplies a content baseline. Page moves, additions, deletions, include changes and necessary contract changes identify affected guides. Per-owner source-reference identities remain separate from the whole site's prose identity, so an unrelated prose edit does not change a selected API comparison's definition. Missing captures and snapshots remain blocked obligations. An available snapshot is not a publication certificate or proof of source compatibility.
+
 ## Build one union per context
 
 The selected projects/configurations become a temporary SDK solution independent of IDE Build.0 exclusions. Stable workspace output directories are separate from per-run logs. Evaluated and executed configuration inheritance agree, including dependencies outside solution roots and explicit reference-edge mappings.
 
 A context shares one Task-bootstrap owner across its roots. Clean and Build are separate processes with separate ownership identities. Clean is serial and explicitly disables product Native preparation; the following bounded Build retains its real product requirements, deployment checks and consumer protection. Managed parallelism is bounded by available processors and four.
+
+After preparation, compiled API inspection, selected documentation API comparison and example compilation share one resolved SDK reference graph per eligible context. Failed prerequisites are excluded from this union. Successful build roots remain included even when only their dependency exposes an API: consumer reference edges can select additional property variants. Consumers read the same effective properties and references; they do not each launch reference resolution. The graph remains valid only inside the execution boundary whose source, environment and outputs are checked again at completion.
 
 Only complete content proof permits preserving dependency outputs. If changes affect exclusively owned Compile inputs of selected roots while all other source, imports, generators, resources, tools, restored packages and outputs still match, clean those roots and retain verified ordinary dependencies. Selected roots that reference each other still rebuild as roots. Missing proof, changed variants or damaged output requires the wider clean.
 

@@ -37,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
 
 ## `ExportApi`
 
@@ -69,7 +69,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
 
 ## `ExportProjects`
 
@@ -97,7 +97,7 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L288).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L292).
 
 ## `ValidateApiAsync`
 
@@ -114,7 +114,10 @@ Declaration, XML, constant and inheritance changes are checked without building 
 **Parameter `arguments`:** Required engine-root, dotnet, output and repeated reference options. All references must select the same
 source-clr configuration and target; their actual projects determine the batch, including empty public surfaces.
 An explicit cache-root and snapshot pair reads logical reference paths from that protected generation.
-Otherwise reference paths select local files. Repeated project options restrict comparison to declared owners;
+Otherwise reference paths select local files. An optional artifacts-path selects the prepared compile output owner.
+An optional sdk-snapshot supplies one previously resolved SDK graph with matching properties and selected owners.
+The caller owns its stable execution boundary and closing input checks; a supplied graph is not independent freshness evidence.
+Repeated project options restrict comparison to declared owners;
 an absent owner is an error. Snapshot provenance is reported separately from source compatibility.
 
 **Parameter `cancellationToken`:** Cancels capture or comparison before replacing the report.
@@ -131,4 +134,4 @@ certify authored prose, script projections, examples, other targets or publicati
 **Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L118).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L121).
