@@ -4,6 +4,8 @@ const journeys = [
   ['', 'InnoEngine'],
   ['manual/scenes/prefabs/', 'Instantiate a prefab'],
   ['manual/assets/import-settings/', 'Edit asset import settings'],
+  ['platforms/publish-player/', 'Build and run a Player'],
+  ['platforms/window-lifetime/', 'Own windows and rendering surfaces'],
   ['contributing/testing/inno-core-execution-tests/', 'Execution and retirement tests'],
   ['contributing/testing/inno-tooling-validation-tests/', 'Validation planning and evidence tests'],
   ['extending/editor-panels/', 'Add an Editor panel'],

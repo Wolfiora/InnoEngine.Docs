@@ -134,6 +134,10 @@
 - label: Platforms & Backends
   items:
     - slug: platforms
+    - slug: platforms/select-target
+    - slug: platforms/publish-player
+    - slug: platforms/window-lifetime
+    - slug: platforms/application-data
     - slug: backends
     - slug: backends/sdl3
     - slug: backends/miniaudio

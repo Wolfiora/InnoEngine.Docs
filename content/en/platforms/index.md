@@ -8,6 +8,13 @@ kind: explanation
 
 A platform provides system and SDK integration. A target identifies the intended architecture and ABI. A product selects an Editor or Player composition. These choices remain separate from the host running the build tools.
 
+## Start with a task
+
+- [Choose a platform and product](select-target.md) before preparing a build.
+- [Build and run a Player](publish-player.md) from a matching Support Pack and game content.
+- [Own windows and rendering surfaces](window-lifetime.md) without invalidating borrowed handles.
+- [Locate content and application data](application-data.md) for desktop layouts and Browser storage.
+
 ## Current target families
 
 | Target | Source organization | Important boundary |

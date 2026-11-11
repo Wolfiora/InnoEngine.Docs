@@ -48,6 +48,8 @@ The graph is captured in one SDK process. `--project-graph` records that evaluat
 
 `--artifacts-path` requires explicit `--dotnet`. SDK TargetPath, ReferencePath, Compile items, language settings and conditional symbols all follow that output selection. Do not copy DLLs back to a default bin directory to satisfy a check. Selected owners retain their real signature dependencies even when those dependencies are not themselves selected for review.
 
+If `docs export-api` cannot open an evaluated compilation, its error includes the collected prerequisite diagnostic, such as the exact missing target/configuration reference. Prepare that declared input before retrying. A missing macOS or Browser target reference is not repaired by substituting an unrelated desktop DLL, and failed extraction does not publish a successful fact manifest.
+
 SDK failure, missing references and cancellation remain failures. Child-process cancellation drains owned processes before returning. Graph inspection does not substitute for compilation or execution on the relevant platform.
 
 ## Inspect public boundaries

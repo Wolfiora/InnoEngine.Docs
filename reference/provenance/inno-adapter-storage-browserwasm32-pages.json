@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Adapter.Storage.BrowserWasm32",
+  "outputDirectory": "content/en/api/types/platform-services/inno-adapter-storage-browserwasm32",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-adapter-storage-browserwasm32",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-adapter-storage-browserwasm32/browserwasm32applicationstorage.md",
+      "sha256": "aba4bf65d8f2962652dd92b14cebb3d80d3fa64e4890aabd0103f2e9e9db520a"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-adapter-storage-browserwasm32/browserwasm32storagebackendprovider.md",
+      "sha256": "4679151dfcd51357c6efae872aefbbb096128978afc0f4dc24449e012355e626"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-adapter-storage-browserwasm32/index.md",
+      "sha256": "ce929a2b184d3601b3593fa6dededf3ef2ac4d372c4725916caa64eab1acccad"
+    }
+  ]
+}

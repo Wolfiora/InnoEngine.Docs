@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Platform.MacOSArm64",
+  "outputDirectory": "content/en/api/types/platform-services/inno-platform-macosarm64",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-platform-macosarm64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-platform-macosarm64/macosarm64applicationlocations.md",
+      "sha256": "e3817c576a0edb417b2012ff4ed9b99c0d1bc4c994c3e77785b6758bf051b758"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-platform-macosarm64/index.md",
+      "sha256": "43df8c9594e7eca2349c42b30d93832b7cbabdb517a949d179fa78bf9db35c0f"
+    }
+  ]
+}
