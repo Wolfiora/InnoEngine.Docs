@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Adapter.UI.RmlUi.Authoring",
+  "outputDirectory": "content/en/api/types/rmlui-authoring",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "859981039d4988726f28b2ef8e26f2463da907e0274a497b249932143e2db508",
+  "sharedContract": "project.inno-adapter-ui-rmlui-authoring#source-analysis-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/rmlui-authoring/rmluidocumentfrontend.md",
+      "sha256": "fe58bf3ed8800a3c6b61b636803107ee2202f5999efdcf57c435b9f6fe9171be"
+    },
+    {
+      "path": "content/en/api/types/rmlui-authoring/rmluidocumentimporter.md",
+      "sha256": "3d6223740e7175568ad7efecd6b1158d29a4b4fa1bdc110f04fb1775dee3b52b"
+    },
+    {
+      "path": "content/en/api/types/rmlui-authoring/index.md",
+      "sha256": "4f7a7c47d49ab28d56db3e3821a024315d848cb524601312d51cf06e49a829ba"
+    }
+  ]
+}

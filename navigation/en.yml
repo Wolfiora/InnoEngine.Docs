@@ -39,6 +39,10 @@
     - label: Text and fonts
       items:
         - slug: manual/text/shape-text
+    - label: Document UI
+      items:
+        - slug: manual/ui/use-documents
+        - slug: manual/ui/author-rml
 - label: Architecture
   items:
     - slug: architecture/overview
@@ -46,6 +50,7 @@
     - slug: architecture/build-artifacts
     - slug: architecture/editor-generations
     - slug: architecture/audio-lifetime
+    - slug: architecture/ui-lifetime
 - label: Extending InnoEngine
   items:
     - slug: extending
@@ -63,6 +68,7 @@
     - slug: extending/project-settings
     - slug: extending/persist-host-documents
     - slug: extending/manage-process-output
+    - slug: extending/ui-render-frames
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -70,6 +76,7 @@
     - slug: backends/sdl3
     - slug: backends/miniaudio
     - slug: backends/text
+    - slug: backends/rmlui
 - label: API Reference
   items:
     - slug: api
@@ -130,6 +137,16 @@
         - slug: api/projects/inno-text-assets
         - slug: api/projects/inno-text-runtime
         - slug: api/projects/inno-text
+    - label: UI reference
+      items:
+        - slug: api/projects/inno-ui
+        - slug: api/projects/inno-ui-runtime
+        - slug: api/projects/inno-ui-assets
+        - slug: api/projects/inno-adapter-ui
+        - slug: api/projects/inno-adapter-ui-rmlui
+        - slug: api/projects/inno-adapter-ui-rmlui-authoring
+        - slug: api/projects/inno-native-ui
+        - slug: api/projects/inno-build-toolchains-ui
     - label: Native integration reference
       items:
         - slug: api/projects/inno-native-libraryloading

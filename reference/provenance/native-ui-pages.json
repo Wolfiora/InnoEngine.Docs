@@ -1,0 +1,102 @@
+{
+  "project": "Inno.Native.UI",
+  "outputDirectory": "content/en/api/types/native-ui",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "859981039d4988726f28b2ef8e26f2463da907e0274a497b249932143e2db508",
+  "sharedContract": "project.inno-native-ui#abi-and-ownership-contract",
+  "sharedAbi": true,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/native-ui/bgcsinnormluierror.md",
+      "sha256": "7a2e8b1d4627db1bf95fbd01ef5ceb841388a4bb29b16c3c857831dd6b93c438"
+    },
+    {
+      "path": "content/en/api/types/native-ui/eventtype.md",
+      "sha256": "96a1d0f0c2800eee927a50c7df0d72de20c715b1e2c889a4d25ce45cd4f032e0"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadapterdrawcommand.md",
+      "sha256": "b94e9fa5e04001cac9dfe76521a518f80f70456f5cae4b5bdeb1fafc779cceb5"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadapterdrawcommandnative.md",
+      "sha256": "6858e28adfcf7c7271d5458ec1e262e705f2f4f976cb36c396a56b3427fac407"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptereventinfo.md",
+      "sha256": "9cbc7feb6be5f4d3a3db5febf3fda972526374711c21e4e4eca2e7e29ff054ac"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptereventinfonative.md",
+      "sha256": "2b133cccb45c7f9a36b69c8b5ef6f75d3468af5c1ff3e83924f3cf442eb3ee71"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadapterframeinfo.md",
+      "sha256": "01b2b944893b2dfbe62f46ac64ef36c1af950d7393294f0b3b43eec449117c62"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadapterframeinfonative.md",
+      "sha256": "fa4379896bf03896b47dc2f57c938fe4274cbab62bbca460daccd647fb85550e"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptermeshinfo.md",
+      "sha256": "cc2e860935942f00fff0fa75547a21c324690f8c9bd694e71f59708af832125c"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptermeshinfonative.md",
+      "sha256": "f1f747a5c82a1170c5af31fe5b8eadfee90ece33cd3957ac238a1af9a0a2422d"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadapterruntime.md",
+      "sha256": "cb2d2b8adf5d7757fbc98aa7f7f9bd0c88b3bf1227448fa4e3ac3148c1a70c92"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptertextureinfo.md",
+      "sha256": "24d5f0ced70e87bcf78dd8dfff2f0cb0c669bce4113e4c8d2cf8d02335ede643"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptertextureinfonative.md",
+      "sha256": "9e45578cd3b096caec5d13f7678e92c9712686f4d12f7ae5ec63d42bbc5f3cfd"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptervertex.md",
+      "sha256": "c9fbb932510aadf6d2d0210395a393badb386aa296398cb2d2ae3930ddbee9f7"
+    },
+    {
+      "path": "content/en/api/types/native-ui/innouirmluiadaptervertexnative.md",
+      "sha256": "db25439100e9fd637b6bf873e7e0a8c5e1d5ef3d90da3cb1138f6b5578936c21"
+    },
+    {
+      "path": "content/en/api/types/native-ui/nativearray_78bd09dc87a774a8.md",
+      "sha256": "31f6e3a3af52434ab00a29d8dd3e9d4abd4345416ea776f7551016fca79bfad3"
+    },
+    {
+      "path": "content/en/api/types/native-ui/nativearray_eefffd4ad3ec208d.md",
+      "sha256": "c2decc1ef969430541f51d665acee98bbfa0b5a39b63f7c9208dcfe6de730067"
+    },
+    {
+      "path": "content/en/api/types/native-ui/result.md",
+      "sha256": "8d9ffd4b769968ed18ef01ddc3c88a4244b82358190a319c822c391b25aba888"
+    },
+    {
+      "path": "content/en/api/types/native-ui/uinative.md",
+      "sha256": "049c5d4fe9addd3ce941a9c8e8dee5bccad5e955df19cd00b11194c7be451dd3"
+    },
+    {
+      "path": "content/en/api/types/native-ui/uinativecontext.md",
+      "sha256": "f5e9f18dc1328a649c717479c626f0ce33051f1b7159b9ef505d2f5a0a3783f7"
+    },
+    {
+      "path": "content/en/api/types/native-ui/uinativecontext.rawapi.md",
+      "sha256": "2228aa68617ce1781a40f23f6a7b8fc761bc2ce4c154d2b003d8c993727ae70c"
+    },
+    {
+      "path": "content/en/api/types/native-ui/index.md",
+      "sha256": "b9052393d39cde1405219ecd3bd705ea60ffcb63d6b0dd202659b54d0a2fcd77"
+    }
+  ]
+}

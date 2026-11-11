@@ -63,6 +63,10 @@ Cocoa window operations run on the process main thread. SDL window tests retain 
 
 ## Reuse and diagnose results
 
+The runner announces a check before executing it. Logged child processes report their PID and log location at startup, then emit an activity summary every 30 seconds while they remain active. The summary includes elapsed time, output characters, time since the last output, a short output excerpt and parent-process CPU time. Full output remains in the owned log.
+
+This interval is a reporting cadence, not a build deadline. Parent CPU does not include compiler or other child CPU, and quiet output alone does not establish a stall. Inspect the current phase and its log before diagnosing a wait. A legitimate large third-party compilation can take substantially longer than ordinary managed feedback.
+
 | Result | Meaning |
 | --- | --- |
 | `Passed` | The required check executed successfully for the recorded inputs. |

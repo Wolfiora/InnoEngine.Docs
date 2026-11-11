@@ -12,6 +12,8 @@ kind: explanation
 
 [FreeType and HarfBuzz text integration](text.md) explains font faces, Unicode shaping, coverage pixels and the current typography boundaries.
 
+[RmlUi document integration](rmlui.md) separates source authoring, native layout, runtime ownership and renderer consumption.
+
 A backend owns a concrete implementation of an engine capability. Its runtime code, native facade, binding configuration, build recipe, and component-specific tests belong to that implementation boundary.
 
 ## Neutral contracts and concrete limits

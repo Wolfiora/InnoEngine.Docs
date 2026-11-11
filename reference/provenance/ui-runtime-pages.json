@@ -1,0 +1,26 @@
+{
+  "project": "Inno.UI.Runtime",
+  "outputDirectory": "content/en/api/types/ui-runtime",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "859981039d4988726f28b2ef8e26f2463da907e0274a497b249932143e2db508",
+  "sharedContract": "project.inno-ui-runtime#session-and-font-ownership",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/ui-runtime/uiruntime.md",
+      "sha256": "6858e490abc1d7d50bf32929d683d80d7dffc72331b13c366d522cc5b792f91a"
+    },
+    {
+      "path": "content/en/api/types/ui-runtime/uiruntimefactory.md",
+      "sha256": "2d22d0709da1ed4a5116a6c2410d5e960d13ed06871a79ec368ae2bebbe54185"
+    },
+    {
+      "path": "content/en/api/types/ui-runtime/index.md",
+      "sha256": "6bb9fdb5ea4aacf6eff43d507a579e15c8ee7982aae426717e19b68acfa5f19b"
+    }
+  ]
+}

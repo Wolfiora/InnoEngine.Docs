@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [UI and RmlUi migration](UI_RMLUI_2026_11_11.md): actual document/import/rendering boundaries, declaration preservation, script compilation and retained indexing regression.
+
 Evidence is scoped to its recorded inputs and environment. Generated page counts, source declarations and local previews do not establish complete semantic review, cross-platform execution or production publication.
 
 | Area | Evidence |

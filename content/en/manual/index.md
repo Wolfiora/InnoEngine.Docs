@@ -12,6 +12,12 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 
 [Shape text and rasterize glyphs](text/shape-text.md) from imported fonts, then pass their positions and coverage to your own presentation system.
 
+## Document UI
+
+- [Display and update a document](ui/use-documents.md) through an explicitly composed UI service.
+- [Author RML with fonts and shared styles](ui/author-rml.md) using the asset import pipeline.
+- [Connect UI frames to a renderer](../extending/ui-render-frames.md) while preserving resource ownership.
+
 ## Editor and projects
 
 - [Start the Editor](../getting-started/first-editor-session.md) and recognize its default workspace.

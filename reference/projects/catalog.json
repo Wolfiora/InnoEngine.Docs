@@ -202,28 +202,36 @@
     "name": "Inno.Build.Toolchains.UI",
     "path": "backends/RmlUi/build/Inno.Build.Toolchains.UI/Inno.Build.Toolchains.UI.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Native.UI",
     "path": "backends/RmlUi/native/Inno.Native.UI/Inno.Native.UI.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.UI.RmlUi.Authoring",
     "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi.Authoring/Inno.Adapter.UI.RmlUi.Authoring.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.UI.RmlUi",
     "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi/Inno.Adapter.UI.RmlUi.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -635,7 +643,9 @@
     "name": "Inno.Adapter.UI",
     "path": "src/adapters/ui/Inno.Adapter.UI/Inno.Adapter.UI.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1310,21 +1320,27 @@
     "name": "Inno.UI.Assets",
     "path": "src/services/ui/Inno.UI.Assets/Inno.UI.Assets.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.UI.Runtime",
     "path": "src/services/ui/Inno.UI.Runtime/Inno.UI.Runtime.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.UI",
     "path": "src/services/ui/Inno.UI/Inno.UI.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
