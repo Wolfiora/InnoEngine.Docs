@@ -1,9 +1,9 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
-  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "revision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "e810df2a8b96469de42320c7148b74a83409c357ff531080f30d0786df39af9c",
+  "projectManifestIdentity": "87b93c1eed6a473b17ebfb8a796a46573aa69b2a58f5abb9cee5c582e484b009",
   "toolingRevision": "c48b7d11fd48d8de21aaf94e416c73c37d70df26",
   "apiManifests": [
     {
@@ -167,6 +167,15 @@
       "sha256": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
       "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
       "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0"
+    },
+    {
+      "path": "reference/api/references-plugins.json",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sha256": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
+      "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+      "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2"
     }
   ]
 }

@@ -39,6 +39,8 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 
 ## State, references, and lifetime
 
+- [Preserve and resolve a Missing reference](references/resolve-missing.md) without discarding saved intent.
+- [Read current content for one operation](references/read-content.md) through captured generation identities.
 - [Own asynchronous work](execution/own-async-work.md) before it starts, propagate cancellation and retire its dependencies.
 - [Run and stop coroutines](execution/run-coroutines.md) from the host's frame loop.
 - [Schedule frame jobs](execution/schedule-frame-jobs.md) with explicit dependencies and finite queue limits.
@@ -77,3 +79,7 @@ The [API reference](../api/index.md) distinguishes host, script, backend/native,
 ## Extension discovery and reload
 
 [Find current extension types](extensions/find-types.md) without retaining old generations, and [diagnose reload failures](extensions/diagnose-reload.md) through the actual owner and admission state.
+
+## Plugins
+
+[Install or update a complete plugin package](plugins/install.md), then [diagnose unavailable candidates](plugins/troubleshoot.md) without confusing discovery, compilation and active publication.

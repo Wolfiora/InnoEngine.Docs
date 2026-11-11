@@ -961,7 +961,9 @@
     "name": "Inno.References",
     "path": "src/content/references/Inno.References/Inno.References.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1190,14 +1192,18 @@
     "name": "Inno.Plugins.Authoring",
     "path": "src/runtime/plugins/Inno.Plugins.Authoring/Inno.Plugins.Authoring.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Plugins",
     "path": "src/runtime/plugins/Inno.Plugins/Inno.Plugins.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

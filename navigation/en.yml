@@ -17,6 +17,14 @@
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
+    - label: References and Missing
+      items:
+        - slug: manual/references/resolve-missing
+        - slug: manual/references/read-content
+    - label: Plugins
+      items:
+        - slug: manual/plugins/install
+        - slug: manual/plugins/troubleshoot
     - slug: manual/projects/read-settings
     - label: Execution and work ownership
       items:
@@ -98,6 +106,9 @@
     - slug: extending/type-registries
     - slug: extending/module-sources
     - slug: extending/static-type-catalogs
+    - slug: extending/reference-recovery
+    - slug: extending/plugin-packages
+    - slug: extending/plugin-host
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -111,6 +122,11 @@
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
+    - label: References and plugins
+      items:
+        - slug: api/projects/inno-references
+        - slug: api/projects/inno-plugins
+        - slug: api/projects/inno-plugins-authoring
     - label: Extensibility reference
       items:
         - slug: api/projects/inno-extensibility-catalogs

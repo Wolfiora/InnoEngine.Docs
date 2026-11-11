@@ -1,0 +1,93 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Plugin availability already composes a real shared ReferenceRecoveryTransaction; the older References narrative incorrectly described that integration as unfinished.",
+    "ContentReadScope disposal revokes resolution, not immutable contents and activeContent getters.",
+    "The current plugin container requires Assets as its only content root and embeds packages under Dependencies.",
+    "Old extraction snapshots preserve compensation and active reads; they do not justify keeping unavailable installed code active.",
+    "Manifest validation alone does not validate archive metadata, dependency closure or successful script compilation."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/references/Inno.References.md",
+      "sourceSha256": "dbc7a993568e8d230b77e40d1823fc66f3af7e23dfb2ecb771dc7d3feabcb7e5",
+      "project": "Inno.References",
+      "destinations": [
+        "content/en/manual/references/resolve-missing.md",
+        "content/en/manual/references/read-content.md",
+        "content/en/extending/reference-recovery.md",
+        "content/en/api/projects/inno-references.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 75,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/references/Inno.References/api.md",
+      "sourceSha256": "b9767094591cd2e5ed31fb77fa5c723b9e1dd8fc72332e890676f5c760a05b34",
+      "project": "Inno.References",
+      "destinations": [
+        "content/en/manual/references/resolve-missing.md",
+        "content/en/manual/references/read-content.md",
+        "content/en/extending/reference-recovery.md",
+        "content/en/api/projects/inno-references.md"
+      ],
+      "baselineSymbols": 75,
+      "currentSymbols": 75,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/plugins/Inno.Plugins.md",
+      "sourceSha256": "790a495e1071e3593d9a83b87795723dab2c30d17faaecc0df56e49ddf732140",
+      "project": "Inno.Plugins",
+      "destinations": [
+        "content/en/extending/plugin-packages.md",
+        "content/en/api/projects/inno-plugins.md"
+      ],
+      "baselineSymbols": 10,
+      "currentSymbols": 10,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/plugins/Inno.Plugins.Authoring.md",
+      "sourceSha256": "24e3bc758f79d43984ac4b77ffc8337c5ef37d48856f2ff0a5fb8ca6559a1499",
+      "project": "Inno.Plugins.Authoring",
+      "destinations": [
+        "content/en/manual/plugins/install.md",
+        "content/en/manual/plugins/troubleshoot.md",
+        "content/en/extending/plugin-host.md",
+        "content/en/api/projects/inno-plugins-authoring.md"
+      ],
+      "baselineSymbols": 52,
+      "currentSymbols": 52,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/plugins/Inno.Plugins.Authoring/api.md",
+      "sourceSha256": "67268e498b476ccad90db30405ea0242ef5efc722b3f22729ada1035186b87ca",
+      "project": "Inno.Plugins.Authoring",
+      "destinations": [
+        "content/en/manual/plugins/install.md",
+        "content/en/manual/plugins/troubleshoot.md",
+        "content/en/extending/plugin-host.md",
+        "content/en/api/projects/inno-plugins-authoring.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 52,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    }
+  ]
+}
