@@ -19,6 +19,8 @@ The applicable rulebooks are the authority for repository changes. This Manual e
 
 Use the engine's unified validation plan for code and contract changes. Preserve the first failure and record why a check is rerun. Missing, canceled, skipped, or unavailable checks are not successful evidence.
 
+[Validate an engine change](validate-change.md) explains planning, native prerequisites, isolated execution and result reuse. Use the [test-suite reference](testing/index.md) to find the behavior you are changing.
+
 Documentation builds consume pinned project/API facts. Editing prose or website presentation should not prepare a native engine product. Executable examples still require the actual references and API surface they claim to use.
 
 Follow [example validation](example-validation.md) to declare host or script context and compile the exact code returned by the canonical documentation snapshot.

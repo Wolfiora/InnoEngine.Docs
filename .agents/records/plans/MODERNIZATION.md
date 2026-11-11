@@ -2,7 +2,7 @@
 
 Status: implementation in progress. This record does not certify final coverage or deployment.
 
-Latest local checkpoint: 38 of 252 actual project entries, 5,195 Markdown pages including generated reference families, and 11,904 exactly bound declarations. The [MiniAudio, Animation and Text record](../acceptance/AUDIO_ANIMATION_TEXT_2026_11_11.md) records the latest source, example, format, rendering and query checks. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
+Latest local checkpoint: 50 of 252 actual project entries, 5,209 Markdown pages including generated reference families, and 11,904 exactly bound declarations. Twelve test-suite entries add behavior-oriented navigation and preserve their actual managed/native preparation boundaries. The [MiniAudio, Animation and Text record](../acceptance/AUDIO_ANIMATION_TEXT_2026_11_11.md) records source, example, format, rendering and query checks; [remote bootstrap evidence](../acceptance/REMOTE_BOOTSTRAP_2026_11_11.md) records the successful real site projection and correctly failing completion gate. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
 
 ## Source and ownership
 
