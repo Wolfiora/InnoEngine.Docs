@@ -1,0 +1,49 @@
+{
+  "scope": "Warm filesystem, independent Build CLI processes; includes CLR startup and snapshot opening, not an in-process query benchmark",
+  "limit": 1,
+  "samples": [
+    {
+      "bytes": 1165,
+      "firstPage": "manual.projects.read-settings",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt",
+      "milliseconds": 1420.9979
+    },
+    {
+      "bytes": 1165,
+      "firstPage": "manual.projects.read-settings",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt",
+      "milliseconds": 2906.2955
+    },
+    {
+      "bytes": 1165,
+      "firstPage": "manual.projects.read-settings",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt",
+      "milliseconds": 2522.451
+    },
+    {
+      "bytes": 1165,
+      "firstPage": "manual.projects.read-settings",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt",
+      "milliseconds": 1475.3302
+    },
+    {
+      "bytes": 1165,
+      "firstPage": "manual.projects.read-settings",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt",
+      "milliseconds": 1277.8089
+    }
+  ],
+  "preparation": "Prepared immutable snapshot; no SDK graph, engine compilation or Native preparation",
+  "medianMilliseconds": 1475.3302,
+  "network": "No query network operation",
+  "sdk": "10.0.402",
+  "query": "read project settings",
+  "snapshot": "63adcc5ad0e23c42ef257ccdeba7d4da8aa71ca2d55973cfecfa35934416015a",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "sourceApiStatus": "Unverified"
+}

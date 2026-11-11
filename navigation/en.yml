@@ -17,6 +17,7 @@
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
+    - slug: manual/projects/read-settings
     - label: Events and diagnostics
       items:
         - slug: manual/events/route-events
@@ -59,6 +60,9 @@
     - slug: extending/audio-content
     - slug: extending/animation-bindings
     - slug: extending/text-backends
+    - slug: extending/project-settings
+    - slug: extending/persist-host-documents
+    - slug: extending/manage-process-output
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -85,6 +89,8 @@
         - slug: api/projects/inno-editor-settings
         - slug: api/projects/inno-editor-panel-stats
     - slug: api/projects/inno-core-identity
+    - slug: api/projects/inno-core-settings
+    - slug: api/projects/inno-core-io
     - label: Events and diagnostics reference
       items:
         - slug: api/projects/inno-core-events

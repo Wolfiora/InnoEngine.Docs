@@ -19,6 +19,7 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 - [Read logs and current diagnostics](editor/console.md), filter entries, copy details, and control clearing on Play.
 - [Read and publish statistics](editor/statistics.md) through stable feature contributions.
 - [Change settings](editor/settings.md) in the scope that owns their persistence.
+- [Read project settings](projects/read-settings.md) as isolated values from the active project owner.
 
 ## Input and application data
 

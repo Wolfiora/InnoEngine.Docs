@@ -1016,7 +1016,9 @@
     "name": "Inno.Core.IO",
     "path": "src/foundation/core/Inno.Core.IO/Inno.Core.IO.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1083,7 +1085,9 @@
     "name": "Inno.Core.Settings",
     "path": "src/foundation/core/Inno.Core.Settings/Inno.Core.Settings.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

@@ -1,0 +1,43 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "semanticNotes": [
+    "ProcessOwnedDirectory.Dispose clears its live lease before retirement; a failed retirement is handled later through its retained claim, not repeated disposal of the same instance.",
+    "DirectoryCleanupException means the new directory is already committed, while AggregateException preserves installation and restoration failures.",
+    "Persistent owner gates are not retired; leaf metadata retirement requires the root exclusive gate.",
+    "OwnedReadStream retains unfinished stream/pin disposal responsibility; the supplied pin must support safe retries."
+  ],
+  "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
+  "reviews": [
+    {
+      "missing": [],
+      "symbols": 27,
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "project": "Inno.Core.IO",
+      "sourceSha256": "00ed085a6831081b9035d29217f9942a21b088c33986e0d190207f085cfa89d4",
+      "source": "docs/modules/core/Inno.Core.IO.md",
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/extending/persist-host-documents.md",
+        "content/en/extending/manage-process-output.md",
+        "content/en/api/projects/inno-core-io.md",
+        "content/en/api/types/core-io/index.md"
+      ]
+    },
+    {
+      "missing": [],
+      "symbols": 90,
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "project": "Inno.Core.IO",
+      "sourceSha256": "c9afc78bfb714f1ce6bbadfc5684040c9a1e072bbb843b4a1f72950fa21c976d",
+      "source": "docs/modules/core/Inno.Core.IO/api.md",
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/extending/persist-host-documents.md",
+        "content/en/extending/manage-process-output.md",
+        "content/en/api/projects/inno-core-io.md",
+        "content/en/api/types/core-io/index.md"
+      ]
+    }
+  ],
+  "sourceApiStatus": "Unverified"
+}

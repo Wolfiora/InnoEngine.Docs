@@ -10,6 +10,10 @@ An extension belongs to the layer that owns its behavior. Start by identifying t
 
 ## Choose the boundary
 
+[Define project settings](project-settings.md) with stable protocols, explicit contribution ordering and generation recovery.
+
+[Persist host documents](persist-host-documents.md) and [manage temporary process output](manage-process-output.md) through explicit filesystem ownership.
+
 [Add a text backend](text-backends.md) through neutral shaping contracts and explicit composition-owned providers.
 
 Start with [a panel](editor-panels.md), [a shared module](editor-modules.md),
