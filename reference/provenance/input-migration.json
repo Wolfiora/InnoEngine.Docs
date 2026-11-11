@@ -7,7 +7,10 @@
       "source": "docs/modules/input/Inno.Adapter.Input.md",
       "sourceSha256": "804756c5bd2ebf50a535aba0ffa68f56b72cf2f518bd6c76911f517a3eeb88a7",
       "project": "Inno.Adapter.Input",
-      "destinations": "content/en/api/projects/inno-adapter-input.md content/en/manual/input/read-input.md",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-input.md",
+        "content/en/manual/input/read-input.md"
+      ],
       "symbols": 38,
       "missing": [],
       "changedSignatures": [],
@@ -18,7 +21,10 @@
       "source": "docs/modules/input/Inno.Input.Runtime.md",
       "sourceSha256": "f40e7045d7ab61ea910b8503fb1f56170029d6817a09c4726a9fec59647ac968",
       "project": "Inno.Input.Runtime",
-      "destinations": "content/en/api/projects/inno-input-runtime.md content/en/manual/input/read-input.md",
+      "destinations": [
+        "content/en/api/projects/inno-input-runtime.md",
+        "content/en/manual/input/read-input.md"
+      ],
       "symbols": 9,
       "missing": [],
       "changedSignatures": [],
@@ -29,7 +35,10 @@
       "source": "docs/modules/input/Inno.Input.md",
       "sourceSha256": "7b411e9914295a5b48191c2fe01ac500b5a49f809e3f0b16ac7f2ae99acb7ad4",
       "project": "Inno.Input",
-      "destinations": "content/en/api/projects/inno-input.md content/en/manual/input/read-input.md",
+      "destinations": [
+        "content/en/api/projects/inno-input.md",
+        "content/en/manual/input/read-input.md"
+      ],
       "symbols": 38,
       "missing": [],
       "changedSignatures": [],
@@ -40,7 +49,9 @@
       "source": "docs/modules/input/README.md",
       "sourceSha256": "9fb68cd2a9ec8b7aedc6ec4b54522b18a70c10c1b31abd54629d7d36130c18ec",
       "project": null,
-      "destinations": "content/en/manual/input/read-input.md",
+      "destinations": [
+        "content/en/manual/input/read-input.md"
+      ],
       "symbols": 0,
       "missing": [],
       "changedSignatures": [],

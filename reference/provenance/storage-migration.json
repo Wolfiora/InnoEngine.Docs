@@ -7,7 +7,10 @@
       "source": "docs/backends/FileSystem/Inno.Adapter.Storage.FileSystem.md",
       "sourceSha256": "84217d5991a3ea36357e9afbd26b735c59db427565327ec8957f39d7cdfc507d",
       "project": "Inno.Adapter.Storage.FileSystem",
-      "destinations": "content/en/api/projects/inno-adapter-storage-filesystem.md content/en/manual/storage/save-data.md",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-storage-filesystem.md",
+        "content/en/manual/storage/save-data.md"
+      ],
       "symbols": 12,
       "missing": [],
       "changedSignatures": [],
@@ -18,7 +21,10 @@
       "source": "docs/modules/storage/Inno.Adapter.Storage.md",
       "sourceSha256": "d9cc1a58b6d2288b46c87234d7c4f259366c56cfec29d8dd07a1f76ffb27cd45",
       "project": "Inno.Adapter.Storage",
-      "destinations": "content/en/api/projects/inno-adapter-storage.md content/en/manual/storage/save-data.md",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-storage.md",
+        "content/en/manual/storage/save-data.md"
+      ],
       "symbols": 23,
       "missing": [],
       "changedSignatures": [],
@@ -29,7 +35,10 @@
       "source": "docs/modules/storage/Inno.Storage.Runtime.md",
       "sourceSha256": "34d7b72d2d7a4798259123cc602fc9109cd37db96d10da20317523b176d9e795",
       "project": "Inno.Storage.Runtime",
-      "destinations": "content/en/api/projects/inno-storage-runtime.md content/en/manual/storage/save-data.md",
+      "destinations": [
+        "content/en/api/projects/inno-storage-runtime.md",
+        "content/en/manual/storage/save-data.md"
+      ],
       "symbols": 16,
       "missing": [],
       "changedSignatures": [],
@@ -40,7 +49,10 @@
       "source": "docs/modules/storage/Inno.Storage.md",
       "sourceSha256": "9cf9c0bccbc7a4b36b22f59e70efaaa14410306576cf492ede45a6ea8d4efe71",
       "project": "Inno.Storage",
-      "destinations": "content/en/api/projects/inno-storage.md content/en/manual/storage/save-data.md",
+      "destinations": [
+        "content/en/api/projects/inno-storage.md",
+        "content/en/manual/storage/save-data.md"
+      ],
       "symbols": 35,
       "missing": [],
       "changedSignatures": [],
@@ -51,7 +63,9 @@
       "source": "docs/modules/storage/README.md",
       "sourceSha256": "2a0d13e6cba8aed68eac875840cbd3445a6b9e008f9394eee1db934f860f0e78",
       "project": null,
-      "destinations": "content/en/manual/storage/save-data.md",
+      "destinations": [
+        "content/en/manual/storage/save-data.md"
+      ],
       "symbols": 0,
       "missing": [],
       "changedSignatures": [],

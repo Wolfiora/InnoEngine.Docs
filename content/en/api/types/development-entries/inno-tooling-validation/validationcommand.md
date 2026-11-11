@@ -35,7 +35,7 @@ public static class Inno.Tooling.Validation.ValidationCommand
 Provides repository validation planning, execution and evidence reconciliation to the existing Build entry.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Validation/ValidationCommand.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/8beee5a6d6c7d2d4c8459c6e624a558570450fe1/tools/Inno.Tooling.Validation/ValidationCommand.cs#L16).
 
 ## `ExecuteAsync`
 
@@ -55,7 +55,9 @@ Optional docs-base-snapshot identifies changed pages and facts without rescannin
 
 **Parameter `cancellationToken`:** Cancels child processes while retaining the first failure and completed diagnostics.
 
-**Returns:** Zero only when the requested operation succeeds and every required result is present and successful; otherwise one.
+**Returns:** Zero when the requested operation succeeds, one for unsuccessful execution, or two when planning requires
+explicitly prepared inputs. A blocked preparation report is written to preparation.json instead of producing
+a new executable plan. The command never fetches native source inputs automatically.
 
 **Throws `System.ArgumentException`:** An operation or option is unknown, duplicated or missing its value.
 
@@ -64,4 +66,4 @@ Optional docs-base-snapshot identifies changed pages and facts without rescannin
 **Throws `System.IO.InvalidDataException`:** A supplied plan or evidence record is invalid or does not describe the current input.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Validation/ValidationCommand.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/8beee5a6d6c7d2d4c8459c6e624a558570450fe1/tools/Inno.Tooling.Validation/ValidationCommand.cs#L44).

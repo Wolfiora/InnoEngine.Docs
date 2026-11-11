@@ -40,6 +40,16 @@ Read `plan.json` before executing. Confirm the affected owners, required checks 
 
 Required external documentation without a selected snapshot is explicitly blocked. The engine's retired Wiki tree cannot supply substitute evidence. Once prepared, the plan reads immutable page and reference payloads; moving or editing the authoring checkout does not change that selected snapshot.
 
+### Prepare missing native sources explicitly
+
+Planning first evaluates the managed dependency graph. A managed-only selection does not require unrelated native source checkouts. When selected owners need unavailable pinned native inputs, `plan`, `run` and `full` return exit code `2` and write `preparation.json`. This report is a blocked request, not an executable plan or a passing result. Select the required documentation snapshot before preparing native inputs.
+
+The report identifies the workspace, engine commit, baseline, frozen input identity, affected owners and missing Git source pins. Prepare those inputs explicitly, then generate a **new** plan: source availability changed, so the earlier input identity cannot certify the prepared checkout. Local validation never fetches native sources implicitly.
+
+Hosted CI follows the same decision. Its generated transport compiles only the managed validation/documentation libraries, avoiding the Build product's Editor and binding dependencies during classification. It uses the existing validation implementation; the Build CLI remains the daily developer entry.
+
+If preparation is required, CI checks the request against the clean engine candidate and actual indexed Git links, fetches the selected pinned sources, verifies the resulting checkouts, and regenerates the plan once. It retains the initial request and both planning logs. A changed candidate, wrong source pin, failed fetch or second blocked plan fails the job; it is not retried repeatedly until green. Product preparation and native tests still run when the resulting plan requires them.
+
 ## Include documentation changes
 
 When the task also changes Docs content, retain the previous snapshot identity, refresh after editing, and pass `--docs-base-snapshot PREVIOUS_ID` when creating the new plan. Both generations must be available in the explicitly selected cache. The planner compares content identities, including moved and deleted pages, includes and necessary contract relationships.
