@@ -81,6 +81,13 @@
       items:
         - slug: manual/audio/play-audio
         - slug: manual/audio/mix-audio
+    - label: Rendering and shaders
+      items:
+        - slug: manual/rendering
+        - slug: manual/rendering/materials
+        - slug: manual/rendering/shader-authoring
+        - slug: manual/rendering/shader-functions
+        - slug: manual/rendering/reusable-shader-nodes
     - label: Animation
       items:
         - slug: manual/animation/play-clips
@@ -104,6 +111,11 @@
     - slug: architecture/editor-generations
     - slug: architecture/audio-lifetime
     - slug: architecture/ui-lifetime
+    - slug: architecture/runtime-lifetime
+    - slug: architecture/script-compilation
+    - slug: architecture/script-reload
+    - slug: architecture/render-frame
+    - slug: architecture/shader-ir
 - label: Extending InnoEngine
   items:
     - slug: extending/asset-importers
@@ -133,6 +145,9 @@
     - slug: extending/scene-state
     - slug: extending/script-exports
     - slug: extending/runtime-host
+    - slug: extending/render-frame
+    - slug: extending/shader-targets
+    - slug: extending/shader-nodes
     - slug: extending/plugin-packages
     - slug: extending/plugin-host
 - label: Platforms & Backends
@@ -150,6 +165,15 @@
     - slug: backends/dotnet-serialization
 - label: API Reference
   items:
+    - label: Rendering reference
+      items:
+        - slug: api/projects/inno-rendering
+        - slug: api/projects/inno-rendering-runtime
+        - slug: api/projects/inno-rendering-assets
+        - slug: api/projects/inno-rendering-assets-authoring
+        - slug: api/projects/inno-rendering-shaders
+        - slug: api/projects/inno-adapter-rendering
+        - slug: api/projects/inno-adapter-rendering-authoring
     - label: Asset and content reference
       items:
         - slug: api/projects/inno-assets

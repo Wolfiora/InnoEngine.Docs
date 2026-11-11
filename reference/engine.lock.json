@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "398c1193090f0b1dccd67b1b1dbe6db8d54c6b6920bf22c1a98e9045362d98cd",
+  "projectManifestIdentity": "571ec22ba880563915a9b479627c726a082e942ca7229b318aab97a447cbfb92",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -221,6 +221,24 @@
       "target": null,
       "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
       "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
+    },
+    {
+      "path": "reference/api/rendering.json",
+      "sha256": "bd9566a66647b9e7c5b4bd8e83214f3c16c74afffa4de12cae86476c291b39d0",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
+    },
+    {
+      "path": "reference/api/rendering-shaders.json",
+      "sha256": "ac1b498a3ba0258d34c6e40a9a1d455ce15b17af324a791f45cbee2545f9894b",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "9d555bb0a7ceb93ae8973cbafceb675e493e1246",
+      "sourceTree": "bbb8393e164ef2acf4577402b562b4336e9a5eea"
     }
   ]
 }

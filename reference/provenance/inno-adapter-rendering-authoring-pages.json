@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.Rendering.Authoring",
+  "outputDirectory": "content/en/api/types/rendering/inno-adapter-rendering-authoring",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/rendering.json",
+  "factsIdentity": "a3238317ec92d67e3d56e6804306f0b5ea6a997010675aa50ec74c0295ace870",
+  "sharedContract": "project.inno-adapter-rendering-authoring",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering-authoring/inno.adapter.rendering.irenderingauthoringbackendfactory.md",
+      "sha256": "5f0aa1b233e8a7f01db46943df06768d3988d0f017829368eb22aaa617e1dc62"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering-authoring/inno.adapter.rendering.renderingauthoringbackendcatalog.md",
+      "sha256": "d658ce5483d55cca989619eec16e040c16fce4e3fce11bb8495137ca78e3af94"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering-authoring/inno.adapter.rendering.renderingauthoringbackendprovider.md",
+      "sha256": "4f6d90d4e16dd82f4a1869c53ec6d81a1464c2a43c4c35dfa4d0f1cb89238f29"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering-authoring/index.md",
+      "sha256": "1ea5fdd07257f3e743ff882026518606fb3779697f3b943007e406c13a27d064"
+    }
+  ]
+}

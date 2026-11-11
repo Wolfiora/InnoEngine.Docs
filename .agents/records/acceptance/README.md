@@ -6,6 +6,7 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 
 | Area | Evidence |
 | --- | --- |
+| Rendering and shaders | [Task guides, typed contracts, example correction and visual review](RENDERING_2026_11_11.md) |
 | Engine-only documentation scope | [Native reference retirement and preserved engine coverage](ENGINE_ONLY_SCOPE_2026_11_11.md), [five query samples](ENGINE_ONLY_QUERY_2026_11_11.json) |
 | Scene tasks and state | [Manual, API, host/script examples and search ordering](SCENE_2026_11_11.md) |
 | Initial website and queries | [Foundation](FOUNDATION_2026_11_11.json) |

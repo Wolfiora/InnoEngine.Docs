@@ -651,14 +651,18 @@
     "name": "Inno.Adapter.Rendering.Authoring",
     "path": "src/adapters/rendering/Inno.Adapter.Rendering.Authoring/Inno.Adapter.Rendering.Authoring.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Rendering",
     "path": "src/adapters/rendering/Inno.Adapter.Rendering/Inno.Adapter.Rendering.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1346,35 +1350,45 @@
     "name": "Inno.Rendering.Assets.Authoring",
     "path": "src/services/rendering/Inno.Rendering.Assets.Authoring/Inno.Rendering.Assets.Authoring.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Rendering.Assets",
     "path": "src/services/rendering/Inno.Rendering.Assets/Inno.Rendering.Assets.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Rendering.Runtime",
     "path": "src/services/rendering/Inno.Rendering.Runtime/Inno.Rendering.Runtime.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Rendering.Shaders",
     "path": "src/services/rendering/Inno.Rendering.Shaders/Inno.Rendering.Shaders.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Rendering",
     "path": "src/services/rendering/Inno.Rendering/Inno.Rendering.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
