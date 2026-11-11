@@ -67,6 +67,8 @@ Do not use Clear as a substitute for resolving a diagnostic. Asset, project, pan
 
 Scripts write through the exported Core Logging API. The Console panel consumes that same stream; it does not provide an additional script facade. Runtime lifecycle messages are emitted when runtime lifecycle actually runs, not merely when an enabled flag changes in Edit Mode.
 
+To produce those records, follow [write and retain logs](../diagnostics/write-logs.md) or [report and resolve current issues](../diagnostics/report-current-issues.md). The choice depends on whether you are recording history or maintaining a recoverable current condition.
+
 The host creates and drives the panel. Extensions must not invoke its drawing lifecycle manually. For presentation changes, read [customize the Console](../../extending/customize-console.md).
 
 For grouping, native entry identity, layout and retirement mechanisms, read the [Console project explanation](../../api/projects/inno-editor-panel-logging.md).

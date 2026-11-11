@@ -17,6 +17,11 @@
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
+    - label: Events and diagnostics
+      items:
+        - slug: manual/events/route-events
+        - slug: manual/diagnostics/report-current-issues
+        - slug: manual/diagnostics/write-logs
     - label: Input
       items:
         - slug: manual/input/read-input
@@ -80,6 +85,11 @@
         - slug: api/projects/inno-editor-settings
         - slug: api/projects/inno-editor-panel-stats
     - slug: api/projects/inno-core-identity
+    - label: Events and diagnostics reference
+      items:
+        - slug: api/projects/inno-core-events
+        - slug: api/projects/inno-core-diagnostics
+        - slug: api/projects/inno-core-logging
     - label: Input reference
       items:
         - slug: api/projects/inno-input

@@ -32,6 +32,10 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 
 ## State, references, and lifetime
 
+- [Route and consume events](events/route-events.md) with ordered hubs and explicit subscription ownership.
+- [Report and resolve current issues](diagnostics/report-current-issues.md) through an owner-bound diagnostic producer.
+- [Write and retain logs](diagnostics/write-logs.md) with the correct script surface and host delivery policy.
+
 - [Play an animation clip](animation/play-clips.md) against an explicit destination or sampling-only target.
 
 - [Understand identity and Missing states](identity-and-missing.md).

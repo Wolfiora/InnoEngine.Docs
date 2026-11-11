@@ -1,0 +1,100 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "c7c2e650d4607be0611e3419a95d9e13a76a2554",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "DiagnosticHub is the actual public owner; DiagnosticManager is not present. DiagnosticSource is publicly constructible.",
+    "Diagnostic static facade and hub are host-only; the actual runtime script surface contains the reporter interface and neutral values.",
+    "LogSessionId is exported alongside Log; host router and sinks are not.",
+    "Event listener priority is per concrete/base-type bucket, not a global priority sort across all types.",
+    "Unregistered or quarantined log sinks are not disposed by the router and an in-flight batch can retain its earlier sink snapshot.",
+    "Diagnostic stderr fallback is not protected like the Logging fallback; secondary writer failure can propagate.",
+    "ConsoleLogSink defaults to plain text and relies on the explicit host color capability."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/core/Inno.Core.Diagnostics.md",
+      "sourceSha256": "6036e8160bed7994fa19fe76707b3c1cd99d89024be14924eb4796070daf730d",
+      "project": "Inno.Core.Diagnostics",
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/diagnostics/report-current-issues.md",
+        "content/en/api/projects/inno-core-diagnostics.md",
+        "content/en/api/types/core-diagnostics/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Diagnostics/api.md",
+      "sourceSha256": "6e39defc6b70ad695ca2078232c7fb10cf3ffd2abd0be8508c621c62fd05f173",
+      "project": "Inno.Core.Diagnostics",
+      "symbols": 67,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/diagnostics/report-current-issues.md",
+        "content/en/api/projects/inno-core-diagnostics.md",
+        "content/en/api/types/core-diagnostics/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Events.md",
+      "sourceSha256": "df282a7b86eb3786d1eb4dad9387be25fc62a838533f7a06e4e87a4ec1bdaae4",
+      "project": "Inno.Core.Events",
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/events/route-events.md",
+        "content/en/api/projects/inno-core-events.md",
+        "content/en/api/types/core-events/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Events/api.md",
+      "sourceSha256": "1ed5315f8633ea24673c8bd395c9a417f04df17a4661074bb89482f251ea6436",
+      "project": "Inno.Core.Events",
+      "symbols": 79,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/events/route-events.md",
+        "content/en/api/projects/inno-core-events.md",
+        "content/en/api/types/core-events/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Logging.md",
+      "sourceSha256": "7dbc17d63bb38fca3dff6e01845170f935bfc34b347dc1faaf529e75f85a9b33",
+      "project": "Inno.Core.Logging",
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/diagnostics/write-logs.md",
+        "content/en/api/projects/inno-core-logging.md",
+        "content/en/api/types/core-logging/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Logging/api.md",
+      "sourceSha256": "735f1c4c58058dbb08c911f2679f757341b43f105e7a1334ef008e940ee22331",
+      "project": "Inno.Core.Logging",
+      "symbols": 74,
+      "missing": [],
+      "changedSignatures": [],
+      "destinations": [
+        "content/en/manual/diagnostics/write-logs.md",
+        "content/en/api/projects/inno-core-logging.md",
+        "content/en/api/types/core-logging/index.md"
+      ],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    }
+  ]
+}

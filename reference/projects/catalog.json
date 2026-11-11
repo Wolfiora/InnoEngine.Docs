@@ -984,14 +984,18 @@
     "name": "Inno.Core.Diagnostics",
     "path": "src/foundation/core/Inno.Core.Diagnostics/Inno.Core.Diagnostics.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Core.Events",
     "path": "src/foundation/core/Inno.Core.Events/Inno.Core.Events.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1049,7 +1053,9 @@
     "name": "Inno.Core.Logging",
     "path": "src/foundation/core/Inno.Core.Logging/Inno.Core.Logging.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
