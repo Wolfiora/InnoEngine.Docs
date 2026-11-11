@@ -86,3 +86,11 @@ Each fixture owns its sessions, temporary directories and child processes. Drain
 Start with the [test-suite reference](testing/index.md), organized by the behavior under test. Its source links describe available assertions, not results of a current run. Keep actual executions and environment limitations in acceptance records.
 
 For documentation examples, use [example validation](example-validation.md); it preserves the declared host or script surface.
+
+## Extend a suite safely
+
+Add new cases beside the behavior they verify. Review the affected production contract and actual project references together. Test assemblies are not shipped with the Editor or Player, and their discovery classes do not become script-exported product APIs.
+
+Use public entry points and replaceable contracts. Do not introduce reflection bypasses, `InternalsVisibleTo` or wider production visibility for a test. Reusable public testing libraries still need their own API contracts; being under `tests/` does not exempt them.
+
+Restore the declared SDK, packages and external-tool prerequisites before running a focused diagnostic. Preserve each scenario's thread, cancellation and release ordering. Keep current execution results in acceptance records rather than treating the list of available scenarios as passing evidence.
