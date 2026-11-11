@@ -63,6 +63,10 @@ jobs:
           path: dist/
           if-no-files-found: error
           retention-days: 30
+      - name: Install the locked browser runtime
+        run: npx --no-install playwright install chromium
+      - name: Verify responsive reading, search and keyboard journeys
+        run: npm run test:browser
       - name: Require complete content and source evidence
         shell: pwsh
         run: |
@@ -77,6 +81,7 @@ jobs:
             artifacts/canonical-catalog.json
             artifacts/projection.json
             artifacts/completion.json
+            artifacts/browser/
           if-no-files-found: warn
           retention-days: 30
 
