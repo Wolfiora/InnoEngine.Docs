@@ -1,0 +1,83 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "EditorAudioHost requires an explicit backend-neutral deviceFactory; it does not select MiniAudio.",
+    "EditorExportService and EditorExportProgress are public contracts; the old no-public-types statement is obsolete.",
+    "The MaterialDocuments example uses the editor-script surface, separately from captured host declarations."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/editor/Inno.Editor.Audio.md",
+      "sourceSha256": "542c26c8513dc43c41cd3b494b8e605c3ad7f1cf1e61150813e5cc240d9f5cdb",
+      "sourceBlobSha256": "542c26c8513dc43c41cd3b494b8e605c3ad7f1cf1e61150813e5cc240d9f5cdb",
+      "destinations": [
+        "content/en/api/projects/inno-editor-audio.md",
+        "content/en/manual/editor/audio-preview.md"
+      ],
+      "baselineSymbols": 12,
+      "capturedSymbols": 12,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Exporting.md",
+      "sourceSha256": "8022852ca7f44a6c74261d91a6a360b4d6643e6872f526f13338ff60060a48c6",
+      "sourceBlobSha256": "8022852ca7f44a6c74261d91a6a360b4d6643e6872f526f13338ff60060a48c6",
+      "destinations": [
+        "content/en/api/projects/inno-editor-exporting.md",
+        "content/en/manual/editor/export.md"
+      ],
+      "baselineSymbols": 28,
+      "capturedSymbols": 28,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Graph.md",
+      "sourceSha256": "5ed66e827bb05c5d4e6bc4dce77d00238491b84044599bb109badf7f2fd654e7",
+      "sourceBlobSha256": "5ed66e827bb05c5d4e6bc4dce77d00238491b84044599bb109badf7f2fd654e7",
+      "destinations": [
+        "content/en/api/projects/inno-editor-graph.md",
+        "content/en/extending/graph-documents.md"
+      ],
+      "baselineSymbols": 46,
+      "capturedSymbols": 46,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Hosting.md",
+      "sourceSha256": "37ea643c8126dbf8b6b68c3e998ad19b5a54a9c458a759014f9e66df120fa026",
+      "sourceBlobSha256": "37ea643c8126dbf8b6b68c3e998ad19b5a54a9c458a759014f9e66df120fa026",
+      "destinations": [
+        "content/en/api/projects/inno-editor-hosting.md",
+        "content/en/extending/editor-host.md"
+      ],
+      "baselineSymbols": 25,
+      "capturedSymbols": 25,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Shaders.md",
+      "sourceSha256": "43f9a280d013f9e82ffadbe5348bb527c35b9144869a85375b66cef917059f0a",
+      "sourceBlobSha256": "43f9a280d013f9e82ffadbe5348bb527c35b9144869a85375b66cef917059f0a",
+      "destinations": [
+        "content/en/api/projects/inno-editor-shaders.md",
+        "content/en/manual/editor/material-drafts.md"
+      ],
+      "baselineSymbols": 42,
+      "capturedSymbols": 42,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

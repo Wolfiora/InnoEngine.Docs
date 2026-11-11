@@ -6,6 +6,7 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 
 | Area | Evidence |
 | --- | --- |
+| Editor services and domains | [Eleven owners, semantic corrections and both script surfaces](EDITOR_DOMAINS_2026_11_11.md) |
 | Managed backends | [Twelve owners, task guidance and compiled examples](MANAGED_BACKENDS_2026_11_11.md) |
 | Build execution | [Frozen preparation, task hosts and compiled examples](BUILD_EXECUTION_2026_11_11.md) |
 | Build composition and Support Packs | [Content, examples and prepared queries](BUILD_COMPOSITION_2026_11_11.md), [raw query samples](SUPPORT_PACK_QUERY_2026_11_11.json) |

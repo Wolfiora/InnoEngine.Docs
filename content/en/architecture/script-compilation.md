@@ -17,7 +17,7 @@ InnoEngine exposes a deliberate logical API to project scripts while preserving 
 | IDE project | Metadata-only logical facade and explicit framework references | Editor diagnostics and source tooling using logical namespaces. |
 | Runtime authoring compilation | Trimmed real-assembly contracts after logical namespace rewriting | Script IL referring to actual engine CLR types. |
 
-The IDE project does not reference real implementation DLLs, so implementation namespaces are unavailable there. Project and plugin IDE projects use normal project references and the same facade. Hot compilation does not load facade artifacts into the runtime generation.
+The IDE project does not reference real implementation DLLs, so implementation namespaces are unavailable there. Editable Project assemblies use normal project references. Installed plugin dependencies use generated logical metadata references under Library/IDE/PluginReferences; their source topology is not exposed as root IDE projects. Hot compilation does not load facade artifacts into the runtime generation.
 
 Each file's declared logical imports are rewritten to the corresponding implementation namespaces. Both paths enforce the logical-namespace analyzer. Export selection and trimmed signatures establish access; a namespace import alone is not a permission grant.
 

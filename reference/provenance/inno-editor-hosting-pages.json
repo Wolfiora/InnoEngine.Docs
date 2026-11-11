@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Editor.Hosting",
+  "outputDirectory": "content/en/api/types/editor-services/inno-editor-hosting",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-services.json",
+  "factsIdentity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
+  "sharedContract": "project.inno-editor-hosting",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-hosting/editorapplication.md",
+      "sha256": "4d2b765ca6608d9369107f33239251e33711a9a41862fb0863504a52f8a25baf"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-hosting/editorcommandlineoptions.md",
+      "sha256": "4e20d40b89b1baa0d6096beb38eb0f1ad4de6cd38609231f1d4cd79a6ee0055e"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-hosting/editorlaunchoptions.md",
+      "sha256": "3a7fef53967332ec096c47cc6baffc13ae3bae5d7a2565d7ab3472d71e360f40"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-hosting/index.md",
+      "sha256": "23c8f323a4d84da15e434a43a2ecb28f8eae3949ac65cafb1f23ad22576d0d0e"
+    }
+  ]
+}

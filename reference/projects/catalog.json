@@ -782,56 +782,72 @@
     "name": "Inno.Editor.Assets",
     "path": "src/composition/editor/features/Inno.Editor.Assets/Inno.Editor.Assets.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Audio",
     "path": "src/composition/editor/features/Inno.Editor.Audio/Inno.Editor.Audio.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Exporting",
     "path": "src/composition/editor/features/Inno.Editor.Exporting/Inno.Editor.Exporting.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.PlayMode",
     "path": "src/composition/editor/features/Inno.Editor.PlayMode/Inno.Editor.PlayMode.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Rendering",
     "path": "src/composition/editor/features/Inno.Editor.Rendering/Inno.Editor.Rendering.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Scene",
     "path": "src/composition/editor/features/Inno.Editor.Scene/Inno.Editor.Scene.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Scripting",
     "path": "src/composition/editor/features/Inno.Editor.Scripting/Inno.Editor.Scripting.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Shaders",
     "path": "src/composition/editor/features/Inno.Editor.Shaders/Inno.Editor.Shaders.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -856,14 +872,18 @@
     "name": "Inno.Editor.Graph",
     "path": "src/composition/editor/framework/Inno.Editor.Graph/Inno.Editor.Graph.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Inspection",
     "path": "src/composition/editor/framework/Inno.Editor.Inspection/Inno.Editor.Inspection.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -888,7 +908,9 @@
     "name": "Inno.Editor.Hosting",
     "path": "src/composition/editor/hosting/Inno.Editor.Hosting/Inno.Editor.Hosting.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

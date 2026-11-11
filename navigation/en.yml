@@ -12,14 +12,20 @@
     - slug: manual
     - label: Editor
       items:
+        - slug: manual/editor/play-mode
+        - slug: manual/editor/scene-documents
         - slug: manual/editor/console
         - slug: manual/editor/statistics
+        - slug: manual/editor/audio-preview
+        - slug: manual/editor/export
+        - slug: manual/editor/material-drafts
         - slug: manual/editor/settings
         - slug: manual/editor/appearance
         - slug: manual/editor/game-view
         - slug: manual/editor/scene-view
     - slug: manual/identity-and-missing
     - slug: manual/scripting/use-script-api
+    - slug: manual/scripting/compile-and-reload
     - slug: manual/runtime/frame-loop
     - label: Scenes and objects
       items:
@@ -150,6 +156,11 @@
     - slug: extending/reference-recovery
     - slug: extending/scene-state
     - slug: extending/script-exports
+    - slug: extending/asset-drafts
+    - slug: extending/editor-viewports
+    - slug: extending/inspectors
+    - slug: extending/editor-host
+    - slug: extending/graph-documents
     - slug: extending/runtime-host
     - slug: extending/render-frame
     - slug: extending/presentation-context
@@ -310,6 +321,19 @@
         - slug: api/projects/inno-adapter-ui-rmlui-authoring
         - slug: api/projects/inno-native-ui
         - slug: api/projects/inno-build-toolchains-ui
+    - label: Editor feature services
+      items:
+        - slug: api/projects/inno-editor-assets
+        - slug: api/projects/inno-editor-playmode
+        - slug: api/projects/inno-editor-rendering
+        - slug: api/projects/inno-editor-scene
+        - slug: api/projects/inno-editor-scripting
+        - slug: api/projects/inno-editor-inspection
+        - slug: api/projects/inno-editor-audio
+        - slug: api/projects/inno-editor-exporting
+        - slug: api/projects/inno-editor-shaders
+        - slug: api/projects/inno-editor-graph
+        - slug: api/projects/inno-editor-hosting
     - label: Managed backend integration
       items:
         - slug: api/projects/inno-build-toolchains-bgfx-shaders

@@ -16,7 +16,7 @@ Project scripts use logical names such as `InnoEngine.Scene`, rather than the ho
 
 ## Start with the generated project
 
-Open the project's generated IDE solution, or [generate and compile it through the scripts command](../../contributing/compile-project-scripts.md). Project and plugin source have separate IDE projects joined through ordinary project references. Both use the same selected logical API facade.
+Open the project's generated IDE solution, or [generate and compile it through the scripts command](../../contributing/compile-project-scripts.md). Editable Project assemblies use ordinary project references. Installed plugins contribute logical metadata references, not editable plugin source projects. Both follow the same selected logical API surface.
 
 Declare the logical namespace in each source file:
 

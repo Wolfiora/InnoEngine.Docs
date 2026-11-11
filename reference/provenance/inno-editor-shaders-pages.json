@@ -1,0 +1,41 @@
+{
+  "project": "Inno.Editor.Shaders",
+  "outputDirectory": "content/en/api/types/editor-services/inno-editor-shaders",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-services.json",
+  "factsIdentity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
+  "sharedContract": "project.inno-editor-shaders",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/materialdocuments.md",
+      "sha256": "82b3add213684ff539b438450b7500b1f4d48775d69a6d3df16abad863ed83ad"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/shaderinspectionselection.md",
+      "sha256": "0abc2212422c0ba9097e3dc6efcf45483bb921833d93e439ebabb2dabf84344e"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/shaderparameterpresentation.md",
+      "sha256": "4d7017d79246df2aaa50584a4a4bcc7bb501190420d60a956a6d25bfc7a676f7"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/shaderpreviewcontext.md",
+      "sha256": "22a365e3aca78ab87bebb9ed9f4aa5bb60b03f07e2c621ccbb4b2232e30a333c"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/shaderpreviewprovider.md",
+      "sha256": "8a0493de4240a318182c24be3727fd2fc537103514ac2fbbbced75157a0852da"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/shaderpreviewproviderattribute.md",
+      "sha256": "b85f00330a30295abe1fa9eaaab918582715b2aacf237e9af1e56a69568d8a39"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-shaders/index.md",
+      "sha256": "087b3432d9d6523b965c7e1ef576c145d3bc453803244eac1f29ca56f7672d3d"
+    }
+  ]
+}

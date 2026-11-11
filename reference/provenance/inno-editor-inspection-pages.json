@@ -1,0 +1,85 @@
+{
+  "project": "Inno.Editor.Inspection",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-inspection",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-inspection",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/iinspectiondrawer.md",
+      "sha256": "52508f8330f890f44e66756a17eecb3abb164ac7bf2e287eabf32cfe340ed0ba"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/iinspectioniconprovider-1.md",
+      "sha256": "20aed080ee36f0fc82cc46af71af57b8343a7c5be5d00bf5a4a590906885afcd"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/iinspectionpropertyeditservice.md",
+      "sha256": "433dc1f9daf6241e74d3b3cfe17dd45bfe5dda4f67b93a6f7bb5ac5a37f5cf93"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/iinspectorattributedrawer.md",
+      "sha256": "70a651eb607d892b7efe86cf239fc3e9ab4e865d93f6d708a2520d6fa1f89049"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectiondrawcontext.md",
+      "sha256": "ddd9e0068b2ac3fb37e9c93619221029514924f08c56c628ba4735cf696070e9"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectiondrawer-1.md",
+      "sha256": "19a8ebabd10b4ca0f66c72edfbdb5280df8c047b1dde51be215f87a16e8afd1c"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectiondrawerattribute.md",
+      "sha256": "027bdf2f69747fe5a9767486bea8d3f062e4316b19cdc951fde8f8fca4ca2315"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectiondrawerfactory.md",
+      "sha256": "10cb09aead51756b86b914c199d81628921161ad05a352d028afab4abb61bb1d"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectiondrawerregistry.md",
+      "sha256": "fbcb27a5fa986c35cb4febf2f3f9f609eac4a401edbdbb747296da2824ffaa9c"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectorattributedrawcontext.md",
+      "sha256": "115f82e65d94b034382e7105d53829b659262018fb7c4032aeae7d04d4dad00e"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectorattributedrawerattribute.md",
+      "sha256": "80f5709503a7ab69ac19aac629921f6a1cb2ff26883a99725348232842730f91"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/inspectorattributedrawerregistry.md",
+      "sha256": "bbcf2cb7694b96c121e580ff1d718f5fdea009c0b2a34df63d39f45e776ea1c7"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/ipropertydrawer.md",
+      "sha256": "bb4a0b92ba0a7c680d50aafd175d93edd7afb65d3db13bd4232afcca390ef377"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/propertydrawcontext.md",
+      "sha256": "3f7c4a2b6a6648323392703e44da0a3e7f27ff2c1f211d25cbf004ce17f797e6"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/propertydrawerattribute.md",
+      "sha256": "8a8df147dfcdd58397e482dd0d52a194b81c50efb8221002d1f81e69e296c842"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/propertydrawerregistry.md",
+      "sha256": "86cb6d884c423cc3ea0506bde301f3c7e0a644c71394c51378d3c3058e9ca8a8"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/serializedpropertyrenderer.md",
+      "sha256": "b5cea2f9dde2a241eaea62260f1791c6b1cccb2d3c8d67503bc0990e07deabd6"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-inspection/index.md",
+      "sha256": "769022318bba8a3f30716baff5c90d922ef52d9a852c9bf4e1602ccf909beb5d"
+    }
+  ]
+}
