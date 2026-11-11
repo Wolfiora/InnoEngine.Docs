@@ -1,0 +1,38 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "ec506471b863c3b6e131d13ba78ff3ce9d31e15e",
+  "sourceTree": "56781ec1b25db433f796cff23644570cb18c07d1",
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Tooling.Validation.Tests.md",
+      "sourceSha256": "09aaa9726dec5790cd307fa5ab3bed767b1f154242dd478732e74038448ffdfe",
+      "destinations": [
+        "content/en/contributing/testing/inno-tooling-validation-tests.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Tooling.Architecture.Tests.md",
+      "sourceSha256": "b3c963cd389e17e99f9799164f595defdbb239fd708c3549f0789b7017a713ea",
+      "destinations": [
+        "content/en/contributing/testing/inno-tooling-architecture-tests.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Testing.Processes.Tests.md",
+      "sourceSha256": "b0c4a4941caac360dcd66d044e01ab63e7d18a621e7af9200c7f9e66ca2fa6dc",
+      "destinations": [
+        "content/en/contributing/testing/inno-testing-processes-tests.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed"
+    }
+  ],
+  "newOwners": [
+    {
+      "project": "Inno.Tooling.Documentation.Tests",
+      "destination": "content/en/contributing/testing/inno-tooling-documentation-tests.md",
+      "reason": "Independent documentation query owner introduced after the original inventory; snapshot behavior moved out of Architecture."
+    }
+  ]
+}
