@@ -12,9 +12,10 @@ async function fixture(t) {
   await mkdir(path.join(site, 'manual'));
   await writeFile(path.join(site, 'manual/index.html'), '<h1>Manual</h1>');
   const catalog = { snapshot: 'a'.repeat(64), contentIdentity: 'b'.repeat(64), sourceApiStatus: 'Verified',
+    sourceEvidenceIdentity: 'f'.repeat(64),
     repository: 'https://github.com/Wolfiora/InnoEngine', revision: 'c'.repeat(40), sourceTree: 'd'.repeat(40) };
   const completion = { status: 'Passed', scope: 'CompleteProjection', sourceApiStatus: 'Verified', errors: [],
-    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity };
+    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity };
   return { site, catalog, completion, repository: 'Wolfiora/InnoEngine.Docs', commit: 'e'.repeat(40), run: '123', attempt: 2 };
 }
 
@@ -25,6 +26,14 @@ test('promotes exactly the verified files without rebuilding and preserves their
   assert.deepEqual(await verifyPublication(f), created);
   assert.deepEqual(await readFile(path.join(f.site, 'index.html')), original);
   await assert.rejects(createPublication(f), /EEXIST/);
+});
+
+test('a verification label without the same explicit source certificate cannot be promoted', async (t) => {
+  const f = await fixture(t);
+  delete f.catalog.sourceEvidenceIdentity;
+  await assert.rejects(createPublication(f), /authenticated source certificate/);
+  f.catalog.sourceEvidenceIdentity = 'a'.repeat(64);
+  await assert.rejects(createPublication(f), /authenticated source certificate/);
 });
 
 for (const state of ['Failed', 'Blocked', 'Skipped', 'Cancelled']) {

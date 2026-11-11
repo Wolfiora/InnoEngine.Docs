@@ -69,7 +69,7 @@ Captured facts remain distinct from evidence that they match the current engine 
 **Parameter `projects`:** Actual project identities present in the payload, including empty public surfaces.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `#ctor`
 
@@ -100,7 +100,7 @@ Captured facts remain distinct from evidence that they match the current engine 
 **Parameter `projects`:** Actual project identities present in the payload, including empty public surfaces.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `Deconstruct`
 
@@ -113,7 +113,7 @@ public void Inno.Tooling.Documentation.DocumentationReferenceInfo.Deconstruct(ou
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `Equals`
 
@@ -131,7 +131,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `Equals`
 
@@ -149,7 +149,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `GetHashCode`
 
@@ -165,7 +165,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `op_Equality`
 
@@ -178,7 +178,7 @@ public static bool Inno.Tooling.Documentation.DocumentationReferenceInfo.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `op_Inequality`
 
@@ -191,7 +191,7 @@ public static bool Inno.Tooling.Documentation.DocumentationReferenceInfo.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `ToString`
 
@@ -207,7 +207,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L33).
 
 ## `configuration`
 
@@ -221,7 +221,7 @@ public string? Inno.Tooling.Documentation.DocumentationReferenceInfo.configurati
 Evaluated API configuration, or null for the project inventory.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L37).
 
 ## `identity`
 
@@ -235,7 +235,7 @@ public string Inno.Tooling.Documentation.DocumentationReferenceInfo.identity { g
 SHA-256 of the complete original reference bytes.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L35).
 
 ## `model`
 
@@ -249,7 +249,7 @@ public string Inno.Tooling.Documentation.DocumentationReferenceInfo.model { get;
 Project-inventory or the actual captured API surface model.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L36).
 
 ## `path`
 
@@ -263,7 +263,7 @@ public string Inno.Tooling.Documentation.DocumentationReferenceInfo.path { get; 
 Original reference path relative to the explicitly selected Docs checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L34).
 
 ## `projects`
 
@@ -277,7 +277,7 @@ public System.Collections.Generic.IReadOnlyList<string> Inno.Tooling.Documentati
 Actual project identities present in the payload, including empty public surfaces.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L41).
 
 ## `sourceRevision`
 
@@ -291,7 +291,7 @@ public string Inno.Tooling.Documentation.DocumentationReferenceInfo.sourceRevisi
 Exact source revision recorded for this capture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L39).
 
 ## `sourceTree`
 
@@ -305,7 +305,7 @@ public string Inno.Tooling.Documentation.DocumentationReferenceInfo.sourceTree {
 Exact source-tree identity recorded for this capture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L40).
 
 ## `target`
 
@@ -319,4 +319,4 @@ public string? Inno.Tooling.Documentation.DocumentationReferenceInfo.target { ge
 Explicit captured target, or null for a target-neutral capture.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationReferenceInfo.cs#L38).

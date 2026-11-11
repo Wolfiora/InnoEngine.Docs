@@ -90,6 +90,25 @@ Ordinary prepared-snapshot queries do not scan the authored document tree, acqui
 
 An adapter can call `DocumentationStore.OpenAsync` and `DocumentationSnapshot.QueryAsync` directly with `DocumentationRequest`. Dispose a snapshot after its outstanding queries finish. Do not implement an adapter by shelling out to Build and parsing console text.
 
+## Attach authenticated source evidence
+
+Index freshness and source verification are independent. A newly indexed checkout remains `Unverified` until a trusted producer has compared all selected API references against the bound engine source tree.
+
+The preparation transport first authenticates a successful engine workflow and its exact artifact digest. Only then may it load `DocumentationEvidence.ReadAsync` with the authenticated certificate file and SHA-256 identity, and pass that immutable value to `DocumentationStore.OpenAsync` as `sourceEvidence`. The query library performs no network request or compilation. It rejects another source tree, project inventory, reference hash, configuration, target or owner set.
+
+The CLI exposes the same explicit boundary:
+
+```bash
+docs status --engine-root <workspace> --cache-root <prepared-cache> \
+  --snapshot <snapshot-id> \
+  --evidence-file <authenticated-source-certificate.json> \
+  --evidence-sha256 <independently-trusted-sha256>
+```
+
+Do not obtain the trusted digest merely by hashing an arbitrary downloaded certificate: that checks consistency, not producer authenticity. Use the restricted evidence workflow or a locally reconciled producer you explicitly trust.
+
+Verified results include `sourceEvidenceIdentity`. The certificate does not change page identities, rewrite the index or certify a mutable checkout. It can apply to a prose-only snapshot with the same source tree, project inventory and API references. A search result remains an excerpt, and required ownership contracts still need their explicit continuation reads. Source API verification also does not prove native execution, device behavior or semantic completeness of prose.
+
 Keep one protected snapshot session for related reads instead of starting a new CLI process for each section. Exact page and symbol lookups use direct maps. Keyword postings initialize once when that session first performs a keyword search; concurrent searches share the completed map. Opening a snapshot still verifies its manifest, and selected page payloads still undergo integrity checks. This avoids unrelated search preparation without weakening provenance.
 
 Results expose resources with this shape:

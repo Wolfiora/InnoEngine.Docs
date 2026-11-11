@@ -30,6 +30,8 @@ It does not extract the engine's API, compile examples, certify source compatibi
 
 `DocumentationStore.OpenAsync` opens an exact generation or resolves the current pointer once. The returned `DocumentationSnapshot` owns reading protection. Finish its concurrent queries before disposing it; disposal releases the generation for subsequent cache maintenance.
 
+`DocumentationEvidence.ReadAsync` loads a bounded source certificate using a digest authenticated independently during preparation. Pass the immutable certificate to `OpenAsync` to require exact source-tree, project-inventory and API-reference coverage. Without it, results remain `Unverified`. With matching evidence, query and catalog results identify the certificate separately from the unchanged content snapshot. Authenticating a remote producer belongs to the transport; the query library does not fetch evidence or trust an arbitrary JSON status.
+
 An open snapshot remains a snapshot of its captured inputs even if the authored checkout changes. Refresh explicitly to observe those changes. This distinction allows repeated reads without rescanning the source tree.
 
 The parsed-page schema covers the Markdown parser, its serialized page models and declared parser dependencies. The query/index schema also covers catalog validation, search and result implementation. When only the latter changes, explicit preparation can reuse verified parsed payloads while rebuilding and validating the current index. Reads reject incompatible generations; preparation never promotes old query metadata without current validation.

@@ -6,6 +6,15 @@ on:
     branches: [main]
   merge_group:
   workflow_dispatch:
+    inputs:
+      engine_run:
+        description: Successful engine run providing matching source API certification
+        type: string
+        required: true
+      bootstrap:
+        description: Use the explicitly approved ai-pipeline source before default-branch cutover
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -49,9 +58,43 @@ jobs:
       - name: Verify bounded artifact import and rejection
         shell: pwsh
         run: ./tests/PublicationArchive.Tests.ps1
+      - name: Require the restricted evidence installation
+        if: github.event_name == 'workflow_dispatch'
+        shell: pwsh
+        env:
+          APP_ID: ${{ vars.INNO_DOCS_APP_ID }}
+          APP_KEY: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+        run: |
+          if (-not $env:APP_ID -or -not $env:APP_KEY) { throw 'The restricted GitHub App installation is not provisioned. Source certification cannot be imported.' }
+      - name: Obtain read-only cross-repository evidence access
+        if: github.event_name == 'workflow_dispatch'
+        id: evidence-token
+        uses: actions/create-github-app-token@fee1f7d63c2ff003460e3d139729b119787bc349 # v2
+        with:
+          app-id: ${{ vars.INNO_DOCS_APP_ID }}
+          private-key: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+          owner: Wolfiora
+          repositories: InnoEngine
+          permission-actions: read
+          permission-contents: read
+      - name: Import the authenticated source certificate
+        if: github.event_name == 'workflow_dispatch'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ steps.evidence-token.outputs.token }}
+          ENGINE_RUN: ${{ inputs.engine_run }}
+          BOOTSTRAP: ${{ inputs.bootstrap }}
+        run: |
+          node scripts/publication-source.mjs source reference/engine.lock.json artifacts/source-selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'Source certificate selection failed.' }
+          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/source-selection.json -Source engine -Destination artifacts/source-evidence
+          # The entire archive digest was authenticated and verified before this file identity is accepted.
+          $file = Join-Path $PWD 'artifacts/source-evidence/source-certificate.json'
+          "INNO_SOURCE_EVIDENCE=$file" >> $env:GITHUB_ENV
+          "INNO_SOURCE_EVIDENCE_SHA256=$((Get-FileHash -LiteralPath $file -Algorithm SHA256).Hash.ToLowerInvariant())" >> $env:GITHUB_ENV
       - name: Prepare canonical catalog using managed tooling only
         shell: pwsh
-        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
+        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source -SourceEvidencePath $env:INNO_SOURCE_EVIDENCE -SourceEvidenceIdentity $env:INNO_SOURCE_EVIDENCE_SHA256
       - run: npm run check
       - run: npm run build
       - name: Verify the exact rendered projection
@@ -94,6 +137,8 @@ jobs:
             artifacts/canonical-catalog.json
             artifacts/projection.json
             artifacts/completion.json
+            artifacts/source-selection.json
+            artifacts/source-evidence/source-certificate.json
             artifacts/browser/
           if-no-files-found: warn
           retention-days: 30

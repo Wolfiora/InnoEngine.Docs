@@ -52,7 +52,7 @@ Script modes require the actual projected assemblies, never substituted host ref
 For script modes they identify ownership only; their host assemblies must not enter the example's references.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `#ctor`
 
@@ -72,7 +72,7 @@ Script modes require the actual projected assemblies, never substituted host ref
 For script modes they identify ownership only; their host assemblies must not enter the example's references.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `Deconstruct`
 
@@ -85,7 +85,7 @@ public void Inno.Tooling.Documentation.DocumentationExampleContext.Deconstruct(o
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `Equals`
 
@@ -103,7 +103,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `Equals`
 
@@ -121,7 +121,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `GetHashCode`
 
@@ -137,7 +137,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `op_Equality`
 
@@ -150,7 +150,7 @@ public static bool Inno.Tooling.Documentation.DocumentationExampleContext.operat
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `op_Inequality`
 
@@ -163,7 +163,7 @@ public static bool Inno.Tooling.Documentation.DocumentationExampleContext.operat
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `ToString`
 
@@ -179,7 +179,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L16).
 
 ## `mode`
 
@@ -194,7 +194,7 @@ The explicit reference mode: host, runtime-script or editor-script.
 Script modes require the actual projected assemblies, never substituted host references.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L17).
 
 ## `projects`
 
@@ -209,4 +209,4 @@ Actual project identities supplying the SDK context and host dependencies.
 For script modes they identify ownership only; their host assemblies must not enter the example's references.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationExampleContext.cs#L18).

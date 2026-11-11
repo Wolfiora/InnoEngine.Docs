@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Authenticated source evidence](SOURCE_EVIDENCE_2026_11_12.md): restricted preparation, explicit immutable certificates, exact API references and blocked live certification.
+
 - [Artifact-only publication boundaries](PUBLICATION_BOUNDARIES_2026_11_12.md): exact file and run identities, archive rejection, paired receipts and outstanding live deployment.
 
 - [Canonical documentation cutover](CANONICAL_CUTOVER_2026_11_12.md): retired engine documentation, refreshed tool reference, source dispositions and rendered projection.

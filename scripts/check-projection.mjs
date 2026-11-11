@@ -97,9 +97,10 @@ export async function checkProjection({ root, catalog, site, complete = false })
   if (complete && missingProjects.length) errors.push(`${missingProjects.length} actual projects lack an authoritative entry.`);
   if (complete && api.missingSourceCaptures.length) errors.push(`Engine projects lack an evaluated source API capture: ${api.missingSourceCaptures.join(', ')}.`);
   if (complete && catalog.sourceApiStatus !== 'Verified') errors.push(`Source API verification is ${catalog.sourceApiStatus}; publication requires matching evidence.`);
+  if (complete && !/^[a-f0-9]{64}$/.test(catalog.sourceEvidenceIdentity ?? '')) errors.push('Source API verification lacks an explicit authenticated certificate identity.');
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
-    missingProjects, sourceApiStatus: catalog.sourceApiStatus, api, licenses, errors };
+    missingProjects, sourceApiStatus: catalog.sourceApiStatus, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity ?? null, api, licenses, errors };
 }
 
 async function checkLicenseProvenance(root, errors) {

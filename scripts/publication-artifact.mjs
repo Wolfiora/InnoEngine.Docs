@@ -17,13 +17,16 @@ export async function createPublication({ site, catalog, completion, repository,
     && Array.isArray(completion.errors) && completion.errors.length === 0, 'Only complete, source-verified output can become a publication artifact.');
   requireValue(hex(catalog.snapshot, 64) && hex(catalog.contentIdentity, 64)
     && completion.snapshot === catalog.snapshot && completion.contentIdentity === catalog.contentIdentity, 'Completion does not bind this exact catalog.');
+  requireValue(hex(catalog.sourceEvidenceIdentity, 64) && completion.sourceEvidenceIdentity === catalog.sourceEvidenceIdentity,
+    'Publication requires the exact authenticated source certificate used by completion.');
   requireValue(catalog.repository === 'https://github.com/Wolfiora/InnoEngine'
     && hex(catalog.revision, 40) && hex(catalog.sourceTree, 40), 'Publication has no exact engine binding.');
   const files = await inventory(site);
   requireValue(files['index.html'] !== undefined, 'Publication lacks its home page.');
   const manifest = { schema: 'inno-site/1', repository, commit, run: String(run), attempt,
     engine: { repository: 'Wolfiora/InnoEngine', revision: catalog.revision, tree: catalog.sourceTree },
-    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, completionIdentity: hash(JSON.stringify(completion)), files };
+    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity,
+    completionIdentity: hash(JSON.stringify(completion)), files };
   requireValue(JSON.stringify(files) === JSON.stringify(await inventory(site)), 'Static output changed while its publication identity was prepared.');
   await writeFile(path.join(site, manifestName), JSON.stringify(manifest, null, 2) + '\n', { flag: 'wx' });
   return manifest;
@@ -40,7 +43,7 @@ export async function verifyPublication({ site, commit, run, attempt }) {
     && manifest.attempt === attempt, 'Publication belongs to another commit, run or attempt.');
   requireValue(manifest.engine?.repository === 'Wolfiora/InnoEngine' && hex(manifest.engine.revision, 40)
     && hex(manifest.engine.tree, 40) && hex(manifest.snapshot, 64) && hex(manifest.contentIdentity, 64)
-    && hex(manifest.completionIdentity, 64), 'Publication provenance is incomplete.');
+    && hex(manifest.completionIdentity, 64) && hex(manifest.sourceEvidenceIdentity, 64), 'Publication provenance is incomplete.');
   requireValue(manifest.files && Object.getPrototypeOf(manifest.files) === Object.prototype, 'Publication file identities are missing.');
   for (const [name, identity] of Object.entries(manifest.files)) {
     requireValue(name !== manifestName && name !== '' && !path.isAbsolute(name) && !name.includes('\\')

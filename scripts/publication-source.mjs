@@ -62,6 +62,24 @@ async function list(endpoint, field, token) {
   }
 }
 
+/** Select an authenticated source certificate before the site build; never run from a read-only query. */
+export async function selectSourceCertificate({ engineRun, binding, bootstrap, token }) {
+  requireValue(token && /^[1-9][0-9]*$/.test(engineRun) && sha(binding.revision)
+    && binding.repository === 'https://github.com/Wolfiora/InnoEngine', 'An exact engine binding, run and scoped token are required.');
+  const repository = 'Wolfiora/InnoEngine';
+  const prefix = `/repos/${repository}`;
+  const metadata = await github(prefix, token);
+  const branch = bootstrap ? 'ai-pipeline' : metadata.default_branch;
+  const run = await github(`${prefix}/actions/runs/${engineRun}`, token);
+  const jobs = await list(`${prefix}/actions/runs/${engineRun}/attempts/${run.run_attempt}/jobs`, 'jobs', token);
+  const artifacts = await list(`${prefix}/actions/runs/${engineRun}/artifacts`, 'artifacts', token);
+  // A preserved certificate can remain valid after an unrelated branch advance. Exact source/ref binding
+  // is checked by the canonical query core; publication separately requires a current candidate pair.
+  return { engine: { ...authorizeRun({ run, jobs, artifacts, repository, branch, commit: binding.revision,
+    workflow: '.github/workflows/rendering-ci.yml', aggregate: 'Engine validation',
+    artifactName: 'documentation-source-certification', events: ['push', 'workflow_dispatch', 'pull_request', 'merge_group'] }), metadata: run } };
+}
+
 /** Explicit authenticated preparation; ordinary documentation queries never use this transport. */
 export async function selectPublicationSources({ docsRun, docsCommit, engineRun, engineCommit, bootstrap, token }) {
   requireValue(token && /^[1-9][0-9]*$/.test(docsRun) && /^[1-9][0-9]*$/.test(engineRun)
@@ -100,9 +118,14 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     await writeFile(args[0], JSON.stringify(selected, null, 2) + '\n', { flag: 'wx' });
     for (const [name, source] of Object.entries(selected).filter(([name]) => name !== 'bootstrap'))
       await appendFile(process.env.GITHUB_OUTPUT, `${name}-artifact=${source.id}\n${name}-attempt=${source.attempt}\n`);
+  } else if (operation === 'source' && args.length === 2) {
+    const binding = JSON.parse(await readFile(args[0], 'utf8'));
+    const selected = await selectSourceCertificate({ engineRun: process.env.ENGINE_RUN, binding,
+      bootstrap: process.env.BOOTSTRAP === 'true', token: process.env.GH_TOKEN });
+    await writeFile(args[1], JSON.stringify(selected, null, 2) + '\n', { flag: 'wx' });
   } else if (operation === 'pair' && args.length === 3) {
     const [selection, certificate, manifest] = await Promise.all(args.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
     console.log(JSON.stringify(authorizePairing({ certificate, manifest, engineRun: selection.engine.metadata,
       expectedPlatforms: selection.engine.platforms })));
-  } else throw new Error('Usage: publication-source.mjs select OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
+  } else throw new Error('Usage: publication-source.mjs select OUTPUT | source BINDING OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
 }

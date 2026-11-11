@@ -22,7 +22,7 @@ This reference describes `DocumentationStore` in `Inno.Tooling.Documentation`. R
 | Member | Kind |
 | --- | --- |
 | [`IndexAsync`](#api-8f18acab1d71a98c) | Method |
-| [`OpenAsync`](#api-b8bc22b1f77b1b78) | Method |
+| [`OpenAsync`](#api-328ba8b8d1a3466a) | Method |
 
 ## Type declaration
 
@@ -37,7 +37,7 @@ Publishes immutable documentation generations and opens protected read-only snap
 No operation invokes an SDK, product build or network client.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L20).
 
 ## `IndexAsync`
 
@@ -72,15 +72,15 @@ and registration timing totals can overlap; PagePreparation reports their enclos
 **Throws `System.OperationCanceledException`:** Preparation is canceled. Completed immutable payloads remain registered for safe maintenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L63).
 
 ## `OpenAsync`
 
-<a id="api-b8bc22b1f77b1b78"></a>
-<!-- api: M:Inno.Tooling.Documentation.DocumentationStore.OpenAsync(System.String,System.String,System.String,System.Threading.CancellationToken) 00453d25efd80ca32248e6063e2cb311d9d671867883696dacec0f01fca65ebe -->
+<a id="api-328ba8b8d1a3466a"></a>
+<!-- api: M:Inno.Tooling.Documentation.DocumentationStore.OpenAsync(System.String,System.String,System.String,System.Threading.CancellationToken,Inno.Tooling.Documentation.DocumentationEvidence) c9af8d5f4083422c24b20185495d55f914ebcf26966df77e03a708fb8d9e4bd1 -->
 
 ```csharp
-public static System.Threading.Tasks.Task<Inno.Tooling.Documentation.DocumentationSnapshot> Inno.Tooling.Documentation.DocumentationStore.OpenAsync(string cacheRoot, string? snapshot = null, string? expectedSourceTree = null, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))
+public static System.Threading.Tasks.Task<Inno.Tooling.Documentation.DocumentationSnapshot> Inno.Tooling.Documentation.DocumentationStore.OpenAsync(string cacheRoot, string? snapshot = null, string? expectedSourceTree = null, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken), Inno.Tooling.Documentation.DocumentationEvidence? sourceEvidence = null)
 ```
 
 Opens one immutable generation without scanning authored content or acquiring an update lock.
@@ -93,6 +93,9 @@ Opens one immutable generation without scanning authored content or acquiring an
 
 **Parameter `cancellationToken`:** Cancels reading lease acquisition and manifest loading.
 
+**Parameter `sourceEvidence`:** Explicit certificate authenticated during preparation, or null for an unverified session.
+A certificate must cover the exact source tree and every protected API reference.
+
 **Returns:** A caller-owned query session. Dispose it after the final query to release its generation reading lease.
 
 **Throws `System.IO.IOException`:** The snapshot is missing, corrupt, outside its boundary or produced by an incompatible parser schema.
@@ -100,4 +103,4 @@ Opens one immutable generation without scanning authored content or acquiring an
 **Throws `System.OperationCanceledException`:** Reading acquisition is canceled.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L247).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationStore.cs#L251).

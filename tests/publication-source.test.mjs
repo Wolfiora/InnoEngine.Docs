@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { authorizeRun, authorizePairing } from '../scripts/publication-source.mjs';
+import { authorizeRun, authorizePairing, selectSourceCertificate } from '../scripts/publication-source.mjs';
 
 function source() {
   const repository = 'Wolfiora/InnoEngine.Docs';
@@ -63,3 +63,40 @@ for (const [name, mutate] of [
   ['another engine tree', f => { f.certificate[0].receipt.documentation.engineTree = 'f'.repeat(40); }],
   ['changed engine', f => { f.engineRun.head_sha = 'f'.repeat(40); }]
 ]) test(`rejects ${name} in publication pairing`, () => { const f = pair(); mutate(f); assert.throws(() => authorizePairing(f)); });
+
+for (const failure of [null, 'missing-source-artifact', 'failed-engine', 'wrong-revision']) {
+  test(`explicit source preparation ${failure ?? 'accepts an authenticated exact source certificate'}`, async () => {
+    const original = globalThis.fetch;
+    const commit = 'a'.repeat(40);
+    const repository = 'Wolfiora/InnoEngine';
+    const fixture = source();
+    Object.assign(fixture.run, { repository: { full_name: repository }, head_repository: { full_name: repository },
+      head_branch: 'ai-pipeline', path: '.github/workflows/rendering-ci.yml', head_sha: failure === 'wrong-revision' ? 'b'.repeat(40) : commit,
+      conclusion: failure === 'failed-engine' ? 'failure' : 'success' });
+    fixture.jobs[0].name = 'Engine validation';
+    fixture.artifacts[0].name = 'documentation-source-certification-attempt-2';
+    const requests = [];
+    globalThis.fetch = async (url, options) => {
+      requests.push(url);
+      assert.equal(options.redirect, 'error');
+      assert.equal(options.headers.Authorization, 'Bearer fixture-token');
+      const body = url.includes('/jobs?') ? { jobs: fixture.jobs }
+        : url.includes('/artifacts?') ? { artifacts: failure === 'missing-source-artifact' ? [] : fixture.artifacts }
+          : url.endsWith('/actions/runs/11') ? fixture.run : { default_branch: 'master' };
+      return { ok: true, json: async () => body };
+    };
+    try {
+      const request = selectSourceCertificate({ engineRun: '11', binding: { repository: 'https://github.com/Wolfiora/InnoEngine', revision: commit },
+        bootstrap: true, token: 'fixture-token' });
+      if (failure) await assert.rejects(request);
+      else {
+        const selection = await request;
+        assert.equal(selection.engine.id, 31);
+        assert.equal(selection.engine.digest, 'sha256:' + 'b'.repeat(64));
+        assert.equal(selection.engine.commit, commit);
+      }
+      assert.equal(requests.length, 4);
+      assert.ok(requests.every(url => url.startsWith('https://api.github.com/repos/Wolfiora/InnoEngine')));
+    } finally { globalThis.fetch = original; }
+  });
+}

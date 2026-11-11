@@ -10,7 +10,7 @@ contracts:
 ---
 # Inno.Tooling.Documentation types
 
-Browse the 13 types in this selected source reference. Start with the [shared contract](../../projects/inno-tooling-documentation.md#failure-and-ownership-boundaries) for lifecycle, ownership and availability.
+Browse the 14 types in this selected source reference. Start with the [shared contract](../../projects/inno-tooling-documentation.md#failure-and-ownership-boundaries) for lifecycle, ownership and availability.
 
 This index is derived from the bound API facts. It is secondary reference navigation, not an introduction to the engine or a source execution certificate.
 
@@ -20,6 +20,7 @@ This index is derived from the bound API facts. It is secondary reference naviga
 - [`DocumentationCodeBlockInfo`](documentationcodeblockinfo.md)
 - [`DocumentationCommand`](documentationcommand.md)
 - [`DocumentationContinuation`](documentationcontinuation.md)
+- [`DocumentationEvidence`](documentationevidence.md)
 - [`DocumentationExampleContext`](documentationexamplecontext.md)
 - [`DocumentationHit`](documentationhit.md)
 - [`DocumentationPageInfo`](documentationpageinfo.md)

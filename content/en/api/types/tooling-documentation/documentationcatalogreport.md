@@ -39,6 +39,7 @@ This reference describes `DocumentationCatalogReport` in `Inno.Tooling.Documenta
 | [`revision`](#api-ba5cabbbceeb31eb) | Property |
 | [`snapshot`](#api-75e7023d3eee1a49) | Property |
 | [`sourceApiStatus`](#api-3f5c7bd84dc91bb9) | Property |
+| [`sourceEvidenceIdentity`](#api-6af1ac47051c9a4f) | Property |
 | [`sourceTree`](#api-bdc15cf9c9b1ef9e) | Property |
 | [`toolingRevision`](#api-21718aadf34146b6) | Property |
 
@@ -75,7 +76,7 @@ Content identity excludes query implementation details; source verification rema
 **Parameter `references`:** Protected project/API payloads available from the same snapshot without returning to a mutable checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `#ctor`
 
@@ -110,7 +111,7 @@ Content identity excludes query implementation details; source verification rema
 **Parameter `references`:** Protected project/API payloads available from the same snapshot without returning to a mutable checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `Deconstruct`
 
@@ -123,7 +124,7 @@ public void Inno.Tooling.Documentation.DocumentationCatalogReport.Deconstruct(ou
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `Equals`
 
@@ -141,7 +142,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `Equals`
 
@@ -159,7 +160,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `GetHashCode`
 
@@ -175,7 +176,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `op_Equality`
 
@@ -188,7 +189,7 @@ public static bool Inno.Tooling.Documentation.DocumentationCatalogReport.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `op_Inequality`
 
@@ -201,7 +202,7 @@ public static bool Inno.Tooling.Documentation.DocumentationCatalogReport.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `ToString`
 
@@ -217,7 +218,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L39).
 
 ## `contentIdentity`
 
@@ -231,7 +232,7 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.contentIdent
 SHA-256 of sorted page paths and content hashes, independent of machine paths and query binaries.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L41).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L41).
 
 ## `pages`
 
@@ -245,7 +246,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Tooling.Documentation.Docum
 Parsed page facts in stable path order, including complete section and contract identities.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L48).
 
 ## `projects`
 
@@ -259,7 +260,7 @@ public System.Collections.Generic.IReadOnlyDictionary<string, string?> Inno.Tool
 Actual project identities mapped to their authoritative page identity; null identifies missing coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L47).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L47).
 
 ## `references`
 
@@ -273,7 +274,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Tooling.Documentation.Docum
 Protected project/API payloads available from the same snapshot without returning to a mutable checkout.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L49).
 
 ## `repository`
 
@@ -287,7 +288,7 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.repository {
 Source repository recorded in the selected binding.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L42).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L42).
 
 ## `revision`
 
@@ -301,7 +302,7 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.revision { g
 Exact engine source revision recorded in the selected binding.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L43).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L43).
 
 ## `snapshot`
 
@@ -315,7 +316,7 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.snapshot { g
 Exact query generation protected by the exporting session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L40).
 
 ## `sourceApiStatus`
 
@@ -329,7 +330,21 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.sourceApiSta
 Source API evidence state. Unverified must not be treated as a passed API check.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L46).
+
+## `sourceEvidenceIdentity`
+
+<a id="api-6af1ac47051c9a4f"></a>
+<!-- api: P:Inno.Tooling.Documentation.DocumentationCatalogReport.sourceEvidenceIdentity a06f6e5b691abacf9e2a7c2d38045514b8784d022eb0689b99720a6cf23533f6 -->
+
+```csharp
+public string? Inno.Tooling.Documentation.DocumentationCatalogReport.sourceEvidenceIdentity { get; init; }
+```
+
+Gets the matching trusted source certificate identity, or null for an unverified catalog.
+
+
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L54).
 
 ## `sourceTree`
 
@@ -343,7 +358,7 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.sourceTree {
 Engine source-tree identity; this value alone does not certify compatibility.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L44).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L44).
 
 ## `toolingRevision`
 
@@ -357,4 +372,4 @@ public string Inno.Tooling.Documentation.DocumentationCatalogReport.toolingRevis
 Tooling revision requested by the documentation source binding.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L45).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCatalogReport.cs#L45).

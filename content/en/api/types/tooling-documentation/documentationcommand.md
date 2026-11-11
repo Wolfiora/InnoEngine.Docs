@@ -35,7 +35,7 @@ public static class Inno.Tooling.Documentation.DocumentationCommand
 Adapts the shared documentation contracts to the existing Build command line.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L14).
 
 ## `ExecuteAsync`
 
@@ -51,6 +51,7 @@ Explicitly indexes a selected checkout or queries an already prepared immutable 
 **Parameter `arguments`:** index, search, read, symbol, resource, status or catalog followed by engine-root, cache-root, docs-root,
 snapshot, source-tree, query, page, project, surface, section, id, offset, limit and format as applicable.
 Index requires docs-root. Read-only commands reject docs-root rather than implicitly refreshing mutable content.
+Reads optionally accept evidence-file and evidence-sha256 selected by an authenticated preparation boundary.
 
 **Parameter `cancellationToken`:** Cancels preparation or reading while preserving the previous complete generation.
 
@@ -64,4 +65,4 @@ Partial results have explicit continuations and do not assert contract completen
 **Throws `System.OperationCanceledException`:** The caller cancels the operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/20ca428b9354c6ee587679cf323ee30c4fc1410f/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b6ce4456f5ac59715c4d76e3ba877ce5ed996e45/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L41).

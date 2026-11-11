@@ -11,11 +11,13 @@ Use the **Publish documentation** workflow to promote the exact output of a succ
 ## Prepare a publishable pair
 
 1. Complete the [engine and documentation pairing](pair-engine-documentation.md). The engine's actual Windows/macOS matrix must reconcile successfully against the selected documentation commit and content snapshot.
-2. Run Documentation on the Docs default branch, or explicitly select the approved development migration branch for bootstrap publication. A pull-request preview is useful for review but cannot become the public site.
+2. Dispatch Documentation with the successful engine run ID on the Docs default branch, or explicitly select the approved development migration branch and enable bootstrap. Preparation authenticates the engine's `documentation-source-certification-attempt-<attempt>` artifact before attaching its certificate to the canonical catalog. A pull-request preview is useful for review but cannot become the public site.
 3. Confirm that `Documentation validation` passes, including complete project/API coverage, matching source evidence, rendered output and browser journeys.
 4. Record the successful Docs run ID and exact commit, and the matching Engine CI run ID and exact engine candidate commit.
 
 The successful producer retains `documentation-site-attempt-<attempt>` for 90 days. Its `publication.json` records the source binding and every static file's SHA-256. Preview and diagnostic artifacts do not substitute for this verified artifact.
+
+Source certificates cover the exact engine source tree, project inventory and every captured API reference by owner, target and configuration. Missing comparison coverage produces a blocked source status and no certificate. A successful rendering or a user-edited verification label cannot replace that evidence. Pull-request jobs never obtain the installation credential; the explicitly dispatched producer imports authenticated evidence through the separate preparation boundary.
 
 ## Configure evidence access once
 
