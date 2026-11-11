@@ -24,7 +24,7 @@ Small-scale decomposition returns false, and near-singular inversion returns ide
 
 Color construction clamps channels, but byte conversion assumes already normalized finite fields. `ToUInt32ARGB` currently produces numeric `0xAABBGGRR`; it does not perform color-space or alpha-convention conversion. SIMD acceleration is an implementation choice, not a new ownership or precision contract.
 
-The Runtime script export declarations select the main math types under `InnoEngine.Mathematics`; the lower-level `SimdMath` helper is a host CLR surface. This CLR inventory is not a script compilation or platform execution certificate.
+The Runtime script export declarations select the main math types under `InnoEngine.Mathematics`; the lower-level `SimdMath` helper is an internal implementation detail, not a public API. This CLR inventory is not a script compilation or platform execution certificate.
 
 ## API reference
 
