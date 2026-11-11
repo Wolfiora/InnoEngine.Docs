@@ -8,6 +8,8 @@ Use the pinned engine source for declarations and XML, the engine's actual manif
 
 Each API manifest records its captured source revision and tree independently of the current documentation candidate. Preserve those immutable source links when unchanged facts are reused. Changing the candidate revision alone must not rewrite every API page. Revalidate compatibility against the new engine input before certifying it; old captured facts or a matching declaration hash alone do not establish current source behavior. When extraction changes, bind the new facts and their actual capture provenance together.
 
+Write derived project/API JSON with canonical UTF-8 and LF line endings before hashing it. A locally matching hash is insufficient if Git normalizes different bytes at commit time. Preserve original licensed asset bytes through the declared binary/non-text attributes and verify their provenance hashes; do not normalize legal payloads to satisfy the derived-fact rule.
+
 ## Page purpose
 
 Every page has one primary purpose: landing, tutorial, how-to, explanation, project overview, API reference, or troubleshooting. Begin with what the reader can learn or accomplish. Use one H1, meaningful section headings, focused paragraphs, and descriptive links. Do not create empty template sections.

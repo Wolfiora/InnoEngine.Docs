@@ -14,6 +14,7 @@ export async function checkProjection({ root, catalog, site, complete = false })
   const errors = [];
   const binding = JSON.parse(await readOwned(root, 'reference/engine.lock.json'));
   const projectsBytes = await readOwned(root, binding.projectManifest);
+  if (projectsBytes.includes(13)) errors.push('Project manifest must use canonical LF bytes before its identity is recorded.');
   const projects = JSON.parse(projectsBytes);
   if (digest(projectsBytes) !== binding.projectManifestIdentity) errors.push('Project manifest identity differs from engine.lock.json.');
   for (const field of ['repository', 'revision', 'sourceTree', 'toolingRevision']) {
@@ -114,6 +115,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
       errors.push(`API manifest requires its captured source revision and tree: ${reference.path}.`);
     }
     const bytes = await readOwned(root, reference.path);
+    if (bytes.includes(13)) errors.push(`API manifest must use canonical LF bytes: ${reference.path}.`);
     if (digest(bytes) !== reference.sha256) {
       errors.push(`API manifest identity differs: ${reference.path}.`);
       continue;

@@ -70,6 +70,17 @@ test('navigation, binding and project manifest tampering fail independently', as
   assert.match(result.errors.join('\n'), /Missing navigation route/);
 });
 
+test('a matching local hash cannot certify a project manifest that Git will normalize', async (t) => {
+  const f = await fixture(t);
+  const bytes = '[\r\n{"name":"Probe","path":"src/Probe.csproj","entry":null,"surfaces":[]}\r\n]';
+  f.binding.projectManifestIdentity = digest(bytes);
+  await f.write('reference/projects.json', bytes);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  const result = await checkProjection(f);
+  assert.match(result.errors.join('\n'), /canonical LF bytes/);
+  assert.doesNotMatch(result.errors.join('\n'), /Project manifest identity differs/);
+});
+
 test('missing project coverage remains visible and cannot certify complete publication', async (t) => {
   const f = await fixture(t);
   f.catalog.projects.Probe = null;
