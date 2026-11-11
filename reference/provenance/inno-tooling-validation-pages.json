@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Tooling.Validation",
+  "outputDirectory": "content/en/api/types/development-entries/inno-tooling-validation",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/development-entries.json",
+  "factsIdentity": "f21aeb71601cdfcd2debf8fd48a0356b49f75d7d78290c159c19a1a7b3111122",
+  "sharedContract": "project.inno-tooling-validation",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/development-entries/inno-tooling-validation/validationcommand.md",
+      "sha256": "20b37f692486f96281d85f8598aaed561845ba88ed50b8c3860163aea6df7b0e"
+    },
+    {
+      "path": "content/en/api/types/development-entries/inno-tooling-validation/index.md",
+      "sha256": "4baf7e40788f43b2540ab8d1ddde034a2b6028de347947d7f75e62084c1c0872"
+    }
+  ]
+}

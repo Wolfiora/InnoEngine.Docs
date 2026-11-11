@@ -119,6 +119,7 @@
     - slug: architecture/script-reload
     - slug: architecture/render-frame
     - slug: architecture/shader-ir
+    - slug: architecture/validation-evidence
 - label: Extending InnoEngine
   items:
     - slug: extending/asset-importers
@@ -211,6 +212,9 @@
         - slug: api/projects/inno-build-cli
         - slug: api/projects/inno-build-distribution-standard
         - slug: api/projects/inno-tooling-architecture
+        - slug: api/projects/inno-tooling-validation
+        - slug: api/projects/innoengine-build
+        - slug: api/projects/innoengine-editor
     - slug: api/projects/inno-editor-panel-logging
     - label: Editor framework reference
       items:
@@ -305,7 +309,9 @@
 - label: Contributing
   items:
     - slug: contributing
+    - slug: contributing/development-entries
     - slug: contributing/validate-change
+    - slug: contributing/product-journeys
     - slug: contributing/testing
     - slug: contributing/documentation-queries
     - slug: contributing/example-validation

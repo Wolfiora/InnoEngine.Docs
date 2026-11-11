@@ -41,6 +41,8 @@ Use `validate full` when full acceptance is explicitly required. It is not the d
 
 ## Understand the evidence layers
 
+Read [validation inputs and evidence](../architecture/validation-evidence.md) for dependency selection, build unions and result freshness. [Product journeys](product-journeys.md) explain the separate obligations for process exit and lifetime sampling.
+
 | Layer | What it establishes |
 | --- | --- |
 | Static/policy | Source, architecture, instructions and document constraints. |

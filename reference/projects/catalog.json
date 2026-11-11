@@ -390,14 +390,18 @@
     "name": "InnoEngine.Build",
     "path": "entry/InnoEngine.Build/InnoEngine.Build.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "InnoEngine.Editor",
     "path": "entry/InnoEngine.Editor/InnoEngine.Editor.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -2024,7 +2028,9 @@
     "name": "Inno.Tooling.Validation",
     "path": "tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   }
 ]

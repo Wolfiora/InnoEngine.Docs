@@ -1,0 +1,56 @@
+{
+  "model": "source-clr",
+  "configuration": "Debug",
+  "target": null,
+  "sourceApiStatus": "Unverified",
+  "projects": [
+    {
+      "project": "entry/InnoEngine.Build/InnoEngine.Build.csproj",
+      "name": "InnoEngine.Build",
+      "symbols": []
+    },
+    {
+      "project": "entry/InnoEngine.Editor/InnoEngine.Editor.csproj",
+      "name": "InnoEngine.Editor",
+      "symbols": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj",
+      "name": "Inno.Tooling.Validation",
+      "symbols": [
+        {
+          "project": "Inno.Tooling.Validation",
+          "id": "T:Inno.Tooling.Validation.ValidationCommand",
+          "signature": "public static class Inno.Tooling.Validation.ValidationCommand",
+          "signatureHash": "0253332414abf0d30d3c1e9deaf9e45ac081661bcecb4b2bf6a99d4d3ec3a864",
+          "source": "tools/Inno.Tooling.Validation/ValidationCommand.cs",
+          "line": 15,
+          "page": "",
+          "documentation": "<member name=\"T:Inno.Tooling.Validation.ValidationCommand\">\r\n    <summary>\r\n    Provides repository validation planning, execution and evidence reconciliation to the existing Build entry.\r\n    </summary>\r\n</member>\r\n",
+          "implicitDeclaration": false,
+          "constantValue": null,
+          "kind": "NamedType",
+          "containingType": null,
+          "baseType": "object",
+          "interfaces": []
+        },
+        {
+          "project": "Inno.Tooling.Validation",
+          "id": "M:Inno.Tooling.Validation.ValidationCommand.ExecuteAsync(System.String[],System.Threading.CancellationToken)",
+          "signature": "public static System.Threading.Tasks.Task<int> Inno.Tooling.Validation.ValidationCommand.ExecuteAsync(string[] arguments, System.Threading.CancellationToken cancellationToken = default(System.Threading.CancellationToken))",
+          "signatureHash": "c89fe80bda2a1d8c91cd0790bb909429696aeddd0d61054d87c277467842a71c",
+          "source": "tools/Inno.Tooling.Validation/ValidationCommand.cs",
+          "line": 39,
+          "page": "",
+          "documentation": "<member name=\"M:Inno.Tooling.Validation.ValidationCommand.ExecuteAsync(System.String[],System.Threading.CancellationToken)\">\r\n    <summary>\r\n    Executes an explicit plan, run, full or evidence operation and persists inspectable results.\r\n    </summary>\r\n    <param name=\"arguments\">\r\n    The operation followed by explicit engine-root, base, dotnet, configuration, artifacts-path, output, plan,\r\n    evidence, full, extended, cache-input or cache-output options. Cache archives contain immutable native payloads only.\r\n    </param>\r\n    <param name=\"cancellationToken\">\r\n    Cancels child processes while retaining the first failure and completed diagnostics.\r\n    </param>\r\n    <returns>\r\n    Zero only when the requested operation succeeds and every required result is present and successful; otherwise one.\r\n    </returns>\r\n    <exception cref=\"T:System.ArgumentException\">\r\n    An operation or option is unknown, duplicated or missing its value.\r\n    </exception>\r\n    <exception cref=\"T:System.OperationCanceledException\">\r\n    The caller cancels validation.\r\n    </exception>\r\n    <exception cref=\"T:System.IO.InvalidDataException\">\r\n    A supplied plan or evidence record is invalid or does not describe the current input.\r\n    </exception>\r\n</member>\r\n",
+          "implicitDeclaration": false,
+          "constantValue": null,
+          "kind": "Method",
+          "containingType": "T:Inno.Tooling.Validation.ValidationCommand",
+          "baseType": null,
+          "interfaces": []
+        }
+      ]
+    }
+  ]
+}
