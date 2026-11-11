@@ -29,6 +29,10 @@
         - slug: manual/data/query-objects
         - slug: manual/data/preserve-graph
         - slug: manual/math/transform-values
+    - label: Extension discovery and reload
+      items:
+        - slug: manual/extensions/find-types
+        - slug: manual/extensions/diagnose-reload
     - label: Serialization and reload
       items:
         - slug: manual/serialization/save-state
@@ -64,6 +68,7 @@
     - slug: architecture/overview
     - slug: architecture/ownership
     - slug: architecture/serialization
+    - slug: architecture/generation-publication
     - slug: architecture/execution-and-retirement
     - slug: architecture/build-artifacts
     - slug: architecture/editor-generations
@@ -90,6 +95,9 @@
     - slug: extending/lifecycle-layers
     - slug: extending/serialization-converters
     - slug: extending/serialization-metadata
+    - slug: extending/type-registries
+    - slug: extending/module-sources
+    - slug: extending/static-type-catalogs
 - label: Platforms & Backends
   items:
     - slug: platforms
@@ -103,6 +111,12 @@
   items:
     - slug: api
     - slug: api/projects/inno-tooling-documentation
+    - label: Extensibility reference
+      items:
+        - slug: api/projects/inno-extensibility-catalogs
+        - slug: api/projects/inno-extensibility-modules
+        - slug: api/projects/inno-extensibility-types
+        - slug: api/projects/inno-extensibility-reload
     - label: Serialization reference
       items:
         - slug: api/projects/inno-core-serialization

@@ -53,3 +53,7 @@ See [ownership](../architecture/ownership.md) for shared lifecycle obligations a
 ## Serialization extensions
 
 [Implement an explicit converter](serialization-converters.md) for domain schemas and references, or [supply generated metadata](serialization-metadata.md) for static deployment.
+
+## Code and discovery composition
+
+[Compose module sources](module-sources.md), [contribute static type facts](static-type-catalogs.md), and [build an owned extension registry](type-registries.md) through the shared generation protocol.

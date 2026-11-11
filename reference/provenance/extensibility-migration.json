@@ -1,0 +1,120 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
+  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "ModuleHost consumes an explicit source; Foundation does not promise shadow copies or an implicit owning load context.",
+    "Type snapshots retain consistent declarations and must be released; stable TypeRef values do not retain their resolved CLR type.",
+    "Synchronous operation protection and strict asynchronous Build/Export admission are different capabilities.",
+    "Pending retirement retains dependency owners and is not interchangeable with an ordinary cleanup exception."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Catalogs.md",
+      "sourceSha256": "cf0991ae57e60af70c4ab4761162fd79dd3e160697a069a91d35a1d0d5af228a",
+      "project": "Inno.Extensibility.Catalogs",
+      "destinations": [
+        "content/en/extending/static-type-catalogs.md",
+        "content/en/api/projects/inno-extensibility-catalogs.md"
+      ],
+      "baselineSymbols": 12,
+      "currentSymbols": 12,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Modules.md",
+      "sourceSha256": "db3480f9ee2a9b47aa8f922bc8e796fa18abd59931aee2d9d964b4c7903f1b5e",
+      "project": "Inno.Extensibility.Modules",
+      "destinations": [
+        "content/en/extending/module-sources.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-modules.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 128,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Modules/api.md",
+      "sourceSha256": "75cbdf536308a399e66c6d51e3faa1a2029cbd44927788f7937d391b1e5c3d14",
+      "project": "Inno.Extensibility.Modules",
+      "destinations": [
+        "content/en/extending/module-sources.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-modules.md"
+      ],
+      "baselineSymbols": 128,
+      "currentSymbols": 128,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Reload.md",
+      "sourceSha256": "617d6a35b8a26347d31a3fab6ee7b8908a041f53e898b1ea1fb2512474e45882",
+      "project": "Inno.Extensibility.Reload",
+      "destinations": [
+        "content/en/manual/extensions/diagnose-reload.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-reload.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 53,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Reload/api.md",
+      "sourceSha256": "a23d8bde2174cd0079dda24c17cca67a243d843f9604e44e4df47f2547484c7e",
+      "project": "Inno.Extensibility.Reload",
+      "destinations": [
+        "content/en/manual/extensions/diagnose-reload.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-reload.md"
+      ],
+      "baselineSymbols": 53,
+      "currentSymbols": 53,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Types.md",
+      "sourceSha256": "e5545f6e4f27a2ceebc11380af220ac74b4b18049339ddc103a4821b2c31b1b3",
+      "project": "Inno.Extensibility.Types",
+      "destinations": [
+        "content/en/manual/extensions/find-types.md",
+        "content/en/extending/type-registries.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-types.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 75,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/extensibility/Inno.Extensibility.Types/api.md",
+      "sourceSha256": "189ad9f563cc1b4d8fd8d0b67b63cf7b86b5180dabdf8f331c40e192ab75638f",
+      "project": "Inno.Extensibility.Types",
+      "destinations": [
+        "content/en/manual/extensions/find-types.md",
+        "content/en/extending/type-registries.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/api/projects/inno-extensibility-types.md"
+      ],
+      "baselineSymbols": 75,
+      "currentSymbols": 75,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    }
+  ]
+}

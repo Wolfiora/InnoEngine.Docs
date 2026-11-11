@@ -1,0 +1,94 @@
+{
+  "project": "Inno.Extensibility.Modules",
+  "outputDirectory": "content/en/api/types/extensibility-modules",
+  "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
+  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "facts": "reference/api/extensibility.json",
+  "factsIdentity": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
+  "sharedContract": "project.inno-extensibility-modules#source-and-publication-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblycatalogsnapshot.md",
+      "sha256": "eedc7f4118b684e62d611baf53813ed455d804348735450bd4fd88d51835dd2a"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblydomain.md",
+      "sha256": "00a3427ed55a76990fdfd4f563bcb19820f508c914f6bde2d6fa11e08eb07802"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblyextensions.md",
+      "sha256": "9ddc598870d83a9b9e2e5636a658825f3544754e9053ad716f2088a752f8f3a2"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblymodulehandle.md",
+      "sha256": "ad88d638fef667c958f0888a62512910e2376d603bee78fb53f526110ec21379"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblymoduleinfo.md",
+      "sha256": "4b75f26308cb7b42ea748ea594ad5390ac341101ba43315412a9f7ec8a8b63d8"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblymodulestatus.md",
+      "sha256": "54a6523c6b6d0b0ec904b2ed6b0c8ebc27d9db031aafd9b632df3edf3c2d039e"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblyreloadcontext.md",
+      "sha256": "0a9060705412eaf4a80b8178468f10276d7335f9db7cf445488d5bfecaa09389"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblyreloadsession.md",
+      "sha256": "481e3f0f01a327d30afb85c849f70bd4e048519696138f5b375ac1a69818723c"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/assemblyscope.md",
+      "sha256": "f8c10e8f4f2b2077f57ff2ae1a86d069588f617b6b0e7325af7e9613f974d813"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/iassemblycatalogparticipant.md",
+      "sha256": "6e6ae640d541030b1c0af443c361e72136fbb2c5ae927c4cd965994472e261af"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/iassemblycatalogsource.md",
+      "sha256": "8e264a68313eaa632924e3252d1cc0349e4c0781038d255ab69e8ebf4217e1b8"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/iassemblycatalogtransaction.md",
+      "sha256": "84834bcdb7b36321991efc0653c2d1e48ff729798e77c0ef111481e4276d3e19"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/imodulelifetime.md",
+      "sha256": "3fb8cef3db52fcdef1a2776f847883b2282fe53ce8475579afea5f9a16436a83"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/imodulesource.md",
+      "sha256": "719c2d2115007f10909b76f1c406503cbb43243757c8d97da6f2176bd06d510a"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/moduleassemblydescriptor.md",
+      "sha256": "be01361e6dd80ddc9b19932333f268454112442953dc668fd483fece005098bd"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/modulecatalogcontribution.md",
+      "sha256": "869b7e924d966cf3f95f92a81e7562709bc1d2824d07ff0aeeccb85588544a16"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/modulehost.md",
+      "sha256": "5e7db72430b462080e48a1c3827cfb7b6e4118c2e4db19c5950e4169a5461887"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/modulehostoptions.md",
+      "sha256": "0cf8dabce6cbeaa762eb4334600a34dd275fb95cce3e174c660dc15f50afafc9"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/modulesourcecontext.md",
+      "sha256": "7529e642fd8fcc7dc9b224010b8b58cb635d050ed751b93228968e00fd6c7647"
+    },
+    {
+      "path": "content/en/api/types/extensibility-modules/index.md",
+      "sha256": "6cfb59ab693fb4013246a86cbd9d580fe444d614410e08c73f680bb96c405505"
+    }
+  ]
+}

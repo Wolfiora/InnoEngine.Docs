@@ -73,3 +73,7 @@ The [API reference](../api/index.md) distinguishes host, script, backend/native,
 ## Serialization and reload
 
 [Save declared state](serialization/save-state.md), [restore independent properties across a reload](serialization/restore-properties.md), and [reuse immutable captures](serialization/capture-snapshots.md) while preserving generation ownership.
+
+## Extension discovery and reload
+
+[Find current extension types](extensions/find-types.md) without retaining old generations, and [diagnose reload failures](extensions/diagnose-reload.md) through the actual owner and admission state.
