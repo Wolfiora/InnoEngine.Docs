@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Canonical documentation cutover](CANONICAL_CUTOVER_2026_11_12.md): retired engine documentation, refreshed tool reference, source dispositions and rendered projection.
+
 - [UI and RmlUi migration](UI_RMLUI_2026_11_11.md): actual document/import/rendering boundaries, declaration preservation, script compilation and retained indexing regression.
 
 Evidence is scoped to its recorded inputs and environment. Generated page counts, source declarations and local previews do not establish complete semantic review, cross-platform execution or production publication.

@@ -37,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
 
 ## `ExportApi`
 
@@ -69,7 +69,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
 
 ## `ExportProjects`
 
@@ -97,7 +97,7 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L292).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L292).
 
 ## `ValidateApiAsync`
 
@@ -134,4 +134,4 @@ certify authored prose, script projections, examples, other targets or publicati
 **Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L121).

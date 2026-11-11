@@ -78,6 +78,11 @@ export async function checkMigration({ root, engineRoot }) {
   for (const item of records) {
     const original = payloads.get(item.source);
     if (!original) continue;
+    const retiredPath = path.resolve(engineRoot, item.source);
+    try {
+      await lstat(retiredPath);
+      errors.push(`Retired engine documentation still exists: ${item.source}`);
+    } catch (error) { if (error.code !== 'ENOENT' && error.code !== 'ENOTDIR') throw error; }
     if (item.baselineBlobSha256 !== hash(original) || item.baselineBlobBytes !== original.length) errors.push(`Original Git bytes are not correctly registered: ${item.source}`);
     const targets = Array.isArray(item.target) ? item.target : [item.target];
     if (!targets.length || targets.some((target) => typeof target !== 'string' || !target)) { errors.push(`Missing destination: ${item.source}`); continue; }
@@ -88,7 +93,7 @@ export async function checkMigration({ root, engineRoot }) {
           if (!original.equals(await ownedFile(engineRoot, target))) throw new Error('Historical payload bytes changed.');
         }
         archived++;
-      } else if (item.disposition === 'ApprovedNativeApiRetirementAwaitingCutover' || item.disposition === 'RetiredGeneratedBindingReferenceByUserScopeAwaitingCutover') {
+      } else if (item.disposition === 'ApprovedNativeApiRetirementCutOver' || item.disposition === 'RetiredGeneratedBindingReferenceByUserScopeCutOver') {
         const owner = projects.find((project) => {
           const prefix = `docs/backends/${project.path.split('/')[1]}/${project.name}`;
           return project.apiDocumentation === 'backend-native' &&
@@ -98,7 +103,7 @@ export async function checkMigration({ root, engineRoot }) {
         if (!item.scopeAmendment) throw new Error('Native retirement lacks its explicit scope decision.');
         retired++;
       } else {
-        if (!['ReviewedDestinationAwaitingCutover', 'ReviewedEnglishDocumentationAwaitingCutover', 'ReviewedIntegrationOverviewAwaitingCutover', 'ReviewedNarrativeTargetCaptureBlocked'].includes(item.disposition)) {
+        if (!['ReviewedDestinationCutOver', 'ReviewedEnglishDocumentationCutOver', 'ReviewedIntegrationOverviewCutOver', 'ReviewedNarrativeTargetCaptureBlocked'].includes(item.disposition)) {
           throw new Error(`Unreviewed or unknown disposition: ${item.disposition}`);
         }
         for (const target of targets) await requireDestination(target, item.source);
@@ -108,7 +113,7 @@ export async function checkMigration({ root, engineRoot }) {
   }
   return { status: errors.length ? 'Failed' : 'DispositionVerified', baseline: registry.baseline,
     originals: originals.length, reviewed, retired, archived, sourceApiStatus: 'Unverified',
-    scope: 'Baseline identity, declared disposition, current destinations and historical payload preservation; not semantic API certification or legacy cutover.', errors };
+    scope: 'Baseline identity, retired source paths, declared dispositions, current destinations and historical payload preservation; not semantic API certification.', errors };
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

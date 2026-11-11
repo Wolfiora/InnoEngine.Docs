@@ -40,6 +40,26 @@ test('available projection is distinct from source API and complete publication 
   assert.match(complete.errors.join('\n'), /Unverified/);
 });
 
+for (const [content, rejected] of [
+  ['Inno.Canvas', true], ['InnoEngine.Rendering2D', true], ['Serialization/Rendering2D', true],
+  ['innoengine.canvas/README.md', true], ['Browser Canvas and .iplugin use Inno.Plugins.', false],
+  ['entry/Rebuild/Program.cs', true], ['Inno.Build.Cli engine', true], ['InnoEngine.Build.dll rebuild', true],
+  ['dotnet build/cli/Inno.Build.Cli/bin/Release/net10.0/Inno.Build.Cli.dll game', true],
+  ['Inno.Build.Cli.dll contains the public BuildApplication contract.', false],
+  ['Rebuild the registry after generation activation.', false],
+  ['Build and launch the normal InnoEngine Editor entry point.', false],
+  ['dotnet run --project "InnoEngine Editor"', true]
+]) {
+  test(`engine content boundary: ${content}`, async (t) => {
+    const f = await fixture(t);
+    const text = '# Probe\n\n' + content + '\n';
+    await f.write('content/en/index.md', text);
+    f.catalog.pages[0].contentIdentity = digest(text);
+    const result = await checkProjection(f);
+    assert.equal(result.errors.some((error) => error.includes('external consumer reference')), rejected);
+  });
+}
+
 test('same-size edits and new files invalidate canonical content without timestamps', async (t) => {
   const f = await fixture(t);
   await f.write('content/en/index.md', '# Probe\n\nA useful introductioN.\n');

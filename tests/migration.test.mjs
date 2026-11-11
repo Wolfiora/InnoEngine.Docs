@@ -33,8 +33,9 @@ async function fixture(t) {
     source, sha256: 'preserved earlier checkout identity',
     baselineBlobSha256: createHash('sha256').update(bytes).digest('hex'), baselineBlobBytes: bytes.length
   })) };
-  Object.assign(registry.files[0], { disposition: 'ReviewedDestinationAwaitingCutover', target: 'InnoEngine.Docs/content/en/guide.md' });
-  Object.assign(registry.files[1], { disposition: 'ApprovedNativeApiRetirementAwaitingCutover', scopeAmendment: 'User-approved engine-only scope.', target: 'decision' });
+  for (const [name] of originals) await rm(path.join(engineRoot, name));
+  Object.assign(registry.files[0], { disposition: 'ReviewedDestinationCutOver', target: 'InnoEngine.Docs/content/en/guide.md' });
+  Object.assign(registry.files[1], { disposition: 'ApprovedNativeApiRetirementCutOver', scopeAmendment: 'User-approved engine-only scope.', target: 'decision' });
   Object.assign(registry.files[2], { disposition: 'PreservedHistoricalEvidence', target: '.agents/records/history/probe.png' });
   await write(engineRoot, '.agents/records/history/probe.png', originals[2][1]);
   await write(root, 'content/en/guide.md', '# Current guide\n\nRead this task.\n');
@@ -53,7 +54,7 @@ test('exact dispositions and historical bytes do not assert source certification
   assert.equal(result.sourceApiStatus, 'Unverified');
 });
 
-for (const mutation of ['missing', 'duplicate', 'wrong-blob', 'changed-evidence', 'wrong-retirement', 'missing-destination', 'escape']) {
+for (const mutation of ['missing', 'duplicate', 'wrong-blob', 'changed-evidence', 'wrong-retirement', 'missing-destination', 'escape', 'retained-source']) {
   test(`reject ${mutation} migration evidence`, async (t) => {
     const f = await fixture(t);
     switch (mutation) {
@@ -61,9 +62,10 @@ for (const mutation of ['missing', 'duplicate', 'wrong-blob', 'changed-evidence'
       case 'duplicate': f.registry.files.push(f.registry.files[0]); break;
       case 'wrong-blob': f.registry.files[0].baselineBlobSha256 = 'a'.repeat(64); break;
       case 'changed-evidence': await f.write(f.engineRoot, '.agents/records/history/probe.png', 'different bytes'); break;
-      case 'wrong-retirement': f.registry.files[0].disposition = 'ApprovedNativeApiRetirementAwaitingCutover'; break;
+      case 'wrong-retirement': f.registry.files[0].disposition = 'ApprovedNativeApiRetirementCutOver'; break;
       case 'missing-destination': f.registry.files[0].target = 'content/en/missing.md'; break;
       case 'escape': f.registry.files[0].target = 'content/en/../../../outside.md'; break;
+      case 'retained-source': await f.write(f.engineRoot, 'docs/guide.md', '# Still duplicated'); break;
     }
     await f.save();
     assert.equal((await checkMigration(f)).status, 'Failed');

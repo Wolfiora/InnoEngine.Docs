@@ -35,7 +35,7 @@ public static class Inno.Tooling.Architecture.ArchitectureValidator
 Checks repository dependency, API documentation and source ownership invariants.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
 
 ## `Execute`
 
@@ -49,9 +49,7 @@ public static int Inno.Tooling.Architecture.ArchitectureValidator.Execute(string
 Executes repository validation or an explicitly requested documentation maintenance operation.
 
 **Parameter `arguments`:** The optional repository path, configuration, XML maintenance flag, explicit SDK, evaluated graph output,
-and Wiki inventories with explicitly selected runtime and editor script reference assemblies.
---wiki-target limits product compilation to that explicit target; shared Wiki checks remain complete.
---wiki-contracts-only checks signatures and examples; repository structure and links require separate documentation evidence.
+selected API owners and an optional prepared SDK snapshot. Product documentation is validated by the docs command group.
 
 **Parameter `cancellationToken`:** Cancels owned SDK evaluation processes and drains them before returning.
 
@@ -63,7 +61,7 @@ and Wiki inventories with explicitly selected runtime and editor script referenc
 
 **Throws `System.OperationCanceledException`:** The caller cancels evaluated SDK project inspection.
 
-**Throws `System.IO.InvalidDataException`:** A selected Wiki script reference is not the declared logical API assembly.
+**Throws `System.IO.InvalidDataException`:** A prepared SDK snapshot or evaluated source contract is invalid.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/b8d6c801595a5fc719c651b451123191ef4dd07f/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L63).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L61).

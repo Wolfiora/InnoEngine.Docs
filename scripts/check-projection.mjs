@@ -42,7 +42,12 @@ export async function checkProjection({ root, catalog, site, complete = false })
     if (identities.has(page.id)) errors.push(`Duplicate canonical page identity: ${page.id}.`);
     identities.add(page.id);
     const source = inside(root, page.path);
-    if (digest(await readFile(source)) !== page.contentIdentity) errors.push(`Stale canonical content: ${page.path}.`);
+    const sourceBytes = await readFile(source);
+    if (digest(sourceBytes) !== page.contentIdentity) errors.push(`Stale canonical content: ${page.path}.`);
+    const text = sourceBytes.toString('utf8');
+    const externalConsumer = /\bInno(?:Engine)?[./\\](?:Canvas|Rendering2D|Samples)\b|\bRendering2D\b|\bFlappyBird\b|\bCamera2D\b|\bSpriteShaderPreview\b/i;
+    const removedEntry = /--project\s+["']?InnoEngine (?:Editor|Rebuild)\b|InnoEngine\.Rebuild|entry[/\\](?:Editor|Rebuild)[/\\]|RunRebuildAsync|-- (?:engine|rebuild)\b|\b(?:Inno\.Build\.Cli|InnoEngine\.Build)(?:\.dll)?\s+(?:engine|rebuild)\b|\bdotnet\s+(?:[^\r\n]*[/\\])?Inno\.Build\.Cli\.dll\b/;
+    if (externalConsumer.test(text) || removedEntry.test(text)) errors.push(`Removed entry or external consumer reference: ${page.path}.`);
     const slug = route(page.path);
     if (pages.has(slug)) errors.push(`Duplicate website route: ${slug}.`);
     pages.set(slug, page);
