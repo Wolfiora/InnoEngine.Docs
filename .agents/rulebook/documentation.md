@@ -28,6 +28,8 @@ The user-approved scope is the engine, not a mirror of third-party native librar
 
 Preserve all selected engine public and relevant protected symbols, overloads, nullable annotations, default values, generic constraints and inherited contracts. Script-projected engine APIs remain distinct from host APIs. Explain parameters, results, observable failures, and lifecycle obligations. Group genuinely shared contracts explicitly instead of repeating generic filler.
 
+A managed backend can contain an upstream-generated constant catalog alongside engine contracts. Keep its full extraction facts. A reviewed `apiCatalogExclusions` entry in the same bound project inventory may exclude that source's catalog reference only when its exact source capture, source hash, declaration identity/count, upstream origin and rationale are recorded. The shared scope selector rejects changed declarations, executable contracts, partial-type splits, escaping paths and test owners. The report enumerates excluded identities; adjacent managed adapter contracts and concise engine-specific usage remain required. This is not an arbitrary skip-public-API facility or source behavior certification.
+
 Use compact member summaries and readable detail sections. Long signatures scroll independently; long prose does not belong in wide tables. Missing semantics remain visible work, not a successful coverage claim.
 
 ## Links and migration

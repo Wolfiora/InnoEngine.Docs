@@ -5,6 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
+import { selectDocumentedSymbols } from './api-scope.mjs';
 
 const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
@@ -118,6 +119,7 @@ async function checkLicenseProvenance(root, errors) {
 async function checkApiReferences(root, binding, catalog, projects, errors) {
   const expected = new Map();
   const observed = new Map();
+  const excludedCatalogSymbols = [];
   const key = (project, surface, id) => `${project}\0${surface}\0${id}`;
   for (const reference of binding.apiManifests ?? []) {
     if (!/^[a-f0-9]{40}$/.test(reference.sourceRevision ?? '') || !/^[a-f0-9]{40}$/.test(reference.sourceTree ?? '')) {
@@ -145,10 +147,20 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
         errors.push(`Backend-native API is outside the approved engine documentation scope: ${project.name}.`);
         continue;
       }
+      let selected;
+      try {
+        selected = selectDocumentedSymbols(project, source, reference);
+      } catch (error) {
+        errors.push(error.message);
+        continue;
+      }
+      excludedCatalogSymbols.push(...selected.excluded.map(symbol => ({ project: project.name, ...symbol })));
       for (const symbol of project.symbols) {
+        if (digest(symbol.signature) !== symbol.signatureHash) errors.push(`Extracted signature hash is invalid: ${symbol.id}.`);
+      }
+      for (const symbol of selected.symbols) {
         const identity = key(project.name, facts.model, symbol.id);
         if (expected.has(identity)) errors.push(`Duplicate extracted API contract: ${symbol.id}.`);
-        if (digest(symbol.signature) !== symbol.signatureHash) errors.push(`Extracted signature hash is invalid: ${symbol.id}.`);
         expected.set(identity, symbol);
       }
     }
@@ -170,6 +182,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
     if (!observed.has(identity)) errors.push(`Extracted API has no authored contract: ${symbol.id}.`);
   }
   return { extractedSymbols: expected.size, authoredSymbols: observed.size,
+    excludedCatalogSymbols,
     excludedNativeProjects: projects.filter(project => project.apiDocumentation === 'backend-native').map(project => project.name),
     scope: 'Bound engine declarations only; backend-native and generated binding references are excluded by the approved scope. Source execution, script projections and semantic prose review remain separate.' };
 }

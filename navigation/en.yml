@@ -193,6 +193,7 @@
     - slug: backends/dotnet-publishing
     - slug: backends/file-content-cache
     - slug: backends/imgui-rendering
+    - slug: backends/imgui-context
     - slug: backends/sdl3
     - slug: backends/miniaudio
     - slug: backends/text
@@ -363,6 +364,7 @@
         - slug: api/projects/inno-build-toolchains-imgui
         - slug: api/projects/inno-build-toolchains-imguizmo
         - slug: api/projects/inno-adapter-presentation-imgui-bgfx
+        - slug: api/projects/inno-adapter-presentation-imgui-sdl3
         - slug: api/projects/inno-build-toolchains-sdl3
         - slug: api/projects/inno-adapter-platform-sdl3
     - label: Backend implementation boundaries

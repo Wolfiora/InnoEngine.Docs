@@ -280,6 +280,13 @@ foreach ($symbol in $symbols) {
     if (-not $seen.Add($symbol.id) -or (Hash $utf8.GetBytes($symbol.signature)) -cne $symbol.signatureHash) { throw "Duplicate or invalid source signature: $($symbol.id)" }
     if ([IO.Path]::IsPathRooted($symbol.source) -or $symbol.source.Split('/') -contains '..' -or $symbol.source.Contains('\')) { throw "Source declaration is outside the repository provenance boundary: $($symbol.id)" }
 }
+$scopeOwner = @($projects | Where-Object name -CEQ $Project)[0]
+if ($scopeOwner.apiCatalogExclusions) {
+    $scopeJson = & node (Join-Path $PSScriptRoot 'api-scope.mjs') $factsPath (Resolve-Owned $binding.projectManifest) $bindingPath $Project $Facts.Replace('\', '/')
+    if ($LASTEXITCODE -ne 0) { throw 'Reviewed API scope selection failed; no reference pages were published.' }
+    $scope = $scopeJson | ConvertFrom-Json
+    $symbols = @($scope.symbols)
+}
 $types = @($symbols | Where-Object kind -CEQ NamedType | Sort-Object id)
 $typePaths = [Collections.Generic.Dictionary[string,string]]::new([StringComparer]::Ordinal)
 foreach ($type in $types) {
@@ -366,7 +373,7 @@ foreach ($type in $types) { $index.Add('- [' + (Code (Short-Name $type.id)) + ']
 $index.Add('')
 $indexBytes = $utf8.GetBytes(($index -join "`n"))
 $prepared.Add([pscustomobject]@{path=$indexRelative;absolute=$indexAbsolute;bytes=$indexBytes;sha256=(Hash $indexBytes)})
-if ((Hash ([IO.File]::ReadAllBytes($factsPath))) -cne $factIdentity -or (Hash ([IO.File]::ReadAllBytes($bindingPath))) -cne (Hash $bindingBytes)) { throw 'Reference inputs changed during preparation.' }
+if ((Hash ([IO.File]::ReadAllBytes($factsPath))) -cne $factIdentity -or (Hash ([IO.File]::ReadAllBytes($bindingPath))) -cne (Hash $bindingBytes) -or (Hash ([IO.File]::ReadAllBytes((Resolve-Owned $binding.projectManifest)))) -cne $binding.projectManifestIdentity) { throw 'Reference inputs changed during preparation.' }
 foreach ($file in $prepared) {
     if ($owned.ContainsKey($file.path) -and (Hash ([IO.File]::ReadAllBytes($file.absolute))) -cne $owned[$file.path]) { throw 'An owned page changed before publication.' }
     if (-not [IO.File]::Exists($file.absolute) -or (Hash ([IO.File]::ReadAllBytes($file.absolute))) -cne $file.sha256) { Atomic-Write $file.absolute $file.bytes }

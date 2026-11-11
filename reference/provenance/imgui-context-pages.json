@@ -1,0 +1,57 @@
+{
+  "project": "Inno.Adapter.Presentation.ImGui.Sdl3",
+  "outputDirectory": "content/en/api/types/imgui-context",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/imgui-context.json",
+  "factsIdentity": "c951b6e8eb6a8db972c0adb11c57b754d52a666d0bb097df85859518583b6908",
+  "sharedContract": "project.inno-adapter-presentation-imgui-sdl3",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguicontextflags.md",
+      "sha256": "c92a71173f11136b8647f9d3b787fae6505903c4362c92d92c30adaf0a074e95"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguifont.md",
+      "sha256": "1f0b79e2cac68c997e14dc56a83d1cc2ca13da62955d45c8681dd27aada1a823"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguifontscope.md",
+      "sha256": "9b7f059cd2ad7f83cb8a7638c79ca268ecf362301345d957451487199b006ecc"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguifontstyle.md",
+      "sha256": "c855cc93b08c43c67720c6b9eae4d0d8ec5da9b9cfe3c3a451e88d5926c45bc4"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguiinteractionoptions.md",
+      "sha256": "4415d36f8ac9e1b6c90a5efa554899854d285f9c203c49ff494cb0e4229032e3"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.imguitexturehandle.md",
+      "sha256": "87851845f0e660c709945920fd78ee7a6cf75adb89d6310c171fbc3c56d44121"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.iplatformimguirenderer.md",
+      "sha256": "24b5fc3318e52c6b1d5236edfab3b8def04158bfa447dd7033ed304f6f13b475"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.platformimguicontext.md",
+      "sha256": "722d4142888f70e27bcc61b0bb26aaef29265268679b0148ee399e867e3bcdce"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.platformimguiviewporttarget.md",
+      "sha256": "265109bfb3e3215f714b571e232e3fef92d64ebdebf8c5b2beea78c454a985fc"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/inno.adapter.presentation.imgui.sdl3platformapplicationimguiextensions.md",
+      "sha256": "e7d7902caed21535e222b1ec2e76fd4de3d2c50c82794e69e34535bd3017f2f0"
+    },
+    {
+      "path": "content/en/api/types/imgui-context/index.md",
+      "sha256": "1a6768b3b1ec733a4ccdda55e3b45981941212c51eb93385fb495ce6aba9c3e8"
+    }
+  ]
+}

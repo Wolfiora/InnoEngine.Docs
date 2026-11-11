@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "0a85159444450aa5eef91c767c5f70ff6f4bed7b68f926e0f3fc1099c0ceee60",
+  "projectManifestIdentity": "7f89f8f3b7320cc84c453adf99014bacd2180dd5f175d1b0662b6bcdb399e69f",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -329,6 +329,15 @@
       "target": null,
       "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
       "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
+    },
+    {
+      "path": "reference/api/imgui-context.json",
+      "sha256": "c951b6e8eb6a8db972c0adb11c57b754d52a666d0bb097df85859518583b6908",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
     }
   ]
 }

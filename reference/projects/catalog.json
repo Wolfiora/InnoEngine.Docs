@@ -156,8 +156,23 @@
     "name": "Inno.Adapter.Presentation.ImGui.Sdl3",
     "path": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/Inno.Adapter.Presentation.ImGui.Sdl3.csproj",
     "entry": null,
-    "surfaces": [],
-    "isTest": false
+    "surfaces": [
+      "source-clr"
+    ],
+    "isTest": false,
+    "apiCatalogExclusions": [
+      {
+        "kind": "generated-third-party-catalog",
+        "source": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/ImGuiIcon.cs",
+        "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+        "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+        "sourceIdentity": "b8399cdcf01e12d586b388acc57845b6c6873a005df59ddcc82c57fc9b903e67",
+        "upstream": "https://github.com/juliettef/IconFontCppHeaders",
+        "reason": "Upstream-generated Font Awesome glyph constants are outside engine reference scope. The mixed file also defines Inno and Shader marks; their engine usage is retained in the context and widget guides without mirroring this generated catalog.",
+        "symbolCount": 1405,
+        "symbolIdentity": "b6a67862c18dae7fedd43f0e5d9cd0ade721b365b4a49591407ef867ff8853ff"
+      }
+    ]
   },
   {
     "name": "Inno.Native.ImGui.Tests",
