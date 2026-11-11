@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.Modules.DotNet",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-adapter-modules-dotnet",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-adapter-modules-dotnet",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-modules-dotnet/dotnetassemblycatalogsource.md",
+      "sha256": "1fb905aac92a501da208750f621983c31eade2dca852e05bb82c84facd67b44e"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-modules-dotnet/dotnetmodulesource.md",
+      "sha256": "c253922813c3f53317f86c890c31d219d1fdf4f0e6950a54fc4fff0e06a618d1"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-modules-dotnet/reflectiontypecatalogsource.md",
+      "sha256": "efea1d59e310ff9bf422c20d2d18552782ac631865ac550bf1ca86136efaf3b5"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-modules-dotnet/index.md",
+      "sha256": "cf181337039313dc051c9b4c46d904edc62fc2877f25e8c83bc8a4f12a7807c4"
+    }
+  ]
+}

@@ -169,6 +169,12 @@
     - slug: api/projects/inno-adapter-platform
     - slug: api/projects/inno-adapter-presentation
     - slug: backends
+    - slug: backends/bgfx
+    - slug: backends/bgfx-shaders
+    - slug: backends/dotnet-modules
+    - slug: backends/dotnet-publishing
+    - slug: backends/file-content-cache
+    - slug: backends/imgui-rendering
     - slug: backends/sdl3
     - slug: backends/miniaudio
     - slug: backends/text
@@ -304,6 +310,20 @@
         - slug: api/projects/inno-adapter-ui-rmlui-authoring
         - slug: api/projects/inno-native-ui
         - slug: api/projects/inno-build-toolchains-ui
+    - label: Managed backend integration
+      items:
+        - slug: api/projects/inno-build-toolchains-bgfx-shaders
+        - slug: api/projects/inno-build-toolchains-bgfx-tools
+        - slug: api/projects/inno-build-toolchains-bgfx
+        - slug: api/projects/inno-adapter-rendering-bgfx
+        - slug: api/projects/inno-build-managed-dotnet
+        - slug: api/projects/inno-adapter-modules-dotnet
+        - slug: api/projects/inno-adapter-content-filesystem
+        - slug: api/projects/inno-build-toolchains-imgui
+        - slug: api/projects/inno-build-toolchains-imguizmo
+        - slug: api/projects/inno-adapter-presentation-imgui-bgfx
+        - slug: api/projects/inno-build-toolchains-sdl3
+        - slug: api/projects/inno-adapter-platform-sdl3
     - label: Backend implementation boundaries
       items:
         - slug: api/projects/inno-native-libraryloading

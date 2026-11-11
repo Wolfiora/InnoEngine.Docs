@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Toolchains.Sdl3",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-build-toolchains-sdl3",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-build-toolchains-sdl3",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-sdl3/sdl3toolchain.md",
+      "sha256": "bfe78a2e5d6a2889abcc27baf116426f37b3d8bdca53cb42680aa001fb8c6c66"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-sdl3/index.md",
+      "sha256": "665c4c3299c81a2a38c0784eb7e8ee47d99f41edc0ed5cc292f026ca9ddb99fd"
+    }
+  ]
+}

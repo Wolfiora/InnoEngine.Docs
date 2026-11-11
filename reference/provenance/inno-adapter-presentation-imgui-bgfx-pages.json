@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.Presentation.ImGui.Bgfx",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-adapter-presentation-imgui-bgfx",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-adapter-presentation-imgui-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-presentation-imgui-bgfx/inno.adapter.presentation.imgui.bgfximguirenderer.md",
+      "sha256": "e7ccccd5af119bdbf08ecb8eef1ca1355c79d8f7f0c63e8b5ab9531c71f38999"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-presentation-imgui-bgfx/inno.adapter.presentation.imgui.bgfximguishaderartifacts.md",
+      "sha256": "d32456da6595c88e05ed4afa6488bd42b515142092116d4fd92707ea3dcf6814"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-presentation-imgui-bgfx/inno.adapter.presentation.imgui.imguipresentationprovider.md",
+      "sha256": "015e1bc787dba2205e88eaec34e22d2ec13bf5e8af0f45083a4b690a5c4f80a5"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-presentation-imgui-bgfx/index.md",
+      "sha256": "290d98f16e3aa47fa0faa0f931da4eb4726c2ca509659c945cada09b822fb176"
+    }
+  ]
+}

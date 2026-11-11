@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Adapter.Rendering.Bgfx",
+  "outputDirectory": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/bgfx-engine.json",
+  "factsIdentity": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
+  "sharedContract": "project.inno-adapter-rendering-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxcompositionprogramprovider.md",
+      "sha256": "615ea6f5e8fc22ffff14970fafa639aea1d2f6b05f7f9318da860eb2e037a583"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxdevice.md",
+      "sha256": "4b460744a7681afec447412fd53bbe7b2a7ddd07368503cd35a492488fabb6d8"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxdeviceoptions.md",
+      "sha256": "3498149ef759af57575cd6728263802ab5e4a8dcdfc4ef0d8b614378233c5512"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxrenderingbackendprovider.md",
+      "sha256": "8699ffaaa0ef8fc2635615dee8e52f13c929c98530731e9c2fc1a58e6e61b4c1"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxsurfacedescriptor.md",
+      "sha256": "11a0ef74e09c6d1260bc8d9108ecfc1ccadaef5968fa435b6309b421bc9ce054"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/bgfxsurfacerole.md",
+      "sha256": "9377da478729827e7d303ba6fc1097446e53213b7236e4d8d9f267b93c8b624b"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/ibgfxsurfaceintegration.md",
+      "sha256": "2bb0f1fc98043006e9ac925bc7c001dcb2ad6a1be234391113eec25ad8a336c4"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-adapter-rendering-bgfx/index.md",
+      "sha256": "e048c9cb6e07a4ebb094c2790a3841ee3ebc1428c75a1b24c747166f0cff8111"
+    }
+  ]
+}

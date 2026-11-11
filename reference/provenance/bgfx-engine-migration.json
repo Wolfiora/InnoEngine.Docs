@@ -1,0 +1,99 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [],
+  "reviews": [
+    {
+      "source": "docs/backends/Bgfx/Inno.Adapter.Rendering.Bgfx.md",
+      "sourceSha256": "282da3af6409994e33fa2bd08065a4a818986a9443b449ed96d36f50e5a23dd9",
+      "sourceBlobSha256": "282da3af6409994e33fa2bd08065a4a818986a9443b449ed96d36f50e5a23dd9",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-rendering-bgfx.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 77,
+      "capturedSymbols": 77,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Bgfx/Inno.Adapter.Rendering.Bgfx/api.md",
+      "sourceSha256": "1008c8b960e3070e6c13809de4e7b40cf544c59d40e951475fb55d41afb03740",
+      "sourceBlobSha256": "1008c8b960e3070e6c13809de4e7b40cf544c59d40e951475fb55d41afb03740",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-rendering-bgfx.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 77,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Bgfx/Inno.Build.Toolchains.Bgfx.Shaders.md",
+      "sourceSha256": "b7031eb79952429cbfc149a85ee5a711007a43ea2fc8c070957c63428fcf7f55",
+      "sourceBlobSha256": "b7031eb79952429cbfc149a85ee5a711007a43ea2fc8c070957c63428fcf7f55",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-bgfx-shaders.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 7,
+      "capturedSymbols": 7,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Bgfx/Inno.Build.Toolchains.Bgfx.Tools.md",
+      "sourceSha256": "b77e6d8ddc2d47b70b54d91f50c4351cadac7cbf9d2f87d08905cfc1701c09bd",
+      "sourceBlobSha256": "b77e6d8ddc2d47b70b54d91f50c4351cadac7cbf9d2f87d08905cfc1701c09bd",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-bgfx-tools.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 53,
+      "capturedSymbols": 53,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Bgfx/Inno.Build.Toolchains.Bgfx.Tools/api.md",
+      "sourceSha256": "2132cbfea35a9c78481da624ecd40f8e4b95fe0a92aaacd12adc746c03800d13",
+      "sourceBlobSha256": "2132cbfea35a9c78481da624ecd40f8e4b95fe0a92aaacd12adc746c03800d13",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-bgfx-tools.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 53,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Bgfx/Inno.Build.Toolchains.Bgfx.md",
+      "sourceSha256": "f106be5d6945e8e98ec80b7e69835a22b73b9d0b19197a51f87c9ce9c1e95d93",
+      "sourceBlobSha256": "f106be5d6945e8e98ec80b7e69835a22b73b9d0b19197a51f87c9ce9c1e95d93",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-bgfx.md",
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md"
+      ],
+      "baselineSymbols": 21,
+      "capturedSymbols": 21,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

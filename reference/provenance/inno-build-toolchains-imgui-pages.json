@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Toolchains.ImGui",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-build-toolchains-imgui",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-build-toolchains-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-imgui/imguitoolchain.md",
+      "sha256": "db79cf22cf1c4e057216f4b017a2f9c2afa4a4db3e684b692d56751f748180ad"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-imgui/index.md",
+      "sha256": "ae3e58d72d517cef0d2fe4114840b6b2b3c851bd14f535d60587f20086975401"
+    }
+  ]
+}

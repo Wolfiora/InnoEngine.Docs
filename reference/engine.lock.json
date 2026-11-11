@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "f7c1132e62c22706f47f559a325bb90ff872efc534ac74b8da1c7b62baa791eb",
+  "projectManifestIdentity": "cb1af24f0fc9cb65e8baef1d96f2de7cdf0f7434d59eac80118d30e71392e4fa",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -279,6 +279,24 @@
     {
       "path": "reference/api/build-execution.json",
       "sha256": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
+    },
+    {
+      "path": "reference/api/bgfx-engine.json",
+      "sha256": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
+    },
+    {
+      "path": "reference/api/backend-adapters.json",
+      "sha256": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,

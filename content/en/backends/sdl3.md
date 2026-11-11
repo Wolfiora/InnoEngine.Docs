@@ -100,3 +100,6 @@ This page describes implemented contracts. It does not assert that every target,
 - [Platforms and products](../platforms/index.md) explains selection and composition.
 - [Build artifacts and consumer protection](../architecture/build-artifacts.md) explains generation reuse and safe deployment.
 - [Ownership and lifetime](../architecture/ownership.md) explains borrowing and retirement across the engine.
+
+- [Managed platform adapter reference](../api/projects/inno-adapter-platform-sdl3.md) supplies exact host contracts.
+- [SDL build integration reference](../api/projects/inno-build-toolchains-sdl3.md) supplies recipe and preparation contracts.

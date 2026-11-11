@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Toolchains.ImGuizmo",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-build-toolchains-imguizmo",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-build-toolchains-imguizmo",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-imguizmo/imguizmotoolchain.md",
+      "sha256": "d38b9ee46630c693e171ea14340f3dc435711c86b1d06830036cfdd01b405766"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-toolchains-imguizmo/index.md",
+      "sha256": "8c245f90661ba51e35cf055c506f9ce3fb681677a06ea9ca9bbbc8505183b2be"
+    }
+  ]
+}

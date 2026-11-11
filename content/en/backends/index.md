@@ -37,3 +37,12 @@ Native generation and deployment belong to the build pipeline. Runtime loaders c
 ## Dynamic declaration access
 
 [The DotNet serialization adapter](dotnet-serialization.md) supplies explicit reflection metadata for authoring hosts. Static products use generated declarations.
+
+## Integrate and diagnose a concrete backend
+
+- [Use BGFX](bgfx.md) for frame submission and safe surface retirement.
+- [Compile shader assets](bgfx-shaders.md) for frozen source analysis and target limits.
+- [Load dynamic modules](dotnet-modules.md) for explicit host discovery and collectible generations.
+- [Publish a managed deployment](dotnet-publishing.md) for SDK and process diagnostics.
+- [Prepare a content cache](file-content-cache.md) for verified publication and concurrent readers.
+- [Present Editor UI](imgui-rendering.md) for color transfer and viewport lifetime.
