@@ -40,9 +40,10 @@ public sealed class Inno.Tooling.Documentation.DocumentationSnapshot : System.ID
 
 Owns a protected immutable snapshot and answers transport-independent documentation requests.
 Concurrent queries are supported; the owner must finish them before disposing the session.
+Exact reads and symbol lookups do not initialize keyword-search postings.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L18).
 
 ## `Dispose`
 
@@ -56,7 +57,7 @@ public void Inno.Tooling.Documentation.DocumentationSnapshot.Dispose()
 Releases this generation's shared reading protection after all its queries finish.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L197).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L193).
 
 ## `ExportCatalogAsync`
 
@@ -83,7 +84,7 @@ Reads protected cached pages only; it does not rescan a checkout or refresh the 
 **Throws `System.ObjectDisposedException`:** The session has released its reading protection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L62).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L63).
 
 ## `QueryAsync`
 
@@ -111,7 +112,7 @@ Searches, reads, resolves symbols or resources, or reports binding status withou
 **Throws `System.ObjectDisposedException`:** The session has released its reading protection.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L130).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L126).
 
 ## `identity`
 
@@ -125,7 +126,7 @@ public string Inno.Tooling.Documentation.DocumentationSnapshot.identity { get; }
 Gets the exact generation shared by every result in this session.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L34).
 
 ## `sourceTree`
 
@@ -139,4 +140,4 @@ public string Inno.Tooling.Documentation.DocumentationSnapshot.sourceTree { get;
 Gets the source-tree identity recorded by the documentation binding, without asserting source API verification.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationSnapshot.cs#L39).

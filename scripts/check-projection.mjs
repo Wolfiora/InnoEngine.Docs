@@ -16,6 +16,15 @@ export async function checkProjection({ root, catalog, site, complete = false })
   const projectsBytes = await readOwned(root, binding.projectManifest);
   if (projectsBytes.includes(13)) errors.push('Project manifest must use canonical LF bytes before its identity is recorded.');
   const projects = JSON.parse(projectsBytes);
+  for (const project of projects) {
+    if (project.apiDocumentation !== undefined && project.apiDocumentation !== 'backend-native') {
+      errors.push(`Unknown API documentation scope: ${project.name}.`);
+    }
+    if (project.apiDocumentation === 'backend-native'
+      && (project.isTest || !/^backends\/[^/]+\/native\/[^/]+\/[^/]+\.csproj$/.test(project.path))) {
+      errors.push(`Native API exclusion is outside the backend-native implementation boundary: ${project.name}.`);
+    }
+  }
   if (digest(projectsBytes) !== binding.projectManifestIdentity) errors.push('Project manifest identity differs from engine.lock.json.');
   for (const field of ['repository', 'revision', 'sourceTree', 'toolingRevision']) {
     if (catalog[field] !== binding[field]) errors.push(`Canonical catalog binding differs: ${field}.`);
@@ -132,6 +141,10 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
         errors.push(`API manifest owner or surface is not bound: ${project.name}.`);
         continue;
       }
+      if (source.apiDocumentation === 'backend-native') {
+        errors.push(`Backend-native API is outside the approved engine documentation scope: ${project.name}.`);
+        continue;
+      }
       for (const symbol of project.symbols) {
         const identity = key(project.name, facts.model, symbol.id);
         if (expected.has(identity)) errors.push(`Duplicate extracted API contract: ${symbol.id}.`);
@@ -157,7 +170,8 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
     if (!observed.has(identity)) errors.push(`Extracted API has no authored contract: ${symbol.id}.`);
   }
   return { extractedSymbols: expected.size, authoredSymbols: observed.size,
-    scope: 'Bound declarations only; source execution, script projections and semantic prose review remain separate.' };
+    excludedNativeProjects: projects.filter(project => project.apiDocumentation === 'backend-native').map(project => project.name),
+    scope: 'Bound engine declarations only; backend-native and generated binding references are excluded by the approved scope. Source execution, script projections and semantic prose review remain separate.' };
 }
 
 function route(source) {

@@ -37,7 +37,7 @@ public sealed class Inno.Build.Distribution.Standard.StandardBuildDistribution
 Binds platform publication and backend configuration once at the standard distribution boundary.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L23).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L23).
 
 ## `Create`
 
@@ -57,7 +57,7 @@ Composes one explicit binding per implemented platform without resolving tools.
 **Returns:** A frozen standard distribution with backend configuration bound to the same platform identities.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L52).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L52).
 
 ## `ResolveShaderTarget`
 
@@ -77,7 +77,7 @@ Resolves explicitly registered shader configuration independently of tool execut
 **Throws `System.NotSupportedException`:** The distribution has no shader configuration for this target.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L91).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L91).
 
 ## `build`
 
@@ -91,4 +91,4 @@ public Inno.Build.Composition.BuildDistribution Inno.Build.Distribution.Standard
 Gets the neutral distribution borrowed by product hosts and shared pipeline mechanisms.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/build/distributions/Inno.Build.Distribution.Standard/StandardBuildDistribution.cs#L38).

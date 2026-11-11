@@ -67,7 +67,7 @@ Returns transport-independent documentation content with explicit completeness a
 Associated contracts remain separately listed in continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `#ctor`
 
@@ -96,7 +96,7 @@ Returns transport-independent documentation content with explicit completeness a
 Associated contracts remain separately listed in continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `Deconstruct`
 
@@ -109,7 +109,7 @@ public void Inno.Tooling.Documentation.DocumentationResult.Deconstruct(out strin
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `Equals`
 
@@ -127,7 +127,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `Equals`
 
@@ -145,7 +145,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `GetHashCode`
 
@@ -161,7 +161,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `op_Equality`
 
@@ -174,7 +174,7 @@ public static bool Inno.Tooling.Documentation.DocumentationResult.operator ==(In
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `op_Inequality`
 
@@ -187,7 +187,7 @@ public static bool Inno.Tooling.Documentation.DocumentationResult.operator !=(In
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `ToString`
 
@@ -203,7 +203,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L31).
 
 ## `continuations`
 
@@ -217,7 +217,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Tooling.Documentation.Docum
 Remaining content or necessary contracts that must be read before claiming a complete contract.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L37).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L37).
 
 ## `hits`
 
@@ -231,7 +231,7 @@ public System.Collections.Generic.IReadOnlyList<Inno.Tooling.Documentation.Docum
 Ordered content or navigation candidates; each identifies its completeness independently.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L36).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L36).
 
 ## `message`
 
@@ -245,7 +245,7 @@ public string Inno.Tooling.Documentation.DocumentationResult.message { get; init
 A concise explanation of the result and any required next action.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L35).
 
 ## `nextRequest`
 
@@ -260,7 +260,7 @@ Structured continuation for a result page or content segment, or null when that 
 Associated contracts remain separately listed in continuations.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L38).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L38).
 
 ## `snapshot`
 
@@ -274,7 +274,7 @@ public string Inno.Tooling.Documentation.DocumentationResult.snapshot { get; ini
 The immutable documentation generation identity.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L33).
 
 ## `sourceApiStatus`
 
@@ -288,7 +288,7 @@ public string Inno.Tooling.Documentation.DocumentationResult.sourceApiStatus { g
 Source validation state. Unverified never asserts that declarations match current engine source.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L34).
 
 ## `status`
 
@@ -302,7 +302,7 @@ public string Inno.Tooling.Documentation.DocumentationResult.status { get; init;
 Found, Empty, Ambiguous, Missing, Partial, Navigation, Mismatched or Ready. Execution failures throw rather than resemble content.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L32).
 
 ## `timingsMilliseconds`
 
@@ -318,4 +318,4 @@ Total and PagePreparation are inclusive; MarkdownParsing and OwnerRegistration a
 of PagePreparation. These observations are not performance or execution certificates.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L46).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationResult.cs#L46).

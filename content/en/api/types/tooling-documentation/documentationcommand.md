@@ -35,7 +35,7 @@ public static class Inno.Tooling.Documentation.DocumentationCommand
 Adapts the shared documentation contracts to the existing Build command line.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L14).
 
 ## `ExecuteAsync`
 
@@ -64,4 +64,4 @@ Partial results have explicit continuations and do not assert contract completen
 **Throws `System.OperationCanceledException`:** The caller cancels the operation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L40).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCommand.cs#L40).

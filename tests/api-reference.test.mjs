@@ -201,18 +201,29 @@ test('unbound facts, stale shared contracts and unsupported XML fail before writ
   await assert.rejects(readdir(path.dirname(f.page)), { code: 'ENOENT' });
 });
 
-test('missing handwritten semantics require explicit shared ABI treatment', async (t) => {
+test('missing engine member semantics cannot be replaced by a shared ABI escape hatch', async (t) => {
   const f = await fixture(t);
   f.facts.projects[0].symbols[1].documentation = '';
   await f.bind();
   await assert.rejects(f.run(), /no XML/);
-  await f.run(['-SharedAbi']);
-  assert.match(await readFile(f.page, 'utf8'), /No safe wrapper, ownership transfer or undocumented upstream behavior is inferred/);
+  await assert.rejects(f.run(['-SharedAbi']), /parameter.*SharedAbi/i);
 });
 
 test('an escaping output path is rejected before any generation', async (t) => {
   const f = await fixture(t);
   await assert.rejects(f.run([], 'content/en/api/../../../../outside'), /escapes the repository/);
+});
+
+test('the writer refuses excluded backend-native APIs before creating reference pages', async (t) => {
+  const f = await fixture(t);
+  const nativePath='backends/Probe/native/Probe/Probe.csproj';
+  f.facts.projects[0].project=nativePath;
+  const projects=JSON.stringify([{name:'Probe',path:nativePath,surfaces:['source-clr'],apiDocumentation:'backend-native'}]);
+  f.binding.projectManifestIdentity=hash(projects);
+  await f.write('reference/projects.json',projects);
+  await f.bind();
+  await assert.rejects(f.run(), /outside the approved engine documentation scope/);
+  await assert.rejects(readFile(f.page), {code:'ENOENT'});
 });
 
 test('large types split complete member families and retain containing-type contracts', async (t) => {

@@ -13,6 +13,7 @@ This repository owns the English documentation and website for InnoEngine. The e
 
 - Write active documentation, instructions, rules, and new records in English. Preserve historical evidence and legal notices.
 - Keep readable content in `content/en/`. Keep generated API/project facts in `reference/`; do not duplicate narrative authority.
+- Document the engine's APIs and managed adapter usage. Backend-native and generated binding APIs are outside documentation scope; do not extract, generate or translate their member references. Keep concise engine integration and ownership boundaries where readers need them.
 - Keep tutorials, tasks, explanations, and API reference distinct. Link necessary lifecycle, threading, failure, and ownership contracts.
 - Never hide a necessary constraint in an excerpt, collapsed block, or unreported continuation.
 - Read source declarations and existing contracts before documenting an API. Generated signatures are not proof of semantic quality.

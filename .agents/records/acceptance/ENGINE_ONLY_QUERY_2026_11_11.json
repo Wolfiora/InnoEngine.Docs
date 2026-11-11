@@ -1,0 +1,56 @@
+{
+  "scope": "Five warm independent CLI processes after the approved native-reference scope reduction; includes process startup and snapshot verification. Different documentation populations, not a same-workload implementation comparison.",
+  "snapshot": "bc932f18bde9629b53384891771d752bc680858502bcb7bb9fda876c320fac36",
+  "contentIdentity": "eb65048b4d17966ca7110d0cfd367906905dc2c747bf915ccbd819c38eca43d0",
+  "engineRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "toolingRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "sourceApiStatus": "Unverified",
+  "pages": 812,
+  "sdk": "10.0.402",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "queryAssemblySha256": "53d2a4f2c125a007475f1dfd8b7decc84d318c9df5d401878a2e7d1850571ce7",
+  "medianMilliseconds": 591.1751,
+  "samples": [
+    {
+      "sample": 1,
+      "milliseconds": 935.2587,
+      "resultBytes": 1535,
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 2,
+      "milliseconds": 594.9605,
+      "resultBytes": 1535,
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 3,
+      "milliseconds": 506.5923,
+      "resultBytes": 1535,
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 4,
+      "milliseconds": 456.6282,
+      "resultBytes": 1535,
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 5,
+      "milliseconds": 591.1751,
+      "resultBytes": 1535,
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    }
+  ],
+  "verification": "Exact engine symbol text and both necessary contract continuations match the pre-retirement response. Native reference removal does not shorten this engine contract. Prepared-snapshot queries do not build or prepare Native inputs."
+}

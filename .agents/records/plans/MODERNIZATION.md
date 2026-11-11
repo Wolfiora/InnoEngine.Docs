@@ -2,7 +2,13 @@
 
 Status: implementation in progress. This record does not certify final coverage or deployment.
 
-Latest local checkpoint: 53 of 252 actual project entries, 5,261 Markdown pages including generated reference families, and 12,124 exactly bound declarations. Twelve test-suite entries add behavior-oriented navigation and preserve their actual managed/native preparation boundaries. [Core observability acceptance](../acceptance/CORE_OBSERVABILITY_2026_11_11.md) records the Events, Diagnostics and Logging migration and actual host/script examples; [remote bootstrap evidence](../acceptance/REMOTE_BOOTSTRAP_2026_11_11.md) records the successful real site projection and correctly failing completion gate. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
+## Approved scope amendment: engine documentation only
+
+On 2026-11-11 the user explicitly removed backend-native and generated binding API documentation from scope and requested faster delivery. The English Manual and reference now cover the engine's own services, managed adapters, extension contracts and tooling. Native implementation projects retain only useful engine integration/ownership overviews; third-party ABI type/member pages, raw-binding examples and their extraction obligations are retired. Native builds, runtime tests and deployment integrity requirements are unchanged.
+
+The existing project inventory owns this classification; no second project-selection list is introduced. Coverage and generation reject bound native API references rather than silently skipping expected engine declarations. The migration ledger records the approved retirement and original Git/provenance identities. Earlier generated-native counts below are historical work, not current completion requirements.
+
+Latest local checkpoint: 81 of 252 actual project entries, 812 Markdown pages and 4,524 exactly bound engine declarations after the approved native-reference retirement. [Engine-only scope acceptance](../acceptance/ENGINE_ONLY_SCOPE_2026_11_11.md) records the removals, preserved engine coverage, 34 regressions, actual site checks and query samples. Earlier counts below are historical checkpoints. Full content review, source certification and remote pipeline delivery remain incomplete.
 
 ## Source and ownership
 

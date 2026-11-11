@@ -216,12 +216,10 @@
         - slug: api/projects/inno-adapter-ui-rmlui-authoring
         - slug: api/projects/inno-native-ui
         - slug: api/projects/inno-build-toolchains-ui
-    - label: Native integration reference
+    - label: Backend implementation boundaries
       items:
         - slug: api/projects/inno-native-libraryloading
-        - slug: api/types/native-libraryloading
         - slug: api/projects/inno-native-sdl3
-        - slug: api/types/sdl3
     - label: Identity types
       items:
         - slug: api/types/core-identity/identity

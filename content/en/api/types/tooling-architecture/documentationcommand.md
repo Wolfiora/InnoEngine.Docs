@@ -36,7 +36,7 @@ public static class Inno.Tooling.Architecture.DocumentationCommand
 Queries repository documentation without evaluating SDK projects, compiling products or invoking network services.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L14).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L14).
 
 ## `ExecuteAsync`
 
@@ -64,7 +64,7 @@ Offset resumes an explicitly partial section without discarding intervening Mark
 **Throws `System.OperationCanceledException`:** The caller cancels indexing or ownership acquisition.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L66).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L66).
 
 ## `GetProjectDocuments`
 
@@ -89,4 +89,4 @@ Missing project pages remain the responsibility of the required documentation st
 **Throws `System.ArgumentException`:** The root is invalid or repository projects have duplicate names.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L35).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Architecture/DocumentationCommand.cs#L35).

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, rm } from 'node:fs/promises';
+import { mkdtemp, mkdir, readFile, writeFile, rm } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
@@ -92,6 +92,35 @@ test('missing project coverage remains visible and cannot certify complete publi
   assert.match(complete.errors.join('\n'), /lack an authoritative entry/);
 });
 
+test('native implementation overviews remain covered without native API reference obligations', async (t) => {
+  const f = await fixture(t);
+  const projects = JSON.stringify([{name:'Probe',path:'backends/Probe/native/Probe/Probe.csproj',surfaces:[],apiDocumentation:'backend-native',isTest:false}]);
+  f.binding.projectManifestIdentity = digest(projects);
+  await f.write('reference/projects.json', projects);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  const report = await checkProjection(f);
+  assert.equal(report.status, 'Passed');
+  assert.deepEqual(report.api.excludedNativeProjects, ['Probe']);
+  assert.equal(report.api.extractedSymbols, 0);
+  f.catalog.projects.Probe = null;
+  assert.match((await checkProjection({...f,complete:true})).errors.join('\n'), /lack an authoritative entry/);
+});
+
+test('native documentation scope cannot exempt engine source or test contracts', async (t) => {
+  const f = await fixture(t);
+  for (const project of [
+    {name:'Probe',path:'src/Probe.csproj',surfaces:[],apiDocumentation:'backend-native'},
+    {name:'Probe',path:'backends/Probe/native/Probe/Probe.csproj',surfaces:[],apiDocumentation:'backend-native',isTest:true},
+    {name:'Probe',path:'src/Probe.csproj',surfaces:[],apiDocumentation:'skip-everything'}
+  ]) {
+    const projects=JSON.stringify([project]);
+    f.binding.projectManifestIdentity=digest(projects);
+    await f.write('reference/projects.json',projects);
+    await f.write('reference/engine.lock.json',JSON.stringify(f.binding));
+    assert.match((await checkProjection(f)).errors.join('\n'), /outside the backend-native implementation boundary|Unknown API documentation scope/);
+  }
+});
+
 test('a supplied catalog cannot read outside the explicit source root', async (t) => {
   const f = await fixture(t);
   f.catalog.pages[0].path = '../outside.md';
@@ -142,6 +171,21 @@ test('bound declarations require both the current mapping and exact visible sign
   assert.match((await checkProjection(f)).errors.join('\n'), /Visible declaration differs/);
   f.catalog.pages[0].symbols[f.id].signatureIdentity = '0'.repeat(64);
   assert.match((await checkProjection(f)).errors.join('\n'), /signature mapping is stale/);
+});
+
+test('bound native declarations are rejected instead of silently expanding product documentation', async (t) => {
+  const f = await apiFixture(t);
+  const nativePath='backends/Probe/native/Probe/Probe.csproj';
+  const projects=JSON.stringify([{name:'Probe',path:nativePath,surfaces:['source-clr'],apiDocumentation:'backend-native',isTest:false}]);
+  const facts=JSON.parse(await readFile(path.join(f.root,'reference/api.json'),'utf8'));
+  facts.projects[0].project=nativePath;
+  const bytes=JSON.stringify(facts);
+  f.binding.projectManifestIdentity=digest(projects);
+  f.binding.apiManifests[0].sha256=digest(bytes);
+  await f.write('reference/projects.json',projects);
+  await f.write('reference/api.json',bytes);
+  await f.write('reference/engine.lock.json',JSON.stringify(f.binding));
+  assert.match((await checkProjection(f)).errors.join('\n'), /Backend-native API is outside the approved engine documentation scope/);
 });
 
 test('omitted and invented API contracts cannot hide behind correct source hashes', async (t) => {

@@ -54,6 +54,8 @@ Index results also contain measured preparation phases. `Total` and `PagePrepara
 
 ## Failure and ownership boundaries
 
+Exact page and symbol reads do not initialize the keyword-search postings. The first keyword search builds that immutable lookup once per snapshot session with thread-safe publication. Reuse a session for related requests and dispose it only after outstanding queries finish. Manifest and selected payload verification remain mandatory; deferred search preparation is not permission to trust unverified cache bytes.
+
 Path escape, invalid ownership, corrupt payloads, duplicate authority and include cycles fail visibly. Missing content and ambiguous symbols remain distinct query results. Cancellation does not destroy the previous published generation or transfer ownership to the caller.
 
 The library uses the existing Core IO atomic publication and file leases together with the build cache ownership registry. It does not invent an independent cleanup authority. Current generations, their page dependencies and active readers must remain protected during retirement.

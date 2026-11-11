@@ -4,9 +4,8 @@
   "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
   "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
   "facts": "reference/api/miniaudio.json",
-  "factsIdentity": "83ef7e5fa7fa12a2a83e41a1f4cbad6dd8d9df854477b91e1d0628d1207456dd",
+  "factsIdentity": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032",
   "sharedContract": "project.inno-adapter-audio-miniaudio#preparation-and-ownership-contract",
-  "sharedAbi": false,
   "xmlLinks": "",
   "xmlLinksIdentity": null,
   "files": [

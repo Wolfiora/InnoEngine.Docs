@@ -1,30 +1,29 @@
 {
   "project": "Inno.Build.Distribution.Standard",
   "outputDirectory": "content/en/api/types/build-distribution-standard",
-  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
-  "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+  "sourceRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "sourceTree": "da490755a8b4e6773c0693ae6b5657c62c49c3be",
   "facts": "reference/api/tooling.json",
-  "factsIdentity": "5925c1463dcf6c09a98dcc64a210929a2fab513530a43cfbf866daf8ac78fee4",
+  "factsIdentity": "93c835d35453674969d6559ad8a8e23c04eef43e216eba6514b0e5cc9dc59449",
   "sharedContract": "project.inno-build-distribution-standard#cache-and-workspace-ownership",
-  "sharedAbi": false,
   "xmlLinks": "",
   "xmlLinksIdentity": null,
   "files": [
     {
       "path": "content/en/api/types/build-distribution-standard/standardbuildcaches.md",
-      "sha256": "650e598296dc021881018eb5fef6440d279d79e053a13ae17cc4b05ab9f9d1db"
+      "sha256": "499a4642a9b03407ae6407a6231171ea7f08895102b999eb1fa3d212b5d5ff34"
     },
     {
       "path": "content/en/api/types/build-distribution-standard/standardbuilddistribution.md",
-      "sha256": "6951b14b6bf30d39cca9f2499e44a2c2db81857b570ceb7a0dcfeddaee8afcb1"
+      "sha256": "e8161ff911050938d4bfd86fd8399802139eebf39f53611caff15e4e78092b44"
     },
     {
       "path": "content/en/api/types/build-distribution-standard/standardbuildenvironment.md",
-      "sha256": "c636f927488c096e6f09d121e0c37ef382b10ea052875d4ab6522b9a80ebbc02"
+      "sha256": "ffa212e68ada6fa9221f5c96429647dd0d385182b01474dfc9567bf294560286"
     },
     {
       "path": "content/en/api/types/build-distribution-standard/standardbuildhosts.md",
-      "sha256": "7b70dfda50d45cf4f598d136fb6a3a91ac9b51fcc7296591a69926e20f609ff3"
+      "sha256": "e2ff5464e92b1bb13b6da84f718a2862a0799c4c9b7bbf5e02746996000552d5"
     },
     {
       "path": "content/en/api/types/build-distribution-standard/index.md",

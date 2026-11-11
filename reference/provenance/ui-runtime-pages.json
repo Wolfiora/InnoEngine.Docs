@@ -4,9 +4,8 @@
   "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
   "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
   "facts": "reference/api/ui.json",
-  "factsIdentity": "859981039d4988726f28b2ef8e26f2463da907e0274a497b249932143e2db508",
+  "factsIdentity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
   "sharedContract": "project.inno-ui-runtime#session-and-font-ownership",
-  "sharedAbi": false,
   "xmlLinks": "",
   "xmlLinksIdentity": null,
   "files": [

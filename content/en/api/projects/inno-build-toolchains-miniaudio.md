@@ -50,7 +50,7 @@ Cancellation drains tool work before publication. A failed or cancelled candidat
 
 Editor and Support Pack requests select their own product closures through the common CLI. This library does not start another component program. Native upgrades change the pinned source and regenerate bindings through the unified binding route, then rebuild the affected targets. Keep the generated managed and native ABI identities aligned.
 
-See [build artifacts and caches](../../architecture/build-artifacts.md) for producer ownership and consumer leases, and [MiniAudio deployment](inno-native-miniaudio.md#abi-and-deployment-contract) for dynamic/static boundaries.
+See [build artifacts and caches](../../architecture/build-artifacts.md) for producer ownership and consumer leases, and [MiniAudio integration](inno-native-miniaudio.md#native-lifetime-contract) for dynamic/static boundaries.
 
 ## API reference
 

@@ -24,7 +24,9 @@ Examples must identify their API surface and prerequisites. Executable C# uses a
 
 ## Reference quality
 
-Preserve all selected public and relevant protected symbols, overloads, nullable annotations, default values, generic constraints, inherited contracts, and generated/native surfaces. Explain parameters, results, observable failures, and lifecycle obligations. Group genuinely shared contracts explicitly instead of repeating generic filler.
+The user-approved scope is the engine, not a mirror of third-party native libraries or generated bindings. Projects under backend native implementation boundaries have `apiDocumentation: backend-native` in the existing bound project inventory. They retain a concise engine integration overview, but no type/member reference, native-call tutorial or executable raw-binding example is required or generated. This classification does not exempt managed adapters, engine service contracts, native correctness tests, legal provenance or product deployment validation.
+
+Preserve all selected engine public and relevant protected symbols, overloads, nullable annotations, default values, generic constraints and inherited contracts. Script-projected engine APIs remain distinct from host APIs. Explain parameters, results, observable failures, and lifecycle obligations. Group genuinely shared contracts explicitly instead of repeating generic filler.
 
 Use compact member summaries and readable detail sections. Long signatures scroll independently; long prose does not belong in wide tables. Missing semantics remain visible work, not a successful coverage claim.
 

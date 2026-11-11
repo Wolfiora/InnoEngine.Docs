@@ -1,0 +1,27 @@
+{
+  "reason": "PowerShell Sort-Object property lookup did not sort OrderedDictionary samples by the stored numeric key. Aggregate medians are recalculated from unchanged raw milliseconds using numeric ascending order and the middle value. No samples were rerun or removed.",
+  "enum": {
+    "original": "ENUM_QUERY_2026_11_11.json",
+    "originalSha256": "ac14c78a606579dd35b081b6fdfc1957e8310824a36ffaca531ab069f7992f7b",
+    "previouslyReported": {
+      "Before": 1409.859,
+      "After": 1731.4295
+    },
+    "corrected": {
+      "Before": 1409.859,
+      "After": 1405.3864
+    }
+  },
+  "lazy": {
+    "original": "LAZY_QUERY_2026_11_11_RAW.json",
+    "originalSha256": "f98f0beb1da3162965af2d94b68df765bdeaedf35742b148ab889953727ee344",
+    "previouslyReported": {
+      "Before": 1405.3864,
+      "After": 941.7961
+    },
+    "corrected": {
+      "Before": 1405.3864,
+      "After": 984.8268
+    }
+  }
+}

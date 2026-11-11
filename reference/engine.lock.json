@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
-  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "revision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "sourceTree": "da490755a8b4e6773c0693ae6b5657c62c49c3be",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "87b93c1eed6a473b17ebfb8a796a46573aa69b2a58f5abb9cee5c582e484b009",
-  "toolingRevision": "c48b7d11fd48d8de21aaf94e416c73c37d70df26",
+  "projectManifestIdentity": "36d12c894c946fcf6e2909a39c4042389de7e5f7d97396a12d992a8b3bead198",
+  "toolingRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -14,15 +14,6 @@
       "project": "Inno.Core.Identity",
       "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
       "sourceTree": "e1c8948c47172516286dc2a5662a31dbfadce5d2"
-    },
-    {
-      "path": "reference/api/sdl3.json",
-      "sha256": "0ecbe7fffdf9931f07efd77f48d95c44a1501ae8315e4e75d9d9c7262f9bc390",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
-      "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e"
     },
     {
       "path": "reference/api/editor.json",
@@ -35,12 +26,12 @@
     },
     {
       "path": "reference/api/tooling.json",
-      "sha256": "5925c1463dcf6c09a98dcc64a210929a2fab513530a43cfbf866daf8ac78fee4",
+      "sha256": "93c835d35453674969d6559ad8a8e23c04eef43e216eba6514b0e5cc9dc59449",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
-      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da"
+      "sourceRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+      "sourceTree": "da490755a8b4e6773c0693ae6b5657c62c49c3be"
     },
     {
       "path": "reference/api/input.json",
@@ -74,7 +65,7 @@
       "model": "source-clr",
       "target": null,
       "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
-      "sha256": "83ef7e5fa7fa12a2a83e41a1f4cbad6dd8d9df854477b91e1d0628d1207456dd",
+      "sha256": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032",
       "path": "reference/api/miniaudio.json",
       "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5"
     },
@@ -93,7 +84,7 @@
       "configuration": "Debug",
       "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
       "target": null,
-      "sha256": "f19f0e971150b56540ef0506ad5e7e78cae65a588b4ebbff8de24cbf0e5a99ff",
+      "sha256": "49761f01252efe4c8a037b21c348744a843f9fbd20f910fd53554a94939a06a9",
       "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0"
     },
     {
@@ -125,7 +116,7 @@
     },
     {
       "path": "reference/api/ui.json",
-      "sha256": "859981039d4988726f28b2ef8e26f2463da907e0274a497b249932143e2db508",
+      "sha256": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
       "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
       "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
       "model": "source-clr",

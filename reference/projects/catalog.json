@@ -25,7 +25,8 @@
     "path": "backends/Bgfx/native/Inno.Native.Bgfx/Inno.Native.Bgfx.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.Rendering.Bgfx",
@@ -113,14 +114,16 @@
     "path": "backends/ImGui/native/Inno.Native.ImGui/Inno.Native.ImGui.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Native.ImGuizmo",
     "path": "backends/ImGui/native/Inno.Native.ImGuizmo/Inno.Native.ImGuizmo.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.Presentation.ImGui.Bgfx",
@@ -154,10 +157,9 @@
     "name": "Inno.Native.LibraryLoading",
     "path": "backends/Interop/native/Inno.Native.LibraryLoading/Inno.Native.LibraryLoading.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false
+    "surfaces": [],
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Build.Toolchains.MiniAudio",
@@ -172,10 +174,9 @@
     "name": "Inno.Native.MiniAudio",
     "path": "backends/MiniAudio/native/Inno.Native.MiniAudio/Inno.Native.MiniAudio.csproj",
     "entry": "content/en/api/projects/inno-native-miniaudio.md",
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false
+    "surfaces": [],
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.Audio.MiniAudio",
@@ -213,10 +214,9 @@
     "name": "Inno.Native.UI",
     "path": "backends/RmlUi/native/Inno.Native.UI/Inno.Native.UI.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false
+    "surfaces": [],
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.UI.RmlUi.Authoring",
@@ -254,10 +254,9 @@
     "name": "Inno.Native.Sdl3",
     "path": "backends/Sdl3/native/Inno.Native.Sdl3/Inno.Native.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false
+    "surfaces": [],
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.Platform.Sdl3",
@@ -293,10 +292,9 @@
     "name": "Inno.Native.Text",
     "path": "backends/Text/native/Inno.Native.Text/Inno.Native.Text.csproj",
     "entry": "content/en/api/projects/inno-native-text.md",
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false
+    "surfaces": [],
+    "isTest": false,
+    "apiDocumentation": "backend-native"
   },
   {
     "name": "Inno.Adapter.Text.FreeTypeHarfBuzz",

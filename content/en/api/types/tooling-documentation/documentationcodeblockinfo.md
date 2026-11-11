@@ -64,7 +64,7 @@ Other blocks remain examples or instructions requiring an explicit validation co
 A matching declaration is not a source API or executable-example certificate.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `#ctor`
 
@@ -92,7 +92,7 @@ Other blocks remain examples or instructions requiring an explicit validation co
 A matching declaration is not a source API or executable-example certificate.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `Deconstruct`
 
@@ -105,7 +105,7 @@ public void Inno.Tooling.Documentation.DocumentationCodeBlockInfo.Deconstruct(ou
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `Equals`
 
@@ -123,7 +123,7 @@ Indicates whether the current object is equal to another object of the same type
 **Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `Equals`
 
@@ -141,7 +141,7 @@ Determines whether the specified object is equal to the current object.
 **Returns:** `true` if the specified object  is equal to the current object; otherwise, `false`.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `GetHashCode`
 
@@ -157,7 +157,7 @@ Serves as the default hash function.
 **Returns:** A hash code for the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `op_Equality`
 
@@ -170,7 +170,7 @@ public static bool Inno.Tooling.Documentation.DocumentationCodeBlockInfo.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `op_Inequality`
 
@@ -183,7 +183,7 @@ public static bool Inno.Tooling.Documentation.DocumentationCodeBlockInfo.operato
 
 Compiler-supplied declaration; initialization and lifetime follow the containing type.
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `ToString`
 
@@ -199,7 +199,7 @@ Returns a string that represents the current object.
 **Returns:** A string that represents the current object.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L28).
 
 ## `contentIdentity`
 
@@ -213,7 +213,7 @@ public string Inno.Tooling.Documentation.DocumentationCodeBlockInfo.contentIdent
 SHA-256 of the normalized code, independent of its source position.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L31).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L31).
 
 ## `declarationSymbols`
 
@@ -229,7 +229,7 @@ Other blocks remain examples or instructions requiring an explicit validation co
 A matching declaration is not a source API or executable-example certificate.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L34).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L34).
 
 ## `language`
 
@@ -243,7 +243,7 @@ public string Inno.Tooling.Documentation.DocumentationCodeBlockInfo.language { g
 The authored fence language. An empty value remains visible for content-policy validation.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L29).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L29).
 
 ## `line`
 
@@ -257,7 +257,7 @@ public int Inno.Tooling.Documentation.DocumentationCodeBlockInfo.line { get; ini
 One-based line of the opening fence in the authored Markdown snapshot.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L32).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L32).
 
 ## `section`
 
@@ -271,7 +271,7 @@ public string? Inno.Tooling.Documentation.DocumentationCodeBlockInfo.section { g
 The containing canonical heading identity, or null when the block precedes every heading.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L33).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L33).
 
 ## `text`
 
@@ -285,4 +285,4 @@ public string Inno.Tooling.Documentation.DocumentationCodeBlockInfo.text { get; 
 Original code with normalized LF line endings and no closing-fence newline.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L30).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/5e5ed64c981a51f1568004415ad80c44f32da9c0/tools/Inno.Tooling.Documentation/DocumentationCodeBlockInfo.cs#L30).

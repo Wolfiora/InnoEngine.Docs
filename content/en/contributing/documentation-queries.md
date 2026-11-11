@@ -88,6 +88,8 @@ Ordinary prepared-snapshot queries do not scan the authored document tree, acqui
 
 An adapter can call `DocumentationStore.OpenAsync` and `DocumentationSnapshot.QueryAsync` directly with `DocumentationRequest`. Dispose a snapshot after its outstanding queries finish. Do not implement an adapter by shelling out to Build and parsing console text.
 
+Keep one protected snapshot session for related reads instead of starting a new CLI process for each section. Exact page and symbol lookups use direct maps. Keyword postings initialize once when that session first performs a keyword search; concurrent searches share the completed map. Opening a snapshot still verifies its manifest, and selected page payloads still undergo integrity checks. This avoids unrelated search preparation without weakening provenance.
+
 Results expose resources with this shape:
 
 ```text
@@ -135,21 +137,21 @@ The exported `source-clr` model preserves exact declarations, documentation IDs,
 
 Write the project's explanation and shared use contracts first. Bind the extracted facts in `reference/engine.lock.json`, declare their actual surface in the derived project manifest, and refresh the canonical catalog. The reference writer requires those exact inputs; it never selects a project by its page title.
 
+Select engine-owned APIs. Backend-native projects and generated bindings are excluded from member documentation through the existing project inventory's `apiDocumentation` scope. Their engine integration overviews remain useful, but do not capture third-party ABI manifests or generate raw-binding examples for this site.
+
 ```powershell
 ./scripts/Update-ApiReference.ps1 `
-  -Facts reference/api/sdl3.json `
-  -Project Inno.Native.Sdl3 `
-  -Contract 'api.projects.inno-native-sdl3#shared-abi-contract' `
-  -OutputDirectory content/en/api/types/sdl3 `
-  -OwnershipManifest reference/provenance/sdl3-pages.json `
-  -XmlLinks reference/provenance/sdl-xml-links.json `
-  -SharedAbi
+  -Facts reference/api/core-models.json `
+  -Project Inno.Core.Input `
+  -Contract 'project.inno-core-input#input-value-contract' `
+  -OutputDirectory content/en/api/types/core-input `
+  -OwnershipManifest reference/provenance/core-input-pages.json
 ```
 
 This authoring operation reads bound JSON and source XML locally. It does not extract APIs, restore packages, invoke an SDK, build a product or contact the network. It refuses to overwrite a handwritten page or a generated page containing an unreviewed edit. Its ownership manifest records the exact generated files and imported XML-link provenance. Keep tutorials and cross-member explanations outside those owned files.
 
-Small types keep declarations and member details together. Large types link to complete overload families and constant identifier groups; the group names are navigation, not another API-surface classification. Each exact symbol has one destination. A member page retains its containing type and shared contracts as explicit query relationships. Shrinking a type retires only unchanged files owned by that same generation scope.
+Small types keep declarations and member details together. Large types link to complete overload families; enum values remain together as one declared value set. Group names are navigation, not another API-surface classification. Each exact symbol has one destination. A member page retains its containing type and shared contracts as explicit query relationships. Shrinking a type retires only unchanged files owned by that same generation scope.
 
-`-SharedAbi` is appropriate only for generated native declarations whose reviewed shared contract states the limits of raw ABI semantics. It does not supply missing safe-wrapper behavior or prove API quality. Handwritten members without XML are rejected. Unsupported XML constructs also fail explicitly; extend the renderer with preservation tests instead of discarding their content.
+Selected engine members without XML are rejected. Unsupported XML constructs also fail explicitly; extend the renderer with preservation tests instead of discarding their content. A shared-use contract does not supply missing member semantics or prove API quality.
 
 XML prose retains lists and fenced examples. Reviewed upstream-relative links have explicit HTTPS destinations. After generation, refresh the canonical catalog and run reference, link, rendered-anchor and source-evidence checks before publication. If preparation fails, the previous immutable query snapshot remains selected; do not describe it as the current mutable checkout.

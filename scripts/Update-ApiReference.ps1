@@ -6,8 +6,7 @@ param(
     [Parameter(Mandatory)][string]$OwnershipManifest,
     [string]$Catalog = 'artifacts/canonical-catalog.json',
     [string]$Root = (Get-Location).Path,
-    [string]$XmlLinks,
-    [switch]$SharedAbi
+    [string]$XmlLinks
 )
 
 $ErrorActionPreference = 'Stop'
@@ -149,7 +148,6 @@ function Normalize-NativeContractBlocks([string]$Text) {
 function Contract-Lines($Symbol) {
     if (-not $Symbol.documentation) {
         if ($Symbol.implicitDeclaration) { return 'Compiler-supplied declaration; initialization and lifetime follow the containing type.' }
-        if ($SharedAbi) { return @() }
         throw "Explicit source contract has no XML; write its semantics before generating reference: $($Symbol.id)"
     }
     $settings = [Xml.XmlReaderSettings]::new()
@@ -254,6 +252,9 @@ if ($selected.Count -ne 1) { throw 'Select exactly one actual extracted project.
 $projectsBytes = [IO.File]::ReadAllBytes((Resolve-Owned $binding.projectManifest))
 if ((Hash $projectsBytes) -cne $binding.projectManifestIdentity) { throw 'Project inventory identity differs from the binding.' }
 $projects = $utf8.GetString($projectsBytes) | ConvertFrom-Json
+if (@($projects | Where-Object { $_.name -ceq $Project -and $_.apiDocumentation -ceq 'backend-native' }).Count -ne 0) {
+    throw 'Backend-native and generated binding APIs are outside the approved engine documentation scope.'
+}
 if (@($projects | Where-Object { $_.name -ceq $Project -and $_.path -ceq $selected[0].project -and $_.surfaces -ccontains $factsModel.model }).Count -ne 1) { throw 'Project and surface must exist in the actual bound inventory.' }
 $catalogModel = Get-Content -LiteralPath (Resolve-Owned $Catalog) -Raw | ConvertFrom-Json -AsHashtable
 if ($catalogModel.revision -cne $binding.revision -or $catalogModel.sourceTree -cne $binding.sourceTree) { throw 'Refresh the canonical catalog for the selected engine source before generating reference.' }
@@ -305,7 +306,6 @@ foreach ($type in $types) {
         'owners:', ('  - ' + $Project), ('apiSurface: ' + $factsModel.model), 'contracts:', ('  - ' + $Contract), '---', ('# ' + (Code $name)), '',
         ('This reference describes ' + (Code $name) + ' in ' + (Code $Project) + '. Read the [shared contract](' + $contractLink + ') for its ownership, availability and lifecycle boundaries.'), '',
         ('**Source context:** ' + (Code $factsModel.model) + ', configuration ' + (Code $factsModel.configuration) + '. Declaration extraction is separate from source execution and script-projection certification.'), ''))
-    if ($SharedAbi) { $lines.Add('Generated declarations without member XML inherit only the explicitly associated shared ABI contract. No safe wrapper, ownership transfer or undocumented upstream behavior is inferred.'); $lines.Add('') }
     if ($type.baseType) { $lines.Add('**Base type:** ' + (Code $type.baseType) + '.'); $lines.Add('') }
     if ($type.interfaces.Count) { $lines.Add('**Direct interfaces:** ' + (($type.interfaces | ForEach-Object { Code $_ }) -join ', ') + '.'); $lines.Add('') }
     $members = @($membersByType[$type.id] | Sort-Object kind, id)
@@ -378,7 +378,7 @@ foreach ($old in $owned.Keys) {
     [IO.File]::Delete($absolute)
 }
 $record = [ordered]@{project=$Project; outputDirectory=$OutputDirectory; sourceRevision=$sourceRevision; sourceTree=$bound[0].sourceTree; facts=$Facts; factsIdentity=$factIdentity;
-    sharedContract=$Contract; sharedAbi=[bool]$SharedAbi; xmlLinks=$XmlLinks; xmlLinksIdentity=$xmlLinkIdentity;
+    sharedContract=$Contract; xmlLinks=$XmlLinks; xmlLinksIdentity=$xmlLinkIdentity;
     files=@($prepared | ForEach-Object { [ordered]@{path=$_.path;sha256=$_.sha256} })}
 Atomic-Write $ownershipPath $utf8.GetBytes(($record | ConvertTo-Json -Depth 8).Replace("`r`n", "`n"))
 Write-Output "Updated $($types.Count) type pages and their index, containing $($captured.Count) source declarations. Authored explanation remains in its shared contract; source certification is unchanged."
