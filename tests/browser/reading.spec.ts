@@ -58,6 +58,27 @@ test('keyboard search reaches a task and handles empty results', async ({ page }
   await expect(page.getByRole('button', { name: 'Search', exact: true })).toBeFocused();
 });
 
+test('short diagnostic identities remain readable inside scrolling tables', async ({ page }) => {
+  await page.goto('manual/scripting/use-script-api/');
+  const table = page.getByRole('table');
+  await expect(table).toBeVisible();
+  for (const value of ['Diagnostic', 'INNO2001', 'INNO2002']) {
+    const cell = table.getByText(value, { exact: true });
+    await expect(cell).toBeVisible();
+    const lines = await cell.evaluate((element) => {
+      const range = document.createRange();
+      range.selectNodeContents(element);
+      return new Set(Array.from(range.getClientRects(), rect => rect.top)).size;
+    });
+    expect(lines).toBe(1);
+  }
+  const geometry = await page.evaluate(() => ({
+    width: document.documentElement.clientWidth,
+    scroll: document.documentElement.scrollWidth,
+  }));
+  expect(geometry.scroll).toBeLessThanOrEqual(geometry.width + 1);
+});
+
 test('keyboard skip link and API contract deep link remain usable', async ({ page }) => {
   await page.goto('api/types/scene/gameobject/');
   await page.keyboard.press('Tab');

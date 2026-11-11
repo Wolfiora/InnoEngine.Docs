@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "d312350e6516435489771c81fc6208ea8547728f1dc94f52523331b35c87c166",
+  "projectManifestIdentity": "398c1193090f0b1dccd67b1b1dbe6db8d54c6b6920bf22c1a98e9045362d98cd",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -203,6 +203,24 @@
       "target": null,
       "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
       "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69"
+    },
+    {
+      "path": "reference/api/scripting.json",
+      "sha256": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
+    },
+    {
+      "path": "reference/api/runtime-composition.json",
+      "sha256": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
     }
   ]
 }

@@ -16,6 +16,8 @@
         - slug: manual/editor/statistics
         - slug: manual/editor/settings
     - slug: manual/identity-and-missing
+    - slug: manual/scripting/use-script-api
+    - slug: manual/runtime/frame-loop
     - label: Scenes and objects
       items:
         - slug: manual/scenes
@@ -129,6 +131,8 @@
     - slug: extending/static-type-catalogs
     - slug: extending/reference-recovery
     - slug: extending/scene-state
+    - slug: extending/script-exports
+    - slug: extending/runtime-host
     - slug: extending/plugin-packages
     - slug: extending/plugin-host
 - label: Platforms & Backends

@@ -44,6 +44,8 @@ Cancellation stops owned work before a partial publication can become current. D
 
 ## Next steps
 
+- [Use the script API](../manual/scripting/use-script-api.md) and diagnose logical namespace access.
+- [Understand compilation and projection](../architecture/script-compilation.md) before extending the compiler.
 - [Validate documented examples](example-validation.md) against these prepared projections.
 - [Add an Editor panel](../extending/editor-panels.md) to understand host-driven lifecycle and script availability.
 - [Build CLI contracts](../api/projects/inno-build-cli.md) explain ownership and product preparation.

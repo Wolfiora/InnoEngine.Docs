@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Adapter",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-adapter",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-adapter",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter/adapterselection.md",
+      "sha256": "88ee7eeebb7b1f18f08ac5a7f1188f165144f2efa240ac4d22717756a218b575"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter/iadaptercatalog.md",
+      "sha256": "d02ea52c6193e2ad2feba070e66a86763eecab4f34b24408026401801dc2e827"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter/index.md",
+      "sha256": "b0fe47b9d801a058c8b7e09470df9c1ffe227dbf7abd4f37296744271d9c559d"
+    }
+  ]
+}

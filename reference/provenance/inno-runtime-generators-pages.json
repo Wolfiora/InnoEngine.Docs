@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Runtime.Generators",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-runtime-generators",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-runtime-generators",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-generators/runtimefactorygenerator.md",
+      "sha256": "a679b69f933bc55f4041408fa01761dcc448efa007278676c7ce4f6fbb477d5b"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-generators/runtimemodulecataloggenerator.md",
+      "sha256": "208e436a5faa5d26e6c14d8eba0616af57175aff991772cbd38960474afd3ea0"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-generators/runtimesubsystemgenerator.md",
+      "sha256": "63ab492d86688cbbf2d5113be489c1fbb612d360dc5786adfe3b046a8a67b1be"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-generators/index.md",
+      "sha256": "2a325b7e4d1d90c0cb1201b612001ba96be403d6d1d4302abea1f9d0acbc7faa"
+    }
+  ]
+}

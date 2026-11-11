@@ -1,0 +1,42 @@
+{
+  "snapshot": "bbdb54446cd8bb1fdab3004a71d96d3cc1d422d3b9416e03ed257639036bbc8c",
+  "contentIdentity": "19e6f6624b42b7b92bc5c5ad440ed50fd855428cc23e200cae32a72309f2e177",
+  "query": "use script api",
+  "sdk": "10.0.402",
+  "runtime": "10.0.14",
+  "host": "Windows x64",
+  "timingBoundary": "Prepared-snapshot query including new CLI process startup; concurrent static site build, not a controlled comparison.",
+  "samples": [
+    {
+      "file": "artifacts/scripting-query-0.json",
+      "bytes": 4320,
+      "elapsedMilliseconds": 1681.3925,
+      "firstResult": "manual.scripting.use-script-api"
+    },
+    {
+      "file": "artifacts/scripting-query-1.json",
+      "bytes": 4320,
+      "elapsedMilliseconds": 802.6272,
+      "firstResult": "manual.scripting.use-script-api"
+    },
+    {
+      "file": "artifacts/scripting-query-2.json",
+      "bytes": 4320,
+      "elapsedMilliseconds": 1198.4573,
+      "firstResult": "manual.scripting.use-script-api"
+    },
+    {
+      "file": "artifacts/scripting-query-3.json",
+      "bytes": 4320,
+      "elapsedMilliseconds": 804.6597,
+      "firstResult": "manual.scripting.use-script-api"
+    },
+    {
+      "file": "artifacts/scripting-query-4.json",
+      "bytes": 4320,
+      "elapsedMilliseconds": 903.3223,
+      "firstResult": "manual.scripting.use-script-api"
+    }
+  ],
+  "medianMilliseconds": 903.3223
+}

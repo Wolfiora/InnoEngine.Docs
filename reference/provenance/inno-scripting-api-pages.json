@@ -1,0 +1,37 @@
+{
+  "project": "Inno.Scripting.Api",
+  "outputDirectory": "content/en/api/types/scripting/inno-scripting-api",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/scripting.json",
+  "factsIdentity": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025",
+  "sharedContract": "project.inno-scripting-api",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/scriptingapiexportattribute.md",
+      "sha256": "b5f30608a430dec78631a85b022c7966c993d9d2ef01695b8a5d0be2efec0a79"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/scriptingapiignoreattribute.md",
+      "sha256": "fafe27acd7725661109c4e24d922c6af53be7a4d3eed89736b1064c742c4fe3b"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/scriptingapinamespaceattribute.md",
+      "sha256": "6d1e44e9a5cb8d22f2674189d9deaeba2f105708dabc797ab4d7138f0787331d"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/scriptingapiscope.md",
+      "sha256": "9b352854d86b92343a674fa19fd01c965796f02c4a332217fa3c5b79b8440a81"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/scriptingattachabletypeattribute.md",
+      "sha256": "55eebfffd9b05f66474c899c9e7aa0be56cb2c647bc7a514ca7e2dc656e8a027"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-api/index.md",
+      "sha256": "85fb4617d52338f89ef0b52641214ee474c7590474424882eebb2c2e3fa151e2"
+    }
+  ]
+}

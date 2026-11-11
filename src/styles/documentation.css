@@ -29,9 +29,11 @@ body { text-rendering: optimizeLegibility; }
 .sl-markdown-content table { display: block; max-width: 100%; overflow-x: auto; font-size: .9rem; }
 .sl-markdown-content th { text-align: left; }
 .sl-markdown-content th, .sl-markdown-content td { min-width: 7ch; }
+.sl-markdown-content th, .sl-markdown-content td { overflow-wrap: normal; }
 .sl-markdown-content a[id^='api-'] { scroll-margin-top: calc(var(--sl-nav-height) + 8rem); }
 .sl-markdown-content pre { overflow-x: auto; overflow-wrap: normal; }
 .sl-markdown-content code:not(pre code) { overflow-wrap: anywhere; }
+.sl-markdown-content table code:not(pre code) { overflow-wrap: normal; }
 .sl-markdown-content a { text-underline-offset: .18em; }
 .sl-markdown-content blockquote { border-inline-start: 3px solid var(--sl-color-accent); background: var(--sl-color-accent-low); padding: .8rem 1.15rem; border-radius: 0 .35rem .35rem 0; }
 :focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 3px; }

@@ -1,0 +1,73 @@
+{
+  "project": "Inno.Scripting.Compiler",
+  "outputDirectory": "content/en/api/types/scripting/inno-scripting-compiler",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/scripting.json",
+  "factsIdentity": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025",
+  "sharedContract": "project.inno-scripting-compiler",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/csharpsamplesourcerewriter.md",
+      "sha256": "27facce13e2b85869fcdc718565f6258f50fab9fe3e6b59d8d07b34cb0a00585"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/iscriptcompilationenvironmentprovider.md",
+      "sha256": "998c4be90ff645102fb65c536fc31a283b0bda70195d1c7add95ab337e39e7e9"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/logicalscriptingapianalyzer.md",
+      "sha256": "2f533f5199f51dbb3dcdaf862bc12289e6a9d508b96d76dca3d772401c9e17b4"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptassemblydefinitionasset.md",
+      "sha256": "c11354b6c9d44b12e1dbac16d5f0d390b049a8abf1ab4ca63d79b47e346bf973"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptassemblyscope.md",
+      "sha256": "3d98180a8f918b29bda3e16cf52f1203a25796bda2c7f07d89031b7413815648"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompilationinputs.md",
+      "sha256": "ae0df34bfcf9b2daa36e61cf83956f65edab5d2999ec6910b6417512ee1a39dd"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompilationprogress.md",
+      "sha256": "cab2bb8778412673292cdd9d5f4ac7205d917fb8cc98ec8d496eda15e22afe01"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompilationresult.md",
+      "sha256": "241713c010df0343d03dac9987a676e2658d04e42fc066bc921d590d219465d9"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompilationstagetiming.md",
+      "sha256": "a91c11529902a36bd638d135b09c41cad7d9d791d5a89f640713337268931938"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompiler.md",
+      "sha256": "683d8758b04c13e50504f148bb1d90ee608da675fc7b12de8a2b7cfa182c5af5"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptcompileroptions.md",
+      "sha256": "3cbb401f522c56e723f35e3c60f50ff99152b34f6781063438edd390ed320536"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptdiagnostic.md",
+      "sha256": "10fef298ee34804a24438913ae4692732b1bd7da48bd6e39474a64e2d607564a"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptmoduledeployment.md",
+      "sha256": "3a0c8ddefa0fab895500f6b20a2c7d42a6b7cc971d04ad4284ac0aa6fd9ca6f5"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/scriptsourceasset.md",
+      "sha256": "a8881149f8d41cee55277c82807c2cac784d08d10724842c8caa13027f6d2e89"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-compiler/index.md",
+      "sha256": "0abe6a8a7d5e92fd742b2e618e65a6ed6f9e9a76bdaaa6dd64175a8dddb4548f"
+    }
+  ]
+}

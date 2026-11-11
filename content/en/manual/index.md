@@ -24,6 +24,8 @@ For source importing, settings, samples and retained runtime content, start with
 
 ## Editor and projects
 
+- [Use the script API](scripting/use-script-api.md), choose logical namespaces and understand Runtime, Editor and Authoring scopes.
+
 - [Start the Editor](../getting-started/first-editor-session.md) and recognize its default workspace.
 - [Open a project](../getting-started/first-project.md) without assuming that templates have been created.
 - [Read logs and current diagnostics](editor/console.md), filter entries, copy details, and control clearing on Play.
@@ -43,6 +45,7 @@ For source importing, settings, samples and retained runtime content, start with
 
 ## State, references, and lifetime
 
+- [Understand frames, suspension and shutdown](runtime/frame-loop.md) through the shared Editor/Player loop.
 - [Preserve and resolve a Missing reference](references/resolve-missing.md) without discarding saved intent.
 - [Read current content for one operation](references/read-content.md) through captured generation identities.
 - [Own asynchronous work](execution/own-async-work.md) before it starts, propagate cancellation and retire its dependencies.
