@@ -33,6 +33,8 @@ Public behavior changes use paired PRs and immutable source identities. Preparin
 
 [Pair an engine change with documentation](pair-engine-documentation.md) explains immutable PR metadata, merge-candidate identities and blocked selections.
 
+[Publish verified documentation](publish-documentation.md) explains artifact-only Pages promotion, restricted evidence access and rejection diagnostics.
+
 ## Branding
 
 The InnoEngine logo was designed by [xdzzyq](https://github.com/XDzzzzzZyq). Its [separate branding license](https://github.com/Wolfiora/InnoEngine.Docs/blob/main/public/branding/LICENSE.txt) applies to the logo and its derivatives; it is not covered by the engine's Apache-2.0 source license.

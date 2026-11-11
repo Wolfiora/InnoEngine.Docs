@@ -2,6 +2,8 @@
 
 Status: implementation in progress. This record does not certify final coverage or deployment.
 
+Current checkpoint (2026-11-12): the canonical catalog contains 2,530 pages and all 252 project entries. The engine's 437 legacy Markdown pages and duplicate query/Wiki execution have been removed with all 454 inventoried dispositions accounted for. The [cutover record](../acceptance/CANONICAL_CUTOVER_2026_11_12.md) distinguishes content migration from source certification. [Publication boundaries](../acceptance/PUBLICATION_BOUNDARIES_2026_11_12.md) now include artifact-only deployment implementation and negative acceptance. Actual platform source evidence, trusted evidence import, successful engine matrix execution, restricted App setup, Pages publication and final delivery remain incomplete.
+
 ## Approved scope amendment: engine documentation only
 
 On 2026-11-11 the user explicitly removed backend-native and generated binding API documentation from scope and requested faster delivery. The English Manual and reference now cover the engine's own services, managed adapters, extension contracts and tooling. Native implementation projects retain only useful engine integration/ownership overviews; third-party ABI type/member pages, raw-binding examples and their extraction obligations are retired. Native builds, runtime tests and deployment integrity requirements are unchanged.
@@ -16,7 +18,7 @@ The initial engine baseline is `a4e44769715c0577fb0a4c13b2d14ad998ddd8e1`. Its i
 
 The public repository was created with `main` as its default branch. Implementation is on `docs-modernization`; it must reach `main` through a reviewed PR. Neither repository may be automatically merged.
 
-## Current implementation
+## Initial implementation checkpoint (historical)
 
 - Astro/Starlight reads `content/en/` directly; no duplicate framework content tree is maintained.
 - Task navigation, Markdown link projection, light/dark styling, local browser search and the GitHub Pages base path are implemented.
@@ -26,9 +28,9 @@ The public repository was created with `main` as its default branch. Implementat
 
 ## Remaining completion gates
 
-Full page migration/review, exact API reference coverage, remaining task guides, cross-repository rule authority, shared parser/validator migration, source API evidence binding, paired PR verification, cross-repository App setup, actual Pages publication, visual/accessibility matrix, Windows/macOS CI, draft-release verification and legacy removal remain required. All 58 active engine rule units are now English with the original 241 identities preserved.
+The migration ledger and current acceptance records supersede the initial counts and representative-slice status above. Remaining gates include the three actual platform source captures, trusted source API evidence binding and import, live paired PR/promotion verification, cross-repository App setup, actual Pages publication, final source/example certification, Windows/macOS CI and draft-release verification. All 58 active engine rule units are English with the original 241 identities preserved. The hosted 72-journey browser suite has passed; this does not turn missing source certification into a pass.
 
-Do not label preview builds as complete documentation certification. Do not delete the old engine product documentation until its reviewed destinations and callers have migrated.
+Do not label preview builds as complete documentation certification. The completed physical cutover must not be reversed by reintroducing duplicate engine documentation or retired query wrappers.
 
 ## Initial failures and corrections
 

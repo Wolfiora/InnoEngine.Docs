@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Artifact-only publication boundaries](PUBLICATION_BOUNDARIES_2026_11_12.md): exact file and run identities, archive rejection, paired receipts and outstanding live deployment.
+
 - [Canonical documentation cutover](CANONICAL_CUTOVER_2026_11_12.md): retired engine documentation, refreshed tool reference, source dispositions and rendered projection.
 
 - [UI and RmlUi migration](UI_RMLUI_2026_11_11.md): actual document/import/rendering boundaries, declaration preservation, script compilation and retained indexing regression.

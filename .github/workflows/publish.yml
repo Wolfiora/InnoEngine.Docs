@@ -1,0 +1,136 @@
+name: Publish documentation
+
+on:
+  workflow_dispatch:
+    inputs:
+      documentation_run:
+        description: Successful Documentation run ID (a PR preview is not publishable)
+        required: true
+        type: string
+      documentation_commit:
+        description: Exact verified Docs commit
+        required: true
+        type: string
+      engine_run:
+        description: Successful matching Engine CI run ID
+        required: true
+        type: string
+      engine_commit:
+        description: Exact matching engine candidate commit
+        required: true
+        type: string
+      bootstrap:
+        description: Publish the approved ai-pipeline and docs-modernization development candidate
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: documentation-pages-promotion
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    name: Verify publication artifact
+    if: github.repository == 'Wolfiora/InnoEngine.Docs' && (github.ref == 'refs/heads/main' || (inputs.bootstrap && github.ref == 'refs/heads/docs-modernization'))
+    runs-on: windows-2025
+    env:
+      DOCUMENTATION_RUN: ${{ inputs.documentation_run }}
+      DOCUMENTATION_COMMIT: ${{ inputs.documentation_commit }}
+      ENGINE_RUN: ${{ inputs.engine_run }}
+      ENGINE_COMMIT: ${{ inputs.engine_commit }}
+      BOOTSTRAP: ${{ inputs.bootstrap }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+      - name: Require the restricted cross-repository installation
+        shell: pwsh
+        env:
+          APP_ID: ${{ vars.INNO_DOCS_APP_ID }}
+          APP_KEY: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+        run: |
+          if (-not $env:APP_ID -or -not $env:APP_KEY) { throw 'Blocked: configure the restricted InnoEngine/InnoEngine.Docs GitHub App installation before promotion.' }
+          New-Item -ItemType Directory -Path artifacts/publication | Out-Null
+      - name: Obtain read-only cross-repository evidence access
+        id: evidence
+        uses: actions/create-github-app-token@fee1f7d63c2ff003460e3d139729b119787bc349 # v2
+        with:
+          app-id: ${{ vars.INNO_DOCS_APP_ID }}
+          private-key: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+          owner: Wolfiora
+          repositories: InnoEngine,InnoEngine.Docs
+          permission-actions: read
+          permission-contents: read
+      - name: Verify successful workflow origins and exact attempts
+        id: selected
+        env:
+          GH_TOKEN: ${{ steps.evidence.outputs.token }}
+        run: node scripts/publication-source.mjs select artifacts/publication/selection.json
+      - name: Import digest-verified payloads without executing candidate code
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ steps.evidence.outputs.token }}
+        run: |
+          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/publication/selection.json -Source documentation -Destination artifacts/publication/site
+          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/publication/selection.json -Source engine -Destination artifacts/publication/engine
+      - name: Reconcile the site bytes and engine/documentation pair
+        shell: pwsh
+        env:
+          DOCUMENTATION_ATTEMPT: ${{ steps.selected.outputs.documentation-attempt }}
+        run: |
+          node scripts/publication-artifact.mjs verify artifacts/publication/site $env:DOCUMENTATION_COMMIT $env:DOCUMENTATION_RUN $env:DOCUMENTATION_ATTEMPT > artifacts/publication/files.json
+          if ($LASTEXITCODE -ne 0) { throw 'The retained site differs from its verification manifest.' }
+          node scripts/publication-source.mjs pair artifacts/publication/selection.json artifacts/publication/engine/certification.json artifacts/publication/site/publication.json > artifacts/publication/pairing.json
+          if ($LASTEXITCODE -ne 0) { throw 'The engine matrix does not certify this exact documentation candidate.' }
+      - name: Recheck source eligibility immediately before transport
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ steps.evidence.outputs.token }}
+        run: |
+          node scripts/publication-source.mjs select artifacts/publication/closing-selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'Publication inputs changed before promotion.' }
+          $before = Get-Content artifacts/publication/selection.json -Raw | ConvertFrom-Json
+          $after = Get-Content artifacts/publication/closing-selection.json -Raw | ConvertFrom-Json
+          foreach ($source in @('documentation', 'engine')) {
+            foreach ($field in @('id', 'digest', 'run', 'attempt', 'commit')) {
+              if ($before.$source.$field -cne $after.$source.$field) { throw "Publication source changed: $source/$field" }
+            }
+          }
+          tar -cf artifacts/publication/artifact.tar -C artifacts/publication/site .
+          if ($LASTEXITCODE -ne 0) { throw 'Verified Pages transport preparation failed.' }
+      - name: Upload the same verified static files for Pages
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: github-pages
+          path: artifacts/publication/artifact.tar
+          if-no-files-found: error
+          retention-days: 90
+      - name: Preserve promotion evidence and first failure
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: publication-evidence-attempt-${{ github.run_attempt }}
+          path: artifacts/publication/*.json
+          if-no-files-found: warn
+          retention-days: 30
+
+  deploy:
+    name: Deploy verified documentation
+    needs: verify
+    runs-on: windows-2025
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the verified Pages artifact without rebuilding
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

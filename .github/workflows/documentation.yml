@@ -46,6 +46,9 @@ jobs:
           global-json-file: artifacts/engine-source/global.json
       - run: npm ci
       - run: npm test
+      - name: Verify bounded artifact import and rejection
+        shell: pwsh
+        run: ./tests/PublicationArchive.Tests.ps1
       - name: Prepare canonical catalog using managed tooling only
         shell: pwsh
         run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
@@ -72,6 +75,16 @@ jobs:
         run: |
           node scripts/check-projection.mjs artifacts/canonical-catalog.json dist --complete > artifacts/completion.json
           if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
+      - name: Freeze the verified site and exact provenance
+        run: node scripts/publication-artifact.mjs create dist artifacts/canonical-catalog.json artifacts/completion.json
+      - name: Retain the verified site for artifact-only promotion
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-site-attempt-${{ github.run_attempt }}
+          path: dist/
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 90
       - name: Preserve first-failure and catalog diagnostics
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
