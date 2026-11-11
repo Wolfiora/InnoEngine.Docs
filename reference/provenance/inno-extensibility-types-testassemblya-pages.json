@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Extensibility.Types.TestAssemblyA",
+  "outputDirectory": "content/en/api/types/test-support/inno-extensibility-types-testassemblya",
+  "sourceRevision": "9a86549b9ed57ef77d3bcbb8fa78e745cc48ff6b",
+  "sourceTree": "7a048d0d704461090f3acec14f709f0042fe28bb",
+  "facts": "reference/api/test-support.json",
+  "factsIdentity": "744bd45ff219a81bb0bc98bd251834d7a2eda961a4d3acede4e4eb8d55808aba",
+  "sharedContract": "project.inno-extensibility-types-testassemblya",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/test-support/inno-extensibility-types-testassemblya/inno.extensibility.types.testassets.a.assemblyamarkedtype.md",
+      "sha256": "6f0418e045e1b34849943391ca4bbdeee8b9a581a15ce752a303a7610679ccf2"
+    },
+    {
+      "path": "content/en/api/types/test-support/inno-extensibility-types-testassemblya/inno.extensibility.types.testassets.a.assemblyamarkerattribute.md",
+      "sha256": "e07cf9a6450cdb3f28c3713437f1369721b88ec0f29b9991ead8fad9d64a25af"
+    },
+    {
+      "path": "content/en/api/types/test-support/inno-extensibility-types-testassemblya/index.md",
+      "sha256": "5cd62a5b45d8415356463d04dbeb74096954db1baaafab972691713e62b4b714"
+    }
+  ]
+}

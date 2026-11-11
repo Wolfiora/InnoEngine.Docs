@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Extensibility.Modules.TestModule.V1",
+  "outputDirectory": "content/en/api/types/test-support/inno-extensibility-modules-testmodule-v1",
+  "sourceRevision": "9a86549b9ed57ef77d3bcbb8fa78e745cc48ff6b",
+  "sourceTree": "7a048d0d704461090f3acec14f709f0042fe28bb",
+  "facts": "reference/api/test-support.json",
+  "factsIdentity": "744bd45ff219a81bb0bc98bd251834d7a2eda961a4d3acede4e4eb8d55808aba",
+  "sharedContract": "project.inno-extensibility-modules-testmodule-v1",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/test-support/inno-extensibility-modules-testmodule-v1/inno.extensibility.modules.testmodule.reloadableextension.md",
+      "sha256": "9882caa34c21cb4cc3393385c0cf4d903ecc38d143b2dc4376e684c4b6bdbcc5"
+    },
+    {
+      "path": "content/en/api/types/test-support/inno-extensibility-modules-testmodule-v1/index.md",
+      "sha256": "b128dca0b25ef031186285e696839c1d521a174cb068314659fc975fc142c589"
+    }
+  ]
+}

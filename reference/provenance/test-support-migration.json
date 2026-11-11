@@ -1,0 +1,214 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "9a86549b9ed57ef77d3bcbb8fa78e745cc48ff6b",
+  "sourceTree": "7a048d0d704461090f3acec14f709f0042fe28bb",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Assets.Pipeline.DuplicateImporterFixture.md",
+      "sourceSha256": "f1d10536bbd58fb75a20c4ea4b14044e59f50e1d8b9685487c53974b0ef5c062",
+      "sourceBlobSha256": "d568c99b3c2be79190f04cd11ccdabebf1b95b2cae687e5e23ecf459087d0a23",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-assets-pipeline-duplicateimporterfixture.md"
+      ],
+      "baselineSymbols": 10,
+      "capturedSymbols": 10,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Content.CacheProbe.md",
+      "sourceSha256": "1cd3300ba9da6bbf5715d3c5045a82125a363fc4d4263f1218096551e7d12a61",
+      "sourceBlobSha256": "1cd3300ba9da6bbf5715d3c5045a82125a363fc4d4263f1218096551e7d12a61",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-content-cacheprobe.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Content.Testing.md",
+      "sourceSha256": "ff590a1f5fd0dcf2e125de245d92f2cea0de6cc75d594433a0bcf27ff5760166",
+      "sourceBlobSha256": "6bf313992d361e983c6c4a29a4205581674547a7339a897a3a916f7762b94e20",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-content-testing.md"
+      ],
+      "baselineSymbols": 8,
+      "capturedSymbols": 8,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Testing.Editor.Native.md",
+      "sourceSha256": "6dd4a38ea4c3f0e7d7c472a3c9919e98ff2dd52aec6f2e4d94784d2b010bd836",
+      "sourceBlobSha256": "6d73d83b958bbf72f6ae7e6ee996e002337e398e63570a764379c262f6c089f3",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-testing-editor-native.md"
+      ],
+      "baselineSymbols": 37,
+      "capturedSymbols": 37,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Modules.TestDependency.md",
+      "sourceSha256": "324fac09e52218f9bd4c8dff091ebadafad5501494d54ee4424e4442be755022",
+      "sourceBlobSha256": "cf0499bfd086d94edf0131339c80ea9dae64a18612f1a2716f6e9aa704a6208e",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-modules-testdependency.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Modules.TestModule.Invalid.md",
+      "sourceSha256": "60841f76c31a3e7f4fb012dbac33389dbc75f959dbfcbe31b78c63375f945a2d",
+      "sourceBlobSha256": "d12d702ae41fb4a7c71e1b37ed19d2c6d8d5485ac107d4210022584e7407f5e8",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-modules-testmodule-invalid.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Modules.TestModule.V1.md",
+      "sourceSha256": "c75db843c68fa407a2c61ce353504b52e033296ff641bec7b201836313c1376e",
+      "sourceBlobSha256": "83d05b6b1af2164c37f98102bb7a707a93f7cb24b57b464d90a0211c7f7cef77",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-modules-testmodule-v1.md"
+      ],
+      "baselineSymbols": 3,
+      "capturedSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Modules.TestModule.V2.md",
+      "sourceSha256": "55d32e737b6ae6762ed0aedc606651488a8e319a19abd067cd353292eab4827a",
+      "sourceBlobSha256": "3c834346814b78bdcffb392053037bf3f16685bac479c8e6534df0a5fb044a6f",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-modules-testmodule-v2.md"
+      ],
+      "baselineSymbols": 3,
+      "capturedSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Types.TestAssemblyA.md",
+      "sourceSha256": "296affc3f0d943fd3c84c891f7c63e0d25b3efb3d73c9bfac05ce32f9e0b0b58",
+      "sourceBlobSha256": "44daf88ad8938bebbfabdb7fefca9604c35879c30d2e6117b74de717afc5eee6",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-types-testassemblya.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Types.TestAssemblyB.md",
+      "sourceSha256": "104c2a6715a9da586561cf42b0e588cf7e4bf7aff076bad66f7f4db07d152e3f",
+      "sourceBlobSha256": "45153abaa9409b63e1d53bb43017fe68042a71c2a3d2491c75736a290b609c2d",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-extensibility-types-testassemblyb.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Testing.Processes.md",
+      "sourceSha256": "a40e28b0617095dd069e4c47928d05b1d7debf4605adc83ddf2b81f7c7965ef6",
+      "sourceBlobSha256": "ef7aa86a580ec6fdbcff0a9f18cf26c1bb59ded9bed6e5ba442677feb62d572b",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-testing-processes.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Runtime.Reload.TestModule.md",
+      "sourceSha256": "8f8085fc15d12478df61fb9641c5e2774ef541db2b9713f485430514afd52a9c",
+      "sourceBlobSha256": "62001397c8c38c36b0accc3c850df7143fb25e81701e3bb69907b97c37618ba9",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-rendering-runtime-reload-testmodule.md"
+      ],
+      "baselineSymbols": 6,
+      "capturedSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Scene.Reload.TestModule.md",
+      "sourceSha256": "b4d6c71b2ef7b4ea9b70fc27d82918f1ce32de691abdb04eb8d7c175ef74ce1b",
+      "sourceBlobSha256": "a630f0cb08257ad63a053e982e7af78c3b041e88703c965b005619a9dda7e44b",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-scene-reload-testmodule.md"
+      ],
+      "baselineSymbols": 8,
+      "capturedSymbols": 8,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/development/testing/Inno.Testing.Source.md",
+      "sourceSha256": "b8a9ffef171ea65b82cb926af880f80fcdc15c51859509488f21fee151241987",
+      "sourceBlobSha256": "d9816d8f660337e735f75565668ead862e53deb4b2eb5bc7c888f36cec87cbda",
+      "sourceNewlineRelationship": "Original checkout bytes and Git baseline blob preserved; only newline normalization used for their content comparison.",
+      "destinations": [
+        "content/en/contributing/testing/support/inno-testing-source.md"
+      ],
+      "baselineSymbols": 3,
+      "capturedSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/development/testing/README.md",
+      "sourceSha256": "2657243339e6a763eae5a75d3bd4b65e8e9d5ee9458144488fcf62306c195c3e",
+      "destinations": [
+        "content/en/contributing/testing/index.md",
+        "content/en/contributing/testing/support/index.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NavigationAndNativeExecutionRequirementsReviewed"
+    }
+  ]
+}

@@ -8,6 +8,8 @@ kind: landing
 
 Choose the behavior under test, then inspect the relevant suite's environment and source assertions. [Validate an engine change](../validate-change.md) explains the shared planning and execution workflow. The validation planner uses actual project relationships; this navigation is not an executable selection table.
 
+When writing a new case, start with [reusable test support and fixtures](support/index.md) for content, process, source-input and native Editor ownership.
+
 ## Foundation contracts
 
 - [Collection indexes and dependency tests](inno-core-collections-tests.md): Verify mutable indexes and deterministic dependency snapshots.
