@@ -179,6 +179,7 @@
 - label: Platforms & Backends
   items:
     - slug: platforms
+    - slug: platforms/product-composition
     - slug: platforms/select-target
     - slug: platforms/publish-player
     - slug: platforms/window-lifetime
@@ -352,6 +353,13 @@
         - slug: api/projects/inno-editor-shaders
         - slug: api/projects/inno-editor-graph
         - slug: api/projects/inno-editor-hosting
+    - label: Product compositions
+      items:
+        - slug: api/projects/inno-editor-windowsx64
+        - slug: api/projects/inno-player-windowsx64
+        - slug: api/projects/inno-editor-macosarm64
+        - slug: api/projects/inno-player-macosarm64
+        - slug: api/projects/inno-player-browserwasm32
     - label: Managed backend integration
       items:
         - slug: api/projects/inno-build-toolchains-bgfx-shaders

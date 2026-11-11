@@ -49,6 +49,27 @@ test('same-size edits and new files invalidate canonical content without timesta
   assert.match(result.errors.join('\n'), /Stale canonical content/);
 });
 
+test('an entry and verification label cannot replace an evaluated empty or populated source surface', async (t) => {
+  const f = await fixture(t);
+  f.catalog.sourceApiStatus = 'Verified';
+  const available = await checkProjection(f);
+  assert.deepEqual(available.api.missingSourceCaptures, ['Probe']);
+  const complete = await checkProjection({ ...f, complete: true });
+  assert.equal(complete.status, 'Failed');
+  assert.match(complete.errors.join('\n'), /lack an evaluated source API capture: Probe/);
+
+  const facts = JSON.stringify({model:'source-clr',configuration:'Debug',projects:[{name:'Probe',project:'src/Probe.csproj',symbols:[]}]});
+  const projects = JSON.stringify([{name:'Probe',path:'src/Probe.csproj',surfaces:['source-clr']}]);
+  f.binding.projectManifestIdentity = digest(projects);
+  f.binding.apiManifests = [{path:'reference/probe.json',sha256:digest(facts),model:'source-clr',configuration:'Debug',sourceRevision:'a'.repeat(40),sourceTree:'b'.repeat(40)}];
+  await f.write('reference/probe.json', facts);
+  await f.write('reference/projects.json', projects);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  const captured = await checkProjection({...f,complete:true});
+  assert.deepEqual(captured.api.missingSourceCaptures, []);
+  assert.equal(captured.status, 'Passed');
+});
+
 test('missing rendered contracts, duplicate H1 and base path escapes fail', async (t) => {
   const f = await fixture(t);
   await f.write('dist/index.html', '<h1>Probe</h1><h1>Duplicate</h1><a href="/manual/">Manual</a>');

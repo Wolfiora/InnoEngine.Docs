@@ -1,0 +1,51 @@
+{
+  "model": "source-clr",
+  "configuration": "Debug",
+  "target": "windows-x64",
+  "sourceApiStatus": "Unverified",
+  "projects": [
+    {
+      "project": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/Inno.Editor.WindowsX64.csproj",
+      "name": "Inno.Editor.WindowsX64",
+      "symbols": [
+        {
+          "project": "Inno.Editor.WindowsX64",
+          "id": "T:Inno.Editor.WindowsX64.WindowsX64EditorComposition",
+          "signature": "public static class Inno.Editor.WindowsX64.WindowsX64EditorComposition",
+          "signatureHash": "a06779fcf6546eb6f91584e929c2b4ae48af1a58dab9df02fafd45d05c635f35",
+          "source": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/WindowsX64EditorComposition.cs",
+          "line": 39,
+          "page": "",
+          "documentation": "<member name=\"T:Inno.Editor.WindowsX64.WindowsX64EditorComposition\">\r\n    <summary>\r\n    Composes the Windows Editor from explicit platform integrations and shared product hosting.\r\n    </summary>\r\n</member>\r\n",
+          "implicitDeclaration": false,
+          "constantValue": null,
+          "kind": "NamedType",
+          "containingType": null,
+          "baseType": "object",
+          "interfaces": []
+        },
+        {
+          "project": "Inno.Editor.WindowsX64",
+          "id": "M:Inno.Editor.WindowsX64.WindowsX64EditorComposition.Run(System.String[],System.Threading.CancellationToken)",
+          "signature": "public static int Inno.Editor.WindowsX64.WindowsX64EditorComposition.Run(string[] arguments, System.Threading.CancellationToken cancellationToken)",
+          "signatureHash": "16844ebf84914aa7fadb4f3dda674b3005ed81938c05640c4a92edd1ab723ee9",
+          "source": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/WindowsX64EditorComposition.cs",
+          "line": 54,
+          "page": "",
+          "documentation": "<member name=\"M:Inno.Editor.WindowsX64.WindowsX64EditorComposition.Run(System.String[],System.Threading.CancellationToken)\">\r\n    <summary>\r\n    Runs the platform Editor on the caller's main thread; no directory opens the native folder dialog.\r\n    </summary>\r\n    <param name=\"arguments\">\r\n    An optional project directory and the shared Editor command-line options.\r\n    </param>\r\n    <returns>\r\n    Zero on normal exit or dialog cancellation, two on cancellation or invalid arguments, or one on startup failure.\r\n    </returns>\r\n    <param name=\"cancellationToken\">\r\n    Cancels preparation or requests orderly shutdown of the shared Editor host.\r\n    An open native folder dialog retains its callback owner until the user completes or closes it.\r\n    </param>\r\n</member>\r\n",
+          "implicitDeclaration": false,
+          "constantValue": null,
+          "kind": "Method",
+          "containingType": "T:Inno.Editor.WindowsX64.WindowsX64EditorComposition",
+          "baseType": null,
+          "interfaces": []
+        }
+      ]
+    },
+    {
+      "project": "platforms/WindowsX64/player/Inno.Player.WindowsX64/Inno.Player.WindowsX64.csproj",
+      "name": "Inno.Player.WindowsX64",
+      "symbols": []
+    }
+  ]
+}

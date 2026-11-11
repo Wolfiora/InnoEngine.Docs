@@ -90,6 +90,7 @@ export async function checkProjection({ root, catalog, site, complete = false })
   const licenses = await checkLicenseProvenance(root, errors);
   const missingProjects = Object.entries(catalog.projects).filter(([, entry]) => entry === null).map(([name]) => name);
   if (complete && missingProjects.length) errors.push(`${missingProjects.length} actual projects lack an authoritative entry.`);
+  if (complete && api.missingSourceCaptures.length) errors.push(`Engine projects lack an evaluated source API capture: ${api.missingSourceCaptures.join(', ')}.`);
   if (complete && catalog.sourceApiStatus !== 'Verified') errors.push(`Source API verification is ${catalog.sourceApiStatus}; publication requires matching evidence.`);
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
@@ -120,6 +121,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
   const expected = new Map();
   const observed = new Map();
   const excludedCatalogSymbols = [];
+  const capturedSourceProjects = new Set();
   const key = (project, surface, id) => `${project}\0${surface}\0${id}`;
   for (const reference of binding.apiManifests ?? []) {
     if (!/^[a-f0-9]{40}$/.test(reference.sourceRevision ?? '') || !/^[a-f0-9]{40}$/.test(reference.sourceTree ?? '')) {
@@ -155,6 +157,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
         continue;
       }
       excludedCatalogSymbols.push(...selected.excluded.map(symbol => ({ project: project.name, ...symbol })));
+      if (facts.model === 'source-clr') capturedSourceProjects.add(project.name);
       for (const symbol of project.symbols) {
         if (digest(symbol.signature) !== symbol.signatureHash) errors.push(`Extracted signature hash is invalid: ${symbol.id}.`);
       }
@@ -182,6 +185,8 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
     if (!observed.has(identity)) errors.push(`Extracted API has no authored contract: ${symbol.id}.`);
   }
   return { extractedSymbols: expected.size, authoredSymbols: observed.size,
+    missingSourceCaptures: projects.filter(project => !project.isTest && project.apiDocumentation !== 'backend-native'
+      && !capturedSourceProjects.has(project.name)).map(project => project.name),
     excludedCatalogSymbols,
     excludedNativeProjects: projects.filter(project => project.apiDocumentation === 'backend-native').map(project => project.name),
     scope: 'Bound engine declarations only; backend-native and generated binding references are excluded by the approved scope. Source execution, script projections and semantic prose review remain separate.' };

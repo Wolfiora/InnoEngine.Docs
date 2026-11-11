@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "7f89f8f3b7320cc84c453adf99014bacd2180dd5f175d1b0662b6bcdb399e69f",
+  "projectManifestIdentity": "df065051543efef82b119df4b49fcd86e3b22faf5760cb646e20d50e40b3a20a",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -338,6 +338,15 @@
       "target": null,
       "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
       "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
+    },
+    {
+      "path": "reference/api/platform-products-windows.json",
+      "sha256": "db8ef04349b32bc8aef420f86a48a5b2cb898b11a6c8ee8b69c323cf96b33917",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": "windows-x64",
+      "sourceRevision": "c63dae76b618578863de6022b38211a835a8d876",
+      "sourceTree": "1d1f223f56d0360d3b387aca2601788dcc624f36"
     }
   ]
 }

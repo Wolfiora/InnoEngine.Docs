@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Editor.WindowsX64",
+  "outputDirectory": "content/en/api/types/windows-editor",
+  "sourceRevision": "c63dae76b618578863de6022b38211a835a8d876",
+  "sourceTree": "1d1f223f56d0360d3b387aca2601788dcc624f36",
+  "facts": "reference/api/platform-products-windows.json",
+  "factsIdentity": "db8ef04349b32bc8aef420f86a48a5b2cb898b11a6c8ee8b69c323cf96b33917",
+  "sharedContract": "project.inno-editor-windowsx64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+      "sha256": "4444d7c67e4f6d752da0d8e4d8b1af63c9b1292c979812666d1c19583457a7b9"
+    },
+    {
+      "path": "content/en/api/types/windows-editor/index.md",
+      "sha256": "e6366e949e837181363d4117f94ba4502dc4b521d28b4f9f0eed9d302be6d49e"
+    }
+  ]
+}
