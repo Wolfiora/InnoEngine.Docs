@@ -1,0 +1,159 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
+  "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/modules/assets/Inno.Assets.Pipeline.md",
+      "sourceSha256": "ed5f46af4155f590faf1f9fe7f52d35b4c1812da4a33d4ba942581a1ffc64480",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 333,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/Inno.Assets.Pipeline/api.md",
+      "sourceSha256": "98475a5eeeba17128fe2e2cd2891708abea8d09e596a7d8f5594acdb6f4ae565",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/Inno.Assets.md",
+      "sourceSha256": "0c509549253959cf100e6a3c855354cb6d3654e6e8ecf72fcf888fc78810f4dd",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 30,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/Inno.Assets/api.md",
+      "sourceSha256": "9f228f855cf66d335378a63043a269bde0102a74d8afd19095679ac25f863c90",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 221,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/Inno.Content.md",
+      "sourceSha256": "68b081f9bbb6042c2fb02a838f41e42cfc1d0cce0d143db675cc6ce013f8af3f",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 62,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/Inno.Content/api.md",
+      "sourceSha256": "2aaebf2acf5d62f50a1064c82c1fce107f48c5481eb135e42b0955b612017d69",
+      "destinations": [
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-assets-pipeline.md",
+        "content/en/api/projects/inno-content.md",
+        "content/en/manual/assets/index.md",
+        "content/en/manual/assets/read-assets.md",
+        "content/en/manual/assets/read-artifacts.md",
+        "content/en/manual/assets/import-settings.md",
+        "content/en/manual/assets/import-samples.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/manual/assets/troubleshooting.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/extending/asset-importers.md"
+      ],
+      "baselineSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/assets/README.md",
+      "sourceSha256": "10f0d2fa67691d2cdae702151e86f95c9765a17e7951c638128738ce6750b530",
+      "destinations": [
+        "content/en/manual/assets/index.md",
+        "content/en/architecture/asset-publication.md",
+        "content/en/api/projects/inno-assets.md",
+        "content/en/api/projects/inno-content.md"
+      ],
+      "baselineSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    }
+  ],
+  "semanticNotes": [
+    "Source-mount transaction history was rewritten as the current mechanism; old migration-gap claims are not promoted as product behavior.",
+    "Read-only mounts, last-good authoring data, current import failure and runtime export certification remain distinct.",
+    "Reference pages require the full concise project contract so artifact-reading and export constraints are not lost when reading one member."
+  ]
+}

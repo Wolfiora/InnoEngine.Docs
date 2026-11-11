@@ -26,6 +26,15 @@
         - slug: manual/scenes/tags-and-layers
         - slug: manual/scenes/missing
     - slug: manual/register-identity
+    - label: Assets and content
+      items:
+        - slug: manual/assets
+        - slug: manual/assets/read-assets
+        - slug: manual/assets/read-artifacts
+        - slug: manual/assets/import-settings
+        - slug: manual/assets/import-samples
+        - slug: manual/assets/read-content-pack
+        - slug: manual/assets/troubleshooting
     - label: References and Missing
       items:
         - slug: manual/references/resolve-missing
@@ -82,6 +91,7 @@
         - slug: manual/ui/author-rml
 - label: Architecture
   items:
+    - slug: architecture/asset-publication
     - slug: architecture/overview
     - slug: architecture/ownership
     - slug: architecture/scene-lifecycle
@@ -94,6 +104,7 @@
     - slug: architecture/ui-lifetime
 - label: Extending InnoEngine
   items:
+    - slug: extending/asset-importers
     - slug: extending
     - slug: extending/customize-console
     - slug: extending/editor-panels
@@ -131,6 +142,11 @@
     - slug: backends/dotnet-serialization
 - label: API Reference
   items:
+    - label: Asset and content reference
+      items:
+        - slug: api/projects/inno-assets
+        - slug: api/projects/inno-assets-pipeline
+        - slug: api/projects/inno-content
     - slug: api
     - slug: api/projects/inno-tooling-documentation
     - label: Content reference

@@ -3,6 +3,7 @@ import { expect, test } from '@playwright/test';
 const journeys = [
   ['', 'InnoEngine'],
   ['manual/scenes/prefabs/', 'Instantiate a prefab'],
+  ['manual/assets/import-settings/', 'Edit asset import settings'],
   ['extending/editor-panels/', 'Add an Editor panel'],
   ['api/types/scene/gameobject/', 'GameObject'],
 ] as const;

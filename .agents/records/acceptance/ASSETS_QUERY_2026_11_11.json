@@ -1,0 +1,47 @@
+{
+  "query": "edit import settings",
+  "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715",
+  "contentIdentity": "074597dc313114ff73e0c6ddb5ec44a4f1c0094a0ce7ac6d1b288524c10f562d",
+  "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
+  "environment": "Windows; .NET SDK 10.0.402/runtime 10.0.14; local prepared snapshot; process startup included",
+  "samples": [
+    {
+      "milliseconds": 594.2841,
+      "bytes": 4252,
+      "firstPage": "content/en/manual/assets/import-settings.md",
+      "status": "Found",
+      "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715"
+    },
+    {
+      "milliseconds": 637.4379,
+      "bytes": 4252,
+      "firstPage": "content/en/manual/assets/import-settings.md",
+      "status": "Found",
+      "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715"
+    },
+    {
+      "milliseconds": 613.0848,
+      "bytes": 4252,
+      "firstPage": "content/en/manual/assets/import-settings.md",
+      "status": "Found",
+      "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715"
+    },
+    {
+      "milliseconds": 694.6158,
+      "bytes": 4252,
+      "firstPage": "content/en/manual/assets/import-settings.md",
+      "status": "Found",
+      "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715"
+    },
+    {
+      "milliseconds": 859.8738,
+      "bytes": 4252,
+      "firstPage": "content/en/manual/assets/import-settings.md",
+      "status": "Found",
+      "snapshot": "8ba8f84a1ef46597156ac3b2d1ac68a8187d665f64f946c96ec929c5ba24f715"
+    }
+  ],
+  "medianMilliseconds": 637.4379,
+  "expectedPage": "content/en/manual/assets/import-settings.md",
+  "scope": "Five warm read-only queries. No SDK graph, engine/native preparation or network. No cross-machine or before/after claim."
+}

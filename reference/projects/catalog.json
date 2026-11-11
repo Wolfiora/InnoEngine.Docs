@@ -938,21 +938,27 @@
     "name": "Inno.Assets.Pipeline",
     "path": "src/content/assets/Inno.Assets.Pipeline/Inno.Assets.Pipeline.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Assets",
     "path": "src/content/assets/Inno.Assets/Inno.Assets.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Content",
     "path": "src/content/deployment/Inno.Content/Inno.Content.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

@@ -1,0 +1,173 @@
+{
+  "project": "Inno.Assets.Pipeline",
+  "outputDirectory": "content/en/api/types/assets-pipeline",
+  "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
+  "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475",
+  "facts": "reference/api/assets-content.json",
+  "factsIdentity": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec",
+  "sharedContract": "project.inno-assets-pipeline",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/assets-pipeline/assetartifactwriter.md",
+      "sha256": "7b4c5310d6ea46cea3b37a183bd7b23fd54bf370d5ad741b5ed44c105cc1297f"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetbuildcontext-1.md",
+      "sha256": "477a93e722dee373512a10049f2a5bc452b195015075515d026f7295d5012881"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetbuildprocessor.md",
+      "sha256": "ae286850bd47ff3f0b2ef99896339de2a5e254838f59ddac14775efbf3481ef2"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetbuildprocessor-1.md",
+      "sha256": "0f507d5fc37255edada12274f2aad3792b11b832dc3201b0382a081281aabe3a"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetbuildprocessorattribute.md",
+      "sha256": "6a8e339b1862ccf163f711bab73adf9bb8dd63d7173e09c73611e8073b4adab5"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetcacheoptions.md",
+      "sha256": "c3089b9ef95b94e48daf6642b162d61043de4f27516451f2284cf2467492fc1b"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetcatalogcandidate.md",
+      "sha256": "0147396906ebee9a4283af708bf0c8e5fb5a31952d7197337f21c11ca5da79d0"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetchangedevent.md",
+      "sha256": "c24812ee33f4cd5fa28d9cd6c959d4a08a2e94edb008266864db01d76d651e02"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetdeploymentscope.md",
+      "sha256": "f547668e6f0ee04a88b91a7b89d7c2e87485bf6fd093bcf28f226cf29d991c0b"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetexportcontext.md",
+      "sha256": "412f7ea61721c11584b6bd53258458b9a28aa65fd7b252e06a02c77fc3e98d64"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetfileentry.md",
+      "sha256": "542cab1b3df6e5c0f30887cf9558e64295b1ec25f4fe2e43df7482aed69855f6"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetfilesystem.md",
+      "sha256": "d6f47e1f49efa8970d79dbf6c0a34767d2f28d4f778ec771ae97114ce55703a7"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimportcontext.md",
+      "sha256": "b9ff3a7a43975fb84d7cfe9d3e79a8de79ef408d1ec3bb07983b6d0e287eb9ca"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimporter.md",
+      "sha256": "44df39275de45efaa5afb49b85844ec582db99c5fd56e40c79629fa7263b45b7"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimporter-1.md",
+      "sha256": "525e2bcb6926cc6452ad2be7bbe32ace75facf8826655add8412a1ba5823d92f"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimporterattribute.md",
+      "sha256": "4bf292f7dc6b906e9596930208c8ac0e1e4518331b0b46ff3ef9d73dce09b416"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimportextensionunavailableexception.md",
+      "sha256": "aea4c368d0eaa360936d8c52256f29677c713677a2561fbf261513ac446fbfb1"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimportfailure.md",
+      "sha256": "f29ccce739a45fff0afc8ad31339b209a2d6683e251cc3c9dbe6298dee59ffdd"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimporthealthsnapshot.md",
+      "sha256": "eefe0a70abcd82f63325616e5c2deb743d18c9677fecdb22ca58652ad0a04678"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimportsettingssnapshot.md",
+      "sha256": "5453ac7548f94413fa3f4ce57d3f9da3eea7aa02394904697559356e1162a098"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetimportwriter-1.md",
+      "sha256": "9e30d071edee974ae6e11eef1d6bef8d53c5d304d390e8b7c73607470b94dac6"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetloader.md",
+      "sha256": "8e8c37e7108c932419fbefe06ab8b47b9b031b53aaf3609335ac6fc8570e8fbd"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetpipeline.md",
+      "sha256": "abd27e9c00522ceee4da200524920f2e061c63b126e1c87f341c5151f3044fd4"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetpipelinemode.md",
+      "sha256": "2f353465f05147221de73719ccdfe1cfdfff189b2ecb171596804af39dedcf50"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetpipelineoptions.md",
+      "sha256": "e8a75dfa6965603e69f1af1abedf135381cdc90c1181541b9938fa8e43855379"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsample.md",
+      "sha256": "6cc383e14e7e4a68f6b392e38384ab1eb59a05fbd9d24a112c2fec2480363447"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsampleimporttransaction.md",
+      "sha256": "fba13b7905d68ef3b56c7a3bf7cc82e571b79b793beaeb02477280bb7e71f54a"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsamplesourcerewriterattribute.md",
+      "sha256": "5a4e9e88c18fcc036b84104982ff6ede0038182731e655d7ad67b14cd724ab62"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsampletransformcontext.md",
+      "sha256": "cdbcc7da495178d5849d393703dd0dc1b051680c2351e3214258d7439ca327d8"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetserializationservices.md",
+      "sha256": "edd462b8b8f9ef9a746d4767aefe37b570d70a909d4c8f33246e156b31ab2255"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsourcemount.md",
+      "sha256": "2f0abfdf1e4616602e06ca1519141265b6748f6a44cf3900f9e71fa2f7bfd4b7"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsourcemounttransaction.md",
+      "sha256": "2eed991c79da4f4f900efc97cc6ebe1c2c9a3ec5a8545481b643ad638c794bcf"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsourcepolicy.md",
+      "sha256": "717e3184ee45627ea8f00c3f3fa58d7ef886e80dd2ec2f391328648ecaddba60"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsourcesnapshot.md",
+      "sha256": "f59bae734bbf2206347cb94f45c1c83364ec094cdafd5a95042325f5a6f58bac"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/assetsourcestore.md",
+      "sha256": "f210d93eae462948a03c2d0dbc2feb3deda345cf65fe97152bcc11874d322e54"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/editorassets.md",
+      "sha256": "380c155340ab4c1429a7bc8ca516ae071217d97ab3feb6c8830fcd2ce8736f68"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/iassetsamplesourcerewriter.md",
+      "sha256": "599330e0b6917352917429970be3aa0eceac49bf2e9602d392e2c342e3f80d27"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/iassetsourcesnapshot.md",
+      "sha256": "fc268d63509673c4118ed39c0ef0dfeaf97d7273b608e13a9bd5e0bd20278271"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/nativeassetsourceserialization.md",
+      "sha256": "590debf1e9cdc96e1675eec8ed9578b97a9e0a6db7f10fdf6087475b4e3ddaa5"
+    },
+    {
+      "path": "content/en/api/types/assets-pipeline/index.md",
+      "sha256": "25765a38aac17c5dd347712b2ed41d1cecf43cccc217ed2219ddcfaf1ca68d29"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "1f0764746ba2bf483b6e31e0f9aa332290fa63a36095e83f929dc247411ac39e",
+  "projectManifestIdentity": "3fbe909d685322923650d8d47c26f0b4e37cbec427214d0f9334b312782c435f",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -176,6 +176,15 @@
       "sha256": "1b83056e00befc0b9946086411f873ce476cc217fdc064328bfcee7bc8097149",
       "sourceRevision": "537ec77d8445967534cd932f5f7735758ad98f13",
       "sourceTree": "233db1705c38ba8a279ed95efec8568d17fffc2c"
+    },
+    {
+      "path": "reference/api/assets-content.json",
+      "sha256": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
+      "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475"
     }
   ]
 }

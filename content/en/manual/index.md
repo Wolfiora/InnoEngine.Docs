@@ -8,6 +8,10 @@ kind: landing
 
 The Manual explains how to use the engine's implemented capabilities. Start with a task, then follow its links to the exact contracts and architectural concepts it relies on.
 
+## Assets and content
+
+For source importing, settings, samples and retained runtime content, start with [Assets, importing and deployment content](assets/index.md).
+
 ## Text and fonts
 
 [Shape text and rasterize glyphs](text/shape-text.md) from imported fonts, then pass their positions and coverage to your own presentation system.

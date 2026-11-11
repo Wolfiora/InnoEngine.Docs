@@ -1,0 +1,169 @@
+{
+  "project": "Inno.Assets",
+  "outputDirectory": "content/en/api/types/assets",
+  "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
+  "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475",
+  "facts": "reference/api/assets-content.json",
+  "factsIdentity": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec",
+  "sharedContract": "project.inno-assets",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/assets/artifactlease.md",
+      "sha256": "8fc76488fe9ada58134d73ca63981ccc0a77330ce06b9d0a8e2f13a2c76da90e"
+    },
+    {
+      "path": "content/en/api/types/assets/artifactretention.md",
+      "sha256": "6424383c3f214ac4af2aeba109f1d547867b8d8c303eb3fdadb881b56997e7a1"
+    },
+    {
+      "path": "content/en/api/types/assets/assetartifactinfo.md",
+      "sha256": "63256ad76acdb1de30f43de6887eae717849a0a9eaacb1049b750aca161140f1"
+    },
+    {
+      "path": "content/en/api/types/assets/assetartifactkey.md",
+      "sha256": "3318f15df9891e9648aeaf0935af3cb04c6b6990e1802054c7b58d2385ebc2f3"
+    },
+    {
+      "path": "content/en/api/types/assets/assetchange.md",
+      "sha256": "e74007f64e8acb088afbbedbc3363ee8b16347a225a3d7b1da285a72560e2122"
+    },
+    {
+      "path": "content/en/api/types/assets/assetchangekind.md",
+      "sha256": "926bfb06e0117ec7825d0aa056baaba43e5dd9062b7a2889d3ae74028974bfc4"
+    },
+    {
+      "path": "content/en/api/types/assets/assetchangeset.md",
+      "sha256": "7c779fe8eee6c4eedbc3bf5669722f9b136aa9232377f643ac4dba056c2397b2"
+    },
+    {
+      "path": "content/en/api/types/assets/assetdatabase.md",
+      "sha256": "fd41ca536fd5c2da4fe351f9ae5e9fba3a761b47401c3fde7259e89c5a8a8af0"
+    },
+    {
+      "path": "content/en/api/types/assets/assetdependency.md",
+      "sha256": "c6ec57c55ee9cbdc1c347daab80d21bce34043aa70adb17c288ad8dfbd5d8ef0"
+    },
+    {
+      "path": "content/en/api/types/assets/assetdependencycollection.md",
+      "sha256": "e5fe9b048899066c98e0ac3aa2c36e4583ca5b340275fb6f44ea4174bac26684"
+    },
+    {
+      "path": "content/en/api/types/assets/assetexecutioncontext.md",
+      "sha256": "fb24b1f970e21da38ec54cd003ce7b80f7b5e2b0fb4ac55de32242bde2a73d9d"
+    },
+    {
+      "path": "content/en/api/types/assets/assetimportstatus.md",
+      "sha256": "9ceb326f2d4a6105d66a9e296c4529b264a31dbc586ed70768b5619346ab5888"
+    },
+    {
+      "path": "content/en/api/types/assets/assetinfo.md",
+      "sha256": "251b0c7f6fcc99721f982d40ae176be95777a5765388094272684d97751a67b1"
+    },
+    {
+      "path": "content/en/api/types/assets/assetlease-1.md",
+      "sha256": "a2a8b022a154729ef34abbe40b5e684061ec0c15c1e934b355db2308f0748c1e"
+    },
+    {
+      "path": "content/en/api/types/assets/assetobject.md",
+      "sha256": "466d1727d73726e551762d924fdc489cc4f92aafbce7514a75dad89c45c5287d"
+    },
+    {
+      "path": "content/en/api/types/assets/assetpath.md",
+      "sha256": "88d4f7101b58a94e4e92bb8986468bfdc6ca6b3ad83eb4b3f997a6875e00f6a8"
+    },
+    {
+      "path": "content/en/api/types/assets/assetpreparationstatistics.md",
+      "sha256": "94158d27012bc18249898a08d98b06ff88aa9e48cca68ea74e9484b3e8fa2299"
+    },
+    {
+      "path": "content/en/api/types/assets/assetpropertysnapshot.md",
+      "sha256": "bd5623a80a61b498078570876d121871a34a5754fbc2053689b42f0d7fb19cef"
+    },
+    {
+      "path": "content/en/api/types/assets/assetreferenceinfo.md",
+      "sha256": "9c16a31111e73ce6a5d5412c1e598d2b8debfe3ff15cbb9954c2416ff01655da"
+    },
+    {
+      "path": "content/en/api/types/assets/assetreferencekind.md",
+      "sha256": "9aadb42194c05172fc3f138db71ba410411abcde906c335775dcb50c50abeaec"
+    },
+    {
+      "path": "content/en/api/types/assets/assetreferencelocation.md",
+      "sha256": "bcd94274f3877ae0f3192cd80c92995fb5ad84e4e099d7eb0465e58fff1a4254"
+    },
+    {
+      "path": "content/en/api/types/assets/assetreferenceprotocol.md",
+      "sha256": "a8833f21a654cef0ae8772c5ef03b86ec951dd6bb3037de41bfafaccfa61e164"
+    },
+    {
+      "path": "content/en/api/types/assets/assetresidencyprovider.md",
+      "sha256": "7106538bb7480c7300d97478ff0f26b2e29ca663c13b0795ddf8f17e146f43b2"
+    },
+    {
+      "path": "content/en/api/types/assets/assetresidencystatistics.md",
+      "sha256": "efec7ce907cce007d989e4e39c6f262b2d27e826fa4c202d91d8567e23a54257"
+    },
+    {
+      "path": "content/en/api/types/assets/assetruntimecontentinfo.md",
+      "sha256": "f176937898e680a415c5d459b995db7fbab53aa6604ea93e0487fcba27fa8b79"
+    },
+    {
+      "path": "content/en/api/types/assets/assetruntimeowner.md",
+      "sha256": "a62080fcecdc471d187e7e20ce5e1c6f340b2101da96f989350dfd62ac6378f5"
+    },
+    {
+      "path": "content/en/api/types/assets/assets.md",
+      "sha256": "44909b7608255116a3cc07043907a0872a1f05f01451f47892aeb369fd8da2fd"
+    },
+    {
+      "path": "content/en/api/types/assets/assetserializationcontext.md",
+      "sha256": "cf5e8b2a3845d5f37eae409b990494b72ef3400e05bcfb8c4eed118fb11dce82"
+    },
+    {
+      "path": "content/en/api/types/assets/assetsourceid.md",
+      "sha256": "b5f29bba4bbb5639a5cac1e8113dfa90313b0439b2140ae661fc8ec4c7e6a161"
+    },
+    {
+      "path": "content/en/api/types/assets/assetsourcekind.md",
+      "sha256": "0ab9fca9726c1489e935f7b8ead3cd54f0f95c6f58ae5a28cd808a822d633bd4"
+    },
+    {
+      "path": "content/en/api/types/assets/binaryasset.md",
+      "sha256": "56d8732c4f31915071424524de7fb370e4694693625cbe162df376034fc9eaf9"
+    },
+    {
+      "path": "content/en/api/types/assets/iassetartifactlookup.md",
+      "sha256": "55e8bb518e369e149df76785a3dbf84ba03d5af51f1d7618619c1833f1ef76ec"
+    },
+    {
+      "path": "content/en/api/types/assets/iassetlookup.md",
+      "sha256": "a2539f32f950e3641d984edc85c7b9db558ffb50e26e3d849d4d2c71253f4089"
+    },
+    {
+      "path": "content/en/api/types/assets/iassetpropertystateresolver.md",
+      "sha256": "7f99970a9374c73ee7bfc315f6f94c7e47c93f9c4db39b23056aa906a4d9759b"
+    },
+    {
+      "path": "content/en/api/types/assets/iassetreferenceresolver.md",
+      "sha256": "4cb9b6e717daa6afebbc16cfbc9822c54a9e0b1836db6ac3f5349b7ec10b872c"
+    },
+    {
+      "path": "content/en/api/types/assets/iassetresidency.md",
+      "sha256": "1e972f79509ed01080da89af8f5331a6cc3858acfb1828128e88e6a3049feb70"
+    },
+    {
+      "path": "content/en/api/types/assets/retentionscope.md",
+      "sha256": "2a3c3d3069a7d18d1fe62a2cb7a0af95c745a67ff5e81c1b1092bd10e81055cf"
+    },
+    {
+      "path": "content/en/api/types/assets/textasset.md",
+      "sha256": "9f393789b316b18ea69f4e8a8d6cd0d0e0082d584a0b8baf79d4c68000c4549c"
+    },
+    {
+      "path": "content/en/api/types/assets/index.md",
+      "sha256": "bf9bdb28c07e1cdbeddc9e1257896adb232a38540569a84aed5af12aef271e8e"
+    }
+  ]
+}
