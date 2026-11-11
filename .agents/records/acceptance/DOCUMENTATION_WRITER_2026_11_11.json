@@ -1,0 +1,202 @@
+{
+  "workload": "Confirm the same 5399 Markdown pages with all parsed payloads reused; no content edits between samples",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "docsContentCommit": "52929640f45020b2f762cc80d85492ac8954a14a",
+  "beforeTooling": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "afterTooling": "c48b7d11fd48d8de21aaf94e416c73c37d70df26",
+  "beforeSnapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+  "afterSnapshot": "8f72c36731b1125f515e7acb24d59d3e808a8b643a9bd2e444cbf500ff91f725",
+  "contentIdentity": "3e6a5b5f5c098709c8a48eb95cb42d8edbacbf52fb83d3ab1ad3a612792ef81c",
+  "environment": {
+    "os": "Microsoft Windows NT 10.0.26200.0",
+    "processors": 16,
+    "sdk": "10.0.402",
+    "runtime": "10.0.14",
+    "storage": "Same C: workspace and owned cache",
+    "sourceApiStatus": "Unverified"
+  },
+  "method": "Five sequential warm confirmation invocations per writer, separate processes. New query-schema publication and tooling compilation excluded. First samples retained, including observed variance. No concurrent builds or tests.",
+  "timingSemantics": "Phase Total is inside the index writer, excluding CLI process startup/catalog serialization. OwnerRegistration and MarkdownParsing after the change are cumulative worker time, not additive elapsed phases.",
+  "samples": [
+    {
+      "phase": "before",
+      "sample": 1,
+      "log": "artifacts/ui-writer-before-1.log",
+      "logSha256": "50126233c0800f07075bcf14254a86cfc7fbc33c1b1db64a8492875614736d41",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 944.1186,
+        "PagePreparation": 71117.8619,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 38118.88070000002,
+        "CatalogValidation": 2755.4344,
+        "IndexProjection": 1000.1813,
+        "FreshnessValidation": 631.9545,
+        "Publication": 0.7048,
+        "Total": 76450.341
+      }
+    },
+    {
+      "phase": "before",
+      "sample": 2,
+      "log": "artifacts/ui-writer-before-2.log",
+      "logSha256": "f8bd4ed405aa11b8cf7ef84ef8235ff5cb55b22eda4e9f847690dcb3df0d7175",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 805.2292,
+        "PagePreparation": 5907.6155,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 2744.954200000007,
+        "CatalogValidation": 2858.7706,
+        "IndexProjection": 969.0679,
+        "FreshnessValidation": 549.9455,
+        "Publication": 0.6248,
+        "Total": 11091.3491
+      }
+    },
+    {
+      "phase": "before",
+      "sample": 3,
+      "log": "artifacts/ui-writer-before-3.log",
+      "logSha256": "3d53db8ff15ae45b5e153dccf3b2b7ef5f84cc27aa1ad8ab3584650d4f5a3a8c",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 832.4163,
+        "PagePreparation": 5731.9367,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 2670.037899999998,
+        "CatalogValidation": 2861.8332,
+        "IndexProjection": 1024.7329,
+        "FreshnessValidation": 938.7461,
+        "Publication": 0.6415,
+        "Total": 11390.4072
+      }
+    },
+    {
+      "phase": "before",
+      "sample": 4,
+      "log": "artifacts/ui-writer-before-4.log",
+      "logSha256": "943d99f34f5acf79620db5e63dfeb3317010caebe7437d75dbd529cfefb2e497",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 937.1879,
+        "PagePreparation": 8032.7329,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 3766.6345999999935,
+        "CatalogValidation": 3294.1288,
+        "IndexProjection": 967.2639,
+        "FreshnessValidation": 550.5389,
+        "Publication": 0.5847,
+        "Total": 13782.5289
+      }
+    },
+    {
+      "phase": "before",
+      "sample": 5,
+      "log": "artifacts/ui-writer-before-5.log",
+      "logSha256": "0561c3588037ed5bb795aafddb89d1c291f360041ce912bff3d501a7366bcacc",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 752.5665,
+        "PagePreparation": 6871.6181,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 3245.0924999999975,
+        "CatalogValidation": 2804.8595,
+        "IndexProjection": 1058.2942,
+        "FreshnessValidation": 656.3006,
+        "Publication": 0.7901,
+        "Total": 12144.5334
+      }
+    },
+    {
+      "phase": "after",
+      "sample": 1,
+      "log": "artifacts/ui-writer-after-1.log",
+      "logSha256": "108efaa4699eeb7c1dbc1e919f8827e07794842e4f511232d3ccb05e4cd01621",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 1305.2644,
+        "PagePreparation": 16035.2077,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 47008.0495,
+        "CatalogValidation": 2924.9748,
+        "IndexProjection": 1008.593,
+        "FreshnessValidation": 849.9118,
+        "Publication": 0.6015,
+        "Total": 22124.6487
+      }
+    },
+    {
+      "phase": "after",
+      "sample": 2,
+      "log": "artifacts/ui-writer-after-2.log",
+      "logSha256": "161bcf050bb4c249e9be8549eb68ca7cd778d153ad723795c6bc9816b3728bed",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 982.6317,
+        "PagePreparation": 2483.3147,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 4608.1523,
+        "CatalogValidation": 2912.3163,
+        "IndexProjection": 962.3506,
+        "FreshnessValidation": 844.0337,
+        "Publication": 0.6833,
+        "Total": 8185.4288
+      }
+    },
+    {
+      "phase": "after",
+      "sample": 3,
+      "log": "artifacts/ui-writer-after-3.log",
+      "logSha256": "0688cd7e11badc314d99428c92ab503ab441e8c873f3adfc6f9d567841d7dd2e",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 959.0922,
+        "PagePreparation": 2793.5886,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 5070.9556,
+        "CatalogValidation": 2941.1694,
+        "IndexProjection": 939.3717,
+        "FreshnessValidation": 571.5027,
+        "Publication": 0.5653,
+        "Total": 8205.3828
+      }
+    },
+    {
+      "phase": "after",
+      "sample": 4,
+      "log": "artifacts/ui-writer-after-4.log",
+      "logSha256": "b7858490fb6c2380dc69a831be74d3c6fab0bff708900a8bfe6f8edabc864e8a",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 942.1126,
+        "PagePreparation": 2290.5497,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 4269.4862,
+        "CatalogValidation": 3452.5363,
+        "IndexProjection": 1023.0443,
+        "FreshnessValidation": 554.4161,
+        "Publication": 0.618,
+        "Total": 8263.3709
+      }
+    },
+    {
+      "phase": "after",
+      "sample": 5,
+      "log": "artifacts/ui-writer-after-5.log",
+      "logSha256": "693d69ade205cf4b09dcbdbe696343f1f8c98322330c8de7f2e699d5c618e543",
+      "result": "Confirmed 5399 pages; parsed 0, reused 5399. Existing generation retained without rewriting its manifest.",
+      "milliseconds": {
+        "SetupAndLockWait": 960.3942,
+        "PagePreparation": 2214.4658,
+        "MarkdownParsing": 0,
+        "OwnerRegistration": 4017.4841,
+        "CatalogValidation": 2877.5112,
+        "IndexProjection": 1107.7895,
+        "FreshnessValidation": 553.2577,
+        "Publication": 0.6575,
+        "Total": 7714.162
+      }
+    }
+  ]
+}

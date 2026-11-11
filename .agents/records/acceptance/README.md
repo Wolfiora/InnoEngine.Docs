@@ -16,9 +16,11 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 | Audio | [Reference](AUDIO_REFERENCE_2026_11_11.md), [query samples](AUDIO_QUERY_2026_11_11.json) |
 | MiniAudio, Animation and Text | [Migration, contracts and rendering](AUDIO_ANIMATION_TEXT_2026_11_11.md) |
 | Index publication | [Before/after samples](INDEX_PUBLICATION_2026_11_11.json) |
+| Bounded page preparation | [Five before/after writer samples](DOCUMENTATION_WRITER_2026_11_11.json) |
 | First remote execution | [Bootstrap failure, correction and owned cache retirement](REMOTE_BOOTSTRAP_2026_11_11.md) |
 | Test-suite task navigation | [Managed and native prerequisites](TESTING_GUIDES_2026_11_11.md) |
 | Events, diagnostics and logging | [Tasks, contracts and examples](CORE_OBSERVABILITY_2026_11_11.md) |
 | Settings and host IO | [Migration and compilation](SETTINGS_IO_2026_11_11.md), [warm CLI query samples](SETTINGS_QUERY_2026_11_11.json) |
+| Execution, coroutines and jobs | [Task guides, preserved declarations and compiled examples](EXECUTION_2026_11_11.md) |
 
 First-failure logs and machine-generated catalogs stay under the task-owned `artifacts/` directory. Preserve their original contents when recording a corrected retry. The active plan lists missing coverage, external access requirements and remaining deployment obligations.

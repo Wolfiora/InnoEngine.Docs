@@ -18,6 +18,11 @@
     - slug: manual/identity-and-missing
     - slug: manual/register-identity
     - slug: manual/projects/read-settings
+    - label: Execution and work ownership
+      items:
+        - slug: manual/execution/own-async-work
+        - slug: manual/execution/run-coroutines
+        - slug: manual/execution/schedule-frame-jobs
     - label: Events and diagnostics
       items:
         - slug: manual/events/route-events
@@ -47,6 +52,7 @@
   items:
     - slug: architecture/overview
     - slug: architecture/ownership
+    - slug: architecture/execution-and-retirement
     - slug: architecture/build-artifacts
     - slug: architecture/editor-generations
     - slug: architecture/audio-lifetime
@@ -98,6 +104,11 @@
     - slug: api/projects/inno-core-identity
     - slug: api/projects/inno-core-settings
     - slug: api/projects/inno-core-io
+    - label: Execution reference
+      items:
+        - slug: api/projects/inno-core-execution
+        - slug: api/projects/inno-core-coroutines
+        - slug: api/projects/inno-core-jobs
     - label: Events and diagnostics reference
       items:
         - slug: api/projects/inno-core-events

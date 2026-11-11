@@ -1,0 +1,61 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "0a857166e14c83e44feb557768cb9d01d4383135",
+  "sourceTree": "26ffb626c616ff9dc42f793a0c366c5bfc059b37",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Frame admission and main-thread queue options apply to both scheduler strategies; worker count applies only to the worker pool.",
+    "Worker count defaults and positive values are capped at 64; single-thread mode does not consume that setting.",
+    "Pending retirement retains the current resource and lower dependencies rather than attempting every resource unconditionally.",
+    "YieldInstruction has an internal abstract factory and is not an externally implementable custom-wait boundary.",
+    "Coroutine waits also accept direct Task and CoroutineHandle values; unsupported yielded objects terminate the routine.",
+    "JobHandle.isValid checks identifier shape, not owner identity, current liveness or successful completion.",
+    "A previously pending main-thread callback advances before the bounded waiting snapshot is selected.",
+    "A retirement deadline cannot preempt a blocking callback and is distinct from CI build-duration monitoring."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/core/Inno.Core.Coroutines.md",
+      "sourceSha256": "35c668b9a955793d380897e1fa5597c02c192c9ec2fc3970d57a70dd0f01a9e3",
+      "project": "Inno.Core.Coroutines",
+      "destinations": [
+        "content/en/manual/execution/run-coroutines.md",
+        "content/en/api/projects/inno-core-coroutines.md"
+      ],
+      "baselineSymbols": 28,
+      "currentSymbols": 28,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Execution.md",
+      "sourceSha256": "310f8e0e7c0d1c83e10dc9b39e9e4c6da11c04aa47de9fd89206e7f5aa0079ba",
+      "project": "Inno.Core.Execution",
+      "destinations": [
+        "content/en/manual/execution/own-async-work.md",
+        "content/en/architecture/execution-and-retirement.md",
+        "content/en/api/projects/inno-core-execution.md"
+      ],
+      "baselineSymbols": 31,
+      "currentSymbols": 31,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Jobs.md",
+      "sourceSha256": "10f460b09943bc92195d4bd5b93b1c82a6924bdd5477a7b0b23334d22b23ce3e",
+      "project": "Inno.Core.Jobs",
+      "destinations": [
+        "content/en/manual/execution/schedule-frame-jobs.md",
+        "content/en/api/projects/inno-core-jobs.md"
+      ],
+      "baselineSymbols": 39,
+      "currentSymbols": 39,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    }
+  ]
+}

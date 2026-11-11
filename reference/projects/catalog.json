@@ -987,7 +987,9 @@
     "name": "Inno.Core.Coroutines",
     "path": "src/foundation/core/Inno.Core.Coroutines/Inno.Core.Coroutines.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1012,7 +1014,9 @@
     "name": "Inno.Core.Execution",
     "path": "src/foundation/core/Inno.Core.Execution/Inno.Core.Execution.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1051,7 +1055,9 @@
     "name": "Inno.Core.Jobs",
     "path": "src/foundation/core/Inno.Core.Jobs/Inno.Core.Jobs.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

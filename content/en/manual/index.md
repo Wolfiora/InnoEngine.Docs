@@ -39,6 +39,9 @@ The Manual explains how to use the engine's implemented capabilities. Start with
 
 ## State, references, and lifetime
 
+- [Own asynchronous work](execution/own-async-work.md) before it starts, propagate cancellation and retire its dependencies.
+- [Run and stop coroutines](execution/run-coroutines.md) from the host's frame loop.
+- [Schedule frame jobs](execution/schedule-frame-jobs.md) with explicit dependencies and finite queue limits.
 - [Route and consume events](events/route-events.md) with ordered hubs and explicit subscription ownership.
 - [Report and resolve current issues](diagnostics/report-current-issues.md) through an owner-bound diagnostic producer.
 - [Write and retain logs](diagnostics/write-logs.md) with the correct script surface and host delivery policy.

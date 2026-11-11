@@ -1,0 +1,38 @@
+{
+  "project": "Inno.Core.Jobs",
+  "outputDirectory": "content/en/api/types/core-jobs",
+  "sourceRevision": "0a857166e14c83e44feb557768cb9d01d4383135",
+  "sourceTree": "26ffb626c616ff9dc42f793a0c366c5bfc059b37",
+  "facts": "reference/api/execution.json",
+  "factsIdentity": "076dd515a242c46ed0e9e97a4caac74b1a6f58d709a42d2ed858c2e17ae5220e",
+  "sharedContract": "project.inno-core-jobs#frame-and-queue-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-jobs/jobexecutionmode.md",
+      "sha256": "683369e8ff3a02957e6fecbd661c8a995c540049047bce9aa555dabee9d92120"
+    },
+    {
+      "path": "content/en/api/types/core-jobs/jobhandle.md",
+      "sha256": "d13566a4e5f68ca567c81e1c5a6360a311ab24f22483cc8879e57fd3c8e5eb73"
+    },
+    {
+      "path": "content/en/api/types/core-jobs/jobscheduler.md",
+      "sha256": "921b42229eb6179fb9e9f3813701988f10c8904249ac3b4dec03089c70ac5a97"
+    },
+    {
+      "path": "content/en/api/types/core-jobs/jobscheduleroptions.md",
+      "sha256": "a6e6856b16e826b9e2a903ca35268191f6b512e00373ac48834d51336c002a29"
+    },
+    {
+      "path": "content/en/api/types/core-jobs/jobschedulerstatistics.md",
+      "sha256": "ad2c0716a11159bcdf5578d285f12fc3de95d69ebdb116434bdd1a6039a1a1c6"
+    },
+    {
+      "path": "content/en/api/types/core-jobs/index.md",
+      "sha256": "f2c20f5190f7efdb65a344ec9fb79df58f10e61a80b499a65eb7d3b30c5e333f"
+    }
+  ]
+}

@@ -41,3 +41,5 @@ Old generations can be retired only after their active readers and dependencies 
 ## Before retaining a resource
 
 Check the API's owner, permitted thread, borrowing interval, cancellation behavior, release order, and failure state. If a contract does not make these explicit, resolve that ambiguity before extending the resource's lifetime.
+
+[Execution scopes and retirement](execution-and-retirement.md) explains the concrete Core primitives for revocable access, admitted tasks and dependency-safe release.
