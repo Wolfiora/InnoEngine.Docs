@@ -233,6 +233,9 @@
       items:
         - slug: api/projects/inno-native-libraryloading
         - slug: api/projects/inno-native-sdl3
+        - slug: api/projects/inno-native-bgfx
+        - slug: api/projects/inno-native-imgui
+        - slug: api/projects/inno-native-imguizmo
     - label: Identity types
       items:
         - slug: api/types/core-identity/identity

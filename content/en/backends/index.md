@@ -28,6 +28,8 @@ The source contains backend areas for Bgfx, DotNet, FileSystem, ImGui, Interop, 
 
 ## Native ownership
 
+The [BGFX](../api/projects/inno-native-bgfx.md), [ImGui](../api/projects/inno-native-imgui.md) and [ImGuizmo](../api/projects/inno-native-imguizmo.md) implementation overviews locate the engine's rendering and Editor presentation boundaries without mirroring third-party API references.
+
 Use the engine facade and its documented ownership protocol. Do not directly call an upstream function or release its handle merely because the native library exports it. Bindings expose an ABI; they do not erase the facade's threading, borrowing, or shutdown constraints.
 
 Native generation and deployment belong to the build pipeline. Runtime loaders consume explicitly deployed files and do not repair builds by probing source caches.
