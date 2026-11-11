@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Editor.Shaders.ImGui",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-shaders-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shadernodedrawcontext.md",
+      "sha256": "7262cfd0953564c97494c473043b14556ca6752ce9f1ab467e66646ff69a730d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shadernodedrawer.md",
+      "sha256": "0bdfaeffa10e89e7cc28fdb63fe270d7b97465b773eb0a79e7ef2712b8f9c7c4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shadernodedrawerattribute.md",
+      "sha256": "28773ba120f269fe5bc24df44125ea7a4de029d1dd101e7de48a9a65be2c334f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shadernodedrawerregistry.md",
+      "sha256": "1c6c704b7c34d514eb3d8bb1dee4a274955b0c3a634c22d23bddc00653c8765a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shadernodepresentation.md",
+      "sha256": "bde241bf568186b84861a4b8757f4d53693651ea9220a562d6590be2a96a14eb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shaderpreviews.md",
+      "sha256": "26fb7a67fedaa3153fff80f8d284908239e5fef80b5812a2dd2acb23c488d90a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/shaderpropertyinspector.md",
+      "sha256": "5d97e42d9929295ef100569fdb76db8fc8687d59e85a7eb6fe9ede0ebd34d4da"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-shaders-imgui/index.md",
+      "sha256": "35f5b1f81282c6133b47663945f9f5b21eddeff4fb21a6d51f4873f5d76cff97"
+    }
+  ]
+}

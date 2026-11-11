@@ -14,6 +14,10 @@
       items:
         - slug: manual/editor/play-mode
         - slug: manual/editor/scene-documents
+        - slug: manual/editor/files
+        - slug: manual/editor/hierarchy
+        - slug: manual/editor/inspector
+        - slug: manual/editor/shader-editor
         - slug: manual/editor/console
         - slug: manual/editor/statistics
         - slug: manual/editor/audio-preview
@@ -156,6 +160,9 @@
     - slug: extending/reference-recovery
     - slug: extending/scene-state
     - slug: extending/script-exports
+    - slug: extending/asset-browser
+    - slug: extending/graph-canvas
+    - slug: extending/editor-widgets
     - slug: extending/asset-drafts
     - slug: extending/editor-viewports
     - slug: extending/inspectors
@@ -321,6 +328,16 @@
         - slug: api/projects/inno-adapter-ui-rmlui-authoring
         - slug: api/projects/inno-native-ui
         - slug: api/projects/inno-build-toolchains-ui
+    - label: Editor presentation
+      items:
+        - slug: api/projects/inno-editor-panel-filebrowser
+        - slug: api/projects/inno-editor-panel-hierarchy
+        - slug: api/projects/inno-editor-panel-inspector
+        - slug: api/projects/inno-editor-panel-shadereditor
+        - slug: api/projects/inno-editor-assets-imgui
+        - slug: api/projects/inno-editor-graph-imgui
+        - slug: api/projects/inno-editor-imgui
+        - slug: api/projects/inno-editor-shaders-imgui
     - label: Editor feature services
       items:
         - slug: api/projects/inno-editor-assets

@@ -1,0 +1,1777 @@
+{
+  "project": "Inno.Editor.ImGui",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-imgui",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editordragdroprenderer.md",
+      "sha256": "00416ea422e39c093625612e4ed62b060e500784145ed5c908917b6b689ad0e0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editordrawlist.md",
+      "sha256": "944cbb8d712d6845440921585bd5b84a2d84e82902d88ae5120b9aa2018d8747"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editordropwidgetresult.md",
+      "sha256": "6de3496ee909d9ff2aa2a57222ef775473c3bbb606ede0f9167696cc55b5dad2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editorgameinputcapture.md",
+      "sha256": "0f8842a393507fe32528a8d82c3b282dc88734b640fceac800cc54dd7c5bc8e1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editoriconcatalog.md",
+      "sha256": "683aef0553999155c0e851c01e25b281d61f587ffd1c35f193bfcb5255cbdf62"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editormenurenderer.md",
+      "sha256": "e3fd5f8da817e359ca51461d076cac8008c32d03da6d83733a47bc5795ca291c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacityemphasized-5d1f424778f09b8e.md",
+      "sha256": "932d2e62abc1d9c6e9af97a60b1df3ca9f1b996f583d5ebea9a3b0deb77ab748"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacityfaint-5e8d83db98a1db41.md",
+      "sha256": "ad0817642b2c5b8ccdfcf568a997a8f0f9e7ceba4562bc6a9bce6221667c00b5"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitymedium-3d8670baed165cb7.md",
+      "sha256": "4bb00f409d2221d610fedd13240ba5b1721b604c4ccea2cee31168425b6e4680"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitymuted-495ab616d3e66c08.md",
+      "sha256": "883204aff0c68667e9c0dc56e8ae6da258cd716df8252f62492611103970c56c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitynearopaque-7f36d744c74b852d.md",
+      "sha256": "92576e22788c89bcd63769329ca7f5f5fa236c60aa3271eae2c20ab5f8627afb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitynone-82197ec186a48988.md",
+      "sha256": "dcdf4f03b972cffd5e30231c8b41a44fa9dad356ee327e6d4ecba1b4045bf5ce"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacityopaque-2277179825bd0a08.md",
+      "sha256": "1ffa5824f958400f32d46ba61bf6fede7abb84fcc9d9e869738044a8f817d40d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitypopup-d91fcdbf8187f9dc.md",
+      "sha256": "31c677e6e7eaa099dc06b5d67f9b217f964084f8dee7605001152379212099dc"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacityprominent-3dbe0165250e39f7.md",
+      "sha256": "cf63c1479b5c0b468b9653cc23626b7898c028fac80e34d88125ca39d84b2d1c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitysoft-a4cb0efa493d3283.md",
+      "sha256": "702c7ee0c4566cd66f26957536183de3fa51b444e1909ed859b047a347c39599"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitystrong-256f5f24b661a8ac.md",
+      "sha256": "9246a30e31baa209e99bba63c7714b33fe1d9737d3cb64ec48e58f6487520072"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitysubtle-67eb28e6cd233ee5.md",
+      "sha256": "e90ff875baad560643e02ee230b499d8407d07e15d160d64f64f8b091e782606"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-field--opacitytrace-5eabd5b78be9887b.md",
+      "sha256": "7108b7c2a8ffdcce4b728acdc0d374b23be9e396f1e65a2ecabf78bd0c4a33bd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getactive-2cb126961702ef5e.md",
+      "sha256": "22f17c39c81d9629425cdbba3ce39c6e0e0e5e7701c6131ab1cdf46991353c21"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--gethovered-11c1b89fd9704d53.md",
+      "sha256": "b25ec17d46216755ea495c6d7e45186fd1f3003013ffd8f45293ca93143382e6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--lerp-e54a59224b296ba4.md",
+      "sha256": "8b465613529fff288b29068a6048027d4dd8052770f0d92bf5d878d88546ee35"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--withopacity-3377e6456521b32e.md",
+      "sha256": "578f490ae635da74fd35774ae9e2defce36ef33df56cf8cb123d2ce5b0531e33"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--accent-63012ca8be85c083.md",
+      "sha256": "d705871c2927ad17f9598040b3378a75b0ba7bda694e7b3e360cc2281995264f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--accentactive-da874debc87e27ef.md",
+      "sha256": "2414f277a239dffa7b2ff10e3fc3d9f29fb79e82ad79e6356191a38121828abf"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--accenthovered-f11dd1e4f7ea7f1e.md",
+      "sha256": "a1943f46a40f26af616e919e069e04e981b6d135780efcd5cdfb5e3d2d536aed"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisw-f104e8de82e74fcd.md",
+      "sha256": "6103b1cbf8cb0607337a9d7cbd2a658128d27a7af8763be0a53827223cd649b0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisx-7c69c12b069d8db0.md",
+      "sha256": "9f8410960e76f2a7dc55d931104c224ddbf764c3bbd6ac22ce039a63762e2110"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisy-414051f4a07ec3ba.md",
+      "sha256": "998559610855a0b19f7595188f7580f8d5b24b7cab836de55434af5e053be9fb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisz-d3976bb04f2ba512.md",
+      "sha256": "cd7373c47ec5552c67af17f8d7716eb9ea5807746c42d940eb60ab4578418db0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--border-34ee12c29400d614.md",
+      "sha256": "ce2a65772f0f40a23791ef673a84370ac1b7fad14217df929d1b37752de0d7f3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--bordershadow-cf2f772ef197ee76.md",
+      "sha256": "911c82dd2333b1c9f442ccd449d951d59fefeeb12972bd7f80dcfa208523719f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardbody-22d2e98bf1185416.md",
+      "sha256": "dfd00df30166704749404cb5163d16593fcbf6793e78e79d3d4a8d326b2be4a2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardbodyborder-ed7d7083bca21a02.md",
+      "sha256": "825ade8bdf60f27a1b4742b4e8cab4dbe188e193edb0936d36da6cf64e36805e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--carddisabledtext-a1cbf623d7d49862.md",
+      "sha256": "9628204d297b3b066a304947fd1e03b38321711825d9afbdadf57e3078a77333"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--carddisclosurehovered-d6500e2dccff73ee.md",
+      "sha256": "d4db8bafc9725093210a59a93b8b2f49b33772ba0755efb97deb32ed546a24b2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardheader-c7d7695e5dd11885.md",
+      "sha256": "bd6466099c6a0b10067ed68b737107b04ccb20dcb1b4057f603823c430be0729"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--collectionheader-6efdee2d752e7eb1.md",
+      "sha256": "5371348ae114d60ca4d742d71488f953360374f54b28f06d2bcb2554539d3234"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--collectionrow-507bea2b8559e7b4.md",
+      "sha256": "4f19cdd0e6160424436cf9bf3065136699af49b2260754b948004607a81cc3fd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--collectionrowalternate-d85c8d945b8d7cdd.md",
+      "sha256": "a58cc429489f0383cdd9271c22bc802fedeac8faa70330b26ec784df8afa66db"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--compactcontrolhovered-73c4eff61f7b0434.md",
+      "sha256": "b18aba51ee7508400b50b892123e99815000fa803e86a9a2c7f03aebbb5da575"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contentaccent-22c6a00ea2e897ae.md",
+      "sha256": "6ca14165585fe0c17e3d57d3276090754ba03f0c95ff44cdc08b7f59ab77843a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contentborder-dec02a84481f7350.md",
+      "sha256": "72cb4a23fb5718e5bf1e697848681d1ae3cc8bf7fcd21a733e654aae562c3f47"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contentbordersoft-fd211052a09da244.md",
+      "sha256": "9f87a06023905c3a7eff4b1d365a7056bd677d6371517b9a1c551f878f01ae2a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contentfield-280a2ff7b0b39fcf.md",
+      "sha256": "9059d0e126474ca7f1cd4e0ac6a76993bb59bc203068e5bedb8b7bc30563008b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contenttext-2c1d676b99eeafff.md",
+      "sha256": "f6cc5973cd4ba50472e2e0a5c02db61f11b94b6e45687d8e1ce8ca223c271a95"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contenttextmuted-d11767bb5b52d33f.md",
+      "sha256": "3323842659aee4be59dff360199ec8f98e9465323c5ecaee2e3defe06728f7ba"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--contexttext-ea34d5a395d577cf.md",
+      "sha256": "74b79c3a0d67061bdb0e43e63842247f166d3f02337bdfb294c1f8aba19021c0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--dragdroptarget-fb7e1e2cc7ca1e80.md",
+      "sha256": "84b12198cd2e64874903f63c46d3d1b582475c8e5db57e42d316ac0342b52814"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--error-737bebae70d5a3a8.md",
+      "sha256": "b58716368ba3661e8d255731692263a3275813b0d584f5cf211ee750fe011c8e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--frame-3cbdcec47f52194f.md",
+      "sha256": "031e675f4fd95f884880d0b1dbe280c3a77eb1f7a5c779375b5ce82bed61f058"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--frameactive-5161280242eaf16c.md",
+      "sha256": "d2764166b88a92ae5b6bae5323971165a46abcf323ecf4e7f25991ed9ca12442"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--framehovered-a5ef7b2c4f7682ee.md",
+      "sha256": "5782cbcb76412658cf54c3ede96f18b488436172bc016baf7cf485f39166d0c9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menubackground-a7dd9d47b1cbba5a.md",
+      "sha256": "a1eedec21bb5d80826cf3676d6e616f0e5facfebcf56ef210a7eb8d1b29ade88"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuitem-38c1a4660703d19d.md",
+      "sha256": "d7f612b173a8e9bc64e608d5cd3503e4d3dd02efc39e4d9218fb7b0fa5637cd2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuitemactive-dbbaed22abd61ed4.md",
+      "sha256": "e57fdaa3571c781f49f145031298d541f5472d7e935bbcda47ec1342d8f17c4b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuitemhovered-645347f286615b9a.md",
+      "sha256": "1a2f1c3db3d4eec0a901d8db7b7a9b785e0fcdf8ea7ec80a984e19454a8d051c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuseparator-34677dae07f305c2.md",
+      "sha256": "7b3474f68befdd47a18cb6b7c64cd147e5b922449a96aed6686e64d4f7205e16"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menutext-3a0ff5b884a5a021.md",
+      "sha256": "17bc76b5070db582b2b7453e73153d9d27a7e005c1845ea46f8fc8089707c26a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--modaldim-06b071ec158d243d.md",
+      "sha256": "1f864b8fe7d57a9539c121f47c5c4d25dccb410cd009e02f5d72cd5db3528a9e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--navigationdim-8330ebefc58c6eae.md",
+      "sha256": "f9c9c100f61e0c5f842ab2c7a5afb7c5a1f57e2347528b98ab20368810f21b0d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--navigationhighlight-5f5c9f3ed63c63b2.md",
+      "sha256": "7bf7246262255202594e5d115fb4c7072805f4bd89fd31c692e732ec3e6aea29"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--popupbackground-bda294ff5262e798.md",
+      "sha256": "254ad0c01f4686f7c3b8f5e460dc0ccdba6eb25298f77a5d576a94030a5cb4c1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--scrollbargrab-b8a0e4178e0c488c.md",
+      "sha256": "237c66b81d00b943207224b4117d5dc92e3f9e76c840bbb4753c9e8845405265"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--scrollbargrabactive-872126fd3d604602.md",
+      "sha256": "e3b3c1b5222e04d3acac2e9038234417ab8ede47808d036f0489e0c696a64213"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--scrollbargrabhovered-e1ee70eccd31c7e6.md",
+      "sha256": "84f821a5d585b29ca9be6b8ea2658ea020ac16bb3164732a4ac3a45738369931"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionborder-10bb1a9f0439d107.md",
+      "sha256": "3f162abb2e51e4e8aa3c9fb8c275b13dd25672d60ac64bfb02fdd26c93d633a6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tab-8f34fe04b371a063.md",
+      "sha256": "675a3985d1ca15f9676c6d8203b5fcff0f5c2a0e78b19e4de35f43ec4538e310"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tabdimmed-4ad9f388abefdd13.md",
+      "sha256": "0f0ba5c78d5633130a3ddb8c44fcbbcbb3e34c7983f3369f3e5b897d9ddc4c83"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tabdimmedselected-7a9967ddda66df3e.md",
+      "sha256": "e510e23121336e3375760a9b126b5343817523fcc758f67a813c21c3dace6ec8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tabhovered-8e3283f2f85c7e9b.md",
+      "sha256": "ded9199d4119706b503fc8fd5405b95939b3ca196eb7da79285e7901d9413fd8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tableborderlight-9dd17a9b73160090.md",
+      "sha256": "adf173c4269e38995653a2e7376d9b4dcc50f26b67718e72cfc8a12500c5ed82"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tableborderstrong-384e2a84c8b527f1.md",
+      "sha256": "c0e8a51367e0176948dcdbeff4b13e413c5bf9de0cfb07d7a1bad2d98d4a168f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tableheader-9e20c85504c976e6.md",
+      "sha256": "dc6aac111262816b20082b42b2872fb24fc7f0f57fa5ebf653c9d07c3a99b741"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tablerowalternate-3abfe6358d232955.md",
+      "sha256": "4bb26c9e071186b5a7f90aa32666119ad7426c6c5ed0f2a86e93a20539d7aec9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tabselected-c725fb20a6f68805.md",
+      "sha256": "92e91a3b49cdb3836bb07627ca3bbb9b92fd6c73431607df647d3927449aee82"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--tabselectedoverline-c40834ea13757d74.md",
+      "sha256": "a09d0d888341a4be8a4c65956b729af04b0500a61b997f44805f63ea2818261d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--targetheader-4849aedaec6edc97.md",
+      "sha256": "0410ee75fb7fb5b311d4d51d4e3ff6ddc189805721ae3a2705c6d295a5657b4d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--targetheaderborder-07779778b3974b8c.md",
+      "sha256": "44d6708f096bba6a9499fa47018b34b079ada1527fc6b2894d49de4288c8bd43"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--text-c7be40a033bfebd9.md",
+      "sha256": "1300714e1517b45ba8c2788176aaa4718bbeffc2aade8fdaa7dfd88c1c4dc60f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--textdisabled-4402d26a9b20a6a3.md",
+      "sha256": "a059ec16d7291dad6bb61832f583b808907ab329f315c92cb046472d214f33e9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--title-0c37082d4d6775b7.md",
+      "sha256": "a6c3411de91faed0c0efe7d56fcf91ab6db6e13357593d4417b2406f76430aa8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--titleactive-aa119f2b19b7dce8.md",
+      "sha256": "1eeabafd71921886a4deac5464108c68fd8a48bdbe943222b61d67458ae6b53e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--titlecollapsed-ad2fd448c04bcacb.md",
+      "sha256": "cf1876bc4d7b0f40aa753204c0ce5beb3940870626d3b3403c7b52c8d5053055"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--transparent-e78f8eb698c5f0b9.md",
+      "sha256": "5eda23eb7fe5bc1d21f70666bb1922ee71b431c4c120178fdcdb66c9ebfd685d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--treeguide-841b7f46b5c08fb0.md",
+      "sha256": "20c91a5fd6ee1d2aca2bc1eb8289989ccaa88161e452885669630f1954a3489d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--warning-af38eef9942911ee.md",
+      "sha256": "b8126be127f417ea7d1540ee4e5c059ba87efcd61562097e8a54dc441c45a696"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--windowbackground-ff8c1b0bc7e41342.md",
+      "sha256": "ff0e69df4eb979bd9fdfd6795ce51879cad97bf50cad43fc877af301dea94b81"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editorpalette.md",
+      "sha256": "cac8a4b1e0a19e8f220ced63c4085bf9055c4e0496b24533dc4a9360fb1a8731"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-fields--c_max-e972f6f20bf102e1.md",
+      "sha256": "2d1ad5f47e969acebba30b9e20781169292f6e48457b14c873cb6ca0e3b64f7b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-fields--c_min-f815824e963ad100.md",
+      "sha256": "c4fdbb4cc3e1934ddfbb22a85527a7f2f7a402d814dc0ee70ed7e43c8f5c5d18"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-fields--c_zoom-6bf8586db0d3b6fc.md",
+      "sha256": "9178c14e31cdfbb56b7b141cea16567426bcfe0c1983c51d181baa273c8f3227"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method---ctor-a99005a69579d69a.md",
+      "sha256": "3e67eb277e13a6602c64e469369659f6718cd894084bd235e544673e4cbd52e4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--resetzoom-94be6dc624d77ab9.md",
+      "sha256": "4e3a938d7f791abb1aef2a156a72b22372eb7fb53f8c03a2a9f9d8848b642f79"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setcompactmode-a247a9bdb755cbd0.md",
+      "sha256": "e79fabb104a27f32633f48f474c7a37267b094bf6ed1ee2033d881e70a4219ed"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setzoom-470b81429011587e.md",
+      "sha256": "2fe600aa519237a34457d627a7d202d2005f256b2ebb222a398c4ba5973f3ddc"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--zoomin-b073fcdf5b8f796f.md",
+      "sha256": "19f536ea54ea28207195cb7bc796f1a4fc871795dedf6386eee8832ec7840182"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--zoomout-23339c793021b517.md",
+      "sha256": "6d77da942071f6be222916549ae72cdb3d09fa1da7a00fcb4e979720eadc1da3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--addbuttontoppadding-52fd03124b0beafa.md",
+      "sha256": "f4f03d4f8766a95eb631e428440c1dd89989c89734d683606be41b6e7d4e2321"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisprefixminimumwidth-7adbbc8fc4db58b9.md",
+      "sha256": "30e83af65ee5f855e6f677ff154f1917f78b382bcab02426d2ba05d596cf4787"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisprefixwidthratio-98dedbb29dad67f1.md",
+      "sha256": "95452c86f363029f9fdf52cf49a63906fd6036f69d0b9d1e13e2a8f1f8d61070"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--axisvalueminimumwidth-2a94f95999f77698.md",
+      "sha256": "de1ad219129a84552a9352c38ec2ac45e44168c5f5133d18aa19a9c9d8edb067"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--bordersize-0d9f00bb353724a5.md",
+      "sha256": "56c694b5f49c07b79f44dea7a229ca81c2abfda53d0d54b6813a2aa448ffa8a8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--breadcrumbframepadding-6c4bc02c663dd1dc.md",
+      "sha256": "138f1e3281f5e2c4a552b510746ab1df8a25793970349bd76e336009a4013e05"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardbodypadding-9af85586efb481da.md",
+      "sha256": "7667d98a034efa75e7e538b306d39f2dfd97946472ebc7fb6a246af7d4b3fcce"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardheaderpadding-1a8bc29f32d5177f.md",
+      "sha256": "ef67aa1592c7123a9055f25fd9659a0e7608a246e64978aad08dc1aa99ea923a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cardspacing-12cafe27972d46c3.md",
+      "sha256": "5a83a6ffbb9843754c2ac7b6527a73a6770434d42ce006301105268c3dc651f4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--cellpadding-2ff3c8518b01349e.md",
+      "sha256": "3026b482f324501dee863a65a7c2e4db06b14c79d542215ed24e05bbbfac2b23"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--collapsedsectioncaplength-da08873c9cef2274.md",
+      "sha256": "e44a75236293b098be462a1baed70ebb37f96f4e0b7434cc011a904598d41a90"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--columnminimumspacing-bdb42a3b90f9e68d.md",
+      "sha256": "31730ad7e68979c7f1c99774c6bbb3248fb863c7d731b1683844cbcefcfdba09"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--compactcheckboxsize-da8f0ebf932cc72f.md",
+      "sha256": "a03854033863238ca98b06ef211d969a452691ea14fb719367d82272a989ff05"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--compactframepadding-22ac0bc90dd8f75b.md",
+      "sha256": "810a49357d0ebbbe168ae756774a0e150f7daa264906cc93c9f0e774ddf702b5"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--compactitemspacing-fe34b804b0406ed0.md",
+      "sha256": "0f56319960c52fae449588f97d975e3b1c3bfa153d855e2e0cd8c934e3aa2529"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--disabledalpha-3cc226fc89c59122.md",
+      "sha256": "ac9b239b6727b69dda619686953d797f70ee065ee08ffec3f99b936abe3a8f53"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--disclosurebuttoninset-a49a55b1f35c7cc2.md",
+      "sha256": "ce8ac8211a301c21c3d44707dcc4362180083dcd0c3d7bbb645cbe102380f295"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--fontscale-a7bb7a480aa70dda.md",
+      "sha256": "a40cd7aaaad2c0f60a1c1e143bd2809418a1180df72535462f2422c42c1747ed"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--framepadding-4b336880dcfd6c2f.md",
+      "sha256": "f88c5caeb5e0ebbd4a8c519092978c1db4de0a3c641331c154af5f41e7e805c9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--framerounding-eb6f3d7515db7adf.md",
+      "sha256": "45c561c2f02912465f43d8b8ba3ced2bae36ea247dc621c5c2b8f4ddc694296f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--grabminimumsize-de43d02b9f0f364a.md",
+      "sha256": "1c170398b03ca18f126740c49bfa8186ff5ce0373fc53d4da9ee8f5604536d03"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--headercontrolspacing-c5898c8560ceab43.md",
+      "sha256": "c7d2a9df98efeb0ebc47be707b776b0f8404e1a43a0709480ca39fea1f6554fe"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--headersectionspacing-601a74297fd52df8.md",
+      "sha256": "49c3189744838fc20912597ce28d97d69bdc550ea5f1e9a26137ce3daeaeacb8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--iconlabelspacing-2e34e3e7598c2da5.md",
+      "sha256": "e57452e80e776c188a1125aa170926590673ae39e9c04378900c57522b091022"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--indentspacing-be674595579a3ad3.md",
+      "sha256": "4e5ad9d0937d58a4ceaa4a3414b449b46c755c755eb83a7471fb73f5e7649820"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--inlinerenameframepadding-d43780915fa04977.md",
+      "sha256": "f3bc902bb31bce8be1c2da6150342410d2fa90d98bf86f9f4f2bc1856299df5e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--interactionoverlaythickness-68915200d2ffb3b0.md",
+      "sha256": "fc7607f73ecffce30a526a04f38726337c3fc85be01562a9399f6f722366e876"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--iscompact-5e24b49d064637ea.md",
+      "sha256": "2fbf0af419cc985e9d86958e625af32e5ba0ce0f1e85af149be2791587c75457"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--iteminnerspacing-af2c93c46ebc2dda.md",
+      "sha256": "bf2d90c4618be0c1cdf48250592857f547191be55c14944531cfbc9a4ae9c248"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--itemspacing-6ea83af487ca8385.md",
+      "sha256": "1f514b6f0e3abd36a96b96c42f487087e122f5fdd182d809423f80a9fd7c6809"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--labelchippadding-65941fc43a6ccd64.md",
+      "sha256": "99ca5a5eff903870503dfc1fd51ae95286292c12ffe72213173de74268bcfe7a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--labelchiprounding-ca0d7166a1ad0899.md",
+      "sha256": "150792f5eab7edb67f05ce9f8b97d73d8eb3c58cd439011bfa49cbf356efce1c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menubordersize-e1aebe87aae695db.md",
+      "sha256": "121a8211252870b2bb3dc2de5dde11fca561ac15125e6548a4b3c2e028fa7122"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuframepadding-038127e226ac3732.md",
+      "sha256": "628850f3bf7a9b751efadeaeb95849cb733f88b0510ce08e140848cab7079fbe"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuitemspacing-f528b28ce4ba74ac.md",
+      "sha256": "24f3290958480b5ab99022348f96c0662c8c79242e12e5205e3f53a1ae2dcb64"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menurounding-89250ca4a0065042.md",
+      "sha256": "c79e21b224e0eebf08297a0338ef6687fe724af81e630c0ee06a5f8b5a4ecbe0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menusearchframepadding-7530977a9599db5d.md",
+      "sha256": "cccf57f7cbc293b416e16cd8785ccfb348666b40c1e20c341252e495c79bb221"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--menuwindowpadding-880d6b4a223d5e7f.md",
+      "sha256": "d23785171c6ae8bf681ebf3689e2768defa56ce724c43aa3c9f87ae2204a0cc1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--modalfadeinseconds-8e4f3fcb3bd98981.md",
+      "sha256": "9dcbb835c3f89135c4987c717d97e727053b50dc1329b0e6d27cb9d1262f8608"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--modalfadeoutseconds-74f63cb6f485684c.md",
+      "sha256": "eedeed51e588ced0b0056d8c38e6c477372b4d926811e855477e8cb44afecf84"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--modalminimumvisibleseconds-00b571fda4375441.md",
+      "sha256": "0e519dc769a19c555cd210cb4e46467e6eeb7aa77e31378823a7a0c17318cc87"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--modalwidth-144d5c76a8b24f72.md",
+      "sha256": "a368d797d8e1c398ed555b29d422d645d54d6a6f47e8801f2219e8f6e67db426"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--paneltabframepadding-4c90fd1af48d077c.md",
+      "sha256": "7f72ed757ec2223819d6de86ce1f29ca29e82c5598bdb489a351b73f4012d535"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--paneminimumvisiblewidth-27c108e68cf84968.md",
+      "sha256": "7b6d034dffc84e0d9dadb3bff260cabec5b3fc6038f47ccfe1e669b0e5226eda"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--propertylabelratio-0906a4157eb5354b.md",
+      "sha256": "432e220510590e815faaa3836da5531ca31b830dce3fc3f85c7bac09e64d50ce"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--propertymetadataspacing-3c95d48eb3b39177.md",
+      "sha256": "a29aa882dbf7c40584727a3ad86a9b97cca48fce20c362f5b67f539aa43bbe20"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--scrollbarpadding-e4c36d64f7c5641d.md",
+      "sha256": "9278dc3fb9bbd4cf6d336720e2e8efca7b279b9e4b1f8c5f25dfb782b363fbd0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--scrollbarsize-bc3692a71a974767.md",
+      "sha256": "3fcab3084a78e0c5526f78391ca85f24b41e4cffded201837f06e398e9d3f8ad"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--searchpopupwidth-77755f29b0c76624.md",
+      "sha256": "3d8215675006a936641cf79e6fa9888bf530bbfffaac3df91e9bea8063b23433"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionheaderpadding-1f4ba90b77bc5475.md",
+      "sha256": "8da820095ecbb9c389c9520a330cdda489c6e17e7121c8185aac131af0d3f49e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionlegendgap-23e2e462789ed392.md",
+      "sha256": "20af1056b5bbe6f87059a3a5418a38ac5fba0fccad188fa56afb7811cd9c7bb2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionpadding-b78402c75d9df3b6.md",
+      "sha256": "92e9b1863975877bed3d99f790a9eafb766e91c53f6634d584a268fc074b753c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionrounding-10e8e048818f2209.md",
+      "sha256": "e77e0a8690615e91f3e5bdc31d399960fa8b8d74685f97464831e15bfe0e3d4e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--sectionspacing-b0248e1e0ad3ba8e.md",
+      "sha256": "4ac6919922a84a16a93d9c321c9bb219c9fb15ec9c6d4e2fcece2169a1a8be6e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--splitterminimumwidth-ca14642059e97709.md",
+      "sha256": "43772911a520f026221c60d35ee343cf0df823cdbac10a0cd129ec688ffc0c25"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--targetheaderpadding-ed80a65f13af0fa2.md",
+      "sha256": "b44de93d95953ad63e08f7554808500c055b9a95b5626221645ae8844fb57b80"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--targetheaderrowspacing-0c9e4e37f5a5fb1e.md",
+      "sha256": "a202ead786faa2185d42cb9b747912e46cbfb73b479ee25e0f546ff8459dd0b4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--targeticonscale-4c8c519fb1c6e072.md",
+      "sha256": "5c88e30c9620063d2997b637ac950692a34a1fe65287c48c935fe6e3aca2baef"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--textdecorationoffset-2f53642e82e2e803.md",
+      "sha256": "a325d7f54b282ae83679dc7af0fd40731e85039cd6f0fd5ba4f0a2aeedec863e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--toolbarframepadding-16be4a616db599b3.md",
+      "sha256": "f72f896a82e707b1c20eec09ec444f618485cb1cfafd3d27ef472d2eb3c271c7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--toolbarsectionspacing-e163982b1b0ef777.md",
+      "sha256": "4804aacad77bd9d8de5c8643da930095ba4d0efceaed87d3aa48040ededd541f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--toolbarspacing-58b4c74798d3a819.md",
+      "sha256": "ad809ba5b091806bfba9078cab786155af134753811c23a8b5dcb04b2e4a08ba"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--toolbartightspacing-9a31dbdfc5fc3594.md",
+      "sha256": "4d743d4152701d71e689f09e17e52167ca1eef6ee24d037cb5c3fb795a6b0452"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--treefolderconnectorpadding-454531be23099313.md",
+      "sha256": "dfc3314d584cd8ebaf4736984f25534e2c1e4b309400f32990086c9553756441"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--treeguideleftoffset-090b7221377e45d6.md",
+      "sha256": "06e7f5973ed388a7af221bf13507e1b16060973d471da5cfdd59cd0555e68706"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--treeguidelineoverlap-7fb889c4adc6ab60.md",
+      "sha256": "a53d2a438cc63033718fba1af5ecc88c0bf767252cb11b1446665ccc2fa6c3e6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--trendheight-b88564781a1aa3f5.md",
+      "sha256": "73cbed42643d33cb2ad843eb03eed999835d6ad5c5d1be8709ea77bb61799929"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--typebadgepadding-554ef86d317fdd20.md",
+      "sha256": "f4ab359dfda194a1197d83239d1e1b5edfb8a5312106edce19ee24342bbf6b65"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--typebadgerounding-3139330cbbc1bc21.md",
+      "sha256": "e90e77e1fc16e01dc0d037c4ad9d3582aabfa22cca884f73f8386ef51b005ec2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--typebadgespacing-57ac55ea5acfa930.md",
+      "sha256": "3ffc626cb3af6e7f6c8ebaaeaeb54cdff6f4fb3d7c487cc18e07f04d776b2e15"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--windowminimumsize-be364f708a201ade.md",
+      "sha256": "a0f0a089e3e81a36a00513a1b874828d9e83bd630ff941acb6c826d17c81fde4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--windowpadding-3197a1e1775827ba.md",
+      "sha256": "339f7b26cb5c8fd4f156fbb5d1fdc1f1187def26e013f09d157f4a62e527289d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--windowrounding-59d9b9b6565540b8.md",
+      "sha256": "e96fa543f03b6cfdefcc67bd2491e7235c5e69371eeb697956f139bc9f7c5b5d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--zoom-82a0398649df2bd6.md",
+      "sha256": "2ea26d5b675e877ed386eb44ddadb916a18ade464143ed87c82ec5f7b729eaee"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editorstylemetrics.md",
+      "sha256": "7c8f9eb506c11120af971cf2545a192d4c6d23539b352dbf2aee24e7b47d3173"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editoruiinput.md",
+      "sha256": "7d1feff63834243915f09fb2fcf095ddad9baaee9b6a1b36bc9286c00ca98828"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editoruilayout.md",
+      "sha256": "448b6f7c58a7d117b8756f675325320bf0e991dd2d14e74e2abc32ee2c59ff41"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/editoruisession.md",
+      "sha256": "1f5d4b2187542c8265e5c2f4f1a99a073f94b7083cd55c54f5398aaafc372005"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--aligntexttoframepadding-90ab3b581dd57428.md",
+      "sha256": "3e16acd84575f1aea5da88eba04f81846bc8d18347bef79c81ece1d8eb7638e4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginchild-ed8cfbb2c0b7948e.md",
+      "sha256": "e0db77df39eddb3c8c68eb221e588439e774e0c767bd83ec76fe0162564e071a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begincombo-92f365456cda4b65.md",
+      "sha256": "0627d40776f747a2d4d23211c499a11827512c7e4a13fc6caae304e269c8eb31"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begindisabled-a1aa0e34bc475699.md",
+      "sha256": "feec051164c6e2c1b18bc456a47731b87fa76d950d0a1b42b4788a029d6ba645"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begingroup-28d05bcf842d6ec5.md",
+      "sha256": "b984f3a43f73d790a16ffb95338ad877674fc64dced3eb6e20476ed4eedac19e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginpopup-59747513c668ad0e.md",
+      "sha256": "9a766e9f12ff207c95d947ae843a03b2e9e25a00d369a0e4c899d7df7730114c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begintabbar-1aaee6b1f78dc493.md",
+      "sha256": "35b117841038eb3ffca090effe30ff6e9057580baab61b20d6bf8ba4a14593c3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begintabitem-ce5383133d1a7ddb.md",
+      "sha256": "42d5f29de5f4f8e2d9a25862fb3934c4ec2caaa0fbd377fe0755dd5004ee2ef9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begintable-30350dd74fa751f1.md",
+      "sha256": "8b6b92a79831e0049d1b8a4e49649dad9d7be81e86ecc82c4a675fe284de7948"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--button-a5d2634bb9167478.md",
+      "sha256": "68e7bb25496b832a9d11df28ee599320a0e8b9aedc0c1e3054ede4a6d0b101ef"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--checkbox-6edd5490286023cc.md",
+      "sha256": "b871f610377dae26276fa9ba7e3cc50b625b7080fa958617288be4a966d3781e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--closecurrentpopup-a30b311d37ccf134.md",
+      "sha256": "603e27c4cc3e035ae51f31adc03d7e43222a7c4a0526a33a1da2945de4ceb3cf"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--collapsingheader-0e0b1c0e95599b8f.md",
+      "sha256": "61606ad41016a858203993209997b6757723061b82bb00f1edcc948cfe7c2b8e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--coloredit4-8a0be76ef6b94f50.md",
+      "sha256": "daa23aeb6be977c6e420add71c3b27037eeb7e41bf78e5aca9b7fa6cb1fd33c4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--coloreditlinear4-b213efce03da8051.md",
+      "sha256": "10113d6964df5dd067e738d09efc3084131599f1df0a60a99babf925b5d39b6c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--dragfloat-4c494e85df0e6595.md",
+      "sha256": "6d3e5467aa408ff33a33ed337b6d61e9b95a9c8ee60506caecbae8460ca8b64b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--dragint-a986e2db0a966fb0.md",
+      "sha256": "2dbc959c7f26238c276980ce47ec65f5c5d8ac9a61553deeef2022ac7c40543d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawcubiccurve-95a7e6d6117e921b.md",
+      "sha256": "14b6fca9262bf3d92655061a130c3664ec7c26ad2f0eb991c8b64bb30845c1c7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawfilledrectangle-c9083bfb1e5892ed.md",
+      "sha256": "7a101ab5d9a1a2593d03727a8ad71df5c3ca0eafd1c13c2579c76f0d3d5caafe"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawline-c854049221e45cc8.md",
+      "sha256": "7ebd6dbcf5bd0a2a26c49df78cd4b9d7fc1e100c16222503d169120108c8c1db"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawrectangle-e0c762172ec967ac.md",
+      "sha256": "496f9274ecd8a56c17387c4fe286627a4747f6c9caef7b7349a19421d5c584d1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawtext-5794e7e397fcca30.md",
+      "sha256": "0ac9d9f03d9e870c44f6ade02c4a2b4bc8a5efc2cdf87dee2e1ad5fa6988f95f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--dummy-43392af561bd0fa6.md",
+      "sha256": "26702df7c8ac0af7ca5da2c07838532d0eff2b429f0fa6807ed8f460732d537b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endchild-9ee69237ec4b3795.md",
+      "sha256": "71e12b9031f19f5af5f7f7e71b4f70002d8f227b2f5534a1cb41bbc2890b5e21"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endcombo-e5c63a2b9050950e.md",
+      "sha256": "2adb96d9f99a009976997ff049d9c60243fceb7d98c8af35c471db79ebe8375c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--enddisabled-4a6e62137244c919.md",
+      "sha256": "9f67ccbdad8a5dea7e4862d8c2c871eb8f00e046fec96674ff567b0b3d90190e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endgroup-b781ee9e70f0b1d7.md",
+      "sha256": "103f442d28cdd8ee5bcdaea464afb485d2aa47bdf5f79b7873184a8813e281db"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endpopup-08bff90337e504c3.md",
+      "sha256": "6691cf274065bb37ec7de62806eb623bb27ecde44d63b6791c9532920f6b5d8d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endtabbar-bc39e6ba5b10635b.md",
+      "sha256": "cf19d42afd9d57c7db2df562ca37f9ed3e926b9b416de8f501d4275cb12e4d9a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endtabitem-d81de0685d92e0e2.md",
+      "sha256": "0014763e5d677c3f7273fc38205f7db7fb3668ba350a54300bb81c98d41f4ec0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endtable-49e13525715dda75.md",
+      "sha256": "c95c706b792ea8ffbc5b58c69b5956d06d9e0e61d1bd35378f7a2c0d6007782a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--focusnextitem-ad23e917b27fda9b.md",
+      "sha256": "eda6d44ba4b17edfea8301244ee8e6cf3e9254ba201ecec01d22a94c3b41eb75"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getclipbounds-03421d49be089f3d.md",
+      "sha256": "ed17381143e4618633be205096e13efbe1ab2f5b1393f17af869c2b01b75bc06"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcontentregionavailable-919c0ce4a1d8fa4b.md",
+      "sha256": "a60026cb2602f94d283a7c08b8b6468afb55d402a626d238d2e13df1e6b95a22"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcontrolid-f15bd1660b15430e.md",
+      "sha256": "8351638dfafd5c279de316973f76ff650c47e910ede69a8e5c785ce7b9f5e30c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcursorposition-8f26841110c5db46.md",
+      "sha256": "c0fce50dda4c1f57be90b2f48cc018f61d4216138511c0332be51ec08de433b7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcursorposx-07ac4b0d7f6f166c.md",
+      "sha256": "eaf582ce4bf13334e3f51c59992645aa3ffd4702df950b802ac321936f4833e6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcursorposy-b89253628e9fba18.md",
+      "sha256": "bd99e5a52763aadebdde86204c5c5786f7ad5ea6b2e19e7d860f20ad2552d5b4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcursorscreenposition-079f58cf2c9e651c.md",
+      "sha256": "dcf1506e3f8bb0d4c5d161aea5fe5a55c45f239da998d6264321d2b51f4845f3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getdrawlist-3eb7565897334eb6.md",
+      "sha256": "d5d480cd20dd747782d5d960f4437711e307a59a4d9e05e58b46f7092e3509ef"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getfontsize-351dc9403164f75f.md",
+      "sha256": "0bbaf4c9119f615ba8eaabc413e9eda702a1353bc464c8c27a06853c425a8785"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getframecount-e4ed9f7e521bb585.md",
+      "sha256": "3c4cf21e27eb3e32b647bfd0ebf3007b1932ed46728b44a77c9a5c09fda0fc8b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getframeheight-01838641c4694243.md",
+      "sha256": "f8ac18ba91b3fa0b332a8a77db3a877f60cc621ea7ef0fa88e0faec97ebccee3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getframeheightwithspacing-288cb01cb477305e.md",
+      "sha256": "8e112385bb6361e828529acf99c8fac807f63a29fdecd2c832a9d5312074113d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getinput-8906f6b1cbe40e7f.md",
+      "sha256": "4c63bd94334089a8849067a71600baa84362f70b2a2426fef19e741b97462954"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getitemmaximum-10971fca0c4fe2e2.md",
+      "sha256": "34eff7e1d637fa4bba4b47184cecfe4731d725308b661bd31023675311d96b89"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getitemminimum-1307efee4122a83f.md",
+      "sha256": "80a6cb13fb50d934433600e3ad686e00dc415364106bbfb5cc30514fc19a7410"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getlayout-37efb82699a4e270.md",
+      "sha256": "022fb195007b400886060f677ccfb8c57c09d03e965cf9e63d8b5137e387f5fc"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getmousedragdelta-deb87b51e1fcc597.md",
+      "sha256": "dfa6eb5aa5d0b2e15e9fcd67112f4840cd70369eaab5433abb961c5877297c1a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getmousepos-ff328fe0ba0b4ec9.md",
+      "sha256": "ed7ba15f07af36373eb9679fac68c154cb737f0c0df639fadb3eacf45bc8705c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getscrollmaxy-c0101cdf2b9427a6.md",
+      "sha256": "a492411909291a5ae8cbb64c35d78d54c55e8885872dcbf762dc9bd5996ae36b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getscrolly-8319d6eaf7106dc0.md",
+      "sha256": "78632e850826b6446036d788b21bf2205a91982a4e925acaf74aaa51b5c19fba"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getstylecolor-5be4219e8d425b3f.md",
+      "sha256": "228dca563d3cde091b5ab03809d4b2b2cd524c452bc59fd2c5645c02e07cbc3e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getstylecolorvalue-7bc1a606b996033e.md",
+      "sha256": "86af955aeb973eda0ca0ea7a5d9e55ae83e58e7b78cb04c216e71dc3896694d6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--gettablebounds-a9b01eccffbe016c.md",
+      "sha256": "cc9313c714a7a974775b5c8afc166d876444488f221261ccb9db7dd4f7c023d0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--gettextlineheight-a29b737958a15f30.md",
+      "sha256": "3494f414eb673dd73305e16cd139d20fb799294fc3aa86b0b28c89a22235228b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getviewport-d24c59c0be72900c.md",
+      "sha256": "b888eb318beb20d87fd7279f4ff1af364c698baf622496bbcaabb30e36b98b5c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getwindowbounds-dbc5dffcf100bcd7.md",
+      "sha256": "653e658e4f808ab2ef2aa3e8d422457be5a0ac72474149526c3f1c53ffbd85ca"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getwindowdpiscale-fc8a01238c1a5885.md",
+      "sha256": "fdf610472d10ac9597b8c6bbb5309dc0e584a49d005d579c8cd0a58e59484092"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getwindowpos-095f0b24cee75064.md",
+      "sha256": "253d402089d3c02334eb4b92f52f6c6d1f2933834f0652d7ca96e68788fa8650"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getwindowsize-9a0986bbf92e8377.md",
+      "sha256": "a36c83bb1003aed2402732178df52f646acb0f7f14c6cef9307462f731b7a492"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--hasdragpayload-4dcdcaf23ba72dca.md",
+      "sha256": "4baead73e4dd1276fe106da1a7f7f2567504ff411252b3d13e4fb392b2d1eaab"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--indent-831b702c5799e4e6.md",
+      "sha256": "f919251897e64c47965a04caeac2071ad32c08700ee809adea428f78f11cee31"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--inputfloat-e7b64e71b0b97afd.md",
+      "sha256": "b8dc9a3c18acc6ac9119a230b9125c666d08020a8de66789c3a0b8c980bb331c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--inputint-ea621eb479bc8ca4.md",
+      "sha256": "558a3e93f1a9a157c2ff8d115ac66b08cdd1b1e7332b50c8397c0c0950c0034b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--inputtext-a6a9e5f057c910a3.md",
+      "sha256": "ca1fbb7740ab191e738f1f026bbb5777838ca77209d0bba3ca91db7712f7de04"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--inputtextwithhint-472855794516d2d4.md",
+      "sha256": "67055841ba4cf00ba0269fce9374a68fbbe1ed917569115b0105d5234a78a7e6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--invisiblebutton-7abc65ba86943299.md",
+      "sha256": "828d6b30cefebb311f44c3d017c03718b84b497f54d0eafec8757d87613dcf14"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isanyitemactive-e0af385050613303.md",
+      "sha256": "48f37328aa5fb2fa453233c9445fcddf2218eb30ce5369a77cd92abee22d3353"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isanyitemhovered-229443220d2c46fc.md",
+      "sha256": "a22f8a02050cebf61ce17b9487708cb88af4338213d6747ced8e2184fc98ed4e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isanypopupopen-9409bb88c3fafff8.md",
+      "sha256": "a0a27d9dc55d5ec662e7c0b0be43ad8bc4b39e3b3904c686cc8bda8748fdd736"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isitemactivated-a698ada281a8f9f8.md",
+      "sha256": "8264832d93b9ee85bfcaf554ec3e04b54deef702205de188554ab025f00c7c59"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isitemactive-c1e8bde4da9d99ec.md",
+      "sha256": "52e8c80ca9530638a4812ea2f9e948b01cd17758419d1818f6e746c7923f317b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isitemclicked-20968b9823b90bf4.md",
+      "sha256": "87c1abed5c2fa3a85e92e85ed491ea67976cd7fb2e21e1e7cb12c7aa8c42abda"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isitemdeactivatedafteredit-668944e1a7118b2e.md",
+      "sha256": "7553243627d4481144972c0a29220cbde83044e39112a6d3dafe565b7248d3a3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isitemhovered-f449ac3c3eb02fbe.md",
+      "sha256": "2949981115126cf27633954848f6f2108739930b116039093f226c2f9b26a4d7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--iskeydown-613bb3543b8c41f9.md",
+      "sha256": "fb656e064ec26e5dc8e12def1ab2d1facd9d3068ab30fe8c2c2818fdcb249dac"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--iskeypressed-251e27b3b656ed11.md",
+      "sha256": "150bad5ea31d390d889f2f0aa9049ff182bf717419acf09b243d53c9c6cc0366"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ismousebuttondown-b9dba1e78919cbb4.md",
+      "sha256": "35b75d69f5cfb6d3c3ec0470ef45d8c3e7a865e854742c5398c10052b2064851"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ismouseclicked-c49ee251061b8a45.md",
+      "sha256": "941edb6efe6932ff74c563818e610129ebb0aa798089f3ddc95a10a23f3abcb4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ismousedoubleclicked-bc544646bfd8a8f4.md",
+      "sha256": "9ec9525f737e5320f053e9adb1743b2d284dfd6ed5e0c427ab833121d1d11a9e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ismousehoveringrect-afbe41d52adc13bd.md",
+      "sha256": "782f98b908f986ec4ca8dbe249c7d31981cafc2483d1999843a8ff4e508f72f8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ismousereleased-142c7a5b167ec41d.md",
+      "sha256": "ad8690f005417bf0cae65f7340e9f2b548ad11a2bad521591aaa78e9f7e00e07"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--iswindowfocused-817c38a0a85b8158.md",
+      "sha256": "226dcf5aab8d5d09e2890ff64125a88153d09d81df45ff82f6db449ef9793bac"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--iswindowhovered-1d54827970bc236a.md",
+      "sha256": "82350556057a370cf8010a648bc37d5012bb2c6dec34432f49c2ad666f6bfc41"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--measuretext-a523f179250a51c9.md",
+      "sha256": "5c38aaf3672e56589d1c91c3c6f550c11d6992bfde064a1d46d6207829804814"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--measurewrappedtext-4b488c4aa186db79.md",
+      "sha256": "b3fc9fcf3aa568ef2dcb78f760f020e2f79cc9a52216ae55642d104b0ad8eab5"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--menuitem-a64dd993486deebc.md",
+      "sha256": "98d9128ba70dfa08f57d7908eb96358fab6f944212d9151c19950ddd99bb1767"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--openpopup-fafc707b5559526d.md",
+      "sha256": "2b729e152dcd639d17dc34a1f655edb35c41c572d2b3e9dfb11d327c81a2f80b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--popcliprect-77cb4689016a4886.md",
+      "sha256": "5ddb2aa17466179bc1c346f95454d995af06f0c8af991c0c64c7867ddd2d86a2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--popid-25bec1ec4c872984.md",
+      "sha256": "ac7d14c2e2acea76fbbddcc0ed07507fd4a977b13074589e25ea7392ce095c41"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--popstylecolor-e1961ad6ea60c88e.md",
+      "sha256": "9205a2a3ec4a7fafa6ec32e1ed253e132eaa4b9d7bb335836385fefbb187c8dd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--popstylevar-d9b911a446b5a4a9.md",
+      "sha256": "dcb3bb15dbb903a3305859559b64b157ea672ecf50b9be9c6adc5bb60e82d193"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--poptextwrappos-d9ae92c7b2ab00d0.md",
+      "sha256": "4cb2824f60d3a4164b57382d39bcb20055ef1ec549849bab5e3a2eb68a4bfe36"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--pushcliprect-7df880afca1031ba.md",
+      "sha256": "41a892a72e8313df7c36f74f482e4a478548e72a399151834a0662262fc7a149"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--pushid-9ae3d9440abdbaed.md",
+      "sha256": "fa37bd4974d73c12a6316c3812cbf22d26c631fbe58798b7b962fbf28082aa89"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--pushstylecolor-6788748028dbb5d4.md",
+      "sha256": "577c4813346656ea14ab81e31c426e121fa6a263cedf7f18df6f4fc72511467f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--pushstylevar-457850ae0030578e.md",
+      "sha256": "57b9e236edaafa888bf17acf74f458d00fea6e1254933ca8f7534cee758e8649"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--pushtextwrappos-4a78adcd2d500fd7.md",
+      "sha256": "13deac68b3fbee8706b97d558d7f4f856fcb735e3cc05f0be74e492d0328d35a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--resetmousedragdelta-e5b2930a442d366c.md",
+      "sha256": "11e12404b648f4b8a18f73ac03bfec684092004f574dcf11468784ebfa96601f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--sameline-08929ea9216cfcc8.md",
+      "sha256": "803dde62841c0a1084cea4045be9c1ceca13cea00c1a89cefdd108d885a3dc52"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--selectable-a792c96b2349197b.md",
+      "sha256": "c47831ae57bd1b09d4014c70c645a34ecbe0c6d2482e9e116e9963d3a888c5ba"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--separator-7fecd7c735941d7c.md",
+      "sha256": "59847f416a2bb52e596a6fe299e4c29c4734d55f3c2637624809978724e4d728"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--separatortext-c1b42d6b0629ec1e.md",
+      "sha256": "7aaa18cb0d003af0f89572ab7924fa5d0c6f83e8acddd661a99646ceaa222014"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setclipboardtext-93a9015559d6735d.md",
+      "sha256": "d305d394898bd35ddd3284ce80ddbcdeb1c8e7489944497dc56156399ec942c4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setcursorposition-646e77653f2292f6.md",
+      "sha256": "ee4a85b0b948519061503636b6fbb77c7fe9dbba5ae02e8435289eddcb3ca1d0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setcursorposx-7ccc8f7a890c6018.md",
+      "sha256": "b7c83a29eaf35911a6a282057c50424a0ba259b032a59fc894fe47ffb299fb94"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setcursorposy-14a61a10b963c95f.md",
+      "sha256": "f6e0728a22f7e09b8eafc5917e083415e09e870ec8b81dea9bcdfcd06c56deca"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setcursorscreenposition-b6eda91942882f87.md",
+      "sha256": "4fc6b7a16732c288469cfc48af067b5974e68ff2d352dc07b5a113b31f4daea2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setitemdefaultfocus-4f38bdd85e3ebaa7.md",
+      "sha256": "76c5232997e14dcc2d70ce4f99230b85dff324670b5a8bf395a13ae70bc28510"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setkeyboardfocushere-ef03e27931ebdf32.md",
+      "sha256": "276bdb206676bd934d92c515b2f9be9f01489464c712096e0b06916b9ae5ed3c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setmousecursor-965a3e4d8aa9007c.md",
+      "sha256": "7f4bca67a996b56a6f2112fb5bc0a1dc993541c01f6410b8a3885765e714ad39"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setnextitemallowoverlap-3d8292df40425968.md",
+      "sha256": "5f14da7397a48e38a7b3d245c602ea5f78c6f8dd3260e1bf5172c9a9373c6a94"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setnextitemwidth-9d5dbe121a626c2d.md",
+      "sha256": "5098f92a3fd9f32d478124c91452595aa048edc3c4343934247cea90d5cc403f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setnextwindowcontentsize-4c45783dcd70fd10.md",
+      "sha256": "237a775779e1e4e444943d8d385f82edb10957736a8db70f01a348ffc1e3d3d6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setnextwindowsize-46236fbe8d5cd86a.md",
+      "sha256": "c4756f267513e0d1675d553768d686ccd9313cf0833264ed3e03345a9416cb0d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setscrollherey-b3647a843bf61ffe.md",
+      "sha256": "5305f7e01b6325cc1d16bdd88d2a99f5cfea3787468594d2147a3f748e8d6e04"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--sliderfloat-5b1ccc883ea82a89.md",
+      "sha256": "91d49a34c89e16c8052270a342a137d7346fc44bf839ec6903a7ed097b8b5550"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--sliderint-e6b700edcfdd77be.md",
+      "sha256": "934955da9814d100283a10b01bd2d81c8d0e6fba7d99999aeec90307cdae8912"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--smallbutton-d7d80425f2d12317.md",
+      "sha256": "38dca636feaeccdaeb89dbbf60a06a69035ac5c5f8fdc9e62205abcb5855f166"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--spacing-fb365db336827484.md",
+      "sha256": "de781bfee970973eb4d03ea4227923d452057d1154bea6985cf259a8c06c95a4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tableheadersrow-c48b846c5686e174.md",
+      "sha256": "6198067f6a880dd5c34c67243a6f4e8e687492a2b6be5af5bcd889a47d618c23"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tablenextcolumn-dc28276ce1e82d32.md",
+      "sha256": "6c91ad8355296070e3da8adddcc2c9c42775fcaacd3d0c7f2bdae780b7c432b3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tablenextrow-7639b4bbf7f0e9b6.md",
+      "sha256": "a74eb32afb1e3afc80c13d8462f77216eb3537b6db753d2d811138989d5f4a63"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tablesetbgcolor-e71e1189ee97b249.md",
+      "sha256": "2715d89d213ba6277c40ecd8f7d1d24f309f34ca2e675f3b89b82bdb50c4f790"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tablesetcolumnindex-7ab9e07ef52b7b51.md",
+      "sha256": "237c97cb4ce208da0066c37d5c46a62e4724d1cef2c8da3e0bd6941b812469a6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--tablesetupcolumn-652546a1f3ee0252.md",
+      "sha256": "e4dae2045234243ac71d5b2053f1063571c9ab5e04142109f34a4a140dc7cfa7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--text-50a66e0fb7fe5d95.md",
+      "sha256": "e0db877140f66074d85c4878876ef72f86116751ad0b7dec5c25e8b16fca4959"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--topackedcolor-e003f58105677e57.md",
+      "sha256": "a88eb1b00aff717514f2535dcf9c7e6e06ca2dfd692b5e1609f5c080df79ff4f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--treenode-dfee240ceeeb9047.md",
+      "sha256": "a47805499c45c5386084a9db241f40556e29b2220d067af718b1d0eee4afba44"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--treepop-c729bcabccda55dc.md",
+      "sha256": "51b98383563ad8ce0af7a0f162b828de003cd25e49ca7ba12aef22c5cb6a6e19"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--unindent-8b372e2696ac9fc9.md",
+      "sha256": "0eca043100696e1bd5825481cb70500efed61ccbf397bf9179cd00ce6db74a02"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imgui.md",
+      "sha256": "eb3981858587418211c150e15ce6c5dd25a33ecfd6af29c2fa0b6e60995be516"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguibuttonflags.md",
+      "sha256": "a23114b01f469d44a6e1138ba8b7babf8c40703e609b4cab831ade181332355a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguichildflags.md",
+      "sha256": "846d6acf41941c48d344ef3625fe95f166437dc012452c3b7da9282e0bd55235"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguicol.md",
+      "sha256": "7dca9f6f611a11c4b43727ca485198c4925db84caae58911f271a2dd9b32df69"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguicoloreditflags.md",
+      "sha256": "866b4ff76b314400309898e6a5cc882609a4258e9fc619b8e4266c0341fd50ce"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguicomboflags.md",
+      "sha256": "38fad8ec31cfcea6713dc13357c7ef29b80c3cbfdb19d0ba56de964abc8c911e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguicond.md",
+      "sha256": "cabc9ee4252a473b9022ab8aee335af6ab0b0c7b0554d8c2a44d5cc14bd874de"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguieditorruntime.md",
+      "sha256": "82c8e19c6bdce584144df0e8dd070300f45e01945de708fdbc5ae06f5c587f6b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguifocusedflags.md",
+      "sha256": "f84540b22ef813409d2a5df4dbaefaac0f177113bead28401ec7785d0cb409ee"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguifont.md",
+      "sha256": "791df908722b1e0333ab66d96efa461e69b7f122f07cfe60ed017ace2c5b5ccd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguifontscope.md",
+      "sha256": "e53b4ba619b7fd3c6cd638f2f63bf5b272c7fad95af3312dcab813fcce36aa66"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguifontstyle.md",
+      "sha256": "2667631c52f0bd7b893b263b611e3a36b3dbd4048db2180261ede8a0b3650724"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguihoveredflags.md",
+      "sha256": "2aa84922471be8428c8731e378986d18aa53e5fbddd02bf3eaa80c04f2886a2f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiicon.md",
+      "sha256": "d97badc2ac161a203bdabba5ce825a72d2d72a50452c18f942244c21d05a656b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiinputtextflags.md",
+      "sha256": "cc8c2031d74598e7bb7952be485d34ab4d7bc3c2990c5a75e7f336360c099128"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-values-c768568b68618909.md",
+      "sha256": "54f161828451360c0d326180bd685c307f1dc55edd2073716350ec9436df266e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguikey.md",
+      "sha256": "d1b322592cbfdef06238a26da56d5854a4ded89c545256205d09727b515f982d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguimousebutton.md",
+      "sha256": "b6063ee278db02d0665c267dc55afb3217bf3226038bc21033545d25a9044284"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguimousecursor.md",
+      "sha256": "c5e03d192883f8c19117282206fdc7f710c8244c0cefda4fd8de9911a2b58eb0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguipopupflags.md",
+      "sha256": "cbc8a4ea8bccd30088b3aeb398ec88bd14af0c79b65d32f9b47ece9b74bdd890"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiselectableflags.md",
+      "sha256": "62204923284f28222a938dea9cb0f3f9d0b62f73f0e22dae47a46e1a7148aa55"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguisliderflags.md",
+      "sha256": "f64f1364f39c2c480bbe02d9eb6162635443c6e511485e9909248c1620c157f9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguistylevar.md",
+      "sha256": "f316f8e82091ed331f3bff94d7f77d7b7ef404090c47cac30c95590bcff1fafe"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitabbarflags.md",
+      "sha256": "fadda9d8cbdc5771d132035c95b2627c2fb796aafdf544a02743c2e40978344f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitabitemflags.md",
+      "sha256": "e78fb6a5f8ff6238d26af882008091feec62a7944a7c21f99df664a10f5d59be"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitablebgtarget.md",
+      "sha256": "f20a8496a919654839ada9aa0257d3a452fcea81a372ca539b3d8b71dc17c5b3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitablecolumnflags.md",
+      "sha256": "aedd2842c27bb22129f0cb1e788a1a6ff02b961722ccfd725cb2b65a56efe0e3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitableflags.md",
+      "sha256": "d162ab2078c64b2e2a94a0a03c44d723449a58b54d78bab58f0bf6c5ce5ed964"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitablerowflags.md",
+      "sha256": "4952222b36e9ac3aa055ef55d3814657f7e9eef84dd88df73982460a3ba6865e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguitreenodeflags.md",
+      "sha256": "53dd442ca83fa4615cab55ad567bcb8eab52e1ce2412da7221db4492aeca5ea7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.dialoglayout.md",
+      "sha256": "554771cab442a610f72318cba5fc9b943bae37446ac42202686e47e80b056fb2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.dialogpresentation.md",
+      "sha256": "b8cb48e0823aa3d4c61dd6eca98019ee798bc25762846f447114a1e5681fe309"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--addglyphcentered-e6a0ab5669dd520a.md",
+      "sha256": "58d228a64e3b6696e24e4a40862aaa80ac4ca6c5d6f89823bcf60f9d4e4eb574"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--axisdragfloat-8bdf375bb63f9d92.md",
+      "sha256": "4639612096a8de2809846d65ae1cfa00417fd9aeaebd09d206e505410662ff5d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--axisdragint-5bc905e11ff1027c.md",
+      "sha256": "31608d091a7a9a09a0bbd2d05ec7da6b23e844c35bb97cdde9fc17259f957496"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginboundedcombo-01fb6c0abb8e80cd.md",
+      "sha256": "565d16061efee77d0e0eef0354c2a8eecc2a43dd2feb1b5f94b2dd0bdeae33f3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--begincontextmenu-2e2053fd71ab1362.md",
+      "sha256": "8e93c524221fd9ef7267c539b734f06a2e9e4646defa6f85892424bda02baf27"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginedit-0b93691ffa8fbaaa.md",
+      "sha256": "a33b94f3d2d11ad7780812eaecd56a3463ebea65560607aca153141a60bac072"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginmenupopup-541f3a5607032857.md",
+      "sha256": "931b144eff684b4c5f6f940c742ffa5e83fab9d786e02ff2f98255b9b8f91723"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginmenuselector-88680c12eaf5a9ea.md",
+      "sha256": "e57216a5ec0f600f5eb4db062608457c34e852a939c3b1644dcd300c3e741574"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginmenutooltip-a0285b61950caa03.md",
+      "sha256": "9f53b4948daf635f2135d0a9b68978dc4e7c3a2a43a73de6aa6300fc1cd49116"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginpropertyedit-0992b5864aa6cd10.md",
+      "sha256": "2290dbe32ff608f702a9e715e5edf7a712c2408c5de40e98343c71d33a9bee8d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginsearchpopup-31c12f5d21e93394.md",
+      "sha256": "26c8bd47f3d1d961810d15714b29feebfd38987ed7e76848e35d545ede63e7f4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--beginwindowcontextmenu-37573b36634b4f41.md",
+      "sha256": "b0f2fc4f778534835710ba91831504b0a28930904675ba37f2673c720f64a98d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--canceledits-012710406fa456c5.md",
+      "sha256": "3a0286d771ea43db3f30447ca11963970a38a66cb1beff0f8de680006f445459"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--cardbody-42f66a7d522e0758.md",
+      "sha256": "152681cefad5b5b396742126e5ddb77f5a96a8d3c806b8a21f132ecc448d2fbd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--centeredbutton-b92b52702c7203b2.md",
+      "sha256": "6013f70bbda553055722aaa6244a479ac0d6a58a101b4824013899876a3a29e9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--centeredprogressbar-679f40aca24ce679.md",
+      "sha256": "a0b267b02329e3c06933990411d13223e38260195e3deb4e053d908fe9ff38b8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--centeredtext-8671ffcc7a1552af.md",
+      "sha256": "d6d27606c6cd003c8a61ec1a9557e8f713d8483e98e35d7e649d199876763a5a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--centeredwrappedtext-106b83c1b065753d.md",
+      "sha256": "61bb87aa1f782cf3d5499f1cd13fb280b00f71ffc87a9154bec1997623ce9871"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--checkbox-45063cad640e5e99.md",
+      "sha256": "b4b2a2ec79709e0de2b1341777e715a3ab8d77dee61ab99d16b9ccd7771ced88"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--clickableicon-d69662cb772d3ea8.md",
+      "sha256": "868ce598929cc9c385f12df65870fdda96b4c7c432b12500023cfe345a264864"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--clickabletext-9104ecc2dd6f6cf5.md",
+      "sha256": "b6f21fae797a2ff08e8907f99c3840f30179042160f4d0dc7390b11bf4bc59c7"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--clippedrows--1-0e78dfbe834f127c.md",
+      "sha256": "f5bf688589fca40ce01dab1cbc7008b3785dcff81d52e95aee54d2ca86b810df"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--collapsingcard-3611ef369a6813dd.md",
+      "sha256": "6d608e220e63ee4c3079911bdd63418302445abaf59ca0233eaa8e4270440f9a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--collectionsectionheader-aabd56e2cb725824.md",
+      "sha256": "f836ed6e201abd89a87efc8f9a2134db80e7a6ffa014dc629de61d7116c897e6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--coloredtext-dfd39651152f0533.md",
+      "sha256": "4e7e59dc3885de1b0bf8f83bd987ed25642a50e7dde002185d585b890e1ba659"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--commitedits-0b79e159dde643b0.md",
+      "sha256": "10bfb00cbb7b295715a50d26faaedb71a4facd3d66496829315529c8d749a0c8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--compactcheckbox-b25ab20904e81716.md",
+      "sha256": "5e2d56fea46dca27228d39887c0a487f3c00b12d8452b64fd0caf8607a1244c6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--compactdragfloat-1101e9af46f1a122.md",
+      "sha256": "9c63c0a457a3c59b4b58bc926dfb4c837a81a3eb51dffaf288735295667c67e4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--compactsliderfloat-addfde33b306e53b.md",
+      "sha256": "8a9a9f186545a1728a14d877ae206463faba2d18f68ce0296158edb26ed7d237"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--completepropertyedit-13181b1c015b3f51.md",
+      "sha256": "206adff3db29836ead46d7ec707f59d234f7e1051658e5797a409814bf58dc28"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--constrainedcontent-0f3402cdb8481c73.md",
+      "sha256": "e1cfe44f0bb91b45790e9819985f562dc05d457f26a32aae2f344ddd5f36822f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--disabled-c388702b20cae352.md",
+      "sha256": "5e8a5b196aaee4ea0302ba21501b258c5434e49aa6ac9643c84fbfecdf58abe3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--dragdropsource--1-6c788b8da2f4bfc7.md",
+      "sha256": "e289dc8b826b100928150c97a7e860a96d8faf8d857873f0061cf9ea333ad4fd"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--dragdroptarget--1-f358f67b6cfaf803.md",
+      "sha256": "f93402c985389dfe333dc58c39674f03e7b24055089ed0df8bcbaac2c887b000"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawdialog-fd936b6a859c903b.md",
+      "sha256": "c60ccf9e596dba72be08dde8e7fc151de1125650d4a32c6c63d30594106da81b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawdisclosureindicator-3e18cbf34560b389.md",
+      "sha256": "fc093c1ff0908af6cda9a6b3b6a0aa9598e988b0fca7b2d6b10a2cc44035578f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawitemtooltip-babb28532f7e5486.md",
+      "sha256": "6892254ad70a42bafaa66d17dfa6e30b6b2402c5fbeaa188a13902d9a15fb06c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--drawtooltip-08d6ee3b79480a80.md",
+      "sha256": "ac82c28a512f7b91c75ffc5792814c53ee94ef770e4812a467ae42687c1806e8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--droptargethighlight-19603569d8ea9f07.md",
+      "sha256": "ea8dd8f6dacfd01035ed699c9c83a620408753a11cf8952c2b74c03a0fea2705"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endboundedcombo-aa910fd4d2661431.md",
+      "sha256": "21ed34fefd28384d531c9d3c81d06fa80459ad72e58051275f0b57a0d732aff4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endcontextmenu-6874b8151c57165a.md",
+      "sha256": "5caf5fcc932259d62016ecab18cb5b03ea5da2394d770de3f45ff4037f955325"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endmenupopup-1d9c9efa36734a8c.md",
+      "sha256": "12f6ceea6b471ce836aeb892700797bc4442275684a0e227dd9cda523f1e2970"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endmenuselector-fa03160bb4cfd051.md",
+      "sha256": "f98e033a8d429b24edfa5c1098550a350982de0c4a6b24674ccf18a42b382bd8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endmenutooltip-956180363fef3115.md",
+      "sha256": "5f920d165d1d70c472fc7b69d128170d87cce0f5c5e42b2d2dd29a1ddce80667"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--endsearchpopup-379877c98b5aa278.md",
+      "sha256": "df0ef322fbdbdd16b79b7aea05015a00ed5e94149237be5e7c16ff15b264c33f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--ensuresection-19bda01a87a30881.md",
+      "sha256": "f4d6bd8bab4a952e3812a697b0c7436bcd51e56ea97dddd35d32196d2290acd9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getclickabletextsize-3fdd156ecfa31265.md",
+      "sha256": "0dcc82f446514638cda7ede6fb52d625018d5d51108f6ce54a2a81d1d47af1f9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcompactclickabletextsize-32a99ee354274342.md",
+      "sha256": "aeff7d848fb9ce33cb9ec32466f1fe37a146a8af4151da5765b0d9676925fd4f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getcompacticonsize-0bb63e55911a4e47.md",
+      "sha256": "de00f02af8097075e680497ca960d3302073c8d526ed112c1a420dde2acccfe1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getglyphvisualbounds-02ae253147ad21d9.md",
+      "sha256": "004e60346857d9833c6d35638119f6ef6936251a5d60c8831ef095e74a73e6bb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--geticoncatalogwidth-0d52a0fd28d3d2c4.md",
+      "sha256": "71abd81fcf12d6e803aaadd0c8db4e3b15851fe2ea5fefa596fe524d784896b5"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--getlabelchipsize-fb69c50f54e47ecd.md",
+      "sha256": "dd8448138de817b60130eb9be0e0cc35157df6adc2190e89f0fea48d50b8e24b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--gettypebadgesize-c91795e572e3b36d.md",
+      "sha256": "11ad51315bdaa4d65d86e14f65d2e5d9bd1c09a4a40e12b8cadfb9002d38c6f0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--headersurface-54332259f21122fb.md",
+      "sha256": "2598cd0981ab2625261c9a75c80563bc8a35c84a667a5fc07e844d2e23c90115"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--helpbox-6f13cf9ffd84834a.md",
+      "sha256": "92251845d9f3e5ad69d12bb5bbb65a550b054fa656d5aa29aede47e2b5cb4505"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--hint-e71b32a7f0d7636a.md",
+      "sha256": "fc659ba8ed28312ee1dfada691239b2177973610530acbd5179e11b78763494c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--hovertext-23f1dcfae10e63f5.md",
+      "sha256": "42d78e401b95b0cb4981a327804155be87bad10eb2b217fd5d28bae659290721"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--icontext-5a2d0d8d82e5d6c3.md",
+      "sha256": "3f42179f8a5107ed6076d75b6a1cf23cfbe274216fd25a2d2a41ce86695b87c1"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--inlinerename-0c5be97c9eec87a2.md",
+      "sha256": "e5f081affb7494b3abf2d8c7586d2b013483d66a8a51a501681fe2b460f729b9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--insertionline-e3c13f79cd6152d6.md",
+      "sha256": "339b43ed2f2e0398c19651a647bf68f63e144cd10a230c6534a6c20a5ae32b1b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--isediting-95c720d738641468.md",
+      "sha256": "727e6808c248b96d17ddd822ce9a16c2a831982c3d2215b0752912f113c8a091"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--istreenodeopen-ebceb33862558d90.md",
+      "sha256": "c806e7f042cf8bee7e890fc6b007f186b0b01cc758c5dacf3c0600c40fdac3d6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--labelchip-ba4990f7e9e1234a.md",
+      "sha256": "fb86d823f048e3325d8b0d9e298cd32d7200de09ca91fd8cdd01a70261ec9a09"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--measuredialog-9dbcd82025b8434a.md",
+      "sha256": "7b8bc9d859944981f7ef8c18dd72a9a16d48c98750b1eef25175b2fe5d26c7ee"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--metadatavalue-f0d0dda677abbdb1.md",
+      "sha256": "80fc35cb07b80f0ac9f7dd88c0b836ee1e3761cb84045a312c5201d86c5ed237"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--mixedvalue-8dfeb8400bc64667.md",
+      "sha256": "bb4bcdf1dc3989a4eb95635ed4ea720d81a2303af7cb607a2af0d3f28fbf859c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--navigatelist-142eabb87871d1c0.md",
+      "sha256": "e2b9dd0be63cb5c4af07438f7590bc13496da5d8a0054cbc0039fdd1dde2472f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--panelwindow-e2b5e2e6bdce1b12.md",
+      "sha256": "c86c9f45e482222086b47808a69d5b19d7d06392f10a118826b51492fa960950"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--propertylabel-3a80c0b47b260632.md",
+      "sha256": "5ba6b8bc753ba996a2921ab5cf78fea2e140b19437a2b1e9b01c8b539301fe87"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--propertyrow-a36047cdf0ba4226.md",
+      "sha256": "72dbfa94d9ae8358cbd1406d39a004f7463cdcb56f9e7b51112e4995fc070c48"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--searchinput-91eb16374cd1e462.md",
+      "sha256": "3ad4cbb08ac3908f58ba1fb87b1c4993d68adc009cba0b9ae4017d466a93bd76"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--sectionheader-d56a83790e410416.md",
+      "sha256": "c0e8c0e354fa2be050208705edf2adc2a805cbcc5b47114c2d92b7dd2177a856"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--sectionlayout-ee0b8c1d06d330c0.md",
+      "sha256": "8bc48c0e5d62fdbc967ec5ed61dfc25a101c1f8168dbefcf951c706f757aa549"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--selecttarget-e6785b3546e339f3.md",
+      "sha256": "b6a30eaf711bc90f0bb0e9155bdb47b76f36dafde839c2a04eb1b2db7c1663eb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setnexttreenodeopen-929c736f7470abcd.md",
+      "sha256": "7831cf5d24514f09cf69cbab18d6e31c07c8523008e399d10834b3af7d1bcb9c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--settreenodeopen-64a2bef39123ae58.md",
+      "sha256": "0657ac16ee66ac86d0eef3c7b19394dcabddaedd814571e9aab6b4a4cea95211"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setuppropertycolumns-8411ee72d4e86254.md",
+      "sha256": "16837ef55a0c910982b43a0427349cf850c78ca368f470009eb6814ff8e557d2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--setupstyle-d78fcba5a23444f8.md",
+      "sha256": "9147221189348337712e9f525b4c85e45bf2b0f76100dcfe79751476b09f763b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--transformgizmo-13830c309d05e86c.md",
+      "sha256": "e924fe0d229d6980adf51fdf927afb9e99a9df53c38ed00a847415b06818141e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--treenode-9c492b831438fa1b.md",
+      "sha256": "35ca94f50ae9536d26f708626b09b5eb0b63802ed9b504f6a2691d4d383270d3"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--trend-efc6b1fa2ad1bd21.md",
+      "sha256": "0dae52d54f53ed013b0be707f2629ed225d9b8374ac2993a7fcb6a611706b4e0"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--typebadge-027546e7b7d22d4a.md",
+      "sha256": "1bdb080a10e4eace51ac15b82c6c4958fac1ef05d4e7db6b0b1a2aa7cbb46fe6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-method--wrappedtext-df06f9914dd22c96.md",
+      "sha256": "c1028cefef17a5f12e0a68391bb0ec8b6ec71ba8d7df2e402530270637d5f8d6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--editmergekey-4c41a7de8f9711f5.md",
+      "sha256": "94647499fcb90406cd6aca3b2f0286c569252b7456986c44a7c3eba380af5bb2"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--ismixedvalue-d828395b77e06550.md",
+      "sha256": "1acac2597810992e68fa72a0fda36e731807849029838b26b0d320af349ca611"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--issectioncontentvisible-d4506c6286552020.md",
+      "sha256": "58cce64d1cfd4557745b04f4f798f84194cf8da90849fe750aa4c63a1234b3c6"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--style-73ad89ecedeac284.md",
+      "sha256": "87c7eda8ccf9f4144cf2be7fe43b4e1410623c8b568af4555959934522e77a76"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/member-property--treeexpansionrevision-654aaac53786e37f.md",
+      "sha256": "3adcb604b424d00d1a661b0c709f57a367a56d732bd23bb83b455a20edc0523f"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.imguiwidget.md",
+      "sha256": "425a2fa5dc147e1fcac60fd888f81b60a44cfcb85a0c7b1ebedb3dac6bbadc56"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.inlinerenamepresentation.md",
+      "sha256": "28f27dc00cec735528d7a721d9eb6e8135c463bc92cf8c3184020babcab54882"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.inlinerenameresult.md",
+      "sha256": "a5686114f845000843d93de93292f95b511e5c23098c90e86fb059124125146c"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.listnavigationresult.md",
+      "sha256": "9f7a81a6f7410cbb10dd6ce9ff512fe663e88c290921792f85bd1b3adac9a0d4"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.transformgizmooperation.md",
+      "sha256": "7512097b9b31910a29a9a62eee42efea60b7fe1d9f7ce2dcfdda94b6ff87fb87"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.transformgizmooptions.md",
+      "sha256": "34679bb85a894327545786d7ff8ea63982ca7b29c0e1e22dac7b00e6f2d1eeea"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.transformgizmoresult.md",
+      "sha256": "5e24d13786795ca338d34df6c3c26f327735fb769832bd102c274991856e17ac"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.transformgizmospace.md",
+      "sha256": "93ac037a31a5cee616fffb33ef6990a7118af2ec0e5367bd8a02b61f4d00257b"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.treenodedrawcontext.md",
+      "sha256": "83687d5f125626aabeb505fe16c37e9e3c28029eb8f5e3fccb38a09ba162c5cc"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.treenodeoptions.md",
+      "sha256": "3094d6dbecd39ae498fedfb1406692e8e5a13a6c0f2f1e706c3a9287dee1fd51"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwidget.treenoderesult.md",
+      "sha256": "1f6a1b3e98e037e7a3398af9f0fbd549d7d2a0208b89e3d23473115dea88e535"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/imguiwindowflags.md",
+      "sha256": "f5c59a1603e189413908ed02fd39511f2a868e1d14c7788eb0b2ff340c3d02f9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-imgui/index.md",
+      "sha256": "65ca58871b617ca75f863cb6988d34dbfef42f973007b12b0cc02d11ef35c616"
+    }
+  ]
+}

@@ -917,7 +917,9 @@
     "name": "Inno.Editor.Panel.FileBrowser",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.FileBrowser/Inno.Editor.Panel.FileBrowser.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -933,14 +935,18 @@
     "name": "Inno.Editor.Panel.Hierarchy",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Hierarchy/Inno.Editor.Panel.Hierarchy.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Panel.Inspector",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Inspector/Inno.Editor.Panel.Inspector.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -974,7 +980,9 @@
     "name": "Inno.Editor.Panel.ShaderEditor",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.ShaderEditor/Inno.Editor.Panel.ShaderEditor.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -990,28 +998,36 @@
     "name": "Inno.Editor.Assets.ImGui",
     "path": "src/composition/editor/presentation/Inno.Editor.Assets.ImGui/Inno.Editor.Assets.ImGui.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Graph.ImGui",
     "path": "src/composition/editor/presentation/Inno.Editor.Graph.ImGui/Inno.Editor.Graph.ImGui.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.ImGui",
     "path": "src/composition/editor/presentation/Inno.Editor.ImGui/Inno.Editor.ImGui.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Shaders.ImGui",
     "path": "src/composition/editor/presentation/Inno.Editor.Shaders.ImGui/Inno.Editor.Shaders.ImGui.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

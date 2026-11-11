@@ -1,0 +1,170 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "FileBrowser has no selected public declarations; its reusable feature/presentation APIs are owned by Assets and Assets.ImGui.",
+    "Shader node drawers belong to Shaders.ImGui, not the headless Shaders module or ShaderEditor Panel.",
+    "Inspector generic drawers belong to Inspection; the panel contributes its scene/drop presentation contracts."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/editor/Inno.Editor.Assets.ImGui.md",
+      "sourceSha256": "cc77dcf338721a453ccd6c8d2f096200d8686109e59cec4aba60d443ea9fec26",
+      "sourceBlobSha256": "cc77dcf338721a453ccd6c8d2f096200d8686109e59cec4aba60d443ea9fec26",
+      "destinations": [
+        "content/en/api/projects/inno-editor-assets-imgui.md",
+        "content/en/extending/asset-browser.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 59,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Assets.ImGui/api.md",
+      "sourceSha256": "3b90d867ca43699e8c697a1ad4dd74728233b97b16fd07fac445b74919d9d030",
+      "sourceBlobSha256": "3b90d867ca43699e8c697a1ad4dd74728233b97b16fd07fac445b74919d9d030",
+      "destinations": [
+        "content/en/api/projects/inno-editor-assets-imgui.md",
+        "content/en/extending/asset-browser.md"
+      ],
+      "baselineSymbols": 59,
+      "capturedSymbols": 59,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Graph.ImGui.md",
+      "sourceSha256": "2cd70835be2a4093ac78c0470f94629ccdc0506055f606d11d9735f92a47660e",
+      "sourceBlobSha256": "2cd70835be2a4093ac78c0470f94629ccdc0506055f606d11d9735f92a47660e",
+      "destinations": [
+        "content/en/api/projects/inno-editor-graph-imgui.md",
+        "content/en/extending/graph-canvas.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 65,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Graph.ImGui/api.md",
+      "sourceSha256": "ca0fd05157747773baa921f8f44a4a1f63e8d9be4cfd0bd980d6940bd27039cf",
+      "sourceBlobSha256": "ca0fd05157747773baa921f8f44a4a1f63e8d9be4cfd0bd980d6940bd27039cf",
+      "destinations": [
+        "content/en/api/projects/inno-editor-graph-imgui.md",
+        "content/en/extending/graph-canvas.md"
+      ],
+      "baselineSymbols": 65,
+      "capturedSymbols": 65,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.ImGui.md",
+      "sourceSha256": "cc6a8a0bf7b1036bc9e473306de72a96b76789c5aa65270d0c1bee9a831b4492",
+      "sourceBlobSha256": "0e208087e1582153a273e80418ac117988b181ea6989484a465568fb95686688",
+      "destinations": [
+        "content/en/api/projects/inno-editor-imgui.md",
+        "content/en/extending/editor-widgets.md",
+        "content/en/extending/examples/inno-editor-imgui-editor-script.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 1242,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.ImGui/api.md",
+      "sourceSha256": "93f5f9b9b37ef8dacbc7e08365a06de22af83b5faf0760debc2b6f0d2fa8141c",
+      "sourceBlobSha256": "8783116cc524a3e436f6bbe1b70b86b95c881e81bb65604838bfb53c4ba56b75",
+      "destinations": [
+        "content/en/api/projects/inno-editor-imgui.md",
+        "content/en/extending/editor-widgets.md",
+        "content/en/extending/examples/inno-editor-imgui-editor-script.md"
+      ],
+      "baselineSymbols": 1242,
+      "capturedSymbols": 1242,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.FileBrowser.md",
+      "sourceSha256": "ecb6daf310192a7f6fbe4de513eb856cf4289031b1a2debfaaf69f990275c8c5",
+      "sourceBlobSha256": "ecb6daf310192a7f6fbe4de513eb856cf4289031b1a2debfaaf69f990275c8c5",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-filebrowser.md",
+        "content/en/manual/editor/files.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.Hierarchy.md",
+      "sourceSha256": "dd79838ea90549cb8f6b290f31b86711d72f1635b0349a5dda559bb21f3c848d",
+      "sourceBlobSha256": "dd79838ea90549cb8f6b290f31b86711d72f1635b0349a5dda559bb21f3c848d",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-hierarchy.md",
+        "content/en/manual/editor/hierarchy.md"
+      ],
+      "baselineSymbols": 6,
+      "capturedSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.Inspector.md",
+      "sourceSha256": "1ca7c43490e986e287add15c9a14d124a1161d1453919bde3666965f4450ae2f",
+      "sourceBlobSha256": "1ca7c43490e986e287add15c9a14d124a1161d1453919bde3666965f4450ae2f",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-inspector.md",
+        "content/en/manual/editor/inspector.md"
+      ],
+      "baselineSymbols": 8,
+      "capturedSymbols": 8,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.ShaderEditor.md",
+      "sourceSha256": "d92c1e120c96c571af54828e49a3f618944612163bb25a424f717739c222f755",
+      "sourceBlobSha256": "d92c1e120c96c571af54828e49a3f618944612163bb25a424f717739c222f755",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-shadereditor.md",
+        "content/en/manual/editor/shader-editor.md",
+        "content/en/extending/examples/inno-editor-panel-shadereditor-editor-script.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Shaders.ImGui.md",
+      "sourceSha256": "9e1715cd020980864ff118fed8107021f9eb6216031f9302e3c7ee7b976fffee",
+      "sourceBlobSha256": "9e1715cd020980864ff118fed8107021f9eb6216031f9302e3c7ee7b976fffee",
+      "destinations": [
+        "content/en/api/projects/inno-editor-shaders-imgui.md",
+        "content/en/manual/editor/shader-editor.md"
+      ],
+      "baselineSymbols": 45,
+      "capturedSymbols": 45,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

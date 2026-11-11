@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "3a09516c8748908ec2ebc2cb25a5ea01264ef0766438ead738af0e3eafe8369e",
+  "projectManifestIdentity": "0a85159444450aa5eef91c767c5f70ff6f4bed7b68f926e0f3fc1099c0ceee60",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -315,6 +315,15 @@
     {
       "path": "reference/api/editor-domains.json",
       "sha256": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
+    },
+    {
+      "path": "reference/api/editor-presentation.json",
+      "sha256": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
