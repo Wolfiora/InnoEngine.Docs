@@ -87,6 +87,20 @@ test('a supplied catalog cannot read outside the explicit source root', async (t
   await assert.rejects(checkProjection(f), /escapes its root/);
 });
 
+test('license provenance preserves original bytes and rejects normalized or escaping payloads', async (t) => {
+  const f = await fixture(t);
+  const original = 'Original license.\r\nKeep this notice.\r\n';
+  const record = { revision: 'f'.repeat(40), sha256: digest(original), license: 'public/licenses/probe.txt' };
+  await f.write(record.license, original);
+  await f.write('reference/provenance/probe-license.json', JSON.stringify(record));
+  assert.equal((await checkProjection(f)).status, 'Passed');
+  await f.write(record.license, original.replaceAll('\r\n', '\n'));
+  assert.match((await checkProjection(f)).errors.join('\n'), /Original license bytes differ/);
+  record.license = 'public/../../outside.txt';
+  await f.write('reference/provenance/probe-license.json', JSON.stringify(record));
+  await assert.rejects(checkProjection(f), /escapes its root/);
+});
+
 async function apiFixture(t) {
   const f = await fixture(t);
   const id = 'M:Probe.Read(System.String)';

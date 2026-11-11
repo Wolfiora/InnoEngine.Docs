@@ -5,3 +5,4 @@
 # Preserve the original licensed asset bytes, including line endings.
 public/branding/** -text
 public/third-party/** -text
+public/licenses/** -text

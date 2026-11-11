@@ -76,12 +76,33 @@ export async function checkProjection({ root, catalog, site, complete = false })
   }
   inspect(navigation);
   const api = await checkApiReferences(root, binding, catalog, projects, errors);
+  const licenses = await checkLicenseProvenance(root, errors);
   const missingProjects = Object.entries(catalog.projects).filter(([, entry]) => entry === null).map(([name]) => name);
   if (complete && missingProjects.length) errors.push(`${missingProjects.length} actual projects lack an authoritative entry.`);
   if (complete && catalog.sourceApiStatus !== 'Verified') errors.push(`Source API verification is ${catalog.sourceApiStatus}; publication requires matching evidence.`);
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
-    missingProjects, sourceApiStatus: catalog.sourceApiStatus, api, errors };
+    missingProjects, sourceApiStatus: catalog.sourceApiStatus, api, licenses, errors };
+}
+
+async function checkLicenseProvenance(root, errors) {
+  const directory = 'reference/provenance';
+  let names;
+  try { names = await readdir(inside(root, directory)); }
+  catch (error) { if (error.code === 'ENOENT') return 0; throw error; }
+  const manifests = names.filter((name) => name.endsWith('-license.json')).sort();
+  for (const name of manifests) {
+    const record = JSON.parse(await readOwned(root, `${directory}/${name}`));
+    if (!/^[a-f0-9]{64}$/.test(record.sha256 ?? '') || !/^[a-f0-9]{40}$/.test(record.revision ?? '')
+      || typeof record.license !== 'string' || !record.license.startsWith('public/')) {
+      errors.push(`Invalid license provenance: ${name}.`);
+      continue;
+    }
+    if (digest(await readOwned(root, record.license)) !== record.sha256) {
+      errors.push(`Original license bytes differ: ${record.license}.`);
+    }
+  }
+  return manifests.length;
 }
 
 async function checkApiReferences(root, binding, catalog, projects, errors) {
