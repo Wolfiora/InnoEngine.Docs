@@ -120,6 +120,8 @@
     - slug: architecture/render-frame
     - slug: architecture/shader-ir
     - slug: architecture/validation-evidence
+    - slug: architecture/native-preparation
+    - slug: architecture/task-hosts
 - label: Extending InnoEngine
   items:
     - slug: extending/asset-importers
@@ -218,6 +220,11 @@
         - slug: api/projects/inno-build-managed
         - slug: api/projects/inno-build-products-standard
         - slug: api/projects/inno-build-supportpacks-core
+        - slug: api/projects/inno-build
+        - slug: api/projects/inno-build-bindings
+        - slug: api/projects/inno-build-toolchains
+        - slug: api/projects/inno-build-taskhosting
+        - slug: api/projects/inno-build-tasks
         - slug: api/projects/innoengine-build
         - slug: api/projects/innoengine-editor
     - slug: api/projects/inno-editor-panel-logging

@@ -1,0 +1,109 @@
+{
+  "project": "Inno.Build",
+  "outputDirectory": "content/en/api/types/build-execution/inno-build",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-execution.json",
+  "factsIdentity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+  "sharedContract": "project.inno-build",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-execution/inno-build/builddiagnostic.md",
+      "sha256": "26d7fdcba66562036b098fabfea72cff6cb610b1e4c0bd0e82dbf7c04cebf00b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/builddiagnosticseverity.md",
+      "sha256": "44ff926383b4dda448fdc93e0b3daa01dd57ea0ea4f0a310611a9e286a846e3b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildpipeline.md",
+      "sha256": "d9e77d7f13189d0ca8578e83756ae1f194cc8c806f891f522750e41d828d9e5b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildprofile.md",
+      "sha256": "d7a4ac75774e97d46cec0bfb37eb2ce80954d6c97e65c8294e5594705d10b67d"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildprofilestore.md",
+      "sha256": "04957b7d9dee6a9fbebb795e83c6221ab0a80465ce6e51cc269e588f8802cb54"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildprogress.md",
+      "sha256": "bb1ec88f951005cc4b9d47b999b706cca1213eeff29826c894cd7e779574a234"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildresult.md",
+      "sha256": "8c607ff0b18110b0e6cf5f6e0fdd6f2b6cf09647d50e28c3359b3e6fa9089e6a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildsettings.md",
+      "sha256": "e56da18cd79d2852f595816919694f4ea538a5f08221e0d40632eb88d77b6af6"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildsettingsstore.md",
+      "sha256": "8ce0df8f978e4ae56611c2a9a04f7e084c04136f80ede2bf5b2ce749cdd9b87a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/buildtargetid.md",
+      "sha256": "985c81221d7f504a9be00c5181d1077e80fca43b2627d5f6038f0cedc9820f38"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/gamebuildcontentcontext.md",
+      "sha256": "64db140bdb99637ef632e5cf6211eda0c60b8217956dc96208fe141e76a079db"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/gamebuildpackagecontext.md",
+      "sha256": "4556b44b8d72fa1ed10502dd5ec04e3f1e6a166c30d08cf4cb82e49e1b888221"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/gamebuildrequest.md",
+      "sha256": "abe13fe426d04132ed643e59f807d78f74940e5c33c365687ac328a68dbda9b9"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/gamebuildtargetbinding.md",
+      "sha256": "ffcb1a3c6b95e83de77ca7d0960144db70df36f6947ba8ed1810b9151624d089"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/igamebuildtarget.md",
+      "sha256": "344a6dc7de3ec67f2e277582e1d576b8b214b1165d97908d354a7e533b976b6a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/igamecontentcompiler.md",
+      "sha256": "f83c0e48daf049f0c29d2b70148f0c4382212dd3333506d5d672ce53694f559f"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/iplayersupportpackprovisioner.md",
+      "sha256": "caa83111d77ee5f78a920c5517bdf54db024669af4e1218849305c6b99fc9e59"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/iplayersupportpackvalidator.md",
+      "sha256": "989a3a581477b230cc33fa928b1435bb1397c2a847d37c20fd8b4e67bf3c4509"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/platformtargetdescriptor.md",
+      "sha256": "844b79b6471fb149fa5b98c77165e33dfdc40e251357bb59d707485780d6f5da"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/playersupportpackcatalog.md",
+      "sha256": "943c352e2954bf8b96c626992daaf5696f4f662a5e4bbdb11610266ec334fcff"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/playersupportpacklease.md",
+      "sha256": "58b212d31b911acd304a5354dbe00f82d70e1186b49121c432cabf153ed09e76"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/pluginbuildrequest.md",
+      "sha256": "a8d1b0ef7158beaa6514cdb94c0814523e4d2f3bf041c64b824680a0ed945485"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/sdkscriptcompilationenvironment.md",
+      "sha256": "9efdb62bd2548c4a066e10b552ac7ba703d52510bce72f4449d0abe300d77911"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build/index.md",
+      "sha256": "d70f0b9ea0aaba16b2116ac185f5b18f4d44cb08b8afd520da3679573114030b"
+    }
+  ]
+}

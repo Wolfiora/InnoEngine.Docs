@@ -309,7 +309,9 @@
     "name": "Inno.Build.Bindings",
     "path": "build/bindings/Inno.Build.Bindings/Inno.Build.Bindings.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -352,7 +354,9 @@
     "name": "Inno.Build",
     "path": "build/pipeline/Inno.Build/Inno.Build.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -377,21 +381,27 @@
     "name": "Inno.Build.TaskHosting",
     "path": "build/tasks/Inno.Build.TaskHosting/Inno.Build.TaskHosting.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Build.Tasks",
     "path": "build/tasks/Inno.Build.Tasks/Inno.Build.Tasks.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Build.Toolchains",
     "path": "build/toolchains/Inno.Build.Toolchains/Inno.Build.Toolchains.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

@@ -6,6 +6,7 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 
 | Area | Evidence |
 | --- | --- |
+| Build execution | [Frozen preparation, task hosts and compiled examples](BUILD_EXECUTION_2026_11_11.md) |
 | Build composition and Support Packs | [Content, examples and prepared queries](BUILD_COMPOSITION_2026_11_11.md), [raw query samples](SUPPORT_PACK_QUERY_2026_11_11.json) |
 | Development entries | [Build/Editor entry and validation evidence documentation](DEVELOPMENT_ENTRIES_2026_11_11.md) |
 | Platform and Editor views | [Presentation boundaries, view tasks, Settings and Workbench](PLATFORM_EDITOR_VIEWS_2026_11_11.md) |

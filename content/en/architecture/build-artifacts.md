@@ -113,6 +113,9 @@ Keep the original failing log and exact inputs. Do not delete active leases, cre
 
 ## Related reading
 
+- [Frozen Native preparation](native-preparation.md) follows compiler inputs, generated selection and exact deployment.
+- [MSBuild Task-host isolation](task-hosts.md) separates bootstrap compilation, immutable runtimes and private process loading.
+
 - [Ownership and lifetime](ownership.md) explains the shared resource model.
 - [Platforms and products](../platforms/index.md) explains target-specific composition.
 - [Local documentation queries](../contributing/documentation-queries.md) shows a lightweight tooling consumer with separate preparation and reading.
