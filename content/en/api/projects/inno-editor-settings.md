@@ -18,7 +18,7 @@ This project provides Editor preference definitions and optional Editor presenta
 | `Project/...` | Runtime setting definition with optional `ProjectSettingEditor<TSetting>`; `Settings.Project.inno` | Runtime/plugin-readable and included where the product requires it. |
 | `Build/...` | Host-owned typed Build settings; `Settings.Build.inno` | Team authoring/build defaults; not a Player or plugin runtime protocol. |
 
-All three use Inno Serialization and the shared document-store mechanics for current-format validation, capture/restore and atomic file writes. Their stores, history entries and lifetimes remain distinct.
+All three use Inno Serialization and the shared document-store mechanics for current-format validation, capture/restore and atomic file writes. Their stores and lifetimes remain distinct. The Settings frontend coordinates dirty scopes in one in-process History transaction with rollback; it does not promise a crash-atomic multi-file commit.
 
 ## Define an Editor preference
 

@@ -1,0 +1,53 @@
+{
+  "project": "Inno.Adapter.Presentation",
+  "outputDirectory": "content/en/api/types/platform-boundaries/inno-adapter-presentation",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/platform-boundaries.json",
+  "factsIdentity": "9bcc3adb32873ad52cc4a2af3658220c59f1b276b7180df67ad0d2878fcbacac",
+  "sharedContract": "project.inno-adapter-presentation",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/iauthoringadaptercatalog.md",
+      "sha256": "58a25969a65cbed8029e36e67ad4426352ae030a07d790a15d837a4b5e92592d"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/ipresentationbackendfactory.md",
+      "sha256": "6f1156f13dc737b1666c4a80886ecf1cce2476ce4eee91d40857aff60da40053"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/ipresentationcontext.md",
+      "sha256": "03969c7e38d161f951b5841f57322fb92766c8a2f61222c7e359c8c9d9da965c"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationbackendcatalog.md",
+      "sha256": "b243ebf1b5cf50e9d380122383d7c33e3fe74ac33d0127716acdc26d1fd724d7"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationbackendid.md",
+      "sha256": "d891a9fecc4953b6e1310a7a422eeb146f0efdffd438cd271fca6b2baf35e69a"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationbackendoptions.md",
+      "sha256": "02690d9e4ee1c38f569d5157e272554b9ccc7d3ae27a7381fcaf3a36886cb873"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationbackendprovider.md",
+      "sha256": "e0b25f274890ea4deeef85ff5a5fdb849808d8ced057497a1fe756c5176280a7"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationfeatures.md",
+      "sha256": "d25d24cc039d2faa38f1fd6491d675536f25ae0467732e5320dc48b15f1f0490"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/presentationtexturehandle.md",
+      "sha256": "85ec6face2600d621b628abc667e85247cd43244aa08322f1acb3925f31f9d70"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-presentation/index.md",
+      "sha256": "c0cc1830ba4ddcbf36f9c59b63da7de9179c7add9bfc85faac86e7529d40499e"
+    }
+  ]
+}

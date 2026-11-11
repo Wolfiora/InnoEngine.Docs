@@ -8,6 +8,10 @@ kind: landing
 
 The Manual explains how to use the engine's implemented capabilities. Start with a task, then follow its links to the exact contracts and architectural concepts it relies on.
 
+## Editor views and preferences
+
+[Use the Game View](editor/game-view.md) for game output and focused Play input, or [navigate Scene View](editor/scene-view.md) to inspect and manipulate the presented world. [Change settings](editor/settings.md) and [adjust scale, icons and pacing](editor/appearance.md) through their actual persistence owners.
+
 ## Assets and content
 
 For source importing, settings, samples and retained runtime content, start with [Assets, importing and deployment content](assets/index.md).
@@ -42,6 +46,10 @@ For source importing, settings, samples and retained runtime content, start with
 
 - [Play and control audio](audio/play-audio.md), observe preparation and release preload ownership.
 - [Route audio through a mixer](audio/mix-audio.md) using semantic buses and validated processor chains.
+
+## Rendering and shaders
+
+[Choose a rendering task](rendering/index.md): author shaders, reuse nodes, use materials or contribute to a frame. Engine mechanisms remain independent from a plugin's 2D/3D world model.
 
 ## State, references, and lifetime
 

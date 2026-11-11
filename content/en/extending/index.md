@@ -46,6 +46,8 @@ Discovery identifies an extension and its stable metadata. The owning registry/h
 
 ## Keep public and internal behavior distinct
 
+[Own a presentation context](presentation-context.md) with borrowed platform/device dependencies, or [contribute to a rendered frame](render-frame.md) through neutral models and graph contributors. Shader extensions can [expand a Target](shader-targets.md) or [lower a primitive](shader-nodes.md) while retaining the same typed IR and generation owners.
+
 A CLR public API may exist for host composition and be excluded from scripts. An internal style value is not a persistent or script protocol. Read the selected API surface before building an extension around a member.
 
 See [ownership](../architecture/ownership.md) for shared lifecycle obligations and [API reference](../api/index.md) for precise contracts.

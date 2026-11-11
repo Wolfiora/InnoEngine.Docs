@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Platform",
+  "outputDirectory": "content/en/api/types/platform-boundaries/inno-platform",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/platform-boundaries.json",
+  "factsIdentity": "9bcc3adb32873ad52cc4a2af3658220c59f1b276b7180df67ad0d2878fcbacac",
+  "sharedContract": "project.inno-platform",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-platform/framepacingoptions.md",
+      "sha256": "031607a3e1d23b722c3385234a97108effa2753565d9e54bc3d2dcaaba4a7d76"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-platform/iplatformapplication.md",
+      "sha256": "a2bd6461b8c5d64ce070181aac8a03fea10720608121052cec984e0e67c6c4eb"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-platform/iplatformwindow.md",
+      "sha256": "c535e43f2cf5c60aff9c41e8bba75666a8e28cfccf5ed13c8e6ab887b91f9315"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-platform/platformwindowoptions.md",
+      "sha256": "c30630d8f5e8b5643c45cd3b707c06b17b468ad3b332f498e18ff7e78168b64f"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-platform/index.md",
+      "sha256": "00534067ad243da11023d57ddca0dd058073d62087e3c978cf3a6c436d84dedd"
+    }
+  ]
+}

@@ -15,6 +15,9 @@
         - slug: manual/editor/console
         - slug: manual/editor/statistics
         - slug: manual/editor/settings
+        - slug: manual/editor/appearance
+        - slug: manual/editor/game-view
+        - slug: manual/editor/scene-view
     - slug: manual/identity-and-missing
     - slug: manual/scripting/use-script-api
     - slug: manual/runtime/frame-loop
@@ -146,6 +149,7 @@
     - slug: extending/script-exports
     - slug: extending/runtime-host
     - slug: extending/render-frame
+    - slug: extending/presentation-context
     - slug: extending/shader-targets
     - slug: extending/shader-nodes
     - slug: extending/plugin-packages
@@ -157,6 +161,9 @@
     - slug: platforms/publish-player
     - slug: platforms/window-lifetime
     - slug: platforms/application-data
+    - slug: api/projects/inno-platform
+    - slug: api/projects/inno-adapter-platform
+    - slug: api/projects/inno-adapter-presentation
     - slug: backends
     - slug: backends/sdl3
     - slug: backends/miniaudio
@@ -212,6 +219,10 @@
         - slug: api/projects/inno-editor-diagnostics
         - slug: api/projects/inno-editor-annotations
         - slug: api/projects/inno-editor-settings
+        - slug: api/projects/inno-editor-panel-settings
+        - slug: api/projects/inno-editor-workbench
+        - slug: api/projects/inno-editor-panel-gameview
+        - slug: api/projects/inno-editor-panel-sceneview
         - slug: api/projects/inno-editor-panel-stats
     - slug: api/projects/inno-core-identity
     - slug: api/projects/inno-core-settings

@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Adapter.Platform",
+  "outputDirectory": "content/en/api/types/platform-boundaries/inno-adapter-platform",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/platform-boundaries.json",
+  "factsIdentity": "9bcc3adb32873ad52cc4a2af3658220c59f1b276b7180df67ad0d2878fcbacac",
+  "sharedContract": "project.inno-adapter-platform",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/inativewindowsurface.md",
+      "sha256": "2de12e9a30d55bbabda5794f4246c3b619c06b209bd4e64ef46f22ce4223d5d6"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/iplatformbackendfactory.md",
+      "sha256": "28d3832fc7be2b005cb2ba372a7917408f8b9a3b6e3589153c1da301af192e1d"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/platformbackendcatalog.md",
+      "sha256": "c642bbe74cf1238c5a2f3ad17848dc3142ae26b8efdd072200d3d73b2decb11a"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/platformbackendid.md",
+      "sha256": "cbc6c9755b9cf1b9b7a150e85210f630234ea4a938cf6834212b4438a3fe86ec"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/platformbackendprovider.md",
+      "sha256": "919659d4e39c1ece15cce4fce11534e57dbdae87630f7cd773d9685d296ff4d1"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/platformnativehandleid.md",
+      "sha256": "f7747b63eec604fe0854c5fa3b9223d8c9bbd52d90facdc2c2c5b06e9afc96cf"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/platformnativehandles.md",
+      "sha256": "6c3cd1408647a29c52b799b8ee30f2d06ca0b3e1f9d8a73bec675963f3558153"
+    },
+    {
+      "path": "content/en/api/types/platform-boundaries/inno-adapter-platform/index.md",
+      "sha256": "934bfc4df0dde2769d428da4c1f473a3e6b8dff878a57e2933764c35abde0350"
+    }
+  ]
+}

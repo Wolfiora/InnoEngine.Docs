@@ -637,14 +637,18 @@
     "name": "Inno.Adapter.Platform",
     "path": "src/adapters/platform/Inno.Adapter.Platform/Inno.Adapter.Platform.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Presentation",
     "path": "src/adapters/presentation/Inno.Adapter.Presentation/Inno.Adapter.Presentation.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -852,7 +856,9 @@
     "name": "Inno.Editor.Panel.GameView",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.GameView/Inno.Editor.Panel.GameView.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -882,14 +888,18 @@
     "name": "Inno.Editor.Panel.SceneView",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.SceneView/Inno.Editor.Panel.SceneView.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Editor.Panel.Settings",
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Settings/Inno.Editor.Panel.Settings.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -940,7 +950,9 @@
     "name": "Inno.Editor.Workbench",
     "path": "src/composition/editor/presentation/Inno.Editor.Workbench/Inno.Editor.Workbench.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -1343,7 +1355,9 @@
     "name": "Inno.Platform",
     "path": "src/services/platform/Inno.Platform/Inno.Platform.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

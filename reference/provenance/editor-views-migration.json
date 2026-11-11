@@ -1,0 +1,67 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Settings uses one in-process Apply History transaction across independently atomic files; it does not guarantee crash-atomic multi-file publication."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.GameView.md",
+      "sourceSha256": "a43207a3b01520877dfd8a6cfef5fd94cc0c3cd2120b07c186fce31885e7e17d",
+      "sourceBlobSha256": "a43207a3b01520877dfd8a6cfef5fd94cc0c3cd2120b07c186fce31885e7e17d",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-gameview.md",
+        "content/en/manual/editor/game-view.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.SceneView.md",
+      "sourceSha256": "5b34de7eddb2e4e93f017ae131b3d86e471cd6fe29b4c946d054e7dd8ad160fa",
+      "sourceBlobSha256": "5b34de7eddb2e4e93f017ae131b3d86e471cd6fe29b4c946d054e7dd8ad160fa",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-sceneview.md",
+        "content/en/manual/editor/scene-view.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.Settings.md",
+      "sourceSha256": "660baf18226bc13d056ef91425806d7cc97cd7689b583afc6678374fc0d69366",
+      "sourceBlobSha256": "660baf18226bc13d056ef91425806d7cc97cd7689b583afc6678374fc0d69366",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-settings.md",
+        "content/en/manual/editor/settings.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Workbench.md",
+      "sourceSha256": "0dd52ff3bbe3cc288b3308763955c520dd2503ab1123b4ee42f37fd8ee5bd8c7",
+      "sourceBlobSha256": "0dd52ff3bbe3cc288b3308763955c520dd2503ab1123b4ee42f37fd8ee5bd8c7",
+      "destinations": [
+        "content/en/api/projects/inno-editor-workbench.md",
+        "content/en/manual/editor/appearance.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

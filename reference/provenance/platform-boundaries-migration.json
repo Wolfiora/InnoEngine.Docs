@@ -1,0 +1,87 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "PresentationBackendOptions has platform/window/render-device/features, not shader compiler and asset source.",
+    "DefaultAuthoringAdapterCatalog requires explicit non-null presentation providers; null does not create an implicit ImGui backend."
+  ],
+  "reviews": [
+    {
+      "source": "docs/platform/Inno.Adapter.Platform.md",
+      "sourceSha256": "9f135909b430cf2ff300c2976eb310ec8d56d0e69ce7f751d2c9b9a2a2815765",
+      "sourceBlobSha256": "9f135909b430cf2ff300c2976eb310ec8d56d0e69ce7f751d2c9b9a2a2815765",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-platform.md",
+        "content/en/extending/presentation-context.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 49,
+      "capturedSymbols": 49,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/platform/Inno.Adapter.Platform/api.md",
+      "sourceSha256": "3439be0b3b995fde1506bfddbde73024f61aac309f599438c84ed398ed89cc0d",
+      "sourceBlobSha256": "3439be0b3b995fde1506bfddbde73024f61aac309f599438c84ed398ed89cc0d",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-platform.md",
+        "content/en/extending/presentation-context.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 49,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/platform/Inno.Adapter.Presentation.md",
+      "sourceSha256": "a15e61e08d401421fa3a6c8da2ed15dfb6a57284fecf37cfa3c3bf01fa66431e",
+      "sourceBlobSha256": "a15e61e08d401421fa3a6c8da2ed15dfb6a57284fecf37cfa3c3bf01fa66431e",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-presentation.md",
+        "content/en/extending/presentation-context.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 55,
+      "capturedSymbols": 55,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/platform/Inno.Adapter.Presentation/api.md",
+      "sourceSha256": "f7ae3e11eede731f5cfb7f7b9d27066ba8680c3afc120e3ecc8e45037f27a390",
+      "sourceBlobSha256": "f7ae3e11eede731f5cfb7f7b9d27066ba8680c3afc120e3ecc8e45037f27a390",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-presentation.md",
+        "content/en/extending/presentation-context.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 55,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/platform/Inno.Platform.md",
+      "sourceSha256": "e9057b448ccccb875461a122205d0cce6e43294d46c11dcc0a2fff4f1ff8ef95",
+      "sourceBlobSha256": "e9057b448ccccb875461a122205d0cce6e43294d46c11dcc0a2fff4f1ff8ef95",
+      "destinations": [
+        "content/en/api/projects/inno-platform.md",
+        "content/en/extending/presentation-context.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 27,
+      "capturedSymbols": 27,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}
