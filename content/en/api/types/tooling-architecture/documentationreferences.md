@@ -37,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
 
 ## `ExportApi`
 
@@ -52,6 +52,9 @@ Exports selected CLR source contracts using the existing evaluated API extractor
 This operation does not certify script projection, behavioral prose, examples or product execution.
 
 **Parameter `arguments`:** Required engine-root, dotnet, output and one or more project options; optional configuration and target.
+Optional artifacts-path and sdk-snapshot select already prepared outputs and one resolved graph with
+matching properties and owners. The caller owns the execution boundary and closing input checks;
+a supplied graph does not independently establish freshness or certify the exported contracts.
 Project paths are relative to the engine root and must occur in its actual source inventory.
 The selected SDK and prepared references supply compilation facts; no product build is requested.
 
@@ -69,7 +72,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L48).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L51).
 
 ## `ExportProjects`
 
@@ -97,7 +100,7 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L292).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L297).
 
 ## `ValidateApiAsync`
 
@@ -134,4 +137,4 @@ certify authored prose, script projections, examples, other targets or publicati
 **Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L121).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L126).

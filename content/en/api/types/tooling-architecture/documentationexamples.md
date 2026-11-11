@@ -36,7 +36,7 @@ Compiles canonical documentation examples against explicit prepared host or scri
 This validator does not parse Markdown again, build products, run example code or certify source provenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
 
 ## `ExecuteAsync`
 
@@ -66,4 +66,4 @@ missing explicit contexts or empty required example discovery. The report preser
 **Throws `System.OperationCanceledException`:** Validation was canceled; no completed report replaces the previous result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/ce462dee9fc831228cd5bc0560f7f5b82be0afb0/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L49).
