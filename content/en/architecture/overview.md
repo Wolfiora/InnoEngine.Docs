@@ -26,6 +26,10 @@ InnoEngine places reusable mechanisms below explicit product composition. A shar
 
 Shared layers do not select a named operating system or backend. Platform products and the standard build distribution perform their respective explicit composition.
 
+The outer `entry/` executables are convenience boundaries and are not dependencies of production libraries. Runtime publication excludes authoring compilation, dynamic loading and SDK toolchains where the selected product requires a static closure. Build mechanisms remain separate from the concrete distribution that registers platforms and backends.
+
+The [project reference index](../api/index.md) derives ownership from actual source inventory. It replaces a manually copied assembly list in this explanation. To introduce a capability, follow [platform/backend extension](../extending/platforms.md) and the relevant domain contract.
+
 ## Four independent choices
 
 **Host**, **target**, **product**, and **managed deployment** are separate inputs. A tool running on one host can prepare an explicitly supported target. Selecting a desktop Editor does not implicitly request a browser workload or another Player configuration.

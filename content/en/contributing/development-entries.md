@@ -37,6 +37,8 @@ The SDK host selects the WindowsX64 or MacOSArm64 product reference. Its composi
 
 Normal builds own their selected reference closure even when an IDE solution excludes a product as a separate root. Design-time evaluation does not trigger Native preparation or introduce another IDE-only output tree. Subsequent source changes use the SDK's actual dependency graph.
 
+Solution Debug/Release builds the shared source, tools, applicable tests and current host Editor through the entry's conditional project reference. It does not select every other host or Player product. SourceDebug/SourceRelease validates source without the Editor entry. An unselected product is not built; an unchanged selected output can be incrementally up to date. Portable target-description libraries can compile without executing their target's Native SDK.
+
 ## Clean only the selected owner
 
 ```sh

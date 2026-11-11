@@ -36,4 +36,16 @@ The suite explicitly requests the `editor` native product. [The validation execu
 
 Use the resulting deployment index. Missing libraries, SDKs or a required real window are failed or unavailable evidence. Keep original cleanup, frame and process assertions when filtering for diagnosis; do not maintain a second executable test-selection list in documentation.
 
+For a direct Windows shader integration diagnosis from the engine checkout, pass the product's actual properties:
+
+```powershell
+$productProperties = (Resolve-Path 'platforms/WindowsX64/build/Inno.Build.WindowsX64/EditorProduct.props').Path
+dotnet test backends/Bgfx/tests/Inno.Adapter.Rendering.Bgfx.Tests/Inno.Adapter.Rendering.Bgfx.Tests.csproj `
+  -p:InnoNativeTarget=windows-x64 `
+  -p:InnoToolTarget=windows-x64 `
+  "-p:InnoProductBuildProperties=$productProperties"
+```
+
+The SDK deploys target dependencies into the test project's actual `TargetDir`; do not infer that directory from the target name. Native-call fixtures prepare the selected `ProductNativeBuildPlan` through `ProductNativeDeployment.InstallAsync`. On macOS, select the corresponding product properties and real host. These diagnostic commands do not replace the plan's process isolation or required device checks.
+
 [Browse the pinned adapter fixtures](https://github.com/Wolfiora/InnoEngine/tree/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/backends/Bgfx/tests/Inno.Adapter.Rendering.Bgfx.Tests).

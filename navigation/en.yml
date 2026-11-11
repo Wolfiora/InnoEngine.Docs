@@ -115,6 +115,8 @@
   items:
     - slug: architecture/asset-publication
     - slug: architecture/overview
+    - slug: architecture/editor-ui
+    - slug: architecture/identity-and-recovery
     - slug: architecture/ownership
     - slug: architecture/scene-lifecycle
     - slug: architecture/serialization
@@ -172,6 +174,7 @@
     - slug: extending/render-frame
     - slug: extending/presentation-context
     - slug: extending/build-distribution
+    - slug: extending/platforms
     - slug: extending/shader-targets
     - slug: extending/shader-nodes
     - slug: extending/plugin-packages
@@ -393,6 +396,8 @@
   items:
     - slug: contributing
     - slug: contributing/development-entries
+    - slug: contributing/dependencies
+    - slug: contributing/native-bindings
     - slug: contributing/support-packs
     - slug: contributing/validate-change
     - slug: contributing/product-journeys
