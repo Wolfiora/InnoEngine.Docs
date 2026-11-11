@@ -151,6 +151,7 @@
     - slug: extending/runtime-host
     - slug: extending/render-frame
     - slug: extending/presentation-context
+    - slug: extending/build-distribution
     - slug: extending/shader-targets
     - slug: extending/shader-nodes
     - slug: extending/plugin-packages
@@ -213,6 +214,10 @@
         - slug: api/projects/inno-build-distribution-standard
         - slug: api/projects/inno-tooling-architecture
         - slug: api/projects/inno-tooling-validation
+        - slug: api/projects/inno-build-composition
+        - slug: api/projects/inno-build-managed
+        - slug: api/projects/inno-build-products-standard
+        - slug: api/projects/inno-build-supportpacks-core
         - slug: api/projects/innoengine-build
         - slug: api/projects/innoengine-editor
     - slug: api/projects/inno-editor-panel-logging
@@ -310,6 +315,7 @@
   items:
     - slug: contributing
     - slug: contributing/development-entries
+    - slug: contributing/support-packs
     - slug: contributing/validate-change
     - slug: contributing/product-journeys
     - slug: contributing/testing

@@ -3,7 +3,7 @@
   "revision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "d55537cfba490a96a762b60ccb3a29669aa67e48b63eb44dd41972e0a28981b0",
+  "projectManifestIdentity": "813d9801c0c7d19c436362ec9c59b92749d498f9d4abcd902e2f358a651c06c9",
   "toolingRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
   "apiManifests": [
     {
@@ -261,6 +261,15 @@
     {
       "path": "reference/api/development-entries.json",
       "sha256": "f21aeb71601cdfcd2debf8fd48a0356b49f75d7d78290c159c19a1a7b3111122",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
+    },
+    {
+      "path": "reference/api/build-composition.json",
+      "sha256": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,

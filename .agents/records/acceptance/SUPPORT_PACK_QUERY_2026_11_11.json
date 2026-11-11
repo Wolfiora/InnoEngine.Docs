@@ -1,0 +1,50 @@
+{
+  "scope": "Prepared immutable snapshot query; process startup included",
+  "snapshot": "faddb34599e97e32208ed00a354816eab5b595d0ce9f187a89b52ca958719f53",
+  "sourceApiStatus": "Unverified",
+  "query": "prepare support pack",
+  "sdk": "10.0.402",
+  "runtime": "10.0.14",
+  "operatingSystem": "Microsoft Windows NT 10.0.26200.0",
+  "powerShell": "7.6.9",
+  "samples": [
+    {
+      "sample": 1,
+      "milliseconds": 841.7122,
+      "bytes": 4691
+    },
+    {
+      "sample": 2,
+      "milliseconds": 787.7995,
+      "bytes": 4691
+    },
+    {
+      "sample": 3,
+      "milliseconds": 823.5472,
+      "bytes": 4691
+    },
+    {
+      "sample": 4,
+      "milliseconds": 792.0865,
+      "bytes": 4691
+    },
+    {
+      "sample": 5,
+      "milliseconds": 839.0148,
+      "bytes": 4691
+    }
+  ],
+  "medianMilliseconds": 823.5472,
+  "firstPage": "contributing.support-packs",
+  "matchReason": "All query terms in heading",
+  "completeness": "Excerpt",
+  "readStatus": "Partial",
+  "readBytes": 5347,
+  "requiredContracts": [
+    "project.inno-build-supportpacks-core",
+    "project.inno-build-managed",
+    "project.inno-build-products-standard",
+    "project.inno-build-composition"
+  ],
+  "limits": "No concurrent site build or example capture during these five observations. No cold baseline or before/after comparison is inferred. Prepared reads do not invoke SDK graph evaluation, Native preparation, engine compilation or network."
+}

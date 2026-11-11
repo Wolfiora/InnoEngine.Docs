@@ -325,7 +325,9 @@
     "name": "Inno.Build.Composition",
     "path": "build/composition/Inno.Build.Composition/Inno.Build.Composition.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -341,7 +343,9 @@
     "name": "Inno.Build.Managed",
     "path": "build/managed/Inno.Build.Managed/Inno.Build.Managed.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
@@ -355,14 +359,18 @@
     "name": "Inno.Build.Products.Standard",
     "path": "build/products/Inno.Build.Products.Standard/Inno.Build.Products.Standard.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {
     "name": "Inno.Build.SupportPacks.Core",
     "path": "build/support/Inno.Build.SupportPacks.Core/Inno.Build.SupportPacks.Core.csproj",
     "entry": null,
-    "surfaces": [],
+    "surfaces": [
+      "source-clr"
+    ],
     "isTest": false
   },
   {

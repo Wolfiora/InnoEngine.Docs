@@ -1,0 +1,65 @@
+{
+  "project": "Inno.Build.SupportPacks.Core",
+  "outputDirectory": "content/en/api/types/build-composition/inno-build-supportpacks-core",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-composition.json",
+  "factsIdentity": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
+  "sharedContract": "project.inno-build-supportpacks-core",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.fileplayersupportpackpreparation.md",
+      "sha256": "661140e545a7a2545797cfae95379668253f011157fc3c4a1700790da79df025"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.iplayersupportpacksource.md",
+      "sha256": "32fb962f2585d8cbb81f226433315b4dbd2dbad99b2eefd35210068a931ef361"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackbuildcontext.md",
+      "sha256": "e8ca9841fb3f0e4a94c3cf94b7f95f41041892e752198c6114ccc322871d0ff3"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackclosurevalidator.md",
+      "sha256": "f0180a38aba6f1b4075e75029e2efe7c3c5f355253f77eb1e865b4cf386c2009"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackfiles.md",
+      "sha256": "68f529add5ca41a07d3b2ee4a576943980b9b82a24257876c9a0cbed82e4851d"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackplan.md",
+      "sha256": "d873c38f6f0686340d5e2fdeaa1bed6ba40c8f1b86e3130ad457e5a626aa5f5b"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackplanningcontext.md",
+      "sha256": "e93b83b51f510958b5572268559a549838add1bedbf21acf70bcd8e15c773c25"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackpreparationidentity.md",
+      "sha256": "8030be52e00389408ec6f3ad373df4839167b8e8c5a3325ae0198a2d9407dd22"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackpublication.md",
+      "sha256": "d8750b1d715c53c784b4201c81a19ed2265255b23586a4e90dc99345ff865c68"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackpublisher.md",
+      "sha256": "ab2e9c103d706014a7e85f1d578292cbb914b370b20d2709f34c540546e50776"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.playersupportpackrequirements.md",
+      "sha256": "ebb3ff5b87d5a4973c35d295dd7829d189b979656736ba24d50b5b8d08f8a559"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/inno.build.supportpacks.sourceplayersupportpackprovisioner.md",
+      "sha256": "0f456a0d713dfaef149300668aa6dd369f0a3fdb04c1ee436d360cfc02f108ee"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-supportpacks-core/index.md",
+      "sha256": "d24f1bc4a57bb79ef869397757e3c7d267cfb44e34cd78e1c06ef9021a695f1d"
+    }
+  ]
+}

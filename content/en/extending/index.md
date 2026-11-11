@@ -58,6 +58,8 @@ See [ownership](../architecture/ownership.md) for shared lifecycle obligations a
 
 ## Code and discovery composition
 
+[Compose a build distribution](build-distribution.md) when adding platform, content-compilation or managed-deployment contributions. Prepare [Support Packs](../contributing/support-packs.md) separately from a game's final content and publication.
+
 [Compose module sources](module-sources.md), [contribute static type facts](static-type-catalogs.md), and [build an owned extension registry](type-registries.md) through the shared generation protocol.
 
 [Package a source plugin](plugin-packages.md) with a valid manifest and asset metadata, [compose its host](plugin-host.md), and [join reference recovery](reference-recovery.md) when a domain must preserve neutral state across publication.

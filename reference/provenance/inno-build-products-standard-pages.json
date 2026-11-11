@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Build.Products.Standard",
+  "outputDirectory": "content/en/api/types/build-composition/inno-build-products-standard",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-composition.json",
+  "factsIdentity": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
+  "sharedContract": "project.inno-build-products-standard",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-composition/inno-build-products-standard/standardnativecomponents.md",
+      "sha256": "3f73dcb0a71a9db2571efad9dc392118e3c000cceca27cbcb666420cb9dbf5e2"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-products-standard/standardnativedeployment.md",
+      "sha256": "34c195bfffa868c9c9c16b4c378955710c039deb0b956a0f1e7664dfd192e722"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-products-standard/standardsupportpackrequirements.md",
+      "sha256": "cac599c0f0e1c5024c5ec3f632d93e57d4e01d9ab89a4c1f96fd4aed5313b57c"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-products-standard/index.md",
+      "sha256": "4849c48fa4bf07f6aaa66ed4d7bbe1f1080c894a066a9ace6d6a86df0017977a"
+    }
+  ]
+}
