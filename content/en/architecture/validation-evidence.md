@@ -64,6 +64,20 @@ Reusable compilation receipts also wait for closing verification. A test asserti
 
 Evidence compares output file contents and the complete expected membership. Added, missing or replaced outputs invalidate it. Same length and timestamp are insufficient. Deterministic reuse requires matching source, tests, tools, configuration, dependencies and environment; performance/device obligations retain their own freshness requirements.
 
+## Retain unchanged documentation source evidence
+
+Publishing documentation requires complete source-reference and executable-example coverage. A bounded engine change does not, by itself, justify recompiling every unchanged documented module to obtain that coverage.
+
+Successful source comparisons retain each owner's actual transitive project closure, repository input hashes, configuration, target, environment, restored package content hashes and compared reference identity. Executable examples additionally retain their exact blocks, mode, projects and projection-host inputs. These are the inputs of the original successful comparison or compilation; they are not inferred from a green workflow name.
+
+For an incremental CI run, the aggregate can import a certificate produced by the same repository's successful default-branch workflow at the plan's **exact impact baseline**. Import authenticates the run, attempt, aggregate job, artifact identity and archive digest. Forks, PR-produced baselines, other branches, expired artifacts and ambiguous producers cannot supply this proof.
+
+Compatibility checks use the current reconciled plan and canonical documentation facts. An owner selected by impact analysis cannot inherit its prior proof. Recorded source bytes, current evaluated inputs, checker inputs, environment, configuration and reference facts must match; additions and missing inputs invalidate compatibility. Examples also require unchanged executable blocks, owner selection and host/script mode. Retained Native-context inputs remain checked even when the current bounded plan needs no Native preparation.
+
+The resulting certificate names the original comparison report and dependency snapshot, the prior certificate and the current compatibility plan. It does **not** add old test passes to the current run's result counts or claim that an example was executed again. Fresh package resolution, changed dependencies and platform/device obligations require their own applicable execution evidence. Periodic full acceptance still refreshes actual functional coverage.
+
+If no authenticated exact-baseline certificate exists, or required metadata cannot establish compatibility, missing documentation coverage stays blocked. Ordinary affected-engine checks retain their own result; publication waits for complete evidence. Historical certificates lacking input metadata are not silently upgraded.
+
 ## Transport artifacts without transporting owners
 
 Native/binding archives contain complete immutable generations and identities for recipe, tools, SDK, target and configuration. Import validates identity, file membership and hashes before establishing local ownership/read protection. Active leases, PID state, absolute owner claims and writable obj directories do not cross runners.

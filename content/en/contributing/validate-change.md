@@ -38,6 +38,8 @@ if ($LASTEXITCODE -ne 0) { throw 'Validation planning failed.' }
 
 Read `plan.json` before executing. Confirm the affected owners, required checks and their reasons, excluded checks, evaluated contexts, product requirements and selected environment. An unknown relationship or missing required environment needs resolution; it is not permission to silently omit a check.
 
+The rule loader and the top-level `tests/ci/*.Tests.ps1` regression scripts have explicit static-check owners. Editing those scripts selects instruction or CI contract validation without, by itself, selecting every product build. Planning and execution share the same contract-discovery boundary. A project that explicitly declares one of these scripts as an input still receives its affected checks. Unknown helper scripts and nested scripts outside that discovery boundary retain conservative expansion; a filename alone does not exempt executable code from validation.
+
 Required external documentation without a selected snapshot is explicitly blocked. The engine's retired Wiki tree cannot supply substitute evidence. Once prepared, the plan reads immutable page and reference payloads; moving or editing the authoring checkout does not change that selected snapshot.
 
 ### Prepare missing native sources explicitly
