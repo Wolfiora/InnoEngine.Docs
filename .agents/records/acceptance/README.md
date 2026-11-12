@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Task query entry points](TASK_QUERY_ENTRY_POINTS_2026_11_12.md): full-catalog natural-language journeys, relevant page aliases and explicit source-verification limits.
+
 - [Documentation input compatibility](INPUT_COMPATIBILITY_2026_11_12.md): authenticated unchanged-source provenance, bounded local checks and the current engine/tooling pair.
 
 - [Actual macOS Editor capture](MACOS_CAPTURE_2026_11_12.md): last missing product declarations, retained failure provenance and exact tested-merge authentication.

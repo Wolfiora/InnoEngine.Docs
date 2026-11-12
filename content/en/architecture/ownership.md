@@ -1,14 +1,15 @@
 ---
-title: Ownership and lifetime
+title: Resource ownership and lifetime
 description: Understand creation, borrowing, cancellation, retirement, and release across engine boundaries.
 uid: architecture.ownership
 kind: explanation
 aliases:
   - ownership
+  - resource ownership
   - resource lifetime
   - 资源所有权
 ---
-# Ownership and lifetime
+# Resource ownership and lifetime
 
 Every resource needs a clear answer to four questions: who creates it, who may use it, how long that use is valid, and who releases it. An object reference alone does not answer those questions.
 

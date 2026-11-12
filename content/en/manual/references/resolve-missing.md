@@ -3,6 +3,10 @@ title: Preserve and resolve a Missing reference
 description: Keep persistent intent when an object or its resolver is temporarily unavailable.
 uid: manual.references.resolve-missing
 kind: how-to
+aliases:
+  - Missing references
+  - resolve Missing reference
+  - recover Missing reference
 owners:
   - Inno.References
 contracts:

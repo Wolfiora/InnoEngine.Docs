@@ -3,6 +3,10 @@ title: Compose plugin discovery with a host
 description: Initialize shared asset mounts, stage candidates and retire owned background work.
 uid: extending.plugin-host
 kind: how-to
+aliases:
+  - plugin lifecycle
+  - plugin activation
+  - plugin shutdown
 owners:
   - Inno.Plugins.Authoring
 contracts:

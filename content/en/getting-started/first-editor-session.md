@@ -3,6 +3,10 @@ title: Start the Editor
 description: Build and launch the normal InnoEngine Editor entry point.
 uid: getting-started.editor
 kind: tutorial
+aliases:
+  - launch editor
+  - start editor
+  - open editor
 ---
 # Start the Editor
 
