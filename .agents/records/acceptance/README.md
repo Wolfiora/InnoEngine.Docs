@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Actual macOS Editor capture](MACOS_CAPTURE_2026_11_12.md): last missing product declarations, retained failure provenance and exact tested-merge authentication.
+
 - [Prepared candidate merge gate](PAIRING_GATE_2026_11_12.md): authenticated completion callbacks, exact Git tree identity and independent engine pairing requirements.
 
 - [Single documentation rule authority](RULE_AUTHORITY_2026_11_12.md): explicit cross-repository loading, preserved original identities and removal of retired command guidance.

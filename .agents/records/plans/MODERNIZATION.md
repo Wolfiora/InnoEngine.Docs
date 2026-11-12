@@ -2,7 +2,7 @@
 
 Status: implementation in progress. This record does not certify final coverage or deployment.
 
-Current checkpoint (2026-11-12): the canonical catalog contains 2,531 pages, all 252 project entries and 12,274 selected declarations. All 454 original product-file dispositions are reconciled; retired engine product/Wiki/query paths and duplicate documentation rule text are removed. Eight inherited documentation rule units now have their sole authority here. [Rule ownership](../acceptance/RULE_AUTHORITY_2026_11_12.md), [protected evidence relay](../acceptance/EVIDENCE_RELAY_2026_11_12.md) and [the independent merge gate](../acceptance/PAIRING_GATE_2026_11_12.md) distinguish implementation from real hosted enforcement. The remaining actual source capture is macOS Editor. Final source/example certification, matching Windows/macOS CI, App/default-workflow activation, required pairing status, publication and draft-release delivery remain incomplete.
+Current checkpoint (2026-11-12): the canonical catalog contains 2,533 pages, all 252 project entries and 12,276 selected declarations. All 454 original product-file dispositions are reconciled; retired engine product/Wiki/query paths and duplicate documentation rule text are removed. Eight inherited documentation rule units now have their sole authority here. [Rule ownership](../acceptance/RULE_AUTHORITY_2026_11_12.md), [protected evidence relay](../acceptance/EVIDENCE_RELAY_2026_11_12.md) and [the independent merge gate](../acceptance/PAIRING_GATE_2026_11_12.md) distinguish implementation from real hosted enforcement. The [actual macOS Editor capture](../acceptance/MACOS_CAPTURE_2026_11_12.md) completes the missing source surface. Final source/example certification, incremental unchanged-owner compatibility, matching Windows/macOS CI, App/default-workflow activation, required pairing status, publication and draft-release delivery remain incomplete.
 
 ## Approved scope amendment: engine documentation only
 
@@ -28,7 +28,7 @@ The public repository was created with `main` as its default branch. Implementat
 
 ## Remaining completion gates
 
-The current checkpoint and acceptance records supersede the historical content counts below. Remaining gates include actual macOS Editor source capture, trusted source/example certification and import, matching Windows/macOS CI, protected paired PR enforcement, App setup, Pages publication and draft-release verification. All 58 active rule units are English with the original 241 identities preserved. The hosted 72-journey browser suite has passed at its recorded candidate; this does not turn missing source certification into a pass.
+The current checkpoint and acceptance records supersede the historical content counts below. Remaining gates include trusted source/example certification and import, precise incremental compatibility, matching Windows/macOS CI, protected paired PR enforcement, App setup, Pages publication and draft-release verification. All 58 active rule units are English with the original 241 identities preserved. The hosted 72-journey browser suite has passed at its recorded candidate; this does not turn missing source certification into a pass.
 
 Do not label preview builds as complete documentation certification. The completed physical cutover must not be reversed by reintroducing duplicate engine documentation or retired query wrappers.
 

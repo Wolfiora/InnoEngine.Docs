@@ -23,4 +23,6 @@ Its handwritten startup signature uses System types. Generated registration cont
 
 ## Source and verification
 
-[Source project](https://github.com/Wolfiora/InnoEngine/blob/c63dae76b618578863de6022b38211a835a8d876/platforms/MacOSArm64/editor/Inno.Editor.MacOSArm64/Inno.Editor.MacOSArm64.csproj). Target-configured source extraction is currently blocked by missing managed compile references. Source review is not a substitute for a complete evaluated surface; cross-platform build/runtime acceptance remains pending.
+[Startup declaration and exact parameter/result contract](../types/macos-editor/index.md) documents the public composition entry.
+
+[Source project](https://github.com/Wolfiora/InnoEngine/blob/7e12d767c39771d8746f3e23ba6190bd2c82eb72/platforms/MacOSArm64/editor/Inno.Editor.MacOSArm64/Inno.Editor.MacOSArm64.csproj). The evaluated macOS ARM64 source surface was captured on the hosted macOS runner using its actual prepared references. Declaration capture is separate from complete source certification and product/device acceptance.

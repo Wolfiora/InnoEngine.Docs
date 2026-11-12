@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "075bc4a695ff76fa24e4513ad81fcd66a131c57a",
-  "sourceTree": "a12d7a800e58f87105a3ae26907b181bec4a5838",
+  "revision": "977655a3c63f528d26f2f677b375cf57fb3d1115",
+  "sourceTree": "397fbaac04a88cd48c257bb7b25f987b28daa096",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "cd452aacc3687c0a07d00c33ca50ccd300621ec8aea4391f96929ce77aa742b6",
-  "toolingRevision": "075bc4a695ff76fa24e4513ad81fcd66a131c57a",
+  "projectManifestIdentity": "008d25f7c2be4ba336a83f6970fb5e2dd9c481700ab86cab3313f4369e6e9b58",
+  "toolingRevision": "977655a3c63f528d26f2f677b375cf57fb3d1115",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -378,6 +378,15 @@
     {
       "path": "reference/api/platform-player-macos.json",
       "sha256": "710695f36017abdd7928cd98690e29b281fbe0624e879ce2a20f529801688822",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": "macos-arm64",
+      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
+    },
+    {
+      "path": "reference/api/platform-editor-macos.json",
+      "sha256": "115f5bd71dabec5f8d51fc358f7e767a01102bfcd6de74ba26326f1d2f4e6674",
       "model": "source-clr",
       "configuration": "Debug",
       "target": "macos-arm64",
