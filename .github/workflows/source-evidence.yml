@@ -68,10 +68,15 @@ jobs:
           node scripts/publication-source.mjs source artifacts/relay/binding.json artifacts/relay/selection.json
           if ($LASTEXITCODE -ne 0) { throw 'Source certificate authorization failed.' }
           ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/relay/selection.json -Source engine -Destination artifacts/relay/evidence
+      - name: Authenticate the imported source tree independently of its commit identity
+        id: identity
+        env:
+          GH_TOKEN: ${{ steps.token.outputs.token }}
+        run: node scripts/inspect-source-certificate.mjs artifacts/relay/evidence/source-certificate.json artifacts/relay/selection.json
       - name: Retain the authenticated certificate for unprivileged consumers
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: source-evidence-${{ inputs.engine_commit }}-attempt-${{ github.run_attempt }}
+          name: source-evidence-tree-${{ steps.identity.outputs.source-tree }}-attempt-${{ github.run_attempt }}
           path: artifacts/relay/evidence/source-certificate.json
           if-no-files-found: error
           retention-days: 90

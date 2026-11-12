@@ -31,11 +31,11 @@ export async function resumeSourceValidation({ importRun, token }) {
     && producer.path === '.github/workflows/source-evidence.yml'
     && [repository.default_branch, 'docs-modernization'].includes(producer.head_branch), 'Resume requires a successful protected source-evidence import.');
   const artifacts = await list(`/actions/runs/${importRun}/artifacts`, 'artifacts');
-  const certificates = artifacts.filter(item => new RegExp(`^source-evidence-[a-f0-9]{40}-attempt-${producer.run_attempt}$`).test(item.name));
-  requireValue(certificates.length === 1 && !certificates[0].expired && /^sha256:[a-f0-9]{64}$/.test(certificates[0].digest ?? '')
+  const certificates = artifacts.filter(item => new RegExp(`^source-evidence-tree-[a-f0-9]{40}-attempt-${producer.run_attempt}$`).test(item.name));
+  requireValue(certificates.length === 1 && !certificates[0].expired && certificates[0].size_in_bytes > 0 && /^sha256:[a-f0-9]{64}$/.test(certificates[0].digest ?? '')
     && certificates[0].workflow_run?.id === producer.id && certificates[0].workflow_run?.head_sha === producer.head_sha,
   'Resume requires the exact retained import artifact.');
-  const engineRevision = certificates[0].name.slice('source-evidence-'.length, 'source-evidence-'.length + 40);
+  const engineTree = certificates[0].name.slice('source-evidence-tree-'.length, 'source-evidence-tree-'.length + 40);
   const runs = await list('/actions/workflows/documentation.yml/runs?status=failure', 'workflow_runs');
   const resumed = [];
   for (const run of runs) {
@@ -59,7 +59,7 @@ export async function resumeSourceValidation({ importRun, token }) {
     const content = await request(`/contents/reference/engine.lock.json?ref=${run.head_sha}`);
     requireValue(content.encoding === 'base64' && content.size > 0 && content.size <= 4 * 1024 * 1024, 'Invalid immutable source binding.');
     const binding = JSON.parse(Buffer.from(content.content, 'base64').toString('utf8'));
-    if (binding.repository !== 'https://github.com/Wolfiora/InnoEngine' || binding.revision !== engineRevision) continue;
+    if (binding.repository !== 'https://github.com/Wolfiora/InnoEngine' || !/^[a-f0-9]{40}$/.test(binding.revision) || binding.sourceTree !== engineTree) continue;
     const jobs = await list(`/actions/runs/${run.id}/jobs?filter=all`, 'jobs');
     const latest = name => jobs.filter(job => job.name === name).sort((a, b) => b.id - a.id)[0];
     const source = latest('Certify documentation source');
@@ -74,10 +74,10 @@ export async function resumeSourceValidation({ importRun, token }) {
     const closing = await request(`/actions/runs/${run.id}`);
     if (closing.status !== 'completed' || closing.conclusion !== 'failure' || closing.run_attempt !== run.run_attempt || closing.head_sha !== run.head_sha) continue;
     await request(`/actions/jobs/${source.id}/rerun`, 'POST');
-    resumed.push({ run: run.id, job: source.id, previousAttempt: run.run_attempt, engineRevision,
+    resumed.push({ run: run.id, job: source.id, previousAttempt: run.run_attempt, engineRevision: binding.revision, engineTree,
       reason: `New authenticated source evidence from import run ${importRun}; preserve the successful projection and first failed attempt.` });
   }
-  return { importRun: Number(importRun), engineRevision, resumed };
+  return { importRun: Number(importRun), engineTree, resumed };
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {

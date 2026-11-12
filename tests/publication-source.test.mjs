@@ -124,7 +124,7 @@ for (const failure of [null, 'internal-pr', 'stale-pr', 'missing-source-artifact
   });
 }
 
-for (const failure of [null, 'wrong-workflow', 'wrong-branch', 'failed-import', 'wrong-engine', 'expired', 'earlier-attempt', 'missing-digest', 'fork']) {
+for (const failure of [null, 'equivalent-engine-commit', 'wrong-workflow', 'wrong-branch', 'failed-import', 'wrong-engine', 'expired', 'earlier-attempt', 'missing-digest', 'fork']) {
   test(`repository-local evidence ${failure ?? 'reuses a successful protected relay without cross-repository credentials'}`, async () => {
     const original = globalThis.fetch;
     const revision = 'd'.repeat(40);
@@ -132,13 +132,14 @@ for (const failure of [null, 'wrong-workflow', 'wrong-branch', 'failed-import', 
     f.run.path = '.github/workflows/source-evidence.yml';
     f.run.event = 'workflow_dispatch';
     f.jobs[0].name = 'Import source evidence';
-    f.artifacts[0].name = `source-evidence-${revision}-attempt-2`;
+    const tree = 'c'.repeat(40);
+    f.artifacts[0].name = `source-evidence-tree-${tree}-attempt-2`;
     if (failure === 'wrong-workflow') f.run.path = '.github/workflows/documentation.yml';
     if (failure === 'wrong-branch') f.run.head_branch = 'feature';
     if (failure === 'failed-import') f.run.conclusion = 'failure';
-    if (failure === 'wrong-engine') f.artifacts[0].name = 'source-evidence-' + 'e'.repeat(40) + '-attempt-2';
+    if (failure === 'wrong-engine') f.artifacts[0].name = 'source-evidence-tree-' + 'e'.repeat(40) + '-attempt-2';
     if (failure === 'expired') f.artifacts[0].expired = true;
-    if (failure === 'earlier-attempt') f.artifacts[0].name = `source-evidence-${revision}-attempt-1`;
+    if (failure === 'earlier-attempt') f.artifacts[0].name = `source-evidence-tree-${tree}-attempt-1`;
     if (failure === 'missing-digest') delete f.artifacts[0].digest;
     if (failure === 'fork') f.run.head_repository.full_name = 'Other/InnoEngine.Docs';
     const requests = [];
@@ -152,13 +153,15 @@ for (const failure of [null, 'wrong-workflow', 'wrong-branch', 'failed-import', 
       return { ok: true, json: async () => body };
     };
     try {
-      const result = selectRelayedCertificate({ binding: { revision, repository: 'https://github.com/Wolfiora/InnoEngine' },
+      const selectedRevision = failure === 'equivalent-engine-commit' ? 'f'.repeat(40) : revision;
+      const result = selectRelayedCertificate({ binding: { revision: selectedRevision, sourceTree: tree, repository: 'https://github.com/Wolfiora/InnoEngine' },
         bootstrap: false, token: 'repository-read-token' });
-      if (failure) await assert.rejects(result);
+      if (failure && failure !== 'equivalent-engine-commit') await assert.rejects(result);
       else {
         const selection = await result;
         assert.equal(selection.documentation.id, 31);
-        assert.equal(selection.engineRevision, revision);
+        assert.equal(selection.engineRevision, selectedRevision);
+        assert.equal(selection.engineTree, tree);
         assert.equal(selection.documentation.digest, 'sha256:' + 'b'.repeat(64));
       }
       assert.ok(requests.every(url => url.startsWith('https://api.github.com/repos/Wolfiora/InnoEngine.Docs')));

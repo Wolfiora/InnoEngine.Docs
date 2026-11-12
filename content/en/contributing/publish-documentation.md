@@ -19,6 +19,8 @@ The successful producer retains `documentation-site-attempt-<attempt>` for 90 da
 
 Source certificates cover the exact engine source tree, project inventory and every captured API reference by owner, target and configuration. Missing comparison coverage produces a blocked source status and no certificate. A successful rendering or a user-edited verification label cannot replace that evidence. Candidate jobs never obtain the installation credential. The protected receiver imports data only; it never installs candidate dependencies, runs candidate code or builds the site.
 
+The receiver checks the certificate's producer against the authenticated run and Git commit tree before registering `source-evidence-tree-<tree>-attempt-<attempt>`. Selection and source-only resumption use this exact tree identity. A PR commit and its eventual merge commit can therefore share evidence when their entire input trees are identical; their actual producer identities remain recorded. A different source tree cannot use this path.
+
 The same certificate records the executable examples that actually compiled: stable page identity, ordered code-block identities, host/script surface, reference owners and successful compiler report contexts. Pure prose edits and moved source lines can reuse these inputs. Changed example code, surface or references require fresh compilation evidence. API declaration fences are checked as reference declarations, not mistaken for executable tutorials.
 
 ## Reuse a successful preview when evidence arrives

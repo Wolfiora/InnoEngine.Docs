@@ -73,12 +73,12 @@ async function list(endpoint, field, token) {
 
 /** Locate a certificate relayed by the protected receiver, using this repository's read-only token. */
 export async function selectRelayedCertificate({ binding, bootstrap, token }) {
-  requireValue(token && sha(binding.revision) && binding.repository === 'https://github.com/Wolfiora/InnoEngine',
+  requireValue(token && sha(binding.revision) && sha(binding.sourceTree) && binding.repository === 'https://github.com/Wolfiora/InnoEngine',
     'An exact engine binding and repository read token are required.');
   const repository = 'Wolfiora/InnoEngine.Docs';
   const prefix = `/repos/${repository}`;
   const metadata = await github(prefix, token);
-  const artifactName = `source-evidence-${binding.revision}`;
+  const artifactName = `source-evidence-tree-${binding.sourceTree}`;
   const candidates = await list(`${prefix}/actions/artifacts`, 'artifacts', token);
   for (const artifact of candidates.filter(item => !item.expired && item.name.startsWith(artifactName + '-attempt-')).sort((a, b) => b.id - a.id)) {
     requireValue(Number.isSafeInteger(artifact.workflow_run?.id), 'Relayed evidence has no authenticated producer.');
@@ -90,9 +90,9 @@ export async function selectRelayedCertificate({ binding, bootstrap, token }) {
     const authorized = authorizeRun({ run, jobs, artifacts: [artifact],
       repository, workflow: '.github/workflows/source-evidence.yml', branch, commit: run.head_sha,
       aggregate: 'Import source evidence', artifactName, events: ['workflow_dispatch'] });
-    return { documentation: { ...authorized, name: artifact.name, metadata: run }, engineRevision: binding.revision };
+    return { documentation: { ...authorized, name: artifact.name, metadata: run }, engineRevision: binding.revision, engineTree: binding.sourceTree };
   }
-  throw new Error('Blocked: no successful protected source-evidence import exists for this engine revision. Complete the matching engine certification and evidence relay; do not rebuild the website.');
+  throw new Error('Blocked: no successful protected source-evidence import exists for this exact engine source tree. Complete the matching engine certification and evidence relay; do not rebuild the website.');
 }
 
 /** Select an authenticated source certificate before the site build; never run from a read-only query. */

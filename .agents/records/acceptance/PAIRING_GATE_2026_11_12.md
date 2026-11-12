@@ -13,3 +13,9 @@ The authoring catalog binds engine `075bc4a695ff76fa24e4513ad81fcd66a131c57a`, t
 Registered retirement reclaimed 22,111,906 logical bytes from superseded query generations and protected the current generation, with no skipped candidates. Branding files match their preserved Git-source identities; Windows worktree CRLF normalization does not replace the original licensed payload bytes in Docs.
 
 This is local implementation evidence. Required branch status configuration, protected default-branch activation, App provisioning, real callback execution and deployment remain external/hosted completion gates. Neither PR has been merged automatically, and no successful Pages deployment or engine release is claimed.
+
+## Same-tree merge identities
+
+Follow-up review found that receiver artifact lookup used the engine commit rather than its certified input tree. That prevented a new merge commit from consuming an otherwise identical source certificate. The protected receiver now independently checks certificate origin/receipt identity and the authenticated producer's actual Git tree before publishing a tree-keyed import. Ordinary selection and partial resumption use that exact tree; different commits with the same tree are accepted, different trees are rejected. The old commit-keyed selector is removed, without a compatibility fallback. This does not implement compatibility across different source trees or certify unchanged owners without their required proof.
+
+The final bounded source/receiver/resumption/workflow suite passed 77 cases, zero skipped, recorded in `artifacts/source-tree-relay-tests-final.log`. The new cases cover incorrect producer/tree/repository/format, unavailable Git source, empty certificates, same-tree commit aliases and mismatched trees. No privileged callback or remote installation is inferred from these tests.

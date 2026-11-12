@@ -2,8 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { resumeSourceValidation } from '../scripts/resume-source-validation.mjs';
 
-for (const mode of ['matching', 'changed-head', 'changed-base', 'other-engine', 'other-failure', 'failed-preview', 'already-resumed',
-  'fork', 'untrusted-import', 'expired-certificate', 'wrong-attempt', 'wrong-producer',
+for (const mode of ['matching', 'equivalent-engine-commit', 'changed-head', 'changed-base', 'other-engine-tree', 'other-failure', 'failed-preview', 'already-resumed',
+  'fork', 'untrusted-import', 'expired-certificate', 'empty-certificate', 'wrong-attempt', 'wrong-producer',
   'expired-run', 'missing-run-date', 'expired-preview', 'missing-preview', 'other-preview-producer', 'previous-preview-attempt']) {
   test(`source-only resumption: ${mode}`, async () => {
     const original = globalThis.fetch;
@@ -11,13 +11,13 @@ for (const mode of ['matching', 'changed-head', 'changed-base', 'other-engine', 
     const engine = 'a'.repeat(40), commit = 'b'.repeat(40), base = 'c'.repeat(40), receiver = 'd'.repeat(40);
     const producer = { id: 11, repository: repo, head_repository: repo, head_sha: receiver, run_attempt: 2,
       path: '.github/workflows/source-evidence.yml', event: 'workflow_dispatch', status: 'completed', conclusion: 'success', head_branch: 'main' };
-    const artifact = { id: 31, name: `source-evidence-${engine}-attempt-2`, expired: false, digest: 'sha256:' + 'e'.repeat(64),
+    const artifact = { id: 31, name: `source-evidence-tree-${engine}-attempt-2`, expired: false, size_in_bytes: 100, digest: 'sha256:' + 'e'.repeat(64),
       workflow_run: { id: 11, head_sha: receiver } };
     const run = { id: 22, repository: repo, head_repository: repo, head_sha: commit, run_attempt: 1, created_at: new Date().toISOString(),
       path: '.github/workflows/documentation.yml', event: 'pull_request', status: 'completed', conclusion: 'failure', head_branch: 'feature',
       pull_requests: [{ number: 7, head: { sha: commit }, base: { sha: base } }] };
     const pull = { state: 'open', head: { sha: commit }, base: { sha: base } };
-    const binding = { repository: 'https://github.com/Wolfiora/InnoEngine', revision: engine };
+    const binding = { repository: 'https://github.com/Wolfiora/InnoEngine', revision: engine, sourceTree: engine };
     const preview = { name: 'documentation-preview-attempt-1', expired: false, size_in_bytes: 10,
       digest: 'sha256:' + 'e'.repeat(64), workflow_run: { id: 22, head_sha: commit } };
     const jobs = [{ id: 41, run_attempt: 1, name: 'Documentation projection', status: 'completed', conclusion: 'success' },
@@ -25,13 +25,15 @@ for (const mode of ['matching', 'changed-head', 'changed-base', 'other-engine', 
         steps: [{ name: 'Select authenticated evidence already imported into this repository', conclusion: 'failure' }] }];
     if (mode === 'changed-head') pull.head.sha = 'f'.repeat(40);
     if (mode === 'changed-base') pull.base.sha = 'f'.repeat(40);
-    if (mode === 'other-engine') binding.revision = 'f'.repeat(40);
+    if (mode === 'other-engine-tree') binding.sourceTree = 'f'.repeat(40);
+    if (mode === 'equivalent-engine-commit') binding.revision = 'f'.repeat(40);
     if (mode === 'other-failure') jobs[1].steps[0].name = 'Require complete content and source evidence for the same static output';
     if (mode === 'failed-preview') jobs[0].conclusion = 'failure';
     if (mode === 'fork') run.head_repository = { full_name: 'Other/InnoEngine.Docs' };
     if (mode === 'untrusted-import') producer.path = '.github/workflows/arbitrary.yml';
     if (mode === 'expired-certificate') artifact.expired = true;
-    if (mode === 'wrong-attempt') artifact.name = `source-evidence-${engine}-attempt-1`;
+    if (mode === 'empty-certificate') artifact.size_in_bytes = 0;
+    if (mode === 'wrong-attempt') artifact.name = `source-evidence-tree-${engine}-attempt-1`;
     if (mode === 'wrong-producer') artifact.workflow_run.id = 99;
     if (mode === 'expired-run') run.created_at = new Date(Date.now() - 31 * 24 * 60 * 60 * 1000).toISOString();
     if (mode === 'missing-run-date') delete run.created_at;
@@ -63,13 +65,14 @@ for (const mode of ['matching', 'changed-head', 'changed-base', 'other-engine', 
     };
     try {
       const result = resumeSourceValidation({ importRun: '11', token: 'scoped-resume' });
-      if (['untrusted-import', 'expired-certificate', 'wrong-attempt', 'wrong-producer'].includes(mode)) await assert.rejects(result);
+      if (['untrusted-import', 'expired-certificate', 'empty-certificate', 'wrong-attempt', 'wrong-producer'].includes(mode)) await assert.rejects(result);
       else {
         const report = await result;
-        assert.equal(report.resumed.length, mode === 'matching' ? 1 : 0);
-        if (mode === 'matching') assert.match(report.resumed[0].reason, /New authenticated source evidence.*preserve the successful projection/);
+        const valid = ['matching', 'equivalent-engine-commit'].includes(mode);
+        assert.equal(report.resumed.length, valid ? 1 : 0);
+        if (valid) assert.match(report.resumed[0].reason, /New authenticated source evidence.*preserve the successful projection/);
       }
-      assert.equal(writes.length, mode === 'matching' ? 1 : 0);
+      assert.equal(writes.length, ['matching', 'equivalent-engine-commit'].includes(mode) ? 1 : 0);
     } finally { globalThis.fetch = original; }
   });
 }
