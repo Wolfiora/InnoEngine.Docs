@@ -27,6 +27,8 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs valida
 
 The command reads project identities from the selected manifests and checks them against the actual source inventory. It does not infer ownership from page titles or build a second project list. An explicitly captured empty public surface is valid; an empty required project selection is not.
 
+For an entry whose complete SDK-selected C# source set contains no public type declarations, extraction can establish an empty authored surface without loading unrelated compiled dependencies. It still parses the selected language version, conditional symbols and generated `Compile` inputs; missing files or invalid syntax fail. Adding a public type restores the normal resolved-reference requirement. This narrower fact does not certify generators, a foreign-platform build or product execution.
+
 ## Compare a prepared snapshot
 
 For coordinated validation, first [prepare an explicit documentation snapshot](documentation-queries.md). Supply its cache and exact identity, then use reference paths reported by its canonical catalog. The comparison reads the protected payloads even if the authoring checkout changes or is unavailable.
@@ -58,6 +60,6 @@ Mixed target/configuration batches, duplicate owners or symbols, escaping/noncan
 
 The report identifies `SelectedSourceReferenceComparison`, selected manifests and their content identities, each project's reference identity, symbol count and differences. Prepared input adds the exact documentation snapshot and its bound source tree. It remains `Unverified` for overall source API certification: matching these facts does not validate executable examples, script projections, behavioral prose, other targets or the trustworthiness of a publication source.
 
-The command requests source evaluation and extraction, not product builds, Native preparation, network fetching or example execution. A missing compile reference remains a prerequisite failure. Prepare it through its owning build; do not copy a differently configured DLL into place.
+The command requests source evaluation and extraction, not product builds, Native preparation, network fetching or example execution. Reference resolution uses a design-time execution context, so inspecting already prepared metadata cannot start Task-host or product preparation. A missing reference needed for a nonempty public surface remains a prerequisite failure. Prepare it through its owning build; do not copy a differently configured DLL into place.
 
 Publication additionally requires the exact engine/Docs input identities, trusted workflow evidence, complete required contexts, [example validation](example-validation.md), content checks and the verified website artifact. A manually changed status label cannot supply that evidence.

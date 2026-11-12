@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "b6ce4456f5ac59715c4d76e3ba877ce5ed996e45",
-  "sourceTree": "7ba000abc629b6bbe431e1abca2015ade2c2273a",
+  "revision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+  "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "df065051543efef82b119df4b49fcd86e3b22faf5760cb646e20d50e40b3a20a",
-  "toolingRevision": "b6ce4456f5ac59715c4d76e3ba877ce5ed996e45",
+  "projectManifestIdentity": "cd452aacc3687c0a07d00c33ca50ccd300621ec8aea4391f96929ce77aa742b6",
+  "toolingRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",
@@ -365,6 +365,24 @@
       "target": null,
       "sourceRevision": "b6ce4456f5ac59715c4d76e3ba877ce5ed996e45",
       "sourceTree": "7ba000abc629b6bbe431e1abca2015ade2c2273a"
+    },
+    {
+      "path": "reference/api/platform-player-browser.json",
+      "sha256": "0a9ec1d86966469f7eec543d5eed073d8d438455d4796f39e24b10dd8524118a",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": "browser-wasm",
+      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
+    },
+    {
+      "path": "reference/api/platform-player-macos.json",
+      "sha256": "710695f36017abdd7928cd98690e29b281fbe0624e879ce2a20f529801688822",
+      "model": "source-clr",
+      "configuration": "Debug",
+      "target": "macos-arm64",
+      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
     }
   ]
 }

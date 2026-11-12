@@ -21,4 +21,4 @@ Content is deployed beneath .app/Contents/Resources/Content. Platform code choos
 
 ## Source and verification
 
-[Source project](https://github.com/Wolfiora/InnoEngine/blob/c63dae76b618578863de6022b38211a835a8d876/platforms/MacOSArm64/player/Inno.Player.MacOSArm64/Inno.Player.MacOSArm64.csproj). Target-configured source extraction is currently blocked by missing managed compile references. Source review is not a substitute for a complete evaluated surface; cross-platform build/runtime acceptance remains pending.
+[Source project](https://github.com/Wolfiora/InnoEngine/blob/7e12d767c39771d8746f3e23ba6190bd2c82eb72/platforms/MacOSArm64/player/Inno.Player.MacOSArm64/Inno.Player.MacOSArm64.csproj). Target-configured extraction of the actual SDK-selected source records no public or protected authored API. This composition is consumed through the shared Player contracts rather than an extension surface of its own. That source fact does not certify a cross-platform build or runtime execution; matching product acceptance remains a separate requirement.

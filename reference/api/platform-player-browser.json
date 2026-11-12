@@ -1,0 +1,13 @@
+{
+  "model": "source-clr",
+  "configuration": "Debug",
+  "target": "browser-wasm",
+  "sourceApiStatus": "Unverified",
+  "projects": [
+    {
+      "project": "platforms/BrowserWasm32/player/Inno.Player.BrowserWasm32/Inno.Player.BrowserWasm32.csproj",
+      "name": "Inno.Player.BrowserWasm32",
+      "symbols": []
+    }
+  ]
+}

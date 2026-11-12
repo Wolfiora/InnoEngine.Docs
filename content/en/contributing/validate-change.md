@@ -99,6 +99,8 @@ The runner announces a check before executing it. Logged child processes report 
 
 This interval is a reporting cadence, not a build deadline. Parent CPU does not include compiler or other child CPU, and quiet output alone does not establish a stall. Inspect the current phase and its log before diagnosing a wait. A legitimate large third-party compilation can take substantially longer than ordinary managed feedback.
 
+The xUnit executor reports named tests that remain active after 60 seconds, with normal console detail and crash-blame evidence. That threshold only emits diagnostics; it does not cancel tests. Test collection concurrency is bounded by the smaller of four and the available processor count. Suites with explicit serialization or process-isolation requirements retain them, and behavior-specific cancellation assertions remain in their tests.
+
 | Result | Meaning |
 | --- | --- |
 | `Passed` | The required check executed successfully for the recorded inputs. |

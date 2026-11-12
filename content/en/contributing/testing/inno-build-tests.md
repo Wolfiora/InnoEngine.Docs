@@ -10,6 +10,8 @@ owners:
 
 `Inno.Build.Tests` owns integration among actual product composition, the SDK, native producers and publication. Its declared Editor native prerequisite is real. Use [the validation plan](../validate-change.md) to prepare the selected target and deployment instead of relying on an accidental DLL in `bin/`.
 
+The suite references the export feature and its presentation dependencies, rather than the complete Editor host. Console-only presentation changes therefore do not select all build integration tests through an unused host reference. Actual build, export, Native and publication inputs still select this suite through its evaluated dependencies and declared dynamic inputs.
+
 ## Choose the right owner
 
 | Change | Relevant integration boundary |
