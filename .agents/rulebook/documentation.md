@@ -18,9 +18,9 @@ Teach tasks before requiring assembly knowledge. Keep one authoritative explanat
 
 ## Contracts and examples
 
-State relevant initialization, ownership, borrowing, transfer, threading, generation, cancellation, failure, rollback, and release conditions. Explain the difference between host and script-projected APIs. A normal await does not promise an owner-thread continuation.
+The inherited complete units below define exact ownership, lifetime, API and example obligations. Link those contracts from tasks where readers need them.
 
-Examples must identify their API surface and prerequisites. Executable C# uses a `csharp` fence and complete required context. Do not turn a failing executable example into plain text to evade verification. Never substitute host references to make an invalid script example compile.
+Use the canonical page example context to select the required host or script surface. Compilation evidence is separate from readable prose and semantic review.
 
 ## Reference quality
 
@@ -35,3 +35,97 @@ Use compact member summaries and readable detail sections. Long signatures scrol
 ## Links and migration
 
 Pages and sections have stable identities. Moves update navigation, incoming links, source links, API ownership, and includes. Reject missing targets, cycles, duplicate authorities, and escaping paths. Record the original source identity and disposition for every migrated page. Preserve raw historical evidence.
+
+## Inherited engine documentation requirements
+
+These complete units retain their original identities and source mappings in the engine rule registry. They are owned here; engine tasks load them from an explicit Docs checkout.
+
+<!-- rule-unit: wiki -->
+<a id="wiki"></a>
+## 11. Documentation maintenance
+- Product and API documentation belongs to InnoEngine.Docs under content/en/, entered through its task-oriented home page. The retired engine docs/ tree and its callers have been removed; do not recreate a parallel authority.
+- Organize documentation into About, Getting Started, Manual, Architecture, Extending, Platforms/Backends, API and Contributing. Every category has a useful landing page; assembly navigation is secondary.
+- Every actual csproj has one authoritative project entry, identified by source inventory and explicit owner metadata. Do not infer ownership from translated titles or filenames.
+- Engine project entries cover responsibility/boundaries, dependencies/initialization, all public APIs, important protected extension points for derived implementers, common workflows, compilable examples, errors/lifetimes/reload and related navigation. Backend-native and generated binding APIs are excluded under the approved 2026-11-11 scope; their concise integration overviews do not create raw-binding API/example obligations.
+- API declarations and examples follow current source. Do not describe internal implementation as a stable public contract. Explicitly identify internal mechanisms when explaining them.
+- Adding, deleting, renaming or changing public API behavior updates the corresponding project entry and category navigation in the same paired change. New projects receive their authoritative entry and coverage registration.
+- Use relative Markdown links between content pages. Project entries provide category and home/related-page navigation. Page moves repair every incoming link.
+- Active prose is English under the approved modernization plan. API names, code, source comments and public XML remain English. Use small, complete composition examples instead of copying large source blocks.
+- Distinguish currently supported behavior, internal details and future plans. Never present planned APIs as already implemented.
+- Before extending documentation, inspect actual public types/members and relevant csproj dependencies. Afterward, reconcile Markdown links, navigation and source signatures.
+<!-- /rule-unit: wiki -->
+
+<!-- rule-unit: documentation-standard-0 -->
+<a id="documentation-standard-0"></a>
+# Documentation maintenance and verification
+
+Use the [documentation repository](https://github.com/Wolfiora/InnoEngine.Docs), the [architecture overview](https://github.com/Wolfiora/InnoEngine.Docs/blob/main/content/en/architecture/overview.md) and the engine's documentation/architecture tooling as the content and verification entry points.
+<!-- /rule-unit: documentation-standard-0 -->
+
+<!-- rule-unit: documentation-standard-1 -->
+<a id="documentation-standard-1"></a>
+## One authoritative entry per project
+
+Every actual project has one authoritative project entry and appears in its category navigation. Test-project pages explain verification scope, fixtures, prerequisites and execution rather than presenting test methods as product APIs. Current usage documentation belongs in InnoEngine.Docs; dated plans, execution records and historical acceptance remain in the owning repository's .agents/records/.
+
+Explain responsibility, a quick workflow, initialization and shutdown before API detail, extension, failures and verification. Ownership descriptions identify creation, borrowing/transfer, threads and lifetime termination. Explicitly identify internal implementation details.
+<!-- /rule-unit: documentation-standard-1 -->
+
+<!-- rule-unit: documentation-standard-2 -->
+<a id="documentation-standard-2"></a>
+## API reference and source
+
+Map engine public types, constructors, members, enum values and protected members usable by external derived types individually. Signatures preserve overloads, nullability, defaults and generic constraints; types also preserve inheritance, interfaces and delegate signatures. Synthesized public record members are in scope. Under the user-approved 2026-11-11 scope amendment, backend-native and generated binding APIs are excluded; managed engine adapters and script-projected engine APIs remain in scope.
+
+Each member describes declaration, behavior/results, usage constraints and failure information. Source links locate implementation but do not replace usage documentation. Resolve inheritdoc to the actual inherited contract, retaining local additions. Explain generated constants/members according to their real semantics without modifying generated source to add documentation.
+
+The api comment marker associates a symbol with its signature for verification; it does not prove behavioral quality. Automatically refreshed reference data still requires ownership, threading and context review. An entry with no additional stated constraints does not imply thread safety or infallibility.
+<!-- /rule-unit: documentation-standard-2 -->
+
+<!-- rule-unit: documentation-standard-3 -->
+<a id="documentation-standard-3"></a>
+## Examples
+
+- Executable C# examples use csharp fences and include required using directives, parameters and host prerequisites.
+- Borrow Sessions, asset pipelines and build contexts through parameters rather than assuming undeclared globals.
+- Script examples use logical namespaces and are checked against current trimmed script references. Do not make invalid examples pass by switching to implementation namespaces.
+- Asynchronous examples explain owner-thread resumption and resource release. Ordinary await does not promise resumption on a specified thread.
+- Explicitly identify declaration-only or procedural text. Do not convert failing executable examples into ordinary prose to bypass verification.
+<!-- /rule-unit: documentation-standard-3 -->
+
+<!-- rule-unit: documentation-standard-4 -->
+<a id="documentation-standard-4"></a>
+## Content boundaries
+
+Explain capabilities through the engine's own public contracts, without depending on external plugin products, consumer-repository paths or their specific business models. The engine's Plugin mechanism, .iplugin, Source Mounts, Stable IDs and generations are current engine documentation topics. Browser Canvas and general canvas concepts may also be described normally.
+
+Concrete third-party implementation names belong in their backend, Native, integration or toolchain pages. Neutral service pages explain capabilities and contracts. Deleted APIs, project paths and commands must not remain documented as usable.
+<!-- /rule-unit: documentation-standard-4 -->
+
+<!-- rule-unit: documentation-standard-5 -->
+<a id="documentation-standard-5"></a>
+## Native implementation boundaries
+
+Each backend-native project retains only a concise engine integration overview with the initialization, ownership, callback, thread and shutdown constraints needed by engine consumers. Do not extract, generate or translate third-party ABI or raw binding type/member references or tutorials. The existing project inventory records this scope, without a second project list. Engine API includes still resolve within the selected snapshot; cycles and path escapes fail, and moves repair incoming anchors. Native correctness, implementation tests, deployment validation and legal provenance remain required. This replaces the former full ABI documentation obligation under the user-approved 2026-11-11 amendment.
+<!-- /rule-unit: documentation-standard-5 -->
+
+<!-- rule-unit: documentation-standard-6 -->
+<a id="documentation-standard-6"></a>
+## Canonical source and example verification
+
+Build validate plan/run consumes an explicitly prepared external documentation snapshot. Canonical source comparison and executable-example checks share actual SDK graph inputs. Build docs index prepares content; docs search/read/symbol only read the selected immutable generation. Retired Wiki switches are not supported.
+
+Logical script examples explicitly select runtime-script or editor-script contexts and the current ScriptCompiler-generated references through the unified validation plan. Validators freeze and hash each reference's bytes. Host implementation assemblies must not supply types absent from the script surface. Record generation provenance and current product state together.
+
+Documentation verification covers project entries, signature mappings, relative links, content boundaries and C# examples across all pages. Project examples use their owner's compilation references; architecture guides and category pages default to .NET contracts only. Logical script examples use explicit trimmed references. Complete examples requiring concrete engine composition live with their owning project, and guides link to them without duplicate maintenance.
+
+Complete Host-example acceptance uses the explicitly selected SDK, compiles against actual ReferencePath and the current owning assembly, and records successful compiler evidence. SDK-free host checks are preliminary diagnostics only. Assemblies elsewhere in the repository do not establish an example's allowed references.
+
+With an SDK selected, API models enumerate actual Compile items and conditional symbols. Selected engine generated types, nested types and partial members enter the same inventory; obj or Generated placement alone is not an exclusion. Backend-native and generated binding APIs are outside product documentation scope, and other targets' unselected generated files are outside the current contract. Documentation scope does not disable extraction capabilities needed by architecture or ABI tests. Extraction does not execute Roslyn source generators, replace post-generation assembly boundary checks or verify every product configuration.
+
+Native project overviews distinguish engine integration from generated ABI surfaces without reproducing their members. Review the actual facade and consumers to explain engine-facing borrowing, release and thread restrictions rather than assuming managed-object lifetimes. Do not count excluded native members as missing engine documentation or completed semantic review. Complete engine signature markers still do not establish complete semantics.
+
+Analyzers understand the project's actual C# language version. Unknown LangVersion values fail rather than guessing Preview. Prepare the selected project when target/configuration/reference output is missing. Do not substitute another configuration or DLLs that happen to exist elsewhere in the repository.
+
+Per-page semantic review remains separate work. Read [engine acceptance](https://github.com/Wolfiora/InnoEngine/blob/ai-pipeline/.agents/records/acceptance/current.md) and do not mistake page existence or complete markers for full documentation acceptance.
+<!-- /rule-unit: documentation-standard-6 -->

@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Single documentation rule authority](RULE_AUTHORITY_2026_11_12.md): explicit cross-repository loading, preserved original identities and removal of retired command guidance.
+
 - [Protected evidence relay](EVIDENCE_RELAY_2026_11_12.md): credential isolation, static preview reuse and source-only resumption.
 
 - [Read-only reference inspection](READONLY_REFERENCES_2026_11_12.md): actual empty Player surfaces, source-selection regression and remaining certification requirements.

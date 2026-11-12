@@ -1,10 +1,10 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
-  "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72",
+  "revision": "be9e340d6ff6be6da80fe724e284a0adf10d8326",
+  "sourceTree": "fa3bd878777555e378910ae95a362daceada5df5",
   "projectManifest": "reference/projects/catalog.json",
   "projectManifestIdentity": "cd452aacc3687c0a07d00c33ca50ccd300621ec8aea4391f96929ce77aa742b6",
-  "toolingRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+  "toolingRevision": "be9e340d6ff6be6da80fe724e284a0adf10d8326",
   "apiManifests": [
     {
       "path": "reference/api/core-identity.json",

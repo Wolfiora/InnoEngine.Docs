@@ -5,7 +5,7 @@ This repository owns the English documentation and website for InnoEngine. The e
 ## Start a task
 
 1. Confirm the branch, existing changes, requested behavior, and documentation owner. Preserve other sessions' changes.
-2. Read [documentation](.agents/rulebook/documentation.md) for content changes, [presentation](.agents/rulebook/presentation.md) for site changes, and [delivery](.agents/rulebook/delivery.md) before delivery.
+2. Read [documentation](.agents/rulebook/documentation.md) for content changes, [presentation](.agents/rulebook/presentation.md) for site changes, and [delivery](.agents/rulebook/delivery.md) before delivery. Inherited complete units retain their original identities in the engine registry; load them with its `Test-AgentRules.ps1 -DocsRoot <this-checkout> -Rules wiki -ShowInstructions`. This repository is their sole text authority.
 3. Use the pinned engine source and manifests. Do not infer public behavior from a name, an internal implementation, or an adjacent consumer repository.
 4. Identify the finite checks required by the change. Reuse matching evidence; commits, pushes, and report edits do not independently justify rerunning checks.
 

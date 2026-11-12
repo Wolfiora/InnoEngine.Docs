@@ -52,6 +52,9 @@ jobs:
         uses: ./artifacts/engine-source/.github/actions/setup-dotnet
         with:
           global-json-file: artifacts/engine-source/global.json
+      - name: Verify the single documentation rule authority and inherited provenance
+        shell: pwsh
+        run: ./scripts/check-rule-authority.ps1 -EngineRoot artifacts/engine-source
       - run: npm ci
       - run: npm test
       - name: Verify bounded artifact import and rejection
