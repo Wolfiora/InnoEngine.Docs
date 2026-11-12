@@ -45,6 +45,8 @@ Structure and contract checks have distinct responsibilities. Fixtures reject mi
 
 Examples on architecture and category pages participate in compilation as well as project examples. Script examples use separate Runtime and Editor reference fixtures and reject wrong roles, missing references or exposed host implementations. This does not replace compiling examples against actual engine-generated script references.
 
+The same real compiler reports also pass through CI receipt reconciliation. Each logical script assembly retains its own content hash: Runtime examples require the Runtime surface, and Editor examples require both surfaces. Missing or borrowed surfaces cannot be hidden behind a combined identity or a set of framework references.
+
 Documentation command, reference and example tests verify the public adapter and compilation boundaries. Snapshot parsing, concurrent reading and content freshness now belong to [the independent documentation test owner](inno-tooling-documentation-tests.md); they are not duplicated here.
 
 ## Run and maintain
