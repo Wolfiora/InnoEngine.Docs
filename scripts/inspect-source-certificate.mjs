@@ -7,7 +7,7 @@ export async function inspectSourceCertificate({ certificate, selection, token, 
   const source = selection.engine;
   if (!token || !/^[a-f0-9]{40}$/.test(source?.commit) || !Number.isSafeInteger(source.run) || source.run <= 0
     || !Number.isSafeInteger(source.attempt) || source.attempt <= 0
-    || certificate.format !== 'inno-documentation-source/1' || certificate.repository !== 'https://github.com/Wolfiora/InnoEngine'
+    || certificate.format !== 'inno-documentation-source/2' || certificate.repository !== 'https://github.com/Wolfiora/InnoEngine'
     || !/^[a-f0-9]{40}$/.test(certificate.sourceTree) || !/^[a-f0-9]{40}$/.test(certificate.sourceCommit)) throw new Error('Imported source identity is incomplete or unsupported.');
   const origin = `https://github.com/Wolfiora/InnoEngine/actions/runs/${source.run}/attempts/${source.attempt}`;
   if (!Array.isArray(certificate.producers) || !certificate.producers.some(producer => producer.origin === origin
@@ -38,7 +38,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   const documents = [];
   for (const file of [certificateFile, selectionFile]) {
     const info = await lstat(file);
-    if (!info.isFile() || info.isSymbolicLink() || info.size <= 0 || info.size > 8 * 1024 * 1024) throw new Error('Source evidence must be a bounded ordinary JSON file.');
+    if (!info.isFile() || info.isSymbolicLink() || info.size <= 0 || info.size > 16 * 1024 * 1024) throw new Error('Source evidence must be a bounded ordinary JSON file.');
     documents.push(JSON.parse(await readFile(file, 'utf8')));
   }
   const identity = await inspectSourceCertificate({ certificate: documents[0], selection: documents[1], token: process.env.GH_TOKEN });

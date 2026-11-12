@@ -8,9 +8,11 @@ function fixture() {
     codeBlocks: [{ language: 'csharp', contentIdentity: 'b'.repeat(64), declarationSymbols: [] },
       { language: 'csharp', contentIdentity: 'c'.repeat(64), declarationSymbols: ['T:Owner'] }] };
   const catalog = { repository: 'https://github.com/Wolfiora/InnoEngine', sourceTree: 'd'.repeat(40), pages: [page] };
-  const certificate = { format: 'inno-documentation-source/1', repository: catalog.repository, sourceTree: catalog.sourceTree,
+  const certificate = { format: 'inno-documentation-source/2', repository: catalog.repository, sourceTree: catalog.sourceTree,
+    sourceFiles: [{ path: 'src/Owner.cs', identity: 'a'.repeat(64) }], sourceSets: [[0]], inputs: [{ sourceSet: 0 }], scriptReferences: [],
+    inputGroups: [{ platform: 'host', configuration: 'Debug', target: null, reportIdentity: 'e'.repeat(64), inputs: [{ sourceSet: 0 }] }],
     examples: [{ page: page.id, mode: 'host', projects: ['Owner', 'Dependency'], blocks: ['b'.repeat(64)],
-      contexts: [{ platform: 'host', configuration: 'Debug', target: null, reportIdentity: 'e'.repeat(64) }] }] };
+      contexts: [{ platform: 'host', configuration: 'Debug', target: null, reportIdentity: 'e'.repeat(64), inputGroup: 0 }] }] };
   return { catalog, certificate };
 }
 
@@ -32,6 +34,15 @@ test('prose, page locations and reference declarations do not force unchanged ex
 
 for (const [name, change] of [
   ['changed executable code', f => { f.catalog.pages[0].codeBlocks[0].contentIdentity = 'f'.repeat(64); }],
+  ['missing group', f => { f.certificate.examples[0].contexts[0].inputGroup = 1; }],
+  ['negative group', f => { f.certificate.examples[0].contexts[0].inputGroup = -1; }],
+  ['different group report', f => { f.certificate.inputGroups[0].reportIdentity = 'f'.repeat(64); }],
+  ['different group platform', f => { f.certificate.inputGroups[0].platform = 'foreign'; }],
+  ['missing source set', f => { f.certificate.inputGroups[0].inputs[0].sourceSet = 9; }],
+  ['missing source file', f => { f.certificate.sourceSets[0] = [9]; }],
+  ['duplicate source file', f => { f.certificate.sourceSets[0] = [0, 0]; }],
+  ['escaping source path', f => { f.certificate.sourceFiles[0].path = '../secret'; }],
+  ['corrupt source identity', f => { f.certificate.sourceFiles[0].identity = 'unknown'; }],
   ['new executable block', f => { f.catalog.pages[0].codeBlocks.push({ language: 'cs', contentIdentity: 'f'.repeat(64), declarationSymbols: [] }); }],
   ['different API surface', f => { f.catalog.pages[0].examples.mode = 'runtime-script'; }],
   ['different reference owner', f => { f.catalog.pages[0].examples.projects[0] = 'Other'; }],

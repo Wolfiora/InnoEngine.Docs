@@ -1,25 +1,32 @@
 import { createHash } from 'node:crypto';
+import { sourceInputEvidence } from './source-input-evidence.mjs';
 
 /** Compare canonical executable inputs with the independently authenticated compiler receipt. */
 export function checkExampleEvidence(catalog, bytes) {
   const errors = [];
   const required = catalog.pages.filter(page => page.codeBlocks?.some(block => ['cs', 'csharp'].includes(block.language)
     && (block.declarationSymbols?.length ?? 0) === 0));
-  if (!Buffer.isBuffer(bytes) || bytes.length === 0 || bytes.length > 4 * 1024 * 1024
+  if (!Buffer.isBuffer(bytes) || bytes.length === 0 || bytes.length > 16 * 1024 * 1024
     || createHash('sha256').update(bytes).digest('hex') !== catalog.sourceEvidenceIdentity) {
     return { status: 'Blocked', required: required.length, covered: 0, errors: ['Executable examples require the exact authenticated source certificate bytes.'] };
   }
   let certificate;
   try { certificate = JSON.parse(bytes.toString('utf8')); }
   catch { return { status: 'Failed', required: required.length, covered: 0, errors: ['Executable example certificate is malformed.'] }; }
-  if (certificate.format !== 'inno-documentation-source/1' || certificate.repository !== catalog.repository
+  if (certificate.format !== 'inno-documentation-source/2' || certificate.repository !== catalog.repository
     || certificate.sourceTree !== catalog.sourceTree || !Array.isArray(certificate.examples)) {
     return { status: 'Blocked', required: required.length, covered: 0, errors: ['The source certificate lacks matching executable example coverage.'] };
   }
   const proofs = new Map();
+  let resolve;
+  try { resolve = sourceInputEvidence(certificate); }
+  catch (failure) { return { status: 'Blocked', required: required.length, covered: 0, errors: [failure.message] }; }
   for (const proof of certificate.examples) {
     if (typeof proof?.page !== 'string' || proofs.has(proof.page)) { errors.push('Example certification has missing or duplicated page identities.'); continue; }
     proofs.set(proof.page, proof);
+    for (const context of Array.isArray(proof.contexts) ? proof.contexts : []) {
+      try { resolve(context); } catch (failure) { errors.push(`${proof.page}: ${failure.message}`); }
+    }
   }
   let covered = 0;
   for (const page of required) {

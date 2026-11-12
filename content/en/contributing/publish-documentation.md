@@ -23,6 +23,10 @@ The receiver checks the certificate's producer against the authenticated run and
 
 The same certificate records the executable examples that actually compiled: stable page identity, ordered code-block identities, host/script surface, reference owners and successful compiler report contexts. Pure prose edits and moved source lines can reuse these inputs. Changed example code, surface or references require fresh compilation evidence. API declaration fences are checked as reference declarations, not mistaken for executable tutorials.
 
+Input evidence uses certificate-local shared tables. Each file retains its exact repository path and content identity; each source set retains its complete membership. An execution input group binds those sets to its platform, configuration, target and compiler report. Example pages and script projections reference that group instead of embedding the entire build closure for every page. The authenticated certificate digest covers all tables and references. Missing references, path escapes and references to a different execution context are rejected.
+
+The normalized `inno-documentation-source/2` format has a 16 MiB import boundary. This bounds metadata parsing; it is not a build timeout or permission to omit inputs. A producer that exceeds the boundary fails visibly. Retired certificate formats are not silently converted into current evidence. Queries attach the verified immutable certificate once per snapshot session and do not expand or reread build inputs for each search.
+
 ## Reuse a successful preview when evidence arrives
 
 Documentation CI builds and tests the website in **Documentation projection**. **Certify documentation source** then selects an authenticated certificate using its own repository's read-only token, imports the exact preview artifact with digest and path checks, attaches evidence through the canonical model, and checks full coverage against the same static files. It does not rebuild the site or repeat browser tests.

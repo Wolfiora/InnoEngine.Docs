@@ -5,7 +5,7 @@ import { inspectSourceCertificate } from '../scripts/inspect-source-certificate.
 for (const mode of ['', 'wrong-tree', 'wrong-commit', 'wrong-producer', 'missing-receipt', 'wrong-repository', 'wrong-format', 'unavailable-source', 'missing-tested-commit']) {
   test(`imported source tree: ${mode || 'authenticated exact input'}`, async () => {
     const revision = 'a'.repeat(40), tree = 'b'.repeat(40);
-    const certificate = { format: 'inno-documentation-source/1', repository: 'https://github.com/Wolfiora/InnoEngine', sourceTree: tree, sourceCommit: revision,
+    const certificate = { format: 'inno-documentation-source/2', repository: 'https://github.com/Wolfiora/InnoEngine', sourceTree: tree, sourceCommit: revision,
       producers: [{ origin: 'https://github.com/Wolfiora/InnoEngine/actions/runs/11/attempts/2', receiptIdentity: 'c'.repeat(64) }] };
     const selection = { engine: { commit: revision, run: 11, attempt: 2 } };
     const commit = { sha: revision, tree: { sha: tree } };
@@ -31,7 +31,7 @@ for (const mode of ['', 'wrong-tree', 'wrong-commit', 'wrong-producer', 'missing
 for (const mode of ['', 'wrong-head-parent', 'wrong-base-parent', 'extra-parent', 'missing-run-pr', 'wrong-event', 'another-pr', 'changed-run-head']) {
   test(`imported PR merge: ${mode || 'authenticate tested tree independently of run head'}`, async () => {
     const head = 'a'.repeat(40), base = 'b'.repeat(40), merge = 'c'.repeat(40), tree = 'd'.repeat(40);
-    const certificate = { format: 'inno-documentation-source/1', repository: 'https://github.com/Wolfiora/InnoEngine',
+    const certificate = { format: 'inno-documentation-source/2', repository: 'https://github.com/Wolfiora/InnoEngine',
       sourceCommit: merge, sourceTree: tree,
       producers: [{ origin: 'https://github.com/Wolfiora/InnoEngine/actions/runs/11/attempts/2', receiptIdentity: 'e'.repeat(64) }] };
     const selection = { engine: { commit: head, run: 11, attempt: 2,

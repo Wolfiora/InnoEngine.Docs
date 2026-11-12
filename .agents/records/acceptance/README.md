@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Normalized source inputs](SOURCE_CERTIFICATE_INPUTS_2026_11_13.md): bounded shared evidence, exact-context rejection and actual full-report consumer validation.
+
 - [Actual Runtime and Editor script surfaces](SCRIPT_SURFACES_2026_11_13.md): complete logical declaration coverage, caller contracts, query observations and website acceptance.
 
 - [Script example receipt integration](SCRIPT_RECEIPTS_2026_11_12.md): actual compiler reports, separate Runtime/Editor identities and the corrected engine candidate.
