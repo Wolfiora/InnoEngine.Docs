@@ -31,7 +31,7 @@ test('source certification reuses a specific preview and remains a required inde
 });
 
 test('privileged receiver and resumer never execute candidate code or install candidate dependencies', async () => {
-  for (const name of ['source-evidence', 'resume-documentation']) {
+  for (const name of ['source-evidence', 'resume-documentation', 'notify-engine-pairing']) {
     const value = await workflow(name);
     const text = JSON.stringify(value.jobs);
     assert.doesNotMatch(text, /npm ci|npm install|prepare-catalog|engine-source|head\.sha|head_sha|actions\/cache/);
@@ -44,4 +44,25 @@ test('privileged receiver and resumer never execute candidate code or install ca
       }
     }
   }
+});
+
+test('candidate publication uses the exact head only after verifying its checked merge tree', async () => {
+  const { jobs, env } = await workflow('documentation');
+  assert.equal(env.DOCUMENTATION_COMMIT, '${{ github.event.pull_request.head.sha || github.sha }}');
+  for (const name of ['projection', 'source']) assert.match(JSON.stringify(jobs[name].steps), /confirm-candidate\.ps1/);
+  const source = await readFile(new URL('../scripts/publication-artifact.mjs', import.meta.url), 'utf8');
+  assert.match(source, /commit: process\.env\.DOCUMENTATION_COMMIT/);
+  assert.doesNotMatch(source, /commit: process\.env\.GITHUB_SHA/);
+});
+
+test('engine pairing uses protected code and writes a separate candidate check without engine builds', async () => {
+  // The engine workflow is validated in its own repository. This callback grants only
+  // fixed workflow dispatch, and it cannot itself write a successful engine check.
+  const value = await workflow('notify-engine-pairing');
+  assert.deepEqual(value.permissions, { contents: 'read', actions: 'read' });
+  const token = value.jobs.notify.steps.find(step => step.id === 'dispatch');
+  assert.equal(token.with.repositories, 'InnoEngine');
+  assert.equal(token.with['permission-actions'], 'write');
+  assert.equal(token.with['permission-checks'], undefined);
+  assert.doesNotMatch(JSON.stringify(value.jobs), /npm ci|dotnet|engine-source|run:.*git checkout/);
 });

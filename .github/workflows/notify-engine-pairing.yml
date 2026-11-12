@@ -1,0 +1,56 @@
+name: Notify engine pairing
+
+on:
+  workflow_run:
+    workflows: [Documentation]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      documentation_run:
+        description: Successful exact Documentation run with a verified site artifact
+        type: string
+        required: true
+      bootstrap:
+        description: Notify the approved migration branch before protected-default activation
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  notify:
+    name: Request independent engine pairing reconciliation
+    if: github.repository == 'Wolfiora/InnoEngine.Docs' && ((github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') || (github.event_name == 'workflow_dispatch' && (github.ref == 'refs/heads/main' || (inputs.bootstrap && github.ref == 'refs/heads/docs-modernization'))))
+    runs-on: windows-2025
+    steps:
+      # This is protected workflow code. Never check out or execute the completed candidate.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+      - name: Require scoped engine dispatch access
+        shell: pwsh
+        env:
+          APP_ID: ${{ vars.INNO_DOCS_APP_ID }}
+          APP_KEY: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+        run: |
+          if (-not $env:APP_ID -or -not $env:APP_KEY) { throw 'Blocked: provision the restricted cross-repository installation.' }
+      - id: dispatch
+        uses: actions/create-github-app-token@fee1f7d63c2ff003460e3d139729b119787bc349 # v2
+        with:
+          app-id: ${{ vars.INNO_DOCS_APP_ID }}
+          private-key: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+          owner: Wolfiora
+          repositories: InnoEngine
+          permission-actions: write
+      - name: Authenticate completion before requesting an independent pairing check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INNO_ENGINE_DISPATCH_TOKEN: ${{ steps.dispatch.outputs.token }}
+          DOCUMENTATION_RUN: ${{ github.event.workflow_run.id || inputs.documentation_run }}
+          BOOTSTRAP: ${{ inputs.bootstrap }}
+        run: node scripts/notify-engine-pairing.mjs

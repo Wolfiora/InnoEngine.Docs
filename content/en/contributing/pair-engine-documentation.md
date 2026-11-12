@@ -50,7 +50,13 @@ Both platform jobs receive the same Docs commit. Hosted preparation checks the c
 
 The retained candidate and pairing records identify the source commits, engine tree, Docs snapshot and content identity. `Unverified` source API status remains unverified even when those identities correspond correctly.
 
-Use the required engine and documentation checks to establish compatibility. Preparing or merging a Docs candidate does not automatically promote it as the current website. Publication must consume the verified artifact for a matching engine input; formal engine releases remain a separate user-controlled action.
+Use `Engine validation`, `Documentation validation`, and the independently required **Documentation pairing** check to establish compatibility. The engine build aggregate does not wait for documentation publication: source evidence can flow to Docs without a circular dependency. The pairing check separately requires the latest exact Docs validation, its retained verified site artifact, the matching engine tree, and the prepared Docs revision already present in the protected Docs default branch.
+
+Merge the reviewed Docs PR first. Its successful completion notifies the protected engine reconciler; engine completion, PR metadata edits and default-branch updates also refresh current pairing. The reconciler reads metadata only, never candidate code, and attaches its check to the actual engine test-merge commit. It checks the PR head, base, merge commit and metadata again before recording success. Missing installation access or incomplete evidence records a blocked check; it does not rerun engine builds.
+
+For a Docs PR, the tested merge tree must equal the paired head tree. Synchronize its base when they differ. This prevents a temporary merge commit from claiming to certify different content under the head identity. A successful Docs PR does not automatically promote the website. Publication must consume the verified artifact for a matching engine input; formal engine releases remain a separate user-controlled action.
+
+Repository administrators must require `Documentation pairing` from GitHub Actions alongside `Engine validation`, retaining strict base freshness and existing review/discussion requirements. The protected reconciler and completion callback must first be activated on their default branches with the restricted App installation. A workflow definition or local protocol test alone does not prove this rule is enforced.
 
 ## Resolve a blocked selection
 

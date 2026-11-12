@@ -37,6 +37,8 @@ An organization-installed GitHub App must be restricted to **InnoEngine** and **
 | --- | --- |
 | Engine relay | Docs repository, Actions write for the fixed receiver dispatch. |
 | Docs receiver | Engine repository, Actions read and Contents read. |
+| Engine pairing reconciler | Docs repository, Actions read and Contents read; the ordinary protected engine workflow token writes the exact candidate check. |
+| Docs completion callback | Engine repository, Actions write for the fixed pairing workflow dispatch; the engine independently revalidates the pair. |
 | Publication | Both repositories, Actions read and Contents read. |
 | Candidate validation | Its ordinary Docs repository token, Contents read and Actions read; no App credential. |
 | Resume after evidence import | Protected Docs workflow token, Actions write plus read access to candidate metadata; no candidate execution. |

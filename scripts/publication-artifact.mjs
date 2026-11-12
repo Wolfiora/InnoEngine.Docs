@@ -85,7 +85,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   if (operation === 'create' && inputs.length === 2) {
     const [catalog, completion] = await Promise.all(inputs.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
     console.log(JSON.stringify(await createPublication({ site, catalog, completion, repository: process.env.GITHUB_REPOSITORY,
-      commit: process.env.GITHUB_SHA, run: process.env.GITHUB_RUN_ID, attempt: Number(process.env.GITHUB_RUN_ATTEMPT) })));
+      commit: process.env.DOCUMENTATION_COMMIT, run: process.env.GITHUB_RUN_ID, attempt: Number(process.env.GITHUB_RUN_ATTEMPT) })));
   } else if (operation === 'verify' && inputs.length === 3) {
     console.log(JSON.stringify(await verifyPublication({ site, commit: inputs[0], run: inputs[1], attempt: Number(inputs[2]) })));
   } else throw new Error('Usage: publication-artifact.mjs create SITE CATALOG COMPLETION | verify SITE COMMIT RUN ATTEMPT');
