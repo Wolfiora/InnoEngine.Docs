@@ -6,11 +6,12 @@ import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
 import { selectDocumentedSymbols } from './api-scope.mjs';
+import { checkExampleEvidence } from './example-evidence.mjs';
 
 const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
 /** Validate a website projection against exported canonical facts, never a second Markdown interpretation. */
-export async function checkProjection({ root, catalog, site, complete = false }) {
+export async function checkProjection({ root, catalog, site, complete = false, sourceEvidence }) {
   root = path.resolve(root);
   const errors = [];
   const binding = JSON.parse(await readOwned(root, 'reference/engine.lock.json'));
@@ -98,9 +99,11 @@ export async function checkProjection({ root, catalog, site, complete = false })
   if (complete && api.missingSourceCaptures.length) errors.push(`Engine projects lack an evaluated source API capture: ${api.missingSourceCaptures.join(', ')}.`);
   if (complete && catalog.sourceApiStatus !== 'Verified') errors.push(`Source API verification is ${catalog.sourceApiStatus}; publication requires matching evidence.`);
   if (complete && !/^[a-f0-9]{64}$/.test(catalog.sourceEvidenceIdentity ?? '')) errors.push('Source API verification lacks an explicit authenticated certificate identity.');
+  const exampleEvidence = complete ? checkExampleEvidence(catalog, sourceEvidence) : { status: 'NotChecked' };
+  if (complete) errors.push(...exampleEvidence.errors);
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
-    missingProjects, sourceApiStatus: catalog.sourceApiStatus, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity ?? null, api, licenses, errors };
+    missingProjects, sourceApiStatus: catalog.sourceApiStatus, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity ?? null, exampleEvidence, api, licenses, errors };
 }
 
 async function checkLicenseProvenance(root, errors) {
@@ -242,8 +245,15 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   const arguments_ = process.argv.slice(2);
   const complete = arguments_.includes('--complete');
   const selected = arguments_.filter((argument) => argument !== '--complete');
-  if (selected.length < 1 || selected.length > 2) throw new Error('Usage: node scripts/check-projection.mjs <canonical-catalog.json> [site-directory] [--complete]');
-  const report = await checkProjection({ root: process.cwd(), catalog: JSON.parse(await readFile(selected[0], 'utf8')), site: selected[1], complete });
+  let sourceEvidence;
+  const evidenceOption = selected.indexOf('--source-evidence');
+  if (evidenceOption >= 0) {
+    if (evidenceOption + 2 !== selected.length) throw new Error('Select exactly one source certificate after --source-evidence.');
+    sourceEvidence = await readFile(selected[evidenceOption + 1]);
+    selected.splice(evidenceOption, 2);
+  }
+  if (selected.length < 1 || selected.length > 2) throw new Error('Usage: node scripts/check-projection.mjs CATALOG [SITE] [--complete] [--source-evidence CERTIFICATE]');
+  const report = await checkProjection({ root: process.cwd(), catalog: JSON.parse(await readFile(selected[0], 'utf8')), site: selected[1], complete, sourceEvidence });
   console.log(JSON.stringify(report, null, 2));
   process.exitCode = report.status === 'Passed' ? 0 : 1;
 }

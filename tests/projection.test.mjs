@@ -72,7 +72,9 @@ test('same-size edits and new files invalidate canonical content without timesta
 test('an entry and verification label cannot replace an evaluated empty or populated source surface', async (t) => {
   const f = await fixture(t);
   f.catalog.sourceApiStatus = 'Verified';
-  f.catalog.sourceEvidenceIdentity = 'c'.repeat(64);
+  f.sourceEvidence = Buffer.from(JSON.stringify({ format: 'inno-documentation-source/1', repository: f.catalog.repository,
+    sourceTree: f.catalog.sourceTree, examples: [] }));
+  f.catalog.sourceEvidenceIdentity = digest(f.sourceEvidence);
   const available = await checkProjection(f);
   assert.deepEqual(available.api.missingSourceCaptures, ['Probe']);
   const complete = await checkProjection({ ...f, complete: true });

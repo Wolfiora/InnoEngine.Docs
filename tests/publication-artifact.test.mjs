@@ -15,6 +15,7 @@ async function fixture(t) {
     sourceEvidenceIdentity: 'f'.repeat(64),
     repository: 'https://github.com/Wolfiora/InnoEngine', revision: 'c'.repeat(40), sourceTree: 'd'.repeat(40) };
   const completion = { status: 'Passed', scope: 'CompleteProjection', sourceApiStatus: 'Verified', errors: [],
+    exampleEvidence: { status: 'Passed', required: 1, covered: 1 },
     snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity };
   return { site, catalog, completion, repository: 'Wolfiora/InnoEngine.Docs', commit: 'e'.repeat(40), run: '123', attempt: 2 };
 }

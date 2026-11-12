@@ -11,17 +11,37 @@ Use the **Publish documentation** workflow to promote the exact output of a succ
 ## Prepare a publishable pair
 
 1. Complete the [engine and documentation pairing](pair-engine-documentation.md). The engine's actual Windows/macOS matrix must reconcile successfully against the selected documentation commit and content snapshot.
-2. Dispatch Documentation with the successful engine run ID on the Docs default branch, or explicitly select the approved development migration branch and enable bootstrap. Preparation authenticates the engine's `documentation-source-certification-attempt-<attempt>` artifact before attaching its certificate to the canonical catalog. A pull-request preview is useful for review but cannot become the public site.
+2. Let the protected engine evidence relay dispatch **Receive engine source evidence**, or explicitly dispatch that receiver with the successful engine run ID and exact engine commit. The receiver authenticates `documentation-source-certification-attempt-<attempt>` before importing it into the Docs repository. For initial migration, enable bootstrap on the approved migration branches. This setup requires the workflows to be present on their default branches for automatic `workflow_run` delivery; manual bootstrap does not bypass verification.
 3. Confirm that `Documentation validation` passes, including complete project/API coverage, matching source evidence, rendered output and browser journeys.
 4. Record the successful Docs run ID and exact commit, and the matching Engine CI run ID and exact engine candidate commit.
 
 The successful producer retains `documentation-site-attempt-<attempt>` for 90 days. Its `publication.json` records the source binding and every static file's SHA-256. Preview and diagnostic artifacts do not substitute for this verified artifact.
 
-Source certificates cover the exact engine source tree, project inventory and every captured API reference by owner, target and configuration. Missing comparison coverage produces a blocked source status and no certificate. A successful rendering or a user-edited verification label cannot replace that evidence. Pull-request jobs never obtain the installation credential; the explicitly dispatched producer imports authenticated evidence through the separate preparation boundary.
+Source certificates cover the exact engine source tree, project inventory and every captured API reference by owner, target and configuration. Missing comparison coverage produces a blocked source status and no certificate. A successful rendering or a user-edited verification label cannot replace that evidence. Candidate jobs never obtain the installation credential. The protected receiver imports data only; it never installs candidate dependencies, runs candidate code or builds the site.
+
+The same certificate records the executable examples that actually compiled: stable page identity, ordered code-block identities, host/script surface, reference owners and successful compiler report contexts. Pure prose edits and moved source lines can reuse these inputs. Changed example code, surface or references require fresh compilation evidence. API declaration fences are checked as reference declarations, not mistaken for executable tutorials.
+
+## Reuse a successful preview when evidence arrives
+
+Documentation CI builds and tests the website in **Documentation projection**. **Certify documentation source** then selects an authenticated certificate using its own repository's read-only token, imports the exact preview artifact with digest and path checks, attaches evidence through the canonical model, and checks full coverage against the same static files. It does not rebuild the site or repeat browser tests.
+
+If evidence arrives later, **Resume certified documentation** retries only a failed evidence-selection job for an unchanged PR head and base, or the unchanged selected branch head. It requires the preceding projection to have passed. Unrelated failures, canceled runs, updated candidates and missing certificates are not retried. The first attempt remains available, and the retry records the new certificate's import run as its reason. Both jobs must succeed before **Documentation validation** can pass.
+
+A pull-request artifact remains a preview even if source certification passes. Publishable producers run on the Docs default branch, or through the explicitly approved migration bootstrap. A prepared Docs candidate is never promoted merely because its PR passed.
 
 ## Configure evidence access once
 
-An organization-installed GitHub App must be restricted to **InnoEngine** and **InnoEngine.Docs**. Publication requests only **Actions: read** and **Contents: read** from that installation. Set `INNO_DOCS_APP_ID` as a Docs repository variable and `INNO_DOCS_APP_PRIVATE_KEY` as its secret. Never put the private key in source, logs, a workflow input or a pull-request artifact.
+An organization-installed GitHub App must be restricted to **InnoEngine** and **InnoEngine.Docs**. Configure `INNO_DOCS_APP_ID` and `INNO_DOCS_APP_PRIVATE_KEY` in the authorized repositories. Each token requests only the repository and permissions required by its operation:
+
+| Operation | Token scope |
+| --- | --- |
+| Engine relay | Docs repository, Actions write for the fixed receiver dispatch. |
+| Docs receiver | Engine repository, Actions read and Contents read. |
+| Publication | Both repositories, Actions read and Contents read. |
+| Candidate validation | Its ordinary Docs repository token, Contents read and Actions read; no App credential. |
+| Resume after evidence import | Protected Docs workflow token, Actions write plus read access to candidate metadata; no candidate execution. |
+
+Never put the private key in source, logs, a workflow input or a pull-request artifact. A missing installation is a visible setup blocker, not permission to substitute a personal token in automation.
 
 GitHub Pages must use Actions deployment. The `github-pages` environment and branch protection remain separate repository controls; their actual configuration must be checked before claiming publication is enforced.
 
@@ -36,10 +56,12 @@ The workflow checks:
 - The repository, workflow, event, current branch head, run conclusion and exact successful attempt.
 - The required aggregate and every actual engine matrix producer.
 - GitHub's archive digest before extraction, bounded archive paths, and every static file against its manifest.
-- The engine certification's exact documentation commit, snapshot, content identity and source tree.
+- The certified engine input tree and the current site's authenticated API and executable example evidence. An exact paired candidate retains its original correspondence; a documentation-only correction reports `SourceEquivalentDocumentation` after checking its new content and static output against the same certified engine inputs.
 - Source eligibility again immediately before preparing the Pages transport.
 
 Only then does a separate job deploy the same static files to [InnoEngine documentation](https://wolfiora.github.io/InnoEngine.Docs/). A rejected candidate does not replace the previous successful deployment. Initial publication is development documentation; stable documentation requires an actual approved engine release.
+
+A documentation-only correction does not need a new engine PR or a repeated full engine matrix when its source tree and required API/example inputs remain certified. A merge commit may also have a different commit identity with the same verified source tree; provenance records both the documented revision and the actual engine run. Different engine input trees do not qualify through this reuse path.
 
 ## Diagnose a rejected promotion
 

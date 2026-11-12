@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { authorizeRun, authorizePairing, selectSourceCertificate } from '../scripts/publication-source.mjs';
+import { authorizeRun, authorizePairing, selectSourceCertificate, selectRelayedCertificate } from '../scripts/publication-source.mjs';
 
 function source() {
   const repository = 'Wolfiora/InnoEngine.Docs';
@@ -40,7 +40,8 @@ for (const [name, mutate] of [
 ]) test(`rejects ${name}`, () => { const f = source(); mutate(f); assert.throws(() => authorizeRun(f)); });
 
 function pair() {
-  const manifest = { commit: 'a'.repeat(40), engine: { revision: 'b'.repeat(40), tree: 'c'.repeat(40) }, snapshot: 'd'.repeat(64), contentIdentity: 'e'.repeat(64) };
+  const manifest = { commit: 'a'.repeat(40), engine: { revision: 'b'.repeat(40), tree: 'c'.repeat(40) }, snapshot: 'd'.repeat(64), contentIdentity: 'e'.repeat(64),
+    sourceEvidenceIdentity: 'f'.repeat(64), exampleEvidence: { required: 1, covered: 1 } };
   const row = { platform: 'platform-one', receipt: { commit: 'f'.repeat(40), tree: 'a'.repeat(64), environment: 'b'.repeat(64),
     planIdentity: 'c'.repeat(64), resultsIdentity: 'd'.repeat(64), required: 3, passed: 2, reused: 1 },
     documentation: { engineCommit: 'f'.repeat(40), engineTree: manifest.engine.tree, documentationCommit: manifest.commit,
@@ -59,12 +60,29 @@ for (const [name, mutate] of [
   ['empty matrix', f => { f.certificate = []; f.expectedPlatforms = []; }],
   ['partial results', f => { f.certificate[0].receipt.passed = 1; }],
   ['missing pairing', f => { delete f.certificate[0].receipt.documentation; }],
-  ['stale content', f => { f.certificate[0].receipt.documentation.contentIdentity = 'f'.repeat(64); }],
+  ['missing source proof', f => { delete f.manifest.sourceEvidenceIdentity; }],
+  ['unverified example change', f => { f.manifest.exampleEvidence.covered = 0; }],
   ['another engine tree', f => { f.certificate[0].receipt.documentation.engineTree = 'f'.repeat(40); }],
-  ['changed engine', f => { f.engineRun.head_sha = 'f'.repeat(40); }]
+  ['invalid engine identity', f => { f.engineRun.head_sha = 'master'; }]
 ]) test(`rejects ${name} in publication pairing`, () => { const f = pair(); mutate(f); assert.throws(() => authorizePairing(f)); });
 
-for (const failure of [null, 'missing-source-artifact', 'failed-engine', 'wrong-revision']) {
+test('a source-certified prose correction reuses the matching engine matrix without pretending to be its old Docs snapshot', () => {
+  const f = pair();
+  f.manifest.contentIdentity = '1'.repeat(64);
+  f.manifest.snapshot = '2'.repeat(64);
+  f.manifest.commit = '3'.repeat(40);
+  assert.equal(authorizePairing(f).correspondence, 'SourceEquivalentDocumentation');
+});
+
+test('an actual default-branch merge can certify the same engine input tree at a different commit', () => {
+  const f = pair();
+  f.engineRun.head_sha = '4'.repeat(40);
+  assert.equal(authorizePairing(f).engineRevision, f.engineRun.head_sha);
+  f.certificate[0].receipt.documentation.engineTree = '5'.repeat(40);
+  assert.throws(() => authorizePairing(f), /source tree/);
+});
+
+for (const failure of [null, 'internal-pr', 'stale-pr', 'missing-source-artifact', 'failed-engine', 'wrong-revision']) {
   test(`explicit source preparation ${failure ?? 'accepts an authenticated exact source certificate'}`, async () => {
     const original = globalThis.fetch;
     const commit = 'a'.repeat(40);
@@ -75,6 +93,11 @@ for (const failure of [null, 'missing-source-artifact', 'failed-engine', 'wrong-
       conclusion: failure === 'failed-engine' ? 'failure' : 'success' });
     fixture.jobs[0].name = 'Engine validation';
     fixture.artifacts[0].name = 'documentation-source-certification-attempt-2';
+    if (failure === 'internal-pr' || failure === 'stale-pr') {
+      fixture.run.event = 'pull_request';
+      fixture.run.head_branch = 'feature';
+      fixture.run.pull_requests = [{ head: { sha: failure === 'stale-pr' ? 'b'.repeat(40) : commit } }];
+    }
     const requests = [];
     globalThis.fetch = async (url, options) => {
       requests.push(url);
@@ -87,8 +110,8 @@ for (const failure of [null, 'missing-source-artifact', 'failed-engine', 'wrong-
     };
     try {
       const request = selectSourceCertificate({ engineRun: '11', binding: { repository: 'https://github.com/Wolfiora/InnoEngine', revision: commit },
-        bootstrap: true, token: 'fixture-token' });
-      if (failure) await assert.rejects(request);
+        bootstrap: !['internal-pr', 'stale-pr'].includes(failure), token: 'fixture-token' });
+      if (failure && failure !== 'internal-pr') await assert.rejects(request);
       else {
         const selection = await request;
         assert.equal(selection.engine.id, 31);
@@ -97,6 +120,48 @@ for (const failure of [null, 'missing-source-artifact', 'failed-engine', 'wrong-
       }
       assert.equal(requests.length, 4);
       assert.ok(requests.every(url => url.startsWith('https://api.github.com/repos/Wolfiora/InnoEngine')));
+    } finally { globalThis.fetch = original; }
+  });
+}
+
+for (const failure of [null, 'wrong-workflow', 'wrong-branch', 'failed-import', 'wrong-engine', 'expired', 'earlier-attempt', 'missing-digest', 'fork']) {
+  test(`repository-local evidence ${failure ?? 'reuses a successful protected relay without cross-repository credentials'}`, async () => {
+    const original = globalThis.fetch;
+    const revision = 'd'.repeat(40);
+    const f = source();
+    f.run.path = '.github/workflows/source-evidence.yml';
+    f.run.event = 'workflow_dispatch';
+    f.jobs[0].name = 'Import source evidence';
+    f.artifacts[0].name = `source-evidence-${revision}-attempt-2`;
+    if (failure === 'wrong-workflow') f.run.path = '.github/workflows/documentation.yml';
+    if (failure === 'wrong-branch') f.run.head_branch = 'feature';
+    if (failure === 'failed-import') f.run.conclusion = 'failure';
+    if (failure === 'wrong-engine') f.artifacts[0].name = 'source-evidence-' + 'e'.repeat(40) + '-attempt-2';
+    if (failure === 'expired') f.artifacts[0].expired = true;
+    if (failure === 'earlier-attempt') f.artifacts[0].name = `source-evidence-${revision}-attempt-1`;
+    if (failure === 'missing-digest') delete f.artifacts[0].digest;
+    if (failure === 'fork') f.run.head_repository.full_name = 'Other/InnoEngine.Docs';
+    const requests = [];
+    globalThis.fetch = async (url, options) => {
+      requests.push(url);
+      assert.equal(options.headers.Authorization, 'Bearer repository-read-token');
+      assert.equal(options.redirect, 'error');
+      const body = url.includes('/jobs?') ? { jobs: f.jobs }
+        : url.includes('/artifacts?') ? { artifacts: f.artifacts }
+          : url.endsWith('/actions/runs/11') ? f.run : { default_branch: 'main' };
+      return { ok: true, json: async () => body };
+    };
+    try {
+      const result = selectRelayedCertificate({ binding: { revision, repository: 'https://github.com/Wolfiora/InnoEngine' },
+        bootstrap: false, token: 'repository-read-token' });
+      if (failure) await assert.rejects(result);
+      else {
+        const selection = await result;
+        assert.equal(selection.documentation.id, 31);
+        assert.equal(selection.engineRevision, revision);
+        assert.equal(selection.documentation.digest, 'sha256:' + 'b'.repeat(64));
+      }
+      assert.ok(requests.every(url => url.startsWith('https://api.github.com/repos/Wolfiora/InnoEngine.Docs')));
     } finally { globalThis.fetch = original; }
   });
 }

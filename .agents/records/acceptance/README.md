@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Protected evidence relay](EVIDENCE_RELAY_2026_11_12.md): credential isolation, static preview reuse and source-only resumption.
+
 - [Read-only reference inspection](READONLY_REFERENCES_2026_11_12.md): actual empty Player surfaces, source-selection regression and remaining certification requirements.
 
 - [Authenticated source evidence](SOURCE_EVIDENCE_2026_11_12.md): restricted preparation, explicit immutable certificates, exact API references and blocked live certification.

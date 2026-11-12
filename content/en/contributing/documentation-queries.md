@@ -136,7 +136,7 @@ The adapter requires a clean, exactly selected tooling checkout. It creates a ma
 
 The generated catalog is disposable. Refresh it after content changes; do not hand-edit its identities or add a second authored page inventory. Projection checks compare the exact file set, content hashes, navigation and rendered anchors with canonical facts.
 
-Available-page checks and complete publication acceptance are distinct. Add `--complete` to require every actual project entry and matching source API evidence. Missing coverage or an `Unverified` API state fails that check; a successful preview build does not override the failure.
+Available-page checks and complete publication acceptance are distinct. Add `--complete --source-evidence <certificate>` to require every actual project entry, matching source API evidence and authenticated compilation receipts for all executable examples. The certificate must be the exact file selected by the protected evidence import. Missing coverage, changed example inputs or an `Unverified` API state fails that check; a successful preview build does not override the failure. Pure prose changes can retain example evidence when the code blocks, API surface, reference projects and certified engine inputs are unchanged.
 
 ## Export source facts explicitly
 

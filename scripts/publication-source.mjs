@@ -25,7 +25,12 @@ export function authorizeRun({ run, jobs, artifacts, repository, workflow, branc
 /** Check the matrix's already-reconciled receipt and its exact documentation pair; never infer success from missing rows. */
 export function authorizePairing({ certificate, manifest, engineRun, expectedPlatforms }) {
   requireValue(Array.isArray(certificate) && certificate.length === expectedPlatforms.length && expectedPlatforms.length > 0, 'Publication requires the complete engine matrix.');
+  requireValue(sha(manifest.sourceEvidenceIdentity, 64) && sha(engineRun.head_sha) && sha(manifest.engine.revision)
+    && Number.isSafeInteger(manifest.exampleEvidence?.required) && manifest.exampleEvidence.required >= 0
+    && manifest.exampleEvidence.covered === manifest.exampleEvidence.required,
+  'Publication requires the site producer\'s authenticated source and complete executable example evidence.');
   const seen = new Set();
+  let exactCandidate = true;
   for (const row of certificate) {
     requireValue(expectedPlatforms.includes(row.platform) && !seen.has(row.platform), 'Missing, duplicate or unexpected platform certification.');
     seen.add(row.platform);
@@ -36,12 +41,16 @@ export function authorizePairing({ certificate, manifest, engineRun, expectedPla
       && Number.isSafeInteger(receipt.required) && receipt.required > 0
       && Number.isSafeInteger(receipt.passed) && receipt.passed >= 0 && Number.isSafeInteger(receipt.reused) && receipt.reused >= 0
       && receipt.required === receipt.passed + receipt.reused, 'Engine certification lacks complete required results.');
-    requireValue(pair && pair.engineCommit === receipt.commit && pair.engineTree === manifest.engine.tree
-      && pair.documentationCommit === manifest.commit && pair.documentationSnapshot === manifest.snapshot
-      && pair.contentIdentity === manifest.contentIdentity, 'Engine certification does not bind the exact documentation artifact.');
+    requireValue(pair && pair.engineCommit === receipt.commit && pair.engineTree === manifest.engine.tree,
+      'Engine certification does not bind the verified documentation source tree.');
+    exactCandidate &&= pair.documentationCommit === manifest.commit && pair.documentationSnapshot === manifest.snapshot
+      && pair.contentIdentity === manifest.contentIdentity;
   }
-  requireValue(engineRun.head_sha === manifest.engine.revision, 'The engine candidate changed after documentation was built.');
-  return { status: 'Passed', engineRun: engineRun.id, engineRevision: manifest.engine.revision,
+  // A reviewed prose-only update or merge commit can retain the same certified source tree. The site
+  // producer separately verifies every current API reference and executable example against its authenticated
+  // source certificate; matching file names, signatures alone or a preview cannot supply this evidence.
+  return { status: 'Passed', engineRun: engineRun.id, engineRevision: engineRun.head_sha, documentedRevision: manifest.engine.revision,
+    correspondence: exactCandidate ? 'ExactCandidate' : 'SourceEquivalentDocumentation',
     engineTree: manifest.engine.tree, documentationCommit: manifest.commit, snapshot: manifest.snapshot, contentIdentity: manifest.contentIdentity };
 }
 
@@ -62,6 +71,30 @@ async function list(endpoint, field, token) {
   }
 }
 
+/** Locate a certificate relayed by the protected receiver, using this repository's read-only token. */
+export async function selectRelayedCertificate({ binding, bootstrap, token }) {
+  requireValue(token && sha(binding.revision) && binding.repository === 'https://github.com/Wolfiora/InnoEngine',
+    'An exact engine binding and repository read token are required.');
+  const repository = 'Wolfiora/InnoEngine.Docs';
+  const prefix = `/repos/${repository}`;
+  const metadata = await github(prefix, token);
+  const artifactName = `source-evidence-${binding.revision}`;
+  const candidates = await list(`${prefix}/actions/artifacts`, 'artifacts', token);
+  for (const artifact of candidates.filter(item => !item.expired && item.name.startsWith(artifactName + '-attempt-')).sort((a, b) => b.id - a.id)) {
+    requireValue(Number.isSafeInteger(artifact.workflow_run?.id), 'Relayed evidence has no authenticated producer.');
+    const run = await github(`${prefix}/actions/runs/${artifact.workflow_run.id}`, token);
+    if (run.status !== 'completed' || run.conclusion !== 'success') continue;
+    const branch = bootstrap && run.head_branch === 'docs-modernization' ? 'docs-modernization' : metadata.default_branch;
+    const jobs = await list(`${prefix}/actions/runs/${run.id}/attempts/${run.run_attempt}/jobs`, 'jobs', token);
+    if (artifact.name !== `${artifactName}-attempt-${run.run_attempt}`) continue;
+    const authorized = authorizeRun({ run, jobs, artifacts: [artifact],
+      repository, workflow: '.github/workflows/source-evidence.yml', branch, commit: run.head_sha,
+      aggregate: 'Import source evidence', artifactName, events: ['workflow_dispatch'] });
+    return { documentation: { ...authorized, name: artifact.name, metadata: run }, engineRevision: binding.revision };
+  }
+  throw new Error('Blocked: no successful protected source-evidence import exists for this engine revision. Complete the matching engine certification and evidence relay; do not rebuild the website.');
+}
+
 /** Select an authenticated source certificate before the site build; never run from a read-only query. */
 export async function selectSourceCertificate({ engineRun, binding, bootstrap, token }) {
   requireValue(token && /^[1-9][0-9]*$/.test(engineRun) && sha(binding.revision)
@@ -69,15 +102,17 @@ export async function selectSourceCertificate({ engineRun, binding, bootstrap, t
   const repository = 'Wolfiora/InnoEngine';
   const prefix = `/repos/${repository}`;
   const metadata = await github(prefix, token);
-  const branch = bootstrap ? 'ai-pipeline' : metadata.default_branch;
   const run = await github(`${prefix}/actions/runs/${engineRun}`, token);
+  const internalCandidate = !bootstrap && run.event === 'pull_request' && Array.isArray(run.pull_requests)
+    && run.pull_requests.length > 0 && run.pull_requests.every(pull => pull.head?.sha === binding.revision);
+  const branch = bootstrap ? 'ai-pipeline' : internalCandidate ? run.head_branch : metadata.default_branch;
   const jobs = await list(`${prefix}/actions/runs/${engineRun}/attempts/${run.run_attempt}/jobs`, 'jobs', token);
   const artifacts = await list(`${prefix}/actions/runs/${engineRun}/artifacts`, 'artifacts', token);
   // A preserved certificate can remain valid after an unrelated branch advance. Exact source/ref binding
   // is checked by the canonical query core; publication separately requires a current candidate pair.
   return { engine: { ...authorizeRun({ run, jobs, artifacts, repository, branch, commit: binding.revision,
     workflow: '.github/workflows/rendering-ci.yml', aggregate: 'Engine validation',
-    artifactName: 'documentation-source-certification', events: ['push', 'workflow_dispatch', 'pull_request', 'merge_group'] }), metadata: run } };
+    artifactName: 'documentation-source-certification', events: ['push', 'workflow_dispatch', 'pull_request', 'merge_group', 'schedule'] }), metadata: run } };
 }
 
 /** Explicit authenticated preparation; ordinary documentation queries never use this transport. */
@@ -123,9 +158,13 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     const selected = await selectSourceCertificate({ engineRun: process.env.ENGINE_RUN, binding,
       bootstrap: process.env.BOOTSTRAP === 'true', token: process.env.GH_TOKEN });
     await writeFile(args[1], JSON.stringify(selected, null, 2) + '\n', { flag: 'wx' });
+  } else if (operation === 'relayed' && args.length === 2) {
+    const binding = JSON.parse(await readFile(args[0], 'utf8'));
+    const selected = await selectRelayedCertificate({ binding, bootstrap: process.env.BOOTSTRAP === 'true', token: process.env.GH_TOKEN });
+    await writeFile(args[1], JSON.stringify(selected, null, 2) + '\n', { flag: 'wx' });
   } else if (operation === 'pair' && args.length === 3) {
     const [selection, certificate, manifest] = await Promise.all(args.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
     console.log(JSON.stringify(authorizePairing({ certificate, manifest, engineRun: selection.engine.metadata,
       expectedPlatforms: selection.engine.platforms })));
-  } else throw new Error('Usage: publication-source.mjs select OUTPUT | source BINDING OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
+  } else throw new Error('Usage: publication-source.mjs select OUTPUT | source BINDING OUTPUT | relayed BINDING OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
 }

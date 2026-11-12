@@ -1,0 +1,85 @@
+name: Receive engine source evidence
+
+on:
+  workflow_dispatch:
+    inputs:
+      engine_run:
+        description: Successful Engine CI run supplying a complete source certificate
+        type: string
+        required: true
+      engine_commit:
+        description: Exact source revision certified by that run
+        type: string
+        required: true
+      bootstrap:
+        description: Use the explicitly approved migration branches
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: source-evidence-${{ inputs.engine_commit }}
+  cancel-in-progress: false
+
+jobs:
+  import:
+    name: Import source evidence
+    if: github.repository == 'Wolfiora/InnoEngine.Docs' && (github.ref == 'refs/heads/main' || (inputs.bootstrap && github.ref == 'refs/heads/docs-modernization'))
+    runs-on: windows-2025
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+      # This job runs only the protected receiver's scripts. It never checks out or executes candidate code.
+      - name: Require the restricted evidence installation
+        shell: pwsh
+        env:
+          APP_ID: ${{ vars.INNO_DOCS_APP_ID }}
+          APP_KEY: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+        run: |
+          if (-not $env:APP_ID -or -not $env:APP_KEY) { throw 'Blocked: provision the restricted cross-repository evidence installation.' }
+      - name: Read engine evidence through the restricted installation
+        id: token
+        uses: actions/create-github-app-token@fee1f7d63c2ff003460e3d139729b119787bc349 # v2
+        with:
+          app-id: ${{ vars.INNO_DOCS_APP_ID }}
+          private-key: ${{ secrets.INNO_DOCS_APP_PRIVATE_KEY }}
+          owner: Wolfiora
+          repositories: InnoEngine
+          permission-actions: read
+          permission-contents: read
+      - name: Authenticate the exact successful engine producer
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ steps.token.outputs.token }}
+          ENGINE_RUN: ${{ inputs.engine_run }}
+          ENGINE_COMMIT: ${{ inputs.engine_commit }}
+          BOOTSTRAP: ${{ inputs.bootstrap }}
+        run: |
+          if ($env:ENGINE_COMMIT -cnotmatch '^[a-f0-9]{40}$') { throw 'An immutable engine revision is required.' }
+          New-Item -ItemType Directory -Path artifacts/relay | Out-Null
+          @{ repository = 'https://github.com/Wolfiora/InnoEngine'; revision = $env:ENGINE_COMMIT } |
+            ConvertTo-Json | Set-Content artifacts/relay/binding.json -Encoding utf8NoBOM
+          node scripts/publication-source.mjs source artifacts/relay/binding.json artifacts/relay/selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'Source certificate authorization failed.' }
+          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/relay/selection.json -Source engine -Destination artifacts/relay/evidence
+      - name: Retain the authenticated certificate for unprivileged consumers
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: source-evidence-${{ inputs.engine_commit }}-attempt-${{ github.run_attempt }}
+          path: artifacts/relay/evidence/source-certificate.json
+          if-no-files-found: error
+          retention-days: 90
+      - name: Retain import provenance and the first failure
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: source-evidence-import-attempt-${{ github.run_attempt }}
+          path: artifacts/relay/*.json
+          if-no-files-found: warn
+          retention-days: 30
