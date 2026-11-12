@@ -1,0 +1,88 @@
+{
+  "project": "Inno.Assets.Pipeline",
+  "outputDirectory": "content/en/api/editor-script/inno-assets-pipeline",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-assets-pipeline",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetartifactwriter.md",
+      "sha256": "ef0e6178def993522f03c3d58694b31afc4056a6d34a082f463c8f1f373aa7ad"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetbuildcontext-1.md",
+      "sha256": "1511ab8b947e014cd2959b29a25d637186b31f2c46b85ac1b20056d240b3dc6e"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetbuildprocessor.md",
+      "sha256": "ef4968ace8b4696567b39252780cff4e8dec0b021913b25c2978b66d2bccf991"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetbuildprocessor-1.md",
+      "sha256": "bc0b7373c75a874a67a31ae0be1e458fd68f92d05943f003a5352c600dde5f4c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetbuildprocessorattribute.md",
+      "sha256": "cdaa3246d66a9067840acc1f277e7561d84262e0142a4396268205fadefee65d"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetdeploymentscope.md",
+      "sha256": "81cc6b62ff77a6ee3ac34ab2efb47d4fa2454baf02e7c8dfd79ebdad2b5e8829"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetexportcontext.md",
+      "sha256": "0e1c257833730b01e7b00bf981c20bd8414d77a07037d860807755d47c558778"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetfileentry.md",
+      "sha256": "7d51215c03c54102edf70522c39e88c119867befe4c67945686d80050e070021"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimportcontext.md",
+      "sha256": "af1c907744efa14fb8b86717dc3ae725d918fd3cefaf413fd118c9974d79e085"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimporter.md",
+      "sha256": "2e224186fb270e575577fbb91950d7eae22e5cbf897e9762bd3bdbb58dc2fb67"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimporter-1.md",
+      "sha256": "9d0f4c3f79f55a46c4a7fef64fdd99675fe067b76ebbdb5134881e0a4eec63bf"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimporterattribute.md",
+      "sha256": "f42baaf0f60535182c679f51885c77f750e734192b7c36bcee100e3976181dcd"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimportextensionunavailableexception.md",
+      "sha256": "07c7a80d9482d19b86730c92833a4e2342ffae817d9a7d00efc9308f513aac0a"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetimportwriter-1.md",
+      "sha256": "a85c485f23b041e960512e72513af20ad4c7cb7d8f17b1c439bee6f4ba7812f1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.assetserializationservices.md",
+      "sha256": "25f66c4546579a4626be9db6fc989cb54750508ab0964a7d1019f5da7cd86af0"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.editorassets.md",
+      "sha256": "e3e80d66e7ed792c1c8276ce78129e9e0981b07499b36e42174bc8e05207931e"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/innoeditor.assets.nativeassetsourceserialization.md",
+      "sha256": "3f410470976639b0ad610cedb36139ddecba43cde39de199c5316b3d4502d838"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-assets-pipeline/index.md",
+      "sha256": "325338f2962dc659aad9d79f7cbc7a6b4045a083c7680fecf45b1a0925cbf915"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

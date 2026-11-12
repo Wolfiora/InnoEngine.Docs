@@ -35,3 +35,9 @@ Atomic replacement applies to one operation. A write followed by a read, or a se
 The selected source declarations describe the host CLR contract. Script use requires the actual Runtime projection and its own names and availability.
 
 [Browse storage types](../types/storage/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-storage/index.md)

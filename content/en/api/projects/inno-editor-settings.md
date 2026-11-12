@@ -49,3 +49,9 @@ Do not statically retain generation-specific setting objects or subscribe withou
 The source reference covers definitions, paths, staging objects, editor stores and Project drawer contracts. Script-facing namespaces and erasure/export rules are checked independently from the CLR surface.
 
 [Browse Settings types](../types/editor-settings/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-settings/index.md)

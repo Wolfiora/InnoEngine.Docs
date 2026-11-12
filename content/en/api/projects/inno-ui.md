@@ -35,3 +35,9 @@ Read [UI lifetimes](../../architecture/ui-lifetime.md) and [render-frame consump
 ## Reference
 
 [Browse types and exact member contracts](../types/ui/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-ui/index.md)

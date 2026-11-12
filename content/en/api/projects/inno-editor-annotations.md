@@ -68,3 +68,9 @@ Drawers rebuild with the TypeCache generation. Static retention of collectible t
 Exact constructors, condition enums and inherited contracts come from the bound source facts. Presentation metadata has no initialization or disposal sequence of its own.
 
 [Browse annotation types](../types/editor-annotations/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-editor-annotations/index.md)

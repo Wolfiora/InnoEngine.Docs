@@ -58,3 +58,9 @@ public sealed class TextAssetDrawer : InspectionDrawer<TextAsset>
 ## API reference
 
 [Types and exact member contracts](../types/editor-presentation/inno-editor-panel-inspector/index.md) retain the engine-owned declarations and captured XML.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-panel-inspector/index.md)

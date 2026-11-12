@@ -1,0 +1,32 @@
+{
+  "project": "Inno.Storage",
+  "outputDirectory": "content/en/api/runtime-script/inno-storage",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-storage#operation-and-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-storage/innoengine.storage.iapplicationstorage.md",
+      "sha256": "8c9c90294ab669256348c82e7690d74b6970722911e188f2788d1f5b592d7d15"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-storage/innoengine.storage.storage.md",
+      "sha256": "4dfd495faf19aa72610732cc70560f3de6938d1dddff42f219a194d2ffdade3e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-storage/innoengine.storage.storagekey.md",
+      "sha256": "179f69a5e2fa5334096a1ea2280cfd52000571a41305914f7918134196682d0e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-storage/index.md",
+      "sha256": "82df55efd29e19e2be40dc771930d601b2f144fe04d495f00fd088933c9fb4b2"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

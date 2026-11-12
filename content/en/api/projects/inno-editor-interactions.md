@@ -49,3 +49,9 @@ Host source uses `Inno.Editor.Interactions`. Selected Editor scripts use `InnoEd
 Exact overloads, immutable models, protected action/drop hooks and failure contracts are derived from the selected source surface. A declaration's presence does not certify its script projection or a product journey.
 
 [Browse Editor Interaction types](../types/editor-interactions/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-interactions/index.md)

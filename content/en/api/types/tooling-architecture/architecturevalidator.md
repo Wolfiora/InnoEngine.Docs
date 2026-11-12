@@ -35,7 +35,7 @@ public static class Inno.Tooling.Architecture.ArchitectureValidator
 Checks repository dependency, API documentation and source ownership invariants.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L17).
 
 ## `Execute`
 
@@ -64,4 +64,4 @@ selected API owners and an optional prepared SDK snapshot. Product documentation
 **Throws `System.IO.InvalidDataException`:** A prepared SDK snapshot or evaluated source contract is invalid.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L61).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/ArchitectureValidator.cs#L61).

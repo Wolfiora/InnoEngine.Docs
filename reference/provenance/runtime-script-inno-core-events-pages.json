@@ -1,0 +1,32 @@
+{
+  "project": "Inno.Core.Events",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-events",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-events#dispatch-and-lifetime-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-events/innoengine.events.event.md",
+      "sha256": "36d3dc23b2fa4777032a349abba5c8ad9cd45882728df4c20508aa1b7948ab79"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-events/innoengine.events.eventdispatcher.md",
+      "sha256": "72b46f3111b20972ec5230a3e66dd8619e02564dea76864846466bc91607f1f6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-events/innoengine.events.eventhub.md",
+      "sha256": "13ec222247242983719437b313cf90813f2b40fe913e82ca7b1abbb0b73aac7e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-events/index.md",
+      "sha256": "87815937b02b02684d23481fbafc7f0c3aa3a5faad65d65284a2eadcf489ca91"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "project": "Inno.Rendering",
+  "outputDirectory": "content/en/api/runtime-script/inno-rendering",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-rendering",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.computepassbuilder.md",
+      "sha256": "c5d65ddfeaec2f76bf88bf182fa3f3aedb9e121a19c513573c943267816f699a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.computepipelinedescriptor.md",
+      "sha256": "53f5d455c82a8d5eeb4f8f95301bf174d4810cdb87eacb66395a403457cc13be"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.computepipelinehandle.md",
+      "sha256": "7d1108b76392709fc8898b5419efa2edcc558d91c124ea9a068ae445034a1259"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.copypassbuilder.md",
+      "sha256": "562ac93c68dd950bcffc37a149a312debc5b6e412c9897e5fee9e9bbf0aef2e4"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicsapi.md",
+      "sha256": "0f17c0a567e3c65698e5e97196bea52f50b75c01b362933bd52d7cbae198aed6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicscapabilities.md",
+      "sha256": "0995e540b0f32b7c9eced51a8ad09c21c2d0c4bec5b991f052e9f6b121dae0ec"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicscapability.md",
+      "sha256": "ad38716d777b5ea28fbda2a087f148357f8d7f6c3ab3f1ade06eeccd11a4e513"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicslimits.md",
+      "sha256": "4217a4d01fb360925971624fd5794702754aea68c2531a0602fead16187ad245"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicspipelinedescriptor.md",
+      "sha256": "b1a61d26c12bb25851f9f54e84c1f9a4546fa5b63fa0cf9a436be2a0a54b096e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.graphicspipelinehandle.md",
+      "sha256": "df4508aa0121d2ebc082fbf2de223c6bf4b28a2c46ca193814a875f908500014"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.irenderframeuploadservice.md",
+      "sha256": "bed03e9ded03fb7946460ae3ac2a08792d2e0d92cd3a0edaf70bc91934ad05ce"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.persistentbufferdescriptor.md",
+      "sha256": "a8a4ff2cc422b635c978505fa1c504ebe464e97f447de142fccbe8a4159b4a95"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.persistentbufferhandle.md",
+      "sha256": "5110f372dbe0216a3a0f508dd089d4902f96fc281c86033465e4a0516163f028"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.persistenttexturehandle.md",
+      "sha256": "39f06a441788763b311234e9657aab9f55384710d184cd33029409743f919020"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rasterpassbuilder.md",
+      "sha256": "95c465e7d656051c6d7a403d3e177bb8b3d74e5791af24c713da1cd1168516ae"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbindingid.md",
+      "sha256": "86a696b4aad1776b0bbaf9720a3937b07eab6fa7a057c510386b261900ab3806"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderblendequation.md",
+      "sha256": "e8862ab490107db6ef3c9491c950fe7b05e47a1560436baf29a66c1800cad4a7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderblendfactor.md",
+      "sha256": "2119e7acc4f5ccaafd09aa2b3bc7a36cf01be8ede314217c2d89a37277d39e81"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderblendstate.md",
+      "sha256": "8b43336a90c016184fd608f8c5f108ac5fb609bb80be1f1f7468e826de35f911"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbufferdescriptor.md",
+      "sha256": "115673df60b463db8c999c87193f213c452b8311de9c444a6702bbd26a4cede1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbufferhandle.md",
+      "sha256": "d74d299b03c373c2c25b1f1921b0924ab890f0c4c55f9b855288f977843e80e6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbufferslice.md",
+      "sha256": "d389b75bb8ca266c6f7f3dbc70838430d40e2af1f7b7b0af9154df917f7ca849"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbufferuploaddescriptor.md",
+      "sha256": "582a964dfc5b0819065dcb803082f4ce360b9d3e444d1ee3df0940dc249dee4e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderbufferusage.md",
+      "sha256": "5c8bddf6fb5636b3df2f59ab63728b855d27706203d2039e983cac842ac81487"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderclearcolor.md",
+      "sha256": "c917f2a487ca613bc118e148ceefa3aee3541b47ea32cc2b79e904816d851714"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendercommandencoder.md",
+      "sha256": "345ca849c28ae6a710e0b8e4abfa7343af2c9b0ab6e2759f08a830a8d9db47fd"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendercullmode.md",
+      "sha256": "3494bc25bdf7ecbf6af1ec2c7cbfd157fb3290bbe8a4daca302ace8a93d1e6ad"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderdatachannelid.md",
+      "sha256": "2bc73efa12b17103d7ce45776ce279db4f8baf8a95b11ffbd57b58cee99a3b2c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderdepthcompare.md",
+      "sha256": "ac3d9d787842a9f6a318624a258b20e92b5b8bee0ed6ab5b3f5cd01274044ab1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderdeviceallocationcounters.md",
+      "sha256": "7d03ef642c033bcff5327be2ddda91813abefb8bc9f11564d1722bb1816f9ae2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderfrontface.md",
+      "sha256": "778d198eec227c3f14d85e16573e468ca1abb5bc51e2480839a13efeca769f41"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendergraphbuilder.md",
+      "sha256": "40c888c38d02256672a233be48912e85bc5e0819566c05014929bd1033a0d7ae"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendergraphdiagnostic.md",
+      "sha256": "5b7892e04c63a01b8ce2bbae7133459970f93cc276b9c1639516b782afe93f50"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendergraphmutationscope.md",
+      "sha256": "649e4ab994d460808500166b3648c510f4650e48a42cd753d376da4a55e2343c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendergraphnamescope.md",
+      "sha256": "5183948dad605039e471105ade1b3f57ef7ad5dfc54570ec16c6871f9d8771d2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderindexformat.md",
+      "sha256": "0c3351353a583e13590cf4c7395bd0319cb534ab394fb20d0d8aade88d676d7f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderloadaction.md",
+      "sha256": "b57741233b5f1a574872eede5d986caa190bf53f9ed770f806efbb2d82acc172"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpassbuilder.md",
+      "sha256": "0cb32cc47fca2bfc3004f02738e1192d0c4e5e77dc5a191d835e300c0eaa6f12"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpasscontext.md",
+      "sha256": "14a455a3cc0cb63fd3645672bc4b0f1acf12d029624c504c6ec69ccb12f70d0c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpassexecute-1.md",
+      "sha256": "efbe21168ffb9b601500d9fa35e7254fbac18615ef01c623e9a16d0b3ce03361"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpasskind.md",
+      "sha256": "3937bf2051204baa2d060c4a839823e3d22bc944aa004065cba4c4b17fd03416"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpassrecordingmode.md",
+      "sha256": "3b5f494d6cf4dbfd80dd68c7dd11ee2e42064837532189fcff3ccd704e8a1186"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderphaseid.md",
+      "sha256": "75481288744ed3cf6ad118a43e732261438269dea5401aaad28ed5ccd6d2131b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderpresentationsize.md",
+      "sha256": "ad3c02f722f7432911b90087c89547ff6e8fca11bd8d554c6b6b7d63377c4814"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderprimitivetopology.md",
+      "sha256": "c8dea7a96eb2a6a0330613fdcdb72d3fc1c95e9b664d14ea4cd5cf4c542532a0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderrasterstate.md",
+      "sha256": "a7038ac0c14269de2129cff545429139dd7157e6050c004debee5d1edc6ff94d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderresourceid.md",
+      "sha256": "25ab9c675a7c228ee2580477eccf9c76af0174359994f967696e8dc42684ec32"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendersampleraddressmode.md",
+      "sha256": "1ca51e970b4fc1fdc04d9aedc1e5bd8d4703223bca36a4a012faf2cf127f9c37"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendersamplerfilter.md",
+      "sha256": "a7a776ccf7e01267ab0444109d02f475484c41233e086f6774a9f4ce8ee6420a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendersamplerstate.md",
+      "sha256": "fbab9ab01ab9d6c505cca9f69decd5f9427e2e28cfc70235e5dc3c445df4424c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendershaderbindingdescriptor.md",
+      "sha256": "f9d5054faf4eea679d0cf5d413a2a5fa0ed3958d7f0791444844a74c0d43c80f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendershaderbindingkind.md",
+      "sha256": "f1014605e29dcbc51f63eaab8de714b2dde38cfe7f7ffcc0d2d6fbe6af9e0964"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstencilcompare.md",
+      "sha256": "8005c9d88faf16b56408c93ce9efc888088241b98c4fc15195c147b8794bc0fc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstencilfacestate.md",
+      "sha256": "cbcfb4537bc80a59695d77f51038803c302cda875aef866aef39d7088502ca90"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstenciloperation.md",
+      "sha256": "acbd38e261ddc1b1d4ff9563f40c671587dc569f3d40af5cc8165abd8f7f54bc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstencilstate.md",
+      "sha256": "2d6ac85460dbc45b3d6a514b137cb2d007aa307a7d84ad24c92fcae576a800e8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstorageaccess.md",
+      "sha256": "9de2d01bc8d4a20e80562d79574d7ead01b8cb9e51c9ed55a48351a7c7597389"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderstoreaction.md",
+      "sha256": "9205ce06210af6916c7b4dc1d45bcc3163cde41b968a04261e69b640513e5ae6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendersurfacehandle.md",
+      "sha256": "48fad6fa80fe1ff3297fa57486228993641c44f5448c4da3aa94b4666c662dc6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertarget.md",
+      "sha256": "23f5646f328bbe9917f944366504d41b0ef846130c5c31a905e38eb403a56781"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertargetkind.md",
+      "sha256": "193c91e8efc5870718f4bb74cb18c4239afa908b8f8597f4070751444cfa0902"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexture.md",
+      "sha256": "1e544338a3a4d6e711ef0acfcb9b166308bec8924244736f12e62a13440a21e8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturecontainer.md",
+      "sha256": "3afd475446cde2fed221c960ecb088167f8ef26fa86ac4f640ee8aa18d780396"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturedescriptor.md",
+      "sha256": "62c10cbfc5125187df94d68051406767704676c9a254cf60e9ddaa840dec0676"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturedimension.md",
+      "sha256": "51833223771b3b913f8e74f6048427e53d82c03a02d9354231111bc3d49063c5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertextureformat.md",
+      "sha256": "dc228239c6c3fc5efadb13112920881527da5b059e24cb5df0f20b1de48701fb"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturehandle.md",
+      "sha256": "3f18b828ff0d1591ad6b75cfa1d9588242dafeca1c358c329a243e34ea9733fe"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturereadbackhandle.md",
+      "sha256": "be539138f798189677a0f8fe9717b0ebc3cc320739b1f92083605a706cc838df"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertexturereadbackresult.md",
+      "sha256": "6615f2a3b7d4369d9ee3048759d87962942025026666ed5d87da924beddc7a13"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertextureregion.md",
+      "sha256": "27355dafed50d1634e183921b2abb95fe0eea2521b4a3818e04a4202120a532a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendertextureusage.md",
+      "sha256": "6526ed25e3035f8ad5866c95755a8673ea1dcd8f692b64cef86daa68765d1e2b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderuniformtype.md",
+      "sha256": "f1e681863321daa7a01d7718d0bd0da76403cd2f5d70c0ad6bcbe69844b762b2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendervertexattribute.md",
+      "sha256": "f73f279bc5407a97cadeb1613429f5c4cd078bd16f6daefc8307da1597828982"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendervertexformat.md",
+      "sha256": "7ddc82069d4bef2b96d3a9afc89eb3aa170d44894719213fc674cd0d0d8520d7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendervertexlayout.md",
+      "sha256": "a71d9e9a1a6476b97bb22028d8c62aa09c2b51ebd229e06a6e103ecee33946d4"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.rendervertexsemantic.md",
+      "sha256": "592af5792528ae3bf5412d117e4ea3ae57973d91271425b51cbe23cdf2be3838"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderviewport.md",
+      "sha256": "d3b647006c688adc13ca1d2e7b968d8496b7c9c51e137668f6881a9ac1167c82"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.renderviewtransform.md",
+      "sha256": "6f06f470be6a7f625330a6e5934c743c099d86fb55f27371286f096809369d98"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderinterface.md",
+      "sha256": "49d4c3bc50e31650ae2a4b0217b6b678b1219209adfbe6a7e223c3e242cda473"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderinterfacebinding.md",
+      "sha256": "bf6fc3337eecc485660e9c1c7658195333fe0b566316ae92ee6fea7d8ef739ff"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderprogramkind.md",
+      "sha256": "61ad9a7871ceec1f2533cdfe6bf1e2a639b3c292374f8ad54a7278eb776412dc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderpropertybindingkind.md",
+      "sha256": "8d606efe28d71a5a3ba63cd5d21b1ed9b60cc5181c4917d57d0f2ed3ca4374df"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderpropertyid.md",
+      "sha256": "972ef4157c926dc32b6ff7558ebc33e9436ecd51b06f63bdb6ecaecb8251d0e1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderpropertytype.md",
+      "sha256": "7f33e34d31e0e380ad83f78531eb7b22f579d9056753b6b13a8170b454ef0708"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/innoengine.rendering.shaderstage.md",
+      "sha256": "e8dd60d6e605b0ea5837d640d0a5d01eae0b340a53384af1bc6444bbfb7bb7a2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-rendering/index.md",
+      "sha256": "bce8b9fcecf6b6e2a96ff81f25b5879ac4c8125e8426b6a56f72a098b19b3ec9"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

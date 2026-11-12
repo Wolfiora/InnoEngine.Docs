@@ -75,6 +75,28 @@ test('candidate rebinding preserves unchanged captured source pages and rejects 
   assert.equal(await readFile(f.page, 'utf8'), first);
 });
 
+test('script surfaces retain distinct page and index identities for the same owner and symbol', async (t) => {
+  const pages = new Set();
+  const indexes = new Set();
+  for (const model of ['source-clr', 'runtime-script', 'editor-script']) {
+    const f = await fixture(t);
+    f.facts.model = model;
+    f.binding.apiManifests[0].model = model;
+    const projects = JSON.stringify([{ name: 'Probe', path: 'src/Probe.csproj', surfaces: [model] }]);
+    f.binding.projectManifestIdentity = hash(projects);
+    await f.write('reference/projects.json', projects);
+    await f.bind();
+    await f.run();
+    const page = await readFile(f.page, 'utf8');
+    pages.add(page.match(/^uid: (.+)$/m)[1]);
+    const index = await readFile(path.join(f.root, 'content/en/api/probe/index.md'), 'utf8');
+    indexes.add(index.match(/^uid: (.+)$/m)[1]);
+    assert.ok(page.includes(`apiSurface: ${model}`));
+  }
+  assert.equal(pages.size, 3);
+  assert.equal(indexes.size, 3);
+});
+
 test('reference generation preserves exact declarations, XML constraints and shared contracts', async (t) => {
   const f = await fixture(t);
   await f.run();
@@ -90,6 +112,23 @@ test('reference generation preserves exact declarations, XML constraints and sha
   await f.bind();
   await f.run();
   assert.match(await readFile(f.page, 'utf8'), /key = "updated"/);
+});
+
+test('additional caller contracts remain separate required units and reject stale content', async (t) => {
+  const f = await fixture(t);
+  const text = '# Script scope\n\nUse only the selected logical API.\n';
+  await f.write('content/en/scope.md', text);
+  f.catalog.pages.push({ id: 'script-scope', path: 'content/en/scope.md', contentIdentity: hash(text), sections: { 'script-scope': 1 } });
+  await f.write('artifacts/catalog.json', JSON.stringify(f.catalog));
+  await f.run(['-AdditionalContracts', 'script-scope']);
+  for (const file of [f.page, path.join(path.dirname(f.page), 'index.md')]) {
+    assert.match(await readFile(file, 'utf8'), /contracts:\n  - shared-contract#ownership\n  - script-scope\n/);
+  }
+  assert.match(await readFile(f.page, 'utf8'), /Required caller contracts:.*\[script-scope\]\(\.\.\/\.\.\/scope.md\)/);
+  const published = await readFile(f.page, 'utf8');
+  await f.write('content/en/scope.md', text.replace('selected', 'restricted'));
+  await assert.rejects(f.run(['-AdditionalContracts', 'script-scope']), /associated contract changed/);
+  assert.equal(await readFile(f.page, 'utf8'), published);
 });
 
 test('authored edits and existing unowned pages are never overwritten', async (t) => {

@@ -29,3 +29,9 @@ The real Runtime script projection exports the facade, font and text value types
 ## Reference
 
 [Browse text types and exact members](../types/text/index.md). [Runtime ownership](inno-text-runtime.md) and [font importing](inno-text-assets.md) describe the cooperating projects.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-text/index.md)

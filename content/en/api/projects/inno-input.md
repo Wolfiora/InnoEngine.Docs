@@ -33,3 +33,9 @@ The current contract includes keyboard, pointer buttons/motion/wheel and committ
 The host declarations below are a source CLR surface. Script names and selected members come from the real script projection, not a namespace rewrite.
 
 [Browse input types](../types/input/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-input/index.md)

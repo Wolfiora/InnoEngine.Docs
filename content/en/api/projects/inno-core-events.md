@@ -40,3 +40,9 @@ The task guide explains explicit rejection, the valid use of `DiscardPending`, a
 ## Reference
 
 [Browse exact event, dispatcher and hub declarations](../types/core-events/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-events/index.md)

@@ -37,3 +37,9 @@ The CLR surface includes host recovery and resolver composition. The runtime scr
 ## API reference
 
 Browse [types, overloads and exact member contracts](../types/references/index.md). Source declaration coverage is separate from runtime recovery and unload verification.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-references/index.md)

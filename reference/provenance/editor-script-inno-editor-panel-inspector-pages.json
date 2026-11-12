@@ -1,0 +1,28 @@
+{
+  "project": "Inno.Editor.Panel.Inspector",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-panel-inspector",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-panel-inspector",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-inspector/innoeditor.inspection.assetreferencedroptarget.md",
+      "sha256": "5539139508d50451a373af6d4f57ff242613826e506244f9dea274fe6cc71fe5"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-inspector/innoeditor.inspection.engineobjectreferencedroptarget.md",
+      "sha256": "c7cbca259ba9530c26181be65fd3967b70434ea54f1472b9f2da630586599932"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-inspector/index.md",
+      "sha256": "facfdd8dcdfde044df4a632e2ca9b67cf0a5b3d611736878a742990206d35679"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

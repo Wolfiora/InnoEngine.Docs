@@ -38,3 +38,9 @@ Background export retains the captured immutable serialization generation and it
 ## API reference
 
 [Authoring types and member contracts](../types/assets-pipeline/index.md) cover pipeline/loader access, imports, settings, source candidates, sample transactions and export. Use [importer extension guidance](../../extending/asset-importers.md) before supplying custom processors.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-assets-pipeline/index.md)

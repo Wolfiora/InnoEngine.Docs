@@ -56,3 +56,9 @@ static RuntimeSession CreateSession(
 ## API reference
 
 [Browse exact types and members](../types/runtime-composition/inno-runtime/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-runtime/index.md)

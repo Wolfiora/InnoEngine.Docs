@@ -799,6 +799,7 @@
     "path": "src/composition/editor/contracts/Inno.Editor.Annotations/Inno.Editor.Annotations.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -808,6 +809,7 @@
     "path": "src/composition/editor/features/Inno.Editor.Assets/Inno.Editor.Assets.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -835,6 +837,7 @@
     "path": "src/composition/editor/features/Inno.Editor.PlayMode/Inno.Editor.PlayMode.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -844,6 +847,7 @@
     "path": "src/composition/editor/features/Inno.Editor.Rendering/Inno.Editor.Rendering.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -853,6 +857,7 @@
     "path": "src/composition/editor/features/Inno.Editor.Scene/Inno.Editor.Scene.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -871,6 +876,7 @@
     "path": "src/composition/editor/features/Inno.Editor.Shaders/Inno.Editor.Shaders.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -880,6 +886,7 @@
     "path": "src/composition/editor/framework/Inno.Editor.Core/Inno.Editor.Core.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -898,6 +905,7 @@
     "path": "src/composition/editor/framework/Inno.Editor.Graph/Inno.Editor.Graph.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -907,6 +915,7 @@
     "path": "src/composition/editor/framework/Inno.Editor.Inspection/Inno.Editor.Inspection.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -916,6 +925,7 @@
     "path": "src/composition/editor/framework/Inno.Editor.Interactions/Inno.Editor.Interactions.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -925,6 +935,7 @@
     "path": "src/composition/editor/framework/Inno.Editor.Settings/Inno.Editor.Settings.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -961,6 +972,7 @@
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Hierarchy/Inno.Editor.Panel.Hierarchy.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -970,6 +982,7 @@
     "path": "src/composition/editor/panels/Inno.Editor.Panel.Inspector/Inno.Editor.Panel.Inspector.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1024,6 +1037,7 @@
     "path": "src/composition/editor/presentation/Inno.Editor.Assets.ImGui/Inno.Editor.Assets.ImGui.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1033,6 +1047,7 @@
     "path": "src/composition/editor/presentation/Inno.Editor.Graph.ImGui/Inno.Editor.Graph.ImGui.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1042,6 +1057,7 @@
     "path": "src/composition/editor/presentation/Inno.Editor.ImGui/Inno.Editor.ImGui.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1051,6 +1067,7 @@
     "path": "src/composition/editor/presentation/Inno.Editor.Shaders.ImGui/Inno.Editor.Shaders.ImGui.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1105,6 +1122,7 @@
     "path": "src/content/animation/Inno.Animation/Inno.Animation.csproj",
     "entry": "content/en/api/projects/inno-animation.md",
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1114,6 +1132,7 @@
     "path": "src/content/assets/Inno.Assets.Pipeline/Inno.Assets.Pipeline.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1123,6 +1142,7 @@
     "path": "src/content/assets/Inno.Assets/Inno.Assets.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1141,6 +1161,7 @@
     "path": "src/content/references/Inno.References/Inno.References.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1159,6 +1180,7 @@
     "path": "src/content/scene/Inno.Scene/Inno.Scene.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1186,6 +1208,7 @@
     "path": "src/foundation/core/Inno.Core.Diagnostics/Inno.Core.Diagnostics.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1195,6 +1218,7 @@
     "path": "src/foundation/core/Inno.Core.Events/Inno.Core.Events.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1213,6 +1237,7 @@
     "path": "src/foundation/core/Inno.Core.Graphs/Inno.Core.Graphs.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1231,6 +1256,7 @@
     "path": "src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1240,6 +1266,7 @@
     "path": "src/foundation/core/Inno.Core.Input/Inno.Core.Input.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1267,6 +1294,7 @@
     "path": "src/foundation/core/Inno.Core.Logging/Inno.Core.Logging.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1276,6 +1304,7 @@
     "path": "src/foundation/core/Inno.Core.Mathematics/Inno.Core.Mathematics.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1294,6 +1323,8 @@
     "path": "src/foundation/core/Inno.Core.Serialization/Inno.Core.Serialization.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1303,6 +1334,7 @@
     "path": "src/foundation/core/Inno.Core.Settings/Inno.Core.Settings.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1339,6 +1371,7 @@
     "path": "src/foundation/extensibility/Inno.Extensibility.Types/Inno.Extensibility.Types.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1366,6 +1399,7 @@
     "path": "src/runtime/engine/Inno.Runtime/Inno.Runtime.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1438,6 +1472,7 @@
     "path": "src/services/audio/Inno.Audio/Inno.Audio.csproj",
     "entry": "content/en/api/projects/inno-audio.md",
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1456,6 +1491,7 @@
     "path": "src/services/input/Inno.Input/Inno.Input.csproj",
     "entry": "content/en/api/projects/inno-input.md",
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1474,6 +1510,7 @@
     "path": "src/services/rendering/Inno.Rendering.Assets.Authoring/Inno.Rendering.Assets.Authoring.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1483,6 +1520,7 @@
     "path": "src/services/rendering/Inno.Rendering.Assets/Inno.Rendering.Assets.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1492,6 +1530,7 @@
     "path": "src/services/rendering/Inno.Rendering.Runtime/Inno.Rendering.Runtime.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1501,6 +1540,7 @@
     "path": "src/services/rendering/Inno.Rendering.Shaders/Inno.Rendering.Shaders.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "source-clr"
     ],
     "isTest": false
@@ -1510,6 +1550,7 @@
     "path": "src/services/rendering/Inno.Rendering/Inno.Rendering.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1528,6 +1569,7 @@
     "path": "src/services/storage/Inno.Storage/Inno.Storage.csproj",
     "entry": "content/en/api/projects/inno-storage.md",
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1555,6 +1597,7 @@
     "path": "src/services/text/Inno.Text/Inno.Text.csproj",
     "entry": "content/en/api/projects/inno-text.md",
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false
@@ -1582,6 +1625,7 @@
     "path": "src/services/ui/Inno.UI/Inno.UI.csproj",
     "entry": null,
     "surfaces": [
+      "runtime-script",
       "source-clr"
     ],
     "isTest": false

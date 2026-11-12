@@ -37,3 +37,9 @@ The reference below describes the actual CLR surface, including host state-trans
 ## API reference
 
 [Types and exact member contracts](../types/scene/index.md) include the host and relevant protected extension surface. Member-specific contracts supplement the shared ownership and recovery rules above.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-scene/index.md)

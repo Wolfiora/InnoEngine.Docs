@@ -51,3 +51,9 @@ static MaterialPassResolution? SelectPass(
 ## API reference
 
 [Browse types and members](../types/rendering/inno-rendering-assets/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-rendering-assets/index.md)

@@ -37,7 +37,7 @@ public static class Inno.Tooling.Architecture.DocumentationReferences
 Exports documentation project facts from the same source inventory used by architecture coverage.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L18).
 
 ## `ExportApi`
 
@@ -49,7 +49,8 @@ public static int Inno.Tooling.Architecture.DocumentationReferences.ExportApi(st
 ```
 
 Exports selected CLR source contracts using the existing evaluated API extractor, independently of Wiki pages.
-This operation does not certify script projection, behavioral prose, examples or product execution.
+An explicit script surface reads prepared logical reference assemblies and compiler-produced origin metadata.
+This operation does not certify behavioral prose, examples or product execution.
 
 **Parameter `arguments`:** Required engine-root, dotnet, output and one or more project options; optional configuration and target.
 Optional artifacts-path and sdk-snapshot select already prepared outputs and one resolved graph with
@@ -57,6 +58,10 @@ matching properties and owners. The caller owns the execution boundary and closi
 a supplied graph does not independently establish freshness or certify the exported contracts.
 Project paths are relative to the engine root and must occur in its actual source inventory.
 The selected SDK and prepared references supply compilation facts; no product build is requested.
+Script extraction selects surface, runtime-reference and optional editor-reference instead of project,
+with repeated source-reference manifests resolving exact engine owners. Its SDK evaluation is preparation,
+with one explicit framework-project supplying the framework closure instead of evaluating all API owners;
+never part of a prepared-snapshot query. Missing origin metadata requires current compiler artifacts.
 
 **Parameter `cancellationToken`:** Cancels evaluated capture and extraction before atomic publication.
 
@@ -72,7 +77,7 @@ Source API certification remains separate from this extraction result.
 **Throws `System.OperationCanceledException`:** The caller cancels capture, extraction or publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L51).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L56).
 
 ## `ExportProjects`
 
@@ -100,7 +105,7 @@ Writes a deterministic project inventory without claiming evaluated API surfaces
 **Throws `System.OperationCanceledException`:** The caller cancels before publication.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L297).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L304).
 
 ## `ValidateApiAsync`
 
@@ -137,4 +142,4 @@ certify authored prose, script projections, examples, other targets or publicati
 **Throws `System.OperationCanceledException`:** The caller cancels before a complete comparison report is published.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L126).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationReferences.cs#L133).

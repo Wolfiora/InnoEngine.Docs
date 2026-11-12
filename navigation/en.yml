@@ -205,6 +205,9 @@
     - slug: backends/dotnet-serialization
 - label: API Reference
   items:
+    - slug: api
+    - slug: api/runtime-script
+    - slug: api/editor-script
     - label: Rendering reference
       items:
         - slug: api/projects/inno-rendering
@@ -219,7 +222,6 @@
         - slug: api/projects/inno-assets
         - slug: api/projects/inno-assets-pipeline
         - slug: api/projects/inno-content
-    - slug: api
     - slug: api/projects/inno-tooling-documentation
     - label: Content reference
       items:

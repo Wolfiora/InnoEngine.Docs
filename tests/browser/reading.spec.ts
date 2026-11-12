@@ -10,6 +10,8 @@ const journeys = [
   ['contributing/testing/inno-tooling-validation-tests/', 'Validation planning and evidence tests'],
   ['extending/editor-panels/', 'Add an Editor panel'],
   ['api/types/scene/gameobject/', 'GameObject'],
+  ['api/runtime-script/inno-scene/innoengine.scene.scenemanager/', 'SceneManager'],
+  ['api/editor-script/inno-editor-core/innoeditor.core.editorstate/', 'EditorState'],
 ] as const;
 
 for (const theme of ['light', 'dark'] as const) {
@@ -56,6 +58,21 @@ test('keyboard search reaches a task and handles empty results', async ({ page }
   await page.keyboard.press('Escape');
   await expect(dialog).not.toBeVisible();
   await expect(page.getByRole('button', { name: 'Search', exact: true })).toBeFocused();
+});
+
+test('script references expose caller obligations and exact declarations', async ({ page }) => {
+  for (const [route, identity] of [
+    ['api/runtime-script/inno-scene/innoengine.scene.scenemanager/', 'InnoEngine.Scene.SceneManager'],
+    ['api/editor-script/inno-editor-core/innoeditor.core.editorstate/', 'InnoEditor.Core.EditorState'],
+  ]) {
+    await page.goto(route);
+    await expect(page.getByRole('main')).toContainText(identity);
+    const callingGuide = page.getByRole('main').getByRole('link', { name: 'Use the script API', exact: true });
+    await expect(callingGuide).toBeVisible();
+    await callingGuide.click();
+    await expect(page).toHaveURL(/\/manual\/scripting\/use-script-api\/$/);
+    await expect(page.getByRole('main')).toContainText('does not establish a supported construction path');
+  }
 });
 
 test('short diagnostic identities remain readable inside scrolling tables', async ({ page }) => {
@@ -131,4 +148,9 @@ test('capture representative reading surfaces for visual review', async ({ page 
   await page.evaluate(() => localStorage.setItem('starlight-theme', 'dark'));
   await page.goto('api/types/scene/gameobject/');
   await page.screenshot({ path: testInfo.outputPath('api-dark.png') });
+  await page.goto('api/editor-script/inno-editor-core/innoeditor.core.editorstate/');
+  await page.screenshot({ path: testInfo.outputPath('editor-script-dark.png') });
+  await page.evaluate(() => localStorage.setItem('starlight-theme', 'light'));
+  await page.goto('api/runtime-script/inno-scene/innoengine.scene.scenemanager/');
+  await page.screenshot({ path: testInfo.outputPath('runtime-script-light.png') });
 });

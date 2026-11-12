@@ -1,0 +1,96 @@
+{
+  "project": "Inno.Animation",
+  "outputDirectory": "content/en/api/runtime-script/inno-animation",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-animation#target-and-service-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animation.md",
+      "sha256": "22e999ce9f3f29b6875303854022c6d719e79e46e5df83ebbefc107f801d0fd8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationbindingid.md",
+      "sha256": "d08eaccc05b71aa886e0d72acb439f03e6cdd42aa50278d640e1f359d726619c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationbindingprovider.md",
+      "sha256": "96673db000c8a06984f9ca08b9393e7b87b5fcb0d854fab34b0b36220fda9c72"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationbindingproviderattribute.md",
+      "sha256": "e5b10f9c779da04e1b3d347a9e13e8cd7b9d3a353b442cab7165816f18a6a1f7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationclipasset.md",
+      "sha256": "8777efe16353a674bffdc416e068cdc47fa249e19efa3792cfc168fbccbf5773"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationclock.md",
+      "sha256": "eeb885878151dcc6a32f3adb056f3481e3410e26786faa5719e2a2ae1a5806e5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationeventmarker.md",
+      "sha256": "b778399866e0751a0333e0cf2b697396bd43f4de7e13594cd77b9f9cf8b5b1e7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationinterpolation.md",
+      "sha256": "61493b9fbb5e8496486ace210bfa1fbf72d032bab8290818aff0dafc91c5006f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationkeyframe.md",
+      "sha256": "d486d6d7fc25f6b56ed4fb993da60edc278c5a288eb61afce884a0c3d44ec9b0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationmarkerevent.md",
+      "sha256": "65d7af32ae241ad7022b876fd719f5de2df7478864be0f6670fc8b10e26012a8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationplaybackhandle.md",
+      "sha256": "ed3e22c6619643d7e36c015d66265d66c0af423c336dc2faff04a1075e7aac92"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationplaybackstate.md",
+      "sha256": "ccf69833ec1b902ae7c10b2f6b696f84638cd2b418e58d9ce801ff1782aef197"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationplayoptions.md",
+      "sha256": "5d3cbfc272975b79915e0c32b9e554027c611de99752f571f55bec2655984e74"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationsample.md",
+      "sha256": "18e2947aaccf44eb18e8c262cd9e6cc7e62f685bddc79a3607451db3f4dc4c76"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationtarget.md",
+      "sha256": "6d57e51889f83040d1826f21f3079aea63445d2dd5f61be935f60a887a64dfdc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationtrack.md",
+      "sha256": "faa2946c9bead9fbb423ab317aa78287f4f1c6ed8612a5af0d44d2d9151009f8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationvalue.md",
+      "sha256": "36a0fd6aee14896833ae0bf31c8845ae141f305f33531b7afb0edeb84e03256f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.animationvaluekind.md",
+      "sha256": "3cb4e3d26b7f86adc58d59d29d5782fea3b67f895e84447c614407f9dac87c8f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/innoengine.animation.ianimationbindingsink.md",
+      "sha256": "fd605099790ded4ede0cd7c366636e888bfcf12630906b231679714c928b5054"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-animation/index.md",
+      "sha256": "c8d288d957c6d21e2c8bb02a25eb641eb44562736ec971b653d1cd3424c3d964"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

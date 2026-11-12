@@ -60,3 +60,9 @@ public sealed class ViewportExtentContributor : EditorViewportContributor
 ## API reference
 
 [Types and exact member contracts](../types/editor-domains/inno-editor-rendering/index.md) preserve captured declarations and source XML.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-rendering/index.md)

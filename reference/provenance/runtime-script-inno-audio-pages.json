@@ -1,0 +1,184 @@
+{
+  "project": "Inno.Audio",
+  "outputDirectory": "content/en/api/runtime-script/inno-audio",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-audio#playback-and-device-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audio.md",
+      "sha256": "e542f0fea1e7eb373408160443a294d0efd1e29306095954ea69ac3daa75becb"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiobusdefinition.md",
+      "sha256": "1cf77e5d288f414fa50318496abb9c34bfc29f205e8b0afa705318b0a6665306"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiobushandle.md",
+      "sha256": "a5fc9e134f8a89e77e3e415965d9133afaca923a547fed756a33eb44dd84b719"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiobusid.md",
+      "sha256": "483aa13dc60e9c2ddc87a0250c3a5fabb2e634364e6127f47e8ae2b10273300f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocapabilities.md",
+      "sha256": "2d0a036835f7649791963134aa0714aaa0dc707e3292a02985d83239c508d38b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioclipasset.md",
+      "sha256": "2a11c05ca0dfeca76eeb2c358dd0be9b0d269ec84a9654cbad658112f956c9ec"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocliphandle.md",
+      "sha256": "acbcf82f0f802148ad7ea62a5d0e2b24ac480e81776c033c8cb5a6e9b523819c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocliploadmode.md",
+      "sha256": "3399eaf1c230fb32b1b143f890424b8db118546f22fc5819b7d20a85387db036"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioclipmetadata.md",
+      "sha256": "52586a25388402f7fdc704d45fd34e29df3f198a8c9ac61117d10de17b2971d9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocodecid.md",
+      "sha256": "cf45e46f9cfa53a8f7f30cb576c5afd1fdcd3b20ce3d9d733b2feaf406338682"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocompletionreason.md",
+      "sha256": "4a5236538565868647898047189d7d0b93eb22780a3a3d267c7690965a4fe65c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocontentprovider.md",
+      "sha256": "afa0e1c6ce8685c5283452472974d9b885768d9f0828efcd2810d631bcd3074f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocontentprovidercontext.md",
+      "sha256": "47914c1a4b227b89d09ce2d4f2a7ff600de951766c337edd13ab3a9c112c659c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiocontentproviderextensionattribute.md",
+      "sha256": "8cdc77f80803bcb81d4c0671e1b4ad34fc1b048b88f9eef8622a963930b52527"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiodevicestate.md",
+      "sha256": "e1f9d0216693dc8939267a85c8f08677f35e262bc83bdbc26515a047ff8e1bfd"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiodistancemodel.md",
+      "sha256": "2683b468cd754429eae8179fed1b1dbf39dd551c4e112d06b3427c541fc08ad5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioemittersnapshot.md",
+      "sha256": "0485bc2f848e13211e016dadd6cf017e1bf0c566f87d048136da20da737e147c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiolistenerhandle.md",
+      "sha256": "63b002f3382fc0d0b728a0258bb831d126362122cb4e623d60bd27629133543f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiolistenersnapshot.md",
+      "sha256": "12d5149055202eb9b53340d0ef2868ed2060512b76001a97899b2c329c69d805"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiolistenerstate.md",
+      "sha256": "ecc4a9fcd6b3332d5d092eb8d1b1d857ef6beaac7fe8070a2b4580439324dc45"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixer.md",
+      "sha256": "e9422f5cbb889aebaebba8b0a56a7fc4d4605d1309333deb1fa015f2d4ddd42b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerasset.md",
+      "sha256": "d7b6961828e58ba2730f00bef7e8d7fd34d4260bc116f413203ef78971f883a3"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerbuilder.md",
+      "sha256": "6ddc6ea997dc312593dff7e9d1992f622c3a17f1883c5439e5a286548d40dcd1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerextension.md",
+      "sha256": "b86cbae954b1de78fcb64a549fa9d4f82af2572e63c76aff87b26103c5974a15"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerextensionattribute.md",
+      "sha256": "298fd89b2b073f80c02701dce9e1e9c6a232deb33a2f826d4e03c6d8ec90a7b8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerfeature.md",
+      "sha256": "cd8dc5a3fdf52767464e6216066af2b9ee058b4dd3ae77f9ad86c4c636f71fd9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerfeatureconfiguration.md",
+      "sha256": "bb8b8cf22041499341a0cf34049af05c86d49ccc9bca3866f47cc1c41dd19b12"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiomixerfeatureextensionattribute.md",
+      "sha256": "a16e4a233fa15133b66830755ded9e9e08176339df8dc2c4ea83834f680199cd"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioparameterid.md",
+      "sha256": "4f9e66eb76f45ddecf70b5025288cf76f14dd2a4309b8ead0a756e0364653f20"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioplaybackstate.md",
+      "sha256": "1a586c432991f7e0d413fd5937cfe014864b5ba0a138ec7e8db66a38d02d37c8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioplayoptions.md",
+      "sha256": "4f978b238658698ac67645fdc01967c9be12fcdd9efba20cb0db9447dc992dad"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioprocessorconfiguration.md",
+      "sha256": "6fad0a4781788186386cc88c5c627950b3adc08a119cda0a134a858e586d4558"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioprocessorid.md",
+      "sha256": "2b15107b166217a0c64f4fd92a186436c5e6da8c01a6c87fcb2b82bcd51e39fb"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioprocessorparameter.md",
+      "sha256": "212d53f6fa52a2ba8eb61f1a2520a7bf29fe895a82562cb1825c83d4756be7b2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audioprojectsettings.md",
+      "sha256": "31b07088cede15c37356d8cc12e7d2438f299d9ea3ad34060f3b2202f3b7f095"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiospatialoptions.md",
+      "sha256": "ba3cfc90a9490f3369bdd6145a0f84fa7b21e570d7428191eb781c7b709d893d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiostatistics.md",
+      "sha256": "bd3f09cba6cbb2adee529678fadc9ad6b77e3d034c667a13f1ca9b2df10d5ee9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiovoicecompletedevent.md",
+      "sha256": "5eb0012bbcc837607828161587e06e3099d451ece99a39bd36e643a02892ef84"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiovoicehandle.md",
+      "sha256": "2db369f68dcb728bdb95ddea61e4f217c3ef95442f34952c7064aa4e9521403f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.audiovoiceparameters.md",
+      "sha256": "2e76943d320ce22ac9cca4565964cb5e16248c040fa750db5e70060208632f1e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/innoengine.audio.serializedaudioextensionstate.md",
+      "sha256": "2def366848c4d7bb6318e823e90381eaae86622e9c129e3fc33fcf66b53b4a3e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-audio/index.md",
+      "sha256": "809d0827a18dec80eaf63d96b1a8eca4e40467a288359b67726f153fc958c056"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

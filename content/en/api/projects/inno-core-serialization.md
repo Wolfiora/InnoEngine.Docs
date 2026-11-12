@@ -39,3 +39,10 @@ Read [serialization and generation ownership](../../architecture/serialization.m
 ## API reference
 
 Browse the [exact declarations and member contracts](../types/core-serialization/index.md) in the selected CLR inventory. Source and script-projection certification remain separate.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-serialization/index.md)
+- [Editor script API](../editor-script/inno-core-serialization/index.md)

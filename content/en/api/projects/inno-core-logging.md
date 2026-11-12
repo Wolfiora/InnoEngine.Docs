@@ -35,3 +35,9 @@ The detailed task guide covers file sharing, oversized entries, retained active 
 ## Reference
 
 [Browse exact router, logger, session and sink declarations](../types/core-logging/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-logging/index.md)

@@ -35,3 +35,9 @@ Use diagnostics for persistent current conditions and [Logging](inno-core-loggin
 ## Reference
 
 [Browse exact diagnostic, producer and sink declarations](../types/core-diagnostics/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-diagnostics/index.md)

@@ -27,3 +27,9 @@ The declared Runtime script namespace is `InnoEngine.Graphs`. Registry-taking va
 ## API reference
 
 Browse the [exact types and member contracts](../types/core-graphs/index.md) in the selected CLR surface. Each declaration links to its captured source and preserves its shared constraints.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-graphs/index.md)

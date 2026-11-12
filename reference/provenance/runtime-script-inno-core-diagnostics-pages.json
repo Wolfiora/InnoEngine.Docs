@@ -1,0 +1,36 @@
+{
+  "project": "Inno.Core.Diagnostics",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-diagnostics",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-diagnostics#producer-and-presentation-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-diagnostics/innoengine.diagnostics.diagnostic.md",
+      "sha256": "83ba80f69e410109d37e2bd837ce4da667e8f847757c3a68466fb302d31ea4d2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-diagnostics/innoengine.diagnostics.diagnosticlocation.md",
+      "sha256": "42986fc9898c41b26e66aa14971bc0faf3027d7a2c21552e70f3790c1e5cb3f3"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-diagnostics/innoengine.diagnostics.diagnosticseverity.md",
+      "sha256": "267820d262d1a5509d77dd05b86f06cee0563cc683ac4855ad3713d4d8074976"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-diagnostics/innoengine.diagnostics.idiagnosticreporter.md",
+      "sha256": "404686a5afb288c7b975c2fb3b4f7ab794aaf43ad1aa71301396abeb08f39b4e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-diagnostics/index.md",
+      "sha256": "37a1982109feae5be25cc9c7fa57389ed082c281d1165a4ca531d54f250332f7"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

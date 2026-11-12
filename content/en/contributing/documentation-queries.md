@@ -154,6 +154,28 @@ Repeat `--project` to capture multiple owners together. The existing SDK graph a
 
 The exported `source-clr` model preserves exact declarations, documentation IDs, signature hashes, source locations and inherited XML descriptions. It describes the requested configuration and target. It does not invent runtime/editor script surfaces or certify prose, examples, Native execution or platform support. Source API verification remains a distinct evidence obligation. Normal snapshot queries never invoke this operation.
 
+## Capture actual script surfaces
+
+First generate the project's current logical references through the [scripts command](compile-project-scripts.md). Use the exact Runtime and Editor DLL paths recorded in the generated project, including their adjacent XML. The XML carries type origins from the compiler's resolved exports; the DLL determines which members actually exist. Namespace substitution is not an API selector.
+
+```sh
+dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs export-api \
+  --engine-root /work/InnoEngine \
+  --dotnet /selected-sdk/dotnet \
+  --surface runtime-script \
+  --framework-project src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj \
+  --runtime-reference /prepared/IDE/Inno.ScriptApi.Runtime.dll \
+  --source-reference /work/InnoEngine.Docs/reference/api/core-identity.json \
+  --source-reference /work/InnoEngine.Docs/reference/api/scene.json \
+  --output /work/InnoEngine/artifacts/reference/runtime-script.json
+```
+
+Repeat `--source-reference` for the complete captured source-owner set required by the selected facade. The two paths above illustrate the option syntax; a complete engine facade requires additional owner manifests. Missing or ambiguous owners fail explicitly. `--framework-project` selects one actual project for SDK framework resolution; it does not select script exports or evaluate every documented assembly.
+
+For the Editor surface, use `--surface editor-script` and add `--editor-reference` with the actual Editor DLL. Its metadata closure includes the Runtime reference. The emitted facts retain the actual owner, exact logical symbol, declaration, XML and input hashes. Compiler-supplied members retain their source classification. A constructor present only in the facade is marked `projectionOnly` and receives an explicit unsupported-construction constraint, not a fabricated engine implementation.
+
+These preparation commands do not run during a query. After publishing the new pages into a snapshot, resolve logical symbols with `docs symbol --surface runtime-script` or `--surface editor-script`; source CLR lookups remain independently qualified.
+
 ## Maintain generated reference pages
 
 Write the project's explanation and shared use contracts first. Bind the extracted facts in `reference/engine.lock.json`, declare their actual surface in the derived project manifest, and refresh the canonical catalog. The reference writer requires those exact inputs; it never selects a project by its page title.

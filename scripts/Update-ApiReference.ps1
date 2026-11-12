@@ -2,6 +2,7 @@ param(
     [Parameter(Mandatory)][string]$Facts,
     [Parameter(Mandatory)][string]$Project,
     [Parameter(Mandatory)][string]$Contract,
+    [string[]]$AdditionalContracts = @(),
     [Parameter(Mandatory)][string]$OutputDirectory,
     [Parameter(Mandatory)][string]$OwnershipManifest,
     [string]$Catalog = 'artifacts/canonical-catalog.json',
@@ -262,6 +263,20 @@ $contractParts = $Contract.Split('#', 2)
 $contractPage = @($catalogModel.pages | Where-Object id -CEQ $contractParts[0])
 if ($contractPage.Count -ne 1 -or ($contractParts.Count -eq 2 -and $contractPage[0].sections.Keys -cnotcontains $contractParts[1])) { throw 'The shared contract is absent from the canonical catalog.' }
 if ((Hash ([IO.File]::ReadAllBytes((Resolve-Owned $contractPage[0].path)))) -cne $contractPage[0].contentIdentity) { throw 'The shared contract changed; refresh the canonical catalog.' }
+$contractLines = @('  - ' + $Contract)
+$additionalContractLinks = @()
+foreach ($additional in $AdditionalContracts) {
+    if ($additional -ceq $Contract -or $contractLines -ccontains ('  - ' + $additional)) { throw 'Duplicate associated contract.' }
+    $parts = $additional.Split('#', 2)
+    $page = @($catalogModel.pages | Where-Object id -CEQ $parts[0])
+    if ($page.Count -ne 1 -or ($parts.Count -eq 2 -and $page[0].sections.Keys -cnotcontains $parts[1])) { throw 'An associated contract is absent from the canonical catalog.' }
+    if ((Hash ([IO.File]::ReadAllBytes((Resolve-Owned $page[0].path)))) -cne $page[0].contentIdentity) { throw 'An associated contract changed; refresh the canonical catalog.' }
+    $contractLines += '  - ' + $additional
+    $link = [IO.Path]::GetRelativePath($output, (Resolve-Owned $page[0].path)).Replace('\', '/')
+    if ($parts.Count -eq 2) { $link += '#' + $parts[1] }
+    $label = if ($page[0].title) { $page[0].title } else { $parts[0] }
+    $additionalContractLinks += '[' + $label + '](' + $link + ')'
+}
 $contractLink = [IO.Path]::GetRelativePath($output, (Resolve-Owned $contractPage[0].path)).Replace('\', '/')
 if ($contractParts.Count -eq 2) { $contractLink += '#' + $contractParts[1] }
 
@@ -288,6 +303,8 @@ if ($scopeOwner.apiCatalogExclusions) {
     $symbols = @($scope.symbols)
 }
 $types = @($symbols | Where-Object kind -CEQ NamedType | Sort-Object id)
+$uidPrefix = 'api.' + $Project.ToLowerInvariant() + '.'
+if ($factsModel.model -cne 'source-clr') { $uidPrefix += $factsModel.model + '.' }
 $typePaths = [Collections.Generic.Dictionary[string,string]]::new([StringComparer]::Ordinal)
 foreach ($type in $types) {
     $slug = [regex]::Replace((Short-Name $type.id).ToLowerInvariant(), '[^a-z0-9._-]', '-')
@@ -307,12 +324,14 @@ foreach ($type in $types) {
     $absolute = Resolve-Owned $relative
     if ([IO.File]::Exists($absolute) -and -not $owned.ContainsKey($relative)) { throw "Refusing to overwrite an authored page: $relative" }
     $name = Short-Name $type.id
+    if ($factsModel.model -cne 'source-clr') { $name = $type.id.Split('.')[-1] }
     $lines = [Collections.Generic.List[string]]::new()
     $lines.AddRange([string[]]@('---', ('title: ' + (ConvertTo-Json $name -Compress)), ('description: ' + (ConvertTo-Json ("Reference for $name in $Project.") -Compress)),
-        ('uid: api.' + $Project.ToLowerInvariant() + '.' + (Hash $utf8.GetBytes($type.id)).Substring(0, 16)), 'kind: api',
-        'owners:', ('  - ' + $Project), ('apiSurface: ' + $factsModel.model), 'contracts:', ('  - ' + $Contract), '---', ('# ' + (Code $name)), '',
+        ('uid: ' + $uidPrefix + (Hash $utf8.GetBytes($type.id)).Substring(0, 16)), 'kind: api',
+        'owners:', ('  - ' + $Project), ('apiSurface: ' + $factsModel.model), 'contracts:', ($contractLines -join "`n"), '---', ('# ' + (Code $name)), '',
         ('This reference describes ' + (Code $name) + ' in ' + (Code $Project) + '. Read the [shared contract](' + $contractLink + ') for its ownership, availability and lifecycle boundaries.'), '',
         ('**Source context:** ' + (Code $factsModel.model) + ', configuration ' + (Code $factsModel.configuration) + '. Declaration extraction is separate from source execution and script-projection certification.'), ''))
+    if ($additionalContractLinks.Count) { $lines.Add('**Required caller contracts:** ' + ($additionalContractLinks -join ', ') + '.'); $lines.Add('') }
     if ($type.baseType) { $lines.Add('**Base type:** ' + (Code $type.baseType) + '.'); $lines.Add('') }
     if ($type.interfaces.Count) { $lines.Add('**Direct interfaces:** ' + (($type.interfaces | ForEach-Object { Code $_ }) -join ', ') + '.'); $lines.Add('') }
     $members = @($membersByType[$type.id] | Sort-Object kind, id)
@@ -328,12 +347,13 @@ foreach ($type in $types) {
         $detail = [Collections.Generic.List[string]]::new()
         $detail.AddRange([string[]]@('---', ('title: ' + (ConvertTo-Json ($name + ' — ' + $group.Name) -Compress)),
             ('description: ' + (ConvertTo-Json ('Exact ' + $group.Name + ' contracts in ' + $name + '.') -Compress)),
-            ('uid: api.' + $Project.ToLowerInvariant() + '.' + (Hash $utf8.GetBytes($familyIdentity)).Substring(0, 16)), 'kind: api',
-            'owners:', ('  - ' + $Project), ('apiSurface: ' + $factsModel.model), 'contracts:', ('  - ' + $Contract),
-            ('  - api.' + $Project.ToLowerInvariant() + '.' + (Hash $utf8.GetBytes($type.id)).Substring(0, 16) + '#type-declaration'), '---',
+            ('uid: ' + $uidPrefix + (Hash $utf8.GetBytes($familyIdentity)).Substring(0, 16)), 'kind: api',
+            'owners:', ('  - ' + $Project), ('apiSurface: ' + $factsModel.model), 'contracts:', ($contractLines -join "`n"),
+            ('  - ' + $uidPrefix + (Hash $utf8.GetBytes($type.id)).Substring(0, 16) + '#type-declaration'), '---',
             ('# ' + (Code $name) + ': ' + $group.Name), '',
             ('Read these exact member contracts together with the [containing type](' + [IO.Path]::GetFileName($relative) + ') and its [shared ownership contract](' + $contractLink + ').'), '',
             ('**Source context:** ' + (Code $factsModel.model) + ', configuration ' + (Code $factsModel.configuration) + '. This page does not certify execution on other platforms.'), ''))
+        if ($additionalContractLinks.Count) { $detail.Add('**Required caller contracts:** ' + ($additionalContractLinks -join ', ') + '.'); $detail.Add('') }
         foreach ($member in $group.Group) { Add-Declaration $detail $member $type }
         Prepare-Page $memberPath $detail
     }
@@ -365,8 +385,8 @@ if ([IO.File]::Exists($indexAbsolute) -and -not $owned.ContainsKey($indexRelativ
 $index = [Collections.Generic.List[string]]::new()
 $index.AddRange([string[]]@('---', ('title: ' + (ConvertTo-Json ($Project + ' types') -Compress)),
     ('description: ' + (ConvertTo-Json ('Exact extracted types in ' + $Project + '.') -Compress)),
-    ('uid: api.' + $Project.ToLowerInvariant() + '.types'), 'kind: landing', 'owners:', ('  - ' + $Project),
-    'contracts:', ('  - ' + $Contract), '---', ('# ' + $Project + ' types'), '',
+    ('uid: ' + $uidPrefix + 'types'), 'kind: landing', 'owners:', ('  - ' + $Project),
+    'contracts:', ($contractLines -join "`n"), '---', ('# ' + $Project + ' types'), '',
     ('Browse the ' + $types.Count + ' types in this selected source reference. Start with the [shared contract](' + $contractLink + ') for lifecycle, ownership and availability.'), '',
     'This index is derived from the bound API facts. It is secondary reference navigation, not an introduction to the engine or a source execution certificate.', '', '## Types', ''))
 foreach ($type in $types) { $index.Add('- [' + (Code (Short-Name $type.id)) + '](' + [IO.Path]::GetFileName($typePaths[$type.id]) + ')') }
@@ -387,5 +407,6 @@ foreach ($old in $owned.Keys) {
 $record = [ordered]@{project=$Project; outputDirectory=$OutputDirectory; sourceRevision=$sourceRevision; sourceTree=$bound[0].sourceTree; facts=$Facts; factsIdentity=$factIdentity;
     sharedContract=$Contract; xmlLinks=$XmlLinks; xmlLinksIdentity=$xmlLinkIdentity;
     files=@($prepared | ForEach-Object { [ordered]@{path=$_.path;sha256=$_.sha256} })}
+if ($AdditionalContracts.Count) { $record.additionalContracts = $AdditionalContracts }
 Atomic-Write $ownershipPath $utf8.GetBytes(($record | ConvertTo-Json -Depth 8).Replace("`r`n", "`n"))
 Write-Output "Updated $($types.Count) type pages and their index, containing $($captured.Count) source declarations. Authored explanation remains in its shared contract; source certification is unchanged."

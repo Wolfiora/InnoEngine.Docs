@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Actual Runtime and Editor script surfaces](SCRIPT_SURFACES_2026_11_13.md): complete logical declaration coverage, caller contracts, query observations and website acceptance.
+
 - [Script example receipt integration](SCRIPT_RECEIPTS_2026_11_12.md): actual compiler reports, separate Runtime/Editor identities and the corrected engine candidate.
 
 - [Task query entry points](TASK_QUERY_ENTRY_POINTS_2026_11_12.md): full-catalog natural-language journeys, relevant page aliases and explicit source-verification limits.

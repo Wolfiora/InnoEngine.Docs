@@ -36,7 +36,7 @@ Compiles canonical documentation examples against explicit prepared host or scri
 This validator does not parse Markdown again, build products, run example code or certify source provenance.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L22).
 
 ## `ExecuteAsync`
 
@@ -53,11 +53,14 @@ Validates complete example groups in a prepared snapshot using one evaluated SDK
 configuration, target, artifacts-path, sdk-snapshot, runtime-reference and editor-reference. References must already exist.
 A supplied resolved SDK snapshot must match the requested properties and contain every selected example owner.
 Its caller maintains the stable execution boundary and verifies closing inputs; the graph alone does not certify freshness.
+Bound Runtime and Editor script manifests are compared with the actual prepared logical assemblies and
+their compiler-produced origins. A compiling example does not excuse a mismatched projected declaration.
 
 **Parameter `cancellationToken`:** Cancels reading, SDK inspection or compilation before atomic report publication.
 
-**Returns:** Zero when every selected example group compiles; one for failed compilation, missing prerequisites,
-missing explicit contexts or empty required example discovery. The report preserves each group's status.
+**Returns:** Zero when every selected example group compiles and every required script-reference comparison passes;
+one for failed compilation or comparison, missing prerequisites, missing explicit contexts or empty
+required example discovery. The report preserves each group's and reference's status.
 
 **Throws `System.ArgumentException`:** Options are missing, duplicated or unknown, or a requested page does not exist.
 
@@ -66,4 +69,4 @@ missing explicit contexts or empty required example discovery. The report preser
 **Throws `System.OperationCanceledException`:** Validation was canceled; no completed report replaces the previous result.
 
 
-[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/25012ccaa951fd33a19090537c64af9e00234952/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L49).
+[Source declaration](https://github.com/Wolfiora/InnoEngine/blob/e57c3c5015867f41be493c8d3df918677783bf3d/tools/Inno.Tooling.Architecture/DocumentationExamples.cs#L52).

@@ -24,3 +24,9 @@ No long-lived state may retain domain instances, plugin types or callbacks. Draw
 ## API reference
 
 [Types and exact member contracts](../types/editor-presentation/inno-editor-graph-imgui/index.md) retain the engine-owned declarations and captured XML.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-graph-imgui/index.md)

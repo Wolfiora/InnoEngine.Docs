@@ -38,3 +38,9 @@ The reference describes the CLR surface. Actual script projections are separatel
 ## API reference
 
 [Asset types and member contracts](../types/assets/index.md) cover lookup, paths, leases, residency, neutral state and the built-in text/binary asset values.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-assets/index.md)

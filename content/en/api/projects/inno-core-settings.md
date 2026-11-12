@@ -41,3 +41,9 @@ The project depends on Core Serialization and IO for data, Extensibility Types/C
 ## Reference
 
 [Browse setting identities, document stores, lookup and composer declarations](../types/core-settings/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-settings/index.md)

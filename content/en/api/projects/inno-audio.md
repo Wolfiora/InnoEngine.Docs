@@ -47,3 +47,9 @@ Runtime completion events distinguish natural end, explicit stop, stealing, deco
 The reference contains selected host CLR declarations and source XML. Script projection availability is a separate contract; source presence alone does not certify a script surface.
 
 [Browse audio types](../types/audio/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-audio/index.md)

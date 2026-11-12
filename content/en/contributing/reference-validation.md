@@ -56,9 +56,17 @@ Source line numbers and the retired Wiki page field do not define contracts. XML
 
 Mixed target/configuration batches, duplicate owners or symbols, escaping/noncanonical source paths and unavailable compilations fail explicitly. Cancellation or a changing reference input does not replace the previous complete report. Preserve a first failure and record why a later comparison is necessary.
 
+## Script declarations and actual compiler inputs
+
+Runtime and Editor script references are compared as part of their corresponding [script example validation](example-validation.md). The same prepared logical DLLs compile the examples and supply the exact projected declarations. The report records each bound script manifest, the complete owner/symbol comparison, XML identity, and actual Runtime/Editor DLL hashes.
+
+A compiling example cannot hide an obsolete or missing projected API reference: either failure prevents a passing result. CI also rejects a projection report describing different DLLs from those used by the examples. Source certification requires these comparisons for every bound script surface, alongside the host-source checks; it does not infer a script API from the host's namespace names.
+
+Unchanged projection evidence can be reused only with a trusted prior certificate, matching reference content, compiler/source/dependency inputs and environment. Changing a report label supplies none of those requirements.
+
 ## Keep the result within its scope
 
-The report identifies `SelectedSourceReferenceComparison`, selected manifests and their content identities, each project's reference identity, symbol count and differences. Prepared input adds the exact documentation snapshot and its bound source tree. It remains `Unverified` for overall source API certification: matching these facts does not validate executable examples, script projections, behavioral prose, other targets or the trustworthiness of a publication source.
+The source comparison report identifies `SelectedSourceReferenceComparison`, selected manifests and their content identities, each project's reference identity, symbol count and differences. Prepared input adds the exact documentation snapshot and its bound source tree. It remains `Unverified` for overall source API certification: matching these facts does not validate executable examples, script projections, behavioral prose, other targets or the trustworthiness of a publication source.
 
 The command requests source evaluation and extraction, not product builds, Native preparation, network fetching or example execution. Reference resolution uses a design-time execution context, so inspecting already prepared metadata cannot start Task-host or product preparation. A missing reference needed for a nonempty public surface remains a prerequisite failure. Prepare it through its owning build; do not copy a differently configured DLL into place.
 

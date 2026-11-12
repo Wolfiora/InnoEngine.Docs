@@ -1,0 +1,128 @@
+{
+  "project": "Inno.Editor.Rendering",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-rendering",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-rendering",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorgizmocontext.md",
+      "sha256": "7d4ffccd6db53fa752dcb736e8897832fff4d5e02f660a4122e078445bc5214a"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorgizmoprovider.md",
+      "sha256": "1648b2a308137d6641ecdf5b738fcff70ba47cfa56ccc6c41dde289207ebcda4"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorgizmoproviderextensionattribute.md",
+      "sha256": "6c74c36390e86999854cd853a6b5e2f4cdea9cc71dd78ef0e616e85fa9878602"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorpreviewhandle.md",
+      "sha256": "c32a3ba36b6d01e8a620074c7ee86466c28841c82d0b0499e74cc4a88e3f2bd2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorshadercompilationstate.md",
+      "sha256": "810411e13933d51c7fe7ffff55cf71cacbe08bb41aba51ea349ac785a0f2eeae"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorshaderdraftcompilationsnapshot.md",
+      "sha256": "d96fe2e25a6b95cba607818dc37ee6d8388af3576fbfbcf6cd6a1df3dc028a43"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportcomposition.md",
+      "sha256": "0091bbdbeb25d2f9a8bb7db974cf046f4fa46fdbe6bed2c07ac197f6a5529cdd"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportcontext.md",
+      "sha256": "9aa1e882d217ad42b0dd6479d3bb586449293c4b11aef71df9f56ebb17214929"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportcontribution.md",
+      "sha256": "9e80ca8c7403990623bb433606ce4a1c0a66628aa245894ff4d3da3caa4aa866"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportcontributor.md",
+      "sha256": "bb1bfe7e13d0811f682b3db071a7925e39de77619fc91dee836d22d17bfb4982"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportcontributorextensionattribute.md",
+      "sha256": "b24fd6d5c01203171180706fcad131df94a03790db3c9047605b001774cb6797"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportfocusbounds.md",
+      "sha256": "2527cbaf35a1e2bd7f4a41d8004ca35bbe948c14f0d5063373d540fe3a7bdce1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportkindid.md",
+      "sha256": "4561f9a098c1a888559767bf1a5f61f5b276e5c0e6e35fb726bd63cbb3427157"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportlayer.md",
+      "sha256": "55567c9ad6532589e42763ae4b379f15b7db4fbbd988465d4e632c78b844019e"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportmanipulationplane.md",
+      "sha256": "b1412741410b259913f0a8ae1c861361ce1f6066d9f4bb1127ca1f2491f20e0d"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportmanipulationspace.md",
+      "sha256": "ac4e5d25dfaef25c8d8940da655642c946f105b4e5ed2c046b32b76425025d72"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportnavigationcapabilities.md",
+      "sha256": "ce32a81c6edb88e6c3bfdf052f49d27f3b33019512609c76ab6c382942a444fc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportnavigationmode.md",
+      "sha256": "79375a6eadd81667908ec373b1ece3b747a804f0d6621edae2bbe288bb63363c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportnavigationprofile.md",
+      "sha256": "f296551c6a1b28263e316468a8620b4c387ea58e7de06953433315544e8902c3"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportnavigationprofileid.md",
+      "sha256": "5d7d02680dfb2ee51478b32041f0aefb75dbf89d58ff8a508677601f35462870"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportnavigationstate.md",
+      "sha256": "f3bc07b13fd6d7f5dc4938d4f2d12840217521463d8a845e99f221d8d2d700ae"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportpointercontext.md",
+      "sha256": "2ba6bb0e018827c210f81ee54546717568f34ad1710572c37741aca544cd0e0f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportpresentation.md",
+      "sha256": "9bacb414c2245c31a6c2a9afd450427386217889e75c5b10ec5ca89f3db9f368"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.editorviewportprojection.md",
+      "sha256": "c6ee1e3c5f46c292e9ce0de91359cc64eec90afb492862022fd49767d9b955b4"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.ieditorgizmosink.md",
+      "sha256": "29038e3df1e6574056efde73f2c88b6e84e3f0d78412132cd2af581b47336e7b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.ieditorpreviewservice.md",
+      "sha256": "4b5380b5eb0926e362dd8657534db0302f3e1d54c1666a1d303c731100e407cb"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/innoeditor.rendering.pipelinedocuments.md",
+      "sha256": "0145331193b2f1943fe4e06c3f3fbd0ff21a8583f607433c85db9a23b7ec4d11"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-rendering/index.md",
+      "sha256": "c850d749e66cfa808d6b4d898973e469beb8e61a61fece6be600998030428c0a"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

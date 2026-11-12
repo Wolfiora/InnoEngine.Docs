@@ -29,3 +29,9 @@ The Runtime script export declarations select the main math types under `InnoEng
 ## API reference
 
 Browse the [exact types and member contracts](../types/core-mathematics/index.md) in the selected CLR surface. Each declaration links to its captured source and preserves its shared constraints.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-mathematics/index.md)

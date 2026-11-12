@@ -12,8 +12,8 @@ Choose the engine API surface your caller actually receives. Public CLR declarat
 | --- | --- |
 | Host runtime | Engine and runtime composition through managed contracts. |
 | Host Editor | Editor composition and extension contracts available to the host. |
-| Runtime scripts | The selected logical runtime API exported to project scripts. |
-| Editor scripts | The selected logical Editor API exported to project scripts. |
+| [Runtime scripts](runtime-script/index.md) | The selected logical runtime API exported to project scripts. |
+| [Editor scripts](editor-script/index.md) | The selected logical Editor API exported to project scripts. |
 | Managed adapters | Engine integration contracts with explicit target and resource restrictions. |
 | Build/tooling | Build requests, immutable artifacts, validation, and documentation operations. |
 | Test infrastructure | Public fixture contracts used by the corresponding validation owner. |

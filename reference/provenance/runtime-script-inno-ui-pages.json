@@ -1,0 +1,112 @@
+{
+  "project": "Inno.UI",
+  "outputDirectory": "content/en/api/runtime-script/inno-ui",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-ui#document-and-frame-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.iuiservice.md",
+      "sha256": "28b8879d8f4f74a4da7e24742be5c5f4406d2829dc7adc73897b489056ba4697"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.ui.md",
+      "sha256": "9383b0b7c4d79cfeaa85e4b77ba9c1693d695235e1d56f98eb904b86b02e4a3c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uicliprectangle.md",
+      "sha256": "b1b1355a9948684ee688ec89505cdf1a91255833530e6acc164cb2c861fdd542"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uicontexthandle.md",
+      "sha256": "66bfec3ac1b3ab0dfef44dcf733c39d35d68383afa94c18d9c35968048c033d6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uicontextoptions.md",
+      "sha256": "15ba3b4254b173c525e10ec7836637dde5ddced9415551a866fed7a7e4799809"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumentasset.md",
+      "sha256": "da457ec798ae09dd05dce5952687e697e9a927ec548ce9c33150dcf6216a75ac"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumentfontface.md",
+      "sha256": "fc2d5fa5582af940476baf9ded2df39be874ce631d156d040e84c044a2c80d67"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumentfragment.md",
+      "sha256": "c8568a85d1439ff97d368e9e9081653228abf1d8533661131360adb3c3f44f68"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumenthandle.md",
+      "sha256": "c33fa183e0de21475e884e7dc12eabbcdb56f5d5892e61068bf9113e3db6191b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumentlanguageid.md",
+      "sha256": "a67961deccc42e97740f74cf5be83f3497dda0e27b9ba89e666ad39cc0f92019"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidocumentsource.md",
+      "sha256": "3520855ca14807577faebe7066fed3de48ac3cd1330964c2c3cea690881c0043"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uidrawcommand.md",
+      "sha256": "95517757caf015121e1b3f84c834657929e4c09be02cd66980c5f0e1c0a315df"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uievent.md",
+      "sha256": "b778ba6ac3376b5d0f655b6982bc36ae4457ff906557c8294352b9772976b325"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uieventtype.md",
+      "sha256": "b3e7d7287e6d3b9f1fa37101232e916143612beeeea7b8b951a10d0034168f38"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uiexecutioncontext.md",
+      "sha256": "26c4a05d08f323e52c759af444839ed30726fe39309761041c25685f2f2ad448"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uiinputsnapshot.md",
+      "sha256": "17b462cb429a5e1c43ebdc7e69e542322a72945446ddb9a6d1a7690977b328be"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uimeshhandle.md",
+      "sha256": "0541c3bd9d1897f43814c92a4808175748fd13c7b6260b49d6c8576a37020959"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uimeshupdate.md",
+      "sha256": "5c714be47537be0870c93381cd3f273f42cd5ed11099ac9c2bac68e135c2f13e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uirenderframe.md",
+      "sha256": "05bdff615530ed53e0f53469ce2f87198463ee2b82ec85a165e63836e7967cca"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uitexturedata.md",
+      "sha256": "c1f077e5ab6ed325fe5d58f7712526437f4555154589a9808250db48ef4e4765"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uitexturehandle.md",
+      "sha256": "239e9e7d7ac987d86aae3dda51eb76e7b9c7a19b680527e4da203ec7cf4572ca"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uitextureupdate.md",
+      "sha256": "a87f6f64a7d706289b55afb90e115c01d15ea24ebc1930efbc9a25734a290116"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/innoengine.ui.uivertex.md",
+      "sha256": "6c137a282ed5f031265bc2621ddfb045cd84d49e4efaa35e28851bcc241f40c5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-ui/index.md",
+      "sha256": "eb0b5bd3086ac9d9ff86cc7577cabc45a916123ca2d269bd20e6e7dbda1a48fd"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

@@ -53,3 +53,9 @@ static byte[] FreezeGraph(
 ## API reference
 
 [Browse types and members](../types/rendering/inno-rendering-assets-authoring/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-rendering-assets-authoring/index.md)

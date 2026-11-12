@@ -35,3 +35,9 @@ Clear is reusable only after successful retirement; Dispose ends registration. C
 ## API reference
 
 Browse the [exact type and member contracts](../types/extensibility-types/index.md) in the selected CLR surface. Declaration coverage does not certify runtime or collectible-unload behavior.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-extensibility-types/index.md)

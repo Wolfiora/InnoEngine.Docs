@@ -1,0 +1,64 @@
+{
+  "project": "Inno.Text",
+  "outputDirectory": "content/en/api/runtime-script/inno-text",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-text#shaping-and-glyph-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.fontasset.md",
+      "sha256": "bc32f95836226b7052bcda715b5d467be4ee3c039a78e75748a8e7256b448dd0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.fontmetadata.md",
+      "sha256": "b08ea362cf4f240eed1c10834d63a38c5219dfe9b192aef82a957e3257188e6b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.glyphbitmap.md",
+      "sha256": "a1b9e0fa4171f9525d91214a36dc846c8850c93bd7f794d6c57261f51c2e25b4"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.text.md",
+      "sha256": "375693d7f1f36c2484eb8531eb7e46b8b892776c3744deabe83394a2ea122fca"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textdirection.md",
+      "sha256": "7bc8e85926f74833dd5fd8b62639771a870e5043f159e1289d66711e90edc826"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textfontstyle.md",
+      "sha256": "8db78a7058f755f78376cdf8dc5987aabec98b7e09648f8cad46d60872ae7a79"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textglyph.md",
+      "sha256": "c52be96ae95382eb12c1fec708220da3ed6c826a2d7bcbeddddf0fd6808c8593"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textlayout.md",
+      "sha256": "ddd96335da6df9acc36f197e3d2f8f7050244846c98270549a68f77ca23420ec"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textmetrics.md",
+      "sha256": "a062a5d83c21e41ebc2ccdd3b96d5c2d14248c29f6597b98625091acc23f6e40"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textshapingoptions.md",
+      "sha256": "8f0f5c084d54b63ac14268e6569b7633384f826b9aaedef6df2a203964b843fc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/innoengine.text.textstyle.md",
+      "sha256": "e57a73aafbf812e0bdb697e8963a010cf5a26fa0fb16b5f53194fe7bbf02146b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-text/index.md",
+      "sha256": "cb8fe217c5f3f69907389d8bf3411c7373dc914860974352d7a086af56cf4916"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

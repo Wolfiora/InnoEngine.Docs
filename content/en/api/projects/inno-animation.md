@@ -33,3 +33,9 @@ Binding sinks receive final samples instead of writing reflected property names.
 Clips are validated before import/play, and playback captures independent track, keyframe and marker payload copies. Later editing of the authoring asset does not change a running snapshot. Exact constructor, validation, sampling and facade contracts are listed in the generated reference; use the task guides for complete workflows.
 
 [Browse animation types](../types/animation/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-animation/index.md)

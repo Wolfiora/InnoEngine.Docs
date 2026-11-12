@@ -66,3 +66,9 @@ The reference below describes evaluated CLR source declarations. Script projecti
 The bound source reference covers public and relevant protected contracts. Its type pages retain exact overloads and source XML; tasks explain the owning workflow.
 
 [Browse Editor Core types](../types/editor-core/index.md).
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Editor script API](../editor-script/inno-editor-core/index.md)

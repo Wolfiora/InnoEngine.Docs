@@ -49,3 +49,9 @@ The registry's internal synchronization does not establish thread safety for an 
 | [RuntimeIdentity](../types/core-identity/runtimeidentity.md) | Domain-qualified, generation-safe transient object address. |
 
 These references describe the evaluated CLR source contract. They do not certify runtime or Editor script projections, which require their own export manifests and acceptance.
+
+## Logical script references
+
+The compiler-selected script declarations are separate from this project's host CLR surface. Read the script calling guide and the associated module contracts before using a projected member.
+
+- [Runtime script API](../runtime-script/inno-core-identity/index.md)
