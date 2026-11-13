@@ -6,7 +6,11 @@ Read the [documentation rulebook](.agents/rulebook/README.md). It is the same au
 
 Use the Node version in `.node-version`, install with `npm ci`, and start the local site with `npm run dev`. Run the relevant checks and `npm run build` before submitting a PR. Preview output is not a certification of engine behavior.
 
-Changes to public behavior use a paired engine/documentation PR. Include the exact engine and Docs identities, actual checks, and remaining limitations. Do not automatically merge or publish unverified candidates.
+Start from the persistent `draft` branch. Use a feature PR into `draft` for tutorials, explanations and presentation changes. A branch without a PR does not run CI. Draft pushes and PRs run documentation checks and provide a preview; they do not deploy. A maintainer manually creates and merges a `draft` to `main` PR using a merge commit. The validated site then deploys automatically; keep `draft` for subsequent work.
+
+API facts and default descriptions arrive automatically after engine `master` updates. Maintain source XML in InnoEngine. To write a richer API explanation, edit the particular type or member Markdown and set `source: manual`. This protects its prose while declarations continue to follow source. `source: xml` and missing markers remain automatically managed. Deleted APIs with manual prose become editorial work, not available API entries. Missing manual explanations produce neutral warnings and do not block publication.
+
+Docs uses its committed API version. An unrelated engine commit or slow full-engine matrix does not block a documentation correction. API integrity, broken links, failed examples and failed website builds still block. No paired engine PR metadata is required, and no PR is automatically merged.
 
 ## Browser acceptance
 

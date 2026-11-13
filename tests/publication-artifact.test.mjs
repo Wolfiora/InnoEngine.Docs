@@ -4,6 +4,7 @@ import path from 'node:path';
 import os from 'node:os';
 import { mkdtemp, writeFile, readFile, rm, mkdir, link } from 'node:fs/promises';
 import { createPublication, verifyPublication } from '../scripts/publication-artifact.mjs';
+import { createHash } from 'node:crypto';
 
 async function fixture(t) {
   const site = await mkdtemp(path.join(os.tmpdir(), 'inno-publication-'));
@@ -12,11 +13,13 @@ async function fixture(t) {
   await mkdir(path.join(site, 'manual'));
   await writeFile(path.join(site, 'manual/index.html'), '<h1>Manual</h1>');
   const catalog = { snapshot: 'a'.repeat(64), contentIdentity: 'b'.repeat(64), sourceApiStatus: 'Verified',
-    sourceEvidenceIdentity: 'f'.repeat(64),
+    references: [{ model: 'source-clr', configuration: 'Debug', target: null, identity: 'f'.repeat(64) }],
     repository: 'https://github.com/Wolfiora/InnoEngine', revision: 'c'.repeat(40), sourceTree: 'd'.repeat(40) };
   const completion = { status: 'Passed', scope: 'CompleteProjection', sourceApiStatus: 'Verified', errors: [],
     exampleEvidence: { status: 'Passed', required: 1, covered: 1 },
-    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, sourceEvidenceIdentity: catalog.sourceEvidenceIdentity };
+    snapshot: catalog.snapshot, contentIdentity: catalog.contentIdentity, api: { missingSourceCaptures: [] },
+    apiInputsIdentity: createHash('sha256').update(JSON.stringify(catalog.references.map(reference => [reference.model, reference.configuration, reference.target, reference.identity]))).digest('hex'),
+    exampleReceiptsIdentity: 'f'.repeat(64) };
   return { site, catalog, completion, repository: 'Wolfiora/InnoEngine.Docs', commit: 'e'.repeat(40), run: '123', attempt: 2 };
 }
 
@@ -29,12 +32,12 @@ test('promotes exactly the verified files without rebuilding and preserves their
   await assert.rejects(createPublication(f), /EEXIST/);
 });
 
-test('a verification label without the same explicit source certificate cannot be promoted', async (t) => {
+test('a verification label cannot replace the exact selected API input set', async (t) => {
   const f = await fixture(t);
-  delete f.catalog.sourceEvidenceIdentity;
-  await assert.rejects(createPublication(f), /authenticated source certificate/);
-  f.catalog.sourceEvidenceIdentity = 'a'.repeat(64);
-  await assert.rejects(createPublication(f), /authenticated source certificate/);
+  f.catalog.references[0].identity = 'a'.repeat(64);
+  await assert.rejects(createPublication(f), /exact API inputs/);
+  f.catalog.references = [];
+  await assert.rejects(createPublication(f), /exact API inputs/);
 });
 
 for (const state of ['Failed', 'Blocked', 'Skipped', 'Cancelled']) {
@@ -45,9 +48,9 @@ for (const state of ['Failed', 'Blocked', 'Skipped', 'Cancelled']) {
   });
 }
 
-test('rejects an unverified, stale or partial completion', async (t) => {
+test('rejects missing captured owners, stale or partial completion', async (t) => {
   const f = await fixture(t);
-  await assert.rejects(createPublication({ ...f, catalog: { ...f.catalog, sourceApiStatus: 'Unverified' } }), /source-verified/);
+  await assert.rejects(createPublication({ ...f, completion: { ...f.completion, api: { missingSourceCaptures: ['Owner'] } } }), /Only complete/);
   await assert.rejects(createPublication({ ...f, completion: { ...f.completion, snapshot: 'f'.repeat(64) } }), /exact catalog/);
   await assert.rejects(createPublication({ ...f, completion: { ...f.completion, scope: 'AvailableProjection' } }), /Only complete/);
 });

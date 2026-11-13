@@ -1,6 +1,6 @@
 param(
     [Parameter(Mandatory)][string]$Selection,
-    [Parameter(Mandatory)][ValidateSet('documentation', 'engine')][string]$Source,
+    [Parameter(Mandatory)][ValidateSet('documentation')][string]$Source,
     [Parameter(Mandatory)][string]$Destination
 )
 $ErrorActionPreference = 'Stop'
@@ -20,7 +20,7 @@ foreach ($part in [IO.Path]::GetRelativePath($root, $output).Split([IO.Path]::Di
 }
 if (Test-Path -LiteralPath $output) { throw 'Each publication import must retain a distinct owned directory.' }
 $selected = (Get-Content -LiteralPath $Selection -Raw | ConvertFrom-Json).$Source
-$repository = if ($Source -ceq 'engine') { 'Wolfiora/InnoEngine' } else { 'Wolfiora/InnoEngine.Docs' }
+$repository = 'Wolfiora/InnoEngine.Docs'
 if ($selected.id -isnot [long] -and $selected.id -isnot [int]) { throw 'Missing authenticated artifact identity.' }
 if ($selected.id -le 0 -or $selected.digest -cnotmatch '^sha256:[a-f0-9]{64}$') { throw 'Missing authenticated artifact digest.' }
 $zip = $output + '.zip'

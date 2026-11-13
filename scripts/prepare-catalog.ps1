@@ -1,11 +1,8 @@
 param(
     [Parameter(Mandatory)][string]$EngineRoot,
-    [string]$DotnetHost = 'dotnet',
-    [string]$SourceEvidencePath,
-    [string]$SourceEvidenceIdentity
+    [string]$DotnetHost = 'dotnet'
 )
 $ErrorActionPreference = 'Stop'
-if ([bool]$SourceEvidencePath -ne [bool]$SourceEvidenceIdentity) { throw 'Source evidence requires an explicitly authenticated file and digest together.' }
 $root = [IO.Path]::GetFullPath('..', $PSScriptRoot)
 $engine = (Resolve-Path -LiteralPath $EngineRoot).Path
 $binding = Get-Content -LiteralPath (Join-Path $root 'reference/engine.lock.json') -Raw | ConvertFrom-Json
@@ -39,10 +36,20 @@ using var cancellation = new CancellationTokenSource();
 Console.CancelKeyPress += (_, options) => { options.Cancel = true; cancellation.Cancel(); };
 string root = Path.GetFullPath(args[0]);
 string cache = Path.Combine(root, "artifacts", "documentation-query");
+using var editorial = new StringWriter();
+TextWriter output = Console.Out;
+int editorialResult;
+try
+{
+    Console.SetOut(editorial);
+    editorialResult = await DocumentationCommand.ExecuteAsync(["api-check", "--docs-root", root], cancellation.Token);
+}
+finally { Console.SetOut(output); }
+Directory.CreateDirectory(Path.Combine(root, "artifacts"));
+await File.WriteAllTextAsync(Path.Combine(root, "artifacts", "api-editorial.json"), editorial.ToString(), cancellation.Token);
+if (editorialResult != 0) throw new InvalidDataException("API facts and registered content require synchronization; see api-editorial.json.");
 DocumentationResult indexed = await DocumentationStore.IndexAsync(root, root, cache, cancellation.Token);
-DocumentationEvidence? evidence = args.Length == 3
-    ? await DocumentationEvidence.ReadAsync(args[1], args[2], cancellation.Token) : null;
-using DocumentationSnapshot snapshot = await DocumentationStore.OpenAsync(cache, indexed.snapshot, cancellationToken: cancellation.Token, sourceEvidence: evidence);
+using DocumentationSnapshot snapshot = await DocumentationStore.OpenAsync(cache, indexed.snapshot, cancellationToken: cancellation.Token);
 DocumentationCatalogReport catalog = await snapshot.ExportCatalogAsync(cancellation.Token);
 string result = Path.Combine(root, "artifacts", "canonical-catalog.json");
 string staging = result + "." + Guid.NewGuid().ToString("N") + ".tmp";
@@ -96,8 +103,7 @@ try {
     $parallelism = [Math]::Min([Environment]::ProcessorCount, 4)
     & $DotnetHost build $projectPath --output $bundle --artifacts-path $intermediate "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
     if ($LASTEXITCODE -ne 0) { throw "Documentation tooling bootstrap failed: $LASTEXITCODE" }
-    $evidenceArguments = if ($SourceEvidencePath) { @([IO.Path]::GetFullPath($SourceEvidencePath, $root), $SourceEvidenceIdentity) } else { @() }
-    & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root @evidenceArguments
+    & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root
     if ($LASTEXITCODE -ne 0) { throw "Canonical documentation preparation failed: $LASTEXITCODE" }
 }
 finally { Pop-Location }

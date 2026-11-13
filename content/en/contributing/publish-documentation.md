@@ -1,86 +1,74 @@
 ---
-title: Publish verified documentation
-description: Promote an already-verified static site without rebuilding it or exposing publishing credentials to pull requests.
+title: Publish documentation from draft
+description: Review draft, merge it into main, and deploy the exact validated website artifact.
 uid: contributing.publish-documentation
 kind: how-to
 ---
-# Publish verified documentation
+# Publish documentation from draft
 
-Use the **Publish documentation** workflow to promote the exact output of a successful Documentation run. Publication consumes verified files and a matching engine certification; it does not rebuild the site or create an engine release.
+The persistent `draft` branch is the working edition of the documentation. The public website follows `main`. A human publication decision separates automatic API synchronization from what readers see online.
 
-## Prepare a publishable pair
+## Develop and preview
 
-1. Complete the [engine and documentation pairing](pair-engine-documentation.md). The engine's actual Windows/macOS matrix must reconcile successfully against the selected documentation commit and content snapshot.
-2. Let the protected engine evidence relay dispatch **Receive engine source evidence**, or explicitly dispatch that receiver with the successful engine run ID and exact engine commit. The receiver authenticates `documentation-source-certification-attempt-<attempt>` before importing it into the Docs repository. For initial migration, enable bootstrap on the approved migration branches. This setup requires the workflows to be present on their default branches for automatic `workflow_run` delivery; manual bootstrap does not bypass verification.
-3. Confirm that `Documentation validation` passes, including complete project/API coverage, matching source evidence, rendered output and browser journeys.
-4. Record the successful Docs run ID and exact commit, and the matching Engine CI run ID and exact engine candidate commit.
+| Event | Checks and preview | Deploys |
+| --- | --- | --- |
+| Feature branch without a PR | Local checks only | No |
+| Feature PR into draft | Documentation validation and editorial report | No |
+| Push to draft, including API synchronization | Documentation validation and preview artifact | No |
+| Draft-to-main PR | Checks the proposed publication | No |
+| Human merge into main | Validates the publication input and deploys the matching artifact | Yes |
 
-The successful producer retains `documentation-site-attempt-<attempt>` for 90 days. Its `publication.json` records the source binding and every static file's SHA-256. Preview and diagnostic artifacts do not substitute for this verified artifact.
+Manual, architecture and tutorial content belongs to this repository. API synchronization changes only registered API prose, derived navigation, source facts and the engine version binding. See [maintain API documentation](api-documentation.md).
 
-Source certificates cover the exact engine source tree, project inventory and every captured API reference by owner, target and configuration. Missing comparison coverage produces a blocked source status and no certificate. A successful rendering or a user-edited verification label cannot replace that evidence. Candidate jobs never obtain the installation credential. The protected receiver imports data only; it never installs candidate dependencies, runs candidate code or builds the site.
+## Release the documentation
 
-The receiver checks the certificate's producer against the authenticated run and Git commit tree before registering `source-evidence-tree-<tree>-attempt-<attempt>`. Selection and source-only resumption use this exact tree identity. A PR commit and its eventual merge commit can therefore share evidence when their entire input trees are identical; their actual producer identities remain recorded. A different source tree cannot use this path.
+1. Review the draft preview and the proposed `draft → main` PR.
+2. Require **Documentation validation**. Read **API editorial coverage**, whose neutral warnings identify useful writing work without blocking publication.
+3. Merge the PR manually with a **merge commit**. Keep the persistent draft branch; do not squash, reset, force-push or delete it.
+4. Let the main workflow deploy the exact verified static artifact.
+5. Confirm the deployment result and the website's displayed API revision.
 
-The same certificate records the executable examples that actually compiled: stable page identity, ordered code-block identities, host/script surface, reference owners and successful compiler report contexts. Pure prose edits and moved source lines can reuse these inputs. Changed example code, surface or references require fresh compilation evidence. API declaration fences are checked as reference declarations, not mistaken for executable tutorials.
+No workflow automatically creates or merges the publication PR. Before the next draft update, automation incorporates main's ancestry; a genuine conflict stops the update and requires resolution rather than choosing one side.
 
-Input evidence uses certificate-local shared tables. Each file retains its exact repository path and content identity; each source set retains its complete membership. An execution input group binds those sets to its platform, configuration, target and compiler report. Example pages and script projections reference that group instead of embedding the entire build closure for every page. The authenticated certificate digest covers all tables and references. Missing references, path escapes and references to a different execution context are rejected.
+## Know what publication proves
 
-The normalized `inno-documentation-source/2` format has a 16 MiB import boundary. This bounds metadata parsing; it is not a build timeout or permission to omit inputs. A producer that exceeds the boundary fails visibly. Retired certificate formats are not silently converted into current evidence. Queries attach the verified immutable certificate once per snapshot session and do not expand or reread build inputs for each search.
+A successful publication proves that the selected documentation and API package passed their required checks and that the deployed files match the verified site artifact. It does not claim that every API has a manually written explanation or that the latest engine master has completed every functional matrix.
 
-## Reuse a successful preview when evidence arrives
+The committed API package selects the documented engine version. A newer unrelated engine commit does not block a correction to these documents. Source links and the displayed revision identify that selected version; an older API snapshot must not be advertised as the latest engine source.
 
-Documentation CI builds and tests the website in **Documentation projection**. **Certify documentation source** then selects an authenticated certificate using its own repository's read-only token, imports the exact preview artifact with digest and path checks, attaches evidence through the canonical model, and checks full coverage against the same static files. It does not rebuild the site or repeat browser tests.
+Executable examples use their explicitly selected API and reference inputs. Missing required inputs, invalid examples, corrupt API facts, broken links and failed website builds remain blocking.
 
-If evidence arrives later, **Resume certified documentation** retries only a failed evidence-selection job for an unchanged PR head and base, or the unchanged selected branch head. It requires the preceding projection to have passed. Unrelated failures, canceled runs, updated candidates and missing certificates are not retried. The first attempt remains available, and the retry records the new certificate's import run as its reason. Both jobs must succeed before **Documentation validation** can pass.
+## Configure automation permissions
 
-A pull-request artifact remains a preview even if source certification passes. Publishable producers run on the Docs default branch, or through the explicitly approved migration bootstrap. A prepared Docs candidate is never promoted merely because its PR passed.
-
-## Configure evidence access once
-
-An organization-installed GitHub App must be restricted to **InnoEngine** and **InnoEngine.Docs**. Grant repository **Actions: Read and write** and **Contents: Read-only**; Metadata read access is automatic. No webhook server, OAuth client secret, personal token or SSH deployment key is required. Configure the Actions variable `INNO_DOCS_APP_ID` and Actions secret `INNO_DOCS_APP_PRIVATE_KEY` (the complete PEM private key) in both repositories, or through organization settings restricted to these two repositories. Each token requests only the repository and permissions required by its operation:
-
-| Operation | Token scope |
+| Capability | Permission boundary |
 | --- | --- |
-| Engine relay | Docs repository, Actions write for the fixed receiver dispatch. |
-| Docs receiver | Engine repository, Actions read and Contents read. |
-| Engine pairing reconciler | Docs repository, Actions read and Contents read; the ordinary protected engine workflow token writes the exact candidate check. |
-| Docs completion callback | Engine repository, Actions write for the fixed pairing workflow dispatch; the engine independently revalidates the pair. |
-| Publication | Both repositories, Actions read and Contents read. |
-| Candidate validation | Its ordinary Docs repository token, Contents read and Actions read; no App credential. |
-| Resume after evidence import | Protected Docs workflow token, Actions write plus read access to candidate metadata; no candidate execution. |
+| Engine-to-draft API synchronization | GitHub App installed only on InnoEngine and InnoEngine.Docs; installation token restricted to Docs Contents write |
+| Read the producing API artifact | The engine workflow's own repository token |
+| Editorial neutral check | A protected Docs reporting job with Checks write |
+| Pages publication | The Docs deployment job's own Pages write and OIDC token |
+| PR execution | No synchronization private key or deployment permission |
 
-Never put the private key in source, logs, a workflow input or a pull-request artifact. A missing installation is a visible setup blocker, not permission to substitute a personal token in automation.
+The App is not granted workflow editing, automatic merge or main-push authority. Do not put its private key in source, logs, chat or candidate artifacts. Configure the App ID and private key as the protected engine workflow's variable and secret. Ordinary Docs rendering and Pages deployment do not require that App key.
 
-GitHub Pages must use Actions deployment. The `github-pages` environment and branch protection remain separate repository controls; their actual configuration must be checked before claiming publication is enforced.
+Set GitHub Pages to **GitHub Actions**, protect main with **Documentation validation** and retain review/discussion requirements. Do not make **API editorial coverage** required. Workflow definitions alone do not prove these repository settings are active.
 
-The App reads cross-repository evidence. Only the final deployment job receives `pages: write` and `id-token: write` through its own repository token. Downloaded candidate content is never executed in that job.
+## Reuse and recover
 
-## Promote the artifact
+A matching content, tooling and configuration identity can reuse a verified site artifact. A different merge commit hash alone does not invalidate identical site inputs. If matching evidence cannot be established, build the documentation once; deployment itself never rebuilds the site or engine.
 
-After the workflows are reviewed and installed on their default branches, a successful **Documentation** run from a push or manual validation on `main` automatically starts **Publish documentation**. The publisher resolves the current engine default-branch commit and its latest trusted push/manual certification, then applies the same artifact and pairing checks as manual promotion. It does not fall back to an older green run when the latest eligible certification failed or is unfinished. Pull requests, forks, failed validation and migration-branch previews cannot trigger automatic deployment.
+A manual redeployment may select only a successful main artifact. Draft previews, failed runs, incorrect source repositories, expired inputs and tampered files are rejected. Failed validation or deployment leaves the previous successful website active.
 
-For an explicit promotion or recovery after a missing prerequisite becomes available, open **Actions → Publish documentation → Run workflow** and enter the four recorded identities. For ordinary publication, use the default branch and leave bootstrap disabled. Bootstrap is limited to the explicitly approved `ai-pipeline` engine and `docs-modernization` Docs development branches and remains manual. Provisioning the App does not install workflows on the default branches or bypass their review requirements.
+Retain diagnostics for 30 days and deliverable artifacts for 90 days. Keep API facts and source identities in Git so the site can be rebuilt after Actions artifacts expire.
 
-The workflow checks:
+## Diagnose a blocked publication
 
-- The repository, workflow, event, current branch head, run conclusion and exact successful attempt.
-- The required aggregate and every actual engine matrix producer.
-- GitHub's archive digest before extraction, bounded archive paths, and every static file against its manifest.
-- The certified engine input tree and the current site's authenticated API and executable example evidence. An exact paired candidate retains its original correspondence; a documentation-only correction reports `SourceEquivalentDocumentation` after checking its new content and static output against the same certified engine inputs.
-- Source eligibility again immediately before preparing the Pages transport.
-
-Only then does a separate job deploy the same static files to [InnoEngine documentation](https://wolfiora.github.io/InnoEngine.Docs/). A rejected candidate does not replace the previous successful deployment. Initial publication is development documentation; stable documentation requires an actual approved engine release.
-
-A documentation-only correction does not need a new engine PR or a repeated full engine matrix when its source tree and required API/example inputs remain certified. A merge commit may also have a different commit identity with the same verified source tree; provenance records both the documented revision and the actual engine run. Different engine input trees do not qualify through this reuse path.
-
-## Diagnose a rejected promotion
-
-| Symptom | Required action |
+| Symptom | Action |
 | --- | --- |
-| Missing App configuration or installation permission | Complete the restricted installation; do not substitute a personal token in the workflow. |
-| Missing, expired or failed producer artifact | Obtain a successful, retained producer result; a preview is not eligible. |
-| Source branch changed | Re-evaluate the candidate against the new inputs and select matching evidence. |
-| Archive digest or file identity differs | Retain the first failure and investigate the artifact; do not rewrite its manifest to force acceptance. |
-| Pairing differs or a platform result is absent | Complete the engine/documentation certification for the exact pair. |
+| API export cannot resolve a required reference or projection | Prepare the actual input in the correct environment; do not substitute stale or empty assemblies |
+| Draft changed while the bot was updating it | Recompute against the new draft head, including any newly manual prose |
+| A newer engine export superseded the selected one | Use the newer complete export; never overwrite it with an older task |
+| Broken links, invalid examples or a failed site build | Fix the reported defect and retain the first failure |
+| API editorial warnings | Review or enrich the indicated type/member; publication remains available |
+| Missing App, branch protection or Pages permission | Complete the repository configuration; report it as an external blocker |
 
-Promotion evidence is retained for 30 days. Record the actual deployment URL and source identities after the deployment succeeds; workflow definitions and local negative tests alone do not establish a live publication.
+Record the actual deployment URL and source identities after deployment succeeds. Local tests, a preview and a workflow file are not proof that the public website has been deployed.

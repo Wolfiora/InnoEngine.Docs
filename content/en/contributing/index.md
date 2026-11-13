@@ -29,11 +29,11 @@ Follow [example validation](example-validation.md) to declare host or script con
 
 ## Coordinate behavior and documentation
 
-Public behavior changes use paired PRs and immutable source identities. Preparing a documentation candidate does not automatically make it the published reference for a merged engine version. Publish only a matching, verified pair.
+Maintain API XML with engine changes. After a human master merge, independent export synchronizes source facts and XML-managed prose into Docs draft. Tutorials and Manual pages are maintained separately. A human draft-to-main merge publishes the validated website; no paired engine PR metadata is required.
 
-[Pair an engine change with documentation](pair-engine-documentation.md) explains immutable PR metadata, merge-candidate identities and blocked selections.
+[Maintain API documentation](api-documentation.md) explains per-type/member XML and manual ownership, script scopes and non-blocking editorial reminders.
 
-[Publish verified documentation](publish-documentation.md) explains artifact-only Pages promotion, restricted evidence access and rejection diagnostics.
+[Publish documentation from draft](publish-documentation.md) explains previews, human release merges, exact artifact deployment and rejection diagnostics.
 
 ## Branding
 

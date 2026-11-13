@@ -1,14 +1,13 @@
 import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
-import { glob } from 'astro/loaders';
 import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
 import { i18nLoader } from '@astrojs/starlight/loaders';
-import { contentEntryId } from '../scripts/documentation-routes.mjs';
+import { canonicalContentLoader } from '../scripts/canonical-content.mjs';
 
 export const collections = {
   i18n: defineCollection({ loader: i18nLoader(), schema: i18nSchema() }),
   docs: defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './content/en', generateId: ({ entry }) => contentEntryId(entry) }),
+    loader: canonicalContentLoader(),
     schema: docsSchema({
       extend: z.object({
         uid: z.string().min(1),
@@ -17,6 +16,10 @@ export const collections = {
         aliases: z.array(z.string()).default([]),
         contracts: z.array(z.string()).default([]),
         apiSurface: z.string().optional(),
+        apiSurfaces: z.array(z.string()).optional(),
+        apiScope: z.enum(['Runtime', 'Editor', 'Authoring']).optional(),
+        source: z.enum(['xml', 'manual']).optional(),
+        symbol: z.string().optional(),
         exampleMode: z.enum(['host', 'runtime-script', 'editor-script']).optional(),
         exampleProjects: z.array(z.string()).optional(),
       }),

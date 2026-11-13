@@ -2,7 +2,7 @@
 const { entry } = Astro.locals.starlightRoute;
 const source = entry.filePath?.replaceAll('\\', '/');
 const href = source?.startsWith('content/en/')
-  ? 'https://github.com/Wolfiora/InnoEngine.Docs/edit/main/' + source.split('/').map(encodeURIComponent).join('/')
+  ? 'https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/' + source.split('/').map(encodeURIComponent).join('/')
   : undefined;
 ---
 {href && <a href={href}>Edit this page on GitHub</a>}

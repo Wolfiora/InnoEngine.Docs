@@ -21,9 +21,9 @@ async function fixture(t) {
   const binding = { repository: 'https://github.com/Wolfiora/InnoEngine', revision: 'a'.repeat(40),
     sourceTree: 'b'.repeat(40), toolingRevision: 'c'.repeat(40), projectManifest: 'reference/projects.json', projectManifestIdentity: digest(projects) };
   const page = { id: 'probe', path: 'content/en/index.md', contentIdentity: digest(body), title: 'Probe', kind: 'project',
-    owners: ['Probe'], surface: null, sections: { probe: 1 }, symbols: {}, contracts: [], includes: [] };
+    markdown: body, owners: ['Probe'], surface: null, sections: { probe: 1 }, symbols: {}, contracts: [], includes: [] };
   const catalog = { ...binding, snapshot: 'd'.repeat(64), contentIdentity: digest(`${page.path}\0${page.contentIdentity}`),
-    sourceApiStatus: 'Unverified', projects: { Probe: 'probe' }, pages: [page] };
+    sourceFiles: { [page.path]: digest(body) }, sourceApiStatus: 'Unverified', projects: { Probe: 'probe' }, pages: [page] };
   await write('content/en/index.md', body);
   await write('reference/engine.lock.json', JSON.stringify(binding));
   await write('reference/projects.json', projects);
@@ -37,7 +37,43 @@ test('available projection is distinct from source API and complete publication 
   assert.equal((await checkProjection(f)).status, 'Passed');
   const complete = await checkProjection({ ...f, complete: true });
   assert.equal(complete.status, 'Failed');
-  assert.match(complete.errors.join('\n'), /Unverified/);
+  assert.match(complete.errors.join('\n'), /lack an evaluated source API capture/);
+});
+
+test('Runtime availability in Editor is bound to the actual shared projection input', async (t) => {
+  const f = await fixture(t);
+  const id = 'T:Probe.Value';
+  const signature = 'public class Probe.Value';
+  const symbol = { id, signature, signatureHash: digest(signature), source: 'src/Value.cs', scriptingScope: 'Runtime' };
+  f.catalog.pages[0].surface = 'runtime-script';
+  f.catalog.pages[0].surfaces = ['runtime-script', 'editor-script'];
+  f.catalog.pages[0].scope = 'Runtime';
+  f.catalog.pages[0].symbols = { [id]: { signatureIdentity: digest(signature), code: [signature] } };
+  delete f.site;
+  f.binding.apiManifests = [];
+  for (const model of ['runtime-script', 'editor-script']) {
+    const facts = { model, configuration: 'Debug', target: null,
+      projectionIdentities: { 'Inno.ScriptApi.Runtime': 'e'.repeat(64), 'Inno.ScriptApi.Editor': 'f'.repeat(64) },
+      projects: [{ name: 'Probe', project: 'src/Probe.csproj', symbols: model === 'runtime-script' ? [symbol] : [] }] };
+    const bytes = JSON.stringify(facts);
+    const file = `reference/${model}.json`;
+    await f.write(file, bytes);
+    f.binding.apiManifests.push({ path: file, sha256: digest(bytes), model, configuration: 'Debug', target: null,
+      sourceRevision: 'a'.repeat(40), sourceTree: 'b'.repeat(40) });
+  }
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  assert.equal((await checkProjection(f)).status, 'Passed');
+  f.catalog.pages[0].codeBlocks = [{ language: 'csharp', text: 'public class Invented', contentIdentity: digest('public class Invented'), declarationSymbols: [id] }];
+  assert.match((await checkProjection(f)).errors.join('\n'), /not a captured API fact/);
+  f.catalog.pages[0].codeBlocks = [];
+  const reference = f.binding.apiManifests[1];
+  const facts = JSON.parse(await readFile(path.join(f.root, reference.path), 'utf8'));
+  facts.projectionIdentities['Inno.ScriptApi.Runtime'] = '0'.repeat(64);
+  const changed = JSON.stringify(facts);
+  reference.sha256 = digest(changed);
+  await f.write(reference.path, changed);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  assert.match((await checkProjection(f)).errors.join('\n'), /different Runtime projection/);
 });
 
 for (const [content, rejected] of [
@@ -55,6 +91,8 @@ for (const [content, rejected] of [
     const text = '# Probe\n\n' + content + '\n';
     await f.write('content/en/index.md', text);
     f.catalog.pages[0].contentIdentity = digest(text);
+    f.catalog.pages[0].markdown = text;
+    f.catalog.sourceFiles['content/en/index.md'] = digest(text);
     const result = await checkProjection(f);
     assert.equal(result.errors.some((error) => error.includes('external consumer reference')), rejected);
   });
@@ -66,7 +104,7 @@ test('same-size edits and new files invalidate canonical content without timesta
   await f.write('content/en/added.md', '# Added\n');
   const result = await checkProjection(f);
   assert.match(result.errors.join('\n'), /exact current Markdown file set/);
-  assert.match(result.errors.join('\n'), /Stale canonical content/);
+  assert.match(result.errors.join('\n'), /Stale canonical input/);
 });
 
 test('an entry and verification label cannot replace an evaluated empty or populated source surface', async (t) => {
@@ -144,31 +182,25 @@ test('native implementation overviews remain covered without native API referenc
   await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
   const report = await checkProjection(f);
   assert.equal(report.status, 'Passed');
-  assert.deepEqual(report.api.excludedNativeProjects, ['Probe']);
+  assert.deepEqual(report.api.excludedProjects, ['Probe']);
   assert.equal(report.api.extractedSymbols, 0);
   f.catalog.projects.Probe = null;
   assert.match((await checkProjection({...f,complete:true})).errors.join('\n'), /lack an authoritative entry/);
 });
 
-test('native documentation scope cannot exempt engine source or test contracts', async (t) => {
+test('retired catalog annotations cannot exempt engine contracts', async (t) => {
   const f = await fixture(t);
-  for (const project of [
-    {name:'Probe',path:'src/Probe.csproj',surfaces:[],apiDocumentation:'backend-native'},
-    {name:'Probe',path:'backends/Probe/native/Probe/Probe.csproj',surfaces:[],apiDocumentation:'backend-native',isTest:true},
-    {name:'Probe',path:'src/Probe.csproj',surfaces:[],apiDocumentation:'skip-everything'}
-  ]) {
-    const projects=JSON.stringify([project]);
-    f.binding.projectManifestIdentity=digest(projects);
-    await f.write('reference/projects.json',projects);
-    await f.write('reference/engine.lock.json',JSON.stringify(f.binding));
-    assert.match((await checkProjection(f)).errors.join('\n'), /outside the backend-native implementation boundary|Unknown API documentation scope/);
-  }
+  const projects = JSON.stringify([{name:'Probe',path:'src/Probe.csproj',surfaces:[],apiDocumentation:'backend-native'}]);
+  f.binding.projectManifestIdentity = digest(projects);
+  await f.write('reference/projects.json', projects);
+  await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
+  assert.deepEqual((await checkProjection(f)).api.missingSourceCaptures, ['Probe']);
 });
 
 test('a supplied catalog cannot read outside the explicit source root', async (t) => {
   const f = await fixture(t);
   f.catalog.pages[0].path = '../outside.md';
-  await assert.rejects(checkProjection(f), /escapes its root/);
+  await assert.rejects(checkProjection(f), /escapes its root|Invalid content source/);
 });
 
 test('license provenance preserves original bytes and rejects normalized or escaping payloads', async (t) => {
@@ -191,7 +223,7 @@ async function apiFixture(t) {
   const signature = 'public string? Probe.Read(string key = "default")';
   const signatureHash = digest(signature);
   const facts = JSON.stringify({ model: 'source-clr', configuration: 'Debug', projects: [
-    { name: 'Probe', project: 'src/Probe.csproj', symbols: [{ id, signature, signatureHash }] }
+    { name: 'Probe', project: 'src/Probe.csproj', symbols: [{ id, signature, signatureHash, source: 'src/Probe.cs' }] }
   ] });
   const projects = JSON.stringify([{ name: 'Probe', path: 'src/Probe.csproj', surfaces: ['source-clr'] }]);
   f.binding.projectManifestIdentity = digest(projects);
@@ -212,9 +244,9 @@ test('bound declarations require both the current mapping and exact visible sign
   assert.equal(valid.api.extractedSymbols, 1);
   assert.equal(valid.sourceApiStatus, 'Unverified');
   f.catalog.pages[0].symbols[f.id].code = ['public string Probe.Read(string key)'];
-  assert.match((await checkProjection(f)).errors.join('\n'), /Visible declaration differs/);
+  assert.match((await checkProjection(f)).errors.join('\n'), /Missing visible declaration variant/);
   f.catalog.pages[0].symbols[f.id].signatureIdentity = '0'.repeat(64);
-  assert.match((await checkProjection(f)).errors.join('\n'), /signature mapping is stale/);
+  assert.match((await checkProjection(f)).errors.join('\n'), /signature mapping differs/);
 });
 
 test('bound native declarations are rejected instead of silently expanding product documentation', async (t) => {
@@ -229,7 +261,7 @@ test('bound native declarations are rejected instead of silently expanding produ
   await f.write('reference/projects.json',projects);
   await f.write('reference/api.json',bytes);
   await f.write('reference/engine.lock.json',JSON.stringify(f.binding));
-  assert.match((await checkProjection(f)).errors.join('\n'), /Backend-native API is outside the approved engine documentation scope/);
+  assert.match((await checkProjection(f)).errors.join('\n'), /Composed API has no captured declaration/);
 });
 
 test('omitted and invented API contracts cannot hide behind correct source hashes', async (t) => {
@@ -238,8 +270,8 @@ test('omitted and invented API contracts cannot hide behind correct source hashe
   delete f.catalog.pages[0].symbols[f.id];
   f.catalog.pages[0].symbols['M:Probe.Invented'] = symbol;
   const result = await checkProjection(f);
-  assert.match(result.errors.join('\n'), /no authored contract/);
-  assert.match(result.errors.join('\n'), /no matching extracted contract/);
+  assert.match(result.errors.join('\n'), /no composed contract/);
+  assert.match(result.errors.join('\n'), /no captured declaration/);
 });
 
 test('tampered API reference payload cannot supply declaration evidence', async (t) => {
@@ -254,5 +286,5 @@ test('API captures require immutable provenance even when declarations match', a
   await f.write('reference/engine.lock.json', JSON.stringify(f.binding));
   const result = await checkProjection(f);
   assert.equal(result.status, 'Failed');
-  assert.match(result.errors.join('\n'), /captured source revision and tree/);
+  assert.match(result.errors.join('\n'), /exact source provenance/);
 });

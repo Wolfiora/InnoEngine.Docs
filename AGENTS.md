@@ -13,17 +13,19 @@ This repository owns the English documentation and website for InnoEngine. The e
 
 - Write active documentation, instructions, rules, and new records in English. Preserve historical evidence and legal notices.
 - Keep readable content in `content/en/`. Keep generated API/project facts in `reference/`; do not duplicate narrative authority.
-- Document the engine's APIs and managed adapter usage. Backend-native and generated binding APIs are outside documentation scope; do not extract, generate or translate their member references. Keep concise engine integration and ownership boundaries where readers need them.
+- API reference covers public and externally usable protected C# engine, Editor, Build and tooling contracts, plus actual script projections. All backends, extern, test and fixture APIs are excluded. Keep useful integration guidance, ownership boundaries and legal provenance.
 - Keep tutorials, tasks, explanations, and API reference distinct. Link necessary lifecycle, threading, failure, and ownership contracts.
 - Never hide a necessary constraint in an excerpt, collapsed block, or unreported continuation.
 - Read source declarations and existing contracts before documenting an API. Generated signatures are not proof of semantic quality.
 - Do not fabricate supported platforms, editor workflows, examples, or features. Mark actual limitations clearly.
-- Engine changes require the engine's own applicable rules and a paired PR. Do not copy its rulebook here.
+- Engine changes follow the engine's applicable rules. Maintain API XML there; master automatically synchronizes API facts and default prose into this repository's `draft`. No paired PR metadata is required.
+- Each API type and member has independent prose ownership. `source: xml` or no source marker means synchronization may replace the registered fragment. Set `source: manual` when taking over its prose; generated declarations remain authoritative. Unknown markers fail. Missing or stale manual explanations produce neutral editorial warnings, not publication blockers.
+- Start ordinary documentation work from `draft`; feature branches without PRs do not run CI. Draft updates and PRs validate and preview. A human `draft` to `main` merge publishes the checked site. Never automatically merge, reset, force-push or delete the persistent draft branch.
 
 ## Execution and completion
 
 Use the pinned Node version and `npm ci`. Run content/reference checks, a production build, and applicable browser checks for changed behavior. Rendering documentation must not prepare Native products.
 
-Do not publish an unverified engine/documentation pair, merge PRs automatically, or replace the last successful site with a failed candidate. Report actual checks, incomplete migration, and external blockers accurately.
+Verify the complete selected API package, content, executable examples and exact site artifact. Do not wait for unrelated full-engine certification or require the selected API version to equal the newest master. Keep the previous site on failure. Report API synchronization, Docs validation, editorial work and deployment separately; identify incomplete migration and external blockers accurately.
 
 Keep caches and transient output in ignored, task-owned locations. Preserve first-failure evidence and active readers. Never clean another session's artifacts.

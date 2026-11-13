@@ -2,22 +2,18 @@ name: Documentation
 
 on:
   pull_request:
+    branches: [draft, main]
   push:
-    branches: [main]
+    branches: [draft, main]
   merge_group:
   workflow_dispatch:
-    inputs:
-      bootstrap:
-        description: Use the explicitly approved ai-pipeline source before default-branch cutover
-        type: boolean
-        default: false
 
 permissions:
   contents: read
   actions: read
 
 env:
-  DOCUMENTATION_COMMIT: ${{ github.event.pull_request.head.sha || github.sha }}
+  DOCUMENTATION_COMMIT: ${{ github.sha }}
 
 concurrency:
   group: documentation-${{ github.event.pull_request.number || github.ref }}
@@ -27,109 +23,15 @@ jobs:
   projection:
     name: Documentation projection
     runs-on: windows-2025
-    outputs:
-      preview: ${{ steps.preview.outputs.artifact-id }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - name: Confirm that the immutable candidate includes the tested base
-        shell: pwsh
-        run: ./scripts/confirm-candidate.ps1 -Revision $env:DOCUMENTATION_COMMIT
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
         with:
           node-version: 24.21.0
           cache: npm
-      - name: Read immutable engine binding
-        id: binding
-        shell: pwsh
-        run: |
-          $binding = Get-Content reference/engine.lock.json -Raw | ConvertFrom-Json
-          if ($binding.repository -ne 'https://github.com/Wolfiora/InnoEngine' -or $binding.toolingRevision -notmatch '^[a-f0-9]{40}$') { throw 'Invalid engine binding.' }
-          "revision=$($binding.toolingRevision)" >> $env:GITHUB_OUTPUT
-      - name: Check out the pinned tooling source
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          repository: Wolfiora/InnoEngine
-          ref: ${{ steps.binding.outputs.revision }}
-          path: artifacts/engine-source
-          persist-credentials: false
-      - name: Install and verify the exact pinned tooling SDK
-        uses: ./artifacts/engine-source/.github/actions/setup-dotnet
-        with:
-          global-json-file: artifacts/engine-source/global.json
-      - name: Verify the single documentation rule authority and inherited provenance
-        shell: pwsh
-        run: ./scripts/check-rule-authority.ps1 -EngineRoot artifacts/engine-source
-      - run: npm ci
-      - run: npm test
-      - name: Verify bounded artifact import and rejection
-        shell: pwsh
-        run: |
-          ./tests/PublicationArchive.Tests.ps1
-          ./tests/CandidateIdentity.Tests.ps1
-      - name: Prepare canonical catalog using managed tooling only
-        shell: pwsh
-        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
-      - run: npm run check
-      - run: npm run build
-      - name: Verify the exact rendered projection
-        shell: pwsh
-        run: |
-          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist > artifacts/projection.json
-          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/projection.json; exit $LASTEXITCODE }
-      - name: Upload the inspected static preview
-        id: preview
-        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        with:
-          name: documentation-preview-attempt-${{ github.run_attempt }}
-          path: dist/
-          if-no-files-found: error
-          retention-days: 30
-      - name: Install the locked browser runtime
-        run: npx --no-install playwright install chromium
-      - name: Verify responsive reading, search and keyboard journeys
-        run: npm run test:browser
-      - name: Preserve projection and browser diagnostics
-        if: always()
-        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        with:
-          name: documentation-projection-diagnostics-attempt-${{ github.run_attempt }}
-          path: |
-            artifacts/canonical-catalog.json
-            artifacts/projection.json
-            artifacts/browser/
-          if-no-files-found: warn
-          retention-days: 30
-
-  source:
-    name: Certify documentation source
-    needs: projection
-    runs-on: windows-2025
-    steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          persist-credentials: false
-      - name: Confirm the same immutable candidate before source certification
-        shell: pwsh
-        run: ./scripts/confirm-candidate.ps1 -Revision $env:DOCUMENTATION_COMMIT
-      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
-        with:
-          node-version: 24.21.0
-      - name: Select authenticated evidence already imported into this repository
-        shell: pwsh
-        env:
-          GH_TOKEN: ${{ github.token }}
-          BOOTSTRAP: ${{ inputs.bootstrap || github.head_ref == 'docs-modernization' }}
-        run: |
-          New-Item -ItemType Directory -Path artifacts -Force | Out-Null
-          node scripts/publication-source.mjs relayed reference/engine.lock.json artifacts/source-selection.json
-          if ($LASTEXITCODE -ne 0) { throw 'Source certification is blocked. The matching evidence relay can resume this job without rebuilding the preview.' }
-          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/source-selection.json -Source documentation -Destination artifacts/source-evidence
-          $file = Join-Path $PWD 'artifacts/source-evidence/source-certificate.json'
-          "INNO_SOURCE_EVIDENCE=$file" >> $env:GITHUB_ENV
-          "INNO_SOURCE_EVIDENCE_SHA256=$((Get-FileHash -LiteralPath $file -Algorithm SHA256).Hash.ToLowerInvariant())" >> $env:GITHUB_ENV
-      - name: Read the pinned tooling revision
+      - name: Read immutable tooling binding
         id: binding
         shell: pwsh
         run: |
@@ -145,70 +47,76 @@ jobs:
       - uses: ./artifacts/engine-source/.github/actions/setup-dotnet
         with:
           global-json-file: artifacts/engine-source/global.json
-      - run: npm ci --ignore-scripts
-      - name: Import the exact inspected static output from this run
+      - name: Verify shared rules and provenance
         shell: pwsh
-        env:
-          GH_TOKEN: ${{ github.token }}
-          PREVIEW_ID: ${{ needs.projection.outputs.preview }}
-          PRODUCER_HEAD: ${{ github.event.pull_request.head.sha || github.sha }}
-        run: |
-          if ($env:PREVIEW_ID -notmatch '^[1-9][0-9]*$') { throw 'The successful projection did not identify its static artifact.' }
-          $headers = @{ Authorization = "Bearer $env:GH_TOKEN"; Accept = 'application/vnd.github+json'; 'X-GitHub-Api-Version' = '2022-11-28' }
-          $artifact = Invoke-RestMethod -Uri "https://api.github.com/repos/Wolfiora/InnoEngine.Docs/actions/artifacts/$env:PREVIEW_ID" -Headers $headers
-          if ($artifact.id -ne [long]$env:PREVIEW_ID -or $artifact.workflow_run.id -ne [long]$env:GITHUB_RUN_ID -or
-              $artifact.workflow_run.head_sha -cne $env:PRODUCER_HEAD -or $artifact.expired -or $artifact.size_in_bytes -le 0 -or
-              $artifact.name -cnotmatch '^documentation-preview-attempt-[1-9][0-9]*$' -or $artifact.digest -cnotmatch '^sha256:[a-f0-9]{64}$') {
-            throw 'The preview artifact does not match this run and its successful projection.'
-          }
-          @{ documentation = @{ id = $artifact.id; digest = $artifact.digest } } |
-            ConvertTo-Json -Depth 4 | Set-Content artifacts/preview-selection.json -Encoding utf8NoBOM
-          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/preview-selection.json -Source documentation -Destination artifacts/site
-      - name: Attach source proof through the canonical query model
+        run: ./scripts/check-rule-authority.ps1 -EngineRoot artifacts/engine-source
+      - run: npm ci
+      - run: npm test
+      - name: Verify bounded artifact import
         shell: pwsh
-        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source -SourceEvidencePath $env:INNO_SOURCE_EVIDENCE -SourceEvidenceIdentity $env:INNO_SOURCE_EVIDENCE_SHA256
-      - name: Require complete content and source evidence for the same static output
+        run: ./tests/PublicationArchive.Tests.ps1
+      - name: Prepare canonical API content and editorial observations
         shell: pwsh
-        run: |
-          node scripts/check-projection.mjs artifacts/canonical-catalog.json artifacts/site --complete --source-evidence $env:INNO_SOURCE_EVIDENCE > artifacts/completion.json
-          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
-      - name: Freeze the verified site and exact provenance
-        run: node scripts/publication-artifact.mjs create artifacts/site artifacts/canonical-catalog.json artifacts/completion.json
-      - name: Retain the verified site for artifact-only promotion
-        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        with:
-          name: documentation-site-attempt-${{ github.run_attempt }}
-          path: artifacts/site/
-          include-hidden-files: true
-          if-no-files-found: error
-          retention-days: 90
-      - name: Preserve first-failure and catalog diagnostics
+        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
+      - name: Retain complete editorial observations
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: documentation-source-diagnostics-attempt-${{ github.run_attempt }}
+          name: api-editorial-attempt-${{ github.run_attempt }}
+          path: artifacts/api-editorial.json
+          if-no-files-found: warn
+          retention-days: 30
+      - run: npm run check
+      - run: npm run build
+      - name: Validate complete site and selected example receipts
+        shell: pwsh
+        run: |
+          $examples = if (Test-Path -LiteralPath reference/examples/manifest.json) { @('--example-manifest', 'reference/examples/manifest.json') } else { @() }
+          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist --complete @examples > artifacts/completion.json
+          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
+      - name: Retain the static preview
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-preview-attempt-${{ github.run_attempt }}
+          path: dist/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Install locked browser runtime
+        run: npx --no-install playwright install chromium
+      - name: Verify responsive reading, search and keyboard journeys
+        run: npm run test:browser
+      - name: Freeze the exact checked site
+        run: node scripts/publication-artifact.mjs create dist artifacts/canonical-catalog.json artifacts/completion.json
+      - name: Retain verified delivery output
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-site-attempt-${{ github.run_attempt }}
+          path: dist/
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 90
+      - name: Retain diagnostics
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-diagnostics-attempt-${{ github.run_attempt }}
           path: |
-            artifacts/canonical-catalog.json
-            artifacts/projection.json
             artifacts/completion.json
-            artifacts/source-selection.json
-            artifacts/preview-selection.json
-            artifacts/source-evidence/source-certificate.json
+            artifacts/api-editorial.json
+            artifacts/browser/
           if-no-files-found: warn
           retention-days: 30
 
   validation:
     name: Documentation validation
     if: always()
-    needs: [projection, source]
+    needs: [projection]
     runs-on: windows-2025
     steps:
-      - name: Reconcile required results
+      - name: Reconcile required documentation work
         shell: pwsh
         env:
           PROJECTION_RESULT: ${{ needs.projection.result }}
-          SOURCE_RESULT: ${{ needs.source.result }}
         run: |
-          if ($env:PROJECTION_RESULT -ne 'success') { throw "Required documentation projection is $env:PROJECTION_RESULT; missing, canceled, skipped and failed work cannot certify documentation." }
-          if ($env:SOURCE_RESULT -ne 'success') { throw "Required source certification is $env:SOURCE_RESULT; a preview cannot certify documentation." }
-          'Documentation content, canonical projection and required source evidence passed.' >> $env:GITHUB_STEP_SUMMARY
+          if ($env:PROJECTION_RESULT -ne 'success') { throw "Required documentation work is $env:PROJECTION_RESULT; missing, canceled and skipped work cannot pass." }
+          'Documentation facts, content, examples and website checks passed. API editorial coverage is advisory.' >> $env:GITHUB_STEP_SUMMARY

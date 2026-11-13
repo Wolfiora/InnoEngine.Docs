@@ -21,7 +21,7 @@ export default defineConfig({
       defaultLocale: 'en',
       locales: { root: { label: 'English', lang: 'en' } },
       social: [{ icon: 'github', label: 'InnoEngine on GitHub', href: 'https://github.com/Wolfiora/InnoEngine' }],
-      editLink: { baseUrl: 'https://github.com/Wolfiora/InnoEngine.Docs/edit/main/' },
+      editLink: { baseUrl: 'https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/' },
       sidebar: navigation,
       customCss: ['./src/styles/documentation.css'],
       components: { PageTitle: './src/components/PageTitle.astro', EditLink: './src/components/EditLink.astro' },
