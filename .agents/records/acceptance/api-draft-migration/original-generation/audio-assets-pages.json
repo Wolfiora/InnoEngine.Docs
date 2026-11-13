@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Audio.Assets",
+  "outputDirectory": "content/en/api/types/audio-assets",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/audio.json",
+  "factsIdentity": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
+  "sharedContract": "project.inno-audio-assets#artifact-and-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/audio-assets/audioclipimporter.md",
+      "sha256": "92dd5bc6c62904d5995cc7e523ea16a3eabd3c1b5c5acac441ae20b3bc508148"
+    },
+    {
+      "path": "content/en/api/types/audio-assets/index.md",
+      "sha256": "69e1f080b4864f535698a03b4fcfc2d24b76d9e114d61e5673aeff24d7872e4f"
+    }
+  ]
+}

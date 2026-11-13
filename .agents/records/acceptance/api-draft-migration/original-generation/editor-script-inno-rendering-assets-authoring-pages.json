@@ -1,0 +1,28 @@
+{
+  "project": "Inno.Rendering.Assets.Authoring",
+  "outputDirectory": "content/en/api/editor-script/inno-rendering-assets-authoring",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-rendering-assets-authoring",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-rendering-assets-authoring/innoeditor.rendering.assets.shaderfunctionasset.md",
+      "sha256": "722cbe892ac4e7ebc1c0e9777f3f10c88b279fdba7f97a070b19709c3ffaa6fa"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-rendering-assets-authoring/innoeditor.rendering.assets.shadersourceimportsettings.md",
+      "sha256": "8fa5e71e7ee9f9491049cf697db0e173bd963f7de4c0f1b6be3e3f22e016b898"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-rendering-assets-authoring/index.md",
+      "sha256": "50ddc87b6dc772aa771a5335ee6dd2c7ec9514bd8ead909125baf11e41055983"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

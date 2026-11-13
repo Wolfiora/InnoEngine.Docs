@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Toolchains.UI",
+  "outputDirectory": "content/en/api/types/ui-toolchain",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
+  "sharedContract": "project.inno-build-toolchains-ui#recipe-and-artifact-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/ui-toolchain/uitoolchain.md",
+      "sha256": "2f3c08c236dbfd4c00aa2f561984f1e459a3b55654f3cdb55c4acfe894552a3c"
+    },
+    {
+      "path": "content/en/api/types/ui-toolchain/index.md",
+      "sha256": "36cdf83c33712baa0ddf431e9df50b5464f96c01b944898af65b85d03f7f1276"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Adapter.Storage.FileSystem",
+  "outputDirectory": "content/en/api/types/storage-filesystem",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/storage.json",
+  "factsIdentity": "e91c49ca8f818d771e7ed720d773ca8e9bdbb3e88278f056697d703b7c219195",
+  "sharedContract": "project.inno-adapter-storage-filesystem#shutdown-and-ownership",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/storage-filesystem/filesystemapplicationstorage.md",
+      "sha256": "d0c10eed8fe189cd8e158e75f736abb1d118c19247b82017baf591d462e48ed7"
+    },
+    {
+      "path": "content/en/api/types/storage-filesystem/filesystemstoragebackendprovider.md",
+      "sha256": "8f5a5295d85e4e87ca31d48f6a3f626103dda7b614550cbd6272f4eb9ad9301a"
+    },
+    {
+      "path": "content/en/api/types/storage-filesystem/index.md",
+      "sha256": "1ab2c517bf4ef760760934da334fb5566923e88d6fa26254dbde9f370c7e3075"
+    }
+  ]
+}

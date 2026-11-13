@@ -1,0 +1,48 @@
+{
+  "project": "Inno.Editor.Settings",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-settings",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "api.projects.inno-editor-settings#identity-and-use-contracts",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.editorsetting.md",
+      "sha256": "12dae3489e8e5e0eec1be9dd9d46ba60adcbec48036f3fb4b571dc65830d4f4b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.editorsettingobject.md",
+      "sha256": "6e0647e58f195423a2ace43c7fda63d529b4b2bd12cfa3430dc27227ed213c59"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.editorsettingpathattribute.md",
+      "sha256": "092af7d66c6b786451b34b27deeb7880898cf22d0523cf3b64103ed0ccff60fc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.editorsettings.md",
+      "sha256": "33663bd44ec4a93d21cd7aa57f44135b14af10cc65848c82cb7e48b1267d5d34"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.projectsettingeditor.md",
+      "sha256": "2293b4dfc5207a9101b97d45afd526966b0e7e763eaa2c36ec6f74167025b139"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.projectsettingeditor-1.md",
+      "sha256": "096409a89f753a707b672b4c374ee5dc8de1b516da7105c02b5e0f2fbb3700c1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/innoeditor.settings.projectsettingpathattribute.md",
+      "sha256": "c9d9413737a14ac5c2698847a7156fd08bb070632634dad658272e08e1f95096"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-settings/index.md",
+      "sha256": "68a7d1f16afb8816310f2286fa28f75b2bcf3131e2d48542074f605625947476"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

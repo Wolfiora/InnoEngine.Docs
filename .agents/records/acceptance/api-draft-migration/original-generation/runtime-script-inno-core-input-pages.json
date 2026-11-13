@@ -1,0 +1,36 @@
+{
+  "project": "Inno.Core.Input",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-input",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-input#input-value-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-input/member-values-72650e184e4e7c96.md",
+      "sha256": "8bef088fd92ef41f26bf9fda688c6596f17e4bbe3193b438a202889a5f8f1c2f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-input/innoengine.input.keycode.md",
+      "sha256": "c8c16b0e202acffefd8ce3550d021eaf1796f5ac56532f037804e5f5ae29acfc"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-input/innoengine.input.keymodifier.md",
+      "sha256": "24f3647b02ce2eaf80bb7179396486cdbd91765222d2282a776591f81c05c82d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-input/innoengine.input.mousebutton.md",
+      "sha256": "7b88816a24b848ae394465ac3e7d2ee94a1f9a31d41438d1c574fee675ded2ff"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-input/index.md",
+      "sha256": "daa96f90195818fbf2dedfdefcecbeb6237cb9bcecf388cd2b8e366e52cbe558"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "project": "Inno.Adapter.Audio",
+  "outputDirectory": "content/en/api/types/adapter-audio",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/audio.json",
+  "factsIdentity": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
+  "sharedContract": "project.inno-adapter-audio#provider-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-audio/audiobackendcatalog.md",
+      "sha256": "bcc82e0f0c27aabd682073061f4d46ba67d52ac8e4ba91703ce5f64ffaf38b3c"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio/audiobackendid.md",
+      "sha256": "6b81f9ce9219db97ecd2d497f47939cefbc3102c3dc36d45d508bc9aa95eb02a"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio/audiobackendoptions.md",
+      "sha256": "e93f6f4db1ce90fc39ae33da8c3dfc457f72ce7a96c31048586537a2a4f721c9"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio/audiobackendprovider.md",
+      "sha256": "146380f878550bcb97daaa5e391930a6a75498931181bb0f5c5d64097c9c526d"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio/iaudiobackendfactory.md",
+      "sha256": "084d4214cb5d7c176c80ab99a0ab670e042bf72cb1cf9ca14135f6c151342f9f"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio/index.md",
+      "sha256": "784c6b5090ba260fe63b87f101b9b39d40d8628d4abd51ac959514712b9b8320"
+    }
+  ]
+}

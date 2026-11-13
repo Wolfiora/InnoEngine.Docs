@@ -1,0 +1,293 @@
+{
+  "project": "Inno.Build.Toolchains",
+  "outputDirectory": "content/en/api/types/build-execution/inno-build-toolchains",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-execution.json",
+  "factsIdentity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+  "sharedContract": "project.inno-build-toolchains",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildartifactcopier.md",
+      "sha256": "bc2b827cda615f3c439e77fc07fef6d5b1a201f71b5281a44ad061b696195712"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildartifactmanifest.md",
+      "sha256": "0e6995a82522d7d304bb66bbc278cabdb98081cb5c3ec800f9246f9bb7df01e5"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildartifactoptions.md",
+      "sha256": "8225db05e216f1dacc44e34d939714355923420de09b5cadf9fd9b149ee9f232"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildartifactreadlease.md",
+      "sha256": "73067cad0ff0e18518ccdb07a79e66de823aaa9670eb68d659c2f94bc8e7ead3"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildartifactwritelease.md",
+      "sha256": "9f88b0f6d466a1a1024da67383d281ff9ed0ec66710f979f810fde658836d0a4"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcacheartifactdescriptor.md",
+      "sha256": "71242317a961834f6e2b6c4a507ef0f3cb8c8200721daadb78739b2cc8b05577"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcacheartifactrole.md",
+      "sha256": "8e340cc31ec69417604ffc1fec125028150ce34c7f9d0e54ae5ab4de3fa741ab"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcachecleanupplan.md",
+      "sha256": "506d8f594c94511d45e7f5843547c32914451df63ed7b125ceca46bec50d6295"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcachecleanupresult.md",
+      "sha256": "350f5db0ecdc2c567d4d9649b7889ac5e315f9be95b5e2dc9b338d3705564cfb"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcacheownercatalog.md",
+      "sha256": "fa7b60e54fb2a0da31da4c642054fdb688b7d6e115c6f09afc603842dfb36fde"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcacheownerdescriptor.md",
+      "sha256": "4b041f2ba540b00dd6e73eedd3a570a5ccf516e8d2e5c0054a1569359d3836c8"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcachepolicy.md",
+      "sha256": "0bb39b9568c737b843e3465058c4e496db6e00a7d7e7158604ac07cba883880a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildcachepublisher.md",
+      "sha256": "5c6620e264de32ba6a1a0d0ca9870df8b77bab6980a4cc1fca8e35ba45a6feb7"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildhostdescriptor.md",
+      "sha256": "fbeea755e7e1eca19cd25876fda8ab2abbf5824cc1ee44cb977a91748fc046e5"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildhostservices.md",
+      "sha256": "a633841b9bc022bcf22d37085ff9fd7e66d50e15f41b5923abaa7abce2bf2a74"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/buildmaintenanceapplication.md",
+      "sha256": "965a63c3d7a789625cf29a2897da56ad39d59d212ec6fbb5a7a288b4a8e8658b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/componentnativeproductexecutor.md",
+      "sha256": "19aac6e4740fdf934774e345c38622e6e0c096965bcf4aab5e3179b7fd695184"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/dotnetsdkdescriptor.md",
+      "sha256": "da0f3e7665f934fb8686fef90414a607fcb11e028ea10e1367d8e7e1fd56c905"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/dotnetsdkenvironment.md",
+      "sha256": "4fcfd428fd732402676bef354e4bbb554096f630bb8c53c815e7214e8b99777e"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/dotnetsdkresolver.md",
+      "sha256": "bfe58a22b809b4b7e9ce2018203ef2e9aaf4aa77f25750e8d8ab7a3f438c94fc"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/ibuildhostprovider.md",
+      "sha256": "3f030e98ca37d406aa51dc69495a5bd6ba035be84605a4032350bcd15ce26d63"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/inativebindinggenerator.md",
+      "sha256": "a1fc56a9fd852a7a579553d067ae42f09a5abfb95265d9f2133d68d1e277ec95"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/inativeproductexecutor.md",
+      "sha256": "21c40c0cd37e07390f474c106dbd84c20b004e836e6c0e88f7ef63b4917494b1"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/inativetoolchainprovider.md",
+      "sha256": "3465806760ac47ca5439e4754c8511c30b27d4eef60855c092991765a23f2858"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/itoolchainworkspaceprovider.md",
+      "sha256": "8cd1beb9533ce5b7dcb0e93aff5beab1cd54607bb3b06aa3b9329a43ebc349c8"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/managedbuildexecution.md",
+      "sha256": "14fb811d6752e30e7fe56002da9b9f530c8b78a99323165e9115c1fb24901e5c"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/managedbuildinputsnapshot.md",
+      "sha256": "54cd1cacfd2b93d75dbcd9309d30006909927eecae2de64b2f6d256febb2afd3"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/managedprojectgraphcapture.md",
+      "sha256": "bb8313c888704e9e947e4071885d77479724ca8120585e7c3cbfd4c6cc7ed37b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativeartifact.md",
+      "sha256": "0c7cac29eb82656bf111d5566d664699d293ba9c5a0991f64cd1155d5539748f"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativeartifactpublisher.md",
+      "sha256": "bd26d7e007c73a70486052a8830e8bfcc5e6c9b22fcf0b0231ec4d346dc64988"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativeartifactrole.md",
+      "sha256": "9203a43415e1425db160ac0a1ddf7a241af19c8edac9015eb44d0f6425714fba"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativeartifacttransfer.md",
+      "sha256": "f699c13e85642ae73090ca249bbc2be695c32d506807646143c03ab09e30c83e"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingcompilation.md",
+      "sha256": "56f9f052d00310f040896a0f52a0a2683fd56b01032a7c50942187ab668a0843"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindinggenerationdescriptor.md",
+      "sha256": "d49b0e4f0c0324783bc2575afc28979882225eff08a35f7d93c436a985bf2b9a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindinggenerationrequest.md",
+      "sha256": "aa9f4607b24c089a64acd027ec4dee94416b4e572f670fe20cea91a2293dfa9b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindinggenerationresult.md",
+      "sha256": "5f3b80928fce7353214b7f91d61f613abd037c48d14722b341d1272d3cab30c5"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingincludedirectory.md",
+      "sha256": "d475e117af6e51d521d727ad0fea922b18bb1fdc20af8b02b00af524b87a61d0"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingoutputmode.md",
+      "sha256": "3c0878e411026c2961017154bfbcb3effe41b3e3299b4289358f2ebb9b766156"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingpreparation.md",
+      "sha256": "7691b43566f697bb5228b309b32082ec768aa7832cd6e58075bf48cb66c0a32d"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingsourcefile.md",
+      "sha256": "81b5d00eb34231d9fdea86e7da13aaa3727e8222b4bc280b7fa533946a4c1555"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebindingsourceroot.md",
+      "sha256": "19628e873ac2e32ba23643c785497680c3ff23932c42da25b716ab10c2e3552b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildcontext.md",
+      "sha256": "ee4f13175313a8e40c958b3f745f7c672a503f84ad33e5c09933369096a00929"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildfingerprint.md",
+      "sha256": "40b102759c9a47b68d5c4a01d5a89498f467e9639bf2d2f2a9055a1cb7f3aae2"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildinput.md",
+      "sha256": "f11c74b971a6f9023105f602a3755e3ab9cda43d359a921f943150fcf58921f1"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildphasestatistics.md",
+      "sha256": "dcbbf2ff73b11ede31e12c548075f934e7d9f958c30f3f01bc7cf6be853bcb0e"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildproduct.md",
+      "sha256": "6d37cf41b9c7faf566a110ff3610c36c987cafad0125c8829fe865664b51457a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildrecipe.md",
+      "sha256": "4f34a7dbc9666f57b7505e43d32be41a70ab3190104ac08c2c7d13a92d9050fb"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativebuildstatistics.md",
+      "sha256": "d50e706d7b85cdac45408d671ce897a186158a716a7ba1ca8cc0e7531bab90de"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativecmakeexecutor.md",
+      "sha256": "ef55d074da2f4300eba1a6371c8dd6b0b308db2ccdf1b247d7b32202ee81d47c"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativecmakesource.md",
+      "sha256": "f9a7582b28403ef79867c0c61d5c065564b6f7785907eb0c13b4472cc5e557e1"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativecompilerinputs.md",
+      "sha256": "076eba779f093af6bcf9a352a1a415aa7c9d6b4516533d05fc60c9d912f786c0"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativecomponentbuildoptions.md",
+      "sha256": "5f87480f4e095a1644341ff9f5b2183ce4db786425feda2cb6bdbceb0b5d27fa"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativecomponentdescriptor.md",
+      "sha256": "e21de8b6e6d408ed9c264a3f5c318988ddf86fd61a28bbd55ab37d0e6a89f9b7"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativedeploymentmetadatafactory.md",
+      "sha256": "92ba00b34eef127916a6952a6ee43803c80f1307038c854f1e946ccb02ab9f36"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativeinputmaterializer.md",
+      "sha256": "51a6afe1e6b1b941244ba29beef271b393b7941ee61853e37472a427afda0b2f"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativelibrarykind.md",
+      "sha256": "349c405bf48cb312de4e5f0a7e99e6d85d0c5d573d8fcd64f1d1743376dfdce4"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativelinkplan.md",
+      "sha256": "c125ff4c5e9f037b35bdc60249e423038454361c36379e7616dcec5c81fa4e51"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativestaticbuilddefinition.md",
+      "sha256": "49aa6c5500a6b62a177bafe57b03afa331c1bac0564203820883f89a2e1b63e3"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativetoolchainpreparation.md",
+      "sha256": "170edc3c0379531189e3ba62e6e09987c1f8f3ef3a8fc5209c65721ccd8d6e55"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/nativetoolchainselection.md",
+      "sha256": "afb4b200bb432881e951213f70c37fd930b89accdd9013c28d7b7ce5e2d85fe3"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/physicaltoolchainworkspaceprovider.md",
+      "sha256": "e6405a9519da1a595c85a89cbdd674dcc448fd57b924b62d7bc8e4ef6369cce4"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/productnativebuildplan.md",
+      "sha256": "cf69a5126e983fde4a4f673d10f19549f8672ec97b28f2a1913928574953eee1"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/productnativebuildresult.md",
+      "sha256": "c29ed52fa0b0ba951a06b73e61a220a54a305879aeac25431d9cf78459aa92c6"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/productnativebuildstep.md",
+      "sha256": "414df59b2f1addce801ad4666a204eafb68735e03ac45ad56bd4d96e10dcf743"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/productnativedeployment.md",
+      "sha256": "0b956bd6872168c46de2541df9606e3a3938ae8dd7661b616b063ffbebb68065"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/productnativepreparation.md",
+      "sha256": "8303b51af8f44aac4aae0a8998c702589d2008ced7b1a26b0bdc9892850fbc0a"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/toolchainenvironment.md",
+      "sha256": "cd5e71dbbb000f90987897e920dcd55c56bff5b3e367f718723cdabb402d95d6"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/toolchainlayout.md",
+      "sha256": "4bb7e07c0a1057d9e67c13939e034f1ddb8592ae1a39dca64d1fa51050293864"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/toolchainworkingdirectory.md",
+      "sha256": "83dccf63d9409987c12a47d5a2c0a106493019510713b86f89eca61e59ec0a53"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-toolchains/index.md",
+      "sha256": "e90594fa9f645c77f9d6bd7af834b8acd35cf8d8ed9b3849c188f856eb13de94"
+    }
+  ]
+}

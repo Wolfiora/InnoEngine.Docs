@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Shell",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-shell",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-shell",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/ishellframedriver.md",
+      "sha256": "a47d1c61c78baecea223dcc07de9995f2923a69824079b504e1fbbefe71aa192"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/pollingshellframedriver.md",
+      "sha256": "1554a7689b7487fc84026efb78d9f33d7dcec714a47dae729c966b10a3a89f78"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/scheduledshellframedriver.md",
+      "sha256": "ad40588e31e803366052269ce26fe4630d9ed9b7072e9a65ba3e4ebc672de488"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/shell.md",
+      "sha256": "f3346e9580cee7bb821d3ec1e37ef7edaa112cce941483b5627e33ce1fb88dc2"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/shellframe.md",
+      "sha256": "5dbeca78bcab5f5197c284364eaa382e40a6417a8b50b54e34f694963864d40f"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/shelloptions.md",
+      "sha256": "ff7c8f825b094c5330eacf5d0aae79c8576bf63223a7a2191939e08e9c65d3f8"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/shellstate.md",
+      "sha256": "b6ae308fb2f644aed8311643c331a2bfe6090f3f1efe9f9f0b7500aee900689d"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-shell/index.md",
+      "sha256": "d30bbf6225c7044c0e4a3008eba778c286dbed257fb00801f24ea9fe2848ff53"
+    }
+  ]
+}

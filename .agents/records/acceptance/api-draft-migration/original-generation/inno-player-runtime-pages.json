@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Player.Runtime",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-player-runtime",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-player-runtime",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/iplayercontentsource.md",
+      "sha256": "ce213f26ebfdba2251a4d050ae1c4de2ae9ab94017d873317b3ee6401ae3d3da"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/iplayermoduleactivator.md",
+      "sha256": "437c7f1d6d456b050914d59b56112e453a0c729a0bee681efaae60e1ea00adb9"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/playerapplication.md",
+      "sha256": "6621bb3714a172bddf577afe9953ad3edd26a5b85d8bbbdee8f7642a9cc4a577"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/playercommandlineoptions.md",
+      "sha256": "f30e09a92c26f9d495025487e158ace2053e309ba9815965e466fbc4342e324a"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/playercontentmetadata.md",
+      "sha256": "624b75fd48c4316ab485911864fe88e71d3990e6398525f44ddd30e301a7db01"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/playerlaunchoptions.md",
+      "sha256": "c271e6adf4e6dd77d5d21f0229b63193c5f6d9c5f915edfa61f26a8e1f29be71"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/staticplayermoduleactivator.md",
+      "sha256": "df1c6cea524d02ab6198fd16012541b38978d1c5b24c9d29994d6df484c26d41"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-player-runtime/index.md",
+      "sha256": "7ab1bd7e986327989e7eb9f88fd11bae7e1b232ec1daaaf2ec13b36947c9ff29"
+    }
+  ]
+}

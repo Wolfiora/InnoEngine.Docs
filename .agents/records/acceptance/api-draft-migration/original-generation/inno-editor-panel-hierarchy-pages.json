@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Editor.Panel.Hierarchy",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-panel-hierarchy",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-panel-hierarchy",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-hierarchy/hierarchyobjectdroptarget.md",
+      "sha256": "53b9f7a3167e17e434f02d24c2fed13afd360b56262ca4ec57149e6f093cbd49"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-hierarchy/hierarchyscenedroptarget.md",
+      "sha256": "346a7615d259657d3c7514a36be2ea33b1e02bf50676b0aa64a89a6b5e5cf5b5"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-hierarchy/index.md",
+      "sha256": "95fcbf6635013f699c0c2c4302507d497ade7822b128917b7cac916f3e3c5628"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "project": "Inno.Core.Coroutines",
+  "outputDirectory": "content/en/api/types/core-coroutines",
+  "sourceRevision": "0a857166e14c83e44feb557768cb9d01d4383135",
+  "sourceTree": "26ffb626c616ff9dc42f793a0c366c5bfc059b37",
+  "facts": "reference/api/execution.json",
+  "factsIdentity": "076dd515a242c46ed0e9e97a4caac74b1a6f58d709a42d2ed858c2e17ae5220e",
+  "sharedContract": "project.inno-core-coroutines#execution-and-release-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-coroutines/coroutinehandle.md",
+      "sha256": "445d931e2a3f88616785921aaba372f8dbf1471336bae31080dcd9c890ca3604"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/coroutinescheduler.md",
+      "sha256": "b81423b4ea34796406a58f5a36523c7c71844cadb0828a388e9f88f4e12590cd"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/waitforframes.md",
+      "sha256": "50a7fcd4efc1fddce8413dfc02a0c7f78e6268814cf8b0ed942013926a7bdde6"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/waitforseconds.md",
+      "sha256": "f72d4d161a6fa4e9913393559d42340aaf6bb661230690714afec6ef65ac1f84"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/waitfortask.md",
+      "sha256": "9281cd4af2f85ad1115520b6e250056623b5cf764c12b803a442a460885b3863"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/waituntil.md",
+      "sha256": "bc22b051dc4933abbf9cbe8544714d3e3f24076ff7b00197a80556d051da6ba1"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/waitwhile.md",
+      "sha256": "a3f22ccd3cfffcb06eee8b8619cfa1bde4062be323ec0afcbcb3979a99b2c366"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/yieldinstruction.md",
+      "sha256": "a3e073ef63b75954ba5ea526149d78d4aa5139cb34d74f6130433d0b8da9efd3"
+    },
+    {
+      "path": "content/en/api/types/core-coroutines/index.md",
+      "sha256": "e58ba13ccecc29914b8705ff4ac59512061163d7a94262aebf3fca21ea8454bc"
+    }
+  ]
+}

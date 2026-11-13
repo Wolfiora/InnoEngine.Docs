@@ -1,0 +1,38 @@
+{
+  "project": "Inno.Audio.Runtime",
+  "outputDirectory": "content/en/api/types/audio-runtime",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/audio.json",
+  "factsIdentity": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
+  "sharedContract": "project.inno-audio-runtime#composition-and-lifetime-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/audio-runtime/audiocontentstatistics.md",
+      "sha256": "490213040be2f36d225fe6c48ccc869a741aadc6da8bcb1b14e8092848fde03a"
+    },
+    {
+      "path": "content/en/api/types/audio-runtime/audioruntime.md",
+      "sha256": "ccac9da988b4f9b518348f13fcb7c2abc9c05e9925e10e43cded4fa500903d68"
+    },
+    {
+      "path": "content/en/api/types/audio-runtime/audioruntimefactory.md",
+      "sha256": "978981405079a42429afb27b3097ec959998133c29cb47edb5214dc9fc741235"
+    },
+    {
+      "path": "content/en/api/types/audio-runtime/audioruntimeoptions.md",
+      "sha256": "6254d8161b60ab6b0505b553536f58c388d8a76c3a2c2d5cbb6ab5a2411b90fc"
+    },
+    {
+      "path": "content/en/api/types/audio-runtime/mutedaudiodevice.md",
+      "sha256": "8b33f21d64daa6fc27c6e7ccd7643e02e4807fc20468414ae2287b47589df93b"
+    },
+    {
+      "path": "content/en/api/types/audio-runtime/index.md",
+      "sha256": "78b7d1755a83d96a736eda2c18b591ee4cd48db0823833a35d5904ce997aa575"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Toolchains.MiniAudio",
+  "outputDirectory": "content/en/api/types/toolchains-miniaudio",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+  "facts": "reference/api/miniaudio.json",
+  "factsIdentity": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032",
+  "sharedContract": "project.inno-build-toolchains-miniaudio#product-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/toolchains-miniaudio/miniaudiotoolchain.md",
+      "sha256": "088b6e0136f867106c6cbf721a54fdaff3a189dd85d4f575c818b7541dbaacdb"
+    },
+    {
+      "path": "content/en/api/types/toolchains-miniaudio/index.md",
+      "sha256": "ca3e8e9bc01f16ce954a83d74ea7a1c636fd2a00957c86e8ae0c82956b2b512e"
+    }
+  ]
+}

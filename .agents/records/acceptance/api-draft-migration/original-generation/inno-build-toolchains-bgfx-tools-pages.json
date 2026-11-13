@@ -1,0 +1,61 @@
+{
+  "project": "Inno.Build.Toolchains.Bgfx.Tools",
+  "outputDirectory": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/bgfx-engine.json",
+  "factsIdentity": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
+  "sharedContract": "project.inno-build-toolchains-bgfx-tools",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxauthoringprovider.md",
+      "sha256": "fa8ade8ecf02908702047ed5393e3bd6f544b96b10d35b8418d5f4c141030cee"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxgamecontentcompiler.md",
+      "sha256": "1ceb803bd375ea6d1b2f83024875816ee42a7fc9b5294e35f68acaedbb89eef9"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxshadercompilerprofile.md",
+      "sha256": "21af4fbc0e00378e5dafd2768acc737aa0e3f4183ff16212bcb7fffca23baeb0"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxshaderctoolchain.md",
+      "sha256": "0d118e3b3037291af409db1bd9e1297ce84106b19f2b715f7fff9365e23ea6fb"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxshadersourcefrontend.md",
+      "sha256": "ad498c6fb985230889b8abf560e9d82996f026cff42b28d70e8e9d3a10ca01b4"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxshadertargetprofile.md",
+      "sha256": "fbc53a883b8be3f0f6587b52d0a87b64903f546f2758950a64f670dbe0867f35"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxtargetcapabilities.md",
+      "sha256": "f17b77f49dc2c4cbbc4280281e3812013fcd01ad1a216ba40bb976948cfebc90"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxtexturetargetcompiler.md",
+      "sha256": "7385164299b6ab1efe60dc7c711e3487bb5a7f2bfa2ede4ce651717febf0fed5"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/bgfxtool.md",
+      "sha256": "b88d30bb4962e24792dd554e18b2cd66e9a3afe627f96fe8a8db5e8d66dcb143"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/toolrunner.md",
+      "sha256": "a4b8e705ff20b767c5db618ffb57e1a54fdb6521eeba68b2a9bb8102247d6b9c"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/toolrunresult.md",
+      "sha256": "85da74259bdfb317adea3d00e0256ec511cd98ffda7a480d01a7bbaa8630710f"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-tools/index.md",
+      "sha256": "dd7af71818f827f7e2b452886d51c12ea4e5e628e2db06619281f0a32e524c09"
+    }
+  ]
+}

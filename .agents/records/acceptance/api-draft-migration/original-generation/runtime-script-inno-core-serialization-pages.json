@@ -1,0 +1,72 @@
+{
+  "project": "Inno.Core.Serialization",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-serialization",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-serialization#operation-and-generation-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.generateserializationconverterattribute.md",
+      "sha256": "b4b3cd50105425c82b0e0c1448cbb03bb88d35f8950b07c0fbca79a9c678cdf2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.iserializable.md",
+      "sha256": "71533da0f2179b09952195271f71e183f21eb3a3ae28e273b79f32cfa907da59"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.onserializablerestored.md",
+      "sha256": "4bb76f5eea733669ebb1c0337ce46548fad203f2e33878aa90f9ef4ba43bea58"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.propertyvisibility.md",
+      "sha256": "9fa3946cb01470ba9ea0a9237197dd532faeec600d1fed383d6482fd0ca9012e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.requiresserializationconverterattribute.md",
+      "sha256": "1af861eac4126d60367f95ba8cb900108d0f810192576977885850d081640a5d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializablepropertyattribute.md",
+      "sha256": "ff85697190385219a4ca26807191e980e6c16d0a76df628fede5f177746b0ae3"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationcapturekeybuilder.md",
+      "sha256": "1285ea0e7bec130c18787aa36ab9a444a3fdf9e379a3047342a70ae2108f4014"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationcontext.md",
+      "sha256": "b2b8617880cab920517ff82e7bfbddf4c2ac3850de670c154a8363c8a38c5284"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationconverter-1.md",
+      "sha256": "40ec6e718b748d49ba9cfaed2b68117ccc992e99c0faa0620630dec781bddb80"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationreader.md",
+      "sha256": "a7849d930e63383c7dd05a6e2d48fc58fe408f16e98e65a74109dd96f99de072"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationrevisionattribute.md",
+      "sha256": "8df1fd5378045568f444166101b3b1f71add0fd979ef13e7f9cc71866656f724"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializationwriter.md",
+      "sha256": "d510f955cfaa996c64f203b3a153799e89bd9c585ed43a593a9b6c7c95cc279b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/innoengine.serialization.serializedproperty.md",
+      "sha256": "1437746147fa63797e3c97b30db01d88b744e178cd736b24f418473e2902ef62"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-serialization/index.md",
+      "sha256": "520a03fdb46993dc7f069c0e3807471f35de3ff43a2a786904fd8fe9e5c7e7c7"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

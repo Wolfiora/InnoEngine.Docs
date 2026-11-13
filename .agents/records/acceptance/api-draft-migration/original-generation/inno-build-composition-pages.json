@@ -1,0 +1,53 @@
+{
+  "project": "Inno.Build.Composition",
+  "outputDirectory": "content/en/api/types/build-composition/inno-build-composition",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-composition.json",
+  "factsIdentity": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
+  "sharedContract": "project.inno-build-composition",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/buildcompositioncontext.md",
+      "sha256": "3d2975ee6ffd9ad0cad3915a84b72b61d3f4f674ec13acb001b2080b0f8c2c55"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/builddistribution.md",
+      "sha256": "2a06a2504773d571c50151b35ec972f5ac30e54f2b58b5f245a010442ff0e38e"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/buildpipelinefactory.md",
+      "sha256": "54b9230095149d1a37cd445cce2b0efe53391fbfffd70ef8684c0fbf18b2fe90"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/buildplatformcontribution.md",
+      "sha256": "7164533b9af483b77c984620777256471d9e094a567a083f1376551d8be087dd"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/buildtargetfactory.md",
+      "sha256": "9e0c08d4f3aee4c3dd2be0a134bf294e595ab10e362ab635df3a97b26408d673"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/gamebuildcontribution.md",
+      "sha256": "8afc9e4b2f5135f5c20128030798a7418bb6a9f841ac5202a6eeb06181140bf7"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/gamecontentcompilerfactory.md",
+      "sha256": "a39603ce6e6bf35237d4af2f93958ecd6c034935f0d96606806fa527fc96ed67"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/nativeproductcontribution.md",
+      "sha256": "fb803fa9e7618e0c712c9fe099b00683a3a9ce25ced70292d9098853cf327837"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/nativetoolchaincontribution.md",
+      "sha256": "797f04c0246bd8e5019d459b24c7e4fdceb883aeed3893833017b16053093c68"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-composition/index.md",
+      "sha256": "9f773bf4bebc753962d314bf31b8c87d6b52addbf58c7cbd9731d51d0916fd2e"
+    }
+  ]
+}

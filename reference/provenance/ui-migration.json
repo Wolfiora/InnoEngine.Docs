@@ -1,0 +1,236 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "UI runtime frame ordering declares Input only; old prose also claimed a Text dependency.",
+    "Neutral .iuidocument import requires language/implementation settings; .rml belongs to the RmlUi authoring adapter.",
+    "Controlled linked RCSS and recursive imports are supported; they do not grant arbitrary filesystem/network access.",
+    "UiInputSnapshot is a Runtime script export; UiTextureUpdate is the current texture delta type.",
+    "Setter success means an existing target and applied operation, not a value difference.",
+    "RmlUi event draining clears in finally even when copying fails; frame acknowledgment has a separate success boundary.",
+    "Font lease sharing requires the full registration identity, including document version and family.",
+    "Failed RmlUi disposal is not retried by the same disposed instance."
+  ],
+  "reviews": [
+    {
+      "source": "docs/backends/RmlUi/Inno.Adapter.UI.RmlUi.Authoring.md",
+      "sourceSha256": "7e4665e8d1b628558d7b69160fd917d9b5708c7c61c6ff26a75ebf43f8b02bbd",
+      "project": "Inno.Adapter.UI.RmlUi.Authoring",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-adapter-ui-rmlui-authoring.md"
+      ],
+      "symbols": 8,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/backends/RmlUi/Inno.Adapter.UI.RmlUi.md",
+      "sourceSha256": "8a49f6ddfa334b0b32b22b21e60f9c98f74065435c41e640999b6715f905edeb",
+      "project": "Inno.Adapter.UI.RmlUi",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-adapter-ui-rmlui.md"
+      ],
+      "symbols": 28,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/backends/RmlUi/Inno.Build.Toolchains.UI.md",
+      "sourceSha256": "e738f1dca3a6fdd135727aeb8304c77ddb72a1adcec383f72b75da8aa3ff2a85",
+      "project": "Inno.Build.Toolchains.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-build-toolchains-ui.md"
+      ],
+      "symbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/backends/RmlUi/Inno.Native.UI.md",
+      "sourceSha256": "43919237fbd83013b9813080171c138999671beacb9517569a93d0324f2f9ff7",
+      "project": "Inno.Native.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-native-ui.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/backends/RmlUi/Inno.Native.UI/api.md",
+      "sourceSha256": "57fcd542aee3038ef739aa320f1c9bd96ac74d1c46e5d1b8e8c32cebcade08bb",
+      "project": "Inno.Native.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-native-ui.md"
+      ],
+      "symbols": 115,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/backends/RmlUi/README.md",
+      "sourceSha256": "487abc76621058fc6f6922052d0d41dc9e004468086dac00d761b1c4fd026a97",
+      "project": null,
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.Adapter.UI.md",
+      "sourceSha256": "3d1dbf23e652573f0e9159dd1f728898293b76fb2a6ba789a662108d0d73a4cf",
+      "project": "Inno.Adapter.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-adapter-ui.md"
+      ],
+      "symbols": 22,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.UI.Assets.md",
+      "sourceSha256": "17d280777015b54deb9baca5e6c30ca1940a6026b89990bd7f343b23d69b9a8b",
+      "project": "Inno.UI.Assets",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-ui-assets.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.UI.Assets/api.md",
+      "sourceSha256": "e58a58e7454588443923783419cbd9d5d4eb6efaf2d3fce012e9550350c8aeaa",
+      "project": "Inno.UI.Assets",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-ui-assets.md"
+      ],
+      "symbols": 67,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.UI.Runtime.md",
+      "sourceSha256": "b75e3a05343df2ee25a4d512dd45f25142fb27b7b51f32d1ec692dcfe40b3585",
+      "project": "Inno.UI.Runtime",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-ui-runtime.md"
+      ],
+      "symbols": 27,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.UI.md",
+      "sourceSha256": "70aabee8d3ffd0070614fc917d5880bb4e3e14bab75cd881213cc1941f6a8e11",
+      "project": "Inno.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-ui.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/Inno.UI/api.md",
+      "sourceSha256": "bf4cc8551342f522a069ce0d8c1305d3ae013bf33694f3b03cc80d305cf78fb5",
+      "project": "Inno.UI",
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md",
+        "content/en/api/projects/inno-ui.md"
+      ],
+      "symbols": 278,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    },
+    {
+      "source": "docs/modules/ui/README.md",
+      "sourceSha256": "6df2811511eca34eb562e5713ef7179521c00487a8d02665ac58e4b65612d7a9",
+      "project": null,
+      "destinations": [
+        "content/en/manual/ui/use-documents.md",
+        "content/en/manual/ui/author-rml.md",
+        "content/en/architecture/ui-lifetime.md",
+        "content/en/extending/ui-render-frames.md",
+        "content/en/backends/rmlui.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed"
+    }
+  ]
+}

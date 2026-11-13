@@ -1,0 +1,47 @@
+{
+  "status": "Passed",
+  "scope": "SelectedSourceReferenceComparison",
+  "configuration": "Debug",
+  "target": null,
+  "sourceApiStatus": "Unverified",
+  "references": [
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\tooling-architecture.json",
+      "identity": "1efa51fd046580e68a638a75d8c55bf296f06e36d36935b4c22efd2ccee250b6"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\tooling.json",
+      "identity": "9cb4d9ef845656f13d1e52fd570eea24a596ffdd523130a4960004a0c0eac27b"
+    }
+  ],
+  "projects": [
+    {
+      "project": "build/cli/Inno.Build.Cli/Inno.Build.Cli.csproj",
+      "name": "Inno.Build.Cli",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "build/distributions/Inno.Build.Distribution.Standard/Inno.Build.Distribution.Standard.csproj",
+      "name": "Inno.Build.Distribution.Standard",
+      "status": "Passed",
+      "symbols": 12,
+      "differences": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
+      "name": "Inno.Tooling.Architecture",
+      "status": "Passed",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
+      "name": "Inno.Tooling.Documentation",
+      "status": "Passed",
+      "symbols": 155,
+      "differences": []
+    }
+  ]
+}

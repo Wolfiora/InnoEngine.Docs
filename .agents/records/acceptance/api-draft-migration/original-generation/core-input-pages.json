@@ -1,0 +1,38 @@
+{
+  "project": "Inno.Core.Input",
+  "outputDirectory": "content/en/api/types/core-input",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "facts": "reference/api/core-models.json",
+  "factsIdentity": "7addee2064068027a2727dab6e2e4a6b47c03199fd36aa95157d471b00bd9cd6",
+  "sharedContract": "project.inno-core-input#input-value-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-input/member-values-d97627a0eb86d9a0.md",
+      "sha256": "b8806c0f4fcda1bcc732bd6dff9a16ed1afe18ec06c37b23147d3504c1e6a9f3"
+    },
+    {
+      "path": "content/en/api/types/core-input/keycode.md",
+      "sha256": "8a09a0d11252a181069bcfc18e34f2a51470046c50cb44d8603a01988e495194"
+    },
+    {
+      "path": "content/en/api/types/core-input/keymodifier.md",
+      "sha256": "734e63f2d219dd52c1874ed56b63dcc90d1e8545baeaaecd1fd5e6b013eb85c8"
+    },
+    {
+      "path": "content/en/api/types/core-input/mousebutton.md",
+      "sha256": "15158398f61a3f8e27619aec2dc96ae642b2ae54268b808a8f8e2de639485db6"
+    },
+    {
+      "path": "content/en/api/types/core-input/mousecursor.md",
+      "sha256": "1936353c649faafea5cddb27e39d6d79c13f4c590871f28e59a8719e9bad6e2a"
+    },
+    {
+      "path": "content/en/api/types/core-input/index.md",
+      "sha256": "33c2bea0d604e512605b4b7408f32527dc75f8e89179262fcff5e8c01acab8e3"
+    }
+  ]
+}

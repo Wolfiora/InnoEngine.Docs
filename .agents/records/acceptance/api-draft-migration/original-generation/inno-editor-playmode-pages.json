@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Editor.PlayMode",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-playmode",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-playmode",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-playmode/editorplaymodecontroller.md",
+      "sha256": "2f97d857dce3e28cc4ab9d5aedae0e25d73699956ca913d08b94f227961efcd2"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-playmode/editorplaymodeloop.md",
+      "sha256": "e3553b32090526ccbb1ea285ffd17626375efc9891a4a625bc1fe10e5e88368a"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-playmode/editorplaymodestate.md",
+      "sha256": "0d4d4b3aa4a2a4d605b656e82762d51b6fba970d72b646b1a07f29e1ab9de72e"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-playmode/ieditorplaymode.md",
+      "sha256": "152bce0e830588befc3fc76b2e35c14f9bf9afaaa1f30a23b9f5ce249f986b76"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-playmode/index.md",
+      "sha256": "987271475d4c210d0e5431c90973b22e5c6dde51286c31e07dece80fc22d9f20"
+    }
+  ]
+}

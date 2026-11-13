@@ -1,0 +1,73 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "c63dae76b618578863de6022b38211a835a8d876",
+  "sourceTree": "1d1f223f56d0360d3b387aca2601788dcc624f36",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/platform/WindowsX64/Inno.Editor.WindowsX64.md",
+      "sourceSha256": "d04999d0eb6429acbb27d727c666bc63becb6be56357eb1b9d87e7386d1a8bb7",
+      "sourceBlobSha256": "d04999d0eb6429acbb27d727c666bc63becb6be56357eb1b9d87e7386d1a8bb7",
+      "destinations": [
+        "content/en/api/projects/inno-editor-windowsx64.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "status": "NarrativeAndDeclarationReviewedExamplesPending",
+      "blocker": null
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Player.WindowsX64.md",
+      "sourceSha256": "4eea1204ac4803247e3eccbffced9dd4507a6c99c4727961a6efbe7c78ab2508",
+      "sourceBlobSha256": "4eea1204ac4803247e3eccbffced9dd4507a6c99c4727961a6efbe7c78ab2508",
+      "destinations": [
+        "content/en/api/projects/inno-player-windowsx64.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "status": "NarrativeAndDeclarationReviewedExamplesPending",
+      "blocker": null
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Editor.MacOSArm64.md",
+      "sourceSha256": "ee763e48be2d96fd0f39b1e6aced1eba5bdefde9ff255d8483d368508f322ae6",
+      "sourceBlobSha256": "ee763e48be2d96fd0f39b1e6aced1eba5bdefde9ff255d8483d368508f322ae6",
+      "destinations": [
+        "content/en/api/projects/inno-editor-macosarm64.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": null,
+      "status": "NarrativeReviewedTargetExtractionBlocked",
+      "blocker": "Actual target-configured managed references unavailable; retain nonzero extraction diagnostics."
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Player.MacOSArm64.md",
+      "sourceSha256": "f43543a94993733bf045cbec18dcbfa5d9824a370cae94600cac7dc8698f4efe",
+      "sourceBlobSha256": "f43543a94993733bf045cbec18dcbfa5d9824a370cae94600cac7dc8698f4efe",
+      "destinations": [
+        "content/en/api/projects/inno-player-macosarm64.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": null,
+      "status": "NarrativeReviewedTargetExtractionBlocked",
+      "blocker": "Actual target-configured managed references unavailable; retain nonzero extraction diagnostics."
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Player.BrowserWasm32.md",
+      "sourceSha256": "c4281932b2498825842b97a2f4a3c43f7d5896c4f8611b030a3bbbca3c57fc70",
+      "sourceBlobSha256": "c4281932b2498825842b97a2f4a3c43f7d5896c4f8611b030a3bbbca3c57fc70",
+      "destinations": [
+        "content/en/api/projects/inno-player-browserwasm32.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": null,
+      "status": "NarrativeReviewedTargetExtractionBlocked",
+      "blocker": "Actual target-configured managed references unavailable; retain nonzero extraction diagnostics."
+    }
+  ]
+}

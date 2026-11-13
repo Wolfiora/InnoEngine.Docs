@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Build.Toolchains.Bgfx.Shaders",
+  "outputDirectory": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-shaders",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/bgfx-engine.json",
+  "factsIdentity": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
+  "sharedContract": "project.inno-build-toolchains-bgfx-shaders",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-shaders/shaderartifactbuilder.md",
+      "sha256": "cbfcc6c058e43bc782f17ea5b58ff08463fa3761e63470dd62f3d9f799c2ed7c"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-shaders/shaderbuildinputs.md",
+      "sha256": "194fb8cab685276d721f7ebd3a33620df10abdcf6f3b1470fa01fbd6775b7dec"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx-shaders/index.md",
+      "sha256": "476d6b08129f99aa4f2ef1e784cf5b90f4ac35b5385959fa3810eea2caceaca1"
+    }
+  ]
+}

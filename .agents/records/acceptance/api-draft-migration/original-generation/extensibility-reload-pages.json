@@ -1,0 +1,54 @@
+{
+  "project": "Inno.Extensibility.Reload",
+  "outputDirectory": "content/en/api/types/extensibility-reload",
+  "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
+  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "facts": "reference/api/extensibility.json",
+  "factsIdentity": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
+  "sharedContract": "project.inno-extensibility-reload#shared-admission-and-retirement-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/extensibility-reload/assemblyunloadbarrier.md",
+      "sha256": "9b6de49e754196ab610a98cbde65ed4affd1289c5a5684c2fb3414b9b0e79757"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/assemblyunloadbarrieroptions.md",
+      "sha256": "8bed4e54d51a36a6ae2b3ef582f7a3699d6ab169b831fea8d6348cf2ad362c83"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/assemblyunloadbarrierstate.md",
+      "sha256": "a81ce79cc8c9b6791295bde646555d3ed5357ee4bf28eb0c397f5087090d4acc"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/assemblyunloadexception.md",
+      "sha256": "893b0b3d9725605d63ce5b637a1c47f183c495f2c72519916f4ba873a4c8966e"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/generationcoordinator.md",
+      "sha256": "4350eec436bd1dc82d2bc5e0cebfc142185e771374eb22a17b7bfcd403dc4c34"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/generationstate.md",
+      "sha256": "a3ec6653a3271251a7c8b2c7793cf7d39c67dc06befd0b32fe22c2f9ea53031f"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/iassemblyunloadprobe.md",
+      "sha256": "dc776333c832745840b64c22b53c7788ceef6c4eb95569d670de8bdf642cf92d"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/igenerationchange.md",
+      "sha256": "4080b5b10e5555226543ddc1e002f81614a992d1afa37d0cdf8742f332bf1cae"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/igenerationpublication-1.md",
+      "sha256": "0193ddf14009b0d5037f3d3045a8959c99d4baf8055da81b0cd9ccbf5032e727"
+    },
+    {
+      "path": "content/en/api/types/extensibility-reload/index.md",
+      "sha256": "ba0b5596582cb957354458f01ae316689ec61cdc4893d8c05eaeecbf1297930a"
+    }
+  ]
+}

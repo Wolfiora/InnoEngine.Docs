@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx-runtime",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-windowsx64-bgfx-runtime",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx-runtime/windowsx64bgfxsurfaceintegration.md",
+      "sha256": "8206473e3a1f9428d268e799e6180aeaaabb8517b2e013d3640ed8ce45f2558e"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx-runtime/index.md",
+      "sha256": "dc599f1770631eac8b4131fa14e8a55f39f2bbe3781cfc3f872630d994b45c23"
+    }
+  ]
+}

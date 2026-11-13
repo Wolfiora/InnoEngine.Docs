@@ -1,0 +1,24 @@
+{
+  "project": "Inno.Core.Serialization",
+  "outputDirectory": "content/en/api/editor-script/inno-core-serialization",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-core-serialization#operation-and-generation-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-core-serialization/innoengine.serialization.serializationregistry.md",
+      "sha256": "3ea67c4a0e81c37c71e315bcb519491a2db415fbead997393ef7076b7d40d731"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-core-serialization/index.md",
+      "sha256": "561602a7178c6c724369e0566c1f1a2ec7348c62af12b38e17958615cb1c1e09"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

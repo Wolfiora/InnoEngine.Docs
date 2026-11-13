@@ -1,0 +1,32 @@
+{
+  "project": "Inno.Editor.Scene",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-scene",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-scene",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-scene/innoeditor.scene.ieditorsceneworkspace.md",
+      "sha256": "58db11c5f76e4ebc01462a1f1cdbdf72c0dfd030ed2bf564ffc834e88c2460c8"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-scene/innoeditor.scene.sceneedits.md",
+      "sha256": "643795672e31397fb28e650a539a5771af459910e33920d74a9c8614371c8155"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-scene/innoeditor.scene.scenehierarchyedit.md",
+      "sha256": "64c33d913ca69ba8d41ac78db7059e798803d5bc83b7a09aae10f591d0418958"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-scene/index.md",
+      "sha256": "42acf39bcf799cff7095292214947db88ce6d6ab8c2f78d69771d84ad53bc2ea"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

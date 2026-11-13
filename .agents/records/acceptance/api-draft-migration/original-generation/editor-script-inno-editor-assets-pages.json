@@ -1,0 +1,56 @@
+{
+  "project": "Inno.Editor.Assets",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-assets",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-assets",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetcreationcontext.md",
+      "sha256": "0c62ab54b18341bb09c3b591a5c55fabe9ee1e479e5a08dc8611afb4cb836db7"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetcreationmenuattribute.md",
+      "sha256": "4781d2b660ea7dc8b028ebe7225b6e9e6802124af87a3d7de17ad79cbb3849a0"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetcreationtemplate.md",
+      "sha256": "3a66fe8445b7c555c105950c097b249a652130fdd54c7548ee178ff6ef296a93"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetcreationtemplate-1.md",
+      "sha256": "157cca2053570e6de2a8a06a9fb234676d92d79d99de6571fceb3d615ce18482"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.asseteditor.md",
+      "sha256": "f42f0b3871d73ed4949339d01980ec866fb8e939d764bf9eea8ef981a83f2bed"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.asseteditorattribute.md",
+      "sha256": "adc7932ae79ad56a336ca70e0d140a64037372e46a9d9d8c85e30b978a48bf18"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.asseteditorcontext.md",
+      "sha256": "747a9cb4353ae24dec20f1a87d186d4f60f75a0ad91eae6213fcc43dbe2af4f2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetimportsettingsedits.md",
+      "sha256": "627680d3062f315939764144b05a83e7301f1d84052f677be06a9e863193bb88"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/innoeditor.assets.assetoperationvalidation.md",
+      "sha256": "6688ed4f5cf46c28e7986998e4b8a95f2a503e917a154b4d031359a22c3780fc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-assets/index.md",
+      "sha256": "18b287f1d4e8ac6116ae22cbdbca451dab06319ca8f6373080fedb014d06e103"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

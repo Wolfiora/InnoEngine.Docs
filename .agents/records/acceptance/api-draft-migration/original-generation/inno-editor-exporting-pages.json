@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Editor.Exporting",
+  "outputDirectory": "content/en/api/types/editor-services/inno-editor-exporting",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-services.json",
+  "factsIdentity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
+  "sharedContract": "project.inno-editor-exporting",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-exporting/editorexportprogress.md",
+      "sha256": "d9939194c6db26a86268d8b1d9c1fb593007ba27a35b74dc841db84214e76bf8"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-exporting/editorexportservice.md",
+      "sha256": "a8472e909cc961b37ffaf1ca5cc374be3efca2fddd585170660cbd69814f746e"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-exporting/index.md",
+      "sha256": "6c9f82d580dacd9412a18219da9347853960ec54084b5c6fee1733d902560516"
+    }
+  ]
+}

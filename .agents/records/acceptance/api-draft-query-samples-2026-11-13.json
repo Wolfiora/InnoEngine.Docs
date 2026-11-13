@@ -1,0 +1,160 @@
+{
+  "tooling": "2a892bc8a88fe813ee24bc9efd93660ea35281ba",
+  "schema": "inno-documentation-query-benchmark/1",
+  "includesCliStartup": true,
+  "snapshot": "043aa9331efafcd54ab3d4d63a94ebcfb54eadc1b449144b2c8288e59adbcf08",
+  "concurrentTaskBuilds": false,
+  "samples": [
+    {
+      "scenario": "task",
+      "pages": [
+        "content/en/extending/customize-console.md",
+        "content/en/architecture/editor-ui.md",
+        "content/en/contributing/documentation-queries.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/index.md"
+      ],
+      "milliseconds": 1657.8215,
+      "timings": null,
+      "bytes": 4795,
+      "status": "Found",
+      "sample": 1,
+      "sourceStatus": "Unverified",
+      "hits": 5
+    },
+    {
+      "scenario": "task",
+      "pages": [
+        "content/en/extending/customize-console.md",
+        "content/en/architecture/editor-ui.md",
+        "content/en/contributing/documentation-queries.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/index.md"
+      ],
+      "milliseconds": 1667.0422,
+      "timings": null,
+      "bytes": 4795,
+      "status": "Found",
+      "sample": 2,
+      "sourceStatus": "Unverified",
+      "hits": 5
+    },
+    {
+      "scenario": "task",
+      "pages": [
+        "content/en/extending/customize-console.md",
+        "content/en/architecture/editor-ui.md",
+        "content/en/contributing/documentation-queries.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/index.md"
+      ],
+      "milliseconds": 1754.5894,
+      "timings": null,
+      "bytes": 4795,
+      "status": "Found",
+      "sample": 3,
+      "sourceStatus": "Unverified",
+      "hits": 5
+    },
+    {
+      "scenario": "task",
+      "pages": [
+        "content/en/extending/customize-console.md",
+        "content/en/architecture/editor-ui.md",
+        "content/en/contributing/documentation-queries.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/index.md"
+      ],
+      "milliseconds": 1688.5873,
+      "timings": null,
+      "bytes": 4795,
+      "status": "Found",
+      "sample": 4,
+      "sourceStatus": "Unverified",
+      "hits": 5
+    },
+    {
+      "scenario": "task",
+      "pages": [
+        "content/en/extending/customize-console.md",
+        "content/en/architecture/editor-ui.md",
+        "content/en/contributing/documentation-queries.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/index.md"
+      ],
+      "milliseconds": 1672.5111,
+      "timings": null,
+      "bytes": 4795,
+      "status": "Found",
+      "sample": 5,
+      "sourceStatus": "Unverified",
+      "hits": 5
+    },
+    {
+      "scenario": "symbol",
+      "pages": [
+        "content/en/api/engine/core/collections/dependencygraph/index.md"
+      ],
+      "milliseconds": 1257.5705,
+      "timings": null,
+      "bytes": 2577,
+      "status": "Partial",
+      "sample": 1,
+      "sourceStatus": "Unverified",
+      "hits": 1
+    },
+    {
+      "scenario": "symbol",
+      "pages": [
+        "content/en/api/engine/core/collections/dependencygraph/index.md"
+      ],
+      "milliseconds": 1243.3921,
+      "timings": null,
+      "bytes": 2577,
+      "status": "Partial",
+      "sample": 2,
+      "sourceStatus": "Unverified",
+      "hits": 1
+    },
+    {
+      "scenario": "symbol",
+      "pages": [
+        "content/en/api/engine/core/collections/dependencygraph/index.md"
+      ],
+      "milliseconds": 1224.7687,
+      "timings": null,
+      "bytes": 2577,
+      "status": "Partial",
+      "sample": 3,
+      "sourceStatus": "Unverified",
+      "hits": 1
+    },
+    {
+      "scenario": "symbol",
+      "pages": [
+        "content/en/api/engine/core/collections/dependencygraph/index.md"
+      ],
+      "milliseconds": 1234.6191,
+      "timings": null,
+      "bytes": 2577,
+      "status": "Partial",
+      "sample": 4,
+      "sourceStatus": "Unverified",
+      "hits": 1
+    },
+    {
+      "scenario": "symbol",
+      "pages": [
+        "content/en/api/engine/core/collections/dependencygraph/index.md"
+      ],
+      "milliseconds": 1239.716,
+      "timings": null,
+      "bytes": 2577,
+      "status": "Partial",
+      "sample": 5,
+      "sourceStatus": "Unverified",
+      "hits": 1
+    }
+  ],
+  "sdk": "10.0.402"
+}

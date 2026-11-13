@@ -1,0 +1,43 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "engineRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/development/build/Inno.Build.Cli.md",
+      "sourceSha256": "2cfa4223b03cc060b58c1b076c5a008df75fdea8655a6a5793417a16495ce34d",
+      "project": "Inno.Build.Cli",
+      "destination": "content/en/api/projects/inno-build-cli.md",
+      "baselineSymbols": 2,
+      "currentSymbols": 2,
+      "removedSymbols": [],
+      "changedSignatures": [],
+      "status": "NarrativeReviewedAndProjectionPassed",
+      "note": "Existing contracts retained; current tool additions are captured by exact source extraction."
+    },
+    {
+      "source": "docs/development/build/Inno.Build.Distribution.Standard.md",
+      "sourceSha256": "7959d532e8aee41947109e0a7805a6fb6c8b1bb36da4d6e1cfb525733767be0f",
+      "project": "Inno.Build.Distribution.Standard",
+      "destination": "content/en/api/projects/inno-build-distribution-standard.md",
+      "baselineSymbols": 11,
+      "currentSymbols": 12,
+      "removedSymbols": [],
+      "changedSignatures": [],
+      "status": "NarrativeReviewedAndProjectionPassed",
+      "note": "Existing contracts retained; current tool additions are captured by exact source extraction."
+    },
+    {
+      "source": "docs/development/tooling/Inno.Tooling.Architecture.md",
+      "sourceSha256": "26a5dbe29c83b39b0b54884d5e3b946ee7fe5e6cba4e82bd731dbb647adffc3b",
+      "project": "Inno.Tooling.Architecture",
+      "destination": "content/en/api/projects/inno-tooling-architecture.md",
+      "baselineSymbols": 5,
+      "currentSymbols": 10,
+      "removedSymbols": [],
+      "changedSignatures": [],
+      "status": "NarrativeReviewedAndProjectionPassed",
+      "note": "The Build docs route now uses the independent documentation library. The old Architecture query API and project-owner mapping still exist in this selected source and remain accounted for until their callers and legacy implementation are removed. No engine runtime contract changed."
+    }
+  ]
+}

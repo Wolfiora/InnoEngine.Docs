@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Editor.MacOSArm64",
+  "outputDirectory": "content/en/api/types/macos-editor",
+  "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
+  "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72",
+  "facts": "reference/api/platform-editor-macos.json",
+  "factsIdentity": "115f5bd71dabec5f8d51fc358f7e767a01102bfcd6de74ba26326f1d2f4e6674",
+  "sharedContract": "project.inno-editor-macosarm64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/macos-editor/macosarm64editorcomposition.md",
+      "sha256": "995febc33c2fff9a377ed8ec8e4ae659dfbfec180ea82062989b5f849c9579cf"
+    },
+    {
+      "path": "content/en/api/types/macos-editor/index.md",
+      "sha256": "0bf859101ccbb93a87c5adcc91414979eb83e2652b91155bf35eec7420140aa4"
+    }
+  ]
+}

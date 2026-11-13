@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Scene.Reload.TestModule",
+  "outputDirectory": "content/en/api/types/test-support/inno-scene-reload-testmodule",
+  "sourceRevision": "9a86549b9ed57ef77d3bcbb8fa78e745cc48ff6b",
+  "sourceTree": "7a048d0d704461090f3acec14f709f0042fe28bb",
+  "facts": "reference/api/test-support.json",
+  "factsIdentity": "744bd45ff219a81bb0bc98bd251834d7a2eda961a4d3acede4e4eb8d55808aba",
+  "sharedContract": "project.inno-scene-reload-testmodule",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/test-support/inno-scene-reload-testmodule/reloadablescenecomponent.md",
+      "sha256": "4b9d16f863fc2a56be83b84b3a18d63ba02d4862ff172410a410515900d25963"
+    },
+    {
+      "path": "content/en/api/types/test-support/inno-scene-reload-testmodule/reloadablescenesystem.md",
+      "sha256": "1e07e210ed87f99643f15ff51934a8b1150c1501dc3f1c01dde60dda64f8a71f"
+    },
+    {
+      "path": "content/en/api/types/test-support/inno-scene-reload-testmodule/index.md",
+      "sha256": "69711f46dac661269dfa0136306ad3c48a4cacd95c1ab9a65bb5487e4ef92c00"
+    }
+  ]
+}

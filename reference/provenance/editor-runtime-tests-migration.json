@@ -1,0 +1,189 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "ec506471b863c3b6e131d13ba78ff3ce9d31e15e",
+  "sourceTree": "56781ec1b25db433f796cff23644570cb18c07d1",
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Editor.Audio.Tests.md",
+      "sourceSha256": "ba21f9a0a75071cc0ce13f4b619fb8d3c272601230e35879d8ed0303734184f3",
+      "sourceBlobSha256": "ba21f9a0a75071cc0ce13f4b619fb8d3c272601230e35879d8ed0303734184f3",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-audio-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 1,
+      "preservedScenarioNames": 2,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Graph.Tests.md",
+      "sourceSha256": "229e7fa1c62515a663b8683dbc979c810ff911d1773ce80f430b223226f6b8c3",
+      "sourceBlobSha256": "229e7fa1c62515a663b8683dbc979c810ff911d1773ce80f430b223226f6b8c3",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-graph-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 1,
+      "preservedScenarioNames": 4,
+      "declaredLayer": "domain"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Hosting.Tests.md",
+      "sourceSha256": "8a3d5a14d060c1eaa41bbb1b946b10025cbb5ef266ef7bfbe7fbbdba470aad5d",
+      "sourceBlobSha256": "8a3d5a14d060c1eaa41bbb1b946b10025cbb5ef266ef7bfbe7fbbdba470aad5d",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-hosting-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 2,
+      "preservedScenarioNames": 6,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.ImGui.Tests.md",
+      "sourceSha256": "5038bac464b453f94d51b17c1ba7794bd4fc829a28434abc1ef7e6a33ba76fae",
+      "sourceBlobSha256": "33ea577dff60382b16864779e3865df3651d2dc36695a276b056ae940ec88150",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-imgui-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 4,
+      "preservedScenarioNames": 14,
+      "declaredLayer": "native"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Inspection.Tests.md",
+      "sourceSha256": "f9fdc7841e48d0c29ae476e943dca7b041bd4815cd772b9e674dd94fc0966523",
+      "sourceBlobSha256": "f9fdc7841e48d0c29ae476e943dca7b041bd4815cd772b9e674dd94fc0966523",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-inspection-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 1,
+      "preservedScenarioNames": 1,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Interactions.Tests.md",
+      "sourceSha256": "8444be3d13525ab4e5bc70e6db440dce37b4e636c5c9f07b6ad38f463bf4d147",
+      "sourceBlobSha256": "8444be3d13525ab4e5bc70e6db440dce37b4e636c5c9f07b6ad38f463bf4d147",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-interactions-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 11,
+      "declaredLayer": "domain"
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.PlayMode.Tests.md",
+      "sourceSha256": "16d080b2b226e39266a308a4cc65e89f4dc6c034e71848219cf1418945981bb5",
+      "sourceBlobSha256": "284a863e29cb177fad6022a990a6f7287448b8395e87fd28a6b522629783b239",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-playmode-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 6,
+      "preservedScenarioNames": 18,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Assets.Authoring.Tests.md",
+      "sourceSha256": "b05274941b9460d93d86d80bb8af4657e71dad75a754069a54628fd81fffca7f",
+      "sourceBlobSha256": "b05274941b9460d93d86d80bb8af4657e71dad75a754069a54628fd81fffca7f",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-rendering-assets-authoring-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 5,
+      "preservedScenarioNames": 20,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Assets.Tests.md",
+      "sourceSha256": "1330a8fa9697871f94d3645d4c25f5904367102c6da62cec453e0f633f28ff76",
+      "sourceBlobSha256": "1330a8fa9697871f94d3645d4c25f5904367102c6da62cec453e0f633f28ff76",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-rendering-assets-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 4,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Runtime.Tests.md",
+      "sourceSha256": "3657d3d940353c55d5782ece4ac088390616bf5497980e0c7d7fae985b379eff",
+      "sourceBlobSha256": "3657d3d940353c55d5782ece4ac088390616bf5497980e0c7d7fae985b379eff",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-rendering-runtime-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 5,
+      "preservedScenarioNames": 19,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Tests.md",
+      "sourceSha256": "5b0900285d4311b662d6ac431c07278ee5074d16ab125bcbf2f941e316a5a645",
+      "sourceBlobSha256": "5b0900285d4311b662d6ac431c07278ee5074d16ab125bcbf2f941e316a5a645",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-rendering-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 6,
+      "preservedScenarioNames": 20,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Runtime.Tests.md",
+      "sourceSha256": "8186060bce0d5951271b614d40f174eb23b74c4e90358af5952f46088f6fa9dc",
+      "sourceBlobSha256": "8186060bce0d5951271b614d40f174eb23b74c4e90358af5952f46088f6fa9dc",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-runtime-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 11,
+      "preservedScenarioNames": 36,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Runtime.Generators.Tests.md",
+      "sourceSha256": "5ffb9d333dcc59d7aab739efed4b6bd4f0088faa01ef1429a1b6b813351255c9",
+      "sourceBlobSha256": "5ffb9d333dcc59d7aab739efed4b6bd4f0088faa01ef1429a1b6b813351255c9",
+      "sourceNewlineRelationship": "Original inventory records checkout bytes; baseline blob content compared after CRLF normalization only.",
+      "destinations": [
+        "content/en/contributing/testing/inno-runtime-generators-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 10,
+      "declaredLayer": "contract"
+    }
+  ]
+}

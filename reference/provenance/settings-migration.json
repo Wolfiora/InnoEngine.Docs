@@ -1,0 +1,43 @@
+{
+  "sourceApiStatus": "Unverified",
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "semanticCorrections": [
+    "Standard lookup Get propagates KeyNotFoundException for an unavailable setting and InvalidCastException for an incompatible contract.",
+    "Generation rollback restores the previous revision; candidate revisions are not monotonic durable identities.",
+    "Disposed store execution-scope acquisition throws InvalidOperationException through RequireCurrent.",
+    "Document restoration after a failed rebuild can itself fail on storage errors; no unconditional crash-safe multi-resource rollback is promised."
+  ],
+  "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
+  "reviews": [
+    {
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "symbols": 0,
+      "missing": [],
+      "source": "docs/modules/core/Inno.Core.Settings.md",
+      "sourceSha256": "8dbfbd4a41a9c671fc875996c2c6c45a8606187fdc2cdbd9a9c51301159ddb74",
+      "destinations": [
+        "content/en/manual/projects/read-settings.md",
+        "content/en/extending/project-settings.md",
+        "content/en/api/projects/inno-core-settings.md",
+        "content/en/api/types/core-settings/index.md"
+      ],
+      "project": "Inno.Core.Settings"
+    },
+    {
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "symbols": 157,
+      "missing": [],
+      "source": "docs/modules/core/Inno.Core.Settings/api.md",
+      "sourceSha256": "391c0283f4c65af8fe91298bc0938beb784c7508fd7a31d8af89d246d2be3f20",
+      "destinations": [
+        "content/en/manual/projects/read-settings.md",
+        "content/en/extending/project-settings.md",
+        "content/en/api/projects/inno-core-settings.md",
+        "content/en/api/types/core-settings/index.md"
+      ],
+      "project": "Inno.Core.Settings"
+    }
+  ]
+}

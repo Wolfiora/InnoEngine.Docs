@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.Audio.MiniAudio",
+  "outputDirectory": "content/en/api/types/adapter-audio-miniaudio",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+  "facts": "reference/api/miniaudio.json",
+  "factsIdentity": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032",
+  "sharedContract": "project.inno-adapter-audio-miniaudio#preparation-and-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-audio-miniaudio/miniaudiobackendprovider.md",
+      "sha256": "5bd24c279ae019f206075d0aa56d7e72275227d9496f353d1488f77b55e5167f"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio-miniaudio/miniaudiodevice.md",
+      "sha256": "339a6d29d5a9db07f53f527165c0c7b2512105f1c73aad46e0ed5c8f8ef0dc1f"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio-miniaudio/miniaudiodeviceoptions.md",
+      "sha256": "88faec6cf0fdeaddd109ed7420c5e113267987c63c04f49f15de764826502496"
+    },
+    {
+      "path": "content/en/api/types/adapter-audio-miniaudio/index.md",
+      "sha256": "1922a04d39401fadd4cc3a7b2015ed18dd201ad7b4c1f28bac3435274fad13c2"
+    }
+  ]
+}

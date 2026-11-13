@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Integration.BrowserWasm32.Bgfx",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-browserwasm32-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx/browserwasm32bgfxintegration.md",
+      "sha256": "617750f2359a67ab3b1dd3c5a7f2950c9b38da04146a2ea1f40d6d47a9b69cf4"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx/browserwasm32bgfxshaderprofiles.md",
+      "sha256": "095b474b0699cd7f501716a60241219b5e069b795b269c16ba4b4040f6629f78"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx/index.md",
+      "sha256": "8582c0924d345e0d1d44790d1b7223d79d623724660bcfdd1c8ab89b600beeb2"
+    }
+  ]
+}

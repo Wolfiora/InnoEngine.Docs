@@ -1,0 +1,62 @@
+{
+  "medianMilliseconds": 79772.7422,
+  "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+  "operation": "Prepared Windows Debug authored CLR source export",
+  "protectedFile": "src/composition/editor/features/Inno.Editor.Assets/Properties/ScriptingApi.cs",
+  "samples": [
+    {
+      "projects": 138,
+      "sha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "exitCode": 0,
+      "sample": 1,
+      "bytes": 14218084,
+      "milliseconds": 88436.8124,
+      "symbols": 11736
+    },
+    {
+      "projects": 138,
+      "sha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "exitCode": 0,
+      "sample": 2,
+      "bytes": 14218084,
+      "milliseconds": 70528.0239,
+      "symbols": 11736
+    },
+    {
+      "projects": 138,
+      "sha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "exitCode": 0,
+      "sample": 3,
+      "bytes": 14218084,
+      "milliseconds": 72973.0659,
+      "symbols": 11736
+    },
+    {
+      "projects": 138,
+      "sha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "exitCode": 0,
+      "sample": 4,
+      "bytes": 14218084,
+      "milliseconds": 79772.7422,
+      "symbols": 11736
+    },
+    {
+      "projects": 138,
+      "sha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "exitCode": 0,
+      "sample": 5,
+      "bytes": 14218084,
+      "milliseconds": 81876.7244,
+      "symbols": 11736
+    }
+  ],
+  "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1",
+  "protectedFileSha256": "b99daf9359b26ba1dd5eb1d46d69868bde8153b0c66ed037edcb4e8fa687ed61",
+  "transportSha256": "c3bec84e27c1bf4d39990d34c83e1ae8d58503fccfe6f9aa7ee096496fe595a2",
+  "workspaceStatus": [
+    " M src/composition/editor/features/Inno.Editor.Assets/Properties/ScriptingApi.cs"
+  ],
+  "sourceApiStatus": "Unverified",
+  "scope": "Performance only: mutable local checkout with explicitly recorded other-session edit; not committed multi-host certification. Existing real managed references are reused; extraction evaluates the SDK graph but does not build products.",
+  "sdk": "10.0.402"
+}

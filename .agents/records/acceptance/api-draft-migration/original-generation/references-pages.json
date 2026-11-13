@@ -1,0 +1,66 @@
+{
+  "project": "Inno.References",
+  "outputDirectory": "content/en/api/types/references",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "facts": "reference/api/references-plugins.json",
+  "factsIdentity": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
+  "sharedContract": "project.inno-references",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/references/contentreadscope.md",
+      "sha256": "c8d985515049c211a9e227a062734445114252986cf89b209a846ad63b15cb13"
+    },
+    {
+      "path": "content/en/api/types/references/ireferencerecoveryparticipant.md",
+      "sha256": "30c571f26c6f1d85e92a3f879c0292fd0d7ab6d469752f62cb4fe893b0507107"
+    },
+    {
+      "path": "content/en/api/types/references/ireferenceresolver.md",
+      "sha256": "d97485cf732102252969d92e1edec1bd000adc80582fc6c7659a594b610d8281"
+    },
+    {
+      "path": "content/en/api/types/references/referencecatalog.md",
+      "sha256": "53ebe3389212f3022fe48d20bad5bc9bf6aa06d305eda298f14f138962dd6ba4"
+    },
+    {
+      "path": "content/en/api/types/references/referencedescriptor.md",
+      "sha256": "1498aaec1701ef09b3d8186db8d0e1f5cd9ac20e3b7f45c34fd4aa108a0a9f6f"
+    },
+    {
+      "path": "content/en/api/types/references/referencekey.md",
+      "sha256": "d3605a6e2bb549cede3811050209540f2ace0bcbe8d48324bc6fb46e6f2a8492"
+    },
+    {
+      "path": "content/en/api/types/references/referencekindid.md",
+      "sha256": "9e4134e44ca3d62a9606d33fe9ecdcbd7e92c2c4031287c84b74da7bfd0a0cc4"
+    },
+    {
+      "path": "content/en/api/types/references/referencerecoverychange.md",
+      "sha256": "352761db1c1cb8746a4f515149a21256b233398c3d64cedc5a8889c097942098"
+    },
+    {
+      "path": "content/en/api/types/references/referencerecoverytransaction.md",
+      "sha256": "4074da58252e846d083a311ff0cccccf79bc65a4c011d9fb5b4ea2faaea1ca5f"
+    },
+    {
+      "path": "content/en/api/types/references/referenceresolution.md",
+      "sha256": "750f3b75316b3e8d316a241765d9bc40b746481dd1f4c64636ec58f471dbe627"
+    },
+    {
+      "path": "content/en/api/types/references/referenceresolutionstate.md",
+      "sha256": "60ebddcccfa34a63109c38a328579530a5760f0f058e86b5da4265db36bc7578"
+    },
+    {
+      "path": "content/en/api/types/references/serializedmissingstate.md",
+      "sha256": "354bc9ff27f237bbba136f8954e6d9643f2ad1ff3d0ab2749caba5e14fe6128c"
+    },
+    {
+      "path": "content/en/api/types/references/index.md",
+      "sha256": "e141d4632700c0b99ca2786c701e5011b8e5e1979f57f600eaef9737adcfb6e7"
+    }
+  ]
+}

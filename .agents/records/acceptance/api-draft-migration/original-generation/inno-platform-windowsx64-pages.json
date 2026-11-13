@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Platform.WindowsX64",
+  "outputDirectory": "content/en/api/types/platform-services/inno-platform-windowsx64",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-platform-windowsx64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-platform-windowsx64/windowsx64applicationlocations.md",
+      "sha256": "918cd03dd865372319cc476dd50500d8c94cf5e5a8ba2c64962637609594a29b"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-platform-windowsx64/index.md",
+      "sha256": "77ba734eb5e8c8d8dcd64b634b83cac0b8c122ab452a7e920ef3a9f8cb1355a4"
+    }
+  ]
+}

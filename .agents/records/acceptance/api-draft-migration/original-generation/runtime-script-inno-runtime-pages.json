@@ -1,0 +1,24 @@
+{
+  "project": "Inno.Runtime",
+  "outputDirectory": "content/en/api/runtime-script/inno-runtime",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-runtime",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-runtime/innoengine.core.time.md",
+      "sha256": "3e3a0364f534e97ac3b28e8cdd370474789efc8fa5c42d380e15d6e8ad5d15a0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-runtime/index.md",
+      "sha256": "5c2062a1057d9ccda7b29c13f6f000133b4e06e54ce22a392449f995a73325fd"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

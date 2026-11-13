@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Editor.Audio",
+  "outputDirectory": "content/en/api/types/editor-services/inno-editor-audio",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-services.json",
+  "factsIdentity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
+  "sharedContract": "project.inno-editor-audio",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-audio/editoraudiohost.md",
+      "sha256": "3c086296b0ea22f73c0aaf0f6c4b649d7e691833715c392eec3ac6429e676342"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-audio/ieditoraudiohost.md",
+      "sha256": "9d9c40ff8f35311f0837659eb11b96df6f0e86bf9847ab317444207f470fd635"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-audio/index.md",
+      "sha256": "5229c327c2b79f38f438ea19f62d56e9c6ffbc2fb174b3a8e5bf08e7f03b5a99"
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "85a9022a218479df698eefa79f9f2f2a5f9c82d2",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/README.md",
+      "sourceSha256": "297075db73d100c0f97f3725be309404203a9cd30793dc869e5dfd64e17cdd2f",
+      "reviewedCheckoutSha256": "297075db73d100c0f97f3725be309404203a9cd30793dc869e5dfd64e17cdd2f",
+      "sourceBlobSha256": "297075db73d100c0f97f3725be309404203a9cd30793dc869e5dfd64e17cdd2f",
+      "destinations": [
+        "content/en/index.md",
+        "content/en/manual/index.md",
+        "content/en/api/index.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/architecture/README.md",
+      "sourceSha256": "4579b1bbde3d26fd5ddef086455b7aadbd919f1a64e40923a0a6a017dc3e518b",
+      "reviewedCheckoutSha256": "4579b1bbde3d26fd5ddef086455b7aadbd919f1a64e40923a0a6a017dc3e518b",
+      "sourceBlobSha256": "4579b1bbde3d26fd5ddef086455b7aadbd919f1a64e40923a0a6a017dc3e518b",
+      "destinations": [
+        "content/en/architecture/overview.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/architecture/build-and-cache.md",
+      "sourceSha256": "db67a55045528b7d9c51a2bf9401be4d4ed8c13c8727c3c31b8b2bc4357d25dc",
+      "reviewedCheckoutSha256": "db67a55045528b7d9c51a2bf9401be4d4ed8c13c8727c3c31b8b2bc4357d25dc",
+      "sourceBlobSha256": "db67a55045528b7d9c51a2bf9401be4d4ed8c13c8727c3c31b8b2bc4357d25dc",
+      "destinations": [
+        "content/en/architecture/build-artifacts.md",
+        "content/en/architecture/native-preparation.md",
+        "content/en/architecture/task-hosts.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/editor-ui.md",
+      "sourceSha256": "26d7086c88e9b24fc26c36e42a3c6052ab8161c766664d3d5648ddc7a248084a",
+      "reviewedCheckoutSha256": "26d7086c88e9b24fc26c36e42a3c6052ab8161c766664d3d5648ddc7a248084a",
+      "sourceBlobSha256": "26d7086c88e9b24fc26c36e42a3c6052ab8161c766664d3d5648ddc7a248084a",
+      "destinations": [
+        "content/en/architecture/editor-ui.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/editor-actions.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/identity-and-reload.md",
+      "sourceSha256": "808cbb05fdeeb737482cd952c506714fcd5e8bed811d152f3c832015d1cdf9b8",
+      "reviewedCheckoutSha256": "0856d29feca2d9ffb865d6b198225e0627d4c0e71d9ebc434c57027e9656b18d",
+      "sourceBlobSha256": "808cbb05fdeeb737482cd952c506714fcd5e8bed811d152f3c832015d1cdf9b8",
+      "destinations": [
+        "content/en/architecture/identity-and-recovery.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/manual/references/resolve-missing.md",
+        "content/en/extending/reference-recovery.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/overview.md",
+      "sourceSha256": "91331c24a2bab61cb26a400db7e2314ec0a33b320fe1ff7b3e9c18cf35c40b62",
+      "reviewedCheckoutSha256": "91331c24a2bab61cb26a400db7e2314ec0a33b320fe1ff7b3e9c18cf35c40b62",
+      "sourceBlobSha256": "91331c24a2bab61cb26a400db7e2314ec0a33b320fe1ff7b3e9c18cf35c40b62",
+      "destinations": [
+        "content/en/architecture/overview.md",
+        "content/en/api/index.md",
+        "content/en/architecture/render-frame.md",
+        "content/en/platforms/product-composition.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/ownership.md",
+      "sourceSha256": "3ed701769a897fc41b28d09e7705aa6a359c5ed20f8f2757c8229644f0146477",
+      "reviewedCheckoutSha256": "3ed701769a897fc41b28d09e7705aa6a359c5ed20f8f2757c8229644f0146477",
+      "sourceBlobSha256": "3ed701769a897fc41b28d09e7705aa6a359c5ed20f8f2757c8229644f0146477",
+      "destinations": [
+        "content/en/architecture/ownership.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/platform-and-products.md",
+      "sourceSha256": "f24d7f3af998c53558cf203f2fcef4af7dc037aec941d729da9c277f4c3edddb",
+      "reviewedCheckoutSha256": "f24d7f3af998c53558cf203f2fcef4af7dc037aec941d729da9c277f4c3edddb",
+      "sourceBlobSha256": "f24d7f3af998c53558cf203f2fcef4af7dc037aec941d729da9c277f4c3edddb",
+      "destinations": [
+        "content/en/platforms/product-composition.md",
+        "content/en/platforms/select-target.md",
+        "content/en/architecture/native-preparation.md",
+        "content/en/extending/platforms.md",
+        "content/en/contributing/native-bindings.md",
+        "content/en/manual/assets/read-content-pack.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/architecture/web-player.md",
+      "sourceSha256": "f9041dc4903e2840e2b08038243a82c62002093f87d3ee62448dbe1bd422c861",
+      "reviewedCheckoutSha256": "f9041dc4903e2840e2b08038243a82c62002093f87d3ee62448dbe1bd422c861",
+      "sourceBlobSha256": "f9041dc4903e2840e2b08038243a82c62002093f87d3ee62448dbe1bd422c861",
+      "destinations": [
+        "content/en/platforms/product-composition.md",
+        "content/en/platforms/publish-player.md",
+        "content/en/manual/assets/read-content-pack.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/backends/Bgfx/README.md",
+      "sourceSha256": "91a72ab7351dbb0dc1e01e62ee1032ebaf9aa36e7dfaccb8f4a34c63f6df6b12",
+      "reviewedCheckoutSha256": "91a72ab7351dbb0dc1e01e62ee1032ebaf9aa36e7dfaccb8f4a34c63f6df6b12",
+      "sourceBlobSha256": "91a72ab7351dbb0dc1e01e62ee1032ebaf9aa36e7dfaccb8f4a34c63f6df6b12",
+      "destinations": [
+        "content/en/backends/bgfx.md",
+        "content/en/backends/bgfx-shaders.md",
+        "content/en/contributing/testing/inno-adapter-rendering-bgfx-tests.md",
+        "content/en/api/projects/inno-adapter-rendering-bgfx.md",
+        "content/en/api/projects/inno-build-toolchains-bgfx.md",
+        "content/en/api/projects/inno-build-toolchains-bgfx-shaders.md",
+        "content/en/api/projects/inno-build-toolchains-bgfx-tools.md",
+        "content/en/api/projects/inno-native-bgfx.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/DotNet/README.md",
+      "sourceSha256": "ad5141cec66690498255a9ee8f677f3b8f2e0343cfb0a80f3d9d48c94148ba3b",
+      "reviewedCheckoutSha256": "ad5141cec66690498255a9ee8f677f3b8f2e0343cfb0a80f3d9d48c94148ba3b",
+      "sourceBlobSha256": "ad5141cec66690498255a9ee8f677f3b8f2e0343cfb0a80f3d9d48c94148ba3b",
+      "destinations": [
+        "content/en/backends/dotnet-modules.md",
+        "content/en/backends/dotnet-serialization.md",
+        "content/en/backends/dotnet-publishing.md",
+        "content/en/api/projects/inno-adapter-modules-dotnet.md",
+        "content/en/api/projects/inno-adapter-serialization-dotnet.md",
+        "content/en/api/projects/inno-build-managed-dotnet.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/FileSystem/README.md",
+      "sourceSha256": "3f4d89618c1bbfca4d31a01c588685be98924413873de0719b05bbd64ae8a070",
+      "reviewedCheckoutSha256": "3f4d89618c1bbfca4d31a01c588685be98924413873de0719b05bbd64ae8a070",
+      "sourceBlobSha256": "3f4d89618c1bbfca4d31a01c588685be98924413873de0719b05bbd64ae8a070",
+      "destinations": [
+        "content/en/backends/file-content-cache.md",
+        "content/en/api/projects/inno-adapter-content-filesystem.md",
+        "content/en/api/projects/inno-adapter-storage-filesystem.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Native.ImGuizmo/api.md",
+      "sourceSha256": "2a3d89f98853951fbd2933062fd445eada7a932047751350d84285a8a43e18b6",
+      "reviewedCheckoutSha256": "2a3d89f98853951fbd2933062fd445eada7a932047751350d84285a8a43e18b6",
+      "sourceBlobSha256": "2a3d89f98853951fbd2933062fd445eada7a932047751350d84285a8a43e18b6",
+      "destinations": [
+        "content/en/api/projects/inno-native-imguizmo.md"
+      ],
+      "status": "RetiredGeneratedBindingReferenceByUserScope",
+      "rationale": "Upstream-generated native binding member catalog is outside the approved documentation scope. The engine integration entry remains; no native tests, deployment or licenses are removed."
+    },
+    {
+      "source": "docs/backends/ImGui/README.md",
+      "sourceSha256": "c67d298168d106c036efb19ae66a5dac5f9d60e26469b170ef751d67a1df71b4",
+      "reviewedCheckoutSha256": "c67d298168d106c036efb19ae66a5dac5f9d60e26469b170ef751d67a1df71b4",
+      "sourceBlobSha256": "c67d298168d106c036efb19ae66a5dac5f9d60e26469b170ef751d67a1df71b4",
+      "destinations": [
+        "content/en/backends/imgui-context.md",
+        "content/en/backends/imgui-rendering.md",
+        "content/en/api/projects/inno-adapter-presentation-imgui-bgfx.md",
+        "content/en/api/projects/inno-adapter-presentation-imgui-sdl3.md",
+        "content/en/api/projects/inno-build-toolchains-imgui.md",
+        "content/en/api/projects/inno-build-toolchains-imguizmo.md",
+        "content/en/api/projects/inno-native-imgui.md",
+        "content/en/api/projects/inno-native-imguizmo.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/Interop/README.md",
+      "sourceSha256": "e0498fd4b91cd6fc947d11e5dc931bee84deeec650865e03481d2a5ae8e1e671",
+      "reviewedCheckoutSha256": "e0498fd4b91cd6fc947d11e5dc931bee84deeec650865e03481d2a5ae8e1e671",
+      "sourceBlobSha256": "e0498fd4b91cd6fc947d11e5dc931bee84deeec650865e03481d2a5ae8e1e671",
+      "destinations": [
+        "content/en/backends/index.md",
+        "content/en/api/projects/inno-native-libraryloading.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/README.md",
+      "sourceSha256": "c94bd454c15b66a5e65456082ba0dfe75205a4719d9c771ad75c6601e90df9f7",
+      "reviewedCheckoutSha256": "c94bd454c15b66a5e65456082ba0dfe75205a4719d9c771ad75c6601e90df9f7",
+      "sourceBlobSha256": "c94bd454c15b66a5e65456082ba0dfe75205a4719d9c771ad75c6601e90df9f7",
+      "destinations": [
+        "content/en/backends/index.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/backends/Sdl3/README.md",
+      "sourceSha256": "0c4828cc24bed4c42f8f8cd454c0566248dab0439afa333a44f956762727100d",
+      "reviewedCheckoutSha256": "0c4828cc24bed4c42f8f8cd454c0566248dab0439afa333a44f956762727100d",
+      "sourceBlobSha256": "0c4828cc24bed4c42f8f8cd454c0566248dab0439afa333a44f956762727100d",
+      "destinations": [
+        "content/en/backends/sdl3.md",
+        "content/en/api/projects/inno-adapter-platform-sdl3.md",
+        "content/en/api/projects/inno-build-toolchains-sdl3.md",
+        "content/en/api/projects/inno-native-sdl3.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/development/README.md",
+      "sourceSha256": "32280bc50734a12bfa876341f09ac560ae5c7c65e813bc88d5ba0946f9f3d489",
+      "reviewedCheckoutSha256": "32280bc50734a12bfa876341f09ac560ae5c7c65e813bc88d5ba0946f9f3d489",
+      "sourceBlobSha256": "32280bc50734a12bfa876341f09ac560ae5c7c65e813bc88d5ba0946f9f3d489",
+      "destinations": [
+        "content/en/contributing/index.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/development/adding-platform.md",
+      "sourceSha256": "e89ccb124bdb047ebbb9eaf230e6151c7426a299a39da66b502d26d3ad9056d1",
+      "reviewedCheckoutSha256": "e89ccb124bdb047ebbb9eaf230e6151c7426a299a39da66b502d26d3ad9056d1",
+      "sourceBlobSha256": "e89ccb124bdb047ebbb9eaf230e6151c7426a299a39da66b502d26d3ad9056d1",
+      "destinations": [
+        "content/en/extending/platforms.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/build/DEPENDENCY_SUBMISSION.md",
+      "sourceSha256": "ea08a9dac7da4aef46f69995e88f09c3eb1b9c22befdf241657ee60edf12645d",
+      "reviewedCheckoutSha256": "ea08a9dac7da4aef46f69995e88f09c3eb1b9c22befdf241657ee60edf12645d",
+      "sourceBlobSha256": "ea08a9dac7da4aef46f69995e88f09c3eb1b9c22befdf241657ee60edf12645d",
+      "destinations": [
+        "content/en/contributing/dependencies.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/build/README.md",
+      "sourceSha256": "f638938e4ec619490491544ddcca56f24d945505b5f965a2cea4263297ed0f29",
+      "reviewedCheckoutSha256": "f638938e4ec619490491544ddcca56f24d945505b5f965a2cea4263297ed0f29",
+      "sourceBlobSha256": "f638938e4ec619490491544ddcca56f24d945505b5f965a2cea4263297ed0f29",
+      "destinations": [
+        "content/en/contributing/development-entries.md",
+        "content/en/api/index.md",
+        "content/en/api/projects/inno-build-bindings.md",
+        "content/en/api/projects/inno-build-cli.md",
+        "content/en/api/projects/inno-build-composition.md",
+        "content/en/api/projects/inno-build-distribution-standard.md",
+        "content/en/api/projects/inno-build-managed.md",
+        "content/en/api/projects/inno-build.md",
+        "content/en/api/projects/inno-build-products-standard.md",
+        "content/en/api/projects/inno-build-supportpacks-core.md",
+        "content/en/api/projects/inno-build-taskhosting.md",
+        "content/en/api/projects/inno-build-tasks.md",
+        "content/en/api/projects/inno-build-toolchains.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/development/building.md",
+      "sourceSha256": "3091cd77d0a9f31614469046636201346b09f3f7d086b8ec3d78fea38d2fd92b",
+      "reviewedCheckoutSha256": "3091cd77d0a9f31614469046636201346b09f3f7d086b8ec3d78fea38d2fd92b",
+      "sourceBlobSha256": "3091cd77d0a9f31614469046636201346b09f3f7d086b8ec3d78fea38d2fd92b",
+      "destinations": [
+        "content/en/contributing/development-entries.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/documentation.md",
+      "sourceSha256": "a8053b000ea3e7677d99ada0296ace52e60d815c21739bc29b94e879d0cb2075",
+      "reviewedCheckoutSha256": "a8053b000ea3e7677d99ada0296ace52e60d815c21739bc29b94e879d0cb2075",
+      "sourceBlobSha256": "a8053b000ea3e7677d99ada0296ace52e60d815c21739bc29b94e879d0cb2075",
+      "destinations": [
+        "content/en/contributing/documentation-queries.md",
+        "content/en/contributing/example-validation.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/entry/README.md",
+      "sourceSha256": "c0ac1d0a5ccd5147e8c3144bf6ca64caf7b7152ec7f511e4160697b8adc20e5d",
+      "reviewedCheckoutSha256": "c0ac1d0a5ccd5147e8c3144bf6ca64caf7b7152ec7f511e4160697b8adc20e5d",
+      "sourceBlobSha256": "c0ac1d0a5ccd5147e8c3144bf6ca64caf7b7152ec7f511e4160697b8adc20e5d",
+      "destinations": [
+        "content/en/contributing/development-entries.md",
+        "content/en/platforms/product-composition.md",
+        "content/en/api/projects/innoengine-build.md",
+        "content/en/api/projects/innoengine-editor.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/development/native-bindings.md",
+      "sourceSha256": "a2b2e4067125cce2d8c32d8f7e14bc8a62df8db7580f340be37ca18f976d4da5",
+      "reviewedCheckoutSha256": "a2b2e4067125cce2d8c32d8f7e14bc8a62df8db7580f340be37ca18f976d4da5",
+      "sourceBlobSha256": "a2b2e4067125cce2d8c32d8f7e14bc8a62df8db7580f340be37ca18f976d4da5",
+      "destinations": [
+        "content/en/contributing/native-bindings.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/testing.md",
+      "sourceSha256": "ba6057b03c55e02ee8fd200592a4e9ecdeaac3e1cd8eac71f5463ad98e7aecee",
+      "reviewedCheckoutSha256": "ba6057b03c55e02ee8fd200592a4e9ecdeaac3e1cd8eac71f5463ad98e7aecee",
+      "sourceBlobSha256": "00c35557e9a5ed1f6d33720288bf9b3c2a7400aebb334eb32a166f324310b9d9",
+      "destinations": [
+        "content/en/contributing/validate-change.md",
+        "content/en/contributing/testing/index.md",
+        "content/en/contributing/product-journeys.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/development/tooling/README.md",
+      "sourceSha256": "f474479ab2142ddc82f372e85e60bcba0c7dae8a0fa384289a8bcebdcbf665da",
+      "reviewedCheckoutSha256": "f474479ab2142ddc82f372e85e60bcba0c7dae8a0fa384289a8bcebdcbf665da",
+      "sourceBlobSha256": "f474479ab2142ddc82f372e85e60bcba0c7dae8a0fa384289a8bcebdcbf665da",
+      "destinations": [
+        "content/en/contributing/documentation-queries.md",
+        "content/en/contributing/validate-change.md",
+        "content/en/api/projects/inno-tooling-architecture.md",
+        "content/en/api/projects/inno-tooling-validation.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/getting-started/README.md",
+      "sourceSha256": "66f9ae6e408dfa25277d7061e292420bc73e2e910a73c430fd0bdabe03966099",
+      "reviewedCheckoutSha256": "66f9ae6e408dfa25277d7061e292420bc73e2e910a73c430fd0bdabe03966099",
+      "sourceBlobSha256": "66f9ae6e408dfa25277d7061e292420bc73e2e910a73c430fd0bdabe03966099",
+      "destinations": [
+        "content/en/getting-started/prerequisites.md",
+        "content/en/getting-started/first-editor-session.md",
+        "content/en/getting-started/first-project.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/getting-started/first-project.md",
+      "sourceSha256": "18d7dbad99d13233e52836ee99dd167864d49f4e24b1bfef5383317cfeb7a3fa",
+      "reviewedCheckoutSha256": "18d7dbad99d13233e52836ee99dd167864d49f4e24b1bfef5383317cfeb7a3fa",
+      "sourceBlobSha256": "18d7dbad99d13233e52836ee99dd167864d49f4e24b1bfef5383317cfeb7a3fa",
+      "destinations": [
+        "content/en/getting-started/first-project.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/modules/README.md",
+      "sourceSha256": "7ffde752eab3cfbc6cd97aae6e96fc7a60a383cc5e670bc638df5f8842fad404",
+      "reviewedCheckoutSha256": "7ffde752eab3cfbc6cd97aae6e96fc7a60a383cc5e670bc638df5f8842fad404",
+      "sourceBlobSha256": "7ffde752eab3cfbc6cd97aae6e96fc7a60a383cc5e670bc638df5f8842fad404",
+      "destinations": [
+        "content/en/manual/index.md",
+        "content/en/api/index.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/modules/core/README.md",
+      "sourceSha256": "d3705f0060cc9ebc28b132402763d636d939d20fb8f2b94bfb9112eb46a68d41",
+      "reviewedCheckoutSha256": "d3705f0060cc9ebc28b132402763d636d939d20fb8f2b94bfb9112eb46a68d41",
+      "sourceBlobSha256": "d3705f0060cc9ebc28b132402763d636d939d20fb8f2b94bfb9112eb46a68d41",
+      "destinations": [
+        "content/en/architecture/overview.md",
+        "content/en/api/index.md",
+        "content/en/manual/register-identity.md",
+        "content/en/api/projects/inno-core-execution.md",
+        "content/en/api/projects/inno-core-diagnostics.md",
+        "content/en/api/projects/inno-core-logging.md",
+        "content/en/api/projects/inno-core-mathematics.md",
+        "content/en/api/projects/inno-core-identity.md",
+        "content/en/api/projects/inno-core-serialization.md",
+        "content/en/api/projects/inno-core-serialization-generators.md",
+        "content/en/api/projects/inno-core-collections.md",
+        "content/en/api/projects/inno-core-events.md",
+        "content/en/api/projects/inno-core-layers.md",
+        "content/en/api/projects/inno-core-io.md",
+        "content/en/api/projects/inno-core-input.md",
+        "content/en/api/projects/inno-core-jobs.md",
+        "content/en/api/projects/inno-core-coroutines.md",
+        "content/en/api/projects/inno-core-graphs.md",
+        "content/en/api/projects/inno-core-settings.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/modules/editor/README.md",
+      "sourceSha256": "068d280f71e4088af84a167d37ffb88bf29e60d0145fc6b16655b755beb5a7e2",
+      "reviewedCheckoutSha256": "068d280f71e4088af84a167d37ffb88bf29e60d0145fc6b16655b755beb5a7e2",
+      "sourceBlobSha256": "068d280f71e4088af84a167d37ffb88bf29e60d0145fc6b16655b755beb5a7e2",
+      "destinations": [
+        "content/en/architecture/editor-ui.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/editor-actions.md",
+        "content/en/extending/editor-history.md",
+        "content/en/extending/editor-state.md",
+        "content/en/api/projects/inno-editor-core.md",
+        "content/en/api/projects/inno-editor-annotations.md",
+        "content/en/api/projects/inno-editor-interactions.md",
+        "content/en/api/projects/inno-editor-playmode.md",
+        "content/en/api/projects/inno-editor-audio.md",
+        "content/en/api/projects/inno-editor-scene.md",
+        "content/en/api/projects/inno-editor-settings.md",
+        "content/en/api/projects/inno-editor-imgui.md",
+        "content/en/api/projects/inno-editor-graph.md",
+        "content/en/api/projects/inno-editor-rendering.md",
+        "content/en/api/projects/inno-editor-inspection.md",
+        "content/en/api/projects/inno-editor-scripting.md",
+        "content/en/api/projects/inno-editor-exporting.md",
+        "content/en/api/projects/inno-editor-panel-filebrowser.md",
+        "content/en/api/projects/inno-editor-workbench.md",
+        "content/en/api/projects/inno-editor-panel-hierarchy.md",
+        "content/en/api/projects/inno-editor-panel-inspector.md",
+        "content/en/api/projects/inno-editor-panel-logging.md",
+        "content/en/api/projects/inno-editor-panel-settings.md",
+        "content/en/api/projects/inno-editor-panel-stats.md",
+        "content/en/api/projects/inno-editor-panel-sceneview.md",
+        "content/en/api/projects/inno-editor-panel-gameview.md",
+        "content/en/api/projects/inno-editor-shaders.md",
+        "content/en/api/projects/inno-editor-assets.md",
+        "content/en/api/projects/inno-editor-panel-shadereditor.md",
+        "content/en/api/projects/inno-editor-hosting.md",
+        "content/en/api/projects/inno-editor-assets-imgui.md",
+        "content/en/api/projects/inno-editor-shaders-imgui.md",
+        "content/en/api/projects/inno-editor-graph-imgui.md",
+        "content/en/api/projects/inno-editor-diagnostics.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/modules/extensibility/README.md",
+      "sourceSha256": "7de89041238ac4239a800bb9d9fdfeb0199ca8ecc95ab9f41843a8450cc5fd48",
+      "reviewedCheckoutSha256": "7de89041238ac4239a800bb9d9fdfeb0199ca8ecc95ab9f41843a8450cc5fd48",
+      "sourceBlobSha256": "7de89041238ac4239a800bb9d9fdfeb0199ca8ecc95ab9f41843a8450cc5fd48",
+      "destinations": [
+        "content/en/manual/extensions/find-types.md",
+        "content/en/architecture/generation-publication.md",
+        "content/en/extending/lifecycle-layers.md",
+        "content/en/api/projects/inno-extensibility-catalogs.md",
+        "content/en/api/projects/inno-extensibility-modules.md",
+        "content/en/api/projects/inno-extensibility-types.md",
+        "content/en/api/projects/inno-extensibility-reload.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/modules/plugins/README.md",
+      "sourceSha256": "a03893bcbc86f712f949eaa45a98cb7e0178d3dc558b41214ad7731e3bc06ef3",
+      "reviewedCheckoutSha256": "a03893bcbc86f712f949eaa45a98cb7e0178d3dc558b41214ad7731e3bc06ef3",
+      "sourceBlobSha256": "a03893bcbc86f712f949eaa45a98cb7e0178d3dc558b41214ad7731e3bc06ef3",
+      "destinations": [
+        "content/en/manual/plugins/install.md",
+        "content/en/extending/plugin-host.md",
+        "content/en/extending/plugin-packages.md",
+        "content/en/api/projects/inno-plugins.md",
+        "content/en/api/projects/inno-plugins-authoring.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/modules/references/README.md",
+      "sourceSha256": "50e9121bb4d4cc0d9191da5d8c5e3cea2a6faf5e3843298a3b8a26f35ab37e27",
+      "reviewedCheckoutSha256": "50e9121bb4d4cc0d9191da5d8c5e3cea2a6faf5e3843298a3b8a26f35ab37e27",
+      "sourceBlobSha256": "50e9121bb4d4cc0d9191da5d8c5e3cea2a6faf5e3843298a3b8a26f35ab37e27",
+      "destinations": [
+        "content/en/manual/references/resolve-missing.md",
+        "content/en/extending/reference-recovery.md",
+        "content/en/api/projects/inno-references.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/README.md",
+      "sourceSha256": "46b60ed916332398b7e5479255e700ab9c5ba2d1dfa1a17a96fda5dd074c96c3",
+      "reviewedCheckoutSha256": "46b60ed916332398b7e5479255e700ab9c5ba2d1dfa1a17a96fda5dd074c96c3",
+      "sourceBlobSha256": "46b60ed916332398b7e5479255e700ab9c5ba2d1dfa1a17a96fda5dd074c96c3",
+      "destinations": [
+        "content/en/platforms/select-target.md",
+        "content/en/platforms/product-composition.md",
+        "content/en/api/projects/inno-adapter-storage-browserwasm32.md",
+        "content/en/api/projects/inno-build-browserwasm32.md",
+        "content/en/api/projects/inno-player-browserwasm32.md",
+        "content/en/api/projects/inno-integration-browserwasm32-bgfx.md",
+        "content/en/api/projects/inno-integration-browserwasm32-sdl3.md",
+        "content/en/api/projects/inno-integration-browserwasm32-bgfx-runtime.md",
+        "content/en/api/projects/inno-integration-browserwasm32-build.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/platform/MacOSArm64/README.md",
+      "sourceSha256": "ec363e202ea529ed7d994bd2ffb6a0c626372ff3620730bdcd7da9953784beff",
+      "reviewedCheckoutSha256": "ec363e202ea529ed7d994bd2ffb6a0c626372ff3620730bdcd7da9953784beff",
+      "sourceBlobSha256": "ec363e202ea529ed7d994bd2ffb6a0c626372ff3620730bdcd7da9953784beff",
+      "destinations": [
+        "content/en/platforms/select-target.md",
+        "content/en/platforms/product-composition.md",
+        "content/en/api/projects/inno-build-macosarm64.md",
+        "content/en/api/projects/inno-editor-macosarm64.md",
+        "content/en/api/projects/inno-platform-macosarm64.md",
+        "content/en/api/projects/inno-player-macosarm64.md",
+        "content/en/api/projects/inno-integration-macosarm64-bgfx.md",
+        "content/en/api/projects/inno-integration-macosarm64-sdl3.md",
+        "content/en/api/projects/inno-integration-macosarm64-bgfx-runtime.md",
+        "content/en/api/projects/inno-integration-macosarm64-build.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/platform/PRODUCT_STARTUP.md",
+      "sourceSha256": "7f9ec525e417f59c130104c1506541bed0e50f499505bd0a484e56b6e3af58e4",
+      "reviewedCheckoutSha256": "7f9ec525e417f59c130104c1506541bed0e50f499505bd0a484e56b6e3af58e4",
+      "sourceBlobSha256": "6f0577e7b4417a232a0b9c5383f5036cf8a0202daec2b105774dc240c6abb939",
+      "destinations": [
+        "content/en/contributing/development-entries.md",
+        "content/en/contributing/support-packs.md",
+        "content/en/platforms/publish-player.md",
+        "content/en/platforms/product-composition.md",
+        "content/en/architecture/native-preparation.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "English task/concept pages retain ownership, failure and platform constraints. Historical execution claims are separated from current support; obsolete directory examples and duplicated project lists are replaced by current mechanisms."
+    },
+    {
+      "source": "docs/platform/README.md",
+      "sourceSha256": "f89c8e0a3ff3c66e9f7d3cd8f0ebdeebc52c2fbf5215fc8aeda0b36147dceb32",
+      "reviewedCheckoutSha256": "f89c8e0a3ff3c66e9f7d3cd8f0ebdeebc52c2fbf5215fc8aeda0b36147dceb32",
+      "sourceBlobSha256": "f89c8e0a3ff3c66e9f7d3cd8f0ebdeebc52c2fbf5215fc8aeda0b36147dceb32",
+      "destinations": [
+        "content/en/platforms/index.md",
+        "content/en/api/projects/inno-platform.md",
+        "content/en/api/projects/inno-adapter-platform.md",
+        "content/en/api/projects/inno-adapter-presentation.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/platform/Windows/README.md",
+      "sourceSha256": "38c7e2866e2c1d5564929122163cd52fca22a1ed8320764ae94d13ded329ebd6",
+      "reviewedCheckoutSha256": "38c7e2866e2c1d5564929122163cd52fca22a1ed8320764ae94d13ded329ebd6",
+      "sourceBlobSha256": "38c7e2866e2c1d5564929122163cd52fca22a1ed8320764ae94d13ded329ebd6",
+      "destinations": [
+        "content/en/platforms/select-target.md",
+        "content/en/api/projects/inno-build-windows-host.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    },
+    {
+      "source": "docs/platform/WindowsX64/README.md",
+      "sourceSha256": "cfe126bf37726247ad8777451087f46732a586998ff244b0ff54900993c734f2",
+      "reviewedCheckoutSha256": "cfe126bf37726247ad8777451087f46732a586998ff244b0ff54900993c734f2",
+      "sourceBlobSha256": "cfe126bf37726247ad8777451087f46732a586998ff244b0ff54900993c734f2",
+      "destinations": [
+        "content/en/platforms/select-target.md",
+        "content/en/platforms/product-composition.md",
+        "content/en/api/projects/inno-build-windowsx64.md",
+        "content/en/api/projects/inno-editor-windowsx64.md",
+        "content/en/api/projects/inno-platform-windowsx64.md",
+        "content/en/api/projects/inno-player-windowsx64.md",
+        "content/en/api/projects/inno-integration-windowsx64-bgfx.md",
+        "content/en/api/projects/inno-integration-windowsx64-sdl3.md",
+        "content/en/api/projects/inno-integration-windowsx64-bgfx-runtime.md",
+        "content/en/api/projects/inno-integration-windowsx64-build.md"
+      ],
+      "status": "NarrativeAndNavigationReviewedAwaitingCutover",
+      "rationale": "Task-oriented navigation replaces the assembly-first list. Relevant project entries remain derived from the actual catalog; development requirements remain in the engine rulebook."
+    }
+  ]
+}

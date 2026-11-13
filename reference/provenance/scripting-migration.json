@@ -1,0 +1,80 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/modules/scripting/Inno.Scripting.Api.md",
+      "sourceSha256": "521b17303fab203a9cb52cce468410801d8bbc44d7894dad9a0f1d0384654c84",
+      "sourceBlobSha256": "521b17303fab203a9cb52cce468410801d8bbc44d7894dad9a0f1d0384654c84",
+      "destinations": [
+        "content/en/api/projects/inno-scripting-api.md",
+        "content/en/extending/script-exports.md",
+        "content/en/architecture/script-compilation.md"
+      ],
+      "baselineSymbols": 20,
+      "capturedSymbols": 20,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/scripting/Inno.Scripting.Compiler.md",
+      "sourceSha256": "4800f29bd913d6a05c0db52c1f712975c4fadbaceb254d14efb21e9030b65c48",
+      "sourceBlobSha256": "4800f29bd913d6a05c0db52c1f712975c4fadbaceb254d14efb21e9030b65c48",
+      "destinations": [
+        "content/en/api/projects/inno-scripting-compiler.md",
+        "content/en/architecture/script-compilation.md",
+        "content/en/contributing/compile-project-scripts.md"
+      ],
+      "baselineSymbols": 98,
+      "capturedSymbols": 98,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/scripting/Inno.Scripting.Compiler/api.md",
+      "sourceSha256": "830460621019219dd2fd286b2459311376a739da4ac1546732f5f61b3b36a32f",
+      "sourceBlobSha256": "830460621019219dd2fd286b2459311376a739da4ac1546732f5f61b3b36a32f",
+      "destinations": [
+        "content/en/api/projects/inno-scripting-compiler.md",
+        "content/en/architecture/script-compilation.md",
+        "content/en/contributing/compile-project-scripts.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 98,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/scripting/Inno.Scripting.Reload.md",
+      "sourceSha256": "9d9584b8b5c6fa7609802950fe4a11044eeab481a5a1e1dfb74c6e2151b82820",
+      "sourceBlobSha256": "9d9584b8b5c6fa7609802950fe4a11044eeab481a5a1e1dfb74c6e2151b82820",
+      "destinations": [
+        "content/en/api/projects/inno-scripting-reload.md",
+        "content/en/architecture/script-reload.md"
+      ],
+      "baselineSymbols": 44,
+      "capturedSymbols": 44,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/scripting/README.md",
+      "sourceSha256": "ff4e8bdcb11c62c7c50b8caa022fb131f15c615180611f36e1fa36d1f09ff97e",
+      "sourceBlobSha256": "ff4e8bdcb11c62c7c50b8caa022fb131f15c615180611f36e1fa36d1f09ff97e",
+      "destinations": [
+        "content/en/manual/scripting/use-script-api.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": null,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    }
+  ]
+}

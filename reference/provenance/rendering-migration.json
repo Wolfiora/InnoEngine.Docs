@@ -1,0 +1,200 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Backend selection uses explicitly registered factories; no implicit BGFX device is created.",
+    "The Editor-script node example is separated from host examples and checked against its actual projected facade."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/rendering/Inno.Adapter.Rendering.Authoring.md",
+      "sourceSha256": "9fdd4096b8b85c2d55aef2aa27b36ea773fc12ca21641ecb68d8bcb70932dd77",
+      "sourceBlobSha256": "9fdd4096b8b85c2d55aef2aa27b36ea773fc12ca21641ecb68d8bcb70932dd77",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-rendering-authoring.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 14,
+      "capturedSymbols": 14,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Adapter.Rendering.md",
+      "sourceSha256": "ae9ce3c15092c0f683ceca212990caf9b51ef86326704230281f03de8613d858",
+      "sourceBlobSha256": "ae9ce3c15092c0f683ceca212990caf9b51ef86326704230281f03de8613d858",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-rendering.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 32,
+      "capturedSymbols": 32,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Assets.Authoring.md",
+      "sourceSha256": "63b23b5c71a3cce723968afd245f48bb2fd681d2b5cab4837ec645b733e51039",
+      "sourceBlobSha256": "63b23b5c71a3cce723968afd245f48bb2fd681d2b5cab4837ec645b733e51039",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-assets-authoring.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 120,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Assets.Authoring/api.md",
+      "sourceSha256": "165210c2ad1aec723414561e15ff19107f63054b2214a3a3592d2a7f5bf7c72e",
+      "sourceBlobSha256": "165210c2ad1aec723414561e15ff19107f63054b2214a3a3592d2a7f5bf7c72e",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-assets-authoring.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 120,
+      "capturedSymbols": 120,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Assets.md",
+      "sourceSha256": "78af7b9a0c199aa1f5ec65b47411485a3caa342382653f257888bf0cb4c05674",
+      "sourceBlobSha256": "78af7b9a0c199aa1f5ec65b47411485a3caa342382653f257888bf0cb4c05674",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-assets.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 310,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Assets/api.md",
+      "sourceSha256": "48e1d001f52257721f687525abafb7a928d6d40043568f351e41a07e37fd94a4",
+      "sourceBlobSha256": "48e1d001f52257721f687525abafb7a928d6d40043568f351e41a07e37fd94a4",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-assets.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 310,
+      "capturedSymbols": 310,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Runtime.md",
+      "sourceSha256": "5682c62ddf4e6e93b98e4d1640cf379230660921b7607da99c66eb8d810e6193",
+      "sourceBlobSha256": "5682c62ddf4e6e93b98e4d1640cf379230660921b7607da99c66eb8d810e6193",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-runtime.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 351,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Runtime/api.md",
+      "sourceSha256": "86288d66bd19d4b81b61bbbd789e1a10ea32f8c08508938b06ad3ccc4b1a96b5",
+      "sourceBlobSha256": "86288d66bd19d4b81b61bbbd789e1a10ea32f8c08508938b06ad3ccc4b1a96b5",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-runtime.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 351,
+      "capturedSymbols": 351,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Shaders.md",
+      "sourceSha256": "6a73c66f06e93540d748e198f46e23d99b7e6aeeba1af30a7efd8c2626adcddf",
+      "sourceBlobSha256": "6a73c66f06e93540d748e198f46e23d99b7e6aeeba1af30a7efd8c2626adcddf",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-shaders.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 540,
+      "capturedSymbols": 540,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.Shaders/api.md",
+      "sourceSha256": "c25d63e5ce5cabae117a213bb574e212cb86b6603659fe1eddeb9c92bf916543",
+      "sourceBlobSha256": "c25d63e5ce5cabae117a213bb574e212cb86b6603659fe1eddeb9c92bf916543",
+      "destinations": [
+        "content/en/api/projects/inno-rendering-shaders.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 540,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering.md",
+      "sourceSha256": "8f2ffff683ede04eae9c300b7e1d675bcbf9bae4edfbf74daba8ab43e7262fa3",
+      "sourceBlobSha256": "8f2ffff683ede04eae9c300b7e1d675bcbf9bae4edfbf74daba8ab43e7262fa3",
+      "destinations": [
+        "content/en/api/projects/inno-rendering.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 863,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/Inno.Rendering/api.md",
+      "sourceSha256": "5502d6e401c9047379ffd346697bd115e34411651d9b8282950e8a62be90eec8",
+      "sourceBlobSha256": "5502d6e401c9047379ffd346697bd115e34411651d9b8282950e8a62be90eec8",
+      "destinations": [
+        "content/en/api/projects/inno-rendering.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 863,
+      "capturedSymbols": 863,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/modules/rendering/README.md",
+      "sourceSha256": "20b65524483e156f758c5276b6ecc699d4a85608332570153d106d9154274a05",
+      "sourceBlobSha256": "20b65524483e156f758c5276b6ecc699d4a85608332570153d106d9154274a05",
+      "destinations": [
+        "content/en/manual/rendering/index.md",
+        "content/en/architecture/render-frame.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": null,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ],
+  "xmlCorrection": {
+    "sourceRevision": "9d555bb0a7ceb93ae8973cbafceb675e493e1246",
+    "sourceTree": "bbb8393e164ef2acf4577402b562b4336e9a5eea",
+    "project": "Inno.Rendering.Shaders",
+    "reason": "Mark literal return/output.<name> result identities as XML code, preserving text through Markdown and HTML."
+  }
+}

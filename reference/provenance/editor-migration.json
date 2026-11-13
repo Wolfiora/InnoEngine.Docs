@@ -1,0 +1,153 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceFacts": "reference/api/editor.json",
+  "status": "LocalContentExamplesAndSitePassedSourceCertificationPending",
+  "reviews": [
+    {
+      "source": "docs/modules/editor/Inno.Editor.Annotations.md",
+      "sourceSha256": "74d66596d6082673e50e282260eb6cbc19ddd08e4db8b495e8e02463c8a6271b",
+      "project": "Inno.Editor.Annotations",
+      "destinations": [
+        "content/en/api/projects/inno-editor-annotations.md"
+      ],
+      "sourceSymbols": 61,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Core.md",
+      "sourceSha256": "5758efa259220f86c3be9912b9119c367e2856800f4fef4b0068540224134c4a",
+      "project": "Inno.Editor.Core",
+      "destinations": [
+        "content/en/api/projects/inno-editor-core.md",
+        "content/en/architecture/editor-generations.md",
+        "content/en/extending/editor-modules.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/editor-modals.md",
+        "content/en/extending/editor-state.md",
+        "content/en/manual/editor/statistics.md"
+      ],
+      "sourceSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Core/api.md",
+      "sourceSha256": "79116b4a5ce458ae624f2eb16de1ac187e4f9f85ed1edc494c0e158bdc3e339d",
+      "project": "Inno.Editor.Core",
+      "destinations": [
+        "content/en/api/projects/inno-editor-core.md",
+        "content/en/architecture/editor-generations.md",
+        "content/en/extending/editor-modules.md",
+        "content/en/extending/editor-panels.md",
+        "content/en/extending/editor-modals.md",
+        "content/en/extending/editor-state.md",
+        "content/en/manual/editor/statistics.md"
+      ],
+      "sourceSymbols": 155,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Diagnostics.md",
+      "sourceSha256": "256142930d3c30a9fa4d0bc638dcd8e7884e3281ac1538553fab5e2d0f0e0b2e",
+      "project": "Inno.Editor.Diagnostics",
+      "destinations": [
+        "content/en/api/projects/inno-editor-diagnostics.md",
+        "content/en/manual/editor/console.md"
+      ],
+      "sourceSymbols": 44,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Interactions.md",
+      "sourceSha256": "7e1c217b0d1b34450ba2558e43eb28126368335f9d88730b053ab4ea9ad3f9ad",
+      "project": "Inno.Editor.Interactions",
+      "destinations": [
+        "content/en/api/projects/inno-editor-interactions.md",
+        "content/en/extending/editor-actions.md",
+        "content/en/extending/editor-selection.md",
+        "content/en/extending/editor-history.md",
+        "content/en/extending/editor-state.md"
+      ],
+      "sourceSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Interactions/api.md",
+      "sourceSha256": "77d52516f2284e2f03ac2e28bb6634e76dd852864f2273649f03532e2825675f",
+      "project": "Inno.Editor.Interactions",
+      "destinations": [
+        "content/en/api/projects/inno-editor-interactions.md",
+        "content/en/extending/editor-actions.md",
+        "content/en/extending/editor-selection.md",
+        "content/en/extending/editor-history.md",
+        "content/en/extending/editor-state.md"
+      ],
+      "sourceSymbols": 556,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Settings.md",
+      "sourceSha256": "9a02943fb990cffdc59014756e3f8dcbfdfa685ab59a3ece97e48b9fb72ddcbd",
+      "project": "Inno.Editor.Settings",
+      "destinations": [
+        "content/en/api/projects/inno-editor-settings.md",
+        "content/en/manual/editor/settings.md"
+      ],
+      "sourceSymbols": 79,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Settings/api.md",
+      "sourceSha256": "35ec8cd9c6f65fefa0ee0997b9c256f57f770f31c537c8a9845cd02a135df9bc",
+      "project": "Inno.Editor.Settings",
+      "destinations": [
+        "content/en/api/projects/inno-editor-settings.md",
+        "content/en/manual/editor/settings.md"
+      ],
+      "sourceSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.Logging.md",
+      "sourceSha256": "47c501202e4d171b769e9485d40ab5a87cf3c15dd5358350350f2af34cb4f333",
+      "project": "Inno.Editor.Panel.Logging",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-logging.md",
+        "content/en/extending/customize-console.md",
+        "content/en/manual/editor/console.md"
+      ],
+      "sourceSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    },
+    {
+      "source": "docs/modules/editor/Inno.Editor.Panel.Stats.md",
+      "sourceSha256": "4cc7d1d8e3f21b0a8b06cf3d3ae721e573bf20b30f091f3790a946bcd9f70bde",
+      "project": "Inno.Editor.Panel.Stats",
+      "destinations": [
+        "content/en/api/projects/inno-editor-panel-stats.md",
+        "content/en/manual/editor/statistics.md"
+      ],
+      "sourceSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "ReviewedAndLocallyValidated"
+    }
+  ]
+}

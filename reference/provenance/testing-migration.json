@@ -1,0 +1,156 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "80fbbb550f0de634b04605b31abc4d96b3d526f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Text metadata corruption rejection is distinct from arbitrary invalid-font coverage. The current shaping string is ASCII despite the Unicode name.",
+    "Contract classification alone does not imply managed-only preparation. Text and MiniAudio contracts explicitly require the player product.",
+    "SDL native surface disposal remains a real backend assertion and uses the actual platform host."
+  ],
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Input.Tests.md",
+      "sourceSha256": "57535fb9b520ccc2b3c7764f6919617d421d7d91f33c6ba7029bb3b81e1c7125",
+      "project": "Inno.Input.Tests",
+      "projectPath": "tests/input/Inno.Input.Tests/Inno.Input.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-input-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.UI.Tests.md",
+      "sourceSha256": "c961501fae06a5980a0ab8c38830794162be799cf028832f61da9e6b4ebcf812",
+      "project": "Inno.UI.Tests",
+      "projectPath": "tests/ui/Inno.UI.Tests/Inno.UI.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-ui-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Animation.Tests.md",
+      "sourceSha256": "e92dc640508dbe2be814fa8171ed3e623636fb9546c71806e2777667533f20dd",
+      "project": "Inno.Animation.Tests",
+      "projectPath": "tests/animation/Inno.Animation.Tests/Inno.Animation.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-animation-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Audio.Tests.md",
+      "sourceSha256": "41470072da332eaaf5925a9e91a89df0303c546204dc6fc36d1bdf43b56c8838",
+      "project": "Inno.Audio.Tests",
+      "projectPath": "tests/audio/Inno.Audio.Tests/Inno.Audio.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-audio-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Audio.Runtime.Tests.md",
+      "sourceSha256": "8addc5f0dfcc80a7ddcf06147a43f9f8c9d7a5efcb1e7cb3aeec7a0362fe6707",
+      "project": "Inno.Audio.Runtime.Tests",
+      "projectPath": "tests/audio/Inno.Audio.Runtime.Tests/Inno.Audio.Runtime.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-audio-runtime-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Audio.Assets.Tests.md",
+      "sourceSha256": "ae5941d5b710795b7a0e22db75e6ec99211b5142277f66b6549cbe2d70525d6b",
+      "project": "Inno.Audio.Assets.Tests",
+      "projectPath": "tests/audio/Inno.Audio.Assets.Tests/Inno.Audio.Assets.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-audio-assets-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Storage.Tests.md",
+      "sourceSha256": "4c4ea356c1c3ce9fcd02e66b3576f21d5fefd4bd0a4462794d5bbb964a9119a1",
+      "project": "Inno.Storage.Tests",
+      "projectPath": "tests/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-storage-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Text.Tests.md",
+      "sourceSha256": "6608761c7d18313c50e044d892f041354769d9b7fd5019e5e1854a5cf48ed4f5",
+      "project": "Inno.Text.Tests",
+      "projectPath": "tests/text/Inno.Text.Tests/Inno.Text.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-text-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Adapter.Audio.MiniAudio.Tests.md",
+      "sourceSha256": "cde32139a4a99c1771b9365f9fe57e977f60972ca3280260a39e935d1bb65014",
+      "project": "Inno.Adapter.Audio.MiniAudio.Tests",
+      "projectPath": "backends/MiniAudio/tests/Inno.Adapter.Audio.MiniAudio.Tests/Inno.Adapter.Audio.MiniAudio.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-adapter-audio-miniaudio-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Native.MiniAudio.Tests.md",
+      "sourceSha256": "659acb79623f51fc80e83a68e96b0569de90d08db1c13aca2986d70207658aa9",
+      "project": "Inno.Native.MiniAudio.Tests",
+      "projectPath": "backends/MiniAudio/tests/Inno.Native.MiniAudio.Tests/Inno.Native.MiniAudio.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-native-miniaudio-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Adapter.Platform.Sdl3.Tests.md",
+      "sourceSha256": "9e3fa86c5784e95ed5a690a90bb7541c79bf2ecf0eedca1bbacf2b27740ccabd",
+      "project": "Inno.Adapter.Platform.Sdl3.Tests",
+      "projectPath": "backends/Sdl3/tests/Inno.Adapter.Platform.Sdl3.Tests/Inno.Adapter.Platform.Sdl3.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-adapter-platform-sdl3-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    },
+    {
+      "source": "docs/development/testing/Inno.Native.Sdl3.Tests.md",
+      "sourceSha256": "a6a371a6efc317b1752aba70f7aff0584ae1fa0abe676eb862ee17ed57faf82e",
+      "project": "Inno.Native.Sdl3.Tests",
+      "projectPath": "backends/Sdl3/tests/Inno.Native.Sdl3.Tests/Inno.Native.Sdl3.Tests.csproj",
+      "destinations": [
+        "content/en/contributing/testing/inno-native-sdl3-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndExecutionInputsReviewed",
+      "apiScope": "Test discovery entries; reusable support-library API coverage is separate."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "project": "Inno.Core.Logging",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-logging",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-logging#delivery-and-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-logging/innoengine.logging.log.md",
+      "sha256": "f94b773338137f8344a9b1a89955bcba109a07fd524d9f69566f4a2ebf8a6615"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-logging/innoengine.logging.logsessionid.md",
+      "sha256": "361f9a2c5f64d6c646dae72c28340d665902efee2622e39f22e5efd72d81bb3d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-logging/index.md",
+      "sha256": "a10cd057a7f0b33ff220a05ad00d88714d929ebe40394d2fe4e9c148c9f9294c"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

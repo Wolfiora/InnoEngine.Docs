@@ -1,0 +1,121 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [],
+  "reviews": [
+    {
+      "source": "docs/backends/DotNet/Inno.Adapter.Modules.DotNet.md",
+      "sourceSha256": "1552e745ee995f2021da69a8bac4a26b382d72fbf187ae5f8fb89f42c28e9cd5",
+      "sourceBlobSha256": "1552e745ee995f2021da69a8bac4a26b382d72fbf187ae5f8fb89f42c28e9cd5",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-modules-dotnet.md",
+        "content/en/backends/dotnet-modules.md"
+      ],
+      "baselineSymbols": 28,
+      "capturedSymbols": 28,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/DotNet/Inno.Build.Managed.DotNet.md",
+      "sourceSha256": "091d382186fcc9e7fe36b96d115e6ce42dea99ea0ef1119905cb01aee63bb60c",
+      "sourceBlobSha256": "091d382186fcc9e7fe36b96d115e6ce42dea99ea0ef1119905cb01aee63bb60c",
+      "destinations": [
+        "content/en/api/projects/inno-build-managed-dotnet.md",
+        "content/en/backends/dotnet-publishing.md"
+      ],
+      "baselineSymbols": 15,
+      "capturedSymbols": 15,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/FileSystem/Inno.Adapter.Content.FileSystem.md",
+      "sourceSha256": "d73872aefe13c7c754c9df2d6506a62f00970dc880082fa2fc9c36aafc68ce0f",
+      "sourceBlobSha256": "d73872aefe13c7c754c9df2d6506a62f00970dc880082fa2fc9c36aafc68ce0f",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-content-filesystem.md",
+        "content/en/backends/file-content-cache.md"
+      ],
+      "baselineSymbols": 16,
+      "capturedSymbols": 16,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Adapter.Presentation.ImGui.Bgfx.md",
+      "sourceSha256": "3baf3e091733117c2d00553e3d14665e44d540db12db9a5708c8200bd8f1f67d",
+      "sourceBlobSha256": "3baf3e091733117c2d00553e3d14665e44d540db12db9a5708c8200bd8f1f67d",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-presentation-imgui-bgfx.md",
+        "content/en/backends/imgui-rendering.md"
+      ],
+      "baselineSymbols": 25,
+      "capturedSymbols": 25,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Build.Toolchains.ImGui.md",
+      "sourceSha256": "351475e0e19ab1d3808bba4378310b5b3a073044f7862e6c224e1d50fda3cd8c",
+      "sourceBlobSha256": "351475e0e19ab1d3808bba4378310b5b3a073044f7862e6c224e1d50fda3cd8c",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-imgui.md",
+        "content/en/architecture/native-preparation.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Build.Toolchains.ImGuizmo.md",
+      "sourceSha256": "74fa30e4fd7580eb81f38b9aa249f3abe6528d34f77d6acd032a9ce9cb78eac8",
+      "sourceBlobSha256": "74fa30e4fd7580eb81f38b9aa249f3abe6528d34f77d6acd032a9ce9cb78eac8",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-imguizmo.md",
+        "content/en/architecture/native-preparation.md"
+      ],
+      "baselineSymbols": 5,
+      "capturedSymbols": 5,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Sdl3/Inno.Adapter.Platform.Sdl3.md",
+      "sourceSha256": "4596937e04721e06e758db25ccf3e2e0e749e9d79f244ab43866a93bae14cde8",
+      "sourceBlobSha256": "4596937e04721e06e758db25ccf3e2e0e749e9d79f244ab43866a93bae14cde8",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-platform-sdl3.md",
+        "content/en/backends/sdl3.md"
+      ],
+      "baselineSymbols": 45,
+      "capturedSymbols": 45,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/Sdl3/Inno.Build.Toolchains.Sdl3.md",
+      "sourceSha256": "78e170478d52c03fffda4f8e6fe257000a19f822a6d006bd039f24a55bc3f934",
+      "sourceBlobSha256": "78e170478d52c03fffda4f8e6fe257000a19f822a6d006bd039f24a55bc3f934",
+      "destinations": [
+        "content/en/api/projects/inno-build-toolchains-sdl3.md",
+        "content/en/backends/sdl3.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "Passed",
+  "scope": "SelectedSourceReferenceComparison",
+  "configuration": "Debug",
+  "target": null,
+  "sourceApiStatus": "Unverified",
+  "documentationSnapshot": "54374a3e8077858e6db9bf2c36760595df6d81dac301bd7f6490e59b56caf817",
+  "documentationSourceTree": "ab17e54e8d459fcc97bc071d1ba3393a4c80f61d",
+  "references": [
+    {
+      "path": "reference/api/tooling-architecture.json",
+      "identity": "ed827528cc0082eab057b628ecbae0d5c054b12cc3100c4e7dd27c5ae6ea1be4"
+    },
+    {
+      "path": "reference/api/tooling-documentation.json",
+      "identity": "01acbfea2c22bc60441a13ded79bb2df66e06635e1b2cd516b1c43adb3a90c00"
+    }
+  ],
+  "projects": [
+    {
+      "project": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
+      "name": "Inno.Tooling.Architecture",
+      "status": "Passed",
+      "referenceIdentity": "5ec4206285a9f1a5702eea4ef81d3588ff436ba0842e34438e43ac4603b0f14e",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
+      "name": "Inno.Tooling.Documentation",
+      "status": "Passed",
+      "referenceIdentity": "dc4522f1e4d73f4205ffb25a88426211951085294af68c04914b6e7bbdff80f8",
+      "symbols": 174,
+      "differences": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Adapter.Serialization.DotNet",
+  "outputDirectory": "content/en/api/types/serialization-dotnet",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "facts": "reference/api/serialization.json",
+  "factsIdentity": "9faaf2ac3e9a652f4dbcd64062c5f6aa7189d10699b0e17c85aad0b2d3197917",
+  "sharedContract": "project.inno-adapter-serialization-dotnet#dynamic-metadata-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/serialization-dotnet/reflectionserializationmetadatasource.md",
+      "sha256": "7dbc447b3393bc9743766cc846519ab2397fb77100f08030897efcd3b90ca069"
+    },
+    {
+      "path": "content/en/api/types/serialization-dotnet/index.md",
+      "sha256": "8cf3019226761439aba4c8e8efdc4d1db51804c0f7f48935d9a61f8343047eb3"
+    }
+  ]
+}

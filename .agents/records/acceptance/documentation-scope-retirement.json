@@ -1,0 +1,3124 @@
+{
+  "schema": "inno-documentation-scope-retirement/1",
+  "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+  "reason": "User-approved Engine API allowlist: src/ and build/ only; platform implementation project guides are also retired.",
+  "owners": [
+    {
+      "name": "Inno.Build.Toolchains.Bgfx.Shaders",
+      "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Shaders/Inno.Build.Toolchains.Bgfx.Shaders.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.Bgfx.Tools",
+      "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Tools/Inno.Build.Toolchains.Bgfx.Tools.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.Bgfx",
+      "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx/Inno.Build.Toolchains.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Native.Bgfx",
+      "path": "backends/Bgfx/native/Inno.Native.Bgfx/Inno.Native.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Rendering.Bgfx",
+      "path": "backends/Bgfx/runtime/Inno.Adapter.Rendering.Bgfx/Inno.Adapter.Rendering.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Rendering.Bgfx.Tests",
+      "path": "backends/Bgfx/tests/Inno.Adapter.Rendering.Bgfx.Tests/Inno.Adapter.Rendering.Bgfx.Tests.csproj"
+    },
+    {
+      "name": "Inno.Native.Bgfx.Tests",
+      "path": "backends/Bgfx/tests/Inno.Native.Bgfx.Tests/Inno.Native.Bgfx.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Managed.DotNet",
+      "path": "backends/DotNet/build/Inno.Build.Managed.DotNet/Inno.Build.Managed.DotNet.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Modules.DotNet",
+      "path": "backends/DotNet/runtime/Inno.Adapter.Modules.DotNet/Inno.Adapter.Modules.DotNet.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Serialization.DotNet",
+      "path": "backends/DotNet/runtime/Inno.Adapter.Serialization.DotNet/Inno.Adapter.Serialization.DotNet.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Content.FileSystem",
+      "path": "backends/FileSystem/runtime/Inno.Adapter.Content.FileSystem/Inno.Adapter.Content.FileSystem.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Storage.FileSystem",
+      "path": "backends/FileSystem/runtime/Inno.Adapter.Storage.FileSystem/Inno.Adapter.Storage.FileSystem.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Content.FileSystem.Tests",
+      "path": "backends/FileSystem/tests/Inno.Adapter.Content.FileSystem.Tests/Inno.Adapter.Content.FileSystem.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.ImGui",
+      "path": "backends/ImGui/build/Inno.Build.Toolchains.ImGui/Inno.Build.Toolchains.ImGui.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.ImGuizmo",
+      "path": "backends/ImGui/build/Inno.Build.Toolchains.ImGuizmo/Inno.Build.Toolchains.ImGuizmo.csproj"
+    },
+    {
+      "name": "Inno.Native.ImGui",
+      "path": "backends/ImGui/native/Inno.Native.ImGui/Inno.Native.ImGui.csproj"
+    },
+    {
+      "name": "Inno.Native.ImGuizmo",
+      "path": "backends/ImGui/native/Inno.Native.ImGuizmo/Inno.Native.ImGuizmo.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Presentation.ImGui.Bgfx",
+      "path": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Bgfx/Inno.Adapter.Presentation.ImGui.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Presentation.ImGui.Sdl3",
+      "path": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/Inno.Adapter.Presentation.ImGui.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Native.ImGui.Tests",
+      "path": "backends/ImGui/tests/Inno.Native.ImGui.Tests/Inno.Native.ImGui.Tests.csproj"
+    },
+    {
+      "name": "Inno.Native.ImGuizmo.Tests",
+      "path": "backends/ImGui/tests/Inno.Native.ImGuizmo.Tests/Inno.Native.ImGuizmo.Tests.csproj"
+    },
+    {
+      "name": "Inno.Native.LibraryLoading",
+      "path": "backends/Interop/native/Inno.Native.LibraryLoading/Inno.Native.LibraryLoading.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.MiniAudio",
+      "path": "backends/MiniAudio/build/Inno.Build.Toolchains.MiniAudio/Inno.Build.Toolchains.MiniAudio.csproj"
+    },
+    {
+      "name": "Inno.Native.MiniAudio",
+      "path": "backends/MiniAudio/native/Inno.Native.MiniAudio/Inno.Native.MiniAudio.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Audio.MiniAudio",
+      "path": "backends/MiniAudio/runtime/Inno.Adapter.Audio.MiniAudio/Inno.Adapter.Audio.MiniAudio.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Audio.MiniAudio.Tests",
+      "path": "backends/MiniAudio/tests/Inno.Adapter.Audio.MiniAudio.Tests/Inno.Adapter.Audio.MiniAudio.Tests.csproj"
+    },
+    {
+      "name": "Inno.Native.MiniAudio.Tests",
+      "path": "backends/MiniAudio/tests/Inno.Native.MiniAudio.Tests/Inno.Native.MiniAudio.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.UI",
+      "path": "backends/RmlUi/build/Inno.Build.Toolchains.UI/Inno.Build.Toolchains.UI.csproj"
+    },
+    {
+      "name": "Inno.Native.UI",
+      "path": "backends/RmlUi/native/Inno.Native.UI/Inno.Native.UI.csproj"
+    },
+    {
+      "name": "Inno.Adapter.UI.RmlUi.Authoring",
+      "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi.Authoring/Inno.Adapter.UI.RmlUi.Authoring.csproj"
+    },
+    {
+      "name": "Inno.Adapter.UI.RmlUi",
+      "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi/Inno.Adapter.UI.RmlUi.csproj"
+    },
+    {
+      "name": "Inno.Adapter.UI.RmlUi.Tests",
+      "path": "backends/RmlUi/tests/Inno.Adapter.UI.RmlUi.Tests/Inno.Adapter.UI.RmlUi.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.Sdl3",
+      "path": "backends/Sdl3/build/Inno.Build.Toolchains.Sdl3/Inno.Build.Toolchains.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Native.Sdl3",
+      "path": "backends/Sdl3/native/Inno.Native.Sdl3/Inno.Native.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Platform.Sdl3",
+      "path": "backends/Sdl3/runtime/Inno.Adapter.Platform.Sdl3/Inno.Adapter.Platform.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Platform.Sdl3.Tests",
+      "path": "backends/Sdl3/tests/Inno.Adapter.Platform.Sdl3.Tests/Inno.Adapter.Platform.Sdl3.Tests.csproj"
+    },
+    {
+      "name": "Inno.Native.Sdl3.Tests",
+      "path": "backends/Sdl3/tests/Inno.Native.Sdl3.Tests/Inno.Native.Sdl3.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.Text",
+      "path": "backends/Text/build/Inno.Build.Toolchains.Text/Inno.Build.Toolchains.Text.csproj"
+    },
+    {
+      "name": "Inno.Native.Text",
+      "path": "backends/Text/native/Inno.Native.Text/Inno.Native.Text.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Text.FreeTypeHarfBuzz",
+      "path": "backends/Text/runtime/Inno.Adapter.Text.FreeTypeHarfBuzz/Inno.Adapter.Text.FreeTypeHarfBuzz.csproj"
+    },
+    {
+      "name": "InnoEngine.Build",
+      "path": "entry/InnoEngine.Build/InnoEngine.Build.csproj"
+    },
+    {
+      "name": "InnoEngine.Editor",
+      "path": "entry/InnoEngine.Editor/InnoEngine.Editor.csproj"
+    },
+    {
+      "name": "Inno.Build.BrowserWasm32",
+      "path": "platforms/BrowserWasm32/build/Inno.Build.BrowserWasm32/Inno.Build.BrowserWasm32.csproj"
+    },
+    {
+      "name": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx.Runtime/Inno.Integration.BrowserWasm32.Bgfx.Runtime.csproj"
+    },
+    {
+      "name": "Inno.Integration.BrowserWasm32.Bgfx",
+      "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx/Inno.Integration.BrowserWasm32.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Integration.BrowserWasm32.Build",
+      "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Build/Inno.Integration.BrowserWasm32.Build.csproj"
+    },
+    {
+      "name": "Inno.Integration.BrowserWasm32.Sdl3",
+      "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Sdl3/Inno.Integration.BrowserWasm32.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Player.BrowserWasm32",
+      "path": "platforms/BrowserWasm32/player/Inno.Player.BrowserWasm32/Inno.Player.BrowserWasm32.csproj"
+    },
+    {
+      "name": "Inno.Adapter.Storage.BrowserWasm32",
+      "path": "platforms/BrowserWasm32/runtime/Inno.Adapter.Storage.BrowserWasm32/Inno.Adapter.Storage.BrowserWasm32.csproj"
+    },
+    {
+      "name": "Inno.Build.MacOSArm64",
+      "path": "platforms/MacOSArm64/build/Inno.Build.MacOSArm64/Inno.Build.MacOSArm64.csproj"
+    },
+    {
+      "name": "Inno.Editor.MacOSArm64",
+      "path": "platforms/MacOSArm64/editor/Inno.Editor.MacOSArm64/Inno.Editor.MacOSArm64.csproj"
+    },
+    {
+      "name": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx.Runtime/Inno.Integration.MacOSArm64.Bgfx.Runtime.csproj"
+    },
+    {
+      "name": "Inno.Integration.MacOSArm64.Bgfx",
+      "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx/Inno.Integration.MacOSArm64.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Integration.MacOSArm64.Build",
+      "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Build/Inno.Integration.MacOSArm64.Build.csproj"
+    },
+    {
+      "name": "Inno.Integration.MacOSArm64.Sdl3",
+      "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Sdl3/Inno.Integration.MacOSArm64.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Player.MacOSArm64",
+      "path": "platforms/MacOSArm64/player/Inno.Player.MacOSArm64/Inno.Player.MacOSArm64.csproj"
+    },
+    {
+      "name": "Inno.Platform.MacOSArm64",
+      "path": "platforms/MacOSArm64/runtime/Inno.Platform.MacOSArm64/Inno.Platform.MacOSArm64.csproj"
+    },
+    {
+      "name": "Inno.Build.Windows.Host",
+      "path": "platforms/Windows/build/Inno.Build.Windows.Host/Inno.Build.Windows.Host.csproj"
+    },
+    {
+      "name": "Inno.Build.WindowsX64",
+      "path": "platforms/WindowsX64/build/Inno.Build.WindowsX64/Inno.Build.WindowsX64.csproj"
+    },
+    {
+      "name": "Inno.Editor.WindowsX64",
+      "path": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/Inno.Editor.WindowsX64.csproj"
+    },
+    {
+      "name": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx.Runtime/Inno.Integration.WindowsX64.Bgfx.Runtime.csproj"
+    },
+    {
+      "name": "Inno.Integration.WindowsX64.Bgfx",
+      "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx/Inno.Integration.WindowsX64.Bgfx.csproj"
+    },
+    {
+      "name": "Inno.Integration.WindowsX64.Build",
+      "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Build/Inno.Integration.WindowsX64.Build.csproj"
+    },
+    {
+      "name": "Inno.Integration.WindowsX64.Sdl3",
+      "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Sdl3/Inno.Integration.WindowsX64.Sdl3.csproj"
+    },
+    {
+      "name": "Inno.Player.WindowsX64",
+      "path": "platforms/WindowsX64/player/Inno.Player.WindowsX64/Inno.Player.WindowsX64.csproj"
+    },
+    {
+      "name": "Inno.Platform.WindowsX64",
+      "path": "platforms/WindowsX64/runtime/Inno.Platform.WindowsX64/Inno.Platform.WindowsX64.csproj"
+    },
+    {
+      "name": "Inno.Animation.Tests",
+      "path": "tests/animation/Inno.Animation.Tests/Inno.Animation.Tests.csproj"
+    },
+    {
+      "name": "Inno.Assets.Pipeline.Tests",
+      "path": "tests/assets/Inno.Assets.Pipeline.Tests/Inno.Assets.Pipeline.Tests.csproj"
+    },
+    {
+      "name": "Inno.Assets.Tests",
+      "path": "tests/assets/Inno.Assets.Tests/Inno.Assets.Tests.csproj"
+    },
+    {
+      "name": "Inno.Assets.Pipeline.DuplicateImporterFixture",
+      "path": "tests/assets/fixtures/Inno.Assets.Pipeline.DuplicateImporterFixture/Inno.Assets.Pipeline.DuplicateImporterFixture.csproj"
+    },
+    {
+      "name": "Inno.Audio.Assets.Tests",
+      "path": "tests/audio/Inno.Audio.Assets.Tests/Inno.Audio.Assets.Tests.csproj"
+    },
+    {
+      "name": "Inno.Audio.Runtime.Tests",
+      "path": "tests/audio/Inno.Audio.Runtime.Tests/Inno.Audio.Runtime.Tests.csproj"
+    },
+    {
+      "name": "Inno.Audio.Tests",
+      "path": "tests/audio/Inno.Audio.Tests/Inno.Audio.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Bindings.Tests",
+      "path": "tests/build/Inno.Build.Bindings.Tests/Inno.Build.Bindings.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Cli.Tests",
+      "path": "tests/build/Inno.Build.Cli.Tests/Inno.Build.Cli.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.NativePerformance.Tests",
+      "path": "tests/build/Inno.Build.NativePerformance.Tests/Inno.Build.NativePerformance.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Tests",
+      "path": "tests/build/Inno.Build.Tests/Inno.Build.Tests.csproj"
+    },
+    {
+      "name": "Inno.Build.Toolchains.Tests",
+      "path": "tests/build/Inno.Build.Toolchains.Tests/Inno.Build.Toolchains.Tests.csproj"
+    },
+    {
+      "name": "Inno.Content.Tests",
+      "path": "tests/content/Inno.Content.Tests/Inno.Content.Tests.csproj"
+    },
+    {
+      "name": "Inno.Content.CacheProbe",
+      "path": "tests/content/fixtures/Inno.Content.CacheProbe/Inno.Content.CacheProbe.csproj"
+    },
+    {
+      "name": "Inno.Content.Testing",
+      "path": "tests/content/fixtures/Inno.Content.Testing/Inno.Content.Testing.csproj"
+    },
+    {
+      "name": "Inno.Core.Collections.Tests",
+      "path": "tests/core/Inno.Core.Collections.Tests/Inno.Core.Collections.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Coroutines.Tests",
+      "path": "tests/core/Inno.Core.Coroutines.Tests/Inno.Core.Coroutines.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Diagnostics.Tests",
+      "path": "tests/core/Inno.Core.Diagnostics.Tests/Inno.Core.Diagnostics.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Events.Tests",
+      "path": "tests/core/Inno.Core.Events.Tests/Inno.Core.Events.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Execution.Tests",
+      "path": "tests/core/Inno.Core.Execution.Tests/Inno.Core.Execution.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Graphs.Tests",
+      "path": "tests/core/Inno.Core.Graphs.Tests/Inno.Core.Graphs.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.IO.Tests",
+      "path": "tests/core/Inno.Core.IO.Tests/Inno.Core.IO.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Identity.Tests",
+      "path": "tests/core/Inno.Core.Identity.Tests/Inno.Core.Identity.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Jobs.Tests",
+      "path": "tests/core/Inno.Core.Jobs.Tests/Inno.Core.Jobs.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Layers.Tests",
+      "path": "tests/core/Inno.Core.Layers.Tests/Inno.Core.Layers.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Logging.Tests",
+      "path": "tests/core/Inno.Core.Logging.Tests/Inno.Core.Logging.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Mathematics.Tests",
+      "path": "tests/core/Inno.Core.Mathematics.Tests/Inno.Core.Mathematics.Tests.csproj"
+    },
+    {
+      "name": "Inno.Core.Serialization.Tests",
+      "path": "tests/core/Inno.Core.Serialization.Tests/Inno.Core.Serialization.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Audio.Tests",
+      "path": "tests/editor/Inno.Editor.Audio.Tests/Inno.Editor.Audio.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Graph.Tests",
+      "path": "tests/editor/Inno.Editor.Graph.Tests/Inno.Editor.Graph.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Hosting.Tests",
+      "path": "tests/editor/Inno.Editor.Hosting.Tests/Inno.Editor.Hosting.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.ImGui.Tests",
+      "path": "tests/editor/Inno.Editor.ImGui.Tests/Inno.Editor.ImGui.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Inspection.Tests",
+      "path": "tests/editor/Inno.Editor.Inspection.Tests/Inno.Editor.Inspection.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Interactions.Tests",
+      "path": "tests/editor/Inno.Editor.Interactions.Tests/Inno.Editor.Interactions.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Performance.Tests",
+      "path": "tests/editor/Inno.Editor.Performance.Tests/Inno.Editor.Performance.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.PlayMode.Tests",
+      "path": "tests/editor/Inno.Editor.PlayMode.Tests/Inno.Editor.PlayMode.Tests.csproj"
+    },
+    {
+      "name": "Inno.Editor.Presentation.Tests",
+      "path": "tests/editor/Inno.Editor.Presentation.Tests/Inno.Editor.Presentation.Tests.csproj"
+    },
+    {
+      "name": "Inno.Testing.Editor.Native",
+      "path": "tests/editor/fixtures/Inno.Testing.Editor.Native/Inno.Testing.Editor.Native.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Modules.Tests",
+      "path": "tests/extensibility/Inno.Extensibility.Modules.Tests/Inno.Extensibility.Modules.Tests.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Reload.Tests",
+      "path": "tests/extensibility/Inno.Extensibility.Reload.Tests/Inno.Extensibility.Reload.Tests.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Types.Tests",
+      "path": "tests/extensibility/Inno.Extensibility.Types.Tests/Inno.Extensibility.Types.Tests.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Modules.TestDependency",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestDependency/Inno.Extensibility.Modules.TestDependency.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Modules.TestModule.Invalid",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.Invalid/Inno.Extensibility.Modules.TestModule.Invalid.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Modules.TestModule.V1",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V1/Inno.Extensibility.Modules.TestModule.V1.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Modules.TestModule.V2",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V2/Inno.Extensibility.Modules.TestModule.V2.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Types.TestAssemblyA",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyA/Inno.Extensibility.Types.TestAssemblyA.csproj"
+    },
+    {
+      "name": "Inno.Extensibility.Types.TestAssemblyB",
+      "path": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyB/Inno.Extensibility.Types.TestAssemblyB.csproj"
+    },
+    {
+      "name": "Inno.Input.Tests",
+      "path": "tests/input/Inno.Input.Tests/Inno.Input.Tests.csproj"
+    },
+    {
+      "name": "Inno.Plugins.Tests",
+      "path": "tests/plugins/Inno.Plugins.Tests/Inno.Plugins.Tests.csproj"
+    },
+    {
+      "name": "Inno.Testing.Processes.Tests",
+      "path": "tests/process/Inno.Testing.Processes.Tests/Inno.Testing.Processes.Tests.csproj"
+    },
+    {
+      "name": "Inno.Testing.Processes",
+      "path": "tests/process/Inno.Testing.Processes/Inno.Testing.Processes.csproj"
+    },
+    {
+      "name": "Inno.References.Tests",
+      "path": "tests/references/Inno.References.Tests/Inno.References.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Assets.Authoring.Tests",
+      "path": "tests/rendering/Inno.Rendering.Assets.Authoring.Tests/Inno.Rendering.Assets.Authoring.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Assets.Tests",
+      "path": "tests/rendering/Inno.Rendering.Assets.Tests/Inno.Rendering.Assets.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Runtime.Tests",
+      "path": "tests/rendering/Inno.Rendering.Runtime.Tests/Inno.Rendering.Runtime.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Shaders.Tests",
+      "path": "tests/rendering/Inno.Rendering.Shaders.Tests/Inno.Rendering.Shaders.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Tests",
+      "path": "tests/rendering/Inno.Rendering.Tests/Inno.Rendering.Tests.csproj"
+    },
+    {
+      "name": "Inno.Rendering.Runtime.Reload.TestModule",
+      "path": "tests/rendering/fixtures/Inno.Rendering.Runtime.Reload.TestModule/Inno.Rendering.Runtime.Reload.TestModule.csproj"
+    },
+    {
+      "name": "Inno.Runtime.Generators.Tests",
+      "path": "tests/runtime/Inno.Runtime.Generators.Tests/Inno.Runtime.Generators.Tests.csproj"
+    },
+    {
+      "name": "Inno.Runtime.Tests",
+      "path": "tests/runtime/Inno.Runtime.Tests/Inno.Runtime.Tests.csproj"
+    },
+    {
+      "name": "Inno.Scene.Tests",
+      "path": "tests/scene/Inno.Scene.Tests/Inno.Scene.Tests.csproj"
+    },
+    {
+      "name": "Inno.Scene.Reload.TestModule",
+      "path": "tests/scene/fixtures/Inno.Scene.Reload.TestModule/Inno.Scene.Reload.TestModule.csproj"
+    },
+    {
+      "name": "Inno.Editor.Scripting.Tests",
+      "path": "tests/scripting/Inno.Editor.Scripting.Tests/Inno.Editor.Scripting.Tests.csproj"
+    },
+    {
+      "name": "Inno.Scripting.Compiler.Tests",
+      "path": "tests/scripting/Inno.Scripting.Compiler.Tests/Inno.Scripting.Compiler.Tests.csproj"
+    },
+    {
+      "name": "Inno.Testing.Source",
+      "path": "tests/source/Inno.Testing.Source/Inno.Testing.Source.csproj"
+    },
+    {
+      "name": "Inno.Storage.Tests",
+      "path": "tests/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj"
+    },
+    {
+      "name": "Inno.Text.Tests",
+      "path": "tests/text/Inno.Text.Tests/Inno.Text.Tests.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Architecture.Tests",
+      "path": "tests/tooling/Inno.Tooling.Architecture.Tests/Inno.Tooling.Architecture.Tests.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Documentation.Tests",
+      "path": "tests/tooling/Inno.Tooling.Documentation.Tests/Inno.Tooling.Documentation.Tests.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Validation.Tests",
+      "path": "tests/tooling/Inno.Tooling.Validation.Tests/Inno.Tooling.Validation.Tests.csproj"
+    },
+    {
+      "name": "Inno.UI.Tests",
+      "path": "tests/ui/Inno.UI.Tests/Inno.UI.Tests.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Architecture",
+      "path": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Documentation",
+      "path": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj"
+    },
+    {
+      "name": "Inno.Tooling.Validation",
+      "path": "tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj"
+    }
+  ],
+  "retired": [
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/constructor-112bcacd13d02ab8.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "99bba0fe0f925f44c33eae82d5f8d671bad1c5eca602962ec1ccdb4724c7b363",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/deleteasync-88ecfa75af4cd90a.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "2903ae64deabf510da07a606c6b475caa3003dedbe1b547d40c62b943eea32fa",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/existsasync-12e4fdec40cf6eda.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "3c7da5b1a5cf48a2d2a26c1d526f1870e2ae561a28fd6e1a78d59839ed193762",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/listasync-7e254edca8681980.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "74ac83cb6dc3c7a4b93410fcaa214e5d9bf0b7e5bd2741c0576faeb582136b94",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/readasync-6050e20d792ee8ca.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "5cfa7b5516fa3d7efc9704fef0f6ce1787f49240f95ee02523318ae0052a11f1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/_members/writeasync-8da9d5d3a1b63cb0.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "991947953539eb6ea42e67ab3ecadfe5cee48b7d4490b4087ba76f0e59d740c1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32storagebackendprovider/_members/constructor-5a3d2e643d270157.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "aa38cc6b554f4c7a365e4cb6680d17f603c9e7d4832eaa4522fd0d0f689e57f1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32storagebackendprovider/_members/createstorage-1e3087d926cc80a3.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "2ee97d9b660eeb3192c3b8b0b9d39da1973a340cba0cf35acaac5e71b8b09912",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32applicationstorage/index.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "1c7cea49a7571c5586d42732b6abd72c4e9032f01e8e859d6ad631e8ebd75331",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/browserwasm32storagebackendprovider/index.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "960228779eb8605f3f0fe7c7ca85557e1e24ed900ab00d295058dc011c69a529",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32buildmodule/_members/createcontribution-4ff409677eeca0d4.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "ca60cc07a91259e9e7015211f5aa6d43b8a78e547f41b0097b40e1be0290ac51",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/constructor-82186249f900aacd.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "50e993adc1b8bcba3dfc6d0a86e5549514327ac3d28f41fd82df873cef398d7f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/packageasync-f18a952ce5687b8d.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "b1b3db62de23c67ef36c86a85c7a75e32ed0640c8bbcccaed0b8d454006fddfb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/validate-3c9504efa4ed5ef1.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "33d530d26c65c583b472beaca547623f2f111f488315e4a2de6fa77036f0cf88",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32linkersettings/_members/create-92757660c40c2165.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "2257143ae64db9cd9de164bdb072959c798c61acc6b370121e311bacf757dbda",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32nativeproductexecutor/_members/constructor-c97dc65083701385.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "5a815e5228bf9025b347432923e3cd1201adc132b7ea0a48119a5a041b4bd910",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32nativeproductexecutor/_members/buildasync-dcc508c7acb44e6e.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "a976599e568de7760c36398865186d32f33845465e95be38492f49dd388ee2f9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32playersupportpacksource/_members/constructor-f9de4bf2086cac0b.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "e4bc67ac8fe89bf2cfb4b2680e8c7c4a18ce25331fb66384404c7ad2737f8495",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32playersupportpacksource/_members/createplanasync-86f6a50277afbb24.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "bf8e05d0e2e3343b3e002d37e047c9c8857a397503a302b3ab1458efd23cf6cb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32playersupportpacksource/_members/validate-31e83c78667e432d.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "172c3bdaf0fe82ced1f09cd6e0a3fcc7a8a12f3202c5e0f1f56bd5a37f507969",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32supportpackvalidator/_members/constructor-6231a9c2ee95eb40.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "eb72190fbbc69ab5c4841d9dc16a7d430cf6d2ae084eaf4ecdd3233aaa2939f9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32supportpackvalidator/_members/validate-72eabaa52bafb7b5.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "2d38186a520f95f94f31a3ba5fd580e2ab34a9b35b28ba8ed1a0465dc744ce9e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/emscriptennativetoolchainprovider/_members/constructor-2d47faf50d8d51ce.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "4cdf097eb50d4045784c040d2ed65825befe06f545b871107a53ae472829e435",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/emscriptennativetoolchainprovider/_members/resolveasync-3a11dcf92ba1cc39.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "3edc4216857202ad517da47019343efeda7329ca4ee117bdedb5e114357c63c1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/emscriptentoolchainresolver/_members/resolveasync-ebd2d6029ce745f0.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "851e06e41c4467f25299cdd08f27d304124cf1631e8896d0d1ba1db8b82f7f5f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32buildmodule/_members/target-b22c1592720d5536.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "21dacc83e93077326c391bec5bfdd911a6e7303b80ccfa35b96a70647c3c2f0c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/defaultmanageddeployment-d9972bbe6ef40654.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "6512f7ea27cd19095a209cd7a03c41369c941435e3f854e091246766e9a77002",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/displayname-8bff0e81d9906da0.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "3520a85c5a47c42cbb26b5c8782a2aa1c18d39fd77818d5fa7b2c9e37d841b25",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/id-32df349128409b43.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "065ead96181f4cf626d826dae01a3c42e16debd69660800dc519b03cf890c479",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/_members/runtimeidentifier-ed1f5815bcd9c325.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "55fd3c237e88ff5d88e9cf7eb3760d55cec6d4995b27ac8e547b0f905424126a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32nativeproductexecutor/_members/componentdescriptor-1879aa1c9f214ec1.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "5ec4d2db5d1b40daacbb1950b74a0fff98b9e1ef516ba0e6252f7cb00846d22a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32playersupportpacksource/_members/target-c426370cfddd80f6.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "5c032d4c787be553e6e2ed3fcc5b85af5b0eb60a3ef0f95f916be0c257c4111a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32buildmodule/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "e0bbca58909268eae3aa6bc313eb5d82d954008e6b37d5a09cd18ff53bd50400",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32gamebuildtarget/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "26231fe1b4dda592e36ddf8c26710fbff1d5e20ca36f05173322b722ff6ba977",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32linkersettings/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "c520a48de0b6323fedc7d801e42e3aea2f4fe71c9f7aa06e3235aca5b7311d90",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32nativeproductexecutor/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "f92df3e9554eca2fe13be3c68044ccd592b6f4b97fd584192707f97364395093",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32playersupportpacksource/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "bfc6a90f73bd86c74156dc44714486dc0997cd614eba5c39f614ec1557cfe115",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/browserwasm32supportpackvalidator/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "758541fac5562b350fca35c29ae5f58e4e8f992a6c68c785b6171a6a928af260",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/emscriptennativetoolchainprovider/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "e1f308b1f3800dc9e7aea781ef31fab4736229f88cb16f6ef520e0fef5735a11",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/emscriptentoolchainresolver/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "33ce8a0b543fd4080482a448892ccbe7c2dee863b9e586d82da0cf3bd3088608",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildhostprovider/_members/constructor-67cbb80b08ec4438.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "f39c06dbe25b4533519193fa2791ca5d5ddc23ae13b222e184dfa8fdbda8295a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildhostprovider/_members/trycapture-92c97bce5478c851.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "5734424c233e24a9da636d53ef8eab2dea50d01d673904e77970b3f5257f793f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildmodule/_members/createcontribution-324a5546ff5cef0f.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "3214f34d1cf1c7dde0c182e32b127dd533da3afbfbc4cf0d9e453a711ecb631d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/constructor-db50f583f776e7e7.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "4b7b88b3ab641c7c1acd9fce0ccd21ca9d012cdbc882bbe2776dce8c75421c69",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/packageasync-0722e7cdf0815366.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "25e3af18fd1d15210cebc7971af493876ed3102cfcfd122f12865c1a71ccc533",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/validate-4b01f9a78fe3fc10.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "fd615efef1d1f7bb1e6aefb56827d61a1d0e01dab7058425be979527533fbea1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64linkersettings/_members/create-8c0a4728fdcfcc82.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "ac62aa46b65a1301f9038b26911563e2e4073e3fc04dbd5918e0ee35b8f753ca",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64nativetoolchainprovider/_members/constructor-e053e549aadec432.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "acf107cb77f658def832a47b09e5e0992895d589ef6d4b646f7a884f833bc62c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64nativetoolchainprovider/_members/resolveasync-5e9883a3149a0f49.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "3d4b9979372c49600dee8ecac3c203ccae841664a80a123a1c598a2444100188",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64playersupportpacksource/_members/constructor-f2557ea75cfdac51.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "8ae35f650796d38078ce1b4fc3e82eff295da348404aeb884c53b2260307e1a7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64playersupportpacksource/_members/createplanasync-8ac0b91e05694be2.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "7a9973f7dd958c506fe94beb5d3d9502bc6c00d320af6e49c57e2bc1d7183f25",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64playersupportpacksource/_members/validate-d09e3353f899f2d3.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "e6f546c0ff79e7383496bab60df997c6b5249b19e60c3545498565da9f35023b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64supportpackvalidator/_members/constructor-bfb1a5f24266f129.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "0ed47bf330c38342c2328bb7d66c6b2265d240a813ea489a20a50a0184e33a36",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64supportpackvalidator/_members/validate-cecc9c5b980893f9.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "a921a5353b5788ecff019318d475699d6b56f44cf629096d6d1cecc8106e24a1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildmodule/_members/target-343fe52c7ede0d7f.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "e93af5c741b6248014498d2a7ea5c593815218ad83ce1f8f52f4f892142c6b6c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/defaultmanageddeployment-091c47a78a486b8b.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "a39f271bbf8a7d17994a936c41f2806d887a3b5578f9a5732f1f7ad04e17b5d0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/displayname-a3ab5747cdcc8c15.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "cc3814459735d90cdb48e3351201a7607dcbeafe97221c122265f0a919dd5b83",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/id-7e21ff949c342d89.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "3cfcf6a504428e37f0be885b5309197bb4081460d1a700b7038a8b84bd2502c1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/_members/runtimeidentifier-7f29589203649799.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "78d95d031bd71b9e9f7a91d294f7dc4bf5f8b37554e6aae8585ee5ec34a6a1cd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64playersupportpacksource/_members/target-305b9e28cda838b3.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "82cfe935496150ce50401975036f6e17c3a086e72deb16c690b84787d486de01",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildhostprovider/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "dbdd650226693a4b2bf6ad211ea17be1b980aca0333f65bd35fb027b4c72c72c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64buildmodule/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "ed20f282f23edb78da50fba1b330bc0fea6fd7220ed52452e9500625b75529dc",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64gamebuildtarget/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "2e45e87776ff17cfeb129988946d6ed62befe8c72c50991f077c1c4f6ac2763c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64linkersettings/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "aea63ea8ab930efe6e5adce7d163d4de7c69723cd24ca8c959b7001018cf2536",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64nativetoolchainprovider/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "fe84221d2e6ba1236b19c85866e617c3b4e32fe37b4a141301ace744b564ad04",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64playersupportpacksource/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "151311ed97fc64ebcb949306a467d3fdcf8fffdc7f9a9b6340699dc36b14ead2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/macosarm64supportpackvalidator/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "d19149e47cc2c1d8e0977a1bf035cad8438f51e618192a3701b2c95e5fb83ecd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowsbuildhostprovider/_members/constructor-2e20694572bd1b25.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "99a0440be2b5045b22beb02ae788767a0c9719d99072cd45c093d72020cdb39f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowsbuildhostprovider/_members/trycapture-c9f9d182d51bd5eb.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "bdb3c2373dddf9cc4862393d7035664f8141c0fe6597d88255097ce71832ce16",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowstoolchainworkspaceprovider/_members/constructor-9a1acc922bd229ea.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "5ffdeb45f346704c2f8d5a034d866df83ec87c7cadbf46dd9057ef176f334188",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowstoolchainworkspaceprovider/_members/openasync-595daafa75c2ed3a.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "652920659439f9c61c162940742ff36105c9dd87e5de0410649a2788d2d99dc2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowstoolchainworkspaceprovider/_members/identity-9115ae459fdbfa58.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "5dce9a4224fcdbc9a4607bcaf1adbfd5ab1eba0dcc4f64aeea360c76e1f13164",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowsbuildhostprovider/index.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "9a34aa6c513bdfedc1f098c4ad7525f18a76310cc52b413bca40e655dd444094",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/windowstoolchainworkspaceprovider/index.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "11210fcc06463894c7eade26d39ab9715ed00e33f35329599eb345528712a45f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64buildmodule/_members/createcontribution-472f30c9366d39bf.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "8a244daff3e4bc0f3a058bc7b47d35f58ee9509c88199363b22169bf4e9c283c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/constructor-c6d23c4e69bf2c56.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "ef0491e831b00191e55a537dd5c3ffba9f332ea63508fd8295da8614b2c967fa",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/packageasync-d13100cbefe8860d.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "3d49407a60a89f65cd02da249ec6efa25c4c89dd320991439fb61959b0a7b403",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/validate-e0139d6dd93c5b00.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "9083a5962086bd871b93285ad58a4acf330c99231f6a00b8b46ff749f5b60d15",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64linkersettings/_members/create-e7456ef3b1b014c1.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "c4384fd5f791c914db3895e0af2163abab80e5ea50d4e7c4303734520f74f478",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64nativetoolchainprovider/_members/constructor-30343d5af70d0ff2.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "28929f94694dc48812efd20bcbf147f6c92c868751c73ed48ec86fadbe3ad410",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64nativetoolchainprovider/_members/resolveasync-1bb3befe94633bfc.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "1ad7af0fbab004d770ef314eb8bf1eab53cc0a740b52203044c24e00950d0b37",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64playersupportpacksource/_members/constructor-ab9807fae2cc39b2.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "339c593846a770f75752f44ef75413f96a7f158136ca7ca07c860b8504f03cb6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64playersupportpacksource/_members/createplanasync-f9ba1d1a98794066.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "b7fcd67f1f315c28cd27c4ef596a044c326c4c1d3af4d11b8afb5c7ae7bba089",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64playersupportpacksource/_members/validate-a37e3ced97fdd4ba.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "c01771238b523122853d229cf1d9e8d9258e8aac08c1e28d0349c04cf81c144b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64supportpackvalidator/_members/constructor-d2a7f89bab27b47f.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "1f4df8b9c95af05dd7f7505169d54826149a0c3e8a3886fdce09f8ab1e8c5e82",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64supportpackvalidator/_members/validate-98b2fe8a76836240.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "25a7c8aed9dc6bd98c8a9ce8aef0b352b3ccd9e522ba8df1db7675ce284187d1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64buildmodule/_members/target-40c4f60ce60c4d44.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "eefd3eeb5ad906901508bb4b6bca1841e5c4a94b45d9bbb68eecb1ea075c246a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/defaultmanageddeployment-89af2359ba8ddd1a.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "0cc7e99a40a7030d602a4ffe6ba60b3f705d3c700d9d9b3c89df0d98e3459d8e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/displayname-d0a33310638862a7.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "e3ce236da92fba18dec30154d44e984e2377aeeb3c7f0653c11a0ea16b4af807",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/id-4c3eaffd3105315f.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "a12f78e41599557b3f3663d0987a2062358856b3402fdd0e0558a960e62588ba",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/_members/runtimeidentifier-0f653969965deea0.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "afa10bd3bf15640d076eca57241b6ca540d9ceff4a68e576fafff16bdf6163ee",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64playersupportpacksource/_members/target-ce4f0f12b321c470.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "63644a37ba367d0b54cfe2e99c480578fb438a24add9ccab3b3c9b1ede579a55",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64buildmodule/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "4b9acc60c1bd826b19f4634e723441321379521b685fed1283b590c01c383aa8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64gamebuildtarget/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "780001273914a5c2d99794c80ffb135b08285b6027b92b9812bf6196a58deeba",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64linkersettings/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "0a4dd6b7e80c38cb83f16444671695bd03d9c31cb59a0f1ae03a611d25cba1d6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64nativetoolchainprovider/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "e5c931a84f7dc103ca1feef111d02c718c10a5f7c6a3e1831923ebbb6ffd61a4",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64playersupportpacksource/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "e0b7491863fe6526362e8c692df92ea0b12e24b1f324a1f93381b620e5d761e9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/windowsx64supportpackvalidator/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "bcb14381d4f84e1fbbb15c695ef310f279cc350014c32d6f8646051102ec4483",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/editor/macosarm64/macosarm64editorcomposition/_members/run-2d3a686e391a1ad4.md",
+      "owner": "Inno.Editor.MacOSArm64",
+      "sha256": "656c76d645389f1ebce230c9131d57efb482f84e2ab8a24419483f689daa09d8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/editor/macosarm64/macosarm64editorcomposition/index.md",
+      "owner": "Inno.Editor.MacOSArm64",
+      "sha256": "e60579070d03f1eeb02a613b4149d4f6ad0d8b48204785aba1d93e33ccc1ea78",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/editor/windowsx64/windowsx64editorcomposition/_members/run-207892960b487b79.md",
+      "owner": "Inno.Editor.WindowsX64",
+      "sha256": "f8136f98e7bfba9a648ab7802ac1d7656841986ce950defad147d84fd575dc7d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/editor/windowsx64/windowsx64editorcomposition/index.md",
+      "owner": "Inno.Editor.WindowsX64",
+      "sha256": "6a2ec397b09950e8bd444aac2806d8f086cd4cd818bf56b67b0709482210ff56",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/runtime/browserwasm32bgfxsurfaceintegration/_members/constructor-aac129dbecf7211b.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "cd1248d09a3b6c3cd2dcccbfb74ce46d5681c117fcc0e532f1832016e978d009",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/runtime/browserwasm32bgfxsurfaceintegration/_members/resolve-b29d30b1cc163507.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "fc3be74c2bed2ee7a625a2e69ea22ce512594b5f51802c2098de3cb0c0e7dacb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/runtime/browserwasm32bgfxsurfaceintegration/_members/supportsadditionalsurfaces-db64a32f41b2feaf.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "d8c138e09f4ede0c4f6a51a417f01606328fe52870a08aa15375a9b5b204ab4a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/runtime/browserwasm32bgfxsurfaceintegration/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "a5f7ad888274686f1c0ea3beb83fafb95b40fb90fed305684338d1ee769b3115",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxintegration/_members/createcontentcompilerfactory-e3f0c7ca5f87c377.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "71a2d5c60bf0252bc10bf6147a887e97ce0a22841fd07ac0b6e313dea3c62f41",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxintegration/_members/nativeoptions-305352117bbf3ef5.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "cbef02e94c170a6d8b3048714fb03a7e3be2e3ea8054bc2d47e97d98494917bf",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxintegration/_members/shaderprofile-9461e2254ead42d2.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "8d5eed7539b8d3df41f2927484e6b2fd8e1f8eca24423c8f7184dc9f842f8984",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxshaderprofiles/_members/target-cb9004b688872f60.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "05e5844a4dd266260d7b47faecacc8f2ec79f1becd36e00e4b1afd1611f6d448",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxintegration/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "45fdb854e47fe6e11c3f54f63a542e016e5229b03cf7388624c71503cf19bdcc",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/browserwasm32bgfxshaderprofiles/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "43f8bf038bdbbc5c3bcb431f80aac94dd545ffa61394da34fcdd18bd32618b2c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/build/browserwasm32buildintegration/_members/create-52b64af2445b4b3f.md",
+      "owner": "Inno.Integration.BrowserWasm32.Build",
+      "sha256": "ac1ff265b377764a042ff3af635c971f71dd5d6b227a8112f4f0ca92b64c88c2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/build/browserwasm32buildintegration/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Build",
+      "sha256": "3db69e9971771221c4f04ac5d62da1f7658e6b6b66187ead8d8df0921c9683ed",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/constructor-893dda30cb3b000e.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "7cffc8f2ce8b6e99cc673899aa271d71a66ac09f0dce7bf9af8147f520882bf6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/configureinitialization-02a1f1e09ed11d28.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "437f48ac1544d1400484b1ba480fa3fbab51155a613dcae93e13580b4d5b50b8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/createwindow-3b8313d55d5e5823.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "7465bc6659f6e577d586ab4d941e3f16636e330eee86bbe6f25cb3988b735e61",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/getinitialfocus-3f27b8de61ca9021.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "85d5812bda2a2fc040d44d110b7b2608d819db3e74fd457759f57df5993b1238",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/resolvenativesurface-ca48578aaca80fd2.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "2675f785b3bc834faae8b255f8a8a6b9ac1eb2913f6ce49017df295d52e1c554",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/_members/capabilities-88ab814c13fb4923.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "4e4745a66f47ca5182a7293fd9041859823d52c9f9b2ef3621f377612ed8f8e3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/browserwasm32sdl3hostintegration/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "f4713d0baf9dab8eb390b27c64a39bdf810036161b88c26f77b30df11afcd88f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/runtime/macosarm64bgfxsurfaceintegration/_members/constructor-9a51dd8a34f138c4.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "a4116847fa3abba00a5633f713f445211059d8de4deed2a9451c6426d2f0d269",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/runtime/macosarm64bgfxsurfaceintegration/_members/resolve-8f1ebbe1c2fe7450.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "268aacbb3a922d3215e731e7ffea3858ce0ab5ad27d19a62ea40c83a0115738b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/runtime/macosarm64bgfxsurfaceintegration/_members/supportsadditionalsurfaces-14c8ace5893d725f.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "562d74d165b4b8f97b2440ffa44f0469517a7610843d100082756241b7583ef3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/runtime/macosarm64bgfxsurfaceintegration/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "e44151cb6826d298071a4a2172f5d496b32def2fee388e73af8bf2748743409c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxintegration/_members/createcontentcompilerfactory-3af9a997b7dd5648.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "b1736de14f5b94a2c09a6f82bda5a36467d53513e4b686f80ced64cde45493db",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxintegration/_members/nativeprofile-5d2348011e5fdcfb.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "4dea58c124682331bd875eb24e22f352bbf4ddf8b911f7a2a71d005a765ec481",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxintegration/_members/shaderprofile-7c295b3e8a78f872.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "33fd669b6d20220f531a8ac7e8e6b9cde286306690ea92f83f63f2cb9c72334e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxshaderprofiles/_members/target-89d40ef6a2b2e1da.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "ceb5eb9e88456dadfe7219a4531ed7ca0fee144b1b20efb3961e1ef8f18f7505",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxintegration/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "9db84c458e85439f0c8af528bf6398d1685b49a5093d5d053df73a5a2203f24e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/macosarm64bgfxshaderprofiles/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "73c666f92ce6bb04add72899901ff05132e5cea326ca5ac520fb17b39f4be5bd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/build/macosarm64buildintegration/_members/create-f4162fc71c043b72.md",
+      "owner": "Inno.Integration.MacOSArm64.Build",
+      "sha256": "b982ae8dc0a4ace0f60ef3460928664243638372097b020930fdeb5d9e1a383b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/build/macosarm64buildintegration/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Build",
+      "sha256": "e1bf5aa9b6695d2e03fd62267515ee2e9ce0bd769ff7f3a8cae0897441bafe31",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/constructor-afa214d4e4f1ffe5.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "95f3bdb60b0a92074e6704ba31a009c6bbea0b16e28f7eb19e629a02f6d5712c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/configureinitialization-dd029dedff3ea287.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "6afd735b275c936da0eeada31863b5933babfb738f827ab129359d2105fe6f66",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/createwindow-cf94b8bcd2c4f3d1.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "6bda1d1e283fc8fef93286444584322c6f40277b6b28991f9a47deac8a12ca07",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/getinitialfocus-ff4d903d360388dd.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "3aa554ad855b4fb3a938ab7c1de6f64f4ca66c1be5a50a22c25a7d67e9e764d5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/resolvenativesurface-0be112b824e52537.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "bcb83495395bbf7b3f0a9e1834bea66e5dd22dbc3b60530cb3be4b71f4c374fe",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/_members/capabilities-24c584265ce9bfb5.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "3c32ed0e4f24583ff9a28e5dfe59b051b224bc587e821fd5e0b3a726bacb5d16",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/macosarm64sdl3hostintegration/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "20a4a92a2fc0c4172765773d86c0bcd15436063311840511319656d76c6387fe",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/runtime/windowsx64bgfxsurfaceintegration/_members/constructor-7d5056457ea5452a.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "7ec81842bdb82c20680e32ea9cc1bb963f1d8e8ad21444498ea5478781528cb1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/runtime/windowsx64bgfxsurfaceintegration/_members/resolve-028ca19103d5db04.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "9d4c9819aefaaefc1da4828a1959b5af48283ec475cfa150669be01002ed8e1f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/runtime/windowsx64bgfxsurfaceintegration/_members/supportsadditionalsurfaces-cc53c68a019d5757.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "edcd48bd6acdfb6ba2a3f29e8922cd654dcb6839147484b2725b06073e14b627",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/runtime/windowsx64bgfxsurfaceintegration/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "0015280cc64b886686ef3440920e83676bd6b0a2c0162be2671770b953f9184a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxintegration/_members/createcontentcompilerfactory-5a6b9659a9a969d3.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "003a68630faba1a211e60c7dbee6160e1d18faf04318e0ef7c3719d77d8167d0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxintegration/_members/nativeprofile-91f49693402b4bf0.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "150a5b9cc382748da0d05c0d75e0202d0692e2927238d77bfbe4a12922a20e4e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxintegration/_members/shaderprofile-1d3615bc90f4fa1d.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "df8d0d865d9c5bdc36862ecd8f1d6263ffce224fb091298c24390b817a59e160",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxshaderprofiles/_members/target-ce773bb9c9a84599.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "b251610faad7d66173bf1f144b2ece73ee32976eaaa6da5ef2ea48743c7fa8c1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxintegration/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "15742dec4287dee2570c4fc8710e4c57d0b0f8eb8006628edeaee03baf05368e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/windowsx64bgfxshaderprofiles/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "d5a38396b0e2a17e3935fa8a62ccfb17b7fb16e794e9030ae401bffbea73257b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/build/windowsx64buildintegration/_members/create-5c234ddd5ac4aca1.md",
+      "owner": "Inno.Integration.WindowsX64.Build",
+      "sha256": "b3ef1a56f6094bf0ce05fc25e50eb86725f5bddff0e5c7f648fe8641cba5144c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/build/windowsx64buildintegration/index.md",
+      "owner": "Inno.Integration.WindowsX64.Build",
+      "sha256": "180d09f9f4a8f781f862a295d71213b7fb812569d4c6eb1524c644518ba852a5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/constructor-adff5366ae01bc3f.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "12991c7f4bea82cd7a32f5120ab697625973c5ad6ccfddd841a541fed774c7e5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/configureinitialization-9c270c722858139b.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "cb5869a7e0718414fa12561476cdeac3142c18aefbe59019fcbf3b3a41c95e1c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/createwindow-aa4b6489f96636a7.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "11b05dfdce686c6ccefb60db320554b1c25a451fc692b847879c4620ba85e53f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/getinitialfocus-80d89feac8d871db.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "12d5a94461affa5f1ce3af7eec35cd39654dc7c3b7c4c6a74545293f1d238eba",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/resolvenativesurface-cba9dfe1cf293803.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "1207e291cc0d8ee839577dfdf613b3bd70d50c25d6ad5ff18cfe9ad8a9b6d483",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/_members/capabilities-4df96511f3838f58.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "72ff7ad59d086576e0dde26e68a995c3f3b593773b46e907a781b2db5f568415",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/windowsx64sdl3hostintegration/index.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "c9c314b7f91e7e7f2e4b6727cd610fdcad60c7e987719c567a71d9ed566e21d0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/macosarm64/macosarm64applicationlocations/_members/getplayercontentdirectory-10ca6d4231e9f299.md",
+      "owner": "Inno.Platform.MacOSArm64",
+      "sha256": "e21093b968d0199d3f0f67604deb1b0c21cd5d38cd57c92305fbe2a1ec3ad66d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/macosarm64/macosarm64applicationlocations/_members/userdataroot-2dd32297325a7044.md",
+      "owner": "Inno.Platform.MacOSArm64",
+      "sha256": "d76cd6bc9587aacd77e0c9999dfaf1c4fc745015e193b234f7aca336acb6a376",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/macosarm64/macosarm64applicationlocations/index.md",
+      "owner": "Inno.Platform.MacOSArm64",
+      "sha256": "e01aa42c29d4cb3e294f98671743c0e4ddd7addb051e655141330b4db5bfefad",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/windowsx64/windowsx64applicationlocations/_members/getplayercontentdirectory-d45b69035e10f6ff.md",
+      "owner": "Inno.Platform.WindowsX64",
+      "sha256": "9f4c975caca0b6e5414a4ea205567106ad08a66a0df99eb4e81b6fdd4ad4ffa2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/windowsx64/windowsx64applicationlocations/_members/userdataroot-2f20e44bedc7334e.md",
+      "owner": "Inno.Platform.WindowsX64",
+      "sha256": "0ea082dd9e5da838c3f613a9d8ca86416bba7301577f428b7cb130e29329344c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/platform/windowsx64/windowsx64applicationlocations/index.md",
+      "owner": "Inno.Platform.WindowsX64",
+      "sha256": "585c13f71ce396ef0a5e140cffc957e4772d6f515607703b8407898b476eae89",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-storage-browserwasm32.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "459051a1bde820e72847e20036d89101d8fa2656a66c8c6534a42ffeda16224e",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-browserwasm32.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "5f97c009006da0c98e0817c6584c16fb12d2d603ad7dc7433af537060fb6fb4f",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-macosarm64.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "aaae2a8280c7457e3ee6239827b379fe3d9666ae9dc83af1ea98d43001c34bc7",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-windows-host.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "6254c41ba7654e61cc6f26d7f552d675b4ae977cd524f967cf5c426a412ead21",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-windowsx64.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "611bf0bd77fdbe02e06842e226a8111092eafd89fee470ae18ca8ddbbfa1edf8",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-macosarm64.md",
+      "owner": "Inno.Editor.MacOSArm64",
+      "sha256": "9081566b906c4bb4287f2cd39f6e8347b59f9c30ab257a1788f73852cbe9f5bf",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-windowsx64.md",
+      "owner": "Inno.Editor.WindowsX64",
+      "sha256": "e1397712f5928b3dbabf630078196a4ed072c41781e392be227274bba4f36006",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-browserwasm32-bgfx-runtime.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "70cf9957867a4e7af85c49960327a5ebb6cbd2549d6056b371ce1a191587587c",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-browserwasm32-bgfx.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx",
+      "sha256": "96edaac955df3ccf26d583878a4e0b8203963d39c5e9d5a7764293d3434c7627",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-browserwasm32-build.md",
+      "owner": "Inno.Integration.BrowserWasm32.Build",
+      "sha256": "556a7b96d6d2f8ddf62e3511257de634b9f5d59cd9e031bede2022fcf26aaf05",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-browserwasm32-sdl3.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "54af571956606a179b3cc2402340ad63f044e8d60bb80f19e65c6b9b6795b189",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-macosarm64-bgfx-runtime.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "acd2e44e4232b5b110825e756db0b2a30054cca333a55222722508f8a4428d57",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-macosarm64-bgfx.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx",
+      "sha256": "b5dcfbf3f658f71f4ae7624e484c2d09bbf69f31f7d3550ade092339ea564ace",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-macosarm64-build.md",
+      "owner": "Inno.Integration.MacOSArm64.Build",
+      "sha256": "dbde3655594480ea2cf742e21c8c87416f1ced8754e0d5756b64e098c79c6687",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-macosarm64-sdl3.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "861ceb78d38d8fd0cf40957fe40d947e43f4b0fc60d407397f80afc582c35e2d",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-windowsx64-bgfx-runtime.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "61f4c9143dd1c7fbf42bdb92ac49f2da8fed66941b431290ee508dc07d3db909",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-windowsx64-bgfx.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx",
+      "sha256": "53ac3ac3b0ad93431208e2bedfd8f5cdbed982111743a8669b3fab5b4c9f1034",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-windowsx64-build.md",
+      "owner": "Inno.Integration.WindowsX64.Build",
+      "sha256": "1743e4c7eb38f7bd110d2c5c97fb21737a2c728c02815be810c2f39903f2b57b",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-integration-windowsx64-sdl3.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "fca13952a67f1677923dd1ceabe5eb623c1a68ec81ac48d1b6dd6c7ae4493956",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-platform-macosarm64.md",
+      "owner": "Inno.Platform.MacOSArm64",
+      "sha256": "ef5aaf9cd68a5de845ed3ebdb7e4cabdb1f61accc8881b51b307e64ed2a957a3",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-platform-windowsx64.md",
+      "owner": "Inno.Platform.WindowsX64",
+      "sha256": "2f7a4a617cd8b5d57a487ebaa6eeb2c9a4878cedd3e9fc47865f2717c036cf83",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-player-browserwasm32.md",
+      "owner": "Inno.Player.BrowserWasm32",
+      "sha256": "3e9099eca310cbf554008f13936a966bfcb8b1303347720d3191872832d22f15",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-player-macosarm64.md",
+      "owner": "Inno.Player.MacOSArm64",
+      "sha256": "a586a40f6a224ff06688b99146200cdb810a1780889a2c0dce874f9bf1b3c786",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-player-windowsx64.md",
+      "owner": "Inno.Player.WindowsX64",
+      "sha256": "8e46ccff1bfbc4463fce48abf8bb38d96db80c83a9f828becfb555d6dfbd537a",
+      "kind": "PlatformProjectGuide"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/architecturevalidator/_members/execute-661d6e20db3aef6c.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "c03ef57c74f7b0c8256eeb5bdefae924d7eedf3ab37dc9cc7bee9dd552b3bfdc",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationexamples/_members/executeasync-bc6c1887dba1ae86.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "81c4afca49f86463ae000b9ed0252cdecf3168c6fdf8031c6bf98449700e6e08",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationreferences/_members/exportapi-924f9b4d877fcc80.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "d5c35effc6ecf20917f2950e14ad44b47b23fb5ca3f3cbda3529ad97e3f40ad6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationreferences/_members/exportprojects-a7c015f117664279.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "ba4d6d9a96f6febc4a1dfc56775bf542626e630605d037b1bda2fee216447e7a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationreferences/_members/planexportasync-5e2791d4e319fc25.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "a557353a8eff3895df3941c24ddd4d1dc13cac52998a0fa7dd034950cc5034ca",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationreferences/_members/validateapiasync-bd0a79665142aa26.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "2870153a9a74910b3bfaba380ce48ab6f3073624d9ea52ab0ba9fed0b99e88be",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/architecturevalidator/index.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "3af150e619b27cb67e277e5d3b7d8819147b56058d0aa90298a456d855952a30",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationexamples/index.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "293d94526f289a34d389dc3682b0c518635ffc77471f1673c39c055459b732b5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/documentationreferences/index.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "59b8bafdb0b9f1d343b56a47a3900d56cec06af0923604548112b6c9efdc923c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/constructor-e9ad3f3fff63b8f8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b5ac340fb2c4ce5f5d2bf3ed2225f80d806c9f65821ed4af08fe1305e00a9eb5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/deconstruct-d13c100306fac9dd.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b0c4c7da655e11362ca1413308aff6acd7a073bc1e36db068c8623c61255f7e6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/equals-833d46cc7029a7f8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8b891e947ed99ae09058d02490ee98b80aa9bf05c41e7460b07423e3ba18e373",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/equals-08d9c1e4b641abaf.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4103da91e7d65ca1a0f64d49c703d50b2eca0df6d2ed68e4352db838120253c9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/gethashcode-6d2896fec8f59335.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "07682d2f4264de5ab08aa21050dd44df46dbd8a35f3c16ffee9698b076443646",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/tostring-ee89a2806209cebf.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0e538d4a16f19d3e06683da9f40d66b3d5dbf3adba2f4457814640c9dff8ae8d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/op-equality-baf929e8cb39fe1c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3545ecc42543704d2f1fdd58c179487910a3c3f2b0f66f2d301f6390c621cf95",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/op-inequality-48fdab522d21e19b.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "13a0fcc9969a759dc6fedcb9062ce6209314d493ecc609fea8b05352cd5eb161",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/constructor-b07f1ce7eb23e130.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7e29646de7a0d4335e65bd4a7847f3f123ddcc51bd86d6dade799f14471b3120",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/deconstruct-586dee22e3db1388.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "89aaa4385b0a475ec40642ba57223e3e3a2ab476284533a2a57ff36c783943e9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/equals-dabd84db28887dc6.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "cb99450a629eb36d838a95dafa40becbe4281f4c76f30209211fb49041735b37",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/equals-f6dd3fb0832c4e89.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0a03fcedc36208d609847f55f4ac250c78ac6cb5963bddd75083e87a15316b14",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/gethashcode-3f479830b7e9e81a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "12d5fe7c3e7eeda5f84e6aaed1fe27bde47216346d3b10d64af537b894ce6f66",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/tostring-e06f2e37d70b7cdc.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "dd4f4ed23ddfdd59bd5e5fda69c6799b444257f1380ce74c002f4c1a86eb4051",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/op-equality-a391dc3ec3116195.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "77e5ee1b7fd5f3fb3623fd0325ea4a6510d97fe454f215a22e8fddc8711c725e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/op-inequality-b1c72180cbb5bd81.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d90af72106493476e15618c3825f6c3433e9bc9bdbebb77074b7d51f5e77e717",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcommand/_members/executeasync-6dd973245d95d703.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d41937bec2dfc85c85cfe88ae558d9b529106efaaba0cd0bb6341ea7bf4191f1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/constructor-1e7df5b0aa24b97a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "f9a5a49082e42f9ff433b96fb12d59cabafdf3b8954f62f8cb5c09afd01380ae",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/deconstruct-cdb999a3182bc017.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "535b4bc010691faca708c69d9b4d05e109b4a658aa74012c3d006f692c9508fd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/equals-030ff6b48b4e2231.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b4e211c0c87c8fc8a4de9e0e5930313eaaf1c841eb5a4957e0d03b868edb5653",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/equals-ef70d12df69b03ac.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8c0f402659f17bbe994a4b1701f2ac837554062a2a5ff4fb409acba6272366f8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/gethashcode-2de907ca67c98d1f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8b5376c6153d490ac76bc0975305f3789cab95d25384f91079e0701d1bc43d05",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/tostring-7f3fc178d2883aa6.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "df13773f9b66df588fd03a50791871e6dc1b9c54db412420f6d90a62d6dba5c5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/op-equality-8e6d1a67e8e8853c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "124c3b9edda4131047934aceaec7ff3f7c8dfadd64c9a70a287cd8c7e670834f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/op-inequality-9aa67b3744db09a0.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c3f981f2741a302e1fae4967f9173e61548c57ad2421772a2f0496518f5dc5fd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationevidence/_members/readasync-978a294291e83611.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "bdc385fdad215b3dc57d72bc111db03ce0105a1428e0b09791fd8579c3465df0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/constructor-8c2d235f5c297daa.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c2bed8aa94f93088104380e9f570196c671ff094c64f4fca8390b56b9ed85c2c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/deconstruct-e1fb1bb4b637818b.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1d903024123a2b5f86cb5ed072b731f702d806942a5bca2512ef95b819367e38",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/equals-c30ddf86aae5cda8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d5299f196313ab9b6f6cb6ed7225448f3ac8b96125f59321c6dff8bbfbb60057",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/equals-96acb014adcf4ec8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8a3e51f3c435819aa8a30ed8f4f8fcfc33c6cd8e04d4acd495b721a5f289037b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/gethashcode-0319078435df9ce3.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b33bf52eb024f75d76d45c2c9b04ef128ad5e8896f3e0fa9abc4ed10ac58c683",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/tostring-68c53661a70c045e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e3292284a9801e637cead3be94e3e05eda7339e3eb0037fbe64aae1886d29a9f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/op-equality-f8c0c22fab6b7c4c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e1faf11e7fd903b26a996cec9073747ddb3c7fe59c3dd0eb0bde355132e352cb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/op-inequality-39cd327ba0047286.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9855a8fb0385c6570d3e1444dfa278384647f2d4c86e755e98f8c969bb22a20a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/constructor-603f7bec4a4c1390.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "36fc7fe4e9e8655a1d14d86c4d751e0d12b2ffe17cd44412936a390e10f0980f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/deconstruct-99775873a293cf78.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e99833ad096d9889cd9858d57ce20bcd78b0c611e28b816868fc6185c93a77d7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/equals-d8b670adccdd1f2d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d720483274a4d39c7e66a5ade3a1e15cddb39c2aae1106d39da5d186f2730266",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/equals-adbe308455d4b456.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b28a186c8583717884d3711f67f1826bc19664e64311199a22340ad584c5b009",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/gethashcode-ddf5fedb7d0b2247.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "5cb488a4c09132315a7504016cbfa91e7cd0ff2af52b85f2abcf7e4fd7968455",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/tostring-b597e7ed427f2628.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d3465241d0352e25f673b7f10ea3049e508173d8dac1bab53897894fc687fdb6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/op-equality-ed3a0b4a16eebd66.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "04d9a20fa9cbf0ed28d31da3f71d3b129cdd8564878a2bd28b6b2690223cc082",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/op-inequality-0eb77c7b92a68cc2.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2fc3499b9220353cb4f8b809c4a7b2190776594961008229fa8aec4e3d0b69a2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/constructor-356b2c3e0cfcdea5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2863db1e06f5cb07817fc21d4177b2834a80e14765eb14cf1a3c5b2b1ebe2880",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/deconstruct-f1fb6a33d4421b6b.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9a8d36c7137af6e6fa72f85c501e08e8475c28232ac109f708cbf754e367f15e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/equals-1b8f11128869d5a0.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4de5decf6fe46367545657af250c610ce0547bfcd47751812ab159d5948c8259",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/equals-20dfe10ddd864eea.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "36ab50078ed07b69416910633ce6a3a5c46acf770d4805757f0543ffd0430856",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/gethashcode-eaababbe76d0811c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1b67ec7693a4f54121a3bc1f4aa2eb8d1d56a45dd9dadbe5aae303c57ae2e358",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/tostring-8872a20c99f1fa1f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "823cf49c79cceb15b829cfe0973f184476803b6761e2eddb9015e3ed6dd82caf",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/op-equality-9b60ad2ff2a37fee.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3da8d800f122b88d1031de50e16623a4c26151d59f214c92c215c02181db0516",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/op-inequality-922e884a332ff56f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d2f87d47cbb508b0a3d47ca56fae6ecf97548d1f5a5084fb94438f25acc94f77",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/constructor-84e889a1b08d4b7f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "bd1bc0e89242dec65b29151bb82fd21bb4889bd4fd5e152bb6bd891ab331ba4b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/deconstruct-7ebdaa9fd0f4c092.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9169b7442e8ac1b45ff29bdafdee84e8df5d9f847135afab7aee8907bccca931",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/equals-fd3b25cc91bd837f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "bf17b8f0cee52ffb6860d131ef646755f92422d235b206d07e38f7498fbef2f1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/equals-761b617c469481c1.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "df74e07943dae052edcb6aefd60d9b9b49f8cc3038400d672c9be5622a0a7e9f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/gethashcode-f42c5d1ec2913abe.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3093c0135725ed2fc7b7b3eac822e3704652c080b4855dcfd88b033f160a8b71",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/tostring-8ed8c092dca8d522.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d73d4aacea3a1948c34e4a7a51efa6cb4bc5eed98a000d0e5fab161d776a4d2c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/op-equality-969d49d4eb108996.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7079f56aa885bbee5af70f0e18186215d41028273e63da8cebe17b1c1f065e28",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/op-inequality-9da153fd1b068b9a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e51d5846c47298f41aac76581dbc2c66b6a848a49fd46e15cc016bbefe209082",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/constructor-d75da50db8192b8f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0d0632a281bfb0ff5cb0825ec034616cc8c3d79dd7b1a361fd065d3fda0f8048",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/deconstruct-c5f39eafdbe1f4c5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a9aa15394ca54807cb7108adaedbac20b14482ff537227c4215710f717271ac6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/equals-a0a6b61921b789da.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "60d76f9870e80c59db507e3749e910afbe57c0f209d5fc5bb4f406640a03d606",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/equals-cb20c5641f542534.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "52cab80b5ba7b6a481f46feeb71e8c620f36c52e666528f520afef78b40a15d3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/gethashcode-f3a824fbd9faad02.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d36b5056a71b0b030d8c3d3b0e5a87c6e7680973549a69ac0ece032f2c869781",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/tostring-bf0fea34fcac51bd.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "6b36c9fa07c89a6b102a3e3b8ccb6ca1f8e1e12db5b75e0b2a6e24fcb21adee1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/op-equality-63b47391fcc2b51c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c66b93bdcae30afc4638510d1eab3f2d072119c5f23233513d712cb35ac9390c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/op-inequality-a0b286ab804c232a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9bdc92770d4027342eb91c1461b580fc4f1a0207810e33be9a2749de7569a6a6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/constructor-d0c82552b5beb6ac.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3838f8d3190045bea6aa94224ef16f1529ae07e731978b53ccb0c51c839afb61",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/deconstruct-afb0cba1cb6c7a8c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "58e9a064344eee2e1f78b5ce172d8268de718bfc028db0e83f564fa4ac546b2c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/equals-2becbfd27f3f4f19.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "671b59674e8d6df1f5b0ce8519a63187c9fb5604eeb4f3c2ad845dd08c84f17a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/equals-b200d49e6a56e11f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d9378792c72a443436acea5da7e9d8fba40fd8092f43c83b2c6d9fe73ba169b1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/gethashcode-aaed5f550efea46a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "5466da02a6f11fa54fd46c503ad4be6a8b91e23af7b8718827a9c934a7f8a9e3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/tostring-5382fbaa4dc08b50.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "88414e3bc32fed201f4d0053e361b8835b38f7424262ee3eb4556f4677bb44e7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/op-equality-23f2502513fafb7d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b3b5dda6b4ad7a3550f6074a9e5bda5f901c1ce797682d6a8d99da09ce6310a3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/op-inequality-97311f39a796ec5d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "f4eb4848be8e87712df6a516e43bf7d473ce49194aa5b1362f1cd0111f6964db",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/dispose-4822fc2f1ad5f13e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "221aeafd6c86d4e500c2f78ec3de0d8336c0f347add6f051f28685fa1ecf5a46",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/exportcatalogasync-05d3e6b42fb53bf7.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a0cbda12d34f7cfd7864ad770fcd62079f389a46f4fcf027727af78e078f446b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/queryasync-4ee66f0673822399.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "5a418df0b6adbc9a70497cba2ec5f6d7bc1cba87afb17875baac1eb7da0d6ed7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/readreferenceasync-46db8218cf407ac6.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "dc92fa168b0ac77ea01476255a496d74eb005010d414a57d2955e20e0393c064",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationstore/_members/indexasync-99de74a9b02fbf80.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "573a529d74dfaa628116b774ac34f20e02202390900fc4293e4c7efb25d82561",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationstore/_members/openasync-0701111d37cb70af.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1dc6036d5a04bf18e308656759c25c2f31c469ab2bb0e6f0cb9f0917d3c4ef96",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/constructor-ee58c5b575850c82.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c2eda1a4a35efc94f4e2eda8e7aa55124fd7031a593ab0700ab5f3da688c1c61",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/deconstruct-9acfe94c5fcbb6ac.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "496985bae68362bfd413ce0a169b01acdaa7a3dd2fceb48e3f431f437001ec63",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/equals-43a537e19eb3f765.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e0ee8927b645d6c006283123ecaffe4946c204ac29b739f27b9eaf6cb98527f8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/equals-742c537a2525d311.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "54838df0a78dff69998621b30caf5f8abc07688e3f043b49e77ecb465c736870",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/gethashcode-60e44576a6b80dcc.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "68b7bc301d754b83eee4faadf0c22d2df68adcc5be65742234e7ef915883ac44",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/tostring-9a9ab475406e6a72.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "868cf9f7b7d5b6ca58fc43e3e48c8b86767cc600e15f4077a852bda2c4d916b7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/op-equality-9fd22dba31e47a3a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "5f5c8c3ba81fbc12e4532c95d52c0445842b7688f4e5c9163a841732621cb0a1",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/op-inequality-eaa8d8e0f70d66df.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7f5e17c79b9bf94dfdafba6e44769f640685ac8e710ddb16377b580fcb63aaaa",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/contentidentity-4a5ba572f1913252.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7bbcce1e999bafcf4d701eb7b604e8c10fb6b52e25bf9b3cfafaf554fc5fca3e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/pages-9f97f50010444685.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7599595cb2f3b562566891cfc3500da479e6a758575cf1b81956a00cc7779cf2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/projects-b5f310cce60c299e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "fdc16f5947bba84a20596f7c070c6df9f548605f5e52b7861cf16ceaebdd7cce",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/references-4bd3c44889f8464a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "34490b8d05f4e10890f01e7638c501e15a9470f0b94408fa15d437df33c62ba0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/repository-bacd0b5dee9fab01.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4920e3729ab1345f23482694b06245e302e18af9b560578021b5a8b3d962430f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/revision-1728239924ddf6e8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "fce1c0570eee0452dbfe1cdb96151b34ce33372e34674048de19982337d0798d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/snapshot-5e1220cfff1ff6f7.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0316f976372706d5527acbd409721087a3ed0c0194fb164452b42d263d107668",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/sourceapistatus-0bad4df24746ff74.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "588c3917595ebf4632278380b6f731509de61db5caa4b2d6257e3e2de141483d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/sourceevidenceidentity-95f8a07485649f5d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d29e9683744850d41a25e6cd14ce182d7f8c6679fda331a9013a0c25ebe755ac",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/sourcefiles-bc5532b3048eb5c1.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7062aa47d5338dc4f10a700703e2cdac3812c318b63553db0efe057add97559e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/sourcetree-b28549ed6f708a5a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "6ce992ec22f823d92da01f36024f234c0226d73bdd64030d013dec631f3e0b79",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/_members/toolingrevision-87abbc29622513db.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7d16c912ee2dc253cc7ce77d055f8ad04d3605b9cceb1a72b60ebd7628746ce3",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/contentidentity-110dc29772f48da3.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "045168d028a20d7e2901ddd01b80a035e744a10ea8ce89edfc1ce067044c030e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/declarationsymbols-a616279a11cca430.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "ca1d908d9be6cab90ef02cf41c2de54bf91c49f99587aab6427a53e9f5da260d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/language-62560aeec5f377fd.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "056e58d360fdceb4f8a77cb7802cea1c8f660a7cdab19da9985e17e01a2650d5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/line-384801a016a9a042.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4871f7c06830e437873b2a95bd894b7bdd67c743296b4b7e8abe1e572f2cc936",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/section-388f2140d77fc196.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "38421aac02da809c68810617a21423fa2b32d0cc649626f2beb0701c9c13c1c4",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/_members/text-57a6cb3c984643ef.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b3e4b8fe24b3ae56c2ece96ca4789288895c8a53fc6374b24def7bcb6ba8210d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/offset-94ffed53629e98db.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "6df0e0733ff23116ee92a5322b515ba6a95e6ca6029a147b570d0cb1559924dd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/pageid-a0094ebb4e990944.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2a5004d55d18b225b87b93bd3da196b10e75d3365d2cb2407543bb675da2a533",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/reason-955fdfbea2833a8b.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0b4598eae8a34d947fd171aef416f2091376286768b4e75d5016eef3073bcacd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/_members/section-64f0f415b5746db2.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2899bcf892b12947ccc9637b54a1715cef4dcd70fc378c0cbd6c1a3bdd3e8b52",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationevidence/_members/identity-538c735ec1f409bf.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "f1d02d951f5c0f260ce7017bac3d3cbdc2e464fbe748e1eb68e0238b6e5c2466",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/mode-7ed02bef71dbe35e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7eceb0778019fcb32b9c364ca4e8ce9cf74bcf1ec051a8ca6e5de7c311e04a63",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/_members/projects-97c4feb3342b7ae5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "381925c4e3c37ae5ef74533c6590d43d8c911524e39ac2858150ff80bf207f41",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/completeness-557b9a2d9a6468c8.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4b05d55dc82765657ce67a282d1fe089b8af3274c71fcf9f8140b5195d9bc8b2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/contentsource-b9112ad07ea390c3.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "53f51ae59ad2b2d4d35035f69a5ef014d3aa19b5e521c3e5a4dc262cc5c3c6fb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/contentsourcekind-995ed56efbc61aae.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a97ee4ec6354679bc1155c9136946db84cda52aa23eeae71afb46ccf59284803",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/declarationrevision-77c17f30617001e1.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9a23f994d9242a85d8853672d2e9d45bf36a692c52e71c5d2423a99b0cf3b155",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/line-79d942b3d784d8d3.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "14982c6d785a9a4494d201da9cc5bff908352c2d1bc8f210f5d39053779f8637",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/page-7244f17ac2b8a552.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "bd531a90122793b05a0209a05a6aed78fdfa96ef990d49475f984531a1bef5b9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/pageid-0e499248741119c3.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "de33384cfee1a988fe858309a7655b9588d115f43b6fdd233bf8c080725cfc1b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/projects-ecc9d33749d8b297.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9ad1008e7a501ae5643a2a67b9bb86a376bc95c386724ecb1a30fc2eea363325",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/reason-ef65bd4140b26c24.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "d49b051ecbb985fe64f490dafe399003f51851c29446fef0fa4e24ead6c3eca8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/resource-1109b3a250c20e00.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "cb0f6c4f45d15a49aae9539cf0e726dfe7e9e84a8d4e985c0a9be1e57cfe58d7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/scope-ae9b8562f99e458f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0a9dea852ff8b15a674c60fbc3da865b82472ae78d0d743b5b9d495ef6b3653a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/section-42bc34fd01396468.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e00bd6e502395a671d96f6216a9b1afd6b199007fe08f442a9eaca17de69deb6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/surface-4483d2569bbb7319.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "59ebccc751e0874eb4735fb7967f05c454fa824fa8949e78b1fffd234826a66d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/surfaces-43bc2fc34afc2bf5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "de79fee05188601a766a5cdb11841704b38fde89ca60562c0bf1972bdab5b2c2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/symbol-5cb4191ad4db388b.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "46fff89846f76a3168f161c2741699f48645cd3b94647c1002ab076d7f6e1a98",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/_members/text-80563ccaacda7940.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "18c8216d6588f61741fcbab6a6f829884a7b49e81007f16687791e6bc433d2c6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/codeblocks-268c15a2dc430840.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a73fbee52d3e8127754e4fb2e9c36cf9ca7e09381174b05c78c2c723177b901c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/contentidentity-30fbfd0a08c55374.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "9a023ce29203f1f267571f1c46f8ebd0367cc083309d361f13e8df6c0b1d6040",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/contracts-326e1c004386fb65.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1de222e32d6adca0fdf786acc5098b8f3ba7a3cbcb31823c19cef8f703be7eaa",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/examples-916bcf4d9f364fa6.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c645077733cf492cde882d3a4a14948e5668362697935f1dbbd96502c4485dec",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/id-798e4e0dfe8ded55.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "aa253a63a1e1a98904c74f46abe27bd30d8bac1b1acb687ae288430dfb2a3abe",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/includes-3e01811672040c56.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3730ed4832f290ff39731559c6990f48cc6a2ab2a80e0e70c5f806db9b8ceda0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/kind-3ee8c057456a740e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8938788b487baf55df5c839c77c122b88c8b7526b48db530ffd06eb885953e40",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/markdown-2d92013d5aa79b23.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b31c3a7b5e0194901c5fa0d52e7441b182ed57ac0d44b9e1564310811d3ea879",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/owners-b70e1e2c55203b38.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "30d5d8d9450d46665dac0bf3d80c939509b2b5108d5a24dc6bdd9d428925973c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/path-95c38c8881220553.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1a292e305a80edf9985cd7e331970dc52991f48ba05579059695e414414a2481",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/scope-e35e149b45ea7a87.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "e33c6615218d3c25a3043802a4a002aff86ad54bc8a167feed82cb762f677a95",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/sections-586176caf7b6053e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "77360f2b74bb8b38f11ddf9e4287d9a12af9fe80973fbb3ea0dc514a40a69a76",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/surface-909f23711ca757fc.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a93460799a9e8ba22a1f7356fbcbb7c978d0d91ad8a1814a4e95d6105437362f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/surfaces-51211b3f84ed4ad7.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2ab972a840cfd9e7e8f5a75f28a22b14ac1286bddc9873813d90b37b559d10fd",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/symbols-ef91dd294d084d30.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "4415577908cd902fc7840a435ead16265cf8fe270b62ecd30c8ca11fcb9c0823",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/_members/title-d5ca536bb87eda61.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3c0d5d33020e5e19b7b7c8fb376e9727b26899c8ff718950a37116fc7349dd43",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/configuration-99288048351aa9b5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "ece27cbb94c5899d06806241922f1f1ed2f1b2824ae44106bfcd3e38eecf303a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/identity-8a5b43c4a49568cb.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "fee2b45604e61fcab8746588a53bbdd9a7738e07e65a1f8e4dcdeaa687bea441",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/model-c18a18654c1ec73d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "cdafef76fa40c1751cf7995f3da623d437d91eae1f565cf660e6f7bebb883aa9",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/path-fd606448183185ce.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0df235a7c6108ffe5f49f7c87b860d0266274a4101ea1367a7106264f10c6c96",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/projects-9f42ba4e03b4ee5c.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8b41b069323371ede28bc1c54e5e0679e6784346bf7573c6cf33083cbdf0df7a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/sourcerevision-8b1dcc9e96bcc87f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "23aad71e3e195ebfae4bf1afd08b1ee566901c2e82059289c9993f4451f93378",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/sourcetree-8e5d1180eb68603a.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "db25067f2a35149e4405f9a91bef359a9a78b95fa1f84c2ebb3f3033d0b33a89",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/_members/target-6e7ea3abe17fd615.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "b2095ae4684d324804a25cb5f4f2ae0584f529dc8a1c8250855577fbaaf4df47",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/limit-d1211f1623e6c4bc.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a64954ca899125bd53e656ebb34e4b5a5b166787ab4b99e1e7e49785422dfc1c",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/offset-8eb5854027cfc3cc.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "f6da0abeab208ebfe6c1b478c9c89c11976d82a703a1efc470ed674f68b8e7d7",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/operation-5bac5998216c4d63.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "0c28c72d9fc56f4ecf4d9d9eadb6e0aa2b161c78414b23429c58d1810e211a44",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/project-910d94fcadc7995d.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "963c3b63076d36112cb45fa1b106966dff9bac670cc3e5b29660e16731239d8b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/scope-e1af8a2b0fa509e0.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "185420c809fc3cceb66027b1e16d1c37e7349d5e5a0e0e044304199c790d3f84",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/section-68c35c888b923107.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "369caff41b401b232183e9f2d3405370fb9be6a73d4f256e1cc56453543ba50d",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/surface-bac30cf8954b729f.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "723b3d8d7d33f63893f784dc58c2d72fc37b3aec1553a34f59dfc49483f5a1fb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/_members/value-56517a2baa1a1fba.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8d7e562f86dbb91dd0a7ea1e358ea5b0f57cdcf181a06fef964af44cc6605388",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/continuations-89e197984d802263.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "99798912d76017a611a95853e9b94a5a3b6cf0fc91e1a45a6e757e07f8e7184f",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/hits-5f0c91994f393bb6.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "464146dd92ab73ed471565dd6f5d6f3887a4b6d97311749228979138baa58cfb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/message-bb742b7668f9f64e.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "48797cb57fdc9aa32dd0510068b7df04ffe596eb7a8faf3af36c818bd66fa820",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/nextrequest-e19ea932f3d3d142.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a6a57b845cf9d5ca1c05f39651df5b761cf1a59f039b66d629e21643202892ae",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/snapshot-90cbdeafbbad85d4.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "227f05d00099cc380109c3cf519b3c15c13ad5b42673aea26c043176e50cf9c6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/sourceapistatus-28efbde5aa304d09.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "99cd50879dd439c6eeb6d18c76cfe3899d6d3849fba1b8d4477ee608dff61630",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/sourceevidenceidentity-975edde96528d691.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "8e52adf0790db3f28a47ecf17ab3011b233ade4c23185392d879a922d4f572c8",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/status-98db8cedfc1f91d5.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "98b699b59b7b2db29f819e7ef231acfbcc55285af30ade6de8753aaee03cd8aa",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/_members/timingsmilliseconds-59ca36830225b750.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "ac4cb8f7bdde5a564f690db00e1027439424258bc586a686b556269065b7aceb",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/identity-6000b3a8ed5c7150.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "671776ed953e808edd1a63bac9aabc4f95714268c8e21fda02664c1e0aa3116e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/_members/sourcetree-075cdb6dae1c56fd.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "bc84ce2c486e6aaad3407bb76ff450ad9e9a519e3cac46fc9442418c9bc5cb97",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/anchor-516def8dddc05954.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "2321bb57596a9539f8a235d14946034b86c61571e28730f9123393a5110e3ef5",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/code-2efa314abfcf6302.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c2ed57afd0d8fdd2b166f5960188e492db26a1f92af20478f9389c3358281c77",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/_members/signatureidentity-24f972da3c26ed23.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "fad6e44a5955fd7661d0dc88a3ce5cb8715eadf2b8ef4436c2bd8f5a4b465c4b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcatalogreport/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1cf0ee473d3248f98e45de062d0f6932fa8068484189814f1e8d91b6f6c2b604",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcodeblockinfo/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "387e4ed30224aef4afa485278c5b5c1fd6c677530998efc89ceffa644e95887a",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcommand/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "1c6724506e9ac4b7324d415638947522900a35e7d39c70abea114fd544f752d6",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationcontinuation/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "93583865a99ab39d50a6f882a5b68533e57db2a7831beca10a8c8e555efb41ba",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationevidence/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "a3ffc15054405b5b09d87d9bb2f8a786e7b6c83ec1f6ffd41a5531d8acefc1df",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationexamplecontext/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "ab1ae438b8a74a90f8407a4b62a88c1d3d764488b83f18a6945547e9469ede88",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationhit/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "6146640214af8f0675508ff1d901b58c813ef7ae80d185b2dec485344e07f3a0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationpageinfo/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "f08cc7ba72605f2406270d1801429de7fc3d37dc891a9d7fb7e132d0ac6843b0",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationreferenceinfo/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "ff68fd22094f9cf4d93ed1e3549f1bb1d52cbb0b2fdf427e8d652a005398a97b",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationrequest/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "19ceed4d9e8fe46cf5760d62a5c8e2fa796ca65eb03df7bc7e8a13ddd61e9474",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationresult/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "3ece6d4c43bbe789ad9057cd2cbecd5db2d623268b8be8e07011934f1d762959",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsnapshot/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "c6fed573cd2de0e08e1dfd346b9297d89f4d76f03acfccbce1fc83e5763ad479",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationstore/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "7864c4c02b955b378962b32999d974aafbfc49bdf9f85020b1f8dfb2c15b6613",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/documentationsymbolinfo/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "01957e7806f7c7ba61a1a8ed821da58d8649206bb76563b0452a519627a203c2",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/validation/validationcommand/_members/executeasync-40ba494587c42add.md",
+      "owner": "Inno.Tooling.Validation",
+      "sha256": "7c6b2634a3296e59fba15721b0aa95adcd409cdf0e07fce842442ef5a91d4f3e",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/tooling/validation/validationcommand/index.md",
+      "owner": "Inno.Tooling.Validation",
+      "sha256": "422eeba85c7ca6a2ba90eb4d072c05a73b33a5c7b62c5c71c205b6133d5ed5ff",
+      "kind": "XmlApiFragment"
+    },
+    {
+      "path": "content/en/api/engine/adapter/storage/browserwasm32/index.md",
+      "owner": "Inno.Adapter.Storage.BrowserWasm32",
+      "sha256": "c62a841a343298b603dd5a4b06eef0b268b95230a52101992d6013bdab5e3afc",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/build/browserwasm32/index.md",
+      "owner": "Inno.Build.BrowserWasm32",
+      "sha256": "6336a5700e85628b7bbae162446011764afe6f826cd981f82b91ad63eb404365",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/build/macosarm64/index.md",
+      "owner": "Inno.Build.MacOSArm64",
+      "sha256": "a9adf12cc767422442c6813e461e75c18bf814f4bd281f28bdb435db6dedfbb8",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/host/index.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "0c071842f451d308b4aa2513fc81928275add38bf27f825062c429246d4f484e",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/build/windows/index.md",
+      "owner": "Inno.Build.Windows.Host",
+      "sha256": "cd1603fff9bbec11b5caa1587e7d3e004c89bd96d716f679e6af9863cc1d3875",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/build/windowsx64/index.md",
+      "owner": "Inno.Build.WindowsX64",
+      "sha256": "b165f440b8a690a4db200fe8aa23f5113fd92fa2e7cc1777a41cb81f3e7aceb2",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/editor/macosarm64/index.md",
+      "owner": "Inno.Editor.MacOSArm64",
+      "sha256": "1a70bc22e003a7cb8dbff887871c3d3adaa42ccc3f63852e91521085593dcce0",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/editor/windowsx64/index.md",
+      "owner": "Inno.Editor.WindowsX64",
+      "sha256": "de5584b519ebb5b393d6fa971b9b68f8f57681a5891c3d82cb923dc65a9831c9",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "e6b59ec026717d3bfe3fa77df6b353f475037805753080f78fc90ca146d40e72",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/bgfx/runtime/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "038ac3acfbbe6df9aedc642d26d5b1bb823882623a0e232ac4edf505e120b757",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/build/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Build",
+      "sha256": "bf23d28e423cc806c5106545792077dff09d92fafb6a4ec9d04914c075ec29bc",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "23076b82b9f946a9978b100bfa7ce582a8457be2995de91b4e1dc6627bc6edcc",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/browserwasm32/sdl3/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Sdl3",
+      "sha256": "a4f2d8111959a9255a5c4bab56989bf57913a7b9b20e83ba188375d4add63e81",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/index.md",
+      "owner": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "sha256": "ba75a0076d0c121915e5c281a83fe9a97bcf6aec911330f611fe9359bd26f79c",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "40b8a2240823c49846dd849a2d84abbf6ef1867d5facc1dd07e51363abd05daa",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/bgfx/runtime/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "2cee45271da36597742d4cef75f9e4f3c7c4240804693f392ce62717d05f0406",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/build/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Build",
+      "sha256": "46f1e2ef058ea66a26be03b6c72afba3ab946d23af15205a8f8a1f2c2e465ad9",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "sha256": "656ffbdafe3fbf9040e37e1f0eb1b43133e89a597d022e0292ba36ce38b760df",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/macosarm64/sdl3/index.md",
+      "owner": "Inno.Integration.MacOSArm64.Sdl3",
+      "sha256": "ccf514650f00cfec750500362ad7336e69d550eef6535f3ff935554e691cfda1",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "31f775c5685c43a9d47d0b55736220851e248c7e57c5e974b9b5c1a6402ec57d",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/bgfx/runtime/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "a617af203ae3e5c0d39598f3320f2b7d9e3873e713f77850ac7be1216a49e236",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/build/index.md",
+      "owner": "Inno.Integration.WindowsX64.Build",
+      "sha256": "c2de4765347754fb6dc210d1b82a44c1f755e8e8b7ab3fcacbc47c1afe42cc7c",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/index.md",
+      "owner": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "sha256": "4566490d8e011e95eb8bdcf53b67a5790a6aca80f1521aa4b26c9cfec9b73df6",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/integration/windowsx64/sdl3/index.md",
+      "owner": "Inno.Integration.WindowsX64.Sdl3",
+      "sha256": "5466291759f1beaf5edcde94972686482419393092b598ab50dd15784b2e0b18",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/platform/macosarm64/index.md",
+      "owner": "Inno.Platform.MacOSArm64",
+      "sha256": "4f3a32544af03bc1d4c90f7f6d7a93198ff21950d41efeeb08037c9081066e1c",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/platform/windowsx64/index.md",
+      "owner": "Inno.Platform.WindowsX64",
+      "sha256": "3327e27115ae09bb1f0bfba8fc63bda390f12a9535e69ce9c156710e9c5c31ae",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/tooling/architecture/index.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "bca4d06de5973671e9f31b6954005092497b0d0b693a3affab26cbe245cc5bc0",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/tooling/documentation/index.md",
+      "owner": "Inno.Tooling.Documentation",
+      "sha256": "05d8cecb1d0f2629e1ee7da043da9e88f5748f1a01e2924b6bbf257748b311aa",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/tooling/index.md",
+      "owner": "Inno.Tooling.Architecture",
+      "sha256": "484b5d1617e377483f424edb725027743f3ed2351987a57b5ad74883da61203f",
+      "kind": "GeneratedApiNavigation"
+    },
+    {
+      "path": "content/en/api/engine/tooling/validation/index.md",
+      "owner": "Inno.Tooling.Validation",
+      "sha256": "d9a5ac6052cadf6d2ac24715ec527118746eaaf424517a3ed5a5106b7927aab5",
+      "kind": "GeneratedApiNavigation"
+    }
+  ],
+  "filteredCaptures": [
+    {
+      "path": "reference/api/Debug-browser-wasm-source-clr.json",
+      "originalSha256": "46cb91ebdc110fe426965d18682d16834d3ca6f0adb320485371fe5f014f34d2",
+      "sha256": "ffe32119c003307696f0335cbb813c15cba966e5c43bcf0726647a1368dc9120",
+      "removedOwners": 1
+    },
+    {
+      "path": "reference/api/Debug-macos-arm64-source-clr.json",
+      "originalSha256": "44f75358d5c16b6f4d1dc0fac19eb19a0bab9a34d40b564802912b4f7766f49d",
+      "sha256": "880f4f0bf861f8694c00ed072e840c5bcf6b67bf2a92a45175cc6ac4b36f6123",
+      "removedOwners": 21
+    },
+    {
+      "path": "reference/api/Debug-windows-x64-source-clr.json",
+      "originalSha256": "0796fc2cb5996ee8e256fd9064132cc3e20442c66ffe49a4984de09469bf7b0b",
+      "sha256": "b65af993ce25eb7f7e4e056e47d741450cd3014ca862c44f3627c31cee905735",
+      "removedOwners": 21
+    },
+    {
+      "path": "reference/api/Debug-macos-arm64-source-clr.json",
+      "originalSha256": "880f4f0bf861f8694c00ed072e840c5bcf6b67bf2a92a45175cc6ac4b36f6123",
+      "sha256": "5b9a7cdf9216680de1aa51de100c2f9e23bfa32189d05d4c2146e7bedaede760",
+      "removedOwners": 5
+    },
+    {
+      "path": "reference/api/Debug-windows-x64-source-clr.json",
+      "originalSha256": "b65af993ce25eb7f7e4e056e47d741450cd3014ca862c44f3627c31cee905735",
+      "sha256": "85d22a5333ef8995b91e51137c6a437b97725384201c0c462d76033913827cf9",
+      "removedOwners": 5
+    }
+  ],
+  "originalImport": {
+    "schema": "inno-api-import/1",
+    "revision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+    "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1",
+    "toolingRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+    "contentIdentity": "36a3643b175a7aba799d361caf020076c051efb64ae019f12bfd4c6cd46ede83"
+  },
+  "activeBinding": "reference/engine.lock.json",
+  "activePolicy": "Engine API accepts src/ and build/ C# owners only; platform implementation guides are excluded."
+}

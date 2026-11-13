@@ -1,0 +1,305 @@
+{
+  "project": "Inno.Editor.Interactions",
+  "outputDirectory": "content/en/api/types/editor-interactions",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "facts": "reference/api/editor.json",
+  "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+  "sharedContract": "api.projects.inno-editor-interactions#generation-and-lifetime-contracts",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-interactions/editoraction.md",
+      "sha256": "94c3833f53130f2f4bc5db0d5c928c9ee1ded6ecd371f22d2f1cd6d75ea9f4f4"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoraction-1.md",
+      "sha256": "0204ff1d4b10a83f3963b5132d0fcf8afb228338736f96b5ad174e54d5dea406"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoraction-2.md",
+      "sha256": "911232cd9f3779474a1ff733f4d92d2afc73ddbeb3628bc012646791d9f7dcc6"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractionargumentcontext-1.md",
+      "sha256": "dd87ae11c15e01ae94269c98a39dd037d0eb1e5b67da22813b87399d90cebfde"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractionattribute.md",
+      "sha256": "9088315f30f1021a00a432bab0d32c2afb08a4aae877a4c5d7b31a3998f82c07"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractioncontext.md",
+      "sha256": "5b72416f7cb1e06ef2b01bc1165e72b7bf4700d7c503b85bfa32110ef648d875"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractioncontext-1.md",
+      "sha256": "0d5a8ed66de233f66dee3f6f7d9169cfc3c35bd31e8835daeabdebee7e1c63b3"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractioncontext-2.md",
+      "sha256": "21804658c871891a318897c7854d3dce3c6ed750c81e8e06c9183729c6eab9ed"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoractionstate.md",
+      "sha256": "7747df52454ec06f899dffff1247412d6e40dfe7c94fadfeec727c069e841662"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorargumentaction-1.md",
+      "sha256": "eb29389ae2ef1e88144d50f37a21bebb8364788de13d7ec560cdf78cca6a35a6"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordocumentclosemode.md",
+      "sha256": "615a8581146c93aa295b7b2c6beb5e6fa54f38cd28f8cf5604f85082a5ec626b"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordocumentcontext.md",
+      "sha256": "eee71ae95906699c9ba1fc75f14b285edf3b8be3a87bf2ab0417b32957cfd631"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordocumentprovider.md",
+      "sha256": "13f8685d3a042d8c876dbcc44b17ef291bc053f4cea9e7c8dee25e97d219e4e4"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordragcontext.md",
+      "sha256": "6f3f9da814dcf1e76277e4343d67e778693dd0fb6cec20ae1d93fae8c266bfe5"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordragdata.md",
+      "sha256": "155523ac3eaa1753f466d70c1be2aa7557925ba3017e501dbb364ba565b7761c"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordrop.md",
+      "sha256": "9361a65a6db10f6873a61eaa263a16da4230138190a0f072442b1dc9654278fb"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordrop-2.md",
+      "sha256": "ef2ef3349c015af0a5ae7b850eb257bdab4cb58b0621dfc6aa24985bbe23e7e5"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropattribute.md",
+      "sha256": "45a8a07aa33babd768965fe602c637ddb0ebd870487d0ac7b22fc71969457f17"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropcontext.md",
+      "sha256": "758cc2f1ea7313b54ab0bde09d61f0630c46ebd6ff1a8dae23a1c01451b6681a"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropcontext-2.md",
+      "sha256": "0850d3f65bd7eaebe32f4bec542494ff47d074f08cd464bd070d2bc7015263c5"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropplacement.md",
+      "sha256": "69b4272d13539ef53382c1e1e5e99418a2586d10205b4d585c20c09608c3e12d"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropresult.md",
+      "sha256": "964b5f719d6197b5e3c7ef06483056c9830ff47c337e63ab498ed069fcd2244b"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropstatus.md",
+      "sha256": "9677f3cf4aaa2f12378999ab36d23f502124cf934034027d42907610f8793af8"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editordropvisual.md",
+      "sha256": "ec021478fb1c5c46ca3528776bdee3e2114604db7c0e627f996b3f923e777e3e"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoreditgesture.md",
+      "sha256": "7e57d6dcf544e631e1fe4a117a5a801d612c99d6093851e98c3f4563a9526ab5"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistoryavailability.md",
+      "sha256": "5e3d6a9e208207de36b407c9a597c60047dffd1290eeed2ce8265f5b53bfe5e4"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistorychange.md",
+      "sha256": "63ff7ad4ac28d8da6d763bf118e6121b207df050b7e95c8a6461fb44a657cef2"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistorycontext.md",
+      "sha256": "647d70539d929056c95e45c0e064a027f5500f6033571993c29e5697daf54950"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistorydirection.md",
+      "sha256": "4df46b6f6e044bf223d162a74000cb365511b6157e9098a5864c81d5e023fe79"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistoryhandler.md",
+      "sha256": "491563d127f7c3fac5aadf2bb42b0f2e723ddd729a2a73f2ca350d533a2d3906"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistoryhandlerattribute.md",
+      "sha256": "a18febb7a2836762ad2c6b3b17a62932f2744a54cd5f74996d86a5317fa5e3d9"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistoryoptions.md",
+      "sha256": "ad7457a0a9b26168d893d2c4703bc200c32d028ca383a09f368599c591416115"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistorypayload.md",
+      "sha256": "e2fa02f1932cd12838dea3115308c5fdb1206e080b5ba9c3d15eb34f1d25f895"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistoryresult.md",
+      "sha256": "5be58117ef1e94dee8bbb28abd31bec970c207f0bfd9d11da26790c9c6e8a57f"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorhistorytransaction.md",
+      "sha256": "635b42f28ef26c8cc6a9598fb833a685034432d7c5b6f4bb8432dc9c584ed774"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorinteraction.md",
+      "sha256": "faf6c281d0c2841a5b085414a2616953910016e4b5a9a263c10e963db85f872c"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorinteractionruntime.md",
+      "sha256": "41df0f9c8fc884409aea1d2de541b4a27ec1e102773dccfdbbf1103ffd0bd780"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorinteractions.md",
+      "sha256": "4c734eecf7b91fca085428c3a8117b259f4e63f5507af00efd61757690db9ce8"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenuattribute.md",
+      "sha256": "a1f3f0c0320fd1b1ec59ac6c73d90795d69de92f948d8bf12c716e42d4128216"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenubuilder.md",
+      "sha256": "47da5d31686e98dd6a7df46cec1a7acb6768776047caa83ec111d280debb16cd"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenucontext.md",
+      "sha256": "dab518fd7c71a01246374370f01cac86b935f4ac29d4a32282fc2cd8e31d6dcd"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenuitem.md",
+      "sha256": "e62ae690128857cf7824d1fa1cbb7a91a2215adeee291bcb6df9bb23637e986e"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenumodel.md",
+      "sha256": "ed8ef67cfa095b7adc315188293d78fda71ee77722bfd212d32e0f629361a6f9"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenusource.md",
+      "sha256": "559c6d2b03106ecba06fd9d95f8fe450baec5837b50f1f2ca1d6bf03b7756646"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormenusourceattribute.md",
+      "sha256": "6cd10313c0a93ee5c3eacd6915a535ff782419f5c91496d476f4a0667ca59908"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormodalextension.md",
+      "sha256": "a4a293c9774897ddc2965176986bd7fb3a5fb2fb686c2a224e5687a57cafba0b"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editormodalextension.presentation.md",
+      "sha256": "b20c3e75c10abb17da53c1db95cfcff956004760ddbf9a50049e08aa4797103e"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editoroperationpreparingevent.md",
+      "sha256": "0f4483090167d034b7eb50737ecfae3436b8654e27dfb0ec2be26f200ed1036a"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorpanelextension.md",
+      "sha256": "7815a9da29ea99455c3c8f9aec908aafb07ce5653786a88f320087aaa758a3f7"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorplanarnavigation.md",
+      "sha256": "3332b1c1ce10fedad2d561a6ad0b0ecb1dc9e93c4b5d6a7ec5a223ef6d9fdda0"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorpresentationaction-2.md",
+      "sha256": "6a11664d9ffd5086e9bc17708a4b01abfcb9a4b6dfa986911ee64ed1adca5fdc"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorselectionsnapshot.md",
+      "sha256": "fa07b71468ca0886e3eae8f625df33ca1ee73ef393c6538c2fbf7518e8a5e833"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorselectionstate.md",
+      "sha256": "398de00ab92f4264f33c3278106b9c60f7783948b6f2a4f8b29cb40ebd4addff"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorshortcutattribute.md",
+      "sha256": "1621c2e5b4a93a1381c055b39821a5b8ccdbad6246812b40b79560a72a44326c"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editortoolbaricon.md",
+      "sha256": "a10bcaec6fc4bbb47d39de988e4055a912fbd5078b4449c8708ac5df69326b1d"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editortoolbaritem.md",
+      "sha256": "d75e9a55690991bf89b311671af940ed5103658a7f69f4a08476461923d07c57"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editortoolbaritemattribute.md",
+      "sha256": "810b7991f7b3378ac2e30fcc2c8dd742d151d65e7cffa1a17f317fe2fc567748"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editortoolbarmodel.md",
+      "sha256": "9e85c0447110185c28573906a3b45b79d9f265bb702635f3d7c2479b3883cbe6"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorvalidationresult.md",
+      "sha256": "b0902092b0897cabf9d7352125cdded911f491f0bca359e2fdc9a745524445ad"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewportcursor.md",
+      "sha256": "7b276c0c2220f816a4f102d7148b6d7b194544a995321c83929796ccc72657a9"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewportpointerevent.md",
+      "sha256": "31ce15f187935a64d9e1f4e1c89e13fe3c0e9972e5d0a0e52a325b6922d34cd4"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewportpointerphase.md",
+      "sha256": "c80203d7674fdd4091bf1265f3fda6e4836ab52e4cf2883090c15aef8a09a5e3"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewportshortcut.md",
+      "sha256": "f9f4edf8e1943c6cdfd4d5a94c730f6ae4c3c34d94361f17bf0c0ebc8efa46f8"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewporttool.md",
+      "sha256": "f081fa6425b01b386c00c5a745d48bee190a4c30682b8db7629c5fcdfb41eeff"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewporttoolcontext.md",
+      "sha256": "d41f71206bcf2c0c72c74a3be35df6368fce261fe0fb0f4cf01b49435001a40e"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/editorviewporttoolsession.md",
+      "sha256": "c8bf63add955776f031e49c720b2ca5e5cf1bc6817f5ae3a85b0139d0b4a5357"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/hotkeygesture.md",
+      "sha256": "a3aec12305880406984c49206b983b738e92f98baccb0ad08ab072f34a3689e2"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/ieditordocumentservice.md",
+      "sha256": "607e5fe4b8408cadec773e6917ecb6e33c7a0251af4f403d44a6a9179dfac2bf"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/ieditorhistory.md",
+      "sha256": "59a34937637005789a3cc6cc7079a2240b4280540d4f24166d9a1fc355afb55b"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/ieditorhistoryisolation.md",
+      "sha256": "d82789ad4d25e11bb76478535c5e67439a943ad60ba1dab68cd8613431a506bc"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/ieditorselectioncoordinator.md",
+      "sha256": "10091b66592f6990f8a0ad329cdd3898166cb86d849ba8bbe0cedbcd6387c8cd"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/ieditorviewportcoordinateconverter.md",
+      "sha256": "59b9b1e4fabcdb83ad297ebe8ba97d2a23e0c3fcc35ceaf8696aadd95ea7831e"
+    },
+    {
+      "path": "content/en/api/types/editor-interactions/index.md",
+      "sha256": "bbc19dd2614439a7a9792165a0236a7e69236bae5aa93d7e2205df15cd26fbd2"
+    }
+  ]
+}

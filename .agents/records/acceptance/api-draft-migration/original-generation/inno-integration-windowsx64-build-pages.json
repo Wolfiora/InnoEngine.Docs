@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Integration.WindowsX64.Build",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-windowsx64-build",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-windowsx64-build",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-build/windowsx64buildintegration.md",
+      "sha256": "1984ae00ae3ddcd2acefd00a8f5061eec695b535ad966178f3270c9830329d0d"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-build/index.md",
+      "sha256": "091dacff4be0965f3395f2fb31f9354669bea665dd0955b3f6d7a1fedb3e913d"
+    }
+  ]
+}

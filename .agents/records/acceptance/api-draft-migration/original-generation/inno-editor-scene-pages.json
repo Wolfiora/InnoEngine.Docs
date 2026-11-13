@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Editor.Scene",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-scene",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-scene",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/editorsceneworkspacefactory.md",
+      "sha256": "c4e42ddd6f6e3b681e22a484df233a89c9fa56158b6f4bfc49b562514f7b13c7"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/editorsceneworkspacehost.md",
+      "sha256": "1646dbe7c4f10b628098daebee3de1b337dff6317840822e7958a18a4e8a9d1b"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/ieditorgamescenepresentation.md",
+      "sha256": "8db04978f2f213066799e7a5adeb9139777aa9f8b7fd229317497a99a326ef3a"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/ieditorsceneplaymode.md",
+      "sha256": "80e193567b5d920dbc1a218c961418eddbe8a6b722a66255a35f769c32686b8a"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/ieditorsceneworkspace.md",
+      "sha256": "9febe7feeb5e90cc732b41f2058ae912b362cadf7500a650cc9a0fd6239f308b"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/sceneedits.md",
+      "sha256": "a3e4ded0adc6b9b62fe8f0b88634e2fdfed5e7d6bc356519034df4ad9c941eaf"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/scenehierarchyedit.md",
+      "sha256": "0df1f2fcddbb1eff0084bfd36f9de4427ea7f199a62e7e20b2d5ffdb682b2c6a"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scene/index.md",
+      "sha256": "dbab92c968f229a8f6ecb500731421aeeae259bf63bcac1c93ba4043e74a48f0"
+    }
+  ]
+}

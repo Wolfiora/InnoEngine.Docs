@@ -1,0 +1,178 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "semanticCorrections": [
+    "Glyph offsets are logical-pixel placement offsets, not mouse scrolling.",
+    "The default backend uses UTF-8 cluster positions; source XML now states the unit.",
+    "TextRuntime attempts each face release and artifact disposal before backend disposal; there is no deferred cleanup retry.",
+    "Import validates container headers, not every font table.",
+    "Weight/slant requests do not synthesize or select another face in the current backend."
+  ],
+  "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "missing": [],
+      "symbols": 10,
+      "project": "Inno.Adapter.Text.FreeTypeHarfBuzz",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-adapter-text-freetypeharfbuzz.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "c3517919b6e5fcf0635a01cc89cb1e153c66f726c096d62cf7189dac01488342",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/backends/Text/Inno.Adapter.Text.FreeTypeHarfBuzz.md"
+    },
+    {
+      "missing": [],
+      "symbols": 4,
+      "project": "Inno.Build.Toolchains.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-build-toolchains-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "6ee1cb312c210f9d232188aa78519fa8aecebe6de42a4aca1fda26361cd7335a",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/backends/Text/Inno.Build.Toolchains.Text.md"
+    },
+    {
+      "missing": [],
+      "symbols": 0,
+      "project": "Inno.Native.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-native-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "fd8d093b934863cb95cd7a65d425e2f4cfab58672f608cc92db146e354f8983d",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/backends/Text/Inno.Native.Text.md"
+    },
+    {
+      "missing": [],
+      "symbols": 66,
+      "project": "Inno.Native.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-native-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "ccf5e4110808f9c9fdf434d10c0b9270d153a93088d27e4199bd2092b06cf20e",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/backends/Text/Inno.Native.Text/api.md"
+    },
+    {
+      "missing": [],
+      "symbols": 0,
+      "project": null,
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "952895f2a9c1880f91ee7fc78d09a665aeb3c825626d3e367759bb30d05ab5b1",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/backends/Text/README.md"
+    },
+    {
+      "missing": [],
+      "symbols": 22,
+      "project": "Inno.Adapter.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-adapter-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "8a289b63a9973f800d0e6218de374d6ef78df4a7dd2909da0db6ccb3134edaff",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/Inno.Adapter.Text.md"
+    },
+    {
+      "missing": [],
+      "symbols": 4,
+      "project": "Inno.Text.Assets",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-text-assets.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "62ce3c74310ba20fdfde608916fd5aea5d69a538c276f447d648f0cdbca11cb8",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/Inno.Text.Assets.md"
+    },
+    {
+      "missing": [],
+      "symbols": 11,
+      "project": "Inno.Text.Runtime",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-text-runtime.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "a732a671841b83b6dab2b6cb333ffbc2a93446ed78a6a0f4de4ef2082a248f05",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/Inno.Text.Runtime.md"
+    },
+    {
+      "missing": [],
+      "symbols": 0,
+      "project": "Inno.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "47a3a0c679a0921d3db209c7dae5719e1744d7f50a73ebcf01fdaff2765c9c7a",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/Inno.Text.md"
+    },
+    {
+      "missing": [],
+      "symbols": 122,
+      "project": "Inno.Text",
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md",
+        "content/en/api/projects/inno-text.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "50346d53ebc1de3a09e0bb054a38cd7cb011a42342a46dd5e42787beaac1b7f8",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/Inno.Text/api.md"
+    },
+    {
+      "missing": [],
+      "symbols": 0,
+      "project": null,
+      "destinations": [
+        "content/en/manual/text/shape-text.md",
+        "content/en/backends/text.md",
+        "content/en/extending/text-backends.md"
+      ],
+      "changedSignatures": [],
+      "sourceSha256": "f166a5bd8c31dfc971959f44ac26f7bf5f23521faf1d6f16b03204b67886a364",
+      "status": "NarrativeAndDeclarationReviewedLocalProjectionPassed",
+      "source": "docs/modules/text/README.md"
+    }
+  ],
+  "localProjection": "artifacts/text-final-rendered-projection.json"
+}

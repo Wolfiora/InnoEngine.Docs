@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Build.Managed.DotNet",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-build-managed-dotnet",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-build-managed-dotnet",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-managed-dotnet/coreclrdeploymentcompiler.md",
+      "sha256": "e6ee0869a9d274236ac095006a2d58cfe4fb11dd53e5b8ba81fc1aea987519a3"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-managed-dotnet/monowasmdeploymentcompiler.md",
+      "sha256": "c9d4f29f3b07e85335c7706e541ea2a825a6b2f2bb2295e5bb289291e86250b6"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-managed-dotnet/nativeaotdeploymentcompiler.md",
+      "sha256": "f3c10b0323bdc40f997462a871f6065954807398384992431ff6a581b0cf4f04"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-build-managed-dotnet/index.md",
+      "sha256": "2eb4581eabd029bae690378db8713ed35da6e1934dff5b26c6158f9a5f4b740a"
+    }
+  ]
+}

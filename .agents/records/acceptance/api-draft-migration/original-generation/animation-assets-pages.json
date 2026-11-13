@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Animation.Assets",
+  "outputDirectory": "content/en/api/types/animation-assets",
+  "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
+  "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
+  "facts": "reference/api/animation.json",
+  "factsIdentity": "15f1078459eaa60556d5a6b2a88ac6682472cc70826b6e1c5c09c7bad07aa4e7",
+  "sharedContract": "project.inno-animation-assets#import-and-export-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/animation-assets/animationclipimporter.md",
+      "sha256": "ad03a4ad8503a1422027c38cd8e2ad9c03a98ad1192c67679ce97baae1b705fb"
+    },
+    {
+      "path": "content/en/api/types/animation-assets/index.md",
+      "sha256": "1d454fc753824428c3528e7734fd1763708a5eea15a24e383b79cbc901ba24a9"
+    }
+  ]
+}

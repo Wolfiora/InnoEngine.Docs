@@ -1,0 +1,57 @@
+{
+  "project": "Inno.UI.Assets",
+  "outputDirectory": "content/en/api/types/ui-assets",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
+  "sharedContract": "project.inno-ui-assets#import-and-generation-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/ui-assets/iuidocumentfrontend.md",
+      "sha256": "ba770a55e32e70374795281a1e2cf3b64181eb7aa9a2cde81c8dffa43274eac0"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentanalysis.md",
+      "sha256": "3bbf7ffab9710b71f3979d32a46c244aa0947574def9085c3b75feaea49d6976"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentdiagnostic.md",
+      "sha256": "f8c9ee856a2140fcec7a1ae96051a1a7112a04086b5ffdfd5f39833a8c36abf1"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentfontdeclaration.md",
+      "sha256": "12136a88be6557fb6e25c3c4e2bf7d3973b9e26078145112a2f83ab582da910c"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentfrontendcatalog.md",
+      "sha256": "27ab413f0b783dc4f2be0ef4c4e5fdf16b5b58e6955c3a4dee5eed81abd0bfc0"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentfrontendregistry.md",
+      "sha256": "7f873237520c7efbf84505cca96604bede51d38dafbcaef58b3deeb7f18abe58"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentimporter.md",
+      "sha256": "1a06a38a86c9ed0beb969f59898102385aa5fd9ffd4446f5323b88fd0a793aa3"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentimportpipeline.md",
+      "sha256": "78658b1f7800ecf8d4519eea2a4543a1c267927d53898c3f403a5b47f70349fc"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentimportsettings.md",
+      "sha256": "999c60b9f57c342b30fd46543032c9583400d9e29ef701214eedf06b5c53affa"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/uidocumentsourcefile.md",
+      "sha256": "291d521ee295d814cb68d021837b46937f9e5bc6d23bc31a323d49371fd0a122"
+    },
+    {
+      "path": "content/en/api/types/ui-assets/index.md",
+      "sha256": "2dc37b36f5ef38bff725a42df96bdd86204d28ce0a1df4cf902200fed154c8d9"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.UI.RmlUi",
+  "outputDirectory": "content/en/api/types/rmlui",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
+  "sharedContract": "project.inno-adapter-ui-rmlui#native-session-and-transfer-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/rmlui/rmluibackend.md",
+      "sha256": "b6db84585ffe5e2ba61023b6e6645f7191cfb100bebd902c24ad1bfc85235b9f"
+    },
+    {
+      "path": "content/en/api/types/rmlui/rmluibackendprovider.md",
+      "sha256": "9fb8aafbe79a21c604204c703154365ab764f0969c253df631b7cb575d111ef5"
+    },
+    {
+      "path": "content/en/api/types/rmlui/rmluiidentifiers.md",
+      "sha256": "7b444289920958a9c3294332e6cff268834ddcdc64449e000315e15ac9150474"
+    },
+    {
+      "path": "content/en/api/types/rmlui/index.md",
+      "sha256": "17a052f07f7bb78c2a743d83aadf85445a21deb5840fb376e42e8972a904d73c"
+    }
+  ]
+}

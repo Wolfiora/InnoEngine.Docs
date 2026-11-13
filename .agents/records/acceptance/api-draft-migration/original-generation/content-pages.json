@@ -1,0 +1,57 @@
+{
+  "project": "Inno.Content",
+  "outputDirectory": "content/en/api/types/content",
+  "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
+  "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475",
+  "facts": "reference/api/assets-content.json",
+  "factsIdentity": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec",
+  "sharedContract": "project.inno-content",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/content/contententry.md",
+      "sha256": "b1783951614913c8dbf00283c3aa14cca5b22dde6d2ca8e906e58e9058a15917"
+    },
+    {
+      "path": "content/en/api/types/content/contentkey.md",
+      "sha256": "1f76bf31b7b852a4aca1ce7cb8f3141920288588ee7aa746792f1fb12c9bb1af"
+    },
+    {
+      "path": "content/en/api/types/content/contentpackdescriptor.md",
+      "sha256": "d2d59dead03f354002a2d1de25dcca856c28a25564d1504ee3b1c57f48d1a28d"
+    },
+    {
+      "path": "content/en/api/types/content/contentpackindex.md",
+      "sha256": "c56f93b41b068b9f5d7fa5bca21f47c98604747dd7789a0eeb2b2b3d63e5e335"
+    },
+    {
+      "path": "content/en/api/types/content/contentpackindexcodec.md",
+      "sha256": "e9aec1fd087b82f874935a444db69d5be7d98437ac0e1fd1bedada1ca040d0ab"
+    },
+    {
+      "path": "content/en/api/types/content/contentpackreader.md",
+      "sha256": "cb701c98c587d6a65a313c7cd8e71fc3e2175b2d229da6f6e3371ff64d38ccec"
+    },
+    {
+      "path": "content/en/api/types/content/contentreadlease.md",
+      "sha256": "6c74b2692d72d022900178a7faec3b693d04ed67aedf10899b547be631bdb378"
+    },
+    {
+      "path": "content/en/api/types/content/contentreadlimits.md",
+      "sha256": "db16fcf1aea59dddd56fd203e26a8c57845934bd3c5d0d3238bb60f4ef061258"
+    },
+    {
+      "path": "content/en/api/types/content/iruntimecontentstore.md",
+      "sha256": "1206b605024c64078c235d9b73b30eecf8fdc11a2fbc08e51c01dcf30c1ac3d0"
+    },
+    {
+      "path": "content/en/api/types/content/packcontentstore.md",
+      "sha256": "b291e8df7ae270cf4e7c2df601b38e880ab6852b20ba69fd3b6ec9b3e1b83bdf"
+    },
+    {
+      "path": "content/en/api/types/content/index.md",
+      "sha256": "555846ee8b966a3d70c78e5368649a8df708d4d4ffc110d9bf2acdd9edd58fd1"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "project": "Inno.Editor.Assets",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-assets",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-assets",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetcreationcontext.md",
+      "sha256": "58470219e5c81800501f310813617eb7c0bebbbb3c8c8b5e5ad4968499c0ce12"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetcreationmenuattribute.md",
+      "sha256": "514530f4f380406c8ca4388afc6071c0761ecafdde258bfe61c21ee58ec01ec4"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetcreationtemplate.md",
+      "sha256": "e4fe69a2877e5008012f94b2e15e760fe6f5bd7b92ce61b50ca8961dc072cecb"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetcreationtemplate-1.md",
+      "sha256": "e1249529e22623fcee5eed7d133f42acee6fd7a878a16dc3b6c26d47542ff824"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetdraftdocuments-1.md",
+      "sha256": "63f552bd2aa6865891b8f7db6009dcce13398afe18532d3db750466ddc8527ac"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetdraftdocuments-1.draft.md",
+      "sha256": "397b710e84632f56829b7b05b7007211334c380ea768ee34467c06369f850665"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/asseteditingmodule.md",
+      "sha256": "68520bc366aec53b764edcdf6dd90246c71bd96dbe6a2c13505bb1dfd2636608"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/asseteditor.md",
+      "sha256": "61a4f400908eb7ce09d6ac47f78bd35d591658eb27ce80aaf07e9ac6075317a7"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/asseteditorattribute.md",
+      "sha256": "4773728134063ac4a88d21a471d6853ce5f405744d78e5e6ba3dbcd5b7690233"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/asseteditorcontext.md",
+      "sha256": "928dc361877e877063388e092e909dbe124f0234e4ad6a61dab78ed1ade473bb"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetimportsettingsedits.md",
+      "sha256": "323da1f18587a5744865cda58a3717488c0b3b41f86242454b60fa331f8ddf77"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetoperationvalidation.md",
+      "sha256": "609205f0eb5d655c7a85f6eda287b769897346c261eb5b68e69b5772ef02256d"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetsampleimportmodule.md",
+      "sha256": "c3066f3b31947e78afb38608029c32e2dd5bae91ee72d15c703cf9078e556dd5"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/assetsampleimportprogress.md",
+      "sha256": "6534ef09fea8a01defc8ff9d6b8d56e04f630eb5074901cd249658e140a7316b"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-assets/index.md",
+      "sha256": "0d964ed0a2b854d511a0d438a6a3709bd9704873780a22d9529036fc820e1d7a"
+    }
+  ]
+}

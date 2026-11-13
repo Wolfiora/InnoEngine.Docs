@@ -1,0 +1,92 @@
+{
+  "project": "Inno.Core.Graphs",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-graphs",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-graphs#document-and-definition-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphdiagnostic.md",
+      "sha256": "85d715c4b79fc12f7a36c7b3deb6ba4ff205502b4d49d1f2a8fa8892d3de2140"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphdocument.md",
+      "sha256": "422de66edd82c0f49367d5f9c5fbd9ad2d8b70aa8afa7866a49bcbf9b19e6213"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphedgeid.md",
+      "sha256": "1f108bb9f57b65c5c8b67bcfa0dfdf21b2f22ff6ef6827c928abf8743070c7c5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphedgerecord.md",
+      "sha256": "7285bef91ec9855c7b21709b4bd3315ea07ee89aee6c4229a4fae721ebf7cad9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphendpoint.md",
+      "sha256": "2b07dec1a2396be210f284348e8bacbc82b6cbae336e6aaa73c5428a9b2a7a41"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphnodedefinition.md",
+      "sha256": "7303256b8f25ae63ec437336953ac3ad5884b8ef59a85b9f8754be0f0d88ed6b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphnodeid.md",
+      "sha256": "0e55ab6226ccadaaf1e2876a4cf475b93094d221e776dde0429db697f321de6d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphnoderecord.md",
+      "sha256": "9454e4a1a04afbc6afeb170a93b3db6aee9993a41d463d093c96f0e6ddca4fb5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphportcapacity.md",
+      "sha256": "578c0440a9882f8e17d030c12a33d71aa6083755109edf33089e50a4f400f253"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphportdefinition.md",
+      "sha256": "3a0d08d630d50205b3e65693269c30b391f7466d19183ccbca5e43ad233d5fd9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphportdirection.md",
+      "sha256": "7bb0e304352ea8ad2949bbc891a8afb68242884c6cd8cafee31a1e79394dd256"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphportid.md",
+      "sha256": "b526364cb11ac77b15a755a4b5aad128bc1fee33d3d02ded7081761cea24f604"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphposition.md",
+      "sha256": "268a6bea27cbee607ddaeb5a91c1be7defb81dca03efd0b79cfe886472378022"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphserializedvalue.md",
+      "sha256": "6b621a81479cf8cef4cc7dd99d85e81a0199e91adef205ceea76d8af0320bfe4"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphvalidationresult.md",
+      "sha256": "a5a7c6e31e6d875092cbb01189978cc42e5258679fd89bafd974baca27bf8572"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.graphvalidator.md",
+      "sha256": "623e4c9e22a648b7283db821b36c717188698042b96bdddade30a4e64b517507"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.igraphnodedefinitionresolver.md",
+      "sha256": "a403242fab09abac7004e65c9c93bfc23f74605ac8651db5f961855ad79d4424"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/innoengine.graphs.igraphtypeconversion.md",
+      "sha256": "5141c97ddd57174db44de1b625fd236ee520406e03a9f4889b6b55b5f3ec4405"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-graphs/index.md",
+      "sha256": "f78c8b906790f3e1d19b542acb8b6f359a34a47977a9822696c3cac0513edd49"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/Wolfiora/InnoEngine",
+  "revision": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "files": [
+    {
+      "source": "assets/branding/logo.svg",
+      "target": "public/branding/logo.svg",
+      "sha256": "62f84df21f90b626db5aef502cb064645c05d3bcd92a6d1fc152cf3ef0ba55ed"
+    },
+    {
+      "source": "assets/branding/LICENSE.txt",
+      "target": "public/branding/LICENSE.txt",
+      "sha256": "1269cdd13e757c7b2dcdf9fb6856b593c444e98e7ec4757c15e0e10d47895831"
+    }
+  ]
+}

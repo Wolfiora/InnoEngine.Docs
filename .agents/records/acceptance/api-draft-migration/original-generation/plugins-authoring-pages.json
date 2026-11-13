@@ -1,0 +1,46 @@
+{
+  "project": "Inno.Plugins.Authoring",
+  "outputDirectory": "content/en/api/types/plugins-authoring",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "facts": "reference/api/references-plugins.json",
+  "factsIdentity": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
+  "sharedContract": "project.inno-plugins-authoring#installation-and-generation-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/plugins-authoring/plugincandidate.md",
+      "sha256": "054c4ce8f2c810b2a58b57481a28a841ea6d29c3d77f22a503d74dca42656e50"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/plugindiagnostic.md",
+      "sha256": "248ce2368a26722f5ceed97380c4eb0d2a2639cbace0581495b7b35f65281f23"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/pluginenvironment.md",
+      "sha256": "78a079a268a1dc9ad5e2b6b6da561aca66761dc84c43bd5a8f501014e15bbb14"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/pluginscanresult.md",
+      "sha256": "3aeb2dc4582e560f2078f260eca00c8593ad06b09e00592a544fccd4018beb0c"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/pluginsourcekind.md",
+      "sha256": "1cfeba240f82bf4b66e9a983677e8797b99f2b96f269aae5a5aafd94a626161b"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/pluginsourcelimits.md",
+      "sha256": "7dbfe5558f86c1ef721ea13e26be566c919ccd88446e6d9072680d40771ae5b3"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/pluginsourceservice.md",
+      "sha256": "2a929ec41aed6802f3c801d6b6412099af06d793744fdc2a15a78c4f46b44498"
+    },
+    {
+      "path": "content/en/api/types/plugins-authoring/index.md",
+      "sha256": "1718892b9775a6e0a8d5b44e3a182245257f90132daad3d5dd0a2ad2ef5ee3f9"
+    }
+  ]
+}
