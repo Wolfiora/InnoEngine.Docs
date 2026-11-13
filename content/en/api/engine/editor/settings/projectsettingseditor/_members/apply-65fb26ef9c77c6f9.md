@@ -2,7 +2,7 @@
 uid: api.65fb26ef9c77c6f9ae20303413629de352ffab2600062ff089672ba5bed81acb
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.ProjectSettingsEditor.Apply(System.Collections.Generic.IReadOnlyDictionary{Inno.Core.Settings.ProjectSettingId,Inno.Core.Serialization.ISerializable},System.Collections.Generic.IReadOnlySet{Inno.Core.Settings.ProjectSettingId})"
 source: xml
-reviewed: 32f6f2338c6a01a95898f523043d5de178a13c397bf3292ad12d18882dee9bc8
+reviewed: 07019d462dc49fe50650bb734c0b1e49c1f3e01c66967bce91fd716e603c605c
 title: "Apply"
 kind: api
 owners: [Inno.Editor.Settings]

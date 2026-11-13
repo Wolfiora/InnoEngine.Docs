@@ -2,7 +2,7 @@
 uid: api.d463a097a4ad4c88cd9d4b03d16f39b1a64a019560aa5d8d2d38ad34b363c206
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDeviceCompletion.Equals(Inno.Audio.AudioDeviceCompletion)"
 source: xml
-reviewed: 3c01dbb92e0ebe1255296778d700e7fda6bd3160c27c308f593a6a6c8d3e0430
+reviewed: 4dc28cef834e4148653de77e25728a544f0d824e2a9912bec7c865be7e37fcdc
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

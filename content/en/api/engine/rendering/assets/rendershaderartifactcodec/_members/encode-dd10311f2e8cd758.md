@@ -2,7 +2,7 @@
 uid: api.dd10311f2e8cd75859a142bd3e8d635748c118a6426f76f6e62f627cec2c731b
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderArtifactCodec.Encode(Inno.Rendering.Assets.RenderShaderArtifact)"
 source: xml
-reviewed: 4a64146f1076df9e7cf38f031a3ec8359afcb80582bc26d9fab07e4657ee2a06
+reviewed: 3ccd49424452f01e6905ac2e8634fa4d6326b7cbc3e6489595d2f0deb5ccd9c5
 title: "Encode"
 kind: api
 owners: [Inno.Rendering.Assets]

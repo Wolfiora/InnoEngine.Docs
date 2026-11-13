@@ -2,7 +2,7 @@
 uid: api.05d95efe8b2c705480f2820301254298d5b373e6e099854ed79ab9c735e3f12c
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderSamplerState.Equals(System.Object)"
 source: xml
-reviewed: 7f02c52747fb0bc9404f836de268d01d74025f2ffff29834026befb4c4bb81c7
+reviewed: d401e5106dbf5986df056bb92a2e472843dcfbfba1fda903533eface2de496f7
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.72873331b290930ac2113c368e40aba6ddef775ce6c150d39cb5e5f370976669
 symbol: "engine:Inno.Editor.PlayMode:M:Inno.Editor.PlayMode.EditorPlayModeController.EnterPlayMode"
 source: xml
-reviewed: 235e0a201463412fcb4dac269630dd7224a6722e4cb54b7f1165b5e9190649dd
+reviewed: 702be4ac266579d666599fa22b56ebe5033c08cd22150b4365da6a9aea03afc9
 title: "EnterPlayMode"
 kind: api
 owners: [Inno.Editor.PlayMode]

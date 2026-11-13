@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.e6206739a08861ad
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorFrame"
 source: xml
-reviewed: 54169ab6e8782ef16ded4c8bf878ecda6677f107918f253ac91285d939f3051b
+reviewed: ff0a9bf2afa6e58908f976b18977855dbbaf9895e9bb43908c77747700038daa
 title: "EditorFrame"
 kind: api
 owners: [Inno.Editor.Core]

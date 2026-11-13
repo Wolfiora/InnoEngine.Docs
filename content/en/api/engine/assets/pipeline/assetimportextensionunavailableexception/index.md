@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.17d56805c35615d0
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportExtensionUnavailableException"
 source: xml
-reviewed: 6f8532e717b70e0fd73024c64d536e5382528f52cf1275ccca3f1f7002cd3df0
+reviewed: d324d7337af8d606037f5f0d5a38d76c517d802a55c64ba20fe9d3c68735fd4c
 title: "AssetImportExtensionUnavailableException"
 kind: api
 owners: [Inno.Assets.Pipeline]

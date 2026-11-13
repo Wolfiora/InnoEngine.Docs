@@ -2,7 +2,7 @@
 uid: api.27ddc36036dd04ef8a064f4f10b85859c4f31a3eba9050f0b7cfd38f39ae4639
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)"
 source: xml
-reviewed: c64b4ee2ad9e3d09bfe3c52bc85e1692d9051aa36e91599bad9b0977db07510c
+reviewed: 874156f2c24d1bbc54b1e75e04977d8bcb0db99be08f48ea43f6eec7581801da
 title: "ReadAsync"
 kind: api
 owners: [Inno.Core.IO]

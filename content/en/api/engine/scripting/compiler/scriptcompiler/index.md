@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.81e89c199c4d737e
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptCompiler"
 source: xml
-reviewed: 7a36467d3de46847640d73bf31e576ab39c245e4634ce8d07377c68a0d235cc1
+reviewed: 721e4dd4713e150745ab59d0fd7c6e49d0bcef4e1ad4c7b1b67ec99d8919c9cf
 title: "ScriptCompiler"
 kind: api
 owners: [Inno.Scripting.Compiler]

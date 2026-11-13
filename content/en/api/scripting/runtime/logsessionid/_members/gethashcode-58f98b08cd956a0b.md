@@ -2,7 +2,7 @@
 uid: api.58f98b08cd956a0be57c2ba0bae402794746f56b7443164e6023f0916bf3fba8
 symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.LogSessionId.GetHashCode"
 source: xml
-reviewed: 8c9f03ebb0d2f735f2d10382be830e7f1342123a3e56559960d97d4785e38946
+reviewed: 091ffd78d764673b64144587e41a47f8cafaafe61029592178dd99130beb294e
 title: "GetHashCode"
 kind: api
 owners: [Inno.Core.Logging]

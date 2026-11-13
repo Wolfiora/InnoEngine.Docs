@@ -2,7 +2,7 @@
 uid: api.21fd41f65fe50ccd48ccc31617157a5662874bf956d03021acf71489944fe6b1
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.EditorAssets.EncodeNative(InnoEngine.Assets.AssetObject)"
 source: xml
-reviewed: abcb1e05f6cab0503f543c1c8bda9cdfba830c4d9f1d30f6b7878466993743ff
+reviewed: 45a85a366e6b98d08f42afbcd1563fe1246d07308b890f80245c905b5fa1c588
 title: "EncodeNative"
 kind: api
 owners: [Inno.Assets.Pipeline]

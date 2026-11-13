@@ -2,7 +2,7 @@
 uid: api.d31cc3f8e8a3a938f29b42c96f4b02f22e66fb7193eb6ed5fa355cf7d469259c
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.TransformGizmoOperation.ScaleY"
 source: xml
-reviewed: 80662b1a5866fd9e3263196b0cfdb83031987bc77fecea5fb49da05404da32f8
+reviewed: 84f9d27798b991b37d90498e1c900479e44ddcb835c3d31b759221062f5768ad
 title: "ScaleY"
 kind: api
 owners: [Inno.Editor.ImGui]

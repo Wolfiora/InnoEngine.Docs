@@ -2,7 +2,7 @@
 uid: api.inno.runtime.contracts.dfaf525a51ce0913
 symbol: "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemRegistrationAttribute"
 source: xml
-reviewed: 6cf40ddc027960cffbaee4f1c363fe7dfc1d33896ecf2f710467468a0c7e2fa2
+reviewed: 3f84822fcdc7f6be87461c55dae46c504ace06f28afb0aa5147ee4abea9a0158
 title: "RuntimeSubsystemRegistrationAttribute"
 kind: api
 owners: [Inno.Runtime.Contracts]

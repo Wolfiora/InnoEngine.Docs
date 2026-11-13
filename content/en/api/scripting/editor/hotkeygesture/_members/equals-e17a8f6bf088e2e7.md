@@ -2,7 +2,7 @@
 uid: api.e17a8f6bf088e2e7ae2ef0e822150531e0422ee227b49dbc64f80f28fb36e33d
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.HotKeyGesture.Equals(System.Object)"
 source: xml
-reviewed: 7872871215c524254c92f5b6c0acf73b42f78d36466f83fc7827509e5904b97b
+reviewed: c2573728006a293e78aebb46b313fc67faa0c14040713e24c5d4d150ffe6ecd6
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Interactions]

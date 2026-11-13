@@ -2,7 +2,7 @@
 uid: api.inno.rendering.5ffb69ad67b8d2bc
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderVertexLayout"
 source: xml
-reviewed: 0ac95af26b51eee56d3376b05d2224261484a0119f0e541b8dc7dd9cb1b84925
+reviewed: fd094036612b806732b3db2fd4af93913487fbe1477a3221dfb075ca1e59594b
 title: "RenderVertexLayout"
 kind: api
 owners: [Inno.Rendering]

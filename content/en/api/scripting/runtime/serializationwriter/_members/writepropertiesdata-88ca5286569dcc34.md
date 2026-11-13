@@ -2,7 +2,7 @@
 uid: api.88ca5286569dcc34a50dd4066a0507c7122d55509a64d0bc370bbc2bd8ff7f39
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationWriter.WritePropertiesData(System.String,InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.SerializationContext)"
 source: xml
-reviewed: 1f6e3854726087f8657bf5476e3e6a1555fd27d08f4cfc6c1054c9c0b77c0300
+reviewed: caeef5df838076cfe0558bb7616b7d98e7e409d09b2ea0e5ff0a3b3fcf418143
 title: "WritePropertiesData"
 kind: api
 owners: [Inno.Core.Serialization]

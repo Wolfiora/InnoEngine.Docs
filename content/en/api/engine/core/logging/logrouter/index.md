@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.447b7e9618a45ea4
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.LogRouter"
 source: xml
-reviewed: 049ca7589f3eb6cdd7610b9745391190aea263d4ceae2666b9eb72a2f28c9e41
+reviewed: 2df008e9a41637b6e61c5c7f1f11dbb11bfc8dc61840b3027a03d96e8563b0b5
 title: "LogRouter"
 kind: api
 owners: [Inno.Core.Logging]

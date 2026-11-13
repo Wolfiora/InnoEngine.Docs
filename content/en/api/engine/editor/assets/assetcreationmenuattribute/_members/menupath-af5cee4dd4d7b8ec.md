@@ -2,7 +2,7 @@
 uid: api.af5cee4dd4d7b8eca283810f6601a5b80f0d6c0239418916a7c5872cc299fb0c
 symbol: "engine:Inno.Editor.Assets:P:Inno.Editor.Assets.AssetCreationMenuAttribute.menuPath"
 source: xml
-reviewed: 46d776e7c40a325f3df74dfea138d0dcd7c70bf6cb452c8aa4cbb819bf8a7402
+reviewed: 18bfc814bdd20969e096305e5fd026ceeacad81f8efcd6adeade96a881183384
 title: "menuPath"
 kind: api
 owners: [Inno.Editor.Assets]

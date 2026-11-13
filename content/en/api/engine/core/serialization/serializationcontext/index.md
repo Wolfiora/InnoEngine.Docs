@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.3827a2d220cf4954
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationContext"
 source: xml
-reviewed: fc7365d34adb9ceafbe287ee2bb809dceeba89edde5c15734547bf0bcbfb6504
+reviewed: fb378565290fd1e141bf0a05c55642d35a4e182735ce5e1257c3e3f37f31c588
 title: "SerializationContext"
 kind: api
 owners: [Inno.Core.Serialization]

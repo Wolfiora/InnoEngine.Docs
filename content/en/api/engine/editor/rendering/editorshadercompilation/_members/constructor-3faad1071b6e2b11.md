@@ -2,7 +2,7 @@
 uid: api.3faad1071b6e2b11b353f522c1231b297cf796ab91a52d3286d7fee3c727d34c
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorShaderCompilation.#ctor(Inno.Editor.Rendering.EditorRenderTargetArtifactProvider,Inno.Editor.Rendering.IEditorShaderArtifactValidator)"
 source: xml
-reviewed: 2094110f840112458d690c75d816f118ca68d1474823db15e9fac481b34044ed
+reviewed: 098a34eb406c0d8e752825f1620be96e54e07c2df5729a82229578104bac34e4
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

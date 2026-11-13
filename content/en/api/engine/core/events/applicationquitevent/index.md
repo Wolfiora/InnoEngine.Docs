@@ -2,7 +2,7 @@
 uid: api.inno.core.events.ae50f5a2115cbdbe
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.ApplicationQuitEvent"
 source: xml
-reviewed: f12b8dabc0a8d25265891456269ff4a55138e1c6240f3184fd2b6cd2a503c2fc
+reviewed: 309a9c5656beeb1d185725b0c2d2ccd0e178bb0af250cb55322756f27d5c85bf
 title: "ApplicationQuitEvent"
 kind: api
 owners: [Inno.Core.Events]

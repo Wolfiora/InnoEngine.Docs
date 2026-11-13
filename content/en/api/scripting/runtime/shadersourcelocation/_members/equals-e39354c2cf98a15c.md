@@ -2,7 +2,7 @@
 uid: api.e39354c2cf98a15c6449356abf7607b375c882efaa00e60501fbbbde2dd6e20c
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderSourceLocation.Equals(System.Object)"
 source: xml
-reviewed: 517b3326671108b386a06aad8517d0c527676a51d3e623c95108d3cbf595cd1c
+reviewed: ef0441d3a2ffda9e3ed66d2ccda48ca762dee1df1c8ff4fcfaa04cf2e0778e43
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Assets]

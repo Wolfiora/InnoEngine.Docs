@@ -2,7 +2,7 @@
 uid: api.inno.platform.5c7ce70fc414f6ba
 symbol: "engine:Inno.Platform:T:Inno.Platform.IPlatformApplication"
 source: xml
-reviewed: c16bb7bb81bf332bf61b66075835a48442b723879eaeaa1134b5de04e5274165
+reviewed: 03d20daf9f7b0f12118c371f54f0faee6dbb9c86a0c125a3e5673c24f56c4f58
 title: "IPlatformApplication"
 kind: api
 owners: [Inno.Platform]

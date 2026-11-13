@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.a0928ae1177c8b81
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.AllowMultipleComponentAttribute"
 source: xml
-reviewed: d9a7eeae7aa73fa5a61f57c61b24e5327a6cdba0333a3a77476b5c351ee687d6
+reviewed: 7471eb5a520f4987f231e9d63b52c7cd2a3691ee36e4d6f37c19da251ba66268
 title: "AllowMultipleComponentAttribute"
 kind: api
 owners: [Inno.Scene]

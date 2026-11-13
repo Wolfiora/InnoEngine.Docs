@@ -2,7 +2,7 @@
 uid: api.2594f40660376bcb315d57444756479adcd7b1a94ad84e020952af57a4ccd9d9
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderOutputLayer.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})"
 source: xml
-reviewed: e6b4f417e4069eb4ea59ccd155811474d731e9ee91fead63b3953f3bf6541fba
+reviewed: 51301184db6f3ab7fd777f8a9b4d84cb66493bb236b59153058cb513f85d76fd
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

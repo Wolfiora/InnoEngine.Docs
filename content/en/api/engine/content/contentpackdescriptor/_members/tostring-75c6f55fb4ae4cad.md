@@ -2,7 +2,7 @@
 uid: api.75c6f55fb4ae4cadc82ec37b4bc780b0751b3873c9846b5dfd5010415743106d
 symbol: "engine:Inno.Content:M:Inno.Content.ContentPackDescriptor.ToString"
 source: xml
-reviewed: 24244d76b5d1aa9d5dc61b3b0de900f8276ce1db201c74366d04ea67a8364b8a
+reviewed: ec223a60cf87ffa875aa66189bac7d203a6617b769d7fb96989c580a536ca483
 title: "ToString"
 kind: api
 owners: [Inno.Content]

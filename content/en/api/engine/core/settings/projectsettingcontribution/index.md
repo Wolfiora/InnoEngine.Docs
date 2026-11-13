@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.36e02a41adb13bbe
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingContribution\u00601"
 source: xml
-reviewed: 9fbf1c162c7ab5e42cb0b2348ec332c5e0a7370a555c0b801edc5030d01fdfed
+reviewed: 033517d9a5c7153e1fc933238d4fb563956c1fb1cdbeb7f4e22df82587adf66a
 title: "ProjectSettingContribution"
 kind: api
 owners: [Inno.Core.Settings]

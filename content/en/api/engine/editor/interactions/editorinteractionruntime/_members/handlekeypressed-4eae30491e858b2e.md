@@ -2,7 +2,7 @@
 uid: api.4eae30491e858b2e7c7938500a613e60bcd1eec75007dfa774beb715cfb1769e
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractionRuntime.HandleKeyPressed(Inno.Core.Events.KeyPressedEvent)"
 source: xml
-reviewed: 0c93963e0a645a6cc1fea92fbcbef2aec802b8ac733a6a200ca985a197d7a240
+reviewed: f23ca0e309f50035cb32396d9d92bb768fcca476bdaba0a41dc8b16a2acb030f
 title: "HandleKeyPressed"
 kind: api
 owners: [Inno.Editor.Interactions]

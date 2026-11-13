@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.d4b21d69fced31ad
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.IPropertyDrawer"
 source: xml
-reviewed: 9c091975c948f4db598326a9ddb90b71ad9819758cf9a4e9f00801aa45ab9ca4
+reviewed: 9a28e19c71b0831cca6ae7bef55e09cbe8a51c123465f7a9c363fc9fe735da6e
 title: "IPropertyDrawer"
 kind: api
 owners: [Inno.Editor.Inspection]

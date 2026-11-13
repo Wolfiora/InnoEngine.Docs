@@ -2,7 +2,7 @@
 uid: api.cb2aff4594d5e2c8fbf1b53aca25680fca501e4b2173586f901d295f30c968da
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.Button(System.String,System.Numerics.Vector2)"
 source: xml
-reviewed: 5080b0da93a2e74669f515f73ca214fc66954d84757db261af2729d59c61b137
+reviewed: d70ff25c34cbe1995d807e28cd7dab9afafe41882d2d7afa769432e0b8b6858d
 title: "Button"
 kind: api
 owners: [Inno.Editor.ImGui]

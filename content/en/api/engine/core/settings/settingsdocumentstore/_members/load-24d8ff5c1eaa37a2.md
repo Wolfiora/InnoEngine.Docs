@@ -2,7 +2,7 @@
 uid: api.24d8ff5c1eaa37a24b123fe487a393be5eb21fddfbd05bd7fe8a01f05133b39a
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.SettingsDocumentStore\u00601.Load"
 source: xml
-reviewed: 6a0c3c5e27f8e657ed5709ea8c1f912a4ef4a3f93b73ebef08812f5bcd70b5b9
+reviewed: 96fe6aca8dd59961d1f5cb41f486fae0cb3623771ddca67a7ff9621b407b2899
 title: "Load"
 kind: api
 owners: [Inno.Core.Settings]

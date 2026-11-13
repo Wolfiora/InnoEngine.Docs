@@ -2,7 +2,7 @@
 uid: api.f0f2938b6308cdda1a04ae7eed079441f58ecfea422ff38f5e3e6fb7ec744d8d
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClickableText(System.String,System.String,System.String)"
 source: xml
-reviewed: bc8d53bbb507993c8edc4d5c50c48c9fd31b41d0161dbac931c7317f8f92d556
+reviewed: 22aac95349726581d574905c7a8d7261efd8cbb00dc194ec3361de1ae7eb3a15
 title: "ClickableText"
 kind: api
 owners: [Inno.Editor.ImGui]

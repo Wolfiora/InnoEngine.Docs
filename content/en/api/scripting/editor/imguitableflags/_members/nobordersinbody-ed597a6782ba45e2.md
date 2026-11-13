@@ -2,7 +2,7 @@
 uid: api.ed597a6782ba45e2732d0c78e3ec03bfc1739e538c89c3c01050a33a54bd91b3
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.NoBordersInBody"
 source: xml
-reviewed: aecc238ce0c44b5d2f6d3ecd7ad549b8585297dad9f391c7431f62d25dd806cd
+reviewed: ef75af5e4866f8ab3c827229c5a1777c0d7cb2f3bf77b1228521ebc8df579e24
 title: "NoBordersInBody"
 kind: api
 owners: [Inno.Editor.ImGui]

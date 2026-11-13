@@ -2,7 +2,7 @@
 uid: api.034c3bc5239a87e642b7d59d59709b1104b80698fadf1fdf55a2871854acee47
 symbol: "scripting:Inno.Assets:P:InnoEngine.Assets.AssetObject.contentVersion"
 source: xml
-reviewed: 71853ccff30e2f1423c8e85419e3ef142fe68b278ccfca6a69c551c77216a68d
+reviewed: e2ab737549d657bdeb510a46ddf90b2c5dbe5782e48961a35a5abd973f755621
 title: "contentVersion"
 kind: api
 owners: [Inno.Assets]

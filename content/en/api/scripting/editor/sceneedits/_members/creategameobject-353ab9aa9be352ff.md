@@ -2,7 +2,7 @@
 uid: api.353ab9aa9be352fff1251af56949c4a570533f47b83356d0a105e879d8cdf4d2
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.CreateGameObject(InnoEngine.Scene.GameScene,InnoEngine.Scene.Transform,System.String)"
 source: xml
-reviewed: 1ba6c53bf984d1c4157d6c01b9bf5897dc7945b6f5e86d634147b2084f53b093
+reviewed: acd4d5eabb56072c65bb2415f973de80e2eb630e001d7dd2fa050b793c3f752d
 title: "CreateGameObject"
 kind: api
 owners: [Inno.Editor.Scene]

@@ -2,7 +2,7 @@
 uid: api.2f1d51e55f6313bbbc2e9c22b0233b6b39a61c0073a7263c8eb66c9a308cf162
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.#ctor(InnoEngine.Mathematics.Vector3,System.Single)"
 source: xml
-reviewed: a6f5c1f483cb1376c1fa690044057ef02e6ee689c716df6e98237717da3491e1
+reviewed: 03b114d71a43a01465b21d134bcf0878978f6f78430c5e2e85838dba757ba2d7
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

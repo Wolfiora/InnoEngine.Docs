@@ -2,7 +2,7 @@
 uid: api.1ee90b02474d152cd7a0a17382485b3404989026dc62804f4987a4b365cd283e
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateOrthographic(System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 4cc52572d45cb5caa988ff77a194c35f9da63088e4179b0fb2a5ede9ec90b468
+reviewed: 7801e69514c6ec4be3043adef41f7dc7e8c3cf775c1b107f8ab1c12f4849fd7d
 title: "CreateOrthographic"
 kind: api
 owners: [Inno.Core.Mathematics]

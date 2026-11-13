@@ -2,7 +2,7 @@
 uid: api.inno.editor.scripting.1f76146da52f7886
 symbol: "engine:Inno.Editor.Scripting:T:Inno.Editor.Scripting.EditorScriptCompilationProgress"
 source: xml
-reviewed: ffb4b30b3ede09d6da664a49c4d3990f16f53bd4483edefcc0deee575ec037d7
+reviewed: 009ca305391171e674aa1183f3449d5eae7907eb7b58b11b4cf14cd1c0bc9125
 title: "EditorScriptCompilationProgress"
 kind: api
 owners: [Inno.Editor.Scripting]

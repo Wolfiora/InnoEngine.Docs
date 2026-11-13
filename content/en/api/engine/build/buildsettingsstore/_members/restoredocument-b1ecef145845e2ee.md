@@ -2,7 +2,7 @@
 uid: api.b1ecef145845e2ee148dbadca13db1731e415ae410fd9cb0a4a4b75838baae8f
 symbol: "engine:Inno.Build:M:Inno.Build.BuildSettingsStore.RestoreDocument(System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 170ec653c9a1b761e9fa8d19c4f554101753becd672bc6c914526eaefff477d2
+reviewed: a55e93f4bc1fe5038ca1bb5b3fee82bc1888f4acfe5d32c17dbd3706862f7693
 title: "RestoreDocument"
 kind: api
 owners: [Inno.Build]

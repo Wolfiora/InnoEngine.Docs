@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.e4b5ceb7a8cb047c
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IRenderTargetArtifactProvider"
 source: xml
-reviewed: 18732ef1c168d9ae48320b3c40ac085dda1a88193af09d2921bcef88d3d8368a
+reviewed: f1e52aea6f861fb602cc639924a50fedc7af742e8fb7df19952f364081a1ae7f
 title: "IRenderTargetArtifactProvider"
 kind: api
 owners: [Inno.Rendering.Runtime]

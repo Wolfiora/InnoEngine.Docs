@@ -2,7 +2,7 @@
 uid: api.b2cc7fe94e2afab1de7c9d8c018a6b40b0bf4fc2c5fd6ee043ee42fdb18438c2
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments\u00601.Replace(System.Guid,\u00600,System.String)"
 source: xml
-reviewed: b8631a347b699096ab8df2be437803ba4d6508f1290a54e8ba4026debe0a12e6
+reviewed: 89fb01a1240207975bb830b143e65b3a32451f2c5ae200ad801040c68c12d422
 title: "Replace"
 kind: api
 owners: [Inno.Editor.Assets]

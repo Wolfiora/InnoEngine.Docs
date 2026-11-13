@@ -2,7 +2,7 @@
 uid: api.2362ea2678a6af4516e466422d8f6a697fbe50a00a3f4e06f44177486c8eb28d
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.ITypeCatalogSource.CreateInstance(System.Type)"
 source: xml
-reviewed: efca50dd933d7109cb9d4920f08833b15aaba3c3d1ee6806a9143abf678e8b2c
+reviewed: d00b24d260eb606f89bdcaa29361cea10aae1020d1b20b634f56949d682b16d9
 title: "CreateInstance"
 kind: api
 owners: [Inno.Extensibility.Types]

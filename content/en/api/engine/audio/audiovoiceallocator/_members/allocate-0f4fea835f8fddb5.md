@@ -2,7 +2,7 @@
 uid: api.0f4fea835f8fddb5d5f56ce253532c98968c53f8261f1d671d105b1986adb966
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioVoiceAllocator.Allocate"
 source: xml
-reviewed: 8f15ed7ca439291526016c552ee0b9f237c7b99dea4128d04820e64c5a39eed3
+reviewed: 4964fa7e9d2ef01b30912b2b7be0a138001005f177feaa1d5b3802c3f37d9c09
 title: "Allocate"
 kind: api
 owners: [Inno.Audio]

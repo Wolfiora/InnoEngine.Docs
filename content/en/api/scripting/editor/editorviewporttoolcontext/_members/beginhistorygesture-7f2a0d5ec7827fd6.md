@@ -2,7 +2,7 @@
 uid: api.7f2a0d5ec7827fd691b081c42802ae77589347ba8ce61801c6af2b56ff3195ef
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportToolContext.BeginHistoryGesture(System.String)"
 source: xml
-reviewed: 40fc4dfcbbf27360874a89d62dd3760cc44e01eb7b92ae327ac6b7c0784e4c7b
+reviewed: 9704ca0e2c171397faa6f8c70bba308ff832fe883b2233fbcfa6e867dde27a21
 title: "BeginHistoryGesture"
 kind: api
 owners: [Inno.Editor.Interactions]

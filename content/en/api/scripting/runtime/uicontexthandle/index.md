@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.a2036b2a539fcbd1
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiContextHandle"
 source: xml
-reviewed: e6b8d688c288528bf433b233c2b249b96d58780d7ae9a4325b7d2e61cdc66c83
+reviewed: c7e63d955e7ba47dc3ab9e0f786b6a6447be753dfc11335d9531e4d544bc8065
 title: "UiContextHandle"
 kind: api
 owners: [Inno.UI]

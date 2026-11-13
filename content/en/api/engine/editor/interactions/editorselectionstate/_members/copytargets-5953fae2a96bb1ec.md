@@ -2,7 +2,7 @@
 uid: api.5953fae2a96bb1ecb1ff8b49134d195f6b1c89a9945af2c01728703846503e63
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorSelectionState.CopyTargets\u0060\u00601(System.Collections.Generic.ICollection{\u0060\u00600})"
 source: xml
-reviewed: 1a241e1042d40ca0dd8ee3b5682d8c20f46164aeafe69f12b295e8e48a0fcee6
+reviewed: e38242063d3245da1aab805abcf475eda755d00c14a792dd91187ae96ebb6357
 title: "CopyTargets"
 kind: api
 owners: [Inno.Editor.Interactions]

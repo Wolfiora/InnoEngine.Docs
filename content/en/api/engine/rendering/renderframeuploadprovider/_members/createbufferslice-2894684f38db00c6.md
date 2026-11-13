@@ -2,7 +2,7 @@
 uid: api.2894684f38db00c6fd4f0c4b16ae952a0978506fe8bb90727a5d15af13eca904
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderFrameUploadProvider.CreateBufferSlice(Inno.Rendering.PersistentBufferHandle,System.Int32,System.Int32,Inno.Rendering.RenderBufferUsage,System.UInt64)"
 source: xml
-reviewed: c00c41e5d68a7232ea8608e45b2d2d7b73c4657592235e63e22a6e05e92f88d5
+reviewed: f5c3e04633dd84e03001b6992ee99c83eebcab59aaba37d84b61c43984754252
 title: "CreateBufferSlice"
 kind: api
 owners: [Inno.Rendering]

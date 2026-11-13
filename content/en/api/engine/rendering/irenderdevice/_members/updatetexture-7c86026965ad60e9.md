@@ -2,7 +2,7 @@
 uid: api.7c86026965ad60e9011e4bf76d0850ee8cdf16de8e0727375522f008799246e7
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.UpdateTexture(Inno.Rendering.PersistentTextureHandle,System.ReadOnlySpan{System.Byte},System.Int32,System.Int32)"
 source: xml
-reviewed: dc9f9e577efb85414c7267f22f178b751acfc823ee46f2812120fed5872778ac
+reviewed: 3d09575372a80a3cfef8bfb364c61c9bf560f0c76fe9fd8d43fdad28c21164a9
 title: "UpdateTexture"
 kind: api
 owners: [Inno.Rendering]

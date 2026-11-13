@@ -2,7 +2,7 @@
 uid: api.6c9fac68305fbee2ab29fbe3299d5968aceb16d4adf931d44f161067f123b415
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetClipBounds"
 source: xml
-reviewed: 1c4656eb732ee57ca5615760466850b5c9ce16a154202a3400b2fb75edb80bfa
+reviewed: 2d480251ccfcccb800f1ae41d5f727975a283f2be6255013162ad6429bea89fe
 title: "GetClipBounds"
 kind: api
 owners: [Inno.Editor.ImGui]

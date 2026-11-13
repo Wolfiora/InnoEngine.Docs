@@ -2,7 +2,7 @@
 uid: api.1fa0e3246ab5a2850a1337ad6cc70d9c9fbc09b36cd4a000bdff01b7ee99c18a
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateScale(System.Single)"
 source: xml
-reviewed: eda44e3c4e177445ad8ac198e127736521e7a77b1946cd0f0ed4c76e5bcee619
+reviewed: 4d111b98c8269c0cc05cc9d5c9f2c8e3c2308824c5a320cd31376a7df6c7be00
 title: "CreateScale"
 kind: api
 owners: [Inno.Core.Mathematics]

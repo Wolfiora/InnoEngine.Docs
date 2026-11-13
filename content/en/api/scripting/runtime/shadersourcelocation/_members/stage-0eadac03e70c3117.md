@@ -2,7 +2,7 @@
 uid: api.0eadac03e70c311790fc39ec25ca20c0739a852e271d6e8e320254b4d6991b7d
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderSourceLocation.stage"
 source: xml
-reviewed: c3acee989e1cf37fb882ff885374eb3c35910547310db19e341512eb041fb6dc
+reviewed: 4bd499e4dac627779280004868fe78ecea4392d596faa343574906fbe9e95796
 title: "stage"
 kind: api
 owners: [Inno.Rendering.Assets]

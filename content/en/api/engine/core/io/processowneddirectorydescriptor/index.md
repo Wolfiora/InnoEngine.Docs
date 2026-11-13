@@ -2,7 +2,7 @@
 uid: api.inno.core.io.f6f890bacaa026b7
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.ProcessOwnedDirectoryDescriptor"
 source: xml
-reviewed: 454f5c9b753826a5aa5af0e89c47fea5a40e08222b86ad9b2ccd67b95c58ad1a
+reviewed: c51bb9aaab7e559c03cb83bff7da7316fe2a9e82865e2f693e5a71c5de52492d
 title: "ProcessOwnedDirectoryDescriptor"
 kind: api
 owners: [Inno.Core.IO]

@@ -2,7 +2,7 @@
 uid: api.8307f81b836981ff2c3d4e0bd536d89b5b127961d9105a55e501267ce58904cd
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportExtensionUnavailableException.#ctor(System.String,System.String)"
 source: xml
-reviewed: 9b45c4558be26bcc893987e3eefa8951a43661c43497806c34929677ef177059
+reviewed: b5565f7cd25672e6910feea92c8bf266deb9202ad042950d2fe33af377de93e7
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

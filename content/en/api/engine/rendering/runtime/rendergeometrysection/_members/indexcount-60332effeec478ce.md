@@ -2,7 +2,7 @@
 uid: api.60332effeec478cea288e323612331bd2e687960e62e250853052a6d28eb4afb
 symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderGeometrySection.indexCount"
 source: xml
-reviewed: db75523791f7d41cdca61e7eed304ba12c0999391f992d1f200d30bad94d693e
+reviewed: 8acd14ecbc177f67909adb5730bf033458f02717ebe790321aa3f8b21db203b0
 title: "indexCount"
 kind: api
 owners: [Inno.Rendering.Runtime]

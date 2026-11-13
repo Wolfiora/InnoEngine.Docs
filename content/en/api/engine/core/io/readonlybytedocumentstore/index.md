@@ -2,7 +2,7 @@
 uid: api.inno.core.io.2b41b1ce4515b100
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.ReadOnlyByteDocumentStore"
 source: xml
-reviewed: d8aa5fd221a978b1dd1d8f7f3ee1e2643cffccb32a40abf090915cd671f54622
+reviewed: f9166107ee595c350469856694863867d0b9950d818df93be7846fb9dbcc672b
 title: "ReadOnlyByteDocumentStore"
 kind: api
 owners: [Inno.Core.IO]

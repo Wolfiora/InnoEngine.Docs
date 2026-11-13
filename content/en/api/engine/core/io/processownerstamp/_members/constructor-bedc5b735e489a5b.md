@@ -2,7 +2,7 @@
 uid: api.bedc5b735e489a5bf1950ba96a5da584abf73c91e2fe77676911f832dd366b5f
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.#ctor(System.Int32,System.Int64)"
 source: xml
-reviewed: e9bfd2b639e7d4ef21d621d5901a2f24051076d4758b680420566b72e54daa75
+reviewed: e0f106967b16e510fe19320383724e47d3853ff0148d13f462ff6eb906259bc2
 title: "Constructor"
 kind: api
 owners: [Inno.Core.IO]

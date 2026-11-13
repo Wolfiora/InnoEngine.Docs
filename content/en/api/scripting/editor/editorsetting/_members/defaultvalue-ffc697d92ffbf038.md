@@ -2,7 +2,7 @@
 uid: api.ffc697d92ffbf038c1ab83161c3ac5da84358be39f6c69fc9ac925f1a2032ebf
 symbol: "scripting:Inno.Editor.Settings:P:InnoEditor.Settings.EditorSetting.defaultValue"
 source: xml
-reviewed: de8fa3cd1e0673688e835aa7e64ebeaf7a977615f19c410186ed25586c01f621
+reviewed: 7a03a48276160681494878ce91bb19f83276d2841eb354181a86c50e88373f61
 title: "defaultValue"
 kind: api
 owners: [Inno.Editor.Settings]

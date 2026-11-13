@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.ddf250b5c1e290d9
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorMenuAttribute"
 source: xml
-reviewed: b5121c292f621b44da15f0a87b7825650353cdfde3dbe89fd2c4cac6bfee2cb4
+reviewed: 2e1fd53c6b83ac7f7668d771180017e12995dd95bae817d25088310e5fb1d41a
 title: "EditorMenuAttribute"
 kind: api
 owners: [Inno.Editor.Interactions]

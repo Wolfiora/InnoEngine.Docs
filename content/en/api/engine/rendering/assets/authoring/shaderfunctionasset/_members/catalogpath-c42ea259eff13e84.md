@@ -2,7 +2,7 @@
 uid: api.c42ea259eff13e84a58bc9bb992fb7301e80c70f8a6a118bcedeaa4bbf217ccd
 symbol: "engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderFunctionAsset.catalogPath"
 source: xml
-reviewed: 49723edb9bf59ae4b156e039e8e5ab5f24f6d82ad7914e26670a4680d267a6d2
+reviewed: 9be89630df2ff622fc3d10ea00ab82d63ea90db3b2f345bf1a4a10e71296eb5f
 title: "catalogPath"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

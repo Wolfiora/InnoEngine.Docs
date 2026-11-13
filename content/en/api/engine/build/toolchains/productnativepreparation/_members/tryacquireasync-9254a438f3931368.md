@@ -2,7 +2,7 @@
 uid: api.9254a438f3931368b11a96248be6945758b96a33ec70b42778aa4f702a796477
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.TryAcquireAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,System.String[][],System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: 5d7fb043368613a49aa0de060a08ad688de22c034ab37729be1247ae4f79ab49
+reviewed: af8f640d5a427d536c26e5d1eb7bbd90f163d392e2692c5d50fbfa81beeefbea
 title: "TryAcquireAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

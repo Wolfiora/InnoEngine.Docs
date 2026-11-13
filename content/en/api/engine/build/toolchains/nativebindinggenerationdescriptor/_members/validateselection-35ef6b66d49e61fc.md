@@ -2,7 +2,7 @@
 uid: api.35ef6b66d49e61fcbdbd340d6208a150264c2a9189a1a99446cdb5188bc8a90c
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.ValidateSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})"
 source: xml
-reviewed: 132c931cb06ced92cce475770aced628db04905cb3daae52d89a11fd76deb6cd
+reviewed: 993f7046ed9aae3df7a38ccb954f34fed539a967ef6d2cd53fb615255dbc5b7a
 title: "ValidateSelection"
 kind: api
 owners: [Inno.Build.Toolchains]

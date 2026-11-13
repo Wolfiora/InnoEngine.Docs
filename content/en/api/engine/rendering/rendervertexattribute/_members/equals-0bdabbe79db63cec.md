@@ -2,7 +2,7 @@
 uid: api.0bdabbe79db63cece0890013fb301a4ac872550a88fcdeb53cd9f3f5790d1bd4
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderVertexAttribute.Equals(System.Object)"
 source: xml
-reviewed: f229cff471ea0ea4aefc20a25cc100d64a8d09876e4df8ac2f3064fdcd5dda7f
+reviewed: 573505d8d2518e7c9e831d6551f823d05477c028fa007f6011a77024cc04c0e9
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

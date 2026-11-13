@@ -2,7 +2,7 @@
 uid: api.ddc9c17c72fe462367eef88bdc51ae4cd38dc2708c05c09e0ff03f8594fd949a
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationResult.TryGetValue(System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor@)"
 source: xml
-reviewed: b73592587ddddada8bf4dbe65ba6df82b58c51d616b8592840e545d9d18e5dd4
+reviewed: e57a6a88f3aeab35fa66d89f5a7419fbc5d6ed01e75e6b2104aa3b2636ae43cd
 title: "TryGetValue"
 kind: api
 owners: [Inno.Build.Toolchains]

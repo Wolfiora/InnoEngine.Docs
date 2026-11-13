@@ -2,7 +2,7 @@
 uid: api.cf84609a8d6f3af0e54a44e0a04a740cc19b140c1b1b9e0e1a17c6db4b969569
 symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.MouseCursor.TextInput"
 source: xml
-reviewed: 2c2a80bc85a88ebfd79319f25c100a63235d4e872d34a5abdcfcf388fa0404a4
+reviewed: f7f92ba4a3772b0817a9da5e3f5395d911422e60d77323a2ff858e89643c73f5
 title: "TextInput"
 kind: api
 owners: [Inno.Core.Input]

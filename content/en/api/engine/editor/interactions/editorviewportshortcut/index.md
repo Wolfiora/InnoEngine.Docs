@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.c0c4d985beab9075
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorViewportShortcut"
 source: xml
-reviewed: 77f7ebb2197590ff9095ed287430f23da147cbc66fe485413df0011fd07b3f17
+reviewed: c4c72ae8baf29765e07997b928b1254b7c7d66edd1d8eb8ac8ce5fd3a1728021
 title: "EditorViewportShortcut"
 kind: api
 owners: [Inno.Editor.Interactions]

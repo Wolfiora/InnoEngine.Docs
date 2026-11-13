@@ -2,7 +2,7 @@
 uid: api.84164afecdef01f42068a0cc0590584e34d5d3d908fd0bfa7fdeb6108a219341
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.GameContentCompilerFactory.#ctor(System.Object,System.IntPtr)"
 source: xml
-reviewed: 9ad8a0653ec289c376eee425205199ad029eaed971200abdaeaf3cb7722a154d
+reviewed: 36034be9c20c86f5341f25aae103106c030f3b4d6f38543074893121aef32c1a
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Composition]

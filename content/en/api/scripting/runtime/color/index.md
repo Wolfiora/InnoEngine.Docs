@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.b459d9015ed5b820
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Color"
 source: xml
-reviewed: c90f0b5089a4eab1a5b60d98e3e0080244c339e198d48f90ab9506398f6f16f4
+reviewed: 278b22bb279934ee701b0bc48fbe2fce41b47271f22fe79932c3bcb5d44ba251
 title: "Color"
 kind: api
 owners: [Inno.Core.Mathematics]

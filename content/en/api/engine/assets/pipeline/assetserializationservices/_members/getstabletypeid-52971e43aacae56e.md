@@ -2,7 +2,7 @@
 uid: api.52971e43aacae56e6f624d86015b3558a33ff6eed2c98bcfb4df55def73c8b7d
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSerializationServices.GetStableTypeId\u0060\u00601"
 source: xml
-reviewed: a21f99f47aef8d4e37194fbe43be30f400bcdff76fca35ef7e0e35092babdfe5
+reviewed: d67f37a596295de816de3e7bc0992e4a30b3635c16397a5e148c35496e9e2183
 title: "GetStableTypeId"
 kind: api
 owners: [Inno.Assets.Pipeline]

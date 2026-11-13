@@ -2,7 +2,7 @@
 uid: api.b91ff5714e7a8db16efcc6db6dca024ba0055168bb82a539cfcbece057a9b35e
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.#ctor(System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 31f1a4a9bca7de3a8d43dfd3f3c4dd0170e4847e90b3f9ce194a6a1754ecda17
+reviewed: 5ea442cc5df011b88d6921977d72bdf56eeeeb9e15645f8c02a55c9d91f2caf3
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Mathematics]

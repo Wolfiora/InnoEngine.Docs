@@ -2,7 +2,7 @@
 uid: api.fb61cb2732914db4cdd19a1e577fd2df7774ef299171b707b8cfe987e726a771
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiRenderFrame.#ctor"
 source: xml
-reviewed: a6295dc112dad3baa3881e9005234accf047b2fd5678d79bdb89a42f3a08e2d9
+reviewed: c4832d47d4642c4b1bde387bd8bf9155055214733ed700919728d43404ce5c0f
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

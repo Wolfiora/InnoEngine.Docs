@@ -2,7 +2,7 @@
 uid: api.eed1a01eb6185e06dd34e9327faa6ed6618b79c7540b0bacfdbe132a1bc7497f
 symbol: "engine:Inno.Animation:M:Inno.Animation.AnimationKeyframe.#ctor(System.Single,Inno.Animation.AnimationValue)"
 source: xml
-reviewed: 7f745967fe17a34721691911079efbc72c4e89e782f6ee7bc8122868169a0089
+reviewed: 8b3a30e08be163b40a9698de716d06f367ed82f98ad41ccde426bc44a255a779
 title: "Constructor"
 kind: api
 owners: [Inno.Animation]

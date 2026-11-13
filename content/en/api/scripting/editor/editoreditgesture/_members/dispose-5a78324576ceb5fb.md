@@ -2,7 +2,7 @@
 uid: api.5a78324576ceb5fb211c175ab7e0f4779136709a8c7990de25022abb8cadac00
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorEditGesture.Dispose"
 source: xml
-reviewed: ba2162315e28a426e037efdcd50e7983e33377884c0615da490a6147d1f4016f
+reviewed: a833112261f3f8b2c0621309cfbd7dee273e5f771a42c0893f85335476787bc4
 title: "Dispose"
 kind: api
 owners: [Inno.Editor.Interactions]

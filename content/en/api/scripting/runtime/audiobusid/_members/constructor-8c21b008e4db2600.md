@@ -2,7 +2,7 @@
 uid: api.8c21b008e4db2600759ed2d0f44e3bc317c4c79b0e7befe30cba7a98c8cd80ba
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBusId.#ctor(System.String)"
 source: xml
-reviewed: 3007ed3468325e5570105916c4769e7d4de3272f5e012a9cafa6f0ac848dc702
+reviewed: e58f50c40b4de862ac245181cde2b8900a7e8160f2b30c6be54249c6e9a617a4
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

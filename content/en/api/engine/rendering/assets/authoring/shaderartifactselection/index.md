@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.77a027f8ec5f7846
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderArtifactSelection"
 source: xml
-reviewed: 22c5bf71afdcf76dff768486641a58af277849055ea0b9d005844a6c3aabe28c
+reviewed: 98ee926fb0738f06a1e18cb9aad680a19cd14e25b3fc51f4667bb16a0b48cd56
 title: "ShaderArtifactSelection"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

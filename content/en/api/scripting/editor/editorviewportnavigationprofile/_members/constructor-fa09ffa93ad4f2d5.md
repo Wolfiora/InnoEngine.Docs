@@ -2,7 +2,7 @@
 uid: api.fa09ffa93ad4f2d551e2f7bbfc3690ba24bbfcea75467b2e58be18c810826fb1
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfile.#ctor(InnoEditor.Rendering.EditorViewportNavigationProfileId,InnoEditor.Rendering.EditorViewportNavigationCapabilities,InnoEditor.Rendering.EditorViewportNavigationMode)"
 source: xml
-reviewed: 8b7aeba1d350711ca26e59cc6bd15644be82a17009b0e446c75a10696a35f57a
+reviewed: 05f4d57875639545ec4f8b0b62d8451bb91f4644e55d9d66d2af1a0b025901df
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

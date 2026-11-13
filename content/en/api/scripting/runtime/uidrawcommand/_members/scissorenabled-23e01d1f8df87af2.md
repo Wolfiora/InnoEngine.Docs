@@ -2,7 +2,7 @@
 uid: api.23e01d1f8df87af28cd928d310f7de9f7567115b40a9a61fe69b7dd5003898ff
 symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiDrawCommand.scissorEnabled"
 source: xml
-reviewed: f9c8d70dc2cc9143e93a2c46f8bfe1fc588f798c7b1916395ff1e098502b0201
+reviewed: 7d26b2036111bd501eaf4bf47a91f91042e8a1b8c71851dca4d72e46195052c6
 title: "scissorEnabled"
 kind: api
 owners: [Inno.UI]

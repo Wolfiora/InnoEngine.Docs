@@ -2,7 +2,7 @@
 uid: api.6b3b0b2780143b999898a6edd4243bedb9d4c33e6ee610484a9ae357612a83f3
 symbol: "engine:Inno.Text:M:Inno.Text.ITextService.Rasterize(Inno.Text.FontAsset,System.Int32,System.UInt32,System.Single)"
 source: xml
-reviewed: 8ada0a1f4a19217d41661b384970fed3300640926f0dbbb3ee6c07518eef31f2
+reviewed: f699a5ffcdb0776528884bd15a3bac08aa5923b244fc6be6d697058ca9bfb7ae
 title: "Rasterize"
 kind: api
 owners: [Inno.Text]

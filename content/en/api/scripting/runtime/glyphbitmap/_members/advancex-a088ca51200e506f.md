@@ -2,7 +2,7 @@
 uid: api.a088ca51200e506f55297ad864983eb564eb56c2c8b791f7b158c32d48626e85
 symbol: "scripting:Inno.Text:P:InnoEngine.Text.GlyphBitmap.advanceX"
 source: xml
-reviewed: 6ac7f641159e86be32142fc008d2bd09e82671e9414ff65b1dda7ee29ae322e9
+reviewed: 3dcc00b5ab1902e05fc3d33abcd3e66e73576ee5967429a256a1e35776da7573
 title: "advanceX"
 kind: api
 owners: [Inno.Text]

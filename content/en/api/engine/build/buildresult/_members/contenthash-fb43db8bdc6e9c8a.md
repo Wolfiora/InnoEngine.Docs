@@ -2,7 +2,7 @@
 uid: api.fb43db8bdc6e9c8a98b57b21d94e01bfd52508934728ec5775b8bf29021d52bd
 symbol: "engine:Inno.Build:P:Inno.Build.BuildResult.contentHash"
 source: xml
-reviewed: 16e1d78fd422f3ed19b65e0959d561b8037359eb6f3a237670b45e0e57b14e4d
+reviewed: be53fd0b52950b002724f2b80246c12110d308c1d180c8ffe09b2782e85d1208
 title: "contentHash"
 kind: api
 owners: [Inno.Build]

@@ -2,7 +2,7 @@
 uid: api.85fcedfa56dd7bda097c68227dc89905c59a5b8856e3614ba6396efdf4d18f2b
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.SetupPropertyColumns"
 source: xml
-reviewed: 289d3f8461a2da780876753a94859ad6fdc92d375760579784b53a26c21b89d9
+reviewed: bb2869e38fc95939882b1b517b26426dc30d4159062ca5fd3511f326b83d7e43
 title: "SetupPropertyColumns"
 kind: api
 owners: [Inno.Editor.ImGui]

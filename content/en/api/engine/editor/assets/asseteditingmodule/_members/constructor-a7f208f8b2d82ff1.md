@@ -2,7 +2,7 @@
 uid: api.a7f208f8b2d82ff192c80a0494711764f3104c394a24249342c86fbd39576a42
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.#ctor(Inno.Editor.Interactions.EditorInteractions,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Logging.LogRouter)"
 source: xml
-reviewed: 713e728b7db3c3341dbe11a5aeb588f0cde5eb379dc0f11378516c90aeb9f813
+reviewed: 2f1525d651141670707565a366bcc55bc2068babad3aefd80476b2e1147743c3
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

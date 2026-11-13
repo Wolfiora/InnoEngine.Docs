@@ -2,7 +2,7 @@
 uid: api.c896f2d5644c9d8b2a3179b812ef85b6c3fa0455179a13864970dfe4ccc324bc
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPropertyBlock.Clear"
 source: xml
-reviewed: 5cb9d9f60997ee8bf36b3ca00d2728b2e35a533ce43ece37704c2e55dcc18997
+reviewed: a0308ba8ba8605e3e2c2cd7f8df9ee7640b50199fc5b0c8ebd829a3b2cbf35a9
 title: "Clear"
 kind: api
 owners: [Inno.Rendering.Assets]

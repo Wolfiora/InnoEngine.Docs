@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.0a7dcc6746c7a698
 symbol: "engine:Inno.Core.Diagnostics:T:Inno.Core.Diagnostics.IDiagnosticSink"
 source: xml
-reviewed: 4ec17d19d6e135e5e26573f3f32ae4d3294c058ee7e07b2c774f02c6c1ff854c
+reviewed: b99bd3e350a56be9d7e9f9f427dbc3bf46a11d6e011b72e98f7447dd8d7c42cd
 title: "IDiagnosticSink"
 kind: api
 owners: [Inno.Core.Diagnostics]

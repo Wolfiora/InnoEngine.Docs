@@ -2,7 +2,7 @@
 uid: api.1f6be742ac689caefacd5021819f0354307e60ed9e0b32da2908f2b8284983ee
 symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.IPresentationContext.TryCaptureLayout(System.String@,System.Boolean)"
 source: xml
-reviewed: 326e7935b738a0a06bb123064a8927317a53cc4a0c31b711ba376bed5cfa8e9f
+reviewed: 572c27df1582f6eabe170c7791717d186a9f66e26a997c979a19db6bf978bde2
 title: "TryCaptureLayout"
 kind: api
 owners: [Inno.Adapter.Presentation]

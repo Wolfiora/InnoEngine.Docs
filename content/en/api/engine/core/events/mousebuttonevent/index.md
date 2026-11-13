@@ -2,7 +2,7 @@
 uid: api.inno.core.events.a0e1cc49b8a3ff07
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.MouseButtonEvent"
 source: xml
-reviewed: 81ce78d92a234bdbcdb9778a70eb9d0cf799d8e1fa74a8e1dd121b2ee00fc723
+reviewed: 0c6233f6fbb0c8009c24d45b938595657ec26725f1e3d9405457677d44852f55
 title: "MouseButtonEvent"
 kind: api
 owners: [Inno.Core.Events]

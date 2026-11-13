@@ -2,7 +2,7 @@
 uid: api.inno.core.io.a4c34d306c8b3c98
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.ProcessOwnerState"
 source: xml
-reviewed: 7b6ec254ed2b633b4263561f137488fc69367e28f661c29d7f652c1659ba98b1
+reviewed: a2b0cfbb49b80e3f3175572000335bad216d15c059f288ca2673ec8c57ca1d99
 title: "ProcessOwnerState"
 kind: api
 owners: [Inno.Core.IO]

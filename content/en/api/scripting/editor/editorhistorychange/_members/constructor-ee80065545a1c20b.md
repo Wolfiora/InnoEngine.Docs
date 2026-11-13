@@ -2,7 +2,7 @@
 uid: api.ee80065545a1c20bd308b7a52a9cafaad027661b30eefc854dcfcf327e742b7b
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryChange.#ctor(System.String,InnoEditor.Interactions.EditorHistoryPayload,System.String)"
 source: xml
-reviewed: 59983647244f34ff8f5adb277bf7857a4b5bde8eba46596bb762ca2be6ce54c8
+reviewed: c930735ce5185ea3263955bd9a17ab95cec1b406e89b27d4123bf9241100a94b
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

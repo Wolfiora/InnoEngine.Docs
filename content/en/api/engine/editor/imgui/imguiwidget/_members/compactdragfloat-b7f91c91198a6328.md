@@ -2,7 +2,7 @@
 uid: api.b7f91c91198a63284faddcacd1b9951b0bcf86c1b10e988351598300f322fa37
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CompactDragFloat(System.String,System.Single@,System.Single,System.Nullable{System.Single},System.Nullable{System.Single})"
 source: xml
-reviewed: 5e3b3b3555630cd4dab83e4a6219251b08393662ec0af14e75a674d8d3a774a7
+reviewed: 8f629d95ebb8a8b69d3dd17732f228b735e7f05a55f5306870c2996b5d4a7f7c
 title: "CompactDragFloat"
 kind: api
 owners: [Inno.Editor.ImGui]

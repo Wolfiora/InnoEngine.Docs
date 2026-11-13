@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.75bb02d84ea26de0
 symbol: "engine:Inno.Editor.Graph:T:Inno.Editor.Graph.GraphCanvasState"
 source: xml
-reviewed: 5664d1e57d6e4ff0c3cc6afb3a7cd9cc07ab8412b543b8088e88d52d9f6df1c5
+reviewed: 1e385c787ee25a563b639128de3e72e2c86e14970336a7250e70a12e05986dc6
 title: "GraphCanvasState"
 kind: api
 owners: [Inno.Editor.Graph]

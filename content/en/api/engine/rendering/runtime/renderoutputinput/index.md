@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.1ad5c8435553595a
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderOutputInput"
 source: xml
-reviewed: b388cca5ca8214be4ab91851bd1012f9dc210ddc4699ce09374e0f94786fbced
+reviewed: dc3953a6bb5e87bb769e2207d8cc9d30534ab891c035a3a5a8aa57652caaf451
 title: "RenderOutputInput"
 kind: api
 owners: [Inno.Rendering.Runtime]

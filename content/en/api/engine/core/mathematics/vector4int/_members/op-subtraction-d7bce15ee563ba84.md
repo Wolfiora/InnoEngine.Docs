@@ -2,7 +2,7 @@
 uid: api.d7bce15ee563ba842088186124bb0d5fa692697c27760460ed36543e22d9630c
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Subtraction(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int)"
 source: xml
-reviewed: 055cfdcf9e035eb1124f1b9a1d51811c461e3f97279cc2e6c7c3867a68f222e2
+reviewed: da396d5288118b3534c03de78c68774c0c02633ece5c2d3f04253c5c2d6e1d44
 title: "op_Subtraction"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.295d25b26399501021bb93208d712c77da076fa83946074a724c97aefbc9ac47
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrInstruction.hasSideEffects"
 source: xml
-reviewed: ec527316c0b29c02be5e41cbb18662edd1d3d9766cc664ea855ce2c8cd7e7e8a
+reviewed: ec1f58ba63212f1138a0a48a60af82d691c74ea6a2be53811d178938bff33ad1
 title: "hasSideEffects"
 kind: api
 owners: [Inno.Rendering.Shaders]

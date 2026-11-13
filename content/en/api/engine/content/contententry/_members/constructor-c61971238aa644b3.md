@@ -2,7 +2,7 @@
 uid: api.c61971238aa644b31a7be4c8bd846e9f9deae1604d0450b37c351a625eaebd65
 symbol: "engine:Inno.Content:M:Inno.Content.ContentEntry.#ctor(Inno.Content.ContentKey,System.Int64,System.String)"
 source: xml
-reviewed: b4188b2ae59b192c160d93358081f6b8934f7f66408341c5786698ffd5d8021a
+reviewed: 720c9a8c3a35a12abf931b46479e63f52eb06ebba9428519665239e840d5ecac
 title: "Constructor"
 kind: api
 owners: [Inno.Content]

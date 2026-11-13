@@ -2,7 +2,7 @@
 uid: api.e7dadc185d3d488fbdaaa7ff28258767cdbe452bf619e377f88f2523890612ee
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDeviceCompletion.GetHashCode"
 source: xml
-reviewed: 8cc57ab7b1be377e5baeddfff0b4925da95c602144de900d649b1b51a78b58d7
+reviewed: 4b1344f4c3e36b33546ff7ef0aebf6fc6d2bd0b74e4bc4c8088431f5447451a2
 title: "GetHashCode"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.35fa03b3d748821bab84cb74127e0b57ffda393fecf6df6162eed16c100c8f8d
 symbol: "engine:Inno.Editor.PlayMode:M:Inno.Editor.PlayMode.EditorPlayModeLoop.EnterPresentationScope"
 source: xml
-reviewed: 9c81bad4978a05db90c3e38aa6c5d2978ca0976c8180c8f2821433f223dc5568
+reviewed: d7cd3c781c393328b9baafc61241cde4fca5cf77e70a6849e0cfc891efde429f
 title: "EnterPresentationScope"
 kind: api
 owners: [Inno.Editor.PlayMode]

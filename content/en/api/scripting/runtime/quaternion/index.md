@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.6fe181050c16fef3
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Quaternion"
 source: xml
-reviewed: 881eb820b9f0a72bb1ff470211b05283f682a672278b67daf2d2b2253e4ad6ad
+reviewed: af40de2bd525ba1a1a6a4d17e4d9e5e87e88e8e79c62e9ea9a1747e300be7fc9
 title: "Quaternion"
 kind: api
 owners: [Inno.Core.Mathematics]

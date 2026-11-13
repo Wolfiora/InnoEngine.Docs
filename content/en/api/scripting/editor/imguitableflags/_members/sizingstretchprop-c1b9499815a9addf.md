@@ -2,7 +2,7 @@
 uid: api.c1b9499815a9addf9001c91a9e0da74df377a647f00ce695402791ad3681d9d0
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.SizingStretchProp"
 source: xml
-reviewed: af85d921fd8e5404c2956038002ad67128666138532b9538f2c946e4a1185c32
+reviewed: a425734ef00fc984b036237081850c56c3cbce30f55da62ffc0b9ee9b36c0e45
 title: "SizingStretchProp"
 kind: api
 owners: [Inno.Editor.ImGui]

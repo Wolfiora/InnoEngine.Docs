@@ -2,7 +2,7 @@
 uid: api.3612688301e1cbd1dce06dac255d25fe3b7647a0c3f7f5797a378c3226563063
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.OnActivating(\u00600,\u00600)"
 source: xml
-reviewed: 2a0d09d34da3a10084bb0b59bdfa3aec88e21013d510e6fbc06d49cb2f7e354d
+reviewed: 1351c11f23248298624b2632797ecee0c49c46127d2e008da7ee18a9d6207354
 title: "OnActivating"
 kind: api
 owners: [Inno.Extensibility.Types]

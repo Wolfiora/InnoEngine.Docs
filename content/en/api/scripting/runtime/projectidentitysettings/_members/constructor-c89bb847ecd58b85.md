@@ -2,7 +2,7 @@
 uid: api.c89bb847ecd58b859a64641d585332e8c02d90c42b2d99cc6b8912b1905a2ea2
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectIdentitySettings.#ctor"
 source: xml
-reviewed: ed356c52974c2430f0bc53c95e58d2e99d778826072523d798aa4b5e5f8995d9
+reviewed: 0b645e2015d6ba12cbbf1e26992d0727356e2b0f477ffb71ff6ca28726ab18ce
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Settings]

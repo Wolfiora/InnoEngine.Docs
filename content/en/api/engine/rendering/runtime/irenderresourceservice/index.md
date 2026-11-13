@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.edeeacffe2ee4bd7
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IRenderResourceService"
 source: xml
-reviewed: db209da304f9923dec5788f1c13cf496df002e2095973cc617e5ad9d72f3952f
+reviewed: 565040fc36800f151c4c2d015e24bb5d90add5394a953af406b1fcaa4340191e
 title: "IRenderResourceService"
 kind: api
 owners: [Inno.Rendering.Runtime]

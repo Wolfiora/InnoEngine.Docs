@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.ab4eec24821b5773
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderDefinitionValidator"
 source: xml
-reviewed: 4e3c041792d304977a493d85cc3cdd8a9aaa3729e6e32229d13bc60e0284ddc8
+reviewed: 6be315a1e3bfd01d9fde23506aaa49ad0b3cc0469138c4f9052f4a4d69b44488
 title: "ShaderDefinitionValidator"
 kind: api
 owners: [Inno.Rendering.Assets]

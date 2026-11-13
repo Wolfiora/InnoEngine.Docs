@@ -2,7 +2,7 @@
 uid: api.inno.ui.183d6257c3a3ee38
 symbol: "engine:Inno.UI:T:Inno.UI.UiBackendCapability"
 source: xml
-reviewed: 6548c9bf04bd02ed7e691ca5eed03482072c2cb74235c914e8dcab6dd122524a
+reviewed: ea6c499e0f612b4e3dbf025e1015d6cb14f0fe1b8ed2cdd32f2fc17c2a6a405c
 title: "UiBackendCapability"
 kind: api
 owners: [Inno.UI]

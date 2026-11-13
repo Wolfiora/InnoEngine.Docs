@@ -2,7 +2,7 @@
 uid: api.435bd036e8b6a79029becb590e59f1ab6d046bd44ed3e643f9279a2edc811d0a
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.EnterScope"
 source: xml
-reviewed: 6eaf40a02024cb85c635fcd6c0af01f920c60023b903c456d04de112d9d22245
+reviewed: 71e5f1cb52210e8744bf97e11ed9b635020925fab6bbffd6a41b1c65eca0363e
 title: "EnterScope"
 kind: api
 owners: [Inno.Scene]

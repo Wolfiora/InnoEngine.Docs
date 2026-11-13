@@ -2,7 +2,7 @@
 uid: api.inno.storage.runtime.c62857eae2db764a
 symbol: "engine:Inno.Storage.Runtime:T:Inno.Storage.Runtime.StorageRuntimeFactory"
 source: xml
-reviewed: 61726361e2a13b8191f4f19b716ab26878111f47b7a2d64e0b713d7e55dd5581
+reviewed: 55c0782a9c3c650ec04332decdb54e89831599dbc3abdfc69c59ef74aec910db
 title: "StorageRuntimeFactory"
 kind: api
 owners: [Inno.Storage.Runtime]

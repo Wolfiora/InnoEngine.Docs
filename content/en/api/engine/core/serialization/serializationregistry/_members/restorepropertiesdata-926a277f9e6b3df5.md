@@ -2,7 +2,7 @@
 uid: api.926a277f9e6b3df59ac18143b0f57c74391b2de9a0dc5fa7164764bf061ae76d
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.RestorePropertiesData(Inno.Core.Serialization.ISerializable,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationPropertyRestoreMode,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 57c3cd6d46f607120c714229667bb441cb7f045d07e31ea7a82f7434e09ff6ed
+reviewed: 3e1bd602543473d4dd1c360566c8e4508783c9a594c865a280dc6b4ab763e8b3
 title: "RestorePropertiesData"
 kind: api
 owners: [Inno.Core.Serialization]

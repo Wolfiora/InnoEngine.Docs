@@ -2,7 +2,7 @@
 uid: api.3b1af2cc028fec09814f88c9ec28d24861dacd9ae3a91cfcf522d5e51e686f9c
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiEditorRuntime.Update(Inno.Editor.Core.EditorFrame)"
 source: xml
-reviewed: 01556a3cf414abb3a16f52e07e0f41d8b7584a34414778fa351bfeb05a55be87
+reviewed: 57e9a517f095c3d18a5ebf77e603194e807e968f9bc8651cfafc97a97bb1536d
 title: "Update"
 kind: api
 owners: [Inno.Editor.ImGui]

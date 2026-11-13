@@ -2,7 +2,7 @@
 uid: api.a0eb64f032c5c86ba3e64aa7652217ac3381747761867d4375637ce37397d8f1
 symbol: "engine:Inno.Content:M:Inno.Content.PackContentStore.Acquire(Inno.Content.ContentKey)"
 source: xml
-reviewed: a4f3fe6c180ddd8c24777495b5ba7c9407874dcf4b5eeb3737907ea89292773d
+reviewed: 5079dae92b4b2f97d461ed32c9ab3d19d0543ef352cc6ca889797a26212e00f0
 title: "Acquire"
 kind: api
 owners: [Inno.Content]

@@ -2,7 +2,7 @@
 uid: api.6f1c5acc9005aa4f4a8482be4a1c825f0fedcc2d756f90856c366cd9f41cc8db
 symbol: "engine:Inno.Animation:M:Inno.Animation.Animation.TryGetState(Inno.Animation.AnimationPlaybackHandle,Inno.Animation.AnimationPlaybackState@,System.Single@)"
 source: xml
-reviewed: ae10b6ab371537853a75a097ba05fa1e335af2b9fa63f1e099c03fb614164e08
+reviewed: f77e74d11b23f9eef5c03dde64900834bb74dfb063c7c511493fa21862fcafaf
 title: "TryGetState"
 kind: api
 owners: [Inno.Animation]

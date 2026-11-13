@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.c39c00b58dcb5528
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiCond"
 source: xml
-reviewed: be9c903dc11bb956b504ce5cbca3673498d34bb1d30d8955991de2e6bb8c34e9
+reviewed: abfe1a1795530567109abd22482608673b96274da5ff41f681cc6449eead0f70
 title: "ImGuiCond"
 kind: api
 owners: [Inno.Editor.ImGui]

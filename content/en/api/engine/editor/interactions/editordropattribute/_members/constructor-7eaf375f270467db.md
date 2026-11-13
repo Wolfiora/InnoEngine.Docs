@@ -2,7 +2,7 @@
 uid: api.7eaf375f270467db738a1ce607d523b6807ea9a890a49900c0a39f4effb749b2
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDropAttribute.#ctor(System.String,System.Int32)"
 source: xml
-reviewed: e3c892321ef2e48a6b3318bf467e9faf8d4fe0a8582e3452821757ffc796874f
+reviewed: 408285884118c0a4a843f15e556492ff5b19429fa9df3e297d433d85f6de1373
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

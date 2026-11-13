@@ -2,7 +2,7 @@
 uid: api.inno.editor.playmode.editor-script.d2401531cdeab600
 symbol: "scripting:Inno.Editor.PlayMode:T:InnoEditor.PlayMode.EditorPlayModeState"
 source: xml
-reviewed: 262d9362e6d3310ee573f90969b6782024abab3371f08934d3896babbcd8590a
+reviewed: d4ab886e4c8853019478e140f3336d8a39171eb90141a80d680f2a9e9aabe584
 title: "EditorPlayModeState"
 kind: api
 owners: [Inno.Editor.PlayMode]

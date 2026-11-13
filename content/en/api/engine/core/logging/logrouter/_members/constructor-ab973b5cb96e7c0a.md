@@ -2,7 +2,7 @@
 uid: api.ab973b5cb96e7c0a881d24519d270285a0b388e7722ee9af3d3b9cbde1d79165
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.#ctor(System.Int32,System.Int32,Inno.Core.Logging.LogDeliveryMode)"
 source: xml
-reviewed: 88b18fe62331faa3d51e2e15ef805cb71e48661c07bfbb74cc52c92a459cdb05
+reviewed: 664404c729a1f1ddf67632055dc030c251780d99473f41b7e152ed7331eb4477
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Logging]

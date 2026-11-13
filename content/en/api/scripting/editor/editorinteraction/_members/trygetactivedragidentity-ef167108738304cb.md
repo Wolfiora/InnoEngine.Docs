@@ -2,7 +2,7 @@
 uid: api.ef167108738304cb7c83492a76b288e4a10f265905625b35f7f75dee2b17df8b
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.TryGetActiveDragIdentity(InnoEngine.Core.RuntimeIdentity@)"
 source: xml
-reviewed: 34327799f70e30e5f973c7cd58403ca459341f5b8c0b046c7eca0c2b0fddb07e
+reviewed: 117f063f1b5818a2f4cc852f9675a6205c5de4f3711880c230dbaee576a2284b
 title: "TryGetActiveDragIdentity"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.d2917fc1bda6e25cbb903ddeabc88787519f343c8e559f4676eafe85f5ad75dd
 symbol: "engine:Inno.Text:M:Inno.Text.TextStyle.Equals(Inno.Text.TextStyle)"
 source: xml
-reviewed: 38e046a2cfbf99925ddfae0ca5a699d862ae70829cbc6d156de3d31412134cef
+reviewed: af84873a4d0fd2b453c682ef618950dc9a3a82b2779a1fdc7010ec8abc1ec3cf
 title: "Equals"
 kind: api
 owners: [Inno.Text]

@@ -2,7 +2,7 @@
 uid: api.bd76ac8aa8473312a92decc070d03224e5e43636d3f88ff64f956a4090c3b017
 symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModal.isVisible"
 source: xml
-reviewed: a603e6450ac93a42090466037bc9a5b706543c270c934f77c20ea863fc716f6e
+reviewed: 70e0537817a6035fcb07512956d92d8bc8fd4c324e07987d18e3e4e139994bf7
 title: "isVisible"
 kind: api
 owners: [Inno.Editor.Core]

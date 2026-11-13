@@ -2,7 +2,7 @@
 uid: api.1c3b3c56e255b6218b73437552d06ac936ea0b87906ad430edc4a23f53c56451
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.ImGuiWidget.InlineRenamePresentation.bufferSize"
 source: xml
-reviewed: f516c4b8fbc0e7343d756e035625f15aee394f0fe73c2fe62043c2ea78571933
+reviewed: c71498d72222be008a7f15a8bc2e52cf4831271b73a55e6916969e21d7d98640
 title: "bufferSize"
 kind: api
 owners: [Inno.Editor.ImGui]

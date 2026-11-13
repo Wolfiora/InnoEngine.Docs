@@ -2,7 +2,7 @@
 uid: api.6c59097739f6fa9527df5d47f112d1b08c5352d415bcb17ca5bc06904e2fecb4
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginPropertyEdit(InnoEditor.Interactions.IEditorHistory,System.String,System.String)"
 source: xml
-reviewed: 1ca52b5920fdd53e1d8547784db8ec9eb8ef8c90f679b526befc69be603b4a77
+reviewed: b78552ed6a867512db702322d3852f73e6487e4eab8ccd61d368c9b453f1670e
 title: "BeginPropertyEdit"
 kind: api
 owners: [Inno.Editor.ImGui]

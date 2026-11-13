@@ -2,7 +2,7 @@
 uid: api.1293ccd408fb23cabb50a5111ab0f29c1553ca05cb23c34de39abc1c1faff1fd
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiEditorRuntime.#ctor(Inno.Editor.Core.EditorContext,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Logging.LogRouter,System.Collections.Generic.IEnumerable{System.Object})"
 source: xml
-reviewed: 58274a294cf7b9c281633267c7bc343b91603b750d0f07a28a02fb22bae150db
+reviewed: ecf3f2ccb7bc51e53e349ca1f23ac1c154c3275f260caa919d473fcd2b595517
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.ImGui]

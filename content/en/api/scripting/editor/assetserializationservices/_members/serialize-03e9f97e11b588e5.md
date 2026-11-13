@@ -2,7 +2,7 @@
 uid: api.03e9f97e11b588e5afdc2d6c2664eb2f9833ee6ce6034488143f1f20d6ff5bd7
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.Serialize\u0060\u00601(\u0060\u00600)"
 source: xml
-reviewed: 3a6f3bcbd64e4f726eed6340fdf968e30bc53395973bd630cbed3b08b6521e9a
+reviewed: cd460daaed04e6ec7f954f5e881b00cb230d23028b080d40ebd3e841a364fac7
 title: "Serialize"
 kind: api
 owners: [Inno.Assets.Pipeline]

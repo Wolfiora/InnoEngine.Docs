@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.2a2c19ef64ca2683
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationTrack"
 source: xml
-reviewed: 6bf7aba7201eaa7b8db19210842814bb0ae34c218453f6733f9f8062d7219232
+reviewed: 553cbff4b910b42ea01ec4fb331f6985a48d7272bd761abd7cfa4cbf7d774eca
 title: "AnimationTrack"
 kind: api
 owners: [Inno.Animation]

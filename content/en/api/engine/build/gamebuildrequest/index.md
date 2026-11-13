@@ -2,7 +2,7 @@
 uid: api.inno.build.b4f67d09390b1761
 symbol: "engine:Inno.Build:T:Inno.Build.GameBuildRequest"
 source: xml
-reviewed: 59addb7c810670a9451fd01dc4553a96722a168a0865e4c82b16b6265611b7fe
+reviewed: b46845a1c07597c26eb9a8344ba7da7414a1c5ba2fcc7c86000b4d3f9026b9c7
 title: "GameBuildRequest"
 kind: api
 owners: [Inno.Build]

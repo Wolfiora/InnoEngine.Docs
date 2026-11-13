@@ -2,7 +2,7 @@
 uid: api.inno.scene.a387628292985037
 symbol: "engine:Inno.Scene:T:Inno.Scene.ScenePropertySerialization"
 source: xml
-reviewed: 56a84f3a48427d6e65e128d38e7271ec9321d6e654ca8b3d8a3241e3aabf240f
+reviewed: ed50e9912653d175a8c9cedb74518497d794f4e6c1b7b1fbd46004b7ff649080
 title: "ScenePropertySerialization"
 kind: api
 owners: [Inno.Scene]

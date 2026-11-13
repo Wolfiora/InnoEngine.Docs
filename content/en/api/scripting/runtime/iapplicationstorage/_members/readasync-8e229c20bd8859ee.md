@@ -2,7 +2,7 @@
 uid: api.8e229c20bd8859eee4e337bdb74cba6b3b0610df04973e5feffb5e9e6aa00658
 symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.IApplicationStorage.ReadAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)"
 source: xml
-reviewed: 6a76340f87628cf940020e08cbb0cf1e970f132294df27e6f00339e8e8e094fe
+reviewed: 176f2d65b72d8aaca6595204728897fb07f515cf5d89892aa13f1cb59364c60f
 title: "ReadAsync"
 kind: api
 owners: [Inno.Storage]

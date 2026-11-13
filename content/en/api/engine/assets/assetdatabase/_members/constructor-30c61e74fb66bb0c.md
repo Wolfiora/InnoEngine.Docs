@@ -2,7 +2,7 @@
 uid: api.30c61e74fb66bb0ca12298cc1e401583f5b4bbac79b9099639b9326fcff051e2
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.#ctor(Inno.Content.IRuntimeContentStore,Inno.Core.Serialization.SerializationGeneration,Inno.Extensibility.Types.TypeCacheSnapshot,Inno.Core.Identity.IdentityAllocator,System.Int64,System.Int64)"
 source: xml
-reviewed: 91ba76cb8a2b0c2295ad75e71fd343935802ceaf8a78f87031a5f986237b2e02
+reviewed: dc670ea68da08a38a0a7b53e1447edccd5e9e8f2152a94d5538b1c7f9dfce854
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.2470847c2b2da51b
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSelectNodeCompiler"
 source: xml
-reviewed: ad1491bedce04b93ed19f2579a0e99df3b86bad46f4e0c74df9456fff9483159
+reviewed: 51d5670db3d877c3dea2ad64a066ca091615169d44a7ee396d0b21c8679c04b3
 title: "ShaderSelectNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

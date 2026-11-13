@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.0f74bcf0b3f4d1bb
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildContext\u00601"
 source: xml
-reviewed: 7d7473cf47c18f8a02de97e6a832cc725d8d76c639e07b6697fbbda68ef4935a
+reviewed: 38a2e4b09702e71b47f8fd368f4ece9a2d9605ebe11e3097c9d54e9614c7a80a
 title: "AssetBuildContext"
 kind: api
 owners: [Inno.Assets.Pipeline]

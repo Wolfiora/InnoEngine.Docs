@@ -2,7 +2,7 @@
 uid: api.a19001f7863e4603cd2906222696e41380ad12c8e8c4cca40f2035c9a07a20ca
 symbol: "engine:Inno.Adapter.Rendering.Authoring:M:Inno.Adapter.Rendering.RenderingAuthoringBackendCatalog.CreateTextureTargetCompiler(Inno.Adapter.Rendering.RenderingBackendId)"
 source: xml
-reviewed: 572ddebf5f44e0d5e3b9413e72d90194ddb777b7a6dfa63ddaf050dee63a1d78
+reviewed: 9853a3a668a070959e554641114b7148afb73b3ffd599b22e52506ded27b06c3
 title: "CreateTextureTargetCompiler"
 kind: api
 owners: [Inno.Adapter.Rendering.Authoring]

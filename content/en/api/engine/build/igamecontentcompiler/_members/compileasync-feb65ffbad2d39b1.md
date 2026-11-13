@@ -2,7 +2,7 @@
 uid: api.feb65ffbad2d39b10c643aa52cb62da92f59ab2d9b5379a5cf229d1bc6a662b5
 symbol: "engine:Inno.Build:M:Inno.Build.IGameContentCompiler.CompileAsync(Inno.Build.GameBuildContentContext,System.Threading.CancellationToken)"
 source: xml
-reviewed: 387781ed7fce80687a580e4754b59a5b9028cb56215cfad5eff6f4f5630a4ad4
+reviewed: 5de6908384f3672206f8bff4e8f3b700ef1963e3451254cc9a29299d5be2ef8f
 title: "CompileAsync"
 kind: api
 owners: [Inno.Build]

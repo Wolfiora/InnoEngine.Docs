@@ -2,7 +2,7 @@
 uid: api.13103f6af4288164c2a7cd7e07747238466d1b5ea1a5e59824f65f481a232c52
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryGetDragSource(InnoEngine.Core.RuntimeIdentity,InnoEngine.Core.IdentityObject@)"
 source: xml
-reviewed: 19ceec2540605b56d67519297fcfa85de8b13c6d5aeb6b847ddeee54f83ab12a
+reviewed: 242d266b5bdfc0c9a272f464eea99936b236064ede6be8be761b661f832f0f30
 title: "TryGetDragSource"
 kind: api
 owners: [Inno.Editor.Interactions]

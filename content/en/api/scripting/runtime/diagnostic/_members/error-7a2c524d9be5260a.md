@@ -2,7 +2,7 @@
 uid: api.7a2c524d9be5260a775db7d82f5a903480b1b2a83a384b9a90cb06886c894845
 symbol: "scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.Diagnostic.Error(System.String,System.String,System.Nullable{InnoEngine.Diagnostics.DiagnosticLocation})"
 source: xml
-reviewed: 833c3897cff6e250e6d93b3cc8a2933e30d3e3680e1e8f330f1c32ece76b21ca
+reviewed: eb0a9abc7dcbb0a4829b2a5e6c7f1271a2099421a9b26f18fbed56ef3975dbb0
 title: "Error"
 kind: api
 owners: [Inno.Core.Diagnostics]

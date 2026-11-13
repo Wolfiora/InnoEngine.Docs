@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.b5a0be5b7be36bf3
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.IEditorPanelReloadState"
 source: xml
-reviewed: 8de0b7eca0db8bdf8172e585059f6109dd10e378ce445a182e32cc388a66401b
+reviewed: f6e87ab01bf0ad59ca62eea9f09b29df74bafa248a1c4407d60e314e3945cec2
 title: "IEditorPanelReloadState"
 kind: api
 owners: [Inno.Editor.Core]

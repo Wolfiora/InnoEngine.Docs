@@ -2,7 +2,7 @@
 uid: api.inno.scene.a261e179a8be25ca
 symbol: "engine:Inno.Scene:T:Inno.Scene.GameTagCatalog"
 source: xml
-reviewed: 56f288800e3aef27a87c761502fff249ca00ee417310f8b095b607b444a326a0
+reviewed: 84e7112b35f980a70dc3f4222f1ea0ad80d53338184940ca07e5e0c635718985
 title: "GameTagCatalog"
 kind: api
 owners: [Inno.Scene]

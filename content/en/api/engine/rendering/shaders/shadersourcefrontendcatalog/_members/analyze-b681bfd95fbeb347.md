@@ -2,7 +2,7 @@
 uid: api.b681bfd95fbeb3471b3f4c3a9dbb178fd31acd5dbd26736e01e5fb759a56a5fc
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceFrontendCatalog.Analyze(System.String,Inno.Rendering.Shaders.ShaderSourceRequest)"
 source: xml
-reviewed: 6a0565bccdbe9426b20a6feb1474812c3449323a4ad0706da728c8427f35d41f
+reviewed: 176c663807a3b00c7e7c1b2e7463abe459a7341f981b992ccf73b8c9da00e278
 title: "Analyze"
 kind: api
 owners: [Inno.Rendering.Shaders]

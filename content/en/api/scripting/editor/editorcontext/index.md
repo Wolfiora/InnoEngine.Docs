@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.c145833d557961e2
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorContext"
 source: xml
-reviewed: 14c65b47ca06eb49bac9b6365bdf5717445ba64b5e2e1c58853aa26a91a54fb4
+reviewed: fb44036895f375395151c3da9e9a775cd74a948a4a44e01b442487c07bcee15e
 title: "EditorContext"
 kind: api
 owners: [Inno.Editor.Core]

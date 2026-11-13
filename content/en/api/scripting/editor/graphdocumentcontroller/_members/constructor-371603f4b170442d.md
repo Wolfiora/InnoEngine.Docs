@@ -2,7 +2,7 @@
 uid: api.371603f4b170442d76f49a9578b55f3aa73935824c8321ab524d8c5e529f24bb
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphDocumentController.#ctor"
 source: xml
-reviewed: 4865d5b17509adbf40c1c31d769b83bcdd9f3739eb6888818bfd3248f179d3d2
+reviewed: d558fda02ba3d0caa49e866759bdfdfded059ee58931662ecc856a28b5a7084b
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph]

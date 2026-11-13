@@ -2,7 +2,7 @@
 uid: api.6f750ab4bb575c915848c3e5a34f0392e103e147340e7bd4cf15ee9f6d0f0d79
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: fe32b7deff3c31e4dccdfc036695016d574e36a9d2afae1aae2d7ec77bd58886
+reviewed: 01e9224d80be41966e05985b1463411ca2fa83c4067da7f4e787fe4fa7c26ce7
 title: "ExportAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

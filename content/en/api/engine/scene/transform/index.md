@@ -2,7 +2,7 @@
 uid: api.inno.scene.bca5da9533a89e7b
 symbol: "engine:Inno.Scene:T:Inno.Scene.Components.Transform"
 source: xml
-reviewed: 25104f370a42004cfddd5a9641216c6f81b0cef1ff0b9ec1d5d604ca769d0b2c
+reviewed: 3033e5135e11eca55edb7d24b6a5801d2d0f2c3805a34b051577b6cc325a2817
 title: "Transform"
 kind: api
 owners: [Inno.Scene]

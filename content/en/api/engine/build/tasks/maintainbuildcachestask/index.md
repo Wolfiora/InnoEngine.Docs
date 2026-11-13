@@ -2,7 +2,7 @@
 uid: api.inno.build.tasks.461c154fdc94dce2
 symbol: "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.MaintainBuildCachesTask"
 source: xml
-reviewed: 1d2b89ede5413d4b008b15c83f0fdf172b5971938ba818ef7a1d8810168d58a8
+reviewed: 476304e5c33d3838d01a4aada6dbbcacd4fd9d0a5afad9f74cfc484be7eb73aa
 title: "MaintainBuildCachesTask"
 kind: api
 owners: [Inno.Build.Tasks]

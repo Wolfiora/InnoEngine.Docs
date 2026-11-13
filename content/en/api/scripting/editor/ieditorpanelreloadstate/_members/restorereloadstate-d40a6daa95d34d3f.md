@@ -2,7 +2,7 @@
 uid: api.d40a6daa95d34d3f09048589700b087fe03171714c121154782ce0ce4cdd9368
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.IEditorPanelReloadState.RestoreReloadState(System.ReadOnlyMemory{System.Byte})"
 source: xml
-reviewed: b43ad8ecac5ee511b73f0a2c97dad741800a173899461c3840654b8c325ee9cc
+reviewed: 4fa0a956bd73dad882e4cc0a75a6c32aae02aea8a29412c72358c82df4a7805b
 title: "RestoreReloadState"
 kind: api
 owners: [Inno.Editor.Core]

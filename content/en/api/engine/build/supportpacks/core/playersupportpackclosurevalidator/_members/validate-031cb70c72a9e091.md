@@ -2,7 +2,7 @@
 uid: api.031cb70c72a9e091f83ba74e1cd38194d31e51d83e16dc3bc87f05d790499043
 symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackClosureValidator.Validate(System.String)"
 source: xml
-reviewed: d47b42c147bba02c28a4569a07e8ae6435f9551f6ce286c513c739dda9194e0c
+reviewed: d18504cb0c8e5edea5018432f45668637da7ae9b8858a8d884aa7e7a699315e9
 title: "Validate"
 kind: api
 owners: [Inno.Build.SupportPacks.Core]

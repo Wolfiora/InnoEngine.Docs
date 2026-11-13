@@ -2,7 +2,7 @@
 uid: api.a7607eacf5afe92ba4db26cb5061bf08770bb8ad051fa000b306170b8df7027a
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Identity.IdentityAllocator,Inno.Core.Diagnostics.DiagnosticHub,Inno.Core.Logging.LogRouter,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetSourceMount},System.String,Inno.Assets.Pipeline.AssetSourcePolicy,System.Boolean)"
 source: xml
-reviewed: a1b42f55850ea821c70708bc911271f9254f36caf426e8e1d0911c4f9a170cc8
+reviewed: 79ed0f4ce3f4dbfb2f6c552cee9a194bbfa34b4101aa2a7b33552939309732a4
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

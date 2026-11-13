@@ -2,7 +2,7 @@
 uid: api.inno.editor.settings.12a17d9cb96eea88
 symbol: "engine:Inno.Editor.Settings:T:Inno.Editor.Settings.ProjectSettingPathAttribute"
 source: xml
-reviewed: 6e1455142fbd3c55c210f58efbccc300355b5047c0e1df1b66301139ee8500fd
+reviewed: 1964af6ce45e336d7a0b6e2ec6d4803cd8477e4d69288ec490b37da7d74cf883
 title: "ProjectSettingPathAttribute"
 kind: api
 owners: [Inno.Editor.Settings]

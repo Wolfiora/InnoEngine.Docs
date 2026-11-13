@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.c94efc099e6b32fe
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.MaterialValueKind"
 source: xml
-reviewed: 053241fccad971909e9575f7ae02b5c62b5fa8e5bda6c4abf72e1af6cf7e68b9
+reviewed: f1eafd85343ff72e3f622cf4e613f9241f7f3aeba2067015cfcabfce32603a9f
 title: "MaterialValueKind"
 kind: api
 owners: [Inno.Rendering.Assets]

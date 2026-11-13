@@ -2,7 +2,7 @@
 uid: api.inno.rendering.1fd69a21bfc743da
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderVertexSemantic"
 source: xml
-reviewed: 9756ad07e251498d1d04677b4f7706d26f7ca639ad67a7bc3e5ddadcc2178156
+reviewed: 44ebee2cf879b4c8e1b162f4bf37e3e6d01bd7a1235db2caad9dbcf7975f3502
 title: "RenderVertexSemantic"
 kind: api
 owners: [Inno.Rendering]

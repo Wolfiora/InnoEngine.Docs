@@ -2,7 +2,7 @@
 uid: api.1533e60f82a5ffbc29a43410ca3de865f463ec72f39e439babd84af5d652359f
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetClickableTextSize(System.String,System.Numerics.Vector2)"
 source: xml
-reviewed: bbfe903aa402cb0d17ebf6504174fcb2b240254292d04240f709e6dbacbe3b1f
+reviewed: d60b85b1cc31fff874f0dabde0b12104dfbccbc57a1a071f6d4692421370198b
 title: "GetClickableTextSize"
 kind: api
 owners: [Inno.Editor.ImGui]

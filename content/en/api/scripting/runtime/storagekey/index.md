@@ -2,7 +2,7 @@
 uid: api.inno.storage.runtime-script.e13eb6775557f7cc
 symbol: "scripting:Inno.Storage:T:InnoEngine.Storage.StorageKey"
 source: xml
-reviewed: 040563a492fc110684f94c4f7abc689f37f128f04ad9eb75bbb59d3a3a7860b9
+reviewed: 21343df8f1c56a193dfc687becd5abb8fc7cce301f1efb3eedf737dd725f051f
 title: "StorageKey"
 kind: api
 owners: [Inno.Storage]

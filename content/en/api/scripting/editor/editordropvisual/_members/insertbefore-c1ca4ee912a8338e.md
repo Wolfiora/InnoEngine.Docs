@@ -2,7 +2,7 @@
 uid: api.c1ca4ee912a8338eeba5cb1f2f5d4391f46f5b0597f79a40ca89f3fa5263c05f
 symbol: "scripting:Inno.Editor.Interactions:F:InnoEditor.Interactions.EditorDropVisual.InsertBefore"
 source: xml
-reviewed: a92812f9a187d0b1775492ff8add6b300a1d2a7e3aeabe7797799c266cabaf11
+reviewed: 1be554e292b5b54bf06b54f332f5f59714d0256742e5926fd847acd461b32576
 title: "InsertBefore"
 kind: api
 owners: [Inno.Editor.Interactions]

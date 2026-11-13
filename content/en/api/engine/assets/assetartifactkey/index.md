@@ -2,7 +2,7 @@
 uid: api.inno.assets.fe5cc4e99d598cc3
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetArtifactKey"
 source: xml
-reviewed: d75d3f4e668d3423db51d6af98286ed13dd628566561d5a39ee41683accbef9e
+reviewed: cb9a0022aa3173db4c205891eac87fa06cd91d2e46e7851a074d25523065b6c2
 title: "AssetArtifactKey"
 kind: api
 owners: [Inno.Assets]

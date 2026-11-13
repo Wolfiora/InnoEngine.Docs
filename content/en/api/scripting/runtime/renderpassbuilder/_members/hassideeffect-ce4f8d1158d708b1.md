@@ -2,7 +2,7 @@
 uid: api.ce4f8d1158d708b1208d9f964230017392a3aa4cdca06c00806bd7407f605b7e
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.HasSideEffect"
 source: xml
-reviewed: bbeb71c877787b07f58b309109fad41b4d2eac4b5c21d0f0abf91d5558172918
+reviewed: 349fae0d0b113f123fb32695ea9355faa0b1e86f66c12ae02254f979faf505f1
 title: "HasSideEffect"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.c874fe92dd888ed8
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderCompiler"
 source: xml
-reviewed: 5d6972851936cfc3d8154d3e4a23a7ce3dc95282e9150680df8a0398bc77ebe6
+reviewed: 6b4245333e4ed2a73ec27672a3b37ff366e5f1d2ac47f7b6eccde121cc29c3cc
 title: "ShaderCompiler"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

@@ -2,7 +2,7 @@
 uid: api.f9c990100c43d6106c58ca1e8eae919c4e27443a291ddf78b61c75093c49cd8e
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.LoadStorage(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)"
 source: xml
-reviewed: f2596918d2440c3b9d527670abe04ef72d2ee1662f2747350fa26b3634576da4
+reviewed: e1dac23e173e979980f6b0b67706ea0c30c89d3e18aed0ba3b6dfb1fca8ed40e
 title: "LoadStorage"
 kind: api
 owners: [Inno.Rendering.Shaders]

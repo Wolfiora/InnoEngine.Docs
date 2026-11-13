@@ -2,7 +2,7 @@
 uid: api.893b5cf218531bcfadbfa0b1c7b9c838f93811c4521d77eba7b20cf36ac59813
 symbol: "engine:Inno.Assets:P:Inno.Assets.AssetArtifactKey.isEmpty"
 source: xml
-reviewed: 6c2c5cb6fcbe2b80eb51cf6d4c0cedab7d24db27e869b2102dab8faa3f4c043c
+reviewed: decb1d45e339e393050598008d8960cdd484ee88a6160171b1b09ddacf48fc22
 title: "isEmpty"
 kind: api
 owners: [Inno.Assets]

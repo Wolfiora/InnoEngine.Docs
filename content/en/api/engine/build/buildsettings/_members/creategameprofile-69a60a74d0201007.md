@@ -2,7 +2,7 @@
 uid: api.69a60a74d020100786842c93e4a8c5b58bfeb6fb847044819c7f6b8df68e5247
 symbol: "engine:Inno.Build:M:Inno.Build.BuildSettings.CreateGameProfile(Inno.Core.Settings.ProjectId)"
 source: xml
-reviewed: b67305047af01956d9b79bfdcf43f2360cd65ddef0ef88140b9e62652bb90968
+reviewed: 6b85964dbf6b237822b56692561ef3a1132711602f5164457c9e285d656edb72
 title: "CreateGameProfile"
 kind: api
 owners: [Inno.Build]

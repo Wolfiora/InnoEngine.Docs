@@ -2,7 +2,7 @@
 uid: api.fd6e840859a631340278ffdc468f6d92a24707b945a2cb486451aa181cc7492e
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.TryResolveNativeToolchain(System.String,Inno.Build.Toolchains.INativeToolchainProvider@)"
 source: xml
-reviewed: 95167cb27b7715f04df2f8e3dc1a4a5f91b580825fab481ab15e50cf180c1042
+reviewed: cc7140c172650a2c1a6a8a0d8367a8773372e614ffffd657456c445db2f5043a
 title: "TryResolveNativeToolchain"
 kind: api
 owners: [Inno.Build.Composition]

@@ -2,7 +2,7 @@
 uid: api.cd7f7a42bdd044c39ab804b23d0eeb8719d935d6bffae8ae0c8290e752bd7668
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrInstruction.inputName"
 source: xml
-reviewed: ebf15e5398bf4af3c0e69e8afa549b58ffba365934d2bd4f5727e6580415b53c
+reviewed: d687c2f5fd4976f6dc135dddef8389101be0f11470abb989c8cd112376418110
 title: "inputName"
 kind: api
 owners: [Inno.Rendering.Shaders]

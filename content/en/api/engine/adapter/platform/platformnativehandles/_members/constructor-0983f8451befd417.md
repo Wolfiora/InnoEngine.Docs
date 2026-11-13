@@ -2,7 +2,7 @@
 uid: api.0983f8451befd417e15d6b7a69ad64ce6a8b5f457d869ac6ffafd7b314ff84ba
 symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandles.#ctor(System.IntPtr,System.IntPtr,Inno.Adapter.Platform.PlatformNativeHandleId)"
 source: xml
-reviewed: b4c5b575e132cef61fb2747f6fff29c6d9db8d5f45499c5551f9a0b2925e5695
+reviewed: 2ca3ac73dbc04d5f7b9512c62b45aa78a8ea08b73f5d0d111d0033425bb78500
 title: "Constructor"
 kind: api
 owners: [Inno.Adapter.Platform]

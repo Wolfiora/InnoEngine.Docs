@@ -2,7 +2,7 @@
 uid: api.3d059adcc67bc7772140b4066f6f9178783424021e890489a04ff3901aeab50c
 symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.CompileAuthoringGenerationAsync(System.IProgress{Inno.Scripting.Compiler.ScriptCompilationProgress},System.Threading.CancellationToken,Inno.Assets.Pipeline.IAssetSourceSnapshot)"
 source: xml
-reviewed: cd9796055a17c5f3d5d1031899086a611156607d505692f5cfa7d95d48dbb150
+reviewed: 4d97a21a78c127f8d2077149af0d1e9ec29818fabf3422204c542e0e0da718b8
 title: "CompileAuthoringGenerationAsync"
 kind: api
 owners: [Inno.Scripting.Compiler]

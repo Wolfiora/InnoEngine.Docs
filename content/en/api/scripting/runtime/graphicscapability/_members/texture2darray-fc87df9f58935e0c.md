@@ -2,7 +2,7 @@
 uid: api.fc87df9f58935e0c34f053a03856b46c2839bc089fe08c5d500fbed263e475d3
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.Texture2DArray"
 source: xml
-reviewed: 50de6decd6c53c0bae7f9330224a45f88f9dfb07fa399497061aba892a4cd1a8
+reviewed: 44f625b5ced938c7ec98853eb901b7efb0bf13ae3113b6a9c9b2a935f368f11b
 title: "Texture2DArray"
 kind: api
 owners: [Inno.Rendering]

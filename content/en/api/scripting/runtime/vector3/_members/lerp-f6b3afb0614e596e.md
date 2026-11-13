@@ -2,7 +2,7 @@
 uid: api.f6b3afb0614e596ebf25e4b7e1dd8cf611f2edea5ba11e99d726863cc1995d42
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Lerp(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,System.Single)"
 source: xml
-reviewed: fc023a65bf2e21df53e6a94a39cd083044108207d7b05294bbafdbe61733b79b
+reviewed: 72fe38959e9c4cbc80c8f1dea8be01159269fa6a2c7f570f199338c1048b3f00
 title: "Lerp"
 kind: api
 owners: [Inno.Core.Mathematics]

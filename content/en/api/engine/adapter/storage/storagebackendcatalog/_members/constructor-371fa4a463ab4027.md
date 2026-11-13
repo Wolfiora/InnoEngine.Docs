@@ -2,7 +2,7 @@
 uid: api.371fa4a463ab40276da120db244bde9c1b746394b3b8bb2b25cd8abf2941f781
 symbol: "engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.StorageBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Storage.StorageBackendProvider})"
 source: xml
-reviewed: 9bdb851068994eca5f4da88d5a66e819f82da11ea6ea0073a31c53b58184b3f3
+reviewed: 302661a6b7fd5f9e2d38c7781191eda1363c61b6877e6a5f6f573f5834385d0c
 title: "Constructor"
 kind: api
 owners: [Inno.Adapter.Storage]

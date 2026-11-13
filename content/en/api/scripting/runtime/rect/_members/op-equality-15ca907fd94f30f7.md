@@ -2,7 +2,7 @@
 uid: api.15ca907fd94f30f7cd01276f21cd792eca723b62bd97c8e49e31047a1198e392
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.op_Equality(InnoEngine.Mathematics.Rect,InnoEngine.Mathematics.Rect)"
 source: xml
-reviewed: 707d4dda51c0f011dba187e5c36da68b853d1702914d849fe30516d067a3d03c
+reviewed: 1607ead9eb8c8015cbfcfc0d767f82236019985bc5d464fca9215f8b8d2c7d1b
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Mathematics]

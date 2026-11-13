@@ -2,7 +2,7 @@
 uid: api.886f57e22cd6def5cfb83c9e04232a08433cb71f067654ecce4af6272ccdd8c9
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDrop.sourceType"
 source: xml
-reviewed: a0e25b9a85f46969b7d4546880bb3f893fae0b04097318fb5b1409b972c07ab2
+reviewed: 132b74cdbe707527252253bb2c21a36a5832a0a54dea98fa26e2ef98dc965dee
 title: "sourceType"
 kind: api
 owners: [Inno.Editor.Interactions]

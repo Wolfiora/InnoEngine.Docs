@@ -2,7 +2,7 @@
 uid: api.adf8b7d840efd8b507cf2118cafb9f6e45fd84122ae450ea9d45fe3936948253
 symbol: "engine:Inno.Scene:M:Inno.Scene.EngineAssetContent.#ctor(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{Inno.Assets.AssetDependency})"
 source: xml
-reviewed: d7348c55ae22c309579a09f3b29a3f8c0b3b569a1dcb34c55a132aa97f866f30
+reviewed: d7c7fae823334eaa2a87c9f5b55e0814ec2628f1ada8513494a0db02194f2f99
 title: "Constructor"
 kind: api
 owners: [Inno.Scene]

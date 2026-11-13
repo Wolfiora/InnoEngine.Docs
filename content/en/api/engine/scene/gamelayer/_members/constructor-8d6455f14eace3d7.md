@@ -2,7 +2,7 @@
 uid: api.8d6455f14eace3d754714faaa25822094856be3e4d12df5e94175156bb275185
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayer.#ctor(System.Int32)"
 source: xml
-reviewed: ec39088a2480e4747884d69a49b88c256f0e5e399fea8ba3fe3daf850bc1f7f6
+reviewed: 40f9d6cfb046c24e29916d74ed757c32b6704f6745939cc318fa942563aea9fd
 title: "Constructor"
 kind: api
 owners: [Inno.Scene]

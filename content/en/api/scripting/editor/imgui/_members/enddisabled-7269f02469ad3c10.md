@@ -2,7 +2,7 @@
 uid: api.7269f02469ad3c10b798fddc1a26e02286743fdf9c040d34b9c2318b0d04c03b
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndDisabled"
 source: xml
-reviewed: 98485723559f91946228d14096f409e9dd93aacaebefdc3ff109853e3ed23073
+reviewed: 48c31c57f27720b5d2827fb4a84af9e9dc8dc35678d247df698f219db72565a8
 title: "EndDisabled"
 kind: api
 owners: [Inno.Editor.ImGui]

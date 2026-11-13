@@ -2,7 +2,7 @@
 uid: api.5f753f1b4f6e3dd59c23ee94f82bf030f3aa19d29716ed778f4e8924112b02d1
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPanelExtension.Draw(Inno.Editor.Core.EditorContext)"
 source: xml
-reviewed: bc20ab5c02db0639675f0a00c25d1fe70fd979f1add02e1abcf856ff8031df75
+reviewed: a0c6e50dad5b80a241837fc8c0a53b31b67defe89d9df2a01c91e513d4ff8a28
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Interactions]

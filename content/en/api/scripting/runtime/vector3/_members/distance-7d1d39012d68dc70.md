@@ -2,7 +2,7 @@
 uid: api.7d1d39012d68dc70925d0296b4557a7912b3090b68d1620fd690d7850f1f5a9b
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Distance(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: f228fe7e632523742095b7e8f7057e8c5b239daeda6a2b930fdffacb6faa62e0
+reviewed: 96f7ba9c3cd7f8bb17aa20c9857099f2f974815c03e495e93c992fe1e3b158fc
 title: "Distance"
 kind: api
 owners: [Inno.Core.Mathematics]

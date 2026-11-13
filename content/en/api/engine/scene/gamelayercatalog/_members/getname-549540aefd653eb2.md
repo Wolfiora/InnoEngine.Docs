@@ -2,7 +2,7 @@
 uid: api.549540aefd653eb22a4ef5a1de6ee77b431ed4261154d6713aa5403400a055db
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.GetName(Inno.Scene.Layers.GameLayer)"
 source: xml
-reviewed: 00fbcc69805d85cf0c24a7e91efefb20558741e06230de33318e89e24ee97bd4
+reviewed: e11bb0386e91e1e64889be33b8026d8b76eb8b23d7907cbd60df84aa552791d8
 title: "GetName"
 kind: api
 owners: [Inno.Scene]

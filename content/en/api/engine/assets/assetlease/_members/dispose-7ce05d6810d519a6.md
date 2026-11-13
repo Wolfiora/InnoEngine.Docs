@@ -2,7 +2,7 @@
 uid: api.7ce05d6810d519a62a6e01c8b5a098d68372d7d23e9cbea3205596da7197ec17
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetLease\u00601.Dispose"
 source: xml
-reviewed: 5e9699c515d59807c57d1af6928ce74abd7e4c1f37fab9bf46eb1c42fc865bd0
+reviewed: c2dbc2d7e0c81a497bfae313b32e5517d1b05430517e8f9c3acfe1079f44800a
 title: "Dispose"
 kind: api
 owners: [Inno.Assets]

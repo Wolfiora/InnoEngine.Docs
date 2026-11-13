@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.runtime-script.0cc1ee8c0bbf1608
 symbol: "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializedProperty"
 source: xml
-reviewed: 82b35be14a5047126a3816b784af2e3f205dde2e5c958c955ad5d0d6fc6e8848
+reviewed: 4b68575cb601c94f364c49bb52e82e90ec50371b355e03965c3b2b340ee52afb
 title: "SerializedProperty"
 kind: api
 owners: [Inno.Core.Serialization]

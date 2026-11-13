@@ -2,7 +2,7 @@
 uid: api.6154b444a35f3e21a51f9f10dd1564c1d12f60bc17f008438ea0cb061825048d
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.RenderTextureReadbackHandle)"
 source: xml
-reviewed: b3ed8845897365b2dc0707b20f8bb10e2d0fb8dc51a20cda62b0eca25e92d4dd
+reviewed: d191f2685cfed2064c2af1282701a2fb5490d02cd9954e08f3a1cab052369bd5
 title: "GetHandleIdentity"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.d27fc5a8e61fee965950788bf6f0b3eb78aa58851c1551a712a50e970b976e48
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Construct(InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEditor.Rendering.Shaders.ShaderIrValue[])"
 source: xml
-reviewed: 0ea463002b63e913f48b7c33034f786444e00b8152846228907f1708fb77c08c
+reviewed: 6dff8f56170ee22f2b57270603a4138544f5c211fc38d5a6a136ed8a426c5f6b
 title: "Construct"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.79a98f28e1998b49
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorUiInput"
 source: xml
-reviewed: 6ab6fc1b65bb65ac5a8f770b47ef980b99ad99611657fd630eee7eab2062eb1a
+reviewed: 676d0f96f32bfba8258d84b52fbc998ab68f1344d1f3ee90d6d0ce2187eedc5c
 title: "EditorUiInput"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.ddfa9a2253b573b40aa92d5b99b89e6d1aa89efc7cf03d9d9c4785241727fc8f
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.Drop(InnoEngine.Core.RuntimeIdentity,InnoEditor.Interactions.EditorDropPlacement)"
 source: xml
-reviewed: a2396a8f2de7805df52a77d9ff8c7a24e1004633d37f3dcbda4b19a2046db753
+reviewed: ff668665cf40656cc85a0f04b17239dd8c38ba72349b03e80d2dad7248e9679e
 title: "Drop"
 kind: api
 owners: [Inno.Editor.Interactions]

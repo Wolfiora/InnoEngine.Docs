@@ -2,7 +2,7 @@
 uid: api.dde79917aacb021fd7e32fb722a547511bf35ecaf9f84dcc9e636924944c310d
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodePresentation.ToString"
 source: xml
-reviewed: 75891c21c109329c79ebeec2ecf2c645f278f5e483db9dfa752f51928dbf4c96
+reviewed: 669c2b1512778e616715531ae88a9b7b668b5ef605823ec031c105089b716bcb
 title: "ToString"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

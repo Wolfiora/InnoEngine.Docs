@@ -2,7 +2,7 @@
 uid: api.aaa18adabfe3f492f063381c2d0d135bbe1496f75554ffe8e8a83c8a40017521
 symbol: "scripting:Inno.Editor.Annotations:P:InnoEditor.Annotations.HelpBoxAttribute.conditionMember"
 source: xml
-reviewed: a8347b9b43f738f8816d35a28460432d893cb7c2c86be18c79802b31b891abc7
+reviewed: e22aad36ee71d973700279784d60ef1462bf06a9afab94c142777e7a75f996f9
 title: "conditionMember"
 kind: api
 owners: [Inno.Editor.Annotations]

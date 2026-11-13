@@ -2,7 +2,7 @@
 uid: api.6401c7ffeb41a9b6c27a1ec1c43a69119a6784a35632c1b5e5c7e8d1b7f3df2c
 symbol: "scripting:Inno.Core.Diagnostics:P:InnoEngine.Diagnostics.Diagnostic.location"
 source: xml
-reviewed: 1ed1b58ed0629fb5673980182382f2b329095e35b2ebc68f39351daa5046af99
+reviewed: d5f86f8b04ba1603e1ea199edcaf68b7ea972e91b9ccbebce34aafe286851060
 title: "location"
 kind: api
 owners: [Inno.Core.Diagnostics]

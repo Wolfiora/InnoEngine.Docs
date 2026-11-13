@@ -2,7 +2,7 @@
 uid: api.3f97415fe1967e308201a69fd12828a72084edb602ea0d246e5a88fef2a462e3
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.usesRuntimeImports"
 source: xml
-reviewed: 65253c0db2fbf5d55d211b21d624570d00a8f25705cc213ba47000eaf630b168
+reviewed: 5cdf63bc2f61e0c3f0ec7526665562c3113eb3c1b8897b00ebac8c5ce3817f0d
 title: "usesRuntimeImports"
 kind: api
 owners: [Inno.Build.Toolchains]

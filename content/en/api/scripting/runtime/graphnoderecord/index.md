@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.3b5335a55bbb3828
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphNodeRecord"
 source: xml
-reviewed: 0d809f7d80df1024bcfcdf784b4f6e272f4a405c1119cedd282f4c3709e8aeb8
+reviewed: 816d09a64629a621a16de7c507c52a9ab56e6d0e198f7ca4d24eaa9cdf5e835a
 title: "GraphNodeRecord"
 kind: api
 owners: [Inno.Core.Graphs]

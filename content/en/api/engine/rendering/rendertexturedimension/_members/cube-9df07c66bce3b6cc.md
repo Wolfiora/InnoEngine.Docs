@@ -2,7 +2,7 @@
 uid: api.9df07c66bce3b6cce7bbcebebeaf380743c994d2eda6c034a8ef3f18ab236bf2
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderTextureDimension.Cube"
 source: xml
-reviewed: c467f4a6f61ed1aacff101fdbe936bd93501bf64d3aa918e75e33ff7c16d6f48
+reviewed: 36eaa29d6d2c17201066acffd3b8e0e4c860ed3e15b8643456de51d036b569cd
 title: "Cube"
 kind: api
 owners: [Inno.Rendering]

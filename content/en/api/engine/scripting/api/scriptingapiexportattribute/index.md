@@ -2,7 +2,7 @@
 uid: api.inno.scripting.api.c08321ce7d4a65d3
 symbol: "engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingApiExportAttribute"
 source: xml
-reviewed: b0ede412679aed30a9380830a2b0434a03d9f2158f4fa8fb63347ea0bfc2d016
+reviewed: 443e6addfa51ba356775f356b1e9af79f8094d583af74d29e3cf0f84b7998138
 title: "ScriptingApiExportAttribute"
 kind: api
 owners: [Inno.Scripting.Api]

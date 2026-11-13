@@ -2,7 +2,7 @@
 uid: api.inno.scene.2dd200aed3d3c74c
 symbol: "engine:Inno.Scene:T:Inno.Scene.AllowMultipleSystemAttribute"
 source: xml
-reviewed: eefa82fe6745ee1cb3514fb7fef06deccab55bcc8f711076383fa91c5aac12ed
+reviewed: fee93785ef870e7c3affa9b8fb62825144c7712e0006d95037552bfd37989da4
 title: "AllowMultipleSystemAttribute"
 kind: api
 owners: [Inno.Scene]

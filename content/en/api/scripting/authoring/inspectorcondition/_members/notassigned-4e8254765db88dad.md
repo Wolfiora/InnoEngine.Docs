@@ -2,7 +2,7 @@
 uid: api.4e8254765db88dad6de10065dee10204a7fc182311a19f5a0acb477503e977e1
 symbol: "scripting:Inno.Editor.Annotations:F:InnoEditor.Annotations.InspectorCondition.NotAssigned"
 source: xml
-reviewed: fd14b86a2b2300be9bbfbb339e6acacfd84ece4e473bb9d45ba91771ea262aa2
+reviewed: 9b28ae56f917735a79dbd71c9981419cf5625b36cf8af1315dfadc196bed7f67
 title: "NotAssigned"
 kind: api
 owners: [Inno.Editor.Annotations]

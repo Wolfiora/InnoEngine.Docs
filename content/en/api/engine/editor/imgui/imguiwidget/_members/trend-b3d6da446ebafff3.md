@@ -2,7 +2,7 @@
 uid: api.b3d6da446ebafff3192e2b3d0e26fba38a6822cef7b5518f12647c7aa41fc020
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.Trend(System.String,System.ReadOnlySpan{System.Single},System.Int32)"
 source: xml
-reviewed: e2ce6b05828cb91df7204304a20da765a9a15a298d87ac1efa8848332970bb42
+reviewed: 67c3e87dd3e79817d29749a16213ef62e2012a705420bdc81e3f73b230a43617
 title: "Trend"
 kind: api
 owners: [Inno.Editor.ImGui]

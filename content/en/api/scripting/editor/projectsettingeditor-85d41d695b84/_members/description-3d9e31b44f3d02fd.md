@@ -2,7 +2,7 @@
 uid: api.3d9e31b44f3d02fd202c363382d10d5755da01ed45636dbd8e8a2085ec1a0034
 symbol: "scripting:Inno.Editor.Settings:P:InnoEditor.Settings.ProjectSettingEditor.description"
 source: xml
-reviewed: 750ad1773b083857f6715d26a4f10a95887c52a06bed0e2a91f26d29c869ade6
+reviewed: 2ab33834f46410f6be829a7146c89654e494cf23ed46ffb7880ebd2f96c17240
 title: "description"
 kind: api
 owners: [Inno.Editor.Settings]

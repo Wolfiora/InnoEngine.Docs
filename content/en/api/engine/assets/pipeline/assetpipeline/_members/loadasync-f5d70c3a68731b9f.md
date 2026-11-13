@@ -2,7 +2,7 @@
 uid: api.f5d70c3a68731b9f552cb722a41d95b41549eddfc3c5b5a35527ace543684f82
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.LoadAsync\u0060\u00601(Inno.Assets.AssetPath,System.Threading.CancellationToken)"
 source: xml
-reviewed: 376fcb3513d024c9eac51335b6db68c0fc1e52933d0e27f355faf0f1a2faf1d6
+reviewed: f4a88fed522e1e1bff9f785e354e3528b3747a398969b1f80163bc95ac0ccc97
 title: "LoadAsync"
 kind: api
 owners: [Inno.Assets.Pipeline]

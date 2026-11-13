@@ -2,7 +2,7 @@
 uid: api.inno.adapter.ui.6293e0c692c4dfe5
 symbol: "engine:Inno.Adapter.UI:T:Inno.Adapter.UI.UiBackendProvider"
 source: xml
-reviewed: 10f6a9ddff603df60602e7285b6c5ccb5b264aa16c3b1e0cb4d718c18ab266d5
+reviewed: 29cfa33f54d59939edf38c6e4cb607db651b640bcf7fe84ac7e0f179f2619b20
 title: "UiBackendProvider"
 kind: api
 owners: [Inno.Adapter.UI]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.8c0a94ffdd0086d4
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderSourceBundle"
 source: xml
-reviewed: 17a0b700e140f71f4c10a1c7d59a83f54814b6237ce952c48e0f49d43d1ea116
+reviewed: 2f2363b9c2f968d0c03cf7c6a9292db90ebcbb0a1b8b4bbc833d965379fc4a1e
 title: "ShaderSourceBundle"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

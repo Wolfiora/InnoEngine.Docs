@@ -2,7 +2,7 @@
 uid: api.8b347baafb053304aa218ac10650bc7f3e9b1156091748a6ab090448ec4822a5
 symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.Event.HandleInHub"
 source: xml
-reviewed: 9698ea0047fedfaa1c486f935b69c03b89bc568af1b5ef73dfd125bc2661ef6d
+reviewed: 9be787ee5b2f3c0c542edb40e3f222b36c26563bc28c65b689db7d9f0eb737d8
 title: "HandleInHub"
 kind: api
 owners: [Inno.Core.Events]

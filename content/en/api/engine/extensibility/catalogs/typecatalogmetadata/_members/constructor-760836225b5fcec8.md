@@ -2,7 +2,7 @@
 uid: api.760836225b5fcec82448dd34677ee1cc7072e708f31ba5e43ef77c1c48efcac1
 symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.TypeCatalogMetadata.#ctor(System.Type,System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.ValueTuple{System.String,System.Type}})"
 source: xml
-reviewed: 4dba1ca56fbc3fa43c826a7f876d0ce0b311b3a4721fa4eb722e1aa25272382d
+reviewed: f08f20a29b9a94847e06c025083d8209871aba797775e91cbf21aa096d05cb6d
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

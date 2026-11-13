@@ -2,7 +2,7 @@
 uid: api.c17a1ce639b15c34ef7b00a68a44a11a3d9678ff365b3966eba33a670eaff7ea
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawContext.DrawProperties"
 source: xml
-reviewed: 876c649c441a3aeceec9d8c42ec8fda092c78e6e06009196f3c00912f096aa3d
+reviewed: 163725a73045e4968c2edcdc9acee7826c16fdc7f7e4843a94442de55efc33f9
 title: "DrawProperties"
 kind: api
 owners: [Inno.Editor.Inspection]

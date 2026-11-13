@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.b2943ce188a12723
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationPropertyRestoreMode"
 source: xml
-reviewed: 50a12132518f195ea81d1351a76e6ee865e5afe736d01a2d21e2c955e9301fd1
+reviewed: d134f49842a97b6b608951fe775d008955b0c5d53195cb24ed72fbeec92b0705
 title: "SerializationPropertyRestoreMode"
 kind: api
 owners: [Inno.Core.Serialization]

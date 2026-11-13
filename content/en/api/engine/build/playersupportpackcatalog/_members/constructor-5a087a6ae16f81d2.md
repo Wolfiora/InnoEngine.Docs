@@ -2,7 +2,7 @@
 uid: api.5a087a6ae16f81d2db440c9ebd616837b11b86a7324097603c7e41b02ed2b13b
 symbol: "engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.#ctor(System.String)"
 source: xml
-reviewed: 68852130659034698c5168a4b95e2e500526a5641e6101b69bbd787250827a9c
+reviewed: 949762a2550bb42e3415427ff547e4ded042da715e458ee6488a56a010391875
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

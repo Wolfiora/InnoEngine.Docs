@@ -9,10 +9,6 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## BrowserWasm32
-
-[Browse BrowserWasm32](browserwasm32/index.md).
-
 ## IStorageBackendFactory
 
 - [IStorageBackendFactory](istoragebackendfactory/index.md)

@@ -2,7 +2,7 @@
 uid: api.fa1e2deacb0a63b716bfc14fb39b9d2ec20d4407f1e2a350ba736736d8a6a943
 symbol: "scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.Equals(System.Object)"
 source: xml
-reviewed: e624b536d60fe99986455192bfed5cd82b0c4fdc818831d436a001da244637af
+reviewed: b06e05bace4eeaf689fd87c09b53bfed99e3ffa3efe10b083a3de4af7beeaf61
 title: "Equals"
 kind: api
 owners: [Inno.Core.Identity]

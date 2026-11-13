@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.7997dcadb9640e98
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphSerializedValue"
 source: xml
-reviewed: 6d8bcda837b17dc6cf49b18ad7fffb68471cb6bdee03e153f8ae87b8fde3e6c7
+reviewed: fa780635e44ac3631531432f3111dc63ad405db20076e476075b041910741bc7
 title: "GraphSerializedValue"
 kind: api
 owners: [Inno.Core.Graphs]

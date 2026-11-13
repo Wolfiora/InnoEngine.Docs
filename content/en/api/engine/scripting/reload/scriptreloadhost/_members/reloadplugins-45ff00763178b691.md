@@ -2,7 +2,7 @@
 uid: api.45ff00763178b69180da0a43a624307a8282398aa597fa86dd97eed23e0fa1eb
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.ReloadPlugins"
 source: xml
-reviewed: 30ae9ce46f59bf09e2640bd112548ffd2669d160239d15d4fae1766a64d94a0b
+reviewed: ea2a9fb769e9b07c2ba065730a09af8abc83fb4e1fbb2003b72f648d1c239564
 title: "ReloadPlugins"
 kind: api
 owners: [Inno.Scripting.Reload]

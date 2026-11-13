@@ -2,7 +2,7 @@
 uid: api.inno.core.collections.84ed5bf6909ff544
 symbol: "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectStore\u00601"
 source: xml
-reviewed: b7f6b07b8db6b2b6792300c4c33b132fef6d658d323fb267b1660aeca86d3ecd
+reviewed: 47410d7c4bc706f5e7aa66fb0876c256f1fda596872c29d0beccf94941c56ca7
 title: "IndexedObjectStore"
 kind: api
 owners: [Inno.Core.Collections]

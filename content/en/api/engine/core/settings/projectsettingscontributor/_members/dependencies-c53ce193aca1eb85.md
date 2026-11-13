@@ -2,7 +2,7 @@
 uid: api.c53ce193aca1eb85096b7c88ba54a13f791b9412543228a7f7309a153b1d1077
 symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingsContributor.dependencies"
 source: xml
-reviewed: 760802fbc0b8c2614a2cd3e4f8a28306447d41bf5e11990caed98c05b35181d8
+reviewed: d1cc5b0d1d8ae926dfd27e8711fbd245c18ed606d92309ba79157913577de2e4
 title: "dependencies"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.audio.f90ed3527b4ebc22
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioDevice.DeviceHandleIdentity"
 source: xml
-reviewed: 819361e95a3b742e4013d280375889d463d89760990fe8c8a908860d2dbfda64
+reviewed: 969641dcc259fd25f5ba9ad54b12d9e07fa4562892f4fb7eb064c6db3c6387ac
 title: "DeviceHandleIdentity"
 kind: api
 owners: [Inno.Audio]

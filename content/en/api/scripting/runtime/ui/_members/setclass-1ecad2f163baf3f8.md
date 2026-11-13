@@ -2,7 +2,7 @@
 uid: api.1ecad2f163baf3f8eed074991dd37423136fc17c1c985e53fd9c84af76021f0e
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.SetClass(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle,System.String,System.String,System.Boolean)"
 source: xml
-reviewed: 07ca1fede676680ebd6500e35f8f0317c402ac05e0b3ccf4be3935af98e13b94
+reviewed: c77f27dce261044a01f2e0c938d9d174a8899a1ccca2cc396192ffd24110f932
 title: "SetClass"
 kind: api
 owners: [Inno.UI]

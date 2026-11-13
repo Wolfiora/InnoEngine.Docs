@@ -2,7 +2,7 @@
 uid: api.bcd4f681b1c4c23668d2491e068a1ba14fa5fc5ffbab9fd79f2ab130a6d9d90e
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.GetProperties(InnoEngine.Serialization.ISerializable)"
 source: xml
-reviewed: 00ee8cc8443526afee7502053bd792858e38d1c7e6c5b3542a69dcc6de1320ef
+reviewed: bc5d646295f0380e7f08c06718b07a8d01a964ad8b3f13eefb2f945b1631e3f6
 title: "GetProperties"
 kind: api
 owners: [Inno.Core.Serialization]

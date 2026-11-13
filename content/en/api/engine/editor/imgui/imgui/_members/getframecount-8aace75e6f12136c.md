@@ -2,7 +2,7 @@
 uid: api.8aace75e6f12136cecf9583dde5572ddb27bf2cfb9c385a9d76a74b889d80c46
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetFrameCount"
 source: xml
-reviewed: 06a5916b0801c52fa5d8136bbe895eca70e2e8b373ab19fb26991beac8a931f0
+reviewed: 3d485baed89e7485aea5a2416cdce1fe8ed55e3192dd719da1acf0cad299a3cd
 title: "GetFrameCount"
 kind: api
 owners: [Inno.Editor.ImGui]

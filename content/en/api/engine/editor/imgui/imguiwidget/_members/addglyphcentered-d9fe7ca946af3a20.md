@@ -2,7 +2,7 @@
 uid: api.d9fe7ca946af3a200631ef86195cb199a398f5fb64e9847eaa2724e4d4d9ced2
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.AddGlyphCentered(System.Single,System.String,System.Numerics.Vector2,System.UInt32)"
 source: xml
-reviewed: a943f6d00209bba579fe933f981719f18ecd0b47d7418e5e6124c729b7fa98bb
+reviewed: 0d0300873b5ca2dcf04a51cc19887705b4dec1412f11cd3ad566ec61f5f6a333
 title: "AddGlyphCentered"
 kind: api
 owners: [Inno.Editor.ImGui]

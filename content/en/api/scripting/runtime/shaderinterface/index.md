@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.d16de35c796ead21
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.ShaderInterface"
 source: xml
-reviewed: 0a0f03f298e3fa140f7d7cb1df3e742667639b075e49bf6841967af8052dc700
+reviewed: 4f49e34249d2cf0dd3f3fc9d1971274f066d1a98b926c23a2cc5cb9e7ffd842d
 title: "ShaderInterface"
 kind: api
 owners: [Inno.Rendering]

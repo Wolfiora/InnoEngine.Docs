@@ -2,7 +2,7 @@
 uid: api.fca6d76042a38b356f2bcdbbc5a8a0df1953dbbeae25474565118f1a26a904c5
 symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.MouseEvent.#ctor(System.UInt32)"
 source: xml
-reviewed: 35a72fa87674a4b8a74ddf5fc2b0c6c5fa03ac4a1c8ffb8838b4e390f6a27e96
+reviewed: d99d331c5d3ed2e438f2c28732fdf0958af5dbe23646184bf2b7aa00f7ffcccd
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Events]

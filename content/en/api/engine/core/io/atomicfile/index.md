@@ -2,7 +2,7 @@
 uid: api.inno.core.io.50bb21c877feddc1
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.AtomicFile"
 source: xml
-reviewed: 5ab7355836c9d106f84897cd253e983b012e8f3dae1c3d1e1596bc4da8eb7095
+reviewed: e2a35f56bf4a3782f650a1a9521e7a0974929d5c24ee7438898e76a5af7ae139
 title: "AtomicFile"
 kind: api
 owners: [Inno.Core.IO]

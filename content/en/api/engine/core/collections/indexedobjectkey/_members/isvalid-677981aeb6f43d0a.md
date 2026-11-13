@@ -2,7 +2,7 @@
 uid: api.677981aeb6f43d0abb728ebfac427baa9a48a06ed51978014e62e46367d51ffd
 symbol: "engine:Inno.Core.Collections:P:Inno.Core.Collections.IndexedObjectKey\u00601.isValid"
 source: xml
-reviewed: 84b5c1a2c509e96542ec8c2728cdeb4d19fbab32bfd82b5c9c14120f8babdf97
+reviewed: 90f14cf39bdf70867f1be65f6791506236ae63bac169ac4f085b1f0439781eae
 title: "isValid"
 kind: api
 owners: [Inno.Core.Collections]

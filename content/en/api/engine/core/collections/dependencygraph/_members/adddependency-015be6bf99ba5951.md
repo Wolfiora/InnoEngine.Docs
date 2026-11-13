@@ -2,7 +2,7 @@
 uid: api.015be6bf99ba5951b3ef0fe1bc715fe0f1d1999263bffae092efce44c52a8bc4
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.AddDependency(\u00600,\u00600)"
 source: xml
-reviewed: da2a0d237d2c1bc511b57aab3c446cc264857ae87b220945a8bb0d473c740f5b
+reviewed: b6aae16baf5518a1205ff221612c0c8e13a1c2eb16bc22c58c4ac5434df7979c
 title: "AddDependency"
 kind: api
 owners: [Inno.Core.Collections]

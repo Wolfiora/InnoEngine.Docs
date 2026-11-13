@@ -2,7 +2,7 @@
 uid: api.e88ad5602cfb0ac38fee726e4013da19f170bcf2ae206151b897a8a710cc0012
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceAllocationCounters.#ctor(System.UInt32,System.UInt64,System.UInt64,System.UInt64)"
 source: xml
-reviewed: 8edba4254cf5cb819427f9455361fb7a40b8af4ed0e028064625818fdb7ca887
+reviewed: 018056203cff86830edd2ef2cc0a24aa197696ea41019df30f700eb449f3bfd1
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

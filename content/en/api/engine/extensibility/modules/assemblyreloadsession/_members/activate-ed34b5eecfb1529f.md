@@ -2,7 +2,7 @@
 uid: api.ed34b5eecfb1529f011b141ed37aa3459c409e8d25ecdcbcf3faff3f8a5f6f1e
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyReloadSession.Activate"
 source: xml
-reviewed: 6952c10d51c156323813ba49ac4f002c0dda9067233ad65c38dc4ade69791951
+reviewed: f82440b1cb5c6b3f5fdf655c3d93a3d44755c96aee35af4edcc420f8693d554b
 title: "Activate"
 kind: api
 owners: [Inno.Extensibility.Modules]

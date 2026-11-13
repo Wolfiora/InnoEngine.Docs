@@ -2,7 +2,7 @@
 uid: api.41e6da376a2622508da67d9291211262fbd92315efd9ed25804b2ce343f8847c
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.ISerializationMetadataSource.GetMetadata(System.Type)"
 source: xml
-reviewed: 593adc722b619ce5b8e6cbbc7894bc01fcf3e7d0806c7e48fda803a763ca784e
+reviewed: 79bafb725a52513a3d257aa0b22e2b50a73dae45ca9d8d31540dcd81f86d32b4
 title: "GetMetadata"
 kind: api
 owners: [Inno.Core.Serialization]

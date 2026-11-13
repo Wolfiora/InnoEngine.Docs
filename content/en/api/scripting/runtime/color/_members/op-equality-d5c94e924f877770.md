@@ -2,7 +2,7 @@
 uid: api.d5c94e924f87777049fc8895f9fb089c6db64a4e4c1c79d34ce9cce141eb30a7
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.op_Equality(InnoEngine.Mathematics.Color,InnoEngine.Mathematics.Color)"
 source: xml
-reviewed: c6ccf2b1e7df562cd3cfae6c9fe53f2f882a8710d76079da66aa0183ec3bfe71
+reviewed: 9f3632cb20a90f44388397bb84958211b3fa945f6034f2e83fdadae82d594582
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Mathematics]

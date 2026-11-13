@@ -2,7 +2,7 @@
 uid: api.1c0cbd37dfdaf6c24e49c7a570eef92ee6166aca0794cc47d7ed4db27d8848a6
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationMemberMetadata.#ctor(System.String,System.Type,Inno.Core.Serialization.PropertyVisibility,System.Func{System.Object,System.Object},System.Action{System.Object,System.Object})"
 source: xml
-reviewed: b75747f38e1c73b2f6806c154dd9981276e20e9a5547535cf4497e446a86d143
+reviewed: 7fa658406588488bcde915f86ca4b8cea07782a5163a17a373cee4b5f1e3d914
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Serialization]

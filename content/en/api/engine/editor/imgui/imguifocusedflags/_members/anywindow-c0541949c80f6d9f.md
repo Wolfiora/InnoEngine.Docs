@@ -2,7 +2,7 @@
 uid: api.c0541949c80f6d9fc8885190ed7982cba6a1dcb7e09cd8526abdaff9a0dd04df
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.AnyWindow"
 source: xml
-reviewed: 926897f901b70b111f6a027bebbf53f6e3d5a9624487e125037bf4d32a9e26c3
+reviewed: bd310e5b8efd49e5616295c093e677f783fd5cdda84fe38bbf67c9a33ac814ed
 title: "AnyWindow"
 kind: api
 owners: [Inno.Editor.ImGui]

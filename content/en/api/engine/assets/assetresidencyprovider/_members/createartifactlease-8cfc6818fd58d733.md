@@ -2,7 +2,7 @@
 uid: api.8cfc6818fd58d7339f6841a862f1cd06f4345194496e897863de9558740e97fd
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetResidencyProvider.CreateArtifactLease(Inno.Assets.AssetArtifactInfo,System.Func{System.IO.Stream},System.Action)"
 source: xml
-reviewed: f2f1ef7838e3759ed2c2c92960faaff53d9408714d54a4f361f612bb10971a10
+reviewed: 836a542a4fe46ad8aac6b38871638b21e3976b246c9314a00a00b4c82b84f22d
 title: "CreateArtifactLease"
 kind: api
 owners: [Inno.Assets]

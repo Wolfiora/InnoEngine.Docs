@@ -2,7 +2,7 @@
 uid: api.26750ff6aeece0b2c90f261f51b1486f81e7cb7ad4bb4ac41886e8193cbb4449
 symbol: "scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.Diagnostic.#ctor(System.String,System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{System.Guid},System.Nullable{InnoEngine.Diagnostics.DiagnosticLocation})"
 source: xml
-reviewed: 23ff057165f8752e0583787eaf382b40c71f8d6bc7c2d7bbd50b5073ff8bdb30
+reviewed: 4592a20ea3c6757d555edc92e7e385ebd9399103aa8b91ba253ac6263f514112
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Diagnostics]

@@ -2,7 +2,7 @@
 uid: api.6d0452d36f286922b334868843c30c21ea8b318dcb53384b012be8db49a7ceca
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceFrameCounters.GetHashCode"
 source: xml
-reviewed: 9cc74f6049dcd46d7598a86deddf6d0b27b6ef924c2b7ec7393a0d187d7ada58
+reviewed: 08be82413ade8c2db7badc8e1a19eeba85363882646185329e49f454c9711334
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering]

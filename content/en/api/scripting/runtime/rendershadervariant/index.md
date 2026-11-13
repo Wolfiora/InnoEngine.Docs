@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.cec3865348e8104a
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderShaderVariant"
 source: xml
-reviewed: d64ffa1e00b22e238f56be2ade840e0649c2010cc708850fb8d540711d5d2ae4
+reviewed: 9c50d36d7cb0d30b7305602f43ab2c30d375433966d4851d1a1239ea758531dd
 title: "RenderShaderVariant"
 kind: api
 owners: [Inno.Rendering.Assets]

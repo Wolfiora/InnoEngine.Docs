@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.9b8925da12eb170b
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeRef"
 source: xml
-reviewed: 9ce7c3bb8e97db5dd2f6401ba1bb400fe2ddfa10783d71fc65377bbda56c452c
+reviewed: 079fc13d6b2561b9ad3cf26e094cb8d718f3a9e4c4d4699c81d674210ed57eb3
 title: "TypeRef"
 kind: api
 owners: [Inno.Extensibility.Types]

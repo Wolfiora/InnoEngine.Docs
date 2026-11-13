@@ -2,7 +2,7 @@
 uid: api.df5d6427a518f0eb1f96eade39fe22e83c54ad3167939278ce5465797fb5cd5f
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphMutationScope.Dispose"
 source: xml
-reviewed: e8c449454e3bea634962886faed5ddb7d74d219fd4c80a5bbc5fd4f27f14e74b
+reviewed: edcc88bb7755b3fc9e387cb3fc3ab04525b6d295a1568b3a79202e3fa861e97f
 title: "Dispose"
 kind: api
 owners: [Inno.Rendering]

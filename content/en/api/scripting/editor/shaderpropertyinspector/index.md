@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.imgui.editor-script.78f13d4d057ba2a2
 symbol: "scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderPropertyInspector"
 source: xml
-reviewed: 3e1bc6d149b4748cf1e1a2910d1075c5a5c1af90784e8f13a783c221a7462dfa
+reviewed: aa7f7f98246e56d8655f4f0205f893af8f53a23c6f36b6aa0f1e1b9edd0f043d
 title: "ShaderPropertyInspector"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

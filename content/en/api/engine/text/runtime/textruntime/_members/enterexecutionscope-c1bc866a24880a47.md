@@ -2,7 +2,7 @@
 uid: api.c1bc866a24880a4775cc6961ef3c54f86eff663215cd88bb1b80f3673d2a1ccc
 symbol: "engine:Inno.Text.Runtime:M:Inno.Text.Runtime.TextRuntime.EnterExecutionScope"
 source: xml
-reviewed: c94753deb6df4adf9a6b349f163c4630a599b2b14d66f66c2ddcb0c27f3e25ae
+reviewed: dacaa37338c4281e7fbe173c2cebc8934727d1784f50efdc5c8a796eccbb6b00
 title: "EnterExecutionScope"
 kind: api
 owners: [Inno.Text.Runtime]

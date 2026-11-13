@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.be6915618c696aaf
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDrop"
 source: xml
-reviewed: 58e1adda7c0b4752576d7089e764435f2b82ee96b09295a3d465ba650b3a7383
+reviewed: b2fae7061a34abe809294b0650adec60329135653acab501f49ae32ead057e4d
 title: "EditorDrop"
 kind: api
 owners: [Inno.Editor.Interactions]

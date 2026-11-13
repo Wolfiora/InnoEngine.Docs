@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.c0d60a5cc501ff4e
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.MaterialMetadataEntry"
 source: xml
-reviewed: 890dcb69b286b3565127b3407d07ab43598751a45f68f2b815a89b9133de9956
+reviewed: 67507f0cd42677286390b08fbc2c048da5874fdade999cfc5dcb22b8f9870a15
 title: "MaterialMetadataEntry"
 kind: api
 owners: [Inno.Rendering.Assets]

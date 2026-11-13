@@ -2,7 +2,7 @@
 uid: api.a81141fe39ff391ee095a2b23ffa8acaa5f59c9167699655a8261dd3516ef3d6
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetNextWindowSize(System.Numerics.Vector2,InnoEditor.ImGui.ImGuiCond)"
 source: xml
-reviewed: 061a6e144cada4fd322a49b3450b66e9ec7c37c7912d65cf7da25a39af529768
+reviewed: 65583324e265928fffb2cf8ed7e868b0bb98c71f79b30496462682b81b0e49e7
 title: "SetNextWindowSize"
 kind: api
 owners: [Inno.Editor.ImGui]

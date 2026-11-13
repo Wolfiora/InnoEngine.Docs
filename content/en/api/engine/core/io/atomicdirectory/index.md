@@ -2,7 +2,7 @@
 uid: api.inno.core.io.caf46c1a57af110f
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.AtomicDirectory"
 source: xml
-reviewed: 009f89de6a6208f9627f5a6124fa2e789e75ecd7c0c64f7186a30d479debbf1e
+reviewed: 6b8d56615ccd81d96c9d18ac206877c54b5b87c4e6924466512cd730a06b9534
 title: "AtomicDirectory"
 kind: api
 owners: [Inno.Core.IO]

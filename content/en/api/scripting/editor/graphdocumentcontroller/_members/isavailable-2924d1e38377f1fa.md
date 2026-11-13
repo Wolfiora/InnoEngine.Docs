@@ -2,7 +2,7 @@
 uid: api.2924d1e38377f1faba6164787cd543cc81fbfe156d82ebfec32d6e7cb02c89b3
 symbol: "scripting:Inno.Editor.Graph:P:InnoEditor.Graph.GraphDocumentController.isAvailable"
 source: xml
-reviewed: 0d2baa35a1146245997cd6621e0d269a3103fbb9aceae343772ba9034bb39f74
+reviewed: f2ce696cbe88e09d387374b6c86ae7885f0c0f05c9587e511ac38f2a0db80230
 title: "isAvailable"
 kind: api
 owners: [Inno.Editor.Graph]

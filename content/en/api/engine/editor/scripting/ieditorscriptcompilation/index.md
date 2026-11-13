@@ -2,7 +2,7 @@
 uid: api.inno.editor.scripting.ee8f2866ab9a80d8
 symbol: "engine:Inno.Editor.Scripting:T:Inno.Editor.Scripting.IEditorScriptCompilation"
 source: xml
-reviewed: 5f3b5adbc769c2e13b22ffa09cd59de410db28b870b70e2a5150b806c1e2d1eb
+reviewed: 10658723d90e3c2ff98aa2f51134caf869554de6176d2800f79081e442e8142f
 title: "IEditorScriptCompilation"
 kind: api
 owners: [Inno.Editor.Scripting]

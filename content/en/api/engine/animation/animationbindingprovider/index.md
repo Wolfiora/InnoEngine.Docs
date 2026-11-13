@@ -2,7 +2,7 @@
 uid: api.inno.animation.6c13501789caaf93
 symbol: "engine:Inno.Animation:T:Inno.Animation.AnimationBindingProvider"
 source: xml
-reviewed: faeb2b090233615e3f6b562198cb5d00d99bbc9c6cc7bb13ac219b7f984e930e
+reviewed: ea9c4ded1fdabb05c0b3fdca6db76dbfa6647b276d3f3f05bbd91eabb54a676a
 title: "AnimationBindingProvider"
 kind: api
 owners: [Inno.Animation]

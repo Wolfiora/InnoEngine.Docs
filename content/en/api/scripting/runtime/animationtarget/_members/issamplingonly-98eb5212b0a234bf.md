@@ -2,7 +2,7 @@
 uid: api.98eb5212b0a234bf3e4844b1263c2a4f5dce5b8d450c3e989ec6d8809ed168ec
 symbol: "scripting:Inno.Animation:P:InnoEngine.Animation.AnimationTarget.isSamplingOnly"
 source: xml
-reviewed: 8ca7da76dae57cc5a7a9a7ec7018c2b986387d03e3f91c6227e878894592a80d
+reviewed: 1215f1047fc80869767418c67c467078370e5050c04e47f307a3e55f6f662d36
 title: "isSamplingOnly"
 kind: api
 owners: [Inno.Animation]

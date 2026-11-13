@@ -2,7 +2,7 @@
 uid: api.c56f2d6fa53859d9952328e69a3aa87fe151b8ecd4d394c73948f6b83bc208a5
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.SelectedViewContentCollector.#ctor(InnoEngine.Rendering.IViewContentCollector,System.Collections.Generic.IReadOnlyList{System.String})"
 source: xml
-reviewed: 9bf5e630d9ead925381f3f8fed6be667fe880368e44bb4b5144d9c60b3c5bc99
+reviewed: 3720241baabf4af318501bcc4cc29aaa455a8901dfc4b341116f77c4d16a76ad
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

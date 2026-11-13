@@ -2,7 +2,7 @@
 uid: api.a04c3c1d696790bbac3ba1ae4f564f769f230fb102eac511dc131690e2489682
 symbol: "scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.IDiagnosticReporter.Publish(InnoEngine.Diagnostics.Diagnostic)"
 source: xml
-reviewed: 1669b57563a335f1336ca9494e3745affcfc74cf4c3dbd349ba6ef0a861b0117
+reviewed: 463f9b9577a6bb4f3a2f0563f692971fdaa70cf8a90765717ffd6f499682e4ae
 title: "Publish"
 kind: api
 owners: [Inno.Core.Diagnostics]

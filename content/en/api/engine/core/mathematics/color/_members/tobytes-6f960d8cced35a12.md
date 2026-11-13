@@ -2,7 +2,7 @@
 uid: api.6f960d8cced35a1207f5f8eb9f25491ee5edd29ef7a0cefe39d1bc87adf58b5d
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.ToBytes"
 source: xml
-reviewed: ac20dbb0fa41df3a14958ce6db65bc35b5f8a3e87466dcd0240da3ff8e638b6b
+reviewed: e50e216cde310ba2859e09d891cb4302db43abb0db27fff48da797db819e4589
 title: "ToBytes"
 kind: api
 owners: [Inno.Core.Mathematics]

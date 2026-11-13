@@ -2,7 +2,7 @@
 uid: api.dd26f2830335d829f7d3512d90bee6dcacd46971cc377468855cf53d41924267
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetTextState(System.String,System.String)"
 source: xml
-reviewed: f68ad3f1b75255fba0db74a5d7b6476b71e7f76d084f84175445034e3bcadb1a
+reviewed: 68c8ac77505784541e181b7863f47a3ed44dd75c11cd016ea39af567be264bea
 title: "SetTextState"
 kind: api
 owners: [Inno.Editor.Inspection]

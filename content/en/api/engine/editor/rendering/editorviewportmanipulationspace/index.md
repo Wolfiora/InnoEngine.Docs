@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.abcc91f914cd6105
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorViewportManipulationSpace"
 source: xml
-reviewed: fd3d19c1ef0887ce6554aa73de748ed960aff73631c42e4a8539bcda24e175cc
+reviewed: bbf2eac1808122a0347383444edf707ffa9e962bf81bafaf928f1a7e87bf5aeb
 title: "EditorViewportManipulationSpace"
 kind: api
 owners: [Inno.Editor.Rendering]

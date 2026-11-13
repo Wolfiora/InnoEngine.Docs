@@ -2,7 +2,7 @@
 uid: api.11cdc7a0db37490a1ee1a7db3078a7c345d4510bcb46b2250a1490ab061d593f
 symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendId.Equals(Inno.Adapter.Platform.PlatformBackendId)"
 source: xml
-reviewed: 6b436cd2c03f0785b2750c7c731846271c8b783460841aecb3d3ce9845af7029
+reviewed: 43e2da29364a6723f6ffc2bbd0cd48436a3b0ac2bb5549013c8d7525031c08af
 title: "Equals"
 kind: api
 owners: [Inno.Adapter.Platform]

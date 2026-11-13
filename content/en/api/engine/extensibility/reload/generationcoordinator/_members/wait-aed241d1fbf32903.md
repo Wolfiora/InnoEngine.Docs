@@ -2,7 +2,7 @@
 uid: api.aed241d1fbf329033ff169f9a656872c9b0718d678fd3d7924ea4c9c29ad5bc3
 symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.Wait(System.Threading.CancellationToken)"
 source: xml
-reviewed: 6d17142b47b849597c86e952a8633a9826e13aa7c545086a5e23af57ff1d34d1
+reviewed: 0fe2dac35d5f81f73764d8863121038533af2f311863bd4d9681865ec06a2b93
 title: "Wait"
 kind: api
 owners: [Inno.Extensibility.Reload]

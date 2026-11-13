@@ -2,7 +2,7 @@
 uid: api.3acc9c9405f316bfad69ba42cd282ab772ca690877c081612e6d99eb2b7c14ba
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderInt(System.String,System.Int32@,System.Int32,System.Int32,System.String,InnoEditor.ImGui.ImGuiSliderFlags)"
 source: xml
-reviewed: 00fb40d8680f90d5c918e91031d64af7576ea193aa8b5ee30c95f9c78d0642db
+reviewed: a0c6ad967cb3f388cb06158a6fba11e98943feec3cdfc8430b805d9de77e9952
 title: "SliderInt"
 kind: api
 owners: [Inno.Editor.ImGui]

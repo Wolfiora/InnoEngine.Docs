@@ -2,7 +2,7 @@
 uid: api.08627a420efef18c4548e4570f129235adc1951e348e106e8a3b88d97d7d9df6
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSample.GetImportName(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 8b4ac21cc1f0857be80206002e6049322aa82a64b6002f557bba3e0588c3ee5e
+reviewed: 56275ad259d1c34139549405823272159949f6b1eccf4580aed05db277f6e00c
 title: "GetImportName"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.869a0fe9f4ffc2cae88327570146adc1ee262db7c1fb11f1dcf678bf499f0f35
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorValidationResult.Equals(System.Object)"
 source: xml
-reviewed: 21adfcfc8d8459c2d5edabd3c7d6270458ccee29fffa1794a352e2116985d35c
+reviewed: f1be4c9c05d4bf522b283006b1b34431bc00f794c75a708581be02d6f8aff8d1
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Interactions]

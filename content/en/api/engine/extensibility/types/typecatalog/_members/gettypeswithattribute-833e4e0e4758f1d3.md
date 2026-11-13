@@ -2,7 +2,7 @@
 uid: api.833e4e0e4758f1d32e5298021cf369d0671bd225c7064ad97d3e45cc6fea99c7
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.GetTypesWithAttribute\u0060\u00601"
 source: xml
-reviewed: 6515a0c3176f8572f86fa508ba03290ced9057b962d1a85e3ab236a4c3ad37c7
+reviewed: 892e53036c0e31501da1cecbc872d5fd27a2676c81695eb594fc4014e24e5af1
 title: "GetTypesWithAttribute"
 kind: api
 owners: [Inno.Extensibility.Types]

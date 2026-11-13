@@ -2,7 +2,7 @@
 uid: api.70fff785d02c594ebb91b5734325278d25502591e86ba521abfd430c65ae8b14
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.MaterialAsset.techniqueId"
 source: xml
-reviewed: 42ab0dcb334cbd698b6a2c9e7ad3026cb094a31b6488c6cc46879d8916ad6ea7
+reviewed: 04f3ece5bb43437e9c0d271eb038e3ec043fe2627a33913c408724981eaaa204
 title: "techniqueId"
 kind: api
 owners: [Inno.Rendering.Assets]

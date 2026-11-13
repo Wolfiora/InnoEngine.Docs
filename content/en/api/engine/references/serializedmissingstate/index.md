@@ -2,7 +2,7 @@
 uid: api.inno.references.4b2d191ddba28bf3
 symbol: "engine:Inno.References:T:Inno.References.SerializedMissingState"
 source: xml
-reviewed: 4bbaa06b3a3708d0d0fd523158806c64a483993b7a3d027c8bdc7a5ecb30d0d3
+reviewed: d10d70d34ebff67fac6ab521dea0b230445e0b6149a73ed402e627f2de08a77e
 title: "SerializedMissingState"
 kind: api
 owners: [Inno.References]

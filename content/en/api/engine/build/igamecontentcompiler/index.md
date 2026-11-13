@@ -2,7 +2,7 @@
 uid: api.inno.build.64c4fa07a7bef1f3
 symbol: "engine:Inno.Build:T:Inno.Build.IGameContentCompiler"
 source: xml
-reviewed: 9cf0be064fa60ada9a4b2d9b70deb8f0358696f0215d2ce2acbcc41f7a20eb5e
+reviewed: 5e11b74e5629fdab2c054bb3422bd264a155740dc1439b17eb6c526853fa5cf0
 title: "IGameContentCompiler"
 kind: api
 owners: [Inno.Build]

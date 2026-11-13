@@ -2,7 +2,7 @@
 uid: api.c52b0e2b1e80a754a1a98eed119b0f5b923d7b7ecafa1731e00ebc31916e2e81
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPipelineFeature.OnConfigure(Inno.Rendering.Assets.SerializedRenderExtensionState,Inno.Rendering.Runtime.RenderExtensionStateContext)"
 source: xml
-reviewed: 8811d1c1578d3785e7fa7f83b12379f1693e467e4ee65c79124fb46822a1243b
+reviewed: e1dbfa9d243016315373e0a3363a1c009110ed455c8a8b7a79446272d7386f3d
 title: "OnConfigure"
 kind: api
 owners: [Inno.Rendering.Runtime]

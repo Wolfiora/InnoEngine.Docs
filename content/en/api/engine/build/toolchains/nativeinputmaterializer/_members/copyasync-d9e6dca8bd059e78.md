@@ -2,7 +2,7 @@
 uid: api.d9e6dca8bd059e783b1ff899e2d209777986c5376049d17b0725f9fdecc55ae9
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeInputMaterializer.CopyAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: 097606d855efcce46f2d4fb26c18b4e3d1f8d288e2c281d40247eadd666d355a
+reviewed: 631d4fe2b692d36adabad536a98edc182cd823e36d6a583d58bdc9abfe0795a3
 title: "CopyAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

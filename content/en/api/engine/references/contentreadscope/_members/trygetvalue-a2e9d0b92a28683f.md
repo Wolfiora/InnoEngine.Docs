@@ -2,7 +2,7 @@
 uid: api.a2e9d0b92a28683f9d545722610153c341368842643a2f92f15c1d87b0e24eed
 symbol: "engine:Inno.References:M:Inno.References.ContentReadScope.TryGetValue\u0060\u00601(System.Guid,\u0060\u00600@)"
 source: xml
-reviewed: c51d6a8e3dc9339d7806ee6dfda16135bd400321b72023598b2d1d543f1fe154
+reviewed: b8e2de7b0182cdb1b486ce9574191233d3b3dcc432a57fa2a657f240fdea656f
 title: "TryGetValue"
 kind: api
 owners: [Inno.References]

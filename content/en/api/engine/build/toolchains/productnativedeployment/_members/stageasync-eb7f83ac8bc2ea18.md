@@ -2,7 +2,7 @@
 uid: api.eb7f83ac8bc2ea189e0f5bb5198980be0e21ea9f74ce7fdcd2a379b0a7fe5cff
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeDeployment.StageAsync(System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.ProductNativeBuildPlan,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: e920488960ed72c611407f23d234126d96496ccb3824ed524b8955ed48f831c3
+reviewed: 4aeef469301df778dc83c9c9e1eadb2d1532268e5dc25a27f8e123eb0d1f2a9e
 title: "StageAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

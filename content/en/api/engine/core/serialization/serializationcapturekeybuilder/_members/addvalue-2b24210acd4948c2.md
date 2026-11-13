@@ -2,7 +2,7 @@
 uid: api.2b24210acd4948c20023ebc69c0137a877e807d1ca6590726f4e2c1252e6c908
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationCaptureKeyBuilder.AddValue(System.Guid)"
 source: xml
-reviewed: 71e7cba2547e3b037f09dc2b351fb6b741a51b8725bb6342ae03acfdf6ff31e4
+reviewed: 78a2585bf55a7c3d6303f62511da6baed78ca78d889238041e0355a439eebaa9
 title: "AddValue"
 kind: api
 owners: [Inno.Core.Serialization]

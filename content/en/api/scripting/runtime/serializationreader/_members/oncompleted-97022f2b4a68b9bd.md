@@ -2,7 +2,7 @@
 uid: api.97022f2b4a68b9bd733b224e83e86616956799686799a3f1251ef21b9bfefec0
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.OnCompleted(System.Action)"
 source: xml
-reviewed: b20cdb1146a8ad3fbe1f281d93058203e458b73d7c7bfa2f1938b9ab3cbaf5a2
+reviewed: e3a939d1157adcfbf33deaa2b1a85cafc79621053cab65f970edac0feaf8ca38
 title: "OnCompleted"
 kind: api
 owners: [Inno.Core.Serialization]

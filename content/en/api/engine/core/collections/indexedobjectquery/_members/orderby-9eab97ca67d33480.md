@@ -2,7 +2,7 @@
 uid: api.9eab97ca67d33480efdb2c03bb636063790d9c3fab28609915d4546294fc5bbf
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectQuery\u00601.OrderBy\u0060\u00601(Inno.Core.Collections.IndexedObjectKey{\u0060\u00600})"
 source: xml
-reviewed: 22ba2a221e05a1a7745c8f6603f5fc29377b0d3008078836429bf565981a152d
+reviewed: 81bd3631e13eab914d8a5b33792567e359f4d400519e8e93cf4c2f426bb6fe83
 title: "OrderBy"
 kind: api
 owners: [Inno.Core.Collections]

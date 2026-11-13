@@ -2,7 +2,7 @@
 uid: api.6fe81fc4e8b6b81a0a68fcc86395969ada3ddf94b49599bb4d4db4c181a283bc
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.PlotLines"
 source: xml
-reviewed: 674e0aba91894855c60587bb81f324f09915ecf0d761dd188ce4a8fea08c0e94
+reviewed: 7c05c581e87f8b18ea4502fb3c505380313157f6e99e3f7db2026b8def1895b7
 title: "PlotLines"
 kind: api
 owners: [Inno.Editor.ImGui]

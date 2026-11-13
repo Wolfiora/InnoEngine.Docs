@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.f534c65fa4eeebc5
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorViewportCursor"
 source: xml
-reviewed: fa9ebc5e3f5ea4b1ebb8da24845dccffa7a8e8a5177accf42a1545fdb29ca3a4
+reviewed: d490b1e4016f7cc7b668f341d6a14780db41b4ca5688e16ddf2849a794c2784e
 title: "EditorViewportCursor"
 kind: api
 owners: [Inno.Editor.Interactions]

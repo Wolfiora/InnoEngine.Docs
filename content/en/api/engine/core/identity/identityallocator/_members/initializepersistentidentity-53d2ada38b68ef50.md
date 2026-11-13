@@ -2,7 +2,7 @@
 uid: api.53d2ada38b68ef50f3200f9653e4b626f3c1c474cdd81ecb429b200366fbb6a6
 symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.InitializePersistentIdentity(Inno.Core.Identity.IdentityObject,System.Guid)"
 source: xml
-reviewed: c9ae7d0e35ff59aa8f2f316bdd62b4c2b7adf30fd47d4bec2e969eb53762744e
+reviewed: 9f004fd5dbd320e33939cdc776674daf0a8a030f974f0ad20d0b571e834d7e8b
 title: "InitializePersistentIdentity"
 kind: api
 owners: [Inno.Core.Identity]

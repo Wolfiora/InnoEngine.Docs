@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.4ebcf13c17299494
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderRenderState"
 source: xml
-reviewed: d75e642c9f1ead6fa65ce4c1623c3ad32139825b5ff2e4779a9f82bd0c1e42c5
+reviewed: 18090cce114300c48dc5656d26db5226b780684047d76a5cf9719c0074b17fde
 title: "ShaderRenderState"
 kind: api
 owners: [Inno.Rendering.Assets]

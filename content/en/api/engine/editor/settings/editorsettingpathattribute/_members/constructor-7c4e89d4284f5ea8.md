@@ -2,7 +2,7 @@
 uid: api.7c4e89d4284f5ea8561c1777c5a5b2c7c2d450377abf548d8573990f99734d1c
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingPathAttribute.#ctor(System.String,System.Int32)"
 source: xml
-reviewed: 7db5e784d26abb8c1ee088d7e01e94b5c55f9c39b96d94b7925bad53d4e0afe5
+reviewed: f95a728f69297d9157876caf692fab073f0735a32953c179d1cce5adef436012
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Settings]

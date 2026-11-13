@@ -2,7 +2,7 @@
 uid: api.b68ee6813384159eecc542e121e22b0596093abaaef0b3e82e6c00bd454763a6
 symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.#ctor"
 source: xml
-reviewed: 1265f484dd6ee611f0883ef642acf0e0f39cafd56d8c56e06610f318e2d7bf0f
+reviewed: ca5dc19a2bea95dde4458209e0d04055e8eb6364ff38ec7b579da6118eee5e32
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Graphs]

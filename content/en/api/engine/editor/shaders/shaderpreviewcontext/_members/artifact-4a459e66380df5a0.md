@@ -2,7 +2,7 @@
 uid: api.4a459e66380df5a05ee0ec08943e3d8681cc49f9de775dca8e8124586d1a0115
 symbol: "engine:Inno.Editor.Shaders:P:Inno.Editor.Shaders.ShaderPreviewContext.artifact"
 source: xml
-reviewed: c82c92e4fd49cd068e2c1793d2eca6e620c903e3806e722f7ea50a4916792186
+reviewed: f2d1593416b0e8978510b9683f1184121030dd75ef88f5cfc3906440cbd7c5ec
 title: "artifact"
 kind: api
 owners: [Inno.Editor.Shaders]

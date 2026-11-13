@@ -2,7 +2,7 @@
 uid: api.e593821c3f9f8ed55ee78d151ffe3980d0496d69fe2d67394b456ef22f7716fb
 symbol: "engine:Inno.UI:M:Inno.UI.UiClipRectangle.GetHashCode"
 source: xml
-reviewed: 058ef002cc0b7ca6c76b07ee3ab8c5f596d8c1e92db6a66f236c178a484397c8
+reviewed: b81c25bfb572d9623c31946ff02adfeccaf497d8297a9dc4db58d156045cd336
 title: "GetHashCode"
 kind: api
 owners: [Inno.UI]

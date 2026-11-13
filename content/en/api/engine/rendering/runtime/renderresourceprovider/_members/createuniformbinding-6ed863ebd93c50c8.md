@@ -2,7 +2,7 @@
 uid: api.6ed863ebd93c50c89ed48fa9dc1819dc6cd71c63c389c88af9ed754744968502
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateUniformBinding(Inno.Rendering.RenderBindingId,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: aab9b0133ff9169c4e27799c6750fef5c5ccfc20976ac3b7aefc0726a187f50d
+reviewed: ab3255b9946e72e3c04e67601887cdbbc17ac0e3b396c9578dd5373832cc5b26
 title: "CreateUniformBinding"
 kind: api
 owners: [Inno.Rendering.Runtime]

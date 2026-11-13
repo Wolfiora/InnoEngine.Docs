@@ -2,7 +2,7 @@
 uid: api.e816f7e32ebcb9dd32ebb4fef34c6e550aa3c2370d5f9015b42643e88a89a722
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAsset.#ctor(System.Int32,System.Int32,System.Int32,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
 source: xml
-reviewed: 33f2c4318e9ecde3d828bc2842ec72d7f9771839212af76694c7338374f923e1
+reviewed: efa75b59e53eae10450335107cb874671533cf7fe5976e3470b30ad20f54acc8
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

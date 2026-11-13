@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.baa2044da11c3bbd
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderShaderArtifact"
 source: xml
-reviewed: e778f9378de943cb5aa89e614d7b75f3e966a2323897ec74209006f74e9f13d8
+reviewed: 5f188fadd02d643e81b4b30ac81db131a26dddf4b4bffda0a74346042d3ce3c3
 title: "RenderShaderArtifact"
 kind: api
 owners: [Inno.Rendering.Assets]

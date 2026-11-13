@@ -2,7 +2,7 @@
 uid: api.ce3daf1d5ec9ae189d836028995a0296957a55bffbde3a6efc54eb2364082bf3
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderTechniqueDefinition.contract"
 source: xml
-reviewed: dbdad25beeb9a96f90a1115477c72b62df7b9c516a70e098a41cac8212081966
+reviewed: 74dc82ae51e4465455771e6ef4380550f873017ce1387c6ea79037128012ff8e
 title: "contract"
 kind: api
 owners: [Inno.Rendering.Assets]

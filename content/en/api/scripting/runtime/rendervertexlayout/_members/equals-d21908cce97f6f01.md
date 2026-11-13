@@ -2,7 +2,7 @@
 uid: api.d21908cce97f6f01e5f4ef9deeff1c483a40e8caf32288cbc18cdf659aca7113
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.Equals(InnoEngine.Rendering.RenderVertexLayout)"
 source: xml
-reviewed: e34081c18ec0b08ec107f8c1e9f50d98f3c861034cc012d8a4158db9f64ebbb1
+reviewed: 1ad54f7853a864102f8f70eb72cee3c33c6642db9bbf401729e6351864ad1034
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

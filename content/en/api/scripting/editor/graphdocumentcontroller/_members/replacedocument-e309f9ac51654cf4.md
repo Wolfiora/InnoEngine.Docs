@@ -2,7 +2,7 @@
 uid: api.e309f9ac51654cf4adcde68adcaa4b18c1900388a7eb34d1fa10671afac0b3b6
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphDocumentController.ReplaceDocument(InnoEngine.Graphs.GraphDocument,System.String,System.String)"
 source: xml
-reviewed: 1de7c853c23b6e33b85a5898a3a5f0f1188c756f88bf33de44f34f9b3504bf21
+reviewed: bc782e3ef830be618fa002a70bf923d894162837f539f9325d9989bea00413f6
 title: "ReplaceDocument"
 kind: api
 owners: [Inno.Editor.Graph]

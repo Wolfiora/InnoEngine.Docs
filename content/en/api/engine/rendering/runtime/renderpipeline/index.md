@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.fdb8892602472dbf
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPipeline"
 source: xml
-reviewed: bca27451f2da78376207b6b23fc5ddf9881b497e32b8478f41d564a8d7eef0d7
+reviewed: 846c00b83914d9c6e386b6977da16d262f565ae7b23adad1c3791d8608c5c9a4
 title: "RenderPipeline"
 kind: api
 owners: [Inno.Rendering.Runtime]

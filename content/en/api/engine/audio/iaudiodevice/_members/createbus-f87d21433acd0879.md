@@ -2,7 +2,7 @@
 uid: api.f87d21433acd0879f5fef3dcf678c1a371528e7398767cacc7607a2251a05369
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.CreateBus(Inno.Audio.AudioBusId,Inno.Audio.AudioBusHandle)"
 source: xml
-reviewed: d1c0d39d8374159a8d347381d79e087750bf7323156dd4b9937e9a505b0c0dce
+reviewed: 7f17bc83423c3e25cc3a51dc21b88c8047e081d10094a81a79d5a68fb63ca21c
 title: "CreateBus"
 kind: api
 owners: [Inno.Audio]

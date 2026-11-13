@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.aeec2a83d9fbd462
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ManagedBuildInputSnapshot"
 source: xml
-reviewed: 790833df111a467901c67801a483ac12e178e2f32dd2a79d3452f74572bc4073
+reviewed: 26fc7934029fd5d95e733325caf5c0330b1e30cf5055ca60772dcd39babad370
 title: "ManagedBuildInputSnapshot"
 kind: api
 owners: [Inno.Build.Toolchains]

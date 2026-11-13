@@ -2,7 +2,7 @@
 uid: api.c97f677eba3dae212f74645043ac2354ccf6e161291ba9b564fc07165ac0e2f9
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorPanelExtension.isOpen"
 source: xml
-reviewed: fb27a1781c0a233822e94478b520b333253ca9ab6a596ae0a2750c878eff9bc6
+reviewed: 2e51300bb07983a178ab7aa674e71be789dbac0120a50a23e59fa5ccddc06d42
 title: "isOpen"
 kind: api
 owners: [Inno.Editor.Interactions]

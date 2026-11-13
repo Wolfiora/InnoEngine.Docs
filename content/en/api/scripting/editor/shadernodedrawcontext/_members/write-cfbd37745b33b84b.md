@@ -2,7 +2,7 @@
 uid: api.cfbd37745b33b84bdfe4be8dd14ba8f9cfb49c08d148adac00df321e3128fd1e
 symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderNodeDrawContext.Write\u0060\u00601(System.String,\u0060\u00600,System.String)"
 source: xml
-reviewed: dcb13cbffc5a82c642e341808a63bd2cc2bd83e527326b069faa9f0efba8c99d
+reviewed: 84f37e94c3e98199e91957b64e156799803badee8b50db97fe6dcae6ddcd3cc0
 title: "Write"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

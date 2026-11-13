@@ -2,7 +2,7 @@
 uid: api.732c88cdfd052348185f1767715d6b6788917e23c7b29dfa581e5b52668a8101
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceInclude.GetHashCode"
 source: xml
-reviewed: cd7e05e8c08f73ebd52eaefbd1989d74cc58fb50fa2f57680bee51876885f222
+reviewed: cc4eeb4256741aa3cec60658772dd9fe739284931352c0eae9dbd7754d356664
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering.Shaders]

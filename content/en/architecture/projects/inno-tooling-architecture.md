@@ -76,18 +76,8 @@ Exports publish atomically only after required discovery and extraction succeed.
 
 See [example validation](../../contributing/example-validation.md) and [local query contracts](../../contributing/documentation-queries.md). Queries belong to `Inno.Tooling.Documentation` and never trigger this validation automatically.
 
-## Existing engine Wiki checks
+## Engine validation boundary
 
-The selected source revision also exposes engine-tree Wiki checks. `--documentation-only` checks structure and links; `--wiki-contracts-only` checks selected API/examples and requires structure evidence. `--wiki --wiki-only` combines those Wiki responsibilities without repeating source and metadata checks. Page selection limits expensive contracts, not repository-wide structural coverage.
+The engine's validation planner selects source, architecture and contract checks from actual inputs. Documentation queries use the independent documentation library and never run those checks. Product documentation lives in this repository; there is no engine-local Wiki tree or separate Wiki command mode.
 
-Full architecture validation with selected Wiki pages still needs its full architecture reference set. An isolated Wiki operation may prepare only selected owners and their dependencies. These contexts cannot share an incorrectly narrowed graph.
-
-`--wiki-target` limits product compilation to an explicit target while retaining shared checks. Other products are reported as not evaluated rather than borrowing host DLLs. Omitting it requires all necessary real references. Windows/macOS success does not certify Browser or other devices.
-
-The optional `--expand-xml` maintenance operation expands existing XML formatting only. It does not invent semantics or inherited prose, and normal CI does not request source writes. Engine development requirements remain authoritative in its rulebook.
-
-## API reference
-
-The reference describes the exact selected tool revision, including source exports, example validation and the architecture entry. Missing environments remain visible prerequisites; a zero exit code applies only to the checks actually selected.
-
-[Browse architecture tooling types](../../api/engine/tooling/architecture/index.md).
+The source maintenance option `--expand-xml` changes formatting only when explicitly requested. Ordinary CI does not request source writes.

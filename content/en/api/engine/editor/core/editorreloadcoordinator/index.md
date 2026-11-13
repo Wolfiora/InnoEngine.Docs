@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.f63ac6e4029fdd38
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorReloadCoordinator"
 source: xml
-reviewed: d4cf7ab025b588034ec3c54c3e410bd0792a2d47469c105f31752b50f87a2f4a
+reviewed: 1d38b8d4e5c30435d235755925b93dfbcee72e854e1e4fd068c0fd7521a540ff
 title: "EditorReloadCoordinator"
 kind: api
 owners: [Inno.Editor.Core]

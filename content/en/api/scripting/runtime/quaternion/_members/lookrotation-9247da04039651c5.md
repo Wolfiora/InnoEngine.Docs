@@ -2,7 +2,7 @@
 uid: api.9247da04039651c502cafb1eac5f8bfb2fddf4722ef379d29299c75a70410028
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.LookRotation(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: 446285268ff2c703b02c719d767bb4db5ac06dfffd4a5693f0d1e06b084a8a55
+reviewed: 5a09dbbc75889d6e2060fd648b32285a8787baa2d1c158fe0c8245fcb34ce75d
 title: "LookRotation"
 kind: api
 owners: [Inno.Core.Mathematics]

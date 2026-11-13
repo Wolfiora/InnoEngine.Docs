@@ -2,7 +2,7 @@
 uid: api.d57967274ccb997611636f50c2ffbd4667f064a2d780782a0bf1a4db701d898e
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferUploadDescriptor.#ctor(System.Int32,InnoEngine.Rendering.RenderBufferUsage,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.RenderIndexFormat)"
 source: xml
-reviewed: 75e4df8c4adc2b86f18dea939bc2708129f6467478e5e1e4d83ad5297b6a14c6
+reviewed: e699f45cea3c47b27288d8704989ce50b52b1a0164275caf6a442f4004b4166d
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

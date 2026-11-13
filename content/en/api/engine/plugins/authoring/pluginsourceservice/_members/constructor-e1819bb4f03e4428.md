@@ -2,7 +2,7 @@
 uid: api.e1819bb4f03e4428ece146d3118a224d613dc4c51a0181e296a304e48573b9dd
 symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginSourceService.#ctor(Inno.Core.Serialization.SerializationRegistry,System.String,System.String,Inno.Plugins.Authoring.PluginSourceLimits)"
 source: xml
-reviewed: a026270a2c1fe3f447676a0620dd780257e79ca40df72ffdbe886b979890c0dd
+reviewed: 79279da9b0b7908fd3d9c3ec935157edc325934b6ee6094a7237f4e90df36549
 title: "Constructor"
 kind: api
 owners: [Inno.Plugins.Authoring]

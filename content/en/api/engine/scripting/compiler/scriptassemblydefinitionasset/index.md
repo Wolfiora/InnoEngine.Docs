@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.e2451df648b6b38b
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptAssemblyDefinitionAsset"
 source: xml
-reviewed: 4cddaa63573b5532506837d3ca38cb86176ac57e1f4fd9a660fa00fe3ad9ccd4
+reviewed: 689460a921f583dfc879c4671b69a998f3a8020849f3db91d6f9c66f6203aa6a
 title: "ScriptAssemblyDefinitionAsset"
 kind: api
 owners: [Inno.Scripting.Compiler]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.a615fad2241a5874
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawerAttribute"
 source: xml
-reviewed: fcb09c11f7b2470ae25fc91967fd2792982486182ebf186be00e2e3af331e460
+reviewed: 9dd980ba696325969542af0564fe64637afedfe063298c84fec5607b3e43ec19
 title: "InspectionDrawerAttribute"
 kind: api
 owners: [Inno.Editor.Inspection]

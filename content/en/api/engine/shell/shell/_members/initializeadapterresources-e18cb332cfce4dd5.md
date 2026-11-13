@@ -2,7 +2,7 @@
 uid: api.e18cb332cfce4dd580241b00bd00ba2cc5673a756b7b845115c8f04c8be707d0
 symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.InitializeAdapterResources"
 source: xml
-reviewed: 9dd70a4bb140dee145ada83248e148019c40a1930a9ba2d5c6feb8af8ad2f0b1
+reviewed: 7bd1922e6a6e2ad27a1ef354f8500306aa58e9ec785d095d70a49e559edfa43f
 title: "InitializeAdapterResources"
 kind: api
 owners: [Inno.Shell]

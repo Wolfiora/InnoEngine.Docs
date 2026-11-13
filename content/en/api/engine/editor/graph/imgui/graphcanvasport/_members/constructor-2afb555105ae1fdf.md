@@ -2,7 +2,7 @@
 uid: api.2afb555105ae1fdfd1e28316e3b578fca283b5a183b182d8f34d1f30490ef219
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPort.#ctor(Inno.Core.Graphs.GraphEndpoint,Inno.Core.Graphs.GraphPortDirection,System.Numerics.Vector2,System.String,System.Boolean,System.Boolean,System.Nullable{System.ValueTuple{System.Numerics.Vector2,System.Numerics.Vector2}})"
 source: xml
-reviewed: 173c07175de40428cc0a3cf210e69dd120a3749e512165e693e0e17fdfbde3ed
+reviewed: 5126c7f8cecd2d6410bff4dde616173a03abd1377e5ee44318d85e36787dbc24
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

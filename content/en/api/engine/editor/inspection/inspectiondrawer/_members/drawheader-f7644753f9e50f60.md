@@ -2,7 +2,7 @@
 uid: api.f7644753f9e50f60f5b3e0778774f8134f09e7cc93b1d8687101136a2dd85e91
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawer\u00601.DrawHeader(Inno.Editor.Inspection.InspectionDrawContext,\u00600)"
 source: xml
-reviewed: 12415b4a16c167b1a2fdfc2680dacb4653c5d64345b5cf3622101d490edee6ee
+reviewed: ce51ca7fe1861f22f81ba5ead3fe30eb2d7e4e45b7d3b9591e4fe646e2e55d51
 title: "DrawHeader"
 kind: api
 owners: [Inno.Editor.Inspection]

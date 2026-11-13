@@ -2,7 +2,7 @@
 uid: api.796efbde528b828b025738c1c03bcd4fe8dfc53bfd0a19b8e38903cfcbe8ec71
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Contains(Inno.Core.Mathematics.Rect)"
 source: xml
-reviewed: 90f65ff28a7c26f76617afa46af342ba33f0caee4cbdfe3e20612de31d622ae2
+reviewed: b2acdf2c7be9f4b73752ae58ba272e18480fabd8e822a6691ab85ad1d034f5ef
 title: "Contains"
 kind: api
 owners: [Inno.Core.Mathematics]

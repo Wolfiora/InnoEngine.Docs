@@ -2,7 +2,7 @@
 uid: api.faae2d186122553a5ca11b9141e1e0b650ec5be8b4de07adff06e37994bddf95
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.AtomicAddStorage(Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)"
 source: xml
-reviewed: 3e1b0cb794b4ff8beb15b4080361cd5b4674b536ccbc4cfe90b93bc84d928e15
+reviewed: eff2eb62282f1864f4ad0a744fdeac4052d7f5d0969f3e8502267ee97e078f80
 title: "AtomicAddStorage"
 kind: api
 owners: [Inno.Rendering.Shaders]

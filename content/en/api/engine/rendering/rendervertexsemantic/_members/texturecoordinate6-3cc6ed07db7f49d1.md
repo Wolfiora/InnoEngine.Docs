@@ -2,7 +2,7 @@
 uid: api.3cc6ed07db7f49d15617187012b85c0020e0f10c1f8ede02339abc64e3cbfc34
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.TextureCoordinate6"
 source: xml
-reviewed: 8e03ac65ce42fbe0e773e08db613cf8859ac332757c2471a4d3618ee5ad162fc
+reviewed: 2e47b5f5e5f92621ea971746ba16d07f9f2fc5ba68a19465743022687b708bab
 title: "TextureCoordinate6"
 kind: api
 owners: [Inno.Rendering]

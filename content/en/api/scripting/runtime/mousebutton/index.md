@@ -2,7 +2,7 @@
 uid: api.inno.core.input.runtime-script.7104a1fe9838823c
 symbol: "scripting:Inno.Core.Input:T:InnoEngine.Input.MouseButton"
 source: xml
-reviewed: 480a80a46977ed9695fd57a39ebb4d8926b58d71838cfeea7236e3104c0df7c7
+reviewed: b26ab3fa3f89684bbce2c34b5ca69eddc32798903892bcac0dfce195a1dc009e
 title: "MouseButton"
 kind: api
 owners: [Inno.Core.Input]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.9f6e7162e0b7c353
 symbol: "engine:Inno.Assets:T:Inno.Assets.ArtifactRetention"
 source: xml
-reviewed: 11968bbd12bb25174ec43ac38b3e92ed4862082db71f5c8bd59d15f9f5abeed5
+reviewed: bd5236c003ff671b84d8bf5261a14056a3b77091f4250691b670ed7129c199e3
 title: "ArtifactRetention"
 kind: api
 owners: [Inno.Assets]

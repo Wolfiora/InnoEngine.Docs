@@ -2,7 +2,7 @@
 uid: api.f06348ce8a184bb1c4eca96e1a07f872157f64b35a0b53777722ef5696a79ef0
 symbol: "engine:Inno.Text.Runtime:M:Inno.Text.Runtime.TextRuntimeFactory.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)"
 source: xml
-reviewed: 86e3a50e8a44415b00c4b96496e765c6be4d10863609a14139d3426314edb4df
+reviewed: 9515657a260263fca16a98c92715dddd3a8e70a93cc8938e661eae1d8a055c6e
 title: "Create"
 kind: api
 owners: [Inno.Text.Runtime]

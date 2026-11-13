@@ -2,7 +2,7 @@
 uid: api.01f74e3b017ef4cfb876b28ad11e370514854979daa06ac19467360b860e6f39
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.LerpUnclamped(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 50847349264cf002c6f536cb37c51e2a969ea7d3cfd38be554211e9655b849f0
+reviewed: d6a6ff6e99c25b8e2c048d5bd0aa9a7a0677382c15c7f4d2d543ba0e2620e36f
 title: "LerpUnclamped"
 kind: api
 owners: [Inno.Core.Mathematics]

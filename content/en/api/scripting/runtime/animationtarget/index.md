@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.81b8f90f8d029dad
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationTarget"
 source: xml
-reviewed: 3744ad5f19531f55500868f539ab1337581ee02905ee7abc78ece41e4e642ebc
+reviewed: 77099ba38d82e7b6d708e739f1461e7bcf0e84ba6fad43a3b715dee3471fa6eb
 title: "AnimationTarget"
 kind: api
 owners: [Inno.Animation]

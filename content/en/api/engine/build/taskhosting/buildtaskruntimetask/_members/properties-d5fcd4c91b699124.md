@@ -2,7 +2,7 @@
 uid: api.d5fcd4c91b69912406868df4daf585c73404f1092ff6fdc6b0b05f9875f7d845
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.BuildTaskRuntimeTask.Properties"
 source: xml
-reviewed: df1ce034200e479391638955401fb9904debeae6f6ab59b305ea3329c8ae4358
+reviewed: 1ff836d459ba5d2276ebed54ae1233b8ce60467726bf2c42a4ab4b4303afbc52
 title: "Properties"
 kind: api
 owners: [Inno.Build.TaskHosting]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.1b2782dc07767cb8
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderDeviceAllocationCounters"
 source: xml
-reviewed: 3f59de4833c2640232f5060a171dd951dd0a653f09fa563e548daf5015219695
+reviewed: 1c364421f30921cf58abf5c7bf804441c92ae3488f9dcd96272ab80357e25efb
 title: "RenderDeviceAllocationCounters"
 kind: api
 owners: [Inno.Rendering]

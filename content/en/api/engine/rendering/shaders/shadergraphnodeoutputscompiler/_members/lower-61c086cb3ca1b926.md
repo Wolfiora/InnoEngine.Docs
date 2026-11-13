@@ -2,7 +2,7 @@
 uid: api.61c086cb3ca1b9263b05fefcff1ac4fd4305064d5192c3e264d59e287a1ceabb
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodeOutputsCompiler.Lower(Inno.Rendering.Shaders.ShaderNodeLoweringContext)"
 source: xml
-reviewed: 775c6cdb26b3271a329d67b77f81fcbbbbb4f40f15aeaf5fd1896e1387dafef6
+reviewed: 6d2946df7f4a936c4677d261340e99fc607097dd6876c95806ba3ebdcfe0110b
 title: "Lower"
 kind: api
 owners: [Inno.Rendering.Shaders]

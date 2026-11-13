@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.2901e18d9236794a
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderMaterialPass"
 source: xml
-reviewed: 3016882d17dc6602bd1eaac90b73a1fe884561ca651536fd00644d46a1580d7f
+reviewed: 49f3797d6668885a66114874d5644b52174b9bda6780844f489d6e130784d4c5
 title: "RenderMaterialPass"
 kind: api
 owners: [Inno.Rendering.Runtime]

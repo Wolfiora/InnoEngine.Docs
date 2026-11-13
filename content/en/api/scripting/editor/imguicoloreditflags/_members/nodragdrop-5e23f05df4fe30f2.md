@@ -2,7 +2,7 @@
 uid: api.5e23f05df4fe30f2dc814f289c135d77116014bd7487bacf1d0b95c67daef613
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiColorEditFlags.NoDragDrop"
 source: xml
-reviewed: d94f2a5ed0148674aafebfc8ba31a9e44d2f1e952e23306ed91137cab86d8581
+reviewed: 701ca914db49b83f479f670a46a91f1e54e2ef2c7803fe07966f5018d4ad581d
 title: "NoDragDrop"
 kind: api
 owners: [Inno.Editor.ImGui]

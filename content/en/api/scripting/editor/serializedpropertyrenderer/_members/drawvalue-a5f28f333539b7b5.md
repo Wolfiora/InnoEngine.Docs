@@ -2,7 +2,7 @@
 uid: api.a5f28f333539b7b56e4ce9bac67def7c0b81a6cde257581289c2189564d7d378
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.SerializedPropertyRenderer.DrawValue(InnoEditor.Core.EditorContext,System.Object,System.String,System.String,System.Type,System.Func{System.Object},System.Action{System.Object},InnoEditor.Inspection.IInspectionPropertyEditService,System.Boolean,System.Boolean,System.String,System.Nullable{System.Double},System.Nullable{System.Double})"
 source: xml
-reviewed: cab335fd0d1d424694a8643d998108ecf65c0af2b526bdac68f477c9e6dde0f5
+reviewed: 66e05aa9ae8cc5819bd1218ce96aee46969624a6711df08e042e5ed318c9bb99
 title: "DrawValue"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.ddc8ef15aa126b146c7306a5e7e8f86a25fc1302a406de0e6fad3980ea4edfc4
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.DispatchIndirect(InnoEngine.Rendering.RenderBufferHandle,System.Int32,System.Int32)"
 source: xml
-reviewed: 7d92daadd80b5253e1048d67226149be9be8d5e27fbe3664112e2358bb0e972a
+reviewed: 25f4c79797769d2077ea234f20503eaceb8475ee8a4de9159d08fdd96821cfb4
 title: "DispatchIndirect"
 kind: api
 owners: [Inno.Rendering]

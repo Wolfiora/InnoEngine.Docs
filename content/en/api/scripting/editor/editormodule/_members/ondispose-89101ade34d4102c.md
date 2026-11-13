@@ -2,7 +2,7 @@
 uid: api.89101ade34d4102c42b5ddfb9d1eb5145621e7834f70857531f2af6b2a0aa555
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.OnDispose"
 source: xml
-reviewed: a717087074b32fd1e15df456084ca6c7b1768d064fe8a7beefffe36bf139d1b7
+reviewed: 84dd5c0f083ff1ad2eac458a6418be335ea801a6ecb03a9dcb6f956b023738c1
 title: "OnDispose"
 kind: api
 owners: [Inno.Editor.Core]

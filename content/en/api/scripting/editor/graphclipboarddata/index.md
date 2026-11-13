@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.editor-script.f156823d053238e8
 symbol: "scripting:Inno.Editor.Graph:T:InnoEditor.Graph.GraphClipboardData"
 source: xml
-reviewed: 41b442716f4eabc3fed296d24a27d1afcddc160e5ba1a849abd96458bbbfc8fc
+reviewed: d0f498c27c56f2bd39840abc866e4cb5b64171a4803c58677786c45dbbd5d302
 title: "GraphClipboardData"
 kind: api
 owners: [Inno.Editor.Graph]

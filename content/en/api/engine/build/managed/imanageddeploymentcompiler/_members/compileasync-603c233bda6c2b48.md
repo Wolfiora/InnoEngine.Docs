@@ -2,7 +2,7 @@
 uid: api.603c233bda6c2b48b51dddc781f208a78da3373f6335c532b582434a590c2d7c
 symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.IManagedDeploymentCompiler.CompileAsync(Inno.Build.Managed.ManagedDeploymentRequest,System.Threading.CancellationToken)"
 source: xml
-reviewed: 7fe28408b64b905127411563d846d88cec30bf931fb2565d4622e4ac8c764ffe
+reviewed: cbd945e2edeb3a8455eb0c402589f7ae5197e41e2ee3262a703e978b14b70167
 title: "CompileAsync"
 kind: api
 owners: [Inno.Build.Managed]

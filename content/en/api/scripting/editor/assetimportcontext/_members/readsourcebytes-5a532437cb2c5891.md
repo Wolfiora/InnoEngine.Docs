@@ -2,7 +2,7 @@
 uid: api.5a532437cb2c58913222644fc011255a6e728e69da9ff5a6b5ed1591aab54956
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.ReadSourceBytes(InnoEngine.Assets.AssetPath)"
 source: xml
-reviewed: 7e9f7ae7d5f1997005dc6981806d4ee2943c7a07b47a5dad37d353f02ba42d90
+reviewed: 3d9dc7846ab6306dbfdac31fdee04035da968a842bd2b96931e2fa1c4aa9bc2c
 title: "ReadSourceBytes"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.a3b20065a1a7e21dd4b3876025341b065175b015a4cabd10364a638062555714
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.NoSortAscending"
 source: xml
-reviewed: d44d60dd5903595e13946a57f673c10507f836d43ee8395d5f8fc9b2420a3e2b
+reviewed: 5e52ce5914ffb75ee155b9816caa92e754fc48770e052b6e48cd0a22a5b71411
 title: "NoSortAscending"
 kind: api
 owners: [Inno.Editor.ImGui]

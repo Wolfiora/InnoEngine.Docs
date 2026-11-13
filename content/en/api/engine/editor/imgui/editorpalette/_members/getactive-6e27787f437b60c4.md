@@ -2,7 +2,7 @@
 uid: api.6e27787f437b60c4fa12cd31ebb6c5de0c997c662aa5896594d49f7663548412
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorPalette.GetActive(System.Numerics.Vector4)"
 source: xml
-reviewed: 245e422cbeb824d17cfb8f4757fa13c34566d804c3d2acaac2d2344de3c25fb6
+reviewed: 20c025cba596284acf8e74e873f38e005fb54d515cbb282fba7b1c232056b2be
 title: "GetActive"
 kind: api
 owners: [Inno.Editor.ImGui]

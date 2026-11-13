@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.fd2c877062cd8860
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetExportContext"
 source: xml
-reviewed: ac4f7c83c9f6e1e80121ec7997fd3ff3ce0c104264ad4c5bf48e214e78ca7bf7
+reviewed: a4448b5b92c5014fab0da369faccdfdd6563590917d97ad41f7eed98ace267db
 title: "AssetExportContext"
 kind: api
 owners: [Inno.Assets.Pipeline]

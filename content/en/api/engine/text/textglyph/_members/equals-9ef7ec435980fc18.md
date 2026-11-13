@@ -2,7 +2,7 @@
 uid: api.9ef7ec435980fc1801a840e5ed751ae0fb073a21d1a3c643d56860e8ff2ac1df
 symbol: "engine:Inno.Text:M:Inno.Text.TextGlyph.Equals(System.Object)"
 source: xml
-reviewed: 4d0abfce4fcba80e11a43e5dbdd412d9dd58d47e5a33c8b1a8223c18f56e0b2f
+reviewed: 0fcd80d19e88f5afc7da996f3e447c663c341ff0a97ca8ddd51d90d6304fd39b
 title: "Equals"
 kind: api
 owners: [Inno.Text]

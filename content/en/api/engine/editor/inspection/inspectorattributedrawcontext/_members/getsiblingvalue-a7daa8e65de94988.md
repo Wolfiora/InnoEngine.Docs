@@ -2,7 +2,7 @@
 uid: api.a7daa8e65de9498855a5c5210af39bc2435e504213640cee77932b804393c039
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectorAttributeDrawContext.GetSiblingValue(System.String)"
 source: xml
-reviewed: 3db02149d44a210800ac8c7cb1278137647a45946957f3d7bfededc0fbece5f1
+reviewed: baf158b379a3a9ef11aaef42628dd0ea2a5d9d85567a10aae1c1e628f7e209e5
 title: "GetSiblingValue"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.b1af4079d3bfcfc1f54a361459c8803524c79a15f4f93b60afcf251a4d80aec8
 symbol: "engine:Inno.Audio.Runtime:P:Inno.Audio.Runtime.AudioRuntimeOptions.maxContentSnapshots"
 source: xml
-reviewed: 865015f99a64e579504aa4712fc17ff56c16526c116be8f8379ae1a23b723e81
+reviewed: dc42ba0da92f7cb40b85a45edf3c83dca31bf266917af486c1b2a8ecfb5d6602
 title: "maxContentSnapshots"
 kind: api
 owners: [Inno.Audio.Runtime]

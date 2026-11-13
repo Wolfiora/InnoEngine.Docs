@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.6e8046777a12450e
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiInputTextFlags"
 source: xml
-reviewed: 5cd088c18732650c0dca396c1681a8a93779b0d42883f7f1334a8d26dc2de338
+reviewed: 682e4f9259c26328748a26bb2b00e9f2b89d2f709f41dde4f4f9ed8b65e459c9
 title: "ImGuiInputTextFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.imgui.editor-script.e3fe67cc8287fec2
 symbol: "scripting:Inno.Editor.Graph.ImGui:T:InnoEditor.Graph.GraphCanvasPointerController"
 source: xml
-reviewed: 6954239cf31b80217552767e4894dcc924b7f02007145df68d7232b976c1963e
+reviewed: 00a3c7753c6c1ace07b19075622da94681913784eb8e599fe8502ac468e50c67
 title: "GraphCanvasPointerController"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

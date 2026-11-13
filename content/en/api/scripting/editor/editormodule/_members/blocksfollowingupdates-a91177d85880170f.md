@@ -2,7 +2,7 @@
 uid: api.a91177d85880170ffae047cfa70299a41c915474e84b14fc57c4fd4c44709e0f
 symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModule.blocksFollowingUpdates"
 source: xml
-reviewed: 1176458af1464ee3063b44f64dc906c03057a8716bdbc883c34dfba8611ff997
+reviewed: 719181067c32cf2de361ef38682369293076724d54beb3c8d406caa6b1277346
 title: "blocksFollowingUpdates"
 kind: api
 owners: [Inno.Editor.Core]

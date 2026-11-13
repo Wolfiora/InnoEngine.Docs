@@ -2,7 +2,7 @@
 uid: api.67b2aa28f15ed8f2d98601f8dfed5f1ab178f153763c45f47cfa78a13cd771d9
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetValue(System.Object,System.String)"
 source: xml
-reviewed: 107098c895fec975bafb651e62d803a2d19d13406c8352895af55bb92b16be64
+reviewed: e32af57fd29206918e74801f1a01ea67a447a2209f63e96b6b74b067878c782d
 title: "SetValue"
 kind: api
 owners: [Inno.Editor.Inspection]

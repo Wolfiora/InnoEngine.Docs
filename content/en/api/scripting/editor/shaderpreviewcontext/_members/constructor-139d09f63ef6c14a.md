@@ -2,7 +2,7 @@
 uid: api.139d09f63ef6c14a3f32b646043344512bcd87569b566149e1927b0997e1821f
 symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderPreviewContext.#ctor(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.ShaderDefinition,InnoEngine.Diagnostics.IDiagnosticReporter,System.Int32,System.Int32)"
 source: xml
-reviewed: 75d660a34f9dfa4d9627997a065faa4903dc341cd29ed01b1b9f57c44a14fb70
+reviewed: 1bceca9e8eff28bc2bb40926dac90f4ffc62776b5d22a48b0922d568eca0c7bf
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.18214149aef080e5
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.IShaderSourceFrontend"
 source: xml
-reviewed: eb4209a32657d5f5dfd228c01b4e520af9761fe8abb15ea1e9395d2d39f12255
+reviewed: 6505a275cf8e3c94c5ff6bd21558db9c3a77a120577a9c2bbb718b565534a850
 title: "IShaderSourceFrontend"
 kind: api
 owners: [Inno.Rendering.Shaders]

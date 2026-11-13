@@ -2,7 +2,7 @@
 uid: api.ec4da9a10774f01df4721a98c583480978358b7d36d6bb7c2193ecc464f56938
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasLayout.SetNodes(System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasNode})"
 source: xml
-reviewed: 943828738d176a7c43c1c40bc9af6decbee8aa677d7b7fabc70b88f63fe83cbb
+reviewed: d3a1ab5c27f685e389ec848e5646492a8767834af0d77799465f4504a367533b
 title: "SetNodes"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

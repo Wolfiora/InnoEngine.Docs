@@ -2,7 +2,7 @@
 uid: api.e03644d78caf6bfdbc3cff6d1859810b7ce1c2f3686811dc0bdebf15842c0c0d
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorPreviewHandle.Equals(InnoEditor.Rendering.EditorPreviewHandle)"
 source: xml
-reviewed: aa4ef9c32dd3ca76c6a89879aea0cfbb45728eb7e08b65ad79a1b538327a605e
+reviewed: db810fc560018342d71ae21e059ff1d7228cb257d817110b80e52fcf4d1876aa
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Rendering]

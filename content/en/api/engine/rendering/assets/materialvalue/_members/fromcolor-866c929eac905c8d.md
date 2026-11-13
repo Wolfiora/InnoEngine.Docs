@@ -2,7 +2,7 @@
 uid: api.866c929eac905c8d045bac592b4bea8da7b6c554649835cf300168980487dfb7
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.MaterialValue.FromColor(Inno.Core.Mathematics.Color)"
 source: xml
-reviewed: eff6b697be1a6b75823581f6a711b0a148cfc87d6882a303d88ca631a83fd3b9
+reviewed: 4c85a7aaa1dd5bc51abfb8957d2a94291835fd3ae55076c97e9666330c8849f0
 title: "FromColor"
 kind: api
 owners: [Inno.Rendering.Assets]

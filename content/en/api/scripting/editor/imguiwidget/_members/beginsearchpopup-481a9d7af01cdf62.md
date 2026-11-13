@@ -2,7 +2,7 @@
 uid: api.481a9d7af01cdf625b0c87be43a2fa3f15ba3c909333bc3778065b621e94357f
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginSearchPopup(System.String,System.String@,System.String,System.UIntPtr,System.Single)"
 source: xml
-reviewed: 5ea06efa924058433b28007c2369ffc11eb7e95c9c277d82d006155f606644d1
+reviewed: 49c894a36138d36e6070f5dd10f66b72eaf32533132eb5faabd4c1dc380ec5b0
 title: "BeginSearchPopup"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.58bcd071e974ecdd175a51398b88c4f13f067e21404e8ad415b97224bd4d4de0
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectId.GetHashCode"
 source: xml
-reviewed: f84bdbb38406057b5651c24307c1901d117ba0bb67b7fb268d9c02ee60247db8
+reviewed: 60a8ed6c27d685ddd36cc4f89d029326cc4db8903ee28f7255cb288ecde08de3
 title: "GetHashCode"
 kind: api
 owners: [Inno.Core.Settings]

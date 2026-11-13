@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.d915513bf17d7251
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPrimitiveTopology"
 source: xml
-reviewed: 0aa32ebe586330ed70a248045d51f762ad8a49f289a288baeedb88a76cc8f679
+reviewed: c42cb6d7b4a5838402c57b6e0f15c30f7fd52a71604190b12b51ffb85d930592
 title: "RenderPrimitiveTopology"
 kind: api
 owners: [Inno.Rendering]

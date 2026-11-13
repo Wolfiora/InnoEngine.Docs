@@ -2,7 +2,7 @@
 uid: api.4a061718fb493e7dc3eff7d52941475302ac8acc4ff0425d7f86dc7e20c29d99
 symbol: "engine:Inno.Scene:P:Inno.Scene.GameScene.hierarchyRevision"
 source: xml
-reviewed: c860b5de8ea730d72bfe7aa2d7ff9950b9f50c78c78e490ca8456a1c50e5537f
+reviewed: d35177cc3c7edbe13358839daf02850c72a085ef8e1c1fb19c4996a1a6d4487b
 title: "hierarchyRevision"
 kind: api
 owners: [Inno.Scene]

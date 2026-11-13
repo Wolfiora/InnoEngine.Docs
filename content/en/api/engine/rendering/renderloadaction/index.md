@@ -2,7 +2,7 @@
 uid: api.inno.rendering.8bf224b7d371be04
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderLoadAction"
 source: xml
-reviewed: 1a73cecef771f57cda79b8bc7a9b5f356940248d19acd975bcf49b9ac665a137
+reviewed: 4c2c858a6c572fa632242472e2bfd47d70e391b5ebc87d2c6fb243520cbf6c92
 title: "RenderLoadAction"
 kind: api
 owners: [Inno.Rendering]

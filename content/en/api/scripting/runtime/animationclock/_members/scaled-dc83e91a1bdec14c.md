@@ -2,7 +2,7 @@
 uid: api.dc83e91a1bdec14cddf97e34194b43d47c0b3903b5f113cc90e878f9091573e5
 symbol: "scripting:Inno.Animation:F:InnoEngine.Animation.AnimationClock.Scaled"
 source: xml
-reviewed: e65c3c94bf594d7024b5d6a2f1716413529472425069842720975eb249867bf3
+reviewed: 700223a6b553812185abffbe82c2705f12f78ece54ac2ae6a6c2135fa07dc0e1
 title: "Scaled"
 kind: api
 owners: [Inno.Animation]

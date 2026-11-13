@@ -2,7 +2,7 @@
 uid: api.d4d1c7a78aafaf485a713ca60ed20ac405c68d2be5a90c222731b06a357f9331
 symbol: "engine:Inno.Platform:M:Inno.Platform.IPlatformApplication.GetWindows"
 source: xml
-reviewed: 240d04433a7ee739831ab0be3cd36db10e356ab64ee287cd467b5a865a1caf16
+reviewed: 48c700e65c1f76f202aa4707a7a6287b391d639add720cf4bc79c222d0840c12
 title: "GetWindows"
 kind: api
 owners: [Inno.Platform]

@@ -2,7 +2,7 @@
 uid: api.324b5d5231b62c3d70caf269fa345357644b00cbef66b92ff34c420697942fe3
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorSelectionSnapshot.identities"
 source: xml
-reviewed: b491d956a119ce25bb1345051abe455f848b9ce4f44dea7893fe644b3d9e1733
+reviewed: 105b7e880e32366ce8e51cd3862d5fb256cfd7db50a813ae51bc563231241d23
 title: "identities"
 kind: api
 owners: [Inno.Editor.Interactions]

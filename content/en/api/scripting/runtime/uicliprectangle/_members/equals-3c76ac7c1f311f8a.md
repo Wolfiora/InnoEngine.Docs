@@ -2,7 +2,7 @@
 uid: api.3c76ac7c1f311f8a0bfed24bb5093fb1dda9c2b144a3d36420db6210679425a1
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiClipRectangle.Equals(InnoEngine.UI.UiClipRectangle)"
 source: xml
-reviewed: 5d3fb9d713e55bbf0eb75cdbf63b10bbd12efcc8d6c8958d1c1f287ddce36a05
+reviewed: 9c6eaa13f3c77219839077e2366bc24a54dfe4b5cc5b446b86b9e6fb3743f6f3
 title: "Equals"
 kind: api
 owners: [Inno.UI]

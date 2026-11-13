@@ -2,7 +2,7 @@
 uid: api.fbd60039e469575a3eba7a8d5cc95ce971df3cd7df9dd5c5a9e596a723302d55
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawer\u00601.#ctor"
 source: xml
-reviewed: d929c56257f6a0a903cb59d5442a4535a2b0574facfa0e4d87fedcc602baee64
+reviewed: ca9b419d230c54fa7693671f05ab94586bc8e9d2aac8b27c846749ab37f8cade
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.d483ebd4add8052e7957075420b0561fc27691e91cd79816c060a7ddc173ac41
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.DockHierarchy"
 source: xml
-reviewed: 0a756ec5242d9c092387ee01ae00ada6e6631628cc7e0056bccc0ffa13f141eb
+reviewed: 205d80f8464c7e18a4e29f9219a595675b0fcc5fce6d44ebd418448d50d44fec
 title: "DockHierarchy"
 kind: api
 owners: [Inno.Editor.ImGui]

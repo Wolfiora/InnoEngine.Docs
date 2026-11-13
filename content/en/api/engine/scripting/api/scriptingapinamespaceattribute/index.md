@@ -2,7 +2,7 @@
 uid: api.inno.scripting.api.ce6d3b3545876a82
 symbol: "engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingApiNamespaceAttribute"
 source: xml
-reviewed: d5134b6feef8711bc1f32505e967cba14701c6ebf48454dd4231cf3f997a8e84
+reviewed: f50a5f9918152915cc0163882fe005cc6e053c9395bf319ae577ca3475b1de90
 title: "ScriptingApiNamespaceAttribute"
 kind: api
 owners: [Inno.Scripting.Api]

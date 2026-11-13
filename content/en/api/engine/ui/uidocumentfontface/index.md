@@ -2,7 +2,7 @@
 uid: api.inno.ui.d45614ff9380b66b
 symbol: "engine:Inno.UI:T:Inno.UI.UiDocumentFontFace"
 source: xml
-reviewed: 54ebb373541c638049c839de418a73cf101aacf10b9d6ac22a909b522c900381
+reviewed: fe312d1769a29901422b0ad868e74ecf9cbc12e6aae27d4cf663a0d2f01a5520
 title: "UiDocumentFontFace"
 kind: api
 owners: [Inno.UI]

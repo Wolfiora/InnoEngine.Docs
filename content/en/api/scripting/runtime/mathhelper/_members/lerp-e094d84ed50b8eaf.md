@@ -2,7 +2,7 @@
 uid: api.e094d84ed50b8eafc722d4e3f9758a222c17c4f8e50f11995005b20badedad4a
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Lerp(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: a350461a2db98f93eab5454e4e13689c812af8ac6662e3039fcb10407ab6558f
+reviewed: 89b61d538d56857985b1d705dbe55baa8c61ee6ecb04518a53aefc522821f645
 title: "Lerp"
 kind: api
 owners: [Inno.Core.Mathematics]

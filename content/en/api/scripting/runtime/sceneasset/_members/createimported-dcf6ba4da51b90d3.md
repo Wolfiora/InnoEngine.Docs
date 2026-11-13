@@ -2,7 +2,7 @@
 uid: api.dcf6ba4da51b90d3180e54d0052953bb131feb9344a174b9b471e11a3d152da0
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.SceneAsset.CreateImported(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{InnoEngine.Assets.AssetDependency})"
 source: xml
-reviewed: 8dbd01f57d391ff6b9435194cea3b58cf604ecf601d332c6f766d4c4fa837ec8
+reviewed: 1421280728eeacb85c18902bd86124e468cba9c2713c710c004ee099bca739d5
 title: "CreateImported"
 kind: api
 owners: [Inno.Scene]

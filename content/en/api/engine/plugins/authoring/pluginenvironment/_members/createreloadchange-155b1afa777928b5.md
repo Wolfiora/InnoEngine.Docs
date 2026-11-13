@@ -2,7 +2,7 @@
 uid: api.155b1afa777928b5714e62353c942a593b5848b6084fca8328ca1ae6733f78b2
 symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.CreateReloadChange"
 source: xml
-reviewed: df456836a126c82347235a6cadb6f6acc4062faa9112f27e140dd43e13d3705e
+reviewed: b8c4c52b49465ebbd3dc3b83e9d5b24cdc680901434bd3fd6150276aefa4d624
 title: "CreateReloadChange"
 kind: api
 owners: [Inno.Plugins.Authoring]

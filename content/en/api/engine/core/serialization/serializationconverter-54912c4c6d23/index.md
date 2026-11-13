@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.6e467ac49f50091d
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.Converters.SerializationConverter"
 source: xml
-reviewed: 7773201e6bc67ccfab97344a0f7b0562c36e92ec8612fab42428980394d36a4e
+reviewed: 08761c140fc88b382fff69fba3f4826a9081bd6d005a687218f8c70db3fb0b9d
 title: "SerializationConverter"
 kind: api
 owners: [Inno.Core.Serialization]

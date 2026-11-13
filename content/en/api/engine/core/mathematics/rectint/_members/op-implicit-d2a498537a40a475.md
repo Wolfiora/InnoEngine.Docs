@@ -2,7 +2,7 @@
 uid: api.d2a498537a40a475994cb7c4df6fbbaa696c65cd339f5d048271338020334f1e
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.op_Implicit(System.Drawing.Rectangle)~Inno.Core.Mathematics.RectInt"
 source: xml
-reviewed: 04f4e190757abca611f443468c1d235ee46530b1aa243baea9acec6d0c8bd4a4
+reviewed: 561497f4d6da484d2802b69df52b52dc356880fefe0cb6b85865b2508c183c4d
 title: "op_Implicit"
 kind: api
 owners: [Inno.Core.Mathematics]

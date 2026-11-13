@@ -2,7 +2,7 @@
 uid: api.inno.assets.18c8a4deceef6c44
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetReferenceLocation"
 source: xml
-reviewed: cc51e43fb20f7e42f8616903923294b0eceeff26cff8e5eeb03a25be693d9e32
+reviewed: ae242cc0ffec81dcae45b7cab0456de11b0388b7f6de59c9f8a6b157b94b8994
 title: "AssetReferenceLocation"
 kind: api
 owners: [Inno.Assets]

@@ -2,7 +2,7 @@
 uid: api.c2efb620a73ee356630a1872eb0e2c6e7ae3e78ea264ad50c6db784486e98a8c
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationConverter\u00601.Read(InnoEngine.Serialization.SerializationReader)"
 source: xml
-reviewed: 5dd2827c07c357c6139d0be7d486a3fd8ddd6227300bfc5e8012eadf36f5ebe4
+reviewed: e3aa088dba10b443cc3249e7052b5e2054ceec658a7ffc960b538dec93b98410
 title: "Read"
 kind: api
 owners: [Inno.Core.Serialization]

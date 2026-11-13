@@ -2,7 +2,7 @@
 uid: api.be0d6eb78c666f55b68977c2571118815af47fb67199fdc6568389b8f315fa68
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageToolRequest.#ctor(Inno.Rendering.Shaders.ShaderIrStage,Inno.Rendering.Assets.Authoring.ShaderCompileTarget)"
 source: xml
-reviewed: 13eded43669d61d2600edb7e3b364262e97298df7f946952d286e199aab85002
+reviewed: 68d930fbe0219fc3a08a572a6b751597a3221999202c28bfb0190b279d5c7bdd
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

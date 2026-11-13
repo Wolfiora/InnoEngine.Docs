@@ -2,7 +2,7 @@
 uid: api.27155d9ba86088e563bafbcfc3908be046e8c0203afd53818f59ea31fcb02b78
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.ShaderInterfaceBinding.nativeName"
 source: xml
-reviewed: 4e0a82c2ec547e59c3dfcf7d0edb3368ae318b9c1537fadf0f2cb1456870ca7c
+reviewed: 1a039bf9de79d5333f01eeda8db0b45c931290a2ccb50c069505aa3aae6c4624
 title: "nativeName"
 kind: api
 owners: [Inno.Rendering]

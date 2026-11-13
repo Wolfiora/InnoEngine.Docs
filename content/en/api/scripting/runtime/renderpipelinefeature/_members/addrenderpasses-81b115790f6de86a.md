@@ -2,7 +2,7 @@
 uid: api.81b115790f6de86a6c851595cc0cc55d6ad3c179940f8744735cad101142c9c5
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipelineFeature.AddRenderPasses(InnoEngine.Rendering.RenderFeatureContext)"
 source: xml
-reviewed: 4d12327515824e1ea40c401f6df051fa47a35a1d23ceb9f05959394005e6a5fb
+reviewed: 8bdf5cc4bab62a2e188a4ec7f61a6c2866e7dad4297f73547f4462458c9be1cc
 title: "AddRenderPasses"
 kind: api
 owners: [Inno.Rendering.Runtime]

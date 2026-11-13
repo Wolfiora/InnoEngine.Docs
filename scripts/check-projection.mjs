@@ -5,7 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
-import { isDocumentedProject } from './api-scope.mjs';
+import { isDocumentedProject, isDocumentedProjectGuide } from './api-scope.mjs';
 import { checkExampleEvidence } from './example-evidence.mjs';
 import { inside, readOwned } from './owned-input.mjs';
 
@@ -23,7 +23,7 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   for (const field of ['repository', 'revision', 'sourceTree', 'toolingRevision']) {
     if (catalog[field] !== binding[field]) errors.push(`Canonical catalog binding differs: ${field}.`);
   }
-  const projectNames = projects.map((project) => project.name).sort();
+  const projectNames = projects.filter(isDocumentedProjectGuide).map((project) => project.name).sort();
   if (JSON.stringify(projectNames) !== JSON.stringify(Object.keys(catalog.projects).sort())) errors.push('Canonical project coverage differs from the bound manifest.');
   const sourceFiles = (await files(inside(root, 'content/en'))).filter((file) => file.endsWith('.md'))
     .map((file) => path.relative(root, file).replaceAll('\\', '/')).sort();
@@ -151,7 +151,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
       if (!isDocumentedProject(owner)) continue;
       if (facts.model === 'source-clr') captured.add(project.name);
       for (const symbol of project.symbols) {
-        if (!symbol.source?.endsWith('.cs') || /^(backends|extern|tests)\//.test(symbol.source)) continue;
+        if (!symbol.source?.endsWith('.cs') || !/^(src|build)\//.test(symbol.source)) continue;
         if (digest(symbol.signature) !== symbol.signatureHash) errors.push(`Invalid declaration digest: ${symbol.id}.`);
         if (facts.model !== 'source-clr' && !['Runtime', 'Editor', 'Authoring'].includes(symbol.scriptingScope)) {
           errors.push(`Missing actual script scope: ${symbol.id}.`);
@@ -216,7 +216,7 @@ async function checkApiReferences(root, binding, catalog, projects, errors) {
   return { extractedSymbols: expected.size, authoredSymbols: observed.size,
     missingSourceCaptures: projects.filter(project => isDocumentedProject(project) && !captured.has(project.name)).map(project => project.name),
     excludedProjects: projects.filter(project => !isDocumentedProject(project)).map(project => project.name),
-    scope: 'Public/protected C# engine and tooling contracts plus actual script projections. Backend, extern and test APIs are excluded; editorial prose is reported separately.' };
+    scope: 'Public/protected C# contracts owned by src/ and build/, plus actual script projections. Other roots, tests and fixtures are excluded; editorial prose is reported separately.' };
 }
 
 function route(source) {

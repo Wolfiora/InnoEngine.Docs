@@ -2,7 +2,7 @@
 uid: api.1317b1671cdb78d551818ecf3d924163ff71f2496695c582880da99a1f20b146
 symbol: "engine:Inno.Editor.Panel.Hierarchy:M:Inno.Editor.Panel.Hierarchy.HierarchySceneDropTarget.#ctor(Inno.Scene.GameScene)"
 source: xml
-reviewed: 0a3254f5307fe63d26987b090924835cf46b73bf5de7269371b57f846a7f7ebe
+reviewed: 0ea62b56ee7cf85d7097216fa20425f0df7365f84e5a6751591de17a9da48e94
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Panel.Hierarchy]

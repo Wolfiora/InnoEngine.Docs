@@ -2,7 +2,7 @@
 uid: api.b7f428ac9f72b11a93d136b006bbc41a8745ebe7272559209c47266fd8335b1d
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderGeometrySection.GetHashCode"
 source: xml
-reviewed: be64bacdeec6134431e1a6f43a27fe9e843f55de4492987bf89db6a01d1ff037
+reviewed: 02a07b2c41ee673188011295904b77c8c1c23d1cf4f8889f94a564ca351f314a
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering.Runtime]

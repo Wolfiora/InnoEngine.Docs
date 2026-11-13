@@ -2,7 +2,7 @@
 uid: api.215567b1d64d46c49fe23e64f1489e2cd88484231f5dcd8465eaf6f05901c54d
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.SetTreeNodeOpen(System.String,System.Boolean)"
 source: xml
-reviewed: 72e02f31f07aaba2f250f6b33d33f5c80c5a3111a33ee1a73837e72a8e560c75
+reviewed: 8e243176b5f72b65ed6b8f13c9c3c9501e8011b2d47a470a7598a413d9c7a1c8
 title: "SetTreeNodeOpen"
 kind: api
 owners: [Inno.Editor.ImGui]

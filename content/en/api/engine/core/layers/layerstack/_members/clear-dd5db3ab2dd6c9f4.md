@@ -2,7 +2,7 @@
 uid: api.dd5db3ab2dd6c9f4c968c50e54a169d5ea3326cdb767fd1bf7ab39e7e74c02f7
 symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Clear"
 source: xml
-reviewed: 027827f68f2a4f6383419ccccf0ec7bb1eab0016e91c5f97195fea6c88afb48a
+reviewed: b1f2da9d4e3d4c5493a6b35c0737fb521e1cd752ea3833c54e68c426c403a314
 title: "Clear"
 kind: api
 owners: [Inno.Core.Layers]

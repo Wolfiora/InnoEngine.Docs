@@ -2,7 +2,7 @@
 uid: api.7d6e20585e465244ee7d1d5e3b4907229ec2f84f8137b5b9ef492ec25b2c93bd
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.ValidateRename(Inno.Editor.Assets.AssetEditorContext,System.String)"
 source: xml
-reviewed: 84c40d0e1a3fa871e5d8717d99660294ca090b0cd2e50dd2f5a406b67afe2294
+reviewed: 6545c53034ddaabc7ef4023db0095a3320842ef94213d401e1eb59c0c6ceec99
 title: "ValidateRename"
 kind: api
 owners: [Inno.Editor.Assets]

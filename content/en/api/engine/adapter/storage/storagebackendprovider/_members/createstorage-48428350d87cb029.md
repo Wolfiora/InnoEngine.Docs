@@ -2,7 +2,7 @@
 uid: api.48428350d87cb0297678f8e96af22cbfea2cd07ae3d732195a67e846403ebe74
 symbol: "engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.StorageBackendProvider.CreateStorage(Inno.Storage.StorageScope)"
 source: xml
-reviewed: 20d2cc3ee7346e98ba2c8525083bec6bac40adb92a9b3d61b9025391bf1444f5
+reviewed: c2b30a685512b68fd97e32b8fcba2f600bb020957df61fb8edd9d266b93c8850
 title: "CreateStorage"
 kind: api
 owners: [Inno.Adapter.Storage]

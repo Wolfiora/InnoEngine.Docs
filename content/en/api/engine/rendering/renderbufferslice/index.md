@@ -2,7 +2,7 @@
 uid: api.inno.rendering.d6418fb526109d94
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderBufferSlice"
 source: xml
-reviewed: 399815ff5ac320a3ca2a61b570334fd54229dd76972a574b0c1490508f0bfb5e
+reviewed: 1e7892b638674989597d3e02568acf033ee5ecc14ef4cfd3ca660a06e17e3182
 title: "RenderBufferSlice"
 kind: api
 owners: [Inno.Rendering]

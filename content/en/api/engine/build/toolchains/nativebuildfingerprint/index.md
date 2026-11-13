@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.814ce92b923df754
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBuildFingerprint"
 source: xml
-reviewed: ac599787ffa0759fe4b4d45715b1423d1f6d8a25493394df852c4139dabcabca
+reviewed: e79f2b7ad30a053a1d81081ef929376048535c24ca275eca6b21f6537db75413
 title: "NativeBuildFingerprint"
 kind: api
 owners: [Inno.Build.Toolchains]

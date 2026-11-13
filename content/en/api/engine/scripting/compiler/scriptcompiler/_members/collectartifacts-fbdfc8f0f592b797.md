@@ -2,7 +2,7 @@
 uid: api.fbdfc8f0f592b797b874040d0ef35dbb1e2185365b1fbc51fa7f23eba5756af6
 symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.CollectArtifacts(System.Collections.Generic.IEnumerable{System.String})"
 source: xml
-reviewed: 93ed70ffa153903e6e4ba89c0aed98667a4747eff7be03b3fa2fdb17093f251b
+reviewed: b4367435a9ab4415947ec8d5d10a600bba2ba7dcaa6dac66ca357185302bd329
 title: "CollectArtifacts"
 kind: api
 owners: [Inno.Scripting.Compiler]

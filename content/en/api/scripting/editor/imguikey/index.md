@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.547d1562d31ec453
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiKey"
 source: xml
-reviewed: 929b6762a8212ef99cbe0fa9df2840676052272a0ae9c2fe896e7426772a54b5
+reviewed: 89a9421e108334f4f2501f9841dae0770c004e1b4efdc52f448660c51f0da26b
 title: "ImGuiKey"
 kind: api
 owners: [Inno.Editor.ImGui]

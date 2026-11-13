@@ -2,7 +2,7 @@
 uid: api.da55eeec03b67893917393a2d2935ee4977ef92a72c818320a8a02a0dc316f8d
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.EnsureImmutableRegistration(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: a41fce0fe32121207ac7fb8210f897a5cfc9c0b689fee84fc890be601a9a8068
+reviewed: 51b14e1eb6e45c39438c40806f09ef0b648c667d9a2690dfef4fef0bc399e6a6
 title: "EnsureImmutableRegistration"
 kind: api
 owners: [Inno.Build.Toolchains]

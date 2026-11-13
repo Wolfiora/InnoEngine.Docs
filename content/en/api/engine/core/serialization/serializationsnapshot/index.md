@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.839fb78ae8c26a3e
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationSnapshot"
 source: xml
-reviewed: b5c5db5eef3396ddc244d61d1ca61b22f481564e8bb3b71826fdc9d51d8388a9
+reviewed: a9376223a553ae4a3cdd76982c3b16ab751c43b445a0c361246cce8f909b910e
 title: "SerializationSnapshot"
 kind: api
 owners: [Inno.Core.Serialization]

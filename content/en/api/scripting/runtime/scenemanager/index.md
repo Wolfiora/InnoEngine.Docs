@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.2abca13a8a73a1c8
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.SceneManager"
 source: xml
-reviewed: 62bf4149223bb41304d2a01f612c6afe008e0e58b1f78d069e54af46da9fddd9
+reviewed: a1bb760376e5c61e6c55b6d8e257bdcdee82035df9028bb2ef53261d80f2898d
 title: "SceneManager"
 kind: api
 owners: [Inno.Scene]

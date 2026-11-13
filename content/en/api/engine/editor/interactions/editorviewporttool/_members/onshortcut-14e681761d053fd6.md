@@ -2,7 +2,7 @@
 uid: api.14e681761d053fd62a9948bc6a5ecaf347d40275f72d2bd94c79f42476706163
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorViewportTool.OnShortcut(Inno.Editor.Interactions.EditorViewportToolContext,Inno.Editor.Interactions.EditorViewportShortcut)"
 source: xml
-reviewed: 1e7d06a2e950ed5531da215271c7dbb55e287e4e5568c3e937dfb2351947a929
+reviewed: 04e4fb102a621966f06a6558974cad386fe95e1ddba74519ae8f008f72e8b9e0
 title: "OnShortcut"
 kind: api
 owners: [Inno.Editor.Interactions]

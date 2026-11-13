@@ -2,7 +2,7 @@
 uid: api.inno.assets.51901cc220016d08
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetResidencyStatistics"
 source: xml
-reviewed: 224646b79d66ef3c513d815050fc2b079fe76cbfa197e29244023361efb090e3
+reviewed: 2e853370b6a23f1a37e18d8afe2194598c98ba15ce0e09c9ca92de44935f981b
 title: "AssetResidencyStatistics"
 kind: api
 owners: [Inno.Assets]

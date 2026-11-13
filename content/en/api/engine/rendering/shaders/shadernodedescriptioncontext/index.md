@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.86933343dad23cf8
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodeDescriptionContext"
 source: xml
-reviewed: ce7020c8f4e5199d9d856f93a274cef5782112a4a1c649e7197c312d62a6c7e1
+reviewed: c47989edb47cd5faff7e5d8eb8a2fdb8c9f934e2a2eff936e4ed96c790dbccaa
 title: "ShaderNodeDescriptionContext"
 kind: api
 owners: [Inno.Rendering.Shaders]

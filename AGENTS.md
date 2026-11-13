@@ -13,7 +13,7 @@ This repository owns the English documentation and website for InnoEngine. The e
 
 - Write active documentation, instructions, rules, and new records in English. Preserve historical evidence and legal notices.
 - Keep readable content in `content/en/`. Keep generated API/project facts in `reference/`; do not duplicate narrative authority.
-- API reference covers public and externally usable protected C# engine, Editor, Build and tooling contracts, plus actual script projections. All backends, extern, test and fixture APIs are excluded. Keep useful integration guidance, ownership boundaries and legal provenance.
+- API reference covers public and externally usable protected C# contracts owned by src/ and build/, plus actual script projections. Only src/ and build/ projects are eligible for Engine API. Tools, entries, platform implementations, backends, extern, tests and fixtures are excluded. Keep useful integration guidance, ownership boundaries and legal provenance.
 - Keep tutorials, tasks, explanations, and API reference distinct. Link necessary lifecycle, threading, failure, and ownership contracts.
 - Never hide a necessary constraint in an excerpt, collapsed block, or unreported continuation.
 - Read source declarations and existing contracts before documenting an API. Generated signatures are not proof of semantic quality.

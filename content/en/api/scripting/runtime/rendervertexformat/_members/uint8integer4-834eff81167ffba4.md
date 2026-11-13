@@ -2,7 +2,7 @@
 uid: api.834eff81167ffba4210303ef6e0aa11f076b36a725decfb001a7e121950bff0d
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexFormat.UInt8Integer4"
 source: xml
-reviewed: 7a8b839332fc23a221288c73fd428fe31cb09379b0f1df1ea0ce9ea9d7b056b4
+reviewed: 783d406e9957d1d57e1ebc9f73a1b311c5f888a0e1bae588aa2659245eadf524
 title: "UInt8Integer4"
 kind: api
 owners: [Inno.Rendering]

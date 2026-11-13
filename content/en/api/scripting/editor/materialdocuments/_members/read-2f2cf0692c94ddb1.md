@@ -2,7 +2,7 @@
 uid: api.2f2cf0692c94ddb10bad0b20f603e6d269f377a7c36cb58d1d98d5fef9c0cdaa
 symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.Read(System.Guid)"
 source: xml
-reviewed: 245b5ea03e6fb7f8cfedce1845bdb437bc05a84224da38be3a8ceb8b87ecdd3f
+reviewed: 9f4e1a8b683ddd92ebde0d6ea26315d3a069265d2c946fed04ccfb82a5f44062
 title: "Read"
 kind: api
 owners: [Inno.Editor.Shaders]

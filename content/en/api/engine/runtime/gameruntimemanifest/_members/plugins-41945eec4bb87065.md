@@ -2,7 +2,7 @@
 uid: api.41945eec4bb87065c145c35dd37ec92a7bef185042e8d63d0e18a5cb47804f59
 symbol: "engine:Inno.Runtime:P:Inno.Runtime.GameRuntimeManifest.plugins"
 source: xml
-reviewed: 8d61bd83051992273896990cc3d92bee13cca7d31c49d991496c598cf9c6e982
+reviewed: 3f43e6de549792bd9c7791ea03941d61d3f7f88bb2a1fb7d40794c4797e66cf0
 title: "plugins"
 kind: api
 owners: [Inno.Runtime]

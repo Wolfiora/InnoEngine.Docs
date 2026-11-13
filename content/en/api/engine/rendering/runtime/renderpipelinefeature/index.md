@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.1227515dd306beb4
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPipelineFeature"
 source: xml
-reviewed: 6036e84e64e16b35dea2279c57633fd9788812afe726c2cf14bc939cbf6f583f
+reviewed: 42664424c675b7d782b01db9a7c755c39b465f2ddb8d72a9ea3fc37eb30daff8
 title: "RenderPipelineFeature"
 kind: api
 owners: [Inno.Rendering.Runtime]

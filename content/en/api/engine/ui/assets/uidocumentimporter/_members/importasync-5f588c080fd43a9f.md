@@ -2,7 +2,7 @@
 uid: api.5f588c080fd43a9ffd301958187edd2e4512cd31ad89c35350af532f802d712e
 symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.UI.UiDocumentAsset},System.Threading.CancellationToken)"
 source: xml
-reviewed: b89f069070d8337f893e748f06e6b774aa04c5dd1925e383a4d365e8b948ff81
+reviewed: 3ba8d07ed54cd088ae00b658ce2de6c1324fea01d04f0f585d15a2e78a62205a
 title: "ImportAsync"
 kind: api
 owners: [Inno.UI.Assets]

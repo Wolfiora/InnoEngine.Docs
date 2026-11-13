@@ -2,7 +2,7 @@
 uid: api.e89a9ca3150a88513b5aee67ac6084502e385f69c7886e90ce10e1d63792f1e7
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderTextureArtifactReference.#ctor(System.Guid,System.Int64,Inno.Rendering.Assets.RenderTextureArtifactSlot)"
 source: xml
-reviewed: f21b9aebb8fa016303e62ca1af877d7c18ecbc6293f57fa7d113e126aa701496
+reviewed: 3e657452c7ead0a950f7ef2c5a6e0224037179e63b26d5111b9eeb8120c14ff4
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

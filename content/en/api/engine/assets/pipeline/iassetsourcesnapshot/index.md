@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.3e83463bec927cbb
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.IAssetSourceSnapshot"
 source: xml
-reviewed: 499761c76cea358fbdc2e6466395c5c73196b207eb29407b223f2a9321ffcf06
+reviewed: 77e48acc034fac1b2c9359526e0cfce92d1f02e52c9912f55604a0f1886607f1
 title: "IAssetSourceSnapshot"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.cc8811dc5ae6c21640aebb8de8e7004863442d2e335b9d9810ecbe19751edb4b
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ViewContentContext.#ctor(Inno.References.ContentReadScope,System.String,Inno.Rendering.Runtime.RenderView,System.UInt64,System.Single,Inno.Rendering.Runtime.RenderOutputInput,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderView},System.Collections.Generic.IReadOnlyList{System.String})"
 source: xml
-reviewed: be26f698172bfc29b91232c8414347d2739730c77d55c1fdb4ad8f78058549fb
+reviewed: 87c89079ce7bc48d1ba3a0dd5a67a3332d9d323a2b296cad4447d42c59cc1146
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

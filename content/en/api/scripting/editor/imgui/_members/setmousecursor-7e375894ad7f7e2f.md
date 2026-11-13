@@ -2,7 +2,7 @@
 uid: api.7e375894ad7f7e2fb4f2d3f4460ab8a269c3b896247dc703f2fedbfbdb632c84
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetMouseCursor(InnoEditor.ImGui.ImGuiMouseCursor)"
 source: xml
-reviewed: daa96fc86853534b7f2f9e2b21bea43aae0e8cba80594b28133326bf57d0b8ee
+reviewed: d5e848637493b19f9079cc09e21236acd96d85b36161b7f9fdb03da6cbce0087
 title: "SetMouseCursor"
 kind: api
 owners: [Inno.Editor.ImGui]

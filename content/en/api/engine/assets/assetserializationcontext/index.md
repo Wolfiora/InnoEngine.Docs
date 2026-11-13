@@ -2,7 +2,7 @@
 uid: api.inno.assets.c46383f931d8102f
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetSerializationContext"
 source: xml
-reviewed: 25bcd999a26823187f6fd49038a2aec78ef39dabb6fd1c99bde913d92c5e6f7c
+reviewed: c01a2219fb2def661769f1ea82a37cddf93ed8d6d24e75bf1327be79cd583f89
 title: "AssetSerializationContext"
 kind: api
 owners: [Inno.Assets]

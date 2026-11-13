@@ -2,7 +2,7 @@
 uid: api.c1c240bc31686de6f1e4947267f35470970e9c8451bc0a6aa692e04c254b0038
 symbol: "scripting:Inno.Rendering.Shaders:F:InnoEditor.Rendering.Shaders.ShaderIrOperation.Select"
 source: xml
-reviewed: 855a658d44372d4ae0648f68ce51457a9217d2240d2812017915610baf5b0821
+reviewed: 30bb083dd725ab563a6b2c6fc131653511e02aec8b13b8c6cf0aa889a1487e10
 title: "Select"
 kind: api
 owners: [Inno.Rendering.Shaders]

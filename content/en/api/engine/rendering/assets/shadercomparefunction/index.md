@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.3f2e4a4fbb45bc46
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderCompareFunction"
 source: xml
-reviewed: 29191494f09683d8d6fe335f57e2e72fd7de2ae27cad8f984f11f579290ea2c0
+reviewed: 43cca161c65593892d3428fd8ad73fc02b2339e47454a050d750f01a63b15106
 title: "ShaderCompareFunction"
 kind: api
 owners: [Inno.Rendering.Assets]

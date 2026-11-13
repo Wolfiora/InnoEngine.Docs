@@ -2,7 +2,7 @@
 uid: api.a68384f5f51bf6586e7cb285728402ded69996926f208395c7ee6a53ad12ebd4
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticTypeCatalogSource.GetTypes(System.Reflection.Assembly)"
 source: xml
-reviewed: 44025d0a3bd8d753adf683f7591b2301c9443e879398726df5c7a82ff998966a
+reviewed: 0c9f562d2368d20ac58c207f3d64100a9fdbc089dad915ed139f00daaad95115
 title: "GetTypes"
 kind: api
 owners: [Inno.Runtime]

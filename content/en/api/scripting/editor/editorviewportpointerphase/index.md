@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.ef654ed224e53ff7
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorViewportPointerPhase"
 source: xml
-reviewed: 74cc93d35c02c949dc5835fa251114b126ebb42e4745fc6d34c00d4003988efb
+reviewed: dab56be9ba40c3105b076831552e2961448de46efaf5912889e96635c4d8f0c0
 title: "EditorViewportPointerPhase"
 kind: api
 owners: [Inno.Editor.Interactions]

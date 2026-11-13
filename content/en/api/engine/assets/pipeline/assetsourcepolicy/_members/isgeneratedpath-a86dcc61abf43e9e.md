@@ -2,7 +2,7 @@
 uid: api.a86dcc61abf43e9e53642ba6a0798aaff85ebf26b4f032d7022665865788df5b
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourcePolicy.IsGeneratedPath(System.String)"
 source: xml
-reviewed: fde72c14043cd9b1514d8ded74f300d31c4207db80ea49552d1070499ece46f1
+reviewed: 159bb20ef1a7c4120c321f1ef8a8f4812168807d4c0ef7e4283f79eada2a3e21
 title: "IsGeneratedPath"
 kind: api
 owners: [Inno.Assets.Pipeline]

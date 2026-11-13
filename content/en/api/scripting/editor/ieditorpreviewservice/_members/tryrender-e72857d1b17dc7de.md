@@ -2,7 +2,7 @@
 uid: api.e72857d1b17dc7de7d2fed3392443a7737234fd8a703895d9f3db664a3c07397
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.TryRender(InnoEditor.Rendering.EditorViewportComposition,InnoEditor.Rendering.EditorPreviewHandle@)"
 source: xml
-reviewed: 99350c25a67be91cfadfefaa6100c071a9dbb09a7abcc4d8a5fc624efb725063
+reviewed: 7a32c65b75436f8bf55fc32ffdfeb9e547d528addb7d0c5c73945ba2af394398
 title: "TryRender"
 kind: api
 owners: [Inno.Editor.Rendering]

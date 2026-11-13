@@ -2,7 +2,7 @@
 uid: api.2a87e217b62cda97cc8c5442fe36ef2c26e0da1df6ce7de4c64c431122fc6070
 symbol: "engine:Inno.Build:P:Inno.Build.BuildResult.diagnostics"
 source: xml
-reviewed: d3a0b03c55371e6c42f45a9e461b848e198bfffa572e00cadb7332a19fd71538
+reviewed: 75bf21ace143645b818b7694381a4d347a712368e63d93a5587e1dd7a94a91d8
 title: "diagnostics"
 kind: api
 owners: [Inno.Build]

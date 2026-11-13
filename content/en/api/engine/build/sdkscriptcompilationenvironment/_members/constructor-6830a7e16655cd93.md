@@ -2,7 +2,7 @@
 uid: api.6830a7e16655cd939cbb0185b94c8f8e6fdcf2535caff34df690d24680b15830
 symbol: "engine:Inno.Build:M:Inno.Build.SdkScriptCompilationEnvironment.#ctor(System.String,System.String)"
 source: xml
-reviewed: 7f1615ad873d2f08b7b193ecf2e91285b5dfec3ad7f570f55e3c12d47dc27b32
+reviewed: a3b52c2660955023e71b007a71420c52b4b907bea76d775207c8d14db8ef6e49
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

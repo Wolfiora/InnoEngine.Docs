@@ -2,7 +2,7 @@
 uid: api.86cf1c875df4d6f4df2feaec7514a7a42385d06cd752f58eaafd13829fa92817
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.For(System.String,System.Object)"
 source: xml
-reviewed: 5bab149873b9cbb5fe2fabfda793119810f1a27983a135e7e7c1b98a9f344c63
+reviewed: 813297c3cea6ac771bf75754571e311583dcf90c7f96538f4136f540af06c286
 title: "For"
 kind: api
 owners: [Inno.Editor.Interactions]

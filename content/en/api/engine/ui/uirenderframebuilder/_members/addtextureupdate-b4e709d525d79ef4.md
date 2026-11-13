@@ -2,7 +2,7 @@
 uid: api.b4e709d525d79ef4332d73da64eced790eb0dbff3034e4bb41f7bf5e08c4641b
 symbol: "engine:Inno.UI:M:Inno.UI.UiRenderFrameBuilder.AddTextureUpdate(Inno.UI.UiTextureHandle,System.UInt64,System.Int32,System.Int32,System.Byte[])"
 source: xml
-reviewed: 152c67ff6ed668052d46989b4cdc28d549727d27856634b133276d00dcd5cf0e
+reviewed: b0c648553219fa2ca85f5aa5e1b8569ab1f4d799bb990cb73f1b0191136c7de4
 title: "AddTextureUpdate"
 kind: api
 owners: [Inno.UI]

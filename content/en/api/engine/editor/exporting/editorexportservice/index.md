@@ -2,7 +2,7 @@
 uid: api.inno.editor.exporting.76c78e31dbe32b8f
 symbol: "engine:Inno.Editor.Exporting:T:Inno.Editor.Exporting.EditorExportService"
 source: xml
-reviewed: 6cbb1fe8b45ae96fc311bafd62e6e9c94f897fce4d01dcf5220e18e95bda2cc4
+reviewed: a8a379c3e8646b1e938076b95305dc8c24162f51fb7b830332996261d7c4461e
 title: "EditorExportService"
 kind: api
 owners: [Inno.Editor.Exporting]

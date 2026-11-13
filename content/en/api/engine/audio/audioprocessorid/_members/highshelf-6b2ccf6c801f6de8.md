@@ -2,7 +2,7 @@
 uid: api.6b2ccf6c801f6de8b723a24f62b8272ba3c3a76f9aa4ce21559577a5b41b3497
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioProcessorId.highShelf"
 source: xml
-reviewed: fd256ca5c13a0e4499eec689fc38ffbdacbd1452f04d12e544440ef1667b88f1
+reviewed: d7b864321e3df67bc13f577fd0d2e2642ccbac108abb3d766b1d02143c3533fb
 title: "highShelf"
 kind: api
 owners: [Inno.Audio]

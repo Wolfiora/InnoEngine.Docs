@@ -2,7 +2,7 @@
 uid: api.7962799d5a3771b66292e69e90e70008fc6fe0c40b11fd32f1ccc54c886fe4d6
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.SetImGuiLayout(System.String)"
 source: xml
-reviewed: 5745d2d6f8c668ae22d47a1f9182b9e260cf8cbe07f0365db03d7931e11b40d9
+reviewed: 832f42314571fe4486494ce6fd4b6d46bd0dcf6334c5cfc69e1c01d0b02aa07e
 title: "SetImGuiLayout"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.dca9dcc7365a40b37c1a0c6a2d3d897698c9c74cefff32dd9ef0cae176ce4464
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodeCompilerCatalog.Lower(Inno.Rendering.Shaders.ShaderGraphLoweringRequest,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)"
 source: xml
-reviewed: b3ff54cc58a703219dba12cb26b3a833f385f984cac798a50ba2221e2c49fae7
+reviewed: 1e9202631b6612fb0e04d1e2409e71925da4348187d2cb2427e90d2c41a6f5ac
 title: "Lower"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.a74980f788c3e18cd315b7d2d6c31add9c4b156ee2dcb1d7ebcd95d135c4155a
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.op_Addition(Inno.Core.Mathematics.RectInt,Inno.Core.Mathematics.RectInt)"
 source: xml
-reviewed: d0ca9e965f10eb815e368cf09c39988d14b2faaf32acc9254e036e350622ac37
+reviewed: b9efeb453e404f76a0b3f69c62f4441bfd88987d5fc2eab6970e8e02a7c70375
 title: "op_Addition"
 kind: api
 owners: [Inno.Core.Mathematics]

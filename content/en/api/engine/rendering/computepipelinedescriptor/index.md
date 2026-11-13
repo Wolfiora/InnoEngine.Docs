@@ -2,7 +2,7 @@
 uid: api.inno.rendering.12473054302c1642
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.ComputePipelineDescriptor"
 source: xml
-reviewed: 892088484bc72bb97885cf4c480983053e1280699751d8be556b8596bb592ecc
+reviewed: ce0e6924666aa01db5ee02f90e47a817ceb975312301e697177c4b4ef89c5030
 title: "ComputePipelineDescriptor"
 kind: api
 owners: [Inno.Rendering]

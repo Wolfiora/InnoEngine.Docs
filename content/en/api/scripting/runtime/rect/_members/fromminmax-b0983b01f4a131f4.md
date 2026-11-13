@@ -2,7 +2,7 @@
 uid: api.b0983b01f4a131f41d9e7e94dc526d3b40dd1dd75a35c78fdd2b94547fa41497
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.FromMinMax(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2)"
 source: xml
-reviewed: c836782f8ad2296ffbcf9250ca3e2943abacb2de2a5403fc6b78e6fa699927ba
+reviewed: a5037d25c68483dd9b4399e29758bbe7b4680989bf8ba6ee63d9b0a1851510bf
 title: "FromMinMax"
 kind: api
 owners: [Inno.Core.Mathematics]

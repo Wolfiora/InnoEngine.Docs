@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.c90d00467a1c99f4
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderLastGoodStore"
 source: xml
-reviewed: dc985e3c9f9779a3dda98a85a6b300f028db62b73b121567cb4a9d8787cf00eb
+reviewed: 9ec051447e96c0261c5ce1e2e9bd8a82e4bc46e49569002b9720be7378174c10
 title: "ShaderLastGoodStore"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

@@ -2,7 +2,7 @@
 uid: api.3a1b96b533ecbb396514acdefe04d3589584fba785bcd3057a3db5cf1dc3d065
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.GetStableTypeId\u0060\u00601"
 source: xml
-reviewed: 71f8f1d79902f38685af5f4ed30fbb604e410c182703ae660449a190622ce4cc
+reviewed: 186330f63621443d183e916ce5e514ab1c6692d8c87ecec5892d56d92b9ee462
 title: "GetStableTypeId"
 kind: api
 owners: [Inno.Assets.Pipeline]

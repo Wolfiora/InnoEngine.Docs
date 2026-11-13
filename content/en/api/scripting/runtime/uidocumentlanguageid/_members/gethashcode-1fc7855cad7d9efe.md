@@ -2,7 +2,7 @@
 uid: api.1fc7855cad7d9efe4e4227512d944133f6a9e26256504a7c3a93d061455a2631
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDocumentLanguageId.GetHashCode"
 source: xml
-reviewed: e14046005489a80eb934975ab050722fe78ea3a17f69e06f31bb31c863b5fdca
+reviewed: 9b253ccc11e8a026416ca1703d04a7daa3f509a0a7f26b42b1d0712c8dddaf98
 title: "GetHashCode"
 kind: api
 owners: [Inno.UI]

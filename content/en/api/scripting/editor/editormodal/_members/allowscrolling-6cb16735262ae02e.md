@@ -2,7 +2,7 @@
 uid: api.6cb16735262ae02ea308915f5597b7d92e723c70bab00344841ed33baa7b1244
 symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModal.allowScrolling"
 source: xml
-reviewed: 00136ea2a9136bc0304348f684f3e8f394fe235f87aea2191023e79675309673
+reviewed: 9c5bcf10773c12a93291095ec69e3b855897f8917d927494108801ba67c42657
 title: "allowScrolling"
 kind: api
 owners: [Inno.Editor.Core]

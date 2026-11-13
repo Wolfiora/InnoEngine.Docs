@@ -2,7 +2,7 @@
 uid: api.a75e85186edaaa4c8e76c863168b9d96cc5a12fd41c457abe26f420be5e62584
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneReloadService.#ctor(Inno.Scene.SceneWorld,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
 source: xml
-reviewed: 069ec04d23ae0d201a1c306a728bf3e38136a31157dd67b5d15a3b147a709f3a
+reviewed: a5945c38eae37105ef73f3e95d222643f07484d914b1b59709d77967f59ed159
 title: "Constructor"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.3dbc84e11095f4069a2bdb8ed582e3aaaeb95fb114cb00e2ef7768c6a28a1048
 symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.LoadDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentSource)"
 source: xml
-reviewed: 1e54a9a28ffb80e1ccaacc2398a419de78d383305387b5db064e54973f22080d
+reviewed: 0e40a238692c85b6427b6942d0e595e786bf18cf961ed279513bc61c592021f3
 title: "LoadDocument"
 kind: api
 owners: [Inno.UI.Runtime]

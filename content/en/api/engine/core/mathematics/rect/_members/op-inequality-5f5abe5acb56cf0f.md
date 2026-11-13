@@ -2,7 +2,7 @@
 uid: api.5f5abe5acb56cf0f7886f12fd50af010746587dbfc9d6785a37d1283fcde6cc3
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.op_Inequality(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect)"
 source: xml
-reviewed: 2c63e0f9dd0cde9ccce030f267ba44c9ae486cf5300c1920f151e26a67074865
+reviewed: 89bfab693a0ad5e513bcd11b3449d1c268c777b02641d347df2e8b89cd002c3a
 title: "op_Inequality"
 kind: api
 owners: [Inno.Core.Mathematics]

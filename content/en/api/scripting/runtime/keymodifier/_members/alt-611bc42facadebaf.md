@@ -2,7 +2,7 @@
 uid: api.611bc42facadebaf2c90c05373a563d4f581fc8d4b3a31584232dfa688948c8b
 symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyModifier.Alt"
 source: xml
-reviewed: 82193445b0e408354128ae19942f83578c9e31f10e9fb848d8616fcc33b06dfc
+reviewed: 7344bf1e00840d3e18b6c64ff1c20b110171dff03b29706a0ffe63b2c85311b7
 title: "Alt"
 kind: api
 owners: [Inno.Core.Input]

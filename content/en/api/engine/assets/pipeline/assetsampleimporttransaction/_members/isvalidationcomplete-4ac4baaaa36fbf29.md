@@ -2,7 +2,7 @@
 uid: api.4ac4baaaa36fbf292d5cfcb238e123a1b40605cea0f7f45062c5d1588f924091
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetSampleImportTransaction.isValidationComplete"
 source: xml
-reviewed: f4ca86e1b161c8fc658115c58684b9a4354c74d1d5c3ec029311c87737924f3b
+reviewed: 6e685016bdf47d6960e68fd3da81e3e8a7c49667ab865ab836976f9e23b42956
 title: "isValidationComplete"
 kind: api
 owners: [Inno.Assets.Pipeline]

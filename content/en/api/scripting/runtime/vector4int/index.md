@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.ef4fa5990d409745
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Vector4Int"
 source: xml
-reviewed: 63d26724c9320a2334163b68e9a8b0cfd89a3ecabc047eeb5c050b24033f54a5
+reviewed: 6c4f1daa1cf77e8a02075af7a625348072fb0a6445fea3aba06bd60e6971b540
 title: "Vector4Int"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.fa024f67d97faf1c4b451bafe96107667258023ecb23d6c5f1ab386e390911bc
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifacts(System.String)"
 source: xml
-reviewed: c3b0e898dcd311599a666794b20f4dc23d6d5f155839aeca9473af16536f0863
+reviewed: 53a36d81ce8a05707ef83312ee602a0c78b0c7f6eb88a145be3ba4668637774f
 title: "ExportRuntimeArtifacts"
 kind: api
 owners: [Inno.Assets.Pipeline]

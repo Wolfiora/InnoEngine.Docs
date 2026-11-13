@@ -2,7 +2,7 @@
 uid: api.b05ee6ec49fb3bb9e14fd57675ffe3d56957957119493edd1ba4b0e96bbb985d
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModal.Draw(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: 3af19f166ba4fae22197abc5cdac786195e10cd2fe9464191f059d381858993f
+reviewed: 4eb74059ddde3d3329b229776eee3b6bacbacafc2693edc9801738242040f373
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Core]

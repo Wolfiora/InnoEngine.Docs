@@ -2,7 +2,7 @@
 uid: api.376fef75b18a9a9aa079338c24826a6e24f79c198321103fe7f19eaf019b5e19
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildInput.Equals(Inno.Build.Toolchains.NativeBuildInput)"
 source: xml
-reviewed: 9ad0e1a652fa6d04fb71ba40b4406e3530baea9fe5c6ed67ece89677ef51764e
+reviewed: da6bf8e40b7eccd71741a9367c4d6e1719b41e9fab4bebce54c9de63f399ad45
 title: "Equals"
 kind: api
 owners: [Inno.Build.Toolchains]

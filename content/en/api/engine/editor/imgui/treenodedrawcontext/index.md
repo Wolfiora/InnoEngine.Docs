@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.335724d3f0be68dc
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TreeNodeDrawContext"
 source: xml
-reviewed: 17696518ede33bd61db82cb4d6e81ac225d296f15dc2a9d1d0d579f62d750bb0
+reviewed: 22554551378d1e2f7becb18f33c7cd9bbfda71dc236af20027d019ca6fe91d9c
 title: "TreeNodeDrawContext"
 kind: api
 owners: [Inno.Editor.ImGui]

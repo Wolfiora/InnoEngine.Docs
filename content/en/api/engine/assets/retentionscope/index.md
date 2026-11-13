@@ -2,7 +2,7 @@
 uid: api.inno.assets.fd5df7a5fba4e47d
 symbol: "engine:Inno.Assets:T:Inno.Assets.RetentionScope"
 source: xml
-reviewed: 4b95d222554016bfd038dcc693beca6b6bc69d47678d384d5c1f11ef4de6cdc5
+reviewed: a0cd44d4a4e39c595deaeef72e9db9c2d29d4a03d272401bece63f27888bc97b
 title: "RetentionScope"
 kind: api
 owners: [Inno.Assets]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.4545f3e7cf7061be
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsPipelineHandle"
 source: xml
-reviewed: 3319f094b1066364bb92d7003075c94dbff960563a874267cc767df7e47162ce
+reviewed: 133764f9fedb9194bc921e5af8f1e0593c375a9c6512c52b4815959aa7a36a7c
 title: "GraphicsPipelineHandle"
 kind: api
 owners: [Inno.Rendering]

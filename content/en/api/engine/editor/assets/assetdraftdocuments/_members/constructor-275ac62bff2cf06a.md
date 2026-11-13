@@ -2,7 +2,7 @@
 uid: api.275ac62bff2cf06a4573f9833eacb46498e1def6db0ee57aeff612f85d010ad7
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments\u00601.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Editor.Interactions.EditorInteractions,System.String,System.String,System.String,System.String)"
 source: xml
-reviewed: 6e5601341a01b6f8219ae3c728d616cba5195e6139fb02dc26daa7dcb74d4063
+reviewed: 9eeb8fb5da7da4a5636ddf38bf2287d21640a8dacc5c79b087dd5768d71571f3
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

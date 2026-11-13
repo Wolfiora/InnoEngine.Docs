@@ -2,7 +2,7 @@
 uid: api.bd06b5c583784d0f1c7cd97d052d529ebff553de01eaacab1a244197ba01611a
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatisticGroupId.Equals(InnoEditor.Core.EditorStatisticGroupId)"
 source: xml
-reviewed: dafb0ab06710d4aa45f51edf5f2ca958f73657895618fb8c56896f1a8229ca06
+reviewed: d2ebaab2e30881d2fed653d248da072029a482183f1558f463a2189e956765da
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Core]

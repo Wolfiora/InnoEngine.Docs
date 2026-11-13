@@ -2,7 +2,7 @@
 uid: api.7ed9e3c464ee93ee1ae471103f7a5e6fbc51f3695e3ddf1ac5014abc56b06ccb
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Loop(Inno.Rendering.Shaders.ShaderIrValue,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue},System.Func{Inno.Rendering.Shaders.ShaderIrBuilder,Inno.Rendering.Shaders.ShaderIrValue,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue}})"
 source: xml
-reviewed: baa99b6e80a49463afb16e6c772799745a6c102b5326746dd6006ca42105426d
+reviewed: 54936d087e51095dc70e0c951f51e9ed363ed23f78382df2964f20668eaa7e72
 title: "Loop"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.b2e210ef554a06fbad127ab32b2be78a0828cc70319234335096f7bff76ec3f2
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.OnUnloading"
 source: xml
-reviewed: 4ebc676bad8542a2abd8c5c837d61c25f7dc1e2a49c03d051011028e63e825e2
+reviewed: 38fe02401519bfcfe2dc3b805fbbb6dbf091acd45266e79469b43a97a636ad03
 title: "OnUnloading"
 kind: api
 owners: [Inno.Assets]

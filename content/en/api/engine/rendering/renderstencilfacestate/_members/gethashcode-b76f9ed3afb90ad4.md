@@ -2,7 +2,7 @@
 uid: api.b76f9ed3afb90ad47f25d50a0543a29b55c3937eabd107dbf7c3223cdca34c8b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderStencilFaceState.GetHashCode"
 source: xml
-reviewed: 8b4d494de0e3a33470bf2fddca8f0b99f03d7dd006627d156069589e7970f720
+reviewed: 7842ebba76e108a937ee1c46ac892b32b1c68d783da16979c9feaad1533270f7
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering]

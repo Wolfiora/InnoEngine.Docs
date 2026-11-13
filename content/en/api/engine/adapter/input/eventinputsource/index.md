@@ -2,7 +2,7 @@
 uid: api.inno.adapter.input.07d8bc8b1e347d4c
 symbol: "engine:Inno.Adapter.Input:T:Inno.Adapter.Input.EventInputSource"
 source: xml
-reviewed: 9a6d8639231d981eb3ce811fd44ac571d24087566c72b8ca63807f93b803c703
+reviewed: 244c3038a40507340c05e55e9ccf89d386f1a9ecc4620f2e1912a4a0326f10cb
 title: "EventInputSource"
 kind: api
 owners: [Inno.Adapter.Input]

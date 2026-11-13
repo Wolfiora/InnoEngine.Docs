@@ -2,7 +2,7 @@
 uid: api.5c7efa8887e2d0efaa92be104dd420d880da6cf92ec8868b070c8df98f4137b4
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.MeasureDialog(InnoEditor.ImGui.DialogPresentation,System.Numerics.Vector2)"
 source: xml
-reviewed: 19f911b6a079e694cdce7f977afe7a8fc62d2fa2b3e9e840b8e779ac9d74ef51
+reviewed: 42e86133687499ce72ea5403c765ac3dc3ee7ecc048bb065a759cb4491a9cbbc
 title: "MeasureDialog"
 kind: api
 owners: [Inno.Editor.ImGui]

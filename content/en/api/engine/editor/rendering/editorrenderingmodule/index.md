@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.1efeec8fe71cd832
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorRenderingModule"
 source: xml
-reviewed: 8961731cc80cce9432341e6d8c266d611b7996cc44ca0e461814970563ee3357
+reviewed: 8e6ca0ce8a4d2f5bb9e3b020c9e9f6afb497318419fe5836b6e4f0d8883b3122
 title: "EditorRenderingModule"
 kind: api
 owners: [Inno.Editor.Rendering]

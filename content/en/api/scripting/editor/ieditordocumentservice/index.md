@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.a21b729d8f4ec270
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.IEditorDocumentService"
 source: xml
-reviewed: e13572df35ff8b984298e094d37a8f6523864fa30ea19d01e6a26d52754b27dc
+reviewed: fb0da99899891c915531822eacefec60e3eb66fcbf929d83b0280e8dbeae126b
 title: "IEditorDocumentService"
 kind: api
 owners: [Inno.Editor.Interactions]

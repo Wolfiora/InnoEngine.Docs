@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.35d0cd0b8c744ffd
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderOutputSession"
 source: xml
-reviewed: b688240addce69eaea700e5e1b9f1f7ecf09eb94b65223ad500a2565c11dd637
+reviewed: 8a83bf9a8e0910a592732378be065e40b191264c80db56a6a2462a5c5d9bafe6
 title: "RenderOutputSession"
 kind: api
 owners: [Inno.Rendering.Runtime]

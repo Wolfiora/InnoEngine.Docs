@@ -2,7 +2,7 @@
 uid: api.a2ed4a91fc3670876664c5a0796fca293905073fa857c0269377382ec17e0360
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireBuffer(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.PersistentBufferDescriptor,System.ReadOnlyMemory{System.Byte},System.String)"
 source: xml
-reviewed: 8c42b14c2d81b20a860d49dca51b3d51dc103bd06161069370f7e3e4d55e44ab
+reviewed: 75141059ac555dcb13b6713284ae0896e3c1f040884f624c000db94ca1714054
 title: "AcquireBuffer"
 kind: api
 owners: [Inno.Rendering.Runtime]

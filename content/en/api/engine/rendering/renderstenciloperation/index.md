@@ -2,7 +2,7 @@
 uid: api.inno.rendering.b56a616857c84980
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderStencilOperation"
 source: xml
-reviewed: 2a14c2b867b313126f95a309c997f6ec30e95a0a702e9797b4584dd2bf69da2d
+reviewed: 73cf22f991381db5552a47dcc92c31a8350aecab8124a86afa38ac71639f6e66
 title: "RenderStencilOperation"
 kind: api
 owners: [Inno.Rendering]

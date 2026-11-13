@@ -2,7 +2,7 @@
 uid: api.0cb3f287d4e3a90861b81615f005dc6f3010c686c4cc87ac334d434085a70316
 symbol: "engine:Inno.Core.Serialization:F:Inno.Core.Serialization.SerializationPropertyRestoreMode.Strict"
 source: xml
-reviewed: 899114d5a3f98ed76f0bc7a4a435215c94468f2d27e3673722241078002323a6
+reviewed: 2f12f71dac00d77177373e60f099eaa482b8c59fc076b4a93214225a79a21ed7
 title: "Strict"
 kind: api
 owners: [Inno.Core.Serialization]

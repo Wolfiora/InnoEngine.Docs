@@ -2,7 +2,7 @@
 uid: api.89c8930b1a419e7bdb701137c38d7b4c7b0d706e4d567c514684ad16b5e9b2ef
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderPresentationSize.isValid"
 source: xml
-reviewed: 7205227a273cbdf9c136f8e10b37c9b86fc7959d7d1df19bf87da27a1fe1c86b
+reviewed: f61566db8405b5042f288a8f0fef296a32e1aaa982cd36553744572e7dba42e7
 title: "isValid"
 kind: api
 owners: [Inno.Rendering]

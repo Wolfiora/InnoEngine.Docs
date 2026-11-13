@@ -2,7 +2,7 @@
 uid: api.inno.editor.panel.inspector.editor-script.3cb5d8be07881d40
 symbol: "scripting:Inno.Editor.Panel.Inspector:T:InnoEditor.Inspection.AssetReferenceDropTarget"
 source: xml
-reviewed: b131eb6be3752048be9db336f840e2f6a84d6f5398cf8ed98eb4fbd8dd219d53
+reviewed: 45c3970c875262c91ef83035b44dade2d545bd8fa6afb92c39c63cf9ec78ad41
 title: "AssetReferenceDropTarget"
 kind: api
 owners: [Inno.Editor.Panel.Inspector]

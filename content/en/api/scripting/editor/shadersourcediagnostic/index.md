@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.fecd5b1d4cf2bd44
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderSourceDiagnostic"
 source: xml
-reviewed: a30502e1655e1d07243d21c12069952882b1c40613a68e19a15193fc4fbc283a
+reviewed: c5572a5e4ef2d9ccbc29de83f3bc5e57a646fcee3f4792bc3549e82a77753285
 title: "ShaderSourceDiagnostic"
 kind: api
 owners: [Inno.Rendering.Shaders]

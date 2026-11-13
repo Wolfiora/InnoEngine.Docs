@@ -2,7 +2,7 @@
 uid: api.ea70d93a3dcd0195a29ac00bf8dd18a71cd5a9db57fd6b5114c8cd795a791a50
 symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.OnFrame(Inno.Shell.ShellFrame)"
 source: xml
-reviewed: bf31e5235dc1d800741da27b199003b9e6cf649d48b9769a268ad0c19a9960e5
+reviewed: 8072f2281eb84d29d8f557bc6f17517262294e26646536ee09a2b36b24e8596c
 title: "OnFrame"
 kind: api
 owners: [Inno.Shell]

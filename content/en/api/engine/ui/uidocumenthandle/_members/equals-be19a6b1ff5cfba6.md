@@ -2,7 +2,7 @@
 uid: api.be19a6b1ff5cfba69ff543ddc512a1ea92bd54bb4d714c037e226b65ce536ddd
 symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentHandle.Equals(System.Object)"
 source: xml
-reviewed: 18fd596fe009ec24baeb1935edace5bec6987c87799f34c929e6f4972af7b1da
+reviewed: 950ad36ed597d9fc07085afaa6155192ec7a60187b7d7495e20577207fda6dbf
 title: "Equals"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.816f0690b187c4b8ddad74bbd07f847ae262e787b700540a0abb9b578520d77d
 symbol: "engine:Inno.Text:M:Inno.Text.TextStyle.#ctor(System.Single,System.Int32,System.Int32,Inno.Text.TextFontStyle,System.Single)"
 source: xml
-reviewed: 551eba2ea558d22e3900aa23e3db3217d6ddc6de62f92e671facc9bf12e3f6f4
+reviewed: 5889c255a8991763c801533d6811b2bb3e8fb62aad0eafe4ac027a987a1d118d
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

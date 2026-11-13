@@ -2,7 +2,7 @@
 uid: api.cac064ae7b601a98ad96d765e849cf667639df28a3f25937761a537297313d13
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiWindowFlags.Popup"
 source: xml
-reviewed: 83e47f50584c35a2e65cdb2cd7dade206ebf3bb9cad379b62ef6ab1888027cc6
+reviewed: 32e1f7953f1b95c4ec02dd083ba2fb1a2508e93dd60302be981d0cc8c223a8e7
 title: "Popup"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.a54917f2debbaf389a4e0dabee56cb9c7fe0c6141d72c9be1b9aae68fffa5a01
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.FromEulerAnglesZYXDegrees(InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: b4587d71e4fa256263805006065c5456e877a7d586623ce9e325bada62c0729c
+reviewed: 8f2062e5197a5834e8141f37f787db0a949ee8e86ae9edba7f0679c3ae920129
 title: "FromEulerAnglesZYXDegrees"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.b02e2331696c46d41d3ec8a279657012b3d6839fe1c4a40cc520142246a781d6
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)"
 source: xml
-reviewed: e5b5006418dd61ca3068b713426af0ed7a6947cd84a02ca14679fcf6b1455cab
+reviewed: 3795b734fe29d6f5b939c74366ca3c5a8952469baf9d92a014790f8a705afd3b
 title: "GetTextureArtifact"
 kind: api
 owners: [Inno.Rendering.Runtime]

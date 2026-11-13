@@ -2,7 +2,7 @@
 uid: api.b6438f07caea2820e79e7d11875c9e749fc96d55836f485308082e8c563f4844
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.FromMaterial(InnoEngine.Rendering.MaterialAsset)"
 source: xml
-reviewed: abd47c8184aac9d993d3c208a43a425af0929856af6cd62876cd0a315403b833
+reviewed: 88ded498d1c5d9529725ae18e508ab5058124583e573b57f575b6aa4f2964b57
 title: "FromMaterial"
 kind: api
 owners: [Inno.Rendering.Assets]

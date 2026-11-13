@@ -2,7 +2,7 @@
 uid: api.8f967753a16cc6f74db29729d7c1f7449088e21ea2c40ac6ee691eb6f86af8ef
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPointerController.#ctor(Inno.Editor.Graph.GraphCanvasState)"
 source: xml
-reviewed: 398d8029b20e1f21ab3d19752867e953f46c64eff84e10d11e04f9ca78f63a93
+reviewed: abc584a9ebb0f6686e52ed354da57aa76dbf6108d74ec45826bf930c6fb52e64
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

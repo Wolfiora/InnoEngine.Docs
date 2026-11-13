@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.editor-script.9fded8a49d62b62b
 symbol: "scripting:Inno.Editor.Assets:T:InnoEditor.Assets.AssetOperationValidation"
 source: xml
-reviewed: 23d9595ba1d8293dec8fe6e64c26f17b4cc09eee9b817eaa8adddd85871aa113
+reviewed: 2e5050ab9a31fcde91d1c937c3fb9af7ad6c9bb2a238f9ff6a3f64dd8c4ded3d
 title: "AssetOperationValidation"
 kind: api
 owners: [Inno.Editor.Assets]

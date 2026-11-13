@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.editor-script.808336373f081597
 symbol: "scripting:Inno.Editor.Shaders:T:InnoEditor.Shaders.ShaderPreviewContext"
 source: xml
-reviewed: 59175ce27c5ffdbe13b56c47c6eaecc470da3e63fde73f2ad6f94b8c901a3de7
+reviewed: a4df1a4177eab28ab91066cb03ee080f76268449c2bd3191080ce6ce7d2c355b
 title: "ShaderPreviewContext"
 kind: api
 owners: [Inno.Editor.Shaders]

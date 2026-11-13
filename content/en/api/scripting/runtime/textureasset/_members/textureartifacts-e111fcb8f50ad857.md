@@ -2,7 +2,7 @@
 uid: api.e111fcb8f50ad857621a92661de5e2bdefc3efd6d637300159a7721d6dd39080
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.TextureAsset.textureArtifacts"
 source: xml
-reviewed: 97705cd070caff96adadd86460c91a4fe341d05015085d32f9b1cd9b687649e2
+reviewed: 15e4d48f5398495165f066c5196889384a6e96f015ef138ef2412a280fd27414
 title: "textureArtifacts"
 kind: api
 owners: [Inno.Rendering.Assets]

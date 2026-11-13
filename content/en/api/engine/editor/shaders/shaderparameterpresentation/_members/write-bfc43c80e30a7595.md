@@ -2,7 +2,7 @@
 uid: api.bfc43c80e30a75950a6417ade34e7e8ade96ba12ad9d2828a4ec011eaebe2de7
 symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderParameterPresentation.Write(Inno.Core.Graphs.GraphDocument,Inno.Rendering.ShaderPropertyId,Inno.Editor.Shaders.ShaderParameterPresentation,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 27060b04acf06a5e7a76b066f4489665d4a18344dd8ff2c7355cd9d215df7925
+reviewed: e42869cc80920fe210e2ce5011a2406cb30d47af7db4008733070e4ce1af8b3f
 title: "Write"
 kind: api
 owners: [Inno.Editor.Shaders]

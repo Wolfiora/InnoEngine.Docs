@@ -2,7 +2,7 @@
 uid: api.9d8e8f91440cd8d781133b9191a09ec8732788e9c462030cdeae60d6d810661c
 symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.Attach"
 source: xml
-reviewed: 416a28e988feb8f7ffaf7db5037133b20d0cbab4e11982d4f6d2caa4584cba9e
+reviewed: 9637948111cd72f15856b84affcb8e2887c18b44dab74d320c90826238357301
 title: "Attach"
 kind: api
 owners: [Inno.Runtime.Contracts]

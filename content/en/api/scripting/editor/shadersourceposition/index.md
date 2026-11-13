@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.fafe92232e214a10
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderSourcePosition"
 source: xml
-reviewed: 5781e2232037077d8bc83829d21458c95b43a50d65e8047cb6b1e17362b991f7
+reviewed: 3303c8acdee0a575cb0b70a4f2b428bebf12fe45c111cf9740b7630bbe89f1e7
 title: "ShaderSourcePosition"
 kind: api
 owners: [Inno.Rendering.Shaders]

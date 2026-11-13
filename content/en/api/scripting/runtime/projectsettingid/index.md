@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.runtime-script.44136bd2c6dc6492
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingId"
 source: xml
-reviewed: dd3b88df24ddbed53e227ac58ad1f75ecd811f52dd9cfd0829fa161d5df75983
+reviewed: 497104e5477c009e5b30892e50505751a2d42912da98e5b3574f4a532b263498
 title: "ProjectSettingId"
 kind: api
 owners: [Inno.Core.Settings]

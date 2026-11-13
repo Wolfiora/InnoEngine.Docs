@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.ffba4c5e968aeaf1
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetResidencyStatistics"
 source: xml
-reviewed: 9a0d128ef00b5a5933bd74046e18298ff369facaa4ce0cc42e45b730ed6ee3a4
+reviewed: f9c376938c42ed77fd0094ab2491a738d3b4e8c93b17047dcdc31b21e5609423
 title: "AssetResidencyStatistics"
 kind: api
 owners: [Inno.Assets]

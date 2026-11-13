@@ -2,7 +2,7 @@
 uid: api.57c68ebc4558c0fb3b1e1f4725be538d57dbabf742ff4de7dcf926d82a2903ba
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SameLine(System.Single,System.Single)"
 source: xml
-reviewed: 0faadddf9f6d92b7becc0192a41383d57e625599de8c68001968e3b2abcad69a
+reviewed: 87fb9b8778519aad2f96d846c651d06126663eeaf4d2e8d84b0ca4cf6060f80d
 title: "SameLine"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.c0f4170f12ef2089b2414354482d4e834da154175d530f1ed0807e94c04a365e
 symbol: "scripting:Inno.Text:F:InnoEngine.Text.TextDirection.RightToLeft"
 source: xml
-reviewed: 0d630afa2d3f4e51196a5f0df77309c1cd9ae6d569801b4d30f09114decc5b7d
+reviewed: deb4a57ba9c0b28347403d9e7605884dedb1997fb45d70f535c444935e9194ef
 title: "RightToLeft"
 kind: api
 owners: [Inno.Text]

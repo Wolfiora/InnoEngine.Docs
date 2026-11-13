@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.5791799ed731929c
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.LogEntry"
 source: xml
-reviewed: ffb43e4fc2fd8939aed36c63be7d47d0eb967cb8ae2defe67fd45846d950291a
+reviewed: da3e4ae932dd63b5e46f0a4b425d4acd4cfe6f41fb721650fe3861553ce340e6
 title: "LogEntry"
 kind: api
 owners: [Inno.Core.Logging]

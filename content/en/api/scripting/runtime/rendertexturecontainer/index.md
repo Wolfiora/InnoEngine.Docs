@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.0dbbf7a3da53c0a7
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTextureContainer"
 source: xml
-reviewed: a288b2e7971e3ee7b60dcb319e2b23d57e448073a039cc2a25c1520265bf30bf
+reviewed: 61a66f5a24bb99e1cb6517c1541877b8320d9e2b485a87eaf1ab94ccc75a1d67
 title: "RenderTextureContainer"
 kind: api
 owners: [Inno.Rendering]

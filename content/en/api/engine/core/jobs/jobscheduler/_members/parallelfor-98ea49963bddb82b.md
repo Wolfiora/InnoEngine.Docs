@@ -2,7 +2,7 @@
 uid: api.98ea49963bddb82bbc9469933403bcece16c363e070fe9146dde2613eb580706
 symbol: "engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobScheduler.ParallelFor(System.Int32,System.Int32,System.Action{System.Int32,System.Int32})"
 source: xml
-reviewed: 6afafb09e5286d34030a02dcd4748ff46bcd04f85071a937049eeffbc1c2d720
+reviewed: fbe1d4b4fcc2a6312dc46a84e7bbe5aca7b57ec9feae59e29938f71c823ba5d2
 title: "ParallelFor"
 kind: api
 owners: [Inno.Core.Jobs]

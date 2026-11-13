@@ -2,7 +2,7 @@
 uid: api.b739ee8ae3b155c1c08b2ff5f606011810a9e3377354574497b98f1335d8365b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderBindingId.Equals(Inno.Rendering.RenderBindingId)"
 source: xml
-reviewed: aae4d7fd90323a71ee64eb88706d11b4ee9ebb238afabfb97eb9f6b62bfd5dca
+reviewed: 5a9a0dcff4f3e30007588de13fa2ab39d3328df4be57c7a84290b99bed5bc2d3
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

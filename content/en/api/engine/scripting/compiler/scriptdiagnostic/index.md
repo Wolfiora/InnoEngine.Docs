@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.15ef34a77546d5bf
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptDiagnostic"
 source: xml
-reviewed: 8aa69909d7dd6d5a3fa95f934a8e50867e97a05c8048eccd718ba0f48f232f32
+reviewed: 470318c78818083e4016b59fa7fd83235a525f74d049cfa8a03d83c1e7d9098f
 title: "ScriptDiagnostic"
 kind: api
 owners: [Inno.Scripting.Compiler]

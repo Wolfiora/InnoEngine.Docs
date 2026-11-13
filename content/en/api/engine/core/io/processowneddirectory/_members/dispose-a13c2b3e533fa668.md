@@ -2,7 +2,7 @@
 uid: api.a13c2b3e533fa66870a967feef61a0312355c72db686a46877abf52818eab6c5
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.Dispose"
 source: xml
-reviewed: b9b7394a2135d103ed0c42c11206ac3f4663a2c9ce90fc9102d1c6d3cd9c0273
+reviewed: 9f2fcc1c950c220098454936a20827864d1c682d87ad556d36231fc67e5857b8
 title: "Dispose"
 kind: api
 owners: [Inno.Core.IO]

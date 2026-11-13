@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.17ac7ae116c0258c
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiClipRectangle"
 source: xml
-reviewed: 82a2e346fa12285f53219e21c9b54976fadff6c8bd87bbef2c3bbc97821b5dda
+reviewed: a0e02f2352856e5a1997210396a4b89be6e0a7e0566a782c270a980abdebf697
 title: "UiClipRectangle"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.01f5f81f99e31ba2aebfc6c4090ea1d7ccc6c6c0d1fe3631f8037e373a819148
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.FontMetadata.ToString"
 source: xml
-reviewed: 98b0c6ef1f16dc555f48d61256631966b2b8bb26a2e98d179d35676def6b5eea
+reviewed: 7129011c2902663317b08af88bbf7a36b85eb1034deeafe7e46d3de8583eab74
 title: "ToString"
 kind: api
 owners: [Inno.Text]

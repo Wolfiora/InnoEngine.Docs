@@ -2,7 +2,7 @@
 uid: api.40cf92e554e09170de1312565cf528b92688ad2dc7488020922a0ef15e60c966
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorModalExtension.Presentation.minimumSize"
 source: xml
-reviewed: 5a4e2e34d3a1a5a90decfa2b6d62f991e4a23bbee20de9905c6df431ca99ba3e
+reviewed: b4ef39e507ea22bca0b21ed83b0671963bedfd95a758277041bdc8a60b180f92
 title: "minimumSize"
 kind: api
 owners: [Inno.Editor.Interactions]

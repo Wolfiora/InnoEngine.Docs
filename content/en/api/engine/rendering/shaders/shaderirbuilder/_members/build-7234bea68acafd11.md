@@ -2,7 +2,7 @@
 uid: api.7234bea68acafd111f6cd75651a92d7db9fb4dd01071e99c7174db9548537da2
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Build(System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue})"
 source: xml
-reviewed: cc28af6d56af2aadf1dd79bbf93b199b72b31f6a03b25138dc93615c13b2959b
+reviewed: 7a1686ad5cf4d73a8d8243933a65f1a314459943d9205574baa91094ee04bafc
 title: "Build"
 kind: api
 owners: [Inno.Rendering.Shaders]

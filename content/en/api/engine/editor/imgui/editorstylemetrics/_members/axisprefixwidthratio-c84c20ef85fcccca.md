@@ -2,7 +2,7 @@
 uid: api.c84c20ef85fccccadda92b4f47d65677208d6111fbfd3e8ec768cf7bae30397b
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.axisPrefixWidthRatio"
 source: xml
-reviewed: fa10c134900450ff602ac666593b518fa907731df3860f1b4f3ab615cdc48f6d
+reviewed: ccb9d03a937a2aeddf63ca3aa209da7cc4a118481a45137a813518c4eb15702b
 title: "axisPrefixWidthRatio"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.a1ebb717f78dadcd563fe8a835c07d553c58d5630ff6202e611fa4f05ade98bc
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetChange.#ctor(Inno.Assets.AssetChangeKind,System.Guid,Inno.Assets.AssetPath,System.Nullable{Inno.Assets.AssetPath})"
 source: xml
-reviewed: b9e9f45b65830531721399a594c88737324eb2be9d3308cbc7cd8a51656fcf2c
+reviewed: 8b6f9fd1a061058ca02e7ea05c3d7554a294a69ca423e29d661ffce657ba2e63
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

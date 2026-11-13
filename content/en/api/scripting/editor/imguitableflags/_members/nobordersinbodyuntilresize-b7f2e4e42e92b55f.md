@@ -2,7 +2,7 @@
 uid: api.b7f2e4e42e92b55fa65a85987d6be67b424931547b124bee48c67b7f13721f26
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.NoBordersInBodyUntilResize"
 source: xml
-reviewed: 4190be7e3c6dd99e86e8cc36fbb97690e119f05b353a283444f4f79f56cbe3c3
+reviewed: f8a91e61a718547696e41333532d32f5d52881f5250d38ba4f78f7207c7ee8fb
 title: "NoBordersInBodyUntilResize"
 kind: api
 owners: [Inno.Editor.ImGui]

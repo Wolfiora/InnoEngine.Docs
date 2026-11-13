@@ -2,7 +2,7 @@
 uid: api.inno.content.d7aeb77ac09608e2
 symbol: "engine:Inno.Content:T:Inno.Content.ContentEntry"
 source: xml
-reviewed: 6bf291d1d495099c8a2ed946c130e154670f5fc480b33cb4f5b77c2992c3af14
+reviewed: c8804750747f7b1d1ee4e740797514a095b6ffcac85466a1e7964206b54722e6
 title: "ContentEntry"
 kind: api
 owners: [Inno.Content]

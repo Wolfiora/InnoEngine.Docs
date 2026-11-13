@@ -2,7 +2,7 @@
 uid: api.2a05bc47e43cccde404708767c0fa5e73602207bd2598fd18c21b0aa925d9c88
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphNodeSettings.displayName"
 source: xml
-reviewed: 3f8e07390b8966717b4c375fa58e437500d8c220dc27136d0efa25104c437cba
+reviewed: b7d8f855d67ae634d280539fc2e846429274ff03a515b53ad29274f4d8f3e4b4
 title: "displayName"
 kind: api
 owners: [Inno.Rendering.Shaders]

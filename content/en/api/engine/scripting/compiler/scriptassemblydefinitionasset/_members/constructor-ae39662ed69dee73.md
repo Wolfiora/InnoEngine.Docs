@@ -2,7 +2,7 @@
 uid: api.ae39662ed69dee7322321b469043abe5476f351862dec77d031cd61235ff8a46
 symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptAssemblyDefinitionAsset.#ctor(System.String,Inno.Scripting.Compiler.ScriptAssemblyScope,System.String[],System.String[],System.Boolean,System.Boolean)"
 source: xml
-reviewed: 79678ea84cb39dafaf418e927e58b040a34029c6b1a7b4335381834a913d5ac6
+reviewed: f853c610884aa1940ea1ffa0d906dd515ed8a569f4c3646bf1a2f34accb3c37b
 title: "Constructor"
 kind: api
 owners: [Inno.Scripting.Compiler]

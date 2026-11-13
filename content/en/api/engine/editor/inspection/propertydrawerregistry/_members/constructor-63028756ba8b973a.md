@@ -2,7 +2,7 @@
 uid: api.63028756ba8b973aaa65a41a3ba0c87313792dc017bb9ada7f7ffcdb57d409c0
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawerRegistry.#ctor(Inno.Editor.Interactions.EditorInteractions,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,System.Collections.Generic.IEnumerable{System.Object})"
 source: xml
-reviewed: 1f813fee44fa05c2783965170b4c2ec50036c28d39236d3d7b008fd51db8e491
+reviewed: 4f5371a3121c28d8b180202071b69a56fe09cc86beba8f8f1564a3e12004f49a
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Inspection]

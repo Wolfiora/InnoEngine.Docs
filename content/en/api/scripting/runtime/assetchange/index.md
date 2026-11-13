@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.7c12b186b4c724ae
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetChange"
 source: xml
-reviewed: d7a30b562752ae744d9012371e29ffc56ee04c957d99182354d2413215a7c6d7
+reviewed: 8213135ebab643673f55982e4e4dcbda634cee6d689a739548f3d14032f38a84
 title: "AssetChange"
 kind: api
 owners: [Inno.Assets]

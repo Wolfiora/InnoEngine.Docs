@@ -2,7 +2,7 @@
 uid: api.58fbd36f06ced6275ff24fe0e09870d032dc3dd0bcd8c7af6c7c6629406da8ef
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPanelExtension.TakeFocusRequest"
 source: xml
-reviewed: 1b90bd001f92d6eb80a280d71dfe2f8deac0c9e96e769a503c5d74ab71d61364
+reviewed: 22e322652c69c67bd421defcf3da35b5e1ec666b98b7c4276b1059a5f4d9e93d
 title: "TakeFocusRequest"
 kind: api
 owners: [Inno.Editor.Interactions]

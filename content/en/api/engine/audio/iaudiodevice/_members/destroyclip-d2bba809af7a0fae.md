@@ -2,7 +2,7 @@
 uid: api.d2bba809af7a0fae7aa9f5e10f7f412eda915bbf7e6d0199deaead84caaf6456
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.DestroyClip(Inno.Audio.AudioClipHandle)"
 source: xml
-reviewed: 46d62ba3d71c2341d9872394282b016b2e32814aaeb8c1dac4585603ac2c6ac0
+reviewed: 3feef4c023cff09522daca9de5cdec6de560bd08a7978f6a79ca002b5c062e93
 title: "DestroyClip"
 kind: api
 owners: [Inno.Audio]

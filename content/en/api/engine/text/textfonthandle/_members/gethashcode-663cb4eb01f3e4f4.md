@@ -2,7 +2,7 @@
 uid: api.663cb4eb01f3e4f4f920e3d77435f33ad8861ba16a03d48d02d81ddcab9731a3
 symbol: "engine:Inno.Text:M:Inno.Text.TextFontHandle.GetHashCode"
 source: xml
-reviewed: 324776766454e2b8e1ece88b56ccc1a154a272d3e3a760a9cf039a36032918df
+reviewed: ab94e2e820ad34df57daf652ae080c42b8ba38acb7bb8ae8af1ae00ab09ea146
 title: "GetHashCode"
 kind: api
 owners: [Inno.Text]

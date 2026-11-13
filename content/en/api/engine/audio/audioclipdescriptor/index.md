@@ -2,7 +2,7 @@
 uid: api.inno.audio.5715b5a625483ca3
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioClipDescriptor"
 source: xml
-reviewed: 40e73f31e0813563cb283bc246e6ce4c6baa4183dc771fd42ebd42f3d902bedc
+reviewed: c384dae0ffdbaf3dee1e97e629b385a6018cfc1bfc835202e90e04aa21f395fe
 title: "AudioClipDescriptor"
 kind: api
 owners: [Inno.Audio]

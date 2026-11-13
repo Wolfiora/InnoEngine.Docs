@@ -2,7 +2,7 @@
 uid: api.fadaee669890abe820bbc61d1c49e727d615bcccdd57eac13acab37bab288262
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.op_Inequality(Inno.Editor.Rendering.EditorGizmoIcon,Inno.Editor.Rendering.EditorGizmoIcon)"
 source: xml
-reviewed: 96c91c12f5df3f2ab703f88b46c8c0b1efe7f4e916df50ec6e066b80c8a3883b
+reviewed: 28fa968cd9d6169e2dcd0b7c22f91d19f0a7e04f0e7f47e6eefd2d0699af77f8
 title: "op_Inequality"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.bc27603e2526ac2021c0b445b0392251d960e05db16455e2b05f70889653645a
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderVertexAttribute.semantic"
 source: xml
-reviewed: 4b425d6f0e244bd8704918348e4bbe9ed5bfa4683bb88e6ec210f516797bd93a
+reviewed: 52c10b4b209e086f4863ccb43ddcc46dbce320c1266748a8026fb10d2d5e4944
 title: "semantic"
 kind: api
 owners: [Inno.Rendering]

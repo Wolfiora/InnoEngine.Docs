@@ -2,7 +2,7 @@
 uid: api.a46c7b42ab2b35d04972f123d7253501cac5b013c582f519fd314f0155dbf2e3
 symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserStyle.#ctor(InnoEditor.ImGui.EditorStyleMetrics)"
 source: xml
-reviewed: 27b83c57e6fd0542abd9433eb7da33139f1511989db82f748514b876fbf30dbc
+reviewed: 5ae30731313365a551ed35c4022f2d03f3b656b8e8b3872800bb1d8cf521362e
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

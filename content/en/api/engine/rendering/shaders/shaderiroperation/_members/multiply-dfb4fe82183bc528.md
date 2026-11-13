@@ -2,7 +2,7 @@
 uid: api.dfb4fe82183bc528cd2f5bd544d8c8095040c25c39c1cefd23ac3be921e28fc6
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrOperation.Multiply"
 source: xml
-reviewed: 36c2c4e78f1991512daa98d71585a8c83a110ad3295bab49497840f3bd2307bd
+reviewed: 789ab2a2a904536fb52b755d3b65bb40aaaabb1232576a612d33344271c33b59
 title: "Multiply"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.6da9a98ddc75b938f145d80334707bfd9e17068987ffc22d2c38d3f20270b535
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.TryResolveTexture(Inno.Rendering.Assets.TextureAsset,Inno.Rendering.PersistentTextureHandle@)"
 source: xml
-reviewed: 4b9665cb2d0a9354caaeea10fa0f1c17164e6b9eebb57a1da31a945161086d83
+reviewed: 57178ba32700af0f7305b8e03a9660327c400284aa93558a1730c89eb3c4b0b4
 title: "TryResolveTexture"
 kind: api
 owners: [Inno.Rendering.Runtime]

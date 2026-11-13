@@ -2,7 +2,7 @@
 uid: api.05d94da052f2bffd28577eb00876e3a53683e936ecdbf2bca5dd15156a672a98
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.ResolveReference(System.Guid,System.Guid,System.String,System.Type)"
 source: xml
-reviewed: 5739616108726655d616d5d6eed84e0bf0c956aabc94691b1c3fd6e3deb5c3f7
+reviewed: 457acf87c0e2acc571e929921897e8cd04e18d553491738bca58c92c6bfe302a
 title: "ResolveReference"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.e0aa0239b6da0452
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsPipelineDescriptor"
 source: xml
-reviewed: b8fd665e01ef52cb18fd7ed75b060257a5249836b568dac7cfa6d97b531fa205
+reviewed: 40971553ec319860dc0a2bec38afae5b71b657b2fd1c01cade8bc927c47a5536
 title: "GraphicsPipelineDescriptor"
 kind: api
 owners: [Inno.Rendering]

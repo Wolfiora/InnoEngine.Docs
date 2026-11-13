@@ -2,7 +2,7 @@
 uid: api.8ff4f60129c5435693f4161dd19f2f252318358af231a1ac1ecc656a43fb2b4e
 symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportComposition.targetFormat"
 source: xml
-reviewed: 1faef09f78de6550252bc9936aa3e3393f3b5f2af47d2d7ad84c6967bd22301c
+reviewed: 30795d2dc8119bc68047bb9caa4ff7910d291d58d58de8d38e44f68686625926
 title: "targetFormat"
 kind: api
 owners: [Inno.Editor.Rendering]

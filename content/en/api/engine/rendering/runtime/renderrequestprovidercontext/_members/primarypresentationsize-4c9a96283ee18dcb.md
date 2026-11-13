@@ -2,7 +2,7 @@
 uid: api.4c9a96283ee18dcb29a5f9752e6cc9089d3d6916b02eec67b5dd46ba065970ae
 symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderRequestProviderContext.primaryPresentationSize"
 source: xml
-reviewed: 878467d9521c33da5c4d3352d89a873a84592b7db546b7990b681556d290b427
+reviewed: 332f3dfac16794a2f896a6b18d1a1565d04772c94b6b271fdf38d2f5cf360a4e
 title: "primaryPresentationSize"
 kind: api
 owners: [Inno.Rendering.Runtime]

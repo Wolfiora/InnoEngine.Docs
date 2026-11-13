@@ -2,7 +2,7 @@
 uid: api.8e9f8a3c9a8d856425d29b8b4f4cda0a0ce1b7d0eb0335bd4012593126e09fc9
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceType.Atomic(System.String)"
 source: xml
-reviewed: cd6e7f2892fae807d090a6743e21ed2d1bc3d550b7b6fcaa6039a46505296bf4
+reviewed: 298b2a17c6bc2192fd60f4ef9735b4032cc831ea746552dd750fa9fb8687c10f
 title: "Atomic"
 kind: api
 owners: [Inno.Rendering.Shaders]

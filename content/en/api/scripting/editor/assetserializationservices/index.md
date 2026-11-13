@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.5ac4064463cfb1ea
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetSerializationServices"
 source: xml
-reviewed: 907dd3bb712a7005d2204033ae512ede39412b44929f5db141bf70783162b147
+reviewed: 8f6af9d2896c3b896014a81025f676321088fddd86a1c433d724c51f70b97d31
 title: "AssetSerializationServices"
 kind: api
 owners: [Inno.Assets.Pipeline]

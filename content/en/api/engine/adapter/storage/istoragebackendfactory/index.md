@@ -2,7 +2,7 @@
 uid: api.inno.adapter.storage.a431ac47d391da82
 symbol: "engine:Inno.Adapter.Storage:T:Inno.Adapter.Storage.IStorageBackendFactory"
 source: xml
-reviewed: a1b16eac5852da083096f158c7ac34ea0bcb48a490f72bb4b16751665de58d17
+reviewed: 0a54812aa82428d38a9d3fc4c2ae440428f31725128bfe58851626c40650f8d3
 title: "IStorageBackendFactory"
 kind: api
 owners: [Inno.Adapter.Storage]

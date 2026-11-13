@@ -2,7 +2,7 @@
 uid: api.ed9f558b5b1970bc37caf7cb6c604a467780b8f002e785767b12630af832e636
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorAction.activeEditorContext"
 source: xml
-reviewed: 5e35e440b1829011e98f0bd5233cfc113ede758669b077910141cd442fba45f9
+reviewed: 5ac1649cb6ff712dcd28581305dc778fa2e22208294b756cba48e211e0818134
 title: "activeEditorContext"
 kind: api
 owners: [Inno.Editor.Interactions]

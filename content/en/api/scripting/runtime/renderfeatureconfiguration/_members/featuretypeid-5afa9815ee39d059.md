@@ -2,7 +2,7 @@
 uid: api.5afa9815ee39d059e3e67b9859876aaeb67ee86555e415a7dd9f0abff6313ee3
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.RenderFeatureConfiguration.featureTypeId"
 source: xml
-reviewed: 167913865957b023cd401c1b35a16ef630ac295f7da183709d68eb7882ef7ce2
+reviewed: 5d699d7f7b2392935b232b3e80be61f14fa7d3dedf702631f4b2c37b053b8975
 title: "featureTypeId"
 kind: api
 owners: [Inno.Rendering.Assets]

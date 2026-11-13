@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.4ffad9a25169b94e
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioContentProvider"
 source: xml
-reviewed: 511201eb9151a6da7a4311a7f9c52cadbb5910e04fdc5a45b4bfee99ce411a59
+reviewed: 89fc739e60bb2263fb2e2ffe329fd761995e3b296a754b099fd8e23e0c5326c0
 title: "AudioContentProvider"
 kind: api
 owners: [Inno.Audio]

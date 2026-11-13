@@ -2,7 +2,7 @@
 uid: api.47cdafabe896ef5534ab36ebd00298a051b1340ecf51bf36047fcef9e22a76a8
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.WithBindingGenerator(Inno.Build.Toolchains.INativeBindingGenerator)"
 source: xml
-reviewed: a0d89ffe4de98460cd6d104d44c992a7a04535d4ed44eca3a6bc7fa925af34e2
+reviewed: 225e93af250b43fddc99ee1b5deaf6d15ac91852b5a7c3e5566eb06bd56dae34
 title: "WithBindingGenerator"
 kind: api
 owners: [Inno.Build.Toolchains]

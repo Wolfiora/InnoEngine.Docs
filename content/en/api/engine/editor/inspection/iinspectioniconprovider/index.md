@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.5cd4c955d9919aa1
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.IInspectionIconProvider\u00601"
 source: xml
-reviewed: 34446b869bea731c1fd7042ec6a9eda65d372ac9fd1f0ca9f8c373c76d1ecf3d
+reviewed: 3e13d292fabb353468dfe93b13bf4c943cc33f189d6c9664ae14f800607d8dea
 title: "IInspectionIconProvider"
 kind: api
 owners: [Inno.Editor.Inspection]

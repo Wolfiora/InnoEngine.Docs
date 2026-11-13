@@ -2,7 +2,7 @@
 uid: api.d98d8fba23cd4b725a262669c771331268677250da2f63665343d965049354af
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageBinding.#ctor(System.String,System.String,System.Int32)"
 source: xml
-reviewed: df464c4ba91f8de2eecb619fdb9de258341e29696d221b72079d8bf319968a34
+reviewed: 10a42b58d9c656fa60935b560701dec41a3a05635f714b04b27ea1823005e1d5
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

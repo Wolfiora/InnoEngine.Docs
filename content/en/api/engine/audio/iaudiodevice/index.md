@@ -2,7 +2,7 @@
 uid: api.inno.audio.d66f1600c83594c4
 symbol: "engine:Inno.Audio:T:Inno.Audio.IAudioDevice"
 source: xml
-reviewed: 06a660dac3b4ea076daac9bc3d77efb2570e7e35c7caa1a56655b325ea14c41c
+reviewed: 39864bae608e43802932095b2c6aa0b8fcb4c7ff62b97b2b4c20943b60f564a2
 title: "IAudioDevice"
 kind: api
 owners: [Inno.Audio]

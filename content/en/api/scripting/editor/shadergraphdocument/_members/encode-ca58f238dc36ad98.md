@@ -2,7 +2,7 @@
 uid: api.ca58f238dc36ad98d598fe6a5b92cd64d52b2778d67c020404964a687bbef549
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphDocument.Encode\u0060\u00601(\u0060\u00600,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)"
 source: xml
-reviewed: 21ebdb76ee682a24858adf4bb0777d6298f9bfc7d52a4c436b8d0c3e21302780
+reviewed: 247b7918dc6dbf5430b40b05a7c1328c164b10fa703475ddd342ecf59ef50b39
 title: "Encode"
 kind: api
 owners: [Inno.Rendering.Shaders]

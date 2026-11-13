@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.f2b1031ba0213cfd
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTargetKind"
 source: xml
-reviewed: 91ec70cd7a71e169de87d47d8bdd9afb7f2605ab1727366be1538e00d2defd69
+reviewed: 01843a3b3261770659cbe18f6f14e09097d5046bcdd1791fe783a7d5b706370d
 title: "RenderTargetKind"
 kind: api
 owners: [Inno.Rendering]

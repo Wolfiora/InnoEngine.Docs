@@ -2,7 +2,7 @@
 uid: api.8f220f27971a7e87cb93e512d79f74a388bbc30880801fcc74f08c16c10ab9c7
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBuildContext.configuration"
 source: xml
-reviewed: 5eacc5dabf598db627bc00c957b80b201006bd3590fbf436841bf58c2d51a23c
+reviewed: e5a40286f03d565a03e608d2c55ece12b1b61446c921a8aafdf3c47f32e57fcf
 title: "configuration"
 kind: api
 owners: [Inno.Build.Toolchains]

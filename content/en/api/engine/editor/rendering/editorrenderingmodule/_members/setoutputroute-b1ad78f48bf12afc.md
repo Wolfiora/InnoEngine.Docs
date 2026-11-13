@@ -2,7 +2,7 @@
 uid: api.b1ad78f48bf12afcfac36e92f9b8a5843d63a4355eda6336008efa54d2423569
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.SetOutputRoute(System.String,Inno.Rendering.Runtime.RenderOutputRoute)"
 source: xml
-reviewed: 3267309c82c8d81ad761e8077b532723233c2772d7f13cda8c94c12e9c45e4c6
+reviewed: 81033d6ffc258f87feb0403469345c9f2f13b7fa9a10aa5d23813fbe06a63e29
 title: "SetOutputRoute"
 kind: api
 owners: [Inno.Editor.Rendering]

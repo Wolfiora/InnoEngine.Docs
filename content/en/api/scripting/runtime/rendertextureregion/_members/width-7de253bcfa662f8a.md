@@ -2,7 +2,7 @@
 uid: api.7de253bcfa662f8a6df775bcf5eed2f6c02a486108595a5b9bb1248323dc9c27
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderTextureRegion.width"
 source: xml
-reviewed: 08a79fefdc8a4728da12a43b0c21960b0b684701708e2e4456b232da12a3318c
+reviewed: c4f39b7e331dac4de2f00cbefecd77dcaf5f7b03a82773630e5715d9dee86052
 title: "width"
 kind: api
 owners: [Inno.Rendering]

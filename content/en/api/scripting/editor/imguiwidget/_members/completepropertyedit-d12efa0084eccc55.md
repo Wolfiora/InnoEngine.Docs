@@ -2,7 +2,7 @@
 uid: api.d12efa0084eccc5531025a087deee60dd06b41a8b8ec55f41b21b62c2f6611d2
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CompletePropertyEdit(System.String)"
 source: xml
-reviewed: e2b061c03abf59ae707e39a21f3e41941726c2193e8ff50391f7c7d5da8a5ec4
+reviewed: 2c5749cfc1a222c10e2f5b0de65a566c52e8c252008297da51ca58396d6c7127
 title: "CompletePropertyEdit"
 kind: api
 owners: [Inno.Editor.ImGui]

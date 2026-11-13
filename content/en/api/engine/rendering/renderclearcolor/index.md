@@ -2,7 +2,7 @@
 uid: api.inno.rendering.3bda127f956177d7
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderClearColor"
 source: xml
-reviewed: 046616788644dd5230bbedaf61027a8a6e92aa216b3b3a65d4fa7ac0e1d3f41a
+reviewed: 8fb4a00a5ff0938cb933b2db5c2ef30633483d1fa01cdb516d32464178072757
 title: "RenderClearColor"
 kind: api
 owners: [Inno.Rendering]

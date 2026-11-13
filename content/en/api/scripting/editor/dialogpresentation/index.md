@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.cc761e192ec91fa1
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.DialogPresentation"
 source: xml
-reviewed: 75833bcb749c9e3e7a170ec30296a8b96e720d32b1bd90521731314ad938176d
+reviewed: 2fba570ad6ca1faf83d34fb0aad19455ef783d6bb3116ab0cb2ff194f15078e3
 title: "DialogPresentation"
 kind: api
 owners: [Inno.Editor.ImGui]

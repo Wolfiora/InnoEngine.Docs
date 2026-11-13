@@ -2,7 +2,7 @@
 uid: api.6c3333abfb4de709e7eaa221fb138bc2045e4a4fa1c14cb1be3102d851afff7b
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.op_Equality(Inno.Editor.ImGui.EditorDropWidgetResult,Inno.Editor.ImGui.EditorDropWidgetResult)"
 source: xml
-reviewed: a99f721a3f2ff9458b7bb148759386350e96e089a9730f4800a1a3f629205c5e
+reviewed: fac63acef4d3da7a691492fa97f8a8963c25fd0200fab542a9caa17fce5a2b0c
 title: "op_Equality"
 kind: api
 owners: [Inno.Editor.ImGui]

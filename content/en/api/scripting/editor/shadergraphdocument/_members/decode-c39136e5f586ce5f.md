@@ -2,7 +2,7 @@
 uid: api.c39136e5f586ce5f09c212513f0acc7434a4319d441139d15dc5063679bcb738
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphDocument.Decode\u0060\u00601(InnoEngine.Graphs.GraphSerializedValue,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)"
 source: xml
-reviewed: 442f53e94eef8098a3cc27fca638c8eb3e8894b2b494fa056f711c94978793bf
+reviewed: 941ef00906a67fde7f33bb8d0a436876df7c9fe6359a85b741d9ddb59abbe4cd
 title: "Decode"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.82e512f7a4e024b1fb4173c682c09ad546a2b5bba4e5725fc07f06db88814080
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.CoordinatedFileLease.AcquireAsync(System.String,System.String,System.TimeSpan,System.Boolean,System.Threading.CancellationToken)"
 source: xml
-reviewed: 99ff0fd43f0e9f267767e6b5cb56820828f2b4844fa874cf13299d7e34b34197
+reviewed: e71eeb1fa7c3586208fd92bc4a6d23fcf1868e206dedf1023367652501ae6d8f
 title: "AcquireAsync"
 kind: api
 owners: [Inno.Core.IO]

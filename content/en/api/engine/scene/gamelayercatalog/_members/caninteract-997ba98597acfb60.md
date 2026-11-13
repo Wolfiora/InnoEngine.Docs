@@ -2,7 +2,7 @@
 uid: api.997ba98597acfb60f5d906e195731af30a3baca72cc16c7f0df0667d00731e4a
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.CanInteract(Inno.Scene.Layers.GameLayer,Inno.Scene.Layers.GameLayer)"
 source: xml
-reviewed: 8fd0f8ed322450f274cda8b54b27d0ca69ab2774d7776ba64b7a010c78070063
+reviewed: 93abe8e7dc0444bd20d20490d1071f3e44cfcc8ea9a263059acd072fecedcda3
 title: "CanInteract"
 kind: api
 owners: [Inno.Scene]

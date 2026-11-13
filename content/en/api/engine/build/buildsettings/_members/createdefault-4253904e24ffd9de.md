@@ -2,7 +2,7 @@
 uid: api.4253904e24ffd9de946fb8e9df006296a06ca01c4a4123233e18ea117e0f7ec9
 symbol: "engine:Inno.Build:M:Inno.Build.BuildSettings.CreateDefault(System.String,System.String,Inno.Build.BuildTargetId)"
 source: xml
-reviewed: d456f914ebe1fd3166e04b4ac574f16af330ebd87357e723256dc984f3ca03da
+reviewed: 5168ca3c991d90e902a108e496dd20edc424869330c9305b4ac2674f88a3c64e
 title: "CreateDefault"
 kind: api
 owners: [Inno.Build]

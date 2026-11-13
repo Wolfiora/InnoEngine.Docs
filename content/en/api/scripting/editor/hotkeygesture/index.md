@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.720fa9c767e0a440
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.HotKeyGesture"
 source: xml
-reviewed: 780f7acf613195b9638bd339da6bf118d1ac19cb9416c9b85abc7ac7922363da
+reviewed: 58dc454e44a8358093837626e7c294826b513be47bb93191f39aa1d0bad80463
 title: "HotKeyGesture"
 kind: api
 owners: [Inno.Editor.Interactions]

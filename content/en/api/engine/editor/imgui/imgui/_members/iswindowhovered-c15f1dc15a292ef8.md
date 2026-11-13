@@ -2,7 +2,7 @@
 uid: api.c15f1dc15a292ef83b78cceafc1306b89b8d6b1c43fee6cda5ee67299ba0add4
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsWindowHovered(Inno.Editor.ImGui.ImGuiHoveredFlags)"
 source: xml
-reviewed: 6c14ba6f7715be105c93636baee2dba34fc42c33dfb5bdb38574b0fbc12a6933
+reviewed: 3f6323e16b6ad6c9e41486c036fb2ebbbf728cf617a795080f075bdb1616c999
 title: "IsWindowHovered"
 kind: api
 owners: [Inno.Editor.ImGui]

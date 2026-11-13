@@ -2,7 +2,7 @@
 uid: api.da1d973c9a08d048316264ebcb98144302af29cd7be7da4f60fe3c6874c4f1fa
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.Install(System.String,System.String,System.Boolean)"
 source: xml
-reviewed: f3e1d64e51767d34972daae20a5271306b72e2953d2f75eea99ebf42108d0908
+reviewed: 22795254272974970d020ffd4d470c24e4ad49db2b25671bf7ecdf6c5b9951e4
 title: "Install"
 kind: api
 owners: [Inno.Core.IO]

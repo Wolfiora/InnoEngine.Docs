@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.6187b4034cd4ddd5
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.IShaderSourceResolver"
 source: xml
-reviewed: 5305e1959cb4845dde2307db38bee14f7e73b4e8c30e3512239b8e39062f812b
+reviewed: 0a81a99fae2767866122000534ec13e3b3829fa84e79ae2e558e480e0a4c0163
 title: "IShaderSourceResolver"
 kind: api
 owners: [Inno.Rendering.Shaders]

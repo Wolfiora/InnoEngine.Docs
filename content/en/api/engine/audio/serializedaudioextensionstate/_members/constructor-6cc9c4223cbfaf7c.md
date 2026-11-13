@@ -2,7 +2,7 @@
 uid: api.6cc9c4223cbfaf7c3746cf4558ef5ac98b5e5e917e5d6bc9d2fd3c0d9a22fa69
 symbol: "engine:Inno.Audio:M:Inno.Audio.SerializedAudioExtensionState.#ctor"
 source: xml
-reviewed: c162120c5eddca96cfda44e2fddb3d9f2b5e87645e1f8130703f8abbfbae83c9
+reviewed: 4c5f764c32a121a9166e7ecc14fa3e5ab2ce3cb00fb185b6518600a476431f3c
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

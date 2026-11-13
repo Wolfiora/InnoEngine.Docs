@@ -2,7 +2,7 @@
 uid: api.3a47a6aec4c193bd19b50f2d745ea7a706b8417cc4ae3ecd4a67e0e48dcaf73d
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.PrepareCatalogCandidate(System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetSourceMount},Inno.Assets.Pipeline.AssetSourcePolicy)"
 source: xml
-reviewed: 42ec8561917fdd20507c90c231f92ec9ff4bf54941c5066a803c55f68e53e66a
+reviewed: b2bf6754b1f3af604d3005ed11dff0b7467e974a7f4c8a6e559bc75a2b6a2885
 title: "PrepareCatalogCandidate"
 kind: api
 owners: [Inno.Assets.Pipeline]

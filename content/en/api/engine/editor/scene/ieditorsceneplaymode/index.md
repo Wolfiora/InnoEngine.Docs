@@ -2,7 +2,7 @@
 uid: api.inno.editor.scene.c5e84225c81d3a60
 symbol: "engine:Inno.Editor.Scene:T:Inno.Editor.Scene.IEditorScenePlayMode"
 source: xml
-reviewed: f03af82f035cfa188aa1ec57bbcc444675ad1404f072d7429d2f301367e79f57
+reviewed: 9c235bf965f0426357a9e8336c1b56f714035c3f1dc56d8d62bdedfc2943afbb
 title: "IEditorScenePlayMode"
 kind: api
 owners: [Inno.Editor.Scene]

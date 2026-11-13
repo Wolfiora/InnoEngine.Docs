@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.runtime-script.c109bd86eb6caa2c
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectLocalId"
 source: xml
-reviewed: 60f67a4e283146c913e1cd1a5daf5478492e37170e2525efd8dd0e16f145f7e6
+reviewed: d7b986cb29ff2aa951adbc2bf40c468ee60360f22e0183d1411de9d9e2f1f643
 title: "ProjectLocalId"
 kind: api
 owners: [Inno.Core.Settings]

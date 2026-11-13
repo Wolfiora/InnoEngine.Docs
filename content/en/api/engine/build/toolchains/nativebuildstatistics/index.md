@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.92661374cd82d9cd
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBuildStatistics"
 source: xml
-reviewed: 853887280c119a36f0a5cc835523b0788ccf3e185ad012e4be8ad593bd12bd58
+reviewed: cbdc98a6f959a7a4a4b8972b45f775d9758d59d5e8253dff352741b7cef66ac6
 title: "NativeBuildStatistics"
 kind: api
 owners: [Inno.Build.Toolchains]

@@ -2,7 +2,7 @@
 uid: api.7a1bd8a2c841ebd50eaa2a82b973c1f27e26ebeb5b6097be6e7c43b5c6f22d8a
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureReadbackHandle.Equals(System.Object)"
 source: xml
-reviewed: 309399bfad3d59e4356388808de1d7829773c23d73748bb7ffe2d33918be9b93
+reviewed: 366180c21649277b9b7e4d5e1e62afb01bfedb5e6f214e0e7dae9a19663ef23d
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.runtime-script.760de9736bd66d8e
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingContributionContext"
 source: xml
-reviewed: 9ead27dd388a2b9598d4d2846d8c36eec2eeb6ea30ba65763c27b9a972dbe444
+reviewed: 01ab5f58811c3b4d6ff83a92d881bcbed3bc59d700b53da3a0f1629787ef48e5
 title: "ProjectSettingContributionContext"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.5f9e766b3ea3638f
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderTextureSubresourceData"
 source: xml
-reviewed: d2661036e8d10f292a49f22881bb5cf0dcf66a2c7634e6ef119a5adc18d254cd
+reviewed: 03d223181d131553fa98f6c371cdc1a758bc0a133307ac4ff7e7aca9f7511437
 title: "RenderTextureSubresourceData"
 kind: api
 owners: [Inno.Rendering.Runtime]

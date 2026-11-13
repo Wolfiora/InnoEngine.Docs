@@ -2,7 +2,7 @@
 uid: api.6935c8572dae4ae88f8643e1a4cebf33b7138020aff94ea71cc5c00e01171341
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Input(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType)"
 source: xml
-reviewed: 98e4a17abda97aa8c6965331adf89e4924262a7b85f61ef9c87e3266b6c26eb4
+reviewed: 9aacc6c12da15dac1d0278ce115f0dd93f501d76c60d954e77a3deb63eca25d2
 title: "Input"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.812a9e2a8f17fd52d79bf3f269ea486db0a1cb9c1e127f0e81322f6ff3aefe35
 symbol: "engine:Inno.Shell:P:Inno.Shell.ShellFrame.totalTime"
 source: xml
-reviewed: 6d1bd95b81bf282465eda4fe7087b568c77a4ccd79f3a48313579bc0c0cac950
+reviewed: a242332440fcc2507c024b88aa89b42592b8fb7c9d6d9938657402ffd82f44fb
 title: "totalTime"
 kind: api
 owners: [Inno.Shell]

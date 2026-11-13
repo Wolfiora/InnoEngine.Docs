@@ -2,7 +2,7 @@
 uid: api.0835fed4db6cb35eeac4402403f37188186d53d344d2f57a3de39954a5b2ecbf
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.IProjectSettingsLookup.TryGet\u0060\u00601(Inno.Core.Settings.ProjectSettingId,\u0060\u00600@)"
 source: xml
-reviewed: f0017505de2ad0b632deb57f6de758a7ceaee7f6b2b83bc377718e3cfcebdae5
+reviewed: 0af07641084c1de36c1388e4efc1f4c5176aed905d5ba9e5fc8a65565c164d0e
 title: "TryGet"
 kind: api
 owners: [Inno.Core.Settings]

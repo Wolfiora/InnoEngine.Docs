@@ -2,7 +2,7 @@
 uid: api.87352d8397d2afc9e05a0649fc2d2987c5f1fab20112d06224b337d17a9f6a9c
 symbol: "scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Quaternion.normalized"
 source: xml
-reviewed: f975c73240a6ad9c5588ce2682f19a260bfde905b62a3c816fc551e557491783
+reviewed: 7c8f5e7b9217b9a142f7db384d5af2b80df730e21e61b23ad05006e539a78105
 title: "normalized"
 kind: api
 owners: [Inno.Core.Mathematics]

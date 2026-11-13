@@ -2,7 +2,7 @@
 uid: api.cab20f06a69e5c5789f79e3cbe2898018e61a5788d7938fedd0961e5c29409fc
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetReferenceLocation.#ctor(InnoEngine.Assets.AssetReferenceKind,System.Guid,System.String,System.String)"
 source: xml
-reviewed: 88a9ad4c5ec8e9c68554ee7696799351cafa085222af1c08e423540ae4e52bfc
+reviewed: ef5cdcd0e13ab3caac2aaa15243fc202b9621902342fffc7b3ad66ba8c0306b4
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

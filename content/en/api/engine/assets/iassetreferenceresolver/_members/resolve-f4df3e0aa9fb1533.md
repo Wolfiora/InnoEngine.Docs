@@ -2,7 +2,7 @@
 uid: api.f4df3e0aa9fb1533674ce441313ab8abaa5ac2db0de6e5ee0dfb4b30a8974ba0
 symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetReferenceResolver.Resolve(System.Guid,System.Guid,System.String,System.Type,System.String)"
 source: xml
-reviewed: 267cc938afbcf20f5a7461172cec01b7f87b83899489753693807edd9c78b480
+reviewed: 851899bdbd61936de155379726de5df757ee65377decf24008b06ad8e51924d7
 title: "Resolve"
 kind: api
 owners: [Inno.Assets]

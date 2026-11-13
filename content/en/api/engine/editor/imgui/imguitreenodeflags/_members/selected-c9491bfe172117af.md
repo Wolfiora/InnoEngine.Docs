@@ -2,7 +2,7 @@
 uid: api.c9491bfe172117af950cc262eee7b0f122ef994a3344987c31fcc7730951afe8
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTreeNodeFlags.Selected"
 source: xml
-reviewed: b867e0e9bc2a83ed24db3ca7afce517a6385a7535c6f35f0ad4cd171a3010fe6
+reviewed: 2991b55f02506d83860ca13a3b1ab50b51f0120e9723b561c38292cd0c67af73
 title: "Selected"
 kind: api
 owners: [Inno.Editor.ImGui]

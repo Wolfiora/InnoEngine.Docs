@@ -2,7 +2,7 @@
 uid: api.79e7be891d65dadf21246bdb5e81c3ac5ad6288fe546c45e3af527fd5abd8082
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiSelectableFlags.Disabled"
 source: xml
-reviewed: 17f995d8dba732fb91bae49c402c31a9b063fbae2ae0387af3d964b5b0d5152b
+reviewed: e0f02d2598f9a9ffee90298a3819fbe25f188a4a4b275ebafe73f3eb9a3300dc
 title: "Disabled"
 kind: api
 owners: [Inno.Editor.ImGui]

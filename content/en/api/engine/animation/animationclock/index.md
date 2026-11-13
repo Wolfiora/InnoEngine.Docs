@@ -2,7 +2,7 @@
 uid: api.inno.animation.f680ea5bd3dc5443
 symbol: "engine:Inno.Animation:T:Inno.Animation.AnimationClock"
 source: xml
-reviewed: c275f9d17ead2cbe4fda007c6e033573aa54ffc8360c639a7822d071872a0da0
+reviewed: fa62885638b6abb10d37c1b6f8118447f550d416543f7266607f43def6aae435
 title: "AnimationClock"
 kind: api
 owners: [Inno.Animation]

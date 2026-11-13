@@ -2,7 +2,7 @@
 uid: api.0565f763d1e028e65d7e92148568191fcd0c3756fea8268ce8d478ffb264ff78
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSample.HasSampleDirectoryName(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 76489a2025e340234f45bd0b285dcb509a06e90ac276ea171ce7814b8fce485b
+reviewed: 0ca3c1e15a50153c304a8af0b9444c0c8898abce29c9ac46336fe2b16fc6bb3a
 title: "HasSampleDirectoryName"
 kind: api
 owners: [Inno.Assets.Pipeline]

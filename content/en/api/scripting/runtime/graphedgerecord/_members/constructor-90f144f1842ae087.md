@@ -2,7 +2,7 @@
 uid: api.90f144f1842ae087df9e47f2564a2146c18f4621b747c7c357681c735584a881
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphEdgeRecord.#ctor(InnoEngine.Graphs.GraphEdgeId,InnoEngine.Graphs.GraphEndpoint,InnoEngine.Graphs.GraphEndpoint)"
 source: xml
-reviewed: 9972bb6dcb62bd3919ef54599cc39bb912db3d66ada53284ee18682f176d73f8
+reviewed: d64dd64e9ecd3eb5a2d16b78f736a93f3e4d84c84c59a0f0fe7cfeb811127da9
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Graphs]

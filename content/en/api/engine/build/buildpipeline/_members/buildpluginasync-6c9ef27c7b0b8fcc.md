@@ -2,7 +2,7 @@
 uid: api.6c9ef27c7b0b8fccecc9dd8ea0e298dc43f5c4a660e4fccb77688bc76b1e33c9
 symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildPluginAsync(Inno.Build.PluginBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)"
 source: xml
-reviewed: d6ab5526937573d1dfdcaa775f06aabd03f26ec9cbeaa463b4cb5ddea08e26c5
+reviewed: eeb5535b7e0f3a66be63e283cdb9c12a643e14843fab559b7116525e936f6eda
 title: "BuildPluginAsync"
 kind: api
 owners: [Inno.Build]

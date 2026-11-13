@@ -2,7 +2,7 @@
 uid: api.cfd758feb96519e49c701a4203917cd7d53d5acc84fe114b7387801dc5f812c2
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioClipMetadata.frameCount"
 source: xml
-reviewed: 28e09fb892d0a1a4fb1e32b27d509b4dce8ab9c55996cbc44e6c74d72857198d
+reviewed: 0a3efeef211234643bf6dabb93fc7754f49b78debe209fd3e93c35c480170acf
 title: "frameCount"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.00eadc3a869eed8f0c3f18473fd0781b421480a029b614109373b2d51a0bf196
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.Draw(InnoEngine.Serialization.ISerializable)"
 source: xml
-reviewed: e3dde20bdd74a18389672c781907ccc8396b5730af9f49f8aef7d4c41733013c
+reviewed: bda6754b564f0372e7e8a48f09afe96f4850b8114c347aeb5516fc02f2a5b418
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.2b36b17fcc7714c2
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBufferSlice"
 source: xml
-reviewed: c88d252093df6849085cfe2fa2fb681c7bfd6c21c80ea6580278c236d542cfc8
+reviewed: f3f89192ae8e840cf810aedf95ae0de3e46bfa95832a95c096f04b6ac8bc651f
 title: "RenderBufferSlice"
 kind: api
 owners: [Inno.Rendering]

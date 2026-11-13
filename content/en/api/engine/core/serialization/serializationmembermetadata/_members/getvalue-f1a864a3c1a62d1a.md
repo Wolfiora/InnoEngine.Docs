@@ -2,7 +2,7 @@
 uid: api.f1a864a3c1a62d1a5c6c2647429cb8c8ea9f6864026e5723f372c0798c7350fe
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationMemberMetadata.GetValue(System.Object)"
 source: xml
-reviewed: c271f1843592faab03ae7522df0dc47544555d99de9601a1ae3670366d3e444e
+reviewed: 83bc0945efd490a58ce4e3a0827255e12a5706b55a126d3978fd58021e1ae7cd
 title: "GetValue"
 kind: api
 owners: [Inno.Core.Serialization]

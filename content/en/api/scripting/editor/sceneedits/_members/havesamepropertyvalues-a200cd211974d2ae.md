@@ -2,7 +2,7 @@
 uid: api.a200cd211974d2ae814a326176da4c26e71675b72c98b22fefa9192a9870b936
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.HaveSamePropertyValues(System.Collections.Generic.IReadOnlyList{InnoEngine.Scene.EngineObject},System.String)"
 source: xml
-reviewed: a8a0c36e8552f8a3506c8a04db9f4085d60c170716d1397ef75701cda8b01d85
+reviewed: 7672d14ca469b914dcd1d939eb96a931b3c57b3cea32a34213e2d94c56900673
 title: "HaveSamePropertyValues"
 kind: api
 owners: [Inno.Editor.Scene]

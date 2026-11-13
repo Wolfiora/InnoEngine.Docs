@@ -2,7 +2,7 @@
 uid: api.d8fec824be3c68df91413f29c1a7dc5a8bdc615f775bcab557556e681eb515a0
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderStorageType.dimension"
 source: xml
-reviewed: aeff722235ca6b77eac9212a805755f4c1d64adf8106f3e910cde73b9d57684a
+reviewed: 5cc4583883222b018797eec0f219896be214d135d52acaf00b367dab42a2f2ac
 title: "dimension"
 kind: api
 owners: [Inno.Rendering.Shaders]

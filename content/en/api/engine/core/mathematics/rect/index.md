@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.f3cacfcb50522449
 symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Rect"
 source: xml
-reviewed: 0bc357122896ff73ac6a76fafe6667571cd2d18c25d3ac08ba7dc9052eca0d65
+reviewed: abc79f8af080a19cd61f07db18e8dbeeb7e53162c72ebb810655a8783913b021
 title: "Rect"
 kind: api
 owners: [Inno.Core.Mathematics]

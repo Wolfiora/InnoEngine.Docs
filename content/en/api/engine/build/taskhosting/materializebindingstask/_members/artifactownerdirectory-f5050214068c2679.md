@@ -2,7 +2,7 @@
 uid: api.f5050214068c2679efadb19564d87628abc56b3e712e0b308788932634d69dec
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.MaterializeBindingsTask.ArtifactOwnerDirectory"
 source: xml
-reviewed: dfcdea6a058e7f6920630fdeb7f2cafd2e76dec38245a7e8d441f93c125abdee
+reviewed: ebc0374b6d338a24b7dfc8a03946136975d0dd0294575d818793f9f15f67bc45
 title: "ArtifactOwnerDirectory"
 kind: api
 owners: [Inno.Build.TaskHosting]

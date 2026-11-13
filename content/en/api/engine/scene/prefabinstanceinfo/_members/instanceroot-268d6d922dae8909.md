@@ -2,7 +2,7 @@
 uid: api.268d6d922dae89097682b1e735786ac654346ac588ba8a83a250b1329d9bbbcc
 symbol: "engine:Inno.Scene:P:Inno.Scene.PrefabInstanceInfo.instanceRoot"
 source: xml
-reviewed: e908fb3d72f6331692426fc51c61c591d0588e75cf7aabc1acea8ccce36425eb
+reviewed: 7c948cfd18b08b9400cef42b0b2f08d0d05955801f2369bbe0025ecd00cf7b38
 title: "instanceRoot"
 kind: api
 owners: [Inno.Scene]

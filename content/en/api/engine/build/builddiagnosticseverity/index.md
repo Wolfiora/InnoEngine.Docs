@@ -2,7 +2,7 @@
 uid: api.inno.build.fcf00cfcc1d282aa
 symbol: "engine:Inno.Build:T:Inno.Build.BuildDiagnosticSeverity"
 source: xml
-reviewed: 3260ce28108b3a0b95be06fa4989e8a1305f41d42f2855cdae1a9595504bd13b
+reviewed: 3362e76a5e8d8aa9b8da90688d1afb639deab02f1a858fd919da6a52d8fd1c8d
 title: "BuildDiagnosticSeverity"
 kind: api
 owners: [Inno.Build]

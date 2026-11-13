@@ -2,7 +2,7 @@
 uid: api.6dababbbee6123309845242241a4ccbc0669934510504d0d33244e51dd495b70
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheArtifactDescriptor.#ctor(System.String,System.String,System.String,System.Int64,System.DateTime,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.BuildCacheArtifactRole)"
 source: xml
-reviewed: 726908df83e08852541dc228d59c11eadea43e97ff96fec591f34757b7ff3b3f
+reviewed: c493ffd5565976066af88a34963c1a3e8357b611fdc704488fb6850e0ced492c
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

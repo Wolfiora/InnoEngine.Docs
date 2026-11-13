@@ -2,7 +2,7 @@
 uid: api.e62eda0952c70ad488d5e058cd097c929d2ed36495dc3a292793bf384a67d633
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.ReplaceContents(InnoEngine.Graphs.GraphDocument)"
 source: xml
-reviewed: cd5030eda74a5cba4c2584c2ecfe74316458b80668d07cd0b266ef40939a870a
+reviewed: cdb7b2af98e605f8a0219d042cbce559dbe5c968220ece999debe969567f29da
 title: "ReplaceContents"
 kind: api
 owners: [Inno.Core.Graphs]

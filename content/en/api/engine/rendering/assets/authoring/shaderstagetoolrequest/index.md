@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.42985a8aa6a023e4
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderStageToolRequest"
 source: xml
-reviewed: dcde2ed1687732137eacad62f7e130e60b91d9a97e6097613b2c51eed5d12c9c
+reviewed: 5f337d08d92eec5874044e41ae6aa940183ceb27d000159383f7656d575f5ce8
 title: "ShaderStageToolRequest"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

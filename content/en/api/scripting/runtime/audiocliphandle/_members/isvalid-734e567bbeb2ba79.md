@@ -2,7 +2,7 @@
 uid: api.734e567bbeb2ba791f0a3c92b90fc43fa70fe38ddfa7fb02f61d78c684b168b5
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipHandle.isValid"
 source: xml
-reviewed: ebb59645abc473aa63042fd8c89269e51bea0b334c241d7554bfb0988611926d
+reviewed: 9c461a024e4397b35ae5204ddf8487f700ef15fdde90add113c35dc8aecd876e
 title: "isValid"
 kind: api
 owners: [Inno.Audio]

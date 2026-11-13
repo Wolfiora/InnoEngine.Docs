@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.11bf60feb42a33f6
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.IAssemblyCatalogParticipant"
 source: xml
-reviewed: dddf3891341b062aa686972c2a683bb3b8516125dab22ae2a3d3ad8488301946
+reviewed: 4d4a919462f15fe6ddf52b8150910dd716112696076e7ee28ecb239d97a0b71d
 title: "IAssemblyCatalogParticipant"
 kind: api
 owners: [Inno.Extensibility.Modules]

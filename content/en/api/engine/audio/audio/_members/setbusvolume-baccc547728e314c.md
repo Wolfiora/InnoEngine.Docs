@@ -2,7 +2,7 @@
 uid: api.baccc547728e314c43f9ce16ba26df7a7cc4c0f0db8d46190cc483e0d71e9edb
 symbol: "engine:Inno.Audio:M:Inno.Audio.Audio.SetBusVolume(Inno.Audio.AudioBusId,System.Single)"
 source: xml
-reviewed: a3a3d81ab9657d6de809d4a6b4928553a749d336711e574188393817d8398ee5
+reviewed: 14bfca07f0aef4262afa4cb1ac9f437e47cbc12327ec2e04c6cacb1c1e0f7054
 title: "SetBusVolume"
 kind: api
 owners: [Inno.Audio]

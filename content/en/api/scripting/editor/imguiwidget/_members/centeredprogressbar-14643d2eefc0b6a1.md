@@ -2,7 +2,7 @@
 uid: api.14643d2eefc0b6a1479c2e0672190ff95079715f74fb55c66940d20d4a853c69
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CenteredProgressBar(System.Single,System.Numerics.Vector2,System.String)"
 source: xml
-reviewed: 203780ece5f0187f8a059c61a55c16a3edd933177ff04542fe5588c6de970164
+reviewed: 1d34bae0ace01bfcc76f0a8d4ef80d3a6a02806ecdbe7d18f21ab99ef24c93da
 title: "CenteredProgressBar"
 kind: api
 owners: [Inno.Editor.ImGui]

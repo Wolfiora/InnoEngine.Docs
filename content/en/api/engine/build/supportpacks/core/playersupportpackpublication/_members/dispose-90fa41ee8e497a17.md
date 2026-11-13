@@ -2,7 +2,7 @@
 uid: api.90fa41ee8e497a1743a5e43df4f9b4af53893b48fdb6836d906a83f345e7b427
 symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublication.Dispose"
 source: xml
-reviewed: 1f5283bfbeff057d4c0e0cf7fa836d78a8fd788f93c6132e425eb31513344489
+reviewed: a10e6c6b6dbb8b70a583d28623466ef2e35e2df0b189751b472215f4d991ef05
 title: "Dispose"
 kind: api
 owners: [Inno.Build.SupportPacks.Core]

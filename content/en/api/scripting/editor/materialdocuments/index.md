@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.editor-script.f19b0a3fbdcca733
 symbol: "scripting:Inno.Editor.Shaders:T:InnoEditor.Shaders.MaterialDocuments"
 source: xml
-reviewed: fe526b1a9e698b50eaa4b563e5cf78de5fabae14877a874ea42963c27a0bc8e3
+reviewed: fb3810718dab688ebf6aff7229199480517e85e976ce373fb20ec5162cf71cd3
 title: "MaterialDocuments"
 kind: api
 owners: [Inno.Editor.Shaders]

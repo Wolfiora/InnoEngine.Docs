@@ -2,7 +2,7 @@
 uid: api.10a456e8dadd73de334227484c06c6ca63b5ecf95f0d710b79829a2c2c06f6a6
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorMenuSourceAttribute.#ctor(System.String,System.Int32)"
 source: xml
-reviewed: b22270394445359deabab7bbfd8f6db8491b6dcfc87a1090a326eadf1714c77c
+reviewed: 6b73f1dad48ee171eeffc5050f8951948b8cbaa75b1cf22bda47dcae3b522167
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

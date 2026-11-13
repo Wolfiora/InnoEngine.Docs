@@ -2,7 +2,7 @@
 uid: api.f2cb1eaaf9debe18d42713bfe4fe259d442776274c413a9442a453021a56df2d
 symbol: "engine:Inno.Plugins.Authoring:E:Inno.Plugins.Authoring.PluginEnvironment.Changed"
 source: xml
-reviewed: bb8d6b065a6729accf2baf60b7d8f9c3cd50f0e4cf33c17b928f5f94fa72c874
+reviewed: a7274e773f926e8953cbee2e4c744dcadbdd4fbd0b2313b181a8b8195c31b2f7
 title: "Changed"
 kind: api
 owners: [Inno.Plugins.Authoring]

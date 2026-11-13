@@ -2,7 +2,7 @@
 uid: api.27b8fb427c7e3adedb783a39866af74822d2d0462dd47c3eb6994ff39518833e
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.EditorAssets.DecodeNative\u0060\u00601(System.Byte[])"
 source: xml
-reviewed: 44885f19f535ff08c584adc74d62da69bf5dc30e556f4a55a908366b9d46ae0c
+reviewed: 86f51d6fbf89040a4581753f0e44ae2216c94c5d92661d68312287b3c664290b
 title: "DecodeNative"
 kind: api
 owners: [Inno.Assets.Pipeline]

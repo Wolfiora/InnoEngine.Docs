@@ -2,7 +2,7 @@
 uid: api.db6b372decabdfa3e022a8c62a11797ecff3f75f3813fa2b31afdcb356fca08a
 symbol: "engine:Inno.Editor.Assets:P:Inno.Editor.Assets.AssetSampleImportModule.canImport"
 source: xml
-reviewed: c2f116cf353f2fb931c91dbcf4802f384883272b6aa07258f567d5dec7e76325
+reviewed: 0ef34ccb7acd6e9e2fee9f4c080ed1f5b66562761581997dd9a923f8c19e5b73
 title: "canImport"
 kind: api
 owners: [Inno.Editor.Assets]

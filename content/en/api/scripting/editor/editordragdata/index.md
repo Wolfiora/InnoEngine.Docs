@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.0051aa57958b11ff
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDragData"
 source: xml
-reviewed: cda7d07c403baf1dccd093bed5c74ca844a6dc64ef48457cb3e01ae319a55075
+reviewed: 263fea0deb4d14b607399d7c1cb4a1559789f766d3ac6962668fd302ecb49dff
 title: "EditorDragData"
 kind: api
 owners: [Inno.Editor.Interactions]

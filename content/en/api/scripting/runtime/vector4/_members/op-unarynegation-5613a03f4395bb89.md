@@ -2,7 +2,7 @@
 uid: api.5613a03f4395bb896b0f1692384a601769ab4e92224e93e10c0493845b20697a
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4.op_UnaryNegation(InnoEngine.Mathematics.Vector4)"
 source: xml
-reviewed: cff9044ec43502d6b2c97de09809fef2f316e62f826d21b29798a1961df574b0
+reviewed: e179d96189513fd4a9a738c6f40d35f5ae8de44dd7b466577e4d0f571009ef9a
 title: "op_UnaryNegation"
 kind: api
 owners: [Inno.Core.Mathematics]

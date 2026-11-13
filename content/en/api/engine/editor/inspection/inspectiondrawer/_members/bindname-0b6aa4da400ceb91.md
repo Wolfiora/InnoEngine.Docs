@@ -2,7 +2,7 @@
 uid: api.0b6aa4da400ceb915ca26ce20eb7e47575f6afe710264563a961c2b67aceb7a8
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawer\u00601.BindName(Inno.Editor.Inspection.InspectionDrawContext,\u00600)"
 source: xml
-reviewed: 4851bb632c7ced2954f496a81e3c81bd4a3cb8bb13803242edca88b322445073
+reviewed: 8619f85ca16889ae8054be9f8029b5f395fc81d9734612c6dc3df8a3394fd607
 title: "BindName"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.23e78343d99f7eb59588f51819b692f3c8787afbaa4bc37d2ddd25f66b931cf2
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsDouble(System.String,System.Double)"
 source: xml
-reviewed: b39b3d5c660387c694da0a63d60d60dc610a8992d11740a51af6ec4d12085732
+reviewed: 641af72202b5123d00075aaf663cc718d215b73f7ff612e2e5cc4efaf3943735
 title: "GetAsDouble"
 kind: api
 owners: [Inno.Editor.Settings]

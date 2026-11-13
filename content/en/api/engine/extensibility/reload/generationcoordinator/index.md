@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.reload.7dea96ba0ecafdeb
 symbol: "engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.GenerationCoordinator"
 source: xml
-reviewed: e4cd883196ee58958f80e5bd541d75c04aaca0f0932ccf4be9b7c4a6828e87fa
+reviewed: 63c70c9541fa7826739fb49561658fcb08dcc4708b0e775908d4382e88054aa9
 title: "GenerationCoordinator"
 kind: api
 owners: [Inno.Extensibility.Reload]

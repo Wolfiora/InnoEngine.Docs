@@ -2,7 +2,7 @@
 uid: api.inno.core.events.8ab808d0fc044e31
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.KeyEvent"
 source: xml
-reviewed: f82fde529b7408986413dd6e2c920c31d0c05b9ffd816b82c1b9d85753ea9d1b
+reviewed: e2cafd01a88ddf982d03810af74b17c7ab6f489c8e7cbc72b064237a0b901fa5
 title: "KeyEvent"
 kind: api
 owners: [Inno.Core.Events]

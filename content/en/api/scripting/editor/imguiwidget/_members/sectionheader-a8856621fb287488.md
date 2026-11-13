@@ -2,7 +2,7 @@
 uid: api.a8856621fb287488b532712baa8d1260d17251be3e3269ed676a454252f108ad
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.SectionHeader(System.String,System.String,System.Action)"
 source: xml
-reviewed: 80d0713abb6b53922441950a348748dcbd5b12ba69177d5044b556b2921987e1
+reviewed: e0e8c012b4f9e246ec37e8c16e25f21c6f10a31c6f9539be08e6da41dea037fd
 title: "SectionHeader"
 kind: api
 owners: [Inno.Editor.ImGui]

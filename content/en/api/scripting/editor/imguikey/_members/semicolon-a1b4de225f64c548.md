@@ -2,7 +2,7 @@
 uid: api.a1b4de225f64c548d9d36a8606d944d4ebe747556b13fe88789e9e9d1423849e
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Semicolon"
 source: xml
-reviewed: 4393fa939f21eed56c840c252fc439f0494ccf2837be382f13870be3c4c66325
+reviewed: 0bed30dde10873a8002d34c61b467eb98b052dfd6dd1d8fa98d40f57b77377c3
 title: "Semicolon"
 kind: api
 owners: [Inno.Editor.ImGui]

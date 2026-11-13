@@ -2,7 +2,7 @@
 uid: api.edbdc3e62f2e2639d635d902222d0e49318063055c8ed78a21ae1f48465f9b30
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Warn(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
 source: xml
-reviewed: 387d90f568bbc522ab49f1331f39238b827d1ff506513ba7fd0f8cf597d1a6a5
+reviewed: f3a60fa1fb09ee5c6c5477ed83f81248897ce55c8eefe01627ca300851e2fb5f
 title: "Warn"
 kind: api
 owners: [Inno.Core.Logging]

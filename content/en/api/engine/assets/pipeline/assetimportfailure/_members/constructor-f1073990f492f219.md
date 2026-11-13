@@ -2,7 +2,7 @@
 uid: api.f1073990f492f21970052c01b1ce0ddbd6d9def1c598311ae10160e006d2149c
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportFailure.#ctor(System.String,System.String)"
 source: xml
-reviewed: dc33d4aeff1da1099cea8393d0fe7201eeac923adcee9204462c66a6f0244c71
+reviewed: c44e3584a2275cbe481395dacf108cf6d89302095d8e495e3b82d61f1914dbae
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

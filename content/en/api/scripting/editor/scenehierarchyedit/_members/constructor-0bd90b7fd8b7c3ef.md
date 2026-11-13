@@ -2,7 +2,7 @@
 uid: api.0bd90b7fd8b7c3ef1e20164d9bb989c2c42cb04b32e1dc2d8af014e52f96881d
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneHierarchyEdit.#ctor"
 source: xml
-reviewed: 55c968a835bf3036ea4ea8d2b130805741ede1668ee83544a3c8a6cb8f8a4a7a
+reviewed: 7f05678e71d9c552b3b9a7196be3b82846a4f9363f91bd21298e7497fb44e536
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Scene]

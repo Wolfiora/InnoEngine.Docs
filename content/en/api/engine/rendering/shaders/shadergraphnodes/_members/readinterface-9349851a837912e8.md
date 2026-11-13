@@ -2,7 +2,7 @@
 uid: api.9349851a837912e85c526eee438c43a5f32456d220c46a9b166d72df7e0b21a8
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodes.ReadInterface(Inno.Core.Graphs.GraphDocument,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 513b6ad86c13f23d2a26cef59008894944470d05e2f90d79afc1e99a7abb09b3
+reviewed: 9fe0b5ad7316ef363c3ffdf6d7b0fb4b14719ff4ac0aa55773aaafdd4fe276c3
 title: "ReadInterface"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.3742b74fe5f3d0f9
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderStageInputNodeCompiler"
 source: xml
-reviewed: 866661471d8eaf39ed427e2cc6437bda83bf1f486e265a96fbda1ca23dd8cc41
+reviewed: a7c98e1278a351648e4eec687b715c47c06227c6a9eb3a932d8f11b38e46bb3d
 title: "ShaderStageInputNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

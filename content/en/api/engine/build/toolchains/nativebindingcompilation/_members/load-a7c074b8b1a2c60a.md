@@ -2,7 +2,7 @@
 uid: api.a7c074b8b1a2c60abea8e0fb8cf9c16014b1df1814ef2d9c22858df40c8fa2db
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.Load(System.String)"
 source: xml
-reviewed: 66612ab1a669f7cd0d6d2307f5c634eea3afe488feb06552a7b6c77f6c870abd
+reviewed: cafb1c7562f46123fc19f818450f81551be82582dae050f795f1953f5147eb0c
 title: "Load"
 kind: api
 owners: [Inno.Build.Toolchains]

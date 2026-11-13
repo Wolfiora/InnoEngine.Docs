@@ -2,7 +2,7 @@
 uid: api.inno.text.54ef59fb6723c7dd
 symbol: "engine:Inno.Text:T:Inno.Text.TextShapingOptions"
 source: xml
-reviewed: afd1be089f49a857e4d75bb2c52c60558122649bd5d9ed44a2759bcd7faac117
+reviewed: 43f8f31e161772e69a2e95d7040bac2a310e4f3fb144ca46104ea037cea3a8b5
 title: "TextShapingOptions"
 kind: api
 owners: [Inno.Text]

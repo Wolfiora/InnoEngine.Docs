@@ -2,7 +2,7 @@
 uid: api.baded1a7b41c9afc714580c13ed605a6da92922947ff066e29e241f84ffce463
 symbol: "scripting:Inno.Audio:F:InnoEngine.Audio.AudioCompletionReason.DeviceLost"
 source: xml
-reviewed: e4d6c1b03526abe2ff8f2b8495f75e62be5d74f558f536e3b5eb7231dca4b59a
+reviewed: d3f33df98ef1c9961d16dfbabb372912e0769c9324aabe78cdf7f15594ab801b
 title: "DeviceLost"
 kind: api
 owners: [Inno.Audio]

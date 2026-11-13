@@ -2,7 +2,7 @@
 uid: api.inno.core.events.2736f51e923170ec
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.TextInputEvent"
 source: xml
-reviewed: 3e4fdd7cca769c273430995a4c25d3a05ad26799c9bf2fa07c3f14a532a1ceb0
+reviewed: 4812daebb715005ad242b5473adea16a84739b3dc7003702067857905e1cf8a5
 title: "TextInputEvent"
 kind: api
 owners: [Inno.Core.Events]

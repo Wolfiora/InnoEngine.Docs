@@ -2,7 +2,7 @@
 uid: api.b57aaefc66d74049e80b5365afb14489c63e3fda3498071701c688126e0fc363
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticTypeCatalogSource.CreateInstance(System.Type)"
 source: xml
-reviewed: a47a5e0090a76a84efdf319b0f8b2a0b41171669541a460f7f071fab5af76183
+reviewed: 850f66a0160803574ed4246bc99587ae7ff04ee42e94e910458f9cc99e2ed98b
 title: "CreateInstance"
 kind: api
 owners: [Inno.Runtime]

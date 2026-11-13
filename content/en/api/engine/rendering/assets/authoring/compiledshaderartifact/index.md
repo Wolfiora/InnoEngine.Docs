@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.7eb9ff62a13afd50
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.CompiledShaderArtifact"
 source: xml
-reviewed: f9a965189c3428bf56dbb091964902071aff02295fe003e351f7dcb7e8069a02
+reviewed: 20db1c4915a6090bd8308bd1c6cda0a1b10ebc99b406a492e39996d89dd92e61
 title: "CompiledShaderArtifact"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

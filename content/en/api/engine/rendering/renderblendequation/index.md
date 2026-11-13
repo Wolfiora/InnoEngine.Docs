@@ -2,7 +2,7 @@
 uid: api.inno.rendering.ab149a9128514c11
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderBlendEquation"
 source: xml
-reviewed: 86314f1a77ed004ff91d625d4457c29c5bd91ee087307da688ac30376fc24903
+reviewed: b8e5858c21149674102647b98d1a822d7ecc7fde83ad8493403d71e01fc64298
 title: "RenderBlendEquation"
 kind: api
 owners: [Inno.Rendering]

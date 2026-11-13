@@ -2,7 +2,7 @@
 uid: api.5b327ff8e62c9885ac9016b5732c0ff9e0af72fd7f4fa47f0309b9f7885bfc54
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferSlice.isValid"
 source: xml
-reviewed: 9d749d36cf118ffe9fb3d2d6f6bc1c3b812ed3ab375b4e23453a5d0c64347418
+reviewed: f7ed534ecdf57e02f7b9a41476557281e126772bbb0a7f1047419ca8c1c0e4a3
 title: "isValid"
 kind: api
 owners: [Inno.Rendering]

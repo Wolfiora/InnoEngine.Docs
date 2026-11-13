@@ -2,7 +2,7 @@
 uid: api.d949cd499f9f12f036eb4c88d490a340ea89ba1674c071129f5c484dd578572c
 symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderStageArtifact.stage"
 source: xml
-reviewed: a99771352f093e5ccf1615c124016f6b1395b909d634b3f6e2bf34a9aabb51e9
+reviewed: caad70c07c29920b895bacce610e0be5ac2fc92239e20b2d857c677902cf9845
 title: "stage"
 kind: api
 owners: [Inno.Rendering.Assets]

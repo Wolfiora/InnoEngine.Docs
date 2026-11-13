@@ -2,7 +2,7 @@
 uid: api.78246c0a4487cef98a921966aa57b22adb6aa5902892667335828113d8ed8bcc
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.op_BitwiseOr(Inno.Scene.Layers.GameLayerMask,Inno.Scene.Layers.GameLayerMask)"
 source: xml
-reviewed: a53b57b6e6d50d5002bb55668e9cfa1e86bd727cc26c2f79e7b28b7279d9028f
+reviewed: 063e1a5253618ad8870118cc608ed221cb2d123ac47b31fd33c47ce022c17c17
 title: "op_BitwiseOr"
 kind: api
 owners: [Inno.Scene]

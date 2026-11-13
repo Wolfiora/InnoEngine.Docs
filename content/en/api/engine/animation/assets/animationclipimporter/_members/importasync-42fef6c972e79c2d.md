@@ -2,7 +2,7 @@
 uid: api.42fef6c972e79c2d723c749cf0be5b6d71cabe00ad1ec8813da2c02ec2602d1e
 symbol: "engine:Inno.Animation.Assets:M:Inno.Animation.Assets.AnimationClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Animation.AnimationClipAsset},System.Threading.CancellationToken)"
 source: xml
-reviewed: 27d0f3ee6d210f13def693729a2b76dd6d8fbe21965d4294b8a53d94529a01f4
+reviewed: d2c22f8e8935d0a6361ba72fbaaac40421970233d46d7ec445ef216848bb9194
 title: "ImportAsync"
 kind: api
 owners: [Inno.Animation.Assets]

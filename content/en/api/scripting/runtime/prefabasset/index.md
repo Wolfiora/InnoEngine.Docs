@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.066997beee0bdb11
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.PrefabAsset"
 source: xml
-reviewed: ed38a2c9e28245410e2d6e01867e4978c4fad5949efdb63c7ddee21ea20df90c
+reviewed: 2924c286af26d83d06aab58d5eb7b711c85b3e93f84f9c2dd575cc7d7b2676cd
 title: "PrefabAsset"
 kind: api
 owners: [Inno.Scene]

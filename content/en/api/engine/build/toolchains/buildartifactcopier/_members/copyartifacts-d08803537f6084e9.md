@@ -2,7 +2,7 @@
 uid: api.d08803537f6084e9d356ea2e1af6fc73485ae850f9231bf10be47284f73283e8
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactCopier.CopyArtifacts(System.String,System.String,System.String,Inno.Build.Toolchains.BuildArtifactOptions)"
 source: xml
-reviewed: 52ca1b47086bac590782d3fb30792f4d2c0ce6d0eba213c9237ae2138a1854bc
+reviewed: 2f785c134f9650012aa32d2de0d3ec0650b0034e08200e5f8f2063d003bbeab5
 title: "CopyArtifacts"
 kind: api
 owners: [Inno.Build.Toolchains]

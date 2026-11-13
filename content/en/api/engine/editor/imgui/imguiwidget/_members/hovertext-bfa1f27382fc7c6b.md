@@ -2,7 +2,7 @@
 uid: api.bfa1f27382fc7c6b42ad37f6d28975dafa74a11c154d33e4c5fea7149409b830
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.HoverText(System.String,System.String)"
 source: xml
-reviewed: 6e4533d3af563eae72ace1c19e177c2a54ec040e0ec1d319f8e71574851ce005
+reviewed: a435bcce8a0566c38bc5a598d2f0549b9e8803bee4d117037fe002bb4b79638f
 title: "HoverText"
 kind: api
 owners: [Inno.Editor.ImGui]

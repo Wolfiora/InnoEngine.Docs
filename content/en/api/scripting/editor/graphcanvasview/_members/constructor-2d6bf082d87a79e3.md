@@ -2,7 +2,7 @@
 uid: api.2d6bf082d87a79e3bcecbaebb0ad60ded759a7fdd84fa4d5867904cd563283ae
 symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.#ctor(InnoEditor.Graph.GraphCanvasState,System.Numerics.Vector2,System.Numerics.Vector2)"
 source: xml
-reviewed: 24496dc5037bc02cffac581199717d6689985e85a152c009198ef8d7ac8b757c
+reviewed: 844be7f88453289dd7ffa9f776cb5d34d1a60121bb505f39f960263586d1d345
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

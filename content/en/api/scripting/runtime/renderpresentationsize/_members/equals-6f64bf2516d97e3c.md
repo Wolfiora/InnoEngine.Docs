@@ -2,7 +2,7 @@
 uid: api.6f64bf2516d97e3c0fc10639ce361512ebf26b60e439a9bb97c6f1e7a7c7acf2
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPresentationSize.Equals(InnoEngine.Rendering.RenderPresentationSize)"
 source: xml
-reviewed: 060a59a8d7a313fb15d4c789bc04db75988afb01c21e8cf3dd595ed79782c9ec
+reviewed: c174d518146ac93e774c6515ff621f393677e92b90db831e8b2df7146efad78d
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

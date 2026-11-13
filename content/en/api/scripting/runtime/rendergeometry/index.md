@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.c5ef01eba178fc9e
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderGeometry"
 source: xml
-reviewed: bea8e9165c64ba8894ea1e117282584582ab4b0a351e1ed093e1033da8beba80
+reviewed: ee88c74c170edcfa18c9e654c69ded6e8a9c884e959c9e814670e7e3d861a82d
 title: "RenderGeometry"
 kind: api
 owners: [Inno.Rendering.Runtime]

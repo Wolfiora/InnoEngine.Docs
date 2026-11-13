@@ -2,7 +2,7 @@
 uid: api.d56aa7b9f763749f246b66f1df471174087c484cd6a4440eba858c8801bf16a1
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainWorkingDirectory.#ctor(System.String,System.IDisposable)"
 source: xml
-reviewed: 88e49c7826923e95a3ad2efb91c78d71a051c49550afff417a73d5505339e92a
+reviewed: 0a8a2f27aaed5c3a9520f524a3b855826467f2527b7bf54d4869f1c29cffa2c8
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

@@ -2,7 +2,7 @@
 uid: api.ed077eac158640c32dc0cf0f42efd48fcb37c3d14d9b808095ade0946c236b29
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorHistoryResult.message"
 source: xml
-reviewed: 75f456a32fd9f98a33381c6e45080afee35b1c4409605462aa1aca81bb146646
+reviewed: 699dfafb1dc4190d8c7962db0286f606b056ba54963712dba6d46e1f04bb25c2
 title: "message"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.709537ecb56db8a419694634a27c4f282b8b792015fec4f4a204eea08cc50e85
 symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSession.timeScale"
 source: xml
-reviewed: e1ce1e2e996199b352fa3619c4e0187e53ec41b91907daa5d7c6fba483103d11
+reviewed: 2b36e74c96143727198dd9501e87d5226ee7fc5fac9a84d4bdb1b298da5d8f13
 title: "timeScale"
 kind: api
 owners: [Inno.Runtime]

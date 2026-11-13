@@ -2,7 +2,7 @@
 uid: api.b525d203a6a92d8d7cba5870f530430bb317b312367874105a548ee4ae20f5d3
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawer\u00601.GetIcon(Inno.Editor.Inspection.InspectionDrawContext,\u00600)"
 source: xml
-reviewed: 4818c7453073d3458e59847ec9add2372c974a4b0da080327ec95317ab79f530
+reviewed: 84fc9c1a47409490dadfb9f34a159bef620677c5ba549ac47770a9a7c20b882a
 title: "GetIcon"
 kind: api
 owners: [Inno.Editor.Inspection]

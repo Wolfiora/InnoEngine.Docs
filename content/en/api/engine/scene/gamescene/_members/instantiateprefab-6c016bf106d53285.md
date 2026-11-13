@@ -2,7 +2,7 @@
 uid: api.6c016bf106d5328507f625b3bad3381f6aeb032fd479855175414cb975f55037
 symbol: "engine:Inno.Scene:M:Inno.Scene.GameScene.InstantiatePrefab(Inno.Scene.PrefabAsset,Inno.Scene.Components.Transform)"
 source: xml
-reviewed: b6c88434a86b6af3a9ce4518609901f7451cdf7cbcc389b804c47d7a5eb331d9
+reviewed: 94e42426c41c6f470e5b5baf1dc505896de9bd3c846b7c786981a1e9353e53dd
 title: "InstantiatePrefab"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.1667adb1ee85560ecc774d2ff36161ff45adc6060937b33d60ef1cff48c5a95d
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorPalette.GetHovered(System.Numerics.Vector4)"
 source: xml
-reviewed: 97848ea0c78fdd9df7f683c50c4075f3b883fbceb1646b27021231e2d2cc5b20
+reviewed: b14cb3c614664038356ec8baecf4ba4932a114dbb183748945b2ef7af1d1ed15
 title: "GetHovered"
 kind: api
 owners: [Inno.Editor.ImGui]

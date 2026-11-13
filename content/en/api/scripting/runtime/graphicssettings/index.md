@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.f5ee56c5c82248e2
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.GraphicsSettings"
 source: xml
-reviewed: c437a59fed82a16dc16621bfb4dde0cb53736fac772d24ac085b7aca91c489be
+reviewed: 309380162d6bc021a7112dd370c2e1a1fd1e27e2d855c317fafea63ecb5cf48f
 title: "GraphicsSettings"
 kind: api
 owners: [Inno.Rendering.Runtime]

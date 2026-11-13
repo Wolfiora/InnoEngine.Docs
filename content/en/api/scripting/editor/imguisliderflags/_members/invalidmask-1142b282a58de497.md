@@ -2,7 +2,7 @@
 uid: api.1142b282a58de497c92c33cc0663872f2b5d489070fe76ba4cfe431d39a6a5ed
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.InvalidMask"
 source: xml
-reviewed: 3c4b917a07ac4540a7ba5f235a3d2e27c446d914c6db7c59c047de23de8d09ee
+reviewed: 34d6e154801ceffd949a3d13b64398661ffdcd79c561d8555690cab765dc40cb
 title: "InvalidMask"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.c45ffd50b781f21dd9562238e8dd8aaefcbe88fc4ffb0b9e3a18319efe0eb4f1
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiVertex.#ctor(System.Single,System.Single,System.Single,System.Single,System.UInt32)"
 source: xml
-reviewed: fc56c080707a1af37be9d4d78499bd75248826a4ac6eecef48eb1ed92f332ae9
+reviewed: ab6429132e7fcabdb96b7c33357efd11c36fd342365dfae8544048fd708b4ee4
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

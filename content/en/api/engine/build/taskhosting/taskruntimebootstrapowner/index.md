@@ -2,7 +2,7 @@
 uid: api.inno.build.taskhosting.4e36554364566d29
 symbol: "engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.TaskRuntimeBootstrapOwner"
 source: xml
-reviewed: a4c04b4c0fb2bb1b3bed0e13f0884004b6e5329d59c88c1826e861e9555697cd
+reviewed: b56e3f695fb9cf818947e5f8ef8342bdbe6691debf3bb3a0ee747da339c7df27
 title: "TaskRuntimeBootstrapOwner"
 kind: api
 owners: [Inno.Build.TaskHosting]

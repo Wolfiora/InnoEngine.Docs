@@ -2,7 +2,7 @@
 uid: api.af0bb7769cf92c887b647161395d720cff119c49558897b214fe84cd63bef165
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.RuntimeContentCatalog.Validate"
 source: xml
-reviewed: 5ec6021f343520acc4a78384f644a9e728b02140041fb93ceafac22af497a862
+reviewed: 3cceeeac5cc0f73dfbd7169aa2e40a9b88abf9994167a72a1cabf199476673a9
 title: "Validate"
 kind: api
 owners: [Inno.Runtime]

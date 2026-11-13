@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.editor-script.e103e5f9f9572664
 symbol: "scripting:Inno.Editor.Graph:T:InnoEditor.Graph.GraphDocumentController"
 source: xml
-reviewed: af6b5f6d187f1838eaad1b09b60e2cec51e585e5f726c214a3be060b395ad7f5
+reviewed: b9ceca8c612ca9b858197a03337d339b5a0bc585ac2f62d99c2810507dd3aaa9
 title: "GraphDocumentController"
 kind: api
 owners: [Inno.Editor.Graph]

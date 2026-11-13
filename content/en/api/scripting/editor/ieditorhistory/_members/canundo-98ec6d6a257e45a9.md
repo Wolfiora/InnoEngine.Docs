@@ -2,7 +2,7 @@
 uid: api.98ec6d6a257e45a9c459f094eaa4a267504fa7284dcfce58f24b490b3b3ad844
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.IEditorHistory.canUndo"
 source: xml
-reviewed: 2c645c4326a23d102ecc17f360e9ce79c8205adef7ff750c0f25f09ab3bd8739
+reviewed: d3795dc7fce19b1a4929ebadcddbbced29c87d6d7080ed1e06c82a5c69de073f
 title: "canUndo"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.145c099c6f9035a1
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphClipboard"
 source: xml
-reviewed: 40d24c7bbdae70c4ef88a9c4861bf6a59b5b9251cf964122791af93f89113a66
+reviewed: 376803fcaeef14b1856881ceb003f8955a6d584a977ff8e6d03d5418c9876c09
 title: "ShaderGraphClipboard"
 kind: api
 owners: [Inno.Rendering.Shaders]

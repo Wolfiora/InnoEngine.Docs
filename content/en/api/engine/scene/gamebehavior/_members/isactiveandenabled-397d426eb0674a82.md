@@ -2,7 +2,7 @@
 uid: api.397d426eb0674a825c2263ba8a6b0ff5f3193de0a13d0b7ff85dfe34bc56d67d
 symbol: "engine:Inno.Scene:P:Inno.Scene.GameBehavior.isActiveAndEnabled"
 source: xml
-reviewed: 504dd6f6a8ff1c09ce8428576b4a8bcdcec92ecf97eef447141838a3c3661bb9
+reviewed: 5bc9a55d26caa37e5da8f2196606bafa234dc49ae489bbd387c8c9370cc1702b
 title: "isActiveAndEnabled"
 kind: api
 owners: [Inno.Scene]

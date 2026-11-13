@@ -2,7 +2,7 @@
 uid: api.61b55f470e94a2e5e9b25e3d2d3c3c0b882c7bfd57cbeb74a71dc6388697b269
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImporter.CreateImportSettings"
 source: xml
-reviewed: cac4d564e253571cb8c79a407a710159abb04195b5c323f236052ad226c91f97
+reviewed: 585560e8642a9a0564525344ab8c455011767ed5559b979b9c23cdfb09c9bf79
 title: "CreateImportSettings"
 kind: api
 owners: [Inno.Assets.Pipeline]

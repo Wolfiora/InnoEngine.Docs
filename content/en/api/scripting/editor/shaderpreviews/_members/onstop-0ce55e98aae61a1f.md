@@ -2,7 +2,7 @@
 uid: api.0ce55e98aae61a1f81f50637397c5ad1d6ba61cab3862c502806c499887afa77
 symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.OnStop(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: 3fc95fa08ac88a5d99bb95018fee0803698f060752aa49998053e5abd1f2ffea
+reviewed: 9613f06f2719eaa6c7d24f4f7d4d135a2636118d80f020c352efbda96dc83a13
 title: "OnStop"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

@@ -2,7 +2,7 @@
 uid: api.b546098b88c61f9b28ae2f1de745c81d11676f79df75a7c31f083c5fe77b727f
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Division(Inno.Core.Mathematics.Vector4Int,System.Int32)"
 source: xml
-reviewed: fbbe61d4c3796252fb6bf47228af3a95a7d6b051087233cb6b5e877f09025e91
+reviewed: 82c828a2d669f6538cdd1ccc30c6068cffce1c60862283fe121cfcc992254391
 title: "op_Division"
 kind: api
 owners: [Inno.Core.Mathematics]

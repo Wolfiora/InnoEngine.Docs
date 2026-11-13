@@ -2,7 +2,7 @@
 uid: api.6d51ae46c20732fbefeea430f2668877fe1a2b7df94c745312535ca189dafa3a
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.NoUndoRedo"
 source: xml
-reviewed: 92d77eb2278aaac99e5d49b53409fbc47e0dbe20ceac775c0f318f8e803c47a3
+reviewed: c434cd1b28196433fe0a059369168318aa6d89b12f09580481c16a5cf9e41cc3
 title: "NoUndoRedo"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.4fa6ac716d407fe3dcc80636311c56e12cccf895f8dbe097e28dad012fd75b7c
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.GetObjects"
 source: xml
-reviewed: 4d9902327743a1f89adf34f008ae18dcede6b50bbdc3348e142fa04f1f8b6559
+reviewed: d516ff59359f19e3848d139c44d3606178d24f4b505f35649370fa8fdb7550d3
 title: "GetObjects"
 kind: api
 owners: [Inno.Scene]

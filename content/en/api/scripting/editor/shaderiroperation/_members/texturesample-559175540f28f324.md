@@ -2,7 +2,7 @@
 uid: api.559175540f28f3246aaf97b2cc65cad3dc1f06d0a8d02d7b8316e5153e2285d5
 symbol: "scripting:Inno.Rendering.Shaders:F:InnoEditor.Rendering.Shaders.ShaderIrOperation.TextureSample"
 source: xml
-reviewed: e5a734575ce398dae4ffb59da46ed406f952fa3afe8d749bbec9f896ba374315
+reviewed: cd1bb1e4d8074f7bd7fea36e44a66989d97fc706cefa960ed87f2aef57e47961
 title: "TextureSample"
 kind: api
 owners: [Inno.Rendering.Shaders]

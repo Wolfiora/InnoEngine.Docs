@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.875d155c05f349d1
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTarget"
 source: xml
-reviewed: bf8c3c620a7909779f673ef4bba04cbfb22a93b1f72c5af51f2041ac84d2bfc4
+reviewed: d6a0461fd8fbf6b4aff577321124b8b1f0e6efdb41797b37c43f105e16f21699
 title: "RenderTarget"
 kind: api
 owners: [Inno.Rendering]

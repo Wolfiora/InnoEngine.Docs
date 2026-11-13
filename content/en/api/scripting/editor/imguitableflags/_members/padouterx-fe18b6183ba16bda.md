@@ -2,7 +2,7 @@
 uid: api.fe18b6183ba16bda9febc3dbb00a62f9b82e13ea41d3817b96d9d61e39ef2aed
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.PadOuterX"
 source: xml
-reviewed: e6a3e602fed90b258cb6f54728caccd1eae1964d4eea8ac6c363b79eda61d74d
+reviewed: e870c4bb199c98b7dabedcf8b480969e8d4d1242870603aa32130605dff864a6
 title: "PadOuterX"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.eadcd1349d8b1208154c2b10ab84058d4ca5530d84f487c374b858ebe5b2e94f
 symbol: "engine:Inno.Scene:P:Inno.Scene.GameComponent.transform"
 source: xml
-reviewed: 7a366a240c2355c53f285939bb94ce4b5eaad13c80064e361d5e5cc205b8fd27
+reviewed: e31b5c95fd2fa820ee2d5b6b67b1adf8ffa6fe77914c3989c3d30cbb1913bc0b
 title: "transform"
 kind: api
 owners: [Inno.Scene]

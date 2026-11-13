@@ -2,7 +2,7 @@
 uid: api.5a09e882c62aa997e45b4a7c424e8603f3ae0b4bc6777468e4ddef1d7d963557
 symbol: "engine:Inno.Assets:F:Inno.Assets.AssetImportStatus.Pending"
 source: xml
-reviewed: 4b8665bfa543d2ce11326d98c1dcd7959a0cb6c8d256e0eefa3ec404fb56f18f
+reviewed: 2ca3fd17f3ceeac751b8e9f063a2648a74ae9420e8105c8342401ba9f8cfc212
 title: "Pending"
 kind: api
 owners: [Inno.Assets]

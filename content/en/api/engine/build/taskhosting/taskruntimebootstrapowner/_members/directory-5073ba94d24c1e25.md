@@ -2,7 +2,7 @@
 uid: api.5073ba94d24c1e2559a38da1407b6d51940f3e806194be4ee70dca0f8e01bbeb
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.TaskRuntimeBootstrapOwner.Directory"
 source: xml
-reviewed: e93b7b35ca469fc363af3ee12f27845fc7b1f2db1dc0b2bb5817da0a7519ec1e
+reviewed: 1122aaee489f299243ce3f834a4df2c91135c027f452a65bb4379cb344e9a0b2
 title: "Directory"
 kind: api
 owners: [Inno.Build.TaskHosting]

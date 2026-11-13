@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.140c6894bcbde286
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetArtifactKey"
 source: xml
-reviewed: 048373ecd13f5a66f26d7189f602da5b2d95b5332abbb8a3f885cbc0f3a16fb4
+reviewed: c168511c36c912c748fa1eeafa75ed776085bb9b8fa44ee285d37b57885c5b45
 title: "AssetArtifactKey"
 kind: api
 owners: [Inno.Assets]

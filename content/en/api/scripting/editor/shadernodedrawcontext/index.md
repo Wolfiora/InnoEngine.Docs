@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.imgui.editor-script.eb2638d97707ccc7
 symbol: "scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderNodeDrawContext"
 source: xml
-reviewed: a1b1e32bfcf089eb58ef21eb5ef9263438787e308a3075b0ded2a61fd7f566e9
+reviewed: 68e8a44bff27224372e8a362e54cc415ad7fc95da4395afa5ca0ed62444a241d
 title: "ShaderNodeDrawContext"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

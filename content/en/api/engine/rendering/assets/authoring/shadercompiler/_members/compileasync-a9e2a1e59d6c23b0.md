@@ -2,7 +2,7 @@
 uid: api.a9e2a1e59d6c23b08be94e77740c49e91d37a8682ac01dab224c67023e1e66fb
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderCompiler.CompileAsync(Inno.Rendering.Assets.ShaderDefinition,Inno.Rendering.Shaders.ShaderGraphProgramResult,Inno.Rendering.Assets.Authoring.ShaderCompileTarget,Inno.Rendering.Assets.RenderShaderVariant,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)"
 source: xml
-reviewed: 105d2ee4c5ab4c60215a652d2655fe1e8f1b97a16d9aef7e591b5959483737fa
+reviewed: 18f093024110fcf79d3c3ff688ebc9a0047318ca411662eda8641eff9f6f972b
 title: "CompileAsync"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

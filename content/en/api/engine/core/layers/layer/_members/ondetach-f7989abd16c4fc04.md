@@ -2,7 +2,7 @@
 uid: api.f7989abd16c4fc043e2b33534fe2248a06165b5fb84f87c0917f6c59b9944fa4
 symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.OnDetach"
 source: xml
-reviewed: 9b42f898252c257bc026e7879760f8f59b42b3fbf20f44b1daa38c0e6da37b57
+reviewed: f2b3617d8bbc6363b4efcfd0c3fa8690d56f6248620dd7d961ef17877a885fb2
 title: "OnDetach"
 kind: api
 owners: [Inno.Core.Layers]

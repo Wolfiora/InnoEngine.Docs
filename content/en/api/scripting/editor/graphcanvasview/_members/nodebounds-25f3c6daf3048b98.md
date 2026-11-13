@@ -2,7 +2,7 @@
 uid: api.25f3c6daf3048b9846c2fd364158857fa195724e3a201ecab4adcd28d1501e00
 symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.NodeBounds(InnoEditor.Graph.GraphCanvasNode,System.Nullable{InnoEngine.Graphs.GraphPosition})"
 source: xml
-reviewed: c0224b1077a36af0c552b1f1b7db8b20bbd287fb42b372f099a7fd100c0ba360
+reviewed: 25c9d61573768de337fe202842f844bdf72245685e748273d230bc43913c6031
 title: "NodeBounds"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

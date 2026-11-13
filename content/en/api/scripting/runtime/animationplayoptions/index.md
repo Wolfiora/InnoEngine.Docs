@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.47270fd836e36aec
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationPlayOptions"
 source: xml
-reviewed: 748ce200d377c794b2b10a33bd09f3eeb0944b05f890f77ce041964be9757c99
+reviewed: d2657e05bf9b39800d40769c578691ad83e5a0ed1bc5e7a43b657f4173376f71
 title: "AnimationPlayOptions"
 kind: api
 owners: [Inno.Animation]

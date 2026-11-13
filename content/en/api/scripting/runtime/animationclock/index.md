@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.96bdf99f73e7fd62
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationClock"
 source: xml
-reviewed: 141dd355063442cb1f81455c0f432c7178e61df8c1eb7eb85bc8d8035b12e8da
+reviewed: f2a6c24dc057a4be50453b32a442e8f0d81a3655e49581541856ade0c1cb97cf
 title: "AnimationClock"
 kind: api
 owners: [Inno.Animation]

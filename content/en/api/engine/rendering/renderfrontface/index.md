@@ -2,7 +2,7 @@
 uid: api.inno.rendering.ba18040b5f39e961
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderFrontFace"
 source: xml
-reviewed: bd5e42a6a6109c381dfca4605c7211e4fd0b1bfffbb42f23d0a2c9ab7387062d
+reviewed: 0fceaa6ecedb1eab00c856386e8c4d54ead27e4b3f235433f37a41170b96b35e
 title: "RenderFrontFace"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.a67caa1f0dba939f62602de5fa1a161538bd5872f9e5b55b3a8735ccd34ab26b
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSerializationServices.Deserialize\u0060\u00601(System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: e759a48e8fa7edae75856690f3a875db97263cc86cf4b98fa390d4a30ef7be2a
+reviewed: d52b4ec5daac1bc6c086b432972938acaf0e2bf2d7b1ebb813fabd4ba68effc3
 title: "Deserialize"
 kind: api
 owners: [Inno.Assets.Pipeline]

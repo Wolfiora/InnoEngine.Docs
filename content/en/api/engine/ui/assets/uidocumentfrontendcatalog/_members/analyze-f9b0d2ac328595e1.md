@@ -2,7 +2,7 @@
 uid: api.f9b0d2ac328595e1fe41d7839babf94ba460bbd2b2ac9825449873a238449f39
 symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentFrontendCatalog.Analyze(Inno.UI.UiDocumentLanguageId,Inno.UI.Assets.UiDocumentSourceFile)"
 source: xml
-reviewed: 4a37ca88ede6e861cd0042f280694d388eb8c97c959cfdddb06ec4d16d1799e6
+reviewed: c2123eae6a0e97cab5d52d9768a9a923f0fc2df98f1068da55ee6a59ad5bd743
 title: "Analyze"
 kind: api
 owners: [Inno.UI.Assets]

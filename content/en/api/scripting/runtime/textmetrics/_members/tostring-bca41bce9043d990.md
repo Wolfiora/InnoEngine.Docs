@@ -2,7 +2,7 @@
 uid: api.bca41bce9043d9900904eb759551ea78cdd4ea2a975efd339d729d03c17df7f4
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextMetrics.ToString"
 source: xml
-reviewed: af458233789f46c62b22e8c8d6de3524f9434672909ad2c0c5db30d674bc5992
+reviewed: ffad0dc79dacceb1314e7b89cb479ceab2d1360e8b2dc5e4fea14596facb313f
 title: "ToString"
 kind: api
 owners: [Inno.Text]

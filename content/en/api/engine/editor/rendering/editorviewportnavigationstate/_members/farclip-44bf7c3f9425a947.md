@@ -2,7 +2,7 @@
 uid: api.44bf7c3f9425a947e3f46875a8b7e3a1edc250042fb750ee8033c191adc92476
 symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportNavigationState.farClip"
 source: xml
-reviewed: 33b93f5c40a578ae48cdd68d86c70515da622a7e3425ce35da01aa1c5377f07e
+reviewed: 90d92d0e68805bfc9c29b6e6e49a5f2722ffaa419f5cd6ab6b07b3d47e5cf4b6
 title: "farClip"
 kind: api
 owners: [Inno.Editor.Rendering]

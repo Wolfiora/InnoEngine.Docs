@@ -2,7 +2,7 @@
 uid: api.71cd85ee5bdc2b7fbf8c373edf2f6538081ee83dfaa9f4e8a41684151ba4d34d
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.OnStop(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: 0d8b21248803c1ad740ed12417b5762f5d3b019e6379a691f4ccc47c1cbc21ca
+reviewed: fdbcab743a01d65560e551f3775be5e1eb538a7abe1a6a31722b98525ab97516
 title: "OnStop"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.71588ffe60ef82341924948397fa9d4cc9115338e7d2a88bb2f69acf949cf11b
 symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSessionOptions.capabilities"
 source: xml
-reviewed: 80247905c4fdbfa0eef156457e2cb0d6e47f70e875345d1e87e3e2ccadad485c
+reviewed: a3916b616b92048b551617fb54dac324135104be76a8421c323a48759a3f8a70
 title: "capabilities"
 kind: api
 owners: [Inno.Runtime]

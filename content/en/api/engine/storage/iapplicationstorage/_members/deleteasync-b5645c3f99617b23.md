@@ -2,7 +2,7 @@
 uid: api.b5645c3f99617b23fafec07126cad0ebd933f9f20fbc6f67ac3d77e29339b7ba
 symbol: "engine:Inno.Storage:M:Inno.Storage.IApplicationStorage.DeleteAsync(Inno.Storage.StorageKey,System.Threading.CancellationToken)"
 source: xml
-reviewed: 18a21ee4b9fb9c0ecbfd070a6898dd6f5631316556d965f7a45cd5c34f8584b1
+reviewed: 8d1aacd32c9ffadd687773942025f1c50fbfdb41b581c46e7f04ab63da65b1fa
 title: "DeleteAsync"
 kind: api
 owners: [Inno.Storage]

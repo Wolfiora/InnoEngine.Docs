@@ -2,7 +2,7 @@
 uid: api.dea38feb765b197f64eebbfd0662bb381021555728085d0b37ad5bea653da863
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropStatus.visual"
 source: xml
-reviewed: d33bb7d1fde845019e3e545243a32960b0e4fd4e78ff7bc32e49a9b86ea3f864
+reviewed: ded6192515e856eeb7d564587f12a0f58cdc9012b86a70103c320542700dd781
 title: "visual"
 kind: api
 owners: [Inno.Editor.Interactions]

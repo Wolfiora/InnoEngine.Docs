@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.f4582246ee8e0fa7
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentImportPipeline"
 source: xml
-reviewed: d68b75668d05209259cfd4102ff5b144e2a17c0ca5a7b6b4756ff42c7184475f
+reviewed: 8e8fb17f8d02cb27164dc5fe17de0aaafc3449318372a76d33ff1915ee804247
 title: "UiDocumentImportPipeline"
 kind: api
 owners: [Inno.UI.Assets]

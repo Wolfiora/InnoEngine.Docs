@@ -2,7 +2,7 @@
 uid: api.76fd1a50d806018d6ca76714f74f097f4bcf81e437c52dbef5230648cd5cf69b
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.TabMinWidthShrink"
 source: xml
-reviewed: 5e2684d1358c26f41977150b29e923b5695dda6dbafa8acfb9788549b048d9b7
+reviewed: a56d1708aeb7d201adbc82dc4f3fc21d9b36c121555f9db9d685b8c18c407bbd
 title: "TabMinWidthShrink"
 kind: api
 owners: [Inno.Editor.ImGui]

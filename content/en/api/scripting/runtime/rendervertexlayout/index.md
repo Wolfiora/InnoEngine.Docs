@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.0979dc407d361d15
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderVertexLayout"
 source: xml
-reviewed: 86075ad57bc800bde73438ddf900bd49511a35e6687b3472b9027a834a8bbe4f
+reviewed: 07e2f4816f99d39b4306db7d398665645be2e8345851827ee07f638d844c5ac6
 title: "RenderVertexLayout"
 kind: api
 owners: [Inno.Rendering]

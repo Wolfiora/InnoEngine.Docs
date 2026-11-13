@@ -1,44 +1,30 @@
 ---
 title: Own windows and rendering surfaces
-description: Compose platform windows with rendering without transferring borrowed handles or destroying live surfaces.
+description: Preserve borrowed window handles and rendering retirement across host implementations.
 uid: platforms.window-lifetime
 kind: how-to
 ---
 # Own windows and rendering surfaces
 
-A window, its application wrapper and the renderer's surface have different owners. Keep their destruction order explicit when composing a product or implementing a host.
+A window owner and a rendering surface have different lifetimes. Code that composes them must keep borrowed handles valid until rendering has stopped using them.
 
-## Choose the system integration
+## Establish the owners
 
-The SDL host integration supplies initialization, window creation, focus and system handles. The BGFX runtime integration validates those borrowed handles for rendering. Neither selection chooses the build-time shader compiler.
+1. Obtain application and window services from the selected host.
+2. Create or explicitly adopt the window through its owning service.
+3. Supply the live window surface to the renderer through the supported integration boundary.
+4. Retain the window, application and any external native owner while rendering borrows the surface.
 
-| Target | Window integration | Rendering integration | Additional windows |
-| --- | --- | --- | --- |
-| Windows x64 | [SDL host](../architecture/projects/inno-integration-windowsx64-sdl3.md) | [Win32 surface](../architecture/projects/inno-integration-windowsx64-bgfx-runtime.md) | Subject to actual renderer capability |
-| macOS ARM64 | [SDL host](../architecture/projects/inno-integration-macosarm64-sdl3.md) | [Cocoa surface](../architecture/projects/inno-integration-macosarm64-bgfx-runtime.md) | Subject to actual renderer capability |
-| Browser | [SDL host](../architecture/projects/inno-integration-browserwasm32-sdl3.md) | [Canvas surface](../architecture/projects/inno-integration-browserwasm32-bgfx-runtime.md) | Not supported |
+Successful surface resolution does not transfer ownership. An invalid or unsupported surface fails through its actual contract; shared engine code must not silently create another window.
 
-The desktop integrations permit primary-output sRGB reset; the Browser integration does not. A permitted capability still requires support from the selected backend and device.
+## Close in dependency order
 
-## Create and borrow in order
+Stop submitting work for a closing surface, request its retirement and wait for the rendering owner to finish the required retirement before destroying the window. A completed retirement task is not a general GPU fence. Keep any additional in-flight resource protection required by the renderer.
 
-1. Construct the application with its explicit host integration on the owner thread.
-2. Create the window through that application, or explicitly adopt an externally owned window.
-3. Supply the live window's borrowed system handles to the renderer. The integration validates the ABI and presentation role before native initialization or additional-surface creation.
-4. Keep the application, window and original external owner alive while rendering references the surface.
+For an adopted window, release the engine wrapper before its external owner destroys the native object. Do not release the same resource through both paths.
 
-The integration configuration is borrowed and immutable. A successful surface resolution does not transfer window or display ownership. An invalid role, ABI or zero handle fails explicitly; it does not create a replacement window.
+## Respect thread and capability boundaries
 
-## Close safely
+Application and window operations follow their owner-thread contract. Awaiting a task does not itself restore that thread. Event pumping, focus and additional-window support depend on the selected host's capabilities; do not infer them from a shared interface's existence.
 
-Stop submitting work for the closing surface, request `RetireWindowSurface`, and let the renderer process the retirement before the window owner destroys its system handle. A completed retirement Task is not a general GPU fence; retain any additional in-flight resource protection required by the rendering contract.
-
-For an adopted window, release the application wrapper first, then let the external owner destroy the original window. Do not destroy the same handle through both paths. Released wrappers reject native-handle access.
-
-Application/window operations remain on their original owner thread. An `await` does not promise that the continuation returned to that thread. Consult [SDL application ownership](../backends/sdl3.md) when coordinating input, event pumping and shutdown.
-
-## Recognize platform limits
-
-Browser starts with no assumed focus and follows browser focus events. It creates an OpenGL Canvas and does not install desktop live-resize behavior. Unsupported multiple-window requests fail before native creation.
-
-Source-level composition and compiled examples cannot certify a real window, display, driver or event loop. Use the relevant native/product checks on the actual platform when changing initialization, handles, focus or retirement.
+Use [rendering ownership](../manual/rendering/index.md) and the [SDL integration guide](../backends/sdl3.md) for the relevant engine-level contracts. Concrete OS handles, surface ABI implementations and target-specific initialization are intentionally outside the reference.

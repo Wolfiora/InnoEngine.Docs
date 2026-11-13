@@ -2,7 +2,7 @@
 uid: api.39dc1d55b6da1d5739e1e24547f1cba532a5a16304b9b3dd2573a154de491d13
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.op_Addition(InnoEngine.Mathematics.Vector2Int,InnoEngine.Mathematics.Vector2Int)"
 source: xml
-reviewed: 1557363dfc68e86dc38e10bb9c82f2c685133f7f498db3248dc94c570c75dea9
+reviewed: 6c7207d6a480825dd13d0e992695274e981f3aa248f97983ec4e758d279a6790
 title: "op_Addition"
 kind: api
 owners: [Inno.Core.Mathematics]

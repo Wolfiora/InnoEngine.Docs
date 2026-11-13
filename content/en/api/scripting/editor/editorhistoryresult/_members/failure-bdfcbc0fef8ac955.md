@@ -2,7 +2,7 @@
 uid: api.bdfcbc0fef8ac955d22611cb96a2f020d1efd0ba88fc680e1cd14f09ebbcb56a
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryResult.Failure(System.String)"
 source: xml
-reviewed: b520011c733164d74bdb27d9638e1e53b28f0071861c1097399c6bb22455c9d4
+reviewed: 28bbe3ed3945847734aceec5441c3198b02dd291470a1e2fff5b2122e6c1b266
 title: "Failure"
 kind: api
 owners: [Inno.Editor.Interactions]

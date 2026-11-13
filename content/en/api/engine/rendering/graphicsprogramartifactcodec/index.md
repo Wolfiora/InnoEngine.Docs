@@ -2,7 +2,7 @@
 uid: api.inno.rendering.af950d762ea4c239
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.GraphicsProgramArtifactCodec"
 source: xml
-reviewed: 3f6081d70fef170fe946f229c547bc839b67186388233c99f61b7ed35d954840
+reviewed: 406a64b8ede0258bac4591bebeb5021eb5cd01a15a3932e7c8e3a6057a40e574
 title: "GraphicsProgramArtifactCodec"
 kind: api
 owners: [Inno.Rendering]

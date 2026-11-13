@@ -2,7 +2,7 @@
 uid: api.623efe6264eb5d960abc6895ca57a695be044e1036ad1c0fc0c7667b52d6c5e2
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.IRenderFrameUploadService.UploadBuffer(InnoEngine.Rendering.RenderBufferUploadDescriptor,System.ReadOnlyMemory{System.Byte},System.String)"
 source: xml
-reviewed: eadd0501eeed7be6cfaf846b77f1f87d8ff745aa993a02482c4256cf81278dbb
+reviewed: 2591a04dc3db14fd1c53f6a650a59b70779511c6abf8c8aa92ef9048ee6dd527
 title: "UploadBuffer"
 kind: api
 owners: [Inno.Rendering]

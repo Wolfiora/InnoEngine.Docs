@@ -2,7 +2,7 @@
 uid: api.353a599f497a03ef6f824b01766da7842b83064a8d5ecf248ae50cfdc26330a0
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.FromBytes(System.Byte,System.Byte,System.Byte,System.Byte)"
 source: xml
-reviewed: 93cad71e9061c9db3001a77220f25b1e9d928e440954c5bdc23db035f7f08e6b
+reviewed: e14ca7f0298e951f5337eea7fcb716af39c0aeac9133ecf7b88575f255dc02e6
 title: "FromBytes"
 kind: api
 owners: [Inno.Core.Mathematics]

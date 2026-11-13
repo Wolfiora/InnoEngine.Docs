@@ -2,7 +2,7 @@
 uid: api.34e6eefd494ad49e4b8a431eba230ac1e9906e99aa25372385ea5a7c54e1da1b
 symbol: "engine:Inno.Storage.Runtime:M:Inno.Storage.Runtime.StorageRuntimeFactory.#ctor(System.Func{Inno.Runtime.Contracts.RuntimeSubsystemContext,Inno.Storage.IApplicationStorage})"
 source: xml
-reviewed: 0780f98cb4159c20e8b3e253ad597d5b83ea70cb4394bd50a018f58f5ed693f7
+reviewed: 436bfd721d1931909e9ec8904b6cd7edad9120eb22ee1db1eb87fea4f0c5db47
 title: "Constructor"
 kind: api
 owners: [Inno.Storage.Runtime]

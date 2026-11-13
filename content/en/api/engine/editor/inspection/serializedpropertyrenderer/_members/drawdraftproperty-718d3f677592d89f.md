@@ -2,7 +2,7 @@
 uid: api.718d3f677592d89f985a4d3cc90aa60e11633e29e2494baee81961cdb43d7fbf
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.DrawDraftProperty(Inno.Editor.Core.EditorContext,System.Object,System.Object,System.String,Inno.Core.Serialization.SerializedProperty,Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean)"
 source: xml
-reviewed: f5c58a6839b61fed944c9a87321d438bc1a65e8837f9f28ec6e003fb003efe34
+reviewed: 9e8231a4bb38b55cb761068e3d2c48f8edc884453647f794c903a788cc186ef6
 title: "DrawDraftProperty"
 kind: api
 owners: [Inno.Editor.Inspection]

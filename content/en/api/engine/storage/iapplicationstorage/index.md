@@ -2,7 +2,7 @@
 uid: api.inno.storage.a2689b2828c5bca4
 symbol: "engine:Inno.Storage:T:Inno.Storage.IApplicationStorage"
 source: xml
-reviewed: b7b26b0d693a8f8b1cf5bd2f2d50295fc01ea396988a5b8144ce73a28b87192d
+reviewed: c40c5d7ee5d57bbfc4387d58b301c4590d2804983822784e2c204b6ad7f700f9
 title: "IApplicationStorage"
 kind: api
 owners: [Inno.Storage]

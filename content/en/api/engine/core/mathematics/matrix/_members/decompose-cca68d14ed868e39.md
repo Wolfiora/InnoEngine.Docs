@@ -2,7 +2,7 @@
 uid: api.cca68d14ed868e394a00569d30ba666b2129f95274a9d64205f653c5fef56f4d
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.Decompose(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Vector3@,Inno.Core.Mathematics.Quaternion@,Inno.Core.Mathematics.Vector3@)"
 source: xml
-reviewed: 656e7f16c931c90db85029d325f24daa41cb952f8daff8417facc20fd943e3f9
+reviewed: 1d3bb2db089623bde249354edfca137914f19fda93f0729bdb253d910ef0fb9b
 title: "Decompose"
 kind: api
 owners: [Inno.Core.Mathematics]

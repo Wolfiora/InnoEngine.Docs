@@ -2,7 +2,7 @@
 uid: api.b73ea4853a915a2d22dc0a1be5bdf30b01b19b94d0e737d3863460585898afd9
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.INativeBindingGenerator.ComputeInputFingerprintAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)"
 source: xml
-reviewed: 3aa8cc6dae5e6170ef72eb6e279c64d5adca2da22d79db050917478ca2482291
+reviewed: c29ed6fa2c1f86536a1e29cef554642e7b877788096904f67a21894bb3839ee6
 title: "ComputeInputFingerprintAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

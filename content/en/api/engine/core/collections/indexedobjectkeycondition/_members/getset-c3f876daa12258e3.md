@@ -2,7 +2,7 @@
 uid: api.c3f876daa12258e37f59b48e6deeee2ac3538132a2e6c5cdd96ced1cbca85850
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectKeyCondition\u00602.GetSet(Inno.Core.Collections.IndexedObjectStore{\u00600})"
 source: xml
-reviewed: a8db6197587e61bd1ba30c7dba6d86432f38d6eecb2b2b0cdf64adbc0467736a
+reviewed: 9f8d8827e6caa3f79d83f232e6bb6e525c0fc329b0ed2e215453a30963e7c082
 title: "GetSet"
 kind: api
 owners: [Inno.Core.Collections]

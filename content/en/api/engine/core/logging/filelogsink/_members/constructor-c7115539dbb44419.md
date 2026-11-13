@@ -2,7 +2,7 @@
 uid: api.c7115539dbb44419864e7918551f4c3cd2ff96352cc2d1473bba611e725bf039
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.FileLogSink.#ctor(System.String,System.Int64,System.Int32)"
 source: xml
-reviewed: d2620c65af7861061716043393dda165caa71018ae88c52e126c6e1af0a516e1
+reviewed: 3b69c04bd923f92f7fa8b6b4d0ac3c28947d5a93218fb0c98d77b17e9e33df45
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Logging]

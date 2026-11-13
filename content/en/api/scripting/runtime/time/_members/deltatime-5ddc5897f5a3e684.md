@@ -2,7 +2,7 @@
 uid: api.5ddc5897f5a3e6843427043dd45393290b25ea384c5ef8a7624a80bbee7076f4
 symbol: "scripting:Inno.Runtime:P:InnoEngine.Core.Time.deltaTime"
 source: xml
-reviewed: 22985c1e4822a6f37fd377dc2ce411a950df2594244ec53f0c0375f37199deeb
+reviewed: 42d64fc9dcf8d65f1c7795dfa3aff54f8e24cf7d7b5e48bf242b69f0d5a29d01
 title: "deltaTime"
 kind: api
 owners: [Inno.Runtime]

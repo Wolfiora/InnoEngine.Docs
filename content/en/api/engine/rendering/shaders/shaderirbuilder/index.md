@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.6dd41edfcf5f18fb
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderIrBuilder"
 source: xml
-reviewed: fd63805c31aaab8da447644889691073be042bfa7604bea227a6aa651f16594b
+reviewed: 154996199939eeb70ded6a6493d45f18039263de51fe903027b75820fc839b6b
 title: "ShaderIrBuilder"
 kind: api
 owners: [Inno.Rendering.Shaders]

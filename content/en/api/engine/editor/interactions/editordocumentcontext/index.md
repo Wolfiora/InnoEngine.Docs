@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.f264244e42e86b1a
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDocumentContext"
 source: xml
-reviewed: 632d52b1267d0c7c866103d57b603d6768c809debfbe7821b4f25e94e8b18c2e
+reviewed: 628d8017e4c5f6ed89655581b6e9f3fdbdec8df734678dea83a7ce70c4caed85
 title: "EditorDocumentContext"
 kind: api
 owners: [Inno.Editor.Interactions]

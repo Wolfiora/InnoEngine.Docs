@@ -2,7 +2,7 @@
 uid: api.f1ca52acd48a035054cce5051417f1eacdb795d8c8b85bbe8464ce25237e4df4
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextMetrics.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: a507c032ec4fb33e1b37867a780966bed0863fc05a9c44f889fd3fa75d14cc23
+reviewed: 40319d63b9654126345f1743f556810d2070993c951076b1dfbdc9e9bb780458
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

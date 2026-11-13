@@ -2,7 +2,7 @@
 uid: api.inno.rendering.72f68b42c00f3c7c
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderDepthCompare"
 source: xml
-reviewed: 5f9a0304f520c4c1065a7f91343ab2720c9abde1a57488e0e679b168d4380b5f
+reviewed: 3c594f277fae7e70f9dfc5f0738ad514fdbc8a10d654b1b11b274b2d9c3c45c3
 title: "RenderDepthCompare"
 kind: api
 owners: [Inno.Rendering]

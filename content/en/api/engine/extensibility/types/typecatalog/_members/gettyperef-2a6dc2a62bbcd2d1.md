@@ -2,7 +2,7 @@
 uid: api.2a6dc2a62bbcd2d1decaed4a25cbc06c5b52295af60d5b3f5495501cae6620dd
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.GetTypeRef(System.Type)"
 source: xml
-reviewed: 7a777381b14b3d41f21d7abb697cb8a95527e90832a348c01ab7614cdd50a0ed
+reviewed: b81b008dc2570ad8a817c1746a414d6945e74a57dc3203733704a337d191f0fb
 title: "GetTypeRef"
 kind: api
 owners: [Inno.Extensibility.Types]

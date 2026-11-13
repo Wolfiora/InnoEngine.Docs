@@ -2,7 +2,7 @@
 uid: api.e9a951a075dc34d607fe9ff53652f7c7bf088bd0843a69a4f92e316e39e5d451
 symbol: "scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.ShowIfAttribute.#ctor(System.String,InnoEditor.Annotations.InspectorCondition)"
 source: xml
-reviewed: 11989aab69d6660884e19337792b0195b0e85b362513e846819a70b2be490345
+reviewed: 76e105f089325b17733a29dd1c8cb68fadfb2434d1862dae20cbb614e8319588
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Annotations]

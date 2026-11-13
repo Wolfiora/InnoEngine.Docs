@@ -2,7 +2,7 @@
 uid: api.inno.rendering.f8746eda8c8a24fd
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderTextureReadbackHandle"
 source: xml
-reviewed: ae6991e4dadd0c7b7cb4c971e3a9ef9012c3cc0ef960982641016b2a4283d347
+reviewed: 62ad216b3c5fffd6a33067d2cdd6b2716fa7b176e3ddbb298b1b7ce447c92ba0
 title: "RenderTextureReadbackHandle"
 kind: api
 owners: [Inno.Rendering]

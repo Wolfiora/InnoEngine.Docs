@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.4e915ef438a9cc21
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.TextAttribute"
 source: xml
-reviewed: dcc035a41971ed82ef3b545eabce790d7c987037d120d7d71d16323089678660
+reviewed: 475a0b4c6aa73c057d69c6096ab57daf840e9302a4a66fa01eea9cd4f6307219
 title: "TextAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

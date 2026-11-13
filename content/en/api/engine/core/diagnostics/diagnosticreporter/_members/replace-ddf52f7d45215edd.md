@@ -2,7 +2,7 @@
 uid: api.ddf52f7d45215eddaac4d975ba99bd9897e5c9ba644d5f39780c5dd666ab4f11
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticReporter.Replace(System.Collections.Generic.IEnumerable{Inno.Core.Diagnostics.Diagnostic})"
 source: xml
-reviewed: a2acd622f8edb3b27aa2383e8c3881d56e16f63dbdd6592fa6a56051e9e39ebb
+reviewed: 525b191eeec19a82da7da041009ccc032c92768683907c29b0a05efb1e54800a
 title: "Replace"
 kind: api
 owners: [Inno.Core.Diagnostics]

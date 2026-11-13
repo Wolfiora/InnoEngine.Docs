@@ -2,7 +2,7 @@
 uid: api.b7f1aa0f0eecc5830acfd54b2dbf96270ee6d35bfa515c016d6b4d6ac69cfdb8
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneHierarchyEdit.MoveToScene(InnoEngine.Scene.GameObject,InnoEngine.Scene.GameScene)"
 source: xml
-reviewed: 8fbaf7f4bd2bdf6bc0c6aeba1707a88b86e7df250914d5596865e7613f9da0ae
+reviewed: aa9e7849a2fe455a778acba689456c59a9204c2fe230dd728228fa5a487f8b4f
 title: "MoveToScene"
 kind: api
 owners: [Inno.Editor.Scene]

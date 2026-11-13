@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.433349d519d9b2ae
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.Assets"
 source: xml
-reviewed: 03164f1d23ba917034c74fec3993b6260496f6ada1641f08a23db699a76caf71
+reviewed: 0da4c85085dbd336e1d9358c2a469ea84d96a76fe3e2b699681d32c2c1c822d9
 title: "Assets"
 kind: api
 owners: [Inno.Assets]

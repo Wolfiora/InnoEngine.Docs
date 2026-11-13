@@ -2,7 +2,7 @@
 uid: api.12565fe6aab03a2aa77b460246c102cddaa86c33ce6398c147d229957f81001c
 symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.MouseCursor.ResizeAll"
 source: xml
-reviewed: cae3f8eba072bfa01c512c85264891b03f6f768d3e92f667f9331ba306db765d
+reviewed: 3da1db14a583d2701ff11107822cd69468efab0c8f6193b5afbc083aeafff15c
 title: "ResizeAll"
 kind: api
 owners: [Inno.Core.Input]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.994b9d57d43bbe97
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IViewContentSink"
 source: xml
-reviewed: 67b1d126959f94247f665507993e2af3393a1b801109c2aa5abfde05c395b7d4
+reviewed: a957a93c5e42184c28baa500d8879904148ef080ac1d976dd42fec0668bfd66b
 title: "IViewContentSink"
 kind: api
 owners: [Inno.Rendering.Runtime]

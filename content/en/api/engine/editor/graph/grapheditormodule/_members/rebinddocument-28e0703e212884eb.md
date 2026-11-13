@@ -2,7 +2,7 @@
 uid: api.28e0703e212884eba3419cd0248d613ad4b09ebbbf9c4b7fa8044cabb768baae
 symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.RebindDocument(System.Guid,Inno.Core.Graphs.GraphDocument)"
 source: xml
-reviewed: a50295f5f47d9b96202e3b01d14fa04ad5742a10ee5680b0487078c906ba14e3
+reviewed: 5e40b40f70892d82e6d9978d0fb27d88f23d853950640239310f6c37bdd6754c
 title: "RebindDocument"
 kind: api
 owners: [Inno.Editor.Graph]

@@ -2,7 +2,7 @@
 uid: api.7ed124aeb75cff250ae5c2f0a2472eeb5398327ac317ad648c73bb43a7e2aa77
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBlendState.colorEquation"
 source: xml
-reviewed: a54d84ab9474c8019697766b2cc21a222e757d0261a64ee58021f92cfca1902e
+reviewed: d37fcccef9a5bbcd09c13aa8f72337d102366b6905e1a16095f337aed4c0d925
 title: "colorEquation"
 kind: api
 owners: [Inno.Rendering]

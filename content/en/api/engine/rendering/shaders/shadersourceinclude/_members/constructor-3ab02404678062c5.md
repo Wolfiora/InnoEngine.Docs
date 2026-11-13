@@ -2,7 +2,7 @@
 uid: api.3ab02404678062c543fcdcfe48003b8e9577f2894526c03103c47af5ae3702b3
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceInclude.#ctor(System.String,System.String,System.String)"
 source: xml
-reviewed: 431ce29e892ad621e58e2f4c036b2a8b902ac8e0266e75a1d09310e73d5a0ba6
+reviewed: c2fe4a24999cf54007e94c378b0f998ad60f0d10c0bab6b76f28d66483bddcf6
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

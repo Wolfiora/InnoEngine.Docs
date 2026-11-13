@@ -2,7 +2,7 @@
 uid: api.0c796086b2fdd6530244bd9fccfd3b93e59a989a7a8f9b63c97b91e17ef353c2
 symbol: "engine:Inno.Platform:M:Inno.Platform.PlatformWindowOptions.#ctor"
 source: xml
-reviewed: 28768402ccf7fb673650bf1590ffa803f0fd433d0c16039dbadb8744bcdf0c7d
+reviewed: d1fd9f235b3e3491e76490a0d27118fea5634e8a20c0f1de0770e25f71381021
 title: "Constructor"
 kind: api
 owners: [Inno.Platform]

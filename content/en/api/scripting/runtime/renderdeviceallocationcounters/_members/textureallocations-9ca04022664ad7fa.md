@@ -2,7 +2,7 @@
 uid: api.9ca04022664ad7faa61aafab6d0164d2baae2cb751b5094a24492b510cf25173
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderDeviceAllocationCounters.textureAllocations"
 source: xml
-reviewed: 88db33c7cc83bc4b9cb6de7ed35b4751c85a8d92e5163aeb59d1b556f37b19ce
+reviewed: 6e444f2cb554ddd1e561c995b8b50d18ca3bedd044045c98dfb4ea38bf620d71
 title: "textureAllocations"
 kind: api
 owners: [Inno.Rendering]

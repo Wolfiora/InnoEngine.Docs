@@ -2,7 +2,7 @@
 uid: api.d59bf39e6498a3f2a2f43be60ff0884a56cf1cffb5f1e2d19ca663a3446632ec
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ReadSourceUtf8Text(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 626925e7a6420511a659486b5d0bef7fc91f67126324c886d0dc38f86e68ae1a
+reviewed: 04e4950b5e5c5e4baaec49908dfea4e6c781af7bc71da5cf72c11c61176220df
 title: "ReadSourceUtf8Text"
 kind: api
 owners: [Inno.Assets.Pipeline]

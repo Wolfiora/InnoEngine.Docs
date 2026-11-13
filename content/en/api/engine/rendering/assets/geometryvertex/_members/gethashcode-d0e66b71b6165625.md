@@ -2,7 +2,7 @@
 uid: api.d0e66b71b6165625710204de1914e1aa92f4b76ae7578ab6c371198033165eca
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryVertex.GetHashCode"
 source: xml
-reviewed: f51d34ee8731471472e7e0cbd28ee6468573d6981947453348ded7c8d116ef11
+reviewed: e1b0f9d94152b0287c912d0beab0967c57b4579c89d50a2bd64261ec6b817c1a
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering.Assets]

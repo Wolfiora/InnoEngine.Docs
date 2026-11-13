@@ -2,7 +2,7 @@
 uid: api.40222defe9e4fdda408065902979cffaa18a029f2ea98e12c6bc679d9d4419d7
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceModuleAnalysis.diagnostics"
 source: xml
-reviewed: ba4bb6cfb6eda24920c8427e30acc676d32b4e2f618917e8c3c8a0348e48ead7
+reviewed: ee032ae8f543dd6b79f7e7e8f568e2377136941b70024d254eb0a44d43566ace
 title: "diagnostics"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.d551f2b90d243ec9ec4be59fa351e92c628268870bc73c6dd32bc26e0eef6d2a
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderTextureArtifactReference.Equals(System.Object)"
 source: xml
-reviewed: 947397bace3abcd9c7eb248e3a867b20fefea6c3819a8a380f4e3e034e546e57
+reviewed: 49c018bb013005e434c0d5e7d8380de3d1ab4b4fb71df41835981de385421117
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Assets]

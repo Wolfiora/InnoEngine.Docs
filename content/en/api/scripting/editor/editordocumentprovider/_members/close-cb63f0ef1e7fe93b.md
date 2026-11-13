@@ -2,7 +2,7 @@
 uid: api.cb63f0ef1e7fe93b1c9592fcbaf46c3e298eb9f4ded97758628dc16853a4861d
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDocumentProvider.Close(InnoEditor.Interactions.EditorDocumentContext)"
 source: xml
-reviewed: 2d4e1125bef52ba2daead65c398e17566b549027e27122cfd5e9635f6b021f2b
+reviewed: a1959aed0e7d9d4224b00bb189332f428563759499293496f4fdac5dd552f954
 title: "Close"
 kind: api
 owners: [Inno.Editor.Interactions]

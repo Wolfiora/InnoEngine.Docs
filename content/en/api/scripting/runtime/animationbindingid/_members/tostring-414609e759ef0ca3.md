@@ -2,7 +2,7 @@
 uid: api.414609e759ef0ca38f7ceb6ec6c8eff09d95d10277a89d200dd0797b94c57454
 symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingId.ToString"
 source: xml
-reviewed: c566f2152067a98b22585ab6fe44baa4d153f9a8173088f52cf89c7a87050600
+reviewed: 4d398be730d356738d1c25cf907d483f56f91196b0c2274b391bb6a6047c7267
 title: "ToString"
 kind: api
 owners: [Inno.Animation]

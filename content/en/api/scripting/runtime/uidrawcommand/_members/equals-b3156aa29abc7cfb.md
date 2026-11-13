@@ -2,7 +2,7 @@
 uid: api.b3156aa29abc7cfb8ef3fce00c07221619f00ba852651d05fb3f4b2d829849ce
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDrawCommand.Equals(InnoEngine.UI.UiDrawCommand)"
 source: xml
-reviewed: edc9cc10ce710d60583c1a69cc9785a4f648a1689ea2b28bb0d5808e1b60d5de
+reviewed: 863fe49d0d3823ec561935a30147822026c7a142cce34f06ac513ae2a242009b
 title: "Equals"
 kind: api
 owners: [Inno.UI]

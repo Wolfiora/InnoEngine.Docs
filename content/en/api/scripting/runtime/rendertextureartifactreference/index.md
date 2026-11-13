@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.a02f624ca9534533
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderTextureArtifactReference"
 source: xml
-reviewed: 9db12e40d54fddec815afe61c9295b828ddc301c8ec9e671b23e5dcb5d3abe8c
+reviewed: cf9dcd05f16862782fc65faaf7fb9a6a7d11aaf31e5fb56dde9763008423e532
 title: "RenderTextureArtifactReference"
 kind: api
 owners: [Inno.Rendering.Assets]

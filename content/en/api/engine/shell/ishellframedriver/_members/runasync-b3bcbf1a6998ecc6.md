@@ -2,7 +2,7 @@
 uid: api.b3bcbf1a6998ecc6a5e818f904058fb40b7d669905f95940f0fedc49a785fcc8
 symbol: "engine:Inno.Shell:M:Inno.Shell.IShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)"
 source: xml
-reviewed: 2fcd90c8fba67938243b8f148a89f4330419a8e7a8331916a3c61fe03c5da6c1
+reviewed: a15f571f8a9477d185fdbe352e99c2ab7bf00ac2b42d2699daf2246e81f3852c
 title: "RunAsync"
 kind: api
 owners: [Inno.Shell]

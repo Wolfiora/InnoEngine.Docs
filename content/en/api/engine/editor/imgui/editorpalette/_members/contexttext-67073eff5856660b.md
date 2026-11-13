@@ -2,7 +2,7 @@
 uid: api.67073eff5856660bee78759df01eb0302dc743827bcf0a26894524b7770866ac
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorPalette.contextText"
 source: xml
-reviewed: fde9f471ed478995494028950c2be77fa7fe7ca160bc22f9449bb52579f4436b
+reviewed: 85ab3cc7e52a3909bd24317afb256164290674b36ce24561c27d4fb66dc1632c
 title: "contextText"
 kind: api
 owners: [Inno.Editor.ImGui]

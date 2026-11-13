@@ -2,7 +2,7 @@
 uid: api.fc69768e2ebf2021a645f437963ec4dc3d2e34d9f624c7099a4abe276f14f629
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3Int.op_Multiply(InnoEngine.Mathematics.Vector3Int,System.Int32)"
 source: xml
-reviewed: ae430eb5333aa012b366e91a9bbf3ed24d75239ae54e81d07ac21f8a637d6436
+reviewed: 86aa7cc9f2bf4bb24d7a628f1d1cdcb6de3b3811a518fe244ffbdc37b2c3a931
 title: "op_Multiply"
 kind: api
 owners: [Inno.Core.Mathematics]

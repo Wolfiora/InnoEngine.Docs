@@ -2,7 +2,7 @@
 uid: api.2743d9e5531cdfec93cda3e8d35729c81c05a91d569c71fae954bbcc9d965650
 symbol: "engine:Inno.Editor.Scripting:M:Inno.Editor.Scripting.IEditorScriptCompilation.CancelCompilation(System.Int64)"
 source: xml
-reviewed: 0e15b339311928028d429204ea196f457809fad3df477f478c42e0ce5cbab9cc
+reviewed: 53b2be1ce70ff08e31fda0fe61c10378557e2d9d7d325e47d16ff3d82f882c7a
 title: "CancelCompilation"
 kind: api
 owners: [Inno.Editor.Scripting]

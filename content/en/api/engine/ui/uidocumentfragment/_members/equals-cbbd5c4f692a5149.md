@@ -2,7 +2,7 @@
 uid: api.cbbd5c4f692a51494e14ab0088652e23baf92014cd482033d561c16d5b26ca6f
 symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentFragment.Equals(Inno.UI.UiDocumentFragment)"
 source: xml
-reviewed: 92f515ddab3a448e07d8a14ab38a33d11b362a7491dbc79499102ab8034791a8
+reviewed: 7d702e7b942db6120cfaef4486901048d7938c497ccce7a318cadb3bbfb796eb
 title: "Equals"
 kind: api
 owners: [Inno.UI]

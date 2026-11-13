@@ -2,7 +2,7 @@
 uid: api.90ea9e816c2de626468c2453e5036c9d3998e71cbe8035f91afc86b55b08ce4d
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderVertexLayout.stride"
 source: xml
-reviewed: 6b75c3702c6d3117bbfe4a8186ab325ec2eb4b9462878e6a71451fc13b66ae61
+reviewed: d1f996521f34989c07165d0c30c9ab23dede8b56178eea87f4e9b2767406320e
 title: "stride"
 kind: api
 owners: [Inno.Rendering]

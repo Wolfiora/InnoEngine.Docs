@@ -2,7 +2,7 @@
 uid: api.a1ac82373c920e8b25922c9da840318a051ef25feb5580ba29822511afb9b571
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioBusDefinition.volume"
 source: xml
-reviewed: c4881bb8a8eb5b38e24146caa77a39528bbe84d7f00d1ff1b5dad28a148c7e47
+reviewed: c460f05bd11a52c4ee25fc196a31912564fb76783296203a1570d8ab063cb07a
 title: "volume"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.f357a8957541e868
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentFontDeclaration"
 source: xml
-reviewed: 33b6ccc09d86ce20b52f439f2dcfb3a1f18f6f90ad2640d2504836578a18819b
+reviewed: 6a24627ac72260254299a84152aae52340c4be2aca7a65a6e00801936bd210ea
 title: "UiDocumentFontDeclaration"
 kind: api
 owners: [Inno.UI.Assets]

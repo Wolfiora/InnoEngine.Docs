@@ -2,7 +2,7 @@
 uid: api.1db47051cad2c5d59d999712fc03fc6980c4888a5a217ac820a93f9cec07b0cb
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSetting.Draw(Inno.Editor.Settings.EditorSettingObject)"
 source: xml
-reviewed: 83ba8ebb3e271859e202dab7954c40fc452d4b34272ccb8a3a2f77308b621be1
+reviewed: 1dad48916f59fd9c73fa182df753b440c9d6d15c038f5eb8ed7135d8c34b3417
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Settings]

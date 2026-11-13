@@ -2,7 +2,7 @@
 uid: api.f0e27a05a94b7a3f5ccb6f2bd41c87f6c888995cb59c96df6f1bd80f66790ca0
 symbol: "engine:Inno.Build:P:Inno.Build.GameBuildRequest.profile"
 source: xml
-reviewed: 9fee2ffcebe12990ec883aa9cb605d140f6172b607bef0264be2e20e1634616b
+reviewed: 6c268fc41bb61431a0401bb9071dd119c6dcbf1e5cf54bef8f148bcb252466f1
 title: "profile"
 kind: api
 owners: [Inno.Build]

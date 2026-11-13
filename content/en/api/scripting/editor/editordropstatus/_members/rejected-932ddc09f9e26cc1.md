@@ -2,7 +2,7 @@
 uid: api.932ddc09f9e26cc18418c2838fd39f0d7d852ef6fe82f260ee12a94311477ccb
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDropStatus.rejected"
 source: xml
-reviewed: 847cc1c57236b0aa6f8920f4d07ebe56c48b1f24cb34c677ea356fdc6c436315
+reviewed: bad7b4bdd793cd1cf03a81e490deff5a5749e1e7b7f2f7164c71d938330b5039
 title: "rejected"
 kind: api
 owners: [Inno.Editor.Interactions]

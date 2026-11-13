@@ -2,7 +2,7 @@
 uid: api.d13ca68b6eee3dd256e52d52d98dd2c6c5435310d263fbe3df3947482045fc53
 symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.GraphicsSettings.capabilities"
 source: xml
-reviewed: 57cd0e13b24a28eeb2be5a504948eca9c642a2e3ac1031d5b0801c7e3cf4c6eb
+reviewed: 2f9c43e7430c93d9953672b49aa7319acbaab09bd193b66a6f4406c5bf262b7b
 title: "capabilities"
 kind: api
 owners: [Inno.Rendering.Runtime]

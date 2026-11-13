@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.fc45943e651691e5
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorShortcutAttribute"
 source: xml
-reviewed: 131baf7f52509e3c7aeaf3a3dae640ba5e00d74089ba596812a97f7af68a0258
+reviewed: 1d17b62f61374bf0440028b29f2618af3da6cff92c54c633784461d9a00958c0
 title: "EditorShortcutAttribute"
 kind: api
 owners: [Inno.Editor.Interactions]

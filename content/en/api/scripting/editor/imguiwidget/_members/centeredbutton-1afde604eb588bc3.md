@@ -2,7 +2,7 @@
 uid: api.1afde604eb588bc3bbbed87ef4fdc2b05e022380a9898bf300286f2217dae075
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CenteredButton(System.String,System.Single)"
 source: xml
-reviewed: 656ed3bc377c05e504a4f75277c15b31c4d358569c229bcfbd419762fcbe8020
+reviewed: 500c38cc45c582cc65e60e96b4158cc1484fccd41cf60336ce886ee7db1e57fd
 title: "CenteredButton"
 kind: api
 owners: [Inno.Editor.ImGui]

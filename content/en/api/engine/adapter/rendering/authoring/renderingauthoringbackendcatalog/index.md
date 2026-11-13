@@ -2,7 +2,7 @@
 uid: api.inno.adapter.rendering.authoring.5bf82fc0930a1f05
 symbol: "engine:Inno.Adapter.Rendering.Authoring:T:Inno.Adapter.Rendering.RenderingAuthoringBackendCatalog"
 source: xml
-reviewed: bcdd52d80649bec5f2faba3f5a25b5f65fb07385193c1d7cb441ff6b1ee43d07
+reviewed: 0fe0ffc02247bb0dd656caf2652bb0463151f415b7fdac24c48596a6981ee643
 title: "RenderingAuthoringBackendCatalog"
 kind: api
 owners: [Inno.Adapter.Rendering.Authoring]

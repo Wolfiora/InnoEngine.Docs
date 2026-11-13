@@ -2,7 +2,7 @@
 uid: api.50bf288fde0db9554196632d25dc81eba130a5554091355181e3af3cda5322b3
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorSelectionState.TryGet\u0060\u00601(\u0060\u00600@)"
 source: xml
-reviewed: 2c5c0fa5fb8ed3f4fff3641aed113fc41ac1d4f75f590a8a63fd6b2ff379afa0
+reviewed: 48273ce1ddcf5b0ae7ee40844a64eff2351461f6e6b8ccc85bd013b8817a51f8
 title: "TryGet"
 kind: api
 owners: [Inno.Editor.Interactions]

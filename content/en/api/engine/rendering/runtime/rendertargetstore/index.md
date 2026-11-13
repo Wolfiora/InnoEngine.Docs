@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.b53387e4a9e38c9e
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderTargetStore"
 source: xml
-reviewed: e68426c28835aac5fa1cb807cc84c54771b3e8211e6744bcd62a81a2556e4e98
+reviewed: 9576626d0d0495e1417efaa157d9ef56e626ff10052dd0c8b93c1bfa8d646151
 title: "RenderTargetStore"
 kind: api
 owners: [Inno.Rendering.Runtime]

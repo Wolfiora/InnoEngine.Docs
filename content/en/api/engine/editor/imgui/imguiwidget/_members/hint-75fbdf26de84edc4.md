@@ -2,7 +2,7 @@
 uid: api.75fbdf26de84edc48d12f15501c2e820ff0bf72e2392cb28cfbddb19c6c5d8d4
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.Hint(System.String)"
 source: xml
-reviewed: c0b05944cb3c2bfdd30c14bc9487171042890bf14a9b3302631aa811dec1ca9b
+reviewed: 4877c60255e0d1dd11b7eeaa5f87034dc8e3d611cb213a26d9b0ba56aeb0eb73
 title: "Hint"
 kind: api
 owners: [Inno.Editor.ImGui]

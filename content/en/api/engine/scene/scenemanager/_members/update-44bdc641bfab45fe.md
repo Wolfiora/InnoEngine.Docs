@@ -2,7 +2,7 @@
 uid: api.44bdc641bfab45fe2f2fb05742a23763e34e94fa8d7da730c1c03f6bd54c2e42
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneManager.Update(System.Single)"
 source: xml
-reviewed: cb21ee891d9660510209b72e8a66645a8458b26dc9ad8033833bc528345b19d9
+reviewed: 8cbba19a894888a203e267b9447010380384be83715602c65d0d7a851099da0d
 title: "Update"
 kind: api
 owners: [Inno.Scene]

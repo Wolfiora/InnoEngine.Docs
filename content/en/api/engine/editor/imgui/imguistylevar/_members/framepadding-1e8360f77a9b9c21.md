@@ -2,7 +2,7 @@
 uid: api.1e8360f77a9b9c214db6493e9ec50bfd3edc8710098de7be557f78e557c1cb2f
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiStyleVar.FramePadding"
 source: xml
-reviewed: 8c29f75f44c7c3c0ad174d53a072bca3782d2e646bacd0704ce9a312b23b91c6
+reviewed: 7aeefcff5ecab41e3c8a25c71c3e42c045c8cebb807fe3307e7eb8927ec08ad5
 title: "FramePadding"
 kind: api
 owners: [Inno.Editor.ImGui]

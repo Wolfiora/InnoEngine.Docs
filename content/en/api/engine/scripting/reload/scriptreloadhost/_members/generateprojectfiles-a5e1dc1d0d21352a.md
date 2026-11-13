@@ -2,7 +2,7 @@
 uid: api.a5e1dc1d0d21352a21ba4a9cefcef6bebec0b3904ee4eda60e6ed08da43e3215
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.GenerateProjectFiles"
 source: xml
-reviewed: c86e8e8d1cd3098aed08b7baa4974a52cf0fd0c1ed24863991c9626956d63f64
+reviewed: 0e286ff516e829f45d6d7842d49f7980af7a6f51e0ae41da57a2627acb87d0b3
 title: "GenerateProjectFiles"
 kind: api
 owners: [Inno.Scripting.Reload]

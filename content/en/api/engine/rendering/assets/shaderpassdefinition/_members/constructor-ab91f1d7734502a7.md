@@ -2,7 +2,7 @@
 uid: api.ab91f1d7734502a7d50f4d3a339fad3df99ce3c332d80af7854baab71235a0a7
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassDefinition.#ctor(System.String,Inno.Rendering.ShaderProgramKind,Inno.Rendering.GraphicsCapability,System.Nullable{Inno.Rendering.Assets.ShaderRenderState},System.Collections.Generic.IEnumerable{Inno.Rendering.Assets.ShaderMetadataEntry})"
 source: xml
-reviewed: ccb3fcd1f10b5e68243acc72229d6809c71c5357763bee27a862dec163d6eb0b
+reviewed: dc01a9c29030851877abb73a97458d5d1140e85327ab7acf4f4b40337d060715
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

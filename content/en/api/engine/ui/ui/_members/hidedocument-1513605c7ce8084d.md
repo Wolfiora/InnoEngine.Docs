@@ -2,7 +2,7 @@
 uid: api.1513605c7ce8084d7307127b13f675983cb0b5380dc7ed666539a581748f8b39
 symbol: "engine:Inno.UI:M:Inno.UI.UI.HideDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle)"
 source: xml
-reviewed: b61b63ff2951a85fd0f5fbcf635e58dd3b8f011333a6d85684dedde0bfa07fdc
+reviewed: 70e08540379e80ad13e4293445b718ce9e246a83a9d21a08a3b0f87d467856d1
 title: "HideDocument"
 kind: api
 owners: [Inno.UI]

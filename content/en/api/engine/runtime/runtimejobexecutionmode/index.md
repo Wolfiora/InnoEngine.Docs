@@ -2,7 +2,7 @@
 uid: api.inno.runtime.e490bdc5692108e7
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeJobExecutionMode"
 source: xml
-reviewed: c489c7dac9bbf4335875762058ca71c51c12335ed888e6cd2c3f95263a72769d
+reviewed: b6164928d8e0c996779df7dae33b13a8f6aaa032be7c971f4f06fdc888aa1a7c
 title: "RuntimeJobExecutionMode"
 kind: api
 owners: [Inno.Runtime]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.1de82d2035da3df7
 symbol: "engine:Inno.Assets:T:Inno.Assets.BinaryAsset"
 source: xml
-reviewed: b3ab1252fed5ee7c2047c7b1bba829ac3214cc51346f28cb3a895a93955eeace
+reviewed: a095b70d9b87055e6bc95feca013c24314bd06c5a128aca95226958a916ada53
 title: "BinaryAsset"
 kind: api
 owners: [Inno.Assets]

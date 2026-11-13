@@ -2,7 +2,7 @@
 uid: api.660cc423b99ca66b11c6e5fea431676c1dbe01277836c3dbd0e6b0ae94046472
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipelineContext.#ctor(InnoEngine.Rendering.RenderRequest,InnoEngine.Rendering.RenderPipelineAsset,InnoEngine.Rendering.RenderGraphBuilder,InnoEngine.Rendering.GraphicsCapabilities,InnoEngine.Rendering.RenderResourceMap,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.IRenderResourceService,InnoEngine.Rendering.IRenderFrameUploadService,System.UInt64,System.Boolean,InnoEngine.Rendering.RenderTextureHandle)"
 source: xml
-reviewed: bdecaa764182559292ac7fe90963b6201d3af50f1fcc7ef6307fe69f9d5e60f6
+reviewed: 52efe32ffef3a046521d79fcf7f8d4b0a84604a8d98b58f19aaf7897e4ddfd09
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

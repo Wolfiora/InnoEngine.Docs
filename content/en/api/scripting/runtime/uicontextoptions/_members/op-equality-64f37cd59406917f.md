@@ -2,7 +2,7 @@
 uid: api.64f37cd59406917f27d93056c2e51128d2d57af40201f5209d06a0cd1e2f6794
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiContextOptions.op_Equality(InnoEngine.UI.UiContextOptions,InnoEngine.UI.UiContextOptions)"
 source: xml
-reviewed: 44937ec405d80823d65d1977914400d201797170e06cd00f3ff20335f4e875b0
+reviewed: fca83410b95062bcb45844a9ab10873b0b6d5ca4e7ea18b7e62fb95bb1e1562a
 title: "op_Equality"
 kind: api
 owners: [Inno.UI]

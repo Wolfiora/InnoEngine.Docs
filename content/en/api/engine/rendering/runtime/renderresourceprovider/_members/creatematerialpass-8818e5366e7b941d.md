@@ -2,7 +2,7 @@
 uid: api.8818e5366e7b941d416a514b683050cef7c8ea600bb301693fa00cbc4546f288
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateMaterialPass(Inno.Rendering.Assets.ShaderPassDefinition,Inno.Rendering.GraphicsPipelineHandle,Inno.Rendering.ComputePipelineHandle,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderResourceProvider.MaterialBinding})"
 source: xml
-reviewed: 90ba77a40220db0069d87b579c524c05a0742fda71a74590f5a4ffa106110f07
+reviewed: 0babf4c257d50fb59e8ff20e58b5d46f7922b4a1e0d1e46282bbedcf563cb5df
 title: "CreateMaterialPass"
 kind: api
 owners: [Inno.Rendering.Runtime]

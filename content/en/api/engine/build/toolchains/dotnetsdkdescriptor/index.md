@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.c57a2b1ccefc085d
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.DotNetSdkDescriptor"
 source: xml
-reviewed: 5e03bb85ee330d37683ed995511ad8d5cdee9cce6d404a70829c1e56231b0d6c
+reviewed: 25231597fc9a1eb985cd132a539e6ea9745c6aa64870924b0d3f6f0f0fb77023
 title: "DotNetSdkDescriptor"
 kind: api
 owners: [Inno.Build.Toolchains]

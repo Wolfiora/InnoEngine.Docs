@@ -2,7 +2,7 @@
 uid: api.06fa3ebfb7cd16f171f364faa6da81a54244cf1be694790addd19cc7bfc80509
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmMaterial(InnoEngine.Rendering.MaterialAsset)"
 source: xml
-reviewed: e2ca544aca649b4273d14123f6ddc50399b3bddae15af08d0ab83ab0cd687f2d
+reviewed: 19756efc57dd33649a148c7e79cae5f72e6677412c6d6e03cdee418b7d859f29
 title: "PrewarmMaterial"
 kind: api
 owners: [Inno.Rendering.Runtime]

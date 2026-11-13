@@ -2,7 +2,7 @@
 uid: api.e5d63c0cbc321fe294e267aa5194a442ae1001c0d9a6a34237ebfd429a19ed09
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderDefinitionValidator.Validate(Inno.Rendering.Assets.ShaderDefinition,Inno.Rendering.GraphicsCapabilities)"
 source: xml
-reviewed: 4affdb69230da42a9bdba81d99aeedbcbdd0f8fbae99e89259353f03a1a5d36e
+reviewed: fe3625156797c7f024d368359ae42012a41f213ccde67d57eff778b13db78040
 title: "Validate"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.a96557103211848f
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPassKind"
 source: xml
-reviewed: b59f4ddc166b23a6c5b940fa08ab40a4fc204c1a8ec530c282ab449f8e0ecb10
+reviewed: 62bcc191e73da009e3dcd9e0179687db7ca6dc6c385da9992d164e4404e0a28c
 title: "RenderPassKind"
 kind: api
 owners: [Inno.Rendering]

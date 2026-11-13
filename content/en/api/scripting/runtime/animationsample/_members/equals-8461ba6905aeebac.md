@@ -2,7 +2,7 @@
 uid: api.8461ba6905aeebac2e0927e24dfce5324fee32469e82613ec7dfc0a2b6b5cb25
 symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationSample.Equals(System.Object)"
 source: xml
-reviewed: 6fe55953555991d77d73874555485c8273a355d24c3b0a38250facc7974d352d
+reviewed: e899557724dad1e1f5df7b9e3b74ecc29df968104ea1d1871c6ebc2ba4e782b1
 title: "Equals"
 kind: api
 owners: [Inno.Animation]

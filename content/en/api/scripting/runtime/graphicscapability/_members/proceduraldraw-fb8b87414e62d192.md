@@ -2,7 +2,7 @@
 uid: api.fb8b87414e62d192482bbd55542e4935901035629edf1ebeff41f13b0653cbea
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.ProceduralDraw"
 source: xml
-reviewed: 67afc5635b8765c9bcdcd015c7a503647ff4e94b0a6ed81913a54890e1fbd690
+reviewed: 3c0ed3bc23e6547890bbe029805c29983bfb5850a3ac3e647809431199649003
 title: "ProceduralDraw"
 kind: api
 owners: [Inno.Rendering]

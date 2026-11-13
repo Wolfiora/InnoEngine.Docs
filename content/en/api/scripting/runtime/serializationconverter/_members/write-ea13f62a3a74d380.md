@@ -2,7 +2,7 @@
 uid: api.ea13f62a3a74d38004d9fe5e8b1ae69973fe3c8204432ccd75332f32b71abfca
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationConverter\u00601.Write(InnoEngine.Serialization.SerializationWriter,\u00600)"
 source: xml
-reviewed: 8cc7e326ffa192484b3dcce3e9c32dcbc34651db4df20bc2bc0970156089e78f
+reviewed: 3240a71d0cf41c605ff7a08c0cb5978916c63e64dda685ca10e79ff5c22f7241
 title: "Write"
 kind: api
 owners: [Inno.Core.Serialization]

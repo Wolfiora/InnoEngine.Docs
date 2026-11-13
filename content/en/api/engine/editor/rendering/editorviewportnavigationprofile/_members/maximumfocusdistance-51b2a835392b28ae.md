@@ -2,7 +2,7 @@
 uid: api.51b2a835392b28aea4c93e125a9a6c099adf03058f9548f917e84f3b4d021a41
 symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportNavigationProfile.maximumFocusDistance"
 source: xml
-reviewed: b34f52e5547624f307b96c671b6876f30e90801f86d5a7bf884af6e932b54cf2
+reviewed: 8106e46287f2a1a0fe4bf54b4ae192487e0208d6966f7673fea9639f9d299cb1
 title: "maximumFocusDistance"
 kind: api
 owners: [Inno.Editor.Rendering]

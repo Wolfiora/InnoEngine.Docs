@@ -2,7 +2,7 @@
 uid: api.f62fcc95526f497199ff95b03acf3c18896c4f6d9a98f26f32f81d456c032559
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderVertexLayout.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderVertexAttribute},System.Int32)"
 source: xml
-reviewed: 65bdf30dc776805457b2f69138af9e6c514445dba95da93099a7f02d48467ba1
+reviewed: 3860cce71ce5f5e292f4e0f1e1bdecc5fa2199c6e7b918db8cc528732ae76f91
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.a79267282a0efb873240705d1ed7eed154883dfc2d16ac710e503693c6ec562d
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceNodeDefinition.#ctor(InnoEditor.Rendering.Shaders.ShaderSourceFunction)"
 source: xml
-reviewed: f272213e1dbcbe08413b3064c7b78f5c9f03454244189746a7b273345c0e4de4
+reviewed: 5275da0dc4457274b5989e5886444995e15a661c81b2b135bf4a4b920fa4abc4
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

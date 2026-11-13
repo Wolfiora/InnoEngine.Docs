@@ -2,7 +2,7 @@
 uid: api.1875e2fc04cf6cd4554d846d524f9d1d9e258d2fa95ca648e35fc7604a8ecc34
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RequireToolchain"
 source: xml
-reviewed: 76be4fad74b4f6d2a384977b1d70941501c687d27195922df1ca1ce5b69b5809
+reviewed: a6db4e5ecd7e7fa8e63671e70b38485c37fb85adc8dc19d81cec271679a0390b
 title: "RequireToolchain"
 kind: api
 owners: [Inno.Build.Toolchains]

@@ -2,7 +2,7 @@
 uid: api.cac119ccc02aceca4fc66b59d441b4896fffb265eecef1c469a56f178cbc804a
 symbol: "engine:Inno.Core.Logging:F:Inno.Core.Logging.LogEntry.stackTrace"
 source: xml
-reviewed: e393a9ea3361eee47c79e8aa84d415d9d998ec35460f67e4eb474ae2d20355f0
+reviewed: 02994964e5a622a309a44d9f20d33d8f96ed87246111bead0bea682f2924bbb5
 title: "stackTrace"
 kind: api
 owners: [Inno.Core.Logging]

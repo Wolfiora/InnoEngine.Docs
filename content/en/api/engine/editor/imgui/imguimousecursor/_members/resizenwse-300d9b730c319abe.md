@@ -2,7 +2,7 @@
 uid: api.300d9b730c319abe3844eb2cbb704a677c0b079a7946635330aaf403d84c7ca6
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiMouseCursor.ResizeNwse"
 source: xml
-reviewed: 64c26008b92461f4b89fbf2a9a87b73aba760966ac6e6804628b2c630e651536
+reviewed: 5858b038e9b83b061f65679e7cdde39ff68d1963962410f7876d79acd3f7bcf4
 title: "ResizeNwse"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.98e3804d6d0b5b3e37405cbf1044aa4127a39ebe9c546b707995b05cbd9ce08c
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportContributor.CanContribute(InnoEditor.Rendering.EditorViewportContext)"
 source: xml
-reviewed: 9ec49e7fb07aee36a2e8939a08b2570d714535dcb6de6ccbbb637a5a2963cdcb
+reviewed: b0220b0027802b988e4d5eb92439d75ed0990f136cdb0ce68aa2575f362dfa21
 title: "CanContribute"
 kind: api
 owners: [Inno.Editor.Rendering]

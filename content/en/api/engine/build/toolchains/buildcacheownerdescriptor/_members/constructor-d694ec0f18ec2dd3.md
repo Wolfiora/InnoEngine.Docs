@@ -2,7 +2,7 @@
 uid: api.d694ec0f18ec2dd3e56a7f7e5b167ad85b977eb4d4c8baba995da6eabd51ef7f
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheOwnerDescriptor.#ctor(System.String,System.String,System.String,System.Func{System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.BuildCacheArtifactDescriptor}},System.Func{System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyList{System.String}},System.Action{System.Threading.CancellationToken})"
 source: xml
-reviewed: 71bc5176be83bd290c22d0d3ec18a631979a184abdd8b61da50ca76ce85fdfcb
+reviewed: 6201244e632b06806dd1950a1eae0eaf54e4ebb3dabd03b183f3c4daa0e515f2
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

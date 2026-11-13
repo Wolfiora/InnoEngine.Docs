@@ -2,7 +2,7 @@
 uid: api.inno.audio.336fb995d7479d30
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioProjectSettings"
 source: xml
-reviewed: c5ed6d1a2880f618e0fff3c85ffad675eb788b5ad442b42a50946a3ba8ab0ddd
+reviewed: afe11eb34a79dfd78ac5bbed33a699981fc6db4b679e46d5b95bff0aa6c0e301
 title: "AudioProjectSettings"
 kind: api
 owners: [Inno.Audio]

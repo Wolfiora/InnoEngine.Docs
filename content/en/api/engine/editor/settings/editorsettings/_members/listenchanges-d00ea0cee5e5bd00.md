@@ -2,7 +2,7 @@
 uid: api.d00ea0cee5e5bd00839166dbca15fddc1f9d691646dc99b432ece29c6983f29d
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.ListenChanges(System.Action{Inno.Editor.Settings.EditorSettings})"
 source: xml
-reviewed: 5cb1d95c63439ad8468c2eeb3e9c5e752116896983210dbdd8cc6d9c57b82735
+reviewed: 05e70ec5b1c028c9bf195b901009ab6d38808a139e50c561e6784c18e2843fbc
 title: "ListenChanges"
 kind: api
 owners: [Inno.Editor.Settings]

@@ -2,7 +2,7 @@
 uid: api.383a6ca2e93d7b84d5d05c8a071aea617ecb4f31adc06af378d7a469b64abe83
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadProgress.#ctor(System.Int64,System.Single,System.String,System.Boolean,System.Boolean)"
 source: xml
-reviewed: 17bc261317fd7d88ab702eb4dbcfd4e3fb85fa607cebbf2560ce020af0792fcc
+reviewed: 63ee935e6e507538cfb6c9ce985670a1b4d56345797357b5d466a1070a3f8572
 title: "Constructor"
 kind: api
 owners: [Inno.Scripting.Reload]

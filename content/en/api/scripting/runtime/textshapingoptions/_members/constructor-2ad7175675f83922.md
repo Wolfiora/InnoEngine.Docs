@@ -2,7 +2,7 @@
 uid: api.2ad7175675f839226fb0fcb3420b01707779ba18d7b2792d81ea3e720eec01b4
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextShapingOptions.#ctor(InnoEngine.Text.TextDirection,System.String,System.String)"
 source: xml
-reviewed: 79baaf8a5a853ee6dcd5df26d88e705d6c838531a717f34ee350e83b84174b88
+reviewed: 495c2f726807c6da9962328325b2765395a7d3bb3b10196264940dc34f7aeae4
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

@@ -2,7 +2,7 @@
 uid: api.ea8fd010d412ea36794988133f9bd18e11ccc6fbde1c99c05f3e082d034ce907
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryPayload.FromBytes(System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 9d968ef27f34652d439e7528d2467eaf1dd1d7f4b705824241f6c1ce43201488
+reviewed: 626802e1a4603a9ae227d49950d15bd59cb1e5440a62c46d675fcf7e84222f98
 title: "FromBytes"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.a3b9e58769ae01a491f19c9e0c72a0521bfaad03d207cc462c7dca5ad6464b24
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBusHandle.Equals(System.Object)"
 source: xml
-reviewed: 68fa024073e1cd0cc51eca8480ba8c6fc3b50c81851afc3b9a291cc445b0e4b3
+reviewed: 03cbc6d444498b7c64dfdafdbcac9389e0881fdd058bc89129eb1ed7e8476c00
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

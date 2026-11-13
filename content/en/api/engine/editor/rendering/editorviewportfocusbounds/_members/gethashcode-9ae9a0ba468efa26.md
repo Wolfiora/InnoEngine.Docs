@@ -2,7 +2,7 @@
 uid: api.9ae9a0ba468efa265fce41fc87ebbf22c004ac1259bf130f100d24212954f96f
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportFocusBounds.GetHashCode"
 source: xml
-reviewed: 6b0f50e5816d0836128054b6b2a257f7df86bb7935e9391ac36bbcd607b1ebc8
+reviewed: 02f84cdd14c8432a254b01f853962212b0ba1844a34c1314593f818802a94380
 title: "GetHashCode"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.e931f712e2bb4e38
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildContext\u00601"
 source: xml
-reviewed: 28024bd9ffd22faa8876cc8f97b366412baede55fe014828d8940831ac5e81d6
+reviewed: 7bbddc4c7eca49b763c5183c1a34c765298526d4cfd1220d3f2ad311eec81d2a
 title: "AssetBuildContext"
 kind: api
 owners: [Inno.Assets.Pipeline]

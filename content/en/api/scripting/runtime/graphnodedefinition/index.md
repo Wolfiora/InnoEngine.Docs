@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.b385f299f157aff5
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphNodeDefinition"
 source: xml
-reviewed: adf24686ba266c36931b3d5b391dc99148c2f8f9fb5fb9aacc8abd092aae8e3f
+reviewed: 0d88376df368d8de6948be26ffba742d55b6161404da51db70e9bdfe8027f99c
 title: "GraphNodeDefinition"
 kind: api
 owners: [Inno.Core.Graphs]

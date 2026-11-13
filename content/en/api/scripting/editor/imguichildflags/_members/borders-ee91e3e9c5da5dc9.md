@@ -2,7 +2,7 @@
 uid: api.ee91e3e9c5da5dc9a7d0fd467f2ccecbea52155b4f1c7d43971245d4893641ef
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiChildFlags.Borders"
 source: xml
-reviewed: e9d46ee415483bb8da7661d75fc68d4be5b182346f97c39402afbf42b77415ec
+reviewed: dbb3deac3adc52845be011e523076f61302d9375442f9125b23d51390ad77133
 title: "Borders"
 kind: api
 owners: [Inno.Editor.ImGui]

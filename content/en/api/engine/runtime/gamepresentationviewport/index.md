@@ -2,7 +2,7 @@
 uid: api.inno.runtime.c912cfbcb90ac865
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.GamePresentationViewport"
 source: xml
-reviewed: 74cc2c5bcf1676e4bdbfc3ae0944d481edecd46316fe4cb87574542d5bffa820
+reviewed: 97bc4380ca0eb95ff9e74532b62c476b67129da4b22be175dc07dd951fc0a626
 title: "GamePresentationViewport"
 kind: api
 owners: [Inno.Runtime]

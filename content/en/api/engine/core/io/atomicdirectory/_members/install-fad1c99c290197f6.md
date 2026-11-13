@@ -2,7 +2,7 @@
 uid: api.fad1c99c290197f67ec1e9608ad04358141d207dfaab825241921881686a6865
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Install(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: af607715ffa08f0ac02ad011253aa6619ee4d3ad63ea7dd9d02b584dff9358e8
+reviewed: 8f98cdd97c637c5c8068291de1898a58d35dc1198a4681f0415307e4e99465c7
 title: "Install"
 kind: api
 owners: [Inno.Core.IO]

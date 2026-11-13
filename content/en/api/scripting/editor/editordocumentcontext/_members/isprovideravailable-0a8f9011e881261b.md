@@ -2,7 +2,7 @@
 uid: api.0a8f9011e881261b3257212598ea43a4a0f1764d41b7dfe5affc4b3a8cc87bd6
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDocumentContext.isProviderAvailable"
 source: xml
-reviewed: 90e441000b12cc93eba3c839dcf2eab912a0dcd6551fbe4f230cbf4e65253967
+reviewed: 4da00d4644adc95c177e49a072d463c8950bf57a82fc53d6c356fed2ecf9f5e8
 title: "isProviderAvailable"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.2d140f6d59a140b5
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderMetadataEntry"
 source: xml
-reviewed: 573c544138cd4dab9240910aea2600d61a6032114b08710974c4e88471072e62
+reviewed: 534067c83bdc5b9612ac82df05ea4f7431a18774d4f83b2c815fa0bf5f3d3861
 title: "ShaderMetadataEntry"
 kind: api
 owners: [Inno.Rendering.Assets]

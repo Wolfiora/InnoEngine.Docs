@@ -2,7 +2,7 @@
 uid: api.9f357c3aaa4b16cd9454b31391bbc798f3244483c508f91575d35a45e1d3b837
 symbol: "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.PlayerSupportPackRequirements.nativeExtension"
 source: xml
-reviewed: 18e27784fcb9e40055c75623302a5fcb1298d9e093980d1a4dc304d32245a588
+reviewed: 0623ee7bb1f9fe35f2cbfb3295f1939461408b371fa5bdeb211191e9cebd5608
 title: "nativeExtension"
 kind: api
 owners: [Inno.Build.SupportPacks.Core]

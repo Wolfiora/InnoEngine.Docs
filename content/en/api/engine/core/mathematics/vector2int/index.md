@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.4902d5f9885d2517
 symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector2Int"
 source: xml
-reviewed: 51a69fb80962e745f6f82e7f8268e34c52ca4109743808995101e38f3006ccdf
+reviewed: 14db13ac80fe47fbd7c1addd7337a101559a75e6d4b2811e0a2015c754158738
 title: "Vector2Int"
 kind: api
 owners: [Inno.Core.Mathematics]

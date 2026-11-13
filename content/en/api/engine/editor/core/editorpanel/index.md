@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.6c44cde3a9f0fdac
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorPanel"
 source: xml
-reviewed: a87f956131d2491a8a0b581aec5ae5e78688c4e1e99d241e26946ff4f0dfe816
+reviewed: 9301b11f3996c479d2a059ea0577f8a620ab8e675058cd79a9f8066767693efe
 title: "EditorPanel"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.7f58bd2c74ea7aa8e5883674be9d126d4373d4477fa3735114d16119fc83744a
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorShortcutAttribute.#ctor(System.String,Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier,System.Boolean)"
 source: xml
-reviewed: eeaf0e84b1f51af16fb8586fcfca028399f1a165f129dbb1b2672ae6a28aa043
+reviewed: 3168af0368df66b6bc2566beafe5a74aa48ee390e83737ec449f88e820d6ed12
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

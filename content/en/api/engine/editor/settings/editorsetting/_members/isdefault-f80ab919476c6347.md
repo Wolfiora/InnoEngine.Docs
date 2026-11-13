@@ -2,7 +2,7 @@
 uid: api.f80ab919476c6347e73973f4d834d6d74323a78cdefe8e130aadcdd1cde74a6d
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSetting.IsDefault(Inno.Editor.Settings.EditorSettingObject)"
 source: xml
-reviewed: dc618f2762ae1766ab22a8dc6933666109d84eac3945447c2e1909a7f6a3fac1
+reviewed: fe328b4062ef201358a7a98d0e91c4bb981f576cac1bea566aef9935136e000a
 title: "IsDefault"
 kind: api
 owners: [Inno.Editor.Settings]

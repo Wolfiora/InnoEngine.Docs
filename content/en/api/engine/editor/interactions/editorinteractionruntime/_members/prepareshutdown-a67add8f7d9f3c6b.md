@@ -2,7 +2,7 @@
 uid: api.a67add8f7d9f3c6bccd73b3fa0449e225980883082e9988930a3c0ec81928a75
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractionRuntime.PrepareShutdown"
 source: xml
-reviewed: ec39737b456ef917f3f14ec0fd9d0bff54d382e63c5c01ffac51d99f9c622827
+reviewed: 5a323e29a92afc5608ce5848759ccd2eade30b7c1214179a2cd35d2a7fbc8386
 title: "PrepareShutdown"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.f61cf3d8f8059db22dfcfe9bdf39112910d33ddf894f5db7e542876337b00386
 symbol: "engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendCatalog.CreateDevice(Inno.Adapter.Audio.AudioBackendId,Inno.Adapter.Audio.AudioBackendOptions)"
 source: xml
-reviewed: 25cc0a90fe56c18244e62d138a9ba84bb442ed5b2f4709d3618b81e487899c5c
+reviewed: fa7ffe9c4b5248a8b9781bf1475ed186033c857d6b5c71fb28d42176a60ccf51
 title: "CreateDevice"
 kind: api
 owners: [Inno.Adapter.Audio]

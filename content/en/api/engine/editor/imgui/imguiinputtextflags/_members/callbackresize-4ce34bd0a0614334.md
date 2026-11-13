@@ -2,7 +2,7 @@
 uid: api.4ce34bd0a06143345d54ade2ba7e07ce6f0bb3d59336454f1df74d4b54f73c4f
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.CallbackResize"
 source: xml
-reviewed: 490d2b7b7153822ada2c8ccdad388b102c17e59b19f0253d6843639d2ea77871
+reviewed: 22ec80d8789b258e7272aa645547314d798448b9a9a3ae66aa217501ff4839e3
 title: "CallbackResize"
 kind: api
 owners: [Inno.Editor.ImGui]

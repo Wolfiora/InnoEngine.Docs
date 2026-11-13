@@ -2,7 +2,7 @@
 uid: api.inno.ui.b0b1504a7118f5fc
 symbol: "engine:Inno.UI:T:Inno.UI.UiDocumentFragment"
 source: xml
-reviewed: a4808b7555f220668a88211eeebc4840e1037f26b38f91c7da44d5cd5bdbe225
+reviewed: fb388bfac64bb6b85a230cc91d0d255e5ec447090d35d0971dd1e7eb90682168
 title: "UiDocumentFragment"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.db6e8a7fafcb21dcdeff3e84022b4fc7811a72c88267a332811c0981d4156b2c
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.Equals(Inno.Editor.ImGui.ImGuiWidget.DialogPresentation)"
 source: xml
-reviewed: 4d504cd70f9d570f201b2cb43c60af59639e821c3d0b96384404849383385a81
+reviewed: 0ca9ec524191c06a34728a9c476ecc650ea596ca464edaaf9ee1c1af031d15f2
 title: "Equals"
 kind: api
 owners: [Inno.Editor.ImGui]

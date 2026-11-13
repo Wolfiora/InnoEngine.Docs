@@ -2,7 +2,7 @@
 uid: api.bd3098536f839b86e527631b2e20c976a45b90a34bbd442b17d1a13ff6262c46
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.UnregisterSink(Inno.Core.Diagnostics.IDiagnosticSink)"
 source: xml
-reviewed: d818f31ceb07ec8ec418a70f3927a788c8c60ca62f57d59b09d85bff382f3ff1
+reviewed: 938d550575d74eff4d61a70562863f5f76ee4b6ff87b26331671748185631a7e
 title: "UnregisterSink"
 kind: api
 owners: [Inno.Core.Diagnostics]

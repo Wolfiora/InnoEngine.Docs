@@ -2,7 +2,7 @@
 uid: api.858ac683357e30cb3238d557e2fe0b27259c0159014a30ec5b668db01fc9fbf2
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.#ctor(System.Collections.Generic.IEqualityComparer{\u00600},System.Collections.Generic.IComparer{\u00600})"
 source: xml
-reviewed: 90ae8563a3c26e8135f5abd41693282d9009cb94951fb9c1c2ecb9d41c7a26d2
+reviewed: a211bd8bc3613b3255e87120817eef679d9a6fc81675a19bab703760fa1ba45f
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Collections]

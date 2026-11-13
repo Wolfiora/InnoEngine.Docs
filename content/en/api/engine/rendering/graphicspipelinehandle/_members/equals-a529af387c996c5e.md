@@ -2,7 +2,7 @@
 uid: api.a529af387c996c5e47cbebfe8bb727deae0a12f9fa65318c82622acfbceae293
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsPipelineHandle.Equals(Inno.Rendering.GraphicsPipelineHandle)"
 source: xml
-reviewed: dd539b384d71f9e996ef2144b5381b4a3c0e58d84458c0f906eaa3ffc721ae9c
+reviewed: 55f8fc4d00f24857061c4ce262639a1af8dace9ea03ad60626e6b317e0224d9c
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

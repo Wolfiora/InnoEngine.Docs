@@ -2,7 +2,7 @@
 uid: api.36d567bd9cc316297c6a137e847da67b7179b9aa61c2f65c0cb2feb92580ec41
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectQuery\u00601.GetFast"
 source: xml
-reviewed: db12a5e0ddc6b5a3514b54e4fe569aa31cda515ed8ae49ea043361ab00314d0c
+reviewed: 99e2e54d27563b1e84a7e8e9018cf901ed2fccd9739161dc473ae91811f83243
 title: "GetFast"
 kind: api
 owners: [Inno.Core.Collections]

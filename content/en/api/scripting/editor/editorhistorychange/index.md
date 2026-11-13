@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.ed5b76f2cfdd4690
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorHistoryChange"
 source: xml
-reviewed: e8f82af684297b912dcd06eb55be4c2301184424e76c99de1f62b24bbe899c88
+reviewed: 50664ac4ee785d896406db455ca75e209baf948876aea24ea5a631a3141b7e26
 title: "EditorHistoryChange"
 kind: api
 owners: [Inno.Editor.Interactions]

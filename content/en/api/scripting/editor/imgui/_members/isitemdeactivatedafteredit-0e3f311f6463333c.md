@@ -2,7 +2,7 @@
 uid: api.0e3f311f6463333ce86285622cfff6c71188ff367b39f05f07893d1751cfa0ed
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsItemDeactivatedAfterEdit"
 source: xml
-reviewed: d55fe8ba7ee0a72803b6eb1acb0d451bcf27d452ec4430d29ee29a88f7661370
+reviewed: 43f657695d10451f52d9ef18c70479e6a1d3ab74d6234ae04b1b04ad67602abb
 title: "IsItemDeactivatedAfterEdit"
 kind: api
 owners: [Inno.Editor.ImGui]

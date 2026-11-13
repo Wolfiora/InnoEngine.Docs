@@ -2,7 +2,7 @@
 uid: api.09734a2bb8a48596fa1393374855bfbaeaa02a17f75c714b2db9116507b13846
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.EnumerateFiles(System.String)"
 source: xml
-reviewed: dff28a7055ebcfd86bbd81dd6313f74bdef1a01074fa983e82b76c4c1530783d
+reviewed: 9841e1892b8c08f97b62783078c76a57d01aac25090af75e4231ae50e25eb759
 title: "EnumerateFiles"
 kind: api
 owners: [Inno.Core.IO]

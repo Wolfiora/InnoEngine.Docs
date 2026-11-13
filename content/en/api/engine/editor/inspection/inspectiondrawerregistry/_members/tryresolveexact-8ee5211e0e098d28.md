@@ -2,7 +2,7 @@
 uid: api.8ee5211e0e098d28c38b0a0e32e60edaaeef891bd0c494941d45a01dd1b16869
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawerRegistry.TryResolveExact(Inno.Editor.Core.EditorContext,System.Object,Inno.Editor.Inspection.SerializedPropertyRenderer,Inno.Editor.Inspection.IInspectionDrawer@,Inno.Editor.Inspection.InspectionDrawContext@)"
 source: xml
-reviewed: 300151ce6e974220b060064297f76a254534cb38eb91fc7e93d5571b06befcfe
+reviewed: 87e8bb7a4ecdfc8d1a3ea9016de9286dea0eb3136dc326414922ec82da6259ac
 title: "TryResolveExact"
 kind: api
 owners: [Inno.Editor.Inspection]

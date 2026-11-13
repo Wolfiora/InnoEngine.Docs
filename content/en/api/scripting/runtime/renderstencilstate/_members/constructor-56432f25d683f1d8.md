@@ -2,7 +2,7 @@
 uid: api.56432f25d683f1d849a6384404302461c3616d4e23409e9ff676932f555a17ec
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderStencilState.#ctor(System.Boolean,System.Byte,System.Byte,System.Byte,InnoEngine.Rendering.RenderStencilFaceState,InnoEngine.Rendering.RenderStencilFaceState)"
 source: xml
-reviewed: b07e06f0a34e103ae85ac4e99521debda6cd66b326e1e3688629a44c0601a45e
+reviewed: d96dd1c73c8315ad18478acda7e3df6cbcc842da155b25e85173fee8895f8e1d
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

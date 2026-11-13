@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.imgui.editor-script.1797e02fbb33449c
 symbol: "scripting:Inno.Editor.Graph.ImGui:T:InnoEditor.Graph.GraphCanvasNode"
 source: xml
-reviewed: 6c2fcc06583c7f99db0d085677aa4bb316dc220173ef2c7f05cabb90ffed9d7d
+reviewed: 1073ab0e078ab88ca3fd2d7db7f39a6caca676f0452086690619cd4e9cbf1d40
 title: "GraphCanvasNode"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

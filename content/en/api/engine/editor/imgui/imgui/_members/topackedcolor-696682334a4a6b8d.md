@@ -2,7 +2,7 @@
 uid: api.696682334a4a6b8d3801b02597cef8675e88fc009f43a3d3acb167a12fbdb78a
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.ToPackedColor(System.Numerics.Vector4)"
 source: xml
-reviewed: b4e2604e63f3384b9a0c0142323633e3b199891b083461f02fd04990adf37727
+reviewed: a37ef30b740f2fa3e11d0207090bc32bccaaab5f20a08275ee0dfd3c168c283e
 title: "ToPackedColor"
 kind: api
 owners: [Inno.Editor.ImGui]

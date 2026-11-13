@@ -2,7 +2,7 @@
 uid: api.9dfb6ad31bea927b9724b1ec60c7b4a67ec013fb66813c36f395488cb8933ecd
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportLayer.#ctor(System.String,Inno.Rendering.Assets.RenderPipelineAsset,Inno.Rendering.Runtime.RenderFrameData,System.Int32)"
 source: xml
-reviewed: f673ecf29c560aeb26ab0aea94ba255239f44f4464a0a65f772c52add54c6495
+reviewed: 58368aad0c43884917d537c64ea8017994e2e01892dc500415ccb549fbe41a26
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

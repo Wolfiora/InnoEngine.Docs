@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.c662ee939dfb8ba5
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.SerializedPropertyRenderer"
 source: xml
-reviewed: bcf168a3366e744c79bc6f5a4fc04ea8b4f5b1aa0d5d62c086798dfc1a857150
+reviewed: ff798865b14fab5daaecd3dd93322437f00152073a0d82412e20e0c4ce867324
 title: "SerializedPropertyRenderer"
 kind: api
 owners: [Inno.Editor.Inspection]

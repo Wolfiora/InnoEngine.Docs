@@ -2,7 +2,7 @@
 uid: api.c25dfe84372ecb69bd9961b34d2357c774da930e875517527f6cc7924ac0e098
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetBusVolume(Inno.Audio.AudioBusHandle,System.Single)"
 source: xml
-reviewed: 150c350ae2a197c4a35fad45c039be1da787b6db1484b1015cec30860e6b7092
+reviewed: ab603142661c5dcf36a39d19314341d3f51267d7bd3156128357ad034f559e49
 title: "SetBusVolume"
 kind: api
 owners: [Inno.Audio]

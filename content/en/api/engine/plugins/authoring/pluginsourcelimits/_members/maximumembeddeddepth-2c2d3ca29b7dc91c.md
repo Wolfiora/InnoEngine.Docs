@@ -2,7 +2,7 @@
 uid: api.2c2d3ca29b7dc91cd741e2ceb032b15a618a66ea3d67f1121cc4ad0a82f61b94
 symbol: "engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginSourceLimits.maximumEmbeddedDepth"
 source: xml
-reviewed: 6f592cfbba815d1e487f7d9a65b1e1bba18b31595233989c1cc98815359aeab1
+reviewed: 8b3352e2cef7f8d378d7e97d37a2e66760e826805e38ba65a282e4d82bef7a9a
 title: "maximumEmbeddedDepth"
 kind: api
 owners: [Inno.Plugins.Authoring]

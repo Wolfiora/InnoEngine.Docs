@@ -2,7 +2,7 @@
 uid: api.684011ec00adb1475cce21141670a418d391c8b9d2a0a0e296419be535a08c52
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.CanCreateInstance(Inno.Extensibility.Types.TypeRef)"
 source: xml
-reviewed: 72178ed032c1bf505ae4d7bb1cf17b251517417c3f0a74c4019fe5718415ad3f
+reviewed: d9e84ab465d28a354bfe1bea45a34d6527c6eda23f50045b423726fabb1ba13f
 title: "CanCreateInstance"
 kind: api
 owners: [Inno.Extensibility.Types]

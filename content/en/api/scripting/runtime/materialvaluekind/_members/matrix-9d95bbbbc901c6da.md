@@ -2,7 +2,7 @@
 uid: api.9d95bbbbc901c6daa31691438938bc6cd6e512db847ff17619ae23ebbe4a8558
 symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.MaterialValueKind.Matrix"
 source: xml
-reviewed: 30f6c188560b5bb3c66b3e81d4480a2606eec9566048874679c133829ecaf295
+reviewed: e3cea5db0eae7b5818960771afb6453b9414379fddc24b235b79e19d230deea3
 title: "Matrix"
 kind: api
 owners: [Inno.Rendering.Assets]

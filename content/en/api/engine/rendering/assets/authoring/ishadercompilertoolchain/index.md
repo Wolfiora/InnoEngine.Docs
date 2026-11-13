@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.4292fb478e52ff94
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.IShaderCompilerToolchain"
 source: xml
-reviewed: ecc36455a7e7b2b84f31eb215708c78c5c412e83a9bee5b806c3f67d4389f985
+reviewed: 6f09cf30ab913f5a1a34b337c18240cf1489a77144aa0996d722e4f422663e44
 title: "IShaderCompilerToolchain"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

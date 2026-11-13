@@ -2,7 +2,7 @@
 uid: api.inno.core.execution.96ec7efa1e86c67f
 symbol: "engine:Inno.Core.Execution:T:Inno.Core.Execution.LifetimeScope"
 source: xml
-reviewed: 072a5912ecbabce3ebfd88bef3745aa47a0eef1380f6c732804b7ce580afbae7
+reviewed: 98eca8afb1dee72f0812a0aa82f446dccf816761da8207d3c8b9f6133c8c6b06
 title: "LifetimeScope"
 kind: api
 owners: [Inno.Core.Execution]

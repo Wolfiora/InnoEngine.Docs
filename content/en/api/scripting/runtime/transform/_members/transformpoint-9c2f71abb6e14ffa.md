@@ -2,7 +2,7 @@
 uid: api.9c2f71abb6e14ffa4584e47a0a81e93f3dc9a06e2b595be76f661d92afb435d5
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.Transform.TransformPoint(InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: 27119eb186f8f5d1ef02881edcb96287b16e462dfd42916a5daa1a8df63a03c3
+reviewed: 4172593084cfbc9bb64f2320eb1236392412a0cea3cc1785f981c01f95c0ab53
 title: "TransformPoint"
 kind: api
 owners: [Inno.Scene]

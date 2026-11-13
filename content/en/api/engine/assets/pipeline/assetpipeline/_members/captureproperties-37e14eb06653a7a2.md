@@ -2,7 +2,7 @@
 uid: api.37e14eb06653a7a26a9c9e333777ffdd706834422406db063211ee4e40b25962
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.CaptureProperties\u0060\u00601(\u0060\u00600)"
 source: xml
-reviewed: 49be2d80115f4eb19a7738699f2abc249b84e2152c1a58bc31d8ce6de1a41975
+reviewed: 875855b8a7b8727d1f5618a0ea4fadea7af0cfcdab6358f13d4ea69516969ef7
 title: "CaptureProperties"
 kind: api
 owners: [Inno.Assets.Pipeline]

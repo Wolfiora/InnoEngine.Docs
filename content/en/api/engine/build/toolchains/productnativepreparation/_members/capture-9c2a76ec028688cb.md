@@ -2,7 +2,7 @@
 uid: api.9c2a76ec028688cbeec3b30675a02155b43b0e8d5500695c88f880a0ef01442b
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.Capture(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.ProductNativeBuildResult,System.String)"
 source: xml
-reviewed: 390ce032f2eb8ccafd9db91a943818c5d93cca50aba3a195588577a0a844d364
+reviewed: ccb88e469dc9949e7f3c45e9d2ac101d84cfbcaa358b7f1096b81f5d856f3d50
 title: "Capture"
 kind: api
 owners: [Inno.Build.Toolchains]

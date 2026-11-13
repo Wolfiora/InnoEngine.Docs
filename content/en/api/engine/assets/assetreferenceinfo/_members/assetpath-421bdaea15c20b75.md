@@ -2,7 +2,7 @@
 uid: api.421bdaea15c20b7553b1a063d508a1748a89f6508f58392587a7a1e3f1c8823c
 symbol: "engine:Inno.Assets:P:Inno.Assets.AssetReferenceInfo.assetPath"
 source: xml
-reviewed: 4d99774806103a016e660eee3f8d9c09ee0ca10c158a6ae6ce062250ac55c516
+reviewed: 4c5e81806f3ae03e12ecc15c2f4e2e6cb86a810673b6248a2514eb31bccf2e97
 title: "assetPath"
 kind: api
 owners: [Inno.Assets]

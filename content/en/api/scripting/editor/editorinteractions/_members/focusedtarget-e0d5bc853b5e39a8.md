@@ -2,7 +2,7 @@
 uid: api.e0d5bc853b5e39a8ffe489c14a49f58c87fca476e3273aaf489d941a7312ac81
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorInteractions.focusedTarget"
 source: xml
-reviewed: ba66bdcffd7456ee20288f4a3b54e5948d9781851ad2eac5b6afa54002db85ba
+reviewed: 9718ee1ea27196d99ff7e1f8dd448049b53049cc39c644e05549603979e0836a
 title: "focusedTarget"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.c1d47b925c1b00cd5c93a4b351491d4a3e5fb7f7c5d8cb47ede7d3896d277aea
 symbol: "engine:Inno.Build.Bindings:P:Inno.Build.Bindings.NativeBindingProfile.inputPaths"
 source: xml
-reviewed: e5269f21ed6342defbb1d890189d234119b9eb0af99ecaeaed5b77556c321a26
+reviewed: ee10e37d238156b7610d2c7072a23d435b2cd278d7e74c22766e885c04f0b107
 title: "inputPaths"
 kind: api
 owners: [Inno.Build.Bindings]

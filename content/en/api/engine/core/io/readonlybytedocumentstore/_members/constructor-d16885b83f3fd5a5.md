@@ -2,7 +2,7 @@
 uid: api.d16885b83f3fd5a5850877a4eb5fa0ae5cd20d45e65f1ce04f726fc19fd9dac6
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ReadOnlyByteDocumentStore.#ctor(System.String,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 548700d5d363d554d309ef7c06edf3471252e28db455febea2abad3cc6709f06
+reviewed: cdfed70ad630772e619a8243fdfae08011adc58e5b242e562a6a6a5e049c5a7f
 title: "Constructor"
 kind: api
 owners: [Inno.Core.IO]

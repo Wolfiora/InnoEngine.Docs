@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.10a65b652e493154
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.RenderFeatureConfiguration"
 source: xml
-reviewed: c54fd1bdab49886e6fe2d7dfe158055c6db00e97d88c276f0f9983988a68cbb1
+reviewed: 91c3ff558d2f226e0e207a5769f0354ee695d8acb29a189c681c67d83cf3631f
 title: "RenderFeatureConfiguration"
 kind: api
 owners: [Inno.Rendering.Assets]

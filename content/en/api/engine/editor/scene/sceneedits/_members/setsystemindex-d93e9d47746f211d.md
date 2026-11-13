@@ -2,7 +2,7 @@
 uid: api.d93e9d47746f211d5c0e35350c14c56a67db1264b69b142e97a5399b6a42e287
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.SetSystemIndex(Inno.Scene.GameScene,Inno.Scene.GameSystem,System.Int32,System.String)"
 source: xml
-reviewed: ac98e264cbd9e4e3a079143d01ed55a456aad7d3be783d3897e9b3184e578659
+reviewed: 59268a1d7f1c5468e0ad86f5538e4de97958e3a68031e2277f3f6dad3fa473ce
 title: "SetSystemIndex"
 kind: api
 owners: [Inno.Editor.Scene]

@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.e702e4d4c3fc484e
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDocumentSource"
 source: xml
-reviewed: 9e2b562f410c56fbfba98a9d98521b6e0ddfd39dc8f9930c572d1f6f037a1002
+reviewed: ecdf3626c226e0f7a97cb2282f7a9901126f712bc495c10d6af698238a9c9cb7
 title: "UiDocumentSource"
 kind: api
 owners: [Inno.UI]

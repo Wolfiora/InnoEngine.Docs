@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.reload.aaa5f4ef222db37f
 symbol: "engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.AssemblyUnloadBarrierState"
 source: xml
-reviewed: 4364ebac5651f2da4a62627fcffe2a368cb047dad18df91e277dff0b7219d551
+reviewed: b8a5ed8e9ca5b3dad601025db1b4baa76c66abb7a6ba38e5ca13fe27a19a1a9a
 title: "AssemblyUnloadBarrierState"
 kind: api
 owners: [Inno.Extensibility.Reload]

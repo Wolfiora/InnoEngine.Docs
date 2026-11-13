@@ -2,7 +2,7 @@
 uid: api.f9b619e557c7ede945c1e187e16434f46a146fc30b5566a9c51ac2ec41608fe4
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphCanvasState.BeginConnection(InnoEngine.Graphs.GraphEndpoint,InnoEngine.Graphs.GraphPortDirection)"
 source: xml
-reviewed: 99fdaa4c06bf5fbd7949e90354d6d9a79d65849eac605c111edb9d5882f5a271
+reviewed: cbccd54fa3efa4f9b8b9f2b873eb975ff15e382ad3b7ab3e4c9ed55812cb5634
 title: "BeginConnection"
 kind: api
 owners: [Inno.Editor.Graph]

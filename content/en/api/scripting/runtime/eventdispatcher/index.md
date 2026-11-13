@@ -2,7 +2,7 @@
 uid: api.inno.core.events.runtime-script.7bcc2c6aae71e4e1
 symbol: "scripting:Inno.Core.Events:T:InnoEngine.Events.EventDispatcher"
 source: xml
-reviewed: 5b3a9f012d038c49c8b1dd7e0ac92d6aef096ba1eb974ab1d85d9b344149759f
+reviewed: 8daad018348e6def63effc27b85fbd622608cddec16961d194d628cc21e3baf9
 title: "EventDispatcher"
 kind: api
 owners: [Inno.Core.Events]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.413b5b33838483fa
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSurfaceHandle"
 source: xml
-reviewed: 4dded328fe7fcd44aa6d0a6a0b534414489e35d63d8402d93f196abbc7baea17
+reviewed: 34f839a43b9aa2b0fe221da596e264ce5aa49716326216416fc3dfdbbf9225aa
 title: "RenderSurfaceHandle"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.c41566b0c872226e4e596ca3f98e62bdbd0b6760c972cf141f59ddff4a760498
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiWindowFlags.UnsavedDocument"
 source: xml
-reviewed: b2dcda34143f9bcc00fb112765163dff8c95f540df094f4d215505e7ba17b9fa
+reviewed: 034b18cc1f9ecd56ccbaed0bd448c7698f3dc0dd42ccde155d9d63f3b05cfec2
 title: "UnsavedDocument"
 kind: api
 owners: [Inno.Editor.ImGui]

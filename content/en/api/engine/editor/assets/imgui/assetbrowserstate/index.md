@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.imgui.2a60359cfae94b02
 symbol: "engine:Inno.Editor.Assets.ImGui:T:Inno.Editor.Assets.ImGui.AssetBrowserState"
 source: xml
-reviewed: 2e78d8744373f0704a938b846ebf4dd4a1a86a28e03de48e205a0e6f20545384
+reviewed: ae1f0d3e36e76f85560152852c1500d917aa742e728411622c71627a6ef09f43
 title: "AssetBrowserState"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

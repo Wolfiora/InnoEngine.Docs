@@ -2,7 +2,7 @@
 uid: api.f2d403aa3bf2520400a86d9c3bd29f14ee12ecb44d128dbab03280e87f81c406
 symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.GetDirectory(InnoEditor.Assets.AssetBrowserRoot)"
 source: xml
-reviewed: c2029ccb1ee74d61513dfad6f77958b2f870c7e6dcb2a6c6e065e2786ce47816
+reviewed: c22a2f8632b875d3534348c40827f291c3ef571f30dc89c7fb5fd63321724788
 title: "GetDirectory"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

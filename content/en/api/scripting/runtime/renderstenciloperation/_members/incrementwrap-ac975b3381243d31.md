@@ -2,7 +2,7 @@
 uid: api.ac975b3381243d31e82789bfd40d1560115119bed331f123c168dd06fd36246a
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.IncrementWrap"
 source: xml
-reviewed: b2f0538e8fc35a6b0d9cff7026173ff80f8da0f669d9005db9045004f3ddb113
+reviewed: fb716b74e78638239dc86ab919f3aeb728874985e4ff873a2bb0db5106c671fe
 title: "IncrementWrap"
 kind: api
 owners: [Inno.Rendering]

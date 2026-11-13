@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.editor-script.ff8c376f31b6acee
 symbol: "scripting:Inno.Editor.Shaders:T:InnoEditor.Shaders.ShaderParameterPresentation"
 source: xml
-reviewed: 47ae79ae366ff5a52135cec1be095ed7ab0f8482f338f3ec299dc13520be5407
+reviewed: c0cd9c75b1d45d2f0521ba9c24af16d33bfb64c2e105d02c71407a52f563beb6
 title: "ShaderParameterPresentation"
 kind: api
 owners: [Inno.Editor.Shaders]

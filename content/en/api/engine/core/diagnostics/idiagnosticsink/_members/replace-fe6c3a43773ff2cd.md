@@ -2,7 +2,7 @@
 uid: api.fe6c3a43773ff2cd60135d19422bdf79aca78293c98c480ab5ff822e23079d67
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.IDiagnosticSink.Replace(Inno.Core.Diagnostics.DiagnosticReport)"
 source: xml
-reviewed: adaa56cec1cd7f2f7a9e37e557c4ebd021cbab6404c99a7b93f966ea9b7bc0e2
+reviewed: 728e0b84ac3a8d8a745b897a811cf06373d532e3a4c543fe3d5d26f6955398d2
 title: "Replace"
 kind: api
 owners: [Inno.Core.Diagnostics]

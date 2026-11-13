@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.df6a9bca8d06016b
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.ModuleHostOptions"
 source: xml
-reviewed: 8972e295e088f2c352aa1b1be50d5d21c7d4df3020f23a37940062223bdd26fe
+reviewed: 9ea76d2a0e3b9ca2a64854965214f5459a029a104d366c4784d3830143b08f93
 title: "ModuleHostOptions"
 kind: api
 owners: [Inno.Extensibility.Modules]

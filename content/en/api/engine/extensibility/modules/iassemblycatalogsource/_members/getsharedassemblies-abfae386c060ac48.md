@@ -2,7 +2,7 @@
 uid: api.abfae386c060ac485054f0a107d392894ae9b579146304929aa9b962fd17f067
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.IAssemblyCatalogSource.GetSharedAssemblies"
 source: xml
-reviewed: 8e74b1d4c0d3a5a7cbfffcd572956867ddabf94963044968a2209556c09ebcac
+reviewed: d776aac86c2da5a75eb88253b94469facf1b8f96b38802e60d0fd266dec46a2c
 title: "GetSharedAssemblies"
 kind: api
 owners: [Inno.Extensibility.Modules]

@@ -2,7 +2,7 @@
 uid: api.7f1db9ffe96fbe0a86e4ae0c70ae937408169b9b0d59a1e0c3d55ea6dd539f87
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.Draw(Inno.Editor.Rendering.EditorViewportOutput,System.Numerics.Vector2)"
 source: xml
-reviewed: 36fb9dbecb9bf57784ef345cfbf9f71e2d608c7357b01ae97dea45b52d1050be
+reviewed: 859af0123c9ff208ba224467d1c71c53241fdc838f5c39606e7ad739078e299d
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.c9bc7c46f2c7537e35e212fbd028a5347ec81bb219163db75a03e42c37594e0b
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.GetHashCode"
 source: xml
-reviewed: 87b116d14bd63769b434f84ffbe59efa427cd8fa1c58f61187f21c28e8144d2a
+reviewed: 15d3d7fca4bf0e9faefe0915a7f21e215aebdf589b877a6930625df9ddf53fbf
 title: "GetHashCode"
 kind: api
 owners: [Inno.Text]

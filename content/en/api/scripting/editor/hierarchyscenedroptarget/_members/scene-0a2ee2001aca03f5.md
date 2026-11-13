@@ -2,7 +2,7 @@
 uid: api.0a2ee2001aca03f59bf233e0a841627280457342fcfa3890719894f155e7ed86
 symbol: "scripting:Inno.Editor.Panel.Hierarchy:P:InnoEditor.Hierarchy.HierarchySceneDropTarget.scene"
 source: xml
-reviewed: 8a08bcbb5d8b8bcbf1d57cdeb7bca6a1d73105c59c348f73d1f40d4d758841af
+reviewed: 2c955153cc6d537c39c4a7c8cef44a304903adb0f819e4f3293431127ab29ccf
 title: "scene"
 kind: api
 owners: [Inno.Editor.Panel.Hierarchy]

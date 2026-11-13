@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.024063c2ced99192
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderIrStageInput"
 source: xml
-reviewed: 0ba4c82ee7d292e1347e5cdb32f79bc00f51cae572933f52f7891d9ed051df79
+reviewed: 9372a0ded8d5ef7033eb6e4023da6641c8b6b6fbe09fd782320540700369abcf
 title: "ShaderIrStageInput"
 kind: api
 owners: [Inno.Rendering.Shaders]

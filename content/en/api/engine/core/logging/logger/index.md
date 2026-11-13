@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.8e9bde170830a7e6
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.Logger"
 source: xml
-reviewed: 49bdc1c0f982b671ae2c7e9a290c19b599fadd2be194548c5319bf0ea2231cca
+reviewed: 693cbcd22a002dee404e19cfb17a579c6b840914b2643e2ce10c52d7cfd006b4
 title: "Logger"
 kind: api
 owners: [Inno.Core.Logging]

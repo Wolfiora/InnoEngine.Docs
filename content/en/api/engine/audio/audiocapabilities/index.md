@@ -2,7 +2,7 @@
 uid: api.inno.audio.cd4ea04a8fa9a65f
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioCapabilities"
 source: xml
-reviewed: 40095a48d8b30888aa09c53fa6501759906f4facfbf770572569fb66702d8954
+reviewed: a743d1a3fd910be84a1709106b8115c4a404bf9ddac11f09c47f8be96485a635
 title: "AudioCapabilities"
 kind: api
 owners: [Inno.Audio]

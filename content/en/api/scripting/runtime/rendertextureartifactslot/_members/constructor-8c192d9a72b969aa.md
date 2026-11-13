@@ -2,7 +2,7 @@
 uid: api.8c192d9a72b969aaef1aa8dc5c8b6fc9175569e570326477ae7d91db564aedec
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderTextureArtifactSlot.#ctor(System.String,System.String,InnoEngine.Rendering.TextureColorSpace)"
 source: xml
-reviewed: f7912fe57061ffedbb00604ea6299bbd22b4bd41dfcd249e088c479bf1c85671
+reviewed: 5869f2600b7eff3d35c1ba1fccbeb529778481e937f15b895d7ab01f56e6b777
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.0c30728ce3360219
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderFeatureExtensionAttribute"
 source: xml
-reviewed: f8b454347aee02e5172fdd18fed3aca88aa4d2602b837cfbbdddaa30bea3f2b5
+reviewed: fc030c06cb4276b7f72e75b68edcf4d0a55cd51f9ed2e10d28813b69dfe0150d
 title: "RenderFeatureExtensionAttribute"
 kind: api
 owners: [Inno.Rendering.Runtime]

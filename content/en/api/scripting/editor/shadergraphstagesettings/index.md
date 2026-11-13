@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.78486ae0125d7167
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphStageSettings"
 source: xml
-reviewed: 789e645e257bff3c3505d7673d8d43c15767af49e2440a664d3da59b83f5d201
+reviewed: 9debdadf60824bcaa5ab669d70894bb6c9b1e05fe67b08bdfd3891af44449ed4
 title: "ShaderGraphStageSettings"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.e11c53e0bc4d5178
 symbol: "engine:Inno.Editor.Shaders:T:Inno.Editor.Shaders.ShaderPreviewProviderAttribute"
 source: xml
-reviewed: 7a7aac62741c80b3ee7e848c2156463ba594c4621cb560fd51e6e4f7c5d61a3b
+reviewed: b0eece6b82bae66ec8e09481a477a3981513a274b39052931bc4410e9890c384
 title: "ShaderPreviewProviderAttribute"
 kind: api
 owners: [Inno.Editor.Shaders]

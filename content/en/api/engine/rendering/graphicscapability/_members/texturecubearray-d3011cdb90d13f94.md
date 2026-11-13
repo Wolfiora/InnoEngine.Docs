@@ -2,7 +2,7 @@
 uid: api.d3011cdb90d13f9498fe9eb4a7f81fad84384e0a6b1c0ab0f4193b5af3c0acb8
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.GraphicsCapability.TextureCubeArray"
 source: xml
-reviewed: 3b056b07c2e7cbf37d5881a504fe099cbe192760d32e5e8cb786b27362d5bb13
+reviewed: 4ebd47bf698d8b0d5ee74012253d51b379cc8604d19ef12a7474eda0b537aae8
 title: "TextureCubeArray"
 kind: api
 owners: [Inno.Rendering]

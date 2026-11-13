@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.5b7fdb99c353e45d
 symbol: "engine:Inno.Core.Diagnostics:T:Inno.Core.Diagnostics.Diagnostics"
 source: xml
-reviewed: eae8631d0d051700e37e131f6c22fb16125899c2918e709b168d1ba9746a523a
+reviewed: 62f98d63110672dc009cc89be3eb9df3786f29fbd30e990af1fc37565088b79e
 title: "Diagnostics"
 kind: api
 owners: [Inno.Core.Diagnostics]

@@ -2,7 +2,7 @@
 uid: api.inno.references.69bd6f7e2916e24d
 symbol: "engine:Inno.References:T:Inno.References.ReferenceRecoveryTransaction"
 source: xml
-reviewed: 6627322d7aa2aade7e3e5360862009136f03a38343cfaa765025beb494f8db54
+reviewed: 09c775cfbacdde8586411fae5c8d28ae22605a4295fe6da87eb7d5df01ecd678
 title: "ReferenceRecoveryTransaction"
 kind: api
 owners: [Inno.References]

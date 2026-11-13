@@ -2,7 +2,7 @@
 uid: api.832fae93389d7d826b215479418154ccdf725c08df3730704cc732b8fd77a5c9
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactReadLease.AcquireAsync(System.String,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken,Inno.Build.Toolchains.NativeBuildContext)"
 source: xml
-reviewed: 719c1d3061c4a7392f1d4b2c48d2d97b2649a4be71c35fd224e84b3a2f442c8c
+reviewed: 69e27733b15a6a7c6ec43cb38a2076a5a3f44a9385b4e7ea3e66146d273dcbfd
 title: "AcquireAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

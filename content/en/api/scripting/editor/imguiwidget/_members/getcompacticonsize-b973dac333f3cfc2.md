@@ -2,7 +2,7 @@
 uid: api.b973dac333f3cfc22836b8a9a3148a1a78c0990a55324a92ea059f82d36eaab5
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetCompactIconSize"
 source: xml
-reviewed: a7c0f2b3512fa7ef341f2ca381e3b32906393b8e749cf63b97baa8edf8ab8fa1
+reviewed: 5660d902e1de23461dbca494674fc317fed98e022e655ed0bd24edd7a32d875f
 title: "GetCompactIconSize"
 kind: api
 owners: [Inno.Editor.ImGui]

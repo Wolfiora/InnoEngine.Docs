@@ -2,7 +2,7 @@
 uid: api.713b7d77dac6cdcf4ddb8e897cdfdf244177427a9ae08403389a627880bb2236
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.UnloadScene(Inno.Scene.GameScene)"
 source: xml
-reviewed: c22070fc1ab0b3b6b465832d7ce16e738447c3364fea8ba2fdb8401f07f4840d
+reviewed: 916453109d9b08be83bfebbd8b11d567d63f35cf95376e257e0fc0d1e71ed577
 title: "UnloadScene"
 kind: api
 owners: [Inno.Scene]

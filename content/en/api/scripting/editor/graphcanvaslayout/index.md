@@ -2,7 +2,7 @@
 uid: api.inno.editor.graph.imgui.editor-script.aff1d2aa6c1bfc31
 symbol: "scripting:Inno.Editor.Graph.ImGui:T:InnoEditor.Graph.GraphCanvasLayout"
 source: xml
-reviewed: 9bbc9bf638d1d30b65f308d28882d734fc436e4aeea36e654e916480ff5190c0
+reviewed: 0e7a0d8b46e567d1fcd9f72c8692c9a500e15b35a61aae9a566ff7d564daf3d7
 title: "GraphCanvasLayout"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

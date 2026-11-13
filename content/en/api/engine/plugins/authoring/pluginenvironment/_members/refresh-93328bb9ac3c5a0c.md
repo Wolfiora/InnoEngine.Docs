@@ -2,7 +2,7 @@
 uid: api.93328bb9ac3c5a0cbfcbb52cf7057d972cacce248bfb4e90e7086fe70a2553c3
 symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.Refresh"
 source: xml
-reviewed: b45f872d73201b7a6ba52b139c495eeda29240fb2a51a591bda0bddde8acc3e5
+reviewed: c0252f21bd26873495f0cc705582774aee30f88ac59e9513084e890c74dfb149
 title: "Refresh"
 kind: api
 owners: [Inno.Plugins.Authoring]

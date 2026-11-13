@@ -2,7 +2,7 @@
 uid: api.6224940792cf358cf19d96135a0ff40d96a124f00b1df558135625c64c44b2dd
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetImportContext.importSettings"
 source: xml
-reviewed: 2dfd48a8f95884364e7c2a56577d6625f07708cf738a8214650a86988f4e45e0
+reviewed: 2f371139e46e1d11833f90bcfd0aa8ac718771e24cd70457588dedf98569d848
 title: "importSettings"
 kind: api
 owners: [Inno.Assets.Pipeline]

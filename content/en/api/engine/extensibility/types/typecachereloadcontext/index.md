@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.93f91626904eb114
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheReloadContext"
 source: xml
-reviewed: 51ebf4499bf266e0fc8461571ce6e184221e4c37f4d833fd6ff76ad5d0188ac1
+reviewed: 53ed6e5c93c388655780ca46e4bbab3e0036cca36a00fd2125a6ccbea6f4c28d
 title: "TypeCacheReloadContext"
 kind: api
 owners: [Inno.Extensibility.Types]

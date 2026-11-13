@@ -2,7 +2,7 @@
 uid: api.5df6f4bb936838ae88a6726aba7056791fceaa98b1216c46b32958e51aa4ccb4
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementTimeoutException.#ctor(System.String,System.Exception)"
 source: xml
-reviewed: 2b8fd3560ca9ae5eb4f63c1d6c2ac0c39fdec67166c098e6c9dc95d77f70eb55
+reviewed: bea84aa3c63291d7535c07bdbaccbc4ab19fa37df20005f94292dba6e1185608
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Execution]

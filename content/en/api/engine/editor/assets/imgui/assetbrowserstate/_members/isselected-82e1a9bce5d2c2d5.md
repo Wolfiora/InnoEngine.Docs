@@ -2,7 +2,7 @@
 uid: api.82e1a9bce5d2c2d551ff6df20e77a2c28c43556dc37c122123be0fd58065e7f9
 symbol: "engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.IsSelected(Inno.Editor.Core.EditorContext,Inno.Assets.Pipeline.AssetFileEntry)"
 source: xml
-reviewed: af6ed4277f7fba12be318a419e38c0587273d64b9208fd9ae162c010ec56e994
+reviewed: 0e101fdfa5a7266729630b7125086cce553af180690578525fe98801824f2fcd
 title: "IsSelected"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

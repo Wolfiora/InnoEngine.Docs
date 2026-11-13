@@ -2,7 +2,7 @@
 uid: api.649d4176cba3f2667877a6ab6ca4c8902fae530ebe4c095d5752e3fe86f88281
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.AcquireTexture(Inno.Rendering.Runtime.RenderPersistentResourceId,System.Int64,Inno.Rendering.RenderTextureDescriptor,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderTextureSubresourceData},System.String)"
 source: xml
-reviewed: 8dcc18aa382c7afc19d6288a40ace2ae6d6254af70c52e00d523db07a41fd9bd
+reviewed: 32d66000b1a20ac6ab8364fb15b45d28547553f8816a64367c5159724ff78c46
 title: "AcquireTexture"
 kind: api
 owners: [Inno.Rendering.Runtime]

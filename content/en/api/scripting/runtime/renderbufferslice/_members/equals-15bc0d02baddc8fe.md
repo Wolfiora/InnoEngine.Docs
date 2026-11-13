@@ -2,7 +2,7 @@
 uid: api.15bc0d02baddc8feadddea1d1abf5ad4b2e71762c955721003573df13ce716b8
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferSlice.Equals(System.Object)"
 source: xml
-reviewed: 3330b760918bd5de358486c0615d2eb998dbac9d633f376ab2ede417ca3c7d6c
+reviewed: 0daa65565a816ea5d1fdf6c479ddf15eb5a87f22000a302c754d8de82f7498c5
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

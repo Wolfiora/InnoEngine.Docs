@@ -2,7 +2,7 @@
 uid: api.inno.assets.9bda3cc3f893ae2f
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetPropertySnapshot"
 source: xml
-reviewed: b1e55199fad315abadd647a6c925cde56e655ae20d494e20878fdc25ee22742e
+reviewed: 430c42fd98ae0c90952543eda7f4dba87462abd451e40396713fe44a55224147
 title: "AssetPropertySnapshot"
 kind: api
 owners: [Inno.Assets]

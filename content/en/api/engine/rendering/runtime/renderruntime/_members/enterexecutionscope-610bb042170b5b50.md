@@ -2,7 +2,7 @@
 uid: api.610bb042170b5b50a1004d99f07c475c8bbd633ce9115b8307830b8e3ecd7d4c
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.EnterExecutionScope"
 source: xml
-reviewed: 9de867d558f004a037140e09af9ac8d8bbbb9568a13e09bfc1bec3ffdd793627
+reviewed: bdc6e6a4b4020459b1a5bcb25820af8e876d54cf906ba083425f002b52a2d91f
 title: "EnterExecutionScope"
 kind: api
 owners: [Inno.Rendering.Runtime]

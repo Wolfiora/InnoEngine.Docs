@@ -2,7 +2,7 @@
 uid: api.3e51cc1df65e4f26a23585c9f34e0cffaee4ea402d1cfa6c3f22be2bdd5ca908
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderGraphNodes.interfaceKey"
 source: xml
-reviewed: 391560f972330b1e9d87dab34e6581d9cfc95fdc40cb10aa4a7f94818e82505c
+reviewed: 980a8f14551615c21a1fb2bac4cbd63df43915f431fe98e90761bc18aa699312
 title: "interfaceKey"
 kind: api
 owners: [Inno.Rendering.Shaders]

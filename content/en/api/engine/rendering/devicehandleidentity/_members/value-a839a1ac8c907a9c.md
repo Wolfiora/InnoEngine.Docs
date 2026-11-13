@@ -2,7 +2,7 @@
 uid: api.a839a1ac8c907a9cd363fcfba9f9a8515a17e473441db684b5545318a5a179bd
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderDevice.DeviceHandleIdentity.value"
 source: xml
-reviewed: e49a9c879cb9ea323a94ad3d268b78fa54262283d5cfd52217c8fac941d667c3
+reviewed: 950ad145cdffec14ba35d1ee4d382b01053e43317018c2f0c72e767a0d92be0a
 title: "value"
 kind: api
 owners: [Inno.Rendering]

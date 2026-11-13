@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.56785eea0411f1a7
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportManipulationPlane"
 source: xml
-reviewed: dd1463e149bc0ba8926ef541f5939bddad6859f9f6663b35659e735179869444
+reviewed: 173285158066fa4c90cae3256f014c6cd6c9e9e83513e31db09636c288d70e7a
 title: "EditorViewportManipulationPlane"
 kind: api
 owners: [Inno.Editor.Rendering]

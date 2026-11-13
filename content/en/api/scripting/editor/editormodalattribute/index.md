@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.8c1fb241dc036991
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorModalAttribute"
 source: xml
-reviewed: 9a657e1e1964e1bd2a2d97ebf5fa361329568b685d34baa4a920d22086f5448f
+reviewed: b1c7fa9e4141baf9edf8479c8d942b57bceed0aca53170ec1e844dc3973eacca
 title: "EditorModalAttribute"
 kind: api
 owners: [Inno.Editor.Core]

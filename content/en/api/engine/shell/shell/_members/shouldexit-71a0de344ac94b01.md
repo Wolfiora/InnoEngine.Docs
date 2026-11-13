@@ -2,7 +2,7 @@
 uid: api.71a0de344ac94b011a7afc7d193aa5a938c2dd5f6d7a6e4e890457794bb91d3c
 symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.ShouldExit(Inno.Core.Events.Event)"
 source: xml
-reviewed: a9208af9ad00b65443b6ca0d1d230c0918bee93ab1be2fabce8e66094f5e19cc
+reviewed: 7c278c60c65d9ea8081a11e70d2dd5677bc909cacc04767d7454283efc402634
 title: "ShouldExit"
 kind: api
 owners: [Inno.Shell]

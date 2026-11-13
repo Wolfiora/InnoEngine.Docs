@@ -2,7 +2,7 @@
 uid: api.7d607b793dcd783f7f5066c887e488c9bbe25f6bfad0335f34d4fa1cd46a1164
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.BuildCachePolicy.timeBudget"
 source: xml
-reviewed: 837c73c1945cbbd076c859948e3c4c5c5e59280be8a62ff36d91687dcea66996
+reviewed: 1206662e5070f844873a1c3773d1d12e6199fad19aecfd817255754589c2ac46
 title: "timeBudget"
 kind: api
 owners: [Inno.Build.Toolchains]

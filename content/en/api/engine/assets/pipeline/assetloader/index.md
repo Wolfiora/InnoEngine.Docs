@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.519c82050a3e339e
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetLoader"
 source: xml
-reviewed: 2c624422f21d546701a6c1cb6528afbbcdabb41b2b08cc4076137aa971ab086e
+reviewed: f38581404556a190fb9d616141aec4025c66930d741911a1b8a302aa64534b3a
 title: "AssetLoader"
 kind: api
 owners: [Inno.Assets.Pipeline]

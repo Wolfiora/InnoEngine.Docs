@@ -2,7 +2,7 @@
 uid: api.a027832dd31389db8bd888cb290564ee25f56aa0eadde53c852a2d43d862b2a9
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneManager.MoveGameObjectToScene(Inno.Scene.GameObject,Inno.Scene.GameScene)"
 source: xml
-reviewed: f19af8b9a281a3888f333ca88db6f1a263a711a02debf2ebe0de58dce550b6d9
+reviewed: 7e33d7840f22107fde8da9b224e7afd366e1c5a7c3ffd4b325b2f726be108cdb
 title: "MoveGameObjectToScene"
 kind: api
 owners: [Inno.Scene]

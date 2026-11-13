@@ -32,10 +32,10 @@ Reading an already prepared documentation snapshot is a third, separate operatio
 
 | Reference | Contents | Navigation |
 | --- | --- | --- |
-| Engine | Public and externally usable protected C# product, Editor, Build and tooling contracts | Actual project segments, such as Core / Collections |
+| Engine | Public and externally usable protected C# contracts owned by src/ and build/ | Actual project segments, such as Core / Collections |
 | Scripting | Members in the actual compiler-produced projections | Declared Runtime, Editor and Authoring scopes, then alphabetical type indexes |
 
-All `backends/`, `extern/`, test/fixture and non-C# API references are excluded. Integration guides, resource constraints and legal notices remain where readers need them. Runtime script APIs can also be available to Editor scripts; availability is distinct from the declaration's Scope.
+Engine API accepts only `src/` and `build/` C# owners. `tools/`, `entry/`, `platforms/`, `backends/`, `extern/`, test/fixture and non-C# API references are excluded. Integration guides, resource constraints and legal notices remain where readers need them. Runtime script APIs can also be available to Editor scripts; availability is distinct from the declaration's Scope.
 
 ## Take over one explanation
 

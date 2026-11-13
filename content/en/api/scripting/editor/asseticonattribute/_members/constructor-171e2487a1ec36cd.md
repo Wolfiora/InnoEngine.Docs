@@ -2,7 +2,7 @@
 uid: api.171e2487a1ec36cd4e08b7b53b9ef9f43243ebac337e37b24740bb4733ce4822
 symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetIconAttribute.#ctor(System.String,System.String,System.Int32)"
 source: xml
-reviewed: b32df278158a2c0eafb23f81b9cf7c1018097743fd6b91144efe20cd12c6b04b
+reviewed: d89af5925a7201ccf6be5c32b2cf725d9a82dfc5842fc7ab4b96b50fa8ca5655
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

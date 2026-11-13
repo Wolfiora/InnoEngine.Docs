@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.8db049cf92c63d29
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorKeyboardPolicy"
 source: xml
-reviewed: d1fe7a33824cbca8ddc8e895357050c0130364420e0078063b3938fc81f49c4d
+reviewed: f01e15031454a10680a1c68c05be5e13560d365d24054d1e81dbf8387108c5ca
 title: "EditorKeyboardPolicy"
 kind: api
 owners: [Inno.Editor.Core]

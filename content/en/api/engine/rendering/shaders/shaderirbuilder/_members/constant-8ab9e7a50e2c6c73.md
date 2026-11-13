@@ -2,7 +2,7 @@
 uid: api.8ab9e7a50e2c6c73cb66c590709b8b0dd7322f450e466e850652182d263fada2
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Constant(System.Single)"
 source: xml
-reviewed: e730bd04644b542646743caa57974870cc6a9550d7b09143ade7ed43bffd48b2
+reviewed: f2ccb6ee9737a9626783290da5cecafb1b1dd61ca54a575414babe64f39c3b02
 title: "Constant"
 kind: api
 owners: [Inno.Rendering.Shaders]

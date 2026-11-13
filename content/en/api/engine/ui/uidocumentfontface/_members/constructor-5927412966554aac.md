@@ -2,7 +2,7 @@
 uid: api.5927412966554aacc04e1b10eca759ea7b124987099a4fc4597f1e3d370aacda
 symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentFontFace.#ctor(System.Guid,System.String,Inno.Text.TextFontStyle,System.Int32)"
 source: xml
-reviewed: 15267dee97a0139c542ee24a91650dd050ff97e2f4f23a67e0d0e843ee8b2c47
+reviewed: 511fa0481b1711c9a7f864fd94e75e5d09e4cbb6b52eb2024610778e971c4743
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

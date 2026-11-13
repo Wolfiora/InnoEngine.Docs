@@ -2,7 +2,7 @@
 uid: api.d156e68c6316b80491b80afe6c87db547fef11f8ba9eddd3cdb1c6d94f61066d
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.#ctor"
 source: xml
-reviewed: c4e69ff67cfe156f018c5740bab915f14c711768afe82ad788e6077166f1ac36
+reviewed: 95255042d974b2d57b4830e75a3e9b2c867e1578df1c3d004411206f8523cc6c
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

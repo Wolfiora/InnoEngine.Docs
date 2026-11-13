@@ -2,7 +2,7 @@
 uid: api.2e5d3142efbfdd6c2e78f3044ec548203733e1c0658b2b0a500b32923ca7570b
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.CreateForComponent(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"
 source: xml
-reviewed: d4fca2ed74819d7b4a88c88b648d21d23ee5d955b6b1e45c725b41cef98e4173
+reviewed: 213b375fe616a4238b4dbd262999b2d6c1fd73f764fdd3e33aa14927af327417
 title: "CreateForComponent"
 kind: api
 owners: [Inno.Build.Toolchains]

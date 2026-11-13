@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.3356ccc23b143153
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderPropertyBindingOwner"
 source: xml
-reviewed: 8491ebba8607f03752dc17870168ae50d11b15ca234f6f0d649296138a3bb262
+reviewed: 5e312db0f64d6a4818fc3e0f46ea641faed188655b709ba42e1e2412b0671a5f
 title: "ShaderPropertyBindingOwner"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.20fb17b298bd86cacc353a33ddd6f28e93b827167ca9441caa4020528bb78e33
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeComponentDescriptor.bindingDefinition"
 source: xml
-reviewed: f21830af05adc50dfa42e73a5933e7903c0dadbfc89832f2bb6f53e7aefaa513
+reviewed: 9b6922bc44852c14bd24daa66868d59d4aa6b4f4ed65a9873a2c10574cafd1df
 title: "bindingDefinition"
 kind: api
 owners: [Inno.Build.Toolchains]

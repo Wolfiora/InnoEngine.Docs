@@ -2,7 +2,7 @@
 uid: api.ea5e81a7af75081d563fda1ae6055e839700097845796d0a93d19eb9af958a06
 symbol: "engine:Inno.Core.Serialization:F:Inno.Core.Serialization.PropertyVisibility.None"
 source: xml
-reviewed: 0e674453b33fb79f0d0521230e1f82e2fc3d896b9b6e3079f803e757e0701d3f
+reviewed: 40005e20a3572e86e08e256b0f392627b2eb4c413cdda72117e5a4c3d64d06a5
 title: "None"
 kind: api
 owners: [Inno.Core.Serialization]

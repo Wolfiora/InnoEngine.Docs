@@ -2,7 +2,7 @@
 uid: api.2d9a25ceb2c40924b57b238ba7356af95e78c6010d520a3647d0a98e35b27866
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.ToString"
 source: xml
-reviewed: 82967f9d8edb265eefd9a409aec4e992ed4abbafd0dfd09245d63a83d5b9712f
+reviewed: ead75b785f87f3b42061f6dbe553458e023c37afafff675643c60067979866b9
 title: "ToString"
 kind: api
 owners: [Inno.Core.Mathematics]

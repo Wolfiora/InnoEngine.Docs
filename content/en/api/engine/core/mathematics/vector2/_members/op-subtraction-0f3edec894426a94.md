@@ -2,7 +2,7 @@
 uid: api.0f3edec894426a942d41a8211ac784e73edfb52ea74f711298a83fec45db4ff6
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.op_Subtraction(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)"
 source: xml
-reviewed: e0d6d1874fca21f02814f6e0d50f888fe86924395deacb4039318956ab51a05b
+reviewed: faf4aa41daf4759ec15ed23abe64ebd8034594c5b1ec5d6194f8c054b808e5ad
 title: "op_Subtraction"
 kind: api
 owners: [Inno.Core.Mathematics]

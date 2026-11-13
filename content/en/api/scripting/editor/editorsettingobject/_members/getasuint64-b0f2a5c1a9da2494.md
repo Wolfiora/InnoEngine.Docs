@@ -2,7 +2,7 @@
 uid: api.b0f2a5c1a9da2494c2d66e0c5d2ecea8cff91968a436e68d1a6f85045f3a9ede
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsUInt64(System.String,System.UInt64)"
 source: xml
-reviewed: b4a07120bbe649dc9adb1ee004b389d7a9af3155614da07c60f2300f02de084a
+reviewed: 6ed2ceaba8395477ecc6d7c3b2fc9eb705eea563e48d46c365a814140005fcac
 title: "GetAsUInt64"
 kind: api
 owners: [Inno.Editor.Settings]

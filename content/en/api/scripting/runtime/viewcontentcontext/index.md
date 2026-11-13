@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.d3eddb864881dd6a
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.ViewContentContext"
 source: xml
-reviewed: 0b193bcaa86928d8bea6ca25042313fa812ccd433ec68d4bef84336e4ea6395f
+reviewed: 4145a7992d28a0089a7a72da22a582173702ed9e68c9bd9c2335349bdad96542
 title: "ViewContentContext"
 kind: api
 owners: [Inno.Rendering.Runtime]

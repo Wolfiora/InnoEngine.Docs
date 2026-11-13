@@ -2,7 +2,7 @@
 uid: api.498cbde796fe5f9e1a4083ad2c3b2ff2bebed41310632fa51f2eede7f0ccc4ba
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.ITypeCatalogSource.GetMetadata(System.Type)"
 source: xml
-reviewed: d6f0477059013224429a4ecb2c5e14605d536831900d3a6cdfc24bc24e3d573f
+reviewed: 31e5a5fef416b99bb68ff3db73ded6823e34c7ce48d4a637c99545f963519f22
 title: "GetMetadata"
 kind: api
 owners: [Inno.Extensibility.Types]

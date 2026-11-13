@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.68f2ed618e3123d1
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorGizmoIcon"
 source: xml
-reviewed: 04e8a2c0f2a3316a435136016f5201b9380a6f9e672e8bf6795dbb2f429c9a73
+reviewed: 6cafb890aebedb32b3096d78767b4e596f40ec4b0c288b3f24e2742cf8dfedad
 title: "EditorGizmoIcon"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.71a099d94ba6d5bb2ba9370d321998e4a1d09f1d897bdbeafb53982eca694be0
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.HasDragPayload(System.String)"
 source: xml
-reviewed: aad1b2632f8c9905a758f3b784a3933bbc76675affd5d4d717b1c2949ca7e23f
+reviewed: aa63683273c2bd24de8517ce728eed7a9f3658b271eff3cf6d08ca69d8d92eb1
 title: "HasDragPayload"
 kind: api
 owners: [Inno.Editor.ImGui]

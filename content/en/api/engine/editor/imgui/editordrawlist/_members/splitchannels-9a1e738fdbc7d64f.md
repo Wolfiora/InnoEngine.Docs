@@ -2,7 +2,7 @@
 uid: api.9a1e738fdbc7d64f5fa604207ad38bed7bafee970a38e2ef28d10fa71aa71766
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDrawList.SplitChannels(System.Int32)"
 source: xml
-reviewed: e909e64d1cb2a027d2a6c8616eb1c7ceca10e43bca6efb1fbeb96a3902248f52
+reviewed: 37bc9cae4db7d9f62ee47b6fa63c9aba926efcf78f1ca214945406b19f6718b0
 title: "SplitChannels"
 kind: api
 owners: [Inno.Editor.ImGui]

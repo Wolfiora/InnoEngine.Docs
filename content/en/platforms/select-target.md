@@ -1,45 +1,31 @@
 ---
 title: Choose a platform and product
-description: Separate the execution host, target ABI, product and managed deployment before preparing output.
+description: Separate the execution host, target, product and managed deployment before preparing output.
 uid: platforms.select-target
 kind: how-to
 ---
 # Choose a platform and product
 
-A build can execute tools for one host while producing a different runtime target. Select each responsibility explicitly before preparing a product; the host OS alone is not a complete build request.
+The machine running a build and the environment running the result are separate inputs. Select the desired capabilities explicitly instead of treating the host operating system as the entire build request.
 
 ## Make the selections
 
-1. Select the **execution host** and its actual SDK/tools. On Windows, [host discovery](../architecture/projects/inno-build-windows-host.md) also supplies protected compiler-workspace aliases.
-2. Select the **target**: its architecture, ABI, runtime identifier and platform capabilities.
-3. Select the **product** and its actual component closure. A desktop Editor includes capabilities that a Player does not need.
-4. Select the **managed deployment** supported by that contribution. A native target and its managed runtime are related inputs, not interchangeable identities.
-5. Prepare and validate the frozen request, then acquire protected access to the published artifacts before deploying them.
+1. Select the execution host and its available SDK and tools.
+2. Select the target's architecture, ABI and required capabilities.
+3. Select an Editor or Player product and its actual component closure.
+4. Select a managed deployment supported by that product.
+5. Prepare the frozen request, then acquire protected access to its published artifacts before deployment.
 
-| Source target | Platform foundation | Complete composition |
-| --- | --- | --- |
-| `windows-x64` | [Windows x64 SDK and layout](../architecture/projects/inno-build-windowsx64.md) | [Windows build integration](../architecture/projects/inno-integration-windowsx64-build.md) |
-| `macos-arm64` | [macOS ARM64 SDK and layout](../architecture/projects/inno-build-macosarm64.md) | [macOS build integration](../architecture/projects/inno-integration-macosarm64-build.md) |
-| `browser-wasm` | [Browser SDK and static site](../architecture/projects/inno-build-browserwasm32.md) | [Browser build integration](../architecture/projects/inno-integration-browserwasm32-build.md) |
+The current source registers windows-x64, macos-arm64 and browser-wasm targets. This is an availability statement, not a claim that every host/target, device or graphics combination has passed acceptance. Browser supplies a Player rather than an Editor. Launching the Editor does not require preparing an unrelated Player distribution.
 
-These are implemented source contributions, not a claim that every device, graphics API or host/target combination has passed acceptance. Browser supplies a Player, not an Editor. An Editor launch does not require preparing an unrelated Browser workload or publishing a Player Support Pack.
+## Understand preparation
 
-## Understand what composition does
+Creating a build contribution assembles registrations; it does not discover every SDK or start every build. Preparation resolves the chosen tools, source inputs, environment and component options. Missing prerequisites fail at that boundary.
 
-Creating a build contribution assembles immutable registrations; it does not discover every SDK or start a build. Actual preparation resolves and freezes tool identities, source inputs, environment, native component options and the selected binding mode. Missing prerequisites fail at that boundary.
+Shared backends own their recipes; product contributions bind them to the selected target. Content compilers remain distinct from runtime rendering and input. A Player consumes published content rather than retaining its authoring compiler.
 
-Platform foundations own SDK selection, product layouts and packaging. Shared backends own their recipes. Platform/backend integrations join the two without introducing an OS-selection table in shared rendering or input code.
+## Diagnose incompatible inputs
 
-Content compilers are separate from runtime surface integration:
+Check the host, target and managed deployment separately. Then inspect SDK discovery, the component closure and the artifact generation. A successful build for another configuration cannot certify these inputs.
 
-- [Windows BGFX compiler/profile](../architecture/projects/inno-integration-windowsx64-bgfx.md)
-- [macOS BGFX compiler/profile](../architecture/projects/inno-integration-macosarm64-bgfx.md)
-- [Browser BGFX compiler/profile](../architecture/projects/inno-integration-browserwasm32-bgfx.md)
-
-These compilers borrow authoring-generation services. A Player consumes their published content through neutral runtime contracts; it does not retain the compiler or the Editor's type catalog.
-
-## Diagnose an incompatible request
-
-Check the selected host, target and managed deployment separately. Then inspect SDK discovery, the exact component/binding closure and the selected artifact generation. A successful build for another configuration is not a substitute for those inputs.
-
-Do not repair a failed publication by copying individual DLLs into an old Pack, editing generated bindings or reusing an active build directory as a deployment source. Failure and cancellation must preserve the previous complete generation. Follow [immutable build-artifact ownership](../architecture/build-artifacts.md) for producer and consumer protection.
+Do not copy individual DLLs into an old pack or reuse an active build directory as a deployment. Failed or canceled preparation must preserve the previous complete generation. Follow [immutable build artifacts](../architecture/build-artifacts.md) and [build distribution](../extending/build-distribution.md) for shared producer and consumer contracts.

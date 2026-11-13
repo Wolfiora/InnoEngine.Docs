@@ -2,7 +2,7 @@
 uid: api.e82213d4aa768364a32785f044fa1f0b3eb1bf060a7a765a01ac5068edc4d37e
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.#ctor(Inno.Editor.Rendering.IEditorRenderingHost,Inno.Editor.Interactions.EditorInteractions,Inno.Extensibility.Types.TypeCatalog)"
 source: xml
-reviewed: 05afbe35f6ed383348f7a6fe1e8c36652ecfbda8416926c04b608624a3e026e9
+reviewed: fd077d5adc4beb4dfd20edf650a0afff57920c17e849c5fd4474beb586e40b10
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

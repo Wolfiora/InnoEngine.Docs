@@ -2,7 +2,7 @@
 uid: api.c43a877d83dd2481ee51f62a66bd449dff56462c6794310cfb83a15f5bc66571
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderMaterialPass.UsesBinding(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.RenderShaderBindingKind)"
 source: xml
-reviewed: 93f4b4d4a9c2b340d726940abad40c7f6c951fbefdaddc547b1d301bc38a0c4d
+reviewed: 39c262b80641279aefceaf63d4850598a801fc77a8b6059545109318638e01d4
 title: "UsesBinding"
 kind: api
 owners: [Inno.Rendering.Runtime]

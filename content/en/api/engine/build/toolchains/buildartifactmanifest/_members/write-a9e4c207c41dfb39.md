@@ -2,7 +2,7 @@
 uid: api.a9e4c207c41dfb394b15c605a82767b73ef8d6ce8f524f4312e9e6bc848ea03e
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactManifest.Write(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.NativeBuildContext)"
 source: xml
-reviewed: 415f6af4bd48f47b29714ba0fe085cf228014f07dca74fb08ccda2bbaa3857bf
+reviewed: 1319bf64b8a425f717f019af677d80188fe1482f709479f96590cbf84403d937
 title: "Write"
 kind: api
 owners: [Inno.Build.Toolchains]

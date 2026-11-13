@@ -2,7 +2,7 @@
 uid: api.cdb3a95aad0080c39ce7a836a4ec46617ec58c8f26d9dff495fae4f26f739e59
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.DeviceHandleIdentity.Equals(Inno.Rendering.RenderDevice.DeviceHandleIdentity)"
 source: xml
-reviewed: efb2dad607ceffae3c282c3832f118cc6de7a2dac825eb850b72825dfbd323fa
+reviewed: 20f3bcfed6be8589b8da47a75a282ce96eebf557be87f9a3831430dd12ef6a52
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

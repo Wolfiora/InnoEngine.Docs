@@ -2,7 +2,7 @@
 uid: api.3beb88712d16839677081c271253384b47c655063b435d17336e883c04ab62bb
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindStorageTexture(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.RenderTextureHandle,System.Int32)"
 source: xml
-reviewed: 52335e208614d870bfbe0333bfa60d9207fd6fc6ab6c9ba5c824e18b4de15dd7
+reviewed: 66a8cfeaf4f00261b847f5230be1805c5d2184fa8a1b64bd6e85c1d786496c26
 title: "BindStorageTexture"
 kind: api
 owners: [Inno.Rendering]

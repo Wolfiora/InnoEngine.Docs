@@ -2,7 +2,7 @@
 uid: api.79b3ad4a6fe7fc94bd0ef0d72a9fc7c76278ab6777fb4a71d287ae7cf5f4da61
 symbol: "engine:Inno.Core.Logging:E:Inno.Core.Logging.LogRouter.sinkFailed"
 source: xml
-reviewed: 8110d535371cc086abf02997c21bf5787651f95c89f4e68f14a5f1d211abea24
+reviewed: 100b601107456a8c02c13ae834656516e67bfb97362ea2a017a7f8ef0bf2aacd
 title: "sinkFailed"
 kind: api
 owners: [Inno.Core.Logging]

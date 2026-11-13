@@ -2,7 +2,7 @@
 uid: api.4d8e6adfe7d7b93e0880fd0b05693df42f3a51278a079daf18fe7f6ec165f869
 symbol: "engine:Inno.UI:M:Inno.UI.UiFontRegistration.Equals(System.Object)"
 source: xml
-reviewed: cd7b5d4e0f12c87a277ef1591817b4d134e649dad9d7419d14545e197434ac51
+reviewed: d493d727c77c682c41a70405cd356388477e1970c91352ade4906d2b42cc2a0a
 title: "Equals"
 kind: api
 owners: [Inno.UI]

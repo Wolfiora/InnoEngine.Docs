@@ -2,7 +2,7 @@
 uid: api.inno.build.cli.df8e541fac90a97d
 symbol: "engine:Inno.Build.Cli:T:Inno.Build.Cli.BuildApplication"
 source: xml
-reviewed: 246dd6915b11e4c303e0d55b7d7160d7b841cb8cfaa7d85ed4c4f8e39cfc75b4
+reviewed: eda9b91f7985dd345b87bd39fd0e47792d7c32a944bf873d563ab808aa347504
 title: "BuildApplication"
 kind: api
 owners: [Inno.Build.Cli]

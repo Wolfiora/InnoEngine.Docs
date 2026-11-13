@@ -2,7 +2,7 @@
 uid: api.98658eef2580fe98c737aa0ac0416eef6778ad5f3883614f4db9a6243616e798
 symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.#ctor(System.String)"
 source: xml
-reviewed: 6421b2bd88595fd78a205a07bd34e48077ee50ab4dd5f3651babbb22a0d3856c
+reviewed: 54ccdeb501d4792c3a3e5033f37395687060d1e365086dd5ddba5853a3981cdd
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Layers]

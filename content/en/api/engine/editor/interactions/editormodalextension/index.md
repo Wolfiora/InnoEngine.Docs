@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.edcec1edcce291e9
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorModalExtension"
 source: xml
-reviewed: 089eda60dac823d03761c5051306fdb510eba6da58aa6c9d23087af9f013975d
+reviewed: bbc230e1231d8ff003d4152ce644dffa571809e3813c46536e0afd116cea29dd
 title: "EditorModalExtension"
 kind: api
 owners: [Inno.Editor.Interactions]

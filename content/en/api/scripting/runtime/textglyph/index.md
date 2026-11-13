@@ -2,7 +2,7 @@
 uid: api.inno.text.runtime-script.f5cf530460164940
 symbol: "scripting:Inno.Text:T:InnoEngine.Text.TextGlyph"
 source: xml
-reviewed: 5f628fdfc3b8a631fbeb67657cedd0bd2a9a674666c5d4800b563a98a3b0dadf
+reviewed: b584a1516a160db000c7e8a4e0a90b41a4177242796f8b0486fa389f4bd8b1ec
 title: "TextGlyph"
 kind: api
 owners: [Inno.Text]

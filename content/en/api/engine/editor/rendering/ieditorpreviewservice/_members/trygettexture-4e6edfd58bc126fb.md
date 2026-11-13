@@ -2,7 +2,7 @@
 uid: api.4e6edfd58bc126fbd63961e94e740570db89d6e6188f761b2bbaeb4173392d89
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorPreviewService.TryGetTexture(Inno.Rendering.Assets.TextureAsset,Inno.Editor.Rendering.EditorPreviewHandle@)"
 source: xml
-reviewed: a533b7d3aece236c5e403e31a8854816694e6a87beff72c3b20ba516d04c0a09
+reviewed: 0d1a5c8eb250891d16a6d33fdbd2ad23f1bc9b9da573d1e831f29ed578594541
 title: "TryGetTexture"
 kind: api
 owners: [Inno.Editor.Rendering]

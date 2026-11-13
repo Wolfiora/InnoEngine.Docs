@@ -2,7 +2,7 @@
 uid: api.7dee0832ed0a29b1f762e4e9647c236fb18c9105347fe6e4aa93bf0a47743eab
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction.Cancel"
 source: xml
-reviewed: fadfd43a9a262ba2d340843ebd223729aaa69e9df785c1aa74a7a0a3b3027229
+reviewed: 9fecb8d6303557e46fee128017d6c186ff71886e47d39912dce74c5357ab1150
 title: "Cancel"
 kind: api
 owners: [Inno.Editor.Interactions]

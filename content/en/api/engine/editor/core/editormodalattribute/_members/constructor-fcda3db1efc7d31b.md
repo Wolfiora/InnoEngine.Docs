@@ -2,7 +2,7 @@
 uid: api.fcda3db1efc7d31b1ea274b52a125d91b63d328e655ad554064170d3dcead309
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorModalAttribute.#ctor(System.String,System.String,System.Int32)"
 source: xml
-reviewed: d73fb6a18e4ac3d5b8eab4f404be9dc30f7974c7f05229ee387c16a79b321a6e
+reviewed: 2e5c1cda0deeed70058ca4b1d8b7033b748fe7819dd9586670d5841c33b4d31c
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Core]

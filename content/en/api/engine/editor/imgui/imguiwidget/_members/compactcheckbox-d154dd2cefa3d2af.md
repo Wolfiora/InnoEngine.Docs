@@ -2,7 +2,7 @@
 uid: api.d154dd2cefa3d2af506c42bd317e15c7aba519c77e82c1a7f09b0a233354adba
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CompactCheckbox(System.String,System.Boolean@,System.Single,System.String)"
 source: xml
-reviewed: 7383ab3b899e459a53f2f562722521b2ad7c5b4c962bf0e9dbc108d6afec575e
+reviewed: c8f77a2cc62591b7224632b5f9aadb2a65f0b479dc11a773b471fe66a432fd7b
 title: "CompactCheckbox"
 kind: api
 owners: [Inno.Editor.ImGui]

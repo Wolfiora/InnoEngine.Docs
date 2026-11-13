@@ -2,7 +2,7 @@
 uid: api.e279fd98085f3ac3186c28dd80b2586bc56d507d2d2f6a0cafa785a38820c3ea
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.TryCloneComposedDefault(Inno.Core.Settings.ProjectSettingId,Inno.Core.Serialization.ISerializable@)"
 source: xml
-reviewed: 5497babf58e8ca71d79546e08755270e16f44938494d1d96cc718b69b4fc2f8f
+reviewed: cc298fdbb25a119ae946c652c2b1bc32899b67698c1d2510f50978de5f900ddb
 title: "TryCloneComposedDefault"
 kind: api
 owners: [Inno.Core.Settings]

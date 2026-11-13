@@ -2,7 +2,7 @@
 uid: api.46b07f2f198c6384aebe38507c64bbe475e7a161b66ede0ee03cd0e454ff9ced
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetChangedEvent.oldRelativePath"
 source: xml
-reviewed: e7bbe1b20c64dd803eafc5382ac00794493b64c79da49be646300fa0978872d8
+reviewed: bd056bdadb991f9b92ec802c3405feb4c6bc341e66cb343363a4f2ba261f5c38
 title: "oldRelativePath"
 kind: api
 owners: [Inno.Assets.Pipeline]

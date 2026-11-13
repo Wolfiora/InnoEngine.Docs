@@ -2,7 +2,7 @@
 uid: api.inno.editor.playmode.9ce09b2dc7b41bf3
 symbol: "engine:Inno.Editor.PlayMode:T:Inno.Editor.PlayMode.IEditorPlayMode"
 source: xml
-reviewed: 74c4ef7e8a83d9d8fe5215d5316ae6c5a4e3458f1af9ce5be6a43a56b9dcd8b5
+reviewed: 67d978f52ba772f12e3ebf170a6bee66cef5d89b33072cfc14c031b39218ebc9
 title: "IEditorPlayMode"
 kind: api
 owners: [Inno.Editor.PlayMode]

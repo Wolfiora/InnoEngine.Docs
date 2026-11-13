@@ -2,7 +2,7 @@
 uid: api.6c659d0fd1e332a6102508b061e053b9d5b16c810239d259092a284bdc4f1624
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiMouseButton.Count"
 source: xml
-reviewed: f5f9fe3700cd6fa6d627075162dacc0a821dee046692f5efcae73fe4870108ed
+reviewed: a02f92df5e5407008bfd3ddb3a2d22c2b8bb8f2036e93fdfc7b877a4c0ac5a80
 title: "Count"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.28ebd64d132a7d1005564f638f4985965501e93b6046fd8f5207b0da54180f96
 symbol: "scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderView.visibilityMask"
 source: xml
-reviewed: bf5871a0ca7dc24f0772daa120258345878cebd622acb8387d805fcca699584e
+reviewed: 2a37d9a5c48be9ed80521b336c2af5e9527d4f86ea1b6fb1bdc9c63dd4f0b555
 title: "visibilityMask"
 kind: api
 owners: [Inno.Rendering.Runtime]

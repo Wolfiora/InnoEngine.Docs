@@ -2,7 +2,7 @@
 uid: api.62c496951d8ce2160390b519ad545dc4d95893110f3304157ff247728eba4e92
 symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.OnBeginFrame(Inno.Runtime.Contracts.RuntimeFrame)"
 source: xml
-reviewed: 5a4f872d54968c3a015ee31ff0645810c2aea93473a54ac247d6015f7afc9abf
+reviewed: d8534a81987a700ffe8cbd6f0a51089bf3698a5e0c193898c476302e174ed439
 title: "OnBeginFrame"
 kind: api
 owners: [Inno.UI.Runtime]

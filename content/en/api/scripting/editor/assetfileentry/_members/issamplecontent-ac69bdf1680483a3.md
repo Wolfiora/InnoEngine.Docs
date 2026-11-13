@@ -2,7 +2,7 @@
 uid: api.ac69bdf1680483a355487c695b0dfa525346edd8cfd9ad58d1a5ff4f7b1b0078
 symbol: "scripting:Inno.Assets.Pipeline:P:InnoEditor.Assets.AssetFileEntry.isSampleContent"
 source: xml
-reviewed: 21e79540ed980aeafe0ed6f30269477d1899e4159c39937ac9734cd2f2f9f038
+reviewed: 123ceda5725237332a994c566294eff45a4741dc1dc8e1b914aa429bc768b7d0
 title: "isSampleContent"
 kind: api
 owners: [Inno.Assets.Pipeline]

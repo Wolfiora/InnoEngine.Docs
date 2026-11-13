@@ -2,7 +2,7 @@
 uid: api.6e2b7852dde7f3ed0e34b83a6c3b019d2b2fb3b8e4e3c6ad1965b74f33827e03
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.EditorSceneWorkspaceFactory.Create(Inno.Runtime.RuntimeSession,Inno.Assets.Pipeline.AssetPipeline,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Logging.LogRouter,Inno.Editor.Interactions.IEditorSelectionCoordinator)"
 source: xml
-reviewed: e27bcc975ef59e8dcf6f6b179a10d069c9411ec5792b130e3cc5c48382462383
+reviewed: 692d731e2fbbfb0249a03f2b83bb563e25f4a899b178a134b9ed6195b64789fc
 title: "Create"
 kind: api
 owners: [Inno.Editor.Scene]

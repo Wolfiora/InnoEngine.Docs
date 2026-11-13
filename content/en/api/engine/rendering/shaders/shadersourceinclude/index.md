@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.645b08a55926df12
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceInclude"
 source: xml
-reviewed: 1488566b62e7ef4635152261cee4a5b33c06fd28d12a16ed6188f9fc12ac145b
+reviewed: 40885e8e6af3b5c32aed49aa8133409dbf286dab31be308886502a635d7bcb55
 title: "ShaderSourceInclude"
 kind: api
 owners: [Inno.Rendering.Shaders]

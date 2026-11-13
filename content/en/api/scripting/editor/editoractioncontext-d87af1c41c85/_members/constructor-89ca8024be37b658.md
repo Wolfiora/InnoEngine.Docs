@@ -2,7 +2,7 @@
 uid: api.89ca8024be37b658f7fb6422f95e4c8a5ee9ce988abfdad29967f9b59d0e8046
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionContext\u00601.#ctor"
 source: xml
-reviewed: fd7bae55dfb7630e17636cd94378744ff4061fba5f337c51bcdf7888f0a3af0c
+reviewed: 288ebcef1835f91dc371d1f9770eaf5e8223b2cd303fb89a87ad776af18b8367
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

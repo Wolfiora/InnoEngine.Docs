@@ -2,7 +2,7 @@
 uid: api.643d3da21289712bf3b1f506684d939adcf872d7234d0425bb6e6fbe444157c6
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DragDropSource\u0060\u00601(System.String,System.Func{\u0060\u00600},System.Action,System.Boolean)"
 source: xml
-reviewed: c8ec5311f91039e431e61485c600fadd3d4b96f834f607acd54b92348c97bd54
+reviewed: aa5de225d7b5129f994d14b4df0b44df0b4254d75bee2115b3132368a570306a
 title: "DragDropSource"
 kind: api
 owners: [Inno.Editor.ImGui]

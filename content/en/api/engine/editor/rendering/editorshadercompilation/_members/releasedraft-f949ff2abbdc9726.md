@@ -2,7 +2,7 @@
 uid: api.f949ff2abbdc97264e2d16cae6c5c05cb2f0710c14eba7718a36966d17637599
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorShaderCompilation.ReleaseDraft(System.Guid)"
 source: xml
-reviewed: 917473d6827a6c00d2680c6d0bbb4985124a690573fb14a49236e48c5217fbe3
+reviewed: 8c5a50e62355c0cea19cc9b6152600fcf14daca68f3a79d06257f9f5efc21a48
 title: "ReleaseDraft"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.7db58ea7fe6ccb4b
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorViewportFocusBounds"
 source: xml
-reviewed: 4055756843a92ba35e6a9db0de1022fc0989ab0786913460b591fb8d81b26f9c
+reviewed: 40503d440249e4e2bdc97ec080c5c543503c9096e4d66c2d6430edf9d2b88721
 title: "EditorViewportFocusBounds"
 kind: api
 owners: [Inno.Editor.Rendering]

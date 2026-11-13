@@ -2,7 +2,7 @@
 uid: api.a3d455dcde931dc8582f1e1dc983d662843a66d1e0c22fc9753cc07d9dca0e8d
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderDeviceAllocationCounters.frameBufferAllocations"
 source: xml
-reviewed: c070e5f9cefdd2211b884225a885a986bba819cc6588fb9188db78025d53d636
+reviewed: d7e4b51e4eeefee51e140f5004aaa3a5732c4fc3c4440d1870b1df48a55e1fc8
 title: "frameBufferAllocations"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.063aa1ad6fe4d8db7e2c7c0721344a84478e3936d348415c14c15a8bf1eccd0b
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsApi.#ctor(System.String)"
 source: xml
-reviewed: 4a67a127cf1f2ed517986b440fd9d1f7c4d4a6cdf47971598967546a280334d3
+reviewed: a5eba5c8722b28f74e8bee445959b57fe15eb36c0ed3cb33dc97130171c9f78d
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.2599162beaa2137a65997867349ae98e3511192ed81577fa6092611abf81f2d6
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderPresentationSize.ToString"
 source: xml
-reviewed: 168a4cb03511aef493c54e5c8144e3f81343260891cd1132c19885d8c7cc0b58
+reviewed: 4a7b88d897a9981949803be851b855fcb288bb9636f0d386d712b024976fa611
 title: "ToString"
 kind: api
 owners: [Inno.Rendering]

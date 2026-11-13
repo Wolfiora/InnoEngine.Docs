@@ -2,7 +2,7 @@
 uid: api.392c14137909aae96bf774fde7ea085b0e82b77f76fd6833d880513fe2c1217e
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsDoubleArray(System.String,System.Double[])"
 source: xml
-reviewed: 6ce739040f1e4be432d3b74ff1f1e581cca467aee727bfb1079a203c92459734
+reviewed: 51090238c824e0fffdf98b54871d185d7679d5ddd52a6210c51b8b008aa03fba
 title: "GetAsDoubleArray"
 kind: api
 owners: [Inno.Editor.Settings]

@@ -2,7 +2,7 @@
 uid: api.0ed63c18c8695b4d467f045da26502a632477e30c1a98e192a04b29af9a73914
 symbol: "scripting:Inno.Assets.Pipeline:P:InnoEditor.Assets.AssetImportContext.sourceBytes"
 source: xml
-reviewed: aa714b6d320a8b4be557f33a11734af12f524af41a248d05c93fcac1235158fa
+reviewed: 26e6dd01fedd584fda05deea34bdc8c2466b710baf0cd965e38d171e706bb3b1
 title: "sourceBytes"
 kind: api
 owners: [Inno.Assets.Pipeline]

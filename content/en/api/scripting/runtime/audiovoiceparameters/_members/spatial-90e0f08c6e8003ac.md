@@ -2,7 +2,7 @@
 uid: api.90e0f08c6e8003acd2eef4822e293648fef239c19b4552021830c010f00ea145
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioVoiceParameters.spatial"
 source: xml
-reviewed: 4b50ce7890f9c84e4b1be10eb403d74218c96b47c994e49db776f2c5fbd3cef6
+reviewed: 20f14f6efcd8d7c556034030506e204328a999f672a2bff2d90d798943381565
 title: "spatial"
 kind: api
 owners: [Inno.Audio]

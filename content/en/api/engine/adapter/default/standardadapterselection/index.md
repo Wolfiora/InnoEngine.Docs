@@ -2,7 +2,7 @@
 uid: api.inno.adapter.default.7295e25468fef3d1
 symbol: "engine:Inno.Adapter.Default:T:Inno.Adapter.Default.StandardAdapterSelection"
 source: xml
-reviewed: 82ff661586a4ebb27c5a2d9b3c6740ff8e55d5d50572f36718e711a782d30e67
+reviewed: 5ed561de5af06d5c223e06f27fc9c49d9a60b83d03b2f398711bb24933039a82
 title: "StandardAdapterSelection"
 kind: api
 owners: [Inno.Adapter.Default]

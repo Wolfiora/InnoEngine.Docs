@@ -2,7 +2,7 @@
 uid: api.3580ecdb3f4e989555c51b9f5661d3af241035771fccc7989824c2a33571edfe
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.IAssemblyCatalogSource.IsFrameworkReference(System.String)"
 source: xml
-reviewed: 4c0dec69192549aa635ccda874af65886387204b6a41385a628c43954d592aca
+reviewed: 72dc29f7b026d1e3a2c175b9cdecd2a340fa662a26ce1dea5e1645cb3a471f5e
 title: "IsFrameworkReference"
 kind: api
 owners: [Inno.Extensibility.Modules]

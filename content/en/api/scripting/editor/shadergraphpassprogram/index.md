@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.6ea21c734b654dda
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphPassProgram"
 source: xml
-reviewed: 53fca6e30c5e693d51b45419090498a07e7cc6ecd6ad2d909a511b87c7784901
+reviewed: 9812fe79e70b18a1b8e5804b459caf7ace8978a30aa0d3c529b7a38d68adc8f6
 title: "ShaderGraphPassProgram"
 kind: api
 owners: [Inno.Rendering.Shaders]

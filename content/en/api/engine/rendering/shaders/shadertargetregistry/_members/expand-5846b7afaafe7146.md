@@ -2,7 +2,7 @@
 uid: api.5846b7afaafe714628cbc40d9e07374aa63876bd69c60f0b193af966e697ed85
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderTargetRegistry.Expand(Inno.Core.Graphs.GraphDocument,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)"
 source: xml
-reviewed: 5137a9fd0a0c2e8ec50ca92ee5e13469eddb2c016f95bf1b7c47fb4ba29b34b6
+reviewed: 495a928258d5f340c2b492fa8d395ae01d4805dc73b9fcdead5fab22350c7da8
 title: "Expand"
 kind: api
 owners: [Inno.Rendering.Shaders]

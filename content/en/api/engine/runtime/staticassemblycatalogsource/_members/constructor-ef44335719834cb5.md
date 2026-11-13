@@ -2,7 +2,7 @@
 uid: api.ef44335719834cb54ec76de358e7a6167d85f3e385e31ca1370bfeaf17013c06
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.#ctor(System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly},System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly})"
 source: xml
-reviewed: 4682c183c82526a7a901fd2b2f5d5f7ed40ddf8e451664fb98035544e4b1206c
+reviewed: efb5c26bf602185d989c8a5aec3bebeffdeb000c9fc16d9c5388b6ad3dbf0cb1
 title: "Constructor"
 kind: api
 owners: [Inno.Runtime]

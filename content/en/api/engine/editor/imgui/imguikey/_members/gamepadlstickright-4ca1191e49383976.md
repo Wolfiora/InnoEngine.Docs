@@ -2,7 +2,7 @@
 uid: api.4ca1191e49383976e7a7fd008dca55e4c6517246c1b98c894b75362073e2709e
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.GamepadLStickRight"
 source: xml
-reviewed: 404d1447e007b6256fdfec7f64d144c98c0d17a7f6eb377ae8dafc0c9f92c249
+reviewed: 1e3ed166ad9e8ccd1a99d57c4449734ded6d970b3de1dbff898d23814a5fb26c
 title: "GamepadLStickRight"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.build.managed.a150216bb34fa498
 symbol: "engine:Inno.Build.Managed:T:Inno.Build.Managed.ManagedDeploymentRequest"
 source: xml
-reviewed: e00d29e98eee36a1946f48c203ff9c972cadcd4f298b46a1d5687937cbfd671e
+reviewed: f1c9b86971fb2b698f89e86fdf712fde8e0c8db6cdd12c803d8cb8ec2b46daba
 title: "ManagedDeploymentRequest"
 kind: api
 owners: [Inno.Build.Managed]

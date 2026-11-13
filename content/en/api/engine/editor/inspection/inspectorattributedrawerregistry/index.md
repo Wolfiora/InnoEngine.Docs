@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.e185291d28d48ed6
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectorAttributeDrawerRegistry"
 source: xml
-reviewed: 09a1c45ed837d9c93aa87d3f1aec1bb3d05ccd6ad03e31e0dbcab7e8605e44e9
+reviewed: ed010e20b9f71f2eb2102e110eb697687e5833e87f1de9254e8b61f9f4060b30
 title: "InspectorAttributeDrawerRegistry"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.e3f0e87b7210873c77c5a8bbaf1f3e88aa3116e50f7805ba785d10a533857738
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderBufferUsage.Uniform"
 source: xml
-reviewed: 6fed4d98b48be048c4c78561bac628552e145538335ec530900425bb31700dec
+reviewed: f6132c37fb4399d9a4711807dde3db5f40ae4a59f7d2e8a023ee50dedc74c5a8
 title: "Uniform"
 kind: api
 owners: [Inno.Rendering]

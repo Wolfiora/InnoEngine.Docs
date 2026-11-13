@@ -2,7 +2,7 @@
 uid: api.227ab053e20dfea69ae3ead1c4545ee24a7ddfa7fdc2370095dcc0a972b93193
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayer.Equals(Inno.Scene.Layers.GameLayer)"
 source: xml
-reviewed: e606f72b961269e7982aece2d581e5effa76c428b72d9ef3c1ec9c1bc7209b4e
+reviewed: f8d9beadf672c3af0d02da2acf7d3840e6c3a8aa24a1c0858db98217006a69b2
 title: "Equals"
 kind: api
 owners: [Inno.Scene]

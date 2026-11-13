@@ -2,7 +2,7 @@
 uid: api.7292a7c71ad6fdf087bb7ad80d9ebc0bb0e543a267e55a2e9ccd1be996ad7c36
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawerRegistry.Dispose"
 source: xml
-reviewed: 403fdcdee6627b4c8cf2252df7866ad509ca520f167d11039eb5fc4e7f320f0d
+reviewed: ab79daf8bd81eeecb3afe4741c2989e3987758e3cd1678431b8e434befd4d5e6
 title: "Dispose"
 kind: api
 owners: [Inno.Editor.Inspection]

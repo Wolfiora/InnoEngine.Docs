@@ -2,7 +2,7 @@
 uid: api.319253da83870dbe85b779d10ffb605856e9ff31c3f016c7f7801d5e33c3d7b2
 symbol: "engine:Inno.Build:P:Inno.Build.BuildSettings.gameStartupScene"
 source: xml
-reviewed: 9a9149ca6753a88e8d43d1099498c4840b7a9620000b3091aaa6f9108ddfe6da
+reviewed: 5cfd7a54e6b181e90b20d45d616beaa932d44f7e0b07e1688b9c96ea3067365d
 title: "gameStartupScene"
 kind: api
 owners: [Inno.Build]

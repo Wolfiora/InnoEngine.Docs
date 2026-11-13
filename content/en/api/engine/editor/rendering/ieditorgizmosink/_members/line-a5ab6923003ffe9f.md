@@ -2,7 +2,7 @@
 uid: api.a5ab6923003ffe9f4d45e0f3b7a693002884ea807157804c8e8dd401a8af5fb3
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorGizmoSink.Line(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
 source: xml
-reviewed: 5f7d45deb0b13aa5db9dd9040e06180765d4689c67893398afd14a32a09adab3
+reviewed: 576dcd6b6ac0c0feb3c28685c479934fdefa282169cd18daee987fe2408b29de
 title: "Line"
 kind: api
 owners: [Inno.Editor.Rendering]

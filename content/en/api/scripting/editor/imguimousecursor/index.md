@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.5232a341cdc3475d
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiMouseCursor"
 source: xml
-reviewed: 523c6b18aec905a68ecb04a9d9d0a15751c363527d4ed089ebf0357cf28eed41
+reviewed: 6ff3ac76eef6ec8c3fa766c4897029f4fb5fa3b05ca8acf4a6760fbf240fd65c
 title: "ImGuiMouseCursor"
 kind: api
 owners: [Inno.Editor.ImGui]

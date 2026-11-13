@@ -2,7 +2,7 @@
 uid: api.6aa667bdae8e0527a176c7d6cec4085010482667b3b61bff84300a22ef9ab9a2
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.AddEdge(InnoEngine.Graphs.GraphEdgeRecord)"
 source: xml
-reviewed: 3aad60eee71a4bce5ab1d28fffb9d9eae1557efed9e5d408b8534ad48e71448e
+reviewed: e3e212eeb44c47d13fcde2cb5a815a03ed0e2ce92871b92e95e7b2fb9796c345
 title: "AddEdge"
 kind: api
 owners: [Inno.Core.Graphs]

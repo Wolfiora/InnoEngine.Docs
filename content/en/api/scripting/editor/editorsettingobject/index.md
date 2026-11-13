@@ -2,7 +2,7 @@
 uid: api.inno.editor.settings.editor-script.e8c130d6a5865e5c
 symbol: "scripting:Inno.Editor.Settings:T:InnoEditor.Settings.EditorSettingObject"
 source: xml
-reviewed: 0c899d96065b4b4b0aec28038eeac62b95ca271ee6710c99da45a5fbb312e8ea
+reviewed: 8c1b0e82b4f7a5b28fe77af53caa0d8bfed90af3188c8477b8b1ad2f65b37dda
 title: "EditorSettingObject"
 kind: api
 owners: [Inno.Editor.Settings]

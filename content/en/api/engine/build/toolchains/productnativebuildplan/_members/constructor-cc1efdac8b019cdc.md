@@ -2,7 +2,7 @@
 uid: api.cc1efdac8b019cdc4da31c2a481c48a675026841ad647bd5091fb40f6da81f14
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildPlan.#ctor(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.ProductNativeBuildStep},Inno.Build.Toolchains.NativeDeploymentMetadataFactory)"
 source: xml
-reviewed: e0216976ed85888451e0df251ec3af028476a0829352b76b3879d6580e15f20d
+reviewed: 6f5abff2340955178fc9fb3eb7515a42f76ebe8e38bb86b49e71e7af9f2f3e54
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

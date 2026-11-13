@@ -2,7 +2,7 @@
 uid: api.727be04fc2c4b18cc3fbabf65fa42e086c409243c278cac1658b8d2358d1ae41
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderRasterState.colorWriteMask"
 source: xml
-reviewed: 0c5191d89681efa102723b3e65081dfed837b43ca6a25bb5a5c7617ddbce8058
+reviewed: 6ea81dd1f33ee89e4cf907d8d1646d10d446b437354fda84612b677844d61ea8
 title: "colorWriteMask"
 kind: api
 owners: [Inno.Rendering]

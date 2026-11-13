@@ -2,7 +2,7 @@
 uid: api.7cc95766f596f33ac1afe582ff81a06f7f08c9cd9c3c438c5e59fdb62b7e941b
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.SetNextTreeNodeOpen(System.Boolean)"
 source: xml
-reviewed: 0a5fce34e75aa67cf4480ade68b298297a46eb44a681095423b07561db495812
+reviewed: fc411753fc303a17122cb8e9dca2e2afb52019c8baf1f0420c4a94ae384250e1
 title: "SetNextTreeNodeOpen"
 kind: api
 owners: [Inno.Editor.ImGui]

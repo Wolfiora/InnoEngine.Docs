@@ -2,7 +2,7 @@
 uid: api.inno.text.ef32529435b6d56c
 symbol: "engine:Inno.Text:T:Inno.Text.TextLayout"
 source: xml
-reviewed: 4d7241903707cbaafe77e52ca8eec83def880b20477b525315ecfc321b05e65e
+reviewed: bfc84bcd39b7628f93b8e44c56252af5b201deaeb67c63b10b24ca9b64eb61f5
 title: "TextLayout"
 kind: api
 owners: [Inno.Text]

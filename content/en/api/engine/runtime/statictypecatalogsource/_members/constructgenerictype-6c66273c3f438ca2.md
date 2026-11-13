@@ -2,7 +2,7 @@
 uid: api.6c66273c3f438ca2d48c84b56f0fe39fbbc6925717321c67fc575066150f9e85
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticTypeCatalogSource.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
 source: xml
-reviewed: f75f3d4790a2d453cdab4639d12d64e97cd03682391e32044e080a1d362d0e9f
+reviewed: 0bf4502cc698f4ac96750da1a3ec598fb1c0bcd6c6a9fbbf94c7f6d53845ccab
 title: "ConstructGenericType"
 kind: api
 owners: [Inno.Runtime]

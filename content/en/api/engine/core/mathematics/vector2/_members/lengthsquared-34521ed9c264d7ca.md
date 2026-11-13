@@ -2,7 +2,7 @@
 uid: api.34521ed9c264d7ca05b797e802983e6d01247841dd2ace42dc6e108dc7326c62
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.LengthSquared"
 source: xml
-reviewed: fb9bb3d9df93cf1aa6d7930f45ad5222bf8821f5e10edec073aec702a1ad29ce
+reviewed: acd99acac0d73c1b7858a392062686e4ce36f98f01146f2cec4597356417c4df
 title: "LengthSquared"
 kind: api
 owners: [Inno.Core.Mathematics]

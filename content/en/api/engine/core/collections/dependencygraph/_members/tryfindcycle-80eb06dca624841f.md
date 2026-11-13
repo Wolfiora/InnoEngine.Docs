@@ -2,7 +2,7 @@
 uid: api.80eb06dca624841fc335b4775d2b545024bbed4414efea17ec8c1e11c9c01e34
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.TryFindCycle(System.Collections.Generic.IReadOnlyList{\u00600}@)"
 source: xml
-reviewed: ddb5b7bbca85f4167b82858a460613cf67091a62048912a7f84c60f563c58fe9
+reviewed: 368ad6887041e93e7f66f1a1f8fdb002aaf07380f64eb3fa6edfeb681af21a20
 title: "TryFindCycle"
 kind: api
 owners: [Inno.Core.Collections]

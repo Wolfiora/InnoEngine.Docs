@@ -2,7 +2,7 @@
 uid: api.c9915f9ae0204b7a5ecdc035035958c609338532973b5f67ed10c9f2dad5bbb8
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationConverter\u00601.Restore(InnoEngine.Serialization.SerializationReader,\u00600)"
 source: xml
-reviewed: 027af77bc6f3370c2125e879282420d49b52720296ea762fdde7db78ce47f1c5
+reviewed: 881b28ab65a435873a25a6c61e8bead6818c0b7bba50bc1a5fc416ee4fcf9bea
 title: "Restore"
 kind: api
 owners: [Inno.Core.Serialization]

@@ -2,7 +2,7 @@
 uid: api.e679c0a0093eeaf7a8e0d4e63b723a7447cb693ef9ef8c4e1d48911f662be87e
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetExecutionContext.EnterScope(Inno.Assets.IAssetLookup)"
 source: xml
-reviewed: 3dda241e6b4542de3991bfaf06986989d79b58ec9ab3fc0d003a03d2db51ee9f
+reviewed: 24e0a53236ad68966bfcfeb0647cb3d7d431265e1105558859cede544852e781
 title: "EnterScope"
 kind: api
 owners: [Inno.Assets]

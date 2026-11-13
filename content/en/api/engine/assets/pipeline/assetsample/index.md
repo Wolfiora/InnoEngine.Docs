@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.fbb3301a05e67b56
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetSample"
 source: xml
-reviewed: 8f989fa9e60025b76b4b4b423f885c38963128a3b3ad400179f4cd3adaedcacd
+reviewed: a36a52e0c207859bae0143676adba9bbed3b282407ace8714a89e507ca20956a
 title: "AssetSample"
 kind: api
 owners: [Inno.Assets.Pipeline]

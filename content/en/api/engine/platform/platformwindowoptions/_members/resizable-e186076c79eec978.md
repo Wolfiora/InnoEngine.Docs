@@ -2,7 +2,7 @@
 uid: api.e186076c79eec978874dbf0f1ffc293588117e4857e98a586a3f2f9be6fab0f8
 symbol: "engine:Inno.Platform:P:Inno.Platform.PlatformWindowOptions.resizable"
 source: xml
-reviewed: 5c75bcf6d98f45e190b0bd4adb25f65aba42fdc8d3f8dcc30ab105a159ebfcc6
+reviewed: e0b2fc9c2c9d0623cdf1128bbf0b9700130ec4a6903265bdfece8f28c78bcd2c
 title: "resizable"
 kind: api
 owners: [Inno.Platform]

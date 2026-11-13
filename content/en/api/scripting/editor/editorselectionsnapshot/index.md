@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.0a859c8fe0f56fc0
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorSelectionSnapshot"
 source: xml
-reviewed: ca845c9b692ea59b7e553c1e6731615a6089b1f781be930cf2f3d79fe2faa19f
+reviewed: c10323a809fea793f924e3666de3a80e78468da7f38a4e6b18ae3e2c7c27695a
 title: "EditorSelectionSnapshot"
 kind: api
 owners: [Inno.Editor.Interactions]

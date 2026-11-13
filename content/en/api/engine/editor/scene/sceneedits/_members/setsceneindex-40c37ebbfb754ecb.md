@@ -2,7 +2,7 @@
 uid: api.40c37ebbfb754ecb784588d1307d8d77e6c503380676d80bc70839d0cb990c1a
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.SetSceneIndex(Inno.Scene.GameScene,System.Int32,System.String)"
 source: xml
-reviewed: 9c6b06741e08baa05ac508e834b15c492957c31222522be4b8f3c5e43d5516e8
+reviewed: 8c4a4606abd2b0baf6b85a9613afa02fb59a7609d99c15ac701bc01f4ab7f9c1
 title: "SetSceneIndex"
 kind: api
 owners: [Inno.Editor.Scene]

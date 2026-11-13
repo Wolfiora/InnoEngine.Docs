@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.fe6c6fcbef1f0bc3
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderStageBinding"
 source: xml
-reviewed: e0cb455dde192d301a852ef26a21051d84b20a6c2cfb7a364afa0efa4699e8c0
+reviewed: ef41d2137e0ddee965181594954bee5e13aa655ffd9877148d7a359bf276b265
 title: "ShaderStageBinding"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

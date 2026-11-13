@@ -2,7 +2,7 @@
 uid: api.0e8e5f1e9af647a603d4564b8e02cb1c280c9d3de87bf223c1c5ac7250717900
 symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.LogSessionId.Equals(System.Object)"
 source: xml
-reviewed: c6d0693cb001cec6534ed4c822ae27c0712ee4c5f9229e300093fb961ea7e419
+reviewed: 2dfd9682cece59b26f927c596b149ea3645aa032999c3742a7e5a202a9deaea9
 title: "Equals"
 kind: api
 owners: [Inno.Core.Logging]

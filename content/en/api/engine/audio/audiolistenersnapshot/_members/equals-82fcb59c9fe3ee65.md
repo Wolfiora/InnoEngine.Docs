@@ -2,7 +2,7 @@
 uid: api.82fcb59c9fe3ee652a9ac6ecfb25950c0e3440abd3c41cf2acc77376fa78b953
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioListenerSnapshot.Equals(System.Object)"
 source: xml
-reviewed: 9cfeb172f0fe189fbb7b111755cbed5d009ee5db1d64bdd53f942626ff398f81
+reviewed: 5fcc90fa5a575f5a8bb5d31ecb55b9fb783513a994d51b3f11f1a94bfaaf2a09
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

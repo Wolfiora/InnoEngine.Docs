@@ -2,7 +2,7 @@
 uid: api.c2fe51bb4ee44b464154aaffcc37da62e92a29be6f12b72a2c233d62e32d6e62
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDeviceLimits.#ctor(System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: 0ee804b021a14388d9b5d3c5dfd8a157d273a4f83c1f98a750dd848722cf1b6d
+reviewed: 1b15a64cb0236b40412b9fc289c57a8e4c6e6becadbab70b51520a4932d53182
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

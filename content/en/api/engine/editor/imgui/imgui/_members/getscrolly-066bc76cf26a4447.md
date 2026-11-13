@@ -2,7 +2,7 @@
 uid: api.066bc76cf26a44474586df16e1921eb6d0f563339823832c15035ac44e9e5776
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetScrollY"
 source: xml
-reviewed: df2fd63f129a1062b7e617011b630a36715c1ab1a86b0cac138779bc0316530f
+reviewed: 82337e830c6f98a114399a62c4b2f286d0b2de888801ad9eacf096405b42710c
 title: "GetScrollY"
 kind: api
 owners: [Inno.Editor.ImGui]

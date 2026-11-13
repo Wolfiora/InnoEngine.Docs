@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.c6bb11d4e5b4ccac
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorStatisticId"
 source: xml
-reviewed: 9dcd14a68f1a035289e8a0d60493afa1dcfb304fb31b451b49871242463a6413
+reviewed: 96374f6bab0a1c8f8c6ad5d87ca0527396e67e8e26ff4163734e1d3778c41a7f
 title: "EditorStatisticId"
 kind: api
 owners: [Inno.Editor.Core]

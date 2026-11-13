@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.96c8c9dc5b950a71
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.NativeAssetSourceSerialization"
 source: xml
-reviewed: 8a37abe936dd93a69015f3c0efead28e40a7909a3b7b5905aae512373065577a
+reviewed: 9ff8f4f80001f609f7db5f3b2046e0501ce70625f8f34fb827d6a2211942f303
 title: "NativeAssetSourceSerialization"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.a757c658ed78fe1cd1cb6f49d2ebb123bda504c8133acec137677183063b4ed8
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.DeleteDirectory(System.String)"
 source: xml
-reviewed: 6d01c5c11613d30f6b1595ccaa1c2054b9e7618fa44b0bb6c2d7dfc6ee940a3d
+reviewed: 5e81a5f5b10482cea54d9b64c8bfd93270fbad513201c89a7f52defa9ddca4aa
 title: "DeleteDirectory"
 kind: api
 owners: [Inno.Build.Toolchains]

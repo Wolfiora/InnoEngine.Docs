@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.89bc0e8644d48554
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderIrOperation"
 source: xml
-reviewed: 002f3bca973cf6a4f09dea44de47270dea7ba0f7e2a40a5c93c2e7165d2b7990
+reviewed: f5858bc0f4e2beeb6654864d082157b5f576484c2607630f319b2b0731325c0c
 title: "ShaderIrOperation"
 kind: api
 owners: [Inno.Rendering.Shaders]

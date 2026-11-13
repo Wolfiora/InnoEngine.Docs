@@ -2,7 +2,7 @@
 uid: api.42b1c0be3ddf428801a659202883bd8f27ee6befd5b2859c2086e2e5d4ed9b7d
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsItemActivated"
 source: xml
-reviewed: 213bb357fc9369cbb5beb88af8c8f6b39fcaaa051131a96e57540e197c7ba886
+reviewed: 492f05071b2c70df413a4a856ba2c86f5dcee8124951f4c2a0c67ee3a5bf1a20
 title: "IsItemActivated"
 kind: api
 owners: [Inno.Editor.ImGui]

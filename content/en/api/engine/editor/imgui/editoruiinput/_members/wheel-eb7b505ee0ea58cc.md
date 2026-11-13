@@ -2,7 +2,7 @@
 uid: api.eb7b505ee0ea58ccd7d7c9fdaccb66e1a81095446c387282c0f1d12f407c1048
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorUiInput.wheel"
 source: xml
-reviewed: 5e97617ffbb2723af704a4af65e3f36e5129f475079fbf1ffb8f041fe2553069
+reviewed: 2f59415797a1c90eac1bdd9e2e711bbf20e451e9d243c90ef51e15f949b6f8ca
 title: "wheel"
 kind: api
 owners: [Inno.Editor.ImGui]

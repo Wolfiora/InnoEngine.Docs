@@ -2,7 +2,7 @@
 uid: api.c6614ccda69797a5ef129403f4a7fcc4234f81d52be5187babfec2ffa246a2c7
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsProgramArtifactCodec.Decode(System.ReadOnlySpan{System.Byte},Inno.Rendering.RenderVertexLayout)"
 source: xml
-reviewed: c8dffcf11668c38286d1bb18c65c7d5d32204e61b39e57ec2355bcbf797027ce
+reviewed: 3c6e772c64048cf17438981d86f255887ffbe985aff42a613e8debcfa9f021b3
 title: "Decode"
 kind: api
 owners: [Inno.Rendering]

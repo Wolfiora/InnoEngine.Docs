@@ -2,7 +2,7 @@
 uid: api.1e982d3d79bd745c931283d4eb7ec86195abdaf445523ebc72a791bbc587480f
 symbol: "engine:Inno.Assets:M:Inno.Assets.BinaryAsset.#ctor"
 source: xml
-reviewed: 2ed63cf7541f107fb020b36b36bd49346eef388882f9a348fa2fb293d5f78d6f
+reviewed: 1b87a5f23af6139e57eed14d60771a16f1ce863b972e171423c91ed488bc8f94
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

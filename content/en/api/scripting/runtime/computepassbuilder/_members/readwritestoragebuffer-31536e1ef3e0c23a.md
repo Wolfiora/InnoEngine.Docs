@@ -2,7 +2,7 @@
 uid: api.31536e1ef3e0c23acfcdb9ec0cfdff8e24725c3bd8591bea048796de689a0911
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.ReadWriteStorageBuffer(InnoEngine.Rendering.RenderBufferHandle)"
 source: xml
-reviewed: 1f841f36e4686f25af609faff9230e98c8dda20079df205997f75ff26ac742c7
+reviewed: 1c3f7ce265cea83f3108f5c6497f5f736ae4e445c04ef4b74b72ad0f7efe36b3
 title: "ReadWriteStorageBuffer"
 kind: api
 owners: [Inno.Rendering]

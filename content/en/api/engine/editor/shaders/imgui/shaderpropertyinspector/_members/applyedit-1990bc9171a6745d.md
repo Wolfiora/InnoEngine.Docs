@@ -2,7 +2,7 @@
 uid: api.1990bc9171a6745d09e6e302441adfd508360993c216c90161e277a7e8268f6a
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.ApplyEdit(Inno.Rendering.ShaderPropertyType,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue)"
 source: xml
-reviewed: 736b79bcd38e1213b9b3ec81084b0ae55c8e4511032f8d7f0c6be4fa5c34f23b
+reviewed: 0c96e2c0ca89666d3364cc9cb6aaf820afbe4d0f1e14becdf17f46d70cdfadad
 title: "ApplyEdit"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

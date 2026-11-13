@@ -2,7 +2,7 @@
 uid: api.a05b7ccd37fe44a404083b2fb051d8b4c75025e871173f0a2565b827a0c68072
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginBoundedCombo(System.String,System.String,Inno.Editor.ImGui.ImGuiComboFlags)"
 source: xml
-reviewed: 8d2df88e2e343608deef96bad8f25e369b865f6ee056d5f9c525a301787e2e01
+reviewed: a2cf0c592ab899f8d86f3a138c5526a26983fe9aaa9eb05e8c39b126ac17e96f
 title: "BeginBoundedCombo"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.57a69b90e40d98322a117a98b5f78855b1fddb476cdd0105a9de6123e59c07c5
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeSource.ResolvePath(System.String)"
 source: xml
-reviewed: 948c617f60093aba7138fc2d8f01b71d6e621cb180244bb20f4a90131911c844
+reviewed: 29b1251d488b678a55f0ffe51fd1f4b2aa7fa6ba091b6202faefa6111e8c07c4
 title: "ResolvePath"
 kind: api
 owners: [Inno.Build.Toolchains]

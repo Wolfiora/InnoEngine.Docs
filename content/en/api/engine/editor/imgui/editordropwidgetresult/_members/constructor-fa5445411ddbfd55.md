@@ -2,7 +2,7 @@
 uid: api.fa5445411ddbfd558ccbbd4898b56dac816a6365ab2b0c2c2c94b0b3cfb69a19
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropStatus,Inno.Editor.Interactions.EditorDropResult)"
 source: xml
-reviewed: fe207bea274643088fd5ad7867fe9a1cdee728ccedab948482ec8dad2bfcf7f7
+reviewed: 637c8fe87a978542ce522253dcf5611c03ddc0bc9d84134b89f1914cb757a2c0
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.ImGui]

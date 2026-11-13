@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.108e473241b01a85
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTableRowFlags"
 source: xml
-reviewed: 7a7e9f370a84cb288ff99e9e1b3fb15e032f6d80ef1ef75f8a09263a27ec11e3
+reviewed: c981c6c7ac58b2ab8ce6f0b0b71a6d0afb8ed9cc3a19722e1730a9139b0a76c3
 title: "ImGuiTableRowFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

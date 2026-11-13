@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.6815fee41731ed11
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiFont"
 source: xml
-reviewed: 63650c5f0a2b69d8ba9d669e5c3dbec07b26123b05e590d2ee2d80dc7e740cc9
+reviewed: 285abda1a2888ebb4f14200fc70a7a829f81ff424d6f105c4a69b59c9257e42d
 title: "ImGuiFont"
 kind: api
 owners: [Inno.Editor.ImGui]

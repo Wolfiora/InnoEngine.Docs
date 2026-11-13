@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.27787cb558bdcc79
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetSerializationServices"
 source: xml
-reviewed: e6b1c87e3f785b331d178c6a403d4577984b2cf8f7c9ee539c208dd20ce3edc4
+reviewed: f07813f86ae73f48b9b6919b2156661ea064bd7a0e1062338348bbd7402a9ac5
 title: "AssetSerializationServices"
 kind: api
 owners: [Inno.Assets.Pipeline]

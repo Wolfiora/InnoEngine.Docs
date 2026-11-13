@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.b9adfdebd2300cce
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildProcessor\u00601"
 source: xml
-reviewed: 41c576f2ca890ecd451de512faf2218c8e07eb3ec281e44469793786d0f66501
+reviewed: c9546017072bb055fb753eb2fccfc365733d2c53c803036b21f00d01582e2339
 title: "AssetBuildProcessor"
 kind: api
 owners: [Inno.Assets.Pipeline]

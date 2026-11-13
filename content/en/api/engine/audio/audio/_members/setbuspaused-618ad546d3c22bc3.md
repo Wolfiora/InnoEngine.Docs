@@ -2,7 +2,7 @@
 uid: api.618ad546d3c22bc3eb857a692aff4ba8182022ce3c3889328eb1cb3f2ae583e4
 symbol: "engine:Inno.Audio:M:Inno.Audio.Audio.SetBusPaused(Inno.Audio.AudioBusId,System.Boolean)"
 source: xml
-reviewed: 327f6eb2f723239aa2b667dbce55f65552c19464d5573382f76d75f781aeb0bd
+reviewed: a43000b357854a363bb97aafed9af0509e1fba0f03cf74c45ea50d4b06c7e136
 title: "SetBusPaused"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.91d4af60fd06efca4a971f6c8f8b37b3bcc6eee627c61625c8340d11af307652
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPassResolution.#ctor(InnoEngine.Rendering.ShaderTechniqueDefinition,InnoEngine.Rendering.ShaderPassDefinition)"
 source: xml
-reviewed: 65af9ac1b5ebc06d7537ba77e0ab094e38641b86b546ad7caaed2ad15e2a774d
+reviewed: 08c494f873c151e54716ccbf414b3210621ddc56039c9a6352a8c77a67ad9845
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

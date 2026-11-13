@@ -2,7 +2,7 @@
 uid: api.d79e3e7cce689c89e2f91b5eef33db58ffee71b693492313e8485428566b283f
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsAnyPopupOpen"
 source: xml
-reviewed: 30b09ca5c0404502c55d9034a0736d374b60485f6d1e374b03ff9ff4eea0590b
+reviewed: 7d7550915435aa37eb11d5c3bc8ec1616304d9e126f9878d6858329ba6e34671
 title: "IsAnyPopupOpen"
 kind: api
 owners: [Inno.Editor.ImGui]

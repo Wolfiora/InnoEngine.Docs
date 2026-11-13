@@ -2,7 +2,7 @@
 uid: api.f17a85313920bc29ee1bb674900cc001fee9dd9194b7c872e0c23ea14bb23964
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildPlatformContribution.#ctor(Inno.Build.PlatformTargetDescriptor,Inno.Build.Composition.BuildTargetFactory,Inno.Build.SupportPacks.IPlayerSupportPackSource,Inno.Build.Toolchains.INativeToolchainProvider,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.NativeProductContribution},Inno.Build.Toolchains.INativeBindingGenerator,System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.ManagedDeploymentId})"
 source: xml
-reviewed: c33a250b17b9ad865ddcd40c34452e70a5a67489d15d7a9751775baabe6c57f7
+reviewed: 327b2f7d3bcdbde6952657cc2d9b4961ffd9da00373711a9b30cf73d1fac0ade
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Composition]

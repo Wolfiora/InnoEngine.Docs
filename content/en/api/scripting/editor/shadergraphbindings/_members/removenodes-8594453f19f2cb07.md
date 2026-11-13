@@ -2,7 +2,7 @@
 uid: api.8594453f19f2cb077f27df7cbf4415ddc54d7a1e149bfbabb7edb804e23b012e
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphBindings.RemoveNodes(InnoEngine.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{InnoEngine.Graphs.GraphNodeId},InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)"
 source: xml
-reviewed: 49da0cb66822fb428e0bcb23dd20b76ad711017785ab6981310e63bc32546af8
+reviewed: 752a5fa15e295720dd17584e85794a522a1bee51c6ad8f895f499097b552c631
 title: "RemoveNodes"
 kind: api
 owners: [Inno.Rendering.Shaders]

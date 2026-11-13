@@ -2,7 +2,7 @@
 uid: api.19c85c6e19ec745b0cee184d16ffb122f76bd01e9f26bdab82afda265265eca8
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderTextureSubresourceData.#ctor(System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: e8ffe104e820f954c5821633d01ef3e0cd0188539061599d3301fdcaca53afdd
+reviewed: 41c9ac74b3a4ae92cd575132c1126c898b9acc0b629812d199ac0c575f50b459
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

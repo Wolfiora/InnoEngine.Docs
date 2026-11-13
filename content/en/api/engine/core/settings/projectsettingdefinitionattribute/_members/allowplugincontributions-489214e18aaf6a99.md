@@ -2,7 +2,7 @@
 uid: api.489214e18aaf6a99304602bca38eac016d8cee28ea800b2383061c6a3171531b
 symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingDefinitionAttribute.allowPluginContributions"
 source: xml
-reviewed: fc0fd0ee5efd9e048e458f6662d5ffddf9e2f38be07caa961b1d6762671b803f
+reviewed: 6185a975c9159e2a1fef87404f429f93c601acb71420c5d73dc2e4c731c658e7
 title: "allowPluginContributions"
 kind: api
 owners: [Inno.Core.Settings]

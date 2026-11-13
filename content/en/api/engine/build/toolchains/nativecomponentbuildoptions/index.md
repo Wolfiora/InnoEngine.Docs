@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.b05d894e634861e1
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeComponentBuildOptions"
 source: xml
-reviewed: 8364e9d62f97c27703c32ecd8ba4d53a24b412f152b448941bfb3784bc78b756
+reviewed: 462f3b45f5b27d494f51933c7eeca0771bea96b826bcff5d276a34f377cc6be7
 title: "NativeComponentBuildOptions"
 kind: api
 owners: [Inno.Build.Toolchains]

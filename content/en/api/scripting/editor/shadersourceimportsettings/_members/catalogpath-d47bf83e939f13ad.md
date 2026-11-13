@@ -2,7 +2,7 @@
 uid: api.d47bf83e939f13ad93497ba3c47cc7ed3be9b23679e033da90053e0ad73283db
 symbol: "scripting:Inno.Rendering.Assets.Authoring:P:InnoEditor.Rendering.Assets.ShaderSourceImportSettings.catalogPath"
 source: xml
-reviewed: cdeedb48762248f81a4b7861b7503907b14bcf7bda34a406450187e4bfb8484f
+reviewed: 4cfc964995f0bbbae8ee56a20c037402ce51b7223f6a1211e455b4855fc5c0da
 title: "catalogPath"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

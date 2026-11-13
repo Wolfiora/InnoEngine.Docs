@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.3081568837462dc5
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphTemplates"
 source: xml
-reviewed: e38b8a380440a6e175e2390f11dba0fb2a08ebabbba170c976e7227ed7551bda
+reviewed: d7dd4496925e8f3ddb3fd35935d2185da745630f8731fc6be24d4f35c5fa5a91
 title: "ShaderGraphTemplates"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.91a6191dd8ee0bc45a1971857085a93ef474e90153aa96dbf22c97f83553a3dc
 symbol: "engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.Acquire(Inno.Build.BuildTargetId,Inno.Build.IPlayerSupportPackValidator,System.Threading.CancellationToken)"
 source: xml
-reviewed: 4c36cc647b6258b745a677b51a3af9f53b3dc5e636a0906ede1b7ce66ae74645
+reviewed: 8a7f5ca3744f1daedb56c1e278cdc62c289c2e10a273c5c7cef246b5ecae40b8
 title: "Acquire"
 kind: api
 owners: [Inno.Build]

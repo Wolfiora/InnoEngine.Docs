@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.b40d61ec4d128b82
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWindowFlags"
 source: xml
-reviewed: 537a5f220b3b07c25efa02176bcccd22cb3cb74759bc10750229490e13b6e239
+reviewed: 95a81e993d13bac7086436f1fa76c10ce94fc6bcc65d1629e70a9c35c23a9c7d
 title: "ImGuiWindowFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

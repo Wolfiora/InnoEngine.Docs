@@ -2,7 +2,7 @@
 uid: api.b0de960f89f5488995a6ac085f8a8a71be415546336bfa336b998de4bfb1acc8
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreateGraphicsPipelineHandle(System.UInt64,System.UInt32)"
 source: xml
-reviewed: bb517992fc64c92a7228f7c31610914e3a44bbc6a4b6e59f4e2e51f183aff731
+reviewed: 5787684c17bda5da07bc56e74ce3fde6e9bd09fbfbd3072349c8703a3517689f
 title: "CreateGraphicsPipelineHandle"
 kind: api
 owners: [Inno.Rendering]

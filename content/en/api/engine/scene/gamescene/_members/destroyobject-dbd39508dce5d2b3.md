@@ -2,7 +2,7 @@
 uid: api.dbd39508dce5d2b3dfb16b71ba09271c3a578142eb41d12b97fe47a780c35558
 symbol: "engine:Inno.Scene:M:Inno.Scene.GameScene.DestroyObject(Inno.Scene.GameObject)"
 source: xml
-reviewed: 5c2fe0a173e97ca69daa172ed94d60d7cfc838f5b1a52b28175275fee3453fbb
+reviewed: 5d4902b1dcc73dc45f0dd07ec1edd5d4d53bf4107cc0cdc5c1951abd7f4be872
 title: "DestroyObject"
 kind: api
 owners: [Inno.Scene]

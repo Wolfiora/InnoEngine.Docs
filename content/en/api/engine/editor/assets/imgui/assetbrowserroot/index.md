@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.imgui.4060d5db1ea38275
 symbol: "engine:Inno.Editor.Assets.ImGui:T:Inno.Editor.Assets.ImGui.AssetBrowserRoot"
 source: xml
-reviewed: 8bd49d6a731f0855cc7cd8af42ab2915f56e6d719450dbcbfe6a9db5a32d344b
+reviewed: c9c13dcd0150e5aa9319103c2ba916b92e342b7288d1f1d7f73a768a1e383206
 title: "AssetBrowserRoot"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

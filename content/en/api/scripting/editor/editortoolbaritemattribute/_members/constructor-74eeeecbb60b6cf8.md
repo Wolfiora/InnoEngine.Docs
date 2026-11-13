@@ -2,7 +2,7 @@
 uid: api.74eeeecbb60b6cf8ef70e2f45e3ba2f7ea66bf3a47cf825044bb1fbdee227508
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorToolbarItemAttribute.#ctor(System.String,InnoEditor.Interactions.EditorToolbarIcon,System.String,System.Int32,InnoEditor.Interactions.EditorToolbarIcon)"
 source: xml
-reviewed: adab7434b8e7f0343197c01a695488259371182f686029a393847af35902da7c
+reviewed: 133575f2d4672bd7323732778e09b967ca499a03917de39046bb7b4ce63e8c16
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

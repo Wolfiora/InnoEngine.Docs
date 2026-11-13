@@ -2,7 +2,7 @@
 uid: api.inno.core.io.965d4a56845471e3
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.FileLease"
 source: xml
-reviewed: ed90171cedca3c489d2fa389bac38388f5a3c9c0b825b548d89ea10dbef43eec
+reviewed: b1bb8a37f3b40d6a73a5f38e620e9c3db1ba496c033807261fb186fa2b333729
 title: "FileLease"
 kind: api
 owners: [Inno.Core.IO]

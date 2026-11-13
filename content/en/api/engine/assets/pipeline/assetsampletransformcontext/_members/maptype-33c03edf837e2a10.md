@@ -2,7 +2,7 @@
 uid: api.33c03edf837e2a109588303d2ddaf016009275383d4c598218a54a41aa0ee535
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleTransformContext.MapType(System.Guid,System.Guid)"
 source: xml
-reviewed: 77d6e2c74057dd7c2d7daef859e5ac1c691fb7858564b051cbe37e616c508eaf
+reviewed: 9e6c2d90b94d166b1f5cfa96e214b0766bd2a2efe0e5773d65c41c217a5323b7
 title: "MapType"
 kind: api
 owners: [Inno.Assets.Pipeline]

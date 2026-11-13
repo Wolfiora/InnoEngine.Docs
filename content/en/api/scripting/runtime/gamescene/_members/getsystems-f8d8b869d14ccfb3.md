@@ -2,7 +2,7 @@
 uid: api.f8d8b869d14ccfb3a9802e54d582e49361dbc13360dbb7dcdcac1d4b14746ad7
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.GetSystems"
 source: xml
-reviewed: 4927eca405df2fc8419ef3475f3fe03fb817ab0429fb7a00feb2bcc199534c58
+reviewed: b92fea0d5f31007bdad4f61aa638eddae3ac3333cba6800a16c1d8548c05f5c6
 title: "GetSystems"
 kind: api
 owners: [Inno.Scene]

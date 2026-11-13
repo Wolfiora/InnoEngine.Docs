@@ -2,7 +2,7 @@
 uid: api.f8a7269c5471a277f4f1fb32ca8c713d3b25a3eacff3c2defe976cd784dfa547
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.DrawProcedural(System.Int32,System.Int32)"
 source: xml
-reviewed: a099e8a352ef84fef487ff482753816f24987e2b1c1cf0b32e56979bb0d8f95d
+reviewed: bb6fede8e86b82a5470b6e7022e0db9e92a78b1adbe930b5c63d783eaef2f41a
 title: "DrawProcedural"
 kind: api
 owners: [Inno.Rendering]

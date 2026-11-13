@@ -2,7 +2,7 @@
 uid: api.1d9c196c16b7b48ab15ee6a4e239f6b230f48ae99a366a664ec67871d51b0449
 symbol: "scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderMaterialPass.computePipeline"
 source: xml
-reviewed: 613d061e602283317b18b325b93e29091c1e0170e5329779d8ca8e11a8b5de21
+reviewed: e55138885014fbc0b553dc82744fe5edfd115c18fbb2d3e6dd8bf54431f4997a
 title: "computePipeline"
 kind: api
 owners: [Inno.Rendering.Runtime]

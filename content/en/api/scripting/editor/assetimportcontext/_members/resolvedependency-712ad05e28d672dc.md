@@ -2,7 +2,7 @@
 uid: api.712ad05e28d672dc40a9046217ddbfc32430bd30ed697e7bde9915221da0b748
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.ResolveDependency\u0060\u00601(InnoEngine.Assets.AssetPath)"
 source: xml
-reviewed: 47717dffe438e1601bd3ded3e355b76bf2e073f3013871f8a1020850666bc987
+reviewed: d9fb8f21569b783334fb5db79ec57ff01d36dcdddd9dae0ffd990459b95a297e
 title: "ResolveDependency"
 kind: api
 owners: [Inno.Assets.Pipeline]

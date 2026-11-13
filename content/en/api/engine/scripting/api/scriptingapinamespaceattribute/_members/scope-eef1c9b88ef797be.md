@@ -2,7 +2,7 @@
 uid: api.eef1c9b88ef797be712c99593e377b153971ac0bfaea3de19e10bae6db945daf
 symbol: "engine:Inno.Scripting.Api:P:Inno.Scripting.Api.ScriptingApiNamespaceAttribute.scope"
 source: xml
-reviewed: bc14e8dceb343f7ed5bec14f15f046fc1957e191663ba23e73bc1cfb7d4940f0
+reviewed: 743ca552149dcd52d50b85735683a197a74f40002ba1019ee7b7dd354a47ee12
 title: "scope"
 kind: api
 owners: [Inno.Scripting.Api]

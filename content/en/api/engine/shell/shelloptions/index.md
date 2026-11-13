@@ -2,7 +2,7 @@
 uid: api.inno.shell.bed99a73cc5af969
 symbol: "engine:Inno.Shell:T:Inno.Shell.ShellOptions"
 source: xml
-reviewed: 3b461ecfa8f86dac6fcb5e667ffe2fa784cf301b26ea8b9cc1686d21ea969474
+reviewed: a617a5bd9919b8d1f0a00193cf8c4e499c01096d0ea55d6e38156b3064fb2c39
 title: "ShellOptions"
 kind: api
 owners: [Inno.Shell]

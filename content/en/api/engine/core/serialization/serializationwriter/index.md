@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.9e8e30016feba2fd
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationWriter"
 source: xml
-reviewed: 3cd90a2c533aa6d92af15bbf833ae16f7e1f669c383deb173f7c4f17ea8d7d15
+reviewed: f3f55e1b19608d1d2c1f97363ab547d1a43e6808473b47ddd38741e66662d1e7
 title: "SerializationWriter"
 kind: api
 owners: [Inno.Core.Serialization]

@@ -2,7 +2,7 @@
 uid: api.415d230c7ff28cb58493796bece6cbf1461d45f0329dbec6fde3bd5edabf980f
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.Encode(System.Action{Inno.Core.Serialization.SerializationWriter},Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 832c35ee0d6afc535cf4caaf2c1ecaa5d42ef8d462b7686dc782ba80074ccb09
+reviewed: 0afdd920a2d507ad3c260cd34ee845ce6015566aa98e6f91714c867f626235e8
 title: "Encode"
 kind: api
 owners: [Inno.Core.Serialization]

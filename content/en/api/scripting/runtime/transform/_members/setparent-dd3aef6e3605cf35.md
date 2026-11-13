@@ -2,7 +2,7 @@
 uid: api.dd3aef6e3605cf35423340adf04e431cfdff9965028b99a06e3b02ad17c5ec17
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetParent(InnoEngine.Scene.Transform)"
 source: xml
-reviewed: cae36bafcbc61acf6d13aed23be7b3d01a4cf65ef2339950ce3a7590a564a1c8
+reviewed: 6e3c9d6c9b92f9b31f251ca7b4f038ddad20e888ac0986a60e405a926045f390
 title: "SetParent"
 kind: api
 owners: [Inno.Scene]

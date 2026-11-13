@@ -2,7 +2,7 @@
 uid: api.66180e9037e8e16784a430e2337940eed40331fdd80c588e98ec5fb1c644a898
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioClipMetadata.#ctor(Inno.Audio.AudioCodecId,System.Int32,System.Int32,System.Int64,System.Int64)"
 source: xml
-reviewed: 41ae124e8700f3969d71a45f49e6aa24375c94b5f98b8a957c74b0d23618c4ec
+reviewed: 054a63fa137198bacdaa2b8af9591fd933059c65045edc52d8cd6390d89f80ae
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.04c8c2443f572885c21b705df2977f04e058604717d663906fb13d38f79885b6
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClickableIcon(System.String,System.String,System.String)"
 source: xml
-reviewed: 0a74d37111b4b9db65b716fc2ac35f6667801a9e35b741f8f0c93182d1c206c2
+reviewed: 461ee91fc6de48350e87e586e82d9fc8c6a7f93015af4868fb4ce9833b33db57
 title: "ClickableIcon"
 kind: api
 owners: [Inno.Editor.ImGui]

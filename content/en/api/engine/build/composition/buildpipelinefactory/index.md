@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.93b45356aa16263c
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildPipelineFactory"
 source: xml
-reviewed: 1ea898a6e799718d992e74c5dd90662c925da5b7de9145c0bf5902ff2bb1c158
+reviewed: 0330fb60331b65780c8e912d0799a36b4f090923ee7b5676985d00495478b3c0
 title: "BuildPipelineFactory"
 kind: api
 owners: [Inno.Build.Composition]

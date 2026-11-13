@@ -2,7 +2,7 @@
 uid: api.inno.rendering.07a43f1641a57ac8
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderStoreAction"
 source: xml
-reviewed: 49c65d239a6092a009f9dbecfdf4b0b6cd465adebb5eb745fb1363accb1d34fd
+reviewed: a574cf1bf5633e6dc43af4eb25560ddd9b38ebf4c7741f94cb36c0018dc9e934
 title: "RenderStoreAction"
 kind: api
 owners: [Inno.Rendering]

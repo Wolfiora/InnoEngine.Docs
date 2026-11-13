@@ -2,7 +2,7 @@
 uid: api.b25e5f09dbecb450791d5736ef96ec1561febc7a94de96b851b1bddc13753aaf
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.ReadTextureAsync(Inno.Rendering.PersistentTextureHandle,System.Int32,System.Threading.CancellationToken)"
 source: xml
-reviewed: 22987f876bd36846bff0efbe5fa64cd8f5d28fda43b7d30e446fe809ace4b0be
+reviewed: 632af3e887a7f31fb3cb1120dd31febff02dbe4593981fcf8333476063c85cf5
 title: "ReadTextureAsync"
 kind: api
 owners: [Inno.Rendering.Runtime]

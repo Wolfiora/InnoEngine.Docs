@@ -2,7 +2,7 @@
 uid: api.deb17fd75031227803a08fb2b42daeefb035c35a92fdd80d494acd2096714c92
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.ToDegrees(System.Single)"
 source: xml
-reviewed: bfaebd252444d3b0702af9351e424141c87a2d0b68e30ae3ce34352bcc7f2318
+reviewed: 2976b0afad8d18e5614e92a441a309a76428f541f7dcf30ce6dcb3cce7a2fc05
 title: "ToDegrees"
 kind: api
 owners: [Inno.Core.Mathematics]

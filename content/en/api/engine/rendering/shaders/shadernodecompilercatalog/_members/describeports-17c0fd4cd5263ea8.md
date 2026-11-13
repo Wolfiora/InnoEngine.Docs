@@ -2,7 +2,7 @@
 uid: api.17c0fd4cd5263ea86866d15fce9f7ade8093b2269199f4c9e0c3e6d24219c050
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodeCompilerCatalog.DescribePorts(Inno.Core.Graphs.GraphNodeRecord,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,Inno.Rendering.Shaders.ShaderSourceModuleAnalysis,System.String,Inno.Rendering.Shaders.ShaderIrStageInput)"
 source: xml
-reviewed: cb1bdb81884718844c03b1ffe4abfe03eddce8d3a47257db110ff99fe72b2214
+reviewed: 441d902c88e4b5d148843e30e6de92bf1279224522b72ed50c1b51e2a153c377
 title: "DescribePorts"
 kind: api
 owners: [Inno.Rendering.Shaders]

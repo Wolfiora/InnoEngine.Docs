@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.1ae5b37acfd3fb0d
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorModuleAttribute"
 source: xml
-reviewed: 5810aa13ea9868001bedd457deba805da0dfc13f19876078dce0359d6a90e8a3
+reviewed: 625102c774b4c362c2f1a3662e7da505e289c9ae64830f8dafcf5d97af536ff4
 title: "EditorModuleAttribute"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.dcec11838daeb9592abed7e5d3bd5c8e0128f573fb7e0a312eae8b99dbba7000
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiWindowFlags.NoBringToFrontOnFocus"
 source: xml
-reviewed: 4bc5c6b7c90b00f0bfa6a306557dec48b4b76f6ccc13bd4fe5157e2124ec91a5
+reviewed: 379f23891c6b3e810a00ba0aa9f995c73c6feab88777a487b42dea4f4f119eea
 title: "NoBringToFrontOnFocus"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.d5275de500e15114
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometryArtifact"
 source: xml
-reviewed: a172c1b0e8a78801aa291a879a189b440cad2cdd58760f8521286a33f900f99e
+reviewed: c287f7c547d35d51a8cc2aac1a05acea75e8203e4cd348dad0504353a3cdc4ab
 title: "GeometryArtifact"
 kind: api
 owners: [Inno.Rendering.Assets]

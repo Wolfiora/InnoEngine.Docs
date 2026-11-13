@@ -2,7 +2,7 @@
 uid: api.ceca0cc431950625cf89d54bbc970dbb007fdd9437eeefa1010db9d295a73750
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.TryGet(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.MaterialValue@)"
 source: xml
-reviewed: 6bb899dfcf79286a90421e148651a36e0e04b33a04008b5ce49c225bcb7e695c
+reviewed: 5318681667318a653a6e4f767ceda9e5e7a53a4fa5e44e2fa2769a8ed8449702
 title: "TryGet"
 kind: api
 owners: [Inno.Rendering.Assets]

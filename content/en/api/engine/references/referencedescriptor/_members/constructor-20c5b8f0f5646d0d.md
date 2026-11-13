@@ -2,7 +2,7 @@
 uid: api.20c5b8f0f5646d0da8679c901539670acbea67214df4f5a85aeb851c80df38e1
 symbol: "engine:Inno.References:M:Inno.References.ReferenceDescriptor.#ctor(Inno.References.ReferenceKindId,System.Guid,System.Guid,System.String,System.String)"
 source: xml
-reviewed: b6b67c03da2cfd54fec279f944f3b7a8be5b31525286c6d90fdbdf70fc270743
+reviewed: fbc9afabebb027013ed66b8399749d36f6c71c626bf406c713e70a89b5ef97ca
 title: "Constructor"
 kind: api
 owners: [Inno.References]

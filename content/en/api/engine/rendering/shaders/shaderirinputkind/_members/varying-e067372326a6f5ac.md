@@ -2,7 +2,7 @@
 uid: api.e067372326a6f5ac5c0595c2a2f9e15fc595060e96c78fccc081700757172515
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrInputKind.Varying"
 source: xml
-reviewed: a7d2a8eff80c227fb2d0ded31d13cf0153e17173c3a24d152a4c6d8bc6f1406f
+reviewed: ddef9bda8ace1738946750ed022de60d6b505e8c4f52564656e7f45f7bf412fa
 title: "Varying"
 kind: api
 owners: [Inno.Rendering.Shaders]

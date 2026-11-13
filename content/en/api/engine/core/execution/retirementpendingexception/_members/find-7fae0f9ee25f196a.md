@@ -2,7 +2,7 @@
 uid: api.7fae0f9ee25f196a5eca985421d4adb0c0c5cda5b35e929ffad57c8de6053aac
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.Find(System.Exception)"
 source: xml
-reviewed: 93685536831c58c455f9a51bc303b368c7df3f1f5a5c15d683d1cd169dc717ae
+reviewed: 1ee24d035f222b13d8fc48de49c4b8d8526f097e53479b47baf0553ef5f57b6b
 title: "Find"
 kind: api
 owners: [Inno.Core.Execution]

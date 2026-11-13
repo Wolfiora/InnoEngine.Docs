@@ -2,7 +2,7 @@
 uid: api.02fc29fac97af17f3c04ed8740e468b16bbcfab82e2640f367c98f97385f9074
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFile.Equals(InnoEditor.Rendering.Shaders.ShaderSourceFile)"
 source: xml
-reviewed: bac452511b3659caeb39a478f40c67b153a903accc4fab335c8b4df3a68adffb
+reviewed: 83e8301c716f65b7d03138d5158bd78e34a67e22e49274759aae036eeeb59172
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Shaders]

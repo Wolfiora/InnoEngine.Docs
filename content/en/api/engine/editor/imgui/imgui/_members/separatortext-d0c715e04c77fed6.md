@@ -2,7 +2,7 @@
 uid: api.d0c715e04c77fed6128d54160fe6751ba95ee02676b7afb74cd3551909b5a704
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SeparatorText(System.String)"
 source: xml
-reviewed: 2580f1be29f6a43e9eb948a217c163638ff7192ad421c430185ef0f340e6b034
+reviewed: 18b75116650383106cf5fd87a2d33d9d55824a0c3a44897e282f5bc7923b7d27
 title: "SeparatorText"
 kind: api
 owners: [Inno.Editor.ImGui]

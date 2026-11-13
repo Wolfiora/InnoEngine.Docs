@@ -2,7 +2,7 @@
 uid: api.inno.storage.2692c5b144332fb4
 symbol: "engine:Inno.Storage:T:Inno.Storage.StorageScope"
 source: xml
-reviewed: bf413fded6c3b6f32b8f32ba6b7d85ef4fa9f5657f8e946496977f3ef4dd593d
+reviewed: 823bf3b71c3da0748b0d6f7d5404e97c29198c83f11a1663fe0002803e85c96c
 title: "StorageScope"
 kind: api
 owners: [Inno.Storage]

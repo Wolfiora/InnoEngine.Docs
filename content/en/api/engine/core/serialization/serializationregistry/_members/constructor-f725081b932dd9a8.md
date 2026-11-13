@@ -2,7 +2,7 @@
 uid: api.f725081b932dd9a8500ce63875afe906af875c378370c144d7f18da98fd20058
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.ISerializationMetadataSource)"
 source: xml
-reviewed: 1f7b0621e32efdd046df43a70656d51cd5a005c103281701a163ed811bb68443
+reviewed: 63fa03741261be4a4a0eddc65e2c04caa1dcec09fcee48409c877784cdcdbe52
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Serialization]

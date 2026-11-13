@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.7bc0cfe58e60728f
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.PipelineDocuments"
 source: xml
-reviewed: 1de4939a067b4e345ac5a70e355c1af60a2f2a2e5ff0a59bf48043d1e781ce00
+reviewed: 212e9990f839cebb72356f97073a927a840df6429bdff74f0e0a4773e05bd8b9
 title: "PipelineDocuments"
 kind: api
 owners: [Inno.Editor.Rendering]

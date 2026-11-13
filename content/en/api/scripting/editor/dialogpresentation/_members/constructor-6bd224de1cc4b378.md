@@ -2,7 +2,7 @@
 uid: api.6bd224de1cc4b378c6212eed05dc0fc00a6eeab2b6b21e6f404f964022124a11
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.DialogPresentation.#ctor(System.String,System.Nullable{System.Single},System.Boolean,System.String,System.Boolean,System.String,System.Boolean)"
 source: xml
-reviewed: a5ab27d220eedb19d335c884af06958680f041cb1dcad8e8a32de4a475a988b5
+reviewed: 91f2408f28e9595b854819c5ffb08524371aa73d3f145be8fa79bdc3145f379b
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.ImGui]

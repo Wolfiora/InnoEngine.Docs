@@ -2,7 +2,7 @@
 uid: api.d95371b2af5f78e0b6505704cc0dbf61334c68ae10665822c840b56e172ce240
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ImportAsync(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: ed8d1afeaa718edbef673bfe84c3adb3ed631ed74c766a365a2a08fe006db76a
+reviewed: e665b3af6e0396d1d955c23ce4e5879094091da6c69f1896aeeb7cde91d16b50
 title: "ImportAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

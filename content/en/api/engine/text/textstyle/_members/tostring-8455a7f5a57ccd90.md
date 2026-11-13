@@ -2,7 +2,7 @@
 uid: api.8455a7f5a57ccd90ce26d819f61105ae3d9c337bea2e50887369a39e8aaedb54
 symbol: "engine:Inno.Text:M:Inno.Text.TextStyle.ToString"
 source: xml
-reviewed: 25d5fe79dda440a2cd620bb5cd4675cd918972cddd82bb7e5cb2ff876d8f7970
+reviewed: 4db6fcdb54ff629393c5d5e8edec081cc623c3fb7869278793abc4310f17d5a0
 title: "ToString"
 kind: api
 owners: [Inno.Text]

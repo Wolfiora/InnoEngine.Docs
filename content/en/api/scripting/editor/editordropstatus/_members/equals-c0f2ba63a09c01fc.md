@@ -2,7 +2,7 @@
 uid: api.c0f2ba63a09c01fc9616536dc8c2d6472d317cc035e61763b199143df3aa4eae
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropStatus.Equals(System.Object)"
 source: xml
-reviewed: 8384f1f7cbfa4e5589e0576930e305ad35f2ff88c4840278c9565bb66d3480e5
+reviewed: 899bea0246aef77728d1042f4c67848d5b38c3899ac79efaf296611c4cc4091e
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Interactions]

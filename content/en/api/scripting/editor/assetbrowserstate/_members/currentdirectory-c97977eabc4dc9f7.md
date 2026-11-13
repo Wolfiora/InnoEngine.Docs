@@ -2,7 +2,7 @@
 uid: api.c97977eabc4dc9f7fd320b79dbfffbbd9bba628adf1c7de55eeea000f732279d
 symbol: "scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserState.currentDirectory"
 source: xml
-reviewed: 45bec46d7b2929592bfff5466b88ddd905d4160fd3227f85feb6df9fd602e577
+reviewed: aeef46322ff1159c5c75df2bcf77e7116341e4ee71bb4a36f1154b8a64a1116b
 title: "currentDirectory"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

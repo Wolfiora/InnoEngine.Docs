@@ -2,7 +2,7 @@
 uid: api.bbbb45b5af986f5a9430402698013487716d4591a84f833d206fc38dd6498808
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.InstantiatePrefab(InnoEngine.Scene.PrefabAsset,InnoEngine.Scene.GameScene,InnoEngine.Scene.Transform,System.String)"
 source: xml
-reviewed: 6d6d9dfca6e309eaf74dedc1ac1c50f752cb26be1cdea2c6892a4658a8628fa1
+reviewed: 0eda5e7e8e0421c58461804253bd40f914ba2b16063a2b1c809abbe9bc40f897
 title: "InstantiatePrefab"
 kind: api
 owners: [Inno.Editor.Scene]

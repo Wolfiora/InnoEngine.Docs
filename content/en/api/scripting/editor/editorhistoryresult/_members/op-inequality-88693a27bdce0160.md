@@ -2,7 +2,7 @@
 uid: api.88693a27bdce016054c92b078c011c9b12a2c5c1f8b03389425a9619d2a6eafd
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryResult.op_Inequality(InnoEditor.Interactions.EditorHistoryResult,InnoEditor.Interactions.EditorHistoryResult)"
 source: xml
-reviewed: 730ffdc35bb7fbd00705b605338314b83da35df80d9824d71699bee1f7f5af74
+reviewed: e51928086d04ffcc873bf9c52d60fb4a2aff75cd3cb3dc9d978d8e50e303bb57
 title: "op_Inequality"
 kind: api
 owners: [Inno.Editor.Interactions]

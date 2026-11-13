@@ -2,7 +2,7 @@
 uid: api.f237daf243ee5dd7d0b358bef0772cb906c27b6cb105d28d4682292276a741ae
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.ShaderStage.Fragment"
 source: xml
-reviewed: 89160c2d312c82a8ba238660fb4d71d2ee33006717bc66236c389ac07bbbcfde
+reviewed: 5a37e5941baa099cc9d1b0a49c5c1807b72cbe2f1eda45ea6049c7ae800530d3
 title: "Fragment"
 kind: api
 owners: [Inno.Rendering]

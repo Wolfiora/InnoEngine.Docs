@@ -2,7 +2,7 @@
 uid: api.fa7e7eba27596286c4a580a33905ef57fbe39d06b947e856063d61d78daf782f
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderDiagnostic.location"
 source: xml
-reviewed: e2f6eb3578fc42b1183a5d1dac98b049ccb316e5b77590818baa13ee53c3c455
+reviewed: 2ac71c7167aa3e580d86dce1a8524bce9341ffaa0b99c4d9567df213cb571475
 title: "location"
 kind: api
 owners: [Inno.Rendering.Assets]

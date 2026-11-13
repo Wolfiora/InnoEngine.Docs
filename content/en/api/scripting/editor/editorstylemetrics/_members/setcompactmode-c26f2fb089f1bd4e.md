@@ -2,7 +2,7 @@
 uid: api.c26f2fb089f1bd4e3d4905ae80815776f5fa08c9d9a86d34e495088d371a0793
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetCompactMode(System.Boolean)"
 source: xml
-reviewed: 0f2b21c4f46d4d96dbdeca32fd9b88fa7fa2c1842cd8d323b7d56a2094046276
+reviewed: 5d8b6dfe679c98d31109a27543d05e5e2f4628fc2b1409cbb631748a8208ca6a
 title: "SetCompactMode"
 kind: api
 owners: [Inno.Editor.ImGui]

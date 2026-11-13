@@ -2,7 +2,7 @@
 uid: api.f7230ca2f2c1be0851bcb04194585e551e82aaaca8a028b48d8c683a7bca4fae
 symbol: "engine:Inno.Adapter.Platform:P:Inno.Adapter.Platform.PlatformNativeHandleId.browserCanvas"
 source: xml
-reviewed: d2c5cee00490f20a4b05576fa3c22181d3e0a5fee2a1dccf463187b94e73a3ec
+reviewed: a49f266daa143d90678a0c0828d94034a7e6ad6c0ed2dc8f8553e9083ee4d272
 title: "browserCanvas"
 kind: api
 owners: [Inno.Adapter.Platform]

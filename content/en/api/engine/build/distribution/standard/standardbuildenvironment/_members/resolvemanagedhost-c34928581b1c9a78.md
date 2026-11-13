@@ -2,7 +2,7 @@
 uid: api.c34928581b1c9a78d505b7009fe2ed28a2668b65a08856f8edcbedb9907b6c21
 symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.ResolveManagedHost(System.String)"
 source: xml
-reviewed: 0683f739041a4286ff10e1f2c1ac98315611f3c8a658429968c6a8650407143b
+reviewed: 179d088beef261ef4c525f6109b7f60eea6567fa11ca9d1b175e0e13a7db9ba1
 title: "ResolveManagedHost"
 kind: api
 owners: [Inno.Build.Distribution.Standard]

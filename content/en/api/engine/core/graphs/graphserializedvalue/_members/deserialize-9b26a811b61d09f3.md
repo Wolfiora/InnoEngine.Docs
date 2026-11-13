@@ -2,7 +2,7 @@
 uid: api.9b26a811b61d09f3c0e303cec9b4a45cf3fb8a5035542bce26c0def3ad7e0792
 symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphSerializedValue.Deserialize\u0060\u00601(Inno.Core.Serialization.SerializationRegistry)"
 source: xml
-reviewed: c28120a04ce491d5dde26bff12d3270084bc6f04a989337bc844cc3b0b4a8ada
+reviewed: 5c9003818271cc88e31f9158a3ccfc2ae970d0b93872ea8c00771cd6aa695e5e
 title: "Deserialize"
 kind: api
 owners: [Inno.Core.Graphs]

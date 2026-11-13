@@ -2,7 +2,7 @@
 uid: api.58fa3cbbdc5e94f4a30d77478a48b9d7ed545e200d13133f5c30b10a84bdd2ca
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.IEditorHistory.undoUnavailableReason"
 source: xml
-reviewed: c2a607a8488c5ae5798c55dcf045d26b879b5472a5d429a1095fa4b620520212
+reviewed: 5267599b85ae5e9687f8ed31f6c364334872e0f5300670621ebee9f39323feed
 title: "undoUnavailableReason"
 kind: api
 owners: [Inno.Editor.Interactions]

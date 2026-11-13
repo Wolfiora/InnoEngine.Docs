@@ -2,7 +2,7 @@
 uid: api.inno.core.io.dceb4780149c0e51
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.OwnedReadStream"
 source: xml
-reviewed: 503a2c350098683cab1d435d92025cdaabb5c50ba29f838773728eb38a7a56b1
+reviewed: 7be27a04fce2b82ccee583a5a3ef102edc1013b804eab0a640083a27b4e12147
 title: "OwnedReadStream"
 kind: api
 owners: [Inno.Core.IO]

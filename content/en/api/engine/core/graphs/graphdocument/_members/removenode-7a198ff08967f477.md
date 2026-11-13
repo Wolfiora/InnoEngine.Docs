@@ -2,7 +2,7 @@
 uid: api.7a198ff08967f477f976db366ffcd5d7100ba12ef1e91943fe4153cdc8f1bf02
 symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.RemoveNode(Inno.Core.Graphs.GraphNodeId)"
 source: xml
-reviewed: cfa23c0b972b75ca51b6398f7aa38b4ec1609037bc5bdd4ad4b256873147c570
+reviewed: 7fa9548ab758340827f699caf49b5889776d91e38eeac53a82a838128f58af2c
 title: "RemoveNode"
 kind: api
 owners: [Inno.Core.Graphs]

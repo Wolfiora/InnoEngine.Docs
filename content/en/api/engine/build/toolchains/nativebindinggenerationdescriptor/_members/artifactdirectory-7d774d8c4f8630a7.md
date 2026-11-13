@@ -2,7 +2,7 @@
 uid: api.7d774d8c4f8630a7c75eee7081288af9dbc41caa8f4c23cc054c70ab78db35c3
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.artifactDirectory"
 source: xml
-reviewed: d039217585993e7cff49bbaacd08d4e6153c8e026fb96f31385a9cc63ffdf9b1
+reviewed: 69dc3f91977000e20c990fe1be1f4881a9b90ad6585b7057440ff50d13cde279
 title: "artifactDirectory"
 kind: api
 owners: [Inno.Build.Toolchains]

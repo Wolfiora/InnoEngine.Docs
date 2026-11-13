@@ -2,7 +2,7 @@
 uid: api.3f4db9e7a809447cedf8846d484d267c5e5d8b6dab1d271d8dc0a1beb55927d8
 symbol: "engine:Inno.Editor.Scripting:M:Inno.Editor.Scripting.EditorScriptCompilationProgress.Equals(Inno.Editor.Scripting.EditorScriptCompilationProgress)"
 source: xml
-reviewed: f7bf23d0266c8da5416c845df32c76ffa66057cd90e436d24fb75e8e1f84fc00
+reviewed: e72ed96bdfcacc4b876dbb3d45bd80fd1b347d10ff2acb1ea4237ab3ff0dee5a
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Scripting]

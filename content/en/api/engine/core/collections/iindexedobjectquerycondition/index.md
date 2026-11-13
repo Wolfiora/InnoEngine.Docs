@@ -2,7 +2,7 @@
 uid: api.inno.core.collections.c9582977304b8cc3
 symbol: "engine:Inno.Core.Collections:T:Inno.Core.Collections.IIndexedObjectQueryCondition\u00601"
 source: xml
-reviewed: 2f50e6f694795553bd1c75ef1b0debb8094e1492f341c9ba73d250ac9c0b7b2b
+reviewed: 6220b7278c273f4821b0f89a756f7044a80c4b0f4eaa665aa85d5f6431571e77
 title: "IIndexedObjectQueryCondition"
 kind: api
 owners: [Inno.Core.Collections]

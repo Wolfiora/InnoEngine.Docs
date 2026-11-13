@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.120bf605f991d0a9
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderIrBlock"
 source: xml
-reviewed: 04fea1853e0bc74ff0eece2852604918e9700c41baa00d57d67e25574a8dd372
+reviewed: 811b90c4eccbb332ecc3d264d1f3ed88b98ebfb30980525b483aae62f632b645
 title: "ShaderIrBlock"
 kind: api
 owners: [Inno.Rendering.Shaders]

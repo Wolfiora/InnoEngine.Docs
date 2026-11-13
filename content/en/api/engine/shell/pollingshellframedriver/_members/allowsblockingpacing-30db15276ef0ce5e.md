@@ -2,7 +2,7 @@
 uid: api.30db15276ef0ce5e4ba45a2e315ec8833e5dce132b571b999426e2d13ffef4ff
 symbol: "engine:Inno.Shell:P:Inno.Shell.PollingShellFrameDriver.allowsBlockingPacing"
 source: xml
-reviewed: ee8c7f4bd9e62dc62733b8317ecdd4ac5b72be59b0b9cecbca415f67269693cc
+reviewed: cef5f2056dea3a9fa74e113d04d193eae3518536e84539de319b3dd047d8fafe
 title: "allowsBlockingPacing"
 kind: api
 owners: [Inno.Shell]

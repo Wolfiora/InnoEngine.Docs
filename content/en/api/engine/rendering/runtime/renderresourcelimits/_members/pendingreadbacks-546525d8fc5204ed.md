@@ -2,7 +2,7 @@
 uid: api.546525d8fc5204edb873695bf84ccb56ae1e75cba08230c86f5b11582543df3d
 symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderResourceLimits.pendingReadbacks"
 source: xml
-reviewed: d9c9abbb5a4f9b2d6e216b1d24f9996053b330c3b057d10fd4cbbabbedacd40c
+reviewed: ec4d4a81e67a0f278ed9542eac8debdd79381e15efc1928d7f2f6230c700763b
 title: "pendingReadbacks"
 kind: api
 owners: [Inno.Rendering.Runtime]

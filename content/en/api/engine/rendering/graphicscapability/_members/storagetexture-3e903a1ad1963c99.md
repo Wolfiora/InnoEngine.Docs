@@ -2,7 +2,7 @@
 uid: api.3e903a1ad1963c999aff7345aff7cb8a9c9d8f293cfccdf4fc51dfcc3d39175f
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.GraphicsCapability.StorageTexture"
 source: xml
-reviewed: dd786dd6b21ffb137a14f792d96fd31dbbf89d1ba80c71c6f7f5de42e236cd16
+reviewed: 8e0b3ba6a5f6ac9758672a75f40023b1e5562ab2a45cdbef1cac8b1af8d1c9ed
 title: "StorageTexture"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.54a2fac9fbfd2fd8dc340338786332fd3098532a556499e2a96f3369784c1b11
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.Transpose(Inno.Core.Mathematics.Matrix)"
 source: xml
-reviewed: 61e47756f56350b9926f7a58c646bdc89bd6a305e58a662cfbea4ac656e2ddc9
+reviewed: 83475c7cf329dc802ff7fd43af956aca8304774c5a3fcebc9f1d0bc7de3bac0f
 title: "Transpose"
 kind: api
 owners: [Inno.Core.Mathematics]

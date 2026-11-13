@@ -2,7 +2,7 @@
 uid: api.fac897e7e1af4260b018561f33fee0c51e0771193e6db279ed7b68d943a22e2c
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.EnterExecutionScope"
 source: xml
-reviewed: f5bf4f31e5bf168d8b2ea4c54a55c0ce8abf43b438cdd98518f55ac3eea836d2
+reviewed: 8d345099439447de65d297ad5e201f534bd3189efe9f33dda45f154b418797fe
 title: "EnterExecutionScope"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.1d7340e7e7d745cd
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.GameLayerCatalog"
 source: xml
-reviewed: ff4e8aace5e38ab1c40d22c252baca0c92a09d4de182e1b753d1058aaeab0e78
+reviewed: 3c38828b4d9edbfcdfe81a5d3dfc0318bc5542e07b1889e5abdc4c85bad2e846
 title: "GameLayerCatalog"
 kind: api
 owners: [Inno.Scene]

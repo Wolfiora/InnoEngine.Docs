@@ -2,7 +2,7 @@
 uid: api.402f40e336a90ea8637b18dacf817059908ac95380e56bd408e0c35b8198d2c1
 symbol: "engine:Inno.Content:M:Inno.Content.ContentReadLease.#ctor(Inno.Content.ContentEntry,System.Func{System.IO.Stream},System.Action)"
 source: xml
-reviewed: 25a2b38810d7d7c5662adf36810c7b26595c786810c7d2bb1f521143244ee1ad
+reviewed: 60a95fd970b593fb583aa335331053127e7f7295c56856eff3340d54482986bc
 title: "Constructor"
 kind: api
 owners: [Inno.Content]

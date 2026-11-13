@@ -2,7 +2,7 @@
 uid: api.3f319c11036ea4fe874f0b7f871f512a9016c35b2dacaae433fd277740a3e7b6
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiFocusedFlags.RootWindow"
 source: xml
-reviewed: b27f2e6c667745bdd2b91835e0c808444e8861cb1fa6e487c553f3a575ce2dd4
+reviewed: c8457346cd57286fd343646b5ee84a1ef568bdc989ba4e903c2271f99e81e1d9
 title: "RootWindow"
 kind: api
 owners: [Inno.Editor.ImGui]

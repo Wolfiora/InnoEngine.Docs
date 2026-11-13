@@ -2,7 +2,7 @@
 uid: api.20c76c77168767698b34407ca373cab3ea09c4657b3e7bb3e1263057f469bb71
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.ValidateShaderArtifact(Inno.Rendering.Assets.RenderShaderArtifact)"
 source: xml
-reviewed: ffa71daf9a854a6f96c8ae837ba9c3464c7ce91984b54fd5da697cd512592ef4
+reviewed: 4275f6e6e3bf7df523c2ba7ab4bc2a2ed9ff3edd59fc880aff1f5b7389beb055
 title: "ValidateShaderArtifact"
 kind: api
 owners: [Inno.Rendering.Runtime]

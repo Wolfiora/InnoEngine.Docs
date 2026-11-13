@@ -2,7 +2,7 @@
 uid: api.19b24483f1254f7112e158139510d057637b8b8c9c93adee2130659ad570a816
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferDescriptor.elementCount"
 source: xml
-reviewed: 58c3234efa80f6e1fe8e8f15087646bd9d961402b45b668c33a4275a1775a5b4
+reviewed: e1eecf5aabf34c290895dd9f6380f1a2b34201f5413f30de39989a14c06e0665
 title: "elementCount"
 kind: api
 owners: [Inno.Rendering]

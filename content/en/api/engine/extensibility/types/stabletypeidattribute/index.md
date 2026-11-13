@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.651172b63fe8fe28
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.StableTypeIdAttribute"
 source: xml
-reviewed: ef71bce665b2819d18dd33f199bcae623681a96a91a2aa5ebf7754be2383e52a
+reviewed: d8065ebd074518e5e1d6223848b19b3f8bf7d9cd88cc303f4de96d1d93e10a8c
 title: "StableTypeIdAttribute"
 kind: api
 owners: [Inno.Extensibility.Types]

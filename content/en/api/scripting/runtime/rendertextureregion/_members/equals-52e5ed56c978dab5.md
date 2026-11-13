@@ -2,7 +2,7 @@
 uid: api.52e5ed56c978dab52fc1f7028675b08114548fdb45f800326022b54703e95e0f
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureRegion.Equals(System.Object)"
 source: xml
-reviewed: de09e236489267c3966430e2fef7856192dff4ceec86b812a52cd3d273ada0a5
+reviewed: 574ddf0c70731683f9d6e9c16fef66579d9476d1f86441ecf8a225b32adb6795
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.45710c8819a4e5f6
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderRerouteNodeCompiler"
 source: xml
-reviewed: 3bfd637da2a98bba88707fa72b59a92a85f25044102571ed1f78721ca11fb988
+reviewed: ceeec91d6f72a9721111a73719864f9cc94cf69c7ccc9df20b59f5fd786acd93
 title: "ShaderRerouteNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

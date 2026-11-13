@@ -2,7 +2,7 @@
 uid: api.05f6ac67be380cc31c1844fd5db985b66ceff82f438582494103a14bbcaac45c
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingContributionContext.#ctor"
 source: xml
-reviewed: d54b2f623346810c283d3c0c903b08156eebb33e0d22ad894d92c862f4701b51
+reviewed: 4b9d82f7eec0f7672f0bbe89d2b75771261cd75fa45150a06c990d83d17e6f91
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Settings]

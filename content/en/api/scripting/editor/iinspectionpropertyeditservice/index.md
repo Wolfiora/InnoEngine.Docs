@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.editor-script.59ee4b0aec6645e6
 symbol: "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.IInspectionPropertyEditService"
 source: xml
-reviewed: 3b32733f35a4d238595fd4e35cf0993c406cf010ee2615e525eefb488787e0fc
+reviewed: d61e9f5a787da4eb8a9c6c4c5c6084f6126a7cc8d335be43031956ab6224ae19
 title: "IInspectionPropertyEditService"
 kind: api
 owners: [Inno.Editor.Inspection]

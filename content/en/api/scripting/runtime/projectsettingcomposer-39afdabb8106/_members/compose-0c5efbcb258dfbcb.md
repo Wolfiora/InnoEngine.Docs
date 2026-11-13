@@ -2,7 +2,7 @@
 uid: api.0c5efbcb258dfbcb23ed4622cf656d3ee47ad5d807994ee6673b3fec1ad5f339
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingComposer\u00602.Compose(\u00600,System.Collections.Generic.IReadOnlyList{InnoEngine.Settings.ProjectSettingContribution{\u00601}})"
 source: xml
-reviewed: de8829073ae17732fc4b4fb63575a7e5b54503b4971eb59ed1b7634c805344dc
+reviewed: bf30a1e35687a5a24526f7fb15697bf3544b755322a88d7679ad9bc43e8ee3b2
 title: "Compose"
 kind: api
 owners: [Inno.Core.Settings]

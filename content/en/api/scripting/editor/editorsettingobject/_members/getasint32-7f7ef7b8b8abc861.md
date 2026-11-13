@@ -2,7 +2,7 @@
 uid: api.7f7ef7b8b8abc86159b23d2ad9b5218bac7839f3703fcd9090cdf9b50b385f04
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsInt32(System.String,System.Int32)"
 source: xml
-reviewed: f68c113a6e9ea1554cf65c0845f8e9c23c19bb347b53195edc29fa8e5aed13a5
+reviewed: e443efcdf907745277e984af6f2c2a289d058c6de3e919294f4f122353d1b59a
 title: "GetAsInt32"
 kind: api
 owners: [Inno.Editor.Settings]

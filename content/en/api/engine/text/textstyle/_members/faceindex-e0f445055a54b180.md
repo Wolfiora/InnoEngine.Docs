@@ -2,7 +2,7 @@
 uid: api.e0f445055a54b180fffe6f2b9d383570355ae0115dda776df353818bba159f7e
 symbol: "engine:Inno.Text:P:Inno.Text.TextStyle.faceIndex"
 source: xml
-reviewed: 01fbbe7aa7e3f892a7415bebd4580c366ea9b17784ae758281913a1558d77e73
+reviewed: ab8c19a95e0339a1384f13405adb79ac868b0621cd48003f1236c681f0fdf9b8
 title: "faceIndex"
 kind: api
 owners: [Inno.Text]

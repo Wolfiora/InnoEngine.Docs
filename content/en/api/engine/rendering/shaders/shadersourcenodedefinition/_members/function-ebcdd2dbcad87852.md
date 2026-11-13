@@ -2,7 +2,7 @@
 uid: api.ebcdd2dbcad87852c9ff188cd8d134bb3f734fa40341c7827641925f114e6331
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceNodeDefinition.function"
 source: xml
-reviewed: ba00f7af56ac77a9df8b44e2d4e46483a3ebb2320bb54c47b47045c23f8db776
+reviewed: 7fe2603ec9053fe68f622a86defed933f587777f85dea6f66bc0169fe916bd0d
 title: "function"
 kind: api
 owners: [Inno.Rendering.Shaders]

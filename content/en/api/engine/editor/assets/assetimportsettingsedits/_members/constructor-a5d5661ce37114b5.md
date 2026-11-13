@@ -2,7 +2,7 @@
 uid: api.a5d5661ce37114b56987204e64326ddb6bd4ace5081da4a75fb4b9dad56c5cf0
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetImportSettingsEdits.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Types.TypeCatalog,Inno.Editor.Interactions.EditorInteractions)"
 source: xml
-reviewed: c4c0d5483d76187002ff243d9e45fb30102bc40211510d6059ef3286962d8498
+reviewed: fec03ca116d83d96b14d0791291022a02fbd87f0c9cf94e348bc8a00007b6299
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

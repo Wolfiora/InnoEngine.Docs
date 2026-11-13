@@ -2,7 +2,7 @@
 uid: api.7297535b0036b96ddded3e9dd440cf897b38fad348163fef2e12325865739dc7
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.TrimToBudget"
 source: xml
-reviewed: e60515fd9e1e81016d4fdcc6fb20767305308f7254eee3943bff98cb8ae0aa73
+reviewed: ba59052ff11654f4dda5d5ddffa426b90a4b131c0ac0e4a0f893b19ee66ad736
 title: "TrimToBudget"
 kind: api
 owners: [Inno.Assets]

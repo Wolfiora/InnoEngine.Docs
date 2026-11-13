@@ -2,7 +2,7 @@
 uid: api.inno.core.events.4d9b32847c5f8d30
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.KeyReleasedEvent"
 source: xml
-reviewed: 96c93c03e30efeccdc83c86e7dbe2e64a4050574c78ebaed58266ce9e6c1aa2c
+reviewed: 9a1dfd4e4553e7e858d09c39ce55b4e9b9752dd03e22ad835c70aa7f30f2a260
 title: "KeyReleasedEvent"
 kind: api
 owners: [Inno.Core.Events]

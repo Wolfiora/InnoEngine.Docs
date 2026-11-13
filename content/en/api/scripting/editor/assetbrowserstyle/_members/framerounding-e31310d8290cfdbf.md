@@ -2,7 +2,7 @@
 uid: api.e31310d8290cfdbfd1f19c58c81007a35bfae3be4291932dcaa88ea9664aa6f1
 symbol: "scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserStyle.frameRounding"
 source: xml
-reviewed: 40930f356242d808a7031ba6136f770c8cf23e523be444a410577970b663b658
+reviewed: 191bc889f7664b359798f8b93a01061b60f86e6321d95a9af3920217e3cd9e32
 title: "frameRounding"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

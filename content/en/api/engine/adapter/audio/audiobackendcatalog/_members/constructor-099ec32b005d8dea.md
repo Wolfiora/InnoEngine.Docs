@@ -2,7 +2,7 @@
 uid: api.099ec32b005d8dea6680e672c4eae77738a0a1d68547fc8b6f8997131c5b8627
 symbol: "engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Audio.AudioBackendProvider})"
 source: xml
-reviewed: 8062cc58fa88f0bbc1c391cbc2e7f28ebafcf255121b4acc3417c9f01bf165c0
+reviewed: 094a317f0a71eba45281fa25128b8add5abf813ac434e7d3a1a2d23fb8b55d4c
 title: "Constructor"
 kind: api
 owners: [Inno.Adapter.Audio]

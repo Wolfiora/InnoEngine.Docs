@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.0def49589f32cc91
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderNodePort"
 source: xml
-reviewed: 0e7b5ed326a6dce02997a3e1b69dd44370b2cb5223306550b975efdc61abad32
+reviewed: 4e5b068d8e587db8a1c72c6d871844ff512094251b7ee173da9d5faae8d99ee3
 title: "ShaderNodePort"
 kind: api
 owners: [Inno.Rendering.Shaders]

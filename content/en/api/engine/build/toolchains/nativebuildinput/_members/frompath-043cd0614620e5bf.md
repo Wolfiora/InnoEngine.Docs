@@ -2,7 +2,7 @@
 uid: api.043cd0614620e5bf17f9b619688dc75e0aec65a92b47c40a13477a619645b6e2
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildInput.FromPath(System.String,System.String)"
 source: xml
-reviewed: 2bd483b482232a6af86cddd37d2d69a67aa6fc2432dc3d18ac2709b60f09dce1
+reviewed: 1ad51ffdae9c5704bd5e758f8a3a1715cdfa16b4ed0adf2ed4862ff4c3b5f2e7
 title: "FromPath"
 kind: api
 owners: [Inno.Build.Toolchains]

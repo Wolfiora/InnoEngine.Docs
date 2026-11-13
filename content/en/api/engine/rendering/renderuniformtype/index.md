@@ -2,7 +2,7 @@
 uid: api.inno.rendering.519c2f2f740bffa2
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderUniformType"
 source: xml
-reviewed: a0a2e587ec78ac5c58e89e43b8493c5d7a789505fa7284dbe9216c623862db86
+reviewed: 386a810a49906c71e5887df30c4f9bbf86065753ad8ddf3a658d91ded35068c2
 title: "RenderUniformType"
 kind: api
 owners: [Inno.Rendering]

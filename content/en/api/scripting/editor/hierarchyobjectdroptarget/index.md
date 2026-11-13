@@ -2,7 +2,7 @@
 uid: api.inno.editor.panel.hierarchy.editor-script.30e1da0eb9decc33
 symbol: "scripting:Inno.Editor.Panel.Hierarchy:T:InnoEditor.Hierarchy.HierarchyObjectDropTarget"
 source: xml
-reviewed: 35c8753c3432d8c53e11c428b0e36b1d264a92763454767d683cf3971d5f668b
+reviewed: 95ba24d2fe782f6fab10bb6e8bb6f33a3264117cca9f407957d59dc86ea767dc
 title: "HierarchyObjectDropTarget"
 kind: api
 owners: [Inno.Editor.Panel.Hierarchy]

@@ -2,7 +2,7 @@
 uid: api.703775e107a70874126d0f51d6a49d36aa1b976e690abcafeed4c46327ca9a1d
 symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.EnterExecutionScope"
 source: xml
-reviewed: 437afa4cc4ff3c5d60d9f3049daa074f1ed566a2ad121c546824e199d4f45865
+reviewed: fcd537927d7b5b5a79ae775018d92c982d5da1cc3c61807c7952d6b0edf35416
 title: "EnterExecutionScope"
 kind: api
 owners: [Inno.UI.Runtime]

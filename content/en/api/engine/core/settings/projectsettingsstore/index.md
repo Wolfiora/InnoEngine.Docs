@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.4305c3a765b0eada
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingsStore"
 source: xml
-reviewed: 8fb94984abcdfb74477e0af23c8a0730fc24e55905bb03a52a22d6aa0c0381ce
+reviewed: 415a075cc0ba9dfdc143dff8e3ff13e83cec4b540334826506c1b740952d6538
 title: "ProjectSettingsStore"
 kind: api
 owners: [Inno.Core.Settings]

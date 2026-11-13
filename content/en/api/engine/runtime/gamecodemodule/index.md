@@ -2,7 +2,7 @@
 uid: api.inno.runtime.31b0eca3978c6646
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.GameCodeModule"
 source: xml
-reviewed: 17f2cc54dd7a2e0dfb02d90d70fb4e6c4769d7dc12d6d692e2aaaa899fca370d
+reviewed: bc73c1f510bd5479329d097f8c2993e94ec232885762c6a1318cba974a20022d
 title: "GameCodeModule"
 kind: api
 owners: [Inno.Runtime]

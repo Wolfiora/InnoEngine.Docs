@@ -2,7 +2,7 @@
 uid: api.a004ae7b0017bb983d9ab95d6030dbe720cadda32c5c38e314fc5a9a938aa3d1
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.ClearPresentationTarget(InnoEngine.Rendering.RenderClearColor)"
 source: xml
-reviewed: c22e2192ae8ee745bdb30dc7a34d7240262645c016e4fbea944bbda086952774
+reviewed: 4e8e81eb27a95bcb14809ea8729e01e9dd97f3ed37fe571876194c709e43543d
 title: "ClearPresentationTarget"
 kind: api
 owners: [Inno.Rendering]

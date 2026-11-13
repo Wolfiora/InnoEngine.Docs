@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.d847eeed8ed6a979
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IPreparedViewDrawable"
 source: xml
-reviewed: 186190c5e452f5530c6fa419f4f64a33e45c462ff91c48637b7e0d9fb1c7b1db
+reviewed: 8806e9c0a611686480145f853f6ba520d773ba56331f70d23353f7e35f11a2c9
 title: "IPreparedViewDrawable"
 kind: api
 owners: [Inno.Rendering.Runtime]

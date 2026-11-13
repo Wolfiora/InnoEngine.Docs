@@ -2,7 +2,7 @@
 uid: api.e2dd69d4dd3040efd34885a26711d5dcaa6a5f77e7f4c45e170e6baedcf868bd
 symbol: "engine:Inno.Editor.PlayMode:M:Inno.Editor.PlayMode.IEditorPlayMode.ExitPlayMode"
 source: xml
-reviewed: aaf61af7d7c944d4e5b59f0991cac29cfe71be86594c9617501c6e82b45af582
+reviewed: 2fe0c6626d7c5404208dbfaaf7410910b89364b2e7ab0c86a7538039f5f8c23f
 title: "ExitPlayMode"
 kind: api
 owners: [Inno.Editor.PlayMode]

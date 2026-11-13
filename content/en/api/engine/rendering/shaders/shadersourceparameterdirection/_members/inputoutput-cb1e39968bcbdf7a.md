@@ -2,7 +2,7 @@
 uid: api.cb1e39968bcbdf7a32969dddf1e8f4542d24aedf1cdb2b92618a63e376e46323
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderSourceParameterDirection.InputOutput"
 source: xml
-reviewed: 45e6a323759897490f63a80ca9f47248c4b594e31909c91d89eec247237f1d3e
+reviewed: 157789249484e71fff2ceb3e26e5167128ad73483e6a77a42dad5a6884bffdc2
 title: "InputOutput"
 kind: api
 owners: [Inno.Rendering.Shaders]

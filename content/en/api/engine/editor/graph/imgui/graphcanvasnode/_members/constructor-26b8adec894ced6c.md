@@ -2,7 +2,7 @@
 uid: api.26b8adec894ced6c8326c0b5cf373e4d0e3606cde4a9a42e6260150fe44e3481
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasNode.#ctor(Inno.Core.Graphs.GraphNodeId,Inno.Core.Graphs.GraphPosition,System.Numerics.Vector2,System.Single,System.String,System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasPort})"
 source: xml
-reviewed: c106de7544992e7284ff016307a156eb659e3b7932a757456423c1295fc43b61
+reviewed: ef5fe80e266bfb3782b5806dca0a1c0a901bbd357b5e52228086ec4bfce60bde
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

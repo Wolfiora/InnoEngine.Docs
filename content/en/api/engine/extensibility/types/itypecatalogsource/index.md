@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.12e9d79b81828ed4
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.ITypeCatalogSource"
 source: xml
-reviewed: c2c737eb008c0b4c2e6402c6192f154150396251b117a25301ab76075467a45f
+reviewed: 11a3f22e56874b468131478f7f6404ee30306fdc04131a5862b45c45f657d0b0
 title: "ITypeCatalogSource"
 kind: api
 owners: [Inno.Extensibility.Types]

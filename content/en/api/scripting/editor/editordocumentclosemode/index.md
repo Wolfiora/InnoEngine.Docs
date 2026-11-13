@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.174ef2083be4c000
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDocumentCloseMode"
 source: xml
-reviewed: b4e08251e8b445c6c51dc1449ac2ecbb04eac1deff91e49d8e4b17c539a1a703
+reviewed: ede08831997e85ab81b6ca10571c3750959ccbec4cd40a35d531fa66c9831480
 title: "EditorDocumentCloseMode"
 kind: api
 owners: [Inno.Editor.Interactions]

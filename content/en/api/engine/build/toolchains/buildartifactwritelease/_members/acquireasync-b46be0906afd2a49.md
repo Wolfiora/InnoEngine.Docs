@@ -2,7 +2,7 @@
 uid: api.b46be0906afd2a49da9b2dfb97ac0b00a1ee64ce99b7d5b8a48c50cccf206160
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactWriteLease.AcquireAsync(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: b5920d5f4100707b2fdaee4df1ec724b3a643382bff64505bd80f66c9eb3681b
+reviewed: 69429ac15efece7992b0bbc240ca7bb23b72ee1dc1118671f73c2857bc9c8471
 title: "AcquireAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

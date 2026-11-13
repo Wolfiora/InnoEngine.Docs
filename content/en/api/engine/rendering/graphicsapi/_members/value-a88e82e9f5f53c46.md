@@ -2,7 +2,7 @@
 uid: api.a88e82e9f5f53c467797fd2671c6510ed9971470917d4ce32efaff01f0cd31e7
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.GraphicsApi.value"
 source: xml
-reviewed: 6bb6a3a8171cd3c0e7a96890b5e33fc6d0eade88bdc82ef194c026ade2faf444
+reviewed: da154d5b7100df6afa570372d77ff72b396b88a74d1f78455a19738b62fd7ebd
 title: "value"
 kind: api
 owners: [Inno.Rendering]

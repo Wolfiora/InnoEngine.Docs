@@ -2,7 +2,7 @@
 uid: api.inno.core.input.f0de48a27308a705
 symbol: "engine:Inno.Core.Input:T:Inno.Core.Input.KeyModifier"
 source: xml
-reviewed: c802db47bc87f48295ab0754a0bc86db08dc9bc8885781691b57e933739cec5d
+reviewed: e23a5b40ee042a928571bc3493ddd022f8d5f6ac9b6d1a225909d2859b351d1e
 title: "KeyModifier"
 kind: api
 owners: [Inno.Core.Input]

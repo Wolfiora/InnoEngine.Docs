@@ -2,7 +2,7 @@
 uid: api.4f600600eac316c3241fe379ea1eb14fdedd90b2c644f47fb3c530dfd856334d
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsBooleanArray(System.String,System.Boolean[])"
 source: xml
-reviewed: 89ccf2f35b87031d97e9d259d2868c1951084f60feab32709220720b3d8520d1
+reviewed: 811197f939a0604d006211aa18687080a00aa1c9a986c74f1d9ce568bf9d7069
 title: "GetAsBooleanArray"
 kind: api
 owners: [Inno.Editor.Settings]

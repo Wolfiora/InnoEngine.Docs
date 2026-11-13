@@ -2,7 +2,7 @@
 uid: api.7d31da119e727c66c3a57882ed3141e4c46d677ac89729618cd68d8bcf941c4f
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTreeNodeFlags.NavLeftJumpsToParent"
 source: xml
-reviewed: c730d07f282db1f105b3fd6e860ffc49af62b92f5ec571def0a8b5a8af61633d
+reviewed: f472f8a3a3a3a894c39423433e186109222823e940599122e54cb5e41baa89ee
 title: "NavLeftJumpsToParent"
 kind: api
 owners: [Inno.Editor.ImGui]

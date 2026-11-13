@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.838d7a57955425ee
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.IUiService"
 source: xml
-reviewed: c04446571bb5c5ab9e6a5a410baf4ba84eef5a282cd9c648f017d53dd911d64d
+reviewed: 1a5b918c2fef2efa4f25e01b95f5aecd71fdf2e85bb371ac77635ee708a97f63
 title: "IUiService"
 kind: api
 owners: [Inno.UI]

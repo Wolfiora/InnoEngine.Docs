@@ -2,7 +2,7 @@
 uid: api.7a441be21abce659de019c70d21efe0baa083f18ba681ea8e8407990c4a650d9
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TogglePanel(System.String)"
 source: xml
-reviewed: 6ef4e249b77b52f7380d0087b26bb467556c3ecc8d7be46a86349ae6afe235b6
+reviewed: 8a522bd56da43750f6ec05b16d3fd7f09c702bd00529dbd0c60eceabdc4676b6
 title: "TogglePanel"
 kind: api
 owners: [Inno.Editor.Interactions]

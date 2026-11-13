@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.c3ca1eab92692739
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioDistanceModel"
 source: xml
-reviewed: fcd30e3ef16cefc0692dd23478a9a02460e0aa07509be97fd80baaedab81d209
+reviewed: 949e3531b113787156a07aae49b3470a5d9944714365566bf4e03b878be3ee9f
 title: "AudioDistanceModel"
 kind: api
 owners: [Inno.Audio]

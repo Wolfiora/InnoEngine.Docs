@@ -2,7 +2,7 @@
 uid: api.25e7888e1ed5a2baa7135ec05b27b3d342207c2fbe2d017f14690f1d423ee901
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.CreateBindings(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Types.TypeCatalog)"
 source: xml
-reviewed: 8c621c0e03f8536f7180d5d238bf8dee0af0e16ea003133ac186d6de7e7e6c9d
+reviewed: c9fbf329ef7cd06169b11cf9054ae5668cea78d2a48d5460d4a0e6d9df98bbda
 title: "CreateBindings"
 kind: api
 owners: [Inno.Build.Composition]

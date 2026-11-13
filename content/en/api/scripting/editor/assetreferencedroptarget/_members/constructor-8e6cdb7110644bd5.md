@@ -2,7 +2,7 @@
 uid: api.8e6cdb7110644bd5f59df6589bdeab535db783f74d40de58fcabdbbee8902452
 symbol: "scripting:Inno.Editor.Panel.Inspector:M:InnoEditor.Inspection.AssetReferenceDropTarget.#ctor(System.Type,System.Action{System.Guid})"
 source: xml
-reviewed: f8db34beac10d8311a93ca3ed44d27125815e66e4563a136ff9fafb7b2fd9029
+reviewed: d3c2b75976a52d37c4917c3ecfcf5105f5a25b22f2d246ee94cf2b7a5e1ca6bf
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Panel.Inspector]

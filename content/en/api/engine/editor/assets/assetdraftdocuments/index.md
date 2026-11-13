@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.59b3edbc8dfa119f
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetDraftDocuments\u00601"
 source: xml
-reviewed: 0919747db1efe04c333bdb755bb74329d665c2b69a23d3050a5c0d6b812491d0
+reviewed: 3f05a9bf621ab1d6e9e6ff99feb9b07c5710e164903f040cbd529873dbd2025b
 title: "AssetDraftDocuments"
 kind: api
 owners: [Inno.Editor.Assets]

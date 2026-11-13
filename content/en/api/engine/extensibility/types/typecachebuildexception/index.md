@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.7e0166142ae9cf5e
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheBuildException"
 source: xml
-reviewed: 5aa82e70e68abd925f18c022cc64b8d63004d35e426db175aacb85343c08457d
+reviewed: 3c4847125d227f3d8d2f3f23801690abc55f4f478fecba26ac762e301ff7db17
 title: "TypeCacheBuildException"
 kind: api
 owners: [Inno.Extensibility.Types]

@@ -2,7 +2,7 @@
 uid: api.aa116972eb777602d32116f2eca000481992494fbdc2f52b9614c13b9839dd19
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneAsset.CaptureContent"
 source: xml
-reviewed: 5613ae7b37451e304aa3c78ea4856492a457df083cce8cbf309dc43802d1804a
+reviewed: 52585432515c44fbd1e263ddffd66f9ced4b665553f15d6018a0da05d38c6ea5
 title: "CaptureContent"
 kind: api
 owners: [Inno.Scene]

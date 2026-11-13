@@ -2,7 +2,7 @@
 uid: api.1080e179498c9edba4788ee4c00d36fa92b478e98c78d92dcd74e808a37812e2
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.ReadTexture(InnoEngine.Rendering.RenderTextureHandle)"
 source: xml
-reviewed: c0c2daa64a52ee911bc67179c53986faf1dbddba4e0641ca686401fa25554713
+reviewed: b8b2815902ed9e2b2548cbbb698bf5d5b9ae5c8d6c01240dbb990a9bc4ba5ea9
 title: "ReadTexture"
 kind: api
 owners: [Inno.Rendering]

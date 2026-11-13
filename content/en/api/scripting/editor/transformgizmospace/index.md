@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.cfb70b4b7c69cd8d
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.TransformGizmoSpace"
 source: xml
-reviewed: f2bfa559759ca64ad0520877582bfdb66fa475d5de89cc92a5d286655e8a593c
+reviewed: e2cb060b3ef89754d13c8bd4ca484fd2e3229dd453a293d99e264632e6cc0e9e
 title: "TransformGizmoSpace"
 kind: api
 owners: [Inno.Editor.ImGui]

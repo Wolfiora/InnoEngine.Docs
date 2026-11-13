@@ -2,7 +2,7 @@
 uid: api.7c3bc24a8506f541138e25575058fb2024307381e64d532e6b7119019024e862
 symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: 60c2932bf539dee23ed3a86310c45364b87bc42bd1ce445e1944ed44e905f893
+reviewed: 4633336001d882ace8873d0666bffacf288dbc0d3eb36ec0d9b90389324cf306
 title: "PublishAsync"
 kind: api
 owners: [Inno.Build.SupportPacks.Core]

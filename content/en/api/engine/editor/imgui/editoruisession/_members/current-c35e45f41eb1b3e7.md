@@ -2,7 +2,7 @@
 uid: api.c35e45f41eb1b3e768481a3f0d003b33f2e72070c8bdf711110664c799014887
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorUiSession.current"
 source: xml
-reviewed: 9078a23f9e7b2a85ed7b85661ac0da0157c88dc2482afc95590d20de73f4e7a6
+reviewed: 5d439871406a013b16f75c6156ebfa5c8884c153bc445a44f2987b1862f67347
 title: "current"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.aca9b068f9dbf4fc53a2953b27a73ca9d99d6e4db11ee2ba7b3315aa4476ff61
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.IProjectSettingsLookup.Get\u0060\u00601(Inno.Core.Settings.ProjectSettingId)"
 source: xml
-reviewed: 7878f5e1b06fdb56fdac5eb6a6ea3a2fa7b6b1842e51ac67409948e83f8af11b
+reviewed: 86cd901bdec2a1a994980ca9f41af4302bcdc4972a75073c6ef9e1e936d55a9c
 title: "Get"
 kind: api
 owners: [Inno.Core.Settings]

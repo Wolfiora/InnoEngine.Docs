@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.9aef015422855559
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationMemberMetadata"
 source: xml
-reviewed: e9059aec0d529b85f506b85e3bbd2b1e15789639fa1d55d30f911f15ff3bea90
+reviewed: b162afa3dc9a1923bf2b15a2313328a1141cd08248226b60484b383de2ccc1f9
 title: "SerializationMemberMetadata"
 kind: api
 owners: [Inno.Core.Serialization]

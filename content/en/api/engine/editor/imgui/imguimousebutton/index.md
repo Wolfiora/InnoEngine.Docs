@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.dbf688c120cbaf2b
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiMouseButton"
 source: xml
-reviewed: 10a9a44197271b17177de97980e5457cd3da527dcf70c1f3f64b2ac9a45425c7
+reviewed: 989197412f7968053a641473c98b25b4f31681a437f78a17f1c78f5f9a3fdce7
 title: "ImGuiMouseButton"
 kind: api
 owners: [Inno.Editor.ImGui]

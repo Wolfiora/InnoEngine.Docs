@@ -2,7 +2,7 @@
 uid: api.9b11c98b22418afe381f50858426c377a942c126f7b30ba62ca1e6e1535010a1
 symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.IApplicationStorage.WriteAsync(InnoEngine.Storage.StorageKey,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)"
 source: xml
-reviewed: 7dd8440001afadac025dd52259cd7d0d717247340942460714109eaabe2ef7eb
+reviewed: 0def4cf67362259de3c4e3fc87ee575c76d405594df9b6396ce35a678c4ea531
 title: "WriteAsync"
 kind: api
 owners: [Inno.Storage]

@@ -2,7 +2,7 @@
 uid: api.4e07029a344249bd7605385e0831af275010ef85a4894e9520c747c7d7b4dc09
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.op_Implicit(System.Numerics.Quaternion)~Inno.Core.Mathematics.Quaternion"
 source: xml
-reviewed: 4be451c710fd149ad12f2c374c241f473ebd1d6ff8d038997296dbcf0f267d3f
+reviewed: 2d612cd5be9de8aa80c188d3d5687cd552da36275c10734701cd38dac136b2f9
 title: "op_Implicit"
 kind: api
 owners: [Inno.Core.Mathematics]

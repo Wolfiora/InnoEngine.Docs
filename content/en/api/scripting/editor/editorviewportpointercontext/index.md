@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.ffbe6429972c6662
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportPointerContext"
 source: xml
-reviewed: b875d9c483d0671fa5478679ad6143d9ef978e15c3e9b297eef5e46b23ff727b
+reviewed: 27b3a309258f256d67f421f6ef084acabce19380dea80e819eb2878358e6fbec
 title: "EditorViewportPointerContext"
 kind: api
 owners: [Inno.Editor.Rendering]

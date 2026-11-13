@@ -2,7 +2,7 @@
 uid: api.94e4f7a5c682649a7947a773cba1393de685be06a0b366d5f5b99519c6be97e8
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceRequest.entryPoint"
 source: xml
-reviewed: d345ea33027bc65714652d398131331ce38d1c36612785f8e15d77f0b086be7c
+reviewed: 4297ccf5691bc94016dd2d2a2f77cac90856193c7a6a57c2d54c3a054cee2d94
 title: "entryPoint"
 kind: api
 owners: [Inno.Rendering.Shaders]

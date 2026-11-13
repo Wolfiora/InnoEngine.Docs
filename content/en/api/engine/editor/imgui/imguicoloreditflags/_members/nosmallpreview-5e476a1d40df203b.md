@@ -2,7 +2,7 @@
 uid: api.5e476a1d40df203b5dee8120ff2b83e8df87c7e46803ff12987b93f98d649710
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiColorEditFlags.NoSmallPreview"
 source: xml
-reviewed: e56dd31818d9c90c8dcf4b13f9cdf8b80f5b69a0d7bf911525c9580f6ecb6ff5
+reviewed: fead108d209d7e9d2077641f6d9b7bb78043557bcac39853cd222ae9ea8ace1a
 title: "NoSmallPreview"
 kind: api
 owners: [Inno.Editor.ImGui]

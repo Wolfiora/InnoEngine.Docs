@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.8450ee22e9021ad1
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderPipelineContext"
 source: xml
-reviewed: b704c4ba6323c42da374fda0548840c648184f30eb69075128c2b4ed764926e4
+reviewed: fb63261d300ea5ef17cbccc03e20b32781fd9f4ec3ced7a892f0b2fe6bf3d183
 title: "RenderPipelineContext"
 kind: api
 owners: [Inno.Rendering.Runtime]

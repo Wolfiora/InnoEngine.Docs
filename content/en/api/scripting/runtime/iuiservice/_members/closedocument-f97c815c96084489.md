@@ -2,7 +2,7 @@
 uid: api.f97c815c96084489318afc2411a78dbf241e9686a8a0152e23febe19bd6ceece
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.IUiService.CloseDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle)"
 source: xml
-reviewed: a204f8c982b2ce7f4af119c3355a8048ba3541db4f73e855c8fd51d629f9ed28
+reviewed: 9c3c6cae67d5a93feaace818f7bd8a864fc50c7418678a7e6d61056a8fd48ab3
 title: "CloseDocument"
 kind: api
 owners: [Inno.UI]

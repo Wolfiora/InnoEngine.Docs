@@ -2,7 +2,7 @@
 uid: api.21aa656215d5bc1d2bcd87c4519950346feb829fc61f04edf18762b78b2989fd
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.op_Equality(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion)"
 source: xml
-reviewed: cd9fe56bcd7549630510f50f381ea55372cec25aead754b530c9e9c2b760682d
+reviewed: 67de0281824e17e3c28befbf084f84b8464d699323404853d850d1a4f9b8d379
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.075db56aee958f9d6590291348e3651cdc6a27ca11162592b3aeb2bffd1409d2
 symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingId.value"
 source: xml
-reviewed: fc0a864f6f901c7b99b80bcb72b4017b8abd35afbe8d3c1ea36e5625ed0d35c1
+reviewed: b54cca805a341dcc10d4d62a465740d26cfe5cca9479a6e7c52aca9aa94ff837
 title: "value"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.62cf819c139f48f7
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderIrOperation"
 source: xml
-reviewed: a8e5b847381c98b1d4d1bd7b71aa40843a11e25865f51bea026d472e11f4f87f
+reviewed: 2030abafd41bfd52b86db7daa93a1985b0bb8f522f9b23e97dcc39a23ba55974
 title: "ShaderIrOperation"
 kind: api
 owners: [Inno.Rendering.Shaders]

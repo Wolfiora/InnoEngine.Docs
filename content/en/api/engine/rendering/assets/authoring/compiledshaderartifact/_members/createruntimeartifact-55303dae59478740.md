@@ -2,7 +2,7 @@
 uid: api.55303dae59478740f1de10de094ebb0421fb69ed1676bc54a9274331846558df
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.CompiledShaderArtifact.CreateRuntimeArtifact"
 source: xml
-reviewed: 3e6f0baf99288effec25f908fc48a3cd081a719949bf52743ef8fb4b7f2c1b82
+reviewed: c5062dd28b51db7bae3fece937aae584292c7716957d9797066b6a36c26a1175
 title: "CreateRuntimeArtifact"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

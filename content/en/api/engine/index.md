@@ -7,7 +7,7 @@ owners: []
 
 # Engine API
 
-Browse public C# engine and tooling contracts by their owning project. Backend, external-library and test APIs are outside this reference.
+Browse public C# contracts from src/ and build/ by their owning project. All other source roots, tests and fixtures are outside Engine API.
 
 ## Adapter
 
@@ -53,10 +53,6 @@ Browse public C# engine and tooling contracts by their owning project. Backend, 
 
 [Browse Input](input/index.md).
 
-## Integration
-
-[Browse Integration](integration/index.md).
-
 ## Platform
 
 [Browse Platform](platform/index.md).
@@ -100,10 +96,6 @@ Browse public C# engine and tooling contracts by their owning project. Backend, 
 ## Text
 
 [Browse Text](text/index.md).
-
-## Tooling
-
-[Browse Tooling](tooling/index.md).
 
 ## UI
 

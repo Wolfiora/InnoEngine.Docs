@@ -2,7 +2,7 @@
 uid: api.67ba1fd00e0481831e41d3a2af8fcb111952ce49ba0ed11303af3c0389baea0b
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetCacheOptions.maximumSizeBytes"
 source: xml
-reviewed: b13d9d722afe37b8a5a0ef574b7610e3fdf08ddf37fb33dcb855f612f222bb60
+reviewed: f42e470adb6b656c5a0620dc17a797186ef19bc9666440dbb12339be7246f724
 title: "maximumSizeBytes"
 kind: api
 owners: [Inno.Assets.Pipeline]

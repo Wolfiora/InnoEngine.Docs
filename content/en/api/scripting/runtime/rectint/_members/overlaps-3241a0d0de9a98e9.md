@@ -2,7 +2,7 @@
 uid: api.3241a0d0de9a98e960056bb29e88f85ca31c97a585906299da16e2e5815f9518
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.Overlaps(InnoEngine.Mathematics.RectInt)"
 source: xml
-reviewed: 21d6f96ddb53f0b900d39e62922006740d24747bc760bef2aa3ad835ae99d584
+reviewed: ac98b66ec3a39578b16a4c93aa68c84063f0fd00bb5b3512c8c299891275d245
 title: "Overlaps"
 kind: api
 owners: [Inno.Core.Mathematics]

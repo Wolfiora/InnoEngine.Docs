@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.744729150fd6ac26
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildCachePublisher"
 source: xml
-reviewed: 485ff75f2eaa362740284576127f9f74bc86ebfec9729da1a81b1161083bbb54
+reviewed: b43dd2081f9cf269daade57c0996901a66f219d8a1eb71cb4570a4e4c9439e69
 title: "BuildCachePublisher"
 kind: api
 owners: [Inno.Build.Toolchains]

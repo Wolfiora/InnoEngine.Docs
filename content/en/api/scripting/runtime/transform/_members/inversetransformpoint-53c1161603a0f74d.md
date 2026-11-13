@@ -2,7 +2,7 @@
 uid: api.53c1161603a0f74d9ee7f490075ae27130c7ad16b3576683fa9b7ef5971aedea
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.Transform.InverseTransformPoint(InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: 70758927013c6cc1063fbf38d1e0b018db2c3b2b7fd66231f6b87f8c756bc805
+reviewed: 74160144e83dcdc490f8778b4ae36f4fb035cfb0b798fddd2d567a8e652a94fb
 title: "InverseTransformPoint"
 kind: api
 owners: [Inno.Scene]

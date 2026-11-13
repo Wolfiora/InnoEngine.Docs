@@ -2,7 +2,7 @@
 uid: api.766d3f1f6acf4c623a8e9ce7af7c5a176ffd6bdea7afbfaec392d458f35fdc17
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.Apply(InnoEditor.Interactions.EditorHistoryContext,InnoEditor.Interactions.EditorHistoryChange,InnoEditor.Interactions.EditorHistoryDirection)"
 source: xml
-reviewed: f182b3ad08a7af0786c904de6eb3df8deadb9efe51ce4229f5068df836bacd85
+reviewed: eefd46f398768f00aa50efe1d50c5be56bd308b7cee0f793a22545bfab84b9b8
 title: "Apply"
 kind: api
 owners: [Inno.Editor.Interactions]

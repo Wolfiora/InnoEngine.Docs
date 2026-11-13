@@ -2,7 +2,7 @@
 uid: api.4da85affd83365516db67d2eaf7846db7dbf61d4a59843cf3053a6a551a43afe
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.TitleBgActive"
 source: xml
-reviewed: e43f9f1db0d05002eb833262819acb47ad74e44a8666ea3d36f2e9a69d85ff6a
+reviewed: 7a167c2d7797bd3485184e8ab34812a2a6089bc446ec0ab5279d4a1eb3c3674d
 title: "TitleBgActive"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.9037330a2afede12ce50f7ad3e66e9c34203505a8940a6f775bec23bcf4fab84
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.IUiService.DestroyContext(InnoEngine.UI.UiContextHandle)"
 source: xml
-reviewed: 7990510e1757de518ab3caf6cc7a682b1d820e4741b8b309ebe0007ca49ebc4e
+reviewed: be6d2572040f4a70d2d114948677133e4f358d1796aab0878e0f9667b262a99a
 title: "DestroyContext"
 kind: api
 owners: [Inno.UI]

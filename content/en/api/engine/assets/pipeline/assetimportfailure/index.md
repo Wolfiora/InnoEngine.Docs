@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.e0df66f40562ebd3
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportFailure"
 source: xml
-reviewed: 039b0d23526b9184d5ded74b25228c31bccbf7493c35128a6444441c9a3b7703
+reviewed: 0e292b5f99b467e160d6202085759c98011a634647989bd8dbd8706978bbb9da
 title: "AssetImportFailure"
 kind: api
 owners: [Inno.Assets.Pipeline]

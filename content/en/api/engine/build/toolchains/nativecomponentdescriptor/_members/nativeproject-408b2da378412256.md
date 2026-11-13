@@ -2,7 +2,7 @@
 uid: api.408b2da378412256e1f24faf48c3604c25a4610891e4bad9406b35aae0ca919f
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeComponentDescriptor.nativeProject"
 source: xml
-reviewed: f2fa3fcff8aa90703a1a0ea3f41fe854a9cfd521f84b22bc26e318683f5be56c
+reviewed: 62021219455bc1fd6682d2f2a67396dd60054c11b8c4cbfce02792885e3ad9f1
 title: "nativeProject"
 kind: api
 owners: [Inno.Build.Toolchains]

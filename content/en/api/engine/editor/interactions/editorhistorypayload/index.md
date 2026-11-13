@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.8ad6c774847c38c1
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorHistoryPayload"
 source: xml
-reviewed: 4a6d1d06951582af239eed708857ccb0bb5e76b340e090ef42482003262dfa48
+reviewed: 8c52a7c17996939f1c20b61374463f86b2ef766c0866c9b48f7178a5442b8a05
 title: "EditorHistoryPayload"
 kind: api
 owners: [Inno.Editor.Interactions]

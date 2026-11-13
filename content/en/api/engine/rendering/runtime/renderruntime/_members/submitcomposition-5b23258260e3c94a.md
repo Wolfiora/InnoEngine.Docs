@@ -2,7 +2,7 @@
 uid: api.5b23258260e3c94a0b616dcc6dfcb1ada062ae6a33a2d7aeec02093c5610d5fd
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.SubmitComposition(System.String,Inno.Rendering.RenderTarget,Inno.Rendering.RenderViewport,Inno.Rendering.RenderTextureFormat,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderRequest},System.Int32)"
 source: xml
-reviewed: 33376cdf7e82de69521611a747ee22201e5cd2f7c95f8fd8a1416b639256486c
+reviewed: f6931b38995dfb2abdfb2a63c975f4082c2484d05a2c88b323f83303edbe07b6
 title: "SubmitComposition"
 kind: api
 owners: [Inno.Rendering.Runtime]

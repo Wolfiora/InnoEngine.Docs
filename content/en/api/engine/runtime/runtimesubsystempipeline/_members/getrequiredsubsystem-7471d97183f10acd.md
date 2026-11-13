@@ -2,7 +2,7 @@
 uid: api.7471d97183f10acd70b38505759f31ffa5fbb05ff84e885157fd47b09d9233e4
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.GetRequiredSubsystem\u0060\u00601"
 source: xml
-reviewed: 4d10ac618de9f1b8b7cc3b335dfa44c9c674f61d3f93d83b0c393256160d5ef9
+reviewed: 163dcf0616e0beed5cf98301fcc8d6eed049193d257757946cbf9e91ee283357
 title: "GetRequiredSubsystem"
 kind: api
 owners: [Inno.Runtime]

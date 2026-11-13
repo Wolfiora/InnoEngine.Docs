@@ -2,7 +2,7 @@
 uid: api.inno.rendering.7f3159dede05c259
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderPresentationSize"
 source: xml
-reviewed: bcea7010ca80f4917ceacde00aae7ac752ffaff9c980134f235af20eea43ab7a
+reviewed: b6e5fdc59a392b01e8d996b61674b4365a23cbbff772a2af97e38d672f8bd0d0
 title: "RenderPresentationSize"
 kind: api
 owners: [Inno.Rendering]

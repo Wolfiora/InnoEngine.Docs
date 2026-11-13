@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.editor-script.0103fa65d688d9df
 symbol: "scripting:Inno.Rendering.Assets.Authoring:T:InnoEditor.Rendering.Assets.ShaderSourceImportSettings"
 source: xml
-reviewed: e6fb8e1371ff9a6e61a2565697a317654d371e8edf8fa7db4d79c530b3fbce1a
+reviewed: c9cc912cee6ee961c87a98587e7b8573e3f09c657149ec50edac2d5262514b31
 title: "ShaderSourceImportSettings"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

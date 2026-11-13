@@ -2,7 +2,7 @@
 uid: api.cdafce97d20adeabd0c082a550645684101b39c9058c8a35cf196ea63d5c8acb
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.Equals(System.Object)"
 source: xml
-reviewed: 0057ac53a2650cb1b8800bfa91be1850808c3941482f43c0819644711bd2b807
+reviewed: 0e666c71b957680e58209ae7301731906b3a86569367ffe294d5dd38dbd4f107
 title: "Equals"
 kind: api
 owners: [Inno.Scene]

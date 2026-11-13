@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.371120ccd5099c49
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPassRecordingMode"
 source: xml
-reviewed: 8e338f7f3454e73aa2b1123e8305c0928950c9e6e78924f1a321e48eaa6f562a
+reviewed: 041c0f526cf9dbde92a1a4229b3df91fe296d474efc4d9b27f4a59ad543b90d0
 title: "RenderPassRecordingMode"
 kind: api
 owners: [Inno.Rendering]

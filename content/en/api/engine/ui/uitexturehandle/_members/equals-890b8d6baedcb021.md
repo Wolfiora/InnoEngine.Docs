@@ -2,7 +2,7 @@
 uid: api.890b8d6baedcb0213ebf30bf92226c92492135edd2d9d06b638d38eb0b39ce86
 symbol: "engine:Inno.UI:M:Inno.UI.UiTextureHandle.Equals(System.Object)"
 source: xml
-reviewed: 1a77238a990f516e8db3b25bc56a91a893ae28803f35f1dce44c0bee7c63b9be
+reviewed: 765d5759e00cd44c96a4e198418f56902eec3a9c8a3ce47c99d38dc21f06e12c
 title: "Equals"
 kind: api
 owners: [Inno.UI]

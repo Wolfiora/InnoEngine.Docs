@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.17edbb2b94d72688
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBufferUsage"
 source: xml
-reviewed: d23c45215c41cdd57ce655f74729c8612bc4b7fbd1707ec896307fa89e7eec54
+reviewed: 2a8d785e2d1c679b41fec778c382f4ba8f3fb44a0e393577b751f32911e7a365
 title: "RenderBufferUsage"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.069fda85c5928e67
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.InspectorCondition"
 source: xml
-reviewed: 1e71e3806347c73cd3d318c8ccf9564afcb18a11e286fbe01afa5238c5035ad9
+reviewed: 9834a12181a4c4a2c0cfd7748ca9f2d4fe9ffc7755af48127dfe59bee5bff9e7
 title: "InspectorCondition"
 kind: api
 owners: [Inno.Editor.Annotations]

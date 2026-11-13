@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.15e9a92bb41ac1fb
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.MaterialValue"
 source: xml
-reviewed: fbb0a099eb6719666a0a590665795e82101747081bc73a5fa09c31379d31b49c
+reviewed: 1dc82a73a80e48d7a7f1486d5931d1db0e6973fc0165f75aebea3129a60d10a8
 title: "MaterialValue"
 kind: api
 owners: [Inno.Rendering.Assets]

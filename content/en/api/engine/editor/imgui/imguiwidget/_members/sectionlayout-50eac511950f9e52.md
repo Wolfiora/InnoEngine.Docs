@@ -2,7 +2,7 @@
 uid: api.50eac511950f9e5253e9a559ea844ed00609f8c8b3743bc15859ee8fe6db53a6
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.SectionLayout(System.Action)"
 source: xml
-reviewed: 28c9e5cdc7e510662dbd4ac133927b63b34e6a231e91c08a32f556cd5fbfe037
+reviewed: a60747445aabda684e244f7b6e979485c5e26f8d90a35794d657697d2c0dea10
 title: "SectionLayout"
 kind: api
 owners: [Inno.Editor.ImGui]

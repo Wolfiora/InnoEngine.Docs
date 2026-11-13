@@ -2,7 +2,7 @@
 uid: api.82dab244431d8e3a29f186cda4f21f4a9f96cbc4b0ef968ab23a81366f42df3f
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsItemClicked(InnoEditor.ImGui.ImGuiMouseButton)"
 source: xml
-reviewed: 7cda84a9d2ff5eecb97a6def3d492809c0024390cc62126dccac4d1cf2a871e6
+reviewed: 7ffd0004fb26cd1ed239f807c59a4013e56516c374e50e357500ab0fbb9b2095
 title: "IsItemClicked"
 kind: api
 owners: [Inno.Editor.ImGui]

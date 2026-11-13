@@ -2,7 +2,7 @@
 uid: api.06ec6bdd8dcad58db5130ac1a53fc0ea4eac43be9042fcea43052ee25babaed4
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.DrawIndirect(Inno.Rendering.PersistentBufferHandle,System.Int32,System.Int32)"
 source: xml
-reviewed: 70a4a915fd9bd82474121b17a13db705886bbe9b5758757cfa4fb0da4a293958
+reviewed: c76fa290d17266fbb194624a8317d2ceb1795d2d015ef366a1a3328b669cd7f2
 title: "DrawIndirect"
 kind: api
 owners: [Inno.Rendering]

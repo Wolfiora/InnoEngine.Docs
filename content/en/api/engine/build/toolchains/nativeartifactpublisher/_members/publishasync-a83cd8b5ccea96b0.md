@@ -2,7 +2,7 @@
 uid: api.a83cd8b5ccea96b0a7e974f443e3c6996a76e214057ed8360c0500177a659752
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactPublisher.PublishAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.Threading.CancellationToken,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeArtifact}})"
 source: xml
-reviewed: 021cc3d1c61d9cdc89f7cf00b83a8ab0e69568eabce7a96a45d187aaacd8a458
+reviewed: fe93314f46b3e7aee7c6f07b9eaf3ef3453e01bee2ee71f6c7d0d7fade60956d
 title: "PublishAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.787ddfcf9a178fc6
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.InspectorNameAttribute"
 source: xml
-reviewed: 3673bb5ff1ed304a24c1b6a8b7a511799f44caa85a5ef84b1a2d52ca92300fcb
+reviewed: 76131fb1f3b5fc50d4bd6d9ba4255a7c8f981ecca4b3a984a78cd297317d7a03
 title: "InspectorNameAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

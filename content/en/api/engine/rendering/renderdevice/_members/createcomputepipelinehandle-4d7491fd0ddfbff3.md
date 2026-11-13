@@ -2,7 +2,7 @@
 uid: api.4d7491fd0ddfbff360d1decf60cc11234159d8284c54b6a4560ff0a4227ab442
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreateComputePipelineHandle(System.UInt64,System.UInt32)"
 source: xml
-reviewed: 8342b0d59962b5f9facd8277ce4fad027245a1e02e4056a071ac0271eb96dde1
+reviewed: 583691bdb5915edcc61a428084c4d76ec8057838f78fb5e6a58b6672c7d688fd
 title: "CreateComputePipelineHandle"
 kind: api
 owners: [Inno.Rendering]

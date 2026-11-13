@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.97d8fe14c1fd515b
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.IGraphNodeDefinitionResolver"
 source: xml
-reviewed: 8e146b32015d2dd9d70db2552569f0ae987fe06afe3a439d96d2118a8d44f8c3
+reviewed: 39c736e4a2b5d5166e63396e8ae612a0eb14cfc57b42c2960dd17ce14aa878c7
 title: "IGraphNodeDefinitionResolver"
 kind: api
 owners: [Inno.Core.Graphs]

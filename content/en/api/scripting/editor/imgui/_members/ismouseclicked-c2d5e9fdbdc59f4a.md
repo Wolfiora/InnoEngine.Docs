@@ -2,7 +2,7 @@
 uid: api.c2d5e9fdbdc59f4a0215998187dc62eea76b2c66db0eb1f07adfcfebc8d5e140
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseClicked(InnoEditor.ImGui.ImGuiMouseButton,System.Boolean)"
 source: xml
-reviewed: fa979e60c148ee8e3ee54655d9501a9813987b5a355b6a8e690a6b5659a705f9
+reviewed: fb9324b86e81ba0aa1e1b943b621f4019f3d6e23a0dcd412930cf95dacef28dc
 title: "IsMouseClicked"
 kind: api
 owners: [Inno.Editor.ImGui]

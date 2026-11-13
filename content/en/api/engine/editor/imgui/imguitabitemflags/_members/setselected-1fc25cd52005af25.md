@@ -2,7 +2,7 @@
 uid: api.1fc25cd52005af25d063e436a58e12a3c38ec313ef4f8d0792ac8bb140c209ab
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTabItemFlags.SetSelected"
 source: xml
-reviewed: c4690586d13b886b89f245e3a937324a86e4e055980a548097fb0d980f475471
+reviewed: a3058cebea74a562168368dd89369f2a0657ef395d5f7a4d33b0d273449e6d1a
 title: "SetSelected"
 kind: api
 owners: [Inno.Editor.ImGui]

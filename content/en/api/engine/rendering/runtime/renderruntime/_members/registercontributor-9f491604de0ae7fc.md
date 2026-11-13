@@ -2,7 +2,7 @@
 uid: api.9f491604de0ae7fce05fb5539bbd8569f64266e1a5c525c661d4d2073f3fcf54
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.RegisterContributor(Inno.Rendering.IRenderFrameGraphContributor)"
 source: xml
-reviewed: 4b1ce9eb543a68e64c109e6555f85b72e905a9268d715e899f42e675fe021f1d
+reviewed: 85ad549b9f6c7e2d8d88aaaac96de171dab12f4dc7a8134aebfc181ccadff86d
 title: "RegisterContributor"
 kind: api
 owners: [Inno.Rendering.Runtime]

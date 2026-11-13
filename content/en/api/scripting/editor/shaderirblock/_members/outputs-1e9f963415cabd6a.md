@@ -2,7 +2,7 @@
 uid: api.1e9f963415cabd6a256812894cc73c56f8d89f2a1dc2458caf5f7a2619175bbf
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrBlock.outputs"
 source: xml
-reviewed: c8f751a20033d025b231cf9c85a810318ef8a1257fa4938627831ae528be79c4
+reviewed: 65df3e81125373f5c65a7259984a3fbf85b18480bfde33615c6963190950583a
 title: "outputs"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.c8d8d947f5e3c4be58556d8c1200dd7b51c0b6d732afb5d40274f06b7bd478d2
 symbol: "engine:Inno.Input:M:Inno.Input.InputSnapshot.IsMouseButtonDown(Inno.Core.Input.MouseButton)"
 source: xml
-reviewed: f2a8365d2cfe7f8b4caf24bc58dce2ae6f109faf2b22df71356e88945013d940
+reviewed: 5cc229b206b19d4f3cbfd1a1badf646f581cf8f7e048c26663278e787299b4f5
 title: "IsMouseButtonDown"
 kind: api
 owners: [Inno.Input]

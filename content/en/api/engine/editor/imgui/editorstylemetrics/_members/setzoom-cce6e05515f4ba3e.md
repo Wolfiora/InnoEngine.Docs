@@ -2,7 +2,7 @@
 uid: api.cce6e05515f4ba3ec4a2a7189a08cbcbda5fbbc26b6cadd29c8fcd3d6e148220
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorStyleMetrics.SetZoom(System.Single)"
 source: xml
-reviewed: 67f049636b1ca877bec0814c5bf7058fff9cc0c0601b8cba78c345d3aafe51a7
+reviewed: 806b5c0a145350186dfa8aa06b9eccab032311b338d3fc84097380ebb56f7c76
 title: "SetZoom"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.9a5c75ef387bad70fa73320635262bf19f9343dbec733e287a66b2f2da6f31a6
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatistics.Publish(InnoEditor.Core.EditorStatistic)"
 source: xml
-reviewed: bad6a585e1a20dafc0110cd797cd8ce92ca67944c695785adab2616c109baf72
+reviewed: 4bb50fcec07498dcbcdd8e7beb18386bd29320e7c7c479a447ae64bf434e490a
 title: "Publish"
 kind: api
 owners: [Inno.Editor.Core]

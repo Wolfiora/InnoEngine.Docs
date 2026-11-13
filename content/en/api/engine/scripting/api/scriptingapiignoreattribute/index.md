@@ -2,7 +2,7 @@
 uid: api.inno.scripting.api.6f64bf8a64a6282e
 symbol: "engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingApiIgnoreAttribute"
 source: xml
-reviewed: c24f29a37b45ebb8bf8c9f7f199ef2bfc3ec95bf1e9b92e8808d28089af30ea4
+reviewed: 72e9c81f9e65bf0e9979fec1eee688c4cc77a46b5f0b5d0d4de84e12f318fb43
 title: "ScriptingApiIgnoreAttribute"
 kind: api
 owners: [Inno.Scripting.Api]

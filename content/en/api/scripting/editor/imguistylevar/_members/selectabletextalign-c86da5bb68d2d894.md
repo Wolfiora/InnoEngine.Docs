@@ -2,7 +2,7 @@
 uid: api.c86da5bb68d2d8949c9c5440b7c90c3e4934af45c4be8e407d5331e384f16550
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.SelectableTextAlign"
 source: xml
-reviewed: ca562c91aca29a9fbff36114fc4b745c5f06d7ba87ae7787b8e2676fb9fec07d
+reviewed: 5e12df20fac181d23290e2a595283b0a9d1cab8b23e6ddfee590675fa925f98c
 title: "SelectableTextAlign"
 kind: api
 owners: [Inno.Editor.ImGui]

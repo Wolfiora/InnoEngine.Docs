@@ -2,7 +2,7 @@
 uid: api.4d44bd4ac88c9baeb613009eb514643f564ea63a70db3f9320e4f84f51c778b0
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.HandlePointer(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,System.Single,System.Single,System.Int32)"
 source: xml
-reviewed: da68ead9a3fe2646a4fa2f8f8a0e406dbc3198db8af815cb579735d28165cb42
+reviewed: 4e8ed3bf8a48f85ab1d49c04ecfd8cbc04ef47e47891527e65639232644058ab
 title: "HandlePointer"
 kind: api
 owners: [Inno.Editor.Rendering]

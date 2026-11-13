@@ -2,7 +2,7 @@
 uid: api.f4e8ac9baaa0b221f3e509880229ac32dd0e23662d539202469bdd91615a39ad
 symbol: "engine:Inno.References:M:Inno.References.ReferenceRecoveryChange.#ctor(Inno.References.SerializedMissingState,Inno.References.ReferenceResolution)"
 source: xml
-reviewed: b67e39162e583f6652fbd05eed49b54a4d28f414d1a98f07d3fa67f84ba7dd36
+reviewed: 7558e72b2a4c408270627d5e9762e2da1d9adad5e576b52c8044fe5eb33a6dd7
 title: "Constructor"
 kind: api
 owners: [Inno.References]

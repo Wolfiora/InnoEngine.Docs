@@ -2,7 +2,7 @@
 uid: api.a4a4ebb8417724dfbdc467a2f8abe7bded3ecc52d02cababf9488727c7ad7840
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.QualifyId(System.String)"
 source: xml
-reviewed: e9c156a80f3bfaca55283fc42f720c0c41cfb2354b61121105af89260ddc7368
+reviewed: 2e5cb32adbf2a35d95667c5abfa7892745e5328336639fce3d83b867a60536a9
 title: "QualifyId"
 kind: api
 owners: [Inno.Core.Settings]

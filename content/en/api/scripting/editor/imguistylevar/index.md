@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.3291d41ce10dd9f8
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiStyleVar"
 source: xml
-reviewed: 649c4ec047b15403f99f90fe929bcbf27571e5d590d6c44f8df81506f4c96323
+reviewed: b124879439608d93df961e0e4149c1543daaf42a194c27535d7ecf16498cbead
 title: "ImGuiStyleVar"
 kind: api
 owners: [Inno.Editor.ImGui]

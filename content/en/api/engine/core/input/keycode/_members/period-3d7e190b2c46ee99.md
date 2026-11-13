@@ -2,7 +2,7 @@
 uid: api.3d7e190b2c46ee9968cc393fa9346e14361a807ef5ddad56ddde84f36b549904
 symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.Period"
 source: xml
-reviewed: 19d7c5b4ad8ea0c82e74e72edce973845b65023769c545ed7f425442c10371f3
+reviewed: ccf0b117b9e7a3bc66be11d193a87240a00d840aed014a56577054c83bac0149
 title: "Period"
 kind: api
 owners: [Inno.Core.Input]

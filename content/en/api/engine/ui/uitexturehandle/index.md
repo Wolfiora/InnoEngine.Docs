@@ -2,7 +2,7 @@
 uid: api.inno.ui.27e920bedf7c3db2
 symbol: "engine:Inno.UI:T:Inno.UI.UiTextureHandle"
 source: xml
-reviewed: f526f17e0569e9111a2a23d8be898b678f3726ba79026ea5a8143d7668f24305
+reviewed: fb175aca73b48ef259485d4832d96c3e0ec1db2093dcf0331f7eabe3b1e3437e
 title: "UiTextureHandle"
 kind: api
 owners: [Inno.UI]

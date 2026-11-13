@@ -2,7 +2,7 @@
 uid: api.e7bad5916b51d77927fd75ad51846675aa9ccec9cc02fab041fd97a2cb1a390b
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateOrthographicOffCenter(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 5c4ef69b25ff3cd2898ece11f628f488f2488e798f30d405cf84da8065a1ec17
+reviewed: 54673fd86cc925b3204aa02865545f87f37f59e6b068ede6283e3417b56dc814
 title: "CreateOrthographicOffCenter"
 kind: api
 owners: [Inno.Core.Mathematics]

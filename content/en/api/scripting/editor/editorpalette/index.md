@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.e2d7e0515aa16b0b
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorPalette"
 source: xml
-reviewed: d3bb0be2b157b4feecddd0eb5b2ac4f75509193d5edeae4951da714253e26015
+reviewed: 49911ea4dab87efa48cc366a3b6ee36ec18c163da59caaeef4fbd912c9fea971
 title: "EditorPalette"
 kind: api
 owners: [Inno.Editor.ImGui]

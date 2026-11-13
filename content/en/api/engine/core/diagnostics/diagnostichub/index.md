@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.8edfa6987d946f44
 symbol: "engine:Inno.Core.Diagnostics:T:Inno.Core.Diagnostics.DiagnosticHub"
 source: xml
-reviewed: b520c873e0fd4c7a91a876f6c3619b6cf39f1dadcd2a9d1e6281402f6539bd2f
+reviewed: 8f7c1214d1a164553e76265dfacbbd44580fc5bcb8c0caef4d179769bc8b79e4
 title: "DiagnosticHub"
 kind: api
 owners: [Inno.Core.Diagnostics]

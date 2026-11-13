@@ -2,7 +2,7 @@
 uid: api.7a0e54d722102adebed719ab444299d11d076c26d722b75164faca218d7502ea
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Unindent(System.Single)"
 source: xml
-reviewed: 14d97941f4251a1f58310fbc52f61be9cfc845e836b624ee156570cfb90e1a4a
+reviewed: 611df3d44fac52b97a4017f60dcc4cb024198b41b922ae8511dd68f0ce620b1f
 title: "Unindent"
 kind: api
 owners: [Inno.Editor.ImGui]

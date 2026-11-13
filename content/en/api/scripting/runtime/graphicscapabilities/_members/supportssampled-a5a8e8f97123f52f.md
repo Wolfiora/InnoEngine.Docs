@@ -2,7 +2,7 @@
 uid: api.a5a8e8f97123f52fdc30b7246b81fc527e54a60d61ffafaee6fb26e7e339875c
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsCapabilities.SupportsSampled(InnoEngine.Rendering.RenderTextureFormat,InnoEngine.Rendering.RenderTextureDimension)"
 source: xml
-reviewed: 9fe2cfe49662c3fae725ca89d9297b1c528d2dcd274f40ae31f9674aa7e15ff4
+reviewed: 9eea4e8fa2c2e17225b7a387dd447fe5256714687c4221aedb44158cc97712a0
 title: "SupportsSampled"
 kind: api
 owners: [Inno.Rendering]

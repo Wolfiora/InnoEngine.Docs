@@ -2,7 +2,7 @@
 uid: api.38996519f7f9e95e8817e0937f697ff7f28e51499a297adaaca33c667fe0fb1f
 symbol: "engine:Inno.Audio.Assets:M:Inno.Audio.Assets.AudioClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Audio.AudioClipAsset},System.Threading.CancellationToken)"
 source: xml
-reviewed: acac2efbda27d8d80b4b7a939d8928e37a6fde8492e8fe7ba6b727f88b61ae85
+reviewed: 2b081739ad12fa9f6b680d98c59b7033e55f8eca7e8e760774cf31badc214c43
 title: "ImportAsync"
 kind: api
 owners: [Inno.Audio.Assets]

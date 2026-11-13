@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.7c7adc3fdcdb7926
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.ILogSink"
 source: xml
-reviewed: a74b7cb9051aa916b9c1f58075ade15ee297f7e47ce5d1cd61ee26b92d42b77c
+reviewed: 31a0a772555e9bc3231b4f5fa3ae19cca0b6039931d8ceed54c3c733018b9fd3
 title: "ILogSink"
 kind: api
 owners: [Inno.Core.Logging]

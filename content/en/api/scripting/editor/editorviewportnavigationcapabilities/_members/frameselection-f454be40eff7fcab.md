@@ -2,7 +2,7 @@
 uid: api.f454be40eff7fcabb3d3cee14b1dac3bd3a28689664185755ced787e3afca1f1
 symbol: "scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportNavigationCapabilities.FrameSelection"
 source: xml
-reviewed: 5e466be39592279c51e0311eea76b2981be10b1d920a6569a232ad39f20f325c
+reviewed: 86f451a79400077988d55b093be21ce7b206135e859ba4885b524df0337d0c6f
 title: "FrameSelection"
 kind: api
 owners: [Inno.Editor.Rendering]

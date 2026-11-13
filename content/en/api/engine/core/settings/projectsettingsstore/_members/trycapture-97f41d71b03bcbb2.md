@@ -2,7 +2,7 @@
 uid: api.97f41d71b03bcbb2aad584d0f97182a34c323e0500888257c5a2f94ebd715105
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.TryCapture(Inno.Core.Settings.ProjectSettingId,System.String,System.Collections.Generic.IReadOnlySet{System.String},System.Collections.Generic.IReadOnlySet{System.String},Inno.Core.Settings.ProjectSettingRecord@)"
 source: xml
-reviewed: dea52524fe5f170563d723e16608cda414c9418b545f63f61200eaf278639237
+reviewed: 1f94d260f59b98065bb13f6d9ba4769826dfdad92ab0e24ea47e1d4d608f7f8c
 title: "TryCapture"
 kind: api
 owners: [Inno.Core.Settings]

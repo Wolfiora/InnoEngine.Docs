@@ -2,7 +2,7 @@
 uid: api.inno.text.runtime-script.fea725fb033d19db
 symbol: "scripting:Inno.Text:T:InnoEngine.Text.FontAsset"
 source: xml
-reviewed: 2c7b5ce29e520dcb26c3479285a0480ab89ae54be8b7653278df9e98219848fa
+reviewed: 833f76b254175e5f170ecb4932676c2431b90781a9e5af7601749a5c24633c2e
 title: "FontAsset"
 kind: api
 owners: [Inno.Text]

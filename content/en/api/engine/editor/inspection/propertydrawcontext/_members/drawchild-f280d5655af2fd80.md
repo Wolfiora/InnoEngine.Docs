@@ -2,7 +2,7 @@
 uid: api.f280d5655af2fd8038d112f59204075ec470ec3cd840a445ac777d7c487eeaf8
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.DrawChild(System.String,System.Type,System.Func{System.Object},System.Action{System.Object},System.Boolean)"
 source: xml
-reviewed: b792f341a99e510766fc5c5a619caf8127c67ba642de3ff2f1df454a4572d710
+reviewed: 8c63f329a876933e770290963cee1ad46e0579f98d639db72ee74c9209277044
 title: "DrawChild"
 kind: api
 owners: [Inno.Editor.Inspection]

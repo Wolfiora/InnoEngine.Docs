@@ -2,7 +2,7 @@
 uid: api.dfa5c60d743a9daa562af656a4b49ae27c6d888c4af5f58de8df945dd447fdc7
 symbol: "scripting:Inno.Text:P:InnoEngine.Text.TextShapingOptions.language"
 source: xml
-reviewed: e7c2cae170085277a0f66ff9753a2a19baf0ba824da89dc560fb6f3c64ea4e10
+reviewed: 93166d54dc015c1e80b986031ebaee3ba9365b453f059ebe9ae804d743b4541e
 title: "language"
 kind: api
 owners: [Inno.Text]

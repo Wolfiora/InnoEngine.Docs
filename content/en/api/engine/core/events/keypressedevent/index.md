@@ -2,7 +2,7 @@
 uid: api.inno.core.events.dec0fcde34bd616f
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.KeyPressedEvent"
 source: xml
-reviewed: 884ae11cf4dd2f9301622b4e79f196b08ecb954b11fcc9ebca1b530ee2cc97a2
+reviewed: e3b8658ba5ab0d677bfb7b4fb65e54d07d23daf88270ff75d6f5821044559fb5
 title: "KeyPressedEvent"
 kind: api
 owners: [Inno.Core.Events]

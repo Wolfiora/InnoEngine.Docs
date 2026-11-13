@@ -2,7 +2,7 @@
 uid: api.5dcdde84a99d31c50202c8cdd2b73069f0c8239d7fb48ab2a3733a5600237c14
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorInteractions.events"
 source: xml
-reviewed: 80113fd399e7de2d296e4894c78983cf7d032bd85f57b752e1d05bc3577d5de9
+reviewed: 57406c14dcadf07326dab7824b17ca976da311f67c30bf3df33ac6344299528b
 title: "events"
 kind: api
 owners: [Inno.Editor.Interactions]

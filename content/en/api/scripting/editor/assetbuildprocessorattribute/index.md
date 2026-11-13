@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.5bbb4ab909c9df5f
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildProcessorAttribute"
 source: xml
-reviewed: 060d07e053f6960a0b70a829eaa5de6510eb5c4d38b7b927b872fa89f3e457dd
+reviewed: 9905b79f285bc086efd21e2a94a91e35b9aba0c6ca8290f67c8f624e9043246d
 title: "AssetBuildProcessorAttribute"
 kind: api
 owners: [Inno.Assets.Pipeline]

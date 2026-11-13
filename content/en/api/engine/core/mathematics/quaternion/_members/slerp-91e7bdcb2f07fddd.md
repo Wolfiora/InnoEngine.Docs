@@ -2,7 +2,7 @@
 uid: api.91e7bdcb2f07fddd228cb1cf6374029620f53874951b1f2ff9bf34631ddf7795
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.Slerp(Inno.Core.Mathematics.Quaternion,Inno.Core.Mathematics.Quaternion,System.Single)"
 source: xml
-reviewed: 1448ce1c16a046bb2bef4bf6475f2b482d7697f30a5ddcd493c1dd9de940fdd0
+reviewed: 23a8e497acb99c2905f637ad5a0e51259f459ba0fe4994ff88c8345855be4b9e
 title: "Slerp"
 kind: api
 owners: [Inno.Core.Mathematics]

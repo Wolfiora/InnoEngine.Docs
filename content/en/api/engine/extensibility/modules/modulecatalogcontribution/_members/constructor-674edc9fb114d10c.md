@@ -2,7 +2,7 @@
 uid: api.674edc9fb114d10cb62023196bf87a097e3084c7231c4b985e1d87cbc256e006
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleCatalogContribution.#ctor(System.String,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly},System.Collections.Generic.IReadOnlyDictionary{System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyScope},Inno.Extensibility.Modules.IModuleLifetime)"
 source: xml
-reviewed: 47d66e2179141e37faea5127f01b33d3d556dee1529bf585f18d5019604808f9
+reviewed: 595c2342f132d72d36bf9fee2032a172abcd534b4652647907e838c973bd4dd5
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Modules]

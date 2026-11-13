@@ -2,7 +2,7 @@
 uid: api.fa9a644eee5c61064b31a471a545729edc593c5de5d30c4666ff1b3b449dbbf6
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsProgramArtifactCodec.Encode(Inno.Rendering.GraphicsPipelineDescriptor)"
 source: xml
-reviewed: c7ca747cc507a59c5202bcc18aff41d34516a5a86dade7c9d79b95cefccf9a98
+reviewed: 07bad4b24f29b70d900a9172c14e86bfbf16ac08effb4d4dcf6027a9908ed236
 title: "Encode"
 kind: api
 owners: [Inno.Rendering]

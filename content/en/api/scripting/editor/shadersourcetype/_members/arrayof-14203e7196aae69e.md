@@ -2,7 +2,7 @@
 uid: api.14203e7196aae69e804de09bc06d568fa541295ee3523e331aeeb0e544823d12
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceType.ArrayOf(InnoEditor.Rendering.Shaders.ShaderSourceType,System.Int32)"
 source: xml
-reviewed: 75a502f35c6f49540a48cb9406871cdad02599631e873ee0f4da117b57e02e92
+reviewed: 6f7c657ba593e66959a0a42ffee0576653886d16cf068bb426e1f5f4c5b1cd23
 title: "ArrayOf"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.03f816f9450e5930bbecc6a7925bdc7db8bdba8f03675e82a5d5ec168eac835c
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.ConcurrentEncoders"
 source: xml
-reviewed: 0b7d77a815dde15bcbfd4f99e8dfee32b08b89746d8810f5844b823f9a39da46
+reviewed: a46a94850339066457b6ce384e224c1ae4d94399cde5f26479f8c13f8a110302
 title: "ConcurrentEncoders"
 kind: api
 owners: [Inno.Rendering]

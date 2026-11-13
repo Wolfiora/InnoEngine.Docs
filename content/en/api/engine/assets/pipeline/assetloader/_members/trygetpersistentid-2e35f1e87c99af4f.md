@@ -2,7 +2,7 @@
 uid: api.2e35f1e87c99af4fea125af5c7c7be6db7de4d2d38df67122cfb4272a88cf7c6
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.TryGetPersistentId(Inno.Assets.AssetPath,System.Guid@)"
 source: xml
-reviewed: 1b738b2dca29d64cf3797630372b254c87b1676a3824cce67a2444088c128d27
+reviewed: 08aee504abe4837ad4e53ce1f8669015d5779ea0e7f5836c975d925f10003c93
 title: "TryGetPersistentId"
 kind: api
 owners: [Inno.Assets.Pipeline]

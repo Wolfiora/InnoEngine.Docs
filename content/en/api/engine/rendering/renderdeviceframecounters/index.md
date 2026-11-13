@@ -2,7 +2,7 @@
 uid: api.inno.rendering.d2b057ab266e1ff8
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderDeviceFrameCounters"
 source: xml
-reviewed: 9b2b27a99f4ae18e0371efdb1569e5d1f6add3e4305c71cd2d1e41bd4eda7da0
+reviewed: d029b9ae5914ced6ae430ca731d019ab44b5b0c07033e042c11877121123768b
 title: "RenderDeviceFrameCounters"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.228668559443bbdca3d815f5e9564d52ca77227e87a8471032e689f18b4976d4
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireGraphicsPipeline(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.GraphicsPipelineDescriptor,System.String)"
 source: xml
-reviewed: bc0b8cb3d009b7844513f1234aed10b8cc86cdbbccec4df9a862dd7681bff447
+reviewed: cc1a3f71a6e1dd08bf7d2c2cf3de084005312929250facbccdeedb85a74e4fdf
 title: "AcquireGraphicsPipeline"
 kind: api
 owners: [Inno.Rendering.Runtime]

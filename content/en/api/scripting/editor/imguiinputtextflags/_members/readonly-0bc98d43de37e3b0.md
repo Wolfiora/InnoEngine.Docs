@@ -2,7 +2,7 @@
 uid: api.0bc98d43de37e3b057c046281e836ae29fb8f7340277b91d20fa4e97e8cbad71
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.ReadOnly"
 source: xml
-reviewed: 6312c29f8a84e72a70ef10af4c90d6a75baf79964bba00ae8d3eef3185af80c9
+reviewed: 3c76d59922a92648fa893d9e9a124a4f5b0bb946798884ca16c993b4f7907b94
 title: "ReadOnly"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.9f1854f2fbd8df9c982f382da4466200df4653fd6953ccc7273b73bc534ec12d
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.TryActivateDefaultPipeline(Inno.Rendering.Assets.RenderPipelineAsset)"
 source: xml
-reviewed: a241de7f45302050a2ebefe62c7f71263bc7b2775efda95b3fa51a766c71126b
+reviewed: 95a2ebbba22fbf016df0aaeeab43d359bfef6e9a78888f3c5314a64276441e21
 title: "TryActivateDefaultPipeline"
 kind: api
 owners: [Inno.Rendering.Runtime]

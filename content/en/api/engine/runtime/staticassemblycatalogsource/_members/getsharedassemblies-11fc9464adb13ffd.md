@@ -2,7 +2,7 @@
 uid: api.11fc9464adb13ffd063a308b452d23a4f55bbdc9e6ee5a133ffd992fb849330a
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.GetSharedAssemblies"
 source: xml
-reviewed: 2fb9de55ee0d92f6b9d8c35eec8668b91903239ed22eb6fc7c026eb65ccdfce0
+reviewed: 97f338697c20c41c35cabc18d93ca9437f3ac43286c8af07191e918d26750f7e
 title: "GetSharedAssemblies"
 kind: api
 owners: [Inno.Runtime]

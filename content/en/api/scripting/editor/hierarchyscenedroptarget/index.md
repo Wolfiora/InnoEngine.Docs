@@ -2,7 +2,7 @@
 uid: api.inno.editor.panel.hierarchy.editor-script.b566a617420c77fe
 symbol: "scripting:Inno.Editor.Panel.Hierarchy:T:InnoEditor.Hierarchy.HierarchySceneDropTarget"
 source: xml
-reviewed: 97164a8d9b95bbb0c0da2f52d01c908e6cf0916c0095cd50f6c08fac52fcd384
+reviewed: e166ca67cd2f9631e09295b1e42314f642f89cfefd97fc8bef4f4828f029daee
 title: "HierarchySceneDropTarget"
 kind: api
 owners: [Inno.Editor.Panel.Hierarchy]

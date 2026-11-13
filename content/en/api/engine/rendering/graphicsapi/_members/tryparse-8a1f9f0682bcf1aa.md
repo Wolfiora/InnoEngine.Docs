@@ -2,7 +2,7 @@
 uid: api.8a1f9f0682bcf1aa694c9964a38a7e9df615ff4406e1d9c654d775e6d9f0b179
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsApi.TryParse(System.String,Inno.Rendering.GraphicsApi@)"
 source: xml
-reviewed: 80c1569a75a687bf91c5f09d06d6d692de6ef14b4ed6198752eace2b19ac8679
+reviewed: b14dde44d687938f0019863fb8fe865778c68158815343ea37f591d306b18f8f
 title: "TryParse"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.text.runtime-script.26bb9d5b15de410f
 symbol: "scripting:Inno.Text:T:InnoEngine.Text.FontMetadata"
 source: xml
-reviewed: 19999f1d039094c2fa75bd0a7e7a4a91bb66c31b54c6d8b65a6eaa575c36930e
+reviewed: 7247fea8c602e29882c8e8ae6934d14088d82cb9f6d3ff00057eec1254811e5e
 title: "FontMetadata"
 kind: api
 owners: [Inno.Text]

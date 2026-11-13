@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.5c488adfd681c908
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetEditor"
 source: xml
-reviewed: cf7669a56e3bd04a0f068da089ae54dcecca42c2827a9c602544418a6b85904b
+reviewed: 60f3e6124c3c17bfd63f95d2f7f3f351a7839a35b119f66c83cda3022c6b6498
 title: "AssetEditor"
 kind: api
 owners: [Inno.Editor.Assets]

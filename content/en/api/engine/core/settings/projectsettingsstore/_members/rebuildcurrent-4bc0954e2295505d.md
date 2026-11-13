@@ -2,7 +2,7 @@
 uid: api.4bc0954e2295505df8f4170dbde8e5edbaa77652e2de3f9e99a29e6c80ba5608
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.RebuildCurrent(System.Boolean)"
 source: xml
-reviewed: 279789c563d400ec6ca835f0401bbe3c63abfef4dbb1b4e6337d5e0b549e4202
+reviewed: 6e9f6f39648f1fd612748d0b8a10181e3745e633ea229f902c89b16e5ab61dfb
 title: "RebuildCurrent"
 kind: api
 owners: [Inno.Core.Settings]

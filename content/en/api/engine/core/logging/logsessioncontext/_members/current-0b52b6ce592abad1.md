@@ -2,7 +2,7 @@
 uid: api.0b52b6ce592abad16eaea7135518f8a3526ebb8b5ce9d379a9b09c7523679ba3
 symbol: "engine:Inno.Core.Logging:P:Inno.Core.Logging.LogSessionContext.current"
 source: xml
-reviewed: 2c1793a7b5cb3da13bb01acac0be0c5a890e496b26a0fde320a5d2f52e8ce543
+reviewed: f6840f340e8214dacc65e3c09d783462ddb4315c68efb7fa3e99d337af67c2cf
 title: "current"
 kind: api
 owners: [Inno.Core.Logging]

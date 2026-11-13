@@ -2,7 +2,7 @@
 uid: api.87ca719e78bea17e8e373fab220d34ace39fceb23a02cdd49098cde8d36a8c49
 symbol: "engine:Inno.Build.Tasks:M:Inno.Build.Tasks.CompileShaderTask.#ctor"
 source: xml
-reviewed: 66eba76c010db2f08780a134e3684115299850061c4f56dd21ff92836bfd4ba7
+reviewed: 09b7b80c4515e7dde5c95abf308423a8bf7ebc4e28dd1911186c5fb0a80918ab
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Tasks]

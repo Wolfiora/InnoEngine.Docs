@@ -2,7 +2,7 @@
 uid: api.c676a833541f72c137df16ad0ea8435546517a620136f5df0246ef9273cec99c
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.#ctor"
 source: xml
-reviewed: aa566762d4ef17a21a1771f93f440ce68b8b9002ae25fe96fa51b04dc8a58379
+reviewed: 72af6f02d0f9b27929f57302ba85adebc73228b79c4c5239cb81f1f7faea7816
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

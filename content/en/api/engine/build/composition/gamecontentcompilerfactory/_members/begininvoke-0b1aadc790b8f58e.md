@@ -2,7 +2,7 @@
 uid: api.0b1aadc790b8f58ed6d4be8119835c76cf085b328669c92bb534e5539eb530cf
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.GameContentCompilerFactory.BeginInvoke(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Types.TypeCatalog,System.AsyncCallback,System.Object)"
 source: xml
-reviewed: 2f1b344a5e74d43198a46426f10e6d077dbbd30e6c39e59ece20a8e0b05dc488
+reviewed: 4357f59ab1992c9ed497da6bfa19acbdc782ab258904653db437d30d30580ac8
 title: "BeginInvoke"
 kind: api
 owners: [Inno.Build.Composition]

@@ -2,7 +2,7 @@
 uid: api.41241802cfa7590f3de1b6eb4a6651670561e81f4cbaffe0a209ea6bf03ed9c1
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.PipelineDocuments.RestoreSettings(Inno.Rendering.Assets.SerializedRenderExtensionState)"
 source: xml
-reviewed: 926cfef5c915f2d705d3dc67c3aff9cd731e0fc247c662ffd36057fe1dea2b90
+reviewed: 56e5a6e02259c5b6ad4a4b6f79acc263317ce4a82dffef3864ec65398e8d8f8f
 title: "RestoreSettings"
 kind: api
 owners: [Inno.Editor.Rendering]

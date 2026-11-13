@@ -2,7 +2,7 @@
 uid: api.57d8c4fa415f01a4b42f7e4d722540f7bdcc977b4b4683ef2091b3edf2afde2a
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBlendState.premultiplied"
 source: xml
-reviewed: b260e8142663f841d4f632e97dc7bdde1d039742eeb72e044d59b8612e761a04
+reviewed: 52f35151174abf7cf3adadce6f8e29c072fe6b4a9741d5ad68b9f05dda0893ac
 title: "premultiplied"
 kind: api
 owners: [Inno.Rendering]

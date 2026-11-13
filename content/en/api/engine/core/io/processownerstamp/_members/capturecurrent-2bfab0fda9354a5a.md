@@ -2,7 +2,7 @@
 uid: api.2bfab0fda9354a5a918274a5cde66987aade0aac15ec5ade618ab0db2ad08b74
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.CaptureCurrent"
 source: xml
-reviewed: ec74933a815e69725a33b3fa96fff4db9e50408716005c6210b972eb9d9554b1
+reviewed: 8c2e23bf2c1fad4701b55c636cb136296e769fa929084a02969ae9f9811e436f
 title: "CaptureCurrent"
 kind: api
 owners: [Inno.Core.IO]

@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.0f63dd30a8a0b52d
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingSourceFile"
 source: xml
-reviewed: 74e6d939f76f85d14ba86f1de32e652705bc2b937e4d49048942c1d048e5b3b7
+reviewed: a5f560d6d2a05454824b7652c949512eec59854a97ea237124494bbd93b344b0
 title: "NativeBindingSourceFile"
 kind: api
 owners: [Inno.Build.Toolchains]

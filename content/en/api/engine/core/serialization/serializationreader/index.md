@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.71ec1b20deb103ef
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationReader"
 source: xml
-reviewed: af69699e7f93d39e10cc98183aa11a61e2098d24d13843178d4a5b61ff987814
+reviewed: 054f10e2af6164cce51d5624ed5d8da8df9eded8764f543b085b6d713e08ff47
 title: "SerializationReader"
 kind: api
 owners: [Inno.Core.Serialization]

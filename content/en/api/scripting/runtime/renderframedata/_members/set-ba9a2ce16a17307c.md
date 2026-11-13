@@ -2,7 +2,7 @@
 uid: api.ba9a2ce16a17307cbc5b96beb9bd3d04d47578e176fec13228de62cf73366abf
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameData.Set\u0060\u00601(InnoEngine.Rendering.RenderDataChannelId,\u0060\u00600)"
 source: xml
-reviewed: e270c6cab6a5861ec913ca57faa66de1aeba774dcd1149ed28b17cb58fb96dad
+reviewed: 6e89a935498d7a5082f56a832257f49c5ddf0c15f334f60818ca8c2be2489c53
 title: "Set"
 kind: api
 owners: [Inno.Rendering.Runtime]

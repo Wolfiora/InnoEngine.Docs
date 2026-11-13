@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.6e1d0b27f2377fc4
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCapabilities"
 source: xml
-reviewed: a2d2260674b1973a71ab96344c500e220e351fa7e280b68881ae618849ee7ce7
+reviewed: 63937af430229281986d060676b6b25d7e0ecede4b9242c44d2136ceaac3199f
 title: "AudioCapabilities"
 kind: api
 owners: [Inno.Audio]

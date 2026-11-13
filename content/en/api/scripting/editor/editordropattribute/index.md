@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.c225af89a6f2e62b
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropAttribute"
 source: xml
-reviewed: 0f67d00854fa1c2cd11b3c0f099c0ff11fed091ddff29bf676a5a0a28f7dc931
+reviewed: 07e440b7fe5436a1f1b5171b527e49e0d9f9ef67950d877b87f417bdc9ca6ea1
 title: "EditorDropAttribute"
 kind: api
 owners: [Inno.Editor.Interactions]

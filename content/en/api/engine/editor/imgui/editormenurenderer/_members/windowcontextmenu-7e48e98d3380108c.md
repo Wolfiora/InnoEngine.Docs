@@ -2,7 +2,7 @@
 uid: api.7e48e98d3380108c3be30fd032fb8fd7268572d05d8745016fc041d977e127eb
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.WindowContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction)"
 source: xml
-reviewed: 275893b502341fb57ed3b861d548ca10f5306b29502e98b8bb7975dfcb3ade4f
+reviewed: 1b5dafb75fcc8bb4d71ce08afc5c54c2805a72e03f6224c86bf3849d770e310c
 title: "WindowContextMenu"
 kind: api
 owners: [Inno.Editor.ImGui]

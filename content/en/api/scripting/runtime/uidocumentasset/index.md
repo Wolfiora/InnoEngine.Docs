@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.b945f8272b6a8665
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDocumentAsset"
 source: xml
-reviewed: 2646bad11db39c4b621bc870eb11dfe5d60a80b8955e7e3074941febf1cafcd5
+reviewed: 0403cda84572cac35d85739a4b60d54bfc3e9e6932d515aabd9eacef85c60428
 title: "UiDocumentAsset"
 kind: api
 owners: [Inno.UI]

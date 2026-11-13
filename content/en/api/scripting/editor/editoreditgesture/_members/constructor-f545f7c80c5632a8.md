@@ -2,7 +2,7 @@
 uid: api.f545f7c80c5632a8f829a7b2bdcfbcdd4697668abe9996a1d6f16b7c2f2da313
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorEditGesture.#ctor(InnoEditor.Interactions.IEditorHistory,System.String)"
 source: xml
-reviewed: 2e8db320eef73f0149c5c50b6f754a9b8435345917ce4a8dbbcbecec7010f078
+reviewed: aeef98440fe6f2525e0112b33b1594e539f428ebe88a9bd6033aab50f1696ec8
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

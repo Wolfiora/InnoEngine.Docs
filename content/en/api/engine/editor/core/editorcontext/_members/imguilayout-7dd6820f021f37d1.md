@@ -2,7 +2,7 @@
 uid: api.7dd6820f021f37d1d7dcf81d0315f9f5b840e874e8c1bddf6b0a7d4f4b54d179
 symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorContext.imguiLayout"
 source: xml
-reviewed: 189cd29df37cf60051407d9a521b4dcd61692f7f0620bc5294b5b892ae688bea
+reviewed: ba4705b879657fa803c0c26cc3413e05645fddb33f6a5e0848c9e2bf1cc42a2e
 title: "imguiLayout"
 kind: api
 owners: [Inno.Editor.Core]

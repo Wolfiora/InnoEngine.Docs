@@ -2,7 +2,7 @@
 uid: api.211a709e0434b33d17661a788760ba4a2f646f98c522e8d94454462a102ab80b
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderPropertyDefinition.#ctor(InnoEngine.Rendering.ShaderPropertyId,System.String,InnoEngine.Rendering.ShaderPropertyType,InnoEngine.Rendering.ShaderStage,InnoEngine.Rendering.MaterialValue,System.Nullable{InnoEngine.Rendering.ShaderPropertyBindingKind},InnoEngine.Rendering.RenderStorageAccess,InnoEngine.Rendering.ShaderPropertyBindingOwner)"
 source: xml
-reviewed: dfd549b4ab8a7c4874f8bea4690758419e0e501f35d3ad628fbb3fb38aa72f21
+reviewed: 0a0d1c7ec74516e9c63d45e541679bb14636522361b806bfa7a648f3837d11b2
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

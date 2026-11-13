@@ -2,7 +2,7 @@
 uid: api.7a3fc4c7a660ffe6d0813470c00aa4e127de22c2f08bdc09ac6b71feee4fd168
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.AddBusProcessor(Inno.Audio.AudioBusHandle,Inno.Audio.AudioProcessorConfiguration)"
 source: xml
-reviewed: f705d4ca91048f500fb91a8e733595889f7fe34d9ac8aedfbb4efbb2d30f0461
+reviewed: 520a419264fc0f3ce694c7881118d78de0b4153c719356fe6ce7c6eee51e6b29
 title: "AddBusProcessor"
 kind: api
 owners: [Inno.Audio]

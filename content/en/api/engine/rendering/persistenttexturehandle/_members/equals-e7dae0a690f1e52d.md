@@ -2,7 +2,7 @@
 uid: api.e7dae0a690f1e52d1f25b113d051d9d9ca1072ed1a814ceec0d5571a82c5bead
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.PersistentTextureHandle.Equals(System.Object)"
 source: xml
-reviewed: d4486855ee967b04cc077e6a8c1ae1ed6da8fad0790f3cdc7f5decfc4246793c
+reviewed: a3dff0c76327e27ad67318e14ea86cee4db60e33a49238fceadcf18f50363eec
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

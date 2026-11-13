@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.runtime-script.9d266bbf3acaed24
 symbol: "scripting:Inno.Core.Diagnostics:T:InnoEngine.Diagnostics.DiagnosticLocation"
 source: xml
-reviewed: 835c43495e96d4ff8de63168f5c7a3968139501defd111122e697aa9d0d5bd89
+reviewed: 293f053062d57c8bf2f030868bf9649dca78c0bb7ad3a3b6b7c58a5fa1705601
 title: "DiagnosticLocation"
 kind: api
 owners: [Inno.Core.Diagnostics]

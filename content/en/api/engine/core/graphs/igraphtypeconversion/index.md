@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.0ac60beeac3d9bfa
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.IGraphTypeConversion"
 source: xml
-reviewed: 3c7a87fe464933fab744bd770c1b07c5e32f2b2f8f733e25b94ea86885869374
+reviewed: 88151d05a22fa86f4914a85ed0a8ff25b3450d8c51194e511fe665062ca64900
 title: "IGraphTypeConversion"
 kind: api
 owners: [Inno.Core.Graphs]

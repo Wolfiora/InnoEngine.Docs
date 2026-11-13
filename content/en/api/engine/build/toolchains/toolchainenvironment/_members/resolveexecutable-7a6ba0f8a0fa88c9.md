@@ -2,7 +2,7 @@
 uid: api.7a6ba0f8a0fa88c9de9bbdab7ba6153f26516ab9e15dd6a322eceb319f232885
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.ResolveExecutable(System.String)"
 source: xml
-reviewed: 5fa7eb48eeac9a40e7df98cd5964a001735ffe5c9f7c86c25cef7d3b369d2c51
+reviewed: fda3ccb74caf7cdf89161664366432de8ab9c7bd9c5ed4b96595a9b383864a89
 title: "ResolveExecutable"
 kind: api
 owners: [Inno.Build.Toolchains]

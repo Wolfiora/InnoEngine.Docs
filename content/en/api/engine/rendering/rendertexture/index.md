@@ -2,7 +2,7 @@
 uid: api.inno.rendering.823ac0a5420be730
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderTexture"
 source: xml
-reviewed: 55c86408078fe623085b68becddae13258a443e40d6ac6ea7a1fe4afe165374f
+reviewed: 886ebaf239b9855fcc325b7d1f6d8c1793479b93bea0cbf9144586d741e7c98b
 title: "RenderTexture"
 kind: api
 owners: [Inno.Rendering]

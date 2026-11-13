@@ -2,7 +2,7 @@
 uid: api.d62b6244e85b8a405c9aacf78abc38a613c3e15e462b39c721e74ca260aa3458
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.CopyTexture(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureHandle)"
 source: xml
-reviewed: 8b33a44d60a1e21faa4496d50c1718f06579f2de7b219c3bf5d2988373a5fb71
+reviewed: 781f1cad3b159e859bb932437e62346cf3b2ae75902c4435f66f7da13cf56214
 title: "CopyTexture"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.b42377b9de8e062d
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderPipelineAsset"
 source: xml
-reviewed: ab094096203c28e5b89f18638a07c82f43a8c282042061e778e1b122fa3e525f
+reviewed: 7947a216b2186eec8fa8e1f73a3eabb0464fe986f5478bbc86a58491e557bf95
 title: "RenderPipelineAsset"
 kind: api
 owners: [Inno.Rendering.Assets]

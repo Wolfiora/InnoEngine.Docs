@@ -2,7 +2,7 @@
 uid: api.2982b031ddc24bf885fe4646f9620888d9ce58829545e1777a9d9539d343f47e
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeRecord.SetValue(System.String,InnoEngine.Graphs.GraphSerializedValue)"
 source: xml
-reviewed: 00a03663d669b3e4cdac48ee301956e9ad7e2005203eddf95e7ac5453987b0f2
+reviewed: 8a73974919736937ae84724646836eee69f71abcd8725a22b8df2481a30e7b93
 title: "SetValue"
 kind: api
 owners: [Inno.Core.Graphs]

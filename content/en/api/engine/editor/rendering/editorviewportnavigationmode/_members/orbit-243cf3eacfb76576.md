@@ -2,7 +2,7 @@
 uid: api.243cf3eacfb76576a31d331b3ffdf68674f5c1e6792c091ed1651cd5a1747519
 symbol: "engine:Inno.Editor.Rendering:F:Inno.Editor.Rendering.EditorViewportNavigationMode.Orbit"
 source: xml
-reviewed: 6ceab85101a1b383ff81dd62b521a2fd9589e3484ce5b01b9ed1f1e8e7d9c205
+reviewed: 08b38b1a225fe80d1d67390564da3ae88151780b79ad681f4b6eef3984fc61e3
 title: "Orbit"
 kind: api
 owners: [Inno.Editor.Rendering]

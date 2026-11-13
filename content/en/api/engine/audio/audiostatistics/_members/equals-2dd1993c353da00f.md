@@ -2,7 +2,7 @@
 uid: api.2dd1993c353da00f67327991df5b3b56bf3cb72c790af22b5288a56d3f590d3e
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioStatistics.Equals(Inno.Audio.AudioStatistics)"
 source: xml
-reviewed: f6effe5eb158d2e366b0f78dc2145e5caf7c914f819ab36ea2ebcc6f6ba9a02c
+reviewed: b4e89ad55bda3d63b8b85dd1bca66f772aa2fde251bf047aa690ea4d2331f713
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

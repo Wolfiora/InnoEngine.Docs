@@ -2,7 +2,7 @@
 uid: api.7fc55c8bc90ff5d01c9e579800246d7f57cf92ff6f3fe2b9480c553473feb12f
 symbol: "engine:Inno.Core.Serialization:P:Inno.Core.Serialization.SerializationWriter.typeSnapshot"
 source: xml
-reviewed: 5a9e050d81b79f7e3dd09cfd0e9d8b9c578bf1a8124d678dd7c988be3b069383
+reviewed: 7d487b71c211d8e5b44646bc6e8a0386c7df3c669f0ffa8c3744fa58790861e1
 title: "typeSnapshot"
 kind: api
 owners: [Inno.Core.Serialization]

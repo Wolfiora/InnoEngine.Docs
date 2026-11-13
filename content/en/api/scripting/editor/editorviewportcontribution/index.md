@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.23a12fce2b95e54a
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportContribution"
 source: xml
-reviewed: 4cbcd59121ea57add2cbf739b53111199280e90cb6fd0a06b6f915ab202b816b
+reviewed: 79acd7fcb61c3f55d7c78e0b66659e2b27fec0f4039934cc31f5a384ce42b21e
 title: "EditorViewportContribution"
 kind: api
 owners: [Inno.Editor.Rendering]

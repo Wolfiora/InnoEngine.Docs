@@ -2,7 +2,7 @@
 uid: api.26368f8e3fc76a7ad6229769bad8224e73aa03cc2632b48d17d4d38dc093d5cd
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.Equals(Inno.Extensibility.Modules.AssemblyModuleInfo)"
 source: xml
-reviewed: f9b3f4a090fa3e29de3c6190f0a02fe58dfbecae36755e118a23ea1588a1f8f6
+reviewed: 4d8906d0953f62ab9689d72611aa08aa03c2138bbd4cf181e25325cec09d05be
 title: "Equals"
 kind: api
 owners: [Inno.Extensibility.Modules]

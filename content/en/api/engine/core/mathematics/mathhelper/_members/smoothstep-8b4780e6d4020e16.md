@@ -2,7 +2,7 @@
 uid: api.8b4780e6d4020e16717f710da6b8dcdc3079fa3f0b4aa9c339c1dc14ab661aed
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.SmoothStep(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 0bc316480a5502d6cb9073ac93890ced63f4ab1aa9858f38717cbf9255a1a766
+reviewed: c4f86e8f97d9d11a58c15d20c5469136d4fc25b588aab77fab7ef10a6562fb75
 title: "SmoothStep"
 kind: api
 owners: [Inno.Core.Mathematics]

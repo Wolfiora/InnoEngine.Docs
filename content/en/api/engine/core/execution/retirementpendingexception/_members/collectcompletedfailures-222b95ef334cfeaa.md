@@ -2,7 +2,7 @@
 uid: api.222b95ef334cfeaa7166d21c2d3324848fe89e88465793af0b984503855a5556
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.CollectCompletedFailures(System.Exception,System.Collections.Generic.ICollection{System.Exception})"
 source: xml
-reviewed: be7249186162e2d9a51121b321bfa478170dbfb862d617cb8d9823aa87aebeed
+reviewed: 848131a628a34be27dd202c4369b81e95dd4a41d3ecadcc81d43d7925ae38e27
 title: "CollectCompletedFailures"
 kind: api
 owners: [Inno.Core.Execution]

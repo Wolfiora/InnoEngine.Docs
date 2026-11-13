@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.6095f489c52abfb0
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.GameLayerMask"
 source: xml
-reviewed: e05671ee9a7ef46ca23b6e25afb1e78b7261b9580204ec9c6bb31434755f41ed
+reviewed: 1b83baee0ab88ea8b4827cdad6303d59b8da81952ee28b739bde3d0464404e9b
 title: "GameLayerMask"
 kind: api
 owners: [Inno.Scene]

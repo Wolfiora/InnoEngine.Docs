@@ -2,7 +2,7 @@
 uid: api.fbc0ea2d2ccc6b576e676ddfe24444731a2242c9220f905cf5a9f89815aff4bf
 symbol: "engine:Inno.References:M:Inno.References.ContentReadScope.GetValues\u0060\u00601"
 source: xml
-reviewed: 6ce51294725c0997f70e9e0d41f73a860ec6076fa6f40e7b99317f9b66d1948d
+reviewed: 7ac1b7f676ac4b96b6ffe12258f38c5ea3d9dc1bf0d5903f4fe8379151435a84
 title: "GetValues"
 kind: api
 owners: [Inno.References]

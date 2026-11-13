@@ -2,7 +2,7 @@
 uid: api.0fa1f7ae8cfb4d4f2b071b07bf5a5f28e9fb98189d320f44c398bb7440dec89a
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexFormat.Float2"
 source: xml
-reviewed: ce912edc9290d2d2f244c916042e07df526a66aeeb289d361844fe5c740d33ca
+reviewed: 8b97578d9c71832e1d9bd867abe3cfb3aba525dbe2d8db4a35c06056510f46f0
 title: "Float2"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.2e3dbbb2be4df901851ae0f9898ffd84ebad4e791f8398e72f18d7e00486f0ff
 symbol: "engine:Inno.Scene:P:Inno.Scene.Components.Transform.localToWorldMatrix"
 source: xml
-reviewed: 89f10444d813deb19d4c1fabee7b0b98132ef67bad1d1eccb0e26b8b29e7a45b
+reviewed: 01d01a08a3f4cfc51a89becf2044692f4a7fc9aba7c779495f39eb3ffc637e5e
 title: "localToWorldMatrix"
 kind: api
 owners: [Inno.Scene]

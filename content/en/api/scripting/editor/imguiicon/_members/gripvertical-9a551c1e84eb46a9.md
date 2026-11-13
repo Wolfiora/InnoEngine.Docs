@@ -2,7 +2,7 @@
 uid: api.9a551c1e84eb46a925351f6a6cce34106edc6900f06445bbf412f6a9a562745c
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.GripVertical"
 source: xml
-reviewed: 06e803221b9c386cddf17826e263e09c72db65007e308099d0b126a7c1da68df
+reviewed: ff4f6ef09c04820b2152f1ec2042678ce01b1e902bbcb89ce38939089371cbc2
 title: "GripVertical"
 kind: api
 owners: [Inno.Editor.ImGui]

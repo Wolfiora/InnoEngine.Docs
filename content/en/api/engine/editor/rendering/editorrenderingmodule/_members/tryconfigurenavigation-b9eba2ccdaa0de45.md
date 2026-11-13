@@ -2,7 +2,7 @@
 uid: api.b9eba2ccdaa0de45bb576d2bdaf3bb58723b56ed024ec8b1dfca3736a36e5267
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.TryConfigureNavigation(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportNavigationProfile@)"
 source: xml
-reviewed: 60447a51b37f73b172822e3a029ea591a28d4a53ff7893ceee320967c4fb8bd8
+reviewed: be79444d843a910684a8af269236649acbacfcfd543ae96a46bdde994ed795f2
 title: "TryConfigureNavigation"
 kind: api
 owners: [Inno.Editor.Rendering]

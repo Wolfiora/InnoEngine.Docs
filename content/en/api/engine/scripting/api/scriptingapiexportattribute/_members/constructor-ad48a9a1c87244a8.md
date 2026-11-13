@@ -2,7 +2,7 @@
 uid: api.ad48a9a1c87244a8ae97742ccddc006569e8939d94cbcb2a888f8107f8f1b8cf
 symbol: "engine:Inno.Scripting.Api:M:Inno.Scripting.Api.ScriptingApiExportAttribute.#ctor(System.Type,System.String,Inno.Scripting.Api.ScriptingApiScope)"
 source: xml
-reviewed: 635cb8d57f2cdf001640791848c1f7a059a38ba2aa4dbd23799d0d7344ba9f49
+reviewed: e79bcf2979041c946071db0db8d544fc470a95f308e942d0c80e7baf49135ed5
 title: "Constructor"
 kind: api
 owners: [Inno.Scripting.Api]

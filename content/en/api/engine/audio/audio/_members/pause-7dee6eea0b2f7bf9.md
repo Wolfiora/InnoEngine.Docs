@@ -2,7 +2,7 @@
 uid: api.7dee6eea0b2f7bf9376b16fbef144a37bf0821984d7c5d88c3fda61d9138603c
 symbol: "engine:Inno.Audio:M:Inno.Audio.Audio.Pause(Inno.Audio.AudioVoiceHandle)"
 source: xml
-reviewed: 868761ffc7d88a86d0c467ad4f1bb60ed078553fda55a15966db2ecb35dc9b6c
+reviewed: d6c8b464105b5c681d80e74f6d4f9e47e2fd9bff506a37971e386a8000f1cb0b
 title: "Pause"
 kind: api
 owners: [Inno.Audio]

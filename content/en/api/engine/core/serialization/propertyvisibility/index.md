@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.3c81aa3af425f240
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.PropertyVisibility"
 source: xml
-reviewed: 9dedb2c6ef3474c6e104f0c2030ed99dc7a30323f032bc3a4a802ea654484a68
+reviewed: 0e3620f41693d731dceff46d9961ccd067a9e7bc75292123748d9d46c0034c12
 title: "PropertyVisibility"
 kind: api
 owners: [Inno.Core.Serialization]

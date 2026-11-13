@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.3860597267764520
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportWriter\u00601"
 source: xml
-reviewed: 4633fba66c65806af86beb31318f3fdcfc3d1c65f67d4e86f39ab4202b69f722
+reviewed: fca94c40c2cc341cff997ac233076d77fca8c2a378e795ae1b975e5bf3c97f54
 title: "AssetImportWriter"
 kind: api
 owners: [Inno.Assets.Pipeline]

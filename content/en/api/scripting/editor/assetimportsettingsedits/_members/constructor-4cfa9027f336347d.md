@@ -2,7 +2,7 @@
 uid: api.4cfa9027f336347d15410be2f7d28719084c8d47c2c7d3dd51712d4022f2e4c6
 symbol: "scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetImportSettingsEdits.#ctor"
 source: xml
-reviewed: 92c2db2e9cc76ee2a31d317474cc96b90e74f487d2cf8ab5ca6050ca1d263317
+reviewed: af8cc26ac1e990575d0b3f042703edf0a0ff9510f575a93bfb53bd46483d6a2f
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

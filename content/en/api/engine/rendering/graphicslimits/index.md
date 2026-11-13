@@ -2,7 +2,7 @@
 uid: api.inno.rendering.55cf828dc3179762
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.GraphicsLimits"
 source: xml
-reviewed: 95757a69ad509abdb7567fb4834cc23a5b42dba61a2637fa2349ee8029524897
+reviewed: a16218ba9d3735f690bc8ebacdb522941154cf96864540a30792dc213a5ce082
 title: "GraphicsLimits"
 kind: api
 owners: [Inno.Rendering]

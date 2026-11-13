@@ -2,7 +2,7 @@
 uid: api.3c288a8fc70cb533860bed8ed877f71cba7518ab9cb8c48a2423b842d1cce6a4
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticModuleSource.GetAssemblyNames"
 source: xml
-reviewed: b69045415606dfbff2d9ad5e4522d0e822cb4e82c2f06adfe164661c66ee19d8
+reviewed: 03347f2ac7eec392be5c8aad30692c79bb7c30db69dabb5b5bb65562c40e65dc
 title: "GetAssemblyNames"
 kind: api
 owners: [Inno.Runtime]

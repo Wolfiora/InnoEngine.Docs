@@ -2,7 +2,7 @@
 uid: api.de814de7a254bc5a9f8df21cd1afee22230e0ad2d72e0fe604c475f4a9532ddb
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.EncodePropertySnapshots(System.Collections.Generic.IReadOnlyList{Inno.Core.Serialization.SerializationPropertySnapshot})"
 source: xml
-reviewed: e15fc2787aecab3cc86ab57a3acce6a77b0635e2d9ee257899d23ca50718e805
+reviewed: 85c0113168e37c81d8ee41a3c9e0104cdc816fc853c102747949d8675c094f19
 title: "EncodePropertySnapshots"
 kind: api
 owners: [Inno.Core.Serialization]

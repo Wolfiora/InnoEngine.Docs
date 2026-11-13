@@ -2,7 +2,7 @@
 uid: api.ca0aa905b865e1660a0671b7cc95ea8e8f2ec97fdab94f46de636f8860828963
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderRasterState.opaque"
 source: xml
-reviewed: d2262799531cebf9fea16f626429c69de19ae318d3d1e990a22d65682d815a7f
+reviewed: e5c305cb699844bf29260fc7b5f4511643d2b1ba5544b301a2894c2671739ea6
 title: "opaque"
 kind: api
 owners: [Inno.Rendering]

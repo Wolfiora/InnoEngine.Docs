@@ -2,7 +2,7 @@
 uid: api.inno.core.io.a1a9e8edbe3f8b47
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.PhysicalPathResolver"
 source: xml
-reviewed: 124e7afbe33658b0cf67742506547e1dc9703826183617bf67140afc72f0f106
+reviewed: 003e0074a94216a7876eecd21fbbcce80bbe8fc870fbc87441825107ed96c011
 title: "PhysicalPathResolver"
 kind: api
 owners: [Inno.Core.IO]

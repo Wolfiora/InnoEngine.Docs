@@ -2,7 +2,7 @@
 uid: api.fbe1d86e75a62228bbdbfd8e62023c52fb2bbd116e87c0707c78ebf60e608858
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.CreateBuffer(System.String,InnoEngine.Rendering.RenderBufferDescriptor)"
 source: xml
-reviewed: f504b72f4a13d5e7b68914ecdae5af093b8a5cbecaf848c3e2bb1203f19db4df
+reviewed: 2ed6f6f5c85af530c16b775f116a1ee0bc78689078d539888de725bd1442dace
 title: "CreateBuffer"
 kind: api
 owners: [Inno.Rendering]

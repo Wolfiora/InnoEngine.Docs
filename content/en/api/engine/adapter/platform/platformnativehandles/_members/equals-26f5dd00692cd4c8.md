@@ -2,7 +2,7 @@
 uid: api.26f5dd00692cd4c86c3d0264a3ba590f717eb0f0f9a192aaafffdb43c5715064
 symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandles.Equals(Inno.Adapter.Platform.PlatformNativeHandles)"
 source: xml
-reviewed: be792ada1d8d7670f0ce42b25cb28f7a20b132fc824fd5786b11a41f932442c4
+reviewed: e98e4eeee1d75f01ed2c366167a80ea9bf2afa152a7a63e62bef2577bd2b58ba
 title: "Equals"
 kind: api
 owners: [Inno.Adapter.Platform]

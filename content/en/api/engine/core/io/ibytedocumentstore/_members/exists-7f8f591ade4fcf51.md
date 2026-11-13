@@ -2,7 +2,7 @@
 uid: api.7f8f591ade4fcf51eab53315d962e74d63a3752cb0eb64b9ac75fd8586aa1f56
 symbol: "engine:Inno.Core.IO:P:Inno.Core.IO.IByteDocumentStore.exists"
 source: xml
-reviewed: ed2e7d3d5b2f8c6d345fccc014c7496c97b5c8769f38e4318e3f5298236eee83
+reviewed: c1bbdb39022d7c64a7693bb5abc1f2647bda5c09fe0f28d080ce3130bb2bd69f
 title: "exists"
 kind: api
 owners: [Inno.Core.IO]

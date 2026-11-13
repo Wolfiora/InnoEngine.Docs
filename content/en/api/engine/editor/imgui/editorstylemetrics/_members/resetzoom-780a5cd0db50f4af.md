@@ -2,7 +2,7 @@
 uid: api.780a5cd0db50f4afddb26067b04f03016eab354b017f36a1b23baa8ca401e59a
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorStyleMetrics.ResetZoom"
 source: xml
-reviewed: 61f52538d80b9a62f8098d63cb796ac9020e1fedaa73a1eff5bd96c09d5e039c
+reviewed: b1595c4ee7f744f1c5893fdca723a187a4589ee8e0a564293fa316deffeef883
 title: "ResetZoom"
 kind: api
 owners: [Inno.Editor.ImGui]

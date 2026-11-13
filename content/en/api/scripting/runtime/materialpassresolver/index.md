@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.5e39f4af5367624e
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.MaterialPassResolver"
 source: xml
-reviewed: 1ca1a17c4562b32c495215b531c79534f084a732c79b6a2055c49ac0ea9b6290
+reviewed: 6421fd7d739c7828c837054f37fdb234b243eb79a6b7bf12461e4ee451868ebf
 title: "MaterialPassResolver"
 kind: api
 owners: [Inno.Rendering.Assets]

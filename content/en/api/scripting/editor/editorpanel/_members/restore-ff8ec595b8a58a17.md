@@ -2,7 +2,7 @@
 uid: api.ff8ec595b8a58a1714773b8bf3cc8bc1a52b3eb572a31b117ab50df07342f6ed
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Restore(InnoEditor.Core.EditorState)"
 source: xml
-reviewed: cfa4762e3c71247a53479e027f948da61795ff5e745d6190c4b11507d30651e1
+reviewed: e6e4bf603515f653911b385a717a8dd8c8f75e8367236509b5fce964edf28023
 title: "Restore"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.18cc7d1e484410879034aeff6f1cbd30a5c16ac6f318a16d8e3a30f066f73e45
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorPalette.opacityMedium"
 source: xml
-reviewed: 8549bf4e46e5ce1fecbc5af97466ffdf9bb4214818627b6f39444079afdf012b
+reviewed: 3cc9946337dbf78156f42b34a8aacaa3faa1610ae12292016efbe6abde0d7545
 title: "opacityMedium"
 kind: api
 owners: [Inno.Editor.ImGui]

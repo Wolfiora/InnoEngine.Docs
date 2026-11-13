@@ -2,7 +2,7 @@
 uid: api.da143f2d14c5748ef8d2918b0e8200393086dcbcbca74493145bd125299e02d4
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderTextureDescriptor.width"
 source: xml
-reviewed: 36f12abf596e026310980d3e43d4cc95aa8cb428cbd30b0f2cbd76ee01697ef9
+reviewed: 1c2b1fe2581842b25272e40e781d49e1beac4fae386a788d826bba5afd3ae26a
 title: "width"
 kind: api
 owners: [Inno.Rendering]

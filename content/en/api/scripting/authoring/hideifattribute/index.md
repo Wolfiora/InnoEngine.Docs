@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.36f1baa96c8dd772
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.HideIfAttribute"
 source: xml
-reviewed: 17017c9dbb1cf693eca89537da7e645e375f586671da93eaec7035c025f201ae
+reviewed: d94dbbb435202ae852ba4563be81c87fb2cd3d1368bc1114022fd830a855bb09
 title: "HideIfAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

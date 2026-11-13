@@ -2,7 +2,7 @@
 uid: api.c39b7c7814ed9ed83260006ace8a91d2c7f4d0567a2f6a40d5877538caa3ec8b
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.TryDispatch(Inno.Core.Logging.LogEntry)"
 source: xml
-reviewed: 8bc1abcbf247e441b2ee2773fb2997235bc2bd12072d62595cab952926ef06a0
+reviewed: a0cff379f444b549e3dbd22cef747b92b87844dcdff07b23148038c8521ce339
 title: "TryDispatch"
 kind: api
 owners: [Inno.Core.Logging]

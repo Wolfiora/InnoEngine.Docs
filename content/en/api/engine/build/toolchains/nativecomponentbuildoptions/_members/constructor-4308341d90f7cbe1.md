@@ -2,7 +2,7 @@
 uid: api.4308341d90f7cbe13c882d0ab06b6bda88637de276b6e458ad9a9f35852f8d7e
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeComponentBuildOptions.#ctor(Inno.Build.Toolchains.NativeLibraryKind,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.String,System.Collections.Generic.IEnumerable{System.String},Inno.Build.Toolchains.NativeLinkPlan)"
 source: xml
-reviewed: ea3679262c6ed813cc7692f51c0fcb9fd8ca5885bd002f12ea9c082e0eb8d7f0
+reviewed: 2df3f10c01280fcea8b04818a8e9399ad45e42ccb99c682692489344a263dad6
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

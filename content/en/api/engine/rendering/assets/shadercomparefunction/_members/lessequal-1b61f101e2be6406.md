@@ -2,7 +2,7 @@
 uid: api.1b61f101e2be6406eaa5e0f071f272fca8943657b8855744078bb27ba43c6d50
 symbol: "engine:Inno.Rendering.Assets:F:Inno.Rendering.Assets.ShaderCompareFunction.LessEqual"
 source: xml
-reviewed: 11765b0bdc340035d06ebf924703c534ca3eb1aa8460a56c593af6b2edb7672e
+reviewed: b433895d4ef701cbf6a4118ecb5867726a235d62fed3cdb0aef86de80ee12b54
 title: "LessEqual"
 kind: api
 owners: [Inno.Rendering.Assets]

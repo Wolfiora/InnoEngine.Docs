@@ -2,7 +2,7 @@
 uid: api.11875d478dab5ab412ed1568cee431d59f993a5477318090f4252ecf9a6f5d4e
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.ReplaceDependencies(\u00600,System.Collections.Generic.IEnumerable{\u00600})"
 source: xml
-reviewed: 35f19f402fb53f03c92a3283601ed0cd41c0c8ad6f5f7fabdc5c60b674034239
+reviewed: ab26490218aff8f7846c7448a78f3b40e1737422ed374ac626cbe1a393d31127
 title: "ReplaceDependencies"
 kind: api
 owners: [Inno.Core.Collections]

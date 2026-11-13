@@ -2,7 +2,7 @@
 uid: api.a22a1bdf961a5e00f4bbfbad96be7856bfe09950b5c5e88de49e6361aad198f0
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleImportTransaction.Advance"
 source: xml
-reviewed: 5d82de21ee60ee262834f45770e13f8006d1f6eb0fe31f058cb4bdee45655788
+reviewed: ca253984d2e4a1ab7c5fccd6512ba18e03f38d03bc85d14993691948971e8f95
 title: "Advance"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.inno.core.events.runtime-script.b769708cdced8a07
 symbol: "scripting:Inno.Core.Events:T:InnoEngine.Events.EventHub"
 source: xml
-reviewed: 0703ae551d6489baa0c748a7c612a50498e98d5f4ed7bac750ab62d2a185cf28
+reviewed: f4569364fa483870fdccf5e41584a207b766f037f961a479b18aff23d56368c0
 title: "EventHub"
 kind: api
 owners: [Inno.Core.Events]

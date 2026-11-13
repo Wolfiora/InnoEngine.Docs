@@ -2,7 +2,7 @@
 uid: api.02918751a9307dfed7a23f2c9e960818477a779e1c49e5d11545e28423a32e5f
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTabBarFlags.NoCloseWithMiddleMouseButton"
 source: xml
-reviewed: 53fa92c9ccc7b02d4bc5210c9245ce7fdb31c2fcf598c68d6bf2207ff59fe1bf
+reviewed: 979c31b84463af3047760aa8de306e734c0b413da57eadc4cf7800e181d3ddb3
 title: "NoCloseWithMiddleMouseButton"
 kind: api
 owners: [Inno.Editor.ImGui]

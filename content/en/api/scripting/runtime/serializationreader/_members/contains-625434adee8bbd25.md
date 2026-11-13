@@ -2,7 +2,7 @@
 uid: api.625434adee8bbd25c4a7fd6de4becf91d826ffd8c7e7c392e107e05df9f25155
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.Contains(System.String)"
 source: xml
-reviewed: 7a2843cd6246afc6bd464a9d97ca42a0d8c71593000fe6d6cca0ed093056f60a
+reviewed: edf8b5eecda9793283939bf5bdc9109d80f4e2291fb969b84056871c54984393
 title: "Contains"
 kind: api
 owners: [Inno.Core.Serialization]

@@ -2,7 +2,7 @@
 uid: api.19357ed256f507cba64c477ad47099c45594df6c4ad6de4400927c134ecffcb1
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiHoveredFlags.Stationary"
 source: xml
-reviewed: b78c3bf9ef5b94863e45735654313c728c4d443261756298dc80c8a548b291ef
+reviewed: 37a12e9c3b13fd20fb111b865e21cb229124477b9b36567b989b3751cdacf69c
 title: "Stationary"
 kind: api
 owners: [Inno.Editor.ImGui]

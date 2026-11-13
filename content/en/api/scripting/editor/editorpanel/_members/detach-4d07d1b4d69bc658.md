@@ -2,7 +2,7 @@
 uid: api.4d07d1b4d69bc6583638898d129cdb3d9ebdb3dda78679526851b2bd86ff388e
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Detach(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: 961ec3a653128482f06bf570551485ba3ce5d3c42bd5069574f0b653b66fcdd9
+reviewed: 0804400a071036ce7f430b75b6622832b9641750945dfa858d77e4c5a430797b
 title: "Detach"
 kind: api
 owners: [Inno.Editor.Core]

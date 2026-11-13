@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.f68e4df127e22581
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiRenderFrame"
 source: xml
-reviewed: 8689443fa535802873daebcc4a52ee696ddc8773f81149f137f7026d29c7d866
+reviewed: e88aede6cb9991269092ffc21d688c1ed4961991e052ffbe666f26664180dd4b
 title: "UiRenderFrame"
 kind: api
 owners: [Inno.UI]

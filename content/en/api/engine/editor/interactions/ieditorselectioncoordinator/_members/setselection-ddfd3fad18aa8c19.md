@@ -2,7 +2,7 @@
 uid: api.ddfd3fad18aa8c19442e46fd8ca8415ef938b3e3ed1d1dd4ccb2a3f2e0088e17
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorSelectionCoordinator.SetSelection(System.Object)"
 source: xml
-reviewed: a3c4ee091a507d2e46c46c22f3a3608d63dcee9a296de34bd6118ceeeda3a1f3
+reviewed: 2e3bb22ad075a514628dac47489b14f84a31617d65eed775a0e083db4ad04604
 title: "SetSelection"
 kind: api
 owners: [Inno.Editor.Interactions]

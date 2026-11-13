@@ -2,7 +2,7 @@
 uid: api.17de4cb3db3d8cf23226c912fe423b25890c8eb3d3b318dc623b18d841c1a040
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.Register(System.String,System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly})"
 source: xml
-reviewed: 3ba0d33dc5de37da723556c795c4c2874f9ac5e0c357890d8369b6bb99d47884
+reviewed: a1376570ce4a38810cddbe24bfc6a411dcae8453fe6a375606ca2f05ed93c9b0
 title: "Register"
 kind: api
 owners: [Inno.Extensibility.Modules]

@@ -2,7 +2,7 @@
 uid: api.f9614d930ab3af28648156577130c6deb650a51592ea2f3b8d9c9dfb2f43acab
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.TryResolveMaterialArtifact(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderProgramKind,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.MaterialPropertyBlock,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.RenderMaterialPass@)"
 source: xml
-reviewed: e39880756d3004ee8627b1e3384514ea5e60921f0a1bf79954fe2244772c8892
+reviewed: 93ccd1211bca30c080883ffdf82dbaaa3e071e7c33244e4de9900b2984b1cda7
 title: "TryResolveMaterialArtifact"
 kind: api
 owners: [Inno.Rendering.Runtime]

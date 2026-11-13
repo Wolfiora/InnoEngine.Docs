@@ -2,7 +2,7 @@
 uid: api.0c4786d0f5ec2604139bacd7a9df39c08d1c815ef723d1d486d23ff1fb18c9dd
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactManifest.IsComplete(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.NativeBuildContext)"
 source: xml
-reviewed: 30baeb8c299092c176a6ea68dbec33ba7e4dc8dcb28143565871c6e3ba3275f7
+reviewed: e7ef89b8be0723f4737d12f3be496b6620718a62bb082614e3e7fe591e8388b4
 title: "IsComplete"
 kind: api
 owners: [Inno.Build.Toolchains]

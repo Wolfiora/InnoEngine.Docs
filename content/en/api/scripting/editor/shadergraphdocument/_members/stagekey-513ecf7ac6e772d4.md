@@ -2,7 +2,7 @@
 uid: api.513ecf7ac6e772d4d3b41c57ac0dfb97c190c8854f0c9c8dbb2b3907d86aac67
 symbol: "scripting:Inno.Rendering.Shaders:F:InnoEditor.Rendering.Shaders.ShaderGraphDocument.stageKey"
 source: xml
-reviewed: 1568b848b5a64191b3d8cfd4f24187310f365b6b28845cd670d821ee59e1229a
+reviewed: e68503f0f13640d58a472fa83e65e27ace4e956b3b06c35a7c52c78827703983
 title: "stageKey"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.d0de7b9d073bf983381e92c7a2835b47db371610564e522d53dbf7cbb49586e2
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatistics.GetSnapshot"
 source: xml
-reviewed: 09c85c9a0ea442f4a23a714669ec4450269225685e45fa92bfeb94197590473f
+reviewed: 1550fb10f0b93e904dbf558dc60536b98961f3db072c3fc3693ecc97d2a0a66a
 title: "GetSnapshot"
 kind: api
 owners: [Inno.Editor.Core]

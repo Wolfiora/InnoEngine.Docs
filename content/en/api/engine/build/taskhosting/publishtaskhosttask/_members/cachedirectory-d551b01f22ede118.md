@@ -2,7 +2,7 @@
 uid: api.d551b01f22ede118e88e1b9a8a7152b73e43882c7345e75b11c3a18b450f6faf
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.PublishTaskHostTask.CacheDirectory"
 source: xml
-reviewed: ad10fd6f65df2b607e233bfc8345a5f1a70b6fc9c1a2dcb381cf604f8d8e2693
+reviewed: 4a58efffcbf68377c6baea40f0744adf26d5c18360531f21e9eca2713fc7d234
 title: "CacheDirectory"
 kind: api
 owners: [Inno.Build.TaskHosting]

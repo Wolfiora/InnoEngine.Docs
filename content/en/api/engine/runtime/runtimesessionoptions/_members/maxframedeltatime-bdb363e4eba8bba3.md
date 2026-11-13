@@ -2,7 +2,7 @@
 uid: api.bdb363e4eba8bba3b7a521a285574678207b3c9cf274b868d8f118de6989be10
 symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSessionOptions.maxFrameDeltaTime"
 source: xml
-reviewed: b5dfddd8ce6214a462c7596f0ecbe5778857ff40e883308dbe3fd6484de9f936
+reviewed: 125e1eda73eeabc2082903e1fdd5586039d157d86b02bff2b659a90bb7586b24
 title: "maxFrameDeltaTime"
 kind: api
 owners: [Inno.Runtime]

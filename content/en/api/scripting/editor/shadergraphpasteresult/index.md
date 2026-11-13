@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.2c5af3088be83a62
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphPasteResult"
 source: xml
-reviewed: 3ee9271df7278ef65896438fd2512c4d99c7010d5d81c4fab648844aaf852a56
+reviewed: 165da5cb5d455af54625969fd95a9a1d8b4ceb800bcd4cd051121bcc334eedb6
 title: "ShaderGraphPasteResult"
 kind: api
 owners: [Inno.Rendering.Shaders]

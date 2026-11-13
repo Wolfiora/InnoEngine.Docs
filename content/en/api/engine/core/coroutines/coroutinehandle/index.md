@@ -2,7 +2,7 @@
 uid: api.inno.core.coroutines.9c47ff402c5c8640
 symbol: "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.CoroutineHandle"
 source: xml
-reviewed: 9ac2c96b2356290ff180e51ac8196cbfa2a5130ee56cfd50ffa0bbee406589bb
+reviewed: 96d01057fcba01d1c92cec364b4cb450b1234f0b82de5488fb8b32ee6d447de1
 title: "CoroutineHandle"
 kind: api
 owners: [Inno.Core.Coroutines]

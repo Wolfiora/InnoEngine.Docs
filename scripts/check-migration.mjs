@@ -70,6 +70,23 @@ export async function checkMigration({ root, engineRoot }) {
     if (relocations.size !== originals.size) throw new Error('API migration omits an inventoried page.');
   }
   const reviews = new Map();
+  const retiredPlatforms = new Map();
+  try {
+    const retirement = JSON.parse(await ownedFile(root, '.agents/records/acceptance/documentation-scope-retirement.json'));
+    if (retirement.schema !== 'inno-documentation-scope-retirement/1') throw new Error('Invalid scope retirement register.');
+    for (const item of retirement.retired) {
+      if (!/^[a-f0-9]{64}$/.test(item.sha256) || retiredPlatforms.has(item.path)
+        || !['XmlApiFragment', 'GeneratedApiNavigation', 'PlatformProjectGuide'].includes(item.kind)
+        || !projects.some(project => project.name === item.owner && (item.kind !== 'PlatformProjectGuide'
+          ? !isDocumentedProject(project) : project.path.startsWith('platforms/')))
+        || !item.path.startsWith(item.kind !== 'PlatformProjectGuide' ? 'content/en/api/' : 'content/en/architecture/projects/')) {
+        throw new Error('Platform retirement lacks an exact implementation owner and original content identity.');
+      }
+      try { await ownedFile(root, item.path); throw new Error('Retired platform content still exists: ' + item.path); }
+      catch (error) { if (error.code !== 'ENOENT') throw error; }
+      retiredPlatforms.set(item.path, item);
+    }
+  } catch (error) { if (error.code !== 'ENOENT') throw error; }
   async function requireDestination(target, source, visited = new Set()) {
     let relative = target;
     if (relative.startsWith('https://')) {
@@ -77,6 +94,7 @@ export async function checkMigration({ root, engineRoot }) {
       if (!match) throw new Error('Current documentation destination must identify the Docs repository.');
       relative = match[1];
     } else relative = relative.replace(/^(?:Wolfiora\/)?InnoEngine\.Docs\//, '');
+    if (retiredPlatforms.has(relative)) return;
     const relocation = relocations.get(relative);
     if (relocation && !(relocation.destinations.length === 1 && relocation.destinations[0] === relative)) {
       if (visited.has(relative)) throw new Error('Migration relocation destinations form a cycle.');

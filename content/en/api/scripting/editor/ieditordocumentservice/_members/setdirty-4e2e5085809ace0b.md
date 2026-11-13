@@ -2,7 +2,7 @@
 uid: api.4e2e5085809ace0b0bf5c5aaf010066b81443ae36098d244d50ea28298fe1b45
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.IEditorDocumentService.SetDirty(System.Guid,System.Boolean)"
 source: xml
-reviewed: f06b90f728e48b171a36cc1f8c7ec6f74f7b39a2945c94bbc91183ad8ff6c440
+reviewed: 18c1b773ea943ad187e6d15cc3208845377551ba88d61ccf616dca016a0251a5
 title: "SetDirty"
 kind: api
 owners: [Inno.Editor.Interactions]

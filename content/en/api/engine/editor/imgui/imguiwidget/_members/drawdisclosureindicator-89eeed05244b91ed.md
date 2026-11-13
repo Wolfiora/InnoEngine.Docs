@@ -2,7 +2,7 @@
 uid: api.89eeed05244b91ed1153a61a2a951e9fd929185d3e21d15e9d583034d38eb2f6
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.DrawDisclosureIndicator(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean,System.Boolean)"
 source: xml
-reviewed: 67336509f720f0e41065813ae0b48cd409e66298253e17db6c16c208ff92988e
+reviewed: 4329a9f3bc03ceb1d62f17630e440a2251c97df54b2c482e96c7e2828f1767f2
 title: "DrawDisclosureIndicator"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.scene.7bdd6dd7608981ea
 symbol: "engine:Inno.Scene:T:Inno.Scene.SceneTypeResolutionException"
 source: xml
-reviewed: 62e14edd555408972b86b3b54c1708956b72af9204babf72178148087a255ac0
+reviewed: 64a03fd0e9cefbbcf928b773c971e2c804d5dd79d0d6a1c127e37ae379e34d79
 title: "SceneTypeResolutionException"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.704835eced2a356ed85aaded4637619bc4a1de0eacdb9f84057917bc26590326
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorPreviewService.ReleaseAll"
 source: xml
-reviewed: bc6028dfd8e988747b8605341ca2acf137f953e74ab1c1eb856d456a0120f8e4
+reviewed: adfcf5a0100e170dea02f778adb01433744ed597291b1749a86a1e80695585df
 title: "ReleaseAll"
 kind: api
 owners: [Inno.Editor.Rendering]

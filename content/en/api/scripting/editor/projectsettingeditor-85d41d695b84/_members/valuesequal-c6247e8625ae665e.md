@@ -2,7 +2,7 @@
 uid: api.c6247e8625ae665ec6783062dd5566475a5a8869dbc4596e9e14a227b0335c8f
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.ValuesEqual(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.ISerializable)"
 source: xml
-reviewed: 60aaa566faa9ecf2ed681fb83d69c58a9ee71f4926e94facbab56e110de9c759
+reviewed: 3bf736ffc76761c86a285a924990b3b3a7df2e5b410b31e47c5e12c15f57ddad
 title: "ValuesEqual"
 kind: api
 owners: [Inno.Editor.Settings]

@@ -2,7 +2,7 @@
 uid: api.6bd86ba8586af92d7cff6208509581de57befb51f118735ba6cfdd261ee04109
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Read(Inno.Rendering.Assets.ShaderAsset,Inno.Assets.IAssetArtifactLookup)"
 source: xml
-reviewed: 0c415ce9745bb9de378e778033f744228b15ab26e6a433070f2eb4c23b6190e0
+reviewed: ca3839a779284dd84c5b3b80921a50bab84b4204910008d5aa484499e8697ab6
 title: "Read"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

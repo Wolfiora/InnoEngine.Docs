@@ -2,7 +2,7 @@
 uid: api.ef0372126a2edaa214f4384ee44dac9107ea62cdea328ed6bfe4bedd5811a9a8
 symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.IPresentationContext.RenderFrame(System.Action,System.Action)"
 source: xml
-reviewed: 8ba1f9a9948e99b1e6fa7f4e58c82edee0acd79ac8e43793bceb09cc82d0c2bd
+reviewed: 6fa3af0bf2bf40aaa3d85b32ab1a34c58663f32de00a7f058cb736fd158ead9b
 title: "RenderFrame"
 kind: api
 owners: [Inno.Adapter.Presentation]

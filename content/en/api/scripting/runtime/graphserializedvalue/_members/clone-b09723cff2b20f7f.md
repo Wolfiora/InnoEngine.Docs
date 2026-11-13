@@ -2,7 +2,7 @@
 uid: api.b09723cff2b20f7faf5d2f16596cef286aae5e18c6f4854fd4c4cd7b383ebf8b
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphSerializedValue.Clone"
 source: xml
-reviewed: d5ed0cc6bcf70da14fcf265a2f80b9ce332a83fa6c83cee106fe51e1d7a7e1fe
+reviewed: 709326b45f6bdc6cbed2ce8adc0b7aa364333abe4013c460ec6067ae2354913c
 title: "Clone"
 kind: api
 owners: [Inno.Core.Graphs]

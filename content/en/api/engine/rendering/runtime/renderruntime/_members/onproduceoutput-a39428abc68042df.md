@@ -2,7 +2,7 @@
 uid: api.a39428abc68042dfa1320652be0b3107074b4934f4adba823d6fa078188beaba
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.OnProduceOutput(Inno.Runtime.Contracts.RuntimeFrame)"
 source: xml
-reviewed: feed1db336ca48b1b3979584d2eeb0a54ee64f6c379e5926590b6595b380d494
+reviewed: 8bbea507e17bbb8d168b9f782ae663bd4d9eb2fc68447133738ccb06eef661eb
 title: "OnProduceOutput"
 kind: api
 owners: [Inno.Rendering.Runtime]

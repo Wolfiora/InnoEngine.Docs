@@ -2,7 +2,7 @@
 uid: api.8ea450a5c65d6cabbce09e5a750d8029d1cd9242c0ee9ad56ca7a11264616ecd
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTreeNodeFlags.SpanAvailWidth"
 source: xml
-reviewed: 0733febefade7451f4339d2f72ab7c8c7f6e61b25a59d6aaeefdd8039c0a3aee
+reviewed: c155e7ef74f8695281c846597834aeb8c1e7a361aacf1708169a401eb5c918d3
 title: "SpanAvailWidth"
 kind: api
 owners: [Inno.Editor.ImGui]

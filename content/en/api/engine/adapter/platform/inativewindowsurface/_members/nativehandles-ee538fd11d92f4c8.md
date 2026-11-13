@@ -2,7 +2,7 @@
 uid: api.ee538fd11d92f4c8afd3046d0f1f51e4c5ce6b34477559bc3c9eb7b3535312d3
 symbol: "engine:Inno.Adapter.Platform:P:Inno.Adapter.Platform.INativeWindowSurface.nativeHandles"
 source: xml
-reviewed: c6320bbbabb503dfe6f555d50ffa362e7a8171a16f731d1d6016a3807adedbaa
+reviewed: b6fc692fc90887183ad60dc76fafcc00ee618c1e7c04cb20959b3db64635220f
 title: "nativeHandles"
 kind: api
 owners: [Inno.Adapter.Platform]

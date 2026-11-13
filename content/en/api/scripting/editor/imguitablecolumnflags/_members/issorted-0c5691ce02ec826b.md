@@ -2,7 +2,7 @@
 uid: api.0c5691ce02ec826bb980be9836803b04802746e642ff367efc598dc737440cbc
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.IsSorted"
 source: xml
-reviewed: 00a2fcb77164c6730cabfdada4632dbcc5c916de7dbfa781cac8254ef8c2b808
+reviewed: 838c894928ae31d1f66d4176cc9e5b241cb9c9f05d876dc8f6abc4b357ebcc30
 title: "IsSorted"
 kind: api
 owners: [Inno.Editor.ImGui]

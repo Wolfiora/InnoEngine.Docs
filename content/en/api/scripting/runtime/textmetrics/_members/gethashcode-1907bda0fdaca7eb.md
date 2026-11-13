@@ -2,7 +2,7 @@
 uid: api.1907bda0fdaca7ebfaac5cb630a29664e29ad3983c005309ecf2c3554352f202
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextMetrics.GetHashCode"
 source: xml
-reviewed: 23eac691a4cae912956c343e728900b8f208db8d96eb632c3f9629efc6d0f445
+reviewed: 15a2c407afba18250c8c58042e361c5e09c4d98b5324607389e8983f134611d3
 title: "GetHashCode"
 kind: api
 owners: [Inno.Text]

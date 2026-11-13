@@ -2,7 +2,7 @@
 uid: api.9260ed998f701ad0d9de7577199d54bad472408617e2b443d8cb2cecef45dc8f
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.ChildWindows"
 source: xml
-reviewed: d9d3a1b177a1fb8fb1675d61d695dab61012439c6704f523e83b84cff900eb29
+reviewed: d732b8d2c0b53afd6538208f2fed978a9d6744535c871fab35e582c7cf52438e
 title: "ChildWindows"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.022b398dc241f138b7af2e1e0c41ebb0aeb197ecee0c93dc71f2b2c25c465d16
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogEntry.#ctor(Inno.Core.Logging.LogLevel,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,System.String,System.String,System.String,System.Int32,System.String,Inno.Core.Logging.LogSessionId)"
 source: xml
-reviewed: 841b95f72951c98d214512a2ee342c09de6e27e96c298f4871d642ba409778e8
+reviewed: b5d8c6f8d78e6cf76c1f413cce561910110b3892b528b612e39a3d0cf46d2c2a
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Logging]

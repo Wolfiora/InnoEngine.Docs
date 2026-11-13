@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.b7a7440b91a6729b
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDocumentLanguageId"
 source: xml
-reviewed: 97bd9893addd04f11069b273847df5cfe2ca4714348782daa8c7c0c165f7d9eb
+reviewed: 99416742790eba1fd13db9d81430e0a9ec12d456dcb15e763a5980b558a0a9cf
 title: "UiDocumentLanguageId"
 kind: api
 owners: [Inno.UI]

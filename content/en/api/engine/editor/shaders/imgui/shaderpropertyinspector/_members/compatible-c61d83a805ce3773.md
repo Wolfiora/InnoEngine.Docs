@@ -2,7 +2,7 @@
 uid: api.c61d83a805ce37736f7f2fe8ed584d9bf68c7885cbe6a68b501803ac2e4bbc5d
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.Compatible(Inno.Rendering.ShaderPropertyType,Inno.Rendering.Assets.MaterialValueKind)"
 source: xml
-reviewed: ab7128d84094b9ddbd95a50158504e3d285a73e364543d908d8ffdf613b7e13b
+reviewed: 0ff268dc1e3a8602e8b9dca6a49a6cc307bb7074917d345e23778868d4002cf0
 title: "Compatible"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

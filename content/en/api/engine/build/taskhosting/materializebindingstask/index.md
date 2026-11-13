@@ -2,7 +2,7 @@
 uid: api.inno.build.taskhosting.26b0f1776c89752a
 symbol: "engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.MaterializeBindingsTask"
 source: xml
-reviewed: 7aa1f1fe5008bd2fb873194229be3878a766c278e317c21e0ea3923d6de86e40
+reviewed: 31d45794578c09c190c5deb0c1aa1f3c60fa394d72a4dd48d10d5f57fc698892
 title: "MaterializeBindingsTask"
 kind: api
 owners: [Inno.Build.TaskHosting]

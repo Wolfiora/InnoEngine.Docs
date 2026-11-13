@@ -2,7 +2,7 @@
 uid: api.21a5532d4645752761ce0dc571587df42954310bd52188036dd8dc2a67d5c268
 symbol: "scripting:Inno.Input:P:InnoEngine.Input.InputSnapshot.mouseButtonsPressed"
 source: xml
-reviewed: 137991c8a1007233bc84613c9a9bb5c9f6a59ec9dd50b7708a011ed1bc53ead0
+reviewed: 483e74ec2cb4cdd48b29b5a9ade21f5df3ec6b130e2f7d2b365c62702611acf0
 title: "mouseButtonsPressed"
 kind: api
 owners: [Inno.Input]

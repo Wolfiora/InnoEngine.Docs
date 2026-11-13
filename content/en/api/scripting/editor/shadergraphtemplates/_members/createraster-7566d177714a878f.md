@@ -2,7 +2,7 @@
 uid: api.7566d177714a878f6b1fa5c68cac1b7c6bd5763977ee1fac85be207ffdb2ec6d
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphTemplates.CreateRaster(InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)"
 source: xml
-reviewed: 99edf99668071d82ae8ecf596f63aafa73f68038cf59ece28d0d5047cc37c6fd
+reviewed: c785184f14cea6ff0e9c63fa067849818724bcd7166779bbc8a0bc07efd2277d
 title: "CreateRaster"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.cba4ffd0f95e6f5c860c9f25c8523f55e8c75e36941b978a86628d64549c4e50
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.HelpBox(System.String,System.String,System.Numerics.Vector4)"
 source: xml
-reviewed: 88948b9c9030562c53f2e8570987718d64eef70db2500f622d546a6d783b622a
+reviewed: 9d86115aeeb5e08aa4812662571e7d9c94dfb6092f875456f304ec79cbc3599e
 title: "HelpBox"
 kind: api
 owners: [Inno.Editor.ImGui]

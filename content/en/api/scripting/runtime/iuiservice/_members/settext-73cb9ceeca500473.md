@@ -2,7 +2,7 @@
 uid: api.73cb9ceeca50047382a2a39e39128c279c2d226c3135a3336b0b8a2a5b792754
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.IUiService.SetText(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle,System.String,System.String)"
 source: xml
-reviewed: a6884dc7ce2fec0269eb52e32ae08ae0ce30810c333d4fcec111a488bd6cd725
+reviewed: 693b22f46b65087a8a93476a0b48ce566d668178e2882d77741eeba3bb2c7ded
 title: "SetText"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.b8806a4369a9bbfa4468b24f7f28074ba7cf96b23f743ea9f33e4c5a4baa2925
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorScenePlayMode.BeginPlayMode(Inno.Runtime.RuntimeSession)"
 source: xml
-reviewed: 7a6529d4f9bd17c2ee38fecee0e3edf6a4a2bb988f3a47f1948bb8285d22148d
+reviewed: 95511d22342c55b3064db5883be6c44969c11b81b8192768b0ebb0b7e99dac4e
 title: "BeginPlayMode"
 kind: api
 owners: [Inno.Editor.Scene]

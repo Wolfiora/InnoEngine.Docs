@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.7bc04157c0630bcc
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiColorEditFlags"
 source: xml
-reviewed: 3503b7293612b5de6fb29ab4f3f695875a598e2c4773621ee5b311997a7da356
+reviewed: 07f0d694d6b9bd33cda9ffae00a1a4696b0762601160a354fa902ff408cdd79c
 title: "ImGuiColorEditFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

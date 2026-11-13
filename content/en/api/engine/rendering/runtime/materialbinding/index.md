@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.48fa320138e06291
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderResourceProvider.MaterialBinding"
 source: xml
-reviewed: af3f8aec610b123701f94f4bebfa810a610a13bd20f5df4fdd43e08c3bd1a799
+reviewed: b4c04f8eb6ceac2d8156fa8fe4b601ee2650b8182e5063a4eb75841c1a188de5
 title: "MaterialBinding"
 kind: api
 owners: [Inno.Rendering.Runtime]

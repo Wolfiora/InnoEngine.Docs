@@ -2,7 +2,7 @@
 uid: api.11505d47aa15dbe5f13146ac31c0928d4963679e74160a2af436770dbb8bbe03
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorViewportPointerEvent.Equals(Inno.Editor.Interactions.EditorViewportPointerEvent)"
 source: xml
-reviewed: 728b5c46e9f375cdf9959ff998f54108a6d117d9fe2c8dc983eb95b4270d82e6
+reviewed: 56b5d414a6194b7193e87aa475b1072752d55222ebf75b6e32d9873b98aa8d9a
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Interactions]

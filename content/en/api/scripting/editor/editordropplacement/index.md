@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.1f8fbbef77b7ae42
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropPlacement"
 source: xml
-reviewed: 1ca85046e69a2c009948ace1359cf986afd8d906afefbfbbcefda96c35cd101e
+reviewed: 6b5fa062d6ed89011eee2db28ad61637feef86983c20f19d07c2bd215dbe4ff3
 title: "EditorDropPlacement"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.c4684353055722ee56a67ae9c074a36051500cfdd2fa6b269436d89fc82f23d9
 symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentDiagnostic.GetHashCode"
 source: xml
-reviewed: 2dd764d09d5fd5914467f635b1270166b58ed649fab8d660db9befeaeeadf016
+reviewed: 54ad77851cb137f6dd0d7a0742436d73ff56d88093c8ecf4f9d9f49288b5627a
 title: "GetHashCode"
 kind: api
 owners: [Inno.UI.Assets]

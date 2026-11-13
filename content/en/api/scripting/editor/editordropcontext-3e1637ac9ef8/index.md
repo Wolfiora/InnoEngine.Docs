@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.ada6735a60cfcc16
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropContext"
 source: xml
-reviewed: 447dd2c1826ff39150bbb10356881778c89cc1fb209ee8656ac12dfb1c4d23f3
+reviewed: 70968a4c74bcdfc6701d24edd628638c796970ef5321af9cecf4f2f8a4409f37
 title: "EditorDropContext"
 kind: api
 owners: [Inno.Editor.Interactions]

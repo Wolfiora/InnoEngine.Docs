@@ -2,7 +2,7 @@
 uid: api.f05d0c632700b609575745d163d8c86e246092927a1981849284d3c5afca33d2
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.GetPropertyAvailability(System.Object,Inno.Core.Serialization.SerializedProperty)"
 source: xml
-reviewed: b6684be966a1744d40c31a8c7e5689dc8fcb7f1ee9f64ec50f43c830cb6cafad
+reviewed: 99f72b42e0f254753906bb6801479ad0493adf983515d2f3d0e75ef97d03f4ca
 title: "GetPropertyAvailability"
 kind: api
 owners: [Inno.Editor.Inspection]

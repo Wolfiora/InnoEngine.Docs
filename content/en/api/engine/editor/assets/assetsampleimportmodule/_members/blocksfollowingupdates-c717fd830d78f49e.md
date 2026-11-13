@@ -2,7 +2,7 @@
 uid: api.c717fd830d78f49ee4edae1c4edfcbad290fcca32e4683691c627b037ad969f9
 symbol: "engine:Inno.Editor.Assets:P:Inno.Editor.Assets.AssetSampleImportModule.blocksFollowingUpdates"
 source: xml
-reviewed: f762acd0c268d569d4260462b918fe70fd4741806dac824bc4fcdcf5ad580c56
+reviewed: ceb7bc62e2bd4902b32b77e552d6603887e6e561ee3003d24353f00c2f9fa372
 title: "blocksFollowingUpdates"
 kind: api
 owners: [Inno.Editor.Assets]

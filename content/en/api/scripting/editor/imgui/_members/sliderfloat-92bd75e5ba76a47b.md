@@ -2,7 +2,7 @@
 uid: api.92bd75e5ba76a47b64630d7bc824473edf1f345ba04354b905a39de52ef725ac
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderFloat(System.String,System.Single@,System.Single,System.Single,InnoEditor.ImGui.ImGuiSliderFlags)"
 source: xml
-reviewed: 87075145df8bcd465bf55223caf10a950bc0ce3a35e2d3c58573642c04b9a459
+reviewed: f8e50155bf1f0aca7823c97f07a84384c535d33b1713318a4dafc4eacd42e2ac
 title: "SliderFloat"
 kind: api
 owners: [Inno.Editor.ImGui]

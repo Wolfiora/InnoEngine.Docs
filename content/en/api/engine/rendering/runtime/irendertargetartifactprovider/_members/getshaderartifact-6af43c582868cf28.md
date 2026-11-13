@@ -2,7 +2,7 @@
 uid: api.6af43c582868cf2875ff7b7a08307732e97e2b9369c991d06c9a8f49e67daf16
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderTargetArtifactProvider.GetShaderArtifact(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities,Inno.Rendering.Assets.RenderShaderArtifact@)"
 source: xml
-reviewed: 6421c5f1f283b9dd218ddeb80c4674e1c024944ee0a8e66e6f0fb210672bb74c
+reviewed: 8c98e0113cee2fa8fbf4b8f8f7fdde3a1cd1ae1e1a69a4e77b116186376361df
 title: "GetShaderArtifact"
 kind: api
 owners: [Inno.Rendering.Runtime]

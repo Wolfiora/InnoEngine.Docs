@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.04e9a72e956db869
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider"
 source: xml
-reviewed: edf1993085b1cbd55ec66927c95298b14992f6efca2c27c0981c0654b3a346de
+reviewed: e84a59bd11817bf43b3153c7dcddf0bf0874f3b69facb1c9aeba6391b9e799c8
 title: "EditorRenderTargetArtifactProvider"
 kind: api
 owners: [Inno.Editor.Rendering]

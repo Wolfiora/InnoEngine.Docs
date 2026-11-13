@@ -2,7 +2,7 @@
 uid: api.9102d24f6a81f5de146164f64bce1af925c313b856e6394dda87c7f83ac375dc
 symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetResidency.AcquireAsync\u0060\u00601(System.Guid,System.Threading.CancellationToken)"
 source: xml
-reviewed: eefe583c4c93da3ccf2ea53ae7b640d0817f0b6cbc0a3b4cbd1260dcfecd42d2
+reviewed: 83124e4c22d2a692105a08c98970dcd2ebb25e8a96ae9dbb201ee4a28b680e57
 title: "AcquireAsync"
 kind: api
 owners: [Inno.Assets]

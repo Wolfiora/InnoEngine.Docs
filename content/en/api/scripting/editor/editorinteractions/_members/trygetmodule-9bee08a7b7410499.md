@@ -2,7 +2,7 @@
 uid: api.9bee08a7b7410499b6085838ff3715773758631aac60c28e2cfa3858f6399c73
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryGetModule\u0060\u00601(\u0060\u00600@)"
 source: xml
-reviewed: 7e0641297e3ffe5219ed59dcb98ff964f52286c272b1a6f09a8b0bfe4f71dfed
+reviewed: f3700a5b5cfbd6ac21453ba4adf0c7785800f4f572c2de90fb0cfbb0557eccd8
 title: "TryGetModule"
 kind: api
 owners: [Inno.Editor.Interactions]

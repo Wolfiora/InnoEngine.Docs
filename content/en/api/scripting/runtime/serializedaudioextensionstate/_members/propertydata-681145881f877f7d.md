@@ -2,7 +2,7 @@
 uid: api.681145881f877f7def4e8465ce06e46b906dd701afe0d3263b7f022af8e3c0aa
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.SerializedAudioExtensionState.propertyData"
 source: xml
-reviewed: fca478af97abb62005dc096d2f5988c9f4a117b1b555f11ff628d4d71a96dda6
+reviewed: 1b0358b3e7cc60d93e05c5d9be8da1070ed1003bc609396b39d5dcb62b832080
 title: "propertyData"
 kind: api
 owners: [Inno.Audio]

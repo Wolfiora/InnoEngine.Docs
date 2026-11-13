@@ -2,7 +2,7 @@
 uid: api.f87dbb964797b07f37ead5d00d76ce7bcbe85015fd9ab2629006f8a53d6f1882
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatisticId.Equals(System.Object)"
 source: xml
-reviewed: 4c2d578e82dc92298e0cbd82032eecfe0b3e0eedf09ed35e27ec9f4bd0608a57
+reviewed: 32bd7f3bf3105d176d58ce9e3293ff4275c9d7ce969c5fd6e47898fefd0040a8
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Core]

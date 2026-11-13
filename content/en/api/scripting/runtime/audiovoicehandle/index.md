@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.6cf81de2ecdb974e
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceHandle"
 source: xml
-reviewed: 02c1475bf6c7c2911dfb58b9fd9922218f5dfecc7758ac47c43f399593989451
+reviewed: 9aedf5416eef8c4c5ca64a1686e281aac89c54c49551f9a0cc1cea922c2af361
 title: "AudioVoiceHandle"
 kind: api
 owners: [Inno.Audio]

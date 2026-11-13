@@ -2,7 +2,7 @@
 uid: api.7000bea40ed41273e098368b718b21e3fe6da70b884e0fd9f66085749fef5684
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceStatistics.ToString"
 source: xml
-reviewed: a471a829618cd5aea5209f69f64d482398c37eafeb35ce143e3fe9583812519e
+reviewed: 5586b7287430a372defb09b90f1c475c00f994246ed56afa8ea1c343eab36128
 title: "ToString"
 kind: api
 owners: [Inno.Rendering.Runtime]

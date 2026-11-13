@@ -2,7 +2,7 @@
 uid: api.62917c53ce8e43016341916cce1e39e3f21b9378fafe8e8de0110c5212f015b2
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.PersistentBufferHandle)"
 source: xml
-reviewed: b95dc4015907b10cdd7e6d4e0866738e44da25bad2ef91de78de2e17fd50817a
+reviewed: 6e453768ccdcb267917e2c90af55bbc8dd97b9f27354bc6ddc152848a2e9bb66
 title: "GetHandleIdentity"
 kind: api
 owners: [Inno.Rendering]

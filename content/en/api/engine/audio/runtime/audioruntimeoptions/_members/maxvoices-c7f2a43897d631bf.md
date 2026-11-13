@@ -2,7 +2,7 @@
 uid: api.c7f2a43897d631bf82afcd95ae3f0cebc020d5771b8abb1f493a8ca5771d3f2f
 symbol: "engine:Inno.Audio.Runtime:P:Inno.Audio.Runtime.AudioRuntimeOptions.maxVoices"
 source: xml
-reviewed: 757ddd995d4d50813f61a744bd53edac36fac3ae67bf3509bd3c89e06b9dc6f6
+reviewed: 780427ef78a8dedd2d7d5530811d642ab0ce5e9737523314aa1188b9e1370831
 title: "maxVoices"
 kind: api
 owners: [Inno.Audio.Runtime]

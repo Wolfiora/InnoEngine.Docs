@@ -2,7 +2,7 @@
 uid: api.530bdc92275bbbb1376040ee009f0606b225e7f041117d688d02416c3a350801
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.GetId(InnoEngine.Settings.ProjectId,InnoEngine.Scene.GameLayer)"
 source: xml
-reviewed: e7be816c6508451c7fd130bb95978ef10027b17d3edc007fcc59b7911af4bb86
+reviewed: 23370a4d3839ee939b81b3ba1e36c0be20a8a46a560e5648050d947e8a18c90a
 title: "GetId"
 kind: api
 owners: [Inno.Scene]

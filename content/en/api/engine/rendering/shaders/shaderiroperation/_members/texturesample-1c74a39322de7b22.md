@@ -2,7 +2,7 @@
 uid: api.1c74a39322de7b2287a75fed8bd400f6ae1b9e6f28d880faa64646588104c06b
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrOperation.TextureSample"
 source: xml
-reviewed: aabb588b2c98a213ea06f11119f1aee98c46fd83463bc369b58718f5d7349fb2
+reviewed: 95783e393ec69de7d7539afd3bd09135d882d34559305419d7a29beb69374069
 title: "TextureSample"
 kind: api
 owners: [Inno.Rendering.Shaders]

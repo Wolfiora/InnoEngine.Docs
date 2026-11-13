@@ -2,7 +2,7 @@
 uid: api.6e351c4b58bbfce047f95660a559e8eeef47e038daaf0735db69b3d603efb485
 symbol: "engine:Inno.Scene:P:Inno.Scene.SceneWorld.hasActiveScene"
 source: xml
-reviewed: 1149737df86e36db25e24e510a665ad41f2aabd84c86f8a959e3c13d28f0c7da
+reviewed: 4c13758978aabdf243289cd2382224ffc281c2972c319fad43a8874a4f552da4
 title: "hasActiveScene"
 kind: api
 owners: [Inno.Scene]

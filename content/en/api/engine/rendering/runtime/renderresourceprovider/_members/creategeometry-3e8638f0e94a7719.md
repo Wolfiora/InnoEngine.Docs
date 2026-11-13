@@ -2,7 +2,7 @@
 uid: api.3e8638f0e94a7719c9ea59bbeeb21aa08cb51b259088e45eb1ece8930ffa0d4a
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateGeometry(Inno.Rendering.PersistentBufferHandle,Inno.Rendering.PersistentBufferHandle,Inno.Rendering.RenderVertexLayout,System.Int32,System.Int32,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderGeometrySection})"
 source: xml
-reviewed: bc35aad76bf61dcaa5dafbe386fbe887948ed41bb2401c9841fb5ad6fd99ee21
+reviewed: 8e557c691d8d61c378e215683f25fa10717ef746ddffdd7a833044f39ae5f831
 title: "CreateGeometry"
 kind: api
 owners: [Inno.Rendering.Runtime]

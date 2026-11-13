@@ -2,7 +2,7 @@
 uid: api.166cb3743c045648539947ad1414d78f01ae8d63f885f42fed5d9b8ff507a415
 symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorPanelAttribute.defaultOpen"
 source: xml
-reviewed: b4fb9afb2be2ee84ed51898a69717ee9348bab37c2bd44b1680e92d7de7f045f
+reviewed: 0affd4f33f2fb771575cd87afc1ea8e4bffcdfc9e24464eb5539a93b348e4cb9
 title: "defaultOpen"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.ace1a1bf5b59b8664178cd987ad4d60f0557702393aeadace4411bf7ede1bf1e
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPlanarNavigation.WheelFactor(System.Single,System.Single)"
 source: xml
-reviewed: fcf3b74943cfe8d8bdb28ec6c51946aeafc9731afc5b0009b00a8d0bd0a3fd45
+reviewed: 6996aa94e75cd2be46de1c1c42cebd839f7547b61d976b7c78ecd3471c8efb78
 title: "WheelFactor"
 kind: api
 owners: [Inno.Editor.Interactions]

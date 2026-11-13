@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.814f1b60b90c377e
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.CSharpSampleSourceRewriter"
 source: xml
-reviewed: 459f368a1447c9a3bde96db72cf43694767b2fd0bb2c286c3c2627008a54c842
+reviewed: 6ab6987eeed3810a9054ba013cb653a1d2fddd885bdc5e7ed5f7a00d1702c72b
 title: "CSharpSampleSourceRewriter"
 kind: api
 owners: [Inno.Scripting.Compiler]

@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.d07c327d0471c2ce
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPortCapacity"
 source: xml
-reviewed: 7e898c76ec4fbdeba6be6e450580fb784b0b4d39cfa66b5b343c7ad9e10ef1a3
+reviewed: 1f9525934c13be3a68e7f72cfc19b90eba6009262d6e756290526707d7e37735
 title: "GraphPortCapacity"
 kind: api
 owners: [Inno.Core.Graphs]

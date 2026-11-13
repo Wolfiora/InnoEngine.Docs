@@ -2,7 +2,7 @@
 uid: api.aad736e69a358b91b77d44fe3dcdfd5673c1cae9b418c019b2c583cc048a2f58
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioCapabilities.Equals(System.Object)"
 source: xml
-reviewed: cb721cd772774df60a13da9774863689b394d62a8c0c55f68874f20ea0648896
+reviewed: b53607555be2f10578964c00071aaac764745666cb90521106e3df8975f4584d
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

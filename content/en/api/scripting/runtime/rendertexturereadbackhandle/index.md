@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.675014ce8ed8a438
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTextureReadbackHandle"
 source: xml
-reviewed: 1e93ccb7ef4b3edc76477816e00bcb36fabd41157ec4dc300bceb3b4e78d4ccf
+reviewed: 9414a550a3e671207fc3b37db59bd5391e14565d3883ea0992e6e92f5b02ab76
 title: "RenderTextureReadbackHandle"
 kind: api
 owners: [Inno.Rendering]

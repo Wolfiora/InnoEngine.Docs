@@ -2,7 +2,7 @@
 uid: api.ff4dce5ea6816219ed836667a3406407d1101f15af5fba47f6f4b682dd511b1b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderGraphBuilder.MarkOutput(Inno.Rendering.RenderBufferHandle)"
 source: xml
-reviewed: 72530a5060e503943950232fc2da0d00ac8c372d331200c0ae182568561be9b4
+reviewed: 5ebc6075df2ef2e922a40ec65c6c164b56743df355cf33fe476cd722ac14665e
 title: "MarkOutput"
 kind: api
 owners: [Inno.Rendering]

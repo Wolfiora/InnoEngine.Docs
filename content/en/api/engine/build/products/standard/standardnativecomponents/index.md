@@ -2,7 +2,7 @@
 uid: api.inno.build.products.standard.81123f2d536f208d
 symbol: "engine:Inno.Build.Products.Standard:T:Inno.Build.Products.Standard.StandardNativeComponents"
 source: xml
-reviewed: 1e3cd06c627e522eda488c0b2765e737b811d2878187a4ba5e79147642a0e3ac
+reviewed: 81b3b716f0f7d863d880ea647b9ec8adfd84e8e17080633684892b4500763c9c
 title: "StandardNativeComponents"
 kind: api
 owners: [Inno.Build.Products.Standard]

@@ -2,7 +2,7 @@
 uid: api.66e96f7e18772ecbbf7a754cf81c28d63049bfc39911da3ec88a27dc51d93c08
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectId.FromName(System.String)"
 source: xml
-reviewed: a062e6418302e2dc8c55c51038c3c9bfb7d9cc6cb4af3793ee00420bedcbfbe6
+reviewed: 37a0b5c3becbd3ca14d665a4335c0292cf709c404349555081194c536aaafe74
 title: "FromName"
 kind: api
 owners: [Inno.Core.Settings]

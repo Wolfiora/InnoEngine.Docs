@@ -2,7 +2,7 @@
 uid: api.inno.build.bindings.503652649b30b0db
 symbol: "engine:Inno.Build.Bindings:T:Inno.Build.Bindings.NativeBindingProfile"
 source: xml
-reviewed: 8e149e1d10c5255d6e317a5f9de40dfeea15fa254fa3cb5dc6afabae7da54b1b
+reviewed: fd47544f59e7029a3c93742ce3f7d7a10bfb979f1e1d05532dcba60daa279051
 title: "NativeBindingProfile"
 kind: api
 owners: [Inno.Build.Bindings]

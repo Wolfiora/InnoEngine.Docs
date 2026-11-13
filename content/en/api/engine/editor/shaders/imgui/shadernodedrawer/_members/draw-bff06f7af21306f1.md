@@ -2,7 +2,7 @@
 uid: api.bff06f7af21306f167f10d10f957f4a22701a64767d1c47bd51369e53bc26167
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawer.Draw(Inno.Editor.Shaders.ImGui.ShaderNodeDrawContext)"
 source: xml
-reviewed: 5d8cb1cd4d304478f9deee4b516c77fd52efbdc5d352915f0bdf7efd4cfce060
+reviewed: 83a80124ba3dce5e83a85f110c1c987cca24f02111155a55923ea34f9f507d19
 title: "Draw"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

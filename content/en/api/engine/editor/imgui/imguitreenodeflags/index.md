@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.c10b303910ed5900
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTreeNodeFlags"
 source: xml
-reviewed: 2c9d281a3d1d4cb1e12f463a129b3928d757871b1ff2de60882ce564bdedad4b
+reviewed: 7623fc7d19aaf97c63307cc4d606a4e9e9276568d7814a0d1bcb9730bdd2cfb0
 title: "ImGuiTreeNodeFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

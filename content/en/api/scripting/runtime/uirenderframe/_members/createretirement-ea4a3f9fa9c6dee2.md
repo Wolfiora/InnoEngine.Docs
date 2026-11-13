@@ -2,7 +2,7 @@
 uid: api.ea4a3f9fa9c6dee2db18c0b3382d6b2b28822affa9f50fee49ac3118f988af50
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiRenderFrame.CreateRetirement(InnoEngine.UI.UiMeshHandle[],InnoEngine.UI.UiTextureHandle[])"
 source: xml
-reviewed: a60ce1ea0b7a28220daddea28a9b55dda615cbb93e18d58a6c09278f99db7f9b
+reviewed: 6b5fb3b2ac90ac57defdfc07ad66527161860d605183682ec3246c051859f3da
 title: "CreateRetirement"
 kind: api
 owners: [Inno.UI]

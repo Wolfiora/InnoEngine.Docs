@@ -2,7 +2,7 @@
 uid: api.d0636af324cbfb47e1fba8e1f951afae7a9e079efa13358ee1057a7f51d6e186
 symbol: "engine:Inno.Editor.Hosting:M:Inno.Editor.Hosting.EditorApplication.RunAsync(Inno.Editor.Hosting.EditorLaunchOptions,System.Threading.CancellationToken)"
 source: xml
-reviewed: 687e509470f0cfc89bf6f205beb1c02093494e498b20f092309ca0b0cdc99f79
+reviewed: 147bec3b41964744503d2710c70ce0636d3053e4fec302b108757cb42e31e380
 title: "RunAsync"
 kind: api
 owners: [Inno.Editor.Hosting]

@@ -2,7 +2,7 @@
 uid: api.5e16b00f5bcf38fa8b4f21b2ab5e5d4774f1c2834196e98d7d5d61a84e11b50d
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPersistentResourceId.Equals(Inno.Rendering.Runtime.RenderPersistentResourceId)"
 source: xml
-reviewed: 97feff70bcda86d91e819e379ec70e7750e01c6d5d96187073b4690ce3bfc1af
+reviewed: 1e3c7e798370a5cbb8d8a6e6c605cc3f8199c09d7e4d741a9bad4e91dec55f12
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Runtime]

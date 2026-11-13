@@ -2,7 +2,7 @@
 uid: api.c1ea702b5633df60ac5edd9794f98c85f38f335e34a74c9a501b4b88ecd6088f
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequestProvider.#ctor"
 source: xml
-reviewed: cae43c477d6a77c01b0a5385fb0a307fafcec91deb95314d66437d19fe2a3a32
+reviewed: 199cf4e94ebb411f0bd2130150600882171e42e21dd8d0e6c4369514d91df884
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

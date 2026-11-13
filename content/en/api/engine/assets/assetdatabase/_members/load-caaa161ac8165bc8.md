@@ -2,7 +2,7 @@
 uid: api.caaa161ac8165bc8208df61e098723c034cb830d4c923ae14f39134ca0070994
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.Load\u0060\u00601(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 4b7c9274f23c805a23b4cb5ce0ee58fffc36d972d0ade75b19044d6a5d827637
+reviewed: cfab592a6c693af9c5f4446c94c5e4316198e5fb92f1e01a8f8053060ca98cd1
 title: "Load"
 kind: api
 owners: [Inno.Assets]

@@ -2,7 +2,7 @@
 uid: api.7f2651a12483af82c2f661ab2ff88bbaa7adc61130fbc06816dd1da628cb5d58
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderOutputSession.#ctor(System.String,InnoEngine.References.ContentReadScope,InnoEngine.Rendering.RenderViewport,System.UInt64,System.Single,InnoEngine.Rendering.IViewContentCollector,InnoEngine.Rendering.RenderOutputInput,InnoEngine.Rendering.RenderOutputRoute)"
 source: xml
-reviewed: 91728914b783822991ecf952e515eb1da8d604fa1d26caffc2608b55fafbbf83
+reviewed: eb30bd23d280b6068521b57ed30422aacb0dce1412aec703dd48aa2432fa810c
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

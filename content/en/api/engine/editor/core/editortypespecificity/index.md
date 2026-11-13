@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.e20e9d60b13bf5d0
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorTypeSpecificity"
 source: xml
-reviewed: 3448341b425c15f33859138ffb470f8dfc3cff98390898ea72f9a42449eb9ae3
+reviewed: d0f9bc91cc105dc4ac81dcfc4fd2ddd3919e059898ecd6aa71866b929325f53d
 title: "EditorTypeSpecificity"
 kind: api
 owners: [Inno.Editor.Core]

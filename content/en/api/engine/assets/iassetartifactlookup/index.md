@@ -2,7 +2,7 @@
 uid: api.inno.assets.66ee3b34aa4f6278
 symbol: "engine:Inno.Assets:T:Inno.Assets.IAssetArtifactLookup"
 source: xml
-reviewed: 6a1213bfcbb87587cf6faeb90f68cd3e01f6c21f75223486923b4f5b3ebd9225
+reviewed: f56801baabfff57e522e4e75e62b6502996a6f54cb76c66b6aef4e891c0ce0b3
 title: "IAssetArtifactLookup"
 kind: api
 owners: [Inno.Assets]

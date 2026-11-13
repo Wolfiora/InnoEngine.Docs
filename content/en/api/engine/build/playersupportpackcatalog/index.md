@@ -2,7 +2,7 @@
 uid: api.inno.build.b8cb057156e01ab9
 symbol: "engine:Inno.Build:T:Inno.Build.PlayerSupportPackCatalog"
 source: xml
-reviewed: 38c781ee39af5c986bcc33761452d2563497ba3b62db781639e9755670efda77
+reviewed: 4cff37ace6d67044ee641982924f21ff33d2585def0e69b60a17a395ecad2417
 title: "PlayerSupportPackCatalog"
 kind: api
 owners: [Inno.Build]

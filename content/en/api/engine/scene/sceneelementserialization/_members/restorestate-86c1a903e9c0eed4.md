@@ -2,7 +2,7 @@
 uid: api.86c1a903e9c0eed4f8e27b92675b1384a9de35f3a9ad4f540a400b22e51e473b
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.RestoreState(Inno.Scene.EngineObject,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
 source: xml
-reviewed: 496c18140f42adaa135dd93ef0d54cc49bfdea34e7e0400799b423f06896b514
+reviewed: 75596190ffbbd21a1fe8b9cacd029c4928ced32e3b1a9367dbf4218c7e6cf32b
 title: "RestoreState"
 kind: api
 owners: [Inno.Scene]

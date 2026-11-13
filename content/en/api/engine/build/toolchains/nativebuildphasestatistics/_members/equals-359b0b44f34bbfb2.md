@@ -2,7 +2,7 @@
 uid: api.359b0b44f34bbfb22be3b1440057194538dcc3902481ae7d76957796ec3149f6
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildPhaseStatistics.Equals(Inno.Build.Toolchains.NativeBuildPhaseStatistics)"
 source: xml
-reviewed: 3ad55f941342b726ab28abc890aadd8f50eaee990d6cbd6218936085f3bfd7f1
+reviewed: ad6a095524598b3aae57642f9036a1df3cedda8f249986b75d2ef8930f68d28d
 title: "Equals"
 kind: api
 owners: [Inno.Build.Toolchains]

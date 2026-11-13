@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.57ecf76088efd691
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderTextureArtifactSlot"
 source: xml
-reviewed: 61d13d7f9dddefe6f4f8432c0a6d234ae61b7d84c4bc0342fb0f6b3f87c31746
+reviewed: 41c70498f7d145e0e795389906af7311ca1dc76cc9e1daf10af7f7d77d3888d5
 title: "RenderTextureArtifactSlot"
 kind: api
 owners: [Inno.Rendering.Assets]

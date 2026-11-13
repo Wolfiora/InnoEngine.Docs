@@ -2,7 +2,7 @@
 uid: api.24fdec400e2383b3eff322d6fabfadf5f8b28fdc7b8757cfbb42802b0dffdf6a
 symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.PlayerApplication.RunAsync(Inno.Player.Runtime.PlayerLaunchOptions,System.Threading.CancellationToken)"
 source: xml
-reviewed: b98f6d31e077396f12bc902c1f81d95d56c45903c1a3193dace44997a3881eaa
+reviewed: db54f2225ddb9b593adb0550e70d7abb8411b5d0994f58c55881961b861b5c40
 title: "RunAsync"
 kind: api
 owners: [Inno.Player.Runtime]

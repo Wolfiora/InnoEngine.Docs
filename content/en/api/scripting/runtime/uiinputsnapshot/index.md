@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.7f240922c54ffd66
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiInputSnapshot"
 source: xml
-reviewed: 5ceafbf201999208d5d5c2d80b16bed1f34c02b81caa621fdf1086107dce9ba4
+reviewed: 1c70f9db0bd5134c6b1fca060d002e52c2338c38f421547b305c7c111fa31b41
 title: "UiInputSnapshot"
 kind: api
 owners: [Inno.UI]

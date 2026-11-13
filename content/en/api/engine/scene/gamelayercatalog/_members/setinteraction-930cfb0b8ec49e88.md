@@ -2,7 +2,7 @@
 uid: api.930cfb0b8ec49e88cc49866587aa194595390e714a615e4c16a0c3c9810be892
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.SetInteraction(Inno.Scene.Layers.GameLayer,Inno.Scene.Layers.GameLayer,System.Boolean)"
 source: xml
-reviewed: 10bfcea2fde63389cc051d80ae5755e5069b5c596c27b1bdb9c2731635c708f3
+reviewed: 441ba86dd956a0a5c5a5776d9a0923b08122097b18db1754ccb14a10eb2dbf0a
 title: "SetInteraction"
 kind: api
 owners: [Inno.Scene]

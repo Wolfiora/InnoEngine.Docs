@@ -2,7 +2,7 @@
 uid: api.64ce1cf9708427d5b866f476cf0c5c9a7cd0e413b2d1da0d12b6076415444bd6
 symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitConnection(System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.Single)"
 source: xml
-reviewed: a8d7b473dcf2abe3c3122dacb49d7494eb68e9310241dd42cc4a593b21c079ee
+reviewed: 69111ef787f0d721613a28dd7dd871602da0daf89e4c39371b18b29dbf815266
 title: "HitConnection"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

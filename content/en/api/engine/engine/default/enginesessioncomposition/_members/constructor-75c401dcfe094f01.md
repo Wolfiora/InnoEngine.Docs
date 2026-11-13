@@ -2,7 +2,7 @@
 uid: api.75c401dcfe094f019d214a156a80da4b3a21e0c7fe30891556b709d7ac31cee1
 symbol: "engine:Inno.Engine.Default:M:Inno.Engine.Default.EngineSessionComposition.#ctor(Inno.Runtime.RuntimeSession,Inno.Adapter.IAdapterCatalog,Inno.Adapter.AdapterSelection,Inno.Adapter.Input.IInputEventSource,Inno.Assets.IAssetArtifactLookup,System.Func{Inno.Audio.AudioProjectSettings},System.Func{Inno.Storage.IApplicationStorage},Inno.Runtime.Contracts.IRuntimeSubsystemFactory)"
 source: xml
-reviewed: 1d02c14ea1db02a37b15929aeb3cac1e7d5ce95430477e5350f0d82a8caf42f8
+reviewed: 670d600035a920b1fa05e35ce42528c9fed1685eb40daf6348cf8f6c37694df2
 title: "Constructor"
 kind: api
 owners: [Inno.Engine.Default]

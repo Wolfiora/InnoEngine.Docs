@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.066e29b984391d16
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiTableColumnFlags"
 source: xml
-reviewed: b7526a558b43b6a3fff0a002cd2126877f9d0080abfedd6addf0b68c2420b8b8
+reviewed: b30bd355bf2a2182355010360da1f5bbfac123a8c0e9f675c13192c697365e28
 title: "ImGuiTableColumnFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

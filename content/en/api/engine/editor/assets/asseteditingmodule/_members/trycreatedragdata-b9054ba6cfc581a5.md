@@ -2,7 +2,7 @@
 uid: api.b9054ba6cfc581a5c6aa0ed303906452598a2c9cf00598bcc83990884ff9b62d
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.TryCreateDragData(Inno.Editor.Assets.AssetEditorContext,Inno.Editor.Interactions.EditorDragData@)"
 source: xml
-reviewed: 24e4436b19c7e268096a47eebb37ecf73be3ff156cc28038dc3c86e2737928f2
+reviewed: 562abba80b7c59d6658f65ea52ecfea0c994e68d5816c7c7d1ac13e79a9d552d
 title: "TryCreateDragData"
 kind: api
 owners: [Inno.Editor.Assets]

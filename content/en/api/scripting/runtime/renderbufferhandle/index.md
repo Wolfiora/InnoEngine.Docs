@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.12c336e9ce0174eb
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBufferHandle"
 source: xml
-reviewed: 2505a291d2b4c68ca78165d9002165c7b7666e132e3db2efa5bb69f434b616af
+reviewed: e1beeab4c7e4cbd5b3136b46193a65d715adf4a1f828b9d027ebeb5b54a046c0
 title: "RenderBufferHandle"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.41e63c2e17cf5fad
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphLiteral"
 source: xml
-reviewed: cc2c303d6975dd14b659a45c0f16bcb5e3c921a1ad525968668a271b39c5f4ba
+reviewed: 73c49409160088bbd27174884f20ec0db4322341926d7739708087a778deeb2e
 title: "ShaderGraphLiteral"
 kind: api
 owners: [Inno.Rendering.Shaders]

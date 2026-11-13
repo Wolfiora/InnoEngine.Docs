@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.1dd6844f250196da
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderFrameData"
 source: xml
-reviewed: 33ecffdef654a7956f2872ac58deb80e022013a71049b674c562b5e98ac3a580
+reviewed: 823ea6412f56b34b8c5913ba2af63edf2774a91d8e2f51d49506694f6b4b0d5f
 title: "RenderFrameData"
 kind: api
 owners: [Inno.Rendering.Runtime]

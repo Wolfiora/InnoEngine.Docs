@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.8008ee4a91284a0e
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingRecord"
 source: xml
-reviewed: 05fcd395379be0996493b95a38b11737059c97851fcd7287a6bc4ecf95a03ac2
+reviewed: eba1d8f2f280d37abd6415093d44e5f360ea65a30d7be384e69a3b9a0e9a4519
 title: "ProjectSettingRecord"
 kind: api
 owners: [Inno.Core.Settings]

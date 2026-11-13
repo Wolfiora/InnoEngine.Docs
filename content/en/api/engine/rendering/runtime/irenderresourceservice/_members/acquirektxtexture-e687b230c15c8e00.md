@@ -2,7 +2,7 @@
 uid: api.e687b230c15c8e003d300d90868b0556de5cbf98886fd1ded3ad4a4e25b37911
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.AcquireKtxTexture(Inno.Rendering.Runtime.RenderPersistentResourceId,System.Int64,System.ReadOnlyMemory{System.Byte},System.Boolean,System.String)"
 source: xml
-reviewed: 2fdc429930bbe06add1cdbd9ec915bbbe67b548fbee0c059a65997b1026462ed
+reviewed: 5a9b4bfb3ab0e2328f0c0137c37c5400e86974d6e1dd715ca16830fabbf42231
 title: "AcquireKtxTexture"
 kind: api
 owners: [Inno.Rendering.Runtime]

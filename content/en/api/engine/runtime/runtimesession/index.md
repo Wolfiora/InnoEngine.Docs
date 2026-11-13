@@ -2,7 +2,7 @@
 uid: api.inno.runtime.e413326fc8cd828f
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeSession"
 source: xml
-reviewed: f82d41fd219d2acb65604bdebc3e86e79e219d74c36764bc79eb85fd4dd03506
+reviewed: 05baf683a1701fe7c6adbe450ebe96a05141552ef3389f2abf1be3e07c3f40a7
 title: "RuntimeSession"
 kind: api
 owners: [Inno.Runtime]

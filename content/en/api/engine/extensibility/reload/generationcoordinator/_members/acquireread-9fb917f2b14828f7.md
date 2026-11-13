@@ -2,7 +2,7 @@
 uid: api.9fb917f2b14828f741c61cbec332ebb198fa050031b46411805119e8d87c9256
 symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireRead(System.String)"
 source: xml
-reviewed: df904f72f23aa7a573b27e2d049096e91e767fe333d08ac5242ea3b8faea44c3
+reviewed: 2d0aec383792a7d4835b648e461d6a6929ce63e700d8704ad54711163fc26490
 title: "AcquireRead"
 kind: api
 owners: [Inno.Extensibility.Reload]

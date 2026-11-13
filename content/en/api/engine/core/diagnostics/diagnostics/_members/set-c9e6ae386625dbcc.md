@@ -2,7 +2,7 @@
 uid: api.c9e6ae386625dbcc1504d7c52b39c5ca93733dafca5e9f65cf7fa6a4a25f9b06
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,Inno.Core.Diagnostics.Diagnostic)"
 source: xml
-reviewed: c060dd09b7fc2d3214be86e7bf4acbd79d7b7855dbc8996d52a316193b163039
+reviewed: ed9c64add86945fe0d451c1f45c674ecca62ff7fb6b3bd1dde2319301608b0c1
 title: "Set"
 kind: api
 owners: [Inno.Core.Diagnostics]

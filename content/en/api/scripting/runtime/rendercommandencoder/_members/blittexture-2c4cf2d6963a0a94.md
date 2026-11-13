@@ -2,7 +2,7 @@
 uid: api.2c4cf2d6963a0a94b5d568590d7591ea014d92ec8b5c85cdca44d7dba4f35cce
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BlitTexture(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderTextureRegion,InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderTextureRegion)"
 source: xml
-reviewed: fe870b6dd97119a235211827852c865a814743013205468c9fd742a18a6d5a7c
+reviewed: 8f0d55495bcd1b8742aa3c5d429162959abc73c3b37512ad9abf012e8c9187a5
 title: "BlitTexture"
 kind: api
 owners: [Inno.Rendering]

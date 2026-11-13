@@ -2,7 +2,7 @@
 uid: api.8b4fdb3a20b6313751052d0d12f8451be701998abed9843eebb61b9a00a5228b
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettings.Apply(System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Settings.EditorSettingObject},System.Collections.Generic.IReadOnlySet{System.String})"
 source: xml
-reviewed: 5032f9a431289de15a7c3b999ff2612a619c7da0310e7a7cdb2dd6951a15556b
+reviewed: 5784fcafa011743118203c0e49fd9f8f86d2e5fd1f8be316e5b618b053fcff16
 title: "Apply"
 kind: api
 owners: [Inno.Editor.Settings]

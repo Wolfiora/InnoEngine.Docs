@@ -2,7 +2,7 @@
 uid: api.247b64c840a22c5dc4f2fb41e21b5977c9497c87fdc894ef89c42d8dafdd9ba7
 symbol: "engine:Inno.Storage:M:Inno.Storage.IApplicationStorage.ListAsync(System.Nullable{Inno.Storage.StorageKey},System.Threading.CancellationToken)"
 source: xml
-reviewed: cb6223d455b452b42496a5d18e3e07dfe7300996c37178ad0585e62c2571904f
+reviewed: 884ecb5cc55b7d91f63f8a13923ae2cd52ed6264c3122daaa975f3fd75164b2d
 title: "ListAsync"
 kind: api
 owners: [Inno.Storage]

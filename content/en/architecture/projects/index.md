@@ -18,7 +18,7 @@ Understand engine, Editor, Build and tooling responsibilities. Start with a Manu
 - [Inno.Adapter.Presentation](inno-adapter-presentation.md)
 - [Inno.Adapter.Rendering.Authoring](inno-adapter-rendering-authoring.md)
 - [Inno.Adapter.Rendering](inno-adapter-rendering.md)
-- [Inno.Adapter.Storage.BrowserWasm32](inno-adapter-storage-browserwasm32.md)
+
 - [Inno.Adapter.Storage](inno-adapter-storage.md)
 - [Inno.Adapter.Text](inno-adapter-text.md)
 - [Inno.Adapter.UI](inno-adapter-ui.md)
@@ -44,19 +44,18 @@ Understand engine, Editor, Build and tooling responsibilities. Start with a Manu
 ## Build
 
 - [Inno.Build.Bindings](inno-build-bindings.md)
-- [Inno.Build.BrowserWasm32](inno-build-browserwasm32.md)
+
 - [Inno.Build.Cli](inno-build-cli.md)
 - [Inno.Build.Composition](inno-build-composition.md)
 - [Inno.Build.Distribution.Standard](inno-build-distribution-standard.md)
-- [Inno.Build.MacOSArm64](inno-build-macosarm64.md)
+
 - [Inno.Build.Managed](inno-build-managed.md)
 - [Inno.Build.Products.Standard](inno-build-products-standard.md)
 - [Inno.Build.SupportPacks.Core](inno-build-supportpacks-core.md)
 - [Inno.Build.TaskHosting](inno-build-taskhosting.md)
 - [Inno.Build.Tasks](inno-build-tasks.md)
 - [Inno.Build.Toolchains](inno-build-toolchains.md)
-- [Inno.Build.Windows.Host](inno-build-windows-host.md)
-- [Inno.Build.WindowsX64](inno-build-windowsx64.md)
+
 - [Inno.Build](inno-build.md)
 
 ## Content
@@ -97,7 +96,7 @@ Understand engine, Editor, Build and tooling responsibilities. Start with a Manu
 - [Inno.Editor.ImGui](inno-editor-imgui.md)
 - [Inno.Editor.Inspection](inno-editor-inspection.md)
 - [Inno.Editor.Interactions](inno-editor-interactions.md)
-- [Inno.Editor.MacOSArm64](inno-editor-macosarm64.md)
+
 - [Inno.Editor.Panel.FileBrowser](inno-editor-panel-filebrowser.md)
 - [Inno.Editor.Panel.GameView](inno-editor-panel-gameview.md)
 - [Inno.Editor.Panel.Hierarchy](inno-editor-panel-hierarchy.md)
@@ -114,7 +113,7 @@ Understand engine, Editor, Build and tooling responsibilities. Start with a Manu
 - [Inno.Editor.Settings](inno-editor-settings.md)
 - [Inno.Editor.Shaders.ImGui](inno-editor-shaders-imgui.md)
 - [Inno.Editor.Shaders](inno-editor-shaders.md)
-- [Inno.Editor.WindowsX64](inno-editor-windowsx64.md)
+
 - [Inno.Editor.Workbench](inno-editor-workbench.md)
 
 ## Engine
@@ -133,33 +132,13 @@ Understand engine, Editor, Build and tooling responsibilities. Start with a Manu
 - [Inno.Input.Runtime](inno-input-runtime.md)
 - [Inno.Input](inno-input.md)
 
-## Integration
-
-- [Inno.Integration.BrowserWasm32.Bgfx.Runtime](inno-integration-browserwasm32-bgfx-runtime.md)
-- [Inno.Integration.BrowserWasm32.Bgfx](inno-integration-browserwasm32-bgfx.md)
-- [Inno.Integration.BrowserWasm32.Build](inno-integration-browserwasm32-build.md)
-- [Inno.Integration.BrowserWasm32.Sdl3](inno-integration-browserwasm32-sdl3.md)
-- [Inno.Integration.MacOSArm64.Bgfx.Runtime](inno-integration-macosarm64-bgfx-runtime.md)
-- [Inno.Integration.MacOSArm64.Bgfx](inno-integration-macosarm64-bgfx.md)
-- [Inno.Integration.MacOSArm64.Build](inno-integration-macosarm64-build.md)
-- [Inno.Integration.MacOSArm64.Sdl3](inno-integration-macosarm64-sdl3.md)
-- [Inno.Integration.WindowsX64.Bgfx.Runtime](inno-integration-windowsx64-bgfx-runtime.md)
-- [Inno.Integration.WindowsX64.Bgfx](inno-integration-windowsx64-bgfx.md)
-- [Inno.Integration.WindowsX64.Build](inno-integration-windowsx64-build.md)
-- [Inno.Integration.WindowsX64.Sdl3](inno-integration-windowsx64-sdl3.md)
-
 ## Platform
 
-- [Inno.Platform.MacOSArm64](inno-platform-macosarm64.md)
-- [Inno.Platform.WindowsX64](inno-platform-windowsx64.md)
 - [Inno.Platform](inno-platform.md)
 
 ## Player
 
-- [Inno.Player.BrowserWasm32](inno-player-browserwasm32.md)
-- [Inno.Player.MacOSArm64](inno-player-macosarm64.md)
 - [Inno.Player.Runtime](inno-player-runtime.md)
-- [Inno.Player.WindowsX64](inno-player-windowsx64.md)
 
 ## Plugins
 

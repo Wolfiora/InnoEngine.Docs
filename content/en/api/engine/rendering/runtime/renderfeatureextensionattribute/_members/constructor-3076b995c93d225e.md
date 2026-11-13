@@ -2,7 +2,7 @@
 uid: api.3076b995c93d225eb9a2ecaa79452219183037fbee422c1c75317c9df0d81e26
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderFeatureExtensionAttribute.#ctor(System.String)"
 source: xml
-reviewed: e0a537369f499f7f9b45bd93b457ca81e473ed356e2ca9f91d042d56adf542a6
+reviewed: df82957d5e3d213fd47b2d949ce7dde51c5964eb5116ab7aaaad9b9942542477
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

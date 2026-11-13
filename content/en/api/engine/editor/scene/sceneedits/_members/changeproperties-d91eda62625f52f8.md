@@ -2,7 +2,7 @@
 uid: api.d91eda62625f52f8ffe2637395214f119b5958a6fdeb65751338dfcaf879f461
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperties(System.Collections.Generic.IReadOnlyList{Inno.Scene.EngineObject},System.String,System.Action,System.String,System.String,System.String)"
 source: xml
-reviewed: 52fb2037572f764b5e1aa1f01bb0f2dbe34ed186583c14df8cfeb9b137257d1d
+reviewed: 12d26aeb005554f93dc547e3b262a5b0ea9c91568832adfbbef546f5a88d01ca
 title: "ChangeProperties"
 kind: api
 owners: [Inno.Editor.Scene]

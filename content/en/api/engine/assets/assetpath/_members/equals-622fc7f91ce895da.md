@@ -2,7 +2,7 @@
 uid: api.622fc7f91ce895da4b3f5efc632c8ce96cd6778c6cbf22dbb2657c5aeed94708
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetPath.Equals(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 67802866b71bfde7a3de87c824f24d601dc8c6f83f55ae52e1437502c02b8d5a
+reviewed: b3a7889e0ba66a5ecd222801958e500d4e4da94a36e8d02fc47257d5c35269d0
 title: "Equals"
 kind: api
 owners: [Inno.Assets]

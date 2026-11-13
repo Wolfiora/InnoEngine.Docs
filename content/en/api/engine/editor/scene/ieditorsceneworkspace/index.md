@@ -2,7 +2,7 @@
 uid: api.inno.editor.scene.406cc6a3fe33e247
 symbol: "engine:Inno.Editor.Scene:T:Inno.Editor.Scene.IEditorSceneWorkspace"
 source: xml
-reviewed: b98203981d5f17c3da73d5e0d64358da8caa98d34abbe007d0e1370ae755a085
+reviewed: f2b8336801a6af0146a24a8a4c70c2bf87386e9859c0d8e5016ec17a5f33c51e
 title: "IEditorSceneWorkspace"
 kind: api
 owners: [Inno.Editor.Scene]

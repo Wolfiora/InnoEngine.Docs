@@ -2,7 +2,7 @@
 uid: api.4c40bf0267c41c11d7e241e5c91ff3ca7bf100382f0d823eace4b6577d5c1f80
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneTypeResolutionException.#ctor(System.Guid,System.String)"
 source: xml
-reviewed: 1aefb07638e3395aac8b2997ea4e7bbb89de700080f5a0816bcb756f0893047b
+reviewed: 6de4f40ce02249a3839c1b6a477ff45bc218b542d121041165a13b08b61c1c65
 title: "Constructor"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.25a0c12a8105601c33f96ee143438d3fd9e2690c6b951d145280c348bbbe4941
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.TextureAsset.#ctor(System.Int32,System.Int32,InnoEngine.Rendering.TextureColorSpace,System.String)"
 source: xml
-reviewed: dfb727f772a24059d1c075ca7f864222eb337d99502fa1a6f91e316401b0ea06
+reviewed: 847e960f479926c11d6366ff242ba943ea7cd6bb2f9bb6d1a6f700ab13a1efad
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

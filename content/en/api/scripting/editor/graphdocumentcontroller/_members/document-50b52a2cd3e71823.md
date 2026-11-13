@@ -2,7 +2,7 @@
 uid: api.50b52a2cd3e71823aee8e4d9f5302f6fed254b1c06994e814573626204128e68
 symbol: "scripting:Inno.Editor.Graph:P:InnoEditor.Graph.GraphDocumentController.document"
 source: xml
-reviewed: 2fca8ebba4bfcf405468e650ac5d44a3107d93a8bcf7d7021a89b43670bc3946
+reviewed: 5bc8179f2b02b8e522925fd1027f37fea16f23aa15d458820fe651d6e579af8d
 title: "document"
 kind: api
 owners: [Inno.Editor.Graph]

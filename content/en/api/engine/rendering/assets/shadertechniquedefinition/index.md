@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.89591603aa89f766
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderTechniqueDefinition"
 source: xml
-reviewed: 14105542a9dd5530cc7a942d250062140be54c5eb61161a96ffe0fbd91cc2fc4
+reviewed: 7ccc554b4d5f4596e1aade3bf2c32523cc76287056ae937c4edf8824074e1b7a
 title: "ShaderTechniqueDefinition"
 kind: api
 owners: [Inno.Rendering.Assets]

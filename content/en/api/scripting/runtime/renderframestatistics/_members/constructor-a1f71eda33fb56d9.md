@@ -2,7 +2,7 @@
 uid: api.a1f71eda33fb56d9115497ed0ea00b8f96702647db718cce4ee9db411b146c66
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameStatistics.#ctor(System.UInt64,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{InnoEngine.Rendering.RenderDeviceAllocationCounters},System.Int32)"
 source: xml
-reviewed: 2b350cf60d6f73fe9b3a14d852ff37ab22421e96debfe27da493dcd1ecf6e028
+reviewed: 8b547fe7a5b95800a8100f956722656b7a7fa0361128b67d653c9759dca75cef
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

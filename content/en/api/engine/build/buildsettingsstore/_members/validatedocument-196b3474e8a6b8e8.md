@@ -2,7 +2,7 @@
 uid: api.196b3474e8a6b8e881f78923e4da0c1c4a8cf8004ca25f2973b6f1235e835b46
 symbol: "engine:Inno.Build:M:Inno.Build.BuildSettingsStore.ValidateDocument(System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 2a592415bc0463335233de97138ab2ac8c3bc61260a3cc4559940ea53428b85a
+reviewed: c3257172e62fde51017bd097934da788280a65d2a1bfa18de0c3ec0c401aba7b
 title: "ValidateDocument"
 kind: api
 owners: [Inno.Build]

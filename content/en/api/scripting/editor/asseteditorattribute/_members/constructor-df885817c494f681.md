@@ -2,7 +2,7 @@
 uid: api.df885817c494f681a3225995d1ec9bfd4c2404b44e8d970cead825bacaf88794
 symbol: "scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetEditorAttribute.#ctor(System.Type,System.Boolean,System.Int32)"
 source: xml
-reviewed: b73b3ae2e2f70ad687c1ad5749d29459fcf9c9fa116376c6bed192acc3fed707
+reviewed: 108d7a54f33d0a607bff3a35a1acb1f4dfa7c4ed64fd0db3c053dea52c89bde3
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

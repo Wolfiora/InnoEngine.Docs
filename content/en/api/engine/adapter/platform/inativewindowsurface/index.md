@@ -2,7 +2,7 @@
 uid: api.inno.adapter.platform.2c6ba4b4de7adc1f
 symbol: "engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.INativeWindowSurface"
 source: xml
-reviewed: dc93c953df7a593f808b4c9e85d78fd7194d4bae0f1925ea5fdbab5d91ac8d97
+reviewed: a2f39f77d2804399bdd62cfdf6b91487eb610811e9228538d2dd60104335fc08
 title: "INativeWindowSurface"
 kind: api
 owners: [Inno.Adapter.Platform]

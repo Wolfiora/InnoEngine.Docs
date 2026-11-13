@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.c55e8d8f995224cb
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphInputSettings"
 source: xml
-reviewed: 206cb42b80058115f0685b12514aac3ba88780b7707922a87091d702ded75870
+reviewed: 746394f735f2258bbffe9afd26774a0a8f57b2de7af06552c2a48325cf509fe8
 title: "ShaderGraphInputSettings"
 kind: api
 owners: [Inno.Rendering.Shaders]

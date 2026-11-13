@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.126fedef013bb8bd
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.InspectorReadOnlyAttribute"
 source: xml
-reviewed: 2b57443a89ad6da6940a7368f13431130026a1f5239ff1b2ff276b7ccd1785eb
+reviewed: 23fc820d365df15d0d407f26dfee0e8a0f18279c80aa3096a6dbc4b40f746d94
 title: "InspectorReadOnlyAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

@@ -2,7 +2,7 @@
 uid: api.inno.ui.1b3c4f22855e3a64
 symbol: "engine:Inno.UI:T:Inno.UI.UiInputSnapshot"
 source: xml
-reviewed: 6765f61122686f5a05c5e9085b41c32e8910f0331e32c32861aa6a282dc0dfe8
+reviewed: 00df6df31a9c4ee807e97c2a7b7dc1b1f2faf4982d9383ff7362fd891b55bfd5
 title: "UiInputSnapshot"
 kind: api
 owners: [Inno.UI]

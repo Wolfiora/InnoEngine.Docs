@@ -2,7 +2,7 @@
 uid: api.c25a315ac1bc0fc5acf8f1b44b480ac9c6965533937825705d7c5f2b7fe6b5bc
 symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTarget.Resolve\u0060\u00601"
 source: xml
-reviewed: 6d93126783f39cc5bcfca12e8e1167238c56789ae340def4344584f35c0b73e9
+reviewed: 9888fcb19f1f996b63b337a144bdc253ffd6a9e3179342d0e02b63b79eed383a
 title: "Resolve"
 kind: api
 owners: [Inno.Animation]

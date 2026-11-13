@@ -2,7 +2,7 @@
 uid: api.75d86e348d451e7afb39415a68886f33c7f7e96c5da5b1e519d08820011e6aa8
 symbol: "scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})"
 source: xml
-reviewed: 785fa6cf6a900072e5389a962bfb19d66a83ca710a20dcfe3e97a5d1eb1f9442
+reviewed: 32be9d62e15836566fabaef8f361a5b6334de47301ece097fdb6215e7ac36dfc
 title: "Constructor"
 kind: api
 owners: [Inno.Input]

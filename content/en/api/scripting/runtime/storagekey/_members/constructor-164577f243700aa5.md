@@ -2,7 +2,7 @@
 uid: api.164577f243700aa5b1cf17060c362ae257a02b945622ff7be5b0bca52cbe0c61
 symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.StorageKey.#ctor(System.String)"
 source: xml
-reviewed: 7a7cc94fc6f19c0aaf9c1b759efb33dd580e39d3d62c18ddfc2b2d837c790f15
+reviewed: 2c54033c606c439fe9762cf286763c3bccbad254634162e2c5bdaee1215b361b
 title: "Constructor"
 kind: api
 owners: [Inno.Storage]

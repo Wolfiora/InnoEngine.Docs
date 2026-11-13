@@ -2,7 +2,7 @@
 uid: api.794ff684e3f7f5cf45420e47963eea9ed49762de12cba8a0388b00716fefb50c
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendEquation.Subtract"
 source: xml
-reviewed: e9a6f75891da35575023c2ddfe2547ce454b2a08daa788c8da4628eee7af877f
+reviewed: 4f4d9616a4cc5e769d4b0da38031ccba11a6731dbb062080b99f97b077045b22
 title: "Subtract"
 kind: api
 owners: [Inno.Rendering]

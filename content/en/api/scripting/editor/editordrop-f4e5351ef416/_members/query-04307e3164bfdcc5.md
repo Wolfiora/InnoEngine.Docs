@@ -2,7 +2,7 @@
 uid: api.04307e3164bfdcc5252fb1c71edee313a06b890aac5534affefd3d11d8509b51
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDrop\u00602.Query(InnoEditor.Interactions.EditorDropContext)"
 source: xml
-reviewed: a475ebec418732813507aee5e595b2cf333c96f52e47385639aeebd354fe3091
+reviewed: a74fb5a577f89617b97c6acbd40e132fee46591f874ac38683c92c5be9313204
 title: "Query"
 kind: api
 owners: [Inno.Editor.Interactions]

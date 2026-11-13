@@ -2,7 +2,7 @@
 uid: api.948360c330f9eaf5a442197202d3df6cfd65b38be9c6f395b8fd02bfe7e35ee2
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedProjectGraphCapture.CaptureAsync(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken,System.Boolean)"
 source: xml
-reviewed: e6cc2c016eeeb3316d02accd493a14e1a1198bf83124607a3bd7f600b13e1f7f
+reviewed: aa3bc23d4b44fc5d1dbdc39ee5b5aaae180c95cf91903041b5e91ee9a1e8f42f
 title: "CaptureAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

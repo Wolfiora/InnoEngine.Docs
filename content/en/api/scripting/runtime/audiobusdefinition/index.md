@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.135e22b37b88e217
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBusDefinition"
 source: xml
-reviewed: 92b5e0fd4b4cb5d2d9fc6c9ab6a22e1d30814902065392b413e9d1307d65e96d
+reviewed: cba511b5604b9c7ded1b299babdecc967ee51f5437d9c64c9fe8c927c46662e3
 title: "AudioBusDefinition"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.493759df7e47adfd7d5d5761894ed5bb9189c96534aa37abd805f9da861bd206
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorFrame.ToString"
 source: xml
-reviewed: 282288c73409917a032c81158667efaceae7e8e265922fab7586b4bb537390eb
+reviewed: 58fd852ffed7e52d580a2bb803478c0276286aa66af54c404ad70171b64b46ab
 title: "ToString"
 kind: api
 owners: [Inno.Editor.Core]

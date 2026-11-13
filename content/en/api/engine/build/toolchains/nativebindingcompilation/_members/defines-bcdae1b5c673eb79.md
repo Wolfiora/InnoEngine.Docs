@@ -2,7 +2,7 @@
 uid: api.bcdae1b5c673eb79949781d60c09d79d86da1788807cfe6a995d0093ea26e7b8
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingCompilation.defines"
 source: xml
-reviewed: ee190e0e587617fca1dbe9d1a64f243b7c2f07fa500ed2b8cdfb9a351f0080cb
+reviewed: 6882a9a25102d0e2a2f6ae1f4e528cc5406a0737050ecf7e048132e6a4ca7e90
 title: "defines"
 kind: api
 owners: [Inno.Build.Toolchains]

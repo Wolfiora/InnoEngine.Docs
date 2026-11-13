@@ -2,7 +2,7 @@
 uid: api.inno.animation.assets.9d0b70bb326ead8c
 symbol: "engine:Inno.Animation.Assets:T:Inno.Animation.Assets.AnimationClipImporter"
 source: xml
-reviewed: 7fccad99def4b5635348c0b104a1d052caa543411097e19a687a53976a845b50
+reviewed: 571842884b6c03b742d95393fd6603371fd68f9cb8f764d15db169bc402de132
 title: "AnimationClipImporter"
 kind: api
 owners: [Inno.Animation.Assets]

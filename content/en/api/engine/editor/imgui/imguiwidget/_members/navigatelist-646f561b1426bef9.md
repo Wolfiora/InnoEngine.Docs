@@ -2,7 +2,7 @@
 uid: api.646f561b1426bef93c26984e0c33061644992ecc7224466793d0d5578e10bd78
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.NavigateList(Inno.Editor.Interactions.EditorInteractions,System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: 32b6542f299c73ebf61acd3c7dc2adea40234dead1185ebe02136a329119de60
+reviewed: 14aaf137b805b28b05795221cb9303d8476216ba8f94af43e98253f998143323
 title: "NavigateList"
 kind: api
 owners: [Inno.Editor.ImGui]

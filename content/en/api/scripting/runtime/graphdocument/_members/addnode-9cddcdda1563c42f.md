@@ -2,7 +2,7 @@
 uid: api.9cddcdda1563c42f83902d6e5d57949c0517526d4f0acbc7d45accc41b7ab259
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.AddNode(InnoEngine.Graphs.GraphNodeRecord)"
 source: xml
-reviewed: 1fe84bf9e376fba12d0695ef77d62fb3b24e750f66364973e1e07dc22bd8b954
+reviewed: bb64ee39f260a66f24ecb25e825aac586b6a083e475aa5c3e978b640bf420196
 title: "AddNode"
 kind: api
 owners: [Inno.Core.Graphs]

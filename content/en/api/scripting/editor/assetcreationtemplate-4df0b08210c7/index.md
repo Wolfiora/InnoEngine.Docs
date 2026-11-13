@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.editor-script.5ce2c4ef19493b78
 symbol: "scripting:Inno.Editor.Assets:T:InnoEditor.Assets.AssetCreationTemplate\u00601"
 source: xml
-reviewed: 7fb6e88334c13d3fd37a8b634a18f7172717c3f719db521657902c243748fbe1
+reviewed: 52b719d236405fa00f11b7b41e387859e0f5f778f319c93e1eb67ab7b93ed93c
 title: "AssetCreationTemplate"
 kind: api
 owners: [Inno.Editor.Assets]

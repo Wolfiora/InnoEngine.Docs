@@ -2,7 +2,7 @@
 uid: api.d004fcc1a4f93b4f12bf2fc795e768ed2ffa79ca14ddb0c1506b21d2d1ce732b
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.PipelineDocuments.OnStop(Inno.Editor.Core.EditorContext)"
 source: xml
-reviewed: 8517d33ab9a61252d7ed8b448b515cb2d5671ad4ab6b0e27ef047550a66f3d84
+reviewed: 86bd85f6ad9866a39d59fa3c6297da953cf341c90d706c14384a20657dc1805a
 title: "OnStop"
 kind: api
 owners: [Inno.Editor.Rendering]

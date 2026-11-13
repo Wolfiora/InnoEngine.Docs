@@ -2,7 +2,7 @@
 uid: api.fb732584e1eab90b47d63b13c34ee4696429821ce0648b2fcad3461eac6dc518
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleHandle.GetHashCode"
 source: xml
-reviewed: 290574da60a6ca373cccc901123e72c1bec107a5e07a5c88ba6a77b9443c0901
+reviewed: 1f7c4f3238fbcd108d2f14c7c1cefe7aa2787f0374aff8f30107f137ae702448
 title: "GetHashCode"
 kind: api
 owners: [Inno.Extensibility.Modules]

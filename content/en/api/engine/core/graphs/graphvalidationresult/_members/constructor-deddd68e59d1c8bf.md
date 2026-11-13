@@ -2,7 +2,7 @@
 uid: api.deddd68e59d1c8bf0bbae1b141063a2877beecf049283093fed714864e5274b9
 symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphValidationResult.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Core.Graphs.GraphDiagnostic})"
 source: xml
-reviewed: 1a37bae18dc9047084fca1d521d843c058f8c6cb97cccabd2640fd4a6585590e
+reviewed: e1d77970b7d4eab297d4ba3599c8a496a28e78984d149d51daa5ff8461a4473b
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Graphs]

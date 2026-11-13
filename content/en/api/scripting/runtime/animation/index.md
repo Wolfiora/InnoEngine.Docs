@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.bdf42f891e1bb03e
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.Animation"
 source: xml
-reviewed: 712f2608f7f6c2cae6480a2352d025c1e7b2c17cdad23b4f65d3c7d816ac995a
+reviewed: 283da5f5824a27406fb53e752a3cf1cd30f781d851c60307fe0f283a86d20361
 title: "Animation"
 kind: api
 owners: [Inno.Animation]

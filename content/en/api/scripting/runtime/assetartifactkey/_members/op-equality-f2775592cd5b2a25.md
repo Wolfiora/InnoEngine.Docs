@@ -2,7 +2,7 @@
 uid: api.f2775592cd5b2a2551a37794ed0a728e3622317917a09f872cff66b9d8f19c6f
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetArtifactKey.op_Equality(InnoEngine.Assets.AssetArtifactKey,InnoEngine.Assets.AssetArtifactKey)"
 source: xml
-reviewed: b6b6f69204ff22d01f879a5f55994417e8729e6bad2181cc2e1662f15ce365d2
+reviewed: 495bb0bc2d17a933b19700e102d5ddeb3e643fb4fcdbbe45f4f5def055b27723
 title: "op_Equality"
 kind: api
 owners: [Inno.Assets]

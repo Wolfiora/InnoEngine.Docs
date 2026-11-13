@@ -2,7 +2,7 @@
 uid: api.8ee2196873f0e15028543f96f1380cfee96c5e02494d058845a414cb9f0002ab
 symbol: "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemContext.isEditMode"
 source: xml
-reviewed: aac18d4051a44363b6325712c0e7e4b059562c79d86cefe1c0b21193b4c4f61f
+reviewed: 24a42b89f6cdd4f0a73b7a3989cddf318c7288ced4ba21e8d3aa83da8931b018
 title: "isEditMode"
 kind: api
 owners: [Inno.Runtime.Contracts]

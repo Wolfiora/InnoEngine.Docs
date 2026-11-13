@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.3ac021cf477cad1e
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.ShaderProgramKind"
 source: xml
-reviewed: f9d597018e744f090ecfb6d395c5a7a60c5eea8c985f5ad88652e1e1e07315b8
+reviewed: 5a47d54e6681379d107f364da433ddbbacfa6a6dcc23b60b7bb1b7069cebd2db
 title: "ShaderProgramKind"
 kind: api
 owners: [Inno.Rendering]

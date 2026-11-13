@@ -2,7 +2,7 @@
 uid: api.b29ba946efe21111cf673aeaff3a52aa84f94b5c93f081b499ae6a60de219401
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseHoveringRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)"
 source: xml
-reviewed: 84c410b591e09baf278b7d6d8a3623ec0816fcdabc11bf0f376c75fcac8c87d3
+reviewed: 16a8833f34571f6cc7a7a5d5ef8303bc319bd91c14ab26e880863c32bb2cdb63
 title: "IsMouseHoveringRect"
 kind: api
 owners: [Inno.Editor.ImGui]

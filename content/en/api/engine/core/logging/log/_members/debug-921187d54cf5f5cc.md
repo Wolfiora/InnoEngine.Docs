@@ -2,7 +2,7 @@
 uid: api.921187d54cf5f5cc142467526313dfc78abc7fa4256958318e4363c825bfb4bb
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Debug(System.Type,System.Object,System.String,System.Int32)"
 source: xml
-reviewed: 0ca722c58ad10f3e4bf2a6ad16c6f359d7d42ad9d6e4f36200543306f1ddd6c8
+reviewed: 4166f3dfc02206db0abdb68792ea9f0f63afa36e7f4dcee1fb87ea811ea3cacb
 title: "Debug"
 kind: api
 owners: [Inno.Core.Logging]

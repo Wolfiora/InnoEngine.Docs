@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.e01d080313ab9e06
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingsExecutionContext"
 source: xml
-reviewed: 6ddd86941b1f86e40e3748de966e137580b0440d65b7dc9ca8d8b061c05818f4
+reviewed: 6d005fc5b374ed03fd71c55bddfc00f9da6aa166253d9928cedf91437aac609a
 title: "ProjectSettingsExecutionContext"
 kind: api
 owners: [Inno.Core.Settings]

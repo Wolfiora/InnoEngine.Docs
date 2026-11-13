@@ -2,7 +2,7 @@
 uid: api.inno.audio.583a199059ba976b
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioVoiceCompletedEvent"
 source: xml
-reviewed: f6913ca1efc34cbd9f2ae17bf734b9a928667d35343c629421072c2b1de4ecb5
+reviewed: aa03f5c22b6db1baafdf57a6aeab34362670e1bd22ae72f6fff7c7aba00c50c8
 title: "AudioVoiceCompletedEvent"
 kind: api
 owners: [Inno.Audio]

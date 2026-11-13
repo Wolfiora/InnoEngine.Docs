@@ -2,7 +2,7 @@
 uid: api.05c9a6dc698cea73af7562f820f52f3d589b4b49dfe489f99998e129c5382576
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryResult.Success"
 source: xml
-reviewed: 1f96012d56443024b0a1cebb25a80b4d38c8b4bbd0fc722c3d8072ff34230582
+reviewed: aea1f47f7b7ffec2d814fddeb39836ca8948d10b7a8221cbe407856c33f0e6f2
 title: "Success"
 kind: api
 owners: [Inno.Editor.Interactions]

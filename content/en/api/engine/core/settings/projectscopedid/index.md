@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.1470da8e0a18c581
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectScopedId"
 source: xml
-reviewed: 06c48b616dbcdf3e088ac63ca9c655864a023ffee13f64bb43a9cbbb8e769b46
+reviewed: 0e9bd0199c900109f068c560ae0cc28771189dc6b001568d62108d6ab86e31d7
 title: "ProjectScopedId"
 kind: api
 owners: [Inno.Core.Settings]

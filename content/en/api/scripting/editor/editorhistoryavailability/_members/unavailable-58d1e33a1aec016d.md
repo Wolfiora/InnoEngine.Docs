@@ -2,7 +2,7 @@
 uid: api.58d1e33a1aec016dabf4fc084c1c7588261687c0da2690ad060c42f51085ac05
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryAvailability.Unavailable(System.String)"
 source: xml
-reviewed: 1d1acd4ac1133d7718b49defa1f63d80cfff374e124f555bdb038ce7a2b8cc4e
+reviewed: d3beaa6cb12fbb93542fe45ef9a3020ec21b4cdaadfa8b5cbfda43d5b8ca4ed8
 title: "Unavailable"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.31e3fc5afb303d05
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderIrValue"
 source: xml
-reviewed: 04461f5b443d17695280e39bf9754f7775804aefc0021ab38a9857475f254185
+reviewed: 4ab9195f4ebbc8325ab0cdfbb59ef9a954277e71f752b6884b5b5ff23893cb30
 title: "ShaderIrValue"
 kind: api
 owners: [Inno.Rendering.Shaders]

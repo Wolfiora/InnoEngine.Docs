@@ -2,7 +2,7 @@
 uid: api.inno.build.c97cb8056aa72b2c
 symbol: "engine:Inno.Build:T:Inno.Build.IGameBuildTarget"
 source: xml
-reviewed: 5f6fb62af575550647a3c6a42c55f96bbceeb1821e22a2483b31c931625709c1
+reviewed: 48132d4441a715af46397a36d33aab1f165d7fc81706b6dee08ddf95ccd18550
 title: "IGameBuildTarget"
 kind: api
 owners: [Inno.Build]

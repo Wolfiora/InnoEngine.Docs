@@ -2,7 +2,7 @@
 uid: api.288fb561f6422925253fc88196be9a643e02020a5947710fd0509e762be238dd
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.MeasureText(System.String)"
 source: xml
-reviewed: bc2a729785c22818cd79f2e991545acb549b4711e97e9b27776cc4890453e775
+reviewed: 39ca2618128f3b088f339ccc909dfc9e3c4dd5168323fb5e0d8fb9a67fa6f61c
 title: "MeasureText"
 kind: api
 owners: [Inno.Editor.ImGui]

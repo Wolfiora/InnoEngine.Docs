@@ -2,7 +2,7 @@
 uid: api.d7f38fbe0f5fb6f6934527ac7ee9e95a0baccce7aefed27b44e67913fb200782
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.RetentionScope.Retain\u0060\u00601(\u0060\u00600)"
 source: xml
-reviewed: b85775945a42642604461a40f4d3377ed89ba18aefc6f80b614992827f581c0f
+reviewed: fd9d8d7b94ae11b133861dba6e8666a3288ca01771c4086a30b61fcf4183b49d
 title: "Retain"
 kind: api
 owners: [Inno.Assets]

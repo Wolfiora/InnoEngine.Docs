@@ -2,7 +2,7 @@
 uid: api.inno.core.io.b292b985feb0da6c
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.DirectoryCleanupException"
 source: xml
-reviewed: 05b491129f6e16c4bdb5fd2080ec45960943e9350b746895971ea4c06cc1f48a
+reviewed: ccd361b7de36a6d8ab3ec5a13f131763c69d468d658788ccd47fbc5190440d65
 title: "DirectoryCleanupException"
 kind: api
 owners: [Inno.Core.IO]

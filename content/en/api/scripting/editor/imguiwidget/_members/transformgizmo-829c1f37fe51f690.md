@@ -2,7 +2,7 @@
 uid: api.829c1f37fe51f690873e4f36698eaa08fb62f9a738a9650cba2a78b1a7f1250c
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.TransformGizmo(InnoEngine.Mathematics.Matrix,InnoEditor.ImGui.TransformGizmoOptions)"
 source: xml
-reviewed: 70f18a6fb6fa828d2928e0dcfd9c806a3dd1c1cb51daf9cab5a192f413cbc5bc
+reviewed: 6da777b787c9ae451e0e214612efaaa14ce3aa72613a798254148e7841bc584a
 title: "TransformGizmo"
 kind: api
 owners: [Inno.Editor.ImGui]

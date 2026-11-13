@@ -2,7 +2,7 @@
 uid: api.a0f15b73ebdebc6c3d8cc8a8b6aaa229829d6fa659b0bcd9032d6e306d29982c
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetRuntimeOwner.#ctor(Inno.Assets.IAssetPropertyStateResolver)"
 source: xml
-reviewed: e6a9d6761b4790cda6c4234441c5fa431288e215d7bc8a84626afbba0305543d
+reviewed: 2b43ffca501e22677b268b53be1ec25aeb858f61deaae9810eea9c449bc2ce67
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

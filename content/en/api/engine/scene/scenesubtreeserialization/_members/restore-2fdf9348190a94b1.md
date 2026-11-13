@@ -2,7 +2,7 @@
 uid: api.2fdf9348190a94b16c69074898321e0f07010fef41a93fd45a4f2e67f8040c12
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Restore(Inno.Scene.GameScene,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Scene.Components.Transform,System.Int32)"
 source: xml
-reviewed: 0cfe2d6b135d5d5dd0539bf6e51ad387a51aa813786674428db0528aeae4d133
+reviewed: 3dfe29be479b7da91e50c8fe7aae1b483399fe3d3e98066557b17004dc114884
 title: "Restore"
 kind: api
 owners: [Inno.Scene]

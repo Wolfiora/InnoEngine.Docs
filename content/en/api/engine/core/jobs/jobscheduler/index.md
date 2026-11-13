@@ -2,7 +2,7 @@
 uid: api.inno.core.jobs.b6c95e46fd6c6bbe
 symbol: "engine:Inno.Core.Jobs:T:Inno.Core.Jobs.JobScheduler"
 source: xml
-reviewed: dba013e09298933ec1e1eb580a67792c01e666ec2b46a2afcc38957cd339e08f
+reviewed: e84014ff349e4bce849c60056284e6135cbddafbf56cf9ff57d9e7ab3f8baa3b
 title: "JobScheduler"
 kind: api
 owners: [Inno.Core.Jobs]

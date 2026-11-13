@@ -2,7 +2,7 @@
 uid: api.0f349cbd8cf9381808114cb6726239d05909a470e2961eba5bca74ea2bd1b94e
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.IsValid(Inno.Extensibility.Types.TypeCatalog)"
 source: xml
-reviewed: afbf5a7a287537993c124389638eba5624565c2d784e934b5c0c1fc318befa65
+reviewed: c17ff947948be240f4803e5591505fceeabc501ca3a2004f28052fddf9ead0f8
 title: "IsValid"
 kind: api
 owners: [Inno.Extensibility.Types]

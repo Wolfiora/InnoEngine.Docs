@@ -2,7 +2,7 @@
 uid: api.d89368282e177b3633b0a397501dbfa56ed6b3304c956b8b4a1635133f79bb67
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryResolveIdentity(InnoEngine.Core.RuntimeIdentity,InnoEngine.Core.IdentityObject@)"
 source: xml
-reviewed: 4b1cf108134343f5baa577cc8bbd07ef545b052f8ef3ba2b79bffd74c300644b
+reviewed: a0b8a29763f5b8ba17abdc7b3bb099c0b3bf2ca45ac5bcdd2d9a20e4b6714b8f
 title: "TryResolveIdentity"
 kind: api
 owners: [Inno.Editor.Interactions]

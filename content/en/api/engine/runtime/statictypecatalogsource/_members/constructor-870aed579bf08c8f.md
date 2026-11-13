@@ -2,7 +2,7 @@
 uid: api.870aed579bf08c8fc8496649eead28aa059832d4ebbc0810d504834408e196dd
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticTypeCatalogSource.#ctor(System.Collections.Generic.IReadOnlyList{System.Action{Inno.Extensibility.Catalogs.ITypeCatalogRegistrar}})"
 source: xml
-reviewed: 21d6c070f766e03c2d47d10d3b4d7acda2dcd4c8b1e9ec434f23685a600eefd4
+reviewed: 3af3cd4f280c49046807eaec4b63a8ba4cf6505b9cbd91d29fd70de9836d1f68
 title: "Constructor"
 kind: api
 owners: [Inno.Runtime]

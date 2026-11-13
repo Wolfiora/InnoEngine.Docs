@@ -2,7 +2,7 @@
 uid: api.774c9baf3f184cca6216df956e4c4df8a2a6f2da62b13f0f183131ee874668d0
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderGraphValidationResult.scheduledPassCount"
 source: xml
-reviewed: 008ce503c9d448e985292445de2a721eaeb475d5ffea6565b2c246fd408eb4d4
+reviewed: 78275b1c3a49c54e7ae568e52489ca7301d26e45ad16ba0a58a921c8fe56abf2
 title: "scheduledPassCount"
 kind: api
 owners: [Inno.Rendering]

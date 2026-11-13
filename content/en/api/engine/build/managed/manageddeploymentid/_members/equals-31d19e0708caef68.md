@@ -2,7 +2,7 @@
 uid: api.31d19e0708caef68503e369684252d50b60d4a85da2ac20baaee6ae71aae062f
 symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentId.Equals(Inno.Build.Managed.ManagedDeploymentId)"
 source: xml
-reviewed: 91e40960583c2adda04e5ead2aa2ad37a7fb2e1ec0374da1c4d179a8d4bf3030
+reviewed: bb9c8d19cfd3e37167074837e3457b681dedcf41577a86fec25b902805a11800
 title: "Equals"
 kind: api
 owners: [Inno.Build.Managed]

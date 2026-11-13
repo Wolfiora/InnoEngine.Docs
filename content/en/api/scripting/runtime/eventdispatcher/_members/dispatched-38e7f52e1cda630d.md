@@ -2,7 +2,7 @@
 uid: api.38e7f52e1cda630d1d8c008df49e93b59f063d696de81058ae9c0da300f1c39d
 symbol: "scripting:Inno.Core.Events:E:InnoEngine.Events.EventDispatcher.dispatched"
 source: xml
-reviewed: 19b56d67b683f56f069ccf057d5b8a9db52eafe791631ee8cfb497543a3c8475
+reviewed: 9faa311b1295fa869acfcbb1970320bf0746f6d67cb7d201d81e592394ed913f
 title: "dispatched"
 kind: api
 owners: [Inno.Core.Events]

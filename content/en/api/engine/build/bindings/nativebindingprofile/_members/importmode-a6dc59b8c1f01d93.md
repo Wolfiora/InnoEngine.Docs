@@ -2,7 +2,7 @@
 uid: api.a6dc59b8c1f01d93b09a442e10d180992dc53936db1fa2eefda00602924e654a
 symbol: "engine:Inno.Build.Bindings:P:Inno.Build.Bindings.NativeBindingProfile.importMode"
 source: xml
-reviewed: 09cf9d43e3eb8f835f8120b41a10fbffb74f68eabe7baddf6792492255f46970
+reviewed: 396ac2ef4e937898e9903ca0f34a1a087a8cf891b5fa77d30bb82f96678f90e2
 title: "importMode"
 kind: api
 owners: [Inno.Build.Bindings]

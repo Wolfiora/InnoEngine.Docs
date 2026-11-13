@@ -2,7 +2,7 @@
 uid: api.56e9c55ef47cdd777956fd2fdeee007cc8015fc0a88d00061923532d85cece7a
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.Refresh"
 source: xml
-reviewed: 6f820aac1587144a6c50c43eed7b7e45554de74dd4505173e8fa5c652e7008bb
+reviewed: 11b164321a57ac19e91d19d29f5acd46e5f0317d78e3a84a120c123e376dfb5b
 title: "Refresh"
 kind: api
 owners: [Inno.Extensibility.Types]

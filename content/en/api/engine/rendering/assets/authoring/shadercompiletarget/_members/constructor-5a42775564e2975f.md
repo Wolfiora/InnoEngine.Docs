@@ -2,7 +2,7 @@
 uid: api.5a42775564e2975fd14ce03ac978172f76f4736a5bb40331dd68420fce335ae0
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderCompileTarget.#ctor(System.String,Inno.Rendering.GraphicsCapabilities,System.Boolean,System.Boolean)"
 source: xml
-reviewed: 351f5b843928789268fa34607269eae9d67883d0796551213520507c658d7c0a
+reviewed: 86771d38be2948396ac05fc0df19eb0d570f76961c269bed738eca2bb1a50de9
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

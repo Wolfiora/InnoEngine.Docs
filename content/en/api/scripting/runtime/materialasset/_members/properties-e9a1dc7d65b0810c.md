@@ -2,7 +2,7 @@
 uid: api.e9a1dc7d65b0810cfeb3e25c0e536f7dddefb53f3aa65e1ec0c3521c0d3d4f4d
 symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.MaterialAsset.properties"
 source: xml
-reviewed: 4b590650ac5b46c0d04d6a2f46965812c62b2431b56253325609e49f2067bc7b
+reviewed: 850735607c791d905c047761f4c433d2955c985e8ce4871e523744ef022175b5
 title: "properties"
 kind: api
 owners: [Inno.Rendering.Assets]

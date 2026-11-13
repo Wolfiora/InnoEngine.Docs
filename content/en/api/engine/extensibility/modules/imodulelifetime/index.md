@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.3594af410d394861
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.IModuleLifetime"
 source: xml
-reviewed: c386a468ebbfb6581caa2ed3c19c3ae4e6bd2fed69efbb6c9fa8c7cbbdcd08c4
+reviewed: 0f210ed6824258b76dcbac10067f4534cbb166726107f5dd0ef51af9462a36fd
 title: "IModuleLifetime"
 kind: api
 owners: [Inno.Extensibility.Modules]

@@ -2,7 +2,7 @@
 uid: api.20e03f9c427708488b6a3ead6f4a8f28ab67c53c6a810ed83b982fdcd512b9ac
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.SetGameObjectLayer(Inno.Scene.GameObject,Inno.Scene.Layers.GameLayer,System.String)"
 source: xml
-reviewed: 9ae292e30c7a6ba92602d8e7dcdddd205c954128ba2944b08a95fa36e6fcfb5f
+reviewed: 7bd461c1dc526afb8557dfab814a8e0a080e3d545cad40c546bec5b664914e8e
 title: "SetGameObjectLayer"
 kind: api
 owners: [Inno.Editor.Scene]

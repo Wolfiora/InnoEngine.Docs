@@ -2,7 +2,7 @@
 uid: api.inno.adapter.platform.519d2d49ec00f982
 symbol: "engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandles"
 source: xml
-reviewed: 079eaf0d315ce10c9e2cd399bd744815022a1689e87d0b7473adea1c03a3f400
+reviewed: 4d76d2ab81a23ec107ad5e00162d3a8f235fff7a618f705e3237b19bf7ebf7b5
 title: "PlatformNativeHandles"
 kind: api
 owners: [Inno.Adapter.Platform]

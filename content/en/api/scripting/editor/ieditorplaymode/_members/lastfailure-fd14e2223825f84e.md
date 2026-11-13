@@ -2,7 +2,7 @@
 uid: api.fd14e2223825f84ebf2ec0f488bb962dc3a2a6851f04b111c328d7cf3d02260d
 symbol: "scripting:Inno.Editor.PlayMode:P:InnoEditor.PlayMode.IEditorPlayMode.lastFailure"
 source: xml
-reviewed: c765dbc9fe38c26067c19ec3dd6ec9916de6e44cda27241c5cb98a0fd56121a9
+reviewed: c75de07d00bc16af411f447dc8a085c8849777116cc7a3db1e279d7026cad036
 title: "lastFailure"
 kind: api
 owners: [Inno.Editor.PlayMode]

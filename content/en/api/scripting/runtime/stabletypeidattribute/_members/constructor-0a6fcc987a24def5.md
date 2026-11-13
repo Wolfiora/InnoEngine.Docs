@@ -2,7 +2,7 @@
 uid: api.0a6fcc987a24def550622ff080031fb7bd0ccff365380edbb89730652d36b604
 symbol: "scripting:Inno.Extensibility.Types:M:InnoEngine.Reflection.StableTypeIdAttribute.#ctor(System.String)"
 source: xml
-reviewed: 996050e2b142fe08f1a6c13ccad9e53e18722115c987e018bc056b6ab007134c
+reviewed: 86063202c735cc5cba391051c07c9c0092bab4f92e65200692262df172d33d9d
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Types]

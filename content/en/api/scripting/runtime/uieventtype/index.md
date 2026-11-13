@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.5c9de568c600db48
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiEventType"
 source: xml
-reviewed: 23021393c542387ba3d3b372bc3164263170c7654ea942cf2fed3e4f91f17156
+reviewed: 56b7720d1fd0c9a49b6895539ef4c0952ae6baf3bbd7206a9f8b5db8c870bab4
 title: "UiEventType"
 kind: api
 owners: [Inno.UI]

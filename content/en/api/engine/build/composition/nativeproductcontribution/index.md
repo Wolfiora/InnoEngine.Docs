@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.e542df6e60eb8369
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.NativeProductContribution"
 source: xml
-reviewed: d0f2281938c62ebfb979b1b154969abed3a341c5a927c99fd4c3f51647b5d359
+reviewed: bb10f7623b73eccde148c9ee323a1f98a2abd58d09fc382b8c063c3d69b06b47
 title: "NativeProductContribution"
 kind: api
 owners: [Inno.Build.Composition]

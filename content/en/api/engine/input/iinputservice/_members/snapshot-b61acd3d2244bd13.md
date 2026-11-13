@@ -2,7 +2,7 @@
 uid: api.b61acd3d2244bd1353dd9ea278c93bafaa83f18532c70c790139bff3cb728186
 symbol: "engine:Inno.Input:P:Inno.Input.IInputService.snapshot"
 source: xml
-reviewed: 5d17a23c4299455d1b083b80773f66785865f0d32f2eb3a7d8cd2bc51d46a28e
+reviewed: b180df1c209ecb3aebe2e0e3e4e0a1792e455691e0a2a9b9cf764b5ed443f8a2
 title: "snapshot"
 kind: api
 owners: [Inno.Input]

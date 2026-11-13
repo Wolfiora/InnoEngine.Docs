@@ -2,7 +2,7 @@
 uid: api.72d276ec91f9683dd7178a3caf32443842989a4a70686fd2f16ea45a13c0e998
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderOutputInput.#ctor(InnoEngine.Mathematics.Vector2,System.Boolean,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyList{System.String},System.Boolean)"
 source: xml
-reviewed: db2f7f8c67849931b4b550273fb6f699c8f9d9318d3da838c5785132ccbc3672
+reviewed: 26043ce46aa56255f946c533ec317e9309d8d1d5a84aabeac87f885feac8b040
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

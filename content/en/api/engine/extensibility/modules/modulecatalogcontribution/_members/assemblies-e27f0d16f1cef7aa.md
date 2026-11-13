@@ -2,7 +2,7 @@
 uid: api.e27f0d16f1cef7aa55432dbc5f9e486563b87716cc004a7f6562ef4c58a4eaab
 symbol: "engine:Inno.Extensibility.Modules:P:Inno.Extensibility.Modules.ModuleCatalogContribution.assemblies"
 source: xml
-reviewed: e839824ad590c9d3806fc28c4ab09abdda0394274130246243436848b06112ff
+reviewed: 526c28d414a54eddd24ce5b514a646d61ccabc4c60c21799d151bb6132020859
 title: "assemblies"
 kind: api
 owners: [Inno.Extensibility.Modules]

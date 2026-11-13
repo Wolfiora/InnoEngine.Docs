@@ -2,7 +2,7 @@
 uid: api.75c31fec03e46e7f1288071320543b0227faa3a7736c02848fd5623ebf910db9
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferUploadDescriptor.usage"
 source: xml
-reviewed: f99c7701d310147b9e275069f9c50cd93a04bcd92d7f786ed248eaf1cb331230
+reviewed: 54986e338566dfe447652fe5806526261eef73ed11b5567eb620111490b9f3f3
 title: "usage"
 kind: api
 owners: [Inno.Rendering]

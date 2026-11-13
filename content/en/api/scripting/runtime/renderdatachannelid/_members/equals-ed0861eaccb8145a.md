@@ -2,7 +2,7 @@
 uid: api.ed0861eaccb8145a006b338ff0b4b28cd8c7b67b8ff936de60a4627d283c72bc
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDataChannelId.Equals(System.Object)"
 source: xml
-reviewed: 6fb1c30bd050a8a8ac5ed258eb0b7ef8b96a0e826007dad372336e4668fcc02b
+reviewed: 11aa7a9a7c75980b56fea464370f4b0c007b77f7eda64bb43df710c471d7b96f
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

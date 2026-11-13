@@ -2,7 +2,7 @@
 uid: api.a43d8013796abfa5c91a4002a361f9cc0f6334d2ba36edd8b6f216fda3983a6b
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorDisplayNames.Nicify(System.String)"
 source: xml
-reviewed: cbd7af275920acdcb298dd306cab4273377d2195e7c96ac3c79b302c8832acb7
+reviewed: c5d85648513ac50d87078d5ae3cc32fbe6b8a8dbac36561b3fdf4b6a6cf54c2b
 title: "Nicify"
 kind: api
 owners: [Inno.Editor.Core]

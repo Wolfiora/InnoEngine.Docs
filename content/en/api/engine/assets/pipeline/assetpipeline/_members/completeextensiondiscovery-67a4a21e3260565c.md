@@ -2,7 +2,7 @@
 uid: api.67a4a21e3260565c627b4cd1f990b7b91d059d322a4432a8e4f8e8ff5d77deaa
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.CompleteExtensionDiscovery"
 source: xml
-reviewed: 7bc877d898118d20cddc663973218c8458059060d6814cc6729cef274bddcca1
+reviewed: 6c5eda9d618bdd35c3cb1832f9b356b7be4694e3b908706e3b528fcec4bb479f
 title: "CompleteExtensionDiscovery"
 kind: api
 owners: [Inno.Assets.Pipeline]

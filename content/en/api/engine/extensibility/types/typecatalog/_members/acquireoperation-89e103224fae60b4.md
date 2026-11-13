@@ -2,7 +2,7 @@
 uid: api.89e103224fae60b4a646836729d8161c3b75b1d1a814663f14fa11f415f0ab09
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.AcquireOperation(System.String)"
 source: xml
-reviewed: 3042fef00177bd3b8dffc9463dd4dcfd847c5e6fe63d72fd5f31af416278ae6e
+reviewed: 7ee04d9d64f8e0db4031ce905e718f68a9c2791b2a2624feaa80f9a0414cbdf5
 title: "AcquireOperation"
 kind: api
 owners: [Inno.Extensibility.Types]

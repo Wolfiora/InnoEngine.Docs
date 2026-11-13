@@ -2,7 +2,7 @@
 uid: api.34ee8617f3b2d6e2c1f6253668ab23ec72231737bf8f847f4da10a6fe2742bcc
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.Rename(Inno.Editor.Assets.AssetEditorContext,System.String)"
 source: xml
-reviewed: 155ed42f163b3ea11cf830eff3e2898c40f9e336c18c74e54d75fe1438553e6e
+reviewed: 6b2ca5b9e15613e5c9766b81cb7834df9d7e9410db82422b721f2cdbdef3c3e7
 title: "Rename"
 kind: api
 owners: [Inno.Editor.Assets]

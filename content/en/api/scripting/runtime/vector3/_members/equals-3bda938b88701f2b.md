@@ -2,7 +2,7 @@
 uid: api.3bda938b88701f2b3bdb051395d240c7db90fe4cadb3ee316298d51071b2900a
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Equals(InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: 9b29a4123e415557b23619cea16638e8fe54275129fc643643f1be6037b2ac17
+reviewed: cc0f31e8bbe3f29bd3d3a031a9c9f6f631b925424aef0adf6c0a4a92530840d2
 title: "Equals"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.6e21e0272bd9317e9b708bc5962b99bb638d57043385326ae233a1eb4352fbc6
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.CreateTexture(System.String,InnoEngine.Rendering.RenderTextureDescriptor)"
 source: xml
-reviewed: 57981a591507bdf0e94dcd2763b9956c04d6339ac74be910cc101d9a8bf6a799
+reviewed: 3058e3b4ac21ffa16131add755990d8ac664fdf9827ff79236f1a0671e223781
 title: "CreateTexture"
 kind: api
 owners: [Inno.Rendering]

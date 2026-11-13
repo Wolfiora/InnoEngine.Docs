@@ -2,7 +2,7 @@
 uid: api.de6a9c0d1a9db8f458cb15e3a4392fa51982569a82e1ff33836523f5416bf9cc
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DrawCubicCurve(System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)"
 source: xml
-reviewed: d5d82374b93046cb4d3a7bc787444f4f786367e82e0bf83d04d4676ccbdde01c
+reviewed: f937e6491705a143213ae7b9550fe0da89fce08dacfd5d4975afb193f0a67566
 title: "DrawCubicCurve"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.c96e06b84f93dd938700a0e0601f13c71c76c03c63696f2a226221c45c03cbc8
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsUInt32Array(System.String,System.UInt32[])"
 source: xml
-reviewed: 0d9f558526ff79f73c0e99d2ead3d5131666cd2519106cab8780604f61588abc
+reviewed: b37d09ad776963495d9663ebfc640704a13871639fa74d20264fa1d5819c0087
 title: "GetAsUInt32Array"
 kind: api
 owners: [Inno.Editor.Settings]

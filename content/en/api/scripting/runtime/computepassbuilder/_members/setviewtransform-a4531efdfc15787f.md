@@ -2,7 +2,7 @@
 uid: api.a4531efdfc15787ffd8a36b93954424628fa789eaef95d73582e9a38305e00ba
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.SetViewTransform(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})"
 source: xml
-reviewed: 42bc44a630e7ab46593f0588d39601f6097ef45d06d3f687479b672c5995973c
+reviewed: 7fad760b45a1e17d079a476cf85167abc58a66599b17bfbef7c945228dd0c39a
 title: "SetViewTransform"
 kind: api
 owners: [Inno.Rendering]

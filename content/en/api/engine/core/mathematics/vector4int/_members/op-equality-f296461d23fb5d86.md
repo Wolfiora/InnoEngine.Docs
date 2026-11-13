@@ -2,7 +2,7 @@
 uid: api.f296461d23fb5d86efc0eb238b5de79da4a8c3bee026dab757cdfcb89d9bd906
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Equality(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int)"
 source: xml
-reviewed: 8ae26c7e6c3ac4191e3d592f2681bff1d3fc057fc17021cb2ad7fa622266a84e
+reviewed: f73a2c694169ad785b172caa4e01602ad2c9c51a03745593c570b7892cccaa92
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Mathematics]

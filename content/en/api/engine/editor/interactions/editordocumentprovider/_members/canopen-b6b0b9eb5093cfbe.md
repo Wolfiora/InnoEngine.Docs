@@ -2,7 +2,7 @@
 uid: api.b6b0b9eb5093cfbe75580dbc84933a0fe76acb91523091bc15342154373a6515
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentProvider.CanOpen(System.String)"
 source: xml
-reviewed: ebacc783a60ff783f32b7a2621285bf174c6bf435b4d0737b6df431d2de8b5b1
+reviewed: 02b00a8f8c486e8bcd3515ea57c03ffbc7508e365fc1c5abeb7b8e2b608026dd
 title: "CanOpen"
 kind: api
 owners: [Inno.Editor.Interactions]

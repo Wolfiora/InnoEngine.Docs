@@ -2,7 +2,7 @@
 uid: api.d02d999407c0ac0b33d1e6cf89d38aa15704c9eceb7a3c98e7ccf7b8ce9c698a
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CardBody(System.String,System.Action,System.Boolean)"
 source: xml
-reviewed: f105e9b9513e05c993b20ca61c62535fdf833c0d3b9aff4e022a44e7b662e38d
+reviewed: 15597f38c8164b0cfbb46ec0deca7b661b900b7746e551c5f1ad6cedf8fdfea3
 title: "CardBody"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.scene.0e68a1242d012171
 symbol: "engine:Inno.Scene:T:Inno.Scene.PrefabInstanceInfo"
 source: xml
-reviewed: 6df772f6f2281e678d391a2d2fbc84d368cb645811193dcd72f9350ff26d129f
+reviewed: 0ed5203d4cd8fb92a1b27be4741738c5e14c7b5f891f3444a97593d72bedf06d
 title: "PrefabInstanceInfo"
 kind: api
 owners: [Inno.Scene]

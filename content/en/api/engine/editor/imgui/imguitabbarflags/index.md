@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.e709a5c7dcbf3bd8
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTabBarFlags"
 source: xml
-reviewed: e94df5d7d92a3bd704b7cd4869f726268aca851669ab6b772874d84ea5dda207
+reviewed: 21c767f52850a09256fc3d0d72d90e4dcdec594613f34ea5183e59323970ebf7
 title: "ImGuiTabBarFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

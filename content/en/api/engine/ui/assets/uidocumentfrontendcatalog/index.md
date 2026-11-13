@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.87c1b02e0fffe81b
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentFrontendCatalog"
 source: xml
-reviewed: 72dfd644eaccfbc03216fc4ec59da92ff62da001bd5aefbba17b0d4f41fbdefe
+reviewed: c98741a3045ea061fcd0102f1ddc0232cc31deb4f876ade4c6975e59d4208232
 title: "UiDocumentFrontendCatalog"
 kind: api
 owners: [Inno.UI.Assets]

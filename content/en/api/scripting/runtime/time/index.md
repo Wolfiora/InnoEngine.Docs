@@ -2,7 +2,7 @@
 uid: api.inno.runtime.runtime-script.0cb718723b4ea1f9
 symbol: "scripting:Inno.Runtime:T:InnoEngine.Core.Time"
 source: xml
-reviewed: 80c7268d877b7966b6d7b38560ff8d8ee58f9661d0c2841af3592115d1fe457b
+reviewed: fbc7e59db1c5cd3cb43767a05271ccbedc8243aacac63591b3085fd7a37bbdb9
 title: "Time"
 kind: api
 owners: [Inno.Runtime]

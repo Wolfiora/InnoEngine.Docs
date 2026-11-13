@@ -2,7 +2,7 @@
 uid: api.5363a7ac9f78786c859819eef56668e67165402605e2c0c57e21e39f83d55d64
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.GetStronglyConnectedComponents"
 source: xml
-reviewed: 1247a562e9058ca1218b4034dcebb6f8f43a1c200432a2a1af74fbcaa9246191
+reviewed: 5ca644d6aff601db73d39c1deb888037805398b01370ec479bd10c70b8b1b3e3
 title: "GetStronglyConnectedComponents"
 kind: api
 owners: [Inno.Core.Collections]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.imgui.6e02ec22df922918
 symbol: "engine:Inno.Editor.Shaders.ImGui:T:Inno.Editor.Shaders.ImGui.ShaderNodePresentation"
 source: xml
-reviewed: eb7edb5b725ae4026bc299090bd05b7346d778c9373272ee94e965b4382ccb05
+reviewed: 905ff20334d68fb1a137409edd12ec78f2e3eb3584867d98fc3823c5cf0e941a
 title: "ShaderNodePresentation"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

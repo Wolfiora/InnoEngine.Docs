@@ -2,7 +2,7 @@
 uid: api.591446c0b44b9e4689eefb45b81cad4e5d99801158b8577ccfa8e90d08466f39
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.DeleteGameObjects(System.Collections.Generic.IReadOnlyList{Inno.Scene.GameObject})"
 source: xml
-reviewed: eda9d1a7681d3506d0154fd0b797e48d2308eb650ae6e34872b3ed44e4100c4a
+reviewed: 8e5e451dee7d0b4fdb566cada894248ac9ac28f342f9e294fdf5db0c20ed1fb5
 title: "DeleteGameObjects"
 kind: api
 owners: [Inno.Editor.Scene]

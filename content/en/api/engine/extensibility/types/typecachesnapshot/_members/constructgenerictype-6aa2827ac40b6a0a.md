@@ -2,7 +2,7 @@
 uid: api.6aa2827ac40b6a0af50305ac3a2d5c374626e83536eb445533addea6993698d9
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
 source: xml
-reviewed: d91200e64d0214d61e594158c283c14655804e107713ed92af5414f5da050f49
+reviewed: df1bd72899965b58e83ec45ca04b31ad27b8f3df391eadaf18e90fb0939cd170
 title: "ConstructGenericType"
 kind: api
 owners: [Inno.Extensibility.Types]

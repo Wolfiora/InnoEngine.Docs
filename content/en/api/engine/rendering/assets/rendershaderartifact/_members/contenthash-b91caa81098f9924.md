@@ -2,7 +2,7 @@
 uid: api.b91caa81098f992435777ad8593a16d59984c73368d3d70a7062d415776c56b7
 symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderArtifact.contentHash"
 source: xml
-reviewed: 39937f01f6942235298bcdce3172e73b996043a8a24efcbfac9773e620c21233
+reviewed: 90f20aa664d82b5434693710c7c9b3b0674ac276b85346eab9a2280afa252bf5
 title: "contentHash"
 kind: api
 owners: [Inno.Rendering.Assets]

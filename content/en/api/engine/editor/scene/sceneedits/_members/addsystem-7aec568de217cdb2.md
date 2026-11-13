@@ -2,7 +2,7 @@
 uid: api.7aec568de217cdb2d19f86067aa71d5b894576b9ad329cee9c94d7c4fe973dc1
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddSystem(Inno.Scene.GameScene,System.Type,System.String)"
 source: xml
-reviewed: 1567e9eb0cecac504966b9d89262ba39610df6c9d7e21026beb68c81de5fd4ed
+reviewed: 77a53942aca11737a59dcdf4615337787ed82f0d14aa9a9e0c1397d14526936d
 title: "AddSystem"
 kind: api
 owners: [Inno.Editor.Scene]

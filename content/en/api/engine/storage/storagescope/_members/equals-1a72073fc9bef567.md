@@ -2,7 +2,7 @@
 uid: api.1a72073fc9bef567443587db33c3d8d6abdcce972873fcbcf120055f130025ff
 symbol: "engine:Inno.Storage:M:Inno.Storage.StorageScope.Equals(System.Object)"
 source: xml
-reviewed: 00ab0505e08eb2790fccd10b20e4130fa5db45591678d1a60f7d0372d48c0f2a
+reviewed: 5d11ac355c41e7a073a36e784e1408e24b62cddb103254f331cc0bd797692168
 title: "Equals"
 kind: api
 owners: [Inno.Storage]

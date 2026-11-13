@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.505f71509c4a3565
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPortDirection"
 source: xml
-reviewed: 15ace991d1ac2daeee59e5aab17693e58200c1a771ed85c842361ac719155b9a
+reviewed: 116f4a41aab810c199a00d83bde605ba54a931f14752c0429822338f4bfa0162
 title: "GraphPortDirection"
 kind: api
 owners: [Inno.Core.Graphs]

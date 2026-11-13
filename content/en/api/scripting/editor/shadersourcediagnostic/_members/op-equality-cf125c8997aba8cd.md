@@ -2,7 +2,7 @@
 uid: api.cf125c8997aba8cd56949b66ed58aec61471143df040545434fb75b29f44365d
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceDiagnostic.op_Equality(InnoEditor.Rendering.Shaders.ShaderSourceDiagnostic,InnoEditor.Rendering.Shaders.ShaderSourceDiagnostic)"
 source: xml
-reviewed: 469183bf8a0b51f091ea0dc6bbb8cb0cdba3e3b177a5001fb215aff18f3e142a
+reviewed: 2a37f130fbd32162a24fa0f3cf0a2a37f731339299bc42407e2453d4b09eaa0e
 title: "op_Equality"
 kind: api
 owners: [Inno.Rendering.Shaders]

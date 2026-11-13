@@ -2,7 +2,7 @@
 uid: api.inno.storage.69793dfc1818dda4
 symbol: "engine:Inno.Storage:T:Inno.Storage.Storage"
 source: xml
-reviewed: f9dfa432152f29fd2ae0d6b4addd7bfa984c5c243519c1c76d5c804399d18792
+reviewed: 9402a942457bd4a4b84bbaec0aa11963ad42ccd1ad32525adc8d89b37edd8323
 title: "Storage"
 kind: api
 owners: [Inno.Storage]

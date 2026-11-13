@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.89de2bc544f7374c
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiTextureHandle"
 source: xml
-reviewed: a575a2fbb1f4392d8ce88add760357f5487600531cadfd75a9e3772f35fc5370
+reviewed: 007b75161dda92d8115fa40a7b83d1ab9b1758c11ca9f2159e97a29943361704
 title: "UiTextureHandle"
 kind: api
 owners: [Inno.UI]

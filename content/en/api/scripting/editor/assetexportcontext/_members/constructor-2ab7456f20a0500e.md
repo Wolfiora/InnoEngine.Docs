@@ -2,7 +2,7 @@
 uid: api.2ab7456f20a0500e58f4cf24ede1b07b9ec6045cc9e21545b482f7d7cbae7a96
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetExportContext.#ctor"
 source: xml
-reviewed: 5dc6f0d708b786ddeec03697d139fc98e4b49390f118c7c3aee25186b2bfc1b1
+reviewed: 52ec404325442aba6fd1419ec578efedbb8d5e0446bcea081fcf84f0daa34478
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

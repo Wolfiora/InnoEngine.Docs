@@ -2,7 +2,7 @@
 uid: api.cfdf82511dfbe4a091fdf82d7a26a8a5e8f3315b6e14a708d0a0940847e5a39e
 symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildGameAsync(Inno.Build.GameBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)"
 source: xml
-reviewed: 848c05cdab45f1a613baafb5249afacb42a731ca198ccd8e21283fd4712a06a3
+reviewed: d04650c5653dbc97d97287c5327c7399d18b213966fb0afe2800ad78442e24ac
 title: "BuildGameAsync"
 kind: api
 owners: [Inno.Build]

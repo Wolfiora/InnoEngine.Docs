@@ -2,7 +2,7 @@
 uid: api.9298f60b1a33522f56ab29a0fc7b5332180021216b56b85be84493fae6c7a383
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceDiagnostic.#ctor(System.String,Inno.Core.Diagnostics.DiagnosticSeverity,System.String,Inno.Rendering.Shaders.ShaderSourcePosition)"
 source: xml
-reviewed: 9d8804c9ebdc96b366f9878fc09b79093882ab7cfe26662ef8d4f140347c839a
+reviewed: b2bf94a6dee340ed9524689a825b00d338a69b4c22447db26594814815b0e67e
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

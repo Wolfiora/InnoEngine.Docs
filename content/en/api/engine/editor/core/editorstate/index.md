@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.a350a03ecf0d89ea
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorState"
 source: xml
-reviewed: 920e2e7add4981dd0fac739c8853a695c7e6e7d4055001eec39c5114e22fb0e1
+reviewed: 4ec7992f7b782923cc7cb0223273d0bbf8836a1c6f6209dbd57a521c712d638c
 title: "EditorState"
 kind: api
 owners: [Inno.Editor.Core]

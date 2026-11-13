@@ -2,7 +2,7 @@
 uid: api.4d2b216f23f2f875cdf6c1c3b0a0b5c3c9b9515daa238bd034a96f488938a2e0
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.PipelineDocuments.ReplaceSettings\u0060\u00601(System.Guid,\u0060\u00600,System.String)"
 source: xml
-reviewed: ad6a4c8ae9e7a90e1f0ce018a0fbc5d31c9bb97d36cc0cf6ee35776f3c28c22e
+reviewed: d81a7b6cefe848997418181006fd0c67245af257a0b084b4d853c5b11d50fdfb
 title: "ReplaceSettings"
 kind: api
 owners: [Inno.Editor.Rendering]

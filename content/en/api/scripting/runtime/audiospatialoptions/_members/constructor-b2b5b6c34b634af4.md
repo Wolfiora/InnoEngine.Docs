@@ -2,7 +2,7 @@
 uid: api.b2b5b6c34b634af4357b104e06c9bfb41cc21b0fc972c9009bd0eba1ac169fd5
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioSpatialOptions.#ctor(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Audio.AudioDistanceModel,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 391f82c827b57823464f6a96b5171011bf54a7177055ff80ea8ec14282093e54
+reviewed: e86690903e79c192f4b9ec6de7bea4614549ec8c67212f6d33677c458180a86b
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

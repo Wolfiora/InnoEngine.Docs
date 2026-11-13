@@ -2,7 +2,7 @@
 uid: api.inno.editor.diagnostics.bb386b982bf37b2e
 symbol: "engine:Inno.Editor.Diagnostics:T:Inno.Editor.Diagnostics.EditorConsoleEntryKind"
 source: xml
-reviewed: e0736d89b1f99f5cde852d346be65d28845dfc71b00951b71207770c1fefe7b6
+reviewed: 0c287387e8f86ea80a97f9b4fcc3dc8e1281903c7ea73ab0a38ed423c5f8e943
 title: "EditorConsoleEntryKind"
 kind: api
 owners: [Inno.Editor.Diagnostics]

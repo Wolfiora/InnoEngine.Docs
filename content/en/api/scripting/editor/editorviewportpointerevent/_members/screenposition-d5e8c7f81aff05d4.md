@@ -2,7 +2,7 @@
 uid: api.d5e8c7f81aff05d4beb2c6f5b15c36f29a394fdbba83d4bb42e0261839a72db8
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorViewportPointerEvent.screenPosition"
 source: xml
-reviewed: 298e3029cd07ec089c020b90e494f7910f015f44ae667fd03c30b8434bff4b74
+reviewed: b9373b55961cb8e66d70569d5fef89bd5f1abcdfe8a9a3ec9cd70b74dbecab56
 title: "screenPosition"
 kind: api
 owners: [Inno.Editor.Interactions]

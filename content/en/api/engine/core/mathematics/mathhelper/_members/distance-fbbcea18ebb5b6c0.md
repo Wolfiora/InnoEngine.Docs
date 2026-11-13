@@ -2,7 +2,7 @@
 uid: api.fbbcea18ebb5b6c063c19246e2e6bdf731ffad0275f6a6717ad5ec8646f05ae5
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.Distance(System.Single,System.Single)"
 source: xml
-reviewed: 657e6018dcff38d451f1315e0ab5c53779bbbd35cdc13cf7071a6b1a62d59505
+reviewed: 61ab1174b4cfc3ace5f8f244edc9319debccf46fe3780bad7ea035b95a1810df
 title: "Distance"
 kind: api
 owners: [Inno.Core.Mathematics]

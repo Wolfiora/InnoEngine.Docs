@@ -2,7 +2,7 @@
 uid: api.080f7d439bcb4d1dfd24dac95a9b5c08450f6e2f88aae6af68cbbf2b88011303
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Set(System.Guid,System.String,System.Collections.Generic.IEnumerable{Inno.Core.Diagnostics.Diagnostic},System.String)"
 source: xml
-reviewed: 7fa242c87b96514a4f859b82a40893eb81fd100acec5b10f75bd1353c7802907
+reviewed: 83a1e67fdbd74023899d0fa8fd7d0ab900d05088ba71772bc560ae197cef0e98
 title: "Set"
 kind: api
 owners: [Inno.Core.Diagnostics]

@@ -2,7 +2,7 @@
 uid: api.72e9bd7d94fc02f92470c99324d44ac99b3b29e30c1bf5265af07a4c665b2bba
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiCol.TableBorderLight"
 source: xml
-reviewed: 8c52ba54be646e138cfd5c4aaab834490acfe09c78cee6ac778e85ad53ce9487
+reviewed: a3cee936d345babb235522e26d65b10e69fb8bd51b49c22ea289cfcfdee0f675
 title: "TableBorderLight"
 kind: api
 owners: [Inno.Editor.ImGui]

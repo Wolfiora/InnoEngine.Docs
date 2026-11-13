@@ -2,7 +2,7 @@
 uid: api.9bf393ed14e20ce097535a302a412e4b364e533c6182d6e5f9763f858efb86d2
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.ShaderInterfaceBinding.arrayCount"
 source: xml
-reviewed: 433178430ad8cf79f03b62ee6a095a7277edcd6ab696fe15aff9601357459581
+reviewed: 18ac5cf825637a9359c74c3612966959fd9508c33166528c139eab7e2ff8ba31
 title: "arrayCount"
 kind: api
 owners: [Inno.Rendering]

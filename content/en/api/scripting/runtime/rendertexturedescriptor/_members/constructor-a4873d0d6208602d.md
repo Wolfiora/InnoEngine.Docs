@@ -2,7 +2,7 @@
 uid: api.a4873d0d6208602d15a9105458c5e1ba851c836b206b96a03d039d42e792e392
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureDescriptor.#ctor(System.Int32,System.Int32,InnoEngine.Rendering.RenderTextureFormat,InnoEngine.Rendering.RenderTextureUsage,System.Int32,System.Int32,System.Int32,InnoEngine.Rendering.RenderTextureDimension,System.Int32)"
 source: xml
-reviewed: b1b73497aee15d6fb07de5364f961725d1fd1c6518ce92c37a6481d1f707a12c
+reviewed: 83fe74a41757cbcb95f0b88a4c711cc6a8022189aa186c0fb6f07cd52e18d85a
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

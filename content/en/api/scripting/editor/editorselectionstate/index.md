@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.10cbe0affc48073e
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorSelectionState"
 source: xml
-reviewed: 39af2e3aa80b8ef2b4f95f1b08043872c9fb34932331a6f657b55b94ed7cc38f
+reviewed: 8017ca309225e3ce8cf43f1d314289eedee9e70aca45b63950486cee887caa67
 title: "EditorSelectionState"
 kind: api
 owners: [Inno.Editor.Interactions]

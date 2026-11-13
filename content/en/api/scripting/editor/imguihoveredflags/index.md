@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.84d3b3829ed0be47
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiHoveredFlags"
 source: xml
-reviewed: 536d7fd82ff49d33bdb9f34f70212dc530585124877b92eb6f3ac271d67f65a2
+reviewed: 2bf943f48be2be252440c63335e804878ecfe08226981dc1b8c98037ae36bce2
 title: "ImGuiHoveredFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

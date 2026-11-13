@@ -2,7 +2,7 @@
 uid: api.2570da0afaa9ad382924cdb32863ea52bb9778a790a534ed0293607f0800d84e
 symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireOperation(System.String)"
 source: xml
-reviewed: 3e556d9de13d8eac29c2574842dc47a34a777f1f1c2b0ee561649aaba8ebe5d7
+reviewed: 63eb3f299757756be2a76a977ae0d3f4eaab2b181b694037bf18cb461f4fc394
 title: "AcquireOperation"
 kind: api
 owners: [Inno.Extensibility.Reload]

@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime.0aa615762cf6542a
 symbol: "engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.AudioRuntimeFactory"
 source: xml
-reviewed: e7cc3ea7189362a6813a13dd0c13d1ee1ba213225b199662a2a50ad5866d3f3e
+reviewed: 64a56a1ddccf6e2e8c8ef4b34a6fc3b3dfed1a3c2ce2c32c2ccb45b5dd1381cf
 title: "AudioRuntimeFactory"
 kind: api
 owners: [Inno.Audio.Runtime]

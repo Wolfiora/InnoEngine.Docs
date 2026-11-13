@@ -2,7 +2,7 @@
 uid: api.02442c934b36deabde4eb74c2e32b4b06b8039d632f9c3f8be4ee2d786d4ff04
 symbol: "engine:Inno.References:M:Inno.References.ReferenceCatalog.Resolve(Inno.References.ReferenceDescriptor)"
 source: xml
-reviewed: 918172c3bd9a79b7419b04a2fdeb311bba527905f87b254041b3a3b91a9bed17
+reviewed: def6de0fa6edf17aba2de4f5029a355cbcc066d1b03b36aa46505cdefac0ee70
 title: "Resolve"
 kind: api
 owners: [Inno.References]

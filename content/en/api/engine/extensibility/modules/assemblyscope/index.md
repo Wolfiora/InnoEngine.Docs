@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.c3c4b0de77ae21c4
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.AssemblyScope"
 source: xml
-reviewed: 81c079b9d0154393dadab4ec7c7b217e0f6126563ff5fc00cf7b398cdd5207bf
+reviewed: 966deff796ac0994155a8431dafcd1e46aaab2e62a010f668e1371a225296750
 title: "AssemblyScope"
 kind: api
 owners: [Inno.Extensibility.Modules]

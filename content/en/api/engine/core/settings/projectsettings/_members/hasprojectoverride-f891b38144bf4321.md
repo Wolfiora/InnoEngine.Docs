@@ -2,7 +2,7 @@
 uid: api.f891b38144bf43212af0a6a4272d9c5a254810e643ea998363427cc3adaa0699
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.HasProjectOverride(Inno.Core.Settings.ProjectSettingId)"
 source: xml
-reviewed: 75082c00f1ca2717bb38d24b7156891b269e48a1415c36b83ef932aed0f2caa8
+reviewed: fce5d9e4a1edf80d9195d6eb1d5594c2ab6a93f7b592f3b24e73e7b23bc8f916
 title: "HasProjectOverride"
 kind: api
 owners: [Inno.Core.Settings]

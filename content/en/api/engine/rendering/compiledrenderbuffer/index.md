@@ -2,7 +2,7 @@
 uid: api.inno.rendering.06fa9dbfd645ae78
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.CompiledRenderBuffer"
 source: xml
-reviewed: f308f9abfdb34aa7fbfa31c8a6c74c29d7732fb7307dcc9cdf36947f15680347
+reviewed: cae63a332050f173fc594eb840b59a9cb7f4aa6c937a52da77e49dd466920ecf
 title: "CompiledRenderBuffer"
 kind: api
 owners: [Inno.Rendering]

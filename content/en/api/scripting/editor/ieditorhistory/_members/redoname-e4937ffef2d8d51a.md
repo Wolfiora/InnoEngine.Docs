@@ -2,7 +2,7 @@
 uid: api.e4937ffef2d8d51ab1c20458b0887a91a84d52aebafccfa46c2731b238c4a33b
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.IEditorHistory.redoName"
 source: xml
-reviewed: ec8c6585d6ed8762258ee7ecf01e0064ef6523fa6ba2d192680121e4e9c75674
+reviewed: ed7c05bea20fa762578421a1c08212dceee875606accebbca28bb6f19de437bd
 title: "redoName"
 kind: api
 owners: [Inno.Editor.Interactions]

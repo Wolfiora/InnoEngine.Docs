@@ -2,7 +2,7 @@
 uid: api.3db0ea5859e926ea2b1def8a1432fda896a6b7b89a3c5aa52220239b6a38a661
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.Dot(InnoEngine.Mathematics.Vector4Int,InnoEngine.Mathematics.Vector4Int)"
 source: xml
-reviewed: 4459e13e9e6d1c9bd00064c38665185bf8269c64747ebdf73c9514ebd2b69a16
+reviewed: 2785193b2ff4edbed66e2fe3301c0aee6bf92aced33e672778609ba2a8d0ece9
 title: "Dot"
 kind: api
 owners: [Inno.Core.Mathematics]

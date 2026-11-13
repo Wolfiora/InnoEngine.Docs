@@ -2,7 +2,7 @@
 uid: api.f4c80529d3d9ad6f45a170447c7f6a82ae29dd66e30ba9b3fa9a1a5f98444c68
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Equals(InnoEngine.Mathematics.Quaternion)"
 source: xml
-reviewed: ae8e212ccc8476bb159aae30fc65f5a7b5fbf3e99925acaaedfaf2235592740c
+reviewed: e6885832550d6f713adfb06428dde2c7147d056a641fbb7751212a8bb7aef05f
 title: "Equals"
 kind: api
 owners: [Inno.Core.Mathematics]

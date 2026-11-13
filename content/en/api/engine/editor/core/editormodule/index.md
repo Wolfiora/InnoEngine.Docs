@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.f2db28e069de36fd
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorModule"
 source: xml
-reviewed: 398eae1a2125b08bd29bdaf306ed801122e1c8b614fac0ff0c8e84cd4ce0cb99
+reviewed: f49c9bd8e57e605256fca7d6f94e4870eafb47a5abf9751a2aae84edc3496537
 title: "EditorModule"
 kind: api
 owners: [Inno.Editor.Core]

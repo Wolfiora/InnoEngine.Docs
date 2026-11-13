@@ -2,7 +2,7 @@
 uid: api.7d13bc266d485109eb1d3786358be426254fc384ffc3d901b2002c47697a1f71
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderGraphBuilder.ImportBuffer(System.String,Inno.Rendering.PersistentBufferHandle,Inno.Rendering.RenderBufferDescriptor)"
 source: xml
-reviewed: c658f90f95527957df233d78ba05fcdc549ec761fe9c8040b837a756bda658d1
+reviewed: 93c646aac5d9abb062ced7fdbe4294bf3fd1fb189f4c48a466433e571a7807b0
 title: "ImportBuffer"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.9c47fbf38cd9f015edb046b59fd158c14d40da787edee10a2a0c69642c3e9078
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderExtensionStateContext.#ctor(Inno.Assets.AssetObject)"
 source: xml
-reviewed: 8533b393e292e60ebe96a85c24dae7003fda5538da9e8f7dcead7d1ddba90f38
+reviewed: efd15ffc882d6f23ae50bdc880af2e8085c7330aae7dfabf5189d81a85476cd2
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

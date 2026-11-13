@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.imgui.e3a99d4a24230396
 symbol: "engine:Inno.Editor.Assets.ImGui:T:Inno.Editor.Assets.ImGui.AssetIconAttribute"
 source: xml
-reviewed: dbbe7fb094dab753f27af918d54bbc483690c1dfc535aafd3ceb884e420d87b0
+reviewed: 718fd61e1e188e77a56bb037b08371434f3b7b16d795cddad0ec6c196699cd45
 title: "AssetIconAttribute"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

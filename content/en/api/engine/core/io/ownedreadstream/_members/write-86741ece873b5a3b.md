@@ -2,7 +2,7 @@
 uid: api.86741ece873b5a3bc0b6b94e3c9350b496b4b674d41b0d27f86723e4f85f497f
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Write(System.Byte[],System.Int32,System.Int32)"
 source: xml
-reviewed: ec13005fb346fe814f2587153e17717e0b9f057beceac1f6dcfc15d498ad6cb0
+reviewed: 666a755f0eb12a88b7eb043ab31dc2bd7d5705bd5915c4df037e3807dfc66c72
 title: "Write"
 kind: api
 owners: [Inno.Core.IO]

@@ -2,7 +2,7 @@
 uid: api.c1b254d198471df2ff24f523acd7d35c980a2c5e21f7efe45d29dc25633086ce
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.TryResolve(Inno.Extensibility.Types.TypeRef,System.Type@)"
 source: xml
-reviewed: 6fdffcee8003102497cf5b552be9e7707691864053e0c8c3eb2252e45c36a7ce
+reviewed: 36afd4020205f379f66e0dc5eaa340a3c80bb281a478bd357eaa3891dc85d2ab
 title: "TryResolve"
 kind: api
 owners: [Inno.Extensibility.Types]

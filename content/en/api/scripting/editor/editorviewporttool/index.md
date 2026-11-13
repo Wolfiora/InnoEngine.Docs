@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.90895d119fd454b4
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorViewportTool"
 source: xml
-reviewed: 45adf49fc39017b67a7ecc564264cecf011f1668e93dedbc15e896775b4c331b
+reviewed: a4ca2530997c381d298221bed6fabc32e06063482caf178616fe3ac5f07f69b4
 title: "EditorViewportTool"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.d72e80b3044a52636867f9a0f73d454cf953b67ccd5f5d13c2be603d329d71f8
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphPrograms.RemovePass(Inno.Core.Graphs.GraphDocument,System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 77ad512f734f77120a38313e52d983361f3aa2137ec206a84821ca548d3e2ee4
+reviewed: 404b7f368533d62aaa1d9804397ac1edec052147f58bd88dc3fca8acd7a6ee86
 title: "RemovePass"
 kind: api
 owners: [Inno.Rendering.Shaders]

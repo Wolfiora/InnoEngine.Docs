@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime.7f1ed2e5b166efaa
 symbol: "engine:Inno.UI.Runtime:T:Inno.UI.Runtime.UiRuntime"
 source: xml
-reviewed: 0d63a8b3a7983b05027230e1529940d9b0c43e4746b27e257dc98b50ccc7c214
+reviewed: d3e8ed593d7a6e2c846f151a5e1c77864f7c5543e0ee2a5e7f94b2136a64f57c
 title: "UiRuntime"
 kind: api
 owners: [Inno.UI.Runtime]

@@ -2,7 +2,7 @@
 uid: api.b62942db985224e87c0d20cfc32db5220f89a9a3fa3e031257cd79d095ab7e32
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiExecutionContext.EnterScope(InnoEngine.UI.IUiService)"
 source: xml
-reviewed: 520ae076c87d76da93e7d8b041c76f088846803e80c9ef9da261ef4b0d52cdad
+reviewed: a5d520e41e192d74e2ac5c7f926a1e97e586f90e969a2ea83c71a4385a75df3b
 title: "EnterScope"
 kind: api
 owners: [Inno.UI]

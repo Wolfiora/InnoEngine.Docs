@@ -2,7 +2,7 @@
 uid: api.527d68ab64866351474759993cb4008f991f402faff2f09594db483762c78471
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.SceneAsset.#ctor"
 source: xml
-reviewed: d54a6d2886ed1acafe25a2ef95166dcafa065b948dfb21fb457bc4a32012a688
+reviewed: a9d88b475d12ea9fdc9b1a863a1de2dad140be9d248e9152a40abf3a5fafa9a6
 title: "Constructor"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.b6befb8660e2f1a46820ba5b9a26b1c83396e3b5205d15b0de5a47295ae996cf
 symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetResidency.AcquireArtifact(System.Guid,System.String)"
 source: xml
-reviewed: cf376db804a615dfe791a633c035fabbe08e8094e1990f093d263af13940cd88
+reviewed: 719ca871ed7c74f2ca5b63cc83ccd5247f8192b79a6ea130aac1e50862cd4ada
 title: "AcquireArtifact"
 kind: api
 owners: [Inno.Assets]

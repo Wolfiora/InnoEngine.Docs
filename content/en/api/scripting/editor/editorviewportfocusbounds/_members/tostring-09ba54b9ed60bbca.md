@@ -2,7 +2,7 @@
 uid: api.09ba54b9ed60bbcab3f0746808e6092dd4a4beaf8f624b5e5dd85f474ca325e2
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.ToString"
 source: xml
-reviewed: cef2d475689036275075a74c24d849f63cf3c4401e32ba8482bd65b47e463e8d
+reviewed: c084a4586f3556bf16a6e5ab5a075ca7581519738d090789ede5d25b27b9f3e6
 title: "ToString"
 kind: api
 owners: [Inno.Editor.Rendering]

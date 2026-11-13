@@ -2,7 +2,7 @@
 uid: api.8eb7db22321c48b727f01f27f371849cf22430434c754959bedff6e35712d52e
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.PreciseWidths"
 source: xml
-reviewed: 1971717db4ef376d6d254409b721e90fae69426a6f58b62a1c1585b18c31a0fc
+reviewed: da1d0011a4b99130d6cd9eedc1c453d46fe62ef063700cbb797ebf901429e40f
 title: "PreciseWidths"
 kind: api
 owners: [Inno.Editor.ImGui]

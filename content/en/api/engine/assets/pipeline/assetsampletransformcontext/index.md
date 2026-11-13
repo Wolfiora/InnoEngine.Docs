@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.cbcaeb79a1baa438
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetSampleTransformContext"
 source: xml
-reviewed: 9b873bae322b41fcc2e4d808d19dcd40abdc906776606dddbc087ce7c032ca65
+reviewed: 239b165fbb73a6532c718278f91124a887628e74eb88c31923d85fb8f60efa9d
 title: "AssetSampleTransformContext"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.238465cfc14d801da35e24509b07f5b9342e75644d12a56ed948e85ad8878342
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationReader.ReadObjectArray(System.String)"
 source: xml
-reviewed: c4f40b33b8a3da600e497aeacdf85ac5772328222f53eebe9292b067e735e7f1
+reviewed: 2c8d6b0154afa49ac6eaeb3ccea0643923fd09855676ec553b10908d366a69bc
 title: "ReadObjectArray"
 kind: api
 owners: [Inno.Core.Serialization]

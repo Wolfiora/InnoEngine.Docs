@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.6f07b7634363d447
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationCaptureKeyBuilder"
 source: xml
-reviewed: fb99fd2aa83a97251c4b123bd83bf773786d523827b3e181bf3fec89ce8c7767
+reviewed: 5367cd8e46c5222206639ba4ce0db7d45c288158b97aec06eadd5c4484255b68
 title: "SerializationCaptureKeyBuilder"
 kind: api
 owners: [Inno.Core.Serialization]

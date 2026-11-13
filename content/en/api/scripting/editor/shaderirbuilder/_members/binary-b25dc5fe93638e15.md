@@ -2,7 +2,7 @@
 uid: api.b25dc5fe93638e15b6cf051c0e60be6d00c05f2f0d1b18f2af3359c25aa8575b
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Binary(InnoEditor.Rendering.Shaders.ShaderIrOperation,InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)"
 source: xml
-reviewed: 61f8d278007c713d4522e7cc2817f772cb16d41c4a3e6d32dd011ca8244f74da
+reviewed: 769836aa6b32362e037d2615d2b67b1781babb81bfe2cab14248f6a1c79f5ef7
 title: "Binary"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.d21cafc72c7cfef2
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorPreviewHandle"
 source: xml
-reviewed: 167d4dca9ac2307e3b88abd1f5d7948fee1ea0bebbc739036d882542ca9c83a1
+reviewed: e3d2b235506b88a3b9fad52b41799888a4e78c8021ab51bc179846357fedcfce
 title: "EditorPreviewHandle"
 kind: api
 owners: [Inno.Editor.Rendering]

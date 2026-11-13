@@ -2,7 +2,7 @@
 uid: api.bdb04bb26c961acfebd326d9ec3d7ffa2e7af5ba54f76ac483b545df289595e9
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.TryClone(Inno.Core.Settings.ProjectSettingId,Inno.Core.Serialization.ISerializable@)"
 source: xml
-reviewed: 9b5e8b33ffb3dc3a5b1e202e8135518d0af7d6e27287a2dc9ecccabeb8fb5b92
+reviewed: 79bca1b130e2b5267257ad38f916cf69524375cc3e7be475b912fd4dec1976b3
 title: "TryClone"
 kind: api
 owners: [Inno.Core.Settings]

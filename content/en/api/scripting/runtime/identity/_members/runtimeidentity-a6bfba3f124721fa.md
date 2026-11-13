@@ -2,7 +2,7 @@
 uid: api.a6bfba3f124721fa0c42943358e6d43b14913bd415a49734bfbbb25ac0f8b6cf
 symbol: "scripting:Inno.Core.Identity:P:InnoEngine.Core.Identity.runtimeIdentity"
 source: xml
-reviewed: bc60128652c22f8d587c32f5df9bc85a2b3763431372145cd385319fdaf51135
+reviewed: 67e2b82445ad9e8a428bc707bc5944a5f02cb6aafbd61306c2d5dca205fccd95
 title: "runtimeIdentity"
 kind: api
 owners: [Inno.Core.Identity]

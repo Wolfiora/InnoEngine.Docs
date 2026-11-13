@@ -2,7 +2,7 @@
 uid: api.98b80c6e4f99f0f67df9ba121cf6a3eeaa1ef05183c40ae6052346b1f3aa329e
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.GetInnoAssemblyScope(System.Reflection.Assembly)"
 source: xml
-reviewed: 5ff605b6a8a8fb392ade5783392915492fc2e725a2264c6b119d815f8c574e97
+reviewed: 97b3ad3a1c19c9bbdc60a5c053a273a878256af666beb7b6b27cfc3e5ba4987f
 title: "GetInnoAssemblyScope"
 kind: api
 owners: [Inno.Extensibility.Modules]

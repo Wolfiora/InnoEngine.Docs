@@ -2,7 +2,7 @@
 uid: api.baf26cfa7e47c8bb0e5d8957ccf24bd9663c62d11aa6d33ed7377e16077c65ae
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.InlineRenameResult.Cancel"
 source: xml
-reviewed: a613c37aee4deb5cd61521e66e677cafd1a2b836238af2b73cec744232fa530e
+reviewed: 13d68f94969c5ce3acc29a79ae03cb8b46bc893a39c3282245508411c670460c
 title: "Cancel"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.94110feca3ff1c1d9d9d9faf7ab670c1403839c22adb18426169c1d1dea65933
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.SetAsDouble(System.String,System.Double)"
 source: xml
-reviewed: 4d17bb3f7032ed8f53e0f4078edaa8f49c450b6790b7050a97b8a5416566f153
+reviewed: 1ff4d3e3df52652e3293f840438e6fed17345d737240a380ebf381a30b1c4f9f
 title: "SetAsDouble"
 kind: api
 owners: [Inno.Editor.Settings]

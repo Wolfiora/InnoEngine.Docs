@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.bfac70d845a43a35
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderPassDefinition"
 source: xml
-reviewed: 3df2b9210777a352f90c31110f9371cd49e705326828a4d5cb61507570aeccbb
+reviewed: 981177fc00561baea4dfef1eb6220759ec56f4d06db5d964c7530d3a46b0e757
 title: "ShaderPassDefinition"
 kind: api
 owners: [Inno.Rendering.Assets]

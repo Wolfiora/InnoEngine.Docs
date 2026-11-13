@@ -2,7 +2,7 @@
 uid: api.e51b8e26efd4f5daaf2380c2e3e8b8bcbd4d824952f4c7d6a33a573ea4f23546
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.#ctor(System.IO.Stream,System.IDisposable)"
 source: xml
-reviewed: 6524694f60a1420966f3e961875210129b2ff00ba215f61bde8eabdf126e194a
+reviewed: 0b91c2eaefe99536edba83b8b15631c950e291b8aff3ce5fc97013cf3ad66bf0
 title: "Constructor"
 kind: api
 owners: [Inno.Core.IO]

@@ -2,7 +2,7 @@
 uid: api.ec9b644b0ce3805ac416b4d72e3eae9267cab764ccafd478dd5cbf59fb192e6b
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClippedRows\u0060\u00601(System.Int32,System.Single,\u0060\u00600,System.Action{\u0060\u00600,System.Int32,System.Int32},System.ReadOnlySpan{System.Int32})"
 source: xml
-reviewed: e3265998021c2998a34f3c95907f2380d7fbf43e8b8918cf9a0c2b527c1333ab
+reviewed: f00f6454ece697396ce77af361cca59a20ea848695380e94e0eb39de7f259f4f
 title: "ClippedRows"
 kind: api
 owners: [Inno.Editor.ImGui]

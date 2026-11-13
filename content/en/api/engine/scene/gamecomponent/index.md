@@ -2,7 +2,7 @@
 uid: api.inno.scene.7ec592e790fda06e
 symbol: "engine:Inno.Scene:T:Inno.Scene.GameComponent"
 source: xml
-reviewed: f813f640f6bd5cd920374c8be49262deb0d3656930ad87c686b86890d08f6339
+reviewed: b25c4ede818284f7ffec8796abd4d85790b3ada04a86b57f632168f5d834a646
 title: "GameComponent"
 kind: api
 owners: [Inno.Scene]

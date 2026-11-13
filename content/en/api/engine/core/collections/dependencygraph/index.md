@@ -2,7 +2,7 @@
 uid: api.inno.core.collections.446588c1dbf12be6
 symbol: "engine:Inno.Core.Collections:T:Inno.Core.Collections.DependencyGraph\u00601"
 source: xml
-reviewed: 2ce5e742fbb636e504cdd2fbf6c3263092fd9a0021f6e6066955a9a5e3f87a03
+reviewed: 5d5c1576bbd46f34699b62c184d248d741a7482343b509e1230571c7fa6764aa
 title: "DependencyGraph"
 kind: api
 owners: [Inno.Core.Collections]

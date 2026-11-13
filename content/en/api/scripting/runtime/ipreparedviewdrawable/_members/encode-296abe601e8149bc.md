@@ -2,7 +2,7 @@
 uid: api.296abe601e8149bc88335270aa3cc197f2279ecac0113f0b7d2df203122f3e05
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IPreparedViewDrawable.Encode(InnoEngine.Rendering.RenderCommandEncoder)"
 source: xml
-reviewed: 7862c48658ab249bf794ed8db66325b4e9142487d0c3f7b541287905a2bfc76e
+reviewed: 1dbc66885bc430eaaebc8dcd32d6bd3abfb701ea335489116fdc13d12be5f987
 title: "Encode"
 kind: api
 owners: [Inno.Rendering.Runtime]

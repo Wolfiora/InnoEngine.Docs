@@ -2,7 +2,7 @@
 uid: api.96dfee07fe910a9cf6d666b7f18114103567481d7e01ce02b7b5672a9516a928
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioSpatialOptions.coneOuterGain"
 source: xml
-reviewed: 987ff6c336a7a22072a8433326db01a2b3b7c86b655c4b45669156f1fbe7881b
+reviewed: 4273f9753f7a8bb2034357934130cf7f7dd8b60b90c01c695ff2b9e05855cdf2
 title: "coneOuterGain"
 kind: api
 owners: [Inno.Audio]

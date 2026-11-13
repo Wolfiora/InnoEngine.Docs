@@ -2,7 +2,7 @@
 uid: api.de465efd311900909e460f32b0b5f9e0404628e86960776344e89229a879b2bd
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderArtifact.#ctor(System.String,System.String,InnoEngine.Rendering.RenderShaderVariant,InnoEngine.Rendering.ShaderInterface,System.Collections.Generic.IReadOnlyList{InnoEngine.Rendering.RenderShaderPassArtifact},System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 302ca0ca527f095782d105a6fcdbb79381a0f14a034ee616120991c97fc5cdd9
+reviewed: ed92bd46d5c2c459e48cb180a13b77f119417dff1dc781e4e8de680e2437d4aa
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

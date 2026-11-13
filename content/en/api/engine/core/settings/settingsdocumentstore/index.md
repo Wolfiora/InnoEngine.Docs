@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.813837915dfa05cb
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.SettingsDocumentStore\u00601"
 source: xml
-reviewed: 7bfdea21863db6b9f47bacf0fd1f7363f318a6fafaddf8dea78e30be1ac7bc71
+reviewed: 23725cea5458e10b0ec4d68d5c357f31a67e61620597365cf60b7d6a724edd72
 title: "SettingsDocumentStore"
 kind: api
 owners: [Inno.Core.Settings]

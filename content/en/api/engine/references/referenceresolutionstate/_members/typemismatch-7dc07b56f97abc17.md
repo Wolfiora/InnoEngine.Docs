@@ -2,7 +2,7 @@
 uid: api.7dc07b56f97abc17c8f37fc734aa466ec95452eb78a077592856a9ba8deada9a
 symbol: "engine:Inno.References:F:Inno.References.ReferenceResolutionState.TypeMismatch"
 source: xml
-reviewed: 4b246ad7e528403e8103584f9fd0b91c0b7d3e9963aaa2b8b0174cc9b047cf60
+reviewed: 869bd93aca2b7e7107f555f0f43cfdba4e656c86d29ac1b9edddc2b746f708c6
 title: "TypeMismatch"
 kind: api
 owners: [Inno.References]

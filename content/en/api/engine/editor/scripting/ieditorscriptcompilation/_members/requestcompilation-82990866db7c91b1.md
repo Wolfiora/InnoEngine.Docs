@@ -2,7 +2,7 @@
 uid: api.82990866db7c91b1365117c8c0e6d2352526fc92015177e6316747e5d3c0cc84
 symbol: "engine:Inno.Editor.Scripting:M:Inno.Editor.Scripting.IEditorScriptCompilation.RequestCompilation"
 source: xml
-reviewed: 5c3c8f7dfb92e518ab5c818cb58543644e530f2506aaca4bce599d1954105ab7
+reviewed: 9d0f3a4c0570e10e905809539a61a2c53a10e037e3458558ea84c2a18fd8a7b6
 title: "RequestCompilation"
 kind: api
 owners: [Inno.Editor.Scripting]

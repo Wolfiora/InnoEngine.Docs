@@ -2,7 +2,7 @@
 uid: api.1e9e95d9d25568e994de398940e5d9ae5de6c8d8cbc1df8e9fafa7a45abdab23
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.nativeDirectory"
 source: xml
-reviewed: 1336e83eb241641e1944e1ed9d3ee5b98bf08ef13192a4566842efbdec39620d
+reviewed: 729a65f87f50c8e9717315ba7c745a73fe16165bdcbfb2d21c3db8054e9886b9
 title: "nativeDirectory"
 kind: api
 owners: [Inno.Build.Toolchains]

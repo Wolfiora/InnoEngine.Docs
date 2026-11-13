@@ -2,7 +2,7 @@
 uid: api.5bbf7dab5e5c292aa1c6d33fa70065f0c7d5168e5169b2f14b7ff29f0e8112d1
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.GetHashCode"
 source: xml
-reviewed: 8a6a57efb33fff7f0ad68bd1e4eec2ad4866993305d8177c7df0e881d04be5f3
+reviewed: 04e1b0c995dbd6ffd0b1de525424097683430eba2c53e942794ecb749e0040c6
 title: "GetHashCode"
 kind: api
 owners: [Inno.Extensibility.Types]

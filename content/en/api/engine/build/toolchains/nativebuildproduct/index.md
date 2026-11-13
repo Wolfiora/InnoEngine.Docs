@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.601ba5743c32f7c2
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBuildProduct"
 source: xml
-reviewed: ea958f94d0f8f0fe1a0f84dea15598af3f4899cf7508509e037b7de150581c78
+reviewed: a7dbbf3d2e33120b0b1172ae255d8d370fd3fd197f0f1b3b04439e9d22c54497
 title: "NativeBuildProduct"
 kind: api
 owners: [Inno.Build.Toolchains]

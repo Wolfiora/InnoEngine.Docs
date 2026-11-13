@@ -2,7 +2,7 @@
 uid: api.inno.runtime.9cd830f217603b7d
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.GamePresentationSettings"
 source: xml
-reviewed: 247634728aafc7f53c0a0de1881baf2b56ce254505418e10fb43b96297f6c950
+reviewed: e82738c200e56f38a5018922452696c089352a85d40ca2e8755706b41a78015e
 title: "GamePresentationSettings"
 kind: api
 owners: [Inno.Runtime]

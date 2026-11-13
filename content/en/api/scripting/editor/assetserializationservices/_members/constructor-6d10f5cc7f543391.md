@@ -2,7 +2,7 @@
 uid: api.6d10f5cc7f543391bc126e0b2938874dda232dfae055a2f5f83607af4023530d
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.#ctor"
 source: xml
-reviewed: 931016ba00e27ee81aa638db1fc799fd7fbd8828e1d8f5d6801e5d563715c52f
+reviewed: 70f0f108e2d40497c3bdf4a09fabe6ebc9ba0d0d9047327a15412f62c9ca7641
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

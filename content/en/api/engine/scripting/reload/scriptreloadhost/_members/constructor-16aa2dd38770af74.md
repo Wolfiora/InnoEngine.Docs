@@ -2,7 +2,7 @@
 uid: api.16aa2dd38770af742f575a4b42ad84aa5b841b1836990763028961aef9f24cea
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.#ctor(Inno.Scripting.Reload.ScriptReloadOptions,Inno.Scripting.Compiler.ScriptCompiler,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Modules.ModuleHost,Inno.Core.Settings.ProjectSettingsStore,Inno.Scripting.Reload.IScriptReloadCoordinator,System.Func{Inno.Scripting.Compiler.ScriptModuleDeployment,Inno.Extensibility.Modules.IModuleSource})"
 source: xml
-reviewed: f2a8822329cf4cd487e872e9632e22a926d1dbd6ec5577a58b8521b4ead6f32c
+reviewed: 03b54d46f7e43aa30eee160c942ba7ad17631e1a8682455be70bc49da0fa6d00
 title: "Constructor"
 kind: api
 owners: [Inno.Scripting.Reload]

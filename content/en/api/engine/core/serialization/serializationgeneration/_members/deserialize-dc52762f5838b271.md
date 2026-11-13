@@ -2,7 +2,7 @@
 uid: api.dc52762f5838b271d7fbc85a2a896f841e22d1104d2a6c7aa420d65852410cff
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationGeneration.Deserialize\u0060\u00601(System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: c57ae52f5dc15dccece3dc9b5487ea588f551e8d28633cbc03dfce2b1768e248
+reviewed: 81485e7cde765c6dff9e70743844780f3682d1c619128d5dc1b20b00c79aafa1
 title: "Deserialize"
 kind: api
 owners: [Inno.Core.Serialization]

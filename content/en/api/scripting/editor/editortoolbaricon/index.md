@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.57806a9399a61cac
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorToolbarIcon"
 source: xml
-reviewed: 50033395cf2ad8016412204382f251c7344be43929ee23c10d88c7ae0ed22209
+reviewed: 211ddd2c18b67fec66c858091e0e003f6dfd74a88246a0a24e7fc1089b506a46
 title: "EditorToolbarIcon"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.30ae4f5d338986bc937211348424db3e84035df00cc584f30b5782644b5c0dc3
 symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorPanel.useWindowPadding"
 source: xml
-reviewed: 4fdf6c8149aeae21a853e66b552ea9c712b5bf133855ee607496ee36dd3dd6d2
+reviewed: 2d0b5782dd3bc0d6900f0eae13245c78bd37e17a10b03ed25264b5baa2c01999
 title: "useWindowPadding"
 kind: api
 owners: [Inno.Editor.Core]

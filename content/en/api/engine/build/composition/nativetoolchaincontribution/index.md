@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.bed4b4c380091c3e
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.NativeToolchainContribution"
 source: xml
-reviewed: 71902cb622d3d3066116887666303bccfdcd5444e148636759f62be331ddcbbf
+reviewed: b648be2239a1fe43c2ed0a0b342d0d31c836c70120ad6838389ed2b6c80e4aac
 title: "NativeToolchainContribution"
 kind: api
 owners: [Inno.Build.Composition]

@@ -2,7 +2,7 @@
 uid: api.922b70448e88329274cc6248d7efe5f56286b2fbe6b3ced049366965c8a50fae
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.CanRequestReload(System.String@)"
 source: xml
-reviewed: 9d6e9c2b68bdd5a37b2747edf6a966b2e1932faffa66bfeba6e36a9a706e13a1
+reviewed: 55568570a6b3b23fc324551f814c7f4aa31b9b75436e679c23a5f528f1a447d1
 title: "CanRequestReload"
 kind: api
 owners: [Inno.Editor.Core]

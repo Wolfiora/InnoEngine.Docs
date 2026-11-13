@@ -2,7 +2,7 @@
 uid: api.a108de858a6015f9496ccdfe78b04e4916862bf0047933e871761d0289922c56
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetFrameHeightWithSpacing"
 source: xml
-reviewed: 09efc8bab5187a6b44a5104237ccdeef5c78ffb5684d550bfe70c6505c0bac76
+reviewed: f7b53a24548e5454fc63068913726412c95f2918f08b9965c42d3726d5d407cf
 title: "GetFrameHeightWithSpacing"
 kind: api
 owners: [Inno.Editor.ImGui]

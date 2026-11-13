@@ -2,7 +2,7 @@
 uid: api.f8e8aaf064c13e644e3b5769000a93fe9d0b44f55f1b1819776c377953cfb1e4
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDataChannelId.#ctor(System.String)"
 source: xml
-reviewed: 45ceae88a6258a20f2f3af50220948bd20f693a731cbc707b39b98912b38940a
+reviewed: 9083c457080edc42a7014a67cdab7f827743be752fe8f520ba9363d172fdeaee
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

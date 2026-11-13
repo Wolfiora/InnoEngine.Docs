@@ -2,7 +2,7 @@
 uid: api.f317ef4cf7f8c4daa52a47c4482e2cf2693355f36ea33ed7c3ca041ecc14880e
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetLabelChipSize(System.String)"
 source: xml
-reviewed: d28244ce48f1d8229d852d99992f838e4669c6d65f3d5101f6adc86d9ef83a15
+reviewed: eeb1a9d545cec0482fcd11b10a2602ba12cff8c307278872000dcb49d7819d82
 title: "GetLabelChipSize"
 kind: api
 owners: [Inno.Editor.ImGui]

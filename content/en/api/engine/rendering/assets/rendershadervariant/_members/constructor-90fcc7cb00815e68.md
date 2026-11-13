@@ -2,7 +2,7 @@
 uid: api.90fcc7cb00815e68c74edd017d8a0af0350d4c4a25c2b77f31f3d6167300deca
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.#ctor(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
 source: xml
-reviewed: e54fa5b5753168efc85fa3535a04e817743775db5ca22728c659a2007cc1e0fb
+reviewed: 9f521d468c1e2ddb516079412f3a7461fb193c27b04fcdfc9610f630f1f9ef0d
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

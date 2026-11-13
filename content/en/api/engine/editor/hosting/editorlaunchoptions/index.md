@@ -2,7 +2,7 @@
 uid: api.inno.editor.hosting.c9a90e0897b22d57
 symbol: "engine:Inno.Editor.Hosting:T:Inno.Editor.Hosting.EditorLaunchOptions"
 source: xml
-reviewed: c422cb4e58bfcedbe4d835a3b0cf5c5f309aa1a2330858dba6fd90ad15a9f963
+reviewed: fadf32e0658a057d07e207490f900898626c694a2181f2dab82a7e4f176270cf
 title: "EditorLaunchOptions"
 kind: api
 owners: [Inno.Editor.Hosting]

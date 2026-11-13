@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.126c56f57277c4a1
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderIrOutputKind"
 source: xml
-reviewed: 8a9e215f8f148c9d5162b50133424b4cd6752cff4c1f1edc93f3a023c98ad0a0
+reviewed: bbd0604c6e7b4e7291bc43758422594fffc294c187908a34a9c5530ad8859545
 title: "ShaderIrOutputKind"
 kind: api
 owners: [Inno.Rendering.Shaders]

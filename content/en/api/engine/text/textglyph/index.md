@@ -2,7 +2,7 @@
 uid: api.inno.text.027e94403f7bec65
 symbol: "engine:Inno.Text:T:Inno.Text.TextGlyph"
 source: xml
-reviewed: db1c76bc23d2abfcafdb51c3be86c8fa7c4f58e4a964656000e78ef91af7d816
+reviewed: 3e51b997799bb9c3c96e229276f74d7ed5ef6f2cfd45c2bbd8a9cc883e6494f1
 title: "TextGlyph"
 kind: api
 owners: [Inno.Text]

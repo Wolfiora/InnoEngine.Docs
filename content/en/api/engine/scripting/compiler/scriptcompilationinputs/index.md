@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.415ae81aff01c7d0
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptCompilationInputs"
 source: xml
-reviewed: 9fd2dace6aa735e74d183e17dfe76c051ba691c5291cf093c6070cc8d48eafcc
+reviewed: 03f7cf4db564b8fd604586e9c878311ae8def1a969bbd5dfa518df32d3a219b3
 title: "ScriptCompilationInputs"
 kind: api
 owners: [Inno.Scripting.Compiler]

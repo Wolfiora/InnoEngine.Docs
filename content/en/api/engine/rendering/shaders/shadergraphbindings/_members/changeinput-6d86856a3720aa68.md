@@ -2,7 +2,7 @@
 uid: api.6d86856a3720aa680f0e1d5d73fa9c5fb500b64b7575078aeb349e30a1bba19d
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.ChangeInput(Inno.Core.Graphs.GraphDocument,Inno.Core.Graphs.GraphNodeId,Inno.Rendering.Shaders.ShaderGraphInputSettings,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: fa07419fad9c637b949ab9f628ce06e62030f211c6b854b816289e238ff457d5
+reviewed: 64003e2c62a87b4b389aa2a09b35a1ae6d568e0b2afb1a1c64d6486e300724ed
 title: "ChangeInput"
 kind: api
 owners: [Inno.Rendering.Shaders]

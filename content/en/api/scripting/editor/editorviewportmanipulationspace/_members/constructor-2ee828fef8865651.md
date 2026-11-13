@@ -2,7 +2,7 @@
 uid: api.2ee828fef8865651eb2946c0d09e460dfb9b3ec74636d92d0800ab98ca591bc6
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportManipulationSpace.#ctor(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Matrix,System.Boolean,InnoEditor.Rendering.EditorViewportManipulationPlane)"
 source: xml
-reviewed: eccb2556f227cbdfdef9b1419c6dd3dd82724180ff042fe072149cd0404f7747
+reviewed: 1c28126e0e17c7eea522748b30492cf00da10af1d3c8c98f03a683c48e2a6ede
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

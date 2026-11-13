@@ -2,7 +2,7 @@
 uid: api.cce6cfd3ab6e071eca690075d86b21ac3257cee79cbae1d0dbbda101eca2183f
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.ReadBuffer(InnoEngine.Rendering.RenderBufferHandle)"
 source: xml
-reviewed: aeb77b5e00e1b28ce2be2c1610c0a899ac70a74a3314a9e8e1588c898c3e6dda
+reviewed: c88c3567e3bc22b324b26a1356bbc6d31ff95c1e7bfb032ed2fd2303d533b18d
 title: "ReadBuffer"
 kind: api
 owners: [Inno.Rendering]

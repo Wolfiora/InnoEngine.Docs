@@ -2,7 +2,7 @@
 uid: api.7c875c05a2dfaeb68bc6c1bd304624d51e88166cf306e84036bfa4677b5acb88
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderStencilState.writeMask"
 source: xml
-reviewed: 63cac0a3b4713e6a0cb184a0acfe8cbcb05ec7403e6491d2e806c113cf6bea2a
+reviewed: 24347ecadc864c86d9818b7bc72fba454cb2d729e1412c994ef03d4ba2f9ed45
 title: "writeMask"
 kind: api
 owners: [Inno.Rendering]

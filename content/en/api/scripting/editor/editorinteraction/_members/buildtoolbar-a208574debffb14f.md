@@ -2,7 +2,7 @@
 uid: api.a208574debffb14f6cddb5d72adf5d034e2cd3b3a87ff1112ee70ceed849185e
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.BuildToolbar"
 source: xml
-reviewed: 2fa3a183fc1c24e3eee3f874be3fc9944ba17e86eaa709bdc03568c66f22b9d8
+reviewed: 60b8ccbaf99d857d211e31e0f93e5fba087a6f441cd09b80553bedffead7175b
 title: "BuildToolbar"
 kind: api
 owners: [Inno.Editor.Interactions]

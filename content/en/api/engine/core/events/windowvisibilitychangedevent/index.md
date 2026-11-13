@@ -2,7 +2,7 @@
 uid: api.inno.core.events.14f7c7ecccf57f7c
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.WindowVisibilityChangedEvent"
 source: xml
-reviewed: 26644622ced46d8d0abe7d8bb8b5a8468c5b9b785196e15ca5656dac568d4b88
+reviewed: 3f0ea041e04154dfcd9136273802431974a1383457d4f03c7ca7d0ed043c3d5d
 title: "WindowVisibilityChangedEvent"
 kind: api
 owners: [Inno.Core.Events]

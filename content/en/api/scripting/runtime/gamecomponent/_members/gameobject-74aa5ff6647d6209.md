@@ -2,7 +2,7 @@
 uid: api.74aa5ff6647d62096c45f9d9f6a52f8e56e7be3601d4a1bb81658b3f99fbaf74
 symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameComponent.gameObject"
 source: xml
-reviewed: 42cc8b7c653fd44cd3644921796324f5064fc15461f9ea8a3d552e08f7b29526
+reviewed: b117f9dbad3ecf9a0c7746b3389879f2ddb1f9d71b61cf21ed69cacfd9940aa1
 title: "gameObject"
 kind: api
 owners: [Inno.Scene]

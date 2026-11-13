@@ -2,7 +2,7 @@
 uid: api.d2a962db9e052c5f783bedc983cb5cf1ccce38e871b18faf9452062f8dc3eb00
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RasterPassBuilder.UseDepthAttachment(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderLoadAction,Inno.Rendering.RenderStoreAction,System.Single,System.Byte,System.Int32,System.Int32)"
 source: xml
-reviewed: e21cbd1c9360683410748aae7486e7551db13aec3ae266bbb44390ff2f4fc954
+reviewed: 6bac0744341baff5287f1cd11eb96f32829caf0cd99e59c71ab6b8e71d5ea272
 title: "UseDepthAttachment"
 kind: api
 owners: [Inno.Rendering]

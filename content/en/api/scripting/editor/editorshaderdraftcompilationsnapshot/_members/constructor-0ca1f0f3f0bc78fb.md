@@ -2,7 +2,7 @@
 uid: api.0ca1f0f3f0bc78fb855a9b1c7aa55436e9b9bb357330f1ddbfbac0dfa4cc00d7
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot.#ctor(InnoEditor.Rendering.EditorShaderCompilationState,System.Boolean,System.Collections.Generic.IReadOnlyList{InnoEngine.Rendering.ShaderDiagnostic},InnoEngine.Rendering.RenderShaderArtifact)"
 source: xml
-reviewed: a4c2c66d5c4881ac85a4bc2d995cd8f03c679492ad5000d4ba7dfcbed40e1ceb
+reviewed: d4a1f704b435f1dc4f5791267df7e080a29e4b25c1bd74fb9c731eb8be1cb050
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

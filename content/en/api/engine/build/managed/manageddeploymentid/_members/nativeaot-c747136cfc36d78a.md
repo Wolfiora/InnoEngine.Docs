@@ -2,7 +2,7 @@
 uid: api.c747136cfc36d78a3a98fa67af16357ac5e04da5ad45b8f0c7e5b999b977c0a0
 symbol: "engine:Inno.Build.Managed:P:Inno.Build.Managed.ManagedDeploymentId.nativeAot"
 source: xml
-reviewed: 338180ac2ed175f193a7513f676667113617415eb989b4e968337dcf52d225c4
+reviewed: 6c18f12a2697a16c8c01c2228a2beeadb97451290141e8023266ce4390670190
 title: "nativeAot"
 kind: api
 owners: [Inno.Build.Managed]

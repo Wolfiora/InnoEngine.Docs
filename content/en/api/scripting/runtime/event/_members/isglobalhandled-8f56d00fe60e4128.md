@@ -2,7 +2,7 @@
 uid: api.8f56d00fe60e41288844f53d810fa2250d72598c936119548bcdafd5413fa7fa
 symbol: "scripting:Inno.Core.Events:P:InnoEngine.Events.Event.isGlobalHandled"
 source: xml
-reviewed: 93a8d4991ef9fe0c11be504d7ee970bd814e4d4bb90c77ef113af5ea1b70f36a
+reviewed: b733979d963b1249023818484025fd5a4667ff03c7b4366de12688fdd07a8764
 title: "isGlobalHandled"
 kind: api
 owners: [Inno.Core.Events]

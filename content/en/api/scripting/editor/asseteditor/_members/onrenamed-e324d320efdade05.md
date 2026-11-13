@@ -2,7 +2,7 @@
 uid: api.e324d320efdade05a30fbc2b8644a18bb46ed6889bd3b74806885b6889b6554d
 symbol: "scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetEditor.OnRenamed(InnoEditor.Assets.AssetEditorContext,System.String,System.String)"
 source: xml
-reviewed: d3512ca9ca6a08aa5027a245f864d924fc54ff68efa35b61c585110f7e13067f
+reviewed: da38307a3eac116c8f3ca338420af49110b167d8bf8fa6a595e28d66dceca12a
 title: "OnRenamed"
 kind: api
 owners: [Inno.Editor.Assets]

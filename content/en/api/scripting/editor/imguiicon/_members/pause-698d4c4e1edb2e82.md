@@ -2,7 +2,7 @@
 uid: api.698d4c4e1edb2e82e9cbf0627195c183b08c04b8801855093ed42dbffeec6fe4
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.Pause"
 source: xml
-reviewed: bbf29a33b0f8389e8380a4bcc5a052d10b1b717aaf3b4fc0571787e8782167b4
+reviewed: 6ea8d2f613e9f1fb29b0e47336cbafa2f8319e3636362896c7aa702d302b6336
 title: "Pause"
 kind: api
 owners: [Inno.Editor.ImGui]

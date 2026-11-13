@@ -2,7 +2,7 @@
 uid: api.e0fd529b67784ad4000d81305e98898531de7822326c50df15ecd29e5cce66e6
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawerRegistry.TryResolve(Inno.Editor.Core.EditorContext,System.Object,Inno.Editor.Inspection.SerializedPropertyRenderer,Inno.Editor.Inspection.IInspectionDrawer@,Inno.Editor.Inspection.InspectionDrawContext@)"
 source: xml
-reviewed: 8bded675f4c851b5b5162a6d54cc758bf2c0bfe9994aa18e1482e98640fdaf7d
+reviewed: 118f80f2fd5c0ef06945f17c91e9847dd5d4c520a92d12abb57585782d55cee9
 title: "TryResolve"
 kind: api
 owners: [Inno.Editor.Inspection]

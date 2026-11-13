@@ -2,7 +2,7 @@
 uid: api.290a3b85cb587f0fd55c321105a4e0a072b0ee07b459464ab15cda08c31b6ea5
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourcePolicy.IsIgnored(System.String,System.Boolean)"
 source: xml
-reviewed: 735ef11d4be44ef17f9f1509ad25a9cd94d050050d5d0add70e277a4fd07f345
+reviewed: 7ea3d990e2a14d8448f9e9d27ee220daf550454087aa331f5882f0622b368526
 title: "IsIgnored"
 kind: api
 owners: [Inno.Assets.Pipeline]

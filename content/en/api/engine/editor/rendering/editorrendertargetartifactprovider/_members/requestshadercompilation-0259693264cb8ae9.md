@@ -2,7 +2,7 @@
 uid: api.0259693264cb8ae9a615bc71e012d421bd25acd41e824e1a5a67d587ff5edb5b
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.RequestShaderCompilation(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities)"
 source: xml
-reviewed: d0a69c3586db26cf8f3771a12613ed238495e857cad4a6fce0d341651362bf2b
+reviewed: 33cdcbef62b1d3b76c43ee600355443aa7ae501a35085f6622ec2450c7f45566
 title: "RequestShaderCompilation"
 kind: api
 owners: [Inno.Editor.Rendering]

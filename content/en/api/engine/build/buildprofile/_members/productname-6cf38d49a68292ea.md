@@ -2,7 +2,7 @@
 uid: api.6cf38d49a68292eaa697c51d1a493ceba47188e6489f564445857422807bc54b
 symbol: "engine:Inno.Build:P:Inno.Build.BuildProfile.productName"
 source: xml
-reviewed: a24d04321534103c627cd81c6d1b50c668f77b4cbe7e259447cfc1258aef62e0
+reviewed: 4fb158f89c4e7bdab4a1352d765a30e32b98558cc2a904d3cd90703c02eee238
 title: "productName"
 kind: api
 owners: [Inno.Build]

@@ -2,7 +2,7 @@
 uid: api.14b22ab64644ac9b82231a9d8d191b39268645fdfb00da3959d0e72da6976a2a
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiCol.DockingPreview"
 source: xml
-reviewed: b06020f121ef3fdba48cde27e767627dc2ee5cdd90986cb18511fd10b96628c4
+reviewed: 01262c485fc4b7c1184128d906379db791db60bce7051125763279ff802cd88d
 title: "DockingPreview"
 kind: api
 owners: [Inno.Editor.ImGui]

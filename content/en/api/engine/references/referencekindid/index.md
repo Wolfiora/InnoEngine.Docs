@@ -2,7 +2,7 @@
 uid: api.inno.references.de15ead94eef7195
 symbol: "engine:Inno.References:T:Inno.References.ReferenceKindId"
 source: xml
-reviewed: 90a4d2b86050f872152ce81f6dbcf69008533d8ef06b4d5a0a902454ae0fe95b
+reviewed: 7a4c0b88b5d6a9779212d838532146cee2643dba6d7bd35fbb7a7dd117a7791c
 title: "ReferenceKindId"
 kind: api
 owners: [Inno.References]

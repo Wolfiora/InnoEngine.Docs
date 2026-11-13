@@ -2,7 +2,7 @@
 uid: api.c5e56a372d1afb83e519df9d566d196754bf2b2f6bc674910b47f84c5fa4e4f0
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactOptions.#ctor(System.String,System.Collections.Generic.IReadOnlyCollection{System.String},System.Collections.Generic.IReadOnlyCollection{System.String},System.Collections.Generic.IReadOnlyCollection{System.String},System.Func{System.String,System.String,System.String})"
 source: xml
-reviewed: e7dcf621dcda1d1447c38329144bf318ccf5f2aa209d23b14c6387bd855ff11f
+reviewed: 601a1ff09dfca407a4fc657d92ad943ce58555ae57650653c0f0c44f0621c402
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Toolchains]

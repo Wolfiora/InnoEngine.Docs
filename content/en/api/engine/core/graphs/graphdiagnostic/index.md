@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.7d63568c6ad9099e
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphDiagnostic"
 source: xml
-reviewed: a8c182000dcda17b2b6c0e96bc37bcc372b05f94d506ce678eaaad9e60676b6e
+reviewed: 037328aae3db25e02666bcd66f40e63102dd389e087c429921fa04d813587407
 title: "GraphDiagnostic"
 kind: api
 owners: [Inno.Core.Graphs]

@@ -2,7 +2,7 @@
 uid: api.inno.scene.1ef1655b6606e367
 symbol: "engine:Inno.Scene:T:Inno.Scene.SceneSubtreeSerialization"
 source: xml
-reviewed: d02b0f902a73b278268a1b6b128d86dfa084138a61d29dc08a582682b2fa9a1c
+reviewed: 69e5fa419c80ac2fb2e521bb46b37bad96968dbb3489ab7a95c930791cb02af4
 title: "SceneSubtreeSerialization"
 kind: api
 owners: [Inno.Scene]

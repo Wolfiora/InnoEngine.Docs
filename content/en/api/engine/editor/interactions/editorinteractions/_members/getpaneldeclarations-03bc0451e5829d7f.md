@@ -2,7 +2,7 @@
 uid: api.03bc0451e5829d7f8b9cfe09f343debd0049a26e9319dde5f8dc4b2e440894b0
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.GetPanelDeclarations"
 source: xml
-reviewed: cbe8d0c72e436d4f32af2e758a2d8a745c9fad953ad54cd699ec78111bbeca79
+reviewed: e49def99a41d895b4c81f34ed049e74814a4dac63595a7109aa8ad80167d0abd
 title: "GetPanelDeclarations"
 kind: api
 owners: [Inno.Editor.Interactions]

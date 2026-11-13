@@ -2,7 +2,7 @@
 uid: api.inno.adapter.presentation.201f881f920dd4b4
 symbol: "engine:Inno.Adapter.Presentation:T:Inno.Adapter.Presentation.IAuthoringAdapterCatalog"
 source: xml
-reviewed: 89c18565c1b5b20450c1a4e041d135af91fd056e7239f120d9b87cd353141c76
+reviewed: cfcf7fcfe590130b49eee27b50f816f4e4a23014b947c9f5da507ac126bd50c1
 title: "IAuthoringAdapterCatalog"
 kind: api
 owners: [Inno.Adapter.Presentation]

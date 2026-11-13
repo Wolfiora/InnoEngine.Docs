@@ -2,7 +2,7 @@
 uid: api.05a727f00f3cce8eaa99990b8690fc0205c4d037bdd770b54e517031dc98b32f
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.Update(InnoEngine.UI.UiContextHandle)"
 source: xml
-reviewed: 21ef93b5ed011f581e9d6e6158eb5d5c949b35ad7c16458a37e5d592d7d11eed
+reviewed: 9190230218b04490f4a22638f7b29958de8db4f3ee7801fc511a17673a978eaf
 title: "Update"
 kind: api
 owners: [Inno.UI]

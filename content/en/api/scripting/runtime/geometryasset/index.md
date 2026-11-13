@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.06ee6857b3f4e2e3
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.GeometryAsset"
 source: xml
-reviewed: ddac2663035f0f3cf608fa5149050edd10ab5c3708421c069b824c00241bffab
+reviewed: 77877d0b7bd6f10df088898fd5f558eb9cbcd2be0300d529d379ed48707ce51c
 title: "GeometryAsset"
 kind: api
 owners: [Inno.Rendering.Assets]

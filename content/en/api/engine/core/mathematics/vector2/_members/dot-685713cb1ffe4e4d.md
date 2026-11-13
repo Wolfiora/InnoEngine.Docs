@@ -2,7 +2,7 @@
 uid: api.685713cb1ffe4e4d079e6d665c0b270431e2541f59fa3e8d709845451ad70f35
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.Dot(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)"
 source: xml
-reviewed: e101f495ea1139baf6dac1621e266f52a685e422df1effc2e85e6bb2a9d811ce
+reviewed: 5c27c1c41be018501a36fa0118504fafd4a383c1cd1a98bf9622b154742e2f0a
 title: "Dot"
 kind: api
 owners: [Inno.Core.Mathematics]

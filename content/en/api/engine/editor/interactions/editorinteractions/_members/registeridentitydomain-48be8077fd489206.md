@@ -2,7 +2,7 @@
 uid: api.48be8077fd4892061d746b97e64f9270f1be2bc0e64b7bce325660a36b21360b
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.RegisterIdentityDomain(Inno.Core.Identity.IdentityAllocator)"
 source: xml
-reviewed: 9298d5dcddcbc705a0f4be1ea2f86b46022b8dbe0d1d009bb99c617653b19557
+reviewed: 29c7b9551ea09361ac5ac56c31ffe3b9da344884d2ccb9ec01998193810711dc
 title: "RegisterIdentityDomain"
 kind: api
 owners: [Inno.Editor.Interactions]

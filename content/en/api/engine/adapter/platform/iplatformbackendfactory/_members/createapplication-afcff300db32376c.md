@@ -2,7 +2,7 @@
 uid: api.afcff300db32376c53681800a979babb26ce6c3d547e36b37f0d91d85d7789cd
 symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.IPlatformBackendFactory.CreateApplication(Inno.Adapter.Platform.PlatformBackendId)"
 source: xml
-reviewed: ac4b2bbfcd1ec6e2d0911210e6cb0290baaf1c3c38d9fbd247a1932a03972a7f
+reviewed: 5910883b8456fddd6337304e23dbcb261c5434a27962dd920833fb8706e952e3
 title: "CreateApplication"
 kind: api
 owners: [Inno.Adapter.Platform]

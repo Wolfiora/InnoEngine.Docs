@@ -2,7 +2,7 @@
 uid: api.31d7ad86a10d1673bd9e49b0e92f43ddd07bdf438fb6fd2e34b61c9207438fa3
 symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiDocumentHandle.isValid"
 source: xml
-reviewed: b7a31d2f97d679b450a3967e7648c76f67b65df3f7a7b7fcad46472d0c502a6c
+reviewed: b468015305b623e901e2d3f284f8ab6857d5b53063c533acaf1936e6057f9fbe
 title: "isValid"
 kind: api
 owners: [Inno.UI]

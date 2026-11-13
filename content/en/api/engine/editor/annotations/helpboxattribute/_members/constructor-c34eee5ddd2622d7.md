@@ -2,7 +2,7 @@
 uid: api.c34eee5ddd2622d77e54dfcff0301467767981a7018406fa1a812fbf8cf3959a
 symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.HelpBoxAttribute.#ctor(System.String,System.String,System.Object,Inno.Editor.Annotations.InspectorMessageType)"
 source: xml
-reviewed: 98408945f1192620e178d54ab28abb2d49d256468d304b8acb1d2ef5461669b4
+reviewed: 50b2b51f418d79e156fcdca8412ba0e61487bd409cf28a4b2cc103f6690dc71a
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Annotations]

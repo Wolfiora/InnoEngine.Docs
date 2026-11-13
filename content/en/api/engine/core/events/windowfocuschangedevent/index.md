@@ -2,7 +2,7 @@
 uid: api.inno.core.events.80846ba3b33ed42f
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.WindowFocusChangedEvent"
 source: xml
-reviewed: 1547abaecd06099d8d37c1f2686059315dfdb1a9932621eec15c874c25235fe1
+reviewed: 13652f008611d2b91ef0a76d0f549c8bd859ba5040dba2acfd9b9c280598cddf
 title: "WindowFocusChangedEvent"
 kind: api
 owners: [Inno.Core.Events]

@@ -2,7 +2,7 @@
 uid: api.23ac9b118c592ac3db6eb441c10ab359de325f774eb3c1dd9e58c9577031e4c4
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsSingle(System.String,System.Single)"
 source: xml
-reviewed: 76c0b66671638f0cf7a9e28730ed6e394c91b8476f60e0160afbe2d8456d907f
+reviewed: c164f96e55145ab35f0b383a444a8ed25eab64d5d858c65d035f9bc766e1a31b
 title: "SetAsSingle"
 kind: api
 owners: [Inno.Editor.Settings]

@@ -2,7 +2,7 @@
 uid: api.2d4c7b054324cabe84dd499b05c94372d6496468f5f6c4649fe2121753785d3c
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphLiteral.Emit(InnoEditor.Rendering.Shaders.ShaderIrBuilder,InnoEditor.Rendering.Shaders.ShaderSourceType)"
 source: xml
-reviewed: b619e052c002cc2f01994ea3a72a74781f2afb6022c7200b055ffecf67672b25
+reviewed: c9dc405086797f3f0aacc0c0443f5192ab1cc016abf5fc19c8064c37139c2b9c
 title: "Emit"
 kind: api
 owners: [Inno.Rendering.Shaders]

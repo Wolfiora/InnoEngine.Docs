@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.d5b7efe7dde2cab6
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildCacheOwnerCatalog"
 source: xml
-reviewed: c6a41f75d5b3c8b5f5a2edeb655a867589e1d0013b8cf84e2c7e37efb48b0a5c
+reviewed: 80e8cb668aff8334e6c1b10084f3fad4b94597cd960c69bb2240e6f9e357fc9a
 title: "BuildCacheOwnerCatalog"
 kind: api
 owners: [Inno.Build.Toolchains]

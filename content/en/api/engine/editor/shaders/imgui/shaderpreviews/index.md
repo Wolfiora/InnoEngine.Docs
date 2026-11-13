@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.imgui.67e03b0cc3b26154
 symbol: "engine:Inno.Editor.Shaders.ImGui:T:Inno.Editor.Shaders.ImGui.ShaderPreviews"
 source: xml
-reviewed: 7c394415fbac84134b229bca81a90c4b128c95c6fc13d7a073c5b7385abe219a
+reviewed: 75ba3c15ce67875bd726950cf7c365cbcd63acf5f46dca5c49743e10b1aa11b7
 title: "ShaderPreviews"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

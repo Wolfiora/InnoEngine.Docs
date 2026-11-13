@@ -2,7 +2,7 @@
 uid: api.4fb00ce5e54adf40a0bd917b0b7a72efb59995ab14652a47feecede7ad615b6e
 symbol: "scripting:Inno.Rendering.Assets.Authoring:P:InnoEditor.Rendering.Assets.ShaderFunctionAsset.languageId"
 source: xml
-reviewed: 6d62960f5f614fbc480db1a4d53899b5b33d2a9db4ae824b5dcf91b7232c28fc
+reviewed: 97b6fa022b1f061df84d7c71166751bdcc557a10397f731021cf786b42b17c23
 title: "languageId"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

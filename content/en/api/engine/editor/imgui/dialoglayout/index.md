@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.58156fdfb4d5c7f1
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.DialogLayout"
 source: xml
-reviewed: a78f38520e5b6ab392da6abbcb7a52bfbf166d9ca790c62de92622e12fcf4269
+reviewed: 8b99818ca72565968a6b2d288893b9d6b8bd9b336568361a2487d2d44657c478
 title: "DialogLayout"
 kind: api
 owners: [Inno.Editor.ImGui]

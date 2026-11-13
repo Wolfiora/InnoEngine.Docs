@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.a65b8febdc38ae8d
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorGizmoProvider"
 source: xml
-reviewed: e4fbe59af075c08d3aba4a95c9b76beb619b9e9ac0fb93344037b6d5b7ea4c40
+reviewed: ebe75ba457f22ba1c25764b240618c38604f4c0ada0dc3dc07b601996670b32b
 title: "EditorGizmoProvider"
 kind: api
 owners: [Inno.Editor.Rendering]

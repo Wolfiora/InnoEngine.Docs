@@ -2,7 +2,7 @@
 uid: api.f8daf69e362f18a8aa7285933824c0e24ccd92074dba17d093174d22e857a460
 symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiRenderFrame.textureUpdates"
 source: xml
-reviewed: 564adc051f4c65aea325dc18777b4e4fe97f653854c717d875870732b561a868
+reviewed: 75c9487992b8f31658bfd689d1bf16f648ac8e42e7634376388f73f229d7454d
 title: "textureUpdates"
 kind: api
 owners: [Inno.UI]

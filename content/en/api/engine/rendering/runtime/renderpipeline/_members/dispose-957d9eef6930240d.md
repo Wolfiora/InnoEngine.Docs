@@ -2,7 +2,7 @@
 uid: api.957d9eef6930240d48bd7faea27cc109624d8081720fb8451f67a9f5462e0a52
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPipeline.Dispose"
 source: xml
-reviewed: 87b493805ea02c6b99b94035ef4cbca69d70be56cab6610fed3a9db125632c40
+reviewed: d1b283fed1af1bcf53a14ef12ce97a10e7a77a369f458729696fe2cc58aeec90
 title: "Dispose"
 kind: api
 owners: [Inno.Rendering.Runtime]

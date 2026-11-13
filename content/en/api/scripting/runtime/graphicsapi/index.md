@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.28335d45ed4831a2
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsApi"
 source: xml
-reviewed: e17ac20768e3dd2c9d51a43b13f7c5731a2f8784ddec9fa808c22a1784b2d950
+reviewed: 895c1529c0f64b953da0ed2c77a9f38ee1ac820c9ef0f24caa653cd85fcc5df8
 title: "GraphicsApi"
 kind: api
 owners: [Inno.Rendering]

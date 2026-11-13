@@ -2,7 +2,7 @@
 uid: api.inno.core.io.6daee97a7d12cdb0
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.CoordinatedFileLease"
 source: xml
-reviewed: a1a2186a5b044f896e4ac2a60f822e168c9dd7e949e14b7c5afec0c422e0a980
+reviewed: 4a5d2d66c7fd3ff4cf608705871ec341e3878311cae612d4d803948799d686e0
 title: "CoordinatedFileLease"
 kind: api
 owners: [Inno.Core.IO]

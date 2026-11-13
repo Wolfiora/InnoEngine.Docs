@@ -2,7 +2,7 @@
 uid: api.inno.text.db35d5629057cf0a
 symbol: "engine:Inno.Text:T:Inno.Text.TextStyle"
 source: xml
-reviewed: bdb66677d051b6602ac49948eedad44d13fadb0dd5c86b79b0308fbeaa6bbcbd
+reviewed: d11422d74fa96998068051098a822b670ef361997cc47bfc77623f0c70545d5b
 title: "TextStyle"
 kind: api
 owners: [Inno.Text]

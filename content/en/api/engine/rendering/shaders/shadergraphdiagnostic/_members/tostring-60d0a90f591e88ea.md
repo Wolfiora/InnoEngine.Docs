@@ -2,7 +2,7 @@
 uid: api.60d0a90f591e88ea133af3d6dafea7a8f48349344c5e175ba1b93d804f430d98
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphDiagnostic.ToString"
 source: xml
-reviewed: 8fe5fea1257c1bf2748d8bd86d38a08a55d1be93f3717f515b01cc3e7963926b
+reviewed: 3761c22bb5147544d1c0c46c193562414d6a7c058d5766208565e7de0e6a61fb
 title: "ToString"
 kind: api
 owners: [Inno.Rendering.Shaders]

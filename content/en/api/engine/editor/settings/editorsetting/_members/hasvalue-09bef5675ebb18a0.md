@@ -2,7 +2,7 @@
 uid: api.09bef5675ebb18a04fc28a344f393492a140cb4629dfc2481e5f3e39485d9cb2
 symbol: "engine:Inno.Editor.Settings:P:Inno.Editor.Settings.EditorSetting.hasValue"
 source: xml
-reviewed: 7fd2d3ce2f23ca4725689d5a4d085fa35aeaec572e0bd903a08c44eba18dd4bd
+reviewed: b3fbb80937ea25094c107f0e5dd0abb4c5e44553123a9ec8d323df827fd0e5ff
 title: "hasValue"
 kind: api
 owners: [Inno.Editor.Settings]

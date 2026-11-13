@@ -2,7 +2,7 @@
 uid: api.df50df87458f5f0e48a1989cb536dd6ca64b850ac3e899c92cf65d1492c0cf8b
 symbol: "engine:Inno.Scene:M:Inno.Scene.GameSystem.Awake"
 source: xml
-reviewed: 54e0cc40175a461bcf8ed43d6304c6146cad7941f7caea20900dcf76dd6fa08d
+reviewed: 78f5ee7fbb16e28783ef6c11e446ecb9033ac70e0bab3f996b747e1402177ab2
 title: "Awake"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.9136cb2d1b33f71185edde16aa8bca66da9efac41d33244dc0cdd65995347865
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorValidationResult.message"
 source: xml
-reviewed: c30e87bec1288d9a8b686d3447f63019a61a88f1c4c7c934263cca4d24004a69
+reviewed: cd4ff7630b65d48db284bd3f974b866c2e64f984a038baf642d99a6a7f350ce6
 title: "message"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.4d1d0749766829c6
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderRasterState"
 source: xml
-reviewed: 2fc1a265d67b33539c3001e2383655587d3a6374582b1657037b01fa173fee77
+reviewed: 6400a0c137cefb1a1bef712d7245c55129ce6f9633a9bef599c62e244872e5e8
 title: "RenderRasterState"
 kind: api
 owners: [Inno.Rendering]

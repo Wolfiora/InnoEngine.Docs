@@ -2,7 +2,7 @@
 uid: api.6fce627e0481dd5b1a7eb935f10967b2e3f11937a568d88b45f9f7ca9acdfb16
 symbol: "scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphSerializedValue.data"
 source: xml
-reviewed: 73db50324175667b7dc671afce85d27e732ad989b10ad9a7df4a0a7af91d0943
+reviewed: 5024442069170ee00f7204489228c287da9d73869dcf007aa87c78e6f4d825b4
 title: "data"
 kind: api
 owners: [Inno.Core.Graphs]

@@ -2,7 +2,7 @@
 uid: api.20370a77434f4a8d3e1d5d5ac93f1ff0c0463ad0536fc06f22737c8ef126ccf5
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.BeginHistoryIsolation"
 source: xml
-reviewed: fc92d9942da9cb3df3a3f0126942cf98c9554bee1c2c4f45a29138a9f10f25b6
+reviewed: 892f3fb99d3f8b7e6b29bfcfe7cf1f9f1fdd32be4061f77774836fd57d764fd6
 title: "BeginHistoryIsolation"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.ffbcd9b5ca59f29f75d047e04bec3c019541d6938f092c8b3eb228ffc85478cd
 symbol: "engine:Inno.Adapter.Authoring.Default:P:Inno.Adapter.Authoring.Default.DefaultAuthoringAdapterCatalog.storage"
 source: xml
-reviewed: 30762e95829e61f45eadf19052c30abb28d2d6c0fc50c5780be956bcc62bfcba
+reviewed: a60fea448809056c803d2207b99c5b2ae09bed42954076846a11cd0329b59883
 title: "storage"
 kind: api
 owners: [Inno.Adapter.Authoring.Default]

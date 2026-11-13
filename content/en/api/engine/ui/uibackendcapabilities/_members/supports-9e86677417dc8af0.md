@@ -2,7 +2,7 @@
 uid: api.9e86677417dc8af0238a6f67910efcaaf8ec4370510727ebaecd01b9041fd14a
 symbol: "engine:Inno.UI:M:Inno.UI.UiBackendCapabilities.Supports(Inno.UI.UiDocumentLanguageId)"
 source: xml
-reviewed: 97a388ce81fec9c78f53bc40c75833095c7428a30528d8be536226c62a1d7df2
+reviewed: bd4db92acb1d43dbbd71a9b81848ebbfa70497f55fd2989aa404448fc2038fc7
 title: "Supports"
 kind: api
 owners: [Inno.UI]

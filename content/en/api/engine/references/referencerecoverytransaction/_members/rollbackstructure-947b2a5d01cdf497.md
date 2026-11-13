@@ -2,7 +2,7 @@
 uid: api.947b2a5d01cdf497427d3031a604953eb322515aaf078541c8d49d984a7f198b
 symbol: "engine:Inno.References:M:Inno.References.ReferenceRecoveryTransaction.RollbackStructure"
 source: xml
-reviewed: 39b2870c3a774bb72cf22bf4db725ecd395fb0e6a72ddf19430df9ff0a3744c7
+reviewed: 283afd590bfa1ed6070cc4e613bff6602760369964f44544b9925b0fd5ecb40f
 title: "RollbackStructure"
 kind: api
 owners: [Inno.References]

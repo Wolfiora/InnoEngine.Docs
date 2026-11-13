@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.38d846da63d8ef99
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphPortDirection"
 source: xml
-reviewed: 880c261c94fbc07e7da45c6524d534c828190bd9fb3ec5b1257ee0c6b68c3992
+reviewed: 640f8eec6262e7cd8389f0799725f5ef2a5b776b0da87dc5558ae08c96b7d58f
 title: "GraphPortDirection"
 kind: api
 owners: [Inno.Core.Graphs]

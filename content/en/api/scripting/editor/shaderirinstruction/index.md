@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.3b2d8e75046458bb
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderIrInstruction"
 source: xml
-reviewed: 6deb779c809a96a3e893602531ec49885a77b11c3c1f616c43f8276643d428cc
+reviewed: 2b0ca7d4fd49ead95a5fce3375ad706c3ffb3b66cf22764b6eaef249144d4a1d
 title: "ShaderIrInstruction"
 kind: api
 owners: [Inno.Rendering.Shaders]

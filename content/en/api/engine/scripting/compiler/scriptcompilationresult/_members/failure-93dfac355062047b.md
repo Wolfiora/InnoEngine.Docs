@@ -2,7 +2,7 @@
 uid: api.93dfac355062047bfbd6fe7cae869fff6c8d546a3c75cb60ed795d675182d1b5
 symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompilationResult.Failure(Inno.Scripting.Compiler.ScriptDiagnostic)"
 source: xml
-reviewed: 7a182baaaf467d98ca4e431017b584beaf8b09c1c8a824223adc6c3062d22848
+reviewed: 2b6705b6ad76322483e9fd5c09c42fc86a11cf44e18eebc615d4c3c112b1cbea
 title: "Failure"
 kind: api
 owners: [Inno.Scripting.Compiler]

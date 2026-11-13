@@ -2,7 +2,7 @@
 uid: api.a4e96e9f079c26b4e6ebcaba489d37594a3f9c74a63d82c834d43ec1bd6f27e8
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.ToString"
 source: xml
-reviewed: 8020037632eab4b9bea4b4c124b8e338bbde1a77aa5809e2ca83d85bbcb0ed07
+reviewed: ae5af69e360ed744305bcba9c7b814291bcfffd47da768d7a5ac2a67d1a816e7
 title: "ToString"
 kind: api
 owners: [Inno.Editor.ImGui]

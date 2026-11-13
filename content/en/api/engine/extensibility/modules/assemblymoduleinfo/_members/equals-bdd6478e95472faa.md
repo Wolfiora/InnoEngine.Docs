@@ -2,7 +2,7 @@
 uid: api.bdd6478e95472faaa7739df8d70800371666ec8bbacdb3281e90fc95e7c7c590
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.Equals(System.Object)"
 source: xml
-reviewed: b89418565ce3af12b64ce25717a10ba9f74c62e08309405c563748c956d92860
+reviewed: f257d3d72d9787020383f1f70ed5ddefd2377550a21f0172fc27070550bbaee7
 title: "Equals"
 kind: api
 owners: [Inno.Extensibility.Modules]

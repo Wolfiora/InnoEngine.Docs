@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.5a3b0d303345aaf0
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.ViewContentSourceExtensionAttribute"
 source: xml
-reviewed: eb5cc5a8b21dabe2aa5b4058f73ff212628b851a5c2d02e04535be19152080b1
+reviewed: 7cb5a4b73a4fc429557840d16ee00b14eac9b64560fb227737bed7f0ae1c4036
 title: "ViewContentSourceExtensionAttribute"
 kind: api
 owners: [Inno.Rendering.Runtime]

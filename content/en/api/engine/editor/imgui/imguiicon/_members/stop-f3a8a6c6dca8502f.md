@@ -2,7 +2,7 @@
 uid: api.f3a8a6c6dca8502ff79ccb77bb161d83499fd29ec8f3cc5a0112d19206ce500d
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiIcon.Stop"
 source: xml
-reviewed: 39e8aac051c736f13e447a15b59bab85f8c4012953a4ba90c9c29bc1776bf9ca
+reviewed: a8a5b2d6649deab2a3ef5a8369b8cbd26b441cad87455b8bf12bd29fb5aa5ebc
 title: "Stop"
 kind: api
 owners: [Inno.Editor.ImGui]

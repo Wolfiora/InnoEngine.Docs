@@ -2,7 +2,7 @@
 uid: api.b6acce5032f0281937fc475927196692ae89cf224772e5092bc277085c6a57e8
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportContext.#ctor"
 source: xml
-reviewed: 043c7d6885a7f09a02968a2f66540afd67ece983eaae5123c4832419b6340826
+reviewed: cb1a06b4feb8933243b595043eb1afb1502eec88023056129e20b4e84f38d8ad
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.bd7b3a03d140ed05cd9165e783901f20298d50c93f08a68a453f971785b8453b
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.SetAsBoolean(System.String,System.Boolean)"
 source: xml
-reviewed: caab648587eedd7025df738ec2ddf5a1c67de087e84508c03e4bac68ecb775c8
+reviewed: 55ec472122e2878a16c500a5fb1468b54e668e7a371c660a83defb11d76817bb
 title: "SetAsBoolean"
 kind: api
 owners: [Inno.Editor.Settings]

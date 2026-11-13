@@ -2,7 +2,7 @@
 uid: api.c3170d3d9f229bf87d43756459fd05834670e7b554fddf2966a88832f635dfe5
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDependencyCollection.#ctor(System.Boolean)"
 source: xml
-reviewed: a96d5ee58d50e93c3703191e7a46c5ce24bc8f04544fe68b31b553e8f838d0c5
+reviewed: 833051bf51942ffd0b91fab1879eddf23a35ef25b76e7e4a2394b43c2a0e7a84
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

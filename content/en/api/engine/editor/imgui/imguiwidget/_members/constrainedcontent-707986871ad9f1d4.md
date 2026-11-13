@@ -2,7 +2,7 @@
 uid: api.707986871ad9f1d471785ec3b29b838ae47fb73a12eabe94ac9ff9e0dbf5c566
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ConstrainedContent(System.String,System.Action,System.Boolean)"
 source: xml
-reviewed: c148a2f924f234f1ad5b62ea999c1c57e985b6eb785059221fbdea53b24b0717
+reviewed: f1e80929ad625e12b8bfdb47b9814db0805fd69b28e68b36f94760ed549d6f8a
 title: "ConstrainedContent"
 kind: api
 owners: [Inno.Editor.ImGui]

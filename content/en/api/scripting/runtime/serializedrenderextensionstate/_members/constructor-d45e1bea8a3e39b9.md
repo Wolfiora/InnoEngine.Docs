@@ -2,7 +2,7 @@
 uid: api.d45e1bea8a3e39b91b18ed4ac6e8523086ebcd87540eb70e910adda75434ae45
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.SerializedRenderExtensionState.#ctor(System.Guid,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 5093765149dd77becbcdbbc02ac88e7f129dd7b00e829953bbe16995c79e4983
+reviewed: b9190a5f41d73eb266fe8689d2e7c0c8b12759e7dd87743fc999fa7258cc2323
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Assets]

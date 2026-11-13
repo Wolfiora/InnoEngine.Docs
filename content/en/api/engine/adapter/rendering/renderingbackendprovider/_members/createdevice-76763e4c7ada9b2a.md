@@ -2,7 +2,7 @@
 uid: api.76763e4c7ada9b2a80018377c69b659eafca191782172c38620c73c0107e8411
 symbol: "engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.RenderingBackendProvider.CreateDevice(Inno.Adapter.Rendering.RenderingBackendOptions)"
 source: xml
-reviewed: 7b571a530ea0204ba709cfda2fa0d73a1b49909a50eb5efeb6822363b10bf1d6
+reviewed: ffdbda92f46d68f44c39cf3521a4fdf6514c5b656542a28bff3bca15319dc69a
 title: "CreateDevice"
 kind: api
 owners: [Inno.Adapter.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.d9a5c3dbaaf1d329
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Vector3Int"
 source: xml
-reviewed: 3f49d1a78d3094186b7d6d052b9cac4af3e405c94dc927530f9513a524a9d5d2
+reviewed: 7fa994133b425b44b17ea45b5cefed423372daad7c4e27e703b1a62e99b974dd
 title: "Vector3Int"
 kind: api
 owners: [Inno.Core.Mathematics]

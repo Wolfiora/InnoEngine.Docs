@@ -2,7 +2,7 @@
 uid: api.336cb54bbef260a27cdbcdd2f7099ae4dc27e94029f1c06267f71da629db58c4
 symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderPropertyBindingOwner.RenderPass"
 source: xml
-reviewed: 9c28091ad9646606eaeab24d85613d2e9d09a2d138aa3ac62b5e029f9a385a68
+reviewed: fff7161e07839aa6cddd7d9482f06ebf35ff4f5e9428bd345563744147b1fb19
 title: "RenderPass"
 kind: api
 owners: [Inno.Rendering.Assets]

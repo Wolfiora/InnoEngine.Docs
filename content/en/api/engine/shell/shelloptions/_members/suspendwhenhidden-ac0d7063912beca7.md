@@ -2,7 +2,7 @@
 uid: api.ac0d7063912beca7bccaa6343d6c24b17a75f9e03ec75a877fa41eeacfdc95ba
 symbol: "engine:Inno.Shell:P:Inno.Shell.ShellOptions.suspendWhenHidden"
 source: xml
-reviewed: 0e5b9d70d6c0d3fb29e048fe21b54d41b67c5b35a0734f438a0e9e376d488852
+reviewed: 0b0e04a64774ea524300ed2c4bf6875ff0cc0fe047413597f39fae832b484d4e
 title: "suspendWhenHidden"
 kind: api
 owners: [Inno.Shell]

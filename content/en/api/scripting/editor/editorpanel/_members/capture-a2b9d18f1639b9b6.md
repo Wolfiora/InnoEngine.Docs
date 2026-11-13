@@ -2,7 +2,7 @@
 uid: api.a2b9d18f1639b9b6c0c0cd17d6fcc63896eb4912e5786449fb697f60d6366e5a
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Capture(InnoEditor.Core.EditorState)"
 source: xml
-reviewed: fd6d5e076072887b73c6ae356a50269398b07ad74507d8d708d2712bf7dff071
+reviewed: 994800e4e0b9af42a598d09b45f0f070b9933fdafc75d8ee3e224d78860dfbf7
 title: "Capture"
 kind: api
 owners: [Inno.Editor.Core]

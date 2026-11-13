@@ -2,7 +2,7 @@
 uid: api.250ffc9cab036f67d7fa651a484ad00317c25e875733f6b8e26333ae5674476c
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPipelineExtensionAttribute.#ctor(System.String)"
 source: xml
-reviewed: 14de2cc6a58c0156753095d9c3084993c12e9f74ec128ab51a50aba8befe2b49
+reviewed: 86293766d646f4eafb301405b958158e41dec65ee7f155371827e062a9c389fe
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

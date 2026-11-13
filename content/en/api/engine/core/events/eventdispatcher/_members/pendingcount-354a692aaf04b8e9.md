@@ -2,7 +2,7 @@
 uid: api.354a692aaf04b8e9da5e9d8c1e046f6f47f321540b17a9df8eb31e36394f5956
 symbol: "engine:Inno.Core.Events:P:Inno.Core.Events.EventDispatcher.pendingCount"
 source: xml
-reviewed: d2d98639ae1b7ab4de414c3df41290e962a7977de7d9feaa605b69a64f528f97
+reviewed: b3a9025bbbf964703251055007f417eabb205211f94814c568c35ea4b4793f85
 title: "pendingCount"
 kind: api
 owners: [Inno.Core.Events]

@@ -2,7 +2,7 @@
 uid: api.inno.input.runtime-script.5f26422922a4406f
 symbol: "scripting:Inno.Input:T:InnoEngine.Input.IInputService"
 source: xml
-reviewed: f5748c863aeac02d54177730947c95e5b9c9c18e5fb3968f92f3b641f6ce59f2
+reviewed: 51c959a6205d2ef120c5bb29f90b34a2a4aa4a5819d5386bfc474c0eefd63070
 title: "IInputService"
 kind: api
 owners: [Inno.Input]

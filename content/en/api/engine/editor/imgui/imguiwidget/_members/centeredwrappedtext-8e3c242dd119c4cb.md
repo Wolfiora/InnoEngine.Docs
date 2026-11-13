@@ -2,7 +2,7 @@
 uid: api.8e3c242dd119c4cb3c895bbd0dc99ee0b817b678ff9a391c98a97a1f99e472d5
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CenteredWrappedText(System.String,System.Numerics.Vector2,System.Numerics.Vector2)"
 source: xml
-reviewed: 14257286c4e9a70c53a77de7d0369cfad6f4969b40308565bd438aa9e7535904
+reviewed: a0d6acf78857ddc8d18331f53811b067d710006645fab8e551873bea21ddfd53
 title: "CenteredWrappedText"
 kind: api
 owners: [Inno.Editor.ImGui]

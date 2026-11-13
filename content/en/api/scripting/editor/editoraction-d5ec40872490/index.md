@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.d6c3e70e7c827552
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction"
 source: xml
-reviewed: 92e541dbf48654866a538008ac37d7c6d01d7f069347b1b7252ac91b9bb0fd75
+reviewed: 17e84623c1e494999812b960d7756f4c84f5e72309fbc6b7c819faca0e5b35a5
 title: "EditorAction"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.2813f5a978eba3a136e9a505ef0dd9e603f26638d5b5ce0aafa9b22b21b45beb
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.RenameScene(Inno.Scene.GameScene,System.String,System.String)"
 source: xml
-reviewed: 9238eb544cc38cb3e1397cd762a20807bcc5f1e3050b7f9af2fba5741da614ce
+reviewed: 47abef8d06411abe7187e58cbbf08f3008b3253489e226f7e059a3fea51f0d33
 title: "RenameScene"
 kind: api
 owners: [Inno.Editor.Scene]

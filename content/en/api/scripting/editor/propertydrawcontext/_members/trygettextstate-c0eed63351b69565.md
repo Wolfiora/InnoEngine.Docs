@@ -2,7 +2,7 @@
 uid: api.c0eed63351b6956566bb57a806f9650e150f60dad051cc1008d0a3127251c0ea
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.TryGetTextState(System.String,System.String@)"
 source: xml
-reviewed: 19a3b3e35deb070a552ee4bb19863051ff775fe2d4bdeed3236b0707a7c278f1
+reviewed: 98c08a49f8d038a858445948ab1f16e554b1e9ab3c7a5708b10fc5286dd54c51
 title: "TryGetTextState"
 kind: api
 owners: [Inno.Editor.Inspection]

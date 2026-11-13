@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.2103c4fb0f7019bf
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawerRegistry"
 source: xml
-reviewed: ce1825c2305c3a922c6e4d3708066910e35f7fa7535a37a6451f4e1338027557
+reviewed: 258b04e65d064dfd46ac7593eb97e75a180a1972a921ac3d20baa44ca6bc229f
 title: "InspectionDrawerRegistry"
 kind: api
 owners: [Inno.Editor.Inspection]

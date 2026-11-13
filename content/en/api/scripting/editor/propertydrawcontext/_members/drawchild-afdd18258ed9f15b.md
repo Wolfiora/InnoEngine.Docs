@@ -2,7 +2,7 @@
 uid: api.afdd18258ed9f15b7b880dc703fae3236f821d16b9a59fc7368d5bfc0032f130
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.DrawChild(InnoEngine.Serialization.SerializedProperty)"
 source: xml
-reviewed: a01323edd66c59e95bb0e8331463161c74a5b6a55a9fb205dc159422f10a72db
+reviewed: 53479f47e8a2d99b2a6a56152e51501e8dd7acbd35c88b40f052829b6243124e
 title: "DrawChild"
 kind: api
 owners: [Inno.Editor.Inspection]

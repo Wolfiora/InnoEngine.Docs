@@ -2,7 +2,7 @@
 uid: api.be1f733adb226a28bdf4035e5f635588600236486018155f41e068a32b46b0ae
 symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.HeaderAttribute.#ctor(System.String,System.String)"
 source: xml
-reviewed: a35e67ec74cb327a04dd4923476c52a5bafbbee282bd8c5c365a28142356abff
+reviewed: e5064254461693daed19391104a26fe5e5c9778df59d775d578e43f6490dd0d3
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Annotations]

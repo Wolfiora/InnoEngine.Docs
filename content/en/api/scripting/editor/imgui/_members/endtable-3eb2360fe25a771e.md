@@ -2,7 +2,7 @@
 uid: api.3eb2360fe25a771e5485a508a43523dfbc9391cfdefcd8f1e94218dc90054bdc
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndTable"
 source: xml
-reviewed: a4eb414f1476af8ef4a21fb31bce4aa3afc21444e52bf718a39b2b9791125343
+reviewed: 74fe2f9021f9753a432c40ca3309bc78a1f350d62a975cce3993e9c6c43cc9fe
 title: "EndTable"
 kind: api
 owners: [Inno.Editor.ImGui]

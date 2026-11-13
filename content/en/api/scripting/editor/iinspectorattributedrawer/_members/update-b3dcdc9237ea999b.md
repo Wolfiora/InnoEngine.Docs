@@ -2,7 +2,7 @@
 uid: api.b3dcdc9237ea999b59e664d4ad55c01d90fad1563de0c76071ee7ccfabb96362
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.IInspectorAttributeDrawer.Update(InnoEditor.Inspection.InspectorAttributeDrawContext)"
 source: xml
-reviewed: a2b01e6a694aa9c34dc8fb7431c717652d4a25d20dc2075df9966c7b685988c6
+reviewed: ddd938f1153edb3a138aecf308b4c871e5e1390816f2889a40d04e703345f3d0
 title: "Update"
 kind: api
 owners: [Inno.Editor.Inspection]

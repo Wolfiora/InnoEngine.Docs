@@ -2,7 +2,7 @@
 uid: api.5986170147017029ae2eb6d30edc40942e14bd0163adc8501c6be4fc12b680be
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportContribution.manipulationSpace"
 source: xml
-reviewed: e93573b3456252c66c985a1a38cbcb1c76f379b21acde09f5d6669e5aa7d0acc
+reviewed: 8159c95d9cca478426452bb52d9406ea202f7c4dd1949a8346331c9d9fc2e575
 title: "manipulationSpace"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.adb9b23cf60375cdeb22589ebc75c5deefbb81e53081895b95ea7ee4233402b7
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiVertex.Equals(System.Object)"
 source: xml
-reviewed: 61e3c37bf84b22782cc7a8c6a272e6b4c0cae0aa950ed0176cecab614ce95e90
+reviewed: f9df0d7c562a01cd9b43082e537064d4060e8116d9d8c53073fc01f91ac63470
 title: "Equals"
 kind: api
 owners: [Inno.UI]

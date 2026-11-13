@@ -2,7 +2,7 @@
 uid: api.5d47d90bb8ddf4e449ad88a1a552e86d9587d3886cf7742eac72542778b3e81e
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.ArtifactLease.ReadAllBytes"
 source: xml
-reviewed: b24f8b355ac7cd97918be213d08d409519cc9068d3e488e54774dd6a3cb7292e
+reviewed: 57c31662e8407ead6063f54d1e55fae30c3d2971b14ec2fdfffba851d4551b1b
 title: "ReadAllBytes"
 kind: api
 owners: [Inno.Assets]

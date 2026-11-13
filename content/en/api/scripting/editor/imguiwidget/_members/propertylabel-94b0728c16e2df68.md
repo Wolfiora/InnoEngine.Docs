@@ -2,7 +2,7 @@
 uid: api.94b0728c16e2df685da430e5c76f7e998180971bc0352366bfb8c1de44a8ee9c
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PropertyLabel(System.String,System.String)"
 source: xml
-reviewed: aac82dc37511752ddf4f69f3eaa16d0a331eaeed6a626994116ddf3c08787d4b
+reviewed: d879977b9c5823b84df55338062c64b9491a183ee4ab781564c915a05762eab2
 title: "PropertyLabel"
 kind: api
 owners: [Inno.Editor.ImGui]

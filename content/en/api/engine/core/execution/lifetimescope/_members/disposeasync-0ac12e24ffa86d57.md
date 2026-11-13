@@ -2,7 +2,7 @@
 uid: api.0ac12e24ffa86d572ac2b94a85728408264e8ae92c4cd8a22b6f29138a72f319
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.DisposeAsync"
 source: xml
-reviewed: 5e70905d3e2daedb4f0a134a6e59c07c3ef993fa1638a8f1d2ec332a6edc6697
+reviewed: da107e393ab7dc04c8ec9654d850972b852e788494315482e8cbdf4f6dd45a43
 title: "DisposeAsync"
 kind: api
 owners: [Inno.Core.Execution]

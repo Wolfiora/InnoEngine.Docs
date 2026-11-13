@@ -2,7 +2,7 @@
 uid: api.inno.audio.9e4fc986f1ff8167
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioDeviceLimits"
 source: xml
-reviewed: 5c399ed8801663623cc7f76c55025783a87fe7ce6d7a348c162b640323c24e69
+reviewed: 8932d4565464cb4c2e87705ad870ed10299870195482ae0451f9e146a0038174
 title: "AudioDeviceLimits"
 kind: api
 owners: [Inno.Audio]

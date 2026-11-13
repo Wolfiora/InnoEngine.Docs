@@ -2,7 +2,7 @@
 uid: api.a29162d5c7f7ed019bf4adb9001ac7225f52e2495780d250838d5d17d0c0e3e2
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.TryRead\u0060\u00601(System.String,\u0060\u00600@)"
 source: xml
-reviewed: 32c981fd9b1b12734cd9bc9f1c5b8d1ab2348a010fe82dd42475d17abe8e4e7b
+reviewed: 14a67b78e62f665bde848a2f188aa68c282c52fbbb7e155eadf32b8a06ab4135
 title: "TryRead"
 kind: api
 owners: [Inno.Core.Serialization]

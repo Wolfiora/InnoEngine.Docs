@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.5e96eba2f1c6f404
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderFrameStatistics"
 source: xml
-reviewed: 177489db2abd70e882408b50a0d80abec91b3ea2bd046ac797d68bb8f130e61b
+reviewed: 5b3296310fa49d5efe5512cb6c341c1da1618099e6a94f5c3f7a5ee5efd84093
 title: "RenderFrameStatistics"
 kind: api
 owners: [Inno.Rendering.Runtime]

@@ -2,7 +2,7 @@
 uid: api.7b3a9b54d8bd95c8edbca1deae070728cf873d5da205f7fdff2106f962c19731
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceNodeDefinition.GetPorts(InnoEngine.Graphs.GraphNodeRecord)"
 source: xml
-reviewed: 7fe5ded410e207bf9d3e1a06b9b3e21029912badaf065437a9f586c4ad29f5f4
+reviewed: f2a2d6048a3f040f824e8513fc80bfcf2c4caa23940c4bbf0d3ef4246a74312b
 title: "GetPorts"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.player.runtime.f7777778712605ce
 symbol: "engine:Inno.Player.Runtime:T:Inno.Player.Runtime.PlayerLaunchOptions"
 source: xml
-reviewed: c6cbb5cdb7a9f7bb7e41482d10993261579e69285d6cf22419434b44297297d0
+reviewed: c7c18994b7b9e8406c3181dcc6c493caa595941501418b50067062efaa8a7466
 title: "PlayerLaunchOptions"
 kind: api
 owners: [Inno.Player.Runtime]

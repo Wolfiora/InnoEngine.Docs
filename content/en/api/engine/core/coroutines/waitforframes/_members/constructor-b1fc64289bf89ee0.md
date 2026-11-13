@@ -2,7 +2,7 @@
 uid: api.b1fc64289bf89ee0b73842beae4de14f3338d0eb9d53d1f5c4ab0a1f8c9a264e
 symbol: "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForFrames.#ctor(System.Int32)"
 source: xml
-reviewed: aad514c49c98b6ef39b1512ad13ee62a9c2cc8a1a7fd719b154b2da8db355f0a
+reviewed: d3d265c60057956bb8ad6e13496a0c0598b4c96d93a9d5759e311a95cd2b25c1
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Coroutines]

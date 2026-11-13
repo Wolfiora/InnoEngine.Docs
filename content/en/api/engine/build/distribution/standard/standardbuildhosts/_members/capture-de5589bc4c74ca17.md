@@ -2,7 +2,7 @@
 uid: api.de5589bc4c74ca17ab6a3f1b905b0b91ec22cbf0d66a53f6e9deb13cfed24d5f
 symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildHosts.Capture"
 source: xml
-reviewed: 39258f5fecd2add500f7c6d30d8da8f3d65f84d3688b0f56618ff180cd758f05
+reviewed: 377bef5d956966233e4159519d0a85f7ac765ce8a2bfba071d7b1e01ce43ad2a
 title: "Capture"
 kind: api
 owners: [Inno.Build.Distribution.Standard]

@@ -2,7 +2,7 @@
 uid: api.inno.references.c09fea0ea84a0817
 symbol: "engine:Inno.References:T:Inno.References.ReferenceRecoveryChange"
 source: xml
-reviewed: dc900591d04d76c01c84848749c0b4749ba57ecd1bb4548bcc7f23bf9a1bf60d
+reviewed: 8c93ca3b87d65f308799fc2aae4e1ccf0d0b55b50530a6f87676df20dac4dbde
 title: "ReferenceRecoveryChange"
 kind: api
 owners: [Inno.References]

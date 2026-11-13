@@ -2,7 +2,7 @@
 uid: api.583631ded42d3bb9f5fa51dbd496221b685b44f3775922f3263e564958553bdb
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RequireComponentOptions(Inno.Build.Toolchains.NativeComponentDescriptor)"
 source: xml
-reviewed: 41acc15107d2f4a25b3dee290bee74b551d7e3811bae2cc09612fef68ecf53c4
+reviewed: 53bbbcbc07f7abd1a3eb48c13685341cf5b4410a78c5d8b07d2dbe62b49834e7
 title: "RequireComponentOptions"
 kind: api
 owners: [Inno.Build.Toolchains]

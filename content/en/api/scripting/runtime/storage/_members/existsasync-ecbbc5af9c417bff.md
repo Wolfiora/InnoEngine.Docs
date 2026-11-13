@@ -2,7 +2,7 @@
 uid: api.ecbbc5af9c417bff340003a33bffda2e3379e4295ea1658cfdd0a48baee43f94
 symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.Storage.ExistsAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)"
 source: xml
-reviewed: f5d65da0c7539dafe93edbea1f1604a318600cf82d2469ad50415d3435a7103b
+reviewed: f9e47f6301f00b72f212d1bdc6eee14335994607f72d79abf16db09dd214325b
 title: "ExistsAsync"
 kind: api
 owners: [Inno.Storage]

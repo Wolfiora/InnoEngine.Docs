@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.e90643b0fec5ca6d
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBindingId"
 source: xml
-reviewed: 12fc6bad24fa4bee8b404e51ca35ef58caeb9e63b60681d0c7e679238260b563
+reviewed: 5f833807e5727cf7a4bd270297d1ccc8158fc1c1ec6f8859cd1c74bb9ff4af49
 title: "RenderBindingId"
 kind: api
 owners: [Inno.Rendering]

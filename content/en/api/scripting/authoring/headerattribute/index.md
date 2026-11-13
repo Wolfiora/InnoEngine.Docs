@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.b3f6323c5079f412
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.HeaderAttribute"
 source: xml
-reviewed: d25f9aa96c2fd151d69238dc01d7eaacd889e350a6bca59a381129921449c1ec
+reviewed: 3053c182c57e259e31bdeb54160c5ec42d6584e4c9918f879a331106052df50f
 title: "HeaderAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

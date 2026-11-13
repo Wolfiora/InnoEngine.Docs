@@ -2,7 +2,7 @@
 uid: api.dbacf0b9cf03a7e907d6015f72fad6c3253eae04d936a28c28d51f4c99e0c077
 symbol: "engine:Inno.Core.Diagnostics:E:Inno.Core.Diagnostics.DiagnosticHub.sinkFailed"
 source: xml
-reviewed: 8ebd55b7b4e843c96294b0f12035bc3ce39dff6b55fc674ffbb1003b7a8365e2
+reviewed: 8a371f751eecd9613bb3b9c96964785dd9c6600052622ff1d00dbafb7feebc31
 title: "sinkFailed"
 kind: api
 owners: [Inno.Core.Diagnostics]

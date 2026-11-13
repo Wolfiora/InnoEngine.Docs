@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.44dbca6a6d1fe606
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphNodeSettings"
 source: xml
-reviewed: 515b8dd32518cec94dd581b03ae4761ef50e218cb90c2c0db6e0b4d986142b4c
+reviewed: 5fa9699dbac3cefc56b00eef4b504fe80323f46b51cdb457c386c2bb47b3c387
 title: "ShaderGraphNodeSettings"
 kind: api
 owners: [Inno.Rendering.Shaders]

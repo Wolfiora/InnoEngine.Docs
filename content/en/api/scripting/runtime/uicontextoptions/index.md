@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.20d2cb979e60317d
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiContextOptions"
 source: xml
-reviewed: e1ab6f76a2388121d072949fea5b12c7f4b205e0dec40ce8d38131fd714c9b81
+reviewed: 3a132e7b3ef7028f9f46029baa48475bce95593cc4ada00cc89eb7f195c0430b
 title: "UiContextOptions"
 kind: api
 owners: [Inno.UI]

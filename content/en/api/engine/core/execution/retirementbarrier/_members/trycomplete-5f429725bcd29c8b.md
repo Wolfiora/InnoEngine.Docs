@@ -2,7 +2,7 @@
 uid: api.5f429725bcd29c8b3c53b7e024e1d3b35d83b7059bcee8bf0c790174dcc3fa4a
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.TryComplete(System.Action)"
 source: xml
-reviewed: b3273806c149fe544c69ae4d748562b4bb50679e2e089d02a24b64b43384020c
+reviewed: 7fa1ddaed9a72078bc7059777184dca2d6d43ada0112fb4c293ec06581f53d8d
 title: "TryComplete"
 kind: api
 owners: [Inno.Core.Execution]

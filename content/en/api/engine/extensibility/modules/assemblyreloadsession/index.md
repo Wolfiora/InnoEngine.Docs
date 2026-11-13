@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.928c369d945233ee
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.AssemblyReloadSession"
 source: xml
-reviewed: c05827aefab460dec77a8d856b201d6c92da3264f1c18a608304d829f0e8752b
+reviewed: e3cd8d14782004059e1a86588e0b823b342880711f424d540db490eb6ba1aecb
 title: "AssemblyReloadSession"
 kind: api
 owners: [Inno.Extensibility.Modules]

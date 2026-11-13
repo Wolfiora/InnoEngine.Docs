@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.d112aa393ca69f72
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildProcessor\u00601"
 source: xml
-reviewed: 1d0def6c847f055792ee88b8d64d9c3319d60b37317d17cd91273367aeb21d1f
+reviewed: 0fece2f10548623495abace46e30fb8e6cf3c8469e0445d30c62c127241424b5
 title: "AssetBuildProcessor"
 kind: api
 owners: [Inno.Assets.Pipeline]

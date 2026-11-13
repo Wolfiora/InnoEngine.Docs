@@ -51,6 +51,6 @@ public static class ValidationExample
 
 ## Source boundary
 
-[Browse the command API](../../api/engine/tooling/validation/index.md).
+[documentation tooling workflow](../../contributing/documentation-queries.md).
 
 [The source project](https://github.com/Wolfiora/InnoEngine/blob/022c4917f784020905c41e09c524420e0c22d3d9/tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj) defines the selected host declarations. Script projection and platform execution require their separate evidence.

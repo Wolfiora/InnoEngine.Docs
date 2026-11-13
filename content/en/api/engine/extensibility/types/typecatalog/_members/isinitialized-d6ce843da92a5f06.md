@@ -2,7 +2,7 @@
 uid: api.d6ce843da92a5f06d3bd70848d2146193c8679350507052c12fd96a2c1a18084
 symbol: "engine:Inno.Extensibility.Types:P:Inno.Extensibility.Types.TypeCatalog.isInitialized"
 source: xml
-reviewed: eb8627c02ac87bd41399b9bbb220e995492a2fcaacd9928b2e1163e39f1e2066
+reviewed: 81b64eee0da99ec8e714de1e15f5a03c972a3397786c6ca256df0600103090a7
 title: "isInitialized"
 kind: api
 owners: [Inno.Extensibility.Types]

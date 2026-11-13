@@ -2,7 +2,7 @@
 uid: api.0f63a277016459b8fd9e311213e214d12e839edb741b0e8651f892e77a65d3a2
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.RemoveMetadata(System.String)"
 source: xml
-reviewed: a29e6bc77bffafb01cf8df32412413bbabb2769d913614e12aaa17b909b800e5
+reviewed: 9d70c5c2ab49a0cd228f0a2afb909a98ebef133ebd936cb45f4fd9ec13e02efe
 title: "RemoveMetadata"
 kind: api
 owners: [Inno.Rendering.Assets]

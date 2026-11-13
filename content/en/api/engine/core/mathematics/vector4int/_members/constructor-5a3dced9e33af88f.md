@@ -2,7 +2,7 @@
 uid: api.5a3dced9e33af88f40fc3d11986d8ca0423c9d242dec168d756bd9b8558c3b8f
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: 5cdd72e6828b2a6f04a0e63504ef6e694267e990766accee961fceb88ef3690b
+reviewed: aa2c1963a0608ff1068019b6cad32f21caccd370d93cd16c169bab87e3cc81e7
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Mathematics]

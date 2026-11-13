@@ -2,7 +2,7 @@
 uid: api.inno.audio.3a5bdcea295d1b52
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioVoiceParameters"
 source: xml
-reviewed: d80989b58989fcb8dcf664f172251574991bcd016bc9bd4c382071df7df37a86
+reviewed: ce5ab5395197473ab78c1d6889e85da65446d4abb455a393aa1098b9b97c7fed
 title: "AudioVoiceParameters"
 kind: api
 owners: [Inno.Audio]

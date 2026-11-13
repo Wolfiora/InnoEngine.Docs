@@ -2,7 +2,7 @@
 uid: api.e6b0c283083f267b2102ae288552f801d8dc8e89ffe1f1efae9f870361d34c6b
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.CreateScene(System.String)"
 source: xml
-reviewed: c9e7d33f95ec165f76a05bffdbc57452b23d0c723d5f830c95a398072565e233
+reviewed: 62d9bbbf915be1075626363ddf604ba27e1bdddd614aea09cd9756767ead7e27
 title: "CreateScene"
 kind: api
 owners: [Inno.Editor.Scene]

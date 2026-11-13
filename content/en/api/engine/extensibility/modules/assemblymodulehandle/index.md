@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.f76db355c5f2f3b8
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.AssemblyModuleHandle"
 source: xml
-reviewed: 619e0846391886ec04eb74ef8ee63a921d5b80ea99caaf82b4aa9458358ea30a
+reviewed: 04f7a0764fd6f062202db19f1783d447d013806c8eb3d26914220c3ca441d589
 title: "AssemblyModuleHandle"
 kind: api
 owners: [Inno.Extensibility.Modules]

@@ -2,7 +2,7 @@
 uid: api.a5d25c498aa764bb21b4ebb48c46107183c29bfe1e4102d94dbfaeee033f4824
 symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.Identity.Resolve\u0060\u00601"
 source: xml
-reviewed: 10a3db146b042cd07d92fd2c2eb57440068d7e3e2de2f091755f0290ff223a21
+reviewed: 6105c26db2e075324bca22d286ac4ab236feacc535afd96c40f269ca4a8a9d5c
 title: "Resolve"
 kind: api
 owners: [Inno.Core.Identity]

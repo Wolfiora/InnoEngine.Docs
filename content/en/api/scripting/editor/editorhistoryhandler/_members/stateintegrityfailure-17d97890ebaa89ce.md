@@ -2,7 +2,7 @@
 uid: api.17d97890ebaa89cec13ad9c099d9ad3fd3f339cc1a4f02cde5e9c8b34f769f3e
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.StateIntegrityFailure(System.String)"
 source: xml
-reviewed: d9a12bf5857542c5c679ee0d85a6509f79ca7ada866e7a8498e088209552f9ff
+reviewed: 3294dfff20cb0c9ef9eac66b50d9a0a734d44f70e11a3ff11befaf41ee468795
 title: "StateIntegrityFailure"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.e0cadfeee1ac6c183c3a5b1aaf1d6ced57bbf30785d14379ea83550d2f71e1dd
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.TryResolveGraphicsMaterial(Inno.Rendering.Assets.MaterialAsset,Inno.Rendering.Assets.ShaderContractId,Inno.Rendering.Assets.ShaderPassRoleId,Inno.Rendering.RenderVertexLayout,Inno.Rendering.Assets.MaterialPropertyBlock,Inno.Rendering.Runtime.RenderMaterialPass@)"
 source: xml
-reviewed: 0f5f0ca3420134c9b029e572e51a8dfff7b874814a7d86ae0aab58cdcfb3d434
+reviewed: a6221f823c7f8880cf32ea1c479fac51592dbbb783de3a9cea293ef6d14b2194
 title: "TryResolveGraphicsMaterial"
 kind: api
 owners: [Inno.Rendering.Runtime]

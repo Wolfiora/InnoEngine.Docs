@@ -2,7 +2,7 @@
 uid: api.1871cd6e37a65e454fa905e3645f3905fbdfdc245cd77a3f520a0cb9a1f52e9e
 symbol: "engine:Inno.Adapter.Platform:P:Inno.Adapter.Platform.PlatformNativeHandles.displayHandle"
 source: xml
-reviewed: 404310fac87ae28ffe0781b468dd47d950ef5130384e4a1e367eed725b3ceff2
+reviewed: b8727db06a656e9e812c7512eec07c77d511cac69aa972830a5e7f1c6b651176
 title: "displayHandle"
 kind: api
 owners: [Inno.Adapter.Platform]

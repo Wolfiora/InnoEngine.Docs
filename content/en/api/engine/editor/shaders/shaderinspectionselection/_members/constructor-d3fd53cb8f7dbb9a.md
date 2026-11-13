@@ -2,7 +2,7 @@
 uid: api.d3fd53cb8f7dbb9a51e504307eb4947be4971e92d2739748bb1cb5f24f139645
 symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderInspectionSelection.#ctor(System.Guid,System.Collections.Generic.IEnumerable{Inno.Core.Graphs.GraphNodeId})"
 source: xml
-reviewed: 4389d6950ed1fc51f0ca4d1ffb12b233e866cf85b2988482a1e1a0f7c5ebac76
+reviewed: a9481b84d5ca50bddb0607ac66adf74ef1f370dcc8a68d4c3e23403a3acf9def
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Shaders]

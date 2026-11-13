@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.331cdc9c644283e3
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TreeNodeOptions"
 source: xml
-reviewed: c54abfa1050be81da7b42068cd35c2376447511869eb8630118a9c595ddf4de6
+reviewed: e0bf73bc6bc4b1d334cc8f700ec60a6ba4109d61c192d117936cf5cf663057ef
 title: "TreeNodeOptions"
 kind: api
 owners: [Inno.Editor.ImGui]

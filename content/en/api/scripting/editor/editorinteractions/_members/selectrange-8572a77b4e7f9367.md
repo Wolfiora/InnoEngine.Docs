@@ -2,7 +2,7 @@
 uid: api.8572a77b4e7f9367161f21e32a031416d98529faf1da71dd2350a73d01180476
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.SelectRange(System.Collections.Generic.IReadOnlyList{InnoEngine.Core.RuntimeIdentity},InnoEngine.Core.IdentityObject,System.Boolean)"
 source: xml
-reviewed: d21101d12a438b8d73860b8d94401154970ea8e6a350987b8f9d6d97950c06e7
+reviewed: cb962d9638c608937b7a6649386f608bf628ed11d83e096200c9dc89c7813686
 title: "SelectRange"
 kind: api
 owners: [Inno.Editor.Interactions]

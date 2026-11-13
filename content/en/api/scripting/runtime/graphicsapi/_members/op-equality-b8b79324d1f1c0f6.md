@@ -2,7 +2,7 @@
 uid: api.b8b79324d1f1c0f6f53840b1655c1d4200cbc3dc45a677b6968b061d7157ca38
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsApi.op_Equality(InnoEngine.Rendering.GraphicsApi,InnoEngine.Rendering.GraphicsApi)"
 source: xml
-reviewed: f492dfa39eebdaabdfbc33550fdd44a7846c22c6b77ff1dbc41167b0d2657e37
+reviewed: 15ae8598e794742fb2f85f91817553693974a37f46430e70fe49350d2782c198
 title: "op_Equality"
 kind: api
 owners: [Inno.Rendering]

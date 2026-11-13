@@ -2,7 +2,7 @@
 uid: api.de8fc479cc95521ce292e264fa4135165c13c8565d31c6b0c482cee4196eae56
 symbol: "engine:Inno.Runtime.Contracts:F:Inno.Runtime.Contracts.RuntimeSubsystemLifetime.Session"
 source: xml
-reviewed: f76fe60dc090a1a2fb8603094312104dd3f6c54fea48abda14d12642f23be9ba
+reviewed: 9e339e86fab494ce1c0a1b7290fc4ec045d9e457746ca8430d2794efdbb9e139
 title: "Session"
 kind: api
 owners: [Inno.Runtime.Contracts]

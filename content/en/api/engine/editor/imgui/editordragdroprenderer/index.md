@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.8589ced528e84419
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorDragDropRenderer"
 source: xml
-reviewed: fc1cb33c04eb0542e5379047b844b6205eef604e0db0d46bdf640ad7dc694b1f
+reviewed: 2f0849a76d410decf3474f0393dc11f0e1802b6841c45c2516e64f9117e4a477
 title: "EditorDragDropRenderer"
 kind: api
 owners: [Inno.Editor.ImGui]

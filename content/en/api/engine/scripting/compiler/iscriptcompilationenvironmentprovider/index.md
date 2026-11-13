@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.11a38431c4b8ef97
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.IScriptCompilationEnvironmentProvider"
 source: xml
-reviewed: 22d913fe7731a13b4b05c5d4be723ca805c580f9aeb78e564264334c04d8be4e
+reviewed: f55310be992d795c534d644adc3a9245d44c77c05b220275f79a2df888a5c8a8
 title: "IScriptCompilationEnvironmentProvider"
 kind: api
 owners: [Inno.Scripting.Compiler]

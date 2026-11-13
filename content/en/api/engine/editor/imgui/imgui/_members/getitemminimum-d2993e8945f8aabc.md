@@ -2,7 +2,7 @@
 uid: api.d2993e8945f8aabc3239b720728e448ef00d442793bfcfb02b456b0ca1236dc2
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetItemMinimum"
 source: xml
-reviewed: 7c4273f0e20058847e012bab4e164864dec28db090093c1278b2c2ccf655d8a2
+reviewed: 0de559f620d7697d4c0735ad96fd0e9d29bcb3e428decdc58c35819b6e39cc5d
 title: "GetItemMinimum"
 kind: api
 owners: [Inno.Editor.ImGui]

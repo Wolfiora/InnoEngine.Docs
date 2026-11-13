@@ -2,7 +2,7 @@
 uid: api.2ed8ef475e46dc08ede269e85a1af2099760386c9740b30c4aa44c00ca09cafd
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.GetSceneIndex(Inno.Scene.GameScene)"
 source: xml
-reviewed: eb9528c9fd639fef03e7a3cfcc196c21c54fcaa270e6d378adac54c089fb1f16
+reviewed: aa0865054598a440bfe8b6282685f88dda8a6c23150c610d5e1c9293a65a17dd
 title: "GetSceneIndex"
 kind: api
 owners: [Inno.Scene]

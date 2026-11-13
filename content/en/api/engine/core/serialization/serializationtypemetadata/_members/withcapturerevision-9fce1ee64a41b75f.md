@@ -2,7 +2,7 @@
 uid: api.9fce1ee64a41b75f1de9ebc9163ee6580c8d36d1e5e86cb7007e564e64212abc
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationTypeMetadata.WithCaptureRevision(System.Func{System.Object,System.Nullable{System.UInt64}})"
 source: xml
-reviewed: a470557347d69edf34711dc7585fe3ef381ea3040d515c771e1a2fc5a74b2665
+reviewed: 55feeea5d9851b9572eb4e604a0fff420e821af2a9133871952e379d7faf7435
 title: "WithCaptureRevision"
 kind: api
 owners: [Inno.Core.Serialization]

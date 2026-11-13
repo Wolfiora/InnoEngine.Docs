@@ -2,7 +2,7 @@
 uid: api.dad567481cf2049f77dd3efe2c6161389f5618c29ba747e1e34558e3a5b1954b
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiComboFlags.HeightSmall"
 source: xml
-reviewed: f76cdb61535635828c542fc9001374f4a2992b68f5313eecafec571bcafa6462
+reviewed: 02569a5f668341685157dfeabc0ba5bc18f7d65655a5783705f27fa0c591c9b9
 title: "HeightSmall"
 kind: api
 owners: [Inno.Editor.ImGui]

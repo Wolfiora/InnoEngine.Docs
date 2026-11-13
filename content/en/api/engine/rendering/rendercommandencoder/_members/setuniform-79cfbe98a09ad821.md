@@ -2,7 +2,7 @@
 uid: api.79cfbe98a09ad821370547a0f3b6c42951f6b788af757ea627b2b35ce05dc006
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetUniform(Inno.Rendering.RenderBindingId,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: d4f9adf83a354facfa8f3ddf6633bb5b9df043fe32ffe00b4797f9aae71022d8
+reviewed: 35dbeb59d6d53459cfbb7a303e9f4727f6311ca03bfaa7da989ee2526bc3412d
 title: "SetUniform"
 kind: api
 owners: [Inno.Rendering]

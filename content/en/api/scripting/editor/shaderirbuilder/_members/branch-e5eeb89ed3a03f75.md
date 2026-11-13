@@ -2,7 +2,7 @@
 uid: api.e5eeb89ed3a03f753a6c2c4871785d28a3833c4dbda86fa742a6f89cfc2207c5
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Branch(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}},System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}})"
 source: xml
-reviewed: 12404ac7ae2cf7134ce1fa8380793d08dd3b0840c72508d071d62df16a2274a7
+reviewed: a574dcfb019fb27b08fa601351294aa5c1c35c0dfc22ff10f2fe5be9defc6e9b
 title: "Branch"
 kind: api
 owners: [Inno.Rendering.Shaders]

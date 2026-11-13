@@ -2,7 +2,7 @@
 uid: api.5bd5fef5380483ba6c1a0d78429e198861dcd95a6f2955e340d9b0c6f41812ca
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindBuffer(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.RenderBufferSlice)"
 source: xml
-reviewed: 42fc92dff57cde93993e35469302b32944b8a3a9a57ea22c542b4d93effd45ad
+reviewed: 172f7b325398cbc4e26af8d5262deb502a078c077949ee1aea3804e6787f2099
 title: "BindBuffer"
 kind: api
 owners: [Inno.Rendering]

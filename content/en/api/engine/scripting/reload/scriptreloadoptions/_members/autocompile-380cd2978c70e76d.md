@@ -2,7 +2,7 @@
 uid: api.380cd2978c70e76df87a107d9769eacc6c395f79f69a2e26b6fd211d92b9c1e1
 symbol: "engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadOptions.autoCompile"
 source: xml
-reviewed: d47b951d7453a21e2ac9038cf7248cef30f46c9181e7a24fae6047dabee65411
+reviewed: 9f06ac8b424523589f7abfbed8775d29169cfb3487cf5e15dd49287652d230a7
 title: "autoCompile"
 kind: api
 owners: [Inno.Scripting.Reload]

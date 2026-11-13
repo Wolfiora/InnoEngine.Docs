@@ -2,7 +2,7 @@
 uid: api.571e9f3b8b0593c9b38d06442efafbc22b48a2d5d497df2caf225efcf3732383
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.LoadDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentAsset)"
 source: xml
-reviewed: a52f299c5a537054ff645f14ac9dc8cfb0028f1872e3c07010049688a90fe2b3
+reviewed: 6a0f486254dadc85187d9be70a2675f77e875e3b4004c4d9dddf0eabec169aa1
 title: "LoadDocument"
 kind: api
 owners: [Inno.UI]

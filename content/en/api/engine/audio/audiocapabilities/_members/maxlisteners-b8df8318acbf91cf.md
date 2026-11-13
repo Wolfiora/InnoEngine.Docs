@@ -2,7 +2,7 @@
 uid: api.b8df8318acbf91cf2784215f09699b027aff85048eb9e42122807a446237aecb
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.maxListeners"
 source: xml
-reviewed: 364c2a8a66e42472cfce6fdddbb27aff30b4f3f8198ffa7260fc232d5021c7e6
+reviewed: ef921312c335e96baf83b3de091669d5a40ef0c72ae723fad36036ce30bbd705
 title: "maxListeners"
 kind: api
 owners: [Inno.Audio]

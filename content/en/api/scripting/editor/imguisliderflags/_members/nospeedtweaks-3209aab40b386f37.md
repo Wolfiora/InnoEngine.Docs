@@ -2,7 +2,7 @@
 uid: api.3209aab40b386f378834ca7b6eda5d5a0585697907b3a2896e0e259015f9dccb
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.NoSpeedTweaks"
 source: xml
-reviewed: 5353f0463e6eaa54b0df8c7169b52cb5b9a118cf0b4e3f32617b4dc558950f31
+reviewed: b8ff2c57965d8121c789ac407846b27f41396d63b6922159407068f7ab77000f
 title: "NoSpeedTweaks"
 kind: api
 owners: [Inno.Editor.ImGui]

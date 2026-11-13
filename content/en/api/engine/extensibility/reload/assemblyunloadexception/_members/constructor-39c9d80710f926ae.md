@@ -2,7 +2,7 @@
 uid: api.39c9d80710f926ae9f6c7b9562d7b8627da334fde7c5bf8b24b4a1309a317da5
 symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.AssemblyUnloadException.#ctor(System.Collections.Generic.IReadOnlyList{System.String},System.TimeSpan,System.Int32)"
 source: xml
-reviewed: f14bba721cd5b890acdbe3cef9111d3d265b49ff0544baf508c163897766f102
+reviewed: c4c50a6994e2b225ebfb7da8b5a431f5c12393a2ef1d65802126882c81bcd809
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Reload]

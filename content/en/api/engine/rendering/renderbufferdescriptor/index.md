@@ -2,7 +2,7 @@
 uid: api.inno.rendering.01559dee21a33a44
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderBufferDescriptor"
 source: xml
-reviewed: 32c179e8d95c9c49f46f6324d64b0e41e3c7ea55a7e11411cdf830a2932b8679
+reviewed: 2aca28c21b8b3eaddb6933ca2f6bb31c0db361271e767d066fd67e5176d9cc5d
 title: "RenderBufferDescriptor"
 kind: api
 owners: [Inno.Rendering]

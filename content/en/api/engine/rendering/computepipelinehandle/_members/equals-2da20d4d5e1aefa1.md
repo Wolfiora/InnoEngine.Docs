@@ -2,7 +2,7 @@
 uid: api.2da20d4d5e1aefa188d43a14d4052dd585a8efeb492311c81b049068d890841b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePipelineHandle.Equals(Inno.Rendering.ComputePipelineHandle)"
 source: xml
-reviewed: 945b16ad610351cb5581e750087f400044058625d0fafaee411be1f1869deb73
+reviewed: 3419750b4494c9c9730f94282cb29e8debaefcc1baf0978f29110177b22f1a19
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

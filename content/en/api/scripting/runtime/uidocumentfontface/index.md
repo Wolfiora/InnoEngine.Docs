@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.0e989392d00bc083
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDocumentFontFace"
 source: xml
-reviewed: fb7da83ce7d92fc7036d093b39ec345868daeadfebcefd3d2872f874d6079a26
+reviewed: e095b277584d37c5fa9cdab18e2539f00fc5ae298626fd5a730c30d93a549ad7
 title: "UiDocumentFontFace"
 kind: api
 owners: [Inno.UI]

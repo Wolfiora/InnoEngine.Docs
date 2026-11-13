@@ -2,7 +2,7 @@
 uid: api.545498f44baf6e5c3c6d90f34aaa4413928cb48ac5dbf416a6ea047299486580
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments\u00601.TryMergeHistory(Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange@)"
 source: xml
-reviewed: a85c8dc43007dad76681862f961889c63c0b1b6ad3284ee082434a8d0191ef2c
+reviewed: efcdf3b9687c2c47e3cbe61522eb06165e23813a141cd17db1ce91ec21fa7a10
 title: "TryMergeHistory"
 kind: api
 owners: [Inno.Editor.Assets]

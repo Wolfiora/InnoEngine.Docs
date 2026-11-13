@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.13e2f336b5619eb7
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderGraphDiagnostic"
 source: xml
-reviewed: 8d8fd5a5647c2d0546403c2e69d46341270d267c4861f6671031ee98a15de9e0
+reviewed: 6a392ab0b62cbf74987025d43574b4f4986fd6632cea5bc033b2e985237191c0
 title: "RenderGraphDiagnostic"
 kind: api
 owners: [Inno.Rendering]

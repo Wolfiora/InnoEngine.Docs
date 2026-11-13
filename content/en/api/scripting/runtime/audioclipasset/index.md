@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.ebefa3c3b006ef0a
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipAsset"
 source: xml
-reviewed: ded153a4fee04f1d0c8667aa7f1017feec91686ca330e875150db7e05631b909
+reviewed: 20f8ac6c5cf56b7e746ac4333404da0a625c75b05dfca849a8987883fd47de67
 title: "AudioClipAsset"
 kind: api
 owners: [Inno.Audio]

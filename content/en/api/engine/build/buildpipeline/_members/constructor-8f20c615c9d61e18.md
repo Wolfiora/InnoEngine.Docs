@@ -2,7 +2,7 @@
 uid: api.8f20c615c9d61e18663ecc3c15aecc5ac6d551042c3408b0b1e729b9d18bb61c
 symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Core.Settings.ProjectSettingsStore,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Reload.GenerationCoordinator,Inno.Scripting.Compiler.ScriptCompiler,System.String,System.Collections.Generic.IEnumerable{Inno.Build.GameBuildTargetBinding},Inno.Build.Managed.ManagedDeploymentCatalog,Inno.Build.IPlayerSupportPackProvisioner)"
 source: xml
-reviewed: a7251e6f829f891ff1e0ef7e04260997b5ec0bbe8dee818057589ed252c9ddb2
+reviewed: 9261b1a6922f11d1f898137042ebbc8e74dc44f05022acb100f3125d9467fb1e
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

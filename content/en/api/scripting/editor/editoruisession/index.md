@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.3451ec0f11577781
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorUiSession"
 source: xml
-reviewed: 20ec740c485f3b4a20f2170f49a71ba9901f380e4962c78a16675c52465721d3
+reviewed: cb74a338629a5c260e33d047372f904d484ebe0382966b5cb630bb9a24f5a699
 title: "EditorUiSession"
 kind: api
 owners: [Inno.Editor.ImGui]

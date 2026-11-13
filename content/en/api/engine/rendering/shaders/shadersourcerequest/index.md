@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.644f315c35719ee4
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceRequest"
 source: xml
-reviewed: 477329aa6f704f07eb0d787cd34df4625352aa125ebd001101e682254b308996
+reviewed: 04478f5847f4a16984aa523811cb83f73364a4f0a9d6def1e941e60d3ad39ab3
 title: "ShaderSourceRequest"
 kind: api
 owners: [Inno.Rendering.Shaders]

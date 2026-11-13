@@ -2,7 +2,7 @@
 uid: api.da443928bc650cb421b45ab92c0eb1a82133ffbe7c94f683b057d7a51e09a29d
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.ConsoleLogSink.#ctor(System.Boolean)"
 source: xml
-reviewed: 40dd3367a214ce99d8bb44316d727035d208b5e050f670b4469b8db2b674b733
+reviewed: 4e78a49c0a70d6e0850027310f54b2bf743315714b2087266923ca0678174da2
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Logging]

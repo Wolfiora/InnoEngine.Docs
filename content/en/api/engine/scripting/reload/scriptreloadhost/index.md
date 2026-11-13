@@ -2,7 +2,7 @@
 uid: api.inno.scripting.reload.d272da59695cbec1
 symbol: "engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadHost"
 source: xml
-reviewed: ae9bcb00ddd6da6da4ec749a07390a333720021d10d76f5336963da97eafbcb1
+reviewed: a6f1f3adcef3c80dea2dc5e7493b89201b78cfb3f6d92adfbb491ec7fbc60688
 title: "ScriptReloadHost"
 kind: api
 owners: [Inno.Scripting.Reload]

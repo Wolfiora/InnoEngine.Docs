@@ -2,7 +2,7 @@
 uid: api.9eb96fb49f77a2555208c3c0ba9d4b59fedeed6dc5762316feaef71f8b1d6b40
 symbol: "engine:Inno.Adapter.Rendering:P:Inno.Adapter.Rendering.RenderingBackendOptions.forceSingleThreaded"
 source: xml
-reviewed: 66d380f8299f8cb40d42f9b6c51a61d3816f469aae3253af0d2b144fbb520e65
+reviewed: 2ea42da93637b515b610a8219435a7a8fea92d9cf458067a73dbf15944879135
 title: "forceSingleThreaded"
 kind: api
 owners: [Inno.Adapter.Rendering]

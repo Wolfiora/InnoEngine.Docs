@@ -2,7 +2,7 @@
 uid: api.670b21f8dd317f8d1b9584389fed35fb79d886766859ff9c910462c4ba90f538
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.Union(InnoEngine.Mathematics.Rect,InnoEngine.Mathematics.Rect)"
 source: xml
-reviewed: de7fe422911512a40158ea5d71fabb17a64cfe0012e98cf4fba00b4e09666d1b
+reviewed: f31eecb769c75319ef03eba7fcb6f17a2395fcb2a50a3e79ca4910d7100993f3
 title: "Union"
 kind: api
 owners: [Inno.Core.Mathematics]

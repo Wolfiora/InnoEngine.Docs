@@ -2,7 +2,7 @@
 uid: api.9793b657aee8633e366d28f87aec2ebbd8345a1faafd3184c0f9bddbfc956c09
 symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.GetManagedDeployments(Inno.Build.BuildTargetId)"
 source: xml
-reviewed: 63e5cd5046430d6d6db7e961f5e7ef9ee22cd4d851ac9ac56df2e94dc5dc11f9
+reviewed: 71be791566f189db19009106fb4229ddb3ae4c0ca1c5f44b20ffc434fc216665
 title: "GetManagedDeployments"
 kind: api
 owners: [Inno.Build]

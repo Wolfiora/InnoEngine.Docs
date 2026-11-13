@@ -2,7 +2,7 @@
 uid: api.fef74b8ebf059b7ad738e70f670274c9d00695a98774ead3c06030cc375965ae
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateTranslation(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 8ae102eed7ebb22dec039e204ac53982c002aa899b43a001e2039a9566c3cd9a
+reviewed: b4d023a7829e18107c67601bed91e0b52de223b4a683112481ee25e780d161fe
 title: "CreateTranslation"
 kind: api
 owners: [Inno.Core.Mathematics]

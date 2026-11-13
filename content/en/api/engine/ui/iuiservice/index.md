@@ -2,7 +2,7 @@
 uid: api.inno.ui.bbd7db1ad0963475
 symbol: "engine:Inno.UI:T:Inno.UI.IUiService"
 source: xml
-reviewed: 0f58fa6ed66b1c0b590b95ed5d65b7f1c1392817628a9c1fe473d9ea2e459bef
+reviewed: d7cccc2b98f1597156f24dbeceed95508b61380eb6874648ad66fb996096dfbc
 title: "IUiService"
 kind: api
 owners: [Inno.UI]

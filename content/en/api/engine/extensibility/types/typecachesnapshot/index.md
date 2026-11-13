@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.839037fe9c97a082
 symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheSnapshot"
 source: xml
-reviewed: da9e5d375cb67a102842498aafc465a1d2d8d67dd7a7d7c8d7f8fbabb7395b13
+reviewed: 3e9503a08cd206dfa1f21f3d8d5039354de91f8acbeb520cad3be37cee21eb46
 title: "TypeCacheSnapshot"
 kind: api
 owners: [Inno.Extensibility.Types]

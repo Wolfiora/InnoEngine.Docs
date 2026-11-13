@@ -2,7 +2,7 @@
 uid: api.1dfa5f375770b68a332fd6623eb06934149c66dda2a7a6204ea52c2afa1603a7
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioService.Resume(Inno.Audio.AudioVoiceHandle)"
 source: xml
-reviewed: 6893609bbe01fe926adb5b9c2f71a6cb2ce0ad4343fd369cd4e154349f14b497
+reviewed: ca52c8255afaec644f3d38c242c0f19e27c0df35cf6ac498d1ec228ac4ed123b
 title: "Resume"
 kind: api
 owners: [Inno.Audio]

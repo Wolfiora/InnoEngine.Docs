@@ -2,7 +2,7 @@
 uid: api.inno.ui.1022bf3ae548f8a5
 symbol: "engine:Inno.UI:T:Inno.UI.UiTextureUpdate"
 source: xml
-reviewed: 2d3554ab29034b1bb8d0818829b631f2e9bb48efb48ff4aca1518d270127d82e
+reviewed: 252290ff66c10e97d56caf9548c64ee30f5ae36b1ae01e814258c6eb2ff8f596
 title: "UiTextureUpdate"
 kind: api
 owners: [Inno.UI]

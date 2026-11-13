@@ -2,7 +2,7 @@
 uid: api.5a55fd9c61718e149a72413afc29086b5322a91d97b8511c8202ae3bd841071c
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot\u00601.Suspend"
 source: xml
-reviewed: 11c0b5a86f8737a59ef235a79e3cfc63f30f1259b266c4f9a138ed03419952ce
+reviewed: d3ab72c82b23da315fde2adab5f82008e52b545b6b11aea227bfa9d016b6aabb
 title: "Suspend"
 kind: api
 owners: [Inno.Core.Execution]

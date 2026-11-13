@@ -2,7 +2,7 @@
 uid: api.59fbff069859e83139be9bd0e568a8aa3fc345393671e31978b34feeae3549f6
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindIndexBuffer(InnoEngine.Rendering.RenderBufferHandle,System.Int32)"
 source: xml
-reviewed: 9bb59c66424b854befc636422793ea1d75b0fe1045c9713a65fe1823dab60960
+reviewed: 8fa57e6bca1f36d5231198ec4a034e942b6cbd3f7099fd06c0dc7c3dd8e7d84e
 title: "BindIndexBuffer"
 kind: api
 owners: [Inno.Rendering]

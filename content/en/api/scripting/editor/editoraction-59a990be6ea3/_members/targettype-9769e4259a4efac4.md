@@ -2,7 +2,7 @@
 uid: api.9769e4259a4efac4a620b3ac6ce75cb334a1dc6633f44cd85c97c1c85205439e
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorAction\u00602.targetType"
 source: xml
-reviewed: 8a39dfcfcb8e7f77f50dbf978e53461dd267fc0c7d28ad4a610428bedbddefb1
+reviewed: bde16f89c0ae0b56a76050f3a0a87c80837f25265ffd96c19bc2d1be9acca898
 title: "targetType"
 kind: api
 owners: [Inno.Editor.Interactions]

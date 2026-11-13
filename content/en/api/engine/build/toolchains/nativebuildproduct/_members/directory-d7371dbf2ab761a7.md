@@ -2,7 +2,7 @@
 uid: api.d7371dbf2ab761a75b43ca9c3ad1babaad08474b0f4c759313a79c760bc2925f
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBuildProduct.directory"
 source: xml
-reviewed: 67dc8bc1b524d89fd7dae804748c9e698aba227f9d46e0015374a680e13c75d2
+reviewed: 84eb6676c1b285420fb2e39cdb153664f87707c9da58ba6b21a1d11bf2d59f1c
 title: "directory"
 kind: api
 owners: [Inno.Build.Toolchains]

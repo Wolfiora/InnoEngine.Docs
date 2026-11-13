@@ -2,7 +2,7 @@
 uid: api.4a2786c37174e6610433b8115054d409276e54e0690f2c51998c769ecc36754e
 symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportContributorExtensionAttribute.controllerPriority"
 source: xml
-reviewed: 21b2d5009ccd4d60a6aec32ded2649199e45347c5f7bbe722f0d3f8ccd1e4603
+reviewed: b3e75a3bbbbbf3d5d7e9234d8d5bbf12b704758de80302205aa3b470ba186c61
 title: "controllerPriority"
 kind: api
 owners: [Inno.Editor.Rendering]

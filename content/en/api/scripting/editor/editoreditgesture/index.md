@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.288c350b936a53d7
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorEditGesture"
 source: xml
-reviewed: 91fe4d7573654cb15bdc3c7fa6896ddc70d79174dfc41579bfc7b83355cd39b6
+reviewed: 6e0900f6363caa6b10d1f95236cb6b693b7f03ce731113d8578d2e7ee0388b54
 title: "EditorEditGesture"
 kind: api
 owners: [Inno.Editor.Interactions]

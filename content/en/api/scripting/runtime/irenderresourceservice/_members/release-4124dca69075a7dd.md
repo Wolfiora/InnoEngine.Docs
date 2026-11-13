@@ -2,7 +2,7 @@
 uid: api.4124dca69075a7ddc161c84da181ff594cf16efa858e748e3da47075bd405bde
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.Release(InnoEngine.Rendering.RenderPersistentResourceId)"
 source: xml
-reviewed: 3d803887c8b4dbf8da326928d38df0bb3c136d1144ca5008ce8e633a2fee6177
+reviewed: c20759ad53e05524cf73abad21d2aa7256356ac871f4b163a3ae6ad73b7c4ea6
 title: "Release"
 kind: api
 owners: [Inno.Rendering.Runtime]

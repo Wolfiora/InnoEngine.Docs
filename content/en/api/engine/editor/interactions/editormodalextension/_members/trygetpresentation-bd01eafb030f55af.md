@@ -2,7 +2,7 @@
 uid: api.bd01eafb030f55af9b31065fdc32ae31ce54464dce614a828ae53ac8b2d89221
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.TryGetPresentation(Inno.Editor.Interactions.EditorModalExtension.Presentation@)"
 source: xml
-reviewed: a7c2a2ab15070a61d9460eec0467a87bba591a86fda8855ffe2765a9a99fe1c0
+reviewed: 6bee373629f3a4c05fd808f78839fa934be8f43ad46bc74b92c75a6cb075fafd
 title: "TryGetPresentation"
 kind: api
 owners: [Inno.Editor.Interactions]

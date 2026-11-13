@@ -2,7 +2,7 @@
 uid: api.93b952deada7ee1f80b73a38c4ef5d9ae3fe75d0f7eb2185587240ab51758753
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.IndentDisable"
 source: xml
-reviewed: c3635fa447b168619cc13dda5be1e4cc134fba669b255408f8aeb7a8a7002882
+reviewed: d217a34376d384a9818830f25cb62020971a58e32430990ea18d311ea71f86cf
 title: "IndentDisable"
 kind: api
 owners: [Inno.Editor.ImGui]

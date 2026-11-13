@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.2a3e30d2fc986231
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Matrix"
 source: xml
-reviewed: 719497b737feb5d101c5ac129b46058e0423fdec0009842ca06ca72880ebbdd0
+reviewed: 49c1dac79db2cccc69f901ac8b8e0e5f5da891c536e4e0d8f7c4a02d900b8ef6
 title: "Matrix"
 kind: api
 owners: [Inno.Core.Mathematics]

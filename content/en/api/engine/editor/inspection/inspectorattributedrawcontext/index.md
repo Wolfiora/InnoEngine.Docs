@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.cd6df616944d84ca
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectorAttributeDrawContext"
 source: xml
-reviewed: 623f6cdf3cb9f267ae94b8d8cbf615ea951359f4ee3570d8ac1840ca4324c682
+reviewed: ec483041a859aa99ed46176d2106fef5414a9f2f5beabe043791e0ce62966405
 title: "InspectorAttributeDrawContext"
 kind: api
 owners: [Inno.Editor.Inspection]

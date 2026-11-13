@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.fea9e636707bb349
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot"
 source: xml
-reviewed: 784f186a3c5fdf7c5a77a99a56f40f8027ea41eadb14fbc30031518ecfaed04b
+reviewed: 89ccd0502714c2eb8c4568e59dbae9047ee555204beb1e7c36f977d34faa1a2e
 title: "EditorShaderDraftCompilationSnapshot"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.runtime-script.2b5e1e6ea1be1bde
 symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Vector2"
 source: xml
-reviewed: 5eb7845d761f67399f4f525fb94538b009e95cca07c78640be8e7a8a32926bdb
+reviewed: 6856202a196ac3d188c531f7978ba2562b48b2857447efbb8cda1839744718a6
 title: "Vector2"
 kind: api
 owners: [Inno.Core.Mathematics]

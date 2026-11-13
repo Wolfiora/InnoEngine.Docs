@@ -2,7 +2,7 @@
 uid: api.inno.core.coroutines.7b1f6d5740602968
 symbol: "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForSeconds"
 source: xml
-reviewed: 7ffecd9456ece1ec134637b0151f0edacf356908ba2d629e91c39aa8023c050d
+reviewed: 22095fb7d5fa21871fb1590a104ce2ad58a9561a99640e392aca4900d1530865
 title: "WaitForSeconds"
 kind: api
 owners: [Inno.Core.Coroutines]

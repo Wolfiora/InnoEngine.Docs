@@ -2,7 +2,7 @@
 uid: api.a85b74b9d2ecd8053d6107e6b794f92cdee6a1182dec03c0be160f8d3fd384d2
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.CanEdit(Inno.Scene.GameScene)"
 source: xml
-reviewed: 905923fa3c00da125e65d2565494dd4c921e86284344b4bd2dca1ee88b3df5ac
+reviewed: c99b859cb6f1b72ca0f36dc3c43c730c577c30dd7c063f3c8f345de5e3884a17
 title: "CanEdit"
 kind: api
 owners: [Inno.Editor.Scene]

@@ -2,7 +2,7 @@
 uid: api.29e18c63b8586ef0817ecc267c1a8f186c7edf439f3121664afa85c48a703a37
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CollapsingCard(System.String,System.String,System.Action,System.Action,System.Boolean,System.Boolean,System.Single,System.Action)"
 source: xml
-reviewed: ade723b58e71b995006cdcf1df74b08c5501f0266e64614768c4c553da902a0c
+reviewed: 310111936db7ac3ff95aee0c32f10eb22cd4e093fd8ea04049c464a406f42e62
 title: "CollapsingCard"
 kind: api
 owners: [Inno.Editor.ImGui]

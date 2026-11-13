@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.b622613560d7d619
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ListNavigationResult"
 source: xml
-reviewed: 79a0ec6b6da9b1383c644b90b55021c54a873755338acefaae8c27863ea54571
+reviewed: 57ee0a1ce035dac3189fc97c63c16250edf3d6ec2dbfe76b80088178f084477f
 title: "ListNavigationResult"
 kind: api
 owners: [Inno.Editor.ImGui]

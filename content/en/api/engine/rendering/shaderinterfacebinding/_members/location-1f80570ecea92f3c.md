@@ -2,7 +2,7 @@
 uid: api.1f80570ecea92f3cc99cf6f0457c14c1d864f188928bccff32713ddd825dc719
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.ShaderInterfaceBinding.location"
 source: xml
-reviewed: 76cdd922ebfe1d48a8a3117fa415ae39cefba8183d2ce8e14558fb74c9944572
+reviewed: 35545638a71515e97e7d81e92d23432241cd4e08d6e87729ba2d588d87b88342
 title: "location"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.plugins.authoring.f2418739f542aa1b
 symbol: "engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginCandidate"
 source: xml
-reviewed: 21603ad16889974895947d90c6a6cbe390b7353fea4fb30378f171056d2f372e
+reviewed: 64194149deb49683772552bf05b74b20d385427898c07d19df3be9079f6d38a6
 title: "PluginCandidate"
 kind: api
 owners: [Inno.Plugins.Authoring]

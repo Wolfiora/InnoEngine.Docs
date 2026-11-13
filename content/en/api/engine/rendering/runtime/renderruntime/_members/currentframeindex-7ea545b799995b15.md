@@ -2,7 +2,7 @@
 uid: api.7ea545b799995b158fc9a2013caf29ee47baac873b9623660a973910b0da9cd0
 symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderRuntime.currentFrameIndex"
 source: xml
-reviewed: 435587c58eb3e40f917607944363c7a22a157d1841d2095ca603161950252571
+reviewed: cfa960bee1e951b8ec259198d93ef2d4a5e8eb721659ddf13dc35c0a7898a4e4
 title: "currentFrameIndex"
 kind: api
 owners: [Inno.Rendering.Runtime]

@@ -2,7 +2,7 @@
 uid: api.4184a25feb51d16f5f14756bbc718fac2285983493e8605ae3ee117fc4b12301
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetControlId(System.String)"
 source: xml
-reviewed: ade5b8161912bbec70a88db75fe7610a60ff3d2d31297fc04b03b52f5b579a43
+reviewed: 79226a34cf437576840dbc32ff6fde51a0a85366316fade462c2c8c601305b91
 title: "GetControlId"
 kind: api
 owners: [Inno.Editor.ImGui]

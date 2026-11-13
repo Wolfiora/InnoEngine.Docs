@@ -53,10 +53,6 @@ Find types in this project category. Each type links to its exact declarations a
 
 [Browse Interactions](interactions/index.md).
 
-## MacOSArm64
-
-[Browse MacOSArm64](macosarm64/index.md).
-
 ## Panel
 
 [Browse Panel](panel/index.md).
@@ -84,8 +80,4 @@ Find types in this project category. Each type links to its exact declarations a
 ## Shaders
 
 [Browse Shaders](shaders/index.md).
-
-## WindowsX64
-
-[Browse WindowsX64](windowsx64/index.md).
 

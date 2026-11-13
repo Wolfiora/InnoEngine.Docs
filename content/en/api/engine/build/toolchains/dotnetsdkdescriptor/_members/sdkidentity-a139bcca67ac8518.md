@@ -2,7 +2,7 @@
 uid: api.a139bcca67ac8518750033cac9bce3f6330e7d63b3eb8c6b94474ff5925abd4b
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.DotNetSdkDescriptor.sdkIdentity"
 source: xml
-reviewed: b37e2d5e4c912bf38a8ee7a462fbd5d76bafb1f2b62ad7ecf867afd402236d06
+reviewed: cf650739e4c69251dc0606b4592f95c7fbab65953f9ddb32d17f48374207595a
 title: "sdkIdentity"
 kind: api
 owners: [Inno.Build.Toolchains]

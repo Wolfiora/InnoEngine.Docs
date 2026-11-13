@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.editor-script.fed94ca014fc184e
 symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorPanelAttribute"
 source: xml
-reviewed: ed23cc06098c7ee46e8a5ffd93baf19f5738568551c28852db9aad159033c289
+reviewed: 5eda184bd2b31bfaa4cd67066e7b3faab7ba5d60b00714f75229fd053cf2c7be
 title: "EditorPanelAttribute"
 kind: api
 owners: [Inno.Editor.Core]

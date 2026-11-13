@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.76da55013c565231
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderVertexSemantic"
 source: xml
-reviewed: a11ec46a2f0d4b68c683bcbb2d22b959de52abd539b43c6316ac862c96737c60
+reviewed: dc6958554c16a825933a98c0768f2120a10dd62ec395e9f3f8947511b8d5d82a
 title: "RenderVertexSemantic"
 kind: api
 owners: [Inno.Rendering]

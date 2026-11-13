@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.743271efa4cbf897
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderIrStage"
 source: xml
-reviewed: c21de40a6f6bd880fc168156bc6340bfa1a66d3a32f7ac5f8997a42848a5a6b7
+reviewed: a1111ad2f9d16fbcd2c79fbd8dd79bcecb2429f093be1142983b32517a3cbcbc
 title: "ShaderIrStage"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.4a9434e5fbb4a67f
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.SerializedRenderExtensionState"
 source: xml
-reviewed: d47149dde62526bbdbbce3e8e287578cc8a77dcf533258e2a524b4ca579a930d
+reviewed: e1b10cc48cf6cb04930631e1e3804924facec7429d8f7f6ba2f67b11febb4fad
 title: "SerializedRenderExtensionState"
 kind: api
 owners: [Inno.Rendering.Assets]

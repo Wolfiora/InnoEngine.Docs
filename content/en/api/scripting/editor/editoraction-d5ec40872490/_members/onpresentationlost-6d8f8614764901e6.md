@@ -2,7 +2,7 @@
 uid: api.6d8f8614764901e6396dae8a35a73cdd2f30a3840ab44bbd9d56cfddec96e490
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction.OnPresentationLost"
 source: xml
-reviewed: 8584729b4f31913e5eb221f374801675eb8b25a76acd9ce30a2bfecb6f3cd759
+reviewed: 435de15698726f13f39d09656b361bd6a64bd1cd6683b0795671160cd7c803d3
 title: "OnPresentationLost"
 kind: api
 owners: [Inno.Editor.Interactions]

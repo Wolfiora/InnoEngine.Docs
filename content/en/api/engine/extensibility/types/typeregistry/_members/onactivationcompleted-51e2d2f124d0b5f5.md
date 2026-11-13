@@ -2,7 +2,7 @@
 uid: api.51e2d2f124d0b5f5ec22bb30f02e3743b5ce1d459c0124f25d9a886494db065b
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.OnActivationCompleted(\u00600,\u00600)"
 source: xml
-reviewed: 96051acd7465445f24b1126e44d247fd9846ee8b99230f84b1f15cfdd11b8f9c
+reviewed: 9b1f159c29cfaa2c89e02613b72b2a47995745dca837ae694c827934c6069eec
 title: "OnActivationCompleted"
 kind: api
 owners: [Inno.Extensibility.Types]

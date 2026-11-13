@@ -2,7 +2,7 @@
 uid: api.7d9d38a334b0febadf590829e1c7c4541848c209ba86ceb9ba3f8c535ec759a5
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderBufferSlice.GetHashCode"
 source: xml
-reviewed: ded5dd10a95d948e6288c042d8b7b5b44a744539ae522a165b179483d1c3a6f9
+reviewed: 9ffd6ddf308fe3ec8fdfba7cdd3eb011b6d8ebcdc001c06ab88c7fc493d6ba2e
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering]

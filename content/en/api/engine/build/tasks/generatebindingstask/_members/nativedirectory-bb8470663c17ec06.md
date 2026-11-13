@@ -2,7 +2,7 @@
 uid: api.bb8470663c17ec0660e902d9927c583021ac753d0bccc73b2bca3ebe148cc3e3
 symbol: "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.NativeDirectory"
 source: xml
-reviewed: d88a3d7b26b72ac796297d6cab2f054df25e65e478e460f0a6e6d4bcea1fc66f
+reviewed: 421c9d320a1214ef1e4eee9afb046d538eac7bd8d4a7f0d1138f8edb5cf25cd1
 title: "NativeDirectory"
 kind: api
 owners: [Inno.Build.Tasks]

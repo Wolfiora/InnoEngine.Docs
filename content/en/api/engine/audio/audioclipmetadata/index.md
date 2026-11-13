@@ -2,7 +2,7 @@
 uid: api.inno.audio.0c722fd1ce9fb99a
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioClipMetadata"
 source: xml
-reviewed: d0fa0c0f2de2a18c5f9d9beee82c166248c305f2486a411ab9f676520e4941a2
+reviewed: c256e437fcbc2b667b74acda8fe17ef1aff446ddd0b3e790bc925c59612681bf
 title: "AudioClipMetadata"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.6774f515e5bbcf33beacc699520c47fb9889c56ea4aad66ea251b16b39756ea2
 symbol: "engine:Inno.Editor.PlayMode:M:Inno.Editor.PlayMode.EditorPlayModeController.#ctor(Inno.Runtime.EngineHost,Inno.Runtime.RuntimeSessionOptions,Inno.Editor.Scene.IEditorScenePlayMode,Inno.Editor.Scripting.IEditorScriptCompilation,Inno.Editor.Interactions.IEditorHistoryIsolation,Inno.Core.Logging.LogRouter,Inno.Editor.Audio.IEditorAudioHost)"
 source: xml
-reviewed: 32fafb688163b7fe53ef9488198203889cb384acac9c6045ddff28403e287bec
+reviewed: fbf892f956123ad7c088ff8e2606e250f638736c2a36086b44bcdfc3961402fd
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.PlayMode]

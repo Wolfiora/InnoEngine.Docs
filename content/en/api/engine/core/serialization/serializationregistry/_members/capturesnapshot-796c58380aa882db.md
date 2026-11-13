@@ -2,7 +2,7 @@
 uid: api.796c58380aa882dbe117836b3ad630a63b70192a56813cfa7d807a3da0ac74c1
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.CaptureSnapshot\u0060\u00601(\u0060\u00600,Inno.Core.Serialization.SerializationContext,Inno.Core.Serialization.SerializationSnapshot)"
 source: xml
-reviewed: b9e69704c75878d3fc5d10f8415c746b4a11d9a5e8c5b441fa68b3dbad99bb55
+reviewed: 7b040ca8f85b199c1ebbea779cd525c70506f3dc1b1a445f3cede55661f93207
 title: "CaptureSnapshot"
 kind: api
 owners: [Inno.Core.Serialization]

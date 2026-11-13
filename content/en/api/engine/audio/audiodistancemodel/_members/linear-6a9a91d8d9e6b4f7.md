@@ -2,7 +2,7 @@
 uid: api.6a9a91d8d9e6b4f78478f3a5d7914904b14cfb8b9abdd012c7939acd4c0299af
 symbol: "engine:Inno.Audio:F:Inno.Audio.AudioDistanceModel.Linear"
 source: xml
-reviewed: 14323b63bda3b161b49f3e28c65730ba3d9544ee98d3272ddbfcd9658ce6c859
+reviewed: d2ad0ccdea5ad84c2bbe8782d78318e65e886fa85a850d69df0e245483e694ce
 title: "Linear"
 kind: api
 owners: [Inno.Audio]

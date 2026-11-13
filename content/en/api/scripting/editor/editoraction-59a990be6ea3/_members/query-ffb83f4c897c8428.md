@@ -2,7 +2,7 @@
 uid: api.ffb83f4c897c842851624853ea482b34aa247776fab01e8f98f6d5a4a5754690
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction\u00602.Query(InnoEditor.Interactions.EditorActionContext)"
 source: xml
-reviewed: 6cc440458653bcbf948e7269f1015d16983dfebfa8668d5a1629e9f057440f07
+reviewed: 8d1226303e391a180b5264293c3352f740672b92baed90a0605faf8619e4cb91
 title: "Query"
 kind: api
 owners: [Inno.Editor.Interactions]

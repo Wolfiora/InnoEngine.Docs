@@ -2,7 +2,7 @@
 uid: api.inno.audio.006a1f1df60de021
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioProcessorParameter"
 source: xml
-reviewed: f3e853f4f36c1b2897e00007b0d5c7ab18d0d4f860a90ce9e14bdd2f19cc27c0
+reviewed: 36b787c41b31fc3330ad66b289c30fa0f752508cce53e1b41ef39e021c724f20
 title: "AudioProcessorParameter"
 kind: api
 owners: [Inno.Audio]

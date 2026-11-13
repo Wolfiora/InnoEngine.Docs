@@ -2,7 +2,7 @@
 uid: api.inno.scene.a242ae00b59fd2d9
 symbol: "engine:Inno.Scene:T:Inno.Scene.GameBehavior"
 source: xml
-reviewed: 1dc87a349a9fe14368ba402430dd524a525c3bfe5919f14fd1a7305ff0582398
+reviewed: d29cf22f1dffa2875a530fd1a61373fd6e2048dbe8a464e883ef3cba6a1feae8
 title: "GameBehavior"
 kind: api
 owners: [Inno.Scene]

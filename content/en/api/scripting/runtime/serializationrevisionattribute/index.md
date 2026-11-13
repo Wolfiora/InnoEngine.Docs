@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.runtime-script.d5107e5e522f1c25
 symbol: "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializationRevisionAttribute"
 source: xml
-reviewed: cf6465ffe71b0c4bd6077aca5e69e81fb61e6cf0726de1612f1f390a4fed7f5b
+reviewed: ccb27a8926df24ab8cb04633f53b8b7b091a2249ff95e7b1680f51af217e552c
 title: "SerializationRevisionAttribute"
 kind: api
 owners: [Inno.Core.Serialization]

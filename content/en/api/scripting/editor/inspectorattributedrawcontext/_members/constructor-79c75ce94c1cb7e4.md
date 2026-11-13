@@ -2,7 +2,7 @@
 uid: api.79c75ce94c1cb7e49ec7c835ca2168501c6ef495b5bd97912ce3be9e6b94ae7c
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectorAttributeDrawContext.#ctor"
 source: xml
-reviewed: e28e7c403d87e5342e15444bc68632ad68a051e235d3e230f46b3ec21620e82f
+reviewed: 3f9ad8754bdbd1783db7390f18c0fc88c4f454b19f179b1b0b83b739f3eddedf
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Inspection]

@@ -2,7 +2,7 @@
 uid: api.c3e4094d0d228a8a2e717274761c72ecce3fe371075def697dd5f4004139bdd9
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexFormat.Int16Integer4"
 source: xml
-reviewed: 1c9383068c0c717d0fb08095ab21f0bd994138e0d838cda87a730ac9b35788bb
+reviewed: fcf5c6ea703b5f0bb513b1f92523fd70063dd3c6f98ff254860589c134643af4
 title: "Int16Integer4"
 kind: api
 owners: [Inno.Rendering]

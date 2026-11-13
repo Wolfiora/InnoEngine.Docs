@@ -2,7 +2,7 @@
 uid: api.inno.animation.c489157b888d7fcb
 symbol: "engine:Inno.Animation:T:Inno.Animation.AnimationInterpolation"
 source: xml
-reviewed: 68ede1f6512265ea78d224ad9db1759371066bb9c04cd5f7ee18bbeed8e379a1
+reviewed: b5250e4b16f4f28f27d9cf9837b7125e2fcee81baa8557a4b7bcd302749203e4
 title: "AnimationInterpolation"
 kind: api
 owners: [Inno.Animation]

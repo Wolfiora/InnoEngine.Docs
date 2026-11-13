@@ -2,7 +2,7 @@
 uid: api.13d85bd53a1b2b7054b99e54738a47528d4538ac7eae29acdcad2cc7876a8565
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.SaveLayout"
 source: xml
-reviewed: 382e340471fd6e95aa6b94334d3656f690d392321c49858411d32bd994da9bc9
+reviewed: 548ef72edb8f1293b1ef3090c5e77965b895193b810132f140c58e61caad17cf
 title: "SaveLayout"
 kind: api
 owners: [Inno.Editor.Core]

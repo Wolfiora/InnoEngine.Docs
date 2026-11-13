@@ -2,7 +2,7 @@
 uid: api.inno.ui.53981e37451785a0
 symbol: "engine:Inno.UI:T:Inno.UI.UiVertex"
 source: xml
-reviewed: 00e8d534f45c8c0a6e5b1413d82994cdf6ca7a2ec188879cebb814c70e8ddfbb
+reviewed: 6587c7c442db243a38276b0bc8f360c0e48183620e6bddeb97146383f838c55f
 title: "UiVertex"
 kind: api
 owners: [Inno.UI]

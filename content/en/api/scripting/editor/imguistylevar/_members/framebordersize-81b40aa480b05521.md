@@ -2,7 +2,7 @@
 uid: api.81b40aa480b055215eb8d65f596d076335cd4e36a13934d853146420330de537
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.FrameBorderSize"
 source: xml
-reviewed: 2d00938ea3fe449251be58a2b0d0888506bbd547ede5479d2595bbf7efe3cd07
+reviewed: 0e6e677af1454aa5e8b2618369aa2e76416555fd2d4012d5815692cc260bb2cc
 title: "FrameBorderSize"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.8534dcba43767e3064ab22c2d08e88547b1f346109bc3cc84e8ba27b6e7fef01
 symbol: "engine:Inno.UI:M:Inno.UI.UiEvent.#ctor(Inno.UI.UiEventType,Inno.UI.UiDocumentHandle,System.String)"
 source: xml
-reviewed: 0e962c307928f5276b87106fa7822959d7ccd806b737215c6bf7ee67feb42460
+reviewed: d6187a1d175140695b004c756948198fc39b31d00d4cf5aa3a6dcea7b67e9448
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

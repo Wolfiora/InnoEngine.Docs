@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.0e17c27604bf302f
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.IRenderTextureArtifactSource"
 source: xml
-reviewed: caae43fe6ec4124876e8c4daaca42875c3066709bcb9823afa480ae3ad1a2d06
+reviewed: ef7e0486515e17a193ac2f61f523f5d98c6b689020761d5965ea7440bb88fc0d
 title: "IRenderTextureArtifactSource"
 kind: api
 owners: [Inno.Rendering.Assets]

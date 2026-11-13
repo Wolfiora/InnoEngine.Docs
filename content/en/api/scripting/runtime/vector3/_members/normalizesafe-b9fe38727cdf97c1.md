@@ -2,7 +2,7 @@
 uid: api.b9fe38727cdf97c12c715f5e7519db61866fde7eeb804cd0da3b7f9e2818488d
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.NormalizeSafe(InnoEngine.Mathematics.Vector3,System.Single)"
 source: xml
-reviewed: a0c71e3b1b6f7a2447c6fceeb56ee5274ae57944110fc9f6c577ee6b03cdbc0f
+reviewed: 20c5adf5fa1cd2af1ccb92654b6bd960dc41221d6c194f8de3e5cdb3e679f8b1
 title: "NormalizeSafe"
 kind: api
 owners: [Inno.Core.Mathematics]

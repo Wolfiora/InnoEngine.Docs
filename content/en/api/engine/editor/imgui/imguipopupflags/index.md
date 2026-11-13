@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.3525584a6ee1bfad
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiPopupFlags"
 source: xml
-reviewed: 3e2fc539c13774751259e4a04172ddb3ac90a3459fe43e1a7c732b661264bbc6
+reviewed: bb34a2f3c0476978ca5caacd350c9221d7ba59118fb20a3155821ec060dfb393
 title: "ImGuiPopupFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

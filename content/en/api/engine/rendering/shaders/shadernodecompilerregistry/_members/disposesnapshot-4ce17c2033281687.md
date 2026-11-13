@@ -2,7 +2,7 @@
 uid: api.4ce17c20332816876dcb9694d139730a54656f46177b85c14e2dbe15f5f7f3bf
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodeCompilerRegistry.DisposeSnapshot(Inno.Rendering.Shaders.ShaderNodeCompilerCatalog)"
 source: xml
-reviewed: b5ca9f888428bdaa46156ffe89e24cd14eb4d746b766b5d4cfa76e08e9c653f6
+reviewed: c911d36906950b816281237b0f4844e43765f0b338658968afae8f20b003fb1d
 title: "DisposeSnapshot"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.6f3b3c9a821d9fd2be32108d9b69ccfd4234d64a467aa728848626d2425e3c0c
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorPalette.popupBackground"
 source: xml
-reviewed: ccb6c66472adaa28e87c22f6d163f403f00f2187c1bd440223ddf2ee42ac1192
+reviewed: a596f1e2a540ea90dda736e9f8ecda823f1174f44ad59db6aa9eef44f57278ab
 title: "popupBackground"
 kind: api
 owners: [Inno.Editor.ImGui]

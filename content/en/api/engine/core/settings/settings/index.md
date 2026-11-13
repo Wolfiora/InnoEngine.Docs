@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.0b7550a8dccf3dfd
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.Settings"
 source: xml
-reviewed: f5445fab8dff6d2624cf4fee721e730f9166bfcf1847496aef5741f02553d306
+reviewed: 668ba9271738f004048c0de8ce293b5ea6fd60fb76eb87d13ff3ebdf8937237c
 title: "Settings"
 kind: api
 owners: [Inno.Core.Settings]

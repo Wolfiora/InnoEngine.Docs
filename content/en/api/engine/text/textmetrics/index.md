@@ -2,7 +2,7 @@
 uid: api.inno.text.ac7c1fd5668efd67
 symbol: "engine:Inno.Text:T:Inno.Text.TextMetrics"
 source: xml
-reviewed: 315555a8e32567b27e74211c765d13d7c21489fc0bd8559a2e482746349a942e
+reviewed: c10485d9b8b87d4cd354723d07dee18f6048fe96e32827abc381f5429ec5fce9
 title: "TextMetrics"
 kind: api
 owners: [Inno.Text]

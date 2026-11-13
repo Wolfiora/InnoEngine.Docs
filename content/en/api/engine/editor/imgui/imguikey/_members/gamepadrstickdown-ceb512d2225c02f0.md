@@ -2,7 +2,7 @@
 uid: api.ceb512d2225c02f02948b9b5cd49b9044ad0eb11ef9e370b0776d26c93059539
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.GamepadRStickDown"
 source: xml
-reviewed: fb045ad9a1352f325cfce56384a4515a94a03e6d67c6970f65ea74d437e43247
+reviewed: 97e983c9724da36e01991aeec388892979becaaa0c8d1e4f929e996df5808c80
 title: "GamepadRStickDown"
 kind: api
 owners: [Inno.Editor.ImGui]

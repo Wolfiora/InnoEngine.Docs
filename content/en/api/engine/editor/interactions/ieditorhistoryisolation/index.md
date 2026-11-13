@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.3fcca375f5dc0c28
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.IEditorHistoryIsolation"
 source: xml
-reviewed: cb361a7412cb403b322512d1a495d295949a08c7eddcc05ddb7c4eaf8d4e61b8
+reviewed: 9ba4e823b74e5b70e58a6ddfbf4b1008e05de193c423cfccee2aec7e892498ff
 title: "IEditorHistoryIsolation"
 kind: api
 owners: [Inno.Editor.Interactions]

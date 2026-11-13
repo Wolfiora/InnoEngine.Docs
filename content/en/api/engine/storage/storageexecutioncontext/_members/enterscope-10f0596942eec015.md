@@ -2,7 +2,7 @@
 uid: api.10f0596942eec0157aae0575dc63fea2d55b78218826d02b72170d609d5396ef
 symbol: "engine:Inno.Storage:M:Inno.Storage.StorageExecutionContext.EnterScope(Inno.Storage.IApplicationStorage)"
 source: xml
-reviewed: 3f846828f6e3be831962f1002ae3ef924fef06431e9e159f1de070cce8292eba
+reviewed: f42f46e29d9902f1919657b838e1b0d83ed18bc2631da3cbe48d07f620514cb5
 title: "EnterScope"
 kind: api
 owners: [Inno.Storage]

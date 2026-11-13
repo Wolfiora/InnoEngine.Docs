@@ -2,7 +2,7 @@
 uid: api.c6d078df1f5d4d9a79c150998385a69057cc4ba1985db476e6b4a1f607d63051
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.ToColumnMajorArray"
 source: xml
-reviewed: 0d18b864e12167c92b19d86893636076eb7e4e03a6522495e9670330685f39a7
+reviewed: cc4187b7da91e3bd3af231f8367c971b08b90f229f043000e8798fd2978aedb9
 title: "ToColumnMajorArray"
 kind: api
 owners: [Inno.Core.Mathematics]

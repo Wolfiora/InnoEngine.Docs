@@ -2,7 +2,7 @@
 uid: api.c9c66a82cc1022d3ae113392f02b17f8ae512e77919d8209d3ecabdf40758b7c
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportWriter\u00601.SetDeploymentScope(InnoEditor.Assets.AssetDeploymentScope)"
 source: xml
-reviewed: ca273dcb3c522279facca36495477da8dc5d7d972a4847a75b441dacabf263a4
+reviewed: 401683584e74296a610ea458ed4678e6ac420f367414a0d3420de07b6efcce18
 title: "SetDeploymentScope"
 kind: api
 owners: [Inno.Assets.Pipeline]

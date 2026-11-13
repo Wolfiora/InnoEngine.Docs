@@ -2,7 +2,7 @@
 uid: api.050998e8bad9c7508171f80555d4f777b2e4475012da75d8779249b88950de7f
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyReloadSession.Complete"
 source: xml
-reviewed: 90a3cc57e565911850310752b6f3de38f6bf433b1f523fb02ba20720bbbad065
+reviewed: 39835ce48ab2e3c38731af8ec30529048840f1899ddb6306a415d635e2ac2434
 title: "Complete"
 kind: api
 owners: [Inno.Extensibility.Modules]

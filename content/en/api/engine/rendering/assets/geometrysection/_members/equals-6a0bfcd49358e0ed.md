@@ -2,7 +2,7 @@
 uid: api.6a0bfcd49358e0ed81224595697677f335fb920abe348e8a713279df632393db
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometrySection.Equals(Inno.Rendering.Assets.GeometrySection)"
 source: xml
-reviewed: 8e535a833a877f2925975104a2a5e37678ccf339cfaccfaa4870714848f1e55d
+reviewed: ef15cf488a4be568c5703bf8fceb50751395ab3f53fddd7cf8aaaf7c3f542f2e
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Assets]

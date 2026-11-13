@@ -2,7 +2,7 @@
 uid: api.3b8ead138cd48e7df5509fdb0f6a7a9beabffd3e3e81b104dcfa9ad5fbf9b2ff
 symbol: "scripting:Inno.Text:P:InnoEngine.Text.TextLayout.width"
 source: xml
-reviewed: d1e7dd8bdacb6d15ca28b35f696d7125758f7a7d42b9981f2e91ebd40538e9aa
+reviewed: f90c6f7304b2c4f27d2c94aa20f340fcf977e8baed81d97ba32eb6f059cc2716
 title: "width"
 kind: api
 owners: [Inno.Text]

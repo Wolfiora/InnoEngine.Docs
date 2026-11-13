@@ -2,7 +2,7 @@
 uid: api.e68952f7fd94002b994c98ac6c07020ca9ac98fdbf4a6aaf247ae1b96fa747b2
 symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Color.TRANSPARENT"
 source: xml
-reviewed: de702dc4c6819f6b197f7997978cf39489595878ecdd66ffcb5cd1d8f866510c
+reviewed: 804608037ded6de4a0cb42579d1ce38299ff54961ca5fcca55ca9bb63eea7bc2
 title: "TRANSPARENT"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.bddbdb9eb15859ca206dd4a75e0ae799f939bdb262ddc0d9a83acb7386c29d6d
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.PersistentBufferHandle.Equals(System.Object)"
 source: xml
-reviewed: 9cc03d380876175df7e2754d288acd67d736b549f3a9c8b836f91401567f24c7
+reviewed: 22109a940c3b0886619807374e277d09a080a06007d8ed79ce55dae9245ef6ca
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

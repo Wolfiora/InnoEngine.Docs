@@ -2,7 +2,7 @@
 uid: api.inno.ui.f4ac5b2e2b699df2
 symbol: "engine:Inno.UI:T:Inno.UI.UiRenderFrameBuilder"
 source: xml
-reviewed: 8643190db46879b58136271e91f67dcfa3df5e614da7fccd8c882dbcbd411f9e
+reviewed: 123176feededb7275284e668a7b08c39263068be168410cbaea6d2ab55135905
 title: "UiRenderFrameBuilder"
 kind: api
 owners: [Inno.UI]

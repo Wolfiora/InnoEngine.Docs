@@ -2,7 +2,7 @@
 uid: api.1cf7993e5f5279c5459503f38c411bb9996eef5dce262bc39325a24fc04bba44
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CompactSliderFloat(System.String,System.Single@,System.Single,System.Single)"
 source: xml
-reviewed: 51d0a1ec2e729fc7dc00668310be66a2ee04230db5932b9d7aa954d53b6794ab
+reviewed: aaf12381a7441f3eb724ad0a304f46d6d8739b2b39c889902fe2aa2925bb356d
 title: "CompactSliderFloat"
 kind: api
 owners: [Inno.Editor.ImGui]

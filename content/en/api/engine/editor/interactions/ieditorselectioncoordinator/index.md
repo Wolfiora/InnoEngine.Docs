@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.83dc74edddaf73ea
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.IEditorSelectionCoordinator"
 source: xml
-reviewed: ba950dec6cbf17ee317418df12ef0f992fc9084387cf75a59af6a98ef502510e
+reviewed: e8ee521f8f3da0df7fefb2dc3c0dfe052b1f9d90ceba6b1d27f13ee70322516b
 title: "IEditorSelectionCoordinator"
 kind: api
 owners: [Inno.Editor.Interactions]

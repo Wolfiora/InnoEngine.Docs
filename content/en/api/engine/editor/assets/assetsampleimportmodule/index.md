@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.99453873fb49824b
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetSampleImportModule"
 source: xml
-reviewed: 245c057d19e8a5f567ebde13feea155c37f4d971c3804252859ea3a1b493165e
+reviewed: ab8f1289fe09bc0184b0452a5f571b30a417349463c97290afa973ea1affb9e8
 title: "AssetSampleImportModule"
 kind: api
 owners: [Inno.Editor.Assets]

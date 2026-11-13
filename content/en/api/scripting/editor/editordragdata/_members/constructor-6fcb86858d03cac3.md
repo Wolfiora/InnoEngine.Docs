@@ -2,7 +2,7 @@
 uid: api.6fcb86858d03cac3966316564b062f4fdf3222c0f1b0abb75feb0e54c649de57
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDragData.#ctor(InnoEngine.Core.IdentityObject,System.String)"
 source: xml
-reviewed: d161c672793af0d3bd5e39da090304eccebba7b73c07a89fc7b154a6a02c8400
+reviewed: cd272571a082312e9902be98d9c2161b24a66703e40d59058f763e8d7853880f
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

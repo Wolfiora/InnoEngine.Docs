@@ -2,7 +2,7 @@
 uid: api.inno.core.io.d4ae6dc0b0e6fbc9
 symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.FileByteDocumentStore"
 source: xml
-reviewed: e6d09196269472de59305b00e70d8c6180c8a2f40ebea832e81b304237a3f171
+reviewed: d8158a1085a6528d18af76fb8f6f225673eb37e1138d018e6fe5d9c39b1e1bd6
 title: "FileByteDocumentStore"
 kind: api
 owners: [Inno.Core.IO]

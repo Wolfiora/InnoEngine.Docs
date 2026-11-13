@@ -2,7 +2,7 @@
 uid: api.01cb22fa1d5aa2b75ce086125c08beab0d11a7e2471885937dd25dffa2b02cca
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRevisionAttribute.#ctor(System.String)"
 source: xml
-reviewed: c123fb80d3681a59ee30a09b561e23848559dad625825d417ef5a031adb92fa7
+reviewed: 9270c4f5edd12b0620d341b37b51f638370ff3c2c6d7bc586321adc680077afb
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Serialization]

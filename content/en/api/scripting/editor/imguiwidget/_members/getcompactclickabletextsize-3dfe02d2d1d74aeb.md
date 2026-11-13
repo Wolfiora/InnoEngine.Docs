@@ -2,7 +2,7 @@
 uid: api.3dfe02d2d1d74aeb28cc191c4151c96245e1b864f96d1653f7d8a6837d62f1a7
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetCompactClickableTextSize"
 source: xml
-reviewed: e6ae1aa3490a964014b0d2b5d37afc366f94234417046a71c1d6d340f8e3f7ef
+reviewed: f9d79b11024dfe5fc6aa0b5a0e2e5f823bb6ebf6f59eed8ad0f774de2a3866b6
 title: "GetCompactClickableTextSize"
 kind: api
 owners: [Inno.Editor.ImGui]

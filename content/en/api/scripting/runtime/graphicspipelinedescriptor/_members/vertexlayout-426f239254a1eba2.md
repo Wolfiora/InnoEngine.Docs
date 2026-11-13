@@ -2,7 +2,7 @@
 uid: api.426f239254a1eba2b0c3fc98748e2b5378d41943a4ac05242331c400c2c5f840
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsPipelineDescriptor.vertexLayout"
 source: xml
-reviewed: bb606a1ec9d6af3d1728433fdac7bc4c8151628984154e2171676576d2aad10b
+reviewed: cfe1e9621ec6efb220fea074f9867cfb0633f565fa380c1955e42ee23ee2924c
 title: "vertexLayout"
 kind: api
 owners: [Inno.Rendering]

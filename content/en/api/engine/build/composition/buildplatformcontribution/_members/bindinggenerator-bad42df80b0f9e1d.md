@@ -2,7 +2,7 @@
 uid: api.bad42df80b0f9e1dbf513325748f0509e7d1877002b9ec275bed916848ab639d
 symbol: "engine:Inno.Build.Composition:P:Inno.Build.Composition.BuildPlatformContribution.bindingGenerator"
 source: xml
-reviewed: 4efa489ebd21edc375aa8b115f26df59c022561b42418ea5178133cfe04ab939
+reviewed: 827a2f2e88888ccb6fec5470fa30d514144ec1d6395e78d4f83735da3c48d4ce
 title: "bindingGenerator"
 kind: api
 owners: [Inno.Build.Composition]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.b10e6e9d3f6af68e
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderPrimitiveTopology"
 source: xml
-reviewed: d28600510c22d33850f65fc704e727ddc92c5abf1adf66d3c3ae4b20f9257a10
+reviewed: 47f91a3c090caf60a2a30eb0c7c78fec7033859fe7797f271682c6ea7e727dcb
 title: "RenderPrimitiveTopology"
 kind: api
 owners: [Inno.Rendering]

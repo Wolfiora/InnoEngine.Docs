@@ -2,7 +2,7 @@
 uid: api.176191efb60cd680e62fc1634f26d30d34a4a445b687e22edd574bfa3de1136f
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetFrameHeight"
 source: xml
-reviewed: cab831a424cf4e97b213753ac009062ae81154b7d60e6e664f9626c6e28d6b77
+reviewed: 05c2f02a5464368baf69f4b4fdae93c2de889c4678e0937a375d62f8706afe8e
 title: "GetFrameHeight"
 kind: api
 owners: [Inno.Editor.ImGui]

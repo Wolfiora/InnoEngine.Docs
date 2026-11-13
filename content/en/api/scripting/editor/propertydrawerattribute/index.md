@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.editor-script.f1ccaed7a1176cd2
 symbol: "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.PropertyDrawerAttribute"
 source: xml
-reviewed: 0603ff3b219315bd2c7f61adfc4b6ea0d0f1ad5e9918666f1dd33b7e63a284f5
+reviewed: ef7ca1ba6b8ab590e7df62698c2dcb53b3894f93d17f694afa8b39ec19f64ae6
 title: "PropertyDrawerAttribute"
 kind: api
 owners: [Inno.Editor.Inspection]

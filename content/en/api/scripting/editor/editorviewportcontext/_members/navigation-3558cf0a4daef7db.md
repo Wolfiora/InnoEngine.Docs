@@ -2,7 +2,7 @@
 uid: api.3558cf0a4daef7db54bde86ffe34f1d74ec4affe29a094a825ff796d810b9fd0
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportContext.navigation"
 source: xml
-reviewed: 714132990a803d754457129d8ccf9ae140b9b0f08eb11965624a8f23a95ebc05
+reviewed: 80dda6258bd40cd16d3e6802e81ddc5327fe7603627dcd7c94369ceab0e26ebb
 title: "navigation"
 kind: api
 owners: [Inno.Editor.Rendering]

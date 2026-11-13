@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.802a0b6147324452
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorToolbarItem"
 source: xml
-reviewed: 1a321ba88adc167005c6b3ad1717763470c2aa3b160b5e369f3e4825ec988551
+reviewed: fe4759a8adc0d3d14912ac3b8bfb9b3dda3fd17145d153967436a9ea83691d9f
 title: "EditorToolbarItem"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.2fb52372a10297e6
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceModuleAnalysis"
 source: xml
-reviewed: 5de7c8b494565d4f312831c692579bfed1505c880a009620f4bc2670843cb0bf
+reviewed: 9ca008d2d8721473aaef1cbe0c8de3e5ff52557dffd3f5f6c3a710290a7c721a
 title: "ShaderSourceModuleAnalysis"
 kind: api
 owners: [Inno.Rendering.Shaders]

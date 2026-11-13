@@ -2,7 +2,7 @@
 uid: api.6dddf471910ab09d582b5e629c52a4f459b4cc485a8816e148f54c9246ccfe84
 symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystem.BeginFrame(Inno.Runtime.Contracts.RuntimeFrame)"
 source: xml
-reviewed: 43b7c768d4bad16c461a0f343c243a53477667788369f45199936668a74c316e
+reviewed: b07b44935d66e35a0f4293fc914354c703aa3454aa04ee4213f4349793f926af
 title: "BeginFrame"
 kind: api
 owners: [Inno.Runtime.Contracts]

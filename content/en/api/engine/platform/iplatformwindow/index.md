@@ -2,7 +2,7 @@
 uid: api.inno.platform.7895aefc5837fac5
 symbol: "engine:Inno.Platform:T:Inno.Platform.IPlatformWindow"
 source: xml
-reviewed: 4f39161b079b052c3ed84d578cafcc95dd16c030c91e1ea5bd9a45221a265340
+reviewed: 3d495f63cf27d9af8794d8b390fa686f8422e66eab6fa795a58d14544bce9c66
 title: "IPlatformWindow"
 kind: api
 owners: [Inno.Platform]

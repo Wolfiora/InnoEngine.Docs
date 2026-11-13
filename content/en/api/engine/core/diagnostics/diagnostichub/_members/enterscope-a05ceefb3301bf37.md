@@ -2,7 +2,7 @@
 uid: api.a05ceefb3301bf378f87214e3fd431a529ed4ee3153a0810f19617844f052358
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.EnterScope"
 source: xml
-reviewed: 284fb62deea94cf8f27677cc798c9845364346b1e497adec60435e017fc03e4d
+reviewed: 7089503b2dbf33cf7d1c395efbd2bed6d1c61ba58d3079d5b34ced7f3ea85802
 title: "EnterScope"
 kind: api
 owners: [Inno.Core.Diagnostics]

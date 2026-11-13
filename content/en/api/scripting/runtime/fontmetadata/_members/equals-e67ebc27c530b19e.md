@@ -2,7 +2,7 @@
 uid: api.e67ebc27c530b19e1793c3b3ca9582edc0837357a1d3dc8c1893badb2bde3448
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.FontMetadata.Equals(System.Object)"
 source: xml
-reviewed: 5ee1abf0a0c130379f88cd6c7a5b9fe26510173769b483a8eda6732ce828577a
+reviewed: a206bdfc9869d61de648dccea5cead57b8a68a65b25d91331d0e7a42f7067411
 title: "Equals"
 kind: api
 owners: [Inno.Text]

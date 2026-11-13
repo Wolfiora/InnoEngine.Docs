@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime.40ad330200c59bfc
 symbol: "engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.AudioRuntimeOptions"
 source: xml
-reviewed: 340e9ad5eb388191ce7766cff1fb48feefd5786fbb560a46feabc8f443c81119
+reviewed: 9b463363c5fd973ea3ccaa9f0ab93faf0f0e7ddc28c4fce14752a6cb8668d486
 title: "AudioRuntimeOptions"
 kind: api
 owners: [Inno.Audio.Runtime]

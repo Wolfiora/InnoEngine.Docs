@@ -2,7 +2,7 @@
 uid: api.0a17072508618dffcefe63e58fd6ab87faf620e061b9b6735adcc776ce91c14c
 symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingProvider.#ctor"
 source: xml
-reviewed: 00db7bed9bfa12c8614f4e500de5183c005243cd4cc4b4feb7d7fdb3dcb8d6ce
+reviewed: 8c4bafbc9f1e6fd974343b5fe5bc57d597218914eb8f5e8bc903521d745c195f
 title: "Constructor"
 kind: api
 owners: [Inno.Animation]

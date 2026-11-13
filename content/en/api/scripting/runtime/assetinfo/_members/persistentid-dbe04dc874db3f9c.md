@@ -2,7 +2,7 @@
 uid: api.dbe04dc874db3f9c42fed9ff3f47f7a11df1df9e51789fa559b5b5b2cb713553
 symbol: "scripting:Inno.Assets:P:InnoEngine.Assets.AssetInfo.persistentId"
 source: xml
-reviewed: 61b7390232ec942a81c89ed84993f23d15dd31aef4e47166065dc543ac539084
+reviewed: 5ba82b6ddaee751c1d11ac5ede472710aa0a997c3fa1aac102d6d28603a0a472
 title: "persistentId"
 kind: api
 owners: [Inno.Assets]

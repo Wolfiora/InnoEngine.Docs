@@ -2,7 +2,7 @@
 uid: api.b99109560bda4d2f60e3d06a2bd2bef7c4755e92bba36b2b412cdef0f4439884
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.ToUInt32ARGB"
 source: xml
-reviewed: 4c5b6a34340cbcd929bd1f8eb0233dc61cfbae9ffc9939aed1e3400916a33638
+reviewed: 40fc2b08314c6c8d6a9a593e6f6ba530b342260f059e4f7c4da9b3d665efc273
 title: "ToUInt32ARGB"
 kind: api
 owners: [Inno.Core.Mathematics]

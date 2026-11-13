@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.85a91bccd4f910ae
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationBindingProvider"
 source: xml
-reviewed: 8397104a5f149e9db096ca8905da5f2bbc3c7f8ec7612299d6bc1fbf7b6a4a61
+reviewed: fbb2f24fe71ae233ce30ae7fe1c4468630b6dfd6354c98bc4f024491e5e41dbf
 title: "AnimationBindingProvider"
 kind: api
 owners: [Inno.Animation]

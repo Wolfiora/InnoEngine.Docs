@@ -2,7 +2,7 @@
 uid: api.7c5ad00e5af722de7b7fdd00f288c960e614dab6436a45411c4620b92116b664
 symbol: "engine:Inno.Animation:M:Inno.Animation.Animation.Pause(Inno.Animation.AnimationPlaybackHandle)"
 source: xml
-reviewed: 43ada5d1bd0b8fdbf661cab6ee0f1ea128fc119749b10816bb495f65bb09e643
+reviewed: c535dfd332916232871ee1e6c40c1a1b9fc94104bae270a84110d3eb2471105a
 title: "Pause"
 kind: api
 owners: [Inno.Animation]

@@ -2,7 +2,7 @@
 uid: api.30b440a5d170a121eff56791f520d3541ab1cd6c91b082cdea37cd481df839d2
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsBoolean(System.String,System.Boolean)"
 source: xml
-reviewed: 01b0337ba1bc66e01ff0029f18fea3a23d5f77f7f4e8e9428b508842fbd907cf
+reviewed: 214ea4cb7f0e8e173da791ff70764f8e65196ce845a06bd37f7dc20e98a4a75a
 title: "GetAsBoolean"
 kind: api
 owners: [Inno.Editor.Settings]

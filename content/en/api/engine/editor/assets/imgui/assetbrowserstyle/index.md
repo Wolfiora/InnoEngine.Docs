@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.imgui.7c2c97482f9d641d
 symbol: "engine:Inno.Editor.Assets.ImGui:T:Inno.Editor.Assets.ImGui.AssetBrowserStyle"
 source: xml
-reviewed: 8cffd18d9ba56529cacd8a0f1d4812c650b4c039821bbb0a606e46d0b2b326ba
+reviewed: a0cf748c3e0adc73025f1e85ea20767a33462d5de039665934a5de51137a1732
 title: "AssetBrowserStyle"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

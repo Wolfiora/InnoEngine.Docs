@@ -2,7 +2,7 @@
 uid: api.2adfc615d3abf78cd69624eb1b06bce5901f0c27070cac5c12e37533e64dd1ce
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFunction.HasSameInterface(InnoEditor.Rendering.Shaders.ShaderSourceFunction)"
 source: xml
-reviewed: 13b4f9019c1e191d3e2c8e4ebf03dc5251c9e395044694f49731c1944b45cd0a
+reviewed: 5f402bc669b8bfddeccadce554f12698929ae89f2a7a31d526cff113efc9b87d
 title: "HasSameInterface"
 kind: api
 owners: [Inno.Rendering.Shaders]

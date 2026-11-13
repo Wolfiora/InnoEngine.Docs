@@ -2,7 +2,7 @@
 uid: api.94ec87f55cbc9caef497f12d9677def1263de76eb4d25072114b40a5534a5df0
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingContributionContext.CanOverride(System.String)"
 source: xml
-reviewed: dbcb1d4b4f790ab246a5a63a0bbf35150b52853ddf7c02e8fd77db1481a16d96
+reviewed: ef3cd27b84beae62f8302826a94c1c61bd74794de57b24d5e9eb875ae5055ce6
 title: "CanOverride"
 kind: api
 owners: [Inno.Core.Settings]

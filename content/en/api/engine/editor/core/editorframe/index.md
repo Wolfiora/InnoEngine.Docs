@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.2ca91ef48ac254c4
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorFrame"
 source: xml
-reviewed: 8dbdb4fd7c7e9da763a17e7d654b0de20f67edee27c183b39c7902fd533e9a77
+reviewed: d2897dff227305dcb7b97dba6a36f061eb8e6086f53b2be1f86e8c48f9bd1eb4
 title: "EditorFrame"
 kind: api
 owners: [Inno.Editor.Core]

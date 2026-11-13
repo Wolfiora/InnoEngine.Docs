@@ -2,7 +2,7 @@
 uid: api.7a9375ed5fc2ae247df9040c559aa51ba393b86387c221fda8159497b4c8c6d1
 symbol: "engine:Inno.UI:M:Inno.UI.UI.RegisterTexture(Inno.UI.UiContextHandle,System.String,Inno.UI.UiTextureData)"
 source: xml
-reviewed: b57c76987718a4a72659ddd0772c73b54fdb33022fbad7491108941d837e5ace
+reviewed: 0be22ba2550997ee0b716ad1c9576f9767d4b2d43bf3fc51710c6d20085cd6d3
 title: "RegisterTexture"
 kind: api
 owners: [Inno.UI]

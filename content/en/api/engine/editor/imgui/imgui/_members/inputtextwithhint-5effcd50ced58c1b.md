@@ -2,7 +2,7 @@
 uid: api.5effcd50ced58c1be92ba72e5cd4e4d027036a95d44767d36f2b69597d1411af
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.InputTextWithHint(System.String,System.String,System.String@,System.Int32,Inno.Editor.ImGui.ImGuiInputTextFlags)"
 source: xml
-reviewed: b7aed1584a2bc1342b0d4762553a8cb5c258f57a979f454ff645ba7d81d94e3c
+reviewed: e85fdef310b7137b16ba2a050a416d7da04d0988c4bce0e57a50e27079af97fa
 title: "InputTextWithHint"
 kind: api
 owners: [Inno.Editor.ImGui]

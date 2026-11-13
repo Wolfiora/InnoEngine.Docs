@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.beef6d71b227d69b
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetSampleSourceRewriterAttribute"
 source: xml
-reviewed: a21ac1bbf7684a4a1d8d01c53f0878d17f420ed48bd0a7cdfaad742eaa923331
+reviewed: 9d77fb1925891d8a3ab0c9d014b48fe1b920bed9e98f7c395217d29c951a30b2
 title: "AssetSampleSourceRewriterAttribute"
 kind: api
 owners: [Inno.Assets.Pipeline]

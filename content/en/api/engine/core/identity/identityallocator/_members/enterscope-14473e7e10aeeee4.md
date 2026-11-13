@@ -2,7 +2,7 @@
 uid: api.14473e7e10aeeee459beaa39fe6f43ae4bd4c5a68d060259e4fbb006d66cbf49
 symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.EnterScope"
 source: xml
-reviewed: 32ca6a2a7e8100a95093967c43647d96f23a415ddcf4186db8f6602bdcc5eeb1
+reviewed: 9eadbee398d06b436172c30f01e5b0cec3412f4e02ec117833f7aff2a95f5f1f
 title: "EnterScope"
 kind: api
 owners: [Inno.Core.Identity]

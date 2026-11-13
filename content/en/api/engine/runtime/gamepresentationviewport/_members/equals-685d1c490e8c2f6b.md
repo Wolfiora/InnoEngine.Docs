@@ -2,7 +2,7 @@
 uid: api.685d1c490e8c2f6bba57fad73fbd4b029b813558ff2359b3c64a0a91e6e4d303
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.GamePresentationViewport.Equals(Inno.Runtime.GamePresentationViewport)"
 source: xml
-reviewed: 8fcb13f7ce053577cce33e0bb10e95305555ab20e2debeef85dec7fabdf99929
+reviewed: e5e66994cf030423ee4129ce54c1685c70860e8a5e8c25cdc6da6fdd62217c98
 title: "Equals"
 kind: api
 owners: [Inno.Runtime]

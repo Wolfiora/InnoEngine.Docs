@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.94a016244fd7368c
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.SceneAsset"
 source: xml
-reviewed: 8f528acb0738314b5b5439358174969063bb4baf0766a84013db8f6e15dd02f9
+reviewed: f4c79febfc389721649adaf0837acce9556fec0c1d56e8f2bc8413ac627879b6
 title: "SceneAsset"
 kind: api
 owners: [Inno.Scene]

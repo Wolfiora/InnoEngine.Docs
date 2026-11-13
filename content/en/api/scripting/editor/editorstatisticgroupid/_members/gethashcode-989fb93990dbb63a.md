@@ -2,7 +2,7 @@
 uid: api.989fb93990dbb63a6649e795fdd0495402f3937dcdee7782da07449b7b73b2cd
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatisticGroupId.GetHashCode"
 source: xml
-reviewed: bf3cc007aec5daa3dbafa92f3cf7e8f2f49cf60d5cbb6a85c3b322e04510a18c
+reviewed: b000e98574b35989f3cc51972825fa0f5177e91ee3295077458e306f260c703f
 title: "GetHashCode"
 kind: api
 owners: [Inno.Editor.Core]

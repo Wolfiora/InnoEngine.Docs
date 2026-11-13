@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.641a8b10c3851918
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDeploymentMetadataFactory"
 source: xml
-reviewed: 182425646bdcd4767f21d61acfb0c4637d526e3b220a5d733e0b70fdcde28c35
+reviewed: 196da6278c7183132319e869cb84215497103dc75e2816b77e5493d5abf3fda1
 title: "NativeDeploymentMetadataFactory"
 kind: api
 owners: [Inno.Build.Toolchains]

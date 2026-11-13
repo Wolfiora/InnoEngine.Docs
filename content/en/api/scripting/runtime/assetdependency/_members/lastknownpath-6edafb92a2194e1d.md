@@ -2,7 +2,7 @@
 uid: api.6edafb92a2194e1d6da9c76c6a809806131d69453754bbcf438c76e1ae19ed98
 symbol: "scripting:Inno.Assets:P:InnoEngine.Assets.AssetDependency.lastKnownPath"
 source: xml
-reviewed: d30c0e6e5637342ecddc01282f641b054fd10873388be93430f4230f7d52e7c1
+reviewed: 8ea53f46ba41994545cee0dec039764546e9ca54e03cd582f4a0905535b5690c
 title: "lastKnownPath"
 kind: api
 owners: [Inno.Assets]

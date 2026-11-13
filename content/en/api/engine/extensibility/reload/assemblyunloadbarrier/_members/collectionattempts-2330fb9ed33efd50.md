@@ -2,7 +2,7 @@
 uid: api.2330fb9ed33efd505e9b822ac1197ad4e77efd6931b11ac254bb54d690577b53
 symbol: "engine:Inno.Extensibility.Reload:P:Inno.Extensibility.Reload.AssemblyUnloadBarrier.collectionAttempts"
 source: xml
-reviewed: 467af5e7142699caa64c3b2e4da37c69f7857720477721b9e37d38c02a605e20
+reviewed: bcd3d738b6c40465982198d523b036775f928772ce6d4d338399f66d84d69494
 title: "collectionAttempts"
 kind: api
 owners: [Inno.Extensibility.Reload]

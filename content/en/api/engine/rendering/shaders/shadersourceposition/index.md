@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.a89fe68fccd0b248
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourcePosition"
 source: xml
-reviewed: 49bf9bdb0d3b64b3cc61d78c99f76446656857092ce2e8e9746fcd910bae24da
+reviewed: c4c97d34920d371c717d2e8d69e13af2a5e274fe5ad835fdec968a6d202fea02
 title: "ShaderSourcePosition"
 kind: api
 owners: [Inno.Rendering.Shaders]

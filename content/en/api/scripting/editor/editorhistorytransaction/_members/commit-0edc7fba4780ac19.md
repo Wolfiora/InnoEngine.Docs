@@ -2,7 +2,7 @@
 uid: api.0edc7fba4780ac19ca620918a51a305742c3d9cd126a551e54afb2373e2a3133
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryTransaction.Commit"
 source: xml
-reviewed: 1d8909061ef2ef2e73e827fb89a353d0a9a34cbf2fef7344bc6e7acb006d6968
+reviewed: 4be2649d1ba5ad876f457b0b1914124a1204b625ab83989590d69e65a693e4b4
 title: "Commit"
 kind: api
 owners: [Inno.Editor.Interactions]

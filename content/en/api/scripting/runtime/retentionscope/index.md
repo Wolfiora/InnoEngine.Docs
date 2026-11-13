@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.66faaf5a41d90ab6
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.RetentionScope"
 source: xml
-reviewed: a42a968ffde874791af6ce33a848875c7d6f0146d4bb153460553bc70dc49146
+reviewed: 491d51fd1fbdfeed398ae3f2e056235b80529271dcece1f4282d635763a3365f
 title: "RetentionScope"
 kind: api
 owners: [Inno.Assets]

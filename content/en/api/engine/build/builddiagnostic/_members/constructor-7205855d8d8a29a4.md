@@ -2,7 +2,7 @@
 uid: api.7205855d8d8a29a4ad9723294a1ac818de663a8c4887b0d0562a93db558a528f
 symbol: "engine:Inno.Build:M:Inno.Build.BuildDiagnostic.#ctor(Inno.Build.BuildDiagnosticSeverity,System.String,System.String)"
 source: xml
-reviewed: 3546dfd38d915e3d7e6164faf6585c8b0d392f9ef630d074af0389457b4aedde
+reviewed: 55ea7723d8bd55f45aacb35fa98bbb4158ebdae38ccb315f003096900ec82ad3
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

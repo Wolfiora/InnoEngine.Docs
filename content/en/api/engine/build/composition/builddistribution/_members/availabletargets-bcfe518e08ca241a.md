@@ -2,7 +2,7 @@
 uid: api.bcfe518e08ca241a52199506401213094c3736c443a7586c2f41e7849e7f63a3
 symbol: "engine:Inno.Build.Composition:P:Inno.Build.Composition.BuildDistribution.availableTargets"
 source: xml
-reviewed: caf9d19d513e5900464d9ea5a33ba9077781b7ef6b715d57da6dc6f50d4fd30a
+reviewed: 1245b1c4b28a156e104a8955ce0d9c357925e13896e71339294e568aac564a93
 title: "availableTargets"
 kind: api
 owners: [Inno.Build.Composition]

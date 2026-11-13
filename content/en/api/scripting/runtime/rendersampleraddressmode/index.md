@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.c2ce12d001293ecb
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSamplerAddressMode"
 source: xml
-reviewed: 5de45f81df3dafb91ffc34aa555a32bdd1a5376de88e32e2247bc25d337d12a0
+reviewed: d0661669eb7e308b0ea22ae6a5ba15d9f9beca1c25aa5a67aef242dc61a35ca8
 title: "RenderSamplerAddressMode"
 kind: api
 owners: [Inno.Rendering]

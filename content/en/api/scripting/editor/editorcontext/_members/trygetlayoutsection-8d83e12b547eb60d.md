@@ -2,7 +2,7 @@
 uid: api.8d83e12b547eb60d1360694065de6dceca2be17366cf3107bf1af4eaec124976
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorContext.TryGetLayoutSection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String}@)"
 source: xml
-reviewed: f0bc98cf3a6588987251d4c88cb164f893f48ad56978ecbedf3f0dd8769561c7
+reviewed: cad8d8686c7dcec86477a5a1735053c117a5c0a8b2298f12801410c1dfc781bd
 title: "TryGetLayoutSection"
 kind: api
 owners: [Inno.Editor.Core]

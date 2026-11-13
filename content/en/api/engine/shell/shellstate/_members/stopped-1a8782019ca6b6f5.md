@@ -2,7 +2,7 @@
 uid: api.1a8782019ca6b6f54d11aedbb52e38d7e2dcadffacc903204024bc8e7ac9b75a
 symbol: "engine:Inno.Shell:F:Inno.Shell.ShellState.Stopped"
 source: xml
-reviewed: 5c132057f267515f2e8ded4c755bbb9a60868bfac09d9a21c8315222bf472143
+reviewed: fd6538096a989c71dc3058708a8431eb9e695e566a3147868d4886062c68b096
 title: "Stopped"
 kind: api
 owners: [Inno.Shell]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.179ea54eb9298d00
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorShaderArtifactValidationSnapshot"
 source: xml
-reviewed: 4ba61812ab7aecc33a70c27c34e9d0e8b61768667c25c12d43039e3dee62bd02
+reviewed: d46b4d1b53824496ddebb024e690dab5dc596cbc5be2fc9b6023df961ce3976a
 title: "EditorShaderArtifactValidationSnapshot"
 kind: api
 owners: [Inno.Editor.Rendering]

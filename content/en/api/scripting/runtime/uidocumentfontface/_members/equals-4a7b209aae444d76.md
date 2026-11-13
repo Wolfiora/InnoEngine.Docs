@@ -2,7 +2,7 @@
 uid: api.4a7b209aae444d76d662722e204eb85c7c546c9611b917d3c67d3905f3bce510
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.Equals(System.Object)"
 source: xml
-reviewed: 9bb9bb5b1aca2f7db431aac2d30011822f9eda03333ac92bea6aacd196665cec
+reviewed: 6a8811529d030e4ba5740b4b31851678d268d68689349dc77b7dd78acb8a8f92
 title: "Equals"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.d71320a80206d737e4fa9920f647b4133ac6478b13ade234a90e39babba6dc13
 symbol: "engine:Inno.UI:M:Inno.UI.UiFontRegistration.#ctor(System.ReadOnlyMemory{System.Byte},System.Int32,System.String,Inno.Text.TextFontStyle,System.Int32)"
 source: xml
-reviewed: 1537df4e1d653fcd9bded81ece5003648af05dcdd3f5bfb14ebce5bbc9a440ac
+reviewed: 1c84d60b4b9b98e1c574269f1f09a9589b296e7a76b180d3ba4c806af1f9e966
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

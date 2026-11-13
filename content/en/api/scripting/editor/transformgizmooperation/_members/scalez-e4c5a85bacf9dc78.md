@@ -2,7 +2,7 @@
 uid: api.e4c5a85bacf9dc78ef0a477f21f8cfc8d1d107b26f19bbe8eef83316a4a233d2
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.TransformGizmoOperation.ScaleZ"
 source: xml
-reviewed: fa4fd4f9a17835806df32a9851c19937475c7ab1101dc1d60abbc4ea7788eb72
+reviewed: babe186f5c73723ce1d3755c6cb61ae84192003b276e8fd42f2b62c10f738b62
 title: "ScaleZ"
 kind: api
 owners: [Inno.Editor.ImGui]

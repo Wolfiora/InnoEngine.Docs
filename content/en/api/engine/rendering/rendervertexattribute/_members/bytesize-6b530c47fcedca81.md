@@ -2,7 +2,7 @@
 uid: api.6b530c47fcedca81180b143ace4c40c3ec3349cc9b0a2b9908522cecac4d34ef
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderVertexAttribute.byteSize"
 source: xml
-reviewed: 6033e72e2ff251b76a3d07aa0143d7fb20c26d6da698b10c1e41917e9e1b4c38
+reviewed: e29a92ba0fe45e4f73f0abb22908966b5aad062b1e67afa2e121e7b04b49214c
 title: "byteSize"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.c80d38be9edc96c0
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.DiagnosticLogSink"
 source: xml
-reviewed: 534becafb8c337e78c6b434899d6f27e12a79cfd95e1aee191079ae8fefd71f6
+reviewed: 91268f7a035ff3c77d92e2e50daf477d2b7c5d0e2d5d338f6389a4a1631607fb
 title: "DiagnosticLogSink"
 kind: api
 owners: [Inno.Core.Logging]

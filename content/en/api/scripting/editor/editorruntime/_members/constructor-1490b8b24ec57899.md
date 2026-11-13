@@ -2,7 +2,7 @@
 uid: api.1490b8b24ec578993638cacb5b967f9f8cad0421b1321258a098b71017af464a
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorRuntime.#ctor(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: d564a206dafd90a14a166c40f4900446cc6846c2dae6a2e6c3d4a11becd96645
+reviewed: a52a7c39ac5b55d21090f55d6474b1cb832c3faa1fe9b9bd67b318a5a5762d5f
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Core]

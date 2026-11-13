@@ -2,7 +2,7 @@
 uid: api.e84c97c3f5599d4e72b27ccb9400d8c0854ac7325f49201007e1c207543a5ca3
 symbol: "engine:Inno.Build:M:Inno.Build.GameBuildRequest.#ctor"
 source: xml
-reviewed: c768c3cc9a4900debbc92a9ca37c0327c61e0b41fc924fe13ed51b9bb2d8d958
+reviewed: 8232ad6f1490ef039aebae5885826b9822601db69551b04c061138db6e3ff4ef
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

@@ -2,7 +2,7 @@
 uid: api.e9a16b0542f2fabcc4d5bde0ba20d0e510c1772adeecf32ef15f9114839f8235
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderView.Equals(Inno.Rendering.Runtime.RenderView)"
 source: xml
-reviewed: 34a34ea5df3c53482d2c68bcc016f07dba2b090536407ce27d704e30102bbf43
+reviewed: 93081e59f4d4bfcdc13a8b57c4c4d8160fbc6406964be27a2f2a343d03700d2e
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Runtime]

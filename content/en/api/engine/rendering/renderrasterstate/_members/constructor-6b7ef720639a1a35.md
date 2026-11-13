@@ -2,7 +2,7 @@
 uid: api.6b7ef720639a1a35918feb7a554a9631bff9c518ed748f94f94ccbe00eb22cf4
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderRasterState.#ctor(Inno.Rendering.RenderCullMode,Inno.Rendering.RenderFrontFace,Inno.Rendering.RenderDepthCompare,System.Boolean,Inno.Rendering.RenderBlendState,System.Byte,System.Boolean,Inno.Rendering.RenderPrimitiveTopology)"
 source: xml
-reviewed: 9105e4d1e952ef1ebc319594b80c0e15117b69b54656d1c835af48c59f6b39fd
+reviewed: d7e90afd731f1e87f86def23c26bf7574e57b36160b82d8fbfd27947a938196a
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

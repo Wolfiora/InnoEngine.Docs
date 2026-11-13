@@ -2,7 +2,7 @@
 uid: api.4189a1ec42300ea0ec228848bd2c5119d470e9c0b10803b0c9a195451fd833b9
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetImportSettingsSnapshot.fingerprint"
 source: xml
-reviewed: 4225d4feb2b66f7839bab591cd970bfbfe3deeb1562cc8a6c38f6bbf2e97c1f3
+reviewed: d91859a29a877b16020fefddb487fca33894cffa4b4ad913986508fc69127a17
 title: "fingerprint"
 kind: api
 owners: [Inno.Assets.Pipeline]

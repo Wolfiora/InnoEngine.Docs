@@ -2,7 +2,7 @@
 uid: api.ef307248c5c928c2c95267c1afbd8500f23cf2831fb9f9ebb71adbed3725e861
 symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportManipulationSpace.isOrthographic"
 source: xml
-reviewed: f21f2f56f661f6b3af8679727dcbd534b2c6120d5da8a56981a777e31f3ccae6
+reviewed: ca428c2e0399d0ef8940aa696202171e0293035b4268aa51964884f6ee895919
 title: "isOrthographic"
 kind: api
 owners: [Inno.Editor.Rendering]

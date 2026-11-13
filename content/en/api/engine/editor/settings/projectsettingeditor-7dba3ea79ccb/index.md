@@ -2,7 +2,7 @@
 uid: api.inno.editor.settings.f3c65486f1ad1216
 symbol: "engine:Inno.Editor.Settings:T:Inno.Editor.Settings.ProjectSettingEditor\u00601"
 source: xml
-reviewed: c1f18b54cb05865af2e03f385d4836718dfcce4c5b47fad2366f6974e9d6dea5
+reviewed: 4c0e1e135a7000a8842231c2e3a1cfa3f89f5c4cb4b3a065a93888573efc0fc4
 title: "ProjectSettingEditor"
 kind: api
 owners: [Inno.Editor.Settings]

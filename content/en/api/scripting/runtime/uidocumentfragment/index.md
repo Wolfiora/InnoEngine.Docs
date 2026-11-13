@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.51f20d53c3de35f8
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDocumentFragment"
 source: xml
-reviewed: 6ccd0445f086692f552acc606e03e092ca6cccc0bb8bca6ed00bd1c1d1eff6c2
+reviewed: 9dafb887b1469b0a7c3a15b4637b825a98d7b66d1678b63966a1f18fd52fe754
 title: "UiDocumentFragment"
 kind: api
 owners: [Inno.UI]

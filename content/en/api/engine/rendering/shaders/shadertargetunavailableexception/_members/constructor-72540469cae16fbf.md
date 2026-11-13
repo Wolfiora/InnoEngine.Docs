@@ -2,7 +2,7 @@
 uid: api.72540469cae16fbfa534fe86ffe43253988a064246bf927edf0c2bf0f60ef05b
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderTargetUnavailableException.#ctor(System.String)"
 source: xml
-reviewed: 17f3ff3a8cb52122c4b05281727516295edb167536995aa2bc96d2170e2042ec
+reviewed: f0f31eae3384d8f6c156e114d88b04cf42e70f904b05c537d53fadaf1c02ebe3
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

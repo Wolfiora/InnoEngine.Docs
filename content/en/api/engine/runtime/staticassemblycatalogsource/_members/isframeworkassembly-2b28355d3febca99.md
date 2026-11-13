@@ -2,7 +2,7 @@
 uid: api.2b28355d3febca99b10f67451f68a2dfb96dc8f872eee6cb7306710276cf74a6
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.IsFrameworkAssembly(System.Reflection.Assembly)"
 source: xml
-reviewed: 3d50e06ed5fdb7ea50b45b566aab8e45ef2d6c5a6b1befb280ebfe60159f2d60
+reviewed: f2802496c524ba12af7b6235d15e1948d329b10b6859c9feb9bb045605c4fcbb
 title: "IsFrameworkAssembly"
 kind: api
 owners: [Inno.Runtime]

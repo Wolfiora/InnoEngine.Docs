@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.a2ca5f7dd7bd26d5
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiSelectableFlags"
 source: xml
-reviewed: 15e58c8d0721d5db081d7963b6abc645965a3dd9cbba0574dbf490d7b9561c99
+reviewed: c00cf91c655a7539260a33f2018065c29faffee628ccc46e83fde818a70e5cf8
 title: "ImGuiSelectableFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

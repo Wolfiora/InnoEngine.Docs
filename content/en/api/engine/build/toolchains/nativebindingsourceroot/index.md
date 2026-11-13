@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.c422605c13a4c705
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingSourceRoot"
 source: xml
-reviewed: 4a4c9693822d24558203ec405707a116b046cf6913c28ac9f86ec73012678740
+reviewed: 9a2c3bc7c2a97903e052a83a2e07542c090fe3829ab0d3a8db52e8d80ff3fa50
 title: "NativeBindingSourceRoot"
 kind: api
 owners: [Inno.Build.Toolchains]

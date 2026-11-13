@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.f6e107996be6c074
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderRequestProvider"
 source: xml
-reviewed: 357c0cad838dff156725f81e2a0e9a0b0475e272572e5f9f7d41700f411af9ae
+reviewed: 51dc6d80278149c802facb3a32187f9c41aff0897cd3a8725599bfb75fdb13bb
 title: "RenderRequestProvider"
 kind: api
 owners: [Inno.Rendering.Runtime]

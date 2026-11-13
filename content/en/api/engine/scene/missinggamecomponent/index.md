@@ -2,7 +2,7 @@
 uid: api.inno.scene.83abc338c761e599
 symbol: "engine:Inno.Scene:T:Inno.Scene.MissingGameComponent"
 source: xml
-reviewed: a1ef825645b2c5b783d00d37da0f62f0ebaf8bfe5595e5ec345700c23489e327
+reviewed: 23faca86fbea4258a4ef4526bc01f824aa122b390f5fae6b8399d63c7276902d
 title: "MissingGameComponent"
 kind: api
 owners: [Inno.Scene]

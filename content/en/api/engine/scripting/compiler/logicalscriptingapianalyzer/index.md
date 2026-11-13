@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.951c55fbe067f0bc
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.LogicalScriptingApiAnalyzer"
 source: xml
-reviewed: eb32377c170c858a001fc9d0aabebac473dd3d058f268a6e2026b4686ec85650
+reviewed: 9a77fdf403d565eb811e721378fb3aed1f51751c6b4cab2d353d7341371627c4
 title: "LogicalScriptingApiAnalyzer"
 kind: api
 owners: [Inno.Scripting.Compiler]

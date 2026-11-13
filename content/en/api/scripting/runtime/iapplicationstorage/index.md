@@ -2,7 +2,7 @@
 uid: api.inno.storage.runtime-script.e5e7f946b5949b8b
 symbol: "scripting:Inno.Storage:T:InnoEngine.Storage.IApplicationStorage"
 source: xml
-reviewed: 424e0bfc3b877a5f338dbdfe7e9a89c9937905cf58c2fd23d675844750680694
+reviewed: ed041acf68a891a08b8044bdb108382efcd48f875a2bcf6895aaa9cf55fa6f81
 title: "IApplicationStorage"
 kind: api
 owners: [Inno.Storage]

@@ -2,7 +2,7 @@
 uid: api.01d5eef3d9105af3cf2fdd36d5359e44202d9b663689822600be7a945b58b9c0
 symbol: "engine:Inno.Core.Serialization:P:Inno.Core.Serialization.SerializationTypeMetadata.type"
 source: xml
-reviewed: c4a4cc50960b102198410551409ef88615f33650740b1d075f5e2ee6b7ef2151
+reviewed: e447acbe96bb63d31669e77384159e1e7e88dac1f8b5be3144261e7f98cb3cba
 title: "type"
 kind: api
 owners: [Inno.Core.Serialization]

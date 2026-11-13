@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.1ed1ea57fab03581
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiCol"
 source: xml
-reviewed: 921d3168e65d2e54ac69d4e1864eb42478140216908732cb1d052806a6c8ddec
+reviewed: c5a4d3e4d11f8df5cd3dc1a5ad7012b99fffc84ba95b7a338bf82698488da1ba
 title: "ImGuiCol"
 kind: api
 owners: [Inno.Editor.ImGui]

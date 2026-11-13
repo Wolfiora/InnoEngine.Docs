@@ -2,7 +2,7 @@
 uid: api.896c6c0c12dacb321cd33b3adb4a702eaf19902a5810433cb6710c92f1985d12
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.GraphicsPipelineHandle)"
 source: xml
-reviewed: db40c34ef91855dfb0d8daa8feb741643cb797ec907af7d8100af90ae0a80bd2
+reviewed: 90a851965124e689e3516ae2e241871712218cb79d9ad8b95322432267cd3b8e
 title: "GetHandleIdentity"
 kind: api
 owners: [Inno.Rendering]

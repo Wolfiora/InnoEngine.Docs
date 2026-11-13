@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.f207cb2827c221a6
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetSampleImportProgress"
 source: xml
-reviewed: 0853f659c5395f2254359f4ade103b2db934826fb9acb9b207fe689d13fd9e57
+reviewed: 2b71894c3326ded9270bc0393dc97260af27b532a98dc307623afe4e49b45b29
 title: "AssetSampleImportProgress"
 kind: api
 owners: [Inno.Editor.Assets]

@@ -2,7 +2,7 @@
 uid: api.ecf17bb19f7568f306453562f8e5e99592921f113326298ae8574d0347f1061a
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiWindowFlags.NoInputs"
 source: xml
-reviewed: 0b455113e6a5ff73d7d7dadfa7ea25460d3d6b8db48ea433e2bc750511ab5931
+reviewed: 7af504ea848cf5fc56a3efa5ce28f1cff36b54d507705268ec80293fd733ae18
 title: "NoInputs"
 kind: api
 owners: [Inno.Editor.ImGui]

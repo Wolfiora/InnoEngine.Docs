@@ -2,7 +2,7 @@
 uid: api.7c69f6d98f696f8244ed081973b532f3aee248da35969e02828da10825839172
 symbol: "engine:Inno.Build:M:Inno.Build.BuildProfileStore.#ctor(System.String,Inno.Core.Serialization.SerializationRegistry)"
 source: xml
-reviewed: 3cdf51386a3d0ab8311f032339e39fe44e7b90da9e7718dee344c986b688ccba
+reviewed: d2bc2f3e154b8f8e8a1434d900322dd6158d0be6bfeb68d677d5ed6477501eb5
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

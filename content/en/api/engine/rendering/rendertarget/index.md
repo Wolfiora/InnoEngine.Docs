@@ -2,7 +2,7 @@
 uid: api.inno.rendering.07b702263e26627e
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderTarget"
 source: xml
-reviewed: 2fff512117f429c89307dcfff47cbd0c9ee93ec9818d005632a36c1e213d1d11
+reviewed: 20d1e85badb5f3cdd0bacd15b103be1fb7ed7c2d852cdddc8e1f17ca24b9dab7
 title: "RenderTarget"
 kind: api
 owners: [Inno.Rendering]

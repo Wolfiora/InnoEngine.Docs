@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.b67715d5a563745c
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphTemplateRegistry"
 source: xml
-reviewed: aaa23f5ab0f851bfd4de43d9d7088845b2c2aaa0105f79dbb6cbae866159c8d7
+reviewed: f4b29786c3793b76ca66ab3e76209f1269dd799f4a17e8cf61ba3bfd0b6db73a
 title: "ShaderGraphTemplateRegistry"
 kind: api
 owners: [Inno.Rendering.Shaders]

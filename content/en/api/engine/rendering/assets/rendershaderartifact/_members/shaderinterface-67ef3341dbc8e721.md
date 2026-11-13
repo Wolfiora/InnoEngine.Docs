@@ -2,7 +2,7 @@
 uid: api.67ef3341dbc8e7217e27953dea3e62414815448d837022c6ab1a3730edd44c13
 symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderArtifact.shaderInterface"
 source: xml
-reviewed: 87a9f110f911f3718c791169d98575d1cf50bcfae74353d9fbefc5606254484d
+reviewed: 9d6bb0320f6ff8aab4656c997c3e9f37609f4f1f6fe1d8c20eddfd8c05bf8767
 title: "shaderInterface"
 kind: api
 owners: [Inno.Rendering.Assets]

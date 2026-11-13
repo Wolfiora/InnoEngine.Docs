@@ -2,7 +2,7 @@
 uid: api.4f52b4c4493c3efb206c713fb0a5846ef4525a3c4679b126501a49c9db80feb6
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.ReadObject(System.String)"
 source: xml
-reviewed: 6d2e27c313410b72d9d871a50e4c69fd77b47dc0dd30073a7306e5574f4b808d
+reviewed: e6a78ef4d59d79070ea9c2700c524306cc1afa4760489214bbb55afaf753053e
 title: "ReadObject"
 kind: api
 owners: [Inno.Core.Serialization]

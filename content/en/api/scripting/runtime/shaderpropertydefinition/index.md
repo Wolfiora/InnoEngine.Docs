@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.ffb96bd2b4b0a737
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderPropertyDefinition"
 source: xml
-reviewed: 5b3c8572af1422f7d33210b8c94876c55234d475a83eb053b4a8edc2e5319a1c
+reviewed: 4ac250970600edd0248bd226511357cef67768670eca78106450eff2a22ac27d
 title: "ShaderPropertyDefinition"
 kind: api
 owners: [Inno.Rendering.Assets]

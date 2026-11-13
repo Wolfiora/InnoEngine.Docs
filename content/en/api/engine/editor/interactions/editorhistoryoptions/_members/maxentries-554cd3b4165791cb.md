@@ -2,7 +2,7 @@
 uid: api.554cd3b4165791cbe329f1671ca50ee79bad68e3b4a4a49a940b497af8b34eb7
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorHistoryOptions.maxEntries"
 source: xml
-reviewed: 68d4d4a58fd615cc6563cd7581594fac3c40cf32a1ba4ee6352dcf39e1b48ee8
+reviewed: cda2f522e5b8619895485fe028c078743dd648e239abbf60e906d11789784538
 title: "maxEntries"
 kind: api
 owners: [Inno.Editor.Interactions]

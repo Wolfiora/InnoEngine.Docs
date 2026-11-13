@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.8f2ffca915997fe8
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentImportSettings"
 source: xml
-reviewed: 6e242396960caca92fbe6c0240f33e0fba9554ca549e5605337e14f885d2f12a
+reviewed: 95fae619ca049ca43b2b31f4b3ea6b67f68a0ef1ba61a3b092fcaadb1f4e5248
 title: "UiDocumentImportSettings"
 kind: api
 owners: [Inno.UI.Assets]

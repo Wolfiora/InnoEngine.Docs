@@ -2,7 +2,7 @@
 uid: api.6b5fda37b4599070d561b48720efa16aa8a6a711ffb541fcded3c5c03f214dd5
 symbol: "engine:Inno.Core.Logging:P:Inno.Core.Logging.LogSessionId.isAssigned"
 source: xml
-reviewed: 04e237f9e0f76d4928b08d2ecb17cb21f605e4e17469de2d1aa668ab8857b9d0
+reviewed: 869008e417038e260f71982ba5c92cd964de6bb3b4a60b6394e32696ebdf6391
 title: "isAssigned"
 kind: api
 owners: [Inno.Core.Logging]

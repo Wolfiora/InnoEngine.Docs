@@ -2,7 +2,7 @@
 uid: api.23208fdf4fc6d67015aa96d804d4239d4440ce0e36367336f9b7608082648bbe
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTreeNodeFlags.SpanFullWidth"
 source: xml
-reviewed: da61676c98057c3ee7906e6c739da66bbddafa13fc6cbc89cbb7053f116220c8
+reviewed: 942e63712f25170c54e516af91ad54d03f4c339e1f5e110a2654edff8422bdcb
 title: "SpanFullWidth"
 kind: api
 owners: [Inno.Editor.ImGui]

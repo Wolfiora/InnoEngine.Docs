@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.762eabbced8955c7
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildDistribution"
 source: xml
-reviewed: 3b3ab82f78156d4adaa410ae4d07f91fcafa5875eeef36c8accd8c7c39a8a14d
+reviewed: e78d638d7f7d5a562e2f344536dc76d97688f5c36ed58ecd6f061516d6e9765a
 title: "BuildDistribution"
 kind: api
 owners: [Inno.Build.Composition]

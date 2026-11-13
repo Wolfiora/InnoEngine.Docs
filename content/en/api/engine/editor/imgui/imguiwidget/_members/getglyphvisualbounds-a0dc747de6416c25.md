@@ -2,7 +2,7 @@
 uid: api.a0dc747de6416c25675ab0df6fb2e5910715c181237c73e28555e9603956e4d2
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetGlyphVisualBounds(System.Single,System.String)"
 source: xml
-reviewed: c5fdeace99f840d8bcad159daae6ceac110790795090f37d8f3a52840535c249
+reviewed: 966fbaadaeea2d9a34cb32f7f67f99269916d7cff0552f06777e01cbd5e6328f
 title: "GetGlyphVisualBounds"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.9e865a3d81bb6a21
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorViewportOutput"
 source: xml
-reviewed: 828f7cd762012aebb52f7621d10c4cb6b6388ff9eb4000661ffc9190a01d1e3e
+reviewed: daf5756672800aa986ee529c89bed92e3bfa3e91b1cf0dc258a99d22baaad3bf
 title: "EditorViewportOutput"
 kind: api
 owners: [Inno.Editor.Rendering]

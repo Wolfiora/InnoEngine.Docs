@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.099e8a63467d45c9
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingIncludeDirectory"
 source: xml
-reviewed: f2f9392e7252f522d78faf2c48ae6fd497cfc6745e78109b9c62dd521bdc5ff2
+reviewed: c855e1eb452758c6f1c79c860d630d6185937a08c57a172bccc884bcd34c2f83
 title: "NativeBindingIncludeDirectory"
 kind: api
 owners: [Inno.Build.Toolchains]

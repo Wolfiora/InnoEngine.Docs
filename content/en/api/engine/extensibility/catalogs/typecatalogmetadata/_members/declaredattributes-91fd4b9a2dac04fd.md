@@ -2,7 +2,7 @@
 uid: api.91fd4b9a2dac04fd009d79065e28f486ba1205408ca8e5e679c44ed20f580855
 symbol: "engine:Inno.Extensibility.Catalogs:P:Inno.Extensibility.Catalogs.TypeCatalogMetadata.declaredAttributes"
 source: xml
-reviewed: d0a4cdef4493a98dd4ba452ccb600653b3ffc30dcc695feb8cf057a07423f3a1
+reviewed: a42874597ab939d13c3e9c0ab95b08a7595578a42693b623fe6563a6fdf9d07d
 title: "declaredAttributes"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

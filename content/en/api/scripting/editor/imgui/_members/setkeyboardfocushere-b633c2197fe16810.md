@@ -2,7 +2,7 @@
 uid: api.b633c2197fe16810ab979e0fec0fb897ce1e5ce00ff6ddcc870913b43b01d676
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetKeyboardFocusHere(System.Int32)"
 source: xml
-reviewed: a30b2f656c3a53b665cc584b63853a5cef7469808a78496dc2ea6865b985f8a2
+reviewed: 11e5c669c64408ccb08b7977b2a2298264bd0a137f357380fd6e2dcd673baaac
 title: "SetKeyboardFocusHere"
 kind: api
 owners: [Inno.Editor.ImGui]

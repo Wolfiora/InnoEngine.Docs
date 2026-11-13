@@ -2,7 +2,7 @@
 uid: api.3bfed4b07fa4c80b8a30f2ce4409b3074317bc76a6c0b7567374d47b046fbabf
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.BeginTextureReadback(Inno.Rendering.PersistentTextureHandle,System.Int32)"
 source: xml
-reviewed: bf2129e8a45003148d3f5192c6026a6bf31edf7c67ae12609a70d512ca70b008
+reviewed: 4dfcda064d504dcaa0eb04522117c54fa11d714afe6bc0d25b171c7be7552c02
 title: "BeginTextureReadback"
 kind: api
 owners: [Inno.Rendering]

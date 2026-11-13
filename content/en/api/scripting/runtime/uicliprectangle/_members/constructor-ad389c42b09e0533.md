@@ -2,7 +2,7 @@
 uid: api.ad389c42b09e05334c708f9538e004705727d8516bc90d5f6920594e539fbc52
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiClipRectangle.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: d56eb0409b2b314e7a64a2c84c902295bcceafb5f3891d2a0708a8d62a6ac202
+reviewed: e635e587579296fbcd81122139a15bafe06018afb967453959306d047be9215b
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

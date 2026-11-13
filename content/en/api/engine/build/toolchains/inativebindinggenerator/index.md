@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.584222bb01ba363a
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.INativeBindingGenerator"
 source: xml
-reviewed: 3e43ac5708d72ebb59f149043d07f3b3aeac4f6106d94726b2d545efbe21696d
+reviewed: 932d0f0eb37594b6fdb4d3ed6095dbc86c96b8c24172725e4cc55c3ec5a548c8
 title: "INativeBindingGenerator"
 kind: api
 owners: [Inno.Build.Toolchains]

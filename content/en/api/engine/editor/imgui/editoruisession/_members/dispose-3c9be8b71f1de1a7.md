@@ -2,7 +2,7 @@
 uid: api.3c9be8b71f1de1a71b08850fb4d47a8beed4d6dc6b21260f1a5492bde3ff0459
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorUiSession.Dispose"
 source: xml
-reviewed: a23bff3703685588b40ad1a506f46a6e4946aa965cdef98ef554bc0aa248a9ba
+reviewed: 42a2066d678f7c72aab2e303e8ac022d9a298b53b2896e1f0d37e3de8cf0d461
 title: "Dispose"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.a1ec232cd2ce7e6a5ac2a977927a772bfb9b7a5b2aecd04a1819447d32354d2e
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Read(System.Byte[],System.Int32,System.Int32)"
 source: xml
-reviewed: d35bc6a101ea8cf4660e9a3f26091e6ce77f08efaa16883589552c0a4edcc132
+reviewed: 1a315f4e03b3b530450b4f0ff185000cc04c130048b72190724b6f59dfc79d88
 title: "Read"
 kind: api
 owners: [Inno.Core.IO]

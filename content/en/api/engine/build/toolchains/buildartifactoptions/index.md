@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.aaa2ad78c607f7a8
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactOptions"
 source: xml
-reviewed: 5a06510f119e1d93b6a91123d7e0ef1f85d9cb541432b5977d410810cdc0f969
+reviewed: 7b5d32a6fb3102368ba295fa9b6ba3b6b6d07568cf9b7cd33d96002cc52c502a
 title: "BuildArtifactOptions"
 kind: api
 owners: [Inno.Build.Toolchains]

@@ -2,7 +2,7 @@
 uid: api.144c945db099bf11d348ca20a1723aa179d490191d5ed07b3b5211cb927c05b5
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.GetLayer(System.String)"
 source: xml
-reviewed: 695638b8230bec530e471fa3504de8112bf4a69ffc3e19ab227cd9f33c87a44c
+reviewed: a2bf44169b9a2b6b6d96246c4584afbb486ccd186f7f47d08f4922477ea90cd5
 title: "GetLayer"
 kind: api
 owners: [Inno.Scene]

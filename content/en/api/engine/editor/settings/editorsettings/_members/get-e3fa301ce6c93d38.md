@@ -2,7 +2,7 @@
 uid: api.e3fa301ce6c93d38d3962acf2f66156b7c146eea7d8131323d7bda1a771c5ae3
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.Get(System.String)"
 source: xml
-reviewed: 8c89bd05709a82a94b5e83d20598f96d96863f8ad9c460583d51bf4eea3e917c
+reviewed: 53b0d1f0140d6baa2afe170fc9a79f43d5f20c1f5f96ca5fe28a749326d75c77
 title: "Get"
 kind: api
 owners: [Inno.Editor.Settings]

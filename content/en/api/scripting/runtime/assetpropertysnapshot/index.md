@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.5129ec365a4afb48
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetPropertySnapshot"
 source: xml
-reviewed: c0cbeb0bee71df6afde80d2ef7a2d79bf11a2b983b96e479cc5af543b8c4171f
+reviewed: 697735d6d6c48736c8a15a80f05b8e31f1c6631b0507506901fbfada7587943c
 title: "AssetPropertySnapshot"
 kind: api
 owners: [Inno.Assets]

@@ -2,7 +2,7 @@
 uid: api.0c140bd8535ba0d0cd93539e4e7055285725981e3f9b5fadc0d7762deeef0f1b
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderBlendFactor.Constant"
 source: xml
-reviewed: 83f9f2e323bec7c73ccede94f178aaf1df8337c784ef14ff818c86877fe1c7c8
+reviewed: bdd0877287dc9d2a6c1072f4a69a89ce9197513ea8df36c99ce784d6110e08c4
 title: "Constant"
 kind: api
 owners: [Inno.Rendering]

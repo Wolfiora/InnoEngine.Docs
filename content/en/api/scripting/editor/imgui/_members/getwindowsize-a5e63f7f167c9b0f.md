@@ -2,7 +2,7 @@
 uid: api.a5e63f7f167c9b0fddb8c807f2c3360b2da631d891d33ba27f52524b44c582c4
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetWindowSize"
 source: xml
-reviewed: 461a5892f91de15c7caf598b89db20e399d5293a1bd4bde7aea6bbb5e5ac4582
+reviewed: d3c05af2814bb385e317054d8275d06c673e36645dc84e3ae176806e22b2ebbf
 title: "GetWindowSize"
 kind: api
 owners: [Inno.Editor.ImGui]

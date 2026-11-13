@@ -2,7 +2,7 @@
 uid: api.ef33839ee239207a026673086e656f16881d25cf6201e684e42dec91a5e3e911
 symbol: "scripting:Inno.Editor.Shaders:P:InnoEditor.Shaders.ShaderPreviewContext.resourceId"
 source: xml
-reviewed: 68c2289d49f51330410a6f6d16bea00072de1039e2652e869170881f0800a3e2
+reviewed: 886e6f9d8f4f71e9a3ad89b76f61577340f432aaa46164eb1f64121f4fafc2e6
 title: "resourceId"
 kind: api
 owners: [Inno.Editor.Shaders]

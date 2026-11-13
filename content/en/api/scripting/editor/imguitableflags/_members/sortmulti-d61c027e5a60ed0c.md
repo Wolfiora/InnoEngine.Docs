@@ -2,7 +2,7 @@
 uid: api.d61c027e5a60ed0cf055702c55dbeffcbac3837c3dc7b0c3182645d8b65a3970
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableFlags.SortMulti"
 source: xml
-reviewed: 4e3c074abec5a4b8f8f7ab206daa8871503938965a51030be5d369fe1125c40b
+reviewed: ff298a0fcdee27b5131df8bbc728ced721a40e4dbc2e0bde2bc323f9a722e6bf
 title: "SortMulti"
 kind: api
 owners: [Inno.Editor.ImGui]

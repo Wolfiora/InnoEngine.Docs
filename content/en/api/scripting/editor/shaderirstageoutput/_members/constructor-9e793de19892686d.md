@@ -2,7 +2,7 @@
 uid: api.9e793de19892686d7f8b736e205285886010a0555ffeb768ab0029f990cdd24c
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStageOutput.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderIrOutputKind,System.String,System.Int32)"
 source: xml
-reviewed: b9a8b459c02cf1068e80bd1be0c9ccc95006b245b42f611e2cc1f6b175152af5
+reviewed: 0096661d19d71f5eee0c48b499b61d34cb108bd24c09d296b868d4b8e1369d27
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

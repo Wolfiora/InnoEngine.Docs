@@ -2,7 +2,7 @@
 uid: api.83647c50eae73fe11f4f0ccb5dfc918c3e9d0914ccbe48eaf75682f126bd8d8a
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.CaptureProperties\u0060\u00601(\u0060\u00600)"
 source: xml
-reviewed: dbc1487f21c0393c34d9c8d0caefb3ad7da4b6a0430fdba6b9711171838b8e5b
+reviewed: 470f56c227fda2d77fe60be6e71d3d7d9cee5d6fdede23b0c9fac1e7417e0311
 title: "CaptureProperties"
 kind: api
 owners: [Inno.Assets.Pipeline]

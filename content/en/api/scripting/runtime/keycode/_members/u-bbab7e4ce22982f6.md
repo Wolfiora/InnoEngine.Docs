@@ -2,7 +2,7 @@
 uid: api.bbab7e4ce22982f6821e8a4f580b8dea4b4bd69e1089dc8d1cba24a68dd2dea1
 symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.U"
 source: xml
-reviewed: a9fe82318d46d3ee05feca6af42f48ee8b95b0f63eccdfc1fd90f6574e69b778
+reviewed: 6ae9b8b673def5d4574a7f0f6ae08b9275a5162b280bf28b6f9f92a861e42953
 title: "U"
 kind: api
 owners: [Inno.Core.Input]

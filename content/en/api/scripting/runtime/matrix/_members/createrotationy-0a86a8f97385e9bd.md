@@ -2,7 +2,7 @@
 uid: api.0a86a8f97385e9bd260f427c8d43f8dd081547125796a9f562b8263780b4d350
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateRotationY(System.Single)"
 source: xml
-reviewed: 871a2edbf20209e1a3e4efa59adac61f35a1cc8d620076cf4eae477fd3b3d58c
+reviewed: 203666fff3d9a94396a0167e959af1ded87646cc52b0ecf96a54067174d713df
 title: "CreateRotationY"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.ffc363afdba95f296d880516eea67582fe2cf4ccaab5b8c0f0881757804286c8
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadStorageTexture(Inno.Rendering.RenderTextureHandle)"
 source: xml
-reviewed: fd18f228bfed72115e70f26206a16ac7d373eed761730ee85219edd89af697d1
+reviewed: 2579db55697c03af72d2f92dccb5bf998702f11454e2a976494a0b09ae2e8baa
 title: "ReadStorageTexture"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.3829332070ab5e78af9dfec769a3517a67a362e6dfbbdfc93be53f2a2670af9c
 symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.disclosureButtonInset"
 source: xml
-reviewed: 0eca046a3b97a8e848649ff7e4e7f7986d3d95c2fd586fed4c818cf587a24ba6
+reviewed: 631aef4be60c8b3801ba5f11bd899b67545285253e8069e1aa6ded59a780d09e
 title: "disclosureButtonInset"
 kind: api
 owners: [Inno.Editor.ImGui]

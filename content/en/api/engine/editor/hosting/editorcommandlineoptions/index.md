@@ -2,7 +2,7 @@
 uid: api.inno.editor.hosting.ad59f502c90c8a47
 symbol: "engine:Inno.Editor.Hosting:T:Inno.Editor.Hosting.EditorCommandLineOptions"
 source: xml
-reviewed: 82f17463ac209c2ef700c9f33043c61967e402f24de07ef734c0fef683d6aeac
+reviewed: d1632d23511fa3020ee2e4a7b25ddefe7c7496af1fbf0f0dd7c550149a9463e5
 title: "EditorCommandLineOptions"
 kind: api
 owners: [Inno.Editor.Hosting]

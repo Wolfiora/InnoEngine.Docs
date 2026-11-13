@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.7c02ecf7c0e73291
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.GameScene"
 source: xml
-reviewed: ff05fc8b1873f5e65599e20c9e956c2f5f0818d8f75c679e53f596d837b64ed9
+reviewed: a804591db56cbdc734cc29e9020e32be8db83677e5db69efcc2bc33fc5696c65
 title: "GameScene"
 kind: api
 owners: [Inno.Scene]

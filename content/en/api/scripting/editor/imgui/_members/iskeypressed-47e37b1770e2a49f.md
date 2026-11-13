@@ -2,7 +2,7 @@
 uid: api.47e37b1770e2a49f380bc79e0467d1b6dfbaad5e1c8a9e20f8a0f4bf3d05989f
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsKeyPressed(InnoEditor.ImGui.ImGuiKey,System.Boolean)"
 source: xml
-reviewed: c9c9c723c8266ef65fb5fc637b3e355b46a0b90ff3140d579ccfae7c0f08cbd6
+reviewed: 36ca43367bb425d48e7cacd2823ff255140afa56a2cb3a088919f9e99600c74d
 title: "IsKeyPressed"
 kind: api
 owners: [Inno.Editor.ImGui]

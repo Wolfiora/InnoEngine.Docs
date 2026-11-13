@@ -2,7 +2,7 @@
 uid: api.0f7aaeebfdf0b8fd115496389a18dbfcc73997bbe01435f77d327bc5a30b8cb6
 symbol: "engine:Inno.Editor.Inspection:P:Inno.Editor.Inspection.PropertyDrawerAttribute.priority"
 source: xml
-reviewed: 5bed6723b38444a3402afcf1ed2d406635ed6cd178db940ad8c13452b7acaafc
+reviewed: 6b3d4192a00b5bf0c77f039bee2e346914a38dad767a1cea2ce7c8b2475e2a45
 title: "priority"
 kind: api
 owners: [Inno.Editor.Inspection]

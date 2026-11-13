@@ -2,7 +2,7 @@
 uid: api.6c434f23e423ae49652fc869bc587abc41e3e87a7c344ef0a633ef16658a7a43
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorHistoryResult.statePreserved"
 source: xml
-reviewed: c6e65bb4559b8d1d20b4744acab06ebab5d4f3ef7978caf7fd3ce83b7a4f4d57
+reviewed: 5487ac65d8f6f16782d87e0d57f67dba0f54f379172ca01d3f94f6df81760b13
 title: "statePreserved"
 kind: api
 owners: [Inno.Editor.Interactions]

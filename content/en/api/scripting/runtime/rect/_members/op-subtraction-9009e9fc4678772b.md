@@ -2,7 +2,7 @@
 uid: api.9009e9fc4678772bfdb27ed3fd095a98effcb0a69e8ebbaa732ad043fbb0b1ff
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.op_Subtraction(InnoEngine.Mathematics.Rect,InnoEngine.Mathematics.Rect)"
 source: xml
-reviewed: 065757cf0325959bff1abc990a17c8bbd75a684e939d8673b3ac1721584b5e31
+reviewed: ded2454522be3b0dc3cdc4304e98df9f997b7cd1c87ceb9bb24e903be13e84c3
 title: "op_Subtraction"
 kind: api
 owners: [Inno.Core.Mathematics]

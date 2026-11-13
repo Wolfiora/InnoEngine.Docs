@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.f7d90396534a4e24
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetCatalogCandidate"
 source: xml
-reviewed: 4b6b5dee5d59e7fbc4c147e0841604ff45144bc3ae0c8e81d12aad94cfa8ea50
+reviewed: 3684103374e2965f8c38552b9fa3b687b06a45fac3a69ae60fb1b87b014f4629
 title: "AssetCatalogCandidate"
 kind: api
 owners: [Inno.Assets.Pipeline]

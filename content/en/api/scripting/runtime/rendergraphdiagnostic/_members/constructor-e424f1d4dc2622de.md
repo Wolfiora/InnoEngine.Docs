@@ -2,7 +2,7 @@
 uid: api.e424f1d4dc2622def3b01b1cc742c8c6d0e203beed755861e942b1df5fd7f63e
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphDiagnostic.#ctor(System.String,System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.String)"
 source: xml
-reviewed: 5a531e56a2d3783e3f03c627665a8d60fa8f869768550338b78bd2a78315ef3c
+reviewed: 11aa7251b5f735d95accc983d4e019c3fb794efc49bd1b68feb6a7891d3b89dd
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

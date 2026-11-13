@@ -2,7 +2,7 @@
 uid: api.4257a27e65bc6accc13c640f6554739bf030762eb44162162d6f15bed8d9fed0
 symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemRegistrationAttribute.#ctor(System.String)"
 source: xml
-reviewed: 88079d2ad92be0dce58eac262d0c36892d839483eb29cf9d98b0c4a6e2a85621
+reviewed: 9fb4e4de85270089a05e135ee45cd204a46ee80dcf6a9e558c5306043077b5ab
 title: "Constructor"
 kind: api
 owners: [Inno.Runtime.Contracts]

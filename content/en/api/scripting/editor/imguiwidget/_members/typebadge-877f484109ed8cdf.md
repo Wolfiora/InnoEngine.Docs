@@ -2,7 +2,7 @@
 uid: api.877f484109ed8cdff69cebddc426bfedd2c60a685f6491e25a04c5f26ff80d22
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.TypeBadge(System.String,System.Numerics.Vector4,System.String)"
 source: xml
-reviewed: ca43781779f8caabcb0e1d858dfe66463b4c57551d56bded29445180e91a8f2e
+reviewed: 85913bc0887364b6dfa19b485fc39baf2694bdd0bf03c777443c30d1e349e255
 title: "TypeBadge"
 kind: api
 owners: [Inno.Editor.ImGui]

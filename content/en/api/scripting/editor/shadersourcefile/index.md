@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.27768f2ed216c4cb
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderSourceFile"
 source: xml
-reviewed: 8b49cec2ed8a19cde48c5c0bdb4b6e5736cef3e48439269750a687447600cc25
+reviewed: 75f9b7a67a12f3a2bb29370baccfd58a53f61113422b2d182728c41ed77f8142
 title: "ShaderSourceFile"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.a43dd7c6e9688fd82424bb85863eb76509d3e5fab3f074e20d54fe04ad203952
 symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginSourceService.GetActivatableCandidates(Inno.Plugins.Authoring.PluginScanResult)"
 source: xml
-reviewed: 0bfb23b166348442a9e90ca5f1896de341184a2387fe059e4875de4d0ca417fd
+reviewed: 08bc48a6ebce33ebb6dbd4cb164ee85fa25b9d7d342791e50a6606c62d772092
 title: "GetActivatableCandidates"
 kind: api
 owners: [Inno.Plugins.Authoring]

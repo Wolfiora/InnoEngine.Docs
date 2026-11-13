@@ -2,7 +2,7 @@
 uid: api.c70251c66c8a1bd7c1ab4b67de1dcba6d0c9b3ceb051e25785d2a2fd88085ea9
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.PersistentTextureHandle.isValid"
 source: xml
-reviewed: d3df5b356767401cdfd476e2c781874167d6bdde9723de84ac9b866448cee754
+reviewed: f9ad14c8591487111c71ecbea2bebdc213ef69eccf88a68ca5c003b919bbc60a
 title: "isValid"
 kind: api
 owners: [Inno.Rendering]

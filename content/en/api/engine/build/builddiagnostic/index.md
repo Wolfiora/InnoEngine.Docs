@@ -2,7 +2,7 @@
 uid: api.inno.build.612f22dbfa0296fc
 symbol: "engine:Inno.Build:T:Inno.Build.BuildDiagnostic"
 source: xml
-reviewed: f0e5e60faa91bc1650c24da0ad7c64dffcf0bdcee4ecb1849a6886adbab4a62b
+reviewed: cd4dc1abafd66b06805607eba8a4806f8f87dcff07e7ec4846e3cdd6979dcccf
 title: "BuildDiagnostic"
 kind: api
 owners: [Inno.Build]

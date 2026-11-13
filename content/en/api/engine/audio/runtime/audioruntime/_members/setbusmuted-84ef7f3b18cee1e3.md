@@ -2,7 +2,7 @@
 uid: api.84ef7f3b18cee1e3694b6f741df43ef1427a79b3284a6d42f5711172cd12de91
 symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.SetBusMuted(Inno.Audio.AudioBusId,System.Boolean)"
 source: xml
-reviewed: f303df4b1c5beadcb12557a0d5a2850fc62cebb286da361282222e22c0db8661
+reviewed: a57a87c75bea19b37a973e1b7c0ab1ef4d1cf5e2a8391db04c2ccc0c313be256
 title: "SetBusMuted"
 kind: api
 owners: [Inno.Audio.Runtime]

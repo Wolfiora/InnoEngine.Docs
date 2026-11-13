@@ -2,7 +2,7 @@
 uid: api.inno.editor.exporting.4954455ade0e3688
 symbol: "engine:Inno.Editor.Exporting:T:Inno.Editor.Exporting.EditorExportProgress"
 source: xml
-reviewed: 1f8707e1e27d11937bc6cd53c159ec0acd89f9c3f27b19340321cbde857455ca
+reviewed: e61224ac25c068e740f7aa8474f174f4b4a07650a706dacf4dcf1ea0651584c8
 title: "EditorExportProgress"
 kind: api
 owners: [Inno.Editor.Exporting]

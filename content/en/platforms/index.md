@@ -13,7 +13,7 @@ A platform provides system and SDK integration. A target identifies the intended
 - [Choose a platform and product](select-target.md) before preparing a build.
 - [Build and run a Player](publish-player.md) from a matching Support Pack and game content.
 - [Own windows and rendering surfaces](window-lifetime.md) without invalidating borrowed handles.
-- [Locate content and application data](application-data.md) for desktop layouts and Browser storage.
+- [Locate content and application data](application-data.md) through shared Content and Storage contracts.
 
 ## Current target families
 
@@ -34,3 +34,7 @@ Player publishing selects the supported target and managed deployment explicitly
 ## Backend selection
 
 Products select registered backend capabilities and platform integrations. Shared services do not choose concrete implementations from the host operating system. Review [backend boundaries](../backends/index.md) and the selected product's actual acceptance evidence before claiming support.
+
+## Documentation boundary
+
+This section explains portable product selection and capability limits. Concrete implementations under the engine's platforms/ directory have no project guides or API reference here. Engine API is restricted to src/ and build/ C# owners; tooling usage belongs in Contributing.

@@ -2,7 +2,7 @@
 uid: api.8a01f6ffad2fac02cfde5d62dafb0d4fa621e3500881122d729ac74c7057711f
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.Remove(Inno.Scene.Layers.GameLayer)"
 source: xml
-reviewed: 1eb7a1a8a040e8a28d65d6fdc73f5eec001992503f599fd14267c5e9a8c1299d
+reviewed: a9545181e3cc2c8d0fb3bd28acff54bc61cfa2f0cc2b4bfd67dc573bfdd413bc
 title: "Remove"
 kind: api
 owners: [Inno.Scene]

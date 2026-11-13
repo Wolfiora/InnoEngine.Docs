@@ -2,7 +2,7 @@
 uid: api.fdc622578c40eacec18d3a4fe1de0f1150db73bf201b46431c93adbeb51cb5c2
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetTypeBadgeSize(System.String)"
 source: xml
-reviewed: b75bc6b470d55215b8995c2a19582d0ff97278f22295a1a534aecbe4d49ff9f6
+reviewed: eae1d0af2365dee0987e3ec7b6970a4f9fd1cedf05f71d094ca77d1c32ccb3bf
 title: "GetTypeBadgeSize"
 kind: api
 owners: [Inno.Editor.ImGui]

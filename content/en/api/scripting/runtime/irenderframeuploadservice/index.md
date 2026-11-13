@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.168e39a98fde865f
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.IRenderFrameUploadService"
 source: xml
-reviewed: 5b2606b65a9e11a6d39e80f5264fb7b25a84878a94a75e1be8f92165240725fc
+reviewed: bfe9f32318ad9a036db27fd94703f2b3d779275a16c15df23304cbf6eab1fe18
 title: "IRenderFrameUploadService"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.d0dc469062d9fd5e639e5295b135af41e881277b375723fde3abfcf06ddfb97c
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.Lightbulb"
 source: xml
-reviewed: f9691bc383e16bd24ad6d0241b6117f2fed447c15862b40ac2e35e9adfea0593
+reviewed: 186d4bf209a98395c0bead75d5bf08af3ebd7ae0e8732b53faa61296fb767681
 title: "Lightbulb"
 kind: api
 owners: [Inno.Editor.ImGui]

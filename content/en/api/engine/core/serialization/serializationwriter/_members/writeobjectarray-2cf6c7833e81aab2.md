@@ -2,7 +2,7 @@
 uid: api.2cf6c7833e81aab229d31c8c21b864ad2f537d617c6a9e05bfdab556249d0e77
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.WriteObjectArray\u0060\u00601(System.String,System.Collections.Generic.IEnumerable{\u0060\u00600},System.Action{Inno.Core.Serialization.SerializationWriter,\u0060\u00600},System.Func{\u0060\u00600,Inno.Core.Serialization.SerializationCaptureKeyBuilder,System.Boolean})"
 source: xml
-reviewed: 27ddf68c48ec54a4cb2e5c64668fe2959ea93c793a0dd54f9344d8163673eb7e
+reviewed: 4de371a52adff26a4b30c7d11bf9b700827c5532791618787e9cae72286202f3
 title: "WriteObjectArray"
 kind: api
 owners: [Inno.Core.Serialization]

@@ -2,7 +2,7 @@
 uid: api.7f8fd363fcacc3fe6b8c0e6b2743baba28c4f38c56fbb347bee69f2c87c38603
 symbol: "engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputBackend.Capture(System.Int64)"
 source: xml
-reviewed: ce53ee6633d2d76f30b9338b4d4b10daef5c20265dffc9d1c3006c3902320d8f
+reviewed: 0545be6d1e6328cf927aae50da5313e8125d075115139ce9b3a13653af519038
 title: "Capture"
 kind: api
 owners: [Inno.Adapter.Input]

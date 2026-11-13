@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.4184612b9ecf9bf3
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetDependency"
 source: xml
-reviewed: a7733d2c624ff7e7471368e5486b1627f3d33f4ba1321d5f4157bfc0b461d299
+reviewed: f1f4f0f8e5a26a402cd372f1d2eb6932e98ec73502119116728faf69d1861199
 title: "AssetDependency"
 kind: api
 owners: [Inno.Assets]

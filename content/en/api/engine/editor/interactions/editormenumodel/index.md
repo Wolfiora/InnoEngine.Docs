@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.e0d9ee2f42da4670
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorMenuModel"
 source: xml
-reviewed: 3735d21bda604c5a215d8d25674319e27310002172d6ecee380d2415b07d3d7f
+reviewed: 0fc8a9aacd4866e29ee9098608cf152bed7b2c20c7e36646c0f5ae441b5600be
 title: "EditorMenuModel"
 kind: api
 owners: [Inno.Editor.Interactions]

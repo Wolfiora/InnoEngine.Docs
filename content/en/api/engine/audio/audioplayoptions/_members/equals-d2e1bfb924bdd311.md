@@ -2,7 +2,7 @@
 uid: api.d2e1bfb924bdd311db483c549d306568e369f52a31e9c629a36168441a7ea86a
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioPlayOptions.Equals(Inno.Audio.AudioPlayOptions)"
 source: xml
-reviewed: 1704e6464e3e14b45f2dfc4b6261025b123d6390be88c7602d34f9dc9679f29f
+reviewed: 68018dc2f6519e366977c3310eb66773611d071430f3d83ea1b5e6d4f0c6670c
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

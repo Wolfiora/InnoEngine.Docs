@@ -2,7 +2,7 @@
 uid: api.4ee5b161881fad4f322bcadf82b0c30c3e910894904f70cbb7f30d2e9e718826
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.IAssemblyCatalogTransaction.Complete"
 source: xml
-reviewed: 76906decfc9420d1d84db6495c585b58704f95e7adc17410d1c5359890c8bc6e
+reviewed: 35b5fe2209863269db77666f7b99ae328dcaccc747ce71b46ad0d0371e25cb04
 title: "Complete"
 kind: api
 owners: [Inno.Extensibility.Modules]

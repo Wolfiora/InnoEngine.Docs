@@ -2,7 +2,7 @@
 uid: api.75f7845d388175a43664281eaebbd91faa74dc30ba75608637836a1e09901e56
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetCursorScreenPosition"
 source: xml
-reviewed: 80284a2bff87bb956190a406ae6b695def7ad11be8c9fa14941148a9b49f5873
+reviewed: 9d79eee13bf150382c30a8dbe96556ba5afd9d70300f3beb6a0e3c939ce0ff86
 title: "GetCursorScreenPosition"
 kind: api
 owners: [Inno.Editor.ImGui]

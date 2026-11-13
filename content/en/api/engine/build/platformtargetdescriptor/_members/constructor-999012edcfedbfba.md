@@ -2,7 +2,7 @@
 uid: api.999012edcfedbfba2b7aa57c5c57b85a405188f793019a389b7aa1a6bafd4584
 symbol: "engine:Inno.Build:M:Inno.Build.PlatformTargetDescriptor.#ctor(Inno.Build.BuildTargetId,System.String,System.String,System.String,System.String,System.Boolean)"
 source: xml
-reviewed: 36b0fa40a0cfd77ed24edcb4f95869e450d8fb25f58d4f80a020fcb43fca5837
+reviewed: 9c2ed92141561a55bca7796d9b7d182d72fd7af614af120520bc87930cd7f431
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

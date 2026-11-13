@@ -2,7 +2,7 @@
 uid: api.4533b8ba4672dcbd195612b16d017dfbe98ea82c8d8572b34cf541bb6996e24c
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.Load(Inno.Assets.AssetPath,System.Type)"
 source: xml
-reviewed: e89bc94de30da48b7a22b386aa0cf22084047b9c6341bdb7141bcc92124f9239
+reviewed: fbe1fb5a68197993c7699564079cf30c34b56815c40546c4589b4de5e11cdf5e
 title: "Load"
 kind: api
 owners: [Inno.Assets.Pipeline]

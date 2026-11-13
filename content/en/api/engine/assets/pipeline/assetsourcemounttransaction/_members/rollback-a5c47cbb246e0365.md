@@ -2,7 +2,7 @@
 uid: api.a5c47cbb246e0365e1c8972da543938038d07333a97e39ce2983352e1038e562
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.Rollback"
 source: xml
-reviewed: 2e46421892375179e916607d8ef6877d0198ce5cf2cd3662c5e1b0b02dd17441
+reviewed: 7a869c4c1c779ed73bb972b1961e8c30322354625eae44c851578eee36000cf1
 title: "Rollback"
 kind: api
 owners: [Inno.Assets.Pipeline]

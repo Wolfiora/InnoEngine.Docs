@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.ddc49b8633bfff5b
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.ConsoleLogSink"
 source: xml
-reviewed: 725e6c78d949c67e1b19ff37b0791149c3364bd5664eb9d7f85db96cda39f4a6
+reviewed: 7026f6336caae172befaf56df96c3b02f3e398886644ba90a44ac6695495ef6a
 title: "ConsoleLogSink"
 kind: api
 owners: [Inno.Core.Logging]

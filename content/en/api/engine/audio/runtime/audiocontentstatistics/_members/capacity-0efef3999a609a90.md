@@ -2,7 +2,7 @@
 uid: api.0efef3999a609a90477b8498533788d2e0003624a46469f7edb77009be9fbc69
 symbol: "engine:Inno.Audio.Runtime:P:Inno.Audio.Runtime.AudioContentStatistics.capacity"
 source: xml
-reviewed: 8c5c64913ceea2d1ced2386dea00b619b8a34a2a242f9764e78dccc597f77a69
+reviewed: 126460d2dd48239d3bd51fe6c89eda85d568db63f9544cbe349f03af56faff4a
 title: "capacity"
 kind: api
 owners: [Inno.Audio.Runtime]

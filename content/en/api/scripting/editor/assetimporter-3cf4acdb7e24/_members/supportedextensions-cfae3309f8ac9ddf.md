@@ -2,7 +2,7 @@
 uid: api.cfae3309f8ac9ddf39801812a94b89907ffd184beadcba3262d6e30f582561cf
 symbol: "scripting:Inno.Assets.Pipeline:P:InnoEditor.Assets.AssetImporter.supportedExtensions"
 source: xml
-reviewed: 91c725513188b250925a581ccef004c36a3edbd134966cda1695a987df1ab7f2
+reviewed: 0f5974804e7a9a866fc3cb375f05b3de0161d44d1b070abf1cedc96bcf6dda45
 title: "supportedExtensions"
 kind: api
 owners: [Inno.Assets.Pipeline]

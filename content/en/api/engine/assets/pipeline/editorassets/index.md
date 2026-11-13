@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.e392a6b824367ec4
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.EditorAssets"
 source: xml
-reviewed: d79dc338cf8b78df91d83ad637a9e53765ff93bd59c093d49ab77fa6871a369b
+reviewed: a69da2e3bfb8119ddceb2a72dc39c24e478cf6edbc31b1683ad8a9b97364ff45
 title: "EditorAssets"
 kind: api
 owners: [Inno.Assets.Pipeline]

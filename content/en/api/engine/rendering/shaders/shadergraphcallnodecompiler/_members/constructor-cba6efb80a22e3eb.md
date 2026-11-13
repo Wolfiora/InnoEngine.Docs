@@ -2,7 +2,7 @@
 uid: api.cba6efb80a22e3eb12d40f4a6f766051c819d4bcfcd8e36c68e7c79ef3b35691
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphCallNodeCompiler.#ctor"
 source: xml
-reviewed: 77b6e75f5282847fb196fbb5cd06f91344b052c364d513cfe9b4bf4ad5bf5845
+reviewed: 7e41fa01db14cc7a692f3793e51ed6e938fdf920728d30a0e4ea81ba215d0c4e
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

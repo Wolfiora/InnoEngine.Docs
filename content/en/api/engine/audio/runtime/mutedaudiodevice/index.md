@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime.a63dcfeede6e3455
 symbol: "engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.MutedAudioDevice"
 source: xml
-reviewed: b58c707c4778706808243f83454785a7bc9e93df7746ca5d6482a55ccb2672af
+reviewed: 830aa5e84e0f42b8dbe1d1541ea723aaa35ca2d05b16fc0aa0aad916bcfe1b06
 title: "MutedAudioDevice"
 kind: api
 owners: [Inno.Audio.Runtime]

@@ -2,7 +2,7 @@
 uid: api.fd8b63b4fd3fd4458db808dcd61d19f01338f67c9cabf05bf6433b76aa41773b
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeToolchainSelection.TryResolveExecutable(System.String,System.String@)"
 source: xml
-reviewed: 7d67a2dcbdc103ec15cc281dcaca6069f81c870f906f41f9353100d6c6c53092
+reviewed: cb60095076d7e05fb25df1046f9f711cea7447e7518d6e6e44fe01d3f06eff60
 title: "TryResolveExecutable"
 kind: api
 owners: [Inno.Build.Toolchains]

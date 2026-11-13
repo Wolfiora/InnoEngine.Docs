@@ -2,7 +2,7 @@
 uid: api.1ad6673414521b136d88570455211976a7f07357a451fd8dafa773f420ba31be
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorSelectionState.#ctor"
 source: xml
-reviewed: 29af266da465d3ba5713598ec9315e7e50b58fd2a59341ca177e33bbe4321b0e
+reviewed: 2864cd5c2cbcde8c2d79860c1d317e096c212c347335f2a44ed9734b88354aa3
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

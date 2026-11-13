@@ -2,7 +2,7 @@
 uid: api.c458a9500de57da510bd2f9bfb7b952861c4939ac0b593b96ef89c0ff5dc27af
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.GetHashCode"
 source: xml
-reviewed: 9f84ef16035bfaaf51353d1aa5cb958f55f9d925a3dbba95ccce731ccff2c311
+reviewed: e8b28355c056684ecf9c0fecbf2e224186cbb85f8033f48043e86d931dbb7a00
 title: "GetHashCode"
 kind: api
 owners: [Inno.Core.Mathematics]

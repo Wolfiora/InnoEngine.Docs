@@ -2,7 +2,7 @@
 uid: api.inno.core.events.cbb7274ff8371a01
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.EventHub"
 source: xml
-reviewed: 2475c7350684a6d39bbd6d52aae8f8ec4ee3d8392c1c02ec81ce1e2d5c83d4d8
+reviewed: d884f8944fe808180effbca7d5c57b51d184314655f503c5e241119d9610c3b9
 title: "EventHub"
 kind: api
 owners: [Inno.Core.Events]

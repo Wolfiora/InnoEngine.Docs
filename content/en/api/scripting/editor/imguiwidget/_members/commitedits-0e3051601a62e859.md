@@ -2,7 +2,7 @@
 uid: api.0e3051601a62e859d6ad97e9e4045341a39020ced1ae68de2c8ecf81b3d00bac
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CommitEdits"
 source: xml
-reviewed: 46a7c593f22d4bab4b5bc38f26396b3bf2f3b8cfc8c3262b0d429b379b05d69f
+reviewed: e429f32e3bd0128ab5718bb5abefc0d99c732d26caa5b26f10649a22c75d474f
 title: "CommitEdits"
 kind: api
 owners: [Inno.Editor.ImGui]

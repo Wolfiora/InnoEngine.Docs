@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.950d79d89205df55
 symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Matrix"
 source: xml
-reviewed: e77f0bc31608b739de7b8b178d8769e1989ae3fa3a7736ce4ac6a7af5a1e4b34
+reviewed: 4acb028cc732baf02692f604ff8722fe345003f6e7ec06365c2df4bbeedb2e5c
 title: "Matrix"
 kind: api
 owners: [Inno.Core.Mathematics]

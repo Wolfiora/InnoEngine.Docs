@@ -2,7 +2,7 @@
 uid: api.12f72cdf52ee919c2d55056ad896aeed85fba6340110772a5c9e71620475cf14
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderPassRoleId.op_Equality(InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderPassRoleId)"
 source: xml
-reviewed: 0ad0d6ab5600c907662d5651e4aa09e1f03710ea924b97f938dd5e4796a07ae7
+reviewed: df48d6943267e10deac7c493f7b22c23e1326d9b137716018545c85e95ab7c04
 title: "op_Equality"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.d49714a2db04954f
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderFrontFace"
 source: xml
-reviewed: 28b1d8577d79af4200a9e28675e4a901487d9aede6837cbe557931efc0efc151
+reviewed: f4d533c41946d5d48968ffcec6d98e8ebd74261b006f62bfa62eefc70ff5f917
 title: "RenderFrontFace"
 kind: api
 owners: [Inno.Rendering]

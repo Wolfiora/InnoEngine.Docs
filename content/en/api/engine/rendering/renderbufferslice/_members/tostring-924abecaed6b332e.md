@@ -2,7 +2,7 @@
 uid: api.924abecaed6b332e22d508ec30ccaad4187ba8014b1e3f659c58d221f050adac
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderBufferSlice.ToString"
 source: xml
-reviewed: 12d8e3652692bf183aeb834c1e8ca5aa1d826d9f11173849aafbba5531698afe
+reviewed: 32524cc3307710bc38c75e53ee1c2972062ef116fa4581e76023e5dcb1564162
 title: "ToString"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.audio.fc72d5615a3debf5
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioDistanceModel"
 source: xml
-reviewed: 00b762a240f8c1443a99d4a9a7e047cfe1d1207959e6195f00f13be35556c91d
+reviewed: ff98e309d8b7f9df947282e53fdef9f40731f85ed918e55bd3d07a1c20ea661c
 title: "AudioDistanceModel"
 kind: api
 owners: [Inno.Audio]

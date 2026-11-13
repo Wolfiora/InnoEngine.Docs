@@ -2,7 +2,7 @@
 uid: api.3931acfb4ea1883652ce93d97d2b7cb6349801a175ebd5cdee7d5f97c2c1a532
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProviderContext.#ctor(InnoEngine.References.ContentReadScope,System.Single,System.Int32)"
 source: xml
-reviewed: 97281b172fb2445ab5d867a6ad8dbe02287e7df8ff7d98debc64be3191148962
+reviewed: e6db03ccf3b0bde5054d3308c5a583e4199e8e52097fc3752a4e94d8600c6c70
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

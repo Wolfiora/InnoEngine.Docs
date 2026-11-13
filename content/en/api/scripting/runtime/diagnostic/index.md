@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.runtime-script.8cb2b1c161541b61
 symbol: "scripting:Inno.Core.Diagnostics:T:InnoEngine.Diagnostics.Diagnostic"
 source: xml
-reviewed: 322f618f8e66a6866db747980d51d91bb6fb6edfe5d4be67a47900b8a49ed457
+reviewed: 6442943b011792579eef3e09f6fad440dd7f7351e01c468d676ae859ad6c46f9
 title: "Diagnostic"
 kind: api
 owners: [Inno.Core.Diagnostics]

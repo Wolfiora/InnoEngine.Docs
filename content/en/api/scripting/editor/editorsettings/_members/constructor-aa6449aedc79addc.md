@@ -2,7 +2,7 @@
 uid: api.aa6449aedc79addcaf1aae137320455c4fd2da81db2164c6663639ef74c83f66
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettings.#ctor"
 source: xml
-reviewed: 1b01f61d6bc5edf0a79f38ef25f4a03950c6f0742cb8174f1930df78ceb5fdf4
+reviewed: 2a5f85a71c6dbb2d85bf4e776c3225d8a287497df6562ad08f7e5d01cc9bd888
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Settings]

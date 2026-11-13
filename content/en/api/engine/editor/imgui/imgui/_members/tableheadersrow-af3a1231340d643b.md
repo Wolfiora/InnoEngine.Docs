@@ -2,7 +2,7 @@
 uid: api.af3a1231340d643bfaffd9e62013b0197dacbc7c193aa1dc26d110686ce1deea
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.TableHeadersRow"
 source: xml
-reviewed: 5523863f2fa2b38b5425ddd80a5c45a3e5f351cf6882adfd283e8cb3f76ca7ff
+reviewed: 943af0bcb9b524a3d25deb23fa6b33507f907d9c420de41897c0c4de0fda5d99
 title: "TableHeadersRow"
 kind: api
 owners: [Inno.Editor.ImGui]

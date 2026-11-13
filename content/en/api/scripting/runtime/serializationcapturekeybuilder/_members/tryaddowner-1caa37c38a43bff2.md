@@ -2,7 +2,7 @@
 uid: api.1caa37c38a43bff2566a03f4dab731d98362a9347fb5bcbd5aba4960e196f648
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.TryAddOwner(InnoEngine.Core.IdentityObject,System.Nullable{System.UInt64})"
 source: xml
-reviewed: a2d770da33f571bb63e1ea5a86df886807f1bfb47d7bac404b9528337b166f4b
+reviewed: 870dbf8e9ccc4ee816b12b100ff63bfa9b98e0fc6ec6ca591589302bcdfd384e
 title: "TryAddOwner"
 kind: api
 owners: [Inno.Core.Serialization]

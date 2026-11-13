@@ -2,7 +2,7 @@
 uid: api.d34bb37ee1878ce6496d222115487e13ee37baf281226e46006a3f0980bb6782
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: d18d6f3737ca6ffbd0700057a3f378ffbce45898a542837ce9fda3073703164f
+reviewed: 44f314bb5c4206f9d767b150914c4f75f729600fb62776f880540edcc968ddb7
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Mathematics]

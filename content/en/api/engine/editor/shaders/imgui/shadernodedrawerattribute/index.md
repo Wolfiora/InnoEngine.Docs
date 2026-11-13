@@ -2,7 +2,7 @@
 uid: api.inno.editor.shaders.imgui.4d4cd0bb6ce3b647
 symbol: "engine:Inno.Editor.Shaders.ImGui:T:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerAttribute"
 source: xml
-reviewed: 1a9de62e2652ea85fd0ce14546a6d091b911280ea0b995844ab0ba69c59cbe4c
+reviewed: 115629edf3c4c64db2b7933643452634cf461379322faa0d4dab94151299e36b
 title: "ShaderNodeDrawerAttribute"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

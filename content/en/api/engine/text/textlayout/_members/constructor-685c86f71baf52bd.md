@@ -2,7 +2,7 @@
 uid: api.685c86f71baf52bde0002fb5344cf70693fb33793f359a53d624ddb79ce78fd8
 symbol: "engine:Inno.Text:M:Inno.Text.TextLayout.#ctor(System.Collections.Generic.IEnumerable{Inno.Text.TextGlyph},Inno.Text.TextMetrics,System.Single,System.Single)"
 source: xml
-reviewed: f0f74c93cf5e343be31799f09c4186b27e2ef86c2f9a47cfec9ab8274f6b20d4
+reviewed: 79d43d7fc2d5079daf4ae6cd6a2e073de27c5b4e85630964d883bad32fd941ed
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

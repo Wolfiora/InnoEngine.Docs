@@ -2,7 +2,7 @@
 uid: api.inno.runtime.9ad25beaaa9b8c59
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeSubsystemPipeline"
 source: xml
-reviewed: bfa4c1a03f39c48dd65a0a9a84e3b67d01899a3e5e815031601a9aafb131a030
+reviewed: d448a4814673e46aff3e9dcc6bb915e6fb5558411d6d01ea9948266fffa73fdc
 title: "RuntimeSubsystemPipeline"
 kind: api
 owners: [Inno.Runtime]

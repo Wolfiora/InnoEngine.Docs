@@ -2,7 +2,7 @@
 uid: api.96d8c90a29c09da5f1c747c9f24e5232d34a4afe092945703ba88ede37b58c65
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.NoRoundToFormat"
 source: xml
-reviewed: 5b98ef29a69105a9f86a95c5fb03aafd1cbf5255895b0439f0908ec4321d285c
+reviewed: 741747a740ac7416430410fa5526743baf6d40982cc4d091a6f5888a2b36ac38
 title: "NoRoundToFormat"
 kind: api
 owners: [Inno.Editor.ImGui]

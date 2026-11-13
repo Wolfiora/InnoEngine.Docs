@@ -2,7 +2,7 @@
 uid: api.d494d3aae810be8b2dcbad61c666658aeebd37c0b7abddf20ade6bb113e05af1
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiFont.PushStyle(Inno.Editor.ImGui.ImGuiFontStyle)"
 source: xml
-reviewed: 5c4a7620b1eae0bc308585089cbef05c9724df70e7176c46046e99a644d3562f
+reviewed: 0d939c3e0f86ee07253e2bb101abd19a239f3bf2dd8a6c28884330fb5b8bd470
 title: "PushStyle"
 kind: api
 owners: [Inno.Editor.ImGui]

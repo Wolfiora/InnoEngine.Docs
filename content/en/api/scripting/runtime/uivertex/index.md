@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.a78f65dc5357e256
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiVertex"
 source: xml
-reviewed: f81674636c3eec4fe501c1273ad10e0bf89aae11e5a65f947b3e9f527d7d0a4b
+reviewed: 2b0bfa92a15f7e2e008dc9efce80e33258bb27c7f166177fd2a308e78859977c
 title: "UiVertex"
 kind: api
 owners: [Inno.UI]

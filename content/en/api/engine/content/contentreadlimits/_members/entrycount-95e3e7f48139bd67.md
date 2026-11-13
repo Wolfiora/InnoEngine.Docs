@@ -2,7 +2,7 @@
 uid: api.95e3e7f48139bd6774eb575724eb8540614175f954b57856e361c45e897e783c
 symbol: "engine:Inno.Content:P:Inno.Content.ContentReadLimits.entryCount"
 source: xml
-reviewed: ba81dc72d7d51e65789c7bdf82e0bfe7039be7e863ea807da37afd3a94d75a87
+reviewed: c4bec9e8d719a6e256a93090859937fc598a7019e78451386bad95c0f611a723
 title: "entryCount"
 kind: api
 owners: [Inno.Content]

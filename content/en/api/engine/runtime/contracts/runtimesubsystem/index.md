@@ -2,7 +2,7 @@
 uid: api.inno.runtime.contracts.5f32ef0057834e35
 symbol: "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystem"
 source: xml
-reviewed: 93818c624e8b4a0bef587a1622ceb0e568d378dedd90d24f979224d3ea2146bd
+reviewed: 8d6a71e7cef006c4658c30d1053c9221e1f4f2b289da745ae9c91c4cdb6222ff
 title: "RuntimeSubsystem"
 kind: api
 owners: [Inno.Runtime.Contracts]

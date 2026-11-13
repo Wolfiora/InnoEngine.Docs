@@ -2,7 +2,7 @@
 uid: api.inno.adapter.ui.8e24396f5941ff74
 symbol: "engine:Inno.Adapter.UI:T:Inno.Adapter.UI.IUiBackendFactory"
 source: xml
-reviewed: 3b35df509176c211afda53855516bc294068a54493398297a8903180a532cb8d
+reviewed: 2c76ed074b491e68ff8ddd14b9bb6cede8f0dda0a36d974f799df7683ae08c61
 title: "IUiBackendFactory"
 kind: api
 owners: [Inno.Adapter.UI]

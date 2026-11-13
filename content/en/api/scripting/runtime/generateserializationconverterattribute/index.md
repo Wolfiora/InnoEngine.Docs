@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.runtime-script.9ae87b269132ef77
 symbol: "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.GenerateSerializationConverterAttribute"
 source: xml
-reviewed: fa679fdeedbda366eee916d1265344beccce22b69dd46ea47e98c307c9775712
+reviewed: e52c5f8a4f986c57fa5754fdf2a832373bfd897d9c5ace1e98b8975753a09030
 title: "GenerateSerializationConverterAttribute"
 kind: api
 owners: [Inno.Core.Serialization]

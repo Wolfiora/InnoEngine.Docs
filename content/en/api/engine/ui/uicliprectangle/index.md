@@ -2,7 +2,7 @@
 uid: api.inno.ui.027621c659e0930a
 symbol: "engine:Inno.UI:T:Inno.UI.UiClipRectangle"
 source: xml
-reviewed: 69d2d305f2a8a149e99b00cbc8325669a8613207bcd4480ad5fc0708ae0d8ca7
+reviewed: f391c8837808b11b0e7febe80714190abb834ecfeaa54946ab67cfc83aaa7753
 title: "UiClipRectangle"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.a81a011c9d1cca51f94212fd97f845b685f7ffe05115b6c9b15551555cfe066f
 symbol: "engine:Inno.Scene:M:Inno.Scene.GameObject.RemoveComponent(Inno.Scene.GameComponent)"
 source: xml
-reviewed: 2bf7eefc51b3e3f06cab7714a97537a32773c9cdb02ad8318d93c4d7e01df048
+reviewed: b0e241a5cfb7123d2e8c94a7475e75c490251ab1026d304c22dbfdf66616c0af
 title: "RemoveComponent"
 kind: api
 owners: [Inno.Scene]

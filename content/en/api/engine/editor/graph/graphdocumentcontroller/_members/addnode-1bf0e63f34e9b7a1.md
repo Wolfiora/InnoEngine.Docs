@@ -2,7 +2,7 @@
 uid: api.1bf0e63f34e9b7a103dc9fbc015432810b8e2afaa84f1fac73083491fef38a21
 symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.AddNode(System.String,Inno.Core.Graphs.GraphPosition,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Core.Graphs.GraphSerializedValue})"
 source: xml
-reviewed: 25cf2e9af90a7402500f63fa2c8045aa4ce3655d9e00ffc2b4711ba4ecec9a15
+reviewed: 90fed6f0ee503fc0fbf723d66661f48deeb67820f96c3c15895acc3538f44dcf
 title: "AddNode"
 kind: api
 owners: [Inno.Editor.Graph]

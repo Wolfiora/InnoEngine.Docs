@@ -2,7 +2,7 @@
 uid: api.ab3496ab482e294d2b59f33181a1e0dfc3598ffbc25ab58dca3841bdfbd40dbc
 symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.DisposeProductResources"
 source: xml
-reviewed: e9ad15c068ea622b96a915fa439000ac293a649d0143e8b632243b2993bc3a4a
+reviewed: 0902b5d8c07ce3b15b7eb81702047ffeb124dc2cbe2eb8e3ee52f98d09740709
 title: "DisposeProductResources"
 kind: api
 owners: [Inno.Shell]

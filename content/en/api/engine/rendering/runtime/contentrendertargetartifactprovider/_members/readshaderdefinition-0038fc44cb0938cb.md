@@ -2,7 +2,7 @@
 uid: api.0038fc44cb0938cbcff5667d966df12c724058775849e755ef2c06bdbc1144fe
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ContentRenderTargetArtifactProvider.ReadShaderDefinition(Inno.Rendering.Assets.RenderShaderArtifact)"
 source: xml
-reviewed: 2e5493b90db038860799020efad0618486c0942d2e3d02457ab7c2d79865150f
+reviewed: 4d21b87c38f437177715f4bee36c5964dc244b33a21c9badc19cfb18215a1470
 title: "ReadShaderDefinition"
 kind: api
 owners: [Inno.Rendering.Runtime]

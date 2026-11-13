@@ -2,7 +2,7 @@
 uid: api.39ad21cf6025d9cf2323c88ca64f56e4a3388eec9750218e56c56455f24a52c2
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.TryAddProperties(InnoEngine.Serialization.ISerializable)"
 source: xml
-reviewed: 4580c574d38f32d1311e23e10dbf43c1ceac4dd431ee4bdb28be8b4d9a568d2a
+reviewed: f8923f9bbac70d843f40b3eda45ed5e10d8a2cb1cfcc306eb736d6700282fc71
 title: "TryAddProperties"
 kind: api
 owners: [Inno.Core.Serialization]

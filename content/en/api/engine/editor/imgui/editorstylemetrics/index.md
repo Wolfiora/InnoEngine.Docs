@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.bf7fb9424cd923b9
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorStyleMetrics"
 source: xml
-reviewed: 4463b62dbc553df1b375ebdc40697e8a9127bb9707cf43a2a0f6ac66d215ec59
+reviewed: 1cf8d77f1dbb47afb2a95317f47751614ccd7054101804025acb98694dbc14be
 title: "EditorStyleMetrics"
 kind: api
 owners: [Inno.Editor.ImGui]

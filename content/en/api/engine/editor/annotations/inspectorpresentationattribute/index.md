@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.d97698f91094c2f2
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.InspectorPresentationAttribute"
 source: xml
-reviewed: 9d6a39269b9f1eb2b439eb6718a5181493e2d395d9fca4a8bb95c388204c72e5
+reviewed: b8f98326b7b3a899ed37abad5b13f0ac36b1859584977b1da41973d115d18851
 title: "InspectorPresentationAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

@@ -2,7 +2,7 @@
 uid: api.1adc2a8c136c17da36c4aeb78ac31b778f02181bae25556759367ee279d0be18
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceParameter.name"
 source: xml
-reviewed: fa549780ae91985debdc2b2ccef2d1fd1ea1a4e6c24833a8c3f441785810ffa5
+reviewed: b33b99007db073f29edd3ef206b57743ebccb3b032925d2d5dd0644076485dcf
 title: "name"
 kind: api
 owners: [Inno.Rendering.Shaders]

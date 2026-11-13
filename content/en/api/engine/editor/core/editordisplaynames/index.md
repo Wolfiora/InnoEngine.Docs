@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.b255d4065d822813
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorDisplayNames"
 source: xml
-reviewed: 80d2f5eb485cf76fbfd3abea0c13d3bf635e9bfbe5ddb3fc5e7db1c3934e9b50
+reviewed: 1bb0c0a82e4f275e0411c99282c0502000bb358599925815f1a7b8684f30bb34
 title: "EditorDisplayNames"
 kind: api
 owners: [Inno.Editor.Core]

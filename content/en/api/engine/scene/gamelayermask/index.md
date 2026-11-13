@@ -2,7 +2,7 @@
 uid: api.inno.scene.b09093b6b1884c7c
 symbol: "engine:Inno.Scene:T:Inno.Scene.Layers.GameLayerMask"
 source: xml
-reviewed: c917e37357c1a6f6ac3e1734898fd1d332e6807d82694f4145e7537b9b29124f
+reviewed: 08ae9e2a1447e93f832558c0bb2f18ceb560ed7c8148661f3fcdad65e1975822
 title: "GameLayerMask"
 kind: api
 owners: [Inno.Scene]

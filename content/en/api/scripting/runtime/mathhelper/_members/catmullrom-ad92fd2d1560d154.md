@@ -2,7 +2,7 @@
 uid: api.ad92fd2d1560d1545876ce47a2a81495268e581c8bd705567d65a97213074349
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.CatmullRom(System.Single,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: d1f2354cf7c6f3045cc52bdf985f0317ad911964ed34f67fbbfcea3c5b8cf406
+reviewed: 8a1abbc4a0a2cd70044ef82b20b112b28d713df5fb16700347207f33edc72fde
 title: "CatmullRom"
 kind: api
 owners: [Inno.Core.Mathematics]

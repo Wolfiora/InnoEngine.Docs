@@ -2,7 +2,7 @@
 uid: api.3ee3f64eb22b2372a78be01188affc1901f172110d8a50b924a2add0e35d7330
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiComboFlags.WidthFitPreview"
 source: xml
-reviewed: ef659ca360ccecc0d1b88e43867306ee3bd6cdc585caedae0cb4c9b929e4e437
+reviewed: 999caa53c20905f17d07586ce4b3741fd0d46fd89b19fc941de4a71ecc7393f0
 title: "WidthFitPreview"
 kind: api
 owners: [Inno.Editor.ImGui]

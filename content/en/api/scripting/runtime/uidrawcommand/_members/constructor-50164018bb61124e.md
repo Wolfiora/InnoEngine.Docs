@@ -2,7 +2,7 @@
 uid: api.50164018bb61124ef90bb19d6aa381deebe77b5db90e4a8444a26114e922f5e7
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDrawCommand.#ctor(InnoEngine.UI.UiMeshHandle,InnoEngine.UI.UiTextureHandle,System.Boolean,InnoEngine.UI.UiClipRectangle)"
 source: xml
-reviewed: f16e2bb13acc8478fc4bb28f75b8bf6b667a604e431ef3c50c78221846bf8593
+reviewed: 9c9e4384acfa8339a6050915228e486d7e681345066d3397c70a92f7e8c0402b
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

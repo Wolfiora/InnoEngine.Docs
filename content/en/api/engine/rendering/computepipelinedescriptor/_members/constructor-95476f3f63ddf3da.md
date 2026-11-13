@@ -2,7 +2,7 @@
 uid: api.95476f3f63ddf3da890170ba2495fe81dfed98064a53941c6beacd440620a930
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePipelineDescriptor.#ctor(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderShaderBindingDescriptor})"
 source: xml
-reviewed: 55e7b61afe2977edfe9ef7573478bbd5b9594319288156fdbe1e8b466332c4ec
+reviewed: afdf21a4ac2d2285060447e89e08dc56acfc72d95262b5eb891b3be27fbca87f
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

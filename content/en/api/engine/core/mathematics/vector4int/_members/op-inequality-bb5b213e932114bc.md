@@ -2,7 +2,7 @@
 uid: api.bb5b213e932114bcf59f4072bd02549a7869418c55ee062a2e8469c7055ad023
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Inequality(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int)"
 source: xml
-reviewed: d91550bd12f1b606891a81631a63c26db3d7d23cef1f349183fce5cda2d12e50
+reviewed: 9e184a6c1a7d2593d9fd53f4f3c3d816932c2ab41d56a3f8c5c98e214592a026
 title: "op_Inequality"
 kind: api
 owners: [Inno.Core.Mathematics]

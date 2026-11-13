@@ -2,7 +2,7 @@
 uid: api.5be199f7bf390136c2ae597d5914f94faf2cbb9d96e1f2ef5c9e347d33ed97e9
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorKeyboardPolicy.#ctor(Inno.Core.Input.KeyModifier,System.String)"
 source: xml
-reviewed: 310801427dd1846b20b753a1713dd0ff0eb814368433702081c6651b3bc91de9
+reviewed: a547efaa737934f4db4de2164643cc4cac4c52c6baf0d7b3db04d6502de71a00
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.1ac280c54d07a9165640c4e70c581f95f3a4fb61cdd5895e3a0977fffb610b07
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.CopyBuffer(InnoEngine.Rendering.RenderBufferHandle,InnoEngine.Rendering.RenderBufferHandle)"
 source: xml
-reviewed: 353637c2166c4ca4401f31913f12e82812dfcc1bbc7665c07f4003a2c2fd1be2
+reviewed: 59360b156633915bd18a1df86c51980b610b64e261770822a45df023f7b18c35
 title: "CopyBuffer"
 kind: api
 owners: [Inno.Rendering]

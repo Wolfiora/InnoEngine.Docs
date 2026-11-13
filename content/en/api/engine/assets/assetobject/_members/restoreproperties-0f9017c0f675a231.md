@@ -2,7 +2,7 @@
 uid: api.0f9017c0f675a23127ecb21c9c70260e226464f766d503f7008925d0d01dcf53
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetObject.RestoreProperties\u0060\u00601(System.Guid,System.Byte[],\u0060\u00600)"
 source: xml
-reviewed: 281541b56b9a1f5fe57ca95c5781e7f15ad2d466e77e9fefa8bec8c4a2a57493
+reviewed: 34efd046c5b9f34af2ab178954f38c1e9f48d297a9473d1fccb53c89a7826662
 title: "RestoreProperties"
 kind: api
 owners: [Inno.Assets]

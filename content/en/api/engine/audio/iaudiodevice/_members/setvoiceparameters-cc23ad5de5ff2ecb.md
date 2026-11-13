@@ -2,7 +2,7 @@
 uid: api.cc23ad5de5ff2ecb284c5f34298ac9721c63c2dcc9c38bdff2e5f6158641bc5a
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetVoiceParameters(Inno.Audio.AudioDeviceVoiceHandle,Inno.Audio.AudioVoiceParameters)"
 source: xml
-reviewed: 79981dc929bfbba867c115a3034559202c4ab3b5de20a0e83458a317a7afd291
+reviewed: b7e1a0bab0ef99f77071957ee1a0aa5d34d90aae9e48050d1c38988d59384646
 title: "SetVoiceParameters"
 kind: api
 owners: [Inno.Audio]

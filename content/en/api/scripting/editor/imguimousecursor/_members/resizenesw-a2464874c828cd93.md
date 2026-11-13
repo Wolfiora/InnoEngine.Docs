@@ -2,7 +2,7 @@
 uid: api.a2464874c828cd93af10f178fda573ba8c1f0ea094e9a9df1ee7d88b9be06b1e
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiMouseCursor.ResizeNesw"
 source: xml
-reviewed: b9ae732891226f3178112d6891bfcdd44fa83a3d480c69dd1e56c89e26038608
+reviewed: 11e2f996dd02506a088a3b48fff85eb1473cd8daecb2c80fc215f5fe6b853525
 title: "ResizeNesw"
 kind: api
 owners: [Inno.Editor.ImGui]

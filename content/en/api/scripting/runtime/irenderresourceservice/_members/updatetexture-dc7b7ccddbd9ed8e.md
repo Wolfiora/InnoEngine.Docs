@@ -2,7 +2,7 @@
 uid: api.dc7b7ccddbd9ed8e64f4bd269b2bc3ef4ce4f017c300ec5fd7603720b9d285fb
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.UpdateTexture(InnoEngine.Rendering.PersistentTextureHandle,InnoEngine.Rendering.RenderTextureRegion,System.ReadOnlyMemory{System.Byte})"
 source: xml
-reviewed: b41caa984e85fc5825233daecbb15ef5916907fca199e771e176a0bae4b41bc8
+reviewed: 4fd34fb3a539ed9387a54d62405738d5347ae23d850e93100c0b4b5e88e60f4b
 title: "UpdateTexture"
 kind: api
 owners: [Inno.Rendering.Runtime]

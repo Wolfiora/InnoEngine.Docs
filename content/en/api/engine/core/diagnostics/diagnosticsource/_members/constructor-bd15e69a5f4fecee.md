@@ -2,7 +2,7 @@
 uid: api.bd15e69a5f4feceee3fb06c88a8b789ffdb2544990eb4ce8b998a2dbe8ccc260
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.#ctor(System.String,System.String)"
 source: xml
-reviewed: 6a47ba4d04ccda8e21bfb92e302f3b54c5a879d6e6efa9ab89eb9ae8c9844dd4
+reviewed: cf5d4d78cbdbdf721094474f1b4110e600c03b3f98c84c69bb75a6bd1cf7bba1
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Diagnostics]

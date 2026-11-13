@@ -2,7 +2,7 @@
 uid: api.b325fcc45dbd2b55e9ee9b88fdbab3daea7ed9a7f8b849664d6a76cd6251ab1b
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.Parse(System.String)"
 source: xml
-reviewed: 923548b19ae4e48590bd0cb34bb628ce50d6065208891aaf4f8f418d1a5bea77
+reviewed: 4c1f6345622f19c9d5c0074cdfa93183b6feff0c24603a79394c4772d9af830f
 title: "Parse"
 kind: api
 owners: [Inno.Rendering.Assets]

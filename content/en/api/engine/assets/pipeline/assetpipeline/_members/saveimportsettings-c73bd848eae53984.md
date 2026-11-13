@@ -2,7 +2,7 @@
 uid: api.c73bd848eae539842fb3b8e07603f4c9be419151f5ec0a0585384e0239c9938c
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.SaveImportSettings(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)"
 source: xml
-reviewed: 340d754ba84512922c9da1ddf039613c4cf780866bb70ed68d008f9b5ac15df5
+reviewed: bddd6a00abafeeae85617bb582ceb3be66ca51d18afa56cbe0ad6cd18a0872c1
 title: "SaveImportSettings"
 kind: api
 owners: [Inno.Assets.Pipeline]

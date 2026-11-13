@@ -2,7 +2,7 @@
 uid: api.inno.core.events.1cee4d0bebb4c419
 symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.WindowResizeEvent"
 source: xml
-reviewed: 4934e443b31b89e7b5b928d6eb846354d1bc1e37a3cd037abd63e8b94847215b
+reviewed: 43bacd6a7bdbbdc9e3c3a1616758d2adb21526fe1ab06b62950d3c534824c890
 title: "WindowResizeEvent"
 kind: api
 owners: [Inno.Core.Events]

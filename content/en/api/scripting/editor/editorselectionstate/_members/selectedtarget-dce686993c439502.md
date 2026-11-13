@@ -2,7 +2,7 @@
 uid: api.dce686993c4395025250cdf014ba58cc9b88eadae7c22c394d77214534525a73
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorSelectionState.selectedTarget"
 source: xml
-reviewed: d4d85abd97d885ec89843a37af9c64d63c17191d7683f3aa56916b53f148985f
+reviewed: fde156d724937d015bafd57d1a73e4164bc15772847c6925001f03b44a7ede35
 title: "selectedTarget"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.inno.runtime.992b8a56ea05d1a3
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.GameCodeAssembly"
 source: xml
-reviewed: 746bb0d5f0cbb5ca388a9da9ce3af0012154592de0ac618a3b1d1196d59adbbd
+reviewed: 34440394e976fde809a1bcc48e12baf0ec3a994946ced1be4894369833ae6044
 title: "GameCodeAssembly"
 kind: api
 owners: [Inno.Runtime]

@@ -2,7 +2,7 @@
 uid: api.bf8148f5f0b8d4701af5d9b51b98852ec6b8312a174d721a8d6cb5d0de00502c
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiColorEditFlags.PickerHueBar"
 source: xml
-reviewed: 8207180186f12c5ffd57b54c0440d3730c803b3ac29583e5381693a46dae83c0
+reviewed: d9014581d5d0e9739e54105f44fa3abde3af32a03148aa864611647bd90721cd
 title: "PickerHueBar"
 kind: api
 owners: [Inno.Editor.ImGui]

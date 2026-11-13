@@ -2,7 +2,7 @@
 uid: api.36694b44101c32a96917a6d30130ce46bba01c4dd7336eb1e045e1e5086d9428
 symbol: "engine:Inno.Editor.Assets:P:Inno.Editor.Assets.AssetEditingModule.creationTemplates"
 source: xml
-reviewed: ea596f859412dbf45087521e0cbdbcc3ba8f716dbce4e3af870672793c087872
+reviewed: 20f351d29b031a4106c2e169912186c653b950f7a56541317b82ecbb72cfcd09
 title: "creationTemplates"
 kind: api
 owners: [Inno.Editor.Assets]

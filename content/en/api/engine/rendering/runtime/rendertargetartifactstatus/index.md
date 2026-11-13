@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.d1080169fb72c7e7
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderTargetArtifactStatus"
 source: xml
-reviewed: 33bdb85bafaadc3c7c809bc087f1c140645a95122be70df8baa5d118cf6e4bd5
+reviewed: 207c7cd7261d8a6b748c51fbc8b582556938d5addaae75acd138e91108de241a
 title: "RenderTargetArtifactStatus"
 kind: api
 owners: [Inno.Rendering.Runtime]

@@ -2,7 +2,7 @@
 uid: api.eb7b214ac92d55d52771363fea72bc21469b3c12bdbd3d1d84e9d45dd3f2993d
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.TryGetInnoAssemblyClassification(System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyDomain@,Inno.Extensibility.Modules.AssemblyScope@)"
 source: xml
-reviewed: ec6e04786772800db3e96940629e2eeba109ce376344a49d41331d1cf71cd9cc
+reviewed: c20e0bed61854dd23b7e0e8a7606bf48e2ab05273a9db7530693388794171cdc
 title: "TryGetInnoAssemblyClassification"
 kind: api
 owners: [Inno.Extensibility.Modules]

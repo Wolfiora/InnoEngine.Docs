@@ -2,7 +2,7 @@
 uid: api.1243aeb8d5baba1d4040ab2ddca8da2f0ed428e89925da0d7466fa4987c3fef0
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Rendering.IRenderDevice,Inno.Core.Diagnostics.IDiagnosticReporter,System.Collections.Generic.IEnumerable{Inno.Rendering.IRenderFrameGraphContributor},Inno.Rendering.Runtime.IRenderTargetArtifactProvider,System.Func{Inno.References.ContentReadScope},System.Func{Inno.Rendering.RenderPresentationSize,Inno.Rendering.RenderViewport},Inno.Rendering.Runtime.RenderResourceLimits,System.Func{Inno.Input.InputSnapshot},System.Func{System.Nullable{Inno.Rendering.RenderPresentationSize}},Inno.Rendering.IRenderLayerCompositionProgramProvider)"
 source: xml
-reviewed: d252f8d52e665ed55c3765884af8ae52fd8a0f58a9151b165780c9c398842938
+reviewed: 59bbcb530241cff54374a296ac8abd213e24c08fbd98818e2d03f5435ec37209
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Runtime]

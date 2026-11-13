@@ -2,7 +2,7 @@
 uid: api.c654021f87c107eb3bd0d8a9cd5c1582834f022072549c3f807ccc3a72189869
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorInteractions.keyboard"
 source: xml
-reviewed: 4eb67f0967a588e18fb35cc536fec2c8f3d35001c9f7f2145852ecf748b4178f
+reviewed: 91ddcf3c08b3af7018bb23df99491dba922d3fb8dbe97d81343efd9a708e9681
 title: "keyboard"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.a3bd0d785080dafa38ab628be0fd2ba9e6197ad9419df7c205dfa2d95195f592
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSelectableFlags.NoAutoClosePopups"
 source: xml
-reviewed: cbadfed96fe288b9c265ba5beca9026a0cc5a667be9f3ce43f92cda6f323a32a
+reviewed: c11a2402feae2e34022cebd63ac9067946028846969dfd53ede5d018541e8ee2
 title: "NoAutoClosePopups"
 kind: api
 owners: [Inno.Editor.ImGui]

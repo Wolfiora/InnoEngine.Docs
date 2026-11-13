@@ -2,7 +2,7 @@
 uid: api.a950f74c69ce69205b5062ee1a9efc2994fdf1ebd220a239f8f64cecfc904e57
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.TryGetTextureArtifact(InnoEngine.Rendering.RenderTextureArtifactReference,System.Int32,System.Int32,InnoEditor.Rendering.EditorPreviewHandle@)"
 source: xml
-reviewed: b509fda16e9b1231dc0afc093b10d98590a354232ab2a00bc52df8b455cd8e20
+reviewed: 871b4635081b4f9d82a8e99b863fef1a39f1f1bf43f520e0629d66655493072a
 title: "TryGetTextureArtifact"
 kind: api
 owners: [Inno.Editor.Rendering]

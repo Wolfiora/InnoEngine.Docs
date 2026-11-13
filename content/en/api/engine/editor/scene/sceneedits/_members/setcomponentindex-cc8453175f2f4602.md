@@ -2,7 +2,7 @@
 uid: api.cc8453175f2f4602ff94096d1262999a8ece045b6afc7084e1e3079826375c48
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.SetComponentIndex(Inno.Scene.GameComponent,System.Int32,System.String)"
 source: xml
-reviewed: 73d970afcf402d010dc1c7b1fcc0086bfebe4199f4d6a82ec67da25f6b12bcc3
+reviewed: b4b078da009b67d7aa365d06a5087968bac61c51397d5896d028bd1b924f7d17
 title: "SetComponentIndex"
 kind: api
 owners: [Inno.Editor.Scene]

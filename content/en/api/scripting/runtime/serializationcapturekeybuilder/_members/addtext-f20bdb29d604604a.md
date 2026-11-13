@@ -2,7 +2,7 @@
 uid: api.f20bdb29d604604a4ae430881aea3b0a06ecb4524aaaaa9b3a96a32da8aadc1b
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.AddText(System.String)"
 source: xml
-reviewed: 6e2c84188f3381fc9f69ac8d98c8a2a701997a58e455126f0645f9c0bc0ee154
+reviewed: 43e8637a9a7662beede15ff1661e159010e47762aa9097068915637386c7225c
 title: "AddText"
 kind: api
 owners: [Inno.Core.Serialization]

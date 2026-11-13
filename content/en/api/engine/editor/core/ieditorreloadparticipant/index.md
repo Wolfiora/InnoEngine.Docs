@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.fa4de390b36f1fe8
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.IEditorReloadParticipant"
 source: xml
-reviewed: eafbfbed408e43cf3a7361aa5f0bbd22ce297d3e7ce46c589b4c677e3aef58d3
+reviewed: eeee60132066a8259147c97e8dc834c7fa10ecc1fdc46d95b391745a89282c7a
 title: "IEditorReloadParticipant"
 kind: api
 owners: [Inno.Editor.Core]

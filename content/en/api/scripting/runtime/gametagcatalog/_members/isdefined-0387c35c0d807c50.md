@@ -2,7 +2,7 @@
 uid: api.0387c35c0d807c5046c0789fef0a839fcfba7798ee2057e2d02c6c7ab31e85e5
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameTagCatalog.IsDefined(System.String)"
 source: xml
-reviewed: a5c6124cd2c9120b140736a7baf7bd87bf32a51cb01378375e9e3e316da16191
+reviewed: 1aa11a6a2f54246dac582ceca54f29e2e469ad6e32f45be11d50e28ae20a5c14
 title: "IsDefined"
 kind: api
 owners: [Inno.Scene]

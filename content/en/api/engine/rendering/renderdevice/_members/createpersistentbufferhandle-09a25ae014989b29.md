@@ -2,7 +2,7 @@
 uid: api.09a25ae014989b294bcc746b611ae490cc1db5e25730f373182b1e2e5c2c39f8
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreatePersistentBufferHandle(System.UInt64,System.UInt32)"
 source: xml
-reviewed: b2d7c8ac9f0c601d120d18b534211c3fa4dfdf667ef3d9c44b09c72a897fd7f6
+reviewed: 1abf89959eaebb594b3e6a14ae1770deab9772653894105b97b78052b1d6e77e
 title: "CreatePersistentBufferHandle"
 kind: api
 owners: [Inno.Rendering]

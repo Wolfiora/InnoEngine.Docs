@@ -2,7 +2,7 @@
 uid: api.inno.rendering.1ed5fadeddd4ab87
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.ShaderProgramKind"
 source: xml
-reviewed: 29e0b840089be57bb867d89995a3ea60511c8a41e5980e07effc1aac21fd167c
+reviewed: 162173b1b8d2a277d662146802ff5e37c6c8430c9735deb3312e5bbf2102f6aa
 title: "ShaderProgramKind"
 kind: api
 owners: [Inno.Rendering]

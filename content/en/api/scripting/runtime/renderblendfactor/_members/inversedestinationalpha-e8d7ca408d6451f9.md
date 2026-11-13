@@ -2,7 +2,7 @@
 uid: api.e8d7ca408d6451f94e748120d5902b000aa88b61c05ae90f287af01c141b3f02
 symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendFactor.InverseDestinationAlpha"
 source: xml
-reviewed: 006187d05ef6a54e58979f95fae435ca7206453de26a113f86d8d3156ce86cbe
+reviewed: e2c5f6347cac2b1633b114a5c2b6b7b36b72e9150754c2189b37222a9547e652
 title: "InverseDestinationAlpha"
 kind: api
 owners: [Inno.Rendering]

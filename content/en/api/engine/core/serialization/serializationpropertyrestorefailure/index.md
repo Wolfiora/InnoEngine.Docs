@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.f791e086bc6228d5
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationPropertyRestoreFailure"
 source: xml
-reviewed: 4d1912057b1ba44a1410db8a121d0e916f17127a4c0c45a327bbf72d538112b7
+reviewed: 083a53ba938e5c7706c3ec0b71019d8260ac8d6a7929ce6c2d31c79cae41ef06
 title: "SerializationPropertyRestoreFailure"
 kind: api
 owners: [Inno.Core.Serialization]

@@ -2,7 +2,7 @@
 uid: api.inno.core.execution.4aa08895e340a7e1
 symbol: "engine:Inno.Core.Execution:T:Inno.Core.Execution.RetirementPendingException"
 source: xml
-reviewed: f37f1a21e2f0a34d06e2a4eb17b1714b31f6763e3f4e4970f374c9add9955ddd
+reviewed: 3b05ed500c7d4675416efbd5337a7f001c4e08f45755b87c75beac7953e2d321
 title: "RetirementPendingException"
 kind: api
 owners: [Inno.Core.Execution]

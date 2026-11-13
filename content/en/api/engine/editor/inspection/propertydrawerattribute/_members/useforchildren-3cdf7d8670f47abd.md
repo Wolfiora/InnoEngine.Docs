@@ -2,7 +2,7 @@
 uid: api.3cdf7d8670f47abd112294d3c20ac5303a52479a4649e5ebae13d9cd9d6c9bb7
 symbol: "engine:Inno.Editor.Inspection:P:Inno.Editor.Inspection.PropertyDrawerAttribute.useForChildren"
 source: xml
-reviewed: 67895f9772af7e8803b55fb41858987f8de3ddaf037944cd0e097ee361415049
+reviewed: 2918774b64cd1a87c33c3aac00c7b4e74669650c11009317171abb464a38cf42
 title: "useForChildren"
 kind: api
 owners: [Inno.Editor.Inspection]

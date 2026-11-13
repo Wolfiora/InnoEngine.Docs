@@ -2,7 +2,7 @@
 uid: api.bd85d350e12cbdcee7cb19f417c0189c0e6c7c74d95ec8cfc12bfac0a66701e7
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetBuildProcessor\u00601.#ctor"
 source: xml
-reviewed: f86609e12dd9847bd20dc1f8cc1e44cd0d4201c5a0434936cc84d437f34d7f28
+reviewed: a7018fc4a3cacb90ada9db4081b9d7b71a4fca8971ed16834f9e2c7c6222465f
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

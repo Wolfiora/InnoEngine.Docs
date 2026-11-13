@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.ab5f74e47b8b9dbb
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializedIdentityRemapper"
 source: xml
-reviewed: b5e679eeea2fe54cfa123e40fd3036903687b09a3873abdbe4551c244c1d2337
+reviewed: 0e674af3630c612c55e9223d7ad624c29569d5a54013c29c34bc57670aeb0621
 title: "SerializedIdentityRemapper"
 kind: api
 owners: [Inno.Core.Serialization]

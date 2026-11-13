@@ -2,7 +2,7 @@
 uid: api.07737dbb8ef7a2ac28d153d19e150935f93c07b5f4cc95ab97ab47c0b6505f84
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsAnyItemHovered"
 source: xml
-reviewed: 2ec8eedb0ee10aef48e86d3541d83cf210757aa0b13340d757956327d4eda6f8
+reviewed: b5ad315178652981781676a310280da9b3db9c4d154102a55e27b8db2787ad06
 title: "IsAnyItemHovered"
 kind: api
 owners: [Inno.Editor.ImGui]

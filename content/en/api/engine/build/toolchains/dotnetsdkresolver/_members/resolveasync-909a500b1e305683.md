@@ -2,7 +2,7 @@
 uid: api.909a500b1e30568330ca62b2b40059e3ec6fb166d21c4b146701a4cf04ae2c0a
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.DotNetSdkResolver.ResolveAsync(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: e8c1e545191db4eceec00e8b7a88855fc1b15407913517d2f618c8f5d9718060
+reviewed: 66b08ebcb10624494319a122e8d097c5f0fa287789c24436da08815026af140e
 title: "ResolveAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

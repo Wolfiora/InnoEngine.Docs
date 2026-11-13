@@ -2,7 +2,7 @@
 uid: api.inno.rendering.06ab30df5061802e
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.GraphicsApi"
 source: xml
-reviewed: 2e17c3674a310203dfe77769bc472cf4c29c2fc328904207657efe157e353eb0
+reviewed: 434afdd500cc84904f1cf6648a194774c248374424eb1a600cf676a0d263af16
 title: "GraphicsApi"
 kind: api
 owners: [Inno.Rendering]

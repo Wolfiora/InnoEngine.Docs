@@ -2,7 +2,7 @@
 uid: api.4bf50bc80f78107227c7776d87fd89fba375a7a31caa881f56d52d3c702e68f4
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureRegion.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: 57c76f69b530fefee627d525d0f445e0ee3b2d06c78671d6804178f570e09c57
+reviewed: ea39d34c9469b8c7268062a43d25027a2e32253130292aaddf742b27eb02bb80
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

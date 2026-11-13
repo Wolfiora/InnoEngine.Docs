@@ -2,7 +2,7 @@
 uid: api.inno.rendering.38e14519b5ba12b5
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.ShaderInterfaceBinding"
 source: xml
-reviewed: 4c2b6561bf18db2de4ad7d749092134d186524087d7294e329d91ade28e45fea
+reviewed: f975b25abcd3ee08eb79024d92b9cf9715f9df69a4e8b812cf4e01cf1649f6db
 title: "ShaderInterfaceBinding"
 kind: api
 owners: [Inno.Rendering]

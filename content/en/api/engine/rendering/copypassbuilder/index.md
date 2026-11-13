@@ -2,7 +2,7 @@
 uid: api.inno.rendering.20bfafa6bf8d334f
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.CopyPassBuilder"
 source: xml
-reviewed: bb43ce27c2b4236f66f044bf37e79a0dc847cb4eafad703a625c4221fb02a25d
+reviewed: 5125288e3f2107f7740d5f8730ab1eefd81b5886a2f41b22c6d40bc045402f11
 title: "CopyPassBuilder"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.dcf697796890a2128590ba9270fe70c61bb458a65da8e8a163a124293e63475f
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.IEditorPanelReloadState.CaptureReloadState"
 source: xml
-reviewed: 805c6f5fdfa09f619581693e4d91c3266b63831a4cf2f5b45dd74ca85300d039
+reviewed: 7008597dec298c5ecbcc23aeeed988f8791b17094682b59c2b1e1a5bc8b038bc
 title: "CaptureReloadState"
 kind: api
 owners: [Inno.Editor.Core]

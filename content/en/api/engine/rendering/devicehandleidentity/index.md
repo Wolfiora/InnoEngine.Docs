@@ -2,7 +2,7 @@
 uid: api.inno.rendering.0a44a2b8e14174d0
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderDevice.DeviceHandleIdentity"
 source: xml
-reviewed: 5ea403b21d995807891136a1efe88cd81cdf84537457860f27a08d9d59e4e1e9
+reviewed: 22176560ba11395b81a9f3e9c9a10943ea00edeb3c1f91c97695158723587c13
 title: "DeviceHandleIdentity"
 kind: api
 owners: [Inno.Rendering]

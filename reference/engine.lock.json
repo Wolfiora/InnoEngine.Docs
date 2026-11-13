@@ -1,73 +1,64 @@
 {
+  "projectManifestIdentity": "613ab06bf5daf67032778bfc9b5762e9e25ec7576fb0f1c836339859d530cf66",
+  "toolingRevision": "10f84a8694090dfe005b96531df3335e7c7c3dda",
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-  "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6",
-  "toolingRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "09de0bada6315b3dcea9d7a222317cd0b79666a171d2d944547dd6900f030979",
   "apiManifests": [
     {
-      "path": "reference/api/host.json",
-      "sha256": "22f829be6ef438ded5fbe5a96fc2394b1a8396f68d15ea0d3447d6e59b51cf1e",
-      "model": "source-clr",
+      "target": "macos-arm64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
       "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
-    },
-    {
-      "path": "reference/api/host-windows.json",
-      "sha256": "7d4bc958aad74fdb920c35509fadf650090d746cc27b74edbf89d262c3ce0edd",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
-    },
-    {
-      "path": "reference/api/host-browser.json",
-      "sha256": "46cb91ebdc110fe426965d18682d16834d3ca6f0adb320485371fe5f014f34d2",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": "browser-wasm",
-      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
-    },
-    {
-      "path": "reference/api/runtime.json",
-      "sha256": "6c31baf055930dbf419ee574b47cf339f9edc8283372d355589c7ac580ec15ae",
-      "model": "runtime-script",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
-    },
-    {
-      "path": "reference/api/editor.json",
-      "sha256": "f4355830a6ff582ed69fdc3c882784935b4561bf2782b4973842bb862465836d",
+      "path": "reference/api/Debug-macos-arm64-editor-script.json",
       "model": "editor-script",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
-      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
+      "sha256": "31ed80a99c5c6c261b92fdbed648f93b772877b82cd5cee1b860b58dac11cfc8",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
     },
     {
-      "path": "reference/api/platform-player-macos.json",
-      "sha256": "710695f36017abdd7928cd98690e29b281fbe0624e879ce2a20f529801688822",
-      "model": "source-clr",
-      "configuration": "Debug",
       "target": "macos-arm64",
-      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
-      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-macos-arm64-runtime-script.json",
+      "model": "runtime-script",
+      "sha256": "bb770ada763dfb0880e5a3f299151751bc05de30dbf161951aa69da7191dc354",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
     },
     {
-      "path": "reference/api/platform-editor-macos.json",
-      "sha256": "115f5bd71dabec5f8d51fc358f7e767a01102bfcd6de74ba26326f1d2f4e6674",
-      "model": "source-clr",
-      "configuration": "Debug",
       "target": "macos-arm64",
-      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
-      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-macos-arm64-source-clr.json",
+      "model": "source-clr",
+      "sha256": "5b9a7cdf9216680de1aa51de100c2f9e23bfa32189d05d4c2146e7bedaede760",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-editor-script.json",
+      "model": "editor-script",
+      "sha256": "b37535bf10b1e4cb3ed69cad3b0e23b234596e01ac18125faa4458413cbda3f1",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-runtime-script.json",
+      "model": "runtime-script",
+      "sha256": "9e17e56f958c30472acde963c02d4b35d3ac8ead523a1f2d26d8f856970bf7da",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-source-clr.json",
+      "model": "source-clr",
+      "sha256": "85d22a5333ef8995b91e51137c6a437b97725384201c0c462d76033913827cf9",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
     }
-  ]
+  ],
+  "revision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+  "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
 }

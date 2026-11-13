@@ -2,7 +2,7 @@
 uid: api.603e6e596b43c9a264030a77ae43ba1a3217e047fe366fdaa677c27cee3084b0
 symbol: "scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.HideIfAttribute.#ctor(System.String,InnoEditor.Annotations.InspectorCondition)"
 source: xml
-reviewed: 0535e4d43c1034d553af572164e8b1cc47331533dcd4f50978e451cbf34723f9
+reviewed: aaa28fb9e35688c758b8a26b84e8647c46df92b1ac672887bd806645514e1a3d
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Annotations]

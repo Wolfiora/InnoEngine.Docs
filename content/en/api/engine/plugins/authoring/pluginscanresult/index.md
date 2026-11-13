@@ -2,7 +2,7 @@
 uid: api.inno.plugins.authoring.2f8d5da8ac401f9a
 symbol: "engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginScanResult"
 source: xml
-reviewed: 16f579dce8f37161a14b11abb971bd6266b8887b86c3226105e3dae0b2d3b71f
+reviewed: dd3de8cb72fec3873b6399d5877946e1064c547c7923f6620f710ebab75ed175
 title: "PluginScanResult"
 kind: api
 owners: [Inno.Plugins.Authoring]

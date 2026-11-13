@@ -2,7 +2,7 @@
 uid: api.72e9ee8d40cb4899edabbefc643bce77573b05fa3af725a452c9254d16c91498
 symbol: "engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateShaderTools(Inno.Build.Toolchains.Bgfx.BgfxNativeBuildProfile,System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})"
 source: xml
-reviewed: 709e8348032a7fae1271ef47488f7dd570d82c7cdf33c57706a257296a41668d
+reviewed: 420b15da264e0514ef90bf2e7be705d5bd984a083d6e5aff11ec147e669070eb
 title: "CreateShaderTools"
 kind: api
 owners: [Inno.Build.Products.Standard]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.348a54998b1f4826
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderShaderBindingDescriptor"
 source: xml
-reviewed: da4417affed82f93e4f03871ac411d1c649c2a959ca49ede03e5c216b070c4ab
+reviewed: 3c8dcc97da1fddb3944b9723dab2ba2de36a958da079b5747410fce81896dfb4
 title: "RenderShaderBindingDescriptor"
 kind: api
 owners: [Inno.Rendering]

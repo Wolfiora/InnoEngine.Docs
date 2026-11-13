@@ -2,7 +2,7 @@
 uid: api.inno.text.2ceeda142615f331
 symbol: "engine:Inno.Text:T:Inno.Text.ITextService"
 source: xml
-reviewed: 828ced42d2dc0ece4b910968066959b0831a1b59627571c770432162b817836f
+reviewed: aa269c430422a104a63f8f38cff163b13040b4f9e139e25c26d7aa96e324f941
 title: "ITextService"
 kind: api
 owners: [Inno.Text]

@@ -2,7 +2,7 @@
 uid: api.b17eee1ddcffd3d5fc80e3903d80eb32d271696f51a9ef91af3e07c47c7e80a4
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispatch(Inno.Core.Logging.LogEntry)"
 source: xml
-reviewed: 6c90d92f97b1dc99d01fcd2942525c4ae1565ac9bcdefbd334ddfbf0ab755d2b
+reviewed: 081cb3b8379ed15eaba883ef0ea1be9d3a51792eb1a97e4b6d901d5aa41a5c9f
 title: "Dispatch"
 kind: api
 owners: [Inno.Core.Logging]

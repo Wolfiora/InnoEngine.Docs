@@ -2,7 +2,7 @@
 uid: api.4ae841ba86e4bca78f0ff219264ce8a2f90e30cec44fd8dc308a02a8d61450f6
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBusId.Equals(InnoEngine.Audio.AudioBusId)"
 source: xml
-reviewed: e1541b28e8ae81d79422e4c648759fab1c354909d035e52d525b498ae2585f84
+reviewed: e2516b16eaa239e0367a49410b01d23b687c88fdb99c3e27b3c7d63d8ea866c8
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

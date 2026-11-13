@@ -2,7 +2,7 @@
 uid: api.a7398ca8bfa37080cd877cc711e11010748902ea711c86f09f8de1b1e559c263
 symbol: "engine:Inno.Storage.Runtime:M:Inno.Storage.Runtime.StorageRuntime.OnBeginFrame(Inno.Runtime.Contracts.RuntimeFrame)"
 source: xml
-reviewed: 4ee76b433b667a641395b4b611695874ecf8308354203ad29efd906cb2cca3d2
+reviewed: 2bbd4896c7ddba5914c6f3f77b5d77a184278fd8de9ac1f9c0c3551fc6493d3b
 title: "OnBeginFrame"
 kind: api
 owners: [Inno.Storage.Runtime]

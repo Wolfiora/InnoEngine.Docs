@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.1c8d63cdf2f480c0
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.RangeAttribute"
 source: xml
-reviewed: c247aaae299c853da698ba51cc25ef251e7f38c01f0c31bf297c48e3d2bd8ee4
+reviewed: 5be6ec4bbb991e2e1abc3e6461d7aa4b6520837b68b7bbceff5d339473cd4445
 title: "RangeAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

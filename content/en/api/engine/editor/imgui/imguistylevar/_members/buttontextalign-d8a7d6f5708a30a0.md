@@ -2,7 +2,7 @@
 uid: api.d8a7d6f5708a30a0002125e18c0766287ea93a3e1c0cefb4d3ad93bf0fc86980
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiStyleVar.ButtonTextAlign"
 source: xml
-reviewed: e5e0eb447a45c9380129b71017c2e6b776792142a2a9807b4aeb8b58ae11d755
+reviewed: fbf6abacbdcd18c900a5f4e6d898c5736d5a328c78875395070ef3c4b4cc35fb
 title: "ButtonTextAlign"
 kind: api
 owners: [Inno.Editor.ImGui]

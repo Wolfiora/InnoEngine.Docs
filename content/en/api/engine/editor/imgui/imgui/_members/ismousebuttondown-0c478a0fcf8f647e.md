@@ -2,7 +2,7 @@
 uid: api.0c478a0fcf8f647e9b56ba27b885120edcedd97286a9c245f2978f51c8a76443
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseButtonDown(Inno.Editor.ImGui.ImGuiMouseButton)"
 source: xml
-reviewed: 7fdde460aee9411c0a325008423d9c2e84195b98c3baa74bb1b9b917c75af3be
+reviewed: 6ee9e7dbb0c16ed5a9c944b95a6ab31bf1dab9c3d904181e9ffb6e8868cc4133
 title: "IsMouseButtonDown"
 kind: api
 owners: [Inno.Editor.ImGui]

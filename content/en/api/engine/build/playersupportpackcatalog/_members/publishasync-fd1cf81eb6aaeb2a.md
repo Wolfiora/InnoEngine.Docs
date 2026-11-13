@@ -2,7 +2,7 @@
 uid: api.fd1cf81eb6aaeb2aa92ce22958541b755bc197e21a67663547a763520d1727f2
 symbol: "engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.PublishAsync(Inno.Build.BuildTargetId,System.String,Inno.Build.IPlayerSupportPackValidator,System.Threading.CancellationToken,System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask})"
 source: xml
-reviewed: 940065bc6822e7ba8ed5b30007e0955e8d81f0770c0ebc6f69d9eaa189367bd1
+reviewed: b2989139d7ed416001956aa288e219a71fc89ac77ce7815076325f61b01b83bb
 title: "PublishAsync"
 kind: api
 owners: [Inno.Build]

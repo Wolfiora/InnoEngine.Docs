@@ -2,7 +2,7 @@
 uid: api.0f2033aec1183fa690b0bf5eff95e4d9b5cbb38afb57635a5e00651884276946
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ShaderInterface.#ctor(System.Collections.Generic.IReadOnlyList{InnoEngine.Rendering.ShaderInterfaceBinding})"
 source: xml
-reviewed: 116e5bb792b60a1a4e6dd14a9a8133ac319638b4e3cf4186c3e838c4bc016397
+reviewed: 4fabf273e29a0d071d7ee0d3b97a2a86cc7f319ae4887188b661867a420825bb
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

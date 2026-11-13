@@ -2,7 +2,7 @@
 uid: api.dd10cf7aaf5606f29d288722aedc3d22286f28a53cd89358cc4665fbd8a3d185
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.ResetSystem(InnoEngine.Scene.GameSystem,System.String)"
 source: xml
-reviewed: b41d5fb40ccfc3443bd19624044cdb2c315ccd3a28d28c5a56c66b13137342b9
+reviewed: 76f219901e7794cdd028109c626f9bc422de9ae47eeacbacb0faf361efc4e328
 title: "ResetSystem"
 kind: api
 owners: [Inno.Editor.Scene]

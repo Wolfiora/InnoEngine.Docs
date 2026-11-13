@@ -2,7 +2,7 @@
 uid: api.50e3a7505566c8542fd1a86196d9e22c215fb44bf6e6ae517b57784eb3551e4d
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.WidthStretch"
 source: xml
-reviewed: 78602322bb235d18dcd767f2f22e6437674c37d000a83cccf12e8a1535698d96
+reviewed: 71e97e6b84d6c11c5e3ef78aecfa0e2ca3d36738bc72739df896f34345efac8b
 title: "WidthStretch"
 kind: api
 owners: [Inno.Editor.ImGui]

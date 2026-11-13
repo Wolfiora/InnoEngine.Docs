@@ -2,7 +2,7 @@
 uid: api.f3a5767019853b2b63545b31f76df3e70a76af0c6c80ec270e9c5a199afb37fb
 symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.SetCurrentDirectory(System.String)"
 source: xml
-reviewed: 4310e9e7d56fe3ba3b7a3e45aac3b34a02e23f5e5868c9a8fc7fbaa2965ddc7d
+reviewed: 2ccb23c8df35444260321d57d9877b72cce9704060e634c89c2535c0d90dbe70
 title: "SetCurrentDirectory"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

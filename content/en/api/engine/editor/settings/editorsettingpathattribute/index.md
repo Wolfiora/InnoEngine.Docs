@@ -2,7 +2,7 @@
 uid: api.inno.editor.settings.2da3dcf9bd18d135
 symbol: "engine:Inno.Editor.Settings:T:Inno.Editor.Settings.EditorSettingPathAttribute"
 source: xml
-reviewed: 36dcf156eb7892e8c47c4b4ae15453b489826f2b48309bd968f50a3d47da17e7
+reviewed: c50ed853cd2c4847829536a4fc51d512a811a4a7b846488fdfbd9ed39390ba88
 title: "EditorSettingPathAttribute"
 kind: api
 owners: [Inno.Editor.Settings]

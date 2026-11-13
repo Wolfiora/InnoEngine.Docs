@@ -2,7 +2,7 @@
 uid: api.567b6f985e1e62c15029885fdf02b8fa6aff710efb432ff10f254391334c3595
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.menuBackground"
 source: xml
-reviewed: b2a578c20a04f9a0b713c3afda436fad1109cbccc6d5ae7b3735152ae712b8f8
+reviewed: 11a91b1153aafa58fe965c47dbf6d928c6eaf7f16009c6a27e06ecc209d692c3
 title: "menuBackground"
 kind: api
 owners: [Inno.Editor.ImGui]

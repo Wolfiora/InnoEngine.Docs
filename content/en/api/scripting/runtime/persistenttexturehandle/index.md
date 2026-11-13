@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.43cc0e7f5409c9b9
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.PersistentTextureHandle"
 source: xml
-reviewed: 0ea8f689f160070c2a0d9c92e688dc31b260256a3d73f7004fa1f1234450e3ec
+reviewed: dc03908a97c5662f33daf5bea9829afdb390cc0db55a928fb97650e43cbb7a56
 title: "PersistentTextureHandle"
 kind: api
 owners: [Inno.Rendering]

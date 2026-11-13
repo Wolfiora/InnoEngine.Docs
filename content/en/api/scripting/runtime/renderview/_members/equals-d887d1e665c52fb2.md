@@ -2,7 +2,7 @@
 uid: api.d887d1e665c52fb2bdd3ee6ebe4d56f54e51b64dc184a1974cb7d6bb40d7489c
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderView.Equals(System.Object)"
 source: xml
-reviewed: 82f976b167af7764d3dbdddee573f40df6942d96f10decfbfe7c1a089ab13fec
+reviewed: f9e51f4f46e128c0c4f633006ce9cf7aaef3e6681b051251de6bccad55225d61
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Runtime]

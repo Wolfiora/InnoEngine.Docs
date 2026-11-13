@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.1ba7fc3b31c0bb12
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.GameSystem"
 source: xml
-reviewed: 711a0c2758d673087882465ff2e88725f7f86cf2c3819a6607798da20b1bf886
+reviewed: bc75a0a33f51b04c00cbf4fa327b40ee1529618f72b085798b30723e492c4df4
 title: "GameSystem"
 kind: api
 owners: [Inno.Scene]

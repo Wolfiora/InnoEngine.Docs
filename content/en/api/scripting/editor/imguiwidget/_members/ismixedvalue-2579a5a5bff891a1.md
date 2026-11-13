@@ -2,7 +2,7 @@
 uid: api.2579a5a5bff891a1c90e8f7caf5423e83fc7fa062dbef6cf3ad104eb3acd1415
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.ImGuiWidget.isMixedValue"
 source: xml
-reviewed: 035cfb05df23b2e1b69e6e1647041f65559a25f58a38e6a30e37df33c908c1fb
+reviewed: 0e684b35796df323dac72024a2888cf5b8512278c714198ad19b44246586fe5f
 title: "isMixedValue"
 kind: api
 owners: [Inno.Editor.ImGui]

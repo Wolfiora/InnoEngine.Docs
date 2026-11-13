@@ -2,7 +2,7 @@
 uid: api.2f2fcb46b07494d7cfb928b92d4c3d7a0cb16f02408deb4ff6e2bd1e55412929
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RecordBindingBatch"
 source: xml
-reviewed: 9f691c10b71b938ce3691d9706540a530c672ee8c2019e6a6aceacc1c645f5df
+reviewed: d712f57bd855ec80b505729e3e2a8fed172950d470c64da491493696fbf2e4ea
 title: "RecordBindingBatch"
 kind: api
 owners: [Inno.Build.Toolchains]

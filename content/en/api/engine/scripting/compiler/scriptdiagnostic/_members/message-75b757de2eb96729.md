@@ -2,7 +2,7 @@
 uid: api.75b757de2eb96729b75903d732c5241d5b70e0f6dded69eac28ebd0f006f9687
 symbol: "engine:Inno.Scripting.Compiler:P:Inno.Scripting.Compiler.ScriptDiagnostic.message"
 source: xml
-reviewed: 3a492ba9eebba135210174bbf10ba69f9c171b9be02da63f684bf4108c312413
+reviewed: 193344ee0eef908256b8f65ed651db57bf76e7e8edf50d3e4914b171c7500d38
 title: "message"
 kind: api
 owners: [Inno.Scripting.Compiler]

@@ -2,7 +2,7 @@
 uid: api.4009e0c8d117a8c3ae7febe3906058f13771ec7e6bd9f6da3f3e4085474637b8
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.TryGetArtifact(System.Guid,System.String,Inno.Assets.AssetArtifactInfo@)"
 source: xml
-reviewed: b3061d2570803257ee0b5325f3d17b30bd59f1f25c9827b446f0317b3351b462
+reviewed: 16f22b0d2e0ae6ded7cd3d2bfb9620df0fb60709c6dc9bc41d7f7440d4db3720
 title: "TryGetArtifact"
 kind: api
 owners: [Inno.Assets.Pipeline]

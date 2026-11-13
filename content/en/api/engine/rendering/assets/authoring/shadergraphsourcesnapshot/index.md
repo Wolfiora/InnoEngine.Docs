@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.279b0da820a949f9
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderGraphSourceSnapshot"
 source: xml
-reviewed: 9964355351aa009f558ea363a51fa66d42781ddaf23b79723bb365926fb7f39b
+reviewed: db4ca19844ef8a847126995378e7368560efdef4d961fc3ec8fbc6e0ba2ad556
 title: "ShaderGraphSourceSnapshot"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

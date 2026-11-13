@@ -2,7 +2,7 @@
 uid: api.080a1373190d8c9545b4c32e19a3bc8819739a91db14a9810ba3c7bcdf655ded
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.SetProjectOverride(Inno.Core.Settings.ProjectSettingId,Inno.Core.Serialization.ISerializable,System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingsContributor})"
 source: xml
-reviewed: 1d22afd2ef452dabddf469268150052270bb2b6d8cb1d626504b259b9d9e128f
+reviewed: f1ff093df9a7189c97fb0b8a133e3802194fb562055fea763c487670c630d5cb
 title: "SetProjectOverride"
 kind: api
 owners: [Inno.Core.Settings]

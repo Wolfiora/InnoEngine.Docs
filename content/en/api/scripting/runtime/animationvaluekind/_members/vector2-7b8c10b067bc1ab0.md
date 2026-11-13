@@ -2,7 +2,7 @@
 uid: api.7b8c10b067bc1ab03355929cf0f671ae959c4ffd42dd2bfe720ea0cbc025db34
 symbol: "scripting:Inno.Animation:F:InnoEngine.Animation.AnimationValueKind.Vector2"
 source: xml
-reviewed: bd70424101e00847e49ce3ec990a8d76ccfe84441bf7e89e37a11977b924b373
+reviewed: 522328d9d19a1e414ca0436d9ed3715798d81e4de0062fa0a358f34cd1cafdca
 title: "Vector2"
 kind: api
 owners: [Inno.Animation]

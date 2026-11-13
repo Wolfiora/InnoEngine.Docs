@@ -2,7 +2,7 @@
 uid: api.9895d71490fb0e8208b76ce626263b73272c667c4cfe01bd2eb96ab41132791d
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.MaterializeBindingsTask.ComponentProject"
 source: xml
-reviewed: 8a135b769b31efec21a2d11f3c5d010aede3899f056d9f3b38364c83d77dbfa4
+reviewed: 0234ba264c6d73ebdcc9dc94d884cc6a1682ad271d9f3017328a82d81169bd0c
 title: "ComponentProject"
 kind: api
 owners: [Inno.Build.TaskHosting]

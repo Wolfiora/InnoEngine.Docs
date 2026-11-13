@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.fa3bce39302b77de
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderGraphNameScope"
 source: xml
-reviewed: a99c39bf79af9a84212dd9493895458f55bb8f6e47f0e6f3fb2f26746d3913a2
+reviewed: 61c3348dee6fe4786be4fefa87c70918361338d9c0f67bf0d132a791702938fc
 title: "RenderGraphNameScope"
 kind: api
 owners: [Inno.Rendering]

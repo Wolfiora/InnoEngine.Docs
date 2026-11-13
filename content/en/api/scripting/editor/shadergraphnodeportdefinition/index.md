@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.4970e7695264e4d4
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphNodePortDefinition"
 source: xml
-reviewed: 8a3d690633818020c7845c97bab97c36386fb1a5379170eb9257d4b70e1a01b7
+reviewed: ac1f170fa9e8980c5d88e59c2c52d69f9c3b1965d9089ec074551c269130560a
 title: "ShaderGraphNodePortDefinition"
 kind: api
 owners: [Inno.Rendering.Shaders]

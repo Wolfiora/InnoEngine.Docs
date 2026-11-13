@@ -2,7 +2,7 @@
 uid: api.262c9b5fe5714074b680b384087ac8b0cba6653d40e636ef1a4046e21dd48823
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Selectable(System.String,System.Boolean,InnoEditor.ImGui.ImGuiSelectableFlags,System.Numerics.Vector2)"
 source: xml
-reviewed: 455bb9ffab2c2f317aa3a6a1767b1a51b7828dfea37bc051a4f8a01f6a139218
+reviewed: d027686d0739d5db9c95c790327f0f91e324dddd3094c8cf373f51025c5d5eed
 title: "Selectable"
 kind: api
 owners: [Inno.Editor.ImGui]

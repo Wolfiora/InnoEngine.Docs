@@ -2,7 +2,7 @@
 uid: api.651bb3a9d3465e9ed0e97038dc9e4a56e09a6ef4c7cf5705a2e648239bde5a2e
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.InlineRename(System.String,System.String@,System.Boolean@,System.Single,System.UIntPtr,System.Single)"
 source: xml
-reviewed: 4385e46795b30dafe07aa54f192f802902feaa1679cc6f22783538aa95556e12
+reviewed: 08b36fa5e018411433a3b45f0f1228cd18b62a6d98ea2110b250f0ad89974ba5
 title: "InlineRename"
 kind: api
 owners: [Inno.Editor.ImGui]

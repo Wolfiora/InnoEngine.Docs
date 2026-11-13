@@ -2,7 +2,7 @@
 uid: api.3c5169ce050f76994ae730fedd2457947e2f1bdfa355047aaa478bfd3904f14f
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ITextureTargetCompiler.CompileKtxAsync(System.IO.Stream,Inno.Rendering.Assets.TextureColorSpace,System.Threading.CancellationToken)"
 source: xml
-reviewed: 2ee97c39c1abf72dee8e81f59a8aa4e789480393519279f4b23fc4ae7f66b3d9
+reviewed: 0b396859fbf35ab73bb1a0b5f1124254df40ba7b869b11c402d6f9a7af3c5d2a
 title: "CompileKtxAsync"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

@@ -2,7 +2,7 @@
 uid: api.2dd10ef7cb53dc420e702cf0a44c9676023a35f50dc6db769ea10397c22fa28c
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.textDecorationOffset"
 source: xml
-reviewed: 1c6f9646baeef1bb947a6fac097e36953b555e1ceb16064c1aae5853e6b99ff5
+reviewed: 55d56b4a6d92ff8bf46a80d7d575a63899e6e8803b354da167f39b3ea6052c87
 title: "textDecorationOffset"
 kind: api
 owners: [Inno.Editor.ImGui]

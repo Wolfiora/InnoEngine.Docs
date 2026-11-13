@@ -2,7 +2,7 @@
 uid: api.f437cec6810159da53e4b2d844b71703e525f73b3a8872f4613850527f1bd1cf
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.TransformGizmoOptions.maximum"
 source: xml
-reviewed: 35f02addd9f4d11188b713325400b434c839f46d2128ec8fb020e9c4696c6d91
+reviewed: 38c7feeff66d9117458bac4f9386cee22802af8b6db042a800a764c47543c609
 title: "maximum"
 kind: api
 owners: [Inno.Editor.ImGui]

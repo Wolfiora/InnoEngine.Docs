@@ -2,7 +2,7 @@
 uid: api.d9fda46bdbbede0390ee50fec60d47f530ff955987e65d3386584a427bdc11bb
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Seek(System.Int64,System.IO.SeekOrigin)"
 source: xml
-reviewed: d127649d3a837c7aadd6b046b90eb8bae9fc13da25c5e5455632e7f300dd0c14
+reviewed: 52e181b748b657bc2a649fa89e8c1252169c3a7ef2cdf5160a66b5ad03fc3564
 title: "Seek"
 kind: api
 owners: [Inno.Core.IO]

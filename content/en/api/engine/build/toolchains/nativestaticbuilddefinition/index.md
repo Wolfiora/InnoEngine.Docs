@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.81764400c18f064f
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeStaticBuildDefinition"
 source: xml
-reviewed: 921f7f2ca55d2c3b632b5acb2a6ca8d5294619471f9eeb3c137f1a0f8c176356
+reviewed: 812b7d5fd433ee4b57d6fa6a97c047e6e56b116130b336988d3093855a023252
 title: "NativeStaticBuildDefinition"
 kind: api
 owners: [Inno.Build.Toolchains]

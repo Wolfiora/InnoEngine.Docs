@@ -2,7 +2,7 @@
 uid: api.inno.adapter.default.05e7cb58d9bc5807
 symbol: "engine:Inno.Adapter.Default:T:Inno.Adapter.Default.DefaultAdapterCatalogOptions"
 source: xml
-reviewed: 50ee2b58b208043a5a316a9e8be68a2767ec6dcb86fcb02baa20b2f41a581c33
+reviewed: 5633e9ed3c462bc21e373b170a6e32762e5e14654cca7e7747388ec40b92504d
 title: "DefaultAdapterCatalogOptions"
 kind: api
 owners: [Inno.Adapter.Default]

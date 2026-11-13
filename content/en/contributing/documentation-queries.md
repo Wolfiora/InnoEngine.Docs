@@ -189,7 +189,7 @@ docs api-check --docs-root /work/InnoEngine.Docs
 
 These commands consume the bound facts; they do not extract source, build products or contact the network. Synchronization updates only registered API fragments and derived navigation. It preserves manual prose, updates declarations independently and reports removed or changed contracts for review. The complete type and its member fragments are composed identically for website and query readers.
 
-All backend, extern, test/fixture and non-C# APIs are excluded. Their useful engine integration and validation guides remain independent. Engine APIs follow the actual project tree; script APIs follow declared Runtime, Editor and Authoring Scope. Compilation availability is a separate fact, so Runtime APIs available to Editor scripts share one authored body.
+Engine API uses only src/ and build/; tools, entries, platforms, backends, extern, test/fixture and non-C# APIs are excluded. Their useful engine integration and validation guides remain independent. Engine APIs follow the actual project tree; script APIs follow declared Runtime, Editor and Authoring Scope. Compilation availability is a separate fact, so Runtime APIs available to Editor scripts share one authored body.
 
 Use `docs symbol --scope Runtime` with an exact symbol ID to select a declared Scope; `--surface runtime-script` selects a compilation surface instead. [API documentation ownership](api-documentation.md) explains manual takeover, removal and the non-blocking editorial report.
 

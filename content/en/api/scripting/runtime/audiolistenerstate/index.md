@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.9f6c80f623f27016
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioListenerState"
 source: xml
-reviewed: 928705d5df6f0505ce83e461d2017fa2f4b20304ce86a561d009964bb41b8273
+reviewed: 980aa0c469e03972fc9fb9e71544fd3afeef04ccaf0ea7a4dfaac5b623fbf1bc
 title: "AudioListenerState"
 kind: api
 owners: [Inno.Audio]

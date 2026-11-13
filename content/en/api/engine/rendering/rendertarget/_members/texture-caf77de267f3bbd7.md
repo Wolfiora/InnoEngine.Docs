@@ -2,7 +2,7 @@
 uid: api.caf77de267f3bbd7f62cd79154c2c1c478983330d921c618cac1d418398642ac
 symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderTarget.texture"
 source: xml
-reviewed: e4ec383cb8dc95ac6927d7b00089bd112e7f73a935572897a1fbf1aecee9ab07
+reviewed: 25b593721f290c6745c86679881af3286dec8c8be105d6f1b71ae26fdd095892
 title: "texture"
 kind: api
 owners: [Inno.Rendering]

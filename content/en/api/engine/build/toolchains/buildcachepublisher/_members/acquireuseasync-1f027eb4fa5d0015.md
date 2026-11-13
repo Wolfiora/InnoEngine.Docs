@@ -2,7 +2,7 @@
 uid: api.1f027eb4fa5d001538884c16a880c5bdbeb6f02203947aee8c83bf59ac752549
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.AcquireUseAsync(System.Threading.CancellationToken)"
 source: xml
-reviewed: f3bce0f17b0adb4906bddd893a99699ac4fb77bb48d74a1600b39ab756d6e4db
+reviewed: 649485c0c129f7b249ef70a21bddc1a8483ef3689542c88658eef0ec253f20ca
 title: "AcquireUseAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

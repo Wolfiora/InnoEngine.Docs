@@ -2,7 +2,7 @@
 uid: api.inno.assets.559aa4b1fff17720
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetDependencyCollection"
 source: xml
-reviewed: ee0060902d6fda077eb8bc16e6ff10bd1fd350ba2911c4037171fac82a81a274
+reviewed: 5ad5dbb6fd46c8d09af2bc77cafe9631da4640b73aa9704b5efdcc7176dcc3de
 title: "AssetDependencyCollection"
 kind: api
 owners: [Inno.Assets]

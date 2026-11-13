@@ -2,7 +2,7 @@
 uid: api.1fafd5ca243a0e27ff855d5ad79bdede9dee6b836e508d6aaaa306d8c9dcade8
 symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.ShaderTechniqueId.isValid"
 source: xml
-reviewed: ed7d657722375e4bda96f363d7d475686458b0618bc7b1fa64ff58f7d288f049
+reviewed: d3069cd0782190241cf73f12abce3525ba6fa1b11f1e35ab9bc1775926cf5c10
 title: "isValid"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.b31c3101953fedfdd75a30de461d064fa37fbba4d0ab6234a61d35226e33d1cf
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiSliderFlags.ClampZeroRange"
 source: xml
-reviewed: f9f8177aff8339a255b4dec8658804e23745e1bcc11292b31b680b9f96a47a10
+reviewed: 1fe3c5fc7952db61c500d55dcddb357db9e6ee68839e9b44e001dfc11171fd7e
 title: "ClampZeroRange"
 kind: api
 owners: [Inno.Editor.ImGui]

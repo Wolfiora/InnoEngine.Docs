@@ -2,7 +2,7 @@
 uid: api.39ecfbe0d27725403cfda853685b2856558e1ad2a4d5adfdb64be8a2b88dc37e
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetFileSystem.GetChildren(Inno.Assets.AssetPath)"
 source: xml
-reviewed: ca18aa89d5948a14666f853f2599bb3852989b2e5bdf1b90a934c73b93d819b7
+reviewed: 143f4dfb7b6bd759af3e1681c4435abff783faccd871e818dba066af7b567bff
 title: "GetChildren"
 kind: api
 owners: [Inno.Assets.Pipeline]

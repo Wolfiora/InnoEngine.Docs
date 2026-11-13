@@ -2,7 +2,7 @@
 uid: api.15a49193b99e8bd028551f50fe760812e6d5500bd530c61fa52ec19f0e73c664
 symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentResult.#ctor(Inno.Build.Managed.ManagedDeploymentId,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String})"
 source: xml
-reviewed: 86c8341212c39e5ef80a561b090656afec2c2652f1498ac3420330b31f6454d3
+reviewed: b1fd0b6f8604e56ff4c09d5e182a07fac3208b37e5aa9cfd20cdf02d736f1efd
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Managed]

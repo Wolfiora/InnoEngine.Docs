@@ -2,7 +2,7 @@
 uid: api.08069c4d25ddd6a21b83a87acf2fc42cf548c26faafc26d5e7583fb5bac5d4bc
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceAllocationCounters.Equals(Inno.Rendering.RenderDeviceAllocationCounters)"
 source: xml
-reviewed: 22bc5c467501ebd0833a6d597464856b1535910930f7ac77f4ca00496f0d23b9
+reviewed: e076d2b9c5b292bc238ad88d9da7fddc87cedc05141ee53ed3c3542ec72cf09b
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

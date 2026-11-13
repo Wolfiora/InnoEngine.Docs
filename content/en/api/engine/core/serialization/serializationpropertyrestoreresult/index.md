@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.5af8a2ab5b6699b0
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationPropertyRestoreResult"
 source: xml
-reviewed: 2ec9f2105426dca51c992fadb9cae331786b6b49056f3b6f327eb436cceb03c9
+reviewed: ec7e2c54a1ba49bf8a3feba20db60b2169ccbeb2f28165bc6ab949796fa26480
 title: "SerializationPropertyRestoreResult"
 kind: api
 owners: [Inno.Core.Serialization]

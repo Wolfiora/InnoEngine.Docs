@@ -2,7 +2,7 @@
 uid: api.f8f3aeb3f42348895b8ed0062cb7f00248eebb113e4a4e6f9e843fa0fcf5da96
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioEmitterSnapshot.#ctor(System.Guid,InnoEngine.Audio.AudioClipAsset,InnoEngine.Audio.AudioPlayOptions,System.Boolean,System.UInt64)"
 source: xml
-reviewed: d97c447e75d749b1732a6396c14ba970cdc2cc7037f7fd2e05f1a2ffb7a04ebe
+reviewed: fc8a68ebcc2e70b8dbf1b428e3d4376dd56e42f95db59ff2ea5bdc5eb0c48aa2
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

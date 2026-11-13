@@ -2,7 +2,7 @@
 uid: api.8bb04844d9f027d9622b1e1ba986bd299ae737a08d04433e74cc630318e02e81
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetFileSystem.PollChanges"
 source: xml
-reviewed: 31f4f635e00c42019c29f58b8e3b4385748161abd7952ddbdad5932812cf0f21
+reviewed: 0dedbaa6d1e410880c0e6d26b4b7556220ecb29f1235a66bb5c2e26544094ebf
 title: "PollChanges"
 kind: api
 owners: [Inno.Assets.Pipeline]

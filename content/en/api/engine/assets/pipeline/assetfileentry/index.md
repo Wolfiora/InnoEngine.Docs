@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.c6a87deb077d00d0
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetFileEntry"
 source: xml
-reviewed: 7109a30b686d9b678a6355d1ef67b2bfbf0f797fe4912601394b21cce1135cb2
+reviewed: 7b21506a422f99d5165c6b7cef9adda5c86a728d6bfc37c472b8ab38265b984e
 title: "AssetFileEntry"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.inno.adapter.b740dcad45f86782
 symbol: "engine:Inno.Adapter:T:Inno.Adapter.IAdapterCatalog"
 source: xml
-reviewed: 3678271b43a595661d2bef664f68f4c69f8e0d8ad64d01f0ca80383a8c66791e
+reviewed: d87904b2990b7c743ec2da6ed29ce7515c9783c86791028c47088e34def155ed
 title: "IAdapterCatalog"
 kind: api
 owners: [Inno.Adapter]

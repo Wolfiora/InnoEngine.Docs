@@ -2,7 +2,7 @@
 uid: api.d70d077e11813f9ae17e1efb62b98efb9a3298d24325a8ef47e6c90320d98ab1
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.IsCandidatePath(System.String)"
 source: xml
-reviewed: caf23b8fe768121cfb7395f18cf7a874999bc0cd82a3a693c0915253e6104715
+reviewed: b61186377b8fac974937d5d66b18b95e9e30e7a1f8f84618bc2054556bbb418e
 title: "IsCandidatePath"
 kind: api
 owners: [Inno.Core.IO]

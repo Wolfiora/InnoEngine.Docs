@@ -2,7 +2,7 @@
 uid: api.693dffed720d6cf4c169668ed41385081da3947af1b73a698fbe9a3e87cdea2d
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.ShaderPropertyBindingKind.StorageBuffer"
 source: xml
-reviewed: b0e58da372dc61f893838c1bb27221ee7d9e3713099db10d43968ef7afc6b4d7
+reviewed: c3e2fcd13c4767efb7e8e85f1f6a3cdb132a245b5e2120104476b17fee8a4754
 title: "StorageBuffer"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.5631f1a630084297
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorUiSession"
 source: xml
-reviewed: 6173b21ea9ded516e0e5f54bd10b114318e69606b65b817420deb3f7fc06662e
+reviewed: 9f289da60ea6ea1118a6c56f269cc7041119e1b08256a5ae12db3ba81d6da2d0
 title: "EditorUiSession"
 kind: api
 owners: [Inno.Editor.ImGui]

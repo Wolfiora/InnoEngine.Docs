@@ -2,7 +2,7 @@
 uid: api.f2414c3ecc94dc7937bbc57ac70c6e77c9bf233bde4bc76b5156cd7315da88e5
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.Start"
 source: xml
-reviewed: 84ec8f7d2c2616bf14dc695153e152c9cdb5f013195e36461c52979636608362
+reviewed: a8a05a708391b8285354f2152c69e2a0399b3fa1b063509aa2f837220c13771e
 title: "Start"
 kind: api
 owners: [Inno.Scripting.Reload]

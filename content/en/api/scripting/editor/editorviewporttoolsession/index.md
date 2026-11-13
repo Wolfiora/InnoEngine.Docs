@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.a61fa620e964079b
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorViewportToolSession"
 source: xml
-reviewed: 1be48b86e989a6a6fdc2caaa484cdc952b7c0f0e141dffcfb756478820d8b928
+reviewed: b96cbc2be288eb5a2ec81128681932eb7fd24c461d885a06619d31b35bf7d3eb
 title: "EditorViewportToolSession"
 kind: api
 owners: [Inno.Editor.Interactions]

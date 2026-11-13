@@ -2,7 +2,7 @@
 uid: api.edfc3e6146b0f00956bbcd6f1978017715460646f6283bdbcd7d9870794dcb76
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiFontScope.Dispose"
 source: xml
-reviewed: 683971483a0d7cad58d9895dedce4a0bea42e2a4788be32dc1098c4d1d808a4d
+reviewed: 65eda26cd0e8fed8069f35481d07361646bac2403ea60cc1ba246e0e404545a2
 title: "Dispose"
 kind: api
 owners: [Inno.Editor.ImGui]

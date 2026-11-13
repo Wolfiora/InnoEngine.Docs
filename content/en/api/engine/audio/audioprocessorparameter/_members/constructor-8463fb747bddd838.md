@@ -2,7 +2,7 @@
 uid: api.8463fb747bddd838f9af041f6251e5b1fa4100802e96fe3db0e203bbb60f5e71
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioProcessorParameter.#ctor(Inno.Audio.AudioParameterId,System.Single)"
 source: xml
-reviewed: b87dcec34618275e743632cbb4200cc590021aa64a53e16e20a79bdda330757d
+reviewed: a0ff8759f11f04f7053864ff4d208c171bd4ead00a56f6b093b253cad3119b6d
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.656031113c2ce2954ca6b963a219cf8fc427b58da3e46528cea472d06f61deed
 symbol: "scripting:Inno.Input:M:InnoEngine.Input.Input.WasMouseButtonPressed(InnoEngine.Input.MouseButton)"
 source: xml
-reviewed: 1c7321aca636c648d591709cb5fcb4950c23b93bc61f28391848abfb503fde53
+reviewed: bb872e23abac56094d2553be27e3189d01951f998e3ec8969b3a55bb2efc99aa
 title: "WasMouseButtonPressed"
 kind: api
 owners: [Inno.Input]

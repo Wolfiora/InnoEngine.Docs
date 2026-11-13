@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.88303358e63376e4
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.MaterialPropertyEntry"
 source: xml
-reviewed: 80498affd3c890e278710cb16e368a89ad3592d2fc8cd475634bc35d620e2c88
+reviewed: 708da5cb6946b1d0b06b7d5d7d2abd650b19d3f0c748841155f5f94dadcd8151
 title: "MaterialPropertyEntry"
 kind: api
 owners: [Inno.Rendering.Assets]

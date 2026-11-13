@@ -2,7 +2,7 @@
 uid: api.1e53ff103ed5d81d6da33bd8774d69c16254f8944e399942c3e9bbe4be3351f4
 symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSession.options"
 source: xml
-reviewed: 79d595cd35743c5f294391ee9cecbe632c3f54d39221bec3cd7369182cf641eb
+reviewed: d42b95dae28758fe0829f880ccb6d415c93b6497c6777c907238c11c4d507746
 title: "options"
 kind: api
 owners: [Inno.Runtime]

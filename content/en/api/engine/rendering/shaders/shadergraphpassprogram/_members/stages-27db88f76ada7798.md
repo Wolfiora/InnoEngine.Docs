@@ -2,7 +2,7 @@
 uid: api.27db88f76ada7798964f64c462a60117651106ef783f167bd8796edbe53ff038
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphPassProgram.stages"
 source: xml
-reviewed: 9bfe8d0c364862f174c26a0f12665aa17eb61f02904d32eff0dc03d18bee2295
+reviewed: 41140168005c2a73b186881f12b82b06afd197a37a520195a6cc9060ebf42904
 title: "stages"
 kind: api
 owners: [Inno.Rendering.Shaders]

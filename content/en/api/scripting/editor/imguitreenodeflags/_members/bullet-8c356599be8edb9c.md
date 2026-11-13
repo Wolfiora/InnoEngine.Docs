@@ -2,7 +2,7 @@
 uid: api.8c356599be8edb9c5fdaa328a5a4c7ebd93d7c00d8878ebb616c19c885035ef7
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTreeNodeFlags.Bullet"
 source: xml
-reviewed: e498b7eaac3735cd35f2bdf34e61d5dfe879326fce7c0544824eb588ad1aeb88
+reviewed: 0e22abcaddf62e72800c76f84fce3b9f99e9e3967578dd0c7fd8a1c12e58d0b9
 title: "Bullet"
 kind: api
 owners: [Inno.Editor.ImGui]

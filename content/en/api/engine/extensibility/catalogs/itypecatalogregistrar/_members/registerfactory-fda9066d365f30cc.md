@@ -2,7 +2,7 @@
 uid: api.fda9066d365f30ccfbf5c546aa23b9cbcda4af71b024c4fb88e99cf4668aa509
 symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RegisterFactory(System.Type,System.Func{System.Object})"
 source: xml
-reviewed: 9d324577cfe2191b8434970650f1a32047d5748617666a4d562fb21096a8f7e7
+reviewed: 7111d672fd9f95fdfaefb9d24d5466547aa12ca665379844603de176ff3568ac
 title: "RegisterFactory"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

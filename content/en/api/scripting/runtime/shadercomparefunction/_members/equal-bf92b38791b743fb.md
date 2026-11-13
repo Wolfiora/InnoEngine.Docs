@@ -2,7 +2,7 @@
 uid: api.bf92b38791b743fbe069941bf2bfdaca276b1468b57c0516ffe760c60ec37fe0
 symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderCompareFunction.Equal"
 source: xml
-reviewed: 27f964e2b955c438bf879b092506f1f8ed782b1d13f9d1a1a821799f3ec04000
+reviewed: 3167e8c704e710941faeb1b23db4f111cb1cb3019123dc352f24450a3fe49563
 title: "Equal"
 kind: api
 owners: [Inno.Rendering.Assets]

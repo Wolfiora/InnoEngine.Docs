@@ -2,7 +2,7 @@
 uid: api.25a0bd3fb474d85395120d6b3f1e60b0512a56d946231daf32d4c9f3abd8ab87
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginWindowContextMenu(System.String)"
 source: xml
-reviewed: 41e8b88bcbddf90e2a4396c099437b14278bf9756427490ed973d6a5528243b6
+reviewed: 93a83f547ac8ef872e13c8af68a26c8115d800ea020cc29e70a025630ec6fd0f
 title: "BeginWindowContextMenu"
 kind: api
 owners: [Inno.Editor.ImGui]

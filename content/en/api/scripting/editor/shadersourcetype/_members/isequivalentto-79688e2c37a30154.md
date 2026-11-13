@@ -2,7 +2,7 @@
 uid: api.79688e2c37a301547f743a046cadfb4a83872945a837cda288aefaf46a4e1d9f
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceType.IsEquivalentTo(InnoEditor.Rendering.Shaders.ShaderSourceType)"
 source: xml
-reviewed: 35e65ac5f048b4364ab8919d2c175e606fd17bf92ecf2359d2e625f5e0bef645
+reviewed: 7bdf7c4023615d502f640e0f7c25bec21d1ac26c5e6ba6e2c2f2be55872d29ba
 title: "IsEquivalentTo"
 kind: api
 owners: [Inno.Rendering.Shaders]

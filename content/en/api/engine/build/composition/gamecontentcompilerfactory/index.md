@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.ad995aebfba1a445
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.GameContentCompilerFactory"
 source: xml
-reviewed: c9c9120bdebf46f0fef2b97d95808ac9ab64e59e1475ba38045eb14725f2abd1
+reviewed: 19be1296c18863005cb405e18cb9ad675f16d3f68e04ca5e5b091a2882074285
 title: "GameContentCompilerFactory"
 kind: api
 owners: [Inno.Build.Composition]

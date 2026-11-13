@@ -2,7 +2,7 @@
 uid: api.9f941b8cb68ee9fcc290fb47e1ce89cf59c8ce48db3b4eafff45f6cb49179dd2
 symbol: "engine:Inno.UI:M:Inno.UI.UiContextOptions.Equals(Inno.UI.UiContextOptions)"
 source: xml
-reviewed: cb8dd2d281e7406351eecc5b7fb5e719e54c9657760b7e9ff5f9ae6da73066d4
+reviewed: b595f174898012596e3f1759375bf9c96035e0315dfb0c9803f7e6c68ef6fe83
 title: "Equals"
 kind: api
 owners: [Inno.UI]

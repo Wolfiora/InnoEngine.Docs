@@ -2,7 +2,7 @@
 uid: api.dc901541ea5ad9c279c84ed458d867dbf48288937b62928f6c806a70f31d0cf3
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.Save(InnoEngine.Scene.GameScene,System.String)"
 source: xml
-reviewed: 447cdd700a8b6b8f6686bf857a94da22ea5673a2b1817b7e7837a45fd22b59c3
+reviewed: 65fe1e4a024e480a3090f713d63c098b29a95926ba15ab63ebc08165383a2d3f
 title: "Save"
 kind: api
 owners: [Inno.Editor.Scene]

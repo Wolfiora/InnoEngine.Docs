@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.ddae5a9cb65fa10b
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPersistentResourceId"
 source: xml
-reviewed: 9f80fc5bcb9dccb41c18085a6292638c0419687a50b993665840592fd81cba09
+reviewed: 48dc16a261bca94223c49d42f2bd89dd07fe0297ea194e9f507eb963cfaf4506
 title: "RenderPersistentResourceId"
 kind: api
 owners: [Inno.Rendering.Runtime]

@@ -2,7 +2,7 @@
 uid: api.7fec801838414d21eac6fcc359f6c0ed9560566fc77198eb43831926a090b30d
 symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.KeyEvent.#ctor(System.UInt32,Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier)"
 source: xml
-reviewed: 44be04f5d10d159df98f97fe10ca8955cce6b82ab223aa027298b87d789705a0
+reviewed: a22f5a043db22894d6739c840dd7b0418b0799aeaa954911366fef6e9ed84dc1
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Events]

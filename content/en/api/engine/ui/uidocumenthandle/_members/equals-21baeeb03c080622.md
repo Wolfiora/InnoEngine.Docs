@@ -2,7 +2,7 @@
 uid: api.21baeeb03c08062259f7d2eb2629092bb80c3ddee4617e7f9ea96d3a390500b0
 symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentHandle.Equals(Inno.UI.UiDocumentHandle)"
 source: xml
-reviewed: 813e3afc7a95a5695232b71eaa52e22e05e8a619cf1c7d17047bb45c8466d7c9
+reviewed: 6acebec38a56c62e87b658e3cfad6a4894c61acc71bd1de73a5c779803c9d578
 title: "Equals"
 kind: api
 owners: [Inno.UI]

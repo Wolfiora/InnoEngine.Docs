@@ -2,7 +2,7 @@
 uid: api.803589748863948cc5d05e9db5487db3506b8e07bd0182b415dc9bdbb641c0bd
 symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.MaterializeBindingsTask.ArtifactDirectory"
 source: xml
-reviewed: 466f70039083b253da0606c49b87104bfc7860ad9489f571929eaccac6e231b6
+reviewed: e8e95911f8091110b5958ed61d93622f66bea60a13150d4645ab23f35c59665a
 title: "ArtifactDirectory"
 kind: api
 owners: [Inno.Build.TaskHosting]

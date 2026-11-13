@@ -2,7 +2,7 @@
 uid: api.7885c0fc61c7bd705b0ae8b29b810e73f6762823144d517617bc733712869d89
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorViewportToolContext.CompleteHistoryGesture(System.Boolean)"
 source: xml
-reviewed: 016f7fac4d4e09b05390921756404f5a8520e548b1a57b5017816ceb266c8bbf
+reviewed: 080e02226e2f0211f7fe77ef84a0385c3b00dec7ac88290e4adf7d0b5e3d49c5
 title: "CompleteHistoryGesture"
 kind: api
 owners: [Inno.Editor.Interactions]

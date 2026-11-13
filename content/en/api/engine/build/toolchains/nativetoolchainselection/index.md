@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.a8cba54ec2a3dd34
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeToolchainSelection"
 source: xml
-reviewed: ce7099e8e1010bc859e66683e1fd466efd61e5f0fd95e9f105a33e24cb948197
+reviewed: 46dc5f4215c82dcf7b333f40b947a0fac21bd6d00006fd44943dce5217a89fe0
 title: "NativeToolchainSelection"
 kind: api
 owners: [Inno.Build.Toolchains]

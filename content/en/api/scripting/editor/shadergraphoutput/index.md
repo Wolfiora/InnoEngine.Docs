@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.762b37f2d677fbe2
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphOutput"
 source: xml
-reviewed: 49564846ddb1db257681304b916308367434baf08dbdd68caf78225a20609cf5
+reviewed: 3a7319abd875328806e32439fb0159a54f9cf049cc6ba8d34a8d35d76a0bbbc3
 title: "ShaderGraphOutput"
 kind: api
 owners: [Inno.Rendering.Shaders]

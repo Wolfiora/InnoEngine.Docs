@@ -2,7 +2,7 @@
 uid: api.185baa58f2c1619f16df3e12be233c73d664ff2a6be22059aeda689ca7238e48
 symbol: "scripting:Inno.Editor.PlayMode:M:InnoEditor.PlayMode.IEditorPlayMode.ListenStateChanges(System.Action{InnoEditor.PlayMode.EditorPlayModeState})"
 source: xml
-reviewed: 9e9bfe4089573600cd83697b58d1737fac063d7c9ec25b72c747823fb005d473
+reviewed: c4c87676e6757ffd7ca08fd44e6839be9551f2920a6c0d979ad085dca4409e61
 title: "ListenStateChanges"
 kind: api
 owners: [Inno.Editor.PlayMode]

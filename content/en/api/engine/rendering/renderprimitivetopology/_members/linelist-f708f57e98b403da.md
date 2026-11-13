@@ -2,7 +2,7 @@
 uid: api.f708f57e98b403da689089fbad2a4daa758193941833c074ead2115b7225a41c
 symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderPrimitiveTopology.LineList"
 source: xml
-reviewed: 7bd29532b3f94d84deee5466d8531858d291e247b53850f192ff9346a2906966
+reviewed: 0488d5c1ae1a90173eeb35004e423aae259a51b1871ca7452a33b9899708ac40
 title: "LineList"
 kind: api
 owners: [Inno.Rendering]

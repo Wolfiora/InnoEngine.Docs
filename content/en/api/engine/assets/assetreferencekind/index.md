@@ -2,7 +2,7 @@
 uid: api.inno.assets.9876cd335660f59a
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetReferenceKind"
 source: xml
-reviewed: f0d525aee6d88a84ddd0d17c82f0d3921a547f2fdf6222d7177373df00f492be
+reviewed: a75dd03088a56a4a9cfbbd3ee5b107fe19137fccb4e03a2429f744833419a409
 title: "AssetReferenceKind"
 kind: api
 owners: [Inno.Assets]

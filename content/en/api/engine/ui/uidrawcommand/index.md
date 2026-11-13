@@ -2,7 +2,7 @@
 uid: api.inno.ui.0d3a9bb5d82163bb
 symbol: "engine:Inno.UI:T:Inno.UI.UiDrawCommand"
 source: xml
-reviewed: 13f8acd4c6d450cdd8e464b2c71b8b6852d5c0aff50f65c86b2ce398337720f1
+reviewed: 5da3cdf906d0c835965b1c05959565faa3bc5ebee44e26ac1a78fc86b076052a
 title: "UiDrawCommand"
 kind: api
 owners: [Inno.UI]

@@ -2,7 +2,7 @@
 uid: api.1b2c560e2cd683e691aaba4591960da3d328ccd4faa226eb2896b70e95f30bc6
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore\u00601.Clear"
 source: xml
-reviewed: 8a8c783fcf68fd0048462746f71ecc32a575cc762b3e8665040c169a3a84bd49
+reviewed: 7991cca97cef338c53edc955225190b95da4a6085f39a7adc4f8478a20cd28cd
 title: "Clear"
 kind: api
 owners: [Inno.Core.Collections]

@@ -2,7 +2,7 @@
 uid: api.e0d2c1f03ed0bcb31018d53dfb34e9c676cdc9dc2cc7f3a6b8a0d113c037db6f
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorGizmoContext.pixelWidth"
 source: xml
-reviewed: cdbac255bbb993cee6bd5f23752af4be60ce9c059f23a80aa46b00abbdb6a173
+reviewed: 65739ed3def45045f02072760c3cec175c4d95a0fa16d1d566d6794a174aa829
 title: "pixelWidth"
 kind: api
 owners: [Inno.Editor.Rendering]

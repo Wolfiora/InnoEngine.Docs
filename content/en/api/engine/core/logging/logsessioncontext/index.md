@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.5f0194f840af3f28
 symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.LogSessionContext"
 source: xml
-reviewed: c12dad3c785a07030e520d13dce283c8b3ba09cd81c23eda9e69d03c7ca5549a
+reviewed: ad4884c468dc490c09e541f42a6a0b433168f247f9f78a6e942cdba1a52bfd4f
 title: "LogSessionContext"
 kind: api
 owners: [Inno.Core.Logging]

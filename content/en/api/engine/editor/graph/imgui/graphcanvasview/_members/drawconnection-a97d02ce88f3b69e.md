@@ -2,7 +2,7 @@
 uid: api.a97d02ce88f3b69e36f2d5fb34e8ec3eca4ea23e1f9e64b56fea9c41373e9cd7
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawConnection(Inno.Editor.ImGui.EditorDrawList,System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)"
 source: xml
-reviewed: 3db509b23b6b993ab526fba55f712d6edbe93654198af5b3b34c2abfa53ff525
+reviewed: 1e0f93a6be5655c9b952c3016ed8c9a25e74af016b7a67868e12cb0aea9c00d4
 title: "DrawConnection"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

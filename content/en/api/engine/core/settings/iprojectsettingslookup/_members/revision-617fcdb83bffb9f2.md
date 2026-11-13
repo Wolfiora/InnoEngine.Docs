@@ -2,7 +2,7 @@
 uid: api.617fcdb83bffb9f2e2359bea957ec7e37b6e2dc3ec6c28ae112f0184a9c16686
 symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.IProjectSettingsLookup.revision"
 source: xml
-reviewed: dcde361e6bc357b9d32819dd13e0b7773f852b85ba2fb4fbf21883e9d550a99d
+reviewed: 44ea040430757551d31c0f0b06c078f7fc8f5426d918d4511975eceff39efbd1
 title: "revision"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.32b7bec130237f674be56020a5c529c2ce5e76c4750b445a3de4727374327dc4
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportToolSession.HandleShortcut(InnoEditor.Interactions.EditorViewportShortcut)"
 source: xml
-reviewed: 5418f48d5b09da8f3f6230a73af7815dc36f08f716993da74ec098cb91e25883
+reviewed: dc8d1a3d1fdf5048f8d144c30e05c5905a305a946f864dfe8014cb576ee7ab4a
 title: "HandleShortcut"
 kind: api
 owners: [Inno.Editor.Interactions]

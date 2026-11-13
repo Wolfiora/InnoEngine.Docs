@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.8def88483892a282
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPassContext"
 source: xml
-reviewed: cfc7e05a01d034a94213d0dbcfcfdaef94393190cc8483f2571bb4c3ea026632
+reviewed: 8b9df19d3611f630ddff255a1b5ab10d3c72f937e49719bf426aae3cd9f7e168
 title: "RenderPassContext"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.fbedbcde50eb1263
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.RenderPipelineAsset"
 source: xml
-reviewed: 5a23f230b9cb772c49c8e7f1a7d1fde6eb5b170327abc52f7355081073d5aeea
+reviewed: 97dbed277e022dabd8eb1d261227c913efe9445f1047c7764a43e2dff68c3439
 title: "RenderPipelineAsset"
 kind: api
 owners: [Inno.Rendering.Assets]

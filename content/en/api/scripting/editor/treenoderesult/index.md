@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.e57f995c0326bc52
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.TreeNodeResult"
 source: xml
-reviewed: 8ee96c71417ec3d2b778a9d81e77266813de13935b599fb1378e053b0d86b9df
+reviewed: 71d5a4f5dde8bfe4592fd780b043645ed3cf0290eb2535733a63f14a7613d3d4
 title: "TreeNodeResult"
 kind: api
 owners: [Inno.Editor.ImGui]

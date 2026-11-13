@@ -2,7 +2,7 @@
 uid: api.cb8dce1e051db41013ba6de350d366c495a61804696805b6cdf86cd1b83e798b
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.CollapsingHeader(System.String,Inno.Editor.ImGui.ImGuiTreeNodeFlags)"
 source: xml
-reviewed: de43afe016d60b48c71a27c764a28c9c1dcffcad332f1a47cfbe8b42a88137d5
+reviewed: 639b316102d8d9af77d60a7a161cbc5f7bb8eb848dfa6d481a81439071d25286
 title: "CollapsingHeader"
 kind: api
 owners: [Inno.Editor.ImGui]

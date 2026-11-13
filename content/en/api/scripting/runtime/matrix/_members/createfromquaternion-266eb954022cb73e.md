@@ -2,7 +2,7 @@
 uid: api.266eb954022cb73e8454ca19ce610842155212eba66d7ce22970ed3246aa2612
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateFromQuaternion(InnoEngine.Mathematics.Quaternion)"
 source: xml
-reviewed: aacd9f005d45e38c250453f6b176aa75ae9a15a82d57ad09b77994a623de3210
+reviewed: 886058be6c14dcb940868a64b436ecf4dc144fdf48686f2b1588dcbd5dff4a7a
 title: "CreateFromQuaternion"
 kind: api
 owners: [Inno.Core.Mathematics]

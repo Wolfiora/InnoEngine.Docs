@@ -2,7 +2,7 @@
 uid: api.e0fa3cfc2d2011dce2d8aa4ca7f8e301d1d882fcadcb2a487812e207c48c3903
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetPropertySnapshot.#ctor(System.Guid,System.ReadOnlySpan{System.Byte},System.Collections.Generic.IEnumerable{InnoEngine.Assets.AssetDependency})"
 source: xml
-reviewed: 2550a924d9172d1d1dca5c6d5d4b9d81788dd5a21d6146dac4f2c584e5b2f8d4
+reviewed: 94ebfa63ecae82a96ab197449d534ef1f112a273ecb73a2d195cbbf09bb905d9
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

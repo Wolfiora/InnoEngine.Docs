@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.550ad820be42a2fe
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceCompletedEvent"
 source: xml
-reviewed: 75af4aac834f684bd023bb51f18cc3ca3b7edbc025ef46d2ca138d9ccf0d290e
+reviewed: 3cd9c1388feee2592a9d5a54a2a74cf5f867ad7d3953e71c8c733ef888c82fc3
 title: "AudioVoiceCompletedEvent"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.e0fd43c34286dfb4f16665d6bb583f36a9589a9815c5bcc54406ec234e597109
 symbol: "engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntimeFactory.#ctor(System.Func{Inno.Runtime.Contracts.RuntimeSubsystemContext,Inno.Animation.Runtime.AnimationRuntime})"
 source: xml
-reviewed: cfa5df0a5913281bbe1fdf6bc8d5a5ef2a57f25290a3c37bb4cf1173400261fc
+reviewed: af6dd24f324434ad32645ae505f59017c47da644b64e96244a4d7d69771e0f59
 title: "Constructor"
 kind: api
 owners: [Inno.Animation.Runtime]

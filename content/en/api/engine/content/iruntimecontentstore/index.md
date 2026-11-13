@@ -2,7 +2,7 @@
 uid: api.inno.content.cc18454e1f82346a
 symbol: "engine:Inno.Content:T:Inno.Content.IRuntimeContentStore"
 source: xml
-reviewed: 3f5a1fa38b2f5fde22092519a28fb30c08b24d4089a905b980fff5b6bcf3bb5e
+reviewed: 846726541f7a1e6e153af704b493b7eadb98cc79ac215bae584be4cf42e40b4b
 title: "IRuntimeContentStore"
 kind: api
 owners: [Inno.Content]

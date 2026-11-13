@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.runtime-script.72981616fab99eef
 symbol: "scripting:Inno.Core.Diagnostics:T:InnoEngine.Diagnostics.DiagnosticSeverity"
 source: xml
-reviewed: a1db10a0da37a5b8405b663a984cea755d982620e6b8a68b1b9a1ac127588020
+reviewed: 0f0b2cee2bb974603792f4dea237afb67c0a42008be0ae4597c539094a12ed75
 title: "DiagnosticSeverity"
 kind: api
 owners: [Inno.Core.Diagnostics]

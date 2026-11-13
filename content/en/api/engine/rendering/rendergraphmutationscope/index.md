@@ -2,7 +2,7 @@
 uid: api.inno.rendering.13d20e7fc6aec15b
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderGraphMutationScope"
 source: xml
-reviewed: a27d5c8d3972d2e21a827f8098c658254a27eb2d12c7d6aa3f0896aed02bd55e
+reviewed: 18c450b40c6603c44983c23ed67efb5bb94e7cde07e1784300c269aa00edc0f6
 title: "RenderGraphMutationScope"
 kind: api
 owners: [Inno.Rendering]

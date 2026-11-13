@@ -2,7 +2,7 @@
 uid: api.736979ec4a87c817eb9412cd31647a795afbd51755e725ecd40294bbc2dc40d3
 symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectLocalId.#ctor(System.String)"
 source: xml
-reviewed: acd8408b23520d7fe41b775c60f40da09801e22a24d7aba308644ebb4ead9f00
+reviewed: 82bde757104c2c53dda94964fb8eec5f280b384a272f70cf31aad4afe3a7e589
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.506f4214ef7f4a901825381e598713d24cf5b958735c7a071e9f9153732e897e
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsCapabilities.#ctor(InnoEngine.Rendering.GraphicsApi,InnoEngine.Rendering.GraphicsCapability,InnoEngine.Rendering.GraphicsLimits,System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Boolean,System.Boolean,System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat})"
 source: xml
-reviewed: 6c2a246bad1c00d1435c925f67732c4a5af0dcbde430b57a59ad7604d351d8c5
+reviewed: 30f9a4c3b5e9da239367a465edff22061c732760a15b036281397c8989f40337
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

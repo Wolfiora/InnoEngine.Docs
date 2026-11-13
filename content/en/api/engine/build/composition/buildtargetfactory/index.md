@@ -2,7 +2,7 @@
 uid: api.inno.build.composition.fc13ccd2c8248070
 symbol: "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildTargetFactory"
 source: xml
-reviewed: 4125309c739651da854d8fc758ef1f705aa04d4d297985cb81a1927b64d70ca0
+reviewed: 9f2cf3954e49ed1cecd42325f7b60ac82f02681f4b5a930176fee6be47c98216
 title: "BuildTargetFactory"
 kind: api
 owners: [Inno.Build.Composition]

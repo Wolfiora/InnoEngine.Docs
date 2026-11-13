@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.be9f7d15efafe716
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.HelpBoxAttribute"
 source: xml
-reviewed: 7b61dcec59b0cb4cb4f9c140dc41606e1a7f84ac68afd6e2f2b6a4ad7e42fb4b
+reviewed: f249421590692eb6dc3a46d6e7cb9f477d9afd23732e78c30e4440c8a7e83540
 title: "HelpBoxAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

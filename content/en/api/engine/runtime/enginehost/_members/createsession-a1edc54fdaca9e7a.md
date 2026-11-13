@@ -2,7 +2,7 @@
 uid: api.a1edc54fdaca9e7a269ea8f391ab8311646574aae95beadc32de94e26a66841a
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.EngineHost.CreateSession(Inno.Runtime.RuntimeSessionOptions)"
 source: xml
-reviewed: f97df140f7972a66fdcfddb777176baed978535e492a9ef6edf3ea39cf90230a
+reviewed: 76c007bd463a3035de8d05240aeae835746ad65ec83e0d784fc9948cc08df605
 title: "CreateSession"
 kind: api
 owners: [Inno.Runtime]

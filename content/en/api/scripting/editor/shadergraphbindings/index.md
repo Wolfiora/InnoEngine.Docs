@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.a956eef8ca291fa9
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderGraphBindings"
 source: xml
-reviewed: 50f6b064a0de289e09623cad6a981213198d8440bbf481d2eb7277d9e0217a5a
+reviewed: 00c2cad8ec499f561f35d20f928f7ace3f04b3c9f1d1805c444f8dc68e73f518
 title: "ShaderGraphBindings"
 kind: api
 owners: [Inno.Rendering.Shaders]

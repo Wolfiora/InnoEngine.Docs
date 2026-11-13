@@ -2,7 +2,7 @@
 uid: api.ff8fa3ca989d54cc82ac1b2d7bcdf4dcd2064cc8d55f7cf6f086c6e3693799c1
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticLocation.Equals(System.Object)"
 source: xml
-reviewed: d484eb9e7b70b98090f6e6a952734800d96adc9e984818aded39705f7d5b97d5
+reviewed: acbef3d0d53e6db74f5426fa9870245036e97a8c8fcf2c105c1f547608e6459f
 title: "Equals"
 kind: api
 owners: [Inno.Core.Diagnostics]

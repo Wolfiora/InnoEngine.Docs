@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.cece4bab5907d676
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationRevisionAttribute"
 source: xml
-reviewed: bfae53d151020161fffbe5250db843c853245dea0eda15274c574ce5cb153842
+reviewed: 4a636f42fd422016d2371920ad57e1b0194411c1d220b5260055a0bbc9739926
 title: "SerializationRevisionAttribute"
 kind: api
 owners: [Inno.Core.Serialization]

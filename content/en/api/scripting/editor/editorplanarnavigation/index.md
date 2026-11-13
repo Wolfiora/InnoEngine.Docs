@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.f71b5dfffc5faf1c
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorPlanarNavigation"
 source: xml
-reviewed: 88196913f8f6af492ecba9b23295c7a96a857cb7ac17a2e4b900de7da07f96ce
+reviewed: ff7b51864e2bb6340b202a3c66c4c9ba588825470ea20854c43e5eccb97d0778
 title: "EditorPlanarNavigation"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.ab8bc4775072cb934ecd36e7911d3c7d6b58b1b3ace7dbe69aac9fbb2494a1a9
 symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.EventHub.ListenOnce\u0060\u00601(System.Action{\u0060\u00600},System.Int32)"
 source: xml
-reviewed: 37a4fe0172f6593f7ae491a3ace0242f4c81d341a2a22bc3620ad8778af4cd89
+reviewed: 0e9ec68f7491a3237e9e65e69e89165d92b8b41486eb6a9bba34bbb73997a2a0
 title: "ListenOnce"
 kind: api
 owners: [Inno.Core.Events]

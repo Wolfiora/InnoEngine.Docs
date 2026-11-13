@@ -2,7 +2,7 @@
 uid: api.565dfae26b3f78988bb158f44d994356f4fcf9c71f1ce9cfc8778c0560fcdec8
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.Assets.LocalPath(System.String,System.String)"
 source: xml
-reviewed: 8efc319ce927500e199197975912cbb79b29a2adc60f8f0eb73172c805cae865
+reviewed: 6b92e5f2b2f8ef01574835447eaf521d2d296b0bc7e6161eb293a28d18e059d7
 title: "LocalPath"
 kind: api
 owners: [Inno.Assets]

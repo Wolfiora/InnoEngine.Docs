@@ -2,7 +2,7 @@
 uid: api.inno.build.distribution.standard.0a5c106f8b70c978
 symbol: "engine:Inno.Build.Distribution.Standard:T:Inno.Build.Distribution.Standard.StandardBuildHosts"
 source: xml
-reviewed: d579d75a6dd77ac29433318afe2d4d099f08e8f907b0deb9183b84fa1f11e973
+reviewed: 5a941010a2d058fa345dcc78237e5f59d1c5d0521a01b57345435b223e20eebb
 title: "StandardBuildHosts"
 kind: api
 owners: [Inno.Build.Distribution.Standard]

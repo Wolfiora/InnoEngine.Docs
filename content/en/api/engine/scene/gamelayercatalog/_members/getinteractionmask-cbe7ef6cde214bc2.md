@@ -2,7 +2,7 @@
 uid: api.cbe7ef6cde214bc2113c5f5dee089779eb4af889920f397e129d7c0df32f4f3c
 symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.GetInteractionMask(Inno.Scene.Layers.GameLayer)"
 source: xml
-reviewed: 573c829c4ffce9e411ead17d13e6ba28533dd1b2d8f23757bd7389e2bc095314
+reviewed: 704af2ced676fa5cc958189c35792cb08a9a0eda425cba857ddc3b8d119ddebc
 title: "GetInteractionMask"
 kind: api
 owners: [Inno.Scene]

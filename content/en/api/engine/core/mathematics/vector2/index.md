@@ -2,7 +2,7 @@
 uid: api.inno.core.mathematics.4260e9466cd12616
 symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector2"
 source: xml
-reviewed: ef6bf7fe04420b6cf4a32796bd54d485a0c7d12423c727335a09dabb71f1314c
+reviewed: 027acfc66bc2083713d1018a9953ca6b5efe41821f1006705ea950af234ac5b1
 title: "Vector2"
 kind: api
 owners: [Inno.Core.Mathematics]

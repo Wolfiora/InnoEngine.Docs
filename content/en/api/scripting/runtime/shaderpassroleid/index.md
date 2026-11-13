@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.550b3964b222f39e
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderPassRoleId"
 source: xml
-reviewed: a047a63e3eb81c659653df78633789d8475dc3bcd5f999a803229af054fc9855
+reviewed: a8161decc88dc28983e0903816db5d469df74055571cf019f3b06c0bb0ef5752
 title: "ShaderPassRoleId"
 kind: api
 owners: [Inno.Rendering.Assets]

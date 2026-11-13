@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.05e584a89f62e32e
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderCullMode"
 source: xml
-reviewed: 212be37524f052c43a1c7ff8e9b55b1ba37f6df4799e2846e767e08c58025a2a
+reviewed: 3463772537a95cecb79be5cc380a6ca8100a7cb8c0ba9ba896c033f055fef28f
 title: "RenderCullMode"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.f46539e0e28cda4beb33c0bf3878c0162fe4fc2e16fe1b1100c166668d822af0
 symbol: "engine:Inno.Build:M:Inno.Build.BuildSettingsStore.Load"
 source: xml
-reviewed: 77847dda77ec0b4cc7e0d78988ed59e7b685131b25ccf5bc6624e9fe66a189be
+reviewed: 1eaecb47be4d075064d6d37e6828988bfe454924cda17ccca689d3fdff3f1ede
 title: "Load"
 kind: api
 owners: [Inno.Build]

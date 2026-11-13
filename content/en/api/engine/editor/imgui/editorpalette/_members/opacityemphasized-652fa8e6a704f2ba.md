@@ -2,7 +2,7 @@
 uid: api.652fa8e6a704f2ba00034eba3b7fa5f638f962ab2c1ded826a345866ddaa54b8
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.EditorPalette.opacityEmphasized"
 source: xml
-reviewed: 574664a116b2189df44807c63829c51fd3d541d973ad4b9272fb8f2d78f60850
+reviewed: 4af43793bedf115de2ba2f06ef0cf1045c896b3087104e080994826eca9435d5
 title: "opacityEmphasized"
 kind: api
 owners: [Inno.Editor.ImGui]

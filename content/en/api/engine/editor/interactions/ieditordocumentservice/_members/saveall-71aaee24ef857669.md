@@ -2,7 +2,7 @@
 uid: api.71aaee24ef8576699a8ccb03a6dd92581d92893bba7ff13843ec12da0084b020
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorDocumentService.SaveAll"
 source: xml
-reviewed: f30271c629e56e6f0502897f9379889dbbd6b63dd077694cc64e35cc42e3f5fa
+reviewed: 907eabdefdc6a4d1049384c8abeca407d116ae45984d52020a706c5e1fb41e2c
 title: "SaveAll"
 kind: api
 owners: [Inno.Editor.Interactions]

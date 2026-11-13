@@ -2,7 +2,7 @@
 uid: api.48a103f05e58583cc4052538567443ff3d391dbc548201b989255e8ff82cfa09
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializablePropertyAttribute.#ctor(Inno.Core.Serialization.PropertyVisibility)"
 source: xml
-reviewed: 80d1c0a93791950530e43e4ddc96177dd5d6cf97b4e5e0070339e76f34abb0e0
+reviewed: 6f12fc5ad7029bc366ce6d729067ce444b10ee417cf2a0d81ae862550a9f0495
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Serialization]

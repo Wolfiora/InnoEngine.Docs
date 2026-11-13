@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.1fb33473ed530fa8
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IViewContentFrameSource"
 source: xml
-reviewed: 5eccf7b529c076c62590bc9558f144ea9e27418a0302f66dd5ab4a24f6af6d41
+reviewed: 7c2790a30455206663cde1c5bb17074807b3a90c95989ffaa44be0936bcbf282
 title: "IViewContentFrameSource"
 kind: api
 owners: [Inno.Rendering.Runtime]

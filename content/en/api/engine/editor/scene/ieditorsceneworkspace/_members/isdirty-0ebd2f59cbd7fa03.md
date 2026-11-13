@@ -2,7 +2,7 @@
 uid: api.0ebd2f59cbd7fa030e3e24632b11d88e2f0b6c815124fbce9ef3ee77f505bdc4
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.IsDirty(Inno.Scene.GameScene)"
 source: xml
-reviewed: 936ec0fe3e03f691c47ece82216cb03097e462c6e2b23233761073469940f74c
+reviewed: 7be9082d04fa085971852eeb7501bf76416ddf85220f3b8d4d1a48f660370f36
 title: "IsDirty"
 kind: api
 owners: [Inno.Editor.Scene]

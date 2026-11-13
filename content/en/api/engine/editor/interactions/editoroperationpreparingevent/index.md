@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.bd7716c28b1c9b1b
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorOperationPreparingEvent"
 source: xml
-reviewed: 30c14b7891206e46d4daef3f07d8612689a197a5b7774d7f835efd831efff07f
+reviewed: ece3ae30236c58c84181fdb175dcd7e0063b96ec921653ed9bc96b9bb1510270
 title: "EditorOperationPreparingEvent"
 kind: api
 owners: [Inno.Editor.Interactions]

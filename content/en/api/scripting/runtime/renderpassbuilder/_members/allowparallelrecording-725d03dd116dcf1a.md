@@ -2,7 +2,7 @@
 uid: api.725d03dd116dcf1afd6e73ff17eceab6c126ab6a9e275b659c1ef2e35041369a
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.AllowParallelRecording"
 source: xml
-reviewed: 85b8384a478911fb755753c8e93686063cad301eaac08159405475b68d4fef7d
+reviewed: c7a815aa5862e3150968db368e7f77c4bf3d6d48e12b6994bdea9045f21498d7
 title: "AllowParallelRecording"
 kind: api
 owners: [Inno.Rendering]

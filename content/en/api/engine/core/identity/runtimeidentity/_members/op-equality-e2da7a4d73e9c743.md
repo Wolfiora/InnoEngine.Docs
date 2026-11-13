@@ -2,7 +2,7 @@
 uid: api.e2da7a4d73e9c743882cc1d30852d8f3eb4c5ba2b003964b5dab5a0ddc7fd8e1
 symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.RuntimeIdentity.op_Equality(Inno.Core.Identity.RuntimeIdentity,Inno.Core.Identity.RuntimeIdentity)"
 source: xml
-reviewed: d22f051442989681ef0d8d31a9fcac0d046e9767d49bd5c8b14bc17f0b2acc5b
+reviewed: 096240394a55a82940b654dc5ec4c82294b93cb652eeca791a5268f49b2a0de5
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Identity]

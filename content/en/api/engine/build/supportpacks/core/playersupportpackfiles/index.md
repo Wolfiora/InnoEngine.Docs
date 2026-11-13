@@ -2,7 +2,7 @@
 uid: api.inno.build.supportpacks.core.77f15e25690351aa
 symbol: "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackFiles"
 source: xml
-reviewed: b33af7686c8b6ccec8fc52e311c62686073cf3fc65b942668300eeb412046de1
+reviewed: 24ab60faace52ef642585788f933ff6ddad02039af51242b9d1c5e90a1644399
 title: "PlayerSupportPackFiles"
 kind: api
 owners: [Inno.Build.SupportPacks.Core]

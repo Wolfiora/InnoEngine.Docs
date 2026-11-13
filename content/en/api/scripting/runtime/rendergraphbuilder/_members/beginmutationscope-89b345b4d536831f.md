@@ -2,7 +2,7 @@
 uid: api.89b345b4d536831f9c290c1ebad071baa1437bb34c87c57ce5cb6368466e6136
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.BeginMutationScope"
 source: xml
-reviewed: 8654d69c49f86513b0663f24a01079b55d25238f858816d113ce7239551c4e7b
+reviewed: aeb7ebd0f7c4004e5f73b5dff83afcd33f89cb3a5cd4332ee891ef6cbb55352b
 title: "BeginMutationScope"
 kind: api
 owners: [Inno.Rendering]

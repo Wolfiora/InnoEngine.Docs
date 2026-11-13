@@ -2,7 +2,7 @@
 uid: api.inno.references.327be83e57ee1253
 symbol: "engine:Inno.References:T:Inno.References.ContentReadScope"
 source: xml
-reviewed: f4f6857eebdb65b3e07d4eb12c1118f5a8f445c4fa9a0daa5d663a19035a1361
+reviewed: 0b857e0d2645fdded3d9a7865a3ee1b8fb6f9a92e1b466b8a30373ff440635ec
 title: "ContentReadScope"
 kind: api
 owners: [Inno.References]

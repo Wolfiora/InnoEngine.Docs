@@ -2,7 +2,7 @@
 uid: api.bd68e1c134358f6c96feea445fb167bba52b2b27bd0a4112b62c38297d87612f
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetStyleColor(Inno.Editor.ImGui.ImGuiCol)"
 source: xml
-reviewed: 11051dd79a7817882cf2e75244de91ba07259fd931efbf62a90f83de26376b54
+reviewed: 9a29a653e28435430f40257a38592b348cdbd2af7b22a27745e7681e360885e8
 title: "GetStyleColor"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.ecbf76cb2000ec4ea1ac386cf3a699d29ff893db4ed43d489a2be246ed65a84a
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioCapabilities.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32)"
 source: xml
-reviewed: c8c6b6718e7d6087cc969fef74e27eafa350e7ae82692efcc157104419284d87
+reviewed: 14a31a7b3fe93b0c25324181bc53296f3b05a176e577c25c69bbb72515bd8f41
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

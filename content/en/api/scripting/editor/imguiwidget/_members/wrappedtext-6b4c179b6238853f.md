@@ -2,7 +2,7 @@
 uid: api.6b4c179b6238853f6ee3286ff4ff230bd1c83472e1e83075b27418a740b87684
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.WrappedText(System.String)"
 source: xml
-reviewed: 0684108a8f98fdbdc179f1fdaeb57281f17b98f94cba0d3513113583372db1d5
+reviewed: e92562a8b58f1641723159c5d897a77095299443484d2a74a5007a38c6f326c8
 title: "WrappedText"
 kind: api
 owners: [Inno.Editor.ImGui]

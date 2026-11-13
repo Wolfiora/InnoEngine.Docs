@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.1f9e3be2fb20a879
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderShaderPassArtifact"
 source: xml
-reviewed: 1019be2b451cf18d614ba2183e43a459bc5d9e826a1403413376221fd099f06e
+reviewed: 891588d84f13178dd33de7642da90e1b6f61feaf00f4493b5cfa34c475d8387f
 title: "RenderShaderPassArtifact"
 kind: api
 owners: [Inno.Rendering.Assets]

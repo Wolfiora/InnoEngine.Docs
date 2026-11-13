@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.e57055f9261641ea
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioSpatialOptions"
 source: xml
-reviewed: 16389adbd5f973376b8ce7d0506e7d4c27cb9c7bcb9f82c7ebf5c270182b4edd
+reviewed: f451828136a7d85fcee6367a53fcea8b47f88dffe35a1af496081017de1f8197
 title: "AudioSpatialOptions"
 kind: api
 owners: [Inno.Audio]

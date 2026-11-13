@@ -2,7 +2,7 @@
 uid: api.bb06570bbff5e43e295807caf1ab0610dd0860691fa2d7e0644f0f2e977fef23
 symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsString(System.String,System.String)"
 source: xml
-reviewed: 70c8c8dbd82235e2d0df96e21ef267252e9c1af5706a2785d4a59df9c0d37d44
+reviewed: 607417ba12f5e969b4aabac43c93baffba86cabe8e273f6af97e4b599c6ff83c
 title: "GetAsString"
 kind: api
 owners: [Inno.Editor.Settings]

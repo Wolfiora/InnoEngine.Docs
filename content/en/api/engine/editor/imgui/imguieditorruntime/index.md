@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.8087070d5ed4a25c
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiEditorRuntime"
 source: xml
-reviewed: b0150271fa69d830d13615c9674b480ee8db039a6357bdcb622855205835af26
+reviewed: eaa7182be35e121bc1ff68b09d874915c523f33244607c675bbfce733388aa24
 title: "ImGuiEditorRuntime"
 kind: api
 owners: [Inno.Editor.ImGui]

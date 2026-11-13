@@ -2,7 +2,7 @@
 uid: api.fdb0b603b19248f5ddfefeb7b2f959728f75b84962f761fa34db555de77f8a57
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationState.focusDistance"
 source: xml
-reviewed: a25cf87387c6a5b6e3ca8c42556b0afdf59edfb13f540406dd32ca5bf1575f89
+reviewed: 091a2e2f8b592319fa347dba1794d388ee381b26bec178d42ec1e897cae8a56d
 title: "focusDistance"
 kind: api
 owners: [Inno.Editor.Rendering]

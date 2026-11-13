@@ -2,7 +2,7 @@
 uid: api.d7113d1f65b4883bfde8d540c6ba275d1f349aff5786d42cd72f36841a0a2173
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrStage.#ctor(Inno.Rendering.ShaderStage,Inno.Rendering.Shaders.ShaderIrBlock,System.Collections.Generic.IEnumerable{Inno.Rendering.Shaders.ShaderIrStageInput},System.Collections.Generic.IEnumerable{Inno.Rendering.Shaders.ShaderIrStageOutput},System.Int32,System.Int32,System.Int32)"
 source: xml
-reviewed: 1bdefcab756beb9e0b7a1504700261d6c4f5f29d67b9719e30acdbcb4cac6392
+reviewed: 765bcd5292eefc92abba4df13f542b6b360a7ebe1f6ce16ca66f63f39b27b410
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering.Shaders]

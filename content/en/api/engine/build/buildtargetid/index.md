@@ -2,7 +2,7 @@
 uid: api.inno.build.6224264580047209
 symbol: "engine:Inno.Build:T:Inno.Build.BuildTargetId"
 source: xml
-reviewed: 1ae245be388b897a438f2b25d3324b67de9b89c0933adf51daed277e8d4cc56f
+reviewed: 1a07623b5e8c59ecff556ad92ac49bbfe69d708c4ff6735dbf1aa27f86b618c1
 title: "BuildTargetId"
 kind: api
 owners: [Inno.Build]

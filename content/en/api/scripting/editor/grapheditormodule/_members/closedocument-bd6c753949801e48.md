@@ -2,7 +2,7 @@
 uid: api.bd6c753949801e4820150e9412bae03a1755067be31e0e45fd7d9d5fc1878c5f
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphEditorModule.CloseDocument(System.Guid)"
 source: xml
-reviewed: 5934e3f080f043bed5c32e5be0388fa8c546009a3ddbea3ea499e4edb919fc3e
+reviewed: 3109568326d1428c54ad90c26dac5c2a8c9dc2e18d4b8abbf1355d1e9b9efdec
 title: "CloseDocument"
 kind: api
 owners: [Inno.Editor.Graph]

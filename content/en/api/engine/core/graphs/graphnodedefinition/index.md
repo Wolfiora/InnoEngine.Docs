@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.d5402885075c5c99
 symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphNodeDefinition"
 source: xml
-reviewed: 0f39074aa97ef35f3040ea76d75bb99beda5bf2ea5e91304b8bd94aa7e1a7f26
+reviewed: e71f0c0dfc526d0d4b74b292d123da35e533bf6516b36cad080fbfe2c0b7d8ab
 title: "GraphNodeDefinition"
 kind: api
 owners: [Inno.Core.Graphs]

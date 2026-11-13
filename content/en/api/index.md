@@ -10,12 +10,12 @@ Choose the engine API surface your caller actually receives. Public CLR declarat
 
 | Reference | Intended use |
 | --- | --- |
-| [Engine](engine/index.md) | Public and externally usable protected C# engine, Editor, Build and tooling contracts, organized by project. |
+| [Engine](engine/index.md) | Public and externally usable protected C# contracts owned by src/ and build/, organized by project. |
 | [Runtime scripting](scripting/runtime/index.md) | Runtime exports, also available in the Editor script compilation context. |
 | [Editor scripting](scripting/editor/index.md) | Editor-only exports selected by their actual declared Scope. |
 | [Authoring scripting](scripting/authoring/index.md) | Authoring annotations with compilation-time applicability. |
 
-Backend, external-library, test and fixture APIs are excluded. Their engine integration and verification guides remain available outside this reference. Script Scope and compilation context are separate: each type lists its actual availability.
+Engine API excludes every root except src/ and build/, as well as test and fixture projects within those roots. Their engine integration and verification guides remain available outside this reference. Script Scope and compilation context are separate: each type lists its actual availability.
 
 ## Source and editorial ownership
 

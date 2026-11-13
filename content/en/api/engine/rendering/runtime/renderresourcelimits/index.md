@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.166b1e6dec7d3e84
 symbol: "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderResourceLimits"
 source: xml
-reviewed: 47a894ef1ec85f6b3d4b8e164c0bd3b8370da424a19db644343aae3826727869
+reviewed: b321ffdef0aa39f24bf5dfdb01fd47d4fe3b315a7683cd190363fad7a7cf571d
 title: "RenderResourceLimits"
 kind: api
 owners: [Inno.Rendering.Runtime]

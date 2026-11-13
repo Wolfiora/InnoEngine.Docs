@@ -2,7 +2,7 @@
 uid: api.03cdb4fd155f44de4a009e9dfc4d87ade86cd4380e1ddbb215b62c1dd491c26d
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorMenuBuilder.Add(System.String,System.String,System.Int32,System.Boolean,System.Object)"
 source: xml
-reviewed: 84753f73ebcf3a8d292ccb871f6990a4dd6c35da492574b22fb9189ec722d645
+reviewed: 2434d37770b08730c9eeafae396e84d5fde14ef577e5243b467b7ea13afd6679
 title: "Add"
 kind: api
 owners: [Inno.Editor.Interactions]

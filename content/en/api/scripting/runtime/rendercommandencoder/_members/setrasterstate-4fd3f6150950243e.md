@@ -2,7 +2,7 @@
 uid: api.4fd3f6150950243efeebe019fd0c0e980bce9084118f5bf0d083d4e3bd1c52dd
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetRasterState(InnoEngine.Rendering.RenderRasterState)"
 source: xml
-reviewed: e0121ffa3a538c205e6007d482ec4eef4327c374cbbb3e669601ea70d72b2c6e
+reviewed: d650da0780f43b0332ae7733e68502e89bd35da37da2c334f72f04e2d48b336a
 title: "SetRasterState"
 kind: api
 owners: [Inno.Rendering]

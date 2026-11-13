@@ -2,7 +2,7 @@
 uid: api.1ef7f1c99e5273957114a9fb7a10751b1352813b7afaee9a15aac706125f8844
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.QueryDrop(Inno.Core.Identity.RuntimeIdentity,Inno.Editor.Interactions.EditorDropPlacement)"
 source: xml
-reviewed: 219f5c9826a070e7be4a5a79fc0de5dc6d188699287c11b9786ab2efc390fe06
+reviewed: fd3bae640ef54ed3cde07c9977f38d246e414ffc4bfe17c9c058194bdacc3755
 title: "QueryDrop"
 kind: api
 owners: [Inno.Editor.Interactions]

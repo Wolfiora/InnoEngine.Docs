@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.3375fb21c2a233bf
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorHistoryAvailability"
 source: xml
-reviewed: 6064bd0dddab7b133dd79b44b747b6ad1345d83ebb226f21be9a2a69af34654d
+reviewed: 00e3d8aa7d186abf79719b2c602e4ab2947018b81455fddd8feb6f8d1ec6f1d6
 title: "EditorHistoryAvailability"
 kind: api
 owners: [Inno.Editor.Interactions]

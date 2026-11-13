@@ -2,7 +2,7 @@
 uid: api.b3d7c2f61133e158c93a76022b4066bdbcb24d6dc274bff6650b9ebdd04325b7
 symbol: "engine:Inno.Scene:P:Inno.Scene.Components.Transform.localScale"
 source: xml
-reviewed: 1094afde5caf4e545056a35d5aea3e595d69a72548d4b597b869b3dd1ddd54ea
+reviewed: 20267a78a85f41d03b704791ed79ae4f4f7400519a4f4252c5cc495dd600d841
 title: "localScale"
 kind: api
 owners: [Inno.Scene]

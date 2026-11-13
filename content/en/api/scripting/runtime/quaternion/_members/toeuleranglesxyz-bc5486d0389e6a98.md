@@ -2,7 +2,7 @@
 uid: api.bc5486d0389e6a986dc42b6b558665564093f40bea22f68781f8ffbdf37b1232
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.ToEulerAnglesXYZ"
 source: xml
-reviewed: b263807def73003fafe666c3331ba2bc205f8369626bf8cd6dcbed220eda2cd7
+reviewed: ba7239a4cd7d346d53411d39bfe2a1839650e5b11a46299f5e52062088f32c44
 title: "ToEulerAnglesXYZ"
 kind: api
 owners: [Inno.Core.Mathematics]

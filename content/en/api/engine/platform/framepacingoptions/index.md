@@ -2,7 +2,7 @@
 uid: api.inno.platform.2ab34d297d9deb35
 symbol: "engine:Inno.Platform:T:Inno.Platform.FramePacingOptions"
 source: xml
-reviewed: 0fc777276183d9ec50d8d01611a5d5023ec0fcae8d3794457a58948ed6c6e084
+reviewed: 7e2e57a2020ce8d6b35ec525a0320d074801702d34f9a06f2c67440d60f37ee5
 title: "FramePacingOptions"
 kind: api
 owners: [Inno.Platform]

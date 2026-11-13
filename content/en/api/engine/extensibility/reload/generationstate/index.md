@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.reload.c8773da1e3bbf4ec
 symbol: "engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.GenerationState"
 source: xml
-reviewed: c11e7a2db1684c441ca8784599b16dce7a21e3db637c6e9049fa9f3c6cb11b1b
+reviewed: 66efb6cb9a4a3a768463a3753f393dcb264006ee98ddd4eede0f4113f9a58326
 title: "GenerationState"
 kind: api
 owners: [Inno.Extensibility.Reload]

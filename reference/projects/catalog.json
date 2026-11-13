@@ -382,234 +382,182 @@
     "name": "InnoEngine.Build",
     "path": "entry/InnoEngine.Build/InnoEngine.Build.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "InnoEngine.Editor",
     "path": "entry/InnoEngine.Editor/InnoEngine.Editor.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.BrowserWasm32",
     "path": "platforms/BrowserWasm32/build/Inno.Build.BrowserWasm32/Inno.Build.BrowserWasm32.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
     "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx.Runtime/Inno.Integration.BrowserWasm32.Bgfx.Runtime.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.BrowserWasm32.Bgfx",
     "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx/Inno.Integration.BrowserWasm32.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.BrowserWasm32.Build",
     "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Build/Inno.Integration.BrowserWasm32.Build.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.BrowserWasm32.Sdl3",
     "path": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Sdl3/Inno.Integration.BrowserWasm32.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Player.BrowserWasm32",
     "path": "platforms/BrowserWasm32/player/Inno.Player.BrowserWasm32/Inno.Player.BrowserWasm32.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Storage.BrowserWasm32",
     "path": "platforms/BrowserWasm32/runtime/Inno.Adapter.Storage.BrowserWasm32/Inno.Adapter.Storage.BrowserWasm32.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.MacOSArm64",
     "path": "platforms/MacOSArm64/build/Inno.Build.MacOSArm64/Inno.Build.MacOSArm64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Editor.MacOSArm64",
     "path": "platforms/MacOSArm64/editor/Inno.Editor.MacOSArm64/Inno.Editor.MacOSArm64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
     "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx.Runtime/Inno.Integration.MacOSArm64.Bgfx.Runtime.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.MacOSArm64.Bgfx",
     "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx/Inno.Integration.MacOSArm64.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.MacOSArm64.Build",
     "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Build/Inno.Integration.MacOSArm64.Build.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.MacOSArm64.Sdl3",
     "path": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Sdl3/Inno.Integration.MacOSArm64.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Player.MacOSArm64",
     "path": "platforms/MacOSArm64/player/Inno.Player.MacOSArm64/Inno.Player.MacOSArm64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Platform.MacOSArm64",
     "path": "platforms/MacOSArm64/runtime/Inno.Platform.MacOSArm64/Inno.Platform.MacOSArm64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.Windows.Host",
     "path": "platforms/Windows/build/Inno.Build.Windows.Host/Inno.Build.Windows.Host.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.WindowsX64",
     "path": "platforms/WindowsX64/build/Inno.Build.WindowsX64/Inno.Build.WindowsX64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Editor.WindowsX64",
     "path": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/Inno.Editor.WindowsX64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.WindowsX64.Bgfx.Runtime",
     "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx.Runtime/Inno.Integration.WindowsX64.Bgfx.Runtime.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.WindowsX64.Bgfx",
     "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx/Inno.Integration.WindowsX64.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.WindowsX64.Build",
     "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Build/Inno.Integration.WindowsX64.Build.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Integration.WindowsX64.Sdl3",
     "path": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Sdl3/Inno.Integration.WindowsX64.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Player.WindowsX64",
     "path": "platforms/WindowsX64/player/Inno.Player.WindowsX64/Inno.Player.WindowsX64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Platform.WindowsX64",
     "path": "platforms/WindowsX64/runtime/Inno.Platform.WindowsX64/Inno.Platform.WindowsX64.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -734,9 +682,9 @@
     "path": "src/composition/editor/contracts/Inno.Editor.Annotations/Inno.Editor.Annotations.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1058,9 +1006,9 @@
     "path": "src/content/animation/Inno.Animation/Inno.Animation.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1079,9 +1027,9 @@
     "path": "src/content/assets/Inno.Assets/Inno.Assets.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1099,9 +1047,9 @@
     "path": "src/content/references/Inno.References/Inno.References.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1119,9 +1067,9 @@
     "path": "src/content/scene/Inno.Scene/Inno.Scene.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1148,9 +1096,9 @@
     "path": "src/foundation/core/Inno.Core.Diagnostics/Inno.Core.Diagnostics.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1159,9 +1107,9 @@
     "path": "src/foundation/core/Inno.Core.Events/Inno.Core.Events.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1179,9 +1127,9 @@
     "path": "src/foundation/core/Inno.Core.Graphs/Inno.Core.Graphs.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1199,9 +1147,9 @@
     "path": "src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1210,9 +1158,9 @@
     "path": "src/foundation/core/Inno.Core.Input/Inno.Core.Input.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1239,9 +1187,9 @@
     "path": "src/foundation/core/Inno.Core.Logging/Inno.Core.Logging.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1250,9 +1198,9 @@
     "path": "src/foundation/core/Inno.Core.Mathematics/Inno.Core.Mathematics.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1281,9 +1229,9 @@
     "path": "src/foundation/core/Inno.Core.Settings/Inno.Core.Settings.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1319,9 +1267,9 @@
     "path": "src/foundation/extensibility/Inno.Extensibility.Types/Inno.Extensibility.Types.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1348,9 +1296,9 @@
     "path": "src/runtime/engine/Inno.Runtime/Inno.Runtime.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1422,9 +1370,9 @@
     "path": "src/services/audio/Inno.Audio/Inno.Audio.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1442,9 +1390,9 @@
     "path": "src/services/input/Inno.Input/Inno.Input.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1472,9 +1420,9 @@
     "path": "src/services/rendering/Inno.Rendering.Assets/Inno.Rendering.Assets.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1483,9 +1431,9 @@
     "path": "src/services/rendering/Inno.Rendering.Runtime/Inno.Rendering.Runtime.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1504,9 +1452,9 @@
     "path": "src/services/rendering/Inno.Rendering/Inno.Rendering.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1524,9 +1472,9 @@
     "path": "src/services/storage/Inno.Storage/Inno.Storage.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1553,9 +1501,9 @@
     "path": "src/services/text/Inno.Text/Inno.Text.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -1582,9 +1530,9 @@
     "path": "src/services/ui/Inno.UI/Inno.UI.csproj",
     "entry": null,
     "surfaces": [
-      "editor-script",
       "runtime-script",
-      "source-clr"
+      "source-clr",
+      "editor-script"
     ],
     "isTest": false
   },
@@ -2089,27 +2037,21 @@
     "name": "Inno.Tooling.Architecture",
     "path": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Tooling.Documentation",
     "path": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Tooling.Validation",
     "path": "tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   }
 ]

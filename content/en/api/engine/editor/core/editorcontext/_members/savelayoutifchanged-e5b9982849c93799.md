@@ -2,7 +2,7 @@
 uid: api.e5b9982849c9379944dec9f2c72d0a7b4bbebdec28542f1988ab253c3f091a0f
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.SaveLayoutIfChanged"
 source: xml
-reviewed: 14e528b22c24d4ebfdcd020479d422949a13d918572758c421b17ba26128ef55
+reviewed: e8cf739a854223f3c718667c36b90931616a7939bbfc3f2450aae3f7a0897055
 title: "SaveLayoutIfChanged"
 kind: api
 owners: [Inno.Editor.Core]

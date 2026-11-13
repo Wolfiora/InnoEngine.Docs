@@ -2,7 +2,7 @@
 uid: api.c392bd4fd2e7f207ab619e27ddf12d4a981a8b4a281f3929b23a2fb08461d49d
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryTransaction.Rollback"
 source: xml
-reviewed: 48d5f7a8d2167d9e760fda0b19fdf20602ce5b63deed46bc56fb9994ac563119
+reviewed: 829cd99b6961d173e86bc98714d3f8e9ac2cd69f7f4390c763755af341e155a5
 title: "Rollback"
 kind: api
 owners: [Inno.Editor.Interactions]

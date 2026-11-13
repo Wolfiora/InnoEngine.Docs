@@ -2,7 +2,7 @@
 uid: api.5d014f30c3bb5d9735484c7349be5a376ab68e6d9491a68ab04be3abe218457a
 symbol: "engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.RestoreProperties(Inno.Scene.EngineObject,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Core.Serialization.SerializationPropertyRestoreMode)"
 source: xml
-reviewed: 8ec30df74107d7a1cb92c44f035ea906c1fbf1cc0201b97672b9c23e62f13875
+reviewed: 0ec68563d40b3e584c3e3bc183f052c93d70a6a97583a24796b27d4ed932f5ca
 title: "RestoreProperties"
 kind: api
 owners: [Inno.Scene]

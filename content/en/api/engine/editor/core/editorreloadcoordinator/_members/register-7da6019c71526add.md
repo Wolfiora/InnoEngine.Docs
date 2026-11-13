@@ -2,7 +2,7 @@
 uid: api.7da6019c71526add2037b605f8f729409e716777947d0d0cf443e9aa5eb22e13
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.Register(Inno.Editor.Core.IEditorReloadParticipant)"
 source: xml
-reviewed: d8409ba099aa9ae566827727286f9d7048ae1ec54389e01a5dd9a21de09e27ef
+reviewed: 66fa18fcb80b36dad2490935058187f8669957e11b79ac0f0a112af077071289
 title: "Register"
 kind: api
 owners: [Inno.Editor.Core]

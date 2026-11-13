@@ -2,7 +2,7 @@
 uid: api.357ce9d0546a0706c2c20f144d63f35ae45bcf302823b6a75c9afe2b8a7d5489
 symbol: "engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.CaptureProperties(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
 source: xml
-reviewed: 8306cfbb4d0a79a7634fd53979e31f6371f2082520493904bf2a9dacec265d40
+reviewed: 31425b92588ae1bd09fb53a3f546924dc416cbf010e55af28222ed76430a768d
 title: "CaptureProperties"
 kind: api
 owners: [Inno.Scene]

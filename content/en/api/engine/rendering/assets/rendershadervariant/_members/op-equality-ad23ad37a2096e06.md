@@ -2,7 +2,7 @@
 uid: api.ad23ad37a2096e0635ca3e1f47867e45e77f7795bd76d5cd3e891adf745bf1b1
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.op_Equality(Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.Assets.RenderShaderVariant)"
 source: xml
-reviewed: 8d582bbd7d52636d9b0ea27c2fa2814527a20f43a479081525828bdbf1e18504
+reviewed: a0bd4769183d4b09db2ac23ea77d4764e8dae2a18c50cc2f999c098fa76572e4
 title: "op_Equality"
 kind: api
 owners: [Inno.Rendering.Assets]

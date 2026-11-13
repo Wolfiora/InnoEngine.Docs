@@ -2,7 +2,7 @@
 uid: api.595d12dac7da5e2b6970229271051869e39040a59b11c56321f13cf2a675d97a
 symbol: "engine:Inno.Build:M:Inno.Build.BuildProfileStore.Save(Inno.Build.BuildProfile)"
 source: xml
-reviewed: 0c9117a468cf9c48fefbaf7ca6da178993ae605358d546acadba04736ce1d6e4
+reviewed: 5c1e5526538598d9d364a6515c5c68501992eedab89441a8959e2534d0d2a7e5
 title: "Save"
 kind: api
 owners: [Inno.Build]

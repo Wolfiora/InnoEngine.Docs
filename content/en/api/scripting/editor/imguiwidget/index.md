@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.7b683e110163fdd5
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiWidget"
 source: xml
-reviewed: 2264806f48274ce16915f16d211cb87750f539061786f751e5a25f9258f987ea
+reviewed: 19859d2809a289ba6ec3e6acba1bfe2752b73d18f75136fa907a03ea62214f08
 title: "ImGuiWidget"
 kind: api
 owners: [Inno.Editor.ImGui]

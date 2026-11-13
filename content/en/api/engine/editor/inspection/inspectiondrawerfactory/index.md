@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.c40f722122401247
 symbol: "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawerFactory"
 source: xml
-reviewed: ce82ce20c02ce14cb33ececc6ed095557397dc366e3bbbb84180b5c34805d21b
+reviewed: 2762c94bc8dc0e44c4e9185e8c0e9c67c0b5d7a0ba933696b80d8fb4e232391c
 title: "InspectionDrawerFactory"
 kind: api
 owners: [Inno.Editor.Inspection]

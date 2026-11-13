@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.425e1bd0143d29e6
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetSampleImportTransaction"
 source: xml
-reviewed: 1f43d7da62e0340a528e499d0550ff3081220ca6aa9734cafc56c63c44cf5774
+reviewed: b7997683afd36ff7e70c2561d48eb7cff90205b7fcb6fa79e5c03c9863d32a58
 title: "AssetSampleImportTransaction"
 kind: api
 owners: [Inno.Assets.Pipeline]

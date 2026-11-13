@@ -2,7 +2,7 @@
 uid: api.inno.rendering.7cc0f9f5feada87f
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.GraphicsCapability"
 source: xml
-reviewed: 81988c28a1acc723588baa53440dd5de97fa612e99d7d82fe3ffa3b73d6fc649
+reviewed: fbaf5d7be6a47ac0c7a9e85bfb536faf40719190a1e2d144860f87c370d7144d
 title: "GraphicsCapability"
 kind: api
 owners: [Inno.Rendering]

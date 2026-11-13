@@ -2,7 +2,7 @@
 uid: api.aa8476f405f1338bf8f342c7fcbabc07cda42368da2ae2e5e8622ec9f81199e4
 symbol: "engine:Inno.Engine.Default:P:Inno.Engine.Default.EngineSessionComposition.artifacts"
 source: xml
-reviewed: 81e01b0680ae8c8bda4057e9ea6af678a53c7452d769debbbecb54ba743b78e4
+reviewed: f0ca2abed3902e6ccd6d1c6bb11c4abf1ce6a26f274064b3bf7458ab87198159
 title: "artifacts"
 kind: api
 owners: [Inno.Engine.Default]

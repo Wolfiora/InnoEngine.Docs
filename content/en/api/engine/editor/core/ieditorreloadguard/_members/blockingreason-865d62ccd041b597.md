@@ -2,7 +2,7 @@
 uid: api.865d62ccd041b597093092b40e2b4d0c3a9f059332559f1a71c54f5873c87be8
 symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.IEditorReloadGuard.blockingReason"
 source: xml
-reviewed: 33c44b4f12616ae41bf98332f53d9d4bf3618373868dd9e90eb1c61ce0468aef
+reviewed: b17766441e05a70e8121220e2d522ee0c88a4e7368b72578ca590ae1ccff0f63
 title: "blockingReason"
 kind: api
 owners: [Inno.Editor.Core]

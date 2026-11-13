@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.92a10960a7d05e37
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderUniformType"
 source: xml
-reviewed: 539e6d3a94398d7934f4c7c2998b3d720c1bd9ea3d6da3398ce67e026a4c3428
+reviewed: 86f7fa47403ed3c905a0348ab9b14de1bce2fe16bc966c5b8a009349ca724e97
 title: "RenderUniformType"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.aa53f55ace7e478e94ec1cdd099548ee3223b3176776e644d13798716ecf55d8
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.RetireMetadataUnderOwnership(System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: 8ce1c085edc9d3a6b149be8bfd2b6026dd02d837760f620face3ebc705e1b5dd
+reviewed: 8fac78e28a13e6f6cc2e04fe40366189536fc8afb3da872b4e707ec1ce898b5f
 title: "RetireMetadataUnderOwnership"
 kind: api
 owners: [Inno.Core.IO]

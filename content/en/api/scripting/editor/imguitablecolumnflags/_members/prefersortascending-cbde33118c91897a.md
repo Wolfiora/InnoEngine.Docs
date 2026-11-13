@@ -2,7 +2,7 @@
 uid: api.cbde33118c91897a30bfb45d737025ffd1d60e9fd643445c217f97cf18530268
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.PreferSortAscending"
 source: xml
-reviewed: 4ce2578dbe8e0b661e7ee1d6e313988d358a9bcdde4f5e4f82cacfa57495f7f7
+reviewed: 0f5f0cdb9a0ef340c5546085dbfb293cd8f84bf55217bdd1573cc4a96e83b126
 title: "PreferSortAscending"
 kind: api
 owners: [Inno.Editor.ImGui]

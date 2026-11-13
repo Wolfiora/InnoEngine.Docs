@@ -2,7 +2,7 @@
 uid: api.d908f524ac6566cc5638aa63a9d4eefe976ab178b4c0774d2a2084e587e6f380
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.Record(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: 58fb893c58f0e4d7592d9792b217c56beda87d2463f47514540d91e544e14654
+reviewed: 752c6380dc29ad26bdf1f93df4918af6c11f830dcced648193ace8f786331b75
 title: "Record"
 kind: api
 owners: [Inno.Build.Toolchains]

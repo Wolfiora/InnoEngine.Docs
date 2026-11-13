@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.runtime-script.e31c97eddecda6a4
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingComposer\u00602"
 source: xml
-reviewed: bca96b4761fe4b00eb6c3e45f6c998345b0e33d5566847e783a96caf0ad278cb
+reviewed: 0f1552eea9337705c9be1a9112a6a39b6dbc95b965a1640bffb93e99fe541072
 title: "ProjectSettingComposer"
 kind: api
 owners: [Inno.Core.Settings]

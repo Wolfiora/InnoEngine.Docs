@@ -2,7 +2,7 @@
 uid: api.894ee9d58f7e04963f9e128f44bce573a062f9b0023c23fb4d58c7279aaee7c4
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispose"
 source: xml
-reviewed: aa3692cc4177aafb8b447ab4cfd46e4728d7a1ea6608571beb1d1972f9cd6dcf
+reviewed: 4ec914334b1cf1c91d50327b5945a1c477739dc759af8e254d79fb89bf9c58d4
 title: "Dispose"
 kind: api
 owners: [Inno.Core.Logging]

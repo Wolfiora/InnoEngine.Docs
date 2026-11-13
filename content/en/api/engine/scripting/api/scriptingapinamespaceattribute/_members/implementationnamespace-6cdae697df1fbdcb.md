@@ -2,7 +2,7 @@
 uid: api.6cdae697df1fbdcb81ab9a2695e3d394950c797ad2c776aa9f0da4d623176723
 symbol: "engine:Inno.Scripting.Api:P:Inno.Scripting.Api.ScriptingApiNamespaceAttribute.implementationNamespace"
 source: xml
-reviewed: 1e79c760e281511ee9f5fd543231e0b6f85bd872d98e810810cbe45d0240e55e
+reviewed: f8d3b751151d207d66a8250e629fdc20a868927a0dc89b65160ff9d20b3010f5
 title: "implementationNamespace"
 kind: api
 owners: [Inno.Scripting.Api]

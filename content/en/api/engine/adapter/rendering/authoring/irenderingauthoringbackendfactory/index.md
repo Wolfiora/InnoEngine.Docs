@@ -2,7 +2,7 @@
 uid: api.inno.adapter.rendering.authoring.c6890c348cd49894
 symbol: "engine:Inno.Adapter.Rendering.Authoring:T:Inno.Adapter.Rendering.IRenderingAuthoringBackendFactory"
 source: xml
-reviewed: 0c0e2ec5a917ef88fe3113c5f4e040486e03fc6ee7c2959efc124f4f047f42ee
+reviewed: 478daaf2299988897576a6caf963607a7c53cf98e6ff3b14f0eeb9028280e3cd
 title: "IRenderingAuthoringBackendFactory"
 kind: api
 owners: [Inno.Adapter.Rendering.Authoring]

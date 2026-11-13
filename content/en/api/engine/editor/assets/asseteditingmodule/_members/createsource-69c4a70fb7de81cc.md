@@ -2,7 +2,7 @@
 uid: api.69c4a70fb7de81cce74f2f2a25998e63e58a236310d5f834c19e04553f8cb692
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CreateSource(Inno.Assets.AssetPath,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: d24402a0d0ee2dd734fe6c55ffb8040d4dfc4c1cce5f3083322809444f46ee39
+reviewed: 0363ffa65e29b7af73851a3307d8e3d5acfeab9c96a188f00cd2025fc442b786
 title: "CreateSource"
 kind: api
 owners: [Inno.Editor.Assets]

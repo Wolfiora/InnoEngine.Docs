@@ -2,7 +2,7 @@
 uid: api.32d6d7b18aba64a8fc6a9b63fd3e62547947fff21f469cf2119b3f8e440e34b0
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorPalette.WithOpacity(System.Numerics.Vector4,System.Single)"
 source: xml
-reviewed: 66c834034eb5b7f0dd6e5d7035208fdf9fc9cfa0d403bcee78ee9ca7e060a909
+reviewed: de0af5f1a6b2cb81f5a49f26c4be55cca7b42b03b3736844013373b882f09eb1
 title: "WithOpacity"
 kind: api
 owners: [Inno.Editor.ImGui]

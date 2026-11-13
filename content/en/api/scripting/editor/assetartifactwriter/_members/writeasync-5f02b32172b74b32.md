@@ -2,7 +2,7 @@
 uid: api.5f02b32172b74b32b37d07c8e69349908daac928b7a5a9b075b441cdab69e049
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetArtifactWriter.WriteAsync(System.String,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken,InnoEditor.Assets.AssetDeploymentScope)"
 source: xml
-reviewed: f9b5afd982f30871f1ea6e549d70966b72bfab59eddf90b81047847ff55aad9c
+reviewed: 84484bedd285a04845280193bed612331c0b36fe1159fe014df120695fe0794e
 title: "WriteAsync"
 kind: api
 owners: [Inno.Assets.Pipeline]

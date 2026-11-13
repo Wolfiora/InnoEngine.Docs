@@ -2,7 +2,7 @@
 uid: api.3c837bd9c57d1a76576632e64e4ec40fe08800712997d402cf6d173d8135fccf
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CanCreateAsset(System.String,System.String)"
 source: xml
-reviewed: acbdc20d676c8fa3f3a3afe4f42bcbbb44f1938e3e5247ab76f4dc19cc81e08e
+reviewed: 1d1c555495c73333e839a5789c674c18c35f1a182b9783cb705fb63d64b0cf0b
 title: "CanCreateAsset"
 kind: api
 owners: [Inno.Editor.Assets]

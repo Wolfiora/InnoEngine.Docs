@@ -2,7 +2,7 @@
 uid: api.6cbf4413c2413c15c2013ca468965dfd669bf9037a5e87879f313a80b843d6d7
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndCombo"
 source: xml
-reviewed: dad7427f6b6e889c26f3dd914c30a2c286889025392e58b6d4c062f97283edf5
+reviewed: 1c38c5121c57bf60f9c43f502fc86c2078582dd80a5f5eea7dde5f08a81109ae
 title: "EndCombo"
 kind: api
 owners: [Inno.Editor.ImGui]

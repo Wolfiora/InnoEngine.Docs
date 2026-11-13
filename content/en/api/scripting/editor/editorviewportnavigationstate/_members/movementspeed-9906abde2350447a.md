@@ -2,7 +2,7 @@
 uid: api.9906abde2350447ab2c59d90d2fc2b7c5552416c18316be6a52faed40c487c67
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationState.movementSpeed"
 source: xml
-reviewed: 506d6498aebe912d3c5a3bffd053a4fd79073e78ca878e7ae8d022e73eec8be7
+reviewed: 90a9cdeccd8936e70e535c35b02323ef0aa57a79b5485af272423d05ae994aa9
 title: "movementSpeed"
 kind: api
 owners: [Inno.Editor.Rendering]

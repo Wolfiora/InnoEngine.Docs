@@ -2,7 +2,7 @@
 uid: api.2d4079b644baf2273163fc45cd4b75ac83b6d5f1638614461bbce45c4dfdd09e
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Barycentric(System.Single,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 9040aee914746ac290247e37c697dbce692cfa45d4989b3babf04480273e8149
+reviewed: 1c50a27219215dce37ddf2824f4e157eada3aac1eb0681ad37f657f032f1f922
 title: "Barycentric"
 kind: api
 owners: [Inno.Core.Mathematics]

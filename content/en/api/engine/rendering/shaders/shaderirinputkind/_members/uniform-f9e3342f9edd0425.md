@@ -2,7 +2,7 @@
 uid: api.f9e3342f9edd04259239943a8f22223878cfc45631ff6e2bec7f301f693de7c5
 symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrInputKind.Uniform"
 source: xml
-reviewed: 4d2cae4c61dec9db2e2fddac4f88e86cf9d9b5385a74cd8b56861d4372348140
+reviewed: e41571d71f6706aa2bd16efa8807d4fb17c3abc0b7b3fc34c263711f1c7a98ed
 title: "Uniform"
 kind: api
 owners: [Inno.Rendering.Shaders]

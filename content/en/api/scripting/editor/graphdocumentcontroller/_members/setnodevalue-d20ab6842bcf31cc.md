@@ -2,7 +2,7 @@
 uid: api.d20ab6842bcf31cc124b2973a1cbfe771f2caddcf42137c0b78b5ad48d8cd3cf
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphDocumentController.SetNodeValue(InnoEngine.Graphs.GraphNodeId,System.String,InnoEngine.Graphs.GraphSerializedValue,System.String)"
 source: xml
-reviewed: 9ec1e46c1f435b2059adf39cd5822c12803cd8bc04b8dcd7fd00ff474fe11fe0
+reviewed: 397ebb53afa60093e480c5cd0e0b6c695d119cb98da0f9e614cbc8ff488c1427
 title: "SetNodeValue"
 kind: api
 owners: [Inno.Editor.Graph]

@@ -2,7 +2,7 @@
 uid: api.3faa61aadf06d98b9b3a94f6363894325e29a0684e803dbcff5f7fe1a7bbbe80
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneContentSource.CreateScope(Inno.Scene.SceneWorld)"
 source: xml
-reviewed: a41bb1c7dc2b0bd9178545e7e9f3d2a89c6fed26d64c33a6d01ba61ec191ca08
+reviewed: 50ec42d1b0825894e021478ec85d321c94010b9410ea182859292b3f62dd4e40
 title: "CreateScope"
 kind: api
 owners: [Inno.Scene]

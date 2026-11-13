@@ -2,7 +2,7 @@
 uid: api.68bed4d2eeabbc22f85fa0009ffe3fe3fe45f877cd36a9ab572a6fc6f6630ac2
 symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemDescriptor.#ctor(Inno.Runtime.Contracts.RuntimeSubsystemId,System.Int32,System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeSubsystemId},Inno.Runtime.Contracts.RuntimeSubsystemLifetime,Inno.Runtime.Contracts.RuntimeSubsystemRequirement,System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeCapabilityId})"
 source: xml
-reviewed: 7fce6940a840cf48d02ebd3c2c56ecdf6eacf99cfbf64ab2bb68df14fa34c111
+reviewed: 6e308ac0d2e7eccfb646fa9e4b0da0d3038145bd02adf63ee17608034ad406a2
 title: "Constructor"
 kind: api
 owners: [Inno.Runtime.Contracts]

@@ -2,7 +2,7 @@
 uid: api.92922af1fab5121aa9196209d0259316803f1a03f5eee85d2d8b0f6204981733
 symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.op_Equality(Inno.Core.Diagnostics.DiagnosticSource,Inno.Core.Diagnostics.DiagnosticSource)"
 source: xml
-reviewed: f38a360ca4a8e641e5f7c72d3fcad87fed429b71ef4ca7196357c4776e93f325
+reviewed: 9e70a39746de5fc8d5849c19892f4ff396db33c8836df381cf9d87e947aa5817
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Diagnostics]

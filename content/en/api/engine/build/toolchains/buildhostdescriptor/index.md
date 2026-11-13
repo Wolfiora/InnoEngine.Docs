@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.09542b31f728b4f2
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildHostDescriptor"
 source: xml
-reviewed: d645cda8a19cebbc11cfc4d4110dc8f56a3d42af3c0e3f4e7b2c89e09c43ca83
+reviewed: 04a99bf362a5b3c43f8c16cf2e5959965fbc294b157144c2861cf9542f4b97be
 title: "BuildHostDescriptor"
 kind: api
 owners: [Inno.Build.Toolchains]

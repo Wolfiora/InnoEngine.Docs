@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.bb29963e7b7b9871
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetImportSettingsEdits"
 source: xml
-reviewed: 80fce6ac6a0c183298ebb3ac4dbf00bfc522dc78b6a0ac6b759cdaee636ccab0
+reviewed: a36636eece23007fa95f12cc9c43504579f10358228ebe583197bb24c8a66c31
 title: "AssetImportSettingsEdits"
 kind: api
 owners: [Inno.Editor.Assets]

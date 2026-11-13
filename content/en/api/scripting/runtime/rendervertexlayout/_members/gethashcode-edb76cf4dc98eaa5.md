@@ -2,7 +2,7 @@
 uid: api.edb76cf4dc98eaa57418ec49b4eb6150c5359c6428117d68dc8a2c7c0d6ed6a9
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.GetHashCode"
 source: xml
-reviewed: 8a4841a042d5cce16f533649a1a3983d09c605abbe83f00f7ae6f18da2bc1144
+reviewed: fc9de868137ca93a81449b89ffbfd8e4517e189bbca1f3ca3f8707749e08f086
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering]

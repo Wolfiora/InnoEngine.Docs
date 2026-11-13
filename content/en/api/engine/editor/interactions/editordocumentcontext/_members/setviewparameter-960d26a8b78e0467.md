@@ -2,7 +2,7 @@
 uid: api.960d26a8b78e046709d0c7c681e5569c1fce198ee86429379977bec4667042ea
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentContext.SetViewParameter(System.String,System.String)"
 source: xml
-reviewed: f05d72100397649fa3a6b75019a2db70a254548e91ce1517d7ad71cba4d6b703
+reviewed: 30bfce8b8c62eff563679a9c19d32407f45d6f9aaf9e2ad33fe0682c8c1e3cb6
 title: "SetViewParameter"
 kind: api
 owners: [Inno.Editor.Interactions]

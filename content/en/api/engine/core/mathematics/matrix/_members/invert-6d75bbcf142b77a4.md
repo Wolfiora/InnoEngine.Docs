@@ -2,7 +2,7 @@
 uid: api.6d75bbcf142b77a4b156116764daf5d0f0a73bc73d5ee94fe8b6b6fdbb9046d2
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.Invert(Inno.Core.Mathematics.Matrix)"
 source: xml
-reviewed: 7a7b4e2b0704521d554b27fc7cd928d8d74f30a138f85ac113b0b3cd24d04e8e
+reviewed: 1a740224da96f0637cdfefe0f929219ebc5de10738589d7f93f31df32bcc0e06
 title: "Invert"
 kind: api
 owners: [Inno.Core.Mathematics]

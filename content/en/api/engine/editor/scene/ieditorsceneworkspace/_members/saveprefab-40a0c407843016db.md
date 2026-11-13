@@ -2,7 +2,7 @@
 uid: api.40a0c407843016db1d3162ea07e4a6b8e7437bb6c70fea1a2d19fe68b37bb00c
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.SavePrefab(Inno.Scene.GameObject,System.String)"
 source: xml
-reviewed: e4db116fa0cd03d7a075e5b1c83fe0940ffbc1af5c86b4ead18188ae3acf8bf0
+reviewed: 1dd99bbd8f8ef9c8429037068c8a6df714256cc5d7e8b84f4169bd1662adc96a
 title: "SavePrefab"
 kind: api
 owners: [Inno.Editor.Scene]

@@ -2,7 +2,7 @@
 uid: api.6fee5299846dba72edd3592b58e69c56d8d61fb9049329cc442f4824b60d05d9
 symbol: "engine:Inno.Build.Tasks:M:Inno.Build.Tasks.GenerateBindingsTask.Cancel"
 source: xml
-reviewed: aeba5d1bddd3aef78efe69ed3d3a0723da2a89bd59adc848a2954dae3e6302fb
+reviewed: 9ec10b2515d4018cdea933bcf7a4bd7b4cbb95f33697bf6134433531f0f4e363
 title: "Cancel"
 kind: api
 owners: [Inno.Build.Tasks]

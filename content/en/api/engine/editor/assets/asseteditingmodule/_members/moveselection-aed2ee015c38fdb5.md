@@ -2,7 +2,7 @@
 uid: api.aed2ee015c38fdb59062778d851f1b362d4c33e70f4f2f596fe9a50a87b200fc
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.MoveSelection(System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry},System.String)"
 source: xml
-reviewed: 56712e529d9fb62411feec19dc678506b72c5558c00383698a33ea01feb1ca72
+reviewed: f81be52d1304dcb829efac8bd266ea5771a67a2625314df3efb765e27e0d707b
 title: "MoveSelection"
 kind: api
 owners: [Inno.Editor.Assets]

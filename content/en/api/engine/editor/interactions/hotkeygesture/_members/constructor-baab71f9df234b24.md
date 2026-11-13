@@ -2,7 +2,7 @@
 uid: api.baab71f9df234b244f42de9739ad16532b465f9b142519e0f9ae58eeddb9ba50
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.HotKeyGesture.#ctor(Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier,System.String)"
 source: xml
-reviewed: f4b8b6139087a5251e5e5b9b98f0559d374c9fb45647effadfa4f0f405124300
+reviewed: fc6d2f5eeccaf23a29d1f2be8dd4e355195f46745abd68fc485d391721194187
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

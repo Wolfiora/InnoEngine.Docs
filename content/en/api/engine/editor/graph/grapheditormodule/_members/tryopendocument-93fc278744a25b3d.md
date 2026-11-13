@@ -2,7 +2,7 @@
 uid: api.93fc278744a25b3df475ba8b0d93fff8b0ccb698fe712bd43f9864ffde508aba
 symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.TryOpenDocument(System.Guid,Inno.Editor.Interactions.IEditorHistory,Inno.Editor.Graph.GraphDocumentController@)"
 source: xml
-reviewed: 72e1abf5a046bbdf4d60aa089b33fc1d2c08332b24d63bce91b1b5b0e500d839
+reviewed: a1c9818d215ebfbd8e5229f3dc616045aeb85893d52964f7d5ac60861a6d56e7
 title: "TryOpenDocument"
 kind: api
 owners: [Inno.Editor.Graph]

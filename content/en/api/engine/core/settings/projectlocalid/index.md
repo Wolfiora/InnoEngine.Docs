@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.9c34f18e543c590b
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectLocalId"
 source: xml
-reviewed: 815d0b5877129f273729b1b5282aa03b26f86e99008e9fad4dc5038f08537997
+reviewed: 6b60879ae785590940874819f96c2176f82cedc984e8e15c320e95ee2010dd77
 title: "ProjectLocalId"
 kind: api
 owners: [Inno.Core.Settings]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.876bb82bc7aa2b55
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderConstantNodeCompiler"
 source: xml
-reviewed: 8c9427802088a902b49fe2a329f74ffbdca5d20962d40a8ce8379539653e4aa9
+reviewed: 8a01974ab1935b05ebd51dddbb5d92f9856362b49bb1a6bd02a321eb97045783
 title: "ShaderConstantNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

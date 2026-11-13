@@ -2,7 +2,7 @@
 uid: api.2a288fec28393e27f0833701944b01181140b6713355c74ba6fed369bafdc97b
 symbol: "engine:Inno.Assets:P:Inno.Assets.AssetArtifactInfo.outputName"
 source: xml
-reviewed: 38ebda02370fc4df4c0c443d803af8fdef649b081dd9150f77e83bf76cda165b
+reviewed: 2748b5604e383beaea59b8d5455e5548f6473fd4eb3217401b68b80f1ed9d3df
 title: "outputName"
 kind: api
 owners: [Inno.Assets]

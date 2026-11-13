@@ -2,7 +2,7 @@
 uid: api.bf03a2a86541dfdb237876f633d4fb0a071043d7147f40ea4c65f8caf65ea486
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.BuildCacheArtifactDescriptor.lastUseUtc"
 source: xml
-reviewed: 7acbfecfbc325c4f5dba070f041961cc1f60107b16b282eae3982c3ee848e00d
+reviewed: cab9d55c542af1a11f0ee4c22f4247ef6933a8367ee3b02b7052ed6a04dbde08
 title: "lastUseUtc"
 kind: api
 owners: [Inno.Build.Toolchains]

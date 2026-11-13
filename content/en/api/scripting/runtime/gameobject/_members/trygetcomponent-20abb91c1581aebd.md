@@ -2,7 +2,7 @@
 uid: api.20abb91c1581aebd05d6916cbf954d886da1c61d6dada2ef8979995ca99afc8e
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.TryGetComponent\u0060\u00601(\u0060\u00600@)"
 source: xml
-reviewed: 924de4245fa5b6e89d8d72f5712843a60d55b175f69399c7781fc5b2f0a053c1
+reviewed: 646394863c780a52791dc6011b419c7e2501ce96073fa080d98955640a73504f
 title: "TryGetComponent"
 kind: api
 owners: [Inno.Scene]

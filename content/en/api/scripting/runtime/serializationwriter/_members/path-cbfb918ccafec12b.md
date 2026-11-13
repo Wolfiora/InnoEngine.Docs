@@ -2,7 +2,7 @@
 uid: api.cbfb918ccafec12b324555a9af1411632dbaf3b0ed28f1453aa0b79d67343b48
 symbol: "scripting:Inno.Core.Serialization:P:InnoEngine.Serialization.SerializationWriter.path"
 source: xml
-reviewed: be4fbf4e0b514e90f415448deb69fd603865675d58f59de036e2c6c89e6052d7
+reviewed: 3fea21299240e55541293797cb2bfaf4b3b9b6b7b3da44db71fd75485eb3ca35
 title: "path"
 kind: api
 owners: [Inno.Core.Serialization]

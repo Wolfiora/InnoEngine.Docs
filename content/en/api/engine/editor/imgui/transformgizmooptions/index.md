@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.b79faec3a1d18f6e
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoOptions"
 source: xml
-reviewed: acb4943275dafef252133d8e31ea645950110ee8139fb432c743f19d713dd3e4
+reviewed: 4631a13820d1a06f7a0eff497f25bd7adb787c867e7e7a8593eb34e69509b4f1
 title: "TransformGizmoOptions"
 kind: api
 owners: [Inno.Editor.ImGui]

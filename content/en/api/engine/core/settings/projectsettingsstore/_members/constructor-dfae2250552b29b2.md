@@ -2,7 +2,7 @@
 uid: api.dfae2250552b29b2f664a906b5fc820946ae9cf9ef5d3b2fba4ea8cec7db195b
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.#ctor(Inno.Core.IO.IByteDocumentStore,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Settings.ProjectId,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 93f8b71a8f1156fa7a4bc28edd10b74f7b0e10dda5abb1affdaa561578901d58
+reviewed: b9b6406a8e5a5c38875b358061347d93621ff74607135c0f694d045544dab917
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Settings]

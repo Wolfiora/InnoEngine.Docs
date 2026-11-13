@@ -2,7 +2,7 @@
 uid: api.4ffd310667fd3eaf73f23624b3430345978240614ac483a3b8e021bc8a788afc
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphTemplateInfo.Equals(Inno.Rendering.Shaders.ShaderGraphTemplateInfo)"
 source: xml
-reviewed: 4008b2ae48c80161a93513d5e5881467c3835883807557bf6afa4073cddaf80c
+reviewed: b10ce48ab13d2b4a4548ae2d2091760c704708817128f5f2648960571a5800a1
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Shaders]

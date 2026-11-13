@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.d719cc7a342037f3
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropStatus"
 source: xml
-reviewed: 852c5d992492afcce98dbd66a52373195d99f616dcf931031c1ace33eb5f41ea
+reviewed: fd641f42c3db6be89b39936913b04d1d90f1b1f8155ee01f6fe911f5c4e89f40
 title: "EditorDropStatus"
 kind: api
 owners: [Inno.Editor.Interactions]

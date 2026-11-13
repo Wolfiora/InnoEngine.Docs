@@ -2,7 +2,7 @@
 uid: api.92ccb3ee320da6804da3c31b4028adc28f847652705bdb94bbbeeb2e3f1817cb
 symbol: "engine:Inno.Text:M:Inno.Text.GlyphBitmap.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Single,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: 1b0bcd30f9c3415fa1885e440365f35fd19634dd801de339a0e563314a09064e
+reviewed: d99ce22923bba9e0f9cbedf1a624cce8c70e4d3857158d493feb5ccb9635baea
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

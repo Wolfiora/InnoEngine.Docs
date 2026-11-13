@@ -2,7 +2,7 @@
 uid: api.a232ef4614acd93fb9dae6d9987cde98a067deab773899a147d657addd3722f7
 symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderTextureArtifactSlot.Equals(System.Object)"
 source: xml
-reviewed: a11159f8b080afe4a3fdfb1e466e3bfc2cfd0673c0510140af1dc25416f14464
+reviewed: 1a59a897e49935e2e151e5a779cb978d1ece7745926b087b3d5856a9a320a8dd
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Assets]

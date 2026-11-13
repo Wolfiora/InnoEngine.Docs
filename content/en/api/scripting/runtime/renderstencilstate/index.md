@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.a4162613f7605e31
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStencilState"
 source: xml
-reviewed: ceeb5faf47b31a85f614e86c513dbc5d85680af4950d0ed1fc19dab8c3ee4d5a
+reviewed: 047c2e0ee852cf5ebd280212a7975c4faa3e4a5866fddfdd7f2bb2eb3001b8e7
 title: "RenderStencilState"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.4c6b41a322f9d891
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderSamplerState"
 source: xml
-reviewed: 11b8a67575d7601a045b6246b1c7599f2705701f8e8e9ba1949c9c5f37d3663d
+reviewed: 8333311f72c80856ba697dc9ce1a2533757971668477de0e6866a0f596129781
 title: "RenderSamplerState"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.3d38aa490696e4d1
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.IEditorReloadGuard"
 source: xml
-reviewed: 8d417a2e75f272e2d9cb3b84e7c592874ca5595a827a3f33ccc831f2b24637ef
+reviewed: 96c0aad8ad4dbebafbb03cb914ae8f7cbf4c02f1b0d2001eb380994d3b7a7304
 title: "IEditorReloadGuard"
 kind: api
 owners: [Inno.Editor.Core]

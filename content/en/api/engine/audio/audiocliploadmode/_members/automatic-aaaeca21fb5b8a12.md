@@ -2,7 +2,7 @@
 uid: api.aaaeca21fb5b8a12addaad29e3e7a05b92262e0c1bcc9414572349edb3ab2807
 symbol: "engine:Inno.Audio:F:Inno.Audio.AudioClipLoadMode.Automatic"
 source: xml
-reviewed: 83fa92f8604282f79607f1c3bd7a7fde950ae8b7286b3a6ed5548fcf0a35b050
+reviewed: a4f4e47df9fbab32a3c31ca4f31ec9926cd6ccb4025f105805e4bfa33c1aef35
 title: "Automatic"
 kind: api
 owners: [Inno.Audio]

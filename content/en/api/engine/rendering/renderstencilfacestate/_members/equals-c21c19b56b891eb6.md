@@ -2,7 +2,7 @@
 uid: api.c21c19b56b891eb6d84e68159fe18c5bc4d6241854b9fd0e9977dc23653694b9
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderStencilFaceState.Equals(Inno.Rendering.RenderStencilFaceState)"
 source: xml
-reviewed: 08ac520e95ffe265605bc3e886c36147903db9d5f56c4993cd250cd0c0dc2869
+reviewed: 8d280571a5162206d3a0351500f55e810c5892ed7f3b1124f50216ece2b633b0
 title: "Equals"
 kind: api
 owners: [Inno.Rendering]

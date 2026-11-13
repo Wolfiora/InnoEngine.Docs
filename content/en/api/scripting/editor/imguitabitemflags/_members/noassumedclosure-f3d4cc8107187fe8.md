@@ -2,7 +2,7 @@
 uid: api.f3d4cc8107187fe8f1d0557a72dd7a2843e6955508fc66f24117170d3cb63b5f
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTabItemFlags.NoAssumedClosure"
 source: xml
-reviewed: b79b40b1e0847cfaf1c0b25f5c8cae6e041e1be7d4c7818fa5ff72c5c334ed3d
+reviewed: 4a2ee61b8501f59cc6a3b1342307207da9e0658d01cf9aa1b28408e78270b234
 title: "NoAssumedClosure"
 kind: api
 owners: [Inno.Editor.ImGui]

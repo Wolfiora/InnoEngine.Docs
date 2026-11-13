@@ -2,7 +2,7 @@
 uid: api.792854576d8a2bdd0e901d8606a4bf15e9ab87f9813d3ca69926d2acd95b93a1
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawContext.TryDrawInline(System.Object)"
 source: xml
-reviewed: 60b8a2a20a0c1c2e5694e1715ade871108d3efd6a14da482ccebae1dfe14b84a
+reviewed: 2b8a0fc9926c4e3374bb7bc7e3e0c7f8d16639427de00aee98b7fa4973d46148
 title: "TryDrawInline"
 kind: api
 owners: [Inno.Editor.Inspection]

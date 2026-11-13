@@ -2,7 +2,7 @@
 uid: api.ede5369538fb6921d8ef8988ea99d8c0a3d872a34561f63b35ee0ee91ec37503
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.op_Explicit(InnoEngine.Mathematics.Vector2)~InnoEngine.Mathematics.Vector2Int"
 source: xml
-reviewed: 320e73c0afaf413974c3dea8c6e902ccc79fdcc41c44a7feaae2c7194f731710
+reviewed: c0708ac6425ba9b350d14b1f851a5fc41115b5c8b13d43c049a3d02011e08803
 title: "op_Explicit"
 kind: api
 owners: [Inno.Core.Mathematics]

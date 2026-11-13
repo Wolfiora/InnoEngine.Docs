@@ -2,7 +2,7 @@
 uid: api.10c7be25ff8313c629cdc1070df85bc10ea54b70405faa50569d08fb32c52252
 symbol: "engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginEnvironment.compilationAssets"
 source: xml
-reviewed: 15977bbac51fecf8a64a7e5d40f9ad9a483422b8314f26cae28feeca232f2b74
+reviewed: a56d1ddd749152f48ef111cecdd70a449ccf3fc261323564e7b3545630d00a2a
 title: "compilationAssets"
 kind: api
 owners: [Inno.Plugins.Authoring]

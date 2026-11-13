@@ -2,7 +2,7 @@
 uid: api.c8b576968af1174a72739f303060c80285a029a077f358fb9c3099309c634b5f
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.GetDefinitions"
 source: xml
-reviewed: c1372e04971457aa11f8fc20f373e1443c125cba50898f79e8d587aa2169ff75
+reviewed: 639e0c8c62cb425a1c57766593edabe064a87540fa13e359f73701370a1eee17
 title: "GetDefinitions"
 kind: api
 owners: [Inno.Scene]

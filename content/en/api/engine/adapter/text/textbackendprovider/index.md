@@ -2,7 +2,7 @@
 uid: api.inno.adapter.text.12af744bfa08f922
 symbol: "engine:Inno.Adapter.Text:T:Inno.Adapter.Text.TextBackendProvider"
 source: xml
-reviewed: 7c1b6439c3f687e19724196dcae6d8476d4acb3cd8020bc0e2ad747b059ee539
+reviewed: 3226aa0f668dbefa3791efc4802c16cb44f10e8ea500699b82022b5a7451e045
 title: "TextBackendProvider"
 kind: api
 owners: [Inno.Adapter.Text]

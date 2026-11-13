@@ -2,7 +2,7 @@
 uid: api.b5d2e5ada3f70b6630add17a80194b5489f0364e0cf12d9051eaeabd82bf9d06
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectLocalId.FromName(System.String)"
 source: xml
-reviewed: 844151334f165e9a60c6f04d98236b4098ec989d7f59e4a666822d5133fbbc17
+reviewed: 9cc41346a873c22eb7aa10627bde7cbfc00ea91cefaddc07e273d77127e40b5c
 title: "FromName"
 kind: api
 owners: [Inno.Core.Settings]

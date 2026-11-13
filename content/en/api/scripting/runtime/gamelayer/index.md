@@ -2,7 +2,7 @@
 uid: api.inno.scene.runtime-script.216ec4bbbecf226b
 symbol: "scripting:Inno.Scene:T:InnoEngine.Scene.GameLayer"
 source: xml
-reviewed: b2e942e69c9b52a1572981138aacf36debb49b3356b88b11bcb2cb533fd70031
+reviewed: f49439c1f52ebe7c02b5ab910daa88153506620877d871ed4e7c3d417b61f0c7
 title: "GameLayer"
 kind: api
 owners: [Inno.Scene]

@@ -2,7 +2,7 @@
 uid: api.2ff07052723dfc3918c4d4b051992bdae6b78a387e8379efd8c2c1e92e25b95e
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawerAttribute.#ctor(System.Type,System.Boolean,System.Int32)"
 source: xml
-reviewed: fe4c36f899b585cd10530155786e98e3f5c3cdccddde4bf779f351c1aadc1efa
+reviewed: b45ed166aa013b5a5152594bad38b42980acf05ab0fd5ceb28327c96b7c2e233
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Inspection]

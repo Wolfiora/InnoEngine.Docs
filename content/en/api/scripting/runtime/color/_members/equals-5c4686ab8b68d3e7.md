@@ -2,7 +2,7 @@
 uid: api.5c4686ab8b68d3e7fa6f052a5175c687049effbc01e76d17e8b9211fcdd4aa70
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.Equals(InnoEngine.Mathematics.Color)"
 source: xml
-reviewed: 9c0cfc83ecd3e6adb8e224c2943d66b000948ea1181ae853c0710b5eb0fca01f
+reviewed: 9387fadfb88e1892a2046db80b068cf16728097788954cf16b86f8afdd27db68
 title: "Equals"
 kind: api
 owners: [Inno.Core.Mathematics]

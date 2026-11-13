@@ -2,7 +2,7 @@
 uid: api.ed08e42534b2fedbba01f62046d961ac584864c10494e4284a09ee15a3520f8e
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioClipMetadata.duration"
 source: xml
-reviewed: a3ab892dd4739627a9f968d83b71e64ba7b135a55167ec912ffaca9b85c0fb42
+reviewed: 079959c1af1b34677e8e332b9a303a7c869dd108ae2c3f926ca548c31d538c6a
 title: "duration"
 kind: api
 owners: [Inno.Audio]

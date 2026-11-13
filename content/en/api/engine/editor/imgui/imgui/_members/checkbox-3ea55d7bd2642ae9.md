@@ -2,7 +2,7 @@
 uid: api.3ea55d7bd2642ae921b5896929f30dd15858fbc9e320a78f57ddbb7e4029fd40
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.Checkbox(System.String,System.Boolean@)"
 source: xml
-reviewed: 91c84b2544f2d64600e32841ba867e56175cacb88e00d099b457699496622c2f
+reviewed: 5f632fac05a4c6ae091c8ed25fd12944771e3c6c29e19859c824e457e4756815
 title: "Checkbox"
 kind: api
 owners: [Inno.Editor.ImGui]

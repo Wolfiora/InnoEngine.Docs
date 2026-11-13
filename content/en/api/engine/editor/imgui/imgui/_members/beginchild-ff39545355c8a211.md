@@ -2,7 +2,7 @@
 uid: api.ff39545355c8a21174761d818282c6524292bc7cc070142b94d0b4f01076d3e8
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.BeginChild(System.String,System.Numerics.Vector2,Inno.Editor.ImGui.ImGuiChildFlags,Inno.Editor.ImGui.ImGuiWindowFlags)"
 source: xml
-reviewed: 18cbdb8f0f0f7c14305d4bb3306a5ccba51626677ba3a4b3f267eefefec38f3d
+reviewed: ac8c58007f2b062c374e4679d12c771a9fabd755a49dfe8b4609e89affef6f9c
 title: "BeginChild"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.aa320fd3193b54d7de73002ee04508806e8e4d9abf6ea2eed435fb3a41c25b5d
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateLookAtRH(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
 source: xml
-reviewed: 22334299b2720db45b08991f8843780414f20a61bf5deb319ced0dbf10661900
+reviewed: e347807e401dc0b4d16a091609bf2a5ae977d3fb499fa7e738480d557c9438d0
 title: "CreateLookAtRH"
 kind: api
 owners: [Inno.Core.Mathematics]

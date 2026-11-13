@@ -2,7 +2,7 @@
 uid: api.inno.engine.default.7559557c8e79266e
 symbol: "engine:Inno.Engine.Default:T:Inno.Engine.Default.EngineSessionComposition"
 source: xml
-reviewed: 6a3cc9b339c473f330e61545a6c62f04d8f773c0f5ca777f280143ec5648ada3
+reviewed: d298ffa2c455439dbdd30728f39bc4a5b761f3d5f73215774f4162694113993c
 title: "EngineSessionComposition"
 kind: api
 owners: [Inno.Engine.Default]

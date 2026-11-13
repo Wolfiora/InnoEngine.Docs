@@ -2,7 +2,7 @@
 uid: api.f363347ede2df103470acaa85ae3e5e55d6e1fb0bf7cda2c83b7f713ed89c772
 symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.Cancel"
 source: xml
-reviewed: 0a15ff08cbeefb5268ccf465d5e13e1fb142ca4d6122132cfa5d885d1df909b8
+reviewed: 49235ea2a728e781b3c3c719843adec348a70a114be5086a10a8968496b5d6cd
 title: "Cancel"
 kind: api
 owners: [Inno.Core.Execution]

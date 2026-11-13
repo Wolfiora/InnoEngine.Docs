@@ -2,7 +2,7 @@
 uid: api.df426ac2643a8ca0924bf9bd4af59895fcf686b1b79648b63cef009041f55751
 symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.StaticPlayerModuleActivator.Activate(Inno.Extensibility.Modules.ModuleHost,Inno.Runtime.GameCodeDeployment)"
 source: xml
-reviewed: 0281ecbf3de016e4de84a078890c40e72dbb8ddc8e6633c2ef1353d8d9202dd9
+reviewed: c855eb88c0c6a513f2a0443057cd89588dd5099e0d937644cb6a63bb7c9a1ace
 title: "Activate"
 kind: api
 owners: [Inno.Player.Runtime]

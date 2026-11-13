@@ -2,7 +2,7 @@
 uid: api.inno.rendering.44012bebb6347363
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.ComputePassBuilder"
 source: xml
-reviewed: dc01870e29f25fb4a4efac8c6b9780e57de16eaffe7a43be9eb2e5397c818998
+reviewed: 3b012dd3801cab0a9ce2816173178d91c87682ae258e6be6421a54c7c653ac9e
 title: "ComputePassBuilder"
 kind: api
 owners: [Inno.Rendering]

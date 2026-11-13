@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.479a09ecebff90b9
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.IViewPointerTarget"
 source: xml
-reviewed: 99ac051d9a0466e6789d35018cb4057f5dc2d019bded82d181ad0a424b0ce570
+reviewed: 65f89d0fdd0ced49e9baa20077033f2c6baa9645eaeda7e7e570c237a07bf52b
 title: "IViewPointerTarget"
 kind: api
 owners: [Inno.Rendering.Runtime]

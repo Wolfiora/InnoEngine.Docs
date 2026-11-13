@@ -2,7 +2,7 @@
 uid: api.cb83f0852df7522e7bb46a5f7d0ed4919788b34274dfdd31e148f4c4974c14d6
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.IsFrameworkReference(System.String)"
 source: xml
-reviewed: 834fad83f42548d6052d12647532a4677822e8723cc104ee1ad20136acc1f2a6
+reviewed: 11e0711fd88a126798ca3137110606d75a8faea9ead216f4fce84a182cb280b5
 title: "IsFrameworkReference"
 kind: api
 owners: [Inno.Runtime]

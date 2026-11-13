@@ -24,7 +24,7 @@ Use the canonical page example context to select the required host or script sur
 
 ## Reference quality
 
-The user-approved API scope includes public and externally usable protected C# engine, Editor, Build and tooling contracts, and actual script projections. Exclude every project under backends/, extern/ and tests/, declared test/fixture projects elsewhere, and non-C# projects. The actual project inventory owns these boundaries; do not maintain another project list. Preserve useful integration guidance, native correctness tests, legal provenance and product deployment validation.
+The user-approved API scope includes public and externally usable protected C# contracts owned by src/ and build/, and actual script projections. Engine API is allowlisted to src/ and build/ C# projects, excluding declared tests and fixtures even within those roots. No tooling, entry, platform implementation, backend or extern API enters this reference. The actual project inventory owns these boundaries; do not maintain another project list. Preserve useful integration guidance, native correctness tests, legal provenance and product deployment validation.
 
 Preserve all selected engine public and relevant protected symbols, overloads, nullable annotations, default values, generic constraints and inherited contracts. Script-projected engine APIs remain distinct from host APIs. Explain parameters, results, observable failures, and lifecycle obligations. Group genuinely shared contracts explicitly instead of repeating generic filler.
 
@@ -45,10 +45,10 @@ These complete units retain their original identities and source mappings in the
 ## 11. Documentation maintenance
 - Product and API documentation belongs to InnoEngine.Docs under content/en/, entered through its task-oriented home page. The retired engine docs/ tree and its callers have been removed; do not recreate a parallel authority.
 - Organize documentation into About, Getting Started, Manual, Architecture, Extending, Platforms/Backends, API and Contributing. Every category has a useful landing page; assembly navigation is secondary.
-- Every actual csproj has one authoritative project entry, identified by source inventory and explicit owner metadata. Do not infer ownership from translated titles or filenames.
-- Engine project entries cover responsibility/boundaries, dependencies/initialization, all public APIs, important protected extension points for derived implementers, common workflows, compilable examples, errors/lifetimes/reload and related navigation. All backend, extern, test/fixture and non-C# API references are excluded under the approved API draft/main plan; retain useful integration guides without excluded member-reference obligations.
+- Every documented project outside platforms/ has one authoritative project entry, identified by source inventory and explicit owner metadata. Do not infer ownership from translated titles or filenames.
+- Engine project entries cover responsibility/boundaries, dependencies/initialization, all public APIs, important protected extension points for derived implementers, common workflows, compilable examples, errors/lifetimes/reload and related navigation. Engine API outside src/ and build/, test/fixture and non-C# API references are excluded under the approved API draft/main plan; retain useful integration guides without excluded member-reference obligations.
 - API declarations and examples follow current source. Do not describe internal implementation as a stable public contract. Explicitly identify internal mechanisms when explaining them.
-- Adding, deleting, renaming or changing eligible APIs maintains source XML; master-to-draft synchronization updates their reference facts, fragments and derived navigation. Maintain affected Manual workflows separately on Docs draft. New projects receive their authoritative entry and coverage registration; paired PR metadata is not required.
+- Adding, deleting, renaming or changing eligible APIs maintains source XML; master-to-draft synchronization updates their reference facts, fragments and derived navigation. Maintain affected Manual workflows separately on Docs draft. New eligible projects receive their authoritative entry and coverage registration; paired PR metadata is not required.
 - Use relative Markdown links between content pages. Project entries provide category and home/related-page navigation. Page moves repair every incoming link.
 - Active prose is English under the approved modernization plan. API names, code, source comments and public XML remain English. Use small, complete composition examples instead of copying large source blocks.
 - Distinguish currently supported behavior, internal details and future plans. Never present planned APIs as already implemented.
@@ -66,7 +66,7 @@ Use the [documentation repository](https://github.com/Wolfiora/InnoEngine.Docs),
 <a id="documentation-standard-1"></a>
 ## One authoritative entry per project
 
-Every actual project has one authoritative project entry and appears in its category navigation. Test-project pages explain verification scope, fixtures, prerequisites and execution rather than presenting test methods as product APIs. Current usage documentation belongs in InnoEngine.Docs; dated plans, execution records and historical acceptance remain in the owning repository's .agents/records/.
+Every documented project outside platforms/ has one authoritative project entry and appears in its category navigation. Test-project pages explain verification scope, fixtures, prerequisites and execution rather than presenting test methods as product APIs. Current usage documentation belongs in InnoEngine.Docs; dated plans, execution records and historical acceptance remain in the owning repository's .agents/records/.
 
 Explain responsibility, a quick workflow, initialization and shutdown before API detail, extension, failures and verification. Ownership descriptions identify creation, borrowing/transfer, threads and lifetime termination. Explicitly identify internal implementation details.
 <!-- /rule-unit: documentation-standard-1 -->
@@ -75,7 +75,7 @@ Explain responsibility, a quick workflow, initialization and shutdown before API
 <a id="documentation-standard-2"></a>
 ## API reference and source
 
-Map engine public types, constructors, members, enum values and protected members usable by external derived types individually. Signatures preserve overloads, nullability, defaults and generic constraints; types also preserve inheritance, interfaces and delegate signatures. Synthesized public record members are in scope. Under the approved API draft/main plan, all backend, extern, test/fixture and non-C# API references are excluded; eligible engine, Editor, Build/tooling and actual script-projected contracts remain in scope.
+Map engine public types, constructors, members, enum values and protected members usable by external derived types individually. Signatures preserve overloads, nullability, defaults and generic constraints; types also preserve inheritance, interfaces and delegate signatures. Synthesized public record members are in scope. Under the approved API draft/main plan, Engine API is limited to src/ and build/ C# owners, with tests and fixtures excluded; actual script-projected contracts remain in scope.
 
 Each member receives source facts and XML default explanations of behavior/results, usage constraints and failures. Authors can enrich individual type/member prose with source: manual; missing or stale editorial work is a non-blocking warning, not proof of semantic completeness. Source links do not replace use contracts. Resolve inheritdoc and retain local additions; explain eligible generated members without editing generated source.
 
@@ -106,7 +106,7 @@ Concrete third-party implementation names belong in their backend, Native, integ
 <a id="documentation-standard-5"></a>
 ## Native implementation boundaries
 
-Backend projects retain useful engine integration guidance covering initialization, ownership, callbacks, threads and shutdown. Their type/member references, extern, tests/fixtures and non-C# API references are excluded under the approved API draft/main plan. Derive scope from the actual project inventory without a second project list. Eligible API includes resolve within the selected snapshot; cycles and path escapes fail, and moves repair incoming anchors. Native correctness, implementation tests, deployment validation and legal provenance remain required.
+Backend projects retain useful engine integration guidance covering initialization, ownership, callbacks, threads and shutdown. Engine API is limited to src/ and build/; backend type/member references, tools, entries, platforms, extern, tests/fixtures and non-C# API references are excluded under the approved API draft/main plan. Derive scope from the actual project inventory without a second project list. Eligible API includes resolve within the selected snapshot; cycles and path escapes fail, and moves repair incoming anchors. Native correctness, implementation tests, deployment validation and legal provenance remain required.
 <!-- /rule-unit: documentation-standard-5 -->
 
 <!-- rule-unit: documentation-standard-6 -->
@@ -121,7 +121,7 @@ Documentation verification covers project entries, signature mappings, relative 
 
 Complete Host-example acceptance uses the explicitly selected SDK, compiles against actual ReferencePath and the current owning assembly, and records successful compiler evidence. SDK-free host checks are preliminary diagnostics only. Assemblies elsewhere in the repository do not establish an example's allowed references.
 
-With an SDK selected, API models enumerate actual Compile items and conditional symbols. Selected engine generated types, nested types and partial members enter the same inventory; obj or Generated placement alone is not an exclusion. All backend, extern, test/fixture and non-C# API references are excluded, and other targets' unselected generated files are outside the current contract. Documentation scope does not disable extraction capabilities needed by architecture or ABI tests. Extraction does not execute Roslyn source generators, replace post-generation assembly boundary checks or verify every product configuration.
+With an SDK selected, API models enumerate actual Compile items and conditional symbols. Selected engine generated types, nested types and partial members enter the same inventory; obj or Generated placement alone is not an exclusion. Engine API outside src/ and build/, test/fixture and non-C# API references are excluded, and other targets' unselected generated files are outside the current contract. Documentation scope does not disable extraction capabilities needed by architecture or ABI tests. Extraction does not execute Roslyn source generators, replace post-generation assembly boundary checks or verify every product configuration.
 
 Native project overviews distinguish engine integration from generated ABI surfaces without reproducing their members. Review the actual facade and consumers to explain engine-facing borrowing, release and thread restrictions rather than assuming managed-object lifetimes. Do not count excluded native members as missing engine documentation or completed semantic review. Complete engine signature markers still do not establish complete semantics.
 

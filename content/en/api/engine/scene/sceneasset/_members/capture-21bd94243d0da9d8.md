@@ -2,7 +2,7 @@
 uid: api.21bd94243d0da9d8fd9549fa63aceccd7bb6450d3e073e8f52e9aec32e059a80
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneAsset.Capture(Inno.Scene.GameScene,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
 source: xml
-reviewed: 8b1cbdd0557a3fc7aa3ac83e3c2e60429a4d9dcc53565bcfa43d6460b3c09213
+reviewed: ad945aeb4aecb2a06985cce59b72a4d5f6b08bb2be13d82edfba13cc794e194b
 title: "Capture"
 kind: api
 owners: [Inno.Scene]

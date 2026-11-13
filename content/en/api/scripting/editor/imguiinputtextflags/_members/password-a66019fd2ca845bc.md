@@ -2,7 +2,7 @@
 uid: api.a66019fd2ca845bc408044ea3cb1480e83b019f6629f386ce9c9b670ea4e160f
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.Password"
 source: xml
-reviewed: c86e8a86535602cc5851e636ab2d01b22f5f43292d07c40d2e1aa7045301e008
+reviewed: 16ba0c35bf2b26d4691b7b5bd7cd8f51ce7bbe4b20cd41729d8a010eab9ec686
 title: "Password"
 kind: api
 owners: [Inno.Editor.ImGui]

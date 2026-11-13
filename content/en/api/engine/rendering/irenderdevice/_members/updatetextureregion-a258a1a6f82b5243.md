@@ -2,7 +2,7 @@
 uid: api.a258a1a6f82b52433b78b4f5d46b81e310808fc097f59d312a9a1ea5bc42a86b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.UpdateTextureRegion(Inno.Rendering.PersistentTextureHandle,Inno.Rendering.RenderTextureRegion,System.ReadOnlySpan{System.Byte})"
 source: xml
-reviewed: f814f570d06d374d9d079d0fa6caf2d60e7dda4ee0f0cf3d03676fb233d57129
+reviewed: 1e8246a5995be99677494b8cb5c8201dff0f29a637b60ec3957bdf2a38eed64b
 title: "UpdateTextureRegion"
 kind: api
 owners: [Inno.Rendering]

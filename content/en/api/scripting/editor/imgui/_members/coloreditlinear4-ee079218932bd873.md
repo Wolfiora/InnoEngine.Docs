@@ -2,7 +2,7 @@
 uid: api.ee079218932bd87399dddf1a36daca78596eda8dfc680c6a65b6cbbe26a507ad
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.ColorEditLinear4(System.String,System.Numerics.Vector4@,InnoEditor.ImGui.ImGuiColorEditFlags)"
 source: xml
-reviewed: 80c2bac283b841a3dbfe00dddded1222b6f95841fab6839d0b8dbc823dd7e336
+reviewed: 32233434239022599f101006f20c44ce89b205326eec05b7cf7bfa678e50a340
 title: "ColorEditLinear4"
 kind: api
 owners: [Inno.Editor.ImGui]

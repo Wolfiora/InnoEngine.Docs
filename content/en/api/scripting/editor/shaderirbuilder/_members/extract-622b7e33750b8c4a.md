@@ -2,7 +2,7 @@
 uid: api.622b7e33750b8c4a34bd90c580cd76114743099b8b10447dee19c053d3531488
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Extract(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Int32)"
 source: xml
-reviewed: e1d25fdba304571894a475a8d3008b416a27ed06f4d5911549193723990e5d91
+reviewed: c920103b7697353d2b74d21b86c36fdef6705079613533f77feb8d19087d67c1
 title: "Extract"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.a057fdfe7e98ef19803652bdb7adfc9e2514bd9253571a3ed452abb179f4d0c8
 symbol: "scripting:Inno.Editor.Annotations:P:InnoEditor.Annotations.HelpBoxAttribute.messageType"
 source: xml
-reviewed: 204accbed153e6eaee3836f78ff8bbf866e57bfddc67137e0d7b08c59f811b08
+reviewed: 4b2cec8928a4781404f8ab2054248d84e4c88657ebc3b3a80e2824be513dde6e
 title: "messageType"
 kind: api
 owners: [Inno.Editor.Annotations]

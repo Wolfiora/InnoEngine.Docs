@@ -2,7 +2,7 @@
 uid: api.inno.runtime.e40327a24fd0b626
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.StaticAssemblyCatalogSource"
 source: xml
-reviewed: b7ac7125158d1fa8591ade53f723f097b0c5838536744da3b27fd675a2bf4fec
+reviewed: 7ac3aab15e01d6ed1720748ef1cf06f5b099ec6c7c7a5eeff0ff00d8842f0fd0
 title: "StaticAssemblyCatalogSource"
 kind: api
 owners: [Inno.Runtime]

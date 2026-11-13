@@ -2,7 +2,7 @@
 uid: api.ff8ee37de369f9eb296b1efeefb33b826ba5b812367d8d922cf4a64906eab269
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.BuildCommands"
 source: xml
-reviewed: b015849f9d0c2738a19971d53cbcb430b3a03ec5c707e9f42559998469a5e437
+reviewed: d142a603637a3f142ee69df738870660c54ccbfff13661ad1da7fbd02021009b
 title: "BuildCommands"
 kind: api
 owners: [Inno.Editor.Interactions]

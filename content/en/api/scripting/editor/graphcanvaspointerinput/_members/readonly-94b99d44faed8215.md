@@ -2,7 +2,7 @@
 uid: api.94b99d44faed82157ed5f774837230a8cabf668af73615c9e99d898d3ea248f5
 symbol: "scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasPointerInput.readOnly"
 source: xml
-reviewed: 5492c623a68ec548e10ce2a8e24bb74e1b06bb1b099e49ae726d2f5113469b27
+reviewed: 5262e90ed205173f22dda7fd70839a8723747e14909c75de793ffc35f0efff96
 title: "readOnly"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

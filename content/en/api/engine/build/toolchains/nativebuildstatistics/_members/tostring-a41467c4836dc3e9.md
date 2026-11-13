@@ -2,7 +2,7 @@
 uid: api.a41467c4836dc3e906677119c92793b2eab722e2388995827722254f685c1d10
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildStatistics.ToString"
 source: xml
-reviewed: cf5f35ed228bc3b5354caed230f57479af82e0ceaf586453ea0913e00b47d6c1
+reviewed: 32be271e43b8fe68539722ad947ec86d9edaaf347d12595bdcba0f6c675e54cd
 title: "ToString"
 kind: api
 owners: [Inno.Build.Toolchains]

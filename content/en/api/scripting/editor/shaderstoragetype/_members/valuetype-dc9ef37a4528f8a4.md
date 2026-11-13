@@ -2,7 +2,7 @@
 uid: api.dc9ef37a4528f8a45db8737a5db72e9cbf57b54cff56a4b1fb25d595d9aaab67
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderStorageType.valueType"
 source: xml
-reviewed: d7ecf10e7a990cc77ad0bee9d0d3a35537dd6e4a268ff9fe825d939ecc9c8a9f
+reviewed: 3583664ee63c99c9589c2eb2db3e3d95e18866fd99ed8de9d9bb57a8bd7c0c4e
 title: "valueType"
 kind: api
 owners: [Inno.Rendering.Shaders]

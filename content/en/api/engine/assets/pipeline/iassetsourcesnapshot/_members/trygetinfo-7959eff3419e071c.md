@@ -2,7 +2,7 @@
 uid: api.7959eff3419e071c5da35a4a8e38bbc1b822da1c788d7267bb09974d93f8f43b
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.IAssetSourceSnapshot.TryGetInfo(Inno.Assets.AssetPath,Inno.Assets.AssetInfo@)"
 source: xml
-reviewed: e7cf1ad8263c6bde2cc24c63a2a4a273f6d4c07769d3f9693963768305ed7211
+reviewed: cb448979a0c53f225506b966d9cc39c42524cd2816782f9aa2ddf41fc16e9feb
 title: "TryGetInfo"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.fb128dbc166fbcaa
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.SpaceAttribute"
 source: xml
-reviewed: a6668238217557f7c997af29cab96fccdb017b49f307ab59399d6ffdfb7f24af
+reviewed: 61f84892caf572188df1b54b5d6101b631cfacd37db7a90c96b2bc7b3867752a
 title: "SpaceAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

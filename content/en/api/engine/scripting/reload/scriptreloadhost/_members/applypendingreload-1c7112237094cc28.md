@@ -2,7 +2,7 @@
 uid: api.1c7112237094cc28fceb6143195a5a10a669236d47404dfa6896ea0170a2c2d6
 symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.ApplyPendingReload"
 source: xml
-reviewed: 9efc8d0d787a571cc2aa5db681778839f8bab20c7226e4e71b8e50471c13fecf
+reviewed: dfafe0fa3ccb2668588ccd0e9ea91fa0d7278e13c3ae4eb8a35714b9267dab4e
 title: "ApplyPendingReload"
 kind: api
 owners: [Inno.Scripting.Reload]

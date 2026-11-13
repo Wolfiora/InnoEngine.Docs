@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.233f9bcbbeeb513a
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.SettingsFileNames"
 source: xml
-reviewed: adfcbb77b633e6b43e48528b18bd79cf22ef6e501c2d970a9997a4d062769b15
+reviewed: 5975c6fa66fb4a5f77ff7f1a020c0168162ec83761780c31edabdf92bd17716c
 title: "SettingsFileNames"
 kind: api
 owners: [Inno.Core.Settings]

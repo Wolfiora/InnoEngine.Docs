@@ -2,7 +2,7 @@
 uid: api.db10ed426d67e6106903b24c67c3a950cd2146ab653d9a1d911560d27d3a5cdc
 symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.WindowResizeEvent.#ctor(System.UInt32,System.Int32,System.Int32)"
 source: xml
-reviewed: 6fea147dd60fbb7085f3438f02cf7497bad0bed4d66cfe46d0b1b9215eba4346
+reviewed: f3206d86e5093076881bf404de66e75aeedb60a7b3b959ea8e6077d631a3db51
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Events]

@@ -2,7 +2,7 @@
 uid: api.15a62a5165c0d2f0154b564c72d50c2de84a4fe2a85119cd8fd0eb8d88cd72e7
 symbol: "engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeDeployment.CreateMetadata(System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeBuildProduct},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
 source: xml
-reviewed: c831ca0bb0ef34d05c37a3ecde39d07221a2b40b471aebdf6957f91364f1fc46
+reviewed: f964cd0cbd175683b6bc1fb93b94aee7ca624935b113a517f3fa8a64ca04df61
 title: "CreateMetadata"
 kind: api
 owners: [Inno.Build.Products.Standard]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.editor-script.27d7e5fb9aa37cb3
 symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImportWriter\u00601"
 source: xml
-reviewed: 2328885662cb8abd4f41becf42aab1ede81d3b90c2d691df21e3288d3d599eb4
+reviewed: 2204390e6dc8ea1690c9fa829acb85b73f2fad81536c40415f68e72391844673
 title: "AssetImportWriter"
 kind: api
 owners: [Inno.Assets.Pipeline]

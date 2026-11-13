@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.b91da2f24a162c6f
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderShaderBindingKind"
 source: xml
-reviewed: 279a403a44fc464850f5fd7fb428316bf86b1794067dca938fdec6058422743f
+reviewed: 1caa415a8020bb65415bd3e569f492a46b58c4a46409aba8b958f1aad6fb16d6
 title: "RenderShaderBindingKind"
 kind: api
 owners: [Inno.Rendering]

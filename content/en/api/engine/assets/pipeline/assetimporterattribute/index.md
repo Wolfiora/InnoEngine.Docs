@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.499815ef7ebcdb8d
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImporterAttribute"
 source: xml
-reviewed: a194b0244cee661d3516cabeac49d9883af06e102d273bfcd6625beeedc0fa32
+reviewed: 35990b89a57e841a8f2781111f8b3b9f878e2160d3158ab2aa52dde5af9f8c7d
 title: "AssetImporterAttribute"
 kind: api
 owners: [Inno.Assets.Pipeline]

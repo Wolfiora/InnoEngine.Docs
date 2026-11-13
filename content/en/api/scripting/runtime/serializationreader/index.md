@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.runtime-script.a6a22ab40dc2ffe2
 symbol: "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializationReader"
 source: xml
-reviewed: 9512ad1bbd6ef0e981ac7becb32adffb32e53debf7f93277cae7f048f97b0886
+reviewed: 1a98c97c3fd7874bfda92b776769e069c74ce7ca0c6439a7679c14bb7b5de5bf
 title: "SerializationReader"
 kind: api
 owners: [Inno.Core.Serialization]

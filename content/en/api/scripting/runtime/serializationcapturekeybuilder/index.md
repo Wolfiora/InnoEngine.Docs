@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.runtime-script.d4d504dd725db198
 symbol: "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializationCaptureKeyBuilder"
 source: xml
-reviewed: e30020e037817d7fcb6618ba5dfbf02e1437945a8a24a0a84fcbfa6e1d3aeaf4
+reviewed: caefc2015fe3f170ec0fd314f53c70a8fac23602c7c4bf3040bf65e5c95a0134
 title: "SerializationCaptureKeyBuilder"
 kind: api
 owners: [Inno.Core.Serialization]

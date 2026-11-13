@@ -2,7 +2,7 @@
 uid: api.162645cfeebdbefb126d98a7328a2a1439b1e0d1dc475e43993913acd5c69cd4
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.op_Equality(Inno.Extensibility.Types.TypeRef,Inno.Extensibility.Types.TypeRef)"
 source: xml
-reviewed: ad9b3fa30b242ce25a89650aec01bdb778aefdc5f75213d5c5b4dbd1b46e4e23
+reviewed: d099a6fe72e4b95bf5ddc979e8edcb995f3104ccc0515b0938a893c4d6706827
 title: "op_Equality"
 kind: api
 owners: [Inno.Extensibility.Types]

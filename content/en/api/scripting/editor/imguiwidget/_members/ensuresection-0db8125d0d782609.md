@@ -2,7 +2,7 @@
 uid: api.0db8125d0d782609b00494ef1c3970811d2a6719f982e1b51c9d803cc11dc3bd
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.EnsureSection(System.String,System.String)"
 source: xml
-reviewed: 512240c9c358860ed7fc5cfe2e47a3ebc6ffec241507e0857394a3052529f64d
+reviewed: d5de275aca595d6c841cc81db3cb85e4f2b01e50741ef7dcf895114413dc52be
 title: "EnsureSection"
 kind: api
 owners: [Inno.Editor.ImGui]

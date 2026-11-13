@@ -2,7 +2,7 @@
 uid: api.9c9e1ec0680de69202385b61df0f761662c3f00a62c250eef6e438c1add8e07e
 symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFragment.#ctor(InnoEngine.UI.UiDocumentLanguageId,System.String)"
 source: xml
-reviewed: a05e49052b15697fa4240f0c4813b632625fc1b4495b9ff96aea2e94cf3fd2b0
+reviewed: f7792b22dd43bb6af76d897b7df7b2be171b06818f5957df9d4497f6622040d6
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

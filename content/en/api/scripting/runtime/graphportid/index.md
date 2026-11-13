@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.c31940356163f70b
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPortId"
 source: xml
-reviewed: e46f54e46277eacb8b402c50b107bf3492260eeafb3ce74195687638d4823744
+reviewed: f9fdd8c1d88adc9b16fc8616c8cbdc319bfb84b4531ff110aa4d6f9a8f89d0e4
 title: "GraphPortId"
 kind: api
 owners: [Inno.Core.Graphs]

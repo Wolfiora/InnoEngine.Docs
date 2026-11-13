@@ -2,7 +2,7 @@
 uid: api.7c870b5f4c1d38517378a32cabd3370cb78f8f79a0c1652e13b9391ece054fa4
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.OpenPanel(System.String)"
 source: xml
-reviewed: 3fbb099337a593fab861fe4a6a7f0bdc90e85312783d3b10ccafee1d4900d577
+reviewed: 67225dfca61622e2d0d3979ba84372862d51ecffa388fec04e7971cc98c27c99
 title: "OpenPanel"
 kind: api
 owners: [Inno.Editor.Interactions]

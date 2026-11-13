@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.26750ca4ce01658f
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationValue"
 source: xml
-reviewed: 68e50f12c7761493964ff79ca52d148a93eae2a3e9ae21460a70472ba2726e5e
+reviewed: c803d6d42a914194f72ba07dce2b1314f240bb6b2ea1fb2492078bf27e5f91e7
 title: "AnimationValue"
 kind: api
 owners: [Inno.Animation]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.c83ace802694dada
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderTarget"
 source: xml
-reviewed: ab99a7daca604a389aa62dfb975b434dbdb46f41e26f4001cbb9161e7f1854bb
+reviewed: 902adb6342d7d85dbed1d48dd1124784a2d97e864eb0dcd4bd6cb0e7a6f3f219
 title: "ShaderTarget"
 kind: api
 owners: [Inno.Rendering.Shaders]

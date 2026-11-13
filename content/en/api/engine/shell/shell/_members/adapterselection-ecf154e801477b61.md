@@ -2,7 +2,7 @@
 uid: api.ecf154e801477b61abdeed8c1fc8a77e38ad03eaaba66e1139d13152c3e6f9f1
 symbol: "engine:Inno.Shell:P:Inno.Shell.Shell.adapterSelection"
 source: xml
-reviewed: 8e95dbbe5ee5ac5d5c28b8e2ce5813504fd7a8910ff453017ca4df0a700b94a9
+reviewed: 730f8085bc8283f44100abfce3c0e84254c012edd5370155e790edea449def30
 title: "adapterSelection"
 kind: api
 owners: [Inno.Shell]

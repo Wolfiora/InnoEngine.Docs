@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.c6ebc293b3245308
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphNodeOutputsCompiler"
 source: xml
-reviewed: de6d7c379f43ac597d1098a8103be81b59aeb2947dc58083b8e2af49d02ca9ce
+reviewed: 551e3a99a612fa1e7d05b6643700c6df6e7c8a2f9b4d11bcd2e3224d37e882df
 title: "ShaderGraphNodeOutputsCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

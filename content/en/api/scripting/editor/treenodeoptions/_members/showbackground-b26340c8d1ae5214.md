@@ -2,7 +2,7 @@
 uid: api.b26340c8d1ae52147e03b7314d3b92908655ea713dd9abe515d16dcfa65c1a03
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.TreeNodeOptions.showBackground"
 source: xml
-reviewed: ec393f20bea13a8522938465d93db3477f124a501fbcfa63f7f16c1a971699c9
+reviewed: 6a3f26409baaa5516ef8edafd98d7cc9b3c1e95fe2374cc597691a141a2fcf19
 title: "showBackground"
 kind: api
 owners: [Inno.Editor.ImGui]

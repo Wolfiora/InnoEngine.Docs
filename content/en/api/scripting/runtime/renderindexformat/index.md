@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.31d5c197236112ea
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderIndexFormat"
 source: xml
-reviewed: 5cc18c3ad58d293eb3392e9c32cd11e6568db42545995614af8e4ccc38becb8b
+reviewed: 50fa17fbbbb78810cd71705600111b5b488782098e2fcfcbddfea8c521f597b1
 title: "RenderIndexFormat"
 kind: api
 owners: [Inno.Rendering]

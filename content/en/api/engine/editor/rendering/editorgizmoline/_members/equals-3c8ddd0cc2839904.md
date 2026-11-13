@@ -2,7 +2,7 @@
 uid: api.3c8ddd0cc28399042a46aef93017670b79983b2651d3f28be46694a36be495c4
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoLine.Equals(System.Object)"
 source: xml
-reviewed: 2a544eeb765bfd06c76b03711cc6d0d9a0f7e062920ad6c2932c9b3c64ba5043
+reviewed: c7e3d49ab8f033a5d2412d8481f7d9e396e92ead271fcd9f7c4f3604eb2708dc
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Rendering]

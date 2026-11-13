@@ -2,7 +2,7 @@
 uid: api.inno.core.input.runtime-script.9944754d039ce9bb
 symbol: "scripting:Inno.Core.Input:T:InnoEngine.Input.KeyCode"
 source: xml
-reviewed: d312a1a8dcff957c8da49870ef91d25009ce35703dfdf003545abd64790d5874
+reviewed: 27e21aa55b6947691bbe5be7d681b5d072557adff41147f759c90a4f3a295fdc
 title: "KeyCode"
 kind: api
 owners: [Inno.Core.Input]

@@ -2,7 +2,7 @@
 uid: api.inno.core.coroutines.a46d7a711104ae23
 symbol: "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.YieldInstruction"
 source: xml
-reviewed: 76cafdb8517819f3e92038f313aa9087a282497abac0f37eede89e4df9884dba
+reviewed: 2f05d459b0ddb08dc7dbf919b5b2446ab037631543a24c5eec0fcc80f1ce5dfb
 title: "YieldInstruction"
 kind: api
 owners: [Inno.Core.Coroutines]

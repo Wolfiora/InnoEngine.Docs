@@ -2,7 +2,7 @@
 uid: api.a879f46c1fb7914f409e9909bdfb4c503f11134b01043fe8510589998fbcd5f5
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.ItemSpacing"
 source: xml
-reviewed: 542a8d4466f8882fa948ba325f86ef3b67aca2627e52f226e3b7dffb69bcd0fa
+reviewed: 80e889f8ef4411836d2039a51f951a2c45038164003c1cd97d79a6b9887afc4a
 title: "ItemSpacing"
 kind: api
 owners: [Inno.Editor.ImGui]

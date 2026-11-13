@@ -2,7 +2,7 @@
 uid: api.5bffe7abee085e943d2d7dfba164a3999aa7fe8dbaaf49477566f861e3bd6953
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.EndMenuSelector"
 source: xml
-reviewed: 1afecc3cadb990803d0742bc088eb1e904ea00da9d85b7170ca523c6398bd94d
+reviewed: dbe57bb6fcbfe9e8c05bb779f998bd2199374904c5ad16a2b528b52cca996d81
 title: "EndMenuSelector"
 kind: api
 owners: [Inno.Editor.ImGui]

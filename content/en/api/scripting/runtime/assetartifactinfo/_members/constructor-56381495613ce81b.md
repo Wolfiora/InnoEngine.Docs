@@ -2,7 +2,7 @@
 uid: api.56381495613ce81baf332413ca187caa962fa83d672c0c9715e95292fcf5c0b6
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetArtifactInfo.#ctor(InnoEngine.Assets.AssetArtifactKey,System.String,System.String,System.Int64)"
 source: xml
-reviewed: 76d64330c15e3b75ec3908c522c54116913c36a80b009ae669a1e39da77563db
+reviewed: 6c62d20b7bae8512b193726127cf2543d061dd847e88c89e7963f14fcc8d0dd2
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

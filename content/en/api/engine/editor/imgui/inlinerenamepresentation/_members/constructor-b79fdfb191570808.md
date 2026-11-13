@@ -2,7 +2,7 @@
 uid: api.b79fdfb1915708083bd2de4c6155032ad63063e49c81f94ac24f3a92be46eca5
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.InlineRenamePresentation.#ctor(System.String,System.Single,System.Single,System.UIntPtr)"
 source: xml
-reviewed: 3e38b5a0b021ac0330359cc800086de39e75931d69a4c3cc4c05101d595cce79
+reviewed: c989b147a65054e2ac7827889cf7dc459a77d3a056c9303f08fb1a70a543d5ec
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.catalogs.3c11be680076b4b1
 symbol: "engine:Inno.Extensibility.Catalogs:T:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar"
 source: xml
-reviewed: 3e6b7f2d475afb007c6a85258468ebf91944258d224090a698f0ce3302b359c5
+reviewed: 839088bd6cffa34bd63af72f81e0edb70e89176f26d6e2cacf5cd4a123dc9a25
 title: "ITypeCatalogRegistrar"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

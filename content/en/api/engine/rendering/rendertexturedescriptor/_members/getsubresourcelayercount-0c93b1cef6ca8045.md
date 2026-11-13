@@ -2,7 +2,7 @@
 uid: api.0c93b1cef6ca80454e29a5d09918bd929ba24bfd5cb752f50b0b12fcfa31bfbe
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.GetSubresourceLayerCount(System.Int32)"
 source: xml
-reviewed: 91101d37e9984c77d243f46fcbf6d1d70730889fb352706b667b89f5434fee36
+reviewed: c7989e24cc57edb7f42749361fb7008dfe430a68ccb07459527efd8098139bcf
 title: "GetSubresourceLayerCount"
 kind: api
 owners: [Inno.Rendering]

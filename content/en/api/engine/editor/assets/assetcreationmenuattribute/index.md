@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.fbdd5a649b6ec91c
 symbol: "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetCreationMenuAttribute"
 source: xml
-reviewed: a4a9a5f8120f59d660aa81474b2f43bf7d5ea5a0ea7fe72971428ca241c35ba5
+reviewed: c4ad6aa61412662748a1776ee07c794466a6600d55a40e2f779ca23e5bf67e65
 title: "AssetCreationMenuAttribute"
 kind: api
 owners: [Inno.Editor.Assets]

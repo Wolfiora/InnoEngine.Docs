@@ -2,7 +2,7 @@
 uid: api.aa0675f0bd8a8a092b091591bb84e7bd9346f71c90cccb3460d388c01c5ab387
 symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.IPlayerContentSource.ReadMetadataAsync(System.Threading.CancellationToken)"
 source: xml
-reviewed: fd6cc9066c20ca22cd860d37b7b36d0fdfeeb402759e7930152e332462aba252
+reviewed: edf30c9a0162cc6486af096339db19638a71a0c6e9b8d567503655e6ee26f487
 title: "ReadMetadataAsync"
 kind: api
 owners: [Inno.Player.Runtime]

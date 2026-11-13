@@ -2,7 +2,7 @@
 uid: api.fa80f3fa48f8d6859e91f994012cdaabd3669eca2f19fd0077269613cba17eca
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.Open(System.String)"
 source: xml
-reviewed: b2d3e978edff6e8b05c506f6eda5a824369bfbd2b800575388f88f37674d820c
+reviewed: a0373ff5fdc0e7c198ddd29471a60c55e33c0f36cb5ff7b5e2400331a3070dba
 title: "Open"
 kind: api
 owners: [Inno.Editor.Scene]

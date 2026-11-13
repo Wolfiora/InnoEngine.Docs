@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.3f3ad5d00c67045c
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildCachePolicy"
 source: xml
-reviewed: 2401e118c4e3e0c35833a95fd4f024a09c8ed527111927702e14a692e1505e17
+reviewed: 077392a8ca067ac96e25eb58a06ea2d4101bfe70dccc0aeb12a3ab0c52c6e1e5
 title: "BuildCachePolicy"
 kind: api
 owners: [Inno.Build.Toolchains]

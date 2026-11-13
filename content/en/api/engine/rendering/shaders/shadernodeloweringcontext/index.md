@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.1615a4fb8a4db4ed
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodeLoweringContext"
 source: xml
-reviewed: d328ac5b8cf8fe3b7224a6b0dfc11ba162b736d7c13043eeadb5661ca2a62766
+reviewed: 0ffd6959968f41c8c55656f3cf0f2a83d683832307734c0fbab1dd947ee4c089
 title: "ShaderNodeLoweringContext"
 kind: api
 owners: [Inno.Rendering.Shaders]

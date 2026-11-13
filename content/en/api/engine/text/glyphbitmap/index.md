@@ -2,7 +2,7 @@
 uid: api.inno.text.832f392c8ae640eb
 symbol: "engine:Inno.Text:T:Inno.Text.GlyphBitmap"
 source: xml
-reviewed: 6e2bfc2610b6e6c16ccf2df8647f8585e18b6f26b5d5fac08531994fb728a0e1
+reviewed: 18758bad976af4df6a846409e30e90fe04d2b9593cef44a8e453c805d3a35b32
 title: "GlyphBitmap"
 kind: api
 owners: [Inno.Text]

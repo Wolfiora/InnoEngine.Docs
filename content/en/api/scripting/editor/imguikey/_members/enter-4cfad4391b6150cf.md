@@ -2,7 +2,7 @@
 uid: api.4cfad4391b6150cf130e223b44a5aee5119bc28ce0d0e30c2d1f563116ec1212
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Enter"
 source: xml
-reviewed: ff112d018dff0de3dbd04c7a92d701c36c34da587f0b8a0e95c8670057d6c6ec
+reviewed: 154687afe59b907b35ac09ac4098ed0a980d308a91a462ec155719df786e1f86
 title: "Enter"
 kind: api
 owners: [Inno.Editor.ImGui]

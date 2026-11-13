@@ -2,7 +2,7 @@
 uid: api.c8576ca2892383f1f669f9e9811094b8ba661f6e1712729cb313982b58d2020f
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.GetSubTypesOf\u0060\u00601"
 source: xml
-reviewed: 03c8f709f492aeb69d1cef40877762da822cefe56c98c769fa9fb05f35b5dbe0
+reviewed: 21ad8f5a2d1a8f8426d0c8145ff3263a588aab5c7f06aeaccd95cf8b6625fc70
 title: "GetSubTypesOf"
 kind: api
 owners: [Inno.Extensibility.Types]

@@ -2,7 +2,7 @@
 uid: api.24fb87d51da4c0170e692e849a8831d7c1c1883931e48e9c2601cdc8515b2359
 symbol: "engine:Inno.Adapter.Authoring.Default:M:Inno.Adapter.Authoring.Default.DefaultAuthoringAdapterCatalog.#ctor(Inno.Adapter.Default.DefaultAdapterCatalogOptions,System.Collections.Generic.IEnumerable{Inno.Adapter.Rendering.RenderingAuthoringBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Presentation.PresentationBackendProvider})"
 source: xml
-reviewed: 13ceeef7b75cfc2a88261682b2cc82a2ef4327ce3a0bcc3a4f8efa69cc586975
+reviewed: 04395ca5e9e85afd40f129da3503bb810ccc933758e225f1235b2221e2c263c2
 title: "Constructor"
 kind: api
 owners: [Inno.Adapter.Authoring.Default]

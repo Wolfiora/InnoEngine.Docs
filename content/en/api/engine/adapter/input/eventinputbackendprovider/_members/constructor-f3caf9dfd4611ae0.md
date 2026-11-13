@@ -2,7 +2,7 @@
 uid: api.f3caf9dfd4611ae04c0e8d308e080eadb74553c4bcd29b8b49cc69d3565befee
 symbol: "engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputBackendProvider.#ctor"
 source: xml
-reviewed: 535beb66a035e02b8ced290f46e91528db35ab107a16b75ea4ef65c3a8af8e3a
+reviewed: b8f38a87caf6fe0aafea931bbc990b2bac17cbcb6205684ea0c5d47011df3fa7
 title: "Constructor"
 kind: api
 owners: [Inno.Adapter.Input]

@@ -2,7 +2,7 @@
 uid: api.inno.scripting.compiler.30f0357e0014dd52
 symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptModuleDeployment"
 source: xml
-reviewed: 07f352536fdbcf598f89c79f64887444c4268687b5429b745712dff747277eeb
+reviewed: bda7097b5b5c31e0164933cd14913d54e9642ca46b63d85ba0bd2ed9b020bd5c
 title: "ScriptModuleDeployment"
 kind: api
 owners: [Inno.Scripting.Compiler]

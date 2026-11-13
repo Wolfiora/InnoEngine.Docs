@@ -2,7 +2,7 @@
 uid: api.059ad48820fd45d22df3216daf13191cd6028f3cdeed0f069df9d6082fd71f81
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorMenuItem.actionId"
 source: xml
-reviewed: cec94012033bb960ed569e8107967b9b573817a102dc9fc3ebf7d810f8f3ff7d
+reviewed: b47ab85047d28c98910133c9f01a52995dd57ad1ab57ea323039315850101b74
 title: "actionId"
 kind: api
 owners: [Inno.Editor.Interactions]

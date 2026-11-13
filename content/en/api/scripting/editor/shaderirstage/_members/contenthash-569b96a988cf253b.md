@@ -2,7 +2,7 @@
 uid: api.569b96a988cf253be45ba39a516b164b68acde2edd1ffef8511d1ad5c675d20a
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.contentHash"
 source: xml
-reviewed: bf3b54c954f3725aba27e6dee5eb6befcc069d88454e15bdb9915b87e6ae0b66
+reviewed: 5ba601873582026413e673ebec9f6e25946f6214edc35179574f42f49f4a77c7
 title: "contentHash"
 kind: api
 owners: [Inno.Rendering.Shaders]

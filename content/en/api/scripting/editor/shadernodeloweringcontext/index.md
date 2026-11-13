@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.ebc57c0b5e138834
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderNodeLoweringContext"
 source: xml
-reviewed: 808cdc2a2dfa21678e45f8b06b36eaec560efe3a8c41ad6da7a6a80e28f22e81
+reviewed: e5bcd112fc9bb37c77adb8294257942820a064eec116a3f4d48c8ff0ca96bbe8
 title: "ShaderNodeLoweringContext"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.d00f76101691c81cc2e4a5355e3050d4909948c06d43bcdff90426870a7a760c
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.RuntimeSession.StopCoroutines(System.Object)"
 source: xml
-reviewed: 74fd2a2fa3da5586917467b5cba48b6a015ae26f5686026139107683a7fcd2c2
+reviewed: cd15d33e33d7525c81d440235711c32075ae38c00a5d3f3f18f826e7212cb5bb
 title: "StopCoroutines"
 kind: api
 owners: [Inno.Runtime]

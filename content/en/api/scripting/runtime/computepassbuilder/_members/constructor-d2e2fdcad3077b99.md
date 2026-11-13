@@ -2,7 +2,7 @@
 uid: api.d2e2fdcad3077b99dfd2bfcd7607420ffc1f8b2d7335e4f83fab543d3a2d57d8
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.#ctor"
 source: xml
-reviewed: 586d2c9b53c9feaa11e32de7bfb271e5017f1bdff44c263abf38fb18731ff163
+reviewed: e3225388b0db63e2464b4a0faf0c200ebaeb04f6a218460ad4196aff3c64c552
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

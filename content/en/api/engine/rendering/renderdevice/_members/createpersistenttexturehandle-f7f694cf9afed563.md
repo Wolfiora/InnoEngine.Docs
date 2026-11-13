@@ -2,7 +2,7 @@
 uid: api.f7f694cf9afed5633fea8998eccaf740415985197321b9fd4e20c2d9689c8650
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreatePersistentTextureHandle(System.UInt64,System.UInt32)"
 source: xml
-reviewed: 593e6c275e5158d3bf2a2b79da50ae98cd49752007f849995a977513a318c35a
+reviewed: 95d223c31b0aa3145b04a8f8213f9e6010405a8e7d9e4887e31abf6a5d745b4d
 title: "CreatePersistentTextureHandle"
 kind: api
 owners: [Inno.Rendering]

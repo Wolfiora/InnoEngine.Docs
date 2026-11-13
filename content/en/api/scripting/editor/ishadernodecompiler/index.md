@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.b5c58c0f1dd5ad4f
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.IShaderNodeCompiler"
 source: xml
-reviewed: 8d03c42c906bb413f87bfb0922f9199df48ec98f9592d5e83cb02ca017eb8efe
+reviewed: 60a0664a0747bfe3840525440b88ae93374ddba19b6cf53888d2d1e04d79a70a
 title: "IShaderNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

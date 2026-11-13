@@ -2,7 +2,7 @@
 uid: api.2912e6e41e9982695646e201c21f6c26c8d2ddf0d66cba1aa0357006ca6e91bd
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectPredicateCondition\u00601.TryGetSingle(Inno.Core.Collections.IndexedObjectStore{\u00600},\u00600@)"
 source: xml
-reviewed: 46a23e791551a8a51b8d45c0ff4c8e8c32de4e5ac55f42351c86846aa93a7451
+reviewed: c5ba187e487841f49829227991eaea149d5b6508eb57b01ce6b6f66fdb746249
 title: "TryGetSingle"
 kind: api
 owners: [Inno.Core.Collections]

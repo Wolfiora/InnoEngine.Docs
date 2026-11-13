@@ -2,7 +2,7 @@
 uid: api.inno.rendering.d7a18e3b7c2bf34f
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderStencilCompare"
 source: xml
-reviewed: 3d80360ed46944b94b2018d2407172ac73f6f29ad0a60b80ef3a788afed3269c
+reviewed: 2b3c5a6cafa4de9aec919e5989afc0c60291e557d8c6b945e0cb6dd59c006555
 title: "RenderStencilCompare"
 kind: api
 owners: [Inno.Rendering]

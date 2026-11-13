@@ -2,7 +2,7 @@
 uid: api.inno.build.011491807c9f206e
 symbol: "engine:Inno.Build:T:Inno.Build.PlatformTargetDescriptor"
 source: xml
-reviewed: b6b8cef7b08a6ea508246f26f95f26e0a2b5e47cb14ee31315a5178782a11c31
+reviewed: 7be1e444ab11d754cf89349daa2264a12b3e910f4e39aff20efb72b5fcbe7c36
 title: "PlatformTargetDescriptor"
 kind: api
 owners: [Inno.Build]

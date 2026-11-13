@@ -2,7 +2,7 @@
 uid: api.57ea3e9b93d1308149df0cc48dd828166b513aad0f4ac25c73ddb44dc2a48398
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CenteredText(System.String,System.Numerics.Vector2)"
 source: xml
-reviewed: 1d0dc397014b44cbddab6755015cfb9a9e9383af8501b4fba79b45eb452a03de
+reviewed: 24762f197974827e4364f71b156e2ff7619a25b83f5a1ad344cba82b97ce28d2
 title: "CenteredText"
 kind: api
 owners: [Inno.Editor.ImGui]

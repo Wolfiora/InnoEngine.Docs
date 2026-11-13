@@ -2,7 +2,7 @@
 uid: api.1fa7cbb00b6c282d1d2253363583bfb5a521eb36bfdb9ffa65e7833d93ef0e3f
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphNodeInterface.effect"
 source: xml
-reviewed: e372dc29add817f286a687868b7b99288e3ed769dd4f91c86fba0dfdfb67883c
+reviewed: 76d96d32d5b6ef12541b7e242c72bd8582eb7647e2f77e77f9c951007d0896df
 title: "effect"
 kind: api
 owners: [Inno.Rendering.Shaders]

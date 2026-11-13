@@ -2,7 +2,7 @@
 uid: api.inno.adapter.presentation.948c5b8727cd8c73
 symbol: "engine:Inno.Adapter.Presentation:T:Inno.Adapter.Presentation.PresentationTextureHandle"
 source: xml
-reviewed: d9186a2aeba42bc1ee497436e9489d6d82c90e4c2510b10666660d1423e7d9e7
+reviewed: ab27a1167548e10f135253a0fd1a39132c92da2382aaddc64ba16bef1d9f4451
 title: "PresentationTextureHandle"
 kind: api
 owners: [Inno.Adapter.Presentation]

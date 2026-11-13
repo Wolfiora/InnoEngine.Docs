@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.runtime-script.666f518cec582d95
 symbol: "scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.TooltipAttribute"
 source: xml
-reviewed: d4a1b62de22d215f8a1a0ef18422308701b8f8a31604eb36388e3fef997b0ef2
+reviewed: 8f08d59a38724b28f57845fe7c221ba3e60f91a0b598023f365eb0e9c56425ac
 title: "TooltipAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

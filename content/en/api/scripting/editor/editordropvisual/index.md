@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.4c5683e79d394808
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropVisual"
 source: xml
-reviewed: 3fb51d072d0fb4810b93b9197f03d790a76a071b9d1856bd0d08c4b43695b288
+reviewed: ddd938ede5be79efbd89d27e90fb2ef17e0521e36b61a0dd1aefd87cde02b950
 title: "EditorDropVisual"
 kind: api
 owners: [Inno.Editor.Interactions]

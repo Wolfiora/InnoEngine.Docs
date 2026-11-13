@@ -2,7 +2,7 @@
 uid: api.e785a012d67bac606c517cbce4394d3b92ef50c8e7915e034ef737c92d6789a1
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorValidationResult.#ctor(System.Boolean,System.String)"
 source: xml
-reviewed: 75b2d993f8b2cb1bb5da1434baa522b84bfaa509d6b17a1f006dde76b189a5e6
+reviewed: 6f59b3f2373f63f74811dabcf1ffaf7b284eb5bb768b983fa2198210a9dd2b02
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

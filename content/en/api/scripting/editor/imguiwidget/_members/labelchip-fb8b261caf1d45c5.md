@@ -2,7 +2,7 @@
 uid: api.fb8b261caf1d45c5dd6008a71f939dae655acc0673786e426ea35e0f0f6721c5
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.LabelChip(System.String,System.Numerics.Vector4)"
 source: xml
-reviewed: 81fb946abc204c463f3da2114f3f5e58e7c77b2dfa7e923d8eb967302c9ffc02
+reviewed: 25629ec63d109d758a801a58aae4fcb66879eebca595a0116653386058c4ed6b
 title: "LabelChip"
 kind: api
 owners: [Inno.Editor.ImGui]

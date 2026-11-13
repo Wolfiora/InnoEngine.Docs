@@ -2,7 +2,7 @@
 uid: api.4b0fa2ffa2f3bac5b5de1e7350f9e676ac179d2396ebe3a80f906104a8230dcd
 symbol: "engine:Inno.Adapter.Text:M:Inno.Adapter.Text.TextBackendId.Equals(System.Object)"
 source: xml
-reviewed: 5e59993a20a86bfc4b424c86949ec0c461a868610a5060bf7e95d6c32b78a0d3
+reviewed: e35749e6249af86082fcb03553acd760898c2344fa4423d5c9bbff618c2dbe7f
 title: "Equals"
 kind: api
 owners: [Inno.Adapter.Text]

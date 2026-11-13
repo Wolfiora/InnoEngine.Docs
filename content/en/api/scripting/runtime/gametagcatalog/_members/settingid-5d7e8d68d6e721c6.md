@@ -2,7 +2,7 @@
 uid: api.5d7e8d68d6e721c63810987c3593e7e8489d50162a66f59e16330f1eda642360
 symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameTagCatalog.settingId"
 source: xml
-reviewed: 7ffec403afa195f67ac8ff524f624e468de7f8ea2552625da586ba4ee4a77fd1
+reviewed: b62c3b8c50ab16b97e4cbf2d4d58a1a802da9868dbf1e5e0fb3cd3ec0e37df9f
 title: "settingId"
 kind: api
 owners: [Inno.Scene]

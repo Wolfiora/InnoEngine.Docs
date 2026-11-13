@@ -2,7 +2,7 @@
 uid: api.4dddf09cd10fa855a2a09804bca9a40c187a1ba775a77745b31ee2bc38d9dc1f
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.Open(Inno.Editor.Assets.AssetEditorContext)"
 source: xml
-reviewed: be4dd102c1c65dbce0f9c52e91f87e6e6e93bf8eb1c9a0b9307437009f65dc19
+reviewed: 73a0b456a9bffe724cbcbface34b5e751d1fc4f69c83c95ab9ac750127253e07
 title: "Open"
 kind: api
 owners: [Inno.Editor.Assets]

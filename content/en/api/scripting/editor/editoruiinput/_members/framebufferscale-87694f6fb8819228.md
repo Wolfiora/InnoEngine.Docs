@@ -2,7 +2,7 @@
 uid: api.87694f6fb8819228c5822e4eb44ec468b071bc5eeb7aa4f22588955f1d1f0776
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorUiInput.framebufferScale"
 source: xml
-reviewed: 73fb00dcfbe0f17d4c1b35296d56120ce468ca3256c55458d9be2e6e22d9daaf
+reviewed: 5ebac2cce72cdaea266bdc7d9ec8a67b494de63da707a9c6c0c9a473d0e25360
 title: "framebufferScale"
 kind: api
 owners: [Inno.Editor.ImGui]

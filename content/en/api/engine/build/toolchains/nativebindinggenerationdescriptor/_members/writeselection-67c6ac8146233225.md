@@ -2,7 +2,7 @@
 uid: api.67c6ac8146233225f98bdbe9065afb578c96dd161bb72531cea800e6ea781aec
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.WriteSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})"
 source: xml
-reviewed: 0911b163db34a91bd5b060fed3ab30823ef6b00e948e1725f98cf3059151ac21
+reviewed: f5c50fc6eba1761a29cc6919db744f152c71be1a7fc08a3474117b7d59a8222f
 title: "WriteSelection"
 kind: api
 owners: [Inno.Build.Toolchains]

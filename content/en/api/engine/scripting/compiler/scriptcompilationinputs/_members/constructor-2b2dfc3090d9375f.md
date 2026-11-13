@@ -2,7 +2,7 @@
 uid: api.2b2dfc3090d9375f4e501783a78a0abd82de1e3b0a7f39aa7add315977a4b8f2
 symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompilationInputs.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"
 source: xml
-reviewed: 238b78d9cc4f3b504d55a36477d3d58b0ffd8685bdcc593850c16ec9e8f3ea53
+reviewed: 7150642f49d8aee90181c06ae16bb9a746357421dfe806e3d176effa926283c0
 title: "Constructor"
 kind: api
 owners: [Inno.Scripting.Compiler]

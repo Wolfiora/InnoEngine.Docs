@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.editor-script.37e8f5239868553c
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorHistoryResult"
 source: xml
-reviewed: c7f25d330601b442424986bddad632d056839798572877cd0cb23ffbf913fe3c
+reviewed: a69b2eed77ee2e0a9173decad84317c5f2c211f62f89ee74bece8833f87f788a
 title: "EditorHistoryResult"
 kind: api
 owners: [Inno.Editor.Interactions]

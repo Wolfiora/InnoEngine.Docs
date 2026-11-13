@@ -2,7 +2,7 @@
 uid: api.56861c788e0c0ffd0f063a3dd093b5a4ddd00163560bb1918c057569b0d6d1ca
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.TryGetLayer(System.String,InnoEngine.Scene.GameLayer@)"
 source: xml
-reviewed: c8d4e49995671b74c73e03bb3d055c3fcf0072186fec21e5d96d9411ec53afcf
+reviewed: 9a825f3276a046f85cc2fb2bdf54ec55074cc10f9b7e257d9ec56d119c1f9000
 title: "TryGetLayer"
 kind: api
 owners: [Inno.Scene]

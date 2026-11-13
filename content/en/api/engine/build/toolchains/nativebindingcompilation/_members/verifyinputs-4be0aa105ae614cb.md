@@ -2,7 +2,7 @@
 uid: api.4be0aa105ae614cbe4e06300736f714563de1cc21e550e471e403cb064056595
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.VerifyInputs(System.Func{System.String,System.String},System.Threading.CancellationToken)"
 source: xml
-reviewed: 288d7b209a3f66d2e45bf05adce04674ff404e78718e6436f53c5055d79dfc67
+reviewed: 26d5cdc07c26b567a8caf24462d24b1b35ef9e64bac0a85220182d15a4339816
 title: "VerifyInputs"
 kind: api
 owners: [Inno.Build.Toolchains]

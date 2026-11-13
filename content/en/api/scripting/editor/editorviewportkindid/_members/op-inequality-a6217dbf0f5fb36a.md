@@ -2,7 +2,7 @@
 uid: api.a6217dbf0f5fb36a640a4170c27cad840a7be463349218ccf7476bc1554de27a
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportKindId.op_Inequality(InnoEditor.Rendering.EditorViewportKindId,InnoEditor.Rendering.EditorViewportKindId)"
 source: xml
-reviewed: a7f723f7789c39c9995e876a9ba8fb96ee9dfb0c5cacbc44102f7286e493bce9
+reviewed: 5579d4d3403bdd79257803a33b0cc4bdcb54f490147016c8ed1bd00a6f3e33f6
 title: "op_Inequality"
 kind: api
 owners: [Inno.Editor.Rendering]

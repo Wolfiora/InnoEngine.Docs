@@ -2,7 +2,7 @@
 uid: api.4ba14e5e334b16cb38c8a8c12537b53d99486b7663ace2a1ca2da355d1e48b96
 symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderSourceBundle.Decode(System.ReadOnlySpan{System.Byte},System.String,Inno.Core.Serialization.SerializationRegistry,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
 source: xml
-reviewed: 4838426ec8aa7397132b721f261c7ab73ffbe5f094ca34edb2fc5ba9669a147e
+reviewed: 065809d93a24630aa58503ec5cf97c2af6c3b43a829bcc4290e05e703b57818c
 title: "Decode"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

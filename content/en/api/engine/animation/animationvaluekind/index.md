@@ -2,7 +2,7 @@
 uid: api.inno.animation.4432af756bdc8d39
 symbol: "engine:Inno.Animation:T:Inno.Animation.AnimationValueKind"
 source: xml
-reviewed: 97219e08d8e1cdb6c2d23f9286fe5acd0b533ef46a900a0c4978ccfe3c6bfb03
+reviewed: e3f0ca2e8833b3424f5f2c87c10d4abfb698a6fe7eda093bd39c9eb5658915a3
 title: "AnimationValueKind"
 kind: api
 owners: [Inno.Animation]

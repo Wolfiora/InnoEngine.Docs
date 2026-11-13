@@ -2,7 +2,7 @@
 uid: api.1ddb22daa2c44d92424be76157a4bbefac267a26f17a535e98ee855c60d603ce
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameSystem.OnDestroy"
 source: xml
-reviewed: ac1a9899832ad22f5f88c70d0124d3fa5de5fa4ca2ff5e0a0a749c92974f07c4
+reviewed: c69855f5975ce51128212b2ff228addded76b3ea48c8a20b3ac1d6e638b295dd
 title: "OnDestroy"
 kind: api
 owners: [Inno.Scene]

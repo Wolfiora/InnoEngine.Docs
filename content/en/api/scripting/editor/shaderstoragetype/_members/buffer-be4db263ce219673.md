@@ -2,7 +2,7 @@
 uid: api.be4db263ce21967328743bcd1d2b1de4622a217a1a62136fd897dc6723adcb2d
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderStorageType.Buffer(InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEngine.Rendering.RenderStorageAccess)"
 source: xml
-reviewed: 3440b8ea73d1ab63498d46c6e8a120cd02a55dd15036e755b684d6538cc30dc2
+reviewed: a41ecdb7b98020de0205724b515bb7e8206504d46cc84155a88e828925b3f91f
 title: "Buffer"
 kind: api
 owners: [Inno.Rendering.Shaders]

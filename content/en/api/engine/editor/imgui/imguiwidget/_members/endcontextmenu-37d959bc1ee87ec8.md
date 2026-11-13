@@ -2,7 +2,7 @@
 uid: api.37d959bc1ee87ec8837a594ea7ae54ed7fb118aa3e6bdda9ad34550f47a8a32e
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.EndContextMenu"
 source: xml
-reviewed: d773475bff04131213443e1d5ed8d59c85d6c36d9c0c51e5ff5c7a855cf3428c
+reviewed: abdd985bc095c0c0cdbfbcbf58fad47de203982acf9f06236ae6823e2b83e49e
 title: "EndContextMenu"
 kind: api
 owners: [Inno.Editor.ImGui]

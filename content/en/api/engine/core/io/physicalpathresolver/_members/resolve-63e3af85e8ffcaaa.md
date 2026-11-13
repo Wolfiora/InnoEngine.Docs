@@ -2,7 +2,7 @@
 uid: api.63e3af85e8ffcaaaa477fb174967e5489ba1b698e8cf6ee1f990dc1e6098716a
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.PhysicalPathResolver.Resolve(System.String)"
 source: xml
-reviewed: 049c2fce9fc54bc31b93631d090b18bc6c8a5791ba8c5a8c4514d2150d7172ea
+reviewed: 22241693eda6d3bcac90839b9ac3dac27de3c28ec1ab6051d49051f3a9b7b11d
 title: "Resolve"
 kind: api
 owners: [Inno.Core.IO]

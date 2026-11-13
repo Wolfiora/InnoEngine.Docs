@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.128abf55f08d9050
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceFile"
 source: xml
-reviewed: 58b5c39a10ce38de6c9876c8d3e1be0eed6786dc8cb2fbbd2aacd670f697fbcd
+reviewed: 388be288d65744096599194aa9030ee776cf59a56a97362dfe8a90cf9ddd3abc
 title: "ShaderSourceFile"
 kind: api
 owners: [Inno.Rendering.Shaders]

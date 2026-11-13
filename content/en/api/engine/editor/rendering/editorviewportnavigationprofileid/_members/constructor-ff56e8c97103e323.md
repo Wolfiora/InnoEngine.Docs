@@ -2,7 +2,7 @@
 uid: api.ff56e8c97103e3231ab6e45f5be54012fad085633f329e2427ed8907310be9a7
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportNavigationProfileId.#ctor(System.String)"
 source: xml
-reviewed: da547970db98fdb4054e3958c2b658b679ab833415de48c539615338e3409f35
+reviewed: deaaf120f581d7ff0086c4a37c528ef992bbe5a7fa3b21087386501754615627
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

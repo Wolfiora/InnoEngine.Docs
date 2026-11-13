@@ -2,7 +2,7 @@
 uid: api.a124de942d2c0ec09989a058ea7e1bac4a988b584a7efc5f6ecd1884b57dc222
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.RestoreComponent(Inno.Scene.GameObject,Inno.Extensibility.Types.TypeRef,System.Guid,System.Int32,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
 source: xml
-reviewed: 67a6818665bba78fbde89cbb75a69c97b32f9b80acbebc8e054d1e27db66957f
+reviewed: b4ba8de659ab3b6140980fedeeb0eb59461fbf895ee50acdadc6f74559c13259
 title: "RestoreComponent"
 kind: api
 owners: [Inno.Scene]

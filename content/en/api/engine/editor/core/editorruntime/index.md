@@ -2,7 +2,7 @@
 uid: api.inno.editor.core.6eb2823543f339af
 symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorRuntime"
 source: xml
-reviewed: b5e114bfb82f757b9f1f5c4389ad654522466f94f26ac723e7d73d2bc8e20a2d
+reviewed: a8e46b85c8c0e1a976ed4ae3884f0805f292a34deb3c560ebdc56ecf495ab3f2
 title: "EditorRuntime"
 kind: api
 owners: [Inno.Editor.Core]

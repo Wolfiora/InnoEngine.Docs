@@ -2,7 +2,7 @@
 uid: api.27d675a283016f436c3e1dd05bf89d0635dcaff2bc7c2954af872a80f0569dd9
 symbol: "engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginEnvironment.isInitialized"
 source: xml
-reviewed: 31015c5efb8cae6aad6ccf34e7e7fff186b0a19e378a5254343b2b9c58ac7175
+reviewed: 54f70ff267d5719da16e12efb6c76e47f02ce9e6ef90975b9d1c050d9225497c
 title: "isInitialized"
 kind: api
 owners: [Inno.Plugins.Authoring]

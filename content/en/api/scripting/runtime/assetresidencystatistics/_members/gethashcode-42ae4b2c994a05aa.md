@@ -2,7 +2,7 @@
 uid: api.42ae4b2c994a05aa6ee95b9ec4d033c6fffbf376f811758fcc37e495153fc7f4
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetResidencyStatistics.GetHashCode"
 source: xml
-reviewed: d57820433a3f71782d3ee07af8e82952807d089d8fdd1e0cca8c5351d7d8e8ef
+reviewed: 1b1a328ed5a6a6fb5c793fd213a071f31fbbc10bc3ab33c80dfe0a829dbe44a2
 title: "GetHashCode"
 kind: api
 owners: [Inno.Assets]

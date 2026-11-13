@@ -2,7 +2,7 @@
 uid: api.d89e15c6f0f727ad29b3bfa7a77f99f6cc7f7449af1f9b90bb4ffa66f050a703
 symbol: "engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginSourceLimits.maximumEmbeddedPluginCount"
 source: xml
-reviewed: 245909a1981b73728627f6785193bebeb5c1a34e34d1e15768326845526169ab
+reviewed: a299ff15508318b868940c4ef3210fab0596a17d9558fd1baa7f30ad8c3f9ece
 title: "maximumEmbeddedPluginCount"
 kind: api
 owners: [Inno.Plugins.Authoring]

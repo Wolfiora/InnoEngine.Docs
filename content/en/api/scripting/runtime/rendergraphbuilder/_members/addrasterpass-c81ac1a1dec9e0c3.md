@@ -2,7 +2,7 @@
 uid: api.c81ac1a1dec9e0c3b4f95fc798140b5987316b37c2204b1d949fe7f57f263282
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddRasterPass\u0060\u00601(System.String,InnoEngine.Rendering.RenderPhaseId,\u0060\u00600,InnoEngine.Rendering.RenderPassExecute{\u0060\u00600})"
 source: xml
-reviewed: b90f41b96b52e98f798da80c3d78fbdfde641deff1eef78d503769a828c5c66f
+reviewed: b1ef0246c516d8a304a8bfd07977e73c76b14b007be05795ecc683d4a5698f79
 title: "AddRasterPass"
 kind: api
 owners: [Inno.Rendering]

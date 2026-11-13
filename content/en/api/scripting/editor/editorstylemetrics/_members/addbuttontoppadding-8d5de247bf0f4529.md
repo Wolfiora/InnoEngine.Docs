@@ -2,7 +2,7 @@
 uid: api.8d5de247bf0f4529772ee60879392939cc1763b9dc371d42c082baaf47b9d1c1
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.addButtonTopPadding"
 source: xml
-reviewed: 0789b011290f941ba09564cb3f491dc53b65a0303ae2d70d98ac953cc7c6948e
+reviewed: 14f509a7a3aa9640ec8a57d5b804780ee8ef7cf53d6485909a284ddea7ce32ce
 title: "addButtonTopPadding"
 kind: api
 owners: [Inno.Editor.ImGui]

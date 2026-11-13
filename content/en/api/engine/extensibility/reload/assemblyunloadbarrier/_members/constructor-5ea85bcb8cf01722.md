@@ -2,7 +2,7 @@
 uid: api.5ea85bcb8cf0172262a5e08e284771f48500e1b5b3306898906b6fa28251315c
 symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.AssemblyUnloadBarrier.#ctor(System.Collections.Generic.IEnumerable{Inno.Extensibility.Reload.IAssemblyUnloadProbe},Inno.Extensibility.Reload.AssemblyUnloadBarrierOptions)"
 source: xml
-reviewed: c0dfe8488ee7038ff83d666485bbbd6e49b5a2a1e1b074d86ed7a6bb47ac631a
+reviewed: f45ba86e8a1ec8cc188f2e8dbf16960cbe4b81082ca0deaa390e44fca65fb1bb
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Reload]

@@ -2,7 +2,7 @@
 uid: api.inno.editor.scene.editor-script.462d9353427922c1
 symbol: "scripting:Inno.Editor.Scene:T:InnoEditor.Scene.SceneEdits"
 source: xml
-reviewed: 91cc9f02bf281fa10003ec826eb28a6132d77596fd0ef685e11a9267e3fcb015
+reviewed: 87b557f0668ce5e4cb96e59f7f02d669bb2450ec150594340081e76f957a8f3f
 title: "SceneEdits"
 kind: api
 owners: [Inno.Editor.Scene]

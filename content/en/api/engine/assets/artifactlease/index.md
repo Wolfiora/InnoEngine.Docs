@@ -2,7 +2,7 @@
 uid: api.inno.assets.c2652dab8f13f789
 symbol: "engine:Inno.Assets:T:Inno.Assets.ArtifactLease"
 source: xml
-reviewed: 29755f60f6154c336b7ca498260cc534fda8251aae40dc473bc362a4f67dcc8c
+reviewed: 68b48e34654553252b9e797f6344b7e6a3cb932186184dc4b71473cb87888dbd
 title: "ArtifactLease"
 kind: api
 owners: [Inno.Assets]

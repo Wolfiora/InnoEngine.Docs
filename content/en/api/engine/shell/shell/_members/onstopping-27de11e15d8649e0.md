@@ -2,7 +2,7 @@
 uid: api.27de11e15d8649e00b3f7c40f9a5173ee9f2eca1c6e126fe7104dbf4a04299fd
 symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.OnStopping"
 source: xml
-reviewed: ca250b7b04c6fdf224e86785f33e75e74a22e9470070bd575068b7b041bc4881
+reviewed: b202f261f7caa1c38eeae38d31421c532faed50c1454704cc444928f551b94b6
 title: "OnStopping"
 kind: api
 owners: [Inno.Shell]

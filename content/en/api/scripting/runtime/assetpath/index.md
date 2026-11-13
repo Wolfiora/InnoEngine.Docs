@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.d166ef2a6ae9cf38
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetPath"
 source: xml
-reviewed: cc9aba2dbbd57b0e32bc343dd6a8c10b2346e9c8d3d457a181366bb06b537625
+reviewed: cceca1aaf299af8536447e3da79f79428c66b3a4bc96f3c1dc5bab180d397e29
 title: "AssetPath"
 kind: api
 owners: [Inno.Assets]

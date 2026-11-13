@@ -2,7 +2,7 @@
 uid: api.7b07a95fe7d9ff82fac46e9117d6c0711377590d59517c4f7c80e0456e226622
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginMenuPopup(System.String)"
 source: xml
-reviewed: 40d17dd680d652b49324acf0a98d5c28f7534d4d1d3d69fecbdbe188154f827f
+reviewed: 0b609a29efb6fc6b5e7c43f6c90ce54320f4b17b2a37eb87fa155c2c2f633164
 title: "BeginMenuPopup"
 kind: api
 owners: [Inno.Editor.ImGui]

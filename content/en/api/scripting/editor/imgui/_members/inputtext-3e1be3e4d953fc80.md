@@ -2,7 +2,7 @@
 uid: api.3e1be3e4d953fc809dd191742ffa93c6b4203cfcaabebb1248e062f0ec2fb5f0
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputText(System.String,System.String@,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)"
 source: xml
-reviewed: 37dce3ee849e6e6504f4a518268e311ff229a7f4a5f09a83856ee2542202546d
+reviewed: b69f13d18b27a7ffccf883af83880526bd83282c235698ca12904538aacdd5a3
 title: "InputText"
 kind: api
 owners: [Inno.Editor.ImGui]

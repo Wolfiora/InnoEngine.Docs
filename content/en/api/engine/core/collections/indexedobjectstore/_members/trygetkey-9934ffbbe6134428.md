@@ -2,7 +2,7 @@
 uid: api.9934ffbbe61344286a60d522a865f97c424fab991eeaa7fffc73b9c057c675e7
 symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore\u00601.TryGetKey\u0060\u00601(System.String,Inno.Core.Collections.IndexedObjectKey{\u0060\u00600}@)"
 source: xml
-reviewed: a223b073c4bad60b0dca709dff5c4c3198297773e163405a564eab67501d8bdb
+reviewed: e8ceff844f32d35d6410e84aae9e9d8752af3ae2f03d0e8597b380228ec17860
 title: "TryGetKey"
 kind: api
 owners: [Inno.Core.Collections]

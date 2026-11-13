@@ -2,7 +2,7 @@
 uid: api.bed300b760ab62183a79def1b16eb404a9016d695e5f2cb116beeffbe96bd719
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionState.op_Equality(InnoEditor.Interactions.EditorActionState,InnoEditor.Interactions.EditorActionState)"
 source: xml
-reviewed: cb2bd6902140f59da35d946ac4de59f2c23ca7bbf1c4409d11543b1f0654e97f
+reviewed: 5b5ece244c61d259df1f5dcea15741cde34179555cbdd5a8b5ca0f3d44dd498f
 title: "op_Equality"
 kind: api
 owners: [Inno.Editor.Interactions]

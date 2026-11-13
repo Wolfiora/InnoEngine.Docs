@@ -2,7 +2,7 @@
 uid: api.b03c862e91bdab61a2cceb6cefdf14cecfd23c878e706cee45d69d1f85f2734d
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsStorage(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess)"
 source: xml
-reviewed: 27dfd722af6bda5708448f4b82efc1a4e43aaa3f6283147830d14296c32b961d
+reviewed: c7c39372253aba4ce19076c0304c3432949f70b040d21227759f3a639f81d9c5
 title: "SupportsStorage"
 kind: api
 owners: [Inno.Rendering]

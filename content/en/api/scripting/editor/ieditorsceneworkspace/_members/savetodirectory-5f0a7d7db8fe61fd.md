@@ -2,7 +2,7 @@
 uid: api.5f0a7d7db8fe61fde50f9ad6075d87223d6a8b6256e755b2e1aa6ce4d11c8770
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.SaveToDirectory(InnoEngine.Scene.GameScene,System.String)"
 source: xml
-reviewed: 1e5514b6898491ef60478fd5fbafa15d4a8279c10582a7e9d88c3df64545a9dc
+reviewed: ddce59cb8118ae3aa4031557cbc6a983662940fd49ea6935a2d311db0eb86d2f
 title: "SaveToDirectory"
 kind: api
 owners: [Inno.Editor.Scene]

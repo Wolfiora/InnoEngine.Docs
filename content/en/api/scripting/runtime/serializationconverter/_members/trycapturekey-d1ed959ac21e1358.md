@@ -2,7 +2,7 @@
 uid: api.d1ed959ac21e135820d842295bfb76f7a6a757dd9a6e0e93ea6ac10beeb3e063
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationConverter\u00601.TryCaptureKey(\u00600,InnoEngine.Serialization.SerializationCaptureKeyBuilder)"
 source: xml
-reviewed: 97ac1297c148f739ba2546aed9b6e6f80ec72690113cf2ea101416033f44268b
+reviewed: 3d23369050364cc99c7ac76e26a5c5c7d89bd15dde1ae1455fe04645d9e63b08
 title: "TryCaptureKey"
 kind: api
 owners: [Inno.Core.Serialization]

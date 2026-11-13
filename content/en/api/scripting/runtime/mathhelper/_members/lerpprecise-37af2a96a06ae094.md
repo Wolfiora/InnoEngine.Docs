@@ -2,7 +2,7 @@
 uid: api.37af2a96a06ae094391e34a19ebeb7ef3e8f4f571dda592ab030d08610a74185
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.LerpPrecise(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: 0607980cb66feb6151e75382a11df44a87b211a7d62b73195885b7316eb25bbf
+reviewed: 98a12564337b507073ff715bbdad3816cff446c9abc014f793c931412bdf4001
 title: "LerpPrecise"
 kind: api
 owners: [Inno.Core.Mathematics]

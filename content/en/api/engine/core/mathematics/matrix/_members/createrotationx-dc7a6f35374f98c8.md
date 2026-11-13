@@ -2,7 +2,7 @@
 uid: api.dc7a6f35374f98c86d44010b57941dc1cdfae314100824502598ffb1ce2b8ed1
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateRotationX(System.Single)"
 source: xml
-reviewed: 5fbd9ed05dc4c439831bb642a83f11ea12b5c3a6733797dbec9d0917233a3411
+reviewed: feb8d55fc0a86b791ef7afd6789c77809482401429c6a82f4b096a96fd9e38ad
 title: "CreateRotationX"
 kind: api
 owners: [Inno.Core.Mathematics]

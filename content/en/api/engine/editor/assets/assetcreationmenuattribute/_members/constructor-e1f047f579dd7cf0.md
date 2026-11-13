@@ -2,7 +2,7 @@
 uid: api.e1f047f579dd7cf01e1e12ca0ace29f67b431ade0a7e6e3ff33e4638c75c013f
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationMenuAttribute.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Boolean)"
 source: xml
-reviewed: 9b286fde25db7813b2e73d6908657c99491559ff9691185d696e2443fd32a30f
+reviewed: 4e335bd1fa9cc412a15a6b47ef22a3caf87423538226c1831e4d3757c432fbf1
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Assets]

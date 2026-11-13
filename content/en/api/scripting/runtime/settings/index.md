@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.runtime-script.03801f8d3af31d98
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.Settings"
 source: xml
-reviewed: faf3732d56a3854ce4cce3a06670fe754acf7b44758145ee20eae44059f60029
+reviewed: 0658d8ff160bcad86e7fefc5bf1f4b36f249b70346fe6e78b389e78991c60d73
 title: "Settings"
 kind: api
 owners: [Inno.Core.Settings]

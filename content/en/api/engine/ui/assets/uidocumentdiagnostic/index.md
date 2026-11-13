@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.40e6e893c3c97988
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentDiagnostic"
 source: xml
-reviewed: 3152f210ae11e2a894e9428aac6d06d45254c5872682419a9375fa0042b76e84
+reviewed: 99db53277e293dca8da616176bbb5aa6d40f7d40f27417f1402db6ac20a0dbe9
 title: "UiDocumentDiagnostic"
 kind: api
 owners: [Inno.UI.Assets]

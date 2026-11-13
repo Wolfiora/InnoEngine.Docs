@@ -2,7 +2,7 @@
 uid: api.1b45b253279b1a15e2356d48c4c8f16797bea26326cfb1262d5630e4326cbe3d
 symbol: "engine:Inno.Build:P:Inno.Build.BuildProfile.persistentDataPath"
 source: xml
-reviewed: b18db6b3e3860c7347143407148264a186cc6993382b571387bed33ed666ec66
+reviewed: 7c7398d04c5b7f4b97d3b33bbc82361969910572bf75ec368a2d61e52a700a8f
 title: "persistentDataPath"
 kind: api
 owners: [Inno.Build]

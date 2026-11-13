@@ -2,7 +2,7 @@
 uid: api.dc8c972a6b11a28b6903872b45e28905432e58a590cc47bae96673245b9d72cc
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.ElideLeft"
 source: xml
-reviewed: feef4daf66d24af6b5a959045e3c2508092c25676aa25b1db03c75011cced465
+reviewed: 45aa84002563a419be3f04aca15db4132d0f4345ed51638c7b04b5fa2f3658bb
 title: "ElideLeft"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.246da9fb47278ad4007d9eb63caff950d1bde41cbebd526b2354fec4ae498acd
 symbol: "engine:Inno.UI:M:Inno.UI.UiContextHandle.#ctor(System.UInt64)"
 source: xml
-reviewed: 37c573958bb1bf845b3f3719b7ef3b22517181d6180d8a32ee63fa923cc5685b
+reviewed: cc4753d4d86fba5fe4765693bf5163c359fd51182c8f5861f9bf2ca943aef971
 title: "Constructor"
 kind: api
 owners: [Inno.UI]

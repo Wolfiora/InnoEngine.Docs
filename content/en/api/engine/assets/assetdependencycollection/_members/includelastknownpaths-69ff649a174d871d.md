@@ -2,7 +2,7 @@
 uid: api.69ff649a174d871d3dafc52edffc88f35d226fe9ce31c297197c9efbd8692776
 symbol: "engine:Inno.Assets:P:Inno.Assets.AssetDependencyCollection.includeLastKnownPaths"
 source: xml
-reviewed: ee31c2bdaa5750fc7c8ed9c211c615f966c5bf7831ed541b1e45bb84c56ef1f2
+reviewed: 0211da3c9efa46c659404aadd42f89da1b80064ed66f04472880906297970fd3
 title: "includeLastKnownPaths"
 kind: api
 owners: [Inno.Assets]

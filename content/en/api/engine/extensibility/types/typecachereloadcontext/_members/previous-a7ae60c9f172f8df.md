@@ -2,7 +2,7 @@
 uid: api.a7ae60c9f172f8dfbd0a6d343515d9bea144f67216f51d8d0728ef68adbe0be0
 symbol: "engine:Inno.Extensibility.Types:P:Inno.Extensibility.Types.TypeCacheReloadContext.previous"
 source: xml
-reviewed: bca9ca691fa2b7c175ac344cb759210d19b23996e4108d4ca7c158218d44eae4
+reviewed: 16c7030e47bead4c7bc549eb5dc75822d6f8f65e84e52c1c529fd3af94c02f78
 title: "previous"
 kind: api
 owners: [Inno.Extensibility.Types]

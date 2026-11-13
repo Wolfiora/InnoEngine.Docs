@@ -2,7 +2,7 @@
 uid: api.7fb353f5161df0183b4547e3ef10e4cbee8755417a0b0a546dd9463cbcc24586
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildPhaseStatistics.GetHashCode"
 source: xml
-reviewed: 38b7456e23bc0a7a77c96576d029c8d132ad5ec8b06e7e1c281fd7b435ffc614
+reviewed: 2dbea73a93f1955d350c5f37876c6f965d14aecb9d94bf556294569dc5683b29
 title: "GetHashCode"
 kind: api
 owners: [Inno.Build.Toolchains]

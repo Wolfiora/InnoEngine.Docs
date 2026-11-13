@@ -2,7 +2,7 @@
 uid: api.17c44a2fd9cada237ee2e0bfacd62a242073689c8acae5c375ed27dfb10bd94b
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioVoiceParameters.pitch"
 source: xml
-reviewed: 47fe35027f7951a4c1339b536f68777cf4f57494f2fca3d3a1be910a707fb134
+reviewed: a22a9b5d9ec6d97aa06e472191ce84ab1f3b4ed920ce7a7ea358a866384eaceb
 title: "pitch"
 kind: api
 owners: [Inno.Audio]

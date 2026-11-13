@@ -2,7 +2,7 @@
 uid: api.8b0ccc798a3d16aed9ffda48c889cdb6379feccdd947254385a50483dd7d5a63
 symbol: "engine:Inno.Content:M:Inno.Content.ContentPackIndex.#ctor(System.Collections.Generic.IEnumerable{Inno.Content.ContentEntry})"
 source: xml
-reviewed: e481618a804eb764029298d66fe7b91c117bf8a2a3dfe357918ef05b6ae28af2
+reviewed: 35ffa724a793954ac3365cb516450f2651e7255eef3a503aa50c998251465711
 title: "Constructor"
 kind: api
 owners: [Inno.Content]

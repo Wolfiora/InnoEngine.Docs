@@ -2,7 +2,7 @@
 uid: api.096bea5290020f7f08e305863a6a6d114a7da5ded723d2aad9d59c4b52e673e7
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetMouseDragDelta(Inno.Editor.ImGui.ImGuiMouseButton,System.Single)"
 source: xml
-reviewed: ee4db58c5e27e053a43b680a4b3c91cb0d5edb15cd353980d9083322f03e42bb
+reviewed: 5b95bb156deeb1c173736f463dd549ed526e2e50dbd071fe3a44528bd565c7ac
 title: "GetMouseDragDelta"
 kind: api
 owners: [Inno.Editor.ImGui]

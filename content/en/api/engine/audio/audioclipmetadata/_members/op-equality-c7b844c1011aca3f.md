@@ -2,7 +2,7 @@
 uid: api.c7b844c1011aca3f73fd86551cab25acb368ba4d22324e8b94d793dbedcc7c2d
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioClipMetadata.op_Equality(Inno.Audio.AudioClipMetadata,Inno.Audio.AudioClipMetadata)"
 source: xml
-reviewed: 3309da457a1233b64273defa23ce779c8501979c99c974b2980cfc126a5ce68a
+reviewed: 1e7d5a69e1808a9e97a97a7d3c3b1667451a34bd19123b12327152993dda3f1b
 title: "op_Equality"
 kind: api
 owners: [Inno.Audio]

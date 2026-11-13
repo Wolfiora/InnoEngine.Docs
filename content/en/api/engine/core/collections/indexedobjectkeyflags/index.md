@@ -2,7 +2,7 @@
 uid: api.inno.core.collections.57df28ccadb834dd
 symbol: "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKeyFlags"
 source: xml
-reviewed: 588f8314a1817dcd642d63425cc1dc5ab86fb655fab85fd1465c78528788103f
+reviewed: e5f089bd1aae4473fd0f88e82d8f313cda8116d4c4727514226d5bad0dbb5d4e
 title: "IndexedObjectKeyFlags"
 kind: api
 owners: [Inno.Core.Collections]

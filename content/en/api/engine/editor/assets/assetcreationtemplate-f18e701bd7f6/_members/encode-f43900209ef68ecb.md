@@ -2,7 +2,7 @@
 uid: api.f43900209ef68ecbcb552aebe1e299f130ea44faaec0d19359f953dd59077cf9
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationTemplate.Encode(Inno.Editor.Assets.AssetCreationContext,Inno.Assets.AssetObject)"
 source: xml
-reviewed: 5a67d21b77a6570e5bbd89503e92d74e9fa365d3c6edac6255447e85d4ba3d0c
+reviewed: f23df3b9db6db0a8efe43daca5446d5ee7412d821c18ab268f1f27f124ef066b
 title: "Encode"
 kind: api
 owners: [Inno.Editor.Assets]

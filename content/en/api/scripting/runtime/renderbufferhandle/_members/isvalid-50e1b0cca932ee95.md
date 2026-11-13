@@ -2,7 +2,7 @@
 uid: api.50e1b0cca932ee95bd89c6a2899c6226927589e20b534d6adae5143f27856b7d
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferHandle.isValid"
 source: xml
-reviewed: d5f98e5d04faa512d2e0af1220b6cc509013a12ce5741a6abed6a51a97654b7e
+reviewed: e53ce42e425fd577f346f3d0953bbf5b01851df43806596d9c9c77eab312bd83
 title: "isValid"
 kind: api
 owners: [Inno.Rendering]

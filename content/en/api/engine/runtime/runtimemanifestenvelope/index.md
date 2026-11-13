@@ -2,7 +2,7 @@
 uid: api.inno.runtime.89d8314626c3a524
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeManifestEnvelope"
 source: xml
-reviewed: 5dda911632c8d390b89c6a4e64885fce1210e87e8f9433cbc42909327133b22b
+reviewed: 45b86587eaaa59193401167a475c957c2a445939263d08eb64c8f485dd2b79b0
 title: "RuntimeManifestEnvelope"
 kind: api
 owners: [Inno.Runtime]

@@ -2,7 +2,7 @@
 uid: api.96d90fb9e6be7efcf3fbb4a3a5a6ce873ed1c556e1946e0ad0a6c901a480c2e5
 symbol: "engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportProgress.#ctor(System.Int64,System.Nullable{System.Single},System.String,System.String,System.Boolean,System.Boolean)"
 source: xml
-reviewed: b30486aa409c61ffd1563fb569a04181a31a07ed45887402ddaa158626ad37ef
+reviewed: 615d0115d27cc15d0ed22ad2224589e5b461dfc6b625955e98dc5517475db0a4
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Exporting]

@@ -2,7 +2,7 @@
 uid: api.2fc0b092a1a00476c1ca6be0cbd35009d13b27627aeee1fce18b5b0e73f18b38
 symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.PopLayer(Inno.Core.Layers.Layer)"
 source: xml
-reviewed: a0138fa95d0ec0d1867fb3f3046c41d7f207ae3be032fff3242da421a9de123a
+reviewed: 14c628f5a98dc94970abe65d4f86cdb6daeac0c01813cdb33c6be8d5b9b60668
 title: "PopLayer"
 kind: api
 owners: [Inno.Core.Layers]

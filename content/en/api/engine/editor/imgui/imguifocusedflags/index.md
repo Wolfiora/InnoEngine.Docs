@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.6409672600fbcc77
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiFocusedFlags"
 source: xml
-reviewed: 254cb707c9c34900dced9790922473d5751e4c5911c440bc24e409c79789c011
+reviewed: 909a5fc4f6fdeed068ffd4f1292bcd9f11f03c6863d3230b40088fe7ec4c74da
 title: "ImGuiFocusedFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

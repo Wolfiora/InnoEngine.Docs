@@ -2,7 +2,7 @@
 uid: api.afcbc731fa11fcec2fec39fb71e8c1c1f7cfb0e20f2ed5e363546f5525d8b983
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializedIdentityRemapper.Rewrite(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyDictionary{System.Guid,System.Guid},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
 source: xml
-reviewed: b41cf9b7263262c49942af90ce508442503e6a6c98890d36b127e89a1f944762
+reviewed: ba1a8f4932ced686d2bdd246ea29f290ee84caa88dd2ed46ad815bc42cdb3ac6
 title: "Rewrite"
 kind: api
 owners: [Inno.Core.Serialization]

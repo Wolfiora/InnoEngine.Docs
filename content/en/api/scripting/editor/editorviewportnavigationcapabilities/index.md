@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.editor-script.03e9aba539b0821a
 symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportNavigationCapabilities"
 source: xml
-reviewed: 32450ce909cc8bcfb59f8bf756bb3b92b27f8a0e4c2a7e518a03b8af643c70ac
+reviewed: 8989798b4f7926bd35997247cddebce957f734217abdbb9380a478f0bee1a1e1
 title: "EditorViewportNavigationCapabilities"
 kind: api
 owners: [Inno.Editor.Rendering]

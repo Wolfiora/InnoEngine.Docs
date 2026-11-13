@@ -2,7 +2,7 @@
 uid: api.591cab14159db5f46f8883272741fa8f10e46deffce650d424b5be253af2ee01
 symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Sample(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)"
 source: xml
-reviewed: de703a3c3287ce832cd8bfa5721e3c2e06536cb5da31d6bc28bf428a381d318c
+reviewed: e05ef6e444c8895e7d81e2ec98283636c6b55c83a3e033bd26f4d88bc7bfd9b1
 title: "Sample"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.848030043faff8a2bfd4e73d90f5614972c35af3cfcfe7843e0793f700539f0d
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_Equality(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
 source: xml
-reviewed: 7568f895d0ebe95d1d1cd38bfa9311052ed0a60378f25fd5ed497f07d3e80afa
+reviewed: f88d468f9ab0066ccaebd541fbcb2aacae6a11e8d13b847dc969e971fa4f8124
 title: "op_Equality"
 kind: api
 owners: [Inno.Core.Mathematics]

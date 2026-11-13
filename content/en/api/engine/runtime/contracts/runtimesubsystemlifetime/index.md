@@ -2,7 +2,7 @@
 uid: api.inno.runtime.contracts.f0a68402e97dcfce
 symbol: "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemLifetime"
 source: xml
-reviewed: db886254ac61d8b6a58219bf530e364e84ff7b1d65412d16b13c6224ce0ce272
+reviewed: 4dae11fe2fd7da29b01246e3552d934d299566f2650cae5910cabbf831a7fe2e
 title: "RuntimeSubsystemLifetime"
 kind: api
 owners: [Inno.Runtime.Contracts]

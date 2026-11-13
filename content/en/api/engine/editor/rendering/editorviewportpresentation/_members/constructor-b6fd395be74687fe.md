@@ -2,7 +2,7 @@
 uid: api.b6fd395be74687fe1be2493957c26eb4b854a03275731a8727c1630c12e1abe2
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportPresentation.#ctor(Inno.Core.Mathematics.Color,System.Single)"
 source: xml
-reviewed: 1896849d761ebcd1114c1d8c4e3c1942e4bf5f15427e4583a7c70d67ef29c666
+reviewed: 2b7f281eb19c239e534a5b01da12a57f8d9c6560bb58adea02f0182c70766272
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Rendering]

@@ -2,7 +2,7 @@
 uid: api.be37ab753eb745fb00f056cf26ffaaa7943cdaf67545e0755df9d739bcca2f99
 symbol: "engine:Inno.Platform:P:Inno.Platform.PlatformWindowOptions.width"
 source: xml
-reviewed: b16034e1c5a62d5d206817cda5987787424c7977dd75d9658ccb0787b4d04017
+reviewed: 4f63fdfce02fc0b640827f22b878d3b2a04ecb0c4ee1faf3fabfcf1d4ce2294e
 title: "width"
 kind: api
 owners: [Inno.Platform]

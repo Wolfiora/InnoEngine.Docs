@@ -2,7 +2,7 @@
 uid: api.c0347d40a7ebcc51a42e96185e0a555483d05cda82a7f23c30599dc9cbd2f23a
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderContractId.Equals(System.Object)"
 source: xml
-reviewed: a6756ee42b8ae9a2e581be563d2e0d8be6b7e34849d67785d87a8de3366668f0
+reviewed: 64fe1ab65776c4c51c24e3e1b862cbdb42667474765bcfa705c1e8a356ddc4f9
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Assets]

@@ -2,7 +2,7 @@
 uid: api.ebea728102f3c0acd5932c8749252e9bfdebf2804007ef9d177871b9ddcc59b0
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.WidthMask"
 source: xml
-reviewed: ef669fb85c2648981f4f936105c1253baf7b3ad9ea9d6e32a1790bc5ac0d43fe
+reviewed: 8899ef72683468e2c6696eb371c3847ca2f88b0728eb9c8ae553d100d6be1969
 title: "WidthMask"
 kind: api
 owners: [Inno.Editor.ImGui]

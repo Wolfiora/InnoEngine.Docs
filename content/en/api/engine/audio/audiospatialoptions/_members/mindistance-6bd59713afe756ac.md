@@ -2,7 +2,7 @@
 uid: api.6bd59713afe756ac560f5089766ad7998864fd9966fb006ee3fee10998ec75c1
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioSpatialOptions.minDistance"
 source: xml
-reviewed: ff55f2239b544cca9863fda65b6f9f838cb14b5bab4cbca72ec963a62efc485e
+reviewed: c2497b0da1b55576b082b658cc9b65c574495e9a5ca635763dbf5dddf1ad5b8e
 title: "minDistance"
 kind: api
 owners: [Inno.Audio]

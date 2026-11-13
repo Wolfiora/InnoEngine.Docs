@@ -2,7 +2,7 @@
 uid: api.7c7ddfea70beadf7b988fc02d238002bf31ed502bd5ba6ccbcec25162d0dcc9f
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsPipelineDescriptor.fragmentShader"
 source: xml
-reviewed: ad0f1eb8ba1d60cfb82e9ceae37cb2c789c80c619844624a97aae2dbb8a3478d
+reviewed: ac324a51c01c96c49a42f66cfc67a252de01a0bb82270b8313317fe291a548d6
 title: "fragmentShader"
 kind: api
 owners: [Inno.Rendering]

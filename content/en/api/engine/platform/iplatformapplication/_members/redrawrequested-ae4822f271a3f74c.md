@@ -2,7 +2,7 @@
 uid: api.ae4822f271a3f74c4aedf6af340c9abbf60ed2d04413f22b26425f59caf7fecf
 symbol: "engine:Inno.Platform:E:Inno.Platform.IPlatformApplication.redrawRequested"
 source: xml
-reviewed: d0816d317f3d1caacf27138055f6adcb7c4e48a438cc2f56058cf53f9178274d
+reviewed: be91a8fb675375c3d565069aab19cd81dcd08cf46dae07e6f2809ad00c32c09d
 title: "redrawRequested"
 kind: api
 owners: [Inno.Platform]

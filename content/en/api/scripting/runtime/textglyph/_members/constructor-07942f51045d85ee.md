@@ -2,7 +2,7 @@
 uid: api.07942f51045d85eeb006226c43576d9aafd19145bb334560dc7bb5b8ee7d0643
 symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.#ctor(System.UInt32,System.UInt32,System.Single,System.Single,System.Single,System.Single)"
 source: xml
-reviewed: e583d6f774ad801e6cb72d82f0c26ac8d4f3742184a0a2b0c29c6d12f6823db4
+reviewed: 58c9aad450d5dc03d999a618c48c6a8c5ce497f5851639777d46c3374abd90f9
 title: "Constructor"
 kind: api
 owners: [Inno.Text]

@@ -2,7 +2,7 @@
 uid: api.inno.scripting.api.b0f62bcb7c3ca29f
 symbol: "engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingApiScope"
 source: xml
-reviewed: 0bd8314b2751c80535145d5cd07f22e4494be9d7fca8027033676cab09e79f94
+reviewed: b34ecba19c0f812b1a3572fce2f3187bb72b2d7491fc1b5b474ceccedbd0a91b
 title: "ScriptingApiScope"
 kind: api
 owners: [Inno.Scripting.Api]

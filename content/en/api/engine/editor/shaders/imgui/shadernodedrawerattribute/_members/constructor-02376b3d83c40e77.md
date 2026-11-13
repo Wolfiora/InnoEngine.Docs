@@ -2,7 +2,7 @@
 uid: api.02376b3d83c40e77244f8473c2e0173038e3844ea9c7633c44b5776d983b0a6a
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerAttribute.#ctor(System.String,System.String,System.String,System.Int32,System.Boolean)"
 source: xml
-reviewed: 3bf1b483df2069fc758b64423202a885c79295413845b85e74509f5ef2042b1e
+reviewed: 47d5455f58271b3dcaec7f774757b494e203957f8171dd609c1c4d145ed985bd
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.rendering.ca0705af48c16077
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.PersistentTextureHandle"
 source: xml
-reviewed: 149463da08a725b80ece3faae0e2ca2e4087a3b83fb57efc0a2c7cd2af23e31b
+reviewed: 5cfc6bb45f6f77e1f7040a7c53d9cd15896124dd0dd6399374cb6ae6659ecba7
 title: "PersistentTextureHandle"
 kind: api
 owners: [Inno.Rendering]

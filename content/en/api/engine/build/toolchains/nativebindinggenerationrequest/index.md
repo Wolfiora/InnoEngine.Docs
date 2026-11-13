@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.bcd0488cf71ef0c8
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingGenerationRequest"
 source: xml
-reviewed: b96aa93bb4b7467b92f4d39d741c34f46ffce159c86dbf2b6ff1cc7c9c9feaf5
+reviewed: 778b6d565569d505f0f92a3dafd4ebf258d37f7465ebb1b752712a4f0e1aecb9
 title: "NativeBindingGenerationRequest"
 kind: api
 owners: [Inno.Build.Toolchains]

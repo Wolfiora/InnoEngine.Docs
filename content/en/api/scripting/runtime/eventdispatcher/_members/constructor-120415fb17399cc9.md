@@ -2,7 +2,7 @@
 uid: api.120415fb17399cc9bde6ad9457966bb4ab4a38e4f773fd06e6d88f94c54ea125
 symbol: "scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.#ctor(System.Int32,System.Int32)"
 source: xml
-reviewed: 42dd4a9d74519c64d8c30c3765712b0db0b77ad7faba380b3bcf3d623798e0a9
+reviewed: 60149e35c106e6aa5238397877de87fbcc1a3d425d78295f16742db37872f2d4
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Events]

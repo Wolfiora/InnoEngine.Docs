@@ -2,7 +2,7 @@
 uid: api.7f6b5a46252b211a82ffb7198031162a22ce8e0b9fc517b0c370148fe147a0a0
 symbol: "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.supportsScheduledPlayback"
 source: xml
-reviewed: 075eed4955c8ecc5fdbd8bd191ee9080c6e02b6a44dd0fbf7a50e6747aa0e6f3
+reviewed: 43ec6acc16fbbf6fcf6a01864342610e0e56163277411e492794987412ae1cfd
 title: "supportsScheduledPlayback"
 kind: api
 owners: [Inno.Audio]

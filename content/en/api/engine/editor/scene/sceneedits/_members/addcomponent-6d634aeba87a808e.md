@@ -2,7 +2,7 @@
 uid: api.6d634aeba87a808e59d7a09c873d654fe93a4e316290ebc21e62bf17580929ce
 symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddComponent(Inno.Scene.GameObject,System.Type,System.String)"
 source: xml
-reviewed: ff80bd2f867dc432ae595d5dff03868473fed38770e74a72bbc6c95de78eead3
+reviewed: f66b46d32dae111089254ecfa08ee19dc2a96346f962d493ff777631204f67af
 title: "AddComponent"
 kind: api
 owners: [Inno.Editor.Scene]

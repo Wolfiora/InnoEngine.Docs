@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.modules.8e422304490c709d
 symbol: "engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.AssemblyCatalogSnapshot"
 source: xml
-reviewed: d5e8eaab68f11eb815106cf8598dceee4743080775a83a1cbe56fda867d3ee89
+reviewed: 6b6486b1da558b642d403b42a8d800ae7426ab59c4ec72764711c7fcaa5eaa7b
 title: "AssemblyCatalogSnapshot"
 kind: api
 owners: [Inno.Extensibility.Modules]

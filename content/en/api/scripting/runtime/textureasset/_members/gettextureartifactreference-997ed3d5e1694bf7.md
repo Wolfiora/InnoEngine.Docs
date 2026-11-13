@@ -2,7 +2,7 @@
 uid: api.997ed3d5e1694bf7afa0e9510d007aecdf5534b023d89005f117abc5e246e835
 symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.TextureAsset.GetTextureArtifactReference"
 source: xml
-reviewed: 5c26d43d1530d52928181ed13046ddf8d8b71f3439f64835028942194febf960
+reviewed: b415a3ab61f475f086567ade15dad52727557b249884ded855ee0682da488747
 title: "GetTextureArtifactReference"
 kind: api
 owners: [Inno.Rendering.Assets]

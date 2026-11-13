@@ -2,7 +2,7 @@
 uid: api.0d5a082d37cd25f7e0dbc025142fe181937e241828c56a7815c3bfbc6fc7ea82
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PropertyRow(System.String,System.Action,System.Action)"
 source: xml
-reviewed: 0188441e99924f8be385312da07db1520b08119d92d4435d016336a11ed12957
+reviewed: 881ddeec989390deb2be8ad984428f470d1749d3b7207cf21b6d45aeeb03ac97
 title: "PropertyRow"
 kind: api
 owners: [Inno.Editor.ImGui]

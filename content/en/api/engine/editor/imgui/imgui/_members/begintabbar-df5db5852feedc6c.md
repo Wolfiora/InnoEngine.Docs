@@ -2,7 +2,7 @@
 uid: api.df5db5852feedc6ce6cd8e0bb185ccb1a5b56739449686cf352b1adad3f46d51
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.BeginTabBar(System.String,Inno.Editor.ImGui.ImGuiTabBarFlags)"
 source: xml
-reviewed: 3eb1e53af4a35f037e8c907ed4b279366eb38ed8cdaf62c9789da5a73984f857
+reviewed: 87a4a178ed16143a1fa4a5d351efc763503284a3ea6df1eb042e8b0d324663d5
 title: "BeginTabBar"
 kind: api
 owners: [Inno.Editor.ImGui]

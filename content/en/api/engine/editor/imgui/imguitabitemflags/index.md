@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.eb9fcfedc7831bfc
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTabItemFlags"
 source: xml
-reviewed: f9f7e18f98902f28c55cc66c3f12313a2968c63dc8c968f62c42342c7c0628f2
+reviewed: 3ef877c4f898570c527aeecc44b2e31f9bead27349268659766f9ac573b59362
 title: "ImGuiTabItemFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

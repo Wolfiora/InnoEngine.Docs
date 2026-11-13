@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.authoring.8c37c1b583129edb
 symbol: "engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.CompiledShaderPass"
 source: xml
-reviewed: 64dbe91490fa87ff4fcbe33ff2d50418a251cafa6f8aee4bce95e59151e882f4
+reviewed: c821e6bd5ee55f1a40ebbe02a71606c01ff31141755a93c2a0acc56931f63f52
 title: "CompiledShaderPass"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

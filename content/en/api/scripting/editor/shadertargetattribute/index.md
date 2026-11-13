@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.editor-script.b0315fa1ca1daf42
 symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderTargetAttribute"
 source: xml
-reviewed: ab8a8914a67eb0db902faae0a61ec6fa892e8699074cbad42ee82f20d275c10a
+reviewed: 0bea7ed8bac13df433dea37cd72bd210b4e71bbb812a704c2397ed4616dee7fb
 title: "ShaderTargetAttribute"
 kind: api
 owners: [Inno.Rendering.Shaders]

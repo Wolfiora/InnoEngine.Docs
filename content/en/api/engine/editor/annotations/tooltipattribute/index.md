@@ -2,7 +2,7 @@
 uid: api.inno.editor.annotations.08195c185416d2cf
 symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.TooltipAttribute"
 source: xml
-reviewed: 541d620f77aa63b570fb63d5e4100fc491ae594d88d623b65fb2c242d69f373f
+reviewed: 1d933da2b84d0b05b8d492ca3ec5d210cb240307cc7505cebca5c261f19a28c5
 title: "TooltipAttribute"
 kind: api
 owners: [Inno.Editor.Annotations]

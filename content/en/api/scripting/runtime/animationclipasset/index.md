@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.16b2de794451a82c
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationClipAsset"
 source: xml
-reviewed: b77dfc963aa887d64d8dc5f4de06debddc2f556d36bd60a8c7efef8d3e90cdce
+reviewed: a0eaaa1e9fba98b14a174d38e45efcb3ffa799035a9d6fb232d7e5067e6224af
 title: "AnimationClipAsset"
 kind: api
 owners: [Inno.Animation]

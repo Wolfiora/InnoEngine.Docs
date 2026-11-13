@@ -2,7 +2,7 @@
 uid: api.ce4c56af21eb6d251aab6556fe169fe1747283eae02154fe664654addc979084
 symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.MathHelper.C_TOLERANCE"
 source: xml
-reviewed: 75d835bebb7d80a6d1415745104d8ba9b8ad66deec50dd3e805840fa60775fd2
+reviewed: ffd9f422701a2d8d620c0de59272b4f5f49fd5a401fb520158e56ee5d80cc316
 title: "C_TOLERANCE"
 kind: api
 owners: [Inno.Core.Mathematics]

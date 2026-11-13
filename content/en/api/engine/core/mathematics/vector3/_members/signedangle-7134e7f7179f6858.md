@@ -2,7 +2,7 @@
 uid: api.7134e7f7179f685890c7349ac367ca77f50d4c8ad58bd60c0c809d29027169c7
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.SignedAngle(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
 source: xml
-reviewed: 47c47f5fc168b41fa9037363b7d1edff2be16ed51a09c6b038c69054a3d94cc5
+reviewed: 8c87218a27810d66ea8c00084350490c3cb9f4ddf62630b350ebacda12fa24c7
 title: "SignedAngle"
 kind: api
 owners: [Inno.Core.Mathematics]

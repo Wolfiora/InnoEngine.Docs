@@ -2,7 +2,7 @@
 uid: api.210d03edda27d8b5279ceac0441502faf38a5e7c34bcafd13ae2a713fe41e3d2
 symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystem.BeforeRender(Inno.Runtime.Contracts.RuntimeFrame)"
 source: xml
-reviewed: e0d87c673488d7350931b4c09386585158fe28cd1c6ee30d812b89422f06b0dc
+reviewed: c63ef53078f4a60dd4ba75c36b2db9f9b487862b3ab6b3c8dbfd6f342dd847a8
 title: "BeforeRender"
 kind: api
 owners: [Inno.Runtime.Contracts]

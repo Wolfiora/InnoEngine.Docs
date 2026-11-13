@@ -2,7 +2,7 @@
 uid: api.bde901ff5e00dc691450a0bac37f3aa6725ed21d708f96d572ccfc8721abff0d
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.DisposeExtensions(System.Collections.Generic.IEnumerable{System.Object})"
 source: xml
-reviewed: d3ed0802204630b698b81e7368ddc5011ff1e395c8763ca2846e4880f2a27c02
+reviewed: b4c072417b2cdd50e1e17f8c96c5cd5d38ea9f2171f467f07c915fed137f3481
 title: "DisposeExtensions"
 kind: api
 owners: [Inno.Extensibility.Types]

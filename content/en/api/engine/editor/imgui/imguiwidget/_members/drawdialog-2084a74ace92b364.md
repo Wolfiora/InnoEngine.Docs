@@ -2,7 +2,7 @@
 uid: api.2084a74ace92b364f7f5ef09abab5490c48655955be340b3bd1c1c130d637c9e
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.DrawDialog(Inno.Editor.ImGui.ImGuiWidget.DialogPresentation,Inno.Editor.ImGui.ImGuiWidget.DialogLayout)"
 source: xml
-reviewed: b3b44885fee59b4a5c87630d4791796c3a3486e77fe48b95b7418d821f88303a
+reviewed: cf24e35c9059bf3dc3c2583d0af2ad6fbe13980a5f2c69f91934f1f127d2cb58
 title: "DrawDialog"
 kind: api
 owners: [Inno.Editor.ImGui]

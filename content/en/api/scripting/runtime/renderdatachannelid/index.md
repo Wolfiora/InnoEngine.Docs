@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.7036727dad70dbed
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderDataChannelId"
 source: xml
-reviewed: a4bdb79b27d44978e56f20fe42dbf0b50819612c7f3df97a0a129b4ec2eccc96
+reviewed: 2432a717cbbe9f2090a7e02a70d594f9673eab880a4e56add0d83721993cd62c
 title: "RenderDataChannelId"
 kind: api
 owners: [Inno.Rendering]

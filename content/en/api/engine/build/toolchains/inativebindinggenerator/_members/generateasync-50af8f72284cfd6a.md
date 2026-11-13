@@ -2,7 +2,7 @@
 uid: api.50af8f72284cfd6a8fba05a3d207d94e009f3f1c46833537e90bf02b03f78f43
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.INativeBindingGenerator.GenerateAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)"
 source: xml
-reviewed: 1416fbdb397307fb9cb8e6b6fbe625f088cb6218c3f55b9ce37e20e51a403b60
+reviewed: 9e370e68e79704517009e6290a16da709a815a36adfb8c8a8c58fb841e831af5
 title: "GenerateAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

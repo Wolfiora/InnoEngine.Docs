@@ -67,6 +67,3 @@ The library uses the existing Core IO atomic publication and file leases togethe
 
 Unchanged immutable page registrations are confirmed through `BuildCachePublisher.EnsureImmutableRegistration`. Confirmation checks ownership, dependencies, lease identity and payload size without updating the publication record's age. The documentation publisher separately verifies the actual payload hash. Size accounting is never a substitute for content integrity. Current-generation dependencies and active leases provide protection; reading a registration alone does not protect an artifact.
 
-## API reference
-
-[Browse documentation tooling types](../../api/engine/tooling/documentation/index.md) for exact requests, results, cancellation, ownership and continuation contracts.

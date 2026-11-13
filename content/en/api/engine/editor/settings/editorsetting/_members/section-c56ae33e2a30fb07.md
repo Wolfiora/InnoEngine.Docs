@@ -2,7 +2,7 @@
 uid: api.c56ae33e2a30fb0772a6d46a97cb7f5b29e81931a485dfd36a660bbe3b91350f
 symbol: "engine:Inno.Editor.Settings:P:Inno.Editor.Settings.EditorSetting.section"
 source: xml
-reviewed: 1326149d6d04a4b618b515c7fab8769cd9ac0591498c543df14c22ee6855cc23
+reviewed: 24a60c8388224de37191935435080b5797919f5c53700c9d665c864bc63677a2
 title: "section"
 kind: api
 owners: [Inno.Editor.Settings]

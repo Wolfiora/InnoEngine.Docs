@@ -2,7 +2,7 @@
 uid: api.9bf930dc96662e8285a05aea165a6c7498864b85cfa63687a81cacb8f924437d
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.SetPrimaryPresentationSize(System.Nullable{Inno.Rendering.RenderPresentationSize})"
 source: xml
-reviewed: d7cb23097923e1eb62f25c4ddf1d72aa725c06f464edf4dc1429c9e0a900ca73
+reviewed: 7420a60e111e5e1ccd499cf24a9e795edbde3649d6914f2eea13c18aca6f74a2
 title: "SetPrimaryPresentationSize"
 kind: api
 owners: [Inno.Rendering]

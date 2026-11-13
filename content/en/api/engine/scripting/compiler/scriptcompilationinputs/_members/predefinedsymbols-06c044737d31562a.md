@@ -2,7 +2,7 @@
 uid: api.06c044737d31562aa71728201953fea5d4b070c2f006771429bf1a61170270f1
 symbol: "engine:Inno.Scripting.Compiler:P:Inno.Scripting.Compiler.ScriptCompilationInputs.predefinedSymbols"
 source: xml
-reviewed: 7ca4955b3c7c71c49303188c0d5fc92cfae3a5614550d9d68a5030ac7a8cd322
+reviewed: 4babb26d85090b5c1019d952e8d00cf25685aa64de029ffbe559ecd6fc6e3042
 title: "predefinedSymbols"
 kind: api
 owners: [Inno.Scripting.Compiler]

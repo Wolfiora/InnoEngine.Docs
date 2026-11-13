@@ -2,7 +2,7 @@
 uid: api.b891bf7bc32ea3207e843dbde6b449e20d0df68f08d1566ea3331610263a6418
 symbol: "scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Quaternion.identity"
 source: xml
-reviewed: 2aa535076c13b58489d1fcf27ad3bd6d3c4416bab4f102a6a12dbabdc0918d4a
+reviewed: 3d871254b43046285fb96d8aa49ff5a83f2570a1a710ee12a2286630e8c41ba7
 title: "identity"
 kind: api
 owners: [Inno.Core.Mathematics]

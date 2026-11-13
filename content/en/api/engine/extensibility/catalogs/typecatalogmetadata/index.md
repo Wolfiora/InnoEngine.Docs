@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.catalogs.43e36eec7b98f7f7
 symbol: "engine:Inno.Extensibility.Catalogs:T:Inno.Extensibility.Catalogs.TypeCatalogMetadata"
 source: xml
-reviewed: fa384a131818b411ac383a0741aded6900f53b81c565516637a8536ec997c5df
+reviewed: 7c7cf0a58e711e4dd20c663f135287eaff10914c078e2d8ac4a6457db977e606
 title: "TypeCatalogMetadata"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

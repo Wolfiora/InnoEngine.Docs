@@ -2,7 +2,7 @@
 uid: api.83111ba39afab8dd517482709b884c023cb162045bc319bdaeef994a952143ba
 symbol: "engine:Inno.Text:P:Inno.Text.TextGlyph.advanceX"
 source: xml
-reviewed: 6569b9f0f9339461b003a8ba8226dfec04e982ae7e5445bab21b2c35c56dab80
+reviewed: f1ee68a48691440f9024fd8db4085b16589b13cead3b005bbffc53c75aed783e
 title: "advanceX"
 kind: api
 owners: [Inno.Text]

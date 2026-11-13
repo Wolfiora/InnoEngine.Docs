@@ -2,7 +2,7 @@
 uid: api.09c81dd60ada62ca96ed2c135444734063314fda53659ef4ee412a587371d90d
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DragInt(System.String,System.Int32@,System.Single,System.Int32,System.Int32,System.String,InnoEditor.ImGui.ImGuiSliderFlags)"
 source: xml
-reviewed: b40d29a3374df7555b4504b6490ef047053cd8842d052747ef73df7fa29c6213
+reviewed: f956d1f8ba65b541732247c0e6ade2039dcaf499326c001991fba5f2fc3347c2
 title: "DragInt"
 kind: api
 owners: [Inno.Editor.ImGui]

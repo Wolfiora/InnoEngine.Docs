@@ -2,7 +2,7 @@
 uid: api.inno.core.graphs.runtime-script.be92c19bf1b8aa87
 symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphValidator"
 source: xml
-reviewed: 3bea1ca17c17408355a09db5d14af5d97348e3fe97e4d2923ce0a7147bffb79f
+reviewed: 492a7f40ad4a31c55b7008e8f5488de263ab2dff1993009d9052c00e3f633f0a
 title: "GraphValidator"
 kind: api
 owners: [Inno.Core.Graphs]

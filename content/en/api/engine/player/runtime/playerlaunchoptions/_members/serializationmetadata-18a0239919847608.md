@@ -2,7 +2,7 @@
 uid: api.18a0239919847608cdf88acef5f1c07199d3102505658176275eed45089e5545
 symbol: "engine:Inno.Player.Runtime:P:Inno.Player.Runtime.PlayerLaunchOptions.serializationMetadata"
 source: xml
-reviewed: 99ecb1b4114b0f54e8e8efa0ecd177eea2be27fdd4ff70ca940931c63bff1df6
+reviewed: 85bbd79e2c8b07667a4ca746cafccacbe22fe9420a8317c786587ae93fec10d1
 title: "serializationMetadata"
 kind: api
 owners: [Inno.Player.Runtime]

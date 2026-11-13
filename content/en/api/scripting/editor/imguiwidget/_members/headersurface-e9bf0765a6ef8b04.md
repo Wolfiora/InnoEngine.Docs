@@ -2,7 +2,7 @@
 uid: api.e9bf0765a6ef8b04875825bb49b1a59998bddabfb37a1ae5a9a4d636ff031feb
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.HeaderSurface(System.String,System.Action,System.Boolean)"
 source: xml
-reviewed: 9d8513ecb99dffe10d4f9aa92377074ceae43f294aa6a37e83c1d9154e7c40c5
+reviewed: d7da5b95dcbdedf2c07da776c034f15998d2f6a255438f7254775a81afe9c30f
 title: "HeaderSurface"
 kind: api
 owners: [Inno.Editor.ImGui]

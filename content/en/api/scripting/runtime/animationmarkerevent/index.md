@@ -2,7 +2,7 @@
 uid: api.inno.animation.runtime-script.423dce31cf75eff1
 symbol: "scripting:Inno.Animation:T:InnoEngine.Animation.AnimationMarkerEvent"
 source: xml
-reviewed: 7f178a72dbeea6f99f89e42fba885dd406c7fcfafab69755caf0a251aebc9383
+reviewed: 2142c8c27d4fa90ee07870e7138332b495b1d005c92ac34261a69a4b276eca68
 title: "AnimationMarkerEvent"
 kind: api
 owners: [Inno.Animation]

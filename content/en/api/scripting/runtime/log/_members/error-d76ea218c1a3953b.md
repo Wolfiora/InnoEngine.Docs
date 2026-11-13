@@ -2,7 +2,7 @@
 uid: api.d76ea218c1a3953be15213597e651cda9dbe625e8233447bb4e48d5e1dd3c966
 symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Error(System.Type,System.Object,System.String,System.Int32)"
 source: xml
-reviewed: c2a789f8c0a360635929cfa5e6a4a6700c71669ad7c1dcaca29965e974330aca
+reviewed: 8b6c8b79549a8233b7fea7c6652ed03637138508bc487654c2ca76f09c113e8d
 title: "Error"
 kind: api
 owners: [Inno.Core.Logging]

@@ -2,7 +2,7 @@
 uid: api.e2edbabb7012e030ba7514efde2aebaa3564147c1c6a36049a3669651d3a9247
 symbol: "engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.GetSelectedPath(Inno.Editor.Core.EditorContext)"
 source: xml
-reviewed: b87a6f37b2f4e55256f207af8363257941f1dda566e28dbedde808ac62fa0d8f
+reviewed: ba3b199ec6e4168dd7e3aaca5b96bb33b1e101fb1cc6849a14e3d91c8153e382
 title: "GetSelectedPath"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

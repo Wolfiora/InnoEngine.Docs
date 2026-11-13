@@ -2,7 +2,7 @@
 uid: api.inno.plugins.8610ff9ffa0c5577
 symbol: "engine:Inno.Plugins:T:Inno.Plugins.PluginManifest"
 source: xml
-reviewed: eaac63790aa7f6a9c3183561d4884295f4b41cfd06704e243bdc14052f4510c7
+reviewed: 78b9289738ebea97908a1090380b0304242e26e7618c73177c7dc017696b1d1a
 title: "PluginManifest"
 kind: api
 owners: [Inno.Plugins]

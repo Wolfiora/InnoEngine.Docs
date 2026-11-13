@@ -2,7 +2,7 @@
 uid: api.inno.audio.eda1cdfae86c4f34
 symbol: "engine:Inno.Audio:T:Inno.Audio.AudioDeviceVoiceHandle"
 source: xml
-reviewed: 3f05b44820d2d5003180430914385731265d419c02088bbdde3781ebba257d31
+reviewed: c03ff394574a3d61665c1bd286ce9cf46f95ab171cbd20c624da15506b802440
 title: "AudioDeviceVoiceHandle"
 kind: api
 owners: [Inno.Audio]

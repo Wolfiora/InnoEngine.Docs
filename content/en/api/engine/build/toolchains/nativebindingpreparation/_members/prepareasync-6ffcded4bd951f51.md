@@ -2,7 +2,7 @@
 uid: api.6ffcded4bd951f515bc2a7af7d187d1a5dac99faf71f2248b90bfa5f835be78c
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingPreparation.PrepareAsync(Inno.Build.Toolchains.NativeBuildContext,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeComponentDescriptor},System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions})"
 source: xml
-reviewed: 3d979e11e7fb1705625c6feb715f5db9283796982c70d9957c529d52c692b200
+reviewed: d76a51361fbdf97b93191ff605a32fe83acd25f2e68b9202acad01b89a84f37c
 title: "PrepareAsync"
 kind: api
 owners: [Inno.Build.Toolchains]

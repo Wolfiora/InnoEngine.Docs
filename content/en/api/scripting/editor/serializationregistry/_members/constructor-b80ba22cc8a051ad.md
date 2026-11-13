@@ -2,7 +2,7 @@
 uid: api.b80ba22cc8a051ad53ebdce7a98ecfa9354251546c3c23426803bb5ee2272f6b
 symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.#ctor"
 source: xml
-reviewed: f10e53b3f730c002dee2803b326eb997c30134120fe33b7acb31fcf2d1489c9f
+reviewed: 8daa0dc884636bd3bc431e8df97dc1c5bf1d1b69346602addc08d644f4b87fd7
 title: "Constructor"
 kind: api
 owners: [Inno.Core.Serialization]

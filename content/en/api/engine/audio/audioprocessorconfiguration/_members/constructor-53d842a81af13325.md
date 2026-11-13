@@ -2,7 +2,7 @@
 uid: api.53d842a81af13325e4fd9ab26857020dad8f686f4e1b542d735955286d5bd28a
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioProcessorConfiguration.#ctor(Inno.Audio.AudioProcessorId,System.Collections.Generic.IEnumerable{Inno.Audio.AudioProcessorParameter})"
 source: xml
-reviewed: 8fe5963a4e4e9a83ecf18e021788c4dd35fad271d7e0b0d2bc0751b3f6079860
+reviewed: 4d1d9912142355ae3026e9cc422eb9cf23ca041da86aee4ed676b38f6805779f
 title: "Constructor"
 kind: api
 owners: [Inno.Audio]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.117e7edb67f44d06
 symbol: "engine:Inno.Assets:T:Inno.Assets.AssetRuntimeContentInfo"
 source: xml
-reviewed: d2d66b73cc7600d62b5e5175273127cac4137983c640d19295528b039533bf34
+reviewed: bb1c0cb41d880f4c037e1e3587bf2314a472f9f4931be76fb9c96ff82c5b48f0
 title: "AssetRuntimeContentInfo"
 kind: api
 owners: [Inno.Assets]

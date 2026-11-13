@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.083a94a96c0372fd
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.ArtifactLease"
 source: xml
-reviewed: 0c298c7af166e368c2cd9fd306f3e04a2d1a27fedb218862cc2b59c5f04385ca
+reviewed: b73dba2b9d611e5d823e30278664ff07784098238dcf7f0beafbaef8c3d08610
 title: "ArtifactLease"
 kind: api
 owners: [Inno.Assets]

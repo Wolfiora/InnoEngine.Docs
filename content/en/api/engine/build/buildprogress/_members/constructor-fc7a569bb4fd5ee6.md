@@ -2,7 +2,7 @@
 uid: api.fc7a569bb4fd5ee66411862c93c749cf1f24f460de09223c50d87f9eb8056591
 symbol: "engine:Inno.Build:M:Inno.Build.BuildProgress.#ctor(System.String,System.Double,System.String)"
 source: xml
-reviewed: 7eceda234fb710c828744fb25a2cc87f6f24d3283b749a74b398afa80a10c9df
+reviewed: 0640f1322b5e8dc23e7b35606d9ace4aad3015ebb9a2ba2054d0d4f9b7c5b836
 title: "Constructor"
 kind: api
 owners: [Inno.Build]

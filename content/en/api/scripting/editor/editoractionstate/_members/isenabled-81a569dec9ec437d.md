@@ -2,7 +2,7 @@
 uid: api.81a569dec9ec437ddcd5a4de91ea4f762b264711194c02489b44c381d6368a31
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorActionState.isEnabled"
 source: xml
-reviewed: 8d5a09c4ab8fedd299d0e6883869221f6344086c1d2d4214b3729473b38852b9
+reviewed: 1a59deb254954fbf76124bbccf1a484cd90d21389103e6f861aea22022069c38
 title: "isEnabled"
 kind: api
 owners: [Inno.Editor.Interactions]

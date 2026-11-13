@@ -2,7 +2,7 @@
 uid: api.f70522c773d782d60057f077e82ade705402d98e4e572d95eb2576c4ab9c1ad6
 symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RejectGenericConstruction(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
 source: xml
-reviewed: 57c1accc1507e3f85ba27c1913e6756cb64e06f1cdd504a4b0258e4ba24619c8
+reviewed: 4cace9b24b7bc692b9fabae908aea660778c1c86eebb5470c95ad8c3b99adbfa
 title: "RejectGenericConstruction"
 kind: api
 owners: [Inno.Extensibility.Catalogs]

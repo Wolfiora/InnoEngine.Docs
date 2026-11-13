@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.c73466b8cb672553
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometryData"
 source: xml
-reviewed: 654fece8b2d65126d3a7505ab0fed28ac7fc07e93218ae3a59efe83849cbf086
+reviewed: 332ef7ed874447c2f68e3eaa42848ed27e86e09d0c91e600a1270a2066906ecf
 title: "GeometryData"
 kind: api
 owners: [Inno.Rendering.Assets]

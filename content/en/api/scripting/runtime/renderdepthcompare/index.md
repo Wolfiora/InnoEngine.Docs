@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.75ac171487cafbbd
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderDepthCompare"
 source: xml
-reviewed: e282d36210603647c7e924a3831b53bb614605477f55fe4f9ecb7b6d9145376a
+reviewed: ecff10af6c435c2a79b97aa286f57f5ea0fd1bca656471ec15928bd25a60d1aa
 title: "RenderDepthCompare"
 kind: api
 owners: [Inno.Rendering]

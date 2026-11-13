@@ -2,7 +2,7 @@
 uid: api.3292ab79ee0d50a6874a2cb87a1847bb55e2196aedbce7058a7d501a34fa2e24
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginEdit(InnoEditor.Interactions.IEditorHistory,System.String,System.String)"
 source: xml
-reviewed: bab2fdc7405679e0ede5f6d439ee8c7995b818fec0626cf445de6845f598aad3
+reviewed: 57226336e9157679fa06f815bf906d1ac6b5eaab3e0ea66ea1ab343c8839abb6
 title: "BeginEdit"
 kind: api
 owners: [Inno.Editor.ImGui]

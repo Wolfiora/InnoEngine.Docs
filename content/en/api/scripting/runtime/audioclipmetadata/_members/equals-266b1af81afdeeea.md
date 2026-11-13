@@ -2,7 +2,7 @@
 uid: api.266b1af81afdeeea1294c8fb3c7359163cb151b2637d679b9bdc7ac1d9a0feba
 symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadata.Equals(InnoEngine.Audio.AudioClipMetadata)"
 source: xml
-reviewed: 6808c10271eb23dc1b4c3feb667e3cba487cea6af1715ce19ae4b4ebd0e9a30e
+reviewed: f927b4efabb0ad0e6d105931e6c4d4a8b9c40d84d4625b2251fe9c920d38a08e
 title: "Equals"
 kind: api
 owners: [Inno.Audio]

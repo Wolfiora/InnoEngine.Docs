@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.fc3652bd2113cb2a
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.IRenderRequestSink"
 source: xml
-reviewed: 00d8f74f93de7556fb065b4ced2003c5e98cc7f3d399234c931c644e074059b1
+reviewed: 5992ae42093ec45d6e5762a82b9aa6e511e5fd58e4b933d88e68560f8fc3dd21
 title: "IRenderRequestSink"
 kind: api
 owners: [Inno.Rendering.Runtime]

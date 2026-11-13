@@ -2,7 +2,7 @@
 uid: api.13db3b133013d7dbca35f94c3c6c22169c60690b044788d8fbd026c09682db76
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.RecordIndex(System.String,System.Collections.Generic.IReadOnlyList{System.String})"
 source: xml
-reviewed: d96ac29d9f30e081032bfeb00c9a0dbad6dba2cdde39fde9538ca00e948ecea9
+reviewed: 321c325439482cf1fceec96050de245cfa97387cdea9ba6c589d98c22e649473
 title: "RecordIndex"
 kind: api
 owners: [Inno.Build.Toolchains]

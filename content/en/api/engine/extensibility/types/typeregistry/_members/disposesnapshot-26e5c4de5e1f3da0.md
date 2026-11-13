@@ -2,7 +2,7 @@
 uid: api.26e5c4de5e1f3da091dba675055fb9e3adc8ffc6bd6c7970cba44fb4bc5015cb
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.DisposeSnapshot(\u00600)"
 source: xml
-reviewed: 27d24260ae7df20f77fea6735aeb1727521ef6a57a2d07fcd0adeed4aebc6e02
+reviewed: fdc56b61c94ec1c95854a6b1da48c91ce76606b2ac8cb88d7ef84f009c088ead
 title: "DisposeSnapshot"
 kind: api
 owners: [Inno.Extensibility.Types]

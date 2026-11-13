@@ -2,7 +2,7 @@
 uid: api.e911e40fda90be1f680cae79bfe05ebb9f4c6bab3e38236e4cea8d7f5964634d
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.ITypeCatalogSource.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
 source: xml
-reviewed: 2ab0d8d81dcbaa0b1ba456aac3574325c4abae2339bea2bb41a39bfaaf281934
+reviewed: b82e0137eb4e94f29901c117dd033df3d9b6551cc98cd8a77de852ef61ada5c9
 title: "ConstructGenericType"
 kind: api
 owners: [Inno.Extensibility.Types]

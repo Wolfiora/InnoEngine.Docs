@@ -2,7 +2,7 @@
 uid: api.c995d248db0dc68da6fbc4da0304b442815c30bab58ce3b043b57093506b97b6
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.IEditorDocumentService.Apply(System.Guid)"
 source: xml
-reviewed: e36cb23aba334d570f8fd20e7e414153b309faee87c06c906a7c93181aa86af9
+reviewed: ecb10f3fc57f5899e90cbba626f68e151c6513e591c1475071bdf5423ee11d4d
 title: "Apply"
 kind: api
 owners: [Inno.Editor.Interactions]

@@ -2,7 +2,7 @@
 uid: api.a8cbbbe71361bef7448400e9cf30bfbb71e48586ed1240babfce9b72400915c2
 symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsStringArray(System.String,System.String[])"
 source: xml
-reviewed: 030fe24d771d2a62d2d633f0ac254cefc205f1d108bc82b9eadd425046a579ca
+reviewed: 1d4ecef4d075a9ddcb8f488443cc7bccdcf859b5d8017c6649622be30e7c6d31
 title: "GetAsStringArray"
 kind: api
 owners: [Inno.Editor.Settings]

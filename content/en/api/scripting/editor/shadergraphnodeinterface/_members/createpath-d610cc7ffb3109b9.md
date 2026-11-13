@@ -2,7 +2,7 @@
 uid: api.d610cc7ffb3109b96a747d660baa01e4d236dcdb100de3b376b6903a3cfeb61c
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodeInterface.createPath"
 source: xml
-reviewed: 5e2e68a310b262da1010b37608541558f9555a66f94694ded69dbfa01b4f750e
+reviewed: 2bedbf361aa4f13916cb353b91cc2055004fab174801f1c7e7bf45b4d69af9f3
 title: "createPath"
 kind: api
 owners: [Inno.Rendering.Shaders]

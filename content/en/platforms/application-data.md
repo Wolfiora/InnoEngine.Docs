@@ -1,34 +1,31 @@
 ---
 title: Locate content and application data
-description: Separate installed content, writable application storage and build caches on desktop and Browser.
+description: Keep installed content, application values and build caches under their distinct owners.
 uid: platforms.application-data
 kind: explanation
 ---
 # Locate content and application data
 
-Installed game content and writable application values have different lifetimes. A product resolves its platform locations at startup and passes them to the appropriate service; domain code does not guess OS paths.
+Engine code consumes content and storage services supplied by its host. It does not reconstruct an operating system's directories or assume that every target has a filesystem.
 
-## Desktop layouts
+## Separate the three kinds of data
 
-| Product platform | Published content location | User-data root |
+| Data | Owner | Usage |
 | --- | --- | --- |
-| [Windows x64](../architecture/projects/inno-platform-windowsx64.md) | `Content` below the executable directory | Windows `LocalApplicationData` |
-| [macOS ARM64](../architecture/projects/inno-platform-macosarm64.md) | Normalized `../Resources/Content` relative to the executable directory | User profile's `Library/Application Support` |
+| Published content | Product content source and reader | Open the selected catalog and verified content packs. |
+| Application values | Scoped Storage service | Read and write values through the supplied storage contract. |
+| Build artifacts | Build publisher and protected consumers | Prepare, acquire and release immutable build outputs. |
 
-The content resolver accepts an absolute executable directory and computes one explicit location. It does not search alternative layouts or prove that the content was successfully packaged. Empty or relative input fails. User-root lookup rejects the wrong OS and unusable system locations.
+A save-data namespace is not a path to a native cache. Published assets are not a writable application database. Keep these boundaries intact when composing a host.
 
-These small location services do not own devices, sessions, filesystem stores or content readers. The product passes their results to actual Content, Storage and Log owners. Keep application namespaces separate inside the chosen storage root.
+## Consume the supplied service
 
-## Browser values
+Use [application storage](../manual/storage/save-data.md) for user values and [content-pack reading](../manual/assets/read-content-pack.md) for runtime assets. Pass dependencies explicitly rather than searching several directories until one works.
 
-The [Browser storage adapter](../architecture/projects/inno-adapter-storage-browserwasm32.md) uses `StorageScope` to isolate key prefixes in the current origin's `localStorage`. This is a namespace, not a directory path. Scripts continue to use the neutral Storage contract.
+Do not assume filesystem transactions, background execution, unlimited capacity or indefinite durability. The selected service's capabilities, cancellation and failure contract remain observable. A portable API does not erase environment restrictions.
 
-Bytes are Base64-encoded. A write replaces one key, not an entire application transaction. Missing reads return null; quota, access and corrupt-value failures stay visible. The browser controls persistence and storage policy, so do not promise indefinite durability or filesystem semantics.
+## Keep ownership explicit
 
-Listing includes only the selected scope, optionally restricted to an exact prefix or slash-delimited descendants, in ordinal order. Cancellation is checked before synchronous JavaScript access; the `ValueTask` API does not move storage work to a background thread.
+A resolved location does not own the store, stream or content reader created from it. Keep the owning host alive while its borrowed services are in use, stop new operations before shutdown and release each owned object once.
 
-## Keep caches out of application state
-
-Content Packs and script payloads belong to product deployment. Native compiler outputs and Support Packs belong to the build cache with its own owners and read protection. Neither belongs in application save data.
-
-Use [application storage](../manual/storage/save-data.md) for user values and [content-pack reading](../manual/assets/read-content-pack.md) for published runtime content. Diagnose their failures at the appropriate owner instead of adding a fallback that searches unrelated directories.
+Concrete OS paths, browser persistence implementation and platform startup wiring are outside this documentation scope. See [product and target boundaries](index.md) for selecting capabilities without coupling domain code to a platform.

@@ -2,7 +2,7 @@
 uid: api.557a6517ab468358bad5959bb3760149d8c04d670cb43eb1817e809a1faf9d94
 symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.#ctor"
 source: xml
-reviewed: 1dd1b1ee65fe1267e1126d8db80c5b64c084c76ce3b19e02fe9e9a2cd3a65c68
+reviewed: 2905aa29bdf57289e71c521ec63523ae888d274cebbdab801ff756f8b8573e94
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

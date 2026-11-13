@@ -2,7 +2,7 @@
 uid: api.inno.editor.inspection.editor-script.5ba42a3ec145607e
 symbol: "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.InspectionDrawContext"
 source: xml
-reviewed: 763fd5c4c6df3e6772fe54c678d7ead537ced549fa9d1c21c64db0ea04a3cccd
+reviewed: 549d20e9c27dd730e6cba671c53a52611ba2536abb0d2435f0c76c922cf36ecd
 title: "InspectionDrawContext"
 kind: api
 owners: [Inno.Editor.Inspection]

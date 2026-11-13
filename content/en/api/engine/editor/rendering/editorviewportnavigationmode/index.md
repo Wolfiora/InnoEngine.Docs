@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.399478c14bb48f9e
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorViewportNavigationMode"
 source: xml
-reviewed: 994864813587ca1cf78e314ab0aab1c898c4648ab62ceff4ce4287660a88b048
+reviewed: dc3f18d1e5fc8db3ab0ddcd1abcf9e78202919a75d81b78b4b8b5f805335c3a3
 title: "EditorViewportNavigationMode"
 kind: api
 owners: [Inno.Editor.Rendering]

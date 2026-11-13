@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.42c5734f13434cb4
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiTextureData"
 source: xml
-reviewed: b88b6d07b4098e6ebdc09dc47fb1f689fbcc90f52bd7e83c1d4828a271983c58
+reviewed: 19f94e7e8e4c9a7b3f271ee6fe3bac5351045c9c819af8a566c6d823994f8b80
 title: "UiTextureData"
 kind: api
 owners: [Inno.UI]

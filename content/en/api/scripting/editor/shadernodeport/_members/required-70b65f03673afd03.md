@@ -2,7 +2,7 @@
 uid: api.70b65f03673afd03d1ac8e01c0d36dd4dd1e5742b2bd4479507e246e4044ccad
 symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderNodePort.required"
 source: xml
-reviewed: b56660be445cb13a01f5ed5ffd054be7f8fb0dfd4fdab6b8e42a09618fb5a1f6
+reviewed: af775719338f8464cc6e7171e397eaf17784d1367c9360d279df4169ccb11b8c
 title: "required"
 kind: api
 owners: [Inno.Rendering.Shaders]

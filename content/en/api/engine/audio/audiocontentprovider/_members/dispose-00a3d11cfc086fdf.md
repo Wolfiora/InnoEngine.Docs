@@ -2,7 +2,7 @@
 uid: api.00a3d11cfc086fdf201d3519c982e2160b3f398aa05057c780ca20004330cf2c
 symbol: "engine:Inno.Audio:M:Inno.Audio.AudioContentProvider.Dispose(System.Boolean)"
 source: xml
-reviewed: 2193b760745c99f571ead236c2b8228acf3e175bf4202665c8042b231b1ae60f
+reviewed: e54d70d88cd5421c4037c267bb6e325c2428ac13c4534ad8800b9fbfd2b79bb4
 title: "Dispose"
 kind: api
 owners: [Inno.Audio]

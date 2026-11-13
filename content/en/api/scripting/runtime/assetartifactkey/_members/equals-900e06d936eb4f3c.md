@@ -2,7 +2,7 @@
 uid: api.900e06d936eb4f3c47289982a3b9be010ac05d6410f682edc653491a3ec03b4c
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetArtifactKey.Equals(System.Object)"
 source: xml
-reviewed: 85798f454ed54a41a9514a8ea32984e1358626281381baadaa0773f424ac55b6
+reviewed: f7a625285dedecf8cf68393db6e315ca178fa97c378d0c4c1c5d43d13435d96a
 title: "Equals"
 kind: api
 owners: [Inno.Assets]

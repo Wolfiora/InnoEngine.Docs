@@ -2,7 +2,7 @@
 uid: api.a72cc83ff8527e02a9f7ed8556d8e073abf2061203b99fa2bb1ef7e4559dd7fe
 symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropContext.placement"
 source: xml
-reviewed: ec321f35d6bc27edeaae482211581df2051cd2a96b211e790cf99b82b098de80
+reviewed: 9303945554dcfc3874ceaa325e11ff2b54279aa2202090b7405e68a570dadf82
 title: "placement"
 kind: api
 owners: [Inno.Editor.Interactions]

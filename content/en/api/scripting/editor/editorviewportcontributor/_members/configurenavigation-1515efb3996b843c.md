@@ -2,7 +2,7 @@
 uid: api.1515efb3996b843cfc5b06a4f1c4828c504f0b2a16dc3cf741ac665516b5293f
 symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportContributor.ConfigureNavigation(InnoEditor.Rendering.EditorViewportContext)"
 source: xml
-reviewed: d8dc57cf519772b91c31efeb9bc30e7a4678d958289925d8bed924710f05efa8
+reviewed: 1882ce3ab35a0901839f9a5dac1607c486ae384ef906d45e4a5a415d9b76c91b
 title: "ConfigureNavigation"
 kind: api
 owners: [Inno.Editor.Rendering]

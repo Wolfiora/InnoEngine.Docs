@@ -2,7 +2,7 @@
 uid: api.63605e8e0d0fe0303b7b4644f9d215f697fc29e5b413957d4e836fa1b7d1f139
 symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderNodeDrawContext.#ctor(InnoEngine.Graphs.GraphNodeRecord,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext,System.Action{System.String,InnoEngine.Graphs.GraphSerializedValue,System.String},InnoEditor.Rendering.IEditorPreviewService,InnoEditor.Inspection.InspectionDrawContext,System.Boolean)"
 source: xml
-reviewed: af2979384861d6faacb622fb8deb92c6de93f7b76286a1dcdcc38201ce6ca8af
+reviewed: 220c0ecda61c4b9e9caafb79e0537458f40f38efa32e4151aa32586b8098dd75
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

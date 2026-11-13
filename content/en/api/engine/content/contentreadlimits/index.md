@@ -2,7 +2,7 @@
 uid: api.inno.content.ac50138c4fb60523
 symbol: "engine:Inno.Content:T:Inno.Content.ContentReadLimits"
 source: xml
-reviewed: cf618d3f4b34efc4caff66739cacc1e888917ae4a3a26ce4e748556d2339042c
+reviewed: d15bb8907dbc362b3dc7cb83e2421f99bc43ad2b82bc10135be4d164c7160dca
 title: "ContentReadLimits"
 kind: api
 owners: [Inno.Content]

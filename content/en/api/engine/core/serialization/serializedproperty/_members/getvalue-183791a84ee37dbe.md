@@ -2,7 +2,7 @@
 uid: api.183791a84ee37dbe574d444af43497c5ab48ce8dafca35c2f3bde15aa622d2b7
 symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializedProperty.GetValue"
 source: xml
-reviewed: ae156201fbe7dc3a02b268ffad6c90267af045dc5ac94ab864a6e77e2cc1ba92
+reviewed: 8026e774524520d7387a104a0878f906ffdca1deaca131bffc8c41a08ceeb0c2
 title: "GetValue"
 kind: api
 owners: [Inno.Core.Serialization]

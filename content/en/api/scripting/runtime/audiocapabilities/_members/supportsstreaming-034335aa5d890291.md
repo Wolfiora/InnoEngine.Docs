@@ -2,7 +2,7 @@
 uid: api.034335aa5d890291e4490b1103145104bd30996f6b9b68bd4746b3d0121c556a
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.supportsStreaming"
 source: xml
-reviewed: b40e1c48678934b7033672422a297bb6a5e1bde95bb17a8254c52c716ee72a62
+reviewed: ee41ddb3e73660f6276a82d598be9b733bf5398e83f7899c6a939efa32fd514e
 title: "supportsStreaming"
 kind: api
 owners: [Inno.Audio]

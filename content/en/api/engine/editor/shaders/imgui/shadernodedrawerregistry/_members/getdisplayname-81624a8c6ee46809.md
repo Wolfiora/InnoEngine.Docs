@@ -2,7 +2,7 @@
 uid: api.81624a8c6ee4680949e9a47cc0a512c0f8096427034052759f4b008974c6949e
 symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerRegistry.GetDisplayName(System.String)"
 source: xml
-reviewed: 1607f4c66ab672314ac3fc554ed490c44135784d4a2ea8109ea7c2a402b96c40
+reviewed: ba9ea07782f2b443ed9b1a9a7f749562a0b886a31057efb139f32edd06f255cb
 title: "GetDisplayName"
 kind: api
 owners: [Inno.Editor.Shaders.ImGui]

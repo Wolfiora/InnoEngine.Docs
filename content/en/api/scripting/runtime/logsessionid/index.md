@@ -2,7 +2,7 @@
 uid: api.inno.core.logging.runtime-script.d1c5a26cfd127f82
 symbol: "scripting:Inno.Core.Logging:T:InnoEngine.Logging.LogSessionId"
 source: xml
-reviewed: 92eac750b684b26587eb92859af182c2f460d897d46f9bbbc05bc904f3b695c3
+reviewed: 7a3f8ac199a916bb5e8146445d03b57c2842bbc8c0bbc33fe64890e165cbd778
 title: "LogSessionId"
 kind: api
 owners: [Inno.Core.Logging]

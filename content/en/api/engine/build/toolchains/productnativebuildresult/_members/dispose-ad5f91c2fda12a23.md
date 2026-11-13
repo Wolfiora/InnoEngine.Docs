@@ -2,7 +2,7 @@
 uid: api.ad5f91c2fda12a238421dd8c9326f0a4a798f6d26ef3dc50179e3a6057b7d728
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.Dispose"
 source: xml
-reviewed: 738f381b3638d886d649b9f536c47c0d0c644cce865a0a7b8eabccfbd46e0a3e
+reviewed: 5eadbfe387294b906f52f6233c86e7c13b9e99ea6eba9651f86d38acd1dbeab6
 title: "Dispose"
 kind: api
 owners: [Inno.Build.Toolchains]

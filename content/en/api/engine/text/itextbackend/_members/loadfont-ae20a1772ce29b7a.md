@@ -2,7 +2,7 @@
 uid: api.ae20a1772ce29b7a1b8e3a6fc9bcf4b325fa63f5109bebfa205d0460c93a8940
 symbol: "engine:Inno.Text:M:Inno.Text.ITextBackend.LoadFont(System.ReadOnlySpan{System.Byte},System.Int32)"
 source: xml
-reviewed: 4749a23b4ce540c3836b6912726952ce0589b8589f2926dcf83f706c13fba598
+reviewed: b6c28fa2edcaeb712332902087996372ce169388a3b4108cf5061aeaf302989b
 title: "LoadFont"
 kind: api
 owners: [Inno.Text]

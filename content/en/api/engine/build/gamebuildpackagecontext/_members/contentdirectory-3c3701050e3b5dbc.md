@@ -2,7 +2,7 @@
 uid: api.3c3701050e3b5dbc26a914fff449c1eb2dcf874c9316ffdb0c8847475f562c5d
 symbol: "engine:Inno.Build:P:Inno.Build.GameBuildPackageContext.contentDirectory"
 source: xml
-reviewed: d3f4636b28445c246e30450fce1447a601b8acc95bed7f40439809c1affc2092
+reviewed: fceee7b2d873eaa351481c5cd9f3e037a76beb2a94fc1fbce7e5e41e3fe76cd0
 title: "contentDirectory"
 kind: api
 owners: [Inno.Build]

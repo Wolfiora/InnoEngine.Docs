@@ -2,7 +2,7 @@
 uid: api.c4eeeb385ce9415fd327523f2e25eeabac1b5298c6f3cbb70291f2e1c213769c
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InvisibleButton(System.String,System.Numerics.Vector2,InnoEditor.ImGui.ImGuiButtonFlags)"
 source: xml
-reviewed: 55f5897afd48a063bb33e5f6be28c6ffc0bc18cbc08664a83ff897cd30955866
+reviewed: eb3b20f1181cdc612021a14f25a0d6badf736271bc915d8fcbcf6f773ab8aa06
 title: "InvisibleButton"
 kind: api
 owners: [Inno.Editor.ImGui]

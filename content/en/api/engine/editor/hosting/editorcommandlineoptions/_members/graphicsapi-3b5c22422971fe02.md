@@ -2,7 +2,7 @@
 uid: api.3b5c22422971fe021874879415cea7a0f0cec27318a2ad8b8ae8a6b87e13c99d
 symbol: "engine:Inno.Editor.Hosting:P:Inno.Editor.Hosting.EditorCommandLineOptions.graphicsApi"
 source: xml
-reviewed: 89e275ed5c9e20450a578d5787eb89a5b6215103beb21142ccf4d6b6f469eee3
+reviewed: bf1c8b00b7a5b52abf409eed18aeef882fc6555558b5f06fcbc2ac962c294448
 title: "graphicsApi"
 kind: api
 owners: [Inno.Editor.Hosting]

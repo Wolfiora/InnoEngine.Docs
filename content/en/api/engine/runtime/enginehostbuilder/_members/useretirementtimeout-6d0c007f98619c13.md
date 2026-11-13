@@ -2,7 +2,7 @@
 uid: api.6d0c007f98619c13e7062df114c2766ce1ed0e51b23a90f08b2780fc4f9fddfb
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.EngineHostBuilder.UseRetirementTimeout(System.TimeSpan)"
 source: xml
-reviewed: 8dea137ffd3a4edda0e4882f79ebebef947ed039fafba89695e54b7bd09aa86b
+reviewed: 7d30d5ba76139f8c2cef227b1ae6f1a4bc084e03656c6a5014709bff1d0fa674
 title: "UseRetirementTimeout"
 kind: api
 owners: [Inno.Runtime]

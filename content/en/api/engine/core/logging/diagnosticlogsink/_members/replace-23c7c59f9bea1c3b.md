@@ -2,7 +2,7 @@
 uid: api.23c7c59f9bea1c3b78d48989b3943d278bde99a3971d3b8a1de38445ff9ccd97
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.DiagnosticLogSink.Replace(Inno.Core.Diagnostics.DiagnosticReport)"
 source: xml
-reviewed: fcfd517cf10fb413ca2b083b935d9f7ea1aa5446ba818b033019144404ce38a0
+reviewed: c69b06d2b976565e6e66665051ba647cb0826ba21d9394bb10166ce88efd92fe
 title: "Replace"
 kind: api
 owners: [Inno.Core.Logging]

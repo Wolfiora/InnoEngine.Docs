@@ -2,7 +2,7 @@
 uid: api.701173958e62f821c4c95e871639571d1f7df9d5b39297521e53854569d80584
 symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.DestroyListener(Inno.Audio.AudioListenerHandle)"
 source: xml
-reviewed: 7f8ae0296af18cfdf3f7574423b2e115c09e4306884c8129ac7304371908f1b5
+reviewed: c977ea31bb17a7564d8184fd0c22ba0e84e66fa5a2db59213f94dd51eb847c9c
 title: "DestroyListener"
 kind: api
 owners: [Inno.Audio]

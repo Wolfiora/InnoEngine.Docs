@@ -2,7 +2,7 @@
 uid: api.d1d60f98e609ef2b344c8af4dbfce1168d649becf84d539de9ead9a5f44ecd7d
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.Multiply(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Matrix)"
 source: xml
-reviewed: 980d2292aa233ae4db776b90cfe5b47edb4690781f877e0657396f96e38f9020
+reviewed: d2766b0514a9da59824705f09b2c5cc8736963b5827f297b3dbc15fc667da90d
 title: "Multiply"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.fb3ca0e8459ed36bcbca4ab45f98005bbaf6624ec7ce430d24bdb0ec6198ab04
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrStageInput.location"
 source: xml
-reviewed: 7244dc010e136f7091bdb93485489e556a41ddf6e511734e273a6074940c0d9e
+reviewed: a3a65fd0e4608971ab023c08583c728a50451078781f201c14b4c0cb67974180
 title: "location"
 kind: api
 owners: [Inno.Rendering.Shaders]

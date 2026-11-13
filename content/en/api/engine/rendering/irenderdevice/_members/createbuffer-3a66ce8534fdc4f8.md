@@ -2,7 +2,7 @@
 uid: api.3a66ce8534fdc4f8459e841a3b14ea0d55fd7ca0bee52752e739ed157d337918
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.CreateBuffer(Inno.Rendering.PersistentBufferDescriptor,System.ReadOnlySpan{System.Byte},System.String)"
 source: xml
-reviewed: 0eaf1eb1369aa476f0501695f5882322f49711fb6a14f45241329cec1d502ba3
+reviewed: 3834a2a002b8e349f543798ef38cf922f0c2bad0cf434ec29493de3e49cbd0cc
 title: "CreateBuffer"
 kind: api
 owners: [Inno.Rendering]

@@ -2,7 +2,7 @@
 uid: api.2fced01ec6c3a558f07299ee22cbda4329ac3005cb19f9ab3d4f1d19971ec556
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.CreateFromYawPitchRoll(System.Single,System.Single,System.Single)"
 source: xml
-reviewed: adebd4a0807038e21ab83dc9cdb6ba2057bc0c69b78d4f3c3e53b8ce837fd31c
+reviewed: c4725009b94c7fee30c133aaa179faac166d080e3de9962d79cebb09f98170bf
 title: "CreateFromYawPitchRoll"
 kind: api
 owners: [Inno.Core.Mathematics]

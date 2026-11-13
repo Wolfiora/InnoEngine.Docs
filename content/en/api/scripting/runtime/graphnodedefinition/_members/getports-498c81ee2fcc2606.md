@@ -2,7 +2,7 @@
 uid: api.498c81ee2fcc2606d966a24e8a91920e9c7b21f34a3ea106bb266c97368691a0
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeDefinition.GetPorts(InnoEngine.Graphs.GraphNodeRecord)"
 source: xml
-reviewed: 6fe08ae6b54a08d00f054a54af6bd2bd81c6102f3a9afd11a718f4948fcb33a7
+reviewed: 1b850c0336446224a6c11e21fe0bf943a9e559674701d6f6d7e23e3dad814b21
 title: "GetPorts"
 kind: api
 owners: [Inno.Core.Graphs]

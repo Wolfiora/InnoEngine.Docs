@@ -2,7 +2,7 @@
 uid: api.c9956dd39ad7a93de58fe05c04da08f4fc0cc479522e84f2e3edaff5ae269272
 symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawContext.GetProperty\u0060\u00601(System.String)"
 source: xml
-reviewed: 83a7d046d145615ffe0c30166873a7b9e3bcf8d013410c729f34334ba52a8097
+reviewed: c1d9f5043c8ba81ffc804302ac390c7fefe44781a397c593f029e573ace3f61a
 title: "GetProperty"
 kind: api
 owners: [Inno.Editor.Inspection]

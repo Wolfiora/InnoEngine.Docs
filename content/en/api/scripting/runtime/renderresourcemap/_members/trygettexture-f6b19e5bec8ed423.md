@@ -2,7 +2,7 @@
 uid: api.f6b19e5bec8ed423f611b89d759107b68652a808df946796f1b64f9928478b6c
 symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderResourceMap.TryGetTexture(InnoEngine.Rendering.RenderResourceId,InnoEngine.Rendering.RenderTextureHandle@)"
 source: xml
-reviewed: a5e2b7ede5d55f2ca90a23951f6ce2f39e165e383e87a7c9573b4255319289c5
+reviewed: 697784cf4c8e4db9e8030e39f0974511e2c3de31163eb9a00febfa54346b5b20
 title: "TryGetTexture"
 kind: api
 owners: [Inno.Rendering.Runtime]

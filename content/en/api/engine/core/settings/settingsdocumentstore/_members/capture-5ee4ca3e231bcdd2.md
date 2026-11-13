@@ -2,7 +2,7 @@
 uid: api.5ee4ca3e231bcdd2baf78cfa0fe9aaed178fd82133c829c2b1c7a068fa26460a
 symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.SettingsDocumentStore\u00601.Capture(\u00600)"
 source: xml
-reviewed: bf5950ab9f70422a6b85e607f0568c9ee5eea2b04a943d4d41890a5cd69a7ce3
+reviewed: ab4f5f71f4e82afad6c9764798f8fad19107a477c2407f4ecc8e4f4af4b40044
 title: "Capture"
 kind: api
 owners: [Inno.Core.Settings]

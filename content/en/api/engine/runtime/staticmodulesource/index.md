@@ -2,7 +2,7 @@
 uid: api.inno.runtime.431dd5b2af473d0e
 symbol: "engine:Inno.Runtime:T:Inno.Runtime.StaticModuleSource"
 source: xml
-reviewed: 2132bdac6124396b703ac94f637d5d2263f5aa2fa51b05e4f47b7ffe33ce5e50
+reviewed: 1f1f0e74d8d2b6a9fc8eac92f72ab43c6057380f3ad9e8befcc9604d19a7f41c
 title: "StaticModuleSource"
 kind: api
 owners: [Inno.Runtime]

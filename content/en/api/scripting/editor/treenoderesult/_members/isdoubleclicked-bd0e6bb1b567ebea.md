@@ -2,7 +2,7 @@
 uid: api.bd0e6bb1b567ebea256d8458dd012fabcebd33463d833ae8fd3b8ad3490dd096
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.TreeNodeResult.isDoubleClicked"
 source: xml
-reviewed: c0319f02e45c4de76107735ae9083da8c0a269f53a6ee490892dab35075b516f
+reviewed: 86c0f1b6496d0322d274b587684edab093a6e86b9bf605f3beffae62575d188f
 title: "isDoubleClicked"
 kind: api
 owners: [Inno.Editor.ImGui]

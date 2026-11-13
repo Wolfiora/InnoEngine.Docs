@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.b1a3f28210a7292e
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiSliderFlags"
 source: xml
-reviewed: 7fd6e5c8281e21837bb83a3d4090bc1da70b6c6803dcde107cc49d400b8551f6
+reviewed: 6b63fa1fbc9273ce8ab97923b4792c056c8a28f793b0c085faf92689e79d0f1b
 title: "ImGuiSliderFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

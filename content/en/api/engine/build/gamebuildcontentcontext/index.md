@@ -2,7 +2,7 @@
 uid: api.inno.build.1fa6413f61e74eca
 symbol: "engine:Inno.Build:T:Inno.Build.GameBuildContentContext"
 source: xml
-reviewed: 23a6a99a122238afee0467285502107507944e9a6aefa75316ce3311542c8f87
+reviewed: a1d394b903c736ac000927619937f71de989eebdc5b3a7261641444c171e74bf
 title: "GameBuildContentContext"
 kind: api
 owners: [Inno.Build]

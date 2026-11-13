@@ -2,7 +2,7 @@
 uid: api.9c42ddd55ffe4a075e54dca958674182edbf2f32ec64a1654b414b81f7b05daf
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphDocument.ReadTarget(Inno.Core.Graphs.GraphDocument,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
 source: xml
-reviewed: 1694a338b5bff884146c30df90e52504c953c0611114ee94c2c590b3245eb196
+reviewed: 0b9103ff3da4e990b79ccd86a5b77e655ee660554e7027f13d9d49bff293b296
 title: "ReadTarget"
 kind: api
 owners: [Inno.Rendering.Shaders]

@@ -2,7 +2,7 @@
 uid: api.inno.core.diagnostics.ffa0028db2d92064
 symbol: "engine:Inno.Core.Diagnostics:T:Inno.Core.Diagnostics.IDiagnosticReporter"
 source: xml
-reviewed: b6add354c6fb379f686757cc42b2b58813742a4faa379adedb1c976b19e8b5d2
+reviewed: c0394cb973cd01d8f86cb139310e72633e7bec377a3cb4b68145f4ab499600c5
 title: "IDiagnosticReporter"
 kind: api
 owners: [Inno.Core.Diagnostics]

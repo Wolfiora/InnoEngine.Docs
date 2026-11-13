@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.765065280c3e786a
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderGraphBuilder"
 source: xml
-reviewed: da16c6f121c85578a1cd72b64bc952e286244ca07b8c432a48bd453444abe306
+reviewed: 498af0c440c93f2f509e2f8014de19a1b573400e73acb903fa5cd834814e208f
 title: "RenderGraphBuilder"
 kind: api
 owners: [Inno.Rendering]

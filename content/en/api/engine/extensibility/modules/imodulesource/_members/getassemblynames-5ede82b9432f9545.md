@@ -2,7 +2,7 @@
 uid: api.5ede82b9432f9545c18e6741fa32b2405d63e0cf8b79233431826e68c1b7a72c
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.IModuleSource.GetAssemblyNames"
 source: xml
-reviewed: f13641f34e9ee7563f29f0abfe5b47e02e366614d36f1e1cf8a46fdbe812b246
+reviewed: a826a5a5ce0472e8b44f9b0c405141c45dfd4cd306cc1864817ab3e97c5d5e70
 title: "GetAssemblyNames"
 kind: api
 owners: [Inno.Extensibility.Modules]

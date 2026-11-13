@@ -2,7 +2,7 @@
 uid: api.bf8418a78f8525e109eb63d3437a574db518be1da75e09c807fc40dcedb43d52
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.op_Implicit(Inno.Core.Mathematics.Matrix)~System.Numerics.Matrix4x4"
 source: xml
-reviewed: 1cd5e71e3a39ab8a2b10488e017f968d6878cb463f1128c031e7ce0978de402f
+reviewed: 24a8cb48f74fc900d524b9a5e1eb58e2e6fc94266bc1697596689e6762dda7bf
 title: "op_Implicit"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.10574e15ee7e0ce0b4246372d2039a9504535cd126af68f869f49e25dd922d02
 symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetInfo.#ctor(System.Guid,InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetSourceKind,InnoEngine.Assets.AssetImportStatus,System.String,System.Guid,InnoEngine.Assets.AssetArtifactKey,InnoEngine.Assets.AssetArtifactKey,System.Collections.Generic.IReadOnlyList{System.String})"
 source: xml
-reviewed: 10431b5764493b8ef251568bc36181e134b6152f5a85c010387850797e26ce02
+reviewed: 81f26858c74adf3a1b220e3ff9dbbdbabf40ae47688f3b2c90c10d3254cc594d
 title: "Constructor"
 kind: api
 owners: [Inno.Assets]

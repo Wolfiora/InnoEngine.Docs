@@ -2,7 +2,7 @@
 uid: api.d85ea6e2ed96788993a8b91b9698dfecc3284a43241d37c69250e1ebb54ef7ff
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.AddSystem\u0060\u00601"
 source: xml
-reviewed: c6f8af5e8dbeca19b7f3133d105f673561e3182953db92d289e96df39cb3804b
+reviewed: 13d38841d098e4660ba7447078618c36b592134162b6f2bedebd92ce8431335c
 title: "AddSystem"
 kind: api
 owners: [Inno.Scene]

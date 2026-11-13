@@ -2,7 +2,7 @@
 uid: api.fe76ad1f4856cf6141c4bce89d9c1237272d506cc8b9b4833f10d36abb9b6f84
 symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.#ctor(Inno.Extensibility.Modules.ModuleHostOptions)"
 source: xml
-reviewed: 3952a54448fa45eb811200956f110ba54cd793e9842c47cb9c7f46ba3841edd2
+reviewed: 7aee32481712abbfa9d0ddaa503f18c89275d09b5975bd904efba354dd24b53d
 title: "Constructor"
 kind: api
 owners: [Inno.Extensibility.Modules]

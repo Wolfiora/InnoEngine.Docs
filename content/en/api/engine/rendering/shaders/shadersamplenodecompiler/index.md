@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.aa229d0b1f57e89d
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSampleNodeCompiler"
 source: xml
-reviewed: 2459aa5830fe7acf09b9833d5d86a6ab8d6a89f5093006f092f0528962ba8bb1
+reviewed: 6f8473950bae45cf35242983bd65b1d2568e5d4b2ec6e7a5af9c62592294681f
 title: "ShaderSampleNodeCompiler"
 kind: api
 owners: [Inno.Rendering.Shaders]

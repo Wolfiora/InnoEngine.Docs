@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.e3f5c1e5224944c3
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UI"
 source: xml
-reviewed: cb5f34faa364895fd4be8be3d6412c7c6d5333d63e29074ea8ea4f9a5988055f
+reviewed: 0dc5674ed13db08f3fc3ff49da9690e523bb7a15a35ad1c50d3834ad0fc06712
 title: "UI"
 kind: api
 owners: [Inno.UI]

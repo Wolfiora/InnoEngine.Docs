@@ -2,7 +2,7 @@
 uid: api.f545db46994126b17d126bcc62d6c4f96c6b796fcc19d3cff34571c9ba737e5d
 symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeRecord.TryGetValue(System.String,InnoEngine.Graphs.GraphSerializedValue@)"
 source: xml
-reviewed: 360c23890e95402332e1833ac6a64264dc5d295b01e0d8034432a9e68787f806
+reviewed: 5a16e42046a3662f512ddc41bd8531a1fbaade2b92c11538ca28d9e644af5a32
 title: "TryGetValue"
 kind: api
 owners: [Inno.Core.Graphs]

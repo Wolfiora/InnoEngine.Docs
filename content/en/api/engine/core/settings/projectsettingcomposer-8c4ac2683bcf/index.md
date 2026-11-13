@@ -2,7 +2,7 @@
 uid: api.inno.core.settings.a05d0706a3a23b82
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingComposer"
 source: xml
-reviewed: 78c3b903b6c630b86f70acff86296ac59e37c92f8f9c707ae7064e8551dd58ca
+reviewed: f66cb1d10444bc99fff6852950a7898350890b75fd00f59d02056348c8941cde
 title: "ProjectSettingComposer"
 kind: api
 owners: [Inno.Core.Settings]

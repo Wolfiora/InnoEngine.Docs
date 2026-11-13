@@ -2,7 +2,7 @@
 uid: api.b08aa3bf6cc178559f216262dda35bb29fb8d2fd427783bbc63fc19a8ae3f071
 symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioBusHandle.isValid"
 source: xml
-reviewed: 6de93c50d37212e675cc462eb3d3942b58e78e88b0097a45730b4e35535a117b
+reviewed: c2d8583942b3d78b07a86a9c7b2525624a948169eac9552d997a83e7f3d5ece6
 title: "isValid"
 kind: api
 owners: [Inno.Audio]

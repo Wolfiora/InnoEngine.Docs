@@ -2,7 +2,7 @@
 uid: api.4334cacc44d5baa828506a995ff2d6c8501d6e4d4704ffc104227227a75edfb2
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SetCursorPosition(System.Numerics.Vector2)"
 source: xml
-reviewed: 867a9cdfc6a80f8ca50738a8694c1d6c2c757527844664770425f9842bc9936a
+reviewed: f748ba07206469fb96d3d8d8899f1c451f14b9fa051ff8adc7731d98c0729a44
 title: "SetCursorPosition"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.inno.audio.runtime-script.b5c6dccacf95fcff
 symbol: "scripting:Inno.Audio:T:InnoEngine.Audio.AudioParameterId"
 source: xml
-reviewed: 2222102195c28e808802312134470d7694be0e8f40e47597672cd70e3c310e46
+reviewed: 915f69927f2309f7a9a77555beb22e0f092a6dde25323a03968224caa1099d2d
 title: "AudioParameterId"
 kind: api
 owners: [Inno.Audio]

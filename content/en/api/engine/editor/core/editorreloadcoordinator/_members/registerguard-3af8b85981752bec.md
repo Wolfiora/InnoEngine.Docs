@@ -2,7 +2,7 @@
 uid: api.3af8b85981752beccc3750fbfbd8ad48daf7bef9edd5110af849c22f6a1a0330
 symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.RegisterGuard(Inno.Editor.Core.IEditorReloadGuard)"
 source: xml
-reviewed: 3e69c3628553dc90867c4d66a4d411bb7b85421e00ee01d0659f718ffa8e94e6
+reviewed: f4d7c59b5bc0c5eafa1b5425a66042957c8ce2ea6c3567e2af09a83e10dae1cb
 title: "RegisterGuard"
 kind: api
 owners: [Inno.Editor.Core]

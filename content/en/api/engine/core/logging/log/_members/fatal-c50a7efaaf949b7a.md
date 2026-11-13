@@ -2,7 +2,7 @@
 uid: api.c50a7efaaf949b7ab884c40bd4e11c01f28e61ed2c990bb4f655b2b46f98b9d4
 symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Fatal(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
 source: xml
-reviewed: c23bef9275cde73ac772b7b269d908915d8ec4e48f449828a8652d2c4d90e3d6
+reviewed: 0f5a1ee493c4e164fad5fd8cada6c4b3beef67dd748db4837a884c8efba1ded6
 title: "Fatal"
 kind: api
 owners: [Inno.Core.Logging]

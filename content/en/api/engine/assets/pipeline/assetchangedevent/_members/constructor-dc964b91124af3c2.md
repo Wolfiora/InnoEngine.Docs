@@ -2,7 +2,7 @@
 uid: api.dc964b91124af3c2af1d261f4dcdc441290cbbfe1307ebb5304aec5c346eea76
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetChangedEvent.#ctor(System.String,System.IO.WatcherChangeTypes,System.String)"
 source: xml
-reviewed: 5741915bc91f24d004d6a13ddae9e76278f1697410b941f1f6d38d4aacc24445
+reviewed: f977d4612b0a141c6d90900ad3d71c230f10c98ff82bb253e207e921b36737a6
 title: "Constructor"
 kind: api
 owners: [Inno.Assets.Pipeline]

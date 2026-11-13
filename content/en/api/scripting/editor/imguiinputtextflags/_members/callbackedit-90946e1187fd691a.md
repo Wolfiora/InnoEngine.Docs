@@ -2,7 +2,7 @@
 uid: api.90946e1187fd691a4fc425e968178ce781f645e023180389ce91b5a4901d5071
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.CallbackEdit"
 source: xml
-reviewed: 81f0fb89be124dad514a5e7b980e1409fee5b01430bb359fc96e19cabddd8bc0
+reviewed: 4024aee985aa67f94122f8c62e02155025efd2fdbd369578e5ddfe8f345d7747
 title: "CallbackEdit"
 kind: api
 owners: [Inno.Editor.ImGui]

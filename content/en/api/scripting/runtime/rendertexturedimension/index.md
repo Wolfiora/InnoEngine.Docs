@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.d0cd80a4eea6959c
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTextureDimension"
 source: xml
-reviewed: 6c6fc15f89b3467bef6b50ddca68022c2a2be645b54a88650181eb061f073482
+reviewed: 646e3a20177e1a61ee906a4d091e06a1f305fc171cc4bf4ea8df67c4935938a8
 title: "RenderTextureDimension"
 kind: api
 owners: [Inno.Rendering]

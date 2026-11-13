@@ -2,7 +2,7 @@
 uid: api.f577347a5478b7e466556805a4dc1a8c8af00b7f627cb69f7485efe79a4be22a
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.WriteAllBytes(System.String,System.ReadOnlySpan{System.Byte},System.Boolean)"
 source: xml
-reviewed: dbe97892d5cd17614a78b9158acc3e2cfc876d90a618faf52d6c645770332d1c
+reviewed: c261b2720bf24a012c4b25ca32abbccae005c6c522c1fd54d15025c3480855d8
 title: "WriteAllBytes"
 kind: api
 owners: [Inno.Core.IO]

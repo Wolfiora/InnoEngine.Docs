@@ -2,7 +2,7 @@
 uid: api.39fc797adb7ee208d1ef480bdbecf46a993d32801568f646914afe47c7f80cbb
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.BeginCombo(System.String,System.String,InnoEditor.ImGui.ImGuiComboFlags)"
 source: xml
-reviewed: 2965591c39d9dfa77b49d21b2c8c53a02cffbba3d2341f611619bea7fa050d7b
+reviewed: 6e60aa3cbeb54b0cc132266d91c2c0a8634069de58f671fe587838bba16d73ee
 title: "BeginCombo"
 kind: api
 owners: [Inno.Editor.ImGui]

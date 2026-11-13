@@ -2,7 +2,7 @@
 uid: api.8dfee5598a6e8832841877d907c940c804cf4c9b7347af10dde591d868c54b3e
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.TransformNormal(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Matrix)"
 source: xml
-reviewed: 9e2368749e270e2219bfa509d5b5158c75465aa5fa06c671876709c22a64b13a
+reviewed: 7fe42bfe0527aed360b0021a523e6be544692b830d0775241f51ff7fc819ea37
 title: "TransformNormal"
 kind: api
 owners: [Inno.Core.Mathematics]

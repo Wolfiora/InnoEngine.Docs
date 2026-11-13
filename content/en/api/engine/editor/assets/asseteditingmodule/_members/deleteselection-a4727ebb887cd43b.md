@@ -2,7 +2,7 @@
 uid: api.a4727ebb887cd43b672c6c323ae878a76b45469fd0a6820e9b06f73e0f1da2d1
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.DeleteSelection(Inno.Editor.Core.EditorContext,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry})"
 source: xml
-reviewed: 94d0ce833d5e4a81e754bf07de9d23e81ace9717f7a3c4aece2197cf3ade0e21
+reviewed: b5b7971a33cb36f0dfea739e18de278ada773be8ec91012fca08411530c0f3aa
 title: "DeleteSelection"
 kind: api
 owners: [Inno.Editor.Assets]

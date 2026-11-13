@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.editor-script.1694d95b349fae53
 symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiChildFlags"
 source: xml
-reviewed: 5a2177006d7249b63583cf694d42b60cc7a8e1b19b6e32e6376187845a031501
+reviewed: dcdfb2cd9dee0a947c6988396e9e2e02c0ff766af648102d8533847077c758cf
 title: "ImGuiChildFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

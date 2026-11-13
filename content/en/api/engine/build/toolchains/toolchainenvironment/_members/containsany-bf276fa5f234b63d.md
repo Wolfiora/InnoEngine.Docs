@@ -2,7 +2,7 @@
 uid: api.bf276fa5f234b63d472f0f9dcbff6c2333f99251cb6652414d8adb58a0ca7f72
 symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.ContainsAny(System.String,System.String[])"
 source: xml
-reviewed: b9ec94058a24d4db130a8a90c4d181f52b769b25b0e38b4ca071dc4636cb5f56
+reviewed: 4bdf9dc350c1c6a14a70f829b4644c93bbcebc02ab44ead16154946e26955b45
 title: "ContainsAny"
 kind: api
 owners: [Inno.Build.Toolchains]

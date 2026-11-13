@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.98c332a94eede880
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderModelExtensionAttribute"
 source: xml
-reviewed: 795957ca7c43fa129b35a108b3a197d3bf7e59b1d560d9544b20e4364f81f0c8
+reviewed: cbfa703de2720f063ac1171221ba952414ed278d33e178f07579170d54778ab6
 title: "RenderModelExtensionAttribute"
 kind: api
 owners: [Inno.Rendering.Runtime]

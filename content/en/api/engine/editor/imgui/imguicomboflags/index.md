@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.3a3b145927eadbba
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiComboFlags"
 source: xml
-reviewed: 12413929d4132e957f68c5dd295ad2c7257aa328e6bdb78495957fda4380603e
+reviewed: d4ac2e7d96acacc97832179d29326eebe3128fcdeefb9e0ef742676d9d034dc4
 title: "ImGuiComboFlags"
 kind: api
 owners: [Inno.Editor.ImGui]

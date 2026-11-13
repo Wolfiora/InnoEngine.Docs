@@ -2,7 +2,7 @@
 uid: api.67a7e61d99b28699928af54b39dbda681726a59ea6c52bf9b267f0b0f1603452
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsCapabilities.originBottomLeft"
 source: xml
-reviewed: 91b696ac4d0debc47cf866ef8432ccdb6a30a844c1ad6bb01031719c1f7cc619
+reviewed: 580f523189b4894d59815c4282a3443f81c427eae642e5f10d42dc4c8113af2d
 title: "originBottomLeft"
 kind: api
 owners: [Inno.Rendering]

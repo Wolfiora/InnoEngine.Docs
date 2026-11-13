@@ -2,7 +2,7 @@
 uid: api.23309667fd5cafbac1488960189b13952c6f540aa916af2bf0efe28daac5fd37
 symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPort.Equals(System.Object)"
 source: xml
-reviewed: 3a7b217969ff0fa05363d2a0c2077dd311581fd7fd3f6bfab4b5efa8a6a8b504
+reviewed: 56a7bb56253a269a9b62ab60e5123b07e13b22c3ea4e07cfd718648eb4a7fade
 title: "Equals"
 kind: api
 owners: [Inno.Editor.Graph.ImGui]

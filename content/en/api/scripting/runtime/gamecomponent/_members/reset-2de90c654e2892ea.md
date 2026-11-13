@@ -2,7 +2,7 @@
 uid: api.2de90c654e2892eac05463855fe1423ed4bcc9d5a05d23fde749a2b3bf35985b
 symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameComponent.Reset"
 source: xml
-reviewed: 68239f994f83f640d665d3489c520a6476655f7989b0dae7e9a828adf5f9b1a6
+reviewed: c3d5ada61c0bdf2d4c7226623404995594726dadced3527803fe42efba59a625
 title: "Reset"
 kind: api
 owners: [Inno.Scene]

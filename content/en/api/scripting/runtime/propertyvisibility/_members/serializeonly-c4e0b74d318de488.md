@@ -2,7 +2,7 @@
 uid: api.c4e0b74d318de4884e2a2edc402069d578d3948de2943907ff4c12059edb19fd
 symbol: "scripting:Inno.Core.Serialization:F:InnoEngine.Serialization.PropertyVisibility.SerializeOnly"
 source: xml
-reviewed: c42a49858b12a671d759ab2bf6da9a4d3f120c70a66726f212e71daaad0e4948
+reviewed: f3ead909ef15d26fc022aacb4839c4e8afe8b506542e2014df8cec06c0006f27
 title: "SerializeOnly"
 kind: api
 owners: [Inno.Core.Serialization]

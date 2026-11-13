@@ -2,7 +2,7 @@
 uid: api.4125acad3b05618d0c829c36b4babdf17d09be9dcfd9afba8562fa66eb9ffd81
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderShaderBindingDescriptor.#ctor(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderShaderBindingKind,System.Int32,Inno.Rendering.RenderUniformType,System.Int32,Inno.Rendering.RenderStorageAccess,System.String)"
 source: xml
-reviewed: 97f6875a5530d4017345736697063d630d624dfd1f4ade15cfb1b8d9392e6bb3
+reviewed: d5eb509c19b8cf561196aa7525ee418f6340963491928a60a3421a437e663866
 title: "Constructor"
 kind: api
 owners: [Inno.Rendering]

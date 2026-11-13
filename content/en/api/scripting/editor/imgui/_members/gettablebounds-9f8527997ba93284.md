@@ -2,7 +2,7 @@
 uid: api.9f8527997ba93284f790b890756bf2e770b37090046614e82d867767cc3220b3
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetTableBounds"
 source: xml
-reviewed: a2a8d5f4ca632f8e486d7037cc007d627141550ffaf4337c639dd0132e420b4a
+reviewed: e3b352d4a61868a32dd80449f9499d180b59e02176a50e6f1df4396f1cb541b6
 title: "GetTableBounds"
 kind: api
 owners: [Inno.Editor.ImGui]

@@ -2,7 +2,7 @@
 uid: api.4b6ccb4b6da0c2736dec76cebbfdf586e0eaa3d0e47897e4a28a3b1b9545b106
 symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphDiagnostic.Equals(Inno.Rendering.Shaders.ShaderGraphDiagnostic)"
 source: xml
-reviewed: 07d6087d55f578993a693a92bbc5ddc71d8daf774034a2a51f5d20f0b987f62d
+reviewed: c149b60e913d943f229e54f009e7c1e26413912b177ebc3e8859ab658c77aa0a
 title: "Equals"
 kind: api
 owners: [Inno.Rendering.Shaders]

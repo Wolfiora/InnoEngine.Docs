@@ -2,7 +2,7 @@
 uid: api.ac435fca3cc3476a9dcc8d8403881e98791ed6350e356c1712e4e66f094b1eb8
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.MeasureWrappedText(System.String,System.Single)"
 source: xml
-reviewed: b7af1246f401bc87c3943fd04faa9d959efb0749b037ef77fcfff027735f0423
+reviewed: 263704e1cc4fd6ea64a71dbb241293c8204eb2ea5af4383149d6078292ef66da
 title: "MeasureWrappedText"
 kind: api
 owners: [Inno.Editor.ImGui]

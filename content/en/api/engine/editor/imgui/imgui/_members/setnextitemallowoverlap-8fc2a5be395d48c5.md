@@ -2,7 +2,7 @@
 uid: api.8fc2a5be395d48c5cefaeb87a605787c1a2315e50da23037326e032814b90436
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SetNextItemAllowOverlap"
 source: xml
-reviewed: 13998ef68fa3e7107a9aa61bf3b1892a6afa9b909e4a35e98da0afc1ec062a07
+reviewed: a9cbbc166505d426d0e61bd736264d1db5e250cf7c5ff59424fb624e501cb306
 title: "SetNextItemAllowOverlap"
 kind: api
 owners: [Inno.Editor.ImGui]

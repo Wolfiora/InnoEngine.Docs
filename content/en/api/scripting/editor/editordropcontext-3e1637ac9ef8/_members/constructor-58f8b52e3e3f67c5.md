@@ -2,7 +2,7 @@
 uid: api.58f8b52e3e3f67c557b0574201703ec2b5cc37a2c6918e73bdda073fa1161c95
 symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropContext.#ctor(InnoEditor.Core.EditorContext,InnoEditor.Interactions.EditorInteractions,System.String,InnoEditor.Interactions.EditorDragData,InnoEngine.Core.IdentityObject,System.Object,InnoEditor.Interactions.EditorDropPlacement)"
 source: xml
-reviewed: 7f47c39258500235952feea63bad6cbaaaf115b4561640eaef1d5d29ffc36b1f
+reviewed: d40f60e612f60035b24c31e767b1aee55f8d4451c6ca4bdbbaf86668ebb80cb1
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Interactions]

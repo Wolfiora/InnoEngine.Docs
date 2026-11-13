@@ -2,7 +2,7 @@
 uid: api.67816fbd022299720233ecef08b4917956ce95a91032c36fcecf2c73f9b88b5b
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetMousePos"
 source: xml
-reviewed: 4925510d53893af0085ceba0ddd4a8c1836e3477d9c467543c579b61b5f14a99
+reviewed: d5ccd33a99029e2815f3ba8c357aef900b6beff9ea411383ed2e93742270d56c
 title: "GetMousePos"
 kind: api
 owners: [Inno.Editor.ImGui]

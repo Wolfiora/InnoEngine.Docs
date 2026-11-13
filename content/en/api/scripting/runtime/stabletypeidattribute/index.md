@@ -2,7 +2,7 @@
 uid: api.inno.extensibility.types.runtime-script.2536f7efacbf8b7f
 symbol: "scripting:Inno.Extensibility.Types:T:InnoEngine.Reflection.StableTypeIdAttribute"
 source: xml
-reviewed: 1e7734132948c35c7213cd87262fd0f1462a1961accfb7cc6d507b7e5241b3b1
+reviewed: d2660fc46bccd2815e65fa0e9bbe99aa7f8a9843b5f7052680f93fe87db920f1
 title: "StableTypeIdAttribute"
 kind: api
 owners: [Inno.Extensibility.Types]

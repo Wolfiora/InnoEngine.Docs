@@ -2,7 +2,7 @@
 uid: api.91455a02fed890ba9fa2784fe35dd08405895abca9bd079ce48afb554d390832
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.OnAttach(InnoEditor.Core.EditorContext)"
 source: xml
-reviewed: 1737b4bc8b1e372f898943daf56b7984cc65593b50880d1de829e972a826c0a7
+reviewed: 8aff732bd6d6f081ab7a8af9b36f9614dc899ac566322e080fc57765dc82cf21
 title: "OnAttach"
 kind: api
 owners: [Inno.Editor.Core]

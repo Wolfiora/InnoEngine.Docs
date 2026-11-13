@@ -2,7 +2,7 @@
 uid: api.7ebbecfedc88d502c561607bdc7fec107eb3718799ca6f11d919fc98d71604e8
 symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.IsTreeNodeOpen(System.String)"
 source: xml
-reviewed: f30032dfdb56cb1bb210fe3899f253615c5644dc5000e308cb117683a5dc9142
+reviewed: 26aa7b2fa591bb1a406026a4d26aa4df34bada94b4c44fb91ba866f56b070ef5
 title: "IsTreeNodeOpen"
 kind: api
 owners: [Inno.Editor.ImGui]

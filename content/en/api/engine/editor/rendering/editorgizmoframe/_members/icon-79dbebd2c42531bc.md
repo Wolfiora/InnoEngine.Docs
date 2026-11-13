@@ -2,7 +2,7 @@
 uid: api.79dbebd2c42531bc101d4c64a88014eae9da01fb24c934fe25f0865f18e326e0
 symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoFrame.Icon(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Vector3,System.String)"
 source: xml
-reviewed: 71b067a90d4a1137b1e320dc5e561da3cac0461ae6f1b062a95b4755bf39186a
+reviewed: 0bca7e1fbc9d3fd603adaf2083c167a65ca944149475110b8aaba3f66d35dec0
 title: "Icon"
 kind: api
 owners: [Inno.Editor.Rendering]

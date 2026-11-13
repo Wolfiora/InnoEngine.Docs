@@ -2,7 +2,7 @@
 uid: api.e67e3c5f3530302e95dcf5caff5ed0d2b2b9757ce5698ddc8cf1fad65c89c59b
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorContext.RemoveLayoutSection(System.String)"
 source: xml
-reviewed: 7856d851a8cc590bdba9cc393bad445625707c93531334872ed4fc585e0f531e
+reviewed: dfba94e10027d761e1e11e565c1f90287f416b8c6aba390206b25066e255980b
 title: "RemoveLayoutSection"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.139c77f8998e2657
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportHealthSnapshot"
 source: xml
-reviewed: 051b520098c888fa616b586407358b07174aad3ee670e4ce5a1c5a6c82b431cf
+reviewed: 213664e91b868e11469a679f2edd3fb98a17d336f17014e91455a70098f14dce
 title: "AssetImportHealthSnapshot"
 kind: api
 owners: [Inno.Assets.Pipeline]

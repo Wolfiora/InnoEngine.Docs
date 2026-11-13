@@ -2,7 +2,7 @@
 uid: api.inno.core.coroutines.44f36c50a6bd55b2
 symbol: "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.CoroutineScheduler"
 source: xml
-reviewed: 6c36f948531870ab54ca08c56135829226e671bb3875da6e494557e38672e9b7
+reviewed: ce3fce1bb71262d179adecdf1de6fb53a556dedb9a3a8d5b02089468633c45c9
 title: "CoroutineScheduler"
 kind: api
 owners: [Inno.Core.Coroutines]

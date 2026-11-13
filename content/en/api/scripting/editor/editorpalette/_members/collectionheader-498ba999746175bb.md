@@ -2,7 +2,7 @@
 uid: api.498ba999746175bbb8476728730210fd8ae4daabe9584e45a261be10255955c4
 symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.collectionHeader"
 source: xml
-reviewed: 6e577ae1c5c33eadef29e262d07d90e593e1bc87b607a79536f6ca592ea941db
+reviewed: e437947f586dee3976f73869ea5930f30abad929cd532b90b14c33300cb16444
 title: "collectionHeader"
 kind: api
 owners: [Inno.Editor.ImGui]

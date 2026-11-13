@@ -2,7 +2,7 @@
 uid: api.15fe6d5dad96ef15ae642db50171c2530880b42a6dedee4d0708531dd59a2606
 symbol: "engine:Inno.Adapter.Text:P:Inno.Adapter.Text.TextBackendCatalog.supportedBackends"
 source: xml
-reviewed: 4afc244a94083a4f997a735ffa85d4372483ba020da8fd95018112b26cbe4822
+reviewed: 67891d70e6cb8c01777b133e5a2ba2bb7acbeeab5690ddb294f7b9afa9149a29
 title: "supportedBackends"
 kind: api
 owners: [Inno.Adapter.Text]

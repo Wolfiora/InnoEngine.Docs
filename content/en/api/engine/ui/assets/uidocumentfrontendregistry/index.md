@@ -2,7 +2,7 @@
 uid: api.inno.ui.assets.aea441748cd94f69
 symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentFrontendRegistry"
 source: xml
-reviewed: a16fb696eb1026e664fec67d5099d8f85cb3219084acaa334b1fcbdb23a705a1
+reviewed: 58bdbc3b8ffdfd1a21bd9bc6ff2eb3b3a82fa552c3b900670fc10484460aea25
 title: "UiDocumentFrontendRegistry"
 kind: api
 owners: [Inno.UI.Assets]

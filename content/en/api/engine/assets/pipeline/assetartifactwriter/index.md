@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.01f9789655046883
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetArtifactWriter"
 source: xml
-reviewed: 089dbe6da810b953f98fc4a3b7941f9161be049b6847d04df200daca82596aa5
+reviewed: c08557dab2da3fc2d585ca387e4aea1097d67acdf20e4bd26934f1fb1cebefec
 title: "AssetArtifactWriter"
 kind: api
 owners: [Inno.Assets.Pipeline]

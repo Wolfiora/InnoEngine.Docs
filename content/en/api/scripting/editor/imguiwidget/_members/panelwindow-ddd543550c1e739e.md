@@ -2,7 +2,7 @@
 uid: api.ddd543550c1e739e3ab74541dd628effb30f064f5da4c34faff828ba255a7328
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PanelWindow(System.String,System.Boolean@,System.Action,InnoEditor.ImGui.ImGuiWindowFlags,System.Boolean)"
 source: xml
-reviewed: 4d47eff4b5daab9c79702d8af6c7cdda34efb73077daed7b30575c3c6466a8a6
+reviewed: 021c5ffa5de704fbdcc87110321b8090daf807f05255dc989359a55833e5fbd0
 title: "PanelWindow"
 kind: api
 owners: [Inno.Editor.ImGui]

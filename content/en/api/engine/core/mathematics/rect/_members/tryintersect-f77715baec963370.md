@@ -2,7 +2,7 @@
 uid: api.f77715baec963370f7e3271abd151a4deab02160215a00ca05acb6a01c641e3b
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.TryIntersect(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect@)"
 source: xml
-reviewed: 3058f384a275a64f754cb49e2cf15b066926cda1ef667aa9d7168e15d89603b2
+reviewed: 97b5f431a87db6182b9eec195a552e667c483d74a84fa7bcfc8ad0e6e0b98956
 title: "TryIntersect"
 kind: api
 owners: [Inno.Core.Mathematics]

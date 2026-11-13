@@ -2,7 +2,7 @@
 uid: api.inno.scripting.api.0d395e2cc6e06408
 symbol: "engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingAttachableTypeAttribute"
 source: xml
-reviewed: 7113ef508b670099f66500049d2b8a45f727931c0082db52697002d272610268
+reviewed: 50fa50b342995c81bc3874ea42b8c10552ce57455193d772851a7d500940c127
 title: "ScriptingAttachableTypeAttribute"
 kind: api
 owners: [Inno.Scripting.Api]

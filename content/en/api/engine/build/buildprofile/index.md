@@ -2,7 +2,7 @@
 uid: api.inno.build.bec857b0dcc96c8d
 symbol: "engine:Inno.Build:T:Inno.Build.BuildProfile"
 source: xml
-reviewed: b197f2eb2d67b9c8c47936812d2eeb556ec2deb23cd6d660f9728af9c265cb98
+reviewed: b2afc5639c224482e653cdcdd030f67dc82fa1bcde97af3a4fcc4212c83482d4
 title: "BuildProfile"
 kind: api
 owners: [Inno.Build]

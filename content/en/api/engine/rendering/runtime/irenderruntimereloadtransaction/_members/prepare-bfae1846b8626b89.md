@@ -2,7 +2,7 @@
 uid: api.bfae1846b8626b89f6333b7142b7a065fbac4c4f43b631a31d6d2e99fcd8b358
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderRuntimeReloadTransaction.Prepare"
 source: xml
-reviewed: 3e52775cefb16b3c953f6d1309cd0bb3142667836a58274c224ee82175395ccb
+reviewed: f18e9d0feb99e2510f31899044714fbb52165a75edd96e87ab49b7f76556d062
 title: "Prepare"
 kind: api
 owners: [Inno.Rendering.Runtime]

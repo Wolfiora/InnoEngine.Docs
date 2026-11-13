@@ -2,7 +2,7 @@
 uid: api.inno.editor.interactions.26b5af875a996ae9
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorValidationResult"
 source: xml
-reviewed: 5d2c9205582998584d9dd7d8efe7821b69581ec805d5c44c60e14991074bba9e
+reviewed: 8c3f0ffe6bf7476bd1e4a6862789725663498b0336b576b0780fd77be348a111
 title: "EditorValidationResult"
 kind: api
 owners: [Inno.Editor.Interactions]

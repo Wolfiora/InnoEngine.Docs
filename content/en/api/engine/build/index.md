@@ -13,10 +13,6 @@ Find types in this project category. Each type links to its exact declarations a
 
 [Browse Bindings](bindings/index.md).
 
-## BrowserWasm32
-
-[Browse BrowserWasm32](browserwasm32/index.md).
-
 ## Cli
 
 [Browse Cli](cli/index.md).
@@ -28,10 +24,6 @@ Find types in this project category. Each type links to its exact declarations a
 ## Distribution
 
 [Browse Distribution](distribution/index.md).
-
-## MacOSArm64
-
-[Browse MacOSArm64](macosarm64/index.md).
 
 ## Managed
 
@@ -56,14 +48,6 @@ Find types in this project category. Each type links to its exact declarations a
 ## Toolchains
 
 [Browse Toolchains](toolchains/index.md).
-
-## Windows
-
-[Browse Windows](windows/index.md).
-
-## WindowsX64
-
-[Browse WindowsX64](windowsx64/index.md).
 
 ## BuildDiagnostic
 

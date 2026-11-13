@@ -2,7 +2,7 @@
 uid: api.55a76545e7f012a243360a652d2646f560efafa1fee6923ce91a93427e8f9ade
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphEditorModule.OpenDocument(System.Guid,InnoEngine.Graphs.GraphDocument,InnoEditor.Interactions.IEditorHistory)"
 source: xml
-reviewed: c19405191360b4a7e31cacc8f8f230b1a1f40fe58bbb03b73f21f491ff60e6e3
+reviewed: 5f52d7e7abe7f10f2befc7f349aa0323d9831c6615e8e778087f4c1e88c29420
 title: "OpenDocument"
 kind: api
 owners: [Inno.Editor.Graph]

@@ -2,7 +2,7 @@
 uid: api.a568bb099398829ea36000d2d3ceb47db76b8168829f87119e72fda91175768f
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsWindowFocused(InnoEditor.ImGui.ImGuiFocusedFlags)"
 source: xml
-reviewed: 26ab63494cbffbd963f7440a177c00ff910f06ed6f897e9f4dcde452c6beff81
+reviewed: 034b13d36d46859982ba041cf4f1fa204b6f5cbcaa70e71c6c81616a3c2fd491
 title: "IsWindowFocused"
 kind: api
 owners: [Inno.Editor.ImGui]

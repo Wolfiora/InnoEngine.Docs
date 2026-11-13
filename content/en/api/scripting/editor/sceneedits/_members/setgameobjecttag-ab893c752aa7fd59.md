@@ -2,7 +2,7 @@
 uid: api.ab893c752aa7fd59b953c221baa27b099a2f6c25f8ca9b7160b94a060c6bf66c
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.SetGameObjectTag(InnoEngine.Scene.GameObject,System.String,System.String)"
 source: xml
-reviewed: 203b30970ae3bbd87127f4d57a4df598680c526a75c7db2a07ea54278eca9798
+reviewed: 29bd18307c1ff08f4da4a261e8effb5479958fda31d12d543cb188555eee2eb9
 title: "SetGameObjectTag"
 kind: api
 owners: [Inno.Editor.Scene]

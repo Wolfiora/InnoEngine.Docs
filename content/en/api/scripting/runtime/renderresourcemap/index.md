@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime.runtime-script.88979b13f8819305
 symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderResourceMap"
 source: xml
-reviewed: 49fa0c209957ba26fa3b807d9a13d35c3836e6e9605c2fe62e84056b854971af
+reviewed: 7419dee167a480522d9b6700f4de059991740ebff9fbc33b919cf0d72db170d2
 title: "RenderResourceMap"
 kind: api
 owners: [Inno.Rendering.Runtime]

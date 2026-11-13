@@ -2,7 +2,7 @@
 uid: api.261c009cbfe32cb4780ad259afec24f75abb33e51124687112eb29c8f5765984
 symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.LoadNewSceneAdditive(System.String,System.Boolean)"
 source: xml
-reviewed: 879569a70ffc095d182dabedc6fb2c655591a9ec0679f4c08dbfa56110b0fed2
+reviewed: 24efea13cf907816c90b89dbfe120cafc468a468c23d35f792c13e80dbead3c4
 title: "LoadNewSceneAdditive"
 kind: api
 owners: [Inno.Scene]

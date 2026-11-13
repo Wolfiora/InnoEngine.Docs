@@ -2,7 +2,7 @@
 uid: api.inno.core.serialization.532d59aed512a0ec
 symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationRegistry"
 source: xml
-reviewed: a7c53c19ae6c0aa97256c22c803753c3a51374670e312df6309ea04a19af32f7
+reviewed: 095d6f8ce7564bf6a43d32cbc44bf0081c13d4361d840221022c3ca9835e46f0
 title: "SerializationRegistry"
 kind: api
 owners: [Inno.Core.Serialization]

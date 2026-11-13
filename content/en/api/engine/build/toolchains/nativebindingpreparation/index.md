@@ -2,7 +2,7 @@
 uid: api.inno.build.toolchains.b06ba19a53afb378
 symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingPreparation"
 source: xml
-reviewed: c2103f01a0e16433b83e57b44fa1b4d5dfa5f110a8d1c19968414a93ac9a4c87
+reviewed: 17c22298b30fef4da857527098ac5fee7d4f87d64f72cf689ec89285689fce24
 title: "NativeBindingPreparation"
 kind: api
 owners: [Inno.Build.Toolchains]

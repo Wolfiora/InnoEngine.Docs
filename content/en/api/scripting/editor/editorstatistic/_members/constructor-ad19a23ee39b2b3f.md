@@ -2,7 +2,7 @@
 uid: api.ad19a23ee39b2b3f364b78eada1c5e509f202d1bc0139beee7adf36929e2f8f0
 symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatistic.#ctor(InnoEditor.Core.EditorStatisticId,InnoEditor.Core.EditorStatisticGroupId,System.String,System.String,System.String,System.Int32,System.Int32)"
 source: xml
-reviewed: 3cf9eaf6c4f786c862832d37f1e971fb72a01be08ca381c0fa7dca1a7a9f1b65
+reviewed: ba064e1b06b398eb17a0f5bba12e0f983ba0dd11fcc3859995f2e747020b8cf7
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Core]

@@ -2,7 +2,7 @@
 uid: api.d6006fb3508dd0553f6653718dcdfc172fd27b87cbe0d338b3080a81f1b68746
 symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderNodeDescriptionContext.stageInput"
 source: xml
-reviewed: 2a906e026a1f75e8215a6579e1df667033c4b00cb3dd12208b20ef9a7d58146d
+reviewed: d969151bba6acf8384b53f5ff11f87dd7d0a75c072a208b67a00d56f57be3056
 title: "stageInput"
 kind: api
 owners: [Inno.Rendering.Shaders]

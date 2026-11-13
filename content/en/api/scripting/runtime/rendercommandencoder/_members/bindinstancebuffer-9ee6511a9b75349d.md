@@ -2,7 +2,7 @@
 uid: api.9ee6511a9b75349d98aab36d145c7298ce88f33dd7e8ccd8644bc7e5baebecd5
 symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindInstanceBuffer(InnoEngine.Rendering.RenderBufferHandle,System.Int32,System.Int32)"
 source: xml
-reviewed: f137c32bf2adc5d293788474fa1ff773573e328a725edbcee1467faa14fcc763
+reviewed: 879eaa3b81c1e7f80f770cee81ef99e84b18ce7ed842a07d9de2bade5d292954
 title: "BindInstanceBuffer"
 kind: api
 owners: [Inno.Rendering]

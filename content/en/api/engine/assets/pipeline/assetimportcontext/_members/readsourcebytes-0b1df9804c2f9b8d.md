@@ -2,7 +2,7 @@
 uid: api.0b1df9804c2f9b8d124d0142b5cab4ab4e8c841147679cf6c4a0886b7dab4a78
 symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ReadSourceBytes(Inno.Assets.AssetPath)"
 source: xml
-reviewed: 05db08cef3f989f8106e4fbccc94a00283a1f811ebbe1803bc1681c2cc9224e5
+reviewed: 8b6144e14fb7c7a41e3a5f87e2c504074412278a218d63440cca1601fd4f60aa
 title: "ReadSourceBytes"
 kind: api
 owners: [Inno.Assets.Pipeline]

@@ -2,7 +2,7 @@
 uid: api.febe067535f46a7f750a640059ce38f0a9d6f1dc1c93130e3fece7fbe968948a
 symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorMenuItem.order"
 source: xml
-reviewed: ce616b98268c176ad323ab02fdbf5cdc38b99a051cb16c5cc51a1a930560dbf4
+reviewed: a1988e47c043b0acb7c39da6c639d836ee4e7296fe17bc2c5dc73cc358de5b90
 title: "order"
 kind: api
 owners: [Inno.Editor.Interactions]

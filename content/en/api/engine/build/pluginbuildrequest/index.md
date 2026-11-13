@@ -2,7 +2,7 @@
 uid: api.inno.build.6c48421785e2d8ae
 symbol: "engine:Inno.Build:T:Inno.Build.PluginBuildRequest"
 source: xml
-reviewed: 72f9c56e50955be9e34a1f56e4fed79977fe02721619df56743338ee80179a67
+reviewed: 59642d4196c0c8af61f85748ba4c9cb5056bc42507e5a55048aa51e8e241aeb4
 title: "PluginBuildRequest"
 kind: api
 owners: [Inno.Build]

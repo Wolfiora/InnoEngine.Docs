@@ -2,7 +2,7 @@
 uid: api.8bfc9708fb76c2542e8600fad046bec9ca267bc9c1f15b06ebdb6969454c113b
 symbol: "engine:Inno.Audio.Runtime:P:Inno.Audio.Runtime.AudioRuntime.capabilities"
 source: xml
-reviewed: e2d9e860dab7f1850cd91cda0102fad24a2f9dd9bf2ac50c9964efee3b1fb7d4
+reviewed: d344d8513e4e4002978e5a4b2a5f6c538b65ac541db93dcde22ac74367fd5b25
 title: "capabilities"
 kind: api
 owners: [Inno.Audio.Runtime]

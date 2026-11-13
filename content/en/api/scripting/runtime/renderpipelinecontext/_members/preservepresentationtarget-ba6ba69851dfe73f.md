@@ -2,7 +2,7 @@
 uid: api.ba6ba69851dfe73f2cce85bb28322c824969c3fdbb5bc2d04a6086d84beddbe4
 symbol: "scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderPipelineContext.preservePresentationTarget"
 source: xml
-reviewed: 05cf6c060fa38b319561b89fcb36cc379eb93b3a9e1fc6f439dd8cac321d101e
+reviewed: a40c6bd31b5b896cac7cdd9918a24b1b5fb265f252111f1e98a25da5f4a1407e
 title: "preservePresentationTarget"
 kind: api
 owners: [Inno.Rendering.Runtime]

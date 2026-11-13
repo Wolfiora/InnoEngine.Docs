@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.14525d81c81ff6be
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderCommandEncoder"
 source: xml
-reviewed: aa78174321827006659708a147e74dd9e3e31ccb3fbff06d275430905be2f189
+reviewed: 92b5f5cf61c4a21ab33fca1c1dee1f04beb56067c4e4fae653ae4406a6ae517d
 title: "RenderCommandEncoder"
 kind: api
 owners: [Inno.Rendering]

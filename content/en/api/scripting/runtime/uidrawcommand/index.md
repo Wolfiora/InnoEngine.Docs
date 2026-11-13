@@ -2,7 +2,7 @@
 uid: api.inno.ui.runtime-script.1078398e849ecdd1
 symbol: "scripting:Inno.UI:T:InnoEngine.UI.UiDrawCommand"
 source: xml
-reviewed: b2f26edba4aa89372d8445536c0f1a3b7b2b8413726143d7c5da54915029101c
+reviewed: 18e307d57906bf7a3906a2f2b46e83802b73e456cb176c0dc3b59e6b6d56afaa
 title: "UiDrawCommand"
 kind: api
 owners: [Inno.UI]

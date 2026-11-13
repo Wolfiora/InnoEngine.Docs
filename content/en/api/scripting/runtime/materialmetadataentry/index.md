@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.runtime-script.b14700b45838315d
 symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.MaterialMetadataEntry"
 source: xml
-reviewed: c23b651dfeb6d0d0fed08507f29125b79fcb05acdb34eb5463a7f8622c5b78a1
+reviewed: a7b09661264c9529a0d6996e4bf2eeebbc1ed3a3bba712b09a02b37e24cbc41e
 title: "MaterialMetadataEntry"
 kind: api
 owners: [Inno.Rendering.Assets]

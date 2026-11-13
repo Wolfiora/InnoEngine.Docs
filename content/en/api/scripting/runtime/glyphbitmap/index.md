@@ -2,7 +2,7 @@
 uid: api.inno.text.runtime-script.0ade82510118ed06
 symbol: "scripting:Inno.Text:T:InnoEngine.Text.GlyphBitmap"
 source: xml
-reviewed: a4f68a651b37ab4f76f276835560be481327b7b5ff5d2f7a1cbab58404b32bb9
+reviewed: 69940812c543895ec3fd876c7426f046f5289b70af3a09695f44457ea6134104
 title: "GlyphBitmap"
 kind: api
 owners: [Inno.Text]

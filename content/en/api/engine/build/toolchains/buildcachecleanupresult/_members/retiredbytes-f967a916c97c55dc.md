@@ -2,7 +2,7 @@
 uid: api.f967a916c97c55dc1cc59c10a8b528124171e1ed9efc3aee60d7c663d614b997
 symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.BuildCacheCleanupResult.retiredBytes"
 source: xml
-reviewed: 882d26e4a126f51ffca337829ea7acd1d27ced74407d4eb66b1162c258f4f6fe
+reviewed: 6a991e9391b969e40e38513fbdea7b5b366b2fb87bd0824fe1ecb25788e5b904
 title: "retiredBytes"
 kind: api
 owners: [Inno.Build.Toolchains]

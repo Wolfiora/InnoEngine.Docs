@@ -2,7 +2,7 @@
 uid: api.17b0d1c20200bb64ea6cf6ecc549e5ce6542930dbdd335c138a19820eb6fdae3
 symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.TransformGizmoResult.ToString"
 source: xml
-reviewed: 8abfbdf11a966218d660a36605d2cd2a3db0c9664ef807607f533620e5fde0b9
+reviewed: f3b4ba5a3bc54503dfd8246911144c9c3c4310f8f63aac1adaf69ff32a8d1871
 title: "ToString"
 kind: api
 owners: [Inno.Editor.ImGui]

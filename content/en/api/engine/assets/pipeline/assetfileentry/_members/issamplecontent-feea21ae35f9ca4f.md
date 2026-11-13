@@ -2,7 +2,7 @@
 uid: api.feea21ae35f9ca4f37980c639a86797851ae29d5ee822b2bc6ff19dedb42b464
 symbol: "engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetFileEntry.isSampleContent"
 source: xml
-reviewed: 073417688ba021021368d43528c484d4bf3f9d8a6dc241071807137593e79bfe
+reviewed: e6e16e4cec1d22ae9087ff9e5114ef856e452eaa647c0136f4a52a024ae89716
 title: "isSampleContent"
 kind: api
 owners: [Inno.Assets.Pipeline]

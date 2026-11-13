@@ -2,7 +2,7 @@
 uid: api.inno.editor.assets.imgui.c0fdaf5642bf05fd
 symbol: "engine:Inno.Editor.Assets.ImGui:T:Inno.Editor.Assets.ImGui.AssetBrowserModule"
 source: xml
-reviewed: 73b34890d7fa6d9e4eded165cfa4c2a650d6c33c58ac32327752f24bdce34a03
+reviewed: a6c6ae9f83d6bb09c7aec5cb6732a00a18aee70452afd8a848df4c704c4d856f
 title: "AssetBrowserModule"
 kind: api
 owners: [Inno.Editor.Assets.ImGui]

@@ -2,7 +2,7 @@
 uid: api.b5374f2d92a8f913ff47a1e4434692af077ce4cb9276cb7f072ae61af9481cbd
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.TryGetSourcePath(InnoEngine.Scene.GameScene,System.String@)"
 source: xml
-reviewed: ea22f0a654c09757fe675ffff24d3fff415978135696546b87a3a009a1b0de77
+reviewed: 6a423e4a1defea446baa7a60705b7847b8186680dab90129abd93cd3e1ba1a7e
 title: "TryGetSourcePath"
 kind: api
 owners: [Inno.Editor.Scene]

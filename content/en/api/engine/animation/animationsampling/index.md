@@ -2,7 +2,7 @@
 uid: api.inno.animation.5e8dca405fed10d2
 symbol: "engine:Inno.Animation:T:Inno.Animation.AnimationSampling"
 source: xml
-reviewed: a4738b0e9f7353f0203062d8cfd9a5c2f2614cfdd824794e6cbb187170cfe149
+reviewed: 3838a46c2b55751da032865f81c3cdc44355de1cb04ce77e2894fa4370a2d890
 title: "AnimationSampling"
 kind: api
 owners: [Inno.Animation]

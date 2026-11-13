@@ -2,7 +2,7 @@
 uid: api.inno.assets.runtime-script.56863874a0d36b42
 symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetReferenceKind"
 source: xml
-reviewed: 836ca19badbe23e0cef8095e2d0d43b56cfeea0ca6111aa89aae4c9caaf4585c
+reviewed: c37ff9523c72a4c4717b26e339ec4f70be5cc9fcbf937177cb2e94de58587f50
 title: "AssetReferenceKind"
 kind: api
 owners: [Inno.Assets]

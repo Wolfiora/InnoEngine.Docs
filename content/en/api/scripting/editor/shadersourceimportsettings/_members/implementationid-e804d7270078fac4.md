@@ -2,7 +2,7 @@
 uid: api.e804d7270078fac46843663c6b9f088a722cd65e1fbc299622521b3c7dd9f79c
 symbol: "scripting:Inno.Rendering.Assets.Authoring:P:InnoEditor.Rendering.Assets.ShaderSourceImportSettings.implementationId"
 source: xml
-reviewed: 1ef375acd052f34b106299873089d6d4882368e178f77bdf0e05be5a257bd118
+reviewed: 84aa03a15b6a81d9ecbf19d5ced8c1727be191d122b4e05cdf97946c8fd956b0
 title: "implementationId"
 kind: api
 owners: [Inno.Rendering.Assets.Authoring]

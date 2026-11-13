@@ -2,7 +2,7 @@
 uid: api.b843d6a5f18ad4451c82650585c9474a2f2f6881bec1d79643a2876430979722
 symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.TryGetShortcut(System.String,Inno.Editor.Interactions.HotKeyGesture@)"
 source: xml
-reviewed: ef7efd7088d03bd691eb7941c469182267e0ecbf729f17f88ac0658eb72d8af9
+reviewed: 09387cab79e90d81a07a61ace4bdc53a3259ad9ad766f5b2cd4596276307cafe
 title: "TryGetShortcut"
 kind: api
 owners: [Inno.Editor.Interactions]

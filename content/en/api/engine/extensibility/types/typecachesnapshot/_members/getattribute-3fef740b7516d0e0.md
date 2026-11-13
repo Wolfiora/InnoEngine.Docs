@@ -2,7 +2,7 @@
 uid: api.3fef740b7516d0e06d030f61db46506b5305ab1dab39891d25e3c21e57f48874
 symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.GetAttribute\u0060\u00601(Inno.Extensibility.Types.TypeRef,System.Boolean)"
 source: xml
-reviewed: f5d6653ceca79f11b5f38c9188c28093a7070997a16b987404d4ee01a1012d87
+reviewed: a44c5f9d50942610ccb54ff6f8d6c89e4ace55eb998dabd37b486d1a8003a531
 title: "GetAttribute"
 kind: api
 owners: [Inno.Extensibility.Types]

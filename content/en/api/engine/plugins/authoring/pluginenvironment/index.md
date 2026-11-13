@@ -2,7 +2,7 @@
 uid: api.inno.plugins.authoring.1a2897a392751b15
 symbol: "engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginEnvironment"
 source: xml
-reviewed: 21d8ba63cfddd8def26b44a0d86ae9f131d4efabedb124c26874217af01d5514
+reviewed: 07d59115807a953be04560a08d6a15b3efc02a18b5f2a4fe9af3a6bc6d4f4111
 title: "PluginEnvironment"
 kind: api
 owners: [Inno.Plugins.Authoring]

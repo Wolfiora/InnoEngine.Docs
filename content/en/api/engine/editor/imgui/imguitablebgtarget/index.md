@@ -2,7 +2,7 @@
 uid: api.inno.editor.imgui.9bc8c1a08ba23595
 symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTableBgTarget"
 source: xml
-reviewed: 784618acc59e15aab2ebdcd8fd0e37010f43684c1b35862fea00ffcc0994ac14
+reviewed: bc1106ad0cfd309f1aa05b3da321f517418873e92e23c5424d4ba96ab71ca926
 title: "ImGuiTableBgTarget"
 kind: api
 owners: [Inno.Editor.ImGui]

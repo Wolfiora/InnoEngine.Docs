@@ -2,7 +2,7 @@
 uid: api.f86cd1bbcd842fe2df2c7d9100c182b805108b2105ddd9ec73f100d4f9a46b98
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.PersistentBufferDescriptor.buffer"
 source: xml
-reviewed: 4242aaddd63f2cd3b706564c4327d1b7ee3f841333a0ae18a2339adda93a809c
+reviewed: b5b306f20a212da005d3fe0c6fc05e60845da27224dde26d2062b9f0eb620ec3
 title: "buffer"
 kind: api
 owners: [Inno.Rendering]

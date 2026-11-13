@@ -2,7 +2,7 @@
 uid: api.c0de5d86f4dce3f686430d6e908901b08737febfd13b03455b5c7370f0456892
 symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.SelectedViewContentCollector.Collect(Inno.Rendering.Runtime.ViewContentContext)"
 source: xml
-reviewed: f62a4f288e56fe2d22f99a8ce2a34d666635da81d39ab847a2b61d1ad74beec0
+reviewed: a5609eae3ce2f0ab7ba4289afd8b068d3bcce0dc5f96d50426f7dcb68b1e2999
 title: "Collect"
 kind: api
 owners: [Inno.Rendering.Runtime]

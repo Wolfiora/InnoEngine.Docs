@@ -2,7 +2,7 @@
 uid: api.fe5536071e8391fef55b8360c5fa8494e62d696df94bb9f01435c8cae5831aad
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.ReadByte"
 source: xml
-reviewed: 5ddfd8c630e7fa75b1977a2233b531128d44aedb3b55aa6fddbf958fa296eb44
+reviewed: 4aa2a7e0c4a4caad5a11567873f2e4c51e313f397cb12585e9d8115a4cbc84a3
 title: "ReadByte"
 kind: api
 owners: [Inno.Core.IO]

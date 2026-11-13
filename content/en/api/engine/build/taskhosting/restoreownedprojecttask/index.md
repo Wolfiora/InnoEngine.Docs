@@ -2,7 +2,7 @@
 uid: api.inno.build.taskhosting.2e577b3d3a13e7f9
 symbol: "engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.RestoreOwnedProjectTask"
 source: xml
-reviewed: ee443c7ffe3d959f981d25069fcf3c24099147db4f2c66a66c8ca67fee58bd8b
+reviewed: 04af884af3589f243e0f9ab972ac025447045eb4588c3a2cad00a585d4fb92de
 title: "RestoreOwnedProjectTask"
 kind: api
 owners: [Inno.Build.TaskHosting]

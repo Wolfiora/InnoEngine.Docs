@@ -2,7 +2,7 @@
 uid: api.inno.text.assets.bb62dea43dbbbe91
 symbol: "engine:Inno.Text.Assets:T:Inno.Text.Assets.FontImporter"
 source: xml
-reviewed: 7914cd1fca2097927e2db19ad7780203bbc6df9824312bea52b1098bf816b994
+reviewed: c6ee0bdc0c28610f29e483bb368634dc695ff8891e8d6581041bcd9f416944aa
 title: "FontImporter"
 kind: api
 owners: [Inno.Text.Assets]

@@ -2,7 +2,7 @@
 uid: api.2fa857efd93a8f8948e4fbccb93bfea00f1ceb7b6d6d9f24f6f24a6271e0e63a
 symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.ValidateDeleteSelection(Inno.Editor.Core.EditorContext,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry})"
 source: xml
-reviewed: 8e53939cebb0837879959cee59aedef57a81f26b4773a4b0b9dafb16f1819a35
+reviewed: 38aa912f152da57c11e030f5073ea5af7d9aa6807cc1604a5d85e5c7b0435359
 title: "ValidateDeleteSelection"
 kind: api
 owners: [Inno.Editor.Assets]

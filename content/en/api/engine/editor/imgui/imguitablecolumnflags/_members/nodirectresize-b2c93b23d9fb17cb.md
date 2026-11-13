@@ -2,7 +2,7 @@
 uid: api.b2c93b23d9fb17cbbd47df7aaa5a7d688543c1d13883d0ac29f6c88da851adf5
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.NoDirectResize"
 source: xml
-reviewed: 5e37bad1c89f2bbd7da37458287b32590c575e56605470c429091bbea7b973c9
+reviewed: 028c1b5e04271f7916deb3f3184e61ecca46ec12e3e0e006aa21a6f33cdd7c3d
 title: "NoDirectResize"
 kind: api
 owners: [Inno.Editor.ImGui]

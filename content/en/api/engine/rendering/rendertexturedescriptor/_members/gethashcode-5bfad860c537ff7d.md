@@ -2,7 +2,7 @@
 uid: api.5bfad860c537ff7dec4bf1f0e4004a1e2f4e21bf935d06e75fa8f0ba5e519175
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.GetHashCode"
 source: xml
-reviewed: 4e940f8614957b6f62d3ef8c2ec233852da763abaeff73a77213a33abb74925e
+reviewed: 56f5a5bc73b5b999bd015ea4b26e33cd76bbfb550635a72583ae4eccf9d708d1
 title: "GetHashCode"
 kind: api
 owners: [Inno.Rendering]

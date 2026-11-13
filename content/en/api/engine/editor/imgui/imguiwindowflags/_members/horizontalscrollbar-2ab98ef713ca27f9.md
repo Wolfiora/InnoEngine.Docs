@@ -2,7 +2,7 @@
 uid: api.2ab98ef713ca27f9b1c6cf6b44fac7457f0bb3ad2224cc877a691d3082dec3da
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiWindowFlags.HorizontalScrollbar"
 source: xml
-reviewed: d49720e2e196f2257cc93409d7008fb307e1b5045feaa4b8fd7de0bd3f4fc1d6
+reviewed: ea45a1e5cc51bfaaae42a18abf255f766039f0b12a645bae9bdb038802db5997
 title: "HorizontalScrollbar"
 kind: api
 owners: [Inno.Editor.ImGui]

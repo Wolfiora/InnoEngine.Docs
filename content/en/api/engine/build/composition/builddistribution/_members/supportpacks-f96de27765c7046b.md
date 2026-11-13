@@ -2,7 +2,7 @@
 uid: api.f96de27765c7046b55cf18db50d2f3544c0a8634343f969150f457654447482f
 symbol: "engine:Inno.Build.Composition:P:Inno.Build.Composition.BuildDistribution.supportPacks"
 source: xml
-reviewed: 7e341e830311cede4c5467be8bc3842d5d3c7f4c6d8a719b1b2107ea9a638d17
+reviewed: 3dee04e80c6d1bd4edff241ddb9b7afd82f1068aa4a61488ba1751c561391c96
 title: "supportPacks"
 kind: api
 owners: [Inno.Build.Composition]

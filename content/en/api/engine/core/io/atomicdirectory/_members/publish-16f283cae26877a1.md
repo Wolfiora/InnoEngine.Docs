@@ -2,7 +2,7 @@
 uid: api.16f283cae26877a1f65d32c4873244823121236ca89de74e62623220ec61e78a
 symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Publish(System.String,System.String,System.Threading.CancellationToken)"
 source: xml
-reviewed: d81397d5c7360af08f68530686cd62011be80c37c25a5e4ed84cfbf00ad69578
+reviewed: 45139da7c1665ac7389625978820f3ac585034f5c6103ce2f9dde9d8b3ea7395
 title: "Publish"
 kind: api
 owners: [Inno.Core.IO]

@@ -2,7 +2,7 @@
 uid: api.265b5a952ae1e41b34ecb366329ee58c02ad2698772ea9914322333b46cb5e4b
 symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.WriteStorageTexture(Inno.Rendering.RenderTextureHandle)"
 source: xml
-reviewed: 911f4bf80ea9b719403ee79035418bd8bb45c268ae7bad41f496ddd879ee9204
+reviewed: 2083aabf9de1cc4bafe4125e04875442cf6883c8a2c9d26bda818ea66a5f1f55
 title: "WriteStorageTexture"
 kind: api
 owners: [Inno.Rendering]

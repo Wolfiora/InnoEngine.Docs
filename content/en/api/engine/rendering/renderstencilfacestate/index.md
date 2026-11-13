@@ -2,7 +2,7 @@
 uid: api.inno.rendering.e530a8a5c379cb20
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderStencilFaceState"
 source: xml
-reviewed: c25240a40691e8c2db4a0f12a1e41dddd828fff1fb910b081e95d648576e36f0
+reviewed: 425f6e6aa5ed60e307b89c5c88517513a469085b3d7159337e6dffe527e0d2df
 title: "RenderStencilFaceState"
 kind: api
 owners: [Inno.Rendering]

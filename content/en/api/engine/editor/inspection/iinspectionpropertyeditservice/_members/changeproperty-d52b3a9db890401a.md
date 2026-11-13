@@ -2,7 +2,7 @@
 uid: api.d52b3a9db890401a1f4d4e16b9688378e222a88ab9613b989ddf421be7494334
 symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionPropertyEditService.ChangeProperty(System.Object,System.String,System.Action,System.String,System.String,System.String)"
 source: xml
-reviewed: 2bd37540dad958cd15db51df046a24bd3476af8803ff00c23d1a1cd815877a0a
+reviewed: 570f6d5e7fd63bbaacc57d183f055443153014bb9cae4587d43dca77c7abb261
 title: "ChangeProperty"
 kind: api
 owners: [Inno.Editor.Inspection]

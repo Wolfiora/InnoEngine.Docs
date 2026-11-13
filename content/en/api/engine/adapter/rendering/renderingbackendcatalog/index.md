@@ -2,7 +2,7 @@
 uid: api.inno.adapter.rendering.9f8daef0b4422088
 symbol: "engine:Inno.Adapter.Rendering:T:Inno.Adapter.Rendering.RenderingBackendCatalog"
 source: xml
-reviewed: 4facef67fd3883da3904ac0cdd4ea31f977fca79d6386f19debeaeba31ba929c
+reviewed: 47fc24ea1e102de486fbc8dc89325c0527bb70f9efcb3eb0e094459a7de56134
 title: "RenderingBackendCatalog"
 kind: api
 owners: [Inno.Adapter.Rendering]

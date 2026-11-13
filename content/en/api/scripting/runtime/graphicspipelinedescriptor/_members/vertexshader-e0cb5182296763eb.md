@@ -2,7 +2,7 @@
 uid: api.e0cb5182296763eb437cfcfac248bf36189498888b158ae5a95d401f74e5f678
 symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsPipelineDescriptor.vertexShader"
 source: xml
-reviewed: fee528519c982fe2129df3a433943a4d9ea6e2c8af0d449e883d7bbb0a0ecfcb
+reviewed: a6a3269aa050edb8c9dc75e9099f23b9dc623c63b735dcb66ad49eb1a8051742
 title: "vertexShader"
 kind: api
 owners: [Inno.Rendering]

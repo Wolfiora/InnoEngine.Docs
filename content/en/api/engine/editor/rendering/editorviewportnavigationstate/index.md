@@ -2,7 +2,7 @@
 uid: api.inno.editor.rendering.d3cf03954b9ed1fe
 symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorViewportNavigationState"
 source: xml
-reviewed: 4aa39a8cd3f3ce06c90827b53baf5c3f76cedddd0044182dc3920816ffb96762
+reviewed: 79bbf6dd3751abc843f6d2f5423988ad8c4ece7d29524dd652a2aa833519b666
 title: "EditorViewportNavigationState"
 kind: api
 owners: [Inno.Editor.Rendering]

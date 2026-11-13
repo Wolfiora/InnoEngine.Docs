@@ -2,7 +2,7 @@
 uid: api.inno.rendering.shaders.31b93a06cb4d678d
 symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphPass"
 source: xml
-reviewed: ede8698fc32831ceb92fa26547f24a606fb127f70232588eae2a60b58b51d890
+reviewed: 085341d61256531be505abf780e5e17270f5eaf7a07fc8cfe2446ffe4cbc02aa
 title: "ShaderGraphPass"
 kind: api
 owners: [Inno.Rendering.Shaders]

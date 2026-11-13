@@ -2,7 +2,7 @@
 uid: api.inno.runtime.generators.5508a99212991841
 symbol: "engine:Inno.Runtime.Generators:T:Inno.Runtime.Generators.RuntimeFactoryGenerator"
 source: xml
-reviewed: 6416d7c9779bbdb53c4ae5b9a94b3f1a51aaee62c2cb16b47189cbc798a0fd57
+reviewed: dbe664634fc0ee8191de7a0dc4e38679cad2b76dcc7d2a1c6326cf15e4df8c30
 title: "RuntimeFactoryGenerator"
 kind: api
 owners: [Inno.Runtime.Generators]

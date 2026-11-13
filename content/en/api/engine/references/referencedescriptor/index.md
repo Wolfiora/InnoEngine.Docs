@@ -2,7 +2,7 @@
 uid: api.inno.references.7478933caa756035
 symbol: "engine:Inno.References:T:Inno.References.ReferenceDescriptor"
 source: xml
-reviewed: 114691d8c88569cdfb50a5f673baaf93dfcfaeee95b387fc670bde99759c8433
+reviewed: ec48b65eb6e108d442c60016ead19a26bd4524553db65b4c1143456ab1c48860
 title: "ReferenceDescriptor"
 kind: api
 owners: [Inno.References]

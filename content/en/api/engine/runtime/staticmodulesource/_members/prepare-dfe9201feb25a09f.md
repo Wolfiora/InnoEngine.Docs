@@ -2,7 +2,7 @@
 uid: api.dfe9201feb25a09f76d88c8f8aaf291c1bcd273ff333f5ea5e0ad656aeef79f8
 symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticModuleSource.Prepare(Inno.Extensibility.Modules.ModuleSourceContext)"
 source: xml
-reviewed: 131ca9e3dd4c9c22968f1fc780498dff5e9c3a9edf620a2a9b819cf065d52f87
+reviewed: 8305cd39a36ce1112c5264d6fe8825c4509872e08493aa264454cf5ce0577e43
 title: "Prepare"
 kind: api
 owners: [Inno.Runtime]

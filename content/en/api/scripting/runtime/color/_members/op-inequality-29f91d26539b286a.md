@@ -2,7 +2,7 @@
 uid: api.29f91d26539b286a4d021cd8f4b4469df9f99ca63aa8f59fbc3a8cf52e7bf77a
 symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.op_Inequality(InnoEngine.Mathematics.Color,InnoEngine.Mathematics.Color)"
 source: xml
-reviewed: 74e0c4bad7ae4c00c0f37a7a890218b4067713a76ffbc11eb357c369afc6ac22
+reviewed: 4c41042fdb5a53e6df03995108a871e257334a1161a8ce12c9134e576e2f301d
 title: "op_Inequality"
 kind: api
 owners: [Inno.Core.Mathematics]

@@ -2,7 +2,7 @@
 uid: api.bd27f67788ddc8e6fe3f68a22828ec38bc5e79eb747ef49ef81973a1f1bea86c
 symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.GetDependencies(Inno.Assets.AssetObject)"
 source: xml
-reviewed: 8d21bb651c5084994971e01e392da12d2139ea11c19f852fc0d76097e953d515
+reviewed: 44b704d9c8a6c30cbda98765a7f0dd6241a85745da612413eeb19e3dc955534b
 title: "GetDependencies"
 kind: api
 owners: [Inno.Assets]

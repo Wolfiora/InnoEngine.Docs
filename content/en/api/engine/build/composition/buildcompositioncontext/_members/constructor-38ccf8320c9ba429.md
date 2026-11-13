@@ -2,7 +2,7 @@
 uid: api.38ccf8320c9ba429fab9004fbd267d76e03cdd3dee320de88078bb06feaaa2a2
 symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildCompositionContext.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.BuildTargetId)"
 source: xml
-reviewed: 50f2bde0c87adf93e09f801bd91583aeffb10b93aa0b3bbf799b2ca48d81a719
+reviewed: d68206435a634952c72e1762e695879a5321ac905978a52b4bd98896ce1597ac
 title: "Constructor"
 kind: api
 owners: [Inno.Build.Composition]

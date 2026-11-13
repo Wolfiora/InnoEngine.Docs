@@ -2,7 +2,7 @@
 uid: api.inno.assets.pipeline.0fe11450f3d464af
 symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetPipelineOptions"
 source: xml
-reviewed: f414715d5f121929ed5433e01d2626eb064e3166cc12ab0d2b660eec2a73251b
+reviewed: 0554ef9dcddef374882841877bd5eda6619a4c070b687a8b16de60a51cc12d2c
 title: "AssetPipelineOptions"
 kind: api
 owners: [Inno.Assets.Pipeline]

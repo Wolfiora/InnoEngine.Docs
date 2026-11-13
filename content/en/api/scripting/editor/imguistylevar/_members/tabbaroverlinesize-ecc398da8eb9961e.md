@@ -2,7 +2,7 @@
 uid: api.ecc398da8eb9961e3dcbbd4127f2374a2ea4f92620d22b98cfad41adb328e8b9
 symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.TabBarOverlineSize"
 source: xml
-reviewed: 565000906b0f94261a69b7b7d8fdcd4221f667823c9976e8891bc2e1c780a183
+reviewed: b8e7df43c9574389dbfef93ce8e773eb1c94a1cef300b582969bc8d3cdc0d716
 title: "TabBarOverlineSize"
 kind: api
 owners: [Inno.Editor.ImGui]

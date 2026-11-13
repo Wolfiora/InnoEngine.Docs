@@ -2,7 +2,7 @@
 uid: api.inno.shell.57edc7000c86a3bb
 symbol: "engine:Inno.Shell:T:Inno.Shell.PollingShellFrameDriver"
 source: xml
-reviewed: c4b552ed4dbe35957d87a46d93e9087ca8c6cf651254ad219112c07462e28c8a
+reviewed: dfb927bb638e4d949d632c28a9240f825fa078e81877e2a53240def2208ddd88
 title: "PollingShellFrameDriver"
 kind: api
 owners: [Inno.Shell]

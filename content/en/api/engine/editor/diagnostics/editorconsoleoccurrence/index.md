@@ -2,7 +2,7 @@
 uid: api.inno.editor.diagnostics.d5ee5c552f8f19e2
 symbol: "engine:Inno.Editor.Diagnostics:T:Inno.Editor.Diagnostics.EditorConsoleOccurrence"
 source: xml
-reviewed: 7b6d51df7eec8f222753388e9b86fa9fbe2cb8b2435218ef80123a208ef3e396
+reviewed: 3d769e8a7bd3dadf1950fdea85ffbfa40d33b3323e36f6f44e3658427e83cb52
 title: "EditorConsoleOccurrence"
 kind: api
 owners: [Inno.Editor.Diagnostics]

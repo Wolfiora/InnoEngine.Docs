@@ -2,7 +2,7 @@
 uid: api.inno.rendering.runtime-script.1c092e3f2384c46a
 symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSamplerFilter"
 source: xml
-reviewed: d9e7d08e9595d2a158970f5e50de863ab744bf1ea231ab8ca7c74f65fe93f572
+reviewed: 4d2fa81b8ed568ee522f14e7141c7c46c175cd13bf007f81fba5f35b6d4fd7fe
 title: "RenderSamplerFilter"
 kind: api
 owners: [Inno.Rendering]

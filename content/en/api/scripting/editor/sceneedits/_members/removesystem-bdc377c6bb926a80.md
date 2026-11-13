@@ -2,7 +2,7 @@
 uid: api.bdc377c6bb926a805f0c6a442a35089ecc156f6eb47ec97e07f2720dc5a3253f
 symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.RemoveSystem(InnoEngine.Scene.GameSystem,System.String)"
 source: xml
-reviewed: 5afa1da9178e13ea2de5caad6b530f0000aed7dfd770d6576065786d23680c01
+reviewed: 646d4066d7369510d57f303c3a35170ccb5f143f673cdc423df8dbf7f8d5744c
 title: "RemoveSystem"
 kind: api
 owners: [Inno.Editor.Scene]

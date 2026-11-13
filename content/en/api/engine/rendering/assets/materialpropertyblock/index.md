@@ -2,7 +2,7 @@
 uid: api.inno.rendering.assets.c9cbbc88a18bc0a6
 symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.MaterialPropertyBlock"
 source: xml
-reviewed: 16069b067ad6f432fee496b3899cafc3e8ba57e596586ab75dadb26582deeddc
+reviewed: 7d1e12932289946af66d1a3880cc9aef18321c2f47a6ba7db4634aaf82e648e6
 title: "MaterialPropertyBlock"
 kind: api
 owners: [Inno.Rendering.Assets]

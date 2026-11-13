@@ -2,7 +2,7 @@
 uid: api.b8a69c217d451ed293ee0d91b7c3d3825aee5a48d4bbc6f34e32e07e8deea4e7
 symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.DependsOnArtifact(System.Guid)"
 source: xml
-reviewed: 26601f18b18e37f212b139d108c9c07ea9283b3489e6794269cd41ce01a04a11
+reviewed: 3b56ff5649bf3b5ca1ae7f6296f37f029c34aa4f6520b5f413bb06c0064f0811
 title: "DependsOnArtifact"
 kind: api
 owners: [Inno.Assets.Pipeline]

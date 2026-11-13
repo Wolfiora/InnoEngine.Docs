@@ -2,7 +2,7 @@
 uid: api.d6f1a425acc7bf563594e1d5bfbbce7bcf91be7559fe1e96ebd548295fc10fef
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.NoClip"
 source: xml
-reviewed: dcf40cd9a670b5578fc4c41a76e43b9a94da7e176121a46c1fc6518e61a92900
+reviewed: 5ed123e332c81d1432ad077a7d4249b81f0655a937cf7dd6b341109716c8d1af
 title: "NoClip"
 kind: api
 owners: [Inno.Editor.ImGui]

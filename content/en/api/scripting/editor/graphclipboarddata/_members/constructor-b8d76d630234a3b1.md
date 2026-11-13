@@ -2,7 +2,7 @@
 uid: api.b8d76d630234a3b1b992e93e668721368213f4b02ebbdcc74b097ec0c5d2c1d0
 symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphClipboardData.#ctor"
 source: xml
-reviewed: f3766f6727b37fb90e2b7fa4c1a7387104db454525e9695a09cecade7c6a5c62
+reviewed: c41ece93e6d1d6b331818eec4c9b64ebdeb7c292198e0b88868e030445f13286
 title: "Constructor"
 kind: api
 owners: [Inno.Editor.Graph]

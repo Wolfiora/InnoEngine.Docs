@@ -2,7 +2,7 @@
 uid: api.b6b64e0ef4ced3f4406941b5e0a3ea1c76197b74929f9382c9cc9c49997788f0
 symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiStyleVar.ScrollbarRounding"
 source: xml
-reviewed: 6c2d88b0bf7fab9a9e676261c9d4c89f6ef4d27d478bd3819b68e7cd2a161481
+reviewed: 2a7511c41d38a7cc1f1ddcddb1e97295a830ea912120d16a51b18be7a14d7263
 title: "ScrollbarRounding"
 kind: api
 owners: [Inno.Editor.ImGui]

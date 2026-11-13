@@ -2,7 +2,7 @@
 uid: api.5eebac2dcf964c2cbfcf0d089d119e02909ceaa0dfc028d4d034292a5ec4ad05
 symbol: "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.StopCoroutine(Inno.Core.Coroutines.CoroutineHandle)"
 source: xml
-reviewed: b1eb33dabc1f525d1dd269dcf7132e1ddf9123b825a48c647db6c04f49a64be9
+reviewed: af5efc410e1a2b9d753317ac0f4e811fcf7f343058fb44cccd85f7d59e314d9e
 title: "StopCoroutine"
 kind: api
 owners: [Inno.Core.Coroutines]

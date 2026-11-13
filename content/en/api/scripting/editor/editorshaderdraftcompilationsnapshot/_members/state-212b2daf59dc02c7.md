@@ -2,7 +2,7 @@
 uid: api.212b2daf59dc02c75589d9b9f938b7ec7d87a920dac45abb5d15ce8d13fe5983
 symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot.state"
 source: xml
-reviewed: b132dd50cf235ea2c52934c3a011942068776343ea17aab42de96f57706f12c6
+reviewed: 3314a12ffbb48cdaf00f620ef210fd678abec50d7c94bc51077d039c5613fdaf
 title: "state"
 kind: api
 owners: [Inno.Editor.Rendering]

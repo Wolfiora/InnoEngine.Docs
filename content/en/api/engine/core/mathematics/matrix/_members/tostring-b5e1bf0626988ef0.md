@@ -2,7 +2,7 @@
 uid: api.b5e1bf0626988ef0c6d5636ccd32b31e516879a2de87689dda447b779edf4385
 symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.ToString"
 source: xml
-reviewed: c84295ba2d7c905d50ed8bbd78029e07a2e013bcf1540b8f1806b3c26fa1148c
+reviewed: 3e57cc26dc2f5523795982d4548afa086fee275e2aeabd85ebfb65717d5ff558
 title: "ToString"
 kind: api
 owners: [Inno.Core.Mathematics]
