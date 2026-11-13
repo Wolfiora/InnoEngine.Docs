@@ -1,0 +1,94 @@
+{
+  "project": "Inno.Core.Graphs",
+  "outputDirectory": "content/en/api/types/core-graphs",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "facts": "reference/api/core-models.json",
+  "factsIdentity": "7addee2064068027a2727dab6e2e4a6b47c03199fd36aa95157d471b00bd9cd6",
+  "sharedContract": "project.inno-core-graphs#document-and-definition-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-graphs/graphdiagnostic.md",
+      "sha256": "81f5c04cf7794803a78da577d677248b6ab43f2323a5f08b0e58fe1f321151bb"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphdocument.md",
+      "sha256": "f31c9c2957abcdbe8cee712e93fe48ea61f045cc9bd611807cc1597652807114"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphdocumentcodec.md",
+      "sha256": "17470cabd31f8c9b0baea6e3258382217ae5cb65e27d8c2010b7254a2f652299"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphedgeid.md",
+      "sha256": "d70cd035608e63efef6be236f0cf889e60f609c04db41d38d35f5279e1c9c270"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphedgerecord.md",
+      "sha256": "309e04ac88e8a2f9d6c9bbc2f6e9eac8487f32aae398e19cf226edbde1638ba7"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphendpoint.md",
+      "sha256": "6bd9a5191f7a84283bf19f436fbf3302430ae1dd170ab2fe2247817302801784"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphnodedefinition.md",
+      "sha256": "49c5c06aac86d916355dec0a89258da773260734c5b2369c402264aa5332f0a3"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphnodeid.md",
+      "sha256": "fd924191f62bc2b87a9bf50eb9792affc7e8e4a916774dc2e73e02f3c38c637b"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphnoderecord.md",
+      "sha256": "433abcfe64463e59d60f7fd369c02830eaf14cfd85b5fbcc81aa944f203f5a26"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphportcapacity.md",
+      "sha256": "6303b1122c65598b63f465a797a3de07f14d2fc5cb88a331d4813a328494795d"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphportdefinition.md",
+      "sha256": "729c54fb4ee4bab20ab32ca617becac229b1ecaede0c1d3eca4397530f6bf68b"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphportdirection.md",
+      "sha256": "823cd86ecb5b1213c02f4b4ab4c5cf584f46b6aa44ad5f7372216fbe389056fc"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphportid.md",
+      "sha256": "458e369b49b1da0a0dd76a1d730c07d76cff2f01d28619118580d97f602a1cc8"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphposition.md",
+      "sha256": "2a98c67765f916b4bf70026902289e68d86349c65ab8b288b6b3b1fee0a4945a"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphserializedvalue.md",
+      "sha256": "a1453a1c61ee779d6c35352a6017f00b7f21283bc71ceca7dfa935920158d5be"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphvalidationresult.md",
+      "sha256": "036bc6258c671eecbc3bf43a2c74e2a0175a47bf79191f782ab4f15a4f2e166f"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/graphvalidator.md",
+      "sha256": "e4e999d755e45fa34be74832f24bd4355a05ebdc0053420618e4724f1c8761f2"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/igraphnodedefinitionresolver.md",
+      "sha256": "c7374530c24ec1c8712cae0b3b142df2ef70f0e4faf303e765e7ae044d183fd0"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/igraphtypeconversion.md",
+      "sha256": "a7e1652215bc6e050f459d1d07fdca9f087ab9b0770d837c2e38fc23d15741f7"
+    },
+    {
+      "path": "content/en/api/types/core-graphs/index.md",
+      "sha256": "e056dccbfcf043e34ac31a655b84387b4a16171ed9daf55a02a559cf4613b0e8"
+    }
+  ]
+}

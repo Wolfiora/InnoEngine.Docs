@@ -1,0 +1,115 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "ec506471b863c3b6e131d13ba78ff3ce9d31e15e",
+  "sourceTree": "56781ec1b25db433f796cff23644570cb18c07d1",
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Assets.Pipeline.Tests.md",
+      "sourceSha256": "15d4caa8ec82056205e565a670da4d2e652017269dcd413e44cdfd0bc26e83d9",
+      "destinations": [
+        "content/en/contributing/testing/inno-assets-pipeline-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 6,
+      "preservedScenarioNames": 22,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Assets.Tests.md",
+      "sourceSha256": "09a71ed90192c478b3e6acf51d8cf5387414962a576ed2f49f6e01fea3110fed",
+      "destinations": [
+        "content/en/contributing/testing/inno-assets-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 6,
+      "preservedScenarioNames": 20,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Content.Tests.md",
+      "sourceSha256": "bb4d455b473e134b0797f20f5194f979c79003d6ebb6354bcbabd5a8aebcbc3a",
+      "destinations": [
+        "content/en/contributing/testing/inno-content-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 6,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Modules.Tests.md",
+      "sourceSha256": "32284837d9173d834aeb851e63802588c97ff75408d9136b23e33a5fb8338880",
+      "destinations": [
+        "content/en/contributing/testing/inno-extensibility-modules-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 9,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Reload.Tests.md",
+      "sourceSha256": "f723156264dee7dbfaeb4015b22127e982908793fc123f48290a45053f003484",
+      "destinations": [
+        "content/en/contributing/testing/inno-extensibility-reload-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 2,
+      "preservedScenarioNames": 6,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Extensibility.Types.Tests.md",
+      "sourceSha256": "f5508d6c17932573c7023421c27971081720f1b661504a9d4a703a16c1735cd1",
+      "destinations": [
+        "content/en/contributing/testing/inno-extensibility-types-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 8,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Plugins.Tests.md",
+      "sourceSha256": "a1db91e1e8c20eef3139faf4728b8a50d90c4418ae879301c8d5df2d7b8928a6",
+      "destinations": [
+        "content/en/contributing/testing/inno-plugins-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 1,
+      "preservedScenarioNames": 4,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.References.Tests.md",
+      "sourceSha256": "3620ef4c8b1ec14af4821cf6ac80321791a6655989f51c052cb9f0cce5418cd9",
+      "destinations": [
+        "content/en/contributing/testing/inno-references-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 3,
+      "preservedScenarioNames": 11,
+      "declaredLayer": "contract"
+    },
+    {
+      "source": "docs/development/testing/Inno.Scene.Tests.md",
+      "sourceSha256": "287cfdedc129e33da8520adcb39ca30ee4b6fd1a32552ecf8a810e5d3098d99b",
+      "destinations": [
+        "content/en/contributing/testing/inno-scene-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndScenarioSourceReviewed",
+      "sourceFiles": 7,
+      "preservedScenarioNames": 25,
+      "declaredLayer": "contract"
+    }
+  ]
+}

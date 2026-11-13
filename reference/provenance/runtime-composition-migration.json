@@ -1,0 +1,194 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Default runtime catalog requires product-injected platform/rendering/storage factories; it does not create a concrete BGFX runtime integration.",
+    "The existing 30-second Shell retirement barrier is a resource-lifetime protocol, not a new build timeout."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/runtime/Inno.Adapter.Authoring.Default.md",
+      "sourceSha256": "f19d1df8d0d961fbea7b6eb6cd54987ccb99e19a09b6ed8c03e7e39b3e080116",
+      "sourceBlobSha256": "f19d1df8d0d961fbea7b6eb6cd54987ccb99e19a09b6ed8c03e7e39b3e080116",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-authoring-default.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 11,
+      "capturedSymbols": 11,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Adapter.Default.md",
+      "sourceSha256": "235aa530781c6916738acfa555f66ede95b4642b6cab06a0d11a5e2d769f2013",
+      "sourceBlobSha256": "235aa530781c6916738acfa555f66ede95b4642b6cab06a0d11a5e2d769f2013",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-default.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 16,
+      "capturedSymbols": 16,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Adapter.md",
+      "sourceSha256": "81814356f80c1eb1061ddcbda83e8334b5872178cfe5977de83cbda06565c027",
+      "sourceBlobSha256": "81814356f80c1eb1061ddcbda83e8334b5872178cfe5977de83cbda06565c027",
+      "destinations": [
+        "content/en/api/projects/inno-adapter.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 17,
+      "capturedSymbols": 17,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Engine.Default.md",
+      "sourceSha256": "0bc06142489c9fa03bb479457cb966564f814913f0e932974dc1036499bc61fc",
+      "sourceBlobSha256": "27b101b69081dab812c05da5fa05559b741715850b9b008909d46049257149c9",
+      "destinations": [
+        "content/en/api/projects/inno-engine-default.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 13,
+      "capturedSymbols": 13,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Player.Runtime.md",
+      "sourceSha256": "59fb46d9d244c23e7ef436b4887b8ffaacb3169d7328bbc86bc28dd2f27886a8",
+      "sourceBlobSha256": "59fb46d9d244c23e7ef436b4887b8ffaacb3169d7328bbc86bc28dd2f27886a8",
+      "destinations": [
+        "content/en/api/projects/inno-player-runtime.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 38,
+      "capturedSymbols": 38,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Runtime.Contracts.md",
+      "sourceSha256": "80e221f287e3a200ec99857d1f04a0d1a845375ab7492db7babd008addb67b62",
+      "sourceBlobSha256": "80e221f287e3a200ec99857d1f04a0d1a845375ab7492db7babd008addb67b62",
+      "destinations": [
+        "content/en/api/projects/inno-runtime-contracts.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 115,
+      "capturedSymbols": 115,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Runtime.Contracts/api.md",
+      "sourceSha256": "54a583f0737ce6b98eda436ba71c70934e8e73e29466fd0adb13c78868989476",
+      "sourceBlobSha256": "54a583f0737ce6b98eda436ba71c70934e8e73e29466fd0adb13c78868989476",
+      "destinations": [
+        "content/en/api/projects/inno-runtime-contracts.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 115,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Runtime.Generators.md",
+      "sourceSha256": "7d97d60b702871a625eede510c23fcf0bfd8e29ad409ff953488eddea4fc95f2",
+      "sourceBlobSha256": "7d97d60b702871a625eede510c23fcf0bfd8e29ad409ff953488eddea4fc95f2",
+      "destinations": [
+        "content/en/api/projects/inno-runtime-generators.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 9,
+      "capturedSymbols": 9,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Runtime.md",
+      "sourceSha256": "d8e68760648fdf8f4abf61185713c667932166ffa71d42d2d36688bfcf07aeff",
+      "sourceBlobSha256": "d8e68760648fdf8f4abf61185713c667932166ffa71d42d2d36688bfcf07aeff",
+      "destinations": [
+        "content/en/api/projects/inno-runtime.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 186,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Runtime/api.md",
+      "sourceSha256": "ec9d614b3e1f3f03939871d9cca4d8eb8c8948c2890b153191054498b84a3194",
+      "sourceBlobSha256": "ec9d614b3e1f3f03939871d9cca4d8eb8c8948c2890b153191054498b84a3194",
+      "destinations": [
+        "content/en/api/projects/inno-runtime.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 186,
+      "capturedSymbols": 186,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Shell.md",
+      "sourceSha256": "8d21a231b6b0ac6150e3b96fb3344175b9b74340e4cc7651f95254e9f8d50e08",
+      "sourceBlobSha256": "8d21a231b6b0ac6150e3b96fb3344175b9b74340e4cc7651f95254e9f8d50e08",
+      "destinations": [
+        "content/en/api/projects/inno-shell.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 66,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/Inno.Shell/api.md",
+      "sourceSha256": "08f3bb968aedcfd981a7826388e858196312c6bf6553139553e295c77c193fe5",
+      "sourceBlobSha256": "08f3bb968aedcfd981a7826388e858196312c6bf6553139553e295c77c193fe5",
+      "destinations": [
+        "content/en/api/projects/inno-shell.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 66,
+      "capturedSymbols": 66,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/modules/runtime/README.md",
+      "sourceSha256": "33c3cb580eb1cde2fcb965971b8ef8a7553ee435dd523f3123abdf2664b7a8c5",
+      "sourceBlobSha256": "33c3cb580eb1cde2fcb965971b8ef8a7553ee435dd523f3123abdf2664b7a8c5",
+      "destinations": [
+        "content/en/extending/runtime-host.md",
+        "content/en/architecture/runtime-lifetime.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": null,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    }
+  ]
+}

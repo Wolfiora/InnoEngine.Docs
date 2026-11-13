@@ -1,0 +1,35 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
+  "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/backends/Bgfx/Inno.Native.Bgfx.md",
+      "sourceSha256": "a76ae2abcd1e317cc0c8ea363a9befcef814d744a386abdc5e64a20b0d5ad34f",
+      "destinations": [
+        "content/en/api/projects/inno-native-bgfx.md"
+      ],
+      "status": "ReviewedIntegrationOverviewAwaitingCutover",
+      "scope": "Engine integration only; upstream and generated native members retired by user instruction."
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Native.ImGui.md",
+      "sourceSha256": "43cb0b9de5503265310b7454847e4b6be42638e3caf92afb15b360926234cde5",
+      "destinations": [
+        "content/en/api/projects/inno-native-imgui.md"
+      ],
+      "status": "ReviewedIntegrationOverviewAwaitingCutover",
+      "scope": "Engine integration only; upstream and generated native members retired by user instruction."
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Native.ImGuizmo.md",
+      "sourceSha256": "83b0466cf4446994414f55d69ddc89163f6e753a436015539f76325c57ed32ec",
+      "destinations": [
+        "content/en/api/projects/inno-native-imguizmo.md"
+      ],
+      "status": "ReviewedIntegrationOverviewAwaitingCutover",
+      "scope": "Engine integration only; upstream and generated native members retired by user instruction."
+    }
+  ]
+}

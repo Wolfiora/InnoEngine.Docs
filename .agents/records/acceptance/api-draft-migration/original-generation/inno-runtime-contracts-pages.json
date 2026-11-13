@@ -1,0 +1,69 @@
+{
+  "project": "Inno.Runtime.Contracts",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-runtime-contracts",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-runtime-contracts",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/iruntimesubsystem.md",
+      "sha256": "24e597888e56c70f2b720366b15be915e0e119c7ae05ede11f36573be0a7892f"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/iruntimesubsystemfactory.md",
+      "sha256": "716f91c8dabd1969601cbf990b9d1faba10065ba8e631164e27817cc857ca12d"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimecapabilityid.md",
+      "sha256": "06ae12cb1c0fc0c5c43f190c1c9921527148b9d8d8e511920f14a357088743f7"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimefixedframe.md",
+      "sha256": "9f9a6a075b78e28f1bac109bbe8e0a7ed221dcf2b120c0072917b20052b8e303"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimeframe.md",
+      "sha256": "7adcbec80c016618fecf4a0b11c7f1cf4858ca167a3d151072982cbe104cc8d8"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystem.md",
+      "sha256": "595a2514f73248cd2a932a9573c277a2916ddbe4ab9d03cd17b7595459625071"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemcatalogattribute.md",
+      "sha256": "284a7b9ac96d715b69a7682ce7386832785a72233a453289fce8fe49f81394a8"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemcontext.md",
+      "sha256": "d03805c8ff23d5d5de1a428751e7522d0da8f7ea35303187cec11b5361a7e8ad"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemdescriptor.md",
+      "sha256": "f3dfa5daf1532da62029335633978e036cb52a47bbc6854d99601e5f093af0c4"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemid.md",
+      "sha256": "707ab2fb7257f7507ea86d392b1cec79a61792a6986c493a560e3c8eaa0f4570"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemlifetime.md",
+      "sha256": "c441c56360d219e88229f741f8ad861eef8617d23ca38834b9a351f3c37feae8"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemregistrationattribute.md",
+      "sha256": "15f845428f7e0e65590e496e582cb537cf803d0fef3ceb8f2fe94673f670d7f5"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/runtimesubsystemrequirement.md",
+      "sha256": "29a2966e8c4cce2038054a6c6d404573acf3186d9b1413acc3ae3a08e0e21e6c"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime-contracts/index.md",
+      "sha256": "a7f2fb70bf38c09cdda29289ff5fedd3c0a70b70aebee8986ce35ec35a79c41b"
+    }
+  ]
+}

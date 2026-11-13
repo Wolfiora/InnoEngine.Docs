@@ -1,0 +1,76 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/backends/FileSystem/Inno.Adapter.Storage.FileSystem.md",
+      "sourceSha256": "84217d5991a3ea36357e9afbd26b735c59db427565327ec8957f39d7cdfc507d",
+      "project": "Inno.Adapter.Storage.FileSystem",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-storage-filesystem.md",
+        "content/en/manual/storage/save-data.md"
+      ],
+      "symbols": 12,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "note": "Correct outdated narrative claiming a parameterless provider and string creation argument. Actual signatures require a host root and StorageScope. Retain gate, path and cancellation obligations."
+    },
+    {
+      "source": "docs/modules/storage/Inno.Adapter.Storage.md",
+      "sourceSha256": "d9cc1a58b6d2288b46c87234d7c4f259366c56cfec29d8dd07a1f76ffb27cd45",
+      "project": "Inno.Adapter.Storage",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-storage.md",
+        "content/en/manual/storage/save-data.md"
+      ],
+      "symbols": 23,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
+    },
+    {
+      "source": "docs/modules/storage/Inno.Storage.Runtime.md",
+      "sourceSha256": "34d7b72d2d7a4798259123cc602fc9109cd37db96d10da20317523b176d9e795",
+      "project": "Inno.Storage.Runtime",
+      "destinations": [
+        "content/en/api/projects/inno-storage-runtime.md",
+        "content/en/manual/storage/save-data.md"
+      ],
+      "symbols": 16,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
+    },
+    {
+      "source": "docs/modules/storage/Inno.Storage.md",
+      "sourceSha256": "9cf9c0bccbc7a4b36b22f59e70efaaa14410306576cf492ede45a6ea8d4efe71",
+      "project": "Inno.Storage",
+      "destinations": [
+        "content/en/api/projects/inno-storage.md",
+        "content/en/manual/storage/save-data.md"
+      ],
+      "symbols": 35,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
+    },
+    {
+      "source": "docs/modules/storage/README.md",
+      "sourceSha256": "2a0d13e6cba8aed68eac875840cbd3445a6b9e008f9394eee1db934f860f0e78",
+      "project": null,
+      "destinations": [
+        "content/en/manual/storage/save-data.md"
+      ],
+      "symbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeReferencesExamplesAndRenderedProjectionPassed",
+      "note": "Preserve logical namespace, atomic-value, admission and retirement requirements. Application policy and physical storage remain separate."
+    }
+  ]
+}

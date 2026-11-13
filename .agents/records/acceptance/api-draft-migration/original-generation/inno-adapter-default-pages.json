@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Adapter.Default",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-adapter-default",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-adapter-default",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-default/defaultadaptercatalog.md",
+      "sha256": "bd5d0d5cc4684c1d0b5ec69e72eefc6c022070848a7c2f53ca02d8a0bd12852b"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-default/defaultadaptercatalogoptions.md",
+      "sha256": "f795e7d92ccb3449b699d96e6ad9167761fbc829c42a87c5757e37e931e10399"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-default/standardadapterselection.md",
+      "sha256": "0bcc153a137bbc4f265a1993a4a699bf8fe5ca04d2908099075c739854284918"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-default/index.md",
+      "sha256": "4be2aef801deac5309741228991eb1fbbdb4dee3fd188e693e90ccf90c8e3cf8"
+    }
+  ]
+}

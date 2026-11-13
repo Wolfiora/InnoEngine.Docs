@@ -1,0 +1,64 @@
+{
+  "projectManifestIdentity": "613ab06bf5daf67032778bfc9b5762e9e25ec7576fb0f1c836339859d530cf66",
+  "toolingRevision": "10f84a8694090dfe005b96531df3335e7c7c3dda",
+  "repository": "https://github.com/Wolfiora/InnoEngine",
+  "projectManifest": "reference/projects/catalog.json",
+  "apiManifests": [
+    {
+      "target": "macos-arm64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-macos-arm64-editor-script.json",
+      "model": "editor-script",
+      "sha256": "31ed80a99c5c6c261b92fdbed648f93b772877b82cd5cee1b860b58dac11cfc8",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "macos-arm64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-macos-arm64-runtime-script.json",
+      "model": "runtime-script",
+      "sha256": "bb770ada763dfb0880e5a3f299151751bc05de30dbf161951aa69da7191dc354",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "macos-arm64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-macos-arm64-source-clr.json",
+      "model": "source-clr",
+      "sha256": "5b9a7cdf9216680de1aa51de100c2f9e23bfa32189d05d4c2146e7bedaede760",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-editor-script.json",
+      "model": "editor-script",
+      "sha256": "b37535bf10b1e4cb3ed69cad3b0e23b234596e01ac18125faa4458413cbda3f1",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-runtime-script.json",
+      "model": "runtime-script",
+      "sha256": "9e17e56f958c30472acde963c02d4b35d3ac8ead523a1f2d26d8f856970bf7da",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    },
+    {
+      "target": "windows-x64",
+      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "configuration": "Debug",
+      "path": "reference/api/Debug-windows-x64-source-clr.json",
+      "model": "source-clr",
+      "sha256": "85d22a5333ef8995b91e51137c6a437b97725384201c0c462d76033913827cf9",
+      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+    }
+  ],
+  "revision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+  "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+}

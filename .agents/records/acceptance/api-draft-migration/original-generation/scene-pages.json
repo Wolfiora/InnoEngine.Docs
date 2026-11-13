@@ -1,0 +1,141 @@
+{
+  "project": "Inno.Scene",
+  "outputDirectory": "content/en/api/types/scene",
+  "sourceRevision": "537ec77d8445967534cd932f5f7735758ad98f13",
+  "sourceTree": "233db1705c38ba8a279ed95efec8568d17fffc2c",
+  "facts": "reference/api/scene.json",
+  "factsIdentity": "1b83056e00befc0b9946086411f873ce476cc217fdc064328bfcee7bc8097149",
+  "sharedContract": "project.inno-scene#scene-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/scene/allowmultiplecomponentattribute.md",
+      "sha256": "1e529c94a9838ebe6739a78b8ce9fb726ad749229f43f08b3299d7fbd7b2b318"
+    },
+    {
+      "path": "content/en/api/types/scene/allowmultiplesystemattribute.md",
+      "sha256": "9147b000d1c7a73cd4851f1bc5b7a3b105b00b12090b3c62d065964073c99638"
+    },
+    {
+      "path": "content/en/api/types/scene/components.transform.md",
+      "sha256": "8ac085acdda0e5a9ee98679e8ae6b5ceee1abfc64988a5e83e5c77220f83fefb"
+    },
+    {
+      "path": "content/en/api/types/scene/engineassetcontent.md",
+      "sha256": "2ebffd38411dc8214c950305f409e6f0670bea512b127c42199d96d9380c12f4"
+    },
+    {
+      "path": "content/en/api/types/scene/engineobject.md",
+      "sha256": "d175f56a420f9b5b6f81d1781c537b6a630bdb4d13993557c57d0beaf534fb85"
+    },
+    {
+      "path": "content/en/api/types/scene/gamebehavior.md",
+      "sha256": "910c8c928dae69003e31b58c6792e0c2bb4fd6789f13c9b01a008d0c190c671a"
+    },
+    {
+      "path": "content/en/api/types/scene/gamecomponent.md",
+      "sha256": "557f8b35633d0d6f71f1b033d6e320604f6fe8d4a4bf3fb32b12d565349c9c15"
+    },
+    {
+      "path": "content/en/api/types/scene/gameobject.md",
+      "sha256": "b6ebfbcc4c6e67274d4dc3ae21b35044af278baef289c147da8e28259112e6ab"
+    },
+    {
+      "path": "content/en/api/types/scene/gamescene.md",
+      "sha256": "82aaefdb6a42371128e05bcbf92e496fda976d3a1ad21116ead46d13de8cabf0"
+    },
+    {
+      "path": "content/en/api/types/scene/gamesystem.md",
+      "sha256": "e37b06d3de7cb6b37ffb5f2e0c1d580094412d701121d5cd1ae9b6c11488dbcd"
+    },
+    {
+      "path": "content/en/api/types/scene/gametagcatalog.md",
+      "sha256": "9bd404e9475015d632d753011ac9de791f8443242bd83795c6d07a15911d30b6"
+    },
+    {
+      "path": "content/en/api/types/scene/iscenereloadstatetransfer.md",
+      "sha256": "84a063d615cd805d9b2ab478ae14b8e8c918d16f00b818ba0f31b57253950954"
+    },
+    {
+      "path": "content/en/api/types/scene/layers.gamelayer.md",
+      "sha256": "9df09f09ce2f4951950cea9d4ad4177c335bf11736dc2f499f625bfdaccf2f05"
+    },
+    {
+      "path": "content/en/api/types/scene/layers.gamelayercatalog.md",
+      "sha256": "0bea558600c881326ed95044a7ba407bb252e659a9e8937e879cca85acfe3980"
+    },
+    {
+      "path": "content/en/api/types/scene/layers.gamelayerdefinition.md",
+      "sha256": "a4e1abe5d62486bb8fcb669bb64c1355d4ff520a69b5021b59f178143300c12a"
+    },
+    {
+      "path": "content/en/api/types/scene/layers.gamelayerid.md",
+      "sha256": "87d0dc40ef5e56703114661a7782655951f748adfe8e72dec3d280d2a536a1fe"
+    },
+    {
+      "path": "content/en/api/types/scene/layers.gamelayermask.md",
+      "sha256": "37a119e13f058d840d124ba080f77ab6acba47df4336a0606cee330edbdb1a46"
+    },
+    {
+      "path": "content/en/api/types/scene/missinggamecomponent.md",
+      "sha256": "e1d70bbc370b6f27528efa3954daa713a443265f9c5e54f8e387d7e9618050fa"
+    },
+    {
+      "path": "content/en/api/types/scene/missinggamesystem.md",
+      "sha256": "86366a88827d19f25c6047dcc5cfc87544b76bc23c19948b4056c5f347670dd4"
+    },
+    {
+      "path": "content/en/api/types/scene/prefabasset.md",
+      "sha256": "46e0bb8796f243dc12dbd830df2b24e7a5b8b8d7910cbd7f3b8c2af3a0fec73b"
+    },
+    {
+      "path": "content/en/api/types/scene/prefabinstanceinfo.md",
+      "sha256": "77e03d0c98fbcde7a2cddf6a1bc2cc7dcbbc3b9fe24712d99089b8d34a4e71bf"
+    },
+    {
+      "path": "content/en/api/types/scene/sceneasset.md",
+      "sha256": "29b8b3d9d5ed98da225c760c7b78dc33508d9508dfe25d385658e0e41a63116e"
+    },
+    {
+      "path": "content/en/api/types/scene/scenecontentsource.md",
+      "sha256": "d34c64eb66f9de2fd62a29a471b009da9246d2ca66921f848e7ca5e9abd0ad1a"
+    },
+    {
+      "path": "content/en/api/types/scene/sceneelementserialization.md",
+      "sha256": "ca4d9bc440fa0f94a800e84c4946de1108acf11a5d68f3ed3f2aacb78b00851a"
+    },
+    {
+      "path": "content/en/api/types/scene/scenemanager.md",
+      "sha256": "7035fd771d6993c9f9e2676c767d3b11fa9bf725c9483af1d83171d7faa0edde"
+    },
+    {
+      "path": "content/en/api/types/scene/scenepropertyserialization.md",
+      "sha256": "10102fcb8681ef80c663570cad71ec2b9da0d4c4ce309248bc6cdb63772edff4"
+    },
+    {
+      "path": "content/en/api/types/scene/scenereloaddiagnostic.md",
+      "sha256": "ad7f21bbdba7bb411a269aa00446297227f917ceef45fd4ec747506b78e27cd9"
+    },
+    {
+      "path": "content/en/api/types/scene/scenereloadservice.md",
+      "sha256": "5ed2ec270f8873cc92d44ad5b81761bc053da28c8ca3efc8d5a23c280302e64b"
+    },
+    {
+      "path": "content/en/api/types/scene/scenesubtreeserialization.md",
+      "sha256": "51726a3f13ffd13b5b925629f08514cf3dd02d133db70a84db51e582fa356f6d"
+    },
+    {
+      "path": "content/en/api/types/scene/scenetyperesolutionexception.md",
+      "sha256": "ad00ceefb1a9732787978c17562e0c2d36190aba41038247969772c950e1b82c"
+    },
+    {
+      "path": "content/en/api/types/scene/sceneworld.md",
+      "sha256": "874564d2ee490b1ef45ce910d3269a3e74675c5df4957f5136938a3f2db70864"
+    },
+    {
+      "path": "content/en/api/types/scene/index.md",
+      "sha256": "0e73ed06160a181a8446b9c4f64ebc8092a667a90bdfb05793394d3c8a8dedd3"
+    }
+  ]
+}

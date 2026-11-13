@@ -1,0 +1,147 @@
+{
+  "scope": "Five warm independent Build CLI processes per implementation; includes startup and snapshot verification. Same source tree, Markdown content identity, SDK, machine and exact symbol workload. Samples were collected in separate periods, not an isolated CPU laboratory.",
+  "contentIdentity": "b3c485f1a290de79b784f19414c0a5a00bb97308348a16b3ce94f16d715c1246",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "sourceApiStatus": "Unverified",
+  "previousSnapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+  "snapshot": "78c8a66508f21d1ceeb5427166804edbad7c636f37ebd4d503483e4d50992f51",
+  "toolingRevision": "5e5ed64c981a51f1568004415ad80c44f32da9c0",
+  "sdk": "10.0.402",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "queryAssemblySha256": "53d2a4f2c125a007475f1dfd8b7decc84d318c9df5d401878a2e7d1850571ce7",
+  "previousQueryAssemblySha256": "4bc269ffdbe78894d587634db32771ddf841e3a0d97f443f12e90156385b9afb",
+  "medianBeforeMilliseconds": 1405.3864,
+  "medianAfterMilliseconds": 984.8268,
+  "beforeSamples": [
+    {
+      "layout": "After",
+      "sample": 1,
+      "milliseconds": 1405.3864,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 2,
+      "milliseconds": 1580.3884,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 3,
+      "milliseconds": 1731.4295,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 4,
+      "milliseconds": 1359.3624,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    },
+    {
+      "layout": "After",
+      "sample": 5,
+      "milliseconds": 1188.4828,
+      "resultBytes": 1535,
+      "snapshot": "82a94970432d133ec942ec433b7d1c3cbcf17739ed1662414ab27c9e9acc936b",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "completeness": "CompleteUnit",
+      "unitIdentity": "503e333c815f3afd394c5049e06d8920766e2c009fee385682644f0d86aeb06e",
+      "contractIdentity": "6f000a6962567c3c4de8429394d19bafd1abcbc3943d3bea3029df068ab70106",
+      "continuations": [
+        "project.inno-core-input#input-value-contract",
+        "api.inno.core.input.2ce06d9d7c30c576#type-declaration"
+      ]
+    }
+  ],
+  "afterSamples": [
+    {
+      "sample": 1,
+      "milliseconds": 1210.7751,
+      "resultBytes": 1535,
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 2,
+      "milliseconds": 1298.8122,
+      "resultBytes": 1535,
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 3,
+      "milliseconds": 941.7961,
+      "resultBytes": 1535,
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 4,
+      "milliseconds": 984.8268,
+      "resultBytes": 1535,
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    },
+    {
+      "sample": 5,
+      "milliseconds": 921.8744,
+      "resultBytes": 1535,
+      "symbol": "F:Inno.Core.Input.KeyCode.A",
+      "page": "api.inno.core.input.d97627a0eb86d9a0",
+      "completeness": "CompleteUnit",
+      "requiredContracts": 2
+    }
+  ],
+  "verified": "Exact returned Markdown, symbol identity, result status and required continuations match the previous implementation. No query SDK graph, engine/native compilation, mutable content scan or network operation.",
+  "aggregateCorrection": "See QUERY_MEDIAN_CORRECTION_2026_11_11.json; the original report bytes are retained in LAZY_QUERY_2026_11_11_RAW.json. Samples are unchanged."
+}

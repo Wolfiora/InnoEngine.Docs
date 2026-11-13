@@ -1,0 +1,50 @@
+{
+  "project": "Inno.Extensibility.Types",
+  "outputDirectory": "content/en/api/types/extensibility-types",
+  "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
+  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "facts": "reference/api/extensibility.json",
+  "factsIdentity": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
+  "sharedContract": "project.inno-extensibility-types",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/extensibility-types/itypecatalogsource.md",
+      "sha256": "87c2218dfc5ad505b204e4f9d0244a3834aeec78ad4630570ccda0e612396600"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/stabletypeidattribute.md",
+      "sha256": "04d90c43df734719544262df14185b48bd9bb4cdd9e587a0fdba8d7581fa020f"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typecachebuildexception.md",
+      "sha256": "f8166b88b63e10bd35d54a0f1c39c2eeaf1eee6458f9ee7edb71481252806930"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typecachereloadcontext.md",
+      "sha256": "b8cd7bd200627beb17fe99ec5bda5f924cd88ddfa7060c0024d350b13e5e7250"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typecachesnapshot.md",
+      "sha256": "b6ba5651db3c221e53644c81e40b6c2be4969a187a3ae9773946f748cb7e6723"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typecatalog.md",
+      "sha256": "d827f8acca7b0df9f6a8b0662f6e0aa89c051a4470a5cb5b8894643d1acc2a2e"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typeref.md",
+      "sha256": "f13d0269dc99c97ef40d00df78532828b0f81fce26886635c4114ab4c3a16459"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/typeregistry-1.md",
+      "sha256": "30ce683c67e032c6ecd97b2cecc76a76507f28177fa5786ffe7bc6352204620c"
+    },
+    {
+      "path": "content/en/api/types/extensibility-types/index.md",
+      "sha256": "160a98b890b627584979fa7251001ae870ec5f7b4bec0705b31899e32cc11322"
+    }
+  ]
+}

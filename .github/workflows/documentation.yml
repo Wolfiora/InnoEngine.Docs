@@ -1,0 +1,180 @@
+name: Documentation
+
+on:
+  pull_request:
+    branches: [draft, main]
+  push:
+    branches: [draft, main]
+  merge_group:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+env:
+  DOCUMENTATION_COMMIT: ${{ github.sha }}
+
+concurrency:
+  group: documentation-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  projection:
+    name: Documentation projection
+    runs-on: windows-2025
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+          cache: npm
+      - name: Read immutable tooling binding
+        id: binding
+        shell: pwsh
+        run: |
+          $binding = Get-Content reference/engine.lock.json -Raw | ConvertFrom-Json
+          if ($binding.repository -ne 'https://github.com/Wolfiora/InnoEngine' -or $binding.toolingRevision -notmatch '^[a-f0-9]{40}$') { throw 'Invalid engine binding.' }
+          "revision=$($binding.toolingRevision)" >> $env:GITHUB_OUTPUT
+          if ($binding.revision -cnotmatch '^[a-f0-9]{40}$') { throw 'Invalid API source revision.' }
+          "api-revision=$($binding.revision)" >> $env:GITHUB_OUTPUT
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: Wolfiora/InnoEngine
+          ref: ${{ steps.binding.outputs.revision }}
+          path: artifacts/engine-source
+          persist-credentials: false
+      - uses: ./artifacts/engine-source/.github/actions/setup-dotnet
+        with:
+          global-json-file: artifacts/engine-source/global.json
+      - name: Verify shared rules and provenance
+        shell: pwsh
+        run: ./scripts/check-rule-authority.ps1 -EngineRoot artifacts/engine-source
+      - run: npm ci
+      - run: npm test
+      - name: Verify bounded artifact import
+        shell: pwsh
+        run: ./tests/PublicationArchive.Tests.ps1
+      - name: Prepare canonical API content and editorial observations
+        shell: pwsh
+        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
+      - name: Retain complete editorial observations
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: api-editorial-attempt-${{ github.run_attempt }}
+          path: artifacts/api-editorial.json
+          if-no-files-found: warn
+          retention-days: 30
+      - run: npm run check
+      - name: Select authenticated reusable example evidence
+        id: previous-examples
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/example-work.mjs select
+      - name: Import the exact trusted receipt artifact
+        if: steps.previous-examples.outputs.available == 'true'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/examples/selection.json -Source documentation -Destination artifacts/previous-examples
+      - name: Select only changed or uncovered executable examples
+        id: example-work
+        shell: pwsh
+        env:
+          PREVIOUS_AVAILABLE: ${{ steps.previous-examples.outputs.available }}
+        run: |
+          $previous = @(if ($env:PREVIOUS_AVAILABLE -eq 'true') { 'artifacts/previous-examples' })
+          node scripts/example-work.mjs plan @previous
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        if: steps.example-work.outputs.compile == 'true'
+        with:
+          repository: Wolfiora/InnoEngine
+          ref: ${{ steps.binding.outputs.api-revision }}
+          path: artifacts/example-engine-source
+          submodules: recursive
+          persist-credentials: false
+      - uses: ./artifacts/example-engine-source/.github/actions/setup-dotnet
+        if: steps.example-work.outputs.compile == 'true'
+        with:
+          global-json-file: artifacts/example-engine-source/global.json
+      - name: Compile selected examples against real managed inputs
+        if: steps.example-work.outputs.compile == 'true'
+        shell: pwsh
+        run: ./scripts/prepare-examples.ps1 -EngineRoot artifacts/example-engine-source -ToolingRoot artifacts/engine-source
+      - name: Reconcile reused and newly executed example groups
+        shell: pwsh
+        env:
+          COMPILED_EXAMPLES: ${{ steps.example-work.outputs.compile }}
+        run: |
+          $compiled = @(if ($env:COMPILED_EXAMPLES -eq 'true') { 'artifacts/examples/compiled.json' })
+          node scripts/example-work.mjs complete @compiled
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+      - name: Retain exact example receipts for trusted reuse
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-examples-attempt-${{ github.run_attempt }}
+          path: |
+            artifacts/examples/manifest.json
+            artifacts/examples/reports/
+          if-no-files-found: error
+          retention-days: 90
+      - run: npm run build
+      - name: Validate complete site and selected example receipts
+        shell: pwsh
+        run: |
+          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist --complete --example-manifest artifacts/examples/manifest.json > artifacts/completion.json
+          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
+      - name: Retain the static preview
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-preview-attempt-${{ github.run_attempt }}
+          path: dist/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Install locked browser runtime
+        run: npx --no-install playwright install chromium
+      - name: Verify responsive reading, search and keyboard journeys
+        run: npm run test:browser
+      - name: Freeze the exact checked site
+        run: node scripts/publication-artifact.mjs create dist artifacts/canonical-catalog.json artifacts/completion.json
+      - name: Retain verified delivery output
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-site-attempt-${{ github.run_attempt }}
+          path: dist/
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 90
+      - name: Retain diagnostics
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: documentation-diagnostics-attempt-${{ github.run_attempt }}
+          path: |
+            artifacts/completion.json
+            artifacts/api-editorial.json
+            artifacts/browser/
+            artifacts/examples/*.log
+            artifacts/examples/work.json
+            artifacts/examples/compiled.json
+            artifacts/examples/result.json
+          if-no-files-found: warn
+          retention-days: 30
+
+  validation:
+    name: Documentation validation
+    if: always()
+    needs: [projection]
+    runs-on: windows-2025
+    steps:
+      - name: Reconcile required documentation work
+        shell: pwsh
+        env:
+          PROJECTION_RESULT: ${{ needs.projection.result }}
+        run: |
+          if ($env:PROJECTION_RESULT -ne 'success') { throw "Required documentation work is $env:PROJECTION_RESULT; missing, canceled and skipped work cannot pass." }
+          'Documentation facts, content, examples and website checks passed. API editorial coverage is advisory.' >> $env:GITHUB_STEP_SUMMARY

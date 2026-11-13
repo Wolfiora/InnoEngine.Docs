@@ -1,0 +1,93 @@
+{
+  "project": "Inno.Rendering.Assets.Authoring",
+  "outputDirectory": "content/en/api/types/rendering/inno-rendering-assets-authoring",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/rendering.json",
+  "factsIdentity": "a3238317ec92d67e3d56e6804306f0b5ea6a997010675aa50ec74c0295ace870",
+  "sharedContract": "project.inno-rendering-assets-authoring",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/compiledshaderartifact.md",
+      "sha256": "4e69a23cc17525b809fa028a8cb107e17e5095a0dedd929763934d9b554e2496"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/compiledshaderpass.md",
+      "sha256": "a23e19e43f4336395b4cd7c8583c027640b458f4c7b00c402e3b7b64886e3b6f"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/ishadercompilertoolchain.md",
+      "sha256": "9a8b23fbffb1113e76fadada3625cd524b5eccb5224d47b1262414c44f80dad4"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/itexturetargetcompiler.md",
+      "sha256": "edebbe231dbbf5bd7dab2d2c1da95d54e60f4e595b2b65ca6c7a8aa81af76509"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderartifactselection.md",
+      "sha256": "ff5c386a14e604ecc641d9f4c68271f84dba01bf6de9fb35ca97892cdf5ee436"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadercompilationresult.md",
+      "sha256": "eac84a8fdccb65070640092f588562ae2fe40e48bcc379bea644c29963700ccd"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadercompiler.md",
+      "sha256": "166917c5c2a920b97e39628399c94f174d8c485940e7f1c26ce26d5c632bf040"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadercompiletarget.md",
+      "sha256": "6c1883b0a78a779c2197a0894418dbeb00bce2b7dfb1298acdc9ddc23b58b9d4"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderfunctionasset.md",
+      "sha256": "7b800d34bd4524ad2547cb6768f56364997744d28d25e9ab4d761054ec4d3e29"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadergraphartifact.md",
+      "sha256": "364a820e87cbff56ca6927bebc4eeafd4ccfd9b85b8a1e1358b07c05865e979b"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadergraphsourcesnapshot.md",
+      "sha256": "2c348adf68a98b4b5f93f3160e73083f242d28e609263c762e662a316674a8e7"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadergraphsourcestore.md",
+      "sha256": "de078fa2ad5199fc7786976c0a89e462f0775963b2aa8b6b5fac4ac7110b1384"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderlastgoodstore.md",
+      "sha256": "773a7dcfd57b52724556286cec21f46d93349bab0100a2a71132b479ae8c3a98"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadersourcebundle.md",
+      "sha256": "a4bf25a94899b6a7ee3a237dcd99fc0661d1563f45629271ad8deeb3c50edb1c"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shadersourceimportsettings.md",
+      "sha256": "cbe26eee8a49aadd0137ceb55375d3c51864cd4abf9e1e67c657158dce31832b"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderstageartifact.md",
+      "sha256": "2d790aed9bd5cbb9c7021121ac0cfec3a04b8b16a8e688a6d4946a2ba7d7c16a"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderstagebinding.md",
+      "sha256": "aeab74f70ad73fcb386d24b04885f1ad129197d30a464c1c0b41126a04601381"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderstagetoolrequest.md",
+      "sha256": "36053351d5bad3e43d11770f906edf7aa02af36215468867b8dca039fef51a8e"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/shaderstagetoolresult.md",
+      "sha256": "5f9111f447e4cec9adac450e1fdbabb8b8899b3d1a36fd7e9657ca5f85c2a3e9"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-rendering-assets-authoring/index.md",
+      "sha256": "b0111536af3de83dafa1327062b5a80df69815b5f6c3490b84fa1e8f3fa0ee71"
+    }
+  ]
+}

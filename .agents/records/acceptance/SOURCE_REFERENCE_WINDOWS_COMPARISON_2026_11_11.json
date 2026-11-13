@@ -1,0 +1,29 @@
+{
+  "status": "Passed",
+  "scope": "SelectedSourceReferenceComparison",
+  "configuration": "Debug",
+  "target": "windows-x64",
+  "sourceApiStatus": "Unverified",
+  "references": [
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\platform-products-windows.json",
+      "identity": "db8ef04349b32bc8aef420f86a48a5b2cb898b11a6c8ee8b69c323cf96b33917"
+    }
+  ],
+  "projects": [
+    {
+      "project": "platforms/WindowsX64/editor/Inno.Editor.WindowsX64/Inno.Editor.WindowsX64.csproj",
+      "name": "Inno.Editor.WindowsX64",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/player/Inno.Player.WindowsX64/Inno.Player.WindowsX64.csproj",
+      "name": "Inno.Player.WindowsX64",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    }
+  ]
+}

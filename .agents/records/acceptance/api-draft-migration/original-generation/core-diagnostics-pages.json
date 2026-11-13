@@ -1,0 +1,58 @@
+{
+  "project": "Inno.Core.Diagnostics",
+  "outputDirectory": "content/en/api/types/core-diagnostics",
+  "sourceRevision": "c7c2e650d4607be0611e3419a95d9e13a76a2554",
+  "sourceTree": "40698b7b1d5a58ba6b4936d34ee3697d00e846d2",
+  "facts": "reference/api/core-observability.json",
+  "factsIdentity": "627a4df5a5a08375ec59900f8029f5f3ef4f7eacae95e41d0d85c4c1de7960df",
+  "sharedContract": "project.inno-core-diagnostics#producer-and-presentation-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnostic.md",
+      "sha256": "6a8166d03a497aeff99ceb2db5b5e4338c742ef5ac3cd20a241b733d00c69a24"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnostichub.md",
+      "sha256": "5f32b426d1e2fa886c55fad8716ebfc334ae0aa0a5b4e71a5cc87e0c7abee134"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnosticlocation.md",
+      "sha256": "183806492e624c4c6be0731fc6e81aa61163f70953ca8063758d0764107eb193"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnosticreport.md",
+      "sha256": "93693495e60d5ca9bc0230bb8cd14dfb37c24a2c87ee84d55946b92d9720382f"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnosticreporter.md",
+      "sha256": "cd9e71c83a4597cdbdd403b91306b1e93321b70f1acc89e8e360cd23e9850b30"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnostics.md",
+      "sha256": "60bd8ce705a087940e46cfe3c9c1a918c4a60f844c665da8eb3a9dc3f12cc221"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnosticseverity.md",
+      "sha256": "a72d01d90c63f3ee921d9cdb3eba4eb39a826f4ee447845eff0aedb4f36599b7"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/diagnosticsource.md",
+      "sha256": "5633ce4d41040c6961495b35cd46c8defdcf39cd3c5ce15971ec8dbd0099f231"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/idiagnosticreporter.md",
+      "sha256": "eee71c2a5d2b7a38a532c51a92b65c1fb12eefa071955be4833ac9e2b8519ad8"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/idiagnosticsink.md",
+      "sha256": "41cdde8dacab7b888ade6fe7d521d5c86b2f7a391b3dd7121d704394a5dd4850"
+    },
+    {
+      "path": "content/en/api/types/core-diagnostics/index.md",
+      "sha256": "df2a298c885b22d9913129da9dc975e9488ed5f191664ef9b77fc90884272a24"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "project": "Inno.Adapter.Platform.Sdl3",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-adapter-platform-sdl3",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/isdl3applicationextension.md",
+      "sha256": "4f788e594a6479920b91ce4278f2f0f5975cb9f92fdaff692467a88d1f49788a"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/isdl3hostintegration.md",
+      "sha256": "86ba64fb519da8438b7ad30894825898da9ce7ae9a7e1f1ba4788c0cf5e431d9"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3folderdialog.md",
+      "sha256": "436d7b634586586314626101db5753678d7c70a26bf4a3df2eea0452d5950f7b"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3hostcapabilities.md",
+      "sha256": "6cb649f4f493aba834f06be22db89e1ea42dd9b4eaa61027d65a5b0296f0ca98"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3platformapplication.md",
+      "sha256": "873c77a23efc05e4e23d9275dfb0e2ae305efd3b3cfbc63579cd88751030152a"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3platformbackendprovider.md",
+      "sha256": "b998a275909852c9c7680d0f0f50a62c4d4c313f7df8c1eb87a41a257a597ad8"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3platformwindow.md",
+      "sha256": "29fc53faaa42cd483137bfeb719580249b345449f46ef548d5b5710b7242b928"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/sdl3windowoperations.md",
+      "sha256": "e5c11a416c85b1d6a70ac6f5b6005fb257a3888edcfcc089bb5513ee2874bc5e"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-platform-sdl3/index.md",
+      "sha256": "f7a98d8776f857615993408651351cef01aad6b8c8125a35d6ec4321af307b64"
+    }
+  ]
+}

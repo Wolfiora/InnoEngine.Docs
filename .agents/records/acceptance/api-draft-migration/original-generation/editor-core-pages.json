@@ -1,0 +1,101 @@
+{
+  "project": "Inno.Editor.Core",
+  "outputDirectory": "content/en/api/types/editor-core",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "facts": "reference/api/editor.json",
+  "factsIdentity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+  "sharedContract": "api.projects.inno-editor-core#lifecycle-and-failure-contracts",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-core/editorcontext.md",
+      "sha256": "01c4e0f1123c71dbc2bac7986856232c46763c964641185e39f5eacc5f6bc089"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editordisplaynames.md",
+      "sha256": "184ad5180382cf2f6be963c7a492c36ceab5f5a439dea2eec3e4b45183c0d803"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorframe.md",
+      "sha256": "8b6bff7d0ca4017ff39bee89834dbe01dcad49d5ff3921c5bd37eb674f28587d"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorkeyboardpolicy.md",
+      "sha256": "d1f78cdbb39297669a4977150ddc930e627aa6e6028bfea6565bee84478bc9c8"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editormodal.md",
+      "sha256": "8c898ca22051b66e8ff0ac73fe629d0129ab43b47abbdc5302100bc9eb49560d"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editormodalattribute.md",
+      "sha256": "111a1409681f7a33f63cc876bfe5d86adb3a1c1954dca97f25aa6ae22bd61d6d"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editormodule.md",
+      "sha256": "aa0eb9fa1049398019d1f939e9dee7409189ee28c3c9fe84b853849d49df9b1b"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editormoduleattribute.md",
+      "sha256": "0613ad955bfae12487d5083740babba6371c44b8370f09f9f2ace8649457bf32"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorpanel.md",
+      "sha256": "90c6bc459100587627cf829437e98e33a91d5c69b664b804712a63a395f071b5"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorpanelattribute.md",
+      "sha256": "aa01a2241d2287ab5215b9caf8ffd65e24fe99baad2c045f3f1aa905ecc9d483"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorreloadcoordinator.md",
+      "sha256": "6f4be588ec44abbd83c8e2c009f59a8bb9288ed3c89389169e0d9620ddedf459"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorruntime.md",
+      "sha256": "63cfbb6c37ba41eebf0fba80a84953f3231e80d9197a76ac46455e44f2ef6cf9"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorstate.md",
+      "sha256": "445006fb087df8e7557b90b543b1f1f8d078a4bb7bb2d6eff3df2b2ef533b333"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorstatistic.md",
+      "sha256": "77c8aeb4637081ec7674019f8c9b9f55d67a9f7e9907c2e5c5ecbd0a29f74653"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorstatisticgroupid.md",
+      "sha256": "c6a2a11ba40dc33502c7f735aea24244e29eda4e7b8a5a5cfac164b409f6d4a7"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorstatisticid.md",
+      "sha256": "98da22fe092fdf45168aebe598187a3598d0bfb362265d4f3d7dc826e43300f3"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editorstatistics.md",
+      "sha256": "b4424b2d4de4875c27b11fcaf661bb153e9b09f423d0c26ebd4b09eaadb0cf3c"
+    },
+    {
+      "path": "content/en/api/types/editor-core/editortypespecificity.md",
+      "sha256": "0362a2954c13e4daa7688c875a839b8dce279f2621ddfc401a4e8816f07e7340"
+    },
+    {
+      "path": "content/en/api/types/editor-core/ieditorpanelreloadstate.md",
+      "sha256": "1779d25f86abb9fd803a1e9b4aed339fa9b4a04c4ed7ce0dd3678c5ca798c715"
+    },
+    {
+      "path": "content/en/api/types/editor-core/ieditorreloadguard.md",
+      "sha256": "e69e2af9d4002346101b8a0826a52270e2de7afb2139b1c547b5a660abbb519d"
+    },
+    {
+      "path": "content/en/api/types/editor-core/ieditorreloadparticipant.md",
+      "sha256": "795f2e3b6aef58bef67f73163755a1c71ce79fe854a49823a2be52c2637879da"
+    },
+    {
+      "path": "content/en/api/types/editor-core/index.md",
+      "sha256": "1cbf2efe91ad44b24bf58b52891ef858750ae129b16ea3d139469a0ee91c216c"
+    }
+  ]
+}

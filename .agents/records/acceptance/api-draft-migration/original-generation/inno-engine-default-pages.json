@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Engine.Default",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-engine-default",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-engine-default",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-engine-default/defaultengine.md",
+      "sha256": "ab15c7b9ec3609d8f16dd55cd0c0e7e42b52fb78bee8a1a52ad494f5776e9a19"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-engine-default/enginesessioncomposition.md",
+      "sha256": "857ca1c5135a9e26ae5fbad181afab5e2a84ecfa296233e95ee38ae3378aade6"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-engine-default/index.md",
+      "sha256": "214190f3bc73df733d3aa03ec6f776bf34697b3b950811fe0267ddf8ac8c8a8b"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "sourceApiStatus": "Unverified",
+  "reviews": [
+    {
+      "source": "docs/modules/core/Inno.Core.Collections.md",
+      "sourceSha256": "8e8bebe21437a7048454c6d30b6599c564b235b35760c7a68d9cd675fabe48e9",
+      "project": "Inno.Core.Collections",
+      "destinations": [
+        "content/en/manual/data/order-dependencies.md",
+        "content/en/manual/data/query-objects.md",
+        "content/en/api/projects/inno-core-collections.md",
+        "content/en/api/types/core-collections/index.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 70,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Collections/api.md",
+      "sourceSha256": "5a3c5d8c3bf23ab4a0a37f361f47888a9c66782ec78ced0c060248b0a59bff19",
+      "project": "Inno.Core.Collections",
+      "destinations": [
+        "content/en/manual/data/order-dependencies.md",
+        "content/en/manual/data/query-objects.md",
+        "content/en/api/projects/inno-core-collections.md",
+        "content/en/api/types/core-collections/index.md"
+      ],
+      "baselineSymbols": 70,
+      "currentSymbols": 70,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Graphs.md",
+      "sourceSha256": "d85506c6bc56b2f8ba3da41d4ee3359e8677532f2229e6dced4b303cc93c426a",
+      "project": "Inno.Core.Graphs",
+      "destinations": [
+        "content/en/manual/data/preserve-graph.md",
+        "content/en/api/projects/inno-core-graphs.md",
+        "content/en/api/types/core-graphs/index.md"
+      ],
+      "baselineSymbols": 122,
+      "currentSymbols": 122,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Graphs/api.md",
+      "sourceSha256": "5b82f15e9dfbbbe74bb0cd24e5a0030bd4a362230afac2571252888776c02d99",
+      "project": "Inno.Core.Graphs",
+      "destinations": [
+        "content/en/manual/data/preserve-graph.md",
+        "content/en/api/projects/inno-core-graphs.md",
+        "content/en/api/types/core-graphs/index.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 122,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Input.md",
+      "sourceSha256": "2b7ee92530c07714186b8271becad59c03988a3d961cf00e47243828322bb7b9",
+      "project": "Inno.Core.Input",
+      "destinations": [
+        "content/en/manual/input/read-input.md",
+        "content/en/api/projects/inno-core-input.md",
+        "content/en/api/types/core-input/index.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 120,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Input/api.md",
+      "sourceSha256": "c1fdc966209b06b7ba13a27689cc3274d0084cc5ede6036e8d8637b4c5f64da1",
+      "project": "Inno.Core.Input",
+      "destinations": [
+        "content/en/manual/input/read-input.md",
+        "content/en/api/projects/inno-core-input.md",
+        "content/en/api/types/core-input/index.md"
+      ],
+      "baselineSymbols": 120,
+      "currentSymbols": 120,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Layers.md",
+      "sourceSha256": "975f7b4b31ec1ea347f6228b84431973da4fab21cb133087f9daa21f728f14f9",
+      "project": "Inno.Core.Layers",
+      "destinations": [
+        "content/en/extending/lifecycle-layers.md",
+        "content/en/api/projects/inno-core-layers.md",
+        "content/en/api/types/core-layers/index.md"
+      ],
+      "baselineSymbols": 28,
+      "currentSymbols": 28,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Mathematics.md",
+      "sourceSha256": "23a69122c90ad809287ae1e919e27aef29085c0d8d92a3edb1bf533c45076503",
+      "project": "Inno.Core.Mathematics",
+      "destinations": [
+        "content/en/manual/math/transform-values.md",
+        "content/en/api/projects/inno-core-mathematics.md",
+        "content/en/api/types/core-mathematics/index.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 394,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    },
+    {
+      "source": "docs/modules/core/Inno.Core.Mathematics/api.md",
+      "sourceSha256": "fba847699eb137f7fe72841709d96652780b48a416add9a7bc6c664f437268e1",
+      "project": "Inno.Core.Mathematics",
+      "destinations": [
+        "content/en/manual/math/transform-values.md",
+        "content/en/api/projects/inno-core-mathematics.md",
+        "content/en/api/types/core-mathematics/index.md"
+      ],
+      "baselineSymbols": 394,
+      "currentSymbols": 394,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedLocalExamplesPassed"
+    }
+  ],
+  "semanticCorrections": [
+    "Collectible object indexes do not own indexed lifetimes; Clear invalidates the key vocabulary and does not provide a reset epoch.",
+    "GraphDocumentCodec already supports current structured encoding; decode and semantic validation remain separate.",
+    "MouseCursor is host-only while selected input values have Runtime script declarations.",
+    "Matrix position transforms do not perform perspective division; normal transforms do not supply inverse-transpose normalization.",
+    "Vector3, Vector4 and Vector4Int Lerp clamp their interpolation amount; Vector2 and scalar Lerp allow extrapolation.",
+    "Color.ToUInt32ARGB currently returns numeric 0xAABBGGRR; packing is separate from color-space and alpha conversion."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "project": "Inno.Core.Logging",
+  "outputDirectory": "content/en/api/types/core-logging",
+  "sourceRevision": "c7c2e650d4607be0611e3419a95d9e13a76a2554",
+  "sourceTree": "40698b7b1d5a58ba6b4936d34ee3697d00e846d2",
+  "facts": "reference/api/core-observability.json",
+  "factsIdentity": "627a4df5a5a08375ec59900f8029f5f3ef4f7eacae95e41d0d85c4c1de7960df",
+  "sharedContract": "project.inno-core-logging#delivery-and-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-logging/consolelogsink.md",
+      "sha256": "6a1231145e6839d3b55dbe68a36f28039cb0e39051ff376308feb20513c04a3c"
+    },
+    {
+      "path": "content/en/api/types/core-logging/diagnosticlogsink.md",
+      "sha256": "608a2aa0b58b0fa16f4f2817d75996ba48d962a850d059980c9a569282f4f649"
+    },
+    {
+      "path": "content/en/api/types/core-logging/filelogsink.md",
+      "sha256": "8b7fc95cba4d4f023908f71df6f2b7efa671624685fd803e60049c97c4ad90cb"
+    },
+    {
+      "path": "content/en/api/types/core-logging/ilogsink.md",
+      "sha256": "271e36476edeedd278e000eeb138a5573538cf1c188685d0cfb0957aa6294f57"
+    },
+    {
+      "path": "content/en/api/types/core-logging/log.md",
+      "sha256": "2e987f26b097c6bd45429635d6a9ab9bac26e19273b08f75a661e2399f627f35"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logdeliverymode.md",
+      "sha256": "cdd68b3998d8931ad001f3f460c1006e7d679733670093c5397b3577e883fb26"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logentry.md",
+      "sha256": "23816b222f68eea9a76a8d775287db5e29f40293139a6e3ed19d54fc61d8141e"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logger.md",
+      "sha256": "d6f423441e6c33105e9230073d276b2a240861a9d5dc8842fc96bc84a26bfc73"
+    },
+    {
+      "path": "content/en/api/types/core-logging/loglevel.md",
+      "sha256": "371985a4029c676f7cabe30d64d41aca0113da4bf404f99dc9ea3cad0cbd77bc"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logrouter.md",
+      "sha256": "f35fc1e053ca25876d8dff747a529509ae08d804816a6e74a650d6c961fb5f0d"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logsessioncontext.md",
+      "sha256": "9acf497c0939d66521faf0364df4417da1bcde1abedcc95953634b9333bd3494"
+    },
+    {
+      "path": "content/en/api/types/core-logging/logsessionid.md",
+      "sha256": "849ae7010e8f768d5136b92404f27ca95be77bf0c2f1b21540c56699361f24d0"
+    },
+    {
+      "path": "content/en/api/types/core-logging/index.md",
+      "sha256": "29f996d964c7be71eadd0dd9ffcf9f9af5fd4f51c64e5b0553bd8212b82246e4"
+    }
+  ]
+}

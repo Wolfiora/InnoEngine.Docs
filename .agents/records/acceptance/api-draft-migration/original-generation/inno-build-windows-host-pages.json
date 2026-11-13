@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Build.Windows.Host",
+  "outputDirectory": "content/en/api/types/platform-services/inno-build-windows-host",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-build-windows-host",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windows-host/windowsbuildhostprovider.md",
+      "sha256": "3f8ba1deb93fe46003a783fd797f99b558d481a43e22bc3029c027d4522f5d77"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windows-host/windowstoolchainworkspaceprovider.md",
+      "sha256": "aba664cba7b3b54b34fe57aa8aa559667ea87fcdcaf280e43d66d10ee957c5fb"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windows-host/index.md",
+      "sha256": "754238a6ab50293b305c0fe4dfdf075b5ff570c97e3953730800a059839c9310"
+    }
+  ]
+}

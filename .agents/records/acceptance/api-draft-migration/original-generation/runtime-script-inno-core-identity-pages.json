@@ -1,0 +1,36 @@
+{
+  "project": "Inno.Core.Identity",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-identity",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "api.projects.inno-core-identity#lifecycle-and-failure-contracts",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-identity/innoengine.core.identity.md",
+      "sha256": "2b5337e8d7dbe1bae28da5e79185e16a62c296549b97e6a357db1bf6a5f80a64"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-identity/innoengine.core.identitydomainid.md",
+      "sha256": "10fc28843febc627cb709957e7661eb6295110a80212704b2747e490579d0466"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-identity/innoengine.core.identityobject.md",
+      "sha256": "3e6817fd3f92f9d20835da538a65ba9d226d2ac39eaa60cd0eb5a1bd9e9d03c2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-identity/innoengine.core.runtimeidentity.md",
+      "sha256": "d1f0fd4c2aa927554c36939c01b7a416024eedbd2b264e9c7ad8590d90880e9e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-identity/index.md",
+      "sha256": "3a075dfdb74f16400b8ad646004853a3b85b3ddffa2eb362f4cfa2bba6cc3d2b"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

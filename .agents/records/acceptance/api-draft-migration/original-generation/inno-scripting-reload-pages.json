@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Scripting.Reload",
+  "outputDirectory": "content/en/api/types/scripting/inno-scripting-reload",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/scripting.json",
+  "factsIdentity": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025",
+  "sharedContract": "project.inno-scripting-reload",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-reload/iscriptreloadcoordinator.md",
+      "sha256": "832f5cf36a2e686e6abbd7d8a4a0e4cc60204ec1b790c3d741a61e9ecfd7532b"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-reload/scriptreloadhost.md",
+      "sha256": "e5972785f261111b8b95590a6537254b2583bf1a0a78b317eb7249d762d2227b"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-reload/scriptreloadoptions.md",
+      "sha256": "a9c9eea072903468aad4b438f7b841bea46329d540a43daa7f078a7af1131a0d"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-reload/scriptreloadprogress.md",
+      "sha256": "11e8d24edc325af52efb51c0f7af704da93cf00942f88dd0c901eafa2c07da56"
+    },
+    {
+      "path": "content/en/api/types/scripting/inno-scripting-reload/index.md",
+      "sha256": "e58a361b9faa736d60e5c0c1e0d6754c43882cf3c8655bc613ae1a9da8aae81e"
+    }
+  ]
+}

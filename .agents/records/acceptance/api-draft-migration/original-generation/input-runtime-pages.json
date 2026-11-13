@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Input.Runtime",
+  "outputDirectory": "content/en/api/types/input-runtime",
+  "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
+  "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
+  "facts": "reference/api/input.json",
+  "factsIdentity": "e4fe9af430307866f93557b1e0ebbdc5352d9f821b56da4e316476195af38ffd",
+  "sharedContract": "project.inno-input-runtime#frame-and-lifetime-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/input-runtime/inputruntime.md",
+      "sha256": "f6db48f4b1ab29ddb13f785059e603612181422e42eb9d26e30acf7298695f97"
+    },
+    {
+      "path": "content/en/api/types/input-runtime/inputruntimefactory.md",
+      "sha256": "1ba8f1380549cc843e42e1fb489b19ebf29b06dbb2172990b8cb7aca7dc2eb2a"
+    },
+    {
+      "path": "content/en/api/types/input-runtime/index.md",
+      "sha256": "76819a2284d2fb8353cd5951fe2f1a9271d4b67fc58d510aa4c8fd1171f97e54"
+    }
+  ]
+}

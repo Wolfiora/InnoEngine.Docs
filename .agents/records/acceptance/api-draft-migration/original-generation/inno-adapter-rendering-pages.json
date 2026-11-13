@@ -1,0 +1,37 @@
+{
+  "project": "Inno.Adapter.Rendering",
+  "outputDirectory": "content/en/api/types/rendering/inno-adapter-rendering",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/rendering.json",
+  "factsIdentity": "a3238317ec92d67e3d56e6804306f0b5ea6a997010675aa50ec74c0295ace870",
+  "sharedContract": "project.inno-adapter-rendering",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/irenderingbackendfactory.md",
+      "sha256": "7ab048e62216590b5bdb29d90bf4230ebb0e61f1be02627a105ead70ee2e72df"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/renderingbackendcatalog.md",
+      "sha256": "68a5c44bc8f402baaf7280d8d1a6fb0c847e0848aa38d8499713a620ed0384f1"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/renderingbackendid.md",
+      "sha256": "473279a227f182d1e77271a1c3b3b4a80bcd2abbc5311d5d3f55f6693d741db9"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/renderingbackendoptions.md",
+      "sha256": "51583d8e3b24d6b0ba85cecf2f0e5b32fe17de0e1d097a258138e3950e9a0bb6"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/renderingbackendprovider.md",
+      "sha256": "412ad86dd0f7ed3ba00f67d32d2668d0cfb4ee7007332fe16f6115f1eed46a17"
+    },
+    {
+      "path": "content/en/api/types/rendering/inno-adapter-rendering/index.md",
+      "sha256": "d9847166a9ccc0754ada912bc5ab5090408967dda7659a867ca174fd705985e3"
+    }
+  ]
+}

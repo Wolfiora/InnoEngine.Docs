@@ -1,0 +1,29 @@
+{
+  "project": "Inno.Tooling.Architecture",
+  "outputDirectory": "content/en/api/types/tooling-architecture",
+  "sourceRevision": "e57c3c5015867f41be493c8d3df918677783bf3d",
+  "sourceTree": "c0224ee6a3ab3b1e1822da757991d5bac425b736",
+  "facts": "reference/api/tooling-architecture.json",
+  "factsIdentity": "b8eca93940c17cffc5f8ec6f86d64e2c91afec7ad72f5cbaa57a8771c5f94881",
+  "sharedContract": "project.inno-tooling-architecture#choose-the-evidence-you-need",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/tooling-architecture/architecturevalidator.md",
+      "sha256": "eae907d7dfdebbb4f3699a1d98e0a9adcfd91d5ce7267dfd1938586ad3e3040b"
+    },
+    {
+      "path": "content/en/api/types/tooling-architecture/documentationexamples.md",
+      "sha256": "f04b86da57ace9dd8e5e20e70237c05830db5cf3986a923752de5ab377c11beb"
+    },
+    {
+      "path": "content/en/api/types/tooling-architecture/documentationreferences.md",
+      "sha256": "567cff0d5bae98231d8d29e2802347eb753800b082f62f40aef770a8c565a9b3"
+    },
+    {
+      "path": "content/en/api/types/tooling-architecture/index.md",
+      "sha256": "a29d296616484a02a9f0975561ee4c4680da8e16f24642d7fc6cdaa9e60af416"
+    }
+  ]
+}

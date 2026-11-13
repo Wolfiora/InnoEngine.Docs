@@ -1,0 +1,102 @@
+{
+  "project": "Inno.Core.Events",
+  "outputDirectory": "content/en/api/types/core-events",
+  "sourceRevision": "c7c2e650d4607be0611e3419a95d9e13a76a2554",
+  "sourceTree": "40698b7b1d5a58ba6b4936d34ee3697d00e846d2",
+  "facts": "reference/api/core-observability.json",
+  "factsIdentity": "627a4df5a5a08375ec59900f8029f5f3ef4f7eacae95e41d0d85c4c1de7960df",
+  "sharedContract": "project.inno-core-events#dispatch-and-lifetime-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-events/applicationevent.md",
+      "sha256": "ed7e06a3dca99582e10cdaf60daf90f60d7f2276d8e575af8eeec13d45e77333"
+    },
+    {
+      "path": "content/en/api/types/core-events/applicationquitevent.md",
+      "sha256": "12bc2b5e87fdc60638793d83258a6fd73314a7b51bfa0bf28536c3ac571c3e21"
+    },
+    {
+      "path": "content/en/api/types/core-events/applicationsuspensionchangedevent.md",
+      "sha256": "fed7b39838f336965e0670619a4bda9e5fd878397378e9a47a6d4827e0aaf009"
+    },
+    {
+      "path": "content/en/api/types/core-events/event.md",
+      "sha256": "26207d1a7d7e540219b4d86f80afd4fc88cc919e5043f121a6897cc8ac9304c7"
+    },
+    {
+      "path": "content/en/api/types/core-events/eventdispatcher.md",
+      "sha256": "28d16dc7cc34ba33a86e88307e69efccfb373e54163848bb6f9516eea4eb77ca"
+    },
+    {
+      "path": "content/en/api/types/core-events/eventhub.md",
+      "sha256": "183b0337a26f45b605fc4058db7ec09e7c9cb6a7d8935a19f55ab4db37881acc"
+    },
+    {
+      "path": "content/en/api/types/core-events/keyevent.md",
+      "sha256": "58951e29d5ffdc800ec69c039490f953fc1c1cab0d3546be131adcee0afc8d6e"
+    },
+    {
+      "path": "content/en/api/types/core-events/keypressedevent.md",
+      "sha256": "a737f69f62a0bd6856cdbb6d239c9ccaeed76b2b3be14899d6c703d6b4928f53"
+    },
+    {
+      "path": "content/en/api/types/core-events/keyreleasedevent.md",
+      "sha256": "d1c612f1471db083ecd2602b96da3cdf6e76a8bdfef017adc83e4456a48d5aab"
+    },
+    {
+      "path": "content/en/api/types/core-events/mousebuttonevent.md",
+      "sha256": "fb2a621af14d579646f7e748fb09a01da3ddb47053325eb9284c5775b2c0ca15"
+    },
+    {
+      "path": "content/en/api/types/core-events/mousebuttonpressedevent.md",
+      "sha256": "fca71cf276f542b476f43afb4e470e3ad807b4980e9ef26425ea3effa158e77a"
+    },
+    {
+      "path": "content/en/api/types/core-events/mousebuttonreleasedevent.md",
+      "sha256": "f80309a609e7a5c0662e9962e115c7da3b13eb205e7c32a90353051dfb612e0a"
+    },
+    {
+      "path": "content/en/api/types/core-events/mouseevent.md",
+      "sha256": "1bd2a8f6acfe65c4794c7bb79266ed0c8e66789ae36f92721760840ba6c090cc"
+    },
+    {
+      "path": "content/en/api/types/core-events/mousemovedevent.md",
+      "sha256": "1a6280912ca2de588a2a01ec425d3bf19eaf606748f67ffc974b584bdd14a16c"
+    },
+    {
+      "path": "content/en/api/types/core-events/mousescrolledevent.md",
+      "sha256": "abc51dd66588f6713f5c6174da950c9f3089ae8b8863d3b58812977d284c79e5"
+    },
+    {
+      "path": "content/en/api/types/core-events/textinputevent.md",
+      "sha256": "14d67c8b3909cf49bdb899619d1ab3126b6989822d0d593469548036882d5566"
+    },
+    {
+      "path": "content/en/api/types/core-events/windowcloseevent.md",
+      "sha256": "8cf94d9507179917767f0b563730c39494cc6a0d037e9ae687629793a5f39119"
+    },
+    {
+      "path": "content/en/api/types/core-events/windowevent.md",
+      "sha256": "13a8336455db840979bd4678ba20f2a73a4091a59d99a65f528aa3d91f9521df"
+    },
+    {
+      "path": "content/en/api/types/core-events/windowfocuschangedevent.md",
+      "sha256": "d4a19de5193750251e9fadc0118968bc5df966bbf78f604d371181dd3c53a098"
+    },
+    {
+      "path": "content/en/api/types/core-events/windowresizeevent.md",
+      "sha256": "77bc8219731f09618519c9d1aca675186df2abf1abebdb43c988169687a0b8d6"
+    },
+    {
+      "path": "content/en/api/types/core-events/windowvisibilitychangedevent.md",
+      "sha256": "058971d07a802e3841789b83d44f8b85e85b4354000b2193ae1cd64f2abadf90"
+    },
+    {
+      "path": "content/en/api/types/core-events/index.md",
+      "sha256": "1e6e7f4d3179ae702bf5541e2e4d59439c79a72dd05765faad1c9fed10c8b65e"
+    }
+  ]
+}

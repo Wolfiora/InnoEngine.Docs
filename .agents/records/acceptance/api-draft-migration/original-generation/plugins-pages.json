@@ -1,0 +1,22 @@
+{
+  "project": "Inno.Plugins",
+  "outputDirectory": "content/en/api/types/plugins",
+  "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
+  "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2",
+  "facts": "reference/api/references-plugins.json",
+  "factsIdentity": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
+  "sharedContract": "project.inno-plugins#manifest-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/plugins/pluginmanifest.md",
+      "sha256": "4bf49166cff5a9c6850bf7330a1123e22dba3ab0845e800fa23ea0b8ca9e77a0"
+    },
+    {
+      "path": "content/en/api/types/plugins/index.md",
+      "sha256": "0fe55ca64771e10658437acd8a46b9234b69a591ae8ddaf443a82694251bf7ae"
+    }
+  ]
+}

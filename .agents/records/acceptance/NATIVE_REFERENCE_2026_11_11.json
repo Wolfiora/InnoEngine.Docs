@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-11",
+  "status": "LocalPartialAcceptance",
+  "engineRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
+  "toolingRevision": "562514f7ce2d1a69ba9838c758388690def1b7b5",
+  "contentIdentity": "733e0c7258b2b10a4ce222c4ee87c1b6423b4a38fa7978f1b2731fd021b275f1",
+  "pages": 3357,
+  "projectEntries": 5,
+  "actualProjects": 251,
+  "api": {
+    "extractedSymbols": 6412,
+    "authoredSymbols": 6412,
+    "scope": "Bound declarations only; source execution, script projections and semantic prose review remain separate."
+  },
+  "sourceApiStatus": "Unverified",
+  "referenceMigration": "17 original SDL3/LibraryLoading pages mapped; all 6370 original declaration identities and signatures preserved by ordinal comparison",
+  "tests": {
+    "referenceWriter": 8,
+    "projectionAndLinks": 14,
+    "typeCheck": "Zero errors, warnings and hints",
+    "renderedAnchors": "Passed across all 3357 pages",
+    "productionBuildSeconds": 49.11,
+    "nativePreparation": "Not invoked",
+    "visual": "PeepEvents member: light default and 390px mobile, dark 390px mobile; content client/scroll widths both 375px. Full visual/accessibility matrix remains pending."
+  },
+  "query": {
+    "samples": {
+      "observedAt": "2026-11-10T21:30:26.0583669Z",
+      "toolingRevision": "562514f7ce2d1a69ba9838c758388690def1b7b5",
+      "contentIdentity": "733e0c7258b2b10a4ce222c4ee87c1b6423b4a38fa7978f1b2731fd021b275f1",
+      "pages": 3357,
+      "apiSymbols": 6412,
+      "workload": "Prepared snapshot search: Console presentation; five results; fresh CLI process per observation",
+      "sdk": "10.0.402",
+      "medianWarmMs": 667.1395,
+      "limitations": "First process observation is not a cold filesystem/build. API remains Unverified. No controlled pre-migration comparison.",
+      "samples": [
+        {
+          "sample": 0,
+          "elapsedMs": 706.828,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        },
+        {
+          "sample": 1,
+          "elapsedMs": 681.399,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        },
+        {
+          "sample": 2,
+          "elapsedMs": 673.3905,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        },
+        {
+          "sample": 3,
+          "elapsedMs": 664.4583,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        },
+        {
+          "sample": 4,
+          "elapsedMs": 667.1395,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        },
+        {
+          "sample": 5,
+          "elapsedMs": 660.6095,
+          "outputBytes": 4611,
+          "returnedSections": 5,
+          "firstPage": "content/en/extending/customize-console.md",
+          "status": "Found",
+          "snapshot": "c8ee7bc86d6ae7c4ad002695c282466632c858058bb3b5b4ecfd6ef991377b16"
+        }
+      ]
+    },
+    "memberPage": "content/en/api/types/sdl3/member-method--peepevents-6ee3705dd811548a.md",
+    "memberTextCharacters": 2540,
+    "memberStatus": "Partial",
+    "requiredContinuations": [
+      {
+        "pageId": "api.projects.inno-native-sdl3",
+        "section": "shared-abi-contract",
+        "offset": 0,
+        "reason": "Necessary associated contract"
+      },
+      {
+        "pageId": "api.inno.native.sdl3.b5aea0f7b9cada5e",
+        "section": "type-declaration",
+        "offset": 0,
+        "reason": "Necessary associated contract"
+      }
+    ]
+  },
+  "failuresAndCorrections": [
+    "Imported SDL Wiki relative links rejected by canonical preparation; explicit reviewed upstream targets preserve their authority.",
+    "Case-sensitive SDL identifiers could not be read as a PowerShell custom object; canonical maps now use case-sensitive dictionary handling.",
+    "Default Astro slugging removed nested-type periods; loader, link adapter and checker now share explicit content-path routing.",
+    "First explicit loader route retained directory index suffixes; corrected to the framework directory route convention while preserving root index identity."
+  ],
+  "remaining": [
+    "Complete original content migration and semantic review",
+    "246 project entries",
+    "Other source/script/platform surfaces and examples",
+    "Source API certification integration",
+    "Full visual and accessibility matrix",
+    "GitHub App provisioning",
+    "Paired PR and hosted Windows/macOS validation",
+    "Pages publication and draft-release evidence",
+    "Legacy caller and documentation removal"
+  ]
+}

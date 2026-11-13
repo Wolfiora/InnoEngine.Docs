@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Build.Toolchains.Bgfx",
+  "outputDirectory": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/bgfx-engine.json",
+  "factsIdentity": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
+  "sharedContract": "project.inno-build-toolchains-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx/bgfxbuildinvocation.md",
+      "sha256": "b2aa88cb0714930f0a04a27e724870310820de51db50f49c15af72f0427fe175"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx/bgfxnativebuild.md",
+      "sha256": "6546a39743cd69cdc3c2cff3f03ec2ebbf6b1dfa539a8923a3782de2f2515662"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx/bgfxnativebuildprofile.md",
+      "sha256": "9d6e5d74c5c5f25f2233c5f53ab864b8f45dddbef2f00f3d1a9784bb92f6f18c"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx/bgfxtoolsbuild.md",
+      "sha256": "5304e5da651932e88cc89d77471a7c27fa368d41c3c578067b0295962f01c0a9"
+    },
+    {
+      "path": "content/en/api/types/bgfx-engine/inno-build-toolchains-bgfx/index.md",
+      "sha256": "fe65558f420acf4d60265bf7e4c22a01b7bd83df425afe23f049c619e15b6a82"
+    }
+  ]
+}

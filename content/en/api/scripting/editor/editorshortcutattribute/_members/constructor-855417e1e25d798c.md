@@ -1,0 +1,21 @@
+---
+uid: api.855417e1e25d798c417990b2dd3c4e7e87f46b47c892214eb40d5c6d8fb28af0
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorShortcutAttribute.#ctor(System.String,InnoEngine.Input.KeyCode,InnoEngine.Input.KeyModifier,System.Boolean)"
+source: xml
+reviewed: b36ad91043bc9b7e39efe752a5ce734ebcd8b8d5348dca4555b7c69d19bca4a9
+title: "Constructor"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Creates a shortcut scoped to an exact interaction area.
+
+**Parameter `area`:** The exact focused area that accepts the shortcut, or an empty string for any area.
+
+**Parameter `key`:** The non-modifier key that triggers the action.
+
+**Parameter `modifiers`:** The exact additional modifier keys required by the gesture.
+
+**Parameter `primary`:** Whether the platform primary modifier, Command on macOS or Control elsewhere, is required.

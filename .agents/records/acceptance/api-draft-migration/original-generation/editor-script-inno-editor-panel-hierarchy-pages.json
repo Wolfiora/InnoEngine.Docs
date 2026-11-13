@@ -1,0 +1,28 @@
+{
+  "project": "Inno.Editor.Panel.Hierarchy",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-panel-hierarchy",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-panel-hierarchy",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-hierarchy/innoeditor.hierarchy.hierarchyobjectdroptarget.md",
+      "sha256": "14b2fda8b736d699ea5cbdeba4b33889cde98b1863a413bb7597c1038103c483"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-hierarchy/innoeditor.hierarchy.hierarchyscenedroptarget.md",
+      "sha256": "38daa29e769bf420b1aeece0e8dcced27027cca0a033fbe7abe998a7f32629f1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-panel-hierarchy/index.md",
+      "sha256": "390f570596978ee12cf51345637f2d42414c3dfbfcd13ea08462504b24053152"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

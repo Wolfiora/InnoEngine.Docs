@@ -1,0 +1,49 @@
+{
+  "project": "Inno.Build.BrowserWasm32",
+  "outputDirectory": "content/en/api/types/platform-services/inno-build-browserwasm32",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-build-browserwasm32",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32buildmodule.md",
+      "sha256": "6592c30ba87d832de7f4ee9255a93da7584356d14bc31bc28cad39626ab346dc"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32gamebuildtarget.md",
+      "sha256": "95826a9bbbf85ad5e3b3b7b604d1b3b52edf45efa508500c7c4a752d6e8511ef"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32linkersettings.md",
+      "sha256": "088eb034c10afb9fbecc48a067a5189c5950a58990ebb86e4f828916e9f58d93"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32nativeproductexecutor.md",
+      "sha256": "e35f8205163ea13d4256de7ef70fea70fda48353f2633e8bf46d1f67d6e6147f"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32playersupportpacksource.md",
+      "sha256": "34d154c7a67204fe89f119bebe3db805dca066bb0d33e1a9d3052083c98bf6da"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/browserwasm32supportpackvalidator.md",
+      "sha256": "e473bbf18ba86ca1e250ced9e45fb95851f1fbe5fd6dc9a57ecbe1668ff5b4db"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/emscriptennativetoolchainprovider.md",
+      "sha256": "4db9f246ba7e094cbb227bf5c5a071b7a08b3e1933a006f58bf5ee47d73121e2"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/emscriptentoolchainresolver.md",
+      "sha256": "9e8bc108b9ab45c56c9b026a32a9187372988ee4fdf08f503c887ddfe48ec6c7"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-browserwasm32/index.md",
+      "sha256": "12e550bb09b6567095ebbb05c5d4ac8285106966c90655bf81ab868c22d14cea"
+    }
+  ]
+}

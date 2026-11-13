@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Build.MacOSArm64",
+  "outputDirectory": "content/en/api/types/platform-services/inno-build-macosarm64",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-build-macosarm64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64buildhostprovider.md",
+      "sha256": "1e82c2588f8191dcc746ee6eb18ab14fd4844d1b43fddb23e620e18f9949e151"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64buildmodule.md",
+      "sha256": "dae5371634127f4a2b7716da7297c585400ca76c42f3428536d4ea5df52459f6"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64gamebuildtarget.md",
+      "sha256": "f37adff4cf63db845d974c5340bb6358fcbd5236406d8d099a378cfb0ee07f09"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64linkersettings.md",
+      "sha256": "340c4616f56921fd77ae2922282fb271ceaabd81a53e13f581cc837494395f9d"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64nativetoolchainprovider.md",
+      "sha256": "5d37800c6f9bc7341ce5b5605f2e35c09867e379e2a52c971d88777f227abfef"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64playersupportpacksource.md",
+      "sha256": "9c2aa49c44663801ecec2d15d762bb0e62fe78469c23176eedd27655cbd32349"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/macosarm64supportpackvalidator.md",
+      "sha256": "4a344ce86cc27d583e3237f49c8f03c799ebc5be948739dab01bb31ef182abd9"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-macosarm64/index.md",
+      "sha256": "662a7f935d5a13d7591049a27e093ab5e766ef226c65405c3d8790dc703c7681"
+    }
+  ]
+}

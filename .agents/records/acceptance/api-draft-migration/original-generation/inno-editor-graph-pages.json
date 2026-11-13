@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Editor.Graph",
+  "outputDirectory": "content/en/api/types/editor-services/inno-editor-graph",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-services.json",
+  "factsIdentity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
+  "sharedContract": "project.inno-editor-graph",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-graph/graphcanvasstate.md",
+      "sha256": "a136e379128582429368b0828e5d4b26578ae9583da772befd7a89522ebbbc3c"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-graph/graphclipboarddata.md",
+      "sha256": "5976903b5922effd8bea206f7bbe2686625fc716a118a13ac6c032a811aecd8c"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-graph/graphdocumentcontroller.md",
+      "sha256": "7425c78d6e1e37d133f6d00404b5d23b3a85c7e73d7eef4f2363c9353d9539df"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-graph/grapheditormodule.md",
+      "sha256": "136adab93cf8940ba92e6df84939a008e5aeca8dbfd6590ecca05b994d81f3ab"
+    },
+    {
+      "path": "content/en/api/types/editor-services/inno-editor-graph/index.md",
+      "sha256": "eddd42257d33a1ab368beb1c375330cfe267bd2f2edc468540600c98099a898a"
+    }
+  ]
+}

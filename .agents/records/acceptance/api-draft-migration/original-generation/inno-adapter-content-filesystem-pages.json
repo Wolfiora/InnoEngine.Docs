@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Adapter.Content.FileSystem",
+  "outputDirectory": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/backend-adapters.json",
+  "factsIdentity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
+  "sharedContract": "project.inno-adapter-content-filesystem",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem/filecontentcacheoptions.md",
+      "sha256": "d6c7587a70cc54d9edbe00756408a51a579636b2acf594201fe27f7ee79eb763"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem/filecontentdeployment.md",
+      "sha256": "c17b6b9c26eb528998c394ec72b9dd56f28c16655900c6f013030261e2f2f514"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem/filecontentpreparation.md",
+      "sha256": "296d277a3d3627d795e882d3b38844aaad7ace097aaa7426fbb0a2c547e06d98"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem/filecontentstore.md",
+      "sha256": "55b9395002e8c9aac0b49c8c55da39c4820f6a9295ab5e43774c6daa8ba10e70"
+    },
+    {
+      "path": "content/en/api/types/backend-adapters/inno-adapter-content-filesystem/index.md",
+      "sha256": "9cda414b0c2b509abcebcb4032ddf10f9d040b4ceecc055c0f25457935cfb37b"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "upstream": "https://github.com/libsdl-org/SDL",
+  "revision": "5f78ded3194a85ebdabc219f844811ba953b4450",
+  "source": "extern/SDL/LICENSE.txt",
+  "license": "public/third-party/sdl/LICENSE.txt",
+  "sha256": "f4c406cd23df8e2ea3e8bb1af62f15cb6b2439e4e5385828cf90301baea4d944",
+  "notes": "Original SDL license bytes are preserved. Reference declarations are generated from InnoEngine bindings; this site is not the upstream SDL documentation."
+}

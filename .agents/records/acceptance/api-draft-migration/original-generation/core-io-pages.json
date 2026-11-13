@@ -1,0 +1,78 @@
+{
+  "project": "Inno.Core.IO",
+  "outputDirectory": "content/en/api/types/core-io",
+  "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
+  "sourceTree": "6fa80c57dd5bf5267ad7d60945b0e9c09f9cde24",
+  "facts": "reference/api/core-io.json",
+  "factsIdentity": "5344d2c5493147e909f67c1b29760308640e834aa8883f68fb37fdbc00e8d72b",
+  "sharedContract": "project.inno-core-io#publication-and-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-io/atomicdirectory.md",
+      "sha256": "ae721d5dedeb2ef23d506420ff67a81c6074354ff4aeb765aac948d99d1e4a2d"
+    },
+    {
+      "path": "content/en/api/types/core-io/atomicfile.md",
+      "sha256": "6a27db1f14738cdc885c2b8c99442568704ff8be7f09df782792c4693e5f4ba7"
+    },
+    {
+      "path": "content/en/api/types/core-io/coordinatedfilelease.md",
+      "sha256": "2fca2b41e424cb24605d6ff2d294bf894265991f77c3ccd96ac947981124c820"
+    },
+    {
+      "path": "content/en/api/types/core-io/directorycleanupexception.md",
+      "sha256": "318b4a5a14a6c8ef1e58d7338af60ce51f87162f7ccfd1d2d7aff4344b0d128a"
+    },
+    {
+      "path": "content/en/api/types/core-io/filebytedocumentstore.md",
+      "sha256": "2736fa329d9edc56aeb057c19861476c06228526e7ccb4f2d3706d4d4cf46509"
+    },
+    {
+      "path": "content/en/api/types/core-io/filelease.md",
+      "sha256": "34cdf7d62a55ba0e1787528347298ea9962c3b425e0e87e6a09476fb5ce0ecfc"
+    },
+    {
+      "path": "content/en/api/types/core-io/ibytedocumentstore.md",
+      "sha256": "e1092337fb2e471cb984128b5d73df0fdfa050a50bcf1e1e95261c5d14abf2e7"
+    },
+    {
+      "path": "content/en/api/types/core-io/ownedreadstream.md",
+      "sha256": "3824da7e0e4d1156862d661eb08dade5ee36a483bcbe484edd603df924e8a679"
+    },
+    {
+      "path": "content/en/api/types/core-io/pathboundary.md",
+      "sha256": "dc6693baeef9fa3c96c16a40a9c507297212b1b8e8172298c49ab127a615e655"
+    },
+    {
+      "path": "content/en/api/types/core-io/physicalpathresolver.md",
+      "sha256": "145a944759b3168cb148579fe230c32e846e0acd52d0b6bc77d3dd4dd726861e"
+    },
+    {
+      "path": "content/en/api/types/core-io/processowneddirectory.md",
+      "sha256": "ddde43c84de50f03156652dfcbef01b40c2b72178a5455e67ce6d6e516509b72"
+    },
+    {
+      "path": "content/en/api/types/core-io/processowneddirectorydescriptor.md",
+      "sha256": "b2e9b4b0f13601605036e3de99e98144cec02953b15b22c2da98fafbf27381c1"
+    },
+    {
+      "path": "content/en/api/types/core-io/processownerstamp.md",
+      "sha256": "8b2eccc0c3039c31641beebe40f6f98de1fce34150fccd20b2a45d52b8b5ddc8"
+    },
+    {
+      "path": "content/en/api/types/core-io/processownerstate.md",
+      "sha256": "668a85c324804cc1f2b18141e16c335046ed1275bb62dce65f216bbf8fe6971f"
+    },
+    {
+      "path": "content/en/api/types/core-io/readonlybytedocumentstore.md",
+      "sha256": "a428b14b17d595ab8e3647964e8e2505e0e5b87e60a38d77dd894220003a03b8"
+    },
+    {
+      "path": "content/en/api/types/core-io/index.md",
+      "sha256": "afa43b02be59a3752e3dbfba5c811662236935980d45faf91db18a98f0c59f8c"
+    }
+  ]
+}

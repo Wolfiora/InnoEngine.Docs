@@ -1,0 +1,54 @@
+{
+  "project": "Inno.Core.Collections",
+  "outputDirectory": "content/en/api/types/core-collections",
+  "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
+  "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71",
+  "facts": "reference/api/core-models.json",
+  "factsIdentity": "7addee2064068027a2727dab6e2e4a6b47c03199fd36aa95157d471b00bd9cd6",
+  "sharedContract": "project.inno-core-collections#graph-and-store-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-collections/dependencygraph-1.md",
+      "sha256": "e542559a3fe83efa70d81941e09a4502420e5450162325ed2ff9f7b7a94d926d"
+    },
+    {
+      "path": "content/en/api/types/core-collections/iindexedobjectquerycondition-1.md",
+      "sha256": "f12de0779f85000773dc580524e981be269dcd8ab5425f1ea466149bbc92d23f"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectentry-1.md",
+      "sha256": "0d1386e3cab524ac6898e68a9acac9456a43df1bda4e01c50428292c1357d19d"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectkey-1.md",
+      "sha256": "09a4f26dbb694c6b6ec06e5ddcabe10b7801a7a9d9175429fb31104f3f5df5d4"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectkeycondition-2.md",
+      "sha256": "5b0d8206c47914b8b3ca193a0ef5d20460233769339090af2a2113755fe22533"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectkeyflags.md",
+      "sha256": "2dff9310cd107b9e40a00b2b7442daa90029d9334263f2a971e263ce0e66d2bd"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectpredicatecondition-1.md",
+      "sha256": "a3276d22e078066c17827d9e79e78486576d6a759c706acdfc0f8a5fdb9756ff"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectquery-1.md",
+      "sha256": "473857ee9686532f42c3cd9dc78ca55bff698cb30ee3cba6cee82c6119f0f4f3"
+    },
+    {
+      "path": "content/en/api/types/core-collections/indexedobjectstore-1.md",
+      "sha256": "4901ec0746f2c827f2ca80de8a9af46d71832e73525b892134e7d995c7553a35"
+    },
+    {
+      "path": "content/en/api/types/core-collections/index.md",
+      "sha256": "44132c43d1d19facb1c88961a15594de94f4bf263f93e87f2fc0243e2e98848b"
+    }
+  ]
+}

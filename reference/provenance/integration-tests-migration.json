@@ -1,0 +1,164 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "ec506471b863c3b6e131d13ba78ff3ce9d31e15e",
+  "sourceTree": "56781ec1b25db433f796cff23644570cb18c07d1",
+  "reviews": [
+    {
+      "source": "docs/development/testing/Inno.Build.Tests.md",
+      "sourceSha256": "d8ca7f652fbfda33c66bd532f3aad4666f535103f33e6fc50f217b9d1db27b5d",
+      "destinations": [
+        "content/en/contributing/testing/inno-build-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Build.Toolchains.Tests.md",
+      "sourceSha256": "6784397f4f8ad0dcd8be2ba9eeb85c3bee7839ad5e2a6edbe318159d9904b8ff",
+      "destinations": [
+        "content/en/contributing/testing/inno-build-toolchains-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Build.Bindings.Tests.md",
+      "sourceSha256": "46eea2924f6e02a0d13b6ad6bb23d01e17da5607b229fec52f75be895d91d54b",
+      "destinations": [
+        "content/en/contributing/testing/inno-build-bindings-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Build.NativePerformance.Tests.md",
+      "sourceSha256": "e747a4d8fc5c1222e997944a5419fc047deabed35a24bb7826cd6d5d13836800",
+      "destinations": [
+        "content/en/contributing/testing/inno-build-nativeperformance-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Native.Bgfx.Tests.md",
+      "sourceSha256": "9dbd4185c0ea0d57da080385b74e95cb737bc4ac3f3e92c9d55a8431f6b1f137",
+      "destinations": [
+        "content/en/contributing/testing/inno-native-bgfx-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Native.ImGui.Tests.md",
+      "sourceSha256": "a8038bbebf67635b7ad506de2fd2f2d63204e990940995bc7ed6fc8349eb9046",
+      "destinations": [
+        "content/en/contributing/testing/inno-native-imgui-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Native.ImGuizmo.Tests.md",
+      "sourceSha256": "755d5e6ab1fdfa3c0aa3ecf7c4116a4eeb0d868874ac57a0d5135f0211491d30",
+      "destinations": [
+        "content/en/contributing/testing/inno-native-imguizmo-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Adapter.Rendering.Bgfx.Tests.md",
+      "sourceSha256": "d2eaf9c33c4d232fc800aed698bbff3622dd295492000262f5e684392a64c22c",
+      "destinations": [
+        "content/en/contributing/testing/inno-adapter-rendering-bgfx-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Adapter.Content.FileSystem.Tests.md",
+      "sourceSha256": "077a65f06c0b18b31e44db380239bf6e3171ad32c0ea05279e3a46ec872a4cb3",
+      "destinations": [
+        "content/en/contributing/testing/inno-adapter-content-filesystem-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Adapter.UI.RmlUi.Tests.md",
+      "sourceSha256": "30ee178c1ef5d14be41c72dc721bd7aa9ff3a95942dff75e4338fd619dc1e79a",
+      "destinations": [
+        "content/en/contributing/testing/inno-adapter-ui-rmlui-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Presentation.Tests.md",
+      "sourceSha256": "77d026d6d097527bc8fb646236a367568fdddaea8e663e9804f8c8d4c9026adb",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-presentation-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Performance.Tests.md",
+      "sourceSha256": "b8fd01f69529631f05ee73d65f0a4aa12deb4bae1ce98e128a11ff6dc96c561a",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-performance-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Editor.Scripting.Tests.md",
+      "sourceSha256": "3af8218dd1c1b2352e96f4ce9775590e77ad3b77373cb689aa88575a93f2f8c6",
+      "destinations": [
+        "content/en/contributing/testing/inno-editor-scripting-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Scripting.Compiler.Tests.md",
+      "sourceSha256": "b0757a66b604a0d84610c85d4cd6c7911a182030c798df490ff32f1fa8e8304b",
+      "destinations": [
+        "content/en/contributing/testing/inno-scripting-compiler-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    },
+    {
+      "source": "docs/development/testing/Inno.Rendering.Shaders.Tests.md",
+      "sourceSha256": "fef78225839267e531a2a8c486959b1bff54dc618b3bbe025a83d6363f8bc7bf",
+      "destinations": [
+        "content/en/contributing/testing/inno-rendering-shaders-tests.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "status": "NarrativeAndCurrentOwnerReviewed",
+      "referenceDisposition": "Repeated run/maintenance prose is centralized. Detailed scenario names remain in pinned source; unique environment, ownership, failure and measurement requirements are preserved in the guide."
+    }
+  ],
+  "newOwners": [
+    {
+      "project": "Inno.Build.Cli.Tests",
+      "destination": "content/en/contributing/testing/inno-build-cli-tests.md",
+      "reason": "Managed command boundary tests moved out of product integration after the baseline."
+    }
+  ]
+}

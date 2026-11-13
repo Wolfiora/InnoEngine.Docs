@@ -1,0 +1,41 @@
+{
+  "project": "Inno.Build.TaskHosting",
+  "outputDirectory": "content/en/api/types/build-execution/inno-build-taskhosting",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-execution.json",
+  "factsIdentity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+  "sharedContract": "project.inno-build-taskhosting",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/buildtaskruntimetask.md",
+      "sha256": "acf9fcc1d084fc1494edc90fa2e97999521724f3a683adcb1aa6f73a0ff80781"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/materializebindingstask.md",
+      "sha256": "8fb8b0f3cb851d276e86cc606f932e1ad2d7f0a1332a1b8e638bdb4202121c74"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/publishtaskhosttask.md",
+      "sha256": "796ac771c1381e6904e3ea4535d3108b3dbc48ea40fe446b2a36c8a65ac9ad9b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/registertaskpublishertask.md",
+      "sha256": "c95184f2cd61056306a57c2915d48941c19e89be52786739abb9ee15ae4abee3"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/restoreownedprojecttask.md",
+      "sha256": "1ef0fdf05a454ec6c53ad7a3b2e3bd432c7626da01e14ed5e51907f355667412"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/taskruntimebootstrapowner.md",
+      "sha256": "bc18203d26e3c2f8cabf84d1dbf5eb6353e598339fa722546cf28253e3443bf5"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-taskhosting/index.md",
+      "sha256": "7b99c0dcbd4cfcc49ea7c52bff177a8114c3c7218cef57d75d824e6d04e98a89"
+    }
+  ]
+}

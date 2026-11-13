@@ -1,0 +1,24 @@
+{
+  "project": "Inno.Extensibility.Types",
+  "outputDirectory": "content/en/api/runtime-script/inno-extensibility-types",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-extensibility-types",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-extensibility-types/innoengine.reflection.stabletypeidattribute.md",
+      "sha256": "c0486634e97ebc29ad095056871edea70b06c10b628cfc6a4e59271ac63854d0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-extensibility-types/index.md",
+      "sha256": "0193e1e9735decfca66756de4ad35ef33f674ea282f8bd1d85b205dad7d103c6"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

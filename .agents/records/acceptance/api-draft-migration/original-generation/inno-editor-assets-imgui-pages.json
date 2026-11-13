@@ -1,0 +1,37 @@
+{
+  "project": "Inno.Editor.Assets.ImGui",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-assets-imgui",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-assets-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/assetbrowsermodule.md",
+      "sha256": "3fd49e753e128562037500fab381ed1c4986b53a1294643c8f6124b47f11685a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/assetbrowserroot.md",
+      "sha256": "9d683d49fab0cf2832e8a09034093395beb8904c253080f66bf2cfdac1212711"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/assetbrowserstate.md",
+      "sha256": "ed2ad7b423988d3fde9cbc379eac84802dba2359c1950f980ee71f9bb8422a8e"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/assetbrowserstyle.md",
+      "sha256": "fc747ea8909118c8e08112b692afa0afdfbdb1875c15c83776ea8cd9eb1ec6e8"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/asseticonattribute.md",
+      "sha256": "e92f4021857cff83d144a93204dc3cd25b3b1b8cdbea8e1b5829840ecc35f7aa"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-assets-imgui/index.md",
+      "sha256": "39588cbe39413ca99646535bf357da5363dbb7f4eb0ad2af7a3d38de665b39f0"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "project": "Inno.Editor.Rendering",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-rendering",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-rendering",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmocontext.md",
+      "sha256": "025da47f75d958c9322f140c9600782879da6e21f09b5be85fcd4185cc136b51"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmoframe.md",
+      "sha256": "d9beee504f2e7086758a82fd200cc3350c2fa80f77ad3dd775d19f8bea45da37"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmoicon.md",
+      "sha256": "b50be95ef049736957f2ec64c8d5e1bfa9a985a90bd98d354a06eed9be8b6c8e"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmoline.md",
+      "sha256": "8075115d0fa6af31a5ba7099984fddaf41c7998d4521fe0e6ba75acdde2ddd45"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmoprovider.md",
+      "sha256": "c52374f20a994e5c44997d9fdeae09cf5784476909388cefcbfec20838fa4c13"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorgizmoproviderextensionattribute.md",
+      "sha256": "556cda362ff1352e35087088813120adebfc8bdf6251231650f9ab4be0014c44"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorpreviewhandle.md",
+      "sha256": "054036bccb7f8025873704d74d59470a2e3991ca377f727a0ee8cc80255866ea"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorrenderingmodule.md",
+      "sha256": "88d140f41a74c171eb6cd752e7235a718cd5987d0851d804d51f1fa3b3beb338"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorrendertargetartifactprovider.md",
+      "sha256": "6edaa2b8bfd261c01b7b05d6d57604b43d4eb5242548329a48f38c68ff75dcf1"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorshaderartifactvalidationsnapshot.md",
+      "sha256": "cf17486f327e20eb29c09a627de6842a1e035ffa7af2da37c985a6d7f07971bc"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorshadercompilation.md",
+      "sha256": "2d2c682a1bf9eef1ab2ee794b6f60c21e8b0f59d1fa9401c53e6210dce9ea575"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorshadercompilationsnapshot.md",
+      "sha256": "2331ee49635971bbd1ffe435e4892674cf2db776dbac8b2f20c5ea6b906303e9"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorshadercompilationstate.md",
+      "sha256": "bd4081bae4fb3271ebbcab0520d7780d81755c462ec7cc4d7a10eef72969ca4c"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorshaderdraftcompilationsnapshot.md",
+      "sha256": "16a2f1a428eab9a17e347f060f989f497b02d570c993161ec58da924e3c0e765"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportcomposition.md",
+      "sha256": "959a5d8b602f2b57a1b1f5ef4f28fb3c7d0cc13cab08363f7461debc4f78d65b"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportcontext.md",
+      "sha256": "c2977b795fd1dd4e107236ad148cda379cae33debb7dc71fbc5521e5136b3e52"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportcontribution.md",
+      "sha256": "09d7ea4eee009a791e95ff149be4ef71b1509b2219ae8df22b98d673bddb09fb"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportcontributor.md",
+      "sha256": "cae65c6c0fc9cc4849cedc688c6a144ed746ab4ce1654ad85fa67a7f2e33ec89"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportcontributorextensionattribute.md",
+      "sha256": "10f7212c0f9ab787f625805cd7471dc645fc689befedd4e38a45460a270a7721"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportfocusbounds.md",
+      "sha256": "4977bf56308d2cca0d395957120b8e102de670b6b4902df51f67b8346b4a3ca7"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportkindid.md",
+      "sha256": "c60e08f3c1587da3841950f947e8753ae4c51d29a7281588118fc089715617ef"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportlayer.md",
+      "sha256": "e479629b354a61de5a2146744ed7a8a8436f94124134e7b6b1346b91028e7728"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportmanipulationplane.md",
+      "sha256": "90d33a1007975fe88581c93e9567c2cf2ce6eb775e5bdebbfbc63c7427a09f76"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportmanipulationspace.md",
+      "sha256": "1257c0e719ab8dc52157a43662183a2e53e864adea3241d257d7ea9092b4ecdb"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportnavigationcapabilities.md",
+      "sha256": "e2c47ee694c2425943c5167e05c62b432604a1c424b69f5ced5d8c046d69e18c"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportnavigationmode.md",
+      "sha256": "4eff5b6d32d54576c2afbcfa64502ebb026ee4b63090275e1688473278857242"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportnavigationprofile.md",
+      "sha256": "039ac8225a7ced6e3a52a9e5385f897659db09b37b0d5e482dfa970669cd6284"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportnavigationprofileid.md",
+      "sha256": "99c3d1452faba489c6bd7b130ce498494dd19c66612cb8e361a0e4767f9421e7"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportnavigationstate.md",
+      "sha256": "f093cc3a302e440f1bdd19fde7fab27c489c256ea0e0dd001b6b9a89e16b88b1"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportoutput.md",
+      "sha256": "98d730a6b5937dd8badd17fb801fe432952f998670fb933d590ab386614cb2aa"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportpointercontext.md",
+      "sha256": "cb4a16a2a03a6a8d93e8cee56d35847a5fb88bf31d269d819514fc31450a7686"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportpresentation.md",
+      "sha256": "d82f87ab0ddba79a2bebc29e7dc27d572ac7a045c586ea62f94627b19cad14c0"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/editorviewportprojection.md",
+      "sha256": "a5d8dca255af47ed460af7343cb5dd649ff5e5e31f36fb37c41e2130d2579448"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/ieditorgizmosink.md",
+      "sha256": "3faf7e96d8e669da22552853cb5e49c6f7ed01639feb880e9cfea191eb535b03"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/ieditorpreviewservice.md",
+      "sha256": "066a50bd35d04491035055dbaa9e19e4a613d2d2c7a30819674ee18a6379adf0"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/ieditorrenderinghost.md",
+      "sha256": "bf3c0ae75d0fc9bb16904fcd93f1b62327be17c42d3678b983b70ffc004edc77"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/ieditorshaderartifactvalidator.md",
+      "sha256": "6dcb5faa166ff50606852033239205af8efd9f00e7215940a7ec3f54e97741ba"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/pipelinedocuments.md",
+      "sha256": "345eed3a01702d751c39f6aedf1f7fbff8e2059c5d9328a0d2caa88c72a55538"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-rendering/index.md",
+      "sha256": "c6c9cf75d4040334a12bd26e2595ed0d6a506f64b7a5686250ff01a5afe0cbfd"
+    }
+  ]
+}

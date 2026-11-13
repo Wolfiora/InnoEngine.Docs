@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Editor.Panel.Inspector",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-panel-inspector",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-panel-inspector",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-inspector/assetreferencedroptarget.md",
+      "sha256": "b9bfc486746aa8e54c7b441e5900f5a1b89755a7e021e15d42b9c25d00f4f8b9"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-inspector/engineobjectreferencedroptarget.md",
+      "sha256": "3bdde3055a4fa92378a0f362f264d32665925acfc6ded0a42c3f715fe06592bb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-panel-inspector/index.md",
+      "sha256": "4440c977101edc72303288a532cce38e027aa8f19dde912bc604b99ac66bfbba"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "project": "Inno.Build.WindowsX64",
+  "outputDirectory": "content/en/api/types/platform-services/inno-build-windowsx64",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-build-windowsx64",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64buildmodule.md",
+      "sha256": "2ec3a61dc24fede6070f7b7a5b97286f13ea93c1dc0adad14a59b02be3908ff8"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64gamebuildtarget.md",
+      "sha256": "c45a1eecafb9620de248ca4f1dbbaac4adabf820c8ed40925b9103dff20a434e"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64linkersettings.md",
+      "sha256": "4bbea5c48053a3d3b9463193ee2a1bb0219a12cce835b6c19bc426f5c2624160"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64nativetoolchainprovider.md",
+      "sha256": "ba1b172860f85fdd6a38f4f94df38101dfcfdcd5ac6707e09f519cec37d5ac7e"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64playersupportpacksource.md",
+      "sha256": "5e857b418771f8bb77abfe00ff1e667d727c1f44cd92534d59cf8503e3ab936e"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/windowsx64supportpackvalidator.md",
+      "sha256": "cf1470aaf444ee777cee6a9de5260f63b7bf34a6136f83ca0e9335e79167a253"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-build-windowsx64/index.md",
+      "sha256": "e7cf00821f31ec5cafe3bdadbd646f35cd2665bbd24a0831d8dd035bb7bebc14"
+    }
+  ]
+}

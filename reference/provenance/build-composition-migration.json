@@ -1,0 +1,99 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [],
+  "reviews": [
+    {
+      "source": "docs/development/build/Inno.Build.Composition.md",
+      "sourceSha256": "96b1fe07581fd0a7d76591c010807cf9f0715cdaee70a9166e362b2e5a2ad038",
+      "sourceBlobSha256": "96b1fe07581fd0a7d76591c010807cf9f0715cdaee70a9166e362b2e5a2ad038",
+      "destinations": [
+        "content/en/api/projects/inno-build-composition.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 55,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/build/Inno.Build.Composition/api.md",
+      "sourceSha256": "a3f222ae8548b13f426b343c63c1371508b3b0b8b24584e19b9c2892b6354e86",
+      "sourceBlobSha256": "a3f222ae8548b13f426b343c63c1371508b3b0b8b24584e19b9c2892b6354e86",
+      "destinations": [
+        "content/en/api/projects/inno-build-composition.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 55,
+      "capturedSymbols": 55,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/build/Inno.Build.Managed.md",
+      "sourceSha256": "067f1d7b8e04b855f35e25025541f217987c126f5110c7c8e3748ab9361c0c4e",
+      "sourceBlobSha256": "067f1d7b8e04b855f35e25025541f217987c126f5110c7c8e3748ab9361c0c4e",
+      "destinations": [
+        "content/en/api/projects/inno-build-managed.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 41,
+      "capturedSymbols": 41,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/build/Inno.Build.Products.Standard.md",
+      "sourceSha256": "06691fcfd766c58e74c238e4ab5baf4decbf8a445d73d4b5e9c24baf42cd8e95",
+      "sourceBlobSha256": "06691fcfd766c58e74c238e4ab5baf4decbf8a445d73d4b5e9c24baf42cd8e95",
+      "destinations": [
+        "content/en/api/projects/inno-build-products-standard.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 11,
+      "capturedSymbols": 11,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/build/Inno.Build.SupportPacks.Core.md",
+      "sourceSha256": "2541e4a2e7595ce50292ddfe81d01be22c48d4654c163f5370682e38565eee4b",
+      "sourceBlobSha256": "2541e4a2e7595ce50292ddfe81d01be22c48d4654c163f5370682e38565eee4b",
+      "destinations": [
+        "content/en/api/projects/inno-build-supportpacks-core.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 54,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/build/Inno.Build.SupportPacks.Core/api.md",
+      "sourceSha256": "c1950dc1cc18ed57f71624da2529246c72961aa518416104fa15f989c85e27cf",
+      "sourceBlobSha256": "c1950dc1cc18ed57f71624da2529246c72961aa518416104fa15f989c85e27cf",
+      "destinations": [
+        "content/en/api/projects/inno-build-supportpacks-core.md",
+        "content/en/extending/build-distribution.md",
+        "content/en/contributing/support-packs.md"
+      ],
+      "baselineSymbols": 54,
+      "capturedSymbols": 54,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "query": "display update UI document",
+  "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+  "samples": [
+    {
+      "milliseconds": 1392.773,
+      "result": {
+        "status": "Found",
+        "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+        "sourceApiStatus": "Unverified",
+        "message": "2 matching sections; offset 0, returned 1. Search excerpts are navigation, not complete contracts.",
+        "hits": [
+          {
+            "pageId": "manual.ui.use-documents",
+            "page": "content/en/manual/ui/use-documents.md",
+            "section": "display-and-update-a-ui-document",
+            "line": 16,
+            "projects": [
+              "Inno.UI",
+              "Inno.UI.Runtime"
+            ],
+            "surface": null,
+            "symbol": null,
+            "reason": "All query terms in heading",
+            "completeness": "Excerpt",
+            "text": "# Display and update a UI document\n\nInnoEngine's retained UI service loads documents, updates interaction and layout, and produces backend-neutral render frames. A product must supply both a compatible document backend and a renderer that consumes those frames. Calling `UI.Render` alone does not draw to a window.\n\nThis",
+            "resource": "inno-doc://innoengine/snapshots/9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f/pages/manual.ui.use-documents#display-and-update-a-ui-document"
+          }
+        ],
+        "continuations": [],
+        "nextRequest": {
+          "operation": "search",
+          "value": "display update UI document",
+          "project": null,
+          "surface": null,
+          "section": null,
+          "offset": 1,
+          "limit": 1
+        }
+      },
+      "bytes": 1200
+    },
+    {
+      "milliseconds": 1204.4232,
+      "result": {
+        "status": "Found",
+        "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+        "sourceApiStatus": "Unverified",
+        "message": "2 matching sections; offset 0, returned 1. Search excerpts are navigation, not complete contracts.",
+        "hits": [
+          {
+            "pageId": "manual.ui.use-documents",
+            "page": "content/en/manual/ui/use-documents.md",
+            "section": "display-and-update-a-ui-document",
+            "line": 16,
+            "projects": [
+              "Inno.UI",
+              "Inno.UI.Runtime"
+            ],
+            "surface": null,
+            "symbol": null,
+            "reason": "All query terms in heading",
+            "completeness": "Excerpt",
+            "text": "# Display and update a UI document\n\nInnoEngine's retained UI service loads documents, updates interaction and layout, and produces backend-neutral render frames. A product must supply both a compatible document backend and a renderer that consumes those frames. Calling `UI.Render` alone does not draw to a window.\n\nThis",
+            "resource": "inno-doc://innoengine/snapshots/9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f/pages/manual.ui.use-documents#display-and-update-a-ui-document"
+          }
+        ],
+        "continuations": [],
+        "nextRequest": {
+          "operation": "search",
+          "value": "display update UI document",
+          "project": null,
+          "surface": null,
+          "section": null,
+          "offset": 1,
+          "limit": 1
+        }
+      },
+      "bytes": 1200
+    },
+    {
+      "milliseconds": 1176.9731,
+      "result": {
+        "status": "Found",
+        "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+        "sourceApiStatus": "Unverified",
+        "message": "2 matching sections; offset 0, returned 1. Search excerpts are navigation, not complete contracts.",
+        "hits": [
+          {
+            "pageId": "manual.ui.use-documents",
+            "page": "content/en/manual/ui/use-documents.md",
+            "section": "display-and-update-a-ui-document",
+            "line": 16,
+            "projects": [
+              "Inno.UI",
+              "Inno.UI.Runtime"
+            ],
+            "surface": null,
+            "symbol": null,
+            "reason": "All query terms in heading",
+            "completeness": "Excerpt",
+            "text": "# Display and update a UI document\n\nInnoEngine's retained UI service loads documents, updates interaction and layout, and produces backend-neutral render frames. A product must supply both a compatible document backend and a renderer that consumes those frames. Calling `UI.Render` alone does not draw to a window.\n\nThis",
+            "resource": "inno-doc://innoengine/snapshots/9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f/pages/manual.ui.use-documents#display-and-update-a-ui-document"
+          }
+        ],
+        "continuations": [],
+        "nextRequest": {
+          "operation": "search",
+          "value": "display update UI document",
+          "project": null,
+          "surface": null,
+          "section": null,
+          "offset": 1,
+          "limit": 1
+        }
+      },
+      "bytes": 1200
+    },
+    {
+      "milliseconds": 1180.6513,
+      "result": {
+        "status": "Found",
+        "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+        "sourceApiStatus": "Unverified",
+        "message": "2 matching sections; offset 0, returned 1. Search excerpts are navigation, not complete contracts.",
+        "hits": [
+          {
+            "pageId": "manual.ui.use-documents",
+            "page": "content/en/manual/ui/use-documents.md",
+            "section": "display-and-update-a-ui-document",
+            "line": 16,
+            "projects": [
+              "Inno.UI",
+              "Inno.UI.Runtime"
+            ],
+            "surface": null,
+            "symbol": null,
+            "reason": "All query terms in heading",
+            "completeness": "Excerpt",
+            "text": "# Display and update a UI document\n\nInnoEngine's retained UI service loads documents, updates interaction and layout, and produces backend-neutral render frames. A product must supply both a compatible document backend and a renderer that consumes those frames. Calling `UI.Render` alone does not draw to a window.\n\nThis",
+            "resource": "inno-doc://innoengine/snapshots/9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f/pages/manual.ui.use-documents#display-and-update-a-ui-document"
+          }
+        ],
+        "continuations": [],
+        "nextRequest": {
+          "operation": "search",
+          "value": "display update UI document",
+          "project": null,
+          "surface": null,
+          "section": null,
+          "offset": 1,
+          "limit": 1
+        }
+      },
+      "bytes": 1200
+    },
+    {
+      "milliseconds": 1225.1684,
+      "result": {
+        "status": "Found",
+        "snapshot": "9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f",
+        "sourceApiStatus": "Unverified",
+        "message": "2 matching sections; offset 0, returned 1. Search excerpts are navigation, not complete contracts.",
+        "hits": [
+          {
+            "pageId": "manual.ui.use-documents",
+            "page": "content/en/manual/ui/use-documents.md",
+            "section": "display-and-update-a-ui-document",
+            "line": 16,
+            "projects": [
+              "Inno.UI",
+              "Inno.UI.Runtime"
+            ],
+            "surface": null,
+            "symbol": null,
+            "reason": "All query terms in heading",
+            "completeness": "Excerpt",
+            "text": "# Display and update a UI document\n\nInnoEngine's retained UI service loads documents, updates interaction and layout, and produces backend-neutral render frames. A product must supply both a compatible document backend and a renderer that consumes those frames. Calling `UI.Render` alone does not draw to a window.\n\nThis",
+            "resource": "inno-doc://innoengine/snapshots/9f08360cbf35aba76f08df6c18dbdac72a27b55758e9b8e3f08e754015f1dd2f/pages/manual.ui.use-documents#display-and-update-a-ui-document"
+          }
+        ],
+        "continuations": [],
+        "nextRequest": {
+          "operation": "search",
+          "value": "display update UI document",
+          "project": null,
+          "surface": null,
+          "section": null,
+          "offset": 1,
+          "limit": 1
+        }
+      },
+      "bytes": 1200
+    }
+  ],
+  "environment": "Windows x64; .NET SDK 10.0.402; separate prepared-query process per sample"
+}

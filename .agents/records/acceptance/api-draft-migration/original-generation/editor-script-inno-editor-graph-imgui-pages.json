@@ -1,0 +1,48 @@
+{
+  "project": "Inno.Editor.Graph.ImGui",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-graph-imgui",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-graph-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvaslayout.md",
+      "sha256": "ba3d7ea69ad5ced310f1858c94f3e1bcd3606321628ef4f99d4754116624234f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvasnode.md",
+      "sha256": "12990cd8c674f55e9899b8dc56ccb8f8f15b52c0adb4af630ee2eafb2c29dfc4"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvaspointercontroller.md",
+      "sha256": "522122a7f345251dee614293471679e4b8273280e30f38c66ce891aa0418a8ad"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvaspointerinput.md",
+      "sha256": "3c2973bbaec37a756f97f80b84ea7a268e3d8b5870b501534ee04475c9acf05d"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvaspointerresult.md",
+      "sha256": "013f0ee2e0536edc13daa86bdefb05b8dbd80d0904cc361ecd672ec4337d7cc2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvasport.md",
+      "sha256": "ba84a19f64e985f8a1ad62066d429757eb8e7a54d45aac398948b6c6c90dffb7"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/innoeditor.graph.graphcanvasview.md",
+      "sha256": "67da77d6737b5a6bca0e0ff59b5fb2d67e0b3445aef9d3b5d5daa90f6e26010c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-graph-imgui/index.md",
+      "sha256": "0cacc12aa4c6d1e2ee7ef3d45c8a41c8661936cf4256cce9b17dc172c4257546"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

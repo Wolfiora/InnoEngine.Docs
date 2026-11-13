@@ -1,0 +1,37 @@
+{
+  "project": "Inno.Editor.Scripting",
+  "outputDirectory": "content/en/api/types/editor-domains/inno-editor-scripting",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-domains.json",
+  "factsIdentity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
+  "sharedContract": "project.inno-editor-scripting",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/editorscriptcompilationprogress.md",
+      "sha256": "47fbcc584a75f39c42513bb34a1ed05547d18de81530174793a6d52015de2aa5"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/editorscriptcompilationstate.md",
+      "sha256": "5c2dea42931f80c0688dc4c5f3e5959c084e9961e82f0e4ab82b740e5dfb592f"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/ieditorscriptcompilation.md",
+      "sha256": "7b98ea8fa1bf518e26d0e08af84c42cfd251b0a78a81538d010a98d6ec602751"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/iscriptcompilationticket.md",
+      "sha256": "1509cb29b64383b6530d7fbb2b6c07a373928432353ed7b64cd1dd094a03d1f0"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/scriptcompilationticketstate.md",
+      "sha256": "f70da3787fc9ee7786d762c47c29bea5ae34dfaafe37c9bea800bab99823e456"
+    },
+    {
+      "path": "content/en/api/types/editor-domains/inno-editor-scripting/index.md",
+      "sha256": "53f20e1d70e1eb54c57d5620c51a93a258adbfaf5de0fe43e630a388cde7ed8c"
+    }
+  ]
+}

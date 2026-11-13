@@ -1,0 +1,232 @@
+- label: About InnoEngine
+  items:
+    - slug: about/introduction
+    - slug: about/glossary
+- label: Getting Started
+  items:
+    - slug: getting-started/prerequisites
+    - slug: getting-started/first-editor-session
+    - slug: getting-started/first-project
+- label: Manual
+  items:
+    - slug: manual
+    - label: Editor
+      items:
+        - slug: manual/editor/play-mode
+        - slug: manual/editor/scene-documents
+        - slug: manual/editor/files
+        - slug: manual/editor/hierarchy
+        - slug: manual/editor/inspector
+        - slug: manual/editor/shader-editor
+        - slug: manual/editor/console
+        - slug: manual/editor/statistics
+        - slug: manual/editor/audio-preview
+        - slug: manual/editor/export
+        - slug: manual/editor/material-drafts
+        - slug: manual/editor/settings
+        - slug: manual/editor/appearance
+        - slug: manual/editor/game-view
+        - slug: manual/editor/scene-view
+    - slug: manual/identity-and-missing
+    - slug: manual/scripting/use-script-api
+    - slug: manual/scripting/compile-and-reload
+    - slug: manual/runtime/frame-loop
+    - label: Scenes and objects
+      items:
+        - slug: manual/scenes
+        - slug: manual/scenes/manage-scenes
+        - slug: manual/scenes/transforms
+        - slug: manual/scenes/behaviors
+        - slug: manual/scenes/prefabs
+        - slug: manual/scenes/tags-and-layers
+        - slug: manual/scenes/missing
+    - slug: manual/register-identity
+    - label: Assets and content
+      items:
+        - slug: manual/assets
+        - slug: manual/assets/read-assets
+        - slug: manual/assets/read-artifacts
+        - slug: manual/assets/import-settings
+        - slug: manual/assets/import-samples
+        - slug: manual/assets/read-content-pack
+        - slug: manual/assets/troubleshooting
+    - label: References and Missing
+      items:
+        - slug: manual/references/resolve-missing
+        - slug: manual/references/read-content
+    - label: Plugins
+      items:
+        - slug: manual/plugins/install
+        - slug: manual/plugins/troubleshoot
+    - slug: manual/projects/read-settings
+    - label: Execution and work ownership
+      items:
+        - slug: manual/execution/own-async-work
+        - slug: manual/execution/run-coroutines
+        - slug: manual/execution/schedule-frame-jobs
+    - label: Data models and mathematics
+      items:
+        - slug: manual/data/order-dependencies
+        - slug: manual/data/query-objects
+        - slug: manual/data/preserve-graph
+        - slug: manual/math/transform-values
+    - label: Extension discovery and reload
+      items:
+        - slug: manual/extensions/find-types
+        - slug: manual/extensions/diagnose-reload
+    - label: Serialization and reload
+      items:
+        - slug: manual/serialization/save-state
+        - slug: manual/serialization/restore-properties
+        - slug: manual/serialization/capture-snapshots
+    - label: Events and diagnostics
+      items:
+        - slug: manual/events/route-events
+        - slug: manual/diagnostics/report-current-issues
+        - slug: manual/diagnostics/write-logs
+    - label: Input
+      items:
+        - slug: manual/input/read-input
+    - label: Application storage
+      items:
+        - slug: manual/storage/save-data
+    - label: Audio
+      items:
+        - slug: manual/audio/play-audio
+        - slug: manual/audio/mix-audio
+    - label: Rendering and shaders
+      items:
+        - slug: manual/rendering
+        - slug: manual/rendering/materials
+        - slug: manual/rendering/shader-authoring
+        - slug: manual/rendering/shader-functions
+        - slug: manual/rendering/reusable-shader-nodes
+    - label: Animation
+      items:
+        - slug: manual/animation/play-clips
+    - label: Text and fonts
+      items:
+        - slug: manual/text/shape-text
+    - label: Document UI
+      items:
+        - slug: manual/ui/use-documents
+        - slug: manual/ui/author-rml
+- label: Architecture
+  items:
+    - slug: architecture/asset-publication
+    - slug: architecture/overview
+    - slug: architecture/editor-ui
+    - slug: architecture/identity-and-recovery
+    - slug: architecture/ownership
+    - slug: architecture/scene-lifecycle
+    - slug: architecture/serialization
+    - slug: architecture/generation-publication
+    - slug: architecture/execution-and-retirement
+    - slug: architecture/build-artifacts
+    - slug: architecture/editor-generations
+    - slug: architecture/audio-lifetime
+    - slug: architecture/ui-lifetime
+    - slug: architecture/runtime-lifetime
+    - slug: architecture/script-compilation
+    - slug: architecture/script-reload
+    - slug: architecture/render-frame
+    - slug: architecture/shader-ir
+    - slug: architecture/validation-evidence
+    - slug: architecture/native-preparation
+    - slug: architecture/task-hosts
+- label: Extending InnoEngine
+  items:
+    - slug: extending/asset-importers
+    - slug: extending
+    - slug: extending/customize-console
+    - slug: extending/editor-panels
+    - slug: extending/editor-modules
+    - slug: extending/editor-modals
+    - slug: extending/editor-actions
+    - slug: extending/editor-selection
+    - slug: extending/editor-history
+    - slug: extending/editor-state
+    - slug: extending/audio-content
+    - slug: extending/animation-bindings
+    - slug: extending/text-backends
+    - slug: extending/project-settings
+    - slug: extending/persist-host-documents
+    - slug: extending/manage-process-output
+    - slug: extending/ui-render-frames
+    - slug: extending/lifecycle-layers
+    - slug: extending/serialization-converters
+    - slug: extending/serialization-metadata
+    - slug: extending/type-registries
+    - slug: extending/module-sources
+    - slug: extending/static-type-catalogs
+    - slug: extending/reference-recovery
+    - slug: extending/scene-state
+    - slug: extending/script-exports
+    - slug: extending/asset-browser
+    - slug: extending/graph-canvas
+    - slug: extending/editor-widgets
+    - slug: extending/asset-drafts
+    - slug: extending/editor-viewports
+    - slug: extending/inspectors
+    - slug: extending/editor-host
+    - slug: extending/graph-documents
+    - slug: extending/runtime-host
+    - slug: extending/render-frame
+    - slug: extending/presentation-context
+    - slug: extending/build-distribution
+    - slug: extending/platforms
+    - slug: extending/shader-targets
+    - slug: extending/shader-nodes
+    - slug: extending/plugin-packages
+    - slug: extending/plugin-host
+- label: Platforms & Backends
+  items:
+    - slug: platforms
+    - slug: platforms/product-composition
+    - slug: platforms/select-target
+    - slug: platforms/publish-player
+    - slug: platforms/window-lifetime
+    - slug: platforms/application-data
+    - slug: architecture/projects/inno-platform
+    - slug: architecture/projects/inno-adapter-platform
+    - slug: architecture/projects/inno-adapter-presentation
+    - slug: backends
+    - slug: backends/bgfx
+    - slug: backends/bgfx-shaders
+    - slug: backends/dotnet-modules
+    - slug: backends/dotnet-publishing
+    - slug: backends/file-content-cache
+    - slug: backends/imgui-rendering
+    - slug: backends/imgui-context
+    - slug: backends/sdl3
+    - slug: backends/miniaudio
+    - slug: backends/text
+    - slug: backends/rmlui
+    - slug: backends/dotnet-serialization
+- label: API Reference
+  items:
+    - slug: api
+    - label: Engine
+      items:
+        - autogenerate:
+            directory: api/engine
+    - label: Scripting
+      items:
+        - autogenerate:
+            directory: api/scripting
+- label: Contributing
+  items:
+    - slug: contributing
+    - slug: contributing/development-entries
+    - slug: contributing/dependencies
+    - slug: contributing/native-bindings
+    - slug: contributing/support-packs
+    - slug: contributing/validate-change
+    - slug: contributing/api-documentation
+    - slug: contributing/product-journeys
+    - slug: contributing/testing
+    - slug: contributing/documentation-queries
+    - slug: contributing/example-validation
+    - slug: contributing/reference-validation
+    - slug: contributing/publish-documentation
+    - slug: contributing/compile-project-scripts

@@ -1,0 +1,105 @@
+{
+  "project": "Inno.Runtime",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-runtime",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-runtime",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/enginehost.md",
+      "sha256": "cac46953b560799f7292818c090e35d12a18fd1f911343647c156f51fa6a257d"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/enginehostbuilder.md",
+      "sha256": "e15c3c9796e30862df1829ab8d6498e2bffb29bffb3466553861f30b8cb1c751"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gamecodeassembly.md",
+      "sha256": "26ce4caa73fcc50fec855e10fe12d2d7f45aa670dc87fe1c782fded477d41ac1"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gamecodedeployment.md",
+      "sha256": "a2e1e19c9769c7b849310bef93330ad7516bf1df33fd722f24459e88a8a7fe22"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gamecodemodule.md",
+      "sha256": "e34401af3cd3844cba8c0d1ed38680bac9d7966f8434f198956e6219cb3e278c"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gamepresentationsettings.md",
+      "sha256": "30ee8930c3c1e162b1baf80bf54ed1d288b8c2407e8d4d8880a93c508feb6d95"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gamepresentationviewport.md",
+      "sha256": "f264ec72ea97e161f474d94c3cf440979b1b99bca8d3e4ffaf8dc35c3532d170"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gameruntimeassembly.md",
+      "sha256": "74595a093a035b45adcbeaf33b4ddd5a5fa89b0d9181c5fd03d84b005d403dde"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gameruntimemanifest.md",
+      "sha256": "6d7ad39fe681c72f0e8fc9835b91314c7da9df34f5ffd16feee271be42528638"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gameruntimemodule.md",
+      "sha256": "120b7ee2e166af35e333619ba4dde9253997461d720a72312429fb6fe9a155a0"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/gameruntimeplugin.md",
+      "sha256": "a8ee34ad0932f5c44cc78055fb283098f0533398f5f70aa9db1b66ab13af5553"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimecontentcatalog.md",
+      "sha256": "4068a1cf8f73f5d889a2c065331f22e58d95124f3136fac7e37ccb41b770f6a9"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimejobexecutionmode.md",
+      "sha256": "1fb2a815672df237f624d1128b128458790d82dbafdd1d4bf1bc5dc19c06f534"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimemanifestenvelope.md",
+      "sha256": "97581b2deea929fc7c811cc239040acb2b0431f38f3e5a31dd70f3f5f77f2fec"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimesession.md",
+      "sha256": "87a39b7db029bd8d32cfbf987966594a49785a5bdc75a267a5f93bd88f6ccc8e"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimesessionkind.md",
+      "sha256": "065c15dbd0763deec25bda5cb85955639f4177c43969abbc52d05d06e1bac96c"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimesessionoptions.md",
+      "sha256": "93c865be63ac56770723e0c8a3500efdf9bdc488f7fed04e0ca229e05de503ea"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/runtimesubsystempipeline.md",
+      "sha256": "afcaea2f9f384846f346010fa0232c8d330ab6cad61e96657d676047c90ee35b"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/staticassemblycatalogsource.md",
+      "sha256": "4d1e7e4771476e83a22d2a5611c92239c87125bfedf5f018a5c918ebd2ce14c7"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/staticmodulesource.md",
+      "sha256": "4eb86268df1648e09206fb076497b728b703fa6d5005452ffafab88e19485e8e"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/statictypecatalogsource.md",
+      "sha256": "d633a697ee3bb3b290c9db4e279be59596135b5038fc7a05939183498dcd0794"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/time.md",
+      "sha256": "ff4a7d370f40f84bb1856b7dd124edc29cccbbd5054aed5c385f6062021f4228"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-runtime/index.md",
+      "sha256": "28c5ddbdde65705ec12a9bfcb5f645aa8db7371ac52c6edc60b1b12716764117"
+    }
+  ]
+}

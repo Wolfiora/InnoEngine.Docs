@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Integration.BrowserWasm32.Sdl3",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-browserwasm32-sdl3",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-browserwasm32-sdl3",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-sdl3/browserwasm32sdl3hostintegration.md",
+      "sha256": "a7a4164c5e0c204d7de5ba42ffd902f5d13adef7b0b3f63471ef3c1f6147e383"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-sdl3/index.md",
+      "sha256": "b7c66e0101265a7a3ca2f33aa4aa59f0a98ed67a54ddc5c919761012e79fc666"
+    }
+  ]
+}

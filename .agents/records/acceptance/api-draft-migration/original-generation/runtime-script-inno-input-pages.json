@@ -1,0 +1,32 @@
+{
+  "project": "Inno.Input",
+  "outputDirectory": "content/en/api/runtime-script/inno-input",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-input#execution-and-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-input/innoengine.input.iinputservice.md",
+      "sha256": "12fdabfc927e124c383132b8b5e948c1a2a5a869f59b0bc10ca55713489e064d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-input/innoengine.input.input.md",
+      "sha256": "196b1d8de5849eeec24868b4cfe0699d2a314a7464eada668ba5ad16901d2fde"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-input/innoengine.input.inputsnapshot.md",
+      "sha256": "b2722773bc5f7d87aeb4716de6ebb4f8f2bafc55c7345f3353674de632fae0a2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-input/index.md",
+      "sha256": "e6a3f4e179d47713436a9b4b1bf8b5eb2fc29a2a65dec28c3d16d8e6c02a165c"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

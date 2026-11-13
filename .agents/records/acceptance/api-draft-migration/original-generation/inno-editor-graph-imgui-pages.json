@@ -1,0 +1,45 @@
+{
+  "project": "Inno.Editor.Graph.ImGui",
+  "outputDirectory": "content/en/api/types/editor-presentation/inno-editor-graph-imgui",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/editor-presentation.json",
+  "factsIdentity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
+  "sharedContract": "project.inno-editor-graph-imgui",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvaslayout.md",
+      "sha256": "77015975248baba276a8049e274b1a69c8037ac9bf52c9afe0f3513b83208c99"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvasnode.md",
+      "sha256": "50173b8a5898ef18f812fb46e18d2805d32c6db9a20fa98bf68ad06f9d59bb5a"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvaspointercontroller.md",
+      "sha256": "5dba5bdc83daa961e1a121ac8694d66cba17e3742e7f3fb0e5b1e2f80de18a10"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvaspointerinput.md",
+      "sha256": "ef15fa1eb35fd0d201a9e2fc3b78c366a4773e0bae853f80365c2d749e7bd037"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvaspointerresult.md",
+      "sha256": "268af93f212ceb1f7c8897f24973a8c4a927b59cc3e793d8b2142a5439942bbb"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvasport.md",
+      "sha256": "55b03d8b406b14df9deab576936daf68474d29f637fbe26b89af8ad19172447d"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/graphcanvasview.md",
+      "sha256": "e407caac83942505dbea496ca06281f78b3fe3052fcc5e95b6f4118a38db2f88"
+    },
+    {
+      "path": "content/en/api/types/editor-presentation/inno-editor-graph-imgui/index.md",
+      "sha256": "fd7d1a09fb9497b3c37e41232c36ee47e0ce8c2ea5366535aa60d7c0056ad513"
+    }
+  ]
+}

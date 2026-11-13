@@ -1,0 +1,276 @@
+{
+  "project": "Inno.Editor.Interactions",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-interactions",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "api.projects.inno-editor-interactions#generation-and-lifetime-contracts",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoraction.md",
+      "sha256": "6312d8fc3ebed01fe4fddc457a594c7295ccba4d9ce9c1fb8e1b66c3fdcabcbc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoraction-1.md",
+      "sha256": "d4604d8dc5994f1ffa3877309924b8d7dc4e780e630898b08318f029fab3b7bb"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoraction-2.md",
+      "sha256": "0101e283b0d9eede60a9780736d2224f19a58cfbe1f0ced6e61db768bbfa6aca"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractionargumentcontext-1.md",
+      "sha256": "f086c6cc6bf97c431e047ff8bae09a777887ba2f5b50b500858d3e85f4ab2ea7"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractionattribute.md",
+      "sha256": "1d7aea21cddc637555ea6d6190dd8cc72dad7057fefbd326731ff21b6ed7c6bc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractioncontext.md",
+      "sha256": "279a554f1e59fd08dfdd0828bb780a8d1bdb051c536efbd3bad49cb80683a958"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractioncontext-1.md",
+      "sha256": "49e8bef2507680847882accb212bee5c0c82f314d0cbb1b67c43a381c95114bb"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractioncontext-2.md",
+      "sha256": "9f10be653f2a7e136e7d37054a2e984dbe10fc9b933c6de7c07f38da41b07436"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoractionstate.md",
+      "sha256": "79f4b1ed3b9585e1ba966465d6aee994929dcbd5193c7ca96e4f51c664334579"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorargumentaction-1.md",
+      "sha256": "a953b552f16997fb40e46998caf55b9ad88982b7db4d4ad39395de384be402b7"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordocumentclosemode.md",
+      "sha256": "23b1af01caeb30db7a0eec023e2e6a7152fd1065e69ec2084418f58b67c9a45f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordocumentcontext.md",
+      "sha256": "1698722306dea2ed3d93edf3078076bba03ddd0007075753b289af60d51d8a39"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordocumentprovider.md",
+      "sha256": "3850bf1723a67e89f0c1972e1b73f2b18ea26d9563cb4122230a827bdd772742"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordragcontext.md",
+      "sha256": "a5e32e95376f5ed1bb24d0f289d689a4baf47d0fdfe0a57134fe5f434a847536"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordragdata.md",
+      "sha256": "f8164fbc7534c732ee1e58bae2a00fb95e3300a495a4a66d30bdc64bce420dc2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordrop.md",
+      "sha256": "cbc57c5a69b2a31528c91a6c51ec3c5e143017d758fd0ab762b62bba50b2c80f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordrop-2.md",
+      "sha256": "fb69ab5d084427b55e0d74ac9536c9d795b7f31209fa925df0de0211605ad185"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropattribute.md",
+      "sha256": "0696bd0da4a640ed1ecab2bc5089f75ad17cc9a1db9f414847794cf5935bf46f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropcontext.md",
+      "sha256": "ef5dcf2b195cce6e1b5b59481f4bcbc238a553cf5add5f797178bb4942a23cab"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropcontext-2.md",
+      "sha256": "e12e6ff26edef92fc85bf4e59ab15715bee663104f797e8a2b68703978ea27fc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropplacement.md",
+      "sha256": "91fd71307ce24b3151838c6233015dd682078214439ac25bf284e65ed3369c9c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropresult.md",
+      "sha256": "b057e32d7551852d0660ac6a801ef8d92667db01984c0ac116a9f0560e088e86"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropstatus.md",
+      "sha256": "69b28a44ad61c8022c0bebba971c6d97d5ef4a8b0d70a8cf7dd6a3dc3ab754da"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editordropvisual.md",
+      "sha256": "b1f8d36ee413aa0e58227008b86160b4c0e65524c1238aedc535f223f0d7f72e"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editoreditgesture.md",
+      "sha256": "2cf69538893e1c7664115387efffcf3ab169b99beff5411eb6e627b1d429c952"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistoryavailability.md",
+      "sha256": "7e35393932f3ab88be777d58040942c98486e76fdd21982243ee0647cf80b7da"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistorychange.md",
+      "sha256": "b7aedd717f34df438268fd019f7f11d634d9b3864ed6b92d4e19d481e169d7b9"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistorycontext.md",
+      "sha256": "a307ac13005e3bfad0084ededdb81d66d14367fb8d6e49348bcb8e664a59d7f5"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistorydirection.md",
+      "sha256": "59e693375c8e101fb614668177a9f0179f7b43e5c58fc276fe6233b1451393cf"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistoryhandler.md",
+      "sha256": "33e13e12f2719ae49e030ecb317204faa3626c329d037f47f9ee622cb9979a62"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistoryhandlerattribute.md",
+      "sha256": "a570adb145a8265138b08182e5b159c3164065de5299fa391e257fceec016928"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistorypayload.md",
+      "sha256": "59cc0d22e393d5373e946c2d01a07c691b86c1d90b00c428384941e67f137b9b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistoryresult.md",
+      "sha256": "654fce46dd62f57d0f41b051664baf7c461ec7de3e9a0b0ce10ea0c5a7d89c82"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorhistorytransaction.md",
+      "sha256": "d398abdd4b8a021200ccaf39fc5edc0578095d9f7091cd328129befc2c7fbd00"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorinteraction.md",
+      "sha256": "de53a4ff4c3598063edab8a5e99e3732bf7328300977fbb2db748795ff7284de"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorinteractions.md",
+      "sha256": "f8801eb288238bc286578637f7bb1e408c3c8caf978b647d9a090d42b5e4133a"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenuattribute.md",
+      "sha256": "4b3fc7048d50059115bb4fd32bf64c0b29c4dfc55a8a63247f030e35017b3999"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenubuilder.md",
+      "sha256": "d17e7afe6cdb3178aa6a6d80bf12e6427a8b8e439b5c6580bec64b1dff3d0c94"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenucontext.md",
+      "sha256": "c0d44715d5a61c70f0f05cdb1097cf9d451c8d49085e457d725fe3074e361e88"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenuitem.md",
+      "sha256": "39af984837df5ddb870e7580426face02052679e1c3fcb6d3bbb31efdbb9ba5c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenumodel.md",
+      "sha256": "8d716129e59bca0b1d76b8e267e9cbcad941ecd76238427d0717f1b013fccd2c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenusource.md",
+      "sha256": "f4ec34bc383398c5a5cf152d5432a63003b993bec9aff944dff2bd1fb1f477be"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editormenusourceattribute.md",
+      "sha256": "da43c0967bc305ef5aec1af9d3013608ec5371e5d791919946bf7e484610ca5b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorplanarnavigation.md",
+      "sha256": "d3399fdb4e4cde61b6180a20f738047efaf1fc6358ac06921770570c48c0fd49"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorpresentationaction-2.md",
+      "sha256": "e1c15d1e9229d981c5dc2add291c70d99c7e8bb28264afa7007bca89d08937f6"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorselectionsnapshot.md",
+      "sha256": "d5830ef0f22d402daa38cc15ca22c98fa68ed87e9fb200dab24e70572bea2b56"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorselectionstate.md",
+      "sha256": "72a9f8cfbb4c9d279c50beddf1edfb33defef517565089161b80f7ed200b4aad"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorshortcutattribute.md",
+      "sha256": "68bd9b95c7f94f6f3249a428dad687a3cd96efee57b1f61968b322ab81051825"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editortoolbaricon.md",
+      "sha256": "3c7e78805731b2e0e7963c9ef1d97c58b41927025e30d78f64dfa657ab9e6ef4"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editortoolbaritem.md",
+      "sha256": "3035e76cc229132c44b9563d8c0aa77e6cb658b7c73b580d7f3498565dd52fe2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editortoolbaritemattribute.md",
+      "sha256": "078b2325a582652aedd537ff42e3f6b59eeb26c8940ff21fbc106cb2d92e0446"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editortoolbarmodel.md",
+      "sha256": "463a3b0c7a0e00e82fe081c71a78bf9efedeceaa60b59dcc66fe67f4d75056ae"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorvalidationresult.md",
+      "sha256": "d2cd11f1cd0e2b31e084ef3357a7dc97e8f313edae8281214e99d683c15b2b00"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewportcursor.md",
+      "sha256": "a7d9824a67920b162d6ec39dff3c7bf274f959af0f805880d8e038a46e6d93cc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewportpointerevent.md",
+      "sha256": "5e889482c8c6634e76ec1ce37225a99d4815745d287e661f1885c597a660d202"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewportpointerphase.md",
+      "sha256": "a3de07517ee1c6a59f1aafb0783142145e5cdf7663b11e195fcd180ea41404a2"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewportshortcut.md",
+      "sha256": "4284253a946d87e331e2af09cd4bcdadcede40ea11c30833400e2d7c62841fca"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewporttool.md",
+      "sha256": "463f925c451759b6db8962d3f0ef63de10e84abb57cab3bf7cd94768c8eb146f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewporttoolcontext.md",
+      "sha256": "7e34d24afdce4f50d03c48f37b35a0388ff214cbff6d4c1012d7475ad34f30ef"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.editorviewporttoolsession.md",
+      "sha256": "509abde5f6e2d8e4e61c93ed9c0613178762ca836863a1dfa40d3f57c1a3877f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.hotkeygesture.md",
+      "sha256": "f23df1c8286633436540eea76ca18da14140ca918ece416afd3b1bb5fa69eb8f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.ieditordocumentservice.md",
+      "sha256": "b45f37ff691e932dbedf944899ffa9772f80e5c2fda362f9593b1378a058e335"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.ieditorhistory.md",
+      "sha256": "ee947fafca1a996990e4d1fa91b725f6057e1d564a690bfc749affd05e8a10e3"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/innoeditor.interactions.ieditorviewportcoordinateconverter.md",
+      "sha256": "547a2fc538b1de25c08d776ed42ef2ea40b23b3086f00fad846ca93ead4e96f8"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-interactions/index.md",
+      "sha256": "5efb36605e11a4f6e4bbc8fdb7fe3afd1c29384407ca82e2eb6358dc0fb255ab"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

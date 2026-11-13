@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Integration.BrowserWasm32.Build",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-browserwasm32-build",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-browserwasm32-build",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-build/browserwasm32buildintegration.md",
+      "sha256": "df23484250b12ac37bd620b3f3768aa851f9ff7a74ab6e26b9cb60b93c784c59"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-build/index.md",
+      "sha256": "837b71818ba5d7a78687447b14f3e6ed24ddf7b7ef37db2aebb44d49405e81a8"
+    }
+  ]
+}

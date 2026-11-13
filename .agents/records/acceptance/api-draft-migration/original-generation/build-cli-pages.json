@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Build.Cli",
+  "outputDirectory": "content/en/api/types/build-cli",
+  "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
+  "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894",
+  "facts": "reference/api/tooling.json",
+  "factsIdentity": "be2924bdf9f5dd0893ba9bddb681fe72e5f2ebeb72193820c08ac4bf0989cf0d",
+  "sharedContract": "project.inno-build-cli#product-preparation-and-ownership",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-cli/buildapplication.md",
+      "sha256": "a449d1607709bb2349d98308b25de27de9251364cfea01fefc69667919e4bcb0"
+    },
+    {
+      "path": "content/en/api/types/build-cli/index.md",
+      "sha256": "6aeee30920e2b2f3279f9dc2f85261b26a1eb6b921f2b7e1e188f27e6c9f8ba4"
+    }
+  ]
+}

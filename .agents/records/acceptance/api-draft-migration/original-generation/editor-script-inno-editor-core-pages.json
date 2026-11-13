@@ -1,0 +1,88 @@
+{
+  "project": "Inno.Editor.Core",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-core",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "api.projects.inno-editor-core#lifecycle-and-failure-contracts",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorcontext.md",
+      "sha256": "a9a24995ede3a88116434809268f10458a817d0cd14f113e1f187e9ff36b46eb"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editordisplaynames.md",
+      "sha256": "e6714dd1c2041bf95d0484b15d4ff9c3f1bd5988bf086fc5101dcdf4971e8b9b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorframe.md",
+      "sha256": "fb998bbf7abdb0e9493ff318ff641c3335a60e08f5e3b17353f07b178bcf908f"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorkeyboardpolicy.md",
+      "sha256": "394637818ead414d8bed45874f4e5e8da50f6448f6557a700b2e0e121223bc56"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editormodal.md",
+      "sha256": "f6a9f79cd06eef3dc20446320bc9d8c1eb021611e98c86a5d66780c7e5ba62f0"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editormodalattribute.md",
+      "sha256": "fbe70fb6597435b18a34e7fe30eddfc67605dac9cc044a11a29475e0aa873e12"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editormodule.md",
+      "sha256": "a3eab281afa8ba26cee6b5152ff5c1a8eb11de3f7707b2448d2f822a1f795a67"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editormoduleattribute.md",
+      "sha256": "b77f245c9fc2dbfeff18ebd1cbe2b6176405f8794d18b6bb003d65324b629b2a"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorpanel.md",
+      "sha256": "0c8a0d005b99fc4db1a8dd6a6505b799654541d031213730563b10d66076cbd7"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorpanelattribute.md",
+      "sha256": "979ab7c2e52921e015e8bf2c09dc34c8ae34d5096d856153f16b8bc54cef0b2c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorruntime.md",
+      "sha256": "e45c3764f9817172acf8c98d4034e47d2ac9e3511001e73148565716daf9627c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorstate.md",
+      "sha256": "05e105bec2b439d5a368819ef732b97c5ff219591a402da6c5aa9fe3c13f7346"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorstatistic.md",
+      "sha256": "f7dd7d70b7d05f77c615b31e713b6f6ea5b7443a2caf15a0fe520516967c21c6"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorstatisticgroupid.md",
+      "sha256": "c1b385de9125a856c07a4758d5036412e3f25e1258b8e44f1a196de232b91a4b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorstatisticid.md",
+      "sha256": "a1c287727fb517f70a3be74b62d77f0538c549fac5af6adb2afe8232597cfed0"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.editorstatistics.md",
+      "sha256": "938dd1b23ff01ccc47d16fc5b62dd74d5e12233b34eb8cf982085883cb7b6d41"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/innoeditor.core.ieditorpanelreloadstate.md",
+      "sha256": "04101a42a76c88de0aafe2364b70d30ba0854593cb8e8b1ed4b40da82cf14ed1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-core/index.md",
+      "sha256": "7294eee1c9172d2f6e0f037ec32b6f62575347886b2ed1031aa4a0c4289bb100"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

@@ -1,0 +1,1365 @@
+{
+  "status": "Failed",
+  "scope": "SelectedSourceReferenceComparison",
+  "configuration": "Debug",
+  "target": null,
+  "sourceApiStatus": "Unverified",
+  "references": [
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\animation.json",
+      "identity": "15f1078459eaa60556d5a6b2a88ac6682472cc70826b6e1c5c09c7bad07aa4e7"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\assets-content.json",
+      "identity": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\audio.json",
+      "identity": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\backend-adapters.json",
+      "identity": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\bgfx-engine.json",
+      "identity": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\build-composition.json",
+      "identity": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\build-execution.json",
+      "identity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\core-identity.json",
+      "identity": "1f200313105a9dd1376763fe397e9852790d2408c37b17f66af055ecdb07c1cc"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\core-io.json",
+      "identity": "5344d2c5493147e909f67c1b29760308640e834aa8883f68fb37fdbc00e8d72b"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\core-models.json",
+      "identity": "7addee2064068027a2727dab6e2e4a6b47c03199fd36aa95157d471b00bd9cd6"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\core-observability.json",
+      "identity": "627a4df5a5a08375ec59900f8029f5f3ef4f7eacae95e41d0d85c4c1de7960df"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\development-entries.json",
+      "identity": "f21aeb71601cdfcd2debf8fd48a0356b49f75d7d78290c159c19a1a7b3111122"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\editor-domains.json",
+      "identity": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\editor-presentation.json",
+      "identity": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\editor-services.json",
+      "identity": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\editor-views.json",
+      "identity": "883ecdd2800d62191b35a65f6e18ae8cdb9d7e97dbce10f866b025ddedc51b03"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\editor.json",
+      "identity": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\execution.json",
+      "identity": "076dd515a242c46ed0e9e97a4caac74b1a6f58d709a42d2ed858c2e17ae5220e"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\extensibility.json",
+      "identity": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\imgui-context.json",
+      "identity": "c951b6e8eb6a8db972c0adb11c57b754d52a666d0bb097df85859518583b6908"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\input.json",
+      "identity": "e4fe9af430307866f93557b1e0ebbdc5352d9f821b56da4e316476195af38ffd"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\miniaudio.json",
+      "identity": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\platform-boundaries.json",
+      "identity": "9bcc3adb32873ad52cc4a2af3658220c59f1b276b7180df67ad0d2878fcbacac"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\platform-services.json",
+      "identity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\references-plugins.json",
+      "identity": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\rendering-shaders.json",
+      "identity": "ac1b498a3ba0258d34c6e40a9a1d455ce15b17af324a791f45cbee2545f9894b"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\rendering.json",
+      "identity": "bd9566a66647b9e7c5b4bd8e83214f3c16c74afffa4de12cae86476c291b39d0"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\runtime-composition.json",
+      "identity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\scene.json",
+      "identity": "1b83056e00befc0b9946086411f873ce476cc217fdc064328bfcee7bc8097149"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\scripting.json",
+      "identity": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\serialization.json",
+      "identity": "9faaf2ac3e9a652f4dbcd64062c5f6aa7189d10699b0e17c85aad0b2d3197917"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\settings.json",
+      "identity": "1efe226e65f8fe47c7ce45504892478b8f73dd92a69aa4c238f65c02b18c8d1a"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\storage.json",
+      "identity": "e91c49ca8f818d771e7ed720d773ca8e9bdbb3e88278f056697d703b7c219195"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\test-support.json",
+      "identity": "744bd45ff219a81bb0bc98bd251834d7a2eda961a4d3acede4e4eb8d55808aba"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\text.json",
+      "identity": "49761f01252efe4c8a037b21c348744a843f9fbd20f910fd53554a94939a06a9"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\tooling.json",
+      "identity": "be2924bdf9f5dd0893ba9bddb681fe72e5f2ebeb72193820c08ac4bf0989cf0d"
+    },
+    {
+      "path": "C:\\Dev\\GameEngineDev\\InnoEngine.Docs\\reference\\api\\ui.json",
+      "identity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2"
+    }
+  ],
+  "projects": [
+    {
+      "project": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Shaders/Inno.Build.Toolchains.Bgfx.Shaders.csproj",
+      "name": "Inno.Build.Toolchains.Bgfx.Shaders",
+      "status": "Passed",
+      "symbols": 7,
+      "differences": []
+    },
+    {
+      "project": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Tools/Inno.Build.Toolchains.Bgfx.Tools.csproj",
+      "name": "Inno.Build.Toolchains.Bgfx.Tools",
+      "status": "Passed",
+      "symbols": 53,
+      "differences": []
+    },
+    {
+      "project": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx/Inno.Build.Toolchains.Bgfx.csproj",
+      "name": "Inno.Build.Toolchains.Bgfx",
+      "status": "Passed",
+      "symbols": 21,
+      "differences": []
+    },
+    {
+      "project": "backends/Bgfx/runtime/Inno.Adapter.Rendering.Bgfx/Inno.Adapter.Rendering.Bgfx.csproj",
+      "name": "Inno.Adapter.Rendering.Bgfx",
+      "status": "Passed",
+      "symbols": 77,
+      "differences": []
+    },
+    {
+      "project": "backends/DotNet/build/Inno.Build.Managed.DotNet/Inno.Build.Managed.DotNet.csproj",
+      "name": "Inno.Build.Managed.DotNet",
+      "status": "Passed",
+      "symbols": 15,
+      "differences": []
+    },
+    {
+      "project": "backends/DotNet/runtime/Inno.Adapter.Modules.DotNet/Inno.Adapter.Modules.DotNet.csproj",
+      "name": "Inno.Adapter.Modules.DotNet",
+      "status": "Passed",
+      "symbols": 28,
+      "differences": []
+    },
+    {
+      "project": "backends/DotNet/runtime/Inno.Adapter.Serialization.DotNet/Inno.Adapter.Serialization.DotNet.csproj",
+      "name": "Inno.Adapter.Serialization.DotNet",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "backends/FileSystem/runtime/Inno.Adapter.Content.FileSystem/Inno.Adapter.Content.FileSystem.csproj",
+      "name": "Inno.Adapter.Content.FileSystem",
+      "status": "Passed",
+      "symbols": 16,
+      "differences": []
+    },
+    {
+      "project": "backends/FileSystem/runtime/Inno.Adapter.Storage.FileSystem/Inno.Adapter.Storage.FileSystem.csproj",
+      "name": "Inno.Adapter.Storage.FileSystem",
+      "status": "Passed",
+      "symbols": 12,
+      "differences": []
+    },
+    {
+      "project": "backends/ImGui/build/Inno.Build.Toolchains.ImGui/Inno.Build.Toolchains.ImGui.csproj",
+      "name": "Inno.Build.Toolchains.ImGui",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "backends/ImGui/build/Inno.Build.Toolchains.ImGuizmo/Inno.Build.Toolchains.ImGuizmo.csproj",
+      "name": "Inno.Build.Toolchains.ImGuizmo",
+      "status": "Passed",
+      "symbols": 5,
+      "differences": []
+    },
+    {
+      "project": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Bgfx/Inno.Adapter.Presentation.ImGui.Bgfx.csproj",
+      "name": "Inno.Adapter.Presentation.ImGui.Bgfx",
+      "status": "Passed",
+      "symbols": 25,
+      "differences": []
+    },
+    {
+      "project": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/Inno.Adapter.Presentation.ImGui.Sdl3.csproj",
+      "name": "Inno.Adapter.Presentation.ImGui.Sdl3",
+      "status": "Passed",
+      "symbols": 1462,
+      "differences": []
+    },
+    {
+      "project": "backends/MiniAudio/build/Inno.Build.Toolchains.MiniAudio/Inno.Build.Toolchains.MiniAudio.csproj",
+      "name": "Inno.Build.Toolchains.MiniAudio",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "backends/MiniAudio/runtime/Inno.Adapter.Audio.MiniAudio/Inno.Adapter.Audio.MiniAudio.csproj",
+      "name": "Inno.Adapter.Audio.MiniAudio",
+      "status": "Passed",
+      "symbols": 25,
+      "differences": []
+    },
+    {
+      "project": "backends/RmlUi/build/Inno.Build.Toolchains.UI/Inno.Build.Toolchains.UI.csproj",
+      "name": "Inno.Build.Toolchains.UI",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi.Authoring/Inno.Adapter.UI.RmlUi.Authoring.csproj",
+      "name": "Inno.Adapter.UI.RmlUi.Authoring",
+      "status": "Passed",
+      "symbols": 8,
+      "differences": []
+    },
+    {
+      "project": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi/Inno.Adapter.UI.RmlUi.csproj",
+      "name": "Inno.Adapter.UI.RmlUi",
+      "status": "Passed",
+      "symbols": 28,
+      "differences": []
+    },
+    {
+      "project": "backends/Sdl3/build/Inno.Build.Toolchains.Sdl3/Inno.Build.Toolchains.Sdl3.csproj",
+      "name": "Inno.Build.Toolchains.Sdl3",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "backends/Sdl3/runtime/Inno.Adapter.Platform.Sdl3/Inno.Adapter.Platform.Sdl3.csproj",
+      "name": "Inno.Adapter.Platform.Sdl3",
+      "status": "Passed",
+      "symbols": 45,
+      "differences": []
+    },
+    {
+      "project": "backends/Text/build/Inno.Build.Toolchains.Text/Inno.Build.Toolchains.Text.csproj",
+      "name": "Inno.Build.Toolchains.Text",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "backends/Text/runtime/Inno.Adapter.Text.FreeTypeHarfBuzz/Inno.Adapter.Text.FreeTypeHarfBuzz.csproj",
+      "name": "Inno.Adapter.Text.FreeTypeHarfBuzz",
+      "status": "Passed",
+      "symbols": 10,
+      "differences": []
+    },
+    {
+      "project": "build/bindings/Inno.Build.Bindings/Inno.Build.Bindings.csproj",
+      "name": "Inno.Build.Bindings",
+      "status": "Passed",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "build/cli/Inno.Build.Cli/Inno.Build.Cli.csproj",
+      "name": "Inno.Build.Cli",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "build/composition/Inno.Build.Composition/Inno.Build.Composition.csproj",
+      "name": "Inno.Build.Composition",
+      "status": "Passed",
+      "symbols": 55,
+      "differences": []
+    },
+    {
+      "project": "build/distributions/Inno.Build.Distribution.Standard/Inno.Build.Distribution.Standard.csproj",
+      "name": "Inno.Build.Distribution.Standard",
+      "status": "Passed",
+      "symbols": 12,
+      "differences": []
+    },
+    {
+      "project": "build/managed/Inno.Build.Managed/Inno.Build.Managed.csproj",
+      "name": "Inno.Build.Managed",
+      "status": "Passed",
+      "symbols": 41,
+      "differences": []
+    },
+    {
+      "project": "build/pipeline/Inno.Build/Inno.Build.csproj",
+      "name": "Inno.Build",
+      "status": "Passed",
+      "symbols": 148,
+      "differences": []
+    },
+    {
+      "project": "build/products/Inno.Build.Products.Standard/Inno.Build.Products.Standard.csproj",
+      "name": "Inno.Build.Products.Standard",
+      "status": "Passed",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "build/support/Inno.Build.SupportPacks.Core/Inno.Build.SupportPacks.Core.csproj",
+      "name": "Inno.Build.SupportPacks.Core",
+      "status": "Passed",
+      "symbols": 54,
+      "differences": []
+    },
+    {
+      "project": "build/tasks/Inno.Build.TaskHosting/Inno.Build.TaskHosting.csproj",
+      "name": "Inno.Build.TaskHosting",
+      "status": "Passed",
+      "symbols": 51,
+      "differences": []
+    },
+    {
+      "project": "build/tasks/Inno.Build.Tasks/Inno.Build.Tasks.csproj",
+      "name": "Inno.Build.Tasks",
+      "status": "Passed",
+      "symbols": 56,
+      "differences": []
+    },
+    {
+      "project": "build/toolchains/Inno.Build.Toolchains/Inno.Build.Toolchains.csproj",
+      "name": "Inno.Build.Toolchains",
+      "status": "Passed",
+      "symbols": 463,
+      "differences": []
+    },
+    {
+      "project": "entry/InnoEngine.Build/InnoEngine.Build.csproj",
+      "name": "InnoEngine.Build",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "entry/InnoEngine.Editor/InnoEngine.Editor.csproj",
+      "name": "InnoEngine.Editor",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/build/Inno.Build.BrowserWasm32/Inno.Build.BrowserWasm32.csproj",
+      "name": "Inno.Build.BrowserWasm32",
+      "status": "Passed",
+      "symbols": 30,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx.Runtime/Inno.Integration.BrowserWasm32.Bgfx.Runtime.csproj",
+      "name": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Bgfx/Inno.Integration.BrowserWasm32.Bgfx.csproj",
+      "name": "Inno.Integration.BrowserWasm32.Bgfx",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Build/Inno.Integration.BrowserWasm32.Build.csproj",
+      "name": "Inno.Integration.BrowserWasm32.Build",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/integrations/Inno.Integration.BrowserWasm32.Sdl3/Inno.Integration.BrowserWasm32.Sdl3.csproj",
+      "name": "Inno.Integration.BrowserWasm32.Sdl3",
+      "status": "Passed",
+      "symbols": 7,
+      "differences": []
+    },
+    {
+      "project": "platforms/BrowserWasm32/runtime/Inno.Adapter.Storage.BrowserWasm32/Inno.Adapter.Storage.BrowserWasm32.csproj",
+      "name": "Inno.Adapter.Storage.BrowserWasm32",
+      "status": "Passed",
+      "symbols": 10,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/build/Inno.Build.MacOSArm64/Inno.Build.MacOSArm64.csproj",
+      "name": "Inno.Build.MacOSArm64",
+      "status": "Passed",
+      "symbols": 27,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx.Runtime/Inno.Integration.MacOSArm64.Bgfx.Runtime.csproj",
+      "name": "Inno.Integration.MacOSArm64.Bgfx.Runtime",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Bgfx/Inno.Integration.MacOSArm64.Bgfx.csproj",
+      "name": "Inno.Integration.MacOSArm64.Bgfx",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Build/Inno.Integration.MacOSArm64.Build.csproj",
+      "name": "Inno.Integration.MacOSArm64.Build",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/integrations/Inno.Integration.MacOSArm64.Sdl3/Inno.Integration.MacOSArm64.Sdl3.csproj",
+      "name": "Inno.Integration.MacOSArm64.Sdl3",
+      "status": "Passed",
+      "symbols": 7,
+      "differences": []
+    },
+    {
+      "project": "platforms/MacOSArm64/runtime/Inno.Platform.MacOSArm64/Inno.Platform.MacOSArm64.csproj",
+      "name": "Inno.Platform.MacOSArm64",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/build/Inno.Build.WindowsX64/Inno.Build.WindowsX64.csproj",
+      "name": "Inno.Build.WindowsX64",
+      "status": "Passed",
+      "symbols": 24,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx.Runtime/Inno.Integration.WindowsX64.Bgfx.Runtime.csproj",
+      "name": "Inno.Integration.WindowsX64.Bgfx.Runtime",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Bgfx/Inno.Integration.WindowsX64.Bgfx.csproj",
+      "name": "Inno.Integration.WindowsX64.Bgfx",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Build/Inno.Integration.WindowsX64.Build.csproj",
+      "name": "Inno.Integration.WindowsX64.Build",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/integrations/Inno.Integration.WindowsX64.Sdl3/Inno.Integration.WindowsX64.Sdl3.csproj",
+      "name": "Inno.Integration.WindowsX64.Sdl3",
+      "status": "Passed",
+      "symbols": 7,
+      "differences": []
+    },
+    {
+      "project": "platforms/WindowsX64/runtime/Inno.Platform.WindowsX64/Inno.Platform.WindowsX64.csproj",
+      "name": "Inno.Platform.WindowsX64",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "platforms/Windows/build/Inno.Build.Windows.Host/Inno.Build.Windows.Host.csproj",
+      "name": "Inno.Build.Windows.Host",
+      "status": "Passed",
+      "symbols": 7,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/audio/Inno.Adapter.Audio/Inno.Adapter.Audio.csproj",
+      "name": "Inno.Adapter.Audio",
+      "status": "Passed",
+      "symbols": 25,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/common/Inno.Adapter/Inno.Adapter.csproj",
+      "name": "Inno.Adapter",
+      "status": "Passed",
+      "symbols": 17,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/input/Inno.Adapter.Input/Inno.Adapter.Input.csproj",
+      "name": "Inno.Adapter.Input",
+      "status": "Passed",
+      "symbols": 38,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/platform/Inno.Adapter.Platform/Inno.Adapter.Platform.csproj",
+      "name": "Inno.Adapter.Platform",
+      "status": "Passed",
+      "symbols": 49,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/presentation/Inno.Adapter.Presentation/Inno.Adapter.Presentation.csproj",
+      "name": "Inno.Adapter.Presentation",
+      "status": "Passed",
+      "symbols": 55,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/rendering/Inno.Adapter.Rendering.Authoring/Inno.Adapter.Rendering.Authoring.csproj",
+      "name": "Inno.Adapter.Rendering.Authoring",
+      "status": "Passed",
+      "symbols": 14,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/rendering/Inno.Adapter.Rendering/Inno.Adapter.Rendering.csproj",
+      "name": "Inno.Adapter.Rendering",
+      "status": "Passed",
+      "symbols": 32,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/storage/Inno.Adapter.Storage/Inno.Adapter.Storage.csproj",
+      "name": "Inno.Adapter.Storage",
+      "status": "Passed",
+      "symbols": 23,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/text/Inno.Adapter.Text/Inno.Adapter.Text.csproj",
+      "name": "Inno.Adapter.Text",
+      "status": "Passed",
+      "symbols": 22,
+      "differences": []
+    },
+    {
+      "project": "src/adapters/ui/Inno.Adapter.UI/Inno.Adapter.UI.csproj",
+      "name": "Inno.Adapter.UI",
+      "status": "Passed",
+      "symbols": 22,
+      "differences": []
+    },
+    {
+      "project": "src/composition/adapters/Inno.Adapter.Authoring.Default/Inno.Adapter.Authoring.Default.csproj",
+      "name": "Inno.Adapter.Authoring.Default",
+      "status": "Passed",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "src/composition/adapters/Inno.Adapter.Default/Inno.Adapter.Default.csproj",
+      "name": "Inno.Adapter.Default",
+      "status": "Passed",
+      "symbols": 16,
+      "differences": []
+    },
+    {
+      "project": "src/composition/default/Inno.Engine.Default/Inno.Engine.Default.csproj",
+      "name": "Inno.Engine.Default",
+      "status": "Passed",
+      "symbols": 13,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/contracts/Inno.Editor.Annotations/Inno.Editor.Annotations.csproj",
+      "name": "Inno.Editor.Annotations",
+      "status": "Passed",
+      "symbols": 61,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Assets/Inno.Editor.Assets.csproj",
+      "name": "Inno.Editor.Assets",
+      "status": "Passed",
+      "symbols": 130,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Audio/Inno.Editor.Audio.csproj",
+      "name": "Inno.Editor.Audio",
+      "status": "Passed",
+      "symbols": 12,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Exporting/Inno.Editor.Exporting.csproj",
+      "name": "Inno.Editor.Exporting",
+      "status": "Passed",
+      "symbols": 28,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.PlayMode/Inno.Editor.PlayMode.csproj",
+      "name": "Inno.Editor.PlayMode",
+      "status": "Passed",
+      "symbols": 32,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Rendering/Inno.Editor.Rendering.csproj",
+      "name": "Inno.Editor.Rendering",
+      "status": "Passed",
+      "symbols": 332,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Scene/Inno.Editor.Scene.csproj",
+      "name": "Inno.Editor.Scene",
+      "status": "Passed",
+      "symbols": 53,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Scripting/Inno.Editor.Scripting.csproj",
+      "name": "Inno.Editor.Scripting",
+      "status": "Passed",
+      "symbols": 40,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/features/Inno.Editor.Shaders/Inno.Editor.Shaders.csproj",
+      "name": "Inno.Editor.Shaders",
+      "status": "Passed",
+      "symbols": 42,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Core/Inno.Editor.Core.csproj",
+      "name": "Inno.Editor.Core",
+      "status": "Passed",
+      "symbols": 155,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Diagnostics/Inno.Editor.Diagnostics.csproj",
+      "name": "Inno.Editor.Diagnostics",
+      "status": "Passed",
+      "symbols": 44,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Graph/Inno.Editor.Graph.csproj",
+      "name": "Inno.Editor.Graph",
+      "status": "Passed",
+      "symbols": 46,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Inspection/Inno.Editor.Inspection.csproj",
+      "name": "Inno.Editor.Inspection",
+      "status": "Passed",
+      "symbols": 107,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Interactions/Inno.Editor.Interactions.csproj",
+      "name": "Inno.Editor.Interactions",
+      "status": "Passed",
+      "symbols": 556,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/framework/Inno.Editor.Settings/Inno.Editor.Settings.csproj",
+      "name": "Inno.Editor.Settings",
+      "status": "Passed",
+      "symbols": 79,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/hosting/Inno.Editor.Hosting/Inno.Editor.Hosting.csproj",
+      "name": "Inno.Editor.Hosting",
+      "status": "Passed",
+      "symbols": 25,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.FileBrowser/Inno.Editor.Panel.FileBrowser.csproj",
+      "name": "Inno.Editor.Panel.FileBrowser",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.GameView/Inno.Editor.Panel.GameView.csproj",
+      "name": "Inno.Editor.Panel.GameView",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.Hierarchy/Inno.Editor.Panel.Hierarchy.csproj",
+      "name": "Inno.Editor.Panel.Hierarchy",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.Inspector/Inno.Editor.Panel.Inspector.csproj",
+      "name": "Inno.Editor.Panel.Inspector",
+      "status": "Passed",
+      "symbols": 8,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.Logging/Inno.Editor.Panel.Logging.csproj",
+      "name": "Inno.Editor.Panel.Logging",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.SceneView/Inno.Editor.Panel.SceneView.csproj",
+      "name": "Inno.Editor.Panel.SceneView",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.Settings/Inno.Editor.Panel.Settings.csproj",
+      "name": "Inno.Editor.Panel.Settings",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.ShaderEditor/Inno.Editor.Panel.ShaderEditor.csproj",
+      "name": "Inno.Editor.Panel.ShaderEditor",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/panels/Inno.Editor.Panel.Stats/Inno.Editor.Panel.Stats.csproj",
+      "name": "Inno.Editor.Panel.Stats",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/presentation/Inno.Editor.Assets.ImGui/Inno.Editor.Assets.ImGui.csproj",
+      "name": "Inno.Editor.Assets.ImGui",
+      "status": "Passed",
+      "symbols": 59,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/presentation/Inno.Editor.Graph.ImGui/Inno.Editor.Graph.ImGui.csproj",
+      "name": "Inno.Editor.Graph.ImGui",
+      "status": "Passed",
+      "symbols": 65,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/presentation/Inno.Editor.ImGui/Inno.Editor.ImGui.csproj",
+      "name": "Inno.Editor.ImGui",
+      "status": "Passed",
+      "symbols": 1242,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/presentation/Inno.Editor.Shaders.ImGui/Inno.Editor.Shaders.ImGui.csproj",
+      "name": "Inno.Editor.Shaders.ImGui",
+      "status": "Passed",
+      "symbols": 45,
+      "differences": []
+    },
+    {
+      "project": "src/composition/editor/presentation/Inno.Editor.Workbench/Inno.Editor.Workbench.csproj",
+      "name": "Inno.Editor.Workbench",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/composition/player/Inno.Player.Runtime/Inno.Player.Runtime.csproj",
+      "name": "Inno.Player.Runtime",
+      "status": "Passed",
+      "symbols": 38,
+      "differences": []
+    },
+    {
+      "project": "src/composition/shell/Inno.Shell/Inno.Shell.csproj",
+      "name": "Inno.Shell",
+      "status": "Passed",
+      "symbols": 66,
+      "differences": []
+    },
+    {
+      "project": "src/content/animation/Inno.Animation.Assets/Inno.Animation.Assets.csproj",
+      "name": "Inno.Animation.Assets",
+      "status": "Passed",
+      "symbols": 5,
+      "differences": []
+    },
+    {
+      "project": "src/content/animation/Inno.Animation.Runtime/Inno.Animation.Runtime.csproj",
+      "name": "Inno.Animation.Runtime",
+      "status": "Passed",
+      "symbols": 23,
+      "differences": []
+    },
+    {
+      "project": "src/content/animation/Inno.Animation/Inno.Animation.csproj",
+      "name": "Inno.Animation",
+      "status": "Passed",
+      "symbols": 134,
+      "differences": []
+    },
+    {
+      "project": "src/content/assets/Inno.Assets.Pipeline/Inno.Assets.Pipeline.csproj",
+      "name": "Inno.Assets.Pipeline",
+      "status": "Passed",
+      "symbols": 333,
+      "differences": []
+    },
+    {
+      "project": "src/content/assets/Inno.Assets/Inno.Assets.csproj",
+      "name": "Inno.Assets",
+      "status": "Passed",
+      "symbols": 251,
+      "differences": []
+    },
+    {
+      "project": "src/content/deployment/Inno.Content/Inno.Content.csproj",
+      "name": "Inno.Content",
+      "status": "Passed",
+      "symbols": 62,
+      "differences": []
+    },
+    {
+      "project": "src/content/references/Inno.References/Inno.References.csproj",
+      "name": "Inno.References",
+      "status": "Passed",
+      "symbols": 75,
+      "differences": []
+    },
+    {
+      "project": "src/content/scene/Inno.Scene.Assets/Inno.Scene.Assets.csproj",
+      "name": "Inno.Scene.Assets",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "src/content/scene/Inno.Scene/Inno.Scene.csproj",
+      "name": "Inno.Scene",
+      "status": "Passed",
+      "symbols": 310,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Collections/Inno.Core.Collections.csproj",
+      "name": "Inno.Core.Collections",
+      "status": "Passed",
+      "symbols": 70,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Coroutines/Inno.Core.Coroutines.csproj",
+      "name": "Inno.Core.Coroutines",
+      "status": "Passed",
+      "symbols": 28,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Diagnostics/Inno.Core.Diagnostics.csproj",
+      "name": "Inno.Core.Diagnostics",
+      "status": "Passed",
+      "symbols": 67,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Events/Inno.Core.Events.csproj",
+      "name": "Inno.Core.Events",
+      "status": "Passed",
+      "symbols": 79,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Execution/Inno.Core.Execution.csproj",
+      "name": "Inno.Core.Execution",
+      "status": "Passed",
+      "symbols": 31,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Graphs/Inno.Core.Graphs.csproj",
+      "name": "Inno.Core.Graphs",
+      "status": "Passed",
+      "symbols": 122,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.IO/Inno.Core.IO.csproj",
+      "name": "Inno.Core.IO",
+      "status": "Passed",
+      "symbols": 90,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj",
+      "name": "Inno.Core.Identity",
+      "status": "Passed",
+      "symbols": 42,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Input/Inno.Core.Input.csproj",
+      "name": "Inno.Core.Input",
+      "status": "Passed",
+      "symbols": 120,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Jobs/Inno.Core.Jobs.csproj",
+      "name": "Inno.Core.Jobs",
+      "status": "Passed",
+      "symbols": 39,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Layers/Inno.Core.Layers.csproj",
+      "name": "Inno.Core.Layers",
+      "status": "Passed",
+      "symbols": 28,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Logging/Inno.Core.Logging.csproj",
+      "name": "Inno.Core.Logging",
+      "status": "Passed",
+      "symbols": 74,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Mathematics/Inno.Core.Mathematics.csproj",
+      "name": "Inno.Core.Mathematics",
+      "status": "Passed",
+      "symbols": 394,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Serialization.Generators/Inno.Core.Serialization.Generators.csproj",
+      "name": "Inno.Core.Serialization.Generators",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Serialization/Inno.Core.Serialization.csproj",
+      "name": "Inno.Core.Serialization",
+      "status": "Passed",
+      "symbols": 153,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/core/Inno.Core.Settings/Inno.Core.Settings.csproj",
+      "name": "Inno.Core.Settings",
+      "status": "Passed",
+      "symbols": 157,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/extensibility/Inno.Extensibility.Catalogs/Inno.Extensibility.Catalogs.csproj",
+      "name": "Inno.Extensibility.Catalogs",
+      "status": "Passed",
+      "symbols": 12,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/extensibility/Inno.Extensibility.Modules/Inno.Extensibility.Modules.csproj",
+      "name": "Inno.Extensibility.Modules",
+      "status": "Passed",
+      "symbols": 128,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/extensibility/Inno.Extensibility.Reload/Inno.Extensibility.Reload.csproj",
+      "name": "Inno.Extensibility.Reload",
+      "status": "Passed",
+      "symbols": 53,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/extensibility/Inno.Extensibility.Types/Inno.Extensibility.Types.csproj",
+      "name": "Inno.Extensibility.Types",
+      "status": "Passed",
+      "symbols": 75,
+      "differences": []
+    },
+    {
+      "project": "src/foundation/scripting/Inno.Scripting.Api/Inno.Scripting.Api.csproj",
+      "name": "Inno.Scripting.Api",
+      "status": "Passed",
+      "symbols": 20,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/contracts/Inno.Runtime.Contracts/Inno.Runtime.Contracts.csproj",
+      "name": "Inno.Runtime.Contracts",
+      "status": "Passed",
+      "symbols": 115,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/engine/Inno.Runtime/Inno.Runtime.csproj",
+      "name": "Inno.Runtime",
+      "status": "Passed",
+      "symbols": 186,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/generators/Inno.Runtime.Generators/Inno.Runtime.Generators.csproj",
+      "name": "Inno.Runtime.Generators",
+      "status": "Passed",
+      "symbols": 9,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/plugins/Inno.Plugins.Authoring/Inno.Plugins.Authoring.csproj",
+      "name": "Inno.Plugins.Authoring",
+      "status": "Passed",
+      "symbols": 52,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/plugins/Inno.Plugins/Inno.Plugins.csproj",
+      "name": "Inno.Plugins",
+      "status": "Passed",
+      "symbols": 10,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/scripting/Inno.Scripting.Compiler/Inno.Scripting.Compiler.csproj",
+      "name": "Inno.Scripting.Compiler",
+      "status": "Passed",
+      "symbols": 98,
+      "differences": []
+    },
+    {
+      "project": "src/runtime/scripting/Inno.Scripting.Reload/Inno.Scripting.Reload.csproj",
+      "name": "Inno.Scripting.Reload",
+      "status": "Passed",
+      "symbols": 44,
+      "differences": []
+    },
+    {
+      "project": "src/services/audio/Inno.Audio.Assets/Inno.Audio.Assets.csproj",
+      "name": "Inno.Audio.Assets",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "src/services/audio/Inno.Audio.Runtime/Inno.Audio.Runtime.csproj",
+      "name": "Inno.Audio.Runtime",
+      "status": "Passed",
+      "symbols": 61,
+      "differences": []
+    },
+    {
+      "project": "src/services/audio/Inno.Audio/Inno.Audio.csproj",
+      "name": "Inno.Audio",
+      "status": "Passed",
+      "symbols": 483,
+      "differences": []
+    },
+    {
+      "project": "src/services/input/Inno.Input.Runtime/Inno.Input.Runtime.csproj",
+      "name": "Inno.Input.Runtime",
+      "status": "Passed",
+      "symbols": 9,
+      "differences": []
+    },
+    {
+      "project": "src/services/input/Inno.Input/Inno.Input.csproj",
+      "name": "Inno.Input",
+      "status": "Passed",
+      "symbols": 38,
+      "differences": []
+    },
+    {
+      "project": "src/services/platform/Inno.Platform/Inno.Platform.csproj",
+      "name": "Inno.Platform",
+      "status": "Passed",
+      "symbols": 27,
+      "differences": []
+    },
+    {
+      "project": "src/services/rendering/Inno.Rendering.Assets.Authoring/Inno.Rendering.Assets.Authoring.csproj",
+      "name": "Inno.Rendering.Assets.Authoring",
+      "status": "Passed",
+      "symbols": 120,
+      "differences": []
+    },
+    {
+      "project": "src/services/rendering/Inno.Rendering.Assets/Inno.Rendering.Assets.csproj",
+      "name": "Inno.Rendering.Assets",
+      "status": "Passed",
+      "symbols": 310,
+      "differences": []
+    },
+    {
+      "project": "src/services/rendering/Inno.Rendering.Runtime/Inno.Rendering.Runtime.csproj",
+      "name": "Inno.Rendering.Runtime",
+      "status": "Passed",
+      "symbols": 351,
+      "differences": []
+    },
+    {
+      "project": "src/services/rendering/Inno.Rendering.Shaders/Inno.Rendering.Shaders.csproj",
+      "name": "Inno.Rendering.Shaders",
+      "status": "Passed",
+      "symbols": 540,
+      "differences": []
+    },
+    {
+      "project": "src/services/rendering/Inno.Rendering/Inno.Rendering.csproj",
+      "name": "Inno.Rendering",
+      "status": "Passed",
+      "symbols": 863,
+      "differences": []
+    },
+    {
+      "project": "src/services/storage/Inno.Storage.Runtime/Inno.Storage.Runtime.csproj",
+      "name": "Inno.Storage.Runtime",
+      "status": "Passed",
+      "symbols": 16,
+      "differences": []
+    },
+    {
+      "project": "src/services/storage/Inno.Storage/Inno.Storage.csproj",
+      "name": "Inno.Storage",
+      "status": "Passed",
+      "symbols": 35,
+      "differences": []
+    },
+    {
+      "project": "src/services/text/Inno.Text.Assets/Inno.Text.Assets.csproj",
+      "name": "Inno.Text.Assets",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "src/services/text/Inno.Text.Runtime/Inno.Text.Runtime.csproj",
+      "name": "Inno.Text.Runtime",
+      "status": "Passed",
+      "symbols": 11,
+      "differences": []
+    },
+    {
+      "project": "src/services/text/Inno.Text/Inno.Text.csproj",
+      "name": "Inno.Text",
+      "status": "Passed",
+      "symbols": 122,
+      "differences": []
+    },
+    {
+      "project": "src/services/ui/Inno.UI.Assets/Inno.UI.Assets.csproj",
+      "name": "Inno.UI.Assets",
+      "status": "Passed",
+      "symbols": 67,
+      "differences": []
+    },
+    {
+      "project": "src/services/ui/Inno.UI.Runtime/Inno.UI.Runtime.csproj",
+      "name": "Inno.UI.Runtime",
+      "status": "Passed",
+      "symbols": 27,
+      "differences": []
+    },
+    {
+      "project": "src/services/ui/Inno.UI/Inno.UI.csproj",
+      "name": "Inno.UI",
+      "status": "Passed",
+      "symbols": 278,
+      "differences": []
+    },
+    {
+      "project": "tests/assets/fixtures/Inno.Assets.Pipeline.DuplicateImporterFixture/Inno.Assets.Pipeline.DuplicateImporterFixture.csproj",
+      "name": "Inno.Assets.Pipeline.DuplicateImporterFixture",
+      "status": "Passed",
+      "symbols": 10,
+      "differences": []
+    },
+    {
+      "project": "tests/content/fixtures/Inno.Content.CacheProbe/Inno.Content.CacheProbe.csproj",
+      "name": "Inno.Content.CacheProbe",
+      "status": "Passed",
+      "symbols": 0,
+      "differences": []
+    },
+    {
+      "project": "tests/content/fixtures/Inno.Content.Testing/Inno.Content.Testing.csproj",
+      "name": "Inno.Content.Testing",
+      "status": "Passed",
+      "symbols": 8,
+      "differences": []
+    },
+    {
+      "project": "tests/editor/fixtures/Inno.Testing.Editor.Native/Inno.Testing.Editor.Native.csproj",
+      "name": "Inno.Testing.Editor.Native",
+      "status": "Passed",
+      "symbols": 37,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestDependency/Inno.Extensibility.Modules.TestDependency.csproj",
+      "name": "Inno.Extensibility.Modules.TestDependency",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.Invalid/Inno.Extensibility.Modules.TestModule.Invalid.csproj",
+      "name": "Inno.Extensibility.Modules.TestModule.Invalid",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V1/Inno.Extensibility.Modules.TestModule.V1.csproj",
+      "name": "Inno.Extensibility.Modules.TestModule.V1",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V2/Inno.Extensibility.Modules.TestModule.V2.csproj",
+      "name": "Inno.Extensibility.Modules.TestModule.V2",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyA/Inno.Extensibility.Types.TestAssemblyA.csproj",
+      "name": "Inno.Extensibility.Types.TestAssemblyA",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyB/Inno.Extensibility.Types.TestAssemblyB.csproj",
+      "name": "Inno.Extensibility.Types.TestAssemblyB",
+      "status": "Passed",
+      "symbols": 4,
+      "differences": []
+    },
+    {
+      "project": "tests/process/Inno.Testing.Processes/Inno.Testing.Processes.csproj",
+      "name": "Inno.Testing.Processes",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    },
+    {
+      "project": "tests/rendering/fixtures/Inno.Rendering.Runtime.Reload.TestModule/Inno.Rendering.Runtime.Reload.TestModule.csproj",
+      "name": "Inno.Rendering.Runtime.Reload.TestModule",
+      "status": "Passed",
+      "symbols": 6,
+      "differences": []
+    },
+    {
+      "project": "tests/scene/fixtures/Inno.Scene.Reload.TestModule/Inno.Scene.Reload.TestModule.csproj",
+      "name": "Inno.Scene.Reload.TestModule",
+      "status": "Passed",
+      "symbols": 8,
+      "differences": []
+    },
+    {
+      "project": "tests/source/Inno.Testing.Source/Inno.Testing.Source.csproj",
+      "name": "Inno.Testing.Source",
+      "status": "Passed",
+      "symbols": 3,
+      "differences": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
+      "name": "Inno.Tooling.Architecture",
+      "status": "Failed",
+      "symbols": 11,
+      "differences": [
+        "Missing current declaration: M:Inno.Tooling.Architecture.DocumentationReferences.ValidateApi(System.String[],System.Threading.CancellationToken)"
+      ]
+    },
+    {
+      "project": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
+      "name": "Inno.Tooling.Documentation",
+      "status": "Passed",
+      "symbols": 155,
+      "differences": []
+    },
+    {
+      "project": "tools/Inno.Tooling.Validation/Inno.Tooling.Validation.csproj",
+      "name": "Inno.Tooling.Validation",
+      "status": "Passed",
+      "symbols": 2,
+      "differences": []
+    }
+  ]
+}

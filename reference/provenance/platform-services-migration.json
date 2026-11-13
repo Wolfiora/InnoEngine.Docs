@@ -1,0 +1,279 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Browser storage takes StorageScope, not a filesystem root string. The stale narrative constructor was replaced by the actual source contract.",
+    "Browser runtime integration does not imply a Browser Editor product.",
+    "Platform declarations and example compilation do not establish native or device certification."
+  ],
+  "reviews": [
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Build.BrowserWasm32.md",
+      "sourceSha256": "356a4d3585fb7130f8455f9c25af9388000f49ed147ba5cadd0de54d4d2932e9",
+      "sourceBlobSha256": "356a4d3585fb7130f8455f9c25af9388000f49ed147ba5cadd0de54d4d2932e9",
+      "destinations": [
+        "content/en/api/projects/inno-build-browserwasm32.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 30,
+      "capturedSymbols": 30,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Integration.BrowserWasm32.Bgfx.Runtime.md",
+      "sourceSha256": "acfb8c68a806c58f67492c99d9369f4cf2b5bb4b37585b5dce27c1a9f9dd30dd",
+      "sourceBlobSha256": "acfb8c68a806c58f67492c99d9369f4cf2b5bb4b37585b5dce27c1a9f9dd30dd",
+      "destinations": [
+        "content/en/api/projects/inno-integration-browserwasm32-bgfx-runtime.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Integration.BrowserWasm32.Bgfx.md",
+      "sourceSha256": "1e040711749f6e57121a650c66364090139e5185d6eb00e43c1315fdfb3368b3",
+      "sourceBlobSha256": "1e040711749f6e57121a650c66364090139e5185d6eb00e43c1315fdfb3368b3",
+      "destinations": [
+        "content/en/api/projects/inno-integration-browserwasm32-bgfx.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 6,
+      "capturedSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Integration.BrowserWasm32.Build.md",
+      "sourceSha256": "2486fdc23d9a4a8f810a2a603c2322c185f06669246f57c898a56aa627d28cd6",
+      "sourceBlobSha256": "2486fdc23d9a4a8f810a2a603c2322c185f06669246f57c898a56aa627d28cd6",
+      "destinations": [
+        "content/en/api/projects/inno-integration-browserwasm32-build.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Integration.BrowserWasm32.Sdl3.md",
+      "sourceSha256": "0923d9c0e99da2df0b0b6b156605ca24bfdd40d11fe94e744f27c6518f861010",
+      "sourceBlobSha256": "0923d9c0e99da2df0b0b6b156605ca24bfdd40d11fe94e744f27c6518f861010",
+      "destinations": [
+        "content/en/api/projects/inno-integration-browserwasm32-sdl3.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 7,
+      "capturedSymbols": 7,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/BrowserWasm32/Inno.Adapter.Storage.BrowserWasm32.md",
+      "sourceSha256": "0425abaa3633d1ccff8d8a490da187b80ef8f2d72a34f576e4d4686f52587d68",
+      "sourceBlobSha256": "0425abaa3633d1ccff8d8a490da187b80ef8f2d72a34f576e4d4686f52587d68",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-storage-browserwasm32.md",
+        "content/en/platforms/application-data.md"
+      ],
+      "baselineSymbols": 10,
+      "capturedSymbols": 10,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Build.MacOSArm64.md",
+      "sourceSha256": "1a6a9ade1d9df551a55b4d40ff8d3e55129b5865a34bb0a3eb0d288f379755cc",
+      "sourceBlobSha256": "06e094d5a1d01a8958fb5b901d0e894e29000f11d4d11a96247746f1dafe66b4",
+      "destinations": [
+        "content/en/api/projects/inno-build-macosarm64.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 27,
+      "capturedSymbols": 27,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Integration.MacOSArm64.Bgfx.Runtime.md",
+      "sourceSha256": "f1d8d9ce2c6f4e569454ada7d3d472cdc43d290ea89af4b977d6a52ece24dfcc",
+      "sourceBlobSha256": "f1d8d9ce2c6f4e569454ada7d3d472cdc43d290ea89af4b977d6a52ece24dfcc",
+      "destinations": [
+        "content/en/api/projects/inno-integration-macosarm64-bgfx-runtime.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Integration.MacOSArm64.Bgfx.md",
+      "sourceSha256": "e0eb78bdfc02a5128d8ff0a88ed9ca011e1d84c769c636d745eab52d65db2963",
+      "sourceBlobSha256": "e0eb78bdfc02a5128d8ff0a88ed9ca011e1d84c769c636d745eab52d65db2963",
+      "destinations": [
+        "content/en/api/projects/inno-integration-macosarm64-bgfx.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 6,
+      "capturedSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Integration.MacOSArm64.Build.md",
+      "sourceSha256": "6fa218b3e56943f114e84a4dec4cf63d8c4a1fa163fc3926a01c86027635724a",
+      "sourceBlobSha256": "6fa218b3e56943f114e84a4dec4cf63d8c4a1fa163fc3926a01c86027635724a",
+      "destinations": [
+        "content/en/api/projects/inno-integration-macosarm64-build.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Integration.MacOSArm64.Sdl3.md",
+      "sourceSha256": "8c76f1aa7b018b602499b4b8435c866bcc3fbe10eeb703f8f9b7a54ebc888d9e",
+      "sourceBlobSha256": "8c76f1aa7b018b602499b4b8435c866bcc3fbe10eeb703f8f9b7a54ebc888d9e",
+      "destinations": [
+        "content/en/api/projects/inno-integration-macosarm64-sdl3.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 7,
+      "capturedSymbols": 7,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/MacOSArm64/Inno.Platform.MacOSArm64.md",
+      "sourceSha256": "68e0913a3f3d8dcd745e6bfc7c835001b2495b5572066b9665128dad88303810",
+      "sourceBlobSha256": "68e0913a3f3d8dcd745e6bfc7c835001b2495b5572066b9665128dad88303810",
+      "destinations": [
+        "content/en/api/projects/inno-platform-macosarm64.md",
+        "content/en/platforms/application-data.md"
+      ],
+      "baselineSymbols": 3,
+      "capturedSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Build.WindowsX64.md",
+      "sourceSha256": "5d5d06fc8613010e311746b06b54572155fbb32bde8b5681bee1754cfdab3e39",
+      "sourceBlobSha256": "5d5d06fc8613010e311746b06b54572155fbb32bde8b5681bee1754cfdab3e39",
+      "destinations": [
+        "content/en/api/projects/inno-build-windowsx64.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 24,
+      "capturedSymbols": 24,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Integration.WindowsX64.Bgfx.Runtime.md",
+      "sourceSha256": "985ae00aebb95be3374b5fde6559d8b437f288b7bfb67d3ca39426ba9d8ce3da",
+      "sourceBlobSha256": "985ae00aebb95be3374b5fde6559d8b437f288b7bfb67d3ca39426ba9d8ce3da",
+      "destinations": [
+        "content/en/api/projects/inno-integration-windowsx64-bgfx-runtime.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 4,
+      "capturedSymbols": 4,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Integration.WindowsX64.Bgfx.md",
+      "sourceSha256": "081aad8242b38e18b74b84f31b880166238dd1f7be24430e77f12d6259b04130",
+      "sourceBlobSha256": "081aad8242b38e18b74b84f31b880166238dd1f7be24430e77f12d6259b04130",
+      "destinations": [
+        "content/en/api/projects/inno-integration-windowsx64-bgfx.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 6,
+      "capturedSymbols": 6,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Integration.WindowsX64.Build.md",
+      "sourceSha256": "dbea52cdc120b9cd1d5191903d3f5cc375d2c0700375c98c5da193ee1192dffb",
+      "sourceBlobSha256": "dbea52cdc120b9cd1d5191903d3f5cc375d2c0700375c98c5da193ee1192dffb",
+      "destinations": [
+        "content/en/api/projects/inno-integration-windowsx64-build.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Integration.WindowsX64.Sdl3.md",
+      "sourceSha256": "299bff1a019e48976fe6ee745385b0682ee86c43b8e85ba65c4fac43dce0d53f",
+      "sourceBlobSha256": "299bff1a019e48976fe6ee745385b0682ee86c43b8e85ba65c4fac43dce0d53f",
+      "destinations": [
+        "content/en/api/projects/inno-integration-windowsx64-sdl3.md",
+        "content/en/platforms/window-lifetime.md"
+      ],
+      "baselineSymbols": 7,
+      "capturedSymbols": 7,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/WindowsX64/Inno.Platform.WindowsX64.md",
+      "sourceSha256": "1c722240b489488cf2fd6feec4969e4d4351fe262980141d74326c157596f722",
+      "sourceBlobSha256": "1c722240b489488cf2fd6feec4969e4d4351fe262980141d74326c157596f722",
+      "destinations": [
+        "content/en/api/projects/inno-platform-windowsx64.md",
+        "content/en/platforms/application-data.md"
+      ],
+      "baselineSymbols": 3,
+      "capturedSymbols": 3,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    },
+    {
+      "source": "docs/platform/Windows/Inno.Build.Windows.Host.md",
+      "sourceSha256": "86011cb7db24b1132c0e155acbeda7cbe2c52e47b2093b3843bd4e1b51a0c9d8",
+      "sourceBlobSha256": "86011cb7db24b1132c0e155acbeda7cbe2c52e47b2093b3843bd4e1b51a0c9d8",
+      "destinations": [
+        "content/en/api/projects/inno-build-windows-host.md",
+        "content/en/platforms/select-target.md"
+      ],
+      "baselineSymbols": 7,
+      "capturedSymbols": 7,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewed"
+    }
+  ]
+}

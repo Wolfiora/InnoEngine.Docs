@@ -1,0 +1,41 @@
+{
+  "project": "Inno.Build.Managed",
+  "outputDirectory": "content/en/api/types/build-composition/inno-build-managed",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-composition.json",
+  "factsIdentity": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
+  "sharedContract": "project.inno-build-managed",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/imanageddeploymentcompiler.md",
+      "sha256": "dd642da14b3682194a09469106371df37673b461690c081184d48211eacfc5c3"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/manageddeploymentcapabilities.md",
+      "sha256": "0943170da6996098793807eda0486e117db152bed785a35742a77686f5e63216"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/manageddeploymentcatalog.md",
+      "sha256": "4c580ed0aacf601f56983c585783680e36f9ffba47ed2ad168433216af94a021"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/manageddeploymentid.md",
+      "sha256": "5ad42992ace8b980b1999707ac6c339377ea2b64ab1deb4f6be79a5c8b5f1449"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/manageddeploymentrequest.md",
+      "sha256": "eb1400fb3affa952f5b9545c07be5b5b39dbf6601ea63bf8ac6944307c8f048d"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/manageddeploymentresult.md",
+      "sha256": "2df6bc104650d9a7cc70453e84e5177fe534129a9080940ae9e0f48a02c7f792"
+    },
+    {
+      "path": "content/en/api/types/build-composition/inno-build-managed/index.md",
+      "sha256": "fdbc10a6837bc49192f0e802e381040ba1d4e4ca89b28bc89242bd04962f285d"
+    }
+  ]
+}

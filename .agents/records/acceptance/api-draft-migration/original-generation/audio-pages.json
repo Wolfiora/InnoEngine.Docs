@@ -1,0 +1,234 @@
+{
+  "project": "Inno.Audio",
+  "outputDirectory": "content/en/api/types/audio",
+  "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
+  "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
+  "facts": "reference/api/audio.json",
+  "factsIdentity": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
+  "sharedContract": "project.inno-audio#playback-and-device-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/audio/audio.md",
+      "sha256": "17cf1582763901e67a13f1716e0d3676cc69526ed23aa0f9e445dc9b50eb0da3"
+    },
+    {
+      "path": "content/en/api/types/audio/audiobusdefinition.md",
+      "sha256": "4815cf76725122bd027ca0207a9e643507dcc29d1c0262783b553f72bd653f72"
+    },
+    {
+      "path": "content/en/api/types/audio/audiobushandle.md",
+      "sha256": "925512ef1c109fd7e61ad8ef811ca1640ff3297b215026ede331a658532ffffa"
+    },
+    {
+      "path": "content/en/api/types/audio/audiobusid.md",
+      "sha256": "0e8c2539a3a4d00eb5b23229ae33022f8a71c35d95772ced12a871ca2caaad59"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocapabilities.md",
+      "sha256": "a0ba22dc65eda0035c1d6fe8fd25c2991e34cfb0f061166df091116a265be0f8"
+    },
+    {
+      "path": "content/en/api/types/audio/audioclipasset.md",
+      "sha256": "47903eacf83087478757cf5a522c9eb6b420d95727ee071c1d2342e613794323"
+    },
+    {
+      "path": "content/en/api/types/audio/audioclipdescriptor.md",
+      "sha256": "ac5a9ac4ce80a5f824be80c5e6733a14a78e430832fef137fa931650a9069564"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocliphandle.md",
+      "sha256": "7bf824e6b976cb5493a20bcc800332a7fc2927d8cba29d34918f06962ae673c6"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocliploadmode.md",
+      "sha256": "41ce85f4d0d3371494bff15482697acbe10b855840f882695da9239dcd2dc12f"
+    },
+    {
+      "path": "content/en/api/types/audio/audioclipmetadata.md",
+      "sha256": "73f4597a0f0729b72cc502d81013d76840da7cedf73d4766bce6537bbf6546a3"
+    },
+    {
+      "path": "content/en/api/types/audio/audioclipmetadatacodec.md",
+      "sha256": "5c7e7d552b4a90875e4eb92e0788dcac668c2e7008e65a1996a31b4bc5f3f947"
+    },
+    {
+      "path": "content/en/api/types/audio/audioclipstate.md",
+      "sha256": "4f85948054a78b303faa23a9d03028aabe88bdc6640b3ec7fdf02d78f2f98dd1"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocodecid.md",
+      "sha256": "1f6736cdf162316a01b917a2e1b91f25a6a0f28df687376e6943094f7ff411ee"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocompletionreason.md",
+      "sha256": "6f60894f9cc634175a958b998a23589acccdefa3d4a0b162af2c13e14258f6e5"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocontentprovider.md",
+      "sha256": "3f7c89618e8098b8efb5fcdbc2323bc4ef05db83a624364cc03737c319a81ae2"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocontentprovidercontext.md",
+      "sha256": "ec54cb560b3c40b7ccbf755858d2931748fbf9632eaa4717f4e4654af566d761"
+    },
+    {
+      "path": "content/en/api/types/audio/audiocontentproviderextensionattribute.md",
+      "sha256": "c603e64de54c2558977b655abeaf3a1ff41b4d1a12c4ebe1167a7206cf659a68"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevice.md",
+      "sha256": "84ce477d5b9aeaf4f9eb863e303aa31d1138a664d8ba9943029c4e5cd1e72f34"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevice.devicehandleidentity.md",
+      "sha256": "98e5a34f2571be58b8d057a00a605997421c87462b2bc9fdb8811dc19c430ad8"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevicecompletion.md",
+      "sha256": "62d518832c04a7808c613f6dfd6e1e5677636782efa0d38c7eba37220251c923"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevicelimits.md",
+      "sha256": "c2ded337f50be7224998ef4df2e4ca1ad39782c4301c518b130f92e31af8c496"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevicestate.md",
+      "sha256": "0e875004d509ff48df7cb13e58daa17d52efbe4efbcfe01e6e317502c9bfaaa5"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodevicevoicehandle.md",
+      "sha256": "792ee29b460e41d913cd1b8ebed92441f8d866b735a6f94018fe034241358b81"
+    },
+    {
+      "path": "content/en/api/types/audio/audiodistancemodel.md",
+      "sha256": "49a04fbd6ac3e61928470ed3bfa24746a3950b5f29649f243c12f04689e8469e"
+    },
+    {
+      "path": "content/en/api/types/audio/audioemittersnapshot.md",
+      "sha256": "13f4506f99b90b10b8f024428af46338436474dc75b3ff794e25ee1dfdd639cf"
+    },
+    {
+      "path": "content/en/api/types/audio/audioexecutioncontext.md",
+      "sha256": "456f67d561a2f4a4f8e328791020cc3fabb2e03dcad131f32969bd462af9697c"
+    },
+    {
+      "path": "content/en/api/types/audio/audiolistenerhandle.md",
+      "sha256": "aa50230f2f733c15367ed2f1f2e51029f3e0d14aa040bc5f4ba9323e3d6fd9e2"
+    },
+    {
+      "path": "content/en/api/types/audio/audiolistenersnapshot.md",
+      "sha256": "53de8d5e877e3d0ab2d01ef4ad3789047657f4330e1c06482319192f1666b050"
+    },
+    {
+      "path": "content/en/api/types/audio/audiolistenerstate.md",
+      "sha256": "42e51602158c2710ff562207a0a87e8225ecfa67dbf1be6ad4e12b9bc6776711"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixer.md",
+      "sha256": "b122a779eeea2cbecc0ab97fdda6508ad0438abe0980eea4085790084059678a"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerasset.md",
+      "sha256": "8dd71da09953f2ae3152e25f992a189553b40f69da4d35cc4dba2a1ebd2dff4c"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerbuilder.md",
+      "sha256": "b1e4b9a558cb91c4fd0149e00376c6b70436be71711d7386503a67ee5d1ebe4a"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerextension.md",
+      "sha256": "5e40c59cd272a7d5fa76845c5fddd6dc65a974d5b3ab07248e985a6543ed28ef"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerextensionattribute.md",
+      "sha256": "7027ce3a17e9791f371d6a3e6e1d23adc92c1fb6d90d9c9e974df3d87a3ed0d0"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerfeature.md",
+      "sha256": "48c5c2b08fb41880d6545a670898ba7c89d6a76fa6c70fbefcac1bef267d220e"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerfeatureconfiguration.md",
+      "sha256": "00f85cf64dc3ec855df14f7f7a220d83ed837e9457b75ec81c1412dfe560b899"
+    },
+    {
+      "path": "content/en/api/types/audio/audiomixerfeatureextensionattribute.md",
+      "sha256": "d7e603d2e5409e3d5e92b2734a1286110afd03f3f0be99c86fe021ec48803fbf"
+    },
+    {
+      "path": "content/en/api/types/audio/audioparameterid.md",
+      "sha256": "3d292e1ef38654ac76e005f190fddc51b4577296cf4c9a42e828c0e63eb88879"
+    },
+    {
+      "path": "content/en/api/types/audio/audioplaybackstate.md",
+      "sha256": "1b8acf8d0bd52820d0ed2eb2341e15b6fce141aa8ed977af95dbd7ea6acfccbe"
+    },
+    {
+      "path": "content/en/api/types/audio/audioplayoptions.md",
+      "sha256": "583bc6a98f047291e2c958c15f6a61f8f7724259aedb961147548690df1ee020"
+    },
+    {
+      "path": "content/en/api/types/audio/audioprocessorconfiguration.md",
+      "sha256": "f3e8fb045fe8a60c655dd09ec9c6ed06cf2749e4a8a818858a03327e9b8aec16"
+    },
+    {
+      "path": "content/en/api/types/audio/audioprocessorid.md",
+      "sha256": "4fc016a83bba4253e98f89bca2fc020214820ed3f79a58d1f9a5aec562fd8e8d"
+    },
+    {
+      "path": "content/en/api/types/audio/audioprocessorparameter.md",
+      "sha256": "cb7e0672acb00e90a3e09b7bacf07ceb9b66d7137284194554e89b5740aa0dee"
+    },
+    {
+      "path": "content/en/api/types/audio/audioprojectsettings.md",
+      "sha256": "61e924235cdd97e845ed356b951af83a92ee6b5f592d1f985fc8d52b20e959a2"
+    },
+    {
+      "path": "content/en/api/types/audio/audiospatialoptions.md",
+      "sha256": "8dbdebe7fa77b9c99a64123cb12824ed736795ce151f767c80e9961df2b4c6da"
+    },
+    {
+      "path": "content/en/api/types/audio/audiostatistics.md",
+      "sha256": "db3e571ce69b8fb9dcd1c5cdaecb82aaf26ca1132e8a7db29029c354b2a9d8fd"
+    },
+    {
+      "path": "content/en/api/types/audio/audiovoiceallocator.md",
+      "sha256": "2f7f3482feed61284342f100a06e5d6a1e48e258442a30cb948ddab33c93d5dc"
+    },
+    {
+      "path": "content/en/api/types/audio/audiovoicecompletedevent.md",
+      "sha256": "35dfdcd28d39e1b9a248c56bb110a16ae6be2d41eef3b2215cfc54d0c3dbdd6b"
+    },
+    {
+      "path": "content/en/api/types/audio/audiovoicehandle.md",
+      "sha256": "71ea8e745c4002c5f9fe308d6944b84284e0bc690419eb95d45bf52731709e05"
+    },
+    {
+      "path": "content/en/api/types/audio/audiovoiceparameters.md",
+      "sha256": "f8d74a5c115f4743393ee1e22d53fdbe784a50dffad526ecf4f881aca82d6f40"
+    },
+    {
+      "path": "content/en/api/types/audio/iaudioclipsource.md",
+      "sha256": "f34bb26482bf97447f36e64c257e9b94e931306e311a09a9a7bce7d056969dc1"
+    },
+    {
+      "path": "content/en/api/types/audio/iaudiodevice.md",
+      "sha256": "135f90fbb937e504c533000ca70c1e8740bdb91005e210b0c98361a80f538a5a"
+    },
+    {
+      "path": "content/en/api/types/audio/iaudioservice.md",
+      "sha256": "b230cf7cc8a52ab879debb957e8d7fd3d1378f66e895438ae71023cb59c264c1"
+    },
+    {
+      "path": "content/en/api/types/audio/serializedaudioextensionstate.md",
+      "sha256": "29cba104ed99b0b51237724e85d1861283b231d3d5f47208958f7582c04fa189"
+    },
+    {
+      "path": "content/en/api/types/audio/index.md",
+      "sha256": "9340694808b2adf9eb9cb5c5503fdb0ec604002491c8e9b2a5ab24f5264d9caf"
+    }
+  ]
+}

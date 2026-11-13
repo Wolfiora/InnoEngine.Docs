@@ -1,0 +1,162 @@
+{
+  "scope": "Explicit unchanged-checkout index confirmation; not prepared query latency",
+  "date": "2026-11-11",
+  "platform": "Windows x64",
+  "sdk": "10.0.402",
+  "pages": 3497,
+  "contentIdentity": "63599793d7c248c62791651e95021a45b5684ad5752b040bf09cbfccfc7caf1f",
+  "beforeTooling": "bfde2854",
+  "afterTooling": "3008c720",
+  "before": [
+    {
+      "SetupAndLockWait": 488.4081,
+      "PagePreparation": 42252.537,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 40111.297199999986,
+      "CatalogValidation": 1521.2272,
+      "IndexProjection": 514.8302,
+      "FreshnessValidation": 278.9567,
+      "Publication": 0.5079,
+      "Total": 45056.5404
+    },
+    {
+      "SetupAndLockWait": 499.5757,
+      "PagePreparation": 44685.353,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 42022.941499999855,
+      "CatalogValidation": 1474.5936,
+      "IndexProjection": 559.2516,
+      "FreshnessValidation": 564.3601,
+      "Publication": 0.6094,
+      "Total": 47783.8212
+    },
+    {
+      "SetupAndLockWait": 472.9951,
+      "PagePreparation": 42374.9049,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 40206.453400000115,
+      "CatalogValidation": 1694.225,
+      "IndexProjection": 546.4911,
+      "FreshnessValidation": 309.8147,
+      "Publication": 0.5293,
+      "Total": 45399.0321
+    },
+    {
+      "SetupAndLockWait": 456.0142,
+      "PagePreparation": 43715.0423,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 41442.51830000013,
+      "CatalogValidation": 1505.7295,
+      "IndexProjection": 543.0623,
+      "FreshnessValidation": 310.5603,
+      "Publication": 0.5363,
+      "Total": 46531.0222
+    },
+    {
+      "SetupAndLockWait": 456.8059,
+      "PagePreparation": 42743.3756,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 40595.80700000001,
+      "CatalogValidation": 1461.4581,
+      "IndexProjection": 526.6531,
+      "FreshnessValidation": 287.4225,
+      "Publication": 0.7168,
+      "Total": 45476.5184
+    }
+  ],
+  "after": [
+    {
+      "SetupAndLockWait": 489.9615,
+      "PagePreparation": 23239.1843,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 21134.73190000002,
+      "CatalogValidation": 1494.2104,
+      "IndexProjection": 489.7699,
+      "FreshnessValidation": 296.4548,
+      "Publication": 0.646,
+      "Total": 26010.3029
+    },
+    {
+      "SetupAndLockWait": 470.1617,
+      "PagePreparation": 3136.5021,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 1446.1292000000017,
+      "CatalogValidation": 1513.2524,
+      "IndexProjection": 531.3799,
+      "FreshnessValidation": 289.8588,
+      "Publication": 0.5437,
+      "Total": 5941.7958
+    },
+    {
+      "SetupAndLockWait": 457.9687,
+      "PagePreparation": 3314.8171,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 1607.4797999999964,
+      "CatalogValidation": 1507.4491,
+      "IndexProjection": 526.8582,
+      "FreshnessValidation": 292.0893,
+      "Publication": 0.4894,
+      "Total": 6099.7506
+    },
+    {
+      "SetupAndLockWait": 467.7749,
+      "PagePreparation": 3355.1169,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 1581.4332999999951,
+      "CatalogValidation": 1517.757,
+      "IndexProjection": 476.4702,
+      "FreshnessValidation": 302.1358,
+      "Publication": 0.4813,
+      "Total": 6119.8115
+    },
+    {
+      "SetupAndLockWait": 471.7829,
+      "PagePreparation": 3177.1871,
+      "MarkdownParsing": 0,
+      "OwnerRegistration": 1473.7079000000012,
+      "CatalogValidation": 1485.6944,
+      "IndexProjection": 529.3635,
+      "FreshnessValidation": 290.3796,
+      "Publication": 0.4822,
+      "Total": 5954.9515
+    }
+  ],
+  "beforeMedianMilliseconds": 45476.5184,
+  "afterMedianMilliseconds": 6099.7506,
+  "medianReductionPercent": 86.59,
+  "firstPreparationBefore": {
+    "SetupAndLockWait": 344.9774,
+    "PagePreparation": 61972.0249,
+    "MarkdownParsing": 1173.1221,
+    "OwnerRegistration": 40244.21260000013,
+    "CatalogValidation": 1540.4426,
+    "IndexProjection": 424.7035,
+    "FreshnessValidation": 505.7828,
+    "Publication": 93.8901,
+    "Total": 64881.9024
+  },
+  "firstPreparationAfter": {
+    "SetupAndLockWait": 359.7573,
+    "PagePreparation": 61698.3832,
+    "MarkdownParsing": 1178.6333000000004,
+    "OwnerRegistration": 40935.76500000001,
+    "CatalogValidation": 1484.8689,
+    "IndexProjection": 388.6742,
+    "FreshnessValidation": 320.1354,
+    "Publication": 91.7178,
+    "Total": 64343.6184
+  },
+  "limits": [
+    "Same machine, SDK and authored content; not a controlled cold filesystem benchmark.",
+    "Initial rebuild used a changed parser protocol identity and wrote a new page generation.",
+    "All five after observations are retained, including the 26-second first confirmation; no outlier filtering.",
+    "Measurements cover IndexAsync; catalog export and process/bootstrap startup are additional work.",
+    "Minor independent editing and local test work occurred during observation; no Native build or engine product preparation ran."
+  ],
+  "validation": {
+    "toolchainOriginal": "73 passed, 1 failed because fixture workspace equaled its publisher root",
+    "remaining": "Cross-platform and source API certification remain incomplete",
+    "documentation": "26 passed",
+    "toolchainCorrected": "Focused corrected fixture passed; first failure retained"
+  }
+}

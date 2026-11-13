@@ -1,0 +1,28 @@
+{
+  "project": "Inno.Editor.PlayMode",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-playmode",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-playmode",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-playmode/innoeditor.playmode.editorplaymodestate.md",
+      "sha256": "1cafe5cfdc487895e24e6d462b8fe5dddfc55fb61a97689985dcdd901ede5923"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-playmode/innoeditor.playmode.ieditorplaymode.md",
+      "sha256": "a62443a3cd1ab152075c85cfbde4665a62b8f2e3784de72b5e0a0e6ce0f3b653"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-playmode/index.md",
+      "sha256": "3aac86b1be12c48622d074ae72ee4f8c063e2ddd9c6607d5ff8b0c69716d36f9"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

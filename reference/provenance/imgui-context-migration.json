@@ -1,0 +1,37 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [],
+  "reviews": [
+    {
+      "source": "docs/backends/ImGui/Inno.Adapter.Presentation.ImGui.Sdl3.md",
+      "sourceSha256": "9a7ab955635817b6823a340bd5531d57ecb1fa6450e53116f6e54d639d01046b",
+      "sourceBlobSha256": "9fcad285218e0626d8a842c860056ed27058d134d14b7e7fa4d08ba61f14bc2a",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-presentation-imgui-sdl3.md",
+        "content/en/backends/imgui-context.md"
+      ],
+      "baselineSymbols": 1462,
+      "capturedSymbols": 1462,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/backends/ImGui/Inno.Adapter.Presentation.ImGui.Sdl3/api.md",
+      "sourceSha256": "6e5231450fa28b5128ed643821fceb6a9d195a10704452dc15c43f6ba83e1e26",
+      "sourceBlobSha256": "6e5231450fa28b5128ed643821fceb6a9d195a10704452dc15c43f6ba83e1e26",
+      "destinations": [
+        "content/en/api/projects/inno-adapter-presentation-imgui-sdl3.md",
+        "content/en/backends/imgui-context.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 1462,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

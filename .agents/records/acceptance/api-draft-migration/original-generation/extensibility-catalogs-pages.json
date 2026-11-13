@@ -1,0 +1,26 @@
+{
+  "project": "Inno.Extensibility.Catalogs",
+  "outputDirectory": "content/en/api/types/extensibility-catalogs",
+  "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
+  "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0",
+  "facts": "reference/api/extensibility.json",
+  "factsIdentity": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
+  "sharedContract": "project.inno-extensibility-catalogs#composition-and-factory-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/extensibility-catalogs/itypecatalogregistrar.md",
+      "sha256": "73dce053e96d5ef3c7191eaa91cdfe46c60a69147ccadf3e6a4e1b15d0fe60da"
+    },
+    {
+      "path": "content/en/api/types/extensibility-catalogs/typecatalogmetadata.md",
+      "sha256": "6b5981c82aa3a604400045d0d5f3ba027d94d23429e72e904f053386a4ad2c85"
+    },
+    {
+      "path": "content/en/api/types/extensibility-catalogs/index.md",
+      "sha256": "e419ee1f4bf4b5d3ad20efabbdd3e4ca188409ce6d873c9d8764a2e700460b60"
+    }
+  ]
+}

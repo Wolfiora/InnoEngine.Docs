@@ -1,0 +1,72 @@
+{
+  "project": "Inno.Editor.Annotations",
+  "outputDirectory": "content/en/api/runtime-script/inno-editor-annotations",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "api.projects.inno-editor-annotations#loading-and-script-availability",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.headerattribute.md",
+      "sha256": "0e4221256130812aaf881a68bd3a2b13cdca563d62afba17c4517c8f4ee31a19"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.helpboxattribute.md",
+      "sha256": "f67e775a6dbce0f3e0cf4b025927a9dfdc5bf472aa0cacce0f60131b1f51f3bd"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.hideifattribute.md",
+      "sha256": "592cdf2a7f756230a86d4bda100719132685ac7a0a2d16c042ce8d5977d83b09"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.inspectorcondition.md",
+      "sha256": "2169c3e76e7916f7234e1760484b10f3cdb02eb845de79eee15770c01e47521a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.inspectormessagetype.md",
+      "sha256": "c71625b0d072a291c1f407fe192ba75b19f6bff3ed3d2e55565cc046392908de"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.inspectornameattribute.md",
+      "sha256": "2a5384b54307873829658bf48e81f5788b23edd0fe8600dddaa5f2cab0a864a5"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.inspectorpresentationattribute.md",
+      "sha256": "a93d8d9928e321718b990daaa88340d06f1a445a2b9eddbbd1080e790a7bff08"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.inspectorreadonlyattribute.md",
+      "sha256": "ff30cff4df8034f54bde8aa1270df4a4b0b2a6479e1bc28d68dced58f6bf5675"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.rangeattribute.md",
+      "sha256": "ee348ad3aa1a67fb0f6d27165b3327e8c07841233f304473c78254cfc2c67f86"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.showifattribute.md",
+      "sha256": "9142e23b36fcd811a018e486eb34d6e8dbb563bcb6629864761586fbe46600ab"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.spaceattribute.md",
+      "sha256": "64bfa801549ac2660d4fedcfc4d377fd0af8869bce01c5d787673002d2076257"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.textattribute.md",
+      "sha256": "7f3456d18920d872bde5ad4732a3f20a8f5dd81702391acdeb0a8d2278c150c8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/innoeditor.annotations.tooltipattribute.md",
+      "sha256": "eb5b30d59ba99b215a33560faf1e9b5f451d3aaf9a35f0b44ecbb43ab6179d12"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-editor-annotations/index.md",
+      "sha256": "d4622897db567de9c7f5ffd08ec307603decc3b54fec3ab9f3dedbfabe0e7885"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

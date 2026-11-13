@@ -1,0 +1,112 @@
+{
+  "project": "Inno.Assets",
+  "outputDirectory": "content/en/api/runtime-script/inno-assets",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-assets",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.artifactlease.md",
+      "sha256": "61d53d70c7f0e7c1e9cde999992edda9cacf49e0795d3c532f0ec781edb4f54a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetartifactinfo.md",
+      "sha256": "2a52bfc4121ba9a11d950ff7cc5b0bb6eee8d12fed33049968368b82947112e1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetartifactkey.md",
+      "sha256": "15f93e148217dad0ca193a9a9fc98a362f3be339aadb5cf4be28d7010d9119ab"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetchange.md",
+      "sha256": "de6d5cf1d95e71c86fcfd008a8400caa5a544521cd871098d9d81369adce88ac"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetchangekind.md",
+      "sha256": "1f0c4b9e0a3523a59ac28da704fe88dd2eecd1e0c12ce4e44b6d1b46fe544c3f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetchangeset.md",
+      "sha256": "197b548cb275d42a6b6b2b9ab06ee7a6dd96bb0a6947d42dc7a1b6b3b3261b43"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetdependency.md",
+      "sha256": "94729f2c51e245787f5cbb0e9d5a17a9dbb7eb4d35d96acf1a86b89b286fdbe9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetimportstatus.md",
+      "sha256": "367004279ba8a8c038c6906b8db0bfb9e31a3c86ad3640e225eb09e19b3055f1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetinfo.md",
+      "sha256": "54350bf6a0af0cd087d60035923aed13a13d54a54d45f37b4a26a5ce2a0b8e2c"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetlease-1.md",
+      "sha256": "3f9d5caa6119dc4616179519843f630c4a26cf45b1452a49a5055b245e032174"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetobject.md",
+      "sha256": "cc3514d3cdb4499d99f8dd7f881907c3b76655ce4fe10427241a0130541f35a9"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetpath.md",
+      "sha256": "a44d341baf2e5c0535b3d4eb38419f24455e828770b797e4e93652ec78fba328"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetpropertysnapshot.md",
+      "sha256": "d21f6e0cae85e64e2e1a3c3e40edcf81814d5c1b3d83fa5f1cd05eefce305f6a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetreferenceinfo.md",
+      "sha256": "e5f7be3db019c76f1552589b4ef230eb8cd2f86fb5ccf66c694636eb1a20c6b8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetreferencekind.md",
+      "sha256": "5147d4e99db32be12aea514579e0d4615f912ec9e2239ac8ef0528d73fd8ce16"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetreferencelocation.md",
+      "sha256": "80739831d5d3cf6ed9569fb67e826f918d4e17d4f257bdec2548e68349a51a4d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetresidencystatistics.md",
+      "sha256": "3326af5e1a3bcf8dfbd3adbd8822379e716a05c4b8da8a02722c09170e0015f6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assets.md",
+      "sha256": "4fea431154e1679c5ecce0ef967b138020b829d44b173b10a41949f8329e4f00"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetsourceid.md",
+      "sha256": "d868fd5ba1639a5d585bf46a4da9068e71ff1faddb4e45fea007292bd12bf484"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.assetsourcekind.md",
+      "sha256": "9e6f03d5e6f1bf9ef60c5aebe48e44bf3dbdf18a60a8f32fd6d7dc149825063a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.binaryasset.md",
+      "sha256": "5648a379ac1dcec6ddd8b6bc510b72331e6caa6bff501d755fc8922e98ebbdc8"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.retentionscope.md",
+      "sha256": "aeb10c455ffa0f04c5c3481ef0aed7bdd56cbce75ddbb9f1d9a4dd78769d57f2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/innoengine.assets.textasset.md",
+      "sha256": "b517141086d97ab30863b55469940c35f89930ea82badcfc8c676963a0995938"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-assets/index.md",
+      "sha256": "496c3f8e55afb18879cb0ec7168ad30a18ddd9cffbed3088f86414d58391b043"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

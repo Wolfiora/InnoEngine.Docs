@@ -1,0 +1,38 @@
+name: Report API editorial coverage
+
+on:
+  workflow_run:
+    workflows: [Documentation]
+    types: [completed]
+
+permissions:
+  contents: read
+  actions: read
+  checks: write
+
+jobs:
+  report:
+    name: Report editorial observations
+    if: github.repository == 'Wolfiora/InnoEngine.Docs' && github.event.workflow_run.head_repository.full_name == github.repository
+    runs-on: windows-2025
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+      - name: Select and verify candidate report data
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Path artifacts/editorial | Out-Null
+          node scripts/report-api-editorial.mjs select artifacts/editorial/selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'The editorial producer did not provide a valid report; this is not an editorial warning.' }
+          ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/editorial/selection.json -Source documentation -Destination artifacts/editorial/report
+      - name: Publish bounded neutral warnings without executing candidate code
+        shell: pwsh
+        run: |
+          node scripts/report-api-editorial.mjs publish artifacts/editorial/selection.json artifacts/editorial/report/api-editorial.json
+          if ($LASTEXITCODE -ne 0) { throw 'Editorial reporting failed; no ordinary prose reminder can hide a tool failure.' }

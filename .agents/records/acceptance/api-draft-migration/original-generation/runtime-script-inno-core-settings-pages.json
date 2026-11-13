@@ -1,0 +1,72 @@
+{
+  "project": "Inno.Core.Settings",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-settings",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-settings#settings-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectid.md",
+      "sha256": "b903aa33f829a7f1cd2c2f47ba05217e136de753da69d3b55c69616920323951"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectidentitysettings.md",
+      "sha256": "eb686d09c7b3a7796d0e1a1df06699685f032cead5fff662f60590a1941eba80"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectlocalid.md",
+      "sha256": "f36767112045bc9a9925fb935fdc951f0f969188bdad68ee664b38af30a55d5e"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectscopedid.md",
+      "sha256": "669726381e422b8d2fb141959a2d7d02e2f857db6d9b4186b4cbf54411045df1"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcomposer.md",
+      "sha256": "b10054ccae6f3855f60f70fbf631a149e3b353a1386ecde0a2767031782d229d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcomposer-2.md",
+      "sha256": "a667c0be967bc647f8b7bd3855eac6637bb55821427301cc8179cd956c58d40b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcomposerattribute.md",
+      "sha256": "5c710e8e9dd69ad033216bdb590233969afb1f90eb86ae16e052589f387f3613"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcontribution-1.md",
+      "sha256": "42d3e53efe2df6a160619390d5f1b54835e952b4d18222d01669b466912b6650"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcontributioncontext.md",
+      "sha256": "f10531ca19943107c6101231a8746e01cf41e2180ba3e0e9589dde657a1c89b7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingcontributionsource.md",
+      "sha256": "4b21dec88841868c1ba649c134e6462c531987b0cac52784751486b479dd5655"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingdefinitionattribute.md",
+      "sha256": "5e2db0bd6c59bc01c9442bab5f35cd8d2ee8bd9fc16101905a6aafd73b68ada6"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.projectsettingid.md",
+      "sha256": "43e57407daeeeb875757caea1698f5f80dcfb38629ac24ca195d240a8d190a74"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/innoengine.settings.settings.md",
+      "sha256": "d290a1becc73a1b0d3409cbd9af3e053a44233ef12c54c30827d9449f3d26a51"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-settings/index.md",
+      "sha256": "c70003c8357256f87c5a91806b4a600781dd0bd1daf80352569d79bb1b64c39c"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

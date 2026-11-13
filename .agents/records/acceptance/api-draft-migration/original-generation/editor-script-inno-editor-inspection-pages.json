@@ -1,0 +1,68 @@
+{
+  "project": "Inno.Editor.Inspection",
+  "outputDirectory": "content/en/api/editor-script/inno-editor-inspection",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/editor-script.json",
+  "factsIdentity": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
+  "sharedContract": "project.inno-editor-inspection",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.iinspectioniconprovider-1.md",
+      "sha256": "3f097e6aa1a1744f13c46a37590817436ad2cebd87189ad2b96942198826bd5b"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.iinspectionpropertyeditservice.md",
+      "sha256": "3169123498479fea4aba663ff9d81b585eaa5742f5ec36309bf283e9b45bc047"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.iinspectorattributedrawer.md",
+      "sha256": "ef44b711e5f4476d7ddaf43b092b50d55a62647b5bb173a92c2eeee0efa424bc"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.inspectiondrawcontext.md",
+      "sha256": "ff30c617bf097b6f466db26df92abc7e02c969af90905399d92e11a97331e3d4"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.inspectiondrawer-1.md",
+      "sha256": "94fe44faab610da025b16a5d2a49a1da7164de46a6572cac0992514c348afc33"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.inspectiondrawerattribute.md",
+      "sha256": "2b1301b517a883934d9d75aa3878fbf94c151568ac89da04dcf266cc043b4fc1"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.inspectorattributedrawcontext.md",
+      "sha256": "fcf717b939367ca8b49a711f7ff7cee41e0d1b5dbfac0ce4fd785fd9f01b9ab3"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.inspectorattributedrawerattribute.md",
+      "sha256": "5b1aa9cec265f838b11500cdcb7b96f88c4d9ddeba6cf8447f67bee756cec967"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.ipropertydrawer.md",
+      "sha256": "9323e57b6740c0ae5ac86ba55fccbc634771e0c1ded7bec414eb3adc44c1f5e0"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.propertydrawcontext.md",
+      "sha256": "2e80c2c7831f61eb374c4e4855d501086afba17431d1bc290b8633c52b85dcf3"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.propertydrawerattribute.md",
+      "sha256": "48f918896660ff800b2d902085da9d73c3f7255c2a0a35938a2d102af7d2e86c"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/innoeditor.inspection.serializedpropertyrenderer.md",
+      "sha256": "c53f69129018afa4ccd602ec91d805dd26ff34d4bde7b3eaa2174345af39a9bd"
+    },
+    {
+      "path": "content/en/api/editor-script/inno-editor-inspection/index.md",
+      "sha256": "7bb5b3baa273d07d1da1aa7fa8f5e8d64e760afddcf09bf84ea684dd020e1b3e"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

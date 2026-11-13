@@ -1,0 +1,103 @@
+---
+uid: api.inno.editor.imgui.bf7fb9424cd923b9
+symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorStyleMetrics"
+source: xml
+reviewed: 1cf8d77f1dbb47afb2a95317f47751614ccd7054101804025acb98694dbc14be
+title: "EditorStyleMetrics"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+contracts:
+- api.inno.editor.imgui.bf7fb9424cd923b9#declaration
+- project.inno-editor-imgui
+aliases:
+- api.inno.editor.imgui.e972f6f20bf102e1
+- api.inno.editor.imgui.f815824e963ad100
+- api.inno.editor.imgui.6bf8586db0d3b6fc
+- api.inno.editor.imgui.a99005a69579d69a
+- api.inno.editor.imgui.94be6dc624d77ab9
+- api.inno.editor.imgui.a247a9bdb755cbd0
+- api.inno.editor.imgui.470b81429011587e
+- api.inno.editor.imgui.b073fcdf5b8f796f
+- api.inno.editor.imgui.23339c793021b517
+- api.inno.editor.imgui.52fd03124b0beafa
+- api.inno.editor.imgui.7adbbc8fc4db58b9
+- api.inno.editor.imgui.98dedbb29dad67f1
+- api.inno.editor.imgui.2a94f95999f77698
+- api.inno.editor.imgui.0d9f00bb353724a5
+- api.inno.editor.imgui.6c4bc02c663dd1dc
+- api.inno.editor.imgui.9af85586efb481da
+- api.inno.editor.imgui.1a8bc29f32d5177f
+- api.inno.editor.imgui.12cafe27972d46c3
+- api.inno.editor.imgui.2ff3c8518b01349e
+- api.inno.editor.imgui.da08873c9cef2274
+- api.inno.editor.imgui.bdb42a3b90f9e68d
+- api.inno.editor.imgui.da8f0ebf932cc72f
+- api.inno.editor.imgui.22ac0bc90dd8f75b
+- api.inno.editor.imgui.fe34b804b0406ed0
+- api.inno.editor.imgui.3cc226fc89c59122
+- api.inno.editor.imgui.a49a55b1f35c7cc2
+- api.inno.editor.imgui.a7bb7a480aa70dda
+- api.inno.editor.imgui.4b336880dcfd6c2f
+- api.inno.editor.imgui.eb6f3d7515db7adf
+- api.inno.editor.imgui.de43d02b9f0f364a
+- api.inno.editor.imgui.c5898c8560ceab43
+- api.inno.editor.imgui.601a74297fd52df8
+- api.inno.editor.imgui.2e34e3e7598c2da5
+- api.inno.editor.imgui.be674595579a3ad3
+- api.inno.editor.imgui.d43780915fa04977
+- api.inno.editor.imgui.68915200d2ffb3b0
+- api.inno.editor.imgui.5e24b49d064637ea
+- api.inno.editor.imgui.af2c93c46ebc2dda
+- api.inno.editor.imgui.6ea83af487ca8385
+- api.inno.editor.imgui.65941fc43a6ccd64
+- api.inno.editor.imgui.ca0d7166a1ad0899
+- api.inno.editor.imgui.e1aebe87aae695db
+- api.inno.editor.imgui.038127e226ac3732
+- api.inno.editor.imgui.f528b28ce4ba74ac
+- api.inno.editor.imgui.89250ca4a0065042
+- api.inno.editor.imgui.7530977a9599db5d
+- api.inno.editor.imgui.880d6b4a223d5e7f
+- api.inno.editor.imgui.8e4f3fcb3bd98981
+- api.inno.editor.imgui.74f63cb6f485684c
+- api.inno.editor.imgui.00b571fda4375441
+- api.inno.editor.imgui.144d5c76a8b24f72
+- api.inno.editor.imgui.4c90fd1af48d077c
+- api.inno.editor.imgui.27c108e68cf84968
+- api.inno.editor.imgui.0906a4157eb5354b
+- api.inno.editor.imgui.3c95d48eb3b39177
+- api.inno.editor.imgui.e4c36d64f7c5641d
+- api.inno.editor.imgui.bc3692a71a974767
+- api.inno.editor.imgui.77755f29b0c76624
+- api.inno.editor.imgui.1f4ba90b77bc5475
+- api.inno.editor.imgui.23e2e462789ed392
+- api.inno.editor.imgui.b78402c75d9df3b6
+- api.inno.editor.imgui.10e8e048818f2209
+- api.inno.editor.imgui.b0248e1e0ad3ba8e
+- api.inno.editor.imgui.ca14642059e97709
+- api.inno.editor.imgui.ed80a65f13af0fa2
+- api.inno.editor.imgui.0c9e4e37f5a5fb1e
+- api.inno.editor.imgui.4c8c519fb1c6e072
+- api.inno.editor.imgui.2f53642e82e2e803
+- api.inno.editor.imgui.16be4a616db599b3
+- api.inno.editor.imgui.e163982b1b0ef777
+- api.inno.editor.imgui.58b4c74798d3a819
+- api.inno.editor.imgui.9a31dbdfc5fc3594
+- api.inno.editor.imgui.454531be23099313
+- api.inno.editor.imgui.090b7221377e45d6
+- api.inno.editor.imgui.7fb889c4adc6ab60
+- api.inno.editor.imgui.b88564781a1aa3f5
+- api.inno.editor.imgui.554ef86d317fdd20
+- api.inno.editor.imgui.3139330cbbc1bc21
+- api.inno.editor.imgui.57ac55ea5acfa930
+- api.inno.editor.imgui.be364f708a201ade
+- api.inno.editor.imgui.3197a1e1775827ba
+- api.inno.editor.imgui.59d9b9b6565540b8
+- api.inno.editor.imgui.82a0398649df2bd6
+---
+
+Defines reusable layout metrics and separates owned frame values from requested style changes.
+
+## Remarks
+
+Standalone instances apply changes immediately. Session-owned instances defer changes requested during native drawing until the next style preparation. They are mutable only on the owner thread and must not be modified after their session retires.

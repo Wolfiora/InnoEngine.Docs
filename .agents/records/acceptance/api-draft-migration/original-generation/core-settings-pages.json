@@ -1,0 +1,106 @@
+{
+  "project": "Inno.Core.Settings",
+  "outputDirectory": "content/en/api/types/core-settings",
+  "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
+  "sourceTree": "6fa80c57dd5bf5267ad7d60945b0e9c09f9cde24",
+  "facts": "reference/api/settings.json",
+  "factsIdentity": "1efe226e65f8fe47c7ce45504892478b8f73dd92a69aa4c238f65c02b18c8d1a",
+  "sharedContract": "project.inno-core-settings#settings-ownership-contract",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-settings/iprojectsettingslookup.md",
+      "sha256": "2d3ea60ea3bc5b73550175664ebf7b81809ad35a3843e79a1cd9432294d04adf"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectid.md",
+      "sha256": "ac23ad5a8e1f1cc32ad0066786ebc67040bc1e4fe04a87670d8cb418bc7c5e0c"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectidentitysettings.md",
+      "sha256": "45dfa400d8e4a6916ce7a7150115d398e275016ae75960dd2c4445109ab98a45"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectlocalid.md",
+      "sha256": "2a958e339b5135707beeba59b97053b32acd720534c9e799206df257785d4e12"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectscopedid.md",
+      "sha256": "e8e8cdf40e4a28fa3da4003ada40aefaaa950667b37afb4ed61b6a99e655a87c"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcomposer.md",
+      "sha256": "4a647cb7ddee2f7e78e3424e650f26a2d4fa286daa0588b2ee890347c54f01c4"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcomposer-2.md",
+      "sha256": "4c6d2f6c315fe0f38004d53ce0c5811bc8bca8765bf63d6e5d0df96767494083"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcomposerattribute.md",
+      "sha256": "96e031758a446ec0257b394b7d1aa7b3704936fee60e386e8065e79da9305615"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcontribution-1.md",
+      "sha256": "574625a5f56e5b27d34ef78684e9b100068adfe20739cbfa9ecb934dfa4dcf7e"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcontributioncontext.md",
+      "sha256": "eb109366ad39e350cee111286b90236f05470921bbf79955af84a35c115973e6"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingcontributionsource.md",
+      "sha256": "e7a2bd2cbfad355048313d6b7840005632450e5f63ef64de0ee08e685028fbeb"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingdefinitionattribute.md",
+      "sha256": "19a7c63fa193990a698964d4e6903c541fd5f3f671b8ae98331b94a19e9a6366"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingid.md",
+      "sha256": "048ca9185c8ceb516948234818241cdc9228c621c13554d16e95ed898952816c"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingrecord.md",
+      "sha256": "ab62637aa3ab26b16992c0a471fa0267c2ae5fef4d5cd35164f8f2a7490efd5d"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettings.md",
+      "sha256": "ed79c6305ab8461f05dd2eaac8e0122c33994a63035f85e1541f602d1b1a2634"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingscontributor.md",
+      "sha256": "698394a2aa1db36f58dc1baff14b8f975dd9c0d6412e1794550eddf5998b6f45"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingsdocument.md",
+      "sha256": "973b164ab792b6a56652b6629439508ca4347315970646b0f97ba05f24cb034e"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingsexecutioncontext.md",
+      "sha256": "dfeb38f7a682861bf2ca2111f4c596b0f55e986d571786d85266eb32f0c8a2e3"
+    },
+    {
+      "path": "content/en/api/types/core-settings/projectsettingsstore.md",
+      "sha256": "b49d8c8c378e5b236de525aa284e4211d86e90ab3030b383dcfd4a31bfad074e"
+    },
+    {
+      "path": "content/en/api/types/core-settings/settings.md",
+      "sha256": "c1afbc523d05ba44d6505708c1962effcc48c597938cbeecaf963df388a6ea4b"
+    },
+    {
+      "path": "content/en/api/types/core-settings/settingsdocumentstore-1.md",
+      "sha256": "6f0bc009fd2b65d953be25ae4bec2614514c243e7478837a1ece4f67202f0b17"
+    },
+    {
+      "path": "content/en/api/types/core-settings/settingsfilenames.md",
+      "sha256": "fa360ccbe041de35a6b728da3c5b80a1c0cfb399da42899646a9426539a472b6"
+    },
+    {
+      "path": "content/en/api/types/core-settings/index.md",
+      "sha256": "5e8988592ae9c7f6b1162876d242566b7fc86746cb45f2ba85a642348396d19b"
+    }
+  ]
+}

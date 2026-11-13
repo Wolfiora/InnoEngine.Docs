@@ -1,0 +1,42 @@
+{
+  "project": "Inno.Core.Execution",
+  "outputDirectory": "content/en/api/types/core-execution",
+  "sourceRevision": "0a857166e14c83e44feb557768cb9d01d4383135",
+  "sourceTree": "26ffb626c616ff9dc42f793a0c366c5bfc059b37",
+  "facts": "reference/api/execution.json",
+  "factsIdentity": "076dd515a242c46ed0e9e97a4caac74b1a6f58d709a42d2ed858c2e17ae5220e",
+  "sharedContract": "project.inno-core-execution#lifetime-and-retirement",
+  "sharedAbi": false,
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/core-execution/executionslot-1.md",
+      "sha256": "5266f9105bd5b0590225c7cd95e6ed5f648dd7217a51d1b5c70b2d4f26a85600"
+    },
+    {
+      "path": "content/en/api/types/core-execution/lifetimescope.md",
+      "sha256": "e48be3e2a5351d57703de951dcb8b2f4f603dc856c3e1278ddced6ef5e90a893"
+    },
+    {
+      "path": "content/en/api/types/core-execution/ownerthreadexecution.md",
+      "sha256": "b624cbb39a64a870b3c15aa6dc411da526b9b95751d94b1d0707cf270b61adf1"
+    },
+    {
+      "path": "content/en/api/types/core-execution/retirementbarrier.md",
+      "sha256": "e28a06c61ddc4d7d5c742288300403142bd03952a48e0adf0fe5cc80b28936e1"
+    },
+    {
+      "path": "content/en/api/types/core-execution/retirementpendingexception.md",
+      "sha256": "294f46351a58f11d0a7993d8bc0f462f58a1e757e0c72ee6ee0a1420657afc1b"
+    },
+    {
+      "path": "content/en/api/types/core-execution/retirementtimeoutexception.md",
+      "sha256": "613bdaf7b839e06a378232116287da93ea3a58ac368121109ebe87056ce478a1"
+    },
+    {
+      "path": "content/en/api/types/core-execution/index.md",
+      "sha256": "5b121d5c67da3998631dc8a515c74243db3b30013015077d686574d99e85ee99"
+    }
+  ]
+}

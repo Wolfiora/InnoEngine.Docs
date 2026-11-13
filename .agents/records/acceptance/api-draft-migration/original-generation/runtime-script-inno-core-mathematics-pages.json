@@ -1,0 +1,68 @@
+{
+  "project": "Inno.Core.Mathematics",
+  "outputDirectory": "content/en/api/runtime-script/inno-core-mathematics",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-core-mathematics#numeric-and-layout-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.color.md",
+      "sha256": "32b9e0125869452331c6ef3649b2c18d73a2c5202d0ae44bc26269ad335d8f91"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.mathhelper.md",
+      "sha256": "2836a918e1cb8799760787be3acbcbfabe6834fc38913541e6c6a64862842090"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.matrix.md",
+      "sha256": "f8affa2215dda2c73a7505be8e67d50e91cd1ff117894e0801cafb1119c640d2"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.quaternion.md",
+      "sha256": "0966e399e6effe33a6a97f741a25026bdb16b2b12af2469a91661cc351f5e210"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.rect.md",
+      "sha256": "a535aa05ff0c163a709e0124681fd2cee37e0f1880b93a59442be918d41f8e3a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.rectint.md",
+      "sha256": "06c075076b1050904c12377d45e62f329c13ccd3a38b1d484de575990fb99d4d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector2.md",
+      "sha256": "7254c6b6604dfe9be58afe3876a9d8da16b1cda89fa4dfd21e698dbaa8217a53"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector2int.md",
+      "sha256": "19e61c8441a3c93f2f5a609ff7afdcfd5d09d3186d9ecdf0f92501036689012a"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector3.md",
+      "sha256": "956a44a3e492b4849ea41219218ee49afd3c17896f6763850fbb46006ad2ffb4"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector3int.md",
+      "sha256": "645a4fc1a0551b834e7d5c1d3f5b4c2e0be42906b9753a69f5be55dec9e8afbe"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector4.md",
+      "sha256": "2aa5a3c33b314983077d7fc08432e6158a343b740923ff80defaee0a3542487f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/innoengine.mathematics.vector4int.md",
+      "sha256": "2a181bb6034b2b23b7df516f9a8f5776c6894ad30bf35eb63a58046e7403efc0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-core-mathematics/index.md",
+      "sha256": "06c844b52ae08807df245750a27b94b7d1222f2a1486176909d76bdebd45990a"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

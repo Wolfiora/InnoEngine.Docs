@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Build.Bindings",
+  "outputDirectory": "content/en/api/types/build-execution/inno-build-bindings",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-execution.json",
+  "factsIdentity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+  "sharedContract": "project.inno-build-bindings",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-execution/inno-build-bindings/nativebindinggenerator.md",
+      "sha256": "ed6841925129e902cd1e0e74a4d087d381cc97e58db7454808460627caeef2be"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-bindings/nativebindingprofile.md",
+      "sha256": "d892fbebbe911c0df6674f047182790af6d374ac8fb02c5d411bc447d4ad73ec"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-bindings/index.md",
+      "sha256": "6f1ac48b755556bd4cc44d5d01f922da6bfa24a21148884e8d489f4eff3a6632"
+    }
+  ]
+}

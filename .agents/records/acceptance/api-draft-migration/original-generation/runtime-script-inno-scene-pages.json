@@ -1,0 +1,96 @@
+{
+  "project": "Inno.Scene",
+  "outputDirectory": "content/en/api/runtime-script/inno-scene",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-scene#scene-ownership-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.allowmultiplecomponentattribute.md",
+      "sha256": "40ab35e5a3c9daad724ec718997147a7149d8a16ec3fb30ce6d72f21b3e7ab18"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.allowmultiplesystemattribute.md",
+      "sha256": "20daab864526f388e201f311caa7abc080784d616f18deac9ed492437a7f35d0"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.engineobject.md",
+      "sha256": "01671d1e519927a20e0a1d4059deb77f785adb92bc335dda8c3668462bf2ef90"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamebehavior.md",
+      "sha256": "f25e6bd1001ccd7cace22d041e5eb83c276aa257cdb9265c3f98b5784fdccf96"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamecomponent.md",
+      "sha256": "dac6c133b1c4778f36c9005de5ef40d3acbc35d6cae96e0196af737d32992ac7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamelayer.md",
+      "sha256": "d66ac44940512b1eccf6f2a8497d2492f84c54bfafb0ed247385271a2d625f64"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamelayercatalog.md",
+      "sha256": "ff2c9a78d68574963791ba8d8eef3fcfb474cb1cce3ad54708f00854a6a94496"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamelayerdefinition.md",
+      "sha256": "5e934df22fc1475cfb95f2cfe79f9bdde58683b5cb458ec1169c1918e6f0b635"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamelayerid.md",
+      "sha256": "93c9593c3284cb02b177b37084d22a5704d3678d0250de5187e34a501b3eb228"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamelayermask.md",
+      "sha256": "f4090cd916b9107a587e0bd4f9e9c513ec33ea0945f0b63902f37db1d3dbf93f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gameobject.md",
+      "sha256": "2bf50553b798426130525eb12e2e3e6ddd2157000e681309a02205b0576a7826"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamescene.md",
+      "sha256": "ca17206bcdc68e960d0053203e1e2ad5cdcdc1ac21d70bb8b9ccfc3264bc8c9b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gamesystem.md",
+      "sha256": "cca6081fcc6adbe2a29a39447f33cebaba3660f16c18e1eb0c22a0b5c4426e3d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.gametagcatalog.md",
+      "sha256": "d0e317f13409b0e0f2a597e635cbd365497c42c1a102fa0c0c3bc6a575690d8d"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.prefabasset.md",
+      "sha256": "70af8380fc3d5316bf8368909a027ce99e64cc98820aeed00168b59a5041cc0f"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.prefabinstanceinfo.md",
+      "sha256": "c486f5955ed90a7f4f3767e8382d3629e0255f03b873ee3793641822b7cdb95b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.sceneasset.md",
+      "sha256": "609e69d314d24ceba36af8fca155801a27d7add95ea45783832d3bb03b96b300"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.scenemanager.md",
+      "sha256": "8e2333d80ae1efb69a2176482036feb616a32e3b9f6c6fb2f39209d43a29dc7b"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/innoengine.scene.transform.md",
+      "sha256": "fe35f24206344ac09524b0c04fcca6f4d10625d846164a27954309fd4df541af"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-scene/index.md",
+      "sha256": "c1241fa0950b256efff9658d122cb97f5d843bec31e7490775d2ddf3e107a361"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

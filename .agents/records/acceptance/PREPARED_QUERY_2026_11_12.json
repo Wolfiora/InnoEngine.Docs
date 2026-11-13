@@ -1,0 +1,323 @@
+{
+  "date": "2026-11-12",
+  "scope": "Sequential independent prepared-snapshot CLI processes, including startup. First observed calls are separate, not labeled cold-cache measurements. No engine/native build, SDK evaluation or network request is part of these query operations. The first attempted symbol name was absent and was corrected from the actual API manifest; the retained diagnostic is artifacts/query-benchmark-first-failure.json.",
+  "engineRevision": "be9e340d6ff6be6da80fe724e284a0adf10d8326",
+  "sourceTree": "fa3bd878777555e378910ae95a362daceada5df5",
+  "snapshot": "244695587f9cfb6432d2f4c9741cf0f41d0cccab4d2f12fb5befc0071115135c",
+  "contentIdentity": "91316c6bc1dacd1aa0a2595b057b1a32e1570becfee5fc6aa9b001cf4aefae07",
+  "sourceApiStatus": "Unverified",
+  "pages": 2531,
+  "sdk": "10.0.402",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "processors": 16,
+  "queryAssemblySha256": "5ac22789852caf72cb0b6cca60d1c3c0af121271d461b51a01532dafa88e8172",
+  "manifestSha256": "a364df8c186688c490a0dcd4c5a0b4a1fafc487951ee8c49b6a8fd0358d6dc91",
+  "medians": [
+    {
+      "scenario": "panel-task",
+      "milliseconds": 1280.6013
+    },
+    {
+      "scenario": "panel-contract",
+      "milliseconds": 811.6855
+    },
+    {
+      "scenario": "identity-symbol",
+      "milliseconds": 884.4085
+    },
+    {
+      "scenario": "console-alias",
+      "milliseconds": 1168.607
+    }
+  ],
+  "samples": [
+    {
+      "scenario": "panel-task",
+      "sample": 0,
+      "phase": "first-observed",
+      "milliseconds": 1115.2443,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-task",
+      "sample": 1,
+      "phase": "warm",
+      "milliseconds": 1109.6971,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-task",
+      "sample": 2,
+      "phase": "warm",
+      "milliseconds": 1462.5836,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-task",
+      "sample": 3,
+      "phase": "warm",
+      "milliseconds": 1143.7832,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-task",
+      "sample": 4,
+      "phase": "warm",
+      "milliseconds": 1280.6013,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-task",
+      "sample": 5,
+      "phase": "warm",
+      "milliseconds": 1288.8721,
+      "resultBytes": 4409,
+      "hits": 5,
+      "firstPage": "extending.editor-panels",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 0,
+      "phase": "first-observed",
+      "milliseconds": 812.2098,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 1,
+      "phase": "warm",
+      "milliseconds": 827.1495,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 2,
+      "phase": "warm",
+      "milliseconds": 836.7803,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 3,
+      "phase": "warm",
+      "milliseconds": 811.6855,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 4,
+      "phase": "warm",
+      "milliseconds": 803.1934,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "panel-contract",
+      "sample": 5,
+      "phase": "warm",
+      "milliseconds": 802.7903,
+      "resultBytes": 9282,
+      "hits": 1,
+      "firstPage": "extending.editor-panels",
+      "completeness": "CompleteUnit",
+      "continuations": 2,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 0,
+      "phase": "first-observed",
+      "milliseconds": 866.6186,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 1,
+      "phase": "warm",
+      "milliseconds": 884.4085,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 2,
+      "phase": "warm",
+      "milliseconds": 896.6538,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 3,
+      "phase": "warm",
+      "milliseconds": 897.0556,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 4,
+      "phase": "warm",
+      "milliseconds": 835.8008,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "identity-symbol",
+      "sample": 5,
+      "phase": "warm",
+      "milliseconds": 852.4533,
+      "resultBytes": 1538,
+      "hits": 1,
+      "firstPage": "api.core-identity.identity",
+      "completeness": "CompleteUnit",
+      "continuations": 1,
+      "status": "Partial"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 0,
+      "phase": "first-observed",
+      "milliseconds": 1191.983,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 1,
+      "phase": "warm",
+      "milliseconds": 1158.2447,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 2,
+      "phase": "warm",
+      "milliseconds": 1362.4278,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 3,
+      "phase": "warm",
+      "milliseconds": 1276.8571,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 4,
+      "phase": "warm",
+      "milliseconds": 1167.88,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    },
+    {
+      "scenario": "console-alias",
+      "sample": 5,
+      "phase": "warm",
+      "milliseconds": 1168.607,
+      "resultBytes": 4215,
+      "hits": 5,
+      "firstPage": "manual.editor.console",
+      "completeness": "Excerpt",
+      "continuations": 0,
+      "status": "Found"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Integration.BrowserWasm32.Bgfx.Runtime",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx-runtime",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-browserwasm32-bgfx-runtime",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx-runtime/browserwasm32bgfxsurfaceintegration.md",
+      "sha256": "d51775c5fc819d098cb0ca63a708ab1e66412d1ec2fbfed4901ad720a43f150c"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-browserwasm32-bgfx-runtime/index.md",
+      "sha256": "c133f9089e0ad6753b28fe70004faa0097eb86414e7f80f2e79443c4efa91578"
+    }
+  ]
+}

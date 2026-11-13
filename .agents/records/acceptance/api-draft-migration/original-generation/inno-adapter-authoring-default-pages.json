@@ -1,0 +1,21 @@
+{
+  "project": "Inno.Adapter.Authoring.Default",
+  "outputDirectory": "content/en/api/types/runtime-composition/inno-adapter-authoring-default",
+  "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
+  "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6",
+  "facts": "reference/api/runtime-composition.json",
+  "factsIdentity": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
+  "sharedContract": "project.inno-adapter-authoring-default",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-authoring-default/defaultauthoringadaptercatalog.md",
+      "sha256": "8397006d7d0b9b9c70e0e9199180e3de446dbc886772c556f442b5f419dc1b54"
+    },
+    {
+      "path": "content/en/api/types/runtime-composition/inno-adapter-authoring-default/index.md",
+      "sha256": "37107e02abf91e5cb4a0c5a592ab59b957bae3ed166425bdca8cf3610ad8bbfb"
+    }
+  ]
+}

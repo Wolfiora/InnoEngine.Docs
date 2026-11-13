@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Integration.MacOSArm64.Bgfx",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-macosarm64-bgfx",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-macosarm64-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-macosarm64-bgfx/macosarm64bgfxintegration.md",
+      "sha256": "e122be9f3b67c5858ac1eccb3eb5661facb3fb3618c0cbd65c398fb254ea556a"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-macosarm64-bgfx/macosarm64bgfxshaderprofiles.md",
+      "sha256": "b8a218e4ac8b53b5239fcb67dce2c71151f7bae2cee7b00298333094a216e84e"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-macosarm64-bgfx/index.md",
+      "sha256": "df5a3dec9787b224f6bd39b093651618d85b1f9e474eed5f72b840e899159e34"
+    }
+  ]
+}

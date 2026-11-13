@@ -1,0 +1,49 @@
+{
+  "scope": "Warm filesystem; five independent Build CLI processes including CLR startup and snapshot opening, not in-process query latency",
+  "query": "restore properties across reload",
+  "limit": 1,
+  "snapshot": "b0b6b6fed9f9ec8e339904eb8ea0cb97e0080e69e726b57ed7e3960e4677ba45",
+  "contentIdentity": "65a6b0ae941589d6bc14493a50e6555fd3cd82a9e30ada238aa32ff70f4759e8",
+  "sourceApiStatus": "Unverified",
+  "sdk": "10.0.402",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "preparation": "Previously prepared immutable snapshot; no SDK graph, engine compilation, Native preparation or query network operation",
+  "samples": [
+    {
+      "milliseconds": 1371.0857,
+      "bytes": 1241,
+      "firstPage": "manual.serialization.restore-properties",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt"
+    },
+    {
+      "milliseconds": 1409.4333,
+      "bytes": 1241,
+      "firstPage": "manual.serialization.restore-properties",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt"
+    },
+    {
+      "milliseconds": 1447.9754000000003,
+      "bytes": 1241,
+      "firstPage": "manual.serialization.restore-properties",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt"
+    },
+    {
+      "milliseconds": 1245.1588000000002,
+      "bytes": 1241,
+      "firstPage": "manual.serialization.restore-properties",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt"
+    },
+    {
+      "milliseconds": 1470.6082999999999,
+      "bytes": 1241,
+      "firstPage": "manual.serialization.restore-properties",
+      "sectionsReturned": 1,
+      "completeness": "Excerpt"
+    }
+  ],
+  "medianMilliseconds": 1409.4333
+}

@@ -1,0 +1,106 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "537ec77d8445967534cd932f5f7735758ad98f13",
+  "sourceTree": "233db1705c38ba8a279ed95efec8568d17fffc2c",
+  "sourceApiStatus": "Unverified",
+  "semanticNotes": [
+    "Internal capture/index/allocation mechanisms moved out of the introductory usage page into the Scene architecture explanation.",
+    "GameSystem examples of potential physics or navigation consumers do not establish implemented engine features.",
+    "The previous C07 completion gap is historical acceptance work, not a current product contract or a newly certified recovery matrix.",
+    "Host state serialization and importer discovery are distinct from the actual explicitly exported runtime script surface."
+  ],
+  "reviews": [
+    {
+      "source": "docs/modules/scene/Inno.Scene.Assets.md",
+      "sourceSha256": "2e1ca61e73b04802277a6ffdfe0386efa87be4dec03e7b604606d142945efe48",
+      "project": "Inno.Scene.Assets",
+      "destinations": [
+        "content/en/api/projects/inno-scene.md",
+        "content/en/api/projects/inno-scene-assets.md",
+        "content/en/manual/scenes/index.md",
+        "content/en/manual/scenes/manage-scenes.md",
+        "content/en/manual/scenes/transforms.md",
+        "content/en/manual/scenes/behaviors.md",
+        "content/en/manual/scenes/prefabs.md",
+        "content/en/manual/scenes/tags-and-layers.md",
+        "content/en/manual/scenes/missing.md",
+        "content/en/architecture/scene-lifecycle.md",
+        "content/en/extending/scene-state.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/scene/Inno.Scene.md",
+      "sourceSha256": "9560708ceafcccc7e602cc8b8eb951061a4d7e54e5525e6d0d1c3f568ee998ca",
+      "project": "Inno.Scene",
+      "destinations": [
+        "content/en/api/projects/inno-scene.md",
+        "content/en/api/projects/inno-scene-assets.md",
+        "content/en/manual/scenes/index.md",
+        "content/en/manual/scenes/manage-scenes.md",
+        "content/en/manual/scenes/transforms.md",
+        "content/en/manual/scenes/behaviors.md",
+        "content/en/manual/scenes/prefabs.md",
+        "content/en/manual/scenes/tags-and-layers.md",
+        "content/en/manual/scenes/missing.md",
+        "content/en/architecture/scene-lifecycle.md",
+        "content/en/extending/scene-state.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 310,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/scene/Inno.Scene/api.md",
+      "sourceSha256": "96d2dcf4c23f31039e124466f6b1d4c311c10361a244b7bd918e02dad11e3f20",
+      "project": "Inno.Scene",
+      "destinations": [
+        "content/en/api/projects/inno-scene.md",
+        "content/en/api/projects/inno-scene-assets.md",
+        "content/en/manual/scenes/index.md",
+        "content/en/manual/scenes/manage-scenes.md",
+        "content/en/manual/scenes/transforms.md",
+        "content/en/manual/scenes/behaviors.md",
+        "content/en/manual/scenes/prefabs.md",
+        "content/en/manual/scenes/tags-and-layers.md",
+        "content/en/manual/scenes/missing.md",
+        "content/en/architecture/scene-lifecycle.md",
+        "content/en/extending/scene-state.md"
+      ],
+      "baselineSymbols": 310,
+      "currentSymbols": 310,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    },
+    {
+      "source": "docs/modules/scene/README.md",
+      "sourceSha256": "18f67bdeb71edce582252de664e48a5df9bc728054901dd292185f90aa6d9109",
+      "project": "Inno.Scene",
+      "destinations": [
+        "content/en/api/projects/inno-scene.md",
+        "content/en/api/projects/inno-scene-assets.md",
+        "content/en/manual/scenes/index.md",
+        "content/en/manual/scenes/manage-scenes.md",
+        "content/en/manual/scenes/transforms.md",
+        "content/en/manual/scenes/behaviors.md",
+        "content/en/manual/scenes/prefabs.md",
+        "content/en/manual/scenes/tags-and-layers.md",
+        "content/en/manual/scenes/missing.md",
+        "content/en/architecture/scene-lifecycle.md",
+        "content/en/extending/scene-state.md"
+      ],
+      "baselineSymbols": 0,
+      "currentSymbols": 310,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPassed"
+    }
+  ]
+}

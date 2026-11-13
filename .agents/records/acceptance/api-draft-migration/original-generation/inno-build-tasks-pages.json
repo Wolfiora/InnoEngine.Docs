@@ -1,0 +1,37 @@
+{
+  "project": "Inno.Build.Tasks",
+  "outputDirectory": "content/en/api/types/build-execution/inno-build-tasks",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "facts": "reference/api/build-execution.json",
+  "factsIdentity": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
+  "sharedContract": "project.inno-build-tasks",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/compileshadertask.md",
+      "sha256": "b43a1966d3355726ba8bb3ef11b294fecc0f202e186bb784698b8438b6cd5e91"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/generatebindingstask.md",
+      "sha256": "61f08596ad673a4f149489bf44ae2820cfbbdfeb78d9aa54ec59b0fcb004a44d"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/maintainbuildcachestask.md",
+      "sha256": "6a71f519ddc7881b888f0b19b7792eeded41bebc59a3ee7f184da5feaff75e7b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/prepareproductnativetask.md",
+      "sha256": "ffa2b845c9d8b73ee6fc280b2b5a882ff3ee9477bf060af74df2263029ecb75b"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/publishsupportpacktask.md",
+      "sha256": "a1514839ba1476eb8c515575725ba752d43ab06d09429787f26eaa4d7a3cfafb"
+    },
+    {
+      "path": "content/en/api/types/build-execution/inno-build-tasks/index.md",
+      "sha256": "f030c4d408c5cb217b47e78526b12d3bda431abfd5ce66b6b02c74fe9fb9da21"
+    }
+  ]
+}

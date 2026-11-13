@@ -1,0 +1,24 @@
+{
+  "project": "Inno.References",
+  "outputDirectory": "content/en/api/runtime-script/inno-references",
+  "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
+  "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628",
+  "facts": "reference/api/runtime-script.json",
+  "factsIdentity": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
+  "sharedContract": "project.inno-references",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/runtime-script/inno-references/innoengine.references.contentreadscope.md",
+      "sha256": "0eabf59ad8b50de8cd73460c27882671a1144eb11698cb5592107bf2f81f6ca7"
+    },
+    {
+      "path": "content/en/api/runtime-script/inno-references/index.md",
+      "sha256": "537adcbd75a02a41a4df9096abd963c4b8d6ec6b5339f1b51fc8c736298b4728"
+    }
+  ],
+  "additionalContracts": [
+    "manual.scripting.use-script-api"
+  ]
+}

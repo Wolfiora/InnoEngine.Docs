@@ -1,0 +1,549 @@
+{
+  "snapshot": "d1ddaf5536992b68efc6e923a119653c98b0b44448b1c6592fb82509e16f46d6",
+  "contentIdentity": "dd42616a4a441cdba813a366f4ead013ccf3cc676dfe0af500e845694b7466a4",
+  "pages": 2526,
+  "projects": 252,
+  "sourceApiStatus": "Unverified",
+  "environment": {
+    "platform": "win32",
+    "release": "10.0.26200",
+    "architecture": "x64",
+    "runtime": "10.0.14",
+    "sdk": "10.0.402",
+    "entrySha256": "b408753e20ebd65b902046a8dd62cfc3b38a2a8b7e8bc97780e051f76ad34f50"
+  },
+  "method": "Six independent CLI processes per scenario; first invocation recorded separately, followed by five warm observations. OS caches were not flushed, so the first observation is not a certified cold run. Prepared immutable snapshot; no indexing, SDK graph, engine/native preparation or network requested.",
+  "results": [
+    {
+      "name": "Console task search",
+      "arguments": [
+        "search",
+        "--query",
+        "customize console presentation",
+        "--limit",
+        "5"
+      ],
+      "medianWarmMilliseconds": 1123.6350000000002,
+      "samples": [
+        {
+          "iteration": 0,
+          "kind": "first-process-observation",
+          "milliseconds": 1119.5583000000001,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        },
+        {
+          "iteration": 1,
+          "kind": "warm",
+          "milliseconds": 1160.9845,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        },
+        {
+          "iteration": 2,
+          "kind": "warm",
+          "milliseconds": 1072.7791000000002,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        },
+        {
+          "iteration": 3,
+          "kind": "warm",
+          "milliseconds": 1126.6499,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        },
+        {
+          "iteration": 4,
+          "kind": "warm",
+          "milliseconds": 1123.6350000000002,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        },
+        {
+          "iteration": 5,
+          "kind": "warm",
+          "milliseconds": 1072.4971999999998,
+          "outputBytes": 4282,
+          "status": "Found",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "customize-console-presentation",
+              "reason": "Exact heading",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "architecture.editor-ui",
+              "page": "content/en/architecture/editor-ui.md",
+              "section": "keep-presentation-state-with-its-owner",
+              "reason": "Heading and indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "contributing.documentation-queries",
+              "page": "content/en/contributing/documentation-queries.md",
+              "section": "find-a-task",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.editor-panels",
+              "page": "content/en/extending/editor-panels.md",
+              "section": "related-guidance",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            },
+            {
+              "pageId": "extending.home",
+              "page": "content/en/extending/index.md",
+              "section": "choose-the-boundary",
+              "reason": "Indexed body terms",
+              "completeness": "Excerpt"
+            }
+          ],
+          "continuations": 0
+        }
+      ]
+    },
+    {
+      "name": "Exact Console guide",
+      "arguments": [
+        "read",
+        "--page",
+        "extending.console-style"
+      ],
+      "medianWarmMilliseconds": 792.6466,
+      "samples": [
+        {
+          "iteration": 0,
+          "kind": "first-process-observation",
+          "milliseconds": 776.0038999999997,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        },
+        {
+          "iteration": 1,
+          "kind": "warm",
+          "milliseconds": 792.6466,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        },
+        {
+          "iteration": 2,
+          "kind": "warm",
+          "milliseconds": 872.7427000000007,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        },
+        {
+          "iteration": 3,
+          "kind": "warm",
+          "milliseconds": 790.2507000000005,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        },
+        {
+          "iteration": 4,
+          "kind": "warm",
+          "milliseconds": 806.839899999999,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        },
+        {
+          "iteration": 5,
+          "kind": "warm",
+          "milliseconds": 788.7271000000001,
+          "outputBytes": 3202,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "extending.console-style",
+              "page": "content/en/extending/customize-console.md",
+              "section": "",
+              "reason": "Exact page or section",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 2
+        }
+      ]
+    },
+    {
+      "name": "Exact Windows startup symbol",
+      "arguments": [
+        "symbol",
+        "--project",
+        "Inno.Editor.WindowsX64",
+        "--surface",
+        "source-clr",
+        "--id",
+        "M:Inno.Editor.WindowsX64.WindowsX64EditorComposition.Run(System.String[],System.Threading.CancellationToken)"
+      ],
+      "medianWarmMilliseconds": 786.1732000000011,
+      "samples": [
+        {
+          "iteration": 0,
+          "kind": "first-process-observation",
+          "milliseconds": 862.0090999999993,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        },
+        {
+          "iteration": 1,
+          "kind": "warm",
+          "milliseconds": 830.0251000000007,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        },
+        {
+          "iteration": 2,
+          "kind": "warm",
+          "milliseconds": 954.0393000000004,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        },
+        {
+          "iteration": 3,
+          "kind": "warm",
+          "milliseconds": 786.1732000000011,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        },
+        {
+          "iteration": 4,
+          "kind": "warm",
+          "milliseconds": 767.6078000000016,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        },
+        {
+          "iteration": 5,
+          "kind": "warm",
+          "milliseconds": 772.7634000000016,
+          "outputBytes": 2279,
+          "status": "Partial",
+          "sourceApiStatus": "Unverified",
+          "hits": [
+            {
+              "pageId": "api.inno.editor.windowsx64.f54223242db76a35",
+              "page": "content/en/api/types/windows-editor/windowsx64editorcomposition.md",
+              "section": "api-68ec0586238a32a7",
+              "reason": "Exact qualified symbol",
+              "completeness": "CompleteUnit"
+            }
+          ],
+          "continuations": 1
+        }
+      ]
+    }
+  ]
+}

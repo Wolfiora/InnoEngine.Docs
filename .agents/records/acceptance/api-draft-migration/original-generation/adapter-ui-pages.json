@@ -1,0 +1,33 @@
+{
+  "project": "Inno.Adapter.UI",
+  "outputDirectory": "content/en/api/types/adapter-ui",
+  "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
+  "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
+  "facts": "reference/api/ui.json",
+  "factsIdentity": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
+  "sharedContract": "project.inno-adapter-ui#provider-and-catalog-contract",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/adapter-ui/iuibackendfactory.md",
+      "sha256": "99446bbb2774bf475bbf3fdd39a0145bd5d09a8dbfd79b158df816eec4bd0c8d"
+    },
+    {
+      "path": "content/en/api/types/adapter-ui/uibackendcatalog.md",
+      "sha256": "caaa3905cdc9b0ba8740166c33640fb6aa7f78c4dce4a4902337411bb5bdd9e5"
+    },
+    {
+      "path": "content/en/api/types/adapter-ui/uibackendid.md",
+      "sha256": "c28733aa039b30b6706422d3e0e9ac240a399db45e9f399c90eb2e01d7d4e9bc"
+    },
+    {
+      "path": "content/en/api/types/adapter-ui/uibackendprovider.md",
+      "sha256": "71fe1e6d2aa3d24537654f2630617ea10d6c2473ab00c0568f3bd64762e82e9d"
+    },
+    {
+      "path": "content/en/api/types/adapter-ui/index.md",
+      "sha256": "7e6399b5b1036b90c3b93fcbb96aab05b0ddf0ebf10b23f983f5180941dc4d06"
+    }
+  ]
+}

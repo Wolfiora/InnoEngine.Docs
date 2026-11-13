@@ -1,0 +1,57 @@
+{
+  "baseline": "a4e44769715c0577fb0a4c13b2d14ad998ddd8e1",
+  "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
+  "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
+  "sourceApiStatus": "Unverified",
+  "semanticCorrections": [
+    "Prepared documentation queries read an explicit immutable snapshot and do not update or rebuild it.",
+    "Validation failure blocks explicit dependents; an unrelated failure does not block every later context."
+  ],
+  "reviews": [
+    {
+      "source": "docs/development/entry/InnoEngine.Build.md",
+      "sourceSha256": "01818537de624ac1217dfea6f164140cc33df3ea78f2c099357679c2d6f151a7",
+      "sourceBlobSha256": "16d92b83d86cf5977a2aefbc8ece898ecf9ce7b7d79c3b577ea040f41d8e4b98",
+      "destinations": [
+        "content/en/api/projects/innoengine-build.md",
+        "content/en/contributing/development-entries.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/entry/InnoEngine.Editor.md",
+      "sourceSha256": "42f90fe5deaf97dea88e72c61a3372394fa79557c7f34e723ee72dfa674d4514",
+      "sourceBlobSha256": "1a189c72d41955c9bccf2f32c19cf2335cebde89520835dc50667ec3782c5136",
+      "destinations": [
+        "content/en/api/projects/innoengine-editor.md",
+        "content/en/contributing/development-entries.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "baselineSymbols": 0,
+      "capturedSymbols": 0,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    },
+    {
+      "source": "docs/development/tooling/Inno.Tooling.Validation.md",
+      "sourceSha256": "15d2c4c39095e1d3e1457a29c3855b034d3ab5fc2c2bdc7f62577f3a109074d4",
+      "sourceBlobSha256": "80825819bbf80b7c3818950fbba82e554a67b742590e647bd08b27f277e2bab3",
+      "destinations": [
+        "content/en/api/projects/inno-tooling-validation.md",
+        "content/en/contributing/development-entries.md",
+        "content/en/contributing/validate-change.md"
+      ],
+      "baselineSymbols": 2,
+      "capturedSymbols": 2,
+      "missing": [],
+      "changedSignatures": [],
+      "status": "NarrativeAndDeclarationReviewedExamplesPending"
+    }
+  ]
+}

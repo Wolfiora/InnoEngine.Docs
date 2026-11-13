@@ -1,0 +1,25 @@
+{
+  "project": "Inno.Integration.WindowsX64.Bgfx",
+  "outputDirectory": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx",
+  "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
+  "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69",
+  "facts": "reference/api/platform-services.json",
+  "factsIdentity": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
+  "sharedContract": "project.inno-integration-windowsx64-bgfx",
+  "xmlLinks": "",
+  "xmlLinksIdentity": null,
+  "files": [
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx/windowsx64bgfxintegration.md",
+      "sha256": "2e46ce43aa499acea522ecaea68647e306bdacf258da677ea94d3efd1d7ed106"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx/windowsx64bgfxshaderprofiles.md",
+      "sha256": "624450e7236ec0343f6d6d0b424d66abef270f99631e34d58406446491b46416"
+    },
+    {
+      "path": "content/en/api/types/platform-services/inno-integration-windowsx64-bgfx/index.md",
+      "sha256": "32dd6b343986b1fe3306e6a8101cfa825b324875673cad8ceb5ec59a6bca08b9"
+    }
+  ]
+}
