@@ -2,8 +2,26 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { parse } from 'yaml';
+import { spawnSync } from 'node:child_process';
 
 const workflow = async name => parse(await readFile(new URL(`../.github/workflows/${name}.yml`, import.meta.url), 'utf8'), { uniqueKeys: true });
+
+for (const [name, variable, operation, input] of [
+  ['Select only changed or uncovered executable examples', 'PREVIOUS_AVAILABLE', 'plan', 'artifacts/previous-examples'],
+  ['Reconcile reused and newly executed example groups', 'COMPILED_EXAMPLES', 'complete', 'artifacts/examples/compiled.json'],
+]) for (const available of [true, false]) test(`${operation} passes ${available ? 'one complete path' : 'no optional path'} through PowerShell`, async () => {
+  const value = await workflow('documentation');
+  const step = value.jobs.projection.steps.find(candidate => candidate.name === name);
+  assert.equal(step.shell, 'pwsh');
+  // Execute the actual workflow body; capture its native command arguments without compiling examples.
+  const script = `function node { ConvertTo-Json -InputObject @($args) -Compress }; $global:LASTEXITCODE = 0\n${step.run}`;
+  const result = spawnSync('pwsh', ['-NoLogo', '-NoProfile', '-NonInteractive', '-Command', script], {
+    encoding: 'utf8', env: { ...process.env, [variable]: String(available) },
+  });
+  assert.ifError(result.error);
+  assert.equal(result.status, 0, result.stderr);
+  assert.deepEqual(JSON.parse(result.stdout), ['scripts/example-work.mjs', operation, ...(available ? [input] : [])]);
+});
 
 test('editorial reporting uses trusted workflow code and is outside the required aggregate', async () => {
   const value = await workflow('api-editorial');

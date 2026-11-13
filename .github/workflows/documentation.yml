@@ -86,7 +86,7 @@ jobs:
         env:
           PREVIOUS_AVAILABLE: ${{ steps.previous-examples.outputs.available }}
         run: |
-          $previous = if ($env:PREVIOUS_AVAILABLE -eq 'true') { @('artifacts/previous-examples') } else { @() }
+          $previous = @(if ($env:PREVIOUS_AVAILABLE -eq 'true') { 'artifacts/previous-examples' })
           node scripts/example-work.mjs plan @previous
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -110,7 +110,7 @@ jobs:
         env:
           COMPILED_EXAMPLES: ${{ steps.example-work.outputs.compile }}
         run: |
-          $compiled = if ($env:COMPILED_EXAMPLES -eq 'true') { @('artifacts/examples/compiled.json') } else { @() }
+          $compiled = @(if ($env:COMPILED_EXAMPLES -eq 'true') { 'artifacts/examples/compiled.json' })
           node scripts/example-work.mjs complete @compiled
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
       - name: Retain exact example receipts for trusted reuse
@@ -160,6 +160,7 @@ jobs:
             artifacts/browser/
             artifacts/examples/*.log
             artifacts/examples/work.json
+            artifacts/examples/compiled.json
             artifacts/examples/result.json
           if-no-files-found: warn
           retention-days: 30
