@@ -1,0 +1,13 @@
+---
+uid: api.fe042167c33ea40870902f8e526784d7648d300cf85311991b5c9a8ec02038f6
+symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderResourceId.value"
+source: xml
+reviewed: 025211d5ffe52b091c216d81ab681b76a1dba69f42bd13be813d200922aed4c8
+title: "RenderResourceId.value"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets the globally stable protocol value.

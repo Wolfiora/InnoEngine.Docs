@@ -1,0 +1,12 @@
+---
+uid: api.92bd359f668e68758ebd48bbac3b77846c4bc8bde7e86b951e60c9085b0ed7b2
+symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderPassKind.Compute"
+source: xml
+reviewed: 2dd5ac30317731e5e2c718f4efe1c1cd16e452db8f1857fceb261952e449f1ea
+title: "RenderPassKind.Compute"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Compute dispatch commands.

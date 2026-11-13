@@ -1,0 +1,13 @@
+---
+uid: api.0a010691d5f2823c1884908b31ca184165d239a87fb439a2ab8e2144b38b4122
+symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiContextOptions.width"
+source: xml
+reviewed: b95879b7a7eeccac184a09473eb7484a40f8ba93bbbbb3634b4d77f3c4d96f36
+title: "UiContextOptions.width"
+kind: api
+owners: [Inno.UI]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets the initial width in pixels.

@@ -1,0 +1,16 @@
+---
+uid: api.3412e62368b08ba36ddd68d9f30fecb305684f0c4689fdbaf4a7843409892bea
+symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioContentStatistics.Equals(Inno.Audio.Runtime.AudioContentStatistics)"
+source: xml
+reviewed: bd79ac975de314780bb9b98781149aee9e5db34bbebc25af04c55d6612321150
+title: "AudioContentStatistics.Equals"
+kind: api
+owners: [Inno.Audio.Runtime]
+apiSurface: source-clr
+---
+
+Indicates whether the current object is equal to another object of the same type.
+
+**Parameter `other`:** An object to compare with this object.
+
+**Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.

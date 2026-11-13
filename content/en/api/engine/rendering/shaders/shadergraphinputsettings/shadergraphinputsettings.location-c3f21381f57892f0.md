@@ -1,0 +1,12 @@
+---
+uid: api.c3f21381f57892f01cd8f802d11d3e04ee08b36d37cff8cec3783afd298eb734
+symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphInputSettings.location"
+source: xml
+reviewed: d3131055ffac10b37e94d7cc2011411759c7adc0f352416def0a30deb9ee5bb8
+title: "ShaderGraphInputSettings.location"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Gets or sets the interface index.

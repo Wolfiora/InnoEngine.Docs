@@ -1,0 +1,17 @@
+---
+uid: api.00e1362cae446790f1fbc3fc2eb01e96c05bdfe41ca34c2a38dae178c5a2982a
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction\u00602.Query(InnoEditor.Interactions.EditorActionContext{\u00600,\u00601})"
+source: xml
+reviewed: 922acbff27c7e439d9b47a805ca94c4367363b0325fada59335fb25e470e26f4
+title: "EditorAction\u003CTTarget, TArgument\u003E.Query"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Evaluates the action for a typed target and argument.
+
+**Parameter `context`:** The typed contextual request.
+
+**Returns:** The current presentation and availability state.

@@ -9,15 +9,11 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## AnimationBindingRuntime
+## Types
 
-- [AnimationBindingRuntime](animationbindingruntime/index.md)
-
-## AnimationRuntime
-
-- [AnimationRuntime](animationruntime/index.md)
-
-## AnimationRuntimeFactory
-
-- [AnimationRuntimeFactory](animationruntimefactory/index.md)
+| Type | Purpose |
+| --- | --- |
+| [AnimationBindingRuntime](animationbindingruntime/index.md) | Resolves declared binding protocols through transactional, generation-owned extension snapshots. |
+| [AnimationRuntime](animationruntime/index.md) | Owns animation playback, sampling, blending, and marker dispatch for one runtime session. |
+| [AnimationRuntimeFactory](animationruntimefactory/index.md) | Creates one animation runtime feature for each isolated session. |
 

@@ -9,15 +9,11 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## IRenderingAuthoringBackendFactory
+## Types
 
-- [IRenderingAuthoringBackendFactory](irenderingauthoringbackendfactory/index.md)
-
-## RenderingAuthoringBackendCatalog
-
-- [RenderingAuthoringBackendCatalog](renderingauthoringbackendcatalog/index.md)
-
-## RenderingAuthoringBackendProvider
-
-- [RenderingAuthoringBackendProvider](renderingauthoringbackendprovider/index.md)
+| Type | Purpose |
+| --- | --- |
+| [IRenderingAuthoringBackendFactory](irenderingauthoringbackendfactory/index.md) | Creates offline rendering compilers paired with a selected runtime rendering backend. |
+| [RenderingAuthoringBackendCatalog](renderingauthoringbackendcatalog/index.md) | Pairs one immutable authoring provider set with a runtime rendering catalog. |
+| [RenderingAuthoringBackendProvider](renderingauthoringbackendprovider/index.md) | Supplies authoring tools paired with one runtime rendering implementation. |
 

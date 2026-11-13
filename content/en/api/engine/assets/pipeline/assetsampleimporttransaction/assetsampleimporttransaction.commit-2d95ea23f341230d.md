@@ -1,0 +1,18 @@
+---
+uid: api.2d95ea23f341230d3a6c00f87a998f13b9c2f95a3381103f616101775957f3ed
+symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleImportTransaction.Commit(System.Action{Inno.Assets.AssetPath})"
+source: xml
+reviewed: 843df79633c59ff91aa949f9356b7ec0950956d54f9ce209c7a0acf6e56ae687
+title: "AssetSampleImportTransaction.Commit"
+kind: api
+owners: [Inno.Assets.Pipeline]
+apiSurface: source-clr
+---
+
+Publishes a successfully validated import exactly once, without waiting for unfinished work.
+
+**Parameter `beforePublish`:** Optional owner-thread finalization, such as recording neutral History data. Failure leaves the transaction open for Rollback and no Changed notification is published.
+
+**Exception `T:System.InvalidOperationException`:** Validation is unfinished, the transaction is finished, or the caller is not its owner thread.
+
+**Exception `T:System.OperationCanceledException`:** The import or its validation was canceled before publication.

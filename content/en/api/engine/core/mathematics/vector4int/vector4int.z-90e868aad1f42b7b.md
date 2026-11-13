@@ -1,0 +1,12 @@
+---
+uid: api.90e868aad1f42b7ba6606036cb97df75c991eba56a11fc27d7175a3f376c0666
+symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector4Int.z"
+source: xml
+reviewed: b8d793d4f0a48acae7cc440fd886f3346cb2cf2177bea0cf8a9b4d859909ea63
+title: "Vector4Int.z"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: source-clr
+---
+
+The depth or third component.

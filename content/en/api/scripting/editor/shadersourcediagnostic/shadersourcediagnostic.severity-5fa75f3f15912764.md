@@ -1,0 +1,13 @@
+---
+uid: api.5fa75f3f15912764e0da43967ba4aa6d86cd5474958d6047b575346f2e9eceac
+symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceDiagnostic.severity"
+source: xml
+reviewed: 4039e5b46078065bb66cad57a05554600a1575eb36bca77ab648cc31d4e38df0
+title: "ShaderSourceDiagnostic.severity"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Diagnostic severity.

@@ -1,0 +1,13 @@
+---
+uid: api.94f5478399dd19a5ecebc61a461a146600d8555b1f74d92f37be07b1d4ac5518
+symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorActionContext.area"
+source: xml
+reviewed: 3a8d2d15d39d4458c7944662d744a75ed66581c21aa22b5d58f4eadc1362df2f
+title: "EditorActionContext.area"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets the stable interaction area.

@@ -1,0 +1,13 @@
+---
+uid: api.5ab13003bb520fa2ae2082b127588a6373e68da3c15d02ec4b65b4bc88f10e4f
+symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderClearColor.r"
+source: xml
+reviewed: 0d2fbec1a61d50b09bea38ac174c52c1f92c21975c3018630963b0f0909d1847
+title: "RenderClearColor.r"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets the red channel.

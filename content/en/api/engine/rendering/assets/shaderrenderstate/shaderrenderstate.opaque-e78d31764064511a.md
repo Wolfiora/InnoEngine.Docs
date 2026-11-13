@@ -1,0 +1,12 @@
+---
+uid: api.e78d31764064511a1bbc2f089fe795262d3435b9b32e14b1856472416882ab34
+symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.ShaderRenderState.opaque"
+source: xml
+reviewed: 7f43fc4666d314cae539b31b24b025cf375189a07d05e5b2fddf7a8bb1b816f0
+title: "ShaderRenderState.opaque"
+kind: api
+owners: [Inno.Rendering.Assets]
+apiSurface: source-clr
+---
+
+Gets the default opaque raster state.

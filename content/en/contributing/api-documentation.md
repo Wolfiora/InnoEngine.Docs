@@ -39,7 +39,9 @@ Engine API accepts only `src/` and `build/` C# owners. `tools/`, `entry/`, `plat
 
 ## Take over one explanation
 
-Each type has an `index.md`; its members have separate `_members/*.md` fragments. Members appear together on the type's website page and remain individually addressable through the query model.
+Every API element has its own Markdown and published page. A type keeps its `index.md`; its members use dotted filenames such as `value.count-<stable-id>.md` in the same directory. The displayed name is `Value.count`; the identity suffix distinguishes overloads without becoming an API name. Type pages link to members and nested types through description tables. Nested names retain their declaring chain, such as `Outer<T>.Inner<U>.Read`. Project categories use table navigation at every depth.
+
+Each element carries its own declaration, source marker and prose. Member pages link the declaring type and its required usage contracts. Website and AI queries expose the same independent pages; reading one member does not load every sibling's explanation.
 
 Edit the relevant fragment and change its ownership marker:
 

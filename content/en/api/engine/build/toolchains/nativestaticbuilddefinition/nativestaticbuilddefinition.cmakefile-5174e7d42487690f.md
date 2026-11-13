@@ -1,0 +1,12 @@
+---
+uid: api.5174e7d42487690fb148089dcd36ac21c931b2aeee0beb1256cc37681ac6d735
+symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeStaticBuildDefinition.cmakeFile"
+source: xml
+reviewed: 224896fdf0a8506c42d26027eb9491216d59619a34cd17cafc903e190455cb0b
+title: "NativeStaticBuildDefinition.cmakeFile"
+kind: api
+owners: [Inno.Build.Toolchains]
+apiSurface: source-clr
+---
+
+Gets the component-owned CMake definition, which participates in artifact identity.

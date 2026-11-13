@@ -1,0 +1,20 @@
+---
+uid: api.66a7d8238f6b4249a599724eb171a402f6d48881882c6695fef1effa2a2e72dd
+symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticReporter.Resolve(System.String,System.String,System.Nullable{System.Guid})"
+source: xml
+reviewed: 1af64dab173ad147f57a26f22cdac865cca472aca02ba3e15acbb4dfb3462dc3
+title: "DiagnosticReporter.Resolve"
+kind: api
+owners: [Inno.Core.Diagnostics]
+apiSurface: source-clr
+---
+
+Resolves an issue after the represented condition no longer exists.
+
+**Parameter `code`:** The stable issue code.
+
+**Parameter `semanticId`:** The optional protocol identifier used at publication.
+
+**Parameter `objectId`:** The optional persistent object identity used at publication.
+
+**Exception `T:System.ObjectDisposedException`:** This producer has retired or been replaced.

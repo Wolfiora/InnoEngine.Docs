@@ -1,0 +1,13 @@
+---
+uid: api.d245e00b39c45234e262f6492ce11096d4f7d4a715f3d98f4be71c2ab6486589
+symbol: "scripting:Inno.Text:P:InnoEngine.Text.GlyphBitmap.pixels"
+source: xml
+reviewed: c411b6c6b63b1604e92c039235cc20dcafc225575bc53e844fd3760442521152
+title: "GlyphBitmap.pixels"
+kind: api
+owners: [Inno.Text]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets tightly packed row-major 8-bit coverage.

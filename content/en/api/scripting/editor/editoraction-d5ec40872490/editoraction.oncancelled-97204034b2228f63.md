@@ -1,0 +1,13 @@
+---
+uid: api.97204034b2228f6385cbd3ab4fd2cacc6446b06e2aadf67f415b5eb64a00f072
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction.OnCancelled"
+source: xml
+reviewed: 91f120f582106212c943c32d9466f4ee76a9f8affcaef392a8dfe9cc770992b2
+title: "EditorAction.OnCancelled"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Runs after an active operation is cancelled.

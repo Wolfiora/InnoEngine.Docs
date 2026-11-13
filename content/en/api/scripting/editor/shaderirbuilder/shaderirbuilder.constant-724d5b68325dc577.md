@@ -1,0 +1,17 @@
+---
+uid: api.724d5b68325dc57733a9574f129ebc28832c3ca29dff6b6623364531bd0d60a0
+symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Constant(System.Boolean)"
+source: xml
+reviewed: 64a3c3cb5237751ddda15849742250a4dee5e7304251f8bdf3729f55a60687a5
+title: "ShaderIrBuilder.Constant"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Produces a scalar Boolean constant.
+
+**Parameter `value`:** Scalar Boolean value.
+
+**Returns:** A bool-typed intermediate value.

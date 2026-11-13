@@ -1,0 +1,13 @@
+---
+uid: api.a38b5b04272de955eb6b314eaa47bc59e6c60f2ba1c24487738a80e920d8bcd6
+symbol: "scripting:Inno.Rendering.Shaders:F:InnoEditor.Rendering.Shaders.ShaderIrOperation.Add"
+source: xml
+reviewed: b2de7bdffbb41ab60f95d3726149f071345d26a835ef836707a91556b48f2c12
+title: "ShaderIrOperation.Add"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Adds two equal numeric types component by component.

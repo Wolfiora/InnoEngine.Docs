@@ -1,0 +1,12 @@
+---
+uid: api.958261539cf237b8998fab3b65af25cb9eee4d6660085bd0a39ed76510089be6
+symbol: "engine:Inno.Core.Logging:F:Inno.Core.Logging.LogEntry.message"
+source: xml
+reviewed: 6b3d89ac90efba984fe67a97bab6b664d7feb6544a28c49d8448d8f79185c5e3
+title: "LogEntry.message"
+kind: api
+owners: [Inno.Core.Logging]
+apiSurface: source-clr
+---
+
+Gets the rendered message text.

@@ -1,0 +1,12 @@
+---
+uid: api.a55a1367af250730d1008cb51213995b73404aff3e6f87e28222403addf8e731
+symbol: "engine:Inno.UI:P:Inno.UI.UiContextOptions.density"
+source: xml
+reviewed: aefb968c1500286c5e74a7e95bf8e9e41e98262183191cfa976dbc12258bbed9
+title: "UiContextOptions.density"
+kind: api
+owners: [Inno.UI]
+apiSurface: source-clr
+---
+
+Gets the density-independent pixel ratio.

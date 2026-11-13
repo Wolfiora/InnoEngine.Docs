@@ -1,0 +1,16 @@
+---
+uid: api.71a658b81d5421951dd2190479a09bd6b05618226b03552279fe250691b1e9df
+symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphCallNodeCompiler.GetPorts(Inno.Rendering.Shaders.ShaderNodeDescriptionContext)"
+source: xml
+reviewed: 0162c12f284f50c19c6d3df35f7bbc2191a45d1d4dec6cd8d8e736996a415892
+title: "ShaderGraphCallNodeCompiler.GetPorts"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Gets a ports required by the implemented contract.
+
+**Parameter `context`:** The context that supplies state and services for this operation.
+
+**Returns:** An immutable snapshot of the values selected by the operation.

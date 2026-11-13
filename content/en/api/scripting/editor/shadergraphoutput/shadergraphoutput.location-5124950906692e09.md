@@ -1,0 +1,13 @@
+---
+uid: api.5124950906692e097b8059856c94ea41a110dd7bb285663b466006114fbf7aef
+symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphOutput.location"
+source: xml
+reviewed: 803660447268f2643215217c2e6fdedbccbf4e652cd0e22ade6b10ce0b08c823
+title: "ShaderGraphOutput.location"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets or sets the varying or attachment index.

@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Standard
+## Categories
 
-[Browse Standard](standard/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Standard](standard/index.md) | The standard engine distribution&#39;s platform, tool and product composition. |
 

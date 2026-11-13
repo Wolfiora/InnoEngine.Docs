@@ -1,0 +1,13 @@
+---
+uid: api.8ddacf80e20a80701112152bc782b6c58736804687b785da44a97aa8ca27523f
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey._7"
+source: xml
+reviewed: 1e895a917340bdae0687e9f5161764a7c60602e17687adbfe42681770033ec32
+title: "ImGuiKey._7"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the \_7 presentation key or modifier.

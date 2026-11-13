@@ -1,0 +1,13 @@
+---
+uid: api.13f61579c06249f2470cccc25c000c56f2b074498d9c2ed3d7c31e6855234e4a
+symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderContractId.op_Equality(InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderContractId)"
+source: xml
+reviewed: 7cc6da9b13eb946fdba4bfdb7dd4aaca6f3cd690d6eb8e865fca58312bbb1b69
+title: "ShaderContractId.op_Equality"
+kind: api
+owners: [Inno.Rendering.Assets]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+No XML description is available.

@@ -1,0 +1,16 @@
+---
+uid: api.c6c379e8d65445e04607151b7d9995989615e1713c2f264b0055bbb1be9ee7e0
+symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderPassBuilder.After(Inno.Rendering.RenderPhaseId)"
+source: xml
+reviewed: 1d018a46f79de10ddf5f2d351d0dd7e2376d67f79cb9fce24aa0413d407849d7
+title: "RenderPassBuilder.After"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Orders this pass after every pass in a target phase.
+
+**Parameter `phase`:** Target phase.
+
+**Returns:** This builder for fluent declarations.

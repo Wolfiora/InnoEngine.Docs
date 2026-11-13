@@ -1,0 +1,13 @@
+---
+uid: api.44252029cfc21f644374a23bff5f5c33e8d7e50cc636545b9ae65afb02c19f27
+symbol: "scripting:Inno.Core.Identity:P:InnoEngine.Core.IdentityDomainId.isValid"
+source: xml
+reviewed: 6d8e2e2d8c780e1a188b43fbc9de48a13422a09de33d86972f350039471224bb
+title: "IdentityDomainId.isValid"
+kind: api
+owners: [Inno.Core.Identity]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets whether this value identifies an allocated runtime domain.

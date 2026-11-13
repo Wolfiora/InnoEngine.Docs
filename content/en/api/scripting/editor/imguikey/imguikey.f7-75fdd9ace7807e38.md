@@ -1,0 +1,13 @@
+---
+uid: api.75fdd9ace7807e38668f7da2a5d1c61500965efa6146bbb1cc6b3c8bb9208413
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F7"
+source: xml
+reviewed: eb3a56b870a37b7982680aa652ac1aac6099a7d6443f275467c9f9eb78a54ce3
+title: "ImGuiKey.F7"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the F7 presentation key or modifier.

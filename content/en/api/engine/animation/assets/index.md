@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## AnimationClipImporter
+## Types
 
-- [AnimationClipImporter](animationclipimporter/index.md)
+| Type | Purpose |
+| --- | --- |
+| [AnimationClipImporter](animationclipimporter/index.md) | Imports and exports structured .ianim animation clip sources. |
 

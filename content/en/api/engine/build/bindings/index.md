@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## NativeBindingGenerator
+## Types
 
-- [NativeBindingGenerator](nativebindinggenerator/index.md)
-
-## NativeBindingProfile
-
-- [NativeBindingProfile](nativebindingprofile/index.md)
+| Type | Purpose |
+| --- | --- |
+| [NativeBindingGenerator](nativebindinggenerator/index.md) | Executes the shared facade-to-C-to-managed binding workflow independently of MSBuild. |
+| [NativeBindingProfile](nativebindingprofile/index.md) | Captures one platform&#39;s official BGCS target and managed projection choices. |
 

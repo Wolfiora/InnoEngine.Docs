@@ -1,0 +1,16 @@
+---
+uid: api.7de150c43e508642cf5bde01c3da5456f61b4abcfb110187633265137c46508f
+symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourcePosition.Equals(Inno.Rendering.Shaders.ShaderSourcePosition)"
+source: xml
+reviewed: 9e52ecbbac74a39ac8b19a92a2efb0956ad49e0e059154f9e5b8288014825485
+title: "ShaderSourcePosition.Equals"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Indicates whether the current object is equal to another object of the same type.
+
+**Parameter `other`:** An object to compare with this object.
+
+**Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.

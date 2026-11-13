@@ -1,0 +1,16 @@
+---
+uid: api.5bd31582708896d5f422c3942e0111fb9377b9eec751e465e8b73b3a42015ecd
+symbol: "engine:Inno.UI:M:Inno.UI.UiDrawCommand.Equals(System.Object)"
+source: xml
+reviewed: 9fb2011a95682dd3033cffb63b3a6d841d28383113efb2a2698da0caa8e9092d
+title: "UiDrawCommand.Equals"
+kind: api
+owners: [Inno.UI]
+apiSurface: source-clr
+---
+
+Indicates whether this instance and a specified object are equal.
+
+**Parameter `obj`:** The object to compare with the current instance.
+
+**Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.

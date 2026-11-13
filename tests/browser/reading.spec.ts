@@ -90,7 +90,7 @@ test('script references expose caller obligations and exact declarations', async
 
 test('API directories expose project trees and only populated script letters', async ({ page }) => {
   await page.goto('api/engine/core/collections/');
-  const graph = page.getByRole('main').getByRole('link', { name: 'DependencyGraph', exact: true });
+  const graph = page.getByRole('main').getByRole('link', { name: 'DependencyGraph<TKey>', exact: true });
   await expect(graph).toBeVisible();
   await graph.click();
   await expect(page.locator('h1')).toContainText('DependencyGraph');
@@ -106,12 +106,65 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   await expect(page.locator('.api-surface')).toHaveText('Runtime scripting');
   await expect(page.getByRole('main')).toContainText('editor-script/Debug');
   const links = page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true });
-  expect(await links.count()).toBeGreaterThan(1);
+  await expect(links).toHaveCount(1);
   const addresses = await links.evaluateAll(nodes => nodes.map(node => node.getAttribute('href')));
   expect(new Set(addresses).size).toBe(addresses.length);
   expect(addresses.every(value => value?.startsWith('https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/content/en/api/'))).toBe(true);
-  expect(addresses.some(value => value?.includes('/_members/'))).toBe(true);
+  expect(addresses.some(value => value?.includes('/_members/'))).toBe(false);
+  const member = page.getByRole('main').locator('table a').filter({ hasText: 'SceneManager.' }).first();
+  const name = await member.textContent();
+  await member.click();
+  await expect(page.locator('h1')).toHaveText(name!.split('(')[0]);
+  await expect(page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true })).toHaveCount(1);
+  await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
   await expect(page.getByRole('main')).toContainText('XML-synced');
+});
+
+test('API sidebar titles navigate and their arrows expand real category children', async ({ page }) => {
+  await page.goto('api/');
+  const mobile = page.getByRole('button', { name: /Menu/ });
+  if (await mobile.isVisible()) await mobile.click();
+  const engine = page.locator('summary > a[href="/InnoEngine.Docs/api/engine/"]');
+  await expect(engine).toBeVisible();
+  const group = engine.locator('..').locator('..');
+  await group.locator(':scope > summary .caret').click();
+  await expect(group).toHaveAttribute('open', '');
+  await expect(group.getByRole('link', { name: 'Core', exact: true })).toBeVisible();
+  await engine.focus();
+  await page.keyboard.press('Enter');
+  await expect(page).toHaveURL(/\/api\/engine\/$/);
+  await expect(page.getByRole('main').getByRole('table')).toBeVisible();
+  if (await mobile.isVisible()) await mobile.click();
+  await page.locator('summary > a[href="/InnoEngine.Docs/api/scripting/"]').click();
+  await expect(page).toHaveURL(/\/api\/scripting\/$/);
+  await expect(page.getByRole('main').getByRole('table')).toBeVisible();
+});
+
+test('nested project categories use tables with functional descriptions', async ({ page }) => {
+  await page.goto('api/engine/adapter/');
+  const table = page.getByRole('main').getByRole('table').filter({ has: page.getByRole('link', { name: 'Audio', exact: true }) });
+  await expect(table).toBeVisible();
+  const audio = table.getByRole('row').filter({ has: page.getByRole('link', { name: 'Audio', exact: true }) });
+  await expect(audio).toContainText('audio backend selection');
+  await audio.getByRole('link').click();
+  await expect(page.getByRole('main').getByRole('table')).toBeVisible();
+  await expect(page.getByRole('main')).not.toContainText('Browse Audio.');
+});
+
+test('capture API categories and standalone elements', async ({ page }, testInfo) => {
+  for (const theme of ['light', 'dark']) {
+    await page.goto('api/engine/adapter/');
+    await page.evaluate(theme => localStorage.setItem('starlight-theme', theme), theme);
+    await page.reload();
+    await page.screenshot({ path: testInfo.outputPath(`categories-${theme}.png`) });
+    await page.goto('api/engine/core/collections/dependencygraph/');
+    await page.screenshot({ path: testInfo.outputPath(`type-${theme}.png`) });
+    await page.getByRole('main').locator('table a').filter({ hasText: /^DependencyGraph<TKey>\./ }).first().click();
+    await expect(page.locator('h1')).toContainText('DependencyGraph<TKey>.');
+    await page.screenshot({ path: testInfo.outputPath(`member-${theme}.png`) });
+    const geometry = await page.evaluate(() => [document.documentElement.clientWidth, document.documentElement.scrollWidth]);
+    expect(geometry[1]).toBeLessThanOrEqual(geometry[0] + 1);
+  }
 });
 
 test('short diagnostic identities remain readable inside scrolling tables', async ({ page }) => {

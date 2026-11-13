@@ -1,0 +1,14 @@
+---
+uid: api.f364e659dc065554115ad5412dfe7e00c2f3d1f0164673eeace73aeb21ae9b6b
+symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyReloadSession.Dispose"
+source: xml
+reviewed: 7e6753907272a422ee9065fe640b9068c6a6b465fa1478af41d192e7e96fa3f2
+title: "AssemblyReloadSession.Dispose"
+kind: api
+owners: [Inno.Extensibility.Modules]
+apiSurface: source-clr
+---
+
+Rolls back an incomplete session.
+
+**Exception `T:Inno.Core.Execution.RetirementPendingException`:** The session still owns unfinished retirement and cannot be marked disposed.

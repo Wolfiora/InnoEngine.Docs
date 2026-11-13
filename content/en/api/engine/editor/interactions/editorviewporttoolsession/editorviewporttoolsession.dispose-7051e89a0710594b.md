@@ -1,0 +1,12 @@
+---
+uid: api.7051e89a0710594b2f40268db7d6efc5a04cee1c8aea359685136171d38782a3
+symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorViewportToolSession.Dispose"
+source: xml
+reviewed: e6f7378c6d01deefb1d629a9a1c25f7dc1177b57efccfe1730c8ad60fbac5e74
+title: "EditorViewportToolSession.Dispose"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: source-clr
+---
+
+Cancels active gesture state and deactivates the tool.

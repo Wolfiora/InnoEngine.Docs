@@ -1,0 +1,13 @@
+---
+uid: api.825059058d41fc3df5aa6f23b762ff54b62db24774ff51115f861f9622c5f70c
+symbol: "scripting:Inno.Editor.Interactions:F:InnoEditor.Interactions.EditorViewportCursor.Arrow"
+source: xml
+reviewed: d8f65835b9f80a1a7fdaa0c5199f573749dec20da036ed6a8020d5079d5633d9
+title: "EditorViewportCursor.Arrow"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Uses the normal arrow cursor.

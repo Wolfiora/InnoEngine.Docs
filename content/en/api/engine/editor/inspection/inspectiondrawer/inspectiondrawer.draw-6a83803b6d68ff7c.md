@@ -1,0 +1,16 @@
+---
+uid: api.6a83803b6d68ff7c59b74e9ffe0bcf5d3e0c7acf79e3345ce837553e456201fa
+symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawer\u00601.Draw(Inno.Editor.Inspection.InspectionDrawContext,\u00600)"
+source: xml
+reviewed: 94705ea231ac158f5b089f7cd508d6cb84418c3aabe182cf0eeb19a47894abca
+title: "InspectionDrawer\u003CTTarget\u003E.Draw"
+kind: api
+owners: [Inno.Editor.Inspection]
+apiSurface: source-clr
+---
+
+Draws the target-specific Inspector body below the shared target header.
+
+**Parameter `context`:** The active Inspector drawing context.
+
+**Parameter `target`:** The strongly typed target being inspected.

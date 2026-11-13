@@ -1,0 +1,12 @@
+---
+uid: api.cc2b66119d114d8aa66ba8b79a9206dfb5a278c504a66ee858cc0d137145f2e3
+symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.F6"
+source: xml
+reviewed: 7bbeedf36d9fab79d9fe667981f7382dcec756c00f4341a75ab720d32247eb07
+title: "KeyCode.F6"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: source-clr
+---
+
+The F6 function key.

@@ -1,0 +1,13 @@
+---
+uid: api.c2b105a54a8010068ebbfa786e76b92a2a828aaac5d71e0fabac4395d1ffde36
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.D5"
+source: xml
+reviewed: 4a6b690f89072a8db71f613a86deae87328d2e85b4a57212010f2efdee9b5411
+title: "KeyCode.D5"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The 5 key on the primary keyboard row.

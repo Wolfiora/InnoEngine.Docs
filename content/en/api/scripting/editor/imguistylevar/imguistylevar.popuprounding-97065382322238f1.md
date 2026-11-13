@@ -1,0 +1,13 @@
+---
+uid: api.97065382322238f1011f9ba05a977b86aadd0ab79e913d141c5004b9b369f3cc
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.PopupRounding"
+source: xml
+reviewed: 40cb0060d2d1985c3cc7600a8bd5d9dcdea24a66b7b316446fb67d8e85b9b2e3
+title: "ImGuiStyleVar.PopupRounding"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Selects the popup rounding presentation behavior.

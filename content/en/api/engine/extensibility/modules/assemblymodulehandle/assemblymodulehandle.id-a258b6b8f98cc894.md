@@ -1,0 +1,12 @@
+---
+uid: api.a258b6b8f98cc89483edd142299a7df4f4863a1d1497a64f14e1449f597b07f4
+symbol: "engine:Inno.Extensibility.Modules:P:Inno.Extensibility.Modules.AssemblyModuleHandle.id"
+source: xml
+reviewed: d9c58398d2ae7beaf13f3be4544e27a922d0dbf6c540ee4ecdc1bac13084b3c1
+title: "AssemblyModuleHandle.id"
+kind: api
+owners: [Inno.Extensibility.Modules]
+apiSurface: source-clr
+---
+
+The stable identity used to locate the requested value.

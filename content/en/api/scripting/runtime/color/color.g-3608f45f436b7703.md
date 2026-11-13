@@ -1,0 +1,13 @@
+---
+uid: api.3608f45f436b7703b64214177fab1e73cd71886b68193298fa523572a14f4414
+symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Color.g"
+source: xml
+reviewed: be4161e2c4307c6a2b2b7dee90d91bac69c9d8ef8638fc95a3f4d1387527a81f
+title: "Color.g"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The green color component.

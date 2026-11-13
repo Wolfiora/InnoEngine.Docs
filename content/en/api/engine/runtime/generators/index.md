@@ -9,15 +9,11 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## RuntimeFactoryGenerator
+## Types
 
-- [RuntimeFactoryGenerator](runtimefactorygenerator/index.md)
-
-## RuntimeModuleCatalogGenerator
-
-- [RuntimeModuleCatalogGenerator](runtimemodulecataloggenerator/index.md)
-
-## RuntimeSubsystemGenerator
-
-- [RuntimeSubsystemGenerator](runtimesubsystemgenerator/index.md)
+| Type | Purpose |
+| --- | --- |
+| [RuntimeFactoryGenerator](runtimefactorygenerator/index.md) | Composes explicit assembly-local metadata catalogs for a Player entry project selected by its build. |
+| [RuntimeModuleCatalogGenerator](runtimemodulecataloggenerator/index.md) | Emits a local, explicit type and construction catalog for statically deployed managed assemblies. |
+| [RuntimeSubsystemGenerator](runtimesubsystemgenerator/index.md) | Generates deterministic, reflection-free catalogs from local strongly typed subsystem declarations. |
 

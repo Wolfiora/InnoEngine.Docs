@@ -1,0 +1,12 @@
+---
+uid: api.4156d6a10336f0e0096ed6e88bcfa16e2265243abcd7c479c8ed1a32c1d84fb7
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.GamepadR3"
+source: xml
+reviewed: 80229cdcc3a32e2020bb28323978761211815d4bf1fb568add1ae7eb3a752351
+title: "ImGuiKey.GamepadR3"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Identifies the GamepadR3 presentation key or modifier.

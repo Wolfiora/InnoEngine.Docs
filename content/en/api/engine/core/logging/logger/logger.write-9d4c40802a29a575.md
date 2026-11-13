@@ -1,0 +1,26 @@
+---
+uid: api.9d4c40802a29a575b492161f6eca01942cd638f57d557ed0ea8cbd3bd5a42417
+symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Logger.Write(Inno.Core.Logging.LogLevel,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
+source: xml
+reviewed: 04e7f36fbb9c9bf351610ff84a87a8e54ca22b31f5a374eee6c3ba71766b120c
+title: "Logger.Write"
+kind: api
+owners: [Inno.Core.Logging]
+apiSurface: source-clr
+---
+
+Writes one formatted entry with source information captured from the caller.
+
+**Parameter `level`:** The severity assigned to the entry.
+
+**Parameter `message`:** The composite format string or final message text.
+
+**Parameter `arguments`:** Optional composite-format arguments.
+
+**Exception `T:System.ArgumentException`:** Thrown when `message` is empty.
+
+**Exception `T:System.ObjectDisposedException`:** Thrown after the owning router has been disposed.
+
+**Parameter `filePath`:** Source file supplied by the caller information attribute.
+
+**Parameter `lineNumber`:** Source line supplied by the caller information attribute.

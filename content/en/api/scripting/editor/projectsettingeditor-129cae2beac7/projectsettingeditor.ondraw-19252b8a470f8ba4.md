@@ -1,0 +1,15 @@
+---
+uid: api.19252b8a470f8ba428a6f58097d134cc8640d564e3a581a3194bd4c66008d86a
+symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor\u00601.OnDraw(\u00600)"
+source: xml
+reviewed: 7ae525a16a484ca85048b3ad50d811174dd080fd33b00156127ccedb697b41e7
+title: "ProjectSettingEditor\u003CTSetting\u003E.OnDraw"
+kind: api
+owners: [Inno.Editor.Settings]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Draws the isolated staged value. Mutations remain local until the Settings frontend applies them.
+
+**Parameter `setting`:** The isolated current-generation setting snapshot.

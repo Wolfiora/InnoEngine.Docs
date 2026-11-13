@@ -1,0 +1,12 @@
+---
+uid: api.82e747532052309403828ac934fc7acd074a194e308d05c41d235416722bfde0
+symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingSourceRoot.frozen"
+source: xml
+reviewed: c6c9104a0b9a74ffbac041cf4b8cf70061a7dfff57ad1855aea32bcef63e50f8
+title: "NativeBindingSourceRoot.frozen"
+kind: api
+owners: [Inno.Build.Toolchains]
+apiSurface: source-clr
+---
+
+Whether source files must be copied before compilation.

@@ -1,0 +1,13 @@
+---
+uid: api.637e763f63ea8f1058fbb8625a6aace60d400b6f1ed845c3142a1e7257d78dd1
+symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiMeshUpdate.mesh"
+source: xml
+reviewed: 0a0fe140e90cd45ea286a4093919a371c7533a18b2e1df672cbce9d9796dd1e3
+title: "UiMeshUpdate.mesh"
+kind: api
+owners: [Inno.UI]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets the generation-scoped mesh handle.

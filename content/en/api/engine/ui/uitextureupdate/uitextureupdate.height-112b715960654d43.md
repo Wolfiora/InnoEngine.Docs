@@ -1,0 +1,12 @@
+---
+uid: api.112b715960654d43130deadf862b79f1da052a241b2ccf2fe98f891e166ca4dc
+symbol: "engine:Inno.UI:P:Inno.UI.UiTextureUpdate.height"
+source: xml
+reviewed: f1e5d95da40bf154535f17a5a153455fdeeecc39c3c763999e3426d8db6f7195
+title: "UiTextureUpdate.height"
+kind: api
+owners: [Inno.UI]
+apiSurface: source-clr
+---
+
+Gets the texture height.

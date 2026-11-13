@@ -1,0 +1,15 @@
+---
+uid: api.8bf406f01e329490634f840490b10c731a29f1fbbc49ae09e1a6f3c6d069057e
+symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceInclude.ToString"
+source: xml
+reviewed: a9dab5ccb543d94f5723b7ca059e90ca345ca37fb4cf7d72c7e368172ac8b232
+title: "ShaderSourceInclude.ToString"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Returns a string that represents the current object.
+
+**Returns:** A string that represents the current object.

@@ -15,24 +15,25 @@ async function fixture(t) {
     await writeFile(path.join(root, file), text);
   };
   const type = 'content/en/api/engine/probe/value/index.md';
-  const member = 'content/en/api/engine/probe/value/_members/read.md';
+  const member = 'content/en/api/engine/probe/value/value.read.md';
   const registry = 'reference/api/content.json';
   const sources = { [type]: 'Type prose', [member]: 'Manual member prose', [registry]: '{}' };
-  const composed = '# Value\n\npublic long Read()\n\nManual member prose\n';
+  const composed = '# Value.Read\n\npublic long Read()\n\nManual member prose\n';
   const catalog = { sourceFiles: Object.fromEntries(Object.entries(sources).map(([file, text]) => [file, hash(text)])),
-    pages: [{ path: type, markdown: composed, contentIdentity: hash(composed) }] };
+    pages: [{ path: type, markdown: '# Value\n', contentIdentity: hash('# Value\n') },
+      { path: member, markdown: composed, contentIdentity: hash(composed) }] };
   for (const [file, text] of Object.entries(sources)) await write(file, text);
   const save = () => write('artifacts/canonical-catalog.json', JSON.stringify(catalog));
   await save();
   return { root, write, save, catalog, member, type };
 }
 
-test('renders composed pages, not independent member fragments', async (t) => {
+test('renders the canonical independent type and member pages', async (t) => {
   const f = await fixture(t);
   const result = await readCanonicalContent(f.root);
-  assert.equal(result.pages.length, 1);
-  assert.match(result.pages[0].markdown, /public long Read\(\)/);
-  assert.match(result.pages[0].markdown, /Manual member prose/);
+  assert.equal(result.pages.length, 2);
+  assert.match(result.pages[1].markdown, /public long Read\(\)/);
+  assert.match(result.pages[1].markdown, /Manual member prose/);
 });
 
 test('same-length member edits and removed registry inputs invalidate the prepared projection', async (t) => {

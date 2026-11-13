@@ -1,0 +1,13 @@
+---
+uid: api.1dd2374f42020a6a6798eadfaf429f85a2f1052e6aa31ea055ce616eca2e4f5d
+symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.Invert"
+source: xml
+reviewed: e8c7162b2b8af5d32c6ef8400106c9216718bb980b9849b1898dffdcc7db1198
+title: "RenderStencilOperation.Invert"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Bitwise-inverts the stored value.

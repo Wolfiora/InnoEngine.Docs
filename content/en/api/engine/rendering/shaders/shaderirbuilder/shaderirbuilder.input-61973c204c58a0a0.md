@@ -1,0 +1,20 @@
+---
+uid: api.61973c204c58a0a0a44b69546b8e15b6734e2284ccef8bac33506816a7ee8521
+symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Input(System.String,Inno.Rendering.Shaders.ShaderSourceType)"
+source: xml
+reviewed: cf136073dd16f4d2fed2a8b8d56ed0634c79c364658572e2c06929c016c0e381
+title: "ShaderIrBuilder.Input"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Reads a named input from the enclosing typed function or stage interface.
+
+**Parameter `name`:** Stable interface identity; it is not emitted as native source verbatim.
+
+**Parameter `type`:** Complete non-void input type.
+
+**Returns:** The shared input value for this name and type.
+
+**Exception `T:System.ArgumentException`:** The name is empty, type is void, or this input was already declared with another type.

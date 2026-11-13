@@ -1,0 +1,12 @@
+---
+uid: api.394d34e2563903397bd4e60601ab9a0d14931a13aec6d2643a9686206abfdbf8
+symbol: "engine:Inno.Audio:F:Inno.Audio.AudioPlaybackState.Preparing"
+source: xml
+reviewed: a171aca8ea696ec8856ae367e4fdf24ca26ba25e556c655a8c50816d6bf3eebe
+title: "AudioPlaybackState.Preparing"
+kind: api
+owners: [Inno.Audio]
+apiSurface: source-clr
+---
+
+The voice is waiting for clip preparation.
