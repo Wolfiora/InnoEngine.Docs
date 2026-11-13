@@ -1,0 +1,30 @@
+{
+  "schema": "inno-site-build-benchmark/1",
+  "scenario": "Warm dependency and filesystem caches; full static rendering of one unchanged catalog.",
+  "node": "v24.21.0",
+  "catalogSha256": "76e1cf4ce697d6925d0b0e6d9de93169da36223b1d4afe07d935061ec0796499",
+  "lockSha256": "9fbed24adeb8d18411e1c580f29968d171c1989754fe211b34e42956f1dbe8ba",
+  "samples": [
+    {
+      "sample": 1,
+      "milliseconds": 85521.4337
+    },
+    {
+      "sample": 2,
+      "milliseconds": 70084.9045
+    },
+    {
+      "sample": 3,
+      "milliseconds": 67597.1709
+    },
+    {
+      "sample": 4,
+      "milliseconds": 69783.6885
+    },
+    {
+      "sample": 5,
+      "milliseconds": 70449.1021
+    }
+  ],
+  "medianMilliseconds": 70084.9045
+}

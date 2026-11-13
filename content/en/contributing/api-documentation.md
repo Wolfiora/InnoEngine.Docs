@@ -18,6 +18,16 @@ Maintain declarations and XML in InnoEngine. The API synchronizer transfers the 
 
 An internal change without different API, XML or projection inputs does not need a Docs commit. A failed export leaves the existing draft and website intact. Tutorials are maintained separately when the reader's workflow changes; an engine PR does not require a paired Docs commit or coordination marker.
 
+## Why export prepares managed references
+
+Export happens in the engine repository. It resolves real C# declarations, referenced types and compiler-produced script projections. That requires the relevant managed compilation inputs; reading XML alone cannot establish inheritance, overloads or which members scripts can actually call.
+
+API preparation uses `InnoBuildPurpose=ApiReferences` and its own output directory. It compiles the selected managed project union, retaining the real reference and generator inputs, but skips runtime Shader resources and Native product preparation. These outputs cannot be published as a runnable product. Ordinary Editor, player and release builds keep their Shader and Native requirements.
+
+Import happens in the Docs checkout. It verifies the exported facts, updates XML-owned fragments and preserves manual explanations. The shared import implementation lives in the engine's documentation tooling library, but importing a package does not build the engine. Its writer lock protects the Docs facts and fragments from competing synchronizations; cancellation before ownership leaves the previous content intact.
+
+Reading an already prepared documentation snapshot is a third, separate operation. It does not export, import, compile, evaluate SDK projects or contact the network.
+
 ## Understand the API scope
 
 | Reference | Contents | Navigation |

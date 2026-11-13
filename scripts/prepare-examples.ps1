@@ -1,7 +1,7 @@
 param(
     [Parameter(Mandatory)][string] $EngineRoot,
     [Parameter(Mandatory)][string] $ToolingRoot,
-    [string] $Dotnet = (Get-Command dotnet).Source
+    [string] $Dotnet = (Get-Command dotnet -CommandType Application | Select-Object -First 1).Source
 )
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
@@ -21,7 +21,8 @@ function Assert-Checkout([string] $Directory, [string] $Revision) {
 function Invoke-Managed([string[]] $Arguments, [string] $Name) {
     $log = Join-Path $output ($Name + '.log')
     $watch = [Diagnostics.Stopwatch]::StartNew()
-    & $Dotnet @Arguments *> $log
+    Write-Host "Starting $Name."
+    & $Dotnet @Arguments 2>&1 | Tee-Object -FilePath $log | ForEach-Object { Write-Host $_ }
     if ($LASTEXITCODE -ne 0) { throw "Required example preparation failed; see $log." }
     Write-Host "$Name completed in $([Math]::Round($watch.Elapsed.TotalSeconds, 3)) seconds."
 }
@@ -49,17 +50,11 @@ $plan = Get-Content -LiteralPath $planPath -Raw | ConvertFrom-Json
 if ($plan.schema -cne 'inno-example-plan/1' -or @($plan.projects).Count -eq 0) { throw 'Example preparation did not select actual owners.' }
 $projects = @($plan.projects | ForEach-Object { [IO.Path]::GetFullPath($_, $engine) })
 if ($plan.needsScriptProjection) { $projects += $entry }
-$solution = [Xml.XmlDocument]::new()
-$solution.AppendChild($solution.CreateElement('Solution')) | Out-Null
-foreach ($project in $projects | Sort-Object -Unique) {
-    $node = $solution.CreateElement('Project'); $node.SetAttribute('Path', $project)
-    $solution.DocumentElement.AppendChild($node) | Out-Null
-}
 $solutionPath = Join-Path $output 'managed-union.slnx'
-$solution.Save($solutionPath)
 $managed = Join-Path $engine "artifacts/documentation-examples/managed/$configuration/$($hostTarget[0])"
-Invoke-Managed @('build', $solutionPath, '--configuration', $configuration, '--artifacts-path', $managed,
-    '-p:InnoBuildPurpose=ApiReferences', "-m:$([Math]::Min([Environment]::ProcessorCount, 4))", '-nr:false', '--disable-build-servers') 'managed-references'
+& (Join-Path $tooling 'tests/ci/Invoke-ManagedApiPreparation.ps1') -EngineRoot $engine -Dotnet $Dotnet `
+    -Configuration $configuration -Projects $projects -Output $solutionPath -ArtifactsPath $managed `
+    -Log (Join-Path $output 'managed-references.log')
 $arguments += @('--artifacts-path', $managed)
 if ($plan.needsScriptProjection) {
     $cli = @(& $Dotnet msbuild $entry -nologo "-p:Configuration=$configuration" "-p:ArtifactsPath=$managed" -getProperty:TargetPath)
@@ -68,12 +63,8 @@ if ($plan.needsScriptProjection) {
     [IO.Directory]::CreateDirectory((Join-Path $scripts 'Assets')) | Out-Null
     Invoke-Managed @($cli[0], 'scripts', '--engine-root', $engine, '--dotnet', $Dotnet, '--project', $scripts,
         '--output', (Join-Path $scripts 'Export'), '--ide') 'logical-projections'
-    [xml] $ide = Get-Content -LiteralPath (Join-Path $scripts 'Inno.EditorScripts.csproj') -Raw
-    foreach ($surface in @('Runtime', 'Editor')) {
-        $reference = @($ide.Project.ItemGroup.Reference | Where-Object Include -CEQ "Inno.ScriptApi.$surface")
-        if ($reference.Count -ne 1) { throw "The actual $surface projection is unavailable." }
-        $arguments += @('--' + $surface.ToLowerInvariant() + '-reference', $reference[0].HintPath)
-    }
+    $logical = & (Join-Path $tooling 'tests/ci/Get-DocumentationScriptReferences.ps1') -Project (Join-Path $scripts 'Inno.EditorScripts.csproj')
+    $arguments += @('--runtime-reference', $logical.runtime, '--editor-reference', $logical.editor)
 }
 Invoke-Managed (@($transport[0], 'docs', 'validate-examples') + $arguments + @('--output', (Join-Path $output 'compiled.json'))) 'compile'
 Assert-Checkout $engine $binding.revision

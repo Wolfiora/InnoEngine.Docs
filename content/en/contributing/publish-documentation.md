@@ -50,6 +50,18 @@ Executable examples use their explicitly selected API and reference inputs. Miss
 
 The App is not granted workflow editing, automatic merge or main-push authority. Do not put its private key in source, logs, chat or candidate artifacts. Configure the App ID and private key as the protected engine workflow's variable and secret. Ordinary Docs rendering and Pages deployment do not require that App key.
 
+### One-time administrator setup
+
+1. In the organization's developer settings, create a GitHub App for API synchronization. Disable webhooks if no other approved integration needs them.
+2. Under repository permissions, grant **Contents: Read and write**. Do not grant Workflows, Administration or pull-request merge permissions. GitHub supplies Metadata read access automatically.
+3. Install the App only on **InnoEngine** and **InnoEngine.Docs**. The synchronization workflow requests a token restricted further to Docs Contents write.
+4. Generate and securely download the App's private key. In **InnoEngine → Settings → Secrets and variables → Actions → Variables**, create `INNO_DOCS_APP_ID` using the App ID. In **Secrets**, create `INNO_DOCS_APP_PRIVATE_KEY` containing the complete PEM. These settings belong in the engine repository because its protected master workflow performs the push. The Docs workflow does not need a copy of the key.
+5. In **InnoEngine.Docs → Settings → Rules → Rulesets**, require pull requests and `Documentation validation` for main; allow merge commits and protect against deletion and force-push. Keep `API editorial coverage` optional. Do not add the App as a main protection bypass actor.
+6. Disable automatic branch deletion so the persistent draft survives publication. In **Settings → Pages**, select **GitHub Actions** as the source.
+7. After the implementation is reviewed and merged, inspect the independent engine export and draft synchronization. Review the resulting Docs preview before manually merging draft into main.
+
+An App installation alone does not prove synchronization works. The first successful export, draft commit and Pages deployment are separate acceptance events. Never paste the private key into a PR, issue or chat. See GitHub's [App registration guide](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/registering-a-github-app), [private-key management](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/managing-private-keys-for-github-apps), and the pinned [installation-token action](https://github.com/actions/create-github-app-token/blob/fee1f7d63c2ff003460e3d139729b119787bc349/README.md).
+
 Set GitHub Pages to **GitHub Actions**, protect main with **Documentation validation** and retain review/discussion requirements. Do not make **API editorial coverage** required. Workflow definitions alone do not prove these repository settings are active.
 
 ## Reuse and recover

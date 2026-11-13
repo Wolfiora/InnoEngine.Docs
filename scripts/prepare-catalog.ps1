@@ -101,7 +101,10 @@ $intermediate = Join-Path $workspace 'obj'
 Push-Location $workspace
 try {
     $parallelism = [Math]::Min([Environment]::ProcessorCount, 4)
-    & $DotnetHost build $projectPath --output $bundle --artifacts-path $intermediate "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
+    # This Docs-owned entry does not import the engine root's task-owner propagation.
+    # Freeze one invocation identity before entering its shared managed dependencies.
+    $bootstrapOwner = [Guid]::NewGuid().ToString('N')
+    & $DotnetHost build $projectPath --output $bundle --artifacts-path $intermediate "-p:InnoTaskBootstrapOwner=$bootstrapOwner" "-m:$parallelism" -nodeReuse:false --disable-build-servers -v minimal
     if ($LASTEXITCODE -ne 0) { throw "Documentation tooling bootstrap failed: $LASTEXITCODE" }
     & $DotnetHost (Join-Path $bundle 'CatalogAdapter.dll') $root
     if ($LASTEXITCODE -ne 0) { throw "Canonical documentation preparation failed: $LASTEXITCODE" }

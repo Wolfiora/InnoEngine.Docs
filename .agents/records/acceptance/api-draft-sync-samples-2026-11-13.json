@@ -1,0 +1,45 @@
+{
+  "schema": "inno-api-sync-benchmark/1",
+  "scope": "Local no-op synchronization of the retained corpus; not a current multi-host export certificate.",
+  "apiRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+  "toolAssemblySha256": "c3bec84e27c1bf4d39990d34c83e1ae8d58503fccfe6f9aa7ee096496fe595a2",
+  "bindingSha256": "ec004512870feba541ab8747f75adf8446dff8654a4da49ff06ec716b004022f",
+  "samples": [
+    {
+      "sample": 1,
+      "milliseconds": 18980.0738,
+      "symbols": 18335,
+      "changedFiles": 0,
+      "editorialConclusion": "neutral"
+    },
+    {
+      "sample": 2,
+      "milliseconds": 15851.1759,
+      "symbols": 18335,
+      "changedFiles": 0,
+      "editorialConclusion": "neutral"
+    },
+    {
+      "sample": 3,
+      "milliseconds": 15082.4119,
+      "symbols": 18335,
+      "changedFiles": 0,
+      "editorialConclusion": "neutral"
+    },
+    {
+      "sample": 4,
+      "milliseconds": 15126.175,
+      "symbols": 18335,
+      "changedFiles": 0,
+      "editorialConclusion": "neutral"
+    },
+    {
+      "sample": 5,
+      "milliseconds": 15410.6356,
+      "symbols": 18335,
+      "changedFiles": 0,
+      "editorialConclusion": "neutral"
+    }
+  ],
+  "medianMilliseconds": 15410.6356
+}
