@@ -37,7 +37,7 @@ A pull-request artifact remains a preview even if source certification passes. P
 
 ## Configure evidence access once
 
-An organization-installed GitHub App must be restricted to **InnoEngine** and **InnoEngine.Docs**. Configure `INNO_DOCS_APP_ID` and `INNO_DOCS_APP_PRIVATE_KEY` in the authorized repositories. Each token requests only the repository and permissions required by its operation:
+An organization-installed GitHub App must be restricted to **InnoEngine** and **InnoEngine.Docs**. Grant repository **Actions: Read and write** and **Contents: Read-only**; Metadata read access is automatic. No webhook server, OAuth client secret, personal token or SSH deployment key is required. Configure the Actions variable `INNO_DOCS_APP_ID` and Actions secret `INNO_DOCS_APP_PRIVATE_KEY` (the complete PEM private key) in both repositories, or through organization settings restricted to these two repositories. Each token requests only the repository and permissions required by its operation:
 
 | Operation | Token scope |
 | --- | --- |
@@ -57,7 +57,9 @@ The App reads cross-repository evidence. Only the final deployment job receives 
 
 ## Promote the artifact
 
-Open **Actions → Publish documentation → Run workflow** and enter the four recorded identities. For ordinary publication, use the default branch and leave bootstrap disabled. Bootstrap is limited to the explicitly approved `ai-pipeline` engine and `docs-modernization` Docs development branches.
+After the workflows are reviewed and installed on their default branches, a successful **Documentation** run from a push or manual validation on `main` automatically starts **Publish documentation**. The publisher resolves the current engine default-branch commit and its latest trusted push/manual certification, then applies the same artifact and pairing checks as manual promotion. It does not fall back to an older green run when the latest eligible certification failed or is unfinished. Pull requests, forks, failed validation and migration-branch previews cannot trigger automatic deployment.
+
+For an explicit promotion or recovery after a missing prerequisite becomes available, open **Actions → Publish documentation → Run workflow** and enter the four recorded identities. For ordinary publication, use the default branch and leave bootstrap disabled. Bootstrap is limited to the explicitly approved `ai-pipeline` engine and `docs-modernization` Docs development branches and remains manual. Provisioning the App does not install workflows on the default branches or bypass their review requirements.
 
 The workflow checks:
 

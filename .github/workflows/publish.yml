@@ -1,6 +1,10 @@
 name: Publish documentation
 
 on:
+  workflow_run:
+    workflows: [Documentation]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
     inputs:
       documentation_run:
@@ -34,10 +38,16 @@ concurrency:
 jobs:
   verify:
     name: Verify publication artifact
-    if: github.repository == 'Wolfiora/InnoEngine.Docs' && (github.ref == 'refs/heads/main' || (inputs.bootstrap && github.ref == 'refs/heads/docs-modernization'))
+    if: >-
+      github.repository == 'Wolfiora/InnoEngine.Docs' &&
+      ((github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.head_repository.full_name == github.repository &&
+      contains(fromJSON('["push","workflow_dispatch"]'), github.event.workflow_run.event)) ||
+      (github.event_name == 'workflow_dispatch' && (github.ref == 'refs/heads/main' ||
+      (inputs.bootstrap && github.ref == 'refs/heads/docs-modernization'))))
     runs-on: windows-2025
     env:
-      DOCUMENTATION_RUN: ${{ inputs.documentation_run }}
+      DOCUMENTATION_RUN: ${{ github.event.workflow_run.id || inputs.documentation_run }}
       DOCUMENTATION_COMMIT: ${{ inputs.documentation_commit }}
       ENGINE_RUN: ${{ inputs.engine_run }}
       ENGINE_COMMIT: ${{ inputs.engine_commit }}
@@ -71,7 +81,11 @@ jobs:
         id: selected
         env:
           GH_TOKEN: ${{ steps.evidence.outputs.token }}
-        run: node scripts/publication-source.mjs select artifacts/publication/selection.json
+        shell: pwsh
+        run: |
+          $operation = if ($env:GITHUB_EVENT_NAME -eq 'workflow_run') { 'automatic' } else { 'select' }
+          node scripts/publication-source.mjs $operation artifacts/publication/selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'No eligible verified pair is available for publication.' }
       - name: Import digest-verified payloads without executing candidate code
         shell: pwsh
         env:

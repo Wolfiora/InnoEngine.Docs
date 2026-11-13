@@ -5,6 +5,24 @@ import { parse } from 'yaml';
 
 const workflow = async name => parse(await readFile(new URL(`../.github/workflows/${name}.yml`, import.meta.url), 'utf8'), { uniqueKeys: true });
 
+test('automatic Pages promotion uses protected code and the same verified-artifact deployment path', async () => {
+  const value = await workflow('publish');
+  assert.deepEqual(value.on.workflow_run, { workflows: ['Documentation'], types: ['completed'], branches: ['main'] });
+  assert.ok(value.on.workflow_dispatch);
+  assert.match(value.jobs.verify.if, /conclusion == 'success'/);
+  assert.match(value.jobs.verify.if, /head_repository.full_name == github.repository/);
+  assert.match(value.jobs.verify.if, /push.*workflow_dispatch/);
+  assert.equal(value.jobs.deploy.needs, 'verify');
+  assert.deepEqual(value.jobs.deploy.permissions, { pages: 'write', 'id-token': 'write' });
+  const text = JSON.stringify(value.jobs);
+  assert.doesNotMatch(text, /npm ci|npm install|npm run build|prepare-catalog|actions\/cache/);
+  assert.match(text, /publication-source.mjs select artifacts\/publication\/closing-selection.json/);
+  for (const step of value.jobs.verify.steps) if (step.uses?.startsWith('actions/checkout@')) {
+    assert.equal(step.with.ref, undefined);
+    assert.equal(step.with['persist-credentials'], false);
+  }
+});
+
 test('candidate execution has only repository read credentials and cannot acquire the cross-repository App', async () => {
   const value = await workflow('documentation');
   assert.deepEqual(value.permissions, { contents: 'read', actions: 'read' });

@@ -145,12 +145,33 @@ export async function selectPublicationSources({ docsRun, docsCommit, engineRun,
   return { documentation: authorized[0], engine: authorized[1], bootstrap };
 }
 
+/** Resolve a default-branch completion into the same explicit, authenticated promotion inputs. */
+export async function selectAutomaticPublication({ docsRun, token }) {
+  requireValue(token && /^[1-9][0-9]*$/.test(docsRun), 'Automatic publication requires an exact completion run and evidence token.');
+  const docs = await github(`/repos/Wolfiora/InnoEngine.Docs/actions/runs/${docsRun}`, token);
+  const metadata = await github('/repos/Wolfiora/InnoEngine', token);
+  const branch = await github(`/repos/Wolfiora/InnoEngine/branches/${encodeURIComponent(metadata.default_branch)}`, token);
+  requireValue(sha(branch.commit?.sha), 'The default engine branch has no immutable commit.');
+  const candidates = await list(`/repos/Wolfiora/InnoEngine/actions/workflows/rendering-ci.yml/runs?head_sha=${branch.commit.sha}`, 'workflow_runs', token);
+  // Never fall back to an older green run when the latest eligible attempt is failed or unfinished.
+  const latest = candidates.filter(run => run.head_sha === branch.commit.sha && run.head_branch === metadata.default_branch
+    && ['push', 'workflow_dispatch'].includes(run.event)).sort((a, b) => b.id - a.id)[0];
+  requireValue(latest && latest.status === 'completed' && latest.conclusion === 'success',
+    'Blocked: the current default engine commit has no successful latest trusted certification.');
+  return selectPublicationSources({ docsRun, docsCommit: docs.head_sha, engineRun: String(latest.id),
+    engineCommit: branch.commit.sha, bootstrap: false, token });
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   const [operation, ...args] = process.argv.slice(2);
-  if (operation === 'select' && args.length === 1) {
-    const selected = await selectPublicationSources({ docsRun: process.env.DOCUMENTATION_RUN, docsCommit: process.env.DOCUMENTATION_COMMIT,
+  if (['select', 'automatic'].includes(operation) && args.length === 1) {
+    const selected = operation === 'automatic'
+      ? await selectAutomaticPublication({ docsRun: process.env.DOCUMENTATION_RUN, token: process.env.GH_TOKEN })
+      : await selectPublicationSources({ docsRun: process.env.DOCUMENTATION_RUN, docsCommit: process.env.DOCUMENTATION_COMMIT,
       engineRun: process.env.ENGINE_RUN, engineCommit: process.env.ENGINE_COMMIT, bootstrap: process.env.BOOTSTRAP === 'true', token: process.env.GH_TOKEN });
     await writeFile(args[0], JSON.stringify(selected, null, 2) + '\n', { flag: 'wx' });
+    if (operation === 'automatic') await appendFile(process.env.GITHUB_ENV,
+      `DOCUMENTATION_COMMIT=${selected.documentation.commit}\nENGINE_RUN=${selected.engine.run}\nENGINE_COMMIT=${selected.engine.commit}\nBOOTSTRAP=false\n`);
     for (const [name, source] of Object.entries(selected).filter(([name]) => name !== 'bootstrap'))
       await appendFile(process.env.GITHUB_OUTPUT, `${name}-artifact=${source.id}\n${name}-attempt=${source.attempt}\n`);
   } else if (operation === 'source' && args.length === 2) {
@@ -166,5 +187,5 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     const [selection, certificate, manifest] = await Promise.all(args.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
     console.log(JSON.stringify(authorizePairing({ certificate, manifest, engineRun: selection.engine.metadata,
       expectedPlatforms: selection.engine.platforms })));
-  } else throw new Error('Usage: publication-source.mjs select OUTPUT | source BINDING OUTPUT | relayed BINDING OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
+  } else throw new Error('Usage: publication-source.mjs select OUTPUT | automatic OUTPUT | source BINDING OUTPUT | relayed BINDING OUTPUT | pair SELECTION CERTIFICATE MANIFEST');
 }
