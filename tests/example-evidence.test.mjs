@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
-import { checkExampleEvidence } from '../scripts/example-evidence.mjs';
+import { checkExampleEvidence, planExampleWork } from '../scripts/example-evidence.mjs';
 
 const hash = bytes => createHash('sha256').update(bytes).digest('hex');
 function fixture() {
@@ -102,4 +102,26 @@ test('script receipts select an exact target without requiring another platform 
   assert.equal(evaluate(f).status, 'Blocked');
   f.report.target = 'unknown';
   assert.equal(evaluate(f).status, 'Blocked');
+});
+
+test('changed groups compile independently while unchanged trusted groups remain reusable', () => {
+  const f = fixture();
+  const second = structuredClone(f.catalog.pages[0]); second.id = 'task.second';
+  f.catalog.pages.push(second);
+  f.report.results.push({ ...structuredClone(f.report.results[0]), page: second.id });
+  const bytes = Buffer.from(JSON.stringify(f.report));
+  const previous = { identity: hash(bytes), bytes };
+  let plan = planExampleWork(f.catalog, [previous]);
+  assert.equal(plan.reused, 2);
+  assert.deepEqual(plan.compile, []);
+  const block = second.codeBlocks[0]; block.text = 'var value = Owner.Read() + 1;'; block.contentIdentity = hash(block.text);
+  plan = planExampleWork(f.catalog, [previous]);
+  assert.equal(plan.reused, 1);
+  assert.deepEqual(plan.compile, ['task.second']);
+  f.report.results = [{ ...f.report.results[1], blocks: [structuredClone(block)] }];
+  const currentBytes = Buffer.from(JSON.stringify(f.report));
+  const current = { identity: hash(currentBytes), bytes: currentBytes };
+  assert.equal(checkExampleEvidence(f.catalog, [...plan.receipts, current]).status, 'Passed');
+  const corrupt = { ...previous, bytes: Buffer.from('{}') };
+  assert.equal(planExampleWork(f.catalog, [corrupt]).reused, 0);
 });

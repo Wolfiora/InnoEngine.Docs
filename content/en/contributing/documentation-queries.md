@@ -136,7 +136,7 @@ The adapter requires a clean, exactly selected tooling checkout. It creates a ma
 
 The generated catalog is disposable. Refresh it after content changes; do not hand-edit its identities or add a second authored page inventory. Projection checks compare the exact file set, content hashes, navigation and rendered anchors with canonical facts.
 
-Complete publication acceptance uses `--complete` and, when executable examples exist, `--example-manifest reference/examples/manifest.json`. The manifest identifies exact compilation reports and SHA-256 digests. Reports must come from trusted preparation and match selected API inputs, tooling, example code and reference context. Missing or changed evidence blocks publication. Prose changes can reuse matching compilation evidence. Publication does not require a full-engine certificate, the latest engine master revision, or manual API editorial completion.
+Complete publication acceptance uses `--complete --example-manifest artifacts/examples/manifest.json`. CI creates this manifest from authenticated default-branch receipts and newly compiled example groups. Its content-addressed report files contain exact compilation inputs and SHA-256 digests. Missing or changed evidence requires actual compilation; prose changes can reuse matching groups. Publication does not require a full-engine certificate, the latest engine master revision, or manual API editorial completion.
 
 ## Export source facts explicitly
 

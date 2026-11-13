@@ -13,9 +13,15 @@ const equal = (a, b) => JSON.stringify(a) === JSON.stringify(b);
  * No full engine certificate, current engine branch head or network request is needed.
  */
 export function checkExampleEvidence(catalog, receipts = []) {
+  const result = evaluate(catalog, receipts);
+  return { status: result.status, required: result.required, covered: result.covered, errors: result.errors };
+}
+
+function evaluate(catalog, receipts) {
   const required = catalog.pages.filter(page => executable(page).length !== 0);
   const errors = [];
   const proofs = new Map();
+  const pages = new Map(required.map(page => [page.id, page]));
   const reportIdentities = new Set();
   if (!Array.isArray(receipts)) return { status: 'Blocked', required: required.length, covered: 0,
     errors: ['Example receipts must be an explicitly selected collection.'] };
@@ -38,6 +44,7 @@ export function checkExampleEvidence(catalog, receipts = []) {
       || !Array.isArray(report.scriptReferences) || report.scriptReferences.some(reference => reference.status !== 'Passed')) {
       errors.push('Example receipt does not bind successful compilation to the selected API/tool inputs.'); continue;
     }
+    const reportedPages = new Set();
     for (const result of report.results) {
       const requiredProjections = result.mode === 'editor-script' ? ['runtime-script', 'editor-script']
         : result.mode === 'runtime-script' ? ['runtime-script'] : [];
@@ -50,28 +57,53 @@ export function checkExampleEvidence(catalog, receipts = []) {
           && proof.projectionIdentities && Object.keys(proof.projectionIdentities).length > 0
           && Object.values(proof.projectionIdentities).every(hex)));
       });
-      if (typeof result.page !== 'string' || proofs.has(result.page) || result.status !== 'Passed'
+      if (typeof result.page !== 'string' || reportedPages.has(result.page) || result.status !== 'Passed'
         || !projectionsMatch
         || !Array.isArray(result.errors) || result.errors.length !== 0
         || !result.references || Object.keys(result.references).length === 0
         || Object.values(result.references).some(identity => !hex(identity))) {
         errors.push('Example receipt has duplicate, failed or incomplete compilation groups.'); continue;
       }
-      proofs.set(result.page, result);
+      reportedPages.add(result.page);
+      const page = pages.get(result.page);
+      // A trusted previous report may contain an older version of another page. Keep its
+      // unchanged groups; only a matching new receipt can cover that page's changed code.
+      if (page && matches(page, result) && !proofs.has(result.page)) proofs.set(result.page, result);
     }
   }
+  const invalidReceipt = errors.length !== 0;
+  const coveredPages = [];
   let covered = 0;
   for (const page of required) {
     const proof = proofs.get(page.id);
-    const blocks = executable(page);
-    if (!page.examples || !proof || proof.mode !== page.examples.mode
-      || !Array.isArray(proof.projects) || !equal(proof.projects, page.examples.projects)
-      || !Array.isArray(proof.blocks) || !equal(proof.blocks.map(block => block.contentIdentity), blocks.map(block => block.contentIdentity))
-      || blocks.some(block => !hex(block.contentIdentity) || typeof block.text !== 'string' || hash(block.text) !== block.contentIdentity)
-      || proof.blocks.some(block => typeof block.text !== 'string' || hash(block.text) !== block.contentIdentity
-        || !['cs', 'csharp'].includes(block.language) || (block.declarationSymbols?.length ?? 0) !== 0)) {
+    if (!proof || !matches(page, proof)) {
       errors.push(`Executable examples lack matching code, surface, owners or compiler evidence: ${page.id}.`);
-    } else covered++;
+    } else { covered++; coveredPages.push(page.id); }
   }
-  return { status: errors.length ? 'Blocked' : 'Passed', required: required.length, covered, errors };
+  return { status: errors.length ? 'Blocked' : 'Passed', required: required.length, covered, errors, coveredPages, invalidReceipt };
+}
+
+function matches(page, proof) {
+  const blocks = executable(page);
+  return page.examples && proof.mode === page.examples.mode && Array.isArray(proof.projects)
+    && equal(proof.projects, page.examples.projects) && Array.isArray(proof.blocks)
+    && equal(proof.blocks.map(block => block.contentIdentity), blocks.map(block => block.contentIdentity))
+    && blocks.every(block => hex(block.contentIdentity) && typeof block.text === 'string' && hash(block.text) === block.contentIdentity)
+    && proof.blocks.every(block => typeof block.text === 'string' && hash(block.text) === block.contentIdentity
+      && ['cs', 'csharp'].includes(block.language) && (block.declarationSymbols?.length ?? 0) === 0);
+}
+
+/** Select only reusable exact-input receipts; all uncovered current groups require real compilation. */
+export function planExampleWork(catalog, receipts = []) {
+  const required = catalog.pages.filter(page => executable(page).length !== 0);
+  const retained = new Map();
+  const covered = new Set();
+  for (const receipt of receipts) {
+    const result = evaluate(catalog, [receipt]);
+    if (result.invalidReceipt || !result.coveredPages?.some(page => !covered.has(page))) continue;
+    retained.set(receipt.identity, receipt);
+    for (const page of result.coveredPages) covered.add(page);
+  }
+  const compile = required.filter(page => !covered.has(page.id)).map(page => page.id);
+  return { required: required.length, reused: required.length - compile.length, compile, receipts: [...retained.values()] };
 }

@@ -8,7 +8,7 @@ const requireValue = (condition, message) => { if (!condition) throw new Error(m
 /** Verify a completed Docs main producer and its exact retained attempt. No engine CI is consulted. */
 export function authorizeRun({ run, jobs, artifacts, repository, workflow, branch, commit, aggregate, artifactName, events }) {
   requireValue(repository === 'Wolfiora/InnoEngine.Docs' && branch === 'main' && workflow === '.github/workflows/documentation.yml'
-    && aggregate === 'Documentation validation' && artifactName === 'documentation-site'
+    && aggregate === 'Documentation validation' && ['documentation-site', 'documentation-examples'].includes(artifactName)
     && events.every(event => ['push', 'workflow_dispatch'].includes(event)), 'Publication policy permits only the Docs main producer.');
   requireValue(run.repository?.full_name === repository && run.head_repository?.full_name === repository, 'Publication cannot consume a fork or another repository.');
   requireValue(run.status === 'completed' && run.conclusion === 'success', 'Publication requires a successful completed run.');

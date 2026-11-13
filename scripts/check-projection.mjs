@@ -7,6 +7,7 @@ import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
 import { isDocumentedProject } from './api-scope.mjs';
 import { checkExampleEvidence } from './example-evidence.mjs';
+import { inside, readOwned } from './owned-input.mjs';
 
 const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
@@ -223,24 +224,6 @@ function route(source) {
   return contentRoute(source.slice('content/en/'.length));
 }
 
-function inside(root, relative) {
-  if (path.isAbsolute(relative)) throw new Error(`Expected a relative owned path: ${relative}`);
-  const target = path.resolve(root, relative);
-  const relation = path.relative(root, target);
-  if (relation === '..' || relation.startsWith('..' + path.sep) || path.isAbsolute(relation)) throw new Error(`Path escapes its root: ${relative}`);
-  return target;
-}
-
-async function readOwned(root, relative) {
-  const target = inside(root, relative);
-  let current = path.resolve(root);
-  for (const segment of path.relative(current, target).split(path.sep)) {
-    current = path.join(current, segment);
-    if ((await lstat(current)).isSymbolicLink()) throw new Error(`Reference input cannot traverse a link: ${relative}`);
-  }
-  return readFile(target);
-}
-
 async function files(root) {
   const result = [];
   for (const name of (await readdir(root)).sort()) {
@@ -269,8 +252,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     const manifest = JSON.parse(await readOwned(process.cwd(), selected[evidenceOption + 1]));
     if (manifest.schema !== 'inno-example-receipts/1' || !Array.isArray(manifest.reports)) throw new Error('Invalid example receipt manifest.');
     for (const report of manifest.reports) {
-      if (typeof report.path !== 'string' || !report.path.startsWith('reference/examples/') || !report.path.endsWith('.json')) throw new Error('Example receipts require explicit owned reference files.');
-      exampleReceipts.push({ identity: report.identity, bytes: await readOwned(process.cwd(), report.path) });
+      if (typeof report.path !== 'string' || !/^reports\/[a-f0-9]{64}\.json$/.test(report.path)) throw new Error('Example receipts require explicit content-addressed report files.');
+      exampleReceipts.push({ identity: report.identity, bytes: await readOwned(process.cwd(), path.join(path.dirname(selected[evidenceOption + 1]), report.path)) });
     }
     selected.splice(evidenceOption, 2);
   }
