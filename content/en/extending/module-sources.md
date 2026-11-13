@@ -1,6 +1,7 @@
 ---
 title: Compose module sources and catalog participants
-description: Supply explicit assembly ownership and unpublished candidates to the shared module host.
+description: Supply explicit assembly ownership and unpublished candidates to
+  the shared module host.
 uid: extending.module-sources
 kind: how-to
 owners:
@@ -76,4 +77,4 @@ Prepare/activation failure retains the last good state only when compensation su
 
 Catalog snapshots strongly retain their assemblies. Keep them only for their transaction or protected operation. Foundation has no dynamic-cache directory requirement: a dynamic source owns its shadow-copy storage, while a static source need not create it.
 
-See [generation publication](../architecture/generation-publication.md), [type discovery](../manual/extensions/find-types.md), and the [module reference](../api/projects/inno-extensibility-modules.md).
+See [generation publication](../architecture/generation-publication.md), [type discovery](../manual/extensions/find-types.md), and the [module reference](../architecture/projects/inno-extensibility-modules.md).

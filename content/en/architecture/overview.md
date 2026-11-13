@@ -51,3 +51,7 @@ The rendering core provides backend-neutral graphics mechanisms and explicit res
 Build requests freeze the selected host, target, tools, configuration, and component inputs. Artifacts are validated before publication, and consumers retain their own reading protection. Content-identical deployment can preserve existing files rather than replacing loaded libraries.
 
 The same architectural principle applies to documentation snapshots: publish verified content, identify it explicitly, and do not confuse a cached snapshot with a mutable working directory.
+
+## Explore project responsibilities
+
+[Engine project guides](projects/index.md) explain the actual owning modules, their contracts and related tasks.

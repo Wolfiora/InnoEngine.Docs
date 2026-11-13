@@ -1,6 +1,7 @@
 ---
 title: Run and stop frame-driven coroutines
-description: Advance enumerators from a host loop and release their stacks before an owner or generation retires.
+description: Advance enumerators from a host loop and release their stacks
+  before an owner or generation retires.
 uid: manual.execution.run-coroutines
 kind: how-to
 owners:
@@ -81,4 +82,4 @@ Start/stop requests can come from other threads, but tick execution is serialize
 
 After disposal, starting, ticking and owner-specific stopping throw `ObjectDisposedException`. Stopping an individual invalid handle returns false, and parameterless stop-all safely returns. Repeated disposal does nothing.
 
-See [CoroutineScheduler](../../api/types/core-coroutines/coroutinescheduler.md) for the precise start/stop overloads and [CoroutineHandle](../../api/types/core-coroutines/coroutinehandle.md) for live-handle semantics.
+See [CoroutineScheduler](../../api/engine/core/coroutines/coroutinescheduler/index.md) for the precise start/stop overloads and [CoroutineHandle](../../api/engine/core/coroutines/coroutinehandle/index.md) for live-handle semantics.

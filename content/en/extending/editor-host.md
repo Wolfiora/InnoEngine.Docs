@@ -1,10 +1,13 @@
 ---
 title: Compose and retire an Editor host
-description: Supply product capabilities explicitly, preflight before creating resources and preserve complete shutdown evidence.
+description: Supply product capabilities explicitly, preflight before creating
+  resources and preserve complete shutdown evidence.
 uid: extending.editor-host
 kind: how-to
-owners: [Inno.Editor.Hosting]
-contracts: [project.inno-editor-hosting]
+owners:
+  - Inno.Editor.Hosting
+contracts:
+  - project.inno-editor-hosting
 ---
 # Compose and retire an Editor host
 

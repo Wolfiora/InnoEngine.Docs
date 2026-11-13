@@ -1,6 +1,7 @@
 ---
 title: Diagnose a blocked or failed reload
-description: Distinguish candidate rejection, active readers, pending cleanup and retained collectible generations.
+description: Distinguish candidate rejection, active readers, pending cleanup
+  and retained collectible generations.
 uid: manual.extensions.diagnose-reload
 kind: troubleshooting
 owners:
@@ -50,4 +51,4 @@ The retained data is failure ownership, not a cache to copy into a fresh host. D
 
 For a recoverable candidate failure, confirm the last good generation still behaves correctly, then prepare a new input and verify its activation and retirement. For a terminal failure, verify a fresh host and the corrected ownership path, including the original failure scenario. A successful compile alone does not verify reload or collectible unload.
 
-Use [generation publication](../../architecture/generation-publication.md) for the full ordering and [the Reload reference](../../api/projects/inno-extensibility-reload.md) for exact states, failures and lease APIs.
+Use [generation publication](../../architecture/generation-publication.md) for the full ordering and [the Reload reference](../../architecture/projects/inno-extensibility-reload.md) for exact states, failures and lease APIs.

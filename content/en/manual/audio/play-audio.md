@@ -1,6 +1,7 @@
 ---
 title: Play and control audio
-description: Play an imported clip, observe preparation and completion, and release preload ownership.
+description: Play an imported clip, observe preparation and completion, and
+  release preload ownership.
 uid: manual.audio.play-audio
 kind: how-to
 owners:
@@ -19,7 +20,7 @@ Start playback from an imported `AudioClipAsset`, retain its voice handle while 
 
 ## Prerequisites
 
-The host must compose an audio runtime, select a device/backend and bind the service to the current execution scope. Its update loop must continue advancing audio. Obtain a valid imported clip through the project's asset/reference boundary. The standard importer supports WAV, FLAC and MP3; see [audio importing](../../api/projects/inno-audio-assets.md).
+The host must compose an audio runtime, select a device/backend and bind the service to the current execution scope. Its update loop must continue advancing audio. Obtain a valid imported clip through the project's asset/reference boundary. The standard importer supports WAV, FLAC and MP3; see [audio importing](../../architecture/projects/inno-audio-assets.md).
 
 The following helper uses the **Runtime script projection**, compiled against the project's generated script references. It does not instantiate a host device or load an arbitrary physical file.
 
@@ -67,7 +68,7 @@ For scheduled playback, pass a finite non-negative absolute audio-clock time to 
 
 A successful preload retains a cache reference. Call `ReleasePreload` when that ownership ends. Releasing a preload does not stop voices that still reference the clip. Cancellation and failed preparation may need retirement work before their resources can be released; do not dispose the backend yourself to force an immediate result.
 
-Automatic loading selects full decoding or streaming from encoded size and decoded-memory budget. Explicit decoding can fail when its memory budget is exceeded. The runtime's playback and pending-preload limits are separate from device capacity; [resource policies](../../api/projects/inno-audio-runtime.md#resource-policies) lists the defaults.
+Automatic loading selects full decoding or streaming from encoded size and decoded-memory budget. Explicit decoding can fail when its memory budget is exceeded. The runtime's playback and pending-preload limits are separate from device capacity; [resource policies](../../architecture/projects/inno-audio-runtime.md#resource-policies) lists the defaults.
 
 ## Observe completion and diagnose silence
 

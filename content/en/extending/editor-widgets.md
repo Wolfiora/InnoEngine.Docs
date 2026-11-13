@@ -1,10 +1,13 @@
 ---
 title: Build consistent Editor controls
-description: Use a scoped UI session, shared metrics and one interaction owner for readable panels, forms, trees and dialogs.
+description: Use a scoped UI session, shared metrics and one interaction owner
+  for readable panels, forms, trees and dialogs.
 uid: extending.editor-widgets
 kind: how-to
-owners: [Inno.Editor.ImGui]
-contracts: [project.inno-editor-imgui]
+owners:
+  - Inno.Editor.ImGui
+contracts:
+  - project.inno-editor-imgui
 ---
 # Build consistent Editor controls
 
@@ -62,4 +65,4 @@ Native drag payloads carry runtime identity. Preview and delivery resolve/check 
 
 ## Verify the affected surface
 
-The existing native layout tests exercise public widgets with a real matching ImGui context and synthetic input. Geometry tests can cover zoom, wrapping, popup bounds, false scroll ranges and foreground hit ownership without claiming a full desktop/product journey. Physical rendering, accessibility and lifecycle acceptance remain separate. Use the [widget reference](../api/projects/inno-editor-imgui.md) for exact types and host/script examples.
+The existing native layout tests exercise public widgets with a real matching ImGui context and synthetic input. Geometry tests can cover zoom, wrapping, popup bounds, false scroll ranges and foreground hit ownership without claiming a full desktop/product journey. Physical rendering, accessibility and lifecycle acceptance remain separate. Use the [widget reference](../architecture/projects/inno-editor-imgui.md) for exact types and host/script examples.

@@ -28,7 +28,7 @@ The source contains backend areas for Bgfx, DotNet, FileSystem, ImGui, Interop, 
 
 ## Native ownership
 
-The [BGFX](../api/projects/inno-native-bgfx.md), [ImGui](../api/projects/inno-native-imgui.md) and [ImGuizmo](../api/projects/inno-native-imguizmo.md) implementation overviews locate the engine's rendering and Editor presentation boundaries without mirroring third-party API references.
+The [BGFX](projects/inno-native-bgfx.md), [ImGui](projects/inno-native-imgui.md) and [ImGuizmo](projects/inno-native-imguizmo.md) implementation overviews locate the engine's rendering and Editor presentation boundaries without mirroring third-party API references.
 
 Use the engine facade and its documented ownership protocol. Do not directly call an upstream function or release its handle merely because the native library exports it. Bindings expose an ABI; they do not erase the facade's threading, borrowing, or shutdown constraints.
 
@@ -46,3 +46,7 @@ Native generation and deployment belong to the build pipeline. Runtime loaders c
 - [Publish a managed deployment](dotnet-publishing.md) for SDK and process diagnostics.
 - [Prepare a content cache](file-content-cache.md) for verified publication and concurrent readers.
 - [Present Editor UI](imgui-rendering.md) for color transfer and viewport lifetime.
+
+## Project integration reference
+
+[Backend project guides](projects/index.md) collect the integration owners without reproducing excluded native or binding API references.

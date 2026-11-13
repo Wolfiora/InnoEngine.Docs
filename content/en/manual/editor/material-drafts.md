@@ -1,10 +1,13 @@
 ---
 title: Edit a material source draft
-description: Record detached material edits, preserve recovery and publish only through explicit saving.
+description: Record detached material edits, preserve recovery and publish only
+  through explicit saving.
 uid: manual.editor.material-drafts
 kind: how-to
-owners: [Inno.Editor.Shaders]
-contracts: [project.inno-editor-shaders]
+owners:
+  - Inno.Editor.Shaders
+contracts:
+  - project.inno-editor-shaders
 ---
 # Edit a material source draft
 
@@ -24,4 +27,4 @@ Continuous input uses a shared `EditorEditGesture`. Its merge key identifies one
 
 Draft storage retains neutral bytes. Until an explicit save, it does not publish a replacement canonical asset. A source conflict retains the draft and diagnostic. Reopening recovers history by persistent ID; missing source/type information forms a recoverable barrier rather than discarding work.
 
-Do not keep detached assets, types, preview instances or registries across callbacks. Shutdown clears the current generation's cache while preserving unsaved recovery. See [material runtime usage](../rendering/materials.md) and [MaterialDocuments contracts](../../api/projects/inno-editor-shaders.md).
+Do not keep detached assets, types, preview instances or registries across callbacks. Shutdown clears the current generation's cache while preserving unsaved recovery. See [material runtime usage](../rendering/materials.md) and [MaterialDocuments contracts](../../architecture/projects/inno-editor-shaders.md).

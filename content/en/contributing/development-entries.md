@@ -1,10 +1,15 @@
 ---
 title: Build and run development entries
-description: Use the ordinary SDK Build and Editor entries while preserving output ownership.
+description: Use the ordinary SDK Build and Editor entries while preserving
+  output ownership.
 uid: contributing.development-entries
 kind: how-to
-owners: [InnoEngine.Build, InnoEngine.Editor]
-contracts: [project.innoengine-build, project.innoengine-editor]
+owners:
+  - InnoEngine.Build
+  - InnoEngine.Editor
+contracts:
+  - project.innoengine-build
+  - project.innoengine-editor
 ---
 # Build and run development entries
 

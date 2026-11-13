@@ -1,10 +1,13 @@
 ---
 title: Own an ImGui presentation context
-description: Bind a context to its SDL application, borrow frames and retire viewports before releasing callbacks or fonts.
+description: Bind a context to its SDL application, borrow frames and retire
+  viewports before releasing callbacks or fonts.
 uid: backends.imgui-context
 kind: how-to
-owners: [Inno.Adapter.Presentation.ImGui.Sdl3]
-contracts: [project.inno-adapter-presentation-imgui-sdl3]
+owners:
+  - Inno.Adapter.Presentation.ImGui.Sdl3
+contracts:
+  - project.inno-adapter-presentation-imgui-sdl3
 ---
 # Own an ImGui presentation context
 

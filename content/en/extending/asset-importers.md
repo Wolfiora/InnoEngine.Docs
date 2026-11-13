@@ -1,10 +1,14 @@
 ---
 title: Add an asset importer or build processor
-description: Participate in discovery, dependency tracking, named output publication and settings without owning the whole pipeline.
+description: Participate in discovery, dependency tracking, named output
+  publication and settings without owning the whole pipeline.
 uid: extending.asset-importers
 kind: how-to
-owners: [Inno.Assets.Pipeline]
-contracts: [project.inno-assets-pipeline#authoring-ownership-contract, project.inno-assets-pipeline#artifact-and-export-contract]
+owners:
+  - Inno.Assets.Pipeline
+contracts:
+  - project.inno-assets-pipeline#authoring-ownership-contract
+  - project.inno-assets-pipeline#artifact-and-export-contract
 ---
 # Add an asset importer or build processor
 
@@ -16,7 +20,7 @@ Use the actual `AssetImporter`/`AssetImporter<T>` contract and `AssetImporterAtt
 
 Use the shared serialization and stable type identity protocol for persisted asset/settings values. A `CreateImportSettings` override returns a fresh serializable settings value, or null when the importer has no settings. Import settings use the existing sidecar representation; do not create a parallel settings file or a format-specific persistence system.
 
-Consult the [exact importer declarations](../api/projects/inno-assets-pipeline.md) for required overrides and contexts. A build processor is a separate aggregate transformation using its declared discovery contract; it does not replace source import ownership.
+Consult the [exact importer declarations](../architecture/projects/inno-assets-pipeline.md) for required overrides and contexts. A build processor is a separate aggregate transformation using its declared discovery contract; it does not replace source import ownership.
 
 Plugin importer source belongs to the plugin's Editor assembly. Its explicitly exported entry points use `InnoEditor.Assets`, not the runtime plugin surface. Structured source helpers accept context-provided `AssetSerializationServices`; they do not expose the host's type catalog, serialization registry or candidate resolver to the plugin. `EditorAssets` provides the current Editor session's limited mutation and detached-value operations, not ownership of the pipeline or its publication graph.
 

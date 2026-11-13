@@ -1,10 +1,16 @@
 ---
 title: Add a platform or replace a backend
-description: Assign system, SDK, integration and product responsibilities before registering a new supported target.
+description: Assign system, SDK, integration and product responsibilities before
+  registering a new supported target.
 uid: extending.platforms
 kind: how-to
-owners: [Inno.Build.Composition, Inno.Build.Toolchains, Inno.Build.Managed]
-contracts: [extending.build-distribution, architecture.ownership]
+owners:
+  - Inno.Build.Composition
+  - Inno.Build.Toolchains
+  - Inno.Build.Managed
+contracts:
+  - extending.build-distribution
+  - architecture.ownership
 ---
 # Add a platform or replace a backend
 
@@ -49,7 +55,7 @@ Native and shader build profiles belong to the build integration. Runtime Player
 
 Surface descriptors borrow handles from the window owner. Closing an additional window removes input/callback routes, waits for the renderer's retirement operation and only then permits that owner to destroy the window. A completed task is not a general GPU fence. ImGui refreshes actual display scale before NewFrame; it does not duplicate platform aggregate-ABI rules.
 
-For a concrete composition without creating a device, read the [Windows product catalog example](../api/projects/inno-editor-windowsx64.md#compose-backend-catalogs).
+For a concrete composition without creating a device, read the [Windows product catalog example](../architecture/projects/inno-editor-windowsx64.md#compose-backend-catalogs).
 
 ## Supply build contributions without central switches
 

@@ -1,0 +1,18 @@
+---
+uid: api.081eda4ce2b6f4b200917f42a4daac86b19612352dec90b9f8bf0647b2db9549
+symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.ProjectSettingPathAttribute.#ctor(System.String,System.Int32)"
+source: xml
+reviewed: 7879accda2434e066fec4cc56fd71d52ae1d7a20721454ffe66c637fe98e29e9
+title: "Constructor"
+kind: api
+owners: [Inno.Editor.Settings]
+apiSurface: source-clr
+---
+
+Creates a project setting placement.
+
+**Parameter `path`:** The slash-delimited field path beginning with `Project/`.
+
+**Parameter `order`:** The stable order among fields in the same section.
+
+**Exception `T:System.ArgumentException`:** Thrown when `path` is outside the Project root or contains an empty segment.

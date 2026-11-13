@@ -1,6 +1,7 @@
 ---
 title: Recover missing scene scripts
-description: Keep logical component and system state intact while a type is temporarily unavailable.
+description: Keep logical component and system state intact while a type is
+  temporarily unavailable.
 uid: manual.scenes.missing
 kind: troubleshooting
 owners:

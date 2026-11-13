@@ -55,7 +55,7 @@ Use committed text for text entry instead of translating physical key codes into
 
 ## Interpret keys and modifiers
 
-Use [Core input values](../../api/projects/inno-core-input.md) as semantic identifiers rather than raw platform key numbers. A physical `LeftCtrl` key and the combined `KeyModifier.Control` flag answer different questions. Super represents the host's platform mapping; it does not automatically make every shortcut use Command on macOS. Mouse cursor shapes are host concerns and are not included with the Runtime key/button exports.
+Use [Core input values](../../architecture/projects/inno-core-input.md) as semantic identifiers rather than raw platform key numbers. A physical `LeftCtrl` key and the combined `KeyModifier.Control` flag answer different questions. Super represents the host's platform mapping; it does not automatically make every shortcut use Command on macOS. Mouse cursor shapes are host concerns and are not included with the Runtime key/button exports.
 
 ## Respect session and presentation boundaries
 
@@ -74,6 +74,6 @@ Domain tests can use a synthetic backend. Real event-pump, window and device beh
 
 ## Related reference
 
-- [Physical input contracts](../../api/projects/inno-input.md).
-- [Session lifecycle](../../api/projects/inno-input-runtime.md).
-- [Event-provider composition](../../api/projects/inno-adapter-input.md).
+- [Physical input contracts](../../architecture/projects/inno-input.md).
+- [Session lifecycle](../../architecture/projects/inno-input-runtime.md).
+- [Event-provider composition](../../architecture/projects/inno-adapter-input.md).

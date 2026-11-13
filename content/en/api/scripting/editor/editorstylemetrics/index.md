@@ -1,0 +1,105 @@
+---
+uid: api.inno.editor.imgui.editor-script.933382d010c02cca
+symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorStyleMetrics"
+source: xml
+reviewed: 7ee489b59c66e99e8b422cc722d16cdfb774fc75506071d99738eb591f8507e6
+title: "EditorStyleMetrics"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+contracts:
+- api.inno.editor.imgui.editor-script.933382d010c02cca#declaration
+- manual.scripting.use-script-api
+- project.inno-editor-imgui
+aliases:
+- api.inno.editor.imgui.editor-script.5f634da51da1e4e0
+- api.inno.editor.imgui.editor-script.b9acb3a8c4711a3d
+- api.inno.editor.imgui.editor-script.7c10ddf0620b9793
+- api.inno.editor.imgui.editor-script.4c0922e271dd3daa
+- api.inno.editor.imgui.editor-script.936932bcbf88f508
+- api.inno.editor.imgui.editor-script.ac9413d35211dff5
+- api.inno.editor.imgui.editor-script.efc66d57c36ee456
+- api.inno.editor.imgui.editor-script.a7747f04ad5385e5
+- api.inno.editor.imgui.editor-script.de79f7d1fd5a7727
+- api.inno.editor.imgui.editor-script.3bca34e2aa5f1c21
+- api.inno.editor.imgui.editor-script.ad03d15603db936a
+- api.inno.editor.imgui.editor-script.1b2f1a53fc07940a
+- api.inno.editor.imgui.editor-script.658489b628e0f89e
+- api.inno.editor.imgui.editor-script.c068116ae8c92196
+- api.inno.editor.imgui.editor-script.07e1a70bb8b5dbbb
+- api.inno.editor.imgui.editor-script.b1f9ef4b54c7a8a0
+- api.inno.editor.imgui.editor-script.e4214fdb76a5e4b0
+- api.inno.editor.imgui.editor-script.8c0132e9ec91267b
+- api.inno.editor.imgui.editor-script.4a7557a41cd19593
+- api.inno.editor.imgui.editor-script.2b7c4daa03baa866
+- api.inno.editor.imgui.editor-script.ffafc67749c7ed7c
+- api.inno.editor.imgui.editor-script.d9642cc1e6539ef2
+- api.inno.editor.imgui.editor-script.7e3c6bbb67138858
+- api.inno.editor.imgui.editor-script.7bbeeedd1045e635
+- api.inno.editor.imgui.editor-script.10dcc2f61d5ebf07
+- api.inno.editor.imgui.editor-script.eb43f5895844cefd
+- api.inno.editor.imgui.editor-script.7e7315a91b891863
+- api.inno.editor.imgui.editor-script.8ac33d887f9cfa79
+- api.inno.editor.imgui.editor-script.2eb38f005237b183
+- api.inno.editor.imgui.editor-script.66ccd06eac3320b2
+- api.inno.editor.imgui.editor-script.89d7e4a8ee56db34
+- api.inno.editor.imgui.editor-script.866b72da692fb030
+- api.inno.editor.imgui.editor-script.3cede081307d3b78
+- api.inno.editor.imgui.editor-script.23b1262dfc91def2
+- api.inno.editor.imgui.editor-script.6611befb518d9a64
+- api.inno.editor.imgui.editor-script.9214bbecb32a47c5
+- api.inno.editor.imgui.editor-script.80f6787c83e2dbf6
+- api.inno.editor.imgui.editor-script.8b147411410a49bb
+- api.inno.editor.imgui.editor-script.daf6c639bc7ba47d
+- api.inno.editor.imgui.editor-script.aa0e7858d8c92c77
+- api.inno.editor.imgui.editor-script.cde5a1b6f42a49e7
+- api.inno.editor.imgui.editor-script.6156a6f1bb39b252
+- api.inno.editor.imgui.editor-script.38b9568333ec7848
+- api.inno.editor.imgui.editor-script.4e5cb901df3b9cc6
+- api.inno.editor.imgui.editor-script.9a0838071e2c84bd
+- api.inno.editor.imgui.editor-script.f8cfa6b77c21f86a
+- api.inno.editor.imgui.editor-script.375ad90667745d1c
+- api.inno.editor.imgui.editor-script.4ce98526c903aaac
+- api.inno.editor.imgui.editor-script.a7284cb9a1a94ee7
+- api.inno.editor.imgui.editor-script.7b974871343df564
+- api.inno.editor.imgui.editor-script.a423414000cdab18
+- api.inno.editor.imgui.editor-script.1ad9c7a0e16fface
+- api.inno.editor.imgui.editor-script.4d8aba603c1a45fb
+- api.inno.editor.imgui.editor-script.1460176018231e9a
+- api.inno.editor.imgui.editor-script.107b3393eec6c90c
+- api.inno.editor.imgui.editor-script.cadbdfc78400120d
+- api.inno.editor.imgui.editor-script.9e0545df23238433
+- api.inno.editor.imgui.editor-script.a5d9ded5a8eb59b2
+- api.inno.editor.imgui.editor-script.8ec2b4f65e3846fe
+- api.inno.editor.imgui.editor-script.eb71b82c5e67f465
+- api.inno.editor.imgui.editor-script.1f807022d804bb03
+- api.inno.editor.imgui.editor-script.e017e1dbfacc039e
+- api.inno.editor.imgui.editor-script.1b9080fc2bcdc593
+- api.inno.editor.imgui.editor-script.34f2fd01a2b0f692
+- api.inno.editor.imgui.editor-script.365f92f5bb7f2efe
+- api.inno.editor.imgui.editor-script.e1c8e7d1244c33f6
+- api.inno.editor.imgui.editor-script.bebd6bd187f4f346
+- api.inno.editor.imgui.editor-script.0a82ca50b80bb7fb
+- api.inno.editor.imgui.editor-script.d16090c02566858c
+- api.inno.editor.imgui.editor-script.15c22a98d401ae9a
+- api.inno.editor.imgui.editor-script.462c350827b2c9ea
+- api.inno.editor.imgui.editor-script.12d2ca828c211eba
+- api.inno.editor.imgui.editor-script.7f432e97949d871a
+- api.inno.editor.imgui.editor-script.7584a2dd31e54156
+- api.inno.editor.imgui.editor-script.5b8377599bc4f572
+- api.inno.editor.imgui.editor-script.35b6c2600dab9557
+- api.inno.editor.imgui.editor-script.9dc9960e744e6134
+- api.inno.editor.imgui.editor-script.fd192eb423736cbc
+- api.inno.editor.imgui.editor-script.346053a7f3c2e960
+- api.inno.editor.imgui.editor-script.54036ba93f127d90
+- api.inno.editor.imgui.editor-script.ef4b76c420bcb2f3
+- api.inno.editor.imgui.editor-script.8ec68abbd3993fa2
+- api.inno.editor.imgui.editor-script.eabc7ff2d9bbf5fc
+---
+
+Defines reusable layout metrics and separates owned frame values from requested style changes.
+
+## Remarks
+
+Standalone instances apply changes immediately. Session-owned instances defer changes requested during native drawing until the next style preparation. They are mutable only on the owner thread and must not be modified after their session retires.

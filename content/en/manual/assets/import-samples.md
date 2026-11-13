@@ -1,12 +1,17 @@
 ---
 title: Import an installed plugin sample
-description: Copy a sample into writable project sources while preserving transaction and deployment boundaries.
+description: Copy a sample into writable project sources while preserving
+  transaction and deployment boundaries.
 uid: manual.assets.samples
 kind: how-to
-owners: [Inno.Assets.Pipeline]
-contracts: [project.inno-assets-pipeline#publication-and-failure-contract]
+owners:
+  - Inno.Assets.Pipeline
+contracts:
+  - project.inno-assets-pipeline#publication-and-failure-contract
 exampleMode: host
-exampleProjects: [Inno.Assets, Inno.Assets.Pipeline]
+exampleProjects:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
 ---
 # Import an installed plugin sample
 

@@ -1,6 +1,7 @@
 ---
 title: Compose plugin discovery with a host
-description: Initialize shared asset mounts, stage candidates and retire owned background work.
+description: Initialize shared asset mounts, stage candidates and retire owned
+  background work.
 uid: extending.plugin-host
 kind: how-to
 aliases:
@@ -65,4 +66,4 @@ Stop accepting updates, then dispose through the host's retirement protocol. `Pl
 
 If retirement is pending, retain the owner and dependencies and let the shared gate report the failure. Do not clear the last references to the candidate to make shutdown appear complete.
 
-See [reference recovery](reference-recovery.md), [owned asynchronous work](../manual/execution/own-async-work.md), and [the exact authoring API](../api/projects/inno-plugins-authoring.md).
+See [reference recovery](reference-recovery.md), [owned asynchronous work](../manual/execution/own-async-work.md), and [the exact authoring API](../architecture/projects/inno-plugins-authoring.md).

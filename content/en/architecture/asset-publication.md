@@ -1,10 +1,16 @@
 ---
 title: Asset publication, recovery and deployment
-description: How authoring identity, isolated candidates, immutable artifacts and runtime content fit together.
+description: How authoring identity, isolated candidates, immutable artifacts
+  and runtime content fit together.
 uid: architecture.asset-publication
 kind: explanation
-owners: [Inno.Assets, Inno.Assets.Pipeline, Inno.Content]
-contracts: [project.inno-assets-pipeline#publication-and-failure-contract, architecture.ownership]
+owners:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
+  - Inno.Content
+contracts:
+  - project.inno-assets-pipeline#publication-and-failure-contract
+  - architecture.ownership
 ---
 # Asset publication, recovery and deployment
 

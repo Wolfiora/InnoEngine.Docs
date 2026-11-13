@@ -8,15 +8,20 @@ kind: landing
 
 Choose the engine API surface your caller actually receives. Public CLR declarations and script projections have different consumers and obligations. This reference covers InnoEngine; it does not mirror third-party native libraries or generated bindings.
 
-| Surface | Intended use |
+| Reference | Intended use |
 | --- | --- |
-| Host runtime | Engine and runtime composition through managed contracts. |
-| Host Editor | Editor composition and extension contracts available to the host. |
-| [Runtime scripts](runtime-script/index.md) | The selected logical runtime API exported to project scripts. |
-| [Editor scripts](editor-script/index.md) | The selected logical Editor API exported to project scripts. |
-| Managed adapters | Engine integration contracts with explicit target and resource restrictions. |
-| Build/tooling | Build requests, immutable artifacts, validation, and documentation operations. |
-| Test infrastructure | Public fixture contracts used by the corresponding validation owner. |
+| [Engine](engine/index.md) | Public and externally usable protected C# engine, Editor, Build and tooling contracts, organized by project. |
+| [Runtime scripting](scripting/runtime/index.md) | Runtime exports, also available in the Editor script compilation context. |
+| [Editor scripting](scripting/editor/index.md) | Editor-only exports selected by their actual declared Scope. |
+| [Authoring scripting](scripting/authoring/index.md) | Authoring annotations with compilation-time applicability. |
+
+Backend, external-library, test and fixture APIs are excluded. Their engine integration and verification guides remain available outside this reference. Script Scope and compilation context are separate: each type lists its actual availability.
+
+## Source and editorial ownership
+
+Declarations, inheritance, member lists and source links come from the selected engine API export. Each type and member has independent prose: **XML-synced** content follows source XML; manually maintained explanations remain under their author's control. A missing editorial addition is a reminder, not proof that an API is unavailable or unsafe.
+
+The reference represents the engine revision recorded in this site's provenance. It does not silently follow newer engine commits. See [maintaining API documentation](../contributing/api-documentation.md) to enrich a type or member.
 
 ## Read a contract completely
 

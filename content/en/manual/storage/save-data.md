@@ -72,4 +72,4 @@ When the session retires, it cancels accepted work and keeps the backend alive u
 - **Write rejected by budget:** reduce value size or coordinate accepted operations at the feature owner; this budget is distinct from disk quota.
 - **Filesystem operation fails:** inspect permissions and rejected link/path components in the host-owned root. Do not bypass the boundary by writing to an arbitrary path from a script.
 
-See [filesystem backend constraints](../../api/projects/inno-adapter-storage-filesystem.md) and [provider composition](../../api/projects/inno-adapter-storage.md) when configuring a host.
+See [filesystem backend constraints](../../backends/projects/inno-adapter-storage-filesystem.md) and [provider composition](../../architecture/projects/inno-adapter-storage.md) when configuring a host.

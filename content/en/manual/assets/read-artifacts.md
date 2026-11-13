@@ -1,12 +1,16 @@
 ---
 title: Read retained artifact bytes
-description: Open immutable asset output with a lease instead of borrowing a physical cache path.
+description: Open immutable asset output with a lease instead of borrowing a
+  physical cache path.
 uid: manual.assets.artifacts
 kind: how-to
-owners: [Inno.Assets]
-contracts: [project.inno-assets#artifact-reading-contract]
+owners:
+  - Inno.Assets
+contracts:
+  - project.inno-assets#artifact-reading-contract
 exampleMode: host
-exampleProjects: [Inno.Assets]
+exampleProjects:
+  - Inno.Assets
 ---
 # Read retained artifact bytes
 

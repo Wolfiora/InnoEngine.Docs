@@ -1,6 +1,7 @@
 ---
 title: Route and consume events
-description: Order event handlers, apply bounded admission, and release subscriptions with their owner.
+description: Order event handlers, apply bounded admission, and release
+  subscriptions with their owner.
 uid: manual.events.route-events
 kind: how-to
 owners:
@@ -86,4 +87,4 @@ The host can subscribe to `dispatcher.dispatched`. This synchronous notification
 
 Observers do not participate in consumption, do not call `HandleInHub`, and must unsubscribe before their owner retires. Dispatch does not marshal handlers to another thread or make the listener's own state thread-safe.
 
-[Event project contracts](../../api/projects/inno-core-events.md) provide the exact type/member reference and lifetime boundary.
+[Event project contracts](../../architecture/projects/inno-core-events.md) provide the exact type/member reference and lifetime boundary.

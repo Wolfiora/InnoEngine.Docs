@@ -10,7 +10,7 @@ A build can execute tools for one host while producing a different runtime targe
 
 ## Make the selections
 
-1. Select the **execution host** and its actual SDK/tools. On Windows, [host discovery](../api/projects/inno-build-windows-host.md) also supplies protected compiler-workspace aliases.
+1. Select the **execution host** and its actual SDK/tools. On Windows, [host discovery](../architecture/projects/inno-build-windows-host.md) also supplies protected compiler-workspace aliases.
 2. Select the **target**: its architecture, ABI, runtime identifier and platform capabilities.
 3. Select the **product** and its actual component closure. A desktop Editor includes capabilities that a Player does not need.
 4. Select the **managed deployment** supported by that contribution. A native target and its managed runtime are related inputs, not interchangeable identities.
@@ -18,9 +18,9 @@ A build can execute tools for one host while producing a different runtime targe
 
 | Source target | Platform foundation | Complete composition |
 | --- | --- | --- |
-| `windows-x64` | [Windows x64 SDK and layout](../api/projects/inno-build-windowsx64.md) | [Windows build integration](../api/projects/inno-integration-windowsx64-build.md) |
-| `macos-arm64` | [macOS ARM64 SDK and layout](../api/projects/inno-build-macosarm64.md) | [macOS build integration](../api/projects/inno-integration-macosarm64-build.md) |
-| `browser-wasm` | [Browser SDK and static site](../api/projects/inno-build-browserwasm32.md) | [Browser build integration](../api/projects/inno-integration-browserwasm32-build.md) |
+| `windows-x64` | [Windows x64 SDK and layout](../architecture/projects/inno-build-windowsx64.md) | [Windows build integration](../architecture/projects/inno-integration-windowsx64-build.md) |
+| `macos-arm64` | [macOS ARM64 SDK and layout](../architecture/projects/inno-build-macosarm64.md) | [macOS build integration](../architecture/projects/inno-integration-macosarm64-build.md) |
+| `browser-wasm` | [Browser SDK and static site](../architecture/projects/inno-build-browserwasm32.md) | [Browser build integration](../architecture/projects/inno-integration-browserwasm32-build.md) |
 
 These are implemented source contributions, not a claim that every device, graphics API or host/target combination has passed acceptance. Browser supplies a Player, not an Editor. An Editor launch does not require preparing an unrelated Browser workload or publishing a Player Support Pack.
 
@@ -32,9 +32,9 @@ Platform foundations own SDK selection, product layouts and packaging. Shared ba
 
 Content compilers are separate from runtime surface integration:
 
-- [Windows BGFX compiler/profile](../api/projects/inno-integration-windowsx64-bgfx.md)
-- [macOS BGFX compiler/profile](../api/projects/inno-integration-macosarm64-bgfx.md)
-- [Browser BGFX compiler/profile](../api/projects/inno-integration-browserwasm32-bgfx.md)
+- [Windows BGFX compiler/profile](../architecture/projects/inno-integration-windowsx64-bgfx.md)
+- [macOS BGFX compiler/profile](../architecture/projects/inno-integration-macosarm64-bgfx.md)
+- [Browser BGFX compiler/profile](../architecture/projects/inno-integration-browserwasm32-bgfx.md)
 
 These compilers borrow authoring-generation services. A Player consumes their published content through neutral runtime contracts; it does not retain the compiler or the Editor's type catalog.
 

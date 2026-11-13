@@ -1,6 +1,7 @@
 ---
 title: Contribute static type facts and factories
-description: Register exact discovery metadata and linked generic constructions without runtime scanning or hidden fallback.
+description: Register exact discovery metadata and linked generic constructions
+  without runtime scanning or hidden fallback.
 uid: extending.static-type-catalogs
 kind: how-to
 owners:
@@ -65,4 +66,4 @@ Contributors run synchronously on the composition thread. They must not retain t
 
 Type objects, attributes and factories belong to the resulting generation. Persist stable identities and neutral data rather than these live references. The Catalogs assembly itself neither scans assemblies nor manages retirement.
 
-See [the exact catalog contracts](../api/projects/inno-extensibility-catalogs.md), [module composition](module-sources.md) and [serialization metadata](serialization-metadata.md) for a related generated consumer.
+See [the exact catalog contracts](../architecture/projects/inno-extensibility-catalogs.md), [module composition](module-sources.md) and [serialization metadata](serialization-metadata.md) for a related generated consumer.

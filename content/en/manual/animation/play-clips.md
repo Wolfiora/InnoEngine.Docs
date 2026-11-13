@@ -1,6 +1,7 @@
 ---
 title: Play a clip against an explicit target
-description: Sample animation values using a selected clock, explicit destination and generation-safe playback handle.
+description: Sample animation values using a selected clock, explicit
+  destination and generation-safe playback handle.
 uid: manual.animation.play-clips
 kind: how-to
 owners:
@@ -69,4 +70,4 @@ Markers carry stable event IDs and neutral payload bytes through the session eve
 - **A previous handle stops working:** check completion, explicit stop and session generation instead of reusing its slot identity.
 - **Capacity is exhausted:** coordinate active playback ownership; the default 16,384-playback limit is finite and rejects additional admission.
 
-Continue with [animation bindings](../../extending/animation-bindings.md) or the [runtime reference](../../api/projects/inno-animation-runtime.md).
+Continue with [animation bindings](../../extending/animation-bindings.md) or the [runtime reference](../../architecture/projects/inno-animation-runtime.md).

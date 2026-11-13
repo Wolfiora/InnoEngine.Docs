@@ -86,3 +86,20 @@ test('script compilation needs actual matching logical projection comparisons', 
   f.report.scriptReferences[0].identity = 'd'.repeat(64);
   assert.equal(evaluate(f).status, 'Blocked');
 });
+
+test('script receipts select an exact target without requiring another platform compiler', () => {
+  const f = fixture();
+  f.catalog.pages[0].examples.mode = f.report.results[0].mode = 'runtime-script';
+  f.report.target = 'windows-x64';
+  const selected = { model: 'runtime-script', configuration: 'Debug', target: 'windows-x64', identity: 'a'.repeat(64) };
+  const foreign = { ...selected, target: 'macos-arm64', identity: 'b'.repeat(64) };
+  f.catalog.references.push(selected, foreign);
+  f.report.apiInputs.push(selected, foreign);
+  f.report.scriptReferences.push({ ...selected, status: 'Passed', differences: [], documentationIdentity: 'c'.repeat(64),
+    projectionIdentities: { 'Inno.ScriptApi.Runtime': 'd'.repeat(64) } });
+  assert.equal(evaluate(f).status, 'Passed');
+  f.report.scriptReferences[0].target = 'macos-arm64';
+  assert.equal(evaluate(f).status, 'Blocked');
+  f.report.target = 'unknown';
+  assert.equal(evaluate(f).status, 'Blocked');
+});

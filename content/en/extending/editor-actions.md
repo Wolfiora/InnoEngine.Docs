@@ -1,12 +1,16 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Interactions]
+exampleProjects:
+  - Inno.Editor.Interactions
 title: Register an action and menu
-description: Contribute a typed Editor operation through the shared menu, shortcut and toolbar resolver.
+description: Contribute a typed Editor operation through the shared menu,
+  shortcut and toolbar resolver.
 uid: extending.editor-actions
 kind: how-to
-owners: [Inno.Editor.Interactions]
-contracts: [api.projects.inno-editor-interactions#generation-and-lifetime-contracts]
+owners:
+  - Inno.Editor.Interactions
+contracts:
+  - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 ---
 # Register an action and menu
 

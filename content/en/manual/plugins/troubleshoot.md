@@ -1,6 +1,7 @@
 ---
 title: Diagnose an unavailable plugin
-description: Separate invalid installation data, compilation failure, Missing recovery and retirement faults.
+description: Separate invalid installation data, compilation failure, Missing
+  recovery and retirement faults.
 uid: manual.plugins.troubleshoot
 kind: troubleshooting
 owners:

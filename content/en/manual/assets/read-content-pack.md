@@ -1,12 +1,17 @@
 ---
 title: Open a verified deployment content pack
-description: Transfer pack ownership to a verified store and read logical entries through independent leases.
+description: Transfer pack ownership to a verified store and read logical
+  entries through independent leases.
 uid: manual.assets.content-pack
 kind: how-to
-owners: [Inno.Content]
-contracts: [project.inno-content#content-ownership-contract]
+owners:
+  - Inno.Content
+contracts:
+  - project.inno-content#content-ownership-contract
 exampleMode: host
-exampleProjects: [Inno.Content, Inno.Core.Serialization]
+exampleProjects:
+  - Inno.Content
+  - Inno.Core.Serialization
 ---
 # Open a verified deployment content pack
 

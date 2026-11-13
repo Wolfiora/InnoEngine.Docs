@@ -12,8 +12,8 @@ Installed game content and writable application values have different lifetimes.
 
 | Product platform | Published content location | User-data root |
 | --- | --- | --- |
-| [Windows x64](../api/projects/inno-platform-windowsx64.md) | `Content` below the executable directory | Windows `LocalApplicationData` |
-| [macOS ARM64](../api/projects/inno-platform-macosarm64.md) | Normalized `../Resources/Content` relative to the executable directory | User profile's `Library/Application Support` |
+| [Windows x64](../architecture/projects/inno-platform-windowsx64.md) | `Content` below the executable directory | Windows `LocalApplicationData` |
+| [macOS ARM64](../architecture/projects/inno-platform-macosarm64.md) | Normalized `../Resources/Content` relative to the executable directory | User profile's `Library/Application Support` |
 
 The content resolver accepts an absolute executable directory and computes one explicit location. It does not search alternative layouts or prove that the content was successfully packaged. Empty or relative input fails. User-root lookup rejects the wrong OS and unusable system locations.
 
@@ -21,7 +21,7 @@ These small location services do not own devices, sessions, filesystem stores or
 
 ## Browser values
 
-The [Browser storage adapter](../api/projects/inno-adapter-storage-browserwasm32.md) uses `StorageScope` to isolate key prefixes in the current origin's `localStorage`. This is a namespace, not a directory path. Scripts continue to use the neutral Storage contract.
+The [Browser storage adapter](../architecture/projects/inno-adapter-storage-browserwasm32.md) uses `StorageScope` to isolate key prefixes in the current origin's `localStorage`. This is a namespace, not a directory path. Scripts continue to use the neutral Storage contract.
 
 Bytes are Base64-encoded. A write replaces one key, not an entire application transaction. Missing reads return null; quota, access and corrupt-value failures stay visible. The browser controls persistence and storage policy, so do not promise indefinite durability or filesystem semantics.
 

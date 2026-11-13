@@ -1,10 +1,13 @@
 ---
 title: Edit a graph document with undo and recovery
-description: Use persistent document identities, session controllers and neutral history payloads for graph editing.
+description: Use persistent document identities, session controllers and neutral
+  history payloads for graph editing.
 uid: extending.graph-documents
 kind: how-to
-owners: [Inno.Editor.Graph]
-contracts: [project.inno-editor-graph]
+owners:
+  - Inno.Editor.Graph
+contracts:
+  - project.inno-editor-graph
 ---
 # Edit a graph document with undo and recovery
 
@@ -34,4 +37,4 @@ Controllers carry weak session identities resolved by the module's allocator. A 
 
 The module registers as a reload participant and uses the existing reference-recovery transaction. Preparation captures neutral graph bytes, application decodes a complete candidate, and validation checks nodes, edges, order and property data. Failure restores revision, dirty state and availability precisely.
 
-Stable node IDs express graph semantics; they are not forced into object-reference slots. The [Graph API](../api/projects/inno-editor-graph.md) documents exact controller operations. Rendering widgets belong to the separate presentation layer.
+Stable node IDs express graph semantics; they are not forced into object-reference slots. The [Graph API](../architecture/projects/inno-editor-graph.md) documents exact controller operations. Rendering widgets belong to the separate presentation layer.

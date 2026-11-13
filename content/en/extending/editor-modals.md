@@ -1,12 +1,18 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Core]
+exampleProjects:
+  - Inno.Editor.Core
 title: Add a modal view
-description: Declare a host-owned overlay with explicit visibility, sizing and preparation behavior.
+description: Declare a host-owned overlay with explicit visibility, sizing and
+  preparation behavior.
 uid: extending.editor-modals
 kind: how-to
-owners: [Inno.Editor.Core, Inno.Editor.Interactions, Inno.Editor.ImGui]
-contracts: [architecture.editor-generations]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Interactions
+  - Inno.Editor.ImGui
+contracts:
+  - architecture.editor-generations
 ---
 # Add a modal view
 

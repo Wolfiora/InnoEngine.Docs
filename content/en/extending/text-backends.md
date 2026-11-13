@@ -1,6 +1,7 @@
 ---
 title: Add a text backend
-description: Implement neutral shaping, register a provider and transfer one backend to each runtime session.
+description: Implement neutral shaping, register a provider and transfer one
+  backend to each runtime session.
 uid: extending.text-backends
 kind: how-to
 owners:
@@ -34,4 +35,4 @@ The catalog rejects duplicate IDs and null products. It is not a dynamic discove
 
 Test invalid fonts and faces, Unicode clusters, explicit directions, empty text, invalid sizes, buffer layout, handle retirement and construction/cleanup failures. Use the owning native environment for actual rasterization checks. A managed catalog test alone does not validate the font library or target deployment.
 
-The [FreeType/HarfBuzz implementation](../backends/text.md) is a concrete reference. [Runtime ownership](../api/projects/inno-text-runtime.md) describes the consumer's artifact leases and stop sequence.
+The [FreeType/HarfBuzz implementation](../backends/text.md) is a concrete reference. [Runtime ownership](../architecture/projects/inno-text-runtime.md) describes the consumer's artifact leases and stop sequence.

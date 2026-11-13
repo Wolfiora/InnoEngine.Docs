@@ -1,12 +1,17 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Core]
+exampleProjects:
+  - Inno.Editor.Core
 title: Create an Editor module
-description: Give a shared Editor feature a discovered identity, activation hooks and explicit resource ownership.
+description: Give a shared Editor feature a discovered identity, activation
+  hooks and explicit resource ownership.
 uid: extending.editor-modules
 kind: how-to
-owners: [Inno.Editor.Core, Inno.Editor.Interactions]
-contracts: [architecture.editor-generations]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Interactions
+contracts:
+  - architecture.editor-generations
 ---
 # Create an Editor module
 

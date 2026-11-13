@@ -1,6 +1,7 @@
 ---
 title: Schedule bounded frame jobs
-description: Choose a scheduler strategy, express dependencies, complete a frame and drain owner-thread callbacks.
+description: Choose a scheduler strategy, express dependencies, complete a frame
+  and drain owner-thread callbacks.
 uid: manual.execution.schedule-frame-jobs
 kind: how-to
 owners:
@@ -87,4 +88,4 @@ Jobs and callbacks must return in finite time. Shutdown cannot safely preempt an
 
 Use `statistics` to inspect frame job counts, rejected work, queue pressure and canceled callbacks. These measurements describe the scheduler's admitted work, not a general CPU profiler.
 
-See [JobScheduler](../../api/types/core-jobs/jobscheduler.md) for exact scheduling signatures and [JobSchedulerOptions](../../api/types/core-jobs/jobscheduleroptions.md) for the selected policy inputs.
+See [JobScheduler](../../api/engine/core/jobs/jobscheduler/index.md) for exact scheduling signatures and [JobSchedulerOptions](../../api/engine/core/jobs/jobscheduleroptions/index.md) for the selected policy inputs.

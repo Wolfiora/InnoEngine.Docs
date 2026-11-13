@@ -1,8 +1,10 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Core.Identity]
+exampleProjects:
+  - Inno.Core.Identity
 title: Register an identity object
-description: Preserve a saved identity while explicitly owning registration and release in a runtime domain.
+description: Preserve a saved identity while explicitly owning registration and
+  release in a runtime domain.
 uid: manual.register-identity
 kind: how-to
 owners:
@@ -65,4 +67,4 @@ Registration returns false when the same live object is already registered. A di
 
 ## Resolve the exact contract
 
-See [IdentityAllocator](../api/types/core-identity/identityallocator.md) for registration, lookup overloads and scope rules, and [the project overview](../api/projects/inno-core-identity.md) for the full ownership model.
+See [IdentityAllocator](../api/engine/core/identity/identityallocator/index.md) for registration, lookup overloads and scope rules, and [the project overview](../architecture/projects/inno-core-identity.md) for the full ownership model.

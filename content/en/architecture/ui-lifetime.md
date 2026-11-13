@@ -1,6 +1,7 @@
 ---
 title: UI lifetimes and data flow
-description: Separate authoring, runtime sessions, native layout, and renderer-owned resources.
+description: Separate authoring, runtime sessions, native layout, and
+  renderer-owned resources.
 uid: architecture.ui-lifetime
 kind: explanation
 owners:

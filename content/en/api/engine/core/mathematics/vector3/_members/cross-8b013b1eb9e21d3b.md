@@ -1,0 +1,18 @@
+---
+uid: api.8b013b1eb9e21d3b740b64ee0bb050f54d7b751b28f39b230e3c5badadb16642
+symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.Cross(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
+source: xml
+reviewed: 5e121bae03c2c7d704d8231ab2b50fa39bbcce55ab5929375fb59768ad819bd6
+title: "Cross"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: source-clr
+---
+
+Calculates the vector perpendicular to both supplied vectors.
+
+**Parameter `a`:** The first operand or interpolation endpoint.
+
+**Parameter `b`:** The second operand or interpolation endpoint.
+
+**Returns:** The validated vector3 that represents the completed operation.

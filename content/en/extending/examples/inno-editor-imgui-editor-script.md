@@ -3,14 +3,17 @@ title: Inno.Editor.ImGui editor-script examples
 description: Verified logical API use sites with the owning feature lifecycle kept explicit.
 uid: examples.inno-editor-imgui.editor-script
 kind: how-to
-owners: [Inno.Editor.ImGui]
-contracts: [project.inno-editor-imgui]
+owners:
+  - Inno.Editor.ImGui
+contracts:
+  - project.inno-editor-imgui
 exampleMode: editor-script
-exampleProjects: [Inno.Editor.ImGui]
+exampleProjects:
+  - Inno.Editor.ImGui
 ---
 # Inno.Editor.ImGui editor-script examples
 
-These examples use the selected logical script surface. Read [the feature contract](../../api/projects/inno-editor-imgui.md) before adapting them. Host implementation namespaces and host-only readiness services are not substitutes for these references.
+These examples use the selected logical script surface. Read [the feature contract](../../architecture/projects/inno-editor-imgui.md) before adapting them. Host implementation namespaces and host-only readiness services are not substitutes for these references.
 
 Provide the live services or authored source context required by each declaration. Compilation verifies these use sites, not device execution or completion of a reload lifecycle.
 

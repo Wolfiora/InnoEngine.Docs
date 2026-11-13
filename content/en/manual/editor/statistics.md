@@ -1,12 +1,17 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Core]
+exampleProjects:
+  - Inno.Editor.Core
 title: Read and publish Editor statistics
-description: Inspect frame timing and contribute stable feature values without coupling a feature to the Stats panel.
+description: Inspect frame timing and contribute stable feature values without
+  coupling a feature to the Stats panel.
 uid: manual.editor-statistics
 kind: how-to
-owners: [Inno.Editor.Core, Inno.Editor.Panel.Stats]
-contracts: [architecture.ownership]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Panel.Stats
+contracts:
+  - architecture.ownership
 ---
 # Read and publish Editor statistics
 

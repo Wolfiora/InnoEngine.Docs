@@ -1,10 +1,15 @@
 ---
 title: Editor generations and retirement
-description: How Editor extensions activate, roll back, quarantine failures and retain ownership during retirement.
+description: How Editor extensions activate, roll back, quarantine failures and
+  retain ownership during retirement.
 uid: architecture.editor-generations
 kind: explanation
-owners: [Inno.Editor.Core, Inno.Editor.Interactions]
-contracts: [architecture.ownership, manual.identity-and-missing]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Interactions
+contracts:
+  - architecture.ownership
+  - manual.identity-and-missing
 ---
 # Editor generations and retirement
 
@@ -68,4 +73,4 @@ Ordinary terminal errors still permit remaining cleanup attempts and are reporte
 - [Preserve extension state](../extending/editor-state.md).
 - [Add a panel](../extending/editor-panels.md).
 - [Create a module](../extending/editor-modules.md).
-- [Editor Core](../api/projects/inno-editor-core.md).
+- [Editor Core](projects/inno-editor-core.md).

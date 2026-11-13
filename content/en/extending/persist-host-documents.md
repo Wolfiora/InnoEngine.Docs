@@ -1,6 +1,7 @@
 ---
 title: Persist a host-owned document
-description: Select an explicit document medium, publish complete bytes, and coordinate readers without leaking paths into domain models.
+description: Select an explicit document medium, publish complete bytes, and
+  coordinate readers without leaking paths into domain models.
 uid: extending.persist-host-documents
 kind: how-to
 owners:
@@ -69,4 +70,4 @@ The pin must support safely retrying unfinished disposal. If stream closure or p
 
 - [Manage temporary process output](manage-process-output.md) without deleting another participant's work.
 - [Read project settings](../manual/projects/read-settings.md) for a document-backed domain protocol.
-- [Core IO reference](../api/projects/inno-core-io.md) for exact paths, timeout and failure contracts.
+- [Core IO reference](../architecture/projects/inno-core-io.md) for exact paths, timeout and failure contracts.

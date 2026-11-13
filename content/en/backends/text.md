@@ -1,6 +1,7 @@
 ---
 title: FreeType and HarfBuzz text backend
-description: Understand the font backend, native ownership and its current typography boundaries.
+description: Understand the font backend, native ownership and its current
+  typography boundaries.
 uid: backends.text
 kind: explanation
 owners:
@@ -19,7 +20,7 @@ InnoEngine uses HarfBuzz to shape a Unicode run and FreeType to read face metric
 
 An imported `FontAsset` identifies committed encoded font data. A session acquires its artifact lease, loads a native face and reuses it for the same font content version and face index. Shaping produces positions; rasterization produces CPU coverage. Runtime stop releases faces and artifact leases before the backend's final disposal.
 
-The native runtime copies input font bytes and owns each face. Managed code encodes strings as UTF-8 and uses query-then-fill buffers. Returned managed glyphs and bitmaps do not borrow those temporary buffers. Raw native callers retain all pointer, capacity and error-release obligations described in the [ABI contract](../api/projects/inno-native-text.md#native-lifetime-contract).
+The native runtime copies input font bytes and owns each face. Managed code encodes strings as UTF-8 and uses query-then-fill buffers. Returned managed glyphs and bitmaps do not borrow those temporary buffers. Raw native callers retain all pointer, capacity and error-release obligations described in the [ABI contract](projects/inno-native-text.md#native-lifetime-contract).
 
 ## Supported scope
 
@@ -33,4 +34,4 @@ The product must deploy a Text native library matching its generated binding and
 
 The engine's `extern/freetype` and `extern/harfbuzz` gitlinks pin the inputs. Their original license and notice files remain authoritative with the source distribution. Consult [FreeType](https://freetype.org/) and [HarfBuzz](https://harfbuzz.github.io/) for upstream mechanisms; their full feature lists are not promises made by the engine wrapper.
 
-Start with [shape text and rasterize glyphs](../manual/text/shape-text.md), [add a backend](../extending/text-backends.md), or [prepare the native component](../api/projects/inno-build-toolchains-text.md).
+Start with [shape text and rasterize glyphs](../manual/text/shape-text.md), [add a backend](../extending/text-backends.md), or [prepare the native component](projects/inno-build-toolchains-text.md).

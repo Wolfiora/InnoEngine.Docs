@@ -1,10 +1,13 @@
 ---
 title: Navigate and edit in Scene View
-description: Use contributor-defined navigation and transactional transforms in the currently presented world.
+description: Use contributor-defined navigation and transactional transforms in
+  the currently presented world.
 uid: manual.editor.scene-view
 kind: how-to
-owners: [Inno.Editor.Panel.SceneView]
-contracts: [project.inno-editor-panel-sceneview]
+owners:
+  - Inno.Editor.Panel.SceneView
+contracts:
+  - project.inno-editor-panel-sceneview
 ---
 # Navigate and edit in Scene View
 

@@ -1,10 +1,15 @@
 ---
 title: Prepare and check engine native bindings
-description: Use the engine's official generation boundary without modifying generated code or duplicating upstream API documentation.
+description: Use the engine's official generation boundary without modifying
+  generated code or duplicating upstream API documentation.
 uid: contributing.native-bindings
 kind: how-to
-owners: [Inno.Build.Bindings, Inno.Build.Tasks]
-contracts: [project.inno-build-bindings, architecture.native-preparation]
+owners:
+  - Inno.Build.Bindings
+  - Inno.Build.Tasks
+contracts:
+  - project.inno-build-bindings
+  - architecture.native-preparation
 ---
 # Prepare and check engine native bindings
 
@@ -43,4 +48,4 @@ Freshness is checked initially, after relevant locks, after generation, after na
 
 Compiler, sysroot, Emscripten and supporting tools come from the operation's frozen SDK selection. Do not change the parent process environment or invent another variable-expansion language. Official host NuGet assets supply generator workers; Player deployment consumes the runtime boundary rather than the generator implementation.
 
-Compilation, linking, export validation, packaging and deployment remain engine responsibilities. Runtime marshalling policy and native widths/callbacks still require actual ABI and device acceptance. One successful target does not certify another. See [frozen native preparation](../architecture/native-preparation.md) and [binding contracts](../api/projects/inno-build-bindings.md).
+Compilation, linking, export validation, packaging and deployment remain engine responsibilities. Runtime marshalling policy and native widths/callbacks still require actual ABI and device acceptance. One successful target does not certify another. See [frozen native preparation](../architecture/native-preparation.md) and [binding contracts](../architecture/projects/inno-build-bindings.md).

@@ -1,6 +1,7 @@
 ---
 title: Shape text and rasterize glyphs
-description: Turn an imported font and Unicode text into positioned glyphs and CPU coverage pixels.
+description: Turn an imported font and Unicode text into positioned glyphs and
+  CPU coverage pixels.
 uid: manual.text.shape-text
 kind: how-to
 owners:
@@ -74,4 +75,4 @@ Keep operations on the runtime/backend owner thread. A stopped runtime rejects c
 | Unexpected glyph positions | Run direction, shaping hints, face choice and UTF-8 cluster interpretation. |
 | Native initialization fails | The selected product's matching Text deployment; do not substitute an unrelated cached library. |
 
-See the [Text API](../../api/projects/inno-text.md), [backend guide](../../backends/text.md) and [backend extension contract](../../extending/text-backends.md).
+See the [Text API](../../architecture/projects/inno-text.md), [backend guide](../../backends/text.md) and [backend extension contract](../../extending/text-backends.md).

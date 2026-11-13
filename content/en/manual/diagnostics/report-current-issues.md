@@ -1,6 +1,7 @@
 ---
 title: Report and resolve current issues
-description: Publish owner-bound diagnostic state, replace complete reports, and resolve problems without erasing log history.
+description: Publish owner-bound diagnostic state, replace complete reports, and
+  resolve problems without erasing log history.
 uid: manual.diagnostics.report-current-issues
 kind: how-to
 owners:
@@ -76,4 +77,4 @@ The actual Runtime script projection exports `Diagnostic`, `DiagnosticSeverity`,
 - A retired producer fails to publish: obtain the registration belonging to the current owner; do not revive the old token.
 - A newly opened tool lacks a report: confirm sink registration replay succeeded and the producer has not resolved or retired it.
 
-[Diagnostic contracts](../../api/projects/inno-core-diagnostics.md) explain direct hub publication, failure-channel limitations and exact APIs.
+[Diagnostic contracts](../../architecture/projects/inno-core-diagnostics.md) explain direct hub publication, failure-channel limitations and exact APIs.

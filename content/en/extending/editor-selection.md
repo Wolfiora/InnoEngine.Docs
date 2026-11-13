@@ -1,12 +1,17 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Interactions]
+exampleProjects:
+  - Inno.Editor.Interactions
 title: Select targets and move data
-description: Use generation-aware selection, drag/drop and canvas navigation without retaining stale live objects.
+description: Use generation-aware selection, drag/drop and canvas navigation
+  without retaining stale live objects.
 uid: extending.editor-selection
 kind: how-to
-owners: [Inno.Editor.Interactions]
-contracts: [manual.identity-and-missing, api.projects.inno-editor-interactions#generation-and-lifetime-contracts]
+owners:
+  - Inno.Editor.Interactions
+contracts:
+  - manual.identity-and-missing
+  - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 ---
 # Select targets and move data
 

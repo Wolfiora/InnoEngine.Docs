@@ -1,10 +1,13 @@
 ---
 title: Validation inputs, builds and evidence
-description: Understand how a selected change becomes an owned build and a reconciled result.
+description: Understand how a selected change becomes an owned build and a
+  reconciled result.
 uid: architecture.validation-evidence
 kind: explanation
-owners: [Inno.Tooling.Validation]
-contracts: [project.inno-tooling-validation]
+owners:
+  - Inno.Tooling.Validation
+contracts:
+  - project.inno-tooling-validation
 ---
 # Validation inputs, builds and evidence
 

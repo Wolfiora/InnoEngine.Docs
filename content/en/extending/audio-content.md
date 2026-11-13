@@ -1,6 +1,7 @@
 ---
 title: Provide audio from host content
-description: Submit bounded emitter and listener snapshots without leaking content or plugin lifetimes.
+description: Submit bounded emitter and listener snapshots without leaking
+  content or plugin lifetimes.
 uid: extending.audio-content
 kind: how-to
 owners:
@@ -39,4 +40,4 @@ Release provider-owned generation resources during provider disposal. `Retiremen
 
 Providers run at control-thread update points. The native audio callback must not refresh the type catalog, resolve content, reflect over plugin types, read asset files, emit managed logs, acquire managed locks or invoke managed DSP extensions. Submit the neutral control state beforehand and let the backend consume its own prepared state.
 
-See [audio lifetime](../architecture/audio-lifetime.md) for clip leases and device retirement, and [Inno.Audio](../api/projects/inno-audio.md) for exact provider and snapshot declarations.
+See [audio lifetime](../architecture/audio-lifetime.md) for clip leases and device retirement, and [Inno.Audio](../architecture/projects/inno-audio.md) for exact provider and snapshot declarations.

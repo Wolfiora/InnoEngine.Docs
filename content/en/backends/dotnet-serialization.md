@@ -1,6 +1,7 @@
 ---
 title: Dynamic .NET serialization metadata
-description: Supply reflection-backed declaration access for authoring without moving reflection into Core or retaining retired types globally.
+description: Supply reflection-backed declaration access for authoring without
+  moving reflection into Core or retaining retired types globally.
 uid: backends.dotnet-serialization
 kind: explanation
 owners:
@@ -51,4 +52,4 @@ Create the registry after its type catalog is ready. Retire sessions and operati
 
 Restore callbacks run at operation completion. Their effects and constructor/setter side effects are governed by the caller's transaction, not automatically rolled back by this provider.
 
-See [save declared state](../manual/serialization/save-state.md), [static metadata](../extending/serialization-metadata.md), and the [adapter API](../api/types/serialization-dotnet/index.md).
+See [save declared state](../manual/serialization/save-state.md), [static metadata](../extending/serialization-metadata.md), and the [adapter API](projects/inno-adapter-serialization-dotnet.md).

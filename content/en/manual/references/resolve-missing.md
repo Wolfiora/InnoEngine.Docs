@@ -1,6 +1,7 @@
 ---
 title: Preserve and resolve a Missing reference
-description: Keep persistent intent when an object or its resolver is temporarily unavailable.
+description: Keep persistent intent when an object or its resolver is
+  temporarily unavailable.
 uid: manual.references.resolve-missing
 kind: how-to
 aliases:
@@ -62,4 +63,4 @@ Recovery applies all provisional objects before resolving and validating slots. 
 
 A Resolved result is not a long-lived strong object handle. Use it only within the current owner's lifetime and access protections. Never write its runtime identity into settings, assets, Scene persistence or History.
 
-See [identity and Missing](../identity-and-missing.md) for persistent versus generation identity and [the References API](../../api/projects/inno-references.md) for exact resolution contracts.
+See [identity and Missing](../identity-and-missing.md) for persistent versus generation identity and [the References API](../../architecture/projects/inno-references.md) for exact resolution contracts.

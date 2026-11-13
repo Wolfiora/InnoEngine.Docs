@@ -1,6 +1,7 @@
 ---
 title: Write and retain logs
-description: Emit script logs, select host delivery, handle backpressure and close owned sinks safely.
+description: Emit script logs, select host delivery, handle backpressure and
+  close owned sinks safely.
 uid: manual.diagnostics.write-logs
 kind: how-to
 owners:
@@ -71,4 +72,4 @@ The host still owns recovery and release of a quarantined sink. Do not blindly r
 
 Entries retain neutral text, severity, assembly domain/scope, category, source location, stack text and session identity. The script facade uses the compiler-provided source filename as its category; a logger returned by `CreateLogger<TOwner>()` uses its owner type's name. Entries do not keep the source `Type` or `Assembly` alive. Stack detail depends on the runtime and available symbols.
 
-[Logging contracts](../../api/projects/inno-core-logging.md) describe exact members, session scopes and sink lifetime.
+[Logging contracts](../../architecture/projects/inno-core-logging.md) describe exact members, session scopes and sink lifetime.

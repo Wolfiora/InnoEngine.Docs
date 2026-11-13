@@ -1,6 +1,7 @@
 ---
 title: Load scenes and move objects
-description: Manage an additive loaded set without cloning or losing persistent object identity.
+description: Manage an additive loaded set without cloning or losing persistent
+  object identity.
 uid: manual.scenes.manage
 kind: how-to
 owners:

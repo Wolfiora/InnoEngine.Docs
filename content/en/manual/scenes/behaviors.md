@@ -1,6 +1,7 @@
 ---
 title: Choose a behavior or a scene system
-description: Attach per-object behavior or serializable scene-wide coordination with explicit lifecycle rules.
+description: Attach per-object behavior or serializable scene-wide coordination
+  with explicit lifecycle rules.
 uid: manual.scenes.behaviors
 kind: how-to
 owners:

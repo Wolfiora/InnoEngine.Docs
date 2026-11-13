@@ -1,10 +1,14 @@
 ---
 title: Change Editor and project settings
-description: Choose the correct settings scope and understand Apply, Reset and persistence boundaries.
+description: Choose the correct settings scope and understand Apply, Reset and
+  persistence boundaries.
 uid: manual.editor-settings
 kind: how-to
-owners: [Inno.Editor.Settings, Inno.Editor.Panel.Settings]
-contracts: [api.projects.inno-editor-settings#identity-and-use-contracts]
+owners:
+  - Inno.Editor.Settings
+  - Inno.Editor.Panel.Settings
+contracts:
+  - api.projects.inno-editor-settings#identity-and-use-contracts
 ---
 # Change Editor and project settings
 
@@ -52,4 +56,4 @@ Editor Reset uses the field's declared default. Project Reset removes the overri
 
 ## Extend settings
 
-See [Editor Settings](../../api/projects/inno-editor-settings.md) for definition and drawer contracts. Runtime settings remain with their runtime owner; the Editor drawer supplies presentation. Paths must remain unique, and stale generation-specific objects cannot be retained by static callbacks.
+See [Editor Settings](../../architecture/projects/inno-editor-settings.md) for definition and drawer contracts. Runtime settings remain with their runtime owner; the Editor drawer supplies presentation. Paths must remain unique, and stale generation-specific objects cannot be retained by static callbacks.

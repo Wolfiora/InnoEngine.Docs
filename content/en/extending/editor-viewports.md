@@ -1,10 +1,13 @@
 ---
 title: Contribute a rendering model to an Editor viewport
-description: Separate render layers, interaction ownership, frame-scoped content and safe preview output.
+description: Separate render layers, interaction ownership, frame-scoped content
+  and safe preview output.
 uid: extending.editor-viewports
 kind: how-to
-owners: [Inno.Editor.Rendering]
-contracts: [project.inno-editor-rendering]
+owners:
+  - Inno.Editor.Rendering
+contracts:
+  - project.inno-editor-rendering
 ---
 # Contribute a rendering model to an Editor viewport
 

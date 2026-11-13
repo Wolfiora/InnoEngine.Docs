@@ -1,12 +1,18 @@
 ---
 title: Add a shader compiler primitive
-description: Implement an Editor-scoped lowering extension only when reusable graphs and public IR cannot express the operation.
+description: Implement an Editor-scoped lowering extension only when reusable
+  graphs and public IR cannot express the operation.
 uid: extending.shader-nodes
 kind: how-to
-owners: [Inno.Rendering.Shaders, Inno.Core.Graphs]
-contracts: [project.inno-rendering-shaders]
+owners:
+  - Inno.Rendering.Shaders
+  - Inno.Core.Graphs
+contracts:
+  - project.inno-rendering-shaders
 exampleMode: editor-script
-exampleProjects: [Inno.Rendering.Shaders, Inno.Core.Graphs]
+exampleProjects:
+  - Inno.Rendering.Shaders
+  - Inno.Core.Graphs
 ---
 # Add a shader compiler primitive
 

@@ -1,6 +1,7 @@
 ---
 title: Order dependencies and inspect cycles
-description: Model explicit dependency direction, find affected consumers and produce deterministic dependency-first order.
+description: Model explicit dependency direction, find affected consumers and
+  produce deterministic dependency-first order.
 uid: manual.data.order-dependencies
 kind: how-to
 owners:
@@ -59,4 +60,4 @@ Operations synchronize the graph's internal state. A sequence of calls is not on
 
 This graph is for explicit persistent relationships. It is not the editable node/port document described in [preserving an editable graph](preserve-graph.md). It also does not replace compact frame-local job slots or a render compiler's resource-hazard model. Those owners may need different storage while preserving clear dependency direction.
 
-See the [Collections reference](../../api/projects/inno-core-collections.md) for exact mutation, query and failure contracts.
+See the [Collections reference](../../architecture/projects/inno-core-collections.md) for exact mutation, query and failure contracts.

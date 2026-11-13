@@ -1,6 +1,7 @@
 ---
 title: Define and compose project settings
-description: Register stable setting protocols, order contributions, and preserve project state across reload.
+description: Register stable setting protocols, order contributions, and
+  preserve project state across reload.
 uid: extending.project-settings
 kind: how-to
 owners:
@@ -54,5 +55,5 @@ The host controls ordering and owner-thread execution across all participants. A
 ## Related tasks
 
 - [Read project settings](../manual/projects/read-settings.md) from Runtime scripts.
-- [Settings project contract](../api/projects/inno-core-settings.md) for host lifetime and storage boundaries.
+- [Settings project contract](../architecture/projects/inno-core-settings.md) for host lifetime and storage boundaries.
 - [Identity and Missing](../manual/identity-and-missing.md) for the difference between persistent and generation-local identity.

@@ -1,6 +1,7 @@
 ---
 title: RmlUi backend
-description: Native retained UI integration, authoring boundaries, owner-thread rules and rendering requirements.
+description: Native retained UI integration, authoring boundaries, owner-thread
+  rules and rendering requirements.
 uid: backend.rmlui
 kind: explanation
 owners:
@@ -47,9 +48,9 @@ Context/document handles belong to their active backend. Stop callbacks and cons
 
 ## Implementation reference
 
-- [Managed backend](../api/projects/inno-adapter-ui-rmlui.md).
-- [Authoring adapter](../api/projects/inno-adapter-ui-rmlui-authoring.md).
-- [Native binding contract](../api/projects/inno-native-ui.md).
-- [Native toolchain](../api/projects/inno-build-toolchains-ui.md).
+- [Managed backend](projects/inno-adapter-ui-rmlui.md).
+- [Authoring adapter](projects/inno-adapter-ui-rmlui-authoring.md).
+- [Native binding contract](projects/inno-native-ui.md).
+- [Native toolchain](projects/inno-build-toolchains-ui.md).
 
 The [upstream RmlUi documentation](https://mikke89.github.io/RmlUiDoc/) describes its languages and library. It tracks upstream development; check InnoEngine's pinned dependency and exposed boundary before relying on an upstream feature.

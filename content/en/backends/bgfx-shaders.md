@@ -1,10 +1,17 @@
 ---
 title: Compile shader assets for BGFX
-description: Freeze authored sources, analyze shader functions and publish target-specific engine artifacts.
+description: Freeze authored sources, analyze shader functions and publish
+  target-specific engine artifacts.
 uid: backends.bgfx-shaders
 kind: how-to
-owners: [Inno.Build.Toolchains.Bgfx.Shaders, Inno.Build.Toolchains.Bgfx.Tools, Inno.Build.Toolchains.Bgfx]
-contracts: [project.inno-build-toolchains-bgfx-shaders, project.inno-build-toolchains-bgfx-tools, project.inno-build-toolchains-bgfx]
+owners:
+  - Inno.Build.Toolchains.Bgfx.Shaders
+  - Inno.Build.Toolchains.Bgfx.Tools
+  - Inno.Build.Toolchains.Bgfx
+contracts:
+  - project.inno-build-toolchains-bgfx-shaders
+  - project.inno-build-toolchains-bgfx-tools
+  - project.inno-build-toolchains-bgfx
 ---
 # Compile shader assets for BGFX
 
@@ -56,4 +63,4 @@ Complete native-header syntax, advanced resources, array typedefs and reflection
 
 The product configuration selects the runtime library; standard offline shaderc/texturec tools use Release independently of the Editor configuration. Runtime binding-generation changes do not invalidate an unrelated offline tool build. Tool sources, SDK, generator, recipe and actual parameters still participate in its identity.
 
-See [Native preparation](../architecture/native-preparation.md) and the [BGFX build reference](../api/projects/inno-build-toolchains-bgfx.md) for source snapshots, platform profiles, reader protection and publication.
+See [Native preparation](../architecture/native-preparation.md) and the [BGFX build reference](projects/inno-build-toolchains-bgfx.md) for source snapshots, platform profiles, reader protection and publication.

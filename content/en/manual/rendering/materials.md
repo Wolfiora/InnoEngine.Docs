@@ -1,10 +1,13 @@
 ---
 title: Use materials and compiled rendering assets
-description: Resolve explicit shader contracts and consume retained artifacts without serializing device state.
+description: Resolve explicit shader contracts and consume retained artifacts
+  without serializing device state.
 uid: manual.rendering.materials
 kind: how-to
-owners: [Inno.Rendering.Assets]
-contracts: [project.inno-rendering-assets]
+owners:
+  - Inno.Rendering.Assets
+contracts:
+  - project.inno-rendering-assets
 ---
 # Use materials and compiled rendering assets
 
@@ -28,4 +31,4 @@ RenderTargetArtifactPath yields a logical content location, not a physical cache
 
 The authoring pipeline freezes graph/source dependencies and compiles a candidate. Failure retains last-good output for the same logical asset; successful publication provides the runtime artifact. GPU resource creation and retirement remain a later, device-owned step.
 
-See [artifact byte reading](../assets/read-artifacts.md), [render-frame ownership](../../architecture/render-frame.md) and [the exact asset API](../../api/projects/inno-rendering-assets.md) for leases, serialization and technique-selection results.
+See [artifact byte reading](../assets/read-artifacts.md), [render-frame ownership](../../architecture/render-frame.md) and [the exact asset API](../../architecture/projects/inno-rendering-assets.md) for leases, serialization and technique-selection results.

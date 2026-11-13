@@ -1,6 +1,7 @@
 ---
 title: Author an RmlUi document
-description: Import RML with controlled RCSS dependencies, declared font assets, and an explicit runtime backend.
+description: Import RML with controlled RCSS dependencies, declared font assets,
+  and an explicit runtime backend.
 uid: manual.ui.author-rml
 kind: how-to
 owners:
@@ -75,4 +76,4 @@ The [upstream RmlUi documentation](https://mikke89.github.io/RmlUiDoc/) explains
 ## Continue
 
 - [RmlUi backend boundaries](../../backends/rmlui.md).
-- [Import and frontend reference](../../api/projects/inno-ui-assets.md).
+- [Import and frontend reference](../../architecture/projects/inno-ui-assets.md).

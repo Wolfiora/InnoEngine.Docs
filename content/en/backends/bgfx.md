@@ -1,10 +1,13 @@
 ---
 title: Use the BGFX rendering backend
-description: Create, submit and retire an engine rendering device without losing its window and resource owners.
+description: Create, submit and retire an engine rendering device without losing
+  its window and resource owners.
 uid: backends.bgfx
 kind: how-to
-owners: [Inno.Adapter.Rendering.Bgfx]
-contracts: [project.inno-adapter-rendering-bgfx]
+owners:
+  - Inno.Adapter.Rendering.Bgfx
+contracts:
+  - project.inno-adapter-rendering-bgfx
 ---
 # Use the BGFX rendering backend
 
@@ -56,4 +59,4 @@ Wrong-thread access, stale generations, missing frame boundaries, nested encoder
 
 Keep native output, host boot logs and process-exit evidence. A shutdown-start message alone does not prove disposal. Inspect managed resource closure, handle destruction ordering, complete native shutdown and actual process exit separately. A third-party retain-count warning alone is insufficient to establish an engine leak; a nonempty engine resource table still fails acceptance. Do not suppress warnings or change third-party code to manufacture a clean log.
 
-Runtime loading consumes the product's declared deployment only. It does not search repository caches, build missing native code or invoke shaderc. See [BGFX shader preparation](bgfx-shaders.md) for the authoring side and the [managed adapter reference](../api/projects/inno-adapter-rendering-bgfx.md) for exact contracts.
+Runtime loading consumes the product's declared deployment only. It does not search repository caches, build missing native code or invoke shaderc. See [BGFX shader preparation](bgfx-shaders.md) for the authoring side and the [managed adapter reference](projects/inno-adapter-rendering-bgfx.md) for exact contracts.

@@ -1,12 +1,18 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Core]
+exampleProjects:
+  - Inno.Editor.Core
 title: Preserve Editor extension state
-description: Persist neutral Module and Panel state without saving live objects or bypassing host-owned layout storage.
+description: Persist neutral Module and Panel state without saving live objects
+  or bypassing host-owned layout storage.
 uid: extending.editor-state
 kind: how-to
-owners: [Inno.Editor.Core, Inno.Editor.Interactions]
-contracts: [architecture.editor-generations, manual.identity-and-missing]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Interactions
+contracts:
+  - architecture.editor-generations
+  - manual.identity-and-missing
 ---
 # Preserve Editor extension state
 

@@ -1,10 +1,15 @@
 ---
 title: Diagnose Missing assets and failed imports
-description: Separate source identity, import status, last-good content and export integrity before retrying.
+description: Separate source identity, import status, last-good content and
+  export integrity before retrying.
 uid: manual.assets.troubleshooting
 kind: troubleshooting
-owners: [Inno.Assets, Inno.Assets.Pipeline, Inno.Content]
-contracts: [project.inno-assets-pipeline#publication-and-failure-contract]
+owners:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
+  - Inno.Content
+contracts:
+  - project.inno-assets-pipeline#publication-and-failure-contract
 ---
 # Diagnose Missing assets and failed imports
 

@@ -1,10 +1,14 @@
 ---
 title: Validate documentation examples
-description: Compile canonical examples with explicit host or script references and retain precise failure evidence.
+description: Compile canonical examples with explicit host or script references
+  and retain precise failure evidence.
 uid: contributing.example-validation
 kind: how-to
-owners: [Inno.Tooling.Architecture, Inno.Tooling.Documentation]
-contracts: [contributing.documentation-queries]
+owners:
+  - Inno.Tooling.Architecture
+  - Inno.Tooling.Documentation
+contracts:
+  - contributing.documentation-queries
 ---
 # Validate documentation examples
 

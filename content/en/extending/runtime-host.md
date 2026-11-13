@@ -12,17 +12,17 @@ Use the existing composition boundaries when adding a product or host. A host ow
 
 | Goal | Extension boundary |
 | --- | --- |
-| Supply platform, rendering or storage implementations | Explicit factories in [runtime adapter composition](../api/projects/inno-adapter-default.md). |
-| Supply Editor authoring or presentation | [Authoring adapter composition](../api/projects/inno-adapter-authoring-default.md). |
-| Add a domain's frame behavior | [Runtime subsystem contract](../api/projects/inno-runtime-contracts.md) and its distribution declaration. |
-| Supply game metadata/content from another transport | [Player content source](../api/projects/inno-player-runtime.md). |
-| Adapt event/frame scheduling to another host | [Shell frame driver](../api/projects/inno-shell.md). |
+| Supply platform, rendering or storage implementations | Explicit factories in [runtime adapter composition](../architecture/projects/inno-adapter-default.md). |
+| Supply Editor authoring or presentation | [Authoring adapter composition](../architecture/projects/inno-adapter-authoring-default.md). |
+| Add a domain's frame behavior | [Runtime subsystem contract](../architecture/projects/inno-runtime-contracts.md) and its distribution declaration. |
+| Supply game metadata/content from another transport | [Player content source](../architecture/projects/inno-player-runtime.md). |
+| Adapt event/frame scheduling to another host | [Shell frame driver](../architecture/projects/inno-shell.md). |
 
 Do not copy the whole Editor or Player loop to add one service. Concrete adapters implement the domain boundary; a host's public/protected API remains neutral.
 
 ## Preflight before allocation
 
-Create the immutable provider catalogs and choose all seven runtime backend IDs: Platform, Input, Storage, Rendering, Audio, Text and UI. [Validate the complete selection](../api/projects/inno-adapter.md) before opening native resources. An unknown or missing provider fails; it does not fall back to the host OS.
+Create the immutable provider catalogs and choose all seven runtime backend IDs: Platform, Input, Storage, Rendering, Audio, Text and UI. [Validate the complete selection](../architecture/projects/inno-adapter.md) before opening native resources. An unknown or missing provider fails; it does not fall back to the host OS.
 
 Platform, Rendering and Storage factories are mandatory product inputs. A null optional provider collection uses the standard family; an empty collection intentionally leaves that family unavailable. Editor authoring/presentation collections are explicit and must match the runtime capabilities they extend.
 
@@ -30,9 +30,9 @@ Catalogs borrow providers. Keep those providers alive for their composition life
 
 ## Compose engine services and Sessions
 
-Configure [EngineHost](../api/projects/inno-runtime.md) with actual module/type/serialization metadata sources, reference resolution and subsystem factories. Static products use generated catalogs; dynamic sources own their loading and shadow-copy policy.
+Configure [EngineHost](../architecture/projects/inno-runtime.md) with actual module/type/serialization metadata sources, reference resolution and subsystem factories. Static products use generated catalogs; dynamic sources own their loading and shadow-copy policy.
 
-[Default engine composition](../api/projects/inno-engine-default.md) supplies generated domain factories. Session services cover Input, Storage, Animation, Audio, Text and UI; RuntimeSession adds Scene simulation. Rendering is Host-scoped, so an Editor and its Play Session do not each submit a frame for the same device.
+[Default engine composition](../architecture/projects/inno-engine-default.md) supplies generated domain factories. Session services cover Input, Storage, Animation, Audio, Text and UI; RuntimeSession adds Scene simulation. Rendering is Host-scoped, so an Editor and its Play Session do not each submit a frame for the same device.
 
 An Editor may supply a Session audio factory for preview/Play management without duplicating every domain registration. Scope diagnostic reporters to the actual Session identity and preserve their borrowing order.
 
@@ -40,7 +40,7 @@ An Editor may supply a Session audio factory for preview/Play management without
 
 Implement the appropriate `RuntimeSubsystem` hooks and declare its dependencies, lifetime and required capabilities. Register factory-acquired resources and work in `context.resources` until ownership transfers to the returned instance. The host retains the pipeline before invoking factories or Attach, so failed initialization can drain correctly.
 
-Add the distribution reference and its domain registration declaration. [Compile-time catalogs](../api/projects/inno-runtime-generators.md) generate direct calls and detect invalid registration; shared hosts need no new domain switch.
+Add the distribution reference and its domain registration declaration. [Compile-time catalogs](../architecture/projects/inno-runtime-generators.md) generate direct calls and detect invalid registration; shared hosts need no new domain switch.
 
 Optional capability absence can make a subsystem unavailable before its factory runs. It does not excuse duplicate IDs, dependency cycles, invalid lifetimes, frame exceptions or incomplete retirement.
 

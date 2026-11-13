@@ -1,12 +1,16 @@
 ---
 title: Declare a script export
-description: Expose a deliberate feature-owned type surface without a central module list or runtime identity alias.
+description: Expose a deliberate feature-owned type surface without a central
+  module list or runtime identity alias.
 uid: extending.script-exports
 kind: how-to
-owners: [Inno.Scripting.Api]
-contracts: [project.inno-scripting-api]
+owners:
+  - Inno.Scripting.Api
+contracts:
+  - project.inno-scripting-api
 exampleMode: host
-exampleProjects: [Inno.Scripting.Api]
+exampleProjects:
+  - Inno.Scripting.Api
 ---
 # Declare a script export
 

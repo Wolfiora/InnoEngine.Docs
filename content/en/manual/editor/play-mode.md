@@ -1,10 +1,13 @@
 ---
 title: Run and stop Play Mode
-description: Simulate isolated scene copies while preserving Edit objects, history and generation safety.
+description: Simulate isolated scene copies while preserving Edit objects,
+  history and generation safety.
 uid: manual.editor.play-mode
 kind: how-to
-owners: [Inno.Editor.PlayMode]
-contracts: [project.inno-editor-playmode]
+owners:
+  - Inno.Editor.PlayMode
+contracts:
+  - project.inno-editor-playmode
 ---
 # Run and stop Play Mode
 
@@ -57,4 +60,4 @@ Host shutdown calls the Play loop's `Quiesce` before dismantling modules/layers/
 
 `ListenStateChanges` returns a subscription lease that the observer disposes. All observers are notified before exceptions are aggregated. Pending retirement retains the event owner; no second UI event bus is needed.
 
-Console's default Clear on Play clears ordinary previous-run logs when a new request enters Compiling, while current compiler/import/render diagnostics remain. Logs from the current request remain inspectable after stopping. Change this policy in Settings, not a duplicate toolbar state. See the [host and script contracts](../../api/projects/inno-editor-playmode.md).
+Console's default Clear on Play clears ordinary previous-run logs when a new request enters Compiling, while current compiler/import/render diagnostics remain. Logs from the current request remain inspectable after stopping. Change this policy in Settings, not a duplicate toolbar state. See the [host and script contracts](../../architecture/projects/inno-editor-playmode.md).

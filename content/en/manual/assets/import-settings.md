@@ -1,12 +1,17 @@
 ---
 title: Edit asset import settings
-description: Modify a detached settings value with source conflict detection and explicit import status.
+description: Modify a detached settings value with source conflict detection and
+  explicit import status.
 uid: manual.assets.import-settings
 kind: how-to
-owners: [Inno.Assets.Pipeline]
-contracts: [project.inno-assets-pipeline#authoring-ownership-contract]
+owners:
+  - Inno.Assets.Pipeline
+contracts:
+  - project.inno-assets-pipeline#authoring-ownership-contract
 exampleMode: host
-exampleProjects: [Inno.Assets, Inno.Assets.Pipeline]
+exampleProjects:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
 ---
 # Edit asset import settings
 

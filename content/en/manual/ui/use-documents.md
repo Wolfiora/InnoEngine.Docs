@@ -1,6 +1,7 @@
 ---
 title: Display and update a UI document
-description: Load an imported document, manage its context, route input, and hand resource deltas to a renderer.
+description: Load an imported document, manage its context, route input, and
+  hand resource deltas to a renderer.
 uid: manual.ui.use-documents
 kind: how-to
 owners:
@@ -94,4 +95,4 @@ Event delivery is backend-specific. The current RmlUi adapter clears its queued 
 
 - [Author an RmlUi document](author-rml.md), including imported fonts and stylesheet dependencies.
 - [UI lifetime and rendering model](../../architecture/ui-lifetime.md).
-- [UI service reference](../../api/projects/inno-ui.md).
+- [UI service reference](../../architecture/projects/inno-ui.md).

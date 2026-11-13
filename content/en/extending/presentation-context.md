@@ -1,10 +1,17 @@
 ---
 title: Own a presentation context
-description: Compose authoring UI without leaking native windows or renderer handles into the host.
+description: Compose authoring UI without leaking native windows or renderer
+  handles into the host.
 uid: extending.presentation-context
 kind: how-to
-owners: [Inno.Adapter.Presentation, Inno.Adapter.Platform, Inno.Platform]
-contracts: [project.inno-adapter-presentation, project.inno-adapter-platform, project.inno-platform]
+owners:
+  - Inno.Adapter.Presentation
+  - Inno.Adapter.Platform
+  - Inno.Platform
+contracts:
+  - project.inno-adapter-presentation
+  - project.inno-adapter-platform
+  - project.inno-platform
 ---
 # Own a presentation context
 
@@ -40,4 +47,4 @@ Layout belongs to the presentation/host lifetime. It does not turn native contex
 
 Stop new frames and callbacks, detach the presentation from future graph snapshots, and complete outstanding use before disposal. Release presentation before its shared render device and window owners. The window/application owner remains responsible for their final destruction.
 
-For physical surface borrowing between concrete adapters, read [window and surface lifetime](../platforms/window-lifetime.md). For exact options, failures and methods, use the [presentation reference](../api/projects/inno-adapter-presentation.md).
+For physical surface borrowing between concrete adapters, read [window and surface lifetime](../platforms/window-lifetime.md). For exact options, failures and methods, use the [presentation reference](../architecture/projects/inno-adapter-presentation.md).

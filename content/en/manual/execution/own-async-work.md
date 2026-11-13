@@ -1,6 +1,7 @@
 ---
 title: Own asynchronous work until it finishes
-description: Admit work before it starts, propagate cancellation, and retain resources until retirement completes.
+description: Admit work before it starts, propagate cancellation, and retain
+  resources until retirement completes.
 uid: manual.execution.own-async-work
 kind: how-to
 owners:
@@ -80,4 +81,4 @@ If a completed task or cancellation callback reports pending retirement, that co
 
 Continue with [execution scopes and retirement](../../architecture/execution-and-retirement.md) for revocable bindings, owner-thread pumping and bounded retirement attempts.
 
-For exact signatures and failure conditions, read [LifetimeScope](../../api/types/core-execution/lifetimescope.md) and [RetirementPendingException](../../api/types/core-execution/retirementpendingexception.md).
+For exact signatures and failure conditions, read [LifetimeScope](../../api/engine/core/execution/lifetimescope/index.md) and [RetirementPendingException](../../api/engine/core/execution/retirementpendingexception/index.md).

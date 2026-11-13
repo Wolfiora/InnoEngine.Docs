@@ -1,10 +1,13 @@
 ---
 title: Compare API references with current source
-description: Check a selected reference batch against evaluated source without repeating SDK discovery for each project.
+description: Check a selected reference batch against evaluated source without
+  repeating SDK discovery for each project.
 uid: contributing.reference-validation
 kind: how-to
-owners: [Inno.Tooling.Architecture]
-contracts: [contributing.example-validation]
+owners:
+  - Inno.Tooling.Architecture
+contracts:
+  - contributing.example-validation
 ---
 # Compare API references with current source
 
@@ -20,8 +23,7 @@ With the existing Build entry compiled:
 dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs validate-api \
   --engine-root /work/InnoEngine \
   --dotnet /selected-sdk/dotnet \
-  --reference /work/InnoEngine.Docs/reference/api/core-identity.json \
-  --reference /work/InnoEngine.Docs/reference/api/input.json \
+  --reference /work/InnoEngine.Docs/reference/api/host.json \
   --output /work/InnoEngine/artifacts/acceptance/source-reference-comparison.json
 ```
 
@@ -39,7 +41,7 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs valida
   --dotnet /selected-sdk/dotnet \
   --cache-root /work/InnoEngine.Docs/artifacts/documentation-query \
   --snapshot SNAPSHOT_ID \
-  --reference reference/api/tooling-documentation.json \
+  --reference reference/api/host.json \
   --project tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj \
   --output /work/InnoEngine/artifacts/acceptance/documentation-api.json
 ```
@@ -70,4 +72,4 @@ The source comparison report identifies `SelectedSourceReferenceComparison`, sel
 
 The command requests source evaluation and extraction, not product builds, Native preparation, network fetching or example execution. Reference resolution uses a design-time execution context, so inspecting already prepared metadata cannot start Task-host or product preparation. A missing reference needed for a nonempty public surface remains a prerequisite failure. Prepare it through its owning build; do not copy a differently configured DLL into place.
 
-Publication additionally requires the exact engine/Docs input identities, trusted workflow evidence, complete required contexts, [example validation](example-validation.md), content checks and the verified website artifact. A manually changed status label cannot supply that evidence.
+Docs publication validates its committed API package, [example compilation receipts](example-validation.md), content and exact website artifact. It does not require this optional whole-source certificate or wait for unrelated engine CI. Independent API export still requires a complete, correctly attributed symbol set; changing a status label cannot substitute for those facts.

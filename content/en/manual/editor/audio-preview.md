@@ -1,10 +1,13 @@
 ---
 title: Preview audio without sharing a Play generation
-description: Keep Editor previews, Play voices and completion events in their owning runtime sessions.
+description: Keep Editor previews, Play voices and completion events in their
+  owning runtime sessions.
 uid: manual.editor.audio-preview
 kind: how-to
-owners: [Inno.Editor.Audio]
-contracts: [project.inno-editor-audio]
+owners:
+  - Inno.Editor.Audio
+contracts:
+  - project.inno-editor-audio
 ---
 # Preview audio without sharing a Play generation
 
@@ -22,4 +25,4 @@ The Session Subsystem Pipeline owns audio scope entry, update and reverse-order 
 
 The host requires an explicit backend-neutral device factory. If creation fails, it establishes a muted generation and publishes `AUDIO_DEVICE_INIT_FAILED` through the current diagnostic reporter. The factory is a composition boundary for platform hosts and headless tests, not an implicit MiniAudio selection or permission to pretend an unavailable device passed acoustic acceptance.
 
-Audio extension reload follows the Runtime type-catalog generation and refreshes atomically at a frame-safe update. A failed candidate retains the last good generation. See [audio playback](../audio/play-audio.md) for neutral operations and the [Editor audio reference](../../api/projects/inno-editor-audio.md) for the preview example.
+Audio extension reload follows the Runtime type-catalog generation and refreshes atomically at a frame-safe update. A failed candidate retains the last good generation. See [audio playback](../audio/play-audio.md) for neutral operations and the [Editor audio reference](../../architecture/projects/inno-editor-audio.md) for the preview example.

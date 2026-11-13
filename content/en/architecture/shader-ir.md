@@ -1,10 +1,13 @@
 ---
 title: Typed shader IR and frozen inputs
-description: Understand shader input identity, structured execution and exact type semantics.
+description: Understand shader input identity, structured execution and exact
+  type semantics.
 uid: architecture.shader-ir
 kind: explanation
-owners: [Inno.Rendering.Shaders]
-contracts: [project.inno-rendering-shaders]
+owners:
+  - Inno.Rendering.Shaders
+contracts:
+  - project.inno-rendering-shaders
 ---
 # Typed shader IR and frozen inputs
 
@@ -68,4 +71,4 @@ Lowering uses stable topology, retaining document order among independent nodes.
 
 Hold one provider operation scope across a complete multi-language analysis. Missing language support is recoverable, but source diagnostics cannot swallow a provider retirement barrier. Persist stable IDs and neutral data rather than frontend, parser, resolver or provider instances.
 
-See [shader target extensions](../extending/shader-targets.md) for expansion and generation ownership, and [the shader project reference](../api/projects/inno-rendering-shaders.md) for exact declarations.
+See [shader target extensions](../extending/shader-targets.md) for expansion and generation ownership, and [the shader project reference](projects/inno-rendering-shaders.md) for exact declarations.

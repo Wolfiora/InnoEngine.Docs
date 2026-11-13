@@ -1,10 +1,17 @@
 ---
 title: Frozen Native preparation and deployment
-description: Follow source, generated input and artifact ownership through cold and warm product preparation.
+description: Follow source, generated input and artifact ownership through cold
+  and warm product preparation.
 uid: architecture.native-preparation
 kind: explanation
-owners: [Inno.Build.Toolchains, Inno.Build.Bindings, Inno.Build.Tasks]
-contracts: [project.inno-build-toolchains, project.inno-build-bindings, project.inno-build-tasks]
+owners:
+  - Inno.Build.Toolchains
+  - Inno.Build.Bindings
+  - Inno.Build.Tasks
+contracts:
+  - project.inno-build-toolchains
+  - project.inno-build-bindings
+  - project.inno-build-tasks
 ---
 # Frozen Native preparation and deployment
 

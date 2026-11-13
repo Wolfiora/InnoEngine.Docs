@@ -1,6 +1,7 @@
 ---
 title: Arrange objects and transform points
-description: Preserve hierarchy ownership and use complete matrices when world TRS is insufficient.
+description: Preserve hierarchy ownership and use complete matrices when world
+  TRS is insufficient.
 uid: manual.scenes.transforms
 kind: how-to
 owners:

@@ -1,10 +1,14 @@
 ---
 title: Present a neutral graph canvas
-description: Separate geometry, pointer intent and borrowed draw commands from domain edits and History.
+description: Separate geometry, pointer intent and borrowed draw commands from
+  domain edits and History.
 uid: extending.graph-canvas
 kind: how-to
-owners: [Inno.Editor.Graph.ImGui]
-contracts: [project.inno-editor-graph-imgui, project.inno-editor-graph]
+owners:
+  - Inno.Editor.Graph.ImGui
+contracts:
+  - project.inno-editor-graph-imgui
+  - project.inno-editor-graph
 ---
 # Present a neutral graph canvas
 

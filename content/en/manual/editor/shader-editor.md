@@ -1,10 +1,15 @@
 ---
 title: Edit and check a shader graph
-description: Separate graph drafts, explicit source saving, isolated compilation and the current preview revision.
+description: Separate graph drafts, explicit source saving, isolated compilation
+  and the current preview revision.
 uid: manual.editor.shader-editor
 kind: how-to
-owners: [Inno.Editor.Panel.ShaderEditor, Inno.Editor.Shaders.ImGui]
-contracts: [project.inno-editor-panel-shadereditor, project.inno-editor-shaders-imgui]
+owners:
+  - Inno.Editor.Panel.ShaderEditor
+  - Inno.Editor.Shaders.ImGui
+contracts:
+  - project.inno-editor-panel-shadereditor
+  - project.inno-editor-shaders-imgui
 ---
 # Edit and check a shader graph
 

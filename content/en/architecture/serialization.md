@@ -1,6 +1,7 @@
 ---
 title: Serialization and generation ownership
-description: Follow the shared value pipeline from declared metadata through converter leases, neutral nodes and completion callbacks.
+description: Follow the shared value pipeline from declared metadata through
+  converter leases, neutral nodes and completion callbacks.
 uid: architecture.serialization
 kind: explanation
 owners:

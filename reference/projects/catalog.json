@@ -3,27 +3,21 @@
     "name": "Inno.Build.Toolchains.Bgfx.Shaders",
     "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Shaders/Inno.Build.Toolchains.Bgfx.Shaders.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.Toolchains.Bgfx.Tools",
     "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx.Tools/Inno.Build.Toolchains.Bgfx.Tools.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.Toolchains.Bgfx",
     "path": "backends/Bgfx/build/Inno.Build.Toolchains.Bgfx/Inno.Build.Toolchains.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -31,16 +25,13 @@
     "path": "backends/Bgfx/native/Inno.Native.Bgfx/Inno.Native.Bgfx.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.Rendering.Bgfx",
     "path": "backends/Bgfx/runtime/Inno.Adapter.Rendering.Bgfx/Inno.Adapter.Rendering.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -61,45 +52,35 @@
     "name": "Inno.Build.Managed.DotNet",
     "path": "backends/DotNet/build/Inno.Build.Managed.DotNet/Inno.Build.Managed.DotNet.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Modules.DotNet",
     "path": "backends/DotNet/runtime/Inno.Adapter.Modules.DotNet/Inno.Adapter.Modules.DotNet.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Serialization.DotNet",
     "path": "backends/DotNet/runtime/Inno.Adapter.Serialization.DotNet/Inno.Adapter.Serialization.DotNet.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Content.FileSystem",
     "path": "backends/FileSystem/runtime/Inno.Adapter.Content.FileSystem/Inno.Adapter.Content.FileSystem.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Storage.FileSystem",
     "path": "backends/FileSystem/runtime/Inno.Adapter.Storage.FileSystem/Inno.Adapter.Storage.FileSystem.csproj",
-    "entry": "content/en/api/projects/inno-adapter-storage-filesystem.md",
-    "surfaces": [
-      "source-clr"
-    ],
+    "entry": null,
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -113,18 +94,14 @@
     "name": "Inno.Build.Toolchains.ImGui",
     "path": "backends/ImGui/build/Inno.Build.Toolchains.ImGui/Inno.Build.Toolchains.ImGui.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Build.Toolchains.ImGuizmo",
     "path": "backends/ImGui/build/Inno.Build.Toolchains.ImGuizmo/Inno.Build.Toolchains.ImGuizmo.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -132,47 +109,28 @@
     "path": "backends/ImGui/native/Inno.Native.ImGui/Inno.Native.ImGui.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Native.ImGuizmo",
     "path": "backends/ImGui/native/Inno.Native.ImGuizmo/Inno.Native.ImGuizmo.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.Presentation.ImGui.Bgfx",
     "path": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Bgfx/Inno.Adapter.Presentation.ImGui.Bgfx.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.Presentation.ImGui.Sdl3",
     "path": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/Inno.Adapter.Presentation.ImGui.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
-    "isTest": false,
-    "apiCatalogExclusions": [
-      {
-        "kind": "generated-third-party-catalog",
-        "source": "backends/ImGui/runtime/Inno.Adapter.Presentation.ImGui.Sdl3/ImGuiIcon.cs",
-        "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-        "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5",
-        "sourceIdentity": "b8399cdcf01e12d586b388acc57845b6c6873a005df59ddcc82c57fc9b903e67",
-        "upstream": "https://github.com/juliettef/IconFontCppHeaders",
-        "reason": "Upstream-generated Font Awesome glyph constants are outside engine reference scope. The mixed file also defines Inno and Shader marks; their engine usage is retained in the context and widget guides without mirroring this generated catalog.",
-        "symbolCount": 1405,
-        "symbolIdentity": "b6a67862c18dae7fedd43f0e5d9cd0ade721b365b4a49591407ef867ff8853ff"
-      }
-    ]
+    "surfaces": [],
+    "isTest": false
   },
   {
     "name": "Inno.Native.ImGui.Tests",
@@ -193,33 +151,27 @@
     "path": "backends/Interop/native/Inno.Native.LibraryLoading/Inno.Native.LibraryLoading.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Build.Toolchains.MiniAudio",
     "path": "backends/MiniAudio/build/Inno.Build.Toolchains.MiniAudio/Inno.Build.Toolchains.MiniAudio.csproj",
-    "entry": "content/en/api/projects/inno-build-toolchains-miniaudio.md",
-    "surfaces": [
-      "source-clr"
-    ],
+    "entry": null,
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Native.MiniAudio",
     "path": "backends/MiniAudio/native/Inno.Native.MiniAudio/Inno.Native.MiniAudio.csproj",
-    "entry": "content/en/api/projects/inno-native-miniaudio.md",
+    "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.Audio.MiniAudio",
     "path": "backends/MiniAudio/runtime/Inno.Adapter.Audio.MiniAudio/Inno.Adapter.Audio.MiniAudio.csproj",
-    "entry": "content/en/api/projects/inno-adapter-audio-miniaudio.md",
-    "surfaces": [
-      "source-clr"
-    ],
+    "entry": null,
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -240,9 +192,7 @@
     "name": "Inno.Build.Toolchains.UI",
     "path": "backends/RmlUi/build/Inno.Build.Toolchains.UI/Inno.Build.Toolchains.UI.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -250,25 +200,20 @@
     "path": "backends/RmlUi/native/Inno.Native.UI/Inno.Native.UI.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.UI.RmlUi.Authoring",
     "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi.Authoring/Inno.Adapter.UI.RmlUi.Authoring.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Adapter.UI.RmlUi",
     "path": "backends/RmlUi/runtime/Inno.Adapter.UI.RmlUi/Inno.Adapter.UI.RmlUi.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -282,9 +227,7 @@
     "name": "Inno.Build.Toolchains.Sdl3",
     "path": "backends/Sdl3/build/Inno.Build.Toolchains.Sdl3/Inno.Build.Toolchains.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -292,16 +235,13 @@
     "path": "backends/Sdl3/native/Inno.Native.Sdl3/Inno.Native.Sdl3.csproj",
     "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.Platform.Sdl3",
     "path": "backends/Sdl3/runtime/Inno.Adapter.Platform.Sdl3/Inno.Adapter.Platform.Sdl3.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -321,27 +261,22 @@
   {
     "name": "Inno.Build.Toolchains.Text",
     "path": "backends/Text/build/Inno.Build.Toolchains.Text/Inno.Build.Toolchains.Text.csproj",
-    "entry": "content/en/api/projects/inno-build-toolchains-text.md",
-    "surfaces": [
-      "source-clr"
-    ],
+    "entry": null,
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Native.Text",
     "path": "backends/Text/native/Inno.Native.Text/Inno.Native.Text.csproj",
-    "entry": "content/en/api/projects/inno-native-text.md",
+    "entry": null,
     "surfaces": [],
-    "isTest": false,
-    "apiDocumentation": "backend-native"
+    "isTest": false
   },
   {
     "name": "Inno.Adapter.Text.FreeTypeHarfBuzz",
     "path": "backends/Text/runtime/Inno.Adapter.Text.FreeTypeHarfBuzz/Inno.Adapter.Text.FreeTypeHarfBuzz.csproj",
-    "entry": "content/en/api/projects/inno-adapter-text-freetypeharfbuzz.md",
-    "surfaces": [
-      "source-clr"
-    ],
+    "entry": null,
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -356,7 +291,7 @@
   {
     "name": "Inno.Build.Cli",
     "path": "build/cli/Inno.Build.Cli/Inno.Build.Cli.csproj",
-    "entry": "content/en/api/projects/inno-build-cli.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -374,7 +309,7 @@
   {
     "name": "Inno.Build.Distribution.Standard",
     "path": "build/distributions/Inno.Build.Distribution.Standard/Inno.Build.Distribution.Standard.csproj",
-    "entry": "content/en/api/projects/inno-build-distribution-standard.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -680,7 +615,7 @@
   {
     "name": "Inno.Adapter.Audio",
     "path": "src/adapters/audio/Inno.Adapter.Audio/Inno.Adapter.Audio.csproj",
-    "entry": "content/en/api/projects/inno-adapter-audio.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -698,7 +633,7 @@
   {
     "name": "Inno.Adapter.Input",
     "path": "src/adapters/input/Inno.Adapter.Input/Inno.Adapter.Input.csproj",
-    "entry": "content/en/api/projects/inno-adapter-input.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -743,7 +678,7 @@
   {
     "name": "Inno.Adapter.Storage",
     "path": "src/adapters/storage/Inno.Adapter.Storage/Inno.Adapter.Storage.csproj",
-    "entry": "content/en/api/projects/inno-adapter-storage.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -752,7 +687,7 @@
   {
     "name": "Inno.Adapter.Text",
     "path": "src/adapters/text/Inno.Adapter.Text/Inno.Adapter.Text.csproj",
-    "entry": "content/en/api/projects/inno-adapter-text.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -799,6 +734,7 @@
     "path": "src/composition/editor/contracts/Inno.Editor.Annotations/Inno.Editor.Annotations.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1102,7 +1038,7 @@
   {
     "name": "Inno.Animation.Assets",
     "path": "src/content/animation/Inno.Animation.Assets/Inno.Animation.Assets.csproj",
-    "entry": "content/en/api/projects/inno-animation-assets.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1111,7 +1047,7 @@
   {
     "name": "Inno.Animation.Runtime",
     "path": "src/content/animation/Inno.Animation.Runtime/Inno.Animation.Runtime.csproj",
-    "entry": "content/en/api/projects/inno-animation-runtime.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1120,8 +1056,9 @@
   {
     "name": "Inno.Animation",
     "path": "src/content/animation/Inno.Animation/Inno.Animation.csproj",
-    "entry": "content/en/api/projects/inno-animation.md",
+    "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1142,6 +1079,7 @@
     "path": "src/content/assets/Inno.Assets/Inno.Assets.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1161,6 +1099,7 @@
     "path": "src/content/references/Inno.References/Inno.References.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1180,6 +1119,7 @@
     "path": "src/content/scene/Inno.Scene/Inno.Scene.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1208,6 +1148,7 @@
     "path": "src/foundation/core/Inno.Core.Diagnostics/Inno.Core.Diagnostics.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1218,6 +1159,7 @@
     "path": "src/foundation/core/Inno.Core.Events/Inno.Core.Events.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1237,6 +1179,7 @@
     "path": "src/foundation/core/Inno.Core.Graphs/Inno.Core.Graphs.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1256,6 +1199,7 @@
     "path": "src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1266,6 +1210,7 @@
     "path": "src/foundation/core/Inno.Core.Input/Inno.Core.Input.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1294,6 +1239,7 @@
     "path": "src/foundation/core/Inno.Core.Logging/Inno.Core.Logging.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1304,6 +1250,7 @@
     "path": "src/foundation/core/Inno.Core.Mathematics/Inno.Core.Mathematics.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1334,6 +1281,7 @@
     "path": "src/foundation/core/Inno.Core.Settings/Inno.Core.Settings.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1371,6 +1319,7 @@
     "path": "src/foundation/extensibility/Inno.Extensibility.Types/Inno.Extensibility.Types.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1399,6 +1348,7 @@
     "path": "src/runtime/engine/Inno.Runtime/Inno.Runtime.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1452,7 +1402,7 @@
   {
     "name": "Inno.Audio.Assets",
     "path": "src/services/audio/Inno.Audio.Assets/Inno.Audio.Assets.csproj",
-    "entry": "content/en/api/projects/inno-audio-assets.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1461,7 +1411,7 @@
   {
     "name": "Inno.Audio.Runtime",
     "path": "src/services/audio/Inno.Audio.Runtime/Inno.Audio.Runtime.csproj",
-    "entry": "content/en/api/projects/inno-audio-runtime.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1470,8 +1420,9 @@
   {
     "name": "Inno.Audio",
     "path": "src/services/audio/Inno.Audio/Inno.Audio.csproj",
-    "entry": "content/en/api/projects/inno-audio.md",
+    "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1480,7 +1431,7 @@
   {
     "name": "Inno.Input.Runtime",
     "path": "src/services/input/Inno.Input.Runtime/Inno.Input.Runtime.csproj",
-    "entry": "content/en/api/projects/inno-input-runtime.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1489,8 +1440,9 @@
   {
     "name": "Inno.Input",
     "path": "src/services/input/Inno.Input/Inno.Input.csproj",
-    "entry": "content/en/api/projects/inno-input.md",
+    "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1520,6 +1472,7 @@
     "path": "src/services/rendering/Inno.Rendering.Assets/Inno.Rendering.Assets.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1530,6 +1483,7 @@
     "path": "src/services/rendering/Inno.Rendering.Runtime/Inno.Rendering.Runtime.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1550,6 +1504,7 @@
     "path": "src/services/rendering/Inno.Rendering/Inno.Rendering.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1558,7 +1513,7 @@
   {
     "name": "Inno.Storage.Runtime",
     "path": "src/services/storage/Inno.Storage.Runtime/Inno.Storage.Runtime.csproj",
-    "entry": "content/en/api/projects/inno-storage-runtime.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1567,8 +1522,9 @@
   {
     "name": "Inno.Storage",
     "path": "src/services/storage/Inno.Storage/Inno.Storage.csproj",
-    "entry": "content/en/api/projects/inno-storage.md",
+    "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1577,7 +1533,7 @@
   {
     "name": "Inno.Text.Assets",
     "path": "src/services/text/Inno.Text.Assets/Inno.Text.Assets.csproj",
-    "entry": "content/en/api/projects/inno-text-assets.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1586,7 +1542,7 @@
   {
     "name": "Inno.Text.Runtime",
     "path": "src/services/text/Inno.Text.Runtime/Inno.Text.Runtime.csproj",
-    "entry": "content/en/api/projects/inno-text-runtime.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -1595,8 +1551,9 @@
   {
     "name": "Inno.Text",
     "path": "src/services/text/Inno.Text/Inno.Text.csproj",
-    "entry": "content/en/api/projects/inno-text.md",
+    "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1625,6 +1582,7 @@
     "path": "src/services/ui/Inno.UI/Inno.UI.csproj",
     "entry": null,
     "surfaces": [
+      "editor-script",
       "runtime-script",
       "source-clr"
     ],
@@ -1655,9 +1613,7 @@
     "name": "Inno.Assets.Pipeline.DuplicateImporterFixture",
     "path": "tests/assets/fixtures/Inno.Assets.Pipeline.DuplicateImporterFixture/Inno.Assets.Pipeline.DuplicateImporterFixture.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -1727,18 +1683,14 @@
     "name": "Inno.Content.CacheProbe",
     "path": "tests/content/fixtures/Inno.Content.CacheProbe/Inno.Content.CacheProbe.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Content.Testing",
     "path": "tests/content/fixtures/Inno.Content.Testing/Inno.Content.Testing.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -1899,9 +1851,7 @@
     "name": "Inno.Testing.Editor.Native",
     "path": "tests/editor/fixtures/Inno.Testing.Editor.Native/Inno.Testing.Editor.Native.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -1929,54 +1879,42 @@
     "name": "Inno.Extensibility.Modules.TestDependency",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestDependency/Inno.Extensibility.Modules.TestDependency.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Extensibility.Modules.TestModule.Invalid",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.Invalid/Inno.Extensibility.Modules.TestModule.Invalid.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Extensibility.Modules.TestModule.V1",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V1/Inno.Extensibility.Modules.TestModule.V1.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Extensibility.Modules.TestModule.V2",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Modules.TestModule.V2/Inno.Extensibility.Modules.TestModule.V2.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Extensibility.Types.TestAssemblyA",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyA/Inno.Extensibility.Types.TestAssemblyA.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
     "name": "Inno.Extensibility.Types.TestAssemblyB",
     "path": "tests/extensibility/fixtures/Inno.Extensibility.Types.TestAssemblyB/Inno.Extensibility.Types.TestAssemblyB.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -2004,9 +1942,7 @@
     "name": "Inno.Testing.Processes",
     "path": "tests/process/Inno.Testing.Processes/Inno.Testing.Processes.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -2055,9 +1991,7 @@
     "name": "Inno.Rendering.Runtime.Reload.TestModule",
     "path": "tests/rendering/fixtures/Inno.Rendering.Runtime.Reload.TestModule/Inno.Rendering.Runtime.Reload.TestModule.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -2085,9 +2019,7 @@
     "name": "Inno.Scene.Reload.TestModule",
     "path": "tests/scene/fixtures/Inno.Scene.Reload.TestModule/Inno.Scene.Reload.TestModule.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -2108,9 +2040,7 @@
     "name": "Inno.Testing.Source",
     "path": "tests/source/Inno.Testing.Source/Inno.Testing.Source.csproj",
     "entry": null,
-    "surfaces": [
-      "source-clr"
-    ],
+    "surfaces": [],
     "isTest": false
   },
   {
@@ -2158,7 +2088,7 @@
   {
     "name": "Inno.Tooling.Architecture",
     "path": "tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj",
-    "entry": "content/en/api/projects/inno-tooling-architecture.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],
@@ -2167,7 +2097,7 @@
   {
     "name": "Inno.Tooling.Documentation",
     "path": "tools/Inno.Tooling.Documentation/Inno.Tooling.Documentation.csproj",
-    "entry": "content/en/api/projects/inno-tooling-documentation.md",
+    "entry": null,
     "surfaces": [
       "source-clr"
     ],

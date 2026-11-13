@@ -1,10 +1,13 @@
 ---
 title: Understand frames, suspension and shutdown
-description: Distinguish completed frames, native redraw, background suspension and safe product retirement.
+description: Distinguish completed frames, native redraw, background suspension
+  and safe product retirement.
 uid: manual.runtime.frame-loop
 kind: explanation
-owners: [Inno.Shell]
-contracts: [project.inno-shell]
+owners:
+  - Inno.Shell
+contracts:
+  - project.inno-shell
 ---
 # Understand frames, suspension and shutdown
 

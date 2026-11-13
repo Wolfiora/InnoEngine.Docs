@@ -1,10 +1,14 @@
 ---
 title: Export a game or plugin
-description: Prepare a target Support Pack, run one owned export and diagnose cancellation or publication failures.
+description: Prepare a target Support Pack, run one owned export and diagnose
+  cancellation or publication failures.
 uid: manual.editor.export
 kind: how-to
-owners: [Inno.Editor.Exporting]
-contracts: [project.inno-editor-exporting, project.inno-build]
+owners:
+  - Inno.Editor.Exporting
+contracts:
+  - project.inno-editor-exporting
+  - project.inno-build
 ---
 # Export a game or plugin
 
@@ -34,4 +38,4 @@ Console receives success, cancellation and failure results. Typical failures inc
 
 Closing the host cancels preparation/build and waits through the Editor retirement barrier before disposing task state. A preparation that finishes during shutdown must not start a new build. Pending cleanup is not success. The progress modal closes after the operation completes, while the Console retains its outcome.
 
-See [Support Packs](../../contributing/support-packs.md), [managed publishing diagnostics](../../backends/dotnet-publishing.md) and the [export service reference](../../api/projects/inno-editor-exporting.md).
+See [Support Packs](../../contributing/support-packs.md), [managed publishing diagnostics](../../backends/dotnet-publishing.md) and the [export service reference](../../architecture/projects/inno-editor-exporting.md).

@@ -1,6 +1,7 @@
 ---
 title: SDL3 platform backend
-description: Understand SDL window ownership, host integration, event routing and generated native bindings.
+description: Understand SDL window ownership, host integration, event routing
+  and generated native bindings.
 uid: backends.sdl3
 kind: explanation
 owners:
@@ -101,5 +102,5 @@ This page describes implemented contracts. It does not assert that every target,
 - [Build artifacts and consumer protection](../architecture/build-artifacts.md) explains generation reuse and safe deployment.
 - [Ownership and lifetime](../architecture/ownership.md) explains borrowing and retirement across the engine.
 
-- [Managed platform adapter reference](../api/projects/inno-adapter-platform-sdl3.md) supplies exact host contracts.
-- [SDL build integration reference](../api/projects/inno-build-toolchains-sdl3.md) supplies recipe and preparation contracts.
+- [Managed platform adapter reference](projects/inno-adapter-platform-sdl3.md) supplies exact host contracts.
+- [SDL build integration reference](projects/inno-build-toolchains-sdl3.md) supplies recipe and preparation contracts.

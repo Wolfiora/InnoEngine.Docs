@@ -1,6 +1,7 @@
 ---
 title: Transform positions, directions and colors
-description: Use InnoEngine matrix conventions and numeric boundaries without assuming another library's layout or equality rules.
+description: Use InnoEngine matrix conventions and numeric boundaries without
+  assuming another library's layout or equality rules.
 uid: manual.math.transform-values
 kind: how-to
 owners:
@@ -76,4 +77,4 @@ Despite its name, the current `ToUInt32ARGB` method returns the numeric layout *
 
 The value type does not label a color space, perform gamma conversion, or distinguish straight and premultiplied alpha. Those obligations belong to the rendering or UI boundary. See [UI render ownership](../../extending/ui-render-frames.md) for one concrete premultiplied resource path.
 
-Browse the [Mathematics reference](../../api/projects/inno-core-mathematics.md) for the full vector, quaternion, matrix, rectangle, color and scalar operations. The declared Runtime script namespace is `InnoEngine.Mathematics`; this host example and CLR reference do not certify every projected API.
+Browse the [Mathematics reference](../../architecture/projects/inno-core-mathematics.md) for the full vector, quaternion, matrix, rectangle, color and scalar operations. The declared Runtime script namespace is `InnoEngine.Mathematics`; this host example and CLR reference do not certify every projected API.

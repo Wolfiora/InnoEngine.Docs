@@ -1,10 +1,13 @@
 ---
 title: Prepare a verified file content cache
-description: Materialize a deployed content pack while preserving concurrent readers and the previous committed generation.
+description: Materialize a deployed content pack while preserving concurrent
+  readers and the previous committed generation.
 uid: backends.file-content-cache
 kind: how-to
-owners: [Inno.Adapter.Content.FileSystem]
-contracts: [project.inno-adapter-content-filesystem]
+owners:
+  - Inno.Adapter.Content.FileSystem
+contracts:
+  - project.inno-adapter-content-filesystem
 ---
 # Prepare a verified file content cache
 
@@ -34,4 +37,4 @@ Persistent access errors fail explicitly. `retirementDiagnostics` distinguishes 
 
 Inspect the first error, writer timeout, retained readers and actual generation protection. Do not delete active files, forge a marker or bypass a hash check. The cache's directory layout is an internal mechanism, not a public locating API.
 
-See the [file content adapter reference](../api/projects/inno-adapter-content-filesystem.md) for an executable host example, or [open a content pack](../manual/assets/read-content-pack.md) for the neutral protocol.
+See the [file content adapter reference](projects/inno-adapter-content-filesystem.md) for an executable host example, or [open a content pack](../manual/assets/read-content-pack.md) for the neutral protocol.

@@ -1,10 +1,13 @@
 ---
 title: Compile and reload project scripts
-description: Follow one source snapshot and compilation ticket through activation, recovery and verified retirement.
+description: Follow one source snapshot and compilation ticket through
+  activation, recovery and verified retirement.
 uid: manual.scripting.compile-and-reload
 kind: how-to
-owners: [Inno.Editor.Scripting]
-contracts: [project.inno-editor-scripting]
+owners:
+  - Inno.Editor.Scripting
+contracts:
+  - project.inno-editor-scripting
 ---
 # Compile and reload project scripts
 

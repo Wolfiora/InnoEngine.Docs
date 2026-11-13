@@ -1,10 +1,15 @@
 ---
 title: Script compilation and IDE projection
-description: Keep logical authoring APIs and real CLR emission consistent under explicit SDK and artifact identities.
+description: Keep logical authoring APIs and real CLR emission consistent under
+  explicit SDK and artifact identities.
 uid: architecture.script-compilation
 kind: explanation
-owners: [Inno.Scripting.Api, Inno.Scripting.Compiler]
-contracts: [project.inno-scripting-api, project.inno-scripting-compiler]
+owners:
+  - Inno.Scripting.Api
+  - Inno.Scripting.Compiler
+contracts:
+  - project.inno-scripting-api
+  - project.inno-scripting-compiler
 ---
 # Script compilation and IDE projection
 

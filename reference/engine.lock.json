@@ -1,379 +1,55 @@
 {
   "repository": "https://github.com/Wolfiora/InnoEngine",
-  "revision": "6d51527e7aeeb40c321b508209794b8c73255d81",
-  "sourceTree": "72ed110de71f22052f3ea4966fd6cba3a250da3f",
+  "revision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+  "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6",
+  "toolingRevision": "f0a7954a6381b655605071e95cbde71eb29afd10",
   "projectManifest": "reference/projects/catalog.json",
-  "projectManifestIdentity": "eceb6e79dc47ea223e135ceb5b72e0605a07c59f70aee59efab4306332b56385",
-  "toolingRevision": "6d51527e7aeeb40c321b508209794b8c73255d81",
+  "projectManifestIdentity": "09de0bada6315b3dcea9d7a222317cd0b79666a171d2d944547dd6900f030979",
   "apiManifests": [
     {
-      "path": "reference/api/core-identity.json",
-      "sha256": "1f200313105a9dd1376763fe397e9852790d2408c37b17f66af055ecdb07c1cc",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "project": "Inno.Core.Identity",
-      "sourceRevision": "abcf9e34e4d70fb1ce9e67e2c7aee0d34043e5fe",
-      "sourceTree": "e1c8948c47172516286dc2a5662a31dbfadce5d2"
-    },
-    {
-      "path": "reference/api/editor.json",
-      "sha256": "7251f5a1a0fc9cf6a09f9223c4f42921270f93116b9e65dfcef09d146bb03c83",
+      "path": "reference/api/host.json",
+      "sha256": "22f829be6ef438ded5fbe5a96fc2394b1a8396f68d15ea0d3447d6e59b51cf1e",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
-      "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e"
+      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
     },
     {
-      "path": "reference/api/tooling.json",
-      "sha256": "bad6541ad7a21ced47578273e2314ad0a50025dfa79e20c3e45e59c1c4434039",
+      "path": "reference/api/host-windows.json",
+      "sha256": "7d4bc958aad74fdb920c35509fadf650090d746cc27b74edbf89d262c3ce0edd",
       "model": "source-clr",
       "configuration": "Debug",
       "target": null,
-      "sourceRevision": "18da08eaecb12d89b816166bae8d9480683f6948",
-      "sourceTree": "2e1152e0cc75c5fe66cefb9ea5e4f0ec6350a894"
+      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
     },
     {
-      "path": "reference/api/input.json",
-      "sha256": "e4fe9af430307866f93557b1e0ebbdc5352d9f821b56da4e316476195af38ffd",
-      "sourceRevision": "417557eb7687c7b488b67e0131430e9675feb496",
-      "sourceTree": "d77b3fe642b0c57953ef2e429b86e7b0b64b505e",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null
-    },
-    {
-      "path": "reference/api/storage.json",
-      "sha256": "e91c49ca8f818d771e7ed720d773ca8e9bdbb3e88278f056697d703b7c219195",
-      "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
-      "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null
-    },
-    {
-      "model": "source-clr",
-      "configuration": "Debug",
-      "path": "reference/api/audio.json",
-      "sourceRevision": "227f10adee13094e8e8382a57354a9d2b7a72fa4",
-      "sha256": "6fe2b1ce7af7ac264cd01e5d5ecc405b11f7e93dfecf89f2a49497a133558c60",
-      "sourceTree": "ab0d05063889b413be3519ba3ec6534e701f5443",
-      "target": null
-    },
-    {
-      "configuration": "Debug",
-      "model": "source-clr",
-      "target": null,
-      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
-      "sha256": "219120b225417f5aba88d33fdf2be18fc0f7c3980afd9ad5d81a1e307d84e032",
-      "path": "reference/api/miniaudio.json",
-      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5"
-    },
-    {
-      "sourceRevision": "84d72179ccc5ee2fa27ff25b956ec10e9cf5f2d5",
-      "sourceTree": "ed5e2757aa8549557dc7a07ba8120f5d6cb962da",
-      "path": "reference/api/animation.json",
-      "model": "source-clr",
-      "target": null,
-      "configuration": "Debug",
-      "sha256": "15f1078459eaa60556d5a6b2a88ac6682472cc70826b6e1c5c09c7bad07aa4e7"
-    },
-    {
-      "model": "source-clr",
-      "path": "reference/api/text.json",
-      "configuration": "Debug",
-      "sourceRevision": "4a9edbac3553302acd80228d4aa855bef5825045",
-      "target": null,
-      "sha256": "49761f01252efe4c8a037b21c348744a843f9fbd20f910fd53554a94939a06a9",
-      "sourceTree": "e0c86f5317140fb27a7b09b24908aca1433d7dc0"
-    },
-    {
-      "path": "reference/api/core-observability.json",
-      "configuration": "Debug",
-      "sourceTree": "40698b7b1d5a58ba6b4936d34ee3697d00e846d2",
-      "sha256": "627a4df5a5a08375ec59900f8029f5f3ef4f7eacae95e41d0d85c4c1de7960df",
-      "sourceRevision": "c7c2e650d4607be0611e3419a95d9e13a76a2554",
-      "target": null,
-      "model": "source-clr"
-    },
-    {
-      "path": "reference/api/settings.json",
-      "model": "source-clr",
-      "sourceTree": "6fa80c57dd5bf5267ad7d60945b0e9c09f9cde24",
-      "target": null,
-      "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
-      "configuration": "Debug",
-      "sha256": "1efe226e65f8fe47c7ce45504892478b8f73dd92a69aa4c238f65c02b18c8d1a"
-    },
-    {
-      "model": "source-clr",
-      "configuration": "Debug",
-      "sourceRevision": "5ecbbcffbd10358c754edf398408a14d4059870c",
-      "path": "reference/api/core-io.json",
-      "sourceTree": "6fa80c57dd5bf5267ad7d60945b0e9c09f9cde24",
-      "sha256": "5344d2c5493147e909f67c1b29760308640e834aa8883f68fb37fdbc00e8d72b",
-      "target": null
-    },
-    {
-      "path": "reference/api/ui.json",
-      "sha256": "838178884e6ff60826dd82ccdf34d8a0d0055ca58ba7e8f3ed1436ce1041bed2",
-      "sourceRevision": "7e741e05b4eec4a757c7fe5934b94655271f2e2d",
-      "sourceTree": "daa7420854cb2815d546f521e441afae0222d3f2",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null
-    },
-    {
-      "path": "reference/api/execution.json",
-      "sha256": "076dd515a242c46ed0e9e97a4caac74b1a6f58d709a42d2ed858c2e17ae5220e",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "0a857166e14c83e44feb557768cb9d01d4383135",
-      "sourceTree": "26ffb626c616ff9dc42f793a0c366c5bfc059b37"
-    },
-    {
-      "path": "reference/api/core-models.json",
-      "sha256": "7addee2064068027a2727dab6e2e4a6b47c03199fd36aa95157d471b00bd9cd6",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
-      "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71"
-    },
-    {
-      "path": "reference/api/serialization.json",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sha256": "9faaf2ac3e9a652f4dbcd64062c5f6aa7189d10699b0e17c85aad0b2d3197917",
-      "sourceRevision": "330aecafb5ea35864dd6bec8bd953d00bee6a28c",
-      "sourceTree": "7b4748263dae1f6a843e251b82e8620191e47d71"
-    },
-    {
-      "path": "reference/api/extensibility.json",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sha256": "b26d1cedd8f432d42c3ebb5c3e76afebba361c48c1521d907c9efe005e809335",
-      "sourceRevision": "7c7f46d8bf8e5f49e0eb59f3e9d5f2ce8e8c70ae",
-      "sourceTree": "cf05b6ef5766e5d8e51c486b687e3cfb6068a0c0"
-    },
-    {
-      "path": "reference/api/references-plugins.json",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sha256": "6214c13d73ec68828a0bc2e9db6dd78883da46315eaeeddea2e804c120c9344d",
-      "sourceRevision": "f40c9f36201c01131d82a2f6742a402fab0fd665",
-      "sourceTree": "ec01b2915be2df753a9f3b85731b6d736ad16bb2"
-    },
-    {
-      "path": "reference/api/scene.json",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sha256": "1b83056e00befc0b9946086411f873ce476cc217fdc064328bfcee7bc8097149",
-      "sourceRevision": "537ec77d8445967534cd932f5f7735758ad98f13",
-      "sourceTree": "233db1705c38ba8a279ed95efec8568d17fffc2c"
-    },
-    {
-      "path": "reference/api/assets-content.json",
-      "sha256": "dae7105b7e34397279c8041c2a7624078f66ff3ef7822a612967280b13dd4fec",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "0150bd55a5bd54fe4e9c06c2053fef5f99006755",
-      "sourceTree": "f83ba08ecf3219baa83eb2976f91c77fced88475"
-    },
-    {
-      "path": "reference/api/test-support.json",
-      "sha256": "744bd45ff219a81bb0bc98bd251834d7a2eda961a4d3acede4e4eb8d55808aba",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "9a86549b9ed57ef77d3bcbb8fa78e745cc48ff6b",
-      "sourceTree": "7a048d0d704461090f3acec14f709f0042fe28bb"
-    },
-    {
-      "path": "reference/api/platform-services.json",
-      "sha256": "aeebb2de065f932de5fc5822267b7706fdc52d86ca1afd3c5b42318ca5f308fb",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "136356366bae903278155c904151716b540c3e4a",
-      "sourceTree": "fdf59a28ef91a7b0a20f4c7ba050d93f65387b69"
-    },
-    {
-      "path": "reference/api/scripting.json",
-      "sha256": "a25483a92708f760f2536f45305d07507f08b8e285629725ba55694308cad025",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/runtime-composition.json",
-      "sha256": "6de48f7394d2dd9d6559c19fb4765d6296e3901560f7710883649752870a082a",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/rendering.json",
-      "sha256": "bd9566a66647b9e7c5b4bd8e83214f3c16c74afffa4de12cae86476c291b39d0",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/rendering-shaders.json",
-      "sha256": "ac1b498a3ba0258d34c6e40a9a1d455ce15b17af324a791f45cbee2545f9894b",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "9d555bb0a7ceb93ae8973cbafceb675e493e1246",
-      "sourceTree": "bbb8393e164ef2acf4577402b562b4336e9a5eea"
-    },
-    {
-      "path": "reference/api/platform-boundaries.json",
-      "sha256": "9bcc3adb32873ad52cc4a2af3658220c59f1b276b7180df67ad0d2878fcbacac",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/editor-views.json",
-      "sha256": "883ecdd2800d62191b35a65f6e18ae8cdb9d7e97dbce10f866b025ddedc51b03",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/development-entries.json",
-      "sha256": "c8ff287fab849999f02350ee9bcd2bcafbba5e7a653bdb9fd5fe8e05ada4ecab",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "8beee5a6d6c7d2d4c8459c6e624a558570450fe1",
-      "sourceTree": "ef3f569ebdee283570ae0453d747cdaafcd10db5"
-    },
-    {
-      "path": "reference/api/build-composition.json",
-      "sha256": "ddd912162a251be0b98335a39be67ed97fdea0970f7b38b8cbdc9b3976991134",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
-    },
-    {
-      "path": "reference/api/build-execution.json",
-      "sha256": "bf816d9057518502449989ef290982c63e5df286c99ada7d5937d36f79dc83ec",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
-    },
-    {
-      "path": "reference/api/bgfx-engine.json",
-      "sha256": "1a59563a3bdd96cf2ede49011153ef85eff381f31c5ece5dca0a51eaac9b6b66",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
-    },
-    {
-      "path": "reference/api/backend-adapters.json",
-      "sha256": "39e6d0ddbea547fdf94effc269e5d12ee834c20a217de7df62784ec31aeb0ac7",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
-    },
-    {
-      "path": "reference/api/editor-services.json",
-      "sha256": "cc2870cb48b75e7631c3a7de28067a6f25b17cc62aabb0ad3e9afce4611c854b",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/editor-domains.json",
-      "sha256": "887bce94d910fed52e798caa68215a6aadc77cfd34f971e9b2f159b1c4095928",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/editor-presentation.json",
-      "sha256": "dcecb70127b6fe3c973907c70a938727fd1cc249750113b1ef9726df73c4f41e",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "f1cb3f265d4ef4954ea73b8c2c87c7213cc4b0c5",
-      "sourceTree": "80b17070e8921bf918abff6a99dd7afb1e1797f6"
-    },
-    {
-      "path": "reference/api/imgui-context.json",
-      "sha256": "c951b6e8eb6a8db972c0adb11c57b754d52a666d0bb097df85859518583b6908",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "022c4917f784020905c41e09c524420e0c22d3d9",
-      "sourceTree": "3545da813cb80483cfecbf387b4140cf8839dab5"
-    },
-    {
-      "path": "reference/api/platform-products-windows.json",
-      "sha256": "db8ef04349b32bc8aef420f86a48a5b2cb898b11a6c8ee8b69c323cf96b33917",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": "windows-x64",
-      "sourceRevision": "c63dae76b618578863de6022b38211a835a8d876",
-      "sourceTree": "1d1f223f56d0360d3b387aca2601788dcc624f36"
-    },
-    {
-      "path": "reference/api/tooling-architecture.json",
-      "sha256": "b8eca93940c17cffc5f8ec6f86d64e2c91afec7ad72f5cbaa57a8771c5f94881",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "e57c3c5015867f41be493c8d3df918677783bf3d",
-      "sourceTree": "c0224ee6a3ab3b1e1822da757991d5bac425b736"
-    },
-    {
-      "path": "reference/api/tooling-documentation.json",
-      "sha256": "99012b7f1821befe61929364fad1a90c6d48674ebc712784c38ad2ef9908dc39",
-      "model": "source-clr",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "b6ce4456f5ac59715c4d76e3ba877ce5ed996e45",
-      "sourceTree": "7ba000abc629b6bbe431e1abca2015ade2c2273a"
-    },
-    {
-      "path": "reference/api/platform-player-browser.json",
-      "sha256": "0a9ec1d86966469f7eec543d5eed073d8d438455d4796f39e24b10dd8524118a",
+      "path": "reference/api/host-browser.json",
+      "sha256": "46cb91ebdc110fe426965d18682d16834d3ca6f0adb320485371fe5f014f34d2",
       "model": "source-clr",
       "configuration": "Debug",
       "target": "browser-wasm",
-      "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
-      "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
+      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
+    },
+    {
+      "path": "reference/api/runtime.json",
+      "sha256": "6c31baf055930dbf419ee574b47cf339f9edc8283372d355589c7ac580ec15ae",
+      "model": "runtime-script",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
+    },
+    {
+      "path": "reference/api/editor.json",
+      "sha256": "f4355830a6ff582ed69fdc3c882784935b4561bf2782b4973842bb862465836d",
+      "model": "editor-script",
+      "configuration": "Debug",
+      "target": null,
+      "sourceRevision": "d64e41afdcb0f6e91594902a511dbb17ba8b1221",
+      "sourceTree": "1440a6fe0268f7b2c003d199e864142306d944d6"
     },
     {
       "path": "reference/api/platform-player-macos.json",
@@ -392,24 +68,6 @@
       "target": "macos-arm64",
       "sourceRevision": "7e12d767c39771d8746f3e23ba6190bd2c82eb72",
       "sourceTree": "d2336c9dabddb6a13e331aee2dc0affcc93e8f72"
-    },
-    {
-      "path": "reference/api/runtime-script.json",
-      "sha256": "968365ed6458cb694c52d0dbef0ef2c833b66facbd4a7e9651d69585ec7b09a6",
-      "model": "runtime-script",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
-      "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628"
-    },
-    {
-      "path": "reference/api/editor-script.json",
-      "sha256": "f0629754a7ad73c5cd1139e9efd3b4e909de51e251c72f84bf2f9416d16ab7ae",
-      "model": "editor-script",
-      "configuration": "Debug",
-      "target": null,
-      "sourceRevision": "6c03fa390ee9a15748fb7f754718e99127cbae02",
-      "sourceTree": "bbe43c4e1903c7ba13e32007e4072ba1f6acf628"
     }
   ]
 }

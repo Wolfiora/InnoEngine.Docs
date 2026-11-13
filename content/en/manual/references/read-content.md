@@ -1,6 +1,7 @@
 ---
 title: Read current content for one operation
-description: Resolve a bounded identity snapshot without keeping live roots across frames or reloads.
+description: Resolve a bounded identity snapshot without keeping live roots
+  across frames or reloads.
 uid: manual.references.read-content
 kind: how-to
 owners:
@@ -46,4 +47,4 @@ For a real renderer or audio consumer, copy the needed values into its neutral d
 
 Host code uses `Inno.References`. The actual runtime script projection selects this type under `InnoEngine.References`; it does not expose host recovery composition just because both live in the same CLR project.
 
-Continue with [ownership](../../architecture/ownership.md) or the [precise content-read contract](../../api/projects/inno-references.md#content-read-contract).
+Continue with [ownership](../../architecture/ownership.md) or the [precise content-read contract](../../architecture/projects/inno-references.md#content-read-contract).

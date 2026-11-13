@@ -1,10 +1,14 @@
 ---
 title: Organize scenes and objects in Hierarchy
-description: Navigate scene documents, reorder objects and keep display order separate from execution order.
+description: Navigate scene documents, reorder objects and keep display order
+  separate from execution order.
 uid: manual.editor.hierarchy
 kind: how-to
-owners: [Inno.Editor.Panel.Hierarchy]
-contracts: [project.inno-editor-panel-hierarchy, project.inno-editor-scene]
+owners:
+  - Inno.Editor.Panel.Hierarchy
+contracts:
+  - project.inno-editor-panel-hierarchy
+  - project.inno-editor-scene
 ---
 # Organize scenes and objects in Hierarchy
 

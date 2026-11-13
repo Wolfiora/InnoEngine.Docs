@@ -1,6 +1,7 @@
 ---
 title: Read project settings
-description: Read isolated settings snapshots, qualify project names, and refresh caches after a generation change.
+description: Read isolated settings snapshots, qualify project names, and
+  refresh caches after a generation change.
 uid: manual.projects.read-settings
 kind: how-to
 owners:
@@ -62,4 +63,4 @@ Missing documents can use validated defaults where the caller selected `Load`. E
 
 - [Define and compose a project setting](../../extending/project-settings.md).
 - [Change Editor settings](../editor/settings.md) through the scope that owns them.
-- Read the [Settings ownership and persistence contract](../../api/projects/inno-core-settings.md).
+- Read the [Settings ownership and persistence contract](../../architecture/projects/inno-core-settings.md).

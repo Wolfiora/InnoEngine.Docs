@@ -1,10 +1,13 @@
 ---
 title: Publish a managed deployment
-description: Select an explicit .NET deployment compiler, retain the native closure and diagnose SDK or process failures.
+description: Select an explicit .NET deployment compiler, retain the native
+  closure and diagnose SDK or process failures.
 uid: backends.dotnet-publishing
 kind: how-to
-owners: [Inno.Build.Managed.DotNet]
-contracts: [project.inno-build-managed-dotnet]
+owners:
+  - Inno.Build.Managed.DotNet
+contracts:
+  - project.inno-build-managed-dotnet
 ---
 # Publish a managed deployment
 

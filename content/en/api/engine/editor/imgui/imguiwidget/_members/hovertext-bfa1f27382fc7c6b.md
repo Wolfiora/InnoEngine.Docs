@@ -1,0 +1,22 @@
+---
+uid: api.bfa1f27382fc7c6b42ad37f6d28975dafa74a11c154d33e4c5fea7149409b830
+symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.HoverText(System.String,System.String)"
+source: xml
+reviewed: 6e4533d3af563eae72ace1c19e177c2a54ec040e0ec1d319f8e71574851ce005
+title: "HoverText"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Draws a text link with no button background and highlights it only through text presentation.
+
+**Parameter `id`:** Stable identifier used by ImGui to track the interaction.
+
+**Parameter `text`:** Visible link text.
+
+**Returns:** `true` when the link is pressed.
+
+**Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.

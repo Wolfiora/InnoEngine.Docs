@@ -1,10 +1,13 @@
 ---
 title: Present Editor UI through ImGui and BGFX
-description: Keep linear composition, product shader identity and viewport retirement in the presentation adapter.
+description: Keep linear composition, product shader identity and viewport
+  retirement in the presentation adapter.
 uid: backends.imgui-rendering
 kind: explanation
-owners: [Inno.Adapter.Presentation.ImGui.Bgfx]
-contracts: [project.inno-adapter-presentation-imgui-bgfx]
+owners:
+  - Inno.Adapter.Presentation.ImGui.Bgfx
+contracts:
+  - project.inno-adapter-presentation-imgui-bgfx
 ---
 # Present Editor UI through ImGui and BGFX
 

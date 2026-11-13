@@ -1,6 +1,7 @@
 ---
 title: Compose lifecycle layers and overlays
-description: Order host callbacks, isolate event subscriptions and unwind successfully prepared rendering state.
+description: Order host callbacks, isolate event subscriptions and unwind
+  successfully prepared rendering state.
 uid: extending.lifecycle-layers
 kind: how-to
 owners:
@@ -70,4 +71,4 @@ Ordinary cleanup errors allow other eligible entries to retire in reverse order 
 
 Keep generation-owned layer instances and callbacks inside their actual owner. Save cross-generation state as stable identities and neutral values. The layer's diagnostic `name` is not a persistent identity.
 
-See the [Layers reference](../api/projects/inno-core-layers.md) for callbacks, protected subscription helpers and stack operations.
+See the [Layers reference](../architecture/projects/inno-core-layers.md) for callbacks, protected subscription helpers and stack operations.

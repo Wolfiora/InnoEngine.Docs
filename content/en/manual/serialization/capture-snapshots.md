@@ -1,6 +1,7 @@
 ---
 title: Capture and reuse immutable serialized state
-description: Reuse neutral snapshot nodes while preserving complete change detection and generation ownership.
+description: Reuse neutral snapshot nodes while preserving complete change
+  detection and generation ownership.
 uid: manual.serialization.capture-snapshots
 kind: how-to
 owners:
@@ -77,4 +78,4 @@ Core tracks actual nested converter execution and propagates that information fr
 
 The Scene owner can supply exact object/parent/source identities, sibling position and complete component proofs. That is a domain declaration of inputs, not permission for Core to infer Scene changes or skip arbitrary plugin state.
 
-See [custom converters](../../extending/serialization-converters.md) before implementing a key, and use the [exact builder and snapshot reference](../../api/types/core-serialization/index.md) for failures and overloads.
+See [custom converters](../../extending/serialization-converters.md) before implementing a key, and use the [exact builder and snapshot reference](../../api/engine/core/serialization/index.md) for failures and overloads.

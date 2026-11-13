@@ -1,6 +1,7 @@
 ---
 title: Build artifacts, caches and consumer protection
-description: Understand frozen requests, immutable publication, independent consumers and safe cache retirement.
+description: Understand frozen requests, immutable publication, independent
+  consumers and safe cache retirement.
 uid: architecture.build-artifacts
 kind: explanation
 aliases:

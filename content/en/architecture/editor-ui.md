@@ -1,10 +1,16 @@
 ---
 title: How Editor interactions reach engine state
-description: Follow one command, gesture or frame through feature, History, presentation and host ownership.
+description: Follow one command, gesture or frame through feature, History,
+  presentation and host ownership.
 uid: architecture.editor-ui
 kind: explanation
-owners: [Inno.Editor.Core, Inno.Editor.Interactions, Inno.Editor.ImGui]
-contracts: [architecture.editor-generations, architecture.ownership]
+owners:
+  - Inno.Editor.Core
+  - Inno.Editor.Interactions
+  - Inno.Editor.ImGui
+contracts:
+  - architecture.editor-generations
+  - architecture.ownership
 ---
 # How Editor interactions reach engine state
 

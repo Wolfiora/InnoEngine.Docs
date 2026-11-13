@@ -1,10 +1,17 @@
 ---
 title: Compose a build distribution
-description: Register platform, content and managed deployment contributions without central target switches.
+description: Register platform, content and managed deployment contributions
+  without central target switches.
 uid: extending.build-distribution
 kind: how-to
-owners: [Inno.Build.Composition, Inno.Build.Managed, Inno.Build.Products.Standard]
-contracts: [project.inno-build-composition, project.inno-build-managed, project.inno-build-products-standard]
+owners:
+  - Inno.Build.Composition
+  - Inno.Build.Managed
+  - Inno.Build.Products.Standard
+contracts:
+  - project.inno-build-composition
+  - project.inno-build-managed
+  - project.inno-build-products-standard
 ---
 # Compose a build distribution
 

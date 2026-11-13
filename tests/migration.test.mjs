@@ -100,3 +100,41 @@ test('retirement cannot use a substituted project-scope manifest', async (t) => 
   await f.write(f.root, 'reference/projects.json', '[]');
   await assert.rejects(checkMigration(f), /bound inventory/);
 });
+
+test('subsequent relocation preserves historical provenance and requires complete current destinations', async (t) => {
+  const f = await fixture(t);
+  const originalHash = 'a'.repeat(64), docsCommit = 'b'.repeat(40);
+  const baseline = { docsCommit, pages: [{ path: 'content/en/guide.md', hash: originalHash, owners: [] }] };
+  const migration = { schema: 'inno-api-migration/1', baseline: docsCommit, dispositions: [
+    { from: 'content/en/guide.md', originalHash, action: 'MoveProjectGuide', destinations: ['content/en/manual/task.md'] },
+  ] };
+  const record = '.agents/records/acceptance/api-draft-migration/';
+  await f.write(f.root, record + 'baseline.json', JSON.stringify(baseline));
+  const save = () => f.write(f.root, record + 'migration.json', JSON.stringify(migration));
+  await save();
+  await f.write(f.root, 'content/en/manual/task.md', '# Preserved task\n');
+  await rm(path.join(f.root, 'content/en/guide.md'));
+  assert.equal((await checkMigration(f)).status, 'DispositionVerified');
+  migration.dispositions[0].destinations = ['content/en/guide.md'];
+  await save();
+  assert.equal((await checkMigration(f)).status, 'Failed');
+  migration.dispositions[0].originalHash = 'c'.repeat(64);
+  await save();
+  await assert.rejects(checkMigration(f), /Invalid or repeated/);
+  migration.dispositions = [];
+  await save();
+  await assert.rejects(checkMigration(f), /omits an inventoried page/);
+});
+
+test('API scope retirement cannot discard an ordinary human guide', async (t) => {
+  const f = await fixture(t);
+  const originalHash = 'a'.repeat(64), docsCommit = 'b'.repeat(40);
+  const record = '.agents/records/acceptance/api-draft-migration/';
+  await f.write(f.root, record + 'baseline.json', JSON.stringify({ docsCommit, pages: [
+    { path: 'content/en/guide.md', hash: originalHash, owners: ['Inno.Native.Probe'] },
+  ] }));
+  await f.write(f.root, record + 'migration.json', JSON.stringify({ schema: 'inno-api-migration/1', baseline: docsCommit, dispositions: [
+    { from: 'content/en/guide.md', originalHash, action: 'ExcludedApiReference', destinations: [] },
+  ] }));
+  assert.match((await checkMigration(f)).errors.join('\n'), /out-of-scope owner/);
+});

@@ -1,6 +1,7 @@
 ---
 title: Add an animation binding
-description: Connect neutral samples to a host-owned target without adding a central property switch.
+description: Connect neutral samples to a host-owned target without adding a
+  central property switch.
 uid: extending.animation-bindings
 kind: how-to
 owners:
@@ -31,4 +32,4 @@ The standard binding runtime reports missing providers, incompatible targets and
 
 The type-catalog candidate owns provider instances. Dispose subscriptions and resources owned by the provider generation synchronously at its retirement boundary. The current binding snapshot does not preserve providers for an asynchronous pending-disposal retry; extensions requiring that behavior need an explicit supported owner rather than assuming it from the audio provider protocol.
 
-These callbacks execute at control-thread update points, never inside a native real-time audio callback. See [the neutral animation contract](../api/projects/inno-animation.md) and [binding runtime](../api/projects/inno-animation-runtime.md) for exact declarations and current limitations.
+These callbacks execute at control-thread update points, never inside a native real-time audio callback. See [the neutral animation contract](../architecture/projects/inno-animation.md) and [binding runtime](../architecture/projects/inno-animation-runtime.md) for exact declarations and current limitations.

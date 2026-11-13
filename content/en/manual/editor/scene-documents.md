@@ -1,10 +1,13 @@
 ---
 title: Edit, save and recover scene documents
-description: Keep scene mutations reversible and distinguish source availability, runtime copies and real authored changes.
+description: Keep scene mutations reversible and distinguish source
+  availability, runtime copies and real authored changes.
 uid: manual.editor.scene-documents
 kind: how-to
-owners: [Inno.Editor.Scene]
-contracts: [project.inno-editor-scene]
+owners:
+  - Inno.Editor.Scene
+contracts:
+  - project.inno-editor-scene
 ---
 # Edit, save and recover scene documents
 
@@ -44,4 +47,4 @@ The host presentation interface captures an owned `ContentReadScope` of ordered 
 
 Play publication occurs only after the complete candidate world, scene order and active scene are ready. It switches presentation and selection together. Play edits target that runtime world and its temporary History; Open/Save and source synchronization remain deferred or rejected as specified by [Play Mode](play-mode.md). The Edit world never transfers ownership.
 
-Editor scripts receive the workspace and SceneEdits contracts, not host Play-materialization or presentation infrastructure. See [Scene API](../../api/projects/inno-editor-scene.md) for an action example and exact operations.
+Editor scripts receive the workspace and SceneEdits contracts, not host Play-materialization or presentation infrastructure. See [Scene API](../../architecture/projects/inno-editor-scene.md) for an action example and exact operations.

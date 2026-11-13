@@ -47,4 +47,4 @@ HTTP content acquisition reads owned manifest/catalog bytes, downloads the catal
 
 These are registered source compositions, not a guarantee that every graphics API, device or deployment mode is certified. Check the selected target's actual build/runtime evidence. Documentation extraction and example compilation do not run native dialogs, devices, product startup or long-running retirement scenarios.
 
-Project contracts: [Windows Editor](../api/projects/inno-editor-windowsx64.md), [macOS Editor](../api/projects/inno-editor-macosarm64.md), [Windows Player](../api/projects/inno-player-windowsx64.md), [macOS Player](../api/projects/inno-player-macosarm64.md) and [Browser Player](../api/projects/inno-player-browserwasm32.md).
+Project contracts: [Windows Editor](../architecture/projects/inno-editor-windowsx64.md), [macOS Editor](../architecture/projects/inno-editor-macosarm64.md), [Windows Player](../architecture/projects/inno-player-windowsx64.md), [macOS Player](../architecture/projects/inno-player-macosarm64.md) and [Browser Player](../architecture/projects/inno-player-browserwasm32.md).

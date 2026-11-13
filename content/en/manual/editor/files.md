@@ -1,10 +1,17 @@
 ---
 title: Browse and change project assets
-description: Navigate writable project sources and read-only plugins while preserving source identity and undo.
+description: Navigate writable project sources and read-only plugins while
+  preserving source identity and undo.
 uid: manual.editor.files
 kind: how-to
-owners: [Inno.Editor.Panel.FileBrowser, Inno.Editor.Assets, Inno.Editor.Assets.ImGui]
-contracts: [project.inno-editor-panel-filebrowser, project.inno-editor-assets, project.inno-editor-assets-imgui]
+owners:
+  - Inno.Editor.Panel.FileBrowser
+  - Inno.Editor.Assets
+  - Inno.Editor.Assets.ImGui
+contracts:
+  - project.inno-editor-panel-filebrowser
+  - project.inno-editor-assets
+  - project.inno-editor-assets-imgui
 ---
 # Browse and change project assets
 

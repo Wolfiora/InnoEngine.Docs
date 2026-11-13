@@ -6,12 +6,12 @@ const journeys = [
   ['manual/assets/import-settings/', 'Edit asset import settings'],
   ['platforms/publish-player/', 'Build and run a Player'],
   ['platforms/window-lifetime/', 'Own windows and rendering surfaces'],
-  ['contributing/testing/inno-core-execution-tests/', 'Execution and retirement tests'],
-  ['contributing/testing/inno-tooling-validation-tests/', 'Validation planning and evidence tests'],
+  ['contributing/testing/projects/inno-core-execution-tests/', 'Execution and retirement tests'],
+  ['contributing/testing/projects/inno-tooling-validation-tests/', 'Validation planning and evidence tests'],
   ['extending/editor-panels/', 'Add an Editor panel'],
-  ['api/types/scene/gameobject/', 'GameObject'],
-  ['api/runtime-script/inno-scene/innoengine.scene.scenemanager/', 'SceneManager'],
-  ['api/editor-script/inno-editor-core/innoeditor.core.editorstate/', 'EditorState'],
+  ['api/engine/scene/gameobject/', 'GameObject'],
+  ['api/scripting/runtime/scenemanager/', 'SceneManager'],
+  ['api/scripting/editor/editorstate/', 'EditorState'],
 ] as const;
 
 for (const theme of ['light', 'dark'] as const) {
@@ -62,8 +62,8 @@ test('keyboard search reaches a task and handles empty results', async ({ page }
 
 test('script references expose caller obligations and exact declarations', async ({ page }) => {
   for (const [route, identity] of [
-    ['api/runtime-script/inno-scene/innoengine.scene.scenemanager/', 'InnoEngine.Scene.SceneManager'],
-    ['api/editor-script/inno-editor-core/innoeditor.core.editorstate/', 'InnoEditor.Core.EditorState'],
+    ['api/scripting/runtime/scenemanager/', 'InnoEngine.Scene.SceneManager'],
+    ['api/scripting/editor/editorstate/', 'InnoEditor.Core.EditorState'],
   ]) {
     await page.goto(route);
     await expect(page.getByRole('main')).toContainText(identity);
@@ -73,6 +73,32 @@ test('script references expose caller obligations and exact declarations', async
     await expect(page).toHaveURL(/\/manual\/scripting\/use-script-api\/$/);
     await expect(page.getByRole('main')).toContainText('does not establish a supported construction path');
   }
+});
+
+test('API directories expose project trees and only populated script letters', async ({ page }) => {
+  await page.goto('api/engine/core/collections/');
+  const graph = page.getByRole('main').getByRole('link', { name: 'DependencyGraph', exact: true });
+  await expect(graph).toBeVisible();
+  await graph.click();
+  await expect(page.locator('h1')).toContainText('DependencyGraph');
+  await page.goto('api/scripting/runtime/');
+  const letters = await page.getByRole('main').locator('h2').allTextContents();
+  expect(letters.length).toBeGreaterThan(0);
+  expect(letters.every(value => /^[A-Z]$|^Other$/.test(value.trim()))).toBe(true);
+  await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
+});
+
+test('Scope labels and independent member editing reflect canonical ownership', async ({ page }) => {
+  await page.goto('api/scripting/runtime/scenemanager/');
+  await expect(page.locator('.api-surface')).toHaveText('Runtime scripting');
+  await expect(page.getByRole('main')).toContainText('editor-script/Debug');
+  const links = page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true });
+  expect(await links.count()).toBeGreaterThan(1);
+  const addresses = await links.evaluateAll(nodes => nodes.map(node => node.getAttribute('href')));
+  expect(new Set(addresses).size).toBe(addresses.length);
+  expect(addresses.every(value => value?.startsWith('https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/content/en/api/'))).toBe(true);
+  expect(addresses.some(value => value?.includes('/_members/'))).toBe(true);
+  await expect(page.getByRole('main')).toContainText('XML-synced');
 });
 
 test('short diagnostic identities remain readable inside scrolling tables', async ({ page }) => {
@@ -97,16 +123,16 @@ test('short diagnostic identities remain readable inside scrolling tables', asyn
 });
 
 test('keyboard skip link and API contract deep link remain usable', async ({ page }) => {
-  await page.goto('api/types/scene/gameobject/');
+  await page.goto('api/engine/scene/gameobject/');
   await page.keyboard.press('Tab');
   const skip = page.getByRole('link', { name: 'Skip to content' });
   await expect(skip).toBeFocused();
   await expect(skip).toBeVisible();
   await page.keyboard.press('Enter');
-  const contract = page.getByRole('link', { name: 'shared contract', exact: true });
+  const contract = page.getByRole('main').getByRole('link', { name: 'Inno.Scene', exact: true });
   await expect(contract).toBeVisible();
   await contract.click();
-  await expect(page).toHaveURL(/\/api\/projects\/inno-scene\/#scene-ownership-contract$/);
+  await expect(page).toHaveURL(/\/architecture\/projects\/inno-scene\/#scene-ownership-contract$/);
   await expect(page.locator('#scene-ownership-contract')).toBeInViewport();
 });
 
@@ -114,7 +140,7 @@ test('essential ownership content remains available without JavaScript', async (
   const context = await browser.newContext({ javaScriptEnabled: false });
   try {
     const page = await context.newPage();
-    await page.goto(new URL('api/projects/inno-scene/#scene-ownership-contract', baseURL).href);
+    await page.goto(new URL('architecture/projects/inno-scene/#scene-ownership-contract', baseURL).href);
     await expect(page.locator('#scene-ownership-contract')).toBeVisible();
     await expect(page.getByRole('main')).toContainText('Entering a scope does not add synchronization');
     await expect(page.getByRole('link', { name: 'Types and exact member contracts', exact: true })).toBeVisible();
@@ -146,11 +172,11 @@ test('capture representative reading surfaces for visual review', async ({ page 
   await page.reload();
   await page.screenshot({ path: testInfo.outputPath('home-light.png') });
   await page.evaluate(() => localStorage.setItem('starlight-theme', 'dark'));
-  await page.goto('api/types/scene/gameobject/');
+  await page.goto('api/engine/scene/gameobject/');
   await page.screenshot({ path: testInfo.outputPath('api-dark.png') });
-  await page.goto('api/editor-script/inno-editor-core/innoeditor.core.editorstate/');
+  await page.goto('api/scripting/editor/editorstate/');
   await page.screenshot({ path: testInfo.outputPath('editor-script-dark.png') });
   await page.evaluate(() => localStorage.setItem('starlight-theme', 'light'));
-  await page.goto('api/runtime-script/inno-scene/innoengine.scene.scenemanager/');
+  await page.goto('api/scripting/runtime/scenemanager/');
   await page.screenshot({ path: testInfo.outputPath('runtime-script-light.png') });
 });

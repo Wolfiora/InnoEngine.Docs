@@ -1,10 +1,16 @@
 ---
 title: Identity, recovery and generation boundaries
-description: Connect persistent intent, live registration, neutral state and verified retirement across engine domains.
+description: Connect persistent intent, live registration, neutral state and
+  verified retirement across engine domains.
 uid: architecture.identity-and-recovery
 kind: explanation
-owners: [Inno.Core.Identity, Inno.References, Inno.Extensibility.Reload]
-contracts: [architecture.ownership, architecture.generation-publication]
+owners:
+  - Inno.Core.Identity
+  - Inno.References
+  - Inno.Extensibility.Reload
+contracts:
+  - architecture.ownership
+  - architecture.generation-publication
 ---
 # Identity, recovery and generation boundaries
 

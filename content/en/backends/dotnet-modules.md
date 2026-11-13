@@ -1,10 +1,13 @@
 ---
 title: Load dynamic code in an authoring host
-description: Use explicit .NET assembly closures, collectible module candidates and verified retirement.
+description: Use explicit .NET assembly closures, collectible module candidates
+  and verified retirement.
 uid: backends.dotnet-modules
 kind: how-to
-owners: [Inno.Adapter.Modules.DotNet]
-contracts: [project.inno-adapter-modules-dotnet]
+owners:
+  - Inno.Adapter.Modules.DotNet
+contracts:
+  - project.inno-adapter-modules-dotnet
 ---
 # Load dynamic code in an authoring host
 

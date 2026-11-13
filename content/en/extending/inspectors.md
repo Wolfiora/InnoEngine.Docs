@@ -1,10 +1,13 @@
 ---
 title: Add an Inspector drawer
-description: Reuse shared property presentation, feature-owned mutations and generation-scoped discovery.
+description: Reuse shared property presentation, feature-owned mutations and
+  generation-scoped discovery.
 uid: extending.inspectors
 kind: how-to
-owners: [Inno.Editor.Inspection]
-contracts: [project.inno-editor-inspection]
+owners:
+  - Inno.Editor.Inspection
+contracts:
+  - project.inno-editor-inspection
 ---
 # Add an Inspector drawer
 
@@ -28,7 +31,7 @@ Color values remain linear. Swatches display sRGB; edited RGB decodes to linear 
 
 ## Add useful presentation metadata
 
-[Editor annotations](../api/projects/inno-editor-annotations.md) control presentation without deciding persistence or changing serialization schema. Header descriptions and Tooltip are hover help. Text is persistent neutral explanation; HelpBox presents explicit informational/warning/error state. Multiple visibility conditions combine with AND, including truth/equality/null/reference-assignment conditions.
+[Editor annotations](../architecture/projects/inno-editor-annotations.md) control presentation without deciding persistence or changing serialization schema. Header descriptions and Tooltip are hover help. Text is persistent neutral explanation; HelpBox presents explicit informational/warning/error state. Multiple visibility conditions combine with AND, including truth/equality/null/reference-assignment conditions.
 
 An essential instruction should remain visible instead of being available only on hover. Custom metadata derives from InspectorPresentationAttribute and is interpreted by an explicitly registered attribute drawer. It can combine visibility, read-only state, labels, help and bounds or draw decorators. Generation/priority resolution avoids a central switch for plugin extensions.
 
@@ -44,4 +47,4 @@ Use TryGetTextState/SetTextState/ClearTextState for incomplete numeric, Guid or 
 
 Use `IInspectionIconProvider<TTarget>` to obtain a feature's icon policy. The Inspector composition depends on that interface instead of File Browser. Scene/object drawers read the same full-path settings objects as the other presentations; Settings is not a second icon resolver.
 
-Editor scripts receive selected drawer/property-edit contracts, not registries, activators or concrete feature mutation adapters. See the [Inspection reference](../api/projects/inno-editor-inspection.md) for host drawer examples and the separately qualified script examples.
+Editor scripts receive selected drawer/property-edit contracts, not registries, activators or concrete feature mutation adapters. See the [Inspection reference](../architecture/projects/inno-editor-inspection.md) for host drawer examples and the separately qualified script examples.

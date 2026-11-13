@@ -26,7 +26,7 @@ Hardwareless MiniAudio is not a skipped native test. It still requires matching 
 
 The adapter supplies WAV/FLAC/MP3 preparation, decoded and streamed loading, independent voice cursors, scheduled playback, two-dimensional pan and basic three-dimensional distance/cone/doppler behavior. It supports one to four listeners, bus routing and the eight standard filter/delay processor families. Actual product/target composition and successful device creation determine availability.
 
-Use [the device project](../api/projects/inno-adapter-audio-miniaudio.md) for options and disposal. The [native reference](../api/projects/inno-native-miniaudio.md) is for backend authors, not an expanded gameplay API. Native library production belongs to [the component toolchain](../api/projects/inno-build-toolchains-miniaudio.md).
+Use [the device project](projects/inno-adapter-audio-miniaudio.md) for options and disposal. The [native reference](projects/inno-native-miniaudio.md) is for backend authors, not an expanded gameplay API. Native library production belongs to [the component toolchain](projects/inno-build-toolchains-miniaudio.md).
 
 ## Upstream and provenance
 

@@ -1,10 +1,15 @@
 ---
 title: Extend asset browsing and presentation
-description: Add source actions, type/extension icons and inspection without coupling panels or taking over file transactions.
+description: Add source actions, type/extension icons and inspection without
+  coupling panels or taking over file transactions.
 uid: extending.asset-browser
 kind: how-to
-owners: [Inno.Editor.Assets.ImGui, Inno.Editor.Panel.FileBrowser]
-contracts: [project.inno-editor-assets-imgui, project.inno-editor-assets]
+owners:
+  - Inno.Editor.Assets.ImGui
+  - Inno.Editor.Panel.FileBrowser
+contracts:
+  - project.inno-editor-assets-imgui
+  - project.inno-editor-assets
 ---
 # Extend asset browsing and presentation
 

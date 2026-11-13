@@ -1,0 +1,20 @@
+---
+uid: api.ec4da9a10774f01df4721a98c583480978358b7d36d6bb7c2193ecc464f56938
+symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasLayout.SetNodes(System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasNode})"
+source: xml
+reviewed: 943828738d176a7c43c1c40bc9af6decbee8aa677d7b7fabc70b88f63fe83cbb
+title: "SetNodes"
+kind: api
+owners: [Inno.Editor.Graph.ImGui]
+apiSurface: source-clr
+---
+
+Atomically replaces a complete display snapshot, reusing unchanged node geometry by value.
+
+**Parameter `nodes`:** The current neutral node descriptions in draw order.
+
+**Returns:** The number of inserted, changed or removed nodes. Ordering changes do not rebuild geometry.
+
+**Exception `T:System.ArgumentNullException`:** The collection or one of its nodes is null.
+
+**Exception `T:System.ArgumentException`:** A node identity occurs more than once; the previous snapshot remains active.

@@ -1,0 +1,25 @@
+---
+uid: api.56432f25d683f1d849a6384404302461c3616d4e23409e9ff676932f555a17ec
+symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderStencilState.#ctor(System.Boolean,System.Byte,System.Byte,System.Byte,InnoEngine.Rendering.RenderStencilFaceState,InnoEngine.Rendering.RenderStencilFaceState)"
+source: xml
+reviewed: b07e06f0a34e103ae85ac4e99521debda6cd66b326e1e3688629a44c0601a45e
+title: "Constructor"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Creates a complete immutable stencil configuration without relying on init-only setters.
+
+**Parameter `enabled`:** Whether stencil testing and updates are active.
+
+**Parameter `reference`:** Eight-bit stencil reference value.
+
+**Parameter `readMask`:** Mask applied while reading stored stencil.
+
+**Parameter `writeMask`:** Mask applied while writing stencil.
+
+**Parameter `front`:** Front-face stencil behavior.
+
+**Parameter `back`:** Back-face stencil behavior.

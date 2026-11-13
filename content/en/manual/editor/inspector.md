@@ -1,10 +1,14 @@
 ---
 title: Inspect and edit the current target
-description: Use target locking, scene-safe mutations, Transform spaces and typed reference assignment.
+description: Use target locking, scene-safe mutations, Transform spaces and
+  typed reference assignment.
 uid: manual.editor.inspector
 kind: how-to
-owners: [Inno.Editor.Panel.Inspector]
-contracts: [project.inno-editor-panel-inspector, project.inno-editor-inspection]
+owners:
+  - Inno.Editor.Panel.Inspector
+contracts:
+  - project.inno-editor-panel-inspector
+  - project.inno-editor-inspection
 ---
 # Inspect and edit the current target
 

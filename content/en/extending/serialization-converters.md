@@ -1,6 +1,7 @@
 ---
 title: Implement a serialization converter
-description: Define explicit value or identity semantics through the shared operation-scoped reader and writer.
+description: Define explicit value or identity semantics through the shared
+  operation-scoped reader and writer.
 uid: extending.serialization-converters
 kind: how-to
 owners:
@@ -108,4 +109,4 @@ Only implement `TryCaptureKey` after reading the [complete snapshot-proof contra
 
 Unknown binary values are copied unchanged; malformed recognized formats fail. This is useful inside a domain-owned clone transaction, but it does not allocate live identities, repair Missing references or migrate old schemas.
 
-See the [serialization reference](../api/types/core-serialization/index.md) for overloads and the [generation architecture](../architecture/serialization.md) for ownership.
+See the [serialization reference](../api/engine/core/serialization/index.md) for overloads and the [generation architecture](../architecture/serialization.md) for ownership.

@@ -1,6 +1,7 @@
 ---
 title: Build an owned extension registry
-description: Construct immutable candidates with transactional activation and explicit retirement ownership.
+description: Construct immutable candidates with transactional activation and
+  explicit retirement ownership.
 uid: extending.type-registries
 kind: how-to
 owners:
@@ -88,4 +89,4 @@ Pending signals nested in aggregate/inner exceptions retain the same ownership m
 
 Keep the registry within its owning type/module composition. Dispose feature registries before their catalog and module host. Do not retain old snapshots, instances or delegates as the next generation's cache.
 
-See [the exact protected extension points](../api/projects/inno-extensibility-types.md) and [generation publication](../architecture/generation-publication.md).
+See [the exact protected extension points](../architecture/projects/inno-extensibility-types.md) and [generation publication](../architecture/generation-publication.md).

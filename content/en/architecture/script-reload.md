@@ -1,10 +1,13 @@
 ---
 title: Script reload and recovery
-description: Treat project scripts as one authoring generation while preserving last-good state and explicit plugin retirement.
+description: Treat project scripts as one authoring generation while preserving
+  last-good state and explicit plugin retirement.
 uid: architecture.script-reload
 kind: explanation
-owners: [Inno.Scripting.Reload]
-contracts: [project.inno-scripting-reload]
+owners:
+  - Inno.Scripting.Reload
+contracts:
+  - project.inno-scripting-reload
 ---
 # Script reload and recovery
 
@@ -44,6 +47,6 @@ Commit retirement, candidate rollback, plugin uninstall, explicit unload and shu
 
 Publishing a script generation also republishes an isolated asset catalog. The reload host suppresses only the source-mount notification echo produced synchronously by its own candidate publication. That event is not a new source edit and must not queue another identical reload.
 
-Real file changes, explicit compile requests and external source-mount publications still queue work. This behavior does not disable watchers, mute global notifications or skip retirement. Observe operation IDs and actual stages through [reload progress](../api/projects/inno-scripting-reload.md#observe-the-current-operation), not inferred completion percentages.
+Real file changes, explicit compile requests and external source-mount publications still queue work. This behavior does not disable watchers, mute global notifications or skip retirement. Observe operation IDs and actual stages through [reload progress](projects/inno-scripting-reload.md#observe-the-current-operation), not inferred completion percentages.
 
 For the underlying admission states and lifetime rules, read [generation publication](generation-publication.md). For a user's first symptom, start with [reload troubleshooting](../manual/extensions/diagnose-reload.md).

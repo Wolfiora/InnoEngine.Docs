@@ -1,6 +1,7 @@
 ---
 title: Install and update a plugin
-description: Add a complete source package and distinguish discovery from active publication.
+description: Add a complete source package and distinguish discovery from active
+  publication.
 uid: manual.plugins.install
 kind: how-to
 owners:

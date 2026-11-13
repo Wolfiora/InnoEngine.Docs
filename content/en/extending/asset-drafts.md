@@ -1,10 +1,13 @@
 ---
 title: Add source asset creation and draft editing
-description: Reuse the asset owner, shared documents and immediate neutral History instead of adding a private editor database.
+description: Reuse the asset owner, shared documents and immediate neutral
+  History instead of adding a private editor database.
 uid: extending.asset-drafts
 kind: how-to
-owners: [Inno.Editor.Assets]
-contracts: [project.inno-editor-assets]
+owners:
+  - Inno.Editor.Assets
+contracts:
+  - project.inno-editor-assets
 ---
 # Add source asset creation and draft editing
 

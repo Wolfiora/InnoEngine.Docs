@@ -1,6 +1,7 @@
 ---
 title: Join a reference recovery transaction
-description: Restore domain structure and values with the shared generation publication order.
+description: Restore domain structure and values with the shared generation
+  publication order.
 uid: extending.reference-recovery
 kind: how-to
 owners:

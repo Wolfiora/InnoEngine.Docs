@@ -1,6 +1,7 @@
 ---
 title: Scene ownership, indexing and reload
-description: How one Scene owner coordinates structure, lifecycle and neutral state across generations.
+description: How one Scene owner coordinates structure, lifecycle and neutral
+  state across generations.
 uid: architecture.scene-lifecycle
 kind: explanation
 owners:

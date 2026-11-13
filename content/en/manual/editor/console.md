@@ -71,4 +71,4 @@ To produce those records, follow [write and retain logs](../diagnostics/write-lo
 
 The host creates and drives the panel. Extensions must not invoke its drawing lifecycle manually. For presentation changes, read [customize the Console](../../extending/customize-console.md).
 
-For grouping, native entry identity, layout and retirement mechanisms, read the [Console project explanation](../../api/projects/inno-editor-panel-logging.md).
+For grouping, native entry identity, layout and retirement mechanisms, read the [Console project explanation](../../architecture/projects/inno-editor-panel-logging.md).

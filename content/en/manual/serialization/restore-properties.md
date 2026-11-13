@@ -1,6 +1,7 @@
 ---
 title: Restore properties across a reload
-description: Carry neutral property data across generations and account for rejected or missing members explicitly.
+description: Carry neutral property data across generations and account for
+  rejected or missing members explicitly.
 uid: manual.serialization.restore-properties
 kind: how-to
 owners:
@@ -79,4 +80,4 @@ The target's restoration hook is scheduled once for the operation. Hooks run in 
 
 The property format validates its current magic, lengths and trailing bytes. Do not patch bytes to hide a malformed capture. Preserve the payload and report the specific failure through the owning diagnostic channel.
 
-See [serialization architecture](../../architecture/serialization.md) for generation pinning and completion order, and [the API reference](../../api/types/core-serialization/index.md) for exact overloads and result types.
+See [serialization architecture](../../architecture/serialization.md) for generation pinning and completion order, and [the API reference](../../api/engine/core/serialization/index.md) for exact overloads and result types.

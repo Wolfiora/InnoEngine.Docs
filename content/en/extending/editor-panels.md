@@ -1,8 +1,11 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Core, Inno.Editor.ImGui]
+exampleProjects:
+  - Inno.Editor.Core
+  - Inno.Editor.ImGui
 title: Add an Editor panel
-description: Register a dockable panel and participate in the Editor's activation, drawing, state and retirement lifecycle.
+description: Register a dockable panel and participate in the Editor's
+  activation, drawing, state and retirement lifecycle.
 uid: extending.editor-panels
 kind: how-to
 owners:

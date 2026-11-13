@@ -1,0 +1,18 @@
+---
+uid: api.8b347baafb053304aa218ac10650bc7f3e9b1156091748a6ab090448ec4822a5
+symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.Event.HandleInHub"
+source: xml
+reviewed: 9698ea0047fedfaa1c486f935b69c03b89bc568af1b5ef73dfd125bc2661ef6d
+title: "HandleInHub"
+kind: api
+owners: [Inno.Core.Events]
+apiSurface: source-clr
+---
+
+Marks this event as handled in the current hub only.
+
+## Remarks
+
+Hub handling stops remaining listeners in the current hub but does not affect following hubs.
+
+**Exception `T:System.InvalidOperationException`:** Thrown when called outside a valid hub dispatch context for this event.

@@ -1,6 +1,7 @@
 ---
 title: Capture the smallest scene state
-description: Choose property, element, subtree or asset persistence without retaining runtime generations.
+description: Choose property, element, subtree or asset persistence without
+  retaining runtime generations.
 uid: extending.scene-state
 kind: how-to
 owners:

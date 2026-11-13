@@ -1,6 +1,7 @@
 ---
 title: Supply serialization metadata for a deployment
-description: Choose generated or dynamic declaration access without weakening encapsulation or introducing reflection fallback.
+description: Choose generated or dynamic declaration access without weakening
+  encapsulation or introducing reflection fallback.
 uid: extending.serialization-metadata
 kind: how-to
 owners:
@@ -81,4 +82,4 @@ Generated accessors belong to their compilation and are not manually maintained 
 
 The existing runtime-generator tests cover generated compilation, private members and constructors, structs, inheritance hooks and closed collections. Serialization tests cover the dynamic provider and value pipeline. Select the applicable suites through the engine validation plan; do not add a second manually maintained test selector here.
 
-See [the generator reference](../api/types/core-serialization-generators/index.md), [dynamic metadata](../backends/dotnet-serialization.md) and [serialization architecture](../architecture/serialization.md).
+See [the generator reference](../api/engine/core/serialization/generators/index.md), [dynamic metadata](../backends/dotnet-serialization.md) and [serialization architecture](../architecture/serialization.md).

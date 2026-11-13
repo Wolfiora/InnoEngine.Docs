@@ -3,6 +3,7 @@ import { readFile, lstat } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { pathToFileURL } from 'node:url';
+import { isDocumentedProject } from './api-scope.mjs';
 
 const hash = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
@@ -51,6 +52,23 @@ export async function checkMigration({ root, engineRoot }) {
   const projectBytes = await ownedFile(root, binding.projectManifest);
   if (binding.projectManifestIdentity !== hash(projectBytes)) throw new Error('Migration project scope differs from its bound inventory.');
   const projects = JSON.parse(projectBytes);
+  const relocations = new Map();
+  const migrationPath = '.agents/records/acceptance/api-draft-migration/migration.json';
+  let migration;
+  try { migration = JSON.parse(await ownedFile(root, migrationPath)); }
+  catch (error) { if (error.code !== 'ENOENT') throw error; }
+  if (migration) {
+    const baseline = JSON.parse(await ownedFile(root, '.agents/records/acceptance/api-draft-migration/baseline.json'));
+    if (migration.schema !== 'inno-api-migration/1' || migration.baseline !== baseline.docsCommit) throw new Error('API migration provenance is inconsistent.');
+    const originals = new Map(baseline.pages.map(page => [page.path, page]));
+    for (const disposition of migration.dispositions) {
+      const original = originals.get(disposition.from);
+      if (!original || original.hash !== disposition.originalHash || relocations.has(disposition.from)
+        || !Array.isArray(disposition.destinations)) throw new Error('Invalid or repeated API migration disposition.');
+      relocations.set(disposition.from, { ...disposition, owners: original.owners });
+    }
+    if (relocations.size !== originals.size) throw new Error('API migration omits an inventoried page.');
+  }
   const reviews = new Map();
   async function requireDestination(target, source, visited = new Set()) {
     let relative = target;
@@ -59,6 +77,21 @@ export async function checkMigration({ root, engineRoot }) {
       if (!match) throw new Error('Current documentation destination must identify the Docs repository.');
       relative = match[1];
     } else relative = relative.replace(/^(?:Wolfiora\/)?InnoEngine\.Docs\//, '');
+    const relocation = relocations.get(relative);
+    if (relocation && !(relocation.destinations.length === 1 && relocation.destinations[0] === relative)) {
+      if (visited.has(relative)) throw new Error('Migration relocation destinations form a cycle.');
+      if (relocation.action === 'ExcludedApiReference' && relocation.destinations.length === 0) {
+        if (!relative.startsWith('content/en/api/') || !relocation.owners.length
+          || relocation.owners.some(name => !projects.some(project => project.name === name && !isDocumentedProject(project)))) {
+          throw new Error('Excluded API retirement lacks an actual out-of-scope owner.');
+        }
+        return;
+      }
+      if (!relocation.destinations.length) throw new Error('Moved documentation requires a current destination.');
+      const next = new Set(visited).add(relative);
+      for (const destination of relocation.destinations) await requireDestination(destination, source, next);
+      return;
+    }
     if (relative.startsWith('reference/provenance/') && relative.endsWith('.json')) {
       if (visited.has(relative)) throw new Error('Migration review destinations form a cycle.');
       const next = new Set(visited).add(relative);
@@ -96,7 +129,7 @@ export async function checkMigration({ root, engineRoot }) {
       } else if (item.disposition === 'ApprovedNativeApiRetirementCutOver' || item.disposition === 'RetiredGeneratedBindingReferenceByUserScopeCutOver') {
         const owner = projects.find((project) => {
           const prefix = `docs/backends/${project.path.split('/')[1]}/${project.name}`;
-          return project.apiDocumentation === 'backend-native' &&
+          return project.path.startsWith('backends/') &&
             (item.source === `${prefix}.md` || item.source.startsWith(`${prefix}.Api/`) || item.source.startsWith(`${prefix}/`));
         });
         if (!owner) throw new Error('Native retirement has no matching backend-native owner in the bound project inventory.');

@@ -1,6 +1,7 @@
 ---
 title: Manage temporary process output
-description: Claim temporary directories, register subprocess consumers, and distinguish publication from cleanup.
+description: Claim temporary directories, register subprocess consumers, and
+  distinguish publication from cleanup.
 uid: extending.manage-process-output
 kind: how-to
 owners:
@@ -78,4 +79,4 @@ Do not retry installation after a post-commit cleanup exception. Use `installedD
 
 - [Persist a host document](persist-host-documents.md) for atomic file publication.
 - [Build artifacts](../architecture/build-artifacts.md) for registered immutable generations and protected consumers.
-- [Core IO reference](../api/projects/inno-core-io.md) for the exact process, lease and installation interfaces.
+- [Core IO reference](../architecture/projects/inno-core-io.md) for the exact process, lease and installation interfaces.

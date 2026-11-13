@@ -1,12 +1,19 @@
 ---
 title: Load and retain an asset
-description: Choose a logical asset identity and preserve the correct owner while using its resources.
+description: Choose a logical asset identity and preserve the correct owner
+  while using its resources.
 uid: manual.assets.read
 kind: how-to
-owners: [Inno.Assets, Inno.Assets.Pipeline]
-contracts: [project.inno-assets#asset-ownership-contract, project.inno-assets-pipeline#authoring-ownership-contract]
+owners:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
+contracts:
+  - project.inno-assets#asset-ownership-contract
+  - project.inno-assets-pipeline#authoring-ownership-contract
 exampleMode: host
-exampleProjects: [Inno.Assets, Inno.Assets.Pipeline]
+exampleProjects:
+  - Inno.Assets
+  - Inno.Assets.Pipeline
 ---
 # Load and retain an asset
 

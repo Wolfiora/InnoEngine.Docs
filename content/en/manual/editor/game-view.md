@@ -1,10 +1,13 @@
 ---
 title: Use the Game View
-description: Inspect routed game output and understand Play input, aspect ratio and temporary state.
+description: Inspect routed game output and understand Play input, aspect ratio
+  and temporary state.
 uid: manual.editor.game-view
 kind: how-to
-owners: [Inno.Editor.Panel.GameView]
-contracts: [project.inno-editor-panel-gameview]
+owners:
+  - Inno.Editor.Panel.GameView
+contracts:
+  - project.inno-editor-panel-gameview
 ---
 # Use the Game View
 

@@ -1,6 +1,7 @@
 ---
 title: Consume UI render frames
-description: Apply retained mesh and texture deltas, preserve draw order, and retire renderer-owned resources.
+description: Apply retained mesh and texture deltas, preserve draw order, and
+  retire renderer-owned resources.
 uid: extending.ui-render-frames
 kind: how-to
 owners:
@@ -49,4 +50,4 @@ Stop accepting new frames before retiring the consumer. Preserve necessary readi
 
 The RmlUi adapter copies pending native deltas into a managed frame and acknowledges the transfer only after that frame has been built. A failed copy leaves native deltas pending. This protects transfer completeness, but does not make your GPU upload or draw submission transactional. Report and recover at the consumer's own boundary.
 
-See the [UI reference](../api/projects/inno-ui.md) and [lifetime model](../architecture/ui-lifetime.md) for the shared contract.
+See the [UI reference](../architecture/projects/inno-ui.md) and [lifetime model](../architecture/ui-lifetime.md) for the shared contract.

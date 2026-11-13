@@ -1,10 +1,19 @@
 ---
 title: Prepare and consume a Player Support Pack
-description: Separate reusable engine link inputs from a game's final content and deployment.
+description: Separate reusable engine link inputs from a game's final content
+  and deployment.
 uid: contributing.support-packs
 kind: how-to
-owners: [Inno.Build.SupportPacks.Core, Inno.Build.Managed, Inno.Build.Products.Standard, Inno.Build.Composition]
-contracts: [project.inno-build-supportpacks-core, project.inno-build-managed, project.inno-build-products-standard, project.inno-build-composition]
+owners:
+  - Inno.Build.SupportPacks.Core
+  - Inno.Build.Managed
+  - Inno.Build.Products.Standard
+  - Inno.Build.Composition
+contracts:
+  - project.inno-build-supportpacks-core
+  - project.inno-build-managed
+  - project.inno-build-products-standard
+  - project.inno-build-composition
 ---
 # Prepare and consume a Player Support Pack
 

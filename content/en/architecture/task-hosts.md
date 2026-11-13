@@ -1,10 +1,15 @@
 ---
 title: Isolate MSBuild Task hosts
-description: Separate bootstrap compilation, immutable runtime publication and process-private loading.
+description: Separate bootstrap compilation, immutable runtime publication and
+  process-private loading.
 uid: architecture.task-hosts
 kind: explanation
-owners: [Inno.Build.TaskHosting, Inno.Build.Tasks]
-contracts: [project.inno-build-taskhosting, project.inno-build-tasks]
+owners:
+  - Inno.Build.TaskHosting
+  - Inno.Build.Tasks
+contracts:
+  - project.inno-build-taskhosting
+  - project.inno-build-tasks
 ---
 # Isolate MSBuild Task hosts
 

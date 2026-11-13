@@ -1,6 +1,7 @@
 ---
 title: Preserve an editable graph across extension changes
-description: Store neutral nodes, ports and values while resolving current definitions without deleting Missing content.
+description: Store neutral nodes, ports and values while resolving current
+  definitions without deleting Missing content.
 uid: manual.data.preserve-graph
 kind: how-to
 owners:
@@ -68,4 +69,4 @@ Use `Clone` for an independently mutable neutral copy, or `ReplaceContents` to p
 
 `GraphDocumentCodec.Encode` and `Decode` already persist the current neutral document through the shared serialization pipeline. Node/edge order is preserved, while property and metadata keys are written in ordinal order. Decoding creates a detached mutable document; it does not validate current definition availability or confer execution readiness.
 
-The asset owner still controls file format ownership, writes, catalog registration and publication. There is no legacy schema reader, former-ID alias or automatic migration promised by this model. Follow the [Graph reference](../../api/projects/inno-core-graphs.md) for exact codec and validation contracts.
+The asset owner still controls file format ownership, writes, catalog registration and publication. There is no legacy schema reader, former-ID alias or automatic migration promised by this model. Follow the [Graph reference](../../architecture/projects/inno-core-graphs.md) for exact codec and validation contracts.

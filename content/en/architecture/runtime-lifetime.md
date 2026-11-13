@@ -49,4 +49,4 @@ Editor quiesces Play before dismantling its modules and layers. Collectible code
 
 An ordinary cleanup error may be aggregated with other completed cleanup errors. Pending means release is unfinished; Faulted means continued operations are unsafe. Neither is a successful exit. Startup failure unwinds resources already acquired, and simultaneous execution/stopping failures retain both causes.
 
-For concrete extension contracts, see [RuntimeSubsystem](../api/projects/inno-runtime-contracts.md), [Session composition](../api/projects/inno-runtime.md), [Shell](../api/projects/inno-shell.md) and [Player launch](../api/projects/inno-player-runtime.md).
+For concrete extension contracts, see [RuntimeSubsystem](projects/inno-runtime-contracts.md), [Session composition](projects/inno-runtime.md), [Shell](projects/inno-shell.md) and [Player launch](projects/inno-player-runtime.md).

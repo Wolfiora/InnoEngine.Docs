@@ -1,10 +1,13 @@
 ---
 title: Interpret product and lifetime acceptance
-description: Distinguish completed behavior, orderly process exit and retained-memory evidence.
+description: Distinguish completed behavior, orderly process exit and
+  retained-memory evidence.
 uid: contributing.product-journeys
 kind: explanation
-owners: [Inno.Tooling.Validation]
-contracts: [project.inno-tooling-validation]
+owners:
+  - Inno.Tooling.Validation
+contracts:
+  - project.inno-tooling-validation
 ---
 # Interpret product and lifetime acceptance
 

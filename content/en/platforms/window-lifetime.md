@@ -14,9 +14,9 @@ The SDL host integration supplies initialization, window creation, focus and sys
 
 | Target | Window integration | Rendering integration | Additional windows |
 | --- | --- | --- | --- |
-| Windows x64 | [SDL host](../api/projects/inno-integration-windowsx64-sdl3.md) | [Win32 surface](../api/projects/inno-integration-windowsx64-bgfx-runtime.md) | Subject to actual renderer capability |
-| macOS ARM64 | [SDL host](../api/projects/inno-integration-macosarm64-sdl3.md) | [Cocoa surface](../api/projects/inno-integration-macosarm64-bgfx-runtime.md) | Subject to actual renderer capability |
-| Browser | [SDL host](../api/projects/inno-integration-browserwasm32-sdl3.md) | [Canvas surface](../api/projects/inno-integration-browserwasm32-bgfx-runtime.md) | Not supported |
+| Windows x64 | [SDL host](../architecture/projects/inno-integration-windowsx64-sdl3.md) | [Win32 surface](../architecture/projects/inno-integration-windowsx64-bgfx-runtime.md) | Subject to actual renderer capability |
+| macOS ARM64 | [SDL host](../architecture/projects/inno-integration-macosarm64-sdl3.md) | [Cocoa surface](../architecture/projects/inno-integration-macosarm64-bgfx-runtime.md) | Subject to actual renderer capability |
+| Browser | [SDL host](../architecture/projects/inno-integration-browserwasm32-sdl3.md) | [Canvas surface](../architecture/projects/inno-integration-browserwasm32-bgfx-runtime.md) | Not supported |
 
 The desktop integrations permit primary-output sRGB reset; the Browser integration does not. A permitted capability still requires support from the selected backend and device.
 

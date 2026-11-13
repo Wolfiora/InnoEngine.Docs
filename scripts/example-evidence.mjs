@@ -42,9 +42,10 @@ export function checkExampleEvidence(catalog, receipts = []) {
       const requiredProjections = result.mode === 'editor-script' ? ['runtime-script', 'editor-script']
         : result.mode === 'runtime-script' ? ['runtime-script'] : [];
       const projectionsMatch = requiredProjections.every(model => {
-        const selected = report.apiInputs.filter(input => input.model === model && input.configuration === report.configuration);
+        const selected = report.apiInputs.filter(input => input.model === model && input.configuration === report.configuration
+          && (input.target == null || input.target === report.target));
         return selected.length > 0 && selected.every(input => report.scriptReferences.some(proof => proof.model === model
-          && proof.configuration === report.configuration && proof.identity === input.identity && proof.status === 'Passed'
+          && proof.configuration === report.configuration && (proof.target ?? null) === (input.target ?? null) && proof.identity === input.identity && proof.status === 'Passed'
           && Array.isArray(proof.differences) && proof.differences.length === 0 && hex(proof.documentationIdentity)
           && proof.projectionIdentities && Object.keys(proof.projectionIdentities).length > 0
           && Object.values(proof.projectionIdentities).every(hex)));

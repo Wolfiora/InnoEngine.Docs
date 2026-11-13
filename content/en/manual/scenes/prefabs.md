@@ -1,6 +1,7 @@
 ---
 title: Instantiate a prefab in its owning scene
-description: Create a connected instance while preserving scene and asset ownership boundaries.
+description: Create a connected instance while preserving scene and asset
+  ownership boundaries.
 uid: manual.scenes.prefabs
 kind: how-to
 owners:

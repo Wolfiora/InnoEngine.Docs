@@ -1,6 +1,7 @@
 ---
 title: Query objects through typed indexes
-description: Keep one reference-identity collection with explicit keys, snapshot reads and bounded query candidates.
+description: Keep one reference-identity collection with explicit keys, snapshot
+  reads and bounded query candidates.
 uid: manual.data.query-objects
 kind: how-to
 owners:
@@ -71,4 +72,4 @@ Keys are local to one store. Always discard them after `Clear` and reacquire new
 
 Key handles weakly refer to their store and do not extend its lifetime. Entry handles refer to objects still admitted to that store; removing and re-adding the same reference is not a persistent identity protocol. Use the engine's [identity model](../identity-and-missing.md) when references must survive reconstruction or reload.
 
-See the [Collections reference](../../api/projects/inno-core-collections.md) for all key and query interfaces.
+See the [Collections reference](../../architecture/projects/inno-core-collections.md) for all key and query interfaces.

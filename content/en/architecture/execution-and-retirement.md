@@ -1,6 +1,7 @@
 ---
 title: Execution scopes and retirement
-description: Separate revocable service access, task ownership, owner-thread pumping and dependency-safe retirement.
+description: Separate revocable service access, task ownership, owner-thread
+  pumping and dependency-safe retirement.
 uid: architecture.execution-and-retirement
 kind: explanation
 owners:

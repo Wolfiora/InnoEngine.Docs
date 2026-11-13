@@ -1,20 +1,24 @@
 ---
 title: Use the script API
-description: Choose logical script namespaces, recognize API scopes and diagnose missing or hidden members.
+description: Choose logical script namespaces, recognize API scopes and diagnose
+  missing or hidden members.
 uid: manual.scripting.use-script-api
 kind: how-to
-owners: [Inno.Scripting.Api, Inno.Scene]
+owners:
+  - Inno.Scripting.Api
+  - Inno.Scene
 contracts:
   - project.inno-scripting-api
   - project.inno-scene#lifecycle-and-recovery-contract
 exampleMode: runtime-script
-exampleProjects: [Inno.Scene]
+exampleProjects:
+  - Inno.Scene
 ---
 # Use the script API
 
 Project scripts use logical names such as `InnoEngine.Scene`, rather than the host's implementation namespaces. The selected script surface determines what you can call; a public C# declaration in an engine assembly is not automatically a game API.
 
-Browse the [Runtime script reference](../../api/runtime-script/index.md) or [Editor script reference](../../api/editor-script/index.md) for exact logical names, signatures and associated module contracts. These references come from compiler-produced assemblies; the host reference remains a separate surface.
+Browse the [Runtime script reference](../../api/scripting/runtime/index.md) or [Editor script reference](../../api/scripting/editor/index.md) for exact logical names, signatures and associated module contracts. These references come from compiler-produced assemblies; the host reference remains a separate surface.
 
 ## Start with the generated project
 
@@ -50,6 +54,8 @@ The facade exposes only selected types and members. A missing member may deliber
 Imports are file-local. Do not inject global/implicit usings through generated projects, MSBuild items or plugin metadata. A logical namespace can collect types from several actual namespaces; the compiler performs the declared mapping for each file.
 
 ## Understand runtime identity
+
+Keep the containing owner and generation alive while using borrowed objects. Logical names do not change resource ownership, threading or retirement obligations. Read the type's associated module contracts before relying on a member.
 
 IDE facade types exist only to model the available source API. Runtime compilation checks the same trimmed contract, then emits references to the original engine CLR types. Scene state, type catalogs and serialization therefore observe actual engine identities, not facade copies.
 

@@ -21,6 +21,6 @@ A scene groups live objects and scene-level systems inside one runtime world. Ob
 
 ## Host and Editor integration
 
-[Scene ownership and reload](../../architecture/scene-lifecycle.md) explains the underlying model. [Capture the smallest scene state](../../extending/scene-state.md) covers persistence and History infrastructure. The [project reference](../../api/projects/inno-scene.md) contains exact CLR contracts; game-script namespaces and host-only operations are identified separately.
+[Scene ownership and reload](../../architecture/scene-lifecycle.md) explains the underlying model. [Capture the smallest scene state](../../extending/scene-state.md) covers persistence and History infrastructure. The [project reference](../../architecture/projects/inno-scene.md) contains exact CLR contracts; game-script namespaces and host-only operations are identified separately.
 
 Scene-level systems can support features supplied by an extension. The presence of layers, queries or a GameSystem base is not a claim that a physics, navigation or networking implementation ships with the engine.

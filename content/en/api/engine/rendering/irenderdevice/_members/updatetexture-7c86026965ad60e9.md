@@ -1,0 +1,20 @@
+---
+uid: api.7c86026965ad60e9011e4bf76d0850ee8cdf16de8e0727375522f008799246e7
+symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.UpdateTexture(Inno.Rendering.PersistentTextureHandle,System.ReadOnlySpan{System.Byte},System.Int32,System.Int32)"
+source: xml
+reviewed: dc9f9e577efb85414c7267f22f178b751acfc823ee46f2812120fed5872778ac
+title: "UpdateTexture"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Replaces one complete mip and addressable layer, slice, or cubemap face.
+
+**Parameter `texture`:** Texture owned by this device generation.
+
+**Parameter `data`:** Tightly packed complete subresource bytes.
+
+**Parameter `mipLevel`:** Zero-based mip level.
+
+**Parameter `arrayLayer`:** Zero-based 2D array layer, 3D Z slice, or flattened cubemap face using cube-layer \* 6 + face.

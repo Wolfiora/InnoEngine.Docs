@@ -1,6 +1,7 @@
 ---
 title: Save and restore declared state
-description: Choose persistent members, borrow the owning registry and restore through the current serialization contract.
+description: Choose persistent members, borrow the owning registry and restore
+  through the current serialization contract.
 uid: manual.serialization.save-state
 kind: how-to
 owners:
@@ -115,4 +116,4 @@ The registry binds its own type catalog, registry and metadata provider while re
 | A cycle is detected | Use an explicit identity/reference converter and owner context instead of recursively embedding the same live object. |
 | Invalid binary data | Correct current format, complete bytes and the matching declared contract; do not add implicit schema fallback. |
 
-Continue with [custom converters](../../extending/serialization-converters.md), [snapshot reuse](capture-snapshots.md) and the [exact API reference](../../api/types/core-serialization/index.md).
+Continue with [custom converters](../../extending/serialization-converters.md), [snapshot reuse](capture-snapshots.md) and the [exact API reference](../../api/engine/core/serialization/index.md).

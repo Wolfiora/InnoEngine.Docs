@@ -1,12 +1,17 @@
 ---
 exampleMode: host
-exampleProjects: [Inno.Editor.Interactions]
+exampleProjects:
+  - Inno.Editor.Interactions
 title: Record undoable Editor changes
-description: Record neutral domain changes, compensate failed transactions and respect History resource ownership.
+description: Record neutral domain changes, compensate failed transactions and
+  respect History resource ownership.
 uid: extending.editor-history
 kind: how-to
-owners: [Inno.Editor.Interactions]
-contracts: [architecture.editor-generations, manual.identity-and-missing]
+owners:
+  - Inno.Editor.Interactions
+contracts:
+  - architecture.editor-generations
+  - manual.identity-and-missing
 ---
 # Record undoable Editor changes
 

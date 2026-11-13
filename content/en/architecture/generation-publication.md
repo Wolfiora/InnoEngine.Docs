@@ -1,6 +1,7 @@
 ---
 title: Generation publication and unload verification
-description: Understand shared admission, reversible publication, irreversible cleanup and weak unload evidence.
+description: Understand shared admission, reversible publication, irreversible
+  cleanup and weak unload evidence.
 uid: architecture.generation-publication
 kind: explanation
 owners:

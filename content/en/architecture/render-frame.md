@@ -41,4 +41,4 @@ Device resources, runtime generations and window handles retire under their resp
 
 Missing content, corrupt artifacts and insufficient device capabilities need different remedies. A failed candidate preserves last-good state. Ordinary graph-extension errors can roll back their scope, but Pending retirement and faulted owner state cannot be converted into a warning and continued release.
 
-See [graph API](../api/projects/inno-rendering.md), [Rendering Runtime](../api/projects/inno-rendering-runtime.md) and [frame contribution](../extending/render-frame.md) for exact requests, resource contracts and extension points.
+See [graph API](projects/inno-rendering.md), [Rendering Runtime](projects/inno-rendering-runtime.md) and [frame contribution](../extending/render-frame.md) for exact requests, resource contracts and extension points.

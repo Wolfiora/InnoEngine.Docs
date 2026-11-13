@@ -1,10 +1,13 @@
 ---
 title: Adjust Editor scale, icons and pacing
-description: Distinguish applied preferences from temporary project zoom and device presentation limits.
+description: Distinguish applied preferences from temporary project zoom and
+  device presentation limits.
 uid: manual.editor.appearance
 kind: how-to
-owners: [Inno.Editor.Workbench]
-contracts: [project.inno-editor-workbench]
+owners:
+  - Inno.Editor.Workbench
+contracts:
+  - project.inno-editor-workbench
 ---
 # Adjust Editor scale, icons and pacing
 

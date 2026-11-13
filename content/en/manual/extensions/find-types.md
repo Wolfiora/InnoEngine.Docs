@@ -1,6 +1,7 @@
 ---
 title: Find extension types without retaining old generations
-description: Query the current type catalog, persist stable references and scope access to live CLR declarations.
+description: Query the current type catalog, persist stable references and scope
+  access to live CLR declarations.
 uid: manual.extensions.find-types
 kind: how-to
 owners:
@@ -87,4 +88,4 @@ Choose one persistent identity for one semantic declaration. Invalid or duplicat
 
 New CLR declarations receive new runtime IDs, including replacement types in a new collectible context. IDs allocated to failed candidates are not recycled. Persist the stable reference rather than a bare runtime integer.
 
-See [the type reference](../../api/projects/inno-extensibility-types.md) for exact members, and [extension registries](../../extending/type-registries.md) to turn discovered types into owned instances.
+See [the type reference](../../architecture/projects/inno-extensibility-types.md) for exact members, and [extension registries](../../extending/type-registries.md) to turn discovered types into owned instances.

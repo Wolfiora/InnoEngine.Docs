@@ -105,7 +105,7 @@ docs status --engine-root <workspace> --cache-root <prepared-cache> \
   --evidence-sha256 <independently-trusted-sha256>
 ```
 
-Do not obtain the trusted digest merely by hashing an arbitrary downloaded certificate: that checks consistency, not producer authenticity. Use the restricted evidence workflow or a locally reconciled producer you explicitly trust.
+Do not obtain the trusted digest merely by hashing an arbitrary downloaded certificate: that checks consistency, not producer authenticity. Use an authenticated producer or locally reconciled evidence you explicitly trust. This optional source-verification attachment is not a website publication prerequisite; the retired cross-repository certification callback is not part of the draft/main flow.
 
 Verified results include `sourceEvidenceIdentity`. The certificate does not change page identities, rewrite the index or certify a mutable checkout. It can apply to a prose-only snapshot with the same source tree, project inventory and API references. A search result remains an excerpt, and required ownership contracts still need their explicit continuation reads. Source API verification also does not prove native execution, device behavior or semantic completeness of prose.
 
@@ -136,7 +136,7 @@ The adapter requires a clean, exactly selected tooling checkout. It creates a ma
 
 The generated catalog is disposable. Refresh it after content changes; do not hand-edit its identities or add a second authored page inventory. Projection checks compare the exact file set, content hashes, navigation and rendered anchors with canonical facts.
 
-Available-page checks and complete publication acceptance are distinct. Add `--complete --source-evidence <certificate>` to require every actual project entry, matching source API evidence and authenticated compilation receipts for all executable examples. The certificate must be the exact file selected by the protected evidence import. Missing coverage, changed example inputs or an `Unverified` API state fails that check; a successful preview build does not override the failure. Pure prose changes can retain example evidence when the code blocks, API surface, reference projects and certified engine inputs are unchanged.
+Complete publication acceptance uses `--complete` and, when executable examples exist, `--example-manifest reference/examples/manifest.json`. The manifest identifies exact compilation reports and SHA-256 digests. Reports must come from trusted preparation and match selected API inputs, tooling, example code and reference context. Missing or changed evidence blocks publication. Prose changes can reuse matching compilation evidence. Publication does not require a full-engine certificate, the latest engine master revision, or manual API editorial completion.
 
 ## Export source facts explicitly
 
@@ -165,8 +165,7 @@ dotnet entry/InnoEngine.Build/bin/Debug/net10.0/InnoEngine.Build.dll docs export
   --surface runtime-script \
   --framework-project src/foundation/core/Inno.Core.Identity/Inno.Core.Identity.csproj \
   --runtime-reference /prepared/IDE/Inno.ScriptApi.Runtime.dll \
-  --source-reference /work/InnoEngine.Docs/reference/api/core-identity.json \
-  --source-reference /work/InnoEngine.Docs/reference/api/scene.json \
+  --source-reference /work/InnoEngine.Docs/reference/api/host.json \
   --output /work/InnoEngine/artifacts/reference/runtime-script.json
 ```
 
@@ -176,25 +175,22 @@ For the Editor surface, use `--surface editor-script` and add `--editor-referenc
 
 These preparation commands do not run during a query. After publishing the new pages into a snapshot, resolve logical symbols with `docs symbol --surface runtime-script` or `--surface editor-script`; source CLR lookups remain independently qualified.
 
-## Maintain generated reference pages
+## Maintain symbol-owned reference content
 
-Write the project's explanation and shared use contracts first. Bind the extracted facts in `reference/engine.lock.json`, declare their actual surface in the derived project manifest, and refresh the canonical catalog. The reference writer requires those exact inputs; it never selects a project by its page title.
+Engine master export produces a complete package from actual eligible C# owners and real script projections. Protected automation imports it into Docs draft. Ordinary authors maintain the Manual separately and edit API prose only after explicitly selecting `source: manual` for the individual type or member.
 
-Select engine-owned APIs. Backend-native projects and generated bindings are excluded from member documentation through the existing project inventory's `apiDocumentation` scope. Their engine integration overviews remain useful, but do not capture third-party ABI manifests or generate raw-binding examples for this site.
+For an explicitly prepared authoring checkout, the shared tooling supports:
 
-```powershell
-./scripts/Update-ApiReference.ps1 `
-  -Facts reference/api/core-models.json `
-  -Project Inno.Core.Input `
-  -Contract 'project.inno-core-input#input-value-contract' `
-  -OutputDirectory content/en/api/types/core-input `
-  -OwnershipManifest reference/provenance/core-input-pages.json
+```sh
+docs api-plan --docs-root /work/InnoEngine.Docs
+docs api-sync --docs-root /work/InnoEngine.Docs
+docs api-check --docs-root /work/InnoEngine.Docs
 ```
 
-This authoring operation reads bound JSON and source XML locally. It does not extract APIs, restore packages, invoke an SDK, build a product or contact the network. It refuses to overwrite a handwritten page or a generated page containing an unreviewed edit. Its ownership manifest records the exact generated files and imported XML-link provenance. Keep tutorials and cross-member explanations outside those owned files.
+These commands consume the bound facts; they do not extract source, build products or contact the network. Synchronization updates only registered API fragments and derived navigation. It preserves manual prose, updates declarations independently and reports removed or changed contracts for review. The complete type and its member fragments are composed identically for website and query readers.
 
-Small types keep declarations and member details together. Large types link to complete overload families; enum values remain together as one declared value set. Group names are navigation, not another API-surface classification. Each exact symbol has one destination. A member page retains its containing type and shared contracts as explicit query relationships. Shrinking a type retires only unchanged files owned by that same generation scope.
+All backend, extern, test/fixture and non-C# APIs are excluded. Their useful engine integration and validation guides remain independent. Engine APIs follow the actual project tree; script APIs follow declared Runtime, Editor and Authoring Scope. Compilation availability is a separate fact, so Runtime APIs available to Editor scripts share one authored body.
 
-Selected engine members without XML are rejected. Unsupported XML constructs also fail explicitly; extend the renderer with preservation tests instead of discarding their content. A shared-use contract does not supply missing member semantics or prove API quality.
+Use `docs symbol --scope Runtime` with an exact symbol ID to select a declared Scope; `--surface runtime-script` selects a compilation surface instead. [API documentation ownership](api-documentation.md) explains manual takeover, removal and the non-blocking editorial report.
 
-XML prose retains lists and fenced examples. Reviewed upstream-relative links have explicit HTTPS destinations. After generation, refresh the canonical catalog and run reference, link, rendered-anchor and source-evidence checks before publication. If preparation fails, the previous immutable query snapshot remains selected; do not describe it as the current mutable checkout.
+After changes, refresh the canonical catalog and run content, reference and website checks. If preparation fails, the previous immutable query snapshot remains selected; do not describe it as the current mutable checkout.

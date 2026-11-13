@@ -22,10 +22,10 @@ InnoEngine provides rendering mechanisms and extension boundaries. It does not a
 
 | Layer | Responsibility |
 | --- | --- |
-| [Rendering Core](../../api/projects/inno-rendering.md) | Device capabilities, resources, commands and RenderGraph relationships. |
-| [Runtime assets](../../api/projects/inno-rendering-assets.md) | Persistent neutral Shader, Material, Texture, Geometry and Pipeline data. |
-| [Rendering Runtime](../../api/projects/inno-rendering-runtime.md) | Output requests, model generations, GPU caches and retirement. |
-| [Asset authoring](../../api/projects/inno-rendering-assets-authoring.md) | Imports, source freezing, target candidates and last-good publication. |
-| [Shader mechanisms](../../api/projects/inno-rendering-shaders.md) | Function analysis, graph lowering and typed stage/region IR. |
+| [Rendering Core](../../architecture/projects/inno-rendering.md) | Device capabilities, resources, commands and RenderGraph relationships. |
+| [Runtime assets](../../architecture/projects/inno-rendering-assets.md) | Persistent neutral Shader, Material, Texture, Geometry and Pipeline data. |
+| [Rendering Runtime](../../architecture/projects/inno-rendering-runtime.md) | Output requests, model generations, GPU caches and retirement. |
+| [Asset authoring](../../architecture/projects/inno-rendering-assets-authoring.md) | Imports, source freezing, target candidates and last-good publication. |
+| [Shader mechanisms](../../architecture/projects/inno-rendering-shaders.md) | Function analysis, graph lowering and typed stage/region IR. |
 
 Runtime consumes compiled artifacts; it does not interpret graph documents or compile authoring sources during a frame. Product composition selects a backend and platform integration explicitly. Read [render-frame ownership](../../architecture/render-frame.md) before retaining resources or callbacks across frames and reloads.

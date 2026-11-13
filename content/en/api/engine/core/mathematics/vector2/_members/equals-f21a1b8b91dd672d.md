@@ -1,0 +1,16 @@
+---
+uid: api.f21a1b8b91dd672da69c66ddcd8870188c2e76aa2f6b495bd9b0ca13b60db9e3
+symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.Equals(System.Object)"
+source: xml
+reviewed: 01d026378eab440b0dd1feec290fa26b03d08c6f9eded42a2d5f6b293c8745f7
+title: "Equals"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: source-clr
+---
+
+Determines whether this value and the supplied value represent the same logical state.
+
+**Parameter `obj`:** The object compared with this value.
+
+**Returns:** `true` when the requested condition is satisfied; otherwise, `false`.
