@@ -41,7 +41,7 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [IGenerationChange](igenerationchange/index.md)
 
-## IGenerationPublication
+## IGenerationPublication&lt;TProbe&gt;
 
-- [IGenerationPublication](igenerationpublication/index.md)
+- [IGenerationPublication&lt;TProbe&gt;](igenerationpublication/index.md)
 

@@ -3,7 +3,7 @@ uid: api.inno.editor.interactions.editor-script.6ee41d1a4efbf482
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDrop\u00602"
 source: xml
 reviewed: c4baee41bdc07d75ebfcfb5bf3a8ad638925424cac80c94a56e0831ac372dfa0
-title: "EditorDrop"
+title: "EditorDrop\u003CTSource, TTarget\u003E"
 kind: api
 owners: [Inno.Editor.Interactions]
 apiSurface: editor-script

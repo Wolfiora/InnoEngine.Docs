@@ -65,9 +65,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [AssetInfo](assetinfo/index.md)
 
-## AssetLease
+## AssetLease&lt;TAsset&gt;
 
-- [AssetLease](assetlease/index.md)
+- [AssetLease&lt;TAsset&gt;](assetlease/index.md)
 
 ## AssetObject
 

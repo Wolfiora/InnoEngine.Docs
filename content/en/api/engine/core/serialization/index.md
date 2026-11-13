@@ -55,11 +55,11 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## SerializationConverter
 
-- [Inno.Core.Serialization.Converters.SerializationConverter](serializationconverter-54912c4c6d23/index.md)
+- [SerializationConverter](serializationconverter-54912c4c6d23/index.md)
 
-## SerializationConverter
+## SerializationConverter&lt;T&gt;
 
-- [Inno.Core.Serialization.Converters.SerializationConverter1](serializationconverter-ae9c0f58e217/index.md)
+- [SerializationConverter&lt;T&gt;](serializationconverter-ae9c0f58e217/index.md)
 
 ## SerializationGeneration
 

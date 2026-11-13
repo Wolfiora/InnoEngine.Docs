@@ -31,19 +31,19 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## ProjectSettingComposer
 
-- [Inno.Core.Settings.ProjectSettingComposer](projectsettingcomposer-8c4ac2683bcf/index.md)
+- [ProjectSettingComposer](projectsettingcomposer-8c4ac2683bcf/index.md)
 
-## ProjectSettingComposer
+## ProjectSettingComposer&lt;TSetting, TContribution&gt;
 
-- [Inno.Core.Settings.ProjectSettingComposer2](projectsettingcomposer-f08c4ee26fcd/index.md)
+- [ProjectSettingComposer&lt;TSetting, TContribution&gt;](projectsettingcomposer-f08c4ee26fcd/index.md)
 
 ## ProjectSettingComposerAttribute
 
 - [ProjectSettingComposerAttribute](projectsettingcomposerattribute/index.md)
 
-## ProjectSettingContribution
+## ProjectSettingContribution&lt;TContribution&gt;
 
-- [ProjectSettingContribution](projectsettingcontribution/index.md)
+- [ProjectSettingContribution&lt;TContribution&gt;](projectsettingcontribution/index.md)
 
 ## ProjectSettingContributionContext
 
@@ -89,9 +89,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [Settings](settings/index.md)
 
-## SettingsDocumentStore
+## SettingsDocumentStore&lt;TDocument&gt;
 
-- [SettingsDocumentStore](settingsdocumentstore/index.md)
+- [SettingsDocumentStore&lt;TDocument&gt;](settingsdocumentstore/index.md)
 
 ## SettingsFileNames
 

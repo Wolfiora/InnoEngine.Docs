@@ -37,7 +37,7 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [TypeRef](typeref/index.md)
 
-## TypeRegistry
+## TypeRegistry&lt;TSnapshot&gt;
 
-- [TypeRegistry](typeregistry/index.md)
+- [TypeRegistry&lt;TSnapshot&gt;](typeregistry/index.md)
 

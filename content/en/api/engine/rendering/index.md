@@ -245,9 +245,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [RenderPassContext](renderpasscontext/index.md)
 
-## RenderPassExecute
+## RenderPassExecute&lt;TPassData&gt;
 
-- [RenderPassExecute](renderpassexecute/index.md)
+- [RenderPassExecute&lt;TPassData&gt;](renderpassexecute/index.md)
 
 ## RenderPassKind
 

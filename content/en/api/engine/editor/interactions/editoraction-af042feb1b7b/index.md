@@ -3,7 +3,7 @@ uid: api.inno.editor.interactions.2c8417110b03bd5e
 symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorAction\u00602"
 source: xml
 reviewed: 60793d98fd246486730d432e31223d559ee5ecc4811e42ac922f10582f12d689
-title: "EditorAction"
+title: "EditorAction\u003CTTarget, TArgument\u003E"
 kind: api
 owners: [Inno.Editor.Interactions]
 apiSurface: source-clr

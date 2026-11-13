@@ -9,9 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## ExecutionSlot
+## ExecutionSlot&lt;TValue&gt;
 
-- [ExecutionSlot](executionslot/index.md)
+- [ExecutionSlot&lt;TValue&gt;](executionslot/index.md)
 
 ## LifetimeScope
 

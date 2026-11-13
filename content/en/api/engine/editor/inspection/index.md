@@ -13,9 +13,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [IInspectionDrawer](iinspectiondrawer/index.md)
 
-## IInspectionIconProvider
+## IInspectionIconProvider&lt;TTarget&gt;
 
-- [IInspectionIconProvider](iinspectioniconprovider/index.md)
+- [IInspectionIconProvider&lt;TTarget&gt;](iinspectioniconprovider/index.md)
 
 ## IInspectionPropertyEditService
 
@@ -29,9 +29,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [InspectionDrawContext](inspectiondrawcontext/index.md)
 
-## InspectionDrawer
+## InspectionDrawer&lt;TTarget&gt;
 
-- [InspectionDrawer](inspectiondrawer/index.md)
+- [InspectionDrawer&lt;TTarget&gt;](inspectiondrawer/index.md)
 
 ## InspectionDrawerAttribute
 

@@ -12,6 +12,7 @@ const journeys = [
   ['api/engine/scene/gameobject/', 'GameObject'],
   ['api/scripting/runtime/scenemanager/', 'SceneManager'],
   ['api/scripting/editor/editorstate/', 'EditorState'],
+  ['api/scripting/editor/editoraction-59a990be6ea3/', 'EditorAction<TTarget, TArgument>'],
 ] as const;
 
 for (const theme of ['light', 'dark'] as const) {
@@ -36,6 +37,18 @@ for (const theme of ['light', 'dark'] as const) {
     });
   }
 }
+
+test('generic type navigation preserves parameter names and existing deep links', async ({ page }) => {
+  await page.goto('api/scripting/editor/');
+  const main = page.getByRole('main');
+  await expect(main.getByRole('link', { name: 'EditorAction', exact: true })).toHaveCount(1);
+  await expect(main.getByRole('link', { name: 'EditorAction<TTarget>', exact: true })).toHaveCount(1);
+  const generic = main.getByRole('link', { name: 'EditorAction<TTarget, TArgument>', exact: true });
+  await expect(generic).toHaveAttribute('href', /editoraction-59a990be6ea3/);
+  await generic.click();
+  await expect(page.locator('h1')).toHaveText('EditorAction<TTarget, TArgument>');
+  await expect(page).toHaveTitle('EditorAction<TTarget, TArgument> | InnoEngine');
+});
 
 test('keyboard search reaches a task and handles empty results', async ({ page }) => {
   await page.goto('./');

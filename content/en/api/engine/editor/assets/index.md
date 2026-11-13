@@ -23,15 +23,15 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## AssetCreationTemplate
 
-- [Inno.Editor.Assets.AssetCreationTemplate](assetcreationtemplate-f18e701bd7f6/index.md)
+- [AssetCreationTemplate](assetcreationtemplate-f18e701bd7f6/index.md)
 
-## AssetCreationTemplate
+## AssetCreationTemplate&lt;TAsset&gt;
 
-- [Inno.Editor.Assets.AssetCreationTemplate1](assetcreationtemplate-a331d599ec6b/index.md)
+- [AssetCreationTemplate&lt;TAsset&gt;](assetcreationtemplate-a331d599ec6b/index.md)
 
-## AssetDraftDocuments
+## AssetDraftDocuments&lt;TAsset&gt;
 
-- [AssetDraftDocuments](assetdraftdocuments/index.md)
+- [AssetDraftDocuments&lt;TAsset&gt;](assetdraftdocuments/index.md)
 
 ## AssetEditingModule
 

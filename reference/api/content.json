@@ -5472,7 +5472,7 @@
       "symbol": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildContext\u00601",
       "path": "content/en/api/engine/assets/pipeline/assetbuildcontext/index.md",
       "type": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildContext\u00601",
-      "title": "AssetBuildContext",
+      "title": "AssetBuildContext\u003CTDefinition\u003E",
       "contract": "38a2e4b09702e71b47f8fd368f4ece9a2d9605ebe11e3097c9d54e9614c7a80a"
     },
     {
@@ -5493,7 +5493,7 @@
       "symbol": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildProcessor\u00601",
       "path": "content/en/api/engine/assets/pipeline/assetbuildprocessor-c95d221fcd2d/index.md",
       "type": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetBuildProcessor\u00601",
-      "title": "AssetBuildProcessor",
+      "title": "AssetBuildProcessor\u003CTDefinition\u003E",
       "contract": "c9546017072bb055fb753eb2fccfc365733d2c53c803036b21f00d01582e2339"
     },
     {
@@ -5584,7 +5584,7 @@
       "symbol": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportWriter\u00601",
       "path": "content/en/api/engine/assets/pipeline/assetimportwriter/index.md",
       "type": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportWriter\u00601",
-      "title": "AssetImportWriter",
+      "title": "AssetImportWriter\u003CTAsset\u003E",
       "contract": "fca94c40c2cc341cff997ac233076d77fca8c2a378e795ae1b975e5bf3c97f54"
     },
     {
@@ -5605,7 +5605,7 @@
       "symbol": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImporter\u00601",
       "path": "content/en/api/engine/assets/pipeline/assetimporter-2a9d6c3a467c/index.md",
       "type": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImporter\u00601",
-      "title": "AssetImporter",
+      "title": "AssetImporter\u003CTAsset\u003E",
       "contract": "09bb1fedca1b2192bde77a583ca2a4b8e77a6cb8110e48b389f696184d84f18b"
     },
     {
@@ -7320,7 +7320,7 @@
       "symbol": "engine:Inno.Assets:T:Inno.Assets.AssetLease\u00601",
       "path": "content/en/api/engine/assets/assetlease/index.md",
       "type": "engine:Inno.Assets:T:Inno.Assets.AssetLease\u00601",
-      "title": "AssetLease",
+      "title": "AssetLease\u003CTAsset\u003E",
       "contract": "e38b4ddf8d7eb8e22834f7475c50fc7cdb445368bcb0b93c8e3902f7a01f683f"
     },
     {
@@ -18520,28 +18520,28 @@
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.DependencyGraph\u00601",
       "path": "content/en/api/engine/core/collections/dependencygraph/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.DependencyGraph\u00601",
-      "title": "DependencyGraph",
+      "title": "DependencyGraph\u003CTKey\u003E",
       "contract": "5d5c1576bbd46f34699b62c184d248d741a7482343b509e1230571c7fa6764aa"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IIndexedObjectQueryCondition\u00601",
       "path": "content/en/api/engine/core/collections/iindexedobjectquerycondition/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IIndexedObjectQueryCondition\u00601",
-      "title": "IIndexedObjectQueryCondition",
+      "title": "IIndexedObjectQueryCondition\u003CT\u003E",
       "contract": "6220b7278c273f4821b0f89a756f7044a80c4b0f4eaa665aa85d5f6431571e77"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectEntry\u00601",
       "path": "content/en/api/engine/core/collections/indexedobjectentry/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectEntry\u00601",
-      "title": "IndexedObjectEntry",
+      "title": "IndexedObjectEntry\u003CT\u003E",
       "contract": "1e97577e96306a134647806f1ad940a6d95e11b0ef1c983ee2720fb84ad756e1"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKeyCondition\u00602",
       "path": "content/en/api/engine/core/collections/indexedobjectkeycondition/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKeyCondition\u00602",
-      "title": "IndexedObjectKeyCondition",
+      "title": "IndexedObjectKeyCondition\u003CT, TKey\u003E",
       "contract": "31eed2301377f655c643d3e591a62e25359c8ae7b4e65161eb34c3d887df5b74"
     },
     {
@@ -18555,28 +18555,28 @@
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKey\u00601",
       "path": "content/en/api/engine/core/collections/indexedobjectkey/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKey\u00601",
-      "title": "IndexedObjectKey",
+      "title": "IndexedObjectKey\u003CTKey\u003E",
       "contract": "c5afe6cb08ac0e570918d99cf06ee89aee02bc7439bdab20f75d37e3f558ac14"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectPredicateCondition\u00601",
       "path": "content/en/api/engine/core/collections/indexedobjectpredicatecondition/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectPredicateCondition\u00601",
-      "title": "IndexedObjectPredicateCondition",
+      "title": "IndexedObjectPredicateCondition\u003CT\u003E",
       "contract": "2340c914062745730acb9c82c87536dbb940c30025e211401a5bc095665b2126"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectQuery\u00601",
       "path": "content/en/api/engine/core/collections/indexedobjectquery/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectQuery\u00601",
-      "title": "IndexedObjectQuery",
+      "title": "IndexedObjectQuery\u003CT\u003E",
       "contract": "098a1ac1903841e23381bfd20e19f4b556796fe9ee75ca531ccdaa86fd482aa3"
     },
     {
       "symbol": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectStore\u00601",
       "path": "content/en/api/engine/core/collections/indexedobjectstore/index.md",
       "type": "engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectStore\u00601",
-      "title": "IndexedObjectStore",
+      "title": "IndexedObjectStore\u003CT\u003E",
       "contract": "47410d7c4bc706f5e7aa66fb0876c256f1fda596872c29d0beccf94941c56ca7"
     },
     {
@@ -19976,7 +19976,7 @@
       "symbol": "engine:Inno.Core.Execution:T:Inno.Core.Execution.ExecutionSlot\u00601",
       "path": "content/en/api/engine/core/execution/executionslot/index.md",
       "type": "engine:Inno.Core.Execution:T:Inno.Core.Execution.ExecutionSlot\u00601",
-      "title": "ExecutionSlot",
+      "title": "ExecutionSlot\u003CTValue\u003E",
       "contract": "099bf1c4836b2174451ccb7cc23d91619648779e23ff384c66e8cddd729334d1"
     },
     {
@@ -27312,7 +27312,7 @@
       "symbol": "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.Converters.SerializationConverter\u00601",
       "path": "content/en/api/engine/core/serialization/serializationconverter-ae9c0f58e217/index.md",
       "type": "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.Converters.SerializationConverter\u00601",
-      "title": "SerializationConverter",
+      "title": "SerializationConverter\u003CT\u003E",
       "contract": "d711fc8c1e07ac5e15ee8bb157e92ac845d09d7b38a7d3bc77993d578df04c25"
     },
     {
@@ -28488,7 +28488,7 @@
       "symbol": "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingComposer\u00602",
       "path": "content/en/api/engine/core/settings/projectsettingcomposer-f08c4ee26fcd/index.md",
       "type": "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingComposer\u00602",
-      "title": "ProjectSettingComposer",
+      "title": "ProjectSettingComposer\u003CTSetting, TContribution\u003E",
       "contract": "b2400dcb80aca665b0466a9866705efa5a2fe13a133c3067c93511c5a902c2c2"
     },
     {
@@ -28509,7 +28509,7 @@
       "symbol": "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingContribution\u00601",
       "path": "content/en/api/engine/core/settings/projectsettingcontribution/index.md",
       "type": "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingContribution\u00601",
-      "title": "ProjectSettingContribution",
+      "title": "ProjectSettingContribution\u003CTContribution\u003E",
       "contract": "033517d9a5c7153e1fc933238d4fb563956c1fb1cdbeb7f4e22df82587adf66a"
     },
     {
@@ -28579,7 +28579,7 @@
       "symbol": "engine:Inno.Core.Settings:T:Inno.Core.Settings.SettingsDocumentStore\u00601",
       "path": "content/en/api/engine/core/settings/settingsdocumentstore/index.md",
       "type": "engine:Inno.Core.Settings:T:Inno.Core.Settings.SettingsDocumentStore\u00601",
-      "title": "SettingsDocumentStore",
+      "title": "SettingsDocumentStore\u003CTDocument\u003E",
       "contract": "23725cea5458e10b0ec4d68d5c357f31a67e61620597365cf60b7d6a724edd72"
     },
     {
@@ -30266,14 +30266,14 @@
       "symbol": "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetCreationTemplate\u00601",
       "path": "content/en/api/engine/editor/assets/assetcreationtemplate-a331d599ec6b/index.md",
       "type": "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetCreationTemplate\u00601",
-      "title": "AssetCreationTemplate",
+      "title": "AssetCreationTemplate\u003CTAsset\u003E",
       "contract": "3a680c9922296238756f3dd56a3ce258614793e7ee95729cbf4cd11cc0b154cd"
     },
     {
       "symbol": "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetDraftDocuments\u00601",
       "path": "content/en/api/engine/editor/assets/assetdraftdocuments/index.md",
       "type": "engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetDraftDocuments\u00601",
-      "title": "AssetDraftDocuments",
+      "title": "AssetDraftDocuments\u003CTAsset\u003E",
       "contract": "3f05a9bf621ab1d6e9e6ff99feb9b07c5710e164903f040cbd529873dbd2025b"
     },
     {
@@ -42299,7 +42299,7 @@
       "symbol": "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.IInspectionIconProvider\u00601",
       "path": "content/en/api/engine/editor/inspection/iinspectioniconprovider/index.md",
       "type": "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.IInspectionIconProvider\u00601",
-      "title": "IInspectionIconProvider",
+      "title": "IInspectionIconProvider\u003CTTarget\u003E",
       "contract": "3e13d292fabb353468dfe93b13bf4c943cc33f189d6c9664ae14f800607d8dea"
     },
     {
@@ -42355,7 +42355,7 @@
       "symbol": "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawer\u00601",
       "path": "content/en/api/engine/editor/inspection/inspectiondrawer/index.md",
       "type": "engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawer\u00601",
-      "title": "InspectionDrawer",
+      "title": "InspectionDrawer\u003CTTarget\u003E",
       "contract": "ece0bb4c97606a044b5c588cdebd3c9065381fd1e6a8395a472a02e63243b7c4"
     },
     {
@@ -45806,7 +45806,7 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionArgumentContext\u00601",
       "path": "content/en/api/engine/editor/interactions/editoractionargumentcontext/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionArgumentContext\u00601",
-      "title": "EditorActionArgumentContext",
+      "title": "EditorActionArgumentContext\u003CTArgument\u003E",
       "contract": "6d6b1033608f341a4a43cacdd370f9f09a2502d7b4ed65cf500eb25ed4e5eecc"
     },
     {
@@ -45827,14 +45827,14 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionContext\u00601",
       "path": "content/en/api/engine/editor/interactions/editoractioncontext-c0be094fdb90/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionContext\u00601",
-      "title": "EditorActionContext",
+      "title": "EditorActionContext\u003CTTarget\u003E",
       "contract": "001fcfaffe968ed67fdd5ca893eb72b785a447dca1c399c64ce890d256767a56"
     },
     {
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionContext\u00602",
       "path": "content/en/api/engine/editor/interactions/editoractioncontext-319d0756ee41/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionContext\u00602",
-      "title": "EditorActionContext",
+      "title": "EditorActionContext\u003CTTarget, TArgument\u003E",
       "contract": "3cb38a32afa0bd054659f52009d3148f02c85d769bcc3465f5e54fcf5f231140"
     },
     {
@@ -45848,21 +45848,21 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorAction\u00601",
       "path": "content/en/api/engine/editor/interactions/editoraction-312d1316a897/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorAction\u00601",
-      "title": "EditorAction",
+      "title": "EditorAction\u003CTTarget\u003E",
       "contract": "2c8a8c7760e88ba2f01aa055e9cdb1ec649021b2b1729142de41162bf01d4917"
     },
     {
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorAction\u00602",
       "path": "content/en/api/engine/editor/interactions/editoraction-af042feb1b7b/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorAction\u00602",
-      "title": "EditorAction",
+      "title": "EditorAction\u003CTTarget, TArgument\u003E",
       "contract": "60793d98fd246486730d432e31223d559ee5ecc4811e42ac922f10582f12d689"
     },
     {
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorArgumentAction\u00601",
       "path": "content/en/api/engine/editor/interactions/editorargumentaction/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorArgumentAction\u00601",
-      "title": "EditorArgumentAction",
+      "title": "EditorArgumentAction\u003CTArgument\u003E",
       "contract": "96332c65aba4c9b9e2d005199fdfba01259d6390b53c4bb6ef1fbd657ecdc803"
     },
     {
@@ -45925,7 +45925,7 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDropContext\u00602",
       "path": "content/en/api/engine/editor/interactions/editordropcontext-4dfea841fa64/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDropContext\u00602",
-      "title": "EditorDropContext",
+      "title": "EditorDropContext\u003CTSource, TTarget\u003E",
       "contract": "1a100108a69467cf82afc8dc13090fb55b222da324aaef350e9766c4b9146b09"
     },
     {
@@ -45960,7 +45960,7 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDrop\u00602",
       "path": "content/en/api/engine/editor/interactions/editordrop-d667ec4515a8/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDrop\u00602",
-      "title": "EditorDrop",
+      "title": "EditorDrop\u003CTSource, TTarget\u003E",
       "contract": "16c32725c9874c8796f304a96f4f549889e10cfcb39e0d6f8e5796694c9ba8f1"
     },
     {
@@ -46149,7 +46149,7 @@
       "symbol": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorPresentationAction\u00602",
       "path": "content/en/api/engine/editor/interactions/editorpresentationaction/index.md",
       "type": "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorPresentationAction\u00602",
-      "title": "EditorPresentationAction",
+      "title": "EditorPresentationAction\u003CTTarget, TPresentation\u003E",
       "contract": "2a29a4874f89bde8243278dfb7f2413355c38ad7d7860ba3bd9b9f50e513947d"
     },
     {
@@ -50132,7 +50132,7 @@
       "symbol": "engine:Inno.Editor.Settings:T:Inno.Editor.Settings.ProjectSettingEditor\u00601",
       "path": "content/en/api/engine/editor/settings/projectsettingeditor-7dba3ea79ccb/index.md",
       "type": "engine:Inno.Editor.Settings:T:Inno.Editor.Settings.ProjectSettingEditor\u00601",
-      "title": "ProjectSettingEditor",
+      "title": "ProjectSettingEditor\u003CTSetting\u003E",
       "contract": "4c0e1e135a7000a8842231c2e3a1cfa3f89f5c4cb4b3a065a93888573efc0fc4"
     },
     {
@@ -52197,7 +52197,7 @@
       "symbol": "engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.IGenerationPublication\u00601",
       "path": "content/en/api/engine/extensibility/reload/igenerationpublication/index.md",
       "type": "engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.IGenerationPublication\u00601",
-      "title": "IGenerationPublication",
+      "title": "IGenerationPublication\u003CTProbe\u003E",
       "contract": "7308989d2170fe40b413b546e8653314d5cc4ca6688466222ec032d67f21f6d0"
     },
     {
@@ -52722,7 +52722,7 @@
       "symbol": "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeRegistry\u00601",
       "path": "content/en/api/engine/extensibility/types/typeregistry/index.md",
       "type": "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeRegistry\u00601",
-      "title": "TypeRegistry",
+      "title": "TypeRegistry\u003CTSnapshot\u003E",
       "contract": "686a1a8aa99f67257a63b8974eea91e4c5f161f1d0b2e0d4fb0cf998497b65ee"
     },
     {
@@ -69438,7 +69438,7 @@
       "symbol": "engine:Inno.Rendering:T:Inno.Rendering.RenderPassExecute\u00601",
       "path": "content/en/api/engine/rendering/renderpassexecute/index.md",
       "type": "engine:Inno.Rendering:T:Inno.Rendering.RenderPassExecute\u00601",
-      "title": "RenderPassExecute",
+      "title": "RenderPassExecute\u003CTPassData\u003E",
       "contract": "08faf6a0bbdb43553e00e73d710c0e0ae82cb40f8b7129bb2fcebc5bba144187"
     },
     {
@@ -81030,7 +81030,7 @@
       "symbol": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildContext\u00601",
       "path": "content/en/api/scripting/editor/assetbuildcontext/index.md",
       "type": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildContext\u00601",
-      "title": "AssetBuildContext",
+      "title": "AssetBuildContext\u003CTDefinition\u003E",
       "contract": "7bbddc4c7eca49b763c5183c1a34c765298526d4cfd1220d3f2ad311eec81d2a"
     },
     {
@@ -81051,7 +81051,7 @@
       "symbol": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildProcessor\u00601",
       "path": "content/en/api/scripting/editor/assetbuildprocessor-69abc5b0fed4/index.md",
       "type": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildProcessor\u00601",
-      "title": "AssetBuildProcessor",
+      "title": "AssetBuildProcessor\u003CTDefinition\u003E",
       "contract": "0fece2f10548623495abace46e30fb8e6cf3c8469e0445d30c62c127241424b5"
     },
     {
@@ -81093,7 +81093,7 @@
       "symbol": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImportWriter\u00601",
       "path": "content/en/api/scripting/editor/assetimportwriter/index.md",
       "type": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImportWriter\u00601",
-      "title": "AssetImportWriter",
+      "title": "AssetImportWriter\u003CTAsset\u003E",
       "contract": "2204390e6dc8ea1690c9fa829acb85b73f2fad81536c40415f68e72391844673"
     },
     {
@@ -81114,7 +81114,7 @@
       "symbol": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImporter\u00601",
       "path": "content/en/api/scripting/editor/assetimporter-b3a203a02f47/index.md",
       "type": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImporter\u00601",
-      "title": "AssetImporter",
+      "title": "AssetImporter\u003CTAsset\u003E",
       "contract": "88f561b1c65f521eef906d23f7b8ee3b6fbeface57acf85c1e6e35d58f5c2346"
     },
     {
@@ -82227,7 +82227,7 @@
       "symbol": "scripting:Inno.Assets:T:InnoEngine.Assets.AssetLease\u00601",
       "path": "content/en/api/scripting/runtime/assetlease/index.md",
       "type": "scripting:Inno.Assets:T:InnoEngine.Assets.AssetLease\u00601",
-      "title": "AssetLease",
+      "title": "AssetLease\u003CTAsset\u003E",
       "contract": "bd30c93a80273e1938a37ea212f29f9eb25947bcd34f2ea983931d432aad3a5a"
     },
     {
@@ -90480,7 +90480,7 @@
       "symbol": "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializationConverter\u00601",
       "path": "content/en/api/scripting/runtime/serializationconverter/index.md",
       "type": "scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.SerializationConverter\u00601",
-      "title": "SerializationConverter",
+      "title": "SerializationConverter\u003CT\u003E",
       "contract": "2f269287f80208ff8ed729208c84c54688569267a67bff778a32f3f7239fe7d8"
     },
     {
@@ -91061,7 +91061,7 @@
       "symbol": "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingComposer\u00602",
       "path": "content/en/api/scripting/runtime/projectsettingcomposer-39afdabb8106/index.md",
       "type": "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingComposer\u00602",
-      "title": "ProjectSettingComposer",
+      "title": "ProjectSettingComposer\u003CTSetting, TContribution\u003E",
       "contract": "0f1552eea9337705c9be1a9112a6a39b6dbc95b965a1640bffb93e99fe541072"
     },
     {
@@ -91082,7 +91082,7 @@
       "symbol": "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingContribution\u00601",
       "path": "content/en/api/scripting/runtime/projectsettingcontribution/index.md",
       "type": "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingContribution\u00601",
-      "title": "ProjectSettingContribution",
+      "title": "ProjectSettingContribution\u003CTContribution\u003E",
       "contract": "b168684a90d6e42640a852e251f1d73ef6401b5cba7f4088e632bd987a3efe67"
     },
     {
@@ -92279,7 +92279,7 @@
       "symbol": "scripting:Inno.Editor.Assets:T:InnoEditor.Assets.AssetCreationTemplate\u00601",
       "path": "content/en/api/scripting/editor/assetcreationtemplate-4df0b08210c7/index.md",
       "type": "scripting:Inno.Editor.Assets:T:InnoEditor.Assets.AssetCreationTemplate\u00601",
-      "title": "AssetCreationTemplate",
+      "title": "AssetCreationTemplate\u003CTAsset\u003E",
       "contract": "52b719d236405fa00f11b7b41e387859e0f5f778f319c93e1eb67ab7b93ed93c"
     },
     {
@@ -102968,7 +102968,7 @@
       "symbol": "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.IInspectionIconProvider\u00601",
       "path": "content/en/api/scripting/editor/iinspectioniconprovider/index.md",
       "type": "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.IInspectionIconProvider\u00601",
-      "title": "IInspectionIconProvider",
+      "title": "IInspectionIconProvider\u003CTTarget\u003E",
       "contract": "3e0d3c446f17d2a2464b6f45e1ad5b3c8add34544081a4a0c6a34287d2f17d10"
     },
     {
@@ -103010,7 +103010,7 @@
       "symbol": "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.InspectionDrawer\u00601",
       "path": "content/en/api/scripting/editor/inspectiondrawer/index.md",
       "type": "scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.InspectionDrawer\u00601",
-      "title": "InspectionDrawer",
+      "title": "InspectionDrawer\u003CTTarget\u003E",
       "contract": "b6dbe641ef2d07a61ef092c3196b07f2c54d37bfdc7ea6c4175cb4b5ee63060a"
     },
     {
@@ -106188,7 +106188,7 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionArgumentContext\u00601",
       "path": "content/en/api/scripting/editor/editoractionargumentcontext/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionArgumentContext\u00601",
-      "title": "EditorActionArgumentContext",
+      "title": "EditorActionArgumentContext\u003CTArgument\u003E",
       "contract": "51cd44a4acdf7eaefcab04e3f8006968076b197261794c88aeeed7516f58ebb3"
     },
     {
@@ -106209,14 +106209,14 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionContext\u00601",
       "path": "content/en/api/scripting/editor/editoractioncontext-d87af1c41c85/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionContext\u00601",
-      "title": "EditorActionContext",
+      "title": "EditorActionContext\u003CTTarget\u003E",
       "contract": "8278c996e5529f0d5c550677b7deb856d0f523ad177119fa2da29bf925667533"
     },
     {
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionContext\u00602",
       "path": "content/en/api/scripting/editor/editoractioncontext-3fb4344512aa/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorActionContext\u00602",
-      "title": "EditorActionContext",
+      "title": "EditorActionContext\u003CTTarget, TArgument\u003E",
       "contract": "4a5d60abc200572fdc4f9211bf6c25b598d3eeff80200232fef13e0bddeb7d0c"
     },
     {
@@ -106230,21 +106230,21 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction\u00601",
       "path": "content/en/api/scripting/editor/editoraction-69e90c0fd312/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction\u00601",
-      "title": "EditorAction",
+      "title": "EditorAction\u003CTTarget\u003E",
       "contract": "04cb259a07d48bc114b82bc5dd4413e46ff542b57850b58e6d323cbc78e14127"
     },
     {
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction\u00602",
       "path": "content/en/api/scripting/editor/editoraction-59a990be6ea3/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction\u00602",
-      "title": "EditorAction",
+      "title": "EditorAction\u003CTTarget, TArgument\u003E",
       "contract": "44f2019e642bbdf1e37275e62aa02bf04eb991222b60a483fb237c53395aaa6e"
     },
     {
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorArgumentAction\u00601",
       "path": "content/en/api/scripting/editor/editorargumentaction/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorArgumentAction\u00601",
-      "title": "EditorArgumentAction",
+      "title": "EditorArgumentAction\u003CTArgument\u003E",
       "contract": "e65ef42fbc977e2d978f47b55472fc74077feae92349a51fe906af67f89abafa"
     },
     {
@@ -106307,7 +106307,7 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropContext\u00602",
       "path": "content/en/api/scripting/editor/editordropcontext-1c53e8dc8ef6/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDropContext\u00602",
-      "title": "EditorDropContext",
+      "title": "EditorDropContext\u003CTSource, TTarget\u003E",
       "contract": "03bf2e3da7e4de930f8cde7bb8a6f45edaba4fd55a3c55ec71ddfae3d6e93787"
     },
     {
@@ -106342,7 +106342,7 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDrop\u00602",
       "path": "content/en/api/scripting/editor/editordrop-f4e5351ef416/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorDrop\u00602",
-      "title": "EditorDrop",
+      "title": "EditorDrop\u003CTSource, TTarget\u003E",
       "contract": "c4baee41bdc07d75ebfcfb5bf3a8ad638925424cac80c94a56e0831ac372dfa0"
     },
     {
@@ -106489,7 +106489,7 @@
       "symbol": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorPresentationAction\u00602",
       "path": "content/en/api/scripting/editor/editorpresentationaction/index.md",
       "type": "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorPresentationAction\u00602",
-      "title": "EditorPresentationAction",
+      "title": "EditorPresentationAction\u003CTTarget, TPresentation\u003E",
       "contract": "207ea6f05752c3b16ebb14cf87826c0ee451d9f7f6e87464fab636e2bc9c143c"
     },
     {
@@ -109184,7 +109184,7 @@
       "symbol": "scripting:Inno.Editor.Settings:T:InnoEditor.Settings.ProjectSettingEditor\u00601",
       "path": "content/en/api/scripting/editor/projectsettingeditor-129cae2beac7/index.md",
       "type": "scripting:Inno.Editor.Settings:T:InnoEditor.Settings.ProjectSettingEditor\u00601",
-      "title": "ProjectSettingEditor",
+      "title": "ProjectSettingEditor\u003CTSetting\u003E",
       "contract": "fbc94c7548a979e29442d2f0d1e37809f2a3222b888b34b792db6122a8cb19a1"
     },
     {
@@ -121350,7 +121350,7 @@
       "symbol": "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPassExecute\u00601",
       "path": "content/en/api/scripting/runtime/renderpassexecute/index.md",
       "type": "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPassExecute\u00601",
-      "title": "RenderPassExecute",
+      "title": "RenderPassExecute\u003CTPassData\u003E",
       "contract": "61e73a7518d85f36de2b0b146a1be7bb40c45d4079ca377dfb4cd56c71918367"
     },
     {

@@ -11,19 +11,19 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## EditorAction
 
-- [Inno.Editor.Interactions.EditorAction](editoraction-7b44a37abc5a/index.md)
+- [EditorAction](editoraction-7b44a37abc5a/index.md)
 
-## EditorAction
+## EditorAction&lt;TTarget, TArgument&gt;
 
-- [Inno.Editor.Interactions.EditorAction1](editoraction-312d1316a897/index.md)
+- [EditorAction&lt;TTarget, TArgument&gt;](editoraction-af042feb1b7b/index.md)
 
-## EditorAction
+## EditorAction&lt;TTarget&gt;
 
-- [Inno.Editor.Interactions.EditorAction2](editoraction-af042feb1b7b/index.md)
+- [EditorAction&lt;TTarget&gt;](editoraction-312d1316a897/index.md)
 
-## EditorActionArgumentContext
+## EditorActionArgumentContext&lt;TArgument&gt;
 
-- [EditorActionArgumentContext](editoractionargumentcontext/index.md)
+- [EditorActionArgumentContext&lt;TArgument&gt;](editoractionargumentcontext/index.md)
 
 ## EditorActionAttribute
 
@@ -31,23 +31,23 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## EditorActionContext
 
-- [Inno.Editor.Interactions.EditorActionContext](editoractioncontext-c391553e7878/index.md)
+- [EditorActionContext](editoractioncontext-c391553e7878/index.md)
 
-## EditorActionContext
+## EditorActionContext&lt;TTarget, TArgument&gt;
 
-- [Inno.Editor.Interactions.EditorActionContext1](editoractioncontext-c0be094fdb90/index.md)
+- [EditorActionContext&lt;TTarget, TArgument&gt;](editoractioncontext-319d0756ee41/index.md)
 
-## EditorActionContext
+## EditorActionContext&lt;TTarget&gt;
 
-- [Inno.Editor.Interactions.EditorActionContext2](editoractioncontext-319d0756ee41/index.md)
+- [EditorActionContext&lt;TTarget&gt;](editoractioncontext-c0be094fdb90/index.md)
 
 ## EditorActionState
 
 - [EditorActionState](editoractionstate/index.md)
 
-## EditorArgumentAction
+## EditorArgumentAction&lt;TArgument&gt;
 
-- [EditorArgumentAction](editorargumentaction/index.md)
+- [EditorArgumentAction&lt;TArgument&gt;](editorargumentaction/index.md)
 
 ## EditorDocumentCloseMode
 
@@ -71,11 +71,11 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## EditorDrop
 
-- [Inno.Editor.Interactions.EditorDrop](editordrop-07bc832098d2/index.md)
+- [EditorDrop](editordrop-07bc832098d2/index.md)
 
-## EditorDrop
+## EditorDrop&lt;TSource, TTarget&gt;
 
-- [Inno.Editor.Interactions.EditorDrop2](editordrop-d667ec4515a8/index.md)
+- [EditorDrop&lt;TSource, TTarget&gt;](editordrop-d667ec4515a8/index.md)
 
 ## EditorDropAttribute
 
@@ -83,11 +83,11 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## EditorDropContext
 
-- [Inno.Editor.Interactions.EditorDropContext](editordropcontext-3c7ce1439d0d/index.md)
+- [EditorDropContext](editordropcontext-3c7ce1439d0d/index.md)
 
-## EditorDropContext
+## EditorDropContext&lt;TSource, TTarget&gt;
 
-- [Inno.Editor.Interactions.EditorDropContext2](editordropcontext-4dfea841fa64/index.md)
+- [EditorDropContext&lt;TSource, TTarget&gt;](editordropcontext-4dfea841fa64/index.md)
 
 ## EditorDropPlacement
 
@@ -205,9 +205,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [EditorPlanarNavigation](editorplanarnavigation/index.md)
 
-## EditorPresentationAction
+## EditorPresentationAction&lt;TTarget, TPresentation&gt;
 
-- [EditorPresentationAction](editorpresentationaction/index.md)
+- [EditorPresentationAction&lt;TTarget, TPresentation&gt;](editorpresentationaction/index.md)
 
 ## EditorSelectionSnapshot
 

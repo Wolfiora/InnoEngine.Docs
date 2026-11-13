@@ -27,11 +27,11 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## ProjectSettingEditor
 
-- [Inno.Editor.Settings.ProjectSettingEditor](projectsettingeditor-0db3d7decce4/index.md)
+- [ProjectSettingEditor](projectsettingeditor-0db3d7decce4/index.md)
 
-## ProjectSettingEditor
+## ProjectSettingEditor&lt;TSetting&gt;
 
-- [Inno.Editor.Settings.ProjectSettingEditor1](projectsettingeditor-7dba3ea79ccb/index.md)
+- [ProjectSettingEditor&lt;TSetting&gt;](projectsettingeditor-7dba3ea79ccb/index.md)
 
 ## ProjectSettingPathAttribute
 

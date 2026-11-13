@@ -3,7 +3,7 @@ uid: api.inno.core.settings.runtime-script.75628b914f043501
 symbol: "scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingContribution\u00601"
 source: xml
 reviewed: b168684a90d6e42640a852e251f1d73ef6401b5cba7f4088e632bd987a3efe67
-title: "ProjectSettingContribution"
+title: "ProjectSettingContribution\u003CTContribution\u003E"
 kind: api
 owners: [Inno.Core.Settings]
 apiSurface: editor-script

@@ -13,17 +13,17 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [AssetArtifactWriter](assetartifactwriter/index.md)
 
-## AssetBuildContext
+## AssetBuildContext&lt;TDefinition&gt;
 
-- [AssetBuildContext](assetbuildcontext/index.md)
-
-## AssetBuildProcessor
-
-- [Inno.Assets.Pipeline.AssetBuildProcessor](assetbuildprocessor-664fe76ab091/index.md)
+- [AssetBuildContext&lt;TDefinition&gt;](assetbuildcontext/index.md)
 
 ## AssetBuildProcessor
 
-- [Inno.Assets.Pipeline.AssetBuildProcessor1](assetbuildprocessor-c95d221fcd2d/index.md)
+- [AssetBuildProcessor](assetbuildprocessor-664fe76ab091/index.md)
+
+## AssetBuildProcessor&lt;TDefinition&gt;
+
+- [AssetBuildProcessor&lt;TDefinition&gt;](assetbuildprocessor-c95d221fcd2d/index.md)
 
 ## AssetBuildProcessorAttribute
 
@@ -63,11 +63,11 @@ Find types in this project category. Each type links to its exact declarations a
 
 ## AssetImporter
 
-- [Inno.Assets.Pipeline.AssetImporter](assetimporter-036da995f840/index.md)
+- [AssetImporter](assetimporter-036da995f840/index.md)
 
-## AssetImporter
+## AssetImporter&lt;TAsset&gt;
 
-- [Inno.Assets.Pipeline.AssetImporter1](assetimporter-2a9d6c3a467c/index.md)
+- [AssetImporter&lt;TAsset&gt;](assetimporter-2a9d6c3a467c/index.md)
 
 ## AssetImporterAttribute
 
@@ -89,9 +89,9 @@ Find types in this project category. Each type links to its exact declarations a
 
 - [AssetImportSettingsSnapshot](assetimportsettingssnapshot/index.md)
 
-## AssetImportWriter
+## AssetImportWriter&lt;TAsset&gt;
 
-- [AssetImportWriter](assetimportwriter/index.md)
+- [AssetImportWriter&lt;TAsset&gt;](assetimportwriter/index.md)
 
 ## AssetLoader
 
