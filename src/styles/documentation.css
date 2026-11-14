@@ -37,6 +37,9 @@ body { text-rendering: optimizeLegibility; }
 .sl-markdown-content a { text-underline-offset: .18em; }
 .sl-markdown-content blockquote { border-inline-start: 3px solid var(--sl-color-accent); background: var(--sl-color-accent-low); padding: .8rem 1.15rem; border-radius: 0 .35rem .35rem 0; }
 :focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 3px; }
+.documentation-tip { border-inline-start: 3px solid var(--sl-color-accent); background: var(--sl-color-accent-low); padding: .65rem 1rem; border-radius: .25rem; margin-block: 1.25rem; }
+.documentation-tip > p { margin: 0; }
+.documentation-tip > p + p { margin-top: .25rem; }
 @media (max-width: 50rem) {
   :root { --sl-text-h1: 1.9rem; --sl-text-h2: 1.45rem; }
   .sl-markdown-content { line-height: 1.7; }

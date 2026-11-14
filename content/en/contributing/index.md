@@ -33,7 +33,7 @@ Maintain API XML with engine changes. After a human master merge, independent ex
 
 [Maintain API documentation](api-documentation.md) explains per-type/member XML and manual ownership, script scopes and non-blocking editorial reminders.
 
-[Publish documentation from draft](publish-documentation.md) explains previews, human release merges, exact artifact deployment and rejection diagnostics.
+[Publish documentation from draft](publish-documentation.md) explains previews, human release merges, GitHub acceptance, Vercel Git deployment and failure diagnostics.
 
 ## Branding
 

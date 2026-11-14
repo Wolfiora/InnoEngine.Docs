@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "git": {
+    "deploymentEnabled": { "**": false, "main": true }
+  },
+  "routes": [
+    { "src": "^/$", "status": 307, "headers": { "Location": "/InnoEngine.Docs/" } },
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/InnoEngine.Docs/404.html", "status": 404 }
+  ]
+}

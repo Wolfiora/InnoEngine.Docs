@@ -6,8 +6,8 @@ import { mkdtemp, writeFile, readFile, rm, mkdir, link } from 'node:fs/promises'
 import { createPublication, verifyPublication } from '../scripts/publication-artifact.mjs';
 import { createHash } from 'node:crypto';
 
-async function fixture(t) {
-  const site = await mkdtemp(path.join(os.tmpdir(), 'inno-publication-'));
+async function fixture(t, parent = os.tmpdir()) {
+  const site = await mkdtemp(path.join(parent, 'inno-publication-'));
   t.after(() => rm(site, { recursive: true, force: true }));
   await writeFile(path.join(site, 'index.html'), '<h1>Engine</h1>');
   await mkdir(path.join(site, 'manual'));

@@ -20,6 +20,7 @@ export const collections = {
         apiScope: z.enum(['Runtime', 'Editor', 'Authoring']).optional(),
         source: z.enum(['xml', 'manual']).optional(),
         symbol: z.string().optional(),
+        sourceDeclaration: z.string().url().optional(),
         exampleMode: z.enum(['host', 'runtime-script', 'editor-script']).optional(),
         exampleProjects: z.array(z.string()).optional(),
       }),

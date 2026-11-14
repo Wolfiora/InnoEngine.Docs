@@ -14,6 +14,8 @@ permissions:
 
 env:
   DOCUMENTATION_COMMIT: ${{ github.sha }}
+  DOCS_SITE_URL: ${{ vars.DOCS_SITE_URL }}
+  INNO_DOCS_ENGINE_ROOT: artifacts/engine-source
 
 concurrency:
   group: documentation-${{ github.event.pull_request.number || github.ref }}
@@ -59,7 +61,7 @@ jobs:
         run: ./tests/PublicationArchive.Tests.ps1
       - name: Prepare canonical API content and editorial observations
         shell: pwsh
-        run: ./scripts/prepare-catalog.ps1 -EngineRoot artifacts/engine-source
+        run: npm run docs:prepare
       - name: Retain complete editorial observations
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
@@ -123,11 +125,9 @@ jobs:
           if-no-files-found: error
           retention-days: 90
       - run: npm run build
-      - name: Validate complete site and selected example receipts
-        shell: pwsh
-        run: |
-          node scripts/check-projection.mjs artifacts/canonical-catalog.json dist --complete --example-manifest artifacts/examples/manifest.json > artifacts/completion.json
-          if ($LASTEXITCODE -ne 0) { Get-Content artifacts/completion.json; exit $LASTEXITCODE }
+        env:
+          # The shared build validates HTML once, including CI's exact compiler receipts.
+          INNO_DOCS_EXAMPLE_MANIFEST: artifacts/examples/manifest.json
       - name: Retain the static preview
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
@@ -156,6 +156,7 @@ jobs:
           name: documentation-diagnostics-attempt-${{ github.run_attempt }}
           path: |
             artifacts/completion.json
+            artifacts/site-build.json
             artifacts/api-editorial.json
             artifacts/browser/
             artifacts/examples/*.log
@@ -168,13 +169,44 @@ jobs:
   validation:
     name: Documentation validation
     if: always()
-    needs: [projection]
+    needs: [projection, tooling-portability]
     runs-on: windows-2025
     steps:
       - name: Reconcile required documentation work
         shell: pwsh
         env:
           PROJECTION_RESULT: ${{ needs.projection.result }}
+          PORTABILITY_RESULT: ${{ needs.tooling-portability.result }}
         run: |
           if ($env:PROJECTION_RESULT -ne 'success') { throw "Required documentation work is $env:PROJECTION_RESULT; missing, canceled and skipped work cannot pass." }
+          if ($env:PORTABILITY_RESULT -ne 'success') { throw "Portable documentation preparation is $env:PORTABILITY_RESULT." }
           'Documentation facts, content, examples and website checks passed. API editorial coverage is advisory.' >> $env:GITHUB_STEP_SUMMARY
+
+  tooling-portability:
+    name: Linux documentation preparation
+    runs-on: ubuntu-24.04
+    env:
+      # Exercise the standalone host bootstrap, not the Windows job's explicit checkout.
+      INNO_DOCS_ENGINE_ROOT: ''
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24.21.0
+          cache: npm
+      - run: npm ci
+      - run: node --test tests/site-build.test.mjs
+      - name: Prepare the pinned managed catalog without PowerShell or Native
+        run: npm run docs:prepare
+      - name: Verify the Linux catalog and bound reference set
+        run: node scripts/check-projection.mjs artifacts/canonical-catalog.json > artifacts/linux-catalog.json
+      - name: Retain portability diagnostics
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: linux-documentation-attempt-${{ github.run_attempt }}
+          path: artifacts/linux-catalog.json
+          if-no-files-found: warn
+          retention-days: 30
