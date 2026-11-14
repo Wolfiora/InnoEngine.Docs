@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Commits a prepared assembly reload together with dependent host state.
 
+## Parameters
+
 **Parameter `reload`:** The prepared assembly reload session to activate and complete.
 
 **Parameter `externalChange`:** Optional five-phase content change; captured before publication and restored before domain property recovery.
 
-**Returns:** A monitor observing cooperative unload of assemblies retired by the committed generation.
+## Returns
+
+A monitor observing cooperative unload of assemblies retired by the committed generation.

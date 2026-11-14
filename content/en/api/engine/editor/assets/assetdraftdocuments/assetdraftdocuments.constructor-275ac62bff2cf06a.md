@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a feature-owned draft store; call Start after document services become available.
 
+## Parameters
+
 **Parameter `assets`:** Owner of source identities, serialization and import.
 
 **Parameter `serialization`:** Host registry for neutral History and recovery records.

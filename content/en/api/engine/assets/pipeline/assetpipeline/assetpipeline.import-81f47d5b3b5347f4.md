@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Imports one source asset from an isolated source mount.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
-**Returns:** `true` when an importer handled the source.
+## Returns
+
+`true` when an importer handled the source.

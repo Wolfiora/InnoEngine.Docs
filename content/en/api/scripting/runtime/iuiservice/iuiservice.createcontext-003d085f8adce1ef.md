@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates one independent UI context.
 
+## Parameters
+
 **Parameter `options`:** Initial layout and density for the new context.
 
-**Returns:** A handle owned by the caller until destruction.
+## Returns
+
+A handle owned by the caller until destruction.

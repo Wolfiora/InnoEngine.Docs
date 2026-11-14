@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds a graph texture to a shader interface slot.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding identifier.
 
 **Parameter `texture`:** Graph texture to bind.

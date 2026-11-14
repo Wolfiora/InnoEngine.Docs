@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an interaction runtime with stable host-owned extension services.
 
+## Parameters
+
 **Parameter `context`:** The passive editor context shared with the presentation backend.
 
 **Parameter `hostServices`:** Stable host-owned services that editor extension constructors may request by assignable contract.
@@ -18,5 +20,7 @@ Creates an interaction runtime with stable host-owned extension services.
 **Parameter `logs`:** The host-owned logging router used by editor infrastructure.
 
 **Parameter `types`:** The type catalog that owns editor extension generations.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` or `hostServices` is `null`.

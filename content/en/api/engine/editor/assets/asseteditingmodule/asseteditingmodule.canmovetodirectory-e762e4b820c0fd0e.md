@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks whether a source can move into the destination without a cycle or name collision.
 
+## Parameters
+
 **Parameter `sourcePath`:** The current isolated source-relative path.
 
 **Parameter `targetDirectory`:** The isolated destination directory.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

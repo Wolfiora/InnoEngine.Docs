@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets the active drag identity used to select the matching native payload domain.
 
+## Parameters
+
 **Parameter `identity`:** The active runtime identity when one remains valid.
 
-**Returns:** `true` when a live drag source exists; otherwise, `false`.
+## Returns
+
+`true` when a live drag source exists; otherwise, `false`.

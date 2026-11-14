@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Deserializes and validates a native payload without changing the file.
 
+## Parameters
+
 **Parameter `data`:** The native payload.
 
-**Returns:** A newly owned current-format document.
+## Returns
+
+A newly owned current-format document.

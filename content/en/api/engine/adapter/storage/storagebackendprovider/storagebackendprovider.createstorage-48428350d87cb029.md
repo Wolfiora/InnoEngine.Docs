@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a caller-owned storage service using this implementation.
 
+## Parameters
+
 **Parameter `scope`:** The application namespace to isolate within this provider's host configuration.
 
-**Returns:** A new service owned by the caller; providers must not return null.
+## Returns
+
+A new service owned by the caller; providers must not return null.

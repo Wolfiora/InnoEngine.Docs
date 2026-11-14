@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Opens a reader with an independent content pin and cursor.
 
-**Returns:** A caller-owned readable stream; missing or retired content fails the operation.
+## Returns
+
+A caller-owned readable stream; missing or retired content fails the operation.

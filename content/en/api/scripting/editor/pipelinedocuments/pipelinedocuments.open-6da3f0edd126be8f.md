@@ -12,6 +12,10 @@ apiScope: Editor
 
 Opens a native Pipeline source in the shared document service, including failed imports.
 
+## Parameters
+
 **Parameter `path`:** Mounted source path.
 
-**Returns:** The persistent source identity used by draft operations.
+## Returns
+
+The persistent source identity used by draft operations.

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Composes the standard Player's reusable native components with explicit deployment policies.
 
-**Returns:** A fresh immutable Player plan without resolving tools or touching source files.
+## Returns
+
+A fresh immutable Player plan without resolving tools or touching source files.
+
+## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
 

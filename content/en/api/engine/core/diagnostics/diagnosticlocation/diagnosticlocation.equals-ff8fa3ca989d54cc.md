@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether this instance and the supplied value represent the same logical state.
 
-**Returns:** `true` when both values represent the same logical state; otherwise, `false`.
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.
+
+## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.

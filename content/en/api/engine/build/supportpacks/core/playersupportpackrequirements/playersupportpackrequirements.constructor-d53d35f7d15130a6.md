@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures the exact publication inputs and native groups supplied by the selected product closure.
 
+## Parameters
+
 **Parameter `target`:** The stable target whose inputs are being validated.
 
 **Parameter `requiredFiles`:** Portable Pack-relative files required by the selected managed and binding graph.
@@ -22,6 +24,8 @@ Captures the exact publication inputs and native groups supplied by the selected
 **Parameter `nativeExtension`:** The explicit SDK library suffix; it is not inferred from this process.
 
 **Parameter `nativeFiles`:** The exact native-root-relative library set, or null when deployment metadata validates filenames.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A target, extension or portable relative path is invalid or repeated.
 

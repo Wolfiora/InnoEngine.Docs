@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a game object with a mandatory transform component.
 
+## Parameters
+
 **Parameter `name`:** Initial game object name.
 
-**Returns:** The created game object.
+## Returns
+
+The created game object.

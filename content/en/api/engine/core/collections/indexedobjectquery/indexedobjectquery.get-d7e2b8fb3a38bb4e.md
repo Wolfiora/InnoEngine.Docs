@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Executes the query and returns a stable snapshot.
 
-**Returns:** A snapshot list detached from subsequent store mutations.
+## Returns
+
+A snapshot list detached from subsequent store mutations.

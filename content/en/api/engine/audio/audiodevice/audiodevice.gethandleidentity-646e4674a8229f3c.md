@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes a clip handle for backend lookup and generation validation.
 
+## Parameters
+
 **Parameter `handle`:** Backend-neutral clip handle.
 
-**Returns:** Backend identity and owning generation.
+## Returns
+
+Backend identity and owning generation.

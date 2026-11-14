@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Validates and captures a complete provider set without creating any service.
 
+## Parameters
+
 **Parameter `providers`:** Providers whose lifetime remains with the composition owner.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The provider sequence is null.
 

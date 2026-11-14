@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an audio statistics snapshot.
 
+## Parameters
+
 **Parameter `activeVoices`:** Voices that currently consume runtime budget.
 
 **Parameter `loadedClips`:** Clip allocations held by the backend.

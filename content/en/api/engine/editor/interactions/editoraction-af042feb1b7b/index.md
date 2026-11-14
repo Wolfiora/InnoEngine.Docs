@@ -14,6 +14,8 @@ aliases: []
 
 Defines a target action that requires one strongly typed command argument.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type accepted by the action.
 
 **Type parameter `TArgument`:** The command argument type accepted by the action.

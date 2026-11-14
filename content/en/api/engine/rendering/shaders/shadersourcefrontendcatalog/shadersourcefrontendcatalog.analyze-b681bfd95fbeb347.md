@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Analyzes source using an explicitly selected language.
 
+## Parameters
+
 **Parameter `languageId`:** Registered language identity, never inferred from the active graphics API.
 
 **Parameter `request`:** Immutable source analysis request.
 
-**Returns:** The selected frontend's analysis result.
+## Returns
+
+The selected frontend's analysis result.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The requested language provider is unavailable.

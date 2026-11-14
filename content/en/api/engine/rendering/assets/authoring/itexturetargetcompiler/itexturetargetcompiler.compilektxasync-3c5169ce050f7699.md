@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Compiles one source texture into an uncompressed KTX artifact with a complete mip chain.
 
+## Parameters
+
 **Parameter `source`:** Borrowed encoded image stream retained by the caller until compilation completes.
 
 **Parameter `colorSpace`:** Sampling color-space contract.
 
 **Parameter `cancellationToken`:** Cancellation for the offline compiler process.
 
-**Returns:** An operation producing complete KTX bytes suitable for a backend-neutral texture container upload.
+## Returns
+
+An operation producing complete KTX bytes suitable for a backend-neutral texture container upload.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the target compiler rejects the source.

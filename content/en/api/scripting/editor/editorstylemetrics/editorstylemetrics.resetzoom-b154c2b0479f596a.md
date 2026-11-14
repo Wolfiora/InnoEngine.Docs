@@ -12,4 +12,6 @@ apiScope: Editor
 
 Restores the baseline editor UI zoom.
 
-**Returns:** `true` when the requested zoom changed.
+## Returns
+
+`true` when the requested zoom changed.

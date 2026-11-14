@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Gets the total elapsed session time in seconds.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

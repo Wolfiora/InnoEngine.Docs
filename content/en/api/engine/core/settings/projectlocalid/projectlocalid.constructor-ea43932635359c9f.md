@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a portable local identity.
 
+## Parameters
+
 **Parameter `value`:** Lowercase ASCII local namespace segments.

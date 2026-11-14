@@ -16,6 +16,8 @@ aliases: []
 
 Provides strongly typed source and target values to a drop operation.
 
+## Type parameters
+
 **Type parameter `TSource`:** The managed drag-source type.
 
 **Type parameter `TTarget`:** The managed drop-target type.

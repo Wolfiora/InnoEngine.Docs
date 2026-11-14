@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Updates the runtime for one editor frame.
 
+## Parameters
+
 **Parameter `frame`:** The immutable frame state.

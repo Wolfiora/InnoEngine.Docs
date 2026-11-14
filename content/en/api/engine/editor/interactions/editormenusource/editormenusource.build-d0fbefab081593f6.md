@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds context-dependent placements for the supplied menu request.
 
+## Parameters
+
 **Parameter `context`:** The requested menu surface, target, and shared editor context.
 
 **Parameter `builder`:** The collector that receives dynamic action placements.

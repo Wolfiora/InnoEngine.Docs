@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a canonical shader variant from stable keyword selections.
 
+## Parameters
+
 **Parameter `options`:** Stable keyword ID to selected option mappings.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when an identifier or option is empty or contains a reserved canonical separator.

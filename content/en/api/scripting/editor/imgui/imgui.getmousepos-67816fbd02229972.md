@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the current pointer position in screen-space UI units.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

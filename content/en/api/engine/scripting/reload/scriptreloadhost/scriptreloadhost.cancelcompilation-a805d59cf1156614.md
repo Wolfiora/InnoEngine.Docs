@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Requests cancellation of the active compilation without changing the active script generation.
 
-**Returns:** `true` when an active compilation received the request.
+## Returns
+
+`true` when an active compilation received the request.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.
+
+## Parameters
 
 **Parameter `operationId`:** The observed request; a stale cancellation is rejected.

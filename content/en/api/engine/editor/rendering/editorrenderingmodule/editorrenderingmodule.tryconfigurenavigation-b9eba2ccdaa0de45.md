@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Queries the selected controller's navigation contract before viewport input is processed.
 
+## Parameters
+
 **Parameter `kind`:** Open viewport purpose.
 
 **Parameter `viewportId`:** Stable panel viewport identity.
@@ -21,4 +23,6 @@ Queries the selected controller's navigation contract before viewport input is p
 
 **Parameter `profile`:** Receives the selected controller profile.
 
-**Returns:** True when a contributor returned a usable navigation profile and became the controller.
+## Returns
+
+True when a contributor returned a usable navigation profile and became the controller.

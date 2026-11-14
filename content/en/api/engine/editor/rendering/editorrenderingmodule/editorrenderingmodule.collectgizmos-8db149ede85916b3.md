@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Collects Editor-only icons and bounds for the current Scene viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** The Scene viewport identity.
 
 **Parameter `pixelWidth`:** The viewport width.
 
 **Parameter `pixelHeight`:** The viewport height.
 
-**Returns:** Transient gizmo primitives for the submitted frame.
+## Returns
+
+Transient gizmo primitives for the submitted frame.

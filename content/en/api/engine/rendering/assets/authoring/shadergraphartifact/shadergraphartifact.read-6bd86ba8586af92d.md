@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reads a retained immutable authoring snapshot through its explicit artifact owner.
 
+## Parameters
+
 **Parameter `shader`:** Stable Shader asset identity.
 
 **Parameter `artifacts`:** Current authoring artifact lookup.
 
-**Returns:** Detached graph bytes; absent authoring data is an error, never a runtime fallback.
+## Returns
+
+Detached graph bytes; absent authoring data is an error, never a runtime fallback.

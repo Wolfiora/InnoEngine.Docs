@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases resources owned by a registry snapshot.
 
+## Parameters
+
 **Parameter `snapshot`:** The snapshot that is no longer active.

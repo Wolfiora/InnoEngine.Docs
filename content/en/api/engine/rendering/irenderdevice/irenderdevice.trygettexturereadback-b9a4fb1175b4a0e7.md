@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to complete one previously requested texture readback.
 
+## Parameters
+
 **Parameter `readback`:** Readback handle returned by `M:Inno.Rendering.IRenderDevice.BeginTextureReadback(Inno.Rendering.PersistentTextureHandle,System.Int32)`.
 
 **Parameter `result`:** Receives immutable CPU-visible bytes when complete.
 
-**Returns:** `true` when the result completed and was consumed.
+## Returns
+
+`true` when the result completed and was consumed.

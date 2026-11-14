@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the remaining content size in the current region.
 
-**Returns:** The remaining local width and height.
+## Returns
+
+The remaining local width and height.

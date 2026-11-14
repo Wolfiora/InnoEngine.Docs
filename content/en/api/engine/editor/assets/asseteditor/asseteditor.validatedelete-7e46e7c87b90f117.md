@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates a requested asset deletion before the AssetPipeline transaction begins.
 
+## Parameters
+
 **Parameter `context`:** The immutable snapshot of the entry that would be deleted.
 
-**Returns:** A valid result when the transaction may proceed, or a diagnostic describing the rejection.
+## Returns
+
+A valid result when the transaction may proceed, or a diagnostic describing the rejection.

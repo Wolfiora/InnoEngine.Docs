@@ -12,6 +12,8 @@ apiScope: Editor
 
 Writes presentation to a detached graph without changing any default, Material, or compiled program.
 
+## Parameters
+
 **Parameter `graph`:** Detached graph owned by the caller's History transaction.
 
 **Parameter `propertyId`:** Stable parameter identity.
@@ -21,5 +23,7 @@ Writes presentation to a detached graph without changing any default, Material, 
 **Parameter `serialization`:** Current owner converters.
 
 **Parameter `context`:** Complete owner serialization context.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity or range is invalid, or a bound cannot be represented by a scalar Shader Float.

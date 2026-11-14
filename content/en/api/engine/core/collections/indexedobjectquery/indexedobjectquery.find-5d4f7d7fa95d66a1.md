@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Adds a key equality condition.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** Key handle.
 
-**Returns:** The same query instance.
-
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+The same query instance.

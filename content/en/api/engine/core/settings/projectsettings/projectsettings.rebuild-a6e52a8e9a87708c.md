@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Atomically rebuilds effective settings for a new extension generation.
 
+## Parameters
+
 **Parameter `contributors`:** Dependency-ordered default contributors.
 
 **Parameter `allowUnresolvedContributions`:** Whether contributions awaiting Plugin type activation are retained but skipped.

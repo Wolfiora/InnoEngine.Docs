@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the stable project-independent identity of a defined tag.
 
+## Parameters
+
 **Parameter `tag`:** The configured tag name.
 
-**Returns:** The deterministic local identity.
+## Returns
+
+The deterministic local identity.

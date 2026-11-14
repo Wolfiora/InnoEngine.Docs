@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to resolve a persistent identity without loading the asset.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `persistentId`:** The resolved persistent identity.
 
-**Returns:** `true` when catalog metadata exists.
+## Returns
+
+`true` when catalog metadata exists.

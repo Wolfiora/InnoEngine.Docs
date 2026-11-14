@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a horizontally centered button with optional space above it.
 
+## Parameters
+
 **Parameter `label`:** Visible label and optional ImGui identifier suffix.
 
 **Parameter `topPadding`:** Additional vertical space above the button.
 
-**Returns:** `true` when the button is pressed.
+## Returns
+
+`true` when the button is pressed.

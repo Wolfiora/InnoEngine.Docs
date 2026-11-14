@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates one final animation sample.
 
+## Parameters
+
 **Parameter `binding`:** Stable target binding.
 
 **Parameter `value`:** Final blended value.

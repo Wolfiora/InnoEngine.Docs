@@ -14,4 +14,6 @@ aliases: []
 
 Opaque handle used to query a key without exposing its implementation.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Shapes one Unicode string with an imported font.
 
+## Parameters
+
 **Parameter `font`:** The imported font source.
 
 **Parameter `text`:** The Unicode source text.
@@ -19,4 +21,6 @@ Shapes one Unicode string with an imported font.
 
 **Parameter `options`:** Language, script, and direction hints.
 
-**Returns:** The immutable shaped layout.
+## Returns
+
+The immutable shaped layout.

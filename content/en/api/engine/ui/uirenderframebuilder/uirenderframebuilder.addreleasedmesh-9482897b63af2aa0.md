@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Adds one mesh retirement.
 
+## Parameters
+
 **Parameter `mesh`:** Assigned mesh handle.

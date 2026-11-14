@@ -16,4 +16,6 @@ Releases the runtime resources owned by this asset without clearing its payload 
 
 An unfinished release may throw RetirementPendingException. The owner retains the asset and retries this hook; completed steps must not be repeated. Other failures are terminal and are reported by the owner.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Owned work has not quiesced; runtime payload and ownership must remain intact until a later attempt.

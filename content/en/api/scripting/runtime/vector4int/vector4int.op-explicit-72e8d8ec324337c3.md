@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Converts the supplied value to `T:InnoEngine.Mathematics.Vector4Int`.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector4int that represents the completed operation.
+## Returns
+
+The validated vector4int that represents the completed operation.

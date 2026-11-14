@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds the script-facing `N:Inno.Editor.Audio` façade to one session's audio runtime.
 
+## Parameters
+
 **Parameter `session`:** Session whose feature pipeline owns an active Editor audio generation.
 
-**Returns:** A strict last-in-first-out execution scope.
+## Returns
+
+A strict last-in-first-out execution scope.

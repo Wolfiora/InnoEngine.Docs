@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Registers assemblies owned by an external load context.
 
+## Parameters
+
 **Parameter `moduleName`:** The module name text validated by the register operation.
 
 **Parameter `assemblies`:** The assemblies consumed by register; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated assembly module handle that represents the completed operation.
+## Returns
+
+The validated assembly module handle that represents the completed operation.

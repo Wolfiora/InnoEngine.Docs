@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates a complete generation of node compiler registrations.
 
+## Parameters
+
 **Parameter `compilers`:** Providers owned by the calling generation or composition scope.

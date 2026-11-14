@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets a symmetric interaction pair.
 
+## Parameters
+
 **Parameter `first`:** The first layer.
 
 **Parameter `second`:** The second layer.

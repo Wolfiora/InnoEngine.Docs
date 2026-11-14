@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Pairs the authoring artifact owner with the active device's immutable capability snapshot.
 
+## Parameters
+
 **Parameter `provider`:** Host-owned shader compilation service.
 
 **Parameter `capabilities`:** Current device capability snapshot.

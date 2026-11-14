@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a deployed shader stage.
 
+## Parameters
+
 **Parameter `stage`:** The single programmable stage represented by the target binary.
 
 **Parameter `bytes`:** The non-empty target backend program bytes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `stage` is not a single stage or `bytes` is empty.

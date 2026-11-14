@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a device capability snapshot.
 
+## Parameters
+
 **Parameter `backend`:** Active graphics API family.
 
 **Parameter `features`:** Supported optional features.

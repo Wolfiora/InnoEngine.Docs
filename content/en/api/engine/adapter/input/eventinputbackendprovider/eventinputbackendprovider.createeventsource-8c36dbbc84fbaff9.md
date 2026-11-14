@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a caller-owned input service using this implementation.
 
+## Parameters
+
 **Parameter `window`:** The window supplying accepted input events.
 
 **Parameter `acceptAllWindows`:** Whether events from every application window are accepted.
 
-**Returns:** A new service owned by the caller; providers must not return null.
+## Returns
+
+A new service owned by the caller; providers must not return null.

@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates host-owned subsystems that outlive individual Edit, Play or Player sessions.
 
+## Parameters
+
 **Parameter `factories`:** The complete host factory set; session-lifetime factories are rejected.
 
 **Parameter `capabilities`:** Backend-neutral capabilities verified by the application's selected services.
 
-**Returns:** A pipeline owned by this EngineHost and borrowed by the application's Shell.
+## Returns
+
+A pipeline owned by this EngineHost and borrowed by the application's Shell.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The engine host is disposed.

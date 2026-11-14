@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Sets the parent while preserving this transform's world-space values.
 
+## Parameters
+
 **Parameter `parent`:** New parent, or `null` to move to scene level.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown for hierarchy cycles, cross-scene parents, or a non-invertible parent hierarchy.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the selected asset path when the editor-wide target belongs to the Asset Browser.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing the global selection.
 
-**Returns:** The normalized source-relative path, or `null` when another target type is selected.
+## Returns
+
+The normalized source-relative path, or `null` when another target type is selected.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

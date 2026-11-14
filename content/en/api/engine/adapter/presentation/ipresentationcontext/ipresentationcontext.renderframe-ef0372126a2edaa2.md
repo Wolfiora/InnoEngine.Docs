@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Builds one presentation frame by invoking the host draw callback.
 
+## Parameters
+
 **Parameter `drawFrame`:** Callback that emits presentation commands for the current frame.
 
 **Parameter `prepareFrame`:** Optional synchronous preparation after the owned context and display metrics are selected, before frame creation. Failure prevents drawing and no partial frame is published.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The draw callback is null.
 

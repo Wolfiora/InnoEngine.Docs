@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates an accepted drop result with optional presentation requests.
 
+## Parameters
+
 **Parameter `selectionTarget`:** An optional object that the originating view should select.
 
 **Parameter `revealTarget`:** An optional object that the originating view should reveal or expand.
 
-**Returns:** An accepted drop result containing the supplied presentation requests.
+## Returns
+
+An accepted drop result containing the supplied presentation requests.

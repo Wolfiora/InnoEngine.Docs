@@ -12,10 +12,16 @@ apiScope: Editor
 
 Accepts an unmanaged payload on the most recently submitted item.
 
+## Type parameters
+
 **Type parameter `TPayload`:** Unmanaged payload type.
+
+## Parameters
 
 **Parameter `payloadType`:** Stable ImGui payload type identifier.
 
 **Parameter `payload`:** Delivered payload value.
 
-**Returns:** `true` only when a compatible payload is delivered.
+## Returns
+
+`true` only when a compatible payload is delivered.

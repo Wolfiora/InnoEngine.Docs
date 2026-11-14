@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves the icon glyph displayed for the current target.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.
 
 **Parameter `target`:** The strongly typed target being inspected.
 
-**Returns:** The target-specific icon glyph. The default implementation returns ``P:Inno.Editor.Inspection.InspectionDrawer`1.icon``.
+## Returns
+
+The target-specific icon glyph. The default implementation returns ``P:Inno.Editor.Inspection.InspectionDrawer`1.icon``.

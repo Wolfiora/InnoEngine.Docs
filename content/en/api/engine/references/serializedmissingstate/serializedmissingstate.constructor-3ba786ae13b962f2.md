@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an immutable missing-state record.
 
+## Parameters
+
 **Parameter `key`:** The persistent owner slot represented by this record.
 
 **Parameter `descriptor`:** The persistent target intent that must survive unavailability.
 
 **Parameter `payload`:** The neutral serialized owner state required for reconstruction.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `descriptor` is null.

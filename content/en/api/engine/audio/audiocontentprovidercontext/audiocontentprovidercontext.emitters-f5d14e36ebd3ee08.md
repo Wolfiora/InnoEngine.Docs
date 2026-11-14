@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Gets a frozen copy of submitted source state in provider order.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** This provider invocation has ended.
 
 **Exception `T:System.InvalidOperationException`:** The contribution was rejected or access occurs off the owning control thread.

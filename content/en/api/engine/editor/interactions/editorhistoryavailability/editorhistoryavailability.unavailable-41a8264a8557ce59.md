@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates an unavailable transition result.
 
+## Parameters
+
 **Parameter `message`:** The non-empty diagnostic explaining why the transition is unavailable.
 
-**Returns:** An availability value that rejects the transition.
+## Returns
+
+An availability value that rejects the transition.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `message` is empty.

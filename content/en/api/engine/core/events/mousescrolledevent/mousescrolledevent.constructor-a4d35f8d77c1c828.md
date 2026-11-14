@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Raised when mouse wheel scrolls.
 
+## Parameters
+
 **Parameter `windowId`:** The window id used to initialize this instance.
 
 **Parameter `offsetX`:** The offset x used to initialize this instance.

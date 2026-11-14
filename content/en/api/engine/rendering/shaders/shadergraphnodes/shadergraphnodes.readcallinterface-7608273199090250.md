@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Reads the current interface snapshot stored on a graph-node reference.
 
+## Parameters
+
 **Parameter `node`:** Graph-node reference.
 
 **Parameter `serialization`:** Owner converter registry.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** The detached stored interface.
+## Returns
+
+The detached stored interface.

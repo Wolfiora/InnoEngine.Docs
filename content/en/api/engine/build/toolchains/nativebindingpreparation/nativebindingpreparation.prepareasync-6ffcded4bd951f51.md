@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Requests one binding batch for all generated components of a product.
 
+## Parameters
+
 **Parameter `context`:** The operation owning a frozen target selection and configured generator.
 
 **Parameter `components`:** The declared component closure; components without bindings are excluded.
@@ -19,6 +21,10 @@ Requests one binding batch for all generated components of a product.
 
 **Parameter `componentOptions`:** Exact per-owner component choices, or null for component defaults.
 
-**Returns:** An owned generation closure, empty for a product without bindings. Retain it through final consumption.
+## Returns
+
+An owned generation closure, empty for a product without bindings. Retain it through final consumption.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The tool selection or required binding generator is absent.

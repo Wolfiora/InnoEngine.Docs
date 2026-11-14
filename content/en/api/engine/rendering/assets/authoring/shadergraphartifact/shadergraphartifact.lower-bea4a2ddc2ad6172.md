@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Analyzes frozen functions and lowers the graph in the owner's active generation.
 
+## Parameters
+
 **Parameter `bytes`:** Committed authoring artifact bytes.
 
 **Parameter `implementationId`:** Selected adapter implementation identity.
@@ -25,4 +27,6 @@ Analyzes frozen functions and lowers the graph in the owner's active generation.
 
 **Parameter `defines`:** Exact target/variant preprocessing inputs.
 
-**Returns:** Complete typed stages or graph diagnostics, never a partial candidate.
+## Returns
+
+Complete typed stages or graph diagnostics, never a partial candidate.

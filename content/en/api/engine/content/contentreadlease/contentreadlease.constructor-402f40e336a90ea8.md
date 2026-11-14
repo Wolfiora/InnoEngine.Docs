@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Transfers a provider pin and independent-stream factory into a caller-owned lease.
 
+## Parameters
+
 **Parameter `entry`:** Immutable metadata identifying the pinned bytes.
 
 **Parameter `openRead`:** Opens a stream with its own provider pin; stream disposal must release that pin.

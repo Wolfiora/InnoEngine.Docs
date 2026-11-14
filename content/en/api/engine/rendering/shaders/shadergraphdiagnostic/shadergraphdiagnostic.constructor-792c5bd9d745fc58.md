@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Identifies a graph compilation problem without retaining a node or compiler instance.
 
+## Parameters
+
 **Parameter `code`:** Stable diagnostic identity.
 
 **Parameter `severity`:** Diagnostic severity.

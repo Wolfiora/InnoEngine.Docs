@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures Native declarations, selected binding inputs, the managed graph and explicit packaging inputs.
 
+## Parameters
+
 **Parameter `context`:** The borrowed operation with a frozen SDK and binding input provider.
 
 **Parameter `nativePlan`:** The exact product component closure used by preparation.
@@ -25,7 +27,11 @@ Captures Native declarations, selected binding inputs, the managed graph and exp
 
 **Parameter `cancellationToken`:** Cancels input evaluation and hashing without publishing a Pack.
 
-**Returns:** A frozen identity; no Native compilation, binding generation or Player build is executed.
+## Returns
+
+A frozen identity; no Native compilation, binding generation or Player build is executed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required operation or input declaration is null.
 

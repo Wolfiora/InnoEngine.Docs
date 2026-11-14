@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Reads ownership metadata without treating an unrelated assembly as an extension.
 
+## Parameters
+
 **Parameter `assembly`:** The assembly whose declared classification is inspected.
 
 **Parameter `domain`:** Receives the declared domain when metadata is complete.
 
 **Parameter `scope`:** Receives the declared dependency scope when metadata is complete.
 
-**Returns:** Whether both classifications are present and valid; outputs are default values on failure.
+## Returns
+
+Whether both classifications are present and valid; outputs are default values on failure.

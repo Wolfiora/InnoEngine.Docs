@@ -12,11 +12,17 @@ apiScope: Editor
 
 Draws a text link with no button background and highlights it only through text presentation.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.
 
 **Parameter `text`:** Visible link text.
 
-**Returns:** `true` when the link is pressed.
+## Returns
+
+`true` when the link is pressed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

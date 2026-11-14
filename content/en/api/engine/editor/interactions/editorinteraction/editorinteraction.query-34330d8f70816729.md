@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Queries an action for this area and target.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
 **Parameter `argument`:** An optional action argument.
 
-**Returns:** The current action state.
+## Returns
+
+The current action state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

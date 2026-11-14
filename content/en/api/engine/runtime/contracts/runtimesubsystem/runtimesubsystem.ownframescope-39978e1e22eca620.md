@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Registers a binding that must close even when a frame hook fails.
 
+## Parameters
+
 **Parameter `scope`:** The newly entered execution scope.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No subsystem frame is open.

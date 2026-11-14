@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Recognizes the reserved temporary file names created by atomic byte publication.
 
+## Parameters
+
 **Parameter `path`:** The file name or path to inspect without opening the file.
 
-**Returns:** True for a nonempty destination name followed by the reserved marker and a complete hexadecimal operation identity.
+## Returns
+
+True for a nonempty destination name followed by the reserved marker and a complete hexadecimal operation identity.
 
 ## Remarks
 
 Recognition excludes transient payloads from source discovery. It does not establish ownership or authorize deletion.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The path is null.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Selects the buffer range supplying per-instance attributes.
 
+## Parameters
+
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.
 
 **Parameter `firstInstance`:** Zero-based offset in the instance data.

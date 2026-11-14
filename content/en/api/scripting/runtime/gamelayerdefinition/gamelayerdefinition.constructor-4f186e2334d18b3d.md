@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable layer definition.
 
+## Parameters
+
 **Parameter `localId`:** The stable project-independent identity.
 
 **Parameter `layer`:** The layer slot represented by the definition.

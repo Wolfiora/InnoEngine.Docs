@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Publishes staged source metadata and atomically promotes the validated catalog, compensating metadata on failure.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when the candidate has already been committed or disposed.
 
 **Exception `T:System.IO.IOException`:** Source metadata changed externally, a sidecar cannot be written, or the catalog cannot be promoted.

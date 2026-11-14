@@ -16,4 +16,6 @@ Runs before the panel is detached from its active extension generation.
 
 This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the runtime being detached.

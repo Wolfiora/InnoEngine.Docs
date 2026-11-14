@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a complete immutable input snapshot.
 
+## Parameters
+
 **Parameter `frameIndex`:** The runtime frame that owns the snapshot.
 
 **Parameter `keysDown`:** Keys held at the frame boundary.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Prepares one presentation frame and quarantines callback failures within its owning presentation boundary.
 
+## Parameters
+
 **Parameter `context`:** The active owner-thread context.
 
 **Parameter `presentation`:** The window policy already captured for this presentation attempt.
@@ -19,6 +21,10 @@ Prepares one presentation frame and quarantines callback failures within its own
 
 **Parameter `contentSize`:** The measured extent, or null for explicit sizing or failed preparation.
 
-**Returns:** True when preparation succeeded; false when this extension is quarantined.
+## Returns
+
+True when preparation succeeded; false when this extension is quarantined.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The context is null.

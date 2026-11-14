@@ -12,6 +12,10 @@ apiScope: Editor
 
 Presents this action through the current editor interaction surface.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

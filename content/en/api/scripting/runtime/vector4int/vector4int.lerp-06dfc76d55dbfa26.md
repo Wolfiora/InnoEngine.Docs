@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Clamps the interpolation factor to \[0, 1\] and truncates each interpolated component to an integer.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
 **Parameter `t`:** The interpolation factor, where zero selects the first endpoint and one selects the second.
 
-**Returns:** The validated vector4int that represents the completed operation.
+## Returns
+
+The validated vector4int that represents the completed operation.

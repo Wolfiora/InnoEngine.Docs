@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Checks pointer distance against the displayed cubic connection without any UI or document access.
 
+## Parameters
+
 **Parameter `point`:** The screen-space pointer location.
 
 **Parameter `output`:** The displayed output endpoint.
@@ -19,6 +21,10 @@ Checks pointer distance against the displayed cubic connection without any UI or
 
 **Parameter `radius`:** Nonnegative screen-space acceptance radius.
 
-**Returns:** True when the pointer is within the curve's hit area, including its endpoints.
+## Returns
+
+True when the pointer is within the curve's hit area, including its endpoints.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Radius is negative or nonfinite.

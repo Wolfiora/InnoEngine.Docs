@@ -12,6 +12,10 @@ apiScope: Editor
 
 Determines whether the specified object is equal to the current object.
 
+## Parameters
+
 **Parameter `obj`:** The object to compare with the current object.
 
-**Returns:** `true` if the specified object is equal to the current object; otherwise, `false`.
+## Returns
+
+`true` if the specified object is equal to the current object; otherwise, `false`.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds a text service until the returned strict last-in-first-out scope is disposed.
 
+## Parameters
+
 **Parameter `text`:** The host-owned text service.
 
-**Returns:** The caller-owned binding scope.
+## Returns
+
+The caller-owned binding scope.

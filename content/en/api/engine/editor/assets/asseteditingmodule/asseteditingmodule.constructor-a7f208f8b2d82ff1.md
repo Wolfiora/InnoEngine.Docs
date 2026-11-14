@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the asset editing service for one authoring generation.
 
+## Parameters
+
 **Parameter `interactions`:** The active editor interaction entry point.
 
 **Parameter `pipeline`:** The isolated authoring asset pipeline used by browser operations.
@@ -20,5 +22,7 @@ Creates the asset editing service for one authoring generation.
 **Parameter `types`:** The active type catalog used to build extension registry snapshots.
 
 **Parameter `logs`:** The application log router used for Asset Browser operation diagnostics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when any required service is `null`.

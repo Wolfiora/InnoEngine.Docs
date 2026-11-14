@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Repositions this movement without starting a new global consumption lifetime.
 
+## Parameters
+
 **Parameter `x`:** The routed horizontal coordinate in logical pixels.
 
 **Parameter `y`:** The routed vertical coordinate in logical pixels.
 
-**Returns:** A new coordinate representation sharing global consumption with this movement.
+## Returns
+
+A new coordinate representation sharing global consumption with this movement.

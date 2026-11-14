@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Contains detached compiler state without retaining assets, tasks or extension instances.
 
+## Parameters
+
 **Parameter `state`:** Latest requested semantic candidate state.
 
 **Parameter `usingLastGood`:** Whether rendering still uses a previous successful candidate.

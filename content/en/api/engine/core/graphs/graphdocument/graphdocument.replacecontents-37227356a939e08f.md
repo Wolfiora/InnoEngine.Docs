@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Atomically replaces all records with deep copies from another neutral document.
 
+## Parameters
+
 **Parameter `source`:** Complete source state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `source` is this document.

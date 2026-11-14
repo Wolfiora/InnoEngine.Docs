@@ -12,11 +12,17 @@ apiScope: Editor
 
 Measures current dialog content before its window is opened. The returned geometry must be used with the same presentation.
 
+## Parameters
+
 **Parameter `presentation`:** The immutable content captured for this frame.
 
 **Parameter `availableSize`:** The bounded content area in already scaled presentation coordinates.
 
-**Returns:** The bounded current-frame layout, including a single scrolling body when required.
+## Returns
+
+The bounded current-frame layout, including a single scrolling body when required.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The message is null.
 

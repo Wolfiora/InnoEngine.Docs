@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a validator for the platform-selected native suffix.
 
+## Parameters
+
 **Parameter `target`:** The platform target.
 
 **Parameter `extension`:** The platform runtime-library suffix.
 
-**Returns:** A validator that rejects foreign or incomplete deployment metadata.
+## Returns
+
+A validator that rejects foreign or incomplete deployment metadata.

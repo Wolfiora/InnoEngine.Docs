@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tests matrices for approximate equality (per-element).
 
+## Parameters
+
 **Parameter `matrix1`:** First matrix.
 
 **Parameter `matrix2`:** Second matrix.
 
-**Returns:** `true` if all elements are approximately equal.
+## Returns
+
+`true` if all elements are approximately equal.

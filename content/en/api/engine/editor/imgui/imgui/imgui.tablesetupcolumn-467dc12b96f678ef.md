@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Declares one table column.
 
+## Parameters
+
 **Parameter `label`:** The column label.
 
 **Parameter `flags`:** Column behavior.

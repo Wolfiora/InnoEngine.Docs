@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds a node while preserving document order.
 
+## Parameters
+
 **Parameter `node`:** Node record to add.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the node identifier already exists.

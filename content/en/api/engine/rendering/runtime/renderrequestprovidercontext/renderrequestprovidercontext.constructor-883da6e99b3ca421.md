@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a frame-scoped provider context.
 
+## Parameters
+
 **Parameter `requests`:** Sink accepting requests for the current frame.
 
 **Parameter `content`:** Host-selected content roots visible to request providers this frame.

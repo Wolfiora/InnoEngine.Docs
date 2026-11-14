@@ -12,6 +12,10 @@ apiScope: Editor
 
 Draws disabled hint text that wraps to the current content width.
 
+## Parameters
+
 **Parameter `text`:** Hint text.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.

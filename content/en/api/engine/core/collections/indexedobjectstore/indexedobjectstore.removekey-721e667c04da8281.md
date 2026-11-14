@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Removes a key previously defined on the store.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** The key handle to remove.
 
-**Returns:** True if removed.
+## Returns
+
+True if removed.

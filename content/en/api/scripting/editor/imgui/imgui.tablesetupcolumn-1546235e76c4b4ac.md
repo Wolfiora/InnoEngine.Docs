@@ -12,6 +12,8 @@ apiScope: Editor
 
 Declares one table column.
 
+## Parameters
+
 **Parameter `label`:** The column label.
 
 **Parameter `flags`:** Column behavior.

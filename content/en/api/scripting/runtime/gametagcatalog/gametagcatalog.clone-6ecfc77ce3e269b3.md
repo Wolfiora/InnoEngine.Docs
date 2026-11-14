@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a detached mutable copy of this catalog.
 
-**Returns:** An independently owned catalog with the same definitions.
+## Returns
+
+An independently owned catalog with the same definitions.

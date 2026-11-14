@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Transfers a failed acquisition's non-owning retirement probe to the shared generation gate.
 
+## Parameters
+
 **Parameter `probe`:** The failed candidate's code and storage release probe.

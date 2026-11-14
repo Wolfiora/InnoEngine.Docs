@@ -12,8 +12,12 @@ apiScope: Editor
 
 Resolves the icon glyph displayed for the current target.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.
 
 **Parameter `target`:** The strongly typed target being inspected.
 
-**Returns:** The target-specific icon glyph. The default implementation returns ``P:InnoEditor.Inspection.InspectionDrawer`1.icon``.
+## Returns
+
+The target-specific icon glyph. The default implementation returns ``P:InnoEditor.Inspection.InspectionDrawer`1.icon``.

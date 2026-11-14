@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the native project contribution document.
 
-**Returns:** A newly owned native document payload.
+## Returns
+
+A newly owned native document payload.

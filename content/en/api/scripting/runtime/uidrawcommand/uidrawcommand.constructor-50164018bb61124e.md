@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Describes one draw of a previously published mesh.
 
+## Parameters
+
 **Parameter `mesh`:** The ui mesh handle value used to initialize this instance.
 
 **Parameter `texture`:** The ui texture handle value used to initialize this instance.

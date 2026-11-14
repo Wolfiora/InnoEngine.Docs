@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a backend using this implementation's validated inputs.
 
+## Parameters
+
 **Parameter `backend`:** The backend consumed by create backend; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated iui backend that represents the completed operation.
+## Returns
+
+The validated iui backend that represents the completed operation.

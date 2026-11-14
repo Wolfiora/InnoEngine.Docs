@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Tests whether every requested optional feature is supported.
 
-**Returns:** `true` when every requested feature is available.
+## Returns
+
+`true` when every requested feature is available.
+
+## Parameters
 
 **Parameter `required`:** The required consumed by supports; ownership remains with the caller unless explicitly stated otherwise.

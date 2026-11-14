@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether an entry is excluded from the source database.
 
+## Parameters
+
 **Parameter `relativePath`:** The normalized path relative to its owning source mount.
 
 **Parameter `isDirectory`:** Whether the source entry represents a directory.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

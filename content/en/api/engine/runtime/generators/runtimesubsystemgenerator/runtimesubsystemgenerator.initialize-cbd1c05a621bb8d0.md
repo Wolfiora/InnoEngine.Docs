@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers incremental discovery of composition methods and catalog declarations.
 
+## Parameters
+
 **Parameter `context`:** The compiler-owned incremental generation context.

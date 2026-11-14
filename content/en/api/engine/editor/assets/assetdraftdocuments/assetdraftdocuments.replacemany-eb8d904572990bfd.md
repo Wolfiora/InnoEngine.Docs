@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a fully validated selection sample atomically in the shared History.
 
+## Parameters
+
 **Parameter `candidates`:** Detached candidates keyed by their persistent source identity.
 
 **Parameter `mergeKey`:** The owning gesture key, or null for a discrete edit.

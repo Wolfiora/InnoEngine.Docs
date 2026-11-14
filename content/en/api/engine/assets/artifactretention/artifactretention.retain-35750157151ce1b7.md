@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Retains a verified output before its owner permits cache collection.
 
+## Parameters
+
 **Parameter `artifact`:** Verified immutable metadata; the provider must serialize acquisition with collection.
 
-**Returns:** A lease that releases exactly one reference, including when disposed from another thread.
-
 **Parameter `openRead`:** Opens immutable bytes; this retention owner adds an independent stream pin before invoking it.
+
+## Returns
+
+A lease that releases exactly one reference, including when disposed from another thread.

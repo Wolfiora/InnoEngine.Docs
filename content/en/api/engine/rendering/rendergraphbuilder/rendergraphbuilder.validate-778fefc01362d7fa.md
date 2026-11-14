@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates current declarations and caches their analysis without constructing an executable graph.
 
-**Returns:** A frozen result for the current revision; subsequent mutations invalidate the cached analysis.
+## Returns
+
+A frozen result for the current revision; subsequent mutations invalidate the cached analysis.

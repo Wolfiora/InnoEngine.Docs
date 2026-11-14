@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a type catalog derived transactionally from one module host.
 
+## Parameters
+
 **Parameter `modules`:** The module host that owns the assembly generations visible to this catalog.
+
+**Parameter `source`:** The metadata provider selected by the composition root for every contributed assembly.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `modules` is null.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when `modules` has already been disposed.
-
-**Parameter `source`:** The metadata provider selected by the composition root for every contributed assembly.

@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Loads the canonical asset with one persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required runtime asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The non-empty persistent asset identity.
 
-**Returns:** The canonical asset instance owned by this database.
+## Returns
+
+The canonical asset instance owned by this database.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no asset has the identity or its concrete type is incompatible with `TAsset`.
 

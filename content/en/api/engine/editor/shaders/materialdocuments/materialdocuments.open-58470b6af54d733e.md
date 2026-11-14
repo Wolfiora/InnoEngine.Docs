@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Opens native source, including a source with failed import, without publishing its draft.
 
+## Parameters
+
 **Parameter `path`:** Mounted Material source path.
 
-**Returns:** The persistent identity used for subsequent draft operations.
+## Returns
+
+The persistent identity used for subsequent draft operations.

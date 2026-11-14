@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes compiler tools, SDK inputs and child environment before a native operation starts.
 
+## Parameters
+
 **Parameter `context`:** The checkout and configuration owned by the requesting operation.
 
 **Parameter `host`:** The explicitly declared execution host, independent of the target.
@@ -19,4 +21,6 @@ Freezes compiler tools, SDK inputs and child environment before a native operati
 
 **Parameter `cancellationToken`:** Cancels SDK discovery before any product staging.
 
-**Returns:** A complete immutable tool selection for the requested host and target.
+## Returns
+
+A complete immutable tool selection for the requested host and target.

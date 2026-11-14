@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Executes the action for a typed argument.
 
+## Parameters
+
 **Parameter `context`:** The typed contextual request.

@@ -12,4 +12,6 @@ apiScope: Editor
 
 Replaces the Dear ImGui layout while retaining editor module and panel state sections.
 
+## Parameters
+
 **Parameter `value`:** The complete layout text returned by Dear ImGui.

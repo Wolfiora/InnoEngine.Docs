@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds a storage buffer to a shader binding.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.
 
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.

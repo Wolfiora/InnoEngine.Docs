@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Recursively destroys a game object and its complete child subtree.
 
+## Parameters
+
 **Parameter `gameObject`:** Root object to destroy.
 
-**Returns:** `true` when the object belonged to this scene and was destroyed.
+## Returns
+
+`true` when the object belonged to this scene and was destroyed.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Binds an asset lookup until the returned strict last-in-first-out scope is disposed.
 
+## Parameters
+
 **Parameter `assets`:** The host-owned lookup to expose to script-facing asset operations.
 
-**Returns:** A strict last-in-first-out execution scope owned by the caller.
+## Returns
+
+A strict last-in-first-out execution scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assets` is `null`.

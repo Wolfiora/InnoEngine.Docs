@@ -12,4 +12,6 @@ apiScope: Editor
 
 Sets the current local cursor position.
 
+## Parameters
+
 **Parameter `position`:** The position consumed by set cursor position; ownership remains with the caller unless explicitly stated otherwise.

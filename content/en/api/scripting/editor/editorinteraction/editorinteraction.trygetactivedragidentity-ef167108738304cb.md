@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets the currently active drag identity, if its source remains registered.
 
+## Parameters
+
 **Parameter `identity`:** The active domain-qualified runtime identity when available.
 
-**Returns:** `true` when a live drag source exists; otherwise, `false`.
+## Returns
+
+`true` when a live drag source exists; otherwise, `false`.

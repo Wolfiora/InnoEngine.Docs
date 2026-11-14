@@ -15,13 +15,19 @@ Compiles only the runtime assembly closure required by a deployed Player and bin
 
 Complete cache trees use Core IO atomic publication and replacement. Cancellation before commit preserves the previous tree; cancellation does not undo a committed cache. Cleanup failure after commit preserves the installed tree and remaining backup without activating a generation.
 
+## Parameters
+
 **Parameter `targetRuntimeDirectory`:** The verified Player Support Pack directory whose runtime assemblies will execute the emitted scripts.
 
 **Parameter `progress`:** Optional observer for monotonic compiler progress.
 
 **Parameter `cancellationToken`:** The token that cancels compilation before an artifact generation is committed.
 
-**Returns:** The immutable diagnostics and runtime-only artifacts produced by the compilation attempt.
+## Returns
+
+The immutable diagnostics and runtime-only artifacts produced by the compilation attempt.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when `cancellationToken` is canceled.
 

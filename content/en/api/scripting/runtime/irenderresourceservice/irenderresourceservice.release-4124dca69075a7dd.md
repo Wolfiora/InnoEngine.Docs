@@ -16,4 +16,6 @@ Releases cached resources with this provider-owned identifier at a safe GPU muta
 
 Calls between frames or during graph execution queue neutral identities until the next frame; runtime shutdown also retires them. Calls must occur on the rendering owner thread. Unused identities are ignored.
 
+## Parameters
+
 **Parameter `id`:** Stable resource identifier to release.

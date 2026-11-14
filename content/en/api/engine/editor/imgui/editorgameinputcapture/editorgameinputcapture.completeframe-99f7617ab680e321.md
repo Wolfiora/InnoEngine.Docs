@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Ends a presentation pass and identifies input that must be released after focus loss.
 
-**Returns:** The former platform window ID to reset, or zero if no reset is needed.
+## Returns
+
+The former platform window ID to reset, or zero if no reset is needed.

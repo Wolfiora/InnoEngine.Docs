@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Rejects missing selected inputs, undeclared native groups and invalid deployment metadata.
 
+## Parameters
+
 **Parameter `directory`:** The complete Pack directory whose content manifest is independently verified by its publisher.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A selected input or native group is missing or a library belongs to an undeclared group.
 

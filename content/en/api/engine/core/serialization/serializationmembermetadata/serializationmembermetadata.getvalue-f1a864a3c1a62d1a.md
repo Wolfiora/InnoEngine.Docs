@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads the current value through the selected declaration accessor.
 
+## Parameters
+
 **Parameter `target`:** The declaring object; ownership remains with the caller.
 
-**Returns:** The current value, including null when allowed by the declaration.
+## Returns
+
+The current value, including null when allowed by the declaration.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Reading is not permitted by this metadata.

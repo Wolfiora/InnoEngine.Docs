@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Processes current-frame input and advances one context.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.

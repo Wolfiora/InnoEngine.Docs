@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Releases the resources owned by this implementation.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** Thrown after all shutdown stages have been attempted when one or more stages failed.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A stage still owns live work. This runtime retains all remaining stages and rejects new updates.

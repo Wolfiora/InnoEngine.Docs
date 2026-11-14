@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Resolves the source and clone identity of one file relative to the sample directory.
 
+## Parameters
+
 **Parameter `relativePath`:** Slash-separated source-local file path below the sample directory.
 
 **Parameter `oldId`:** Receives the installed source identity.
 
 **Parameter `newId`:** Receives the writable clone identity.
 
-**Returns:** Whether both identities were recorded from sample metadata.
+## Returns
+
+Whether both identities were recorded from sample metadata.

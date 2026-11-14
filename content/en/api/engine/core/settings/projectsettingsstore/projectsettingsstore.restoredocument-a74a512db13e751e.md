@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Restores a previously captured native project settings document.
 
+## Parameters
+
 **Parameter `document`:** Native project settings bytes.

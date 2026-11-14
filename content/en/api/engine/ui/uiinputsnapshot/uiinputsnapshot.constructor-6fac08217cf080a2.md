@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one backend-neutral UI input snapshot.
 
+## Parameters
+
 **Parameter `mousePosition`:** Pointer position in surface coordinates.
 
 **Parameter `scrollDelta`:** Pointer wheel movement.

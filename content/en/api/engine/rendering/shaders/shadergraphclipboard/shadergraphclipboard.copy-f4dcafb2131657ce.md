@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures selected nodes and the owned contents of selected stage outputs.
 
+## Parameters
+
 **Parameter `graph`:** Source document, never changed.
 
 **Parameter `nodes`:** Selected stable identities.
@@ -19,4 +21,6 @@ Captures selected nodes and the owned contents of selected stage outputs.
 
 **Parameter `context`:** Owner reference context.
 
-**Returns:** Detached fragment retaining source declarations for a later paste.
+## Returns
+
+Detached fragment retaining source declarations for a later paste.

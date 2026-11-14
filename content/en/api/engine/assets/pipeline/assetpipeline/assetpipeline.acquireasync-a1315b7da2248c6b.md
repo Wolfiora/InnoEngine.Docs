@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Asynchronously acquires a canonical authoring asset by persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Required asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** Persistent asset identity.
 
 **Parameter `cancellationToken`:** Cancellation for this caller's asynchronous wait.
 
-**Returns:** A lease whose strong reference participates in the existing reachability sweep.
+## Returns
+
+A lease whose strong reference participates in the existing reachability sweep.

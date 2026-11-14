@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Loads the saved settings or returns an isolated copy of the canonical defaults.
 
-**Returns:** A newly owned settings object.
+## Returns
+
+A newly owned settings object.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the saved document is malformed.

@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether the previous item is hovered.
 
+## Parameters
+
 **Parameter `flags`:** Hovered query behavior.
 
-**Returns:** `true` when the query succeeds.
+## Returns
+
+`true` when the query succeeds.

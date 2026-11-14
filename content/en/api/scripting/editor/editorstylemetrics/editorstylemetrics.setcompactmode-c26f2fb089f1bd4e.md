@@ -12,9 +12,15 @@ apiScope: Editor
 
 Requests comfortable or compact density without changing an active session frame.
 
+## Parameters
+
 **Parameter `value`:** `true` for compact density.
 
-**Returns:** `true` when the requested density changed; owned drawing applies it at the next frame preparation.
+## Returns
+
+`true` when the requested density changed; owned drawing applies it at the next frame preparation.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The owning session has retired or is no longer available.
 

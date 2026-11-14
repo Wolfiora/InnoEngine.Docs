@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Gets explicit host content visible during this update.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** This provider invocation has ended.
 
 **Exception `T:System.InvalidOperationException`:** Access occurs off the owning control thread or a submission was rejected.

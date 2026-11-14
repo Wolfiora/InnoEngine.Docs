@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Starts a source-package export using the existing Build pipeline.
 
+## Parameters
+
 **Parameter `request`:** The complete, explicitly selected package request.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Another export still owns the service.

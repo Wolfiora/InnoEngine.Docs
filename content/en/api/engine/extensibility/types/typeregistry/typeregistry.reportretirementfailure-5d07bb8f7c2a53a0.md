@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Faults the shared generation gate when a resource composed from this registry cannot retire safely.
 
+## Parameters
+
 **Parameter `exception`:** The retirement or compensation failure; this notification never makes publication reversible.

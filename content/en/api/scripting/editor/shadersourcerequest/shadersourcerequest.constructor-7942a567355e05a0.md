@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates an analysis request for an explicitly selected function.
 
+## Parameters
+
 **Parameter `source`:** Root source snapshot.
 
 **Parameter `entryPoint`:** The one public function selected by source import settings.

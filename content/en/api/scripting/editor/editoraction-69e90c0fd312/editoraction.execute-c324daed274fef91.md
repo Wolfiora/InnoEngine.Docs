@@ -12,4 +12,6 @@ apiScope: Editor
 
 Executes the action for a strongly typed target.
 
+## Parameters
+
 **Parameter `context`:** The contextual request containing the typed target.

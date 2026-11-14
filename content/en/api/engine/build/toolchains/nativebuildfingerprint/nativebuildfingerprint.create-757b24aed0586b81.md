@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Hashes a complete declared input closure independently of checkout location and file timestamps.
 
+## Parameters
+
 **Parameter `declarations`:** Ordered target, configuration, SDK, compiler and linker arguments. Order is significant.
 
 **Parameter `inputs`:** Files and directories with explicit logical identities; overlapping reading locations are hashed once.
 
 **Parameter `cancellationToken`:** Cancels enumeration or complete content hashing before a fingerprint is returned.
 
-**Returns:** A lowercase SHA-256 identity that changes when a declaration, input inventory or input byte changes.
+## Returns
+
+A lowercase SHA-256 identity that changes when a declaration, input inventory or input byte changes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required input collection is null.
 

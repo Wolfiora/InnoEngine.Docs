@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Stops retaining a readback result that is no longer needed by its caller.
 
+## Parameters
+
 **Parameter `readback`:** Pending readback handle.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Opens a document or returns its existing single instance.
 
+## Parameters
+
 **Parameter `assetPath`:** Project asset path.
 
 **Parameter `assetId`:** Persistent asset identity when available.
 
-**Returns:** The stable document context.
+## Returns
+
+The stable document context.

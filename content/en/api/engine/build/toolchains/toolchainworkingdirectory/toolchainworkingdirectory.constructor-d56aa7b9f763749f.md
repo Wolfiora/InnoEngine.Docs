@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures an absolute execution path and its optional release protocol.
 
+## Parameters
+
 **Parameter `toolPath`:** The execution directory selected by the host provider.
 
 **Parameter `ownership`:** The alias and lease owner, or null for direct physical execution.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The execution path is not absolute.

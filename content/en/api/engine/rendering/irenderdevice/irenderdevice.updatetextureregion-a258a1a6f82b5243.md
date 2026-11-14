@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces a tightly packed rectangular region in one persistent texture subresource.
 
+## Parameters
+
 **Parameter `texture`:** Texture owned by this device generation.
 
 **Parameter `region`:** Destination mip, texel rectangle, and layer range.

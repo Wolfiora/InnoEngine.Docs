@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers this authoring owner with the shared candidate and rollback coordinator.
 
+## Parameters
+
 **Parameter `types`:** The owner type catalog; it must outlive this registry.

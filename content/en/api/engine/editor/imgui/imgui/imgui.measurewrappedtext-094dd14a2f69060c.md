@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Measures literal text using the same current font and wrap width as wrapped drawing.
 
+## Parameters
+
 **Parameter `text`:** The literal text, including explicit line breaks.
 
 **Parameter `wrapWidth`:** The available width in already scaled presentation coordinates.
 
-**Returns:** The copied natural text extent at the specified width.
+## Returns
+
+The copied natural text extent at the specified width.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The text is null.
 

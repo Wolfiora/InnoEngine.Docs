@@ -12,10 +12,16 @@ apiScope: Editor
 
 Tries to read one independent editor layout section snapshot.
 
+## Parameters
+
 **Parameter `sectionName`:** The section name without its INI header syntax.
 
 **Parameter `values`:** The copied values when the section exists.
 
-**Returns:** `true` when the requested section exists.
+## Returns
+
+`true` when the requested section exists.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `sectionName` is empty or cannot be represented in the layout.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Claims an unowned asset or commits new runtime state to an already owned instance.
 
+## Parameters
+
 **Parameter `asset`:** The instance to initialize; ownership cannot be transferred between databases.
 
 **Parameter `assetPath`:** The current mount-qualified source path.
@@ -22,5 +24,7 @@ Claims an unowned asset or commits new runtime state to an already owned instanc
 **Parameter `isMissing`:** Whether the preserved reference is currently unavailable.
 
 **Parameter `version`:** The current content revision used to invalidate runtime caches.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The asset belongs to a different owner.

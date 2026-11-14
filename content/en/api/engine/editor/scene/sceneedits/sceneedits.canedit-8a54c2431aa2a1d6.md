@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the scene is editable in the current Edit or isolated Play world.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to inspect.
 
-**Returns:** `true` when scene commands may change this scene. Play changes use a temporary history branch and are discarded when the Play session ends.
+## Returns
+
+`true` when scene commands may change this scene. Play changes use a temporary history branch and are discarded when the Play session ends.

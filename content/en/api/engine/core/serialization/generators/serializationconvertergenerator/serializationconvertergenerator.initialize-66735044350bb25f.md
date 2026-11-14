@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers the incremental syntax and source-production pipeline.
 
+## Parameters
+
 **Parameter `context`:** The Roslyn initialization context that receives generator registrations.

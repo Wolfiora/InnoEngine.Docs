@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates a device using this implementation's validated inputs.
 
+## Parameters
+
 **Parameter `backend`:** The backend consumed by create device; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `options`:** The validated configuration that controls this operation.
 
-**Returns:** The validated irender device that represents the completed operation.
+## Returns
+
+The validated irender device that represents the completed operation.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** No provider is registered for this exact backend ID.

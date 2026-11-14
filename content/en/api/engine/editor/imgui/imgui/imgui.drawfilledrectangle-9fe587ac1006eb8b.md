@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds a filled rectangle to the current window draw list.
 
+## Parameters
+
 **Parameter `minimum`:** The screen-space minimum corner.
 
 **Parameter `maximum`:** The screen-space maximum corner.

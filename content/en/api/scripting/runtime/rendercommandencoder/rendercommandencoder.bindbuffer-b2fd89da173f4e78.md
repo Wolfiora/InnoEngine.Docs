@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Binds a storage buffer to a shader binding.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.
 
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.

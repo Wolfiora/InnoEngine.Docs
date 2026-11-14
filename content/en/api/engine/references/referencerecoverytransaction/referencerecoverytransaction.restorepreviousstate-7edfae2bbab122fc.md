@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores previous values and lifecycle after the old type and serializer publication is active again.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Structure rollback is incomplete or the caller is not the owner thread.
 
 **Exception `T:System.AggregateException`:** One or more previous-state restorations failed.

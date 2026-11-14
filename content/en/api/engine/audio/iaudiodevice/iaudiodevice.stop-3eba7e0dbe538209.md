@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Stops a voice and makes its handle terminal.
 
+## Parameters
+
 **Parameter `voice`:** Voice owned by the current device generation.
 
-**Returns:** `true` when a live voice was stopped.
+## Returns
+
+`true` when a live voice was stopped.

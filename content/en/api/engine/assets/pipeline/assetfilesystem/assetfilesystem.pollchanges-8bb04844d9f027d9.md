@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Polls normalized changes and refreshes the indexed source snapshot.
 
-**Returns:** The changes observed since the previous poll.
+## Returns
+
+The changes observed since the previous poll.

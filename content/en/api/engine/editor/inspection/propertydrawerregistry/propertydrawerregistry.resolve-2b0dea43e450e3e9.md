@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves the most specific drawer for a declared property type.
 
+## Parameters
+
 **Parameter `propertyType`:** The declared serialized property type to resolve.
 
-**Returns:** The most specific registered drawer, or the unsupported-value fallback.
+## Returns
+
+The most specific registered drawer, or the unsupported-value fallback.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `propertyType` is `null`.

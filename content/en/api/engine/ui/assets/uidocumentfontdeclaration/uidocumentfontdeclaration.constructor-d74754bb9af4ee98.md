@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 One font asset declared by a UI document language frontend.
 
+## Parameters
+
 **Parameter `assetPath`:** Isolated font asset path.
 
 **Parameter `family`:** Document-private physical family used in canonical text.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to find the candidate type that preserves a retiring type's stable identity.
 
+## Parameters
+
 **Parameter `previousType`:** A type reference from the previous generation.
 
 **Parameter `replacement`:** Receives its candidate replacement when found.
 
-**Returns:** `true` when a distinct replacement exists.
+## Returns
+
+`true` when a distinct replacement exists.

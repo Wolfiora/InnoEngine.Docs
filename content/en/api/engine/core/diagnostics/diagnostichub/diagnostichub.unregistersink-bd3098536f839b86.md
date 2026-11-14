@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Unregisters a sink so it receives no future diagnostic changes.
 
+## Parameters
+
 **Parameter `sink`:** The sink to remove when registered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `sink` is null.

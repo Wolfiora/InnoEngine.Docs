@@ -12,9 +12,15 @@ apiScope: Editor
 
 Requests a bounded zoom without changing metrics partway through an owned native frame.
 
+## Parameters
+
 **Parameter `value`:** The requested UI zoom multiplier.
 
-**Returns:** `true` when the requested zoom changed; owned drawing applies it at the next frame preparation.
+## Returns
+
+`true` when the requested zoom changed; owned drawing applies it at the next frame preparation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `value` is not finite.
 

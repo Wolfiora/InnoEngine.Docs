@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Writes a named value through the unified value pipeline.
 
+## Type parameters
+
 **Type parameter `TValue`:** The declared value type.
+
+## Parameters
 
 **Parameter `name`:** The unique non-empty member name.
 
 **Parameter `value`:** The value to write.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `name` is empty.
 

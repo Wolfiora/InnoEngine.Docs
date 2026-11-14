@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a dockable panel registration with stable identity and presentation metadata.
 
+## Parameters
+
 **Parameter `id`:** The stable identity used for Panel-menu routing and reload-state retention.
 
 **Parameter `title`:** The visible dockable-window title.
@@ -22,5 +24,7 @@ Creates a dockable panel registration with stable identity and presentation meta
 **Parameter `menuPath`:** The optional slash-delimited category path under the generated `Panel` menu.
 
 **Parameter `separatorBefore`:** Whether the generated toggle is preceded by a separator within its final menu category.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` or `title` is empty, or when `menuPath` contains an empty segment.

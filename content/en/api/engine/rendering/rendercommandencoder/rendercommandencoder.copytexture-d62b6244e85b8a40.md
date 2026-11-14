@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies texture content without transferring resource ownership.
 
+## Parameters
+
 **Parameter `source`:** Frame-scoped source texture.
 
 **Parameter `destination`:** Frame-scoped destination texture.

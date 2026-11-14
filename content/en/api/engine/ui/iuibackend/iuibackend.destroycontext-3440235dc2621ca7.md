@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Destroys one UI context and all of its documents.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether current state contains the requested value value.
 
+## Parameters
+
 **Parameter `p`:** The p consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the requested condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the requested condition is satisfied; otherwise, `false`.

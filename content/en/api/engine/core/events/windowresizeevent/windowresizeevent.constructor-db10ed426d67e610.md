@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Raised when the window size changes.
 
+## Parameters
+
 **Parameter `windowId`:** The window id used to initialize this instance.
 
 **Parameter `width`:** The width in logical units or pixels required by this operation.

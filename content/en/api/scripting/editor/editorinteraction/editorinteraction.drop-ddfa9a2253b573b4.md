@@ -12,8 +12,12 @@ apiScope: Editor
 
 Delivers a managed drop to this target.
 
+## Parameters
+
 **Parameter `identity`:** The active domain-qualified runtime identity.
 
 **Parameter `placement`:** The requested placement relative to the target.
 
-**Returns:** The completed drop result.
+## Returns
+
+The completed drop result.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds immutable target facts to the provider that owns SDK resolution.
 
+## Parameters
+
 **Parameter `descriptor`:** The exact target and ABI supported by this contribution.
 
 **Parameter `provider`:** The borrowed provider that resolves executable tools for that target.
@@ -18,5 +20,7 @@ Binds immutable target facts to the provider that owns SDK resolution.
 **Parameter `nativeProducts`:** Optional implemented native-only products, without game publication registration.
 
 **Parameter `bindingGenerator`:** The target-owned generator, or null when the contribution generates no bindings.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required contribution member is null.

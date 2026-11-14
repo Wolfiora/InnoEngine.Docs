@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats this identifier for diagnostics and persistence.
 
-**Returns:** The protocol value, or an empty string for an uninitialized identifier.
+## Returns
+
+The protocol value, or an empty string for an uninitialized identifier.

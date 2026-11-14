@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the hierarchy index of a loaded scene.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to locate.
 
-**Returns:** The zero-based hierarchy index.
+## Returns
+
+The zero-based hierarchy index.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the scene is not loaded by this world.

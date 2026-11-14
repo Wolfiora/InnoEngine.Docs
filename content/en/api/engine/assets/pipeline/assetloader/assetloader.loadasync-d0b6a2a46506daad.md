@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Asynchronously loads a canonical asset by isolated source path.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 
 **Parameter `cancellationToken`:** Cancellation for the current caller's wait.
 
-**Returns:** The canonical asset, or `null` when unavailable or incompatible.
+## Returns
+
+The canonical asset, or `null` when unavailable or incompatible.

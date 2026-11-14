@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an isolated setting value without the project-authored override.
 
+## Parameters
+
 **Parameter `id`:** Stable setting protocol identity.
 
 **Parameter `setting`:** Receives the composed host and Plugin default value.
 
-**Returns:** `true` when the setting is defined.
+## Returns
+
+`true` when the setting is defined.

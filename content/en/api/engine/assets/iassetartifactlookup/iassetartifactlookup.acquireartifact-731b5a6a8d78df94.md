@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Retains one verified output so cache collection cannot remove an active generation.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `outputName`:** The required output protocol.
 
-**Returns:** A caller-owned immutable artifact lease.
+## Returns
+
+A caller-owned immutable artifact lease.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The requested output is unavailable or invalid.

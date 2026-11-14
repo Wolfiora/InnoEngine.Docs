@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a menu item with explicit availability and checked state.
 
+## Parameters
+
 **Parameter `label`:** The visible label and optional stable ID suffix.
 
 **Parameter `shortcut`:** A display label only; execution remains with the Action router.
@@ -19,4 +21,6 @@ Draws a menu item with explicit availability and checked state.
 
 **Parameter `enabled`:** Whether the control can accept input.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

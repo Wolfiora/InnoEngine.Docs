@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a label override.
 
+## Parameters
+
 **Parameter `name`:** Non-empty visible label.

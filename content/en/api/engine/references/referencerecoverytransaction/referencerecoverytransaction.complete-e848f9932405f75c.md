@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Retires previous objects after irreversible publication and releases every completed domain owner.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Application is incomplete or the caller is not the owner thread.
 
 **Exception `T:System.AggregateException`:** One or more completed retirement operations failed.

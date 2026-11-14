@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Writes graph-level reusable-node metadata without coupling it to an input or output record.
 
+## Parameters
+
 **Parameter `graph`:** Graph whose node identity is being assigned.
 
 **Parameter `settings`:** Detached node metadata.

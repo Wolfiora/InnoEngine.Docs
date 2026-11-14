@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Pauses a live voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice owned by the current device generation.
 
-**Returns:** `true` when the voice entered the paused state.
+## Returns
+
+`true` when the voice entered the paused state.

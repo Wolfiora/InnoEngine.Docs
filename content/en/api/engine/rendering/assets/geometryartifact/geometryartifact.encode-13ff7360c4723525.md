@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Encodes normalized geometry into the immutable runtime artifact layout.
 
+## Parameters
+
 **Parameter `data`:** The normalized vertices, indices, and sections to encode.
 
-**Returns:** A complete geometry artifact owned by the caller.
+## Returns
+
+A complete geometry artifact owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `data` is null.

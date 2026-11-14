@@ -12,10 +12,14 @@ apiScope: Editor
 
 Reads the material and pass contract without evaluating or altering the graph.
 
+## Parameters
+
 **Parameter `graph`:** Native shader graph.
 
 **Parameter `serialization`:** The owner converter registry.
 
 **Parameter `context`:** The complete owner reference context.
 
-**Returns:** A detached contract; missing or corrupt metadata is an explicit error.
+## Returns
+
+A detached contract; missing or corrupt metadata is an explicit error.

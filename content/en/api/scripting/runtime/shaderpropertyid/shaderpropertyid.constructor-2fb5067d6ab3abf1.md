@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a stable shader property identifier.
 
+## Parameters
+
 **Parameter `value`:** Stable manifest property identifier.

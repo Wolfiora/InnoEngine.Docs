@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Captures complete serialized state while sharing unchanged neutral values with a previous capture.
 
+## Type parameters
+
 **Type parameter `T`:** The exact concrete root type, interpreted by the current converter generation.
+
+## Parameters
 
 **Parameter `value`:** The non-null root captured through its current converter and declared complete inputs.
 
@@ -19,11 +23,15 @@ Captures complete serialized state while sharing unchanged neutral values with a
 
 **Parameter `previous`:** An optional immutable capture to reuse; it is never changed or retained by this registry.
 
-**Returns:** The previous instance when all captured values can be reused, otherwise a new immutable snapshot. Reference equality proves unchanged bytes; different instances may still encode identically. Ordinary serialization and snapshot encoding produce identical bytes. Capture failure publishes no snapshot.
+## Returns
+
+The previous instance when all captured values can be reused, otherwise a new immutable snapshot. Reference equality proves unchanged bytes; different instances may still encode identically. Ordinary serialization and snapshot encoding produce identical bytes. Capture failure publishes no snapshot.
 
 ## Remarks
 
 Writers borrowed by a snapshot converter belong to its synchronous callback and must not be used after it returns. Default capture evaluates getters and converters in full. An explicitly opted-in converter may reuse its prior node only after every current capture-key input has been verified. Ordinary serialization never uses these keys; incomplete or unavailable declarations retain complete capture.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source value is null.
 

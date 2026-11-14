@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes the exact runtime payload selected by the platform layout.
 
+## Parameters
+
 **Parameter `products`:** The validated product closure.
 
 **Parameter `payloads`:** The exact destination mapping.
 
-**Returns:** Native loading metadata for the complete closure.
+## Returns
+
+Native loading metadata for the complete closure.

@@ -15,11 +15,19 @@ Compiles a complete runtime and editor candidate generation without activating i
 
 Source discovery captures live inputs on the owner thread. Reference generation, Roslyn and artifact writes run in the background; progress observers must accept callbacks from either thread. Retain the source generation until the returned operation drains, including after cancellation. Complete cache trees use Core IO atomic publication and replacement. A committed cache remains valid if cleanup of its previous tree fails; compilation does not activate either generation.
 
+## Parameters
+
 **Parameter `progress`:** Optional observer for monotonic compiler progress.
 
 **Parameter `cancellationToken`:** The token that cancels compilation before an artifact generation is committed.
 
-**Returns:** The immutable diagnostics and artifacts produced by the compilation attempt.
+**Parameter `sourceSnapshot`:** Optional isolated authoring sources. Capture on its owner thread and keep its transaction alive until compilation drains; null selects the current Plugin candidate or active sources.
+
+## Returns
+
+The immutable diagnostics and artifacts produced by the compilation attempt.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when `cancellationToken` is canceled.
 
@@ -28,5 +36,3 @@ Source discovery captures live inputs on the owner thread. Reference generation,
 **Exception `T:System.UnauthorizedAccessException`:** The filesystem continues denying artifact access after the bounded Core IO wait.
 
 **Exception `T:System.AggregateException`:** Cache replacement and restoration both fail; the exception identifies the preserved previous tree.
-
-**Parameter `sourceSnapshot`:** Optional isolated authoring sources. Capture on its owner thread and keep its transaction alive until compilation drains; null selects the current Plugin candidate or active sources.

@@ -12,9 +12,15 @@ apiScope: Editor
 
 Gets the stable ordered runtime-visible properties for a serializable object.
 
+## Parameters
+
 **Parameter `value`:** The object whose property metadata should be created.
 
-**Returns:** The properties that permit runtime reads.
+## Returns
+
+The properties that permit runtime reads.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is null.
 

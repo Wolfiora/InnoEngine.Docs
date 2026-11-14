@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes a compute pipeline handle for backend lookup and generation validation.
 
+## Parameters
+
 **Parameter `handle`:** The backend-neutral compute pipeline handle.
 
-**Returns:** The backend resource identity and owning device generation.
+## Returns
+
+The backend resource identity and owning device generation.

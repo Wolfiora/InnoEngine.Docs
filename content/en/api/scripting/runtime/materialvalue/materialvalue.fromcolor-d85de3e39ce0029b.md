@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a linear color material value.
 
+## Parameters
+
 **Parameter `value`:** Color value.
 
-**Returns:** A color material value.
+## Returns
+
+A color material value.

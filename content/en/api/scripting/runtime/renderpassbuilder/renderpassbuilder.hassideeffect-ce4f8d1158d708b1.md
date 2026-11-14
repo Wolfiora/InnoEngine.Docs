@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Prevents pass culling because execution has an externally observable effect.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

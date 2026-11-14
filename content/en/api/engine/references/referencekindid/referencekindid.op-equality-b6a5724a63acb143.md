@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two reference kind identifiers are equal.
 
+## Parameters
+
 **Parameter `left`:** The first identifier.
 
 **Parameter `right`:** The second identifier.
 
-**Returns:** `true` when the identifiers are equal; otherwise, `false`.
+## Returns
+
+`true` when the identifiers are equal; otherwise, `false`.

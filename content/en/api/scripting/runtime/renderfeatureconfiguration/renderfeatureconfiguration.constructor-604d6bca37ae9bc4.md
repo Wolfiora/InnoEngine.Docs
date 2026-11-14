@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a feature configuration.
 
+## Parameters
+
 **Parameter `featureTypeId`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe settings state.

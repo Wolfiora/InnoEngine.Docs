@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Makes the selected document visible in its owning UI context.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by show document; ownership remains with the caller unless explicitly stated otherwise.

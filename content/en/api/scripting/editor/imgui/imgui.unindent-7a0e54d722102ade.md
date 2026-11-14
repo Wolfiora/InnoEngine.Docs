@@ -12,4 +12,6 @@ apiScope: Editor
 
 Restores a matching indentation step.
 
+## Parameters
+
 **Parameter `amount`:** The requested layout distance.

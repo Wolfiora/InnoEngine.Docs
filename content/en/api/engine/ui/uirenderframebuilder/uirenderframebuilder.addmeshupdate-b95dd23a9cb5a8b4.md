@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds one mesh update and takes exclusive ownership of both arrays.
 
+## Parameters
+
 **Parameter `mesh`:** Assigned mesh handle.
 
 **Parameter `revision`:** Positive content revision.

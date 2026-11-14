@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates presentation preferences for one Editor viewport.
 
+## Parameters
+
 **Parameter `backgroundColor`:** Linear clear color preferred by the host panel.
 
 **Parameter `pixelDensity`:** Physical render pixels per logical presentation unit.

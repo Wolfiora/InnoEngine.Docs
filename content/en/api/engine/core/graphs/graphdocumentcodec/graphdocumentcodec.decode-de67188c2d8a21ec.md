@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Decodes one current native graph document.
 
+## Parameters
+
 **Parameter `bytes`:** Complete native graph payload.
 
 **Parameter `serialization`:** The serialization registry that owns the converter generation for this operation.
 
-**Returns:** A detached mutable neutral graph document.
+## Returns
+
+A detached mutable neutral graph document.

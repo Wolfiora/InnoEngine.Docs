@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `c`:** The c consumed by \*; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `factor`:** The factor consumed by \*; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated color that represents the completed operation.
+## Returns
+
+The validated color that represents the completed operation.

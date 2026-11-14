@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Performs a due full collection cycle and reevaluates every retired generation.
 
-**Returns:** `true` only when every probe has completed; otherwise, `false`.
+## Returns
+
+`true` only when every probe has completed; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:Inno.Extensibility.Reload.AssemblyUnloadException`:** Thrown on every call after the retention threshold is reached while a generation remains reachable.

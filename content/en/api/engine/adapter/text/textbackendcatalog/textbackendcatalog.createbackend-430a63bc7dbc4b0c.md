@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates one caller-owned text backend.
 
+## Parameters
+
 **Parameter `backend`:** The selected backend implementation.
 
-**Returns:** A newly allocated text backend.
+## Returns
+
+A newly allocated text backend.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The selected provider returned no service.

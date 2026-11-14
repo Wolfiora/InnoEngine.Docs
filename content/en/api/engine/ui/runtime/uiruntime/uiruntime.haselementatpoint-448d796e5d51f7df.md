@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tests whether an interactive document element occupies the supplied point.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `position`:** The position consumed by has element at point; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

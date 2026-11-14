@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Registers a sink to receive future entries from this router.
 
+## Parameters
+
 **Parameter `sink`:** The sink to register exactly once.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `sink` is null.
 

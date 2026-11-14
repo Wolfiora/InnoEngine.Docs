@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Describes ports for the current neutral properties and resolved source/target inputs.
 
+## Parameters
+
 **Parameter `context`:** Invocation-scoped node properties and frozen source/target data.
 
-**Returns:** Complete typed ports; duplicate identities are invalid.
+## Returns
+
+Complete typed ports; duplicate identities are invalid.

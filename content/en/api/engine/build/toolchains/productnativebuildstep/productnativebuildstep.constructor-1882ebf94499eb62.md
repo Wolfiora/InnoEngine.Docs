@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes a component step without embedding any backend list in the shared executor.
 
+## Parameters
+
 **Parameter `id`:** The expected published component identity.
 
 **Parameter `component`:** The unique source and recipe owners.
@@ -28,6 +30,8 @@ Freezes a component step without embedding any backend list in the shared execut
 **Parameter `configuration`:** An explicit component configuration, or null to use the product configuration.
 
 **Parameter `bindDependencies`:** Optional backend-owned transformation adding the exact published dependency inputs to its source recipe. It must not generate outputs or execute tools.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity or dependency set is invalid.
 

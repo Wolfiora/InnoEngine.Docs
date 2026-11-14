@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the original sample directory name for a writable Project copy.
 
+## Parameters
+
 **Parameter `path`:** A sample directory path whose final segment starts with `~`.
 
-**Returns:** The unchanged final directory segment, including every leading `~`.
+## Returns
+
+The unchanged final directory segment, including every leading `~`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` does not identify a sample directory or has no usable name after its prefix.

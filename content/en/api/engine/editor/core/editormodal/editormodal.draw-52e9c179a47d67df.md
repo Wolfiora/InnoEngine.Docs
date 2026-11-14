@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Draws the modal body inside the runtime-managed centered window.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing current project and frame state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates resolved slots after provisional structures and values have been applied, before commit.
 
+## Parameters
+
 **Parameter `changes`:** The complete immutable set of candidate recovery changes; optional missing slots remain preserved.

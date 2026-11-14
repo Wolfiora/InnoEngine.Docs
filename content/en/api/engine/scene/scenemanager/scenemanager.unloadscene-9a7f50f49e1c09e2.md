@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Unloads one scene from the current runtime session.
 
+## Parameters
+
 **Parameter `scene`:** The scene to unload.
 
-**Returns:** `true` when the scene was loaded; otherwise, `false`.
+## Returns
+
+`true` when the scene was loaded; otherwise, `false`.

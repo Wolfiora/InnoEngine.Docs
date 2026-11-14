@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Tries to resolve a named texture artifact preview without blocking target compilation.
 
+## Parameters
+
 **Parameter `texture`:** Stable named texture artifact reference.
 
 **Parameter `pixelWidth`:** Positive source width.
@@ -19,4 +21,6 @@ Tries to resolve a named texture artifact preview without blocking target compil
 
 **Parameter `handle`:** Receives a generation-scoped handle when ready.
 
-**Returns:** `true` when the preview is ready.
+## Returns
+
+`true` when the preview is ready.

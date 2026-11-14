@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the icon glyph displayed in the Inspector target header.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.
 
-**Returns:** The icon glyph for the current target.
+## Returns
+
+The icon glyph for the current target.

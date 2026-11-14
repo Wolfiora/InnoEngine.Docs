@@ -15,4 +15,6 @@ Completes frame-scoped rendering state after render submission.
 
 A `T:Inno.Core.Layers.LayerStack` invokes this callback in reverse order for every layer whose `M:Inno.Core.Layers.Layer.OnBeforeRender(System.Single)` callback completed successfully, including when later work fails.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

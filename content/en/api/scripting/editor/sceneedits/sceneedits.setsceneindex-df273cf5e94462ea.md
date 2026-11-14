@@ -12,6 +12,8 @@ apiScope: Editor
 
 Moves a loaded scene to a hierarchy index and records the two integer positions.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to reorder.
 
 **Parameter `sceneIndex`:** The requested hierarchy index.

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to read one frame-local override.
 
+## Parameters
+
 **Parameter `id`:** Stable shader property identifier.
 
-**Returns:** `true` when the override exists.
-
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+`true` when the override exists.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Submits a draw using the currently bound pipeline and resources.
 
+## Parameters
+
 **Parameter `vertexCount`:** Number of vertices to submit.
 
 **Parameter `instanceCount`:** Number of instances to submit.

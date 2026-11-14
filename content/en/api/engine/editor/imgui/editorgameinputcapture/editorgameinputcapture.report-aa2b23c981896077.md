@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reports the Game View image in coordinates local to its platform window.
 
+## Parameters
+
 **Parameter `viewportId`:** The presentation viewport containing the Game View.
 
 **Parameter `origin`:** The image's upper-left corner relative to that window.
@@ -21,4 +23,6 @@ Reports the Game View image in coordinates local to its platform window.
 
 **Parameter `hovered`:** Whether the image is inside the frontmost hovered ImGui window.
 
-**Returns:** `true` when the Game View and its platform window both own focus.
+## Returns
+
+`true` when the Game View and its platform window both own focus.

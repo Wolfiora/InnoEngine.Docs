@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Returns the fully qualified type name of this instance.
 
-**Returns:** The fully qualified type name.
+## Returns
+
+The fully qualified type name.

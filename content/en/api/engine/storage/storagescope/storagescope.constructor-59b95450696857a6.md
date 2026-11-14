@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures a portable, case-sensitive application namespace.
 
+## Parameters
+
 **Parameter `value`:** A nonempty namespace containing ASCII letters, digits, dots, underscores, or hyphens.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The namespace is empty, contains path syntax, has a leading or trailing dot, or contains a reserved portable device name.

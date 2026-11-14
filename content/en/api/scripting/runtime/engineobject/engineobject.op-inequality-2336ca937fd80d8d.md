@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Compares engine objects using reference identity and destroyed-object null semantics.
 
+## Parameters
+
 **Parameter `left`:** Left operand.
 
 **Parameter `right`:** Right operand.
 
-**Returns:** `true` when the operands do not represent the same object.
+## Returns
+
+`true` when the operands do not represent the same object.

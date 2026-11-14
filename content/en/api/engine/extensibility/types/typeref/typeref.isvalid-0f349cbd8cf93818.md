@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Determines whether one type catalog currently resolves this reference.
 
+## Parameters
+
 **Parameter `catalog`:** The catalog whose active immutable generation should be queried.
 
-**Returns:** `true` when the reference is non-empty and currently resolvable.
+## Returns
+
+`true` when the reference is non-empty and currently resolvable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `catalog` is null.

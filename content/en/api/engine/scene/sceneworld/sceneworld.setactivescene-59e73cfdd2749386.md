@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Makes one loaded scene active without changing the loaded set.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to activate.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the scene is not loaded by this world.

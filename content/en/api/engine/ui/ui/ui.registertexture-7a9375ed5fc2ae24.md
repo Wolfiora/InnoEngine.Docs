@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Registers one named RGBA8 texture source.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `source`:** The source value or location read by this operation.

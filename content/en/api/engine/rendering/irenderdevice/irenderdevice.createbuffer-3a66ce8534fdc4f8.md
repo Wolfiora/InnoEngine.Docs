@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a persistent vertex, index or storage buffer at a frame safety point.
 
+## Parameters
+
 **Parameter `descriptor`:** Buffer capacity and interpretation.
 
 **Parameter `initialData`:** Optional complete initial contents.
 
 **Parameter `name`:** Debug and diagnostic name.
 
-**Returns:** An opaque device-generation buffer handle.
+## Returns
+
+An opaque device-generation buffer handle.

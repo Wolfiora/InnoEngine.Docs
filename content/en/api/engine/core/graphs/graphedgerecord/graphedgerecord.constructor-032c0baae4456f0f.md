@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a graph edge record.
 
+## Parameters
+
 **Parameter `id`:** Stable edge identifier within the document.
 
 **Parameter `output`:** Source endpoint.

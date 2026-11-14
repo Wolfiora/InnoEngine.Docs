@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Selects the SDK from an authoring owner's directory before any temporary evaluation project is created.
 
+## Parameters
+
 **Parameter `hostPath`:** The managed host explicitly selected by the composition root.
 
 **Parameter `ownerDirectory`:** The existing source owner whose ancestor global.json rules govern the operation.
 
 **Parameter `cancellationToken`:** Cancels discovery and drains the SDK process.
 
-**Returns:** The selected SDK and fixed managed CLI path, without probing reference pack directories.
+## Returns
+
+The selected SDK and fixed managed CLI path, without probing reference pack directories.
+
+## Exceptions
 
 **Exception `T:System.IO.DirectoryNotFoundException`:** The source owner directory does not exist.
 

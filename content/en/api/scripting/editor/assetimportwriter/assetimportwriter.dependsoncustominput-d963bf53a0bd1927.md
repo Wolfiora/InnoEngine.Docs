@@ -12,6 +12,8 @@ apiScope: Editor
 
 Declares a custom deterministic import input.
 
+## Parameters
+
 **Parameter `key`:** The input identifier.
 
 **Parameter `fingerprint`:** The deterministic input fingerprint.

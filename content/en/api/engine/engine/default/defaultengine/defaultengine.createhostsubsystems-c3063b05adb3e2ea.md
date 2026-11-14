@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the default host factory set over the product-configured rendering runtime.
 
+## Parameters
+
 **Parameter `context`:** The rendering runtime whose domain resources are owned by this host.
 
-**Returns:** A frozen host-lifetime factory list that is never inserted into a session pipeline.
+## Returns
+
+A frozen host-lifetime factory list that is never inserted into a session pipeline.

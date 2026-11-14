@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Returns the smallest axis-aligned rectangle containing both supplied rectangles.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** The validated rect int that represents the completed operation.
+## Returns
+
+The validated rect int that represents the completed operation.

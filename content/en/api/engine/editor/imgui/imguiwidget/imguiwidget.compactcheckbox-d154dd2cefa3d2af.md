@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a compact checkbox whose checked fill uses the current text color.
 
+## Parameters
+
 **Parameter `id`:** Stable control identifier.
 
 **Parameter `value`:** Mutable checked state.
@@ -19,4 +21,6 @@ Draws a compact checkbox whose checked fill uses the current text color.
 
 **Parameter `tooltip`:** Optional explanation displayed while the checkbox is hovered.
 
-**Returns:** `true` when the value changed.
+## Returns
+
+`true` when the value changed.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets a detached copy of the serialized runtime graph.
 
-**Returns:** A payload copy owned by the caller.
+## Returns
+
+A payload copy owned by the caller.

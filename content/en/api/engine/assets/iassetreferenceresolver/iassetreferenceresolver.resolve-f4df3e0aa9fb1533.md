@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves one serialized asset reference to the canonical object owned by this resolver.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity encoded in the reference.
 
 **Parameter `stableTypeId`:** The stable concrete asset type identity encoded in the reference.
@@ -21,6 +23,10 @@ Resolves one serialized asset reference to the canonical object owned by this re
 
 **Parameter `propertyPath`:** The serialization property path used when reporting resolution failures.
 
-**Returns:** The canonical compatible asset owned by this resolver's generation.
+## Returns
+
+The canonical compatible asset owned by this resolver's generation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the reference cannot be resolved to a compatible asset.

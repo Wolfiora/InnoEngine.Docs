@@ -12,8 +12,14 @@ apiScope: Editor
 
 Produces a finite, exact 32-bit floating-point constant.
 
+## Parameters
+
 **Parameter `value`:** Finite scalar value, including signed zero.
 
-**Returns:** A float-typed intermediate value.
+## Returns
+
+A float-typed intermediate value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The value is NaN or infinite.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Configures neutral host navigation before input is processed and a request is built.
 
+## Parameters
+
 **Parameter `context`:** Frame-only Editor, navigation, content, and viewport context.
 
-**Returns:** The controller's current navigation capabilities and optional selection focus bound.
+## Returns
+
+The controller's current navigation capabilities and optional selection focus bound.

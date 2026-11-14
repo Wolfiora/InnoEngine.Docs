@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all concrete discovered types marked with `TAttribute`.
 
+## Type parameters
+
 **Type parameter `TAttribute`:** The attribute type required on every selected concrete type.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

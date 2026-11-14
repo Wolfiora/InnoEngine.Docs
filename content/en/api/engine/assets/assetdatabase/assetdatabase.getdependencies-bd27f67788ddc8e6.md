@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Gets the direct persistent dependencies declared by one loaded or cataloged asset.
 
+## Parameters
+
 **Parameter `asset`:** The canonical asset whose deployed dependency descriptors are requested.
 
-**Returns:** A deterministic immutable snapshot of direct dependencies.
+## Returns
+
+A deterministic immutable snapshot of direct dependencies.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when `asset` is not owned by this database.
 

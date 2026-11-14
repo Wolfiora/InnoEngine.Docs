@@ -12,10 +12,18 @@ apiScope: Runtime
 
 Loads the canonical asset at a logical catalog path in the current session.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset contract.
+
+## Parameters
 
 **Parameter `path`:** The mount-qualified logical catalog path.
 
-**Returns:** The canonical compatible asset owned by the current lookup.
+## Returns
+
+The canonical compatible asset owned by the current lookup.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no asset lookup is active, the asset does not exist, or its type is incompatible.

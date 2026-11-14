@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Starts an independently disposable history branch while retaining the current editing branch.
 
-**Returns:** A lease that releases the temporary branch and restores the retained branch when disposed.
+## Returns
+
+A lease that releases the temporary branch and restores the retained branch when disposed.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown while another history transition, transaction, or isolated branch is active.

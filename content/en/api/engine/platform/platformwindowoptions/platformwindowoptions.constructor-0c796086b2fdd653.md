@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Defines backend-neutral properties used to create a platform window.
 
-**Returns:** A validated immutable window description.
+## Returns
+
+A validated immutable window description.

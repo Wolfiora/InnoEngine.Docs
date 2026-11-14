@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs a host-native process with the context's frozen compiler and SDK selection.
 
+## Parameters
+
 **Parameter `context`:** A context resolved by NativeToolchainSelection before artifact fingerprinting.
 
 **Parameter `fileName`:** A selected build command or an absolute executable declared as a component input.
@@ -21,7 +23,11 @@ Runs a host-native process with the context's frozen compiler and SDK selection.
 
 **Parameter `cancellationToken`:** Cancels and retires the complete process tree.
 
-**Returns:** Completion after successful exit and complete output delivery.
+## Returns
+
+Completion after successful exit and complete output delivery.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Host tools were not resolved, a command is unavailable or a process fails.
 

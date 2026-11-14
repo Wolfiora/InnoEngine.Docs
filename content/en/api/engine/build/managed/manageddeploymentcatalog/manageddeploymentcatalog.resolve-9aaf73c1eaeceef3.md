@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Resolves a provider and verifies target support before staging begins.
 
+## Parameters
+
 **Parameter `deployment`:** The stable provider identity selected by the build profile.
 
 **Parameter `runtimeIdentifier`:** The exact managed target required by the platform composition.
 
-**Returns:** The provider that supports the requested target; missing capabilities throw explicitly.
+## Returns
+
+The provider that supports the requested target; missing capabilities throw explicitly.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No provider is registered, or the selected provider cannot publish the requested target.

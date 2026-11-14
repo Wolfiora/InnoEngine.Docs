@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Begins a managed drag originating from this area.
 
+## Parameters
+
 **Parameter `data`:** The managed source data.
 
-**Returns:** The source object's domain-qualified transient identity.
+## Returns
+
+The source object's domain-qualified transient identity.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a quaternion from a rotation matrix.
 
+## Parameters
+
 **Parameter `m`:** The transformation matrix applied to the supplied value.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

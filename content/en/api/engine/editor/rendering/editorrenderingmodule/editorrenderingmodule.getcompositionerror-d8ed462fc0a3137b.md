@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the most recent isolated contribution or composition failure for one stable viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
-**Returns:** The failure message, or null when no current failure exists.
+## Returns
+
+The failure message, or null when no current failure exists.

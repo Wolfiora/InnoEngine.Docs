@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Begins a connection drag from one output endpoint.
 
+## Parameters
+
 **Parameter `output`:** Stable output endpoint.

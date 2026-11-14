@@ -12,10 +12,14 @@ apiScope: Editor
 
 Creates a keyboard gesture with an exact set of modifier keys after symbolic-key normalization.
 
+## Parameters
+
 **Parameter `key`:** The non-modifier key in the gesture.
 
 **Parameter `modifiers`:** The modifier keys required by the gesture.
 
 **Parameter `superModifierLabel`:** The display name of the Super modifier; the neutral name is used for explicitly constructed gestures.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The modifier label is empty.

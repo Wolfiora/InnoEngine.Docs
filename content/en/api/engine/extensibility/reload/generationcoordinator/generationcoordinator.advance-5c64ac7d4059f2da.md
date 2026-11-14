@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Runs a due Full GC/finalizer/Full GC cycle only after candidate stack frames have unwound.
 
-**Returns:** True only when every tracked context is unreachable and admission is ready.
+## Returns
+
+True only when every tracked context is unreachable and admission is ready.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The gate is terminally Faulted.
 

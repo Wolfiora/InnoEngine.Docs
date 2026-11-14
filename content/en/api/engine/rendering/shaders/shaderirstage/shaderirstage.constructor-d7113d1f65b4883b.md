@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates and freezes a single stage's interface and ordered body.
 
+## Parameters
+
 **Parameter `stage`:** Exactly Vertex, Fragment or Compute.
 
 **Parameter `body`:** Immutable typed instructions and named outputs.

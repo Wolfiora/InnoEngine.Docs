@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns a candidate set for this condition if available.
 
+## Parameters
+
 **Parameter `store`:** Store being queried.
 
-**Returns:** Candidate set, or null when not supported.
+## Returns
+
+Candidate set, or null when not supported.

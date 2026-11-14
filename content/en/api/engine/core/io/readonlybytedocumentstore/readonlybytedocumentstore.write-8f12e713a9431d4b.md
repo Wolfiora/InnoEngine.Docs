@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Replaces the document atomically after preparation succeeds.
 
+## Parameters
+
 **Parameter `data`:** The complete candidate bytes; the implementation cannot retain borrowed caller memory.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The source is read-only.

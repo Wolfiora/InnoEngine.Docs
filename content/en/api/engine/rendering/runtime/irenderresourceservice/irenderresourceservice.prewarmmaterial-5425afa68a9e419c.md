@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Queues all target shader work required by a material without blocking the render thread.
 
+## Parameters
+
 **Parameter `material`:** Material whose selected static variant should be prepared.
 
-**Returns:** The exact target artifact state for this material variant: Ready includes a usable last-good artifact, Pending means compilation is ongoing, and Failed or Unavailable means no artifact can currently be used.
+## Returns
+
+The exact target artifact state for this material variant: Ready includes a usable last-good artifact, Pending means compilation is ongoing, and Failed or Unavailable means no artifact can currently be used.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The material has no shader or declares an invalid static variant.
 

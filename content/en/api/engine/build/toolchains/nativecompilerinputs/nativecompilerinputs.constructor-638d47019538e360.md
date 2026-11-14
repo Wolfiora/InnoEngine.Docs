@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures explicit parser inputs supplied by the target SDK provider.
 
+## Parameters
+
 **Parameter `cCompiler`:** The selected C compiler, or null when this selection does not provide one.
 
 **Parameter `cppCompiler`:** The selected C++ compiler, or null when this selection does not provide one.
@@ -24,5 +26,7 @@ Captures explicit parser inputs supplied by the target SDK provider.
 **Parameter `defines`:** Ordered target preprocessor definitions.
 
 **Parameter `arguments`:** Ordered parser arguments supplied by the SDK.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An assigned physical path is not absolute.

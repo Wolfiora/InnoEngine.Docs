@@ -15,6 +15,10 @@ Starts a pending compilation after the configured quiet period has elapsed.
 
 The initial automatic request is immediately ready and does not observe the debounce duration.
 
+## Parameters
+
 **Parameter `compilation`:** The started compilation task, or `null` when none was ready.
 
-**Returns:** `true` when a pending compilation was started.
+## Returns
+
+`true` when a pending compilation was started.

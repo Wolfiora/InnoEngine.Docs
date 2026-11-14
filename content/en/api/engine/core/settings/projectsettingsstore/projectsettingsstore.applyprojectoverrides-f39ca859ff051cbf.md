@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Applies a native batch of project-authored overrides and removals.
 
+## Parameters
+
 **Parameter `values`:** Setting values keyed by stable protocol identity.
 
 **Parameter `resets`:** Setting identities whose project overrides are removed.
 
-**Returns:** `true` when the native document changed.
+## Returns
+
+`true` when the native document changed.

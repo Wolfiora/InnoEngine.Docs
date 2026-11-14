@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Freezes generated declaration contributions supplied by the Player composition.
 
+## Parameters
+
 **Parameter `catalogs`:** Assembly-local registration methods; delegates are released after construction.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A registration is null or two assemblies disagree about a closed shape.

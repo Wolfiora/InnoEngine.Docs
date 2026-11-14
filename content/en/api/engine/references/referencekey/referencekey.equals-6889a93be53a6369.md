@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an object identifies the same owner slot.
 
+## Parameters
+
 **Parameter `obj`:** The object to compare with this value.
 
-**Returns:** `true` when the object is an equal key; otherwise, `false`.
+## Returns
+
+`true` when the object is an equal key; otherwise, `false`.

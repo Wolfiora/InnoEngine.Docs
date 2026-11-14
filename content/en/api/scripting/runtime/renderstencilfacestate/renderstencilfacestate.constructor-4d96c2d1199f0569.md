@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates one face stencil state.
 
+## Parameters
+
 **Parameter `compare`:** Stencil comparison.
 
 **Parameter `fail`:** Operation after stencil comparison failure.

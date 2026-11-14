@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Publishes a complete directory at an unoccupied path without replacing an existing destination.
 
+## Parameters
+
 **Parameter `source`:** The complete candidate directory, disjoint from the destination.
 
 **Parameter `destination`:** The unoccupied publication path on the same filesystem.
@@ -20,6 +22,8 @@ Publishes a complete directory at an unoccupied path without replacing an existi
 ## Remarks
 
 Windows access and sharing failures are retried for at most two seconds to tolerate temporary readers. Failure preserves the candidate and any existing destination. A committed rename is not canceled afterward.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A path is blank or the two directory trees overlap.
 

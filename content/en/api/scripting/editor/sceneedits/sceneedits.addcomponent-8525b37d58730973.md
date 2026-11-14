@@ -12,10 +12,14 @@ apiScope: Editor
 
 Adds one component and records its identity, stable type, index, and persistent properties.
 
+## Parameters
+
 **Parameter `owner`:** The live GameObject receiving the component.
 
 **Parameter `componentType`:** The concrete component type to create.
 
 **Parameter `historyName`:** An optional user-facing history entry name.
 
-**Returns:** The newly attached component.
+## Returns
+
+The newly attached component.

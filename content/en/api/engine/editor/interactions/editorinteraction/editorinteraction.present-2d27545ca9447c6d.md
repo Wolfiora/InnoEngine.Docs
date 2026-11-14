@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Presents an active action in place of this target's normal content.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
 **Parameter `argument`:** Optional presentation data supplied by the current view.
 
-**Returns:** `true` when the action presented content; otherwise, `false`.
+## Returns
+
+`true` when the action presented content; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

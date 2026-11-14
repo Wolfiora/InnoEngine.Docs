@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Shows one document.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.

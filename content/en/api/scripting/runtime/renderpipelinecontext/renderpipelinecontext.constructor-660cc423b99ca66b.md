@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a pipeline build context.
 
+## Parameters
+
 **Parameter `request`:** Pipeline-defined render request.
 
 **Parameter `pipelineAsset`:** Selected persistent pipeline configuration.

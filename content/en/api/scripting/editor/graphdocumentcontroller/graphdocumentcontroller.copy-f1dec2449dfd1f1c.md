@@ -12,6 +12,10 @@ apiScope: Editor
 
 Copies selected nodes and only their internal connections.
 
+## Parameters
+
 **Parameter `nodeIds`:** Nodes to copy.
 
-**Returns:** A detached neutral clipboard fragment.
+## Returns
+
+A detached neutral clipboard fragment.

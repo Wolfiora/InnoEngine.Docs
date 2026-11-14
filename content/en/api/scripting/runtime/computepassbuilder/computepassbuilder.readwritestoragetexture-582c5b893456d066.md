@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Declares an unordered texture read and write.
 
+## Parameters
+
 **Parameter `texture`:** Storage texture read and written by compute work.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

@@ -12,8 +12,12 @@ apiScope: Editor
 
 Begins a named popup.
 
+## Parameters
+
 **Parameter `id`:** The popup identity.
 
 **Parameter `flags`:** Popup window behavior.
 
-**Returns:** `true` when popup contents should be submitted.
+## Returns
+
+`true` when popup contents should be submitted.

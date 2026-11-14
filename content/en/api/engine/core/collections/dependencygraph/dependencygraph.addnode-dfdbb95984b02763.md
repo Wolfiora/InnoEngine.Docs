@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds a node when it does not already exist.
 
+## Parameters
+
 **Parameter `node`:** The node key.
 
-**Returns:** `true` when a node was added.
+## Returns
+
+`true` when a node was added.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an audio feature over a newly allocated runtime layer.
 
+## Parameters
+
 **Parameter `context`:** The isolated session context passed to the audio runtime factory.
 
-**Returns:** A new feature that exclusively owns its audio runtime layer.
+## Returns
+
+A new feature that exclusively owns its audio runtime layer.

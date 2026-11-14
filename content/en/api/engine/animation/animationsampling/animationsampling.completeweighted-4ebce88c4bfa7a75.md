@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Normalizes a weighted sum, including quaternion normalization.
 
+## Parameters
+
 **Parameter `sum`:** The accumulated sum.
 
 **Parameter `inverseWeight`:** The reciprocal total weight.
 
-**Returns:** The final blended value.
+## Returns
+
+The final blended value.

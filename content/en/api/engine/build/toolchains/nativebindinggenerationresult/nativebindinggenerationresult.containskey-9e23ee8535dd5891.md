@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Determines whether the read-only dictionary contains an element that has the specified key.
 
+## Parameters
+
 **Parameter `key`:** The key to locate.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** `key` is `null`.
 
-**Returns:** `true` if the read-only dictionary contains an element that has the specified key; otherwise, `false`.
-
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.
+
+## Returns
+
+`true` if the read-only dictionary contains an element that has the specified key; otherwise, `false`.

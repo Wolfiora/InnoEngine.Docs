@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates mute state for one bus.
 
+## Parameters
+
 **Parameter `bus`:** Bus owned by the current device generation.
 
 **Parameter `muted`:** Whether output from the bus is silenced.
 
-**Returns:** `true` when the bus was updated.
+## Returns
+
+`true` when the bus was updated.

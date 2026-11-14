@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves immutable catalog information by source path.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `info`:** The catalog information, or null when the source is absent.
 
-**Returns:** True when catalog information exists.
+## Returns
+
+True when catalog information exists.

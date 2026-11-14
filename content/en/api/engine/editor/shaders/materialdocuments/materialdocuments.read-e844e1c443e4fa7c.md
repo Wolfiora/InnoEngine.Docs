@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads a detached current-generation Material; referenced assets remain canonical read-only inputs.
 
+## Parameters
+
 **Parameter `assetId`:** Open Material source identity.
 
-**Returns:** The current unsaved Material value.
+## Returns
+
+The current unsaved Material value.

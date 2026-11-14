@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a standard button.
 
+## Parameters
+
 **Parameter `label`:** The visible label and optional ImGui identity suffix.
 
 **Parameter `size`:** The requested size, or zero components for automatic sizing.
 
-**Returns:** `true` when the button is activated.
+## Returns
+
+`true` when the button is activated.

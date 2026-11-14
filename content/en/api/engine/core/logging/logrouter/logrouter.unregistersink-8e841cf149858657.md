@@ -15,6 +15,10 @@ Removes a sink from subsequent delivery snapshots without disposing it.
 
 An in-flight batch may still borrow the previous snapshot. This operation does not wait for its callbacks; the host must coordinate quiescence before releasing sink resources. Router disposal releases only sinks that remain registered.
 
+## Parameters
+
 **Parameter `sink`:** The sink to remove when registered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `sink` is null.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Acquires or atomically replaces a provider-owned graphics pipeline.
 
+## Parameters
+
 **Parameter `id`:** Globally stable provider-owned resource ID.
 
 **Parameter `revision`:** Provider-controlled content revision.
@@ -20,4 +22,6 @@ Acquires or atomically replaces a provider-owned graphics pipeline.
 
 **Parameter `name`:** Diagnostic name.
 
-**Returns:** A graphics pipeline owned by the active device generation.
+## Returns
+
+A graphics pipeline owned by the active device generation.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Collects output commands without executing managed code on a native realtime callback.
 
+## Parameters
+
 **Parameter `frame`:** The variable frame timing.

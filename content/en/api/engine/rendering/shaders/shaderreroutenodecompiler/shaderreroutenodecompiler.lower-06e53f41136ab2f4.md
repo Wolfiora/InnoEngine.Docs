@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Lowers this graph node to typed shader IR after validating its inputs.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

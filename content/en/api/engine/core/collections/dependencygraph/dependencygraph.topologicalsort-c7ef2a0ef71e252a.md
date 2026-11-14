@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns an order in which every dependency precedes its dependents.
 
-**Returns:** A deterministic topological ordering.
+## Returns
+
+A deterministic topological ordering.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the graph contains a cycle. The exception message contains a complete cycle.

@@ -12,10 +12,16 @@ apiScope: Editor
 
 Serializes one asset's editable properties and direct asset dependencies.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Concrete asset source type.
+
+## Parameters
 
 **Parameter `asset`:** Unsaved or loaded asset whose editable state should be captured.
 
 **Parameter `services`:** The generation-bound serialization services supplied by the export context.
 
-**Returns:** Deterministic native source bytes.
+## Returns
+
+Deterministic native source bytes.

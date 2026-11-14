@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates one immutable artifact residency lease.
 
+## Parameters
+
 **Parameter `artifact`:** Verified artifact metadata retained by the lease.
 
 **Parameter `openRead`:** Opens immutable bytes with an independent provider pin owned by the returned stream.
 
 **Parameter `release`:** Provider-owned release callback. Pending retirement must be retryable without repeating completed effects.
 
-**Returns:** A lease that retains its value until release completes; a Pending callback is retried by the owning lifecycle.
+## Returns
+
+A lease that retains its value until release completes; a Pending callback is retried by the owning lifecycle.

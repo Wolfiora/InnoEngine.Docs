@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a toolbar placement for the annotated targetless action.
 
+## Parameters
+
 **Parameter `area`:** The exact interaction area whose toolbar receives the action.
 
 **Parameter `icon`:** The symbol shown while the action is not checked.
@@ -20,6 +22,8 @@ Creates a toolbar placement for the annotated targetless action.
 **Parameter `order`:** The stable ordering value within the toolbar.
 
 **Parameter `activeIcon`:** The symbol shown while the action is checked, or `F:Inno.Editor.Interactions.EditorToolbarIcon.None` to retain `icon`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `area` or `tooltip` is empty, or when `icon` is `F:Inno.Editor.Interactions.EditorToolbarIcon.None`.
 

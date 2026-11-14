@@ -12,6 +12,10 @@ apiScope: Editor
 
 Checks whether the current host registered an exact face.
 
+## Parameters
+
 **Parameter `style`:** The requested emphasis.
 
-**Returns:** True when the exact face is available.
+## Returns
+
+True when the exact face is available.

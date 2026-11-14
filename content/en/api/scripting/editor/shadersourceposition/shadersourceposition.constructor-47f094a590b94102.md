@@ -12,6 +12,8 @@ apiScope: Editor
 
 Identifies an original source position, not a generated temporary compiler filename.
 
+## Parameters
+
 **Parameter `assetPath`:** Source path in the current asset mount.
 
 **Parameter `line`:** One-based source line.

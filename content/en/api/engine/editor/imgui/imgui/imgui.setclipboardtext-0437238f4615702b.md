@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Copies literal text through the host clipboard adapter.
 
+## Parameters
+
 **Parameter `text`:** Literal text; no formatting interpretation is applied.

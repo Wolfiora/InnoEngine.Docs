@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether a key was newly released this frame.
 
+## Parameters
+
 **Parameter `key`:** The backend-neutral physical key.
 
-**Returns:** `true` when the key transitioned to up.
+## Returns
+
+`true` when the key transitioned to up.

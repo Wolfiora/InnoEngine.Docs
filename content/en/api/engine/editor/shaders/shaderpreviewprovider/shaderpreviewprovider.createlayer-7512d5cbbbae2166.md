@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates one frame-local rendering layer through the ordinary Render Graph.
 
+## Parameters
+
 **Parameter `context`:** Detached Material, immutable candidate and isolated diagnostics for this invocation.
 
-**Returns:** A domain-selected pipeline and frame payload; no instance may be retained beyond the submitted frame.
+## Returns
+
+A domain-selected pipeline and frame payload; no instance may be retained beyond the submitted frame.

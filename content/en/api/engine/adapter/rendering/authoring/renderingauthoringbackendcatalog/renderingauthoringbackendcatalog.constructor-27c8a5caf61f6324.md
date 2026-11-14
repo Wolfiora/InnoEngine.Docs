@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates that every runtime backend has exactly one matching authoring provider.
 
+## Parameters
+
 **Parameter `runtime`:** Runtime provider snapshot paired with these authoring tools.
 
 **Parameter `providers`:** Complete authoring provider set owned by this composition generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Provider IDs are missing, duplicated, or do not match the runtime set.

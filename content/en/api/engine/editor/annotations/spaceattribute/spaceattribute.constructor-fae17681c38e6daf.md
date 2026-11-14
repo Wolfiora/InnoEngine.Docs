@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a spacing decorator.
 
+## Parameters
+
 **Parameter `height`:** Non-negative logical pixel height.

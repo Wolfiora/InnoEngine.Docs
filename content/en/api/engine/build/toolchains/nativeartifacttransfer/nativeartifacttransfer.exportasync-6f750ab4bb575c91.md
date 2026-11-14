@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Exports only locally registered immutable native and binding generations under their existing read leases.
 
+## Parameters
+
 **Parameter `engineRoot`:** The checkout whose publishers have already verified the selected generations.
 
 **Parameter `archivePath`:** The explicit transport file, atomically replaced after complete export.
 
 **Parameter `cancellationToken`:** Cancels copying before the completed archive replaces its previous version.
 
-**Returns:** The number of verified generations exported.
+## Returns
+
+The number of verified generations exported.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** A registered artifact is damaged, linked, inaccessible or outside its publisher boundary.
 

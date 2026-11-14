@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Checks both nominal identity and complete aggregate layout.
 
+## Parameters
+
 **Parameter `other`:** Candidate type from another implementation.
 
-**Returns:** True only when both descriptors express the same function interface.
+## Returns
+
+True only when both descriptors express the same function interface.

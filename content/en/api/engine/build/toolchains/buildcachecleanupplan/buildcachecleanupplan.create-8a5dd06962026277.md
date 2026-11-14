@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Plans retirement by budget pressure or an explicit request to retire every unreferenced artifact.
 
+## Parameters
+
 **Parameter `workspace`:** The absolute checkout boundary; no owner may manage it or its parent.
 
 **Parameter `owners`:** Explicit registrations; callbacks remain borrowed until execution completes.
@@ -23,7 +25,11 @@ Plans retirement by budget pressure or an explicit request to retire every unref
 
 **Parameter `targetId`:** An exact producer-declared target filter, or null to manage all registered scopes. Outside-scope generations and their dependencies remain protected.
 
-**Returns:** A fixed proposal; execution rechecks ownership, roots and active readers before deletion.
+## Returns
+
+A fixed proposal; execution rechecks ownership, roots and active readers before deletion.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Owners overlap, identities repeat, or dependency metadata forms a cycle.
 

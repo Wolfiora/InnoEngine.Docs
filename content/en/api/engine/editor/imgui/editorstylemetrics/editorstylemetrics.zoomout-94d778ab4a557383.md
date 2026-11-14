@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Decreases editor UI zoom by one bounded increment.
 
-**Returns:** `true` when the requested zoom changed.
+## Returns
+
+`true` when the requested zoom changed.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the asset presentation module for the current editor generation.
 
+## Parameters
+
 **Parameter `edits`:** The independent authoritative asset editing service.
 
 **Parameter `interactions`:** The editor selection and action owner.
@@ -18,5 +20,7 @@ Creates the asset presentation module for the current editor generation.
 **Parameter `settings`:** The editor settings that supply semantic icon choices.
 
 **Parameter `types`:** The active extension type catalog.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required owner is null.

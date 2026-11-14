@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates an independent copy of the neutral value.
 
-**Returns:** A graph value that shares no mutable byte storage.
+## Returns
+
+A graph value that shares no mutable byte storage.

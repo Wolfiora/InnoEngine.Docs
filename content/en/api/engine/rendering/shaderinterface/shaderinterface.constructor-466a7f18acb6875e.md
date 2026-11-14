@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a shader interface contract.
 
+## Parameters
+
 **Parameter `bindings`:** Stable expected bindings.

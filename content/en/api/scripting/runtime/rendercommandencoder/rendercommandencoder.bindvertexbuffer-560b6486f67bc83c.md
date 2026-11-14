@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Selects a vertex buffer and its first vertex for subsequent draws.
 
+## Parameters
+
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.
 
 **Parameter `firstVertex`:** Zero-based vertex offset in the bound buffer.

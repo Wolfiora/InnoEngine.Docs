@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Sets a key value for the stored item.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** Key handle.
 
 **Parameter `value`:** Key value.
 
-**Returns:** The same entry for chaining.
+## Returns
+
+The same entry for chaining.

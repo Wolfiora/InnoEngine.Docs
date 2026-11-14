@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Hides the selected document while retaining its state.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by hide document; ownership remains with the caller unless explicitly stated otherwise.

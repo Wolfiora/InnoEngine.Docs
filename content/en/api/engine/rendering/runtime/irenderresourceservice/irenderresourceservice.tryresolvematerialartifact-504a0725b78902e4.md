@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves an explicitly compiled candidate in a caller-owned publication scope, without publishing it as an asset.
 
+## Parameters
+
 **Parameter `scope`:** Non-empty resource identity for this isolated consumer; release it when the consumer closes.
 
 **Parameter `artifact`:** Complete immutable candidate built for the active device and exact Material variant.
@@ -31,6 +33,10 @@ Resolves an explicitly compiled candidate in a caller-owned publication scope, w
 
 **Parameter `materialPass`:** Receives the current or complete last-good scoped pass.
 
-**Returns:** True when the isolated publication can satisfy this request; failure never changes canonical programs.
+## Returns
+
+True when the isolated publication can satisfy this request; failure never changes canonical programs.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No artifact decoder is configured, or resource retirement cannot complete.

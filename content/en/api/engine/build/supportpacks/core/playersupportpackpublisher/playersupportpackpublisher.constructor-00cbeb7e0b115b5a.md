@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Freezes the platform sources used by this publisher.
 
+## Parameters
+
 **Parameter `sources`:** Exactly one source for each supported target identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A source is null or a target is registered more than once.

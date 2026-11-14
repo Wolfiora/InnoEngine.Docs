@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable audio capability snapshot.
 
+## Parameters
+
 **Parameter `supportsStreaming`:** Whether clips can be decoded incrementally.
 
 **Parameter `supportsScheduledPlayback`:** Whether voices can start against the audio clock.

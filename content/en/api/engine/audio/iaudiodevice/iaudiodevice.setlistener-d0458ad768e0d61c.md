@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates one backend spatial listener.
 
+## Parameters
+
 **Parameter `listener`:** Listener owned by the current device generation.
 
 **Parameter `state`:** Current listener transform.
 
-**Returns:** `true` when the listener was updated.
+## Returns
+
+`true` when the listener was updated.

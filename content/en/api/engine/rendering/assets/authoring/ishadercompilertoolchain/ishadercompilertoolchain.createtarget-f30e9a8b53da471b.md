@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a target supported by this toolchain and capability snapshot.
 
+## Parameters
+
 **Parameter `capabilities`:** Target renderer capabilities.
 
 **Parameter `optimize`:** Whether release optimization is enabled.
 
 **Parameter `debugInformation`:** Whether compiler debug information is emitted.
 
-**Returns:** A stable target description accepted by this toolchain.
+## Returns
+
+A stable target description accepted by this toolchain.

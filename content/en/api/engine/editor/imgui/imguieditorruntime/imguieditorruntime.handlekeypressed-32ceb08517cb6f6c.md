@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Dispatches contextual shortcuts, leaving editing keys with active text widgets while permitting explicit save.
 
+## Parameters
+
 **Parameter `keyEvent`:** The keyboard event received from the application event stream.

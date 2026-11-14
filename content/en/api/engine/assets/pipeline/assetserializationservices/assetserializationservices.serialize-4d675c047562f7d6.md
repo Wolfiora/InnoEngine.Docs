@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Serializes one structured value and declares every encountered asset reference as a runtime dependency.
 
+## Type parameters
+
 **Type parameter `TValue`:** The serializable value contract.
+
+## Parameters
 
 **Parameter `value`:** The value to serialize through the active converter generation.
 
-**Returns:** Deterministic structured bytes owned by the caller.
+## Returns
+
+Deterministic structured bytes owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is `null`.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Opens foundation scopes and immutable snapshots for one owner frame.
 
+## Parameters
+
 **Parameter `frame`:** The frame timing snapshot.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Applies reload-safe settings to this feature generation.
 
+## Parameters
+
 **Parameter `configuration`:** Stable feature configuration.
 
 **Parameter `settings`:** Native context bound to the canonical Pipeline asset's actual owner.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Submits one or more independently rendered model layers for premultiplied-alpha output composition.
 
+## Parameters
+
 **Parameter `name`:** Stable frame-local composition identity.
 
 **Parameter `target`:** Final host-owned output target.
@@ -22,6 +24,8 @@ Submits one or more independently rendered model layers for premultiplied-alpha 
 **Parameter `layers`:** Ordered requests, one per rendering model.
 
 **Parameter `priority`:** Ascending scheduling priority relative to ordinary requests.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The layer set or format is invalid.
 

@@ -14,4 +14,6 @@ aliases: []
 
 Reports whether the application must stop advancing frames until the platform resumes it.
 
+## Parameters
+
 **Parameter `isSuspended`:** Whether the platform has suspended application execution.

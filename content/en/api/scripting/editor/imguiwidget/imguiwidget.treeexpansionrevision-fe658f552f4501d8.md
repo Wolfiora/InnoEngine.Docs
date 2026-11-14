@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets this window and owner's expansion change counter for invalidating neutral flattened views.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** No valid drawing session or native frame is active.

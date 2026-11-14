@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Executes a delivered drop after a successful compatibility query.
 
+## Parameters
+
 **Parameter `context`:** The untyped source, target, surface, and requested placement.
 
-**Returns:** The observable selection and reveal result of the operation.
+## Returns
+
+The observable selection and reveal result of the operation.

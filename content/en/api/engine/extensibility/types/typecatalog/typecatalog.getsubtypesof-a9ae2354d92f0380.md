@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all non-abstract discovered types assignable to `T`.
 
+## Type parameters
+
 **Type parameter `T`:** The required base type.
 
-**Returns:** The matching concrete types in stable catalog order.
+## Returns
+
+The matching concrete types in stable catalog order.

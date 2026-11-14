@@ -16,4 +16,6 @@ aliases: []
 
 Collects the complete candidate output of one source import.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The imported asset type.

@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
 
+## Parameters
+
 **Parameter `buffer`:** An array of bytes. When this method returns, the buffer contains the specified byte array with the values between `offset` and (`offset` + `count` - 1) replaced by the bytes read from the current source.
 
 **Parameter `offset`:** The zero-based byte offset in `buffer` at which to begin storing the data read from the current stream.
 
 **Parameter `count`:** The maximum number of bytes to be read from the current stream.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The sum of `offset` and `count` is larger than the buffer length.
 
@@ -29,4 +33,6 @@ When overridden in a derived class, reads a sequence of bytes from the current s
 
 **Exception `T:System.ObjectDisposedException`:** Methods were called after the stream was closed.
 
-**Returns:** The total number of bytes read into the buffer. This can be less than the number of bytes requested if that many bytes are not currently available, or zero (0) if `count` is 0 or the end of the stream has been reached.
+## Returns
+
+The total number of bytes read into the buffer. This can be less than the number of bytes requested if that many bytes are not currently available, or zero (0) if `count` is 0 or the end of the stream has been reached.

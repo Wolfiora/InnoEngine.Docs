@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates the shader toolchain for this implementation.
 
-**Returns:** A compiler compatible with devices registered under the same identity.
+## Returns
+
+A compiler compatible with devices registered under the same identity.

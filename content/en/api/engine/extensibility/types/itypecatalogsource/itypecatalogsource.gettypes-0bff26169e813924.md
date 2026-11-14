@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the complete type set without publishing a partial generation.
 
+## Parameters
+
 **Parameter `assembly`:** An assembly owned by the candidate module catalog.
 
-**Returns:** The complete type metadata for this assembly; unsupported or invalid metadata throws.
+## Returns
+
+The complete type metadata for this assembly; unsupported or invalid metadata throws.

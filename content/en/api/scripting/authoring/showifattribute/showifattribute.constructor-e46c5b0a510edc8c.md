@@ -12,6 +12,8 @@ apiScope: Authoring
 
 Creates an equality condition.
 
+## Parameters
+
 **Parameter `memberName`:** Sibling field or property name.
 
 **Parameter `expectedValue`:** Compile-time value required for visibility.

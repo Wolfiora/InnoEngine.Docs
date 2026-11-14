@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Restores a stable typed property payload into a caller-owned current-generation value.
 
+## Type parameters
+
 **Type parameter `TValue`:** Declared native property contract.
+
+## Parameters
 
 **Parameter `stableTypeId`:** Stable identity captured with the properties.
 

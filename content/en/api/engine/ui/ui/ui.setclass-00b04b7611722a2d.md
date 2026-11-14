@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Activates or deactivates one element class.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by set class; ownership remains with the caller unless explicitly stated otherwise.
@@ -21,4 +23,6 @@ Activates or deactivates one element class.
 
 **Parameter `active`:** Whether active behavior is enabled while set class executes.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

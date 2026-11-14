@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads a required ordered array of structured objects.
 
+## Parameters
+
 **Parameter `name`:** The required member name.
 
-**Returns:** Operation-scoped readers for the array elements.
+## Returns
+
+Operation-scoped readers for the array elements.

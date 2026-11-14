@@ -14,10 +14,14 @@ aliases: []
 
 Creates a content compiler borrowing the active authoring services for one pipeline.
 
+## Parameters
+
 **Parameter `assets`:** The asset owner whose content the build freezes.
 
 **Parameter `serialization`:** The matching serialization registry; ownership remains with the host.
 
 **Parameter `types`:** The matching extension catalog; the compiler must not outlive its pipeline.
 
-**Returns:** A non-null scoped compiler that never disposes or globally retains these services.
+## Returns
+
+A non-null scoped compiler that never disposes or globally retains these services.

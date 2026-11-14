@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Applies a mutation to one serializable scene property and records only its before and after values.
 
+## Parameters
+
 **Parameter `target`:** The live scene object containing the root serialized property.
 
 **Parameter `propertyName`:** The exact root serialized member key.
@@ -21,4 +23,6 @@ Applies a mutation to one serializable scene property and records only its befor
 
 **Parameter `mergeKey`:** An optional stable key for coalescing adjacent continuous edits.
 
-**Returns:** `true` when the property value changed and a history entry was recorded.
+## Returns
+
+`true` when the property value changed and a history entry was recorded.

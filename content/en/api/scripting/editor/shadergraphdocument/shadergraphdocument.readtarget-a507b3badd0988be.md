@@ -12,10 +12,14 @@ apiScope: Editor
 
 Reads the stable domain target assignment without resolving extension instances.
 
+## Parameters
+
 **Parameter `graph`:** Authored graph.
 
 **Parameter `serialization`:** Current owner converters.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** The assigned stable ID, or an empty string for generic explicit stage authoring.
+## Returns
+
+The assigned stable ID, or an empty string for generic explicit stage authoring.

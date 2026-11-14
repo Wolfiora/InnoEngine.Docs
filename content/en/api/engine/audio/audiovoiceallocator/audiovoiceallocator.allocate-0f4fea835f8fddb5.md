@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Allocates a unique service handle that cannot alias a different service's playback.
 
-**Returns:** A new opaque playback handle; identities are never reused within this owner.
+## Returns
+
+A new opaque playback handle; identities are never reused within this owner.
+
+## Exceptions
 
 **Exception `T:System.OverflowException`:** The owner exhausted its playback identities.

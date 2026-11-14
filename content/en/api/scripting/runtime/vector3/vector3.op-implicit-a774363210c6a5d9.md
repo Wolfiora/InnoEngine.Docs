@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Converts the supplied value to `T:System.Numerics.Vector3`.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated system.numerics.vector3 that represents the completed operation.
+## Returns
+
+The validated system.numerics.vector3 that represents the completed operation.

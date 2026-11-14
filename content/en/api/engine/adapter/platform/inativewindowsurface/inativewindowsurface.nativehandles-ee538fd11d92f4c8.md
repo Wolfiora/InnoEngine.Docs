@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets handles owned by the live window; consumers must neither free nor retain them beyond its lifetime.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** The owning window has been released.

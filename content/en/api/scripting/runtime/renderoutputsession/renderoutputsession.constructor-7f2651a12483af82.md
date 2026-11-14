@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a frame-scoped output session.
 
+## Parameters
+
 **Parameter `id`:** Stable host output identity.
 
 **Parameter `content`:** Host-selected content roots.

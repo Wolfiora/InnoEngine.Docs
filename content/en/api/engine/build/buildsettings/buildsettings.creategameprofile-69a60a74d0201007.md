@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an isolated game profile from the current defaults.
 
+## Parameters
+
 **Parameter `projectId`:** The authoritative project identity copied into the game profile.
 
-**Returns:** A newly owned profile that may be changed for one build without mutating these settings.
+## Returns
+
+A newly owned profile that may be changed for one build without mutating these settings.

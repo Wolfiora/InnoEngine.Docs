@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Serializes one validated animation clip back to its writable source mount.
 
+## Parameters
+
 **Parameter `context`:** Generation-bound source serialization services.
 
 **Parameter `asset`:** Animation clip to export.
 
 **Parameter `cancellationToken`:** Cancellation token observed before source bytes are returned.
 
-**Returns:** The complete current structured source bytes.
+## Returns
+
+The complete current structured source bytes.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Waits for all retirements while preserving pending monitors on cancellation or failure.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancellation for the wait, not permission to resume generation changes.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** The caller canceled before retirement completed.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the standard control height and following vertical spacing.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

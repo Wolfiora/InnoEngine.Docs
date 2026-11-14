@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Prepares frame-scoped rendering state before render work is submitted.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

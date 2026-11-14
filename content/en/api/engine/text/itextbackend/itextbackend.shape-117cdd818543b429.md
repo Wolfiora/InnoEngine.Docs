@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Shapes one Unicode string into positioned glyphs.
 
+## Parameters
+
 **Parameter `font`:** The loaded face.
 
 **Parameter `text`:** The Unicode source text.
@@ -19,4 +21,6 @@ Shapes one Unicode string into positioned glyphs.
 
 **Parameter `options`:** Language, script, and direction hints.
 
-**Returns:** The immutable layout.
+## Returns
+
+The immutable layout.

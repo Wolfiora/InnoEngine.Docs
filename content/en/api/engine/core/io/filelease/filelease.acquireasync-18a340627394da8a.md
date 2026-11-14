@@ -11,17 +11,23 @@ apiSurface: source-clr
 
 Waits for exclusive ownership without blocking an owner thread or changing shared data.
 
+## Parameters
+
 **Parameter `path`:** The absolute lease file path; all participants must use the same persistent path.
 
 **Parameter `timeout`:** The maximum wait, or `F:System.Threading.Timeout.InfiniteTimeSpan` for no time limit.
 
 **Parameter `cancellationToken`:** Cancels waiting before ownership is returned.
 
-**Returns:** The exclusive lease whose disposal permits the next participant to acquire ownership.
+## Returns
+
+The exclusive lease whose disposal permits the next participant to acquire ownership.
 
 ## Remarks
 
 Lease files remain after disposal. Removing them would let Unix processes lock different inodes for the same path while an earlier participant still owns the original inode.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The path is empty or relative, or the timeout is negative and not infinite.
 

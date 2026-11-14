@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Calculates the centered content region for an available presentation surface.
 
+## Parameters
+
 **Parameter `availableWidth`:** Positive available surface width in pixels or logical preview units.
 
 **Parameter `availableHeight`:** Positive available surface height in pixels or logical preview units.
 
-**Returns:** A positive region that fills the surface or fits the configured reference aspect ratio.
+## Returns
+
+A positive region that fills the surface or fits the configured reference aspect ratio.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when an available or reference dimension is not positive.

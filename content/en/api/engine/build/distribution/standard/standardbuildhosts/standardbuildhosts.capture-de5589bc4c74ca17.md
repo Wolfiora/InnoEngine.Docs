@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures the current execution machine from registered platform providers.
 
-**Returns:** The selected immutable host and execution capabilities.
+## Returns
+
+The selected immutable host and execution capabilities.
+
+## Exceptions
 
 **Exception `T:System.PlatformNotSupportedException`:** No registered provider supports the current machine.

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Declares complete pure serialized-property revision access for a sealed serializable identity source.
 
+## Parameters
+
 **Parameter `readRevision`:** The owner-controlled revision reader; null results decline reuse and counters must not repeat for different state.
 
-**Returns:** An immutable declaration; snapshots never retain this reader or metadata.
+## Returns
+
+An immutable declaration; snapshots never retain this reader or metadata.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The revision reader is null.
 

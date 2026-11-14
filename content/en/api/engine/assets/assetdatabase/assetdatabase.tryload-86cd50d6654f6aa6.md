@@ -11,12 +11,20 @@ apiSurface: source-clr
 
 Tries to load the canonical asset with one persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required runtime asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The non-empty persistent asset identity.
 
 **Parameter `asset`:** Receives the canonical compatible asset when available.
 
-**Returns:** `true` when the deployed catalog contains a compatible asset; otherwise, `false`.
+## Returns
+
+`true` when the deployed catalog contains a compatible asset; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this database has been disposed.

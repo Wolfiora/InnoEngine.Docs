@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets optional creation-menu presentation without executing the drawer.
 
+## Parameters
+
 **Parameter `definitionId`:** Stable compiler-independent node identity.
 
 **Parameter `presentation`:** Receives immutable creation-menu presentation when registered.
 
-**Returns:** True when the current generation contributes presentation for the node; otherwise false.
+## Returns
+
+True when the current generation contributes presentation for the node; otherwise false.

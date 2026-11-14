@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Expands every inline graph-node reference and refreshes domain-output interfaces.
 
+## Parameters
+
 **Parameter `graph`:** Authored parent graph.
 
 **Parameter `resolve`:** Resolves a referenced Shader graph by persistent identity and diagnostic path.
@@ -19,4 +21,6 @@ Expands every inline graph-node reference and refreshes domain-output interfaces
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** A detached graph containing no inline graph-node references.
+## Returns
+
+A detached graph containing no inline graph-node references.

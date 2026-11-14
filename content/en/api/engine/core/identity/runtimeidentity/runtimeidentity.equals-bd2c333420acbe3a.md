@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an object addresses the same live identity slot.
 
+## Parameters
+
 **Parameter `obj`:** The object to compare with this value.
 
-**Returns:** `true` when the object is an equal runtime identity; otherwise, `false`.
+## Returns
+
+`true` when the object is an equal runtime identity; otherwise, `false`.

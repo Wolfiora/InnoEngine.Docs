@@ -12,10 +12,14 @@ apiScope: Editor
 
 Begins a combo popup.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
 **Parameter `preview`:** The preview text.
 
 **Parameter `flags`:** Combo behavior.
 
-**Returns:** `true` when combo contents should be submitted.
+## Returns
+
+`true` when combo contents should be submitted.

@@ -12,9 +12,13 @@ apiScope: Editor
 
 Creates drag data for a registered identity object.
 
+## Parameters
+
 **Parameter `source`:** The registered source object resolved again for each drop query and delivery.
 
 **Parameter `label`:** The human-readable label used by drag previews.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `source` is `null`.
 

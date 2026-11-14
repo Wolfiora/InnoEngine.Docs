@@ -12,4 +12,6 @@ apiScope: Editor
 
 Copies the current UI layout metrics.
 
-**Returns:** Value metrics valid independently from the native style pointer.
+## Returns
+
+Value metrics valid independently from the native style pointer.

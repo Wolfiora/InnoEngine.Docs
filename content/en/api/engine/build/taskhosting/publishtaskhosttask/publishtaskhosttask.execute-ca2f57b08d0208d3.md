@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Verifies sources and cached files, publishes a complete candidate under exclusive ownership, and registers the private reader before returning its shared runtime.
 
-**Returns:** True when a complete runtime was published or reused; false with a logged error otherwise.
+## Returns
+
+True when a complete runtime was published or reused; false with a logged error otherwise.

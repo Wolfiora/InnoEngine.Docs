@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one immutable residency snapshot.
 
+## Parameters
+
 **Parameter `residentAssetCount`:** Number of currently materialized canonical assets.
 
 **Parameter `residentBytes`:** Runtime payload bytes retained by materialized assets.

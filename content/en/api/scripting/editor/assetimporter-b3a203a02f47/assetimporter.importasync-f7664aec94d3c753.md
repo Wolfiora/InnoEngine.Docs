@@ -12,10 +12,14 @@ apiScope: Editor
 
 Imports one source into a managed asset and named artifact outputs.
 
+## Parameters
+
 **Parameter `context`:** The import transaction context.
 
 **Parameter `output`:** The candidate output writer.
 
 **Parameter `cancellationToken`:** Cancellation for the import.
 
-**Returns:** An operation that completes when the candidate has been fully staged.
+## Returns
+
+An operation that completes when the candidate has been fully staged.

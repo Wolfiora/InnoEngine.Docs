@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Activates or deactivates one element class.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.
@@ -22,4 +24,6 @@ Activates or deactivates one element class.
 
 **Parameter `active`:** Whether the CSS class is enabled.
 
-**Returns:** True when the element exists and its class state was assigned; false when the element is absent. This is not a comparison with the preceding state.
+## Returns
+
+True when the element exists and its class state was assigned; false when the element is absent. This is not a comparison with the preceding state.

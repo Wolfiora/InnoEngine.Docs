@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Asks the selected host to resolve its SDK from the project location without guessing installed versions.
 
+## Parameters
+
 **Parameter `hostPath`:** The .NET executable selected by the build composition root.
 
 **Parameter `projectPath`:** The prepared entry project whose directory controls SDK selection.
 
 **Parameter `cancellationToken`:** Cancels SDK discovery and drains its child process.
 
-**Returns:** The exact project-selected SDK, managed entry assembly and host; missing SDKs fail explicitly.
+## Returns
+
+The exact project-selected SDK, managed entry assembly and host; missing SDKs fail explicitly.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** The selected host, prepared entry project or selected SDK entry assembly does not exist.
 

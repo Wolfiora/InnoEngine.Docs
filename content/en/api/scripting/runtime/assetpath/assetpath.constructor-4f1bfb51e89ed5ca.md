@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an asset path.
 
+## Parameters
+
 **Parameter `source`:** Owning source mount.
 
 **Parameter `localPath`:** Source-local path using forward slashes.

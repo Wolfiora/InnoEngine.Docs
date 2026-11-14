@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures one currently registered destination in its original identity domain.
 
+## Parameters
+
 **Parameter `identity`:** The destination's live identity, not a detached persistent identifier.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity is not registered.

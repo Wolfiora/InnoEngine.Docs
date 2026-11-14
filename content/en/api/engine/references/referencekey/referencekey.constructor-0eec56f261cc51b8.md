@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a key for one reference slot.
 
+## Parameters
+
 **Parameter `ownerPersistentId`:** The persistent identity of the object that owns the slot.
 
 **Parameter `path`:** The stable property or structural path inside the owner.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the owner identity or path is empty.

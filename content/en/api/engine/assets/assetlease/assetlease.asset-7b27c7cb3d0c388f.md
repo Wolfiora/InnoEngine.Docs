@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the retained canonical asset while this lease is active.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after the lease has been released.

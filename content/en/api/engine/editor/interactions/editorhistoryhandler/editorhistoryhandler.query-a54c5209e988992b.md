@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Determines whether a neutral change can currently transition in the requested direction.
 
+## Parameters
+
 **Parameter `context`:** The current-generation editor services.
 
 **Parameter `change`:** The neutral history change.
 
 **Parameter `direction`:** The requested Undo or Redo direction.
 
-**Returns:** The current transition availability.
+## Returns
+
+The current transition availability.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a drop registration that can participate on any interaction surface.
 
+## Parameters
+
 **Parameter `priority`:** The tie-breaking priority used after source and target specificity.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Applies the edited components of a representative value without replacing unrelated mixed components.
 
+## Parameters
+
 **Parameter `type`:** Common exact Shader property type.
 
 **Parameter `before`:** Representative value before the control gesture sample.
@@ -20,4 +22,6 @@ Applies the edited components of a representative value without replacing unrela
 
 **Parameter `target`:** Another selected Material's current effective value.
 
-**Returns:** A detached value preserving the target's untouched channels, texture or sampler.
+## Returns
+
+A detached value preserving the target's untouched channels, texture or sampler.

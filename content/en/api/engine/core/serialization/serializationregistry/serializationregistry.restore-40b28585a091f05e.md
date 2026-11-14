@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Restores deterministic binary data into an existing serializable root object.
 
+## Type parameters
+
 **Type parameter `T`:** The declared target contract.
+
+## Parameters
 
 **Parameter `target`:** The existing target object.
 
 **Parameter `bytes`:** The encoded bytes.
 
 **Parameter `context`:** Optional immutable converter context.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is null.
 

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Builds a validated result from the current immutable input snapshot.
 
+## Parameters
+
 **Parameter `types`:** The active type catalog generation used for extension resolution.
 
-**Returns:** The validated shader node compiler catalog that represents the completed operation.
+## Returns
+
+The validated shader node compiler catalog that represents the completed operation.

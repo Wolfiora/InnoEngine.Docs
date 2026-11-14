@@ -12,6 +12,10 @@ apiScope: Editor
 
 Selects a declared table column for subsequent controls.
 
+## Parameters
+
 **Parameter `index`:** The zero-based item index.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

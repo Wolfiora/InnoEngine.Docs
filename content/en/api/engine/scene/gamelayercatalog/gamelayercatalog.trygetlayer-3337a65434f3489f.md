@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to resolve an ordinal layer name to its compact slot.
 
+## Parameters
+
 **Parameter `name`:** The layer name to find.
 
 **Parameter `layer`:** The resolved layer.
 
-**Returns:** `true` when a matching layer exists.
+## Returns
+
+`true` when a matching layer exists.

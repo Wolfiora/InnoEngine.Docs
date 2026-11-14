@@ -14,6 +14,8 @@ aliases: []
 
 Represents one source-oriented script compilation diagnostic.
 
+## Parameters
+
 **Parameter `id`:** The stable compiler, analyzer, or reload diagnostic identifier.
 
 **Parameter `severity`:** The presentation severity of the diagnostic.

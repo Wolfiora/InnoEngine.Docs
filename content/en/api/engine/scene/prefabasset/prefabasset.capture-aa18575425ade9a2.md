@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures a game object subtree into a new unsaved prefab asset.
 
+## Parameters
+
 **Parameter `root`:** Prefab source root.
 
 **Parameter `serialization`:** The serialization registry that owns the active prefab converter generation.
 
 **Parameter `assets`:** The runtime asset generation used to resolve persistent references in the prefab graph.
 
-**Returns:** A prefab asset ready to save.
+## Returns
+
+A prefab asset ready to save.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores a captured element state into the same logical type, including neutral state on a missing placeholder.
 
+## Parameters
+
 **Parameter `target`:** The attached element receiving the state.
 
 **Parameter `stateData`:** Bytes produced by `M:Inno.Scene.SceneElementSerialization.CaptureState(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)`.
@@ -18,6 +20,8 @@ Restores a captured element state into the same logical type, including neutral 
 **Parameter `serialization`:** The owner's current serializer generation.
 
 **Parameter `assets`:** The owner's complete asset resolver.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The payload is invalid or represents a different logical type.
 

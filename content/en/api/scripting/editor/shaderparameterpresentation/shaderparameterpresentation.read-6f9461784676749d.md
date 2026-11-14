@@ -12,6 +12,8 @@ apiScope: Editor
 
 Reads detached presentation for one binding, defaulting only when no presentation was authored.
 
+## Parameters
+
 **Parameter `graph`:** Authoring graph, not a runtime Shader program.
 
 **Parameter `propertyId`:** Stable parameter identity shared by all its nodes.
@@ -20,4 +22,6 @@ Reads detached presentation for one binding, defaulting only when no presentatio
 
 **Parameter `context`:** Complete owner serialization context.
 
-**Returns:** The authored presentation, or ordinary visible, unbounded defaults.
+## Returns
+
+The authored presentation, or ordinary visible, unbounded defaults.

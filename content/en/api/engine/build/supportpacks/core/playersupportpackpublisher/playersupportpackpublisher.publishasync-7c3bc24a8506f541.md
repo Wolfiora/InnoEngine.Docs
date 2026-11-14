@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Prepares a target closure in isolation and publishes its immutable deployment inputs.
 
+## Parameters
+
 **Parameter `engineRoot`:** The source checkout containing InnoEngine.sln.
 
 **Parameter `outputRoot`:** The directory owning installed target packs.
@@ -21,11 +23,15 @@ Prepares a target closure in isolation and publishes its immutable deployment in
 
 **Parameter `cancellationToken`:** Cancels preparation before directory installation begins.
 
-**Returns:** Reading ownership of the selected Pack and any post-commit diagnostics. Dispose after consuming its files.
+## Returns
+
+Reading ownership of the selected Pack and any post-commit diagnostics. Dispose after consuming its files.
 
 ## Remarks
 
 Writers targeting the same pack share an exclusive, cancelable preparation lease. Publication atomically selects a fingerprint directory; previous generations remain valid for readers.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A required path is blank or the target has no registered source.
 

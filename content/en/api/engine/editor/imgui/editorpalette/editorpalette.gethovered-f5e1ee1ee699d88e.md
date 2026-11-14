@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets a hover treatment derived from a base theme color.
 
-**Returns:** The base color blended toward the palette text color using the standard hover amount.
+## Returns
+
+The base color blended toward the palette text color using the standard hover amount.
+
+## Parameters
 
 **Parameter `color`:** The color consumed by get hovered; ownership remains with the caller unless explicitly stated otherwise.

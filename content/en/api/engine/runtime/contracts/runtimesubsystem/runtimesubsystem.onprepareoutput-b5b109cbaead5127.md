@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Opens resources required for this frame's output.
 
+## Parameters
+
 **Parameter `frame`:** The variable frame timing.

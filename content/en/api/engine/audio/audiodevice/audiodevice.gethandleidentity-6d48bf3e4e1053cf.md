@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes a bus handle for backend lookup and generation validation.
 
+## Parameters
+
 **Parameter `handle`:** Backend-neutral bus handle.
 
-**Returns:** Backend identity and owning generation.
+## Returns
+
+Backend identity and owning generation.

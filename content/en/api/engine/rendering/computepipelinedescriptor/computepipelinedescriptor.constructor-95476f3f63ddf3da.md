@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a compute pipeline descriptor.
 
+## Parameters
+
 **Parameter `computeShader`:** Target backend compute shader binary.
 
 **Parameter `bindings`:** Manifest-derived interface contract.

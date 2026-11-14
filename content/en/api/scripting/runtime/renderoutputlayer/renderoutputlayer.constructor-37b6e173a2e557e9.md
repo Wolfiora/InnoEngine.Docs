@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a model layer with explicit, distinct content-source IDs.
 
+## Parameters
+
 **Parameter `modelId`:** Stable render-model or Editor contributor ID.
 
 **Parameter `sourceIds`:** World-content sources exclusively owned by this layer.

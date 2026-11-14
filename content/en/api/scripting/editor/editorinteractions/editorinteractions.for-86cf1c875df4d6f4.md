@@ -12,10 +12,16 @@ apiScope: Editor
 
 Creates a lightweight interaction handle for one area and optional target.
 
+## Parameters
+
 **Parameter `area`:** The stable interaction area.
 
 **Parameter `target`:** The optional object represented by the area.
 
-**Returns:** A lightweight interaction handle.
+## Returns
+
+A lightweight interaction handle.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `area` is empty.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Describes one vertex in backend-neutral UI draw geometry.
 
+## Parameters
+
 **Parameter `x`:** The horizontal or first component.
 
 **Parameter `y`:** The vertical or second component.

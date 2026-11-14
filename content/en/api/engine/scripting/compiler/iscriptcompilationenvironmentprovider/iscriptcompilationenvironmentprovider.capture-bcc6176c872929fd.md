@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures current SDK inputs without choosing a framework inside the scripting compiler.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels input preparation before any script artifact is published.
 
-**Returns:** Complete immutable inputs; missing or inconsistent SDK inputs must fail explicitly.
+## Returns
+
+Complete immutable inputs; missing or inconsistent SDK inputs must fail explicitly.

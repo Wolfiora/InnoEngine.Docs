@@ -12,12 +12,18 @@ apiScope: Editor
 
 Draws a section heading with hover-only description using the shared Inspector presentation.
 
+## Parameters
+
 **Parameter `title`:** Section title.
 
 **Parameter `description`:** Optional hover explanation.
 
 **Parameter `drawLeadingControl`:** Optional interactive control drawn before the section title.
 
+## Exceptions
+
 **Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.
 
-**Returns:** `true` when the section content should be drawn; otherwise, `false` when the section is collapsed.
+## Returns
+
+`true` when the section content should be drawn; otherwise, `false` when the section is collapsed.

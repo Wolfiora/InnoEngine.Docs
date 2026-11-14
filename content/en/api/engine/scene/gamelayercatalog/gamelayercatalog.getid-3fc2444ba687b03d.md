@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets the complete identity assigned to a layer slot.
 
+## Parameters
+
 **Parameter `projectId`:** The current project namespace.
 
 **Parameter `layer`:** The layer slot to resolve.
 
-**Returns:** The qualified identity, or `null`.
+## Returns
+
+The qualified identity, or `null`.

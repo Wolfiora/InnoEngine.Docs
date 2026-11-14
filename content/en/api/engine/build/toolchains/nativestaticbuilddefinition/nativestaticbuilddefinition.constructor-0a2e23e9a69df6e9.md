@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes the component's CMake entry point, source dependencies and exact installed archive names.
 
+## Parameters
+
 **Parameter `cmakeFile`:** The portable checkout-relative component definition.
 
 **Parameter `inputPaths`:** The portable checkout-relative source and build dependencies.
@@ -18,6 +20,8 @@ Freezes the component's CMake entry point, source dependencies and exact install
 **Parameter `logicalOutputs`:** The exact archive file names required after installation.
 
 **Parameter `nativeSourceDirectory`:** The declared checkout-relative root used by the component's native CMake fragment, or null when no such fragment is consumed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A path escapes its root or an archive name is invalid or duplicated.
 

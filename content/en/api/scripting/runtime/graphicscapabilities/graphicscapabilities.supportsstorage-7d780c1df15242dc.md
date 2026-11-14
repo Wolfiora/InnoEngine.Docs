@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tests whether a format supports the requested unordered shader access.
 
+## Parameters
+
 **Parameter `format`:** Texture format to query.
 
 **Parameter `access`:** Required storage access.
 
-**Returns:** `true` when the format supports every requested access direction.
+## Returns
+
+`true` when the format supports every requested access direction.

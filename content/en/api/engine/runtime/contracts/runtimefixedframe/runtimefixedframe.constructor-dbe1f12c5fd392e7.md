@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one deterministic fixed-step timing value.
 
+## Parameters
+
 **Parameter `stepIndex`:** The monotonically increasing fixed-step index.
 
 **Parameter `time`:** Accumulated scaled fixed time.

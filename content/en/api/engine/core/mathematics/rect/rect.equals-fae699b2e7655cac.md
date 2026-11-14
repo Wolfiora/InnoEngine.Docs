@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether this value and the supplied value represent the same logical state.
 
+## Parameters
+
 **Parameter `obj`:** The object compared with this value.
 
-**Returns:** `true` when the requested condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the requested condition is satisfied; otherwise, `false`.

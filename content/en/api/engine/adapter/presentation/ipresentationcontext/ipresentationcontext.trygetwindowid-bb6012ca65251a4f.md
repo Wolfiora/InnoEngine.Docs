@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves the platform window that owns a presentation viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** The presentation viewport identity.
 
 **Parameter `windowId`:** The owning platform window identity when available.
 
-**Returns:** `true` when the viewport has a live platform window.
+## Returns
+
+`true` when the viewport has a live platform window.

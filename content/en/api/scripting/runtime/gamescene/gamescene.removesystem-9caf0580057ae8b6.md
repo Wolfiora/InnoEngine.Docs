@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Removes a registered game system.
 
+## Parameters
+
 **Parameter `system`:** System to remove.
 
-**Returns:** `true` when the system was registered.
+## Returns
+
+`true` when the system was registered.

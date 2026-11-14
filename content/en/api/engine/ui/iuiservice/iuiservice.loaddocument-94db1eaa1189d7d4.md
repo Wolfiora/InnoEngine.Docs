@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Loads one imported document compatible with the selected backend.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.
 
-**Returns:** A document handle owned by the supplied context.
+## Returns
+
+A document handle owned by the supplied context.

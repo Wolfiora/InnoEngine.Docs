@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads the bounded deployment manifest and content catalog before serialization starts.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels metadata acquisition before content preparation starts.
 
-**Returns:** Independently owned metadata bytes; missing or unreadable metadata fails the operation.
+## Returns
+
+Independently owned metadata bytes; missing or unreadable metadata fails the operation.

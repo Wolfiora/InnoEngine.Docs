@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to resolve a named artifact output.
 
+## Parameters
+
 **Parameter `persistentId`:** The artifact owner identity.
 
 **Parameter `outputName`:** The named output.
 
 **Parameter `artifact`:** The output information when available.
 
-**Returns:** `true` when the output exists.
+## Returns
+
+`true` when the output exists.

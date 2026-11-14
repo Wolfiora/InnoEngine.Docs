@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
 
+## Parameters
+
 **Parameter `buffer`:** A region of memory. When this method returns, the contents of this region are replaced by the bytes read from the current source.
 
-**Returns:** The total number of bytes read into the buffer. This can be less than the size of the buffer if that many bytes are not currently available, or zero (0) if the buffer's length is zero or the end of the stream has been reached.
+## Returns
+
+The total number of bytes read into the buffer. This can be less than the size of the buffer if that many bytes are not currently available, or zero (0) if the buffer's length is zero or the end of the stream has been reached.

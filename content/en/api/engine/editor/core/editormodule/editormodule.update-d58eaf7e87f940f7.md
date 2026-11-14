@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Updates the module once per editor frame before panels and modals are drawn.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing the current frame state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 

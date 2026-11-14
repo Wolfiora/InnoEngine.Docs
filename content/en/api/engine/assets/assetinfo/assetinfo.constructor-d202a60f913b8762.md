@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an asset information snapshot.
 
+## Parameters
+
 **Parameter `persistentId`:** Persistent identity assigned to the source asset.
 
 **Parameter `assetPath`:** Current isolated source path.
@@ -28,5 +30,7 @@ Creates an asset information snapshot.
 **Parameter `lastSuccessfulArtifactKey`:** Most recent successfully imported artifact key.
 
 **Parameter `diagnostics`:** Latest import diagnostics, or `null` for none.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `assetPath` is invalid.

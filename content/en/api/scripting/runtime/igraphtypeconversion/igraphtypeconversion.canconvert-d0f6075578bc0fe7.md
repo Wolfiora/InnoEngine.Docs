@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tests a directed value conversion.
 
+## Parameters
+
 **Parameter `sourceTypeId`:** Source value type identifier.
 
 **Parameter `destinationTypeId`:** Destination value type identifier.
 
-**Returns:** `true` when the conversion is valid; otherwise `false`.
+## Returns
+
+`true` when the conversion is valid; otherwise `false`.

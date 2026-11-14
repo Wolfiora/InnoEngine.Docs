@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Releases one graph-generation bus after dependent objects have been removed.
 
+## Parameters
+
 **Parameter `bus`:** Bus owned by the current device generation.
 
-**Returns:** `true` when a live bus was released.
+## Returns
+
+`true` when a live bus was released.

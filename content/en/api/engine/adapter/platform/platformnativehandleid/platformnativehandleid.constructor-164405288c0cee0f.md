@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an ordinal, case-sensitive ABI identifier.
 
+## Parameters
+
 **Parameter `value`:** Stable nonempty identifier without whitespace.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identifier is empty or contains whitespace.

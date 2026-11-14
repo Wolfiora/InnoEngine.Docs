@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the fallback asset editor can open the supplied source entry.
 
+## Parameters
+
 **Parameter `context`:** The immutable source and catalog snapshot for the operation.
 
-**Returns:** `true` when `M:Inno.Editor.Assets.AssetEditor.Open(Inno.Editor.Assets.AssetEditorContext)` can handle the entry; otherwise, `false`.
+## Returns
+
+`true` when `M:Inno.Editor.Assets.AssetEditor.Open(Inno.Editor.Assets.AssetEditorContext)` can handle the entry; otherwise, `false`.

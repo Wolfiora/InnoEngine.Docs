@@ -16,4 +16,6 @@ aliases: []
 
 Defines a discoverable action whose target must be assignable to a specific reference type.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type accepted by the action.

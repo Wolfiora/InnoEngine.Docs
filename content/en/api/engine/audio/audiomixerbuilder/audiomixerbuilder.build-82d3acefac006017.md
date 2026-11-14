@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates the graph and returns an immutable parent-before-child snapshot.
 
-**Returns:** A validated mixer graph containing the mandatory master bus.
+## Returns
+
+A validated mixer graph containing the mandatory master bus.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when a parent is missing or bus routing contains a cycle.

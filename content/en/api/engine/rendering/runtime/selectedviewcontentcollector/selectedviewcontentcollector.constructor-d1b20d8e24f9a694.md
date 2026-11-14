@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a collector that forwards only the selected source identities.
 
+## Parameters
+
 **Parameter `inner`:** Active generation's source collector.
 
 **Parameter `sourceIds`:** Source IDs exclusively assigned to this layer.

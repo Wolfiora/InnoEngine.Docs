@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a capability failure without naming a concrete implementation.
 
+## Parameters
+
 **Parameter `capability`:** Unavailable neutral capability.

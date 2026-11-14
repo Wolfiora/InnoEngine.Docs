@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates an open semantic resource identifier.
 
+## Parameters
+
 **Parameter `value`:** Globally stable resource protocol value.

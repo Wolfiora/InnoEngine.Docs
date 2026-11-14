@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a feature extension declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable feature extension identifier.

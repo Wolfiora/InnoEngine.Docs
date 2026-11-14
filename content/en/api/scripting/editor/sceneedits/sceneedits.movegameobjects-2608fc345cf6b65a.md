@@ -12,6 +12,8 @@ apiScope: Editor
 
 Moves minimal selected roots together, preserving descendants and recording only affected placements.
 
+## Parameters
+
 **Parameter `targets`:** Selected live objects in their required relative order.
 
 **Parameter `destination`:** The loaded editable destination scene.
@@ -19,6 +21,8 @@ Moves minimal selected roots together, preserving descendants and recording only
 **Parameter `parent`:** The new parent, or null for scene roots.
 
 **Parameter `insertionIndex`:** The insertion index after removing the selected roots; the default appends them.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** An owner is read-only, unavailable, or the move would form a cycle.
 

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets all committed live game objects in deterministic scene storage order.
 
-**Returns:** The immutable structure snapshot retained by the scene until its object or component structure changes.
+## Returns
+
+The immutable structure snapshot retained by the scene until its object or component structure changes.

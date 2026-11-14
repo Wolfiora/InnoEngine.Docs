@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets whether scaled simulation is paused.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

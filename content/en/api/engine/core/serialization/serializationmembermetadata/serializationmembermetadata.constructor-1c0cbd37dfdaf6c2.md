@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Defines a member whose access is implemented by the selected metadata provider.
 
+## Parameters
+
 **Parameter `name`:** The exact persistent key.
 
 **Parameter `type`:** The declared value type.
@@ -20,5 +22,7 @@ Defines a member whose access is implemented by the selected metadata provider.
 **Parameter `getter`:** A read accessor, or null when reading is not permitted.
 
 **Parameter `setter`:** A write accessor, or null when writing is not permitted.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is empty or an accessor required by the visibility is absent.

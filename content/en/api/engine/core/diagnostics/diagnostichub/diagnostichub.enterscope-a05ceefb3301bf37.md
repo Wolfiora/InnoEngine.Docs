@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Binds this hub to the current asynchronous execution context.
 
-**Returns:** A strict last-in-first-out scope owned by the caller.
+## Returns
+
+A strict last-in-first-out scope owned by the caller.

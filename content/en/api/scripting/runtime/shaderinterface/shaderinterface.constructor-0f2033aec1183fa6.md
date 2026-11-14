@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a shader interface contract.
 
+## Parameters
+
 **Parameter `bindings`:** Stable expected bindings.

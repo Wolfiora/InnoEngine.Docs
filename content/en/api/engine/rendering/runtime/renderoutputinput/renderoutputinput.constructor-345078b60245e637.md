@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an input snapshot for one output viewport.
 
+## Parameters
+
 **Parameter `pointerPosition`:** Pointer coordinates relative to the viewport's top-left corner.
 
 **Parameter `pointerInside`:** Whether the pointer is within this output.

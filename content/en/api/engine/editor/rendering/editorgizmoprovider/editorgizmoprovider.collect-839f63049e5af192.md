@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Submits transient icons and lines for the presented scenes.
 
+## Parameters
+
 **Parameter `context`:** The current Scene viewport request.
 
 **Parameter `sink`:** The collector that owns submitted primitives for this frame.

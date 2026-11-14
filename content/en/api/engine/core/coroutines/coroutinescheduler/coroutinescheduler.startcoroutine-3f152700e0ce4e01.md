@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Starts a coroutine with an owner token.
 
+## Parameters
+
 **Parameter `owner`:** Owner key used by `M:Inno.Core.Coroutines.CoroutineScheduler.StopAllCoroutines(System.Object)`.
 
 **Parameter `routine`:** Enumerator exclusively transferred to the scheduler after successful admission.
 
-**Returns:** Coroutine handle.
+## Returns
+
+Coroutine handle.

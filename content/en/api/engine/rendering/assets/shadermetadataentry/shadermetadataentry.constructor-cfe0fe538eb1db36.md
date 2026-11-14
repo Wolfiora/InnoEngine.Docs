@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one metadata entry.
 
+## Parameters
+
 **Parameter `key`:** Stable provider-defined key.
 
 **Parameter `value`:** Provider-defined value.

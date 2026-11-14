@@ -12,11 +12,17 @@ apiScope: Editor
 
 Encodes a manually defined structured schema into deterministic binary data.
 
+## Parameters
+
 **Parameter `write`:** The callback that writes the root object.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** The encoded bytes.
+## Returns
+
+The encoded bytes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `write` is null.
 

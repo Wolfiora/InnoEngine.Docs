@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves this reference against a specific immutable type-cache snapshot.
 
+## Parameters
+
 **Parameter `snapshot`:** The snapshot that defines the required assembly generation.
 
-**Returns:** The CLR type represented by this reference in `snapshot`.
+## Returns
+
+The CLR type represented by this reference in `snapshot`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `snapshot` is `null`.
 

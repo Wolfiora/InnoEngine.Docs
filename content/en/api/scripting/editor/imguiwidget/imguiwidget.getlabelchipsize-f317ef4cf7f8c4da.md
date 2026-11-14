@@ -12,8 +12,14 @@ apiScope: Editor
 
 Gets the layout size of a compact colored label chip using the centralized editor style.
 
+## Parameters
+
 **Parameter `label`:** Visible label text.
 
-**Returns:** The size reserved by `M:InnoEditor.ImGui.ImGuiWidget.LabelChip(System.String,System.Numerics.Vector4)` for the supplied text.
+## Returns
+
+The size reserved by `M:InnoEditor.ImGui.ImGuiWidget.LabelChip(System.String,System.Numerics.Vector4)` for the supplied text.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `label` is `null`.

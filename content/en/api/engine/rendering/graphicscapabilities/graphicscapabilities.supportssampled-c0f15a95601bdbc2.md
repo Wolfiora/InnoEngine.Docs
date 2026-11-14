@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Tests whether a format is valid for sampled two-dimensional textures.
 
+## Parameters
+
 **Parameter `format`:** Texture format to query.
 
-**Returns:** `true` when the format can be sampled.
+## Returns
+
+`true` when the format can be sampled.

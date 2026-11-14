@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates identity-based drag data when the current extension permits dragging.
 
+## Parameters
+
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.
 
 **Parameter `data`:** Receives identity-based drag data, or null when dragging is unavailable.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an open frame-data channel identifier.
 
+## Parameters
+
 **Parameter `value`:** Globally stable channel protocol value.

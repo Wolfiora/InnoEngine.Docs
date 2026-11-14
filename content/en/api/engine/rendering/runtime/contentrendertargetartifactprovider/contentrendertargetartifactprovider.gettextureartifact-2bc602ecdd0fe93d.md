@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Loads one packaged portable texture artifact when it exists.
 
+## Parameters
+
 **Parameter `texture`:** The imported texture description.
 
 **Parameter `artifact`:** Receives immutable KTX bytes when present.
 
-**Returns:** `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when the deployed artifact exists; otherwise, `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Unavailable`.
+## Returns
+
+`F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when the deployed artifact exists; otherwise, `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Unavailable`.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when a deployed texture artifact is empty.
 

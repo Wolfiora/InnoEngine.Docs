@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Detaches an overlay from this stack.
 
+## Parameters
+
 **Parameter `overlay`:** The overlay to detach.
 
-**Returns:** `true` when the layer was attached in the overlay region; otherwise, `false`.
+## Returns
+
+`true` when the layer was attached in the overlay region; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `overlay` is `null`.
 

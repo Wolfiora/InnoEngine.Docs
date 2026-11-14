@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Presents an active action for a strongly typed target.
 
+## Parameters
+
 **Parameter `context`:** The current presentation request containing the typed target.
 
-**Returns:** `true` when content was presented; otherwise, `false`.
+## Returns
+
+`true` when content was presented; otherwise, `false`.

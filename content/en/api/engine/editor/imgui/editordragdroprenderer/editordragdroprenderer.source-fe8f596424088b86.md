@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Publishes managed drag data for the most recently submitted ImGui item.
 
+## Parameters
+
 **Parameter `interaction`:** The interaction area and target that produced the drag source.
 
 **Parameter `data`:** The managed drag data published by the source.
 
 **Parameter `drawPreview`:** An optional callback that draws the native drag preview.
 
-**Returns:** `true` while the item is an active drag source.
+## Returns
+
+`true` while the item is an active drag source.

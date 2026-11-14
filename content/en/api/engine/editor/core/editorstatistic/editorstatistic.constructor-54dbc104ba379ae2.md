@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one statistic contribution.
 
+## Parameters
+
 **Parameter `id`:** Globally stable statistic identity used for replacement within a frame.
 
 **Parameter `groupId`:** Stable visual group identity.
@@ -24,5 +26,7 @@ Creates one statistic contribution.
 **Parameter `groupOrder`:** Ascending group presentation order.
 
 **Parameter `order`:** Ascending metric order within the group.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when an identifier, group name, label, or value is empty.

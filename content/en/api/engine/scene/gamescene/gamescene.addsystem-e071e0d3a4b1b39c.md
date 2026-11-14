@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates and registers a concrete game system by runtime type.
 
+## Parameters
+
 **Parameter `systemType`:** The system type consumed by add system; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated game system that represents the completed operation.
+## Returns
+
+The validated game system that represents the completed operation.

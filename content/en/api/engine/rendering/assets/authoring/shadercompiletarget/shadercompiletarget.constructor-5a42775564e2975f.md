@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a shader compilation target.
 
+## Parameters
+
 **Parameter `profileKey`:** Backend compiler-owned stable profile key.
 
 **Parameter `capabilities`:** Target renderer capabilities.

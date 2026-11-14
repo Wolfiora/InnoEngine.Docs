@@ -12,9 +12,15 @@ apiScope: Editor
 
 Atomically replaces a complete display snapshot, reusing unchanged node geometry by value.
 
+## Parameters
+
 **Parameter `nodes`:** The current neutral node descriptions in draw order.
 
-**Returns:** The number of inserted, changed or removed nodes. Ordering changes do not rebuild geometry.
+## Returns
+
+The number of inserted, changed or removed nodes. Ordering changes do not rebuild geometry.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The collection or one of its nodes is null.
 

@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Imports a persistent device buffer into the current graph.
 
+## Parameters
+
 **Parameter `name`:** Debug and diagnostic name.
 
 **Parameter `buffer`:** Persistent buffer owned by the active device generation.
 
 **Parameter `descriptor`:** Buffer requirements and usage.
 
-**Returns:** A frame-scoped handle for graph declarations.
+## Returns
+
+A frame-scoped handle for graph declarations.

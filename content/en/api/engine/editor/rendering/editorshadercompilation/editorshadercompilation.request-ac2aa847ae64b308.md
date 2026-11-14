@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Requests current compilation and reads its explicit last-good status.
 
+## Parameters
+
 **Parameter `shader`:** Current generation shader asset, not retained by the service.
 
 **Parameter `variant`:** Exact static keyword selection.
 
-**Returns:** A detached status snapshot.
+## Returns
+
+A detached status snapshot.

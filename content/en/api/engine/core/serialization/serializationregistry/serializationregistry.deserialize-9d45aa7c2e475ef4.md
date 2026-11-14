@@ -11,12 +11,20 @@ apiSurface: source-clr
 
 Deserializes a new serializable root object from deterministic binary data.
 
+## Type parameters
+
 **Type parameter `T`:** The concrete root type to create.
+
+## Parameters
 
 **Parameter `bytes`:** The encoded bytes.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** The restored object.
+## Returns
+
+The restored object.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the manager is not initialized.

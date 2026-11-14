@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Commits an activated candidate, notifies observers, and retires the previous generation.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Retirement exceeded its deadline. Both generations remain owned and the host must restart.
 
 **Exception `T:System.AggregateException`:** Publication or completed retirement failed; the host generation gate is faulted.

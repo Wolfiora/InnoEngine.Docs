@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds a line to the current window draw list.
 
+## Parameters
+
 **Parameter `start`:** The screen-space start point.
 
 **Parameter `end`:** The screen-space end point.

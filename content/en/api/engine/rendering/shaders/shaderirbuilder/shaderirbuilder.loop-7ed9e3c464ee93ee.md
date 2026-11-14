@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Builds a counted loop; each iteration receives the preceding iteration's complete carried state.
 
+## Parameters
+
 **Parameter `iterations`:** Unsigned iteration count, evaluated once before entering the loop.
 
 **Parameter `initialState`:** Named values used before the first iteration and returned unchanged for zero iterations.
 
 **Parameter `body`:** Transient callback receiving its builder, uint iteration index and typed carried values.
 
-**Returns:** Final carried values in the enclosing scope; an empty state map permits effect-only loops.
+## Returns
+
+Final carried values in the enclosing scope; an empty state map permits effect-only loops.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The count is not uint or the body's output state changes names or types.
 

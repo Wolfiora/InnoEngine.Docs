@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Transforms a world-space point into this transform's local space.
 
+## Parameters
+
 **Parameter `point`:** Point expressed in world space.
 
-**Returns:** The corresponding local-space point.
+## Returns
+
+The corresponding local-space point.

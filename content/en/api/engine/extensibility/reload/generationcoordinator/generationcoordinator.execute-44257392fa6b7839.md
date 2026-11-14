@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Activates one publication and its captured domain changes, preserving all rollback and cleanup failures.
 
+## Type parameters
+
 **Type parameter `TProbe`:** The publication's weak unload monitor.
+
+## Parameters
 
 **Parameter `operation`:** A stable diagnostic name for the generation operation.
 
@@ -19,7 +23,11 @@ Activates one publication and its captured domain changes, preserving all rollba
 
 **Parameter `changes`:** Captured domain changes in deterministic dependency order.
 
-**Returns:** The retirement monitor; admission remains blocked until all monitors pass verification.
+## Returns
+
+The retirement monitor; admission remains blocked until all monitors pass verification.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** An irreversible cleanup or rollback stage failed and the gate is Faulted.
 

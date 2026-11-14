@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Draws content in a scope where consecutive section headers become framed fieldsets.
 
+## Parameters
+
 **Parameter `drawContent`:** Callback that draws all content participating in the section layout.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `drawContent` is `null`.

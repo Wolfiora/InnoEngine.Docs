@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an audio runtime over one backend device generation.
 
+## Parameters
+
 **Parameter `types`:** Type catalog used for mixer and content-provider discovery.
 
 **Parameter `device`:** Backend device whose ownership transfers to this runtime.
@@ -26,6 +28,8 @@ Creates an audio runtime over one backend device generation.
 **Parameter `contentScopeProvider`:** Optional callback that supplies update-scoped host content without coupling Runtime to Scene.
 
 **Parameter `deviceRecoveryFactory`:** Optional host factory used to retry a real output device at main-thread update safety points.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required device, catalog, artifact lookup, event dispatcher, or diagnostic reporter is null.
 

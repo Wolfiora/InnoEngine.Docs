@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances compilation tickets, build progress, and completed export tasks.
 
+## Parameters
+
 **Parameter `context`:** The active Editor context for the current frame.

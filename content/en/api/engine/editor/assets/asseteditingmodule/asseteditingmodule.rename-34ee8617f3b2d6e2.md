@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Renames a source atomically and records its reversible history payload.
 
+## Parameters
+
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.
 
 **Parameter `newName`:** The requested entry name without its protected file extension.

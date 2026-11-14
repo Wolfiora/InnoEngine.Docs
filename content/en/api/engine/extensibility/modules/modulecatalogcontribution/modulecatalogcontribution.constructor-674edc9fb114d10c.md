@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires immutable views while transferring the generation lifetime to the contribution.
 
+## Parameters
+
 **Parameter `moduleName`:** The stable module name.
 
 **Parameter `domain`:** The ownership domain.
@@ -22,5 +24,7 @@ Acquires immutable views while transferring the generation lifetime to the contr
 **Parameter `assemblyScopes`:** The actual dependency scope of every acquired assembly.
 
 **Parameter `lifetime`:** The transferred generation owner; null denotes externally owned static code.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is empty, the assembly set is empty or contains duplicates, or scope metadata is incomplete.

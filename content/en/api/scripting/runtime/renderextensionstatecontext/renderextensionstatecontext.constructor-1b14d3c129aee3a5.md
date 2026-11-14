@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Binds restoration to a canonical asset, independently of the caller's ambient session.
 
+## Parameters
+
 **Parameter `owner`:** Asset whose database and pinned converter generation own the settings.
 
 ## Remarks

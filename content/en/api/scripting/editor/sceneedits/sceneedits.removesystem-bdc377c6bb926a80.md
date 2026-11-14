@@ -12,8 +12,12 @@ apiScope: Editor
 
 Removes the system from its scene and records a reversible serialized history change.
 
+## Parameters
+
 **Parameter `system`:** The registered system to remove.
 
 **Parameter `historyName`:** An optional user-facing history entry name.
 
-**Returns:** `true` when the system was removed and recorded.
+## Returns
+
+`true` when the system was removed and recorded.

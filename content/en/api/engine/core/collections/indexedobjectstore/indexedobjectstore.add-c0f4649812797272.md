@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds an item to the store without indexing.
 
+## Parameters
+
 **Parameter `item`:** The item to add.
 
-**Returns:** The validated indexed object entryt that represents the completed operation.
+## Returns
+
+The validated indexed object entryt that represents the completed operation.

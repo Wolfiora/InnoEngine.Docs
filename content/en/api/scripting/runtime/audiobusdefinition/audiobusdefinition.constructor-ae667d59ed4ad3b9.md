@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable mixer bus definition.
 
+## Parameters
+
 **Parameter `id`:** Stable bus identifier.
 
 **Parameter `parent`:** Parent bus identifier, or `null` only for the master bus.

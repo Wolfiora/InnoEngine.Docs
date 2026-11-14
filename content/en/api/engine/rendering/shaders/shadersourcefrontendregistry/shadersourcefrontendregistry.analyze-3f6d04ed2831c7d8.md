@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Analyzes source while preventing provider retirement for the complete synchronous operation.
 
+## Parameters
+
 **Parameter `languageId`:** The exact registered language identity.
 
 **Parameter `request`:** Candidate source inputs and include resolver.
 
-**Returns:** A neutral interface/diagnostic result without a provider reference.
+## Returns
+
+A neutral interface/diagnostic result without a provider reference.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The language is not available in the current generation.

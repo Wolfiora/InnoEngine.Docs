@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a floating-point drag field with a compact one-decimal presentation and precise text editing.
 
+## Parameters
+
 **Parameter `label`:** Stable ImGui label and identifier.
 
 **Parameter `value`:** Exact floating-point value to edit. Compact presentation never rounds the stored value.
@@ -21,4 +23,6 @@ Draws a floating-point drag field with a compact one-decimal presentation and pr
 
 **Parameter `maximum`:** Optional inclusive upper bound.
 
-**Returns:** `true` when the exact value changed.
+## Returns
+
+`true` when the exact value changed.

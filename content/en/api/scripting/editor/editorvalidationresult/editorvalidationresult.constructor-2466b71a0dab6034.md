@@ -12,6 +12,8 @@ apiScope: Editor
 
 Describes whether a requested editor operation is valid and carries a diagnostic when it is rejected.
 
+## Parameters
+
 **Parameter `isValid`:** Whether the requested operation may proceed.
 
 **Parameter `message`:** The user-facing validation diagnostic, or an empty string for a valid result.

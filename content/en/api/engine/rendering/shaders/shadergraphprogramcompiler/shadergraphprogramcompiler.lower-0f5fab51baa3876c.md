@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates the complete pass/stage graph without deleting invalid or unavailable records.
 
+## Parameters
+
 **Parameter `document`:** Authored graph, copied before validation.
 
 **Parameter `implementationId`:** Exact adapter implementation identity selected by the caller.
@@ -23,4 +25,6 @@ Validates the complete pass/stage graph without deleting invalid or unavailable 
 
 **Parameter `cancellationToken`:** Cancellation between stages and node invocations.
 
-**Returns:** All typed passes, or diagnostics without a partial publishable program.
+## Returns
+
+All typed passes, or diagnostics without a partial publishable program.

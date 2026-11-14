@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Submits one immutable listener snapshot for runtime selection.
 
+## Parameters
+
 **Parameter `listener`:** Current state for one stable listener identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The listener is uninitialized or its identity duplicates a submission in this contribution.
 

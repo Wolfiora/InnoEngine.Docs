@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers the compiler generation owner with the shared type catalog.
 
+## Parameters
+
 **Parameter `types`:** Owner catalog, which must outlive this registry.

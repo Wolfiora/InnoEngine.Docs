@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves tools and validates required source inputs before any staging exists.
 
+## Parameters
+
 **Parameter `context`:** The read-only source checkout and explicitly selected managed host.
 
 **Parameter `cancellationToken`:** Cancels discovery before publication is permitted.
 
-**Returns:** A frozen plan borrowing this preparation definition, or a propagated preflight failure.
+## Returns
+
+A frozen plan borrowing this preparation definition, or a propagated preflight failure.

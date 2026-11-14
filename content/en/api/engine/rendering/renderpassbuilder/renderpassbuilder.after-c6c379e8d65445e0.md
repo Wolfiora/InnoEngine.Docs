@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Orders this pass after every pass in a target phase.
 
+## Parameters
+
 **Parameter `phase`:** Target phase.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

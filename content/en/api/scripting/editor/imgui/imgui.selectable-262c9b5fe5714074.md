@@ -12,12 +12,16 @@ apiScope: Editor
 
 Draws one selectable item.
 
+## Parameters
+
 **Parameter `label`:** The visible label and identity.
 
 **Parameter `selected`:** Whether the item is currently selected.
 
 **Parameter `flags`:** Selectable behavior.
 
-**Returns:** `true` when the item is activated.
-
 **Parameter `size`:** The interaction bounds, or zero for the ordinary content size.
+
+## Returns
+
+`true` when the item is activated.

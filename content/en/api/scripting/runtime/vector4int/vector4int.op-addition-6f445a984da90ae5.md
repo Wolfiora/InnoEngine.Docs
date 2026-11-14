@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Adds the supplied values component by component.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** The validated vector4int that represents the completed operation.
+## Returns
+
+The validated vector4int that represents the completed operation.

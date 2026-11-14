@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Adds an item to the current view.
 
+## Parameters
+
 **Parameter `item`:** Frame-local content item.

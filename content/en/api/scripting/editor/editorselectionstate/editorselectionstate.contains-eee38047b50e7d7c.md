@@ -12,6 +12,10 @@ apiScope: Editor
 
 Checks membership by the target's owning identity domain and generation.
 
+## Parameters
+
 **Parameter `target`:** The immediate target to inspect.
 
-**Returns:** True when the target is a member of this selection.
+## Returns
+
+True when the target is a member of this selection.

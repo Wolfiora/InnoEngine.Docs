@@ -12,7 +12,11 @@ apiScope: Editor
 
 Draws a node property through the existing Inspector controls, including precise numbers and asset picking.
 
+## Type parameters
+
 **Type parameter `T`:** Supported native property type.
+
+## Parameters
 
 **Parameter `key`:** Stable node property identity.
 

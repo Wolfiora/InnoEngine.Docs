@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Attempts to apply a value to a destination resolved through Identity.
 
+## Parameters
+
 **Parameter `target`:** The weak, generation-qualified destination.
 
 **Parameter `value`:** The final blended value for this provider's declared protocol.
 
-**Returns:** True when applied; false when the destination is currently missing or incompatible.
+## Returns
+
+True when applied; false when the destination is currently missing or incompatible.

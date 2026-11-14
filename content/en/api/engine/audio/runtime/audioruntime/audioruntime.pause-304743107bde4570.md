@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Pauses a live or preparing voice.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to pause.
 
-**Returns:** `true` when the voice entered the paused state.
+## Returns
+
+`true` when the voice entered the paused state.

@@ -12,11 +12,17 @@ apiScope: Editor
 
 Atomically applies staged field objects as one shared Undo and Redo history entry.
 
+## Parameters
+
 **Parameter `values`:** The complete or partial path-addressed objects to apply from the active catalog.
 
 **Parameter `resets`:** Optional paths whose persisted overrides are removed during the same Apply.
 
-**Returns:** `true` when the persisted document changed and one history entry was recorded.
+## Returns
+
+`true` when the persisted document changed and one history entry was recorded.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `values` is `null` or contains a null object.
 

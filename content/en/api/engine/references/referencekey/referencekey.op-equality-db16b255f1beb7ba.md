@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two reference keys are equal.
 
+## Parameters
+
 **Parameter `left`:** The first key.
 
 **Parameter `right`:** The second key.
 
-**Returns:** `true` when the keys are equal; otherwise, `false`.
+## Returns
+
+`true` when the keys are equal; otherwise, `false`.

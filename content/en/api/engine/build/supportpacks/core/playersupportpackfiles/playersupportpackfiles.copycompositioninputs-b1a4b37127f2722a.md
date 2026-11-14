@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Stages shared registration generators and the checkout's actual SDK selection.
 
+## Parameters
+
 **Parameter `engineRoot`:** The selected complete source checkout.
 
 **Parameter `playerDirectory`:** The isolated template input directory.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** A required built generator is absent.

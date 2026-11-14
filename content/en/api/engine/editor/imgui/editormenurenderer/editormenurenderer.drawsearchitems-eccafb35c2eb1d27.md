@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Draws matching leaf commands as a flat searchable list.
 
+## Parameters
+
 **Parameter `interaction`:** The interaction used to enqueue selected actions.
 
 **Parameter `items`:** The immutable menu tree whose leaves should be searched.
 
 **Parameter `search`:** The case-insensitive text matched against each slash-delimited leaf path.
 
-**Returns:** `true` when a command was selected.
+## Returns
+
+`true` when a command was selected.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Reads required graph-level reusable-node metadata.
 
+## Parameters
+
 **Parameter `graph`:** Graph declaring the reusable node.
 
 **Parameter `serialization`:** Owner converter registry.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** Detached node metadata.
+## Returns
+
+Detached node metadata.

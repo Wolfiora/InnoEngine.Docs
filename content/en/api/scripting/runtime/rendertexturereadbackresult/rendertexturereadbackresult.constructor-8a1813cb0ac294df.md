@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates one immutable texture readback result.
 
+## Parameters
+
 **Parameter `descriptor`:** Source texture descriptor.
 
 **Parameter `mipLevel`:** Source mip level.

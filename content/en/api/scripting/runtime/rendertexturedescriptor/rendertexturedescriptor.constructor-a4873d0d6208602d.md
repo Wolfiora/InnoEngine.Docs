@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a texture descriptor.
 
+## Parameters
+
 **Parameter `width`:** Texture width in pixels.
 
 **Parameter `height`:** Texture height in pixels.

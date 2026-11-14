@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Deserializes and validates the complete runtime manifest after engine serialization is available.
 
+## Parameters
+
 **Parameter `data`:** The complete runtime manifest envelope.
 
 **Parameter `serialization`:** The immutable converter generation selected for Player startup.
 
-**Returns:** The validated runtime manifest.
+## Returns
+
+The validated runtime manifest.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the envelope or manifest is malformed, or when the framed identity disagrees with the payload.

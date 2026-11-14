@@ -12,4 +12,6 @@ apiScope: Editor
 
 Creates build-processor discovery metadata.
 
+## Parameters
+
 **Parameter `id`:** Globally stable build processor identifier.

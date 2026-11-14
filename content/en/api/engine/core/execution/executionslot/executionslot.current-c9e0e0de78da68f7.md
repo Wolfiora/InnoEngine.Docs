@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the current live value, rejecting expired or wrong-thread bindings.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** No live binding exists on the permitted thread.

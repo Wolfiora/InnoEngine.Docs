@@ -14,6 +14,8 @@ aliases: []
 
 Defines a typed drop operation for one managed source and target pair.
 
+## Type parameters
+
 **Type parameter `TSource`:** The managed drag-source type accepted by the operation.
 
 **Type parameter `TTarget`:** The managed drop-target type accepted by the operation.

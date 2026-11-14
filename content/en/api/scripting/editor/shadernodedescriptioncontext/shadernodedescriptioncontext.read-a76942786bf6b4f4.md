@@ -12,10 +12,16 @@ apiScope: Editor
 
 Reads a property using the owner's converter generation and complete reference resolver context.
 
+## Type parameters
+
 **Type parameter `T`:** Declared property type supported by the native serializer.
+
+## Parameters
 
 **Parameter `id`:** Stable property identity.
 
 **Parameter `defaultValue`:** Value used only when the property is absent, never after corrupt-data failure.
 
-**Returns:** The deserialized value or the supplied absent-property default.
+## Returns
+
+The deserialized value or the supplied absent-property default.

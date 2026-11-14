@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a vector material value.
 
+## Parameters
+
 **Parameter `value`:** Vector value.
 
-**Returns:** A vector material value.
+## Returns
+
+A vector material value.

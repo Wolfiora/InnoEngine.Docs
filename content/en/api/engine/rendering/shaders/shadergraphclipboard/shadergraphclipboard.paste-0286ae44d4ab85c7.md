@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a detached paste candidate with new node identities and remapped program, Pass and Technique references.
 
+## Parameters
+
 **Parameter `graph`:** Destination document, never changed.
 
 **Parameter `fragment`:** Detached copied fragment, never changed.
@@ -23,4 +25,6 @@ Creates a detached paste candidate with new node identities and remapped program
 
 **Parameter `context`:** Owner reference context.
 
-**Returns:** A complete candidate suitable for one History transaction.
+## Returns
+
+A complete candidate suitable for one History transaction.

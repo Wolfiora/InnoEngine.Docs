@@ -12,8 +12,14 @@ apiScope: Editor
 
 Captures reload-safe settings using the currently bound authoring owner's converters and references.
 
+## Type parameters
+
 **Type parameter `TValue`:** Current serializable settings type.
+
+## Parameters
 
 **Parameter `value`:** Settings to capture without saving or mutating their referenced assets.
 
-**Returns:** Native properties, stable type identity and automatically collected dependencies.
+## Returns
+
+Native properties, stable type identity and automatically collected dependencies.

@@ -12,10 +12,16 @@ apiScope: Editor
 
 Creates a fixed-length array without collapsing its element type.
 
+## Parameters
+
 **Parameter `element`:** Element type.
 
 **Parameter `count`:** Positive fixed element count.
 
-**Returns:** An immutable array type.
+## Returns
+
+An immutable array type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The element is void or an opaque storage binding.

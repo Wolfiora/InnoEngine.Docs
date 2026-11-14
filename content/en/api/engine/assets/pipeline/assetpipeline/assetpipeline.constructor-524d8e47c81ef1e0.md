@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one isolated authoring or deployed-runtime asset pipeline.
 
+## Parameters
+
 **Parameter `modules`:** The module host whose candidate generations coordinate importer refreshes.
 
 **Parameter `types`:** The type catalog used to discover and resolve asset extensions.
@@ -24,5 +26,7 @@ Creates one isolated authoring or deployed-runtime asset pipeline.
 **Parameter `diagnostics`:** The diagnostic hub that owns source database and asset processing reports.
 
 **Parameter `options`:** The asset source, artifact and watcher configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when a required service is null.

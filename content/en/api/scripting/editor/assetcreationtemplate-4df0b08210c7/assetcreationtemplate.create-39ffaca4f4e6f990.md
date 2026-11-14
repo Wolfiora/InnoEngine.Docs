@@ -12,4 +12,6 @@ apiScope: Editor
 
 Creates a value using this implementation's validated inputs.
 
-**Returns:** The validated asset object that represents the completed operation.
+## Returns
+
+The validated asset object that represents the completed operation.

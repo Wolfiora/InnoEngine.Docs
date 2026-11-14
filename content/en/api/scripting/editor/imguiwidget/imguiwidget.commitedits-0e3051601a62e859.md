@@ -12,4 +12,6 @@ apiScope: Editor
 
 Completes the current control edit before a document command, reload, Play transition or shutdown.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** A nested transaction prevents completion; ownership is retained.

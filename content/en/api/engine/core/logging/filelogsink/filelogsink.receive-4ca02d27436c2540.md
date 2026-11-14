@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Writes and flushes one complete entry before returning, serializing concurrent callers.
 
+## Parameters
+
 **Parameter `entry`:** The immutable entry to persist.
 
 ## Remarks
 
 The router owns scheduling and backpressure. Write failures propagate to its sink quarantine. Retention cannot remove files locked by another active writer and retries them on later rotation.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The sink has been disposed.
 

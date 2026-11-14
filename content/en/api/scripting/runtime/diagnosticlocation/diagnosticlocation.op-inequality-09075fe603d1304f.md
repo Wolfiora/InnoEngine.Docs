@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two locations are different.
 
+## Parameters
+
 **Parameter `left`:** The left location.
 
 **Parameter `right`:** The right location.
 
-**Returns:** `true` when the locations identify different source positions.
+## Returns
+
+`true` when the locations identify different source positions.

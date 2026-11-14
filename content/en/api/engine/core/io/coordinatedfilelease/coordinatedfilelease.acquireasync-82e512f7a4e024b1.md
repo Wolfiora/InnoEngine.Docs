@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires owner reading rights before opening or waiting for a leaf lease.
 
+## Parameters
+
 **Parameter `coordinationPath`:** The persistent owner gate, never removed by retirement.
 
 **Parameter `leafPath`:** A distinct leaf path within the same owner boundary.
@@ -21,7 +23,11 @@ Acquires owner reading rights before opening or waiting for a leaf lease.
 
 **Parameter `cancellationToken`:** Cancellation while waiting for either gate.
 
-**Returns:** Ownership retaining both gates until disposal.
+## Returns
+
+Ownership retaining both gates until disposal.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A path is relative, the leaf escapes its owner, or the budget is invalid.
 

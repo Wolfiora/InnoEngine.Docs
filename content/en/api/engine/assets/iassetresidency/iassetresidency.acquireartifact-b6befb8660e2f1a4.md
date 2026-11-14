@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires one verified immutable artifact output.
 
+## Parameters
+
 **Parameter `persistentId`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Stable artifact output name.
 
-**Returns:** A lease that keeps the artifact generation available to the caller.
+## Returns
+
+A lease that keeps the artifact generation available to the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the requested artifact does not exist or fails verification.

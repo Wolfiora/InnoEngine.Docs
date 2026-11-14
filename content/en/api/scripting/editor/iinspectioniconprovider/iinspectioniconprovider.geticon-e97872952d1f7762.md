@@ -12,6 +12,10 @@ apiScope: Editor
 
 Resolves the presentation icon for one inspected target.
 
+## Parameters
+
 **Parameter `target`:** The target whose icon should be resolved.
 
-**Returns:** The icon glyph registered by the owning feature.
+## Returns
+
+The icon glyph registered by the owning feature.

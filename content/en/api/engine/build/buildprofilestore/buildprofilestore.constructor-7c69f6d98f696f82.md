@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Creates a store for one current-format build profile document.
 
+## Parameters
+
 **Parameter `path`:** The project-owned path of the build profile document.
 
 **Parameter `serialization`:** The serialization registry whose active generation owns the generated converter.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` is empty.
 

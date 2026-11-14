@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Presents this action through the current editor interaction surface.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+
+## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates a rotation quaternion that looks in `forward` direction with the given `up`.
 
+## Parameters
+
 **Parameter `forward`:** The forward consumed by look rotation; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `up`:** The up consumed by look rotation; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

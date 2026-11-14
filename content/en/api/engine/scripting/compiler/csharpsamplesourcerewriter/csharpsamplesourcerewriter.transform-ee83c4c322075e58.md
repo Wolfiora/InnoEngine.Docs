@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Rewrites explicit stable type identities in cloned C# scripts and registers their asset mappings.
 
+## Parameters
+
 **Parameter `context`:** The private sample import stage and its identity map.

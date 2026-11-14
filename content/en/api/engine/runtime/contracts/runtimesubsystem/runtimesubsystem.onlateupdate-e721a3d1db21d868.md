@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Updates state that depends on completed simulation.
 
+## Parameters
+
 **Parameter `frame`:** The variable frame timing.

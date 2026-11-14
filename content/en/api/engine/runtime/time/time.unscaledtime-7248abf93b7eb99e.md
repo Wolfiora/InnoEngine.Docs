@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets total elapsed session time unaffected by pause or time scaling.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

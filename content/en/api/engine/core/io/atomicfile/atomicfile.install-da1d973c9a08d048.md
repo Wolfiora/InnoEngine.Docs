@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Atomically installs an existing same-directory candidate file.
 
+## Parameters
+
 **Parameter `source`:** The complete candidate file beside the destination.
 
 **Parameter `destination`:** The destination file path beside the candidate.
@@ -20,6 +22,8 @@ Atomically installs an existing same-directory candidate file.
 ## Remarks
 
 A failed create-only publication preserves the candidate. After successful publication the candidate is removed; a subsequent cleanup failure reports that the complete target exists. Unix create-only publication requires same-directory hard-link support. The caller must own the candidate and parent directory until the operation completes.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** Publication fails, create-only mode finds an existing destination, or candidate retirement fails after the complete destination has been published.
 

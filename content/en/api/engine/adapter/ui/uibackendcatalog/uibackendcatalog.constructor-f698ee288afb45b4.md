@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates and captures a complete provider set.
 
+## Parameters
+
 **Parameter `providers`:** Providers owned by this composition generation.

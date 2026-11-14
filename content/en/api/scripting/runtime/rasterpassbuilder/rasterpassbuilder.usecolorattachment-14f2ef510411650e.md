@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Attaches a color texture.
 
+## Parameters
+
 **Parameter `texture`:** Color attachment texture.
 
 **Parameter `slot`:** Zero-based color attachment slot.
@@ -26,4 +28,6 @@ Attaches a color texture.
 
 **Parameter `arrayLayer`:** Attached texture-array layer.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

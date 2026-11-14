@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Cancels a document's preview work and retires its cached candidate without touching canonical artifacts.
 
+## Parameters
+
 **Parameter `documentId`:** Closing preview owner identity.

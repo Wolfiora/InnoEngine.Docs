@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Sets the width of the next item.
 
+## Parameters
+
 **Parameter `width`:** The width in logical units or pixels required by this operation.

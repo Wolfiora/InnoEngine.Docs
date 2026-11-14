@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Starts a coroutine.
 
+## Parameters
+
 **Parameter `routine`:** Enumerator exclusively transferred to the scheduler after successful admission.
 
-**Returns:** Coroutine handle.
+## Returns
+
+Coroutine handle.

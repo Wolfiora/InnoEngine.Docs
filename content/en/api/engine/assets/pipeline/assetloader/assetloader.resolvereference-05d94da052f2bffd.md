@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves a serialized reference or creates a persistent missing placeholder.
 
+## Parameters
+
 **Parameter `persistentId`:** The referenced persistent identity.
 
 **Parameter `stableTypeId`:** The referenced stable asset type identity.
@@ -19,4 +21,6 @@ Resolves a serialized reference or creates a persistent missing placeholder.
 
 **Parameter `expectedType`:** The declared destination type.
 
-**Returns:** A compatible canonical asset or missing placeholder.
+## Returns
+
+A compatible canonical asset or missing placeholder.

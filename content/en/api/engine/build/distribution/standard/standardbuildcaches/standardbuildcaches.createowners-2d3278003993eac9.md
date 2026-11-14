@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Registers exact Native, binding and Support Pack ownership recorded by their publishers. Unrecorded directories remain outside the cleanup authority.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute engine checkout containing the artifact roots.
 
 **Parameter `components`:** The actual registered component owners; shared toolchain roots are registered once.
 
-**Returns:** Immutable owner registrations with current-generation and transitive dependency protection.
+## Returns
+
+Immutable owner registrations with current-generation and transitive dependency protection.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The root is blank or relative.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases the generation lease retained by an immutable registry snapshot.
 
+## Parameters
+
 **Parameter `snapshot`:** The immutable state snapshot consumed by this operation.

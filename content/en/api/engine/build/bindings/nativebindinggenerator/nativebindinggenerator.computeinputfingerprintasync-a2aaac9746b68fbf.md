@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Computes the selected generator source input identity without producing bindings or compiling a product.
 
+## Parameters
+
 **Parameter `context`:** The borrowed operation with frozen target tools and phase-local input reads.
 
 **Parameter `request`:** The exact component, configuration target and output mode whose source closure is planned.
 
 **Parameter `cancellationToken`:** Cancels configuration loading, dependency evaluation and content hashing.
 
-**Returns:** The complete source preparation identity, distinct from any generated artifact fingerprint. It remains computable when reconstructible generation outputs have been retired.
+## Returns
+
+The complete source preparation identity, distinct from any generated artifact fingerprint. It remains computable when reconstructible generation outputs have been retired.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The selected tools, configuration, generator or extension inputs cannot be resolved.
 

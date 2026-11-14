@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Acquires a validated candidate and transfers its lifetime to the caller on success.
 
+## Parameters
+
 **Parameter `context`:** The immutable candidate dependency closure and retirement owner.
 
-**Returns:** A complete unpublished contribution; failure retires every acquired resource through the context.
+## Returns
+
+A complete unpublished contribution; failure retires every acquired resource through the context.

@@ -1,0 +1,46 @@
+---
+import type { StarlightRouteData } from '@astrojs/starlight/route-data';
+interface Props {
+  entries: StarlightRouteData['sidebar'];
+  trail?: string;
+}
+const { entries, trail = '' } = Astro.props;
+---
+
+<ul class:list={{ root: !trail }}>
+  {entries.map((entry) => {
+    if (entry.type === 'link') return <li><a href={entry.href} aria-current={entry.isCurrent ? 'page' : undefined} {...entry.attrs}>{entry.label}</a></li>;
+    const home = entry.entries.find(child => child.type === 'link' && child.attrs['data-group-home'] === 'true');
+    const children = entry.entries.filter(child => child !== home);
+    const key = home?.type === 'link' ? home.href : `${trail}/${entry.label}`;
+    return <li><details data-key={key}>
+      <summary aria-label={`Toggle ${entry.label}`}>
+        {home?.type === 'link'
+          ? <a href={home.href} aria-current={home.isCurrent ? 'page' : undefined} data-group-home="true">{entry.label}</a>
+          : <span>{entry.label}</span>}
+        <span class="caret" aria-hidden="true">›</span>
+      </summary>
+      <Astro.self entries={children} trail={key} />
+    </details></li>;
+  })}
+</ul>
+
+<style is:global>
+  inno-sidebar {
+  ul { list-style: none; padding: 0; margin: 0; }
+  ul:not(.root) { margin-inline-start: .5rem; border-inline-start: 1px solid var(--sl-color-hairline-light); padding-inline-start: .5rem; }
+  .root > li + li { margin-top: .5rem; }
+  li { overflow-wrap: anywhere; }
+  a { display: block; padding: .3rem .5rem; color: var(--sl-color-gray-2); text-decoration: none; border-radius: .25rem; line-height: 1.4; }
+  a:hover { color: var(--sl-color-white); }
+  summary { display: flex; align-items: center; gap: .25rem; cursor: pointer; font-weight: 600; color: var(--sl-color-white); line-height: 1.4; }
+  summary::marker, summary::-webkit-details-marker { display: none; }
+  summary > a, summary > span:first-child { flex: 1; min-width: 0; padding: .3rem .5rem; }
+  summary > a { color: inherit; }
+  .caret { flex: 0 0 2rem; text-align: center; font-size: 1.5rem; line-height: 1.5; }
+  details[open] > summary > .caret { transform: rotate(90deg); }
+  [aria-current='page'] { background: var(--sl-color-text-accent); color: var(--sl-color-text-invert); font-weight: 600; }
+  a:focus-visible, summary:focus-visible { outline: 2px solid var(--sl-color-text-accent); outline-offset: 2px; }
+  @media (min-width: 50rem) { a { font-size: var(--sl-text-sm); } }
+  }
+</style>

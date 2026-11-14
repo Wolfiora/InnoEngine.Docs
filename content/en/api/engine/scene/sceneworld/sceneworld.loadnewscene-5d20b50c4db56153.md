@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates and loads a new active scene.
 
+## Parameters
+
 **Parameter `name`:** The initial scene display name.
 
-**Returns:** The newly created and loaded scene.
+## Returns
+
+The newly created and loaded scene.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Calculates the squared Euclidean magnitude without a square-root operation.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

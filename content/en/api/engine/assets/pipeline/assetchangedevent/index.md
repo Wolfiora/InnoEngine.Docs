@@ -14,6 +14,8 @@ aliases: []
 
 Batched file-system change event for asset source files.
 
+## Parameters
+
 **Parameter `relativePath`:** Changed path relative to watched root.
 
 **Parameter `changeType`:** File-system change type.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Describes the ownership classification of one planned assembly without loading its code.
 
+## Parameters
+
 **Parameter `domain`:** The owning extension domain.
 
 **Parameter `scope`:** The dependency scope declared by the module source.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a layer identifier from a zero-based layer index.
 
+## Parameters
+
 **Parameter `index`:** The layer index in the inclusive range from zero through thirty-one.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `index` is outside the supported range.

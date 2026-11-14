@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads a sibling field or property from the current owner, including non-public base members.
 
+## Parameters
+
 **Parameter `memberName`:** Exact CLR member name.
 
-**Returns:** The current sibling value.
+## Returns
+
+The current sibling value.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the sibling is absent, ambiguous, indexed, or unreadable.

@@ -12,6 +12,10 @@ apiScope: Editor
 
 Discards staged authoring changes and reloads the last saved source.
 
+## Parameters
+
 **Parameter `context`:** Stable document context owned by the host.
 
-**Returns:** `true` when the source is restored.
+## Returns
+
+`true` when the source is restored.

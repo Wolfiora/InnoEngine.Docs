@@ -12,6 +12,10 @@ apiScope: Editor
 
 Determines whether a Shader graph declares a reusable node interface.
 
+## Parameters
+
 **Parameter `graph`:** Graph to inspect.
 
-**Returns:** `true` when graph-level node settings are present.
+## Returns
+
+`true` when graph-level node settings are present.

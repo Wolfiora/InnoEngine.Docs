@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a managed editor drag request.
 
+## Parameters
+
 **Parameter `editor`:** The shared passive editor context.
 
 **Parameter `interactions`:** The active interaction entry point.
@@ -18,6 +20,8 @@ Creates a managed editor drag request.
 **Parameter `area`:** The interaction area that produced the source.
 
 **Parameter `data`:** The transient source identity and preview label.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `editor`, `interactions`, or `data` is `null`.
 

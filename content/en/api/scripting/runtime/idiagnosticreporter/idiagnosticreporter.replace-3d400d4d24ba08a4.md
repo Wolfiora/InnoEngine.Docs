@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Atomically replaces this producer's complete current issue set.
 
+## Parameters
+
 **Parameter `diagnostics`:** The full immutable issue set; empty clears the report.

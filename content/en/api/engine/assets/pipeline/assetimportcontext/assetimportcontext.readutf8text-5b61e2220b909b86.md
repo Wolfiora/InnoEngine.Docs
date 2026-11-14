@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Reads the source bytes as UTF-8 text.
 
-**Returns:** The decoded text without an optional byte-order mark.
+## Returns
+
+The decoded text without an optional byte-order mark.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Processes input and advances document state.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `input`:** The input snapshot routed to this context.

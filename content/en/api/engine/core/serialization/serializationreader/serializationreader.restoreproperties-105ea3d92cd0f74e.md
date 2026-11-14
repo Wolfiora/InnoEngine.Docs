@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Restores annotated properties from the current structured object into an existing object.
 
+## Parameters
+
 **Parameter `target`:** The target whose annotated properties should be restored.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is null.

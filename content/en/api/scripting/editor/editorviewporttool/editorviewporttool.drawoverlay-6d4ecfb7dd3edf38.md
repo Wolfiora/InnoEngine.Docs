@@ -12,4 +12,6 @@ apiScope: Editor
 
 Draws transient gizmos and diagnostics over the viewport.
 
+## Parameters
+
 **Parameter `context`:** Gesture and coordinate context.

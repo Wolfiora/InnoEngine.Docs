@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Rejects publication when the managed selection differs from the complete native generations to deploy.
 
+## Parameters
+
 **Parameter `path`:** The operation-owned selection consumed during managed compilation.
 
 **Parameter `generations`:** The complete current native project closure and its selected generations.
 
 **Parameter `linkage`:** The exact component linkage used to build the native closure.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The selection differs in project closure, fingerprint, source location, linkage, or structure.
 

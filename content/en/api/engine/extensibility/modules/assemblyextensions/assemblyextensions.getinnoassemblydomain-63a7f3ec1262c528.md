@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves the reload domain declared by an assembly.
 
+## Parameters
+
 **Parameter `assembly`:** The assembly whose metadata should be inspected.
 
-**Returns:** The declared assembly domain.
+## Returns
+
+The declared assembly domain.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assembly` is `null`.
 

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a shader source location.
 
+## Parameters
+
 **Parameter `assetPath`:** Project-relative source asset path.
 
 **Parameter `passName`:** Stable pass name.

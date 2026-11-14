@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the determinant of the matrix.
 
+## Parameters
+
 **Parameter `m`:** The transformation matrix applied to the supplied value.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

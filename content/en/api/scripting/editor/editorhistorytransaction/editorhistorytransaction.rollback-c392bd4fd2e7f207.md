@@ -12,6 +12,10 @@ apiScope: Editor
 
 Reverts every operation recorded by the transaction and does not add a history entry.
 
-**Returns:** The result of the atomic rollback attempt.
+## Returns
+
+The result of the atomic rollback attempt.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the transaction is no longer active.

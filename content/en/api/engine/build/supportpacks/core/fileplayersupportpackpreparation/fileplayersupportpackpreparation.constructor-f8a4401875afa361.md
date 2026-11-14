@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures the platform layout and validator without preparing any tools or files.
 
+## Parameters
+
 **Parameter `target`:** The publication platform identity.
 
 **Parameter `runtimeIdentifier`:** The managed SDK runtime target.
@@ -36,6 +38,8 @@ Captures the platform layout and validator without preparing any tools or files.
 **Parameter `bindingGenerator`:** The borrowed generation service used by the frozen Native operation.
 
 **Parameter `preparationInputs`:** The platform-owned preparation and validator implementation files included in source identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A platform identifier or required target string is blank.
 

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Removes and destroys a specific attached component.
 
+## Parameters
+
 **Parameter `component`:** GameComponent instance to remove.
 
-**Returns:** `true` when the component was attached and removed.
+## Returns
+
+`true` when the component was attached and removed.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when attempting to remove the mandatory transform.

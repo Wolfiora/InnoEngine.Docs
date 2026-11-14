@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Binds this runtime to the current asynchronous execution context.
 
-**Returns:** The caller-owned binding scope.
+## Returns
+
+The caller-owned binding scope.

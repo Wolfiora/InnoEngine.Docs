@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an independent mouse event belonging to one platform window.
 
+## Parameters
+
 **Parameter `windowId`:** The platform window that produced the event.

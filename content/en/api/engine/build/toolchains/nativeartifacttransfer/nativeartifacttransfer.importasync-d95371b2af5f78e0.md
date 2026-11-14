@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Imports complete payload candidates without adopting them; each consumer's publisher must still verify its requested inputs.
 
+## Parameters
+
 **Parameter `engineRoot`:** The consumer checkout whose existing native publishers own the destination layout.
 
 **Parameter `archivePath`:** The restored transport archive, which remains available for diagnosis after rejection.
 
 **Parameter `cancellationToken`:** Cancels extraction or acquisition without replacing any existing generation.
 
-**Returns:** The number of newly imported candidates; existing destinations remain under their publisher's repair policy.
+## Returns
+
+The number of newly imported candidates; existing destinations remain under their publisher's repair policy.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The archive is malformed, contains invalid ownership paths or fails complete payload validation.
 

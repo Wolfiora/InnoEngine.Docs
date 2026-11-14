@@ -12,6 +12,10 @@ apiScope: Editor
 
 Determines whether this drawer handles the selected value, in addition to its registered type.
 
+## Parameters
+
 **Parameter `target`:** Current target. The check must not mutate it.
 
-**Returns:** Whether this drawer accepts the target.
+## Returns
+
+Whether this drawer accepts the target.

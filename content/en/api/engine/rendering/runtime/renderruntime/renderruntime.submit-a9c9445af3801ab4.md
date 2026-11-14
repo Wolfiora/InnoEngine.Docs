@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Submits validated work to the active backend for ordered processing.
 
+## Parameters
+
 **Parameter `request`:** The validated immutable request that defines this operation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The bounded frame queue has reached capacity, retirement has started, or generation cleanup has faulted the owner. The request was not accepted.
 

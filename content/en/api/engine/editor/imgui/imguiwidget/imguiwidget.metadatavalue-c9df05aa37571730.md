@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Draws a subdued metadata prefix followed by an interactive value on the same line.
 
+## Parameters
+
 **Parameter `metadata`:** Short contextual text such as a declared value type.
 
 **Parameter `drawValue`:** Callback that draws the value or action following the metadata.
 
 **Parameter `tooltip`:** Optional explanation displayed while the metadata is hovered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `metadata` or `drawValue` is `null`.

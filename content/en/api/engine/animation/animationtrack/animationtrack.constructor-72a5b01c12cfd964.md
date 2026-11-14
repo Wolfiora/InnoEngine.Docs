@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one validated animation track.
 
+## Parameters
+
 **Parameter `bindingId`:** Stable target binding identifier.
 
 **Parameter `interpolation`:** Sampling rule between adjacent keyframes.

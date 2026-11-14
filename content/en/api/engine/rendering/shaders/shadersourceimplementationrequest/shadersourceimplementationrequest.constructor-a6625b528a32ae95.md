@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a candidate without inferring a language or adapter from its filename.
 
+## Parameters
+
 **Parameter `implementationId`:** Unique owner-defined key, including the target or variant when applicable.
 
 **Parameter `languageId`:** Registered source language identity.

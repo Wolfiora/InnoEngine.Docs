@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Applies a previously validated neutral record; failed recovery leaves the draft unchanged.
 
+## Parameters
+
 **Parameter `change`:** Record owned by the shared History service.
 
 **Parameter `direction`:** Requested traversal direction.

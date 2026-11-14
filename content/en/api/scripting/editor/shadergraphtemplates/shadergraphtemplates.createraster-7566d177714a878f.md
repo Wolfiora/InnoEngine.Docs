@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates a raster graph accepting clip-space XY positions and an exposed RGBA color.
 
+## Parameters
+
 **Parameter `serialization`:** Owner native converter registry.
 
 **Parameter `context`:** Complete owner asset/reference context for material defaults.
 
-**Returns:** A valid two-stage document; pipelines may replace its vertex transform or provide their own templates.
+## Returns
+
+A valid two-stage document; pipelines may replace its vertex transform or provide their own templates.

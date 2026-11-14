@@ -12,9 +12,13 @@ apiScope: Runtime
 
 Converts radians to degrees.
 
+## Parameters
+
 **Parameter `radians`:** The angle in radians.
 
-**Returns:** The angle in degrees.
+## Returns
+
+The angle in degrees.
 
 ## Remarks
 

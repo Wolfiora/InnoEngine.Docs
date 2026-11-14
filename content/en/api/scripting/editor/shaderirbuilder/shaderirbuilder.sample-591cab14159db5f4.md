@@ -12,10 +12,16 @@ apiScope: Editor
 
 Samples a texture using implicit derivatives; the enclosing stage must be Fragment.
 
+## Parameters
+
 **Parameter `texture`:** A sampled 2D, 2D-array, 3D or cube texture.
 
 **Parameter `coordinate`:** float2 for 2D, or float3 for an array, volume or cube.
 
-**Returns:** The sampled float4 value.
+## Returns
+
+The sampled float4 value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Operands have incompatible types or owners.

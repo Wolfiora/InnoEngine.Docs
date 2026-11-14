@@ -12,9 +12,13 @@ apiScope: Editor
 
 Draws non-interactive text centered inside a reserved layout area.
 
+## Parameters
+
 **Parameter `text`:** Visible text.
 
 **Parameter `areaSize`:** Size of the layout area that contains the text.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.
 

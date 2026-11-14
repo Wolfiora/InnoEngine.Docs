@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Obtains a newly owned complete document snapshot.
 
-**Returns:** Owned document bytes, or null when no document exists; an empty document remains distinct from absence.
+## Returns
+
+Owned document bytes, or null when no document exists; an empty document remains distinct from absence.
 
 ## Remarks
 
 One rename-compatible handle pins the selected complete publication until its owned bytes are read. Writers must atomically replace the document rather than modify the selected file in place.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The document cannot be read completely or exceeds the maximum supported byte-array size.
 

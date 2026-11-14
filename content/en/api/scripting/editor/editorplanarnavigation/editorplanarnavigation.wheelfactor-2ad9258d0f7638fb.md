@@ -12,10 +12,16 @@ apiScope: Editor
 
 Converts wheel input to the common exponential magnification used by Editor canvases.
 
+## Parameters
+
 **Parameter `wheel`:** Logical wheel units, independent of framebuffer DPI.
 
 **Parameter `sensitivity`:** Positive exponential sensitivity.
 
-**Returns:** A finite positive magnification factor; positive wheel magnifies content.
+## Returns
+
+A finite positive magnification factor; positive wheel magnifies content.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Input is non-finite or sensitivity is not positive.

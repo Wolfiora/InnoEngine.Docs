@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws toolbar controls owned by the selected model controller.
 
+## Parameters
+
 **Parameter `kind`:** Open viewport purpose.
 
 **Parameter `viewportId`:** Stable panel viewport identity.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates discovery inputs and freezes a plan before publication output exists.
 
+## Parameters
+
 **Parameter `context`:** The source checkout and host used for read-only SDK discovery.
 
 **Parameter `cancellationToken`:** Cancels preparation before installation.
 
-**Returns:** A frozen plan with no running work; missing tools and unsupported hosts fail here.
+## Returns
+
+A frozen plan with no running work; missing tools and unsupported hosts fail here.

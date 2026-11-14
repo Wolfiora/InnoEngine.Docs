@@ -12,6 +12,8 @@ apiScope: Editor
 
 Changes zoom while preserving the graph point beneath a screen-space pivot.
 
+## Parameters
+
 **Parameter `factor`:** Positive multiplicative zoom factor.
 
 **Parameter `pivotX`:** Screen-space pivot X.

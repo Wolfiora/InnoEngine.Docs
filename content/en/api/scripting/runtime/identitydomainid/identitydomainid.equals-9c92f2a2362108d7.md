@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether this value and another value identify the same runtime domain.
 
+## Parameters
+
 **Parameter `other`:** The domain identifier to compare with this value.
 
-**Returns:** `true` when both values identify the same domain; otherwise, `false`.
+## Returns
+
+`true` when both values identify the same domain; otherwise, `false`.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a generation-scoped resolved material pass.
 
+## Parameters
+
 **Parameter `definition`:** The selected shader pass definition.
 
 **Parameter `graphicsPipeline`:** The graphics pipeline handle, or an invalid handle for compute.
@@ -23,4 +25,6 @@ Creates a generation-scoped resolved material pass.
 
 **Parameter `bindings`:** The complete material-owned binding snapshot.
 
-**Returns:** A resolved material pass ready for command binding.
+## Returns
+
+A resolved material pass ready for command binding.

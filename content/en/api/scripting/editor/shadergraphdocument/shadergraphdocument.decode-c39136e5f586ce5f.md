@@ -12,7 +12,11 @@ apiScope: Editor
 
 Decodes a graph value against the current owner generation.
 
+## Type parameters
+
 **Type parameter `T`:** Expected native serializable type.
+
+## Parameters
 
 **Parameter `value`:** Neutral graph value.
 
@@ -20,4 +24,6 @@ Decodes a graph value against the current owner generation.
 
 **Parameter `context`:** The complete owner reference context.
 
-**Returns:** A detached current-generation value.
+## Returns
+
+A detached current-generation value.

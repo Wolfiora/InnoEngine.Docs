@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Tests whether a format is valid as a raster attachment.
 
-**Returns:** `true` when the format can be attached.
+## Returns
+
+`true` when the format can be attached.
+
+## Parameters
 
 **Parameter `format`:** The format consumed by supports render target; ownership remains with the caller unless explicitly stated otherwise.

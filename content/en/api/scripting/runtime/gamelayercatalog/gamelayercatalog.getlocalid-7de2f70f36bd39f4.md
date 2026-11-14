@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets the stable project-independent identity assigned to a layer slot.
 
+## Parameters
+
 **Parameter `layer`:** The layer slot to resolve.
 
-**Returns:** The local identity, or `null`.
+## Returns
+
+The local identity, or `null`.

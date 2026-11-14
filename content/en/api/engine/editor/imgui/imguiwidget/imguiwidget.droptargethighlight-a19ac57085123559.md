@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws the standard yellow rectangular drag-and-drop target highlight above all normal window content in screen coordinates.
 
+## Parameters
+
 **Parameter `min`:** Minimum target coordinate.
 
 **Parameter `max`:** Maximum target coordinate.

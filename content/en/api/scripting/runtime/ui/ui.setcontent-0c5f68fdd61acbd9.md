@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Replaces an element's children with an explicitly tagged source-language fragment.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by set content; ownership remains with the caller unless explicitly stated otherwise.
@@ -20,4 +22,6 @@ Replaces an element's children with an explicitly tagged source-language fragmen
 
 **Parameter `fragment`:** The fragment consumed by set content; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Receives an effective application suspension change at an event-pump safety point. Repeated notifications and changes that leave another suspension reason active do not invoke this hook.
 
+## Parameters
+
 **Parameter `isSuspended`:** Whether product frames and their clock are suspended after the change.

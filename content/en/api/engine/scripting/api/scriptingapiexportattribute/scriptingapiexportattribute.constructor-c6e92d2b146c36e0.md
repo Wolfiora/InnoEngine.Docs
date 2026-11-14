@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an explicit script API export.
 
+## Parameters
+
 **Parameter `type`:** The runtime type exposed to scripts.
 
 **Parameter `scope`:** The script profile that receives the type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `type` is `null`.

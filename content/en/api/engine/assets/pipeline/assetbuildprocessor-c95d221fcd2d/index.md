@@ -14,4 +14,6 @@ aliases: []
 
 Provides a strongly typed aggregate asset build processor.
 
+## Type parameters
+
 **Type parameter `TDefinition`:** The definition asset type.

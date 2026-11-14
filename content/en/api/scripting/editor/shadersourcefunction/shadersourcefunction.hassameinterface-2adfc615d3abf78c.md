@@ -12,6 +12,10 @@ apiScope: Editor
 
 Validates alternative implementations by semantic names, types, direction, and call order.
 
+## Parameters
+
 **Parameter `other`:** Candidate interface, whose private implementation function name may differ.
 
-**Returns:** True when both implementations expose the same graph ports and calling interface.
+## Returns
+
+True when both implementations expose the same graph ports and calling interface.

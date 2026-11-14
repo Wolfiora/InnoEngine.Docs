@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a normalized color from byte channel values.
 
+## Parameters
+
 **Parameter `r`:** The red byte channel.
 
 **Parameter `g`:** The green byte channel.
@@ -20,4 +22,6 @@ Creates a normalized color from byte channel values.
 
 **Parameter `a`:** The alpha byte channel; 255 is opaque.
 
-**Returns:** A color with each byte channel divided by 255.
+## Returns
+
+A color with each byte channel divided by 255.

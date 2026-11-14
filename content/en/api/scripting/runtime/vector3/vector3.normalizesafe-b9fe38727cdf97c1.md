@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Returns a unit-length value while handling degenerate input according to the method contract.
 
+## Parameters
+
 **Parameter `value`:** The concrete value read or transformed by this operation.
 
 **Parameter `epsilon`:** The positive tolerance below which input is treated as degenerate.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

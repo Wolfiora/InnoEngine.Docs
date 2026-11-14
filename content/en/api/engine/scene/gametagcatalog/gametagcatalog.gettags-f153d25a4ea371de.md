@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the defined tags with the immutable default tag first.
 
-**Returns:** An independently owned deterministic tag snapshot.
+## Returns
+
+An independently owned deterministic tag snapshot.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads and validates the shader definition value from its authoritative source.
 
+## Parameters
+
 **Parameter `artifact`:** The resolved immutable artifact payload returned to the caller.
 
-**Returns:** The validated shader definition that represents the completed operation.
+## Returns
+
+The validated shader definition that represents the completed operation.

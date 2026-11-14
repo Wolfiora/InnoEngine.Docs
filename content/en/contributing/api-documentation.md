@@ -94,6 +94,10 @@ A manual file is not frozen source code. Its authored explanation is retained wh
 
 Only explicit `source: xml` displays the XML Tip above required contracts. A missing marker remains automatically managed for synchronization but does not display that explicit-source notice. Manual pages have no XML Tip. Both kinds retain source provenance directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
 
+For XML-managed pages, the source summary appears directly below the title. XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment; they are not appended to a generated signature. The website preserves their section headings, and exact symbol queries include the summary and these sections. Project, API family and Scope appear immediately above inheritance. No generic explanation is substituted for the author's source comments.
+
+Sidebar groups start collapsed. Click a category name to read its page, or its arrow to expand the hierarchy; these actions are independent. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
+
 ## Interpret the checks
 
 **Documentation validation** checks data integrity, identity, links, composition, examples and the site. Errors block publication.

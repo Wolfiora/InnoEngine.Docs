@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Cancels work and removes an uncommitted copy after all background consumers have drained.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Background work is still draining; retain the transaction and retry on its owner thread.

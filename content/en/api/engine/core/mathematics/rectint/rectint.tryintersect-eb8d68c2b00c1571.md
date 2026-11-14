@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Attempts to intersect without changing state when the operation cannot complete.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
 **Parameter `intersection`:** The intersection consumed by try intersect; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the requested condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the requested condition is satisfied; otherwise, `false`.

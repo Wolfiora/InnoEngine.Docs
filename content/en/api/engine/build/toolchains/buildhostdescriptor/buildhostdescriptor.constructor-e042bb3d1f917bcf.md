@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures host facts supplied by a product or command composition boundary.
 
+## Parameters
+
 **Parameter `system`:** The execution operating system identity.
 
 **Parameter `architecture`:** The execution processor architecture.
 
 **Parameter `services`:** Explicit host execution services, or null for direct physical execution.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A host fact is unassigned.

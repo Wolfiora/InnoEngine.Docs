@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Sets the raster configuration for subsequent draws.
 
+## Parameters
+
 **Parameter `state`:** Immutable raster configuration applied to subsequent draws.

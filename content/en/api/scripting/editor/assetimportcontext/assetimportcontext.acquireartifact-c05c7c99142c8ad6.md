@@ -12,8 +12,12 @@ apiScope: Editor
 
 Acquires an immutable dependency output and records its invalidation dependency automatically.
 
+## Parameters
+
 **Parameter `assetId`:** Persistent dependency identity.
 
 **Parameter `outputName`:** Stable named output protocol.
 
-**Returns:** A caller-owned lease that must be disposed after reading.
+## Returns
+
+A caller-owned lease that must be disposed after reading.

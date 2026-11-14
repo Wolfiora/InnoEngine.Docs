@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Assigns a persistent identity to a detached object without allocating a runtime identity.
 
+## Parameters
+
 **Parameter `obj`:** The detached identity object to initialize.
 
 **Parameter `persistentId`:** The non-empty persistent identity to assign.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `obj` is null.
 

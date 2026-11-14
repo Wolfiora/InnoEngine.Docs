@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Encodes commands while the owning model controls attachments and view state.
 
+## Parameters
+
 **Parameter `commands`:** Backend-neutral scene pass encoder.

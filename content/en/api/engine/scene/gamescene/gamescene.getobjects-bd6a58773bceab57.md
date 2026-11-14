@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets all committed live game objects in scene storage order.
 
-**Returns:** A stable object snapshot.
+## Returns
+
+A stable object snapshot.

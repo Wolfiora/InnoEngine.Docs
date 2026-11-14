@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a node's current typed ports under the shared generation lease.
 
+## Parameters
+
 **Parameter `node`:** Neutral node properties.
 
 **Parameter `serialization`:** Owner converter registry.
@@ -23,4 +25,6 @@ Captures a node's current typed ports under the shared generation lease.
 
 **Parameter `input`:** Resolved stage input interface, or null.
 
-**Returns:** An immutable provider-free port snapshot.
+## Returns
+
+An immutable provider-free port snapshot.

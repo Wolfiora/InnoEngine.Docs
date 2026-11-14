@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an isolated logging router with an explicit delivery policy.
 
+## Parameters
+
 **Parameter `queueCapacity`:** Maximum pending entries and flush barriers before explicit rejection.
 
 **Parameter `drainBudget`:** Maximum work items delivered using one sink snapshot.
 
 **Parameter `deliveryMode`:** Selects worker or inline delivery independently of the platform.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A capacity or budget is not positive, or the delivery policy is not a defined mode.

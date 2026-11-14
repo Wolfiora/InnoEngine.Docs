@@ -12,6 +12,10 @@ apiScope: Editor
 
 Adds or removes a member while preserving the existing range anchor.
 
+## Parameters
+
 **Parameter `target`:** A currently registered selection target.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The target is null.

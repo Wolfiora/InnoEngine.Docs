@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable modal presentation snapshot.
 
+## Parameters
+
 **Parameter `isVisible`:** Whether the modal should currently be visible.
 
 **Parameter `blocksInteraction`:** Whether the modal blocks regular editor interaction.

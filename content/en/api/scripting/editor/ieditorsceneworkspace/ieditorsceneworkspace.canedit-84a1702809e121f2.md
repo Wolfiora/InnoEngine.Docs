@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether a loaded scene may be changed in the current Edit or isolated Play world.
 
+## Parameters
+
 **Parameter `scene`:** The scene to inspect.
 
-**Returns:** `true` for a writable Project scene or transient scene in the presented world. Changes made during Play remain in the runtime copy and are discarded on stop.
+## Returns
+
+`true` for a writable Project scene or transient scene in the presented world. Changes made during Play remain in the runtime copy and are discarded on stop.

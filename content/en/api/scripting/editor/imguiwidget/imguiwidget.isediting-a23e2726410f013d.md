@@ -12,6 +12,10 @@ apiScope: Editor
 
 Checks whether this owner still owns a particular edit, including after a close or generation boundary.
 
+## Parameters
+
 **Parameter `path`:** The stable edit identity.
 
-**Returns:** True only while the matching owner still has an active transaction.
+## Returns
+
+True only while the matching owner still has an active transaction.

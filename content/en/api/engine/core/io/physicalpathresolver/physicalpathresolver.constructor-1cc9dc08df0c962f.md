@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a phase-local resolver with the caller's known path-comparison semantics.
 
+## Parameters
+
 **Parameter `comparer`:** The known filesystem comparison, or null to retain ordinal spelling without assuming volume semantics.

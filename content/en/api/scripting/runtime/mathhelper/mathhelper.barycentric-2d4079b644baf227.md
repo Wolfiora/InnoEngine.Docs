@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Returns the Cartesian coordinate for one axis of a point that is defined by a given triangle and two normalized barycentric (areal) coordinates.
 
+## Parameters
+
 **Parameter `value1`:** The coordinate on one axis of vertex 1 of the defining triangle.
 
 **Parameter `value2`:** The coordinate on the same axis of vertex 2 of the defining triangle.
@@ -22,4 +24,6 @@ Returns the Cartesian coordinate for one axis of a point that is defined by a gi
 
 **Parameter `amount2`:** The normalized barycentric (areal) coordinate b3, equal to the weighting factor for vertex 3, the coordinate of which is specified in value3.
 
-**Returns:** Cartesian coordinate of the specified point with respect to the axis being used.
+## Returns
+
+Cartesian coordinate of the specified point with respect to the axis being used.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an orthographic projection matrix (depth range 0..1).
 
+## Parameters
+
 **Parameter `width`:** View width.
 
 **Parameter `height`:** View height.
@@ -19,4 +21,6 @@ Creates an orthographic projection matrix (depth range 0..1).
 
 **Parameter `far`:** Far plane in camera space.
 
-**Returns:** An orthographic projection matrix.
+## Returns
+
+An orthographic projection matrix.

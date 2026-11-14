@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws expanded collapsible-card content inside a framed body.
 
+## Parameters
+
 **Parameter `id`:** The stable card identifier.
 
 **Parameter `drawContent`:** The callback that draws card content.

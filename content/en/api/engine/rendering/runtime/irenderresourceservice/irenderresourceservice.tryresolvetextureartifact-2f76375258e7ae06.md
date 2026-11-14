@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves one imported artifact texture into a persistent sampled texture.
 
+## Parameters
+
 **Parameter `texture`:** Stable texture artifact reference.
 
 **Parameter `resolvedTexture`:** Receives a generation-scoped texture handle when successful.
 
-**Returns:** `true` when current or last-good texture content is usable.
+## Returns
+
+`true` when current or last-good texture content is usable.

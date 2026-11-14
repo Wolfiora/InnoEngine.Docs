@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Converts this value to its euler angles zyx representation.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves an explicitly supported linkage format before staging or generation begins.
 
+## Parameters
+
 **Parameter `kind`:** The component's requested linkage.
 
-**Returns:** The selected file extension; unsupported linkage fails immediately.
+## Returns
+
+The selected file extension; unsupported linkage fails immediately.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The platform does not contribute this linkage format.
 

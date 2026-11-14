@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Draws one prepared message dialog. Text owns one bounded scroll region and actions remain outside it.
 
+## Parameters
+
 **Parameter `presentation`:** The same immutable content used for measurement.
 
 **Parameter `layout`:** The measurement captured in this frame and context.
 
-**Returns:** True when the enabled action was activated by native button input or its explicitly enabled Escape policy.
+## Returns
+
+True when the enabled action was activated by native button input or its explicitly enabled Escape policy.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The message is null.
 

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Queues one target for frame-safe retirement.
 
+## Parameters
+
 **Parameter `target`:** Target no longer used by request producers.

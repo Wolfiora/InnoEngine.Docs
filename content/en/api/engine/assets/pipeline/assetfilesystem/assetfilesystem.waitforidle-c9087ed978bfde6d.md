@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Waits for queued changes and reports whether a full rescan is required.
 
+## Parameters
+
 **Parameter `requiresFullRescan`:** Whether the watcher reported an unreliable event stream.
 
-**Returns:** The normalized queued changes.
+## Returns
+
+The normalized queued changes.

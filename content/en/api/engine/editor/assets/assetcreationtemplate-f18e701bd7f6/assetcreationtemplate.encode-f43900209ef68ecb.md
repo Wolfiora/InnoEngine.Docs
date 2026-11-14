@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Encodes the detached initial value into the source representation owned by this template.
 
+## Parameters
+
 **Parameter `context`:** Creation services scoped to the current Asset source pipeline.
 
 **Parameter `asset`:** The exact value returned by `M:Inno.Editor.Assets.AssetCreationTemplate.Create`.
 
-**Returns:** Complete source bytes ready for an atomic File Browser create operation.
+## Returns
+
+Complete source bytes ready for an atomic File Browser create operation.
 
 ## Remarks
 

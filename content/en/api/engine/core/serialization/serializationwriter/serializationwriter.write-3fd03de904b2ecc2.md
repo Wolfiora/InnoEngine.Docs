@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Writes a value using its declared metadata type without constructing a generic method at runtime.
 
+## Parameters
+
 **Parameter `name`:** The unique non-empty member name.
 
 **Parameter `value`:** The value to encode, including null when permitted by the declared type.
 
 **Parameter `declaredType`:** The exact declaration whose converter and value semantics apply.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The declared type is null.
 

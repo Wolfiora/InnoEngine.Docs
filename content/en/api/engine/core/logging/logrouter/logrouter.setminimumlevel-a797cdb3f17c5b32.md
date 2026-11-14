@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Sets the lowest severity accepted by this router.
 
+## Parameters
+
 **Parameter `level`:** The minimum dispatched severity.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this router has been disposed.

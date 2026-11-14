@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a pipeline extension declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable pipeline extension identifier.

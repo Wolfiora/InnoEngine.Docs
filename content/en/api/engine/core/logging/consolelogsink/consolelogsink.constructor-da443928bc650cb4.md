@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a console sink with explicitly selected terminal capabilities.
 
+## Parameters
+
 **Parameter `useColors`:** Whether the host supports console colors; redirected output always uses plain text.

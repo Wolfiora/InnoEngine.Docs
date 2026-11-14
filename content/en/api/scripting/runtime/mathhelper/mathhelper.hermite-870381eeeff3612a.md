@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Performs a Hermite spline interpolation.
 
+## Parameters
+
 **Parameter `value1`:** Source position.
 
 **Parameter `tangent1`:** Source tangent.
@@ -22,4 +24,6 @@ Performs a Hermite spline interpolation.
 
 **Parameter `amount`:** Weighting factor.
 
-**Returns:** The result of the Hermite spline interpolation.
+## Returns
+
+The result of the Hermite spline interpolation.

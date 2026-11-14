@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a non-uniform scale matrix.
 
-**Returns:** A scale matrix.
+## Returns
+
+A scale matrix.
+
+## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

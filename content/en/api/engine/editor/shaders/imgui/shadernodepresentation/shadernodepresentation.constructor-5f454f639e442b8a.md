@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates presentation metadata for one Shader node definition.
 
+## Parameters
+
 **Parameter `displayName`:** Optional artist-facing node name.
 
 **Parameter `createPath`:** Optional slash-delimited creation-menu path.

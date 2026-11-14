@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates the target representation from the supplied euler angles xyzdegrees value.
 
+## Parameters
+
 **Parameter `eulerDegrees`:** The euler degrees consumed by from euler angles xyzdegrees; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

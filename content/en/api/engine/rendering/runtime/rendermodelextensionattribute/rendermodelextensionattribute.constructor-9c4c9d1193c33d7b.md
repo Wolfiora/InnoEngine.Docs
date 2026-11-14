@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a model declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable model identity.

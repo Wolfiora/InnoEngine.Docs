@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Provides non-owning diagnostic information about an active assembly module.
 
+## Parameters
+
 **Parameter `handle`:** The opaque handle validated by this operation.
 
 **Parameter `moduleName`:** The string value used to initialize this instance.

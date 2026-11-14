@@ -14,6 +14,8 @@ aliases: []
 
 Contains one owner-thread export presentation snapshot.
 
+## Parameters
+
 **Parameter `operationId`:** The export identity within this service.
 
 **Parameter `fraction`:** The last measured completion fraction, or null while the active phase has no measured total.

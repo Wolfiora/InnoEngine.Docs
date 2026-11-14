@@ -12,6 +12,8 @@ apiScope: Editor
 
 Reads one focused list's keyboard navigation without retaining its entries or changing domain selection.
 
+## Parameters
+
 **Parameter `interactions`:** The authoritative interaction owner supplying the product modifier policy.
 
 **Parameter `itemCount`:** The number of currently visible, ordered entries.
@@ -20,7 +22,11 @@ Reads one focused list's keyboard navigation without retaining its entries or ch
 
 **Parameter `pageSize`:** The positive number of visible rows advanced by Page Up or Page Down.
 
-**Returns:** Neutral focus and selection intents; text editing, active controls and popups produce no intent.
+## Returns
+
+Neutral focus and selection intents; text editing, active controls and popups produce no intent.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The interaction owner is null.
 

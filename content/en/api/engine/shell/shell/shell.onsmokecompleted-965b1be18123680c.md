@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Receives the final frame count only when a bounded smoke run reaches its requested frame limit. Closing a window or requesting an earlier exit does not report smoke completion.
 
+## Parameters
+
 **Parameter `frameCount`:** Number of product frames completed by the smoke run.

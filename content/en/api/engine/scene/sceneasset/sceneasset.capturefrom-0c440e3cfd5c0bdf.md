@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces the pending source content with a fresh capture while preserving this asset identity.
 
+## Parameters
+
 **Parameter `scene`:** Scene to capture.
 
 **Parameter `serialization`:** The serialization registry that owns the active scene converter generation.

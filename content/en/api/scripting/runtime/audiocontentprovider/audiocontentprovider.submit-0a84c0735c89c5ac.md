@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Submits current immutable audio snapshots on the host control thread.
 
+## Parameters
+
 **Parameter `context`:** Update-scoped content and snapshot collector.

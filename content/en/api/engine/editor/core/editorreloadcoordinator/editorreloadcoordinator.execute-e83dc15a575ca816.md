@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Applies one prepared assembly reload together with every registered editor feature migration.
 
+## Parameters
+
 **Parameter `reload`:** The prepared assembly reload session to activate and complete.
 
 **Parameter `externalChange`:** Content recovery prepared before type publication, applied before Editor recovery, and restored before old values.
 
-**Returns:** A monitor that observes cooperative unloading of assemblies retired by the committed reload.
+## Returns
+
+A monitor that observes cooperative unloading of assemblies retired by the committed reload.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `reload` is `null`.
 

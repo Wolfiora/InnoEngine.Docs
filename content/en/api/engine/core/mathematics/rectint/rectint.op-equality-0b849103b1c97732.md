@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether the supplied values are equal under the type's equality tolerance.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** `true` when the requested condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the requested condition is satisfied; otherwise, `false`.

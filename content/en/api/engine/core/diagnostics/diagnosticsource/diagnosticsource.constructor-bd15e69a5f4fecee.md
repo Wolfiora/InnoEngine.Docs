@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an immutable identity for one independently replaceable diagnostic producer.
 
+## Parameters
+
 **Parameter `id`:** The globally stable machine-readable producer identifier.
 
 **Parameter `displayName`:** The non-empty producer name presented by diagnostic consumers.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when either value is empty.

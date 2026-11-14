@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Executes the original proposal under fresh owner and artifact leases without waiting for active readers.
 
+## Parameters
+
 **Parameter `dryRun`:** Whether to report the proposal without acquiring mutation leases or deleting files.
 
 **Parameter `cancellationToken`:** Cancels remaining work; successful earlier retirements are not rolled back.
 
-**Returns:** Actual retirement, activity skips and IO failures; protected generations are never forced out.
+## Returns
+
+Actual retirement, activity skips and IO failures; protected generations are never forced out.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Fresh ownership metadata violates the registered boundary.
 

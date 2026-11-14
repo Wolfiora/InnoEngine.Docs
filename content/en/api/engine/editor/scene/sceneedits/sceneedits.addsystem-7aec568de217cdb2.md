@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Adds one scene system and records its identity, stable type, index, and persistent properties.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene receiving the system.
 
 **Parameter `systemType`:** The concrete system type to create.
 
 **Parameter `historyName`:** An optional user-facing history entry name.
 
-**Returns:** The newly registered system.
+## Returns
+
+The newly registered system.

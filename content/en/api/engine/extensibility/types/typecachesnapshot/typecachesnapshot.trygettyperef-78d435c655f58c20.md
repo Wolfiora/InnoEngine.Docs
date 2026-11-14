@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the reference for a CLR type in this snapshot.
 
+## Parameters
+
 **Parameter `type`:** The CLR type to identify.
 
 **Parameter `typeRef`:** Receives its logical and generation-local identity.
 
-**Returns:** `true` when the type belongs to this snapshot.
+## Returns
+
+`true` when the type belongs to this snapshot.

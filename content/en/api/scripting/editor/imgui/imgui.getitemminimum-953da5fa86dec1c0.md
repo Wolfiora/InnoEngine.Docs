@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the minimum screen-space corner of the previous item.
 
-**Returns:** The item minimum corner.
+## Returns
+
+The item minimum corner.

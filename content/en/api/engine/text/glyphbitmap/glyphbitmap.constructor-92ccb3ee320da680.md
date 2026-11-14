@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a validated immutable glyph bitmap.
 
+## Parameters
+
 **Parameter `width`:** The bitmap width in pixels.
 
 **Parameter `height`:** The bitmap height in pixels.

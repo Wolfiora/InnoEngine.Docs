@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a mixer feature configuration.
 
+## Parameters
+
 **Parameter `featureTypeId`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe feature state.

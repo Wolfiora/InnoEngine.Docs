@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads a retained expansion value without submitting a native row or retaining domain objects.
 
+## Parameters
+
 **Parameter `id`:** The stable row identifier within this window and owner.
 
-**Returns:** True when the row was explicitly expanded; unknown rows are collapsed.
+## Returns
+
+True when the row was explicitly expanded; unknown rows are collapsed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The row identifier is empty or whitespace.
 

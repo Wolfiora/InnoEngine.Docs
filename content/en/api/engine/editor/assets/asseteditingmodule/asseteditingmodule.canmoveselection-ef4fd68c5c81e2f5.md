@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates every minimal selected source and rejects destination collisions before a batch move.
 
+## Parameters
+
 **Parameter `targets`:** Live source entries in selection order.
 
 **Parameter `targetDirectory`:** The writable project destination.
 
-**Returns:** True when every source can move to a distinct destination.
+## Returns
+
+True when every source can move to a distinct destination.

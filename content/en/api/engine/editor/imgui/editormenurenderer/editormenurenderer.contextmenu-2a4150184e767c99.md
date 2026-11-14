@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Draws one context popup composed from an item interaction and its containing-scope interaction.
 
+## Parameters
+
 **Parameter `id`:** Stable popup identifier in the current ImGui ID scope.
 
 **Parameter `scopeInteraction`:** Container interaction whose commands are shown first, such as creation commands for a directory.
 
 **Parameter `itemInteraction`:** Selected-item interaction whose commands are shown after the container commands.
 
-**Returns:** `true` while the context popup is open and at least one command group was drawn.
+## Returns
+
+`true` while the context popup is open and at least one command group was drawn.

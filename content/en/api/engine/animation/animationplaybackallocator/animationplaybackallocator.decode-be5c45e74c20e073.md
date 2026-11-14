@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes only handles issued by this owner; slot liveness remains the runtime's responsibility.
 
+## Parameters
+
 **Parameter `handle`:** The opaque playback handle.
 
-**Returns:** The slot and revision, or an invalid slot when the owner does not match.
+## Returns
+
+The slot and revision, or an invalid slot when the owner does not match.

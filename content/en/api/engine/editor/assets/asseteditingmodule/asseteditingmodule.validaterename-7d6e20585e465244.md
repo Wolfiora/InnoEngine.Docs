@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates a requested name without modifying the source.
 
+## Parameters
+
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.
 
 **Parameter `newName`:** The requested entry name without its protected file extension.
 
-**Returns:** The committed source identity, or a validation result describing why the operation is unavailable.
+## Returns
+
+The committed source identity, or a validation result describing why the operation is unavailable.

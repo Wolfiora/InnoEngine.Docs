@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Replaces the issue with the same code and target, without using its message as identity.
 
+## Parameters
+
 **Parameter `diagnostic`:** The immutable current issue.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This producer has retired or been replaced.

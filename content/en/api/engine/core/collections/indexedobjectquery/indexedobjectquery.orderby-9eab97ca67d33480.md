@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Orders results by a key marked with `F:Inno.Core.Collections.IndexedObjectKeyFlags.Ordered`.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** Key handle.
 
-**Returns:** The same query instance.
+## Returns
+
+The same query instance.

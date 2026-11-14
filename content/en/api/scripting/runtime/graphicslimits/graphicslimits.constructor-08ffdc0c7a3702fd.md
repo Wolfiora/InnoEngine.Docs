@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a graphics limits snapshot.
 
+## Parameters
+
 **Parameter `maxViews`:** Maximum logical backend views in one frame.
 
 **Parameter `maxColorAttachments`:** Maximum color attachments in one raster pass.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Generates and compiles one typed stage, including its frozen function modules and resource layout.
 
+## Parameters
+
 **Parameter `request`:** Typed stage and exact target profile.
 
 **Parameter `cancellationToken`:** Cancellation before publishing the candidate.
 
-**Returns:** Immutable compiled bytes, generated binding names and structured diagnostics.
+## Returns
+
+Immutable compiled bytes, generated binding names and structured diagnostics.

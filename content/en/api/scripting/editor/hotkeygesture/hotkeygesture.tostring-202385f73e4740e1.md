@@ -12,4 +12,6 @@ apiScope: Editor
 
 Formats the gesture as a human-readable editor menu shortcut label.
 
-**Returns:** A product-resolved textual representation of the gesture.
+## Returns
+
+A product-resolved textual representation of the gesture.

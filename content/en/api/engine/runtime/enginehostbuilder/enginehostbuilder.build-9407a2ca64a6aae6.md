@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an application host and acquires its immutable metadata services.
 
-**Returns:** A host owned by the caller.
+## Returns
+
+A host owned by the caller.

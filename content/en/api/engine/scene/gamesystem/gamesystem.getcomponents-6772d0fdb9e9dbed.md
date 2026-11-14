@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all scene components assignable to a requested type.
 
+## Type parameters
+
 **Type parameter `TComponent`:** The component base or concrete type included in the result.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

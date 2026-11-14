@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Checks if this rectangle fully contains another rectangle.
 
+## Parameters
+
 **Parameter `other`:** The value to compare with this instance.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

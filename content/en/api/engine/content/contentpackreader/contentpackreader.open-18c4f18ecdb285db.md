@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Takes ownership of a readable seekable pack and validates all bytes, entries, and budgets.
 
+## Parameters
+
 **Parameter `pack`:** The owned stream; callers must not access it after this call. Failure also disposes it.
 
 **Parameter `descriptor`:** The expected complete-pack identity received through validated deployment metadata.
@@ -21,7 +23,11 @@ Takes ownership of a readable seekable pack and validates all bytes, entries, an
 
 **Parameter `cancellationToken`:** Cancels validation before a store is returned.
 
-**Returns:** A caller-owned store that retains the stream until every lease and stream has retired.
+## Returns
+
+A caller-owned store that retains the stream until every lease and stream has retired.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The encoded hash, index, entry inventory, decoded bytes, or reading budgets are invalid.
 

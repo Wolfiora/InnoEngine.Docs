@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Configures collection cadence before beginning a generation or retirement.
 
+## Parameters
+
 **Parameter `options`:** The collection and retention policy, copied by the coordinator.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The gate is not ready.

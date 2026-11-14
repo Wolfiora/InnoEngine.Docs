@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Establishes ownership through Core.IO; no SDK object or lease enters the Build registry.
 
-**Returns:** True after a new claim, or false with an error before payload compilation.
+## Returns
+
+True after a new claim, or false with an error before payload compilation.

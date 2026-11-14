@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the repository containing the currently executing toolchain assembly.
 
-**Returns:** The absolute path of the repository root.
+## Returns
+
+The absolute path of the repository root.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no repository marker exists above the toolchain assembly directory.

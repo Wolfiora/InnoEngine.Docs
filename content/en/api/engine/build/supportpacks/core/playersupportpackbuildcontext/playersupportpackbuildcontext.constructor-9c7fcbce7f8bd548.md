@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates immutable inputs for an isolated preparation operation.
 
+## Parameters
+
 **Parameter `engineRoot`:** The complete engine source checkout.
 
 **Parameter `stagingDirectory`:** The empty transaction directory to populate.
 
 **Parameter `sdk`:** The project-selected SDK frozen during read-only preflight.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A required input is blank.

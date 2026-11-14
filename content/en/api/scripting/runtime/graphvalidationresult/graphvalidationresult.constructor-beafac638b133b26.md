@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a graph validation result.
 
+## Parameters
+
 **Parameter `diagnostics`:** Diagnostics in deterministic validation order.

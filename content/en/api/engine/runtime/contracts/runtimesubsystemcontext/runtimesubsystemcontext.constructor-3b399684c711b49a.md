@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the explicit construction boundary for a host or session pipeline.
 
+## Parameters
+
 **Parameter `events`:** The owner event dispatcher.
 
 **Parameter `diagnostics`:** The shared diagnostic state owner.
@@ -26,5 +28,7 @@ Creates the explicit construction boundary for a host or session pipeline.
 **Parameter `isEditMode`:** Whether simulation belongs to an authoring session.
 
 **Parameter `capabilities`:** Verified backend-neutral capabilities supplied by composition; copied into an immutable set.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required foundation service is null.

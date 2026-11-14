@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Validates a complete device program artifact before constructing an owned pipeline descriptor.
 
+## Parameters
+
 **Parameter `bytes`:** The complete current artifact, including its strict magic header.
 
 **Parameter `vertexLayout`:** The caller's vertex layout, or null for a procedural pipeline.
 
-**Returns:** A detached descriptor containing the validated binaries, bindings, and raster state.
+## Returns
+
+A detached descriptor containing the validated binaries, bindings, and raster state.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The input is truncated, oversized, malformed, or contains trailing data.

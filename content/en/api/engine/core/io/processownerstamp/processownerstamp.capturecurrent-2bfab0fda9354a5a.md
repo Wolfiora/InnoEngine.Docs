@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Captures the current process lifetime and releases its temporary inspection handle.
 
-**Returns:** The current process identifier and UTC start timestamp.
+## Returns
+
+The current process identifier and UTC start timestamp.
+
+## Exceptions
 
 **Exception `T:System.ComponentModel.Win32Exception`:** The operating system cannot provide the current process start timestamp.
 

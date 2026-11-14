@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires reading ownership and verifies the complete artifact before exposing it to a consumer.
 
+## Parameters
+
 **Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.
 
 **Parameter `directory`:** The absolute artifact directory owned by its publisher; its persistent lease is stored alongside it.
@@ -23,7 +25,11 @@ Acquires reading ownership and verifies the complete artifact before exposing it
 
 **Parameter `statistics`:** Optional borrowed operation receiving output-integrity read statistics; its input cache is not used.
 
-**Returns:** Reading ownership which the caller must retain until all artifact access completes.
+## Returns
+
+Reading ownership which the caller must retain until all artifact access completes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The directory is not absolute or a required identity is blank.
 

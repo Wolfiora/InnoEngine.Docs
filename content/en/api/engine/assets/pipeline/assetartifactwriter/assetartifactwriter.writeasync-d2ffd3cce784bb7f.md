@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Writes one named build output.
 
+## Parameters
+
 **Parameter `outputName`:** The stable output name.
 
 **Parameter `bytes`:** The output content.
@@ -19,4 +21,6 @@ Writes one named build output.
 
 **Parameter `deploymentScope`:** Whether runtime packages retain this output.
 
-**Returns:** A completed operation after the output has been staged.
+## Returns
+
+A completed operation after the output has been staged.

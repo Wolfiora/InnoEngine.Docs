@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Updates the viewport state and applies the resulting invariants.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `width`:** The width in logical units or pixels required by this operation.

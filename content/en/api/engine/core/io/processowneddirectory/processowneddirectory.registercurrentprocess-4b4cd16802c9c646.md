@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Records a subprocess lifetime while a previously claimed parent directory remains protected.
 
+## Parameters
+
 **Parameter `root`:** The producer root containing the existing current claim.
 
 **Parameter `directory`:** The claimed directory borrowed by this process.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The directory is unrecorded, escapes the root, or its ownership cannot be read.
 

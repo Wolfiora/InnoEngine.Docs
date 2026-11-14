@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Fixes the publication identity before preparation is permitted.
 
+## Parameters
+
 **Parameter `target`:** The nonempty target whose closure this plan prepares.
 
 **Parameter `preparationIdentity`:** The complete lowercase SHA-256 input identity captured without preparing product output.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The target has no stable identity.

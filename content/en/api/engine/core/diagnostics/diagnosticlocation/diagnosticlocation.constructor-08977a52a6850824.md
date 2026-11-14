@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Creates a source location.
 
+## Parameters
+
 **Parameter `sourcePath`:** The source path associated with the diagnostic.
 
 **Parameter `line`:** The one-based line number, or zero when it is unavailable.
 
 **Parameter `column`:** The one-based column number, or zero when it is unavailable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `sourcePath` is empty or contains only whitespace.
 

@@ -15,7 +15,11 @@ Detaches the panel before its extension generation is released.
 
 Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the runtime being detached.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 

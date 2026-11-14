@@ -12,10 +12,18 @@ apiScope: Runtime
 
 Loads the canonical asset with a persistent identity in the current session.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The non-empty persistent asset identity.
 
-**Returns:** The canonical compatible asset owned by the current lookup.
+## Returns
+
+The canonical compatible asset owned by the current lookup.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no asset lookup is active, the asset does not exist, or its type is incompatible.

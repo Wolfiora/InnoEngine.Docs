@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds text to the current window draw list.
 
+## Parameters
+
 **Parameter `position`:** The screen-space text origin.
 
 **Parameter `color`:** The packed ImGui color.

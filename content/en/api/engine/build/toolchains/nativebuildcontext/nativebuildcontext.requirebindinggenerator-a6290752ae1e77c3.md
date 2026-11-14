@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Requires generation to be configured explicitly before creating staging or launching tools.
 
-**Returns:** The borrowed provider without discovering or constructing an implementation.
+## Returns
+
+The borrowed provider without discovering or constructing an implementation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Composition has not supplied a binding generator.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an indexed file system over isolated source mounts.
 
+## Parameters
+
 **Parameter `mounts`:** Complete source mount snapshot.
 
 **Parameter `autoStart`:** Whether writable project source watching starts immediately.

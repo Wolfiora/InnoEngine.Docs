@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Resolves an imported texture into a persistent sampled texture.
 
+## Parameters
+
 **Parameter `texture`:** Imported texture asset.
 
 **Parameter `resolvedTexture`:** Receives a generation-scoped texture handle when successful.
 
-**Returns:** True when current or last-good texture content is usable.
+## Returns
+
+True when current or last-good texture content is usable.

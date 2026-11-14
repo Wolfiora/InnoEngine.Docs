@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Parses the shared Player command line before creating any native resource.
 
+## Parameters
+
 **Parameter `arguments`:** Pairs of supported option names and values.
 
-**Returns:** A complete immutable command configuration.
+## Returns
+
+A complete immutable command configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An option is missing, repeated or invalid.

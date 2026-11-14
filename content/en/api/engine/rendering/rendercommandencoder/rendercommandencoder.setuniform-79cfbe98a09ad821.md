@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets the byte value of a shader uniform.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.
 
 **Parameter `value`:** Bytes borrowed for this call. An encoder that defers execution must copy them before returning.

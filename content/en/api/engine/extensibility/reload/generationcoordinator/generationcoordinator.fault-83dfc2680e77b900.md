@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Permanently closes admission when an owner cannot safely retire or restore generation state.
 
+## Parameters
+
 **Parameter `exception`:** The cleanup or rollback failure retained for diagnostics until the host restarts.
