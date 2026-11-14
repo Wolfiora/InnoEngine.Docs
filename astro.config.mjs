@@ -6,12 +6,13 @@ import { parse } from 'yaml';
 import { documentationLinks } from './scripts/documentation-links.mjs';
 import { documentationNavigation } from './scripts/documentation-navigation.mjs';
 import { apiPresentation } from './scripts/api-presentation.mjs';
+import { siteOrigin } from './scripts/site-environment.mjs';
 
 const navigation = documentationNavigation(parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8')),
   JSON.parse(readFileSync(new URL('./artifacts/canonical-catalog.json', import.meta.url), 'utf8')));
 
 export default defineConfig({
-  site: process.env.DOCS_SITE_URL || 'https://wolfiora.github.io',
+  site: siteOrigin(),
   base: '/InnoEngine.Docs',
   trailingSlash: 'always',
   markdown: { processor: unified({ remarkPlugins: [apiPresentation, [documentationLinks, { contentRoot: './content/en', publicRoot: './public', base: '/InnoEngine.Docs' }]] }) },

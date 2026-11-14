@@ -2,7 +2,7 @@ import { appendFile, mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { createHash } from 'node:crypto';
-import { authorizeRun } from './publication-source.mjs';
+import { authorizeRun } from './trusted-example-source.mjs';
 import { checkExampleEvidence, planExampleWork } from './example-evidence.mjs';
 import { readOwned } from './owned-input.mjs';
 

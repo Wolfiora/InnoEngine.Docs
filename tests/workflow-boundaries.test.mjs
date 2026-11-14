@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readFile, access } from 'node:fs/promises';
 import { parse } from 'yaml';
 import { spawnSync } from 'node:child_process';
 
@@ -39,9 +39,10 @@ test('only draft/main updates and PRs enter documentation validation; feature pu
   assert.deepEqual(value.on.pull_request.branches, ['draft', 'main']);
   assert.equal(value.env.DOCUMENTATION_COMMIT, '${{ github.sha }}');
   assert.equal(value.jobs.source, undefined);
-  assert.deepEqual(value.jobs.validation.needs, ['projection']);
+  assert.deepEqual(value.jobs.validation.needs, ['projection', 'tooling-portability']);
   assert.equal(value.jobs.validation.if, 'always()');
   assert.match(JSON.stringify(value.jobs.validation.steps), /PROJECTION_RESULT.*success/);
+  assert.match(JSON.stringify(value.jobs.validation.steps), /PORTABILITY_RESULT.*success/);
 });
 
 test('candidate validation has no App, deployment or cross-repository mutation permissions', async () => {
@@ -49,39 +50,28 @@ test('candidate validation has no App, deployment or cross-repository mutation p
   assert.deepEqual(value.permissions, { contents: 'read', actions: 'read' });
   const text = JSON.stringify(value.jobs);
   assert.doesNotMatch(text, /secrets\.|create-github-app-token|pull_request_target|deploy-pages|source-evidence|Engine validation/);
-  assert.match(text, /--complete/);
-  assert.match(text, /--example-manifest/);
+  assert.equal(value.jobs.projection.steps.find(step => step.run === 'npm run build').env.INNO_DOCS_EXAMPLE_MANIFEST, 'artifacts/examples/manifest.json');
   for (const job of Object.values(value.jobs)) {
     assert.equal(job.permissions, undefined);
     for (const step of job.steps) if (step.uses && !step.uses.startsWith('./')) assert.match(step.uses, /@[a-f0-9]{40}$/);
   }
 });
 
-test('publication only accepts main and transports checked artifacts to the selected host without rebuilding', async () => {
-  const value = await workflow('publish');
-  assert.deepEqual(value.on.workflow_run, { workflows: ['Documentation'], types: ['completed'], branches: ['main'] });
-  assert.deepEqual(Object.keys(value.on.workflow_dispatch.inputs), ['documentation_run', 'documentation_commit']);
-  assert.match(value.jobs.verify.if, /conclusion == 'success'/);
-  assert.match(value.jobs.verify.if, /head_repository.full_name == github.repository/);
-  assert.match(value.jobs.verify.if, /head_branch == 'main'/);
-  assert.match(value.jobs.verify.if, /github.ref == 'refs\/heads\/main'/);
-  assert.equal(value.jobs.deploy.needs, 'verify');
-  assert.deepEqual(value.jobs.deploy.permissions, { pages: 'write', 'id-token': 'write' });
-  const text = JSON.stringify(value.jobs);
-  assert.doesNotMatch(text, /npm install|npm run build|prepare-catalog|actions\/cache|engine_run|engine_commit|create-github-app-token|bootstrap/);
-  const installs = value.jobs.verify.steps.filter(step => /npm ci/.test(step.run ?? ''));
-  assert.equal(installs.length, 1);
-  assert.equal(installs[0].run, 'npm ci --prefix .github/deployment');
-  assert.equal(installs[0].if, "env.DOCS_HOSTING == 'vercel'");
-  const privileged = value.jobs.verify.steps.filter(step => /secrets\./.test(JSON.stringify(step)));
-  assert.equal(privileged.length, 1);
-  assert.equal(privileged[0].if, "env.DOCS_HOSTING == 'vercel'");
-  assert.equal(privileged[0].env.VERCEL_TOKEN, '${{ secrets.VERCEL_TOKEN }}');
-  assert.match(privileged[0].run, /--prebuilt --archive=split-tgz --prod/);
-  assert.match(value.jobs.deploy.if, /DOCS_HOSTING != 'vercel'/);
-  assert.match(text, /publication-source.mjs select artifacts\/publication\/closing-selection.json/);
-  for (const step of value.jobs.verify.steps) if (step.uses?.startsWith('actions/checkout@')) {
-    assert.equal(step.with.ref, undefined);
-    assert.equal(step.with['persist-credentials'], false);
+test('Vercel imports main directly while GitHub remains a non-deploying acceptance gate', async () => {
+  const config = JSON.parse(await readFile(new URL('../vercel.json', import.meta.url), 'utf8'));
+  assert.equal(config.framework, 'astro');
+  assert.equal(config.installCommand, 'npm ci');
+  assert.equal(config.buildCommand, 'npm run build');
+  assert.equal(config.outputDirectory, 'dist');
+  assert.deepEqual(config.git.deploymentEnabled, { '**': false, main: true });
+  assert.deepEqual(config.routes[0], { src: '^/$', status: 307, headers: { Location: '/InnoEngine.Docs/' } });
+  assert.equal(config.routes[1].handle, 'filesystem');
+  assert.equal(config.routes[2].status, 404);
+  const required = await workflow('documentation');
+  assert.doesNotMatch(JSON.stringify(required), /deploy-pages|VERCEL_TOKEN|DOCS_HOSTING|vercel\.cmd/);
+  assert.equal(required.jobs['tooling-portability']['runs-on'], 'ubuntu-24.04');
+  assert.equal(required.jobs.projection.steps.find(step => step.name === 'Prepare canonical API content and editorial observations').run, 'npm run docs:prepare');
+  for (const retired of ['.github/workflows/publish.yml', '.github/deployment/package.json', 'scripts/vercel-output.mjs', 'scripts/prepare-catalog.ps1', 'scripts/publication-source.mjs']) {
+    await assert.rejects(access(new URL('../' + retired, import.meta.url)), /ENOENT/);
   }
 });

@@ -5,7 +5,6 @@ import os from 'node:os';
 import { mkdtemp, writeFile, readFile, rm, mkdir, link } from 'node:fs/promises';
 import { createPublication, verifyPublication } from '../scripts/publication-artifact.mjs';
 import { createHash } from 'node:crypto';
-import { prepareVercel } from '../scripts/vercel-output.mjs';
 
 async function fixture(t, parent = os.tmpdir()) {
   const site = await mkdtemp(path.join(parent, 'inno-publication-'));
@@ -23,33 +22,6 @@ async function fixture(t, parent = os.tmpdir()) {
     exampleReceiptsIdentity: 'f'.repeat(64) };
   return { site, catalog, completion, repository: 'Wolfiora/InnoEngine.Docs', commit: 'e'.repeat(40), run: '123', attempt: 2 };
 }
-
-test('Vercel transport preserves verified files and the site base path without rebuilding', async (t) => {
-  await mkdir('artifacts', { recursive: true });
-  const owner = await mkdtemp(path.resolve('artifacts/vercel-test-'));
-  t.after(() => rm(owner, { recursive: true, force: true }));
-  const f = await fixture(t, owner);
-  const before = await createPublication(f);
-  const destination = path.join(owner, 'transport');
-  const site = await prepareVercel({ ...f, destination });
-  assert.deepEqual(await verifyPublication({ ...f, site }), before);
-  const config = JSON.parse(await readFile(path.join(destination, '.vercel/output/config.json')));
-  assert.equal(config.version, 3);
-  assert.equal(config.routes[0].headers.Location, '/InnoEngine.Docs/');
-  assert.equal(config.routes.at(-1).status, 404);
-  await assert.rejects(prepareVercel({ ...f, site, destination }), /EEXIST/);
-});
-
-test('Vercel rejects unverified bytes and destinations outside its artifact owner', async (t) => {
-  await mkdir('artifacts', { recursive: true });
-  const owner = await mkdtemp(path.resolve('artifacts/vercel-test-'));
-  t.after(() => rm(owner, { recursive: true, force: true }));
-  const f = await fixture(t, owner);
-  await createPublication(f);
-  await assert.rejects(prepareVercel({ ...f, destination: path.resolve('outside') }), /task-owned/);
-  await writeFile(path.join(f.site, 'index.html'), 'tampered');
-  await assert.rejects(prepareVercel({ ...f, destination: path.join(owner, 'transport') }), /differ/);
-});
 
 test('promotes exactly the verified files without rebuilding and preserves their bytes', async (t) => {
   const f = await fixture(t);

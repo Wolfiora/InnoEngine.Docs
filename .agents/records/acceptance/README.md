@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Vercel Git setup](VERCEL_GIT_SETUP_2026_11_14.md): shared portable preparation, main-only hosting, preserved GitHub acceptance and removal of token-upload publication.
+
 - [Normalized source inputs](SOURCE_CERTIFICATE_INPUTS_2026_11_13.md): bounded shared evidence, exact-context rejection and actual full-report consumer validation.
 
 - [Actual Runtime and Editor script surfaces](SCRIPT_SURFACES_2026_11_13.md): complete logical declaration coverage, caller contracts, query observations and website acceptance.

@@ -124,7 +124,7 @@ Resources retain snapshot identity and exact page ownership. The current impleme
 From the Docs repository, run the explicit preparation adapter against the tooling revision in `reference/engine.lock.json`:
 
 ```powershell
-./scripts/prepare-catalog.ps1 -EngineRoot C:/work/InnoEngine
+node scripts/prepare-catalog.mjs --engine-root C:/work/InnoEngine
 npm ci
 npm test
 npm run check

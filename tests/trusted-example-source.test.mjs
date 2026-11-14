@@ -1,22 +1,22 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { authorizeRun, selectPublication } from '../scripts/publication-source.mjs';
+import { authorizeRun } from '../scripts/trusted-example-source.mjs';
 
 function source() {
   const repository = 'Wolfiora/InnoEngine.Docs';
   const commit = 'a'.repeat(40);
   const workflow = '.github/workflows/documentation.yml';
-  return { repository, commit, workflow, branch: 'main', aggregate: 'Documentation validation', artifactName: 'documentation-site', events: ['push', 'workflow_dispatch'],
+  return { repository, commit, workflow, branch: 'main', aggregate: 'Documentation validation', artifactName: 'documentation-examples', events: ['push', 'workflow_dispatch'],
     run: { id: 11, run_attempt: 2, repository: { full_name: repository }, head_repository: { full_name: repository },
       status: 'completed', conclusion: 'success', path: workflow, head_branch: 'main', head_sha: commit, event: 'push' },
     jobs: [{ name: 'Documentation validation', run_id: 11, status: 'completed', conclusion: 'success' }],
-    artifacts: [{ id: 31, name: 'documentation-site-attempt-2', expired: false, size_in_bytes: 100,
+    artifacts: [{ id: 31, name: 'documentation-examples-attempt-2', expired: false, size_in_bytes: 100,
       digest: 'sha256:' + 'b'.repeat(64), workflow_run: { id: 11, head_sha: commit } }] };
 }
 
 test('accepts one successful exact attempt and selects no earlier retry payload', () => {
   const f = source();
-  f.artifacts.push({ ...f.artifacts[0], id: 30, name: 'documentation-site-attempt-1' });
+  f.artifacts.push({ ...f.artifacts[0], id: 30, name: 'documentation-examples-attempt-1' });
   assert.equal(authorizeRun(f).id, 31);
 });
 
@@ -34,7 +34,7 @@ for (const [name, mutate] of [
   ['duplicate aggregate', f => { f.jobs.push({ ...f.jobs[0] }); }],
   ['expired artifact', f => { f.artifacts[0].expired = true; }],
   ['unhashed artifact', f => { delete f.artifacts[0].digest; }],
-  ['earlier attempt only', f => { f.artifacts[0].name = 'documentation-site-attempt-1'; }],
+  ['earlier attempt only', f => { f.artifacts[0].name = 'documentation-examples-attempt-1'; }],
   ['wrong producer', f => { f.artifacts[0].workflow_run.id = 12; }],
   ['duplicate artifact', f => { f.artifacts.push({ ...f.artifacts[0] }); }]
 ]) test(`rejects ${name}`, () => { const f = source(); mutate(f); assert.throws(() => authorizeRun(f)); });

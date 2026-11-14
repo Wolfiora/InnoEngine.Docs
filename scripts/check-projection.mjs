@@ -247,6 +247,18 @@ function visit(node, action) {
   for (const child of node.children ?? []) visit(child, action);
 }
 
+/** Load the exact owned compiler receipts selected by CI, without running any examples. */
+export async function readExampleReceipts(root, file) {
+  const manifest = JSON.parse(await readOwned(root, file));
+  if (manifest.schema !== 'inno-example-receipts/1' || !Array.isArray(manifest.reports)) throw new Error('Invalid example receipt manifest.');
+  const receipts = [];
+  for (const report of manifest.reports) {
+    if (typeof report.path !== 'string' || !/^reports\/[a-f0-9]{64}\.json$/.test(report.path)) throw new Error('Example receipts require explicit content-addressed report files.');
+    receipts.push({ identity: report.identity, bytes: await readOwned(root, path.join(path.dirname(file), report.path)) });
+  }
+  return receipts;
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   const arguments_ = process.argv.slice(2);
   const complete = arguments_.includes('--complete');
@@ -255,12 +267,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   const evidenceOption = selected.indexOf('--example-manifest');
   if (evidenceOption >= 0) {
     if (evidenceOption + 2 !== selected.length) throw new Error('Select exactly one receipt manifest after --example-manifest.');
-    const manifest = JSON.parse(await readOwned(process.cwd(), selected[evidenceOption + 1]));
-    if (manifest.schema !== 'inno-example-receipts/1' || !Array.isArray(manifest.reports)) throw new Error('Invalid example receipt manifest.');
-    for (const report of manifest.reports) {
-      if (typeof report.path !== 'string' || !/^reports\/[a-f0-9]{64}\.json$/.test(report.path)) throw new Error('Example receipts require explicit content-addressed report files.');
-      exampleReceipts.push({ identity: report.identity, bytes: await readOwned(process.cwd(), path.join(path.dirname(selected[evidenceOption + 1]), report.path)) });
-    }
+    exampleReceipts.push(...await readExampleReceipts(process.cwd(), selected[evidenceOption + 1]));
     selected.splice(evidenceOption, 2);
   }
   if (selected.length < 1 || selected.length > 2) throw new Error('Usage: node scripts/check-projection.mjs CATALOG [SITE] [--complete] [--example-manifest MANIFEST]');
