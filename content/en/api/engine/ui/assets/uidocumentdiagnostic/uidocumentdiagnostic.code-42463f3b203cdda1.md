@@ -1,0 +1,12 @@
+---
+uid: api.42463f3b203cdda11ac2815e1842017991018499342faf0487dead948a1cdebc
+symbol: "engine:Inno.UI.Assets:P:Inno.UI.Assets.UiDocumentDiagnostic.code"
+source: xml
+reviewed: 0ee75d8b9d76b2ebaf4b0aa3478a869d3a7791aabeccf93a7e13d55b385c6ef6
+title: "UiDocumentDiagnostic.code"
+kind: api
+owners: [Inno.UI.Assets]
+apiSurface: source-clr
+---
+
+Stable diagnostic code.

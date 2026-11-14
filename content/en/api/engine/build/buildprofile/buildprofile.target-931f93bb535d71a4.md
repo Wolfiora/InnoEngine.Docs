@@ -1,0 +1,12 @@
+---
+uid: api.931f93bb535d71a43da64323d2fe944d15203bb1c16b32bd3b277d26c891376b
+symbol: "engine:Inno.Build:P:Inno.Build.BuildProfile.target"
+source: xml
+reviewed: 917957fcbd12148868d30b0ae8f70947a2935225bfcbc05cfcdcd06ea2bd2508
+title: "BuildProfile.target"
+kind: api
+owners: [Inno.Build]
+apiSurface: source-clr
+---
+
+Gets or sets the platform target.

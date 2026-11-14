@@ -1,0 +1,12 @@
+---
+uid: api.96ff9f2920a22fd69c0277439368d0bc06e86b3d6db98c9fd7d2e694f9f23f56
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.F6"
+source: xml
+reviewed: 5cf0cc6eec4c41e0898f245f3d609327c8598b11f4097096a7f0d63bf3887c91
+title: "ImGuiKey.F6"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Identifies the F6 presentation key or modifier.

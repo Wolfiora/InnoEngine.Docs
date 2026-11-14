@@ -1,0 +1,16 @@
+---
+uid: api.630424e9812bd6c47a772f0cdc49b63cca71df1e45bbc5a753e957cad570d2e6
+symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorFrame.Equals(Inno.Editor.Core.EditorFrame)"
+source: xml
+reviewed: aa5f2e9664a4ae01dd0a9a2edffdc856096e3ea719be4dcb2af4b74c98f42f72
+title: "EditorFrame.Equals"
+kind: api
+owners: [Inno.Editor.Core]
+apiSurface: source-clr
+---
+
+Indicates whether the current object is equal to another object of the same type.
+
+**Parameter `other`:** An object to compare with this object.
+
+**Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.

@@ -1,0 +1,12 @@
+---
+uid: api.707086e477c6bce855dbc53b76f7288bd9ac2dd620260def53dbb172b8176409
+symbol: "engine:Inno.UI:P:Inno.UI.UiVertex.y"
+source: xml
+reviewed: 5bef8a153342f663ef76dd670edcea112e2512d00fd3e3ecd5dc13a7292cb2c0
+title: "UiVertex.y"
+kind: api
+owners: [Inno.UI]
+apiSurface: source-clr
+---
+
+The vertical or second component.

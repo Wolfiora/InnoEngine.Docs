@@ -1,0 +1,14 @@
+---
+uid: api.031d513c26336d6a7401ab05124e04af9ec08da0053b25c01d2b197f70b13b73
+symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationBackendId.ToString"
+source: xml
+reviewed: 36a0a1c3cf2ff17abbb507ea0e35c351589f3136b5fe5940e4714ca2a5f79985
+title: "PresentationBackendId.ToString"
+kind: api
+owners: [Inno.Adapter.Presentation]
+apiSurface: source-clr
+---
+
+Returns the identifier without resolving a provider.
+
+**Returns:** The stable identifier, or an empty string when unassigned.

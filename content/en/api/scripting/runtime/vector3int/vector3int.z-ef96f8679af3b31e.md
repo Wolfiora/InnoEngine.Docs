@@ -1,0 +1,13 @@
+---
+uid: api.ef96f8679af3b31e910bd307e63001a5a2e77dd0d2abf15676763036de136177
+symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector3Int.z"
+source: xml
+reviewed: 5fdef9eab971d43f1697d319b70b587258efd7f7997012e88293803f30f2e587
+title: "Vector3Int.z"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The depth or third component.

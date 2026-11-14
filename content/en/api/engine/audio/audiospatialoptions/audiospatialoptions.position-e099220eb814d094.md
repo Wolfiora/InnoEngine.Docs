@@ -1,0 +1,12 @@
+---
+uid: api.e099220eb814d094309f08949e4b8e682803b569024d0158c4dc1b7e289664d3
+symbol: "engine:Inno.Audio:P:Inno.Audio.AudioSpatialOptions.position"
+source: xml
+reviewed: 2378dfbcd552980fbfb5eea7826ffa68afaae43204e15ee00f75a9a3961e8ac8
+title: "AudioSpatialOptions.position"
+kind: api
+owners: [Inno.Audio]
+apiSurface: source-clr
+---
+
+Gets the world-space source position.

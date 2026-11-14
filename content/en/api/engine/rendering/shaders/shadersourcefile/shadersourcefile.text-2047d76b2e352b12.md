@@ -1,0 +1,12 @@
+---
+uid: api.2047d76b2e352b12c497668ef34106c4e61fa85fbf013431d9dc6d752563d7b7
+symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceFile.text"
+source: xml
+reviewed: 9b2f62da1a92e7331856916b4a20d40691e12493455daa41abee6756e7bd0bc7
+title: "ShaderSourceFile.text"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+UTF-8 decoded immutable source text.

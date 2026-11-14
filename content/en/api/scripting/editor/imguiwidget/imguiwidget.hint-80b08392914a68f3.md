@@ -1,0 +1,17 @@
+---
+uid: api.80b08392914a68f311a4ed1a6ba75a339f1601b704b5bbe7cba7732e0238fb0f
+symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.Hint(System.String)"
+source: xml
+reviewed: a5d58758b9246df6e46f8a5b127cab69df751632ecd6bdea27e5a60bf639320c
+title: "ImGuiWidget.Hint"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Draws disabled hint text that wraps to the current content width.
+
+**Parameter `text`:** Hint text.
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.

@@ -1,0 +1,16 @@
+---
+uid: api.f6baf461619299a85d34dc4bc4046f25e497a315efa86858a884401f986c3cad
+symbol: "engine:Inno.Text:M:Inno.Text.TextGlyph.Equals(Inno.Text.TextGlyph)"
+source: xml
+reviewed: 4dbe5f7b2c1280f8abc9dabd36e92755519468d0285a29ae6a781cacaa4a9a5a
+title: "TextGlyph.Equals"
+kind: api
+owners: [Inno.Text]
+apiSurface: source-clr
+---
+
+Indicates whether the current object is equal to another object of the same type.
+
+**Parameter `other`:** An object to compare with this object.
+
+**Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.

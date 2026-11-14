@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## FontImporter
+## Types
 
-- [FontImporter](fontimporter/index.md)
+| Type | Purpose |
+| --- | --- |
+| [FontImporter](fontimporter/index.md) | Imports OpenType fonts into compact metadata and immutable encoded font artifacts. |
 

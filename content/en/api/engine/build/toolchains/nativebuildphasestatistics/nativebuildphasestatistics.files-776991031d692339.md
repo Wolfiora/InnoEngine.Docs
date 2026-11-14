@@ -1,0 +1,12 @@
+---
+uid: api.776991031d692339f9cad5b8677b66b8bafa11e8adcb9a31ed45063393e2372f
+symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBuildPhaseStatistics.files"
+source: xml
+reviewed: 80f03fc8cdbba0885f95f43751b73a40a6e48e03ab53967fd8bcf2db0f21130f
+title: "NativeBuildPhaseStatistics.files"
+kind: api
+owners: [Inno.Build.Toolchains]
+apiSurface: source-clr
+---
+
+Gets the number of complete physical file reads.

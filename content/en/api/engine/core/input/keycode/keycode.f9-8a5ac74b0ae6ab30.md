@@ -1,0 +1,12 @@
+---
+uid: api.8a5ac74b0ae6ab305eee453f205fbf3ff7c771b01c76f4888025a5b03cb667a1
+symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.F9"
+source: xml
+reviewed: 654b9363ff261208fdb908f13689b90a26250cd4d93a55ada1cc67bcb9aca157
+title: "KeyCode.F9"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: source-clr
+---
+
+The F9 function key.

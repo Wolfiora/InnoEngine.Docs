@@ -1,0 +1,12 @@
+---
+uid: api.256b6b4a608099e591d647e60d4ffe0c9b4e0967e273491cb8db74f16397fbc8
+symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.ShaderSourceLocation.stage"
+source: xml
+reviewed: f4052024ed9ad33b68fda7a8dc2ff2b35ab06a2d737517f8c5add58540b2323b
+title: "ShaderSourceLocation.stage"
+kind: api
+owners: [Inno.Rendering.Assets]
+apiSurface: source-clr
+---
+
+Gets the shader stage.

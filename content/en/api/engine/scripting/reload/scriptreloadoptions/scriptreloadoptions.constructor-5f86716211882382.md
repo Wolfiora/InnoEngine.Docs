@@ -1,0 +1,12 @@
+---
+uid: api.5f8671621188238275ab863b0c41e2ac6af45a1b5526315f217d60cfae596faa
+symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadOptions.#ctor"
+source: xml
+reviewed: c60ea712f2de6724c64d5dfc4876695389cb1df6ea37d7f7f37f07f8b227b536
+title: "ScriptReloadOptions.Constructor"
+kind: api
+owners: [Inno.Scripting.Reload]
+apiSurface: source-clr
+---
+
+No XML description is available.

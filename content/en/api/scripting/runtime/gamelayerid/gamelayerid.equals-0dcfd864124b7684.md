@@ -1,0 +1,17 @@
+---
+uid: api.0dcfd864124b768451d113fc7aa18499cf1285fc8cbfbf8359eb218c021f9046
+symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerId.Equals(System.Object)"
+source: xml
+reviewed: f16f36de3d3d16c5f70e98aae2c318907456c4c9533e5eca47020972055279e2
+title: "GameLayerId.Equals"
+kind: api
+owners: [Inno.Scene]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Indicates whether this instance and a specified object are equal.
+
+**Parameter `obj`:** The object to compare with the current instance.
+
+**Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.

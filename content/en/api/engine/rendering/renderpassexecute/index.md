@@ -3,7 +3,7 @@ uid: api.inno.rendering.78ccd21f916e12c0
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderPassExecute\u00601"
 source: xml
 reviewed: 08faf6a0bbdb43553e00e73d710c0e0ae82cb40f8b7129bb2fcebc5bba144187
-title: "RenderPassExecute"
+title: "RenderPassExecute\u003CTPassData\u003E"
 kind: api
 owners: [Inno.Rendering]
 apiSurface: source-clr

@@ -1,0 +1,21 @@
+---
+uid: api.25af244e86f365397229b7b980fbbf41ff41f0fcb05e0fd9fc42bd0164154851
+symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.Assets.Load\u0060\u00601(InnoEngine.Assets.AssetPath)"
+source: xml
+reviewed: 91d18d7c18985bc247ba04e91facf7262477769f1e4ad9d815f5599ea426f30f
+title: "Assets.Load"
+kind: api
+owners: [Inno.Assets]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Loads the canonical asset at a logical catalog path in the current session.
+
+**Type parameter `TAsset`:** The required asset contract.
+
+**Parameter `path`:** The mount-qualified logical catalog path.
+
+**Returns:** The canonical compatible asset owned by the current lookup.
+
+**Exception `T:System.InvalidOperationException`:** Thrown when no asset lookup is active, the asset does not exist, or its type is incompatible.

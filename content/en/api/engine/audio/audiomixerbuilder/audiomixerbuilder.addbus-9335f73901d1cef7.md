@@ -1,0 +1,22 @@
+---
+uid: api.9335f73901d1cef730dbd2b853ef5e081a91b826a0b254e8a2da512367f7ae1b
+symbol: "engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.AddBus(Inno.Audio.AudioBusId,Inno.Audio.AudioBusId,System.Single,System.Boolean)"
+source: xml
+reviewed: 29022bff08a4953cd645cd7caab54946c0ad98da776c07b5a44e3c68a82b4e14
+title: "AudioMixerBuilder.AddBus"
+kind: api
+owners: [Inno.Audio]
+apiSurface: source-clr
+---
+
+Adds one semantic bus to the graph.
+
+**Parameter `id`:** Stable bus identifier.
+
+**Parameter `parent`:** Parent bus identifier.
+
+**Parameter `volume`:** Initial non-negative linear gain.
+
+**Parameter `muted`:** Whether output is initially silenced.
+
+**Exception `T:System.ArgumentException`:** Thrown when the bus identifier is invalid or duplicated.

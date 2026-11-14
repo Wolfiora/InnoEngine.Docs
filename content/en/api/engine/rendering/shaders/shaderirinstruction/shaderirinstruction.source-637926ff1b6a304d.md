@@ -1,0 +1,12 @@
+---
+uid: api.637926ff1b6a304db8104d733dea1c7b5bab52b36c5d76915efa050b36b7c05b
+symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrInstruction.source"
+source: xml
+reviewed: 5ca676ff663b091029d14e57697432de51c535e5dfb9b0d24dfa7f1f5e6d5e46
+title: "ShaderIrInstruction.source"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Gets a frozen, analyzed function implementation only for a SourceCall instruction.

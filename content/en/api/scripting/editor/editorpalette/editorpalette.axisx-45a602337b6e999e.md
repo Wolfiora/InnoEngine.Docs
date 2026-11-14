@@ -1,0 +1,13 @@
+---
+uid: api.45a602337b6e999e7f996de48e321d835da20318ff5fb96980b79f4fa0d03b7e
+symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.axisX"
+source: xml
+reviewed: 81225fb81a44c23b349e1d59fdf9ed1dec07bccfef18a657cc19e7bedfb30b41
+title: "EditorPalette.axisX"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets X axis color.

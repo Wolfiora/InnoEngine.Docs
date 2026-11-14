@@ -3,7 +3,7 @@ uid: api.inno.rendering.696466663ee6d01f
 symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderDevice.GraphHandleIdentity"
 source: xml
 reviewed: 25fb4907e18378da50d00ac68a1493dbba9790d1ccaca801c412f666035b415e
-title: "GraphHandleIdentity"
+title: "RenderDevice.GraphHandleIdentity"
 kind: api
 owners: [Inno.Rendering]
 apiSurface: source-clr

@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## InputRuntime
+## Types
 
-- [InputRuntime](inputruntime/index.md)
-
-## InputRuntimeFactory
-
-- [InputRuntimeFactory](inputruntimefactory/index.md)
+| Type | Purpose |
+| --- | --- |
+| [InputRuntime](inputruntime/index.md) | Captures one immutable input snapshot and binds it for the complete runtime frame. |
+| [InputRuntimeFactory](inputruntimefactory/index.md) | Creates one frame-scoped input service over a caller-selected platform backend. |
 

@@ -1,0 +1,28 @@
+---
+uid: api.638d47019538e36092b60f35fc23c0c73ca94f394fdb6373d935f16abfe246fe
+symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCompilerInputs.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"
+source: xml
+reviewed: 2aa2503cb5d8b6e17ebac8a6218c6bc5e44b6f8818488562337ee81a5c400ff8
+title: "NativeCompilerInputs.Constructor"
+kind: api
+owners: [Inno.Build.Toolchains]
+apiSurface: source-clr
+---
+
+Captures explicit parser inputs supplied by the target SDK provider.
+
+**Parameter `cCompiler`:** The selected C compiler, or null when this selection does not provide one.
+
+**Parameter `cppCompiler`:** The selected C++ compiler, or null when this selection does not provide one.
+
+**Parameter `sysRoot`:** The SDK root, or null when the compiler does not use a sysroot.
+
+**Parameter `systemIncludeDirectories`:** Ordered system header directories.
+
+**Parameter `cppSystemIncludeDirectories`:** Ordered C++ standard library directories.
+
+**Parameter `defines`:** Ordered target preprocessor definitions.
+
+**Parameter `arguments`:** Ordered parser arguments supplied by the SDK.
+
+**Exception `T:System.ArgumentException`:** An assigned physical path is not absolute.

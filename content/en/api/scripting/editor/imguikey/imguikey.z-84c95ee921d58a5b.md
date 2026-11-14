@@ -1,0 +1,13 @@
+---
+uid: api.84c95ee921d58a5b21816da1428ced8c38a67245aaebc9b390eec536081b6ec3
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Z"
+source: xml
+reviewed: 481c48823a103f3bf2ac7ec7fec592629ea8c8b042907969cf1c75babce3b5ba
+title: "ImGuiKey.Z"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the Z presentation key or modifier.

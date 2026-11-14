@@ -1,0 +1,12 @@
+---
+uid: api.31760f803d1c5aed3a491334a6cb3db396173c1a276a901f1ee422e2c2304b6e
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.Q"
+source: xml
+reviewed: 5adcc9ee0928884f5c435bb08f171e2c5fd3bb997ecf95f321c408945d29e092
+title: "ImGuiKey.Q"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Identifies the Q presentation key or modifier.

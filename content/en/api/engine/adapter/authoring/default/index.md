@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## DefaultAuthoringAdapterCatalog
+## Types
 
-- [DefaultAuthoringAdapterCatalog](defaultauthoringadaptercatalog/index.md)
+| Type | Purpose |
+| --- | --- |
+| [DefaultAuthoringAdapterCatalog](defaultauthoringadaptercatalog/index.md) | Combines explicitly supplied rendering toolchains and standard ImGui presentation to the built-in runtime adapter catalog. |
 

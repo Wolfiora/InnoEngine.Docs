@@ -1,0 +1,13 @@
+---
+uid: api.47a469ab6098d8134d8d756fcebe9d2596ed68afb2e6b5c06f3bd98e3526cf30
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.GamepadR2"
+source: xml
+reviewed: 2f253b592a0e6022961075021b7efc4bea196c8a1689d5d79092f2e22064b51c
+title: "ImGuiKey.GamepadR2"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the GamepadR2 presentation key or modifier.

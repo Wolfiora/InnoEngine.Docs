@@ -9,19 +9,12 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## FramePacingOptions
+## Types
 
-- [FramePacingOptions](framepacingoptions/index.md)
-
-## IPlatformApplication
-
-- [IPlatformApplication](iplatformapplication/index.md)
-
-## IPlatformWindow
-
-- [IPlatformWindow](iplatformwindow/index.md)
-
-## PlatformWindowOptions
-
-- [PlatformWindowOptions](platformwindowoptions/index.md)
+| Type | Purpose |
+| --- | --- |
+| [FramePacingOptions](framepacingoptions/index.md) | Defines host presentation cadence independently of simulation and fixed-step timing. |
+| [IPlatformApplication](iplatformapplication/index.md) | Defines the backend-neutral lifetime, window creation, and event-polling contract for a platform session. |
+| [IPlatformWindow](iplatformwindow/index.md) | Represents a backend-neutral native window owned by a platform application. |
+| [PlatformWindowOptions](platformwindowoptions/index.md) | Defines backend-neutral properties used to create a platform window. |
 

@@ -1,0 +1,13 @@
+---
+uid: api.3d0c034330bd559e54f9643ad77dc2925265f0a572e3ee60aabcffaf28960456
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyModifier.Super"
+source: xml
+reviewed: 7b5f17d628ca421b8ada1134c39dbe66b33d9d655a486e60e9b94a675fd4f56f
+title: "KeyModifier.Super"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The super key.

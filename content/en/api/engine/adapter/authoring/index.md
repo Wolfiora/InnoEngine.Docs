@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Default
+## Categories
 
-[Browse Default](default/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Default](default/index.md) | Editor authoring and presentation providers composed over the neutral runtime catalog. |
 

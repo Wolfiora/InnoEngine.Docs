@@ -1,0 +1,22 @@
+---
+uid: api.08977a52a6850824c35e2c199ee481ce3399964bf69d6823861116e52585b685
+symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticLocation.#ctor(System.String,System.Int32,System.Int32)"
+source: xml
+reviewed: c1cfc9abc7d7d5c23da79f13987b3fc10751f7754d4119294331ca6a46b4c477
+title: "DiagnosticLocation.Constructor"
+kind: api
+owners: [Inno.Core.Diagnostics]
+apiSurface: source-clr
+---
+
+Creates a source location.
+
+**Parameter `sourcePath`:** The source path associated with the diagnostic.
+
+**Parameter `line`:** The one-based line number, or zero when it is unavailable.
+
+**Parameter `column`:** The one-based column number, or zero when it is unavailable.
+
+**Exception `T:System.ArgumentException`:** Thrown when `sourcePath` is empty or contains only whitespace.
+
+**Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `line` or `column` is negative.

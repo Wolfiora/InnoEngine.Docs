@@ -1,0 +1,13 @@
+---
+uid: api.344657ac194aaf71688c44ff45977d722ae3b10ca6fe4cb2e6f26fcbfd9ef220
+symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameLayerDefinition.name"
+source: xml
+reviewed: 897855cc1ef7970fd01a209c4d044a5a5724d8960a4a9e540683011744c1f922
+title: "GameLayerDefinition.name"
+kind: api
+owners: [Inno.Scene]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Gets the unique ordinal layer name.

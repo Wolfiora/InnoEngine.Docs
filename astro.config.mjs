@@ -4,8 +4,10 @@ import starlight from '@astrojs/starlight';
 import { unified } from '@astrojs/markdown-remark';
 import { parse } from 'yaml';
 import { documentationLinks } from './scripts/documentation-links.mjs';
+import { documentationNavigation } from './scripts/documentation-navigation.mjs';
 
-const navigation = parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8'));
+const navigation = documentationNavigation(parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8')),
+  JSON.parse(readFileSync(new URL('./artifacts/canonical-catalog.json', import.meta.url), 'utf8')));
 
 export default defineConfig({
   site: 'https://wolfiora.github.io',
@@ -24,7 +26,7 @@ export default defineConfig({
       editLink: { baseUrl: 'https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/' },
       sidebar: navigation,
       customCss: ['./src/styles/documentation.css'],
-      components: { PageTitle: './src/components/PageTitle.astro', EditLink: './src/components/EditLink.astro' },
+      components: { PageTitle: './src/components/PageTitle.astro', EditLink: './src/components/EditLink.astro', Sidebar: './src/components/Sidebar.astro' },
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       markdown: { processedDirs: ['content/en'] },
       lastUpdated: false,

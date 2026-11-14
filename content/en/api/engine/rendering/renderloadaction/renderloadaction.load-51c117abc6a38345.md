@@ -1,0 +1,12 @@
+---
+uid: api.51c117abc6a383459a9680ed6bbd285083e461923fd20d797822dbd68fd026bd
+symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderLoadAction.Load"
+source: xml
+reviewed: 194e0796930ccbc75946a8f16875ec9022490cd9dc6403ae382061d582b6554c
+title: "RenderLoadAction.Load"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Preserves prior attachment contents.

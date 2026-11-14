@@ -1,0 +1,13 @@
+---
+uid: api.8241293ca865572f88a2da3d0c7de4a3b45b8e3f441140b4035ce183fac281a9
+symbol: "scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasPointerResult.output"
+source: xml
+reviewed: a0bf0d524579ef135166d1a1c24bba3cf56b0e8fcc5cde82d046a1bfd2112f28
+title: "GraphCanvasPointerResult.output"
+kind: api
+owners: [Inno.Editor.Graph.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets a requested connection's output endpoint; its domain type still requires validation.

@@ -1,0 +1,12 @@
+---
+uid: api.8539605c6bd4a445cf4422079d2275f89ecd6ad63533294b79d1c7a096138eb7
+symbol: "engine:Inno.Core.Graphs:P:Inno.Core.Graphs.GraphPortId.value"
+source: xml
+reviewed: 1659a92dbe308b4973c6b2be198ec2bc581c40417a6c34cf13a36662cc8247c3
+title: "GraphPortId.value"
+kind: api
+owners: [Inno.Core.Graphs]
+apiSurface: source-clr
+---
+
+Gets the serialized identifier value.

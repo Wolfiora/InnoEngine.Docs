@@ -1,0 +1,16 @@
+---
+uid: api.f223548c43190c4733e7d1133b6f12af22274f73e3282e7d739c11833e78b545
+symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.Unload(Inno.Extensibility.Modules.AssemblyModuleHandle)"
+source: xml
+reviewed: dad6bd3421400ad0e22b3172098dd6a18bc0d632588ac5d2260868a18e03e14a
+title: "ModuleHost.Unload"
+kind: api
+owners: [Inno.Extensibility.Modules]
+apiSurface: source-clr
+---
+
+Removes an active module and starts cooperative unload when it is manager-owned.
+
+**Parameter `module`:** The module consumed by unload; ownership remains with the caller unless explicitly stated otherwise.
+
+**Returns:** The validated assembly unload monitor that represents the completed operation.

@@ -1,0 +1,13 @@
+---
+uid: api.8c15ba505645113a2fa7730fb00f38864b2fe1812b91614141defda950d5d44f
+symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector2.UNIT_Y"
+source: xml
+reviewed: fdc058625dcf4b024ea4784b00304be1e1e793a009bd0505ab7283c9f2f9faa5
+title: "Vector2.UNIT_Y"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+A unit value aligned with the y axis.

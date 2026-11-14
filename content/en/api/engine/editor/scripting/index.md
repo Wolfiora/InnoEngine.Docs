@@ -9,23 +9,13 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## EditorScriptCompilationProgress
+## Types
 
-- [EditorScriptCompilationProgress](editorscriptcompilationprogress/index.md)
-
-## EditorScriptCompilationState
-
-- [EditorScriptCompilationState](editorscriptcompilationstate/index.md)
-
-## IEditorScriptCompilation
-
-- [IEditorScriptCompilation](ieditorscriptcompilation/index.md)
-
-## IScriptCompilationTicket
-
-- [IScriptCompilationTicket](iscriptcompilationticket/index.md)
-
-## ScriptCompilationTicketState
-
-- [ScriptCompilationTicketState](scriptcompilationticketstate/index.md)
+| Type | Purpose |
+| --- | --- |
+| [EditorScriptCompilationProgress](editorscriptcompilationprogress/index.md) | Captures the progress and cancellation policy of one editor script request. |
+| [EditorScriptCompilationState](editorscriptcompilationstate/index.md) | Identifies whether the active project script generation can safely start game simulation. |
+| [IEditorScriptCompilation](ieditorscriptcompilation/index.md) | Exposes the minimal script-generation readiness contract required by editor workflows. |
+| [IScriptCompilationTicket](iscriptcompilationticket/index.md) | Exposes the immutable observer view of one exact script compilation and activation request. |
+| [ScriptCompilationTicketState](scriptcompilationticketstate/index.md) | Identifies the lifecycle state of one exact script compilation request. |
 

@@ -1,0 +1,13 @@
+---
+uid: api.488150c399f322cd6de1ab083ff6822125c238e17eb8ceb897f9da563f58413c
+symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.ShaderPropertyType.Matrix4x4"
+source: xml
+reviewed: 3176bec6c2470d66671b8950f71273b008eac8e5fd36a54d171b10778f122ac9
+title: "ShaderPropertyType.Matrix4x4"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Four-by-four matrix.

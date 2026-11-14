@@ -1,0 +1,16 @@
+---
+uid: api.366c21bcf5f27920c64ac08dc30e371512af8cdb2bbb757659968d8cf5ca4954
+symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderBinaryNodeCompiler.Lower(Inno.Rendering.Shaders.ShaderNodeLoweringContext)"
+source: xml
+reviewed: a0e32300c4be613f0efd9940bab6638c352df499418b9e1ad8f8b843cafc6df4
+title: "ShaderBinaryNodeCompiler.Lower"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Lowers this graph node to typed shader IR after validating its inputs.
+
+**Parameter `context`:** The context that supplies state and services for this operation.
+
+**Returns:** An immutable snapshot of the values selected by the operation.

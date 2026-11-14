@@ -1,0 +1,12 @@
+---
+uid: api.78d30d76783c70ac69c8ff0b08847b879699fffabd0ffc5bcf793575c304d71d
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiIcon.Shader"
+source: xml
+reviewed: 13b42ad54dc59e3d44891a0320c6885bc854a99366fe689617ec6b86262debf4
+title: "ImGuiIcon.Shader"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Gets the shader glyph used by standard Editor controls.

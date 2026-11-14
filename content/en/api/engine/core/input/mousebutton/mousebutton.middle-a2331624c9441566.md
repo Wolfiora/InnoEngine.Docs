@@ -1,0 +1,12 @@
+---
+uid: api.a2331624c94415664a160a8e54a4baf7b43e7dd2b7dfeb38a7723af5afeb3eec
+symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.MouseButton.Middle"
+source: xml
+reviewed: 9c62daac822f634a62592fc106e15588a9d71d778ddd98cbca1514a9bd153d5b
+title: "MouseButton.Middle"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: source-clr
+---
+
+The middle key.

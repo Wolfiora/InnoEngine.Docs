@@ -1,0 +1,12 @@
+---
+uid: api.52ef3498a8f66919db2d473ff29e2da42d0f5b706fa9fd844377569a014cf83e
+symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot.state"
+source: xml
+reviewed: 0a258894936e845c5054f04f6a0396fe1fd5fcb4f0463ffa24478eb1509b1835
+title: "EditorShaderDraftCompilationSnapshot.state"
+kind: api
+owners: [Inno.Editor.Rendering]
+apiSurface: source-clr
+---
+
+Latest draft compilation state.

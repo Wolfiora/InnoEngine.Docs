@@ -1,0 +1,12 @@
+---
+uid: api.5245d6718fcc1455b47109d51e853627ef73f4ae5bb0e71ae39fafc0c06e67ed
+symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderTargetStore.count"
+source: xml
+reviewed: 0e822d718740c0a917087dfb4ce3eff6a522b679c4b36bbbaf5d89dd227fa1b2
+title: "RenderTargetStore.count"
+kind: api
+owners: [Inno.Rendering.Runtime]
+apiSurface: source-clr
+---
+
+Gets the number of retained offscreen targets.

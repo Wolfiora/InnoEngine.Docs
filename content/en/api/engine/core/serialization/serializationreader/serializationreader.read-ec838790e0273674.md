@@ -1,0 +1,20 @@
+---
+uid: api.ec838790e02736745329a7bb593a95cd84810883d95e8954436cbb4f8a461359
+symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationReader.Read\u0060\u00601(System.String)"
+source: xml
+reviewed: 6694464855feccf198d3275445e113ce064a2b7b41981ecb36fb69bc361553eb
+title: "SerializationReader.Read"
+kind: api
+owners: [Inno.Core.Serialization]
+apiSurface: source-clr
+---
+
+Reads a required named value through the unified value pipeline.
+
+**Type parameter `TValue`:** The declared value type.
+
+**Parameter `name`:** The required member name.
+
+**Returns:** The restored value.
+
+**Exception `T:System.InvalidOperationException`:** Thrown when the member is missing or invalid.

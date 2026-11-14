@@ -1,0 +1,12 @@
+---
+uid: api.50f8d7758a44a819ef9e9720542de3c13ed7f7482c352b6d51e1cbdd877dd276
+symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderRequestProviderContext.input"
+source: xml
+reviewed: bf7077e711445ca4a25a56310db2b02033e869446866474608170626a42027d6
+title: "RenderRequestProviderContext.input"
+kind: api
+owners: [Inno.Rendering.Runtime]
+apiSurface: source-clr
+---
+
+Gets viewport-local input for the primary output.

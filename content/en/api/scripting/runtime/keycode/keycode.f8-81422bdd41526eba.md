@@ -1,0 +1,13 @@
+---
+uid: api.81422bdd41526eba57d91f5f4bc28b8dde01b6b44e903e5e40fdac5d704b415d
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.F8"
+source: xml
+reviewed: 8873c41282c531eb8b8e9be311578a55dcf3d087efab44c6617a240a80361311
+title: "KeyCode.F8"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The F8 function key.

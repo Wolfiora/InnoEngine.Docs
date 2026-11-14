@@ -1,0 +1,13 @@
+---
+uid: api.361a47bb903de229be23d2ecbda0a1ba31c2f5248053a200358eeb2e30d728c7
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.Period"
+source: xml
+reviewed: 980215c67f628bc98307155daf20d149440501c0a43c8d5a3d46a29871412c5c
+title: "KeyCode.Period"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The period key.

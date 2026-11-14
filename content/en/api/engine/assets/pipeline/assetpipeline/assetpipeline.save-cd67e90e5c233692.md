@@ -1,0 +1,16 @@
+---
+uid: api.cd67e90e5c2336928e691ea62393e8b6e1f045673ea2cc8fde0eb24f12c40a3d
+symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Save(Inno.Assets.AssetObject)"
+source: xml
+reviewed: 061f8c5112b41673f42882bcb69360916dc3da87761023d87dc4c47ce0277d1e
+title: "AssetPipeline.Save"
+kind: api
+owners: [Inno.Assets.Pipeline]
+apiSurface: source-clr
+---
+
+Saves an asset to its current source path.
+
+**Parameter `asset`:** The asset to save.
+
+**Returns:** `true` when an importer exported the asset.

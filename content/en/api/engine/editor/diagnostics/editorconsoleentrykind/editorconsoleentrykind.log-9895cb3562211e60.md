@@ -1,0 +1,12 @@
+---
+uid: api.9895cb3562211e6008f1b24502171180bdbd4fd5424ed6d0fab2f2a6e3764643
+symbol: "engine:Inno.Editor.Diagnostics:F:Inno.Editor.Diagnostics.EditorConsoleEntryKind.Log"
+source: xml
+reviewed: e59851078305596b53c8c388addda39b82bb52bcb99e269821d98eaa1cfb4254
+title: "EditorConsoleEntryKind.Log"
+kind: api
+owners: [Inno.Editor.Diagnostics]
+apiSurface: source-clr
+---
+
+The occurrence was emitted through the runtime logging pipeline.

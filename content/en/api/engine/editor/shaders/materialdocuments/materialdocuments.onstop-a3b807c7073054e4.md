@@ -1,0 +1,14 @@
+---
+uid: api.a3b807c7073054e44357ff8d9741ffc1309d77e4a920f05d7fcf2fcc31b3833e
+symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.MaterialDocuments.OnStop(Inno.Editor.Core.EditorContext)"
+source: xml
+reviewed: 6a85310d8ea7a24c3f225ae0f8a4d847ae412a6478824c3ecb4e81382dca9580
+title: "MaterialDocuments.OnStop"
+kind: api
+owners: [Inno.Editor.Shaders]
+apiSurface: source-clr
+---
+
+Stops this feature before its owning runtime releases the active generation.
+
+**Parameter `context`:** The context that supplies state and services for this operation.

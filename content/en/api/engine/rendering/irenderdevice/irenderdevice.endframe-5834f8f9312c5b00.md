@@ -1,0 +1,14 @@
+---
+uid: api.5834f8f9312c5b0096e7d550fc75fbe7d60a74a178adca69e98a01054e5df5ab
+symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.EndFrame"
+source: xml
+reviewed: 44139a5aa3cd57388fec4f61991bf005339505070870dfccd14f79f05cb51332
+title: "IRenderDevice.EndFrame"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Ends all encoders and advances the graphics backend exactly once.
+
+**Returns:** The backend frame number after submission.

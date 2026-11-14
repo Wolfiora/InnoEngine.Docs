@@ -1,0 +1,13 @@
+---
+uid: api.16035905d79df957ead168e9806b5487140ec58d69c01559be090790a0c8d984
+symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioVoiceParameters.op_Equality(InnoEngine.Audio.AudioVoiceParameters,InnoEngine.Audio.AudioVoiceParameters)"
+source: xml
+reviewed: 1d94f0fa22566c34037c683d676a2ef8dbb9189192b6460d08db29f5f76d9312
+title: "AudioVoiceParameters.op_Equality"
+kind: api
+owners: [Inno.Audio]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+No XML description is available.

@@ -1,0 +1,16 @@
+---
+uid: api.0383a36758063b73859546a7228bbd986dba540bc06a968d5bef89554dc53e78
+symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingSourceFile.Equals(System.Object)"
+source: xml
+reviewed: 748a9b8b7f8d215fdc5989fff0fd227c226b6fc7d9e3f1bb7c5322f5e9cf3776
+title: "NativeBindingSourceFile.Equals"
+kind: api
+owners: [Inno.Build.Toolchains]
+apiSurface: source-clr
+---
+
+Determines whether the specified object is equal to the current object.
+
+**Parameter `obj`:** The object to compare with the current object.
+
+**Returns:** `true` if the specified object is equal to the current object; otherwise, `false`.

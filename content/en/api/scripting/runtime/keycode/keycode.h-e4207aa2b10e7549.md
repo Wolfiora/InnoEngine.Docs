@@ -1,0 +1,13 @@
+---
+uid: api.e4207aa2b10e7549bd4c440238f83866564a3a65c01871f66a80835e8ec194a8
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.H"
+source: xml
+reviewed: a598f411a0fbf179f7e6e08e0813c04ef7de2198e7b33a771ebd71e01fd4b202
+title: "KeyCode.H"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The H letter key.

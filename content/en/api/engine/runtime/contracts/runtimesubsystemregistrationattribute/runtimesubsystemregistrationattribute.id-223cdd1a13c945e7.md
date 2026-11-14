@@ -1,0 +1,12 @@
+---
+uid: api.223cdd1a13c945e71edf16900ba939631937221a956374ce4f90029fc61ee7ad
+symbol: "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemRegistrationAttribute.id"
+source: xml
+reviewed: 2f5925b0a1f7a7325fc96ae8142d75319e7655f0c9a7cfd7aa1a1d1b44f1f988
+title: "RuntimeSubsystemRegistrationAttribute.id"
+kind: api
+owners: [Inno.Runtime.Contracts]
+apiSurface: source-clr
+---
+
+Gets the stable descriptor ID checked by the generated catalog.

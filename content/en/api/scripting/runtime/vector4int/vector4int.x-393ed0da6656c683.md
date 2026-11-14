@@ -1,0 +1,13 @@
+---
+uid: api.393ed0da6656c683250300d69589525915a4a3fdfd81dbdd3efac3378f34de4f
+symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector4Int.x"
+source: xml
+reviewed: d7ddd4d944e72adc144c38e98d1b1f533eaeb60c3a99f0469476f1cd07c4d83d
+title: "Vector4Int.x"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The horizontal or first component.

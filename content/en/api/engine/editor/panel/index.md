@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Hierarchy
+## Categories
 
-[Browse Hierarchy](hierarchy/index.md).
-
-## Inspector
-
-[Browse Inspector](inspector/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Hierarchy](hierarchy/index.md) | Scene/object hierarchy presentation, typed drop geometry and domain-owned reversible actions. |
+| [Inspector](inspector/index.md) | Target inspection, generation-safe locking, scene element operations and typed reference drops. |
 

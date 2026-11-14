@@ -1,0 +1,12 @@
+---
+uid: api.65c9d49e033caa82d74594cfa64c9db8a86cc36b23c413cda36f899701303494
+symbol: "engine:Inno.Audio:P:Inno.Audio.AudioEmitterSnapshot.clip"
+source: xml
+reviewed: e64d253c5ade073fd7e77406c22d5e1f848e028f92ad5d492da141e0e2935551
+title: "AudioEmitterSnapshot.clip"
+kind: api
+owners: [Inno.Audio]
+apiSurface: source-clr
+---
+
+Gets the imported clip requested by the emitter.

@@ -1,0 +1,19 @@
+---
+uid: api.351dd170437483fe79e66447a1662b445a4ad24ecf64f7a5ea73994b9a6a923b
+symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.Contains(System.Single,System.Single)"
+source: xml
+reviewed: 5adf2335dae7ae530438080e04c3b91f7e13e2ae7c979acd6bc5ebb8887d049f
+title: "Rect.Contains"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Checks if this rectangle contains a point.
+
+**Parameter `px`:** The px consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
+
+**Parameter `py`:** The py consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
+
+**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## StorageRuntime
+## Types
 
-- [StorageRuntime](storageruntime/index.md)
-
-## StorageRuntimeFactory
-
-- [StorageRuntimeFactory](storageruntimefactory/index.md)
+| Type | Purpose |
+| --- | --- |
+| [StorageRuntime](storageruntime/index.md) | Binds one application storage sandbox throughout every runtime frame. |
+| [StorageRuntimeFactory](storageruntimefactory/index.md) | Creates one frame-scoped storage service for a runtime session. |
 

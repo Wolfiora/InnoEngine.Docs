@@ -1,0 +1,20 @@
+---
+uid: api.10716d700404c77b111abcb74be99e477211a0b7e08ae72432747824a43456c5
+symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.BuildAsync(Inno.Assets.AssetObject,System.Collections.Generic.IReadOnlyList{Inno.Assets.AssetInfo},System.Threading.CancellationToken)"
+source: xml
+reviewed: 8d038529987441cf12c7ae17719362d241ca90d69a4503a87886a38b3826b666
+title: "AssetPipeline.BuildAsync"
+kind: api
+owners: [Inno.Assets.Pipeline]
+apiSurface: source-clr
+---
+
+Runs an aggregate asset build using the processor registered for a definition.
+
+**Parameter `definition`:** The build definition asset.
+
+**Parameter `inputs`:** The immutable input catalog snapshots.
+
+**Parameter `cancellationToken`:** Cancellation for the candidate build.
+
+**Returns:** The content-addressed output bundle key.

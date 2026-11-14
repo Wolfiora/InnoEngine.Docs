@@ -1,0 +1,17 @@
+---
+uid: api.9b0b5a9de77377608c7460207049614a53c22d5f69ae768e21b8545c3f1b4413
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDrop.Drop(InnoEditor.Interactions.EditorDropContext)"
+source: xml
+reviewed: e76554d57f6ca90296f54bae62c4cfcdc279527a60fa111638b844022e114969
+title: "EditorDrop.Drop"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Executes a delivered drop after a successful compatibility query.
+
+**Parameter `context`:** The untyped source, target, surface, and requested placement.
+
+**Returns:** The observable selection and reveal result of the operation.

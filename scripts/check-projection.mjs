@@ -5,6 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
+import { documentationNavigation } from './documentation-navigation.mjs';
 import { isDocumentedProject, isDocumentedProjectGuide } from './api-scope.mjs';
 import { checkExampleEvidence } from './example-evidence.mjs';
 import { inside, readOwned } from './owned-input.mjs';
@@ -71,7 +72,7 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   const contentIdentity = digest(catalog.pages.slice().sort((a, b) => a.path < b.path ? -1 : a.path > b.path ? 1 : 0)
     .map((page) => `${page.path}\0${page.contentIdentity}`).join('\n'));
   if (contentIdentity !== catalog.contentIdentity) errors.push('Canonical aggregate content identity is invalid.');
-  const navigation = parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8'));
+  const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog);
   const navigated = new Set();
   function inspect(items) {
     if (!Array.isArray(items)) throw new Error('Navigation items must be an array.');
@@ -92,8 +93,16 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   if (complete && api.missingSourceCaptures.length) errors.push(`Engine projects lack an evaluated source API capture: ${api.missingSourceCaptures.join(', ')}.`);
   const exampleEvidence = complete ? checkExampleEvidence(catalog, exampleReceipts) : { status: 'NotChecked' };
   if (complete) errors.push(...exampleEvidence.errors);
+  let siteBytes = null;
+  if (site) {
+    siteBytes = 0;
+    await files(path.resolve(site), (_file, info) => { siteBytes += info.size; });
+    // Published Pages sites have a 1 GB limit, independent of compressed artifact size.
+    // https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+    if (siteBytes > 1_000_000_000) errors.push(`Published site exceeds the GitHub Pages 1 GB limit: ${siteBytes} bytes.`);
+  }
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
-    snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length,
+    snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length, siteBytes,
     missingProjects, sourceApiStatus: catalog.sourceApiStatus,
     apiInputsIdentity: digest(JSON.stringify((catalog.references ?? []).map(reference => [reference.model, reference.configuration, reference.target ?? null, reference.identity]).sort())),
     exampleReceiptsIdentity: digest(JSON.stringify(exampleReceipts.map(receipt => receipt.identity).sort())), exampleEvidence, api, licenses, errors };
@@ -224,14 +233,14 @@ function route(source) {
   return contentRoute(source.slice('content/en/'.length));
 }
 
-async function files(root) {
+async function files(root, onFile) {
   const result = [];
   for (const name of (await readdir(root)).sort()) {
     const file = path.join(root, name);
     const info = await lstat(file);
     if (info.isSymbolicLink()) throw new Error(`Documentation source cannot contain links: ${file}`);
-    if (info.isDirectory()) result.push(...await files(file));
-    else if (info.isFile()) result.push(file);
+    if (info.isDirectory()) result.push(...await files(file, onFile));
+    else if (info.isFile()) { result.push(file); onFile?.(file, info); }
   }
   return result;
 }

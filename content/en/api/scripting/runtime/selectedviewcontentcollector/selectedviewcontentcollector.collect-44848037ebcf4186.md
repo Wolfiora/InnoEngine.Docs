@@ -1,0 +1,17 @@
+---
+uid: api.44848037ebcf4186f7376d3b200a520a92512b61a1f46c5335c96432264f9b0f
+symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.SelectedViewContentCollector.Collect(InnoEngine.Rendering.ViewContentContext)"
+source: xml
+reviewed: 4fd5edc7be907961006166793ca177ecc4c120def34cda944427c6a871493cbd
+title: "SelectedViewContentCollector.Collect"
+kind: api
+owners: [Inno.Rendering.Runtime]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Collects only the assigned world-content sources for one exact view.
+
+**Parameter `context`:** The original model view, output input, and frame timing.
+
+**Returns:** Frame-local content emitted by the assigned sources.

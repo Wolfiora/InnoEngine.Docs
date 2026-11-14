@@ -1,0 +1,23 @@
+---
+uid: api.34cdff61348a5670c4af5d17e905330282ce6f88393bca2c6cac001050b2d2d8
+symbol: "scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetCreationTemplate.Encode(InnoEditor.Assets.AssetCreationContext,InnoEngine.Assets.AssetObject)"
+source: xml
+reviewed: 62a2dcfc127b68908519174749c1063f5c1196f19a964cbce43c426f7f2bbc96
+title: "AssetCreationTemplate.Encode"
+kind: api
+owners: [Inno.Editor.Assets]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Encodes the detached initial value into the source representation owned by this template.
+
+**Parameter `context`:** Creation services scoped to the current Asset source pipeline.
+
+**Parameter `asset`:** The exact value returned by `M:InnoEditor.Assets.AssetCreationTemplate.Create`.
+
+**Returns:** Complete source bytes ready for an atomic File Browser create operation.
+
+## Remarks
+
+The default implementation uses native structured Asset serialization. Templates paired with a textual or custom binary importer can override this method without changing the File Browser or registering a second creation protocol.

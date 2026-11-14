@@ -1,0 +1,20 @@
+---
+uid: api.21b85ca11b734804384e8fee5b36557088ddaff1dcc34c83938cb29a44a2d8c3
+symbol: "engine:Inno.Assets:M:Inno.Assets.AssetSerializationContext.Create(Inno.Assets.IAssetReferenceResolver,Inno.Assets.AssetDependencyCollection)"
+source: xml
+reviewed: 42577caccb4b220cc4225179d460de1111287babe2d5c6975fcf24575698d0ed
+title: "AssetSerializationContext.Create"
+kind: api
+owners: [Inno.Assets]
+apiSurface: source-clr
+---
+
+Creates a context containing the required asset resolver and an optional dependency collector.
+
+**Parameter `references`:** The authoritative asset reference resolver for the operation's complete generation.
+
+**Parameter `dependencies`:** Optional collector that records direct asset dependencies during serialization.
+
+**Returns:** A complete immutable asset-aware serialization context.
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `references` is null.

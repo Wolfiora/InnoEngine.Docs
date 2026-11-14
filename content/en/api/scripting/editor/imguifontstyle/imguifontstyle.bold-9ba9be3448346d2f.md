@@ -1,0 +1,13 @@
+---
+uid: api.9ba9be3448346d2f90176cdaf5693a27f22cd1d6c76cae3fe6c16723d2de7dff
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiFontStyle.Bold"
+source: xml
+reviewed: 97d6f2e20ce97fc2d92570a82b96805865c4229d3565a34c946ce0f6a47aca04
+title: "ImGuiFontStyle.Bold"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Emphasizes text with the bold face.

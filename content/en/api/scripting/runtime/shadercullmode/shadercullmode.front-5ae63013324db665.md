@@ -1,0 +1,13 @@
+---
+uid: api.5ae63013324db665d03238c2e6d1e3239d19575a477eb7a921ae9475c76b47dd
+symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderCullMode.Front"
+source: xml
+reviewed: 6bdf07aaef680c33cf60625c862716b8086138dc895bfe21073a8bbb0138cd0b
+title: "ShaderCullMode.Front"
+kind: api
+owners: [Inno.Rendering.Assets]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Rejects front-facing triangles.
