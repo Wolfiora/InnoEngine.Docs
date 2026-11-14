@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Finds the first game object with an ordinally matching tag in scene storage order.
 
+## Parameters
+
 **Parameter `tag`:** Tag to find.
 
-**Returns:** The first match, or `null` when no object matches.
+## Returns
+
+The first match, or `null` when no object matches.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `tag` is empty or contains only white-space characters.

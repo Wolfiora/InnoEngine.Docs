@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Begins or touches an explicitly captured continuous edit, such as a viewport manipulation.
 
+## Parameters
+
 **Parameter `history`:** The authoritative domain History.
 
 **Parameter `path`:** The stable owner-qualified edit identity.

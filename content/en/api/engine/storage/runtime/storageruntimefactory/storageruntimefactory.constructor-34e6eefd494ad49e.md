@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a reusable factory that obtains an exclusively owned storage sandbox for each session.
 
+## Parameters
+
 **Parameter `storageFactory`:** The composition callback that creates a distinct storage service for the supplied session context.

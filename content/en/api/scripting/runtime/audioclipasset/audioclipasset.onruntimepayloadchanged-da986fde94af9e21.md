@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Refreshes imported metadata after an artifact commit.
 
+## Parameters
+
 **Parameter `previousPayload`:** Previously committed compact header.
 
 **Parameter `currentPayload`:** Newly committed compact header.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates normalized mesh data.
 
+## Parameters
+
 **Parameter `vertices`:** Vertex stream.
 
 **Parameter `indices`:** Triangle index stream.

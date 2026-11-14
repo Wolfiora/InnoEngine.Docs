@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reduces a given angle to a value between π and -π.
 
+## Parameters
+
 **Parameter `angle`:** The angle to reduce, in radians.
 
-**Returns:** The new angle, in radians.
+## Returns
+
+The new angle, in radians.

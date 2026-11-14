@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Draws a progress bar whose overlay remains centered over the complete bar.
 
+## Parameters
+
 **Parameter `fraction`:** The completed fraction rendered by the progress bar.
 
 **Parameter `size`:** The requested ImGui progress-bar size.
 
 **Parameter `overlay`:** The text drawn at the geometric center of the complete progress bar.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `overlay` is `null`.

@@ -12,10 +12,16 @@ apiScope: Editor
 
 Executes an action for this area and target.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
 **Parameter `argument`:** An optional action argument.
 
-**Returns:** `true` when a visible and enabled action executed; otherwise, `false`.
+## Returns
+
+`true` when a visible and enabled action executed; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

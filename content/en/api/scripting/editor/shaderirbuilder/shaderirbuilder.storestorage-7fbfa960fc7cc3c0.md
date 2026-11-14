@@ -12,10 +12,14 @@ apiScope: Editor
 
 Stores a storage value without pruning unused writes or reordering surrounding memory operations.
 
+## Parameters
+
 **Parameter `resource`:** A writable typed storage input.
 
 **Parameter `coordinate`:** uint buffer index; int2 image coordinate, or int3 for an image array/volume.
 
 **Parameter `value`:** Exactly the declared element or image value type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The resource is read-only or operands have incompatible types.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Builds the complete contextual menu for this area and target.
 
-**Returns:** The immutable resolved menu model.
+## Returns
+
+The immutable resolved menu model.

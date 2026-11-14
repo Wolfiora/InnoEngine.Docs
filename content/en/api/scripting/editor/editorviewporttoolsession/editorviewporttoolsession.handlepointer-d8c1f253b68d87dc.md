@@ -12,6 +12,10 @@ apiScope: Editor
 
 Routes one immutable pointer sample.
 
+## Parameters
+
 **Parameter `pointer`:** Pointer sample with precomputed world coordinates.
 
-**Returns:** `true` when an active tool accepted the sample.
+## Returns
+
+`true` when an active tool accepted the sample.

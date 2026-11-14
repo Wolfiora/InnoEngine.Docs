@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Makes a loaded scene active in the current runtime session.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to activate.

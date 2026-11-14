@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces an element's children with plain Unicode text.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.
@@ -19,4 +21,6 @@ Replaces an element's children with plain Unicode text.
 
 **Parameter `text`:** Plain Unicode replacement text; the backend performs source-language escaping.
 
-**Returns:** True when the element exists and the replacement was applied; false when the element is absent. This is not a comparison with the preceding text.
+## Returns
+
+True when the element exists and the replacement was applied; false when the element is absent. This is not a comparison with the preceding text.

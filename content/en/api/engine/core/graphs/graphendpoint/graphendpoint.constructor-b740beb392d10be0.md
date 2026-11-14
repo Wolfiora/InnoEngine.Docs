@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a graph edge endpoint.
 
+## Parameters
+
 **Parameter `nodeId`:** Owning node identifier.
 
 **Parameter `portId`:** Port identifier within the node definition.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the owning game object.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when the component is detached or destroyed.

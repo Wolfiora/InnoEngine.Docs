@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a render-graph diagnostic.
 
+## Parameters
+
 **Parameter `code`:** Stable machine-readable code.
 
 **Parameter `message`:** Actionable diagnostic text.

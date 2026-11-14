@@ -16,4 +16,6 @@ Captures readable project state owned by this module.
 
 Overriding this method opts the module into project-state IO. Modules that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes.
 
+## Parameters
+
 **Parameter `state`:** The writable parameter that receives the complete readable state for this module.

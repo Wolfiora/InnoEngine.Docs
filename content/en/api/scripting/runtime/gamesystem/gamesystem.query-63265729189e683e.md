@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Queries game objects containing three required component types.
 
+## Type parameters
+
 **Type parameter `T1`:** The first component type required on every returned game object.
 
 **Type parameter `T2`:** The second component type required on every returned game object.
 
 **Type parameter `T3`:** The third component type required on every returned game object.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

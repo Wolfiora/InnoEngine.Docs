@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases one explicit preload retention without interrupting active voices.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip whose preload retention should be released.

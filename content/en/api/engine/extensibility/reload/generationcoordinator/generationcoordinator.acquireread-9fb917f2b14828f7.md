@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Pins generation admission for a Build or Export operation, including asynchronous snapshot consumers.
 
+## Parameters
+
 **Parameter `operation`:** The diagnostic operation name.
 
-**Returns:** A lease that must be disposed after every snapshot and asynchronous consumer has retired.
+## Returns
+
+A lease that must be disposed after every snapshot and asynchronous consumer has retired.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Admission is blocked by another operation or a retirement.

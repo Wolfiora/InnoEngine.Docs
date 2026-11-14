@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Writes annotated properties from a serializable object into the current structured object.
 
+## Parameters
+
 **Parameter `value`:** The object whose annotated properties should be written.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is null.

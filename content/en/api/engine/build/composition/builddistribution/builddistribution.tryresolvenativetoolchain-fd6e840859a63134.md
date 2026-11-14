@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Checks whether this distribution contributes an SDK for an explicitly requested binding target. A standalone binding definition may describe a target without registering a product publisher.
 
+## Parameters
+
 **Parameter `targetId`:** The exact target identity; no host-derived target is substituted.
 
 **Parameter `provider`:** The borrowed SDK provider when registered, or null when the distribution has no such contribution.
 
-**Returns:** True when the target has an explicit SDK contribution; false does not imply SDK-free configuration.
+## Returns
+
+True when the target has an explicit SDK contribution; false does not imply SDK-free configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The target identity is empty.

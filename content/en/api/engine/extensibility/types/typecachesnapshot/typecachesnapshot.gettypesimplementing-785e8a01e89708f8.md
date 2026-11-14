@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all concrete discovered types implementing `TInterface`.
 
+## Type parameters
+
 **Type parameter `TInterface`:** The interface contract implemented by every selected concrete type.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

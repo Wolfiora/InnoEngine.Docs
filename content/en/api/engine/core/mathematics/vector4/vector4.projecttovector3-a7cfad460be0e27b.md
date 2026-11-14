@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Projects the supplied value onto the requested dimensional space.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

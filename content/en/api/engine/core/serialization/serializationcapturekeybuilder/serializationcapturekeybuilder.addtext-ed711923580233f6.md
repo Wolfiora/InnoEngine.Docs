@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds exact ordinal text, preserving the distinction between null and empty.
 
+## Parameters
+
 **Parameter `value`:** The immutable current text input.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The callback has retired or is accessed from another thread.

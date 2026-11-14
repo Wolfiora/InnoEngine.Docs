@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether another mask contains the same layer bits.
 
+## Parameters
+
 **Parameter `other`:** The mask to compare with this value.
 
-**Returns:** `true` when both masks contain the same bits.
+## Returns
+
+`true` when both masks contain the same bits.

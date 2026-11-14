@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a linear clear color.
 
+## Parameters
+
 **Parameter `r`:** Red channel.
 
 **Parameter `g`:** Green channel.

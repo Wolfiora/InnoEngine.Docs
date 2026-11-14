@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Resolves a platform-contributed product closure without selecting backends inside the invoking host.
 
+## Parameters
+
 **Parameter `targetId`:** The explicit registered product target.
 
 **Parameter `productId`:** The product whose ordinary native build is requested.
 
-**Returns:** The borrowed immutable plan declared by the target's composition.
+## Returns
+
+The borrowed immutable plan declared by the target's composition.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The target or its ordinary native product build is not registered.
 

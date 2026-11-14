@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Drains pending entries, stops the worker, and disposes every sink still owned by this router.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** A delivery callback attempts to dispose its own router.
 
 **Exception `T:System.AggregateException`:** One or more owned sinks fail to dispose after pending entries have drained.

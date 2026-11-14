@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a generator that obtains target tools and input ownership from each build operation.
 
+## Parameters
+
 **Parameter `profile`:** The explicitly registered target profile.

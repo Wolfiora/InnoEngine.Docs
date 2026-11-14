@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures the entire index with the operation's pinned converter generation.
 
+## Parameters
+
 **Parameter `index`:** The validated immutable inventory.
 
 **Parameter `serialization`:** The borrowed generation shared by the enclosing build transaction.
 
-**Returns:** Newly owned deterministic index bytes.
+## Returns
+
+Newly owned deterministic index bytes.

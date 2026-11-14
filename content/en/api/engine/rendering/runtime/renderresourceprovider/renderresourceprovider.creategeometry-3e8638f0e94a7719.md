@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates generation-scoped resolved geometry from persistent buffers and immutable sections.
 
+## Parameters
+
 **Parameter `vertexBuffer`:** The persistent vertex buffer.
 
 **Parameter `indexBuffer`:** The persistent index buffer.
@@ -23,4 +25,6 @@ Creates generation-scoped resolved geometry from persistent buffers and immutabl
 
 **Parameter `sections`:** The independently drawable indexed ranges.
 
-**Returns:** Resolved geometry owned by the current device generation.
+## Returns
+
+Resolved geometry owned by the current device generation.

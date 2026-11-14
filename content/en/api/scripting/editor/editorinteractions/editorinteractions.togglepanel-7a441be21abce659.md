@@ -12,8 +12,14 @@ apiScope: Editor
 
 Toggles one panel in the currently active extension generation.
 
+## Parameters
+
 **Parameter `panelId`:** The stable panel identifier to resolve.
 
-**Returns:** `true` when an available panel was found and toggled.
+## Returns
+
+`true` when an available panel was found and toggled.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `panelId` is empty.

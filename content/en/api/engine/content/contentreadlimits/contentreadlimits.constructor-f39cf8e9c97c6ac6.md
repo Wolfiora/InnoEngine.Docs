@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates explicit positive budgets for one content preparation operation.
 
+## Parameters
+
 **Parameter `packBytes`:** The maximum encoded pack length.
 
 **Parameter `entryBytes`:** The maximum decoded length of one payload.

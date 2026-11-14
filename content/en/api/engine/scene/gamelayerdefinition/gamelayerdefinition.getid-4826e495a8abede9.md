@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the complete identity under a project namespace.
 
+## Parameters
+
 **Parameter `projectId`:** The current project namespace.
 
-**Returns:** The canonical project-scoped layer identity.
+## Returns
+
+The canonical project-scoped layer identity.

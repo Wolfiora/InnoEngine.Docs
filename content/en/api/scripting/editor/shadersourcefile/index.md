@@ -16,6 +16,8 @@ aliases: []
 
 Contains immutable source text supplied by the asset candidate's controlled source resolver.
 
+## Parameters
+
 **Parameter `assetPath`:** Resolved asset mount path.
 
 **Parameter `text`:** UTF-8 decoded immutable source text.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an Inspector attribute drawer registry.
 
+## Parameters
+
 **Parameter `interactions`:** Active editor interaction entry point.
 
 **Parameter `types`:** Host-owned type catalog.

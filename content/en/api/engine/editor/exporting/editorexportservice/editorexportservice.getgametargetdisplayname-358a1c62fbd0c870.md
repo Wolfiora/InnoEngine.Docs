@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets a registered target label or a diagnostic for an unavailable target.
 
+## Parameters
+
 **Parameter `target`:** The target to describe.
 
-**Returns:** A presentation label; never used as a routing identity.
+## Returns
+
+A presentation label; never used as a routing identity.

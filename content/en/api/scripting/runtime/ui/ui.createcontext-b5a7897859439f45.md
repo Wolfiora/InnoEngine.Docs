@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates one independent UI context.
 
+## Parameters
+
 **Parameter `options`:** The validated configuration that controls this operation.
 
-**Returns:** The validated ui context handle that represents the completed operation.
+## Returns
+
+The validated ui context handle that represents the completed operation.

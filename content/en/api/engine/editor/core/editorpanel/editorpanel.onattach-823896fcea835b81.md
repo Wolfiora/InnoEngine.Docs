@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Runs after the panel is attached to an active extension generation.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the active runtime.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Binds a persistent texture to a shader interface slot.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding identifier.
 
 **Parameter `texture`:** Persistent texture owned by the active device generation.

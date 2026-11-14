@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Creates an input event source for one window or for the entire application.
 
+## Parameters
+
 **Parameter `backend`:** input implementation selected by the composition root.
 
 **Parameter `window`:** Primary platform window whose input is accepted by the source.
 
 **Parameter `acceptAllWindows`:** Whether the source accepts events from every window owned by the application.
 
-**Returns:** A caller-owned backend-neutral input event source.
+## Returns
+
+A caller-owned backend-neutral input event source.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the catalog does not contain the selected backend or the platform is incompatible.
 

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a component-style collapsible card header.
 
+## Parameters
+
 **Parameter `id`:** The stable card identifier.
 
 **Parameter `title`:** The visible card title.
@@ -28,4 +30,6 @@ Draws a component-style collapsible card header.
 
 **Parameter `drawContextMenu`:** An optional callback that binds a context menu to the complete header item.
 
-**Returns:** `true` when card content should be drawn; otherwise, `false`.
+## Returns
+
+`true` when card content should be drawn; otherwise, `false`.

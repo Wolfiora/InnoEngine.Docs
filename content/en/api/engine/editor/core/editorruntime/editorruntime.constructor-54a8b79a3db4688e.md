@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a runtime for the supplied passive context.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

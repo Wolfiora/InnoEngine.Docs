@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Compares common serialized property values using the complete owner serialization context.
 
+## Parameters
+
 **Parameter `targets`:** Live compatible scene objects to compare.
 
 **Parameter `propertyName`:** The required common serialized member.
 
-**Returns:** True when every encoded value matches, including an empty selection.
+## Returns
+
+True when every encoded value matches, including an empty selection.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A selected object does not expose the requested property.

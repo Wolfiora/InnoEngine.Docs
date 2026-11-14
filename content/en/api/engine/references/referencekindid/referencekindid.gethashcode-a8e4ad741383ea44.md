@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Computes an ordinal hash code for this identifier.
 
-**Returns:** A hash code consistent with ordinal equality.
+## Returns
+
+A hash code consistent with ordinal equality.

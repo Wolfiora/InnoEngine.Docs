@@ -14,4 +14,6 @@ aliases: []
 
 Entry wrapper for setting key values on a stored item.
 
+## Type parameters
+
 **Type parameter `T`:** Item type.

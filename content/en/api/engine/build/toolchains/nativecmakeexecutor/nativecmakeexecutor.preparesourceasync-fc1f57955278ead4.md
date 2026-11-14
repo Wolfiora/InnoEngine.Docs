@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Copies the recipe's declared checkout inputs before a cold CMake invocation.
 
+## Parameters
+
 **Parameter `context`:** The producer scope supplied by NativeArtifactPublisher while holding its intermediate lease.
 
 **Parameter `component`:** The sole owner of the intermediate source copy.
 
 **Parameter `cancellationToken`:** Cancels copying before the source candidate is installed.
 
-**Returns:** The same prepared input descriptor for subsequent invocations in this producer scope.
+## Returns
+
+The same prepared input descriptor for subsequent invocations in this producer scope.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No recipe scope exists or an input changed during copying.
 

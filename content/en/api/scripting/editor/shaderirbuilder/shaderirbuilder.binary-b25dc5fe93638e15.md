@@ -12,12 +12,18 @@ apiScope: Editor
 
 Applies an explicitly typed binary arithmetic or scalar comparison operation.
 
+## Parameters
+
 **Parameter `operation`:** Add, Subtract, Multiply, Divide, Minimum, Maximum, Equal or LessThan.
 
 **Parameter `left`:** Left operand from this builder.
 
 **Parameter `right`:** Right operand of the same complete type.
 
-**Returns:** The result; comparisons produce a scalar Boolean.
+## Returns
+
+The result; comparisons produce a scalar Boolean.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Operands belong to another builder, differ in type, or the operation is invalid for them.

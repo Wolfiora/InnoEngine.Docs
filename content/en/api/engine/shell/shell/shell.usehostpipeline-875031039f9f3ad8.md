@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Borrows the EngineHost-owned pipeline used for application-wide output and services.
 
+## Parameters
+
 **Parameter `pipeline`:** The started pipeline; its EngineHost remains responsible for retirement.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A host pipeline is already configured.

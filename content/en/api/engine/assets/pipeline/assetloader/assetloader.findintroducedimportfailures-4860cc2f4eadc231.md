@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Finds writable-source failures that are new or changed relative to an earlier health snapshot.
 
+## Parameters
+
 **Parameter `baseline`:** The health snapshot captured before the candidate generation was activated.
 
-**Returns:** A deterministic path-ordered collection containing only introduced or changed failures.
+## Returns
+
+A deterministic path-ordered collection containing only introduced or changed failures.

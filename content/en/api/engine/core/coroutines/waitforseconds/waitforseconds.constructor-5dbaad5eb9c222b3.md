@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Waits for the specified number of scaled seconds.
 
+## Parameters
+
 **Parameter `seconds`:** The seconds used to initialize this instance.

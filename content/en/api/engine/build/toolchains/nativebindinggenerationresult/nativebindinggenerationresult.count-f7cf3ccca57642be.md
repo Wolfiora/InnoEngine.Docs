@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the number of elements in the collection.
 
-**Returns:** The number of elements in the collection.
+## Returns
+
+The number of elements in the collection.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.

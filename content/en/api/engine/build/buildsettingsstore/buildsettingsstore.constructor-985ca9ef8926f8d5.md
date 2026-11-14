@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Creates a store for one project's current build settings document.
 
+## Parameters
+
 **Parameter `path`:** The project-owned `Settings.Build.inno` path.
 
 **Parameter `serialization`:** The active engine serialization registry.
 
 **Parameter `defaultSettings`:** Canonical project defaults used while no document exists.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` is empty.
 

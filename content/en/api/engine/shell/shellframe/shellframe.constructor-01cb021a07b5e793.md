@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one validated shell frame.
 
+## Parameters
+
 **Parameter `frameIndex`:** Zero-based shell frame index.
 
 **Parameter `totalTime`:** Monotonic elapsed host time in seconds.

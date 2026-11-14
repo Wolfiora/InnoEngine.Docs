@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a deadline that starts with the first retirement attempt.
 
+## Parameters
+
 **Parameter `owner`:** A diagnostic name identifying the retained resource owner.
 
 **Parameter `timeout`:** The positive maximum drain duration; omitted values use thirty seconds.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The owner name is empty or the timeout is not positive.

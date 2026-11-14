@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Requires an explicit selection before a component can build or start a native tool.
 
-**Returns:** The already frozen tool selection without performing discovery.
+## Returns
+
+The already frozen tool selection without performing discovery.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Composition has not resolved a toolchain.

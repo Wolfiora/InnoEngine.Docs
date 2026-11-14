@@ -12,10 +12,14 @@ apiScope: Editor
 
 Creates a GameObject, optionally parents it, and records only the new subtree state.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene that will own the object.
 
 **Parameter `parent`:** The optional parent transform.
 
 **Parameter `historyName`:** The user-facing history entry name.
 
-**Returns:** The newly created GameObject.
+## Returns
+
+The newly created GameObject.

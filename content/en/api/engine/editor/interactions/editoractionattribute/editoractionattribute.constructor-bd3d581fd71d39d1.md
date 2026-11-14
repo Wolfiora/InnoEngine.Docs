@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an action registration available from every area.
 
+## Parameters
+
 **Parameter `action`:** The stable semantic action name.
 
 **Parameter `priority`:** The tie-breaking priority used after target specificity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

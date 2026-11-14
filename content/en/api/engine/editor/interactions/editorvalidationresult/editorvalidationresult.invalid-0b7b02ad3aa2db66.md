@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a failed validation result with a user-facing diagnostic.
 
+## Parameters
+
 **Parameter `message`:** The diagnostic that explains why the operation cannot proceed.
 
-**Returns:** An invalid result containing the supplied diagnostic.
+## Returns
+
+An invalid result containing the supplied diagnostic.

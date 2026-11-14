@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Converts this value to its euler angles xyzdegrees representation.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

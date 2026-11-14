@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Calculates the inverse rotation represented by the supplied quaternion.
 
+## Parameters
+
 **Parameter `q`:** The q consumed by inverse; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

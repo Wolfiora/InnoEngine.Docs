@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Moves a loaded scene to a hierarchy index without changing the active scene.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to move.
 
 **Parameter `sceneIndex`:** The requested zero-based hierarchy index.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the scene is not loaded by this world.

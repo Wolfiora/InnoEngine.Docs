@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Establishes an immutable artifact's ownership once, or confirms its unchanged registration without rewriting it.
 
+## Parameters
+
 **Parameter `directory`:** The completed artifact within this publisher's exact boundary.
 
 **Parameter `leasePath`:** The persistent artifact lease held by the caller alongside this publisher's activity lease.
@@ -24,6 +26,8 @@ Establishes an immutable artifact's ownership once, or confirms its unchanged re
 ## Remarks
 
 This confirms ownership, not content integrity. The producer must verify the immutable payload itself. Existing registration age is retained; use an active lease or a current generation dependency to protect consumers. This operation neither selects a current root nor records a new use time.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** This publisher does not own immutable artifacts.
 

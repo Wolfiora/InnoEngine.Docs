@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a setting record.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identity.
 
 **Parameter `stableTypeId`:** Stable settings type identity.

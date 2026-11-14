@@ -12,10 +12,14 @@ apiScope: Editor
 
 Resolves a persistent identity through one explicitly selected Editor identity domain.
 
+## Parameters
+
 **Parameter `domainId`:** Identity domain that owns the object and any replacement generation.
 
 **Parameter `persistentId`:** Stable object identity to resolve inside that domain.
 
 **Parameter `target`:** Receives the current live object, or `null` when the domain or object is unavailable.
 
-**Returns:** `true` when the stable identity resolves in the requested domain.
+## Returns
+
+`true` when the stable identity resolves in the requested domain.

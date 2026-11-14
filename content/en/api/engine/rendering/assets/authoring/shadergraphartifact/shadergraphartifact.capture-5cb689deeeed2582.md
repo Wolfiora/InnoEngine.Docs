@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes an authored graph and its target-expanded function dependencies without publishing an asset.
 
+## Parameters
+
 **Parameter `graph`:** Detached authoring document, including incomplete source records.
 
 **Parameter `types`:** Current leased authoring generation.
@@ -25,4 +27,6 @@ Freezes an authored graph and its target-expanded function dependencies without 
 
 **Parameter `readGraph`:** Reads an authored Shader graph used as a reusable node, when the graph contains one.
 
-**Returns:** Native immutable authoring artifact bytes usable by import or isolated preview compilation.
+## Returns
+
+Native immutable authoring artifact bytes usable by import or isolated preview compilation.

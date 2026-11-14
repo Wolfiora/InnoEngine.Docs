@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Updates the open draft through shared History without saving or publishing a runtime asset.
 
+## Parameters
+
 **Parameter `assetId`:** Open asset identity.
 
 **Parameter `candidate`:** Detached edited asset.

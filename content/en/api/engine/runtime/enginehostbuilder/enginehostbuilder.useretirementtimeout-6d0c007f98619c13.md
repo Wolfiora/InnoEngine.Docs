@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Sets the maximum owner-thread drain duration before retirement faults the host.
 
+## Parameters
+
 **Parameter `timeout`:** A positive deadline shared by failed startup, session stop and host shutdown.
 
-**Returns:** This builder for fluent configuration.
+## Returns
+
+This builder for fluent configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The timeout is not positive.

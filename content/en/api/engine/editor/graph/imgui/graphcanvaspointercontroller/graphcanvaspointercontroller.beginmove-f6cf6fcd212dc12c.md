@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Starts movement for explicit node IDs, supporting domain-owned group-header composition.
 
+## Parameters
+
 **Parameter `layout`:** The neutral snapshot supplying initial positions.
 
 **Parameter `nodes`:** Selected stable graph identities; absent nodes remain selected but are not moved.

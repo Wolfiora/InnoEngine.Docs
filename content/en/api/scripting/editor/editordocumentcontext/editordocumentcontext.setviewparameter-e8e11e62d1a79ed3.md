@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds or replaces one stable scalar or JSON-formatted view parameter.
 
+## Parameters
+
 **Parameter `key`:** Stable provider-local parameter name.
 
 **Parameter `value`:** Persistent scalar or JSON-formatted value.

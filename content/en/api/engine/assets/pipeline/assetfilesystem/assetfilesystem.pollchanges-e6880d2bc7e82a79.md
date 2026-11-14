@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Polls changes and reports whether watcher recovery requires a full rescan.
 
+## Parameters
+
 **Parameter `requiresFullRescan`:** Whether the watcher reported an unreliable event stream.
 
-**Returns:** The changes observed since the previous poll.
+## Returns
+
+The changes observed since the previous poll.

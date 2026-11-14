@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Closes every successfully opened frame scope in reverse dependency order.
 
+## Parameters
+
 **Parameter `frame`:** The frame being closed.

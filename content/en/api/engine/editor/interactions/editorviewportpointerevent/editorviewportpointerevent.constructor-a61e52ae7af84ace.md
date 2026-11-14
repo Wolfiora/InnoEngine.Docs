@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one viewport pointer sample.
 
+## Parameters
+
 **Parameter `pointerId`:** Platform pointer identity.
 
 **Parameter `phase`:** Gesture lifecycle phase.

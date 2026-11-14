@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Restores serialized properties to the existing asset object.
 
+## Parameters
+
 **Parameter `stableTypeId`:** The stable type id consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `propertyData`:** The property data consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `target`:** The existing target that receives the validated result.
+
+## Type parameters
 
 **Type parameter `TValue`:** Serialized asset object type receiving restored properties.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Clips subsequent controls and drawing to a screen rectangle.
 
+## Parameters
+
 **Parameter `minimum`:** The inclusive lower bound or upper-left corner.
 
 **Parameter `maximum`:** The inclusive upper bound or lower-right corner.

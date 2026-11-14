@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets a 32-bit signed integer property, or a fallback when the property is absent.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `defaultValue`:** The value returned when the property is absent.
 
-**Returns:** The stored integer or `defaultValue`.
+## Returns
+
+The stored integer or `defaultValue`.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Freezes a complete owner-produced property value.
 
+## Parameters
+
 **Parameter `stableTypeId`:** Persistent identity of the exact serialized settings type.
 
 **Parameter `data`:** Native property payload, copied before returning.

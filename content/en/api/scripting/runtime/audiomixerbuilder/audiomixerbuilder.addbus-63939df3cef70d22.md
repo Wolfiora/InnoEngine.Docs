@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Adds one semantic bus to the graph.
 
+## Parameters
+
 **Parameter `id`:** Stable bus identifier.
 
 **Parameter `parent`:** Parent bus identifier.
@@ -19,5 +21,7 @@ Adds one semantic bus to the graph.
 **Parameter `volume`:** Initial non-negative linear gain.
 
 **Parameter `muted`:** Whether output is initially silenced.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the bus identifier is invalid or duplicated.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Registers only explicitly recorded ownership, without discovering artifacts by extension or directory age.
 
+## Parameters
+
 **Parameter `id`:** The unique publisher registration identity.
 
-**Returns:** Borrowed inventory callbacks for this publisher's lifetime.
+## Returns
+
+Borrowed inventory callbacks for this publisher's lifetime.

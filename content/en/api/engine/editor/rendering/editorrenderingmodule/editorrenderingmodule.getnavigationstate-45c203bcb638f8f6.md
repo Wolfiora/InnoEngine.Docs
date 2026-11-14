@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the host-owned neutral navigation state for one stable Editor viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
-**Returns:** The reusable navigation state owned by the Editor host.
+## Returns
+
+The reusable navigation state owned by the Editor host.

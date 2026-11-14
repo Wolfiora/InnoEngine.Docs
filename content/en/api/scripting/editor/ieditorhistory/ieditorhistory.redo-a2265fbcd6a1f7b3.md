@@ -12,4 +12,6 @@ apiScope: Editor
 
 Attempts to reapply the newest reverted operation.
 
-**Returns:** The transition result. A state-preserving failure remains available for retry.
+## Returns
+
+The transition result. A state-preserving failure remains available for retry.

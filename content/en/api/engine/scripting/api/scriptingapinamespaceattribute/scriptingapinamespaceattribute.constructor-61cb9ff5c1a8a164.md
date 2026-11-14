@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a script API namespace mapping.
 
+## Parameters
+
 **Parameter `name`:** The stable script API namespace, such as `InnoEngine.Scene`.
 
 **Parameter `implementationNamespace`:** The CLR namespace containing exported runtime types.

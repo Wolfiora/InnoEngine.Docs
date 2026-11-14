@@ -12,6 +12,10 @@ apiScope: Editor
 
 Captures a full immutable source type as reload-safe authoring data.
 
+## Parameters
+
 **Parameter `type`:** Atomic, aggregate or storage type to capture.
 
-**Returns:** A detached descriptor whose reconstructed type has the same complete interface.
+## Returns
+
+A detached descriptor whose reconstructed type has the same complete interface.

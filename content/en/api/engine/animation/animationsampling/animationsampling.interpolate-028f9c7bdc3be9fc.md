@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Interpolates compatible values, normalizing quaternion output.
 
+## Parameters
+
 **Parameter `left`:** The initial value.
 
 **Parameter `right`:** The final value of the same kind.
 
 **Parameter `amount`:** The interpolation fraction, clamped to zero through one.
 
-**Returns:** The interpolated value.
+## Returns
+
+The interpolated value.

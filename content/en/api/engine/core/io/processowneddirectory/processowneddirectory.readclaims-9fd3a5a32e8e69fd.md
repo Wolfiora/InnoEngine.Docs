@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Reads only current explicit claims, without inferring ownership from arbitrary directory names.
 
+## Parameters
+
 **Parameter `root`:** The producer-controlled absolute root.
 
 **Parameter `cancellationToken`:** Cancels claim inspection.
 
-**Returns:** Existing directories with exact lease paths and conservative combined owner states.
+## Returns
+
+Existing directories with exact lease paths and conservative combined owner states.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** A claim cannot be read or its directory escapes the producer boundary.
 

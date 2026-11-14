@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates an icon declaration using a glyph from the Editor icon catalog.
 
+## Parameters
+
 **Parameter `assetType`:** The imported asset type represented by the icon.
 
 **Parameter `icon`:** The Editor icon glyph to render.
@@ -19,6 +21,8 @@ Creates an icon declaration using a glyph from the Editor icon catalog.
 **Parameter `useForChildren`:** Whether the declaration may also represent derived asset types.
 
 **Parameter `priority`:** The tie-breaking priority after exactness and inheritance distance.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assetType` is `null`.
 

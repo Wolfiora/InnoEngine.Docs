@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Reads a single extension attribute without requiring runtime reflection.
 
+## Type parameters
+
 **Type parameter `TAttribute`:** The attribute contract requested by the caller.
+
+## Parameters
 
 **Parameter `type`:** A declaration in this snapshot.
 
 **Parameter `inherit`:** Whether effective inherited attributes participate.
 
-**Returns:** The matching attribute, or null when absent; duplicate singleton attributes throw.
+## Returns
+
+The matching attribute, or null when absent; duplicate singleton attributes throw.

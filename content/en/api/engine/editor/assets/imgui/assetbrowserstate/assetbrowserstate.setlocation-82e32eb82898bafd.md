@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Changes the displayed source root and its isolated navigation directory.
 
+## Parameters
+
 **Parameter `targetRoot`:** The navigation root that owns the requested directory.
 
 **Parameter `directory`:** The isolated source-relative directory; empty selects the root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The directory belongs to a different source root.

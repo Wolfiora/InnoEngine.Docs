@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks the entire source selection before a batch mutation, including extension validation and read-only ownership.
 
+## Parameters
+
 **Parameter `editor`:** The immediate Editor context.
 
 **Parameter `targets`:** Fresh source entries in selection order.
 
-**Returns:** The first rejection, or a valid result when every source can be deleted.
+## Returns
+
+The first rejection, or a valid result when every source can be deleted.

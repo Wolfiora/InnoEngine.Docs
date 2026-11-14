@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a vector from explicit component values.
 
+## Parameters
+
 **Parameter `x`:** The horizontal or first component.
 
 **Parameter `y`:** The vertical or second component.

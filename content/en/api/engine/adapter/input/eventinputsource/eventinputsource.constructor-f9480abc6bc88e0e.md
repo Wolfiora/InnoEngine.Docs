@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an input source restricted to one window, or to all windows when the identifier is zero.
 
+## Parameters
+
 **Parameter `windowId`:** The platform window identifier accepted by this source; zero accepts events from every window.

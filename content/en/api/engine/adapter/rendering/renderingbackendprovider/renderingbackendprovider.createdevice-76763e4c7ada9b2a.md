@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a caller-owned device using backend-neutral surface options.
 
+## Parameters
+
 **Parameter `options`:** Validated surface and device creation options.
 
-**Returns:** A new device owned by the caller.
+## Returns
+
+A new device owned by the caller.

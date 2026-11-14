@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Decodes and validates one compact audio runtime header.
 
+## Parameters
+
 **Parameter `payload`:** Complete runtime header bytes.
 
-**Returns:** Valid imported audio metadata.
+## Returns
+
+Valid imported audio metadata.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the header is truncated, corrupt, or semantically invalid.

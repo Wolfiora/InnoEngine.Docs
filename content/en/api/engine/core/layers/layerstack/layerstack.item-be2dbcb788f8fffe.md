@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the layer at the supplied stack position.
 
+## Parameters
+
 **Parameter `index`:** The zero-based stack position.
 
-**Returns:** The attached layer at the requested position.
+## Returns
+
+The attached layer at the requested position.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `index` is outside the current stack.

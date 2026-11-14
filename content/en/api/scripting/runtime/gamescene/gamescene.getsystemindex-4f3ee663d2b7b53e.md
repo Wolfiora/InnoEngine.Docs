@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets the display index of a registered system.
 
+## Parameters
+
 **Parameter `system`:** Registered system to locate.
 
-**Returns:** The zero-based display index.
+## Returns
+
+The zero-based display index.

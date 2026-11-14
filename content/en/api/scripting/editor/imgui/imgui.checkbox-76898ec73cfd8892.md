@@ -12,8 +12,12 @@ apiScope: Editor
 
 Draws and edits a Boolean value.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
-**Returns:** `true` when the value changes.
-
 **Parameter `value`:** The checked state, updated when the user toggles the control.
+
+## Returns
+
+`true` when the value changes.

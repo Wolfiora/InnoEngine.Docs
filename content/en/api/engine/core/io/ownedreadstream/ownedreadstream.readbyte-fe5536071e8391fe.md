@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream.
 
+## Exceptions
+
 **Exception `T:System.NotSupportedException`:** The stream does not support reading.
 
 **Exception `T:System.ObjectDisposedException`:** Methods were called after the stream was closed.
 
-**Returns:** The unsigned byte cast to an `T:System.Int32`, or -1 if at the end of the stream.
+## Returns
+
+The unsigned byte cast to an `T:System.Int32`, or -1 if at the end of the stream.

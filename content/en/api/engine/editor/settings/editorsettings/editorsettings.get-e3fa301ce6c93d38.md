@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads an isolated effective object from one complete Settings path.
 
+## Parameters
+
 **Parameter `path`:** The slash-delimited Settings field path.
 
-**Returns:** The stored object, or an isolated copy of the field's default object.
+## Returns
+
+The stored object, or an isolated copy of the field's default object.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` is invalid, missing, or describes a page.

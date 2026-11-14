@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a text asset with content and an optional language hint.
 
+## Parameters
+
 **Parameter `content`:** Decoded text content.
 
 **Parameter `languageHint`:** Language or format hint.

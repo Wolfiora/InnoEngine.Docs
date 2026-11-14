@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Calculates the signed angle in radians from one value to another.
 
+## Parameters
+
 **Parameter `from`:** The starting value used by the operation.
 
 **Parameter `to`:** The destination value used by the operation.
 
 **Parameter `axis`:** The axis consumed by signed angle; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

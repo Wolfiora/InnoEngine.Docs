@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reads the canonical Shader candidate for an isolated Material preview without modifying Material values.
 
+## Parameters
+
 **Parameter `shader`:** Current owner Shader reference.
 
 **Parameter `variant`:** Exact Material keyword selection.
 
-**Returns:** Compilation status and immutable last-good artifact when available.
+## Returns
+
+Compilation status and immutable last-good artifact when available.

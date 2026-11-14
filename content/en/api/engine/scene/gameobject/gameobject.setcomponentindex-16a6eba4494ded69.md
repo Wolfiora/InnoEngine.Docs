@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Moves an attached component to a requested attachment index. The mandatory Transform participates in ordering but remains non-removable.
 
+## Parameters
+
 **Parameter `component`:** Attached component to move.
 
 **Parameter `componentIndex`:** Requested zero-based attachment index.

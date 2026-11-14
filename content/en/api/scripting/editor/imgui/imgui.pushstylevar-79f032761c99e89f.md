@@ -12,6 +12,8 @@ apiScope: Editor
 
 Pushes one two-component style override.
 
+## Parameters
+
 **Parameter `style`:** The style variable.
 
 **Parameter `value`:** The vector value.

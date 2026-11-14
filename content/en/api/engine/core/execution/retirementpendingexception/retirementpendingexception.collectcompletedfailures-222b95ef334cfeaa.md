@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Retains ordinary failure branches across pending retries without recording transient pending signals as completed work.
 
+## Parameters
+
 **Parameter `exception`:** The original exception tree reported by a retirement attempt.
 
 **Parameter `failures`:** The owner's failure collection; existing exception instances are not added twice.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The exception or collection is null.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable runtime content summary with its own frozen source inventory.
 
+## Parameters
+
 **Parameter `sources`:** Source identities represented by the deployed catalog; their values are copied during construction.
 
 **Parameter `assetCount`:** Number of runtime-scoped assets in the deployed catalog.
@@ -18,5 +20,7 @@ Creates an immutable runtime content summary with its own frozen source inventor
 **Parameter `artifactBundleCount`:** Number of unique content-addressed bundles.
 
 **Parameter `totalBytes`:** Total bytes copied into the runtime content root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source inventory is absent.

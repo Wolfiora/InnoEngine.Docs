@@ -11,16 +11,20 @@ apiSurface: source-clr
 
 Writes one formatted entry with source information captured from the caller.
 
+## Parameters
+
 **Parameter `level`:** The severity assigned to the entry.
 
 **Parameter `message`:** The composite format string or final message text.
 
 **Parameter `arguments`:** Optional composite-format arguments.
 
-**Exception `T:System.ArgumentException`:** Thrown when `message` is empty.
-
-**Exception `T:System.ObjectDisposedException`:** Thrown after the owning router has been disposed.
-
 **Parameter `filePath`:** Source file supplied by the caller information attribute.
 
 **Parameter `lineNumber`:** Source line supplied by the caller information attribute.
+
+## Exceptions
+
+**Exception `T:System.ArgumentException`:** Thrown when `message` is empty.
+
+**Exception `T:System.ObjectDisposedException`:** Thrown after the owning router has been disposed.

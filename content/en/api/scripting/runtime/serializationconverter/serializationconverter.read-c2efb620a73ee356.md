@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Reads and creates a value from the current structured object.
 
+## Parameters
+
 **Parameter `reader`:** The operation-scoped reader.
 
-**Returns:** The restored value.
+## Returns
+
+The restored value.

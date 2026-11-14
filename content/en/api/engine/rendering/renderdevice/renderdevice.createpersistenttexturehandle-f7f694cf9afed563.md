@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a persistent texture identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** The backend-owned non-zero texture identity.
 
 **Parameter `generation`:** The device generation that owns the texture.
 
-**Returns:** An opaque texture handle suitable for the public render-device contract.
+## Returns
+
+An opaque texture handle suitable for the public render-device contract.

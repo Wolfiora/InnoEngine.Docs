@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a read-only runtime asset database from one verified immutable content store.
 
+## Parameters
+
 **Parameter `content`:** The borrowed content store; its owner closes it after this database and all outstanding reads retire.
 
 **Parameter `serialization`:** The immutable converter generation pinned by the owning runtime session.
@@ -22,6 +24,8 @@ Creates a read-only runtime asset database from one verified immutable content s
 **Parameter `residencyBudgetBytes`:** Maximum unpinned runtime payload bytes retained after lease release.
 
 **Parameter `preparationBudgetBytes`:** Maximum encoded payload bytes reserved by unfinished cold-load closures, independently of residency.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `serialization` is null.
 

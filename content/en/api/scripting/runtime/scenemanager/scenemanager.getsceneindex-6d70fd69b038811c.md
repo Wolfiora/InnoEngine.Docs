@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets the hierarchy index of a scene loaded by the current runtime session.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to locate.
 
-**Returns:** The zero-based hierarchy index.
+## Returns
+
+The zero-based hierarchy index.

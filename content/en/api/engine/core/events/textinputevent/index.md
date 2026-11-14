@@ -14,6 +14,8 @@ aliases: []
 
 Raised when the platform commits UTF-8 text through keyboard, IME, or virtual-keyboard input.
 
+## Parameters
+
 **Parameter `windowId`:** The source window identifier.
 
 **Parameter `text`:** The committed Unicode text.

@@ -15,4 +15,6 @@ Gets all defined key names as a lazy enumerable.
 
 Enumeration is fail-fast and throws if the store is modified during iteration.
 
-**Returns:** Lazy enumerable of key names.
+## Returns
+
+Lazy enumerable of key names.

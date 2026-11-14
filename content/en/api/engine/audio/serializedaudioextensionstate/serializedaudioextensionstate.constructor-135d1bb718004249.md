@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates neutral extension state.
 
+## Parameters
+
 **Parameter `stableTypeId`:** Stable settings type identity, or empty when no typed settings exist.
 
 **Parameter `propertyData`:** Neutral serialized property bytes.

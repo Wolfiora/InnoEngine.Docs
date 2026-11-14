@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Interpolates linearly between two values without clamping the interpolation factor.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
 **Parameter `t`:** The interpolation factor, where zero selects the first endpoint and one selects the second.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

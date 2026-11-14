@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Includes a dependency already captured inside a neutral nested property payload.
 
+## Parameters
+
 **Parameter `dependency`:** Stable asset/type identity and optional location hint.

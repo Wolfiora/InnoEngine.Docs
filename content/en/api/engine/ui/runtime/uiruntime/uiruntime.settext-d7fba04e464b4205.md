@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Updates the text state and applies the resulting invariants.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by set text; ownership remains with the caller unless explicitly stated otherwise.
@@ -19,4 +21,6 @@ Updates the text state and applies the resulting invariants.
 
 **Parameter `text`:** The text text validated by the set text operation.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

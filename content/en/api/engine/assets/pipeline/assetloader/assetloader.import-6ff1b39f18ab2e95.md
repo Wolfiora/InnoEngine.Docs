@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Imports one isolated source file into metadata and a runtime artifact.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
-**Returns:** `true` when an importer handled the source.
+## Returns
+
+`true` when an importer handled the source.

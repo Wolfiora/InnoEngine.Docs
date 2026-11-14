@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates and imports a source using a discovered template and records the committed change.
 
+## Parameters
+
 **Parameter `directory`:** The source-relative writable destination directory.
 
 **Parameter `templateId`:** The stable identity of a discovered creation template.
 
-**Returns:** The committed source identity, or a validation result describing why the operation is unavailable.
+## Returns
+
+The committed source identity, or a validation result describing why the operation is unavailable.

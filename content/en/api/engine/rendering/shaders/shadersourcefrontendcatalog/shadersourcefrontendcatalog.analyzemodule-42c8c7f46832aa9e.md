@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Analyzes all selected implementations and variants against one immutable provider generation.
 
+## Parameters
+
 **Parameter `implementations`:** Explicit implementation/configuration candidates; no native-code translation is attempted.
 
-**Returns:** Frozen source inputs and a common interface, or recoverable missing/interface diagnostics.
+## Returns
+
+Frozen source inputs and a common interface, or recoverable missing/interface diagnostics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The candidate list is empty or contains null or duplicate implementation IDs.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an open, stable backend identity without registering a backend implementation.
 
+## Parameters
+
 **Parameter `value`:** A portable case-sensitive identifier used in target artifact paths.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identifier is empty or contains nonportable characters.

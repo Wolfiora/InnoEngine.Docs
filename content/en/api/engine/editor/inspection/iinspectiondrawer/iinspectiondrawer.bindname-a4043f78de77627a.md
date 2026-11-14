@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds the target name displayed by the Inspector target header.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.
 
-**Returns:** The current target name and a callback that accepts a requested replacement name, or `null` for the callback when the name is read-only.
+## Returns
+
+The current target name and a callback that accepts a requested replacement name, or `null` for the callback when the name is read-only.

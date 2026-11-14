@@ -12,9 +12,15 @@ apiScope: Runtime
 
 Adds a complete property revision only when current metadata proves context-free default capture without converters.
 
+## Parameters
+
 **Parameter `source`:** The current serializable identity object.
 
-**Returns:** True for certified property state; false invalidates the complete key and requires normal capture.
+## Returns
+
+True for certified property state; false invalidates the complete key and requires normal capture.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Source is null.
 

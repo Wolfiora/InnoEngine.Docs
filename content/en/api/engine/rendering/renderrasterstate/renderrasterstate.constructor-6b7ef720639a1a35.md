@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a complete immutable raster configuration without relying on init-only setters.
 
+## Parameters
+
 **Parameter `cull`:** Face culling mode.
 
 **Parameter `frontFace`:** Winding order interpreted as the front face.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a candidate result from adapter-owned generation, compilation and diagnostics.
 
+## Parameters
+
 **Parameter `bytes`:** Compiled binary, or empty after failure.
 
 **Parameter `bindings`:** Logical-to-native resource layout used by this exact binary.

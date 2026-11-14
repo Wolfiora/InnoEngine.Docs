@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Removes the component from its scene owner and records a reversible serialized history change.
 
+## Parameters
+
 **Parameter `component`:** The attached non-Transform component to remove.
 
 **Parameter `historyName`:** An optional user-facing history entry name.
 
-**Returns:** `true` when the component was removed and recorded.
+## Returns
+
+`true` when the component was removed and recorded.

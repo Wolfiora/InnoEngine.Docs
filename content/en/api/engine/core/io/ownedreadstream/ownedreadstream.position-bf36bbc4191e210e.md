@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 When overridden in a derived class, gets or sets the position within the current stream.
 
+## Exceptions
+
 **Exception `T:System.IO.IOException`:** An I/O error occurs.
 
 **Exception `T:System.NotSupportedException`:** The stream does not support seeking.
 
 **Exception `T:System.ObjectDisposedException`:** Methods were called after the stream was closed.
 
-**Returns:** The current position within the stream.
+## Returns
+
+The current position within the stream.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets a table row or cell background through the current table scope.
 
+## Parameters
+
 **Parameter `target`:** The table background role.
 
 **Parameter `color`:** The packed RGBA color or semantic style slot.

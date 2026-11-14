@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Attaches a provider's immutable tool selection while preserving this operation's input ownership.
 
+## Parameters
+
 **Parameter `toolchain`:** The complete selection resolved for the requested target.
 
-**Returns:** A scoped context sharing input snapshots and statistics with this operation.
+## Returns
+
+A scoped context sharing input snapshots and statistics with this operation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The selection is null.

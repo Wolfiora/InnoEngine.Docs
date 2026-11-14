@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Copies and sorts a complete payload inventory.
 
+## Parameters
+
 **Parameter `entries`:** Immutable payload descriptions; ownership of the input enumeration remains with the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An entry is null, repeats a folded key, or uses the reserved index identity.

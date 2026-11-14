@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the current effective build defaults as a native document.
 
-**Returns:** A newly owned current-format document payload.
+## Returns
+
+A newly owned current-format document payload.

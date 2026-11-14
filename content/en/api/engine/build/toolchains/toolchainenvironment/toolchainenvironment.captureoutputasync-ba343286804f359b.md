@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a tool's standard output while forwarding errors and preserving the common process lifecycle.
 
+## Parameters
+
 **Parameter `fileName`:** The executable to launch.
 
 **Parameter `arguments`:** Structured arguments passed without shell interpretation.
@@ -21,7 +23,11 @@ Captures a tool's standard output while forwarding errors and preserving the com
 
 **Parameter `environment`:** Optional child-only environment variables. Null values remove inherited variables; empty values remain explicitly empty.
 
-**Returns:** The complete standard output after successful exit. Unsuccessful exits retain captured output in the exception.
+## Returns
+
+The complete standard output after successful exit. Unsuccessful exits retain captured output in the exception.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The tool fails to start or exits unsuccessfully.
 

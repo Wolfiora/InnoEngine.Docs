@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a detached copy of this stack.
 
-**Returns:** An independent layer stack.
+## Returns
+
+An independent layer stack.

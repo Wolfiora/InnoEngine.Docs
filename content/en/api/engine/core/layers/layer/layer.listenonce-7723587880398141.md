@@ -11,12 +11,20 @@ apiSurface: source-clr
 
 Subscribes once to an event for the lifetime of this layer attachment.
 
+## Type parameters
+
 **Type parameter `TEvent`:** The event type handled by the callback.
+
+## Parameters
 
 **Parameter `handler`:** The callback invoked at most once when the event reaches this layer.
 
 **Parameter `priority`:** The listener priority inside this layer. Higher values run earlier.
 
-**Returns:** A token that can cancel the one-shot subscription before it runs.
+## Returns
+
+A token that can cancel the one-shot subscription before it runs.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the layer is not currently attached to a stack.

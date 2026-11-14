@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a scalar material value.
 
+## Parameters
+
 **Parameter `value`:** Scalar value.
 
-**Returns:** A scalar material value.
+## Returns
+
+A scalar material value.

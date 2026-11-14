@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the current window size in UI units.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

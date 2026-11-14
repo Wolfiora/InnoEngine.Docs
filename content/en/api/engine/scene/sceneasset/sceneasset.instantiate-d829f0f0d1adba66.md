@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Creates an unloaded runtime scene and acquires its hard asset dependencies.
 
-**Returns:** A newly allocated scene.
+## Returns
+
+A newly allocated scene.
+
+## Parameters
 
 **Parameter `serialization`:** The serialization registry that owns the active scene converter generation.
 

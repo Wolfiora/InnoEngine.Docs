@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a visible neutral node and its ports, borrowing optional content only for this call.
 
+## Parameters
+
 **Parameter `draw`:** The current window's frame-local drawing borrow; it is neither retained nor released by this call.
 
 **Parameter `node`:** The immutable geometric and textual node input.
@@ -23,7 +25,11 @@ Draws a visible neutral node and its ports, borrowing optional content only for 
 
 **Parameter `previewPosition`:** An uncommitted movement position, or null to draw the document position.
 
-**Returns:** True when the node intersects the canvas and effective window clip and was submitted; false when culled.
+## Returns
+
+True when the node intersects the canvas and effective window clip and was submitted; false when culled.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The node is null.
 

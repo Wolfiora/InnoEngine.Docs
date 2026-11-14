@@ -12,6 +12,10 @@ apiScope: Editor
 
 Executes a delivered drop for the strongly typed source and target.
 
+## Parameters
+
 **Parameter `context`:** The typed source, target, surface, and requested placement.
 
-**Returns:** The observable selection and reveal result of the operation.
+## Returns
+
+The observable selection and reveal result of the operation.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Normalizes a native artifact name and appends its build configuration.
 
+## Parameters
+
 **Parameter `fileName`:** The source artifact file name.
 
 **Parameter `config`:** The normalized configuration appended to the artifact stem.
 
-**Returns:** The deterministic output file name.
+## Returns
+
+The deterministic output file name.

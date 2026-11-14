@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets immediate children of an indexed directory.
 
+## Parameters
+
 **Parameter `parent`:** The isolated parent directory path.
 
-**Returns:** The immediate child entries.
+## Returns
+
+The immediate child entries.

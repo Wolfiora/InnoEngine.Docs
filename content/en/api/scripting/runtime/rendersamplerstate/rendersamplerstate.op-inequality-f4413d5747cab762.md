@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two sampler descriptions differ.
 
+## Parameters
+
 **Parameter `left`:** Left sampler description.
 
 **Parameter `right`:** Right sampler description.
 
-**Returns:** True when at least one filtering or addressing field differs.
+## Returns
+
+True when at least one filtering or addressing field differs.

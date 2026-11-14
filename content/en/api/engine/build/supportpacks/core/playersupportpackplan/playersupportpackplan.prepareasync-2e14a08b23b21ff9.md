@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Executes frozen inputs in publisher-owned staging without selecting tools again.
 
+## Parameters
+
 **Parameter `stagingDirectory`:** The isolated empty directory borrowed for this execution only.
 
 **Parameter `cancellationToken`:** Cancels execution and drains owned work before returning.
 
-**Returns:** Completion when the full closure is prepared; failures propagate without publishing.
+## Returns
+
+Completion when the full closure is prepared; failures propagate without publishing.

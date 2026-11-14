@@ -12,7 +12,11 @@ apiScope: Runtime
 
 Restores an attached component to the defaults defined by its optional Reset message.
 
+## Parameters
+
 **Parameter `component`:** GameComponent instance to reset.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `component` is `null`.
 

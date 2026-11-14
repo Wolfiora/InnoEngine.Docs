@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an artifact selection result.
 
+## Parameters
+
 **Parameter `artifact`:** Selected candidate or last-good artifact.
 
 **Parameter `candidateSucceeded`:** Whether the candidate replaced active state.

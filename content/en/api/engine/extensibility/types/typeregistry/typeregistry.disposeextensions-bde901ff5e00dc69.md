@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Retires distinct disposable extensions in reverse order, draining pending work before lower dependencies.
 
+## Parameters
+
 **Parameter `extensions`:** Instances whose ownership has ended; duplicate references are disposed once.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** One or more instances failed retirement after all remaining instances were attempted.
 

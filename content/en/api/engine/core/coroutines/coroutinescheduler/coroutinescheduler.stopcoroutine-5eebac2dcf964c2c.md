@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Requests stopping a coroutine by handle.
 
+## Parameters
+
 **Parameter `handle`:** Target coroutine handle.
 
-**Returns:** `true` if the handle is valid.
+## Returns
+
+`true` if the handle is valid.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a failed asset-operation validation result.
 
+## Parameters
+
 **Parameter `message`:** The user-facing diagnostic explaining why the operation was rejected.
 
-**Returns:** An invalid validation result containing the supplied diagnostic.
+## Returns
+
+An invalid validation result containing the supplied diagnostic.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Selects an explicit component configuration while borrowing this operation's frozen SDK and input state.
 
+## Parameters
+
 **Parameter `configuration`:** The debug or release configuration owned by the product step.
 
-**Returns:** A derived context with no inherited workspace or artifact identity from another configuration.
+## Returns
+
+A derived context with no inherited workspace or artifact identity from another configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The requested configuration is unsupported.

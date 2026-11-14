@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Queues an immutable entry under the configured worker or inline delivery policy.
 
+## Parameters
+
 **Parameter `entry`:** The entry to dispatch when it satisfies the current severity policy.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The bounded queue is full and the producer must apply backpressure.
 

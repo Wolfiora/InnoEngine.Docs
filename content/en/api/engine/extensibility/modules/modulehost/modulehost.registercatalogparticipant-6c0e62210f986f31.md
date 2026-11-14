@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Registers a transactional consumer of the assembly catalog and initializes it from the currently active generation.
 
+## Parameters
+
 **Parameter `participant`:** The participant that derives state from catalog snapshots.
 
-**Returns:** A registration that removes the participant when disposed.
+## Returns
+
+A registration that removes the participant when disposed.

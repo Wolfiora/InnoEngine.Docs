@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves one explicitly selected executable before it becomes a build input.
 
+## Parameters
+
 **Parameter `name`:** An executable path or a command name available on the current process PATH.
 
-**Returns:** The absolute executable path used for process execution and artifact identity.
+## Returns
+
+The absolute executable path used for process execution and artifact identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is empty.
 

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets source import dependencies that invalidate an asset artifact.
 
+## Parameters
+
 **Parameter `asset`:** The asset to query.
 
 **Parameter `recursive`:** Whether transitive source dependencies should be included.
 
-**Returns:** Canonical isolated source paths in stable order.
+## Returns
+
+Canonical isolated source paths in stable order.

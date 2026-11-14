@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Returns the first item by key or null if none exists.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** The key handle to query.
 
 **Parameter `value`:** The key value to look up.
 
-**Returns:** The first matching item or null.
+## Returns
+
+The first matching item or null.

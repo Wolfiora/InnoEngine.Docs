@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds this settings store to the current asynchronous script execution context.
 
-**Returns:** A strict last-in-first-out execution scope owned by the caller.
+## Returns
+
+A strict last-in-first-out execution scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown after this settings store has been disposed.

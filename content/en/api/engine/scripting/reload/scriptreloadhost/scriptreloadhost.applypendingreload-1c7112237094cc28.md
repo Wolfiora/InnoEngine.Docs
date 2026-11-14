@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Applies the latest compiled generation, or commits a Plugin-unavailability generation when changed Plugin code cannot produce a replacement, at a caller-controlled main-thread safe point.
 
-**Returns:** `true` when modules were replaced or retired; otherwise, `false`.
+## Returns
+
+`true` when modules were replaced or retired; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.

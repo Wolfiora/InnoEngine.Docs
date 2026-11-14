@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts a screen location back into graph coordinates.
 
+## Parameters
+
 **Parameter `point`:** The screen coordinate to project.
 
-**Returns:** The graph coordinate under the pointer.
+## Returns
+
+The graph coordinate under the pointer.

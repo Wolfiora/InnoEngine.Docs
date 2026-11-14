@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes an active module and starts cooperative unload when it is manager-owned.
 
+## Parameters
+
 **Parameter `module`:** The module consumed by unload; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated assembly unload monitor that represents the completed operation.
+## Returns
+
+The validated assembly unload monitor that represents the completed operation.

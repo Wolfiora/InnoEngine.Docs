@@ -12,13 +12,19 @@ apiScope: Editor
 
 Builds a real conditional: only the selected region executes, including its memory and source-call effects.
 
+## Parameters
+
 **Parameter `condition`:** Scalar Boolean visible in this region.
 
 **Parameter `whenTrue`:** Transient callback building the true region and its named outputs.
 
 **Parameter `whenFalse`:** Transient callback building the false region with exactly matching output names/types.
 
-**Returns:** Values merged into the enclosing scope; empty output maps represent effect-only branches.
+## Returns
+
+Values merged into the enclosing scope; empty output maps represent effect-only branches.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The condition or branch output contracts are incompatible.
 

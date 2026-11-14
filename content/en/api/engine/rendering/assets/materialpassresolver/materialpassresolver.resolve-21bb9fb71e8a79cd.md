@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves a role against an exact published shader contract rather than a possibly newer authoring asset.
 
+## Parameters
+
 **Parameter `definition`:** The immutable publication's detached material contract.
 
 **Parameter `techniqueId`:** Explicit material technique, or an invalid ID to select the first compatible technique.
@@ -21,6 +23,10 @@ Resolves a role against an exact published shader contract rather than a possibl
 
 **Parameter `capabilities`:** Current target capability snapshot.
 
-**Returns:** The matching technique and pass, or null when this publication has no compatible mapping.
+## Returns
+
+The matching technique and pass, or null when this publication has no compatible mapping.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A required contract or role identity is invalid.

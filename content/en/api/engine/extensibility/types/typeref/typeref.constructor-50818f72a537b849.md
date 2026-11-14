@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an unresolved type reference from its persistent identity.
 
+## Parameters
+
 **Parameter `stableId`:** The persistent type identity, or an empty value for an invalid reference.

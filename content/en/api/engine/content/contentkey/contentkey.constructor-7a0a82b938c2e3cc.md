@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates a logical key without interpreting it as a host filesystem path.
 
+## Parameters
+
 **Parameter `value`:** A nonempty relative key with no traversal, ambiguous segments, or platform-reserved names.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The key cannot be represented consistently by supported content sources.

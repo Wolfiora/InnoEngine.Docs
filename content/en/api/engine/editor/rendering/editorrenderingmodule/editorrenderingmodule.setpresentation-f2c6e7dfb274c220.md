@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets presentation preferences supplied to every contributor for one Editor viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
 **Parameter `presentation`:** Current host-owned presentation preferences.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Compares runtime destinations, including their identity domain.
 
+## Parameters
+
 **Parameter `other`:** The destination to compare.
 
-**Returns:** True when both values denote the same runtime destination or sampling policy.
+## Returns
+
+True when both values denote the same runtime destination or sampling policy.

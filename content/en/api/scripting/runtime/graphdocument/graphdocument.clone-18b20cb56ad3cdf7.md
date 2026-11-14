@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a deep neutral copy that shares no mutable node, edge, value, or metadata records.
 
-**Returns:** An independently mutable graph document with identical stable identifiers and order.
+## Returns
+
+An independently mutable graph document with identical stable identifiers and order.

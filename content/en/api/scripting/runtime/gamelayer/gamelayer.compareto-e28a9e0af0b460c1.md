@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Compares this layer with another layer by index.
 
-**Returns:** A signed value describing the relative index ordering.
+## Returns
+
+A signed value describing the relative index ordering.
+
+## Parameters
 
 **Parameter `other`:** The value to compare with this instance.

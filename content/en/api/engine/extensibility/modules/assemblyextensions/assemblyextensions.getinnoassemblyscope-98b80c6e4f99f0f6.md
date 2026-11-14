@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves the dependency scope declared by an assembly.
 
+## Parameters
+
 **Parameter `assembly`:** The assembly whose metadata should be inspected.
 
-**Returns:** The declared assembly scope.
+## Returns
+
+The declared assembly scope.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assembly` is `null`.
 

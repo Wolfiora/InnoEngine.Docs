@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Moves a source asset while preserving its persistent identity and generated metadata.
 
+## Parameters
+
 **Parameter `source`:** Existing isolated source path.
 
 **Parameter `target`:** New isolated source path.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** Thrown when the source does not exist.
 

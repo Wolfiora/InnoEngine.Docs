@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Destroys one UI context and all owned documents.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.

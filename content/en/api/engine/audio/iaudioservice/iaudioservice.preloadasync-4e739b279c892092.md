@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Prepares a clip and retains it in the decoded or streamed cache.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare.
 
 **Parameter `loadMode`:** Storage strategy override.
 
 **Parameter `cancellationToken`:** Cancellation token observed before the cache commit.
 
-**Returns:** An asynchronous operation that completes after the cache entry is ready.
+## Returns
+
+An asynchronous operation that completes after the cache entry is ready.

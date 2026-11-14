@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the current local cursor position.
 
-**Returns:** The local cursor position.
+## Returns
+
+The local cursor position.

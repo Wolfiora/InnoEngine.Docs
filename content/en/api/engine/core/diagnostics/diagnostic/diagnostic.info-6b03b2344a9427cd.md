@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Creates an informational diagnostic value without publishing it.
 
+## Parameters
+
 **Parameter `code`:** The stable producer-defined code, or an empty string when no code is available.
 
 **Parameter `message`:** The human-readable diagnostic message.
 
 **Parameter `location`:** The related source location, or `null` when unavailable.
 
-**Returns:** An immutable informational diagnostic that can be supplied to `M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,Inno.Core.Diagnostics.Diagnostic)`.
+## Returns
+
+An immutable informational diagnostic that can be supplied to `M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,Inno.Core.Diagnostics.Diagnostic)`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `message` is `null`.

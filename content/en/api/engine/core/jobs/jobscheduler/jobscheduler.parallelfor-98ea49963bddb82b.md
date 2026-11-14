@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Schedules a range as independent contiguous batches.
 
+## Parameters
+
 **Parameter `length`:** The exclusive upper bound of the complete range.
 
 **Parameter `batchSize`:** The maximum number of indices in one batch.
 
 **Parameter `body`:** The callback receiving each batch's inclusive start and exclusive end.
 
-**Returns:** A handle that completes after every batch.
+## Returns
+
+A handle that completes after every batch.

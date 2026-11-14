@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Attaches a depth or depth-stencil texture.
 
+## Parameters
+
 **Parameter `texture`:** Depth attachment texture.
 
 **Parameter `loadAction`:** Initial content behavior.
@@ -25,4 +27,6 @@ Attaches a depth or depth-stencil texture.
 
 **Parameter `arrayLayer`:** Attached texture-array layer.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

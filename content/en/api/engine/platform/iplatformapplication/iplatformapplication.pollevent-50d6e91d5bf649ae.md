@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Attempts to dequeue the next backend-neutral platform event.
 
+## Parameters
+
 **Parameter `evnt`:** The translated event when one is available; otherwise, `null`.
 
-**Returns:** `true` when an event was returned; otherwise, `false`.
+## Returns
+
+`true` when an event was returned; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when the platform application has already been disposed.

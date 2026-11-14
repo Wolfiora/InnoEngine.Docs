@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Resolves a generic construction through the deployment's linked or dynamic type mechanism.
 
+## Parameters
+
 **Parameter `definition`:** A generic declaration owned by the candidate generation.
 
 **Parameter `arguments`:** The complete ordered set of closed type arguments.
 
-**Returns:** The closed type, or null when its generic constraints reject these arguments.
+## Returns
+
+The closed type, or null when its generic constraints reject these arguments.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** A static deployment did not link the requested construction.
 

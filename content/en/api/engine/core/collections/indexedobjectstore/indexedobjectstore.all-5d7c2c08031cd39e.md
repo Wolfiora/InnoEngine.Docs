@@ -15,4 +15,6 @@ Returns all stored items as a stable snapshot.
 
 The returned list is detached from subsequent store mutations.
 
-**Returns:** A snapshot list of all stored items.
+## Returns
+
+A snapshot list of all stored items.

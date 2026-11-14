@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a resolved right-click menu when the current ImGui window's unoccupied background is clicked.
 
+## Parameters
+
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.
 
 **Parameter `interaction`:** The interaction area and directory target for the background operation.
 
-**Returns:** `true` while the background context popup is open and its items were drawn.
+## Returns
+
+`true` while the background context popup is open and its items were drawn.

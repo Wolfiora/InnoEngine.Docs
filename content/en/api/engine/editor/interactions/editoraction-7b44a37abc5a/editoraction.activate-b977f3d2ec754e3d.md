@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Activates this action for a target and cancels any operation it previously owned.
 
+## Parameters
+
 **Parameter `context`:** The contextual request that starts the operation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

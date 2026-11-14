@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures explicit owners and a target without discovering components or parsing a build project.
 
+## Parameters
+
 **Parameter `components`:** The component owners, each declaring one binding definition.
 
 **Parameter `targetId`:** The target identity selecting a declared configuration; host output uses the host definition.
@@ -22,5 +24,7 @@ Captures explicit owners and a target without discovering components or parsing 
 **Parameter `expectedFingerprints`:** Optional expected identities indexed by Native project; mismatches reject the request.
 
 **Parameter `componentOptions`:** Explicit component configurations keyed by native owner project, or null for component defaults.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A target, owner, output mode or expected identity is invalid or duplicated.

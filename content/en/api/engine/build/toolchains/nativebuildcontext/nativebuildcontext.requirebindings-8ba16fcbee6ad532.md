@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Requires the target binding generation prepared for an explicitly declared Native owner.
 
+## Parameters
+
 **Parameter `component`:** The component whose facade and managed binding share one generation.
 
-**Returns:** The immutable completed generation descriptor.
+## Returns
+
+The immutable completed generation descriptor.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The owner has no prepared generation in this operation.
 

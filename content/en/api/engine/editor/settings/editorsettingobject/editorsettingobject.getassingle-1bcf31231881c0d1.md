@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets a single-precision property, or a fallback when the property is absent.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `defaultValue`:** The value returned when the property is absent.
 
-**Returns:** The stored number or `defaultValue`.
+## Returns
+
+The stored number or `defaultValue`.

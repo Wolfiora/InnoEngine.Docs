@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates the complete pack identity and its single portable file name.
 
+## Parameters
+
 **Parameter `contentHash`:** The SHA-256 of the complete pack bytes.
 
 **Parameter `fileName`:** The name `content-{uppercase SHA-256}.pack` relative to the source.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The hash or file name does not identify one current-format pack.

@@ -12,10 +12,14 @@ apiScope: Editor
 
 Checks pointer containment in a screen rectangle with optional window clipping.
 
+## Parameters
+
 **Parameter `minimum`:** The inclusive lower bound or upper-left corner.
 
 **Parameter `maximum`:** The inclusive upper bound or lower-right corner.
 
 **Parameter `clip`:** Whether the current clipping rectangle participates.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

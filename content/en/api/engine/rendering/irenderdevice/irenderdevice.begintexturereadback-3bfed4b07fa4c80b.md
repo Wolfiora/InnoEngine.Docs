@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Begins an asynchronous readback of one complete persistent texture mip.
 
+## Parameters
+
 **Parameter `texture`:** Texture created with `F:Inno.Rendering.RenderTextureUsage.Readback`.
 
 **Parameter `mipLevel`:** Zero-based mip level.
 
-**Returns:** An opaque device-generation readback handle.
+## Returns
+
+An opaque device-generation readback handle.

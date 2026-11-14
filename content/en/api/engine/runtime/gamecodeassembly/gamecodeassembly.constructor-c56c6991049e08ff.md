@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates and freezes one logical assembly identity.
 
+## Parameters
+
 **Parameter `name`:** The exact simple assembly name.
 
 **Parameter `contentFingerprint`:** The lowercase SHA-256 fingerprint of the frozen compiler output.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The supplied code identity is malformed.

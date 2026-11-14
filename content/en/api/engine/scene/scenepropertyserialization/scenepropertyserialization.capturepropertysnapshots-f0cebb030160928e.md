@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures each persistent property independently while preserving scene-reference identities.
 
+## Parameters
+
 **Parameter `target`:** Live scene object whose properties should be captured.
 
 **Parameter `serialization`:** Registry owning the active converter generation.
 
 **Parameter `assets`:** Resolver used to preserve canonical asset references.
 
-**Returns:** Stable ordered property snapshots suitable for compact delta comparison.
+## Returns
+
+Stable ordered property snapshots suitable for compact delta comparison.

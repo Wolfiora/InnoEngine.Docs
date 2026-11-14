@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats the exact stable backend identity.
 
-**Returns:** The identity, or an empty string for an uninitialized value.
+## Returns
+
+The identity, or an empty string for an uninitialized value.

@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Selects one declared output while excluding CMake's compiler probes and other build configurations.
 
+## Parameters
+
 **Parameter `context`:** The selected configuration and target generator policy.
 
 **Parameter `buildDirectory`:** The component-owned CMake intermediate directory.
 
 **Parameter `filePattern`:** The component's exact basename or bounded filename pattern.
 
-**Returns:** The sole matching output, or an explicit failure for a missing or ambiguous result.
+## Returns
+
+The sole matching output, or an explicit failure for a missing or ambiguous result.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** The component did not produce exactly one expected output.

@@ -14,6 +14,8 @@ aliases: []
 
 Matches object-store items associated with one indexed key value.
 
+## Type parameters
+
 **Type parameter `T`:** The stored reference type.
 
 **Type parameter `TKey`:** The indexed key type.

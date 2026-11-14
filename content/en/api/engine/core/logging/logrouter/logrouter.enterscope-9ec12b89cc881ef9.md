@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds this router to the current asynchronous execution context.
 
-**Returns:** A strict last-in-first-out scope owned by the caller.
+## Returns
+
+A strict last-in-first-out scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this router has been disposed.

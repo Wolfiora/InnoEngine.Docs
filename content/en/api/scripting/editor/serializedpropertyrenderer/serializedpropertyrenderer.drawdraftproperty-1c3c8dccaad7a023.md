@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a detached serialized property with its attributes and a feature-owned draft transaction.
 
+## Parameters
+
 **Parameter `editorContext`:** Current Editor frame.
 
 **Parameter `stateOwner`:** Stable host-owned presentation state, containing no collectible objects.

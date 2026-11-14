@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a routed representation that shares global consumption with its source event.
 
+## Parameters
+
 **Parameter `source`:** The original event whose consumption lifetime remains authoritative.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source event is null.

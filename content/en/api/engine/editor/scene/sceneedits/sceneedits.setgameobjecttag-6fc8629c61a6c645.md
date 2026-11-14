@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Changes the tag of a live GameObject and records the two ordinal tag strings.
 
+## Parameters
+
 **Parameter `gameObject`:** The live GameObject whose tag should change.
 
 **Parameter `tag`:** The requested non-empty tag.
 
 **Parameter `historyName`:** The user-facing history entry name.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `gameObject` is `null`.
 

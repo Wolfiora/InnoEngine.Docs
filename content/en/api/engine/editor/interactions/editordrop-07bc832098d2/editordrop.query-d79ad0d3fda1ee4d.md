@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Evaluates whether the current managed source may be dropped on the supplied target.
 
+## Parameters
+
 **Parameter `context`:** The untyped source, target, surface, and requested placement.
 
-**Returns:** The compatibility state and standard target visual.
+## Returns
+
+The compatibility state and standard target visual.

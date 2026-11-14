@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Loads a canonical asset by persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset type.
+
+## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity.
 
-**Returns:** The canonical asset instance.
+## Returns
+
+The canonical asset instance.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no compatible asset can be loaded.

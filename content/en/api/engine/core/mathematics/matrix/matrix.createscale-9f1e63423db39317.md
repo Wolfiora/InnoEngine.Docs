@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a uniform scale matrix.
 
-**Returns:** A scale matrix.
+## Returns
+
+A scale matrix.
+
+## Parameters
 
 **Parameter `scale`:** The scale consumed by create scale; ownership remains with the caller unless explicitly stated otherwise.

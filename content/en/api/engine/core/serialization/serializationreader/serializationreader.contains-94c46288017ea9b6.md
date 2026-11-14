@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether the current object contains a named member.
 
+## Parameters
+
 **Parameter `name`:** The member name.
 
-**Returns:** `true` when the member exists; otherwise, `false`.
+## Returns
+
+`true` when the member exists; otherwise, `false`.

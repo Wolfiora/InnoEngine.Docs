@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Executes the cache-clean command using the checkout's explicit publisher catalog.
 
+## Parameters
+
 **Parameter `arguments`:** The clean command and its validated named options.
 
 **Parameter `cancellationToken`:** Cancels planning or retirement without deleting protected outputs.
 
-**Returns:** Zero on success, two on cancellation, or one with a diagnostic on failure.
+## Returns
+
+Zero on success, two on cancellation, or one with a diagnostic on failure.

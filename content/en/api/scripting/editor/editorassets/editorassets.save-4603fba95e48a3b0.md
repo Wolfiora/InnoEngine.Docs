@@ -12,11 +12,17 @@ apiScope: Editor
 
 Creates or replaces a writable project asset source and imports the committed result.
 
+## Parameters
+
 **Parameter `path`:** The writable project asset path.
 
 **Parameter `asset`:** The complete source value to persist. Saving over an existing source retains that source's persistent identity.
 
-**Returns:** `true` when the source was committed and imported successfully.
+## Returns
+
+`true` when the source was committed and imported successfully.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `asset` is `null`.
 

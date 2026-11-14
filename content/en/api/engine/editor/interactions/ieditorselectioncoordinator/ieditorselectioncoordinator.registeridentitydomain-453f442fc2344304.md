@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Registers the Core identity domain used by a temporary scene presentation.
 
+## Parameters
+
 **Parameter `allocator`:** The borrowed allocator owned by that presentation's runtime session.
 
-**Returns:** A routing lease released after restoring the preceding selection.
+## Returns
+
+A routing lease released after restoring the preceding selection.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The allocator is null.
 

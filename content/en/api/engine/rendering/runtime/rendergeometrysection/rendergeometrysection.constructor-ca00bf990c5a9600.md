@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one indexed geometry range.
 
+## Parameters
+
 **Parameter `firstIndex`:** First index in the shared index buffer.
 
 **Parameter `indexCount`:** Positive index count.

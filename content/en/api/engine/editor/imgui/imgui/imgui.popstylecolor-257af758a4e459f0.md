@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Pops color overrides.
 
+## Parameters
+
 **Parameter `count`:** The positive number of overrides to pop.

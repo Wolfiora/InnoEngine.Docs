@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Unregisters type discovery and releases all active type-registry snapshots.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A generation still owns live work. Type discovery and unfinished snapshots remain owned until host restart.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Executes pass callbacks through a concrete backend with complete unwind.
 
+## Parameters
+
 **Parameter `backend`:** Backend bridge for the current device generation.
 
 **Parameter `frameIndex`:** Monotonic frame index exposed to pass callbacks.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Thrown when execution and cleanup both fail.

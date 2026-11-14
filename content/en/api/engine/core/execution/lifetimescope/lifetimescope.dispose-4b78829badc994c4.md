@@ -15,6 +15,8 @@ Releases a quiescent lifetime in reverse registration order, continuing after or
 
 Pending retirement retains the current resource and all remaining dependencies for a later attempt. Concurrent or reentrant retirement reports pending work without invoking a resource twice.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Tracked work remains active; drain it before retrying.
 
 **Exception `T:System.AggregateException`:** Cancellation, work or resource retirement fails.

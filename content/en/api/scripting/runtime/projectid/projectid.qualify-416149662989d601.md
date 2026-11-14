@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Qualifies a local project name beneath this project namespace.
 
+## Parameters
+
 **Parameter `name`:** The portable local name.
 
-**Returns:** The complete project-scoped identity.
+## Returns
+
+The complete project-scoped identity.

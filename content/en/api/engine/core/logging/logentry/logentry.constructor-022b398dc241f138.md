@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Represents an immutable log message dispatched by a `T:Inno.Core.Logging.LogRouter`.
 
+## Parameters
+
 **Parameter `level`:** The severity of the log message.
 
 **Parameter `domain`:** The resolved assembly ownership domain.

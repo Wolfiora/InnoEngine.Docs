@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Imports source content into a validated runtime asset and artifact set.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `output`:** The import output writer that receives runtime data and dependency declarations.
 
 **Parameter `cancellationToken`:** The token that cancels the operation before it commits.
 
-**Returns:** An asynchronous operation that completes after all requested work has finished.
+## Returns
+
+An asynchronous operation that completes after all requested work has finished.

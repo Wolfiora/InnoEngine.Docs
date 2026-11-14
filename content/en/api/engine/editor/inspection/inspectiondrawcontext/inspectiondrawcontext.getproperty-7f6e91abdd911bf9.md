@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads one runtime-visible serialized property from the target.
 
+## Type parameters
+
 **Type parameter `T`:** Expected property value type.
+
+## Parameters
 
 **Parameter `propertyName`:** Exact serialized property name.
 
-**Returns:** The current strongly typed property value.
+## Returns
+
+The current strongly typed property value.

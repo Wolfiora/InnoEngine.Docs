@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Decodes a manually defined structured schema from deterministic binary data.
 
+## Type parameters
+
 **Type parameter `TResult`:** The result produced by the read callback.
+
+## Parameters
 
 **Parameter `bytes`:** The encoded bytes.
 
@@ -19,7 +23,11 @@ Decodes a manually defined structured schema from deterministic binary data.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** The callback result after all completion callbacks succeed.
+## Returns
+
+The callback result after all completion callbacks succeed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `read` is null.
 

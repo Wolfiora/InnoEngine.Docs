@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Transforms the supplied value by the requested transformation.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
 **Parameter `m`:** The transformation matrix applied to the supplied value.
 
-**Returns:** The validated vector4 that represents the completed operation.
+## Returns
+
+The validated vector4 that represents the completed operation.

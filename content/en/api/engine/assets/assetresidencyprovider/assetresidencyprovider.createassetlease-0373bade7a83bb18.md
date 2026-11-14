@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates one strongly typed asset residency lease.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Concrete canonical asset type.
+
+## Parameters
 
 **Parameter `asset`:** Canonical asset retained by the lease.
 
 **Parameter `release`:** Provider-owned release callback. Pending retirement must be retryable without repeating completed effects.
 
-**Returns:** A lease that retains its value until release completes; a Pending callback is retried by the owning lifecycle.
+## Returns
+
+A lease that retains its value until release completes; a Pending callback is retried by the owning lifecycle.

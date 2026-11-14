@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Centers a glyph in the current window without exposing a native draw list.
 
+## Parameters
+
 **Parameter `fontSize`:** The positive baked font size.
 
 **Parameter `text`:** The glyph text.

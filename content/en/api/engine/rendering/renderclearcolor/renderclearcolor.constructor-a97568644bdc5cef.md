@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a linear clear color.
 
+## Parameters
+
 **Parameter `r`:** Red channel.
 
 **Parameter `g`:** Green channel.

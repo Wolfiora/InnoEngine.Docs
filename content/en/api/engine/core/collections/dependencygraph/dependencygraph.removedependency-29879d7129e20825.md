@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Removes a dependency edge.
 
+## Parameters
+
 **Parameter `node`:** The dependent node.
 
 **Parameter `dependency`:** The required dependency.
 
-**Returns:** `true` when the edge was removed.
+## Returns
+
+`true` when the edge was removed.

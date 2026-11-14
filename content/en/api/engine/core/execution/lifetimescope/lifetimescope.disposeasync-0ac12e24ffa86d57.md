@@ -15,6 +15,10 @@ Cancels and asynchronously drains tracked work before reverse-order release.
 
 Only use asynchronous disposal for thread-neutral resources. Control-thread owners must await their work and call synchronous disposal at their own safe point; this method does not marshal to an owner thread.
 
-**Returns:** A task that completes only after work and resource retirement finish.
+## Returns
+
+A task that completes only after work and resource retirement finish.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Cancellation, work or resource retirement fails.

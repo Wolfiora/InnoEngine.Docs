@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures effective properties, references, source items and imports using the shared SDK evaluator.
 
+## Parameters
+
 **Parameter `engineRoot`:** The checkout owning the evaluator and its temporary request.
 
 **Parameter `dotnetHost`:** The explicitly selected managed host executable.
@@ -23,7 +25,11 @@ Captures effective properties, references, source items and imports using the sh
 
 **Parameter `resolveReferences`:** Resolves compile references and implicit symbols after restore without building project references or native products.
 
-**Returns:** A JSON array of SDK snapshots. An empty request or failed evaluation throws instead of returning partial evidence.
+## Returns
+
+A JSON array of SDK snapshots. An empty request or failed evaluation throws instead of returning partial evidence.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** No projects are supplied or a project path is not absolute.
 

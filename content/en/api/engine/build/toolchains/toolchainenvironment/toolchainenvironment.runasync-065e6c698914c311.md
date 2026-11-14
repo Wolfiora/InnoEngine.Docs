@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs a quoted host command with a frozen compiler and SDK environment.
 
+## Parameters
+
 **Parameter `context`:** The context resolved before artifact fingerprinting.
 
 **Parameter `fileName`:** A selected command or an absolute executable declared in the component inputs.
@@ -21,7 +23,11 @@ Runs a quoted host command with a frozen compiler and SDK environment.
 
 **Parameter `cancellationToken`:** Cancels and retires the complete process tree.
 
-**Returns:** Completion after the command exits successfully and its streams drain.
+## Returns
+
+Completion after the command exits successfully and its streams drain.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Tools are unresolved or execution fails.
 

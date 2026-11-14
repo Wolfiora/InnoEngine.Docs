@@ -12,4 +12,6 @@ apiScope: Editor
 
 Requests the semantic cursor for the hovered control.
 
+## Parameters
+
 **Parameter `cursor`:** The semantic pointer shape.

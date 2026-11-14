@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Publishes completed cold loads on the database owner thread without waiting for outstanding IO.
 
+## Parameters
+
 **Parameter `completionBudget`:** The maximum number of ready requests committed at this frame safety point.
 
-**Returns:** The number of requests completed, failed, or canceled during this call.
+## Returns
+
+The number of requests completed, failed, or canceled during this call.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The caller is not the owner thread that created this database.
 

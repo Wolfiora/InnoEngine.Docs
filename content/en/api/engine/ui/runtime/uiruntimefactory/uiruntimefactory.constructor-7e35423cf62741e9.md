@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a reusable UI runtime factory.
 
+## Parameters
+
 **Parameter `runtimeFactory`:** The callback that creates one runtime per session.

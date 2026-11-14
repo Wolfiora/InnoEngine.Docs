@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Captures all persistent properties without serializing the complete scene.
 
+## Parameters
+
 **Parameter `target`:** The live scene object whose state should be captured.
 
 **Parameter `serialization`:** The serialization registry that owns the active converter generation.
 
 **Parameter `assets`:** The resolver used to preserve canonical asset references in captured values.
 
-**Returns:** Neutral bytes containing independently encoded properties.
+## Returns
+
+Neutral bytes containing independently encoded properties.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is `null`.
 

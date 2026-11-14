@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Declares a shader read from a buffer.
 
+## Parameters
+
 **Parameter `buffer`:** Buffer read by this pass.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

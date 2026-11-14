@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a voice completion event.
 
+## Parameters
+
 **Parameter `voice`:** Voice that reached a terminal state.
 
 **Parameter `reason`:** Reason playback ended.

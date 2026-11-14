@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Selects the deployment scope for this imported asset. This permits one importer to produce runtime assets and editor-only assets from different source documents without changing their asset type.
 
+## Parameters
+
 **Parameter `deploymentScope`:** The scope of the complete imported asset, including its generated state.

@@ -12,10 +12,16 @@ apiScope: Editor
 
 Creates a structured storage buffer with an explicit element layout.
 
+## Parameters
+
 **Parameter `element`:** Non-void value layout; resources cannot be embedded in buffer elements.
 
 **Parameter `access`:** Permitted memory operations.
 
-**Returns:** An immutable storage buffer description.
+## Returns
+
+An immutable storage buffer description.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The element contains void or resource handles.

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Freshly verifies the planned source graph after an ownership wait or preparation work.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels verification before selecting any Pack.
 
-**Returns:** Completion only when all current inputs still match the frozen preparation identity.
+## Returns
+
+Completion only when all current inputs still match the frozen preparation identity.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The planned inputs changed and cannot be accepted.
 

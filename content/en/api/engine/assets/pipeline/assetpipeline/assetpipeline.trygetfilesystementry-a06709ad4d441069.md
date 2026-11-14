@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to resolve an indexed source entry.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `entry`:** The resolved source entry.
 
-**Returns:** `true` when the entry exists and is not generated metadata.
+## Returns
+
+`true` when the entry exists and is not generated metadata.

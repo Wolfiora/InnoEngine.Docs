@@ -12,8 +12,14 @@ apiScope: Editor
 
 Resolves the primary selected target as the requested type for immediate use.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The expected target type.
+
+## Parameters
 
 **Parameter `target`:** Receives the available primary target, or null.
 
-**Returns:** True when the current primary target has the requested type.
+## Returns
+
+True when the current primary target has the requested type.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a Play Mode controller around the runtime host, scene snapshot, scripting, and history boundaries.
 
+## Parameters
+
 **Parameter `engineHost`:** The application host that owns every isolated Play Mode runtime session.
 
 **Parameter `runtimeOptions`:** The validated Play Mode storage and timing policy used for every accepted request.
@@ -24,5 +26,7 @@ Creates a Play Mode controller around the runtime host, scene snapshot, scriptin
 **Parameter `logs`:** The application log router that receives Play Mode lifecycle failures.
 
 **Parameter `audio`:** Optional Editor audio host that creates an isolated backend generation for Play Mode.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when any dependency is `null`.

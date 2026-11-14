@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets a set required by the implemented contract.
 
+## Parameters
+
 **Parameter `store`:** The store consumed by get set; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated hash sett? that represents the completed operation.
+## Returns
+
+The validated hash sett? that represents the completed operation.

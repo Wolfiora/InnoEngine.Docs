@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a persistent reference descriptor.
 
+## Parameters
+
 **Parameter `kindId`:** The open protocol used to resolve the target.
 
 **Parameter `targetPersistentId`:** The target object's persistent identity, or an empty value for an explicitly unassigned slot.
@@ -20,5 +22,7 @@ Creates a persistent reference descriptor.
 **Parameter `lastKnownName`:** Optional non-authoritative display text retained while the target is missing.
 
 **Parameter `lastKnownPath`:** Optional non-authoritative source path retained for diagnostics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `kindId` is invalid.

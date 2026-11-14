@@ -12,6 +12,8 @@ apiScope: Editor
 
 Applies a hierarchy mutation and records only the affected parent and sibling-index tuples.
 
+## Parameters
+
 **Parameter `gameObject`:** The primary GameObject being moved.
 
 **Parameter `mutation`:** The hierarchy mutation to execute through the world-owned operation context.
@@ -20,4 +22,6 @@ Applies a hierarchy mutation and records only the affected parent and sibling-in
 
 **Parameter `relatedObjects`:** Additional objects whose placements the mutation may change, such as promoted children.
 
-**Returns:** `true` when at least one placement changed.
+## Returns
+
+`true` when at least one placement changed.

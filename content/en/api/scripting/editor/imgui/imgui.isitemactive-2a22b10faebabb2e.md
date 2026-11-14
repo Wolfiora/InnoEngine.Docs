@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets whether the previous item is active.
 
-**Returns:** `true` while the item owns an active interaction.
+## Returns
+
+`true` while the item owns an active interaction.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Changes a draft through shared History without modifying its source or Scene/Game.
 
+## Parameters
+
 **Parameter `assetId`:** Open Material source identity.
 
 **Parameter `candidate`:** Detached edited Material.

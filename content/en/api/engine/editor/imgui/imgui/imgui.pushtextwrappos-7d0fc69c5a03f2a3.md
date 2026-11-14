@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Restricts subsequent text wrapping to a local horizontal boundary.
 
+## Parameters
+
 **Parameter `position`:** The requested coordinate in UI units.

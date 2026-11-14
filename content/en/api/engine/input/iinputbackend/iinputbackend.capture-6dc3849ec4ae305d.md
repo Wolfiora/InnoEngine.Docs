@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures a snapshot and consumes transient press, release, movement, and wheel state.
 
+## Parameters
+
 **Parameter `frameIndex`:** The runtime frame receiving the snapshot.
 
-**Returns:** The immutable state for that exact frame.
+## Returns
+
+The immutable state for that exact frame.

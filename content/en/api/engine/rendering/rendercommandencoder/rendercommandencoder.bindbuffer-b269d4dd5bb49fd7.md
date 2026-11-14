@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds a frame-uploaded storage buffer to a shader interface slot.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding identifier.
 
 **Parameter `buffer`:** Current-frame storage slice.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Replaces mutable parameters for a live or preparing voice.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to update.
 
 **Parameter `parameters`:** Current voice parameter snapshot.
 
-**Returns:** `true` when the parameter request was accepted.
+## Returns
+
+`true` when the parameter request was accepted.

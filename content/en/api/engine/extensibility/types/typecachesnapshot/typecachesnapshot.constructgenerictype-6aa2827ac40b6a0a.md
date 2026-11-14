@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Resolves a generic construction belonging to this exact generation.
 
+## Parameters
+
 **Parameter `definition`:** A registered generic declaration.
 
 **Parameter `arguments`:** Ordered closed type arguments.
 
-**Returns:** The resolved closed type, or null when generic constraints reject the arguments.
+## Returns
+
+The resolved closed type, or null when generic constraints reject the arguments.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The declaration does not belong to this generation.
 

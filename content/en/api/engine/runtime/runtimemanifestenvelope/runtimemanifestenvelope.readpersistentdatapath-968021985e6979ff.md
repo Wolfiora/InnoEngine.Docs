@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads the validated writable data folder before engine serialization is initialized.
 
+## Parameters
+
 **Parameter `data`:** The complete runtime manifest envelope.
 
-**Returns:** A portable folder path relative to the operating system's local application data directory.
+## Returns
+
+A portable folder path relative to the operating system's local application data directory.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the envelope or persistent data path is malformed.

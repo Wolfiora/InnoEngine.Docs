@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates and validates a caller-owned from yaw pitch roll value.
 
+## Parameters
+
 **Parameter `yaw`:** The yaw consumed by create from yaw pitch roll; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `pitch`:** The pitch consumed by create from yaw pitch roll; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `roll`:** The roll consumed by create from yaw pitch roll; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

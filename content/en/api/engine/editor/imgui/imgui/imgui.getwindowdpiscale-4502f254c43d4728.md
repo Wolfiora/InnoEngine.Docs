@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the native viewport scale for the current window.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

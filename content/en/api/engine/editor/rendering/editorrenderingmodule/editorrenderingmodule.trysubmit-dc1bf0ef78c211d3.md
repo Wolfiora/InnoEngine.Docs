@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Builds, composes, submits, and returns one host-owned offscreen viewport.
 
+## Parameters
+
 **Parameter `kind`:** Open viewport purpose.
 
 **Parameter `viewportId`:** Stable panel viewport identity.
@@ -21,4 +23,6 @@ Builds, composes, submits, and returns one host-owned offscreen viewport.
 
 **Parameter `output`:** Receives the opaque viewport output.
 
-**Returns:** `true` when at least one model contribution was accepted.
+## Returns
+
+`true` when at least one model contribution was accepted.

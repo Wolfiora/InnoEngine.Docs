@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Converts this quaternion to a rotation matrix.
 
-**Returns:** The validated matrix that represents the completed operation.
+## Returns
+
+The validated matrix that represents the completed operation.

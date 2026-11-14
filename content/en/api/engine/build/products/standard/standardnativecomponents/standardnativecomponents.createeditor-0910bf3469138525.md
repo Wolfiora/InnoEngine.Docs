@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Composes the shared runtime closure and the Editor's presentation and authoring tools.
 
-**Returns:** A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.
+## Returns
+
+A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.
+
+## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
 

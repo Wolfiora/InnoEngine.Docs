@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures platform tool discovery through the same cancellable process lifecycle as builds.
 
+## Parameters
+
 **Parameter `start`:** The prepared discovery command, including any platform-specific argument quoting.
 
 **Parameter `cancellationToken`:** Cancels discovery and waits for its process tree to exit.
 
-**Returns:** Complete standard output after successful discovery; errors and cancellation propagate.
+## Returns
+
+Complete standard output after successful discovery; errors and cancellation propagate.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a bounded floating-point slider.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
 **Parameter `value`:** The value to display and update.
@@ -22,4 +24,6 @@ Draws a bounded floating-point slider.
 
 **Parameter `flags`:** Slider behavior.
 
-**Returns:** `true` when the value changes.
+## Returns
+
+`true` when the value changes.

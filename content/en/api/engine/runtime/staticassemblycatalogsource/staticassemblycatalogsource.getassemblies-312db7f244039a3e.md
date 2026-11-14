@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the complete host assemblies that participate in extension discovery.
 
-**Returns:** The current host snapshot; the caller must not retain it beyond its catalog generation.
+## Returns
+
+The current host snapshot; the caller must not retain it beyond its catalog generation.

@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Starts one clip with an explicit clock, looping, speed, layer, and blend policy.
 
+## Parameters
+
 **Parameter `clip`:** Valid clip to sample until completion or explicit stop.
 
 **Parameter `options`:** Playback options validated before a runtime slot is allocated.
 
-**Returns:** A generation-checked handle owned by this runtime.
+**Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+## Returns
+
+A generation-checked handle owned by this runtime.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this runtime has been disposed.
 
@@ -24,5 +32,3 @@ Starts one clip with an explicit clock, looping, speed, layer, and blend policy.
 **Exception `T:System.ArgumentException`:** Thrown when `options` contains a non-finite or unsupported value.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the clip is structurally invalid.
-
-**Parameter `target`:** The weak destination or explicit sampling-only policy.

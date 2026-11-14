@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Registers one source-language type replacement for subsequent structured asset rewriting.
 
+## Parameters
+
 **Parameter `oldId`:** The type identity stored in installed sample assets.
 
 **Parameter `newId`:** The type identity declared by the cloned source.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A source identity is reused inconsistently.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether a pointer button was newly pressed during this frame.
 
+## Parameters
+
 **Parameter `button`:** The backend-neutral pointer button.
 
-**Returns:** `true` when the button transitioned to down.
+## Returns
+
+`true` when the button transitioned to down.

@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Adds or replaces one human-readable editor layout section in memory.
 
+## Parameters
+
 **Parameter `sectionName`:** The section name without its INI header syntax.
 
 **Parameter `values`:** The complete scalar or JSON-formatted values.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `values` is `null`.
 

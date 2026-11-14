@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Handles platform cancellation of an active gesture.
 
+## Parameters
+
 **Parameter `context`:** Gesture and coordinate context.
 
 **Parameter `pointer`:** Immutable pointer sample.

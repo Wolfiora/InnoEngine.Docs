@@ -12,10 +12,18 @@ apiScope: Editor
 
 Resolves and declares a strongly typed runtime asset dependency during import.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Expected asset type.
+
+## Parameters
 
 **Parameter `path`:** Isolated dependency path.
 
-**Returns:** The currently committed dependency asset.
+## Returns
+
+The currently committed dependency asset.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the dependency cannot be imported or has another type.

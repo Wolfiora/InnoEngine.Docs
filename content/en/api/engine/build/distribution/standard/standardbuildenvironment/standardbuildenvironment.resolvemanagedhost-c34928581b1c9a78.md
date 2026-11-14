@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves the managed SDK executable without selecting a native tool target or preparing a product.
 
+## Parameters
+
 **Parameter `dotnetHost`:** Explicit executable, or null to use DOTNET\_HOST\_PATH and then the currently loaded runtime's installation. Normal executable discovery is used only when there is no shared runtime installation.
 
-**Returns:** The absolute existing managed SDK executable selected for this operation.
+## Returns
+
+The absolute existing managed SDK executable selected for this operation.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** The selected SDK executable is unavailable.
 

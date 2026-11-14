@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Starts one clip using default playback parameters.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare and play.
 
-**Returns:** A preparing voice handle owned by the current device generation.
+## Returns
+
+A preparing voice handle owned by the current device generation.

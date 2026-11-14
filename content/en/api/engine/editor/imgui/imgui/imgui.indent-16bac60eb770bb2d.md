@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Indents subsequent controls by an explicit amount or the standard step.
 
+## Parameters
+
 **Parameter `amount`:** The requested layout distance.

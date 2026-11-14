@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Captures one element's logical type, neutral properties, asset dependencies and scene-reference aliases.
 
+## Parameters
+
 **Parameter `target`:** The live component or system, including a missing placeholder.
 
 **Parameter `serialization`:** The owner's current serializer generation.
 
 **Parameter `assets`:** The owner's complete asset resolver used during capture.
 
-**Returns:** Neutral element bytes suitable for History and restoration without retaining the current managed type.
+## Returns
+
+Neutral element bytes suitable for History and restoration without retaining the current managed type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The target is not a component or system.
 

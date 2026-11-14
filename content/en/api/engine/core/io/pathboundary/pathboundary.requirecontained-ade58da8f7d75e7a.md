@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates and normalizes an absolute path beneath a root.
 
+## Parameters
+
 **Parameter `root`:** The owning root directory.
 
 **Parameter `path`:** The path to validate.
 
-**Returns:** The normalized absolute contained path.
+## Returns
+
+The normalized absolute contained path.

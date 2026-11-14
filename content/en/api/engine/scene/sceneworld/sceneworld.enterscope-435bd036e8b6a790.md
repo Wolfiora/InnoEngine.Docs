@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds this world and its identity allocator to the current asynchronous execution context.
 
-**Returns:** A strict last-in-first-out execution scope owned by the caller.
+## Returns
+
+A strict last-in-first-out execution scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this world has been disposed.

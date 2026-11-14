@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Safely reads the panel window-presentation policy through the active extension boundary.
 
+## Parameters
+
 **Parameter `useWindowPadding`:** The requested padding policy, or the safe default when the panel is quarantined.
 
 **Parameter `allowScrolling`:** The requested scrolling policy, or the safe default when the panel is quarantined.
 
 **Parameter `initialSize`:** The preferred first-use floating size, or zero when native sizing is requested.
 
-**Returns:** `true` when the policy was read without quarantining the panel.
+## Returns
+
+`true` when the policy was read without quarantining the panel.

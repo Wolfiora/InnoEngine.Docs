@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes successful publication evidence without granting ownership of the pipeline's staging root.
 
+## Parameters
+
 **Parameter `deployment`:** The compiler identity that produced this output.
 
 **Parameter `outputDirectory`:** The directory containing the completed managed publication.

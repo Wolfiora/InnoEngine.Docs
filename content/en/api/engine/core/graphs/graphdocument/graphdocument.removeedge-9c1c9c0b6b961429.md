@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes an edge by stable identifier.
 
+## Parameters
+
 **Parameter `edgeId`:** Edge identifier to remove.
 
-**Returns:** `true` when the edge existed; otherwise `false`.
+## Returns
+
+`true` when the edge existed; otherwise `false`.

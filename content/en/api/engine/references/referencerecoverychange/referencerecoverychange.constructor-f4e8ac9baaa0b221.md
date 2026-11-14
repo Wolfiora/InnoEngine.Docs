@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a recovery change from preserved state and its candidate resolution.
 
+## Parameters
+
 **Parameter `missingState`:** The immutable state captured before the candidate generation was applied.
 
 **Parameter `resolution`:** The result produced by the candidate reference catalog.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when either argument is null.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Copies the native payload for persistence or reload-safe history.
 
-**Returns:** A new byte array containing the complete native value.
+## Returns
+
+A new byte array containing the complete native value.

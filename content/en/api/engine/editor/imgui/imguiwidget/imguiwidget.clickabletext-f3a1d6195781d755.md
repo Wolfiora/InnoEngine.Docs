@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Draws clickable text without a persistent or hovered background.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.
 
 **Parameter `text`:** Visible text or icon glyph.
 
 **Parameter `tooltip`:** Optional tooltip displayed while the interaction is hovered.
 
-**Returns:** `true` when the text is pressed.
+## Returns
+
+`true` when the text is pressed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates validated context options.
 
+## Parameters
+
 **Parameter `name`:** A non-empty diagnostic context name.
 
 **Parameter `width`:** The positive initial width in pixels.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a gesture that includes the product-selected primary modifier.
 
+## Parameters
+
 **Parameter `key`:** The non-modifier key in the gesture.
 
 **Parameter `keyboard`:** The product-selected immutable keyboard policy.
 
 **Parameter `additionalModifiers`:** Additional modifiers combined with the product-selected primary modifier.
 
-**Returns:** A product-resolved keyboard gesture.
+## Returns
+
+A product-resolved keyboard gesture.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Advances every playback and applies one deterministic blended sample batch.
 
+## Parameters
+
 **Parameter `scaledDeltaTime`:** Non-negative scaled frame interval.
 
 **Parameter `unscaledDeltaTime`:** Non-negative unscaled frame interval.

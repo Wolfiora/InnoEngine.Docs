@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves all filesystem locations without starting processes or creating output directories.
 
+## Parameters
+
 **Parameter `projectPath`:** The prepared entry project with explicit code references, generated registrations and native inputs.
 
 **Parameter `runtimeIdentifier`:** The managed toolchain's exact target identifier.

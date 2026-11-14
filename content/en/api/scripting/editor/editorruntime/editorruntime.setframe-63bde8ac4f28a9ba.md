@@ -12,4 +12,6 @@ apiScope: Editor
 
 Advances frame-scoped data and publishes the latest immutable frame.
 
+## Parameters
+
 **Parameter `frame`:** The frame to publish.

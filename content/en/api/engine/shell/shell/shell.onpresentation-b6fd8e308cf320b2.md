@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Submits product UI requests while the host output pipeline is open.
 
+## Parameters
+
 **Parameter `frame`:** The current application frame.

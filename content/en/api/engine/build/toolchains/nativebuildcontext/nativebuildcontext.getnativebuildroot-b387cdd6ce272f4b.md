@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves native intermediates under the owning toolchain project in this checkout.
 
+## Parameters
+
 **Parameter `component`:** The explicit component descriptor whose recipe project owns native intermediates.
 
-**Returns:** The absolute project-local obj/native path, without creating the directory. During publication, the path also contains the operation's target and compatible workspace identity. A Windows producer receives a temporary junction to the same physical directory so SDK tools can use bounded paths.
+## Returns
+
+The absolute project-local obj/native path, without creating the directory. During publication, the path also contains the operation's target and compatible workspace identity. A Windows producer receives a temporary junction to the same physical directory so SDK tools can use bounded paths.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The component owner is null.
 

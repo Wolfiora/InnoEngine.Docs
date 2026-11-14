@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the project document explicitly contributes to one setting protocol.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identifier.
 
-**Returns:** `true` when a project contribution record exists.
+## Returns
+
+`true` when a project contribution record exists.

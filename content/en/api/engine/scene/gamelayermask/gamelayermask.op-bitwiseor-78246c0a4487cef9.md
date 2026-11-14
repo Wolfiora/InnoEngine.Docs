@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Combines the enabled bits from two masks.
 
+## Parameters
+
 **Parameter `left`:** The first mask.
 
 **Parameter `right`:** The second mask.
 
-**Returns:** The bitwise union of both masks.
+## Returns
+
+The bitwise union of both masks.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Associates a reloadable preview implementation with one open Shader contract.
 
+## Parameters
+
 **Parameter `contractId`:** Non-empty domain-owned contract identity.

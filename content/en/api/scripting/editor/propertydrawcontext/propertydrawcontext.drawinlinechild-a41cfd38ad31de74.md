@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a nested value inline without adding another label row.
 
+## Parameters
+
 **Parameter `childName`:** The stable child member name appended to this property path.
 
 **Parameter `childType`:** The declared type used to resolve a property drawer.

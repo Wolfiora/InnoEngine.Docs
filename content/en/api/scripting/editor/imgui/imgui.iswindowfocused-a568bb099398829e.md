@@ -12,6 +12,10 @@ apiScope: Editor
 
 Checks keyboard focus within the declared window scope.
 
+## Parameters
+
 **Parameter `flags`:** The explicit control and interaction options.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

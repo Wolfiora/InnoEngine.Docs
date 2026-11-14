@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates immutable display data that can safely outlive the extension that described it.
 
+## Parameters
+
 **Parameter `id`:** The existing graph node identity.
 
 **Parameter `position`:** The node's document position in graph coordinates.
@@ -22,6 +24,8 @@ Creates immutable display data that can safely outlive the extension that descri
 **Parameter `title`:** A display title already interpreted by its domain owner.
 
 **Parameter `ports`:** Immutable neutral endpoint descriptions; the collection is copied.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The title or port collection is null.
 

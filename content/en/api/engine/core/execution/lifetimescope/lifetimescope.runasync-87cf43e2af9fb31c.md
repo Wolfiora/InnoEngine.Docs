@@ -11,12 +11,20 @@ apiSurface: source-clr
 
 Atomically admits and tracks asynchronous work under this owner's cancellation boundary.
 
+## Type parameters
+
 **Type parameter `TResult`:** The operation result type.
+
+## Parameters
 
 **Parameter `operation`:** The operation, which must observe the supplied token and must not require owner-thread completion.
 
 **Parameter `cancellationToken`:** Additional cancellation requested by the caller.
 
-**Returns:** The tracked result, cancellation or operation failure.
+## Returns
+
+The tracked result, cancellation or operation failure.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Retirement has begun or work capacity is exhausted; the operation is not invoked.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a lifetime with finite asynchronous admission capacity.
 
+## Parameters
+
 **Parameter `maxTrackedWork`:** Maximum retained work records; completed successful work releases capacity immediately.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The capacity is not positive.

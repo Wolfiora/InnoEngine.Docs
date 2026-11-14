@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Tries to load a canonical asset by persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset type.
+
+## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `asset`:** The canonical asset when successful.
 
-**Returns:** `true` when a compatible asset was loaded.
+## Returns
+
+`true` when a compatible asset was loaded.

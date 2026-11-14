@@ -12,6 +12,10 @@ apiScope: Editor
 
 Analyzes an immutable source candidate with explicit preprocessing inputs.
 
+## Parameters
+
 **Parameter `request`:** Source, selected function, dependencies, and target inputs.
 
-**Returns:** A successful interface or a recoverable set of original-source diagnostics.
+## Returns
+
+A successful interface or a recoverable set of original-source diagnostics.

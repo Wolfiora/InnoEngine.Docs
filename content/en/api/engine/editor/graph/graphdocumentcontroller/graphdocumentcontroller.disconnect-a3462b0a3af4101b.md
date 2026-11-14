@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes one stable connection.
 
+## Parameters
+
 **Parameter `edgeId`:** Connection to remove.
 
-**Returns:** `true` after a connection was removed.
+## Returns
+
+`true` after a connection was removed.

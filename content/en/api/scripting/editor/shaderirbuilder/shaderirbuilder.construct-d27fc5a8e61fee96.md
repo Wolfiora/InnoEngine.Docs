@@ -12,10 +12,16 @@ apiScope: Editor
 
 Constructs a complete vector, column-major matrix, structure or fixed array from typed members.
 
+## Parameters
+
 **Parameter `type`:** The complete aggregate type.
 
 **Parameter `members`:** Scalar vector/matrix components, declaration-ordered structure fields, or array elements.
 
-**Returns:** A value of the requested type.
+## Returns
+
+A value of the requested type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The type is not an aggregate or members have incorrect count or types.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Replaces texture requirements at the next render-frame safety point.
 
+## Parameters
+
 **Parameter `descriptor`:** New texture requirements.

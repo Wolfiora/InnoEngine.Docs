@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Atomically saves bytes after checking the source fingerprint; import is a separate operation.
 
+## Parameters
+
 **Parameter `path`:** Writable mounted destination.
 
 **Parameter `bytes`:** Complete serializable source, including invalid authoring states.
 
 **Parameter `expectedHash`:** Last read/save fingerprint; null requires a nonexistent destination.
 
-**Returns:** The saved fingerprint.
+## Returns
+
+The saved fingerprint.

@@ -12,6 +12,10 @@ apiScope: Editor
 
 Produces an exact unsigned 32-bit integer constant.
 
+## Parameters
+
 **Parameter `value`:** Scalar unsigned integer value.
 
-**Returns:** A uint-typed intermediate value.
+## Returns
+
+A uint-typed intermediate value.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the manipulation space from the selected controller's latest contribution.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
 **Parameter `space`:** Receives the latest exact view/projection contract.
 
-**Returns:** `true` when the selected controller supplied a manipulation space.
+## Returns
+
+`true` when the selected controller supplied a manipulation space.

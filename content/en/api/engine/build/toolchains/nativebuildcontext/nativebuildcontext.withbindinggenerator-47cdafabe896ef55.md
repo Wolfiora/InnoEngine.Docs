@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Borrows a generator while preserving this operation's input and tool ownership.
 
+## Parameters
+
 **Parameter `generator`:** The shared generation implementation selected by composition.
 
-**Returns:** A derived context; neither context owns or disposes the provider.
+## Returns
+
+A derived context; neither context owns or disposes the provider.

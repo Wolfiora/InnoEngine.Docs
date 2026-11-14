@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Seeks one live playback to a clip-local time.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle from this runtime generation.
 
 **Parameter `time`:** Finite clip-local time in seconds, clamped to the clip duration.
 
-**Returns:** `true` when the handle was live and the position was updated.
+## Returns
+
+`true` when the handle was live and the position was updated.

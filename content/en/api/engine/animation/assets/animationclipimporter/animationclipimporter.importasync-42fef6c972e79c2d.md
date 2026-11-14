@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Imports one validated structured animation clip.
 
+## Parameters
+
 **Parameter `context`:** Candidate source bytes and serialization generation.
 
 **Parameter `output`:** Writer that receives the clip and immutable runtime artifact.
 
 **Parameter `cancellationToken`:** Token that cancels artifact staging.
 
-**Returns:** An operation that completes after the runtime artifact is staged.
+## Returns
+
+An operation that completes after the runtime artifact is staged.

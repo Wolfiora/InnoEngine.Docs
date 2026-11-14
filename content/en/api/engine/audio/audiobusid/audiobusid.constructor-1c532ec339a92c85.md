@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an open mixer bus identifier.
 
+## Parameters
+
 **Parameter `value`:** Globally stable bus protocol value.

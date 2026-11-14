@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the estimated match count for this condition.
 
+## Parameters
+
 **Parameter `store`:** Store being queried.
 
-**Returns:** Estimated number of matches; use `F:System.Int32.MaxValue` when unknown.
+## Returns
+
+Estimated number of matches; use `F:System.Int32.MaxValue` when unknown.

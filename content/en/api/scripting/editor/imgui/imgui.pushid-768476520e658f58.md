@@ -12,4 +12,6 @@ apiScope: Editor
 
 Pushes an integer identity onto the ImGui ID stack.
 
+## Parameters
+
 **Parameter `id`:** The stable identity used to locate the requested value.

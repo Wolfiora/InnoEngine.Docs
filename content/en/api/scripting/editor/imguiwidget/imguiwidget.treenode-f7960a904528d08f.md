@@ -12,12 +12,18 @@ apiScope: Editor
 
 Draws a full-width interactive tree row whose non-leaf content toggles expansion when double-clicked, while preserving single-click disclosure-arrow behavior.
 
+## Parameters
+
 **Parameter `id`:** Stable row identifier.
 
 **Parameter `onDraw`:** Frame-local content drawing for visible or explicitly preserved rows; clipped ordinary rows do not invoke it.
 
 **Parameter `options`:** Tree row options.
 
-**Returns:** Interaction and row geometry for the submitted item.
+## Returns
+
+Interaction and row geometry for the submitted item.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** An explicit flattened depth is negative.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Loads and validates one packaged shader target artifact when it exists.
 
+## Parameters
+
 **Parameter `shader`:** The imported backend-neutral shader asset.
 
 **Parameter `variant`:** The exact material keyword selection.
@@ -19,7 +21,11 @@ Loads and validates one packaged shader target artifact when it exists.
 
 **Parameter `artifact`:** Receives the decoded artifact when present.
 
-**Returns:** `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when the deployed artifact exists; otherwise, `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Unavailable`.
+## Returns
+
+`F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when the deployed artifact exists; otherwise, `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Unavailable`.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when a deployed artifact exists but is corrupt or mismatched.
 

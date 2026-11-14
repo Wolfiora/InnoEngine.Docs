@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Atomically replaces every direct dependency of a node.
 
+## Parameters
+
 **Parameter `node`:** The dependent node.
 
 **Parameter `dependencies`:** The complete replacement dependency set.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `dependencies` is `null`.

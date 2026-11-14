@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Detaches and disposes every subsystem in reverse dependency order.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** Thrown after every release stage is attempted when one or more subsystems fail to detach or dispose.

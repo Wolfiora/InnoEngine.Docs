@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates one viewport shortcut sample.
 
+## Parameters
+
 **Parameter `key`:** Pressed key.
 
 **Parameter `modifiers`:** Active keyboard modifiers.

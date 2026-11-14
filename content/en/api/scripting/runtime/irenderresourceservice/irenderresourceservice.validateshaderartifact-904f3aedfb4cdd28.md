@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates and retires every program in one compiled artifact through the active device without publishing it.
 
+## Parameters
+
 **Parameter `artifact`:** Complete target artifact whose binaries, links, and reflected interfaces must be accepted by the active device.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The call is outside a frame resource-mutation safety point, or the artifact fails device validation.

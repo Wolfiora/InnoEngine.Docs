@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Builds and validates an isolated source-mount candidate without changing active AssetPipeline state.
 
+## Parameters
+
 **Parameter `mounts`:** A writable project source followed by zero or more read-only sources.
 
-**Returns:** A transaction that can be inspected, activated, completed, or rolled back.
+## Returns
+
+A transaction that can be inspected, activated, completed, or rolled back.

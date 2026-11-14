@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a validated rect instance.
 
+## Parameters
+
 **Parameter `x`:** The horizontal or first component.
 
 **Parameter `y`:** The vertical or second component.

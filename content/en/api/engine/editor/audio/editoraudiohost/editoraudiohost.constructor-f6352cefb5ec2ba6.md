@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the Editor audio host over the active authoring artifact lookup and settings source.
 
+## Parameters
+
 **Parameter `types`:** Active type catalog used for provider and mixer extension generations.
 
 **Parameter `artifacts`:** Authoring artifact lookup shared by Edit and isolated Play sessions.

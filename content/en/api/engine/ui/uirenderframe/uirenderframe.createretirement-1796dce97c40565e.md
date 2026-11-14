@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a command-free frame that deterministically retires plugin-owned resources.
 
+## Parameters
+
 **Parameter `meshes`:** Assigned mesh handles to retire.
 
 **Parameter `textures`:** Assigned texture handles to retire.
 
-**Returns:** An immutable retirement frame.
+## Returns
+
+An immutable retirement frame.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether a layer slot is defined.
 
+## Parameters
+
 **Parameter `layer`:** The layer slot to test.
 
-**Returns:** `true` when the slot is defined.
+## Returns
+
+`true` when the slot is defined.

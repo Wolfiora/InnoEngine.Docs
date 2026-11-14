@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a submesh range.
 
+## Parameters
+
 **Parameter `firstIndex`:** First index in the shared index buffer.
 
 **Parameter `indexCount`:** Number of indices in the range.

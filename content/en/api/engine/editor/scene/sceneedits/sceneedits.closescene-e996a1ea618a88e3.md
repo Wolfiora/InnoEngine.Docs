@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Closes one loaded scene without deleting its source asset and records a reversible document change.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to close.
 
 **Parameter `historyName`:** The user-facing history entry name.
 
-**Returns:** `true` when the scene was closed and recorded.
+## Returns
+
+`true` when the scene was closed and recorded.

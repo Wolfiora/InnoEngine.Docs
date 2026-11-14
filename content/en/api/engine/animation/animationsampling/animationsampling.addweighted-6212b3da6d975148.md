@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Adds one weighted value to an accumulation of the same kind.
 
+## Parameters
+
 **Parameter `sum`:** The current weighted sum.
 
 **Parameter `value`:** The value to accumulate.
 
 **Parameter `weight`:** The blend weight.
 
-**Returns:** The updated sum.
+## Returns
+
+The updated sum.

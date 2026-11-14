@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Resolves an issue after the represented condition no longer exists.
 
+## Parameters
+
 **Parameter `code`:** The stable issue code.
 
 **Parameter `semanticId`:** The optional protocol identifier used at publication.
 
 **Parameter `objectId`:** The optional persistent object identity used at publication.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This producer has retired or been replaced.

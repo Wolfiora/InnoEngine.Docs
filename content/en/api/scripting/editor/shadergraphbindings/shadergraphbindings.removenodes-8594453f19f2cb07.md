@@ -12,6 +12,8 @@ apiScope: Editor
 
 Removes selected nodes, stage-owned nodes and declarations which lose their last graph owner.
 
+## Parameters
+
 **Parameter `graph`:** Current shader graph, never mutated by this operation.
 
 **Parameter `nodeIds`:** Explicitly selected node identities. Deleting an output also deletes its stage contents.
@@ -20,6 +22,10 @@ Removes selected nodes, stage-owned nodes and declarations which lose their last
 
 **Parameter `context`:** Complete owner reference context for material defaults.
 
-**Returns:** A detached candidate suitable for one atomic history entry; unrelated incomplete content is retained.
+## Returns
+
+A detached candidate suitable for one atomic history entry; unrelated incomplete content is retained.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A selected identity is not in the document.

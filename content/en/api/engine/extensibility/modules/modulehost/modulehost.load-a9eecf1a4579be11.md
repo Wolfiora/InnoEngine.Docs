@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Prepares and activates a new module contribution through its selected source.
 
+## Parameters
+
 **Parameter `request`:** The validated immutable request that defines this operation.
 
-**Returns:** The validated assembly module handle that represents the completed operation.
+## Returns
+
+The validated assembly module handle that represents the completed operation.

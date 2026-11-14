@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Assigns existing shared stages to one pass in an atomic detached candidate.
 
+## Parameters
+
 **Parameter `graph`:** Source document, never modified.
 
 **Parameter `pass`:** Existing pass identity.
@@ -21,4 +23,6 @@ Assigns existing shared stages to one pass in an atomic detached candidate.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** A candidate suitable for one shared History transaction.
+## Returns
+
+A candidate suitable for one shared History transaction.

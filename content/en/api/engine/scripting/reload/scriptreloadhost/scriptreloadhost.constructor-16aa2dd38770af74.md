@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a reload host for one compiler and runtime module owner.
 
+## Parameters
+
 **Parameter `options`:** The automatic compilation, debounce, and long-running warning policy.
 
 **Parameter `compiler`:** The compiler that produces immutable candidate script generations.
@@ -26,6 +28,8 @@ Creates a reload host for one compiler and runtime module owner.
 **Parameter `reloads`:** The host-owned coordinator that commits dependent state together with script generations.
 
 **Parameter `moduleSourceFactory`:** The composition-owned factory that chooses the loading policy for each immutable script module. It must return a fresh source without activating or publishing the module.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when any required dependency is null.
 

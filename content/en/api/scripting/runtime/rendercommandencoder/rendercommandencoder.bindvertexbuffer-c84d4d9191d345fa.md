@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Binds a frame-uploaded vertex slice.
 
+## Parameters
+
 **Parameter `buffer`:** Current-frame vertex slice.

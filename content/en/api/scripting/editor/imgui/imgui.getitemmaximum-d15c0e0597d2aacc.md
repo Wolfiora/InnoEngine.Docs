@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the maximum screen-space corner of the previous item.
 
-**Returns:** The item maximum corner.
+## Returns
+
+The item maximum corner.

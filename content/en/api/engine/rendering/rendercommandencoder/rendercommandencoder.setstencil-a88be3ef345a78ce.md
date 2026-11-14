@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Sets the stencil configuration for subsequent draws.
 
+## Parameters
+
 **Parameter `state`:** Immutable stencil configuration applied to subsequent draws.

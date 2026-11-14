@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats this transient identity for diagnostics.
 
-**Returns:** A domain-qualified runtime identifier.
+## Returns
+
+A domain-qualified runtime identifier.

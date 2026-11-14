@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Commits publication after all dependent changes apply successfully.
 
-**Returns:** A weak probe observing retired contexts; success is not reported until it completes.
+## Returns
+
+A weak probe observing retired contexts; success is not reported until it completes.

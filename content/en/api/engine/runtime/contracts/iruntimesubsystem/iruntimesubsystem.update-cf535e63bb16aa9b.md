@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances variable simulation state.
 
+## Parameters
+
 **Parameter `frame`:** The immutable variable-frame state.

@@ -14,6 +14,8 @@ aliases: []
 
 Stores a directed dependency graph and provides deterministic dependency queries.
 
+## Type parameters
+
 **Type parameter `TKey`:** The node key type.
 
 ## Remarks

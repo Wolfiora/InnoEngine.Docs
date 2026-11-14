@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Maps one output pointer onto this item's local surface.
 
+## Parameters
+
 **Parameter `view`:** Exact rendered view.
 
 **Parameter `input`:** Viewport-local input.
 
 **Parameter `localPosition`:** Local target coordinates when hit.
 
-**Returns:** Whether this target is eligible to receive pointer input.
+## Returns
+
+Whether this target is eligible to receive pointer input.

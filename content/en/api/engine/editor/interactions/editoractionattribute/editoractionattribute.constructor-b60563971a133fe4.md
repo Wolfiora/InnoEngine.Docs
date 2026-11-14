@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an action registration restricted to one exact area.
 
+## Parameters
+
 **Parameter `action`:** The stable semantic action name.
 
 **Parameter `area`:** The exact area, or an empty string for every area.
 
 **Parameter `priority`:** The tie-breaking priority.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

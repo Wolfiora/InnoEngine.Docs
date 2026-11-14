@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts the supplied value to `T:Inno.Core.Mathematics.RectInt`.
 
+## Parameters
+
 **Parameter `r`:** The r consumed by convert; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated rect int that represents the completed operation.
+## Returns
+
+The validated rect int that represents the completed operation.

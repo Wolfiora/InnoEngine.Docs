@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Pauses a live voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice handle to pause.
 
-**Returns:** `true` when the voice entered the paused state.
+## Returns
+
+`true` when the voice entered the paused state.

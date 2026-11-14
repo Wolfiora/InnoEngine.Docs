@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Submits compute work with the specified workgroup counts.
 
+## Parameters
+
 **Parameter `groupCountX`:** Number of workgroups along the X axis.
 
 **Parameter `groupCountY`:** Number of workgroups along the Y axis.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds literal text using the current font and an explicit scale.
 
+## Parameters
+
 **Parameter `position`:** Screen-space text origin.
 
 **Parameter `color`:** Packed RGBA color.

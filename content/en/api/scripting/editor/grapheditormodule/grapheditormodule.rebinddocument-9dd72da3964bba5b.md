@@ -12,8 +12,12 @@ apiScope: Editor
 
 Rebinds an active session to a newly imported current-generation document.
 
+## Parameters
+
 **Parameter `documentId`:** Stable document identity.
 
 **Parameter `document`:** New current-generation document instance.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the document has no active session.

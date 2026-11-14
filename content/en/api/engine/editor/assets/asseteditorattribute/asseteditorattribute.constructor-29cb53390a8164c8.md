@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an asset-editor registration for an imported runtime asset type.
 
+## Parameters
+
 **Parameter `assetType`:** The imported asset type handled by the editor.
 
 **Parameter `useForChildren`:** Whether the editor may also handle assignable derived asset types.
 
 **Parameter `priority`:** The tie-breaking priority after exactness and inheritance distance.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assetType` is `null`.

@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Loads an authoring asset without publishing a candidate catalog.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required authoring asset type.
+
+## Parameters
 
 **Parameter `path`:** The isolated source path.
 
-**Returns:** The resolved authoring asset.
+## Returns
+
+The resolved authoring asset.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No compatible asset can be loaded from this view.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Starts a query over stored items.
 
-**Returns:** A query builder.
+## Returns
+
+A query builder.

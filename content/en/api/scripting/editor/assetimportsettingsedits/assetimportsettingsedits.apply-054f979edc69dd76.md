@@ -12,10 +12,14 @@ apiScope: Editor
 
 Saves one settings gesture, recording neutral before/after properties even when reimport reports an error.
 
+## Parameters
+
 **Parameter `path`:** Writable source asset path.
 
 **Parameter `settings`:** Detached current-generation settings value.
 
 **Parameter `expectedFingerprint`:** Sidecar fingerprint captured when editing began.
 
-**Returns:** Whether the saved configuration reimported successfully; false does not mean the settings were discarded.
+## Returns
+
+Whether the saved configuration reimported successfully; false does not mean the settings were discarded.

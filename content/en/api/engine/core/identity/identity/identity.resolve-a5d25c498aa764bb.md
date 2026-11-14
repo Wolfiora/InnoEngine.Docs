@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves this transient snapshot through its original weak identity registry.
 
+## Type parameters
+
 **Type parameter `TObject`:** The expected identity object type.
 
-**Returns:** The current object, or null if the registry retired, the slot changed generation, or the type differs.
+## Returns
+
+The current object, or null if the registry retired, the slot changed generation, or the type differs.

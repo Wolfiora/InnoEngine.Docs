@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a detached settings value for this importer in the current extension generation.
 
-**Returns:** A fresh serializable value with a registered stable type identity, or null when this importer has no settings. Defaults must be deterministic; implementations must not retain the returned instance.
+## Returns
+
+A fresh serializable value with a registered stable type identity, or null when this importer has no settings. Defaults must be deterministic; implementations must not retain the returned instance.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Collects only the assigned world-content sources for one exact view.
 
+## Parameters
+
 **Parameter `context`:** The original model view, output input, and frame timing.
 
-**Returns:** Frame-local content emitted by the assigned sources.
+## Returns
+
+Frame-local content emitted by the assigned sources.

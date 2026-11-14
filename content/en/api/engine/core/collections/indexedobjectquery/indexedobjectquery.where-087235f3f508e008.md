@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds a predicate condition evaluated against candidate items.
 
+## Parameters
+
 **Parameter `predicate`:** Predicate to evaluate.
 
-**Returns:** The same query instance.
+## Returns
+
+The same query instance.

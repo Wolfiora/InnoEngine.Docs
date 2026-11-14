@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Combines adjacent samples of the same document and gesture without retaining live assets.
 
+## Parameters
+
 **Parameter `older`:** The preceding owned record.
 
 **Parameter `newer`:** The subsequent owned record.
 
 **Parameter `merged`:** Receives a new independent payload when the records form a contiguous edit.
 
-**Returns:** True when both records describe the same continuous value change.
+## Returns
+
+True when both records describe the same continuous value change.

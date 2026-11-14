@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Copies currently available selected targets into a caller-owned temporary collection.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type accepted by the caller.
+
+## Parameters
 
 **Parameter `destination`:** The collection to clear and fill; do not retain live entries across callbacks.
 
-**Returns:** The number of targets resolved in this callback.
+## Returns
+
+The number of targets resolved in this callback.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The destination is null.

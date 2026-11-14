@@ -16,4 +16,6 @@ Runs before the module generation is released and its disposable instances are d
 
 This includes partial startup compensation. Pending retirement must throw RetirementPendingException and preserve unfinished ownership; completed steps must be idempotent across retries.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the runtime being stopped.

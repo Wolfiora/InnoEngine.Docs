@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates build-processor discovery metadata.
 
+## Parameters
+
 **Parameter `id`:** Globally stable build processor identifier.

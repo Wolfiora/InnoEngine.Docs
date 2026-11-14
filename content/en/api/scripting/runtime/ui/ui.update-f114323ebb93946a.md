@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Advances one context with explicitly routed viewport-local input.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `input`:** The input consumed by update; ownership remains with the caller unless explicitly stated otherwise.

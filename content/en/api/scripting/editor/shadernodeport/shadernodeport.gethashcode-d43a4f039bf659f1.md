@@ -12,4 +12,6 @@ apiScope: Editor
 
 Serves as the default hash function.
 
-**Returns:** A hash code for the current object.
+## Returns
+
+A hash code for the current object.

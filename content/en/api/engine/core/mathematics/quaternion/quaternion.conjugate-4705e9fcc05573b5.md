@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the quaternion conjugate by negating its vector components.
 
+## Parameters
+
 **Parameter `q`:** The q consumed by conjugate; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

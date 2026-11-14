@@ -12,6 +12,8 @@ apiScope: Editor
 
 Declares presentation for an intermediate menu group without inventing a no-op action.
 
+## Parameters
+
 **Parameter `path`:** The slash-delimited path of the group.
 
 **Parameter `order`:** The stable ordering value among sibling groups and items.

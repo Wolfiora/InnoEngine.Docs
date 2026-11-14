@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an asset source mount.
 
+## Parameters
+
 **Parameter `id`:** Stable source identity.
 
 **Parameter `rootPath`:** Absolute or resolvable physical source root.

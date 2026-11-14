@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Scans every installed `.iplugin` package into one isolated candidate snapshot.
 
-**Returns:** Dependency-ordered candidates plus isolated diagnostics.
+## Returns
+
+Dependency-ordered candidates plus isolated diagnostics.

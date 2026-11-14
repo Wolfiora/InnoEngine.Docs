@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers deterministic catalog generation from the current assembly's declared symbols.
 
+## Parameters
+
 **Parameter `context`:** The compiler's incremental registration boundary.

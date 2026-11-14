@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all concrete discovered types assignable to `T`.
 
+## Type parameters
+
 **Type parameter `T`:** The base type used to select assignable concrete types.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

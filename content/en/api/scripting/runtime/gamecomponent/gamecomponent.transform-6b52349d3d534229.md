@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Gets the owning game object's transform.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when the component is detached or destroyed.

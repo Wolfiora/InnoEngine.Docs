@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds an input service until the returned strict last-in-first-out scope is disposed.
 
+## Parameters
+
 **Parameter `input`:** The host-owned input service.
 
-**Returns:** A strict last-in-first-out execution scope.
+## Returns
+
+A strict last-in-first-out execution scope.

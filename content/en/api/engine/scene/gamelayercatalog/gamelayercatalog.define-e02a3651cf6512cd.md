@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Defines or renames a project layer without accepting an authored ID.
 
+## Parameters
+
 **Parameter `layer`:** The compact runtime slot.
 
 **Parameter `name`:** The unique display name.

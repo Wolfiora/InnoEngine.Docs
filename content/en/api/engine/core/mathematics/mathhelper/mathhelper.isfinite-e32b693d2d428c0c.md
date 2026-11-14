@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns true if the value is finite (not NaN or infinity).
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+
+## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

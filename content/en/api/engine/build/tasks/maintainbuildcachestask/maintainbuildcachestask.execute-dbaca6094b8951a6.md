@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Attempts maintenance without changing the successful product build outcome.
 
-**Returns:** True after completed or explicitly deferred automatic maintenance.
+## Returns
+
+True after completed or explicitly deferred automatic maintenance.

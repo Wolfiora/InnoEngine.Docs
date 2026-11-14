@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures the currently valid windows owned or tracked by this platform session.
 
-**Returns:** An immutable-by-convention snapshot of the current windows.
+## Returns
+
+An immutable-by-convention snapshot of the current windows.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when the platform application has already been disposed.

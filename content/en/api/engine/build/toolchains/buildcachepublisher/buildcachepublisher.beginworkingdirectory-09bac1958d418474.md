@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a reusable workspace before its first payload write while the caller holds activity and producer leases. Existing unregistered directories are rejected, rather than adopted by cleanup authority.
 
+## Parameters
+
 **Parameter `directory`:** The new or previously registered workspace within this publisher root.
 
 **Parameter `leasePath`:** The caller's persistent exclusive producer lease outside the workspace.
@@ -18,6 +20,8 @@ Records a reusable workspace before its first payload write while the caller hol
 **Parameter `targetId`:** The explicit product target, or null for shared host work.
 
 **Parameter `cancellationToken`:** Cancels registration before payload writes.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The publisher does not manage reusable workspaces or an existing directory has no current registration.
 

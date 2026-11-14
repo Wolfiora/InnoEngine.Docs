@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether one event requests orderly product shutdown.
 
+## Parameters
+
 **Parameter `evnt`:** Event produced by the active platform adapter.
 
-**Returns:** `true` when the common loop should stop.
+## Returns
+
+`true` when the common loop should stop.

@@ -12,8 +12,12 @@ apiScope: Editor
 
 Begins one tab item.
 
+## Parameters
+
 **Parameter `label`:** The tab label and identity.
 
 **Parameter `flags`:** Tab-item behavior.
 
-**Returns:** `true` when tab contents should be submitted.
+## Returns
+
+`true` when tab contents should be submitted.

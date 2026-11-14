@@ -15,4 +15,6 @@ Captures readable project state owned by this panel.
 
 Overriding this method opts the panel into project-state IO. Panels that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes. Panel visibility is persisted separately for every registered panel.
 
+## Parameters
+
 **Parameter `state`:** The writable parameter that receives the complete readable state for this panel.

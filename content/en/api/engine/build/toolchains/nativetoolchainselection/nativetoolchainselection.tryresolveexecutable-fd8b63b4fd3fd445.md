@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Checks an optional tool capability without discovering a command from the process environment.
 
+## Parameters
+
 **Parameter `name`:** The declared tool identity to check.
 
 **Parameter `executable`:** The frozen absolute path when present, or an empty string when absent.
 
-**Returns:** True only when this selection explicitly supplies the requested tool.
+## Returns
+
+True only when this selection explicitly supplies the requested tool.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The tool identity is empty.

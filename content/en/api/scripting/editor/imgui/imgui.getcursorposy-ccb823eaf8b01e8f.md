@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the local vertical layout cursor.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Deletes one explicitly resolved toolchain output directory when it exists.
 
+## Parameters
+
 **Parameter `path`:** The exact directory selected by a toolchain command.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` is empty or does not resolve to an absolute path.

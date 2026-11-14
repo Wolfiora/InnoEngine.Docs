@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases the current registry snapshot.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Live generation work remains; repeated disposal cannot bypass its retained ownership barrier.

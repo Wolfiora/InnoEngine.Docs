@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Builds a complete resolver generation and rejects duplicate protocol identifiers.
 
+## Parameters
+
 **Parameter `generation`:** The positive generation assigned by the catalog owner.
 
 **Parameter `resolvers`:** Every resolver that belongs to the candidate generation.
 
-**Returns:** An immutable reference catalog ready for publication.
+## Returns
+
+An immutable reference catalog ready for publication.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `generation` is not positive.
 

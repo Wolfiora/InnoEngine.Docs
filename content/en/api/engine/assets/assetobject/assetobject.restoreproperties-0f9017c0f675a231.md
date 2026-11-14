@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Restores detached extension settings using this asset's actual owner and converter generation.
 
+## Type parameters
+
 **Type parameter `TValue`:** Current settings contract with a stable type identity.
+
+## Parameters
 
 **Parameter `stableTypeId`:** Persisted settings type identity.
 
 **Parameter `propertyData`:** Native property payload to restore.
 
 **Parameter `target`:** Detached target, never retained by the asset.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The asset is unowned, retired, or lacks property-state services.

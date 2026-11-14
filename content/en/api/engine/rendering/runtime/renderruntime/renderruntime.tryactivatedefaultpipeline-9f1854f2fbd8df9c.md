@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Validates and selects a project default while preserving its last-good generation.
 
+## Parameters
+
 **Parameter `pipelineAsset`:** Candidate project default pipeline asset.
 
-**Returns:** `true` when a usable generation exists for the candidate.
+## Returns
+
+`true` when a usable generation exists for the candidate.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown during an open graphics frame, during retirement, or after generation cleanup faults the owner.

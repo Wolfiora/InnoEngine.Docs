@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Registers a publisher root; this never adopts unrecorded artifacts inside that root.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute checkout owning the registration.
 
 **Parameter `directory`:** The exact publisher root beneath the checkout.
@@ -20,6 +22,8 @@ Registers a publisher root; this never adopts unrecorded artifacts inside that r
 **Parameter `role`:** The publisher's actual artifact lifetime.
 
 **Parameter `cancellationToken`:** Cancels before registration commits.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** A registration crosses a link or ownership boundary.
 

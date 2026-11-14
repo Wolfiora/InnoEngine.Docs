@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats this value as a human-readable representation.
 
-**Returns:** The human-readable representation of this value.
+## Returns
+
+The human-readable representation of this value.

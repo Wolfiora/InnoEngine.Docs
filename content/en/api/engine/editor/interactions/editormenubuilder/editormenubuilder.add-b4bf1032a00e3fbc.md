@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds a dynamic action placement to the menu currently being constructed.
 
+## Parameters
+
 **Parameter `path`:** The slash-delimited path used to create parent menus and the leaf label.
 
 **Parameter `actionId`:** The stable action identifier invoked by the leaf.
@@ -20,5 +22,7 @@ Adds a dynamic action placement to the menu currently being constructed.
 **Parameter `separatorBefore`:** Whether a visual separator should precede the leaf placement.
 
 **Parameter `argument`:** An optional argument captured for this menu generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` or `actionId` is empty.

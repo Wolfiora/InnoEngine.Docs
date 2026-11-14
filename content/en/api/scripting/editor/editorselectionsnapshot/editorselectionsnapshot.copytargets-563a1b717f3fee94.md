@@ -12,10 +12,16 @@ apiScope: Editor
 
 Resolves this immutable selection in its original domains, including same-identity recovery after a generation change.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type accepted by the current presenter.
+
+## Parameters
 
 **Parameter `interactions`:** The active session supplying the original identity domains.
 
 **Parameter `destination`:** A temporary caller-owned collection to clear and fill.
 
-**Returns:** The number of currently available compatible targets; missing members remain represented by this snapshot.
+## Returns
+
+The number of currently available compatible targets; missing members remain represented by this snapshot.

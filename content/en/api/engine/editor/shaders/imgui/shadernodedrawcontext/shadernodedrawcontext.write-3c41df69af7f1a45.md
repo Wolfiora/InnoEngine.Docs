@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Records an unsaved draft edit through shared history; only an explicit document save applies it to the asset.
 
+## Type parameters
+
 **Type parameter `T`:** Native serializable property type.
+
+## Parameters
 
 **Parameter `key`:** Stable node-local property key.
 

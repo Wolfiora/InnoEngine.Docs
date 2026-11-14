@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws one current-generation preview into the active presentation surface.
 
+## Parameters
+
 **Parameter `handle`:** Preview handle returned by this service.
 
 **Parameter `logicalSize`:** Positive destination size in logical pixels.

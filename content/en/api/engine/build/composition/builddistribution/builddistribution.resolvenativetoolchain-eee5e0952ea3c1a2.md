@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves the SDK integration bound to an explicitly registered publication target.
 
+## Parameters
+
 **Parameter `targetId`:** The requested native target identity, independently selected from the execution host.
 
-**Returns:** The borrowed provider; resolving it freezes tools before component work begins.
+## Returns
+
+The borrowed provider; resolving it freezes tools before component work begins.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** No native toolchain contribution is registered for the target.

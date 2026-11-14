@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates a new audio device for one runtime audio generation.
 
+## Parameters
+
 **Parameter `backend`:** audio implementation selected by the composition root.
 
 **Parameter `options`:** Backend-neutral device options.
 
-**Returns:** A caller-owned backend-neutral audio device.
+## Returns
+
+A caller-owned backend-neutral audio device.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the catalog does not contain the selected backend.

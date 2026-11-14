@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a protected sampled-texture binding value.
 
+## Parameters
+
 **Parameter `id`:** The stable shader binding identifier.
 
 **Parameter `texture`:** The persistent texture handle.
 
 **Parameter `sampler`:** The backend-neutral sampler state.
 
-**Returns:** A binding token accepted by the material-pass construction helpers.
+## Returns
+
+A binding token accepted by the material-pass construction helpers.

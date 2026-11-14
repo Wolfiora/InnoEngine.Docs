@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the adapter-owned display name for a registered game target.
 
+## Parameters
+
 **Parameter `target`:** The stable target identity to query.
 
 **Parameter `displayName`:** Receives the registered user-facing name, or an empty value when no target is registered.
 
-**Returns:** `true` when the target is registered; otherwise, `false`.
+## Returns
+
+`true` when the target is registered; otherwise, `false`.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Reads one indexed payload through this lease's independently pinned stream.
 
-**Returns:** Newly owned bytes with the exact indexed length; oversized or truncated payloads fail explicitly.
+## Returns
+
+Newly owned bytes with the exact indexed length; oversized or truncated payloads fail explicitly.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The payload exceeds the supported array size or does not have its indexed length.

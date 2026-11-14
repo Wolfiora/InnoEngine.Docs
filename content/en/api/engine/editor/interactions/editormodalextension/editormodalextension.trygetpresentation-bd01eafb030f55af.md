@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Safely captures generation-local modal presentation values.
 
+## Parameters
+
 **Parameter `presentation`:** The captured immutable presentation, or its default value when the modal is quarantined.
 
-**Returns:** `true` when every presentation value was read successfully.
+## Returns
+
+`true` when every presentation value was read successfully.

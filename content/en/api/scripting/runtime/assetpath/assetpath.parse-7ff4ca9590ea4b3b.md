@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Parses a canonical path, treating an unqualified value as project-owned.
 
+## Parameters
+
 **Parameter `value`:** Canonical or project-local path.
 
-**Returns:** The isolated asset path.
+## Returns
+
+The isolated asset path.

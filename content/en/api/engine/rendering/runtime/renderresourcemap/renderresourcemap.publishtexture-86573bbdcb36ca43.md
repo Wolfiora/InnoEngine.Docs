@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Publishes a texture under a pipeline-defined semantic identifier.
 
+## Parameters
+
 **Parameter `id`:** Open semantic resource identifier.
 
 **Parameter `texture`:** Valid current-graph texture.

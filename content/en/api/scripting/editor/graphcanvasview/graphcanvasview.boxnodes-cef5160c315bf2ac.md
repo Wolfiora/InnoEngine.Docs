@@ -12,10 +12,14 @@ apiScope: Editor
 
 Finds nodes intersecting a screen-space selection rectangle in document draw order.
 
+## Parameters
+
 **Parameter `layout`:** The current neutral display snapshot.
 
 **Parameter `first`:** One corner of the selection box.
 
 **Parameter `second`:** The opposite corner, in any drag direction.
 
-**Returns:** Stable graph node IDs; no live domain objects are returned.
+## Returns
+
+Stable graph node IDs; no live domain objects are returned.

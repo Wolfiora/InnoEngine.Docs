@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a graphics pipeline descriptor.
 
+## Parameters
+
 **Parameter `vertexShader`:** Target backend vertex shader binary.
 
 **Parameter `fragmentShader`:** Target backend fragment shader binary.

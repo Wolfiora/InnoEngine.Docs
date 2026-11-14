@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Atomically sets the complete current state of one targeted diagnostic group owned by the calling type.
 
+## Parameters
+
 **Parameter `targetId`:** The stable identity of the asset, scene element, or other dynamic target.
 
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type and target.
@@ -18,6 +20,8 @@ Atomically sets the complete current state of one targeted diagnostic group owne
 **Parameter `diagnostic`:** The single current diagnostic. It replaces every previous entry in the targeted group.
 
 **Parameter `displayName`:** The optional target name presented by diagnostic consumers.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `targetId` is empty or `group` is empty.
 

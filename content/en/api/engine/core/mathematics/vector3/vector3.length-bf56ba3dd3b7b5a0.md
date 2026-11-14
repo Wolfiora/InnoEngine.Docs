@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Calculates the Euclidean magnitude of this value.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

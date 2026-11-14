@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the active font line height without spacing.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

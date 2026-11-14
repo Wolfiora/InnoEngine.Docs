@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures the complete contribution without instantiating authoring services or tools.
 
+## Parameters
+
 **Parameter `platform`:** The platform-owned target, packaging, Support Pack and SDK contribution.
 
 **Parameter `compilerFactory`:** The selected content implementation factory, invoked once per pipeline composition.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A contribution or factory is null.

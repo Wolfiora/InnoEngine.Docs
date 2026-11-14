@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reversibly activates a complete candidate while the previous snapshot remains available.
 
+## Parameters
+
 **Parameter `previous`:** The previous active snapshot, or `null` during initial activation.
 
 **Parameter `candidate`:** The candidate exposed through ``P:Inno.Extensibility.Types.TypeRegistry`1.current`` during this callback.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Rebuilds runtime-derived state after the serialized asset payload changes.
 
+## Parameters
+
 **Parameter `previousPayload`:** The previous payload consumed by on runtime payload changed; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `currentPayload`:** The current payload consumed by on runtime payload changed; ownership remains with the caller unless explicitly stated otherwise.

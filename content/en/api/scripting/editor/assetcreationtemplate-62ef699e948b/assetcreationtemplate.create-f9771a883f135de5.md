@@ -12,4 +12,6 @@ apiScope: Editor
 
 Creates a detached default value that has not been imported or published.
 
-**Returns:** A new asset value owned by the caller.
+## Returns
+
+A new asset value owned by the caller.

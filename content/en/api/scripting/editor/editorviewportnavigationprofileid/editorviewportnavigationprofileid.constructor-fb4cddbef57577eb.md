@@ -12,4 +12,6 @@ apiScope: Editor
 
 Creates a stable profile identifier.
 
+## Parameters
+
 **Parameter `value`:** Globally stable profile identity.

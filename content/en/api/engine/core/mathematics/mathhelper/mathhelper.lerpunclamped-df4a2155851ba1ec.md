@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Linearly interpolates between two values without clamping the amount.
 
+## Parameters
+
 **Parameter `value1`:** The value1 consumed by lerp unclamped; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `value2`:** The value2 consumed by lerp unclamped; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `amount`:** The amount consumed by lerp unclamped; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Reads feature-owned settings from neutral state.
 
+## Parameters
+
 **Parameter `state`:** Reload-safe extension state.
 
 **Parameter `settings`:** Native context bound to the canonical Pipeline asset's actual owner.

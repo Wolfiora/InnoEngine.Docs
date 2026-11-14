@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a buffer descriptor.
 
+## Parameters
+
 **Parameter `elementCount`:** Number of addressable elements.
 
 **Parameter `elementStride`:** Element size in bytes.

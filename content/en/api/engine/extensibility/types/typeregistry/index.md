@@ -14,4 +14,6 @@ aliases: []
 
 Builds immutable extension registries from versioned type-cache snapshots.
 
+## Type parameters
+
 **Type parameter `TSnapshot`:** The immutable registry snapshot type.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates immutable positive capacities for one backend generation.
 
+## Parameters
+
 **Parameter `clips`:** Maximum simultaneously retained clip descriptors and native sources.
 
 **Parameter `voices`:** Maximum active voices plus undelivered completions.
 
 **Parameter `buses`:** Maximum simultaneously retained mixer buses.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A capacity is not positive.

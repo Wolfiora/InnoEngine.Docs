@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves imported helper geometry into persistent vertex and index buffers.
 
+## Parameters
+
 **Parameter `geometry`:** Imported geometry asset.
 
 **Parameter `resolvedGeometry`:** Receives generation-scoped GPU geometry when successful.
 
-**Returns:** True when current or last-good geometry is usable.
+## Returns
+
+True when current or last-good geometry is usable.

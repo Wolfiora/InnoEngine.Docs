@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Finds unfinished retirement in an exception tree without discarding its contextual or sibling failures.
 
+## Parameters
+
 **Parameter `exception`:** The exception to classify, including aggregate and ordinary inner-exception wrappers.
 
-**Returns:** A nested timeout when present, otherwise the first pending signal, or null when retirement is not pending. Callers must propagate and retain the original exception rather than replacing it with this classification.
+## Returns
+
+A nested timeout when present, otherwise the first pending signal, or null when retirement is not pending. Callers must propagate and retain the original exception rather than replacing it with this classification.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The exception is null.

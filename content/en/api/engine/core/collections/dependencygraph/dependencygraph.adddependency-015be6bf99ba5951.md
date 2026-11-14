@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Adds an edge indicating that one node depends on another.
 
+## Parameters
+
 **Parameter `node`:** The dependent node.
 
 **Parameter `dependency`:** The required dependency.
 
-**Returns:** `true` when the edge was added.
+## Returns
+
+`true` when the edge was added.

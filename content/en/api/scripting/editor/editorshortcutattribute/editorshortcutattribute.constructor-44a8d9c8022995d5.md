@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a shortcut that can be dispatched from any focused interaction surface.
 
+## Parameters
+
 **Parameter `key`:** The non-modifier key that triggers the action.
 
 **Parameter `modifiers`:** The exact additional modifier keys required by the gesture.

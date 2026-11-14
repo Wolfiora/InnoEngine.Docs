@@ -12,7 +12,11 @@ apiScope: Editor
 
 Captures typed Pipeline settings with this source owner's complete reference and dependency context.
 
+## Type parameters
+
 **Type parameter `TSettings`:** Current plugin settings contract.
+
+## Parameters
 
 **Parameter `assetId`:** Open Pipeline identity.
 

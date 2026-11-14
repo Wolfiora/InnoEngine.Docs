@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a logical type belongs to the retiring generation.
 
+## Parameters
+
 **Parameter `typeRef`:** The logical type to inspect.
 
-**Returns:** `true` when the candidate replaces or removes the type.
+## Returns
+
+`true` when the candidate replaces or removes the type.

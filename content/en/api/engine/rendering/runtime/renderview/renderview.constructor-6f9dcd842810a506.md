@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the exact view used to render content into a viewport.
 
+## Parameters
+
 **Parameter `id`:** Stable identity within the current output session.
 
 **Parameter `viewport`:** Destination pixel rectangle.

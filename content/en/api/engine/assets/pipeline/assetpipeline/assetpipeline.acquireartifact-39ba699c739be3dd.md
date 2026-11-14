@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires one verified authoring artifact generation for an explicit lifetime.
 
+## Parameters
+
 **Parameter `persistentId`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Stable artifact output name.
 
-**Returns:** A lease over the currently committed immutable artifact generation.
+## Returns
+
+A lease over the currently committed immutable artifact generation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the requested artifact is unavailable.

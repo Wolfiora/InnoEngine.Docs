@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Declares a component's source, execution and SDK inputs before binding outputs need to exist. The artifact publisher attaches the exact selected generation before hashing or compiling.
 
+## Parameters
+
 **Parameter `context`:** The operation's checkout and previously selected host tools.
 
 **Parameter `owner`:** The component project whose implementation participates in recipe identity.
@@ -25,6 +27,10 @@ Declares a component's source, execution and SDK inputs before binding outputs n
 
 **Parameter `implementationPaths`:** The complete explicit implementation inputs used by this component, excluding unrelated product code.
 
-**Returns:** The frozen component declaration, without generating bindings or reading generated output. Unrelated build and Editor implementation assemblies do not affect it.
+## Returns
+
+The frozen component declaration, without generating bindings or reading generated output. Unrelated build and Editor implementation assemblies do not affect it.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** A required executor or component project is absent from the checkout.

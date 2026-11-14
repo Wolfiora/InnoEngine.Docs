@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the number of independently addressable layers or slices at one mip level.
 
+## Parameters
+
 **Parameter `mipLevel`:** Zero-based mip level.
 
-**Returns:** The array-layer count for 2D textures, six faces per cubemap layer, or the mip depth for 3D textures.
+## Returns
+
+The array-layer count for 2D textures, six faces per cubemap layer, or the mip depth for 3D textures.

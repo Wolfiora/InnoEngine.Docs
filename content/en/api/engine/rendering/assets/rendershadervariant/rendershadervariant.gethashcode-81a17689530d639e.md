@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Computes a hash code from the canonical variant representation.
 
-**Returns:** A hash code consistent with logical equality.
+## Returns
+
+A hash code consistent with logical equality.

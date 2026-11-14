@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Drains document events queued by preceding updates.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
-**Returns:** Events emitted since the preceding drain, in dispatch order.
+## Returns
+
+Events emitted since the preceding drain, in dispatch order.

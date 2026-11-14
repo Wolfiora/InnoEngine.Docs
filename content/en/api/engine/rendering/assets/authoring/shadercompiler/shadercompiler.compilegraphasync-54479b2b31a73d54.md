@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures an imported graph in the current owner generation, then starts native compilation without retaining its asset.
 
+## Parameters
+
 **Parameter `shader`:** Committed graph-backed shader asset.
 
 **Parameter `target`:** Target policy and device capabilities.
@@ -27,4 +29,6 @@ Captures an imported graph in the current owner generation, then starts native c
 
 **Parameter `cancellationToken`:** Cancellation before candidate publication.
 
-**Returns:** A native compilation task for the captured graph, or graph diagnostics without any native work.
+## Returns
+
+A native compilation task for the captured graph, or graph diagnostics without any native work.

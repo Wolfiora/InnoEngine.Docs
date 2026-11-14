@@ -12,6 +12,10 @@ apiScope: Editor
 
 Creates an opaque storage binding value with a complete element, format and access contract.
 
+## Parameters
+
 **Parameter `storage`:** Resource description, independent of any actual GPU object.
 
-**Returns:** An immutable storage handle type; it cannot be constructed or copied as an aggregate.
+## Returns
+
+An immutable storage handle type; it cannot be constructed or copied as an aggregate.

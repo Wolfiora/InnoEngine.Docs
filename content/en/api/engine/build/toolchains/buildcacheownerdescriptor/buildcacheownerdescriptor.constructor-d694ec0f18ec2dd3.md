@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Borrows publisher callbacks without discovering artifacts from directory names or file extensions.
 
+## Parameters
+
 **Parameter `id`:** The unique registration identity within this cleanup operation.
 
 **Parameter `directory`:** The absolute cache root exclusively managed by this publisher.
@@ -22,6 +24,8 @@ Borrows publisher callbacks without discovering artifacts from directory names o
 **Parameter `readProtectedArtifacts`:** Returns current product and Pack roots; retirement follows their complete dependency closure. Root updates must hold coordinationPath and retain each referenced artifact's reading lease.
 
 **Parameter `retireMetadata`:** Optional owner-specific metadata retirement, called only under exclusive owner coordination.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity is blank or a path is relative.
 

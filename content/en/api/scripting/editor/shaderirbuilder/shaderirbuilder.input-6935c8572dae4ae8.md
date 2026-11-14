@@ -12,10 +12,16 @@ apiScope: Editor
 
 Reads a named input from the enclosing typed function or stage interface.
 
+## Parameters
+
 **Parameter `name`:** Stable interface identity; it is not emitted as native source verbatim.
 
 **Parameter `type`:** Complete non-void input type.
 
-**Returns:** The shared input value for this name and type.
+## Returns
+
+The shared input value for this name and type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is empty, type is void, or this input was already declared with another type.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Begins retirement once all catalog participants have released the generation.
 
-**Returns:** A non-owning probe that completes only after code and generation storage are released.
+## Returns
+
+A non-owning probe that completes only after code and generation storage are released.

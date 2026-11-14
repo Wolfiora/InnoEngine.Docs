@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an interleaved vertex layout.
 
+## Parameters
+
 **Parameter `attributes`:** Unique attributes in ascending byte order. Attributes with offset -1 are packed after the preceding attribute.
 
 **Parameter `stride`:** Explicit positive stream stride, or zero to use the end of the final attribute. A larger stride preserves trailing application-defined padding.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable processor configuration.
 
+## Parameters
+
 **Parameter `id`:** Open processor protocol identifier.
 
 **Parameter `parameters`:** Complete processor parameter set.

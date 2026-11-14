@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Runs one build command without taking ownership of the caller's cancellation source.
 
+## Parameters
+
 **Parameter `arguments`:** The command and its documented options; help prints the supported command names.
 
 **Parameter `cancellationToken`:** Cancels owned work and preserves completed publications according to their pipeline contracts.
 
-**Returns:** Zero on success, two on cancellation, or one on a command or execution failure.
+## Returns
+
+Zero on success, two on cancellation, or one on a command or execution failure.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The argument array is absent.

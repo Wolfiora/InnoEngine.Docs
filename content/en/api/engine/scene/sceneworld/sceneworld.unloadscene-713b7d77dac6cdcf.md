@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Unloads one scene and selects another loaded scene when necessary.
 
+## Parameters
+
 **Parameter `scene`:** The scene to unload.
 
-**Returns:** `true` when the scene was loaded by this world; otherwise, `false`.
+## Returns
+
+`true` when the scene was loaded by this world; otherwise, `false`.

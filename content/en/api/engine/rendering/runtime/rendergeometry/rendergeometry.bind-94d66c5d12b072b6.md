@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Binds both geometry streams at their first element.
 
+## Parameters
+
 **Parameter `commands`:** Current pass command encoder.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Copies deployment metadata so the source can retire its own buffers immediately.
 
+## Parameters
+
 **Parameter `manifest`:** The complete strict runtime manifest envelope.
 
 **Parameter `catalog`:** The serialized runtime content catalog.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Either document is empty.

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves a declared checkout or selected binding input to its copied counterpart.
 
+## Parameters
+
 **Parameter `path`:** An absolute recipe input path. External SDK paths retain their original location.
 
-**Returns:** The copied checkout or binding input, or the unchanged external SDK location.
+## Returns
+
+The copied checkout or binding input, or the unchanged external SDK location.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The path is empty or relative.
 

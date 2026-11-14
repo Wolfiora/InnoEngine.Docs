@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Submits an isolated rendering composition through the shared offscreen viewport bridge.
 
+## Parameters
+
 **Parameter `composition`:** Invocation-local layers; the host retains no contributor instances after the frame.
 
 **Parameter `handle`:** Receives a current-generation preview once its target is resident.
 
-**Returns:** True when the completed previous output can be drawn; false during initial allocation or resize.
+## Returns
+
+True when the completed previous output can be drawn; false during initial allocation or resize.

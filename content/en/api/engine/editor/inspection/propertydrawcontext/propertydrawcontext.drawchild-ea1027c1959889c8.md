@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a nested serialized property with presentation metadata resolved from its immediate owner.
 
+## Parameters
+
 **Parameter `metadataOwner`:** Object that declares the nested serialized member.
 
 **Parameter `property`:** Nested property.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Contains one atomically captured sample import status.
 
+## Parameters
+
 **Parameter `operationId`:** The import identity within its owner.
 
 **Parameter `fraction`:** The completed validation and publication fraction.

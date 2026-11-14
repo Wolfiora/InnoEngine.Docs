@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an isolated runtime identity domain.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown if the process exhausts the available identity-domain values.

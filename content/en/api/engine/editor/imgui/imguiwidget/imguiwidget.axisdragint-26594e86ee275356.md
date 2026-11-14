@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws an integer drag field with a compact colored axis prefix.
 
+## Parameters
+
 **Parameter `id`:** Stable control identifier.
 
 **Parameter `axis`:** Axis label such as X, Y, Z, or W.
@@ -21,4 +23,6 @@ Draws an integer drag field with a compact colored axis prefix.
 
 **Parameter `speed`:** Drag speed.
 
-**Returns:** `true` when the value changed.
+## Returns
+
+`true` when the value changed.

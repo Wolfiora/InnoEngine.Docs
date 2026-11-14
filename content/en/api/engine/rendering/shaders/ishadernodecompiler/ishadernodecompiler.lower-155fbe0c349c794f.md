@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Lowers the node into the supplied typed builder without generating source strings.
 
+## Parameters
+
 **Parameter `context`:** Connected typed inputs and the shared region builder.
 
-**Returns:** Exactly the declared output ports by stable identity.
+## Returns
+
+Exactly the declared output ports by stable identity.

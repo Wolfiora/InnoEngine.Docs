@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get a catalog snapshot by source-relative path.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `info`:** The catalog snapshot when available.
 
-**Returns:** `true` when the path is cataloged.
+## Returns
+
+`true` when the path is cataloged.

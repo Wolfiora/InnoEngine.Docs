@@ -12,8 +12,12 @@ apiScope: Editor
 
 Captures the state consumed by OnDraw and measures it without drawing or performing domain operations. Content-sized modals must return a finite, nonnegative size. Fixed-size modals may return null.
 
+## Parameters
+
 **Parameter `context`:** The current owner-thread context.
 
 **Parameter `availableContentSize`:** The bounded, already scaled content area.
 
-**Returns:** The content extent required by the captured state, or null for explicit sizing.
+## Returns
+
+The content extent required by the captured state, or null for explicit sizing.

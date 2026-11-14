@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Queries the current playback state for a voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice handle to query.
 
 **Parameter `playbackState`:** Receives the current state when the handle is known.
 
-**Returns:** `true` when the handle belongs to a known voice.
+## Returns
+
+`true` when the handle belongs to a known voice.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures the indexed entries represented by this view.
 
+## Parameters
+
 **Parameter `includeDirectories`:** Whether directory entries are included.
 
-**Returns:** A stable entry collection for owner-thread input discovery.
+## Returns
+
+A stable entry collection for owner-thread input discovery.

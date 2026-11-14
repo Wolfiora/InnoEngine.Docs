@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Declares a shader read from a texture.
 
+## Parameters
+
 **Parameter `texture`:** Texture read by this pass.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates one handle that completes after every supplied dependency.
 
+## Parameters
+
 **Parameter `dependencies`:** Handles combined by the returned synchronization point.
 
-**Returns:** A generation-safe combined handle.
+## Returns
+
+A generation-safe combined handle.

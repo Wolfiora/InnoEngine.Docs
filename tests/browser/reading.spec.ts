@@ -131,28 +131,57 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   })).toBeLessThanOrEqual(8);
 });
 
-test('native sidebar expands complete inactive branches and remembers navigation state', async ({ page }) => {
+test('sidebar starts collapsed, separates navigation from disclosure and sorts API types', async ({ page }, testInfo) => {
   await page.goto('api/');
   const mobile = page.getByRole('button', { name: /Menu/ });
   if (await mobile.isVisible()) await mobile.click();
-  const engine = page.locator('a[href="/InnoEngine.Docs/api/engine/"][data-group-home]').first();
-  const group = engine.locator('..').locator('..').locator('..');
-  await group.locator(':scope > summary').click();
-  await expect(group).toHaveAttribute('open', '');
-  await expect(engine).toBeVisible();
-  await expect(group.locator('a[href="/InnoEngine.Docs/api/engine/core/collections/"]')).toHaveCount(1);
-  await engine.focus();
+  const sidebar = page.locator('inno-sidebar');
+  await expect(sidebar.locator('details[open]')).toHaveCount(0);
+  const api = sidebar.locator('details[data-key="/InnoEngine.Docs/api/"]');
+  await api.locator(':scope > summary').focus();
   await page.keyboard.press('Enter');
+  await expect(api).toHaveAttribute('open', '');
+  const engine = sidebar.locator('details[data-key="/InnoEngine.Docs/api/engine/"]');
+  const engineLink = engine.locator(':scope > summary > a');
+  await expect(sidebar.locator('a[href="/InnoEngine.Docs/api/engine/"]')).toHaveCount(1);
+  await engineLink.click();
   await expect(page).toHaveURL(/\/api\/engine\/$/);
-  await expect(page.getByRole('main').getByRole('table')).toBeVisible();
   if (await mobile.isVisible()) await mobile.click();
-  await expect(page.locator('a[href="/InnoEngine.Docs/api/engine/"][data-group-home]').first()).toBeVisible();
-  const scripting = page.locator('a[href="/InnoEngine.Docs/api/scripting/"][data-group-home]').first();
-  await scripting.locator('..').locator('..').locator('..').locator(':scope > summary').focus();
-  await page.keyboard.press('Enter');
-  await scripting.click();
-  await expect(page).toHaveURL(/\/api\/scripting\/$/);
+  await expect(engine).not.toHaveAttribute('open');
+  await expect(api).toHaveAttribute('open', '');
   await expect(page.getByRole('main').getByRole('table')).toBeVisible();
+  await engine.locator(':scope > summary > .caret').click();
+  await expect(engine).toHaveAttribute('open', '');
+  const scripting = sidebar.locator('details[data-key="/InnoEngine.Docs/api/scripting/"]');
+  await scripting.locator(':scope > summary > .caret').click();
+  const authoring = sidebar.locator('details[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
+  await authoring.locator(':scope > summary > .caret').click();
+  const names = await authoring.locator(':scope > ul > li > a').allTextContents();
+  expect(names).toContain('HeaderAttribute');
+  expect(names).toEqual([...names].sort((a,b)=>a.localeCompare(b,'en',{sensitivity:'base'})));
+  await page.screenshot({ path: testInfo.outputPath('linked-categories.png') });
+  await authoring.locator(':scope > summary > a').focus();
+  await page.keyboard.press('Enter');
+  await expect(page).toHaveURL(/\/api\/scripting\/authoring\/$/);
+});
+
+test('XML summaries lead the page and project metadata sits directly above inheritance', async ({ page }, testInfo) => {
+  await page.goto('api/scripting/authoring/headerattribute/');
+  const main = page.getByRole('main');
+  const order = await main.evaluate(element => {
+    const heading = element.querySelector('h1')!;
+    const summary = (heading.closest('.sl-heading-wrapper') ?? heading).nextElementSibling;
+    const inherits = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('Inherits:'))!;
+    return { summary: summary?.textContent, project: inherits.previousElementSibling?.textContent };
+  });
+  expect(order.summary).toContain('Starts a visually separated Inspector section');
+  expect(order.project).toContain('Project: Inno.Editor.Annotations');
+  await page.screenshot({ path: testInfo.outputPath('xml-summary-and-metadata.png') });
+  await page.goto('api/engine/core/collections/');
+  await main.getByRole('link', { name: 'DependencyGraph<TKey>', exact: true }).click();
+  const remarks = main.getByRole('heading', { name: 'Remarks', exact: true });
+  await expect(remarks).toHaveCount(1);
+  await expect(remarks).toHaveJSProperty('tagName', 'H2');
 });
 
 test('nested project categories use tables with functional descriptions', async ({ page }) => {
@@ -240,6 +269,18 @@ test('essential ownership content remains available without JavaScript', async (
     await expect(page.locator('#scene-ownership-contract')).toBeVisible();
     await expect(page.getByRole('main')).toContainText('Entering a scope does not add synchronization');
     await expect(page.getByRole('link', { name: 'Types and exact member contracts', exact: true })).toBeVisible();
+    await page.goto(new URL('api/', baseURL).href);
+    const sidebar = page.locator('inno-sidebar');
+    await expect(sidebar.locator('details[open]')).toHaveCount(0);
+    if (page.viewportSize()!.width < 800) {
+      // Starlight's mobile menu requires JavaScript; the canonical category table remains a complete reading path.
+      await page.getByRole('main').getByRole('link', { name: 'Engine', exact: true }).click();
+    } else {
+      await sidebar.locator('details[data-key="/InnoEngine.Docs/api/"] > summary > .caret').click();
+      await sidebar.locator('details[data-key="/InnoEngine.Docs/api/engine/"] > summary > a').click();
+    }
+    await expect(page).toHaveURL(/\/api\/engine\/$/);
+    await expect(page.getByRole('main').getByRole('table')).toBeVisible();
   } finally {
     await context.close();
   }
@@ -252,6 +293,8 @@ test('navigation and theme controls work at the selected viewport', async ({ pag
   // Starlight's navigation wrapper uses display: contents; exercise the visible link itself.
   const navigation = page.getByRole('navigation', { name: 'Main', exact: true });
   const task = navigation.getByRole('link', { name: 'Instantiate a prefab in its owning scene', exact: true });
+  await navigation.locator('summary[aria-label="Toggle Manual"]').click();
+  await navigation.locator('summary[aria-label="Toggle Scenes and objects"]').click();
   await expect(task).toBeVisible();
   const theme = page.getByRole('combobox', { name: 'Select theme', exact: true });
   await theme.selectOption('dark');

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a detached engine asset content snapshot.
 
+## Parameters
+
 **Parameter `payload`:** The complete serialized runtime graph.
 
 **Parameter `dependencies`:** The direct persistent asset dependencies of the graph.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `payload` is empty.

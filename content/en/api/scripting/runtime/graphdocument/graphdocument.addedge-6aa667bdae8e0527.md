@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Adds an edge while preserving document order.
 
+## Parameters
+
 **Parameter `edge`:** Edge record to add.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the edge identifier already exists.

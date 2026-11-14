@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates validated imported font metadata.
 
+## Parameters
+
 **Parameter `faceCount`:** The number of faces in the source collection.
 
 **Parameter `encodedByteLength`:** The encoded source length in bytes.

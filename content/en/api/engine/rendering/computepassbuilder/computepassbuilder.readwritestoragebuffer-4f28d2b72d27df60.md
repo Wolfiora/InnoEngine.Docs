@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Declares an unordered buffer read and write.
 
+## Parameters
+
 **Parameter `buffer`:** Storage buffer read and written by compute work.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Opens a read-only stream over the retained immutable artifact.
 
-**Returns:** A new independently owned read stream.
+## Returns
+
+A new independently owned read stream.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Freezes validated manifest declarations without retaining their mutable arrays or entries.
 
+## Parameters
+
 **Parameter `modules`:** Current-format runtime manifest declarations.
 
-**Returns:** An immutable logical deployment; invalid declarations fail before activation.
+## Returns
+
+An immutable logical deployment; invalid declarations fail before activation.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A declaration or its ownership and dependencies are invalid.

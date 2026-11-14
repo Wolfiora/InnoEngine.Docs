@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Executes preparation and submission in stack order, then completion in reverse order.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Thrown when multiple render or unwind callbacks fail.
 

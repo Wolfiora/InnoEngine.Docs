@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates identity and ownership declarations.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the contribution is malformed.

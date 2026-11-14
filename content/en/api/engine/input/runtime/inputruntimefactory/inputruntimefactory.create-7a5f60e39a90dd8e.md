@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an input feature over a newly allocated session backend.
 
+## Parameters
+
 **Parameter `context`:** The isolated session context passed to the backend factory.
 
-**Returns:** A new input feature that exclusively owns its backend.
+## Returns
+
+A new input feature that exclusively owns its backend.

@@ -12,10 +12,14 @@ apiScope: Editor
 
 Adds a node with a generated stable identity.
 
+## Parameters
+
 **Parameter `definitionId`:** Stable node definition ID.
 
 **Parameter `position`:** Initial graph-space position.
 
 **Parameter `values`:** Optional neutral property values.
 
-**Returns:** The new stable node identity.
+## Returns
+
+The new stable node identity.

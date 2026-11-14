@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Loads a canonical asset by persistent identity.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 
-**Returns:** The canonical asset, or `null` when unavailable or incompatible.
+## Returns
+
+The canonical asset, or `null` when unavailable or incompatible.

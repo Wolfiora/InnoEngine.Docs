@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Encodes one owner-managed slot revision into an opaque playback handle.
 
+## Parameters
+
 **Parameter `slot`:** The non-negative slot owned by the runtime.
 
 **Parameter `slotGeneration`:** The non-zero revision used to reject reused slots.
 
-**Returns:** A playback handle that cannot alias a different allocator.
+## Returns
+
+A playback handle that cannot alias a different allocator.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The slot or its generation is invalid.

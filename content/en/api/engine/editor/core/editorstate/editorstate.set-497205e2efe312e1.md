@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Writes one neutral value under a stable extension-local key.
 
+## Type parameters
+
 **Type parameter `T`:** The neutral value type supplied by the caller.
+
+## Parameters
 
 **Parameter `key`:** The stable key local to the owning module or panel.
 
 **Parameter `value`:** The value to persist.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `key` is empty.
 

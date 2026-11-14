@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Selects the code and metadata implementation before creating the application host.
 
+## Parameters
+
 **Parameter `modules`:** The host catalog source; ownership transfers to the built EngineHost.
 
 **Parameter `types`:** The type metadata provider corresponding to the same code deployment strategy.
 
-**Returns:** This builder for fluent composition.
-
 **Parameter `serialization`:** The declaration access provider corresponding to the same managed deployment.
+
+## Returns
+
+This builder for fluent composition.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Uses the same owner inventory, dependency protection and retirement plan for automatic and explicit cleanup.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute checkout containing registered publishers.
 
 **Parameter `policy`:** The bounded size and duration policy.
@@ -23,7 +25,11 @@ Uses the same owner inventory, dependency protection and retirement plan for aut
 
 **Parameter `cancellationToken`:** Cancels inventory and retirement.
 
-**Returns:** A completed, bounded cleanup operation with protected owners retained.
+## Returns
+
+A completed, bounded cleanup operation with protected owners retained.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Explicit retirement encountered failures.
 

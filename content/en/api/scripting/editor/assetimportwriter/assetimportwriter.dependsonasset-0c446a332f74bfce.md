@@ -12,4 +12,6 @@ apiScope: Editor
 
 Declares a runtime dependency by persistent descriptor.
 
+## Parameters
+
 **Parameter `dependency`:** The dependency consumed by depends on asset; ownership remains with the caller unless explicitly stated otherwise.

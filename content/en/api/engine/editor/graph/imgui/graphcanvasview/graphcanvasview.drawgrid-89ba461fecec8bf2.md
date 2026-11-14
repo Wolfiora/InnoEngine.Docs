@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a bounded graph-space grid through the current UI drawing context.
 
+## Parameters
+
 **Parameter `color`:** The packed presentation color.
 
 **Parameter `spacing`:** Positive graph-space grid spacing.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Spacing is nonpositive or nonfinite.

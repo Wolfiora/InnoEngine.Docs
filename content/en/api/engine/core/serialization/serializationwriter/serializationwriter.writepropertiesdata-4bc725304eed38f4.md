@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Writes independently restorable property bytes through the current converter generation.
 
+## Parameters
+
 **Parameter `name`:** The unique member receiving the binary property snapshot.
 
 **Parameter `value`:** The object whose persistent properties are captured once.
 
 **Parameter `context`:** The complete owner context, or null to use this writer's context.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source object is null.
 

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Adds a frame-scoped compute pass.
 
+## Type parameters
+
 **Type parameter `TPassData`:** Pass payload type.
+
+## Parameters
 
 **Parameter `name`:** Unique diagnostic name.
 
@@ -21,4 +25,6 @@ Adds a frame-scoped compute pass.
 
 **Parameter `execute`:** Command recording callback.
 
-**Returns:** A builder for compute resources and ordering.
+## Returns
+
+A builder for compute resources and ordering.

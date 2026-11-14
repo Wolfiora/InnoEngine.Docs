@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a layer stack that obtains one event scope for each attachment.
 
+## Parameters
+
 **Parameter `eventHubFactory`:** The factory used to create a distinct event hub for every attached layer.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `eventHubFactory` is `null`.

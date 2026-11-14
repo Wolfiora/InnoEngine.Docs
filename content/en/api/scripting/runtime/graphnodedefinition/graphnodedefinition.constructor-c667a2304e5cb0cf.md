@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a graph node definition.
 
+## Parameters
+
 **Parameter `id`:** Globally stable definition identifier.
 
 **Parameter `displayName`:** Artist-facing display name.

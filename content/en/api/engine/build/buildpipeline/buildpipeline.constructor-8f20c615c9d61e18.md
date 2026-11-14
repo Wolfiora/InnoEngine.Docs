@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a build pipeline from installed Player Support Packs and platform packagers.
 
+## Parameters
+
 **Parameter `supportPackRoot`:** The directory containing one child directory per `T:Inno.Build.BuildTargetId`.
 
 **Parameter `assets`:** The active authoring asset pipeline captured by builds.
@@ -30,5 +32,7 @@ Creates a build pipeline from installed Player Support Packs and platform packag
 **Parameter `managedDeployments`:** Explicit managed publishers selected independently of the platform packagers.
 
 **Parameter `supportPackProvisioner`:** Optional build-time provider that checks current source and SDK inputs during explicit pack preparation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the Support Pack root is empty, no target is provided, or a target identity is duplicated.

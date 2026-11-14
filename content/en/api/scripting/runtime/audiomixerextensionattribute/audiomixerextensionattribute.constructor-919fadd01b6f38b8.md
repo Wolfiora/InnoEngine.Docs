@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a mixer extension declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable mixer extension identifier.

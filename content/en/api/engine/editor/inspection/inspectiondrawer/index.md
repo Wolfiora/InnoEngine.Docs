@@ -14,4 +14,6 @@ aliases: []
 
 Provides the target-specific header presentation and body drawing behavior for an inspected target.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type inspected by the drawer.

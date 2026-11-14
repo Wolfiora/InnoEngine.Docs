@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads and validates the application identity without requiring serialization services to be initialized.
 
+## Parameters
+
 **Parameter `data`:** The complete runtime manifest envelope.
 
-**Returns:** The stable application identity declared by the Player build.
+## Returns
+
+The stable application identity declared by the Player build.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the envelope is truncated, malformed, or contains an invalid application identity.

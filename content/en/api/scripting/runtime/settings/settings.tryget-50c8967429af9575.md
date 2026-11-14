@@ -12,12 +12,20 @@ apiScope: Runtime
 
 Tries to get an isolated effective setting from the current extension generation.
 
+## Type parameters
+
 **Type parameter `TSetting`:** The required setting contract.
+
+## Parameters
 
 **Parameter `id`:** The stable setting protocol identity.
 
 **Parameter `setting`:** Receives an independently owned effective snapshot when available.
 
-**Returns:** `true` when a compatible setting exists; otherwise, `false`.
+## Returns
+
+`true` when a compatible setting exists; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no project settings lookup is active for the caller.

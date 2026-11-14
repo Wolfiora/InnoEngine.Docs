@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates or reconnects one input endpoint to an output endpoint.
 
+## Parameters
+
 **Parameter `output`:** Source endpoint.
 
 **Parameter `input`:** Destination endpoint.
 
-**Returns:** The generated connection identity.
+## Returns
+
+The generated connection identity.

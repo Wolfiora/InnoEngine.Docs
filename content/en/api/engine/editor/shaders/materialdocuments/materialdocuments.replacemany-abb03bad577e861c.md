@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Changes compatible selected drafts within one shared gesture.
 
+## Parameters
+
 **Parameter `candidates`:** Detached Material values keyed by persistent source identity.
 
 **Parameter `mergeKey`:** The current gesture key, or null for a discrete edit.

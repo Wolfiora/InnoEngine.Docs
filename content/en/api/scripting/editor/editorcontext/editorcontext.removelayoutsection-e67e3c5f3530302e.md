@@ -12,8 +12,14 @@ apiScope: Editor
 
 Removes one editor layout section from the in-memory document.
 
+## Parameters
+
 **Parameter `sectionName`:** The section name without its INI header syntax.
 
-**Returns:** `true` when an existing section was removed.
+## Returns
+
+`true` when an existing section was removed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `sectionName` is empty or cannot be represented in the layout.

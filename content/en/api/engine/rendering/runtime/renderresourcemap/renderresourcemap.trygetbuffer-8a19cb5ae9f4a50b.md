@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get a published buffer.
 
+## Parameters
+
 **Parameter `id`:** Open semantic resource identifier.
 
 **Parameter `buffer`:** Receives the current-graph buffer.
 
-**Returns:** `true` when the buffer has been published.
+## Returns
+
+`true` when the buffer has been published.

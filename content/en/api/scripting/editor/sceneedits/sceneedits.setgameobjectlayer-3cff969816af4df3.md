@@ -12,11 +12,15 @@ apiScope: Editor
 
 Changes the layer of a live GameObject and records the two stable numeric layer slots.
 
+## Parameters
+
 **Parameter `gameObject`:** The live GameObject whose layer should change.
 
 **Parameter `layer`:** The requested project layer slot.
 
 **Parameter `historyName`:** The user-facing history entry name.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `gameObject` is `null`.
 

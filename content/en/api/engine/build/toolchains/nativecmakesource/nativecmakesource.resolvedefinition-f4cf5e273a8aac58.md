@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves declared input paths in one CMake definition without redirecting output or SDK locations.
 
+## Parameters
+
 **Parameter `argument`:** An ordered CMake argument; definition values may contain semicolon-separated paths.
 
-**Returns:** The definition with known input paths redirected, or the original nondefinition argument.
+## Returns
+
+The definition with known input paths redirected, or the original nondefinition argument.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The argument is null.

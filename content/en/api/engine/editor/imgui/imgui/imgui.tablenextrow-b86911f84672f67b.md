@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Advances to the next table row.
 
+## Parameters
+
 **Parameter `flags`:** Row presentation flags.
 
 **Parameter `minimumHeight`:** Minimum row height in UI pixels.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an audio content provider declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable provider identifier.
 
 **Parameter `priority`:** Provider invocation priority; lower values run first.

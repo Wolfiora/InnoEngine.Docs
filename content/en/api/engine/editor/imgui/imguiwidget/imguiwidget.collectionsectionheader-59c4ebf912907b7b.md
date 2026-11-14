@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Draws a square collection-section band whose background, separator, and padding are shared with hierarchy and Inspector presentation.
 
+## Parameters
+
 **Parameter `title`:** Literal section title.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.

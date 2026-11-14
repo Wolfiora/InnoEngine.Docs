@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a content admission snapshot without retaining providers or host content.
 
+## Parameters
+
 **Parameter `capacity`:** Combined emitter and listener budget available to the update.
 
 **Parameter `acceptedSnapshots`:** Snapshots accepted from fully validated provider contributions.
 
 **Parameter `rejectedProviders`:** Provider contributions discarded because submission, validation, or capacity admission failed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A count is negative or accepted snapshots exceed capacity.

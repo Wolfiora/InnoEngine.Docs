@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a project setting declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable setting identifier.
 
 **Parameter `allowPluginContributions`:** Whether Plugin packages may contribute values to this protocol.

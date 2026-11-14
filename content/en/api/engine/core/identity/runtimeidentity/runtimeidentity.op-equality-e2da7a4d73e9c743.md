@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two runtime identities are equal.
 
+## Parameters
+
 **Parameter `left`:** The first runtime identity.
 
 **Parameter `right`:** The second runtime identity.
 
-**Returns:** `true` when both values are equal; otherwise, `false`.
+## Returns
+
+`true` when both values are equal; otherwise, `false`.

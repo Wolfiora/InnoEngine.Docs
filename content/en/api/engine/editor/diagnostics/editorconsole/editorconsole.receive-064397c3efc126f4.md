@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Appends one asynchronously dispatched log entry.
 
+## Parameters
+
 **Parameter `entry`:** The immutable entry to append.

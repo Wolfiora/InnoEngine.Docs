@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Deletes selected subtrees atomically, omitting descendants already covered by a selected ancestor.
 
+## Parameters
+
 **Parameter `targets`:** Live objects to delete; every owner is validated before the first mutation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** An owner is unavailable, read-only, or rollback fails.

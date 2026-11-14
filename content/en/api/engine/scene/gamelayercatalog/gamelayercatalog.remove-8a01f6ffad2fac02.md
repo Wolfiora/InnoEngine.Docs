@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes a custom layer definition while retaining its numeric slot and interactions.
 
+## Parameters
+
 **Parameter `layer`:** The custom layer slot to undefine.
 
-**Returns:** `true` when a definition was removed.
+## Returns
+
+`true` when a definition was removed.

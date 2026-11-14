@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a detached candidate with the input and its material/resource declaration updated together.
 
+## Parameters
+
 **Parameter `graph`:** Current shader graph, never mutated by this operation.
 
 **Parameter `nodeId`:** Stage input node identity.
@@ -21,6 +23,10 @@ Creates a detached candidate with the input and its material/resource declaratio
 
 **Parameter `context`:** Complete owner reference context for texture defaults.
 
-**Returns:** A serializable candidate. Invalid input remains visible for normal graph validation.
+## Returns
+
+A serializable candidate. Invalid input remains visible for normal graph validation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity does not name a stage input node.

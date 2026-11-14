@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether this instance and the supplied value represent the same logical state.
 
+## Parameters
+
 **Parameter `other`:** The value to compare with this instance.
 
-**Returns:** `true` when both values represent the same logical state; otherwise, `false`.
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

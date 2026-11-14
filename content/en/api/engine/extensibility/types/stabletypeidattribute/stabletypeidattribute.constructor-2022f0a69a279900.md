@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Defines a stable identity for a type, used by persistence and hot-reload remapping.
 
+## Parameters
+
 **Parameter `id`:** The stable identity used to locate the requested value.

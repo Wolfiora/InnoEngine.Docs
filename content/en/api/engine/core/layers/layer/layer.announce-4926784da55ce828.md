@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Dispatches an event immediately inside this layer's event scope.
 
+## Parameters
+
 **Parameter `evnt`:** The event to dispatch to this layer's listeners.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the layer is not currently attached to a stack.

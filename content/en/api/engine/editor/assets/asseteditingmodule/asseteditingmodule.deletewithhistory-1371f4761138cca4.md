@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Deletes a source with a recoverable archive and records the committed mutation.
 
+## Parameters
+
 **Parameter `asset`:** The captured source metadata to validate and delete.
 
 **Parameter `history`:** The authoritative History receiving this mutation.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

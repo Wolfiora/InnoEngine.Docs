@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the current native project override document.
 
-**Returns:** A newly owned native document payload.
+## Returns
+
+A newly owned native document payload.

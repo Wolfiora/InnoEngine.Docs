@@ -12,6 +12,8 @@ apiScope: Editor
 
 Handles a pointer press.
 
+## Parameters
+
 **Parameter `context`:** Gesture and coordinate context.
 
 **Parameter `pointer`:** Immutable pointer sample.

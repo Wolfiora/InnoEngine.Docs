@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets copied inner and work bounds for the current window.
 
-**Returns:** Screen-space horizontal bounds and work maximum.
+## Returns
+
+Screen-space horizontal bounds and work maximum.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No valid drawing session or native frame is active.

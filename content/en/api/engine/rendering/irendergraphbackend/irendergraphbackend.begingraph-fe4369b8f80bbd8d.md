@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Begins execution and prepares transient allocations.
 
+## Parameters
+
 **Parameter `graph`:** Compiled graph to execute.

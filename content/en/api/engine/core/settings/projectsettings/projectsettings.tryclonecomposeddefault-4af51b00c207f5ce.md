@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an isolated copy composed without the project-authored contribution.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identifier.
 
 **Parameter `contributors`:** Dependency-ordered Plugin default contributors.
 
 **Parameter `setting`:** Receives the composed default value.
 
-**Returns:** `true` when the setting is defined.
+## Returns
+
+`true` when the setting is defined.

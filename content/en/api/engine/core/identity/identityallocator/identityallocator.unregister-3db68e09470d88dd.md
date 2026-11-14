@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Removes an object from this session and notifies every unregistration observer.
 
+## Parameters
+
 **Parameter `obj`:** The identity object to remove.
 
-**Returns:** `true` when the object was registered; otherwise, `false`.
+## Returns
+
+`true` when the object was registered; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `obj` is null.
 

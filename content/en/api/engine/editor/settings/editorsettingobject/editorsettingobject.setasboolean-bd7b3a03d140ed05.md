@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets a Boolean property.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `value`:** The value to store.

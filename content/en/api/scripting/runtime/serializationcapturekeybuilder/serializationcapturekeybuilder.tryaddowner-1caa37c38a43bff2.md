@@ -12,11 +12,17 @@ apiScope: Runtime
 
 Adds an owner revision through its current Core identity; a null revision or detached source invalidates the key.
 
+## Parameters
+
 **Parameter `source`:** The current owner, never retained in the completed key.
 
 **Parameter `revision`:** A complete revision for the producer-owned state, or null when reuse cannot be certified.
 
-**Returns:** True when an identity and revision were available; false invalidates the complete key.
+## Returns
+
+True when an identity and revision were available; false invalidates the complete key.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Source is null.
 

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two layer identifiers contain different indices.
 
+## Parameters
+
 **Parameter `left`:** The first layer identifier.
 
 **Parameter `right`:** The second layer identifier.
 
-**Returns:** `true` when the identifiers are different.
+## Returns
+
+`true` when the identifiers are different.

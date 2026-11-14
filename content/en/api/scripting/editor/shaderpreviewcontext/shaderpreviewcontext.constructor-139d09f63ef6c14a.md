@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a preview invocation from host-owned detached inputs.
 
+## Parameters
+
 **Parameter `resourceId`:** Isolated material publication and viewport resource identity.
 
 **Parameter `material`:** Detached values with a current Shader reference; do not modify the reference.

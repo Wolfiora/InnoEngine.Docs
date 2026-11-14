@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Imports or creates one target in the current frame graph.
 
+## Parameters
+
 **Parameter `graph`:** Current frame graph builder.
 
 **Parameter `target`:** Persistent target description.
 
-**Returns:** A graph-scoped handle for the current target resource.
+## Returns
+
+A graph-scoped handle for the current target resource.

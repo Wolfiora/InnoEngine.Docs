@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
 **Parameter `s`:** The s consumed by \*; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

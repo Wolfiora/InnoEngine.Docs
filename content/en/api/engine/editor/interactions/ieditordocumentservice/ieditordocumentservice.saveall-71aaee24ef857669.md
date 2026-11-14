@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Saves every dirty open document.
 
-**Returns:** `true` when every dirty document is saved.
+## Returns
+
+`true` when every dirty document is saved.

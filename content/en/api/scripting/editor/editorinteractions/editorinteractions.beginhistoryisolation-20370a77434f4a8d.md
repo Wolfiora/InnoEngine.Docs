@@ -16,6 +16,10 @@ Starts an isolated temporary Undo and Redo branch while retaining the current ed
 
 Disposing the returned scope releases every temporary operation and restores the retained branch. This host-level boundary is intended for transient editor sessions such as Play Mode.
 
-**Returns:** A scope that restores the retained history branch when disposed.
+## Returns
+
+A scope that restores the retained history branch when disposed.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown during an Undo, Redo, transaction, or another isolated branch.

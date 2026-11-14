@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Queries whether every registered owner accepts an explicit reload request.
 
+## Parameters
+
 **Parameter `reason`:** The first blocking reason, or null when the request is allowed.
 
-**Returns:** True when all live guards permit a manual request.
+## Returns
+
+True when all live guards permit a manual request.

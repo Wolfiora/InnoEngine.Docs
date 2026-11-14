@@ -15,4 +15,6 @@ Marks this event as handled in the current hub only.
 
 Hub handling stops remaining listeners in the current hub but does not affect following hubs.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when called outside a valid hub dispatch context for this event.

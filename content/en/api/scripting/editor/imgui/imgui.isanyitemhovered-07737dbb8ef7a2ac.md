@@ -12,4 +12,6 @@ apiScope: Editor
 
 Checks whether a submitted control currently owns hover.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

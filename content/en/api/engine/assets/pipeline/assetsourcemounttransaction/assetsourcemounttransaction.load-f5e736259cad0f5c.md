@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Loads one candidate asset by isolated source path.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Required asset type.
+
+## Parameters
 
 **Parameter `path`:** Candidate source path.
 
-**Returns:** The candidate asset instance.
+## Returns
+
+The candidate asset instance.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no compatible candidate asset exists.

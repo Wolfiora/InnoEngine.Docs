@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Opens an isolated log file without creating another queue or delivery worker.
 
+## Parameters
+
 **Parameter `logDirectory`:** Directory in which complete log files are retained.
 
 **Parameter `maxFileSizeBytes`:** Positive rotation threshold. An entry larger than this threshold occupies its own file.
 
 **Parameter `maxFiles`:** Positive number of retained files, including the current file.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The directory is blank or invalid.
 

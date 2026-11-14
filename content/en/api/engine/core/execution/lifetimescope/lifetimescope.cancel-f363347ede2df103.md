@@ -15,4 +15,6 @@ Stops new registrations and invokes cancellation callbacks on the calling thread
 
 Callbacks must return promptly. Dependent resources remain owned while cancellation callbacks execute, including when another thread attempts disposal. A callback reporting pending work permanently blocks release.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** One or more cancellation callbacks fail.

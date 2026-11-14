@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a listener transform snapshot.
 
+## Parameters
+
 **Parameter `position`:** World-space listener position.
 
 **Parameter `direction`:** World-space listener forward direction.
@@ -18,5 +20,7 @@ Creates a listener transform snapshot.
 **Parameter `up`:** World-space listener up direction.
 
 **Parameter `velocity`:** World-space listener velocity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Any position, direction, up, or velocity component is non-finite.

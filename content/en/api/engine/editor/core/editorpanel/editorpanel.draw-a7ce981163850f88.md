@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Draws the complete dockable contents of the panel for the current frame.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing current selection, focus, and frame state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 

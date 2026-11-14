@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether an Edit scene contains unsaved serialized changes.
 
+## Parameters
+
 **Parameter `scene`:** The scene to inspect.
 
-**Returns:** `true` when an Edit scene differs from its saved baseline; runtime copies always return `false` because they cannot be persisted.
+## Returns
+
+`true` when an Edit scene differs from its saved baseline; runtime copies always return `false` because they cannot be persisted.

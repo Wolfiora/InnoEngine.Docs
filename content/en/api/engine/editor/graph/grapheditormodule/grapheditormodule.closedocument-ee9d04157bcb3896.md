@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Closes a document explicitly; its neutral History entries remain unavailable until the identity is reopened.
 
+## Parameters
+
 **Parameter `documentId`:** The persistent document identity to release.
 
-**Returns:** True when a live document was closed.
+## Returns
+
+True when a live document was closed.

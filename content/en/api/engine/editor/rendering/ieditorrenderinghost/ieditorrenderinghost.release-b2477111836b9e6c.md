@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases one viewport and queues its GPU target for frame-safe destruction.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable viewport identity.

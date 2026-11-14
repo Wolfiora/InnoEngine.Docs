@@ -12,8 +12,12 @@ apiScope: Editor
 
 Draws a tree node and pushes its tree scope when it is open.
 
+## Parameters
+
 **Parameter `label`:** The visible label and identity.
 
 **Parameter `flags`:** Tree-node behavior.
 
-**Returns:** `true` when child contents should be submitted.
+## Returns
+
+`true` when child contents should be submitted.

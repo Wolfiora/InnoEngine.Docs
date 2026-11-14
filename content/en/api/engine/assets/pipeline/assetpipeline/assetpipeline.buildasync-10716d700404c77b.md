@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Runs an aggregate asset build using the processor registered for a definition.
 
+## Parameters
+
 **Parameter `definition`:** The build definition asset.
 
 **Parameter `inputs`:** The immutable input catalog snapshots.
 
 **Parameter `cancellationToken`:** Cancellation for the candidate build.
 
-**Returns:** The content-addressed output bundle key.
+## Returns
+
+The content-addressed output bundle key.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a logical type reference against the active immutable generation.
 
+## Parameters
+
 **Parameter `typeRef`:** The stable type reference to resolve.
 
-**Returns:** The CLR type owned by the active generation.
+## Returns
+
+The CLR type owned by the active generation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the reference is empty or unavailable in the active generation.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the current opaque device texture for UI presentation.
 
+## Parameters
+
 **Parameter `target`:** Persistent target description.
 
 **Parameter `texture`:** Receives a backend-neutral persistent handle.
 
-**Returns:** `true` after a graph write to the current target revision has been recorded successfully.
+## Returns
+
+`true` after a graph write to the current target revision has been recorded successfully.

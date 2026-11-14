@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Draws a two-column property row whose label is supplied by a custom presentation callback.
 
+## Parameters
+
 **Parameter `id`:** Stable row identifier.
 
 **Parameter `drawLabel`:** Label presentation callback. It may wrap or draw badges inside the label column.
 
 **Parameter `drawValue`:** Value control callback.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty or whitespace.
 

@@ -12,9 +12,13 @@ apiScope: Editor
 
 Draws literal text at an explicitly measured wrap width, independent of a scrolling window's virtual content extent.
 
+## Parameters
+
 **Parameter `text`:** The literal text captured for the current layout.
 
 **Parameter `wrapWidth`:** The measured positive width in current presentation coordinates.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The text is null.
 

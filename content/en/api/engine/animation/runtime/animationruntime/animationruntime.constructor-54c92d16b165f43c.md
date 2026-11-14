@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one isolated animation runtime generation.
 
+## Parameters
+
 **Parameter `events`:** Session event dispatcher that receives marker events.
 
 **Parameter `bindings`:** Required output boundary; sampling-only playback must use an explicit sampling target.

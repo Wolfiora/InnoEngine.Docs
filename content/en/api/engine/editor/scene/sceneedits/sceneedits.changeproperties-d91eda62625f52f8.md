@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Applies one primary property edit to a selection using owner-resolved serialized values and one atomic History transaction.
 
+## Parameters
+
 **Parameter `targets`:** Ordered compatible scene objects; the first object supplies the edited value.
 
 **Parameter `propertyName`:** The common root serialized property.
@@ -23,7 +25,11 @@ Applies one primary property edit to a selection using owner-resolved serialized
 
 **Parameter `componentName`:** An optional public scalar value component; Euler axes use euler.x, euler.y or euler.z.
 
-**Returns:** True when at least one object changed; false when all values already matched.
+## Returns
+
+True when at least one object changed; false when all values already matched.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The selection is empty or a required common property is absent.
 

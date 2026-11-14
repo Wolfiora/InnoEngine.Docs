@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a key was newly released during this frame.
 
+## Parameters
+
 **Parameter `key`:** The backend-neutral physical key.
 
-**Returns:** `true` when the key transitioned to up.
+## Returns
+
+`true` when the key transitioned to up.

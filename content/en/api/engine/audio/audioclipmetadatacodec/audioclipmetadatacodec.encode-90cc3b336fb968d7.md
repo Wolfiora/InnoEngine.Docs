@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Encodes audio metadata into a compact deterministic runtime header.
 
+## Parameters
+
 **Parameter `metadata`:** Valid metadata to encode.
 
-**Returns:** Newly allocated runtime header bytes.
+## Returns
+
+Newly allocated runtime header bytes.

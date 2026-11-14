@@ -15,10 +15,16 @@ Finds items by key and returns a stable snapshot.
 
 The returned list is detached from subsequent store mutations.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** The key handle to query.
 
 **Parameter `value`:** The key value to look up.
 
-**Returns:** A stable snapshot list of matching items.
+## Returns
+
+A stable snapshot list of matching items.

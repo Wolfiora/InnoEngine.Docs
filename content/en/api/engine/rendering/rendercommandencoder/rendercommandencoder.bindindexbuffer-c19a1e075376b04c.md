@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Selects an index buffer and its first index for subsequent indexed draws.
 
+## Parameters
+
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.
 
 **Parameter `firstIndex`:** Zero-based index offset in the bound buffer.

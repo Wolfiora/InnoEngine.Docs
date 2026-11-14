@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates the prepared platform inputs before atomic installation.
 
+## Parameters
+
 **Parameter `directory`:** The isolated target pack directory.

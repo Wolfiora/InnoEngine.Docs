@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes a trailing native debug or release token from an artifact stem.
 
+## Parameters
+
 **Parameter `baseName`:** The artifact stem to normalize.
 
-**Returns:** The normalized artifact stem without a configuration suffix.
+## Returns
+
+The normalized artifact stem without a configuration suffix.

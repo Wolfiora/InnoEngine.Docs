@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reconciles a complete source snapshot while preserving unchanged entry identities.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** The source filesystem has been disposed.
 
 **Exception `T:System.IO.IOException`:** Source enumeration fails; the previous complete index and its identities remain active.

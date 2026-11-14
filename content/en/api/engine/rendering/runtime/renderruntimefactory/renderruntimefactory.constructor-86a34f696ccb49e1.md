@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a reusable factory around a composition-owned rendering runtime callback.
 
+## Parameters
+
 **Parameter `runtimeFactory`:** The callback that creates a distinct rendering runtime for the supplied session.

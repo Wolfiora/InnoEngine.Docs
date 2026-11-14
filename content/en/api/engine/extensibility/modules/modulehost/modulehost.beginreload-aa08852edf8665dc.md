@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Stages additions, replacements, and removals as one atomic dependency-ordered transaction.
 
+## Parameters
+
 **Parameter `requests`:** Complete candidate module additions and replacements.
 
 **Parameter `removedModuleNames`:** Active stable module names omitted from the candidate generation.
 
-**Returns:** A session that publishes or rolls back every candidate and removal together.
+## Returns
+
+A session that publishes or rolls back every candidate and removal together.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when either argument is `null`.
 

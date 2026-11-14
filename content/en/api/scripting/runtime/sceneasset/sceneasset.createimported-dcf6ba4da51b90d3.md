@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates an imported scene asset from validated runtime content produced by the scene asset pipeline.
 
+## Parameters
+
 **Parameter `payload`:** The complete serialized runtime scene graph.
 
 **Parameter `dependencies`:** The direct persistent asset dependencies captured with the scene graph.
 
-**Returns:** A scene asset ready for an asset import writer to commit.
+## Returns
+
+A scene asset ready for an asset import writer to commit.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Stops invoking a previously registered frame-final contributor.
 
+## Parameters
+
 **Parameter `contributor`:** Contributor to remove.
 
-**Returns:** `true` when registration existed and was removed.
+## Returns
+
+`true` when registration existed and was removed.

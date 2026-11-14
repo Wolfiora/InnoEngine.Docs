@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Resumes a paused voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice handle to resume.
 
-**Returns:** `true` when the voice resumed.
+## Returns
+
+`true` when the voice resumed.

@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Tries to get the first attached component assignable to the requested type.
 
+## Type parameters
+
 **Type parameter `TComponent`:** Requested component type.
+
+## Parameters
 
 **Parameter `component`:** Matching component when found.
 
-**Returns:** `true` when a matching component exists.
+## Returns
+
+`true` when a matching component exists.

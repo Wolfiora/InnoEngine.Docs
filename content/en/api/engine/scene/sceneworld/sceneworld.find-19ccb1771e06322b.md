@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a live scene object by its persistent identity within this world.
 
+## Type parameters
+
 **Type parameter `TObject`:** The required scene object contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The persistent identity to resolve.
 
-**Returns:** The live compatible object, or `null` when this world does not own one.
+## Returns
+
+The live compatible object, or `null` when this world does not own one.

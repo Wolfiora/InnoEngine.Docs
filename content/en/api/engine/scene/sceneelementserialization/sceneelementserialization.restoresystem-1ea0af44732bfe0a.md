@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Recreates one scene system without invoking Reset and restores its persistent properties.
 
+## Parameters
+
 **Parameter `scene`:** The live loaded scene that will own the system.
 
 **Parameter `type`:** The reload-safe identity of the current system implementation.
@@ -25,7 +27,11 @@ Recreates one scene system without invoking Reset and restores its persistent pr
 
 **Parameter `assets`:** The resolver used to materialize canonical asset references in restored properties.
 
-**Returns:** The recreated system, or a preserved missing placeholder when its logical type is unavailable.
+## Returns
+
+The recreated system, or a preserved missing placeholder when its logical type is unavailable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `scene` is `null`.
 

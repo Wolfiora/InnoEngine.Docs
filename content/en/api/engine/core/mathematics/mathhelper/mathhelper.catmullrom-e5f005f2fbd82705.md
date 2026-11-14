@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Performs a Catmull-Rom interpolation using the specified positions.
 
+## Parameters
+
 **Parameter `value1`:** The first position in the interpolation.
 
 **Parameter `value2`:** The second position in the interpolation.
@@ -21,4 +23,6 @@ Performs a Catmull-Rom interpolation using the specified positions.
 
 **Parameter `amount`:** Weighting factor.
 
-**Returns:** A position that is the result of the Catmull-Rom interpolation.
+## Returns
+
+A position that is the result of the Catmull-Rom interpolation.

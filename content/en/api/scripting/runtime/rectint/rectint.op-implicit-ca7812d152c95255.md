@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Converts the supplied value to `T:System.Drawing.Rectangle`.
 
+## Parameters
+
 **Parameter `r`:** The r consumed by convert; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated rectangle that represents the completed operation.
+## Returns
+
+The validated rectangle that represents the completed operation.

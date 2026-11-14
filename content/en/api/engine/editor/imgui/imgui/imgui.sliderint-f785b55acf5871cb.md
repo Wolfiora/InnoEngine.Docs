@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Edits an integer within explicit inclusive bounds.
 
+## Parameters
+
 **Parameter `label`:** The visible label and optional stable ID suffix.
 
 **Parameter `value`:** The caller-owned value updated only after an accepted edit.
@@ -23,4 +25,6 @@ Edits an integer within explicit inclusive bounds.
 
 **Parameter `flags`:** The explicit control and interaction options.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

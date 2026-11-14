@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures Plugin availability, Asset mounts and effective settings as one shared recovery participant.
 
-**Returns:** A five-phase change for the Host assembly publication, preserving Missing semantic contributions.
+## Returns
+
+A five-phase change for the Host assembly publication, preserving Missing semantic contributions.

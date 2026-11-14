@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Defines the primary shortcut modifier and the display name of the Super modifier.
 
+## Parameters
+
 **Parameter `primaryModifier`:** One Control, Super or Alt modifier used by symbolic primary shortcuts.
 
 **Parameter `superModifierLabel`:** The nonempty product-specific name displayed for the Super modifier.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The modifier is not one supported modifier or the label is empty.

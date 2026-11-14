@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reconciles source files, metadata, artifacts and the in-memory catalog.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancellation for reconciliation and importer work; unpublished candidates can be discarded after it drains.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Reconciliation or an importer observes cancellation.

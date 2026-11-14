@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Accepts an unmanaged payload and reports its preview state on the most recently submitted item.
 
+## Type parameters
+
 **Type parameter `TPayload`:** Unmanaged payload type.
+
+## Parameters
 
 **Parameter `payloadType`:** Stable ImGui payload type identifier.
 
@@ -19,4 +23,6 @@ Accepts an unmanaged payload and reports its preview state on the most recently 
 
 **Parameter `isPreviewing`:** Whether a compatible payload is hovering over the target.
 
-**Returns:** `true` only when a compatible payload is delivered.
+## Returns
+
+`true` only when a compatible payload is delivered.

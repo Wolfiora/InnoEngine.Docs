@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a generation-aware property drawer registry.
 
+## Parameters
+
 **Parameter `interactions`:** The active editor interaction entry point available to property drawer constructors.
 
 **Parameter `types`:** The host-owned type catalog that coordinates drawer generations.
@@ -18,5 +20,7 @@ Creates a generation-aware property drawer registry.
 **Parameter `serialization`:** The serialization registry available to structured-object drawers.
 
 **Parameter `drawerServices`:** Additional generation-bound services available to feature-specific drawer constructors.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `interactions` is `null`.

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Applies one backend-neutral event translated by the owning platform application.
 
+## Parameters
+
 **Parameter `evnt`:** The event observed before runtime dispatch.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `evnt` is null.
 

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Releases one clip after all voices using it have ended.
 
+## Parameters
+
 **Parameter `clip`:** Clip owned by the current device generation.
 
-**Returns:** `true` when a live clip was released.
+## Returns
+
+`true` when a live clip was released.

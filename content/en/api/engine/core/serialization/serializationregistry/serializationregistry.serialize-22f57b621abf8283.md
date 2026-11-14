@@ -11,13 +11,21 @@ apiSurface: source-clr
 
 Serializes a complete serializable root object into deterministic binary data.
 
+## Type parameters
+
 **Type parameter `T`:** The declared concrete root type.
+
+## Parameters
 
 **Parameter `value`:** The root object to serialize.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** The encoded bytes.
+## Returns
+
+The encoded bytes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is null.
 

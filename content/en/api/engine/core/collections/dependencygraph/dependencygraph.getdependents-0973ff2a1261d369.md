@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets direct or transitive dependents of a node.
 
+## Parameters
+
 **Parameter `node`:** The node to query.
 
 **Parameter `recursive`:** Whether transitive dependents should be included.
 
-**Returns:** A stable dependent snapshot, or an empty list when the node is absent.
+## Returns
+
+A stable dependent snapshot, or an empty list when the node is absent.

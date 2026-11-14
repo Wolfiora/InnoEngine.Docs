@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a pipeline descriptor compatible with the supplied fullscreen vertex layout.
 
+## Parameters
+
 **Parameter `capabilities`:** Capabilities of the device that will own the pipeline.
 
 **Parameter `vertexLayout`:** Layout of the fullscreen quad submitted by the runtime.
 
-**Returns:** A pipeline descriptor that samples a texture named `s_tex` with premultiplied alpha.
+## Returns
+
+A pipeline descriptor that samples a texture named `s_tex` with premultiplied alpha.

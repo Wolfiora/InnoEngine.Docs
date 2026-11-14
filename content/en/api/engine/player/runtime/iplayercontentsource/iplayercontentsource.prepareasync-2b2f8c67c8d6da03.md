@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Prepares the exact verified pack selected by the decoded catalog.
 
+## Parameters
+
 **Parameter `pack`:** The validated pack identity; other packs must not be substituted.
 
 **Parameter `scope`:** The application namespace used to isolate any preparation cache.
@@ -19,6 +21,10 @@ Prepares the exact verified pack selected by the decoded catalog.
 
 **Parameter `cancellationToken`:** Cancels acquisition and preparation before ownership transfers to the caller.
 
-**Returns:** A caller-owned immutable store whose leases pin independent readers.
+## Returns
+
+A caller-owned immutable store whose leases pin independent readers.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Pack bytes, inventory, lengths, or payload hashes are invalid.

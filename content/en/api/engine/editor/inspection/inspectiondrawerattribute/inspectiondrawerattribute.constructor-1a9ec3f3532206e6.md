@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an inspector drawer registration.
 
+## Parameters
+
 **Parameter `targetType`:** The selected object type handled by the drawer.
 
 **Parameter `useForChildren`:** Whether the drawer may handle assignable derived target types.
@@ -18,5 +20,7 @@ Creates an inspector drawer registration.
 **Parameter `priority`:** The tie-breaking priority after exactness and inheritance distance.
 
 **Parameter `conditional`:** Whether CanInspect is a target-dependent predicate. Equally specific accepted peers remain an explicit ambiguity error.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `targetType` is `null`.

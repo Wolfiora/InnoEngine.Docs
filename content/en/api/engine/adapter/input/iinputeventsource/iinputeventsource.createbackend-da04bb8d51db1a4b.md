@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an isolated input backend owned by one runtime session.
 
-**Returns:** A caller-owned input backend connected to this event source.
+## Returns
+
+A caller-owned input backend connected to this event source.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Releases generation-scoped provider state.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Provider work is still active. The owner must retain this instance and retry before releasing dependencies.

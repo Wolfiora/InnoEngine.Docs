@@ -12,10 +12,14 @@ apiScope: Editor
 
 Reads parameter presentation from the current authoring Shader graph.
 
+## Parameters
+
 **Parameter `shader`:** The canonical Shader used by the Material.
 
 **Parameter `propertyId`:** The stable binding identity.
 
 **Parameter `error`:** Receives the source diagnostic, or an empty string when presentation is available.
 
-**Returns:** Detached presentation values; an unavailable graph uses the ordinary presentation defaults.
+## Returns
+
+Detached presentation values; an unavailable graph uses the ordinary presentation defaults.

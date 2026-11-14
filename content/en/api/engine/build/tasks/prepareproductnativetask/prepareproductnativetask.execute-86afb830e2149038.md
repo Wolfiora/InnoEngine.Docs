@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Prepares all host-native products and installs their exact closure after successful validation.
 
-**Returns:** True after deployment, or false after reporting a build failure or cancellation to MSBuild.
+## Returns
+
+True after deployment, or false after reporting a build failure or cancellation to MSBuild.

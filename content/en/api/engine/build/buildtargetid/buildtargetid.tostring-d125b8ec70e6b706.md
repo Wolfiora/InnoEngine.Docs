@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats the portable target identity.
 
-**Returns:** The exact stable target identity.
+## Returns
+
+The exact stable target identity.

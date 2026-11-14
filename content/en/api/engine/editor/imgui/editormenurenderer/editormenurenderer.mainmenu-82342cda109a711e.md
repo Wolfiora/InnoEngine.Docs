@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Draws the complete editor main menu bar for the supplied menu context.
 
+## Parameters
+
 **Parameter `interaction`:** The main-menu interaction area.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Selects the current source identity without retaining an indexed entry across generations.
 
+## Parameters
+
 **Parameter `relativePath`:** The isolated source-relative path to resolve.

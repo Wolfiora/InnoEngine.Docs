@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `m`:** The transformation matrix applied to the supplied value.
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector4 that represents the completed operation.
+## Returns
+
+The validated vector4 that represents the completed operation.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Removes one provider-defined metadata value.
 
+## Parameters
+
 **Parameter `key`:** Stable metadata key.
 
-**Returns:** `true` when an entry was removed.
+## Returns
+
+`true` when an entry was removed.

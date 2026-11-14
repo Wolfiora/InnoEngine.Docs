@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a failed result for an exception intercepted at an orchestration boundary.
 
+## Parameters
+
 **Parameter `diagnostic`:** The diagnostic describing why no candidate generation was produced.
 
-**Returns:** A failed immutable result with no output directory or module deployments.
+## Returns
+
+A failed immutable result with no output directory or module deployments.

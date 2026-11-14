@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Retains only layer bits enabled in both masks.
 
+## Parameters
+
 **Parameter `left`:** The first mask.
 
 **Parameter `right`:** The second mask.
 
-**Returns:** The bitwise intersection of both masks.
+## Returns
+
+The bitwise intersection of both masks.

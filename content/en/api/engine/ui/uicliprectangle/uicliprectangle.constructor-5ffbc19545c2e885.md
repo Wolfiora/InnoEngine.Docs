@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Defines an integer clipping rectangle in UI surface coordinates.
 
+## Parameters
+
 **Parameter `x`:** The horizontal or first component.
 
 **Parameter `y`:** The vertical or second component.

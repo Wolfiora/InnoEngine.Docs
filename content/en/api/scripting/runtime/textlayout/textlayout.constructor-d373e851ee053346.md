@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable text layout.
 
+## Parameters
+
 **Parameter `glyphs`:** The positioned glyph sequence.
 
 **Parameter `metrics`:** The face metrics used by the layout.

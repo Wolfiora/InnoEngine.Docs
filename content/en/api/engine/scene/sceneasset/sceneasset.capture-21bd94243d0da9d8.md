@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures a runtime scene into a new unsaved scene asset.
 
+## Parameters
+
 **Parameter `scene`:** Scene to capture.
 
 **Parameter `serialization`:** The serialization registry that owns the active scene converter generation.
 
 **Parameter `assets`:** The asset database generation used to resolve references while collecting dependencies.
 
-**Returns:** A detached scene asset that an authoring asset database can save.
+## Returns
+
+A detached scene asset that an authoring asset database can save.

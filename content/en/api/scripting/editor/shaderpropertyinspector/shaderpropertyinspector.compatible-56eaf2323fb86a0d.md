@@ -12,8 +12,12 @@ apiScope: Editor
 
 Tests whether a stored override has the exact representation expected by a declaration.
 
+## Parameters
+
 **Parameter `type`:** Declared material type.
 
 **Parameter `kind`:** Stored representation.
 
-**Returns:** True only for supported matching kinds; no lossy conversion is performed.
+## Returns
+
+True only for supported matching kinds; no lossy conversion is performed.

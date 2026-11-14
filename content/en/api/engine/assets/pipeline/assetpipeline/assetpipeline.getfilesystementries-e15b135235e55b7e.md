@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets indexed source entries.
 
+## Parameters
+
 **Parameter `includeDirectories`:** Whether directories should be included.
 
-**Returns:** The stable source entry snapshot.
+## Returns
+
+The stable source entry snapshot.

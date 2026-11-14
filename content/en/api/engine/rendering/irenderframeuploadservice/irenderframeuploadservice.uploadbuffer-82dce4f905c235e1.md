@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Uploads complete elements and returns a slice valid only during the current frame.
 
+## Parameters
+
 **Parameter `descriptor`:** Element interpretation and permitted GPU uses.
 
 **Parameter `data`:** Tightly packed complete element bytes.
 
 **Parameter `name`:** Diagnostic name used when a backing page is allocated.
 
-**Returns:** A current-frame slice covering the uploaded elements.
+## Returns
+
+A current-frame slice covering the uploaded elements.

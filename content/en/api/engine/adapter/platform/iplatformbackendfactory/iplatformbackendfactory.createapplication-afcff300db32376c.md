@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a new platform application for the selected backend.
 
+## Parameters
+
 **Parameter `backend`:** platform implementation selected by the composition root.
 
-**Returns:** A caller-owned backend-neutral platform application.
+## Returns
+
+A caller-owned backend-neutral platform application.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the catalog does not contain the selected backend.

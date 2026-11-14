@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two layer slots may interact.
 
+## Parameters
+
 **Parameter `first`:** The first layer.
 
 **Parameter `second`:** The second layer.
 
-**Returns:** `true` when interaction is enabled.
+## Returns
+
+`true` when interaction is enabled.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the attachment index of a component on this object.
 
+## Parameters
+
 **Parameter `component`:** Attached component to locate.
 
-**Returns:** The zero-based attachment index.
+## Returns
+
+The zero-based attachment index.

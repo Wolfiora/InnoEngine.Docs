@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes portable checkout-relative owner locations without assembly-name or directory inference.
 
+## Parameters
+
 **Parameter `id`:** The portable component artifact identity.
 
 **Parameter `nativeProject`:** The checkout-relative native project file.
@@ -20,5 +22,7 @@ Freezes portable checkout-relative owner locations without assembly-name or dire
 **Parameter `staticBuild`:** The backend-owned static recipe, or null when this component has none.
 
 **Parameter `bindingDefinition`:** The portable binding definition, or null when the component generates no bindings.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity or path is empty, absolute, or escapes its checkout.

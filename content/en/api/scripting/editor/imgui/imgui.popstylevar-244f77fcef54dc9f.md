@@ -12,4 +12,6 @@ apiScope: Editor
 
 Pops style-variable overrides.
 
+## Parameters
+
 **Parameter `count`:** The positive number of overrides to pop.

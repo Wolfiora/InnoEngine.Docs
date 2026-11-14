@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Rasterizes one glyph from an imported font.
 
+## Parameters
+
 **Parameter `font`:** The imported font source.
 
 **Parameter `faceIndex`:** The zero-based collection face index.
@@ -19,4 +21,6 @@ Rasterizes one glyph from an imported font.
 
 **Parameter `fontSize`:** The positive logical pixel size.
 
-**Returns:** The immutable glyph bitmap.
+## Returns
+
+The immutable glyph bitmap.

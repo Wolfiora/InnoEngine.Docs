@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Captures a complete distribution without creating authoring services or starting any tool.
 
+## Parameters
+
 **Parameter `games`:** Complete target contributions with explicitly bound factories, sources and SDK providers.
 
 **Parameter `managedCompilers`:** The deployment implementations owned by this composition.
 
 **Parameter `nativeOnlyContributions`:** Additional implemented SDK capabilities that do not register game publication targets.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required collection is null.
 

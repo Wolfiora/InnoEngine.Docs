@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Decomposes a matrix into scale, rotation and translation.
 
+## Parameters
+
 **Parameter `m`:** The transformation matrix applied to the supplied value.
 
 **Parameter `scale`:** Receives basis-column lengths, with the X sign negated for a negative determinant.
@@ -19,4 +21,6 @@ Decomposes a matrix into scale, rotation and translation.
 
 **Parameter `translation`:** Receives the last-column XYZ translation.
 
-**Returns:** False when a basis-column length is at most the default tolerance; otherwise true. Success does not certify that a matrix with shear or perspective is a pure TRS transform.
+## Returns
+
+False when a basis-column length is at most the default tolerance; otherwise true. Success does not certify that a matrix with shear or perspective is a pure TRS transform.

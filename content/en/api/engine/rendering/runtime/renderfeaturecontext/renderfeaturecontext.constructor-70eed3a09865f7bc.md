@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a feature build context.
 
+## Parameters
+
 **Parameter `pipeline`:** Owning pipeline context.
 
 **Parameter `configuration`:** Stable feature configuration.

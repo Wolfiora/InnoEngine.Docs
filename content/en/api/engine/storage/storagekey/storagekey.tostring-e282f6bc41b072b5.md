@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats this key for diagnostics and persistence.
 
-**Returns:** The normalized key value.
+## Returns
+
+The normalized key value.

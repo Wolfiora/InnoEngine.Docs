@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates an imported prefab asset from validated runtime content produced by the prefab asset pipeline.
 
+## Parameters
+
 **Parameter `payload`:** The complete serialized runtime object subtree.
 
 **Parameter `dependencies`:** The direct persistent asset dependencies captured with the subtree.
 
-**Returns:** A prefab asset ready for an asset import writer to commit.
+## Returns
+
+A prefab asset ready for an asset import writer to commit.

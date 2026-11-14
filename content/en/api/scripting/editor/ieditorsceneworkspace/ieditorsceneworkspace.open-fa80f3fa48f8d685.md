@@ -12,8 +12,14 @@ apiScope: Editor
 
 Opens a scene asset additively as the active editor scene.
 
+## Parameters
+
 **Parameter `relativePath`:** The source-relative scene asset path.
 
-**Returns:** The existing loaded instance or newly loaded scene.
+## Returns
+
+The existing loaded instance or newly loaded scene.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown while Play Mode runtime copies are active or when the asset cannot be opened.

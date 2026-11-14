@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs a child build with caller-owned output destinations and the shared process retirement protocol.
 
+## Parameters
+
 **Parameter `fileName`:** The executable selected by the build composition.
 
 **Parameter `arguments`:** Structured arguments passed without shell interpretation.
@@ -25,7 +27,11 @@ Runs a child build with caller-owned output destinations and the shared process 
 
 **Parameter `standardError`:** The caller-owned standard error destination; the runner does not dispose it.
 
-**Returns:** Completion after successful exit and complete output delivery; failures propagate.
+## Returns
+
+Completion after successful exit and complete output delivery; failures propagate.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The executable cannot start or exits unsuccessfully.
 

@@ -15,7 +15,11 @@ Stops the module before the containing extension generation is released.
 
 Also compensates a partially failed Start. Completed stops are idempotent; pending stops may be retried.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the runtime being stopped.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 

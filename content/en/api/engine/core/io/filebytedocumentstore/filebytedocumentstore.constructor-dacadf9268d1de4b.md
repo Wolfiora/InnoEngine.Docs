@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Selects one host-owned absolute document location.
 
+## Parameters
+
 **Parameter `path`:** The absolute file path; its parent directory is prepared only when writing.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The path is empty or relative.

@@ -12,11 +12,15 @@ apiScope: Editor
 
 Draws a bounded line plot from borrowed numeric samples without copying their buffer.
 
+## Parameters
+
 **Parameter `label`:** The visible plot title and stable item identifier in its current owner.
 
 **Parameter `values`:** Finite samples borrowed only for this call; an empty span draws an empty plot.
 
 **Parameter `offset`:** The first chronological sample in a circular buffer, or zero for empty input.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The label is empty or a sample is not finite.
 

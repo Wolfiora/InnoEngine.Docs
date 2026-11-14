@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves a persistent descriptor using the resolver selected by its kind.
 
+## Parameters
+
 **Parameter `descriptor`:** The descriptor to resolve.
 
-**Returns:** The resolver result, an unassigned result for an empty target, or a missing result when no resolver is installed.
+## Returns
+
+The resolver result, an unassigned result for an empty target, or a missing result when no resolver is installed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `descriptor` is null.
 

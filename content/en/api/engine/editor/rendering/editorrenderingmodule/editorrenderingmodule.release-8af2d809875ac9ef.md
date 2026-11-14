@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Stops retaining one viewport target.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable viewport identity.

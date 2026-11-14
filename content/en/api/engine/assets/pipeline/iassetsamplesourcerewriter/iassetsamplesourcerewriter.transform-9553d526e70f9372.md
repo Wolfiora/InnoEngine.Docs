@@ -15,4 +15,6 @@ Rewrites staged source files and registers any changed serialized type identitie
 
 Runs on a worker with a pinned extension generation. Access only transaction-owned files and context data, observe cancellation, and do not access live Assets or Editor state.
 
+## Parameters
+
 **Parameter `context`:** The transaction-owned staged clone.

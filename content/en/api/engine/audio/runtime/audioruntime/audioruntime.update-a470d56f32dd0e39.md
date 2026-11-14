@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Advances providers, pending preparation, backend maintenance, and completion dispatch at a main-thread safety point.
 
+## Parameters
+
 **Parameter `deltaTime`:** Non-negative elapsed frame time in seconds.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The elapsed time is negative or non-finite.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a rendering feature over a newly allocated runtime layer.
 
+## Parameters
+
 **Parameter `context`:** The isolated session context passed to the rendering runtime factory.
 
-**Returns:** A new feature that exclusively owns its rendering runtime layer.
+## Returns
+
+A new feature that exclusively owns its rendering runtime layer.

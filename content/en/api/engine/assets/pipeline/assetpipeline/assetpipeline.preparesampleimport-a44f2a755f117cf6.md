@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Starts a private background sample clone without waiting for file copying or transformation.
 
+## Parameters
+
 **Parameter `source`:** An indexed installed Plugin sample directory whose final segment starts with `~`.
 
-**Returns:** The generation-pinned transaction to advance, validate and commit on this pipeline's owner thread.
+## Returns
+
+The generation-pinned transaction to advance, validate and commit on this pipeline's owner thread.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The source is not an installed sample directory.
 

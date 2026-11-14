@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether a captured contribution contains no semantic operation.
 
+## Parameters
+
 **Parameter `contribution`:** The contribution to inspect.
 
-**Returns:** `true` when the record should be omitted.
+## Returns
+
+`true` when the record should be omitted.

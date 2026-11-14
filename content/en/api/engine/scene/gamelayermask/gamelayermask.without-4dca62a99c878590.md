@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns a mask with the supplied layer disabled.
 
-**Returns:** The updated immutable mask.
+## Returns
+
+The updated immutable mask.
+
+## Parameters
 
 **Parameter `layer`:** The layer consumed by without; ownership remains with the caller unless explicitly stated otherwise.

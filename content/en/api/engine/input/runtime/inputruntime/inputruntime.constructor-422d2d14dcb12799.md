@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a feature whose backend ownership transfers to this instance.
 
+## Parameters
+
 **Parameter `backend`:** The platform backend captured at frame boundaries.

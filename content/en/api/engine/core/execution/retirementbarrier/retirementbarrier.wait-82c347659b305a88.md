@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Drains a failed startup or final shutdown on the owner thread until completion or explicit failure.
 
+## Parameters
+
 **Parameter `retire`:** The retryable operation, including any necessary owner-thread queue draining.
+
+## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementTimeoutException`:** Work exceeded its deadline; callers must fault admission and retain pending owners.

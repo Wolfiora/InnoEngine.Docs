@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a shader keyword definition.
 
+## Parameters
+
 **Parameter `id`:** Stable keyword identifier.
 
 **Parameter `options`:** Allowed stable option identifiers.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a complete target registration and rejects mismatched source identities immediately.
 
+## Parameters
+
 **Parameter `descriptor`:** The immutable target facts owned by the platform package.
 
 **Parameter `factory`:** The authoring target factory for these exact target facts.
@@ -26,6 +28,8 @@ Creates a complete target registration and rejects mismatched source identities 
 **Parameter `bindingGenerator`:** The target-owned generator, or null when the contribution generates no bindings.
 
 **Parameter `managedDeployments`:** Deployment identities supported by this platform, or null when none is contributed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required contribution is null.
 

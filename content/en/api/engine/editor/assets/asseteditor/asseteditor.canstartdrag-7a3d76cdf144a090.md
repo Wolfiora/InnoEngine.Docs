@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the supplied entry can begin a managed editor drag operation.
 
+## Parameters
+
 **Parameter `context`:** The immutable source and catalog snapshot for the entry.
 
-**Returns:** `true` when drag data can be created; otherwise, `false`.
+## Returns
+
+`true` when drag data can be created; otherwise, `false`.

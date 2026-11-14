@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a compact selector control and begins a work-area-bounded menu popup.
 
+## Parameters
+
 **Parameter `id`:** Stable selector identifier in the current ImGui scope.
 
 **Parameter `preview`:** Text displayed by the closed selector.
@@ -19,7 +21,11 @@ Draws a compact selector control and begins a work-area-bounded menu popup.
 
 **Parameter `minimumPopupWidth`:** Minimum outer width of the popup, including its window padding.
 
-**Returns:** `true` when the popup is open and its contents should be submitted; otherwise, `false`.
+## Returns
+
+`true` when the popup is open and its contents should be submitted; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

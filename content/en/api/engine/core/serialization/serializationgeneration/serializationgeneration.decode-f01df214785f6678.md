@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Decodes a manually defined structured root using the converter generation captured by this instance.
 
+## Type parameters
+
 **Type parameter `TResult`:** The result produced by the read callback.
+
+## Parameters
 
 **Parameter `bytes`:** Deterministic binary data containing the structured root.
 
@@ -19,7 +23,11 @@ Decodes a manually defined structured root using the converter generation captur
 
 **Parameter `context`:** Optional immutable converter context for this operation.
 
-**Returns:** The callback result after all restoration callbacks complete.
+## Returns
+
+The callback result after all restoration callbacks complete.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `read` is null.
 

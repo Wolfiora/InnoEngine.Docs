@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Gets a borrowed descriptor whose outputs remain protected until this result is disposed.
 
+## Parameters
+
 **Parameter `key`:** The checkout-relative Native owner project.
 
-**Returns:** The selected generation; neither its paths nor retained descriptors extend reading ownership.
+## Returns
+
+The selected generation; neither its paths nor retained descriptors extend reading ownership.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.
 

@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Tries to load the canonical asset at a logical catalog path.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset contract.
+
+## Parameters
 
 **Parameter `path`:** The mount-qualified logical catalog path.
 
 **Parameter `asset`:** Receives the canonical compatible asset when available.
 
-**Returns:** `true` when the lookup contains a compatible asset; otherwise, `false`.
+## Returns
+
+`true` when the lookup contains a compatible asset; otherwise, `false`.

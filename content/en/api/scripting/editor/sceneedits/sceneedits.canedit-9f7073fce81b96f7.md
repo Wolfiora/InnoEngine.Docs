@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether a scene object belongs to an editable presented scene.
 
+## Parameters
+
 **Parameter `target`:** The scene object to inspect.
 
-**Returns:** `true` when its owning scene is writable.
+## Returns
+
+`true` when its owning scene is writable.

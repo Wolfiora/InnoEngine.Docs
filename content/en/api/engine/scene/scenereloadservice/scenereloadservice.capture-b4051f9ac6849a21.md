@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures all loaded scene objects affected by a prepared type-cache reload.
 
+## Parameters
+
 **Parameter `context`:** The prepared type-cache reload context.
 
-**Returns:** A staged state transfer that has not modified live objects.
+## Returns
+
+A staged state transfer that has not modified live objects.

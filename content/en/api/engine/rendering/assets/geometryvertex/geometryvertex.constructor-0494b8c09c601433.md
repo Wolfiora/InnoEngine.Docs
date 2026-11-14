@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a normalized mesh vertex.
 
+## Parameters
+
 **Parameter `position`:** Object-space position.
 
 **Parameter `normal`:** Object-space unit normal.

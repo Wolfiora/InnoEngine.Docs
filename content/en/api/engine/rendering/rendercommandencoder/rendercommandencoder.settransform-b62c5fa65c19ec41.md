@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Sets the column-major object transform for subsequent draws.
 
+## Parameters
+
 **Parameter `columnMajorMatrix`:** Matrix values borrowed for this call. An encoder that defers execution must copy them before returning.

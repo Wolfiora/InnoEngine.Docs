@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a target registry for one device generation.
 
+## Parameters
+
 **Parameter `device`:** Device that owns persistent target resources.
 
 **Parameter `capacity`:** Positive target and per-frame allocation capacity.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Returns a matching compiled shader when available and schedules a new candidate when source state changed.
 
+## Parameters
+
 **Parameter `shader`:** The imported backend-neutral shader asset.
 
 **Parameter `variant`:** The exact material keyword selection.
@@ -19,7 +21,11 @@ Returns a matching compiled shader when available and schedules a new candidate 
 
 **Parameter `artifact`:** Receives the current candidate or the last-good artifact while a replacement is compiling.
 
-**Returns:** `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when a current or last-good artifact is usable; otherwise, the exact pending or failed state of the first candidate.
+## Returns
+
+`F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when a current or last-good artifact is usable; otherwise, the exact pending or failed state of the first candidate.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this provider has been disposed.
 

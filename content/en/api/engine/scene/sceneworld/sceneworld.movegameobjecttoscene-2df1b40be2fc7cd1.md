@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Moves a live object subtree between two scenes loaded by this world.
 
+## Parameters
+
 **Parameter `gameObject`:** The live root object to move.
 
 **Parameter `destination`:** The loaded destination scene.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when either scene is not loaded or the object is not live.

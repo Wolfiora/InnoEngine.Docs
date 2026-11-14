@@ -12,6 +12,10 @@ apiScope: Editor
 
 Draws a compact button.
 
-**Returns:** `true` when the button is activated.
+## Returns
+
+`true` when the button is activated.
+
+## Parameters
 
 **Parameter `label`:** The visible label and optional ImGui identity suffix.

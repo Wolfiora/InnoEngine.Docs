@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Qualifies one local name under the current project namespace.
 
+## Parameters
+
 **Parameter `name`:** The local display name.
 
-**Returns:** The canonical `projectId.name` identity.
+## Returns
+
+The canonical `projectId.name` identity.

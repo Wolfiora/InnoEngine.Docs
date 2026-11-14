@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Encodes an importer-owned runtime payload without exposing an implementation-specific format.
 
+## Parameters
+
 **Parameter `implementationId`:** Stable backend implementation identity.
 
 **Parameter `source`:** Validated frozen document source.
 
 **Parameter `fonts`:** Imported font asset dependencies.
 
-**Returns:** Complete deterministic runtime payload bytes.
+## Returns
+
+Complete deterministic runtime payload bytes.

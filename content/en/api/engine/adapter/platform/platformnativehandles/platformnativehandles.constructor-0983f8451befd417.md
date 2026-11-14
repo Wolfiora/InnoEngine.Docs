@@ -15,10 +15,14 @@ Borrows surface handles from a live window for cooperating native adapters.
 
 Handles remain valid only while their window is alive. Consumers must not release them. The handle identifier selects the ABI; this value is not a runtime or scripting contract.
 
+## Parameters
+
 **Parameter `windowHandle`:** Native window handle, or a stable UTF-8 canvas selector for browser surfaces.
 
 **Parameter `displayHandle`:** Native display handle when required by the platform.
 
 **Parameter `handleKind`:** Platform handle kind.
 
-**Returns:** A borrowed adapter-level surface description.
+## Returns
+
+A borrowed adapter-level surface description.

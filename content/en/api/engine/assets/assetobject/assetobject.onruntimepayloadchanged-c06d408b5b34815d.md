@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Called after a new runtime payload has been committed to this instance.
 
+## Parameters
+
 **Parameter `previousPayload`:** The previously committed payload.
 
 **Parameter `currentPayload`:** The newly committed payload.

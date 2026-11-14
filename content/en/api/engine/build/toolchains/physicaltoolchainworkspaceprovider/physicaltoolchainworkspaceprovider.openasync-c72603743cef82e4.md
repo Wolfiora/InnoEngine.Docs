@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Acquires an execution path for an absolute build-owned directory.
 
+## Parameters
+
 **Parameter `physicalPath`:** The retained physical directory.
 
 **Parameter `cancellationToken`:** Cancellation while waiting for exclusive alias ownership.
 
-**Returns:** A scoped path whose processes must finish before disposal.
+## Returns
+
+A scoped path whose processes must finish before disposal.

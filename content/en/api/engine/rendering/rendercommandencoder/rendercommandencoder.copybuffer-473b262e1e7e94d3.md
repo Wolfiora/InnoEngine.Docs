@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies buffer content without transferring resource ownership.
 
+## Parameters
+
 **Parameter `source`:** Frame-scoped source buffer.
 
 **Parameter `destination`:** Frame-scoped destination buffer.

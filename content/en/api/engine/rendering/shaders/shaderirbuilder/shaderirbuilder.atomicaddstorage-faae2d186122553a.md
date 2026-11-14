@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Atomically adds to a scalar integer buffer element and returns its previous value.
 
+## Parameters
+
 **Parameter `resource`:** A read-write int or uint storage buffer.
 
 **Parameter `index`:** Unsigned element index.
 
 **Parameter `value`:** Addition operand matching the buffer element type.
 
-**Returns:** The original scalar value observed by the atomic operation.
+## Returns
+
+The original scalar value observed by the atomic operation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The resource is not an appropriate read-write integer buffer.

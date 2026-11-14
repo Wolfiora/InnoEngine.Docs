@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Creates a terminal unload failure with stable generation diagnostics.
 
+## Parameters
+
 **Parameter `retainedGenerations`:** Descriptions of every retired generation that remains reachable.
 
 **Parameter `elapsed`:** The elapsed barrier duration.
 
 **Parameter `collectionAttempts`:** The number of full collection cycles already performed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `retainedGenerations` is null.
 

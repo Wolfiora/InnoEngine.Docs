@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Sets a finite double-precision property.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `value`:** The finite value to store.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `value` is not finite.

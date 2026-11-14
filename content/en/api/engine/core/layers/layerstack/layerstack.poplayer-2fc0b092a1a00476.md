@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Detaches a base layer from this stack.
 
+## Parameters
+
 **Parameter `layer`:** The base layer to detach.
 
-**Returns:** `true` when the layer was attached in the base region; otherwise, `false`.
+## Returns
+
+`true` when the layer was attached in the base region; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `layer` is `null`.
 

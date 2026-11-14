@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a complete immutable stencil configuration without relying on init-only setters.
 
+## Parameters
+
 **Parameter `enabled`:** Whether stencil testing and updates are active.
 
 **Parameter `reference`:** Eight-bit stencil reference value.

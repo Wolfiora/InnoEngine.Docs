@@ -16,6 +16,8 @@ aliases: []
 
 Provides a strongly typed target and action argument to an editor action.
 
+## Type parameters
+
 **Type parameter `TTarget`:** The target type required by the action.
 
 **Type parameter `TArgument`:** The action argument type required by the action.

@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Keeps one synchronous operation on the published generation and defers automatic catalog replacement.
 
+## Parameters
+
 **Parameter `operation`:** The operation name included in admission failures.
 
-**Returns:** A scope for the entire operation, or a borrowed scope inside publication on its own control thread.
+## Returns
+
+A scope for the entire operation, or a borrowed scope inside publication on its own control thread.
 
 ## Remarks
 
 Published data remains readable while old contexts await collection. This scope does not authorize Play, Build, Export or a new generation transaction; those owners must still use their strict admission boundary.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Another thread is publishing or the owner is Faulted.
 

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets accumulated pointer displacement from the current UI drag's starting position for timeline and canvas controls.
 
+## Parameters
+
 **Parameter `button`:** The button that owns the drag.
 
 **Parameter `threshold`:** Movement required to start dragging, or a negative value to use the Editor's configured threshold.
 
-**Returns:** Displacement in UI coordinates, or zero before the drag threshold is crossed or when no drag is available. The value is cumulative; it must be applied to a captured starting value, not added again each frame.
+## Returns
+
+Displacement in UI coordinates, or zero before the drag threshold is crossed or when no drag is available. The value is cumulative; it must be applied to a captured starting value, not added again each frame.

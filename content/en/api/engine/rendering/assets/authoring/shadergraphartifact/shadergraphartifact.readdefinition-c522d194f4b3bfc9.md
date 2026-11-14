@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Reads the target-expanded runtime interface from the same frozen candidate as its computations.
 
+## Parameters
+
 **Parameter `bytes`:** Immutable captured authoring artifact.
 
 **Parameter `serialization`:** Owner converters.
 
 **Parameter `context`:** Complete owner asset references.
 
-**Returns:** Detached definition paired with these exact graph programs.
+## Returns
+
+Detached definition paired with these exact graph programs.

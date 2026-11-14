@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures a validated language provider set without a process-global registry.
 
+## Parameters
+
 **Parameter `frontends`:** Providers owned and retired by the calling generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Language IDs are missing or duplicated.

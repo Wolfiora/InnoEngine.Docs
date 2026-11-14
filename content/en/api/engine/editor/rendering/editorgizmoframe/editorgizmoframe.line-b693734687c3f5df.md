@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Appends a world space line to the current gizmo frame.
 
+## Parameters
+
 **Parameter `start`:** The start consumed by line; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `end`:** The end consumed by line; ownership remains with the caller unless explicitly stated otherwise.

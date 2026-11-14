@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a ready output in the current panel.
 
+## Parameters
+
 **Parameter `output`:** Opaque output returned by `M:Inno.Editor.Rendering.EditorRenderingModule.TrySubmit(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportOutput@)`.
 
 **Parameter `logicalSize`:** Destination size in logical UI pixels.

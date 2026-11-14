@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates and reflection-validates a compute pipeline at a frame safety point.
 
+## Parameters
+
 **Parameter `descriptor`:** Compiled stage and interface contract.
 
 **Parameter `name`:** Debug and diagnostic name.
 
-**Returns:** An opaque device-generation compute pipeline handle.
+## Returns
+
+An opaque device-generation compute pipeline handle.

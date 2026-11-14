@@ -12,6 +12,10 @@ apiScope: Editor
 
 Pushes a host-owned font face for one synchronous control group.
 
+## Parameters
+
 **Parameter `style`:** The requested emphasis.
 
-**Returns:** An owner-window/frame scope; the host may use a registered nearest face.
+## Returns
+
+An owner-window/frame scope; the host may use a registered nearest face.

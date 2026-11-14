@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Formats an explicitly declared logical archive using the selected platform format.
 
+## Parameters
+
 **Parameter `logicalName`:** The component-owned logical archive name.
 
-**Returns:** The exact platform file name.
+## Returns
+
+The exact platform file name.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Static linkage has no registered archive format.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a validated game presentation viewport.
 
+## Parameters
+
 **Parameter `x`:** Non-negative horizontal offset.
 
 **Parameter `y`:** Non-negative vertical offset.

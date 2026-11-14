@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Copies the pass declaration with independently owned metadata storage.
 
-**Returns:** A detached declaration whose metadata can be changed without affecting this declaration. Missing metadata is represented by an empty collection.
+## Returns
+
+A detached declaration whose metadata can be changed without affecting this declaration. Missing metadata is represented by an empty collection.

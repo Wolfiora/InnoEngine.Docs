@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Analyzes source while preventing provider retirement.
 
+## Parameters
+
 **Parameter `language`:** Exact language identity.
 
 **Parameter `source`:** Immutable source snapshot.
 
-**Returns:** Detached neutral analysis.
+## Returns
+
+Detached neutral analysis.

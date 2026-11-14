@@ -12,7 +12,11 @@ apiScope: Editor
 
 Encodes a node or document value through the common native serialization channel.
 
+## Type parameters
+
 **Type parameter `T`:** Native serializable value type.
+
+## Parameters
 
 **Parameter `value`:** Detached authoring value.
 
@@ -20,4 +24,6 @@ Encodes a node or document value through the common native serialization channel
 
 **Parameter `context`:** The complete owner reference context.
 
-**Returns:** Neutral bytes suitable for graph persistence and history.
+## Returns
+
+Neutral bytes suitable for graph persistence and history.

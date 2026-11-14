@@ -12,6 +12,8 @@ apiScope: Editor
 
 Changes the screen-space origin so zoom preserves the same content point beneath the cursor.
 
+## Parameters
+
 **Parameter `origin`:** Current logical-pixel content origin.
 
 **Parameter `pivot`:** Logical-pixel cursor position relative to the canvas.
@@ -20,6 +22,10 @@ Changes the screen-space origin so zoom preserves the same content point beneath
 
 **Parameter `nextScale`:** New positive content magnification after clamping.
 
-**Returns:** The origin preserving the pivot's content coordinate.
+## Returns
+
+The origin preserving the pivot's content coordinate.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** An input is non-finite or a scale is not positive.

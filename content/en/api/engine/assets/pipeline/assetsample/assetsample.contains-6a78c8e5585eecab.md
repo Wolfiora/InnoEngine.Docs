@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether a source path is a sample directory or is contained by one.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path to inspect.
 
 **Parameter `isDirectory`:** Whether the path itself represents a directory.
 
-**Returns:** `true` when the path belongs to an installed Plugin source and any directory segment starts with `~`. Project content is never hidden from authoring import by this method.
+## Returns
+
+`true` when the path belongs to an installed Plugin source and any directory segment starts with `~`. Project content is never hidden from authoring import by this method.

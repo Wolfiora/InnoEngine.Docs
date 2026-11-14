@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Restores detached settings using the current type and serialization generation.
 
+## Parameters
+
 **Parameter `state`:** Neutral settings retaining their stable type identity and properties.
 
-**Returns:** The detached settings, or null when the extension is temporarily unavailable.
+## Returns
+
+The detached settings, or null when the extension is temporarily unavailable.

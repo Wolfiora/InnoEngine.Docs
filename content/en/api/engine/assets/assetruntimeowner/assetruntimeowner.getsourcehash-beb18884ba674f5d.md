@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Reads the source fingerprint of an asset claimed by this owner.
 
+## Parameters
+
 **Parameter `asset`:** The owned asset.
 
-**Returns:** The fingerprint currently committed to the asset.
+## Returns
+
+The fingerprint currently committed to the asset.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The asset belongs to a different owner.

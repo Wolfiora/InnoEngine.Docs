@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads the current engine-owned compilation description from a selected native output.
 
+## Parameters
+
 **Parameter `nativeDirectory`:** The complete selected generation's native directory.
 
-**Returns:** The validated description; missing or malformed descriptions fail explicitly.
+## Returns
+
+The validated description; missing or malformed descriptions fail explicitly.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The description cannot be read.
 

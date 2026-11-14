@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Transforms a position as a column vector with an implicit homogeneous coordinate of one.
 
-**Returns:** The transformed XYZ components, including translation. No perspective divide is performed.
+## Returns
+
+The transformed XYZ components, including translation. No perspective divide is performed.
+
+## Parameters
 
 **Parameter `position`:** The input position.
 

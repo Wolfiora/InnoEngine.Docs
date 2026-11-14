@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Builds or reuses the complete product with the operation's frozen tools.
 
+## Parameters
+
 **Parameter `context`:** The frozen operation.
 
 **Parameter `plan`:** The complete dependency-ordered component plan.
 
 **Parameter `cancellationToken`:** Cancels waits and unpublished work.
 
-**Returns:** The owned complete output and binding closure.
+## Returns
+
+The owned complete output and binding closure.

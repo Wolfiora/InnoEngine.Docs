@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures the identity assigned by the composition owner.
 
+## Parameters
+
 **Parameter `id`:** The assigned implementation identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity is unassigned.

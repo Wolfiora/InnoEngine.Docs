@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Reflects an incident value across the supplied normal.
 
+## Parameters
+
 **Parameter `dir`:** The dir consumed by reflect; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `normal`:** The surface normal used by the operation.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

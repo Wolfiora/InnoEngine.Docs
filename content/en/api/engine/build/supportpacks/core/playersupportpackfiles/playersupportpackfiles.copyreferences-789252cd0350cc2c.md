@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Stages current runtime references while excluding the selected executable and project scripts.
 
+## Parameters
+
 **Parameter `buildOutput`:** The explicit product compilation output directory.
 
 **Parameter `destination`:** The isolated compilation reference directory.
 
 **Parameter `productAssemblyName`:** The selected executable assembly to exclude from references.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The build produced no runtime compilation references.

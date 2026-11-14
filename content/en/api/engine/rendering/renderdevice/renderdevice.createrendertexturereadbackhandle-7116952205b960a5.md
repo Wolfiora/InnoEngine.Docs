@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a texture-readback identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** The backend-owned non-zero readback identity.
 
 **Parameter `generation`:** The device generation that owns the readback.
 
-**Returns:** An opaque texture-readback handle.
+## Returns
+
+An opaque texture-readback handle.

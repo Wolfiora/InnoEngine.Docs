@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates and captures a complete set of runtime providers.
 
+## Parameters
+
 **Parameter `providers`:** Providers whose lifetime is owned by this composition generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A provider is null, has no ID, or duplicates an ID.

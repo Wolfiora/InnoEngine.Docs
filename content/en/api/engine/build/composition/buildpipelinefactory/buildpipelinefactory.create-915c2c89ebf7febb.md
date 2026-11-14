@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates and binds the distribution to one authoring host without starting a build.
 
+## Parameters
+
 **Parameter `context`:** The SDK selection and host location used for optional source provisioning.
 
 **Parameter `distribution`:** The frozen platform and deployment registrations shared by all entry points.
@@ -27,4 +29,6 @@ Validates and binds the distribution to one authoring host without starting a bu
 
 **Parameter `supportPackRoot`:** The host's installed Support Pack location.
 
-**Returns:** A pipeline retaining the supplied owners without taking responsibility for their disposal.
+## Returns
+
+A pipeline retaining the supplied owners without taking responsibility for their disposal.

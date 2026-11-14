@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Copies providers and rejects ambiguous identities before any publication starts.
 
+## Parameters
+
 **Parameter `compilers`:** The explicit provider implementations owned by the composition root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The collection is empty, contains null entries or has duplicate or invalid identities.

@@ -12,6 +12,8 @@ apiScope: Authoring
 
 Creates an Inspector help message.
 
+## Parameters
+
 **Parameter `text`:** Non-empty message text.
 
 **Parameter `messageType`:** Visual severity.

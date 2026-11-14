@@ -12,6 +12,10 @@ apiScope: Editor
 
 Evaluates whether the strongly typed source may be dropped on the strongly typed target.
 
+## Parameters
+
 **Parameter `context`:** The typed source, target, surface, and requested placement.
 
-**Returns:** The compatibility state and standard target visual.
+## Returns
+
+The compatibility state and standard target visual.

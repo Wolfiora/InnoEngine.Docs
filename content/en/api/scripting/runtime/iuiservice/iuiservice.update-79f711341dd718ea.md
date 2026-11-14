@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Processes current-frame input and advances one context.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.

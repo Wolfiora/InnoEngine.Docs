@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a property drawer registration.
 
+## Parameters
+
 **Parameter `targetType`:** The declared serialized property type handled by the drawer.
 
 **Parameter `useForChildren`:** Whether the drawer may handle assignable derived property types.
 
 **Parameter `priority`:** The tie-breaking priority after exactness and inheritance distance.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `targetType` is `null`.

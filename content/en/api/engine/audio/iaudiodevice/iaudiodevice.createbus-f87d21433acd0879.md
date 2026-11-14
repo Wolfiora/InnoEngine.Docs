@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates one bus routed to a parent bus.
 
+## Parameters
+
 **Parameter `id`:** Stable semantic bus identifier.
 
 **Parameter `parent`:** Parent bus, or an invalid handle when creating the master bus.
 
-**Returns:** A bus handle owned by the current device generation.
+## Returns
+
+A bus handle owned by the current device generation.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Quiesces domain owners while the previous type and serialization publication is still active.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** The phase is out of order or the caller is not the owner thread.

@@ -12,7 +12,11 @@ apiScope: Editor
 
 Draws literal text wrapped to the remaining content width without using a native variadic formatting entry point.
 
+## Parameters
+
 **Parameter `text`:** The literal text to draw.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.
 

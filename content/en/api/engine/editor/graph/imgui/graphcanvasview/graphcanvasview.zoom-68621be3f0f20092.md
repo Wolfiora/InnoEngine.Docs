@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the graph-to-screen zoom captured for this frame, independently of later navigation changes.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** The view was not initialized through its constructor.

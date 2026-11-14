@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether the supplied layer is contained in this mask.
 
-**Returns:** `true` when the layer bit is enabled.
+## Returns
+
+`true` when the layer bit is enabled.
+
+## Parameters
 
 **Parameter `layer`:** The layer consumed by contains; ownership remains with the caller unless explicitly stated otherwise.

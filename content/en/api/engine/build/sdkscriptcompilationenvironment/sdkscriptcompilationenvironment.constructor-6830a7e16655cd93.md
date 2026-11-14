@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a host-owned input provider without selecting installed reference packs independently.
 
+## Parameters
+
 **Parameter `dotnetHost`:** The .NET host executable selected by the composition root.
 
 **Parameter `projectRoot`:** The authoring project whose ancestor SDK configuration governs compilation and IDE use.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A host or project location is empty.

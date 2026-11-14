@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Determines whether an ordinal tag is defined by the project.
 
+## Parameters
+
 **Parameter `tag`:** The tag to resolve.
 
-**Returns:** `true` when the normalized tag is defined.
+## Returns
+
+`true` when the normalized tag is defined.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `tag` is empty or invalid.

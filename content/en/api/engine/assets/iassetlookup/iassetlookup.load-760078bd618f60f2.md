@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Loads the canonical asset with a persistent identity.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The non-empty persistent asset identity.
 
-**Returns:** The canonical compatible asset owned by this lookup.
+## Returns
+
+The canonical compatible asset owned by this lookup.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the asset does not exist or has an incompatible concrete type.

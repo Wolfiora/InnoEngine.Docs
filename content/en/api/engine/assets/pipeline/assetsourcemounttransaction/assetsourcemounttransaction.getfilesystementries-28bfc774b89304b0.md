@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets candidate source entries without publishing them to active AssetPipeline consumers.
 
+## Parameters
+
 **Parameter `includeDirectories`:** Whether directory entries should be included.
 
-**Returns:** A stable candidate entry snapshot.
+## Returns
+
+A stable candidate entry snapshot.

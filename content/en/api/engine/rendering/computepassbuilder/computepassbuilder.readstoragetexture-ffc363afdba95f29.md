@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Declares an unordered texture read.
 
+## Parameters
+
 **Parameter `texture`:** Storage texture read by compute work.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

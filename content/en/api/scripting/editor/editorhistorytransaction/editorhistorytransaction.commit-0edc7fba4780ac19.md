@@ -12,4 +12,6 @@ apiScope: Editor
 
 Commits all recorded child operations as one atomic history entry.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when the transaction is no longer active.

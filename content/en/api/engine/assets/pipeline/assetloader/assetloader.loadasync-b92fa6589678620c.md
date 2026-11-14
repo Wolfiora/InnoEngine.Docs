@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Asynchronously loads a canonical asset by persistent identity.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 
 **Parameter `cancellationToken`:** Cancellation for the current caller's wait.
 
-**Returns:** The canonical asset, or `null` when unavailable or incompatible.
+## Returns
+
+The canonical asset, or `null` when unavailable or incompatible.

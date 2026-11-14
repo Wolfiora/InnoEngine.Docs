@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to resolve a local identity to its compact runtime slot.
 
+## Parameters
+
 **Parameter `localId`:** The stable project-local identity.
 
 **Parameter `layer`:** The resolved runtime slot.
 
-**Returns:** `true` when the identity is defined.
+## Returns
+
+`true` when the identity is defined.

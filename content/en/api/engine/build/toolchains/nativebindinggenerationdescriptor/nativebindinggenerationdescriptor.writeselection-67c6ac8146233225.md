@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Writes the exact native binding identities for a subsequent managed build without reselecting generations. Identical content preserves the existing import timestamp; changed content is installed atomically.
 
+## Parameters
+
 **Parameter `path`:** The MSBuild selection document in an intermediate directory exclusively owned by the caller.
 
 **Parameter `generations`:** Explicit checkout-relative native project paths and their complete selected generations.
 
 **Parameter `linkage`:** Explicit linkage of each selected component, used by its managed native initialization boundary.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A project name is unsafe or repeated, or component linkage is invalid or incomplete.
 

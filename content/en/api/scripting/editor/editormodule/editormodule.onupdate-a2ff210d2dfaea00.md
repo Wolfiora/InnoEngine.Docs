@@ -12,4 +12,6 @@ apiScope: Editor
 
 Runs once per editor frame before views are drawn.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing the current frame state.

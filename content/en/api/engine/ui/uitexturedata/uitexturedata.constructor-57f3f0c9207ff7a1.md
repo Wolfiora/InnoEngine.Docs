@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a validated immutable texture.
 
+## Parameters
+
 **Parameter `width`:** The positive texture width.
 
 **Parameter `height`:** The positive texture height.

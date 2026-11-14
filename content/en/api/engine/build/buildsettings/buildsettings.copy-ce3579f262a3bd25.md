@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an isolated copy suitable for a temporary export draft.
 
-**Returns:** A newly owned settings object.
+## Returns
+
+A newly owned settings object.

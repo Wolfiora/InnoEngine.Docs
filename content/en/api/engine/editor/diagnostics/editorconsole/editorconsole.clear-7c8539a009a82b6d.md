@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Removes the current diagnostic report for one producer.
 
+## Parameters
+
 **Parameter `source`:** The producer whose report should be removed.

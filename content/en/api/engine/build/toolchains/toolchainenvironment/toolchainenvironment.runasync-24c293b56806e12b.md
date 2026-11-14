@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs a child build using a complete argument string, without a shell.
 
+## Parameters
+
 **Parameter `fileName`:** The executable resolved by the host operating system.
 
 **Parameter `arguments`:** Arguments quoted for the selected executable's command-line parser.
@@ -19,7 +21,11 @@ Runs a child build using a complete argument string, without a shell.
 
 **Parameter `cancellationToken`:** Cancels the complete process tree and waits for output to finish draining.
 
-**Returns:** Completion after successful exit; failures and cancellation propagate.
+## Returns
+
+Completion after successful exit; failures and cancellation propagate.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The process fails to start or exits unsuccessfully.
 

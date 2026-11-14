@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a graph-space position.
 
+## Parameters
+
 **Parameter `x`:** Horizontal graph-space coordinate.
 
 **Parameter `y`:** Vertical graph-space coordinate.

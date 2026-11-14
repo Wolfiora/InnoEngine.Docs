@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Exports the validated runtime artifact closure while observing cooperative cancellation between files.
 
+## Parameters
+
 **Parameter `destinationLibraryRoot`:** The empty directory that receives the runtime-only asset database.
 
 **Parameter `cancellationToken`:** The token checked before every artifact file is copied.
 
-**Returns:** Counts and source identities represented by the exported snapshot.
+## Returns
+
+Counts and source identities represented by the exported snapshot.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when artifacts are incomplete or transitive source inputs no longer certify the imported snapshot.
 

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Adds one texture retirement.
 
+## Parameters
+
 **Parameter `texture`:** Assigned texture handle.

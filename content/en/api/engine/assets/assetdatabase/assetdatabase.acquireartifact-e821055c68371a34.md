@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Acquires one verified immutable artifact output for an explicit lifetime.
 
+## Parameters
+
 **Parameter `persistentId`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Stable artifact output name.
 
-**Returns:** A lease over the verified deployed artifact.
+## Returns
+
+A lease over the verified deployed artifact.

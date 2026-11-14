@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Removes a node and every edge connected to it.
 
+## Parameters
+
 **Parameter `nodeId`:** Node identifier to remove.
 
-**Returns:** `true` when the node existed; otherwise `false`.
+## Returns
+
+`true` when the node existed; otherwise `false`.

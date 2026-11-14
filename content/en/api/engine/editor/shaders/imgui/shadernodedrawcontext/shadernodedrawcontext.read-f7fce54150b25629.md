@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Reads a detached property value; missing values use the node's declared default.
 
+## Type parameters
+
 **Type parameter `T`:** Native serializable property type.
+
+## Parameters
 
 **Parameter `key`:** Stable node-local property key.
 
 **Parameter `defaultValue`:** Default used only when the property is absent.
 
-**Returns:** The detached value. Malformed stored data is not silently replaced.
+## Returns
+
+The detached value. Malformed stored data is not silently replaced.

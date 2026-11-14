@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates a dispatcher with bounded pending work and a finite per-flush budget.
 
+## Parameters
+
 **Parameter `queueCapacity`:** Maximum pending events; producers must handle explicit rejection.
 
 **Parameter `flushBudget`:** Maximum events dispatched by one flush, excluding events enqueued during that flush.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A budget is not positive.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Registers one named RGBA8 texture source.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `source`:** Tagged source or named texture source for this operation.

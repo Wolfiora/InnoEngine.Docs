@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Creates a tracked source directory and its persistent metadata.
 
+## Parameters
+
 **Parameter `path`:** New isolated directory path.
+
+## Exceptions
 
 **Exception `T:System.IO.DirectoryNotFoundException`:** Thrown when the parent directory does not exist.
 

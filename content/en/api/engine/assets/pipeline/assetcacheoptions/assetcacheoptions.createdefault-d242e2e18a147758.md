@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates the default cache policy.
 
-**Returns:** The default cache options.
+## Returns
+
+The default cache options.

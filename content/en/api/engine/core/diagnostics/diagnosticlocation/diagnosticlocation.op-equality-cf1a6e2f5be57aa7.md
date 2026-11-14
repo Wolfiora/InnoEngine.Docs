@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two locations are equal.
 
+## Parameters
+
 **Parameter `left`:** The left location.
 
 **Parameter `right`:** The right location.
 
-**Returns:** `true` when both locations identify the same source position.
+## Returns
+
+`true` when both locations identify the same source position.

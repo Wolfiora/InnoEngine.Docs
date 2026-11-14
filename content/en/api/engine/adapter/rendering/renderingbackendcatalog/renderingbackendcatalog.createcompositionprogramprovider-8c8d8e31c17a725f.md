@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a backend-owned program provider for ordered render layer composition.
 
+## Parameters
+
 **Parameter `backend`:** Stable identity of the selected rendering backend.
 
-**Returns:** A provider compatible with devices created by the same backend registration.
+## Returns
+
+A provider compatible with devices created by the same backend registration.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** No provider is registered for this exact backend identity.
