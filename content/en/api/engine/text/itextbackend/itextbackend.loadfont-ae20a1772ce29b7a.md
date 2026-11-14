@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Loads one face from encoded OpenType data.
 
+## Parameters
+
 **Parameter `data`:** The complete encoded font source.
 
 **Parameter `faceIndex`:** The zero-based collection face index.
 
-**Returns:** A generation-local face handle.
+## Returns
+
+A generation-local face handle.

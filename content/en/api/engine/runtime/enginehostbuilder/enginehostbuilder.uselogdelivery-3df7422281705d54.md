@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Selects the host router's delivery policy for host and session sinks.
 
+## Parameters
+
 **Parameter `deliveryMode`:** Background worker or inline producer-thread delivery.
 
-**Returns:** This builder for fluent host composition.
+## Returns
+
+This builder for fluent host composition.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The policy is undefined.

@@ -14,8 +14,8 @@ aliases: []
 
 Loads canonical runtime assets exclusively from a verified catalog and content-addressed artifact bundles.
 
+Separates immutable artifact preparation from owner-thread asset materialization.
+
 ## Remarks
 
 This database never reads project source files, creates source mounts, runs importers, or writes content. One runtime session owns one database instance and disposes it before releasing its identity services.
-
-Separates immutable artifact preparation from owner-thread asset materialization.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a deployed shader pass.
 
+## Parameters
+
 **Parameter `name`:** The stable pass name within the owning shader.
 
 **Parameter `programKind`:** The programmable stage combination used by the pass.
@@ -21,5 +23,7 @@ Creates a deployed shader pass.
 **Parameter `shaderInterface`:** The validated pass-local resource binding contract.
 
 **Parameter `stages`:** The complete target stage binaries required by the pass.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the name, stage set, or program kind is invalid.

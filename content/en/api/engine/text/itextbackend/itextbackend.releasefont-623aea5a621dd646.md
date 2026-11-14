@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases one loaded face.
 
+## Parameters
+
 **Parameter `font`:** The face handle to release.

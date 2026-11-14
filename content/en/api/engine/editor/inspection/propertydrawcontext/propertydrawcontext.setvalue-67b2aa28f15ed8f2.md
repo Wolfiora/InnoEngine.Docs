@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Assigns a value when the property is writable.
 
+## Parameters
+
 **Parameter `value`:** New value.
 
 **Parameter `componentName`:** An optional public scalar component, or an Euler axis such as euler.x, for precise batch value edits.

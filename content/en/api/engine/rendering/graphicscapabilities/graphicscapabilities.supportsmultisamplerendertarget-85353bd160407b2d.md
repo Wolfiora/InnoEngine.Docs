@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Tests whether a format is valid as a multisampled raster attachment.
 
+## Parameters
+
 **Parameter `format`:** Texture format to query.
 
-**Returns:** `true` when the format can be attached with multisampling.
+## Returns
+
+`true` when the format can be attached with multisampling.

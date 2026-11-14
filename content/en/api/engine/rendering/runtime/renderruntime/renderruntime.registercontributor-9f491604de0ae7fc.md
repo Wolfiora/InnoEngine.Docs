@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Registers frame-final work without transferring frame ownership.
 
+## Parameters
+
 **Parameter `contributor`:** Contributor invoked after all user pipeline requests.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the instance is already registered.
 

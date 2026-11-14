@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Calculates a clickable text area from visible text and requested inner padding.
 
+## Parameters
+
 **Parameter `text`:** Visible text whose dimensions determine the content size.
 
 **Parameter `padding`:** Horizontal and vertical padding surrounding the text.
 
-**Returns:** The complete transparent interaction area size.
+## Returns
+
+The complete transparent interaction area size.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.
 

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases managed generation-scoped state.
 
+## Parameters
+
 **Parameter `disposing`:** Always `true` for explicit disposal.

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Restores data into an existing value.
 
+## Parameters
+
 **Parameter `reader`:** The operation-scoped reader.
 
 **Parameter `target`:** The existing target value.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the converter does not support restoring existing values.

@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Gets an isolated snapshot of a current-generation setting.
 
+## Type parameters
+
 **Type parameter `TSetting`:** Expected settings contract.
+
+## Parameters
 
 **Parameter `id`:** Stable setting identifier.
 
-**Returns:** An independently owned snapshot of the effective current-generation value.
+## Returns
+
+An independently owned snapshot of the effective current-generation value.
+
+## Exceptions
 
 **Exception `T:System.Collections.Generic.KeyNotFoundException`:** Thrown when no definition exists.
 

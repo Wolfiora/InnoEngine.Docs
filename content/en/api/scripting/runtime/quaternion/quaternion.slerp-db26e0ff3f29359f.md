@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Interpolates along the shortest spherical path between two rotations.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
 **Parameter `t`:** The interpolation factor, where zero selects the first endpoint and one selects the second.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

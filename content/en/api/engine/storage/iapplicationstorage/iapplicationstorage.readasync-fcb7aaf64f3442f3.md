@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reads a complete immutable value.
 
+## Parameters
+
 **Parameter `key`:** The sandbox-relative storage key.
 
 **Parameter `cancellationToken`:** Cancellation requested by the caller.
 
-**Returns:** The stored bytes, or `null` when the key does not exist.
+## Returns
+
+The stored bytes, or `null` when the key does not exist.

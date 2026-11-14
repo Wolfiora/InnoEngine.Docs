@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves this reference against one catalog's active immutable generation.
 
+## Parameters
+
 **Parameter `catalog`:** The catalog that owns the required type generation.
 
-**Returns:** The active CLR type represented by this reference.
+## Returns
+
+The active CLR type represented by this reference.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the reference is empty, the type cache is unavailable, or the logical type is not loaded.
 

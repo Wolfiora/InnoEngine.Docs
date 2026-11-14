@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Interpolates between two values using a cubic equation.
 
+## Parameters
+
 **Parameter `value1`:** Source value.
 
 **Parameter `value2`:** Source value.
 
 **Parameter `amount`:** Weighting value.
 
-**Returns:** Interpolated value.
+## Returns
+
+Interpolated value.

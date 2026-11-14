@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Initializes transient provider state for an opened or restored document.
 
+## Parameters
+
 **Parameter `context`:** Stable document context owned by the host.

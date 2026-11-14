@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the reusable feature factory used by Edit and Play runtime sessions.
 
+## Parameters
+
 **Parameter `session`:** The explicit session owner; it is never exposed through subsystem contracts.
 
-**Returns:** A factory that creates and releases one isolated audio generation per session.
+## Returns
+
+A factory that creates and releases one isolated audio generation per session.

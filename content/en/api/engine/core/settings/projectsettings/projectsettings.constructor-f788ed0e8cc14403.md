@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Loads one project settings document and builds the initial effective snapshot.
 
+## Parameters
+
 **Parameter `documentStore`:** The project document source; read-only deployments cannot persist project overrides.
 
 **Parameter `types`:** The type catalog that owns project setting definitions and composers.
@@ -22,5 +24,7 @@ Loads one project settings document and builds the initial effective snapshot.
 **Parameter `contributors`:** Dependency-ordered default contributors.
 
 **Parameter `serializationContext`:** The owner's complete reference resolver context, used for defaults, contributions and returned snapshots.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required service or the owner's serialization context is null.

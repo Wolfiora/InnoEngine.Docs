@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a project-scoped layer identity from its project and local parts.
 
+## Parameters
+
 **Parameter `projectId`:** The current project identity.
 
 **Parameter `name`:** The stable project-local layer identity.

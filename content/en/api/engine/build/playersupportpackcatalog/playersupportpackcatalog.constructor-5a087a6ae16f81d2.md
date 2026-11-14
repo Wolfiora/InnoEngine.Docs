@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a catalog rooted at the directory containing target-specific Player Support Packs.
 
+## Parameters
+
 **Parameter `root`:** The directory whose target children contain immutable fingerprint directories and a current index.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `root` is empty.

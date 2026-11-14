@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a mixer feature declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable feature extension identifier.
 
 **Parameter `priority`:** Feature invocation priority; lower values build first.

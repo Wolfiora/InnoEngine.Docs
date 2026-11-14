@@ -14,6 +14,8 @@ aliases: []
 
 Reports a language-neutral source problem.
 
+## Parameters
+
 **Parameter `code`:** Stable diagnostic code.
 
 **Parameter `message`:** Actionable description.

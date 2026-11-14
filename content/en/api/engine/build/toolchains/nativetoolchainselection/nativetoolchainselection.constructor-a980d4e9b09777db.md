@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures an immutable, explicit compiler and SDK selection supplied by a platform provider.
 
+## Parameters
+
 **Parameter `targetId`:** The exact native target identity.
 
 **Parameter `host`:** The machine on which the selected tools execute.
@@ -28,6 +30,8 @@ Captures an immutable, explicit compiler and SDK selection supplied by a platfor
 **Parameter `linkPlan`:** The sole source of target library formats and linker capabilities.
 
 **Parameter `compilerInputs`:** Explicit SDK parser inputs, or null when no native parser is provided.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The selection is incomplete or has unassigned target facts.
 

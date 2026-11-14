@@ -12,6 +12,10 @@ apiScope: Editor
 
 Attempts to restore the state before the gesture without discarding a failed rollback.
 
-**Returns:** The rollback outcome; a state-preserving failure keeps this gesture active for retry.
+## Returns
+
+The rollback outcome; a state-preserving failure keeps this gesture active for retry.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The gesture is finished or a nested transaction remains active.

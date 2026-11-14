@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Deletes one value.
 
+## Parameters
+
 **Parameter `key`:** The sandbox-relative storage key.
 
 **Parameter `cancellationToken`:** Cancellation requested by the caller.
 
-**Returns:** `true` when a value was deleted.
+## Returns
+
+`true` when a value was deleted.

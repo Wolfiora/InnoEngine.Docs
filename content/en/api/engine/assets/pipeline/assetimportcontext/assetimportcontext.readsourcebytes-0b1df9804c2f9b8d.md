@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads another source from the same candidate mount snapshot and records it as an import dependency.
 
+## Parameters
+
 **Parameter `path`:** An isolated path whose mount dependency was declared when it crosses Plugin boundaries.
 
-**Returns:** An immutable source snapshot owned by the import operation.
+## Returns
+
+An immutable source snapshot owned by the import operation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the source crosses an undeclared mount boundary or references the writable Project from a Plugin.
 

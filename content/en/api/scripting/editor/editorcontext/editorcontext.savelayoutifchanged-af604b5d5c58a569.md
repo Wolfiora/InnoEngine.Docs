@@ -12,7 +12,11 @@ apiScope: Editor
 
 Atomically saves the project editor layout when it changed.
 
-**Returns:** `true` when a changed document was written.
+## Returns
+
+`true` when a changed document was written.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** Thrown when the layout document cannot be written atomically.
 

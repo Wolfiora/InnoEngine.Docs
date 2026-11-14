@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Stages and validates a replacement generation without publishing it.
 
+## Parameters
+
 **Parameter `module`:** The module consumed by begin reload; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `request`:** The validated immutable request that defines this operation.
 
-**Returns:** The validated assembly reload session that represents the completed operation.
+## Returns
+
+The validated assembly reload session that represents the completed operation.

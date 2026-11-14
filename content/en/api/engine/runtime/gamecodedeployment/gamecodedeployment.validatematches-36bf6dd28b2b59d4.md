@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Rejects a manifest that differs from the code closure linked by the build.
 
+## Parameters
+
 **Parameter `expected`:** The independently frozen deployment to compare with this closure.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Module ordering, ownership, dependencies, code names or fingerprints differ.

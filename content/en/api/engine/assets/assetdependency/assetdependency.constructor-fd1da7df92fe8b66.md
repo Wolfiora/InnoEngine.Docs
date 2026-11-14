@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an asset dependency descriptor.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent identity of the referenced asset.
 
 **Parameter `type`:** The reload-safe identity of the expected asset type.
 
 **Parameter `lastKnownPath`:** The last known source-relative path.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `persistentId` is empty.

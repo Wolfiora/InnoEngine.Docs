@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Stages a dependency-ordered set of module additions or replacements as one atomic transaction. Existing modules are matched by their stable module names; an unknown name creates a new module.
 
+## Parameters
+
 **Parameter `requests`:** The complete reverse-dependency reload closure.
 
-**Returns:** A session that publishes or rolls back every candidate together.
+## Returns
+
+A session that publishes or rolls back every candidate together.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `requests` is `null`.
 

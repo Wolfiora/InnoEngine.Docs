@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Finds every game object assigned to any layer contained in a mask.
 
+## Parameters
+
 **Parameter `layers`:** The set of accepted layer slots.
 
-**Returns:** A stable snapshot in scene storage order.
+## Returns
+
+A stable snapshot in scene storage order.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures an output independently of platform suffix conventions.
 
+## Parameters
+
 **Parameter `logicalId`:** The unique producer-owned output identity.
 
 **Parameter `file`:** The absolute output path retained by the product's reading ownership.
 
 **Parameter `role`:** The explicitly declared link or deployment role.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity, path or role is invalid.

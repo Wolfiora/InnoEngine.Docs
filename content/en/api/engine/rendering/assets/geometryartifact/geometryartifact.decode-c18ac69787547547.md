@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Decodes and strictly validates one immutable geometry artifact.
 
+## Parameters
+
 **Parameter `bytes`:** The complete artifact payload.
 
-**Returns:** The normalized geometry represented by the payload.
+## Returns
+
+The normalized geometry represented by the payload.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the artifact is empty, corrupt, truncated, or contains invalid ranges.

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads the current provider's declaration metadata for domain operations such as prefab overrides.
 
+## Parameters
+
 **Parameter `type`:** The exact declaration owned by the current serialization generation.
 
-**Returns:** Immutable declaration accessors owned by this generation; unsupported declarations throw. The caller must not retain the result across generation retirement.
+## Returns
+
+Immutable declaration accessors owned by this generation; unsupported declarations throw. The caller must not retain the result across generation retirement.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The declaration is null.
 

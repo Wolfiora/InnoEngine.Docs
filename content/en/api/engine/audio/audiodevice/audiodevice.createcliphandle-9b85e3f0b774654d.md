@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a clip identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** Non-zero backend clip identity.
 
 **Parameter `generation`:** Owning device generation.
 
-**Returns:** An opaque clip handle.
+## Returns
+
+An opaque clip handle.

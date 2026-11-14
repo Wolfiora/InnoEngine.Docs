@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes all CPU artifacts associated with one persistent shader.
 
+## Parameters
+
 **Parameter `shaderId`:** Persistent shader asset identity.
 
-**Returns:** The number of removed variants.
+## Returns
+
+The number of removed variants.

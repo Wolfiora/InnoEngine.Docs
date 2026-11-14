@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws unformatted text with a temporary foreground color.
 
+## Parameters
+
 **Parameter `color`:** The foreground color applied only while drawing the text.
 
 **Parameter `text`:** The literal text to draw without format-string interpretation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.

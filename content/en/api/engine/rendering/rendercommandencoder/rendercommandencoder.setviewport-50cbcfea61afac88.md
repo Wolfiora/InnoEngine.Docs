@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets the viewport rectangle in render-target pixels.
 
+## Parameters
+
 **Parameter `x`:** Left coordinate in render-target pixels.
 
 **Parameter `y`:** Top coordinate in render-target pixels.

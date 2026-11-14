@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a fresh detached graph with its target and parameter declarations.
 
+## Parameters
+
 **Parameter `serialization`:** Current owner converters.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** A graph ready for native serialization and ordinary shader import.
+## Returns
+
+A graph ready for native serialization and ordinary shader import.

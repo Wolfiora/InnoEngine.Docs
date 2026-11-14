@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an off-center orthographic projection matrix (depth range 0..1).
 
+## Parameters
+
 **Parameter `left`:** Left plane.
 
 **Parameter `right`:** Right plane.
@@ -23,4 +25,6 @@ Creates an off-center orthographic projection matrix (depth range 0..1).
 
 **Parameter `far`:** Far plane.
 
-**Returns:** An orthographic projection matrix.
+## Returns
+
+An orthographic projection matrix.

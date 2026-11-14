@@ -12,4 +12,6 @@ apiScope: Editor
 
 Handles one pointer click when this contributor owns viewport interaction.
 
+## Parameters
+
 **Parameter `context`:** Normalized frame-only pointer context.

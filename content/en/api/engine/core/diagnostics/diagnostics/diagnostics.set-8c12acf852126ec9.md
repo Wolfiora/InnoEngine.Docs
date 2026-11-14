@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Atomically sets the complete current state of one diagnostic group owned by the calling type.
 
+## Parameters
+
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type.
 
 **Parameter `diagnostics`:** The complete current diagnostic collection. An empty collection clears the group.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `group` is empty or the collection contains a null entry.
 

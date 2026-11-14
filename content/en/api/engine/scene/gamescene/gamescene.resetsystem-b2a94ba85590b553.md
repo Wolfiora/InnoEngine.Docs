@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Explicitly restores a registered system to its default state.
 
+## Parameters
+
 **Parameter `system`:** The system consumed by reset system; ownership remains with the caller unless explicitly stated otherwise.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves the most specific registered drawer and creates its drawing context.
 
+## Parameters
+
 **Parameter `editorContext`:** The shared editor context exposed to the selected drawer.
 
 **Parameter `target`:** The selected object whose runtime type determines the drawer.
@@ -21,6 +23,10 @@ Resolves the most specific registered drawer and creates its drawing context.
 
 **Parameter `context`:** The target-specific drawing context when the method succeeds.
 
-**Returns:** `true` when a matching drawer was resolved.
+## Returns
+
+`true` when a matching drawer was resolved.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `editorContext`, `target`, or `renderer` is `null`.

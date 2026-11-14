@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a texture target compiler using this implementation's validated inputs.
 
+## Parameters
+
 **Parameter `backend`:** The backend consumed by create texture target compiler; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated itexture target compiler that represents the completed operation.
+## Returns
+
+The validated itexture target compiler that represents the completed operation.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Registers one current-generation document provider.
 
+## Parameters
+
 **Parameter `provider`:** Provider instance to register.
 
-**Returns:** A lease that detaches only this provider instance.
+## Returns
+
+A lease that detaches only this provider instance.

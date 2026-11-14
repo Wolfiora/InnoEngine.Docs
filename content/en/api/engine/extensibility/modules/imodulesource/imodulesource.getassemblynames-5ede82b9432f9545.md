@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Reads the complete owned assembly identities before any generation is acquired.
 
-**Returns:** Distinct, nonempty simple names; invalid or unavailable source data causes an exception.
+## Returns
+
+Distinct, nonempty simple names; invalid or unavailable source data causes an exception.

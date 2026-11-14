@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 When overridden in a derived class, sets the length of the current stream.
 
+## Parameters
+
 **Parameter `value`:** The desired length of the current stream in bytes.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** An I/O error occurs.
 

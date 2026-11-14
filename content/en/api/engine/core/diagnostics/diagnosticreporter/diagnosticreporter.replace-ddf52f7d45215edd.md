@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Atomically replaces this producer's complete current issue set.
 
+## Parameters
+
 **Parameter `diagnostics`:** The full immutable issue set; empty clears the report.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The supplied issue set contains a duplicate identity.
 

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a manipulation space matching one rendered viewport frame.
 
+## Parameters
+
 **Parameter `viewMatrix`:** World-to-view matrix used by the submitted frame.
 
 **Parameter `projectionMatrix`:** View-to-clip matrix used by the submitted frame.
@@ -19,5 +21,7 @@ Creates a manipulation space matching one rendered viewport frame.
 **Parameter `isOrthographic`:** Whether the projection is orthographic; this does not imply planar manipulation.
 
 **Parameter `plane`:** The contributor-selected transform handle orientation, independent of projection.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The plane is not one of the defined neutral manipulation orientations.

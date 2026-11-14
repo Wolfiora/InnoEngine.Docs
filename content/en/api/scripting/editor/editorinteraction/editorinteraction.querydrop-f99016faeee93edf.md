@@ -12,8 +12,12 @@ apiScope: Editor
 
 Queries this handle as a drop target.
 
+## Parameters
+
 **Parameter `identity`:** The active domain-qualified runtime identity.
 
 **Parameter `placement`:** The requested placement relative to the target.
 
-**Returns:** The drop compatibility and visual state.
+## Returns
+
+The drop compatibility and visual state.

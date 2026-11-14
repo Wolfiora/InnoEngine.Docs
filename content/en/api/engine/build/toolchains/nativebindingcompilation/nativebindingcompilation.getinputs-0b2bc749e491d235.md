@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Enumerates exact file declarations for standalone or aggregate recipe fingerprinting.
 
+## Parameters
+
 **Parameter `engineRoot`:** The current checkout's absolute root.
 
 **Parameter `nativeDirectory`:** The selected native artifact directory.
 
-**Returns:** All generated, user and SDK inputs with their current physical locations.
+## Returns
+
+All generated, user and SDK inputs with their current physical locations.

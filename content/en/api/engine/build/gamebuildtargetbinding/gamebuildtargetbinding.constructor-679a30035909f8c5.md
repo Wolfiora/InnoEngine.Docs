@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Validates a complete binding without starting tools or taking ownership of services.
 
+## Parameters
+
 **Parameter `packager`:** The borrowed platform packaging implementation.
 
 **Parameter `compiler`:** The borrowed content implementation for the same target and authoring generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Either implementation is null.
 

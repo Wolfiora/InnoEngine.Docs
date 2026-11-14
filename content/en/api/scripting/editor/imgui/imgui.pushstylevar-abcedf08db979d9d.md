@@ -12,6 +12,8 @@ apiScope: Editor
 
 Pushes one scalar style override.
 
+## Parameters
+
 **Parameter `style`:** The style variable.
 
 **Parameter `value`:** The scalar value.

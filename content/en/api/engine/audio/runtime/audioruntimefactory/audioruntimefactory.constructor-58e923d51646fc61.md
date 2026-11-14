@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a reusable factory around a composition-owned audio runtime callback.
 
+## Parameters
+
 **Parameter `runtimeFactory`:** The callback that creates a distinct audio runtime for the supplied session.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Blocks until every entry enqueued before this call has reached the current sink snapshot.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** A delivery callback attempts to wait for its own completion, or the queue cannot accept a flush barrier.
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this router has been disposed.

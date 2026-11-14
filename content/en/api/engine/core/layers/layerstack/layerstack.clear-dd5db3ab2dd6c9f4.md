@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Detaches every layer in top-to-bottom order while keeping this stack reusable.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Cleanup is incomplete. The remaining layers stay owned; only Clear or Dispose may resume cleanup.
 
 **Exception `T:System.AggregateException`:** Thrown after cleanup completes when multiple layers fail to detach.

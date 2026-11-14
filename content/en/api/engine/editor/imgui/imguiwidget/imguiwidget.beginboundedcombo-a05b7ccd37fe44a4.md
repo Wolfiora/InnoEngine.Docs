@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Begins a combo whose popup opens below the control and stays within its containing window.
 
+## Parameters
+
 **Parameter `id`:** Stable combo identifier in the current ImGui scope.
 
 **Parameter `preview`:** Text displayed by the closed combo.
 
 **Parameter `flags`:** Native combo presentation flags. Only `F:Inno.Editor.ImGui.ImGuiComboFlags.WidthFitPreview` is supported.
 
-**Returns:** `true` when the combo popup is open and its contents should be submitted; otherwise, `false`.
+## Returns
+
+`true` when the combo popup is open and its contents should be submitted; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

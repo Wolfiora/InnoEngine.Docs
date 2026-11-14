@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Queues a complete rebuild of both scripting load contexts while retaining the plugin generation. Valid cached artifacts are reused.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.

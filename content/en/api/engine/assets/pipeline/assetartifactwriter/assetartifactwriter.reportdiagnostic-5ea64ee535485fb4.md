@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Adds a build diagnostic.
 
+## Parameters
+
 **Parameter `message`:** The diagnostic message.

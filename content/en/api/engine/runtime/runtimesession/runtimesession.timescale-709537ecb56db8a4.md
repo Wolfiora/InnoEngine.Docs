@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets or sets the finite non-negative simulation time multiplier.
 
+## Exceptions
+
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when the assigned value is negative, NaN, or infinite.

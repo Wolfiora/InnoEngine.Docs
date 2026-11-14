@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the interaction mask assigned to one layer.
 
+## Parameters
+
 **Parameter `layer`:** The source layer.
 
-**Returns:** The configured interaction mask.
+## Returns
+
+The configured interaction mask.

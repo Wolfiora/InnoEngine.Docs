@@ -12,12 +12,18 @@ apiScope: Editor
 
 Selects between equal typed values without conditionally executing their producers.
 
+## Parameters
+
 **Parameter `condition`:** Scalar Boolean condition from this builder.
 
 **Parameter `whenTrue`:** Value selected when true.
 
 **Parameter `whenFalse`:** Value selected when false.
 
-**Returns:** A value with the selected operands' complete type.
+## Returns
+
+A value with the selected operands' complete type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The condition is not bool or selected value types differ.

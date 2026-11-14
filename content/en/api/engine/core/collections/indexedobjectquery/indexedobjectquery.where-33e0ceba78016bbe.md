@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds a custom condition implementation.
 
+## Parameters
+
 **Parameter `condition`:** The condition to append to this query.
 
-**Returns:** The same query instance.
+## Returns
+
+The same query instance.

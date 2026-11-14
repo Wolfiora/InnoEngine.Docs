@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Stops one preview voice owned by an active Edit session.
 
+## Parameters
+
 **Parameter `session`:** Active Edit Mode session.
 
 **Parameter `voice`:** Preview voice to stop.
 
-**Returns:** `true` when a live preview was stopped.
+## Returns
+
+`true` when a live preview was stopped.

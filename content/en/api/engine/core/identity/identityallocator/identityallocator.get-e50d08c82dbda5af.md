@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a registered object by its session-local runtime identity.
 
+## Type parameters
+
 **Type parameter `TIdentity`:** The required identity object contract.
+
+## Parameters
 
 **Parameter `runtimeId`:** The packed runtime identity allocated by this instance.
 
-**Returns:** The live compatible object, or `null` when no matching object exists.
+## Returns
+
+The live compatible object, or `null` when no matching object exists.

@@ -14,4 +14,6 @@ aliases: []
 
 Provides a stable input snapshot to an aggregate asset build.
 
+## Type parameters
+
 **Type parameter `TDefinition`:** The build definition asset type.

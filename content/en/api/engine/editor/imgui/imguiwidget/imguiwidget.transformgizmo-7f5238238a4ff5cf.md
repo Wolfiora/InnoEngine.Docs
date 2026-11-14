@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a transform handle using stack-owned ABI buffers and restores native global style and masks before returning.
 
+## Parameters
+
 **Parameter `world`:** The current world matrix, copied into the native call.
 
 **Parameter `options`:** The explicit viewport and interaction policy.
 
-**Returns:** Copied output with no native pointer or domain object.
+## Returns
+
+Copied output with no native pointer or domain object.

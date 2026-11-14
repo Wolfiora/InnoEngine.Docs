@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Schedules one clip against the monotonic audio clock.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare and play.
 
 **Parameter `scheduledDspTime`:** Absolute audio-clock start time in seconds.
 
 **Parameter `options`:** Immutable playback parameters.
 
-**Returns:** A preparing voice handle owned by the current device generation.
+## Returns
+
+A preparing voice handle owned by the current device generation.

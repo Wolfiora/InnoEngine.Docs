@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Writes a info-level message using the object's string representation.
 
+## Parameters
+
 **Parameter `sourceType`:** The declaring type whose assembly supplies domain and scope metadata; it is borrowed only for this call.
 
 **Parameter `obj`:** The object to log; null produces an empty message.
@@ -19,6 +21,8 @@ Writes a info-level message using the object's string representation.
 **Parameter `filePath`:** The source file supplied by the compiler; its file name is the category.
 
 **Parameter `lineNumber`:** The source line supplied by the compiler.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source type is null.
 

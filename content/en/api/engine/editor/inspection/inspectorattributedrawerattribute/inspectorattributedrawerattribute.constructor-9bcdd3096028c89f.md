@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an Inspector attribute drawer registration.
 
+## Parameters
+
 **Parameter `targetType`:** Attribute type handled by the drawer.
 
 **Parameter `useForChildren`:** Whether derived attribute types are accepted.

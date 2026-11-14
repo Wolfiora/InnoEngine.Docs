@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Publishes a lazily created unmanaged drag payload for the most recently submitted item.
 
+## Type parameters
+
 **Type parameter `TPayload`:** Unmanaged payload type.
+
+## Parameters
 
 **Parameter `payloadType`:** Stable ImGui payload type identifier.
 
@@ -21,7 +25,11 @@ Publishes a lazily created unmanaged drag payload for the most recently submitte
 
 **Parameter `allowHoldToOpenOthers`:** Whether hovering over another openable control may open it after the native drag-hold delay.
 
-**Returns:** `true` while the item is an active drag source.
+## Returns
+
+`true` while the item is an active drag source.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `payloadType` is empty or whitespace.
 

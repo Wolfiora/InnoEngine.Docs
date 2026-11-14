@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Invokes the selected template under one generation lease.
 
+## Parameters
+
 **Parameter `id`:** Stable template identity from the creation menu.
 
 **Parameter `serialization`:** Current owner converters.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** A detached graph; no provider instance crosses the invocation boundary.
+## Returns
+
+A detached graph; no provider instance crosses the invocation boundary.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The selected template is unavailable.

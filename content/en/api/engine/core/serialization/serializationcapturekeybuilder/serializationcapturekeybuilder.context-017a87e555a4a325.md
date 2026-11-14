@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the current immutable owner context while this callback is active.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** The callback has retired or is accessed from another thread.

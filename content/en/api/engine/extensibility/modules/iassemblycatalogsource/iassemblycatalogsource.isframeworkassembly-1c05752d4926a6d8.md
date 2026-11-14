@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an assembly is a framework contract rather than a contributed module.
 
+## Parameters
+
 **Parameter `assembly`:** The candidate shared assembly.
 
-**Returns:** Whether the assembly is owned by the selected managed framework.
+## Returns
+
+Whether the assembly is owned by the selected managed framework.

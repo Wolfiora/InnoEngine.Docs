@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an indexed source entry exists.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
-**Returns:** `true` when the entry exists.
+## Returns
+
+`true` when the entry exists.

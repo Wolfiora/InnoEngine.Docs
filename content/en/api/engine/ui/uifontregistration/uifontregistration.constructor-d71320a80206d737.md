@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a validated synchronous font registration request.
 
+## Parameters
+
 **Parameter `data`:** Encoded font bytes, valid for the duration of the backend call.
 
 **Parameter `faceIndex`:** Zero-based face index in a font collection.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Freezes and validates a complete module without mixing frontend generations between implementations.
 
+## Parameters
+
 **Parameter `implementations`:** Explicit implementation and variant candidates from the current asset transaction.
 
-**Returns:** A neutral module result containing no frontend or source resolver references.
+## Returns
+
+A neutral module result containing no frontend or source resolver references.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The candidate list is empty or has duplicate implementation keys.

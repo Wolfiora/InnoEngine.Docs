@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Restores and validates one current-format payload inventory.
 
+## Parameters
+
 **Parameter `data`:** The complete structured index bytes.
 
 **Parameter `serialization`:** The borrowed converter generation pinned by the enclosing preparation operation.
 
-**Returns:** A newly owned immutable inventory with no duplicate or ambiguous identities.
+## Returns
+
+A newly owned immutable inventory with no duplicate or ambiguous identities.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The bytes or inventory are malformed; no partial index is returned.

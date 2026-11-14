@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an indexed entry is the root of an installed Plugin.
 
+## Parameters
+
 **Parameter `entry`:** The currently indexed source identity.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

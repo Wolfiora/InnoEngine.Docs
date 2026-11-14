@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Drains one retryable lifecycle operation at the control-thread safe point before releasing dependencies.
 
+## Parameters
+
 **Parameter `owner`:** The resource or extension identifier included in deadline diagnostics.
 
 **Parameter `retire`:** The retirement operation, including owner-thread completion pumping when required.
+
+## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementTimeoutException`:** The operation exceeded its deadline. Its closure stays owned and further retirement or refresh is blocked.

@@ -12,10 +12,14 @@ apiScope: Editor
 
 Linearly interpolates two palette colors using a clamped amount.
 
+## Parameters
+
 **Parameter `from`:** The color returned when `amount` is zero.
 
 **Parameter `to`:** The color returned when `amount` is one.
 
 **Parameter `amount`:** The interpolation amount, clamped to the inclusive zero-to-one range.
 
-**Returns:** The component-wise interpolated color.
+## Returns
+
+The component-wise interpolated color.

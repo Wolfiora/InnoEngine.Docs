@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the registered deployment identities that support one managed target.
 
+## Parameters
+
 **Parameter `runtimeIdentifier`:** The managed toolchain target selected by the platform composition.
 
-**Returns:** A new immutable list in stable identity order; unsupported targets produce an empty list.
+## Returns
+
+A new immutable list in stable identity order; unsupported targets produce an empty list.

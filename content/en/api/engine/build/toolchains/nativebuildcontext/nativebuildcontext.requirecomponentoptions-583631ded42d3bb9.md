@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Requires product configuration for the exact component before its recipe or tools execute.
 
+## Parameters
+
 **Parameter `component`:** The component requesting its scoped configuration.
 
-**Returns:** The immutable configuration; absent or foreign ownership fails explicitly.
+## Returns
+
+The immutable configuration; absent or foreign ownership fails explicitly.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No options are assigned to this component owner.

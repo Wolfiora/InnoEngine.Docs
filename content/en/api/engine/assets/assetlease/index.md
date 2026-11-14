@@ -14,4 +14,6 @@ aliases: []
 
 Keeps one canonical asset generation resident for an explicit lifetime.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Concrete retained asset type.

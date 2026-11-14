@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Advances fixed-step scene lifecycle callbacks in the current runtime session.
 
+## Parameters
+
 **Parameter `fixedDeltaTime`:** The fixed simulation interval in seconds.

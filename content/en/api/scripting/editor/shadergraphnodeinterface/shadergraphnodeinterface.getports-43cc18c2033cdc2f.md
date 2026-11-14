@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets detached typed ports in deterministic input-then-output order.
 
-**Returns:** A provider-free port snapshot suitable for Editor presentation and validation.
+## Returns
+
+A provider-free port snapshot suitable for Editor presentation and validation.

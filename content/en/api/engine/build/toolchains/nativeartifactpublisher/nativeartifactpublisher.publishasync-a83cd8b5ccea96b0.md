@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reuses a validated product or builds an isolated candidate and publishes it after input stability checks.
 
+## Parameters
+
 **Parameter `context`:** Checkout and configuration selected by build composition.
 
 **Parameter `recipe`:** The frozen component, target, input inventory and ordered compiler recipe.
@@ -21,7 +23,11 @@ Reuses a validated product or builds an isolated candidate and publishes it afte
 
 **Parameter `describeOutputs`:** The producer's exact role inventory, or null for generic support payloads.
 
-**Returns:** A complete native product with an exact, read-only output closure.
+## Returns
+
+A complete native product with an exact, read-only output closure.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A component or target identifier is not a single path segment.
 

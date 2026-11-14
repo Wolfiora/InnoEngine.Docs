@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Attempts to read a named value through the unified value pipeline.
 
+## Type parameters
+
 **Type parameter `TValue`:** The declared value type.
+
+## Parameters
 
 **Parameter `name`:** The optional member name.
 
 **Parameter `value`:** The restored value when the member exists.
 
-**Returns:** `true` when the member exists; otherwise, `false`.
+## Returns
+
+`true` when the member exists; otherwise, `false`.

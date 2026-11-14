@@ -16,6 +16,8 @@ aliases: []
 
 Lets one setting protocol define deterministic delta capture and multi-contributor composition.
 
+## Type parameters
+
 **Type parameter `TSetting`:** The exact effective setting type.
 
 **Type parameter `TContribution`:** The exact serializable delta type stored in Plugin and project records.

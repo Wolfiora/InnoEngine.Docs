@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to read a neutral serialized property value.
 
+## Parameters
+
 **Parameter `propertyId`:** Stable property identifier.
 
 **Parameter `value`:** Receives the value when present.
 
-**Returns:** `true` when the property exists; otherwise `false`.
+## Returns
+
+`true` when the property exists; otherwise `false`.

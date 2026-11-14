@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves the generator explicitly registered by a target integration.
 
+## Parameters
+
 **Parameter `targetId`:** The requested native target.
 
-**Returns:** The borrowed target generator.
+## Returns
+
+The borrowed target generator.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The target contributes no binding generator.

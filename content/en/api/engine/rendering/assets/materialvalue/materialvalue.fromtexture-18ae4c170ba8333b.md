@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a texture material value.
 
+## Parameters
+
 **Parameter `value`:** Texture asset reference.
 
 **Parameter `sampler`:** Optional sampler state; linear clamp is used when omitted.
 
-**Returns:** A texture material value.
+## Returns
+
+A texture material value.

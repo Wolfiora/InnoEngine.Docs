@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a normalized storage key from slash-separated path segments.
 
+## Parameters
+
 **Parameter `value`:** The non-rooted key with no empty, current, or parent segments.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` can escape or ambiguously address the storage root.

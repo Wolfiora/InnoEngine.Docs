@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Advances one UI context with input routed from its rendered view.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the active document.
 
 **Parameter `input`:** Input mapped into the context's local pixel coordinates.

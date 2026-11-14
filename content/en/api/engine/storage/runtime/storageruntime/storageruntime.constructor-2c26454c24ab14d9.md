@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a feature whose optional disposable storage ownership transfers to this instance.
 
+## Parameters
+
 **Parameter `storage`:** The application-specific persistent storage sandbox.
 
 **Parameter `maxPendingOperations`:** Positive simultaneous asynchronous operation capacity.

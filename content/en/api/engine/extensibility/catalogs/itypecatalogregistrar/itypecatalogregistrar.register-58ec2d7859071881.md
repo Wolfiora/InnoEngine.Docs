@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Registers immutable discovery metadata and an optional parameterless construction function.
 
+## Parameters
+
 **Parameter `metadata`:** Complete discovery facts for one assembly-local declaration.
 
 **Parameter `factory`:** Creates a new instance, or null when the declaration is not constructible.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The declaration has already been registered.
 

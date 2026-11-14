@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a pointer movement in platform-window coordinates.
 
+## Parameters
+
 **Parameter `windowId`:** The platform window that produced the movement.
 
 **Parameter `x`:** The horizontal pointer coordinate in logical pixels.

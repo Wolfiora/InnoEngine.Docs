@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures the progress and cancellation policy of one editor script request.
 
+## Parameters
+
 **Parameter `operationId`:** The request identity within the owning script host.
 
 **Parameter `fraction`:** The completed fraction of the complete reload workflow.

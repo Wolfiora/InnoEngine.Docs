@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a frame upload descriptor.
 
+## Parameters
+
 **Parameter `elementStride`:** Element size in bytes.
 
 **Parameter `usage`:** Vertex, index, storage, or compatible combined usage.

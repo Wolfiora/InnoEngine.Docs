@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Opens a new independently pinned stream without transferring this lease's ownership.
 
-**Returns:** A caller-owned stream; disposing this lease or its store does not invalidate the stream.
+## Returns
+
+A caller-owned stream; disposing this lease or its store does not invalidate the stream.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This lease has already released its pin.
 

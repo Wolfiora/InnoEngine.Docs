@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Shapes text with default automatic language and direction detection.
 
+## Parameters
+
 **Parameter `font`:** The imported font source.
 
 **Parameter `text`:** The Unicode source text.
 
 **Parameter `style`:** Font selection and sizing.
 
-**Returns:** The immutable shaped layout.
+## Returns
+
+The immutable shaped layout.

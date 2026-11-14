@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances variable-step lifecycle callbacks for every loaded scene.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

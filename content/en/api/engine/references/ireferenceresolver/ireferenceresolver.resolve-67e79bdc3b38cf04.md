@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves a descriptor without mutating its owner or the authoritative catalog.
 
+## Parameters
+
 **Parameter `descriptor`:** The descriptor whose `P:Inno.References.ReferenceDescriptor.kindId` matches this resolver.
 
-**Returns:** A complete resolution result that preserves the supplied descriptor.
+## Returns
+
+A complete resolution result that preserves the supplied descriptor.

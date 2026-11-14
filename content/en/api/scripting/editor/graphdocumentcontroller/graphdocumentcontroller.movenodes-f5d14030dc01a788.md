@@ -12,4 +12,6 @@ apiScope: Editor
 
 Moves one or more nodes as one completed gesture, independently undoable from earlier drags.
 
+## Parameters
+
 **Parameter `positions`:** Complete destination positions keyed by node identity.

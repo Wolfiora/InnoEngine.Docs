@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether a pointer button is currently held.
 
+## Parameters
+
 **Parameter `button`:** The backend-neutral pointer button.
 
-**Returns:** `true` when the button is held.
+## Returns
+
+`true` when the button is held.

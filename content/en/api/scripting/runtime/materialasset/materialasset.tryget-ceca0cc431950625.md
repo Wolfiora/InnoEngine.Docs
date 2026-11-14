@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to read one material property.
 
+## Parameters
+
 **Parameter `id`:** Stable shader property identifier.
 
 **Parameter `value`:** Receives the neutral value when present.
 
-**Returns:** `true` when the property exists.
+## Returns
+
+`true` when the property exists.

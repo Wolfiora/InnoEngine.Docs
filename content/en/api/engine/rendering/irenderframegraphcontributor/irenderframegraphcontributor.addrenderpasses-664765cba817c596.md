@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds frame-scoped passes after all user render-request graphs have executed.
 
+## Parameters
+
 **Parameter `graph`:** Shared final graph builder.
 
 **Parameter `frameIndex`:** Monotonic engine render frame index.

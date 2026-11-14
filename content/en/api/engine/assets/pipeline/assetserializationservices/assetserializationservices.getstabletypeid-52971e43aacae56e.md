@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves the stable persistent type identity of a registered serializable type.
 
+## Type parameters
+
 **Type parameter `TValue`:** The registered type whose stable identity is required.
 
-**Returns:** The stable type identifier owned by the active extension generation.
+## Returns
+
+The stable type identifier owned by the active extension generation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when `TValue` has no stable type registration.

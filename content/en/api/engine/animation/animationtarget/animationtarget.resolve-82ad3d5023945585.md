@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the original runtime slot without binding to a replacement generation.
 
+## Type parameters
+
 **Type parameter `TObject`:** The expected destination contract.
 
-**Returns:** The live destination, or null for a missing, retired, or incompatible target.
+## Returns
+
+The live destination, or null for a missing, retired, or incompatible target.

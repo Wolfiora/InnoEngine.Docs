@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves immutable discovery facts for a declaration in this source.
 
+## Parameters
+
 **Parameter `type`:** The declaration whose relationships and attributes are required.
 
-**Returns:** Complete metadata owned by the caller's candidate generation; unavailable declarations throw.
+## Returns
+
+Complete metadata owned by the caller's candidate generation; unavailable declarations throw.

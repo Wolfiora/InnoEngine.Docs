@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Saves an asset to its initial or existing isolated source path while preserving an existing destination identity.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `asset`:** The asset to export. Detached replacement values do not replace an existing source's persistent identity.
 
-**Returns:** `true` when an importer exported the asset.
+## Returns
+
+`true` when an importer exported the asset.

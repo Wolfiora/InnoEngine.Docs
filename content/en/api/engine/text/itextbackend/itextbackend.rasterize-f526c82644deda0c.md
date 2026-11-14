@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Rasterizes one shaped glyph into 8-bit coverage.
 
+## Parameters
+
 **Parameter `font`:** The loaded face.
 
 **Parameter `glyphId`:** The font-specific glyph identifier.
 
 **Parameter `fontSize`:** The positive logical pixel size.
 
-**Returns:** The immutable glyph bitmap.
+## Returns
+
+The immutable glyph bitmap.

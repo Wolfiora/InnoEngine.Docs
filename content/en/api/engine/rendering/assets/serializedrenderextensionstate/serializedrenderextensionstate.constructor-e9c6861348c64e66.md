@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Copies an owner-captured property snapshot, preserving its automatic resource dependency declarations.
 
+## Parameters
+
 **Parameter `properties`:** Complete neutral properties produced by the asset authoring services.

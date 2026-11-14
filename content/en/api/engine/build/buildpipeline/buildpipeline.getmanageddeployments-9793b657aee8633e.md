@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the managed deployment choices supported by a registered publication platform.
 
+## Parameters
+
 **Parameter `target`:** The registered publication target whose managed runtime requirements are queried.
 
-**Returns:** Immutable deployment identities in stable order; an unknown target throws explicitly.
+## Returns
+
+Immutable deployment identities in stable order; an unknown target throws explicitly.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The publication target is not registered in this build composition.

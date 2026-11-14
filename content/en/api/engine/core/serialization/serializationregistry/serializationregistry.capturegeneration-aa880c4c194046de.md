@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures the currently active converter generation for deterministic work that may cross asynchronous continuations.
 
-**Returns:** An immutable serialization generation owned by the caller.
+## Returns
+
+An immutable serialization generation owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when serialization services have not been initialized.

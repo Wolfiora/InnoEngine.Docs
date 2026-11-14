@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Updates a document's unsaved state without saving, discarding or changing its History.
 
+## Parameters
+
 **Parameter `documentId`:** Stable tab identity.
 
 **Parameter `isDirty`:** Whether the provider's current draft differs from its saved baseline.

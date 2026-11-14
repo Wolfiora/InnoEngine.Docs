@@ -12,6 +12,10 @@ apiScope: Editor
 
 Produces a scalar Boolean constant.
 
+## Parameters
+
 **Parameter `value`:** Scalar Boolean value.
 
-**Returns:** A bool-typed intermediate value.
+## Returns
+
+A bool-typed intermediate value.

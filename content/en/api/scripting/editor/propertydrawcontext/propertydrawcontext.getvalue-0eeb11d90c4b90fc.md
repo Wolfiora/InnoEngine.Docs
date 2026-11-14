@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the latest value.
 
-**Returns:** The latest value returned by the serialized property's getter.
+## Returns
+
+The latest value returned by the serialized property's getter.

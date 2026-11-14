@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Emits ordinary typed constants and aggregate construction into the common IR.
 
+## Parameters
+
 **Parameter `builder`:** Current region's instruction owner.
 
 **Parameter `expectedType`:** Current port type; stale defaults never undergo implicit conversion.
 
-**Returns:** A value owned by the supplied builder.
+## Returns
+
+A value owned by the supplied builder.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The stored type, component count or boolean bits are invalid.

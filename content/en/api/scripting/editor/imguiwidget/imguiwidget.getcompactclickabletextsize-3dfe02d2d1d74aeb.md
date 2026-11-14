@@ -12,4 +12,6 @@ apiScope: Editor
 
 Gets the compact fixed interaction size used by icon-style clickable text.
 
-**Returns:** A fixed-size area that follows the editor icon slot convention.
+## Returns
+
+A fixed-size area that follows the editor icon slot convention.

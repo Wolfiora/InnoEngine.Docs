@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a wrapped contextual message with a semantic icon and a subdued status surface.
 
+## Parameters
+
 **Parameter `text`:** Literal message shown within the current content width.
 
 **Parameter `icon`:** Icon-font glyph identifying the message severity.

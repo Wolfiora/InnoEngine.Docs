@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether two values identify the same owner slot.
 
+## Parameters
+
 **Parameter `other`:** The key to compare with this value.
 
-**Returns:** `true` when the owner identity and path are equal; otherwise, `false`.
+## Returns
+
+`true` when the owner identity and path are equal; otherwise, `false`.

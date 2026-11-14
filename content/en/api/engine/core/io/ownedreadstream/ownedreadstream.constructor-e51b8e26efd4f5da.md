@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Transfers a readable stream and its independent lifetime pin into this wrapper.
 
+## Parameters
+
 **Parameter `input`:** The owned readable stream; it is closed before its pin is released.
 
 **Parameter `owner`:** The owned pin whose repeated disposal must safely retry unfinished retirement.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The stream is not readable.

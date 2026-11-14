@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Opens a control-thread snapshot collector over one content read scope.
 
+## Parameters
+
 **Parameter `content`:** The caller-owned identity read scope.
 
 **Parameter `deltaTime`:** Finite non-negative time elapsed since the previous update.
 
 **Parameter `capacity`:** Maximum combined emitter and listener count accepted by this contribution. Zero permits an empty contribution only.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The elapsed time is invalid or capacity is negative.
 

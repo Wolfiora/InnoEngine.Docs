@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates pause state for a semantic mixer bus.
 
+## Parameters
+
 **Parameter `bus`:** Stable bus identifier.
 
 **Parameter `paused`:** Whether routed voices should pause.
 
-**Returns:** `true` when the active mixer contains the bus.
+## Returns
+
+`true` when the active mixer contains the bus.

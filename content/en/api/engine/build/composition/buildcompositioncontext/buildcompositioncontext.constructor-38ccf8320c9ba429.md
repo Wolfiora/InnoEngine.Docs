@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures the host dependencies used by deployment and Support Pack preparation.
 
+## Parameters
+
 **Parameter `dotnetHost`:** The SDK executable selected by the host, either an executable path or a command name.
 
 **Parameter `applicationDirectory`:** The absolute directory from which source-based Support Pack provisioning can be resolved.
@@ -18,5 +20,7 @@ Captures the host dependencies used by deployment and Support Pack preparation.
 **Parameter `host`:** The explicitly declared tool execution machine, independent of any publication target.
 
 **Parameter `toolsTarget`:** The explicit native target of tools executed by this composition, independent of game publication.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The SDK command is blank or the application directory is not absolute.

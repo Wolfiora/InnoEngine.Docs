@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Queries asynchronous clip preparation without blocking the owner thread.
 
+## Parameters
+
 **Parameter `clip`:** A handle created by this device generation.
 
-**Returns:** The preparation state, or Failed for a retired or invalid handle.
+## Returns
+
+The preparation state, or Failed for a retired or invalid handle.

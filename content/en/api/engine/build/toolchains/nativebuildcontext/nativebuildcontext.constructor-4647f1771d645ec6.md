@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Creates a build context without consulting the tool assembly's checkout.
 
+## Parameters
+
 **Parameter `engineRoot`:** The checkout containing InnoEngine.sln and the native source tree; aliases resolve to one physical owner.
 
 **Parameter `configuration`:** The normalized debug or release configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The root is empty or the configuration is unsupported.
 

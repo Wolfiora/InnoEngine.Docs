@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Measures literal text at a relative font scale.
 
+## Parameters
+
 **Parameter `text`:** The literal text to measure.
 
 **Parameter `scale`:** Scale relative to the current font.
 
-**Returns:** The copied width and height in UI pixels.
+## Returns
+
+The copied width and height in UI pixels.

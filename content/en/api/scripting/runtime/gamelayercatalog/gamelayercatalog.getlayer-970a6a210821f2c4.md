@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Resolves an ordinal layer name to its compact slot.
 
+## Parameters
+
 **Parameter `name`:** The configured layer name.
 
-**Returns:** The matching runtime layer.
+## Returns
+
+The matching runtime layer.

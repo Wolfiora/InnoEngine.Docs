@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a scoped operation with an immutable, explicitly prepared target binding closure.
 
+## Parameters
+
 **Parameter `bindings`:** Borrowed completed generations indexed by their Native owners. Retain this result until all derived contexts finish.
 
-**Returns:** A context sharing the existing tool selection, inputs and statistics.
+## Returns
+
+A context sharing the existing tool selection, inputs and statistics.

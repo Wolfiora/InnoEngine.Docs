@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an indexed-key query condition.
 
+## Parameters
+
 **Parameter `key`:** The store key to query.
 
 **Parameter `value`:** The required key value.

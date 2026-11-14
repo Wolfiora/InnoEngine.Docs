@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates validated text styling.
 
+## Parameters
+
 **Parameter `fontSize`:** The positive font size in logical pixels.
 
 **Parameter `faceIndex`:** The zero-based face index within the font collection.

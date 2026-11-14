@@ -12,8 +12,12 @@ apiScope: Editor
 
 Selects an asset path through the editor-wide selection state, or clears Asset selection.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context whose selection should be updated.
 
 **Parameter `relativePath`:** The source-relative path to select, or an empty value to clear selection.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

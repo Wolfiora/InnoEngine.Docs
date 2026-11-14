@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Lowers an entire target-selected region, preserving stable topological/document order and all source calls. Missing definitions, stale ports and cycles fail without mutating graph records or dropping edges.
 
+## Parameters
+
 **Parameter `request`:** Frozen region, outputs and resolved source/target data.
 
 **Parameter `serialization`:** The current owner's native converter registry.
@@ -19,4 +21,6 @@ Lowers an entire target-selected region, preserving stable topological/document 
 
 **Parameter `cancellationToken`:** Cancellation between node invocations.
 
-**Returns:** A detached typed region or precise graph diagnostics.
+## Returns
+
+A detached typed region or precise graph diagnostics.

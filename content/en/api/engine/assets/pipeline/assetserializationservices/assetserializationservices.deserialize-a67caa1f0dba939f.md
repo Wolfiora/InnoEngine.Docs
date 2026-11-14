@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Deserializes one structured value against the active importer candidate generation.
 
+## Type parameters
+
 **Type parameter `TValue`:** The serializable value contract.
+
+## Parameters
 
 **Parameter `bytes`:** Complete structured bytes produced by the common serialization system.
 
-**Returns:** A restored value owned by the caller.
+## Returns
+
+A restored value owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the value contains an asset reference but no candidate resolver is available.

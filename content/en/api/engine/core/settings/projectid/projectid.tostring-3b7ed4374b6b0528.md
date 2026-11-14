@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats the canonical identifier.
 
-**Returns:** The canonical identifier text.
+## Returns
+
+The canonical identifier text.

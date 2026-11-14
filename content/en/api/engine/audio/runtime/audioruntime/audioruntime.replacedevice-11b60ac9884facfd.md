@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Replaces a lost or muted backend at a main-thread safety point.
 
+## Parameters
+
 **Parameter `replacement`:** Initialized replacement device, consumed on success and disposed if preparation fails.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Retirement failed after publication preparation; the generation gate is Faulted and the host must restart.
 

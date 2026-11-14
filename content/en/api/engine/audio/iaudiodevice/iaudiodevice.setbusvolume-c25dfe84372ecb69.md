@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates linear gain for one bus.
 
+## Parameters
+
 **Parameter `bus`:** Bus owned by the current device generation.
 
 **Parameter `volume`:** Non-negative linear gain.
 
-**Returns:** `true` when the bus was updated.
+## Returns
+
+`true` when the bus was updated.

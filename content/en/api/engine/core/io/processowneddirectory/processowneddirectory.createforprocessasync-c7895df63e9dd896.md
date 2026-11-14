@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Creates a directory protected by this process lifetime when the caller can retain only file metadata. Payload consumers in other processes must register their lifetimes before using it.
 
+## Parameters
+
 **Parameter `root`:** The absolute producer root; existing directories are never adopted.
 
 **Parameter `identity`:** A current operation's explicit 32-digit hexadecimal directory identity shared by its process participants.
 
 **Parameter `cancellationToken`:** Cancels before the process claim is transferred.
 
-**Returns:** The new directory, preserved until every recorded process exits and the producer retires it. No managed lease object is retained by the caller.
+## Returns
+
+The new directory, preserved until every recorded process exits and the producer retires it. No managed lease object is retained by the caller.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** Ownership cannot be established within the boundary.
 

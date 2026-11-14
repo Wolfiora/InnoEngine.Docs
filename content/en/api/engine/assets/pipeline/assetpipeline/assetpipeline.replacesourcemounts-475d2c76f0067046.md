@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates and atomically replaces the complete source-mount generation while preserving the active generation after any candidate failure.
 
+## Parameters
+
 **Parameter `mounts`:** A writable project source followed by zero or more read-only sources.

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates a rectangle from minimum and maximum boundaries; point containment excludes the maximum boundary.
 
+## Parameters
+
 **Parameter `min`:** The min consumed by from min max; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `max`:** The max consumed by from min max; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated rect that represents the completed operation.
+## Returns
+
+The validated rect that represents the completed operation.

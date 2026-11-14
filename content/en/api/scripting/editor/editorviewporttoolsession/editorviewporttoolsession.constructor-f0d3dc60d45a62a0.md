@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a viewport tool session.
 
+## Parameters
+
 **Parameter `history`:** History stack used by gesture transactions.
 
 **Parameter `coordinates`:** Current viewport coordinate converter.

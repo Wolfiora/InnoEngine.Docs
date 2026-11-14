@@ -12,10 +12,14 @@ apiScope: Editor
 
 Exports an asset back into source bytes.
 
+## Parameters
+
 **Parameter `context`:** The generation-bound source export services.
 
 **Parameter `asset`:** The asset to export.
 
 **Parameter `cancellationToken`:** Cancellation for the export.
 
-**Returns:** The source bytes, or `null` when export is unsupported.
+## Returns
+
+The source bytes, or `null` when export is unsupported.

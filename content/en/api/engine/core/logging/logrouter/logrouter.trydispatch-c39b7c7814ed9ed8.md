@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Attempts to queue an immutable entry, draining it inline when the host has no logging worker.
 
+## Parameters
+
 **Parameter `entry`:** The message to accept under the current severity policy.
 
-**Returns:** True when accepted or filtered by policy; false when bounded queue capacity is exhausted.
+## Returns
+
+True when accepted or filtered by policy; false when bounded queue capacity is exhausted.
 
 ## Remarks
 
 Inline callers serialize delivery. Entries written by a sink callback are queued until every sink has received the current entry, without recursively invoking callbacks.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The router has stopped accepting work.

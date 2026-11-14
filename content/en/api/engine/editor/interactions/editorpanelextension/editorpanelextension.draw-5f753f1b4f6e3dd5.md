@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Safely draws the panel body and quarantines a failing extension instance.
 
+## Parameters
+
 **Parameter `context`:** The active editor context supplied by the presentation backend.
 
-**Returns:** `true` when the panel completed drawing without being quarantined.
+## Returns
+
+`true` when the panel completed drawing without being quarantined.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.

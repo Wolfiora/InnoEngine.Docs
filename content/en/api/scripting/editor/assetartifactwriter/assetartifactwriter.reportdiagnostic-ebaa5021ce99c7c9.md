@@ -12,4 +12,6 @@ apiScope: Editor
 
 Adds a build diagnostic.
 
+## Parameters
+
 **Parameter `message`:** The diagnostic message.

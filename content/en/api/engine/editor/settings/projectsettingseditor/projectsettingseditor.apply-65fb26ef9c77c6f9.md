@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Atomically applies project-authored overrides and records one stable history entry.
 
+## Parameters
+
 **Parameter `values`:** Staged exact-type values keyed by stable setting identity.
 
 **Parameter `resets`:** Setting identities whose project overrides should be removed.
 
-**Returns:** `true` when the project override document changed.
+## Returns
+
+`true` when the project override document changed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `values` is `null`.

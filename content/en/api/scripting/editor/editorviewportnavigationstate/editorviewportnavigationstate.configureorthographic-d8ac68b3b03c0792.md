@@ -12,6 +12,8 @@ apiScope: Editor
 
 Atomically initializes an orthographic navigation view.
 
+## Parameters
+
 **Parameter `position`:** Provider-defined world-space position.
 
 **Parameter `rotation`:** Provider-defined world-space rotation.

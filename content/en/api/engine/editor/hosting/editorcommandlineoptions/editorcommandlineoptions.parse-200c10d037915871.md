@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Parses the common Editor command line without selecting a platform.
 
+## Parameters
+
 **Parameter `arguments`:** The project path followed by optional name/value pairs.
 
-**Returns:** The immutable project startup configuration.
+## Returns
+
+The immutable project startup configuration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The project or an option is missing, repeated or invalid.

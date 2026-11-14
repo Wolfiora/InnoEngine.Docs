@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Opens the current source draft without publishing it.
 
+## Parameters
+
 **Parameter `path`:** The isolated Material source path.
 
-**Returns:** The generation-scoped draft; callers must not retain it across a reload.
+## Returns
+
+The generation-scoped draft; callers must not retain it across a reload.

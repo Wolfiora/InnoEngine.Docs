@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Begins an isolated rendering-extension reload transaction at a frame boundary.
 
-**Returns:** A transaction that preserves the active generation until its candidate is explicitly completed.
+## Returns
+
+A transaction that preserves the active generation until its candidate is explicitly completed.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown during an open frame, during retirement, after a terminal generation failure, or while another rendering reload transaction is active.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Renames a loaded scene and records the two display strings.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to rename.
 
 **Parameter `name`:** The new display name.

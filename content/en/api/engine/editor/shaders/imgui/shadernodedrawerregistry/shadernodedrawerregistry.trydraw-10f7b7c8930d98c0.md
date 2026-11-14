@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Invokes optional node controls within one generation lease.
 
+## Parameters
+
 **Parameter `definitionId`:** Stable node definition identity.
 
 **Parameter `context`:** Invocation-scoped host values, history callback and previews.
 
-**Returns:** True when a registered drawer rendered the controls; false leaves presentation to the host.
+## Returns
+
+True when a registered drawer rendered the controls; false leaves presentation to the host.

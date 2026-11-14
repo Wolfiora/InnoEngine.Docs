@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Scopes one component's explicit product configuration without changing the frozen SDK.
 
+## Parameters
+
 **Parameter `component`:** The sole source and intermediate owner receiving the configuration.
 
 **Parameter `options`:** The immutable linkage, arguments and configuration input closure.
 
-**Returns:** A context sharing inputs, bindings and statistics with the current operation.
+## Returns
+
+A context sharing inputs, bindings and statistics with the current operation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** An owner or configuration is null.

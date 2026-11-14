@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Opens a source using its current asset editor extension and reports rejected or failed opens.
 
+## Parameters
+
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

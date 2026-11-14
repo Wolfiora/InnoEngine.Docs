@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Schedules one stateful job after all supplied dependencies complete.
 
+## Parameters
+
 **Parameter `job`:** The operation receiving `state`.
 
 **Parameter `state`:** Optional caller-owned state passed to the operation.
 
 **Parameter `dependencies`:** Handles that must complete before the operation becomes runnable.
 
-**Returns:** A generation-safe handle representing the scheduled operation.
+## Returns
+
+A generation-safe handle representing the scheduled operation.

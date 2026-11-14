@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Attempts retirement once at an owner-thread safe point.
 
+## Parameters
+
 **Parameter `retire`:** The owner's retryable retirement operation; the barrier never retains this delegate.
 
-**Returns:** True after retirement completes, or false while work remains within its deadline.
+## Returns
+
+True after retirement completes, or false while work remains within its deadline.
 
 ## Remarks
 
 Wrapped pending failures retain their ownership semantics. A nested timeout is rethrown in its original exception tree. Ordinary sibling failures survive retries and are reported once retirement completes.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Retirement completed after earlier ordinary failures, or the owner reported a wrapped terminal timeout.
 

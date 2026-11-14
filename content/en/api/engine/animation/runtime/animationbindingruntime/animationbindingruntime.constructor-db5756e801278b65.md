@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a binding owner connected to the host's transactional type catalog.
 
+## Parameters
+
 **Parameter `types`:** The shared type catalog; candidate failure preserves its last good snapshot.
 
 **Parameter `diagnostics`:** A borrowed reporter scoped to this session's binding diagnostics.

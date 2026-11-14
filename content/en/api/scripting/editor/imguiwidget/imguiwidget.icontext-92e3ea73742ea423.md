@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws icon and text with the icon's visible glyph bounds centered in a slot that expands when the glyph is wider than the normal editor icon slot.
 
+## Parameters
+
 **Parameter `icon`:** Icon text.
 
 **Parameter `text`:** Main text.

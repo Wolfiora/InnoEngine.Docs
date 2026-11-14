@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Describes a writable-source import failure introduced after an earlier health snapshot.
 
+## Parameters
+
 **Parameter `assetPath`:** The isolated path of the source that failed to import.
 
 **Parameter `diagnostics`:** The deterministic importer diagnostics associated with the failure.

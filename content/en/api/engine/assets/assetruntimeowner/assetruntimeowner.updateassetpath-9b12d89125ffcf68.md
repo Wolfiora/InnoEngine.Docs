@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates source location without replacing committed runtime content.
 
+## Parameters
+
 **Parameter `asset`:** The owned canonical instance.
 
 **Parameter `assetPath`:** The new mount-qualified location.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The asset belongs to a different owner.

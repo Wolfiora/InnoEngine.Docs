@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Adds a newly constructed extension to the current build's rollback ownership before further validation.
 
+## Type parameters
+
 **Type parameter `TExtension`:** The newly constructed extension contract.
+
+## Parameters
 
 **Parameter `extension`:** A new instance, never an instance borrowed from the active snapshot.
 
-**Returns:** The same instance. After a successful build its containing snapshot must own its retirement.
+## Returns
+
+The same instance. After a successful build its containing snapshot must own its retirement.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** This method is called outside synchronous candidate construction.

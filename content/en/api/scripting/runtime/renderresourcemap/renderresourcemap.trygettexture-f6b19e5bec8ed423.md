@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to get a published texture.
 
+## Parameters
+
 **Parameter `id`:** Open semantic resource identifier.
 
 **Parameter `texture`:** Receives the current-graph texture.
 
-**Returns:** `true` when the texture has been published.
+## Returns
+
+`true` when the texture has been published.

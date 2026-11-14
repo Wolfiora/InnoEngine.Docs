@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a voice identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** Non-zero backend voice identity.
 
 **Parameter `generation`:** Owning device generation.
 
-**Returns:** An opaque voice handle.
+## Returns
+
+An opaque voice handle.

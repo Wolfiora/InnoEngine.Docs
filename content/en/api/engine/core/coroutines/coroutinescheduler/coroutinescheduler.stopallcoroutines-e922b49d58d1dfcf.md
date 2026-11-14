@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Stops owned coroutines and disposes their nested enumerators in reverse order. Reentrant calls defer cleanup of an executing callback until that callback returns.
 
+## Parameters
+
 **Parameter `owner`:** Owner key used when starting coroutines.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** One or more eligible enumerators failed during cleanup.
 

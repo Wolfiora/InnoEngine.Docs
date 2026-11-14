@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates one caller-owned backend generation.
 
-**Returns:** A new backend.
+## Returns
+
+A new backend.

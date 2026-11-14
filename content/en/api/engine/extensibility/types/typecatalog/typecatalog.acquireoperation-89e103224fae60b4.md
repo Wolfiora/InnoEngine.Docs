@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Defers automatic assembly publication until a synchronous typed operation releases its current owners.
 
+## Parameters
+
 **Parameter `operation`:** The operation name used for admission diagnostics.
 
-**Returns:** A scope held across every access to the captured generation; publication may borrow it on its own thread.
+## Returns
+
+A scope held across every access to the captured generation; publication may borrow it on its own thread.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The catalog is inactive, another thread is publishing, or the shared generation owner is Faulted.
 

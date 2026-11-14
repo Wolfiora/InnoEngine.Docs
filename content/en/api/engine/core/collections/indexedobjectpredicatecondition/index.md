@@ -14,4 +14,6 @@ aliases: []
 
 Matches object-store items by evaluating a predicate.
 
+## Type parameters
+
 **Type parameter `T`:** The stored reference type.

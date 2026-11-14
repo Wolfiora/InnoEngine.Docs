@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes a texture-readback handle for backend lookup and generation validation.
 
+## Parameters
+
 **Parameter `handle`:** The backend-neutral texture-readback handle.
 
-**Returns:** The backend resource identity and owning device generation.
+## Returns
+
+The backend resource identity and owning device generation.

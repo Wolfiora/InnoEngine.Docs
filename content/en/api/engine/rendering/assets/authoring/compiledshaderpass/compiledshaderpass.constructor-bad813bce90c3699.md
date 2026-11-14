@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a compiled pass artifact.
 
+## Parameters
+
 **Parameter `definition`:** Stable pass definition.
 
 **Parameter `stages`:** Compiled target stages.

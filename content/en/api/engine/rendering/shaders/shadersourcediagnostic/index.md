@@ -14,6 +14,8 @@ aliases: []
 
 Reports a frontend problem without retaining a language-specific exception or parser.
 
+## Parameters
+
 **Parameter `code`:** Stable diagnostic code.
 
 **Parameter `severity`:** Diagnostic severity.

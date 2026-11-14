@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Builds an immutable frame of incremental resources and ordered draws.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
-**Returns:** An immutable frame of ordered UI draws and resources.
+## Returns
+
+An immutable frame of ordered UI draws and resources.

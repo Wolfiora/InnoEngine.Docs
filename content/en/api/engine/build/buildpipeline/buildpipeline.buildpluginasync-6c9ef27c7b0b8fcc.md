@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Builds and atomically commits one deterministic project Plugin package.
 
+## Parameters
+
 **Parameter `request`:** The package identity, destination, and dependency embedding policy.
 
 **Parameter `progress`:** Optional observer for monotonic stage progress.
 
 **Parameter `cancellationToken`:** The token that cancels work before atomic commit.
 
-**Returns:** The durable package identity and source-content metrics.
+## Returns
+
+The durable package identity and source-content metrics.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when cancellation is requested before commit.

@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Creates a shader compilation workspace in the registered process-owned build cache.
 
+## Parameters
+
 **Parameter `engineRoot`:** The checkout owning cache maintenance and the source-independent compiler request.
 
 **Parameter `cancellationToken`:** Cancels registration or ownership acquisition before compilation begins.
 
-**Returns:** A fresh directory lease; the caller must retain it until compilation finishes and dispose it afterward. Remaining claim metadata is retired by the same cache maintenance service.
+## Returns
+
+A fresh directory lease; the caller must retain it until compilation finishes and dispose it afterward. Remaining claim metadata is retired by the same cache maintenance service.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The cache boundary or operation ownership cannot be established.
 

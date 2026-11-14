@@ -12,6 +12,8 @@ apiScope: Editor
 
 Begins a popup and draws its focused search field.
 
+## Parameters
+
 **Parameter `id`:** The popup identifier previously supplied to ImGui.
 
 **Parameter `query`:** The mutable search query.
@@ -22,4 +24,6 @@ Begins a popup and draws its focused search field.
 
 **Parameter `width`:** The search field width, or a negative value to use the editor default.
 
-**Returns:** `true` when popup content should be drawn; otherwise, `false`.
+## Returns
+
+`true` when popup content should be drawn; otherwise, `false`.

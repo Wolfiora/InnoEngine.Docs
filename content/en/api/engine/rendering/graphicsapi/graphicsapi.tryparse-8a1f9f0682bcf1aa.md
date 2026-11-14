@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Parses an open backend identity without consulting a closed engine-side backend list.
 
+## Parameters
+
 **Parameter `value`:** The exact stable backend identity.
 
 **Parameter `api`:** The parsed value, or default when parsing fails.
 
-**Returns:** True when the identifier is portable and nonempty.
+## Returns
+
+True when the identifier is portable and nonempty.

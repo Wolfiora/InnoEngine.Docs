@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Advances variable-step callbacks in bottom-to-top stack order.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this stack has been disposed.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an object represents the same runtime domain.
 
+## Parameters
+
 **Parameter `obj`:** The object to compare with this value.
 
-**Returns:** `true` when the object is an equal domain identifier; otherwise, `false`.
+## Returns
+
+`true` when the object is an equal domain identifier; otherwise, `false`.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Encodes a detached native asset with the current authoring pipeline's converters and reference context.
 
+## Parameters
+
 **Parameter `asset`:** Complete detached value to encode without saving or importing it.
 
-**Returns:** Reload-safe native asset bytes suitable for draft state and History payloads.
+## Returns
+
+Reload-safe native asset bytes suitable for draft state and History payloads.

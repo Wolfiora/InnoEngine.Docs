@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Loads a canonical asset by isolated source path.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 
-**Returns:** The canonical asset, including retained last-good content after a diagnosed import failure, or `null` when unavailable or incompatible.
+## Returns
+
+The canonical asset, including retained last-good content after a diagnosed import failure, or `null` when unavailable or incompatible.
 
 ## Remarks
 

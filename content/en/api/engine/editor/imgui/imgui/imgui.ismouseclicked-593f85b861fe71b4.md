@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks a pointer-button press in the current frame.
 
+## Parameters
+
 **Parameter `button`:** The pointer button to inspect.
 
 **Parameter `repeat`:** Whether a held key or button may produce repeats.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Generates standard SDK-style game/editor projects and a solution for IDE tooling.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.

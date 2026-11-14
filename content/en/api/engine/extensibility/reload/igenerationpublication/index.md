@@ -14,4 +14,6 @@ aliases: []
 
 Publishes a candidate and supplies a weak retirement monitor at the irreversible commit boundary.
 
+## Type parameters
+
 **Type parameter `TProbe`:** The non-owning probe used to verify retired collectible contexts.

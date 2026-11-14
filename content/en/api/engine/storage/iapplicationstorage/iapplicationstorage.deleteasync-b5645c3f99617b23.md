@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Deletes one value without failing when it is already absent.
 
+## Parameters
+
 **Parameter `key`:** The sandbox-relative storage key.
 
 **Parameter `cancellationToken`:** Cancellation requested by the caller.
 
-**Returns:** `true` when an existing value was deleted.
+## Returns
+
+`true` when an existing value was deleted.

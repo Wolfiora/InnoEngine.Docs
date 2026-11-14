@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Validates source metadata and emits the compact runtime and immutable encoded-data artifacts.
 
+## Parameters
+
 **Parameter `context`:** Source bytes and normalized source extension for the current import.
 
 **Parameter `output`:** Writer that receives the audio asset and its two runtime artifacts.
 
 **Parameter `cancellationToken`:** Token used to cancel artifact writes.
 
-**Returns:** A task that completes after both artifacts have been committed.
+## Returns
+
+A task that completes after both artifacts have been committed.

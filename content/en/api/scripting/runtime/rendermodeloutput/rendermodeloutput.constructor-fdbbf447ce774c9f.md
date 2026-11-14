@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates prepared model output.
 
+## Parameters
+
 **Parameter `name`:** Frame-local diagnostic name.
 
 **Parameter `pipeline`:** Exact model pipeline.

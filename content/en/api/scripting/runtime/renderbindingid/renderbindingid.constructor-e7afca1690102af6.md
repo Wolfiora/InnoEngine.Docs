@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates a stable shader binding identifier.
 
+## Parameters
+
 **Parameter `value`:** Stable manifest binding name.

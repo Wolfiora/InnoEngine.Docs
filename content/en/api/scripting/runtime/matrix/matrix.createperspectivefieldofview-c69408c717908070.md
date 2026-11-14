@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a left-handed, perspective projection matrix ( depth range 0..1).
 
+## Parameters
+
 **Parameter `fov`:** Vertical field of view in radians.
 
 **Parameter `aspect`:** Viewport aspect ratio (width / height).
@@ -20,4 +22,6 @@ Creates a left-handed, perspective projection matrix ( depth range 0..1).
 
 **Parameter `far`:** Far plane distance (positive).
 
-**Returns:** A perspective projection matrix.
+## Returns
+
+A perspective projection matrix.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Loads complete layout text captured by the host.
 
+## Parameters
+
 **Parameter `settings`:** Layout text, or an empty value when no layout exists.

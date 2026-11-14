@@ -12,12 +12,18 @@ apiScope: Editor
 
 Draws a standard checkbox with the shared editor tooltip behavior.
 
+## Parameters
+
 **Parameter `label`:** Visible label and stable ImGui identifier.
 
 **Parameter `value`:** Mutable checked state.
 
 **Parameter `tooltip`:** Optional explanation displayed while the checkbox is hovered.
 
-**Returns:** `true` when the value changed.
+## Returns
+
+`true` when the value changed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `label` is empty or whitespace.

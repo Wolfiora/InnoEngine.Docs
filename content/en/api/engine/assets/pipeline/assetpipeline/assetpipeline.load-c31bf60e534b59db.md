@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Loads a canonical asset using a runtime asset type selected by an authoring workflow.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `assetType`:** The required concrete or base asset type.
 
-**Returns:** The canonical asset instance assignable to `assetType`.
+## Returns
+
+The canonical asset instance assignable to `assetType`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `assetType` is `null`.
 

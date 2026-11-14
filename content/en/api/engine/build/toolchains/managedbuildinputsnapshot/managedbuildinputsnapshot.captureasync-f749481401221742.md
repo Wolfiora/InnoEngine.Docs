@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Evaluates an explicit managed graph using its frozen SDK and hashes its declared compilation inputs.
 
+## Parameters
+
 **Parameter `context`:** The borrowed operation that owns phase-local content reads and tool statistics.
 
 **Parameter `sdk`:** The SDK already selected for this project; evaluation must use its exact CLI entry.
@@ -21,11 +23,15 @@ Evaluates an explicit managed graph using its frozen SDK and hashes its declared
 
 **Parameter `cancellationToken`:** Cancels SDK evaluation, drains its process and removes this operation's request directory.
 
-**Returns:** A snapshot that can be freshly verified after waiting or executing; no Player compilation is performed.
+## Returns
+
+A snapshot that can be freshly verified after waiting or executing; no Player compilation is performed.
 
 ## Remarks
 
 Restore and evaluation use an owned SDK output layout, independently of ordinary IDE outputs. An explicit ArtifactsPath remains the caller's responsibility, including its concurrency protection.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required operation, SDK or property collection is null.
 

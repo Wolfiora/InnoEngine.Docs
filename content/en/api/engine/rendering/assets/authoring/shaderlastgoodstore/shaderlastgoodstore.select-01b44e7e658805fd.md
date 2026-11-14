@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Commits a complete candidate or returns the current last-good artifact after failure.
 
+## Parameters
+
 **Parameter `shaderId`:** Persistent shader asset identity.
 
 **Parameter `targetKey`:** Stable target cache key.
@@ -19,4 +21,6 @@ Commits a complete candidate or returns the current last-good artifact after fai
 
 **Parameter `candidate`:** Candidate compilation result.
 
-**Returns:** The artifact safe to use for rendering.
+## Returns
+
+The artifact safe to use for rendering.

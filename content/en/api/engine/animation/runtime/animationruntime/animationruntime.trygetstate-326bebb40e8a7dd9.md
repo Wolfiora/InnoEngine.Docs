@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to read the state and clip-local time of one live playback.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle produced by this runtime generation.
 
 **Parameter `state`:** Receives the live playback state, or the default value when the handle is stale.
 
 **Parameter `time`:** Receives clip-local time in seconds, or zero when the handle is stale.
 
-**Returns:** `true` when the handle identifies a live playback; otherwise, `false`.
+## Returns
+
+`true` when the handle identifies a live playback; otherwise, `false`.

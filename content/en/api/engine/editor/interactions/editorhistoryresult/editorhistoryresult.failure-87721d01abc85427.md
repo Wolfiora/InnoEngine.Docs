@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a failed history result without changing the owning history stack.
 
+## Parameters
+
 **Parameter `message`:** The non-empty diagnostic explaining why the transition could not complete.
 
-**Returns:** A result representing a rejected or failed transition.
+## Returns
+
+A result representing a rejected or failed transition.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `message` is empty.

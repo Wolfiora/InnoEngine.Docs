@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the managed source, preview label, and validity predicate for an asset drag.
 
+## Parameters
+
 **Parameter `context`:** The immutable source and catalog snapshot for the entry.
 
-**Returns:** The managed drag data published by the Asset Browser.
+## Returns
+
+The managed drag data published by the Asset Browser.

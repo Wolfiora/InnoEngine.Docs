@@ -16,7 +16,11 @@ aliases: []
 
 Executes one frame-scoped pass payload.
 
+## Type parameters
+
 **Type parameter `TPassData`:** Neutral pass payload type.
+
+## Parameters
 
 **Parameter `passData`:** Pass payload captured for this frame only.
 

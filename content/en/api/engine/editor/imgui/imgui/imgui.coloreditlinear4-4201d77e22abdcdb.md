@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Displays a linear RGBA color through a display-sRGB picker and returns edits in linear space.
 
+## Parameters
+
 **Parameter `label`:** The stable identity and visible label of the color control.
 
 **Parameter `value`:** Linear RGB and alpha; only changed RGB channels are decoded, while alpha is never transfer-encoded.
 
 **Parameter `flags`:** Dear ImGui color-edit flags; display modes interpret sRGB values and input storage must be RGB.
 
-**Returns:** True if the display color changed and `value` contains decoded linear RGB.
+## Returns
+
+True if the display color changed and `value` contains decoded linear RGB.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** HSV input storage conflicts with the linear-RGB value contract.

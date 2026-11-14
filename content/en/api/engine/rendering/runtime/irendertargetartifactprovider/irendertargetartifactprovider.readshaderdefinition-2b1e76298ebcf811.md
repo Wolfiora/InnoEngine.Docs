@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves the exact material contract stored with a compiled program using the current owner reference context.
 
+## Parameters
+
 **Parameter `artifact`:** One immutable program publication, including its native-serialized runtime definition.
 
-**Returns:** A detached definition belonging to this artifact, never the latest uncompiled source definition.
+## Returns
+
+A detached definition belonging to this artifact, never the latest uncompiled source definition.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The publication cannot be decoded in the current owner generation.

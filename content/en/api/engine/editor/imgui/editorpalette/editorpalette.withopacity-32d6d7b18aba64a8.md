@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Returns a theme color with a caller-selected opacity, normally one of the shared opacity levels.
 
+## Parameters
+
 **Parameter `color`:** Base RGB color.
 
 **Parameter `opacity`:** Replacement alpha in the inclusive zero-to-one range.
 
-**Returns:** The validated vector4 that represents the completed operation.
+## Returns
+
+The validated vector4 that represents the completed operation.

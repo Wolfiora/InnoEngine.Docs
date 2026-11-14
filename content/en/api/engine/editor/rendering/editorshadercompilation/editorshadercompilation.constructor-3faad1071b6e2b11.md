@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Pairs the authoring artifact owner with active-device validation at frame safety points.
 
+## Parameters
+
 **Parameter `provider`:** Host-owned shader compilation service.
 
 **Parameter `validator`:** Host-owned active-device artifact validator.

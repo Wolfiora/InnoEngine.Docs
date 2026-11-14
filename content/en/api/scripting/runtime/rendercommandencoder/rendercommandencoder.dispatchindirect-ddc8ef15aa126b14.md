@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Submits compute work described by consecutive commands in an indirect buffer.
 
+## Parameters
+
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.
 
 **Parameter `firstCommand`:** Zero-based command offset in the indirect buffer.

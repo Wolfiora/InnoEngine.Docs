@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Re-evaluates the graph and re-reads its current bytes in a fresh verification phase.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels evaluation and verification without changing any published output.
 
-**Returns:** Completion when the complete current input identity still matches this snapshot.
+## Returns
+
+Completion when the complete current input identity still matches this snapshot.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The graph, SDK, source, resource, analyzer or reference inputs changed.
 

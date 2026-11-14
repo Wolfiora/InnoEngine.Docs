@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an open capability protocol identifier.
 
+## Parameters
+
 **Parameter `value`:** The non-empty, case-sensitive capability name.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identifier is empty.

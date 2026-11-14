@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a Console service that observes one editor Play Mode controller.
 
+## Parameters
+
 **Parameter `logRouter`:** The host logging router whose entries are presented by this Console.
 
 **Parameter `diagnosticHub`:** The host diagnostic hub whose current reports are presented by this Console.
 
 **Parameter `playMode`:** The Play Mode source used to clear ordinary logs when a new simulation request begins.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `playMode` is `null`.

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Loads and validates the current build profile document.
 
-**Returns:** A newly owned build profile that callers may edit independently.
+## Returns
+
+A newly owned build profile that callers may edit independently.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** Thrown when the project does not contain a build profile document.
 

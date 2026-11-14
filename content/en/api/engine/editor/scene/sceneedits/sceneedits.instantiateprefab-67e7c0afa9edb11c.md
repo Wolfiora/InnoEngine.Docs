@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Instantiates a prefab into a loaded scene and records the created subtree as one reversible edit.
 
+## Parameters
+
 **Parameter `prefab`:** The imported prefab asset to instantiate.
 
 **Parameter `scene`:** The loaded scene that will own the instance.
@@ -19,4 +21,6 @@ Instantiates a prefab into a loaded scene and records the created subtree as one
 
 **Parameter `historyName`:** The user-facing history entry name.
 
-**Returns:** The instantiated prefab root.
+## Returns
+
+The instantiated prefab root.

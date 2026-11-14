@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an isolated editable copy of one effective setting.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identifier.
 
 **Parameter `setting`:** Receives a generation-local editable copy.
 
-**Returns:** `true` when the setting is defined.
+## Returns
+
+`true` when the setting is defined.

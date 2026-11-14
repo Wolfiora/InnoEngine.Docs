@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires a canonical runtime asset by path for an explicit residency lifetime.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Required runtime asset contract.
+
+## Parameters
 
 **Parameter `path`:** Mount-qualified logical asset path.
 
 **Parameter `cancellationToken`:** Cancellation observed during preparation and before owner-thread materialization.
 
-**Returns:** A lease completed after verified preparation and owner-thread publication.
+## Returns
+
+A lease completed after verified preparation and owner-thread publication.

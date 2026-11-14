@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Advances retained content once after all output views have supplied input.
 
+## Parameters
+
 **Parameter `frameIndex`:** The shared render frame whose input routing has completed.

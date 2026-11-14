@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves one compute material pass through an open provider contract and role.
 
+## Parameters
+
 **Parameter `material`:** Material asset to resolve.
 
 **Parameter `contractId`:** Provider-owned shader contract.
@@ -21,4 +23,6 @@ Resolves one compute material pass through an open provider contract and role.
 
 **Parameter `materialPass`:** Receives the resolved pass when successful.
 
-**Returns:** True when a current or last-good pass is usable.
+## Returns
+
+True when a current or last-good pass is usable.

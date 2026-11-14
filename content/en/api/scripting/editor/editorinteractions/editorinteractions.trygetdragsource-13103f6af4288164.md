@@ -12,8 +12,12 @@ apiScope: Editor
 
 Resolves the live source for an active runtime identity.
 
+## Parameters
+
 **Parameter `identity`:** The domain-qualified runtime identity carried by the drag protocol.
 
 **Parameter `source`:** The currently registered drag source when resolution succeeds.
 
-**Returns:** `true` when the identity is active and resolves to a live source; otherwise, `false`.
+## Returns
+
+`true` when the identity is active and resolves to a live source; otherwise, `false`.

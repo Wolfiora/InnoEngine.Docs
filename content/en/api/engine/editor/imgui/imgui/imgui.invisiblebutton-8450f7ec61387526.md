@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Submits an explicitly drawn control interaction rectangle.
 
+## Parameters
+
 **Parameter `label`:** The visible label and optional stable ID suffix.
 
 **Parameter `size`:** The explicit two-dimensional extent.
 
 **Parameter `flags`:** The explicit control and interaction options.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

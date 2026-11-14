@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Queues target texture conversion without blocking the render thread.
 
+## Parameters
+
 **Parameter `texture`:** Texture source to prepare.

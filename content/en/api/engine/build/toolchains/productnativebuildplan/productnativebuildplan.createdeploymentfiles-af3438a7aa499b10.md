@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves exact deployment paths from the declared layout rather than component-name conventions.
 
+## Parameters
+
 **Parameter `products`:** The complete result of this plan, in declaration order.
 
-**Returns:** Owned immutable relative-output to source-file mappings for atomic deployment.
+## Returns
+
+Owned immutable relative-output to source-file mappings for atomic deployment.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Products differ from the plan or deployment paths collide or escape their root.

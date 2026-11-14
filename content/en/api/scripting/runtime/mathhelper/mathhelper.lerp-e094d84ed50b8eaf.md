@@ -12,13 +12,17 @@ apiScope: Runtime
 
 Linearly interpolates between two values.
 
+## Parameters
+
 **Parameter `value1`:** Source value.
 
 **Parameter `value2`:** Destination value.
 
 **Parameter `amount`:** Value between 0 and 1 indicating the weight of value2.
 
-**Returns:** Interpolated value.
+## Returns
+
+Interpolated value.
 
 ## Remarks
 

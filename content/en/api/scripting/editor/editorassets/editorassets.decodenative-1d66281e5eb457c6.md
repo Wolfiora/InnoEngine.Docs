@@ -12,8 +12,14 @@ apiScope: Editor
 
 Decodes detached native asset bytes with the current authoring pipeline's converters and reference context.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Expected native asset type.
+
+## Parameters
 
 **Parameter `bytes`:** Bytes previously produced by the native asset source codec.
 
-**Returns:** A detached asset value that can be edited without publishing it.
+## Returns
+
+A detached asset value that can be edited without publishing it.

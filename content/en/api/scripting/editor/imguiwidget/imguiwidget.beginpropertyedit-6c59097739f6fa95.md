@@ -12,10 +12,14 @@ apiScope: Editor
 
 Starts a History boundary only when a changed control is actively producing continuous input.
 
+## Parameters
+
 **Parameter `history`:** The authoritative domain History receiving the control's existing mutation records.
 
 **Parameter `path`:** The stable owner-qualified property path.
 
 **Parameter `name`:** The operation name shown by Undo and Redo.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A previous gesture cannot complete or History rejects the transaction.

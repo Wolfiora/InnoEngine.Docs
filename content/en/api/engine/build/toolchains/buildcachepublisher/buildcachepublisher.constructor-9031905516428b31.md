@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a publisher for one absolute, non-overlapping cache boundary.
 
+## Parameters
+
 **Parameter `directory`:** The cache root exclusively controlled by this publisher.
 
 **Parameter `role`:** The lifetime declared for this publisher's completed entries.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The directory is blank or relative.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Gets the current frame interval unaffected by pause or time scaling.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

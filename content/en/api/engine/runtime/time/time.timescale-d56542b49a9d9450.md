@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the current simulation time multiplier.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

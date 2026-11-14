@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Resolves an issue after the represented condition no longer exists.
 
+## Parameters
+
 **Parameter `code`:** The stable issue code.
 
 **Parameter `semanticId`:** The optional protocol identifier used at publication.

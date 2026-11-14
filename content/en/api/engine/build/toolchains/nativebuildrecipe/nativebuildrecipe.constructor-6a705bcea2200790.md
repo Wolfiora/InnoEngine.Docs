@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a complete recipe without inferring implementation identity from an assembly MVID.
 
+## Parameters
+
 **Parameter `owner`:** The explicit component descriptor identifying source and intermediate owners.
 
 **Parameter `component`:** The component's portable artifact path segment.
@@ -20,6 +22,8 @@ Creates a complete recipe without inferring implementation identity from an asse
 **Parameter `inputs`:** The complete source, generator, executor and SDK input closure.
 
 **Parameter `declarations`:** Ordered compiler, linker, include-search and non-file inputs; order is significant.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A component or target is not a portable segment, or an input is null.
 

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Divides the supplied value by the scalar divisor component by component.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
 **Parameter `scalar`:** The scalar applied to every component.
 
-**Returns:** The validated vector2int that represents the completed operation.
+## Returns
+
+The validated vector2int that represents the completed operation.

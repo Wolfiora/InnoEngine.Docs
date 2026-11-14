@@ -14,4 +14,6 @@ aliases: []
 
 Thread-safe object store with optional query keys over stored items.
 
+## Type parameters
+
 **Type parameter `T`:** The stored reference type.

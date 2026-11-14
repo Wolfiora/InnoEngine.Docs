@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Supplies viewport-local input captured by the output panel for this frame.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable output identity.
 
 **Parameter `input`:** Physical-pixel input snapshot.

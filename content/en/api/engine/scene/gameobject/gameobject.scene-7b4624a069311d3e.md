@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the owning scene.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when this object is destroyed or detached.

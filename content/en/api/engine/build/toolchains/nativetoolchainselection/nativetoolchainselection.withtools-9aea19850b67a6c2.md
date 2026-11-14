@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Adds integration-owned tools without changing the platform SDK or replacing existing commands.
 
+## Parameters
+
 **Parameter `tools`:** Explicit absolute executables required by the selected backend integration.
 
 **Parameter `inputs`:** Integration implementation and configuration files participating in tool selection.
 
-**Returns:** A new immutable selection containing both the platform and integration inputs.
+## Returns
+
+A new immutable selection containing both the platform and integration inputs.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A contribution conflicts with an already selected command.
 

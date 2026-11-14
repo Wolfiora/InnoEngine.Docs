@@ -12,8 +12,12 @@ apiScope: Editor
 
 Queues an action until the current UI traversal completes.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
 **Parameter `argument`:** An optional action argument.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

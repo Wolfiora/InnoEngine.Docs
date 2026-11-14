@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Advances pointer capture using logical button state rather than window-local release events.
 
+## Parameters
+
 **Parameter `hovered`:** Whether a new gesture may start in this canvas.
 
 **Parameter `primaryPressed`:** Whether the primary button was pressed this frame.
@@ -25,4 +27,6 @@ Advances pointer capture using logical button state rather than window-local rel
 
 **Parameter `allowAltPrimary`:** Whether Alt-primary belongs to pan rather than another navigation mode.
 
-**Returns:** Whether this canvas owns the current pointer gesture.
+## Returns
+
+Whether this canvas owns the current pointer gesture.

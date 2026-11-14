@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates stable identity and dependency declarations.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** Thrown when manifest data is invalid.

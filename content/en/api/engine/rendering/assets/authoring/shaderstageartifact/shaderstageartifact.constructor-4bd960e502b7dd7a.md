@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a stage artifact.
 
+## Parameters
+
 **Parameter `stage`:** Single compiled shader stage.
 
 **Parameter `bytes`:** Target binary bytes.

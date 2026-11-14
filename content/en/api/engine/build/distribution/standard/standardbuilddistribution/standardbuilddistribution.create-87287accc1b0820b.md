@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Composes one explicit binding per implemented platform without resolving tools.
 
+## Parameters
+
 **Parameter `context`:** The explicitly selected SDK and execution host.
 
 **Parameter `tools`:** Borrowed frozen content-compilation tools, or null to consume this application's explicit deployment.
 
-**Returns:** A frozen standard distribution with backend configuration bound to the same platform identities.
+## Returns
+
+A frozen standard distribution with backend configuration bound to the same platform identities.

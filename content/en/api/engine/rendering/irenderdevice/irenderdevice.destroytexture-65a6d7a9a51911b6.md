@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Queues a persistent texture for delayed GPU-safe destruction.
 
+## Parameters
+
 **Parameter `texture`:** Texture owned by this device generation.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Replaces the editor selection after closing presentations owned by other targets.
 
+## Parameters
+
 **Parameter `target`:** The target to select, or `null` to clear the selection.

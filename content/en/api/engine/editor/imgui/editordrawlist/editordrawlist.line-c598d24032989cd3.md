@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds a straight screen-space stroke.
 
+## Parameters
+
 **Parameter `start`:** The first endpoint.
 
 **Parameter `end`:** The final endpoint.

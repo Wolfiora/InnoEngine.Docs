@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Places the next item on the same line.
 
+## Parameters
+
 **Parameter `offset`:** The horizontal offset from the line start, or zero for automatic placement.
 
 **Parameter `spacing`:** The explicit spacing, or a negative value for the current style spacing.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a path is generated asset metadata.
 
+## Parameters
+
 **Parameter `relativePath`:** The normalized path relative to its owning source mount.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

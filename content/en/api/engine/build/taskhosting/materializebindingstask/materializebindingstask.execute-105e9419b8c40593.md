@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates and copies the source while holding its publication owner.
 
-**Returns:** True for a complete private source; false after logging a failed or canceled copy.
+## Returns
+
+True for a complete private source; false after logging a failed or canceled copy.

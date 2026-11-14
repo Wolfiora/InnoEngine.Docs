@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Creates a validated progress update.
 
+## Parameters
+
 **Parameter `stage`:** The stable build stage name.
 
 **Parameter `fraction`:** The completed fraction in the inclusive range from zero to one.
 
 **Parameter `message`:** A concise human-readable status message.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when stage or message is empty.
 

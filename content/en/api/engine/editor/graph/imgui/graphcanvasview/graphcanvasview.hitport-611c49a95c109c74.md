@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Finds a port by its displayed socket or label row, without interpreting its domain type.
 
+## Parameters
+
 **Parameter `layout`:** The current document presentation snapshot.
 
 **Parameter `point`:** The screen-space pointer.
 
 **Parameter `radius`:** The nonnegative minimum socket hit radius in screen pixels.
 
-**Returns:** The hit neutral port, including Missing state, or null over non-port content.
+## Returns
+
+The hit neutral port, including Missing state, or null over non-port content.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The radius is negative or nonfinite.

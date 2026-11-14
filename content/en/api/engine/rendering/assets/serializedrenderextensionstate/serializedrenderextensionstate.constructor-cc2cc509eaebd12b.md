@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates immutable extension state from stable identity and property bytes.
 
+## Parameters
+
 **Parameter `stableTypeId`:** Stable type identity, or empty when the extension has no typed settings.
 
 **Parameter `propertyData`:** Neutral native property bytes produced by asset serialization. Use the snapshot constructor when settings reference assets.

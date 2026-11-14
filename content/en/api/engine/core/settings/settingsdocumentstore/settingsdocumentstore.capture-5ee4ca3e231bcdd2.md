@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Serializes a validated document without changing the file.
 
+## Parameters
+
 **Parameter `document`:** The document to capture.
 
-**Returns:** A newly owned native payload.
+## Returns
+
+A newly owned native payload.

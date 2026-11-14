@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a persistent material property entry.
 
+## Parameters
+
 **Parameter `id`:** Stable shader property identifier.
 
 **Parameter `value`:** Neutral material value.

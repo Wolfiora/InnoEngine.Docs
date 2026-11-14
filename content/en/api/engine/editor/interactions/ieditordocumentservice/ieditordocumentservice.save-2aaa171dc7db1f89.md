@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Saves one open document through its current provider.
 
+## Parameters
+
 **Parameter `documentId`:** Stable tab identity.
 
-**Returns:** `true` when the document is saved.
+## Returns
+
+`true` when the document is saved.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies a declared input atomically when its destination differs, preserving identical file timestamps.
 
+## Parameters
+
 **Parameter `context`:** The operation whose initial source bytes and hashing statistics are shared across components.
 
 **Parameter `source`:** The absolute input file already declared by the component recipe.
@@ -19,7 +21,11 @@ Copies a declared input atomically when its destination differs, preserving iden
 
 **Parameter `cancellationToken`:** Cancels copying before publication and preserves the prior intermediate file.
 
-**Returns:** True when bytes were copied and published; false when the existing content was identical.
+## Returns
+
+True when bytes were copied and published; false when the existing content was identical.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The source changes relative to the operation's frozen input snapshot.
 

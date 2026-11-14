@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a validated extension instance using a parameterless constructor.
 
+## Type parameters
+
 **Type parameter `TExtension`:** The required extension contract.
+
+## Parameters
 
 **Parameter `type`:** The concrete implementation type.
 
-**Returns:** A newly created extension, retained for rollback until the complete candidate snapshot takes ownership.
+## Returns
+
+A newly created extension, retained for rollback until the complete candidate snapshot takes ownership.

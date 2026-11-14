@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Transfers disposal ownership of a resource to this lifetime.
 
+## Type parameters
+
 **Type parameter `TResource`:** The disposable resource type.
+
+## Parameters
 
 **Parameter `resource`:** The resource to release in reverse registration order.
 
-**Returns:** The same resource for explicit dependency wiring.
+## Returns
+
+The same resource for explicit dependency wiring.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The resource is null.
 

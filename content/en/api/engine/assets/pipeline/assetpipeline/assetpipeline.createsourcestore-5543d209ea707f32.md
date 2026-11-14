@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a detached source editor sharing this owner's mounts, native converters and references.
 
-**Returns:** A source store that must not outlive this asset pipeline.
+## Returns
+
+A source store that must not outlive this asset pipeline.

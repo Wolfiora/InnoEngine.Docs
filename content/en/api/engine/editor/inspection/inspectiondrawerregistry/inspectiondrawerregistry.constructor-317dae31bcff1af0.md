@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a generation-aware inspection drawer registry.
 
+## Parameters
+
 **Parameter `interactions`:** The active editor interaction entry point exposed to draw contexts.
 
 **Parameter `factory`:** The composition-root factory used to construct discovered drawer types and resolve their module-specific dependencies.
@@ -18,5 +20,7 @@ Creates a generation-aware inspection drawer registry.
 **Parameter `types`:** The host-owned type catalog that coordinates drawer generations.
 
 **Parameter `serialization`:** Serialization registry used to expose the selected target's visible properties to custom drawers.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `interactions` or `factory` is `null`.

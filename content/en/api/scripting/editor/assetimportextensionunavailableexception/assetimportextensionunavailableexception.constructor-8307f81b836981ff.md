@@ -12,6 +12,8 @@ apiScope: Editor
 
 Describes a missing extension using generation-neutral identities.
 
+## Parameters
+
 **Parameter `extensionKind`:** The stable extension protocol identity.
 
 **Parameter `extensionId`:** The required implementation's stable identity.

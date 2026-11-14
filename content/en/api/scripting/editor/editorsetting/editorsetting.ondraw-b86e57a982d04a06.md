@@ -12,4 +12,6 @@ apiScope: Editor
 
 Draws the field using the staged JSON object owned by the Settings frontend. A type that does not override this method describes a page.
 
+## Parameters
+
 **Parameter `setting`:** The isolated mutable object being edited.

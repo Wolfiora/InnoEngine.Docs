@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Starts background indexing after cloning, then adopts its completed catalog without waiting.
 
-**Returns:** True when the candidate is indexed and ready for BeginValidation; false while preparation is pending.
+## Returns
+
+True when the candidate is indexed and ready for BeginValidation; false while preparation is pending.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The transaction is finished or the caller is not its initialization thread.
 

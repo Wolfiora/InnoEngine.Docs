@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an available transition result.
 
-**Returns:** An availability value that permits the transition.
+## Returns
+
+An availability value that permits the transition.

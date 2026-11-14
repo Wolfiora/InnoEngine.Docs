@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a render graph builder for one frame generation.
 
+## Parameters
+
 **Parameter `generation`:** Non-zero frame-scoped generation.
 
 **Parameter `capabilities`:** Device capabilities used during validation.

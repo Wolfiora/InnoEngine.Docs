@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Removes graph-level metadata by stable key.
 
+## Parameters
+
 **Parameter `key`:** Stable metadata key.
 
-**Returns:** `true` when metadata existed and was removed.
+## Returns
+
+`true` when metadata existed and was removed.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a five-phase settings change for the host's shared generation transaction.
 
-**Returns:** An owner-thread change that captures neutral effective values before publication, rebuilds against candidate types, and restores exact previous values and contributors without writing the project document on rollback.
+## Returns
+
+An owner-thread change that captures neutral effective values before publication, rebuilds against candidate types, and restores exact previous values and contributors without writing the project document on rollback.

@@ -12,7 +12,11 @@ apiScope: Editor
 
 Makes one presented scene active without changing scene order.
 
+## Parameters
+
 **Parameter `scene`:** The loaded scene to activate.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `scene` is `null`.
 

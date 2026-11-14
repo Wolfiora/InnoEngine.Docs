@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Composes dependency-ordered Plugin deltas and the optional final project delta into a host default.
 
+## Parameters
+
 **Parameter `target`:** The newly created host default to mutate into the effective value.
 
 **Parameter `contributions`:** Decoded contributions in deterministic precedence order.

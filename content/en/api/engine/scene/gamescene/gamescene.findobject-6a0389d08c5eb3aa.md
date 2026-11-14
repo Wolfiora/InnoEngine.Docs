@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Finds the first game object with an ordinally matching name.
 
+## Parameters
+
 **Parameter `name`:** Name to find.
 
-**Returns:** The first match, or `null` when no object matches.
+## Returns
+
+The first match, or `null` when no object matches.

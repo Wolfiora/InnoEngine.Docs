@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Freezes a portable key, byte length, and SHA-256 identity.
 
+## Parameters
+
 **Parameter `key`:** The assigned logical content key.
 
 **Parameter `length`:** The exact nonnegative decoded byte count.
 
 **Parameter `contentHash`:** The hexadecimal SHA-256 of decoded bytes, normalized to uppercase.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The key is unassigned or the hash is malformed.

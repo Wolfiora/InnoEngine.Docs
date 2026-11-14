@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Creates a mask containing the supplied layers.
 
+## Parameters
+
 **Parameter `layers`:** The layers whose bits should be enabled.
 
-**Returns:** A mask containing every supplied layer.
+## Returns
+
+A mask containing every supplied layer.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `layers` is `null`.

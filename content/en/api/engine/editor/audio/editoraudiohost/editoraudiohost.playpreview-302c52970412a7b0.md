@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Starts an Editor-owned preview voice through an active Edit Mode session.
 
+## Parameters
+
 **Parameter `session`:** Active Edit Mode session.
 
 **Parameter `clip`:** Imported audio clip to preview.
 
 **Parameter `options`:** Optional playback parameters; omitted values use engine defaults.
 
-**Returns:** The preview voice handle, initially in the preparing state.
+## Returns
+
+The preview voice handle, initially in the preparing state.

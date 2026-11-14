@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Saves a scene into the requested asset directory.
 
+## Parameters
+
 **Parameter `scene`:** The scene to save.
 
 **Parameter `currentDirectory`:** The target asset directory.
 
-**Returns:** The saved source-relative path.
+## Returns
+
+The saved source-relative path.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown while Play Mode runtime copies are active, when the asset cannot be persisted, or when saving would overwrite its unavailable assigned source.

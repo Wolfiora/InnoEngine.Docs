@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates or replaces one neutral node property; only samples carrying the same explicit gesture identity merge.
 
+## Parameters
+
 **Parameter `nodeId`:** Owning node.
 
 **Parameter `propertyId`:** Stable property ID.

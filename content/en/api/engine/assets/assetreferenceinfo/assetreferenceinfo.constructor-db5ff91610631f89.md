@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes one diagnostic view of the engine-known references to an asset.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `assetPath`:** The mount-qualified source location.

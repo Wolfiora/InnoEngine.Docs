@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets whether a matching component is attached.
 
+## Type parameters
+
 **Type parameter `TComponent`:** Requested component type.
 
-**Returns:** `true` when a matching component exists.
+## Returns
+
+`true` when a matching component exists.

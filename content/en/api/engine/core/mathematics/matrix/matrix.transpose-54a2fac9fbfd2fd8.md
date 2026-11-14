@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the transpose of a matrix.
 
+## Parameters
+
 **Parameter `a`:** Source matrix.
 
-**Returns:** Transposed matrix.
+## Returns
+
+Transposed matrix.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an unattached workspace over explicitly owned Edit-session services.
 
+## Parameters
+
 **Parameter `runtimeSession`:** The Edit session that owns the workspace scene world.
 
 **Parameter `assets`:** The authoring asset pipeline used for scene and prefab documents.
@@ -23,6 +25,10 @@ Creates an unattached workspace over explicitly owned Edit-session services.
 
 **Parameter `selection`:** The optional selection coordinator used by the standalone document workspace.
 
-**Returns:** A host that owns both the document and Play Mode interfaces of the workspace.
+## Returns
+
+A host that owns both the document and Play Mode interfaces of the workspace.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when a required owner is `null`.

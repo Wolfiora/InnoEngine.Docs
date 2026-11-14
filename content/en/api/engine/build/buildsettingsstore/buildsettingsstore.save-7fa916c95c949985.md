@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Atomically replaces the project-owned build defaults.
 
+## Parameters
+
 **Parameter `settings`:** The complete defaults to persist.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `settings` is null.
 

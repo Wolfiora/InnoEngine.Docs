@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Borrows validators while retaining only the immutable selected closure requirements.
 
+## Parameters
+
 **Parameter `requirements`:** The distribution's frozen input requirements.
 
 **Parameter `platform`:** The borrowed layout and ABI validator.
 
 **Parameter `deployment`:** An optional implementation-owned deployment metadata validator.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Requirements or the platform validator are null.

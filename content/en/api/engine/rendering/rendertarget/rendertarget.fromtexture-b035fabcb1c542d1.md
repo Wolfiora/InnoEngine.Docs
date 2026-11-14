@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an offscreen render target.
 
+## Parameters
+
 **Parameter `texture`:** Persistent offscreen texture description.
 
-**Returns:** A target referencing `texture`.
+## Returns
+
+A target referencing `texture`.

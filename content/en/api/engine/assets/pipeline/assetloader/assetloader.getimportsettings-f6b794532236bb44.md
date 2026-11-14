@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads a detached importer settings value without changing source metadata.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path, not its sidecar path.
 
-**Returns:** The current settings and the metadata fingerprint required for a subsequent save.
+## Returns
+
+The current settings and the metadata fingerprint required for a subsequent save.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The source has no registered importer.
 

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Attaches an overlay above all base layers and existing overlays.
 
+## Parameters
+
 **Parameter `overlay`:** The overlay to attach.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `overlay` is `null`.
 

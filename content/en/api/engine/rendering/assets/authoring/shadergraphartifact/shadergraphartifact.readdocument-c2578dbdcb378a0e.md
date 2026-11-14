@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Restores the imported graph for authoring or source export.
 
+## Parameters
+
 **Parameter `bytes`:** Current authoring artifact bytes.
 
 **Parameter `serialization`:** Owner native converter registry.
 
-**Returns:** A detached graph retaining all authored records.
+## Returns
+
+A detached graph retaining all authored records.

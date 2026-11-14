@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes and validates a compact font runtime payload.
 
+## Parameters
+
 **Parameter `payload`:** The complete runtime payload.
 
-**Returns:** The decoded metadata.
+## Returns
+
+The decoded metadata.

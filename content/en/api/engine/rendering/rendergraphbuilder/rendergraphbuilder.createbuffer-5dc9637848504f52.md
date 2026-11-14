@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a transient buffer eligible for lifetime aliasing.
 
+## Parameters
+
 **Parameter `name`:** Debug and diagnostic name.
 
 **Parameter `descriptor`:** Buffer requirements.
 
-**Returns:** A handle valid only for this graph generation.
+## Returns
+
+A handle valid only for this graph generation.

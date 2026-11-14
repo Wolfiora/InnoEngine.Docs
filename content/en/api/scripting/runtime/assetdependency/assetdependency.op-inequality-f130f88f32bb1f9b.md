@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two descriptors refer to different persistent assets.
 
+## Parameters
+
 **Parameter `left`:** The first dependency descriptor to compare.
 
 **Parameter `right`:** The second dependency descriptor to compare.
 
-**Returns:** `true` when the descriptors reference different persistent assets; otherwise, `false`.
+## Returns
+
+`true` when the descriptors reference different persistent assets; otherwise, `false`.

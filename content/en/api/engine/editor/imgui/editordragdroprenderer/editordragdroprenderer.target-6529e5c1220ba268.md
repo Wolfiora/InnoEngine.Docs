@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Evaluates and, on delivery, accepts a managed drag on the most recently submitted ImGui item.
 
+## Parameters
+
 **Parameter `interaction`:** The interaction area and managed drop target.
 
 **Parameter `placement`:** The requested position relative to the target.
 
-**Returns:** The native preview state together with the managed compatibility and delivery results.
+## Returns
+
+The native preview state together with the managed compatibility and delivery results.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates, culls and schedules this graph exactly once.
 
-**Returns:** A compilation result containing either an executable graph or diagnostics.
+## Returns
+
+A compilation result containing either an executable graph or diagnostics.

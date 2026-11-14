@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an artifact key from a hexadecimal content fingerprint.
 
+## Parameters
+
 **Parameter `value`:** The hexadecimal content fingerprint.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A non-empty value is not exactly 64 hexadecimal digits.

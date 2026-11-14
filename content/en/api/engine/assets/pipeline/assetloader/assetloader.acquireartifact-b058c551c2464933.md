@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires an immutable output while excluding concurrent artifact collection.
 
+## Parameters
+
 **Parameter `persistentId`:** The source asset's persistent identity.
 
 **Parameter `outputName`:** The required output protocol.
 
-**Returns:** A lease retaining this exact artifact key, even after reimport or source deletion.
+## Returns
+
+A lease retaining this exact artifact key, even after reimport or source deletion.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No current output can be resolved.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a runtime identity from its domain and generation-safe object identifier.
 
+## Parameters
+
 **Parameter `domainId`:** The identity domain that owns the runtime identifier.
 
 **Parameter `runtimeId`:** The generation-safe runtime identifier allocated inside the domain.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when either value is invalid.

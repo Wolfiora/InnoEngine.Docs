@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Writes a named structured object.
 
+## Parameters
+
 **Parameter `name`:** The unique non-empty member name.
 
 **Parameter `write`:** The callback that fills the child object.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `write` is null.

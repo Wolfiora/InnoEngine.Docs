@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a uniquely named directory and records its removal and restoration in shared History.
 
+## Parameters
+
 **Parameter `parent`:** An existing writable source directory.
 
-**Returns:** The indexed identity of the newly created directory.
+## Returns
+
+The indexed identity of the newly created directory.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The source is read-only, unavailable, or cannot retain the History entry.

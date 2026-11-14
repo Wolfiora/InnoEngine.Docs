@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the target's shared-library suffix.
 
+## Exceptions
+
 **Exception `T:System.NotSupportedException`:** The target does not support shared libraries.

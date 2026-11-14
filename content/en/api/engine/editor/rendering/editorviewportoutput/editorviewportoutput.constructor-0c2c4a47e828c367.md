@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an editor viewport output snapshot.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable viewport identity.
 
 **Parameter `texture`:** Opaque presentation token, or an invalid token while warming up.

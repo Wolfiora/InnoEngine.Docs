@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds a texture subresource for shader storage access.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.
 
 **Parameter `texture`:** Persistent texture owned by the current device generation.

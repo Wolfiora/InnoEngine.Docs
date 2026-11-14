@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Derives a control identity from the current window and ID stack.
 
+## Parameters
+
 **Parameter `label`:** The visible label and optional stable ID suffix.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

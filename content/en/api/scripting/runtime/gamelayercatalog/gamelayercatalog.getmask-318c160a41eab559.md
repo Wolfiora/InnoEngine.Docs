@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a mask from configured ordinal layer names.
 
+## Parameters
+
 **Parameter `names`:** The configured names to include.
 
-**Returns:** A mask containing every resolved layer.
+## Returns
+
+A mask containing every resolved layer.

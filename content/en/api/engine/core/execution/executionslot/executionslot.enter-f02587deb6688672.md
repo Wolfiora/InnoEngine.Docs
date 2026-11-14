@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Binds a value until the returned scope is retired in strict last-in-first-out order.
 
+## Parameters
+
 **Parameter `value`:** The service or value owned by the enclosing lifetime.
 
 **Parameter `threadAffine`:** Whether access and retirement require the entering thread.
 
-**Returns:** A scope that revokes inherited bindings and clears their strong references on retirement.
+## Returns
+
+A scope that revokes inherited bindings and clears their strong references on retirement.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The value is null.

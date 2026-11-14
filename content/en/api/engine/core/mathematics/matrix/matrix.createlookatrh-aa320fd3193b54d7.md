@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a right-handed view matrix that looks from `eye` to `target`.
 
+## Parameters
+
 **Parameter `eye`:** The eye consumed by create look at rh; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `target`:** The existing target that receives the validated result.
 
 **Parameter `up`:** The up consumed by create look at rh; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated matrix that represents the completed operation.
+## Returns
+
+The validated matrix that represents the completed operation.

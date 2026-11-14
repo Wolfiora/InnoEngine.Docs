@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Receives a log entry for processing.
 
+## Parameters
+
 **Parameter `entry`:** The log entry to consume.

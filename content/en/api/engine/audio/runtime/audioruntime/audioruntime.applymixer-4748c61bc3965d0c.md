@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Builds and atomically installs a mixer graph from reloadable extensions.
 
+## Parameters
+
 **Parameter `asset`:** Mixer asset containing stable extension identifiers and neutral state.
 
-**Returns:** `true` when every extension resolved and the candidate became active.
+## Returns
+
+`true` when every extension resolved and the candidate became active.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Selects the minimum value independently for each component.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

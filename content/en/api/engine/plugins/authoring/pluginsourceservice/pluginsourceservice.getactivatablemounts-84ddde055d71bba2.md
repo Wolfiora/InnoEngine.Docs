@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets read-only mounts that passed validation and dependency ordering.
 
+## Parameters
+
 **Parameter `result`:** Complete scan result.
 
-**Returns:** Dependency-ordered mount snapshot suitable for the common AssetPipeline.
+## Returns
+
+Dependency-ordered mount snapshot suitable for the common AssetPipeline.

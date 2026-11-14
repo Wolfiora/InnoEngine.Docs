@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a retryable retirement barrier for an owner with unfinished work.
 
+## Parameters
+
 **Parameter `message`:** The owner and work preventing synchronous release.
 
 **Parameter `innerException`:** The original retirement failure, including any contextual wrappers, or null when there is no cause.

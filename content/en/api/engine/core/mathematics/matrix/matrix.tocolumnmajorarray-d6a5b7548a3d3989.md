@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Returns a new array containing matrix elements in column-major order.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

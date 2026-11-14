@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Cancels and drains active export work before the Editor generation is stopped.
 
+## Parameters
+
 **Parameter `context`:** The active Editor context being stopped.

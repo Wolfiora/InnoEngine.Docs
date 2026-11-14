@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Binds editor presentation and interaction work to the isolated Play session while simulation is active, or returns an inert scope while the editor is not presenting runtime copies.
 
-**Returns:** A scope that must be disposed after the current editor presentation phase completes.
+## Returns
+
+A scope that must be disposed after the current editor presentation phase completes.

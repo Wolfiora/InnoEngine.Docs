@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Computes a hash code from the domain and runtime identifier.
 
-**Returns:** A hash code consistent with runtime identity equality.
+## Returns
+
+A hash code consistent with runtime identity equality.

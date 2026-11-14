@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reports an exception raised while rolling back activation, completing activation, or releasing a snapshot.
 
+## Parameters
+
 **Parameter `phase`:** The non-transactional phase that raised the exception.
 
 **Parameter `exception`:** The cleanup exception.

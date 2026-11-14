@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a persistent sampled texture from a validated portable container.
 
+## Parameters
+
 **Parameter `container`:** Portable texture container kind.
 
 **Parameter `data`:** Complete encoded container bytes.
@@ -19,6 +21,10 @@ Creates a persistent sampled texture from a validated portable container.
 
 **Parameter `name`:** Debug and diagnostic name.
 
-**Returns:** An opaque device-generation handle.
+## Returns
+
+An opaque device-generation handle.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the device cannot consume encoded containers.

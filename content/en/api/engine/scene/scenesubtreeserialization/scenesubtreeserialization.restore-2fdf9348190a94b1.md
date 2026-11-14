@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores a previously captured subtree into a loaded scene with its original persistent identities.
 
+## Parameters
+
 **Parameter `scene`:** The loaded destination scene.
 
 **Parameter `data`:** Bytes created by `M:Inno.Scene.SceneSubtreeSerialization.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)`.
@@ -23,7 +25,11 @@ Restores a previously captured subtree into a loaded scene with its original per
 
 **Parameter `assets`:** The asset-reference resolver used to restore referenced asset identities.
 
-**Returns:** The restored subtree root.
+## Returns
+
+The restored subtree root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `scene` is `null`.
 

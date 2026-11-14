@@ -12,6 +12,8 @@ apiScope: Editor
 
 Removes a pass and only computations whose final referencing pass was removed.
 
+## Parameters
+
 **Parameter `graph`:** Source document, never modified.
 
 **Parameter `pass`:** Existing pass identity.
@@ -20,4 +22,6 @@ Removes a pass and only computations whose final referencing pass was removed.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** A candidate preserving programs shared by other passes and their parameter declarations.
+## Returns
+
+A candidate preserving programs shared by other passes and their parameter declarations.

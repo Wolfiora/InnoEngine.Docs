@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether the fallback asset editor can open the supplied source entry.
 
+## Parameters
+
 **Parameter `context`:** The immutable source and catalog snapshot for the operation.
 
-**Returns:** `true` when `M:InnoEditor.Assets.AssetEditor.Open(InnoEditor.Assets.AssetEditorContext)` can handle the entry; otherwise, `false`.
+## Returns
+
+`true` when `M:InnoEditor.Assets.AssetEditor.Open(InnoEditor.Assets.AssetEditorContext)` can handle the entry; otherwise, `false`.

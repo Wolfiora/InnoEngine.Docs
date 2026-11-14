@@ -12,10 +12,14 @@ apiScope: Editor
 
 Draws a compact, non-interactive type badge with a subdued fill and semantic outline.
 
+## Parameters
+
 **Parameter `label`:** Visible type name.
 
 **Parameter `accent`:** Semantic type-family accent.
 
 **Parameter `tooltip`:** Optional explanation shown while the badge is hovered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `label` is `null`.

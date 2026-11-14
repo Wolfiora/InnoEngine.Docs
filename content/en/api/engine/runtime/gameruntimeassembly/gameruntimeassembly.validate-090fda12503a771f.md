@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Rejects identities or fingerprints that cannot describe a frozen code input.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** The assembly name is empty or nonportable, or the fingerprint is not a SHA-256 value.

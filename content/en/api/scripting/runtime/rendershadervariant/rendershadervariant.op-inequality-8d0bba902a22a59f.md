@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two variants select different stable options.
 
+## Parameters
+
 **Parameter `left`:** The first canonical shader variant to compare.
 
 **Parameter `right`:** The second canonical shader variant to compare.
 
-**Returns:** `true` when the stable options differ; otherwise, `false`.
+## Returns
+
+`true` when the stable options differ; otherwise, `false`.

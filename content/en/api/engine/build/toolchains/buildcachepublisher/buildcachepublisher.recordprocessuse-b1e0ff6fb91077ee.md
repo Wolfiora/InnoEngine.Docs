@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Registers a process-owned loader directory and its dependencies before returning it to a loader. Retirement preserves the directory until every recorded process has exited. Repeated registrations retain the complete dependency closure of that process-owned operation.
 
+## Parameters
+
 **Parameter `directory`:** The completed directory within this publisher's boundary.
 
 **Parameter `leasePath`:** The persistent producer and retirement lease outside the directory.
@@ -18,6 +20,8 @@ Registers a process-owned loader directory and its dependencies before returning
 **Parameter `dependencies`:** Owned generations and workspaces required throughout this process-owned operation.
 
 **Parameter `cancellationToken`:** Cancels ownership acquisition before the process claim is recorded.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The directory escapes ownership or its registration cannot be written.
 

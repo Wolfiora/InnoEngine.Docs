@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases presentation state after all drawing scopes and domain edit gestures have ended.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** A drawing scope is active or the caller is not the owner thread.

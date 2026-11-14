@@ -12,6 +12,8 @@ apiScope: Editor
 
 Restores persistent canvas navigation state with bounded zoom.
 
+## Parameters
+
 **Parameter `pan`:** Graph-space pan offset.
 
 **Parameter `zoom`:** Requested zoom in the inclusive range 0.1 to 4.

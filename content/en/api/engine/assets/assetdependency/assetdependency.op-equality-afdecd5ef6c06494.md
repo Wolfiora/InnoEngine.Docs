@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two descriptors refer to the same persistent asset.
 
+## Parameters
+
 **Parameter `left`:** The first dependency descriptor to compare.
 
 **Parameter `right`:** The second dependency descriptor to compare.
 
-**Returns:** `true` when both descriptors reference the same persistent asset; otherwise, `false`.
+## Returns
+
+`true` when both descriptors reference the same persistent asset; otherwise, `false`.

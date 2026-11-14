@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Creates an isolated editable snapshot for one registered presentation.
 
+## Parameters
+
 **Parameter `definition`:** The active presentation whose runtime protocol is requested.
 
-**Returns:** An isolated current-generation value.
+## Returns
+
+An isolated current-generation value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `definition` is `null`.
 

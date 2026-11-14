@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Starts one clip using explicit playback parameters.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare and play.
 
 **Parameter `options`:** Immutable playback parameters.
 
-**Returns:** A preparing voice handle owned by the current device generation.
+## Returns
+
+A preparing voice handle owned by the current device generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Playback options are uninitialized. The request is rejected before asset acquisition or voice stealing.

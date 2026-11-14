@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two masks contain different bits.
 
+## Parameters
+
 **Parameter `left`:** The first mask.
 
 **Parameter `right`:** The second mask.
 
-**Returns:** `true` when both masks differ.
+## Returns
+
+`true` when both masks differ.

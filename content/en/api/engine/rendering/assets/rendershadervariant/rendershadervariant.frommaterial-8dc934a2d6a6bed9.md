@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Resolves material keyword selections against an exact published shader contract.
 
+## Parameters
+
 **Parameter `material`:** Material whose selected options are evaluated.
 
 **Parameter `definition`:** Captured shader contract, which may be the last successful publication.
 
-**Returns:** The canonical keyword selection for this publication.
+## Returns
+
+The canonical keyword selection for this publication.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A selected option is unknown or conflicts with another option.

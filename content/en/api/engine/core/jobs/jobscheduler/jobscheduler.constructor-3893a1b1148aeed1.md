@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a scheduler using the requested execution strategy.
 
+## Parameters
+
 **Parameter `mode`:** The execution strategy owned by the scheduler.
 
 **Parameter `options`:** Frame admission and main-thread queue limits for either strategy; worker count applies only to `F:Inno.Core.Jobs.JobExecutionMode.WorkerPool`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `mode` is not a defined execution strategy.

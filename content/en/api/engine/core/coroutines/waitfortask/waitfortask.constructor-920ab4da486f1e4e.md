@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Waits until a task is completed.
 
+## Parameters
+
 **Parameter `task`:** The task used to initialize this instance.

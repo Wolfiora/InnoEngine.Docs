@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Binds a settings lookup until the returned strict last-in-first-out scope is disposed.
 
+## Parameters
+
 **Parameter `settings`:** The host-owned settings lookup to expose to script-facing operations.
 
-**Returns:** A strict last-in-first-out execution scope owned by the caller.
+## Returns
+
+A strict last-in-first-out execution scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `settings` is `null`.

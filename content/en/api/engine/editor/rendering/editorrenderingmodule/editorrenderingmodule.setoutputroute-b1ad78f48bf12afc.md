@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets the exact model contributor order for an output with several applicable models.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable output identity.
 
 **Parameter `route`:** Explicit contributor route, or null for single-model selection.

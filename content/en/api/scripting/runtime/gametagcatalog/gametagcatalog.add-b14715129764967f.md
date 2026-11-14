@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Adds one normalized project tag definition.
 
+## Parameters
+
 **Parameter `tag`:** The unique tag to define.
 
-**Returns:** `true` when a definition was added.
+## Returns
+
+`true` when a definition was added.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `tag` is empty or invalid.

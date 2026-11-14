@@ -12,4 +12,6 @@ apiScope: Editor
 
 Restores the control's initial domain values before discarding its transient presentation state.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Rollback is unavailable; the gesture remains owned for recovery.

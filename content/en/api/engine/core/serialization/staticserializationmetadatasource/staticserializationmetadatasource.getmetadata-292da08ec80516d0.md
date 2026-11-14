@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves a complete serialization shape for the current declaration.
 
+## Parameters
+
 **Parameter `type`:** The exact closed declaration, including its generic arguments.
 
-**Returns:** Immutable access metadata; an unsupported declaration throws instead of probing another provider.
+## Returns
+
+Immutable access metadata; an unsupported declaration throws instead of probing another provider.

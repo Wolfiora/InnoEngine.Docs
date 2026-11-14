@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Materializes the operation's declared repository inputs into an exclusively owned source workspace. Compilers and source extraction must use the returned project and root, never the mutable checkout.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels ownership acquisition or verified copying before execution ownership is returned.
 
-**Returns:** Caller-owned fixed execution inputs. Dispose only after all compiler and source consumers finish.
+## Returns
+
+Caller-owned fixed execution inputs. Dispose only after all compiler and source consumers finish.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** An input differs from its planned bytes while being copied.
 

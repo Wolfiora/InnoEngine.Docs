@@ -11,14 +11,18 @@ apiSurface: source-clr
 
 Registers a closed generic construction linked by the contributing assembly.
 
+## Parameters
+
 **Parameter `type`:** A fully closed generic type whose definition is contributed by the completed catalog.
 
 **Parameter `factory`:** Creates a new instance of the linked construction without dynamic code generation.
 
+## Exceptions
+
 **Exception `T:System.ArgumentException`:** The type is not a fully closed generic construction.
+
+**Exception `T:System.InvalidOperationException`:** The caller runs on another thread or retained this registrar after catalog composition completed.
 
 ## Remarks
 
 Repeated registrations of the same closed construction are idempotent; the first factory is retained.
-
-**Exception `T:System.InvalidOperationException`:** The caller runs on another thread or retained this registrar after catalog composition completed.

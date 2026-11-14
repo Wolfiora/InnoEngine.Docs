@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a technique pass mapping.
 
+## Parameters
+
 **Parameter `role`:** Open role defined by the technique contract.
 
 **Parameter `passName`:** Concrete pass name within the shader.

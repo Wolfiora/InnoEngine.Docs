@@ -12,7 +12,11 @@ apiScope: Runtime
 
 Adds a frame-scoped resource copy pass.
 
+## Type parameters
+
 **Type parameter `TPassData`:** Pass payload type.
+
+## Parameters
 
 **Parameter `name`:** Unique diagnostic name.
 
@@ -22,4 +26,6 @@ Adds a frame-scoped resource copy pass.
 
 **Parameter `execute`:** Command recording callback.
 
-**Returns:** A builder for copy resources and ordering.
+## Returns
+
+A builder for copy resources and ordering.

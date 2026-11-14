@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a bus identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** Non-zero backend bus identity.
 
 **Parameter `generation`:** Owning device generation.
 
-**Returns:** An opaque bus handle.
+## Returns
+
+An opaque bus handle.

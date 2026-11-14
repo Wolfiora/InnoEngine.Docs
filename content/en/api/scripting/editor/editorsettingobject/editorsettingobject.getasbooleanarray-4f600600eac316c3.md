@@ -12,8 +12,12 @@ apiScope: Editor
 
 Gets a Boolean array property, or a copied fallback when the property is absent.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `defaultValue`:** The array copied when the property is absent.
 
-**Returns:** An independently owned array.
+## Returns
+
+An independently owned array.

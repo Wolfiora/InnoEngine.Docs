@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable capability description.
 
+## Parameters
+
 **Parameter `documentLanguages`:** Explicit source languages accepted by the backend.
 
 **Parameter `supportsFontCollectionFaces`:** Whether nonzero font collection face indices can be selected.

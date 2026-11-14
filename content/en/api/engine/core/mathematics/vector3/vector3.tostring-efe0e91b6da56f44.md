@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats this value as a human-readable component list.
 
-**Returns:** The validated text representation owned by the caller.
+## Returns
+
+The validated text representation owned by the caller.

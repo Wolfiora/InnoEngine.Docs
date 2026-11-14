@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a shader compilation result.
 
+## Parameters
+
 **Parameter `artifact`:** Candidate artifact, or `null` after failure.
 
 **Parameter `diagnostics`:** Validation and compiler diagnostics.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Requests focus for a relative control position.
 
+## Parameters
+
 **Parameter `offset`:** The relative focus offset from the next submitted control.

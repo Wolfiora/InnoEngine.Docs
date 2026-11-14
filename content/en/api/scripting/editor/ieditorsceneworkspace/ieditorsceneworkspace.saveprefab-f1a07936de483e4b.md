@@ -12,10 +12,16 @@ apiScope: Editor
 
 Captures a game object subtree as a prefab in the requested directory.
 
+## Parameters
+
 **Parameter `gameObject`:** The prefab root.
 
 **Parameter `currentDirectory`:** The target asset directory.
 
-**Returns:** The saved source-relative path.
+## Returns
+
+The saved source-relative path.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown while Play Mode runtime copies are active or when the asset cannot be persisted.

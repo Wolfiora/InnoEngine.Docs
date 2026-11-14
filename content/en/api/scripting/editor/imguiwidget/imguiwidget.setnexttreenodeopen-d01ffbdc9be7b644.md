@@ -12,4 +12,6 @@ apiScope: Editor
 
 Overrides the retained expansion state of the next submitted non-leaf tree row.
 
+## Parameters
+
 **Parameter `open`:** Whether the next row should be expanded.

@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Ensures that subsequently drawn default properties belong to a framed section.
 
+## Parameters
+
 **Parameter `title`:** Title used only when the current section layout has not declared a section yet.
 
 **Parameter `description`:** Optional hover explanation for the implicit section title.
 
-**Returns:** `true` when the current section accepts content; otherwise, `false` when that section is collapsed.
+## Returns
+
+`true` when the current section accepts content; otherwise, `false` when that section is collapsed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.

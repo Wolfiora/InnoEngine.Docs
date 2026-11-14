@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers a game system instance.
 
+## Parameters
+
 **Parameter `system`:** System to register.

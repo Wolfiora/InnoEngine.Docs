@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires a canonical asset by logical path and keeps it resident until the lease is released.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Required asset contract.
+
+## Parameters
 
 **Parameter `path`:** Mount-qualified logical asset path.
 
 **Parameter `cancellationToken`:** Cancellation for this caller's asynchronous wait.
 
-**Returns:** A lease that owns residency for the canonical asset.
+## Returns
+
+A lease that owns residency for the canonical asset.

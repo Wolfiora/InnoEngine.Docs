@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable allocation snapshot scoped to one device generation.
 
+## Parameters
+
 **Parameter `deviceGeneration`:** Non-zero generation that owns the measured pools; counters restart for a new generation.
 
 **Parameter `textureAllocations`:** Successful native transient texture allocations since device creation.
@@ -18,5 +20,7 @@ Creates an immutable allocation snapshot scoped to one device generation.
 **Parameter `bufferAllocations`:** Successful native transient buffer allocations since device creation.
 
 **Parameter `frameBufferAllocations`:** Successful native transient attachment framebuffer allocations since device creation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The device generation is zero.

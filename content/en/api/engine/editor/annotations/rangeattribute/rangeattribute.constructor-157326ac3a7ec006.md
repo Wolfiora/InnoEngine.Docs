@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an inclusive numeric range.
 
+## Parameters
+
 **Parameter `minimum`:** Inclusive lower bound.
 
 **Parameter `maximum`:** Inclusive upper bound.

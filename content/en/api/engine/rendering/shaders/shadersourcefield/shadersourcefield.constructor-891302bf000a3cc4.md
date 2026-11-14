@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a structure field.
 
+## Parameters
+
 **Parameter `name`:** Stable field name.
 
 **Parameter `type`:** Complete field type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The field has void type or is an opaque storage binding.

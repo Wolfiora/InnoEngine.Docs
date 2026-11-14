@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Stops and retires one live playback slot.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle produced by this runtime generation.
 
-**Returns:** `true` when a live playback was retired; otherwise, `false`.
+## Returns
+
+`true` when a live playback was retired; otherwise, `false`.

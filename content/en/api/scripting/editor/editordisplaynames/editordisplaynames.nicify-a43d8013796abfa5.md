@@ -12,6 +12,10 @@ apiScope: Editor
 
 Converts an identifier into a readable editor label.
 
+## Parameters
+
 **Parameter `name`:** Source identifier.
 
-**Returns:** A label with identifier separators and lower-to-upper transitions spaced; empty when the input is blank.
+## Returns
+
+A label with identifier separators and lower-to-upper transitions spaced; empty when the input is blank.

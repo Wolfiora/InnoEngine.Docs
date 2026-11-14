@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Computes a hash code from the owner identity and stable path.
 
-**Returns:** A hash code consistent with reference-key equality.
+## Returns
+
+A hash code consistent with reference-key equality.

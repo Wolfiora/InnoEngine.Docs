@@ -12,8 +12,14 @@ apiScope: Editor
 
 Observes committed Apply, Undo and Redo changes through an owned Core Event hub.
 
+## Parameters
+
 **Parameter `observer`:** Synchronous callback reading the current committed settings; observer failures are logged and isolated.
 
-**Returns:** A subscription owner that must be disposed before its feature or extension generation retires.
+## Returns
+
+A subscription owner that must be disposed before its feature or extension generation retires.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The observer is null.

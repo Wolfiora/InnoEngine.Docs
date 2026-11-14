@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Copies an unmodulated style color for compound presentation.
 
+## Parameters
+
 **Parameter `color`:** The semantic style color slot.
 
-**Returns:** The copied linear vector of UI color components.
+## Returns
+
+The copied linear vector of UI color components.

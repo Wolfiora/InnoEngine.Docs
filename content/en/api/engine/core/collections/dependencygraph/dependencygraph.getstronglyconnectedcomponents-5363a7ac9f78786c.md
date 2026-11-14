@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets every strongly connected component in deterministic order.
 
-**Returns:** A stable snapshot containing cyclic components and single-node acyclic components.
+## Returns
+
+A stable snapshot containing cyclic components and single-node acyclic components.

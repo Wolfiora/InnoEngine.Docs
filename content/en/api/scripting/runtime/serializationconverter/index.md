@@ -16,4 +16,6 @@ aliases: []
 
 Defines the single advanced extension contract for serializing a specific value type.
 
+## Type parameters
+
 **Type parameter `T`:** The value contract handled by the converter.

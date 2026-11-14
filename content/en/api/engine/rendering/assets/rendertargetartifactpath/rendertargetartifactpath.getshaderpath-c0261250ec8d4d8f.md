@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Gets the relative deployment path for one target shader variant.
 
+## Parameters
+
 **Parameter `shaderId`:** The persistent shader asset identity.
 
 **Parameter `backend`:** The graphics backend selected by the target Player.
 
 **Parameter `variant`:** The canonical static keyword selection.
 
-**Returns:** A platform-neutral path beneath the runtime content root.
+## Returns
+
+A platform-neutral path beneath the runtime content root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `shaderId` is empty.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Validates the complete clip contract before import or playback.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when duration, tracks, bindings, values, or event markers are invalid.

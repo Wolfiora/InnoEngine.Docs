@@ -12,11 +12,15 @@ apiScope: Editor
 
 Creates a frame-local graph presenter over navigation owned by its document.
 
+## Parameters
+
 **Parameter `state`:** The existing neutral navigation and selection state.
 
 **Parameter `origin`:** The screen-space canvas origin.
 
 **Parameter `size`:** The finite nonnegative canvas extent.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The document-owned navigation state is null.
 

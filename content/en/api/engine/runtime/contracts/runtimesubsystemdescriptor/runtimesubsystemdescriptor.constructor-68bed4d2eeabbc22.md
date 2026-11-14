@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable runtime subsystem descriptor.
 
+## Parameters
+
 **Parameter `id`:** The unique subsystem protocol identifier.
 
 **Parameter `order`:** The deterministic tie-break order among otherwise independent subsystems.
@@ -22,5 +24,7 @@ Creates an immutable runtime subsystem descriptor.
 **Parameter `requirement`:** Whether startup must succeed or may remain explicitly unavailable after complete compensation.
 
 **Parameter `requiredCapabilities`:** Backend-neutral capabilities that composition must supply before factory creation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is invalid or a dependency is invalid, duplicated, or self-referential.

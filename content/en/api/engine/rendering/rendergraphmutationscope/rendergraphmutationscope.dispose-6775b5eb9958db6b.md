@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Ends the current scope and removes all uncommitted additions, including output and name declarations.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** A nested mutation scope must be ended first.

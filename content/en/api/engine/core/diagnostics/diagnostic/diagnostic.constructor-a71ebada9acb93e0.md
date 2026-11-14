@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a neutral diagnostic while keeping protocol, object and file identities distinct.
 
+## Parameters
+
 **Parameter `code`:** The stable issue code within its producer.
 
 **Parameter `message`:** The actionable human-readable message.
@@ -22,6 +24,8 @@ Creates a neutral diagnostic while keeping protocol, object and file identities 
 **Parameter `objectId`:** An optional persistent object identity, never a runtime handle.
 
 **Parameter `location`:** An optional actual source file location.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The code is empty or an object identity is empty.
 

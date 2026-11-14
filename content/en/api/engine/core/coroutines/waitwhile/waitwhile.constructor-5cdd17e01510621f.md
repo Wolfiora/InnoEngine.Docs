@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Waits while the predicate returns `true`.
 
+## Parameters
+
 **Parameter `predicate`:** The predicate used to initialize this instance.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Loads one explicitly tagged in-memory document.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `source`:** Tagged source or named texture source for this operation.
 
-**Returns:** A document handle owned by the supplied context.
+## Returns
+
+A document handle owned by the supplied context.

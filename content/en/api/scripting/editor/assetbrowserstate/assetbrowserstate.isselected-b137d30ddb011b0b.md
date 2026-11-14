@@ -12,8 +12,12 @@ apiScope: Editor
 
 Checks whether the source entry belongs to the current asset selection.
 
+## Parameters
+
 **Parameter `context`:** The current editor callback context.
 
 **Parameter `entry`:** The indexed source identity to inspect.
 
-**Returns:** True when the entry is selected; otherwise false.
+## Returns
+
+True when the entry is selected; otherwise false.

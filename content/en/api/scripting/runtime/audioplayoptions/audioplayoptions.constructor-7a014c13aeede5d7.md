@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates playback parameters.
 
+## Parameters
+
 **Parameter `volume`:** Linear gain applied to the voice.
 
 **Parameter `pitch`:** Playback-rate multiplier.
@@ -27,6 +29,8 @@ Creates playback parameters.
 **Parameter `loadMode`:** Clip preparation override.
 
 **Parameter `spatial`:** Optional spatial playback parameters.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Gain, pitch, or pan is non-finite or outside its valid range, or the load mode is undefined.
 

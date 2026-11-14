@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Applies provisional objects and values, resolves preserved slots, and validates the candidate before commit.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Preparation is incomplete or the caller is not the owner thread.

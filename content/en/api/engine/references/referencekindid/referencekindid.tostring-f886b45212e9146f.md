@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats the protocol identifier for diagnostics.
 
-**Returns:** The stable identifier, or `<invalid>` when empty.
+## Returns
+
+The stable identifier, or `<invalid>` when empty.

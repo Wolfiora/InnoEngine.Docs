@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a frozen analysis result.
 
+## Parameters
+
 **Parameter `text`:** Validated canonical text, or null on failure.
 
 **Parameter `diagnostics`:** Complete frontend diagnostics.

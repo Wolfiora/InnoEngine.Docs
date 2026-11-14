@@ -12,11 +12,15 @@ apiScope: Editor
 
 Draws a vertically auto-sized content region that is constrained to the current available width and cannot create an independent scroll range.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier used by ImGui to track the content region.
 
 **Parameter `drawContent`:** Callback that draws the complete region contents.
 
 **Parameter `useWindowPadding`:** Whether the region should apply the centralized standard window padding exactly once.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

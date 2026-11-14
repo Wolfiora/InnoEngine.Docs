@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets a detached copy of direct persistent asset dependencies.
 
-**Returns:** A dependency array owned by the caller.
+## Returns
+
+A dependency array owned by the caller.

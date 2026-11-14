@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an Inspector help message shown when a sibling satisfies a named condition.
 
+## Parameters
+
 **Parameter `text`:** Non-empty message text.
 
 **Parameter `conditionMember`:** Sibling field or property name.

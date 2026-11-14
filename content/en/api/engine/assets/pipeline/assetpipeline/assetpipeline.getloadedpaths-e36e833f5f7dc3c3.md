@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets isolated source paths for all canonical loaded assets.
 
-**Returns:** A stable isolated path snapshot.
+## Returns
+
+A stable isolated path snapshot.

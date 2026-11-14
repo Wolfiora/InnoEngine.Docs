@@ -12,11 +12,17 @@ apiScope: Editor
 
 Extracts one static component, structure member or array element without source-language member syntax.
 
+## Parameters
+
 **Parameter `value`:** Aggregate value from this builder.
 
 **Parameter `memberIndex`:** Zero-based member index; a matrix index selects a column vector.
 
-**Returns:** The precisely typed selected member.
+## Returns
+
+The precisely typed selected member.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The input is not an aggregate.
 

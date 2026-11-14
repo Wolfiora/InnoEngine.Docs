@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a shader diagnostic.
 
+## Parameters
+
 **Parameter `code`:** Stable diagnostic code.
 
 **Parameter `severity`:** Diagnostic severity.

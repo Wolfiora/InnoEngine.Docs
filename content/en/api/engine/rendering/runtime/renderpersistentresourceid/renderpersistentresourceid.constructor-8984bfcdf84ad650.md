@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a globally stable persistent resource identifier.
 
+## Parameters
+
 **Parameter `value`:** Provider-qualified stable identifier.

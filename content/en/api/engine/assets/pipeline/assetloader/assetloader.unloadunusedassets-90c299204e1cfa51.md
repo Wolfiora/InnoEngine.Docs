@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Collects canonical assets that have no external managed references.
 
-**Returns:** The number of released canonical assets.
+## Returns
+
+The number of released canonical assets.

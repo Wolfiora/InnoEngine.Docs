@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates and emits a deterministic runtime payload.
 
+## Parameters
+
 **Parameter `context`:** Source import context.
 
 **Parameter `output`:** Candidate writer.
@@ -21,4 +23,6 @@ Validates and emits a deterministic runtime payload.
 
 **Parameter `cancellationToken`:** Cancellation observed by artifact writes.
 
-**Returns:** An operation completing after the payload is staged.
+## Returns
+
+An operation completing after the payload is staged.

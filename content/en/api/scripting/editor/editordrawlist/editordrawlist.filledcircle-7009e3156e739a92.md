@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds a filled circle with backend-selected tessellation.
 
+## Parameters
+
 **Parameter `center`:** The screen-space center.
 
 **Parameter `radius`:** The nonnegative radius.

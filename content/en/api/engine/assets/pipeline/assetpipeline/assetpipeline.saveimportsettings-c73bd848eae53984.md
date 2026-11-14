@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Saves import settings with conflict detection and immediately attempts to reimport the source.
 
+## Parameters
+
 **Parameter `path`:** The writable isolated source path.
 
 **Parameter `settings`:** The edited settings, or null to reset to importer defaults.
 
 **Parameter `expectedFingerprint`:** The fingerprint obtained when reading the settings.
 
-**Returns:** True when settings were saved and reimport succeeded; false when the saved settings failed import.
+## Returns
+
+True when settings were saved and reimport succeeded; false when the saved settings failed import.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The settings changed externally or could not be written.

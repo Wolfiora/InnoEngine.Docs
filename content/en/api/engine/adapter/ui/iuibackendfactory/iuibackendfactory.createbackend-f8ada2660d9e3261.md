@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates one caller-owned UI backend.
 
+## Parameters
+
 **Parameter `backend`:** The selected backend implementation.
 
-**Returns:** A newly allocated UI backend.
+## Returns
+
+A newly allocated UI backend.

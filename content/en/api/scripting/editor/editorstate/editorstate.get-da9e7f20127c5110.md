@@ -12,12 +12,20 @@ apiScope: Editor
 
 Reads a compatible value or returns the caller-provided fallback.
 
+## Type parameters
+
 **Type parameter `T`:** The neutral value type expected by the caller.
+
+## Parameters
 
 **Parameter `key`:** The stable key local to the owning module or panel.
 
 **Parameter `fallback`:** The value returned when the key is absent, malformed, or incompatible with `T`.
 
-**Returns:** The stored compatible value, or `fallback`.
+## Returns
+
+The stored compatible value, or `fallback`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `key` is empty.

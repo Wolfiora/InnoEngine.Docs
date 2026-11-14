@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reflects an incident value across the supplied normal.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
 **Parameter `n`:** The surface normal used by the operation.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds this allocator to the current asynchronous execution context until the returned scope is disposed.
 
-**Returns:** A strict last-in-first-out scope owned by the caller.
+## Returns
+
+A strict last-in-first-out scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when scopes are disposed out of order.

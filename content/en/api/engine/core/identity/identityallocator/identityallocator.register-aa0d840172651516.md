@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Registers an object and assigns its session-local runtime identity.
 
+## Parameters
+
 **Parameter `obj`:** The identity object owned by this runtime session.
 
 **Parameter `persistentId`:** An optional persistent identity override. When omitted, the object's existing persistent identity is retained. An empty resolved identity is replaced with a newly generated identity.
 
-**Returns:** `true` when the object was newly registered; otherwise, `false`.
+## Returns
+
+`true` when the object was newly registered; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `obj` is null.
 

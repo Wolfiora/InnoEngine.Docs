@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores independently captured properties into a live scene object.
 
+## Parameters
+
 **Parameter `target`:** The current object generation receiving the values.
 
 **Parameter `data`:** Bytes produced by `M:Inno.Scene.ScenePropertySerialization.CaptureProperty(Inno.Scene.EngineObject,System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)` or `M:Inno.Scene.ScenePropertySerialization.CaptureProperties(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)`.
@@ -21,7 +23,11 @@ Restores independently captured properties into a live scene object.
 
 **Parameter `assets`:** The resolver used to materialize canonical asset references in restored values.
 
-**Returns:** A summary of restored, ignored, and incompatible properties.
+## Returns
+
+A summary of restored, ignored, and incompatible properties.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is `null`.
 

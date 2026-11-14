@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Loads a storage value at this exact point in the block's memory-effect sequence.
 
+## Parameters
+
 **Parameter `resource`:** A readable typed storage input.
 
 **Parameter `coordinate`:** uint buffer index; int2 image coordinate, or int3 for an image array/volume.
 
-**Returns:** The declared buffer element or float4 image value.
+## Returns
+
+The declared buffer element or float4 image value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The resource is write-only or the coordinate is incompatible.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the composition host around stable rendering and interaction services.
 
+## Parameters
+
 **Parameter `host`:** Host-owned target and opaque texture bridge.
 
 **Parameter `interactions`:** Shared Editor interaction and selection service.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates and reflection-validates a graphics pipeline at a frame safety point.
 
+## Parameters
+
 **Parameter `descriptor`:** Compiled stages, interface, layout and raster state.
 
 **Parameter `name`:** Debug and diagnostic name.
 
-**Returns:** An opaque device-generation graphics pipeline handle.
+## Returns
+
+An opaque device-generation graphics pipeline handle.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a terminal retirement failure whose owner must remain retained until host shutdown.
 
+## Parameters
+
 **Parameter `message`:** The owner and unfinished work that exceeded the deadline.
 
 **Parameter `innerException`:** The complete failure that prevented retirement, or null when no underlying exception is available.

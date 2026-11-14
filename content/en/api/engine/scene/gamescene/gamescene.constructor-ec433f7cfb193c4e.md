@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates an empty scene.
 
+## Parameters
+
 **Parameter `name`:** Initial scene name.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a persistent texture at a frame safety point.
 
+## Parameters
+
 **Parameter `descriptor`:** Texture requirements.
 
 **Parameter `name`:** Debug and diagnostic name.
 
-**Returns:** An opaque device-generation handle.
+## Returns
+
+An opaque device-generation handle.

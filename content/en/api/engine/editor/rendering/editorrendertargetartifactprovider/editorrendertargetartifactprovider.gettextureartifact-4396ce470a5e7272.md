@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Returns a matching compiled texture when available and schedules a replacement when source state changed.
 
+## Parameters
+
 **Parameter `texture`:** The imported texture asset whose authoring source is compiled.
 
 **Parameter `artifact`:** Receives the current candidate or the last-good KTX artifact while a replacement is compiling.
 
-**Returns:** `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when a current or last-good KTX artifact is usable; otherwise, the exact pending or failed state of the first candidate.
+## Returns
+
+`F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` when a current or last-good KTX artifact is usable; otherwise, the exact pending or failed state of the first candidate.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this provider has been disposed.
 

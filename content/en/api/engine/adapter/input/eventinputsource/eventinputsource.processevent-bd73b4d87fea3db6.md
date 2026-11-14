@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Dispatches one translated platform event to active session backends, honoring event consumption.
 
+## Parameters
+
 **Parameter `evnt`:** The backend-neutral event produced by a platform adapter.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `evnt` is null.
 

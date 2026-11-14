@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets one element attribute.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.
@@ -21,4 +23,6 @@ Sets one element attribute.
 
 **Parameter `value`:** New attribute value.
 
-**Returns:** True when the element exists and the attribute was assigned; false when the element is absent. This is not a comparison with the preceding value.
+## Returns
+
+True when the element exists and the attribute was assigned; false when the element is absent. This is not a comparison with the preceding value.

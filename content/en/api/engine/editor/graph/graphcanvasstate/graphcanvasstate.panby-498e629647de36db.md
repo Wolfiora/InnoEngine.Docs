@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Moves the canvas origin by screen-space pixels.
 
+## Parameters
+
 **Parameter `deltaX`:** Horizontal screen-space delta.
 
 **Parameter `deltaY`:** Vertical screen-space delta.

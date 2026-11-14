@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Starts one clip with default playback options.
 
+## Parameters
+
 **Parameter `clip`:** Valid imported animation clip.
 
-**Returns:** A generation-checked playback handle.
-
 **Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+## Returns
+
+A generation-checked playback handle.

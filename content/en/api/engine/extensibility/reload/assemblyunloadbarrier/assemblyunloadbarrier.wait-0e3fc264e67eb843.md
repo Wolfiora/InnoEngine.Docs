@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Blocks the caller until all retired generations are reclaimed, cancellation is requested, or the barrier faults.
 
+## Parameters
+
 **Parameter `cancellationToken`:** A token that can cancel the wait without changing the barrier state.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when `cancellationToken` is canceled before completion.
 

@@ -12,4 +12,6 @@ apiScope: Editor
 
 Draws the complete dockable contents of this panel for the current frame.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context containing current selection, focus, and frame state.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Evaluates the same current-generation presentation attributes used by drawing without creating any UI state.
 
+## Parameters
+
 **Parameter `owner`:** The current object declaring the property's conditional metadata.
 
 **Parameter `property`:** The root serialized property to inspect.
 
-**Returns:** Visibility and editability for this exact owner; callers must combine all selected owners before a batch edit.
+## Returns
+
+Visibility and editability for this exact owner; callers must combine all selected owners before a batch edit.

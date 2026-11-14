@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a new caller-owned presentation context over the supplied host resources.
 
+## Parameters
+
 **Parameter `options`:** Externally owned platform and rendering resources, together with the requested presentation policy.
 
-**Returns:** A new context whose caller must dispose it before releasing the supplied resources. Providers must not return null.
+## Returns
+
+A new context whose caller must dispose it before releasing the supplied resources. Providers must not return null.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The host resources or requested features are incompatible with this implementation.

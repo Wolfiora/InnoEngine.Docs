@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether an exact source language is supported.
 
+## Parameters
+
 **Parameter `language`:** Language to test.
 
-**Returns:** True when the language is registered by this backend.
+## Returns
+
+True when the language is registered by this backend.

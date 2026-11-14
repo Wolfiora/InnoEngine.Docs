@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Presents an active action at the current target location.
 
+## Parameters
+
 **Parameter `context`:** The current presentation area and target.
 
-**Returns:** `true` when the action replaced the target's normal content; otherwise, `false`.
+## Returns
+
+`true` when the action replaced the target's normal content; otherwise, `false`.

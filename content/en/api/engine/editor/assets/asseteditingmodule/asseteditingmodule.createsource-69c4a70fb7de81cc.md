@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Creates a native or ordinary-text asset source as one recoverable shared-history operation.
 
+## Parameters
+
 **Parameter `path`:** A new file in an existing writable asset directory.
 
 **Parameter `bytes`:** Complete source bytes supplied by the feature's native writer.
 
-**Returns:** The indexed source identity, even when its first import reports a source error.
+## Returns
+
+The indexed source identity, even when its first import reports a source error.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The source already exists, has no existing parent, or cannot be installed.
 

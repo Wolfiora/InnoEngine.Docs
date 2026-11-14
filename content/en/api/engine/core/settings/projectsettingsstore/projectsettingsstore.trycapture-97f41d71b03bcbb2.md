@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures one normalized Plugin setting contribution from the project-authored delta.
 
+## Parameters
+
 **Parameter `id`:** Stable setting protocol identity.
 
 **Parameter `contributorId`:** Stable identity of the Plugin being exported.
@@ -21,4 +23,6 @@ Captures one normalized Plugin setting contribution from the project-authored de
 
 **Parameter `record`:** Receives the normalized semantic contribution payload.
 
-**Returns:** `true` when the project document contains an effective semantic delta.
+## Returns
+
+`true` when the project document contains an effective semantic delta.

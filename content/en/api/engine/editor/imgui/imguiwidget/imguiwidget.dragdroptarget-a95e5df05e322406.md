@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Accepts an unmanaged payload and controls whether ImGui draws its default target rectangle.
 
+## Type parameters
+
 **Type parameter `TPayload`:** Unmanaged payload type.
+
+## Parameters
 
 **Parameter `payloadType`:** Stable ImGui payload type identifier.
 
@@ -21,4 +25,6 @@ Accepts an unmanaged payload and controls whether ImGui draws its default target
 
 **Parameter `drawDefaultHighlight`:** Whether ImGui draws its default target rectangle.
 
-**Returns:** `true` only when a compatible payload is delivered.
+## Returns
+
+`true` only when a compatible payload is delivered.

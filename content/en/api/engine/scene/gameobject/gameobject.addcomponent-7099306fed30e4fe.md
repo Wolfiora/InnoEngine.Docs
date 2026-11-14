@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates and attaches a component of the requested type.
 
+## Type parameters
+
 **Type parameter `TComponent`:** Concrete component type.
 
-**Returns:** The attached component.
+## Returns
+
+The attached component.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether this instance is equal to another matrix.
 
+## Parameters
+
 **Parameter `other`:** Other matrix.
 
-**Returns:** `true` if equal.
+## Returns
+
+`true` if equal.

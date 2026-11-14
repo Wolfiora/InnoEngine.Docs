@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates a dynamic menu-source registration for an exact interaction surface.
 
+## Parameters
+
 **Parameter `area`:** The exact menu area that receives placements from the source.
 
 **Parameter `priority`:** The ordering priority used when multiple dynamic sources contribute to the surface.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `area` is empty.

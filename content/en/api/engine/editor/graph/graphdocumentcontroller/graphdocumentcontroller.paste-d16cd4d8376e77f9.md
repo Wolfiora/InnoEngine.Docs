@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Pastes a clipboard fragment with new stable identities and a graph-space offset.
 
+## Parameters
+
 **Parameter `clipboard`:** Detached neutral fragment.
 
 **Parameter `offset`:** Offset added to every copied node position.
 
-**Returns:** New node identities in clipboard document order.
-
 **Parameter `remapNode`:** Optional synchronous domain remapping of neutral node values after identity allocation. The callback is never stored in History.
+
+## Returns
+
+New node identities in clipboard document order.

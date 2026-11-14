@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Stores one decoded frame-scoped graph identity for use inside a concrete backend.
 
+## Parameters
+
 **Parameter `index`:** The zero-based logical resource index.
 
 **Parameter `generation`:** The render-graph generation that owns the resource.

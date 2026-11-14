@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Identifies one component-local root without exposing a generator-specific contract.
 
+## Parameters
+
 **Parameter `id`:** An ordinal identity scoped to this component's selected generation.
 
 **Parameter `directory`:** The checkout-relative or absolute external location; empty for generated output.

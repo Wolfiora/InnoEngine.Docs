@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Captures immutable root identities without retaining their live objects or registry.
 
+## Parameters
+
 **Parameter `contents`:** Registered identities in deterministic root order.
 
 **Parameter `activeContent`:** The optional persistent identity of the primary root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A root is detached, duplicated, or the active root is not present.

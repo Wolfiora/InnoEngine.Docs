@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates one ordered source-language transformer declaration.
 
+## Parameters
+
 **Parameter `id`:** Stable extension identity used for diagnostics and ordering.

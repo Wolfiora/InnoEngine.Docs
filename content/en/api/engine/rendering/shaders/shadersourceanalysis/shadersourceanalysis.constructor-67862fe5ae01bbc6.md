@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a completed analysis without retaining compiler objects.
 
+## Parameters
+
 **Parameter `function`:** Parsed interface, or null when parsing failed.
 
 **Parameter `dependencies`:** Resolved included sources, excluding the root.

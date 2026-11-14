@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Atomically replaces a complete value.
 
+## Parameters
+
 **Parameter `key`:** The sandbox-relative storage key.
 
 **Parameter `value`:** The complete value to commit.
 
 **Parameter `cancellationToken`:** Cancellation requested by the caller.
 
-**Returns:** A task that completes after commit.
+## Returns
+
+A task that completes after commit.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a render runtime without installing any concrete pipeline.
 
+## Parameters
+
 **Parameter `device`:** Active backend-neutral device.
 
 **Parameter `types`:** The type catalog that owns render extension generations.
@@ -25,8 +27,6 @@ Creates a render runtime without installing any concrete pipeline.
 
 **Parameter `primaryPresentationViewportProvider`:** Optional host callback that selects the content region within the primary presentation surface. The complete surface is used when omitted.
 
-**Exception `T:System.ArgumentException`:** The contributor sequence contains a null entry or the same contributor more than once. No rendering generation is registered in this case.
-
 **Parameter `resourceLimits`:** Finite native cache and asynchronous readback limits; omitted values use the engine defaults.
 
 **Parameter `inputSnapshotProvider`:** Optional host callback that reads the completed session input snapshot when output is collected.
@@ -34,3 +34,7 @@ Creates a render runtime without installing any concrete pipeline.
 **Parameter `primaryInputSurfaceSizeProvider`:** Optional logical input extent used for pointer scaling; returns null while input has no surface.
 
 **Parameter `compositionProgramProvider`:** Backend-specific program provider used when the host composites multiple render layers.
+
+## Exceptions
+
+**Exception `T:System.ArgumentException`:** The contributor sequence contains a null entry or the same contributor more than once. No rendering generation is registered in this case.

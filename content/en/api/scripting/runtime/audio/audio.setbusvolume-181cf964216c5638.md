@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Updates linear gain for a semantic mixer bus.
 
+## Parameters
+
 **Parameter `bus`:** Stable bus identifier.
 
 **Parameter `volume`:** Non-negative linear gain.
 
-**Returns:** `true` when the bus exists and was updated.
+## Returns
+
+`true` when the bus exists and was updated.

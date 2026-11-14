@@ -12,8 +12,12 @@ apiScope: Editor
 
 Tries to resolve a standalone texture preview without blocking target compilation.
 
+## Parameters
+
 **Parameter `texture`:** Texture asset to preview.
 
 **Parameter `handle`:** Receives a generation-scoped handle when ready.
 
-**Returns:** `true` when the preview is ready.
+## Returns
+
+`true` when the preview is ready.

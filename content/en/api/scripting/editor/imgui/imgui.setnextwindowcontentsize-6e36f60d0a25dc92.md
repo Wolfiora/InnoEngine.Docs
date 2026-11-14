@@ -12,4 +12,6 @@ apiScope: Editor
 
 Declares virtual content size for the next scrollable window.
 
+## Parameters
+
 **Parameter `size`:** The explicit two-dimensional extent.

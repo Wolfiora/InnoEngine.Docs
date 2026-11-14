@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the declared native owner within an explicitly supplied checkout.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute operation-owned checkout.
 
-**Returns:** The absolute native project directory, without creating it.
+## Returns
+
+The absolute native project directory, without creating it.

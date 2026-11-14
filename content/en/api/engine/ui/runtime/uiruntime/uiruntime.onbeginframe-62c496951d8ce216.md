@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the input service snapshot and binds script-facing UI for the complete runtime frame.
 
+## Parameters
+
 **Parameter `frame`:** The current runtime frame.

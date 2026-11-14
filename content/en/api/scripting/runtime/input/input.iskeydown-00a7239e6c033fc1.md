@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether a key is currently held.
 
+## Parameters
+
 **Parameter `key`:** The backend-neutral physical key.
 
-**Returns:** `true` when the key is held.
+## Returns
+
+`true` when the key is held.

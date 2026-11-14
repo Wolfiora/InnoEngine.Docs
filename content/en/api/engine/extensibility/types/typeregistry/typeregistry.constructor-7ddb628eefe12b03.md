@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Creates and registers a refreshable type registry.
 
+## Parameters
+
 **Parameter `types`:** The type catalog that coordinates this registry's candidate generations.
 
 **Parameter `retirementTimeout`:** The positive owner-thread drain deadline; omitted values use thirty seconds.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `types` is null.
 

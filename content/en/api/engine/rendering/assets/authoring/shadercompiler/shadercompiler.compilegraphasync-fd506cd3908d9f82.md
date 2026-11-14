@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Compiles an immutable import or preview candidate without reading or mutating a canonical Shader asset.
 
+## Parameters
+
 **Parameter `artifact`:** Frozen target-expanded graph and source bundles.
 
 **Parameter `target`:** Target policy and capabilities.
@@ -25,4 +27,6 @@ Compiles an immutable import or preview candidate without reading or mutating a 
 
 **Parameter `cancellationToken`:** Cancellation of this candidate.
 
-**Returns:** A complete immutable compilation result, never published by this method.
+## Returns
+
+A complete immutable compilation result, never published by this method.

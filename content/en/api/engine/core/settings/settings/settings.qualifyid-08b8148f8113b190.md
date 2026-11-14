@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates one complete project identity from a display or local name.
 
+## Parameters
+
 **Parameter `name`:** The project-local name.
 
-**Returns:** The canonical `projectId.name` identity.
+## Returns
+
+The canonical `projectId.name` identity.

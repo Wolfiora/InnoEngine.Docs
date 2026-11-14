@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Hashes the domain-qualified runtime destination.
 
-**Returns:** A hash consistent with destination equality.
+## Returns
+
+A hash consistent with destination equality.

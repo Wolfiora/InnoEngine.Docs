@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether this model accepts the session's content.
 
+## Parameters
+
 **Parameter `session`:** Host output session.
 
-**Returns:** Whether the model can render the selected content.
+## Returns
+
+Whether the model can render the selected content.

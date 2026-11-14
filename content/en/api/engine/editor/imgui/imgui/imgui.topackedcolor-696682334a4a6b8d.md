@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts a floating-point RGBA color to Dear ImGui packed color order.
 
-**Returns:** The packed color value.
+## Returns
+
+The packed color value.
+
+## Parameters
 
 **Parameter `color`:** The color consumed by to packed color; ownership remains with the caller unless explicitly stated otherwise.

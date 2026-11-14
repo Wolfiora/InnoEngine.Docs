@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to load a canonical asset by isolated source path.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 
 **Parameter `asset`:** The canonical asset when successful.
 
-**Returns:** `true` when a compatible asset was loaded.
+## Returns
+
+`true` when a compatible asset was loaded.

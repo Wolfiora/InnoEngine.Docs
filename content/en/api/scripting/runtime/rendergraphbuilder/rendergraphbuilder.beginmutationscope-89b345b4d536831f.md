@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Begins an isolated graph mutation that rolls back every added pass and resource unless committed.
 
-**Returns:** A mutation scope used by reloadable features and other failure-isolated producers.
+## Returns
+
+A mutation scope used by reloadable features and other failure-isolated producers.

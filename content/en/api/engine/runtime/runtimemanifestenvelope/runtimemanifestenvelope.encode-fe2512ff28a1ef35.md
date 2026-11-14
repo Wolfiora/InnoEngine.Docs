@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Encodes a validated runtime manifest into the strict deployment envelope.
 
+## Parameters
+
 **Parameter `manifest`:** The manifest whose application identity and serialized payload must agree.
 
 **Parameter `serialization`:** The immutable converter generation captured for the surrounding build transaction.
 
-**Returns:** The complete deterministic deployment envelope.
+## Returns
+
+The complete deterministic deployment envelope.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `manifest` is `null`.
 

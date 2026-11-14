@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Collects unreachable content-addressed artifacts.
 
+## Parameters
+
 **Parameter `gracePeriod`:** The minimum age of an unreachable bundle.
 
 **Parameter `maximumSizeBytes`:** The cache size limit, or zero for no limit.
 
-**Returns:** The number of removed artifact bundles.
+## Returns
+
+The number of removed artifact bundles.

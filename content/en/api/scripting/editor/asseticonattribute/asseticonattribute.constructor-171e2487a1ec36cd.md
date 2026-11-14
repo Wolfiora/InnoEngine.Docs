@@ -12,10 +12,14 @@ apiScope: Editor
 
 Creates an icon declaration for files ending with a source extension.
 
+## Parameters
+
 **Parameter `extension`:** The simple or compound file extension. A leading period is optional and matching is case-insensitive.
 
 **Parameter `icon`:** The Editor icon glyph to render.
 
 **Parameter `priority`:** The tie-breaking priority after extension specificity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `extension` is empty or contains a path separator, or when `icon` is empty.

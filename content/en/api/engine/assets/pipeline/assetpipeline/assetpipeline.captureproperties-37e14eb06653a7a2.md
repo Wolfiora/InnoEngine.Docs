@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Captures native settings and nested asset dependencies through this explicit authoring owner.
 
+## Type parameters
+
 **Type parameter `TValue`:** Current settings type.
+
+## Parameters
 
 **Parameter `value`:** Typed settings, never retained by the returned snapshot.
 
-**Returns:** Complete stable properties and dependencies without writing or importing an asset.
+## Returns
+
+Complete stable properties and dependencies without writing or importing an asset.

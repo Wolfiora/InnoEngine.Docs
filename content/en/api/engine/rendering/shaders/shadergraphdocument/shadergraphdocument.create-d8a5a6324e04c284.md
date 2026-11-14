@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an empty graph with a source-free shader contract; incomplete graphs remain serializable.
 
+## Parameters
+
 **Parameter `definition`:** Material parameters, techniques and pass state.
 
 **Parameter `serialization`:** The owner converter registry.
 
 **Parameter `context`:** The complete owner reference context.
 
-**Returns:** A detached graph ready for authoring.
+## Returns
+
+A detached graph ready for authoring.

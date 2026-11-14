@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a bounded slider with compact presentation and a double-click precise input mode.
 
+## Parameters
+
 **Parameter `label`:** Stable ImGui label and identifier.
 
 **Parameter `value`:** Exact floating-point value to edit. Compact presentation never rounds the stored value.
@@ -19,4 +21,6 @@ Draws a bounded slider with compact presentation and a double-click precise inpu
 
 **Parameter `maximum`:** Inclusive upper bound.
 
-**Returns:** `true` when the exact value changed.
+## Returns
+
+`true` when the exact value changed.

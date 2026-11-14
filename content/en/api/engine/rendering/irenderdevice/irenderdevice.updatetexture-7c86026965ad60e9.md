@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces one complete mip and addressable layer, slice, or cubemap face.
 
+## Parameters
+
 **Parameter `texture`:** Texture owned by this device generation.
 
 **Parameter `data`:** Tightly packed complete subresource bytes.

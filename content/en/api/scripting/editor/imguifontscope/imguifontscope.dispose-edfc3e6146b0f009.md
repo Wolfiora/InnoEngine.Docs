@@ -12,4 +12,6 @@ apiScope: Editor
 
 Restores the preceding font after validating scope order; default and retired scopes are inert.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** The scope is used in another context, frame or stack position.

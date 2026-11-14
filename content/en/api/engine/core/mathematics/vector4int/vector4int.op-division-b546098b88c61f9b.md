@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Divides the supplied value by the scalar divisor component by component.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
 **Parameter `s`:** The s consumed by /; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated vector4int that represents the completed operation.
+## Returns
+
+The validated vector4int that represents the completed operation.

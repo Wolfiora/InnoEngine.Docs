@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a local Plugin source service.
 
+## Parameters
+
 **Parameter `serialization`:** The serialization registry used to read the current Plugin manifest contract.
 
 **Parameter `pluginRoot`:** Project Plugins directory containing `.iplugin` packages.

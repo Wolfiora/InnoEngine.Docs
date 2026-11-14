@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a shader definition.
 
+## Parameters
+
 **Parameter `name`:** Artist-facing shader name.
 
 **Parameter `properties`:** Stable property declarations.

@@ -12,4 +12,6 @@ apiScope: Editor
 
 Builds searchable commands from this area's menus and applicable unplaced Actions.
 
-**Returns:** Current command states and neutral placement arguments; execution revalidates their targets.
+## Returns
+
+Current command states and neutral placement arguments; execution revalidates their targets.

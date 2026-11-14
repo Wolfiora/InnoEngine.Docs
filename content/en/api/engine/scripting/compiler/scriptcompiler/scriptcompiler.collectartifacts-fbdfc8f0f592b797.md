@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes unreferenced compiler generations while retaining the supplied active directories.
 
+## Parameters
+
 **Parameter `retainedDirectories`:** The generation directories that remain reachable from active runtime sessions.
 
-**Returns:** The number of obsolete generation directories removed from the compiler cache.
+## Returns
+
+The number of obsolete generation directories removed from the compiler cache.

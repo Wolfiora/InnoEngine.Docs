@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Removes all values before this object enters a submitted request.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown after the data has entered a request.

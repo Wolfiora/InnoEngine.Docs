@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the square icon interaction size shared by dock-header close controls and compact editor icons.
 
-**Returns:** A square size based on the current ImGui font size.
+## Returns
+
+A square size based on the current ImGui font size.

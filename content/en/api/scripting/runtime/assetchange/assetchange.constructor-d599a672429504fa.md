@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an asset change descriptor.
 
+## Parameters
+
 **Parameter `kind`:** Committed change kind.
 
 **Parameter `persistentId`:** Persistent identity affected by the change, or empty for a catalog-wide change.

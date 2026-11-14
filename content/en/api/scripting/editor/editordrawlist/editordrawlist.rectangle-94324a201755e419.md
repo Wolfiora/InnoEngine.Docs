@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds a rectangular outline.
 
+## Parameters
+
 **Parameter `minimum`:** The upper-left corner.
 
 **Parameter `maximum`:** The lower-right corner.

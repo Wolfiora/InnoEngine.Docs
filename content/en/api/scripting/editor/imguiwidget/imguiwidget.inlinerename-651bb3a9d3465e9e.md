@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a compact single-line rename editor inside an existing row.
 
+## Parameters
+
 **Parameter `id`:** The stable control identifier.
 
 **Parameter `text`:** The mutable text buffer.
@@ -24,7 +26,11 @@ Draws a compact single-line rename editor inside an existing row.
 
 **Parameter `width`:** The control width, or a negative value to fill the available space.
 
-**Returns:** The current rename outcome.
+## Returns
+
+The current rename outcome.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the current execution machine when this provider supports it.
 
-**Returns:** The immutable host, or null when the current machine is outside this provider's capabilities.
+## Returns
+
+The immutable host, or null when the current machine is outside this provider's capabilities.

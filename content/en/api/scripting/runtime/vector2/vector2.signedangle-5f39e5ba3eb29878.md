@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Calculates the signed angle in radians from one value to another.
 
+## Parameters
+
 **Parameter `from`:** The starting value used by the operation.
 
 **Parameter `to`:** The destination value used by the operation.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

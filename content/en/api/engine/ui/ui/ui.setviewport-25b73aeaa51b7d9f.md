@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Changes one context's pixel dimensions and density.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `width`:** The width in logical units or pixels required by this operation.

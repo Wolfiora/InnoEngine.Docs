@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Gets whether the compiled program actively consumes one declared binding.
 
+## Parameters
+
 **Parameter `binding`:** Stable binding declared by the shader contract.
 
 **Parameter `kind`:** Expected command-binding domain.
 
-**Returns:** `true` when the final compiled pass reflects the binding; otherwise, `false` when the compiler proved the declared binding unused and removed it.
+## Returns
+
+`true` when the final compiled pass reflects the binding; otherwise, `false` when the compiler proved the declared binding unused and removed it.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The binding is not declared by the shader, or its declared kind differs from `kind`.

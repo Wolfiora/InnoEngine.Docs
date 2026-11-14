@@ -12,6 +12,10 @@ apiScope: Editor
 
 Begins an atomic group of neutral history operations.
 
+## Parameters
+
 **Parameter `name`:** The user-facing grouped operation name.
 
-**Returns:** A transaction that must be committed or rolled back.
+## Returns
+
+A transaction that must be committed or rolled back.

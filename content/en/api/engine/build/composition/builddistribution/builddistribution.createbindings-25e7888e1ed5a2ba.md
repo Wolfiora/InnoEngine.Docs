@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Creates platform targets and validates their identities and default deployment capabilities.
 
+## Parameters
+
 **Parameter `assets`:** The active borrowed authoring asset owner.
 
 **Parameter `serialization`:** The matching borrowed serialization registry.
 
 **Parameter `types`:** The matching borrowed extension catalog.
 
-**Returns:** An immutable target collection ready for pipeline construction.
+## Returns
+
+An immutable target collection ready for pipeline construction.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A factory returns no target, targets disagree with Support Pack identities, or a default managed deployment cannot publish its platform.

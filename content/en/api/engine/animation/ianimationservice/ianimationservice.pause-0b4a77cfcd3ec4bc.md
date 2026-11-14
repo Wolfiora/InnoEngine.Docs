@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Pauses one live playback at its current position.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle from this runtime generation.
 
-**Returns:** `true` when the playback state changed.
+## Returns
+
+`true` when the playback state changed.

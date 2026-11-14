@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an exception for one unresolved serialized scene type.
 
+## Parameters
+
 **Parameter `stableTypeId`:** The stable identity stored by the serialized scene element.
 
 **Parameter `elementKind`:** The human-readable scene element kind, such as component or system.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `stableTypeId` is empty or `elementKind` is empty.

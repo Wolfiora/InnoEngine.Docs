@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Gets an enumerable collection that contains the values in the read-only dictionary.
 
-**Returns:** An enumerable collection that contains the values in the read-only dictionary.
+## Returns
+
+An enumerable collection that contains the values in the read-only dictionary.
 
 ## Remarks
 
 Neither the returned sequence nor its descriptors extend the lifetime of reading protection.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.

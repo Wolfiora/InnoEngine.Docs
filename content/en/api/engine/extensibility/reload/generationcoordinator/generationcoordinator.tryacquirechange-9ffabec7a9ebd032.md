@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Tries to reserve exclusive owner-controlled publication without disturbing active read leases.
 
+## Parameters
+
 **Parameter `operation`:** The operation name used when a terminal failure rejects admission.
 
 **Parameter `reservation`:** Receives the exclusive reservation, or null when the caller must defer mutation.
 
-**Returns:** True only when no reader, generation change or retirement is active.
+## Returns
+
+True only when no reader, generation change or retirement is active.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The generation owner is Faulted and requires a host restart.

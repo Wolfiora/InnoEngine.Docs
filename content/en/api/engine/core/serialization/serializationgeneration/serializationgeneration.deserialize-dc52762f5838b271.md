@@ -11,12 +11,20 @@ apiSurface: source-clr
 
 Deserializes a complete root object using the converter generation captured by this instance.
 
+## Type parameters
+
 **Type parameter `T`:** The concrete root type to create.
+
+## Parameters
 
 **Parameter `bytes`:** Deterministic binary data containing the root object.
 
 **Parameter `context`:** Optional immutable converter context for this operation.
 
-**Returns:** The restored root object.
+## Returns
+
+The restored root object.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this generation has already been disposed.

@@ -12,10 +12,14 @@ apiScope: Editor
 
 Begins one closeable tab item.
 
+## Parameters
+
 **Parameter `label`:** The tab label and identity.
 
 **Parameter `isOpen`:** Receives whether the tab remains open.
 
 **Parameter `flags`:** Tab-item behavior.
 
-**Returns:** `true` when tab contents should be submitted.
+## Returns
+
+`true` when tab contents should be submitted.

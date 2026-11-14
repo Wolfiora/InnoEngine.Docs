@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves the unique active subsystem that implements the requested contract.
 
+## Type parameters
+
 **Type parameter `TFeature`:** The subsystem contract or concrete subsystem type required by the composition root.
 
-**Returns:** The unique compatible subsystem owned by this pipeline.
+## Returns
+
+The unique compatible subsystem owned by this pipeline.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no compatible subsystem exists or more than one compatible subsystem is active.
 

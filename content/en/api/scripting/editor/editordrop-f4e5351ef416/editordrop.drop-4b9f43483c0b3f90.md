@@ -12,6 +12,10 @@ apiScope: Editor
 
 Validates and applies the current editor drag-and-drop interaction atomically.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
-**Returns:** The validated editor drop result that represents the completed operation.
+## Returns
+
+The validated editor drop result that represents the completed operation.

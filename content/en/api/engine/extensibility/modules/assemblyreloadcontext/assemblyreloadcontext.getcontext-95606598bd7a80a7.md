@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets a context contributed by a registered catalog participant.
 
+## Type parameters
+
 **Type parameter `TContext`:** The requested participant context type.
 
-**Returns:** The matching context.
+## Returns
+
+The matching context.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no participant supplied the requested context or the reload has completed.

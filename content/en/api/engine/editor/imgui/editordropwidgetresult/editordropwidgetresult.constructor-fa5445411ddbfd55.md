@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a combined native-preview and managed-drop result.
 
+## Parameters
+
 **Parameter `isPreviewing`:** Whether a compatible native payload is currently hovering the target.
 
 **Parameter `status`:** The compatibility and visual state returned by the managed drop router.

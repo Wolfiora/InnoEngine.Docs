@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures the checkout and host from which project-scoped tools are resolved.
 
+## Parameters
+
 **Parameter `engineRoot`:** The complete checkout to inspect without modifying publication output.
 
 **Parameter `dotnetHost`:** The explicitly selected managed host executable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A required input is blank.

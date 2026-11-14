@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Creates a compiler over explicit authoring services owned by one host.
 
+## Parameters
+
 **Parameter `options`:** The project and derived-cache locations used by compilation.
 
 **Parameter `assets`:** The authoring asset pipeline supplying committed source artifacts.
 
 **Parameter `plugins`:** The Plugin environment supplying the candidate Plugin source generation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when an owner argument is `null`.
 

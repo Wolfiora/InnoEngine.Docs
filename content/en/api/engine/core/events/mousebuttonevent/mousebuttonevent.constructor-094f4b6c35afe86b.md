@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Base class for mouse button events.
 
+## Parameters
+
 **Parameter `windowId`:** The window id used to initialize this instance.
 
 **Parameter `button`:** The button used to initialize this instance.

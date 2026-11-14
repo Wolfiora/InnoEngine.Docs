@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a scene reload service bound to one serialization generation owner.
 
+## Parameters
+
 **Parameter `serialization`:** The serialization registry used to capture and restore scene state.
 
 **Parameter `world`:** The isolated scene world whose active generation is captured.
 
 **Parameter `assets`:** The asset reference generation used throughout capture, activation, and rollback.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `world`, `serialization`, or `assets` is null.

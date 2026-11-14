@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Verifies the exact bytes at original or remapped roots before their use.
 
+## Parameters
+
 **Parameter `resolveRoot`:** Resolves a root identity to the selected physical or copied directory.
 
 **Parameter `cancellationToken`:** Cancels verification without publishing a result.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A required file has a different length or digest.
 

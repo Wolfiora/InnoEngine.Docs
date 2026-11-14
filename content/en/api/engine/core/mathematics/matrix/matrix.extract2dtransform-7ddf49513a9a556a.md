@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Extracts the 2D-affine portion of a matrix (XY basis + XY translation).
 
+## Parameters
+
 **Parameter `m`:** Source matrix.
 
-**Returns:** A matrix representing the 2D transform embedded in `m`.
+## Returns
+
+A matrix representing the 2D transform embedded in `m`.

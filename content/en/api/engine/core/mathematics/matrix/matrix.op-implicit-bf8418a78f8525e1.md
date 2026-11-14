@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts to `T:System.Numerics.Matrix4x4` preserving element order. System.Numerics assumes row-major with row vectors, so transpose as needed for column-vector usage.
 
+## Parameters
+
 **Parameter `m`:** Source matrix.
 
-**Returns:** The validated system.numerics.matrix4x4 that represents the completed operation.
+## Returns
+
+The validated system.numerics.matrix4x4 that represents the completed operation.

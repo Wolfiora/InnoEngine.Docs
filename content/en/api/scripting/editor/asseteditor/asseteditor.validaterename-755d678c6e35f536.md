@@ -12,8 +12,12 @@ apiScope: Editor
 
 Validates a requested asset move before the AssetPipeline transaction begins.
 
+## Parameters
+
 **Parameter `context`:** The immutable snapshot of the source entry before the move.
 
 **Parameter `targetPath`:** The normalized source-relative destination path.
 
-**Returns:** A valid result when the transaction may proceed, or a diagnostic describing the rejection.
+## Returns
+
+A valid result when the transaction may proceed, or a diagnostic describing the rejection.

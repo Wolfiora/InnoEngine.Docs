@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Resolves reusable resources before render graph execution.
 
+## Parameters
+
 **Parameter `context`:** Active pipeline build context.
 
 **Parameter `view`:** View that will draw this item.
 
 **Parameter `prepared`:** Prepared frame-local draw when resources are available.
 
-**Returns:** Whether the drawable is ready for this pass.
+## Returns
+
+Whether the drawable is ready for this pass.

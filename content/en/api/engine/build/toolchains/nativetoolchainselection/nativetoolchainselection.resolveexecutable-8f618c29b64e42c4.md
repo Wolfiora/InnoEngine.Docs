@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves an executable from the frozen selection rather than a mutable process PATH.
 
+## Parameters
+
 **Parameter `name`:** The explicit command registered by the platform provider.
 
-**Returns:** The selected executable; an absent command fails immediately.
+## Returns
+
+The selected executable; an absent command fails immediately.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The provider did not register the requested command.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Finds the first game object assigned to a layer in scene storage order.
 
+## Parameters
+
 **Parameter `layer`:** The layer slot to find.
 
-**Returns:** The first matching game object, or `null` when no object matches.
+## Returns
+
+The first matching game object, or `null` when no object matches.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Takes ownership of a complete native and binding closure.
 
+## Parameters
+
 **Parameter `products`:** Owned products in dependency order.
 
 **Parameter `bindings`:** The owned matching binding batch.

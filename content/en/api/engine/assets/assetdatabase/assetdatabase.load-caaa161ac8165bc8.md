@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Loads the canonical asset at one catalog path.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required runtime asset contract.
+
+## Parameters
 
 **Parameter `path`:** The mount-qualified logical catalog path.
 
-**Returns:** The canonical asset instance owned by this database.
+## Returns
+
+The canonical asset instance owned by this database.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no asset exists at the path or its concrete type is incompatible with `TAsset`.
 

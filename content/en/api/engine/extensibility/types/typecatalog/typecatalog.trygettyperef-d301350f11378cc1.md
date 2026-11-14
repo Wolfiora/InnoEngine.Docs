@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the reference for an active CLR type.
 
+## Parameters
+
 **Parameter `type`:** The active CLR type.
 
 **Parameter `typeRef`:** Receives its logical and generation-local identity.
 
-**Returns:** `true` when the type belongs to the active catalog.
+## Returns
+
+`true` when the type belongs to the active catalog.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Qualifies a display name under the current project identifier.
 
+## Parameters
+
 **Parameter `name`:** The project-local display name.
 
-**Returns:** The complete project-scoped identity.
+## Returns
+
+The complete project-scoped identity.

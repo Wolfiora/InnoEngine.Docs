@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures an immutable snapshot of the current observable state.
 
+## Parameters
+
 **Parameter `state`:** The lifecycle or domain state applied by this operation.

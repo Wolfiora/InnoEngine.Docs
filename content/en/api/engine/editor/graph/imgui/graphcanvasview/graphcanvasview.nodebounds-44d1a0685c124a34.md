@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Projects neutral node geometry, optionally substituting a transient drag position.
 
+## Parameters
+
 **Parameter `node`:** The immutable display node.
 
 **Parameter `previewPosition`:** An uncommitted gesture position, or null to use the document position.
 
-**Returns:** The screen-space node bounds.
+## Returns
+
+The screen-space node bounds.

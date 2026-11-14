@@ -12,6 +12,8 @@ apiScope: Editor
 
 Applies a property mutation and records it when the owning feature observes a value change.
 
+## Parameters
+
 **Parameter `owner`:** The domain object that owns the root serialized property.
 
 **Parameter `propertyName`:** The exact root serialized member name.
@@ -24,7 +26,11 @@ Applies a property mutation and records it when the owning feature observes a va
 
 **Parameter `componentName`:** An optional public value component; null replaces the complete root value.
 
-**Returns:** `true` when the value changed and the owning feature recorded the edit; otherwise, `false`.
+## Returns
+
+`true` when the value changed and the owning feature recorded the edit; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `owner` or `mutation` is `null`.
 

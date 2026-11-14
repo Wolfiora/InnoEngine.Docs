@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a layer with the supplied diagnostic name.
 
+## Parameters
+
 **Parameter `name`:** The non-empty name used to identify the layer in diagnostics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `name` is empty or consists only of whitespace.

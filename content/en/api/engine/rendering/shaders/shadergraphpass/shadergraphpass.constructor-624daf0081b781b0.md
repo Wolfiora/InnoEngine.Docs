@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a pass's ordered typed stages.
 
+## Parameters
+
 **Parameter `name`:** Exact pass identity in the program contract.
 
 **Parameter `stages`:** Complete raster or compute stage set.

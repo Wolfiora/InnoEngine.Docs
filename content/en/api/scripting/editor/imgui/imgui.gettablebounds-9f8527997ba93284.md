@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets the table and current row bounds needed by row overlays.
 
-**Returns:** The table's horizontal bounds and current row's vertical bounds.
+## Returns
+
+The table's horizontal bounds and current row's vertical bounds.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No valid drawing frame or active table exists.

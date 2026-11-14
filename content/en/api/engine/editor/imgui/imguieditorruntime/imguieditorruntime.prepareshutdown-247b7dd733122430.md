@@ -15,4 +15,6 @@ Freezes automatic extension-state persistence and writes the final project state
 
 This operation is idempotent and prevents module teardown from overwriting the saved module sections with transient empty state.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after this runtime has been disposed.

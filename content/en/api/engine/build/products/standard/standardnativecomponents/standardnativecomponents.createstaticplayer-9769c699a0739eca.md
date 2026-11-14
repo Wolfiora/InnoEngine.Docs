@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Declares the real static component closure consumed by an explicit aggregate executor.
 
-**Returns:** A Player closure with static recipes and no unused standalone producers.
+## Returns
+
+A Player closure with static recipes and no unused standalone producers.
+
+## Parameters
 
 **Parameter `options`:** The platform-owned configuration for each named component.
 

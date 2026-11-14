@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Captures presentation state before submitting content. Content-sized windows prepare before opening; explicitly sized resizable windows prepare after current input establishes their content bounds.
 
+## Parameters
+
 **Parameter `context`:** The owner-thread editor context for this frame.
 
 **Parameter `availableContentSize`:** The bounded content area in current presentation coordinates, already scaled.
 
-**Returns:** The required content size, or null for an explicitly sized window.
+## Returns
+
+The required content size, or null for an explicitly sized window.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The context is null.
 

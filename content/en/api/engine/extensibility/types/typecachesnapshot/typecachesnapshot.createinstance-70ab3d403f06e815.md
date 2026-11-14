@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Constructs a declared type through this generation's selected metadata source.
 
+## Parameters
+
 **Parameter `type`:** A declaration in this snapshot, or a closed construction of its registered generic declaration.
 
-**Returns:** The new instance owned by the caller.
+## Returns
+
+The new instance owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The reference does not resolve or its deployment does not provide a factory.

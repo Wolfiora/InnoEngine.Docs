@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates one isolated backend that receives subsequent events from this source.
 
-**Returns:** A caller-owned backend whose disposal unregisters it from this source.
+## Returns
+
+A caller-owned backend whose disposal unregisters it from this source.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this source has been disposed.

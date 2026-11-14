@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates a native build settings document without changing the active file.
 
+## Parameters
+
 **Parameter `document`:** The document payload to inspect.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the document is malformed.

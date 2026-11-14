@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Exports the current source-free runtime catalog and its exact artifact closure.
 
+## Parameters
+
 **Parameter `destinationContentRoot`:** Empty destination for the deployed asset database.
 
-**Returns:** Counts and source identities for the deployed runtime snapshot.
+## Returns
+
+Counts and source identities for the deployed runtime snapshot.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when runtime artifacts are incomplete, a deployed reference is authoring-only, or a transitive authoring input has failed or changed since import. Last-good inputs do not certify an export.
 

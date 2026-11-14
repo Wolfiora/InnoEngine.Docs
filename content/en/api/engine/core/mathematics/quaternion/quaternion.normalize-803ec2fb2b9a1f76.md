@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns a unit-length value while handling degenerate input according to the method contract.
 
+## Parameters
+
 **Parameter `q`:** The q consumed by normalize; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Resolves the deterministic variant selected by a material.
 
+## Parameters
+
 **Parameter `material`:** The material whose declared keyword options are evaluated.
 
-**Returns:** The canonical variant shared by authoring compilation and runtime lookup.
+## Returns
+
+The canonical variant shared by authoring compilation and runtime lookup.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the material has no shader definition or selects an unknown or conflicting option.

@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Writes a complete byte payload and atomically installs it at the destination.
 
+## Parameters
+
 **Parameter `path`:** The destination file path.
 
 **Parameter `data`:** The complete file payload.
 
 **Parameter `overwrite`:** Whether an existing destination may be replaced; false atomically rejects name collisions.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** Publication or cleanup fails, the destination already exists in create-only mode, or the filesystem cannot atomically publish a complete file. No copy fallback exposes partial content.
 

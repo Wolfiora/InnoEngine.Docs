@@ -12,6 +12,10 @@ apiScope: Editor
 
 Creates a hierarchy drop target representing one live game object row.
 
+## Parameters
+
 **Parameter `gameObject`:** The game object represented by the target row.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `gameObject` is `null`.

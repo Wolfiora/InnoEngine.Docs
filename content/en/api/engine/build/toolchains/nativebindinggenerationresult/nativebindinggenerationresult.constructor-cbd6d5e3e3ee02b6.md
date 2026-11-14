@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Freezes a complete generation map and accepts its already acquired reading ownership.
 
+## Parameters
+
 **Parameter `generations`:** The complete Native project to generation mapping.
 
 **Parameter `ownership`:** Protection transferred on successful construction; retained by the caller on failure.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Either collection is null.
 

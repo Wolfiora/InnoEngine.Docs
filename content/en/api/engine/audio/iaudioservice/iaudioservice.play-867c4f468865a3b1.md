@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Starts one clip using explicit playback parameters.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare and play.
 
 **Parameter `options`:** Immutable playback parameters.
 
-**Returns:** A voice handle that may initially be in the preparing state.
+## Returns
+
+A voice handle that may initially be in the preparing state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Playback options are uninitialized; construct options instead of passing a default struct.

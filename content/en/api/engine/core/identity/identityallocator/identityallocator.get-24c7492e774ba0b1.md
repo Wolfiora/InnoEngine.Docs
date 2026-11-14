@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a domain-qualified runtime identity without allowing cross-session aliasing.
 
+## Type parameters
+
 **Type parameter `TIdentity`:** The required identity object contract.
+
+## Parameters
 
 **Parameter `identity`:** The transient identity containing both its owner domain and runtime identifier.
 
-**Returns:** The live compatible object, or `null` when the domain, generation, or type does not match.
+## Returns
+
+The live compatible object, or `null` when the domain, generation, or type does not match.

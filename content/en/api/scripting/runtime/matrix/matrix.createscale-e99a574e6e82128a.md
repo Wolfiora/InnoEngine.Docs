@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Creates a non-uniform scale matrix.
 
+## Parameters
+
 **Parameter `x`:** Scale factor on X axis.
 
 **Parameter `y`:** Scale factor on Y axis.
 
 **Parameter `z`:** Scale factor on Z axis.
 
-**Returns:** A scale matrix.
+## Returns
+
+A scale matrix.

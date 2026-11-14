@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Queues primary output availability and its real pixel extent for the next frame safety point.
 
+## Parameters
+
 **Parameter `size`:** A valid drawable pixel extent, or null when the primary surface cannot currently present.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The assigned extent has zero or negative dimensions, including a default struct value.

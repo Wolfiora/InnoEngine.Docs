@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Rejects an incomplete or incompatible platform closure.
 
+## Parameters
+
 **Parameter `directory`:** The prepared or installed Support Pack directory.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A required platform input is absent or incompatible.

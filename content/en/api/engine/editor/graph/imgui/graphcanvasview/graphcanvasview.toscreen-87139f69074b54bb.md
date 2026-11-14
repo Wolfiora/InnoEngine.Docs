@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Projects a graph-space location into the current screen rectangle.
 
+## Parameters
+
 **Parameter `point`:** The domain-independent graph coordinate.
 
-**Returns:** The corresponding screen coordinate.
+## Returns
+
+The corresponding screen coordinate.

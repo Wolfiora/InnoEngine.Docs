@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Submits or updates one composed offscreen editor viewport.
 
+## Parameters
+
 **Parameter `composition`:** Complete ordered model composition for the current frame.
 
-**Returns:** The current presentation output, which can be warming up for one frame.
+## Returns
+
+The current presentation output, which can be warming up for one frame.

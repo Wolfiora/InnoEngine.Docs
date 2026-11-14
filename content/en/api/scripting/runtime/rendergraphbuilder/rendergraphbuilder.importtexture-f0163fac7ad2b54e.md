@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Imports a persistent device texture into the current graph.
 
+## Parameters
+
 **Parameter `name`:** Debug and diagnostic name.
 
 **Parameter `texture`:** Persistent texture owned by the active device generation.
 
 **Parameter `descriptor`:** Texture requirements and usage.
 
-**Returns:** A frame-scoped handle for graph declarations.
+## Returns
+
+A frame-scoped handle for graph declarations.

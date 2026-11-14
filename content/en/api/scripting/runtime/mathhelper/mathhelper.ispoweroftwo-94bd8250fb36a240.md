@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines if value is powered by two.
 
-**Returns:** `true` if `value` is powered by two; otherwise `false`.
+## Returns
+
+`true` if `value` is powered by two; otherwise `false`.
+
+## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

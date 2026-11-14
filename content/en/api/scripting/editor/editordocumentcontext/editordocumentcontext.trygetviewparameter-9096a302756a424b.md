@@ -12,8 +12,12 @@ apiScope: Editor
 
 Tries to read one stable view parameter.
 
+## Parameters
+
 **Parameter `key`:** Stable provider-local parameter name.
 
 **Parameter `value`:** Receives the stored value.
 
-**Returns:** `true` when the parameter exists.
+## Returns
+
+`true` when the parameter exists.

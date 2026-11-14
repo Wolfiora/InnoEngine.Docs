@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a complete product without SDK discovery or output creation.
 
+## Parameters
+
 **Parameter `plan`:** The immutable component graph.
 
 **Parameter `executor`:** The explicit execution strategy.

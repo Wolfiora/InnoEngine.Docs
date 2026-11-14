@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a reflected interface binding.
 
+## Parameters
+
 **Parameter `id`:** Stable property ID.
 
 **Parameter `type`:** Expected value or resource type.

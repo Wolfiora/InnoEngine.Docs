@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Installs a disjoint candidate tree and restores the previous destination if installation fails.
 
+## Parameters
+
 **Parameter `source`:** The complete candidate directory.
 
 **Parameter `destination`:** The destination directory.
@@ -20,6 +22,8 @@ Installs a disjoint candidate tree and restores the previous destination if inst
 ## Remarks
 
 The caller must serialize readers and writers while the two directory moves run. Cancellation before commit restores the previous destination without canceling rollback. A committed candidate is not canceled afterward. Backup cleanup runs after commit; its failure preserves the installed candidate and remaining backup.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Either path is blank, or the candidate and destination trees overlap.
 

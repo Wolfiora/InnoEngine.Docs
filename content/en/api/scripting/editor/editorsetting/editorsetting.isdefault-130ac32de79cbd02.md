@@ -12,9 +12,15 @@ apiScope: Editor
 
 Determines whether a staged field object equals this definition's bound default value.
 
+## Parameters
+
 **Parameter `setting`:** The isolated staged object to compare.
 
-**Returns:** `true` when every stored property equals the field default.
+## Returns
+
+`true` when every stored property equals the field default.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `setting` is `null`.
 

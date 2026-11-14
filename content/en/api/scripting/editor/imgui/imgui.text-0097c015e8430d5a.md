@@ -12,4 +12,6 @@ apiScope: Editor
 
 Draws unformatted text.
 
+## Parameters
+
 **Parameter `text`:** Literal text to draw; percent characters are displayed without format-string interpretation.

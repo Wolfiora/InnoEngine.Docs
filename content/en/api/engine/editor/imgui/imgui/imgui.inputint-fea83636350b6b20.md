@@ -11,9 +11,9 @@ apiSurface: source-clr
 
 Draws and edits an integer value.
 
-**Parameter `label`:** The control label.
+## Parameters
 
-**Returns:** `true` when the value changes.
+**Parameter `label`:** The control label.
 
 **Parameter `value`:** The integer displayed by the control and replaced after an accepted edit.
 
@@ -22,3 +22,7 @@ Draws and edits an integer value.
 **Parameter `fastStep`:** Increment used by the accelerated step button.
 
 **Parameter `flags`:** Text editing options for the numeric field.
+
+## Returns
+
+`true` when the value changes.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Pushes one color override.
 
+## Parameters
+
 **Parameter `color`:** The style color slot.
 
 **Parameter `value`:** The linear RGBA value.

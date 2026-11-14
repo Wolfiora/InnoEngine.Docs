@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Draws the target-specific Inspector body.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.

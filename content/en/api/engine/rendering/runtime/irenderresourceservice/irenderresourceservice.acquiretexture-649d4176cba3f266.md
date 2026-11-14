@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires or atomically replaces a provider-owned persistent texture.
 
+## Parameters
+
 **Parameter `id`:** Globally stable provider-owned resource ID.
 
 **Parameter `revision`:** Provider-controlled content revision.
@@ -21,4 +23,6 @@ Acquires or atomically replaces a provider-owned persistent texture.
 
 **Parameter `name`:** Diagnostic name.
 
-**Returns:** A handle owned by the active device generation.
+## Returns
+
+A handle owned by the active device generation.

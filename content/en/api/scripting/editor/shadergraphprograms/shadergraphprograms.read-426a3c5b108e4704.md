@@ -12,10 +12,14 @@ apiScope: Editor
 
 Reads detached pass-to-stage references, including unresolved authored identities.
 
+## Parameters
+
 **Parameter `graph`:** Shader authoring document.
 
 **Parameter `serialization`:** Current owner converters.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** Detached native references; corrupt or missing program metadata is an error.
+## Returns
+
+Detached native references; corrupt or missing program metadata is an error.

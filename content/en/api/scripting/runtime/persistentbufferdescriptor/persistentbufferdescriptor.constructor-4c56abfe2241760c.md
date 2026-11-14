@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a persistent buffer descriptor.
 
+## Parameters
+
 **Parameter `buffer`:** Capacity and usage.
 
 **Parameter `vertexLayout`:** Required interleaved layout for vertex buffers.

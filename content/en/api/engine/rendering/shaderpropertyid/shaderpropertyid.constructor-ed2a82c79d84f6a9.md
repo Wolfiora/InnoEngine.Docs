@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a stable shader property identifier.
 
+## Parameters
+
 **Parameter `value`:** Stable manifest property identifier.

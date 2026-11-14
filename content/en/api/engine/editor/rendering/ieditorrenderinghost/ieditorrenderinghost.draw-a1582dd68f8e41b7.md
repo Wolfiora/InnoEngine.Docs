@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a ready viewport output inside the current ImGui window.
 
+## Parameters
+
 **Parameter `output`:** Output returned by `M:Inno.Editor.Rendering.IEditorRenderingHost.Submit(Inno.Editor.Rendering.EditorViewportComposition)`.
 
 **Parameter `logicalSize`:** Destination size in logical UI pixels.

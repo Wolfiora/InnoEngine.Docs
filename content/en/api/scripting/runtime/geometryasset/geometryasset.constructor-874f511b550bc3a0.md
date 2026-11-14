@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable imported geometry description.
 
+## Parameters
+
 **Parameter `vertexCount`:** The number of normalized vertices.
 
 **Parameter `indexCount`:** The number of indices.
@@ -21,5 +23,7 @@ Creates an immutable imported geometry description.
 **Parameter `boundsCenter`:** The object-space center of the geometry bounds.
 
 **Parameter `boundsExtents`:** The non-negative object-space half-extents of the geometry bounds.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when any count is negative or a bounds extent is negative.

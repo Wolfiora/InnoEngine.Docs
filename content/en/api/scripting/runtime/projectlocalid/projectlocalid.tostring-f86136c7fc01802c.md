@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats the canonical local identity.
 
-**Returns:** The canonical local identity text.
+## Returns
+
+The canonical local identity text.

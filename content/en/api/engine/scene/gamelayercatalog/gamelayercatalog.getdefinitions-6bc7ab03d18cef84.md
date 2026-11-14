@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets an immutable snapshot of every named layer ordered by slot index.
 
-**Returns:** The ordered layer-definition snapshot.
+## Returns
+
+The ordered layer-definition snapshot.

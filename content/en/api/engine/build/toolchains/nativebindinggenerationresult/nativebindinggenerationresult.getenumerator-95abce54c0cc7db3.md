@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Returns an enumerator that iterates through the collection.
 
-**Returns:** An enumerator that can be used to iterate through the collection.
+## Returns
+
+An enumerator that can be used to iterate through the collection.
 
 ## Remarks
 
 Enumeration and all descriptor consumers must finish before the result's reading protection ends.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.

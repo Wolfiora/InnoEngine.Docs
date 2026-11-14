@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a stable reference kind identifier.
 
+## Parameters
+
 **Parameter `value`:** The non-empty protocol identifier.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` is empty or contains surrounding whitespace.

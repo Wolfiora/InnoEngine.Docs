@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Fingerprints semantic graph records and every frozen source dependency, excluding node positions and reserved Editor metadata.
 
+## Parameters
+
 **Parameter `bytes`:** Committed graph authoring artifact.
 
 **Parameter `serialization`:** Owner native converter registry.
 
-**Returns:** A stable semantic identity; target, variant and extension generation remain separate compiler cache inputs.
+## Returns
+
+A stable semantic identity; target, variant and extension generation remain separate compiler cache inputs.

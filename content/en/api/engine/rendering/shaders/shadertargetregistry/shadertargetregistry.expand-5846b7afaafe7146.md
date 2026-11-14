@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Expands an assigned target, or copies an explicitly authored low-level graph with no domain target.
 
+## Parameters
+
 **Parameter `document`:** Authored source, never modified by this operation.
 
 **Parameter `serialization`:** Current owner converters.
@@ -19,7 +21,11 @@ Expands an assigned target, or copies an explicitly authored low-level graph wit
 
 **Parameter `cancellationToken`:** Cancellation before and during extension invocation.
 
-**Returns:** Detached explicit stage graph consumed by the existing compiler.
+## Returns
+
+Detached explicit stage graph consumed by the existing compiler.
+
+## Exceptions
 
 **Exception `T:Inno.Rendering.Shaders.ShaderTargetUnavailableException`:** The assigned target is absent from this generation.
 

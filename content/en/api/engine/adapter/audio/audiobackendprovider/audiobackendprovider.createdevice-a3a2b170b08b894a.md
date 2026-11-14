@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a caller-owned audio service using this implementation.
 
+## Parameters
+
 **Parameter `options`:** Backend-neutral device creation options.
 
-**Returns:** A new service owned by the caller; providers must not return null.
+## Returns
+
+A new service owned by the caller; providers must not return null.

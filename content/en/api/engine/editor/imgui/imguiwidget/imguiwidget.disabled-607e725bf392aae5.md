@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws content inside an ImGui disabled scope when requested.
 
+## Parameters
+
 **Parameter `disabled`:** Whether interaction is disabled.
 
 **Parameter `draw`:** Drawing callback.

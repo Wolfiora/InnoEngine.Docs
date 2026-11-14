@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to resolve an asset type without loading the asset.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
 **Parameter `assetType`:** The resolved concrete asset type.
 
-**Returns:** `true` when the type can be resolved.
+## Returns
+
+`true` when the type can be resolved.

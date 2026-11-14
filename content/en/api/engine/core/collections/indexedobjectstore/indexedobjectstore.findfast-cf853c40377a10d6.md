@@ -15,10 +15,16 @@ Finds items by key and returns a lazy fail-fast enumerable.
 
 Enumeration throws if the store is modified during iteration.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `key`:** The key handle to query.
 
 **Parameter `value`:** The key value to look up.
 
-**Returns:** Lazy fail-fast enumerable of matching items.
+## Returns
+
+Lazy fail-fast enumerable of matching items.

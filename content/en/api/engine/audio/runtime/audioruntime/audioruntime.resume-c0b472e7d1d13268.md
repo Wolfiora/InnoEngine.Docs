@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resumes a paused voice.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to resume.
 
-**Returns:** `true` when the voice resumed or returned to preparation.
+## Returns
+
+`true` when the voice resumed or returned to preparation.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a label within its current table cell, wrapping when the column is narrow.
 
+## Parameters
+
 **Parameter `label`:** Visible label text.
 
 **Parameter `tooltip`:** Optional explanation shown while the label is hovered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `label` is null.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats this value as a human-readable representation.
 
-**Returns:** The qualified identity.
+## Returns
+
+The qualified identity.

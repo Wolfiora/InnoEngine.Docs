@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts the supplied value to `T:Inno.Core.Mathematics.Vector4`.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector4 that represents the completed operation.
+## Returns
+
+The validated vector4 that represents the completed operation.

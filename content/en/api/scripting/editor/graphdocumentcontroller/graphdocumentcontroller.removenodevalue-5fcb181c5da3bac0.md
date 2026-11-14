@@ -12,8 +12,12 @@ apiScope: Editor
 
 Removes one neutral node property as a structural edit.
 
+## Parameters
+
 **Parameter `nodeId`:** Owning node.
 
 **Parameter `propertyId`:** Stable property ID.
 
-**Returns:** `true` when the property existed.
+## Returns
+
+`true` when the property existed.

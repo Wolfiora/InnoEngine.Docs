@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Selects the source-owned nonserialized revision field or property.
 
+## Parameters
+
 **Parameter `memberName`:** The exact nonstatic field or readable nonindexed property name.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is blank.

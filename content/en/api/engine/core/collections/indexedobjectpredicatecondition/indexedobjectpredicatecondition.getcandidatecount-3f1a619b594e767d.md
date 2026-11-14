@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets a candidate count required by the implemented contract.
 
+## Parameters
+
 **Parameter `store`:** The store consumed by get candidate count; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

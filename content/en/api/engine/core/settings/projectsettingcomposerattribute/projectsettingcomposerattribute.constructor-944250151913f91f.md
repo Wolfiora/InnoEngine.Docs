@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a composer declaration for one stable setting protocol.
 
+## Parameters
+
 **Parameter `settingId`:** The setting protocol composed by the attributed type.

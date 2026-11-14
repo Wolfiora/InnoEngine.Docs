@@ -11,17 +11,23 @@ apiSurface: source-clr
 
 Resolves one installed Support Pack after validating its deployment-only closure.
 
+## Parameters
+
 **Parameter `target`:** The platform and architecture identity of the required Support Pack.
-
-**Returns:** Reading ownership of the complete pack; dispose it after its final consumer finishes.
-
-**Exception `T:System.IO.DirectoryNotFoundException`:** Thrown when no Support Pack is installed for `target`.
-
-**Exception `T:System.IO.InvalidDataException`:** Thrown when the pack is empty, contains build-time payload, or lacks its Player executable or native runtimes.
 
 **Parameter `validator`:** The target-owned validator for runtime or linker inputs.
 
 **Parameter `cancellationToken`:** Cancels ownership acquisition or complete content validation before returning a lease.
+
+## Returns
+
+Reading ownership of the complete pack; dispose it after its final consumer finishes.
+
+## Exceptions
+
+**Exception `T:System.IO.DirectoryNotFoundException`:** Thrown when no Support Pack is installed for `target`.
+
+**Exception `T:System.IO.InvalidDataException`:** Thrown when the pack is empty, contains build-time payload, or lacks its Player executable or native runtimes.
 
 **Exception `T:System.OperationCanceledException`:** Acquisition or validation was canceled; no reading ownership is transferred.
 

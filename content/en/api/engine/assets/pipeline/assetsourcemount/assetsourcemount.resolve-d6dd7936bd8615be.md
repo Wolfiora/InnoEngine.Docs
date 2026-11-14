@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves a source-local path and rejects physical root escape.
 
+## Parameters
+
 **Parameter `localPath`:** Source-local path.
 
-**Returns:** An absolute path contained by this mount.
+## Returns
+
+An absolute path contained by this mount.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Changes this object's explicit active state and updates its hierarchy subtree.
 
+## Parameters
+
 **Parameter `value`:** The concrete value read or transformed by this operation.

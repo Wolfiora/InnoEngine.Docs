@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Binds the session-owned serialization and asset generations used by scene prefab instances.
 
+## Parameters
+
 **Parameter `serialization`:** The active serialization registry for this session.
 
 **Parameter `assets`:** The asset resolver that owns prefab dependencies.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The binding was already configured.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a presentation registry owned by the current editor feature lifetime.
 
+## Parameters
+
 **Parameter `types`:** Shared type catalog, which must outlive this registry.

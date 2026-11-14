@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Adds base buses and processors to a candidate mixer graph.
 
+## Parameters
+
 **Parameter `builder`:** Candidate graph builder valid only for this invocation.
 
 **Parameter `state`:** Reload-safe neutral extension state.

@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Waits for all readers before allowing mutation of one immutable artifact directory.
 
+## Parameters
+
 **Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.
 
 **Parameter `directory`:** The absolute artifact location controlled by the publisher.
 
 **Parameter `cancellationToken`:** Cancels this waiter without disturbing existing readers.
 
-**Returns:** Exclusive protection; retain it through replacement and release it before acquiring a reading lease.
+## Returns
+
+Exclusive protection; retain it through replacement and release it before acquiring a reading lease.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The directory is empty or relative.
 

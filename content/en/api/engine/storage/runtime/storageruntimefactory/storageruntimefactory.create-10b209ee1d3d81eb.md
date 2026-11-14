@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a storage feature over a newly allocated application sandbox.
 
+## Parameters
+
 **Parameter `context`:** The isolated session context passed to the storage factory.
 
-**Returns:** A new storage feature that exclusively owns any disposable storage adapter.
+## Returns
+
+A new storage feature that exclusively owns any disposable storage adapter.

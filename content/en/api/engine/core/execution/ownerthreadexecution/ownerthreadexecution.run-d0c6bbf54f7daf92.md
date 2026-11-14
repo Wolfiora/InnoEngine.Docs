@@ -11,11 +11,19 @@ apiSurface: source-clr
 
 Pumps continuations until the owned operation completes, then restores the previous context.
 
+## Type parameters
+
 **Type parameter `TResult`:** The result produced by the operation.
+
+## Parameters
 
 **Parameter `operation`:** Work that owns and retires every task it starts before returning. Async void work is not supported.
 
-**Returns:** The completed operation result. Operation failures and cancellation propagate unchanged.
+## Returns
+
+The completed operation result. Operation failures and cancellation propagate unchanged.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The operation is null.
 

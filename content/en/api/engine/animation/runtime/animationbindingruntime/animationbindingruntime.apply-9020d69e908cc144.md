@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Applies a frame batch using the currently committed binding generation.
 
+## Parameters
+
 **Parameter `samples`:** Final samples, independently blended by destination and binding.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This binding owner has retired.
 

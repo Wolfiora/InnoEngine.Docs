@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Begins a tab bar.
 
+## Parameters
+
 **Parameter `id`:** The tab bar identity.
 
 **Parameter `flags`:** Tab-bar behavior.
 
-**Returns:** `true` when tab contents should be submitted.
+## Returns
+
+`true` when tab contents should be submitted.

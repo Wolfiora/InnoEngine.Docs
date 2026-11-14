@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Selects the inclusive visible range between the current anchor and the clicked target.
 
+## Parameters
+
 **Parameter `orderedTargets`:** Runtime identities in the current visible sort and filter order, resolved through Core Identity only when selected.
 
 **Parameter `target`:** The clicked range endpoint, which becomes primary.
 
 **Parameter `additive`:** Whether to preserve existing members outside the selected range.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The visible targets or endpoint is null.
 

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a protected uniform binding value.
 
+## Parameters
+
 **Parameter `id`:** The stable shader binding identifier.
 
 **Parameter `data`:** The complete encoded uniform bytes.
 
-**Returns:** A binding token accepted by the material-pass construction helpers.
+## Returns
+
+A binding token accepted by the material-pass construction helpers.

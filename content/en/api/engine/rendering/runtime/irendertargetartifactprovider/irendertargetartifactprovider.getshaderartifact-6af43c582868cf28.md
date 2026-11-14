@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resolves the target shader matching one runtime asset, variant, and device capability snapshot.
 
+## Parameters
+
 **Parameter `shader`:** The imported runtime shader description.
 
 **Parameter `variant`:** The exact material keyword selection.
@@ -19,6 +21,10 @@ Resolves the target shader matching one runtime asset, variant, and device capab
 
 **Parameter `artifact`:** Receives the validated source-free artifact when it exists.
 
-**Returns:** The current artifact availability. `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` guarantees that `artifact` is non-null.
+## Returns
+
+The current artifact availability. `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` guarantees that `artifact` is non-null.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `shader` or `capabilities` is `null`.

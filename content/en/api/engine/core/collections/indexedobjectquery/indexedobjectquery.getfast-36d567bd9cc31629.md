@@ -15,4 +15,6 @@ Executes the query and returns a lazy fail-fast enumerable of results.
 
 Enumeration is fail-fast and throws if the store is modified during iteration.
 
-**Returns:** Lazy fail-fast enumerable of matching items.
+## Returns
+
+Lazy fail-fast enumerable of matching items.

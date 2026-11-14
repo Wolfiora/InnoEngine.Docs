@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an explicit platform, processor, ABI and managed-runtime mapping.
 
+## Parameters
+
 **Parameter `id`:** The stable publication target identity.
 
 **Parameter `platform`:** The platform package owning system integration.
@@ -22,5 +24,7 @@ Creates an explicit platform, processor, ABI and managed-runtime mapping.
 **Parameter `runtimeIdentifier`:** The exact managed toolchain runtime identifier.
 
 **Parameter `supportsEditor`:** Whether this implemented target supports the shared Editor product.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity or required target fact is unassigned.

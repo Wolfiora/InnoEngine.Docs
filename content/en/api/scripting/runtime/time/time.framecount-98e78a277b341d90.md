@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Gets the number of variable frames begun by this session.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Removes an item from the store and all keys.
 
+## Parameters
+
 **Parameter `item`:** The item to remove.
 
-**Returns:** True if removed.
+## Returns
+
+True if removed.

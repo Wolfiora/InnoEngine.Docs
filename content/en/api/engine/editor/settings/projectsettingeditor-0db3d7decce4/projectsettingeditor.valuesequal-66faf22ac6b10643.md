@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Compares two exact-type values through their native serialized property data.
 
+## Parameters
+
 **Parameter `left`:** The first setting value.
 
 **Parameter `right`:** The second setting value.
 
-**Returns:** `true` when both values contain equal serialized properties.
+## Returns
+
+`true` when both values contain equal serialized properties.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when either value has another runtime type.

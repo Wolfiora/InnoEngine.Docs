@@ -12,6 +12,10 @@ apiScope: Editor
 
 Applies staged changes through the current provider.
 
+## Parameters
+
 **Parameter `documentId`:** Stable tab identity.
 
-**Returns:** `true` when changes are applied.
+## Returns
+
+`true` when changes are applied.

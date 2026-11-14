@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether the final segment identifies a sample directory.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path to inspect.
 
-**Returns:** `true` when the path belongs to an installed Plugin source and its final segment starts with `~`. A Project directory with the same name remains normal writable authoring content.
+## Returns
+
+`true` when the path belongs to an installed Plugin source and its final segment starts with `~`. A Project directory with the same name remains normal writable authoring content.

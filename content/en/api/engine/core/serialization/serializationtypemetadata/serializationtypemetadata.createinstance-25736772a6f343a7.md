@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a new instance through the declaration's selected constructor.
 
-**Returns:** A new caller-owned instance; a missing factory or failed constructor throws.
+## Returns
+
+A new caller-owned instance; a missing factory or failed constructor throws.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No parameterless constructor is supplied.

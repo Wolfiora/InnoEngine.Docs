@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether this value and another value address the same live identity slot.
 
+## Parameters
+
 **Parameter `other`:** The runtime identity to compare with this value.
 
-**Returns:** `true` when both the domain and runtime identifier are equal; otherwise, `false`.
+## Returns
+
+`true` when both the domain and runtime identifier are equal; otherwise, `false`.

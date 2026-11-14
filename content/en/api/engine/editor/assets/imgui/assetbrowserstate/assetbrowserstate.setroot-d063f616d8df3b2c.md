@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Switches the displayed root while preserving the last directory visited in each root.
 
+## Parameters
+
 **Parameter `value`:** The authoring or installed-content root to display.

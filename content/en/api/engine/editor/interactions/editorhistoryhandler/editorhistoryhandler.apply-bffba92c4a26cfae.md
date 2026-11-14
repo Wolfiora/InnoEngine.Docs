@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Atomically applies a neutral history change in the requested direction.
 
+## Parameters
+
 **Parameter `context`:** The current-generation editor services.
 
 **Parameter `change`:** The neutral history change.
 
 **Parameter `direction`:** The requested Undo or Redo direction.
 
-**Returns:** The transition result. A failure must leave the feature in its original state.
+## Returns
+
+The transition result. A failure must leave the feature in its original state.

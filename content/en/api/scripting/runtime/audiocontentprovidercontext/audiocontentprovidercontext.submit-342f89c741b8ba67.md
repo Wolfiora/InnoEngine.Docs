@@ -12,7 +12,11 @@ apiScope: Runtime
 
 Submits one immutable emitter snapshot for runtime synchronization.
 
+## Parameters
+
 **Parameter `emitter`:** Current state for one stable emitter identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The emitter is uninitialized or its identity duplicates a submission in this contribution.
 

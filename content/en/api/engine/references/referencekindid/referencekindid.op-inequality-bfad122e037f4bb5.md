@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two reference kind identifiers are different.
 
+## Parameters
+
 **Parameter `left`:** The first identifier.
 
 **Parameter `right`:** The second identifier.
 
-**Returns:** `true` when the identifiers are different; otherwise, `false`.
+## Returns
+
+`true` when the identifiers are different; otherwise, `false`.

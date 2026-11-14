@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures a validated provider set.
 
+## Parameters
+
 **Parameter `frontends`:** Providers owned by the authoring generation.

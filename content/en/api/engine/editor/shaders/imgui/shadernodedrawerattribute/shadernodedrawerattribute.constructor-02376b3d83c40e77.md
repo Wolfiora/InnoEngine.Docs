@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Associates the drawer with one stable node definition.
 
+## Parameters
+
 **Parameter `definitionId`:** The compiler-independent graph node identity.
 
 **Parameter `displayName`:** Optional artist-facing name used in node headers and creation menus.

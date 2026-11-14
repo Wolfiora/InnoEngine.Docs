@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Determines whether one node directly or transitively depends on another.
 
+## Parameters
+
 **Parameter `node`:** The dependent node.
 
 **Parameter `dependency`:** The dependency to find.
 
 **Parameter `recursive`:** Whether transitive edges should be searched.
 
-**Returns:** `true` when the dependency exists.
+## Returns
+
+`true` when the dependency exists.

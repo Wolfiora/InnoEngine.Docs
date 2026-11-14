@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether the current deployment can construct a type in this exact generation.
 
+## Parameters
+
 **Parameter `type`:** The type reference to resolve against this snapshot.
 
-**Returns:** Whether a declared type resolves and has an available parameterless factory.
+## Returns
+
+Whether a declared type resolves and has an available parameterless factory.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Closes one document.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by close document; ownership remains with the caller unless explicitly stated otherwise.

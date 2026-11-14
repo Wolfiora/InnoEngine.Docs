@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Rasterizes one shaped glyph into immutable 8-bit coverage.
 
+## Parameters
+
 **Parameter `font`:** The imported font source.
 
 **Parameter `faceIndex`:** The zero-based collection face index.
@@ -20,4 +22,6 @@ Rasterizes one shaped glyph into immutable 8-bit coverage.
 
 **Parameter `fontSize`:** The positive logical pixel size.
 
-**Returns:** The immutable glyph bitmap.
+## Returns
+
+The immutable glyph bitmap.

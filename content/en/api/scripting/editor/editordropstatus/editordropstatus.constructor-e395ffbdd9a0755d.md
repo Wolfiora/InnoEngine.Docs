@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates the compatibility and presentation state of a potential drop target.
 
+## Parameters
+
 **Parameter `canDrop`:** Whether the active source may be delivered to the target.
 
 **Parameter `visual`:** The standard visual requested for the target.

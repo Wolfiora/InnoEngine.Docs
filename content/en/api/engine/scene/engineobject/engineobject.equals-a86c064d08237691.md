@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Compares this instance to another object using reference identity.
 
-**Returns:** `true` when `obj` is this instance.
+## Returns
+
+`true` when `obj` is this instance.
+
+## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.

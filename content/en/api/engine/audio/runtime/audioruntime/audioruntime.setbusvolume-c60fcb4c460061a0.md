@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates linear gain for a semantic mixer bus.
 
+## Parameters
+
 **Parameter `bus`:** Stable bus identifier.
 
 **Parameter `volume`:** Non-negative linear gain.
 
-**Returns:** `true` when the active mixer contains the bus.
+## Returns
+
+`true` when the active mixer contains the bus.

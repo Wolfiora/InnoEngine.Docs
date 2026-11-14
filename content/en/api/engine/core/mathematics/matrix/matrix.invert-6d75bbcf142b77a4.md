@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns the inverse, or identity when the absolute determinant is below the default tolerance.
 
+## Parameters
+
 **Parameter `m`:** Source matrix.
 
-**Returns:** Inverse matrix, or `P:Inno.Core.Mathematics.Matrix.identity` when the absolute determinant is less than `F:Inno.Core.Mathematics.MathHelper.C_TOLERANCE`.
+## Returns
+
+Inverse matrix, or `P:Inno.Core.Mathematics.Matrix.identity` when the absolute determinant is less than `F:Inno.Core.Mathematics.MathHelper.C_TOLERANCE`.

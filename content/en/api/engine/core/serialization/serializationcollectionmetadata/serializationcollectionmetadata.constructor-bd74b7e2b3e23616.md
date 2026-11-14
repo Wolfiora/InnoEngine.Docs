@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Defines the shape and typed operations of a sequence or map.
 
+## Parameters
+
 **Parameter `elementType`:** The sequence element or map value type.
 
 **Parameter `keyType`:** The map key type, or null for a sequence.
@@ -20,5 +22,7 @@ Defines the shape and typed operations of a sequence or map.
 **Parameter `buildMap`:** A map factory, or null for a sequence.
 
 **Parameter `enumerateMap`:** Typed map enumeration, or null for a sequence.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The operations do not describe exactly one complete collection shape.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures one coherent game-scene presentation for the current Editor frame.
 
-**Returns:** A caller-owned identity scope for the Edit scenes while not playing and the isolated Play scenes after Play Mode commits. Dispose it after consumption; it retains no scene instances and stale identities never resolve to a replacement session or generation.
+## Returns
+
+A caller-owned identity scope for the Edit scenes while not playing and the isolated Play scenes after Play Mode commits. Dispose it after consumption; it retains no scene instances and stale identities never resolve to a replacement session or generation.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores independently captured properties into an existing object.
 
+## Parameters
+
 **Parameter `target`:** The object receiving compatible property values.
 
 **Parameter `snapshots`:** The previously captured property snapshots.
@@ -19,7 +21,11 @@ Restores independently captured properties into an existing object.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** A summary containing restored, ignored, and skipped properties.
+## Returns
+
+A summary containing restored, ignored, and skipped properties.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when an argument is null.
 

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Builds and validates the requested artifact asynchronously before publishing it.
 
+## Parameters
+
 **Parameter `definition`:** The build definition asset.
 
 **Parameter `inputs`:** The immutable input catalog snapshots.
 
 **Parameter `cancellationToken`:** Cancellation for the candidate build.
 
-**Returns:** The content-addressed output bundle key.
+## Returns
+
+The content-addressed output bundle key.

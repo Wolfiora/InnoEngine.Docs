@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Checks a pointer-button release in the current frame.
 
+## Parameters
+
 **Parameter `button`:** The pointer button to inspect.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

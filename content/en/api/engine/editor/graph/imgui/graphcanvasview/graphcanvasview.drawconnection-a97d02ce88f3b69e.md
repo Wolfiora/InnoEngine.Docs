@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a horizontal-tangent connection using the same curve used for hit testing.
 
+## Parameters
+
 **Parameter `draw`:** The current window's frame-local drawing borrow; it is neither retained nor released by this call.
 
 **Parameter `output`:** The output endpoint in screen space.
@@ -20,6 +22,8 @@ Draws a horizontal-tangent connection using the same curve used for hit testing.
 **Parameter `color`:** The packed connection color.
 
 **Parameter `thickness`:** The positive screen-space stroke width.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** An endpoint or derived control point is nonfinite, or the stroke width is not positive and finite.
 

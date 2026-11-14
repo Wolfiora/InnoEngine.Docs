@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Handles a pointer release.
 
+## Parameters
+
 **Parameter `context`:** Gesture and coordinate context.
 
 **Parameter `pointer`:** Immutable pointer sample.

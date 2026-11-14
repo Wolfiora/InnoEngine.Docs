@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Draws visible row ranges and preserves native scrolling, navigation and table cursor bookkeeping.
 
+## Type parameters
+
 **Type parameter `TState`:** Call-scoped drawing data, passed directly so static callbacks need no captured closure.
+
+## Parameters
 
 **Parameter `itemCount`:** The nonnegative count in the caller's current filtered and sorted view.
 
@@ -22,6 +26,8 @@ Draws visible row ranges and preserves native scrolling, navigation and table cu
 **Parameter `drawRange`:** A synchronous drawing callback receiving inclusive start and exclusive end indices.
 
 **Parameter `preservedRows`:** Optional rows that must still submit an active edit, drag source or requested focus.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The drawing callback is null.
 

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Freshly verifies the complete current source input closure after waiting or preparing output.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels verification before cache acceptance or publication.
 
-**Returns:** Completion when the current graph and bytes still match the frozen preparation identity.
+## Returns
+
+Completion when the current graph and bytes still match the frozen preparation identity.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Preparation inputs changed; no candidate may be selected.
 

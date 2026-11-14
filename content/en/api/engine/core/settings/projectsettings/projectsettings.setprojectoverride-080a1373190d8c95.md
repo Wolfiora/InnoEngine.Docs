@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Persists one project-authored semantic contribution and rebuilds the effective value.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identifier.
 
 **Parameter `value`:** Current generation setting value.

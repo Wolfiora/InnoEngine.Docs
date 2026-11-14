@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a feature over a newly allocated animation runtime.
 
+## Parameters
+
 **Parameter `context`:** Isolated session context supplied to the runtime factory.
 
-**Returns:** A new session-owned animation feature.
+## Returns
+
+A new session-owned animation feature.

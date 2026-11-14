@@ -12,8 +12,14 @@ apiScope: Editor
 
 Draws one isolated staged value through this presentation.
 
+## Parameters
+
 **Parameter `value`:** The exact setting type owned by this presentation.
 
-**Returns:** `true` when the value differs from its first drawn state.
+## Returns
+
+`true` when the value differs from its first drawn state.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` has another runtime type.

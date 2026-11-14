@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Collects items for one exact view.
 
+## Parameters
+
 **Parameter `context`:** Frame-scoped host content and view.
 
 **Parameter `sink`:** Collector receiving items.

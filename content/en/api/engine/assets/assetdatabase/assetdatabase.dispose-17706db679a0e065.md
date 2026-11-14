@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Stops publication and releases canonical assets before dependency edges and the payload read gate.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** An unload hook still owns active work. Retain this database and retry at the session retirement safe point.
 
 **Exception `T:System.AggregateException`:** Completed releases failed after all quiescent resources were attempted.

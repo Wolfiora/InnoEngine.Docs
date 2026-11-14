@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether a value exists.
 
+## Parameters
+
 **Parameter `key`:** The sandbox-relative storage key.
 
 **Parameter `cancellationToken`:** Cancellation requested by the caller.
 
-**Returns:** `true` when the value exists.
+## Returns
+
+`true` when the value exists.

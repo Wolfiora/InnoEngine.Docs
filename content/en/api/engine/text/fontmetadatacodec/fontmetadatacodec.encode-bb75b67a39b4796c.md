@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Encodes validated metadata into a deterministic runtime payload.
 
+## Parameters
+
 **Parameter `metadata`:** The metadata to encode.
 
-**Returns:** The compact runtime payload.
+## Returns
+
+The compact runtime payload.

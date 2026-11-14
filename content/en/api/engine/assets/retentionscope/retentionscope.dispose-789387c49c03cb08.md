@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Releases all retained leases in reverse acquisition order.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** Thrown after every lease is attempted when one or more releases fail.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A lease is not retired. The current and remaining dependencies are retained for retry.

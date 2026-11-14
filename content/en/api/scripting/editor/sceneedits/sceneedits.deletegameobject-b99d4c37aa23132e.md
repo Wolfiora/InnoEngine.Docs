@@ -12,8 +12,12 @@ apiScope: Editor
 
 Deletes a GameObject subtree and records only that subtree plus incoming serialized references.
 
+## Parameters
+
 **Parameter `gameObject`:** The live subtree root to delete.
 
 **Parameter `historyName`:** The user-facing history entry name.
 
-**Returns:** `true` when the subtree was deleted and recorded.
+## Returns
+
+`true` when the subtree was deleted and recorded.

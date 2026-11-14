@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Decodes the current committed mesh payload.
 
+## Parameters
+
 **Parameter `geometry`:** Imported geometry asset.
 
-**Returns:** Normalized vertices, triangle indices and submeshes.
+## Returns
+
+Normalized vertices, triangle indices and submeshes.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the payload is missing or corrupt.

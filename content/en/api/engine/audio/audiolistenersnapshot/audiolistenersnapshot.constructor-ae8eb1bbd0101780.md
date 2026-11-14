@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable listener snapshot.
 
+## Parameters
+
 **Parameter `id`:** Stable listener identity across updates.
 
 **Parameter `priority`:** Selection priority; larger values win.

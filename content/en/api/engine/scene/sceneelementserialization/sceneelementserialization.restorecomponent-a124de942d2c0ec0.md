@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Recreates one component without invoking Reset and restores its persistent properties.
 
+## Parameters
+
 **Parameter `owner`:** The live GameObject that will own the component.
 
 **Parameter `type`:** The reload-safe identity of the current component implementation.
@@ -25,7 +27,11 @@ Recreates one component without invoking Reset and restores its persistent prope
 
 **Parameter `assets`:** The resolver used to materialize canonical asset references in restored properties.
 
-**Returns:** The recreated component, or a preserved missing placeholder when its logical type is unavailable.
+## Returns
+
+The recreated component, or a preserved missing placeholder when its logical type is unavailable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `owner` is `null`.
 

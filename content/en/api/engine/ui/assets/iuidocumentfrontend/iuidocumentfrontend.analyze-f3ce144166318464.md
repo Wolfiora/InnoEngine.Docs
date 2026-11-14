@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Analyzes one immutable source snapshot.
 
+## Parameters
+
 **Parameter `source`:** Original source snapshot.
 
-**Returns:** Canonical text or neutral diagnostics.
+## Returns
+
+Canonical text or neutral diagnostics.

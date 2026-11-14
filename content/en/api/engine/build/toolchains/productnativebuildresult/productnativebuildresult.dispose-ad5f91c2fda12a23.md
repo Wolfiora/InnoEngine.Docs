@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases products in reverse dependency order after all consumers have finished. Repeated disposal has no effect.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** One or more reading owners failed to release after every owner was attempted.

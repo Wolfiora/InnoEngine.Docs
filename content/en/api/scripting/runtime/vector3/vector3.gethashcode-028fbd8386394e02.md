@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Computes a hash code consistent with the implemented equality contract.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

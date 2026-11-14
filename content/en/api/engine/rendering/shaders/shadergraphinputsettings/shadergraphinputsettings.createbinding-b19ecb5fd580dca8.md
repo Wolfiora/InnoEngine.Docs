@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates the persisted descriptor and freezes its stage binding.
 
-**Returns:** An immutable backend-neutral input binding.
+## Returns
+
+An immutable backend-neutral input binding.

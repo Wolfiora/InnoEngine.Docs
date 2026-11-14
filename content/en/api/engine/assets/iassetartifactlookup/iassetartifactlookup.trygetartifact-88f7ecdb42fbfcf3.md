@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to resolve one named immutable artifact output by persistent asset identity.
 
+## Parameters
+
 **Parameter `persistentId`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Exact stable artifact output name.
 
 **Parameter `artifact`:** Receives verified output metadata without exposing the provider's physical location.
 
-**Returns:** `true` when the artifact output exists and passes integrity validation.
+## Returns
+
+`true` when the artifact output exists and passes integrity validation.

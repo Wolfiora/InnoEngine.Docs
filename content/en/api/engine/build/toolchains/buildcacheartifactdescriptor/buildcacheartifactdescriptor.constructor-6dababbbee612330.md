@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes ownership metadata supplied by the artifact's actual publisher.
 
+## Parameters
+
 **Parameter `directory`:** The absolute published artifact or producer-owned workspace directory.
 
 **Parameter `leasePath`:** The absolute persistent file used by this entry's actual producer and readers for Core.IO coordination.
@@ -24,6 +26,8 @@ Freezes ownership metadata supplied by the artifact's actual publisher.
 **Parameter `dependencies`:** Absolute artifact directories required by this generation.
 
 **Parameter `role`:** The producer-declared lifetime; workspace preference alone does not pin an immutable product.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A path is relative or the timestamp is not UTC.
 

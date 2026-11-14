@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts the supplied value to `T:System.Numerics.Vector4`.
 
+## Parameters
+
 **Parameter `r`:** The r consumed by convert; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated system.numerics.vector4 that represents the completed operation.
+## Returns
+
+The validated system.numerics.vector4 that represents the completed operation.

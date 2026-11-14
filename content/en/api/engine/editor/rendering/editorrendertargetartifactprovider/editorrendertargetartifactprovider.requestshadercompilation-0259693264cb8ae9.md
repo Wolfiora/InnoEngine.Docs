@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Schedules compilation if required and reports saving-independent state for the exact shader, variant and device target.
 
+## Parameters
+
 **Parameter `shader`:** Current imported shader.
 
 **Parameter `variant`:** Selected keyword variant.
 
 **Parameter `capabilities`:** Current device capabilities.
 
-**Returns:** A detached status and diagnostic snapshot; last-good is explicit and never implies current-source success.
+## Returns
+
+A detached status and diagnostic snapshot; last-good is explicit and never implies current-source success.

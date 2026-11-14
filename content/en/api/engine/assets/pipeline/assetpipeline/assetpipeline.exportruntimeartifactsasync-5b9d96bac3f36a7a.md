@@ -15,11 +15,17 @@ Exports a runtime-only artifact snapshot on a worker without loading artifact fi
 
 Keeps generation admission and serialization pinned until the worker completes, fails or cancels. A pending or faulted generation cannot start a new export.
 
+## Parameters
+
 **Parameter `destinationContentRoot`:** The empty destination that receives the runtime asset database.
 
 **Parameter `cancellationToken`:** The token checked while individual artifact files are copied.
 
-**Returns:** A task that completes with counts and source identities for the captured runtime snapshot.
+## Returns
+
+A task that completes with counts and source identities for the captured runtime snapshot.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when runtime artifacts are incomplete, transitive authoring inputs have failed or become stale, or the asset service is not available.
 

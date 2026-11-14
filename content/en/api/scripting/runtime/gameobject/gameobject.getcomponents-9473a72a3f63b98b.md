@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets all attached components assignable to the requested type in attachment order.
 
+## Type parameters
+
 **Type parameter `TComponent`:** Requested component type.
 
-**Returns:** A stable component snapshot.
+## Returns
+
+A stable component snapshot.

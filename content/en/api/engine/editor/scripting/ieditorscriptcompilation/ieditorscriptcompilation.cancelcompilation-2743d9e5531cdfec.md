@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Requests cancellation while retaining ownership until compilation and retirement finish.
 
+## Parameters
+
 **Parameter `operationId`:** The request observed by the presentation; stale requests have no effect.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether this contribution may explicitly replace data owned by another contributor.
 
+## Parameters
+
 **Parameter `ownerId`:** The stable owner whose data would be replaced.
 
-**Returns:** `true` for project data, or when the Plugin both depends on and explicitly overrides `ownerId`.
+## Returns
+
+`true` for project data, or when the Plugin both depends on and explicitly overrides `ownerId`.

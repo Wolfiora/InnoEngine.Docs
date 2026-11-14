@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Moves a live GameObject subtree into another scene owned by the current editor world.
 
+## Parameters
+
 **Parameter `gameObject`:** The live root object to move.
 
 **Parameter `destination`:** The loaded destination scene.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when an argument is `null`.
 

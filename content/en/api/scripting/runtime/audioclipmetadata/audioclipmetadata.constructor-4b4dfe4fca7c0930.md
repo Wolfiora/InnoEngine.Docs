@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates imported audio metadata.
 
+## Parameters
+
 **Parameter `codec`:** Codec protocol of the encoded artifact.
 
 **Parameter `channels`:** Encoded channel count.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Schedules a callback to run after the complete decode operation succeeds.
 
+## Parameters
+
 **Parameter `callback`:** The callback to schedule.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `callback` is null.

@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Releases queued references at a quiescent owner safe point without invoking retired handlers.
 
-**Returns:** The number of pending events discarded by the owner.
+## Returns
+
+The number of pending events discarded by the owner.

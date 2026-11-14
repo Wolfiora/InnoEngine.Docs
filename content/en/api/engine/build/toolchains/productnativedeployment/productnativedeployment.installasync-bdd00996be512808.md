@@ -11,15 +11,21 @@ apiSurface: source-clr
 
 Validates the application's native tree and atomically replaces it when its exact contents differ.
 
+## Parameters
+
 **Parameter `products`:** Validated runtime and optional authoring products returned by the declared product plan. All products must use the same target; each component can appear once.
 
 **Parameter `cancellationToken`:** Cancels ownership acquisition or staging before the atomic installation starts.
 
-**Returns:** Completion after the complete native tree has been validated under exclusive publication ownership. Identical deployments retain their files, including libraries loaded by a running application.
-
 **Parameter `plan`:** The explicit component closure and deployment mapping used to produce these products.
 
 **Parameter `applicationDirectory`:** The managed output directory receiving the complete native tree.
+
+## Returns
+
+Completion after the complete native tree has been validated under exclusive publication ownership. Identical deployments retain their files, including libraries loaded by a running application.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The product closure is empty, contains duplicate components or mixes targets.
 

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a declared authoring value with existing property drawers and a feature-owned draft edit service.
 
+## Parameters
+
 **Parameter `editorContext`:** Current Editor frame.
 
 **Parameter `owner`:** Stable owner for text state and edit routing; not necessarily a canonical serialized object.

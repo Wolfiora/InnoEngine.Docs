@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Prepares the selected Support Pack before capturing and building the game.
 
+## Parameters
+
 **Parameter `request`:** The complete game request; no form or window state is retained.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Another export still owns the service.

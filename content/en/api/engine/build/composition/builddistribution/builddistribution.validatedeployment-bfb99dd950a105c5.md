@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Rejects unsupported target and deployment pairs before any staging or publication begins.
 
+## Parameters
+
 **Parameter `target`:** A target composed by this distribution.
 
 **Parameter `deployment`:** The explicit deployment selected for publication.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The platform is absent or the deployment lacks its runtime capability.

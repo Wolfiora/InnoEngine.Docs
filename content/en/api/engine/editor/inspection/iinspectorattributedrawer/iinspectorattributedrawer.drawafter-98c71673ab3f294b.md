@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Draws a decorator immediately after the property row.
 
+## Parameters
+
 **Parameter `context`:** Current presentation state for the annotated property.

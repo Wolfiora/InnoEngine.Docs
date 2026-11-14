@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a module registration with stable identity and deterministic lifecycle order.
 
+## Parameters
+
 **Parameter `id`:** The globally unique module identifier used for discovery diagnostics and optional persisted module state.
 
 **Parameter `order`:** The ascending order used to start and update the module.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.

@@ -16,4 +16,6 @@ aliases: []
 
 Provides the strongly typed implementation base for an asset importer.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The concrete imported asset type.

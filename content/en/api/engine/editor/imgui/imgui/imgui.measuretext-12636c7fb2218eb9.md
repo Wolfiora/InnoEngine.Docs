@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Measures text using the current font.
 
-**Returns:** The measured width and height.
+## Returns
+
+The measured width and height.
+
+## Parameters
 
 **Parameter `text`:** The text text validated by the measure text operation.

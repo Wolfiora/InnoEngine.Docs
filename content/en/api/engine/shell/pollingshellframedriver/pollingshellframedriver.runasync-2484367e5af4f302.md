@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Advances frames until the callback stops the loop, cancellation is requested or a callback fails.
 
+## Parameters
+
 **Parameter `advanceFrame`:** The owner-thread frame callback; false terminates the loop.
 
 **Parameter `cancellationToken`:** Cancels before the next frame can execute.
 
-**Returns:** Completion when the callback stops; cancellation and callback failures propagate to the owner.
+## Returns
+
+Completion when the callback stops; cancellation and callback failures propagate to the owner.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The frame callback is null.
 

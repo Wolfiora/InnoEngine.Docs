@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates a feature's neutral History record without changing the draft.
 
+## Parameters
+
 **Parameter `change`:** Record owned by the shared History service.
 
 **Parameter `direction`:** Requested traversal direction.

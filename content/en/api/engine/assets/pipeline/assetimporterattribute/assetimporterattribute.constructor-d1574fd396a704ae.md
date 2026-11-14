@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates importer discovery metadata.
 
+## Parameters
+
 **Parameter `id`:** Globally stable importer protocol identifier.

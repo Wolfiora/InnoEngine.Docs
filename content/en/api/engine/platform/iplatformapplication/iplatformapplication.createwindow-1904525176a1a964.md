@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a window owned by this platform session.
 
+## Parameters
+
 **Parameter `options`:** The validated initial window properties.
 
-**Returns:** The newly created window. The caller may dispose it before disposing the application.
+## Returns
+
+The newly created window. The caller may dispose it before disposing the application.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when the platform application has already been disposed.

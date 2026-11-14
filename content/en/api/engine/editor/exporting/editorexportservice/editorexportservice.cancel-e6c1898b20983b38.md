@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Cancels the observed export only while that operation still owns this service.
 
+## Parameters
+
 **Parameter `operationId`:** The operation observed by the caller.

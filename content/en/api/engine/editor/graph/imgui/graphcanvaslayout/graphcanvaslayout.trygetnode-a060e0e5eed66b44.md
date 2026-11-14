@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves a node in this display snapshot without consulting domain or live-object registries.
 
+## Parameters
+
 **Parameter `id`:** The graph node identity to resolve.
 
 **Parameter `node`:** The current neutral node, or null when it is absent.
 
-**Returns:** True when the current snapshot contains the node.
+## Returns
+
+True when the current snapshot contains the node.

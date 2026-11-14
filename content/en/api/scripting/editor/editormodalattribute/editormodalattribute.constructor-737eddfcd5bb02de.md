@@ -12,10 +12,14 @@ apiScope: Editor
 
 Creates a centered modal registration with a stable identity and draw order.
 
+## Parameters
+
 **Parameter `id`:** The stable identity used to retain modal transition state across refreshes.
 
 **Parameter `title`:** The visible title rendered by the modal host.
 
 **Parameter `order`:** The stable ordering value when multiple modals are visible.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` or `title` is empty.

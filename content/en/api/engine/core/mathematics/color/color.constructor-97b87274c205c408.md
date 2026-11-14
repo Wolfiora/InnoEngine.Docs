@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a color by clamping each supplied channel to \[0, 1\].
 
+## Parameters
+
 **Parameter `r`:** The red channel.
 
 **Parameter `g`:** The green channel.

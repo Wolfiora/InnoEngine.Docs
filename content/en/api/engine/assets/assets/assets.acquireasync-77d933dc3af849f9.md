@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Acquires a canonical asset by persistent identity and explicitly retains it.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Required asset contract.
+
+## Parameters
 
 **Parameter `persistentId`:** Persistent asset identity.
 
 **Parameter `cancellationToken`:** Cancellation for this caller's asynchronous wait.
 
-**Returns:** A lease that owns residency for the canonical asset.
+## Returns
+
+A lease that owns residency for the canonical asset.

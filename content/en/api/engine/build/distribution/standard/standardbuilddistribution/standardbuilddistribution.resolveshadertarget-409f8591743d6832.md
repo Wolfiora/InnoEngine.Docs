@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves explicitly registered shader configuration independently of tool execution target.
 
+## Parameters
+
 **Parameter `target`:** The artifact's actual publication target.
 
-**Returns:** The borrowed immutable configuration; unavailable targets fail before native preparation.
+## Returns
+
+The borrowed immutable configuration; unavailable targets fail before native preparation.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The distribution has no shader configuration for this target.

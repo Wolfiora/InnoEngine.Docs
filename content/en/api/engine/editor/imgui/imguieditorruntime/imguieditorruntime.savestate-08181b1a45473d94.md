@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures all stateful active modules and panels and flushes their project state to disk.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after this runtime has been disposed.

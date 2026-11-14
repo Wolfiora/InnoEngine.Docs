@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats the subsystem identifier for diagnostics.
 
-**Returns:** The protocol value, or an empty string for an uninitialized value.
+## Returns
+
+The protocol value, or an empty string for an uninitialized value.

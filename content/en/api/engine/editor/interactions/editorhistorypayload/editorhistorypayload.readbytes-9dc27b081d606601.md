@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads the complete immutable payload into a newly allocated byte array.
 
-**Returns:** A copy of the payload bytes.
+## Returns
+
+A copy of the payload bytes.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the payload has been disposed.

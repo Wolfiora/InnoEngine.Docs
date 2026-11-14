@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Cancels an unfinished gesture and releases its ownership only after rollback succeeds.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Rollback is blocked or a nested transaction remains active.

@@ -12,10 +12,16 @@ apiScope: Runtime
 
 Adds or replaces one typed value in an open data channel.
 
+## Type parameters
+
 **Type parameter `TValue`:** Frame-local payload type.
+
+## Parameters
 
 **Parameter `channel`:** Pipeline-defined stable data channel.
 
 **Parameter `value`:** Value retained until the current frame completes.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown after the data has entered a request.

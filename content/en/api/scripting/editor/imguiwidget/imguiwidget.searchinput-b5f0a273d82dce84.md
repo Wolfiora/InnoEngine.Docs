@@ -16,6 +16,8 @@ Draws a single-line search field with a stable identifier.
 
 Escape clears a nonempty query before leaving text input on a subsequent press.
 
+## Parameters
+
 **Parameter `id`:** The stable control identifier.
 
 **Parameter `hint`:** The hint shown while the query is empty.
@@ -26,4 +28,6 @@ Escape clears a nonempty query before leaving text input on a subsequent press.
 
 **Parameter `width`:** The control width, or a negative value to fill the available space.
 
-**Returns:** `true` when the query changed; otherwise, `false`.
+## Returns
+
+`true` when the query changed; otherwise, `false`.

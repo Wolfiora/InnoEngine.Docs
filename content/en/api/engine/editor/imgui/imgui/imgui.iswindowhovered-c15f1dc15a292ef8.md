@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Checks window hover under the declared interaction policy.
 
+## Parameters
+
 **Parameter `flags`:** The explicit control and interaction options.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

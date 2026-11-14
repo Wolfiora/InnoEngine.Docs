@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws target-specific controls in the second row of the Inspector target header.
 
+## Parameters
+
 **Parameter `context`:** The active Inspector drawing context.
 
 **Parameter `target`:** The strongly typed target being inspected.

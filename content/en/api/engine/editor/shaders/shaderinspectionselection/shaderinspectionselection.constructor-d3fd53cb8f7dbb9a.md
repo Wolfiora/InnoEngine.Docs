@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a neutral Inspector selection separate from the Asset Browser's navigation.
 
+## Parameters
+
 **Parameter `assetId`:** Persistent shader asset identity.
 
 **Parameter `nodes`:** Selected stable node identities; empty selects document settings.

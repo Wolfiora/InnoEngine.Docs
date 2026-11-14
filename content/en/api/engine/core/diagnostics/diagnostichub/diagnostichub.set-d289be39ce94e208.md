@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Atomically replaces the complete diagnostic state published by one producer.
 
+## Parameters
+
 **Parameter `source`:** The stable producer identity whose previous report is replaced.
 
 **Parameter `diagnostics`:** The complete current report, or an empty collection to clear it.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the source is invalid or the collection contains a null entry.
 

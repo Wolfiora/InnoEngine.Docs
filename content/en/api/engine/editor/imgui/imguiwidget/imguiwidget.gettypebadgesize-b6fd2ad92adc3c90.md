@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the layout size of a compact outlined type badge.
 
+## Parameters
+
 **Parameter `label`:** Visible type name.
 
-**Returns:** The size reserved by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.TypeBadge(System.String,System.Numerics.Vector4,System.String)`.
+## Returns
+
+The size reserved by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.TypeBadge(System.String,System.Numerics.Vector4,System.String)`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `label` is `null`.

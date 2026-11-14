@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resets one scene system and records its compact property state before and after Reset.
 
+## Parameters
+
 **Parameter `system`:** The registered system to reset.
 
 **Parameter `historyName`:** An optional user-facing history entry name.

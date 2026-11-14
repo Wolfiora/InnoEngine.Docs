@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Resolves a registered object by its persistent identity.
 
+## Type parameters
+
 **Type parameter `TIdentity`:** The required identity object contract.
+
+## Parameters
 
 **Parameter `persistentId`:** The non-empty persistent identity to resolve.
 
-**Returns:** The live compatible object, or `null` when no matching object exists.
+## Returns
+
+The live compatible object, or `null` when no matching object exists.

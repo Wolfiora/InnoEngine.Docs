@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Validates the platform and managed deployment before asynchronously preparing its Support Pack.
 
+## Parameters
+
 **Parameter `target`:** The registered platform and architecture target to prepare.
 
 **Parameter `deployment`:** The selected managed publisher, or null to use the platform's default deployment. Unsupported pairs fail before any provisioner or external tool starts.
 
 **Parameter `cancellationToken`:** Cancellation before the Pack installation commits.
 
-**Returns:** Reading ownership of the verified Pack, to be disposed after starting its consuming build. No authoring asset database operations run during preparation.
+## Returns
+
+Reading ownership of the verified Pack, to be disposed after starting its consuming build. No authoring asset database operations run during preparation.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** No game target is registered for the requested identity.
 

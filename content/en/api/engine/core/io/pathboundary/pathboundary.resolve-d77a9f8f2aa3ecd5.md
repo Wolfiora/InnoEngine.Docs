@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves a relative path beneath a root and rejects traversal outside that root.
 
+## Parameters
+
 **Parameter `root`:** The owning root directory.
 
 **Parameter `relativePath`:** The relative path to resolve.
 
-**Returns:** The normalized absolute contained path.
+## Returns
+
+The normalized absolute contained path.

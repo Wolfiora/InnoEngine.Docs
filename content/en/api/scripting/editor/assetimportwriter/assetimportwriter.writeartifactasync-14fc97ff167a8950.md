@@ -12,6 +12,8 @@ apiScope: Editor
 
 Writes one immutable named artifact output.
 
+## Parameters
+
 **Parameter `outputName`:** The stable output name.
 
 **Parameter `bytes`:** The output content.
@@ -20,4 +22,6 @@ Writes one immutable named artifact output.
 
 **Parameter `deploymentScope`:** Whether this output is retained in runtime packages. Runtime payload and asset state cannot be authoring-only.
 
-**Returns:** A completed operation after the output has been staged.
+## Returns
+
+A completed operation after the output has been staged.

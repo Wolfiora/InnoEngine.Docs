@@ -12,4 +12,6 @@ apiScope: Editor
 
 Draws a labeled horizontal separator.
 
+## Parameters
+
 **Parameter `label`:** The label text validated by the separator text operation.

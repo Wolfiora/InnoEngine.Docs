@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Reverses lifecycle work performed while activating a candidate snapshot.
 
+## Parameters
+
 **Parameter `previous`:** The restored active snapshot, or `null` when none existed.
 
 **Parameter `candidate`:** The rejected candidate snapshot.

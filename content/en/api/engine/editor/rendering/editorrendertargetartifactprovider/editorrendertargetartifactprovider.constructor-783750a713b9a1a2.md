@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an Editor artifact provider backed by explicit shader and texture toolchains.
 
+## Parameters
+
 **Parameter `shaderCompiler`:** The compiler that turns backend-neutral shader IR into device target programs.
 
 **Parameter `assets`:** The authoring asset pipeline that owns source mounts.
@@ -21,6 +23,8 @@ Creates an Editor artifact provider backed by explicit shader and texture toolch
 
 **Parameter `diagnostics`:** The sink that receives compilation and last-good fallback diagnostics.
 
-**Exception `T:System.ArgumentNullException`:** Thrown when any required service is null.
-
 **Parameter `types`:** The shared authoring type generation owner for graph and source extensions.
+
+## Exceptions
+
+**Exception `T:System.ArgumentNullException`:** Thrown when any required service is null.

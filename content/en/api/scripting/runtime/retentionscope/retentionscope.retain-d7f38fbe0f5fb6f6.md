@@ -12,10 +12,18 @@ apiScope: Runtime
 
 Transfers one lease into this scope.
 
+## Type parameters
+
 **Type parameter `TLease`:** Disposable lease type.
+
+## Parameters
 
 **Parameter `lease`:** Lease whose disposal ownership transfers to this scope.
 
-**Returns:** The same lease for convenient initialization.
+## Returns
+
+The same lease for convenient initialization.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Retirement has begun and the scope cannot accept another lease.

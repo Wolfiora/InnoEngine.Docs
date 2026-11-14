@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Attempts to resolve a logical type reference against the active immutable generation.
 
+## Parameters
+
 **Parameter `typeRef`:** The stable type reference to resolve.
 
 **Parameter `type`:** Receives the active CLR type when resolution succeeds.
 
-**Returns:** `true` when the active generation contains the logical type.
+## Returns
+
+`true` when the active generation contains the logical type.

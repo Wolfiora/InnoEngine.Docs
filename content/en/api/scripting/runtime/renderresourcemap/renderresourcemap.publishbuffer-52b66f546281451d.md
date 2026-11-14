@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Publishes a buffer under a pipeline-defined semantic identifier.
 
+## Parameters
+
 **Parameter `id`:** Open semantic resource identifier.
 
 **Parameter `buffer`:** Valid current-graph buffer.

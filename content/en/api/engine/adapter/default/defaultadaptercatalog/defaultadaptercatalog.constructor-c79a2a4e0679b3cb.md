@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures each domain registration snapshot without initializing native services.
 
+## Parameters
+
 **Parameter `options`:** Explicit host configuration for location-dependent services.
 
 **Parameter `uiProviders`:** Complete ui registrations, or null to use the bundled implementation.

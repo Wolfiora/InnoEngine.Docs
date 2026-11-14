@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures complete layout text when persistence is required.
 
+## Parameters
+
 **Parameter `settings`:** Complete layout text when capture succeeds.
 
 **Parameter `force`:** Whether to capture even when the backend did not mark the layout dirty.
 
-**Returns:** `true` when layout text was captured.
+## Returns
+
+`true` when layout text was captured.

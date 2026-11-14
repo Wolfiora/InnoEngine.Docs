@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a node exists.
 
+## Parameters
+
 **Parameter `node`:** The node key.
 
-**Returns:** `true` when the node exists.
+## Returns
+
+`true` when the node exists.

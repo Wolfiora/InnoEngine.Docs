@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates the validation result returned before an asset transaction begins.
 
+## Parameters
+
 **Parameter `isValid`:** Whether the requested asset operation may proceed.
 
 **Parameter `message`:** The user-facing rejection diagnostic, or an empty string for a valid result.

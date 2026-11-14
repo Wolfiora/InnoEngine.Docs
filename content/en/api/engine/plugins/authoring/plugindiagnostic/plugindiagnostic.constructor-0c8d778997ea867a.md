@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a Plugin source diagnostic.
 
+## Parameters
+
 **Parameter `sourcePath`:** Related `.iplugin` package path or invalid installation entry.
 
 **Parameter `message`:** Actionable problem description.

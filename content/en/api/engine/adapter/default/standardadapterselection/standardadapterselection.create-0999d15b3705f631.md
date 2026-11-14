@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a complete selection while leaving the location-dependent storage choice to the product.
 
+## Parameters
+
 **Parameter `storage`:** The storage implementation explicitly registered by the product.
 
-**Returns:** A fully assigned standard selection; its catalog must still be validated before creating resources.
+## Returns
+
+A fully assigned standard selection; its catalog must still be validated before creating resources.

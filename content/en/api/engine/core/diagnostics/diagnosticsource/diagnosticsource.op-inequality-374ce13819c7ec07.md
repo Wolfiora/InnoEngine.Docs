@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two sources have different stable identifiers.
 
+## Parameters
+
 **Parameter `left`:** The left source.
 
 **Parameter `right`:** The right source.
 
-**Returns:** `true` when the source identifiers differ.
+## Returns
+
+`true` when the source identifiers differ.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes the execution policy and supported runtime identifiers declared by a provider.
 
+## Parameters
+
 **Parameter `runtimeIdentifiers`:** The exact runtime identifiers accepted by the selected managed toolchain.
 
 **Parameter `dynamicCode`:** Whether the deployed runtime supports generating executable managed code.

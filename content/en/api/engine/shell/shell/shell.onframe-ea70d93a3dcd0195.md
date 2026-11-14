@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances one product-specific frame after all pending platform events have been dispatched.
 
+## Parameters
+
 **Parameter `frame`:** Immutable timing and identity for the current shell frame.

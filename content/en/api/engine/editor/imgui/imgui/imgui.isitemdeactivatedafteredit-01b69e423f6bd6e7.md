@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Checks the completion frame of an edited control.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

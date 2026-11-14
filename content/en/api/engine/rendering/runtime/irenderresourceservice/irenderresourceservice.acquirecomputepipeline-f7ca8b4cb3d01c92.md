@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires or atomically replaces a provider-owned compute pipeline.
 
+## Parameters
+
 **Parameter `id`:** Globally stable provider-owned resource ID.
 
 **Parameter `revision`:** Provider-controlled content revision.
@@ -19,4 +21,6 @@ Acquires or atomically replaces a provider-owned compute pipeline.
 
 **Parameter `name`:** Diagnostic name.
 
-**Returns:** A compute pipeline owned by the active device generation.
+## Returns
+
+A compute pipeline owned by the active device generation.

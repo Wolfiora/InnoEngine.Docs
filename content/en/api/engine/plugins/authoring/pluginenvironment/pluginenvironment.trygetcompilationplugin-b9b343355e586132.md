@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Resolves a Plugin owned by the active or pending script-compilation generation.
 
+## Parameters
+
 **Parameter `source`:** Plugin source mount ID.
 
 **Parameter `plugin`:** Resolved Plugin candidate.
 
-**Returns:** True when the compilation generation owns the source.
+## Returns
+
+True when the compilation generation owns the source.

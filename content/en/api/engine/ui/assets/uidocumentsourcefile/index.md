@@ -14,6 +14,8 @@ aliases: []
 
 Contains immutable source text supplied to a UI language frontend.
 
+## Parameters
+
 **Parameter `assetPath`:** Original asset mount path.
 
 **Parameter `text`:** Strictly decoded UTF-8 text.

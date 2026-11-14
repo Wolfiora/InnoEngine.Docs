@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Creates a translation matrix.
 
+## Parameters
+
 **Parameter `x`:** Translation on X axis.
 
 **Parameter `y`:** Translation on Y axis.
 
 **Parameter `z`:** Translation on Z axis.
 
-**Returns:** A translation matrix whose translation resides in (m14, m24, m34).
+## Returns
+
+A translation matrix whose translation resides in (m14, m24, m34).

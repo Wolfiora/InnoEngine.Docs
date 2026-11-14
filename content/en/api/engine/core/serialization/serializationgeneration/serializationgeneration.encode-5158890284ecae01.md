@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Encodes a manually defined structured root using the converter generation captured by this instance.
 
+## Parameters
+
 **Parameter `write`:** The callback that writes the complete root object.
 
 **Parameter `context`:** Optional immutable converter context for this operation.
 
-**Returns:** Deterministic binary data containing the structured root.
+## Returns
+
+Deterministic binary data containing the structured root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `write` is null.
 

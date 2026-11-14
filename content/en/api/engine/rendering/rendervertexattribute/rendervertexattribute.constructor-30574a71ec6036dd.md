@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a vertex attribute declaration.
 
+## Parameters
+
 **Parameter `semantic`:** Shader input semantic.
 
 **Parameter `format`:** Packed component representation.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates inline rename presentation data.
 
+## Parameters
+
 **Parameter `id`:** The stable ImGui identifier used by the input field.
 
 **Parameter `width`:** The requested input width in logical pixels.
@@ -18,6 +20,8 @@ Creates inline rename presentation data.
 **Parameter `rowHeight`:** The height of the row area in which the field is centered.
 
 **Parameter `bufferSize`:** The maximum UTF-8 buffer size accepted by the input.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

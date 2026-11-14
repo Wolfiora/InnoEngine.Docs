@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a managed drop request.
 
+## Parameters
+
 **Parameter `editor`:** The shared passive editor context.
 
 **Parameter `interactions`:** The active interaction entry point.
@@ -25,6 +27,8 @@ Creates a managed drop request.
 **Parameter `target`:** The managed target object exposed to typed handlers.
 
 **Parameter `placement`:** The requested position relative to the target.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `editor`, `interactions`, `data`, `source`, or `target` is `null`.
 

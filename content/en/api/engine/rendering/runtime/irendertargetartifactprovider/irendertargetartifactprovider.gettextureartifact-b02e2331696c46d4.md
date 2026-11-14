@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Resolves the portable KTX artifact for one imported runtime texture.
 
+## Parameters
+
 **Parameter `texture`:** Stable reference to the imported texture slot.
 
 **Parameter `artifact`:** Receives immutable KTX bytes when the artifact exists and is non-empty.
 
-**Returns:** The current artifact availability. `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` guarantees that `artifact` is non-empty.
+## Returns
+
+The current artifact availability. `F:Inno.Rendering.Runtime.RenderTargetArtifactStatus.Ready` guarantees that `artifact` is non-empty.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `texture` is invalid.

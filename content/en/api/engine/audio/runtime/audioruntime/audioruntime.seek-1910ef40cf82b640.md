@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Moves a live or preparing voice cursor to a clip-relative position.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to seek.
 
 **Parameter `position`:** Non-negative clip-relative position.
 
-**Returns:** `true` when the cursor request was accepted.
+## Returns
+
+`true` when the cursor request was accepted.

@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a contextual menu request.
 
+## Parameters
+
 **Parameter `editor`:** The shared passive editor context.
 
 **Parameter `interactions`:** The active interaction entry point.
@@ -19,6 +21,8 @@ Creates a contextual menu request.
 **Parameter `area`:** The exact menu area being requested.
 
 **Parameter `target`:** The optional object the menu operates on.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `editor` or `interactions` is `null`.
 

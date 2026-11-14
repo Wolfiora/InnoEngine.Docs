@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Advances one context with explicitly routed viewport-local input.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `input`:** The input snapshot routed to this context.

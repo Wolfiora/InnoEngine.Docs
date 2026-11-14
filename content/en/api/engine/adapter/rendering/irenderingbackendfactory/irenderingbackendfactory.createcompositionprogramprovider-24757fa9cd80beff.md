@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates the composition program provider owned by the selected rendering backend.
 
+## Parameters
+
 **Parameter `backend`:** Stable identity of the selected rendering backend.
 
-**Returns:** A provider whose target programs are compatible with that backend.
+## Returns
+
+A provider whose target programs are compatible with that backend.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** No provider is registered for the requested backend identity.

@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates spatial playback parameters.
 
+## Parameters
+
 **Parameter `position`:** World-space source position.
 
 **Parameter `direction`:** World-space source forward direction.
@@ -33,5 +35,7 @@ Creates spatial playback parameters.
 **Parameter `coneOuterGain`:** Gain outside the outer cone.
 
 **Parameter `dopplerFactor`:** Doppler effect multiplier.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A vector or scalar is non-finite, a spatial bound is invalid, or the distance model is undefined.

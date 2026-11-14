@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures an explicit coherent scene presentation selected by a host.
 
+## Parameters
+
 **Parameter `scenes`:** The ordered live scene roots.
 
 **Parameter `activeScene`:** The optional primary root, which must be in the collection.
 
-**Returns:** A caller-owned scope that retains no scene instances.
+## Returns
+
+A caller-owned scope that retains no scene instances.

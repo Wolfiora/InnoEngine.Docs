@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Captures the editable scene set and materializes independent runtime copies in the supplied session.
 
+## Parameters
+
 **Parameter `runtimeSession`:** The isolated Play Mode session that receives the immutable start snapshot and owns editor-side operations performed against the runtime copies.
 
-**Returns:** A lease that presents the runtime copies to editor features, prevents their persistence, and restores the Edit presentation when disposed.
+## Returns
+
+A lease that presents the runtime copies to editor features, prevents their persistence, and restores the Edit presentation when disposed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `runtimeSession` is null.
 

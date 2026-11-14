@@ -12,6 +12,8 @@ apiScope: Editor
 
 Opens a standard panel window and executes panel body.
 
+## Parameters
+
 **Parameter `title`:** Window title.
 
 **Parameter `isOpen`:** Visible state.

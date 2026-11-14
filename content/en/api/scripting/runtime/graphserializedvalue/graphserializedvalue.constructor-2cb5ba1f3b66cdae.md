@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a graph value from one complete native serialization payload.
 
+## Parameters
+
 **Parameter `data`:** Bytes produced by the common Inno serialization pipeline.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the payload is empty.

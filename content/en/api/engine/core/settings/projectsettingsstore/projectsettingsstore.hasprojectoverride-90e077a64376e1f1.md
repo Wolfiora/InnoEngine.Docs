@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the active project document explicitly overrides one setting protocol.
 
+## Parameters
+
 **Parameter `id`:** Stable setting protocol identity.
 
-**Returns:** `true` when the project owns an override record.
+## Returns
+
+`true` when the project owns an override record.

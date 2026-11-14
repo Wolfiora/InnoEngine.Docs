@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Captures every exported function, implementation and include resolution from a successful source import.
 
+## Parameters
+
 **Parameter `functions`:** Complete source analyses keyed by explicit exported function name.
 
 **Parameter `serialization`:** Native converter registry; this bundle contains pure values only.
 
-**Returns:** Deterministic native authoring artifact bytes, not Player content.
+## Returns
+
+Deterministic native authoring artifact bytes, not Player content.

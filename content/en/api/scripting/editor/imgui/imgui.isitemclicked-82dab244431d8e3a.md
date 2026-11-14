@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether the previous item was clicked with a mouse button.
 
+## Parameters
+
 **Parameter `button`:** The mouse button to query.
 
-**Returns:** `true` when the item was clicked.
+## Returns
+
+`true` when the item was clicked.

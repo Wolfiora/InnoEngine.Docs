@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates and atomically replaces the complete document.
 
+## Parameters
+
 **Parameter `document`:** The complete candidate document.

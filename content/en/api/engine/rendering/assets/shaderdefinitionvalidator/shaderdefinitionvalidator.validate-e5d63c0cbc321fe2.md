@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Checks declaration identities, resource kinds, stage visibility and open technique mappings without mutating the candidate.
 
+## Parameters
+
 **Parameter `definition`:** The candidate runtime contract.
 
 **Parameter `capabilities`:** Optional device capabilities; unsupported optional passes produce warnings.
 
-**Returns:** Immutable diagnostics; an empty collection indicates a valid declaration contract.
+## Returns
+
+Immutable diagnostics; an empty collection indicates a valid declaration contract.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The definition is null.

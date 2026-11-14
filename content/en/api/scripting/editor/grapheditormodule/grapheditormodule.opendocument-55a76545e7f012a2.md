@@ -12,12 +12,18 @@ apiScope: Editor
 
 Opens or joins an active graph document session.
 
+## Parameters
+
 **Parameter `documentId`:** Persistent document identity; use the Asset identity for asset-backed graphs.
 
 **Parameter `document`:** Mutable neutral document owned by the current asset generation.
 
 **Parameter `history`:** Shared editor history used for every data mutation.
 
-**Returns:** A presentation-independent document controller.
+## Returns
+
+A presentation-independent document controller.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The bounded document owner is full.

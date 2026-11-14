@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a vertically centered disclosure triangle with button-style hover feedback.
 
+## Parameters
+
 **Parameter `min`:** The minimum screen coordinate of the indicator area.
 
 **Parameter `max`:** The maximum screen coordinate of the indicator area.

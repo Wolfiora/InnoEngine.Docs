@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the accumulated fixed simulation time in seconds.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no runtime session is bound to the current execution context.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs a child build with structured arguments, cancellation and hidden windows.
 
+## Parameters
+
 **Parameter `fileName`:** The executable to launch.
 
 **Parameter `arguments`:** The individual arguments, passed without shell interpretation.
@@ -21,7 +23,11 @@ Runs a child build with structured arguments, cancellation and hidden windows.
 
 **Parameter `environment`:** Optional process-local toolchain variables; the parent environment is unchanged. Null values remove inherited variables, while empty values remain explicitly empty.
 
-**Returns:** Completion after both output streams have drained and the process succeeds.
+## Returns
+
+Completion after both output streams have drained and the process succeeds.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The process fails to start or exits unsuccessfully.
 

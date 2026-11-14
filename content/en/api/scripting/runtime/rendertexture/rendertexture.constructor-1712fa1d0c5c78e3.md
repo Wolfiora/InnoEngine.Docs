@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an offscreen render target description.
 
+## Parameters
+
 **Parameter `name`:** Artist-facing and diagnostic name.
 
 **Parameter `descriptor`:** Initial texture requirements.

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Advances coroutine execution by one frame.
 
+## Parameters
+
 **Parameter `deltaTime`:** Frame delta time in seconds.
+
+## Exceptions
 
 **Exception `T:System.AggregateException`:** Execution, a wait predicate, or enumerator cleanup failed.
 

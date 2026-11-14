@@ -12,4 +12,6 @@ apiScope: Editor
 
 Initializes this feature when its owning runtime becomes active.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.

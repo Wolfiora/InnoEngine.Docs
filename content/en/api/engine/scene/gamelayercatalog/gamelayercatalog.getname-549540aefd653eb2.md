@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets the display name assigned to a layer slot.
 
+## Parameters
+
 **Parameter `layer`:** The layer slot to resolve.
 
-**Returns:** The configured name, or `null`.
+## Returns
+
+The configured name, or `null`.

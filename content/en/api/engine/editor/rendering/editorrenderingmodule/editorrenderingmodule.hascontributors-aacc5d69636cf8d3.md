@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether the current extension generation contributes to one viewport purpose.
 
+## Parameters
+
 **Parameter `kind`:** Open viewport purpose.
 
-**Returns:** `true` when at least one contributor is registered.
+## Returns
+
+`true` when at least one contributor is registered.

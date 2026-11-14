@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Declares a source input that invalidates this import.
 
+## Parameters
+
 **Parameter `path`:** The normalized file-system path used by this operation.

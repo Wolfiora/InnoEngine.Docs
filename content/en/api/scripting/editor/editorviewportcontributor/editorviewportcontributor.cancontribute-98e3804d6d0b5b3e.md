@@ -12,6 +12,10 @@ apiScope: Editor
 
 Determines whether this rendering model participates in the supplied viewport content.
 
+## Parameters
+
 **Parameter `context`:** Frame-only Editor, navigation, content, and viewport context.
 
-**Returns:** `true` when this contributor can build a valid model contribution.
+## Returns
+
+`true` when this contributor can build a valid model contribution.

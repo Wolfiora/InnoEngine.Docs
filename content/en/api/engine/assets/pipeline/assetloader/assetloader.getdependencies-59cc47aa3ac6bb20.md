@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets direct or transitive runtime dependencies of an asset.
 
+## Parameters
+
 **Parameter `asset`:** The asset to query.
 
 **Parameter `recursive`:** Whether transitive dependencies should be included.
 
-**Returns:** The persistent dependency descriptors.
+## Returns
+
+The persistent dependency descriptors.

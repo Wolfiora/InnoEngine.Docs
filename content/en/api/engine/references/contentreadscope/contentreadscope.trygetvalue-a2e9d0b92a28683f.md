@@ -11,13 +11,21 @@ apiSurface: source-clr
 
 Resolves a selected root without rebinding a stale snapshot to a replacement generation.
 
+## Type parameters
+
 **Type parameter `TValue`:** The required identity-backed root type.
+
+## Parameters
 
 **Parameter `id`:** The persistent identity selecting a root already captured by this scope.
 
 **Parameter `value`:** The live compatible object, or null when unavailable.
 
-**Returns:** True only when the captured runtime identity is still live and compatible.
+## Returns
+
+True only when the captured runtime identity is still live and compatible.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The operation scope has ended.
 

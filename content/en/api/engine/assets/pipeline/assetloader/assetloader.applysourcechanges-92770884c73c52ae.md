@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Applies normalized source file changes to the persistent catalog.
 
+## Parameters
+
 **Parameter `changes`:** The normalized source changes.

@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Binds this rendering runtime to script-facing graphics APIs for the current asynchronous execution flow.
 
-**Returns:** A strict last-in-first-out execution scope owned by the caller.
+## Returns
+
+A strict last-in-first-out execution scope owned by the caller.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this rendering runtime has been disposed.
 

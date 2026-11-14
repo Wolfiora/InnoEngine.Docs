@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Writes target content into the current operation's isolated staging directory.
 
+## Parameters
+
 **Parameter `context`:** The borrowed authoring generation and operation-owned content destination.
 
 **Parameter `cancellationToken`:** Cancels compilation before publication; associated work must finish before returning.
 
-**Returns:** An operation completing after every required artifact is staged, or faulting on failure.
+## Returns
+
+An operation completing after every required artifact is staged, or faulting on failure.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Cancellation was requested before compilation completed.

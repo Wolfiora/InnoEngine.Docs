@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a unique identifier for a new isolated runtime session.
 
-**Returns:** A newly allocated non-empty session identifier.
+## Returns
+
+A newly allocated non-empty session identifier.

@@ -12,6 +12,10 @@ apiScope: Editor
 
 Indicates whether this instance and a specified object are equal.
 
+## Parameters
+
 **Parameter `obj`:** The object to compare with the current instance.
 
-**Returns:** `true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.
+## Returns
+
+`true` if `obj` and this instance are the same type and represent the same value; otherwise, `false`.

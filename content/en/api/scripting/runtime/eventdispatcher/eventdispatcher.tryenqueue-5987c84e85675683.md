@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Attempts to enqueue without silently dropping a critical event on overload.
 
+## Parameters
+
 **Parameter `e`:** The event whose ownership transfers only on success.
 
-**Returns:** False when capacity is exhausted; the caller retains the event.
+## Returns
+
+False when capacity is exhausted; the caller retains the event.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The event is null.

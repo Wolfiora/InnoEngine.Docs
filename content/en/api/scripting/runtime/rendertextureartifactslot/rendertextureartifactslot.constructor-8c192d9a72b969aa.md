@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Creates one stable texture slot declaration.
 
+## Parameters
+
 **Parameter `id`:** Asset-local stable slot identifier.
 
 **Parameter `sourceOutputName`:** Named source artifact written by the owning asset importer.
 
 **Parameter `colorSpace`:** Sampling color-space interpretation used by the target compiler and GPU resource.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` or `sourceOutputName` is empty.

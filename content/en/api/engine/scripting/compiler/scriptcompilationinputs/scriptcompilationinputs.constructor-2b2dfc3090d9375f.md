@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Freezes a complete C# 14 and .NET 10 reference contract without retaining SDK objects.
 
+## Parameters
+
 **Parameter `sdkIdentity`:** The exact SDK identity that evaluated this contract.
 
 **Parameter `frameworkReferences`:** Absolute framework assembly paths selected by SDK reference resolution.
 
 **Parameter `predefinedSymbols`:** Framework and configuration symbols produced by SDK target execution.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity, reference set or a reference path is invalid.
 

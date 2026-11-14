@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets the current style color including the active alpha.
 
+## Parameters
+
 **Parameter `color`:** The packed RGBA color or semantic style slot.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

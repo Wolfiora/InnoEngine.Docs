@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates the session seen by one explicitly assigned model layer.
 
+## Parameters
+
 **Parameter `layer`:** The model and content-source assignment.
 
-**Returns:** A session with only the assigned world-content sources.
+## Returns
+
+A session with only the assigned world-content sources.

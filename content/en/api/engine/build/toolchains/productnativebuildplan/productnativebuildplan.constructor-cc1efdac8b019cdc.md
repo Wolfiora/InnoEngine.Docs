@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Validates the complete ordered component graph before tools or staging can start.
 
+## Parameters
+
 **Parameter `productId`:** The product identity whose native closure is selected.
 
 **Parameter `steps`:** Unique, dependency-ordered component operations.
 
 **Parameter `deploymentMetadata`:** Optional product-owned metadata preparation, without backend discovery.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The product, component identity or dependency ordering is invalid.
 

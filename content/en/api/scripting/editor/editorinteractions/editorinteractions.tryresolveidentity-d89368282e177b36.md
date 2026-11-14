@@ -12,8 +12,12 @@ apiScope: Editor
 
 Resolves a domain-qualified runtime identity through the Editor's complete identity-domain set.
 
+## Parameters
+
 **Parameter `identity`:** Runtime identity captured from a live Editor target.
 
 **Parameter `target`:** Receives the current live object, or `null` when its domain or generation is unavailable.
 
-**Returns:** `true` when the exact identity resolves in its owning domain.
+## Returns
+
+`true` when the exact identity resolves in its owning domain.

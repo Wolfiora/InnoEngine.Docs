@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Draws this field inside the frontend-managed content container.
 
+## Parameters
+
 **Parameter `setting`:** The isolated mutable object being edited.
 
-**Returns:** `true` when the staged object differs from the value it held when this frontend first drew that object.
+## Returns
+
+`true` when the staged object differs from the value it held when this frontend first drew that object.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `setting` is `null`.

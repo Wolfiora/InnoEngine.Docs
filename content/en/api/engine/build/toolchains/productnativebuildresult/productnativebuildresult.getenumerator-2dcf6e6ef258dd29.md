@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Enumerates borrowed products in plan order without transferring their ownership.
 
-**Returns:** An enumerator which must finish before this result is disposed.
+## Returns
+
+An enumerator which must finish before this result is disposed.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The result has already released its leases.

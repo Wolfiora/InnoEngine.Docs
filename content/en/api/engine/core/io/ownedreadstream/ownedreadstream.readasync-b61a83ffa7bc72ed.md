@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests.
 
+## Parameters
+
 **Parameter `buffer`:** The buffer to write the data into.
 
 **Parameter `offset`:** The byte offset in `buffer` at which to begin writing data from the stream.
@@ -18,6 +20,8 @@ Asynchronously reads a sequence of bytes from the current stream, advances the p
 **Parameter `count`:** The maximum number of bytes to read.
 
 **Parameter `cancellationToken`:** The token to monitor for cancellation requests. The default value is `P:System.Threading.CancellationToken.None`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** `buffer` is `null`.
 
@@ -33,4 +37,6 @@ Asynchronously reads a sequence of bytes from the current stream, advances the p
 
 **Exception `T:System.OperationCanceledException`:** The cancellation token was canceled. This exception is stored into the returned task.
 
-**Returns:** A task that represents the asynchronous read operation. The value of the `TResult` parameter contains the total number of bytes read into the buffer. The result value can be less than the number of bytes requested if the number of bytes currently available is less than the requested number, or it can be 0 (zero) if `count` is 0 or if the end of the stream has been reached.
+## Returns
+
+A task that represents the asynchronous read operation. The value of the `TResult` parameter contains the total number of bytes read into the buffer. The result value can be less than the number of bytes requested if the number of bytes currently available is less than the requested number, or it can be 0 (zero) if `count` is 0 or if the end of the stream has been reached.

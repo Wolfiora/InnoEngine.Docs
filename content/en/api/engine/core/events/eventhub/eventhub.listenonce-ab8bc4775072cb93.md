@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Subscribes a one-shot listener for the specified event type.
 
+## Type parameters
+
 **Type parameter `TEvent`:** Event type to listen for.
+
+## Parameters
 
 **Parameter `handler`:** Listener callback.
 
 **Parameter `priority`:** Listener priority within the selected event type's bucket. Higher values run earlier; a base-type listener does not precede a concrete-type listener because of its priority.
 
-**Returns:** A token that can cancel the one-shot listener before it runs.
+## Returns
+
+A token that can cancel the one-shot listener before it runs.

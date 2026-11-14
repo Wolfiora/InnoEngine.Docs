@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Changes the explicit active state of a GameObject and records the two Boolean values.
 
+## Parameters
+
 **Parameter `gameObject`:** The live GameObject whose active state should change.
 
 **Parameter `active`:** The requested explicit active state.

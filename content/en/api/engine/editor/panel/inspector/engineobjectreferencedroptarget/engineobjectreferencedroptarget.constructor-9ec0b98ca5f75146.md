@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a drop target that validates and assigns an engine object to a serialized property.
 
+## Parameters
+
 **Parameter `expectedType`:** The engine object type accepted by the property.
 
 **Parameter `assign`:** The callback that writes an accepted object to the property.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when either argument is `null`.

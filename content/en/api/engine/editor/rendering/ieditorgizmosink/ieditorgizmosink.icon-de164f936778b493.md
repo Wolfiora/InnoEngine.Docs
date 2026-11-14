@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds a visible, selectable icon at an object's world position.
 
+## Parameters
+
 **Parameter `owner`:** The scene object selected when the icon is clicked.
 
 **Parameter `position`:** The icon position in world space.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Moves a source and records the committed mutation in the supplied history.
 
+## Parameters
+
 **Parameter `sourcePath`:** The current isolated source-relative path.
 
 **Parameter `targetDirectory`:** The isolated destination directory.
 
 **Parameter `history`:** The authoritative history that receives the committed mutation.
 
-**Returns:** The committed source identity, or a validation result describing why the operation is unavailable.
+## Returns
+
+The committed source identity, or a validation result describing why the operation is unavailable.

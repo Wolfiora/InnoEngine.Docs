@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets the last visited isolated directory for a navigation root.
 
+## Parameters
+
 **Parameter `targetRoot`:** The root whose independent navigation position is requested.
 
-**Returns:** The source-relative directory, or an empty string for the root.
+## Returns
+
+The source-relative directory, or an empty string for the root.

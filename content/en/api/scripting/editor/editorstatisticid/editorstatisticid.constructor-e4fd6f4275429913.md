@@ -12,6 +12,10 @@ apiScope: Editor
 
 Creates a globally stable statistic identifier.
 
+## Parameters
+
 **Parameter `value`:** Non-empty globally stable identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` is empty.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates pause state for one bus and its routed voices.
 
+## Parameters
+
 **Parameter `bus`:** Bus owned by the current device generation.
 
 **Parameter `paused`:** Whether routed voices should pause.
 
-**Returns:** `true` when the bus was updated.
+## Returns
+
+`true` when the bus was updated.

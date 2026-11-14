@@ -16,4 +16,6 @@ Immediately dispatches an event inside this hub only.
 
 This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.
 
+## Parameters
+
 **Parameter `e`:** The event instance to dispatch locally.

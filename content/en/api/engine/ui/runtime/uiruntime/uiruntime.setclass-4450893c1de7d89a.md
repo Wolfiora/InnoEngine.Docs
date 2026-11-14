@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Updates the class state and applies the resulting invariants.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by set class; ownership remains with the caller unless explicitly stated otherwise.
@@ -21,4 +23,6 @@ Updates the class state and applies the resulting invariants.
 
 **Parameter `active`:** Whether active behavior is enabled while set class executes.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

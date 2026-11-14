@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Hashes declarations using the current operation's initial snapshot or explicit fresh verification phase.
 
+## Parameters
+
 **Parameter `context`:** The owner of this phase's complete input inventory and content hashes.
 
 **Parameter `declarations`:** Ordered non-file inputs; declaration order remains significant.
@@ -19,4 +21,6 @@ Hashes declarations using the current operation's initial snapshot or explicit f
 
 **Parameter `cancellationToken`:** Cancels complete enumeration and hashing.
 
-**Returns:** The SHA-256 identity; repeated physical reads within this phase are reused.
+## Returns
+
+The SHA-256 identity; repeated physical reads within this phase are reused.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to resolve the active Plugin that owns an asset source.
 
+## Parameters
+
 **Parameter `source`:** The isolated asset source identity.
 
 **Parameter `plugin`:** Receives the active Plugin candidate when the source is owned by one.
 
-**Returns:** `true` when an active Plugin owns the source.
+## Returns
+
+`true` when an active Plugin owns the source.

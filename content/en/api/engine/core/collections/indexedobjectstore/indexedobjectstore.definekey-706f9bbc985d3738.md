@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Defines a query key over stored items.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `name`:** Unique key name.
 
@@ -19,4 +23,6 @@ Defines a query key over stored items.
 
 **Parameter `orderComparer`:** Optional order comparer. Required when `F:Inno.Core.Collections.IndexedObjectKeyFlags.Ordered` is set.
 
-**Returns:** The created key handle.
+## Returns
+
+The created key handle.

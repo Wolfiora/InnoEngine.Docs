@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures successful immutable publications and the content inputs actually read during their preparation.
 
+## Parameters
+
 **Parameter `context`:** The completed operation, whose recorded input hashes are still owned by this preparation.
 
 **Parameter `plan`:** The matching declaration-order product plan.
@@ -19,4 +21,6 @@ Captures successful immutable publications and the content inputs actually read 
 
 **Parameter `requestIdentity`:** The identity returned by freezing this operation before preparation.
 
-**Returns:** BCL-only rows suitable for the MSBuild build-lifetime registry, or null for an aggregate or unowned binding publication. The rows contain no leases, delegates, plugin objects or private assembly types.
+## Returns
+
+BCL-only rows suitable for the MSBuild build-lifetime registry, or null for an aggregate or unowned binding publication. The rows contain no leases, delegates, plugin objects or private assembly types.

@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Validates composition, owns the created Editor host and retires resources on exit, cancellation or failure.
 
+## Parameters
+
 **Parameter `options`:** Borrowed catalogs, factories and product configuration; created resources transfer to the host.
 
 **Parameter `cancellationToken`:** Cancels before creation or requests orderly owner-thread shutdown.
 
-**Returns:** Zero after orderly completion; startup, execution and retirement failures propagate.
+## Returns
+
+Zero after orderly completion; startup, execution and retirement failures propagate.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Options or a required dependency is null.
 

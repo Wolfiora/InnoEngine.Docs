@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Persists one project-authored override through the native settings document.
 
+## Parameters
+
 **Parameter `id`:** Stable setting protocol identity.
 
 **Parameter `value`:** Current generation setting value.

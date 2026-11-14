@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a reference to one texture slot owned by an imported asset generation.
 
+## Parameters
+
 **Parameter `assetId`:** Persistent identity of the asset that owns the named source artifact.
 
 **Parameter `contentRevision`:** Current committed content revision of the owning asset.
 
 **Parameter `slot`:** Stable texture slot declaration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `assetId` is empty or `contentRevision` is negative.

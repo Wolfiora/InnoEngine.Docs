@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the immutable runtime payload and dependency descriptors required by the scene asset pipeline.
 
-**Returns:** A detached authoring-content snapshot owned by the caller.
+## Returns
+
+A detached authoring-content snapshot owned by the caller.

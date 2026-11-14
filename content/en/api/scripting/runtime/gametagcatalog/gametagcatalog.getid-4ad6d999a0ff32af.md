@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Gets the complete project-scoped identity of a defined tag.
 
+## Parameters
+
 **Parameter `projectId`:** The current project namespace.
 
 **Parameter `tag`:** The configured tag name.
 
-**Returns:** The canonical `projectId.name` identity.
+## Returns
+
+The canonical `projectId.name` identity.

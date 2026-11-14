@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Creates a fresh directory and ownership record under an explicitly supplied file boundary.
 
+## Parameters
+
 **Parameter `root`:** The absolute producer-controlled root; existing unrecorded directories are never adopted.
 
 **Parameter `cancellationToken`:** Cancels before payload ownership is returned.
 
-**Returns:** An owned directory lease; dispose only after its subprocesses and consumers finish.
+## Returns
+
+An owned directory lease; dispose only after its subprocesses and consumers finish.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The root is relative or is a filesystem root.
 

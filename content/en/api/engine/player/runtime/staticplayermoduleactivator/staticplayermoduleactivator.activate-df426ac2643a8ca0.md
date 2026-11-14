@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Verifies the code closure and publishes its module contributions atomically.
 
+## Parameters
+
 **Parameter `modules`:** The engine-owned module catalog and generation coordinator.
 
 **Parameter `deployment`:** The frozen logical deployment, independent of DLL directories or managed runtime technology.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The runtime manifest does not match the linked code closure.

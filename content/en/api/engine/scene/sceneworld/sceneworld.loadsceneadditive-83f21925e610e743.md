@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Loads a scene alongside the existing scene set.
 
+## Parameters
+
 **Parameter `scene`:** The scene to load additively.
 
 **Parameter `makeActive`:** Whether the loaded scene becomes active.

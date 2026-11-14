@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Resets one component and records its compact property state before and after Reset.
 
+## Parameters
+
 **Parameter `component`:** The attached component to reset.
 
 **Parameter `historyName`:** An optional user-facing history entry name.

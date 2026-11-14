@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a floating-point drag control.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
 **Parameter `value`:** The value to display and update.
@@ -21,4 +23,6 @@ Draws a floating-point drag control.
 
 **Parameter `maximum`:** The inclusive maximum, or zero with a zero minimum for no clamping.
 
-**Returns:** `true` when the value changes.
+## Returns
+
+`true` when the value changes.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Reads a required named structured object.
 
+## Parameters
+
 **Parameter `name`:** The required member name.
 
-**Returns:** A reader for the child object.
+## Returns
+
+A reader for the child object.

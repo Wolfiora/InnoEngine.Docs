@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable stage output binding.
 
+## Parameters
+
 **Parameter `id`:** The exact name in the block's output map.
 
 **Parameter `kind`:** GPU output category.

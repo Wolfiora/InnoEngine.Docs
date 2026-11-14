@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a graph node record.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier within the document.
 
 **Parameter `definitionId`:** Stable node definition identifier.

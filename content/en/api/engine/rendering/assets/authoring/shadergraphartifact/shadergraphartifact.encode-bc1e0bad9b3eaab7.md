@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures one native immutable graph import candidate.
 
+## Parameters
+
 **Parameter `graph`:** Authored graph with original node and port identities.
 
 **Parameter `sources`:** Frozen function bundles keyed by source node identity.
@@ -19,4 +21,6 @@ Captures one native immutable graph import candidate.
 
 **Parameter `program`:** Target-expanded explicit stages, or null when the authored graph already contains them.
 
-**Returns:** Deterministic authoring artifact bytes without live objects.
+## Returns
+
+Deterministic authoring artifact bytes without live objects.

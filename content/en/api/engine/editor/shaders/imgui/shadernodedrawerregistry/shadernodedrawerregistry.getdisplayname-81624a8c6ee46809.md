@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves an optional artist-facing name without executing a drawer or retaining its generation.
 
+## Parameters
+
 **Parameter `definitionId`:** Stable compiler-independent node identity.
 
-**Returns:** The contributed name, or null when the host should use its generic presentation.
+## Returns
+
+The contributed name, or null when the host should use its generic presentation.

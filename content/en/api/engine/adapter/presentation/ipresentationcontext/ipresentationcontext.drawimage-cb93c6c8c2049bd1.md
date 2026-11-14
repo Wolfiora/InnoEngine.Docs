@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a registered texture in the active presentation surface.
 
+## Parameters
+
 **Parameter `texture`:** Opaque presentation texture token.
 
 **Parameter `size`:** Destination size in logical presentation units.

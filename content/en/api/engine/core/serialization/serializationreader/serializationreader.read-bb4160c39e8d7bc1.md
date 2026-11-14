@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Reads a value using its declared metadata type without constructing a generic method at runtime.
 
+## Parameters
+
 **Parameter `name`:** The required non-empty member name.
 
 **Parameter `declaredType`:** The exact declaration whose converter and value semantics apply.
 
-**Returns:** The restored value, including null when the declaration permits it; invalid or missing data throws.
+## Returns
+
+The restored value, including null when the declaration permits it; invalid or missing data throws.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The declared type is null.
 

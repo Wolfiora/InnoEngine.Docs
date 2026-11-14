@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether this deployment supplies a parameterless factory for a declared type.
 
+## Parameters
+
 **Parameter `type`:** The declared runtime type.
 
-**Returns:** Whether instance construction is supported by the selected deployment.
+## Returns
+
+Whether instance construction is supported by the selected deployment.

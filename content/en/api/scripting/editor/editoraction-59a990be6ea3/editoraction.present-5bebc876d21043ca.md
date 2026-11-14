@@ -12,6 +12,10 @@ apiScope: Editor
 
 Presents an active action for a typed target and argument.
 
+## Parameters
+
 **Parameter `context`:** The typed presentation request.
 
-**Returns:** `true` when content was presented.
+## Returns
+
+`true` when content was presented.

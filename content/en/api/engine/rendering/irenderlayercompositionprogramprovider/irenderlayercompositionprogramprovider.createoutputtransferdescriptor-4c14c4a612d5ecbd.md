@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates the final transfer pipeline for a presentation target without automatic sRGB encoding.
 
+## Parameters
+
 **Parameter `capabilities`:** Capabilities of the device that will own the pipeline.
 
 **Parameter `vertexLayout`:** Layout of the fullscreen quad submitted by the runtime.
 
-**Returns:** An opaque pipeline descriptor that encodes premultiplied linear color to sRGB.
+## Returns
+
+An opaque pipeline descriptor that encodes premultiplied linear color to sRGB.

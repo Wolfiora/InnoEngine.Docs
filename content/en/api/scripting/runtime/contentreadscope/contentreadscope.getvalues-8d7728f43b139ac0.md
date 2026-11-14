@@ -12,9 +12,15 @@ apiScope: Runtime
 
 Resolves all live roots matching the requested content contract.
 
+## Type parameters
+
 **Type parameter `TValue`:** The identity-backed content type understood by the consumer.
 
-**Returns:** A read-only operation snapshot; stale or incompatible roots are omitted.
+## Returns
+
+A read-only operation snapshot; stale or incompatible roots are omitted.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The operation scope has ended.
 

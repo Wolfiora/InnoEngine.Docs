@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets a ports required by the implemented contract.
 
+## Parameters
+
 **Parameter `node`:** The node consumed by get ports; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

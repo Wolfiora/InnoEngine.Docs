@@ -14,6 +14,8 @@ aliases: []
 
 Raised when a mouse button is released.
 
+## Parameters
+
 **Parameter `windowId`:** The window id used to initialize this instance.
 
 **Parameter `button`:** The button used to initialize this instance.

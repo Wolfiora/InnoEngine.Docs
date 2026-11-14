@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Selects only the offline graphics compiler component needed for shader publication.
 
-**Returns:** An immutable tool product without runtime or Editor presentation dependencies.
+## Returns
+
+An immutable tool product without runtime or Editor presentation dependencies.
+
+## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
 

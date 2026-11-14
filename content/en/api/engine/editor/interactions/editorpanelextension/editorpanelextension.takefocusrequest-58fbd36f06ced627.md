@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Consumes a pending request to focus this panel window.
 
-**Returns:** `true` once for each accepted focus request.
+## Returns
+
+`true` once for each accepted focus request.

@@ -14,6 +14,8 @@ aliases: []
 
 Describes a creation menu item without retaining a plugin instance.
 
+## Parameters
+
 **Parameter `id`:** Stable template identity.
 
 **Parameter `displayName`:** User-facing label.

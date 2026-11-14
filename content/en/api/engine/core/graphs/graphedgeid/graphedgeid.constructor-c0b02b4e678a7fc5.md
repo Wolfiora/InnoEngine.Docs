@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a stable graph edge identifier.
 
+## Parameters
+
 **Parameter `value`:** Non-empty identifier value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` is empty.

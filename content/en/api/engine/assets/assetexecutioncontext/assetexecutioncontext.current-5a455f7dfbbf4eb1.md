@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the asset lookup bound to the current asynchronous execution context.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when no asset lookup is active for the caller.

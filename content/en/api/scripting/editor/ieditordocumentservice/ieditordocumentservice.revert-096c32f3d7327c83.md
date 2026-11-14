@@ -12,6 +12,10 @@ apiScope: Editor
 
 Reverts staged changes through the current provider.
 
+## Parameters
+
 **Parameter `documentId`:** Stable tab identity.
 
-**Returns:** `true` when changes are reverted.
+## Returns
+
+`true` when changes are reverted.

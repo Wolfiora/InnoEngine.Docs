@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Prepares current target inputs and atomically selects their immutable Support Pack.
 
+## Parameters
+
 **Parameter `target`:** The target platform and architecture identity.
 
 **Parameter `supportPackRoot`:** The directory that owns the installed target directories.
 
 **Parameter `cancellationToken`:** Cancels preparation or publication before a new current fingerprint is selected.
 
-**Returns:** An operation that completes after the target Pack has been installed and verified.
+## Returns
+
+An operation that completes after the target Pack has been installed and verified.

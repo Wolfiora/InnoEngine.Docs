@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Returns a stable runtime reference hash code.
 
-**Returns:** The reference hash code.
+## Returns
+
+The reference hash code.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Tries to consume one terminal voice transition recorded by the backend.
 
+## Parameters
+
 **Parameter `completion`:** Receives one terminal transition when available.
 
-**Returns:** `true` when a completion was dequeued.
+## Returns
+
+`true` when a completion was dequeued.

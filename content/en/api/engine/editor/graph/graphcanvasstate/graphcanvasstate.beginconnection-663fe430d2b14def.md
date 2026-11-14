@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Begins a connection drag from one endpoint.
 
+## Parameters
+
 **Parameter `endpoint`:** Stable endpoint.
 
 **Parameter `direction`:** Direction of the endpoint within its node interface.

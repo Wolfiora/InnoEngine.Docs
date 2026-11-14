@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Marks a buffer as a graph output that keeps its producers alive.
 
+## Parameters
+
 **Parameter `buffer`:** Output buffer.

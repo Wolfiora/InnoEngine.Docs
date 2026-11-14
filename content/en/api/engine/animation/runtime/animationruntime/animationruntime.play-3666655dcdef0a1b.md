@@ -11,14 +11,20 @@ apiSurface: source-clr
 
 Starts one clip with the runtime's default playback policy.
 
+## Parameters
+
 **Parameter `clip`:** Valid clip to sample until completion or explicit stop.
 
-**Returns:** A generation-checked handle owned by this runtime.
+**Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+## Returns
+
+A generation-checked handle owned by this runtime.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this runtime has been disposed.
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `clip` is null.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the clip is structurally invalid.
-
-**Parameter `target`:** The weak destination or explicit sampling-only policy.

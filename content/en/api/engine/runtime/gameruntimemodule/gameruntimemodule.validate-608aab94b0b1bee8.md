@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates module identity, ownership, file names, and dependency declarations.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the module cannot be activated as part of a frozen Player generation.

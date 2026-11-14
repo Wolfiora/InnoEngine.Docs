@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Runs after an asset move transaction commits successfully.
 
+## Parameters
+
 **Parameter `context`:** The immutable snapshot captured before the move.
 
 **Parameter `oldPath`:** The previous source-relative path.

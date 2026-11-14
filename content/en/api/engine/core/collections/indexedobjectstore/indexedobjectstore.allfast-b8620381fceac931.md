@@ -15,4 +15,6 @@ Returns all stored items as a lazy fail-fast enumerable.
 
 Enumeration throws if the store is modified during iteration.
 
-**Returns:** Lazy fail-fast enumerable of all stored items.
+## Returns
+
+Lazy fail-fast enumerable of all stored items.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Attempts to merge two adjacent changes to the same logical value.
 
+## Parameters
+
 **Parameter `older`:** The existing older history change.
 
 **Parameter `newer`:** The newly recorded adjacent history change.
 
 **Parameter `merged`:** The independently owned merged change when successful.
 
-**Returns:** `true` when `merged` replaces both input changes.
+## Returns
+
+`true` when `merged` replaces both input changes.

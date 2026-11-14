@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resolves the source draft for a canonical Material identity.
 
+## Parameters
+
 **Parameter `material`:** The current canonical Material whose source is edited.
 
-**Returns:** The generation-scoped editable source draft.
+## Returns
+
+The generation-scoped editable source draft.

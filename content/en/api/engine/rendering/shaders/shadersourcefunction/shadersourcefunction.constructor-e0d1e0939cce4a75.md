@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures a source function declaration without retaining parser or provider objects.
 
+## Parameters
+
 **Parameter `name`:** Implementation function name selected by import settings.
 
 **Parameter `returnType`:** Canonical result type; void has no result port.
@@ -18,5 +20,7 @@ Captures a source function declaration without retaining parser or provider obje
 **Parameter `parameters`:** Unique named parameters in call order.
 
 **Parameter `location`:** Original declaration location.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The name is reserved or parameters have duplicate names.

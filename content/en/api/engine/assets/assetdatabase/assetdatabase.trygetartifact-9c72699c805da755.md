@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Tries to resolve one named immutable artifact output by persistent asset identity.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent identity of the artifact owner.
 
 **Parameter `outputName`:** The exact artifact output name.
 
 **Parameter `artifact`:** Receives verified output metadata without prescribing a physical deployment location.
 
-**Returns:** `true` when the deployed bundle contains the requested output; otherwise, `false`.
+## Returns
+
+`true` when the deployed bundle contains the requested output; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this database has been disposed.

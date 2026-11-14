@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases only this directory after its other recorded process lifetimes have exited.
 
+## Exceptions
+
 **Exception `T:System.IO.IOException`:** Removal failed; its explicit claim remains available for later retirement.

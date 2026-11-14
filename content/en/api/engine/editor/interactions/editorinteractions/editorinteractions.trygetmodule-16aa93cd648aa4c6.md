@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Resolves an active feature module for immediate use in the current Editor callback.
 
+## Type parameters
+
 **Type parameter `TModule`:** The feature module contract to resolve.
+
+## Parameters
 
 **Parameter `module`:** The started, non-quarantined module, or null when unavailable.
 
-**Returns:** True when the active generation supplies the requested module.
+## Returns
+
+True when the active generation supplies the requested module.
 
 ## Remarks
 

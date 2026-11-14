@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Activates a tool after cancelling any current gesture.
 
+## Parameters
+
 **Parameter `tool`:** Tool to activate, or `null` to deactivate.

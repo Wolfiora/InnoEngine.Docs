@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Adds one ordered mesh draw.
 
+## Parameters
+
 **Parameter `command`:** Draw command referencing an assigned mesh.

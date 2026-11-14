@@ -12,11 +12,15 @@ apiScope: Editor
 
 Creates a neutral history change.
 
+## Parameters
+
 **Parameter `kind`:** The stable globally unique handler protocol identifier.
 
 **Parameter `payload`:** The immutable neutral payload interpreted by the handler.
 
 **Parameter `mergeKey`:** An optional stable key used by the handler to merge adjacent changes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `kind` is empty.
 

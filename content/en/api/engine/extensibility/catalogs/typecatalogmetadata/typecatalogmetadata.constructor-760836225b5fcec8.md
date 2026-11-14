@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures type relationships and attributes for one candidate generation.
 
+## Parameters
+
 **Parameter `type`:** The declared type belonging to the contributing assembly.
 
 **Parameter `baseTypes`:** Ordered base types, starting with the immediate base and excluding System.Object.
@@ -22,5 +24,7 @@ Captures type relationships and attributes for one candidate generation.
 **Parameter `inheritedAttributes`:** The effective attributes after applying inheritance and multiplicity rules.
 
 **Parameter `parameterlessOverrides`:** Effective parameterless instance overrides, paired with the declaration owning their virtual slot.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required declaration or collection is null.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Obtains a newly owned complete document snapshot.
 
-**Returns:** Owned document bytes, or null when no document exists; an empty document remains distinct from absence.
+## Returns
+
+Owned document bytes, or null when no document exists; an empty document remains distinct from absence.

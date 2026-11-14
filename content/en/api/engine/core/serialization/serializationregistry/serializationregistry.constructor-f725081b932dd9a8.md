@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a serialization registry derived from one isolated type catalog.
 
+## Parameters
+
 **Parameter `types`:** The type catalog that owns converter extension generations.
 
-**Exception `T:System.ArgumentNullException`:** Thrown when `types` is null.
-
 **Parameter `metadata`:** The declaration access provider selected by the same composition root.
+
+## Exceptions
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `types` is null.

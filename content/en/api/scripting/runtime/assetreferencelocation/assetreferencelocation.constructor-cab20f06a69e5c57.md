@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Describes a neutral, persistent location without retaining its live owner.
 
+## Parameters
+
 **Parameter `kind`:** The category of reference owner.
 
 **Parameter `ownerId`:** The owner's persistent identity.

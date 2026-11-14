@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets an active treatment derived from a base theme color.
 
-**Returns:** The base color blended toward the palette text color using the standard active amount.
+## Returns
+
+The base color blended toward the palette text color using the standard active amount.
+
+## Parameters
 
 **Parameter `color`:** The color consumed by get active; ownership remains with the caller unless explicitly stated otherwise.

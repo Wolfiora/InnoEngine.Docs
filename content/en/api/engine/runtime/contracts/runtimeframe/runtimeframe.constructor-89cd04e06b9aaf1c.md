@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the immutable timing snapshot for one variable frame.
 
+## Parameters
+
 **Parameter `frameIndex`:** The monotonically increasing owner frame index.
 
 **Parameter `time`:** Accumulated scaled time.

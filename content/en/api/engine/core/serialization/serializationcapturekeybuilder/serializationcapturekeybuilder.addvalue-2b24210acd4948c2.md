@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds an exact neutral identifier without hashing or allocating text.
 
+## Parameters
+
 **Parameter `value`:** The current identifier input, including an empty identifier when meaningful.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The callback has retired or is accessed from another thread.

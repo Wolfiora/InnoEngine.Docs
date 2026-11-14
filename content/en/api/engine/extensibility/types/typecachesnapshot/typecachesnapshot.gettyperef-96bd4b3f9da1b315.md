@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Gets the reference for a CLR type in this snapshot.
 
-**Returns:** The logical and generation-local identity of `type`.
+## Returns
+
+The logical and generation-local identity of `type`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `type` is `null`.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the type does not belong to this snapshot.
+
+## Parameters
 
 **Parameter `type`:** The type consumed by get type ref; ownership remains with the caller unless explicitly stated otherwise.

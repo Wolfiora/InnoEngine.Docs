@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Captures each persistent property independently for reload-safe state restoration.
 
+## Parameters
+
 **Parameter `value`:** The object whose serializable properties should be captured.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** Ordered independent property snapshots.
+## Returns
+
+Ordered independent property snapshots.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is null.
 

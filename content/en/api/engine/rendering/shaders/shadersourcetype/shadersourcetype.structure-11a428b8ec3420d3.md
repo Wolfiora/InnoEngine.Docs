@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates a nominal structure with a validated immutable field layout.
 
+## Parameters
+
 **Parameter `id`:** Public structure identity shared by alternative implementations.
 
 **Parameter `fields`:** Unique named fields in declaration order.
 
-**Returns:** An immutable structure type.
+## Returns
+
+An immutable structure type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity is reserved, or fields are empty, null, or duplicated.

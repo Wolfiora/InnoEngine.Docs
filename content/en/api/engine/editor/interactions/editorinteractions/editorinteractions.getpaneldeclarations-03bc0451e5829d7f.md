@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets immutable discovery metadata for the active, available panels.
 
-**Returns:** Current panel declarations; the snapshot contains no panel or extension instances.
+## Returns
+
+Current panel declarations; the snapshot contains no panel or extension instances.

@@ -15,4 +15,6 @@ Freezes automatic extension-state persistence and writes the final state before 
 
 This operation is idempotent. After it succeeds, later disposal cannot recapture transient teardown state such as an empty scene workspace.
 
+## Exceptions
+
 **Exception `T:System.ObjectDisposedException`:** Thrown after this runtime has been disposed.

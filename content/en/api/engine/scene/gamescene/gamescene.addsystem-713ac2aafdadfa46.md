@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates and registers a parameterless game system.
 
+## Type parameters
+
 **Type parameter `TSystem`:** Concrete system type.
 
-**Returns:** The registered system.
+## Returns
+
+The registered system.

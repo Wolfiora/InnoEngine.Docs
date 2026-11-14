@@ -12,8 +12,12 @@ apiScope: Editor
 
 Draws non-interactive text centered on a compact, softly rounded colored background.
 
+## Parameters
+
 **Parameter `label`:** Visible label text.
 
 **Parameter `background`:** Background color drawn behind the label.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `label` is `null`.

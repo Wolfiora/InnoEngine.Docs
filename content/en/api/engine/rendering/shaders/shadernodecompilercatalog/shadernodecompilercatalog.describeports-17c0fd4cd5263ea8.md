@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Describes current typed ports for editor presentation without exposing the compiler provider.
 
+## Parameters
+
 **Parameter `node`:** Neutral node properties.
 
 **Parameter `serialization`:** Owner converter registry.
@@ -23,4 +25,6 @@ Describes current typed ports for editor presentation without exposing the compi
 
 **Parameter `input`:** Resolved stage input interface, or null.
 
-**Returns:** A detached immutable typed port snapshot.
+## Returns
+
+A detached immutable typed port snapshot.

@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Captures neutral slots and ordered domain owners without resolving or mutating live state.
 
+## Parameters
+
 **Parameter `catalog`:** The candidate resolver set, consulted after provisional objects are registered.
 
 **Parameter `missingStates`:** Preserved object and dependency slots, each with a unique owner key.
 
 **Parameter `participants`:** Domain changes in dependency order, owned until commit or complete rollback.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** An input or collection entry is null.
 

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a query condition from a predicate delegate.
 
+## Parameters
+
 **Parameter `predicate`:** The predicate to wrap.
 
-**Returns:** The validated indexed object predicate conditiont that represents the completed operation.
+## Returns
+
+The validated indexed object predicate conditiont that represents the completed operation.

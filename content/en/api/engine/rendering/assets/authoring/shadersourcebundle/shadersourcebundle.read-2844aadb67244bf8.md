@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reads an immutable function snapshot through its explicit artifact owner.
 
+## Parameters
+
 **Parameter `function`:** Stable function asset identity.
 
 **Parameter `artifacts`:** Current authoring artifact lookup.
 
-**Returns:** Detached module bytes retained for the duration of reading.
+## Returns
+
+Detached module bytes retained for the duration of reading.

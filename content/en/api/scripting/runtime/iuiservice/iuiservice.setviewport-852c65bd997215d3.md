@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Changes one context's pixel dimensions and density.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `width`:** New viewport width in physical pixels.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a target profile without discovering an SDK or executing a generator.
 
+## Parameters
+
 **Parameter `targetId`:** The engine target identity that may consume this profile.
 
 **Parameter `target`:** The official BGCS native target selection.
@@ -22,5 +24,7 @@ Creates a target profile without discovering an SDK or executing a generator.
 **Parameter `configureGenerator`:** An immutable platform-owned registration action for official BGCS extensions, or null for the standard SDK. The action must not capture mutable state; its implementation and extension assemblies participate in input identity.
 
 **Parameter `importMode`:** The platform's official import mechanism, or null to preserve the component choice.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity is empty, uses implicit host selection, or a path escapes the checkout.

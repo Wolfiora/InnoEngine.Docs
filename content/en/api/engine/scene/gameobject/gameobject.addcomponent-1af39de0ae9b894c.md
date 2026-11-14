@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates and attaches a component of the requested runtime type.
 
+## Parameters
+
 **Parameter `componentType`:** Concrete component type.
 
-**Returns:** The attached component.
+## Returns
+
+The attached component.

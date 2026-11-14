@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Retires claims for absent payloads while the caller exclusively owns the persistent root gate.
 
+## Parameters
+
 **Parameter `root`:** The exact producer root whose owner.lock the caller exclusively holds.
 
 **Parameter `cancellationToken`:** Cancellation between complete metadata retirements.
 
-**Returns:** The number of fully retired claims.
+## Returns
+
+The number of fully retired claims.
 
 ## Remarks
 

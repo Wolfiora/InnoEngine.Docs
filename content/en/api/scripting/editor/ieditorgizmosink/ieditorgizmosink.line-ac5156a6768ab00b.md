@@ -12,6 +12,8 @@ apiScope: Editor
 
 Adds a non-interactive world-space line, normally for selected bounds.
 
+## Parameters
+
 **Parameter `start`:** The first world-space endpoint.
 
 **Parameter `end`:** The second world-space endpoint.

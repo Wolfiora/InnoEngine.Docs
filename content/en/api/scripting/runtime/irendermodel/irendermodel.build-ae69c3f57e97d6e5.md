@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Builds one model output after acceptance.
 
+## Parameters
+
 **Parameter `session`:** Host output session.
 
-**Returns:** Prepared frame data and pipeline.
+## Returns
+
+Prepared frame data and pipeline.

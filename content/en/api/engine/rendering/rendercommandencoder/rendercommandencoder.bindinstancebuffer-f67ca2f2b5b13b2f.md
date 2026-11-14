@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Selects the buffer range supplying per-instance attributes.
 
+## Parameters
+
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.
 
 **Parameter `firstInstance`:** Zero-based offset in the instance data.

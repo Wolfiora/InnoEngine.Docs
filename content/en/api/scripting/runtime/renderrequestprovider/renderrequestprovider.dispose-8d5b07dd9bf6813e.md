@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Releases managed generation-scoped state.
 
+## Parameters
+
 **Parameter `disposing`:** Always true for explicit disposal.
+
+## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Retirement cannot complete yet; subsequent calls resume this hook with its remaining owned resources.

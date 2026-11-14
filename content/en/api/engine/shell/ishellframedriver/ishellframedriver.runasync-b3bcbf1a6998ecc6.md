@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Schedules frames on the owning thread until a frame callback requests termination.
 
+## Parameters
+
 **Parameter `advanceFrame`:** Executes one frame and returns true when the host should schedule another frame.
 
 **Parameter `cancellationToken`:** Requests termination before the next frame.
 
-**Returns:** Completion after scheduling ends; callback failures must propagate to the shell.
+## Returns
+
+Completion after scheduling ends; callback failures must propagate to the shell.

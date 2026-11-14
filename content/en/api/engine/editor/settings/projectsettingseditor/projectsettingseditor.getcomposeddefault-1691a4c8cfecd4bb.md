@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Creates the composed host and Plugin default without the project override.
 
+## Parameters
+
 **Parameter `definition`:** The active presentation whose default is requested.
 
-**Returns:** An isolated composed default value.
+## Returns
+
+An isolated composed default value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `definition` is `null`.
 

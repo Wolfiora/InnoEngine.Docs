@@ -12,7 +12,11 @@ apiScope: Editor
 
 Accepts an unmanaged payload on an explicit screen-space rectangle.
 
+## Type parameters
+
 **Type parameter `TPayload`:** Unmanaged payload type.
+
+## Parameters
 
 **Parameter `payloadType`:** Stable ImGui payload type identifier.
 
@@ -28,6 +32,10 @@ Accepts an unmanaged payload on an explicit screen-space rectangle.
 
 **Parameter `drawDefaultHighlight`:** Whether ImGui draws its default target rectangle.
 
-**Returns:** `true` only when a compatible payload is delivered.
+## Returns
+
+`true` only when a compatible payload is delivered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `payloadType` is empty or whitespace.

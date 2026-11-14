@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Directs this pass to a persistent presentation surface instead of the primary backbuffer.
 
+## Parameters
+
 **Parameter `surface`:** Surface owned by the active graphics-device generation.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `surface` is invalid.

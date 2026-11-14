@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a section header with optional explanatory text.
 
+## Parameters
+
 **Parameter `title`:** Visible section title.
 
 **Parameter `description`:** Optional explanatory text displayed when the title is hovered.

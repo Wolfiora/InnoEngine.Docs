@@ -12,6 +12,10 @@ apiScope: Editor
 
 Returns whether this provider can open the supplied project asset path.
 
+## Parameters
+
 **Parameter `assetPath`:** Normalized project asset path.
 
-**Returns:** `true` when the path is supported.
+## Returns
+
+`true` when the path is supported.

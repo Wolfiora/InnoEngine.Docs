@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Builds immutable outputs from a consistent asset snapshot.
 
+## Parameters
+
 **Parameter `context`:** The build context.
 
 **Parameter `output`:** The candidate output writer.
 
 **Parameter `cancellationToken`:** Cancellation for the build.
 
-**Returns:** An operation that completes when all outputs are staged.
+## Returns
+
+An operation that completes when all outputs are staged.

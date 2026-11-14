@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Clamps a value to the inclusive range \[0, 1\].
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.
+
+## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

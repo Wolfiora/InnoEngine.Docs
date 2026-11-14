@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates a context containing the required asset resolver and an optional dependency collector.
 
+## Parameters
+
 **Parameter `references`:** The authoritative asset reference resolver for the operation's complete generation.
 
 **Parameter `dependencies`:** Optional collector that records direct asset dependencies during serialization.
 
-**Returns:** A complete immutable asset-aware serialization context.
+## Returns
+
+A complete immutable asset-aware serialization context.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `references` is null.

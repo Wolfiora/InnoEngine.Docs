@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates the initial detached value, allowing specialized deterministic defaults.
 
-**Returns:** A new asset value owned by the caller.
+## Returns
+
+A new asset value owned by the caller.

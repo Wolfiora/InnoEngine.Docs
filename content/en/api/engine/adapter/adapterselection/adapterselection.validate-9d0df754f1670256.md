@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Validates every selected registration before the composition creates any service.
 
+## Parameters
+
 **Parameter `catalog`:** The complete, composition-owned factory snapshot.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The catalog is null.
 

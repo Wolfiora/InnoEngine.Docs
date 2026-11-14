@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Compiles a detached document through the same graph toolchain in an isolated preview cache.
 
+## Parameters
+
 **Parameter `documentId`:** Preview owner identity, independent of canonical artifact lookup.
 
 **Parameter `graph`:** Current draft, never modified or retained.
@@ -19,4 +21,6 @@ Compiles a detached document through the same graph toolchain in an isolated pre
 
 **Parameter `variant`:** Exact static keyword selection.
 
-**Returns:** Preview-only state and artifact; calling this method cannot publish to Scene/Game.
+## Returns
+
+Preview-only state and artifact; calling this method cannot publish to Scene/Game.

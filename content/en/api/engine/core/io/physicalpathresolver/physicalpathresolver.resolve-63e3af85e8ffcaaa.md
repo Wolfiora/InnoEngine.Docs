@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Resolves existing link components and retains their observed physical spelling for this phase.
 
+## Parameters
+
 **Parameter `path`:** The file or directory to inspect; relative paths use the current working directory.
 
-**Returns:** The observed physical path, without creating files or relaxing an ownership boundary.
+## Returns
+
+The observed physical path, without creating files or relaxing an ownership boundary.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The path is empty or invalid.
 

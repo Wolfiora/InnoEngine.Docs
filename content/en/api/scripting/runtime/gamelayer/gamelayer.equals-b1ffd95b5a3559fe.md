@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Determines whether another layer identifies the same index.
 
+## Parameters
+
 **Parameter `other`:** The layer to compare with this value.
 
-**Returns:** `true` when both layers identify the same index.
+## Returns
+
+`true` when both layers identify the same index.

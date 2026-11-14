@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks whether the item satisfies this condition.
 
+## Parameters
+
 **Parameter `store`:** Store being queried.
 
 **Parameter `item`:** Item to test.
 
-**Returns:** True if the item matches.
+## Returns
+
+True if the item matches.

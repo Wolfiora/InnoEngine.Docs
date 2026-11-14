@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a serialized property renderer over one drawer registry and feature-owned edit service.
 
+## Parameters
+
 **Parameter `drawers`:** The property drawer registry used for runtime type resolution.
 
 **Parameter `attributes`:** The generation-aware registry that interprets Inspector presentation attributes.
@@ -20,5 +22,7 @@ Creates a serialized property renderer over one drawer registry and feature-owne
 **Parameter `edits`:** The feature-owned service used to apply and record property changes.
 
 **Parameter `logs`:** The host-owned log router used to report isolated drawer failures.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `drawers`, `interactions`, or `edits` is `null`.

@@ -14,6 +14,8 @@ aliases: []
 
 Raised when a key is released.
 
+## Parameters
+
 **Parameter `windowId`:** The window id used to initialize this instance.
 
 **Parameter `key`:** The key used to initialize this instance.

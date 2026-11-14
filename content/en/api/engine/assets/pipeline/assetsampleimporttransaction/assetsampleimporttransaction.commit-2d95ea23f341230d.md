@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Publishes a successfully validated import exactly once, without waiting for unfinished work.
 
+## Parameters
+
 **Parameter `beforePublish`:** Optional owner-thread finalization, such as recording neutral History data. Failure leaves the transaction open for Rollback and no Changed notification is published.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Validation is unfinished, the transaction is finished, or the caller is not its owner thread.
 

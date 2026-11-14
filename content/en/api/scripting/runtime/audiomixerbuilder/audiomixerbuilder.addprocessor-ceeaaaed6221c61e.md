@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Appends one processor to an existing bus chain.
 
+## Parameters
+
 **Parameter `bus`:** Existing bus identifier.
 
 **Parameter `processor`:** Immutable processor configuration to append.
+
+## Exceptions
 
 **Exception `T:System.Collections.Generic.KeyNotFoundException`:** Thrown when the bus is not defined.

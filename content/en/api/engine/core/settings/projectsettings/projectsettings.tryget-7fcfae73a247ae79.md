@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Tries to get an isolated snapshot of a current-generation setting.
 
+## Type parameters
+
 **Type parameter `TSetting`:** Expected settings contract.
+
+## Parameters
 
 **Parameter `id`:** Stable setting identifier.
 
 **Parameter `setting`:** Receives an independently owned effective snapshot.
 
-**Returns:** `true` when a compatible definition exists.
+## Returns
+
+`true` when a compatible definition exists.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Serializes shared writes across processes while yielding the MSBuild node during ownership waits.
 
-**Returns:** True after a complete build; false with a logged error after failure or cancellation.
+## Returns
+
+True after a complete build; false with a logged error after failure or cancellation.

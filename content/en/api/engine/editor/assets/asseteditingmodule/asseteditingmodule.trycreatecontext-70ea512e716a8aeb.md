@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Captures the currently indexed source and extension metadata for one immediate operation.
 
+## Parameters
+
 **Parameter `editor`:** The current editor context used only during this invocation.
 
 **Parameter `relativePath`:** The isolated source-relative path to resolve.
 
 **Parameter `context`:** Receives the current source snapshot, or null when the source is unavailable.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written.
 
+## Parameters
+
 **Parameter `buffer`:** An array of bytes. This method copies `count` bytes from `buffer` to the current stream.
 
 **Parameter `offset`:** The zero-based byte offset in `buffer` at which to begin copying bytes to the current stream.
 
 **Parameter `count`:** The number of bytes to be written to the current stream.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The sum of `offset` and `count` is greater than the buffer length.
 

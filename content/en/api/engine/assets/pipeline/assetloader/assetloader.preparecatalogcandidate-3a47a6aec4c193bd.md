@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Creates an isolated source-mount and catalog candidate without changing the active catalog.
 
+## Parameters
+
 **Parameter `mounts`:** The complete source-mount snapshot to validate.
 
 **Parameter `sourcePolicy`:** The source policy for the candidate, or `null` to reuse this loader's policy.
 
-**Returns:** A candidate that owns its catalog staging storage and exposes the isolated loader to its owner.
+## Returns
+
+A candidate that owns its catalog staging storage and exposes the isolated loader to its owner.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the mount snapshot is empty, duplicated, or has no writable project source.
 

@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 When overridden in a derived class, sets the position within the current stream.
 
+## Parameters
+
 **Parameter `offset`:** A byte offset relative to the `origin` parameter.
 
 **Parameter `origin`:** A value of type `T:System.IO.SeekOrigin` indicating the reference point used to obtain the new position.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** An I/O error occurs.
 
@@ -21,4 +25,6 @@ When overridden in a derived class, sets the position within the current stream.
 
 **Exception `T:System.ObjectDisposedException`:** Methods were called after the stream was closed.
 
-**Returns:** The new position within the current stream.
+## Returns
+
+The new position within the current stream.

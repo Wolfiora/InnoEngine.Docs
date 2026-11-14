@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a completed generation and optionally selects it as a protected current root. The caller must hold this publisher's activity lease and the artifact's producer or reading lease.
 
+## Parameters
+
 **Parameter `directory`:** An existing artifact within this publisher's exact boundary.
 
 **Parameter `leasePath`:** The persistent lease used by its producer and readers.
@@ -22,6 +24,8 @@ Records a completed generation and optionally selects it as a protected current 
 **Parameter `cancellationToken`:** Cancels before metadata selection.
 
 **Parameter `targetId`:** The producer's product target, or null for a shared host generation.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** An owned path escapes the boundary, crosses a directory link, or contains an invalid file link.
 

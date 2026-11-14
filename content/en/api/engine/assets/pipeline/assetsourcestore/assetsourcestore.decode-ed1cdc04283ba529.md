@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Restores a detached native value using current-generation asset references.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Native asset source type.
+
+## Parameters
 
 **Parameter `bytes`:** Native source bytes.
 
-**Returns:** A detached value; referenced assets remain canonical read-only inputs.
+## Returns
+
+A detached value; referenced assets remain canonical read-only inputs.

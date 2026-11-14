@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an interaction runtime for an existing passive editor context.
 
+## Parameters
+
 **Parameter `context`:** The passive editor context shared with the presentation backend.
 
 **Parameter `types`:** The type catalog that owns editor extension generations.
 
 **Parameter `logs`:** The host-owned logging router used by editor infrastructure.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` or `logs` is `null`.

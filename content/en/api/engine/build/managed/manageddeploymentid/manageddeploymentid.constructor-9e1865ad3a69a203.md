@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates a stable portable provider identity.
 
+## Parameters
+
 **Parameter `value`:** A nonempty lowercase identifier composed of letters, digits and hyphens.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identity is empty or contains nonportable characters.

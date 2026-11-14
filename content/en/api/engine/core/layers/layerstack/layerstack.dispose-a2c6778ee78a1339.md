@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Detaches every layer and permanently releases this stack.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A layer still owns live work. The current and lower layers remain owned until disposal is retried.
 
 **Exception `T:System.AggregateException`:** Thrown after cleanup completes when multiple layers fail to detach.

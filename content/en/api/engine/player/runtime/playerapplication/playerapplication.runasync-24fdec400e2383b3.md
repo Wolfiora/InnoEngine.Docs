@@ -11,15 +11,21 @@ apiSurface: source-clr
 
 Runs a frozen game deployment using explicitly supplied host services.
 
+## Parameters
+
 **Parameter `options`:** The prepared content and platform service composition.
 
 **Parameter `cancellationToken`:** Requests termination of frame scheduling.
 
-**Returns:** Zero after orderly shutdown; startup, execution and retirement failures propagate.
+## Returns
+
+Zero after orderly shutdown; startup, execution and retirement failures propagate.
 
 ## Remarks
 
 Hosts must preserve their owner thread across asynchronous startup and frame callbacks using their synchronization context. A blocking host can use OwnerThreadExecution.Run.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Options or a required host service is null.
 

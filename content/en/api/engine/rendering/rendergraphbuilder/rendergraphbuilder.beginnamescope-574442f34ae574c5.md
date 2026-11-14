@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Prefixes pass and resource diagnostic names until the returned scope is disposed.
 
+## Parameters
+
 **Parameter `name`:** Non-empty scope segment.
 
-**Returns:** A disposable name scope that must be closed in nesting order.
+## Returns
+
+A disposable name scope that must be closed in nesting order.

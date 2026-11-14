@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Queries the current state of a runtime voice.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to query.
 
 **Parameter `playbackState`:** Receives the current state when the handle is known.
 
-**Returns:** `true` for active and terminal handles from this runtime generation.
+## Returns
+
+`true` for active and terminal handles from this runtime generation.

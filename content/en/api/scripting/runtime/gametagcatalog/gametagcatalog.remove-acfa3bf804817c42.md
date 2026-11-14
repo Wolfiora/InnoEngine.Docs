@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Removes one custom project tag definition without rewriting scene assignments.
 
+## Parameters
+
 **Parameter `tag`:** The custom tag to remove.
 
-**Returns:** `true` when an existing definition was removed.
+## Returns
+
+`true` when an existing definition was removed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `tag` is empty or invalid.

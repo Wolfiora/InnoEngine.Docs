@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates attachable script-type metadata for one extensible base class.
 
+## Parameters
+
 **Parameter `kind`:** The non-empty domain-defined kind written to script type manifests and diagnostics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `kind` is empty or contains only whitespace.

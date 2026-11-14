@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all non-abstract discovered types implementing `TInterface`.
 
+## Type parameters
+
 **Type parameter `TInterface`:** The required interface.
 
-**Returns:** The matching concrete types in stable catalog order.
+## Returns
+
+The matching concrete types in stable catalog order.

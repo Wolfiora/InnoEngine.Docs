@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resumes one paused playback.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle to resume.
 
-**Returns:** `true` when the state changed.
+## Returns
+
+`true` when the state changed.

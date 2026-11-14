@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an immutable build diagnostic.
 
+## Parameters
+
 **Parameter `severity`:** The impact of the diagnostic on build success.
 
 **Parameter `code`:** The stable diagnostic code.
 
 **Parameter `message`:** The human-readable explanation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when code or message is empty.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Prepares frame output after simulation has completed.
 
+## Parameters
+
 **Parameter `frame`:** The immutable variable-frame state.

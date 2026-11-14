@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads a detached current-generation value; callers must never mutate its referenced canonical assets.
 
+## Parameters
+
 **Parameter `assetId`:** Open asset identity.
 
-**Returns:** A detached editable asset whose changes have not been published.
+## Returns
+
+A detached editable asset whose changes have not been published.

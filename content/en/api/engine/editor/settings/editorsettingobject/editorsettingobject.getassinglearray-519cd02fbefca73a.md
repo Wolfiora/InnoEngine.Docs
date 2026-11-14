@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets a single-precision array property, or a copied fallback when absent.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `defaultValue`:** The array copied when the property is absent.
 
-**Returns:** An independently owned array.
+## Returns
+
+An independently owned array.

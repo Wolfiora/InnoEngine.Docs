@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets the explicit ordered host content visible to one Editor viewport.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
 **Parameter `content`:** Current frame-safe content scope.

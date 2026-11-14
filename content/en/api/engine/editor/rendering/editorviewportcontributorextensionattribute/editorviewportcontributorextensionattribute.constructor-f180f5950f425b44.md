@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a viewport contributor declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable contributor identity.
 
 **Parameter `kind`:** Open viewport purpose handled by the contributor.

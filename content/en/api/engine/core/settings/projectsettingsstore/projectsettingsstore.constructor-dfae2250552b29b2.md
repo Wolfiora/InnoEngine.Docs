@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a project settings store from one type and serialization generation owner.
 
+## Parameters
+
 **Parameter `documentStore`:** The borrowed document boundary; writable authoring and read-only runtime sources use the same protocol.
 
 **Parameter `types`:** The type catalog that owns setting definitions and composers.
@@ -20,5 +22,7 @@ Creates a project settings store from one type and serialization generation owne
 **Parameter `defaultProjectId`:** The project namespace used until an authored identity override is saved.
 
 **Parameter `serializationContext`:** The owner's complete resolver context; settings never construct a partial reference context themselves.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when a service dependency is null.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Executes the selected product without inspecting its target identity.
 
+## Parameters
+
 **Parameter `context`:** The operation with frozen tools and binding configuration.
 
 **Parameter `cancellationToken`:** Cancels preparation and unpublished output.
 
-**Returns:** The complete owned native result.
+## Returns
+
+The complete owned native result.

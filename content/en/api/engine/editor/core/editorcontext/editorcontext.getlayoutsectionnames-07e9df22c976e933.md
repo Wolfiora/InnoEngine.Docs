@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets layout section names matching an ordinal prefix.
 
+## Parameters
+
 **Parameter `prefix`:** The prefix to match, or an empty string for every section.
 
-**Returns:** A stable sorted snapshot of matching section names.
+## Returns
+
+A stable sorted snapshot of matching section names.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `prefix` is `null`.

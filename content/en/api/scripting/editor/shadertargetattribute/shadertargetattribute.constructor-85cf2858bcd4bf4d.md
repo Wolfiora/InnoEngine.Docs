@@ -12,4 +12,6 @@ apiScope: Editor
 
 Creates target discovery metadata.
 
+## Parameters
+
 **Parameter `id`:** Stable target identity persisted by Shader assets.

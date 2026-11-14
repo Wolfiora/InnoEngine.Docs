@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Removes a neutral serialized property value.
 
+## Parameters
+
 **Parameter `propertyId`:** Stable property identifier.
 
-**Returns:** `true` when a property was removed; otherwise `false`.
+## Returns
+
+`true` when a property was removed; otherwise `false`.

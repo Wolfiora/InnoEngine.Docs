@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Compiles a typed stage through the configured adapter without an intermediate complete-source authoring asset.
 
+## Parameters
+
 **Parameter `stage`:** Typed stage and frozen function modules.
 
 **Parameter `target`:** Configured target capability/profile snapshot.
 
 **Parameter `cancellationToken`:** Cancellation before publishing the candidate.
 
-**Returns:** Compiled stage bytes, exact generated binding names and structured diagnostics.
+## Returns
+
+Compiled stage bytes, exact generated binding names and structured diagnostics.

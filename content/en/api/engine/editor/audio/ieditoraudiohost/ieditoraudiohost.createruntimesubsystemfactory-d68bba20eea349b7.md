@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the reusable factory that contributes isolated audio runtimes to Editor sessions.
 
-**Returns:** A factory whose features are owned and released by their runtime sessions.
+## Returns
+
+A factory whose features are owned and released by their runtime sessions.
+
+## Parameters
 
 **Parameter `session`:** The explicit session being composed.

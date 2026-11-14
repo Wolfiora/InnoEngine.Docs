@@ -12,11 +12,17 @@ apiScope: Editor
 
 Captures every persistent property as neutral bytes without serializing the owning object graph.
 
+## Parameters
+
 **Parameter `value`:** The serializable object whose persistent properties should be captured.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** Strictly validated bytes containing independently encoded property values.
+## Returns
+
+Strictly validated bytes containing independently encoded property values.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is `null`.
 

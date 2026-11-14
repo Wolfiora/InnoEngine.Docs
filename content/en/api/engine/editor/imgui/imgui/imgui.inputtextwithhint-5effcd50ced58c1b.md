@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws and edits a bounded UTF-8 text value with placeholder text.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
 **Parameter `hint`:** The placeholder shown while the value is empty.
@@ -21,6 +23,10 @@ Draws and edits a bounded UTF-8 text value with placeholder text.
 
 **Parameter `flags`:** Text editing behavior.
 
-**Returns:** `true` when the control reports an edit or submit event.
+## Returns
+
+`true` when the control reports an edit or submit event.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `capacity` is not positive.

@@ -14,4 +14,6 @@ aliases: []
 
 Waits for a fixed number of frames.
 
+## Parameters
+
 **Parameter `frames`:** The frames used to initialize this instance.

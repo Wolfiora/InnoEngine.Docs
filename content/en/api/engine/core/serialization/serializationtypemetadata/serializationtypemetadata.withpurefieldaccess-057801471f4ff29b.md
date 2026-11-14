@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Declares that every serialized member of this value type reads a direct primitive field.
 
-**Returns:** An immutable declaration with pure field access; the original declaration remains unchanged.
+## Returns
+
+An immutable declaration with pure field access; the original declaration remains unchanged.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The declaration is not a default value type with primitive serialized members.

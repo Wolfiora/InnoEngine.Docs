@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures and validates the project-authored delta as one prospective Plugin contribution.
 
+## Parameters
+
 **Parameter `id`:** Stable setting identifier.
 
 **Parameter `contributorId`:** Stable identity of the Plugin being exported.
@@ -23,6 +25,10 @@ Captures and validates the project-authored delta as one prospective Plugin cont
 
 **Parameter `record`:** Receives the normalized semantic Plugin contribution.
 
-**Returns:** `true` when the project document contains an effective semantic delta.
+## Returns
+
+`true` when the project document contains an effective semantic delta.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when a replacement setting depends on an undeclared contributor, or when the authored delta is not permitted by the declared dependency and override ownership.

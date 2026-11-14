@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Produces an exact signed 32-bit integer constant.
 
+## Parameters
+
 **Parameter `value`:** Scalar integer value.
 
-**Returns:** An int-typed intermediate value.
+## Returns
+
+An int-typed intermediate value.

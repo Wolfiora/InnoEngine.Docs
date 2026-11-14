@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Identifies the explicitly selected recipe, SDK, configuration and component request before preparation.
 
+## Parameters
+
 **Parameter `context`:** The operation with its selected toolchain and binding generator.
 
 **Parameter `plan`:** The complete product closure; recipe declarations remain ordered.
 
 **Parameter `cancellationToken`:** Cancels source, generator and SDK input capture before preparation starts.
 
-**Returns:** A content identity for the frozen request. Consumers still verify freshness after acquiring reading protection.
+## Returns
+
+A content identity for the frozen request. Consumers still verify freshness after acquiring reading protection.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The toolchain or recipe ownership is incomplete.

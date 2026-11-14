@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases this document's viewport and scoped GPU publication without touching other consumers.
 
+## Parameters
+
 **Parameter `ownerId`:** Closing or disabled preview owner.

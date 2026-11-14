@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats the canonical qualified identity.
 
-**Returns:** The `projectId.name` representation.
+## Returns
+
+The `projectId.name` representation.

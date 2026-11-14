@@ -12,8 +12,12 @@ apiScope: Editor
 
 Handles a focused viewport shortcut before global action routing.
 
+## Parameters
+
 **Parameter `context`:** Gesture and coordinate context.
 
 **Parameter `shortcut`:** Pressed key sample.
 
-**Returns:** `true` when the tool consumed the key.
+## Returns
+
+`true` when the tool consumed the key.

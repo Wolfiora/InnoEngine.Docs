@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the complete default session factory set from local subsystem declarations.
 
+## Parameters
+
 **Parameter `context`:** The strongly typed composition inputs borrowed during factory creation.
 
-**Returns:** A frozen deterministic factory list; the receiving RuntimeSession owns the created subsystems.
+## Returns
+
+A frozen deterministic factory list; the receiving RuntimeSession owns the created subsystems.

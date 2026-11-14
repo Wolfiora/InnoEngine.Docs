@@ -12,6 +12,10 @@ apiScope: Editor
 
 Evaluates the action for a typed argument.
 
+## Parameters
+
 **Parameter `context`:** The typed contextual request.
 
-**Returns:** The current presentation and availability state.
+## Returns
+
+The current presentation and availability state.

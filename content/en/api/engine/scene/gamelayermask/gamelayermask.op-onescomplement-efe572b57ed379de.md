@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Inverts every layer bit in a mask.
 
+## Parameters
+
 **Parameter `mask`:** The mask to invert.
 
-**Returns:** The complement of the supplied mask.
+## Returns
+
+The complement of the supplied mask.

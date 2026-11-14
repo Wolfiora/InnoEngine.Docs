@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a listener identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** Non-zero backend listener identity.
 
 **Parameter `generation`:** Owning device generation.
 
-**Returns:** An opaque listener handle.
+## Returns
+
+An opaque listener handle.

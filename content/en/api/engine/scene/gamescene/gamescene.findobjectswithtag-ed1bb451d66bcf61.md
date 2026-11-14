@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Finds every game object with an ordinally matching tag in scene storage order.
 
+## Parameters
+
 **Parameter `tag`:** Tag to find.
 
-**Returns:** A stable snapshot containing every matching game object.
+## Returns
+
+A stable snapshot containing every matching game object.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `tag` is empty or contains only white-space characters.

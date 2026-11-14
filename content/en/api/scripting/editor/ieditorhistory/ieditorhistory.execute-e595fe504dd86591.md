@@ -12,8 +12,12 @@ apiScope: Editor
 
 Applies and records a neutral change through its current-generation handler.
 
+## Parameters
+
 **Parameter `name`:** The user-facing operation name.
 
 **Parameter `change`:** The independently owned neutral change.
 
-**Returns:** The result of applying the change in the Redo direction.
+## Returns
+
+The result of applying the change in the Redo direction.

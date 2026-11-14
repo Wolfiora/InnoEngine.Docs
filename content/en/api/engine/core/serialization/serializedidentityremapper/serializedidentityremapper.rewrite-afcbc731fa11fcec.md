@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Replaces exact Guid and string values while retaining the binary serialization structure.
 
+## Parameters
+
 **Parameter `source`:** A complete serialized value or property snapshot.
 
 **Parameter `identities`:** Old to new Guid values.
 
 **Parameter `paths`:** Optional exact old to new string values.
 
-**Returns:** A detached rewritten payload; unknown binary subvalues remain unchanged.
+## Returns
+
+A detached rewritten payload; unknown binary subvalues remain unchanged.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The recognized serialized format is malformed.

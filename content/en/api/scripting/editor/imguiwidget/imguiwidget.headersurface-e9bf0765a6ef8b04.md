@@ -12,11 +12,15 @@ apiScope: Editor
 
 Draws a square-cornered editor header surface using the shared target-header palette, border, and padding.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier used by ImGui to track the header region.
 
 **Parameter `drawContent`:** Callback that draws the complete header content.
 
 **Parameter `spanWindowPadding`:** Whether the header should extend through the current parent window padding to both edges.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

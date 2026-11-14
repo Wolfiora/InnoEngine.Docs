@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Returns and clears events emitted by this UI context.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates package identity and destination syntax.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the request cannot identify a portable Plugin package.

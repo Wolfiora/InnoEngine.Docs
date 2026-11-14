@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Computes a hash code for this runtime domain identifier.
 
-**Returns:** A hash code derived from the process-local domain value.
+## Returns
+
+A hash code derived from the process-local domain value.

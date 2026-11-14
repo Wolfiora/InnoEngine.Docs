@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Captures one live GameObject and all descendants without serializing unrelated scene objects.
 
+## Parameters
+
 **Parameter `root`:** The live subtree root.
 
 **Parameter `serialization`:** The serialization registry that owns the active converter generation.
 
 **Parameter `assets`:** The asset-reference resolver used to encode referenced asset identities.
 
-**Returns:** Neutral bytes containing the subtree structure, components, properties, and identity references.
+## Returns
+
+Neutral bytes containing the subtree structure, components, properties, and identity references.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `root` is `null`.
 

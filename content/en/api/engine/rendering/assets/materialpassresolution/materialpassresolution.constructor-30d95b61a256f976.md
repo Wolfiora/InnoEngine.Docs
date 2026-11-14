@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a material pass resolution.
 
+## Parameters
+
 **Parameter `technique`:** Selected open-contract technique.
 
 **Parameter `pass`:** Concrete pass mapped to the requested role.

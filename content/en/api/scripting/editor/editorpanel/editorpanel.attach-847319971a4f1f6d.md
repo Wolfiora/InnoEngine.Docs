@@ -12,7 +12,11 @@ apiScope: Editor
 
 Attaches the panel after its extension generation becomes active.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the active runtime.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 

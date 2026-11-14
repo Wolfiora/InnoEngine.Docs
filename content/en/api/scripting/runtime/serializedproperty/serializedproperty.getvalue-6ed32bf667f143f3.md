@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Gets the current value.
 
-**Returns:** The value produced by the getter delegate.
+## Returns
+
+The value produced by the getter delegate.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when runtime reads are not permitted.

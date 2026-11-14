@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Preserves the order and search semantics of one native include requirement.
 
+## Parameters
+
 **Parameter `rootId`:** The component-local input root.
 
 **Parameter `relativePath`:** The root-relative directory, or empty for the root itself.

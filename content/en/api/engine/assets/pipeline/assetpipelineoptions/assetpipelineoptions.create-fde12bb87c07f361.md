@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates options with sensible defaults for most projects.
 
+## Parameters
+
 **Parameter `assetRoot`:** Source assets root folder.
 
 **Parameter `libraryRoot`:** Rebuildable Library folder.
 
-**Returns:** Initialized options value.
+## Returns
+
+Initialized options value.

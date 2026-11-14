@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an ordinal, case-sensitive backend identifier.
 
+## Parameters
+
 **Parameter `value`:** Stable nonempty implementation identifier.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identifier is empty or contains whitespace.

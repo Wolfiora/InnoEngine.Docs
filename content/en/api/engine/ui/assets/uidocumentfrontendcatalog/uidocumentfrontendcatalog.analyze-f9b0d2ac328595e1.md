@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Analyzes source using an explicit language.
 
+## Parameters
+
 **Parameter `language`:** Registered language identity.
 
 **Parameter `source`:** Immutable source snapshot.
 
-**Returns:** Neutral analysis result.
+## Returns
+
+Neutral analysis result.

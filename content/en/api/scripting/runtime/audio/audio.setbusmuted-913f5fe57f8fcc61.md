@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Updates mute state for a semantic mixer bus.
 
+## Parameters
+
 **Parameter `bus`:** Stable bus identifier.
 
 **Parameter `muted`:** Whether output from the bus is silenced.
 
-**Returns:** `true` when the bus exists and was updated.
+## Returns
+
+`true` when the bus exists and was updated.

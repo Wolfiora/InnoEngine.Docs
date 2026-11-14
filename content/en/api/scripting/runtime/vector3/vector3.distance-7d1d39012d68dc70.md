@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Calculates the Euclidean distance between two points.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** The scalar result calculated from the supplied inputs.
+## Returns
+
+The scalar result calculated from the supplied inputs.

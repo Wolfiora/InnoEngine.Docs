@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates and validates a caller-owned from axis angle value.
 
+## Parameters
+
 **Parameter `axis`:** The axis consumed by create from axis angle; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `angle`:** The angle consumed by create from axis angle; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

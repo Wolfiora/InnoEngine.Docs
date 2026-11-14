@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets deployment implementations registered for a target.
 
+## Parameters
+
 **Parameter `target`:** The explicitly chosen build target.
 
-**Returns:** The registered deployment choices; no host fallback is introduced.
+## Returns
+
+The registered deployment choices; no host fallback is introduced.

@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Declares one provider and the value protocol it implements.
 
+## Parameters
+
 **Parameter `id`:** Globally unique stable extension identifier.
 
 **Parameter `bindingId`:** Stable track binding protocol, independent of CLR type names.
 
 **Parameter `kind`:** The accepted value representation.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identifier is blank or the value representation is undefined.

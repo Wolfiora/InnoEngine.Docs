@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Rebuilds settings for one dependency-ordered extension generation.
 
+## Parameters
+
 **Parameter `contributors`:** Host and Plugin default contributions.

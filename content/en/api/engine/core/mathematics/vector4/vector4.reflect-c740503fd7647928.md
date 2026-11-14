@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Reflects an incident value across the supplied normal.
 
+## Parameters
+
 **Parameter `vec`:** The vec consumed by reflect; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `normal`:** The surface normal used by the operation.
 
-**Returns:** The validated vector4 that represents the completed operation.
+## Returns
+
+The validated vector4 that represents the completed operation.

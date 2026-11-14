@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures component configuration without selecting an SDK or starting a build.
 
+## Parameters
+
 **Parameter `libraryKind`:** The explicitly requested linkage; a recipe must support it before execution starts.
 
 **Parameter `cmakeArguments`:** Ordered, unique CMake definitions belonging to this component, excluding SDK and linkage selection.
@@ -22,5 +24,7 @@ Captures component configuration without selecting an SDK or starting a build.
 **Parameter `bindingLibraryName`:** The explicit native import identity, or null to retain the component identity.
 
 **Parameter `bindingIncludeDirectories`:** Additional checkout-relative binding headers owned by an integration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Linkage is invalid, definitions are ambiguous or override SDK selection, or an input escapes the checkout.

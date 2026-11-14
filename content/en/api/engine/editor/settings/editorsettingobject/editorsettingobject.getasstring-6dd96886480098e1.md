@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Gets a string property, or a fallback when the property is absent or null.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `defaultValue`:** The value returned when the property is absent or null.
 
-**Returns:** The stored string or `defaultValue`.
+## Returns
+
+The stored string or `defaultValue`.

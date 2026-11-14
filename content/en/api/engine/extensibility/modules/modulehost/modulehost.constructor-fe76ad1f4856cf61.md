@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a module host from the explicitly supplied assembly source and publishes its first catalog.
 
+## Parameters
+
 **Parameter `options`:** The validated configuration that controls this operation.

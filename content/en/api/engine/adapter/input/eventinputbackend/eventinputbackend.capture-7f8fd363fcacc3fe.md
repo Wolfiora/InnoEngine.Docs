@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Captures an immutable snapshot of the current observable state.
 
+## Parameters
+
 **Parameter `frameIndex`:** The monotonic frame identity associated with this operation.
 
-**Returns:** The validated input snapshot that represents the completed operation.
+## Returns
+
+The validated input snapshot that represents the completed operation.

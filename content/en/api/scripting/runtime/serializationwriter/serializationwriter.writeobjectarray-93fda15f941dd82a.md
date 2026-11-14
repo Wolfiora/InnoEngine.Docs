@@ -12,7 +12,11 @@ apiScope: Runtime
 
 Writes an ordered array of structured objects.
 
+## Type parameters
+
 **Type parameter `TValue`:** The source element type.
+
+## Parameters
 
 **Parameter `name`:** The unique non-empty member name.
 
@@ -25,6 +29,8 @@ Writes an ordered array of structured objects.
 ## Remarks
 
 The key builder belongs only to its synchronous callback. Uncertified rows and rows that invoke nested converters execute the ordinary element writer on every capture. Callback failures and changed declared inputs abort publication without modifying a previous snapshot.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Values or writeElement is null.
 

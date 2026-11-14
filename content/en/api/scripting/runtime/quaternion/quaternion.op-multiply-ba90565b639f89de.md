@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `a`:** The first operand or interpolation endpoint.
 
 **Parameter `b`:** The second operand or interpolation endpoint.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

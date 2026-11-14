@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates an immutable viewport composition.
 
+## Parameters
+
 **Parameter `viewportId`:** Stable panel viewport identity.
 
 **Parameter `pixelWidth`:** Positive target width.

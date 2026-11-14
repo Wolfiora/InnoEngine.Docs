@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get candidate catalog information by isolated source path.
 
+## Parameters
+
 **Parameter `path`:** Candidate source path.
 
 **Parameter `info`:** Candidate catalog information when available.
 
-**Returns:** True when the candidate path is cataloged.
+## Returns
+
+True when the candidate path is cataloged.

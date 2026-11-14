@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a port presentation whose position is measured in unscaled node coordinates.
 
+## Parameters
+
 **Parameter `endpoint`:** The existing document endpoint represented by this port.
 
 **Parameter `direction`:** The connection direction, independent of any domain-specific type system.
@@ -24,6 +26,8 @@ Creates a port presentation whose position is measured in unscaled node coordina
 **Parameter `isMissing`:** Whether retained document structure currently lacks its domain implementation.
 
 **Parameter `labelBounds`:** Optional node-relative label bounds used by drawing and row hit testing; null limits hits to the socket.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An endpoint identity is empty.
 

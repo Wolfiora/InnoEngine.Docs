@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Writes a new native tree into an unpublished candidate exclusively owned by the caller.
 
+## Parameters
+
 **Parameter `products`:** The pinned, validated products to copy into the candidate.
 
 **Parameter `plan`:** The explicit component layout and neutral deployment metadata.
@@ -19,11 +21,15 @@ Writes a new native tree into an unpublished candidate exclusively owned by the 
 
 **Parameter `cancellationToken`:** Cancels copying or final input verification before the caller publishes.
 
-**Returns:** Completion after copying and verifying payload, without creating transaction metadata in the candidate.
+## Returns
+
+Completion after copying and verifying payload, without creating transaction metadata in the candidate.
 
 ## Remarks
 
 The caller must retain exclusive ownership and discard the entire candidate on failure or cancellation. This operation neither selects a publication nor replaces an existing native tree.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The product closure or candidate path is invalid.
 

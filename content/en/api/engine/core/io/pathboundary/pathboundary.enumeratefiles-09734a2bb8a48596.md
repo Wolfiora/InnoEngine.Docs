@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Enumerates regular files in an owned tree without following filesystem links.
 
+## Parameters
+
 **Parameter `root`:** The existing physical root whose files and subdirectories belong to the caller.
 
-**Returns:** Absolute file paths in unspecified order; enumeration does not retain open file handles.
+## Returns
+
+Absolute file paths in unspecified order; enumeration does not retain open file handles.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The root or any entry is a symbolic link, junction or other reparse point, or cannot be inspected.
 

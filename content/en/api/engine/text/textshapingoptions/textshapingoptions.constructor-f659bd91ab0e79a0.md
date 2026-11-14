@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates shaping hints.
 
+## Parameters
+
 **Parameter `direction`:** The logical text direction.
 
 **Parameter `language`:** An optional BCP 47 language code.

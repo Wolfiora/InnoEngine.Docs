@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one asset creation menu declaration.
 
+## Parameters
+
 **Parameter `id`:** Globally stable template identifier.
 
 **Parameter `menuPath`:** Slash-delimited path below the File Browser Create menu.
@@ -24,5 +26,7 @@ Creates one asset creation menu declaration.
 **Parameter `itemOrder`:** Stable order of the leaf within its immediate category.
 
 **Parameter `separatorBeforeGroup`:** Whether the top-level category starts after a separator.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when an identifier, path, source name, or native extension is invalid.

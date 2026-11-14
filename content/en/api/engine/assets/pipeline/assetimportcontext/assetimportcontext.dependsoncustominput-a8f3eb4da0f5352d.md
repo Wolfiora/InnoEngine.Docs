@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Declares a custom deterministic input that invalidates this asset.
 
+## Parameters
+
 **Parameter `key`:** The input identifier.
 
 **Parameter `fingerprint`:** The current deterministic input fingerprint.

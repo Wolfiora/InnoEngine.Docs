@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a build context.
 
+## Parameters
+
 **Parameter `definition`:** The build definition.
 
 **Parameter `inputs`:** The immutable input catalog snapshots.

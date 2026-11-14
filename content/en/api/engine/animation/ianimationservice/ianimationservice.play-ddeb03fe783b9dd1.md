@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Starts one clip with explicit playback options.
 
+## Parameters
+
 **Parameter `clip`:** Valid imported animation clip.
 
 **Parameter `options`:** Playback clock, speed, blend, layer, and looping policy.
 
-**Returns:** A generation-checked playback handle.
-
 **Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+## Returns
+
+A generation-checked playback handle.

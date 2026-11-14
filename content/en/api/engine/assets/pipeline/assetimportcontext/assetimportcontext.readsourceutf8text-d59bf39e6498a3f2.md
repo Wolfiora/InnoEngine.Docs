@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads another source as UTF-8 from the current candidate mount snapshot and records the dependency.
 
+## Parameters
+
 **Parameter `path`:** An isolated source path.
 
-**Returns:** Decoded UTF-8 text without an optional byte-order mark.
+## Returns
+
+Decoded UTF-8 text without an optional byte-order mark.

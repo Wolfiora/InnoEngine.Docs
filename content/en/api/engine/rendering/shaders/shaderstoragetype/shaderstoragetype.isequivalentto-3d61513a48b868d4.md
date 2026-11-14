@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Compares complete access, format, shape and element layout contracts.
 
+## Parameters
+
 **Parameter `other`:** Candidate resource description.
 
-**Returns:** True only when both bindings permit exactly the same operations and values.
+## Returns
+
+True only when both bindings permit exactly the same operations and values.

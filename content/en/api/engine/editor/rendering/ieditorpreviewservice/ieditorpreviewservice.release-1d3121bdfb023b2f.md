@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Releases one cached preview registration.
 
+## Parameters
+
 **Parameter `handle`:** Preview handle returned by this service.
 
-**Returns:** `true` when the handle was active and released.
+## Returns
+
+`true` when the handle was active and released.

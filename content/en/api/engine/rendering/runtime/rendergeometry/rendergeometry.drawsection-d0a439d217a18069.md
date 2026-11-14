@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Binds and draws one indexed section.
 
+## Parameters
+
 **Parameter `commands`:** Current raster pass command encoder.
 
 **Parameter `sectionIndex`:** Zero-based section index.

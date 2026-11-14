@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Formats this runtime domain identifier for diagnostics.
 
-**Returns:** The numeric domain value, or `<invalid>` when the value is not allocated.
+## Returns
+
+The numeric domain value, or `<invalid>` when the value is not allocated.

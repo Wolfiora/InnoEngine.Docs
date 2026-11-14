@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases exclusive workspace ownership after every compiler and source consumer has finished. Repeated disposal has no effect; reusable owned files remain available for the next operation.
 
+## Exceptions
+
 **Exception `T:System.IO.IOException`:** Completed workspace ownership metadata cannot be recorded; the execution lease is still released.

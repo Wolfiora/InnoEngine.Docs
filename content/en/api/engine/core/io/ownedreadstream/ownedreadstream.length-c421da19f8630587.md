@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 When overridden in a derived class, gets the length in bytes of the stream.
 
+## Exceptions
+
 **Exception `T:System.NotSupportedException`:** A class derived from `Stream` does not support seeking and the length is unknown.
 
 **Exception `T:System.ObjectDisposedException`:** Methods were called after the stream was closed.
 
-**Returns:** A long value representing the length of the stream in bytes.
+## Returns
+
+A long value representing the length of the stream in bytes.

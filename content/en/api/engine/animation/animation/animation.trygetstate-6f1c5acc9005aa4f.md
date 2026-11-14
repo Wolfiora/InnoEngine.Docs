@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to read one live playback's state and position.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle to query.
 
 **Parameter `state`:** Receives current playback state.
 
 **Parameter `time`:** Receives clip-local time in seconds.
 
-**Returns:** `true` when the handle was live.
+## Returns
+
+`true` when the handle was live.

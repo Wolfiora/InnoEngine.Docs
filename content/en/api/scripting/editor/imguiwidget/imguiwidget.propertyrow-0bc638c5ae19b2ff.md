@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a two-column property row with a stable internal identifier.
 
+## Parameters
+
 **Parameter `id`:** Stable row identifier.
 
 **Parameter `label`:** Human-readable property label.
@@ -19,6 +21,8 @@ Draws a two-column property row with a stable internal identifier.
 **Parameter `drawValue`:** Value control callback.
 
 **Parameter `tooltip`:** Optional hover help displayed from the property label.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty or whitespace.
 

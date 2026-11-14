@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Copies the current window's effective clip after parent and viewport clipping.
 
-**Returns:** Screen-space minimum and maximum values for bounding frame-local submission work.
+## Returns
+
+Screen-space minimum and maximum values for bounding frame-local submission work.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No valid drawing session or native frame is active.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Prepares and explicitly retains a clip cache entry.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to retain.
 
 **Parameter `loadMode`:** Storage strategy override.
 
 **Parameter `cancellationToken`:** Cancellation token observed before the cache commit.
 
-**Returns:** An operation completed at an update safety point after native preparation succeeds or fails.
+## Returns
+
+An operation completed at an update safety point after native preparation succeeds or fails.

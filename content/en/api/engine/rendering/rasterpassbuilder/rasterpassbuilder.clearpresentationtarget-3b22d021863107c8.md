@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Clears the primary backbuffer or detached presentation surface before this pass.
 
+## Parameters
+
 **Parameter `clearColor`:** Linear color written before draw commands.
 
-**Returns:** This builder for fluent declarations.
+## Returns
+
+This builder for fluent declarations.

@@ -12,10 +12,14 @@ apiScope: Editor
 
 Resolves an already open document without replacing its authored contents.
 
+## Parameters
+
 **Parameter `documentId`:** The persistent document identity.
 
 **Parameter `history`:** The shared history owner for the returned controller.
 
 **Parameter `controller`:** The joined controller, or null when the document is closed.
 
-**Returns:** True when the document is still owned by this module.
+## Returns
+
+True when the document is still owned by this module.

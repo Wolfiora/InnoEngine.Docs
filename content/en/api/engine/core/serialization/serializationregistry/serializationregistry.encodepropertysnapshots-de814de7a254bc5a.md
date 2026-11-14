@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Encodes an existing ordered set of independent property snapshots as neutral restoration bytes.
 
+## Parameters
+
 **Parameter `snapshots`:** Snapshots previously produced by `M:Inno.Core.Serialization.SerializationRegistry.CaptureProperties(Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)`.
 
-**Returns:** Strictly validated bytes accepted by `M:Inno.Core.Serialization.SerializationRegistry.RestorePropertiesData(Inno.Core.Serialization.ISerializable,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationPropertyRestoreMode,Inno.Core.Serialization.SerializationContext)`.
+## Returns
+
+Strictly validated bytes accepted by `M:Inno.Core.Serialization.SerializationRegistry.RestorePropertiesData(Inno.Core.Serialization.ISerializable,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationPropertyRestoreMode,Inno.Core.Serialization.SerializationContext)`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `snapshots` is `null`.

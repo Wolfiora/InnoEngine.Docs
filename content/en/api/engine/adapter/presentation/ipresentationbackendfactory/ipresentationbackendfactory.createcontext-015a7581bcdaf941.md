@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates a presentation context over compatible platform and rendering adapters.
 
+## Parameters
+
 **Parameter `backend`:** Stable presentation implementation selected by the composition root.
 
 **Parameter `options`:** Host-owned resources and presentation policy.
 
-**Returns:** A caller-owned backend-neutral presentation context.
+## Returns
+
+A caller-owned backend-neutral presentation context.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the selected platform, rendering, and presentation backends are incompatible.

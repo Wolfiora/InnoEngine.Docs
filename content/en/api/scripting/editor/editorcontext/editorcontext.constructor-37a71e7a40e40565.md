@@ -12,11 +12,15 @@ apiScope: Editor
 
 Creates a passive editor context for one project.
 
+## Parameters
+
 **Parameter `projectDirectory`:** The project root containing Assets and Library.
 
 **Parameter `keyboard`:** The explicit immutable conventions selected by product composition.
 
 **Parameter `initialLayoutDocument`:** An optional host-owned initial settings document, installed atomically only when `editor.ini` does not exist. Existing documents, including empty files, are preserved.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The keyboard policy is null.
 

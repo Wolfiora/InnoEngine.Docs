@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Freezes the current region without pruning unused calls or retaining this mutable builder.
 
+## Parameters
+
 **Parameter `outputs`:** Named values returned by the enclosing region.
 
-**Returns:** An immutable block unaffected by later builder changes.
+## Returns
+
+An immutable block unaffected by later builder changes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An output name is empty or a value belongs to another builder.

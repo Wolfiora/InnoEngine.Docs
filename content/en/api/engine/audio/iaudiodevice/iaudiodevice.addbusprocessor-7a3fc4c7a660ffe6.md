@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Appends one backend-neutral processor configuration to a bus chain.
 
+## Parameters
+
 **Parameter `bus`:** Bus owned by the current device generation.
 
 **Parameter `processor`:** Open processor protocol and neutral parameter values.
 
-**Returns:** `true` when the backend recognized and attached the processor.
+## Returns
+
+`true` when the backend recognized and attached the processor.

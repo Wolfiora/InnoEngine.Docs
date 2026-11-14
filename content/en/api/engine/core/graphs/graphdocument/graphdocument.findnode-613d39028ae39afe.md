@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Finds a node by stable identifier.
 
+## Parameters
+
 **Parameter `nodeId`:** Node identifier to find.
 
-**Returns:** The node record, or `null` when absent.
+## Returns
+
+The node record, or `null` when absent.

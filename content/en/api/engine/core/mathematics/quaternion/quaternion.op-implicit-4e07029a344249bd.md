@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Converts the supplied value to `T:Inno.Core.Mathematics.Quaternion`.
 
+## Parameters
+
 **Parameter `q`:** The q consumed by convert; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated quaternion that represents the completed operation.
+## Returns
+
+The validated quaternion that represents the completed operation.

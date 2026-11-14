@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the relative deployment path for one portable texture artifact.
 
+## Parameters
+
 **Parameter `texture`:** Stable texture artifact reference.
 
-**Returns:** A platform-neutral path beneath the runtime content root.
+## Returns
+
+A platform-neutral path beneath the runtime content root.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `texture` is invalid.

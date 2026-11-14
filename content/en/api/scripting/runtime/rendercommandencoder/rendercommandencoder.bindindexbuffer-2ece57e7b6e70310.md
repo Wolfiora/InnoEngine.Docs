@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Binds a frame-uploaded index slice.
 
+## Parameters
+
 **Parameter `buffer`:** Current-frame index slice.

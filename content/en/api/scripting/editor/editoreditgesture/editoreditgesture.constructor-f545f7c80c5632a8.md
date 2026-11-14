@@ -12,9 +12,13 @@ apiScope: Editor
 
 Begins an edit whose updates use the existing domain mutation and History protocols.
 
+## Parameters
+
 **Parameter `history`:** The authoritative History for the current editor session.
 
 **Parameter `name`:** The operation name displayed by Undo and Redo after a successful commit.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The History owner is null.
 

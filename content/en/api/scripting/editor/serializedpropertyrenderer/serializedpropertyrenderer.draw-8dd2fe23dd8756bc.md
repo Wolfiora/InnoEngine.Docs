@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws a root serialized property.
 
+## Parameters
+
 **Parameter `editorContext`:** Shared editor context.
 
 **Parameter `owner`:** The live domain object that owns the root property.

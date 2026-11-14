@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Atomically restores a native project settings document.
 
+## Parameters
+
 **Parameter `document`:** Native document bytes.
 
 **Parameter `contributors`:** Dependency-ordered defaults used to rebuild effective values.

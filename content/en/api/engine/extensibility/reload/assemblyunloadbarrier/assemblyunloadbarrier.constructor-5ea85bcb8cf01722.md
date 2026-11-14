@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Creates a barrier over a complete retirement set.
 
+## Parameters
+
 **Parameter `probes`:** Weak unload probes for every retired collectible generation in the transaction.
 
 **Parameter `options`:** Optional collection cadence and retention threshold.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `probes` or one of its values is null.
 

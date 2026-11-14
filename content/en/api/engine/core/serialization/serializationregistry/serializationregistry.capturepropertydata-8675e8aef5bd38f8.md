@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Captures one persistent property as independently restorable neutral bytes without reading unrelated members.
 
+## Parameters
+
 **Parameter `value`:** The serializable object containing the requested property.
 
 **Parameter `propertyName`:** The exact serialized member key to capture.
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** Neutral bytes containing the property name and encoded value.
+## Returns
+
+Neutral bytes containing the property name and encoded value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is `null`.
 

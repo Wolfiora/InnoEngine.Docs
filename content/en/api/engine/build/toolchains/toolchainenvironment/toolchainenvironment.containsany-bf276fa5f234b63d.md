@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether a value contains at least one token without regard to casing.
 
+## Parameters
+
 **Parameter `value`:** The value searched for candidate tokens.
 
 **Parameter `needles`:** The candidate tokens tested against the value.
 
-**Returns:** `true` when at least one token occurs in the value; otherwise `false`.
+## Returns
+
+`true` when at least one token occurs in the value; otherwise `false`.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Lowers a whole region under one shared generation operation.
 
+## Parameters
+
 **Parameter `request`:** Frozen graph region and resolved immutable inputs.
 
 **Parameter `serialization`:** The current owner converter registry.
@@ -19,4 +21,6 @@ Lowers a whole region under one shared generation operation.
 
 **Parameter `cancellationToken`:** Cancellation between node invocations.
 
-**Returns:** A detached region or neutral diagnostics, never compiler instances.
+## Returns
+
+A detached region or neutral diagnostics, never compiler instances.

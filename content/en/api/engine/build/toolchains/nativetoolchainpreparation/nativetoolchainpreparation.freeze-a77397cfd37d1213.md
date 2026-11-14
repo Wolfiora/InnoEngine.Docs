@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates and freezes a provider's complete tool selection before product staging.
 
+## Parameters
+
 **Parameter `targetId`:** The explicit requested target.
 
 **Parameter `host`:** The declared tool execution host.
@@ -29,6 +31,10 @@ Validates and freezes a provider's complete tool selection before product stagin
 
 **Parameter `compilerInputs`:** The selected SDK parser inputs, or null for a selection without parsing capability.
 
-**Returns:** An immutable selection with validated physical tool and SDK inputs.
+## Returns
+
+An immutable selection with validated physical tool and SDK inputs.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** A selected SDK input or executable is absent.

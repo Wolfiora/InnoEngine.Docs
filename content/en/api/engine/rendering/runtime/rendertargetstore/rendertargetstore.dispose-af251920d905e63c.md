@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Queues all owned resources for device-safe destruction.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A backend resource is still active. Remaining resources stay owned until disposal is retried.
 
 **Exception `T:System.AggregateException`:** Quiescent resources were all attempted, but one or more backend releases failed.

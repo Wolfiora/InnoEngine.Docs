@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Registers a log presentation for all current and future reports in one hub.
 
+## Parameters
+
 **Parameter `hub`:** The authoritative diagnostic owner.
 
 **Parameter `logs`:** The borrowed destination router, which must outlive this sink.

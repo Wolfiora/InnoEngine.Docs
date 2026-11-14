@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one settings contributor.
 
+## Parameters
+
 **Parameter `id`:** Stable contributor identity.
 
 **Parameter `dependencies`:** Contributors that must precede this contributor.

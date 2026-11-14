@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Requires one connected input without implicit defaults or positional rebinding.
 
+## Parameters
+
 **Parameter `id`:** Exact semantic input port identity.
 
-**Returns:** The connected typed value.
+## Returns
+
+The connected typed value.

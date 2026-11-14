@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two references identify the same logical type.
 
+## Parameters
+
 **Parameter `left`:** The first reference.
 
 **Parameter `right`:** The second reference.
 
-**Returns:** `true` when both references have the same stable identity.
+## Returns
+
+`true` when both references have the same stable identity.

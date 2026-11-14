@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the texture compiler paired with the selected rendering backend.
 
+## Parameters
+
 **Parameter `backend`:** Stable rendering backend identity selected by the authoring composition root.
 
-**Returns:** A texture target compiler compatible with devices created for the same backend.
+## Returns
+
+A texture target compiler compatible with devices created for the same backend.

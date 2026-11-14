@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Parses the canonical representation stored in a deployed artifact.
 
+## Parameters
+
 **Parameter `value`:** The canonical semicolon-separated keyword selections.
 
-**Returns:** The validated shader variant represented by `value`.
+## Returns
+
+The validated shader variant represented by `value`.
+
+## Exceptions
 
 **Exception `T:System.FormatException`:** Thrown when the representation is malformed, unordered, or contains duplicate keyword IDs.

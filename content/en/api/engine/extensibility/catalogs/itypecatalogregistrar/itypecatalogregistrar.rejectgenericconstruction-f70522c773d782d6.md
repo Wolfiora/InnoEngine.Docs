@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a construction whose argument set was rejected by the declaration's compile-time constraints.
 
+## Parameters
+
 **Parameter `definition`:** The generic declaration contributed by the completed catalog.
 
 **Parameter `arguments`:** The complete closed argument set. The registrar copies this collection during registration.
@@ -18,6 +20,8 @@ Records a construction whose argument set was rejected by the declaration's comp
 ## Remarks
 
 This fact lets static resolution skip an inapplicable converter without attempting dynamic generic creation. Unknown constructions remain explicit deployment errors. Repeated rejections are idempotent.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The declaration or argument set is incomplete, open, or conflicts with a registered factory.
 

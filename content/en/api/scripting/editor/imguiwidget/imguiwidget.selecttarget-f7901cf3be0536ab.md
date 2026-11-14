@@ -12,6 +12,8 @@ apiScope: Editor
 
 Applies ordinary, additive or visible-range selection using the active keyboard modifiers.
 
+## Parameters
+
 **Parameter `interactions`:** The session's authoritative interaction service.
 
 **Parameter `target`:** The freshly resolved clicked target.

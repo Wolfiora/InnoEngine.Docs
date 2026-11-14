@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get a single matching item when possible.
 
+## Parameters
+
 **Parameter `store`:** Store being queried.
 
 **Parameter `item`:** The single matched item.
 
-**Returns:** True when a single item is available.
+## Returns
+
+True when a single item is available.

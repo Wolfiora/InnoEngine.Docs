@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an ordinal, case-sensitive implementation identifier.
 
+## Parameters
+
 **Parameter `value`:** A stable nonempty identifier containing no whitespace.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The identifier is empty or contains whitespace.

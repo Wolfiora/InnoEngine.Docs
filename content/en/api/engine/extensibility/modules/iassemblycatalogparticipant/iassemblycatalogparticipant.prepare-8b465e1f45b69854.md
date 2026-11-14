@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Validates a candidate catalog and prepares state without publishing it.
 
+## Parameters
+
 **Parameter `catalog`:** The complete candidate assembly catalog.
 
-**Returns:** A transaction controlling publication, completion, and rollback.
+## Returns
+
+A transaction controlling publication, completion, and rollback.

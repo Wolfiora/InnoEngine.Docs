@@ -12,6 +12,10 @@ apiScope: Editor
 
 Evaluates the action for the supplied context.
 
+## Parameters
+
 **Parameter `context`:** The editor, area, target, and optional argument for the query.
 
-**Returns:** The current presentation and availability state.
+## Returns
+
+The current presentation and availability state.

@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Creates canonical defaults for a new project.
 
+## Parameters
+
 **Parameter `projectName`:** The project directory name used for initial labels and output paths.
 
 **Parameter `startupScene`:** The initial mount-qualified startup Scene, or an empty value when unavailable.
 
 **Parameter `target`:** The host-appropriate initial build target.
 
-**Returns:** A newly owned build settings object.
+## Returns
+
+A newly owned build settings object.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `projectName` is empty or `target` is invalid.

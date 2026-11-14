@@ -12,7 +12,11 @@ apiScope: Editor
 
 Restores one concrete asset and its declared direct dependencies.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Concrete asset source type.
+
+## Parameters
 
 **Parameter `bytes`:** Native source bytes.
 
@@ -20,6 +24,10 @@ Restores one concrete asset and its declared direct dependencies.
 
 **Parameter `services`:** The generation-bound serialization and reference services supplied by the import context.
 
-**Returns:** A detached asset ready for an import transaction.
+## Returns
+
+A detached asset ready for an import transaction.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the source type identity is incompatible.

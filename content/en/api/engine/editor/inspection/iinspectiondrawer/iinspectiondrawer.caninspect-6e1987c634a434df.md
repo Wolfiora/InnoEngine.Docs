@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a type-compatible selected value can be inspected by this drawer.
 
+## Parameters
+
 **Parameter `target`:** Selected value, never mutated by this query.
 
-**Returns:** Whether this drawer accepts the value; ordinary type-only drawers accept by default.
+## Returns
+
+Whether this drawer accepts the value; ordinary type-only drawers accept by default.

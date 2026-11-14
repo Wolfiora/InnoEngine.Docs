@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Clears one diagnostic group owned by the calling type.
 
+## Parameters
+
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `group` is empty.

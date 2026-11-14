@@ -12,4 +12,6 @@ apiScope: Editor
 
 Declares an imported artifact that invalidates this imported asset.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent identity of the artifact owner.

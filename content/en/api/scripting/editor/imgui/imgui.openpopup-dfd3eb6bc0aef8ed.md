@@ -12,6 +12,8 @@ apiScope: Editor
 
 Opens a named popup.
 
+## Parameters
+
 **Parameter `id`:** The popup identity.
 
 **Parameter `flags`:** Popup opening behavior.

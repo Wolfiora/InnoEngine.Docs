@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the allocator bound to the current asynchronous execution context.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** Thrown when the caller is outside a runtime session execution scope.

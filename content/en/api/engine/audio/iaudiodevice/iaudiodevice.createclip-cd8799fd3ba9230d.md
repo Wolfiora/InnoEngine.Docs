@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Starts preparation of one decoded or streamed clip from immutable encoded content.
 
+## Parameters
+
 **Parameter `descriptor`:** Encoded artifact and preparation requirements.
 
 **Parameter `source`:** The immutable encoded source, borrowed until successful clip retirement. Opening a stream must independently pin its content; the caller retains source ownership.
 
-**Returns:** A handle owned by the current device generation.
+## Returns
+
+A handle owned by the current device generation.

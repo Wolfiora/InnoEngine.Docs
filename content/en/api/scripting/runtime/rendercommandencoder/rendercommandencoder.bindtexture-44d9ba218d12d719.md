@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Binds a sampled texture and its sampler to a shader binding.
 
+## Parameters
+
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.
 
 **Parameter `texture`:** Frame-scoped texture owned by the current graph generation.

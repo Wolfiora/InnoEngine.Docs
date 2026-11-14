@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Seeks one live playback to a clip-local time.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle to seek.
 
 **Parameter `time`:** Clip-local time in seconds.
 
-**Returns:** `true` when the handle was live.
+## Returns
+
+`true` when the handle was live.

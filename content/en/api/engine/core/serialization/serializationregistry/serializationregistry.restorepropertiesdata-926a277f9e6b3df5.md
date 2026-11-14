@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores one or more independently encoded persistent properties from neutral bytes.
 
+## Parameters
+
 **Parameter `target`:** The existing object receiving the captured values.
 
 **Parameter `data`:** Strict property snapshot bytes created by `M:Inno.Core.Serialization.SerializationRegistry.CapturePropertyData(Inno.Core.Serialization.ISerializable,System.String,Inno.Core.Serialization.SerializationContext)` or `M:Inno.Core.Serialization.SerializationRegistry.CapturePropertiesData(Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)`.
@@ -19,7 +21,11 @@ Restores one or more independently encoded persistent properties from neutral by
 
 **Parameter `context`:** Optional immutable converter context.
 
-**Returns:** A summary containing restored, ignored, and skipped properties.
+## Returns
+
+A summary containing restored, ignored, and skipped properties.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is `null`.
 

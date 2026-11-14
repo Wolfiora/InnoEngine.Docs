@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an atomic type supplied by a language or graph target.
 
+## Parameters
+
 **Parameter `id`:** Canonical type identity, such as float3, texture2d, or a provider-qualified opaque type.
 
-**Returns:** An immutable atomic type.
+## Returns
+
+An immutable atomic type.

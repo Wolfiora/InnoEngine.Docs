@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Discards a fragment when the Boolean condition is true; other stages reject this instruction.
 
+## Parameters
+
 **Parameter `condition`:** Scalar Boolean from this block.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The condition is not a Boolean or belongs to another builder.

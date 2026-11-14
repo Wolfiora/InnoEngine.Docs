@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Collects active source items in deterministic source order.
 
+## Parameters
+
 **Parameter `context`:** Frame-scoped host content and view.
 
-**Returns:** Frame-local items; the caller owns their sort and composition.
+## Returns
+
+Frame-local items; the caller owns their sort and composition.

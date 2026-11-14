@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Resolves the shortcut displayed for an action in this area.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
 **Parameter `gesture`:** The resolved gesture when successful.
 
-**Returns:** `true` when a compatible shortcut exists; otherwise, `false`.
+## Returns
+
+`true` when a compatible shortcut exists; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

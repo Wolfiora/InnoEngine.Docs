@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `scalar`:** The scalar applied to every component.
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

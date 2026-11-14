@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Selects a vertex buffer and its first vertex for subsequent draws.
 
+## Parameters
+
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.
 
 **Parameter `firstVertex`:** Zero-based vertex offset in the bound buffer.

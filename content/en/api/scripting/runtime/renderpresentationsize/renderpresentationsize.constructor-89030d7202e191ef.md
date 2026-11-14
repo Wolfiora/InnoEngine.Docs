@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a positive presentation extent.
 
+## Parameters
+
 **Parameter `width`:** Positive physical-pixel width.
 
 **Parameter `height`:** Positive physical-pixel height.

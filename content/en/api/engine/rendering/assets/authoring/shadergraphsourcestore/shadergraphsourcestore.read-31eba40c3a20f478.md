@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads source directly, so a broken graph remains editable even when import has no successful artifact.
 
+## Parameters
+
 **Parameter `path`:** Exact graph path within an active asset mount.
 
-**Returns:** A detached native source snapshot with its conflict-detection fingerprint.
+## Returns
+
+A detached native source snapshot with its conflict-detection fingerprint.

@@ -12,11 +12,15 @@ apiScope: Runtime
 
 Optionally declares every input to a snapshot capture without writing data.
 
+## Parameters
+
 **Parameter `value`:** The current registered identity source.
 
 **Parameter `key`:** The borrowed Core key builder, valid only during this synchronous callback.
 
-**Returns:** True only when the complete output is covered; false retains ordinary authoritative capture.
+## Returns
+
+True only when the complete output is covered; false retains ordinary authoritative capture.
 
 ## Remarks
 

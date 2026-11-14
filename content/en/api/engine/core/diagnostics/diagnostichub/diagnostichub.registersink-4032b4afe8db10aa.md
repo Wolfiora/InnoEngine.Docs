@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Registers a sink and synchronously replays every active report before registration completes.
 
+## Parameters
+
 **Parameter `sink`:** The sink that receives current and future reports.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `sink` is null.
 

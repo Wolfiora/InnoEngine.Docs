@@ -15,13 +15,19 @@ Builds and installs one complete source-free game deployment with rollback prote
 
 Prepare current packs with EnsurePlayerSupportPackAsync before invoking this method on the authoring owner's thread. The synchronous snapshot phase never waits for asynchronous provisioning. Coordinate readers and writers of the output directory during its two installation moves. Post-commit backup, staging and progress observer failures are warnings on the successful result.
 
+## Parameters
+
 **Parameter `request`:** The exact profile, destination, and activated runtime compilation generation.
 
 **Parameter `progress`:** Optional observer for monotonic stage progress.
 
 **Parameter `cancellationToken`:** The token that cancels work before directory installation begins.
 
-**Returns:** The durable output identity and deployment metrics.
+## Returns
+
+The durable output identity and deployment metrics.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when cancellation is requested before commit.
 

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Applies reload-safe pipeline settings to this generation.
 
+## Parameters
+
 **Parameter `state`:** Stable type identity and neutral property bytes.
 
 **Parameter `settings`:** Native context bound to the canonical Pipeline asset's actual owner.

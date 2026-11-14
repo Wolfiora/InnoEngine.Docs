@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Multiplies two matrices.
 
+## Parameters
+
 **Parameter `a`:** Left operand.
 
 **Parameter `b`:** Right operand.
 
-**Returns:** The product matrix.
+## Returns
+
+The product matrix.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Pins publisher activity until publication, reading handoff and current-root updates finish.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels this wait without disturbing other owners.
 
-**Returns:** Caller-owned shared activity; dispose after the final artifact reading lease is acquired.
+## Returns
+
+Caller-owned shared activity; dispose after the final artifact reading lease is acquired.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Acquisition was canceled.

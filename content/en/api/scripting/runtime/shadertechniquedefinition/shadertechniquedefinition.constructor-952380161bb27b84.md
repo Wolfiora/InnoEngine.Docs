@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a shader technique definition.
 
+## Parameters
+
 **Parameter `id`:** Stable technique identifier.
 
 **Parameter `contract`:** Open rendering-provider contract.

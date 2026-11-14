@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Creates one immutable stage timing sample.
 
+## Parameters
+
 **Parameter `stage`:** The human-readable stage description.
 
 **Parameter `elapsed`:** The wall time spent in the stage.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `stage` is empty or contains only whitespace.
 

@@ -12,6 +12,10 @@ apiScope: Editor
 
 Routes one focused keyboard shortcut.
 
+## Parameters
+
 **Parameter `shortcut`:** Pressed key sample.
 
-**Returns:** `true` when consumed.
+## Returns
+
+`true` when consumed.

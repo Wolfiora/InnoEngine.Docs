@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads a detached settings copy for the currently registered importer.
 
+## Parameters
+
 **Parameter `path`:** The isolated source path.
 
-**Returns:** The settings copy and the fingerprint required for saving it.
+## Returns
+
+The settings copy and the fingerprint required for saving it.

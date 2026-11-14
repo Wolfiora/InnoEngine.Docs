@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Validates startup identity, dimensions, scene, and Plugin ordering.
 
+## Exceptions
+
 **Exception `T:System.IO.InvalidDataException`:** Thrown when manifest data cannot be executed safely.

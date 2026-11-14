@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Pauses one live playback.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle to pause.
 
-**Returns:** `true` when the state changed.
+## Returns
+
+`true` when the state changed.

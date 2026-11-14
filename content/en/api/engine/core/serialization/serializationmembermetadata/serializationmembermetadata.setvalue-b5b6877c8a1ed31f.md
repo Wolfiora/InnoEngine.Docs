@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Writes a value through the selected declaration accessor.
 
+## Parameters
+
 **Parameter `target`:** The object receiving the value.
 
 **Parameter `value`:** A value compatible with the declared member type.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Writing is not permitted by this metadata.

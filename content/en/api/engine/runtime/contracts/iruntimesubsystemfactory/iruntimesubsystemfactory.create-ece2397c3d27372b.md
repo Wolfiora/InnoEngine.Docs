@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a subsystem owned exclusively by the supplied construction scope.
 
+## Parameters
+
 **Parameter `context`:** Stable foundation services and a private factory lifetime. Register partial allocations and work here before callbacks can fail.
 
-**Returns:** A new unattached runtime subsystem; after returning, its lifecycle belongs to the pipeline.
+## Returns
+
+A new unattached runtime subsystem; after returning, its lifecycle belongs to the pipeline.

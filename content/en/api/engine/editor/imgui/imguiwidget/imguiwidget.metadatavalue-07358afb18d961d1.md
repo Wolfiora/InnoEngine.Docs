@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Draws one wrapped, subdued value whose metadata and content remain in the value column.
 
+## Parameters
+
 **Parameter `metadata`:** Short contextual text such as a declared value type.
 
 **Parameter `value`:** Literal value description shown after the metadata separator.
 
 **Parameter `tooltip`:** Optional explanation displayed while the combined value is hovered.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `metadata` or `value` is `null`.

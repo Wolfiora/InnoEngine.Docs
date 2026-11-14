@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Atomically writes this completed generation to a request-owned descriptor file.
 
+## Parameters
+
 **Parameter `path`:** The descriptor destination; a unique path keeps concurrent requests independent.

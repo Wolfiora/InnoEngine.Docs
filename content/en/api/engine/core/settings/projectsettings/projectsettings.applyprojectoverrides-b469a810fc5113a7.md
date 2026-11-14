@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Applies multiple project contributions and removals as one atomic document update.
 
+## Parameters
+
 **Parameter `values`:** Complete authored values keyed by stable setting identity.
 
 **Parameter `resets`:** Setting identities whose project-authored contributions are removed.
 
 **Parameter `contributors`:** Dependency-ordered defaults used to rebuild effective values.
 
-**Returns:** `true` when the project document changed.
+## Returns
+
+`true` when the project document changed.

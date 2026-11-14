@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Releases generation-scoped provider state.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Owned work is still draining. The generation owner must retain this provider and retry disposal.

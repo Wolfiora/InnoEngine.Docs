@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Begins a parent-viewport tooltip using the same padding, colors, border, and spacing as editor menus.
 
-**Returns:** `true` when tooltip content should be submitted; otherwise, `false`.
+## Returns
+
+`true` when tooltip content should be submitted; otherwise, `false`.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an interaction runtime for one project.
 
+## Parameters
+
 **Parameter `projectDirectory`:** The project root containing Assets and Library.
 
 **Parameter `types`:** The type catalog that owns editor extension generations.

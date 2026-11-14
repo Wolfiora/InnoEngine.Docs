@@ -11,14 +11,20 @@ apiSurface: source-clr
 
 Finds the checkout that owns the running Editor or build command.
 
+## Parameters
+
 **Parameter `startDirectory`:** The host binary directory from which to search upward.
-
-**Returns:** A source provisioner, or null when the host is a source-independent distribution.
-
-**Exception `T:System.IO.DirectoryNotFoundException`:** An explicit `INNO_ENGINE_ROOT` does not identify a complete engine checkout.
 
 **Parameter `publisher`:** The publisher containing the host-selected platform sources.
 
 **Parameter `dotnetHost`:** The SDK executable explicitly selected by the host.
 
 **Parameter `reportDiagnostic`:** The borrowed host reporter, retained only by the returned provisioner.
+
+## Returns
+
+A source provisioner, or null when the host is a source-independent distribution.
+
+## Exceptions
+
+**Exception `T:System.IO.DirectoryNotFoundException`:** An explicit `INNO_ENGINE_ROOT` does not identify a complete engine checkout.

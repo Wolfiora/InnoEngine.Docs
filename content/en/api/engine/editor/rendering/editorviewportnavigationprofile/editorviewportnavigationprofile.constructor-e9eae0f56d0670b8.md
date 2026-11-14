@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a provider-defined navigation profile.
 
+## Parameters
+
 **Parameter `id`:** Stable profile identity.
 
 **Parameter `capabilities`:** Operations accepted by the provider.

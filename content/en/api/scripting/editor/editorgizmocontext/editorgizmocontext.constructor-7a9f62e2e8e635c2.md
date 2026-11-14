@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a frame-scoped gizmo request.
 
+## Parameters
+
 **Parameter `content`:** The scenes presented by the Scene viewport.
 
 **Parameter `selected`:** The selected live object, when available.

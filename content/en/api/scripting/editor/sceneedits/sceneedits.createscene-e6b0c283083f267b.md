@@ -12,6 +12,10 @@ apiScope: Editor
 
 Creates an additive scene and records a reversible document change.
 
+## Parameters
+
 **Parameter `historyName`:** The user-facing history entry name.
 
-**Returns:** The newly created active scene.
+## Returns
+
+The newly created active scene.

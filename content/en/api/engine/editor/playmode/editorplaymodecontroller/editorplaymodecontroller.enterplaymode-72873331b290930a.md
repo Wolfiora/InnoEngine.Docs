@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Requests a fresh script generation before preparing an isolated runtime session.
 
-**Returns:** `true` when the controller accepted a new request; otherwise, `false`.
+## Returns
+
+`true` when the controller accepted a new request; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the controller has been disposed.

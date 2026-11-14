@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Requests a size for the next window under an explicit layout condition.
 
+## Parameters
+
 **Parameter `size`:** The explicit two-dimensional extent.
 
 **Parameter `condition`:** The condition controlling when the request is applied.

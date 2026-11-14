@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Atomically applies world-space translation, rotation, and scale.
 
+## Parameters
+
 **Parameter `position`:** Requested world-space translation.
 
 **Parameter `rotation`:** Requested world-space rotation.

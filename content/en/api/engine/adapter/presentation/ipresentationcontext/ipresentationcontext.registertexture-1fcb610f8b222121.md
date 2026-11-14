@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Registers a persistent render texture for presentation drawing.
 
+## Parameters
+
 **Parameter `texture`:** Texture owned by the active rendering-device generation.
 
-**Returns:** An opaque presentation token.
+## Returns
+
+An opaque presentation token.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds feature-owned graph declarations on the host control thread.
 
+## Parameters
+
 **Parameter `builder`:** Candidate graph builder valid only for this invocation.
 
 **Parameter `state`:** Reload-safe neutral feature state.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads a mounted source without modifying its canonical asset or compiled artifacts.
 
+## Parameters
+
 **Parameter `path`:** Exact mounted source identity.
 
-**Returns:** A detached source and optimistic concurrency fingerprint.
+## Returns
+
+A detached source and optimistic concurrency fingerprint.

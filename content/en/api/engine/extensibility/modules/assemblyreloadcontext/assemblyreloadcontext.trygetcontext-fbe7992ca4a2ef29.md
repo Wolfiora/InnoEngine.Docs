@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Tries to get a context contributed by a registered catalog participant.
 
+## Type parameters
+
 **Type parameter `TContext`:** The requested participant context type.
+
+## Parameters
 
 **Parameter `context`:** Receives the matching context when found.
 
-**Returns:** `true` when exactly one matching context exists.
+## Returns
+
+`true` when exactly one matching context exists.

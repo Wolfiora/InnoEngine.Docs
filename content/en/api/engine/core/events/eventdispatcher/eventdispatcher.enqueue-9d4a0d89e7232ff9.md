@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Enqueues an event for later processing via `M:Inno.Core.Events.EventDispatcher.Flush`.
 
+## Parameters
+
 **Parameter `e`:** The event instance to enqueue.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The queue is full; the event was not accepted.

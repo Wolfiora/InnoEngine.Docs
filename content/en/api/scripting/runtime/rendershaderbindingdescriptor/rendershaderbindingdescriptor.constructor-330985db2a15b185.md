@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a shader binding descriptor.
 
+## Parameters
+
 **Parameter `id`:** Stable manifest binding name.
 
 **Parameter `kind`:** Binding domain.

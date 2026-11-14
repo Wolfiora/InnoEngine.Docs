@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Constructs a declared type through the selected deployment's factory mechanism.
 
+## Parameters
+
 **Parameter `type`:** The declared runtime type.
 
-**Returns:** A new instance owned by the caller; missing factories or failed constructors throw.
+## Returns
+
+A new instance owned by the caller; missing factories or failed constructors throw.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Queries game objects containing one required component type.
 
+## Type parameters
+
 **Type parameter `T1`:** The first component type required on every returned game object.
 
-**Returns:** An immutable snapshot of the values selected by the operation.
+## Returns
+
+An immutable snapshot of the values selected by the operation.

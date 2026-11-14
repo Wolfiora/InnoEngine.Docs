@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a stable reference to this texture's current imported content.
 
-**Returns:** A reference suitable for target compilation and generation-scoped GPU resolution.
+## Returns
+
+A reference suitable for target compilation and generation-scoped GPU resolution.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when this texture has not been assigned a persistent asset identity.

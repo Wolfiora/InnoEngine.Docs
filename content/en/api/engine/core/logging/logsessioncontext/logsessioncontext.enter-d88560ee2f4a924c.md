@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Enters a nested execution scope whose emitted logs belong to the supplied runtime session.
 
+## Parameters
+
 **Parameter `sessionId`:** The non-empty identifier of the runtime session receiving execution.
 
-**Returns:** A scope that restores the previous session when disposed in reverse creation order.
+## Returns
+
+A scope that restores the previous session when disposed in reverse creation order.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `sessionId` does not identify a runtime session.

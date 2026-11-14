@@ -12,13 +12,19 @@ apiScope: Editor
 
 Draws a clickable icon inside the same square interaction slot used by editor close controls. The icon has no resting background and changes only its glyph color while hovered or active.
 
+## Parameters
+
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.
 
 **Parameter `icon`:** The visible icon glyph.
 
 **Parameter `tooltip`:** Optional tooltip displayed while the interaction is hovered.
 
-**Returns:** `true` when the icon is pressed.
+## Returns
+
+`true` when the icon is pressed.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `id` is empty.
 

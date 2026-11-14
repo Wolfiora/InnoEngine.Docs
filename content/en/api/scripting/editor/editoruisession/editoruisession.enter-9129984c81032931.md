@@ -12,7 +12,11 @@ apiScope: Editor
 
 Activates this session for a synchronous callback while preserving the enclosing scope.
 
-**Returns:** An owner-thread scope that must be released in reverse activation order.
+## Returns
+
+An owner-thread scope that must be released in reverse activation order.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The session has retired.
 

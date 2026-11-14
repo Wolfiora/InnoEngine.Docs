@@ -12,4 +12,6 @@ apiScope: Authoring
 
 Creates a spacing decorator.
 
+## Parameters
+
 **Parameter `height`:** Non-negative logical pixel height.

@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Measures a glyph using the current font without exposing its native font handle.
 
+## Parameters
+
 **Parameter `fontSize`:** The positive baked font size.
 
 **Parameter `text`:** A nonempty string whose first Unicode scalar identifies the glyph.
 
-**Returns:** The glyph's visible left, top, right and bottom offsets.
+## Returns
+
+The glyph's visible left, top, right and bottom offsets.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The glyph text is empty.

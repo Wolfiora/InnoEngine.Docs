@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Queues target conversion for a texture slot owned by any imported asset.
 
+## Parameters
+
 **Parameter `texture`:** Stable texture artifact reference to prepare.

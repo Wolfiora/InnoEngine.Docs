@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Determines whether two sampler descriptions are equal.
 
+## Parameters
+
 **Parameter `left`:** Left sampler description.
 
 **Parameter `right`:** Right sampler description.
 
-**Returns:** True when every filtering and addressing field is equal.
+## Returns
+
+True when every filtering and addressing field is equal.

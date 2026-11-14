@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Declares an asset artifact input that invalidates this import.
 
+## Parameters
+
 **Parameter `persistentId`:** The stable persistent identity used for lookup.

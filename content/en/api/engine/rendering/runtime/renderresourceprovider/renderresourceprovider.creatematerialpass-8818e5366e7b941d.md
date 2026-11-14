@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a generation-scoped resolved material pass when no compiled-interface query is required.
 
+## Parameters
+
 **Parameter `definition`:** The selected shader pass definition.
 
 **Parameter `graphicsPipeline`:** The graphics pipeline handle, or an invalid handle for compute.
@@ -19,4 +21,6 @@ Creates a generation-scoped resolved material pass when no compiled-interface qu
 
 **Parameter `bindings`:** The complete material-owned binding snapshot.
 
-**Returns:** A resolved material pass ready for automatic material binding. Calls to `M:Inno.Rendering.Runtime.RenderMaterialPass.UsesBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderShaderBindingKind)` require the overload carrying the compiled interface.
+## Returns
+
+A resolved material pass ready for automatic material binding. Calls to `M:Inno.Rendering.Runtime.RenderMaterialPass.UsesBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderShaderBindingKind)` require the overload carrying the compiled interface.

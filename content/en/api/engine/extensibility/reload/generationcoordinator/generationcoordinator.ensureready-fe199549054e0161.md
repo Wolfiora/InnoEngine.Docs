@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Rejects work while a candidate, retained context or terminal failure is pending.
 
+## Parameters
+
 **Parameter `operation`:** The caller's operation name included in rejection diagnostics.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Admission is blocked or the host requires restart.

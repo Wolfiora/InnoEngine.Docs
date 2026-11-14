@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a cubic curve without exposing a native draw list or borrowed pointer.
 
+## Parameters
+
 **Parameter `start`:** The first screen-space endpoint.
 
 **Parameter `firstControl`:** The control point beside the first endpoint.

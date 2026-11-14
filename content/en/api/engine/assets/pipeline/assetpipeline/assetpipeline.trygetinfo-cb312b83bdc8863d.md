@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get a catalog snapshot by persistent identity.
 
+## Parameters
+
 **Parameter `persistentId`:** The persistent asset identity.
 
 **Parameter `info`:** The catalog snapshot when available.
 
-**Returns:** `true` when the identity is cataloged.
+## Returns
+
+`true` when the identity is cataloged.

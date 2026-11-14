@@ -12,11 +12,15 @@ apiScope: Editor
 
 Draws wrapped non-interactive text as a centered block inside a padded layout area.
 
+## Parameters
+
 **Parameter `text`:** The literal text to wrap and draw.
 
 **Parameter `areaSize`:** The complete area reserved by the widget.
 
 **Parameter `padding`:** The minimum horizontal and vertical distance retained from the area edges whenever space permits.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `text` is `null`.
 

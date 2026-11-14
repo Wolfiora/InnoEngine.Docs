@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates the supplied input and rejects state that cannot satisfy this contract.
 
+## Parameters
+
 **Parameter `store`:** The store consumed by validate; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
-
 **Parameter `item`:** The stored item associated with the validated handle.
+
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

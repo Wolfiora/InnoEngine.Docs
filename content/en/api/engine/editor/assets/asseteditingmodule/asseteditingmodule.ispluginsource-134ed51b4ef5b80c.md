@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether the active Plugin catalog owns a source mount.
 
+## Parameters
+
 **Parameter `source`:** The source mount identity to query.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

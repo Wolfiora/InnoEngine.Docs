@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Requests or reads validation for an exact document revision and immutable artifact.
 
+## Parameters
+
 **Parameter `documentId`:** Stable Editor document identity.
 
 **Parameter `revision`:** Exact document revision that produced the artifact.
 
 **Parameter `artifact`:** Complete immutable candidate compiled for the active device.
 
-**Returns:** Current detached validation state.
+## Returns
+
+Current detached validation state.

@@ -16,6 +16,8 @@ aliases: []
 
 Records an include resolution edge so compilation never reinterprets authoring paths against live files.
 
+## Parameters
+
 **Parameter `includingFile`:** Source that requested the include.
 
 **Parameter `include`:** Original include spelling passed to the source resolver.

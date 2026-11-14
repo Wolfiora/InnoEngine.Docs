@@ -12,6 +12,8 @@ apiScope: Editor
 
 Atomically initializes a perspective navigation view.
 
+## Parameters
+
 **Parameter `position`:** Provider-defined world-space position.
 
 **Parameter `rotation`:** Provider-defined world-space rotation.

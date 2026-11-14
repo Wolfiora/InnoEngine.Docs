@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a child-process environment that clears undeclared ambient compiler policy.
 
-**Returns:** A caller-owned dictionary to populate with explicitly selected SDK variables.
+## Returns
+
+A caller-owned dictionary to populate with explicitly selected SDK variables.

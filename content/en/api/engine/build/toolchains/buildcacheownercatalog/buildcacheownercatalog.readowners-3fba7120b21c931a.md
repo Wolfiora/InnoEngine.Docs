@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Reads explicitly registered roots using each publisher's existing inventory and protection rules.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute checkout containing registrations.
 
 **Parameter `cancellationToken`:** Cancels reading before a cleanup plan exists.
 
-**Returns:** Frozen owner descriptors; an unprepared checkout returns an empty list.
+## Returns
+
+Frozen owner descriptors; an unprepared checkout returns an empty list.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A registration is malformed or has an ambiguous identity.
 

@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Calculates the absolute value of the difference of two values.
 
+## Parameters
+
 **Parameter `value1`:** Source value.
 
-**Returns:** Distance between the two values.
-
 **Parameter `value2`:** The value2 consumed by distance; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+Distance between the two values.

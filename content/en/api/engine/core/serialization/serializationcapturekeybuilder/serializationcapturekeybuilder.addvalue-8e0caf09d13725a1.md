@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Adds an exact neutral numeric input to the declared key.
 
+## Parameters
+
 **Parameter `value`:** The current complete input value.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The callback has retired or is accessed from another thread.

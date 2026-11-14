@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Describes scalable metrics for one font face and logical size.
 
+## Parameters
+
 **Parameter `ascender`:** The scaled face ascender in logical pixels, using the backend's coordinate convention.
 
 **Parameter `descender`:** The scaled face descender in logical pixels, using the backend's coordinate convention.

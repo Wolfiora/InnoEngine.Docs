@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Multiplies the supplied values according to their algebraic contract.
 
+## Parameters
+
 **Parameter `s`:** The s consumed by \*; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector3 that represents the completed operation.
+## Returns
+
+The validated vector3 that represents the completed operation.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a formatted storage image; target capabilities must separately support its access and format.
 
+## Parameters
+
 **Parameter `format`:** Linear, non-depth image format supported by the rendering contract.
 
 **Parameter `access`:** Permitted memory operations.
@@ -19,6 +21,10 @@ Creates a formatted storage image; target capabilities must separately support i
 
 **Parameter `array`:** Whether a two-dimensional image is an array.
 
-**Returns:** An immutable image description with float4 load/store values.
+## Returns
+
+An immutable image description with float4 load/store values.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The format or shape cannot represent storage image operations.

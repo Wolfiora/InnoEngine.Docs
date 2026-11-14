@@ -65,3 +65,5 @@ Evidence is scoped to its recorded inputs and environment. Generated page counts
 | Module, type and reload foundations | [Composition, discovery, retirement and compiled examples](EXTENSIBILITY_2026_11_11.md) |
 
 First-failure logs and machine-generated catalogs stay under the task-owned `artifacts/` directory. Preserve their original contents when recording a corrected retry. The active plan lists missing coverage, external access requirements and remaining deployment obligations.
+
+- [Linked API categories and XML reading layout](API_NAVIGATION_XML_2026_11_14.md)

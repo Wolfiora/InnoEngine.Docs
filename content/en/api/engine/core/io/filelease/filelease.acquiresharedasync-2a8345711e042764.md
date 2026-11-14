@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Pins an existing generation against exclusive retirement while permitting other readers.
 
+## Parameters
+
 **Parameter `path`:** The absolute persistent lease path previously initialized by an exclusive owner.
 
 **Parameter `timeout`:** The maximum wait, or `F:System.Threading.Timeout.InfiniteTimeSpan` for no time limit.
 
 **Parameter `cancellationToken`:** Cancels waiting before ownership is returned.
 
-**Returns:** A shared lease; an exclusive lease cannot be acquired until every reader releases ownership.
+## Returns
+
+A shared lease; an exclusive lease cannot be acquired until every reader releases ownership.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** The owner has not initialized the persistent lease file.
 

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates immutable device frame counters.
 
+## Parameters
+
 **Parameter `drawCount`:** Direct and indirect draw commands submitted so far.
 
 **Parameter `dispatchCount`:** Direct and indirect compute dispatches submitted so far.

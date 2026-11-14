@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Reads a required named value through the unified value pipeline.
 
+## Type parameters
+
 **Type parameter `TValue`:** The declared value type.
+
+## Parameters
 
 **Parameter `name`:** The required member name.
 
-**Returns:** The restored value.
+## Returns
+
+The restored value.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the member is missing or invalid.

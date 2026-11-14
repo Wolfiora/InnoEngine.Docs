@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Consumes one routed frame and returns data-editing intents without invoking domain code.
 
+## Parameters
+
 **Parameter `view`:** The current canvas projection.
 
 **Parameter `layout`:** The immutable neutral node snapshot used by drawing and hit testing.
 
 **Parameter `input`:** Current pointer input after the caller's focus, navigation and overlay routing.
 
-**Returns:** Completed neutral intents. The feature owns validation, atomic mutation and History recording.
+## Returns
+
+Completed neutral intents. The feature owns validation, atomic mutation and History recording.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The pointer position is nonfinite.

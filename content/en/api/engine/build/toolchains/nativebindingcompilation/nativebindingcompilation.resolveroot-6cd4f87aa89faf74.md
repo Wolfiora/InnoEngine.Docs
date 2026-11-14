@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Resolves a component-local root using the current checkout and selected output.
 
+## Parameters
+
 **Parameter `engineRoot`:** The current checkout's absolute root.
 
 **Parameter `nativeDirectory`:** The selected generation's absolute native output.
 
 **Parameter `rootId`:** An ordinal root identity from this description.
 
-**Returns:** The physical root; no other component's root table participates.
+## Returns
+
+The physical root; no other component's root table participates.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The root identity is unknown.

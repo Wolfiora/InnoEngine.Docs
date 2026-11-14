@@ -12,6 +12,8 @@ apiScope: Editor
 
 Restricts subsequent drawing to one screen rectangle.
 
+## Parameters
+
 **Parameter `minimum`:** The clip minimum.
 
 **Parameter `maximum`:** The clip maximum.

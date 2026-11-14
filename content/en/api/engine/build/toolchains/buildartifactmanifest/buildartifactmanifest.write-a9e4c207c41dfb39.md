@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a completed staging tree before its owner publishes the directory.
 
+## Parameters
+
 **Parameter `directory`:** The complete staging root owned exclusively by the caller.
 
 **Parameter `fingerprint`:** The immutable identity of every input used to produce these outputs.
@@ -18,6 +20,8 @@ Records a completed staging tree before its owner publishes the directory.
 **Parameter `outputDirectories`:** Relative output subdirectories included in this artifact; each must stay within the root.
 
 **Parameter `context`:** The optional operation collecting independent output-read statistics.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity or output path is invalid.
 

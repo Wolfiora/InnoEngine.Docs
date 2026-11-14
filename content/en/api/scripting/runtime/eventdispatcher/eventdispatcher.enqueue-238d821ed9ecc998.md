@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Enqueues an event for later processing via `M:InnoEngine.Events.EventDispatcher.Flush`.
 
+## Parameters
+
 **Parameter `e`:** The event instance to enqueue.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The queue is full; the event was not accepted.

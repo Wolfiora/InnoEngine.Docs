@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Replaces the current report for one diagnostic source.
 
+## Parameters
+
 **Parameter `report`:** The complete current report to store or present.

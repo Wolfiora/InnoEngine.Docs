@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Captures the contribution introduced by the supplied project setting value.
 
+## Parameters
+
 **Parameter `baseline`:** The value composed from lower-precedence contributors.
 
 **Parameter `value`:** The complete authored value.
 
-**Returns:** A detached neutral contribution.
+## Returns
+
+A detached neutral contribution.

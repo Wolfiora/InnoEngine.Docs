@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Validates node availability, ports, edge types, capacity, required inputs and cycles.
 
+## Parameters
+
 **Parameter `document`:** Graph document to validate without modifying it.
 
 **Parameter `resolver`:** Active node definition resolver.
@@ -20,4 +22,6 @@ Validates node availability, ports, edge types, capacity, required inputs and cy
 
 **Parameter `allowCycles`:** Whether directed cycles are permitted.
 
-**Returns:** A deterministic validation result. Missing definitions remain warnings so documents stay editable.
+## Returns
+
+A deterministic validation result. Missing definitions remain warnings so documents stay editable.

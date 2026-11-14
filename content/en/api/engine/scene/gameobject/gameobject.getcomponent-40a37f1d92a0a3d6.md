@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets the first attached component assignable to the requested type.
 
+## Type parameters
+
 **Type parameter `TComponent`:** Requested component type.
 
-**Returns:** The first matching component.
+## Returns
+
+The first matching component.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no matching component exists.

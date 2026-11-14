@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Borrows a product whose lease is owned by this result until disposal.
 
+## Parameters
+
 **Parameter `index`:** The zero-based position in the plan's declaration order.
 
-**Returns:** The borrowed product; the caller must finish access before disposing the result.
+## Returns
+
+The borrowed product; the caller must finish access before disposing the result.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The result no longer owns the products.

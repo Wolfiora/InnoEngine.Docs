@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Transforms a local-space point through the complete parent hierarchy.
 
+## Parameters
+
 **Parameter `point`:** Point expressed in this transform's local space.
 
-**Returns:** The corresponding world-space point.
+## Returns
+
+The corresponding world-space point.

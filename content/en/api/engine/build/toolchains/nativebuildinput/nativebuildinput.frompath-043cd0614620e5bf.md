@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Declares a checkout-relative input, or an external SDK location whose path affects tool selection.
 
+## Parameters
+
 **Parameter `engineRoot`:** The absolute checkout root assigned the logical prefix `engine/`.
 
 **Parameter `path`:** A checkout-relative input or an absolute SDK input.
 
-**Returns:** A normalized declaration preserving external SDK location identity.
+## Returns
+
+A normalized declaration preserving external SDK location identity.

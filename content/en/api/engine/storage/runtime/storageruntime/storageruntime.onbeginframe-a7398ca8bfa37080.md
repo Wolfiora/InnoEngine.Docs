@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Begins a frame-scoped operation and makes queued work visible.
 
+## Parameters
+
 **Parameter `frame`:** The frame consumed by begin frame; ownership remains with the caller unless explicitly stated otherwise.

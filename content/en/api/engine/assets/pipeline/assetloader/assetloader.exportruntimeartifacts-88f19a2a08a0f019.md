@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Writes a source-free runtime catalog and its exact immutable artifact closure.
 
+## Parameters
+
 **Parameter `destinationLibraryRoot`:** Empty destination that becomes the deployed content root.
 
-**Returns:** Counts and source identities for the exported runtime snapshot.
+## Returns
+
+Counts and source identities for the exported runtime snapshot.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when runtime artifacts are incomplete, a deployed reference is authoring-only, or a transitive authoring input has failed or become stale.
 

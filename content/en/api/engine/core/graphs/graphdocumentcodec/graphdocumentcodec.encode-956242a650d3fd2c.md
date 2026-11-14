@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a graph document into deterministic native bytes.
 
+## Parameters
+
 **Parameter `document`:** Document to encode.
 
 **Parameter `serialization`:** The serialization registry that owns the converter generation for this operation.
 
-**Returns:** Native graph bytes containing stable IDs and neutral values only.
+## Returns
+
+Native graph bytes containing stable IDs and neutral values only.

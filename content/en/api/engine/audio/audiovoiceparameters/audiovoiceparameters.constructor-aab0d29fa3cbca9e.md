@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a voice parameter snapshot.
 
+## Parameters
+
 **Parameter `volume`:** Linear voice gain.
 
 **Parameter `pitch`:** Playback-rate multiplier.
@@ -18,5 +20,7 @@ Creates a voice parameter snapshot.
 **Parameter `pan`:** Stereo pan from negative one to positive one.
 
 **Parameter `spatial`:** Optional spatial playback parameters.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Gain, pitch, or pan is non-finite or outside its valid range.

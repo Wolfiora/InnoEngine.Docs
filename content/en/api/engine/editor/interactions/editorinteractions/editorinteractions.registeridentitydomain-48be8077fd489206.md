@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Makes a temporary Core identity domain available to selection, focus and drag resolution.
 
+## Parameters
+
 **Parameter `allocator`:** The borrowed allocator owned by the temporary runtime session.
 
-**Returns:** A routing lease; retire it after restoring Edit selection and before releasing the session.
+## Returns
+
+A routing lease; retire it after restoring Edit selection and before releasing the session.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The allocator is null.
 

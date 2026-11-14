@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates a static placement for the annotated action on an exact menu surface.
 
+## Parameters
+
 **Parameter `area`:** The exact interaction area whose menu receives the action.
 
 **Parameter `path`:** The slash-delimited path used to create parent menus and the leaf label.
@@ -19,5 +21,7 @@ Creates a static placement for the annotated action on an exact menu surface.
 **Parameter `order`:** The stable ordering value among sibling placements.
 
 **Parameter `separatorBefore`:** Whether a visual separator should precede the leaf placement.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `area` or `path` is empty.

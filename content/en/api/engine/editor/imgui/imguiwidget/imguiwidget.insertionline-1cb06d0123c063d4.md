@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Draws a horizontal insertion marker above normal window content in screen coordinates.
 
+## Parameters
+
 **Parameter `fromX`:** Marker start X coordinate.
 
 **Parameter `toX`:** Marker end X coordinate.

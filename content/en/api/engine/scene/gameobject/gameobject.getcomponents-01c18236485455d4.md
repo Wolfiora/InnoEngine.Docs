@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets all attached components in attachment order.
 
-**Returns:** A stable component snapshot.
+## Returns
+
+A stable component snapshot.

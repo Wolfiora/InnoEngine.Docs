@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces an element's children with an explicitly tagged source-language fragment.
 
+## Parameters
+
 **Parameter `context`:** The context that owns the requested document or state.
 
 **Parameter `document`:** The document owned by the supplied context.
@@ -19,4 +21,6 @@ Replaces an element's children with an explicitly tagged source-language fragmen
 
 **Parameter `fragment`:** Explicitly tagged replacement document fragment.
 
-**Returns:** True when the element exists and the fragment was applied; false when the element is absent. This is not a comparison with the preceding content.
+## Returns
+
+True when the element exists and the fragment was applied; false when the element is absent. This is not a comparison with the preceding content.

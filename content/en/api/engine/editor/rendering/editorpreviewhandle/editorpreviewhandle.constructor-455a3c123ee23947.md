@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates one generation-scoped preview handle.
 
+## Parameters
+
 **Parameter `value`:** Non-zero preview identity.
 
 **Parameter `deviceGeneration`:** Non-zero rendering-device generation.

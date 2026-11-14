@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Starts one clip using explicit playback parameters.
 
+## Parameters
+
 **Parameter `clip`:** Imported clip to prepare and play.
 
 **Parameter `options`:** Immutable playback parameters.
 
-**Returns:** A voice handle that may initially be preparing.
+## Returns
+
+A voice handle that may initially be preparing.

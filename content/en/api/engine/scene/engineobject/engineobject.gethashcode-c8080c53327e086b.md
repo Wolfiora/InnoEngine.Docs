@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Returns a stable runtime reference hash code.
 
-**Returns:** The reference hash code.
+## Returns
+
+The reference hash code.

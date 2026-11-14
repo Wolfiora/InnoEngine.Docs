@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a shortcut scoped to an exact interaction area.
 
+## Parameters
+
 **Parameter `area`:** The exact focused area that accepts the shortcut, or an empty string for any area.
 
 **Parameter `key`:** The non-modifier key that triggers the action.

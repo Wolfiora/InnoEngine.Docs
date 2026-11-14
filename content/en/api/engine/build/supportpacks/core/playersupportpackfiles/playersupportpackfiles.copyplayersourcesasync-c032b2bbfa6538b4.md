@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies the selected project's evaluated source closure into isolated template input.
 
+## Parameters
+
 **Parameter `context`:** The selected checkout, SDK and preparation lifetime.
 
 **Parameter `project`:** The explicit product project to evaluate.
@@ -21,6 +23,10 @@ Copies the selected project's evaluated source closure into isolated template in
 
 **Parameter `environment`:** Optional explicitly selected SDK environment.
 
-**Returns:** Completion after all sources have contained, unique publication paths.
+## Returns
+
+Completion after all sources have contained, unique publication paths.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Source paths collide, escape the root, or the closure is empty.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Publishes and validates the target pack, reporting failures through MSBuild.
 
-**Returns:** True after installation; false when publication fails or is canceled.
+## Returns
+
+True after installation; false when publication fails or is canceled.

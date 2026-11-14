@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get a catalog snapshot by persistent identity.
 
+## Parameters
+
 **Parameter `persistentId`:** The stable persistent identity used for lookup.
 
 **Parameter `info`:** The resolved immutable metadata returned to the caller.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

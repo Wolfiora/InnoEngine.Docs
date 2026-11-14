@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a graph diagnostic.
 
+## Parameters
+
 **Parameter `code`:** Stable machine-readable diagnostic code.
 
 **Parameter `message`:** Artist-facing diagnostic text.

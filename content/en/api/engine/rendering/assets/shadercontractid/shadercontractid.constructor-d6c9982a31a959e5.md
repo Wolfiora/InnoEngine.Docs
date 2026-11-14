@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a shader contract identifier.
 
+## Parameters
+
 **Parameter `value`:** Globally stable contract value.

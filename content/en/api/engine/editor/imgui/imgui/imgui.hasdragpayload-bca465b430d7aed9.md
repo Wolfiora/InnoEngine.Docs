@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Checks the active payload's logical protocol without exposing its native buffer.
 
+## Parameters
+
 **Parameter `protocol`:** The exact drag protocol name.
 
-**Returns:** True when a drag of that protocol is currently active.
+## Returns
+
+True when a drag of that protocol is currently active.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates and publishes an immutable pack, then atomically selects it for new readers.
 
+## Parameters
+
 **Parameter `target`:** The platform and architecture owning the staged inputs.
 
 **Parameter `stagingDirectory`:** A complete, exclusively owned staging tree on the same filesystem as this catalog. Successful publication consumes this directory unless identical inputs already exist.
@@ -21,7 +23,11 @@ Validates and publishes an immutable pack, then atomically selects it for new re
 
 **Parameter `verifyInputs`:** Optional final source-input gate after output validation and any publication wait. Omit only when the caller exclusively owns a fully prepared tree with no external preparation inputs.
 
-**Returns:** Reading ownership of the selected immutable pack; earlier readers retain their own protection.
+## Returns
+
+Reading ownership of the selected immutable pack; earlier readers retain their own protection.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The candidate is incomplete or contains forbidden inputs.
 

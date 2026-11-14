@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 When overridden in a derived class, gets a value indicating whether the current stream supports seeking.
 
-**Returns:** `true` if the stream supports seeking; otherwise, `false`.
+## Returns
+
+`true` if the stream supports seeking; otherwise, `false`.

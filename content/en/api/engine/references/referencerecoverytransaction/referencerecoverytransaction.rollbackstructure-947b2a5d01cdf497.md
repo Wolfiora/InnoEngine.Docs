@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores attempted domain structures in reverse order before the previous publication is restored.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** The transaction is terminal or the caller is not the owner thread.
 
 **Exception `T:System.AggregateException`:** One or more structure compensations failed.

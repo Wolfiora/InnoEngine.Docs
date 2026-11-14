@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Compares a boxed destination with this value.
 
+## Parameters
+
 **Parameter `obj`:** The value to compare.
 
-**Returns:** True for an equal animation destination.
+## Returns
+
+True for an equal animation destination.

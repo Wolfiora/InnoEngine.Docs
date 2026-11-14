@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Closes the selected document and releases its retained state.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
 **Parameter `document`:** The document consumed by close document; ownership remains with the caller unless explicitly stated otherwise.

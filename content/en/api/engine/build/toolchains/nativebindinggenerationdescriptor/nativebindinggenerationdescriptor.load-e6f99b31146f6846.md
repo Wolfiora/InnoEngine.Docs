@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Reads and validates the result of a completed component generation request.
 
+## Parameters
+
 **Parameter `path`:** The request-owned descriptor file written after successful generation.
 
-**Returns:** The selected generation whose managed source and optional bridge are present.
+## Returns
+
+The selected generation whose managed source and optional bridge are present.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The descriptor is missing required output identities or contains unavailable outputs.
 

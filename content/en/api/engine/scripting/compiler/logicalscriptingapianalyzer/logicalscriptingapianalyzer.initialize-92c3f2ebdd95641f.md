@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Initializes owned resources and establishes the instance's active lifetime.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.

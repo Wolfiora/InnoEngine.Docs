@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Attempts to get single without changing state when the operation cannot complete.
 
+## Parameters
+
 **Parameter `store`:** The store consumed by try get single; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `item`:** The stored item associated with the validated handle.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

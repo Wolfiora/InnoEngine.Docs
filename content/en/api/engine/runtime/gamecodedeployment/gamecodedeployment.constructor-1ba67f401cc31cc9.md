@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Copies an explicit code closure and verifies unique ownership and dependency ordering.
 
+## Parameters
+
 **Parameter `modules`:** Ordered immutable module contributions; an empty closure describes an engine-only composition.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A module is null or duplicated, an assembly has multiple owners, or an upstream module is absent.

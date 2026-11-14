@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a qualified project identity.
 
+## Parameters
+
 **Parameter `projectId`:** The current project namespace.
 
 **Parameter `name`:** The stable local identity.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a document event with its source document and target element.
 
+## Parameters
+
 **Parameter `type`:** The kind of document interaction.
 
 **Parameter `document`:** The document that produced the event.

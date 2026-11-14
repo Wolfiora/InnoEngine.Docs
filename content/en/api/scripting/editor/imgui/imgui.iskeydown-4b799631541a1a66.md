@@ -12,6 +12,10 @@ apiScope: Editor
 
 Checks whether a presentation key remains held.
 
+## Parameters
+
 **Parameter `key`:** The presentation key to inspect.
 
-**Returns:** True when the documented control event or condition is present; otherwise false.
+## Returns
+
+True when the documented control event or condition is present; otherwise false.

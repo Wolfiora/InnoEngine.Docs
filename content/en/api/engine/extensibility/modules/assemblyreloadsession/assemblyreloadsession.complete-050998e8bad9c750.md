@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Commits an activated reload and begins cooperative unload of the old generation.
 
-**Returns:** The validated assembly unload monitor that represents the completed operation.
+## Returns
+
+The validated assembly unload monitor that represents the completed operation.
+
+## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A participant still uses its dependencies. Contexts remain owned and no unload monitor is issued.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a shader compiler toolchain using this implementation's validated inputs.
 
+## Parameters
+
 **Parameter `backend`:** The backend consumed by create shader compiler toolchain; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated ishader compiler toolchain that represents the completed operation.
+## Returns
+
+The validated ishader compiler toolchain that represents the completed operation.

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates an explicit zero value for a supported scalar, vector, matrix, structure or array.
 
+## Parameters
+
 **Parameter `type`:** Complete numeric or boolean value type; resources and effect tokens are not values.
 
-**Returns:** A detached zero literal with an exact type and component count.
+## Returns
+
+A detached zero literal with an exact type and component count.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The type is opaque or exceeds the bounded literal size.

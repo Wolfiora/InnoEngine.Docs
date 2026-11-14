@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Checks that owned source copies still match the bytes accepted before compilation.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels complete source verification before the consumer publishes its output.
 
-**Returns:** Completion only when every owned input remains unchanged.
+## Returns
+
+Completion only when every owned input remains unchanged.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A tool changed a fixed input during execution.
 

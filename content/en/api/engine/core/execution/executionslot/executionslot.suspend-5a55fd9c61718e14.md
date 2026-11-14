@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Temporarily masks this slot without exposing an enclosing binding.
 
-**Returns:** A strict scope that restores the enclosing binding when retired.
+## Returns
+
+A strict scope that restores the enclosing binding when retired.

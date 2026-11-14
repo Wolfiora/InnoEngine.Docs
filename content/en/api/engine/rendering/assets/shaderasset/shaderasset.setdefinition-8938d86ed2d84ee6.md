@@ -11,11 +11,15 @@ apiSurface: source-clr
 
 Commits a validated definition through the native serialization channel.
 
+## Parameters
+
 **Parameter `value`:** Complete definition visible to materials and target compilation.
 
 **Parameter `serialization`:** The serialization registry that owns the active shader converter generation.
 
 **Parameter `context`:** The complete owner reference context used for material texture defaults.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A declaration collection is null. The previous committed definition remains unchanged.
 

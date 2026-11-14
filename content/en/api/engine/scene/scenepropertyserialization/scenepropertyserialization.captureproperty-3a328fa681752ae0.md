@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures one persistent property without serializing the complete scene.
 
+## Parameters
+
 **Parameter `target`:** The live scene object containing the property.
 
 **Parameter `propertyName`:** The exact serialized member key.
@@ -19,7 +21,11 @@ Captures one persistent property without serializing the complete scene.
 
 **Parameter `assets`:** The resolver used to preserve canonical asset references in captured values.
 
-**Returns:** Neutral bytes that can be restored into the same logical object identity.
+## Returns
+
+Neutral bytes that can be restored into the same logical object identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `target` is `null`.
 

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a shader pass definition.
 
+## Parameters
+
 **Parameter `name`:** Stable pass name within the shader.
 
 **Parameter `programKind`:** Programmable stage combination.

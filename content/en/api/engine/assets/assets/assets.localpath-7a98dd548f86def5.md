@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Creates a path relative to the Asset source that owns the calling script.
 
+## Parameters
+
 **Parameter `localPath`:** The normalized path relative to the caller's Project or installed Plugin Assets root.
 
 **Parameter `sourceFile`:** The compiler-supplied canonical Asset path of the calling source file; callers normally omit it.
 
-**Returns:** A mount-qualified path that follows the script from Project development into an installed Plugin.
+## Returns
+
+A mount-qualified path that follows the script from Project development into an installed Plugin.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The caller does not provide a canonical source location produced by the scripting compiler.
 

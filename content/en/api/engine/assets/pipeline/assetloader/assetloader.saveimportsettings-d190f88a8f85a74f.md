@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Atomically saves importer settings and reimports the source. Failed imports retain both the saved settings and the previous successful artifact; callers must inspect the returned import status separately from saving.
 
+## Parameters
+
 **Parameter `path`:** The writable isolated source path.
 
 **Parameter `settings`:** A value of the current importer's settings type, or null to reset to defaults.
 
 **Parameter `expectedFingerprint`:** The fingerprint returned when the settings were read.
 
-**Returns:** True when reimport succeeds; false when settings were saved but reimport failed.
+## Returns
+
+True when reimport succeeds; false when settings were saved but reimport failed.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The sidecar changed externally or could not be written.
 

@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Encodes native asset properties with the owner's reference context and dependency capture.
 
+## Type parameters
+
 **Type parameter `TAsset`:** Native asset source type.
+
+## Parameters
 
 **Parameter `asset`:** Detached editable value.
 
-**Returns:** Native source bytes, with no canonical asset mutation.
+## Returns
+
+Native source bytes, with no canonical asset mutation.

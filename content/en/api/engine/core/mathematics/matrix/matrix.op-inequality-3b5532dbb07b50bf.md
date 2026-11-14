@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tests matrices for inequality.
 
+## Parameters
+
 **Parameter `a`:** First matrix.
 
 **Parameter `b`:** Second matrix.
 
-**Returns:** `true` if matrices are not equal.
+## Returns
+
+`true` if matrices are not equal.

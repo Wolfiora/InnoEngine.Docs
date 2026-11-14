@@ -14,8 +14,14 @@ aliases: []
 
 Creates one discovered inspection drawer through the owning editor composition root.
 
+## Parameters
+
 **Parameter `drawerType`:** The concrete drawer type selected from the active type catalog.
 
-**Returns:** A new drawer instance whose runtime type is `drawerType`.
+## Returns
+
+A new drawer instance whose runtime type is `drawerType`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Implementations may throw when `drawerType` is `null`.

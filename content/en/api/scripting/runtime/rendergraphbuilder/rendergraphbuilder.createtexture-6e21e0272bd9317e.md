@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Creates a transient texture eligible for lifetime aliasing.
 
+## Parameters
+
 **Parameter `name`:** Debug and diagnostic name.
 
 **Parameter `descriptor`:** Texture requirements.
 
-**Returns:** A handle valid only for this graph generation.
+## Returns
+
+A handle valid only for this graph generation.

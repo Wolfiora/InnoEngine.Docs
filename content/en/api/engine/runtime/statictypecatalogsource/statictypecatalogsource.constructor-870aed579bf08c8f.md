@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Executes generated contributions once and freezes the resulting metadata and factory closure.
 
+## Parameters
+
 **Parameter `catalogs`:** Assembly-local registration methods. Callbacks and the registrar are released after construction.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A declaration is registered twice, a generic construction lacks its definition, or a contributor is null.

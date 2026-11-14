@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Determines whether a referenced simple name belongs to the selected managed framework.
 
+## Parameters
+
 **Parameter `assemblyName`:** The referenced managed assembly simple name.
 
-**Returns:** Whether the framework owns this dependency.
+## Returns
+
+Whether the framework owns this dependency.

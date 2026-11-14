@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Updates visibility, interactivity, labeling, help, or numeric constraints before layout.
 
+## Parameters
+
 **Parameter `context`:** Mutable presentation state for the annotated property.

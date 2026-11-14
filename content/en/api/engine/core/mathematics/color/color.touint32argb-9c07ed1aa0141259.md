@@ -11,7 +11,9 @@ apiSurface: source-clr
 
 Packs normalized channels into the existing unsigned 0xAABBGGRR representation.
 
-**Returns:** Alpha in bits 24-31, blue in 16-23, green in 8-15 and red in 0-7.
+## Returns
+
+Alpha in bits 24-31, blue in 16-23, green in 8-15 and red in 0-7.
 
 ## Remarks
 

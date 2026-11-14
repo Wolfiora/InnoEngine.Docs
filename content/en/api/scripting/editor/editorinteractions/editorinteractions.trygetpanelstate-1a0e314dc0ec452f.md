@@ -12,8 +12,12 @@ apiScope: Editor
 
 Reads whether one available panel is currently open.
 
+## Parameters
+
 **Parameter `panelId`:** The stable panel identity.
 
 **Parameter `isOpen`:** Receives the open state, or false when the panel is unavailable.
 
-**Returns:** True when the current generation contains the requested available panel.
+## Returns
+
+True when the current generation contains the requested available panel.

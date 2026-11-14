@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Registers an editor feature that owns generation-bound live state.
 
+## Parameters
+
 **Parameter `participant`:** The feature participant. The coordinator retains only a weak reference to this instance.
 
-**Returns:** A registration lease that strongly retains the participant until the lease is disposed. The coordinator itself retains only a weak reference.
+## Returns
+
+A registration lease that strongly retains the participant until the lease is disposed. The coordinator itself retains only a weak reference.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `participant` is `null`.

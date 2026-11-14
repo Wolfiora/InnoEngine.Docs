@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Compiles or publishes the prepared code closure into isolated managed staging.
 
+## Parameters
+
 **Parameter `request`:** The immutable prepared project, target, frozen inputs and staging locations.
 
 **Parameter `cancellationToken`:** Cancels the publisher and waits for its process tree and output readers to retire.
 
-**Returns:** Verified output evidence; failed or canceled publication never returns a successful result.
+## Returns
+
+Verified output evidence; failed or canceled publication never returns a successful result.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The target is unsupported, required toolchain inputs are absent, or publication fails.
 

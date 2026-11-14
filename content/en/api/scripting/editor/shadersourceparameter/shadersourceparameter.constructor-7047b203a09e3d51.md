@@ -12,10 +12,14 @@ apiScope: Editor
 
 Creates a validated function parameter.
 
+## Parameters
+
 **Parameter `name`:** Public parameter name, used for semantic port matching rather than ordinal matching.
 
 **Parameter `type`:** Canonical value type.
 
 **Parameter `direction`:** Declared value flow.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The parameter has void type.

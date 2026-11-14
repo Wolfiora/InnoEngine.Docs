@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Adds frame-scoped passes and dependencies.
 
+## Parameters
+
 **Parameter `context`:** Frame-scoped feature context.

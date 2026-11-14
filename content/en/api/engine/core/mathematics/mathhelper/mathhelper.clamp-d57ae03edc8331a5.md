@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Clamps a value to the inclusive range \[min, max\].
 
+## Parameters
+
 **Parameter `value`:** The concrete value read or transformed by this operation.
 
 **Parameter `min`:** The min consumed by clamp; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The scalar result calculated from the supplied inputs.
-
 **Parameter `max`:** The max consumed by clamp; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The scalar result calculated from the supplied inputs.

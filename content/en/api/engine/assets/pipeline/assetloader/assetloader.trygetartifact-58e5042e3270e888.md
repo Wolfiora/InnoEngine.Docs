@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to resolve a named output from the current artifact bundle.
 
+## Parameters
+
 **Parameter `persistentId`:** The stable persistent identity used for lookup.
 
 **Parameter `outputName`:** The stable artifact output name used for lookup.
 
 **Parameter `artifact`:** The resolved immutable artifact payload returned to the caller.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

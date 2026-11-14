@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates a four-component animation value.
 
+## Parameters
+
 **Parameter `kind`:** Interpretation of the populated components.
 
 **Parameter `x`:** First component.

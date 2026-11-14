@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Draws the isolated staged value. Mutations remain local until the Settings frontend applies them.
 
+## Parameters
+
 **Parameter `setting`:** The isolated current-generation setting snapshot.

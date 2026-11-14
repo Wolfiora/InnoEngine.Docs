@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Advances fixed-step callbacks in bottom-to-top stack order.
 
+## Parameters
+
 **Parameter `fixedDeltaTime`:** The fixed simulation interval in seconds.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown when this stack has been disposed.

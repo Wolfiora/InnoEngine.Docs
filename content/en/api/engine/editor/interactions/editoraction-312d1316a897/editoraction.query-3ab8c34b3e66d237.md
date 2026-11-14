@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Evaluates the operation's current availability and presentation state.
 
+## Parameters
+
 **Parameter `context`:** The context that supplies state and services for this operation.
 
-**Returns:** The validated editor action state that represents the completed operation.
+## Returns
+
+The validated editor action state that represents the completed operation.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets whether a mouse button is held in the current Editor UI frame, including input consumed by UI controls.
 
+## Parameters
+
 **Parameter `button`:** The UI mouse button to query.
 
-**Returns:** True while the button is held; callers must also check their item's active or hovered state before editing.
+## Returns
+
+True while the button is held; callers must also check their item's active or hovered state before editing.

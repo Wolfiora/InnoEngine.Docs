@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Tries to resolve an active node definition.
 
+## Parameters
+
 **Parameter `definitionId`:** Stable definition identifier.
 
 **Parameter `definition`:** Receives the generation-scoped definition.
 
-**Returns:** `true` when active; otherwise `false`.
+## Returns
+
+`true` when active; otherwise `false`.

@@ -14,6 +14,8 @@ aliases: []
 
 Stores one decoded device-owned identity.
 
+## Parameters
+
 **Parameter `value`:** Non-zero backend resource identity.
 
 **Parameter `generation`:** Device generation that owns the resource.

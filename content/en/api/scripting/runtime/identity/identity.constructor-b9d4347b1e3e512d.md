@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Creates an unbound identity with the supplied persistent identifier.
 
+## Parameters
+
 **Parameter `persistentId`:** The stable identifier to preserve across serialization boundaries.

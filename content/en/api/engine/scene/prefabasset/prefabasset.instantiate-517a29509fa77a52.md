@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Instantiates this prefab into a scene using newly generated object identities.
 
+## Parameters
+
 **Parameter `scene`:** Target scene.
 
 **Parameter `serialization`:** The serialization registry that owns the active prefab converter generation.
@@ -19,4 +21,6 @@ Instantiates this prefab into a scene using newly generated object identities.
 
 **Parameter `parent`:** Optional target parent.
 
-**Returns:** The instantiated root game object.
+## Returns
+
+The instantiated root game object.

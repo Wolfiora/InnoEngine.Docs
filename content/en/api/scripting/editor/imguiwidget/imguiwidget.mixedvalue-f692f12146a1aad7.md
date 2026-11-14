@@ -12,6 +12,8 @@ apiScope: Editor
 
 Draws one control group with the native mixed-value state, restoring the previous item flags on failure.
 
+## Parameters
+
 **Parameter `mixed`:** Whether the current selection contains different values.
 
 **Parameter `draw`:** Synchronous control drawing; never retained.

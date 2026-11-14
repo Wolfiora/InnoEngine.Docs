@@ -12,6 +12,8 @@ apiScope: Editor
 
 Creates the contextual presentation state of an editor action.
 
+## Parameters
+
 **Parameter `isVisible`:** Whether the action should be included in the current presentation.
 
 **Parameter `isEnabled`:** Whether the action can execute in the current context.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a configured script assembly definition for native asset export.
 
+## Parameters
+
 **Parameter `assemblyName`:** Stable managed assembly name.
 
 **Parameter `scope`:** Runtime or Editor API scope.
@@ -22,5 +24,7 @@ Creates a configured script assembly definition for native asset export.
 **Parameter `nullable`:** Whether nullable reference analysis is enabled.
 
 **Parameter `allowUnsafe`:** Whether unsafe source is permitted.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `assemblyName` is empty.

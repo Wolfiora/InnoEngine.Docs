@@ -15,4 +15,6 @@ Rejects dependency destruction after a generation owner reported unfinished reti
 
 Ordinary terminal cleanup failures do not prevent remaining cleanup. Unfinished retirement remains blocking even if an earlier ordinary error is the primary diagnostic failure.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A failed generation still owns live work; its dependencies must remain owned until host restart.

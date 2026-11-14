@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Activates a producer at an owner safe point, revoking any previous registration with the same ID.
 
+## Parameters
+
 **Parameter `source`:** The stable owner-qualified producer identity.
 
-**Returns:** A producer whose disposal clears only its own active registration.
+## Returns
+
+A producer whose disposal clears only its own active registration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The source is not initialized.

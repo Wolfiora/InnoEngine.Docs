@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates an immutable history payload by copying the supplied bytes.
 
+## Parameters
+
 **Parameter `bytes`:** The neutral bytes to retain for future Undo and Redo transitions.
 
-**Returns:** A new independently owned payload.
+## Returns
+
+A new independently owned payload.

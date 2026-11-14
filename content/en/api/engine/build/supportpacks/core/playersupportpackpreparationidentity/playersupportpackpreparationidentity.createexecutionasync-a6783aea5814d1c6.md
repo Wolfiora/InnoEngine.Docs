@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates the exclusively owned fixed managed execution planned by this preparation identity.
 
+## Parameters
+
 **Parameter `cancellationToken`:** Cancels materialization without changing any installed Pack.
 
-**Returns:** Caller-owned input copies for compilation and source extraction.
+## Returns
+
+Caller-owned input copies for compilation and source extraction.

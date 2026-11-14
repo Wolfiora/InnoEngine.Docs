@@ -12,10 +12,14 @@ apiScope: Editor
 
 Reads and validates the public node interface declared by a Shader graph.
 
+## Parameters
+
 **Parameter `graph`:** Detached graph asset source.
 
 **Parameter `serialization`:** Owner converter registry.
 
 **Parameter `context`:** Complete owner reference context.
 
-**Returns:** The detached graph-node interface.
+## Returns
+
+The detached graph-node interface.

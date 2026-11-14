@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Determines whether a registration accepts a concrete target and returns its specificity distance.
 
+## Parameters
+
 **Parameter `concreteType`:** The target type supplied by the active extension generation.
 
 **Parameter `candidateType`:** The registered class or interface accepted by the extension.
 
 **Parameter `distance`:** Zero for an exact match, ancestry distance for classes, or one for an interface.
 
-**Returns:** True when the registration accepts the target; otherwise false and the maximum distance.
+## Returns
+
+True when the registration accepts the target; otherwise false and the maximum distance.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Either type is null.

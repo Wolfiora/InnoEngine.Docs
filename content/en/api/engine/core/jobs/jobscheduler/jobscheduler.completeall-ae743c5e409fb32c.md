@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Blocks the calling thread until every supplied operation completes.
 
+## Parameters
+
 **Parameter `handles`:** The generation-safe operation handles to complete.

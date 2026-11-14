@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Replaces the complete neutral document as one atomic, undoable authoring operation.
 
+## Parameters
+
 **Parameter `replacement`:** Complete replacement document copied by the operation.
 
 **Parameter `historyName`:** Concise artist-facing history entry name.

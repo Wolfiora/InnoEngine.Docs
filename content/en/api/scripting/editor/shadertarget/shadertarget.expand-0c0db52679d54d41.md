@@ -12,8 +12,12 @@ apiScope: Editor
 
 Builds explicit stage interfaces, resource declarations, techniques and pass states.
 
+## Parameters
+
 **Parameter `context`:** Invocation-scoped detached document and complete owner serialization services.
 
 **Parameter `cancellationToken`:** Cancellation between expansion operations.
 
-**Returns:** A detached graph for the common typed compiler; all required capabilities belong in its pass contracts.
+## Returns
+
+A detached graph for the common typed compiler; all required capabilities belong in its pass contracts.

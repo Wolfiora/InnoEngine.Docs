@@ -12,4 +12,6 @@ apiScope: Editor
 
 Requests keyboard focus for the next submitted item in the current frame and window.
 
+## Exceptions
+
 **Exception `T:System.InvalidOperationException`:** No matching owner-thread drawing session is active.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Stops a live or preparing voice.
 
+## Parameters
+
 **Parameter `voice`:** Runtime voice handle to stop.
 
-**Returns:** `true` when a live voice was stopped.
+## Returns
+
+`true` when a live voice was stopped.

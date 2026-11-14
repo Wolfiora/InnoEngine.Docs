@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Enables or disables a declared static keyword option.
 
+## Parameters
+
 **Parameter `keyword`:** Stable keyword option identifier.
 
 **Parameter `enabled`:** Whether the option should be enabled.

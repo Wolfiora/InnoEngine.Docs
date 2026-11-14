@@ -11,12 +11,18 @@ apiSurface: source-clr
 
 Decodes a deployed shader artifact and validates it against the requesting runtime shader and variant.
 
+## Parameters
+
 **Parameter `bytes`:** The complete binary deployment payload.
 
 **Parameter `expectedShaderName`:** The shader name declared by the requesting runtime asset.
 
 **Parameter `expectedVariant`:** The exact static keyword selection requested by the material.
 
-**Returns:** A fully validated, source-free artifact ready for GPU resource creation.
+## Returns
+
+A fully validated, source-free artifact ready for GPU resource creation.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the payload is corrupt, exceeds safety limits, or does not match the request.

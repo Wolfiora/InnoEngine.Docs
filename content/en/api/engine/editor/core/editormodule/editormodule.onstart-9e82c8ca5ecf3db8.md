@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Runs after the module generation becomes active and before its first update.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context for the active runtime.

@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Writes the specified entry to standard output.
 
+## Parameters
+
 **Parameter `entry`:** The log entry to print.

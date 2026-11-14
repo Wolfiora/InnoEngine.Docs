@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Restores requests whose resolvers can access only the captured files and edges.
 
+## Parameters
+
 **Parameter `bytes`:** Current native authoring artifact.
 
 **Parameter `function`:** Exact exported function selected by the graph node.
@@ -19,4 +21,6 @@ Restores requests whose resolvers can access only the captured files and edges.
 
 **Parameter `defines`:** Additional target/variant definitions; conflicting recorded values are rejected.
 
-**Returns:** Detached requests without filesystem access or old-generation provider references.
+## Returns
+
+Detached requests without filesystem access or old-generation provider references.

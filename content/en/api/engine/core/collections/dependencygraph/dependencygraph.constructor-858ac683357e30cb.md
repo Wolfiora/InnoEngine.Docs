@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an empty dependency graph.
 
+## Parameters
+
 **Parameter `equalityComparer`:** Optional node equality comparer.
 
 **Parameter `orderingComparer`:** Optional ordering comparer used to make query results deterministic. When omitted, node insertion order is used.

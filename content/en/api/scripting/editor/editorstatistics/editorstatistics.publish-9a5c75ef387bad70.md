@@ -12,6 +12,10 @@ apiScope: Editor
 
 Publishes or replaces one statistic for the current editor frame.
 
+## Parameters
+
 **Parameter `statistic`:** Immutable contribution containing no runtime provider references.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `statistic` is `null`.

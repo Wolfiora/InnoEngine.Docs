@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Loads the canonical asset at a logical catalog path.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset contract.
+
+## Parameters
 
 **Parameter `path`:** The mount-qualified logical catalog path.
 
-**Returns:** The canonical compatible asset owned by this lookup.
+## Returns
+
+The canonical compatible asset owned by this lookup.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the asset does not exist or has an incompatible concrete type.

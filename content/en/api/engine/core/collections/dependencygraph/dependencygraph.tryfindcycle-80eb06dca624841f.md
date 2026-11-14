@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Tries to find one complete cycle in the graph.
 
+## Parameters
+
 **Parameter `cycle`:** A closed cycle whose first and last nodes are equal, or an empty list when acyclic.
 
-**Returns:** `true` when a cycle was found.
+## Returns
+
+`true` when a cycle was found.

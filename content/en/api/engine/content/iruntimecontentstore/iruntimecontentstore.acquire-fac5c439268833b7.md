@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Pins an entry against source retirement and supplies independent read streams.
 
+## Parameters
+
 **Parameter `key`:** The exact assigned logical key.
 
-**Returns:** A caller-owned lease whose streams remain usable after this store closes.
+## Returns
+
+A caller-owned lease whose streams remain usable after this store closes.
+
+## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** The exact content key is not present.
 

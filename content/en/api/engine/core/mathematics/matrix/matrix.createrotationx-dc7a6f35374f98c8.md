@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a rotation matrix around the X axis (radians).
 
+## Parameters
+
 **Parameter `radians`:** Rotation angle in radians.
 
-**Returns:** A rotation matrix.
+## Returns
+
+A rotation matrix.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Configures and builds an explicit component target without detecting the current platform.
 
+## Parameters
+
 **Parameter `context`:** The recipe-owned producer scope supplied by NativeArtifactPublisher, with frozen tools and inputs.
 
 **Parameter `component`:** The unique component owner of target-scoped intermediate output.
@@ -23,7 +25,11 @@ Configures and builds an explicit component target without detecting the current
 
 **Parameter `cancellationToken`:** Cancels and drains the complete tool process tree.
 
-**Returns:** The owned CMake build directory after successful compilation.
+## Returns
+
+The owned CMake build directory after successful compilation.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Tools are unassigned or configuration or compilation fails.
 

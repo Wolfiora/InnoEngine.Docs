@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable emitter snapshot.
 
+## Parameters
+
 **Parameter `id`:** Stable emitter identity across updates.
 
 **Parameter `clip`:** Imported clip requested by the emitter.

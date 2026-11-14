@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Freezes a linked module's explicit assemblies and logical dependencies.
 
+## Parameters
+
 **Parameter `moduleName`:** The stable logical module name.
 
 **Parameter `domain`:** The code ownership domain.

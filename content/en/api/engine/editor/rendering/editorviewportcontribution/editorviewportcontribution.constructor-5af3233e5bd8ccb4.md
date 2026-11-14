@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a viewport model contribution.
 
+## Parameters
+
 **Parameter `data`:** Pipeline-defined frame-only data.
 
 **Parameter `pipeline`:** Contributor-selected pipeline, or null for the project default.

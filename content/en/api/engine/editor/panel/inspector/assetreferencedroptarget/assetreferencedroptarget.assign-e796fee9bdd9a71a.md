@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Assigns a persistent asset identity to the represented property.
 
+## Parameters
+
 **Parameter `persistentId`:** The stable persistent identity used for lookup.

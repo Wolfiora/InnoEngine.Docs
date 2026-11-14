@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances fixed-step lifecycle callbacks for every loaded scene.
 
+## Parameters
+
 **Parameter `fixedDeltaTime`:** The fixed simulation interval in seconds.

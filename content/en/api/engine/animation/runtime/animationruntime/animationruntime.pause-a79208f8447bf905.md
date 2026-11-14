@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Pauses one live playback without changing its clip-local time.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle produced by this runtime generation.
 
-**Returns:** `true` when a playing playback became paused; otherwise, `false`.
+## Returns
+
+`true` when a playing playback became paused; otherwise, `false`.

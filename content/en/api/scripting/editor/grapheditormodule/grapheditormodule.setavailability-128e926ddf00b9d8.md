@@ -12,6 +12,8 @@ apiScope: Editor
 
 Marks a temporarily Missing source without discarding its graph or advancing its History stack.
 
+## Parameters
+
 **Parameter `documentId`:** The persistent identity of an open document.
 
 **Parameter `available`:** Whether its source can be resolved in the current generation.

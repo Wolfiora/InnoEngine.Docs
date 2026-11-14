@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Determines whether two artifact keys are equal.
 
+## Parameters
+
 **Parameter `left`:** The first artifact key to compare.
 
 **Parameter `right`:** The second artifact key to compare.
 
-**Returns:** `true` when both keys contain the same normalized fingerprint; otherwise, `false`.
+## Returns
+
+`true` when both keys contain the same normalized fingerprint; otherwise, `false`.

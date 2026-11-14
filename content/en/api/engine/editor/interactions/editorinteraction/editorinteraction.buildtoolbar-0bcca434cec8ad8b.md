@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Builds the complete compact toolbar for this area and target.
 
-**Returns:** The immutable resolved toolbar model.
+## Returns
+
+The immutable resolved toolbar model.

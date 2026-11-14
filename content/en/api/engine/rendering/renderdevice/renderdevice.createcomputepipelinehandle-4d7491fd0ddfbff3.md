@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Encodes a compute pipeline identity into a backend-neutral handle.
 
+## Parameters
+
 **Parameter `value`:** The backend-owned non-zero pipeline identity.
 
 **Parameter `generation`:** The device generation that owns the pipeline.
 
-**Returns:** An opaque compute pipeline handle.
+## Returns
+
+An opaque compute pipeline handle.

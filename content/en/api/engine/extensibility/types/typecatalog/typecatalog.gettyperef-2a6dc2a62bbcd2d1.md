@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Gets the reference for an active CLR type.
 
-**Returns:** Its logical and generation-local identity.
+## Returns
+
+Its logical and generation-local identity.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `type` is `null`.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the type does not belong to the active catalog.
+
+## Parameters
 
 **Parameter `type`:** The type consumed by get type ref; ownership remains with the caller unless explicitly stated otherwise.

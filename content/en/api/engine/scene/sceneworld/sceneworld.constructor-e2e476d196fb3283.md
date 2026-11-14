@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates an empty scene world bound to one session identity allocator.
 
+## Parameters
+
 **Parameter `identities`:** The allocator that owns identities for scenes and their elements.
 
 **Parameter `types`:** The host type catalog used to derive scene component and system generations.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `identities` is null.

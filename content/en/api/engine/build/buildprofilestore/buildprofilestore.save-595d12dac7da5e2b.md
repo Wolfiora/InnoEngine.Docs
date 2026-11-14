@@ -11,7 +11,11 @@ apiSurface: source-clr
 
 Validates and atomically saves the supplied build profile.
 
+## Parameters
+
 **Parameter `profile`:** The complete current profile to persist.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `profile` is `null`.
 

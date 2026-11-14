@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Removes several active modules in one catalog transaction, then requests unload in reverse dependency order.
 
+## Parameters
+
 **Parameter `modules`:** The distinct active module handles to remove.
 
-**Returns:** A monitor that completes after every collectible context becomes unreachable.
+## Returns
+
+A monitor that completes after every collectible context becomes unreachable.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `modules` is `null`.
 

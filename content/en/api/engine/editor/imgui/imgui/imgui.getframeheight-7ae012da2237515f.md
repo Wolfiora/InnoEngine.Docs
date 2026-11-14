@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the standard control height including frame padding.
 
-**Returns:** A copied value from the active presentation context.
+## Returns
+
+A copied value from the active presentation context.

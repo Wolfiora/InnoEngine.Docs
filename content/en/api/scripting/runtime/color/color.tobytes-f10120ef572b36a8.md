@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Converts normalized color channels to bytes by multiplying by 255 and truncating.
 
-**Returns:** Red, green, blue and alpha bytes. Inputs must already be finite and in \[0, 1\]; conversion does not clamp field writes.
+## Returns
+
+Red, green, blue and alpha bytes. Inputs must already be finite and in \[0, 1\]; conversion does not clamp field writes.

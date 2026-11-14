@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances to the next table column.
 
-**Returns:** `true` when the column is visible.
+## Returns
+
+`true` when the column is visible.

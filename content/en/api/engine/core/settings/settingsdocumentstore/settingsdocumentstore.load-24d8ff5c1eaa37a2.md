@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Loads the saved value, or creates a validated default when absent.
 
-**Returns:** A newly owned current-format document.
+## Returns
+
+A newly owned current-format document.

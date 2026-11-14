@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Releases a presentation token without taking ownership of the source texture.
 
+## Parameters
+
 **Parameter `texture`:** Previously allocated presentation token.
 
-**Returns:** `true` when the token was registered and released.
+## Returns
+
+`true` when the token was registered and released.

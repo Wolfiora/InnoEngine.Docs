@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Finds every game object assigned to one layer in scene storage order.
 
+## Parameters
+
 **Parameter `layer`:** The layer slot to find.
 
-**Returns:** A stable snapshot containing every matching game object.
+## Returns
+
+A stable snapshot containing every matching game object.

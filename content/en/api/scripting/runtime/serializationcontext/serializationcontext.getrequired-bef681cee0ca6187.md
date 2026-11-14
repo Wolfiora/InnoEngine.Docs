@@ -12,8 +12,14 @@ apiScope: Runtime
 
 Resolves a value registered under the exact context contract type.
 
+## Type parameters
+
 **Type parameter `TContext`:** The exact context contract type.
 
-**Returns:** The registered context value.
+## Returns
+
+The registered context value.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the requested context was not registered.

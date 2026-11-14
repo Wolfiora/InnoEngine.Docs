@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates a provider borrowing one source-free content store.
 
-**Parameter `content`:** The verified immutable content store, borrowed for this provider's lifetime.
+## Parameters
 
-**Exception `T:System.ArgumentNullException`:** A required content or serialization service is null.
+**Parameter `content`:** The verified immutable content store, borrowed for this provider's lifetime.
 
 **Parameter `serialization`:** The runtime owner serialization registry.
 
 **Parameter `context`:** Complete runtime asset/reference context used to resolve captured texture defaults.
+
+## Exceptions
+
+**Exception `T:System.ArgumentNullException`:** A required content or serialization service is null.

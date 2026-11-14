@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Projects the supplied value onto the requested dimensional space.
 
+## Parameters
+
 **Parameter `vector`:** The concrete value read or transformed by this operation.
 
 **Parameter `onto`:** The onto consumed by project; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

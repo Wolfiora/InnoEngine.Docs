@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Validates one immutable content identity and atomically selects it for subsequent readers.
 
+## Parameters
+
 **Parameter `target`:** The explicit target whose prepared Pack is requested.
 
 **Parameter `fingerprint`:** The exact lowercase SHA-256 content identity recorded by the publisher.
@@ -21,7 +23,11 @@ Validates one immutable content identity and atomically selects it for subsequen
 
 **Parameter `cancellationToken`:** Cancels validation or selection before replacing the current index.
 
-**Returns:** Reading ownership of the complete requested Pack; dispose it after every consumer finishes.
+## Returns
+
+Reading ownership of the complete requested Pack; dispose it after every consumer finishes.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The content identity is invalid or the target path escapes the catalog.
 

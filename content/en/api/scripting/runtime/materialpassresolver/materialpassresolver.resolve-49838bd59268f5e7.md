@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Resolves one capability-compatible pass.
 
+## Parameters
+
 **Parameter `material`:** Material whose shader and technique should be queried.
 
 **Parameter `contractId`:** Rendering-provider contract required by the caller.
@@ -20,4 +22,6 @@ Resolves one capability-compatible pass.
 
 **Parameter `capabilities`:** Current device capability snapshot.
 
-**Returns:** The selected technique and pass, or `null` when no compatible mapping exists.
+## Returns
+
+The selected technique and pass, or `null` when no compatible mapping exists.

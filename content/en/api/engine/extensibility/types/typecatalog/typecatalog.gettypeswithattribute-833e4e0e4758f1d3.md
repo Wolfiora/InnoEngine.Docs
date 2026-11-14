@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets all non-abstract discovered types marked with `TAttribute`.
 
+## Type parameters
+
 **Type parameter `TAttribute`:** The required attribute type.
 
-**Returns:** The matching concrete types in stable catalog order.
+## Returns
+
+The matching concrete types in stable catalog order.

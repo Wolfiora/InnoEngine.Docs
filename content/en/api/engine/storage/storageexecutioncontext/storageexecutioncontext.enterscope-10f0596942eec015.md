@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds a storage service until the returned strict last-in-first-out scope is disposed.
 
+## Parameters
+
 **Parameter `storage`:** The host-owned application storage service.
 
-**Returns:** A strict last-in-first-out execution scope.
+## Returns
+
+A strict last-in-first-out execution scope.

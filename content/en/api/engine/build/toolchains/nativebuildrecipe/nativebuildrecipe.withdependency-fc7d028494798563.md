@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Adds one explicitly selected published dependency while preserving the recipe's frozen execution tools.
 
+## Parameters
+
 **Parameter `input`:** The dependency file whose bytes participate in compilation.
 
 **Parameter `fingerprint`:** The immutable dependency artifact identity selected by the product.
 
-**Returns:** A new declaration with the dependency input and identity; this recipe is unchanged.
+## Returns
+
+A new declaration with the dependency input and identity; this recipe is unchanged.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The dependency identity is empty.
 

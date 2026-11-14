@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Captures the current failure identity of every writable source without exposing catalog internals.
 
-**Returns:** An immutable health snapshot suitable for validating a later candidate generation.
+## Returns
+
+An immutable health snapshot suitable for validating a later candidate generation.

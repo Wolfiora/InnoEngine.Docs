@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an ImGui editor runtime with stable host-owned extension services.
 
+## Parameters
+
 **Parameter `context`:** The shared editor context that owns project settings and frame state.
 
 **Parameter `types`:** The host-owned type catalog that coordinates extension generations.
@@ -18,5 +20,7 @@ Creates an ImGui editor runtime with stable host-owned extension services.
 **Parameter `logs`:** The host-owned logging router used by editor infrastructure.
 
 **Parameter `hostServices`:** Services available to discovered extension constructors.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `context`, `types`, or `hostServices` is `null`.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Decodes a voice handle for backend lookup and generation validation.
 
+## Parameters
+
 **Parameter `handle`:** Backend-neutral voice handle.
 
-**Returns:** Backend identity and owning generation.
+## Returns
+
+Backend identity and owning generation.

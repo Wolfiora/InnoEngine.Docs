@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Opens and requests presentation focus for one panel in the active extension generation.
 
+## Parameters
+
 **Parameter `panelId`:** The stable panel identifier to resolve.
 
-**Returns:** `true` when an available panel was found.
+## Returns
+
+`true` when an available panel was found.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `panelId` is empty.

@@ -11,11 +11,17 @@ apiSurface: source-clr
 
 Resolves an owned path while rejecting existing links in its containment chain.
 
+## Parameters
+
 **Parameter `root`:** The trusted ownership root, which may not exist yet.
 
 **Parameter `path`:** The absolute existing or future path beneath that root.
 
-**Returns:** The normalized contained path after every existing entry from the root has been inspected.
+## Returns
+
+The normalized contained path after every existing entry from the root has been inspected.
+
+## Exceptions
 
 **Exception `T:System.IO.IOException`:** The path escapes the boundary or an existing entry is a link or reparse point.
 

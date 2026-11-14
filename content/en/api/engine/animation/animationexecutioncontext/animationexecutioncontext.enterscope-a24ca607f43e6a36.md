@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Binds one animation service until the returned strict scope is disposed.
 
+## Parameters
+
 **Parameter `animation`:** Session-owned animation service.
 
-**Returns:** A strict last-in-first-out execution scope.
+## Returns
+
+A strict last-in-first-out execution scope.

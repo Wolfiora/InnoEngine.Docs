@@ -12,6 +12,8 @@ apiScope: Authoring
 
 Creates a named condition that does not require an expected value.
 
+## Parameters
+
 **Parameter `memberName`:** Sibling field or property name.
 
 **Parameter `condition`:** Comparison applied to the sibling value.

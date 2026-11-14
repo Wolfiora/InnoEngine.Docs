@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Registers a weak admission guard without stopping its owner or creating a generation transaction.
 
+## Parameters
+
 **Parameter `guard`:** The owner whose current state determines reload admission.
 
-**Returns:** A caller-owned lease retaining the guard until registration is released.
+## Returns
+
+A caller-owned lease retaining the guard until registration is released.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The guard is null.

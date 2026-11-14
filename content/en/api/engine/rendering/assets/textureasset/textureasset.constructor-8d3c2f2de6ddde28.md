@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates an immutable imported texture description.
 
+## Parameters
+
 **Parameter `width`:** The positive source pixel width.
 
 **Parameter `height`:** The positive source pixel height.
@@ -18,6 +20,8 @@ Creates an immutable imported texture description.
 **Parameter `colorSpace`:** The color-space interpretation used when sampling the texture.
 
 **Parameter `sourceFormat`:** The normalized source container name without a leading period.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `width` or `height` is not positive.
 

@@ -11,9 +11,15 @@ apiSurface: source-clr
 
 Creates an isolated Edit, Play, or Player runtime session.
 
+## Parameters
+
 **Parameter `options`:** The validated ownership, storage, and timing options for the session.
 
-**Returns:** A started session owned by this host and the caller.
+## Returns
+
+A started session owned by this host and the caller.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `options` is null.
 

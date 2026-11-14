@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Subtracts or negates the supplied value component by component.
 
+## Parameters
+
 **Parameter `v`:** The concrete value read or transformed by this operation.
 
-**Returns:** The validated vector2 that represents the completed operation.
+## Returns
+
+The validated vector2 that represents the completed operation.

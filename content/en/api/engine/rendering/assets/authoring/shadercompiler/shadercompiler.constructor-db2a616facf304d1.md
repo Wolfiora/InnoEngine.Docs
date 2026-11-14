@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a common IR compiler with one backend-owned target toolchain.
 
+## Parameters
+
 **Parameter `toolchain`:** Backend compiler implementation.

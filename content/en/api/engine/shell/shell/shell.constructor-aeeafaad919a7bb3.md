@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates the backend-neutral host resources shared by Player and Editor products.
 
+## Parameters
+
 **Parameter `adapterCatalog`:** Catalog that resolves explicit backend selections without leaking implementation types.
 
 **Parameter `options`:** Primary-window and rendering policy.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `adapterCatalog` or `options` is null.

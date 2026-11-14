@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a source policy with additional ignored names and affixes.
 
+## Parameters
+
 **Parameter `ignoredFileNames`:** Additional case-insensitive file names excluded from every source mount.
 
 **Parameter `ignoredDirectoryNames`:** Additional case-insensitive directory names excluded with their descendants.

@@ -11,10 +11,18 @@ apiSurface: source-clr
 
 Returns a new context containing the supplied value under its declared context type.
 
+## Type parameters
+
 **Type parameter `TContext`:** The exact context contract type.
+
+## Parameters
 
 **Parameter `value`:** The context value to register.
 
-**Returns:** A new context containing the registered value.
+## Returns
+
+A new context containing the registered value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `value` is null.

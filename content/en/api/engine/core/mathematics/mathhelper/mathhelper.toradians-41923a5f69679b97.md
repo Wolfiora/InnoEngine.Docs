@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Converts degrees to radians.
 
-**Returns:** The angle in radians.
+## Returns
+
+The angle in radians.
 
 ## Remarks
 
 This method uses double precision internally, though it returns single float Factor = pi / 180
+
+## Parameters
 
 **Parameter `degrees`:** The degrees consumed by to radians; ownership remains with the caller unless explicitly stated otherwise.

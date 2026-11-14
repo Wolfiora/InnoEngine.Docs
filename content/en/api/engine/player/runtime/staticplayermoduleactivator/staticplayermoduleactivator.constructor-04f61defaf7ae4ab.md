@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Validates and freezes linked assembly ownership before the Player opens its runtime session.
 
+## Parameters
+
 **Parameter `deployment`:** The build-generated code identity closure.
 
 **Parameter `assemblies`:** Explicit linked assembly instances grouped by logical module; values are copied.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** A linked assembly is absent, duplicated, or owned by an undeclared module.

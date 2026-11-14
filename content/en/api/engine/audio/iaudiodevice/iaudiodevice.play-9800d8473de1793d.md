@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates and starts or schedules one playback voice.
 
+## Parameters
+
 **Parameter `clip`:** Prepared clip owned by this device generation.
 
 **Parameter `bus`:** Destination bus owned by this device generation.
@@ -19,4 +21,6 @@ Creates and starts or schedules one playback voice.
 
 **Parameter `scheduledDspTime`:** Absolute audio-clock start time, or `null` for immediate playback.
 
-**Returns:** A new voice handle, or an invalid handle when options are uninitialized, scheduling is invalid, or backend preparation fails.
+## Returns
+
+A new voice handle, or an invalid handle when options are uninitialized, scheduling is invalid, or backend preparation fails.

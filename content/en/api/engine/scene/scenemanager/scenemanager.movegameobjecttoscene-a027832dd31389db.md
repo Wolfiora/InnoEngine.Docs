@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Moves a live object subtree into another scene owned by the current runtime session.
 
+## Parameters
+
 **Parameter `gameObject`:** The live root object to move.
 
 **Parameter `destination`:** The loaded destination scene.

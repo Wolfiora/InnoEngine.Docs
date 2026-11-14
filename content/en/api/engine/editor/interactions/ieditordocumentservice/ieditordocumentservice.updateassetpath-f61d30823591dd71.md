@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Updates an open document's source location after an identity-preserving asset move, without changing history or focus.
 
+## Parameters
+
 **Parameter `documentId`:** Existing document identity.
 
 **Parameter `assetPath`:** Current authoritative source location for the same persistent asset.
 
-**Returns:** Whether the document exists.
+## Returns
+
+Whether the document exists.

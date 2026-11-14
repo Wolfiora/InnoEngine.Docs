@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to read one provider-defined metadata value.
 
+## Parameters
+
 **Parameter `key`:** Stable metadata key.
 
 **Parameter `value`:** Receives the metadata value when present.
 
-**Returns:** `true` when the key exists.
+## Returns
+
+`true` when the key exists.

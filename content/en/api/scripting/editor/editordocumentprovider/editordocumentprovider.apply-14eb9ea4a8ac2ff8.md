@@ -12,6 +12,10 @@ apiScope: Editor
 
 Applies staged authoring changes and saves their asset source.
 
+## Parameters
+
 **Parameter `context`:** Stable document context owned by the host.
 
-**Returns:** `true` when staged changes are applied.
+## Returns
+
+`true` when staged changes are applied.

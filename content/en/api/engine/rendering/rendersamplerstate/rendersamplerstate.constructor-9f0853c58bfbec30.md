@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a sampler state.
 
+## Parameters
+
 **Parameter `filter`:** Minification, magnification, and mip filtering contract.
 
 **Parameter `addressU`:** Horizontal address mode.

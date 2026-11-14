@@ -14,8 +14,12 @@ aliases: []
 
 Creates explicitly selected deployment metadata from a frozen Native closure.
 
+## Parameters
+
 **Parameter `products`:** Borrowed complete products whose leases remain held through metadata preparation.
 
 **Parameter `files`:** Exact relative deployment paths mapped to verified source files.
 
-**Returns:** Relative metadata paths mapped to immutable bytes; collisions with payloads are rejected.
+## Returns
+
+Relative metadata paths mapped to immutable bytes; collisions with payloads are rejected.

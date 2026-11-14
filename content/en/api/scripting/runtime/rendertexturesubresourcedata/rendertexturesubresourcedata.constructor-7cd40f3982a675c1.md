@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates one immutable texture subresource upload.
 
+## Parameters
+
 **Parameter `mipLevel`:** Zero-based mip level.
 
 **Parameter `arrayLayer`:** Zero-based 2D array layer, 3D Z slice, or flattened cubemap face using cube-layer \* 6 + face.

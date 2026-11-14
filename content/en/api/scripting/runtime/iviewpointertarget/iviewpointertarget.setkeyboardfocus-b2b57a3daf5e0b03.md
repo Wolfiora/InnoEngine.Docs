@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Changes keyboard focus after the rendering model resolves a pointer press.
 
+## Parameters
+
 **Parameter `focused`:** Whether this target owns subsequent keyboard input.

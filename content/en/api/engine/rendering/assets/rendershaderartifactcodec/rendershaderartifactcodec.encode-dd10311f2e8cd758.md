@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Encodes a validated shader artifact into its deterministic runtime deployment representation.
 
+## Parameters
+
 **Parameter `artifact`:** The complete source-free artifact to encode.
 
-**Returns:** The deterministic binary deployment payload.
+## Returns
+
+The deterministic binary deployment payload.

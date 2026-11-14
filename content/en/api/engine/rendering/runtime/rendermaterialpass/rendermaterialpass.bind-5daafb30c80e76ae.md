@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Binds the program and all material-owned values and textures.
 
+## Parameters
+
 **Parameter `commands`:** Current pass command encoder.

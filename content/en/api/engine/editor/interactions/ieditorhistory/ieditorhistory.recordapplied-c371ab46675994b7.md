@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Records a neutral change whose domain mutation is already applied.
 
+## Parameters
+
 **Parameter `name`:** The user-facing operation name.
 
 **Parameter `change`:** The independently owned neutral change.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Gets validated candidates in complete dependency order.
 
+## Parameters
+
 **Parameter `result`:** Complete scan result.
 
-**Returns:** Dependency-ordered candidates suitable for one activation transaction.
+## Returns
+
+Dependency-ordered candidates suitable for one activation transaction.

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a deterministic portable local identity from a display name.
 
+## Parameters
+
 **Parameter `name`:** The user-facing name.
 
-**Returns:** The normalized local identity.
+## Returns
+
+The normalized local identity.

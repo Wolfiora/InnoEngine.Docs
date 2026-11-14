@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Updates a rectangular region of an active persistent texture without recreating it.
 
+## Parameters
+
 **Parameter `texture`:** Texture owned by the active device generation.
 
 **Parameter `region`:** Destination mip, texel rectangle, and layer range.

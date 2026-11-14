@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a frame-scoped content collection context.
 
+## Parameters
+
 **Parameter `content`:** Ordered roots selected by the host.
 
 **Parameter `sessionId`:** Stable identity of the host output session.

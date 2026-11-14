@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Acquires a new consumer's complete reading protection and verifies mutable inputs after acquisition.
 
+## Parameters
+
 **Parameter `context`:** The consumer operation with its own selected SDK and statistics.
 
 **Parameter `plan`:** The consumer's current complete product declaration.
@@ -21,6 +23,10 @@ Acquires a new consumer's complete reading protection and verifies mutable input
 
 **Parameter `cancellationToken`:** Cancels acquisition or hashing; partial reading protection is always released.
 
-**Returns:** An independently owned result, or null when inputs, membership or immutable publications no longer match. Null requires normal preparation; it is never evidence that a native build passed.
+## Returns
+
+An independently owned result, or null when inputs, membership or immutable publications no longer match. Null requires normal preparation; it is never evidence that a native build passed.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** The consumer cancels before completing its reading protection.

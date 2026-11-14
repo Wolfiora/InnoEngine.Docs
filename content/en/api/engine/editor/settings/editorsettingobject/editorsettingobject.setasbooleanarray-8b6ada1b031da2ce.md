@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Sets a Boolean array property by value.
 
+## Parameters
+
 **Parameter `name`:** The stable property name.
 
 **Parameter `value`:** The array copied into the object.

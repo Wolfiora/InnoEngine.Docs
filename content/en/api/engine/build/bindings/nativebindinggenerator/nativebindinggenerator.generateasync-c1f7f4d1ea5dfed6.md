@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Generates or verifies the requested closure under publication ownership.
 
+## Parameters
+
 **Parameter `context`:** The borrowed operation owning frozen inputs, tool selection and statistics. Configuration path variables must resolve from its selected toolchain without changing process state.
 
 **Parameter `request`:** The immutable target, component closure and publication policy.
 
 **Parameter `cancellationToken`:** Cancels preparation; active work must drain before returning.
 
-**Returns:** An owned complete immutable map indexed by Native owner project, never a partial closure. Dispose the result only after all generated-source and native-bridge consumers finish.
+## Returns
+
+An owned complete immutable map indexed by Native owner project, never a partial closure. Dispose the result only after all generated-source and native-bridge consumers finish.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Inputs change during preparation, a required frozen SDK value is absent, or required generator capabilities are unavailable.
 

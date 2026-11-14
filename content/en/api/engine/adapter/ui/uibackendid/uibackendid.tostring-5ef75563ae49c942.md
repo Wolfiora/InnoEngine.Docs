@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Returns the stable identifier.
 
-**Returns:** The identifier, or an empty string when unassigned.
+## Returns
+
+The identifier, or an empty string when unassigned.

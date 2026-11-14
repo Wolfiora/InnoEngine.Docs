@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Creates isolated storage for a logical application namespace.
 
+## Parameters
+
 **Parameter `backend`:** storage implementation selected by the composition root.
 
 **Parameter `scope`:** The application namespace mapped to a location by the selected provider.
 
-**Returns:** A caller-owned backend-neutral application storage service.
+## Returns
+
+A caller-owned backend-neutral application storage service.
+
+## Exceptions
 
 **Exception `T:System.NotSupportedException`:** Thrown when the catalog does not contain the selected backend.

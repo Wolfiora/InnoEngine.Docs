@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Registers a template owner with the shared type-generation catalog.
 
+## Parameters
+
 **Parameter `types`:** Catalog which must outlive this owner.

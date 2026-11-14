@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates a successful history result.
 
-**Returns:** A result representing a completed transition.
+## Returns
+
+A result representing a completed transition.

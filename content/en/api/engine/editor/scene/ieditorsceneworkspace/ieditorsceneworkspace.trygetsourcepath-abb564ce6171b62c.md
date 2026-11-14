@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to get the current source-relative asset path of a saved scene.
 
+## Parameters
+
 **Parameter `scene`:** The scene whose path is requested.
 
 **Parameter `relativePath`:** The assigned source-relative path, including a temporarily unavailable source.
 
-**Returns:** `true` when a source remains assigned; availability is diagnosed separately.
+## Returns
+
+`true` when a source remains assigned; availability is diagnosed separately.

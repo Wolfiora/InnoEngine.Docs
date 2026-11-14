@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats the identifier for diagnostics and persistence.
 
-**Returns:** The stable protocol value.
+## Returns
+
+The stable protocol value.

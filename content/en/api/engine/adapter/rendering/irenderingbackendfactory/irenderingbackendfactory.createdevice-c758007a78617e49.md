@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Creates a rendering device for the supplied primary presentation surface.
 
+## Parameters
+
 **Parameter `backend`:** Stable rendering backend selected by the composition root.
 
 **Parameter `options`:** Backend-neutral rendering options.
 
-**Returns:** A caller-owned backend-neutral rendering device.
+## Returns
+
+A caller-owned backend-neutral rendering device.

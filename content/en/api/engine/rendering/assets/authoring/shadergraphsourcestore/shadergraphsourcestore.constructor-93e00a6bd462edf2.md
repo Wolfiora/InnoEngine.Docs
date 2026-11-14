@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Uses the authoritative asset mounts and native graph serializer.
 
+## Parameters
+
 **Parameter `assets`:** Owner-thread authoring asset pipeline.
 
 **Parameter `serialization`:** Current native converter registry.

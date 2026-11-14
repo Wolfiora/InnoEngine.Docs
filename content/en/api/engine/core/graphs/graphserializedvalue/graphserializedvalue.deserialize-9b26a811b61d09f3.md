@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Deserializes this value through the common Inno serializer.
 
+## Type parameters
+
 **Type parameter `T`:** Requested declared result type.
+
+## Parameters
 
 **Parameter `serialization`:** The serialization registry that owns the converter generation for this operation.
 
-**Returns:** The restored neutral value.
+## Returns
+
+The restored neutral value.

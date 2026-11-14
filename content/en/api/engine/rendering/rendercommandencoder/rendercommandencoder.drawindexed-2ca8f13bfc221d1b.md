@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Submits an indexed draw using the currently bound index buffer.
 
+## Parameters
+
 **Parameter `indexCount`:** Number of indices to submit.
 
 **Parameter `instanceCount`:** Number of instances to submit.

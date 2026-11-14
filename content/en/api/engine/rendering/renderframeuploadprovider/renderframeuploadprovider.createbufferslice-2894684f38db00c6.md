@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a frame-scoped slice over a provider-owned persistent upload buffer.
 
+## Parameters
+
 **Parameter `buffer`:** The persistent upload page backing the slice.
 
 **Parameter `firstElement`:** The zero-based first uploaded element.
@@ -21,4 +23,6 @@ Creates a frame-scoped slice over a provider-owned persistent upload buffer.
 
 **Parameter `frameIndex`:** The render frame during which the slice remains valid.
 
-**Returns:** An opaque frame-scoped buffer slice.
+## Returns
+
+An opaque frame-scoped buffer slice.

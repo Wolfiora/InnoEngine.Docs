@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates a project setting placement.
 
+## Parameters
+
 **Parameter `path`:** The slash-delimited field path beginning with `Project/`.
 
 **Parameter `order`:** The stable order among fields in the same section.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` is outside the Project root or contains an empty segment.

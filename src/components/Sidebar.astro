@@ -1,0 +1,39 @@
+---
+import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
+import SidebarTree from './SidebarTree.astro';
+const { sidebar } = Astro.locals.starlightRoute;
+---
+
+<inno-sidebar><SidebarTree entries={sidebar} /></inno-sidebar>
+<div class="md:sl-hidden"><MobileMenuFooter /></div>
+
+<script>
+  class InnoSidebar extends HTMLElement {
+    connectedCallback() {
+      const key = 'inno-sidebar-disclosures-v1';
+      let state: Record<string, boolean> = {};
+      try {
+        const saved = JSON.parse(sessionStorage.getItem(key) ?? '{}');
+        if (saved && typeof saved === 'object' && !Array.isArray(saved)) state = saved;
+      } catch { /* Storage is optional. */ }
+      for (const details of this.querySelectorAll<HTMLDetailsElement>('details[data-key]')) {
+        const identity = details.dataset.key!;
+        details.open = state[identity] === true;
+        details.addEventListener('toggle', () => {
+          state[identity] = details.open;
+          try { sessionStorage.setItem(key, JSON.stringify(state)); } catch { /* Native disclosure still works. */ }
+        });
+      }
+      const scroller = document.getElementById('starlight__sidebar');
+      if (scroller) {
+        try { scroller.scrollTop = Number(sessionStorage.getItem('inno-sidebar-scroll-v1')) || 0; } catch { /* Storage is optional. */ }
+        addEventListener('pagehide', () => {
+          try { sessionStorage.setItem('inno-sidebar-scroll-v1', String(scroller.scrollTop)); } catch { /* Storage is optional. */ }
+        }, { once: true });
+      }
+    }
+  }
+  if (!customElements.get('inno-sidebar')) customElements.define('inno-sidebar', InnoSidebar);
+</script>
+
+<style>inno-sidebar { display: contents; }</style>

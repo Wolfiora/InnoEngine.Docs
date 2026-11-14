@@ -12,8 +12,12 @@ apiScope: Editor
 
 Creates a path placement. A definition that overrides its drawing method becomes a field; a definition that keeps the default drawing method describes the page at the complete path.
 
+## Parameters
+
 **Parameter `path`:** The slash-delimited page and field path.
 
 **Parameter `order`:** The stable order among fields with the same section and label.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `path` contains an empty segment or is outside the `Editor` root.

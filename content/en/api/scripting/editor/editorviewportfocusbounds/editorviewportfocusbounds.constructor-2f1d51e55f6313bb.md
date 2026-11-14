@@ -12,9 +12,13 @@ apiScope: Editor
 
 Creates a finite focus bound.
 
+## Parameters
+
 **Parameter `center`:** World-space focus center.
 
 **Parameter `radius`:** Non-negative world-space radius.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the center contains a non-finite value.
 

@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a stable target identity.
 
+## Parameters
+
 **Parameter `value`:** A lowercase portable identifier composed of letters, numbers, and hyphens.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `value` is not a portable target identity.

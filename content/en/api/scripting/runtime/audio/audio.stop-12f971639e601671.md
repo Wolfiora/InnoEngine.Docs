@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Stops a live voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice handle to stop.
 
-**Returns:** `true` when a live voice was stopped.
+## Returns
+
+`true` when a live voice was stopped.

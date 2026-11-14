@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Gets the logical viewport identity and copied position for the current window.
 
-**Returns:** The viewport ID and its screen-space origin.
+## Returns
+
+The viewport ID and its screen-space origin.

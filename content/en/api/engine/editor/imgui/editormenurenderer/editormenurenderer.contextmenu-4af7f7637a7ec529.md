@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a resolved right-click menu for the most recently submitted ImGui item.
 
+## Parameters
+
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.
 
 **Parameter `interaction`:** The interaction area and optional operation target.
 
-**Returns:** `true` while the context popup is open and its items were drawn.
+## Returns
+
+`true` while the context popup is open and its items were drawn.

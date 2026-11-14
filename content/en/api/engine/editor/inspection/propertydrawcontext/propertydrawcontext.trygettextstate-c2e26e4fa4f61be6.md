@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Tries to read text-edit state scoped to this renderer, inspected owner, and property path.
 
+## Parameters
+
 **Parameter `key`:** Drawer-local state identity within the current property path.
 
 **Parameter `value`:** Receives the stored text when the state exists.
 
-**Returns:** `true` when text state exists for the exact owner and property path.
+## Returns
+
+`true` when text state exists for the exact owner and property path.

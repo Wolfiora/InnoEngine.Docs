@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks if this rectangle contains a point.
 
+## Parameters
+
 **Parameter `px`:** The px consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `py`:** The py consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
 
-**Returns:** `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

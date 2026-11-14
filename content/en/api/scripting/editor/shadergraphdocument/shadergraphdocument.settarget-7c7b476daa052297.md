@@ -12,6 +12,8 @@ apiScope: Editor
 
 Assigns a domain target by stable identity without retaining its current provider.
 
+## Parameters
+
 **Parameter `graph`:** Document being authored.
 
 **Parameter `targetId`:** Stable target identity; empty selects explicit generic stage authoring.

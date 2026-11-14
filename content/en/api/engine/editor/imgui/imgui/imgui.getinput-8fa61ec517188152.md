@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Copies the input facts for this frame.
 
-**Returns:** A neutral value snapshot; no pointer or callback is retained.
+## Returns
+
+A neutral value snapshot; no pointer or callback is retained.

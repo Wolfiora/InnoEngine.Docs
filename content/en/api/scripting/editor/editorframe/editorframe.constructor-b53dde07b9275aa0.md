@@ -12,6 +12,8 @@ apiScope: Editor
 
 Describes one immutable editor frame.
 
+## Parameters
+
 **Parameter `deltaTime`:** The elapsed frame time in seconds.
 
 **Parameter `totalTime`:** The absolute editor runtime in seconds.

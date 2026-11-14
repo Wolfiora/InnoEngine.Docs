@@ -11,9 +11,13 @@ apiSurface: source-clr
 
 Starts a fresh verification phase whose reads can be shared only within this derived context.
 
+## Parameters
+
 **Parameter `phase`:** The operation phase recorded in statistics, such as binding-locks or binding-generation.
 
-**Returns:** A context with a new input inventory and hash cache; existing scopes are unchanged.
+## Returns
+
+A context with a new input inventory and hash cache; existing scopes are unchanged.
 
 ## Remarks
 

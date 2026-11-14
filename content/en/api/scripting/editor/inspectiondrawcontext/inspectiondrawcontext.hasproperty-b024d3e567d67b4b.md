@@ -12,6 +12,10 @@ apiScope: Editor
 
 Gets whether the target exposes one runtime-visible serialized property.
 
+## Parameters
+
 **Parameter `propertyName`:** Exact serialized property name.
 
-**Returns:** `true` when the property is available.
+## Returns
+
+`true` when the property is available.

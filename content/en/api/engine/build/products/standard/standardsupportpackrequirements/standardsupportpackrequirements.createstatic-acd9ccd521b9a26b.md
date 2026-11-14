@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Declares the complete standard Player inputs for the selected linkage.
 
+## Parameters
+
 **Parameter `plan`:** The platform-configured component graph.
 
 **Parameter `target`:** The exact platform target.
 
-**Returns:** Requirements matching the plan's actual component closure.
-
 **Parameter `linkPlan`:** The explicit platform archive naming plan.
+
+## Returns
+
+Requirements matching the plan's actual component closure.

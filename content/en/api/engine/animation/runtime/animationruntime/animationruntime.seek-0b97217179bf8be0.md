@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Seeks one live playback to a clamped clip-local time.
 
+## Parameters
+
 **Parameter `handle`:** Playback handle produced by this runtime generation.
 
 **Parameter `time`:** Finite clip-local time in seconds.
 
-**Returns:** `true` when the handle was live and its time was updated; otherwise, `false`.
+## Returns
+
+`true` when the handle was live and its time was updated; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** Thrown when `time` is not finite.

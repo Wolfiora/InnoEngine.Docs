@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Draws a collapsible section header.
 
+## Parameters
+
 **Parameter `label`:** The visible label and identity.
 
 **Parameter `flags`:** Tree-node behavior.
 
-**Returns:** `true` when the section is open.
+## Returns
+
+`true` when the section is open.

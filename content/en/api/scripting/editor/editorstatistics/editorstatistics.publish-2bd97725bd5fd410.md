@@ -12,6 +12,10 @@ apiScope: Editor
 
 Publishes or replaces several statistics for the current editor frame.
 
+## Parameters
+
 **Parameter `statistics`:** Contributions to publish in enumeration order.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `statistics` or one of its values is null.

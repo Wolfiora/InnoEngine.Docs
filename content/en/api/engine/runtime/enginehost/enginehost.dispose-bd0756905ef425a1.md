@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Disposes every owned session before releasing application metadata services.
 
+## Exceptions
+
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Owned work is still draining, or a generation deadline failed. Dependencies remain owned.

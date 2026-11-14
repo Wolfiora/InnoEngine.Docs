@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies and validates a module contribution without retaining mutable manifest objects.
 
+## Parameters
+
 **Parameter `name`:** The stable module identity.
 
 **Parameter `domain`:** The ownership domain of this game's code.
@@ -18,5 +20,7 @@ Copies and validates a module contribution without retaining mutable manifest ob
 **Parameter `assemblies`:** The exact ordered code identities to activate.
 
 **Parameter `dependencies`:** The logical modules that precede this contribution.
+
+## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** The module identity, domain, code or dependencies are invalid.

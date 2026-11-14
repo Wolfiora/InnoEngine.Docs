@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Creates current-generation setting contributors from neutral manifest data.
 
-**Returns:** Dependency-ordered contributors ready for `T:Inno.Core.Settings.ProjectSettingsStore`.
+## Returns
+
+Dependency-ordered contributors ready for `T:Inno.Core.Settings.ProjectSettingsStore`.

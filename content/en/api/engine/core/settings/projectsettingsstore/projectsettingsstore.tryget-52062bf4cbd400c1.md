@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Tries to get an isolated effective setting snapshot from the active extension generation.
 
+## Type parameters
+
 **Type parameter `TSetting`:** Expected setting contract.
+
+## Parameters
 
 **Parameter `id`:** Stable setting protocol identity.
 
 **Parameter `setting`:** Receives an independently owned effective snapshot when available.
 
-**Returns:** `true` when a compatible setting exists.
+## Returns
+
+`true` when a compatible setting exists.

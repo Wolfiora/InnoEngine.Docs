@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Resumes a paused voice.
 
+## Parameters
+
 **Parameter `voice`:** Voice owned by the current device generation.
 
-**Returns:** `true` when the voice resumed.
+## Returns
+
+`true` when the voice resumed.

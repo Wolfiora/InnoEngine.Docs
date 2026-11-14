@@ -14,6 +14,8 @@ aliases: []
 
 Declares a typed shader port independently of editor presentation and backend source syntax.
 
+## Parameters
+
 **Parameter `id`:** Stable node-local port identity.
 
 **Parameter `type`:** Complete value type, including all aggregate fields.

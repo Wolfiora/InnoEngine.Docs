@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a new hub attached to this dispatcher.
 
+## Parameters
+
 **Parameter `order`:** Hub dispatch order. Higher values run earlier.
 
-**Returns:** The created valid hub.
+## Returns
+
+The created valid hub.

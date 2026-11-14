@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Creates a category-bound logger for one engine service or extension type.
 
+## Type parameters
+
 **Type parameter `TOwner`:** The type whose assembly ownership and category identify emitted entries.
 
-**Returns:** A stateless logger bound to this router and the supplied owner type.
+## Returns
+
+A stateless logger bound to this router and the supplied owner type.
+
+## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this router has been disposed.

@@ -12,4 +12,6 @@ apiScope: Editor
 
 Borrows drawing commands for the current window and frame without exposing native memory.
 
-**Returns:** A value that rejects use after a window, frame, context or session change.
+## Returns
+
+A value that rejects use after a window, frame, context or session change.

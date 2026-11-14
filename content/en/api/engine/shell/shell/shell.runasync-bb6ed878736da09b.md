@@ -11,13 +11,19 @@ apiSurface: source-clr
 
 Runs one shell lifecycle using an explicitly selected owner-thread frame driver.
 
+## Parameters
+
 **Parameter `driver`:** The host's scheduling policy; it must execute frames on their owning thread.
 
 **Parameter `smokeFrameLimit`:** An optional positive frame count for bounded verification.
 
 **Parameter `cancellationToken`:** Requests termination before the next frame.
 
-**Returns:** Zero after orderly shutdown; lifecycle and scheduling failures propagate.
+## Returns
+
+Zero after orderly shutdown; lifecycle and scheduling failures propagate.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The frame driver is null.
 

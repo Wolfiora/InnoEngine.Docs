@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Queries whether compilation and activation can proceed without interrupting a running session.
 
+## Parameters
+
 **Parameter `reason`:** The first blocking reason, or null when activation is allowed.
 
-**Returns:** True when all live guards permit generation work.
+## Returns
+
+True when all live guards permit generation work.

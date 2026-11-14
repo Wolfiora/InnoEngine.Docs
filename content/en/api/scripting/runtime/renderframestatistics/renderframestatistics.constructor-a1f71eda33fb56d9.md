@@ -12,6 +12,8 @@ apiScope: Runtime
 
 Creates an immutable frame statistics snapshot.
 
+## Parameters
+
 **Parameter `frameIndex`:** Monotonic render frame index.
 
 **Parameter `viewCount`:** Executed logical view count.

@@ -12,4 +12,6 @@ apiScope: Editor
 
 Begins ordered draw channels within this window.
 
+## Parameters
+
 **Parameter `count`:** The positive number of layers.

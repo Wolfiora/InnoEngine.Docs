@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Serializes a neutral graph property through the common Inno serializer.
 
+## Type parameters
+
 **Type parameter `T`:** Declared serializable value type.
+
+## Parameters
 
 **Parameter `value`:** Value to serialize.
 
 **Parameter `serialization`:** The serialization registry that owns the converter generation for this operation.
 
-**Returns:** A detached graph value containing native serialization bytes.
+## Returns
+
+A detached graph value containing native serialization bytes.

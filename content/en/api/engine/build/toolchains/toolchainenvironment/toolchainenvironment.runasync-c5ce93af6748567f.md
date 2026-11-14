@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Executes a declared absolute tool with an explicitly resolved SDK environment and records the operation cost.
 
+## Parameters
+
 **Parameter `context`:** The operation owning execution statistics and frozen recipe inputs.
 
 **Parameter `fileName`:** The absolute executable declared by the recipe; no host-native SDK is inferred.
@@ -23,7 +25,11 @@ Executes a declared absolute tool with an explicitly resolved SDK environment an
 
 **Parameter `environment`:** The frozen environment supplied by the selected SDK resolver.
 
-**Returns:** Completion after successful exit and output delivery.
+## Returns
+
+Completion after successful exit and output delivery.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The executable is not an absolute declared tool path.
 

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Finds the frontmost node beneath a pointer using the same geometry as drawing.
 
+## Parameters
+
 **Parameter `layout`:** The current document presentation snapshot.
 
 **Parameter `point`:** The screen-space pointer.
 
-**Returns:** The frontmost neutral node, or null over empty canvas.
+## Returns
+
+The frontmost neutral node, or null over empty canvas.

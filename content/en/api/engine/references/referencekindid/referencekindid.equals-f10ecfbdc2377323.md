@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Compares two identifiers using ordinal protocol identity.
 
+## Parameters
+
 **Parameter `other`:** The identifier to compare with this value.
 
-**Returns:** `true` when the identifiers are equal; otherwise, `false`.
+## Returns
+
+`true` when the identifiers are equal; otherwise, `false`.

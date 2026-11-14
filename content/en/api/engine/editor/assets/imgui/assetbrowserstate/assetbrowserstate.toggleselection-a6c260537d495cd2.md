@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Adds or removes an asset from the current selection without retaining runtime asset objects.
 
+## Parameters
+
 **Parameter `context`:** The current editor callback context.
 
 **Parameter `entry`:** The indexed source identity to toggle.

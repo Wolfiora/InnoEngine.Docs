@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Presents active content using strongly typed presentation data.
 
+## Parameters
+
 **Parameter `context`:** The typed presentation request.
 
-**Returns:** `true` when content was presented.
+## Returns
+
+`true` when content was presented.

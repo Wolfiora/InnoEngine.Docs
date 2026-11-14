@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Clears one targeted diagnostic group owned by the calling type.
 
+## Parameters
+
 **Parameter `targetId`:** The stable identity of the asset, scene element, or other dynamic target.
 
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type and target.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `targetId` is empty or `group` is empty.

@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Creates a path in the writable project source.
 
-**Returns:** A project-owned asset path.
+## Returns
+
+A project-owned asset path.
+
+## Parameters
 
 **Parameter `localPath`:** The local path text validated by the project operation.

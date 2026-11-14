@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Advances one deterministic simulation step.
 
+## Parameters
+
 **Parameter `frame`:** The immutable fixed-step state.

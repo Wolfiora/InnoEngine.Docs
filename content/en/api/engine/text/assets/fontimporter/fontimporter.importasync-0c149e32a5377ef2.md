@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Validates the source container and emits runtime metadata plus encoded font data.
 
+## Parameters
+
 **Parameter `context`:** The source import context.
 
 **Parameter `output`:** The candidate artifact writer.
 
 **Parameter `cancellationToken`:** Cancellation observed by artifact writes.
 
-**Returns:** An operation that completes after both artifacts are staged.
+## Returns
+
+An operation that completes after both artifacts are staged.

@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates the observable result of a completed drop operation.
 
+## Parameters
+
 **Parameter `accepted`:** Whether the handler accepted and completed the drop.
 
 **Parameter `selectionTarget`:** An optional object that the originating view should select.

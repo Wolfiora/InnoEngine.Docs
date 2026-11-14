@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Composes one platform output from a verified Support Pack and source-free content directory.
 
+## Parameters
+
 **Parameter `context`:** The isolated package context owned by the current build.
 
 **Parameter `cancellationToken`:** The token that cancels work before the build is committed.
 
-**Returns:** The single platform output path created beneath `P:Inno.Build.GameBuildPackageContext.outputDirectory`.
+## Returns
+
+The single platform output path created beneath `P:Inno.Build.GameBuildPackageContext.outputDirectory`.
+
+## Exceptions
 
 **Exception `T:System.OperationCanceledException`:** Thrown when packaging is canceled.

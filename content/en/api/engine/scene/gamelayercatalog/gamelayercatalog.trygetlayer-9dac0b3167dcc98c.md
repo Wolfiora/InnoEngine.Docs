@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Tries to resolve a qualified identity to its compact runtime slot.
 
+## Parameters
+
 **Parameter `projectId`:** The current project namespace.
 
 **Parameter `id`:** The complete layer identity.
 
 **Parameter `layer`:** The resolved runtime slot.
 
-**Returns:** `true` when the identity belongs to this project and is defined.
+## Returns
+
+`true` when the identity belongs to this project and is defined.

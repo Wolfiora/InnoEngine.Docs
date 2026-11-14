@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a reference-resolution result.
 
+## Parameters
+
 **Parameter `descriptor`:** The persistent descriptor that was resolved.
 
 **Parameter `state`:** The resulting state.
@@ -18,6 +20,8 @@ Creates a reference-resolution result.
 **Parameter `runtimeIdentity`:** The domain-qualified live target identity when resolved.
 
 **Parameter `diagnostic`:** Optional caller-facing detail for non-resolved states.
+
+## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `descriptor` is null.
 

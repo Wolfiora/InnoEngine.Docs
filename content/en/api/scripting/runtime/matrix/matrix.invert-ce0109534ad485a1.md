@@ -12,6 +12,10 @@ apiScope: Runtime
 
 Returns the inverse, or identity when the absolute determinant is below the default tolerance.
 
+## Parameters
+
 **Parameter `m`:** Source matrix.
 
-**Returns:** Inverse matrix, or `P:InnoEngine.Mathematics.Matrix.identity` when the absolute determinant is less than `F:InnoEngine.Mathematics.MathHelper.C_TOLERANCE`.
+## Returns
+
+Inverse matrix, or `P:InnoEngine.Mathematics.Matrix.identity` when the absolute determinant is less than `F:InnoEngine.Mathematics.MathHelper.C_TOLERANCE`.

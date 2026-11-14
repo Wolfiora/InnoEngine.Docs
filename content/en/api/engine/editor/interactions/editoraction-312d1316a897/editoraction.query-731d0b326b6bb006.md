@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Evaluates the action for a strongly typed target.
 
+## Parameters
+
 **Parameter `context`:** The contextual request containing the typed target.
 
-**Returns:** The current presentation and availability state.
+## Returns
+
+The current presentation and availability state.

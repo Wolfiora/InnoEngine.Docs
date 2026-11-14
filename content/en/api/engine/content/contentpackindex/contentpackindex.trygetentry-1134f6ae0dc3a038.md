@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Finds the metadata for an exact assigned key.
 
+## Parameters
+
 **Parameter `key`:** The case-sensitive logical identity.
 
 **Parameter `entry`:** The immutable metadata when present; otherwise null.
 
-**Returns:** True only when the exact key is present.
+## Returns
+
+True only when the exact key is present.

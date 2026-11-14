@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Registers an exact cache index and the publication directories required to keep it useful.
 
+## Parameters
+
 **Parameter `path`:** The producer-owned index file within this publisher root.
 
 **Parameter `dependencies`:** Exact publication roots; missing dependencies make the index retireable.

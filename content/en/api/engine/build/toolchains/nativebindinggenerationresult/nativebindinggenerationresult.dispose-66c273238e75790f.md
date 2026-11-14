@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Releases all protection in reverse acquisition order; repeated disposal has no effect.
 
+## Exceptions
+
 **Exception `T:System.AggregateException`:** One or more owners failed to release after every owner was attempted.

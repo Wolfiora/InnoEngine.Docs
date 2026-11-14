@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Advances cooperative unload verification for retired script generations.
 
+## Parameters
+
 **Parameter `failure`:** Receives the retention failure after all verification attempts, otherwise `null`.
 
-**Returns:** `true` when no additional verification frame is required.
+## Returns
+
+`true` when no additional verification frame is required.

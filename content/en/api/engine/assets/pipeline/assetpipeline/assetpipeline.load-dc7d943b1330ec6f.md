@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Loads a canonical asset by isolated source path.
 
+## Type parameters
+
 **Type parameter `TAsset`:** The required asset type.
+
+## Parameters
 
 **Parameter `path`:** The isolated source path.
 
-**Returns:** The canonical asset instance.
+## Returns
+
+The canonical asset instance.

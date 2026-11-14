@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Checks that a creation template and writable destination are available.
 
+## Parameters
+
 **Parameter `directory`:** The source-relative writable destination directory.
 
 **Parameter `templateId`:** The stable identity of a discovered creation template.
 
-**Returns:** True when the request is accepted; otherwise false.
+## Returns
+
+True when the request is accepted; otherwise false.

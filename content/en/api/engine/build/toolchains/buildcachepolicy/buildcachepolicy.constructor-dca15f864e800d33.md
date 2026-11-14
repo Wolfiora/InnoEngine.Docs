@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates an immutable cache budget and automatic retirement time limit.
 
+## Parameters
+
 **Parameter `maximumBytes`:** The managed cache budget; defaults to 64 GiB.
 
 **Parameter `minimumFreeBytes`:** The free-space threshold on the checkout volume; defaults to 20 GiB.
 
 **Parameter `timeBudget`:** The retirement duration, or null for the five-second default.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** A budget is negative or the time limit is not positive.

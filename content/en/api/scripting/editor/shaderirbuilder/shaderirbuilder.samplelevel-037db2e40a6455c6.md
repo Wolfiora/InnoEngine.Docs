@@ -12,12 +12,18 @@ apiScope: Editor
 
 Samples a texture at an explicit floating-point mip level without implicit derivatives.
 
+## Parameters
+
 **Parameter `texture`:** A sampled 2D, 2D-array, 3D or cube texture.
 
 **Parameter `coordinate`:** float2 for 2D, or float3 for an array, volume or cube.
 
 **Parameter `level`:** Scalar floating-point mip level.
 
-**Returns:** The sampled float4 value.
+## Returns
+
+The sampled float4 value.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Operands have incompatible types or owners.

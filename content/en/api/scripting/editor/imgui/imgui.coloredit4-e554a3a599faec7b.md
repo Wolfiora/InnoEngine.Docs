@@ -12,10 +12,14 @@ apiScope: Editor
 
 Draws and edits a four-component color.
 
+## Parameters
+
 **Parameter `label`:** The control label.
 
 **Parameter `value`:** The RGBA value to display and update.
 
 **Parameter `flags`:** Color editing behavior.
 
-**Returns:** `true` when the value changes.
+## Returns
+
+`true` when the value changes.

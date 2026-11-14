@@ -12,10 +12,14 @@ apiScope: Runtime
 
 Creates a left-handed view matrix that looks from `eye` to `target`.
 
+## Parameters
+
 **Parameter `eye`:** Camera position in world space.
 
 **Parameter `target`:** Target position in world space.
 
 **Parameter `up`:** Up direction in world space.
 
-**Returns:** A view matrix.
+## Returns
+
+A view matrix.

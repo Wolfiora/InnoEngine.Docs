@@ -14,6 +14,8 @@ aliases: []
 
 Contains a preview-only immutable candidate, never registered as a canonical asset artifact.
 
+## Parameters
+
 **Parameter `state`:** Latest draft compilation state.
 
 **Parameter `usingLastGood`:** Whether the preview artifact belongs to an earlier successful draft.

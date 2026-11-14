@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Copies complete declaration metadata before it participates in a serialization generation.
 
+## Parameters
+
 **Parameter `type`:** The exact closed declaration.
 
 **Parameter `members`:** Ordered persistent and runtime members, without duplicate keys.
@@ -24,5 +26,7 @@ Copies complete declaration metadata before it participates in a serialization g
 **Parameter `requiresConverter`:** Whether default object serialization must be rejected.
 
 **Parameter `inherited`:** Optional metadata contributed by the owner of a base declaration.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** A member is null or a persistent key is duplicated.

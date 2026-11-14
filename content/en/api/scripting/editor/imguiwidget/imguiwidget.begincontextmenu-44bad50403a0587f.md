@@ -12,6 +12,10 @@ apiScope: Editor
 
 Begins a parent-viewport styled right-click context menu for the most recently submitted item.
 
+## Parameters
+
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.
 
-**Returns:** `true` when context-menu content should be drawn; otherwise, `false`.
+## Returns
+
+`true` when context-menu content should be drawn; otherwise, `false`.

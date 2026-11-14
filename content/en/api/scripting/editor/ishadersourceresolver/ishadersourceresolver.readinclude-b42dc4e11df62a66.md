@@ -12,8 +12,12 @@ apiScope: Editor
 
 Resolves and reads an include without bypassing asset mount permissions.
 
+## Parameters
+
 **Parameter `includingFile`:** Resolved path of the including source.
 
 **Parameter `include`:** Source-local include spelling.
 
-**Returns:** A resolved immutable source snapshot.
+## Returns
+
+A resolved immutable source snapshot.

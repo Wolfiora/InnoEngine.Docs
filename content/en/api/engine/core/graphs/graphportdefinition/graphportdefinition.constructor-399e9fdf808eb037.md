@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a graph port definition.
 
+## Parameters
+
 **Parameter `id`:** Stable node-local port identifier.
 
 **Parameter `displayName`:** Artist-facing display name.

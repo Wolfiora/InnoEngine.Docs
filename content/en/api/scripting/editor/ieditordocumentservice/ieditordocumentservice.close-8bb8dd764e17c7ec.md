@@ -12,8 +12,12 @@ apiScope: Editor
 
 Closes one document using an explicit dirty-document decision.
 
+## Parameters
+
 **Parameter `documentId`:** Stable tab identity.
 
 **Parameter `mode`:** Explicit close behavior.
 
-**Returns:** `true` when the document closed.
+## Returns
+
+`true` when the document closed.

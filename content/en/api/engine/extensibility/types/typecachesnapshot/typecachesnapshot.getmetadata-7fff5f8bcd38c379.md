@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Reads the immutable discovery facts for a declaration in this exact generation.
 
+## Parameters
+
 **Parameter `type`:** The logical declaration to resolve against this snapshot.
 
-**Returns:** Complete metadata; stale or unregistered declarations fail during resolution.
+## Returns
+
+Complete metadata; stale or unregistered declarations fail during resolution.

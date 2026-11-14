@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Freezes the identifier and UTC start timestamp observed from the same process.
 
+## Parameters
+
 **Parameter `processId`:** The positive operating-system identifier.
 
 **Parameter `startedUtcTicks`:** The positive UTC start timestamp in DateTime ticks.
+
+## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The identifier or timestamp is outside its valid range.

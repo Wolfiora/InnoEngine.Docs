@@ -12,4 +12,6 @@ apiScope: Editor
 
 Observes the current property after drawing, including release and cancellation without a new value sample.
 
+## Parameters
+
 **Parameter `path`:** The owner-qualified path passed to the property edit boundary.

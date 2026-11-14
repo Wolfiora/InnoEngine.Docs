@@ -12,4 +12,6 @@ apiScope: Runtime
 
 Formats this value as its canonical representation.
 
-**Returns:** The canonical representation used by caches and deployed artifact paths.
+## Returns
+
+The canonical representation used by caches and deployed artifact paths.

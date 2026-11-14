@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a compiled shader artifact.
 
+## Parameters
+
 **Parameter `shaderName`:** Artist-facing shader name.
 
 **Parameter `targetKey`:** Stable target cache key.

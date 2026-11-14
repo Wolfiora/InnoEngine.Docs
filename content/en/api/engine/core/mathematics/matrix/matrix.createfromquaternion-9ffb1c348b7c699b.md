@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Creates a rotation matrix from a quaternion.
 
+## Parameters
+
 **Parameter `q`:** Source quaternion.
 
-**Returns:** A rotation matrix.
+## Returns
+
+A rotation matrix.

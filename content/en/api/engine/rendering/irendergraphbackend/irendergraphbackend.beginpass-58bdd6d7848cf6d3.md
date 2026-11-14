@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Begins one scheduled pass and acquires its command encoder.
 
+## Parameters
+
 **Parameter `pass`:** Scheduled pass metadata.
 
-**Returns:** A command encoder scoped to this pass.
+## Returns
+
+A command encoder scoped to this pass.

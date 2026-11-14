@@ -11,8 +11,14 @@ apiSurface: source-clr
 
 Gets whether an action owns an active multi-frame operation for this target.
 
+## Parameters
+
 **Parameter `action`:** The stable action name.
 
-**Returns:** `true` when the action is active for this exact target; otherwise, `false`.
+## Returns
+
+`true` when the action is active for this exact target; otherwise, `false`.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when `action` is empty.

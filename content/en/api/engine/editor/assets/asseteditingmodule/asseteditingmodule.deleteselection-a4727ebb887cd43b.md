@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Deletes minimal selected source roots in one History transaction, restoring earlier deletions if a later one fails.
 
+## Parameters
+
 **Parameter `editor`:** The immediate Editor context.
 
 **Parameter `targets`:** Fresh selected source entries; nested entries are covered by their selected directory.
+
+## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Validation or a mutation fails; rollback failures remain explicit.

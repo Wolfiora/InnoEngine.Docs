@@ -11,12 +11,16 @@ apiSurface: source-clr
 
 Creates a provisioner for a complete engine checkout.
 
-**Parameter `engineRoot`:** The directory containing InnoEngine.sln and the Player project.
+## Parameters
 
-**Exception `T:System.IO.DirectoryNotFoundException`:** The directory is not an engine checkout.
+**Parameter `engineRoot`:** The directory containing InnoEngine.sln and the Player project.
 
 **Parameter `publisher`:** The publisher containing the host-selected platform sources.
 
 **Parameter `dotnetHost`:** The SDK executable explicitly selected by the host.
 
 **Parameter `reportDiagnostic`:** The borrowed host reporter for successful-publication indexing and cleanup diagnostics.
+
+## Exceptions
+
+**Exception `T:System.IO.DirectoryNotFoundException`:** The directory is not an engine checkout.

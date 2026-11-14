@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Builds a complete candidate registry without changing the active snapshot.
 
+## Parameters
+
 **Parameter `types`:** The candidate type-cache snapshot.
 
-**Returns:** The complete immutable registry snapshot.
+## Returns
+
+The complete immutable registry snapshot.

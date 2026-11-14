@@ -11,4 +11,6 @@ apiSurface: source-clr
 
 Finalizes frame output even when rendering fails.
 
+## Parameters
+
 **Parameter `frame`:** The immutable variable-frame state.

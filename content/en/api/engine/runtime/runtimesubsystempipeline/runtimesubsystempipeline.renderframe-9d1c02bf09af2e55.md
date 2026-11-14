@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Opens output resources, accepts product requests and submits each owner's output once.
 
+## Parameters
+
 **Parameter `frame`:** The frame timing snapshot.
 
 **Parameter `submit`:** Optional control-thread presentation code that submits requests while output is open.

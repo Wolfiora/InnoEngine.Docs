@@ -11,10 +11,16 @@ apiSurface: source-clr
 
 Gets a previously defined key by name.
 
+## Type parameters
+
 **Type parameter `TKey`:** Key type.
+
+## Parameters
 
 **Parameter `name`:** Key name.
 
 **Parameter `key`:** The resolved key handle.
 
-**Returns:** True if found and type matches.
+## Returns
+
+True if found and type matches.

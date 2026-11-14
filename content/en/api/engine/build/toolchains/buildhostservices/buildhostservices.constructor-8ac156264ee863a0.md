@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Captures execution policy and its implementation inputs.
 
+## Parameters
+
 **Parameter `workspaces`:** The host's scoped execution path provider.
 
 **Parameter `environmentComparer`:** The host's environment variable name semantics.

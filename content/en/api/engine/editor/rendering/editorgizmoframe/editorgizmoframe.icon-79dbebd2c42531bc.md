@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Appends a selectable scene icon to the current gizmo frame.
 
+## Parameters
+
 **Parameter `owner`:** The object that owns the resulting lifetime and state.
 
 **Parameter `position`:** The position consumed by icon; ownership remains with the caller unless explicitly stated otherwise.

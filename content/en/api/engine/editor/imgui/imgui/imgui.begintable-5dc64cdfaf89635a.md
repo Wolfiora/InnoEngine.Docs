@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Begins a table.
 
+## Parameters
+
 **Parameter `id`:** The table identity.
 
 **Parameter `columns`:** The positive column count.
@@ -19,6 +21,8 @@ Begins a table.
 
 **Parameter `size`:** The requested outer size.
 
-**Returns:** `true` when table contents should be submitted.
-
 **Parameter `innerWidth`:** Optional inner scrolling width; zero uses the outer size.
+
+## Returns
+
+`true` when table contents should be submitted.

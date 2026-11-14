@@ -11,6 +11,8 @@ apiSurface: source-clr
 
 Creates a font dependency with its document-private family.
 
+## Parameters
+
 **Parameter `assetId`:** Persistent font asset identity.
 
 **Parameter `family`:** Private family referenced by canonical document text.

@@ -11,8 +11,12 @@ apiSurface: source-clr
 
 Declares one file or directory consumed by a native recipe.
 
+## Parameters
+
 **Parameter `logicalPath`:** A nonempty, slash-separated identity relative to a declared logical root.
 
 **Parameter `physicalPath`:** The absolute file or directory used only for reading and execution.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** An identity is empty, contains a control character or backslash, or the physical path is relative.

@@ -11,10 +11,14 @@ apiSurface: source-clr
 
 Creates paired runtime and authoring registrations before any native device is initialized.
 
+## Parameters
+
 **Parameter `options`:** The host's explicit runtime service configuration.
 
 **Parameter `authoringProviders`:** Complete matching authoring registrations with explicit product compilation targets.
 
 **Parameter `presentationProviders`:** Explicit complete presentation registrations. An empty sequence registers none.
+
+## Exceptions
 
 **Exception `T:System.ArgumentException`:** The runtime and authoring backend registrations do not match.

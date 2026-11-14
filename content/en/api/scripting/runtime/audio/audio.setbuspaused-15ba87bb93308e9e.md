@@ -12,8 +12,12 @@ apiScope: Runtime
 
 Updates pause state for a semantic mixer bus.
 
+## Parameters
+
 **Parameter `bus`:** Stable bus identifier.
 
 **Parameter `paused`:** Whether routed voices should pause.
 
-**Returns:** `true` when the bus exists and was updated.
+## Returns
+
+`true` when the bus exists and was updated.

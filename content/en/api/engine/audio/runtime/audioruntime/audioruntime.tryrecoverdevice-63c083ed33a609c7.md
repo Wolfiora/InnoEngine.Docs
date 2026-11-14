@@ -11,6 +11,10 @@ apiSurface: source-clr
 
 Attempts to replace a muted or lost output generation while preserving the active mixer graph.
 
+## Parameters
+
 **Parameter `deviceFactory`:** Host-owned factory that creates a fresh initialized device candidate.
 
-**Returns:** `true` when output is already ready or a ready candidate was installed; otherwise `false` and the current muted or lost generation remains active.
+## Returns
+
+`true` when output is already ready or a ready candidate was installed; otherwise `false` and the current muted or lost generation remains active.
