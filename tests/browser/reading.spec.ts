@@ -104,8 +104,9 @@ test('API directories expose project trees and only populated script letters', a
 test('Scope labels and independent member editing reflect canonical ownership', async ({ page }) => {
   await page.goto('api/scripting/runtime/scenemanager/');
   await expect(page.locator('.api-surface')).toHaveText('Runtime scripting');
-  await expect(page.getByRole('main')).toContainText('editor-script/Debug');
-  const links = page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true });
+  await expect(page.getByRole('main')).not.toContainText('editor-script/Debug');
+  await expect(page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true })).toHaveCount(0);
+  const links = page.getByRole('main').getByRole('link', { name: 'Edit this page on GitHub', exact: true });
   await expect(links).toHaveCount(1);
   const addresses = await links.evaluateAll(nodes => nodes.map(node => node.getAttribute('href')));
   expect(new Set(addresses).size).toBe(addresses.length);
@@ -115,27 +116,41 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   const name = await member.textContent();
   await member.click();
   await expect(page.locator('h1')).toHaveText(name!.split('(')[0]);
-  await expect(page.getByRole('main').getByRole('link', { name: 'Edit this explanation', exact: true })).toHaveCount(1);
+  await expect(page.getByRole('main').getByRole('link', { name: 'Edit this page on GitHub', exact: true })).toHaveCount(1);
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
-  await expect(page.getByRole('main')).toContainText('XML-synced');
+  await expect(page.getByRole('main')).not.toContainText('XML-synced');
+  const tip = page.locator('aside.documentation-tip');
+  await expect(tip).toContainText('synchronized from the source XML');
+  expect(await tip.evaluate(element => !!(element.compareDocumentPosition(document.getElementById('required-contracts')!) & Node.DOCUMENT_POSITION_FOLLOWING))).toBe(true);
+  const actions = page.locator('.source-actions');
+  await expect(actions.locator('a').nth(0)).toHaveText('Source declaration');
+  await expect(actions.locator('a').nth(1)).toHaveText('Edit this page on GitHub');
+  expect(await actions.evaluate(element => {
+    const [source, edit] = element.querySelectorAll('a');
+    return edit.getBoundingClientRect().top - source.getBoundingClientRect().bottom;
+  })).toBeLessThanOrEqual(8);
 });
 
-test('API sidebar titles navigate and their arrows expand real category children', async ({ page }) => {
+test('native sidebar expands complete inactive branches and remembers navigation state', async ({ page }) => {
   await page.goto('api/');
   const mobile = page.getByRole('button', { name: /Menu/ });
   if (await mobile.isVisible()) await mobile.click();
-  const engine = page.locator('summary > a[href="/InnoEngine.Docs/api/engine/"]');
-  await expect(engine).toBeVisible();
-  const group = engine.locator('..').locator('..');
-  await group.locator(':scope > summary .caret').click();
+  const engine = page.locator('a[href="/InnoEngine.Docs/api/engine/"][data-group-home]').first();
+  const group = engine.locator('..').locator('..').locator('..');
+  await group.locator(':scope > summary').click();
   await expect(group).toHaveAttribute('open', '');
-  await expect(group.getByRole('link', { name: 'Core', exact: true })).toBeVisible();
+  await expect(engine).toBeVisible();
+  await expect(group.locator('a[href="/InnoEngine.Docs/api/engine/core/collections/"]')).toHaveCount(1);
   await engine.focus();
   await page.keyboard.press('Enter');
   await expect(page).toHaveURL(/\/api\/engine\/$/);
   await expect(page.getByRole('main').getByRole('table')).toBeVisible();
   if (await mobile.isVisible()) await mobile.click();
-  await page.locator('summary > a[href="/InnoEngine.Docs/api/scripting/"]').click();
+  await expect(page.locator('a[href="/InnoEngine.Docs/api/engine/"][data-group-home]').first()).toBeVisible();
+  const scripting = page.locator('a[href="/InnoEngine.Docs/api/scripting/"][data-group-home]').first();
+  await scripting.locator('..').locator('..').locator('..').locator(':scope > summary').focus();
+  await page.keyboard.press('Enter');
+  await scripting.click();
   await expect(page).toHaveURL(/\/api\/scripting\/$/);
   await expect(page.getByRole('main').getByRole('table')).toBeVisible();
 });
@@ -149,6 +164,21 @@ test('nested project categories use tables with functional descriptions', async 
   await audio.getByRole('link').click();
   await expect(page.getByRole('main').getByRole('table')).toBeVisible();
   await expect(page.getByRole('main')).not.toContainText('Browse Audio.');
+});
+
+test('type members form one compact table and manual explanations have no XML notice', async ({ page }, testInfo) => {
+  await page.goto('api/engine/adapter/audio/audiobackendcatalog/');
+  const table = page.getByRole('main').getByRole('table');
+  await expect(table).toHaveCount(1);
+  await expect(table.getByRole('columnheader', { name: 'Kind', exact: true })).toBeVisible();
+  await expect(table).toContainText('Constructors');
+  await expect(table).toContainText('Methods');
+  await expect(table).toContainText('Properties');
+  await table.scrollIntoViewIfNeeded();
+  await page.screenshot({ path: testInfo.outputPath('api-members-table.png') });
+  await page.goto('api/engine/core/identity/identityobject/');
+  await expect(page.locator('aside.documentation-tip')).toHaveCount(0);
+  await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');
 });
 
 test('capture API categories and standalone elements', async ({ page }, testInfo) => {

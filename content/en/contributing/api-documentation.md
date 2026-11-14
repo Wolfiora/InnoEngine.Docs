@@ -69,6 +69,31 @@ The generated declaration, parameters, inheritance and member list always follow
 
 These overwrite rules apply only to registered API fragments. Manual guides, tutorials and ordinary Markdown are not claimed by the synchronizer.
 
+## Understand frontmatter and stable addresses
+
+Frontmatter is the YAML block between the opening `---` lines. It describes identity and authoring ownership, not an alternative source of API declarations.
+
+| Field | Meaning | Author action |
+| --- | --- | --- |
+| `uid` | Stable page identity used by contract links and queries | Preserve it |
+| `symbol` | Exact API family, project and XML documentation ID, including overload identity | Preserve it; source changes own API renames |
+| `source` | `xml` permits automatic prose updates; `manual` transfers prose to the author | Change to `manual` before writing an explanation |
+| `reviewed` | Digest of the contract and XML/context inputs last acknowledged by the author | Copy the registry's current `contract` only after reviewing the explanation |
+| `title` | Page label; composed API titles follow current source identity | Do not use it to rename a source symbol |
+| `kind` | Page type, `api` here | Keep it |
+| `owners` | Owning projects; composition reconciles actual ownership | Keep the generated owner |
+| `apiSurface` | Host or script compilation surface | Do not confuse it with Scope |
+| `apiScope` | Runtime, Editor or Authoring | Actual script projection supplies this |
+| `contracts` | Stable page/section references to necessary constraints | Maintain meaningful associations; declaring-type obligations are inherited |
+| `aliases` | Additional search terms | Add useful reader terminology |
+| `exampleMode`, `exampleProjects` | Compilation context for examples | Select real dependencies; do not relabel invalid examples to bypass checks |
+
+Member filenames use the first 16 hexadecimal characters of SHA-256 over `family:project:xml-documentation-id`. Disambiguated type folders use 12 characters of that identity digest. Machine paths, timestamps, build configuration and operating system are not inputs. Identical symbols therefore retain their suffix across environments. Changing identity, such as project, declaring type, method name, generic arity or parameter-type overload, produces a different identity. Scope/category changes can move the readable path while retaining the suffix. Digests are identifiers, not API names or security certificates.
+
+A manual file is not frozen source code. Its authored explanation is retained when XML or declarations change; displayed declarations and member tables still follow source facts. A path migration can move the file and repair relative links without regenerating its explanation. A deleted API's manual file remains for review, outside current navigation and default queries. Renames are not guessed to be the same API, and text is never silently reassigned to a different overload.
+
+Only explicit `source: xml` displays the XML Tip above required contracts. A missing marker remains automatically managed for synchronization but does not display that explicit-source notice. Manual pages have no XML Tip. Both kinds retain source provenance directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
+
 ## Interpret the checks
 
 **Documentation validation** checks data integrity, identity, links, composition, examples and the site. Errors block publication.

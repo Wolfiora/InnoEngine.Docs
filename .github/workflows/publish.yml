@@ -39,6 +39,7 @@ jobs:
       DOCUMENTATION_RUN: ${{ github.event.workflow_run.id || inputs.documentation_run }}
       DOCUMENTATION_COMMIT: ${{ inputs.documentation_commit }}
       GH_TOKEN: ${{ github.token }}
+      DOCS_HOSTING: ${{ vars.DOCS_HOSTING || 'pages' }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -50,6 +51,7 @@ jobs:
         id: selected
         shell: pwsh
         run: |
+          if ($env:DOCS_HOSTING -notin @('pages', 'vercel')) { throw 'DOCS_HOSTING must be pages or vercel.' }
           New-Item -ItemType Directory -Path artifacts/publication | Out-Null
           node scripts/publication-source.mjs select artifacts/publication/selection.json
           if ($LASTEXITCODE -ne 0) { throw 'No eligible main artifact is available.' }
@@ -61,7 +63,7 @@ jobs:
           ./scripts/Get-PublicationArtifact.ps1 -Selection artifacts/publication/selection.json -Source documentation -Destination artifacts/publication/site
           node scripts/publication-artifact.mjs verify artifacts/publication/site $env:DOCUMENTATION_COMMIT $env:DOCUMENTATION_RUN $env:DOCUMENTATION_ATTEMPT > artifacts/publication/files.json
           if ($LASTEXITCODE -ne 0) { throw 'Static output differs from its verification manifest.' }
-      - name: Recheck main immediately before Pages transport
+      - name: Recheck main immediately before publication transport
         shell: pwsh
         run: |
           node scripts/publication-source.mjs select artifacts/publication/closing-selection.json
@@ -72,14 +74,41 @@ jobs:
             if ($before.documentation.$field -cne $after.documentation.$field) { throw "Publication producer changed: $field" }
           }
           if ($before.publicationTree -cne $after.publicationTree) { throw 'Publication tree changed.' }
-          tar -cf artifacts/publication/artifact.tar -C artifacts/publication/site .
-          if ($LASTEXITCODE -ne 0) { throw 'Pages transport preparation failed.' }
+          if ($env:DOCS_HOSTING -eq 'pages') {
+            $bytes = (Get-ChildItem artifacts/publication/site -File -Recurse | Measure-Object Length -Sum).Sum
+            if ($bytes -gt 1000000000) { throw 'Verified site exceeds the GitHub Pages 1 GB limit. Select and configure another host.' }
+            tar -cf artifacts/publication/artifact.tar -C artifacts/publication/site .
+            if ($LASTEXITCODE -ne 0) { throw 'Pages transport preparation failed.' }
+          }
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: env.DOCS_HOSTING == 'pages'
         with:
           name: github-pages
           path: artifacts/publication/artifact.tar
           if-no-files-found: error
           retention-days: 90
+      - name: Install locked Vercel transport
+        if: env.DOCS_HOSTING == 'vercel'
+        run: npm ci --prefix .github/deployment
+      - name: Publish verified output to Vercel without rebuilding
+        if: env.DOCS_HOSTING == 'vercel'
+        shell: pwsh
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ vars.VERCEL_PROJECT_ID }}
+          DOCUMENTATION_ATTEMPT: ${{ steps.selected.outputs.documentation-attempt }}
+        run: |
+          if (!$env:VERCEL_TOKEN -or !$env:VERCEL_ORG_ID -or !$env:VERCEL_PROJECT_ID) { throw 'Configure VERCEL_TOKEN, VERCEL_ORG_ID and VERCEL_PROJECT_ID in this repository.' }
+          node scripts/vercel-output.mjs artifacts/publication/site artifacts/publication/vercel $env:DOCUMENTATION_COMMIT $env:DOCUMENTATION_RUN $env:DOCUMENTATION_ATTEMPT
+          if ($LASTEXITCODE -ne 0) { throw 'Vercel transport verification failed.' }
+          node scripts/publication-source.mjs select artifacts/publication/vercel-selection.json
+          if ($LASTEXITCODE -ne 0) { throw 'Main changed before Vercel publication.' }
+          $before = Get-Content artifacts/publication/closing-selection.json -Raw | ConvertFrom-Json
+          $after = Get-Content artifacts/publication/vercel-selection.json -Raw | ConvertFrom-Json
+          if ($before.publicationTree -cne $after.publicationTree -or $before.documentation.id -ne $after.documentation.id -or $before.documentation.digest -cne $after.documentation.digest) { throw 'The selected publication changed while preparing Vercel transport.' }
+          & ./.github/deployment/node_modules/.bin/vercel.cmd deploy --cwd artifacts/publication/vercel --prebuilt --archive=split-tgz --prod --yes --token $env:VERCEL_TOKEN
+          if ($LASTEXITCODE -ne 0) { throw 'Vercel publication failed; the previous deployment remains active.' }
       - name: Retain promotion diagnostics
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
@@ -92,6 +121,7 @@ jobs:
   deploy:
     name: Deploy verified documentation
     needs: verify
+    if: ${{ vars.DOCS_HOSTING != 'vercel' }}
     runs-on: windows-2025
     permissions:
       pages: write

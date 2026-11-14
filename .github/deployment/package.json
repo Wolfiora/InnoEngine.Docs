@@ -1,0 +1,6 @@
+{
+  "name": "inno-docs-deployment",
+  "private": true,
+  "type": "module",
+  "dependencies": { "vercel": "65.16.0" }
+}
