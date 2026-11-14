@@ -1,0 +1,12 @@
+---
+uid: api.8ba834c7824cc2c03def6540475148d597ad55f0f07d32a2597353774ff073b2
+symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderNodePort.id"
+source: xml
+reviewed: ed5956722a336d6acc25add46090ff3399a5f3822d8984da7da30cb912d8badd
+title: "ShaderNodePort.id"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Stable node-local port identity.

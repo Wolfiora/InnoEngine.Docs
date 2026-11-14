@@ -1,0 +1,12 @@
+---
+uid: api.0f633700af7665476d507da8714e249142bddda08fd43238adfba0c71eca3f3e
+symbol: "engine:Inno.Audio:P:Inno.Audio.AudioEmitterSnapshot.shouldPlay"
+source: xml
+reviewed: 596d9e3843156ab23aeebd61385e2a9971c6844877eecae755e7c25c00bb1498
+title: "AudioEmitterSnapshot.shouldPlay"
+kind: api
+owners: [Inno.Audio]
+apiSurface: source-clr
+---
+
+Gets whether the runtime should retain active playback for this emitter.

@@ -1,0 +1,12 @@
+---
+uid: api.4227f670ecf91bf0302f3289cbbdddf805e163a2155c98aa064bf78028027244
+symbol: "engine:Inno.Adapter.Authoring.Default:P:Inno.Adapter.Authoring.Default.DefaultAuthoringAdapterCatalog.text"
+source: xml
+reviewed: ae573318c3f98acb4580f4a9afea9e490c6e0fb500845e4a8067e1d3df843b34
+title: "DefaultAuthoringAdapterCatalog.text"
+kind: api
+owners: [Inno.Adapter.Authoring.Default]
+apiSurface: source-clr
+---
+
+Gets the built-in Unicode text backend factory.

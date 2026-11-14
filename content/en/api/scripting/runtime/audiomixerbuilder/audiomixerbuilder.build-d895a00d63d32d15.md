@@ -1,0 +1,17 @@
+---
+uid: api.d895a00d63d32d15f5caba34de5b0c2df285261c70de77f8a1944f2ef4b6bb34
+symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioMixerBuilder.Build"
+source: xml
+reviewed: f3717e5e53ff20dc1cd2a35b4feb7fa900f533675994617eb4f8746ecf386098
+title: "AudioMixerBuilder.Build"
+kind: api
+owners: [Inno.Audio]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Validates the graph and returns an immutable parent-before-child snapshot.
+
+**Returns:** A validated mixer graph containing the mandatory master bus.
+
+**Exception `T:System.InvalidOperationException`:** Thrown when a parent is missing or bus routing contains a cycle.

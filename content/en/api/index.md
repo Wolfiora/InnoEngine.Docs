@@ -19,6 +19,8 @@ Engine API excludes every root except src/ and build/, as well as test and fixtu
 
 ## Source and editorial ownership
 
+Generic types use their declared parameter names, such as `EditorAction<TTarget, TArgument>`. Distinct types with the same short name are qualified by namespace where needed. Page addresses may include a stable identity suffix to avoid collisions; that suffix is not part of the API name.
+
 Declarations, inheritance, member lists and source links come from the selected engine API export. Each type and member has independent prose: **XML-synced** content follows source XML; manually maintained explanations remain under their author's control. A missing editorial addition is a reminder, not proof that an API is unavailable or unsafe.
 
 The reference represents the engine revision recorded in this site's provenance. It does not silently follow newer engine commits. See [maintaining API documentation](../contributing/api-documentation.md) to enrich a type or member.

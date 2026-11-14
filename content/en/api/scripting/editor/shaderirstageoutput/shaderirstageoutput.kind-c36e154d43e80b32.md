@@ -1,0 +1,13 @@
+---
+uid: api.c36e154d43e80b326d95bc5dce315a87240cc3f335f30da1250be2a0fa0d3a0e
+symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStageOutput.kind"
+source: xml
+reviewed: d70e34e5421a7265063a9f7215278582ffa5ddd9935e5f602586c4a72db7769a
+title: "ShaderIrStageOutput.kind"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets the GPU output category.

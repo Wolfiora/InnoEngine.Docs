@@ -1,0 +1,12 @@
+---
+uid: api.f6504f77d5b6736403f7a2cecd104174353c077951879a4090825cd50e38fc96
+symbol: "engine:Inno.UI:P:Inno.UI.UiVertex.u"
+source: xml
+reviewed: 9e00ce2c6b0f1f5b49778f6cccc13b645761dfdddaee77a33bb920568a68d24e
+title: "UiVertex.u"
+kind: api
+owners: [Inno.UI]
+apiSurface: source-clr
+---
+
+The float value used to initialize this instance.

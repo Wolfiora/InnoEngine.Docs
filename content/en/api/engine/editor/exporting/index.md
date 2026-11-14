@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## EditorExportProgress
+## Types
 
-- [EditorExportProgress](editorexportprogress/index.md)
-
-## EditorExportService
-
-- [EditorExportService](editorexportservice/index.md)
+| Type | Purpose |
+| --- | --- |
+| [EditorExportProgress](editorexportprogress/index.md) | Contains one owner-thread export presentation snapshot. |
+| [EditorExportService](editorexportservice/index.md) | Owns asynchronous export, progress, cancellation and retirement independently from presentation. |
 

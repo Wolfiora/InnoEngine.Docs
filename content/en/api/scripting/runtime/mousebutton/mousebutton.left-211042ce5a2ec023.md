@@ -1,0 +1,13 @@
+---
+uid: api.211042ce5a2ec023936bb14dd4962840d55d5e430b04bf0885458f8768e07686
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.MouseButton.Left"
+source: xml
+reviewed: 494d84388f51a52c0e413f16a4671ae01f042da5afee15b2cbed57a73a18e01c
+title: "MouseButton.Left"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The left key.

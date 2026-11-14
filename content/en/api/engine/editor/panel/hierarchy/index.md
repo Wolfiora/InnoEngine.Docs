@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## HierarchyObjectDropTarget
+## Types
 
-- [HierarchyObjectDropTarget](hierarchyobjectdroptarget/index.md)
-
-## HierarchySceneDropTarget
-
-- [HierarchySceneDropTarget](hierarchyscenedroptarget/index.md)
+| Type | Purpose |
+| --- | --- |
+| [HierarchyObjectDropTarget](hierarchyobjectdroptarget/index.md) | Identifies a game object hierarchy drop target. |
+| [HierarchySceneDropTarget](hierarchyscenedroptarget/index.md) | Identifies a scene row or scene root hierarchy drop target. |
 

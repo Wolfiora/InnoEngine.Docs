@@ -3,7 +3,7 @@ uid: api.inno.editor.interactions.editor-script.dc49ee7b6aef90fc
 symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorPresentationAction\u00602"
 source: xml
 reviewed: 207ea6f05752c3b16ebb14cf87826c0ee451d9f7f6e87464fab636e2bc9c143c
-title: "EditorPresentationAction"
+title: "EditorPresentationAction\u003CTTarget, TPresentation\u003E"
 kind: api
 owners: [Inno.Editor.Interactions]
 apiSurface: editor-script

@@ -1,0 +1,15 @@
+---
+uid: api.28e21e45f2732a2abd9edef1f9f0e0e48c0af6701c745a5808a0ea5ba875f583
+symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IViewContentSink.Submit(InnoEngine.Rendering.ViewContentItem)"
+source: xml
+reviewed: ca341c058c6ba799e8c31a3a56ccbb748a0a92aa4a606e430efb78756b760b04
+title: "IViewContentSink.Submit"
+kind: api
+owners: [Inno.Rendering.Runtime]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Adds an item to the current view.
+
+**Parameter `item`:** Frame-local content item.

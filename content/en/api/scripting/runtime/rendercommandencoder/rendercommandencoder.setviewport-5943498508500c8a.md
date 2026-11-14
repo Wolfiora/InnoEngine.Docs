@@ -1,0 +1,21 @@
+---
+uid: api.5943498508500c8a11306789f87a11d4a992f51a230f115a66f8f57bb2f8f531
+symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetViewport(System.Int32,System.Int32,System.Int32,System.Int32)"
+source: xml
+reviewed: 479bac1afc892aaed321a0a141cbab9feb00d2075ee0530c958bfee1be9ea15a
+title: "RenderCommandEncoder.SetViewport"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Sets the viewport rectangle in render-target pixels.
+
+**Parameter `x`:** Left coordinate in render-target pixels.
+
+**Parameter `y`:** Top coordinate in render-target pixels.
+
+**Parameter `width`:** Rectangle width in render-target pixels.
+
+**Parameter `height`:** Rectangle height in render-target pixels.

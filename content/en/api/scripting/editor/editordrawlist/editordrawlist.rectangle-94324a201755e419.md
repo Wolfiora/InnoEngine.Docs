@@ -1,0 +1,23 @@
+---
+uid: api.94324a201755e419ca302a7c23d818d20ee3af00c2c9fb85bea1b21216b3afb5
+symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.Rectangle(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single,System.Single)"
+source: xml
+reviewed: 3fd70583d2efe76112111dcbd9b5c1fa787f2b8392dd55c6201912fa43ccff94
+title: "EditorDrawList.Rectangle"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Adds a rectangular outline.
+
+**Parameter `minimum`:** The upper-left corner.
+
+**Parameter `maximum`:** The lower-right corner.
+
+**Parameter `color`:** Packed RGBA color.
+
+**Parameter `rounding`:** Corner radius.
+
+**Parameter `thickness`:** Stroke width in UI pixels.

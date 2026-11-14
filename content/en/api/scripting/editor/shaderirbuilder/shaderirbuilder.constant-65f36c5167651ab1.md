@@ -1,0 +1,17 @@
+---
+uid: api.65f36c5167651ab1d6af0c02c14e5492598d6e28195d944f3cc12810d14f268f
+symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Constant(System.UInt32)"
+source: xml
+reviewed: 177fe93aa020beff8568e3b12d52781b6427ef0a405cd7b40fab07cde387dc57
+title: "ShaderIrBuilder.Constant"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Produces an exact unsigned 32-bit integer constant.
+
+**Parameter `value`:** Scalar unsigned integer value.
+
+**Returns:** A uint-typed intermediate value.

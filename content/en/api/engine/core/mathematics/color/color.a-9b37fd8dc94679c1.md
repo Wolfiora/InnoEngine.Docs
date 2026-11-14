@@ -1,0 +1,12 @@
+---
+uid: api.9b37fd8dc94679c16731fda0f6d0a43e6258e5fb8f6d7e4f7a032d4f09fdd9dd
+symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Color.a"
+source: xml
+reviewed: b7985f6710a5ee5ef4af044ff97e5eb327e229cab0d95b3e7c15ca2f3592bfc2
+title: "Color.a"
+kind: api
+owners: [Inno.Core.Mathematics]
+apiSurface: source-clr
+---
+
+The alpha color component.

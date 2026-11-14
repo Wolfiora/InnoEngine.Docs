@@ -9,19 +9,12 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## KeyCode
+## Types
 
-- [KeyCode](keycode/index.md)
-
-## KeyModifier
-
-- [KeyModifier](keymodifier/index.md)
-
-## MouseButton
-
-- [MouseButton](mousebutton/index.md)
-
-## MouseCursor
-
-- [MouseCursor](mousecursor/index.md)
+| Type | Purpose |
+| --- | --- |
+| [KeyCode](keycode/index.md) | Represents a backend-neutral physical key used by runtime input and editor shortcut contracts. |
+| [KeyModifier](keymodifier/index.md) | Identifies the supported key modifier values for this contract. |
+| [MouseButton](mousebutton/index.md) | Identifies the supported mouse button values for this contract. |
+| [MouseCursor](mousecursor/index.md) | Identifies the supported mouse cursor values for this contract. |
 

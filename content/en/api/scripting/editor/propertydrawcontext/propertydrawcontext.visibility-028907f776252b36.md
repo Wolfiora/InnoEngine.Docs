@@ -1,0 +1,13 @@
+---
+uid: api.028907f776252b36de5190961c3eae06ada908c6ccbf08b8eabeee808403c12a
+symbol: "scripting:Inno.Editor.Inspection:P:InnoEditor.Inspection.PropertyDrawContext.visibility"
+source: xml
+reviewed: 3d06ea3018f1f8eaa208601f0d941b115d153d7b9a3b567c44642ff946e977dd
+title: "PropertyDrawContext.visibility"
+kind: api
+owners: [Inno.Editor.Inspection]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets the serialization visibility flags.

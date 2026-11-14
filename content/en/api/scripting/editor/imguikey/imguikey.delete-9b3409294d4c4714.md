@@ -1,0 +1,13 @@
+---
+uid: api.9b3409294d4c4714884cafe0f43c787e49132cefb39ffaa679b9e4cbc69fbd5d
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Delete"
+source: xml
+reviewed: 4c2ada985cec720e277f6077d3b90707c0a99c6da9749a4e08570b6925753969
+title: "ImGuiKey.Delete"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the Delete presentation key or modifier.

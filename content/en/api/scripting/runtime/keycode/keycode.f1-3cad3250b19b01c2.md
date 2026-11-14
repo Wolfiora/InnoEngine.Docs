@@ -1,0 +1,13 @@
+---
+uid: api.3cad3250b19b01c29278ea130038981a920393f3b18e928273b816e5dcb43db2
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.F1"
+source: xml
+reviewed: c53f0cf39a597531e9324b618b8c5b053db96194fb1eae9b80fea3a2e869c9b5
+title: "KeyCode.F1"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The F1 function key.

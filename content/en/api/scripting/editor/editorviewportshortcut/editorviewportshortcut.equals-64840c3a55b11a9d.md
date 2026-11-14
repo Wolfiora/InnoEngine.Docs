@@ -1,0 +1,17 @@
+---
+uid: api.64840c3a55b11a9dd44f55329ac48a7c90eb153a5b296f10939e56256e986300
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportShortcut.Equals(InnoEditor.Interactions.EditorViewportShortcut)"
+source: xml
+reviewed: 0f7c697ac01e0737f0401f342b89de593881de4bf7089c1400b12dc2d40895da
+title: "EditorViewportShortcut.Equals"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Indicates whether the current object is equal to another object of the same type.
+
+**Parameter `other`:** An object to compare with this object.
+
+**Returns:** `true` if the current object is equal to the `other` parameter; otherwise, `false`.

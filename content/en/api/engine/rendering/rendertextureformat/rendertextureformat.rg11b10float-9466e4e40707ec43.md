@@ -1,0 +1,12 @@
+---
+uid: api.9466e4e40707ec435838d28094e227e4e76e6d1520911d474900f7802c90b956
+symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderTextureFormat.RG11B10Float"
+source: xml
+reviewed: 6c763e877178bf21af78000c199da5bd7faa861717de1caade603e1b3e947074
+title: "RenderTextureFormat.RG11B10Float"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Eleven-bit RGB floating-point format.

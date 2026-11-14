@@ -1,0 +1,17 @@
+---
+uid: api.9f04809cc8446209ee3478cc7caec93072727f187f36e9ece7fe6689b18030b7
+symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTarget.Equals(InnoEngine.Animation.AnimationTarget)"
+source: xml
+reviewed: c6ad85bec2651976a271a1f89e3d039752b3469e3850375a681344ec4a13b176
+title: "AnimationTarget.Equals"
+kind: api
+owners: [Inno.Animation]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Compares runtime destinations, including their identity domain.
+
+**Parameter `other`:** The destination to compare.
+
+**Returns:** True when both values denote the same runtime destination or sampling policy.

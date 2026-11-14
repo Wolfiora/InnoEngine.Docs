@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Runtime
+## Categories
 
-[Browse Runtime](runtime/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Runtime](runtime/index.md) | Shared desktop and Browser Player launch, content validation and application lifetime. |
 

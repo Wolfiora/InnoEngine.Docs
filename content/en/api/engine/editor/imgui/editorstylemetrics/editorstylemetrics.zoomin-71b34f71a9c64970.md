@@ -1,0 +1,14 @@
+---
+uid: api.71b34f71a9c6497013786820db238871dd023269b8058ad1721e974f7510542e
+symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorStyleMetrics.ZoomIn"
+source: xml
+reviewed: a326d41f528dca7c49e79b9d06e558441cf459111c2bbf887af3adb2910638f3
+title: "EditorStyleMetrics.ZoomIn"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Increases editor UI zoom by one bounded increment.
+
+**Returns:** `true` when the requested zoom changed.

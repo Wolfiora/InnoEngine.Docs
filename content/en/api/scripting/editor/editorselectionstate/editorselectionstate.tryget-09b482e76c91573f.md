@@ -1,0 +1,19 @@
+---
+uid: api.09b482e76c91573f161568b77c491fe6638f72ad7dcc86f7fa63c23064290b47
+symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorSelectionState.TryGet\u0060\u00601(\u0060\u00600@)"
+source: xml
+reviewed: 5abe7cebd7426ff4748a343edb710df7e7651e030850c3cc04b8246a62c4afad
+title: "EditorSelectionState.TryGet"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Resolves the primary selected target as the requested type for immediate use.
+
+**Type parameter `TTarget`:** The expected target type.
+
+**Parameter `target`:** Receives the available primary target, or null.
+
+**Returns:** True when the current primary target has the requested type.

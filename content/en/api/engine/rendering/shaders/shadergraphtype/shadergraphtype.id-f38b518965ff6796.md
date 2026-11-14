@@ -1,0 +1,12 @@
+---
+uid: api.f38b518965ff67968300a313e380247bf88bcea43a536155b302805bb6b9aedc
+symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphType.id"
+source: xml
+reviewed: 7093ff575e3bdd0ff636db6eca0c4baf2674cf0ebc4a39f6e2fbc770874d1c96
+title: "ShaderGraphType.id"
+kind: api
+owners: [Inno.Rendering.Shaders]
+apiSurface: source-clr
+---
+
+Gets or sets the atomic or nominal structure type identity.

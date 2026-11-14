@@ -1,0 +1,13 @@
+---
+uid: api.7bb1ee2ec526a724b1c093376ba47f26b805f096fecf33cf3c9e673d3d36c863
+symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F4"
+source: xml
+reviewed: 0dcd777dcf9c60c4ab2659b8a5c90aeb1f62210d429cb06b0d3bd3c8e94b06af
+title: "ImGuiKey.F4"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Identifies the F4 presentation key or modifier.

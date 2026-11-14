@@ -30,7 +30,7 @@ Preserve all selected engine public and relevant protected symbols, overloads, n
 
 Each type and member has its own Markdown and stable symbol identity. source: xml or a missing source marker is automatically managed only within registered API files. source: manual preserves authored prose; facts, declarations, parameters and membership remain generated. Unknown source markers fail. Preserve removed manual prose outside current navigation and default search. Contract changes require editorial review; the tool does not claim to prove semantic quality. Manual gaps are neutral warnings, while invalid facts, broken links and invalid examples remain blocking.
 
-Use compact member summaries and readable detail sections. Long signatures scroll independently; long prose does not belong in wide tables. Missing semantics remain visible work, not a successful coverage claim.
+Publish each API element as an independent page. Use dotted declaring-type names, including nested types, and exact overload identities. Types list immediate members and nested types in description tables; project categories use the same table structure recursively. Members retain explicit links to declaring-type and shared usage contracts. Long signatures scroll independently; long prose does not belong in wide tables. Missing semantics remain visible work, not a successful coverage claim.
 
 ## Links and migration
 

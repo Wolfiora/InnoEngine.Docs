@@ -1,0 +1,18 @@
+---
+uid: api.e07847c3a0a9307354064cde999e11e0a51d4ffbc22bf4725b7a299a2b35da89
+symbol: "engine:Inno.Animation:M:Inno.Animation.AnimationBindingProvider.TryApply(Inno.Animation.AnimationTarget,Inno.Animation.AnimationValue)"
+source: xml
+reviewed: a69d2630732f44a867428b18d36ddc88ad745821fc5ba635dfe5d1e149890172
+title: "AnimationBindingProvider.TryApply"
+kind: api
+owners: [Inno.Animation]
+apiSurface: source-clr
+---
+
+Attempts to apply a value to a destination resolved through Identity.
+
+**Parameter `target`:** The weak, generation-qualified destination.
+
+**Parameter `value`:** The final blended value for this provider's declared protocol.
+
+**Returns:** True when applied; false when the destination is currently missing or incompatible.

@@ -1,0 +1,13 @@
+---
+uid: api.7ad4b742f5b3099b9a987e8f0328f79e8abefadb61c0b8bb4706e5b9dd5c96b3
+symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationProfile.id"
+source: xml
+reviewed: 4dedeba867a61092ba66be78bcacfa3a53ffeccdf2c1d7516840ef531c328833
+title: "EditorViewportNavigationProfile.id"
+kind: api
+owners: [Inno.Editor.Rendering]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets the stable profile identity.

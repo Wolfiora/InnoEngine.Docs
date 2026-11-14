@@ -1,0 +1,12 @@
+---
+uid: api.9f3f2c89755b75bc5a581c44d6d91bab5ce880c352f9de18e3f99e16c7de16c5
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.None"
+source: xml
+reviewed: 0e3fe3cf133c7d783c87be1dda9c9184ebe6f1f1e2a85f8f77f8cc9717891b6c
+title: "ImGuiTableColumnFlags.None"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Uses the ordinary behavior without additional options.

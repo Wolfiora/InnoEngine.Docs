@@ -1,0 +1,12 @@
+---
+uid: api.0d57379442832021e734e5d86dcbc785d99c9e6f07b33835f4ca7af3eadced47
+symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderBufferDescriptor.elementCount"
+source: xml
+reviewed: 8b36c0ea4f4950ac614f6abfba2f3b82534946f5a82c8d351e3858c1d858b5cc
+title: "RenderBufferDescriptor.elementCount"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Gets the number of addressable elements.

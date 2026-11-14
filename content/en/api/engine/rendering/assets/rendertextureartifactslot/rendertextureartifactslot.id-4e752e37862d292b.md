@@ -1,0 +1,12 @@
+---
+uid: api.4e752e37862d292bfa27d44021faea8efdcc158ff8783b67b32f4c5f911f3c24
+symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderTextureArtifactSlot.id"
+source: xml
+reviewed: 1069a72718fb06fe6c5e10115facac98d594dfb946d3869044505abbaaab214c
+title: "RenderTextureArtifactSlot.id"
+kind: api
+owners: [Inno.Rendering.Assets]
+apiSurface: source-clr
+---
+
+Gets the asset-local stable slot identifier.

@@ -1,0 +1,13 @@
+---
+uid: api.ecd819544982889f25ab2304f6bc55dda4f4b0df4cf23457471998175dd9bee7
+symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderPrimitiveTopology.LineList"
+source: xml
+reviewed: 978f9c8d87347a288892a186f4a3ed69bb3e2abc570be857214c8a84030a43c4
+title: "RenderPrimitiveTopology.LineList"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Independent line pairs.

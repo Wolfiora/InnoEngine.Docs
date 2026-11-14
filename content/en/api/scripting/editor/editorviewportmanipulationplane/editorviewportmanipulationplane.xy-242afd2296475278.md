@@ -1,0 +1,13 @@
+---
+uid: api.242afd2296475278c22553f7cfbfd69c5e9d50ad9019ac7ebfec5c11d0b0abaf
+symbol: "scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportManipulationPlane.XY"
+source: xml
+reviewed: ae56726c210fca07872a113322fdbff64f6fcc0a952607169d93f0798e45ceed
+title: "EditorViewportManipulationPlane.XY"
+kind: api
+owners: [Inno.Editor.Rendering]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Uses the X/Y translation and scale axes with the Z rotation handle.

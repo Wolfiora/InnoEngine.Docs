@@ -1,0 +1,12 @@
+---
+uid: api.873d1712ecc9884949bccf4fd0ad964f869208166d55a868efb3bb175658abb9
+symbol: "engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderAttachment.texture"
+source: xml
+reviewed: 8a081c1675a3e3754f568951ff209c911d0ac1f48ff2914c6396466915969142
+title: "CompiledRenderAttachment.texture"
+kind: api
+owners: [Inno.Rendering]
+apiSurface: source-clr
+---
+
+Gets the attached graph texture.

@@ -1,0 +1,13 @@
+---
+uid: api.30ad2444ef89d7d4fc9d3942a71e118075170f8210fe061b6dc3446680eadb60
+symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.D1"
+source: xml
+reviewed: 029616cd799002fead9747ed85bc105fd6030c6286d509b5db479393f21c36a1
+title: "KeyCode.D1"
+kind: api
+owners: [Inno.Core.Input]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+The 1 key on the primary keyboard row.

@@ -1,0 +1,18 @@
+---
+uid: api.757e483472e4c0d1bcfed69624a73c76908fb52057516168316de76e0152ffa2
+symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.Release(Inno.Rendering.Runtime.RenderPersistentResourceId)"
+source: xml
+reviewed: 233f60dcf85ebb4e6860bd765dc601225f9f2749a5c155a3983434a6d27c5521
+title: "IRenderResourceService.Release"
+kind: api
+owners: [Inno.Rendering.Runtime]
+apiSurface: source-clr
+---
+
+Releases cached resources with this provider-owned identifier at a safe GPU mutation point.
+
+## Remarks
+
+Calls between frames or during graph execution queue neutral identities until the next frame; runtime shutdown also retires them. Calls must occur on the rendering owner thread. Unused identities are ignored.
+
+**Parameter `id`:** Stable resource identifier to release.

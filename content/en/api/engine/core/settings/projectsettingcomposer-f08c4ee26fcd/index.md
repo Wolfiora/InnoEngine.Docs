@@ -3,7 +3,7 @@ uid: api.inno.core.settings.02177eda4a3a4117
 symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingComposer\u00602"
 source: xml
 reviewed: b2400dcb80aca665b0466a9866705efa5a2fe13a133c3067c93511c5a902c2c2
-title: "ProjectSettingComposer"
+title: "ProjectSettingComposer\u003CTSetting, TContribution\u003E"
 kind: api
 owners: [Inno.Core.Settings]
 apiSurface: source-clr

@@ -9,19 +9,12 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Catalogs
+## Categories
 
-[Browse Catalogs](catalogs/index.md).
-
-## Modules
-
-[Browse Modules](modules/index.md).
-
-## Reload
-
-[Browse Reload](reload/index.md).
-
-## Types
-
-[Browse Types](types/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Catalogs](catalogs/index.md) | Dependency-light discovery facts and static registration contracts owned by each contributing assembly. |
+| [Modules](modules/index.md) | Explicit module sources, dependency closures, catalog candidates and the shared generation owner. |
+| [Reload](reload/index.md) | Shared generation admission, ordered domain publication and weak collectible-unload verification. |
+| [Types](types/index.md) | Stable type references, immutable discovery snapshots and owned transactional extension registries. |
 

@@ -1,0 +1,13 @@
+---
+uid: api.0b55418607e19e02305e29aa4df7d87fe5806cea3e04658a9c9ba2ee536af6f7
+symbol: "scripting:Inno.Editor.Interactions:F:InnoEditor.Interactions.EditorViewportPointerPhase.Down"
+source: xml
+reviewed: de5cdc4597af8302c2b2944160f43df528409b14aa96a8dff3609223e6f9b2ba
+title: "EditorViewportPointerPhase.Down"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+The pointer button began a gesture.

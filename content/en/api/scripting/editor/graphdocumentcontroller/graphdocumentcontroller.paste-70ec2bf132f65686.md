@@ -1,0 +1,21 @@
+---
+uid: api.70ec2bf132f6568634af7837878b70056a9230ad3ac0e11e26c823a28e11e3f5
+symbol: "scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphDocumentController.Paste(InnoEditor.Graph.GraphClipboardData,InnoEngine.Graphs.GraphPosition,System.Action{InnoEngine.Graphs.GraphNodeRecord,System.Collections.Generic.IReadOnlyDictionary{InnoEngine.Graphs.GraphNodeId,InnoEngine.Graphs.GraphNodeId}})"
+source: xml
+reviewed: 8158ce2feeaa3045e389ece7cc6caa5e444a70a2f2554e7fe195f4ae9dc5f362
+title: "GraphDocumentController.Paste"
+kind: api
+owners: [Inno.Editor.Graph]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Pastes a clipboard fragment with new stable identities and a graph-space offset.
+
+**Parameter `clipboard`:** Detached neutral fragment.
+
+**Parameter `offset`:** Offset added to every copied node position.
+
+**Returns:** New node identities in clipboard document order.
+
+**Parameter `remapNode`:** Optional synchronous domain remapping of neutral node values after identity allocation. The callback is never stored in History.

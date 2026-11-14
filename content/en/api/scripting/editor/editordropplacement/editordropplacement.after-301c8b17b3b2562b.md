@@ -1,0 +1,13 @@
+---
+uid: api.301c8b17b3b2562b5fec14de766d7da720a55db961fc786a744a61d848498b63
+symbol: "scripting:Inno.Editor.Interactions:F:InnoEditor.Interactions.EditorDropPlacement.After"
+source: xml
+reviewed: 07f87145b32b7c84a0346e832d92a2667c22e064cdc07800ac21a905e1da165a
+title: "EditorDropPlacement.After"
+kind: api
+owners: [Inno.Editor.Interactions]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Insert after the target.

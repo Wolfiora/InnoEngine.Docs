@@ -1,0 +1,12 @@
+---
+uid: api.6e68d94236c53f4195a7a52f3bd8d12bfffcf89b623c3b17f9caab453bf803af
+symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableFlags.BordersV"
+source: xml
+reviewed: b0a4d6fabbfe403d6f453f12a135bb9f2f7c534721bf1b4876d91d67bfac3d6a
+title: "ImGuiTableFlags.BordersV"
+kind: api
+owners: [Inno.Editor.ImGui]
+apiSurface: source-clr
+---
+
+Draw vertical borders.

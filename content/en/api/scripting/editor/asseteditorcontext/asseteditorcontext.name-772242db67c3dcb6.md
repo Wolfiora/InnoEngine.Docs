@@ -1,0 +1,13 @@
+---
+uid: api.772242db67c3dcb698f55175816e295642ec6c28957bf667f6093835d5980666
+symbol: "scripting:Inno.Editor.Assets:P:InnoEditor.Assets.AssetEditorContext.name"
+source: xml
+reviewed: 29ce325aa9eea5f49ce2c13d3046dc739076057746e208fac7626c34084b6278
+title: "AssetEditorContext.name"
+kind: api
+owners: [Inno.Editor.Assets]
+apiSurface: editor-script
+apiScope: Editor
+---
+
+Gets the final source path segment.

@@ -9,11 +9,10 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## ITypeCatalogRegistrar
+## Types
 
-- [ITypeCatalogRegistrar](itypecatalogregistrar/index.md)
-
-## TypeCatalogMetadata
-
-- [TypeCatalogMetadata](typecatalogmetadata/index.md)
+| Type | Purpose |
+| --- | --- |
+| [ITypeCatalogRegistrar](itypecatalogregistrar/index.md) | Accepts explicit declarations and linked generic factories while a static catalog is being composed. |
+| [TypeCatalogMetadata](typecatalogmetadata/index.md) | Freezes a declaration&#39;s discovery facts independently of its runtime&#39;s reflection implementation. |
 

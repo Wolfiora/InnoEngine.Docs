@@ -1,0 +1,12 @@
+---
+uid: api.9077743d5bb606829cd3171cdcf6ce3df7765384386131e3228e0a59ef0fb92f
+symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorStatistic.groupName"
+source: xml
+reviewed: d7d7db8f5810be1cf695223e81d3ac2b856f93ff0e149aaee02cb5180ec92f67
+title: "EditorStatistic.groupName"
+kind: api
+owners: [Inno.Editor.Core]
+apiSurface: source-clr
+---
+
+Gets the user-facing group heading.

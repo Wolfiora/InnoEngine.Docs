@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Core
+## Categories
 
-[Browse Core](core/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Core](core/index.md) | Verified Support Pack preparation, publication and protected consumption. |
 

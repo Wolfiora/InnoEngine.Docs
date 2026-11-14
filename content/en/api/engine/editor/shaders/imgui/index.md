@@ -9,31 +9,15 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## ShaderNodeDrawContext
+## Types
 
-- [ShaderNodeDrawContext](shadernodedrawcontext/index.md)
-
-## ShaderNodeDrawer
-
-- [ShaderNodeDrawer](shadernodedrawer/index.md)
-
-## ShaderNodeDrawerAttribute
-
-- [ShaderNodeDrawerAttribute](shadernodedrawerattribute/index.md)
-
-## ShaderNodeDrawerRegistry
-
-- [ShaderNodeDrawerRegistry](shadernodedrawerregistry/index.md)
-
-## ShaderNodePresentation
-
-- [ShaderNodePresentation](shadernodepresentation/index.md)
-
-## ShaderPreviews
-
-- [ShaderPreviews](shaderpreviews/index.md)
-
-## ShaderPropertyInspector
-
-- [ShaderPropertyInspector](shaderpropertyinspector/index.md)
+| Type | Purpose |
+| --- | --- |
+| [ShaderNodeDrawContext](shadernodedrawcontext/index.md) | Exposes detached node values and one-gesture writes without exposing the live graph document. |
+| [ShaderNodeDrawer](shadernodedrawer/index.md) | Provides reloadable Inspector controls; instances must not retain frame contexts or asset objects. |
+| [ShaderNodeDrawerAttribute](shadernodedrawerattribute/index.md) | Registers Editor-only node controls independently from a node&#39;s shader compiler. |
+| [ShaderNodeDrawerRegistry](shadernodedrawerregistry/index.md) | Shares generation-scoped node presentation between graph and Inspector hosts. |
+| [ShaderNodePresentation](shadernodepresentation/index.md) | Immutable authoring presentation contributed for one Shader node definition. |
+| [ShaderPreviews](shaderpreviews/index.md) | Hosts isolated Shader and Material images using domain-contributed preview pipelines. |
+| [ShaderPropertyInspector](shaderpropertyinspector/index.md) | Uses the shared Inspector drawers for both Shader defaults and Material overrides. |
 

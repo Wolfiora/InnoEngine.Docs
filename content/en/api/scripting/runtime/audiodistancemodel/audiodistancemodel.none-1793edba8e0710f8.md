@@ -1,0 +1,13 @@
+---
+uid: api.1793edba8e0710f8011ea2ed854e3ff767a6027b8c7e7aac96779f69cc0ccecf
+symbol: "scripting:Inno.Audio:F:InnoEngine.Audio.AudioDistanceModel.None"
+source: xml
+reviewed: 211c33d455a8a57a03708835299ab863dfcc9554251bdf7cd9b301f6fc2c8476
+title: "AudioDistanceModel.None"
+kind: api
+owners: [Inno.Audio]
+apiSurface: editor-script
+apiScope: Runtime
+---
+
+Disables distance attenuation while retaining spatial direction.

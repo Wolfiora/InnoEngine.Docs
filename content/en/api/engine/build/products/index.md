@@ -9,7 +9,9 @@ owners: []
 
 Find types in this project category. Each type links to its exact declarations and member contracts.
 
-## Standard
+## Categories
 
-[Browse Standard](standard/index.md).
+| Category | Purpose |
+| --- | --- |
+| [Standard](standard/index.md) | Standard Native component closures and deployment manifests without SDK selection. |
 

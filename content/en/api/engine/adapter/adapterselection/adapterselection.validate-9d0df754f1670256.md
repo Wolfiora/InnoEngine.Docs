@@ -1,0 +1,18 @@
+---
+uid: api.9d0df754f16702560daabaa975122ad817c20c7b44777fffe161f3a8a0942014
+symbol: "engine:Inno.Adapter:M:Inno.Adapter.AdapterSelection.Validate(Inno.Adapter.IAdapterCatalog)"
+source: xml
+reviewed: 87cb83ffcc36d440345edfcd3af10acf568920b24f24226131eca0949bde7399
+title: "AdapterSelection.Validate"
+kind: api
+owners: [Inno.Adapter]
+apiSurface: source-clr
+---
+
+Validates every selected registration before the composition creates any service.
+
+**Parameter `catalog`:** The complete, composition-owned factory snapshot.
+
+**Exception `T:System.ArgumentNullException`:** The catalog is null.
+
+**Exception `T:System.NotSupportedException`:** A selected implementation is unassigned or absent from its domain catalog.

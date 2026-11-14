@@ -113,8 +113,8 @@
         - slug: manual/ui/author-rml
 - label: Architecture
   items:
-    - slug: architecture/asset-publication
     - slug: architecture/overview
+    - slug: architecture/asset-publication
     - slug: architecture/editor-ui
     - slug: architecture/identity-and-recovery
     - slug: architecture/ownership
@@ -136,8 +136,8 @@
     - slug: architecture/task-hosts
 - label: Extending InnoEngine
   items:
-    - slug: extending/asset-importers
     - slug: extending
+    - slug: extending/asset-importers
     - slug: extending/customize-console
     - slug: extending/editor-panels
     - slug: extending/editor-modules
@@ -204,16 +204,7 @@
     - slug: backends/rmlui
     - slug: backends/dotnet-serialization
 - label: API Reference
-  items:
-    - slug: api
-    - label: Engine
-      items:
-        - autogenerate:
-            directory: api/engine
-    - label: Scripting
-      items:
-        - autogenerate:
-            directory: api/scripting
+  apiDirectories: true
 - label: Contributing
   items:
     - slug: contributing
