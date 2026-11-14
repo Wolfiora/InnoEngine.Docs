@@ -14,6 +14,7 @@ permissions:
 
 env:
   DOCUMENTATION_COMMIT: ${{ github.sha }}
+  DOCS_SITE_URL: ${{ vars.DOCS_SITE_URL }}
 
 concurrency:
   group: documentation-${{ github.event.pull_request.number || github.ref }}

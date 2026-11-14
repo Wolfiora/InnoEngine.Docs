@@ -97,9 +97,6 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   if (site) {
     siteBytes = 0;
     await files(path.resolve(site), (_file, info) => { siteBytes += info.size; });
-    // Published Pages sites have a 1 GB limit, independent of compressed artifact size.
-    // https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
-    if (siteBytes > 1_000_000_000) errors.push(`Published site exceeds the GitHub Pages 1 GB limit: ${siteBytes} bytes.`);
   }
   return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
     snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length, siteBytes,

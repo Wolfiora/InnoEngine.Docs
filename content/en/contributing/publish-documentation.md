@@ -62,7 +62,7 @@ The App is not granted workflow editing, automatic merge or main-push authority.
 
 An App installation alone does not prove synchronization works. The first successful export, draft commit and Pages deployment are separate acceptance events. Never paste the private key into a PR, issue or chat. See GitHub's [App registration guide](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/registering-a-github-app), [private-key management](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/managing-private-keys-for-github-apps), and the pinned [installation-token action](https://github.com/actions/create-github-app-token/blob/fee1f7d63c2ff003460e3d139729b119787bc349/README.md).
 
-Set GitHub Pages to **GitHub Actions**, protect main with **Documentation validation** and retain review/discussion requirements. Do not make **API editorial coverage** required. Workflow definitions alone do not prove these repository settings are active.
+For Pages, select **GitHub Actions**. Protect main with **Documentation validation** and discussion resolution, without mandatory reviewer approval. Do not make **API editorial coverage** required. Workflow definitions alone do not prove these repository settings are active.
 
 ## Reuse and recover
 
@@ -84,3 +84,30 @@ Retain diagnostics for 30 days and deliverable artifacts for 90 days. Keep API f
 | Missing App, branch protection or Pages permission | Complete the repository configuration; report it as an external blocker |
 
 Record the actual deployment URL and source identities after deployment succeeds. Local tests, a preview and a workflow file are not proof that the public website has been deployed.
+
+## Deploy the verified site to Vercel
+
+`DOCS_HOSTING=pages` (the default) selects GitHub Pages; `DOCS_HOSTING=vercel` sends the same validated main artifact to Vercel. Neither host publishes draft previews. Deployment does not rebuild the engine or website.
+
+A `github.io` hostname belongs to GitHub and cannot be assigned to Vercel. Use the project's `vercel.app` address or a domain whose DNS you control. The existing Pages website can remain online during setup; it does not proxy Vercel. An explicitly configured redirect can later send visitors to the new address, but changes the browser's address.
+
+### Set up the Vercel project
+
+1. Sign in to Vercel and select the account/team that will own the documentation. Review its current plan and bandwidth limits before selecting paid options.
+2. Create an empty local setup directory outside the source checkout. Run `npx vercel@65.16.0 login`, then `npx vercel@65.16.0 link`. Select your account/team and create a project, for example `innoengine-docs`. Linking creates `.vercel/project.json`; it does not deploy this empty directory.
+3. Read `orgId` and `projectId` from that file locally. Do not commit the setup directory. In the Vercel project settings, confirm the production domain. Do not enable a separate Git integration that automatically builds every push; GitHub Actions owns validation and publication here.
+4. Create a Vercel account token scoped to the selected account/team with a suitable expiry. Keep it out of source, chat and screenshots.
+5. Open **Wolfiora/InnoEngine.Docs → Settings → Secrets and variables → Actions**. Under **Secrets**, add `VERCEL_TOKEN`. Under **Variables**, add `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` from step 3.
+6. Add variable `DOCS_SITE_URL` with the production origin, such as `https://innoengine-docs.vercel.app`, using your actual assigned name. Add `DOCS_HOSTING` with value `vercel`. The engine repository does not need these Vercel settings.
+7. Merge this implementation through draft into main. **Documentation** validates the site. **Publish documentation** imports and verifies that exact artifact and invokes the locked CLI with `--prebuilt --archive=split-tgz --prod`; Vercel does not build it again.
+8. Open the successful production deployment. The root redirects to `/InnoEngine.Docs/`, preserving existing deep-link paths. Verify a Manual page, an API member and search. Record the URL and producing GitHub run.
+
+If the implementation was merged before configuration, run **Actions → Documentation → Run workflow → main** once to build with the selected origin. For transport-only retries, use **Publish documentation → Run workflow**, providing the successful main run ID and exact commit. Draft artifacts are rejected, and every delivered file is verified.
+
+### Limits and recovery
+
+Vercel also has upload, file and bandwidth limits. The transport uses its documented split archive option for large prebuilt outputs; this does not promise unlimited hosting. If the platform rejects an account quota or permission, retain the failure and explicitly adjust the host/account. Failed publication keeps the last successful deployment active.
+
+General document validation records site size without enforcing another host's quota. The Pages-specific publication path still checks its 1 GB limit. Switching back to Pages requires a complete artifact that fits that limit.
+
+References: [project linking](https://vercel.com/docs/cli/link), [prebuilt deployment](https://vercel.com/docs/cli/deploy), [split archive uploads](https://vercel.com/changelog/cli-archive-deployments-are-now-up-to-30-faster-with-split-tgz-archive), and [current Vercel limits](https://vercel.com/docs/limits).

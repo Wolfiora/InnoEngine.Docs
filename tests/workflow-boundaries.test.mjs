@@ -57,7 +57,7 @@ test('candidate validation has no App, deployment or cross-repository mutation p
   }
 });
 
-test('Pages publication only accepts main and transports the checked artifact without rebuilding', async () => {
+test('publication only accepts main and transports checked artifacts to the selected host without rebuilding', async () => {
   const value = await workflow('publish');
   assert.deepEqual(value.on.workflow_run, { workflows: ['Documentation'], types: ['completed'], branches: ['main'] });
   assert.deepEqual(Object.keys(value.on.workflow_dispatch.inputs), ['documentation_run', 'documentation_commit']);
@@ -68,7 +68,17 @@ test('Pages publication only accepts main and transports the checked artifact wi
   assert.equal(value.jobs.deploy.needs, 'verify');
   assert.deepEqual(value.jobs.deploy.permissions, { pages: 'write', 'id-token': 'write' });
   const text = JSON.stringify(value.jobs);
-  assert.doesNotMatch(text, /npm ci|npm install|npm run build|prepare-catalog|actions\/cache|engine_run|engine_commit|secrets\.|create-github-app-token|bootstrap/);
+  assert.doesNotMatch(text, /npm install|npm run build|prepare-catalog|actions\/cache|engine_run|engine_commit|create-github-app-token|bootstrap/);
+  const installs = value.jobs.verify.steps.filter(step => /npm ci/.test(step.run ?? ''));
+  assert.equal(installs.length, 1);
+  assert.equal(installs[0].run, 'npm ci --prefix .github/deployment');
+  assert.equal(installs[0].if, "env.DOCS_HOSTING == 'vercel'");
+  const privileged = value.jobs.verify.steps.filter(step => /secrets\./.test(JSON.stringify(step)));
+  assert.equal(privileged.length, 1);
+  assert.equal(privileged[0].if, "env.DOCS_HOSTING == 'vercel'");
+  assert.equal(privileged[0].env.VERCEL_TOKEN, '${{ secrets.VERCEL_TOKEN }}');
+  assert.match(privileged[0].run, /--prebuilt --archive=split-tgz --prod/);
+  assert.match(value.jobs.deploy.if, /DOCS_HOSTING != 'vercel'/);
   assert.match(text, /publication-source.mjs select artifacts\/publication\/closing-selection.json/);
   for (const step of value.jobs.verify.steps) if (step.uses?.startsWith('actions/checkout@')) {
     assert.equal(step.with.ref, undefined);
