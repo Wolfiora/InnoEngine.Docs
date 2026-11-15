@@ -13,8 +13,8 @@ GitHub Actions validates the documentation and publishes its checked artifact to
 | Event | Validation | Publication |
 | --- | --- | --- |
 | Feature branch without a PR | Local work only | None |
-| PR into draft, or draft update | Content, examples, website and browser checks | Downloadable preview only |
-| Draft to main PR | Checks the proposed publication inputs | None |
+| PR into draft, or draft update | Affected pages and relationships; reuse unchanged example checks | Partial preview, when rendering is needed |
+| Draft to main PR | Complete merge candidate, search index and Release checks | Downloadable complete candidate only |
 | Human merge into main | Validates or reuses exact matching evidence | Deploys the verified Pages archive |
 | Manual Documentation run on main | Same input and evidence checks | Republishes eligible main content |
 
@@ -35,6 +35,10 @@ Only the deploy job receives `pages: write` and `id-token: write`. It uses the r
 The pipeline freezes the validated site's file identities, checks the publication size, and uploads one Pages-compatible archive. That archive is both the downloadable preview and the delivery artifact. To inspect a preview locally, unpack the downloaded ZIP, then its `artifact.tar`, and serve the files under `/InnoEngine.Docs/`.
 
 Draft checks use an Incremental plan and explicitly partial previews. A release PR validates its complete merge candidate and archives one site. Main can reuse that authenticated Release artifact when content, API binding, controls, origin and runtime inputs match, even if the commit identity changes. Candidate control code must match trusted main; otherwise main revalidates once. Linux portability has a separate input-bound receipt. Expired or missing evidence causes execution; altered authenticated evidence fails visibly.
+
+A partial preview contains only the pages listed in its `partial-preview.json`. Links are checked against the complete candidate catalog, so a valid link can point to a page that was deliberately not rendered in that preview. Use the complete Release candidate to browse the whole proposed site. Partial previews expire after seven days and cannot be deployed.
+
+For ordinary prose edits, inspect the selected-page reasons and example reuse counts in the workflow diagnostics. Unchanged example groups reuse their matching compiler receipts; prose does not select Pagefind or the full browser suite. Shared CSS changes select representative reading layouts and their necessary context pages. Repository README and record edits check their own links without rendering the product site.
 
 Publication verifies the artifact producer and actual publication inputs, confirms current required validation, rejects an obsolete main revision, and asks GitHub Pages to deploy the existing artifact ID. It does not rebuild, copy source files into a publishing branch, or upload another site. Both fresh and reused archives preserve their original producer identity.
 
