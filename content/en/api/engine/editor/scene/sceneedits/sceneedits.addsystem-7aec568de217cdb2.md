@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7aec568de217cdb2d19f86067aa71d5b894576b9ad329cee9c94d7c4fe973dc1
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddSystem(Inno.Scene.GameScene,System.Type,System.String)"
-source: xml
-reviewed: 77a53942aca11737a59dcdf4615337787ed82f0d14aa9a9e0c1397d14526936d
-title: "SceneEdits.AddSystem"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddSystem(Inno.Scene.GameScene,System.Type,System.String)
+title: SceneEdits.AddSystem
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 77a53942aca11737a59dcdf4615337787ed82f0d14aa9a9e0c1397d14526936d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one scene system and records its identity, stable type, index, and persistent properties.

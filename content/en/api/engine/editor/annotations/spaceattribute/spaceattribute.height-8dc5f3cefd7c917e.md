@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8dc5f3cefd7c917e3a16caa643a32cd99d3921941645206714357f64f1848ad3
-symbol: "engine:Inno.Editor.Annotations:P:Inno.Editor.Annotations.SpaceAttribute.height"
-source: xml
-reviewed: eed05c0446e0689598a2d063934fb7c6b32b2470567b65bdf9543e4637a4e53a
-title: "SpaceAttribute.height"
+symbol: engine:Inno.Editor.Annotations:P:Inno.Editor.Annotations.SpaceAttribute.height
+title: SpaceAttribute.height
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: eed05c0446e0689598a2d063934fb7c6b32b2470567b65bdf9543e4637a4e53a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the logical pixel height.

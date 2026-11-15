@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d7fe0a81648fbaf5dfd0f4badbbc07b9a1463e74c56b5707875a82b8fb381c1b
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindTexture(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderSamplerState)"
-source: xml
-reviewed: ced913886f4629484ff6f86cd33d4128f2be52b8422d3b238462c633675364f7
-title: "RenderCommandEncoder.BindTexture"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindTexture(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderSamplerState)
+title: RenderCommandEncoder.BindTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: ced913886f4629484ff6f86cd33d4128f2be52b8422d3b238462c633675364f7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a sampled texture and its sampler to a shader binding.

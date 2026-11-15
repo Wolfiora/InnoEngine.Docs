@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6f14f4f61691d80da0a76b73fbec871b53373ca5e7c2a2633b637d4e8c84163b
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioProcessorConfiguration.id"
-source: xml
-reviewed: b9e60b306675bd66033aaa2248c234c2bafe3b2f54d4052ed58eac977ea0d429
-title: "AudioProcessorConfiguration.id"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioProcessorConfiguration.id
+title: AudioProcessorConfiguration.id
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: b9e60b306675bd66033aaa2248c234c2bafe3b2f54d4052ed58eac977ea0d429
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the open processor protocol identifier.

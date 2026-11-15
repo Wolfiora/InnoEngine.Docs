@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4ed957cc7ac33090afb5bbf03fcb8f60e6fca712e5d4c4f1c7748d8a853748cf
-symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.windowPadding"
-source: xml
-reviewed: 20a4953704de97b54cb8f81fa06a33b2caf95d8056d043727f25a8257b44dc68
-title: "EditorStyleMetrics.windowPadding"
+symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.windowPadding
+title: EditorStyleMetrics.windowPadding
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 20a4953704de97b54cb8f81fa06a33b2caf95d8056d043727f25a8257b44dc68
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets standard window padding.

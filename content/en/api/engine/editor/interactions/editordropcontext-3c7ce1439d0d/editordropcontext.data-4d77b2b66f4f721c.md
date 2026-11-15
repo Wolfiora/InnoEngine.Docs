@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d77b2b66f4f721c8f1f59443cbdb167e9b87f910b13bed06ce9ae7cd6261b82
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropContext.data"
-source: xml
-reviewed: 6d92933b748f7f2398447dca7448f7910460cd02062fff01a24a554d411aa396
-title: "EditorDropContext.data"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropContext.data
+title: EditorDropContext.data
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6d92933b748f7f2398447dca7448f7910460cd02062fff01a24a554d411aa396
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the active managed drag data.

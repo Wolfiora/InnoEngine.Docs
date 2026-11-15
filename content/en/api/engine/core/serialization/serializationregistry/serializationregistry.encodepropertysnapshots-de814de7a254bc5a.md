@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.de814de7a254bc5a9f8df21cd1afee22230e0ad2d72e0fe604c475f4a9532ddb
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.EncodePropertySnapshots(System.Collections.Generic.IReadOnlyList{Inno.Core.Serialization.SerializationPropertySnapshot})"
-source: xml
-reviewed: 85c0113168e37c81d8ee41a3c9e0104cdc816fc853c102747949d8675c094f19
-title: "SerializationRegistry.EncodePropertySnapshots"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.EncodePropertySnapshots(System.Collections.Generic.IReadOnlyList{Inno.Core.Serialization.SerializationPropertySnapshot})
+title: SerializationRegistry.EncodePropertySnapshots
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 85c0113168e37c81d8ee41a3c9e0104cdc816fc853c102747949d8675c094f19
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes an existing ordered set of independent property snapshots as neutral restoration bytes.

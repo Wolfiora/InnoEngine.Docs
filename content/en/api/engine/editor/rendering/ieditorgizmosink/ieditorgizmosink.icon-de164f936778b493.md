@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.de164f936778b493157abd567823420ea7c180cd85f9cdda3fb8ffde122c9672
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorGizmoSink.Icon(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Vector3,System.String)"
-source: xml
-reviewed: cf827c97b1886e494581c0086c4d302ecb3a46da1603702ee8c095f4102fb996
-title: "IEditorGizmoSink.Icon"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorGizmoSink.Icon(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Vector3,System.String)
+title: IEditorGizmoSink.Icon
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: cf827c97b1886e494581c0086c4d302ecb3a46da1603702ee8c095f4102fb996
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a visible, selectable icon at an object's world position.

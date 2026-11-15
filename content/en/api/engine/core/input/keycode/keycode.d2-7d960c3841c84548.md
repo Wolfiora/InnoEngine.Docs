@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7d960c3841c84548ae456b38b03dd4df60b36d0462770ac45dad09eafcfc77fd
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.D2"
-source: xml
-reviewed: b4e44e66a3e1689bb16d9a4deba19f50b5b1deb94e9f37566dce1f56ffabc1c9
-title: "KeyCode.D2"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.D2
+title: KeyCode.D2
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: b4e44e66a3e1689bb16d9a4deba19f50b5b1deb94e9f37566dce1f56ffabc1c9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The 2 key on the primary keyboard row.

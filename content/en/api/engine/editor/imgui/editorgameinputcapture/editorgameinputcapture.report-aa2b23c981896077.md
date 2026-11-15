@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aa2b23c981896077094e464f6e19a7ecf050f143fdd530c01748873eb3e8260a
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Report(System.UInt32,System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 06e31ea972dbc8ee0c27d6a989abbfe751bf36bbe680f6fdd4930eb57f2befc7
-title: "EditorGameInputCapture.Report"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Report(System.UInt32,System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean,System.Boolean)
+title: EditorGameInputCapture.Report
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 06e31ea972dbc8ee0c27d6a989abbfe751bf36bbe680f6fdd4930eb57f2befc7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reports the Game View image in coordinates local to its platform window.

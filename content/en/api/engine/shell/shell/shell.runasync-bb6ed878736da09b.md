@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb6ed878736da09b9bdb56970b43279c8af2b33d4ec307076416895ca0c37c89
-symbol: "engine:Inno.Shell:M:Inno.Shell.Shell.RunAsync(Inno.Shell.IShellFrameDriver,System.Nullable{System.Int32},System.Threading.CancellationToken)"
-source: xml
-reviewed: 83277be2b8441efb48cd923942fe58fed10e3dabd88d946c4078bb9a90a717bf
-title: "Shell.RunAsync"
+symbol: engine:Inno.Shell:M:Inno.Shell.Shell.RunAsync(Inno.Shell.IShellFrameDriver,System.Nullable{System.Int32},System.Threading.CancellationToken)
+title: Shell.RunAsync
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: 83277be2b8441efb48cd923942fe58fed10e3dabd88d946c4078bb9a90a717bf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs one shell lifecycle using an explicitly selected owner-thread frame driver.

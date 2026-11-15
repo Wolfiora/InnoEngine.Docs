@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.707986871ad9f1d471785ec3b29b838ae47fb73a12eabe94ac9ff9e0dbf5c566
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ConstrainedContent(System.String,System.Action,System.Boolean)"
-source: xml
-reviewed: f1e80929ad625e12b8bfdb47b9814db0805fd69b28e68b36f94760ed549d6f8a
-title: "ImGuiWidget.ConstrainedContent"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ConstrainedContent(System.String,System.Action,System.Boolean)
+title: ImGuiWidget.ConstrainedContent
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: f1e80929ad625e12b8bfdb47b9814db0805fd69b28e68b36f94760ed549d6f8a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a vertically auto-sized content region that is constrained to the current available width and cannot create an independent scroll range.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2318dbe7ef25ae109775936d1aa14407aec5ee58c16e3252b0788768b8b50161
-symbol: "engine:Inno.Assets:M:Inno.Assets.ArtifactLease.Dispose"
-source: xml
-reviewed: 36d0472c5be8074424ba8fcd4b39a9e1ba04790d2142bb91e174924a9b800d42
-title: "ArtifactLease.Dispose"
+symbol: engine:Inno.Assets:M:Inno.Assets.ArtifactLease.Dispose
+title: ArtifactLease.Dispose
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 36d0472c5be8074424ba8fcd4b39a9e1ba04790d2142bb91e174924a9b800d42
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases artifact ownership, retaining metadata and callback while the provider reports Pending.

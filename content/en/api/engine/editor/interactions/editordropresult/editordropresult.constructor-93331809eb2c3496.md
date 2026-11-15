@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.93331809eb2c3496e94bff2df375aa45681eaaef0f74c644aa231033865e3237
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDropResult.#ctor(System.Boolean,System.Object,System.Object)"
-source: xml
-reviewed: e9f3873e6f5a2ab5eab4765f8c2418b69410530c52362a13599bcd3714207584
-title: "EditorDropResult.Constructor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDropResult.#ctor(System.Boolean,System.Object,System.Object)
+title: EditorDropResult.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: e9f3873e6f5a2ab5eab4765f8c2418b69410530c52362a13599bcd3714207584
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the observable result of a completed drop operation.

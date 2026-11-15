@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e72857d1b17dc7de7d2fed3392443a7737234fd8a703895d9f3db664a3c07397
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.TryRender(InnoEditor.Rendering.EditorViewportComposition,InnoEditor.Rendering.EditorPreviewHandle@)"
-source: xml
-reviewed: 7a32c65b75436f8bf55fc32ffdfeb9e547d528addb7d0c5c73945ba2af394398
-title: "IEditorPreviewService.TryRender"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.TryRender(InnoEditor.Rendering.EditorViewportComposition,InnoEditor.Rendering.EditorPreviewHandle@)
+title: IEditorPreviewService.TryRender
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 7a32c65b75436f8bf55fc32ffdfeb9e547d528addb7d0c5c73945ba2af394398
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Submits an isolated rendering composition through the shared offscreen viewport bridge.

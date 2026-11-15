@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6212b3da6d9751489c2b9bfa8dfde643150e3e96bfa8653181dd0711a367f92a
-symbol: "engine:Inno.Animation:M:Inno.Animation.AnimationSampling.AddWeighted(Inno.Animation.AnimationValue,Inno.Animation.AnimationValue,System.Single)"
-source: xml
-reviewed: e3e78258a72358c99f38b719884ea9a0d413f8d5bdba11512ff92ff7dc5caa1f
-title: "AnimationSampling.AddWeighted"
+symbol: engine:Inno.Animation:M:Inno.Animation.AnimationSampling.AddWeighted(Inno.Animation.AnimationValue,Inno.Animation.AnimationValue,System.Single)
+title: AnimationSampling.AddWeighted
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: source-clr
+reviewed: e3e78258a72358c99f38b719884ea9a0d413f8d5bdba11512ff92ff7dc5caa1f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one weighted value to an accumulation of the same kind.

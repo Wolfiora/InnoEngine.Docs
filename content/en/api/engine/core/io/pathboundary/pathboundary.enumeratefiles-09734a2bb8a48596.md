@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09734a2bb8a48596fa1393374855bfbaeaa02a17f75c714b2db9116507b13846
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.EnumerateFiles(System.String)"
-source: xml
-reviewed: 9841e1892b8c08f97b62783078c76a57d01aac25090af75e4231ae50e25eb759
-title: "PathBoundary.EnumerateFiles"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.EnumerateFiles(System.String)
+title: PathBoundary.EnumerateFiles
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 9841e1892b8c08f97b62783078c76a57d01aac25090af75e4231ae50e25eb759
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Enumerates regular files in an owned tree without following filesystem links.

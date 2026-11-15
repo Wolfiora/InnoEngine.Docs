@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bd27f67788ddc8e6fe3f68a22828ec38bc5e79eb747ef49ef81973a1f1bea86c
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.GetDependencies(Inno.Assets.AssetObject)"
-source: xml
-reviewed: 44b704d9c8a6c30cbda98765a7f0dd6241a85745da612413eeb19e3dc955534b
-title: "AssetDatabase.GetDependencies"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetDatabase.GetDependencies(Inno.Assets.AssetObject)
+title: AssetDatabase.GetDependencies
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 44b704d9c8a6c30cbda98765a7f0dd6241a85745da612413eeb19e3dc955534b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the direct persistent dependencies declared by one loaded or cataloged asset.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d2431d90463444edc0921791b3ec64056fb6e0665745f11b59f6a1d1398c5a47
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Transform(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Quaternion)"
-source: xml
-reviewed: 9dc8e597e8478863ba31e11c77e68ce800d705738e1dfcf42c5a88f6fa76762b
-title: "Vector2.Transform"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Transform(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Quaternion)
+title: Vector2.Transform
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 9dc8e597e8478863ba31e11c77e68ce800d705738e1dfcf42c5a88f6fa76762b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Transforms the supplied value by the requested transformation.

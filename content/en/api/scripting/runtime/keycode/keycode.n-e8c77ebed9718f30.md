@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e8c77ebed9718f30b180f2684b9e3a8afcf394e7862943fc3fbe119bfb77b26e
-symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.N"
-source: xml
-reviewed: 2ed085d56e195294208698af71296d8f866a42052c9a6c9fb033daec399e61b7
-title: "KeyCode.N"
+symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.N
+title: KeyCode.N
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: editor-script
+reviewed: 2ed085d56e195294208698af71296d8f866a42052c9a6c9fb033daec399e61b7
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The N letter key.

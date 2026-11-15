@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c2fe51bb4ee44b464154aaffcc37da62e92a29be6f12b72a2c233d62e32d6e62
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDeviceLimits.#ctor(System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: 1b15a64cb0236b40412b9fc289c57a8e4c6e6becadbab70b51520a4932d53182
-title: "AudioDeviceLimits.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioDeviceLimits.#ctor(System.Int32,System.Int32,System.Int32)
+title: AudioDeviceLimits.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 1b15a64cb0236b40412b9fc289c57a8e4c6e6becadbab70b51520a4932d53182
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates immutable positive capacities for one backend generation.

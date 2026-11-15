@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c2f4603d9b4ad92ed413b274bf923c9f67df18f9eed862625ee065f4441f970e
-symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.EnsurePlayerSupportPackAsync(Inno.Build.BuildTargetId,System.Nullable{Inno.Build.Managed.ManagedDeploymentId},System.Threading.CancellationToken)"
-source: xml
-reviewed: 2b8e7caacebb1f85f36ace2cb35834652aef2b7f11b338ccdd73f441a6fffea8
-title: "BuildPipeline.EnsurePlayerSupportPackAsync"
+symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.EnsurePlayerSupportPackAsync(Inno.Build.BuildTargetId,System.Nullable{Inno.Build.Managed.ManagedDeploymentId},System.Threading.CancellationToken)
+title: BuildPipeline.EnsurePlayerSupportPackAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 2b8e7caacebb1f85f36ace2cb35834652aef2b7f11b338ccdd73f441a6fffea8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates the platform and managed deployment before asynchronously preparing its Support Pack.

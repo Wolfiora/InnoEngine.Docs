@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.266b1af81afdeeea1294c8fb3c7359163cb151b2637d679b9bdc7ac1d9a0feba
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadata.Equals(InnoEngine.Audio.AudioClipMetadata)"
-source: xml
-reviewed: f927b4efabb0ad0e6d105931e6c4d4a8b9c40d84d4625b2251fe9c920d38a08e
-title: "AudioClipMetadata.Equals"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadata.Equals(InnoEngine.Audio.AudioClipMetadata)
+title: AudioClipMetadata.Equals
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: f927b4efabb0ad0e6d105931e6c4d4a8b9c40d84d4625b2251fe9c920d38a08e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

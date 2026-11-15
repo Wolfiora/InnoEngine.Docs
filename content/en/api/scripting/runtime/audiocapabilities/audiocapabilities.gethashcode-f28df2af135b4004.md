@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f28df2af135b400413aeaa3a9e385d7db3890695273cc45dbfc1ca96b362b90f
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioCapabilities.GetHashCode"
-source: xml
-reviewed: 207353dba7e0a9aa3af6f79fcecc26766e2e39fb605aa5069265b9ba21757b1f
-title: "AudioCapabilities.GetHashCode"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioCapabilities.GetHashCode
+title: AudioCapabilities.GetHashCode
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 207353dba7e0a9aa3af6f79fcecc26766e2e39fb605aa5069265b9ba21757b1f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serves as the default hash function.

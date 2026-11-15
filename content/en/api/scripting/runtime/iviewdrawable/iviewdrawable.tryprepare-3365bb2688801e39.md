@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3365bb2688801e398f05cebb5c3111a0228ca21ae8dfa40e1a3c9cefe983b29d
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IViewDrawable.TryPrepare(InnoEngine.Rendering.RenderPipelineContext,InnoEngine.Rendering.RenderView,InnoEngine.Rendering.IPreparedViewDrawable@)"
-source: xml
-reviewed: 7fb765e48a9855685a4bc65200b1c8b09af2ebc8c87c2b74bed320bd29d84fd3
-title: "IViewDrawable.TryPrepare"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IViewDrawable.TryPrepare(InnoEngine.Rendering.RenderPipelineContext,InnoEngine.Rendering.RenderView,InnoEngine.Rendering.IPreparedViewDrawable@)
+title: IViewDrawable.TryPrepare
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 7fb765e48a9855685a4bc65200b1c8b09af2ebc8c87c2b74bed320bd29d84fd3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves reusable resources before render graph execution.

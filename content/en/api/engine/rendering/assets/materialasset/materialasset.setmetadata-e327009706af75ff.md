@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e327009706af75ffc179e1d37dd417692be782d471473cb86ad6e964cbcfca6a
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.MaterialAsset.SetMetadata(System.String,System.String)"
-source: xml
-reviewed: c9aab001bd6ad4b63aeaf7da9aa12bf79bfe09d18f7f6a6a51ba558b7a76487d
-title: "MaterialAsset.SetMetadata"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.MaterialAsset.SetMetadata(System.String,System.String)
+title: MaterialAsset.SetMetadata
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: c9aab001bd6ad4b63aeaf7da9aa12bf79bfe09d18f7f6a6a51ba558b7a76487d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates or replaces one provider-defined metadata value.

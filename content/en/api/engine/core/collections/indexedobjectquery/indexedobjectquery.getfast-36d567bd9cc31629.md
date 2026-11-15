@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.36d567bd9cc316297c6a137e847da67b7179b9aa61c2f65c0cb2feb92580ec41
-symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectQuery\u00601.GetFast"
-source: xml
-reviewed: 99e2e54d27563b1e84a7e8e9018cf901ed2fccd9739161dc473ae91811f83243
-title: "IndexedObjectQuery\u003CT\u003E.GetFast"
+symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectQuery`1.GetFast
+title: IndexedObjectQuery<T>.GetFast
 kind: api
-owners: [Inno.Core.Collections]
+owners:
+- Inno.Core.Collections
 apiSurface: source-clr
+reviewed: 99e2e54d27563b1e84a7e8e9018cf901ed2fccd9739161dc473ae91811f83243
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes the query and returns a lazy fail-fast enumerable of results.

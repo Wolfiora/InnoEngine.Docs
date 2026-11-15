@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ee80065545a1c20bd308b7a52a9cafaad027661b30eefc854dcfcf327e742b7b
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryChange.#ctor(System.String,InnoEditor.Interactions.EditorHistoryPayload,System.String)"
-source: xml
-reviewed: c930735ce5185ea3263955bd9a17ab95cec1b406e89b27d4123bf9241100a94b
-title: "EditorHistoryChange.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryChange.#ctor(System.String,InnoEditor.Interactions.EditorHistoryPayload,System.String)
+title: EditorHistoryChange.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: c930735ce5185ea3263955bd9a17ab95cec1b406e89b27d4123bf9241100a94b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a neutral history change.

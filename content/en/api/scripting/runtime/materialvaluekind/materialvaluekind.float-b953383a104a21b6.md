@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b953383a104a21b6bb1b74912572c73ad1ce7c8aca0c6ddc00d3bf886fc6020d
-symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.MaterialValueKind.Float"
-source: xml
-reviewed: d701b2e5968fb6cd210fb8452a540d353bbc62a7224ba27ee909d00f1eeaac94
-title: "MaterialValueKind.Float"
+symbol: scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.MaterialValueKind.Float
+title: MaterialValueKind.Float
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: d701b2e5968fb6cd210fb8452a540d353bbc62a7224ba27ee909d00f1eeaac94
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Scalar floating-point value.

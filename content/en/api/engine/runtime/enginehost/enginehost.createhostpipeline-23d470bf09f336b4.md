@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.23d470bf09f336b44035a1e38290bff102c24fb20abde52546612e53336d22ae
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.EngineHost.CreateHostPipeline(System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.IRuntimeSubsystemFactory},System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeCapabilityId})"
-source: xml
-reviewed: 356887723513432b643a43e8f4ba3f6d4ccd8e067f855e63f26f26474b98d457
-title: "EngineHost.CreateHostPipeline"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.EngineHost.CreateHostPipeline(System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.IRuntimeSubsystemFactory},System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeCapabilityId})
+title: EngineHost.CreateHostPipeline
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 356887723513432b643a43e8f4ba3f6d4ccd8e067f855e63f26f26474b98d457
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates host-owned subsystems that outlive individual Edit, Play or Player sessions.

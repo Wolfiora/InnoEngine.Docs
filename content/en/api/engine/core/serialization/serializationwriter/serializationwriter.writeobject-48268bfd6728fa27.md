@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.48268bfd6728fa2790cb6be50c57ea8c9f60d286f22fa938d3e0ae32a1d30c34
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.WriteObject(System.String,System.Action{Inno.Core.Serialization.SerializationWriter})"
-source: xml
-reviewed: ef051a55cc3557795c511de8f12fa1313cdd264233dcf8723e94cd8dccab4d24
-title: "SerializationWriter.WriteObject"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.WriteObject(System.String,System.Action{Inno.Core.Serialization.SerializationWriter})
+title: SerializationWriter.WriteObject
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: ef051a55cc3557795c511de8f12fa1313cdd264233dcf8723e94cd8dccab4d24
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a named structured object.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.58881096f3fec06de0cbc3b26871e934db4190162f47f24ab535af2c270a6c36
-symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationTextureHandle.GetHashCode"
-source: xml
-reviewed: 20bf3a10165d9e31f9851d9dd3e01d1b07b07f910bf9b1c402b2259725a259a1
-title: "PresentationTextureHandle.GetHashCode"
+symbol: engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationTextureHandle.GetHashCode
+title: PresentationTextureHandle.GetHashCode
 kind: api
-owners: [Inno.Adapter.Presentation]
+owners:
+- Inno.Adapter.Presentation
 apiSurface: source-clr
+reviewed: 20bf3a10165d9e31f9851d9dd3e01d1b07b07f910bf9b1c402b2259725a259a1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

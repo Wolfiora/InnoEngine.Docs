@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d83e12b547eb60d1360694065de6dceca2be17366cf3107bf1af4eaec124976
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorContext.TryGetLayoutSection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String}@)"
-source: xml
-reviewed: cad8d8686c7dcec86477a5a1735053c117a5c0a8b2298f12801410c1dfc781bd
-title: "EditorContext.TryGetLayoutSection"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorContext.TryGetLayoutSection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String}@)
+title: EditorContext.TryGetLayoutSection
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: cad8d8686c7dcec86477a5a1735053c117a5c0a8b2298f12801410c1dfc781bd
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to read one independent editor layout section snapshot.

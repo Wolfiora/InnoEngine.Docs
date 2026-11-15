@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.47d09ad5c012fb540edaac3e008f091d8e7ead749256b8642f8998b9b1ee3a91
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphLiteral.Zero(Inno.Rendering.Shaders.ShaderSourceType)"
-source: xml
-reviewed: de320cffd2c88b721646a282c1ff1b76eab9b8c2241253d1918a1cdcb5fe70e0
-title: "ShaderGraphLiteral.Zero"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphLiteral.Zero(Inno.Rendering.Shaders.ShaderSourceType)
+title: ShaderGraphLiteral.Zero
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: de320cffd2c88b721646a282c1ff1b76eab9b8c2241253d1918a1cdcb5fe70e0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an explicit zero value for a supported scalar, vector, matrix, structure or array.

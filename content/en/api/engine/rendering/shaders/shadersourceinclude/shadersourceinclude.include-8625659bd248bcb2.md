@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8625659bd248bcb20bca4167da3fac1f8503715a00acdd3a214830d4599753b7
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceInclude.include"
-source: xml
-reviewed: f0efafca846652bec607529bdfd3f104172f3cea46a3fab23fcd0c18de4c38b4
-title: "ShaderSourceInclude.include"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceInclude.include
+title: ShaderSourceInclude.include
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: f0efafca846652bec607529bdfd3f104172f3cea46a3fab23fcd0c18de4c38b4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Original include spelling passed to the source resolver.

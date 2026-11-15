@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cbe7f04526b92440faa16ecc18a38f4e23c0d716ed1b47bb4ec87f680deec78a
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3.LEFT"
-source: xml
-reviewed: 041ddc3ce2492bd1ab7a6268e3b574d989ec5f325fb4138f8249aef959b873a3
-title: "Vector3.LEFT"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3.LEFT
+title: Vector3.LEFT
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 041ddc3ce2492bd1ab7a6268e3b574d989ec5f325fb4138f8249aef959b873a3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The left value used as part of this type's public representation.

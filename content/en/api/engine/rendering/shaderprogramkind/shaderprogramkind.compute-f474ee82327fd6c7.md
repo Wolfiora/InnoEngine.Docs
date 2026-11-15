@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f474ee82327fd6c709b7687e9beca747a1dc678b4585eb8886577cf338fd287f
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.ShaderProgramKind.Compute"
-source: xml
-reviewed: 475fc9f8956b3048a9ff71e2200dd0eeac31eefb1f59e2c23f20a13b6e25c5e2
-title: "ShaderProgramKind.Compute"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.ShaderProgramKind.Compute
+title: ShaderProgramKind.Compute
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 475fc9f8956b3048a9ff71e2200dd0eeac31eefb1f59e2c23f20a13b6e25c5e2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 A compute stage used by a compute pass.

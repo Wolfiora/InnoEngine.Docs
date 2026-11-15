@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ee1a5a321162215f62a72f837abeebadef084a7de8a1b0611641b2dc02c18d0
-symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentFrontendRegistry.Build(Inno.Extensibility.Types.TypeCacheSnapshot)"
-source: xml
-reviewed: 699393046529ef8530493b05d71009568e4257f5d776f36b3fd80ae0b9f6fdec
-title: "UiDocumentFrontendRegistry.Build"
+symbol: engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentFrontendRegistry.Build(Inno.Extensibility.Types.TypeCacheSnapshot)
+title: UiDocumentFrontendRegistry.Build
 kind: api
-owners: [Inno.UI.Assets]
+owners:
+- Inno.UI.Assets
 apiSurface: source-clr
+reviewed: 699393046529ef8530493b05d71009568e4257f5d776f36b3fd80ae0b9f6fdec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds a validated result from the current immutable input snapshot.

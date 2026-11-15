@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cfd758feb96519e49c701a4203917cd7d53d5acc84fe114b7387801dc5f812c2
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioClipMetadata.frameCount"
-source: xml
-reviewed: 0a3efeef211234643bf6dabb93fc7754f49b78debe209fd3e93c35c480170acf
-title: "AudioClipMetadata.frameCount"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioClipMetadata.frameCount
+title: AudioClipMetadata.frameCount
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 0a3efeef211234643bf6dabb93fc7754f49b78debe209fd3e93c35c480170acf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the total decoded frame count.

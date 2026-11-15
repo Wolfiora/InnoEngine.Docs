@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4cff2206cba068fa53019a9960e44c4da663bbf7e946d40d84b9e1788abaf51c
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsPipelineHandle.ToString"
-source: xml
-reviewed: e8ad56721c1a7150574a63c939a61e31cfdfd08447edf6d87130c62802c978a3
-title: "GraphicsPipelineHandle.ToString"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsPipelineHandle.ToString
+title: GraphicsPipelineHandle.ToString
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: e8ad56721c1a7150574a63c939a61e31cfdfd08447edf6d87130c62802c978a3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

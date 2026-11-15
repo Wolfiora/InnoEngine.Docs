@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2fdf9348190a94b16c69074898321e0f07010fef41a93fd45a4f2e67f8040c12
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Restore(Inno.Scene.GameScene,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Scene.Components.Transform,System.Int32)"
-source: xml
-reviewed: 3dfe29be479b7da91e50c8fe7aae1b483399fe3d3e98066557b17004dc114884
-title: "SceneSubtreeSerialization.Restore"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Restore(Inno.Scene.GameScene,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Scene.Components.Transform,System.Int32)
+title: SceneSubtreeSerialization.Restore
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 3dfe29be479b7da91e50c8fe7aae1b483399fe3d3e98066557b17004dc114884
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores a previously captured subtree into a loaded scene with its original persistent identities.

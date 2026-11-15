@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fad1c99c290197f67ec1e9608ad04358141d207dfaab825241921881686a6865
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Install(System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 8f98cdd97c637c5c8068291de1898a58d35dc1198a4681f0415307e4e99465c7
-title: "AtomicDirectory.Install"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Install(System.String,System.String,System.Threading.CancellationToken)
+title: AtomicDirectory.Install
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 8f98cdd97c637c5c8068291de1898a58d35dc1198a4681f0415307e4e99465c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Installs a disjoint candidate tree and restores the previous destination if installation fails.

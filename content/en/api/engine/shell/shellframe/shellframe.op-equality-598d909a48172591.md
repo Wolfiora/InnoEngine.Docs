@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.598d909a48172591dca75253aa1f0c1486fef462c03046664be0a1f71c527347
-symbol: "engine:Inno.Shell:M:Inno.Shell.ShellFrame.op_Equality(Inno.Shell.ShellFrame,Inno.Shell.ShellFrame)"
-source: xml
-reviewed: 506a7468e7627f64ccd6fca7957e8631c5325bba356f3176ad7f4e6517b16c88
-title: "ShellFrame.op_Equality"
+symbol: engine:Inno.Shell:M:Inno.Shell.ShellFrame.op_Equality(Inno.Shell.ShellFrame,Inno.Shell.ShellFrame)
+title: ShellFrame.op_Equality
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: 506a7468e7627f64ccd6fca7957e8631c5325bba356f3176ad7f4e6517b16c88
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

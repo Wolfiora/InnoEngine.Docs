@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.33114f98ab17841d313d24728f08d402cbbb274be9d99b3af4916ec510b1364b
-symbol: "engine:Inno.UI:F:Inno.UI.UiEventType.Click"
-source: xml
-reviewed: a2e849573e5d9c7879fa4867b458ed9d6d39ebcc970f5d5e703db4e0d711ecdc
-title: "UiEventType.Click"
+symbol: engine:Inno.UI:F:Inno.UI.UiEventType.Click
+title: UiEventType.Click
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: a2e849573e5d9c7879fa4867b458ed9d6d39ebcc970f5d5e703db4e0d711ecdc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The target was clicked.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.shaders.editor-script.0def49589f32cc91
-symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderNodePort"
-source: xml
-reviewed: 4e5b068d8e587db8a1c72c6d871844ff512094251b7ee173da9d5faae8d99ee3
-title: "ShaderNodePort"
+symbol: scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderNodePort
+title: ShaderNodePort
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 4e5b068d8e587db8a1c72c6d871844ff512094251b7ee173da9d5faae8d99ee3
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering-shaders

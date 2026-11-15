@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9305102657776ac2526d4d52e8e4a0848671d4e6cf18426b2fc8a40e39d2ba2d
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.body"
-source: xml
-reviewed: e30977bdb9e810c83a30811daff922631ea3cf908eaaa4d79ece4d41a9212cb9
-title: "ShaderIrStage.body"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.body
+title: ShaderIrStage.body
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: e30977bdb9e810c83a30811daff922631ea3cf908eaaa4d79ece4d41a9212cb9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets its immutable ordered instructions.

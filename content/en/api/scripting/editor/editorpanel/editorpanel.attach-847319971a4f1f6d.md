@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.847319971a4f1f6d0024cfbd24520a3cdfa978fca2ed2bb2de39d362388c82b9
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Attach(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: b04e4f05f714537822342f9b0057a890ae18504d0994bd155ca438f9e128d602
-title: "EditorPanel.Attach"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Attach(InnoEditor.Core.EditorContext)
+title: EditorPanel.Attach
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: b04e4f05f714537822342f9b0057a890ae18504d0994bd155ca438f9e128d602
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attaches the panel after its extension generation becomes active.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.36bf6dd28b2b59d42ef0b9fa073c02bb56cb84caa1a33461539ce78ff77f8769
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameCodeDeployment.ValidateMatches(Inno.Runtime.GameCodeDeployment)"
-source: xml
-reviewed: ad5d9f2d810b9829ce770eacc91d6a428a3862dd0bb631eaa8191b0f3326df37
-title: "GameCodeDeployment.ValidateMatches"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameCodeDeployment.ValidateMatches(Inno.Runtime.GameCodeDeployment)
+title: GameCodeDeployment.ValidateMatches
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: ad5d9f2d810b9829ce770eacc91d6a428a3862dd0bb631eaa8191b0f3326df37
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Rejects a manifest that differs from the code closure linked by the build.

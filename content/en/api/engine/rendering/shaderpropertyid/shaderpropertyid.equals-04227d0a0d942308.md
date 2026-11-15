@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.04227d0a0d9423082d3b74f3eee6363e7858294510492bf5812ced669ab023cd
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.ShaderPropertyId.Equals(System.Object)"
-source: xml
-reviewed: 05f5703485c6814e1c094b4f4ce565055f65738b027a206d6443397dd969b13d
-title: "ShaderPropertyId.Equals"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.ShaderPropertyId.Equals(System.Object)
+title: ShaderPropertyId.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 05f5703485c6814e1c094b4f4ce565055f65738b027a206d6443397dd969b13d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

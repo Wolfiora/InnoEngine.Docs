@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.011cba0a8d298221b0e3f14a3236df0db892193deaf32a3e6b5214a6821a38d3
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.ResetComponent(InnoEngine.Scene.GameComponent)"
-source: xml
-reviewed: b90931aa0b7ea14f0bfc1b5efb985a714ec896fe8d662de5ea3fa50e55d9e76f
-title: "GameObject.ResetComponent"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.ResetComponent(InnoEngine.Scene.GameComponent)
+title: GameObject.ResetComponent
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: b90931aa0b7ea14f0bfc1b5efb985a714ec896fe8d662de5ea3fa50e55d9e76f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores an attached component to the defaults defined by its optional Reset message.

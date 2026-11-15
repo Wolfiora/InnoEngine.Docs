@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.00686909b4ef517208f076b6fe58c43d12eff9ac9db59d2116a9c85ec278da83
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.Angle(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)"
-source: xml
-reviewed: a5a229f4cfd413205c00c4b6126f9436039617000814ea27e93df805f8ad86c7
-title: "Vector2.Angle"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.Angle(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)
+title: Vector2.Angle
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: a5a229f4cfd413205c00c4b6126f9436039617000814ea27e93df805f8ad86c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the unsigned angle in radians between two values.

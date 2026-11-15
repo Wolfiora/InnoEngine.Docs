@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f9377f390890646b23aab26377b93e0489cf2d470350204423bd0d732a957e0
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMount.#ctor(Inno.Assets.AssetSourceId,System.String,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Assets.AssetSourceId})"
-source: xml
-reviewed: 73a55a27d9cb12ccaa9aceb163297fa4aa7b8993afbddcfafd331d0a53e755ef
-title: "AssetSourceMount.Constructor"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMount.#ctor(Inno.Assets.AssetSourceId,System.String,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Assets.AssetSourceId})
+title: AssetSourceMount.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 73a55a27d9cb12ccaa9aceb163297fa4aa7b8993afbddcfafd331d0a53e755ef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an asset source mount.

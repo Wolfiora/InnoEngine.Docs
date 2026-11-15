@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.139d09f63ef6c14a3f32b646043344512bcd87569b566149e1927b0997e1821f
-symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderPreviewContext.#ctor(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.ShaderDefinition,InnoEngine.Diagnostics.IDiagnosticReporter,System.Int32,System.Int32)"
-source: xml
-reviewed: 1bceca9e8eff28bc2bb40926dac90f4ffc62776b5d22a48b0922d568eca0c7bf
-title: "ShaderPreviewContext.Constructor"
+symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderPreviewContext.#ctor(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.ShaderDefinition,InnoEngine.Diagnostics.IDiagnosticReporter,System.Int32,System.Int32)
+title: ShaderPreviewContext.Constructor
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: 1bceca9e8eff28bc2bb40926dac90f4ffc62776b5d22a48b0922d568eca0c7bf
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a preview invocation from host-owned detached inputs.

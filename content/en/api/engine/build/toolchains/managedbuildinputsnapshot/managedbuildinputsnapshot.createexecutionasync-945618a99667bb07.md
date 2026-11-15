@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.945618a99667bb072774c92dd949d32f8dc904f26f261813a50e17e5a749e3fb
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedBuildInputSnapshot.CreateExecutionAsync(System.Threading.CancellationToken)"
-source: xml
-reviewed: 38a166b5e1eed71b229ba70ea5d0099e1f8a225dcab10820084f3edd603363ec
-title: "ManagedBuildInputSnapshot.CreateExecutionAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedBuildInputSnapshot.CreateExecutionAsync(System.Threading.CancellationToken)
+title: ManagedBuildInputSnapshot.CreateExecutionAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 38a166b5e1eed71b229ba70ea5d0099e1f8a225dcab10820084f3edd603363ec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Materializes the operation's declared repository inputs into an exclusively owned source workspace. Compilers and source extraction must use the returned project and root, never the mutable checkout.

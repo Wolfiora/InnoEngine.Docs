@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bcc725323f67a8160ade62ca98c6e6180d8cc1c3e4be79291adb6b5c9fd7d0e3
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.EngineHostBuilder.UseMetadataSources(Inno.Extensibility.Modules.IAssemblyCatalogSource,Inno.Extensibility.Types.ITypeCatalogSource,Inno.Core.Serialization.ISerializationMetadataSource)"
-source: xml
-reviewed: 1c7a68a9f56aee0d4a7dfdcabe0ecefad6b52c3a396b2890654182523fe3026c
-title: "EngineHostBuilder.UseMetadataSources"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.EngineHostBuilder.UseMetadataSources(Inno.Extensibility.Modules.IAssemblyCatalogSource,Inno.Extensibility.Types.ITypeCatalogSource,Inno.Core.Serialization.ISerializationMetadataSource)
+title: EngineHostBuilder.UseMetadataSources
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 1c7a68a9f56aee0d4a7dfdcabe0ecefad6b52c3a396b2890654182523fe3026c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects the code and metadata implementation before creating the application host.

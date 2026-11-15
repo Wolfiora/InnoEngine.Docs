@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3e1be3e4d953fc809dd191742ffa93c6b4203cfcaabebb1248e062f0ec2fb5f0
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputText(System.String,System.String@,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)"
-source: xml
-reviewed: b69f13d18b27a7ffccf883af83880526bd83282c235698ca12904538aacdd5a3
-title: "ImGui.InputText"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputText(System.String,System.String@,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)
+title: ImGui.InputText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: b69f13d18b27a7ffccf883af83880526bd83282c235698ca12904538aacdd5a3
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws and edits a bounded UTF-8 text value.

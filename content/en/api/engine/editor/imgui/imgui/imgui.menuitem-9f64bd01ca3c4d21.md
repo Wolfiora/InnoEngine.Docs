@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9f64bd01ca3c4d2145a3e03982d515f3b45844409eb386e4588ac29f3063ca58
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.MenuItem(System.String,System.String,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 9b663a07e4b8245fed182e069a06b569ca4a9742016b63b3a0f9e14cf7ba687e
-title: "ImGui.MenuItem"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.MenuItem(System.String,System.String,System.Boolean,System.Boolean)
+title: ImGui.MenuItem
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 9b663a07e4b8245fed182e069a06b569ca4a9742016b63b3a0f9e14cf7ba687e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a menu item with explicit availability and checked state.

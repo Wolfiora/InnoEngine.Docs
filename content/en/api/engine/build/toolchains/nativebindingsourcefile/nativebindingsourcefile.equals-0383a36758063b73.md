@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0383a36758063b73859546a7228bbd986dba540bc06a968d5bef89554dc53e78
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingSourceFile.Equals(System.Object)"
-source: xml
-reviewed: 748a9b8b7f8d215fdc5989fff0fd227c226b6fc7d9e3f1bb7c5322f5e9cf3776
-title: "NativeBindingSourceFile.Equals"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingSourceFile.Equals(System.Object)
+title: NativeBindingSourceFile.Equals
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 748a9b8b7f8d215fdc5989fff0fd227c226b6fc7d9e3f1bb7c5322f5e9cf3776
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the specified object is equal to the current object.

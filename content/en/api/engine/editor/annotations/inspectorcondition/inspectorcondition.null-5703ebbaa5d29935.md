@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5703ebbaa5d29935a987063d9d3c88f8a6835cc6249dd4b9282b4d4512a3b246
-symbol: "engine:Inno.Editor.Annotations:F:Inno.Editor.Annotations.InspectorCondition.Null"
-source: xml
-reviewed: 22b5f21703345f4c8649206ae210c663d3c9b7f5ea0e57e8f7979b8b8f488709
-title: "InspectorCondition.Null"
+symbol: engine:Inno.Editor.Annotations:F:Inno.Editor.Annotations.InspectorCondition.Null
+title: InspectorCondition.Null
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: 22b5f21703345f4c8649206ae210c663d3c9b7f5ea0e57e8f7979b8b8f488709
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Requires a null value.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7aa32088ea07c4017d8cf78a52135818d276d48cb457ae7245307e057849a791
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.F13"
-source: xml
-reviewed: 2040f7c69133fb7cbf50a20716d5bd6016f54a750a4379a0ac32e6b366642341
-title: "ImGuiKey.F13"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.F13
+title: ImGuiKey.F13
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 2040f7c69133fb7cbf50a20716d5bd6016f54a750a4379a0ac32e6b366642341
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the F13 presentation key or modifier.

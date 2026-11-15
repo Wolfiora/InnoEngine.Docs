@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cec5419e100718feab80126f3410483c42fae8ca129aacd15329c92b1882c360
-symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.MaterialDocuments.Presentation(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.ShaderPropertyId,System.String@)"
-source: xml
-reviewed: fda692bdd6ee58215cc95d8d77a91a71f572eb8a5a457d5c5ae49547c05387e4
-title: "MaterialDocuments.Presentation"
+symbol: engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.MaterialDocuments.Presentation(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.ShaderPropertyId,System.String@)
+title: MaterialDocuments.Presentation
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: source-clr
+reviewed: fda692bdd6ee58215cc95d8d77a91a71f572eb8a5a457d5c5ae49547c05387e4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads parameter presentation from the current authoring Shader graph.

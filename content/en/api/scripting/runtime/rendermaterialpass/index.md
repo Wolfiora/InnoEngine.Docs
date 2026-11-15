@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime.runtime-script.c48785094a836fd2
-symbol: "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderMaterialPass"
-source: xml
-reviewed: 077e6de9b4630c6de7a3c8d5628818463f48c3ce55744f8de5b442b0b5fe546a
-title: "RenderMaterialPass"
+symbol: scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderMaterialPass
+title: RenderMaterialPass
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 077e6de9b4630c6de7a3c8d5628818463f48c3ce55744f8de5b442b0b5fe546a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering-runtime

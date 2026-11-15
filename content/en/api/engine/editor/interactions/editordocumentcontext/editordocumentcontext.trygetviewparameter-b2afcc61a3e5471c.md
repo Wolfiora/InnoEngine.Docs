@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b2afcc61a3e5471c00fca8eaf8ad3d6e8217ab66996011a6fd72e519cf171384
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentContext.TryGetViewParameter(System.String,System.String@)"
-source: xml
-reviewed: 8f0aade4e3bc2ef4600d624e79e0aa094a2b51df4c4c2c69997314f8e0dfd6a0
-title: "EditorDocumentContext.TryGetViewParameter"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentContext.TryGetViewParameter(System.String,System.String@)
+title: EditorDocumentContext.TryGetViewParameter
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 8f0aade4e3bc2ef4600d624e79e0aa094a2b51df4c4c2c69997314f8e0dfd6a0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to read one stable view parameter.

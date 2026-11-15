@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.097533f02f687606b9907b34c6bb7547f6f71f908cc6cb53ba024603b285f9bc
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Overlaps(Inno.Core.Mathematics.Rect)"
-source: xml
-reviewed: 391e344662c54af3f7da82663999d0d7804d44f46488fb420df2fccf411e6bfa
-title: "Rect.Overlaps"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Overlaps(Inno.Core.Mathematics.Rect)
+title: Rect.Overlaps
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 391e344662c54af3f7da82663999d0d7804d44f46488fb420df2fccf411e6bfa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks if this rectangle overlaps another rectangle.

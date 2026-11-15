@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e099220eb814d094309f08949e4b8e682803b569024d0158c4dc1b7e289664d3
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioSpatialOptions.position"
-source: xml
-reviewed: 2378dfbcd552980fbfb5eea7826ffa68afaae43204e15ee00f75a9a3961e8ac8
-title: "AudioSpatialOptions.position"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioSpatialOptions.position
+title: AudioSpatialOptions.position
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 2378dfbcd552980fbfb5eea7826ffa68afaae43204e15ee00f75a9a3961e8ac8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the world-space source position.

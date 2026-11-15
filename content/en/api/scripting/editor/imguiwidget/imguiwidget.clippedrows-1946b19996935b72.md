@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1946b19996935b72999505df483cc70257f5a795c341f341ccacd2cb60956cce
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClippedRows\u0060\u00601(System.Int32,System.Single,\u0060\u00600,System.Action{\u0060\u00600,System.Int32,System.Int32},System.ReadOnlySpan{System.Int32})"
-source: xml
-reviewed: 0a9a5fa020ad840d7da1ea52569595cbd5b1c23ec78a8a9283c21ec7b806ba8b
-title: "ImGuiWidget.ClippedRows"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClippedRows``1(System.Int32,System.Single,``0,System.Action{``0,System.Int32,System.Int32},System.ReadOnlySpan{System.Int32})
+title: ImGuiWidget.ClippedRows
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 0a9a5fa020ad840d7da1ea52569595cbd5b1c23ec78a8a9283c21ec7b806ba8b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws visible row ranges and preserves native scrolling, navigation and table cursor bookkeeping.

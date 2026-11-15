@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a768908c3d0811e16abb5cbcd52a6c447ef1ede4334be6d56cdba19ae9a533d5
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: aabb441f566e483e64bfd84fad40067298c44c0a680c5aae5abc7c0357a0369e
-title: "ToolchainEnvironment.RunAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)
+title: ToolchainEnvironment.RunAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: aabb441f566e483e64bfd84fad40067298c44c0a680c5aae5abc7c0357a0369e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a host-native process with the context's frozen compiler and SDK selection.

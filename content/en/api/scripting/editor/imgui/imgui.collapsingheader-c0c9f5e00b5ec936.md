@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c0c9f5e00b5ec936aa7a757542d046504098edb5589f00c19d2896b595bba4fa
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.CollapsingHeader(System.String,InnoEditor.ImGui.ImGuiTreeNodeFlags)"
-source: xml
-reviewed: d61dedaeb3d0f4a508dbb868d2477a156291f56ef828003fe748434859ab6c7d
-title: "ImGui.CollapsingHeader"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.CollapsingHeader(System.String,InnoEditor.ImGui.ImGuiTreeNodeFlags)
+title: ImGui.CollapsingHeader
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d61dedaeb3d0f4a508dbb868d2477a156291f56ef828003fe748434859ab6c7d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a collapsible section header.

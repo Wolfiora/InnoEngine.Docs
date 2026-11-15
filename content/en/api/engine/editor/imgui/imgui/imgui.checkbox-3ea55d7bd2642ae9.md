@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ea55d7bd2642ae921b5896929f30dd15858fbc9e320a78f57ddbb7e4029fd40
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.Checkbox(System.String,System.Boolean@)"
-source: xml
-reviewed: 5f632fac05a4c6ae091c8ed25fd12944771e3c6c29e19859c824e457e4756815
-title: "ImGui.Checkbox"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.Checkbox(System.String,System.Boolean@)
+title: ImGui.Checkbox
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 5f632fac05a4c6ae091c8ed25fd12944771e3c6c29e19859c824e457e4756815
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws and edits a Boolean value.

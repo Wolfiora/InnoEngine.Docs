@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a5f28f333539b7b56e4ce9bac67def7c0b81a6cde257581289c2189564d7d378
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.SerializedPropertyRenderer.DrawValue(InnoEditor.Core.EditorContext,System.Object,System.String,System.String,System.Type,System.Func{System.Object},System.Action{System.Object},InnoEditor.Inspection.IInspectionPropertyEditService,System.Boolean,System.Boolean,System.String,System.Nullable{System.Double},System.Nullable{System.Double})"
-source: xml
-reviewed: 66e05aa9ae8cc5819bd1218ce96aee46969624a6711df08e042e5ed318c9bb99
-title: "SerializedPropertyRenderer.DrawValue"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.SerializedPropertyRenderer.DrawValue(InnoEditor.Core.EditorContext,System.Object,System.String,System.String,System.Type,System.Func{System.Object},System.Action{System.Object},InnoEditor.Inspection.IInspectionPropertyEditService,System.Boolean,System.Boolean,System.String,System.Nullable{System.Double},System.Nullable{System.Double})
+title: SerializedPropertyRenderer.DrawValue
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: 66e05aa9ae8cc5819bd1218ce96aee46969624a6711df08e042e5ed318c9bb99
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a declared authoring value with existing property drawers and a feature-owned draft edit service.

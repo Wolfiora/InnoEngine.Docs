@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c1957692d3856c8240a42a10fcc07e384b24ab581642803d92e458fd75668de5
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodeSettings.createPath"
-source: xml
-reviewed: 1b4d5d1fa17f4c174e1c374f0ca78e481f169abac0e866cd1e0e4ada023ffd6b
-title: "ShaderGraphNodeSettings.createPath"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodeSettings.createPath
+title: ShaderGraphNodeSettings.createPath
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 1b4d5d1fa17f4c174e1c374f0ca78e481f169abac0e866cd1e0e4ada023ffd6b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the slash-separated creation catalog beneath Graph Nodes.

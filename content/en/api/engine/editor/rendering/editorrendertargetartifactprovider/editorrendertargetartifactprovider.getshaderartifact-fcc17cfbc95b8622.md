@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fcc17cfbc95b862237f99d998d10a61de18a7449bab0d7fc84400c644aa006a6
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.GetShaderArtifact(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities,Inno.Rendering.Assets.RenderShaderArtifact@)"
-source: xml
-reviewed: cc6874ad0295ef6e65608b06df405270f7cbe8cc9cd903da08969872243fc55b
-title: "EditorRenderTargetArtifactProvider.GetShaderArtifact"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.GetShaderArtifact(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities,Inno.Rendering.Assets.RenderShaderArtifact@)
+title: EditorRenderTargetArtifactProvider.GetShaderArtifact
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: cc6874ad0295ef6e65608b06df405270f7cbe8cc9cd903da08969872243fc55b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns a matching compiled shader when available and schedules a new candidate when source state changed.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.222b95ef334cfeaa7166d21c2d3324848fe89e88465793af0b984503855a5556
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.CollectCompletedFailures(System.Exception,System.Collections.Generic.ICollection{System.Exception})"
-source: xml
-reviewed: 848131a628a34be27dd202c4369b81e95dd4a41d3ecadcc81d43d7925ae38e27
-title: "RetirementPendingException.CollectCompletedFailures"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.CollectCompletedFailures(System.Exception,System.Collections.Generic.ICollection{System.Exception})
+title: RetirementPendingException.CollectCompletedFailures
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 848131a628a34be27dd202c4369b81e95dd4a41d3ecadcc81d43d7925ae38e27
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Retains ordinary failure branches across pending retries without recording transient pending signals as completed work.

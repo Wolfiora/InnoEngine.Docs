@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d730d22fd149164b6c591fc7a0e0986647d9088a07f94cfeb8d21a21cfd2f42b
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: 24a63830c9715d11fb4c33ef6d493d5f6a9d82e5a2501439cdda54663bbae242
-title: "SceneSubtreeSerialization.Capture"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: SceneSubtreeSerialization.Capture
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 24a63830c9715d11fb4c33ef6d493d5f6a9d82e5a2501439cdda54663bbae242
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one live GameObject and all descendants without serializing unrelated scene objects.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a0dc747de6416c25675ab0df6fb2e5910715c181237c73e28555e9603956e4d2
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetGlyphVisualBounds(System.Single,System.String)"
-source: xml
-reviewed: 966fbaadaeea2d9a34cb32f7f67f99269916d7cff0552f06777e01cbd5e6328f
-title: "ImGuiWidget.GetGlyphVisualBounds"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetGlyphVisualBounds(System.Single,System.String)
+title: ImGuiWidget.GetGlyphVisualBounds
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 966fbaadaeea2d9a34cb32f7f67f99269916d7cff0552f06777e01cbd5e6328f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Measures a glyph using the current font without exposing its native font handle.

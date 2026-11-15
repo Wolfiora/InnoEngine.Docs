@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.89e7ef709341750375b630717e45c621a2cca0d1dfdb60028469664417081b5b
-symbol: "engine:Inno.UI:M:Inno.UI.IUiService.SetAttribute(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.String)"
-source: xml
-reviewed: 8440bc2ef8428c52767018a2b731c0d433271f6bfcfc4c418ad5009f776a0eea
-title: "IUiService.SetAttribute"
+symbol: engine:Inno.UI:M:Inno.UI.IUiService.SetAttribute(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.String)
+title: IUiService.SetAttribute
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 8440bc2ef8428c52767018a2b731c0d433271f6bfcfc4c418ad5009f776a0eea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets one element attribute.

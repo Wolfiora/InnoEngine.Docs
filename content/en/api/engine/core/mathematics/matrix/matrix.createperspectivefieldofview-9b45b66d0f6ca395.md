@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b45b66d0f6ca395f0ee23eceffb617df573f893d6123adb9d9d5be2c3df86f7
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreatePerspectiveFieldOfView(System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 7891e0b342f35f27e74e353246e91a75fc7689854f79f0d48196c5107fab600e
-title: "Matrix.CreatePerspectiveFieldOfView"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreatePerspectiveFieldOfView(System.Single,System.Single,System.Single,System.Single)
+title: Matrix.CreatePerspectiveFieldOfView
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 7891e0b342f35f27e74e353246e91a75fc7689854f79f0d48196c5107fab600e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a left-handed, perspective projection matrix ( depth range 0..1).

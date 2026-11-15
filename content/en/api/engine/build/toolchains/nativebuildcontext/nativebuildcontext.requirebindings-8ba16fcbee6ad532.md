@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ba16fcbee6ad532e487b1140eb4ff622745ff807eec963771cc5a5688660f80
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RequireBindings(Inno.Build.Toolchains.NativeComponentDescriptor)"
-source: xml
-reviewed: ec558d6b476d102481a05580e4fc3fa56bff17a9c06ca71a353f1046f60d22a5
-title: "NativeBuildContext.RequireBindings"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RequireBindings(Inno.Build.Toolchains.NativeComponentDescriptor)
+title: NativeBuildContext.RequireBindings
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: ec558d6b476d102481a05580e4fc3fa56bff17a9c06ca71a353f1046f60d22a5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Requires the target binding generation prepared for an explicitly declared Native owner.

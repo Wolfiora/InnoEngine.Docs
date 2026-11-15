@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f51eb718354273f95fd49ae4eb877c12c862148858300a04bf3a35dea42648de
-symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Fatal(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
-source: xml
-reviewed: 52112ba017c3f29e2ba2fa2f53d7818effdbaaee7c9431acab8547feabeebd37
-title: "Log.Fatal"
+symbol: scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Fatal(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
+title: Log.Fatal
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: editor-script
+reviewed: 52112ba017c3f29e2ba2fa2f53d7818effdbaaee7c9431acab8547feabeebd37
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a formatted fatal-level message with its source location.

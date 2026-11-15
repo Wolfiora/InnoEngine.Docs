@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7a9f62e2e8e635c24b270381de17263879d5d803d377f1162dde4e06184aa80a
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorGizmoContext.#ctor(InnoEngine.References.ContentReadScope,System.Nullable{InnoEngine.Core.RuntimeIdentity},System.Int32,System.Int32)"
-source: xml
-reviewed: ab2f2c76a7ef07fd4830694ecd5d6af9515417a19b109b98581f9572a2886c10
-title: "EditorGizmoContext.Constructor"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorGizmoContext.#ctor(InnoEngine.References.ContentReadScope,System.Nullable{InnoEngine.Core.RuntimeIdentity},System.Int32,System.Int32)
+title: EditorGizmoContext.Constructor
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: ab2f2c76a7ef07fd4830694ecd5d6af9515417a19b109b98581f9572a2886c10
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a frame-scoped gizmo request.

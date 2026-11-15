@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.playmode.ca14c24fbc73933a
-symbol: "engine:Inno.Editor.PlayMode:T:Inno.Editor.PlayMode.EditorPlayModeController"
-source: xml
-reviewed: 8328c3db084cc2f90ab0564d99f0c65f3c012e87fb9048b96153106c84ba2c13
-title: "EditorPlayModeController"
+symbol: engine:Inno.Editor.PlayMode:T:Inno.Editor.PlayMode.EditorPlayModeController
+title: EditorPlayModeController
 kind: api
-owners: [Inno.Editor.PlayMode]
+owners:
+- Inno.Editor.PlayMode
 apiSurface: source-clr
+reviewed: 8328c3db084cc2f90ab0564d99f0c65f3c012e87fb9048b96153106c84ba2c13
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-playmode
 aliases: []

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.79dbebd2c42531bc101d4c64a88014eae9da01fb24c934fe25f0865f18e326e0
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoFrame.Icon(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Vector3,System.String)"
-source: xml
-reviewed: 0bca7e1fbc9d3fd603adaf2083c167a65ca944149475110b8aaba3f66d35dec0
-title: "EditorGizmoFrame.Icon"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoFrame.Icon(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Vector3,System.String)
+title: EditorGizmoFrame.Icon
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 0bca7e1fbc9d3fd603adaf2083c167a65ca944149475110b8aaba3f66d35dec0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appends a selectable scene icon to the current gizmo frame.

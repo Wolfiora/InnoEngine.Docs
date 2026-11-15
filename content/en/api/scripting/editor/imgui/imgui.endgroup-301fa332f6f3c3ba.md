@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.301fa332f6f3c3ba442a5f5d6b3563184818e79ab53c2e40e5a9820e336a5bac
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndGroup"
-source: xml
-reviewed: dfe70c7cbf9e07ff7ae5ca15d1a8a29a9e7b15a039a1177d99605aa08a899c88
-title: "ImGui.EndGroup"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndGroup
+title: ImGui.EndGroup
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: dfe70c7cbf9e07ff7ae5ca15d1a8a29a9e7b15a039a1177d99605aa08a899c88
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Ends the current item group.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.577f3899879347f0ad64970227aef6a36cf2e71f263249d5400199e1de8cb7fd
-symbol: "scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserStyle.breadcrumbHeight"
-source: xml
-reviewed: 784370dee0cd1cdcc65f6594c2cbf46e22bd115facbeec4e7b95af23d6812c23
-title: "AssetBrowserStyle.breadcrumbHeight"
+symbol: scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserStyle.breadcrumbHeight
+title: AssetBrowserStyle.breadcrumbHeight
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: editor-script
+reviewed: 784370dee0cd1cdcc65f6594c2cbf46e22bd115facbeec4e7b95af23d6812c23
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets asset breadcrumb bar height.

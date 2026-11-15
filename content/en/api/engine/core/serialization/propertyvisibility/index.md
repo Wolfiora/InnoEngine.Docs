@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.serialization.3c81aa3af425f240
-symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.PropertyVisibility"
-source: xml
-reviewed: 0e3620f41693d731dceff46d9961ccd067a9e7bc75292123748d9d46c0034c12
-title: "PropertyVisibility"
+symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.PropertyVisibility
+title: PropertyVisibility
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 0e3620f41693d731dceff46d9961ccd067a9e7bc75292123748d9d46c0034c12
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []

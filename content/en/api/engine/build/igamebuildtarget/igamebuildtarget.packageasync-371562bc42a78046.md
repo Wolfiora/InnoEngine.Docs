@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.371562bc42a78046f81c107c593bdf80e53f59a7614f9f946b7f4cca5f9ff04a
-symbol: "engine:Inno.Build:M:Inno.Build.IGameBuildTarget.PackageAsync(Inno.Build.GameBuildPackageContext,System.Threading.CancellationToken)"
-source: xml
-reviewed: 9444d9f51306496167472e834f83d7ad8ceb1ecd30de16c072fa9c8f2fa82ad8
-title: "IGameBuildTarget.PackageAsync"
+symbol: engine:Inno.Build:M:Inno.Build.IGameBuildTarget.PackageAsync(Inno.Build.GameBuildPackageContext,System.Threading.CancellationToken)
+title: IGameBuildTarget.PackageAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 9444d9f51306496167472e834f83d7ad8ceb1ecd30de16c072fa9c8f2fa82ad8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Composes one platform output from a verified Support Pack and source-free content directory.

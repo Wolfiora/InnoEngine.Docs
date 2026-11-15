@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7e48e98d3380108c3be30fd032fb8fd7268572d05d8745016fc041d977e127eb
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.WindowContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction)"
-source: xml
-reviewed: 1b5dafb75fcc8bb4d71ce08afc5c54c2805a72e03f6224c86bf3849d770e310c
-title: "EditorMenuRenderer.WindowContextMenu"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.WindowContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction)
+title: EditorMenuRenderer.WindowContextMenu
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 1b5dafb75fcc8bb4d71ce08afc5c54c2805a72e03f6224c86bf3849d770e310c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a resolved right-click menu when the current ImGui window's unoccupied background is clicked.

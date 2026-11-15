@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.789387c49c03cb08f10afaea1343ef3aa853d7003ed4c8fb152f4c0f1ce141d3
-symbol: "engine:Inno.Assets:M:Inno.Assets.RetentionScope.Dispose"
-source: xml
-reviewed: 685cc52848e2bad76c0df78a6101044e3f13e27fe9abc8c8490b6267db88f1e1
-title: "RetentionScope.Dispose"
+symbol: engine:Inno.Assets:M:Inno.Assets.RetentionScope.Dispose
+title: RetentionScope.Dispose
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 685cc52848e2bad76c0df78a6101044e3f13e27fe9abc8c8490b6267db88f1e1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases all retained leases in reverse acquisition order.

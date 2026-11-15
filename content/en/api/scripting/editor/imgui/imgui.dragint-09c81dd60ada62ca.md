@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09c81dd60ada62ca96ed2c135444734063314fda53659ef4ee412a587371d90d
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DragInt(System.String,System.Int32@,System.Single,System.Int32,System.Int32,System.String,InnoEditor.ImGui.ImGuiSliderFlags)"
-source: xml
-reviewed: f956d1f8ba65b541732247c0e6ade2039dcaf499326c001991fba5f2fc3347c2
-title: "ImGui.DragInt"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DragInt(System.String,System.Int32@,System.Single,System.Int32,System.Int32,System.String,InnoEditor.ImGui.ImGuiSliderFlags)
+title: ImGui.DragInt
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: f956d1f8ba65b541732247c0e6ade2039dcaf499326c001991fba5f2fc3347c2
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Edits an integer by pointer drag with explicit speed and optional bounds.

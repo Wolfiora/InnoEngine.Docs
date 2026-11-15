@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0b1726a27ac468a155df2c71a9ebb64cfa3f65060473c323bf23b129e6cea428
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAssetRuntime.GetGeometryData(Inno.Rendering.Assets.GeometryAsset)"
-source: xml
-reviewed: e4ec2a30ee665c377d30814c3c7b91ccdd1c692b76790d2a07cf56e635651504
-title: "GeometryAssetRuntime.GetGeometryData"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAssetRuntime.GetGeometryData(Inno.Rendering.Assets.GeometryAsset)
+title: GeometryAssetRuntime.GetGeometryData
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: e4ec2a30ee665c377d30814c3c7b91ccdd1c692b76790d2a07cf56e635651504
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes the current committed mesh payload.

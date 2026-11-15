@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.13994d150f76daee3b179c388cee279f0c75372e9e60b1da6c177fdc2323ebb3
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerSnapshot.op_Equality(InnoEngine.Audio.AudioListenerSnapshot,InnoEngine.Audio.AudioListenerSnapshot)"
-source: xml
-reviewed: 75ed3b782bffb6bdc0594b2d1bebb210d411694d51103b51c090d1348f7a93a4
-title: "AudioListenerSnapshot.op_Equality"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerSnapshot.op_Equality(InnoEngine.Audio.AudioListenerSnapshot,InnoEngine.Audio.AudioListenerSnapshot)
+title: AudioListenerSnapshot.op_Equality
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 75ed3b782bffb6bdc0594b2d1bebb210d411694d51103b51c090d1348f7a93a4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

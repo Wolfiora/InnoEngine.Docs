@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.157326ac3a7ec006c7132d56dcfba5b70501301d96989f4dda8ded990a7f90df
-symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.RangeAttribute.#ctor(System.Double,System.Double)"
-source: xml
-reviewed: e91078248d6f26321ee9be4cc208456a5383a47e7d350c876e399669e5b52762
-title: "RangeAttribute.Constructor"
+symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.RangeAttribute.#ctor(System.Double,System.Double)
+title: RangeAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: e91078248d6f26321ee9be4cc208456a5383a47e7d350c876e399669e5b52762
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an inclusive numeric range.

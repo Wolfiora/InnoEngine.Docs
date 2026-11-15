@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8339ffbce30892115301deccda9935724dfc0e900b06f4b77f560cba940fd51f
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorState.Get\u0060\u00601(System.String,\u0060\u00600)"
-source: xml
-reviewed: f56670948ce1679f6685dc560d9dd816ffb801c06b49a05966978e1a247748f7
-title: "EditorState.Get"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorState.Get``1(System.String,``0)
+title: EditorState.Get
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: f56670948ce1679f6685dc560d9dd816ffb801c06b49a05966978e1a247748f7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a compatible value or returns the caller-provided fallback.

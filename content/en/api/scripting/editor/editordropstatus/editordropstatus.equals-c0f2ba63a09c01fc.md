@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c0f2ba63a09c01fc9616536dc8c2d6472d317cc035e61763b199143df3aa4eae
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropStatus.Equals(System.Object)"
-source: xml
-reviewed: 899bea0246aef77728d1042f4c67848d5b38c3899ac79efaf296611c4cc4091e
-title: "EditorDropStatus.Equals"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropStatus.Equals(System.Object)
+title: EditorDropStatus.Equals
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 899bea0246aef77728d1042f4c67848d5b38c3899ac79efaf296611c4cc4091e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

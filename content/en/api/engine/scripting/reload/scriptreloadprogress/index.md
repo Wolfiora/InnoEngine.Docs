@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.scripting.reload.4347b096f0fa86c8
-symbol: "engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadProgress"
-source: xml
-reviewed: 2d9356a57ef3cea1a455182abddb67fa4b3bdc63ac2a9ce881f22b5119aba998
-title: "ScriptReloadProgress"
+symbol: engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadProgress
+title: ScriptReloadProgress
 kind: api
-owners: [Inno.Scripting.Reload]
+owners:
+- Inno.Scripting.Reload
 apiSurface: source-clr
+reviewed: 2d9356a57ef3cea1a455182abddb67fa4b3bdc63ac2a9ce881f22b5119aba998
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-scripting-reload
 aliases: []

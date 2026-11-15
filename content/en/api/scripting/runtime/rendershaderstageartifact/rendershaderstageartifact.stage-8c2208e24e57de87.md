@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8c2208e24e57de8745ad7982cac6d5c92ded10978e5b47711de5e57c5c451654
-symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.RenderShaderStageArtifact.stage"
-source: xml
-reviewed: ef4c677e5eac8806a9016c6d85b44d44a3867d4b743ec4c7e4f75e3dff3d8659
-title: "RenderShaderStageArtifact.stage"
+symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.RenderShaderStageArtifact.stage
+title: RenderShaderStageArtifact.stage
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: ef4c677e5eac8806a9016c6d85b44d44a3867d4b743ec4c7e4f75e3dff3d8659
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the programmable stage represented by this artifact.

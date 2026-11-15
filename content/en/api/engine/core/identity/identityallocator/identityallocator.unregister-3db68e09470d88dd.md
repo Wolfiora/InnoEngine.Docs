@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3db68e09470d88dd6c64f065a08b420d34bcd4db73da7b376b95e5df331d2454
-symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Unregister(Inno.Core.Identity.IdentityObject)"
-source: xml
-reviewed: 60af2b048cea61b2a6a35015be9576b2f88793ee5690c17768786a905fc9a3b8
-title: "IdentityAllocator.Unregister"
+symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Unregister(Inno.Core.Identity.IdentityObject)
+title: IdentityAllocator.Unregister
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 60af2b048cea61b2a6a35015be9576b2f88793ee5690c17768786a905fc9a3b8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes an object from this session and notifies every unregistration observer.

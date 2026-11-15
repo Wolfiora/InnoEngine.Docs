@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d2e2fdcad3077b99dfd2bfcd7607420ffc1f8b2d7335e4f83fab543d3a2d57d8
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.#ctor"
-source: xml
-reviewed: e3225388b0db63e2464b4a0faf0c200ebaeb04f6a218460ad4196aff3c64c552
-title: "ComputePassBuilder.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.#ctor
+title: ComputePassBuilder.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: e3225388b0db63e2464b4a0faf0c200ebaeb04f6a218460ad4196aff3c64c552
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

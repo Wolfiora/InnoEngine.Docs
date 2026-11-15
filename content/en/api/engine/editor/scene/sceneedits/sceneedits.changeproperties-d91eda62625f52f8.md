@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d91eda62625f52f8ffe2637395214f119b5958a6fdeb65751338dfcaf879f461
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperties(System.Collections.Generic.IReadOnlyList{Inno.Scene.EngineObject},System.String,System.Action,System.String,System.String,System.String)"
-source: xml
-reviewed: 12d26aeb005554f93dc547e3b262a5b0ea9c91568832adfbbef546f5a88d01ca
-title: "SceneEdits.ChangeProperties"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperties(System.Collections.Generic.IReadOnlyList{Inno.Scene.EngineObject},System.String,System.Action,System.String,System.String,System.String)
+title: SceneEdits.ChangeProperties
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 12d26aeb005554f93dc547e3b262a5b0ea9c91568832adfbbef546f5a88d01ca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies one primary property edit to a selection using owner-resolved serialized values and one atomic History transaction.

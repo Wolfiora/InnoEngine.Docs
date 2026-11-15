@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d275f165425aaae883f8745e760af23aaff419c04460b354cdd51e28bfdbdf07
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.ShaderPropertyType.Buffer"
-source: xml
-reviewed: ab669bf250169e4ef5b638305baee60d3afa8b3dcf6fba746f7a6b44c3e896e3
-title: "ShaderPropertyType.Buffer"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.ShaderPropertyType.Buffer
+title: ShaderPropertyType.Buffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: ab669bf250169e4ef5b638305baee60d3afa8b3dcf6fba746f7a6b44c3e896e3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Read-only or read-write buffer.

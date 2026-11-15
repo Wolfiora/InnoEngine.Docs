@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.114c9840722e7af296589cf41e5cd3e79861ccf2914032b0b5be3d12a9e1ef63
-symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.T"
-source: xml
-reviewed: 1bdd88f087a630d652f02e3a7e7d642ebb109124276bd71b7d38a20de78f1d30
-title: "KeyCode.T"
+symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.T
+title: KeyCode.T
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: editor-script
+reviewed: 1bdd88f087a630d652f02e3a7e7d642ebb109124276bd71b7d38a20de78f1d30
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The T letter key.

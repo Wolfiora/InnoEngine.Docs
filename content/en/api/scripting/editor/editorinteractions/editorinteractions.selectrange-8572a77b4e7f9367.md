@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8572a77b4e7f9367161f21e32a031416d98529faf1da71dd2350a73d01180476
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.SelectRange(System.Collections.Generic.IReadOnlyList{InnoEngine.Core.RuntimeIdentity},InnoEngine.Core.IdentityObject,System.Boolean)"
-source: xml
-reviewed: cb962d9638c608937b7a6649386f608bf628ed11d83e096200c9dc89c7813686
-title: "EditorInteractions.SelectRange"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.SelectRange(System.Collections.Generic.IReadOnlyList{InnoEngine.Core.RuntimeIdentity},InnoEngine.Core.IdentityObject,System.Boolean)
+title: EditorInteractions.SelectRange
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: cb962d9638c608937b7a6649386f608bf628ed11d83e096200c9dc89c7813686
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects the inclusive visible range between the current anchor and the clicked target.

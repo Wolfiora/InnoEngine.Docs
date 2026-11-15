@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f6504f77d5b6736403f7a2cecd104174353c077951879a4090825cd50e38fc96
-symbol: "engine:Inno.UI:P:Inno.UI.UiVertex.u"
-source: xml
-reviewed: 9e00ce2c6b0f1f5b49778f6cccc13b645761dfdddaee77a33bb920568a68d24e
-title: "UiVertex.u"
+symbol: engine:Inno.UI:P:Inno.UI.UiVertex.u
+title: UiVertex.u
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 9e00ce2c6b0f1f5b49778f6cccc13b645761dfdddaee77a33bb920568a68d24e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The float value used to initialize this instance.

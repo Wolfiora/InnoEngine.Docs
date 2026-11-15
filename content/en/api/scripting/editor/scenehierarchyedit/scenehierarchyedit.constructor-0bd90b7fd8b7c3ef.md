@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0bd90b7fd8b7c3ef1e20164d9bb989c2c42cb04b32e1dc2d8af014e52f96881d
-symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneHierarchyEdit.#ctor"
-source: xml
-reviewed: 7f05678e71d9c552b3b9a7196be3b82846a4f9363f91bd21298e7497fb44e536
-title: "SceneHierarchyEdit.Constructor"
+symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneHierarchyEdit.#ctor
+title: SceneHierarchyEdit.Constructor
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: editor-script
+reviewed: 7f05678e71d9c552b3b9a7196be3b82846a4f9363f91bd21298e7497fb44e536
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

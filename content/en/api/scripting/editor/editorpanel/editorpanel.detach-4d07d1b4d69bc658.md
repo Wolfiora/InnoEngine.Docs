@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d07d1b4d69bc6583638898d129cdb3d9ebdb3dda78679526851b2bd86ff388e
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Detach(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: 0804400a071036ce7f430b75b6622832b9641750945dfa858d77e4c5a430797b
-title: "EditorPanel.Detach"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Detach(InnoEditor.Core.EditorContext)
+title: EditorPanel.Detach
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 0804400a071036ce7f430b75b6622832b9641750945dfa858d77e4c5a430797b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Detaches the panel before its extension generation is released.

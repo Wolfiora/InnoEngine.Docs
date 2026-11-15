@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.87221fa9a1cd47c12478bafe3ed5a85468e86039239ac8e0f79c8d2fabc73e7b
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.EndFrame(Inno.Runtime.Contracts.RuntimeFrame)"
-source: xml
-reviewed: 1f7997713821bb2bb5cc4c5d132fd28cd1d7368897fa2b1974b59b64bb69ad29
-title: "RuntimeSubsystem.EndFrame"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.EndFrame(Inno.Runtime.Contracts.RuntimeFrame)
+title: RuntimeSubsystem.EndFrame
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 1f7997713821bb2bb5cc4c5d132fd28cd1d7368897fa2b1974b59b64bb69ad29
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Ends one frame and releases frame-scoped state.

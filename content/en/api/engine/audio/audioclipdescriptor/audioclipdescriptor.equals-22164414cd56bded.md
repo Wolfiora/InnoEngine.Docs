@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.22164414cd56bded81821485abddadd6c4a3fa3f18b3b0c7589d3c33ee43f5a6
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioClipDescriptor.Equals(System.Object)"
-source: xml
-reviewed: d31e3050437499fd427cb2326b905e711ecc957608c993cc25c817829d45cde7
-title: "AudioClipDescriptor.Equals"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioClipDescriptor.Equals(System.Object)
+title: AudioClipDescriptor.Equals
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: d31e3050437499fd427cb2326b905e711ecc957608c993cc25c817829d45cde7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

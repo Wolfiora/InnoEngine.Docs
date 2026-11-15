@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.1f6f83c3e4eac6b0
-symbol: "engine:Inno.Assets:T:Inno.Assets.Assets"
-source: xml
-reviewed: 61704e879fc9fd423bc43d418337b879b974a721b2196edd8a36c503440ef4f4
-title: "Assets"
+symbol: engine:Inno.Assets:T:Inno.Assets.Assets
+title: Assets
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 61704e879fc9fd423bc43d418337b879b974a721b2196edd8a36c503440ef4f4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-assets
 aliases: []

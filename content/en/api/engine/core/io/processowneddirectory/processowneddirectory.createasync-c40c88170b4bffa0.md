@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c40c88170b4bffa0256cfc3915248922bf302f91b57c19730a536c0da6a39f6a
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.CreateAsync(System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 245a479ba68abd92c56731071543cfda5333d0abdec0cf8ee6cf55e2e778de0b
-title: "ProcessOwnedDirectory.CreateAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.CreateAsync(System.String,System.Threading.CancellationToken)
+title: ProcessOwnedDirectory.CreateAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 245a479ba68abd92c56731071543cfda5333d0abdec0cf8ee6cf55e2e778de0b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a fresh directory and ownership record under an explicitly supplied file boundary.

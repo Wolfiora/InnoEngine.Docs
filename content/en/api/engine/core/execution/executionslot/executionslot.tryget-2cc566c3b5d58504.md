@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2cc566c3b5d585049cdfbe1b1bb061f2574addf4885072dbe70000ef1921d6af
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot\u00601.TryGet(\u00600@)"
-source: xml
-reviewed: fbd23639021e8b8f7b6c10fc4c01336c806de86801b8c8d5979d9583e8f47f98
-title: "ExecutionSlot\u003CTValue\u003E.TryGet"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot`1.TryGet(`0@)
+title: ExecutionSlot<TValue>.TryGet
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: fbd23639021e8b8f7b6c10fc4c01336c806de86801b8c8d5979d9583e8f47f98
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to read the current binding without falling through an expired child scope.

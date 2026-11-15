@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.341538dd86ed5db217a6786905dd250a563c4abbc7e93938e277d78b74fd7c62
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.SetAsUInt32(System.String,System.UInt32)"
-source: xml
-reviewed: ed0909991833ac84dc4836e15b102b44aec92dfe7a6fbb66ee97642ba70bc154
-title: "EditorSettingObject.SetAsUInt32"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.SetAsUInt32(System.String,System.UInt32)
+title: EditorSettingObject.SetAsUInt32
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: ed0909991833ac84dc4836e15b102b44aec92dfe7a6fbb66ee97642ba70bc154
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets a 32-bit unsigned integer property.

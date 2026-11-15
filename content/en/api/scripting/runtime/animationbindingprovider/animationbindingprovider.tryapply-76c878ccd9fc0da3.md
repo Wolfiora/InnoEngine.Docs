@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.76c878ccd9fc0da3035e3f0d76d26a34a9de365a03535ed67721c1a7a64f1f26
-symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingProvider.TryApply(InnoEngine.Animation.AnimationTarget,InnoEngine.Animation.AnimationValue)"
-source: xml
-reviewed: 3455846fe79f40b01e3e60f4ee67aa07fecea9c50b6fe4c074a289b88743db6f
-title: "AnimationBindingProvider.TryApply"
+symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingProvider.TryApply(InnoEngine.Animation.AnimationTarget,InnoEngine.Animation.AnimationValue)
+title: AnimationBindingProvider.TryApply
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 3455846fe79f40b01e3e60f4ee67aa07fecea9c50b6fe4c074a289b88743db6f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attempts to apply a value to a destination resolved through Identity.

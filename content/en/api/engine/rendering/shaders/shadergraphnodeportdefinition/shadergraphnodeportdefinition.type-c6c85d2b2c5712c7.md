@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c6c85d2b2c5712c73664e222ea0010c53d447a1b52a70564441d77630e3ea64b
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphNodePortDefinition.type"
-source: xml
-reviewed: 584c64ba9747bd709ecb4d8678267d3b564705b0b141bda6eae80154f4e030c4
-title: "ShaderGraphNodePortDefinition.type"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphNodePortDefinition.type
+title: ShaderGraphNodePortDefinition.type
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 584c64ba9747bd709ecb4d8678267d3b564705b0b141bda6eae80154f4e030c4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the complete backend-neutral value type.

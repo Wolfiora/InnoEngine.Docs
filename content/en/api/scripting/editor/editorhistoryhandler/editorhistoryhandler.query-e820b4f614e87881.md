@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e820b4f614e87881024d66d8c1c3441241e0d4dd741ea74acd30e02118254a70
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.Query(InnoEditor.Interactions.EditorHistoryContext,InnoEditor.Interactions.EditorHistoryChange,InnoEditor.Interactions.EditorHistoryDirection)"
-source: xml
-reviewed: 6eeb9e73ed60db8c8a603b0d743de577ac399992d37463685dfc93b0b40750d7
-title: "EditorHistoryHandler.Query"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.Query(InnoEditor.Interactions.EditorHistoryContext,InnoEditor.Interactions.EditorHistoryChange,InnoEditor.Interactions.EditorHistoryDirection)
+title: EditorHistoryHandler.Query
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 6eeb9e73ed60db8c8a603b0d743de577ac399992d37463685dfc93b0b40750d7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether a neutral change can currently transition in the requested direction.

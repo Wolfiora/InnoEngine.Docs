@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9fb917f2b14828f741c61cbec332ebb198fa050031b46411805119e8d87c9256
-symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireRead(System.String)"
-source: xml
-reviewed: 2d0aec383792a7d4835b648e461d6a6929ce63e700d8704ad54711163fc26490
-title: "GenerationCoordinator.AcquireRead"
+symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireRead(System.String)
+title: GenerationCoordinator.AcquireRead
 kind: api
-owners: [Inno.Extensibility.Reload]
+owners:
+- Inno.Extensibility.Reload
 apiSurface: source-clr
+reviewed: 2d0aec383792a7d4835b648e461d6a6929ce63e700d8704ad54711163fc26490
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pins generation admission for a Build or Export operation, including asynchronous snapshot consumers.

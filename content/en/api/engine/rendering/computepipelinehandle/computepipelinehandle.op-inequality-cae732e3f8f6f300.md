@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cae732e3f8f6f3002bcb61dec9b499b53d9d310bbe3c355b069461f44ff25295
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePipelineHandle.op_Inequality(Inno.Rendering.ComputePipelineHandle,Inno.Rendering.ComputePipelineHandle)"
-source: xml
-reviewed: adab6f979ace26e4b8ccd418811a6f0fa578c285cbc1bc8a72c46938a492a392
-title: "ComputePipelineHandle.op_Inequality"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.ComputePipelineHandle.op_Inequality(Inno.Rendering.ComputePipelineHandle,Inno.Rendering.ComputePipelineHandle)
+title: ComputePipelineHandle.op_Inequality
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: adab6f979ace26e4b8ccd418811a6f0fa578c285cbc1bc8a72c46938a492a392
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

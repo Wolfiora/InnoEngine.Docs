@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d207ec4c14e6bb2372d46a58506213468060cdf6c6369c53b8b96e110c4e25b3
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeHierarchy(Inno.Scene.GameObject,System.Action{Inno.Editor.Scene.SceneHierarchyEdit},System.String,System.Collections.Generic.IReadOnlyCollection{Inno.Scene.GameObject})"
-source: xml
-reviewed: b11dcc8d4b297de27deba67af4b67a26a463e850354541080d982ab0bf547bc4
-title: "SceneEdits.ChangeHierarchy"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeHierarchy(Inno.Scene.GameObject,System.Action{Inno.Editor.Scene.SceneHierarchyEdit},System.String,System.Collections.Generic.IReadOnlyCollection{Inno.Scene.GameObject})
+title: SceneEdits.ChangeHierarchy
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: b11dcc8d4b297de27deba67af4b67a26a463e850354541080d982ab0bf547bc4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies a hierarchy mutation and records only the affected parent and sibling-index tuples.

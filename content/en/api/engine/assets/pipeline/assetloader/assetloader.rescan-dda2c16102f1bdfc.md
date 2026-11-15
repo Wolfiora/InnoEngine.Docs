@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dda2c16102f1bdfcf550f1413dfc594df49dd426724372be409c4f81896bce68
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.Rescan(System.Threading.CancellationToken)"
-source: xml
-reviewed: 0b2830e3c6bbaaf0f5a8ac3759c6f8fb8497d6d338f2b15a8bbe631da8fae011
-title: "AssetLoader.Rescan"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.Rescan(System.Threading.CancellationToken)
+title: AssetLoader.Rescan
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 0b2830e3c6bbaaf0f5a8ac3759c6f8fb8497d6d338f2b15a8bbe631da8fae011
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reconciles source files, metadata, artifacts and the in-memory catalog.

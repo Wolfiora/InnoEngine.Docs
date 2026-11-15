@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.97022f2b4a68b9bd733b224e83e86616956799686799a3f1251ef21b9bfefec0
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.OnCompleted(System.Action)"
-source: xml
-reviewed: e3a939d1157adcfbf33deaa2b1a85cafc79621053cab65f970edac0feaf8ca38
-title: "SerializationReader.OnCompleted"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.OnCompleted(System.Action)
+title: SerializationReader.OnCompleted
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: e3a939d1157adcfbf33deaa2b1a85cafc79621053cab65f970edac0feaf8ca38
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Schedules a callback to run after the complete decode operation succeeds.

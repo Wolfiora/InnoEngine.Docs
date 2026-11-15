@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef33839ee239207a026673086e656f16881d25cf6201e684e42dec91a5e3e911
-symbol: "scripting:Inno.Editor.Shaders:P:InnoEditor.Shaders.ShaderPreviewContext.resourceId"
-source: xml
-reviewed: 886e6f9d8f4f71e9a3ad89b76f61577340f432aaa46164eb1f64121f4fafc2e6
-title: "ShaderPreviewContext.resourceId"
+symbol: scripting:Inno.Editor.Shaders:P:InnoEditor.Shaders.ShaderPreviewContext.resourceId
+title: ShaderPreviewContext.resourceId
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: 886e6f9d8f4f71e9a3ad89b76f61577340f432aaa46164eb1f64121f4fafc2e6
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the publication scope released by the host when this preview closes.

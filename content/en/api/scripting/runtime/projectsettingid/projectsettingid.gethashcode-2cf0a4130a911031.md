@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2cf0a4130a9110317806acbe6b7fecb353694b6c84f924618ca4ff9489f9a208
-symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingId.GetHashCode"
-source: xml
-reviewed: d5d9e3c9bae6718e5a4b26f1abda5b85eec005648d744844994bf924558465a4
-title: "ProjectSettingId.GetHashCode"
+symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingId.GetHashCode
+title: ProjectSettingId.GetHashCode
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: editor-script
+reviewed: d5d9e3c9bae6718e5a4b26f1abda5b85eec005648d744844994bf924558465a4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

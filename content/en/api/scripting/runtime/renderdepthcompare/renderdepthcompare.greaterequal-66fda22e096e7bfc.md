@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.66fda22e096e7bfc44d984441d7ddcd9b4f2993a10821f7ee85a33fb998b3631
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderDepthCompare.GreaterEqual"
-source: xml
-reviewed: aab37c11d0afdb814430df78a950091855e34edc0b398d21f0604b108f8569d9
-title: "RenderDepthCompare.GreaterEqual"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderDepthCompare.GreaterEqual
+title: RenderDepthCompare.GreaterEqual
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: aab37c11d0afdb814430df78a950091855e34edc0b398d21f0604b108f8569d9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Accepts greater or equal depth.

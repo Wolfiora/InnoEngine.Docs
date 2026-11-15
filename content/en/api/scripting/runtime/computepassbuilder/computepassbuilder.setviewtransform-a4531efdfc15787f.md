@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a4531efdfc15787ffd8a36b93954424628fa789eaef95d73582e9a38305e00ba
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.SetViewTransform(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})"
-source: xml
-reviewed: 7fad760b45a1e17d079a476cf85167abc58a66599b17bfbef7c945228dd0c39a
-title: "ComputePassBuilder.SetViewTransform"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.SetViewTransform(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})
+title: ComputePassBuilder.SetViewTransform
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 7fad760b45a1e17d079a476cf85167abc58a66599b17bfbef7c945228dd0c39a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets backend-ready column-major transform matrices exposed to this compute view.

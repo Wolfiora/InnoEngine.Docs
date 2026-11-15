@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d7adc7964360ff9b326d06c707932a41456dbc568e2ff0d4bd3dcc3c4113f241
-symbol: "engine:Inno.Animation:M:Inno.Animation.IAnimationService.Stop(Inno.Animation.AnimationPlaybackHandle)"
-source: xml
-reviewed: e7bea48bb6608e8370b8c0c06ff41df561ad080c9eac038f4670146d2b9d279c
-title: "IAnimationService.Stop"
+symbol: engine:Inno.Animation:M:Inno.Animation.IAnimationService.Stop(Inno.Animation.AnimationPlaybackHandle)
+title: IAnimationService.Stop
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: source-clr
+reviewed: e7bea48bb6608e8370b8c0c06ff41df561ad080c9eac038f4670146d2b9d279c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops one live playback.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.46153aa17762d45e494a1148f412d498bdfd711975bdaa290a7dd44600bf0a6f
-symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.cardBody"
-source: xml
-reviewed: 6d658279b28a080648ef812107f43d7a30c16ed9c523f5a594b4b26636e361c7
-title: "EditorPalette.cardBody"
+symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.cardBody
+title: EditorPalette.cardBody
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 6d658279b28a080648ef812107f43d7a30c16ed9c523f5a594b4b26636e361c7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets card body background.

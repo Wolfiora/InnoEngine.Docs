@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c96e06b84f93dd938700a0e0601f13c71c76c03c63696f2a226221c45c03cbc8
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsUInt32Array(System.String,System.UInt32[])"
-source: xml
-reviewed: b37d09ad776963495d9663ebfc640704a13871639fa74d20264fa1d5819c0087
-title: "EditorSettingObject.GetAsUInt32Array"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsUInt32Array(System.String,System.UInt32[])
+title: EditorSettingObject.GetAsUInt32Array
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: b37d09ad776963495d9663ebfc640704a13871639fa74d20264fa1d5819c0087
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a 32-bit unsigned integer array property, or a copied fallback when absent.

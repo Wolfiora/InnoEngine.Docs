@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.448d796e5d51f7dfa5381371b2bf61192adb673f68ed10b4b056482389c0e6ae
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.HasElementAtPoint(Inno.UI.UiContextHandle,Inno.Core.Mathematics.Vector2)"
-source: xml
-reviewed: c7f300ef041d87debd683c95264d49c8e92db6db733fe272faf1b085068b92e9
-title: "UiRuntime.HasElementAtPoint"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.HasElementAtPoint(Inno.UI.UiContextHandle,Inno.Core.Mathematics.Vector2)
+title: UiRuntime.HasElementAtPoint
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: c7f300ef041d87debd683c95264d49c8e92db6db733fe272faf1b085068b92e9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether an interactive document element occupies the supplied point.

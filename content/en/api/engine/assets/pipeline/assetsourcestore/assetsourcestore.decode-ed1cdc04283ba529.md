@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ed1cdc04283ba529c3baa3dabc50cc2c33bbe82d561ba8f82628fbc0bdfe2392
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceStore.Decode\u0060\u00601(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 3594f32e31a347e237543ff7614527878b1701a5b1ea2c26d972af6d24dfc239
-title: "AssetSourceStore.Decode"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceStore.Decode``1(System.ReadOnlySpan{System.Byte})
+title: AssetSourceStore.Decode
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 3594f32e31a347e237543ff7614527878b1701a5b1ea2c26d972af6d24dfc239
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores a detached native value using current-generation asset references.

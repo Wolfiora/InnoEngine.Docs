@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.88a41daf9eb6940ea289c840a80200910f4c65b9f85159e68189353a32ae2f35
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.Semicolon"
-source: xml
-reviewed: ad2e9adbc9e17a96148c20cfa03479c5d9855524971d0fce356d219b54e635d1
-title: "ImGuiKey.Semicolon"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.Semicolon
+title: ImGuiKey.Semicolon
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: ad2e9adbc9e17a96148c20cfa03479c5d9855524971d0fce356d219b54e635d1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the Semicolon presentation key or modifier.

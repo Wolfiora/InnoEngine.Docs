@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.524d8e47c81ef1e0b98d918ef5b7d391d6f3c3a21b9d23db3d2dfe12dd0da8e4
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.#ctor(Inno.Extensibility.Modules.ModuleHost,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Identity.IdentityAllocator,Inno.Core.Diagnostics.DiagnosticHub,Inno.Core.Logging.LogRouter,Inno.Assets.Pipeline.AssetPipelineOptions)"
-source: xml
-reviewed: 0a98ddeda24bc24d641b397b293ad5bdef85ba025a1192393dd58c3c2b4ae8d0
-title: "AssetPipeline.Constructor"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.#ctor(Inno.Extensibility.Modules.ModuleHost,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Identity.IdentityAllocator,Inno.Core.Diagnostics.DiagnosticHub,Inno.Core.Logging.LogRouter,Inno.Assets.Pipeline.AssetPipelineOptions)
+title: AssetPipeline.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 0a98ddeda24bc24d641b397b293ad5bdef85ba025a1192393dd58c3c2b4ae8d0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one isolated authoring or deployed-runtime asset pipeline.

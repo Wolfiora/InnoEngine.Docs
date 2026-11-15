@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3a4520145dcf834840a377d55dfcc6eaba928573ef7f8a68384bb5aaa2feac7a
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.ToString"
-source: xml
-reviewed: 7435860f56b9d38485bff92180b3712dd57bfc74295741fc3078b0526e4c90a0
-title: "Vector2Int.ToString"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.ToString
+title: Vector2Int.ToString
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 7435860f56b9d38485bff92180b3712dd57bfc74295741fc3078b0526e4c90a0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats this value as a human-readable component list.

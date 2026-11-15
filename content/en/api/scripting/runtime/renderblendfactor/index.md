@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.773b43c72ef842c9
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBlendFactor"
-source: xml
-reviewed: e6a78afcd25f7baa21d3e41e85d6a0a943816423361cd282bda9fdfd5e52ffa3
-title: "RenderBlendFactor"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBlendFactor
+title: RenderBlendFactor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: e6a78afcd25f7baa21d3e41e85d6a0a943816423361cd282bda9fdfd5e52ffa3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

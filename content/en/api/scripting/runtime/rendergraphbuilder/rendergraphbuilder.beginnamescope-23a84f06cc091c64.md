@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.23a84f06cc091c64d0ad50b0bbe1a8a44fb0fcd77455ee407fc8f1da26bb50e3
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.BeginNameScope(System.String)"
-source: xml
-reviewed: ffb8c2160233c39145ba68ccad9e24269563f79fd7e403e48e4c3bd2e1d8fa40
-title: "RenderGraphBuilder.BeginNameScope"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.BeginNameScope(System.String)
+title: RenderGraphBuilder.BeginNameScope
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: ffb8c2160233c39145ba68ccad9e24269563f79fd7e403e48e4c3bd2e1d8fa40
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Prefixes pass and resource diagnostic names until the returned scope is disposed.

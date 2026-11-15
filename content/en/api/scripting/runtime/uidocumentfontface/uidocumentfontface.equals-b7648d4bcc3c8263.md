@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7648d4bcc3c8263c82f1bcff6f9d3e50a95ccc7f5f1fa5ec8108fcb1d670456
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.Equals(InnoEngine.UI.UiDocumentFontFace)"
-source: xml
-reviewed: 6970451f01a8539b1f0be5891834e31bf11a9bd44c94b013a97d1606deb3b3d0
-title: "UiDocumentFontFace.Equals"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.Equals(InnoEngine.UI.UiDocumentFontFace)
+title: UiDocumentFontFace.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 6970451f01a8539b1f0be5891834e31bf11a9bd44c94b013a97d1606deb3b3d0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

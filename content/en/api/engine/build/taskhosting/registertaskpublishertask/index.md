@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.taskhosting.5be0507a3a95ef62
-symbol: "engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.RegisterTaskPublisherTask"
-source: xml
-reviewed: 634411c87ec808e50e1d21a9cf6134cd2a5a31a1dddc02acd26543f70eff0b00
-title: "RegisterTaskPublisherTask"
+symbol: engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.RegisterTaskPublisherTask
+title: RegisterTaskPublisherTask
 kind: api
-owners: [Inno.Build.TaskHosting]
+owners:
+- Inno.Build.TaskHosting
 apiSurface: source-clr
+reviewed: 634411c87ec808e50e1d21a9cf6134cd2a5a31a1dddc02acd26543f70eff0b00
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-taskhosting
 aliases: []

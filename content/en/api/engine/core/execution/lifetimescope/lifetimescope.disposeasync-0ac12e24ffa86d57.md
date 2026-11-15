@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0ac12e24ffa86d572ac2b94a85728408264e8ae92c4cd8a22b6f29138a72f319
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.DisposeAsync"
-source: xml
-reviewed: da107e393ab7dc04c8ec9654d850972b852e788494315482e8cbdf4f6dd45a43
-title: "LifetimeScope.DisposeAsync"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.DisposeAsync
+title: LifetimeScope.DisposeAsync
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: da107e393ab7dc04c8ec9654d850972b852e788494315482e8cbdf4f6dd45a43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Cancels and asynchronously drains tracked work before reverse-order release.

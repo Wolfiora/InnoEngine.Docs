@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4f28d2b72d27df603f80138d494710dd09baef95315088f667fcc054959a2e80
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadWriteStorageBuffer(Inno.Rendering.RenderBufferHandle)"
-source: xml
-reviewed: 38fb4d8b5b24418c1576d479d06bf46d291e7249c708a7d7ce778cee345c5d76
-title: "ComputePassBuilder.ReadWriteStorageBuffer"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadWriteStorageBuffer(Inno.Rendering.RenderBufferHandle)
+title: ComputePassBuilder.ReadWriteStorageBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 38fb4d8b5b24418c1576d479d06bf46d291e7249c708a7d7ce778cee345c5d76
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares an unordered buffer read and write.

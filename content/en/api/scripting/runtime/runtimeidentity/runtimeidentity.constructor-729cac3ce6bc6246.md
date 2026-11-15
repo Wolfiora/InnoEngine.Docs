@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.729cac3ce6bc6246f87a253b8d849cdb02d9b9bc760c0305f626669e9ae00b77
-symbol: "scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.#ctor(InnoEngine.Core.IdentityDomainId,System.Int32)"
-source: xml
-reviewed: 327a960b3e25797234b7c2826eeb7331d9a319c57f86d2d0016685617b079b97
-title: "RuntimeIdentity.Constructor"
+symbol: scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.#ctor(InnoEngine.Core.IdentityDomainId,System.Int32)
+title: RuntimeIdentity.Constructor
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: editor-script
+reviewed: 327a960b3e25797234b7c2826eeb7331d9a319c57f86d2d0016685617b079b97
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a runtime identity from its domain and generation-safe object identifier.

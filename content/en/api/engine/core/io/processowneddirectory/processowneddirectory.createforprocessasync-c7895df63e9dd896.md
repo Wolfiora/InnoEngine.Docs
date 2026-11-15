@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c7895df63e9dd89664490c54445f2adab86726ecc76308c81c470126941f609c
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.CreateForProcessAsync(System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 23fa562b67d426b2d27515f842e482cc50ec3d46034c5714abb86d5ed7b25ef4
-title: "ProcessOwnedDirectory.CreateForProcessAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.CreateForProcessAsync(System.String,System.String,System.Threading.CancellationToken)
+title: ProcessOwnedDirectory.CreateForProcessAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 23fa562b67d426b2d27515f842e482cc50ec3d46034c5714abb86d5ed7b25ef4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a directory protected by this process lifetime when the caller can retain only file metadata. Payload consumers in other processes must register their lifetimes before using it.

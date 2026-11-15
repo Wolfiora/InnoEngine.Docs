@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.115c82d72f87cdbc82ac96843ede69da46cb629eee00c4c5175fa21cbd22b7dc
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsWindowFocused(Inno.Editor.ImGui.ImGuiFocusedFlags)"
-source: xml
-reviewed: 8da95b476b1b896bdcd5c0224200971cb1b778d1bcaffc6a4bcbfd0aa28104fa
-title: "ImGui.IsWindowFocused"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsWindowFocused(Inno.Editor.ImGui.ImGuiFocusedFlags)
+title: ImGui.IsWindowFocused
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 8da95b476b1b896bdcd5c0224200971cb1b778d1bcaffc6a4bcbfd0aa28104fa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks keyboard focus within the declared window scope.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.618356ddf284e4fb8fe38b045a7b3ad06d89ff8ef7aa1b4b7eee94d3f0dc97c8
-symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextShapingOptions.Equals(System.Object)"
-source: xml
-reviewed: 714b749980ee5ddcd276884bc3fcf8c631f9769c2e5fef17ec2a02e67871d146
-title: "TextShapingOptions.Equals"
+symbol: scripting:Inno.Text:M:InnoEngine.Text.TextShapingOptions.Equals(System.Object)
+title: TextShapingOptions.Equals
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: editor-script
+reviewed: 714b749980ee5ddcd276884bc3fcf8c631f9769c2e5fef17ec2a02e67871d146
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

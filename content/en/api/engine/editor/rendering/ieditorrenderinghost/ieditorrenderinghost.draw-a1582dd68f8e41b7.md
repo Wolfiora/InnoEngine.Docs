@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a1582dd68f8e41b7ac1fdbf6d48bbf4949bb27e0a3b959a3572f73739b1a8527
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorRenderingHost.Draw(Inno.Editor.Rendering.EditorViewportOutput,System.Numerics.Vector2)"
-source: xml
-reviewed: 77c58a60f49ac7c79c557dea4cfc9c0bf14a61dd099472ae62837015946baa7c
-title: "IEditorRenderingHost.Draw"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.IEditorRenderingHost.Draw(Inno.Editor.Rendering.EditorViewportOutput,System.Numerics.Vector2)
+title: IEditorRenderingHost.Draw
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 77c58a60f49ac7c79c557dea4cfc9c0bf14a61dd099472ae62837015946baa7c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a ready viewport output inside the current ImGui window.

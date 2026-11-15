@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f17ee968ad1ad4d0b038b9936c43bd943789fa8760baf49197c8a8c0836ee51
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioSpatialOptions.Equals(System.Object)"
-source: xml
-reviewed: bca7bad927d0c32aedfea0005c35414b9deda71f6ea6d872c05f00b009d939d9
-title: "AudioSpatialOptions.Equals"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioSpatialOptions.Equals(System.Object)
+title: AudioSpatialOptions.Equals
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: bca7bad927d0c32aedfea0005c35414b9deda71f6ea6d872c05f00b009d939d9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4590f8722e74b7ddd6a9f6d0e03b8ff959370431ee0d298fc2a2b265bf80ed5a
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TryGetPanelState(System.String,System.Boolean@)"
-source: xml
-reviewed: eaeae5c995234bf7b20dba5156730f07a632ddc9f2543464734fbf9906dc8fda
-title: "EditorInteractions.TryGetPanelState"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TryGetPanelState(System.String,System.Boolean@)
+title: EditorInteractions.TryGetPanelState
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: eaeae5c995234bf7b20dba5156730f07a632ddc9f2543464734fbf9906dc8fda
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads whether one available panel is currently open.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d1740387bc8ed88056a77789ec61067dc014ba09aef07bf4d306f06532667e95
-symbol: "scripting:Inno.Core.Serialization:F:InnoEngine.Serialization.PropertyVisibility.Show"
-source: xml
-reviewed: 4d5d430e1365fcc23907bdb57d679a8e61455b22d139ac0c2d29389370c0c167
-title: "PropertyVisibility.Show"
+symbol: scripting:Inno.Core.Serialization:F:InnoEngine.Serialization.PropertyVisibility.Show
+title: PropertyVisibility.Show
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: 4d5d430e1365fcc23907bdb57d679a8e61455b22d139ac0c2d29389370c0c167
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Can serialize, deserialize, and allow runtime get/set.

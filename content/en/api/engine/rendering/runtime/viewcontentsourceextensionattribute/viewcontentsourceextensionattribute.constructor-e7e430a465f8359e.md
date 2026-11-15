@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e7e430a465f8359e2db720eaccf7e7340a66fcaac2220638628a975ef9582d98
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ViewContentSourceExtensionAttribute.#ctor(System.String)"
-source: xml
-reviewed: 8161d0e358e2a4ac8f7a73bb5dbacba11ce432a40b5b6e10260dfdb67394087b
-title: "ViewContentSourceExtensionAttribute.Constructor"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ViewContentSourceExtensionAttribute.#ctor(System.String)
+title: ViewContentSourceExtensionAttribute.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 8161d0e358e2a4ac8f7a73bb5dbacba11ce432a40b5b6e10260dfdb67394087b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a source declaration with a stable identifier.

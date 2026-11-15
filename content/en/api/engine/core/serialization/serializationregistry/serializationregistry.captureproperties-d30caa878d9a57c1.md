@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d30caa878d9a57c1aca41f22c037504eac78edc2cb15a05194d1badafcf278d0
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.CaptureProperties(Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: b873eea57b8354e5b6a4084b03b2fc48356a8e65cc239670ad63dbefe2bc7e46
-title: "SerializationRegistry.CaptureProperties"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.CaptureProperties(Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)
+title: SerializationRegistry.CaptureProperties
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: b873eea57b8354e5b6a4084b03b2fc48356a8e65cc239670ad63dbefe2bc7e46
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures each persistent property independently for reload-safe state restoration.

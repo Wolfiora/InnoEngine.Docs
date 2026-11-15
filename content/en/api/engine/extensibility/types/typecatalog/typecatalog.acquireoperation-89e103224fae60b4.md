@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.89e103224fae60b4a646836729d8161c3b75b1d1a814663f14fa11f415f0ab09
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.AcquireOperation(System.String)"
-source: xml
-reviewed: 7ee04d9d64f8e0db4031ce905e718f68a9c2791b2a2624feaa80f9a0414cbdf5
-title: "TypeCatalog.AcquireOperation"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.AcquireOperation(System.String)
+title: TypeCatalog.AcquireOperation
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 7ee04d9d64f8e0db4031ce905e718f68a9c2791b2a2624feaa80f9a0414cbdf5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Defers automatic assembly publication until a synchronous typed operation releases its current owners.

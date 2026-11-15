@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cb312b83bdc8863d85b839c5a8edf0b0c3222a3e198cd99b50bcfcb2bc8fe106
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.TryGetInfo(System.Guid,Inno.Assets.AssetInfo@)"
-source: xml
-reviewed: cd1a7da37d44f414c3c7ed87cbc93b2eff79c523314e023c50d7555074e0a465
-title: "AssetPipeline.TryGetInfo"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.TryGetInfo(System.Guid,Inno.Assets.AssetInfo@)
+title: AssetPipeline.TryGetInfo
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: cd1a7da37d44f414c3c7ed87cbc93b2eff79c523314e023c50d7555074e0a465
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to get a catalog snapshot by persistent identity.

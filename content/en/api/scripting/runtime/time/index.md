@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.runtime.runtime-script.0cb718723b4ea1f9
-symbol: "scripting:Inno.Runtime:T:InnoEngine.Core.Time"
-source: xml
-reviewed: fbc7e59db1c5cd3cb43767a05271ccbedc8243aacac63591b3085fd7a37bbdb9
-title: "Time"
+symbol: scripting:Inno.Runtime:T:InnoEngine.Core.Time
+title: Time
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: editor-script
+reviewed: fbc7e59db1c5cd3cb43767a05271ccbedc8243aacac63591b3085fd7a37bbdb9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-runtime

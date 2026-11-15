@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d39c0e69bfe20294f45931f17e5ddb9a148479afdc1cbe06d509c9b3e8a62384
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationContext.With\u0060\u00601(\u0060\u00600)"
-source: xml
-reviewed: 1adac4f8dacf6e558d692c1bb791784affd5006d803a0d065705385cf7faff82
-title: "SerializationContext.With"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationContext.With``1(``0)
+title: SerializationContext.With
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 1adac4f8dacf6e558d692c1bb791784affd5006d803a0d065705385cf7faff82
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns a new context containing the supplied value under its declared context type.

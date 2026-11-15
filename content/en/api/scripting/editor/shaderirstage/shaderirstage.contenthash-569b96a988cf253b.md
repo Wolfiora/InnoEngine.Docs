@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.569b96a988cf253be45ba39a516b164b68acde2edd1ffef8511d1ad5c675d20a
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.contentHash"
-source: xml
-reviewed: 5ba601873582026413e673ebec9f6e25946f6214edc35179574f42f49f4a77c7
-title: "ShaderIrStage.contentHash"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.contentHash
+title: ShaderIrStage.contentHash
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 5ba601873582026413e673ebec9f6e25946f6214edc35179574f42f49f4a77c7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a deterministic hash of stage semantics, ordered effects, nested regions, complete types, resource layout and frozen sources. A compiled artifact cache must additionally include toolchain identity, target capabilities, optimization and variant configuration.

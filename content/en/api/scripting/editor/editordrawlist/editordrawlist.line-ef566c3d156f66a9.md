@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef566c3d156f66a92cd22417718f87e057596fd639bba26fba473fecd09634be
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.Line(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)"
-source: xml
-reviewed: 5a597274857905d4244158578969768013c5302bcdb26ad1cf3041b17c699bc8
-title: "EditorDrawList.Line"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.Line(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)
+title: EditorDrawList.Line
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 5a597274857905d4244158578969768013c5302bcdb26ad1cf3041b17c699bc8
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a straight screen-space stroke.

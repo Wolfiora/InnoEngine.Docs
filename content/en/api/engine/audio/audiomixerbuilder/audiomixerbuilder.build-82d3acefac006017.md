@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.82d3acefac006017682c07c947fc0995a6c34c3cc70c75d1605811108461c68d
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.Build"
-source: xml
-reviewed: bcaa5a22475f8797c672cc3cc0edd2271eb5c5e9a2019c52e405bb85d8ad8167
-title: "AudioMixerBuilder.Build"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.Build
+title: AudioMixerBuilder.Build
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: bcaa5a22475f8797c672cc3cc0edd2271eb5c5e9a2019c52e405bb85d8ad8167
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates the graph and returns an immutable parent-before-child snapshot.

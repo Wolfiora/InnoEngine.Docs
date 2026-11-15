@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4705e9fcc05573b58daf2d3de4628e72a92bff409be5917c2815972a8fa0e8c7
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.Conjugate(Inno.Core.Mathematics.Quaternion)"
-source: xml
-reviewed: 5a2561c17b0c2a427a34b405d423c392b6cf6772fdb08462df3e110c25450006
-title: "Quaternion.Conjugate"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.Conjugate(Inno.Core.Mathematics.Quaternion)
+title: Quaternion.Conjugate
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 5a2561c17b0c2a427a34b405d423c392b6cf6772fdb08462df3e110c25450006
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the quaternion conjugate by negating its vector components.

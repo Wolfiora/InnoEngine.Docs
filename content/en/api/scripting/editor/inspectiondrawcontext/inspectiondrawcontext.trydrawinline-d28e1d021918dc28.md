@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d28e1d021918dc28364491bb5ddd94d44219c5946e175b45a660adbee7fcb62d
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawContext.TryDrawInline(System.Object)"
-source: xml
-reviewed: 009568462054fda5ccef52e001a6f15ea98844cbb430980139f7d26f095bcc1e
-title: "InspectionDrawContext.TryDrawInline"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawContext.TryDrawInline(System.Object)
+title: InspectionDrawContext.TryDrawInline
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: 009568462054fda5ccef52e001a6f15ea98844cbb430980139f7d26f095bcc1e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws an exact target-specific body inside the caller's existing Inspector card.

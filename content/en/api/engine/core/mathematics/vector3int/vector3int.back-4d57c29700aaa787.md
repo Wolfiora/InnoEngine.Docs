@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d57c29700aaa78712c5f6c7bc238f9afe265c8b4a2bcc5cf984b1e760a6c0b7
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3Int.BACK"
-source: xml
-reviewed: a45d6d36b134014c42525d905ba35c4850dc6bdd21caee3495bab81a8c2e1c5d
-title: "Vector3Int.BACK"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3Int.BACK
+title: Vector3Int.BACK
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: a45d6d36b134014c42525d905ba35c4850dc6bdd21caee3495bab81a8c2e1c5d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The back value used as part of this type's public representation.

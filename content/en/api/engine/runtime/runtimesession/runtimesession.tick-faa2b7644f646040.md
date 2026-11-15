@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.faa2b7644f64604017b6dce1c5d7f519cd4f42f1f579a79618d562e02fcdaf1e
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.RuntimeSession.Tick(System.Single)"
-source: xml
-reviewed: 1d83eb2f324815ef4f968306fbfdcc63115f609a585d4ff908b1bb8cb73cd094
-title: "RuntimeSession.Tick"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSession.Tick(System.Single)
+title: RuntimeSession.Tick
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 1d83eb2f324815ef4f968306fbfdcc63115f609a585d4ff908b1bb8cb73cd094
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances session events, jobs, coroutines, and scene lifecycle by one frame.

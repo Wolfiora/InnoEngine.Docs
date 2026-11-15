@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2ea9a2bd0fdbf63c6487bd90614e69ab393bb134383b287433bb298cafdbeefe
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Equals(System.Object)"
-source: xml
-reviewed: 5ed29af73c0adc6dcdf302aa77bb958e6fa8db579b8a3f683610cbf4c0a61c30
-title: "Matrix.Equals"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Equals(System.Object)
+title: Matrix.Equals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 5ed29af73c0adc6dcdf302aa77bb958e6fa8db579b8a3f683610cbf4c0a61c30
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this instance and the supplied value represent the same logical state.

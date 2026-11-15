@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d21908cce97f6f01e5f4ef9deeff1c483a40e8caf32288cbc18cdf659aca7113
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.Equals(InnoEngine.Rendering.RenderVertexLayout)"
-source: xml
-reviewed: 1ad54f7853a864102f8f70eb72cee3c33c6642db9bbf401729e6351864ad1034
-title: "RenderVertexLayout.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.Equals(InnoEngine.Rendering.RenderVertexLayout)
+title: RenderVertexLayout.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 1ad54f7853a864102f8f70eb72cee3c33c6642db9bbf401729e6351864ad1034
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this instance and the supplied value represent the same logical state.

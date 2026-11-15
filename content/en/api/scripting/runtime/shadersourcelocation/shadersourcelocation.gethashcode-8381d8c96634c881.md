@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8381d8c96634c881a560851acf97c2b19ba6ded13be7db1df0a600bd231f99fe
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderSourceLocation.GetHashCode"
-source: xml
-reviewed: 4929888f7ccfb1818d33e833c33df006c4c23063b4691ac6b3966fb501db1b7a
-title: "ShaderSourceLocation.GetHashCode"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderSourceLocation.GetHashCode
+title: ShaderSourceLocation.GetHashCode
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 4929888f7ccfb1818d33e833c33df006c4c23063b4691ac6b3966fb501db1b7a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

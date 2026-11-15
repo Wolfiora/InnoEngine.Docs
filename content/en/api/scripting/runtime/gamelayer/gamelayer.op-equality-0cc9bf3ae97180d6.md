@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0cc9bf3ae97180d6a721376ba0defc5473e829d7f86740dbeb39acf114f76d63
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.op_Equality(InnoEngine.Scene.GameLayer,InnoEngine.Scene.GameLayer)"
-source: xml
-reviewed: 4579515d216254fcb6c810a1ac6514fe05441182adeed731ecb69399e379ad37
-title: "GameLayer.op_Equality"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.op_Equality(InnoEngine.Scene.GameLayer,InnoEngine.Scene.GameLayer)
+title: GameLayer.op_Equality
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 4579515d216254fcb6c810a1ac6514fe05441182adeed731ecb69399e379ad37
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two layer identifiers contain the same index.

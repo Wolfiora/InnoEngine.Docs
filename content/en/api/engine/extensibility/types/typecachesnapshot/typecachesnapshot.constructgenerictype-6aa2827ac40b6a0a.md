@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6aa2827ac40b6a0af50305ac3a2d5c374626e83536eb445533addea6993698d9
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
-source: xml
-reviewed: df1bd72899965b58e83ec45ca04b31ad27b8f3df391eadaf18e90fb0939cd170
-title: "TypeCacheSnapshot.ConstructGenericType"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})
+title: TypeCacheSnapshot.ConstructGenericType
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: df1bd72899965b58e83ec45ca04b31ad27b8f3df391eadaf18e90fb0939cd170
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a generic construction belonging to this exact generation.

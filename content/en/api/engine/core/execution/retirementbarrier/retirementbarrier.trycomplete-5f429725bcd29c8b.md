@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5f429725bcd29c8b3c53b7e024e1d3b35d83b7059bcee8bf0c790174dcc3fa4a
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.TryComplete(System.Action)"
-source: xml
-reviewed: 7fa1ddaed9a72078bc7059777184dca2d6d43ada0112fb4c293ec06581f53d8d
-title: "RetirementBarrier.TryComplete"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.TryComplete(System.Action)
+title: RetirementBarrier.TryComplete
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 7fa1ddaed9a72078bc7059777184dca2d6d43ada0112fb4c293ec06581f53d8d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attempts retirement once at an owner-thread safe point.

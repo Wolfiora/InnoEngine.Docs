@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.233633214a0d7dbf0e77e784e5d7830efb62e0dadcecca66df203417e72039f8
-symbol: "engine:Inno.Editor.Diagnostics:M:Inno.Editor.Diagnostics.EditorConsole.#ctor(Inno.Core.Logging.LogRouter,Inno.Core.Diagnostics.DiagnosticHub,Inno.Editor.PlayMode.IEditorPlayMode)"
-source: xml
-reviewed: c5c076101c5a874b12df88c78ba80503c4f974da72090bc5ecb12b7a38137229
-title: "EditorConsole.Constructor"
+symbol: engine:Inno.Editor.Diagnostics:M:Inno.Editor.Diagnostics.EditorConsole.#ctor(Inno.Core.Logging.LogRouter,Inno.Core.Diagnostics.DiagnosticHub,Inno.Editor.PlayMode.IEditorPlayMode)
+title: EditorConsole.Constructor
 kind: api
-owners: [Inno.Editor.Diagnostics]
+owners:
+- Inno.Editor.Diagnostics
 apiSurface: source-clr
+reviewed: c5c076101c5a874b12df88c78ba80503c4f974da72090bc5ecb12b7a38137229
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a Console service that observes one editor Play Mode controller.

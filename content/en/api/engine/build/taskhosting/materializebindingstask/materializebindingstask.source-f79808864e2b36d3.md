@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f79808864e2b36d3aff8f753fcdd3ae9ad48cab0ec759b264b5d550f01fbe125
-symbol: "engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.MaterializeBindingsTask.Source"
-source: xml
-reviewed: 91466b496063e615391b6f0b55afc2556332e58fb430730c092a8f5aa46e5b57
-title: "MaterializeBindingsTask.Source"
+symbol: engine:Inno.Build.TaskHosting:P:Inno.Build.TaskHosting.MaterializeBindingsTask.Source
+title: MaterializeBindingsTask.Source
 kind: api
-owners: [Inno.Build.TaskHosting]
+owners:
+- Inno.Build.TaskHosting
 apiSurface: source-clr
+reviewed: 91466b496063e615391b6f0b55afc2556332e58fb430730c092a8f5aa46e5b57
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the exact selected managed source, without selecting another generation.

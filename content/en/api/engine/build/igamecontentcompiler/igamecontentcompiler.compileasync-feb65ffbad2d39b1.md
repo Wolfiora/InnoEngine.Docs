@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.feb65ffbad2d39b10c643aa52cb62da92f59ab2d9b5379a5cf229d1bc6a662b5
-symbol: "engine:Inno.Build:M:Inno.Build.IGameContentCompiler.CompileAsync(Inno.Build.GameBuildContentContext,System.Threading.CancellationToken)"
-source: xml
-reviewed: 5de6908384f3672206f8bff4e8f3b700ef1963e3451254cc9a29299d5be2ef8f
-title: "IGameContentCompiler.CompileAsync"
+symbol: engine:Inno.Build:M:Inno.Build.IGameContentCompiler.CompileAsync(Inno.Build.GameBuildContentContext,System.Threading.CancellationToken)
+title: IGameContentCompiler.CompileAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 5de6908384f3672206f8bff4e8f3b700ef1963e3451254cc9a29299d5be2ef8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes target content into the current operation's isolated staging directory.

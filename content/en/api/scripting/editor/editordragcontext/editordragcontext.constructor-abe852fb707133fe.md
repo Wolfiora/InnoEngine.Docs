@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.abe852fb707133fe329de12be8cfe639c5ff08be836082e8eb3e47a0439ec3a4
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDragContext.#ctor(InnoEditor.Core.EditorContext,InnoEditor.Interactions.EditorInteractions,System.String,InnoEditor.Interactions.EditorDragData)"
-source: xml
-reviewed: 24d3ac911b000bc00069b6bea508ec6ee2fe472786fefc78e3537c95b50e2dc2
-title: "EditorDragContext.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDragContext.#ctor(InnoEditor.Core.EditorContext,InnoEditor.Interactions.EditorInteractions,System.String,InnoEditor.Interactions.EditorDragData)
+title: EditorDragContext.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 24d3ac911b000bc00069b6bea508ec6ee2fe472786fefc78e3537c95b50e2dc2
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a managed editor drag request.

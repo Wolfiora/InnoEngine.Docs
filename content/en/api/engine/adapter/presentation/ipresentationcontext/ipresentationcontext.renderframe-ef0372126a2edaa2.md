@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef0372126a2edaa214f4384ee44dac9107ea62cdea328ed6bfe4bedd5811a9a8
-symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.IPresentationContext.RenderFrame(System.Action,System.Action)"
-source: xml
-reviewed: 6fa3af0bf2bf40aaa3d85b32ab1a34c58663f32de00a7f058cb736fd158ead9b
-title: "IPresentationContext.RenderFrame"
+symbol: engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.IPresentationContext.RenderFrame(System.Action,System.Action)
+title: IPresentationContext.RenderFrame
 kind: api
-owners: [Inno.Adapter.Presentation]
+owners:
+- Inno.Adapter.Presentation
 apiSurface: source-clr
+reviewed: 6fa3af0bf2bf40aaa3d85b32ab1a34c58663f32de00a7f058cb736fd158ead9b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds one presentation frame by invoking the host draw callback.

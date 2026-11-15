@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.382227c97f720cae4cbc885db4dd4ea2722215f186b1fa734041169925862c21
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderTextureDescriptor.depth"
-source: xml
-reviewed: 64ef3a9ccb3ef4d7e475629cd7fcfa21c23dd7d0b5d0196578c984d098b15f10
-title: "RenderTextureDescriptor.depth"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderTextureDescriptor.depth
+title: RenderTextureDescriptor.depth
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 64ef3a9ccb3ef4d7e475629cd7fcfa21c23dd7d0b5d0196578c984d098b15f10
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the base mip depth for a three-dimensional texture.

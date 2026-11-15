@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1b2cbdc5fbb237b3e828b47ac1fcfcaf94783dbdea406730bf688395b90dc871
-symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderPreviewProvider.CreateLayer(InnoEditor.Shaders.ShaderPreviewContext)"
-source: xml
-reviewed: dbac2795a54ad51c4efbe4e64b557d8a8a6c054f4f93082df0a05b9774a4c02f
-title: "ShaderPreviewProvider.CreateLayer"
+symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderPreviewProvider.CreateLayer(InnoEditor.Shaders.ShaderPreviewContext)
+title: ShaderPreviewProvider.CreateLayer
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: dbac2795a54ad51c4efbe4e64b557d8a8a6c054f4f93082df0a05b9774a4c02f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one frame-local rendering layer through the ordinary Render Graph.

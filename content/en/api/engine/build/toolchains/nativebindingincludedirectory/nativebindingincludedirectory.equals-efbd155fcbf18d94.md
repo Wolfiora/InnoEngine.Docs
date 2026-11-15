@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.efbd155fcbf18d944b3130210ff72dd5fede5041036b0ac87a4288d9634077d4
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.Equals(Inno.Build.Toolchains.NativeBindingIncludeDirectory)"
-source: xml
-reviewed: 6f77fd40ea0560c35566b01674e86f5ab20554b9ec5408d64f365629fa1a3e9b
-title: "NativeBindingIncludeDirectory.Equals"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.Equals(Inno.Build.Toolchains.NativeBindingIncludeDirectory)
+title: NativeBindingIncludeDirectory.Equals
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 6f77fd40ea0560c35566b01674e86f5ab20554b9ec5408d64f365629fa1a3e9b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

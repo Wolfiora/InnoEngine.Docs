@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e1f047f579dd7cf01e1e12ca0ace29f67b431ade0a7e6e3ff33e4638c75c013f
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationMenuAttribute.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Boolean)"
-source: xml
-reviewed: 4e335bd1fa9cc412a15a6b47ef22a3caf87423538226c1831e4d3757c432fbf1
-title: "AssetCreationMenuAttribute.Constructor"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationMenuAttribute.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Boolean)
+title: AssetCreationMenuAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: 4e335bd1fa9cc412a15a6b47ef22a3caf87423538226c1831e4d3757c432fbf1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one asset creation menu declaration.

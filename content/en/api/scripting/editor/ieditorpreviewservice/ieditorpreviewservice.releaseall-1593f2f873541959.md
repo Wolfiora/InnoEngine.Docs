@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1593f2f8735419599916c760e63fdc93172eb321e4b3d7e298ddc5ed01db0595
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.ReleaseAll"
-source: xml
-reviewed: 74a7a537a866c113c05f1ef5cf6cc2fbe2db7ab7ef0f3c2ba62f1ea77a89beab
-title: "IEditorPreviewService.ReleaseAll"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.ReleaseAll
+title: IEditorPreviewService.ReleaseAll
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 74a7a537a866c113c05f1ef5cf6cc2fbe2db7ab7ef0f3c2ba62f1ea77a89beab
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases every cached preview registration.

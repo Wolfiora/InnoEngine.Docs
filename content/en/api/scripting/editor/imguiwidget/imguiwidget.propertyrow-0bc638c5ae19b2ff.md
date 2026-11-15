@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0bc638c5ae19b2ffcb2a52e209a95fde0957c7bd8ade945e6743af662e9554e7
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PropertyRow(System.String,System.String,System.Action,System.String)"
-source: xml
-reviewed: 337928c1ddf5bb4fbcb6c395bee92944c0eb90f84f30a6b248b069a6021330fa
-title: "ImGuiWidget.PropertyRow"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PropertyRow(System.String,System.String,System.Action,System.String)
+title: ImGuiWidget.PropertyRow
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 337928c1ddf5bb4fbcb6c395bee92944c0eb90f84f30a6b248b069a6021330fa
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a two-column property row with a stable internal identifier.

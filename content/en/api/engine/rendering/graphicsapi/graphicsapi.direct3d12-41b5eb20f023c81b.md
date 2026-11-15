@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41b5eb20f023c81bbbb47f63dc2769f8dd08d53ab161ae59f84e665aae19ae06
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.GraphicsApi.Direct3D12"
-source: xml
-reviewed: 3cf6fdceeb6cf0eaa93002d89e402b6ebd6738be609ac073bc571dd2b5e9c186
-title: "GraphicsApi.Direct3D12"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.GraphicsApi.Direct3D12
+title: GraphicsApi.Direct3D12
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 3cf6fdceeb6cf0eaa93002d89e402b6ebd6738be609ac073bc571dd2b5e9c186
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Direct3D 12 renderer.

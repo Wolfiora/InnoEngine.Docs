@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.39a3148948d87b56fff9a73485be0e60f09096c8ab95f7b1322b3cbf57d9a0b2
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableFlags.NoBordersInBodyUntilResize"
-source: xml
-reviewed: cc5de4adb616b990cc0bbc29650ddf65ef978020c17443d163afe5dcb849cc53
-title: "ImGuiTableFlags.NoBordersInBodyUntilResize"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableFlags.NoBordersInBodyUntilResize
+title: ImGuiTableFlags.NoBordersInBodyUntilResize
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: cc5de4adb616b990cc0bbc29650ddf65ef978020c17443d163afe5dcb849cc53
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Disable vertical borders in columns Body until hovered for resize (borders will always appear in Headers). -\> May move to style

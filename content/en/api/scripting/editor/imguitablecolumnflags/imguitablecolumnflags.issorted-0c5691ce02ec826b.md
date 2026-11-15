@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0c5691ce02ec826bb980be9836803b04802746e642ff367efc598dc737440cbc
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.IsSorted"
-source: xml
-reviewed: 838c894928ae31d1f66d4176cc9e5b241cb9c9f05d876dc8f6abc4b357ebcc30
-title: "ImGuiTableColumnFlags.IsSorted"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.IsSorted
+title: ImGuiTableColumnFlags.IsSorted
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 838c894928ae31d1f66d4176cc9e5b241cb9c9f05d876dc8f6abc4b357ebcc30
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Status: is currently part of the sort specs

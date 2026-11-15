@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6f64bf2516d97e3c0fc10639ce361512ebf26b60e439a9bb97c6f1e7a7c7acf2
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPresentationSize.Equals(InnoEngine.Rendering.RenderPresentationSize)"
-source: xml
-reviewed: c174d518146ac93e774c6515ff621f393677e92b90db831e8b2df7146efad78d
-title: "RenderPresentationSize.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPresentationSize.Equals(InnoEngine.Rendering.RenderPresentationSize)
+title: RenderPresentationSize.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: c174d518146ac93e774c6515ff621f393677e92b90db831e8b2df7146efad78d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

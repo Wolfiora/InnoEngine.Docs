@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.13763f1536e261b838e4c1f97bb5dff002b89c4687b136e6f45300980ec39db8
-symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.HideIfAttribute.#ctor(System.String,System.Object)"
-source: xml
-reviewed: 382017b79d8a1a9f6d6e47c1e7e1a293afbff23d3a3f3beb86a79dc43af828e2
-title: "HideIfAttribute.Constructor"
+symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.HideIfAttribute.#ctor(System.String,System.Object)
+title: HideIfAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: 382017b79d8a1a9f6d6e47c1e7e1a293afbff23d3a3f3beb86a79dc43af828e2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an equality condition.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.24f76c39933a554abdd337a96c63237069d6dd570de2c1775df742b1e0b7ea04
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuSelector(System.String,System.String,System.Single,System.Single)"
-source: xml
-reviewed: b4c6ab8efdf577e85ff15ff0ef35464c8a5817795deec9fff1c5990c1c68165d
-title: "ImGuiWidget.BeginMenuSelector"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuSelector(System.String,System.String,System.Single,System.Single)
+title: ImGuiWidget.BeginMenuSelector
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: b4c6ab8efdf577e85ff15ff0ef35464c8a5817795deec9fff1c5990c1c68165d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a compact selector control and begins a work-area-bounded menu popup.

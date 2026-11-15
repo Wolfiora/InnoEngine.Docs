@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c47562a2b2dd2c34fe28d6bf36043a1164875d8fccb55fdbb09d25781f20b7df
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3Int.y"
-source: xml
-reviewed: 7d84dcede281cd70cd44e339e45be5153029aa4235e44045d9eeaa2e2c37728c
-title: "Vector3Int.y"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector3Int.y
+title: Vector3Int.y
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 7d84dcede281cd70cd44e339e45be5153029aa4235e44045d9eeaa2e2c37728c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The vertical or second component.

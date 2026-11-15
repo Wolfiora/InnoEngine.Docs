@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d42fcdfabcf7738af908f973ed4932c55ddd4d30926522ca30964f72a6eff627
-symbol: "scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.WasKeyPressed(InnoEngine.Input.KeyCode)"
-source: xml
-reviewed: f45a8b50be7111b16fd4fc48a20ab4f297da528624832d092a94b6363b0a1674
-title: "InputSnapshot.WasKeyPressed"
+symbol: scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.WasKeyPressed(InnoEngine.Input.KeyCode)
+title: InputSnapshot.WasKeyPressed
 kind: api
-owners: [Inno.Input]
+owners:
+- Inno.Input
 apiSurface: editor-script
+reviewed: f45a8b50be7111b16fd4fc48a20ab4f297da528624832d092a94b6363b0a1674
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether a key was newly pressed during this frame.

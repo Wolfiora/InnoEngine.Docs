@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0e1465da3bc48141f4e79de0b0244897095bb69f9c7eb66b817fd87a00858f15
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.Equals(System.Object)"
-source: xml
-reviewed: 8bdc7eebb64ee285f954dcdd949a4a3eddb0761984822b0b8a91b54a87706c44
-title: "Color.Equals"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.Equals(System.Object)
+title: Color.Equals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 8bdc7eebb64ee285f954dcdd949a4a3eddb0761984822b0b8a91b54a87706c44
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this value and the supplied value represent the same logical state.

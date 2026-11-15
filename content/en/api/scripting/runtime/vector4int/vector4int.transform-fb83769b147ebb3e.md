@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fb83769b147ebb3e7c9ae34971123ee1a72e7b2c7a1cebd499b9d3446f7fef8e
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.Transform(InnoEngine.Mathematics.Vector4Int,InnoEngine.Mathematics.Matrix)"
-source: xml
-reviewed: 2a7f838c78124721335df30c78b4a6fa8933ae281240a3584aaa5847cb004464
-title: "Vector4Int.Transform"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.Transform(InnoEngine.Mathematics.Vector4Int,InnoEngine.Mathematics.Matrix)
+title: Vector4Int.Transform
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 2a7f838c78124721335df30c78b4a6fa8933ae281240a3584aaa5847cb004464
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Transforms the supplied value by the requested transformation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d0636af324cbfb47e1fba8e1f951afae7a9e079efa13358ee1057a7f51d6e186
-symbol: "engine:Inno.Editor.Hosting:M:Inno.Editor.Hosting.EditorApplication.RunAsync(Inno.Editor.Hosting.EditorLaunchOptions,System.Threading.CancellationToken)"
-source: xml
-reviewed: 147bec3b41964744503d2710c70ce0636d3053e4fec302b108757cb42e31e380
-title: "EditorApplication.RunAsync"
+symbol: engine:Inno.Editor.Hosting:M:Inno.Editor.Hosting.EditorApplication.RunAsync(Inno.Editor.Hosting.EditorLaunchOptions,System.Threading.CancellationToken)
+title: EditorApplication.RunAsync
 kind: api
-owners: [Inno.Editor.Hosting]
+owners:
+- Inno.Editor.Hosting
 apiSurface: source-clr
+reviewed: 147bec3b41964744503d2710c70ce0636d3053e4fec302b108757cb42e31e380
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates composition, owns the created Editor host and retires resources on exit, cancellation or failure.

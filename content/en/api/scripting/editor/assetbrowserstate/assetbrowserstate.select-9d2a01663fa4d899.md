@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9d2a01663fa4d899fc327e507586d45a1ab676245902e2522bbaff044e051941
-symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.Select(InnoEditor.Core.EditorContext,System.String)"
-source: xml
-reviewed: cee69e89562d4d0a063bc3eb29843e1cc0b12c13d2d1c4222b6a976657fb1206
-title: "AssetBrowserState.Select"
+symbol: scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.Select(InnoEditor.Core.EditorContext,System.String)
+title: AssetBrowserState.Select
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: editor-script
+reviewed: cee69e89562d4d0a063bc3eb29843e1cc0b12c13d2d1c4222b6a976657fb1206
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects an asset path through the editor-wide selection state, or clears Asset selection.

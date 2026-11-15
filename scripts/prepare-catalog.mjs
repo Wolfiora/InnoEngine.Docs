@@ -21,7 +21,7 @@ async function writeChanged(file, value) {
 
 /** Explicit build preparation. Ordinary queries never invoke this bootstrap or access the network. */
 export async function prepareCatalog({ root = process.cwd(), engineRoot = process.env.INNO_DOCS_ENGINE_ROOT,
-  signal, dotnetHost } = {}) {
+  signal, dotnetHost, operation = [] } = {}) {
   root = path.resolve(root);
   const binding = JSON.parse(await readFile(path.join(root, 'reference/engine.lock.json'), 'utf8'));
   validateBinding(binding);
@@ -82,14 +82,22 @@ export async function prepareCatalog({ root = process.cwd(), engineRoot = proces
     await run(host, ['build', projectPath, '--output', bundle, '--artifacts-path', path.join(workspace, 'obj'),
       `-p:InnoTaskBootstrapOwner=${randomUUID().replaceAll('-', '')}`, `-m:${Math.min(os.availableParallelism(), 4)}`,
       '-warnAsError:MSB9008', '-nodeReuse:false', '--disable-build-servers', '-v', 'minimal'], { cwd: workspace, env, signal });
-    await run(host, [path.join(bundle, 'CatalogAdapter.dll'), root], { cwd: workspace, env, signal });
+    await run(host, [path.join(bundle, 'CatalogAdapter.dll'), root, ...operation], { cwd: workspace, env, signal });
   } finally { await lock.close(); await rm(lockPath); }
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   const args = process.argv.slice(2);
-  if (args.length && (args.length !== 2 || args[0] !== '--engine-root')) throw new Error('Usage: prepare-catalog.mjs [--engine-root PATH]');
+  let engineRoot = process.env.INNO_DOCS_ENGINE_ROOT;
+  let operation = [];
+  while (args.length) {
+    const option = args.shift();
+    if (option === '--engine-root' && args[0]) engineRoot = args.shift();
+    else if (option === '--review' && args[0] && !operation.length) operation = ['api-review', args.shift()];
+    else if (option === '--sync' && !operation.length) operation = ['api-sync'];
+    else throw new Error('Usage: prepare-catalog.mjs [--engine-root PATH] [--review REGISTERED_API_MARKDOWN | --sync]');
+  }
   const cancellation = new AbortController();
   for (const signal of ['SIGINT', 'SIGTERM']) process.once(signal, () => cancellation.abort());
-  await prepareCatalog({ root: fileURLToPath(new URL('../', import.meta.url)), engineRoot: args[1] ?? process.env.INNO_DOCS_ENGINE_ROOT, signal: cancellation.signal });
+  await prepareCatalog({ root: fileURLToPath(new URL('../', import.meta.url)), engineRoot, operation, signal: cancellation.signal });
 }

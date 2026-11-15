@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.85353bd160407b2dff5f2d369692a57058322a93519747a7e5615d9b0983b345
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsMultisampleRenderTarget(Inno.Rendering.RenderTextureFormat)"
-source: xml
-reviewed: 049fd3f6550000f491ddbd055e0147443356216f7bbd59c4b4fb566b6844f433
-title: "GraphicsCapabilities.SupportsMultisampleRenderTarget"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsMultisampleRenderTarget(Inno.Rendering.RenderTextureFormat)
+title: GraphicsCapabilities.SupportsMultisampleRenderTarget
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 049fd3f6550000f491ddbd055e0147443356216f7bbd59c4b4fb566b6844f433
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether a format is valid as a multisampled raster attachment.

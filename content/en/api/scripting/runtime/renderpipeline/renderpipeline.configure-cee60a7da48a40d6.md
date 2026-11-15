@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cee60a7da48a40d697eacf1eabcef7a8c896796a2f9f8d3cff5922fcbfa8ba46
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipeline.Configure(InnoEngine.Rendering.SerializedRenderExtensionState,InnoEngine.Rendering.RenderExtensionStateContext)"
-source: xml
-reviewed: 46f6177bfcf0bd6ef9a80a63ceb4148c12b37eb64cfd737eda1ab5fa444f8054
-title: "RenderPipeline.Configure"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipeline.Configure(InnoEngine.Rendering.SerializedRenderExtensionState,InnoEngine.Rendering.RenderExtensionStateContext)
+title: RenderPipeline.Configure
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 46f6177bfcf0bd6ef9a80a63ceb4148c12b37eb64cfd737eda1ab5fa444f8054
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies reload-safe pipeline settings to this generation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f9bc07c33d8a7bd719d4f4b299611432ea9bf4643dcf4968f8ff154f12ea096
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDropStatus.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropVisual)"
-source: xml
-reviewed: 4c13fcf95bc148fe5f9643a4e027a90130bb540f69a8a06e17a208b13d609b82
-title: "EditorDropStatus.Constructor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDropStatus.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropVisual)
+title: EditorDropStatus.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 4c13fcf95bc148fe5f9643a4e027a90130bb540f69a8a06e17a208b13d609b82
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the compatibility and presentation state of a potential drop target.

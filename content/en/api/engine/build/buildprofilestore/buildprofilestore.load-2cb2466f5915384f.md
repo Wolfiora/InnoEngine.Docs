@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2cb2466f5915384fbabfe8224110e978b9c8ca199026f1aae5c45d4516ef525c
-symbol: "engine:Inno.Build:M:Inno.Build.BuildProfileStore.Load"
-source: xml
-reviewed: 31408e7e1530133978d496511c69de8e1bb8e34c6af892ab613747dcfb303b16
-title: "BuildProfileStore.Load"
+symbol: engine:Inno.Build:M:Inno.Build.BuildProfileStore.Load
+title: BuildProfileStore.Load
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 31408e7e1530133978d496511c69de8e1bb8e34c6af892ab613747dcfb303b16
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads and validates the current build profile document.

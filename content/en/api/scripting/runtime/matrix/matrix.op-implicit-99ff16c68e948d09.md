@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.99ff16c68e948d098596d8ff9c26350392ffb781f4ec0320d6317f986ca38d56
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Implicit(System.Numerics.Matrix4x4)~InnoEngine.Mathematics.Matrix"
-source: xml
-reviewed: 6422f31d6469dea756bca08ffbc170e54b4b2791d54735e03413895aefe0cd3b
-title: "Matrix.op_Implicit"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Implicit(System.Numerics.Matrix4x4)~InnoEngine.Mathematics.Matrix
+title: Matrix.op_Implicit
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 6422f31d6469dea756bca08ffbc170e54b4b2791d54735e03413895aefe0cd3b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts from `T:System.Numerics.Matrix4x4` preserving element order. System.Numerics assumes row-major with row vectors, so transpose as needed for column-vector usage.

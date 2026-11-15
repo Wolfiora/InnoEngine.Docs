@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.260bc88551506c968b8a3afa4d6feea0d5acc59743d9d82005a39936b691a20f
-symbol: "engine:Inno.Build.Composition:P:Inno.Build.Composition.NativeToolchainContribution.nativeProducts"
-source: xml
-reviewed: d192fc7db980c33fad4b3e013ea7643a2a11fca964b9e3c08c55140fe52adaf1
-title: "NativeToolchainContribution.nativeProducts"
+symbol: engine:Inno.Build.Composition:P:Inno.Build.Composition.NativeToolchainContribution.nativeProducts
+title: NativeToolchainContribution.nativeProducts
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: d192fc7db980c33fad4b3e013ea7643a2a11fca964b9e3c08c55140fe52adaf1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets explicitly implemented native-only product closures keyed by stable product identity.

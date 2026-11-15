@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ceca0cc431950625cf89d54bbc970dbb007fdd9437eeefa1010db9d295a73750
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.TryGet(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.MaterialValue@)"
-source: xml
-reviewed: 5318681667318a653a6e4f767ceda9e5e7a53a4fa5e44e2fa2769a8ed8449702
-title: "MaterialAsset.TryGet"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.TryGet(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.MaterialValue@)
+title: MaterialAsset.TryGet
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 5318681667318a653a6e4f767ceda9e5e7a53a4fa5e44e2fa2769a8ed8449702
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to read one material property.

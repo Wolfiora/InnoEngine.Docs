@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.180eb6b2a26efe943ee0b1087493331105cb4aeb4d456c2fdee84341fea77edb
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderFrameStatistics.#ctor(System.UInt64,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{Inno.Rendering.RenderDeviceAllocationCounters},System.Int32)"
-source: xml
-reviewed: 041d09b8e505e7ca749213b1dab0284606e9f8e5d2bbf0079f4dd8426554003c
-title: "RenderFrameStatistics.Constructor"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderFrameStatistics.#ctor(System.UInt64,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{Inno.Rendering.RenderDeviceAllocationCounters},System.Int32)
+title: RenderFrameStatistics.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 041d09b8e505e7ca749213b1dab0284606e9f8e5d2bbf0079f4dd8426554003c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable frame statistics snapshot.

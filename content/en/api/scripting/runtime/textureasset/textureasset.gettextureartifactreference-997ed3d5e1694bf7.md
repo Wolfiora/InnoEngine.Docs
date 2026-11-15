@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.997ed3d5e1694bf7afa0e9510d007aecdf5534b023d89005f117abc5e246e835
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.TextureAsset.GetTextureArtifactReference"
-source: xml
-reviewed: b415a3ab61f475f086567ade15dad52727557b249884ded855ee0682da488747
-title: "TextureAsset.GetTextureArtifactReference"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.TextureAsset.GetTextureArtifactReference
+title: TextureAsset.GetTextureArtifactReference
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: b415a3ab61f475f086567ade15dad52727557b249884ded855ee0682da488747
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a stable reference to this texture's current imported content.

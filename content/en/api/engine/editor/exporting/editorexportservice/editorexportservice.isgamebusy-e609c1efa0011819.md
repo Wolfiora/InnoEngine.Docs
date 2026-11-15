@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e609c1efa0011819ad94e98f70fbf1c103cb1dda9a4a64770e16a0deacc77149
-symbol: "engine:Inno.Editor.Exporting:P:Inno.Editor.Exporting.EditorExportService.isGameBusy"
-source: xml
-reviewed: 66a3d20072d4484a9d9c3b015000f0c22747d786677d678b89fde0e30d199a18
-title: "EditorExportService.isGameBusy"
+symbol: engine:Inno.Editor.Exporting:P:Inno.Editor.Exporting.EditorExportService.isGameBusy
+title: EditorExportService.isGameBusy
 kind: api
-owners: [Inno.Editor.Exporting]
+owners:
+- Inno.Editor.Exporting
 apiSurface: source-clr
+reviewed: 66a3d20072d4484a9d9c3b015000f0c22747d786677d678b89fde0e30d199a18
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether a game export or its Support Pack preparation is active.

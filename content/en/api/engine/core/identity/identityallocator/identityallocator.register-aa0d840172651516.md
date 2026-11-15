@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aa0d840172651516a25614d5b3131fc7f25238b7cba18f952a8c05390aab3ad8
-symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Register(Inno.Core.Identity.IdentityObject,System.Nullable{System.Guid})"
-source: xml
-reviewed: 200568c0d29df57211872fc5b08dd5fd3ae80d7e7f559489f8987ffe5f9ede00
-title: "IdentityAllocator.Register"
+symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Register(Inno.Core.Identity.IdentityObject,System.Nullable{System.Guid})
+title: IdentityAllocator.Register
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 200568c0d29df57211872fc5b08dd5fd3ae80d7e7f559489f8987ffe5f9ede00
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers an object and assigns its session-local runtime identity.

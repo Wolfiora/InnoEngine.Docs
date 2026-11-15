@@ -19,6 +19,7 @@ export const collections = {
         apiSurfaces: z.array(z.string()).optional(),
         apiScope: z.enum(['Runtime', 'Editor', 'Authoring']).optional(),
         source: z.enum(['xml', 'manual']).optional(),
+        outdated: z.boolean().optional(),
         symbol: z.string().optional(),
         sourceDeclaration: z.string().url().optional(),
         exampleMode: z.enum(['host', 'runtime-script', 'editor-script']).optional(),

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.24757fa9cd80beff46363f6b8444c77fd87168da74fda3a32c355cbe9e16063e
-symbol: "engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.IRenderingBackendFactory.CreateCompositionProgramProvider(Inno.Adapter.Rendering.RenderingBackendId)"
-source: xml
-reviewed: 8c48e2f584fe8e2a6450867f2ad29b66fc14a7bf1eb0fddd9dae1a56b0694320
-title: "IRenderingBackendFactory.CreateCompositionProgramProvider"
+symbol: engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.IRenderingBackendFactory.CreateCompositionProgramProvider(Inno.Adapter.Rendering.RenderingBackendId)
+title: IRenderingBackendFactory.CreateCompositionProgramProvider
 kind: api
-owners: [Inno.Adapter.Rendering]
+owners:
+- Inno.Adapter.Rendering
 apiSurface: source-clr
+reviewed: 8c48e2f584fe8e2a6450867f2ad29b66fc14a7bf1eb0fddd9dae1a56b0694320
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the composition program provider owned by the selected rendering backend.

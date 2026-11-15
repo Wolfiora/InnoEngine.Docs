@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ed3cfe9896d36941593cd160d89950e8aa47705fcde2fcd0c887712a39cc5172
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageToolRequest.Equals(System.Object)"
-source: xml
-reviewed: 6459fc024803d9bca66895e7727eb38148da871ff858f1c3a51e48e6d60beb44
-title: "ShaderStageToolRequest.Equals"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageToolRequest.Equals(System.Object)
+title: ShaderStageToolRequest.Equals
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 6459fc024803d9bca66895e7727eb38148da871ff858f1c3a51e48e6d60beb44
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the specified object is equal to the current object.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7a051fb646db1cc8edf539f81f7b8627146d553aee3a6bb1ae042c8c7c7fb88f
-symbol: "engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetIconAttribute.#ctor(System.Type,System.String,System.Boolean,System.Int32)"
-source: xml
-reviewed: 95131c7363869c09ca24880c39873fa3e559200381cba88ac31b419a6d0f79f9
-title: "AssetIconAttribute.Constructor"
+symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetIconAttribute.#ctor(System.Type,System.String,System.Boolean,System.Int32)
+title: AssetIconAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: source-clr
+reviewed: 95131c7363869c09ca24880c39873fa3e559200381cba88ac31b419a6d0f79f9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an icon declaration using a glyph from the Editor icon catalog.

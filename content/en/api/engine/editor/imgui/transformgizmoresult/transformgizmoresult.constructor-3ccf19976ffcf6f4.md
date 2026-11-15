@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ccf19976ffcf6f47935db345647d4ff9aa1026db759c4e33db5ab99b90ade71
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoResult.#ctor(Inno.Core.Mathematics.Matrix,System.Boolean,System.Boolean,System.Boolean)"
-source: xml
-reviewed: fd575368c5a99603f3c73f088ed308d2feb9433bd968ad3fd39b387cac050048
-title: "TransformGizmoResult.Constructor"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoResult.#ctor(Inno.Core.Mathematics.Matrix,System.Boolean,System.Boolean,System.Boolean)
+title: TransformGizmoResult.Constructor
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: fd575368c5a99603f3c73f088ed308d2feb9433bd968ad3fd39b387cac050048
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns copied manipulation output; the domain owner decides how to apply and record it.

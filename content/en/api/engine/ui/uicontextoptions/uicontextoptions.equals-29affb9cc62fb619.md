@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.29affb9cc62fb619afa5af162ef0b4b11eba23a3cd469b6f379db7659b71a7a0
-symbol: "engine:Inno.UI:M:Inno.UI.UiContextOptions.Equals(System.Object)"
-source: xml
-reviewed: 37b5a930783bebc477a7e335d08f03081347002adb30d4d13f8ab267fec63b24
-title: "UiContextOptions.Equals"
+symbol: engine:Inno.UI:M:Inno.UI.UiContextOptions.Equals(System.Object)
+title: UiContextOptions.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 37b5a930783bebc477a7e335d08f03081347002adb30d4d13f8ab267fec63b24
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

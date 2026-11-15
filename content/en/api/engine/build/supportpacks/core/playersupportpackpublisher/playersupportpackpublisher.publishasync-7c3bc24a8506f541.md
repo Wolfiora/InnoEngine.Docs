@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7c3bc24a8506f541138e25575058fb2024307381e64d532e6b7119019024e862
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 4633336001d882ace8873d0666bffacf288dbc0d3eb36ec0d9b90389324cf306
-title: "PlayerSupportPackPublisher.PublishAsync"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)
+title: PlayerSupportPackPublisher.PublishAsync
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: 4633336001d882ace8873d0666bffacf288dbc0d3eb36ec0d9b90389324cf306
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Prepares a target closure in isolation and publishes its immutable deployment inputs.

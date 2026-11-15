@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.93374750c99c18baba21310f53bcf71f355176ac6b522e5d747dd074e22fe4c6
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4.Equals(System.Object)"
-source: xml
-reviewed: f91454b4e0d2856c62e4f06e5d321ee4bbc045643f97c72a63649a86a9832aa5
-title: "Vector4.Equals"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4.Equals(System.Object)
+title: Vector4.Equals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: f91454b4e0d2856c62e4f06e5d321ee4bbc045643f97c72a63649a86a9832aa5
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this value and the supplied value represent the same logical state.

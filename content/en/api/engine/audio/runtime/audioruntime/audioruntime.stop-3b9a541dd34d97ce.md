@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3b9a541dd34d97ce5e1f93bf32200b83357f555e91d4ff242152810a21f3c795
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Stop(Inno.Audio.AudioVoiceHandle)"
-source: xml
-reviewed: 3dd3d6a1ccef756a2edf430af249789e02433c58ddf8877af861f5bd8efd0bf7
-title: "AudioRuntime.Stop"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Stop(Inno.Audio.AudioVoiceHandle)
+title: AudioRuntime.Stop
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 3dd3d6a1ccef756a2edf430af249789e02433c58ddf8877af861f5bd8efd0bf7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops a live or preparing voice.

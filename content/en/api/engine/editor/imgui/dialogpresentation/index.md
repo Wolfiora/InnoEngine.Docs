@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.594b9d75739062de
-symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation"
-source: xml
-reviewed: a59bb77d525587c8caadeb1529596edbecbf783e94eba96587df52925d5e1a15
-title: "DialogPresentation"
+symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation
+title: DialogPresentation
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: a59bb77d525587c8caadeb1529596edbecbf783e94eba96587df52925d5e1a15
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-imgui
 aliases: []

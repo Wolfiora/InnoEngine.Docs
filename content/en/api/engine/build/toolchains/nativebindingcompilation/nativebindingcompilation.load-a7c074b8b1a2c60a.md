@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a7c074b8b1a2c60abea8e0fb8cf9c16014b1df1814ef2d9c22858df40c8fa2db
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.Load(System.String)"
-source: xml
-reviewed: cafb1c7562f46123fc19f818450f81551be82582dae050f795f1953f5147eb0c
-title: "NativeBindingCompilation.Load"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.Load(System.String)
+title: NativeBindingCompilation.Load
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: cafb1c7562f46123fc19f818450f81551be82582dae050f795f1953f5147eb0c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads the current engine-owned compilation description from a selected native output.

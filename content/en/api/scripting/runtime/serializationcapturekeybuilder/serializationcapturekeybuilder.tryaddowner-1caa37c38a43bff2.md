@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1caa37c38a43bff2566a03f4dab731d98362a9347fb5bcbd5aba4960e196f648
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.TryAddOwner(InnoEngine.Core.IdentityObject,System.Nullable{System.UInt64})"
-source: xml
-reviewed: 870dbf8e9ccc4ee816b12b100ff63bfa9b98e0fc6ec6ca591589302bcdfd384e
-title: "SerializationCaptureKeyBuilder.TryAddOwner"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.TryAddOwner(InnoEngine.Core.IdentityObject,System.Nullable{System.UInt64})
+title: SerializationCaptureKeyBuilder.TryAddOwner
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: 870dbf8e9ccc4ee816b12b100ff63bfa9b98e0fc6ec6ca591589302bcdfd384e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds an owner revision through its current Core identity; a null revision or detached source invalidates the key.

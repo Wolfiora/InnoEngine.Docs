@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.14fe9f07b89d8265de45f3ce06fd382ed3163d5610ef76c30ad9d36e1ad185bb
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.ResetSystem(InnoEngine.Scene.GameSystem)"
-source: xml
-reviewed: 0a7bc6fb673382ff87edefc80c8faf07331497ea2226f0b98a979d6109db6c0b
-title: "GameScene.ResetSystem"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.ResetSystem(InnoEngine.Scene.GameSystem)
+title: GameScene.ResetSystem
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 0a7bc6fb673382ff87edefc80c8faf07331497ea2226f0b98a979d6109db6c0b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Explicitly restores a registered system to its default state.

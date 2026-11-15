@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.shaders.editor-script.035063f419fee495
-symbol: "scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderSourceInclude"
-source: xml
-reviewed: 691410fefc30f73971eadbb204c0ffa164dbb2692dcd0056a20f6d65bce2c6c1
-title: "ShaderSourceInclude"
+symbol: scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.ShaderSourceInclude
+title: ShaderSourceInclude
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 691410fefc30f73971eadbb204c0ffa164dbb2692dcd0056a20f6d65bce2c6c1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering-shaders

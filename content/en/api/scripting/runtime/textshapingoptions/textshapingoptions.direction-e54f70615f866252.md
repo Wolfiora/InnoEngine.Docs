@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e54f70615f866252498c06849b2c699a888463641aa0f5945c204fc5f05e6716
-symbol: "scripting:Inno.Text:P:InnoEngine.Text.TextShapingOptions.direction"
-source: xml
-reviewed: 4c77ae394d7170d16819cee592ecd2eeaf2167bea597996b6065faa51b3e1ac1
-title: "TextShapingOptions.direction"
+symbol: scripting:Inno.Text:P:InnoEngine.Text.TextShapingOptions.direction
+title: TextShapingOptions.direction
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: editor-script
+reviewed: 4c77ae394d7170d16819cee592ecd2eeaf2167bea597996b6065faa51b3e1ac1
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the requested logical direction.

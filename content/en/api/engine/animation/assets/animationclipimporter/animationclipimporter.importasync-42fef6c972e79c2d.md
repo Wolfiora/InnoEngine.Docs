@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.42fef6c972e79c2d723c749cf0be5b6d71cabe00ad1ec8813da2c02ec2602d1e
-symbol: "engine:Inno.Animation.Assets:M:Inno.Animation.Assets.AnimationClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Animation.AnimationClipAsset},System.Threading.CancellationToken)"
-source: xml
-reviewed: d2c22f8e8935d0a6361ba72fbaaac40421970233d46d7ec445ef216848bb9194
-title: "AnimationClipImporter.ImportAsync"
+symbol: engine:Inno.Animation.Assets:M:Inno.Animation.Assets.AnimationClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Animation.AnimationClipAsset},System.Threading.CancellationToken)
+title: AnimationClipImporter.ImportAsync
 kind: api
-owners: [Inno.Animation.Assets]
+owners:
+- Inno.Animation.Assets
 apiSurface: source-clr
+reviewed: d2c22f8e8935d0a6361ba72fbaaac40421970233d46d7ec445ef216848bb9194
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Imports one validated structured animation clip.

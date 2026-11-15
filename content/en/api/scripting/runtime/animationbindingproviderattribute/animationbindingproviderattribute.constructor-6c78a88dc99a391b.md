@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6c78a88dc99a391b9909d2cd0821ddfe95de730e8dc3c8c26b54dad69b49f06d
-symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingProviderAttribute.#ctor(System.String,System.String,InnoEngine.Animation.AnimationValueKind)"
-source: xml
-reviewed: 7483dd16ac1c1fda37f3d0634b6f319652bcdd5a79bfed6fce9f0849a68809ca
-title: "AnimationBindingProviderAttribute.Constructor"
+symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationBindingProviderAttribute.#ctor(System.String,System.String,InnoEngine.Animation.AnimationValueKind)
+title: AnimationBindingProviderAttribute.Constructor
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 7483dd16ac1c1fda37f3d0634b6f319652bcdd5a79bfed6fce9f0849a68809ca
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares one provider and the value protocol it implements.

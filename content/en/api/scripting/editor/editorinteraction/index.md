@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.interactions.editor-script.98eecbe96dc18ee4
-symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorInteraction"
-source: xml
-reviewed: 6b883565cb5269d1c09fed59c72bfcf5c791dde1f052dfb4329c978c7aedf043
-title: "EditorInteraction"
+symbol: scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorInteraction
+title: EditorInteraction
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 6b883565cb5269d1c09fed59c72bfcf5c791dde1f052dfb4329c978c7aedf043
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 - manual.scripting.use-script-api

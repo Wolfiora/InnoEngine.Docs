@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8b529543b061a1c83a692f08d8c449dda93cd47eedccb12e81499b2f199f0416
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.OnUpdate(Inno.Runtime.Contracts.RuntimeFrame)"
-source: xml
-reviewed: a6c6a7937420e9282b6421800d6c71d663e1ede5bc12ee82e02dc8934f7cfaca
-title: "RuntimeSubsystem.OnUpdate"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.OnUpdate(Inno.Runtime.Contracts.RuntimeFrame)
+title: RuntimeSubsystem.OnUpdate
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: a6c6a7937420e9282b6421800d6c71d663e1ede5bc12ee82e02dc8934f7cfaca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances domain state on the variable clock.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.graphs.runtime-script.1a661491138f9c8c
-symbol: "scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPosition"
-source: xml
-reviewed: b354b8cef8efc2b4dfc38f3365efe2614e5df40e0e172ab8ccb1fe4f1df5e821
-title: "GraphPosition"
+symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPosition
+title: GraphPosition
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: b354b8cef8efc2b4dfc38f3365efe2614e5df40e0e172ab8ccb1fe4f1df5e821
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-core-graphs#document-and-definition-contract

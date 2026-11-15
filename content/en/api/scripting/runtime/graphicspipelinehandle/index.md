@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.4545f3e7cf7061be
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsPipelineHandle"
-source: xml
-reviewed: 133764f9fedb9194bc921e5af8f1e0593c375a9c6512c52b4815959aa7a36a7c
-title: "GraphicsPipelineHandle"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsPipelineHandle
+title: GraphicsPipelineHandle
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 133764f9fedb9194bc921e5af8f1e0593c375a9c6512c52b4815959aa7a36a7c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09bac1958d418474dd05299f715a5912a8170b88bddd623113dca29344963e75
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.BeginWorkingDirectory(System.String,System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 1acd73ceef4619af3c4995c198d78baccb36e50edb5d28b992c3be419b15c9fe
-title: "BuildCachePublisher.BeginWorkingDirectory"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.BeginWorkingDirectory(System.String,System.String,System.String,System.Threading.CancellationToken)
+title: BuildCachePublisher.BeginWorkingDirectory
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 1acd73ceef4619af3c4995c198d78baccb36e50edb5d28b992c3be419b15c9fe
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Records a reusable workspace before its first payload write while the caller holds activity and producer leases. Existing unregistered directories are rejected, rather than adopted by cleanup authority.

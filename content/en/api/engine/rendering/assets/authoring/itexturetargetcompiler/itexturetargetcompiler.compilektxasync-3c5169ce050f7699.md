@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3c5169ce050f76994ae730fedd2457947e2f1bdfa355047aaa478bfd3904f14f
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ITextureTargetCompiler.CompileKtxAsync(System.IO.Stream,Inno.Rendering.Assets.TextureColorSpace,System.Threading.CancellationToken)"
-source: xml
-reviewed: 0b396859fbf35ab73bb1a0b5f1124254df40ba7b869b11c402d6f9a7af3c5d2a
-title: "ITextureTargetCompiler.CompileKtxAsync"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ITextureTargetCompiler.CompileKtxAsync(System.IO.Stream,Inno.Rendering.Assets.TextureColorSpace,System.Threading.CancellationToken)
+title: ITextureTargetCompiler.CompileKtxAsync
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 0b396859fbf35ab73bb1a0b5f1124254df40ba7b869b11c402d6f9a7af3c5d2a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compiles one source texture into an uncompressed KTX artifact with a complete mip chain.

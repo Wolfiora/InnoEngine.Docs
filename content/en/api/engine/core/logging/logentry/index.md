@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.logging.5791799ed731929c
-symbol: "engine:Inno.Core.Logging:T:Inno.Core.Logging.LogEntry"
-source: xml
-reviewed: da3e4ae932dd63b5e46f0a4b425d4acd4cfe6f41fb721650fe3861553ce340e6
-title: "LogEntry"
+symbol: engine:Inno.Core.Logging:T:Inno.Core.Logging.LogEntry
+title: LogEntry
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: da3e4ae932dd63b5e46f0a4b425d4acd4cfe6f41fb721650fe3861553ce340e6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []

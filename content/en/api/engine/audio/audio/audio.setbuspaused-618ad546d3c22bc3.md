@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.618ad546d3c22bc3eb857a692aff4ba8182022ce3c3889328eb1cb3f2ae583e4
-symbol: "engine:Inno.Audio:M:Inno.Audio.Audio.SetBusPaused(Inno.Audio.AudioBusId,System.Boolean)"
-source: xml
-reviewed: a43000b357854a363bb97aafed9af0509e1fba0f03cf74c45ea50d4b06c7e136
-title: "Audio.SetBusPaused"
+symbol: engine:Inno.Audio:M:Inno.Audio.Audio.SetBusPaused(Inno.Audio.AudioBusId,System.Boolean)
+title: Audio.SetBusPaused
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: a43000b357854a363bb97aafed9af0509e1fba0f03cf74c45ea50d4b06c7e136
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates pause state for a semantic mixer bus.

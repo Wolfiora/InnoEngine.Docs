@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0910bf3469138525394a9b6f4e95f8a5c33c48072c0166a0abf5ea4750e70430
-symbol: "engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateEditor(Inno.Build.Toolchains.Bgfx.BgfxNativeBuildProfile,System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})"
-source: xml
-reviewed: fec4d607eeaa119195b7697574c3cb281cf942e1de6a1100b67f37ad814f366d
-title: "StandardNativeComponents.CreateEditor"
+symbol: engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateEditor(Inno.Build.Toolchains.Bgfx.BgfxNativeBuildProfile,System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})
+title: StandardNativeComponents.CreateEditor
 kind: api
-owners: [Inno.Build.Products.Standard]
+owners:
+- Inno.Build.Products.Standard
 apiSurface: source-clr
+reviewed: fec4d607eeaa119195b7697574c3cb281cf942e1de6a1100b67f37ad814f366d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Composes the shared runtime closure and the Editor's presentation and authoring tools.

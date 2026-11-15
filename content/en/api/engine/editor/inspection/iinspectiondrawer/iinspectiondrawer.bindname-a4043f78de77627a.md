@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a4043f78de77627af744b02da52516c5a92157d8cb1da5906d5f042896f63943
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionDrawer.BindName(Inno.Editor.Inspection.InspectionDrawContext)"
-source: xml
-reviewed: 434cf9c98a87ce1de72b43b6879c5115c798bf1fa05aae89a4bca69ba28e2280
-title: "IInspectionDrawer.BindName"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionDrawer.BindName(Inno.Editor.Inspection.InspectionDrawContext)
+title: IInspectionDrawer.BindName
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 434cf9c98a87ce1de72b43b6879c5115c798bf1fa05aae89a4bca69ba28e2280
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds the target name displayed by the Inspector target header.

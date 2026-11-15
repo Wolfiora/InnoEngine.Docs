@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.565dfae26b3f78988bb158f44d994356f4fcf9c71f1ce9cfc8778c0560fcdec8
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.Assets.LocalPath(System.String,System.String)"
-source: xml
-reviewed: 6b92e5f2b2f8ef01574835447eaf521d2d296b0bc7e6161eb293a28d18e059d7
-title: "Assets.LocalPath"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.Assets.LocalPath(System.String,System.String)
+title: Assets.LocalPath
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 6b92e5f2b2f8ef01574835447eaf521d2d296b0bc7e6161eb293a28d18e059d7
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a path relative to the Asset source that owns the calling script.

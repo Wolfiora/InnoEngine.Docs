@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f62fcc95526f497199ff95b03acf3c18896c4f6d9a98f26f32f81d456c032559
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderVertexLayout.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderVertexAttribute},System.Int32)"
-source: xml
-reviewed: 3860cce71ce5f5e292f4e0f1e1bdecc5fa2199c6e7b918db8cc528732ae76f91
-title: "RenderVertexLayout.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderVertexLayout.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderVertexAttribute},System.Int32)
+title: RenderVertexLayout.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 3860cce71ce5f5e292f4e0f1e1bdecc5fa2199c6e7b918db8cc528732ae76f91
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an interleaved vertex layout.

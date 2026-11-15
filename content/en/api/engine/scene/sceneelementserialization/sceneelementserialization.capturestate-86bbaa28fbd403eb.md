@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.86bbaa28fbd403ebe7e0460a1b7b8e170d59acdc442c74f53f3d920592e94b56
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.CaptureState(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: f86ab9beeb1fbc92a0b023d8417c37f95bff4ea4ff83cd25e1e8b15309ea59b0
-title: "SceneElementSerialization.CaptureState"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.CaptureState(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: SceneElementSerialization.CaptureState
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: f86ab9beeb1fbc92a0b023d8417c37f95bff4ea4ff83cd25e1e8b15309ea59b0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one element's logical type, neutral properties, asset dependencies and scene-reference aliases.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.faeeb8eafd6aef3874b1798c48142bd78f434b3b173b5e70dac0ecab0b99419e
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderPassArtifact.#ctor(System.String,Inno.Rendering.ShaderProgramKind,Inno.Rendering.RenderRasterState,Inno.Rendering.ShaderInterface,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Assets.RenderShaderStageArtifact})"
-source: xml
-reviewed: 0a0128e2fe5247108d8473292ffdc200e93e8822d981af011a96aaad37fc9221
-title: "RenderShaderPassArtifact.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderPassArtifact.#ctor(System.String,Inno.Rendering.ShaderProgramKind,Inno.Rendering.RenderRasterState,Inno.Rendering.ShaderInterface,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Assets.RenderShaderStageArtifact})
+title: RenderShaderPassArtifact.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 0a0128e2fe5247108d8473292ffdc200e93e8822d981af011a96aaad37fc9221
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a deployed shader pass.

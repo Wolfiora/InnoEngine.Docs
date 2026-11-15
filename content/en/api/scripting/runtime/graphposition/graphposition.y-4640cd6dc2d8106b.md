@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4640cd6dc2d8106b68a4acef0663626f170740cacfc45bce6285715599d970f2
-symbol: "scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphPosition.y"
-source: xml
-reviewed: ed72089e56ee5f8aea96baa64487b89f7ba1827612935155661478304051f388
-title: "GraphPosition.y"
+symbol: scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphPosition.y
+title: GraphPosition.y
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: ed72089e56ee5f8aea96baa64487b89f7ba1827612935155661478304051f388
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the vertical graph-space coordinate.

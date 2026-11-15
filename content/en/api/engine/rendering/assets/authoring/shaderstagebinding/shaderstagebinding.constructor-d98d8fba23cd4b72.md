@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d98d8fba23cd4b725a262669c771331268677250da2f63665343d965049354af
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageBinding.#ctor(System.String,System.String,System.Int32)"
-source: xml
-reviewed: 10a42b58d9c656fa60935b560701dec41a3a05635f714b04b27ea1823005e1d5
-title: "ShaderStageBinding.Constructor"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageBinding.#ctor(System.String,System.String,System.Int32)
+title: ShaderStageBinding.Constructor
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 10a42b58d9c656fa60935b560701dec41a3a05635f714b04b27ea1823005e1d5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Maps one logical binding to the adapter-generated native name, without exposing a GPU handle.

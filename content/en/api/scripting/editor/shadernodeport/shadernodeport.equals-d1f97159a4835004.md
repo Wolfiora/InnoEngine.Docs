@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d1f97159a48350042b13715633dc855db17ce42903289abd609528d56f936c3e
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodePort.Equals(InnoEditor.Rendering.Shaders.ShaderNodePort)"
-source: xml
-reviewed: dc548400c55a238e3c240800de4c4984d8fc07e53fe6df54bbba4a9c0b73a0db
-title: "ShaderNodePort.Equals"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodePort.Equals(InnoEditor.Rendering.Shaders.ShaderNodePort)
+title: ShaderNodePort.Equals
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: dc548400c55a238e3c240800de4c4984d8fc07e53fe6df54bbba4a9c0b73a0db
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

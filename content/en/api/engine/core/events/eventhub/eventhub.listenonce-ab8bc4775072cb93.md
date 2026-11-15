@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ab8bc4775072cb934ecd36e7911d3c7d6b58b1b3ace7dbe69aac9fbb2494a1a9
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.EventHub.ListenOnce\u0060\u00601(System.Action{\u0060\u00600},System.Int32)"
-source: xml
-reviewed: 0e9ec68f7491a3237e9e65e69e89165d92b8b41486eb6a9bba34bbb73997a2a0
-title: "EventHub.ListenOnce"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.EventHub.ListenOnce``1(System.Action{``0},System.Int32)
+title: EventHub.ListenOnce
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 0e9ec68f7491a3237e9e65e69e89165d92b8b41486eb6a9bba34bbb73997a2a0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Subscribes a one-shot listener for the specified event type.

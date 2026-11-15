@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54ebf041211839d1a5b7056b1372d2ee3b508daef4b7851e87f2371c71f9dd5c
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryAvailability.Equals(System.Object)"
-source: xml
-reviewed: 2ffa5e456dda029ceaffd6e483d7cfa98329a0cf2375790e1dfad71532a07ee3
-title: "EditorHistoryAvailability.Equals"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryAvailability.Equals(System.Object)
+title: EditorHistoryAvailability.Equals
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 2ffa5e456dda029ceaffd6e483d7cfa98329a0cf2375790e1dfad71532a07ee3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bdd00996be51280888c59c768301858b3090ef884def6ec1df1e8d8bdaef9a17
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeDeployment.InstallAsync(System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.ProductNativeBuildPlan,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: f0d2c62273ab48090adc257712047db8883bfcbeb7169e4fb80da247ca50b9f1
-title: "ProductNativeDeployment.InstallAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeDeployment.InstallAsync(System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.ProductNativeBuildPlan,System.String,System.Threading.CancellationToken)
+title: ProductNativeDeployment.InstallAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: f0d2c62273ab48090adc257712047db8883bfcbeb7169e4fb80da247ca50b9f1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates the application's native tree and atomically replaces it when its exact contents differ.

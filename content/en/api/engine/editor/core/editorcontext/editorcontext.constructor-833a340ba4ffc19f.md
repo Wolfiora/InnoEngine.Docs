@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.833a340ba4ffc19fdef8fe2efaccc1570228780e598c8ef6801bd69e695d5f6a
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.#ctor(System.String,Inno.Editor.Core.EditorKeyboardPolicy,System.String)"
-source: xml
-reviewed: 4b9baffbc46ce85500ed70e6a68a8a6f5b337b080f5db3f8dc4e7907a7fecf28
-title: "EditorContext.Constructor"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.#ctor(System.String,Inno.Editor.Core.EditorKeyboardPolicy,System.String)
+title: EditorContext.Constructor
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 4b9baffbc46ce85500ed70e6a68a8a6f5b337b080f5db3f8dc4e7907a7fecf28
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a passive editor context for one project.

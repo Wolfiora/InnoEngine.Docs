@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e5e74802961e8ffc25626ea96e97693aefe8374accec528773cb1ae9bd2b20e7
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Lerp(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,System.Single)"
-source: xml
-reviewed: 71f2b4564aa69826a80b4a78b517f0c279d65016c8ecfe4055a3d2ad7e696c0d
-title: "Vector2.Lerp"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Lerp(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,System.Single)
+title: Vector2.Lerp
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 71f2b4564aa69826a80b4a78b517f0c279d65016c8ecfe4055a3d2ad7e696c0d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Interpolates linearly between two values without clamping the interpolation factor.

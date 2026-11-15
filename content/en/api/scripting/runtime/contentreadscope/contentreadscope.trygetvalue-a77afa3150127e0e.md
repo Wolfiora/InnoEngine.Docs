@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a77afa3150127e0ebea9154f98e561e5306719e3adb0e38ee79d98713bfe8b1d
-symbol: "scripting:Inno.References:M:InnoEngine.References.ContentReadScope.TryGetValue\u0060\u00601(System.Guid,\u0060\u00600@)"
-source: xml
-reviewed: 9e91bfdccec1b007c02f1dcb6bbc84258ebb1a0b091b6a67ca5558f19c01dc36
-title: "ContentReadScope.TryGetValue"
+symbol: scripting:Inno.References:M:InnoEngine.References.ContentReadScope.TryGetValue``1(System.Guid,``0@)
+title: ContentReadScope.TryGetValue
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: editor-script
+reviewed: 9e91bfdccec1b007c02f1dcb6bbc84258ebb1a0b091b6a67ca5558f19c01dc36
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a selected root without rebinding a stale snapshot to a replacement generation.

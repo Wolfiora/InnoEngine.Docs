@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e66482912d66a2f133ef090d940dd048dc9c72bc145fdcd98addc77113db738
-symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector2Int.ZERO"
-source: xml
-reviewed: f2d6f3b9ce8908d6957ba68e7ef38f4f3a55b1309a8a18cfcdf32e9b411ccb4d
-title: "Vector2Int.ZERO"
+symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector2Int.ZERO
+title: Vector2Int.ZERO
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: f2d6f3b9ce8908d6957ba68e7ef38f4f3a55b1309a8a18cfcdf32e9b411ccb4d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 A value whose components are all zero.

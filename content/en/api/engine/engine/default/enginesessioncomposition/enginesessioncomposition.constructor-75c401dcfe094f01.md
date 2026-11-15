@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.75c401dcfe094f019d214a156a80da4b3a21e0c7fe30891556b709d7ac31cee1
-symbol: "engine:Inno.Engine.Default:M:Inno.Engine.Default.EngineSessionComposition.#ctor(Inno.Runtime.RuntimeSession,Inno.Adapter.IAdapterCatalog,Inno.Adapter.AdapterSelection,Inno.Adapter.Input.IInputEventSource,Inno.Assets.IAssetArtifactLookup,System.Func{Inno.Audio.AudioProjectSettings},System.Func{Inno.Storage.IApplicationStorage},Inno.Runtime.Contracts.IRuntimeSubsystemFactory)"
-source: xml
-reviewed: 670d600035a920b1fa05e35ce42528c9fed1685eb40daf6348cf8f6c37694df2
-title: "EngineSessionComposition.Constructor"
+symbol: engine:Inno.Engine.Default:M:Inno.Engine.Default.EngineSessionComposition.#ctor(Inno.Runtime.RuntimeSession,Inno.Adapter.IAdapterCatalog,Inno.Adapter.AdapterSelection,Inno.Adapter.Input.IInputEventSource,Inno.Assets.IAssetArtifactLookup,System.Func{Inno.Audio.AudioProjectSettings},System.Func{Inno.Storage.IApplicationStorage},Inno.Runtime.Contracts.IRuntimeSubsystemFactory)
+title: EngineSessionComposition.Constructor
 kind: api
-owners: [Inno.Engine.Default]
+owners:
+- Inno.Engine.Default
 apiSurface: source-clr
+reviewed: 670d600035a920b1fa05e35ce42528c9fed1685eb40daf6348cf8f6c37694df2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the inputs borrowed during synchronous default subsystem construction.

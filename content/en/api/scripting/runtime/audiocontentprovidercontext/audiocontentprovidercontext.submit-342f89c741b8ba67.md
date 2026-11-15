@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.342f89c741b8ba67883bd1f89c41001956aea6c22a01c867fdb4169cac412103
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProviderContext.Submit(InnoEngine.Audio.AudioEmitterSnapshot)"
-source: xml
-reviewed: 2701f1084ee03d7d7108f1ab8e68ccff717f5098ed2447be1d731ead38247113
-title: "AudioContentProviderContext.Submit"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProviderContext.Submit(InnoEngine.Audio.AudioEmitterSnapshot)
+title: AudioContentProviderContext.Submit
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 2701f1084ee03d7d7108f1ab8e68ccff717f5098ed2447be1d731ead38247113
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Submits one immutable emitter snapshot for runtime synchronization.

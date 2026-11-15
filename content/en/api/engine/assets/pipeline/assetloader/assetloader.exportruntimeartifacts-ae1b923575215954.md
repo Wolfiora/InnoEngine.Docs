@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ae1b923575215954a1eaa564ceeb1c36bdb14bfac4afb174631339d7ef67ef8e
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.ExportRuntimeArtifacts(System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 2642b5f6ebec190ef8431c0263f0df664a0933b10911756bef444a432672ec71
-title: "AssetLoader.ExportRuntimeArtifacts"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.ExportRuntimeArtifacts(System.String,System.Threading.CancellationToken)
+title: AssetLoader.ExportRuntimeArtifacts
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 2642b5f6ebec190ef8431c0263f0df664a0933b10911756bef444a432672ec71
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Exports the validated runtime artifact closure while observing cooperative cancellation between files.

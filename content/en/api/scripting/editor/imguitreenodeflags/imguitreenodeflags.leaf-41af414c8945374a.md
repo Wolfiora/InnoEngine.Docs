@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41af414c8945374ae55a42d7ffaa2e0e509cbafbe7eb7fcbabe4a644ae5d3370
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTreeNodeFlags.Leaf"
-source: xml
-reviewed: 14ce83fe6eddeb0ad9c046cfdbc0d2d4cb91024fb8898c08451d77bbb9a14fab
-title: "ImGuiTreeNodeFlags.Leaf"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTreeNodeFlags.Leaf
+title: ImGuiTreeNodeFlags.Leaf
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 14ce83fe6eddeb0ad9c046cfdbc0d2d4cb91024fb8898c08451d77bbb9a14fab
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No collapsing, no arrow (use as a convenience for leaf nodes).

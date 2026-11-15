@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c007491429541d9b097e35738f0bb1b4d3ab8ba002fc2e4501375ad45c28cf5c
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceParameter.direction"
-source: xml
-reviewed: a04fd998c6955679d17f3dc9f4efcebf625f6b18310f49d40eeb20ba3d163aa5
-title: "ShaderSourceParameter.direction"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceParameter.direction
+title: ShaderSourceParameter.direction
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: a04fd998c6955679d17f3dc9f4efcebf625f6b18310f49d40eeb20ba3d163aa5
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the declared value flow.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2c4797e842a54374ef6366273bc3ffb3a15be1d4c9e18a2f4f5be08f94820c9a
-symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderParameterPresentation.Read(Inno.Core.Graphs.GraphDocument,Inno.Rendering.ShaderPropertyId,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 32e73c2dcabda74f34a8b9461f0690447696d7e707ca75a292b8fe1d5fe37822
-title: "ShaderParameterPresentation.Read"
+symbol: engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderParameterPresentation.Read(Inno.Core.Graphs.GraphDocument,Inno.Rendering.ShaderPropertyId,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderParameterPresentation.Read
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: source-clr
+reviewed: 32e73c2dcabda74f34a8b9461f0690447696d7e707ca75a292b8fe1d5fe37822
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads detached presentation for one binding, defaulting only when no presentation was authored.

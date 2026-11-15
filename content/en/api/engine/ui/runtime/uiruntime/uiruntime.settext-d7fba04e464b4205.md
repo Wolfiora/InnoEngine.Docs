@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d7fba04e464b420560229f7eb9e38a7ed73323d5e0d137ab97de656b4b31109e
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetText(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String)"
-source: xml
-reviewed: 606b87d946354d0c6b0ebb08b4f0739d97f7f6835b9766bf531725c0b278c7be
-title: "UiRuntime.SetText"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetText(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String)
+title: UiRuntime.SetText
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 606b87d946354d0c6b0ebb08b4f0739d97f7f6835b9766bf531725c0b278c7be
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates the text state and applies the resulting invariants.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.de4e2de5e68d72ccdd71a67623ad588ad07d885a3dd08b54b434b25dfaeedf3c
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.op_Subtraction(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
-source: xml
-reviewed: f4b0d9937f83e0883c07a48197b87425a94acdff22d8f39197ec5df75598f13d
-title: "Vector3.op_Subtraction"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.op_Subtraction(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)
+title: Vector3.op_Subtraction
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: f4b0d9937f83e0883c07a48197b87425a94acdff22d8f39197ec5df75598f13d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Subtracts or negates the supplied value component by component.

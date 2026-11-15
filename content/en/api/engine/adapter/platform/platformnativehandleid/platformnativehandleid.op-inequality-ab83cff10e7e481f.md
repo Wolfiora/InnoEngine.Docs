@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ab83cff10e7e481f78f3c848fb58273caa1f92d399fc030df580eb7f27a79e9d
-symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandleId.op_Inequality(Inno.Adapter.Platform.PlatformNativeHandleId,Inno.Adapter.Platform.PlatformNativeHandleId)"
-source: xml
-reviewed: 9d95ba011b540af2449e39bba4a70b6fbf87f7f3c127661b41fd12e95d911b11
-title: "PlatformNativeHandleId.op_Inequality"
+symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandleId.op_Inequality(Inno.Adapter.Platform.PlatformNativeHandleId,Inno.Adapter.Platform.PlatformNativeHandleId)
+title: PlatformNativeHandleId.op_Inequality
 kind: api
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
 apiSurface: source-clr
+reviewed: 9d95ba011b540af2449e39bba4a70b6fbf87f7f3c127661b41fd12e95d911b11
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fbb933f38a24e0a01a39c1322eb58fa69ab90afd43b477621c60d33443b6c3e6
-symbol: "engine:Inno.Text:M:Inno.Text.Text.Shape(Inno.Text.FontAsset,System.String,Inno.Text.TextStyle,Inno.Text.TextShapingOptions)"
-source: xml
-reviewed: a50097097d322f855a59f55ce759bbecd3f241de2b1d5021ae2752c82c4e9094
-title: "Text.Shape"
+symbol: engine:Inno.Text:M:Inno.Text.Text.Shape(Inno.Text.FontAsset,System.String,Inno.Text.TextStyle,Inno.Text.TextShapingOptions)
+title: Text.Shape
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: a50097097d322f855a59f55ce759bbecd3f241de2b1d5021ae2752c82c4e9094
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Shapes text with explicit language, script, and direction hints.

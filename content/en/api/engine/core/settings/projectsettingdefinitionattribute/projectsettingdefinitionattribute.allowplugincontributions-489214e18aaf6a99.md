@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.489214e18aaf6a99304602bca38eac016d8cee28ea800b2383061c6a3171531b
-symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingDefinitionAttribute.allowPluginContributions"
-source: xml
-reviewed: 6185a975c9159e2a1fef87404f429f93c601acb71420c5d73dc2e4c731c658e7
-title: "ProjectSettingDefinitionAttribute.allowPluginContributions"
+symbol: engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingDefinitionAttribute.allowPluginContributions
+title: ProjectSettingDefinitionAttribute.allowPluginContributions
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 6185a975c9159e2a1fef87404f429f93c601acb71420c5d73dc2e4c731c658e7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether Plugin packages may contribute values to this protocol.

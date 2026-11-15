@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4832b3d536bf0103e06fc406c7695ba4a6ad615abd2ecfdb7fcaaf8537e78030
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderDiagnostic.#ctor(System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{InnoEngine.Rendering.ShaderSourceLocation})"
-source: xml
-reviewed: b8abb677dca3ba64494b18a334ea6de7f5afe0c788ce74b5f69b52dad10ac6ad
-title: "ShaderDiagnostic.Constructor"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderDiagnostic.#ctor(System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{InnoEngine.Rendering.ShaderSourceLocation})
+title: ShaderDiagnostic.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: b8abb677dca3ba64494b18a334ea6de7f5afe0c788ce74b5f69b52dad10ac6ad
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shader diagnostic.

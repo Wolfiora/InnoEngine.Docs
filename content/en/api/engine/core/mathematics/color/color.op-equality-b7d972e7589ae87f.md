@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7d972e7589ae87f2ae4bc44c3c1d7c4f90a2c6633bfcaa4aa3ec225b1c5e89d
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.op_Equality(Inno.Core.Mathematics.Color,Inno.Core.Mathematics.Color)"
-source: xml
-reviewed: 7e066c36fdbb0032b95edb57f7f41e807908b829a30dea1edff298345d728864
-title: "Color.op_Equality"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.op_Equality(Inno.Core.Mathematics.Color,Inno.Core.Mathematics.Color)
+title: Color.op_Equality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 7e066c36fdbb0032b95edb57f7f41e807908b829a30dea1edff298345d728864
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied values are equal under the type's equality tolerance.

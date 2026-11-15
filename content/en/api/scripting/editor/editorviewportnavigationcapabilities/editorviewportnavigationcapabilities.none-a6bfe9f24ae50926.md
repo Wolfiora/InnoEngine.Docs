@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a6bfe9f24ae50926fb03d206a007d459ee8f488d2f10880bb86ce216bd351236
-symbol: "scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportNavigationCapabilities.None"
-source: xml
-reviewed: d87e549a6efd8f1e2d160908f0fbcc315a8567f3488623bc52655cc203f90d5b
-title: "EditorViewportNavigationCapabilities.None"
+symbol: scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportNavigationCapabilities.None
+title: EditorViewportNavigationCapabilities.None
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: d87e549a6efd8f1e2d160908f0fbcc315a8567f3488623bc52655cc203f90d5b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Disables host-owned navigation.

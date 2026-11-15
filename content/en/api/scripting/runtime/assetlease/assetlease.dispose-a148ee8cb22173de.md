@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a148ee8cb22173de2f59c84b2e60e30acd3c4a05f08749e7c89fb66e2ec5573b
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetLease\u00601.Dispose"
-source: xml
-reviewed: 04e2bec28af930d18c5a76aa007595e42b942cee564d84b5fe95e2c8e75fdc9f
-title: "AssetLease\u003CTAsset\u003E.Dispose"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetLease`1.Dispose
+title: AssetLease<TAsset>.Dispose
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 04e2bec28af930d18c5a76aa007595e42b942cee564d84b5fe95e2c8e75fdc9f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases this caller's residency ownership, retaining its value and callback while the provider reports Pending.

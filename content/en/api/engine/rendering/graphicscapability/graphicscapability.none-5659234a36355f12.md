@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5659234a36355f128307de9eb9fd86b096edd9d5feebda940097e89bf57ed9ca
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.GraphicsCapability.None"
-source: xml
-reviewed: ac0a395760d607fa28875dbf1a6d33cc3adba3bd93f1cb61c41f2dae4186c17f
-title: "GraphicsCapability.None"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.GraphicsCapability.None
+title: GraphicsCapability.None
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: ac0a395760d607fa28875dbf1a6d33cc3adba3bd93f1cb61c41f2dae4186c17f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No optional feature.

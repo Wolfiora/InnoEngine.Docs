@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5bd75a804fb167ba38b509e4b8e064de2ef390547adb1a430e98361f6bf05155
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindBuffer(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderBufferHandle)"
-source: xml
-reviewed: e1c64c9b3507c0d1c4d471b147c601e930d6297d04aadb4a9df6f8e5968dfc65
-title: "RenderCommandEncoder.BindBuffer"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindBuffer(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderBufferHandle)
+title: RenderCommandEncoder.BindBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: e1c64c9b3507c0d1c4d471b147c601e930d6297d04aadb4a9df6f8e5968dfc65
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a storage buffer to a shader binding.

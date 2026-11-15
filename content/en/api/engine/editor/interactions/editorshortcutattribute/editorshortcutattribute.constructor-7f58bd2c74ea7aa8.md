@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f58bd2c74ea7aa8e5883674be9d126d4373d4477fa3735114d16119fc83744a
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorShortcutAttribute.#ctor(System.String,Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier,System.Boolean)"
-source: xml
-reviewed: 3168af0368df66b6bc2566beafe5a74aa48ee390e83737ec449f88e820d6ed12
-title: "EditorShortcutAttribute.Constructor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorShortcutAttribute.#ctor(System.String,Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier,System.Boolean)
+title: EditorShortcutAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 3168af0368df66b6bc2566beafe5a74aa48ee390e83737ec449f88e820d6ed12
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shortcut scoped to an exact interaction area.

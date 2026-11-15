@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.pipeline.4e1acfd7a3aeb378
-symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetChangedEvent"
-source: xml
-reviewed: b28b172df29aaf2e92f612a96bf925e879bc3386dec6fb1e285787dcd503e68b
-title: "AssetChangedEvent"
+symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetChangedEvent
+title: AssetChangedEvent
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: b28b172df29aaf2e92f612a96bf925e879bc3386dec6fb1e285787dcd503e68b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-assets-pipeline
 aliases: []

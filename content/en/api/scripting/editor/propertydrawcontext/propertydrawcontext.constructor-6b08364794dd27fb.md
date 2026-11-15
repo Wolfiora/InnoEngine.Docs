@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6b08364794dd27fb0e3b9c8bace6e9a1b7dfa08f14e26c210e17d789797028c9
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.#ctor"
-source: xml
-reviewed: 0b6564a2f4c8209881665f6e7cef815f0fe0ec8865e7388bf6589daa607f8a6a
-title: "PropertyDrawContext.Constructor"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.#ctor
+title: PropertyDrawContext.Constructor
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: 0b6564a2f4c8209881665f6e7cef815f0fe0ec8865e7388bf6589daa607f8a6a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

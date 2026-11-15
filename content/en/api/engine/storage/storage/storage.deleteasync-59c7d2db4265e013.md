@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.59c7d2db4265e01359aff90ffd2840f6acb9aa7cf347deb2a2860900d58d2909
-symbol: "engine:Inno.Storage:M:Inno.Storage.Storage.DeleteAsync(Inno.Storage.StorageKey,System.Threading.CancellationToken)"
-source: xml
-reviewed: 9441bb111e37d957b17745b5f59a49aef9f3584ca3ebe5fa261f6bf379cdeeb4
-title: "Storage.DeleteAsync"
+symbol: engine:Inno.Storage:M:Inno.Storage.Storage.DeleteAsync(Inno.Storage.StorageKey,System.Threading.CancellationToken)
+title: Storage.DeleteAsync
 kind: api
-owners: [Inno.Storage]
+owners:
+- Inno.Storage
 apiSurface: source-clr
+reviewed: 9441bb111e37d957b17745b5f59a49aef9f3584ca3ebe5fa261f6bf379cdeeb4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Deletes one value.

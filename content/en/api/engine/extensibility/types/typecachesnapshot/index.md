@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.extensibility.types.839037fe9c97a082
-symbol: "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheSnapshot"
-source: xml
-reviewed: 3e9503a08cd206dfa1f21f3d8d5039354de91f8acbeb520cad3be37cee21eb46
-title: "TypeCacheSnapshot"
+symbol: engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheSnapshot
+title: TypeCacheSnapshot
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 3e9503a08cd206dfa1f21f3d8d5039354de91f8acbeb520cad3be37cee21eb46
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-extensibility-types
 aliases: []

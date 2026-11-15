@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2afb555105ae1fdfd1e28316e3b578fca283b5a183b182d8f34d1f30490ef219
-symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPort.#ctor(Inno.Core.Graphs.GraphEndpoint,Inno.Core.Graphs.GraphPortDirection,System.Numerics.Vector2,System.String,System.Boolean,System.Boolean,System.Nullable{System.ValueTuple{System.Numerics.Vector2,System.Numerics.Vector2}})"
-source: xml
-reviewed: 5126c7f8cecd2d6410bff4dde616173a03abd1377e5ee44318d85e36787dbc24
-title: "GraphCanvasPort.Constructor"
+symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPort.#ctor(Inno.Core.Graphs.GraphEndpoint,Inno.Core.Graphs.GraphPortDirection,System.Numerics.Vector2,System.String,System.Boolean,System.Boolean,System.Nullable{System.ValueTuple{System.Numerics.Vector2,System.Numerics.Vector2}})
+title: GraphCanvasPort.Constructor
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: 5126c7f8cecd2d6410bff4dde616173a03abd1377e5ee44318d85e36787dbc24
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a port presentation whose position is measured in unscaled node coordinates.

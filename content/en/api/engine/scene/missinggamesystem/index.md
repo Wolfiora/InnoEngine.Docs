@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.scene.fa7f9f58aebcae97
-symbol: "engine:Inno.Scene:T:Inno.Scene.MissingGameSystem"
-source: xml
-reviewed: 1a3032272cd382deb2de14f82e1c69370938afbe6ee793e07b6cc58de7002eee
-title: "MissingGameSystem"
+symbol: engine:Inno.Scene:T:Inno.Scene.MissingGameSystem
+title: MissingGameSystem
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 1a3032272cd382deb2de14f82e1c69370938afbe6ee793e07b6cc58de7002eee
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dc901541ea5ad9c279c84ed458d867dbf48288937b62928f6c806a70f31d0cf3
-symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.Save(InnoEngine.Scene.GameScene,System.String)"
-source: xml
-reviewed: 65fe1e4a024e480a3090f713d63c098b29a95926ba15ab63ebc08165383a2d3f
-title: "IEditorSceneWorkspace.Save"
+symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.Save(InnoEngine.Scene.GameScene,System.String)
+title: IEditorSceneWorkspace.Save
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: editor-script
+reviewed: 65fe1e4a024e480a3090f713d63c098b29a95926ba15ab63ebc08165383a2d3f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Saves a scene to its existing path or into a fallback directory.

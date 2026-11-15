@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c61971238aa644b31a7be4c8bd846e9f9deae1604d0450b37c351a625eaebd65
-symbol: "engine:Inno.Content:M:Inno.Content.ContentEntry.#ctor(Inno.Content.ContentKey,System.Int64,System.String)"
-source: xml
-reviewed: 720c9a8c3a35a12abf931b46479e63f52eb06ebba9428519665239e840d5ecac
-title: "ContentEntry.Constructor"
+symbol: engine:Inno.Content:M:Inno.Content.ContentEntry.#ctor(Inno.Content.ContentKey,System.Int64,System.String)
+title: ContentEntry.Constructor
 kind: api
-owners: [Inno.Content]
+owners:
+- Inno.Content
 apiSurface: source-clr
+reviewed: 720c9a8c3a35a12abf931b46479e63f52eb06ebba9428519665239e840d5ecac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freezes a portable key, byte length, and SHA-256 identity.

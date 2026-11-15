@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b1d1c59b9a412f6359d4127b4ba611c331dc32c87e4610800ced6c661195c4ce
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildPlan.CreateRecipes(Inno.Build.Toolchains.NativeBuildContext)"
-source: xml
-reviewed: e65824e03aa12d9b8594891bae2ae9903b9c5f23b6cac23882d2cbb5436954d5
-title: "ProductNativeBuildPlan.CreateRecipes"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildPlan.CreateRecipes(Inno.Build.Toolchains.NativeBuildContext)
+title: ProductNativeBuildPlan.CreateRecipes
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: e65824e03aa12d9b8594891bae2ae9903b9c5f23b6cac23882d2cbb5436954d5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the complete selected source recipe closure before binding generation or native compilation.

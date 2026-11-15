@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1a025311b4c56e1e6f216aad1c95fc75d1d77381e6e700c8eb08d6e532129494
-symbol: "engine:Inno.Core.Events:P:Inno.Core.Events.TextInputEvent.text"
-source: xml
-reviewed: 0143f174830f384c73ce02543960c8d4e8ff9889c965599ebbf54305597c5d4c
-title: "TextInputEvent.text"
+symbol: engine:Inno.Core.Events:P:Inno.Core.Events.TextInputEvent.text
+title: TextInputEvent.text
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 0143f174830f384c73ce02543960c8d4e8ff9889c965599ebbf54305597c5d4c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the committed Unicode text.

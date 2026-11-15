@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f577347a5478b7e466556805a4dc1a8c8af00b7f627cb69f7485efe79a4be22a
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.WriteAllBytes(System.String,System.ReadOnlySpan{System.Byte},System.Boolean)"
-source: xml
-reviewed: c261b2720bf24a012c4b25ca32abbccae005c6c522c1fd54d15025c3480855d8
-title: "AtomicFile.WriteAllBytes"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.WriteAllBytes(System.String,System.ReadOnlySpan{System.Byte},System.Boolean)
+title: AtomicFile.WriteAllBytes
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: c261b2720bf24a012c4b25ca32abbccae005c6c522c1fd54d15025c3480855d8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a complete byte payload and atomically installs it at the destination.

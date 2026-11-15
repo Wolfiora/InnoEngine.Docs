@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9fce1ee64a41b75f1de9ebc9163ee6580c8d36d1e5e86cb7007e564e64212abc
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationTypeMetadata.WithCaptureRevision(System.Func{System.Object,System.Nullable{System.UInt64}})"
-source: xml
-reviewed: 55feeea5d9851b9572eb4e604a0fff420e821af2a9133871952e379d7faf7435
-title: "SerializationTypeMetadata.WithCaptureRevision"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationTypeMetadata.WithCaptureRevision(System.Func{System.Object,System.Nullable{System.UInt64}})
+title: SerializationTypeMetadata.WithCaptureRevision
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 55feeea5d9851b9572eb4e604a0fff420e821af2a9133871952e379d7faf7435
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares complete pure serialized-property revision access for a sealed serializable identity source.

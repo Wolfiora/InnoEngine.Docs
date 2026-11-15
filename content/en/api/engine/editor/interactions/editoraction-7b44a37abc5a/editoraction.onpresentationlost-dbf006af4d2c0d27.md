@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dbf006af4d2c0d27c768db6fe9f173356ad689477bf141c799972dfcc065aad7
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction.OnPresentationLost"
-source: xml
-reviewed: c0f5af1853cbc39b39b6b651bcf1627d874f29055deb6b2f94b33feddf115e06
-title: "EditorAction.OnPresentationLost"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction.OnPresentationLost
+title: EditorAction.OnPresentationLost
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: c0f5af1853cbc39b39b6b651bcf1627d874f29055deb6b2f94b33feddf115e06
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs when this action's active target loses editor presentation focus.

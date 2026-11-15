@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2e97cff4baec5fbf58ffdf2c293ea216c9803c6878758212c63c728625aff6f3
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.#ctor"
-source: xml
-reviewed: ae0a9185297f85e87f0dbe095e806e4dc9af7492b0e25ac98e8317c3458e4bfd
-title: "SerializationCaptureKeyBuilder.Constructor"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.#ctor
+title: SerializationCaptureKeyBuilder.Constructor
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: ae0a9185297f85e87f0dbe095e806e4dc9af7492b0e25ac98e8317c3458e4bfd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

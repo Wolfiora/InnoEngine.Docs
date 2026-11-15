@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8938d86ed2d84ee68b90eb748fb9db8aefd4f1eb79ccccae814ecbc2eae82396
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderAsset.SetDefinition(Inno.Rendering.Assets.ShaderDefinition,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 89b4ea96ff20ba28750139b52962f85f64be71618303cee01674af1cb7e98822
-title: "ShaderAsset.SetDefinition"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderAsset.SetDefinition(Inno.Rendering.Assets.ShaderDefinition,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderAsset.SetDefinition
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 89b4ea96ff20ba28750139b52962f85f64be71618303cee01674af1cb7e98822
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Commits a validated definition through the native serialization channel.

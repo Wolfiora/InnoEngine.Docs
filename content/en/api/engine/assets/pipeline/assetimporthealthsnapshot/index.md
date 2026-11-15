@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.pipeline.139c77f8998e2657
-symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportHealthSnapshot"
-source: xml
-reviewed: 213664e91b868e11469a679f2edd3fb98a17d336f17014e91455a70098f14dce
-title: "AssetImportHealthSnapshot"
+symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportHealthSnapshot
+title: AssetImportHealthSnapshot
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 213664e91b868e11469a679f2edd3fb98a17d336f17014e91455a70098f14dce
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-assets-pipeline
 aliases: []

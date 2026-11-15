@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.894ee9d58f7e04963f9e128f44bce573a062f9b0023c23fb4d58c7279aaee7c4
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispose"
-source: xml
-reviewed: 4ec914334b1cf1c91d50327b5945a1c477739dc759af8e254d79fb89bf9c58d4
-title: "LogRouter.Dispose"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispose
+title: LogRouter.Dispose
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 4ec914334b1cf1c91d50327b5945a1c477739dc759af8e254d79fb89bf9c58d4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Drains pending entries, stops the worker, and disposes every sink still owned by this router.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.257b22f7af844ecf8e2f2fbd371fcd2c37d60b41b607cdad9007e4834db78572
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetResidencyStatistics.ToString"
-source: xml
-reviewed: e7c279104046a79ce77c85416a0ab78d632d0625035d149c90e234ad0e7fbcf9
-title: "AssetResidencyStatistics.ToString"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetResidencyStatistics.ToString
+title: AssetResidencyStatistics.ToString
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: e7c279104046a79ce77c85416a0ab78d632d0625035d149c90e234ad0e7fbcf9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

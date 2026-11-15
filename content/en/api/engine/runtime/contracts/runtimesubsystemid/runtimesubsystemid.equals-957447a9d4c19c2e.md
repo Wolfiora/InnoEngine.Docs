@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.957447a9d4c19c2e00c1741855c400ad0f72961665b38111e27a6d97e81fc197
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemId.Equals(Inno.Runtime.Contracts.RuntimeSubsystemId)"
-source: xml
-reviewed: f2ae3129f822208da3a1682d885c0fe4cf375a6e343c57da6735e08c13b7976c
-title: "RuntimeSubsystemId.Equals"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemId.Equals(Inno.Runtime.Contracts.RuntimeSubsystemId)
+title: RuntimeSubsystemId.Equals
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: f2ae3129f822208da3a1682d885c0fe4cf375a6e343c57da6735e08c13b7976c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

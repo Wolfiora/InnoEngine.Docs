@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5ffd07eb522b2fae36673cbd3af63fa46195a3a8b62e1d451437f372aab7537b
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PushClipRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)"
-source: xml
-reviewed: 88053ac217b45a975922366df37d58443a099d775d0fc8eb1ee50ea2aa150399
-title: "ImGui.PushClipRect"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PushClipRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)
+title: ImGui.PushClipRect
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 88053ac217b45a975922366df37d58443a099d775d0fc8eb1ee50ea2aa150399
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Clips subsequent controls and drawing to a screen rectangle.

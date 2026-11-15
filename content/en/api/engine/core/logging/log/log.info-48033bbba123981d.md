@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.48033bbba123981d882b1478f998f6e68ef1fe53380fc21a646733ba8df32b6b
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Info(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
-source: xml
-reviewed: 1d317afdb87b8c447b1c22457d4425546e5be4f40f15ad3b7fcf90adb93709f7
-title: "Log.Info"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Info(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
+title: Log.Info
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 1d317afdb87b8c447b1c22457d4425546e5be4f40f15ad3b7fcf90adb93709f7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a formatted info-level message with its source location.

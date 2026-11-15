@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92ef4b6cfb11453ed270f42f685a035c8c52aaaddcaf0e93906dcc0dc37e7aeb
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.Equals(System.Object)"
-source: xml
-reviewed: 4b0f345dd96ff5e45346897764d7fe7e2fa61c4475e31f581ef125798d854daf
-title: "EditorViewportFocusBounds.Equals"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.Equals(System.Object)
+title: EditorViewportFocusBounds.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 4b0f345dd96ff5e45346897764d7fe7e2fa61c4475e31f581ef125798d854daf
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

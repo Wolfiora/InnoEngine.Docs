@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a1315b7da2248c6b6c9d5bdba8c02802e3b16cdd725958e77e0b857ce5c49a18
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.AcquireAsync\u0060\u00601(System.Guid,System.Threading.CancellationToken)"
-source: xml
-reviewed: fdd838982896d649333d59fb395081f267e64464de5776cc2e80383e7750c59b
-title: "AssetPipeline.AcquireAsync"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.AcquireAsync``1(System.Guid,System.Threading.CancellationToken)
+title: AssetPipeline.AcquireAsync
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: fdd838982896d649333d59fb395081f267e64464de5776cc2e80383e7750c59b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Asynchronously acquires a canonical authoring asset by persistent identity.

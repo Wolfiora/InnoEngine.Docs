@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.529a747e76efcfac8f4ee35b783bf3c94b75d24ae24762e4bc6496b2f437ca79
-symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiMeshUpdate.indices"
-source: xml
-reviewed: c4055e1cda157c01b35442af8874884ee4548da5e0a52f95255fb3425cabc310
-title: "UiMeshUpdate.indices"
+symbol: scripting:Inno.UI:P:InnoEngine.UI.UiMeshUpdate.indices
+title: UiMeshUpdate.indices
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: c4055e1cda157c01b35442af8874884ee4548da5e0a52f95255fb3425cabc310
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets immutable triangle indices.

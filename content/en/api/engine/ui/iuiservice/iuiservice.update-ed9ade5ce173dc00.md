@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ed9ade5ce173dc004676d6d63b9d4c40b858d1a21be72e8ca680ded149d3ef31
-symbol: "engine:Inno.UI:M:Inno.UI.IUiService.Update(Inno.UI.UiContextHandle)"
-source: xml
-reviewed: eeb41f3237229772d06cce71801829041d88a3800e8ae08b0c366999886b2a5f
-title: "IUiService.Update"
+symbol: engine:Inno.UI:M:Inno.UI.IUiService.Update(Inno.UI.UiContextHandle)
+title: IUiService.Update
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: eeb41f3237229772d06cce71801829041d88a3800e8ae08b0c366999886b2a5f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Processes current-frame input and advances one context.

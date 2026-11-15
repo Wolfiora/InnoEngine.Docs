@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5effcd50ced58c1be92ba72e5cd4e4d027036a95d44767d36f2b69597d1411af
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.InputTextWithHint(System.String,System.String,System.String@,System.Int32,Inno.Editor.ImGui.ImGuiInputTextFlags)"
-source: xml
-reviewed: e85fdef310b7137b16ba2a050a416d7da04d0988c4bce0e57a50e27079af97fa
-title: "ImGui.InputTextWithHint"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.InputTextWithHint(System.String,System.String,System.String@,System.Int32,Inno.Editor.ImGui.ImGuiInputTextFlags)
+title: ImGui.InputTextWithHint
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: e85fdef310b7137b16ba2a050a416d7da04d0988c4bce0e57a50e27079af97fa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws and edits a bounded UTF-8 text value with placeholder text.

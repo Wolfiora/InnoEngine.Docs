@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.75aef1bbf47dbf4dcae3bcc585e1b4980f0e7d02e3885a1764889bdfc3cd7e23
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionState.#ctor(System.Boolean,System.Boolean,System.Boolean,System.String,System.String)"
-source: xml
-reviewed: 0e974629dd0e8dbc594cdb941c3e05b00dfa9f4919f8bbb153fa290d47d8d45b
-title: "EditorActionState.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionState.#ctor(System.Boolean,System.Boolean,System.Boolean,System.String,System.String)
+title: EditorActionState.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 0e974629dd0e8dbc594cdb941c3e05b00dfa9f4919f8bbb153fa290d47d8d45b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the contextual presentation state of an editor action.

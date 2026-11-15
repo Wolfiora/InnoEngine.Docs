@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5029ec34cfe6641adcf878c2026ca95c626d49afc742fedbd33a897cca281754
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Reflect(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
-source: xml
-reviewed: 372d1451ad9a6cd74a8439b802e71c6c074b4510647fc7d289e86db1e076ef9c
-title: "Vector3.Reflect"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Reflect(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
+title: Vector3.Reflect
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 372d1451ad9a6cd74a8439b802e71c6c074b4510647fc7d289e86db1e076ef9c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reflects an incident value across the supplied normal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dc561724d9740580c736ad011e7a791a58f1b0b8021606504481af13f8529fb2
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifact.Equals(System.Object)"
-source: xml
-reviewed: 8e20f8bc49363cc0cef26cd3579c29b9b4c591bf0c81b9ee71282e565aac5f1e
-title: "NativeArtifact.Equals"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifact.Equals(System.Object)
+title: NativeArtifact.Equals
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 8e20f8bc49363cc0cef26cd3579c29b9b4c591bf0c81b9ee71282e565aac5f1e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the specified object is equal to the current object.

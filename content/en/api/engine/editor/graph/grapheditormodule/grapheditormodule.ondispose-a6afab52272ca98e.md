@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a6afab52272ca98edde14b7e03197e8abc4e1ac341a5a1f041a94150acc0059a
-symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.OnDispose"
-source: xml
-reviewed: 6a9ae117fd3ae13c023273b93adc6acb18056d68161f17e59affaf11332a3df5
-title: "GraphEditorModule.OnDispose"
+symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.OnDispose
+title: GraphEditorModule.OnDispose
 kind: api
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
 apiSurface: source-clr
+reviewed: 6a9ae117fd3ae13c023273b93adc6acb18056d68161f17e59affaf11332a3df5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Unregisters every document identity so issued controllers cannot resolve retired sessions.

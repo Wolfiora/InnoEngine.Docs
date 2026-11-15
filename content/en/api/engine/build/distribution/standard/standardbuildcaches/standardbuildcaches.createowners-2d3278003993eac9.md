@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d3278003993eac94e6edcefc437c9441dd0e3697385704ad0d0bcbcf5dd2ab8
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateOwners(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeComponentDescriptor})"
-source: xml
-reviewed: b1e27e6c9e3de4066842c9071c0ef9a89d2a1c55d235c0633dc81cab352c537d
-title: "StandardBuildCaches.CreateOwners"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateOwners(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeComponentDescriptor})
+title: StandardBuildCaches.CreateOwners
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: b1e27e6c9e3de4066842c9071c0ef9a89d2a1c55d235c0633dc81cab352c537d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers exact Native, binding and Support Pack ownership recorded by their publishers. Unrecorded directories remain outside the cleanup authority.

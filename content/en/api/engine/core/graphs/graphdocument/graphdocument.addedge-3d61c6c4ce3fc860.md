@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3d61c6c4ce3fc860fd01b38dc9620d86b550b65e1c9f51be8f82362862293e54
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.AddEdge(Inno.Core.Graphs.GraphEdgeRecord)"
-source: xml
-reviewed: b4e356073694ac16b0d6def510e3bc38e796b7a058bac4b88adba97bac35f1fa
-title: "GraphDocument.AddEdge"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.AddEdge(Inno.Core.Graphs.GraphEdgeRecord)
+title: GraphDocument.AddEdge
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: b4e356073694ac16b0d6def510e3bc38e796b7a058bac4b88adba97bac35f1fa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds an edge while preserving document order.

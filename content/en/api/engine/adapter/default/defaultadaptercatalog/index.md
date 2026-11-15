@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.adapter.default.074b9f3339c460a9
-symbol: "engine:Inno.Adapter.Default:T:Inno.Adapter.Default.DefaultAdapterCatalog"
-source: xml
-reviewed: 3cd50734c181db94cfca1d9795736159a6bb45dfedd5f159a18eb3a5f9c8e6d4
-title: "DefaultAdapterCatalog"
+symbol: engine:Inno.Adapter.Default:T:Inno.Adapter.Default.DefaultAdapterCatalog
+title: DefaultAdapterCatalog
 kind: api
-owners: [Inno.Adapter.Default]
+owners:
+- Inno.Adapter.Default
 apiSurface: source-clr
+reviewed: 3cd50734c181db94cfca1d9795736159a6bb45dfedd5f159a18eb3a5f9c8e6d4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-adapter-default
 aliases: []

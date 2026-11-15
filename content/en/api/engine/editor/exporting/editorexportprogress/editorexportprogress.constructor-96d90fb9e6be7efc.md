@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.96d90fb9e6be7efcf3fbb4a3a5a6ce873ed1c556e1946e0ad0a6c901a480c2e5
-symbol: "engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportProgress.#ctor(System.Int64,System.Nullable{System.Single},System.String,System.String,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 615d0115d27cc15d0ed22ad2224589e5b461dfc6b625955e98dc5517475db0a4
-title: "EditorExportProgress.Constructor"
+symbol: engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportProgress.#ctor(System.Int64,System.Nullable{System.Single},System.String,System.String,System.Boolean,System.Boolean)
+title: EditorExportProgress.Constructor
 kind: api
-owners: [Inno.Editor.Exporting]
+owners:
+- Inno.Editor.Exporting
 apiSurface: source-clr
+reviewed: 615d0115d27cc15d0ed22ad2224589e5b461dfc6b625955e98dc5517475db0a4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Contains one owner-thread export presentation snapshot.

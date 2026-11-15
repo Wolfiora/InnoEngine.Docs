@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.78307676fe217dc512da3fbb43d818bff14dd8c0ba24b55b566d79468d5d81a2
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.HotKeyGesture.GetHashCode"
-source: xml
-reviewed: 6c619543dbf9cdfb2e2007a7e5294b7297c8e2a99782ade117b8395e058bbfad
-title: "HotKeyGesture.GetHashCode"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.HotKeyGesture.GetHashCode
+title: HotKeyGesture.GetHashCode
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6c619543dbf9cdfb2e2007a7e5294b7297c8e2a99782ade117b8395e058bbfad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

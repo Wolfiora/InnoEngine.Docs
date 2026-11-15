@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b1e5fb455f119a387228d94f968883440a24900bc81d8a552c091415312e0bcc
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.#ctor(System.Int32)"
-source: xml
-reviewed: 4c777468729aa30b512377911511eb45a9ed174f20ff84efacf1fecf8c9bce90
-title: "LifetimeScope.Constructor"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.#ctor(System.Int32)
+title: LifetimeScope.Constructor
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 4c777468729aa30b512377911511eb45a9ed174f20ff84efacf1fecf8c9bce90
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a lifetime with finite asynchronous admission capacity.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d82405b9276fff328a0f78f3421653e59b7231d15a5a8019482615ad93487763
-symbol: "engine:Inno.Animation:P:Inno.Animation.AnimationSample.target"
-source: xml
-reviewed: c4fac6595b0e914bc112c817b11e9558b1ae0476a94f0e29d4f31652604dd9b7
-title: "AnimationSample.target"
+symbol: engine:Inno.Animation:P:Inno.Animation.AnimationSample.target
+title: AnimationSample.target
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: source-clr
+reviewed: c4fac6595b0e914bc112c817b11e9558b1ae0476a94f0e29d4f31652604dd9b7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the generation-qualified destination for this sample.

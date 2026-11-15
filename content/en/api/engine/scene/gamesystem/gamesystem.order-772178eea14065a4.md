@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.772178eea14065a4e3ba9f5b2e3656c1392e38a1483087af6a999dd65e597f27
-symbol: "engine:Inno.Scene:P:Inno.Scene.GameSystem.order"
-source: xml
-reviewed: 9f198132c0b08d865bdda865609d8329be54fced32156f519740539b241533dc
-title: "GameSystem.order"
+symbol: engine:Inno.Scene:P:Inno.Scene.GameSystem.order
+title: GameSystem.order
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 9f198132c0b08d865bdda865609d8329be54fced32156f519740539b241533dc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the ascending execution order used by the owning scene.

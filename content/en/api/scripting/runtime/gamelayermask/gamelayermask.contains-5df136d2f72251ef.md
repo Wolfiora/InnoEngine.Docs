@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5df136d2f72251efbe35a2221f2fc52f5152fd1ce036f265e60a2a81d69361b2
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.Contains(InnoEngine.Scene.GameLayer)"
-source: xml
-reviewed: 5febe2a9d98add817f647e5e16d8b420e4b49f802bc5fe7a012c12481f6e2943
-title: "GameLayerMask.Contains"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.Contains(InnoEngine.Scene.GameLayer)
+title: GameLayerMask.Contains
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 5febe2a9d98add817f647e5e16d8b420e4b49f802bc5fe7a012c12481f6e2943
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied layer is contained in this mask.

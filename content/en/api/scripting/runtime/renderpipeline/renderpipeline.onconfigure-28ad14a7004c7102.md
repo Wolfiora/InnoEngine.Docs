@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.28ad14a7004c71027846ff2ce269b149e08ba98916c74d06da15a3ceac383ca8
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipeline.OnConfigure(InnoEngine.Rendering.SerializedRenderExtensionState,InnoEngine.Rendering.RenderExtensionStateContext)"
-source: xml
-reviewed: e2265248be54fb20b0f04d7431b06850e96f54b3f090d1352192729db636b9b6
-title: "RenderPipeline.OnConfigure"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipeline.OnConfigure(InnoEngine.Rendering.SerializedRenderExtensionState,InnoEngine.Rendering.RenderExtensionStateContext)
+title: RenderPipeline.OnConfigure
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: e2265248be54fb20b0f04d7431b06850e96f54b3f090d1352192729db636b9b6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads pipeline-owned settings from neutral state.

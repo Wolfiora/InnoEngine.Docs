@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f34a2d097aacd9b561c689bfbd7171836550e8c6396e681f3e5813211defeb51
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioDevice.DeviceHandleIdentity.value"
-source: xml
-reviewed: bc3fd5ee2fb431c62cd71b15756c0edb8763a19739b5dff435ce2200bdff651c
-title: "AudioDevice.DeviceHandleIdentity.value"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioDevice.DeviceHandleIdentity.value
+title: AudioDevice.DeviceHandleIdentity.value
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: bc3fd5ee2fb431c62cd71b15756c0edb8763a19739b5dff435ce2200bdff651c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Non-zero backend resource identity.

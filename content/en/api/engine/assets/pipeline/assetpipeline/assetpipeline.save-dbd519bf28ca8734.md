@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dbd519bf28ca873452b45e775a74c920aec87bd6e508364c09c5da9bb38266cd
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Save(Inno.Assets.AssetPath,Inno.Assets.AssetObject)"
-source: xml
-reviewed: 4c205f6bc9364fa6545d84f1cb335d6f251ecee654830bb3a1d743ca970ebe78
-title: "AssetPipeline.Save"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Save(Inno.Assets.AssetPath,Inno.Assets.AssetObject)
+title: AssetPipeline.Save
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 4c205f6bc9364fa6545d84f1cb335d6f251ecee654830bb3a1d743ca970ebe78
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Saves an asset to a writable isolated source path, preserving the destination source identity when it exists.

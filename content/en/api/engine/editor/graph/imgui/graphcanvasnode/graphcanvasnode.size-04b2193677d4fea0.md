@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.04b2193677d4fea0f5330d2de58d3dff3ecfc5e8271662c8ede86fae90feb687
-symbol: "engine:Inno.Editor.Graph.ImGui:P:Inno.Editor.Graph.ImGui.GraphCanvasNode.size"
-source: xml
-reviewed: 9467aee6ff4ab0e98d6fd4e9a88fe8b4709fab60cdca91353343592e9fe8acb1
-title: "GraphCanvasNode.size"
+symbol: engine:Inno.Editor.Graph.ImGui:P:Inno.Editor.Graph.ImGui.GraphCanvasNode.size
+title: GraphCanvasNode.size
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: 9467aee6ff4ab0e98d6fd4e9a88fe8b4709fab60cdca91353343592e9fe8acb1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the unscaled node extent.

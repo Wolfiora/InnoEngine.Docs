@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b810b6b90680168039243e846617325f53ed901bec88943e206c7c75b0a8914
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassDefinition.Copy"
-source: xml
-reviewed: abb58be30fb8c77cf42e75bc08948af886effe7cc62b78e7046d03e383e50fd5
-title: "ShaderPassDefinition.Copy"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassDefinition.Copy
+title: ShaderPassDefinition.Copy
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: abb58be30fb8c77cf42e75bc08948af886effe7cc62b78e7046d03e383e50fd5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies the pass declaration with independently owned metadata storage.

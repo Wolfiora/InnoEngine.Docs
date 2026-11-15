@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.60b267647691d51799dcf091ca6835a29858516af2b83bf1cb4a15b5ff991a60
-symbol: "engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderOutputLayer.sourceIds"
-source: xml
-reviewed: fd8687c46cc4c3c9be46cf5fe53d694845019e7f98a6d47583d1816fd165db5b
-title: "RenderOutputLayer.sourceIds"
+symbol: engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderOutputLayer.sourceIds
+title: RenderOutputLayer.sourceIds
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: fd8687c46cc4c3c9be46cf5fe53d694845019e7f98a6d47583d1816fd165db5b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the assigned world-content source IDs.

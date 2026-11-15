@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6e1058c51dea28212e9b57e4fad5fc941051efcc1e584f1a30f38a5ad47d4b38
-symbol: "engine:Inno.Core.IO:P:Inno.Core.IO.ReadOnlyByteDocumentStore.exists"
-source: xml
-reviewed: b1562e5e83ef61783d766d9f06d1c200ea17cc24ddce19133a6d1070cdb93327
-title: "ReadOnlyByteDocumentStore.exists"
+symbol: engine:Inno.Core.IO:P:Inno.Core.IO.ReadOnlyByteDocumentStore.exists
+title: ReadOnlyByteDocumentStore.exists
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: b1562e5e83ef61783d766d9f06d1c200ea17cc24ddce19133a6d1070cdb93327
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether a document currently exists; callers must still handle absence during a later read.

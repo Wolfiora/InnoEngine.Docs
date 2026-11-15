@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c1da7c46a1a21991b452a554523e66200174f00d3cbe703267eb135ece82fe02
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameRuntimePlugin.Validate"
-source: xml
-reviewed: b44c7cf71c8f705c8b1fbf1877205b309654199b6d8a2bc26435185295b8bbca
-title: "GameRuntimePlugin.Validate"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameRuntimePlugin.Validate
+title: GameRuntimePlugin.Validate
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: b44c7cf71c8f705c8b1fbf1877205b309654199b6d8a2bc26435185295b8bbca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates identity and ownership declarations.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e08928729554c8f82704ee6bf4eda05dc0781b7f811393349e8ea0f4bf260d88
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationSnapshot.WriteTo(System.IO.Stream)"
-source: xml
-reviewed: d9dd7aa1901aaf4a30dbd7dd7ef5fd149438b1535d9830770249dbe5898c50a9
-title: "SerializationSnapshot.WriteTo"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationSnapshot.WriteTo(System.IO.Stream)
+title: SerializationSnapshot.WriteTo
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: d9dd7aa1901aaf4a30dbd7dd7ef5fd149438b1535d9830770249dbe5898c50a9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Streams this capture in the ordinary deterministic binary format without requiring a contiguous complete-output buffer.

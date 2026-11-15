@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cffc3edc4d0b240157e74c8f57c3b33c6615e41e58566a90b9d54b28278b8543
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitPort(InnoEditor.Graph.GraphCanvasLayout,System.Numerics.Vector2,System.Single)"
-source: xml
-reviewed: 9e5885c4eab6bc09d4494acca691f7e59b7938f44fb32cec15b9e0630a944cbb
-title: "GraphCanvasView.HitPort"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitPort(InnoEditor.Graph.GraphCanvasLayout,System.Numerics.Vector2,System.Single)
+title: GraphCanvasView.HitPort
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 9e5885c4eab6bc09d4494acca691f7e59b7938f44fb32cec15b9e0630a944cbb
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds a port by its displayed socket or label row, without interpreting its domain type.

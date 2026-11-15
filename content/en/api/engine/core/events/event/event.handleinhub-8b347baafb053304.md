@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8b347baafb053304aa218ac10650bc7f3e9b1156091748a6ab090448ec4822a5
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.Event.HandleInHub"
-source: xml
-reviewed: 9be787ee5b2f3c0c542edb40e3f222b36c26563bc28c65b689db7d9f0eb737d8
-title: "Event.HandleInHub"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.Event.HandleInHub
+title: Event.HandleInHub
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 9be787ee5b2f3c0c542edb40e3f222b36c26563bc28c65b689db7d9f0eb737d8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Marks this event as handled in the current hub only.

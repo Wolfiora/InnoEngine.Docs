@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4253904e24ffd9de946fb8e9df006296a06ca01c4a4123233e18ea117e0f7ec9
-symbol: "engine:Inno.Build:M:Inno.Build.BuildSettings.CreateDefault(System.String,System.String,Inno.Build.BuildTargetId)"
-source: xml
-reviewed: 5168ca3c991d90e902a108e496dd20edc424869330c9305b4ac2674f88a3c64e
-title: "BuildSettings.CreateDefault"
+symbol: engine:Inno.Build:M:Inno.Build.BuildSettings.CreateDefault(System.String,System.String,Inno.Build.BuildTargetId)
+title: BuildSettings.CreateDefault
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 5168ca3c991d90e902a108e496dd20edc424869330c9305b4ac2674f88a3c64e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates canonical defaults for a new project.

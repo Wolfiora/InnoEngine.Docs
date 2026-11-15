@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c682648ded731ab44088ddc7de653561f9f811db3f70e2c125d920e0d48bf0ed
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Update(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: 8d9c89509e2d7efb884fd65cdb1563b10effedbf5b140694351709af9eacbb4d
-title: "EditorModule.Update"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Update(InnoEditor.Core.EditorContext)
+title: EditorModule.Update
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 8d9c89509e2d7efb884fd65cdb1563b10effedbf5b140694351709af9eacbb4d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates the module once per editor frame before panels and modals are drawn.

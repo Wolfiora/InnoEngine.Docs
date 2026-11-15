@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.660e6305911509897dc047d6cd7a647440d9a40d30e00fada803b289d799cdf9
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.Presentation.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Numerics.Vector2,System.Numerics.Vector2)"
-source: xml
-reviewed: f69a411789499c9566e1020715bb048b03533d733fa340aa6d14cb3d03c9e925
-title: "EditorModalExtension.Presentation.Constructor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.Presentation.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Numerics.Vector2,System.Numerics.Vector2)
+title: EditorModalExtension.Presentation.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: f69a411789499c9566e1020715bb048b03533d733fa340aa6d14cb3d03c9e925
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable modal presentation snapshot.

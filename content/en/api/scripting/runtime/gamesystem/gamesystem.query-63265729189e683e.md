@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.63265729189e683ef2524963c3ea0f2d83e978b20f678bf1da13efc2df461445
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameSystem.Query\u0060\u00603"
-source: xml
-reviewed: b625d271b87af159d902206c7675dd64835805d9b598912282453d62d402db10
-title: "GameSystem.Query"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameSystem.Query``3
+title: GameSystem.Query
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: b625d271b87af159d902206c7675dd64835805d9b598912282453d62d402db10
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queries game objects containing three required component types.

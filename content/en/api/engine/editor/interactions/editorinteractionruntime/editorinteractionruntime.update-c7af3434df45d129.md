@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c7af3434df45d1295aefe282208cf00b771f17bdf1deaeaac84b93bad6b8c479
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractionRuntime.Update(Inno.Editor.Core.EditorFrame)"
-source: xml
-reviewed: 6e5a18c5df98aa35a9e7668a2ae5569fb7b0356ceb90ad504d36e114d10f7081
-title: "EditorInteractionRuntime.Update"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractionRuntime.Update(Inno.Editor.Core.EditorFrame)
+title: EditorInteractionRuntime.Update
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6e5a18c5df98aa35a9e7668a2ae5569fb7b0356ceb90ad504d36e114d10f7081
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Recomputes owned state from the current validated inputs.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d829f0f0d1adba665fa355e40c40f5312149e0ae90407c6b4088f9a85c10b430
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneAsset.Instantiate(Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: 16c4050e3ca3a608007a2c4ddf08384ada8b98f611646e9e9e37720d5bd4298b
-title: "SceneAsset.Instantiate"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneAsset.Instantiate(Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: SceneAsset.Instantiate
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 16c4050e3ca3a608007a2c4ddf08384ada8b98f611646e9e9e37720d5bd4298b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an unloaded runtime scene and acquires its hard asset dependencies.

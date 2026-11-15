@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.19887f067300ed702ddcac387d16ba0ae30288b08cb7a875a3f37c4e1113157f
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiPopupFlags.None"
-source: xml
-reviewed: 9f4d065fb82017bae0aa97eb3d35150a3afd5bce9139d249e8fcd0d83a93f5ef
-title: "ImGuiPopupFlags.None"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiPopupFlags.None
+title: ImGuiPopupFlags.None
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 9f4d065fb82017bae0aa97eb3d35150a3afd5bce9139d249e8fcd0d83a93f5ef
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Uses the ordinary behavior without additional options.

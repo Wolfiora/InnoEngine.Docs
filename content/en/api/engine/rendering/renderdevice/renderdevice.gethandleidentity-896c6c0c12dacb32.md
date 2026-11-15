@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.896c6c0c12dacb321cd33b3adb4a702eaf19902a5810433cb6710c92f1985d12
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.GraphicsPipelineHandle)"
-source: xml
-reviewed: 90a851965124e689e3516ae2e241871712218cb79d9ad8b95322432267cd3b8e
-title: "RenderDevice.GetHandleIdentity"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.GraphicsPipelineHandle)
+title: RenderDevice.GetHandleIdentity
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 90a851965124e689e3516ae2e241871712218cb79d9ad8b95322432267cd3b8e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes a graphics pipeline handle for backend lookup and generation validation.

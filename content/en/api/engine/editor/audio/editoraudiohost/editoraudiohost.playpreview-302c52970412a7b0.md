@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.302c52970412a7b095ef100775772dea746321d841baeeb2f202aee3c72d0474
-symbol: "engine:Inno.Editor.Audio:M:Inno.Editor.Audio.EditorAudioHost.PlayPreview(Inno.Runtime.RuntimeSession,Inno.Audio.AudioClipAsset,System.Nullable{Inno.Audio.AudioPlayOptions})"
-source: xml
-reviewed: 71ed67b4a377118e35d4c76c3f57b6f4552523d99c1045a7eeeada3985c94190
-title: "EditorAudioHost.PlayPreview"
+symbol: engine:Inno.Editor.Audio:M:Inno.Editor.Audio.EditorAudioHost.PlayPreview(Inno.Runtime.RuntimeSession,Inno.Audio.AudioClipAsset,System.Nullable{Inno.Audio.AudioPlayOptions})
+title: EditorAudioHost.PlayPreview
 kind: api
-owners: [Inno.Editor.Audio]
+owners:
+- Inno.Editor.Audio
 apiSurface: source-clr
+reviewed: 71ed67b4a377118e35d4c76c3f57b6f4552523d99c1045a7eeeada3985c94190
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts an Editor-owned preview voice through an active Edit Mode session.

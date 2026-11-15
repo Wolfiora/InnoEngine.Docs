@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.40b388e932a9fefe7c8140cf3481b04b5ac39a27a38b1f61916b706990a79537
-symbol: "engine:Inno.References:M:Inno.References.ReferenceCatalog.Create(System.Int64,System.Collections.Generic.IEnumerable{Inno.References.IReferenceResolver})"
-source: xml
-reviewed: a90ff67ed0098a4308efb862cf88871f5e7cfb5cfc59496658559655db78cdad
-title: "ReferenceCatalog.Create"
+symbol: engine:Inno.References:M:Inno.References.ReferenceCatalog.Create(System.Int64,System.Collections.Generic.IEnumerable{Inno.References.IReferenceResolver})
+title: ReferenceCatalog.Create
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: a90ff67ed0098a4308efb862cf88871f5e7cfb5cfc59496658559655db78cdad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds a complete resolver generation and rejects duplicate protocol identifiers.

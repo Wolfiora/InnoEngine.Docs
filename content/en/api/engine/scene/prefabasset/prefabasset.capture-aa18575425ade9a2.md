@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aa18575425ade9a222ddac1dd7832125d7d6a6175d81c7db61d2045d2a76c010
-symbol: "engine:Inno.Scene:M:Inno.Scene.PrefabAsset.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: 120b6c6eb87663f70a5f633875ef1f2beab9e841776440b30f4ff6e741b8c818
-title: "PrefabAsset.Capture"
+symbol: engine:Inno.Scene:M:Inno.Scene.PrefabAsset.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: PrefabAsset.Capture
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 120b6c6eb87663f70a5f633875ef1f2beab9e841776440b30f4ff6e741b8c818
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a game object subtree into a new unsaved prefab asset.

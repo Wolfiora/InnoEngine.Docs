@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd82f172053ba2e83c63518da19bb6c72870ff6ed08679beba723265a13d998a
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.NumLock"
-source: xml
-reviewed: 1815284c027d6cf6df48f47cb158d7d659baee617d36ba9fbe4ebf524d3123be
-title: "ImGuiKey.NumLock"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.NumLock
+title: ImGuiKey.NumLock
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 1815284c027d6cf6df48f47cb158d7d659baee617d36ba9fbe4ebf524d3123be
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the NumLock presentation key or modifier.

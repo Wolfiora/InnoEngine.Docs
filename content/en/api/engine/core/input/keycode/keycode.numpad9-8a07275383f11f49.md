@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a07275383f11f49b1ec92ed9c7c4f1a8c70408a3ecea731afa89ae40a2ace6b
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.NumPad9"
-source: xml
-reviewed: 5ffcd74c0ae6c89907c5a6dc18a9fb9c35d2dc77a6898dcc8ff23929ff9ac298
-title: "KeyCode.NumPad9"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.NumPad9
+title: KeyCode.NumPad9
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 5ffcd74c0ae6c89907c5a6dc18a9fb9c35d2dc77a6898dcc8ff23929ff9ac298
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The 9 key on the numeric keypad.

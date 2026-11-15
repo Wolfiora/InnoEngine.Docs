@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.59376b67f121a6ef542e4fc71f407db45ac6def95522a4230b11fdd8b2bf96ff
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStageOutput.id"
-source: xml
-reviewed: 8293911d78423f88f93dc6d38ca9b7ca9f21592b9780715d0f67faa27ebb48a9
-title: "ShaderIrStageOutput.id"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStageOutput.id
+title: ShaderIrStageOutput.id
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 8293911d78423f88f93dc6d38ca9b7ca9f21592b9780715d0f67faa27ebb48a9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the exact block output identity.

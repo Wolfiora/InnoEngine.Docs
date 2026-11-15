@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f1ea28d5cdc7344919cfe1874f8609255ea21ae265ff4364d99a1606f2cb559e
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceStore.Save(Inno.Assets.AssetPath,System.Byte[],System.String)"
-source: xml
-reviewed: 4ab76bf15f0c95cc36378e94553cb67f5c316fd3869af412f26e2b53e74e57b8
-title: "AssetSourceStore.Save"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceStore.Save(Inno.Assets.AssetPath,System.Byte[],System.String)
+title: AssetSourceStore.Save
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 4ab76bf15f0c95cc36378e94553cb67f5c316fd3869af412f26e2b53e74e57b8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically saves bytes after checking the source fingerprint; import is a separate operation.

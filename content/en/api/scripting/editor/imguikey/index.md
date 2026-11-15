@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.editor-script.547d1562d31ec453
-symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiKey"
-source: xml
-reviewed: 89a9421e108334f4f2501f9841dae0770c004e1b4efdc52f448660c51f0da26b
-title: "ImGuiKey"
+symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiKey
+title: ImGuiKey
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 89a9421e108334f4f2501f9841dae0770c004e1b4efdc52f448660c51f0da26b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.inno.editor.imgui.editor-script.547d1562d31ec453#declaration
 - manual.scripting.use-script-api

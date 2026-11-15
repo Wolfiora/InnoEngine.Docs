@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c86c657718fe8a974bc43b076b53f8ecf86e5badc9c9ecb8d883c46be42a9477
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSetting.Draw(InnoEditor.Settings.EditorSettingObject)"
-source: xml
-reviewed: d5a8192b3ab9b3c6bf6a366f07dcc4d66b39bef251813b6a950c9128c9bd66ca
-title: "EditorSetting.Draw"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSetting.Draw(InnoEditor.Settings.EditorSettingObject)
+title: EditorSetting.Draw
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: d5a8192b3ab9b3c6bf6a366f07dcc4d66b39bef251813b6a950c9128c9bd66ca
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws this field inside the frontend-managed content container.

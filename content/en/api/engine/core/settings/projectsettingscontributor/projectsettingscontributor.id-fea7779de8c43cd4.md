@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fea7779de8c43cd4759c06ae310caf7475c53f9f8dd3bad02b2d0ff4a9a8070a
-symbol: "engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingsContributor.id"
-source: xml
-reviewed: 67bce3cca267738193dff8082fb9b68475fc264430a0684c8e0f0a981ef35dd0
-title: "ProjectSettingsContributor.id"
+symbol: engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingsContributor.id
+title: ProjectSettingsContributor.id
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 67bce3cca267738193dff8082fb9b68475fc264430a0684c8e0f0a981ef35dd0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable contributor identity.

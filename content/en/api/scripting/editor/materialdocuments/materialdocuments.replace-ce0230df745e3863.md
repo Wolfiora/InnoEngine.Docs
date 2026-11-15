@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ce0230df745e3863c69572ebe1390119aefb48434e44af3fb6baa841cfc3de0d
-symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.Replace(System.Guid,InnoEngine.Rendering.MaterialAsset,System.String)"
-source: xml
-reviewed: 1d872a8774bf8cdfa4d74419a8496ea64c257b7580bdead319a5faca3a004023
-title: "MaterialDocuments.Replace"
+symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.Replace(System.Guid,InnoEngine.Rendering.MaterialAsset,System.String)
+title: MaterialDocuments.Replace
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: 1d872a8774bf8cdfa4d74419a8496ea64c257b7580bdead319a5faca3a004023
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Changes a draft through shared History without modifying its source or Scene/Game.

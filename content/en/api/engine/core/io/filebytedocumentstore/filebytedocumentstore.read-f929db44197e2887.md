@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f929db44197e28875bcdc9c82a987b22fd7a7d9588ec10a0fc0b44952adead46
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.FileByteDocumentStore.Read"
-source: xml
-reviewed: 52835d24f49112d3a540e3be57a59fc33ebfea083d5286d0e01b3d4ac1b4ceef
-title: "FileByteDocumentStore.Read"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.FileByteDocumentStore.Read
+title: FileByteDocumentStore.Read
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 52835d24f49112d3a540e3be57a59fc33ebfea083d5286d0e01b3d4ac1b4ceef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Obtains a newly owned complete document snapshot.

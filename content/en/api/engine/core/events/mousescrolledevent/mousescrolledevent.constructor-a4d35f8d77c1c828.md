@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a4d35f8d77c1c828abf435a3d79230852a2db8f5f545e80d01519327a2f6259e
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.MouseScrolledEvent.#ctor(System.UInt32,System.Single,System.Single)"
-source: xml
-reviewed: 9f4525238f4ef30312cdfa5347819daf0b32322fb8741bbe6e5bf738f2904765
-title: "MouseScrolledEvent.Constructor"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.MouseScrolledEvent.#ctor(System.UInt32,System.Single,System.Single)
+title: MouseScrolledEvent.Constructor
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 9f4525238f4ef30312cdfa5347819daf0b32322fb8741bbe6e5bf738f2904765
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Raised when mouse wheel scrolls.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f9614d930ab3af28648156577130c6deb650a51592ea2f3b8d9c9dfb2f43acab
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.TryResolveMaterialArtifact(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderProgramKind,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.MaterialPropertyBlock,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.RenderMaterialPass@)"
-source: xml
-reviewed: 93ccd1211bca30c080883ffdf82dbaaa3e071e7c33244e4de9900b2984b1cda7
-title: "IRenderResourceService.TryResolveMaterialArtifact"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.TryResolveMaterialArtifact(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderProgramKind,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.MaterialPropertyBlock,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.RenderMaterialPass@)
+title: IRenderResourceService.TryResolveMaterialArtifact
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 93ccd1211bca30c080883ffdf82dbaaa3e071e7c33244e4de9900b2984b1cda7
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves an explicitly compiled candidate in a caller-owned publication scope, without publishing it as an asset.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.08b8148f8113b190a93118a33c37b1463c9072549b29a7479c917bd52196c5a9
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.Settings.QualifyId(System.String)"
-source: xml
-reviewed: f92df2249d137450aa1b0b4aee172665278104b4a4873c4b07ad139c9558aa86
-title: "Settings.QualifyId"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.Settings.QualifyId(System.String)
+title: Settings.QualifyId
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: f92df2249d137450aa1b0b4aee172665278104b4a4873c4b07ad139c9558aa86
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one complete project identity from a display or local name.

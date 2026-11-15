@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.68372ab275f3ef20a74c15b4b05a995cbd87eb418ab3ec75178355b2a44602e7
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipAsset.metadata"
-source: xml
-reviewed: cf6ebbed113e6b00a9bf084705ca559a6053055e51aef77a0340cca463c29fc6
-title: "AudioClipAsset.metadata"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipAsset.metadata
+title: AudioClipAsset.metadata
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: cf6ebbed113e6b00a9bf084705ca559a6053055e51aef77a0340cca463c29fc6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets imported metadata, or `null` before runtime content is loaded.

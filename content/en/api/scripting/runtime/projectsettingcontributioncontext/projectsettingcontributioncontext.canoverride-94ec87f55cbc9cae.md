@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.94ec87f55cbc9caef497f12d9677def1263de76eb4d25072114b40a5534a5df0
-symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingContributionContext.CanOverride(System.String)"
-source: xml
-reviewed: ef3cd27b84beae62f8302826a94c1c61bd74794de57b24d5e9eb875ae5055ce6
-title: "ProjectSettingContributionContext.CanOverride"
+symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingContributionContext.CanOverride(System.String)
+title: ProjectSettingContributionContext.CanOverride
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: editor-script
+reviewed: ef3cd27b84beae62f8302826a94c1c61bd74794de57b24d5e9eb875ae5055ce6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether this contribution may explicitly replace data owned by another contributor.

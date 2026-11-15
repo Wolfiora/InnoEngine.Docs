@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c4eb37931e79a69e2f4379df282f35621ae6f761096f47bbd080be2023eb36c5
-symbol: "scripting:Inno.Animation:P:InnoEngine.Animation.AnimationMarkerEvent.payload"
-source: xml
-reviewed: a3480c9723356e4e7c90b7e9222e82bcc3c60a6582ffe1dcb06fb79d2c3b846d
-title: "AnimationMarkerEvent.payload"
+symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationMarkerEvent.payload
+title: AnimationMarkerEvent.payload
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: a3480c9723356e4e7c90b7e9222e82bcc3c60a6582ffe1dcb06fb79d2c3b846d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an immutable copy of the marker payload.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fd00e6e1ee731e6a516fc6a1bb63da6e03bb92ea17d1d80ffc2b8eee35834fcf
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemId.GetHashCode"
-source: xml
-reviewed: 8e168275b078b1de8a4a249374dda37012f613b0ab233285a12d4a5a3d445e1d
-title: "RuntimeSubsystemId.GetHashCode"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemId.GetHashCode
+title: RuntimeSubsystemId.GetHashCode
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 8e168275b078b1de8a4a249374dda37012f613b0ab233285a12d4a5a3d445e1d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

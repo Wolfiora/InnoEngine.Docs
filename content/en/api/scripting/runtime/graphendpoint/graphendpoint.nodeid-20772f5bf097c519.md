@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.20772f5bf097c5195ee4307201a46099403fca6731a79350ce132b42d55390b5
-symbol: "scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphEndpoint.nodeId"
-source: xml
-reviewed: 96ff9794ac95b5ed238e5ecc232c626d71d85b8e15f087abf55b52063f872a0d
-title: "GraphEndpoint.nodeId"
+symbol: scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphEndpoint.nodeId
+title: GraphEndpoint.nodeId
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: 96ff9794ac95b5ed238e5ecc232c626d71d85b8e15f087abf55b52063f872a0d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the owning node identifier.

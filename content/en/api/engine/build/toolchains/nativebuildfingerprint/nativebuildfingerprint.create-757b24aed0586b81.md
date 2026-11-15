@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.757b24aed0586b81caf7ef77870484dcaacee8dab37da0b1899ac7141637b290
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildFingerprint.Create(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Threading.CancellationToken)"
-source: xml
-reviewed: a0e834bb61656df1e02b444423191347fa45b60c8c1ff4b3a3c73598105b5bb8
-title: "NativeBuildFingerprint.Create"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildFingerprint.Create(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Threading.CancellationToken)
+title: NativeBuildFingerprint.Create
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: a0e834bb61656df1e02b444423191347fa45b60c8c1ff4b3a3c73598105b5bb8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Hashes a complete declared input closure independently of checkout location and file timestamps.

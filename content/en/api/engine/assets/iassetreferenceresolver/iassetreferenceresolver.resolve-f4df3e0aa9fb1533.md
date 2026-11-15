@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f4df3e0aa9fb1533674ce441313ab8abaa5ac2db0de6e5ee0dfb4b30a8974ba0
-symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetReferenceResolver.Resolve(System.Guid,System.Guid,System.String,System.Type,System.String)"
-source: xml
-reviewed: 851899bdbd61936de155379726de5df757ee65377decf24008b06ad8e51924d7
-title: "IAssetReferenceResolver.Resolve"
+symbol: engine:Inno.Assets:M:Inno.Assets.IAssetReferenceResolver.Resolve(System.Guid,System.Guid,System.String,System.Type,System.String)
+title: IAssetReferenceResolver.Resolve
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 851899bdbd61936de155379726de5df757ee65377decf24008b06ad8e51924d7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves one serialized asset reference to the canonical object owned by this resolver.

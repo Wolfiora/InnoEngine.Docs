@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e7090838d211f6c8edaf224c71fd93435579fba3585b34dfabdd2136df4e64c
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphPassProgram.pass"
-source: xml
-reviewed: 5781b2602a3c341fd74439bead18b5dc9cced427007f2bdb17b0100b2e306b5e
-title: "ShaderGraphPassProgram.pass"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphPassProgram.pass
+title: ShaderGraphPassProgram.pass
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 5781b2602a3c341fd74439bead18b5dc9cced427007f2bdb17b0100b2e306b5e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the exact pass identity in the runtime shader definition.

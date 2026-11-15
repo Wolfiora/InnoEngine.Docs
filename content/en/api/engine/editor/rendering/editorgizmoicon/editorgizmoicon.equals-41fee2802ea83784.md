@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41fee2802ea83784d206551ca7450ec03b335072542129dc615209fd437b10fa
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.Equals(System.Object)"
-source: xml
-reviewed: 5284a24854174f7b4ac12dbf136b2b8f8da8deebd53bc81d8ee66b43b13805b0
-title: "EditorGizmoIcon.Equals"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.Equals(System.Object)
+title: EditorGizmoIcon.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 5284a24854174f7b4ac12dbf136b2b8f8da8deebd53bc81d8ee66b43b13805b0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6e2b7852dde7f3ed0e34b83a6c3b019d2b2fb3b8e4e3c6ad1965b74f33827e03
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.EditorSceneWorkspaceFactory.Create(Inno.Runtime.RuntimeSession,Inno.Assets.Pipeline.AssetPipeline,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Logging.LogRouter,Inno.Editor.Interactions.IEditorSelectionCoordinator)"
-source: xml
-reviewed: 692d731e2fbbfb0249a03f2b83bb563e25f4a899b178a134b9ed6195b64789fc
-title: "EditorSceneWorkspaceFactory.Create"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.EditorSceneWorkspaceFactory.Create(Inno.Runtime.RuntimeSession,Inno.Assets.Pipeline.AssetPipeline,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Logging.LogRouter,Inno.Editor.Interactions.IEditorSelectionCoordinator)
+title: EditorSceneWorkspaceFactory.Create
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 692d731e2fbbfb0249a03f2b83bb563e25f4a899b178a134b9ed6195b64789fc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an unattached workspace over explicitly owned Edit-session services.

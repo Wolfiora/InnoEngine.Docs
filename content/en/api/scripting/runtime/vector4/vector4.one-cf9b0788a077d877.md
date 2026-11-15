@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cf9b0788a077d877571ef4b2fbab65e173a399a1c34da161cddd0dfecdb6705d
-symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector4.ONE"
-source: xml
-reviewed: 9b53a8c0c22115fc90e52a44c893bdbce3de8cde371a9d9bc5d63ff10afd4294
-title: "Vector4.ONE"
+symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector4.ONE
+title: Vector4.ONE
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 9b53a8c0c22115fc90e52a44c893bdbce3de8cde371a9d9bc5d63ff10afd4294
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 A value whose components are all one.

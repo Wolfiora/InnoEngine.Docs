@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.576bb6a3d0caddc4758a57957f84af01481c6e1fa1214a9f6e986286ece05453
-symbol: "scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderRequestProviderContext.requests"
-source: xml
-reviewed: 93024bed6b14dfa6928d5122747af88d2971da1c53fdaba64eedc6996341cd04
-title: "RenderRequestProviderContext.requests"
+symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderRequestProviderContext.requests
+title: RenderRequestProviderContext.requests
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 93024bed6b14dfa6928d5122747af88d2971da1c53fdaba64eedc6996341cd04
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the sink accepting requests for the current frame.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.adb9b23cf60375cdeb22589ebc75c5deefbb81e53081895b95ea7ee4233402b7
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiVertex.Equals(System.Object)"
-source: xml
-reviewed: f9df0d7c562a01cd9b43082e537064d4060e8116d9d8c53073fc01f91ac63470
-title: "UiVertex.Equals"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiVertex.Equals(System.Object)
+title: UiVertex.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: f9df0d7c562a01cd9b43082e537064d4060e8116d9d8c53073fc01f91ac63470
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

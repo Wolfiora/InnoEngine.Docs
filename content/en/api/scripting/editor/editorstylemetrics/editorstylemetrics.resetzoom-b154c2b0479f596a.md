@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b154c2b0479f596ae723080815b9c9ab8ede98887ffdf58de1e29bdb88bf4eae
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.ResetZoom"
-source: xml
-reviewed: 961a8cb7673facacf9bcdd635492e6e31f549d55227794dc84ee8f2f0cd3b36e
-title: "EditorStyleMetrics.ResetZoom"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.ResetZoom
+title: EditorStyleMetrics.ResetZoom
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 961a8cb7673facacf9bcdd635492e6e31f549d55227794dc84ee8f2f0cd3b36e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores the baseline editor UI zoom.

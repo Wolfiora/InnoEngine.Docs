@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b2e210ef554a06fbad127ab32b2be78a0828cc70319234335096f7bff76ec3f2
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.OnUnloading"
-source: xml
-reviewed: 38fe02401519bfcfe2dc3b805fbbb6dbf091acd45266e79469b43a97a636ad03
-title: "AssetObject.OnUnloading"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.OnUnloading
+title: AssetObject.OnUnloading
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 38fe02401519bfcfe2dc3b805fbbb6dbf091acd45266e79469b43a97a636ad03
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases the runtime resources owned by this asset without clearing its payload before quiescence.

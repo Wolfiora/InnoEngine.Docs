@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0b1df9804c2f9b8d124d0142b5cab4ab4e8c841147679cf6c4a0886b7dab4a78
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ReadSourceBytes(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 8b6144e14fb7c7a41e3a5f87e2c504074412278a218d63440cca1601fd4f60aa
-title: "AssetImportContext.ReadSourceBytes"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ReadSourceBytes(Inno.Assets.AssetPath)
+title: AssetImportContext.ReadSourceBytes
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 8b6144e14fb7c7a41e3a5f87e2c504074412278a218d63440cca1601fd4f60aa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads another source from the same candidate mount snapshot and records it as an import dependency.

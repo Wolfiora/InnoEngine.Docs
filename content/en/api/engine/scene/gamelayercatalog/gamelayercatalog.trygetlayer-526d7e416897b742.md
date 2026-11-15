@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.526d7e416897b742c84ee1a7100b143044131d2da8c3ea96a134eaae01ce7b21
-symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.TryGetLayer(Inno.Core.Settings.ProjectLocalId,Inno.Scene.Layers.GameLayer@)"
-source: xml
-reviewed: 900560b855c3c3791f956e851668d20c1a60eb7057fbef1bdba184116b5a19f2
-title: "GameLayerCatalog.TryGetLayer"
+symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.TryGetLayer(Inno.Core.Settings.ProjectLocalId,Inno.Scene.Layers.GameLayer@)
+title: GameLayerCatalog.TryGetLayer
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 900560b855c3c3791f956e851668d20c1a60eb7057fbef1bdba184116b5a19f2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to resolve a local identity to its compact runtime slot.

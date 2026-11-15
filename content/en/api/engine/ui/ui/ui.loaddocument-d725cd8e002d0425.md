@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d725cd8e002d04257b0bb001d67f3d859de0eec5c81cad05961e2c26697ac6a4
-symbol: "engine:Inno.UI:M:Inno.UI.UI.LoadDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentAsset)"
-source: xml
-reviewed: fee5eabe94c7e98c1972585893fb3247275bc891e00f2e0433026c2a6af31451
-title: "UI.LoadDocument"
+symbol: engine:Inno.UI:M:Inno.UI.UI.LoadDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentAsset)
+title: UI.LoadDocument
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: fee5eabe94c7e98c1972585893fb3247275bc891e00f2e0433026c2a6af31451
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads one imported document compatible with the selected backend.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9db3f90d6fb213b1a3391f27952190b44a1a5981c426f13ceff9af15ba7d35a3
-symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.#ctor(System.Func{Inno.Core.Events.EventHub})"
-source: xml
-reviewed: 83539420a767e56afe5391afffb60dc4a52a67b9d53bf2824318eddb58611104
-title: "LayerStack.Constructor"
+symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.#ctor(System.Func{Inno.Core.Events.EventHub})
+title: LayerStack.Constructor
 kind: api
-owners: [Inno.Core.Layers]
+owners:
+- Inno.Core.Layers
 apiSurface: source-clr
+reviewed: 83539420a767e56afe5391afffb60dc4a52a67b9d53bf2824318eddb58611104
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a layer stack that obtains one event scope for each attachment.

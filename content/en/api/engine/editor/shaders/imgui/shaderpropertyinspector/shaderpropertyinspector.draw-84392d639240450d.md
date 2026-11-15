@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.84392d639240450de892250c12943e4022e443b7aa9b1fd2b5637f39f3db1df4
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.Draw(Inno.Editor.Inspection.InspectionDrawContext,System.Object,System.String,Inno.Rendering.Assets.ShaderPropertyDefinition,Inno.Rendering.Assets.MaterialValue,System.Action{Inno.Rendering.Assets.MaterialValue},Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean,Inno.Editor.Shaders.ShaderParameterPresentation)"
-source: xml
-reviewed: 4854797df2e4afb2322c620fcc93219938d533f868805ca7541ca94ae4345430
-title: "ShaderPropertyInspector.Draw"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.Draw(Inno.Editor.Inspection.InspectionDrawContext,System.Object,System.String,Inno.Rendering.Assets.ShaderPropertyDefinition,Inno.Rendering.Assets.MaterialValue,System.Action{Inno.Rendering.Assets.MaterialValue},Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean,Inno.Editor.Shaders.ShaderParameterPresentation)
+title: ShaderPropertyInspector.Draw
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 4854797df2e4afb2322c620fcc93219938d533f868805ca7541ca94ae4345430
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a typed value without choosing its persistence or history policy.

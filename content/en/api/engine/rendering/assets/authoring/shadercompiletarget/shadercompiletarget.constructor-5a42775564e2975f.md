@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5a42775564e2975fd14ce03ac978172f76f4736a5bb40331dd68420fce335ae0
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderCompileTarget.#ctor(System.String,Inno.Rendering.GraphicsCapabilities,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 86771d38be2948396ac05fc0df19eb0d570f76961c269bed738eca2bb1a50de9
-title: "ShaderCompileTarget.Constructor"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderCompileTarget.#ctor(System.String,Inno.Rendering.GraphicsCapabilities,System.Boolean,System.Boolean)
+title: ShaderCompileTarget.Constructor
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 86771d38be2948396ac05fc0df19eb0d570f76961c269bed738eca2bb1a50de9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shader compilation target.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.98b80c6e4f99f0f67df9ba121cf6a3eeaa1ef05183c40ae6052346b1f3aa329e
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.GetInnoAssemblyScope(System.Reflection.Assembly)"
-source: xml
-reviewed: 97b3ad3a1c19c9bbdc60a5c053a273a878256af666beb7b6b27cfc3e5ba4987f
-title: "AssemblyExtensions.GetInnoAssemblyScope"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.GetInnoAssemblyScope(System.Reflection.Assembly)
+title: AssemblyExtensions.GetInnoAssemblyScope
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 97b3ad3a1c19c9bbdc60a5c053a273a878256af666beb7b6b27cfc3e5ba4987f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the dependency scope declared by an assembly.

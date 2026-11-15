@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92ccb3ee320da6804da3c31b4028adc28f847652705bdb94bbbeeb2e3f1817cb
-symbol: "engine:Inno.Text:M:Inno.Text.GlyphBitmap.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Single,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: d99ce22923bba9e0f9cbedf1a624cce8c70e4d3857158d493feb5ccb9635baea
-title: "GlyphBitmap.Constructor"
+symbol: engine:Inno.Text:M:Inno.Text.GlyphBitmap.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Single,System.ReadOnlySpan{System.Byte})
+title: GlyphBitmap.Constructor
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: d99ce22923bba9e0f9cbedf1a624cce8c70e4d3857158d493feb5ccb9635baea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a validated immutable glyph bitmap.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.61973c204c58a0a0a44b69546b8e15b6734e2284ccef8bac33506816a7ee8521
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Input(System.String,Inno.Rendering.Shaders.ShaderSourceType)"
-source: xml
-reviewed: cf136073dd16f4d2fed2a8b8d56ed0634c79c364658572e2c06929c016c0e381
-title: "ShaderIrBuilder.Input"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Input(System.String,Inno.Rendering.Shaders.ShaderSourceType)
+title: ShaderIrBuilder.Input
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: cf136073dd16f4d2fed2a8b8d56ed0634c79c364658572e2c06929c016c0e381
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a named input from the enclosing typed function or stage interface.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.81624a8c6ee4680949e9a47cc0a512c0f8096427034052759f4b008974c6949e
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerRegistry.GetDisplayName(System.String)"
-source: xml
-reviewed: ba9ea07782f2b443ed9b1a9a7f749562a0b886a31057efb139f32edd06f255cb
-title: "ShaderNodeDrawerRegistry.GetDisplayName"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerRegistry.GetDisplayName(System.String)
+title: ShaderNodeDrawerRegistry.GetDisplayName
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: ba9ea07782f2b443ed9b1a9a7f749562a0b886a31057efb139f32edd06f255cb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves an optional artist-facing name without executing a drawer or retaining its generation.

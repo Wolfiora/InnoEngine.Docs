@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.49f5a6d8c939808c9c5eb14991e1bcf9f2f30a984acd20d0f8cb9d7176b7a352
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.RenderBufferHandle)"
-source: xml
-reviewed: dba62d47482baa68fb8fc372feb86d83855cea5a3a2a40e4a9715a11dc4e21c6
-title: "RenderDevice.GetHandleIdentity"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.RenderBufferHandle)
+title: RenderDevice.GetHandleIdentity
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: dba62d47482baa68fb8fc372feb86d83855cea5a3a2a40e4a9715a11dc4e21c6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes a frame-scoped buffer handle for graph resource lookup.

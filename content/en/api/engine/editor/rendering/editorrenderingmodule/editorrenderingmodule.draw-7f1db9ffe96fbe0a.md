@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f1db9ffe96fbe0a86e4ae0c70ae937408169b9b0d59a1e0c3d55ea6dd539f87
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.Draw(Inno.Editor.Rendering.EditorViewportOutput,System.Numerics.Vector2)"
-source: xml
-reviewed: 859af0123c9ff208ba224467d1c71c53241fdc838f5c39606e7ad739078e299d
-title: "EditorRenderingModule.Draw"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.Draw(Inno.Editor.Rendering.EditorViewportOutput,System.Numerics.Vector2)
+title: EditorRenderingModule.Draw
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 859af0123c9ff208ba224467d1c71c53241fdc838f5c39606e7ad739078e299d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a ready output in the current panel.

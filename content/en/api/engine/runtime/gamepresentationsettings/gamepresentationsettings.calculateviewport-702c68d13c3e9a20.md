@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.702c68d13c3e9a20a4983ac9569a55b72523aef8bf7443d21a58d35b90c4c3a4
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GamePresentationSettings.CalculateViewport(System.Int32,System.Int32)"
-source: xml
-reviewed: 7fc7da6cbf3f36146268a29002303d17e470a92e286d5dd3edcd5811f75de74e
-title: "GamePresentationSettings.CalculateViewport"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GamePresentationSettings.CalculateViewport(System.Int32,System.Int32)
+title: GamePresentationSettings.CalculateViewport
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 7fc7da6cbf3f36146268a29002303d17e470a92e286d5dd3edcd5811f75de74e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the centered content region for an available presentation surface.

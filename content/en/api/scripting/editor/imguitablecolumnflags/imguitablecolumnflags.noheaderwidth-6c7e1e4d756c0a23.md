@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6c7e1e4d756c0a2379cae2cd408536dd9c51f220c9606884b9b1d343b70e5968
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.NoHeaderWidth"
-source: xml
-reviewed: a77948f2843cad607aa21948ac83fcf1d6e753ea8c383ce2617a6308a99447dc
-title: "ImGuiTableColumnFlags.NoHeaderWidth"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.NoHeaderWidth
+title: ImGuiTableColumnFlags.NoHeaderWidth
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: a77948f2843cad607aa21948ac83fcf1d6e753ea8c383ce2617a6308a99447dc
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Disable header text width contribution to automatic column width.

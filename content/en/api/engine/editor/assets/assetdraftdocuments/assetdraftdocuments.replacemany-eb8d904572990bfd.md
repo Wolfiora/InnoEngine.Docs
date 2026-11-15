@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.eb8d904572990bfdcd624752ef099d633a49ad924f3751ab39e2399c1703c26a
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments\u00601.ReplaceMany(System.Collections.Generic.IReadOnlyDictionary{System.Guid,\u00600},System.String)"
-source: xml
-reviewed: e08fdb6e9ba05a34887f0ff0087e375994ca2274db163ebc0e5151e6e20e91e7
-title: "AssetDraftDocuments\u003CTAsset\u003E.ReplaceMany"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments`1.ReplaceMany(System.Collections.Generic.IReadOnlyDictionary{System.Guid,`0},System.String)
+title: AssetDraftDocuments<TAsset>.ReplaceMany
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: e08fdb6e9ba05a34887f0ff0087e375994ca2274db163ebc0e5151e6e20e91e7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Records a fully validated selection sample atomically in the shared History.

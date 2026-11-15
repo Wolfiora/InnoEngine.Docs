@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c740503fd7647928a4ace284218ebd6fed6dd9560e87d6af0ffb325ade221eda
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4.Reflect(Inno.Core.Mathematics.Vector4,Inno.Core.Mathematics.Vector4)"
-source: xml
-reviewed: a9fb0b9d8503ebba11f2dd81e125e55f96b4cf42e578af400e6f5dc620388dd2
-title: "Vector4.Reflect"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4.Reflect(Inno.Core.Mathematics.Vector4,Inno.Core.Mathematics.Vector4)
+title: Vector4.Reflect
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: a9fb0b9d8503ebba11f2dd81e125e55f96b4cf42e578af400e6f5dc620388dd2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reflects an incident value across the supplied normal.

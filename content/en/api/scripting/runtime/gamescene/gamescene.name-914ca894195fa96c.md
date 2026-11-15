@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.914ca894195fa96c62e4eb421f7dc8a6c69666b33b2cb97d511a14ec6e9be965
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameScene.name"
-source: xml
-reviewed: 37c62f13277e2e848a5b4513edcc3f0b379959abd06b188379fc80a56d1b4de0
-title: "GameScene.name"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameScene.name
+title: GameScene.name
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 37c62f13277e2e848a5b4513edcc3f0b379959abd06b188379fc80a56d1b4de0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the scene display name.

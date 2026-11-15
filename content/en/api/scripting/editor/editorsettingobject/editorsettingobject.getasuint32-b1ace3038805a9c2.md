@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b1ace3038805a9c287c5aa34fad0ddbeeb68c41922faba6d3bfc6e534bb60ea7
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsUInt32(System.String,System.UInt32)"
-source: xml
-reviewed: 1afaad4fe818bb07b216920b2866d25c7d2a2501e2aadf581076802fb438bd0f
-title: "EditorSettingObject.GetAsUInt32"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsUInt32(System.String,System.UInt32)
+title: EditorSettingObject.GetAsUInt32
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 1afaad4fe818bb07b216920b2866d25c7d2a2501e2aadf581076802fb438bd0f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a 32-bit unsigned integer property, or a fallback when the property is absent.

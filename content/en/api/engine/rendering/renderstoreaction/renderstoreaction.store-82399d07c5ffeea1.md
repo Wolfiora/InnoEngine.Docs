@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.82399d07c5ffeea1cfe8609948790b54804af6948fc9315de00d5c272f4de533
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderStoreAction.Store"
-source: xml
-reviewed: f12866f03bb5d5b683bf10090927f6674c2898bf30e575ceacdb73f8d2413fdb
-title: "RenderStoreAction.Store"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderStoreAction.Store
+title: RenderStoreAction.Store
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: f12866f03bb5d5b683bf10090927f6674c2898bf30e575ceacdb73f8d2413fdb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Preserves rendered contents.

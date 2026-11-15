@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.760836225b5fcec82448dd34677ee1cc7072e708f31ba5e43ef77c1c48efcac1
-symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.TypeCatalogMetadata.#ctor(System.Type,System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.ValueTuple{System.String,System.Type}})"
-source: xml
-reviewed: f08f20a29b9a94847e06c025083d8209871aba797775e91cbf21aa096d05cb6d
-title: "TypeCatalogMetadata.Constructor"
+symbol: engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.TypeCatalogMetadata.#ctor(System.Type,System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Type},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.Attribute},System.Collections.Generic.IReadOnlyList{System.ValueTuple{System.String,System.Type}})
+title: TypeCatalogMetadata.Constructor
 kind: api
-owners: [Inno.Extensibility.Catalogs]
+owners:
+- Inno.Extensibility.Catalogs
 apiSurface: source-clr
+reviewed: f08f20a29b9a94847e06c025083d8209871aba797775e91cbf21aa096d05cb6d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures type relationships and attributes for one candidate generation.

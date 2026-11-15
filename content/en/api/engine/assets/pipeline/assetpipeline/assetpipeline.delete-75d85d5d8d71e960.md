@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.75d85d5d8d71e96044e146dcb004a9fbe9a6b1aa759ac86cbcd3f563021ab599
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Delete(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 966348e0ed503a2db68c1b129cc809f6073d42e2c933a85087bac668671e3205
-title: "AssetPipeline.Delete"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Delete(Inno.Assets.AssetPath)
+title: AssetPipeline.Delete
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 966348e0ed503a2db68c1b129cc809f6073d42e2c933a85087bac668671e3205
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Deletes a source asset and its metadata while retaining a Library tombstone for existing references.

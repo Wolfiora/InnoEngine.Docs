@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ba343286804f359bcd27a91c543af5e3b28966989885584af66141b7b4198f11
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.CaptureOutputAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: bab6ff64e1b191241460aadf0d64881483d34777dd4895f4e1ddc9ffe0b344ca
-title: "ToolchainEnvironment.CaptureOutputAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.CaptureOutputAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: ToolchainEnvironment.CaptureOutputAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: bab6ff64e1b191241460aadf0d64881483d34777dd4895f4e1ddc9ffe0b344ca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a tool's standard output while forwarding errors and preserving the common process lifecycle.

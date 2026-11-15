@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c31bf60e534b59db44dc564ad6eeca8b903dbd0ec7b0bb49cb00e891f4413bb2
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Load(Inno.Assets.AssetPath,System.Type)"
-source: xml
-reviewed: 69ed8c43c65841e88b521b10551dd76d53de3392e52b66070313b8079655d410
-title: "AssetPipeline.Load"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Load(Inno.Assets.AssetPath,System.Type)
+title: AssetPipeline.Load
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 69ed8c43c65841e88b521b10551dd76d53de3392e52b66070313b8079655d410
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads a canonical asset using a runtime asset type selected by an authoring workflow.

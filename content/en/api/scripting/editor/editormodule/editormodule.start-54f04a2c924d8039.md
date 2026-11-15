@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54f04a2c924d8039ec374bb6843527a2b1a5bf4a617545351e8940cfcec67acf
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Start(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: 0ffbad738b285d33ebbe78711ddd12fa62bd33ad7f9a0c94416e7c5a7ff6889a
-title: "EditorModule.Start"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Start(InnoEditor.Core.EditorContext)
+title: EditorModule.Start
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 0ffbad738b285d33ebbe78711ddd12fa62bd33ad7f9a0c94416e7c5a7ff6889a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts the module after the containing extension generation becomes active.

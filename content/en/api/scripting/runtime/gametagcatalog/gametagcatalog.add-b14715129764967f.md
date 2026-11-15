@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b14715129764967f009db2eb1fed3ec86edcdf9e9bc8ea2a25957394aaa80e19
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameTagCatalog.Add(System.String)"
-source: xml
-reviewed: ef3affc31f7b857752dba504886fdf3eecfcda24b078f46941673054e355ef05
-title: "GameTagCatalog.Add"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameTagCatalog.Add(System.String)
+title: GameTagCatalog.Add
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: ef3affc31f7b857752dba504886fdf3eecfcda24b078f46941673054e355ef05
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one normalized project tag definition.

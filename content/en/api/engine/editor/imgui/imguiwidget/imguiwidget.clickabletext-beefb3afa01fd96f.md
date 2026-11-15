@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.beefb3afa01fd96f38738fee20b4da6d5afbb2e0d2b88c1f5bfc3ea9d8a3854c
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClickableText(System.String,System.String,System.Numerics.Vector2,System.String)"
-source: xml
-reviewed: f280c4e57241af129fafadafdda47291bc4ce7f628249ea3b3fd8938d0c98587
-title: "ImGuiWidget.ClickableText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClickableText(System.String,System.String,System.Numerics.Vector2,System.String)
+title: ImGuiWidget.ClickableText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: f280c4e57241af129fafadafdda47291bc4ce7f628249ea3b3fd8938d0c98587
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws clickable text centered inside an explicitly sized transparent interaction area.

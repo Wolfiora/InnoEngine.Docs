@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fe4d5fc414da4aa2c6c4110f89a420772ae41a0e542235110a06500120b1cd31
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsLimits.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: 85ee850e9d6857c074c4d9b5af4b3f61e81ed133882aff2358d7d9c8ead024eb
-title: "GraphicsLimits.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsLimits.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+title: GraphicsLimits.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 85ee850e9d6857c074c4d9b5af4b3f61e81ed133882aff2358d7d9c8ead024eb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a graphics limits snapshot.

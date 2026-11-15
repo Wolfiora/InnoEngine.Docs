@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5c72762d607cd68f5d9bea7d040dc4868cd14c5cd150c774f17e766aadca0d1e
-symbol: "engine:Inno.Animation.Runtime:P:Inno.Animation.Runtime.AnimationRuntime.playbackCount"
-source: xml
-reviewed: b68dbc1ac4d1ef2b0af245c9555a445205657e437067191339210e9d1ed45397
-title: "AnimationRuntime.playbackCount"
+symbol: engine:Inno.Animation.Runtime:P:Inno.Animation.Runtime.AnimationRuntime.playbackCount
+title: AnimationRuntime.playbackCount
 kind: api
-owners: [Inno.Animation.Runtime]
+owners:
+- Inno.Animation.Runtime
 apiSurface: source-clr
+reviewed: b68dbc1ac4d1ef2b0af245c9555a445205657e437067191339210e9d1ed45397
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets active animation playback slots.

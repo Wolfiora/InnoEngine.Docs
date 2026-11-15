@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6cc60756d9c27720affebcf177e08ee61a484a0128fc5595f899f57cb78e10e9
-symbol: "scripting:Inno.Assets:P:InnoEngine.Assets.AssetArtifactInfo.outputName"
-source: xml
-reviewed: 0b244a15c9a77fd64de9a28ff4a3d468a95c9303b653123b6dab20c035102a12
-title: "AssetArtifactInfo.outputName"
+symbol: scripting:Inno.Assets:P:InnoEngine.Assets.AssetArtifactInfo.outputName
+title: AssetArtifactInfo.outputName
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 0b244a15c9a77fd64de9a28ff4a3d468a95c9303b653123b6dab20c035102a12
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable output name.

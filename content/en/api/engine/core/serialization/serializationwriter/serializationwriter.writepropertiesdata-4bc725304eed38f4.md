@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4bc725304eed38f400a653707b1b94e99a369cef34dda1e194fa09d8657e31b1
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.WritePropertiesData(System.String,Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 47bae52e8f55297140ce88c18ca127d4ef2c093834f45df3680c0d62a29531bb
-title: "SerializationWriter.WritePropertiesData"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.WritePropertiesData(System.String,Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)
+title: SerializationWriter.WritePropertiesData
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 47bae52e8f55297140ce88c18ca127d4ef2c093834f45df3680c0d62a29531bb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes independently restorable property bytes through the current converter generation.

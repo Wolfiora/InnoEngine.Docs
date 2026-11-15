@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8780411a43494cafba601adfba603b3bcae2d0e1928ffde2c1528433864fbbb5
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorPanel.Restore(Inno.Editor.Core.EditorState)"
-source: xml
-reviewed: 7fb131fd63568bd1b54693ddbab133b71af35e676a6d3cd6d94fbd655bcca3c1
-title: "EditorPanel.Restore"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorPanel.Restore(Inno.Editor.Core.EditorState)
+title: EditorPanel.Restore
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 7fb131fd63568bd1b54693ddbab133b71af35e676a6d3cd6d94fbd655bcca3c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores readable project state owned by this panel.

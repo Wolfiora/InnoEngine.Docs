@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ed35b6f254d0b5ef716acabcdfed9f90a36368e89687c51f0121057d22913c9c
-symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.OpenDocument(System.Guid,Inno.Core.Graphs.GraphDocument,Inno.Editor.Interactions.IEditorHistory)"
-source: xml
-reviewed: 86da8236dff29a4869ae8903133b8f3f0c9e16932f81ea645e5b5a96e150f091
-title: "GraphEditorModule.OpenDocument"
+symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphEditorModule.OpenDocument(System.Guid,Inno.Core.Graphs.GraphDocument,Inno.Editor.Interactions.IEditorHistory)
+title: GraphEditorModule.OpenDocument
 kind: api
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
 apiSurface: source-clr
+reviewed: 86da8236dff29a4869ae8903133b8f3f0c9e16932f81ea645e5b5a96e150f091
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Opens or joins an active graph document session.

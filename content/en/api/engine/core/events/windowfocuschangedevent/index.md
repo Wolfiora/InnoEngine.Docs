@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.events.80846ba3b33ed42f
-symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.WindowFocusChangedEvent"
-source: xml
-reviewed: 13652f008611d2b91ef0a76d0f549c8bd859ba5040dba2acfd9b9c280598cddf
-title: "WindowFocusChangedEvent"
+symbol: engine:Inno.Core.Events:T:Inno.Core.Events.WindowFocusChangedEvent
+title: WindowFocusChangedEvent
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 13652f008611d2b91ef0a76d0f549c8bd859ba5040dba2acfd9b9c280598cddf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 aliases: []

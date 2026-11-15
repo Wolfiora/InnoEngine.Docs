@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4fece5612b49bf61f82b7de46b2d6a8ae779aab42378364a33feb8c544724cb9
-symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.RemoveNode(InnoEngine.Graphs.GraphNodeId)"
-source: xml
-reviewed: a81600e1baabeec1f078d7cb9f3d0af1f2d196dd44df24d56585ec5ea37f3b1d
-title: "GraphDocument.RemoveNode"
+symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.RemoveNode(InnoEngine.Graphs.GraphNodeId)
+title: GraphDocument.RemoveNode
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: a81600e1baabeec1f078d7cb9f3d0af1f2d196dd44df24d56585ec5ea37f3b1d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes a node and every edge connected to it.

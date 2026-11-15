@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9ed9919dd5be78278c3d838a2acd759bd194719d6e2381e7a28a6f9d20898e84
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPlanarNavigation.Update(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 8d4319f9103457a25ee8f9c8cb86a0282c0fa582359911107dbb51aacfccda6a
-title: "EditorPlanarNavigation.Update"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPlanarNavigation.Update(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+title: EditorPlanarNavigation.Update
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 8d4319f9103457a25ee8f9c8cb86a0282c0fa582359911107dbb51aacfccda6a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances pointer capture using logical button state rather than window-local release events.

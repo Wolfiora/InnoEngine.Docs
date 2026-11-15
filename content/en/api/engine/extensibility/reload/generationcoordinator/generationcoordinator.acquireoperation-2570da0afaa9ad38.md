@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2570da0afaa9ad382924cdb32863ea52bb9778a790a534ed0293607f0800d84e
-symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireOperation(System.String)"
-source: xml
-reviewed: 63eb3f299757756be2a76a977ae0d3f4eaab2b181b694037bf18cb461f4fc394
-title: "GenerationCoordinator.AcquireOperation"
+symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireOperation(System.String)
+title: GenerationCoordinator.AcquireOperation
 kind: api
-owners: [Inno.Extensibility.Reload]
+owners:
+- Inno.Extensibility.Reload
 apiSurface: source-clr
+reviewed: 63eb3f299757756be2a76a977ae0d3f4eaab2b181b694037bf18cb461f4fc394
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Keeps one synchronous operation on the published generation and defers automatic catalog replacement.

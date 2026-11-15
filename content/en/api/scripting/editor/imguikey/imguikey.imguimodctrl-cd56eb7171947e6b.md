@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cd56eb7171947e6bbf50f0948490fae869a14f19ee99127d26f584c45f111a6b
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.ImGuiModCtrl"
-source: xml
-reviewed: e9b38dc428c402c2cc1b69f5387d5721250bc8501796a1c961ec40f4dea96c54
-title: "ImGuiKey.ImGuiModCtrl"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.ImGuiModCtrl
+title: ImGuiKey.ImGuiModCtrl
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: e9b38dc428c402c2cc1b69f5387d5721250bc8501796a1c961ec40f4dea96c54
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the ImGuiModCtrl presentation key or modifier.

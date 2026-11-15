@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.83874eb0d0764c694e1c9ff459e8623b47a1c2434efb676feae29ca1139771cb
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PopStyleVar(System.Int32)"
-source: xml
-reviewed: 6f850e53c605d9711b7f75e5bc542cdabb684cd3b360514cddfced85d09355f0
-title: "ImGui.PopStyleVar"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PopStyleVar(System.Int32)
+title: ImGui.PopStyleVar
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 6f850e53c605d9711b7f75e5bc542cdabb684cd3b360514cddfced85d09355f0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pops style-variable overrides.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8e2903a32ea69044b6a18c361216b64bfe08974da41fed41c7a6934c1680bd6b
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Draw(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: caeb2a8d5397e6a18367a15c275fd2f6757fb740e682ebc16a99ce0b18ff23c7
-title: "EditorPanel.Draw"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Draw(InnoEditor.Core.EditorContext)
+title: EditorPanel.Draw
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: caeb2a8d5397e6a18367a15c275fd2f6757fb740e682ebc16a99ce0b18ff23c7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws the complete dockable contents of the panel for the current frame.

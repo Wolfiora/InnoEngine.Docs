@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.778ead1f4f063d1c4bc1cbd81b9c7213db215693d43784cc3da45c208fa00fc1
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Call(Inno.Rendering.Shaders.ShaderSourceModuleAnalysis,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue})"
-source: xml
-reviewed: d4a9cdcdd05e31235207a0731bc5e2329345ea408d81d106610d7ca1283e1f04
-title: "ShaderIrBuilder.Call"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Call(Inno.Rendering.Shaders.ShaderSourceModuleAnalysis,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue})
+title: ShaderIrBuilder.Call
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: d4a9cdcdd05e31235207a0731bc5e2329345ea408d81d106610d7ca1283e1f04
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calls a validated source implementation using semantic parameter names, preserving all call side effects.

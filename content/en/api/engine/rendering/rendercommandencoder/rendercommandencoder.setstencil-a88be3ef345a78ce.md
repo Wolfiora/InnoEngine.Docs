@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a88be3ef345a78ceb0024f7d6fc3a4251629d1fcb020337c514f616baf3e2ac0
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetStencil(Inno.Rendering.RenderStencilState)"
-source: xml
-reviewed: ea8154740e14e0b252a79ff5b0fe13b9655fa81c8f61fb0406328c0e94b83378
-title: "RenderCommandEncoder.SetStencil"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetStencil(Inno.Rendering.RenderStencilState)
+title: RenderCommandEncoder.SetStencil
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: ea8154740e14e0b252a79ff5b0fe13b9655fa81c8f61fb0406328c0e94b83378
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the stencil configuration for subsequent draws.

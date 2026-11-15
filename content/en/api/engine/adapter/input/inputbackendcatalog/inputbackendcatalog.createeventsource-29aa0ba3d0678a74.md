@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.29aa0ba3d0678a741709edc9e19469489de132f0f275ec69cf9cd8bcd47372c4
-symbol: "engine:Inno.Adapter.Input:M:Inno.Adapter.Input.InputBackendCatalog.CreateEventSource(Inno.Adapter.Input.InputBackendId,Inno.Platform.IPlatformWindow,System.Boolean)"
-source: xml
-reviewed: 559d931d7589b2c25e2c8a955baccf205bcbf1c2e60151eb5bab0122fa5e58bb
-title: "InputBackendCatalog.CreateEventSource"
+symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.InputBackendCatalog.CreateEventSource(Inno.Adapter.Input.InputBackendId,Inno.Platform.IPlatformWindow,System.Boolean)
+title: InputBackendCatalog.CreateEventSource
 kind: api
-owners: [Inno.Adapter.Input]
+owners:
+- Inno.Adapter.Input
 apiSurface: source-clr
+reviewed: 559d931d7589b2c25e2c8a955baccf205bcbf1c2e60151eb5bab0122fa5e58bb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an input event source for one window or for the entire application.

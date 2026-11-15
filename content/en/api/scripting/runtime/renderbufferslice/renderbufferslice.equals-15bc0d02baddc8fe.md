@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.15bc0d02baddc8feadddea1d1abf5ad4b2e71762c955721003573df13ce716b8
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferSlice.Equals(System.Object)"
-source: xml
-reviewed: 0daa65565a816ea5d1fdf6c479ddf15eb5a87f22000a302c754d8de82f7498c5
-title: "RenderBufferSlice.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferSlice.Equals(System.Object)
+title: RenderBufferSlice.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 0daa65565a816ea5d1fdf6c479ddf15eb5a87f22000a302c754d8de82f7498c5
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

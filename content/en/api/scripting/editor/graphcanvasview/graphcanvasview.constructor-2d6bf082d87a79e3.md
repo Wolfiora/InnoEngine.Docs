@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d6bf082d87a79e3bcecbaebb0ad60ded759a7fdd84fa4d5867904cd563283ae
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.#ctor(InnoEditor.Graph.GraphCanvasState,System.Numerics.Vector2,System.Numerics.Vector2)"
-source: xml
-reviewed: 844be7f88453289dd7ffa9f776cb5d34d1a60121bb505f39f960263586d1d345
-title: "GraphCanvasView.Constructor"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.#ctor(InnoEditor.Graph.GraphCanvasState,System.Numerics.Vector2,System.Numerics.Vector2)
+title: GraphCanvasView.Constructor
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 844be7f88453289dd7ffa9f776cb5d34d1a60121bb505f39f960263586d1d345
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a frame-local graph presenter over navigation owned by its document.

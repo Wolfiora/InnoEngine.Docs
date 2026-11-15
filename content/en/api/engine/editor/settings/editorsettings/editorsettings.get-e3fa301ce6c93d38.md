@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e3fa301ce6c93d38d3962acf2f66156b7c146eea7d8131323d7bda1a771c5ae3
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.Get(System.String)"
-source: xml
-reviewed: 53b0d1f0140d6baa2afe170fc9a79f43d5f20c1f5f96ca5fe28a749326d75c77
-title: "EditorSettings.Get"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.Get(System.String)
+title: EditorSettings.Get
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: 53b0d1f0140d6baa2afe170fc9a79f43d5f20c1f5f96ca5fe28a749326d75c77
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads an isolated effective object from one complete Settings path.

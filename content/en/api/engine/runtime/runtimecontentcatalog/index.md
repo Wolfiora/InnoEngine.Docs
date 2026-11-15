@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.runtime.ffffdadca72c0d81
-symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeContentCatalog"
-source: xml
-reviewed: 022e28a25a952b727028de7b2b4dde85e214181103d599c4e2ee4a034419f91a
-title: "RuntimeContentCatalog"
+symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeContentCatalog
+title: RuntimeContentCatalog
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 022e28a25a952b727028de7b2b4dde85e214181103d599c4e2ee4a034419f91a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-runtime
 aliases: []

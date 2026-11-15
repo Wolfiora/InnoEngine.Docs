@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5de91d049225d8a20964920c3068400f94549489a00bcb298620b230439cde85
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.MouseCursor.ResizeEW"
-source: xml
-reviewed: bea8a638fd1b31625dee903b6186aff7286812187443998141f6d9deffee882f
-title: "MouseCursor.ResizeEW"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.MouseCursor.ResizeEW
+title: MouseCursor.ResizeEW
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: bea8a638fd1b31625dee903b6186aff7286812187443998141f6d9deffee882f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 An east-west resize cursor.

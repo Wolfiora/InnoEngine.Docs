@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8618a0981d116e6f0ea1cf78bd23561fcac46f3f5ae0d13908d1b43105a22107
-symbol: "engine:Inno.Core.Graphs:P:Inno.Core.Graphs.GraphDiagnostic.edgeId"
-source: xml
-reviewed: 21db4f15262603825a393b572462f605dc97f92566cb8cb522b1119638f52086
-title: "GraphDiagnostic.edgeId"
+symbol: engine:Inno.Core.Graphs:P:Inno.Core.Graphs.GraphDiagnostic.edgeId
+title: GraphDiagnostic.edgeId
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 21db4f15262603825a393b572462f605dc97f92566cb8cb522b1119638f52086
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the related edge identifier, if any.

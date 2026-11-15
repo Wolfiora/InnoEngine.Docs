@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8cfc6818fd58d7339f6841a862f1cd06f4345194496e897863de9558740e97fd
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetResidencyProvider.CreateArtifactLease(Inno.Assets.AssetArtifactInfo,System.Func{System.IO.Stream},System.Action)"
-source: xml
-reviewed: 836a542a4fe46ad8aac6b38871638b21e3976b246c9314a00a00b4c82b84f22d
-title: "AssetResidencyProvider.CreateArtifactLease"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetResidencyProvider.CreateArtifactLease(Inno.Assets.AssetArtifactInfo,System.Func{System.IO.Stream},System.Action)
+title: AssetResidencyProvider.CreateArtifactLease
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 836a542a4fe46ad8aac6b38871638b21e3976b246c9314a00a00b4c82b84f22d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one immutable artifact residency lease.

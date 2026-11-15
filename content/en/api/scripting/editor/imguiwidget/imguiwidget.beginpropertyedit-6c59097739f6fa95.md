@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6c59097739f6fa9527df5d47f112d1b08c5352d415bcb17ca5bc06904e2fecb4
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginPropertyEdit(InnoEditor.Interactions.IEditorHistory,System.String,System.String)"
-source: xml
-reviewed: b78552ed6a867512db702322d3852f73e6487e4eab8ccd61d368c9b453f1670e
-title: "ImGuiWidget.BeginPropertyEdit"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginPropertyEdit(InnoEditor.Interactions.IEditorHistory,System.String,System.String)
+title: ImGuiWidget.BeginPropertyEdit
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: b78552ed6a867512db702322d3852f73e6487e4eab8ccd61d368c9b453f1670e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts a History boundary only when a changed control is actively producing continuous input.

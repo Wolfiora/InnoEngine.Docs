@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f98bf9a321c27294f35a50ba1ddfe433db97cce1677a39118cecff80e85b87e9
-symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentFontDeclaration.Equals(Inno.UI.Assets.UiDocumentFontDeclaration)"
-source: xml
-reviewed: 3d27366a180b50f375b2806ff588369f2d17de8200ceb0dfa3d33c9480b8f5a3
-title: "UiDocumentFontDeclaration.Equals"
+symbol: engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentFontDeclaration.Equals(Inno.UI.Assets.UiDocumentFontDeclaration)
+title: UiDocumentFontDeclaration.Equals
 kind: api
-owners: [Inno.UI.Assets]
+owners:
+- Inno.UI.Assets
 apiSurface: source-clr
+reviewed: 3d27366a180b50f375b2806ff588369f2d17de8200ceb0dfa3d33c9480b8f5a3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.io.a1a9e8edbe3f8b47
-symbol: "engine:Inno.Core.IO:T:Inno.Core.IO.PhysicalPathResolver"
-source: xml
-reviewed: 003e0074a94216a7876eecd21fbbcce80bbe8fc870fbc87441825107ed96c011
-title: "PhysicalPathResolver"
+symbol: engine:Inno.Core.IO:T:Inno.Core.IO.PhysicalPathResolver
+title: PhysicalPathResolver
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 003e0074a94216a7876eecd21fbbcce80bbe8fc870fbc87441825107ed96c011
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []

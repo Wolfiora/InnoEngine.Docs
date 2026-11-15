@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b693734687c3f5df47fadc1d92c3ddf168e97387e1cbdc9a395baf893de680b8
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoFrame.Line(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
-source: xml
-reviewed: c96553332921ed32dbff0c8c01e24db736740ae444c6d6a46caaad85aaf8eb98
-title: "EditorGizmoFrame.Line"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoFrame.Line(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)
+title: EditorGizmoFrame.Line
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: c96553332921ed32dbff0c8c01e24db736740ae444c6d6a46caaad85aaf8eb98
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appends a world space line to the current gizmo frame.

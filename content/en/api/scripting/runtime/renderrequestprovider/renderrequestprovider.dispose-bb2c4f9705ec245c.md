@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb2c4f9705ec245c05d78cd64f019f91810d4c9d3914e22bf5cabdda484f9fa0
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderRequestProvider.Dispose"
-source: xml
-reviewed: e5366a397a7bb6b27775faaaf3c670901890e7990a51517237be58b6e486c8f7
-title: "RenderRequestProvider.Dispose"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderRequestProvider.Dispose
+title: RenderRequestProvider.Dispose
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: e5366a397a7bb6b27775faaaf3c670901890e7990a51517237be58b6e486c8f7
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases generation-scoped provider state.

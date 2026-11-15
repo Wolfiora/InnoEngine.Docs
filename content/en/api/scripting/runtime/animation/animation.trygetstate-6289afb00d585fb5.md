@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6289afb00d585fb5fcd3581deccec46672ea1bba0194f8002ce82356a7049770
-symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.Animation.TryGetState(InnoEngine.Animation.AnimationPlaybackHandle,InnoEngine.Animation.AnimationPlaybackState@,System.Single@)"
-source: xml
-reviewed: 7fe64691e0972f87063bd86d110743f9202e4582f83d10181d1a4f37c182319c
-title: "Animation.TryGetState"
+symbol: scripting:Inno.Animation:M:InnoEngine.Animation.Animation.TryGetState(InnoEngine.Animation.AnimationPlaybackHandle,InnoEngine.Animation.AnimationPlaybackState@,System.Single@)
+title: Animation.TryGetState
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 7fe64691e0972f87063bd86d110743f9202e4582f83d10181d1a4f37c182319c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to read one live playback's state and position.

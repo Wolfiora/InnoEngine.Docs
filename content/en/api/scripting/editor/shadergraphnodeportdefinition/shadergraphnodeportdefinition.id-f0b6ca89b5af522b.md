@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f0b6ca89b5af522bea873dd44b4206c3365a1c357168f0cdc0b7b4fae5aafe25
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodePortDefinition.id"
-source: xml
-reviewed: 4f6acf4182b040498f3dfb1070d2c90c4dbbf166d9400a3799b12e91bc4eed40
-title: "ShaderGraphNodePortDefinition.id"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodePortDefinition.id
+title: ShaderGraphNodePortDefinition.id
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 4f6acf4182b040498f3dfb1070d2c90c4dbbf166d9400a3799b12e91bc4eed40
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the stable node-local port identity.

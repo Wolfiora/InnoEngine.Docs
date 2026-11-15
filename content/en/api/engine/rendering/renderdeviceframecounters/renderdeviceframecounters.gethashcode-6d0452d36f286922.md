@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6d0452d36f286922b334868843c30c21ea8b318dcb53384b012be8db49a7ceca
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceFrameCounters.GetHashCode"
-source: xml
-reviewed: 08be82413ade8c2db7badc8e1a19eeba85363882646185329e49f454c9711334
-title: "RenderDeviceFrameCounters.GetHashCode"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceFrameCounters.GetHashCode
+title: RenderDeviceFrameCounters.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 08be82413ade8c2db7badc8e1a19eeba85363882646185329e49f454c9711334
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

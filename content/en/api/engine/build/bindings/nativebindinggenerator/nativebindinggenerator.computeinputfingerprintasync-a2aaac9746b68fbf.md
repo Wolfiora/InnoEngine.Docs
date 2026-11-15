@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a2aaac9746b68fbf669bdac0fce0d64574337d235666e8af8099a60ce40f92f0
-symbol: "engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingGenerator.ComputeInputFingerprintAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)"
-source: xml
-reviewed: bf3447b8301550739e6e4a271ee116488165e780076e1a6e30de4ccd72000c3a
-title: "NativeBindingGenerator.ComputeInputFingerprintAsync"
+symbol: engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingGenerator.ComputeInputFingerprintAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)
+title: NativeBindingGenerator.ComputeInputFingerprintAsync
 kind: api
-owners: [Inno.Build.Bindings]
+owners:
+- Inno.Build.Bindings
 apiSurface: source-clr
+reviewed: bf3447b8301550739e6e4a271ee116488165e780076e1a6e30de4ccd72000c3a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Computes the selected generator source input identity without producing bindings or compiling a product.

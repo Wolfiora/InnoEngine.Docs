@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e8f36f2bf5d5e6ff85f562902ab5454139dd9ca5e217513540e5962c100d2183
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorHistory.BeginTransaction(System.String)"
-source: xml
-reviewed: c0099de79f2865b085f025ef7bf2e95addd191077114a449de0371c1b5e2c79a
-title: "IEditorHistory.BeginTransaction"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorHistory.BeginTransaction(System.String)
+title: IEditorHistory.BeginTransaction
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: c0099de79f2865b085f025ef7bf2e95addd191077114a449de0371c1b5e2c79a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Begins an atomic group of neutral history operations.

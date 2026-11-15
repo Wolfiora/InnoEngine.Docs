@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c6247e8625ae665ec6783062dd5566475a5a8869dbc4596e9e14a227b0335c8f
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.ValuesEqual(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.ISerializable)"
-source: xml
-reviewed: 3bf736ffc76761c86a285a924990b3b3a7df2e5b410b31e47c5e12c15f57ddad
-title: "ProjectSettingEditor.ValuesEqual"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.ValuesEqual(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.ISerializable)
+title: ProjectSettingEditor.ValuesEqual
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 3bf736ffc76761c86a285a924990b3b3a7df2e5b410b31e47c5e12c15f57ddad
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compares two exact-type values through their native serialized property data.

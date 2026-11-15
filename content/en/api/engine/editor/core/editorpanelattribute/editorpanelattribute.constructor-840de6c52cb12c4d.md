@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.840de6c52cb12c4d1f3e1627957e42c47b5eab56dea298f34d0286db9ecb6a69
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorPanelAttribute.#ctor(System.String,System.String,System.Int32,System.Boolean,System.String,System.Boolean)"
-source: xml
-reviewed: 39537ec3e9aae08ba7753209649f7c04bbca84feaa745e5dabb5fb049e6bce95
-title: "EditorPanelAttribute.Constructor"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorPanelAttribute.#ctor(System.String,System.String,System.Int32,System.Boolean,System.String,System.Boolean)
+title: EditorPanelAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 39537ec3e9aae08ba7753209649f7c04bbca84feaa745e5dabb5fb049e6bce95
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a dockable panel registration with stable identity and presentation metadata.

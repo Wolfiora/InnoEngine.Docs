@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.93fda15f941dd82af712f2bac49c2b684050282564a37228e361fe5ce11ee027
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationWriter.WriteObjectArray\u0060\u00601(System.String,System.Collections.Generic.IEnumerable{\u0060\u00600},System.Action{InnoEngine.Serialization.SerializationWriter,\u0060\u00600},System.Func{\u0060\u00600,InnoEngine.Serialization.SerializationCaptureKeyBuilder,System.Boolean})"
-source: xml
-reviewed: 78331da99d4fb09a018bf9ff3c3dd1f103fd4e3f52b4d9ab50284d05d4227bbb
-title: "SerializationWriter.WriteObjectArray"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationWriter.WriteObjectArray``1(System.String,System.Collections.Generic.IEnumerable{``0},System.Action{InnoEngine.Serialization.SerializationWriter,``0},System.Func{``0,InnoEngine.Serialization.SerializationCaptureKeyBuilder,System.Boolean})
+title: SerializationWriter.WriteObjectArray
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: 78331da99d4fb09a018bf9ff3c3dd1f103fd4e3f52b4d9ab50284d05d4227bbb
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes an ordered array of structured objects.

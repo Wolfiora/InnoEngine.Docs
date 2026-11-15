@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d190f88a8f85a74fdd9e83ef2b70c8b9bde9a675d19eaf96eb2c9932de0a3391
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.SaveImportSettings(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)"
-source: xml
-reviewed: b92a7d8bdb211e2c8a7d79f45df6784200bd52c33a81817435f1f19d19c230ca
-title: "AssetLoader.SaveImportSettings"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.SaveImportSettings(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)
+title: AssetLoader.SaveImportSettings
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: b92a7d8bdb211e2c8a7d79f45df6784200bd52c33a81817435f1f19d19c230ca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically saves importer settings and reimports the source. Failed imports retain both the saved settings and the previous successful artifact; callers must inspect the returned import status separately from saving.

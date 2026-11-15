@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6106842368491f95aef531a5872c534fa64d1ec2b06a8a276b95e6efe0965832
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.ShowDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle)"
-source: xml
-reviewed: 67c88a288a76c36a46da43a7fa3429eb7e279b417212247cbb69090dadab1455
-title: "UI.ShowDocument"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.ShowDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle)
+title: UI.ShowDocument
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 67c88a288a76c36a46da43a7fa3429eb7e279b417212247cbb69090dadab1455
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Shows one document.

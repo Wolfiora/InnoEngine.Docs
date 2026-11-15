@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.references.327be83e57ee1253
-symbol: "engine:Inno.References:T:Inno.References.ContentReadScope"
-source: xml
-reviewed: 0b857e0d2645fdded3d9a7865a3ee1b8fb6f9a92e1b466b8a30373ff440635ec
-title: "ContentReadScope"
+symbol: engine:Inno.References:T:Inno.References.ContentReadScope
+title: ContentReadScope
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: 0b857e0d2645fdded3d9a7865a3ee1b8fb6f9a92e1b466b8a30373ff440635ec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-references
 aliases: []

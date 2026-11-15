@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a3a2b170b08b894af4f765764e2cb858c33621d44650f195436bb8e387aab176
-symbol: "engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendProvider.CreateDevice(Inno.Adapter.Audio.AudioBackendOptions)"
-source: xml
-reviewed: 3e414abb3bd767a71b394b6ab435e458d8c295d7d51de2d1fbb1877be3724714
-title: "AudioBackendProvider.CreateDevice"
+symbol: engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendProvider.CreateDevice(Inno.Adapter.Audio.AudioBackendOptions)
+title: AudioBackendProvider.CreateDevice
 kind: api
-owners: [Inno.Adapter.Audio]
+owners:
+- Inno.Adapter.Audio
 apiSurface: source-clr
+reviewed: 3e414abb3bd767a71b394b6ab435e458d8c295d7d51de2d1fbb1877be3724714
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a caller-owned audio service using this implementation.

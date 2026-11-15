@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2239008d5b8db1500af60bfc06395188a5d46715ae9967d93fdfa09795ea9c44
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.EngineObject.Equals(System.Object)"
-source: xml
-reviewed: 720e99f6680e0d6b3404ba1d45692e31aefcaae99ae31fc8521e560dad1f0469
-title: "EngineObject.Equals"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.EngineObject.Equals(System.Object)
+title: EngineObject.Equals
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 720e99f6680e0d6b3404ba1d45692e31aefcaae99ae31fc8521e560dad1f0469
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compares this instance to another object using reference identity.

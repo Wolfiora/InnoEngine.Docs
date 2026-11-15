@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cd39920acba0363983a7d4771648e233b7e17d666bb0f652508f43bac5b8c1e0
-symbol: "engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorToolbarIcon.Stop"
-source: xml
-reviewed: c6d3464acc1a549d5deffa22db792f28912411feb90ec7b8d7797567227e68df
-title: "EditorToolbarIcon.Stop"
+symbol: engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorToolbarIcon.Stop
+title: EditorToolbarIcon.Stop
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: c6d3464acc1a549d5deffa22db792f28912411feb90ec7b8d7797567227e68df
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops an operation or simulation.

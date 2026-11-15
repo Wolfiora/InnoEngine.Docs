@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.38ccf8320c9ba429fab9004fbd267d76e03cdd3dee320de88078bb06feaaa2a2
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildCompositionContext.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.BuildTargetId)"
-source: xml
-reviewed: d68206435a634952c72e1762e695879a5321ac905978a52b4bd98896ce1597ac
-title: "BuildCompositionContext.Constructor"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildCompositionContext.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.BuildTargetId)
+title: BuildCompositionContext.Constructor
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: d68206435a634952c72e1762e695879a5321ac905978a52b4bd98896ce1597ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the host dependencies used by deployment and Support Pack preparation.

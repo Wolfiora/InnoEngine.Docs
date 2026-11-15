@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef6b885a6b780721febde310815e385d0f2991bcf440ed958e4ed70df5550a4c
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.Write\u0060\u00601(System.String,\u0060\u00600)"
-source: xml
-reviewed: 29061e29f7d3a867e8c7efa12057746b9195f06849754cf417e0e5b39b249ab3
-title: "SerializationWriter.Write"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.Write``1(System.String,``0)
+title: SerializationWriter.Write
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 29061e29f7d3a867e8c7efa12057746b9195f06849754cf417e0e5b39b249ab3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a named value through the unified value pipeline.

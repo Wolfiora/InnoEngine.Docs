@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fa024f67d97faf1c4b451bafe96107667258023ecb23d6c5f1ab386e390911bc
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifacts(System.String)"
-source: xml
-reviewed: 53a36d81ce8a05707ef83312ee602a0c78b0c7f6eb88a145be3ba4668637774f
-title: "AssetPipeline.ExportRuntimeArtifacts"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifacts(System.String)
+title: AssetPipeline.ExportRuntimeArtifacts
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 53a36d81ce8a05707ef83312ee602a0c78b0c7f6eb88a145be3ba4668637774f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Exports the current source-free runtime catalog and its exact artifact closure.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7234bea68acafd111f6cd75651a92d7db9fb4dd01071e99c7174db9548537da2
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Build(System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue})"
-source: xml
-reviewed: 7a1686ad5cf4d73a8d8243933a65f1a314459943d9205574baa91094ee04bafc
-title: "ShaderIrBuilder.Build"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Build(System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue})
+title: ShaderIrBuilder.Build
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 7a1686ad5cf4d73a8d8243933a65f1a314459943d9205574baa91094ee04bafc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freezes the current region without pruning unused calls or retaining this mutable builder.

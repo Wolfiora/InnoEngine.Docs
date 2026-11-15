@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.pipeline.editor-script.fd2c877062cd8860
-symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetExportContext"
-source: xml
-reviewed: a4448b5b92c5014fab0da369faccdfdd6563590917d97ad41f7eed98ace267db
-title: "AssetExportContext"
+symbol: scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetExportContext
+title: AssetExportContext
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: a4448b5b92c5014fab0da369faccdfdd6563590917d97ad41f7eed98ace267db
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-assets-pipeline

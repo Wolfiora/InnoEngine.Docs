@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.rendering.editor-script.7bc0cfe58e60728f
-symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.PipelineDocuments"
-source: xml
-reviewed: 212e9990f839cebb72356f97073a927a840df6429bdff74f0e0a4773e05bd8b9
-title: "PipelineDocuments"
+symbol: scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.PipelineDocuments
+title: PipelineDocuments
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 212e9990f839cebb72356f97073a927a840df6429bdff74f0e0a4773e05bd8b9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-rendering

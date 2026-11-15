@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c9a279a0cd849ff8eba32aceb0f2168cd68be86fafce383a603b674f79cf1e0c
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TryResolveIdentity(Inno.Core.Identity.RuntimeIdentity,Inno.Core.Identity.IdentityObject@)"
-source: xml
-reviewed: 9f2d99c4102b72248445fe3defaabab9af54ad2d3b4505af3e63c5330d8e73d4
-title: "EditorInteractions.TryResolveIdentity"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TryResolveIdentity(Inno.Core.Identity.RuntimeIdentity,Inno.Core.Identity.IdentityObject@)
+title: EditorInteractions.TryResolveIdentity
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 9f2d99c4102b72248445fe3defaabab9af54ad2d3b4505af3e63c5330d8e73d4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a domain-qualified runtime identity through the Editor's complete identity-domain set.

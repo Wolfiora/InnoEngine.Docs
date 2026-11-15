@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b46be0906afd2a49da9b2dfb97ac0b00a1ee64ce99b7d5b8a48c50cccf206160
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactWriteLease.AcquireAsync(System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 69429ac15efece7992b0bbc240ca7bb23b72ee1dc1118671f73c2857bc9c8471
-title: "BuildArtifactWriteLease.AcquireAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactWriteLease.AcquireAsync(System.String,System.String,System.Threading.CancellationToken)
+title: BuildArtifactWriteLease.AcquireAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 69429ac15efece7992b0bbc240ca7bb23b72ee1dc1118671f73c2857bc9c8471
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Waits for all readers before allowing mutation of one immutable artifact directory.

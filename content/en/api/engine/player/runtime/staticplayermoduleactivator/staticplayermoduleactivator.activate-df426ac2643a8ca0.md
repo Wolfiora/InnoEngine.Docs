@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.df426ac2643a8ca0924bf9bd4af59895fcf686b1b79648b63cef009041f55751
-symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.StaticPlayerModuleActivator.Activate(Inno.Extensibility.Modules.ModuleHost,Inno.Runtime.GameCodeDeployment)"
-source: xml
-reviewed: c855eb88c0c6a513f2a0443057cd89588dd5099e0d937644cb6a63bb7c9a1ace
-title: "StaticPlayerModuleActivator.Activate"
+symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.StaticPlayerModuleActivator.Activate(Inno.Extensibility.Modules.ModuleHost,Inno.Runtime.GameCodeDeployment)
+title: StaticPlayerModuleActivator.Activate
 kind: api
-owners: [Inno.Player.Runtime]
+owners:
+- Inno.Player.Runtime
 apiSurface: source-clr
+reviewed: c855eb88c0c6a513f2a0443057cd89588dd5099e0d937644cb6a63bb7c9a1ace
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Verifies the code closure and publishes its module contributions atomically.

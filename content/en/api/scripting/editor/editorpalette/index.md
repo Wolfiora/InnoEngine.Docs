@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.editor-script.e2d7e0515aa16b0b
-symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorPalette"
-source: xml
-reviewed: 49911ea4dab87efa48cc366a3b6ee36ec18c163da59caaeef4fbd912c9fea971
-title: "EditorPalette"
+symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorPalette
+title: EditorPalette
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 49911ea4dab87efa48cc366a3b6ee36ec18c163da59caaeef4fbd912c9fea971
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.inno.editor.imgui.editor-script.e2d7e0515aa16b0b#declaration
 - manual.scripting.use-script-api

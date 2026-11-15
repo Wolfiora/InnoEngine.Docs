@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ba9a2ce16a17307cbc5b96beb9bd3d04d47578e176fec13228de62cf73366abf
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameData.Set\u0060\u00601(InnoEngine.Rendering.RenderDataChannelId,\u0060\u00600)"
-source: xml
-reviewed: 6e89a935498d7a5082f56a832257f49c5ddf0c15f334f60818ca8c2be2489c53
-title: "RenderFrameData.Set"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameData.Set``1(InnoEngine.Rendering.RenderDataChannelId,``0)
+title: RenderFrameData.Set
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 6e89a935498d7a5082f56a832257f49c5ddf0c15f334f60818ca8c2be2489c53
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds or replaces one typed value in an open data channel.

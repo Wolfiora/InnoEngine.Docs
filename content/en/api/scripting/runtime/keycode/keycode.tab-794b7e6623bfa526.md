@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.794b7e6623bfa526e8c87536d15f2d4e9e3bc3e72c871764b9f3bdcd9c39f66c
-symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.Tab"
-source: xml
-reviewed: 4ee644be9a3d14323db41375fc85be8140941933a9922039663d2c19b15521ab
-title: "KeyCode.Tab"
+symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.Tab
+title: KeyCode.Tab
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: editor-script
+reviewed: 4ee644be9a3d14323db41375fc85be8140941933a9922039663d2c19b15521ab
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The tab key.

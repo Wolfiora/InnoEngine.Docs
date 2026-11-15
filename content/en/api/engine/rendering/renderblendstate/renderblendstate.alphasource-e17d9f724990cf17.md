@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e17d9f724990cf17b5417ccc6b0465a4f0b5697bb56fde64528874888e2611da
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderBlendState.alphaSource"
-source: xml
-reviewed: 9af8cc2bfa11942c4d851ed2830d1f4e92bcf556beb8d1e250898d150fa4b61c
-title: "RenderBlendState.alphaSource"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderBlendState.alphaSource
+title: RenderBlendState.alphaSource
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 9af8cc2bfa11942c4d851ed2830d1f4e92bcf556beb8d1e250898d150fa4b61c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the source multiplier for alpha.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d95ea23f341230d3a6c00f87a998f13b9c2f95a3381103f616101775957f3ed
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleImportTransaction.Commit(System.Action{Inno.Assets.AssetPath})"
-source: xml
-reviewed: 843df79633c59ff91aa949f9356b7ec0950956d54f9ce209c7a0acf6e56ae687
-title: "AssetSampleImportTransaction.Commit"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleImportTransaction.Commit(System.Action{Inno.Assets.AssetPath})
+title: AssetSampleImportTransaction.Commit
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 843df79633c59ff91aa949f9356b7ec0950956d54f9ce209c7a0acf6e56ae687
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes a successfully validated import exactly once, without waiting for unfinished work.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5e1929e77c53f47424a2ac2c1481c4ac52c4bd661cd8ddb6d838aa70c9201512
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PushId(System.Int32)"
-source: xml
-reviewed: 4a0d01618f554c0164b4e8d7d1c46f5fc17008c6386973082827b5d50d039a4f
-title: "ImGui.PushId"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PushId(System.Int32)
+title: ImGui.PushId
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 4a0d01618f554c0164b4e8d7d1c46f5fc17008c6386973082827b5d50d039a4f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pushes an integer identity onto the ImGui ID stack.

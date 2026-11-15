@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c421da19f8630587fd369f2666a6448b780cddf5ed3b6d63ec00fb922134b432
-symbol: "engine:Inno.Core.IO:P:Inno.Core.IO.OwnedReadStream.Length"
-source: xml
-reviewed: 179d1ec26ff89adcb0a3ea644844e88cae993e8a04af4b3898850bfdf2a5fc6b
-title: "OwnedReadStream.Length"
+symbol: engine:Inno.Core.IO:P:Inno.Core.IO.OwnedReadStream.Length
+title: OwnedReadStream.Length
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 179d1ec26ff89adcb0a3ea644844e88cae993e8a04af4b3898850bfdf2a5fc6b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 When overridden in a derived class, gets the length in bytes of the stream.

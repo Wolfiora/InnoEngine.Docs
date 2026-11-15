@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3c76ac7c1f311f8a0bfed24bb5093fb1dda9c2b144a3d36420db6210679425a1
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiClipRectangle.Equals(InnoEngine.UI.UiClipRectangle)"
-source: xml
-reviewed: 9c6eaa13f3c77219839077e2366bc24a54dfe4b5cc5b446b86b9e6fb3743f6f3
-title: "UiClipRectangle.Equals"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiClipRectangle.Equals(InnoEngine.UI.UiClipRectangle)
+title: UiClipRectangle.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 9c6eaa13f3c77219839077e2366bc24a54dfe4b5cc5b446b86b9e6fb3743f6f3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

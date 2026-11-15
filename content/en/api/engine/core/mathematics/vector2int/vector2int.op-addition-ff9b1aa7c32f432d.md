@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ff9b1aa7c32f432d8da440cca8ea2bd5357aa129b47ec685fafa740f9106a502
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2Int.op_Addition(Inno.Core.Mathematics.Vector2Int,Inno.Core.Mathematics.Vector2Int)"
-source: xml
-reviewed: 7ab5faa9644b493917f0e270acf1947bd41168facefc452d98c2aadd22b49201
-title: "Vector2Int.op_Addition"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2Int.op_Addition(Inno.Core.Mathematics.Vector2Int,Inno.Core.Mathematics.Vector2Int)
+title: Vector2Int.op_Addition
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 7ab5faa9644b493917f0e270acf1947bd41168facefc452d98c2aadd22b49201
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds the supplied values component by component.

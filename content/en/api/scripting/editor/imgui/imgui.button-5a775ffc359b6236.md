@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5a775ffc359b6236ae9aabc9a46dfb4a37b46677df83ff998f41b61b13a3c5b9
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Button(System.String,System.Numerics.Vector2)"
-source: xml
-reviewed: f4ab854de0c7ece26a558d6f212d5d2c15eac4df3fec43a51a47e91cbfa16ca3
-title: "ImGui.Button"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Button(System.String,System.Numerics.Vector2)
+title: ImGui.Button
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: f4ab854de0c7ece26a558d6f212d5d2c15eac4df3fec43a51a47e91cbfa16ca3
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a standard button.

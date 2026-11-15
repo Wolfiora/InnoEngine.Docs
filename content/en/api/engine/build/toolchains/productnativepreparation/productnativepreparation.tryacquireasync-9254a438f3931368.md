@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9254a438f3931368b11a96248be6945758b96a33ec70b42778aa4f702a796477
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.TryAcquireAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,System.String[][],System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: af8f640d5a427d536c26e5d1eb7bbd90f163d392e2692c5d50fbfa81beeefbea
-title: "ProductNativePreparation.TryAcquireAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.TryAcquireAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,System.String[][],System.String,System.Threading.CancellationToken)
+title: ProductNativePreparation.TryAcquireAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: af8f640d5a427d536c26e5d1eb7bbd90f163d392e2692c5d50fbfa81beeefbea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires a new consumer's complete reading protection and verifies mutable inputs after acquisition.

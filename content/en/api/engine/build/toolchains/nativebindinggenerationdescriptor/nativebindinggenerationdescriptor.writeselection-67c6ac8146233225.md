@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.67c6ac8146233225f98bdbe9065afb578c96dd161bb72531cea800e6ea781aec
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.WriteSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})"
-source: xml
-reviewed: f5c50fc6eba1761a29cc6919db744f152c71be1a7fc08a3474117b7d59a8222f
-title: "NativeBindingGenerationDescriptor.WriteSelection"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.WriteSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})
+title: NativeBindingGenerationDescriptor.WriteSelection
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: f5c50fc6eba1761a29cc6919db744f152c71be1a7fc08a3474117b7d59a8222f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes the exact native binding identities for a subsequent managed build without reselecting generations. Identical content preserves the existing import timestamp; changed content is installed atomically.

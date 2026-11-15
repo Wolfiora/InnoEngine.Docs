@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.bcd0488cf71ef0c8
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingGenerationRequest"
-source: xml
-reviewed: 778b6d565569d505f0f92a3dafd4ebf258d37f7465ebb1b752712a4f0e1aecb9
-title: "NativeBindingGenerationRequest"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingGenerationRequest
+title: NativeBindingGenerationRequest
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 778b6d565569d505f0f92a3dafd4ebf258d37f7465ebb1b752712a4f0e1aecb9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

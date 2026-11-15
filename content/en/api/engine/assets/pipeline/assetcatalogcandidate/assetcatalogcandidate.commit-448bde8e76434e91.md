@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.448bde8e76434e91148a396abe4e4a95c3d72d8ff9da419a1d1403ff45788c49
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetCatalogCandidate.Commit"
-source: xml
-reviewed: fd2fe74ef887cefd4cd0735916d0fc133d094c72b3866db4c930c49efd770313
-title: "AssetCatalogCandidate.Commit"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetCatalogCandidate.Commit
+title: AssetCatalogCandidate.Commit
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: fd2fe74ef887cefd4cd0735916d0fc133d094c72b3866db4c930c49efd770313
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes staged source metadata and atomically promotes the validated catalog, compensating metadata on failure.

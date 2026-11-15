@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3893a1b1148aeed1d6dca29914c319e63146d535aa428531380c7c24b3f1110e
-symbol: "engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobScheduler.#ctor(Inno.Core.Jobs.JobExecutionMode,Inno.Core.Jobs.JobSchedulerOptions)"
-source: xml
-reviewed: 259c9702e627abdbb29827e288d539d770e0e26e1f7ff01971bdb3ae2b9e042c
-title: "JobScheduler.Constructor"
+symbol: engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobScheduler.#ctor(Inno.Core.Jobs.JobExecutionMode,Inno.Core.Jobs.JobSchedulerOptions)
+title: JobScheduler.Constructor
 kind: api
-owners: [Inno.Core.Jobs]
+owners:
+- Inno.Core.Jobs
 apiSurface: source-clr
+reviewed: 259c9702e627abdbb29827e288d539d770e0e26e1f7ff01971bdb3ae2b9e042c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a scheduler using the requested execution strategy.

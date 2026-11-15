@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b71fe5da5f7d362fc405a6d18fd67907a0916a9e724b088775099944a095522
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.FromMinMax(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)"
-source: xml
-reviewed: d6c76e1394c30605d323b6478fd1012bee82c61894f5bfc1e7323e2ed2ec2763
-title: "Rect.FromMinMax"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.FromMinMax(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)
+title: Rect.FromMinMax
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: d6c76e1394c30605d323b6478fd1012bee82c61894f5bfc1e7323e2ed2ec2763
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a rectangle from minimum and maximum boundaries; point containment excludes the maximum boundary.

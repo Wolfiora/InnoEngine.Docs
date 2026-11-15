@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c4d4038e0a0a361cadc392d8fac7babe2a6e6faa0022765a255104fd63deee06
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_Multiply(System.Single,InnoEngine.Mathematics.Vector3)"
-source: xml
-reviewed: ceebbc36e9bd178efa31cacf64e101d93abc2eab7f162e9bccba157dc77471a5
-title: "Vector3.op_Multiply"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_Multiply(System.Single,InnoEngine.Mathematics.Vector3)
+title: Vector3.op_Multiply
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: ceebbc36e9bd178efa31cacf64e101d93abc2eab7f162e9bccba157dc77471a5
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Multiplies the supplied values according to their algebraic contract.

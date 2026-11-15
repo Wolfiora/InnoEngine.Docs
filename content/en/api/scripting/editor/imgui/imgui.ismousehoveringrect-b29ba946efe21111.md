@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b29ba946efe21111cf673aeaff3a52aa84f94b5c93f081b499ae6a60de219401
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseHoveringRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)"
-source: xml
-reviewed: 16a8833f34571f6cc7a7a5d5ef8303bc319bd91c14ab26e880863c32bb2cdb63
-title: "ImGui.IsMouseHoveringRect"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseHoveringRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)
+title: ImGui.IsMouseHoveringRect
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 16a8833f34571f6cc7a7a5d5ef8303bc319bd91c14ab26e880863c32bb2cdb63
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks pointer containment in a screen rectangle with optional window clipping.

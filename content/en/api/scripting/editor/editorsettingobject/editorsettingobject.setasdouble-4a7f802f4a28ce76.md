@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4a7f802f4a28ce76663a064b3b304639c405142707b6d9b346cf021811c8639f
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsDouble(System.String,System.Double)"
-source: xml
-reviewed: 089475c544c40d13f99048611d2099dd993112f297581213557f9309070a0f3e
-title: "EditorSettingObject.SetAsDouble"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsDouble(System.String,System.Double)
+title: EditorSettingObject.SetAsDouble
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 089475c544c40d13f99048611d2099dd993112f297581213557f9309070a0f3e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets a finite double-precision property.

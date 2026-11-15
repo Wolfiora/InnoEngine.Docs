@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7d097c70276f45f4bfa8c894a7e6ecfee41b5858f58be4ad2d42e2d0294aa71c
-symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentSourceFile.#ctor(System.String,System.String,System.Func{Inno.Assets.AssetPath,System.String})"
-source: xml
-reviewed: 6eec29b7d92ba2714ee804a97b999acd2ac0f70060aff67efa08edf7a276f9ee
-title: "UiDocumentSourceFile.Constructor"
+symbol: engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentSourceFile.#ctor(System.String,System.String,System.Func{Inno.Assets.AssetPath,System.String})
+title: UiDocumentSourceFile.Constructor
 kind: api
-owners: [Inno.UI.Assets]
+owners:
+- Inno.UI.Assets
 apiSurface: source-clr
+reviewed: 6eec29b7d92ba2714ee804a97b999acd2ac0f70060aff67efa08edf7a276f9ee
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Contains immutable source text supplied to a UI language frontend.

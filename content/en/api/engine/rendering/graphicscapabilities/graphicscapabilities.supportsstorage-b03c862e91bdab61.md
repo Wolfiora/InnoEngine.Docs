@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b03c862e91bdab61a2cceb6cefdf14cecfd23c878e706cee45d69d1f85f2734d
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsStorage(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess)"
-source: xml
-reviewed: c7c39372253aba4ce19076c0304c3432949f70b040d21227759f3a639f81d9c5
-title: "GraphicsCapabilities.SupportsStorage"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsStorage(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess)
+title: GraphicsCapabilities.SupportsStorage
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: c7c39372253aba4ce19076c0304c3432949f70b040d21227759f3a639f81d9c5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether a format supports the requested unordered shader access.

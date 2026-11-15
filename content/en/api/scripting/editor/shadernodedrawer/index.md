@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.shaders.imgui.editor-script.1fac30e85e69158d
-symbol: "scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderNodeDrawer"
-source: xml
-reviewed: cfcc58e462ba0c118f5079ed729535057e20389c25317a63de4015e10fb24f13
-title: "ShaderNodeDrawer"
+symbol: scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderNodeDrawer
+title: ShaderNodeDrawer
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
+reviewed: cfcc58e462ba0c118f5079ed729535057e20389c25317a63de4015e10fb24f13
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-shaders-imgui

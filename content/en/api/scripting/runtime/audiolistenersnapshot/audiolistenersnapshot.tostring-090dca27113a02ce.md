@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.090dca27113a02ce65fe04daebfa1999a7a6a2736ec75cc3f96de4e3c1217f6b
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerSnapshot.ToString"
-source: xml
-reviewed: d02613f564d49fd348780543c9298963f22dea816884d82f350cee27d5c0b1fc
-title: "AudioListenerSnapshot.ToString"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerSnapshot.ToString
+title: AudioListenerSnapshot.ToString
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: d02613f564d49fd348780543c9298963f22dea816884d82f350cee27d5c0b1fc
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

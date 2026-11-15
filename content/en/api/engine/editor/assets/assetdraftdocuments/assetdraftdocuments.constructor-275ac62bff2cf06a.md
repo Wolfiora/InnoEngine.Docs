@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.275ac62bff2cf06a4573f9833eacb46498e1def6db0ee57aeff612f85d010ad7
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments\u00601.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Editor.Interactions.EditorInteractions,System.String,System.String,System.String,System.String)"
-source: xml
-reviewed: 9eeb8fb5da7da4a5636ddf38bf2287d21640a8dacc5c79b087dd5768d71571f3
-title: "AssetDraftDocuments\u003CTAsset\u003E.Constructor"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments`1.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Editor.Interactions.EditorInteractions,System.String,System.String,System.String,System.String)
+title: AssetDraftDocuments<TAsset>.Constructor
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: 9eeb8fb5da7da4a5636ddf38bf2287d21640a8dacc5c79b087dd5768d71571f3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a feature-owned draft store; call Start after document services become available.

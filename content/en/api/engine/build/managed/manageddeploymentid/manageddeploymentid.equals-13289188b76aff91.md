@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.13289188b76aff9137cbd01e35958df2915ba51cc25a45a0051ca54b12f2e94d
-symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentId.Equals(System.Object)"
-source: xml
-reviewed: f00bee4e1421901f16a98db8cb108ee62950221aa180a09a46720a5ec68e74b0
-title: "ManagedDeploymentId.Equals"
+symbol: engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentId.Equals(System.Object)
+title: ManagedDeploymentId.Equals
 kind: api
-owners: [Inno.Build.Managed]
+owners:
+- Inno.Build.Managed
 apiSurface: source-clr
+reviewed: f00bee4e1421901f16a98db8cb108ee62950221aa180a09a46720a5ec68e74b0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

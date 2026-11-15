@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6f4bdba82258acbe37a11c7944af631864ff95571e483f08ab8274295a605b5b
-symbol: "scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportManipulationPlane.Spatial"
-source: xml
-reviewed: 64181af846601d3aaccf09a11a44fff6f53beb2d7f524fd8635d42afcb341bef
-title: "EditorViewportManipulationPlane.Spatial"
+symbol: scripting:Inno.Editor.Rendering:F:InnoEditor.Rendering.EditorViewportManipulationPlane.Spatial
+title: EditorViewportManipulationPlane.Spatial
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 64181af846601d3aaccf09a11a44fff6f53beb2d7f524fd8635d42afcb341bef
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Keeps the full three-dimensional translation, rotation, and scale controls.

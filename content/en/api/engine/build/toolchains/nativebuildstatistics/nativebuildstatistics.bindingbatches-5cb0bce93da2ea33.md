@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5cb0bce93da2ea3366a9c797eb39f4919d32a51160cc0f11b245c2ebfd1a5518
-symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBuildStatistics.bindingBatches"
-source: xml
-reviewed: 7f8ef223aab1d7da9c8441289341486ba88121b8b5dcf4f9028d946d41ac6280
-title: "NativeBuildStatistics.bindingBatches"
+symbol: engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBuildStatistics.bindingBatches
+title: NativeBuildStatistics.bindingBatches
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 7f8ef223aab1d7da9c8441289341486ba88121b8b5dcf4f9028d946d41ac6280
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets complete binding batches requested by this operation.

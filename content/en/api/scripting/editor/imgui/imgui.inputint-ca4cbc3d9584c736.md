@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ca4cbc3d9584c736c6f574842fa9c038a108a9326d15e6089861e5c230a7e5a6
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputInt(System.String,System.Int32@,System.Int32,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)"
-source: xml
-reviewed: a4bdbb3e21300fa747b02b21f03bb0c3982e324463efbf8257c46d9e0dbea0fd
-title: "ImGui.InputInt"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputInt(System.String,System.Int32@,System.Int32,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)
+title: ImGui.InputInt
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: a4bdbb3e21300fa747b02b21f03bb0c3982e324463efbf8257c46d9e0dbea0fd
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws and edits an integer value.

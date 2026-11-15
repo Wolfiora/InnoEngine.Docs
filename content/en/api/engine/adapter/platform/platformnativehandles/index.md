@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.adapter.platform.519d2d49ec00f982
-symbol: "engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandles"
-source: xml
-reviewed: 4d76d2ab81a23ec107ad5e00162d3a8f235fff7a618f705e3237b19bf7ebf7b5
-title: "PlatformNativeHandles"
+symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandles
+title: PlatformNativeHandles
 kind: api
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
 apiSurface: source-clr
+reviewed: 4d76d2ab81a23ec107ad5e00162d3a8f235fff7a618f705e3237b19bf7ebf7b5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-adapter-platform
 aliases: []

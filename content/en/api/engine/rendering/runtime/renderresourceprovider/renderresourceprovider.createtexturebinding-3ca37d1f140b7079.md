@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ca37d1f140b707966a5a976b3622df5dbae7c51437cc7d02a2b4bd912c03015
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateTextureBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.PersistentTextureHandle,Inno.Rendering.RenderSamplerState)"
-source: xml
-reviewed: e053c07bc817c2f307da4c9533066fa5f207218f20383e0740f8805bf69adad8
-title: "RenderResourceProvider.CreateTextureBinding"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateTextureBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.PersistentTextureHandle,Inno.Rendering.RenderSamplerState)
+title: RenderResourceProvider.CreateTextureBinding
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: e053c07bc817c2f307da4c9533066fa5f207218f20383e0740f8805bf69adad8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a protected sampled-texture binding value.

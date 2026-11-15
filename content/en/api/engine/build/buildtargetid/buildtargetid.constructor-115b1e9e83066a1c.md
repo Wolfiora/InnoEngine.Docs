@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.115b1e9e83066a1c982f6bb1b40ed05d0e472d51ee2a7ddc8727c8ed5e21d404
-symbol: "engine:Inno.Build:M:Inno.Build.BuildTargetId.#ctor(System.String)"
-source: xml
-reviewed: 47e4d677b8a0cdecc15a3fff387c76bb330835430c90f9a28ed2a1e24971b0b4
-title: "BuildTargetId.Constructor"
+symbol: engine:Inno.Build:M:Inno.Build.BuildTargetId.#ctor(System.String)
+title: BuildTargetId.Constructor
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 47e4d677b8a0cdecc15a3fff387c76bb330835430c90f9a28ed2a1e24971b0b4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a stable target identity.

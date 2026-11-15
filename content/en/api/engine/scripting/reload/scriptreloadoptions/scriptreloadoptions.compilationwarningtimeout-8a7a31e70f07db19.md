@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a7a31e70f07db19732260bdfaddd302b7a93cf19ee344a5789d2985682537e5
-symbol: "engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadOptions.compilationWarningTimeout"
-source: xml
-reviewed: 325c40c36fd66998b77ce737709ceacaa9761887fe888187ff33d843013aa6da
-title: "ScriptReloadOptions.compilationWarningTimeout"
+symbol: engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadOptions.compilationWarningTimeout
+title: ScriptReloadOptions.compilationWarningTimeout
 kind: api
-owners: [Inno.Scripting.Reload]
+owners:
+- Inno.Scripting.Reload
 apiSurface: source-clr
+reviewed: 325c40c36fd66998b77ce737709ceacaa9761887fe888187ff33d843013aa6da
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the elapsed duration after which an active compilation is reported as long-running.

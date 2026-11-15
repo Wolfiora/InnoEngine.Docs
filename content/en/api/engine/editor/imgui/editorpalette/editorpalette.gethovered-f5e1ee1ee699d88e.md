@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f5e1ee1ee699d88ecc9f66a8cd9d469939b3114655ac357484052cc0695e577e
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorPalette.GetHovered(System.Numerics.Vector4)"
-source: xml
-reviewed: 96096db0e59cb73858d0899bbc73ced043837bc8793418c8d714ff14fbfe671b
-title: "EditorPalette.GetHovered"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorPalette.GetHovered(System.Numerics.Vector4)
+title: EditorPalette.GetHovered
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 96096db0e59cb73858d0899bbc73ced043837bc8793418c8d714ff14fbfe671b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a hover treatment derived from a base theme color.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ea8fd010d412ea36794988133f9bd18e11ccc6fbde1c99c05f3e082d034ce907
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryPayload.FromBytes(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 626802e1a4603a9ae227d49950d15bd59cb1e5440a62c46d675fcf7e84222f98
-title: "EditorHistoryPayload.FromBytes"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryPayload.FromBytes(System.ReadOnlySpan{System.Byte})
+title: EditorHistoryPayload.FromBytes
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 626802e1a4603a9ae227d49950d15bd59cb1e5440a62c46d675fcf7e84222f98
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable history payload by copying the supplied bytes.

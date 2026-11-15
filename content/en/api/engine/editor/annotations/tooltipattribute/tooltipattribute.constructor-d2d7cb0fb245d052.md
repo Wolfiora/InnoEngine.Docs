@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d2d7cb0fb245d052a6159ec3c202d3afccd0516f22ea1ff7f5ee7bae9cbacaf4
-symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.TooltipAttribute.#ctor(System.String)"
-source: xml
-reviewed: 69ad48f34ded14cac18925c985b2761bd4917b9a036746dd532c8decc5047eeb
-title: "TooltipAttribute.Constructor"
+symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.TooltipAttribute.#ctor(System.String)
+title: TooltipAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: 69ad48f34ded14cac18925c985b2761bd4917b9a036746dd532c8decc5047eeb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates property hover help.

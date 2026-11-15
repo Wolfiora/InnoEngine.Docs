@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.94f5478399dd19a5ecebc61a461a146600d8555b1f74d92f37be07b1d4ac5518
-symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorActionContext.area"
-source: xml
-reviewed: 3a8d2d15d39d4458c7944662d744a75ed66581c21aa22b5d58f4eadc1362df2f
-title: "EditorActionContext.area"
+symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorActionContext.area
+title: EditorActionContext.area
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 3a8d2d15d39d4458c7944662d744a75ed66581c21aa22b5d58f4eadc1362df2f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable interaction area.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.707846539186a1fe95f8f50709f4f26739a72215fc1ee50e6b08aa3c72850629
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Route(Inno.Core.Events.Event)"
-source: xml
-reviewed: dad1f85080c58b2d5e590286575cdcd8e16fd26553275d899c30bcfc39227e99
-title: "EditorGameInputCapture.Route"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Route(Inno.Core.Events.Event)
+title: EditorGameInputCapture.Route
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: dad1f85080c58b2d5e590286575cdcd8e16fd26553275d899c30bcfc39227e99
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Filters an engine event through the current Game View focus and pointer bounds.

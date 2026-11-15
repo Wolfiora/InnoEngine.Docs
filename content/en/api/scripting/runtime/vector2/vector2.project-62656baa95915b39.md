@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.62656baa95915b39159224ae96b9e87316da2538df81d77d8b4cc75192f52498
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Project(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2)"
-source: xml
-reviewed: 87f60807442c246f022eb82e0338bd5c1e401e728f75b36aeff2f9dc75f23ad8
-title: "Vector2.Project"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Project(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2)
+title: Vector2.Project
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 87f60807442c246f022eb82e0338bd5c1e401e728f75b36aeff2f9dc75f23ad8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Projects the supplied value onto the requested dimensional space.

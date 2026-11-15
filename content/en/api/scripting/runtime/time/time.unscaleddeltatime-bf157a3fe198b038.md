@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bf157a3fe198b038ec0c468d35dc9416bbf8f95072a6c38cb18464c7ec22f1bf
-symbol: "scripting:Inno.Runtime:P:InnoEngine.Core.Time.unscaledDeltaTime"
-source: xml
-reviewed: 5a5f1b630a9c62650ca5b821c91572b05d04b4d2ea335a62e16e9c4799c097c6
-title: "Time.unscaledDeltaTime"
+symbol: scripting:Inno.Runtime:P:InnoEngine.Core.Time.unscaledDeltaTime
+title: Time.unscaledDeltaTime
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: editor-script
+reviewed: 5a5f1b630a9c62650ca5b821c91572b05d04b4d2ea335a62e16e9c4799c097c6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the current frame interval unaffected by pause or time scaling.

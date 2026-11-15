@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a685566a189fb0dff72ff4c8608489300064eee3850f1a6b8bf303d9eef82e8b
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorPreviewHandle.Equals(System.Object)"
-source: xml
-reviewed: c24db5873ebf727064e117a14aca4d98442afc97f9c45782fb9b74f85ca7e44c
-title: "EditorPreviewHandle.Equals"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorPreviewHandle.Equals(System.Object)
+title: EditorPreviewHandle.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: c24db5873ebf727064e117a14aca4d98442afc97f9c45782fb9b74f85ca7e44c
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

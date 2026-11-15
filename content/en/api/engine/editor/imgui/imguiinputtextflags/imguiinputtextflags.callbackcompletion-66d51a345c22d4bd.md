@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.66d51a345c22d4bd9e89ea3f1d1d11daa98cc238ad7cb55972959b4cfb17d497
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.CallbackCompletion"
-source: xml
-reviewed: 91275b1376b7357ebb5bd8aae9591599ccddd14862067329466523f564849ad0
-title: "ImGuiInputTextFlags.CallbackCompletion"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.CallbackCompletion
+title: ImGuiInputTextFlags.CallbackCompletion
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 91275b1376b7357ebb5bd8aae9591599ccddd14862067329466523f564849ad0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Callback on pressing TAB (for completion handling)

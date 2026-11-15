@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4315bd4858046e5d0e930e1cba8c4ab78af4f6ee5caca0720eeed9e66c352c29
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendEquation.Maximum"
-source: xml
-reviewed: 8b43599944c4e81c42260bf307380e7bbf0392d20136250215b4ccab42daa934
-title: "RenderBlendEquation.Maximum"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendEquation.Maximum
+title: RenderBlendEquation.Maximum
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 8b43599944c4e81c42260bf307380e7bbf0392d20136250215b4ccab42daa934
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects the component-wise maximum.

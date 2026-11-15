@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.37227356a939e08f656b00bf65edd2cee6b75cd5c923a438d7cd19ca2202db8d
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.ReplaceContents(Inno.Core.Graphs.GraphDocument)"
-source: xml
-reviewed: afe1469540b87f994da3ae9c64973b127fd30bfbcff43e2e5b243384accebd1f
-title: "GraphDocument.ReplaceContents"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.ReplaceContents(Inno.Core.Graphs.GraphDocument)
+title: GraphDocument.ReplaceContents
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: afe1469540b87f994da3ae9c64973b127fd30bfbcff43e2e5b243384accebd1f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically replaces all records with deep copies from another neutral document.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.c422605c13a4c705
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingSourceRoot"
-source: xml
-reviewed: 9a2c3bc7c2a97903e052a83a2e07542c090fe3829ab0d3a8db52e8d80ff3fa50
-title: "NativeBindingSourceRoot"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingSourceRoot
+title: NativeBindingSourceRoot
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 9a2c3bc7c2a97903e052a83a2e07542c090fe3829ab0d3a8db52e8d80ff3fa50
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

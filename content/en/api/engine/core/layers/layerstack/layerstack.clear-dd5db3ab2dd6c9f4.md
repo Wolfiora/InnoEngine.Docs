@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd5db3ab2dd6c9f4c968c50e54a169d5ea3326cdb767fd1bf7ab39e7e74c02f7
-symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Clear"
-source: xml
-reviewed: b1f2da9d4e3d4c5493a6b35c0737fb521e1cd752ea3833c54e68c426c403a314
-title: "LayerStack.Clear"
+symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Clear
+title: LayerStack.Clear
 kind: api
-owners: [Inno.Core.Layers]
+owners:
+- Inno.Core.Layers
 apiSurface: source-clr
+reviewed: b1f2da9d4e3d4c5493a6b35c0737fb521e1cd752ea3833c54e68c426c403a314
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Detaches every layer in top-to-bottom order while keeping this stack reusable.

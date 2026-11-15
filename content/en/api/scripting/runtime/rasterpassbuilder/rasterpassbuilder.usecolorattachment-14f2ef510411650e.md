@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.14f2ef510411650ecb3d782d61c7db1d3ed2ad6448cc131d4a95a04fee4f0f53
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.UseColorAttachment(InnoEngine.Rendering.RenderTextureHandle,System.Int32,InnoEngine.Rendering.RenderLoadAction,InnoEngine.Rendering.RenderStoreAction,InnoEngine.Rendering.RenderClearColor,System.Int32,System.Int32)"
-source: xml
-reviewed: f67a7cb156da16f7c0cb4e9fb8ee13409051917dc727491b7ce4cefe2ba4a7b3
-title: "RasterPassBuilder.UseColorAttachment"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.UseColorAttachment(InnoEngine.Rendering.RenderTextureHandle,System.Int32,InnoEngine.Rendering.RenderLoadAction,InnoEngine.Rendering.RenderStoreAction,InnoEngine.Rendering.RenderClearColor,System.Int32,System.Int32)
+title: RasterPassBuilder.UseColorAttachment
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: f67a7cb156da16f7c0cb4e9fb8ee13409051917dc727491b7ce4cefe2ba4a7b3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attaches a color texture.

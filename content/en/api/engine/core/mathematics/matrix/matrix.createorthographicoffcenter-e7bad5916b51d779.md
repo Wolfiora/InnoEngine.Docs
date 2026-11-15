@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e7bad5916b51d77927fd75ad51846675aa9ccec9cc02fab041fd97a2cb1a390b
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateOrthographicOffCenter(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 54673fd86cc925b3204aa02865545f87f37f59e6b068ede6283e3417b56dc814
-title: "Matrix.CreateOrthographicOffCenter"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateOrthographicOffCenter(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
+title: Matrix.CreateOrthographicOffCenter
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 54673fd86cc925b3204aa02865545f87f37f59e6b068ede6283e3417b56dc814
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an off-center orthographic projection matrix (depth range 0..1).

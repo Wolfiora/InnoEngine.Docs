@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69c4a70fb7de81cce74f2f2a25998e63e58a236310d5f834c19e04553f8cb692
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CreateSource(Inno.Assets.AssetPath,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 0363ffa65e29b7af73851a3307d8e3d5acfeab9c96a188f00cd2025fc442b786
-title: "AssetEditingModule.CreateSource"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CreateSource(Inno.Assets.AssetPath,System.ReadOnlySpan{System.Byte})
+title: AssetEditingModule.CreateSource
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: 0363ffa65e29b7af73851a3307d8e3d5acfeab9c96a188f00cd2025fc442b786
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a native or ordinary-text asset source as one recoverable shared-history operation.

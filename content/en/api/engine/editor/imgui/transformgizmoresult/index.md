@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.7edcecb10221ed24
-symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoResult"
-source: xml
-reviewed: d54e3a61918a7a807514dee00da8abb49c33ed206eec6f0380f2a440cf0ab170
-title: "TransformGizmoResult"
+symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoResult
+title: TransformGizmoResult
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: d54e3a61918a7a807514dee00da8abb49c33ed206eec6f0380f2a440cf0ab170
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-imgui
 aliases: []

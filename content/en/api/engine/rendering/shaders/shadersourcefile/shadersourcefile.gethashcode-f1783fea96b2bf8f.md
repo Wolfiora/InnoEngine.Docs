@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f1783fea96b2bf8ffd0437f2623b192d1caf7bd2dde77b9ccc6be09e57b9d28c
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceFile.GetHashCode"
-source: xml
-reviewed: 057a53f28bdaf76233040c4a77656d2006ca2f4a2c6a3b0d38b6fe24b339adee
-title: "ShaderSourceFile.GetHashCode"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceFile.GetHashCode
+title: ShaderSourceFile.GetHashCode
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 057a53f28bdaf76233040c4a77656d2006ca2f4a2c6a3b0d38b6fe24b339adee
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serves as the default hash function.

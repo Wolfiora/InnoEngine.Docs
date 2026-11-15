@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e10c3b4ffe09e0426d60b4dfea43199a72d5ca6ec64b8a0928ac1352edf0a684
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPhaseId.GetHashCode"
-source: xml
-reviewed: 2611ed24fb54ccc63938e84989a70cd180ae1de918f423bcc4d95164dc68933f
-title: "RenderPhaseId.GetHashCode"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPhaseId.GetHashCode
+title: RenderPhaseId.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 2611ed24fb54ccc63938e84989a70cd180ae1de918f423bcc4d95164dc68933f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

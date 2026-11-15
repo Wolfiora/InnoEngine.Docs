@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cc4925ab9aaf370ea2fe98f8862b1f203751a00109fd84bcde50b150f13bc7d5
-symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Platform.PlatformBackendProvider})"
-source: xml
-reviewed: eeacff06706a9abc4700f6cf7d067234fe3b4aa7d5f5dc681e8a6f9376b25c6a
-title: "PlatformBackendCatalog.Constructor"
+symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Platform.PlatformBackendProvider})
+title: PlatformBackendCatalog.Constructor
 kind: api
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
 apiSurface: source-clr
+reviewed: eeacff06706a9abc4700f6cf7d067234fe3b4aa7d5f5dc681e8a6f9376b25c6a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates and captures a complete provider set without creating any service.

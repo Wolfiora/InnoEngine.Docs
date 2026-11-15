@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c1b254d198471df2ff24f523acd7d35c980a2c5e21f7efe45d29dc25633086ce
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.TryResolve(Inno.Extensibility.Types.TypeRef,System.Type@)"
-source: xml
-reviewed: 36afd4020205f379f66e0dc5eaa340a3c80bb281a478bd357eaa3891dc85d2ab
-title: "TypeCatalog.TryResolve"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.TryResolve(Inno.Extensibility.Types.TypeRef,System.Type@)
+title: TypeCatalog.TryResolve
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 36afd4020205f379f66e0dc5eaa340a3c80bb281a478bd357eaa3891dc85d2ab
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attempts to resolve a logical type reference against the active immutable generation.

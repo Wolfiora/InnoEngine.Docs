@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1247bed87d2b7656967b64d4e272c548faa4b49ba6414f2f895821c33e2f946e
-symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSession.scenes"
-source: xml
-reviewed: ebced7d2521618b699eaec733f77880903cb1b8d5e6a8f54cce4e6a1dd3053ac
-title: "RuntimeSession.scenes"
+symbol: engine:Inno.Runtime:P:Inno.Runtime.RuntimeSession.scenes
+title: RuntimeSession.scenes
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: ebced7d2521618b699eaec733f77880903cb1b8d5e6a8f54cce4e6a1dd3053ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the isolated scene world owned by this session.

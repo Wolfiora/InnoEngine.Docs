@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f9826363795da82e8b0cbc41d939006d7f983b95935d66d68805244c0ca1659
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPort.Equals(System.Object)"
-source: xml
-reviewed: 20a3f78c59214e95aaf00120b2dd539659eb121fe93d948346e59b24dabcc98f
-title: "GraphCanvasPort.Equals"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPort.Equals(System.Object)
+title: GraphCanvasPort.Equals
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 20a3f78c59214e95aaf00120b2dd539659eb121fe93d948346e59b24dabcc98f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

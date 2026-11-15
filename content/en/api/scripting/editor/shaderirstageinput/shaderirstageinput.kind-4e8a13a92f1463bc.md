@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e8a13a92f1463bc54651e30e2a11627d3014242376a0e2db0bff1f6f8a0439a
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStageInput.kind"
-source: xml
-reviewed: 10cd7d07a617cebcb2d54b1d33186c8eeb7b3f7e5c86d11c24ccfe6dec3831dc
-title: "ShaderIrStageInput.kind"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStageInput.kind
+title: ShaderIrStageInput.kind
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 10cd7d07a617cebcb2d54b1d33186c8eeb7b3f7e5c86d11c24ccfe6dec3831dc
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the GPU input category.

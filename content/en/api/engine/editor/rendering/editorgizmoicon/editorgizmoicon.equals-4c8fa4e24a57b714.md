@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4c8fa4e24a57b714eb40a153bcc8aa70d6d6c63e756e114174e4475d393cf39a
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.Equals(Inno.Editor.Rendering.EditorGizmoIcon)"
-source: xml
-reviewed: e5e03013aa4f87e44b0339a4216dd96f78bf6855cbded0bb9a64cf75c6a21b5d
-title: "EditorGizmoIcon.Equals"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.Equals(Inno.Editor.Rendering.EditorGizmoIcon)
+title: EditorGizmoIcon.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: e5e03013aa4f87e44b0339a4216dd96f78bf6855cbded0bb9a64cf75c6a21b5d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.
