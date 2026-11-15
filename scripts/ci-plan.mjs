@@ -55,7 +55,7 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   const search = plan.changed.some(file => /search|pagefind/i.test(file));
   const changedParser = plan.changed.includes('reference/engine.lock.json')
     && (!catalog.documentationToolIdentity || previous?.tool !== catalog.documentationToolIdentity);
-  const semantic = changedParser || plan.changed.some(file => /^(scripts\/(?:api-|canonical-|documentation-|check-projection|ci-plan)|package|astro\.config|\.github\/|src\/content)/.test(file)
+  const semantic = changedParser || plan.changed.some(file => /^(scripts\/(?:api-|canonical-|documentation-|check-projection|ci-plan|build-site|prepare-catalog|tooling-bundle|site-environment)|package|astro\.config|playwright\.config|tsconfig|\.node-version|tests\/browser\/|\.github\/|src\/content)/.test(file)
     || (!administrative(file) && !/^(content\/|reference\/|src\/|navigation\/|public\/|scripts\/|tests\/|playwright\.config|tsconfig|\.node-version)/.test(file)));
   if (plan.mode === 'Release' || search || semantic) {
     for (const page of catalog.pages) choose(page.path, plan.mode === 'Release' ? 'Release requires every page' : 'Shared semantic or search input changed');

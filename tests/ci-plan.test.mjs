@@ -35,6 +35,15 @@ test('records and README do not select a renderer, but unknown input expands con
   assert.equal(plan(['unexpected.config']).prepare, true);
   assert.equal(plan(['.agents/tools/check.mjs']).prepare, true);
 });
+test('rendering entry points and browser configuration cannot select an empty validation plan', () => {
+  for (const file of ['scripts/build-site.mjs','scripts/prepare-catalog.mjs','scripts/tooling-bundle.mjs',
+    'playwright.config.ts','tests/browser/reading.spec.ts','tsconfig.json','.node-version']) {
+    const selected = selectPages(plan([file]),catalog);
+    assert.equal(selected.pages.length,catalog.pages.length,file);
+    assert.equal(selected.browser,'Full',file);
+    assert.equal(selected.search,true,file);
+  }
+});
 test('release, manual mode and required-result reconciliation fail closed', () => {
   assert.equal(modeFor({ pull_request: { base: { ref: 'main' } } }, 'pull_request', ''), 'Release');
   assert.throws(() => modeFor({ inputs: {} }, 'workflow_dispatch', ''), /require/);
