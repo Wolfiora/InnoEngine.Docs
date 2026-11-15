@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { bootstrapPlan, selectPages, modeFor, reconcile } from '../scripts/ci-plan.mjs';
-import { inputIdentity, eligible, passedJob } from '../scripts/ci-evidence.mjs';
+import { inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity } from '../scripts/ci-evidence.mjs';
 const page = (id, extra = {}) => ({ id, path: `content/en/${id}.md`, title: id, kind: 'explanation', links: [], includes: [], contracts: [], codeBlocks: [], symbols: {}, sections: {}, markdown: id, contentIdentity: id, ...extra });
 const catalog = { snapshot: 'snapshot', sourceFiles: {}, pages: [page('index'), page('a'), page('b', { links: ['a.md#heading'] }), page('c')] };
 const plan = changed => bootstrapPlan({ mode: 'Incremental', changed, baseline: 'old', candidate: 'new' });
@@ -14,9 +14,19 @@ test('removed pages still select their unchanged inbound callers', () => {
   const selected = selectPages(plan(['content/en/a.md']), { ...catalog, pages: catalog.pages.filter(p => p.id !== 'a') });
   assert.ok(selected.pages.some(p => p.id === 'b'));
 });
+test('presentation browser checks use representatives rather than every linked context page', () => {
+  const selected = selectPages(plan(['src/styles/documentation.css']), {...catalog,
+    pages:[...catalog.pages, page('context', {links:['index.md']})]});
+  assert.equal(selected.browser, 'Selected');
+  assert.equal(selected.search, false);
+  assert.ok(selected.browserPages.length > 0);
+  assert.ok(selected.browserPages.length < selected.pages.length);
+  assert.ok(selected.browserPages.every(p => selected.pages.some(rendered => rendered.path === p.path)));
+});
 test('records and README do not select a renderer, but unknown input expands conservatively', () => {
   assert.equal(plan(['README.md', '.agents/records/history/x.md']).prepare, false);
   assert.equal(plan(['unexpected.config']).prepare, true);
+  assert.equal(plan(['.agents/tools/check.mjs']).prepare, true);
 });
 test('release, manual mode and required-result reconciliation fail closed', () => {
   assert.equal(modeFor({ pull_request: { base: { ref: 'main' } } }, 'pull_request', ''), 'Release');
@@ -60,4 +70,17 @@ test('API binding revisions do not invalidate an unchanged canonical tool', () =
   assert.ok(!selected.pages.some(p=>p.id==='c'));
   assert.equal(selected.browser,'None');
   assert.equal(selectPages(plan(['reference/engine.lock.json']),{...current,documentationToolIdentity:'changed'},{previous}).pages.length,4);
+});
+
+test('publication cannot promote new control code from a draft run or a control-changing PR', async t => {
+  const current = [['scripts/build-site.mjs','new-control']];
+  const old = [['scripts/build-site.mjs','old-control']];
+  const originalFetch = globalThis.fetch;
+  t.after(()=>{globalThis.fetch=originalFetch;});
+  globalThis.fetch = async url => ({ok:true,json:async()=>({truncated:false,tree:(String(url).includes('b'.repeat(40))?old:current).map(([path,sha])=>({path,sha,type:'blob'}))})});
+  const run = {repository:{full_name:'Wolfiora/InnoEngine.Docs'},head_repository:{full_name:'Wolfiora/InnoEngine.Docs'},path:'.github/workflows/documentation.yml',head_sha:'a'.repeat(40),head_branch:'draft',event:'push'};
+  assert.equal(await trustedProducer(run,controlsIdentity(current)),true);
+  assert.equal(await trustedProducer(run,controlsIdentity(current),true),false);
+  assert.equal(await trustedProducer({...run,event:'pull_request',pull_requests:[{base:{sha:'b'.repeat(40)}}]},controlsIdentity(current),true),false);
+  assert.equal(await trustedProducer({...run,event:'pull_request',pull_requests:[{base:{sha:'a'.repeat(40)}}]},controlsIdentity(current),true),true);
 });

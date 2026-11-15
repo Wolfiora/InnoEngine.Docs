@@ -6,7 +6,7 @@ import { pathToFileURL } from 'node:url';
 import { contentRoute } from './documentation-routes.mjs';
 
 export const identity = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
-const administrative = file => /^(README\.md|CONTRIBUTING\.md|AGENTS\.md|LICENSE|\.agents\/)/.test(file);
+const administrative = file => /^(README\.md|CONTRIBUTING\.md|AGENTS\.md|LICENSE|\.agents\/.*\.md)$/.test(file);
 export const controlInput = file => /^(scripts\/|src\/|tests\/|\.github\/|navigation\/|astro\.config|playwright\.config|package|tsconfig|\.node-version)/.test(file);
 export const publicationInput = file => controlInput(file) || /^(content\/|reference\/|public\/)/.test(file);
 export function modeFor(event, name, ref) {
@@ -50,7 +50,7 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
     for (const link of [...page.links, ...page.includes]) add(targetPath(page, link), page);
     for (const contract of page.contracts) add(byId.get(contract.split('#')[0])?.path, page);
   }
-  const selected = new Map();
+  const selected = new Map(), browserTargets = new Set();
   const choose = (file, reason) => { if (byPath.has(file) && !selected.has(file)) selected.set(file, reason); };
   const search = plan.changed.some(file => /search|pagefind/i.test(file));
   const changedParser = plan.changed.includes('reference/engine.lock.json')
@@ -79,7 +79,11 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
           ...(page.markdown.includes('| ---') ? ['table'] : [])];
         for (const feature of features) if (!representatives.has(feature)) representatives.set(feature, page.path);
       }
-      for (const [feature, file] of representatives) choose(file, `Representative ${feature} presentation`);
+      for (const [feature, file] of representatives) {
+        choose(file, `Representative ${feature} presentation`);
+        browserTargets.add(file);
+      }
+      browserTargets.add('content/en/index.md');
     }
   }
   for (const file of [...selected.keys()]) for (const dependent of reverse.get(file) ?? []) choose(dependent, `References changed composition ${file}`);
@@ -109,11 +113,14 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   const browserRequired = plan.mode === 'Release' || semantic || search ? 'Full'
     : plan.changed.some(file => /^(src\/|public\/|navigation\/|scripts\/)/.test(file)) ? 'Selected' : 'None';
   const reusedPages = plan.mode === 'Release' ? [] : pages.filter(page => previous?.pages?.[page.path]?.input === page.input
-    && previous.pages[page.path].render === 'Passed' && (browserRequired === 'None' || previous.pages[page.path].browser === 'Passed'));
+    && previous.pages[page.path].render === 'Passed' && (browserRequired === 'None'
+      || (browserRequired === 'Selected' && !browserTargets.has(page.path)) || previous.pages[page.path].browser === 'Passed'));
   const pending = pages.filter(page => !reusedPages.includes(page));
   const browser = pending.length ? browserRequired : 'None';
+  const browserPages = browser === 'Selected' ? pending.filter(page => browserTargets.has(page.path)) : [];
+  if (browser === 'Selected' && !browserPages.length && pending.length) browserPages.push(pending[0]);
   return { ...plan, snapshot: catalog.snapshot, pages: pending, reusedPages, renderer, render: pending.length > 0,
-    search: plan.mode === 'Release' || search || semantic, browser,
+    search: plan.mode === 'Release' || search || semantic, browser, browserPages,
     checks: [{ id: 'guidance', required: true, reason: 'Repository instructions and links' },
       { id: 'catalog', required: true, reason: 'Global identities, references and anchors' },
       { id: 'examples', required: true, reason: 'Reuse matching groups; compile only invalidated groups' },

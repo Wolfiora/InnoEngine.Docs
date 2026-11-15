@@ -64,7 +64,7 @@ export function canonicalContentLoader() {
     async load({ config, store, parseData, renderMarkdown, generateDigest, watcher }) {
       const root = config.root;
       async function load() {
-        const catalog = await readCanonicalContent(fileURLToPath(root), undefined, { frozen: process.env.INNO_DOCS_FROZEN === 'true' });
+        const catalog = await readCanonicalContent(fileURLToPath(root), undefined, { frozen: Boolean(process.env.INNO_DOCS_PLAN) || process.env.INNO_DOCS_FROZEN === 'true' });
         const renderingInputs = ['package-lock.json', 'astro.config.mjs', 'src/content.config.ts', 'scripts/canonical-content.mjs',
           'scripts/documentation-links.mjs', 'scripts/documentation-routes.mjs', 'scripts/api-presentation.mjs'];
         const renderingIdentity = hash(Buffer.concat(await Promise.all(renderingInputs.map(file => readFile(new URL(file, root))))));

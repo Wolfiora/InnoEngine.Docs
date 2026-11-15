@@ -75,6 +75,12 @@ jobs:
           path: artifacts/api-editorial.json
           if-no-files-found: error
           retention-days: 30
+      - name: Install operational Markdown checker for reused publication
+        if: steps.verify.outputs.reused == 'true' || steps.select.outputs.covered == 'true'
+        run: npm ci
+      - name: Check current guidance independently of reused website inputs
+        if: steps.verify.outputs.reused == 'true' || steps.select.outputs.covered == 'true'
+        run: node scripts/check-guidance.mjs
       - name: Retain the execution plan
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
         with:
@@ -157,6 +163,15 @@ jobs:
         shell: pwsh
         run: npm run docs:prepare
         if: needs.reuse.outputs.prepare == 'true'
+      - name: Retain immutable parsed page payloads
+        if: success() && needs.reuse.outputs.prepare == 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9
+        with:
+          path: |-
+            artifacts/documentation-query/current.json
+            artifacts/documentation-query/generations/*/manifest.json
+            artifacts/documentation-query/pages/*/page.json
+          key: docs-parsed-windows-${{ github.run_id }}
       - name: Select completed independent page checks
         id: previous-checks
         if: needs.reuse.outputs.prepare == 'true'
@@ -319,15 +334,6 @@ jobs:
           if-no-files-found: error
           retention-days: 90
         if: needs.reuse.outputs.mode == 'Release'
-      - name: Retain immutable parsed page payloads
-        if: success() && needs.reuse.outputs.prepare == 'true'
-        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9
-        with:
-          path: |-
-            artifacts/documentation-query/current.json
-            artifacts/documentation-query/generations/*/manifest.json
-            artifacts/documentation-query/pages/*/page.json
-          key: docs-parsed-windows-${{ github.run_id }}
       - name: Retain diagnostics
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9

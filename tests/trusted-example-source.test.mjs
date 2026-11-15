@@ -38,3 +38,10 @@ for (const [name, mutate] of [
 ]) test(`rejects ${name}`, () => { const f = source(); mutate(f); assert.throws(() => authorizeRun(f)); });
 
 test('independent compiler receipts survive unrelated incomplete or failed work', () => { const f = source(); f.run.status = 'in_progress'; f.run.conclusion = null; assert.equal(authorizeRun(f).id,31); f.run.status = 'completed'; f.run.conclusion = 'failure'; assert.equal(authorizeRun(f).id,31); });
+
+test('draft compiler receipts are reusable but do not authorize website publication', () => {
+  const f=source();f.branch='draft';f.run.head_branch='draft';
+  assert.equal(authorizeRun(f).id,31);
+  f.branch='feature';f.run.head_branch='feature';
+  assert.throws(()=>authorizeRun(f),/maintained/);
+});

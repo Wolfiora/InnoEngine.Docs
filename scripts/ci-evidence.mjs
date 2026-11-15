@@ -40,14 +40,21 @@ export function passedJob(jobs, name) {
 async function output(values) {
   if (process.env.GITHUB_OUTPUT) await appendFile(process.env.GITHUB_OUTPUT, Object.entries(values).map(([key,value]) => `${key}=${value}\n`).join(''));
 }
-export async function trustedProducer(run, controls) {
+export async function trustedProducer(run, controls, publication = false) {
   if (!eligible(run)) return false;
   // PR-controlled code is reusable only when both its control files and current main's
   // control files equal the caller. A control-changing PR is revalidated after merge.
   if (run.event === 'pull_request' || run.event === 'merge_group') {
-    const [main, candidate] = await Promise.all([remoteInputs('main'), remoteInputs(run.head_sha)]);
+    const base = run.pull_requests?.[0]?.base?.sha;
+    if (publication && !/^[a-f0-9]{40}$/.test(base ?? '')) return false;
+    const [main, candidate, originalBase] = await Promise.all([remoteInputs('main'), remoteInputs(run.head_sha),
+      publication ? remoteInputs(base) : Promise.resolve(null)]);
     if (controlsIdentity(main) !== controls || controlsIdentity(candidate) !== controls) return false;
+    if (publication && controlsIdentity(originalBase) !== controls) return false;
   } else if (!['main', 'draft'].includes(run.head_branch)) return false;
+  // A draft run can provide independent development receipts, but cannot bypass
+  // the first main verification of new publication control code.
+  else if (publication && run.head_branch !== 'main') return false;
   return true;
 }
 export async function select() {
@@ -86,7 +93,7 @@ export async function select() {
       && a.workflow_run?.id === run.id && a.workflow_run?.head_sha === run.head_sha && /^sha256:[a-f0-9]{64}$/.test(a.digest ?? ''));
     const receipt = find(`documentation-receipt-${key}-attempt-${run.run_attempt}`), site = find(`documentation-site-attempt-${run.run_attempt}`);
     if (!receipt || !site || receipt.size_in_bytes > 32 * 1024 * 1024) continue;
-    if (!await trustedProducer(run, controls)) continue;
+    if (!await trustedProducer(run, controls, true)) continue;
     const jobs = (await api(`actions/runs/${run.id}/attempts/${run.run_attempt}/jobs?per_page=100`)).jobs;
     if (!passedJob(jobs, 'Documentation projection') || !passedJob(jobs, 'Documentation validation')) continue;
     await writeFile('artifacts/reuse/selection.json', JSON.stringify({ documentation: { id: receipt.id, digest: receipt.digest },
@@ -192,7 +199,8 @@ async function createChecks() {
   const pages = Object.fromEntries(catalog.pages.map(page => {
     const executed = selected.get(page.path);
     return [page.path, {content:page.contentIdentity, ...(reused.has(page.path) ? previous.pages[page.path] : {}),
-      ...(executed ? { input:executed.input, render:'Passed', browser:plan.browser === 'None' ? 'NotApplicable' : 'Passed' } : {})}];
+      ...(executed ? { input:executed.input, render:'Passed', browser:plan.browser === 'Selected'
+        && plan.browserPages.some(selected => selected.path === page.path) ? 'Passed' : 'NotApplicable' } : {})}];
   }));
   await mkdir('artifacts/checks/receipt',{recursive:true});
   await writeFile('artifacts/checks/receipt/identity.json',JSON.stringify({schema:'inno-page-checks/1',status:'Passed',
@@ -202,7 +210,7 @@ async function createChecks() {
 export async function verifyPublicationInputs(producer, currentCommit) {
   const [source, target] = await Promise.all([remoteInputs(producer.head_sha), remoteInputs(currentCommit)]);
   const controls = controlsIdentity(target);
-  if (!await trustedProducer(producer, controls)) throw new Error('Publication control code is not trusted.');
+  if (!await trustedProducer(producer, controls, true)) throw new Error('Publication control code is not trusted.');
   const key = inputIdentity(target);
   const artifacts = (await api(`actions/runs/${producer.id}/artifacts?per_page=100`)).artifacts;
   if (!artifacts.some(a => a.name === `documentation-receipt-${key}-attempt-${producer.run_attempt}` && !a.expired

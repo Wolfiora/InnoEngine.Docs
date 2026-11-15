@@ -1,11 +1,11 @@
 const sha = (value, length = 40) => typeof value === 'string' && new RegExp(`^[a-f0-9]{${length}}$`).test(value);
 const requireValue = (condition, message) => { if (!condition) throw new Error(message); };
 
-/** Verify an independent compiler receipt from a Docs main producer and its exact retained attempt. No engine CI is consulted. */
+/** Verify an independent compiler receipt from a maintained Docs branch and its exact retained attempt. No engine CI is consulted. */
 export function authorizeRun({ run, jobs, artifacts, repository, workflow, branch, commit, aggregate, artifactName, events }) {
-  requireValue(repository === 'Wolfiora/InnoEngine.Docs' && branch === 'main' && workflow === '.github/workflows/documentation.yml'
+  requireValue(repository === 'Wolfiora/InnoEngine.Docs' && ['main', 'draft'].includes(branch) && workflow === '.github/workflows/documentation.yml'
     && aggregate === 'Documentation validation' && artifactName === 'documentation-examples'
-    && events.every(event => ['push', 'workflow_dispatch'].includes(event)), 'Example receipt reuse policy permits only the Docs main producer.');
+    && events.every(event => ['push', 'workflow_dispatch'].includes(event)), 'Example receipt reuse policy permits only maintained Docs branch producers.');
   requireValue(run.repository?.full_name === repository && run.head_repository?.full_name === repository, 'Example receipt reuse cannot consume a fork or another repository.');
   requireValue(run.path === workflow && run.head_branch === branch && run.head_sha === commit && sha(commit)
     && events.includes(run.event), 'Workflow, event or immutable source does not match the selected example receipt.');
