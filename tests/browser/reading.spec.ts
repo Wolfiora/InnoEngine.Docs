@@ -29,6 +29,35 @@ const journeys = [
   ['api/scripting/editor/editoraction-59a990be6ea3/', 'EditorAction<TTarget, TArgument>'],
 ] as const;
 
+test('TOC divider resizes within bounds and preserves the session choice', async ({ page }) => {
+  await page.goto('');
+  await expect(page.locator('.api-status')).toHaveCount(0);
+  const divider = page.getByRole('separator', { name: 'Resize table of contents' });
+  const width = page.viewportSize()!.width;
+  if (width < 1152) { await expect(divider).toBeHidden(); return; }
+  await divider.dblclick();
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(width / 3, 0);
+  await divider.focus();
+  await page.keyboard.press('End');
+  await expect(divider).toHaveAttribute('aria-valuenow', String(width / 2));
+  await page.keyboard.press('Home');
+  const minimum = Number(await divider.getAttribute('aria-valuemin'));
+  expect(Number(await divider.getAttribute('aria-valuenow'))).toBe(minimum);
+  const heading = page.locator('.right-sidebar-panel h2');
+  expect(await heading.evaluate(e => e.scrollWidth <= e.clientWidth)).toBe(true);
+  const box = (await divider.boundingBox())!;
+  await page.mouse.move(box.x + box.width / 2, box.y + 80);
+  await page.mouse.down();
+  await page.mouse.move(width * .6, box.y + 80);
+  await page.mouse.up();
+  const selected = Number(await divider.getAttribute('aria-valuenow'));
+  expect(Math.abs(selected - width * .4)).toBeLessThanOrEqual(1);
+  await page.reload();
+  await expect(divider).toHaveAttribute('aria-valuenow', String(selected));
+  await divider.dblclick();
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(width / 3, 0);
+});
+
 for (const theme of ['light', 'dark'] as const) {
   for (const [route, heading] of journeys) {
     test(`${theme}: ${route || 'home'} retains readable content and local overflow`, async ({ page }) => {
@@ -301,27 +330,24 @@ test('status sits in the page chrome, XML summaries are quoted, and metadata is 
   await expect(page.getByRole('main')).not.toContainText('This explanation is synchronized from the source XML documentation.');
   const desktop = (page.viewportSize()?.width ?? 0) >= 1152;
   if (desktop) {
-    const header = page.locator('.api-sidebar-header');
+    const header = page.locator('.document-header');
     await expectSyncedStatus(header.locator('.api-status'));
     await expect(page.locator('.right-sidebar-panel h2')).toHaveText('TABLE OF CONTENTS');
-    await expect.poll(() => page.evaluate(() => {
-      const sidebar = document.querySelector('.api-sidebar-header')!.getBoundingClientRect();
-      const context = document.querySelector('main > .content-panel')!.getBoundingClientRect();
-      return Math.abs(sidebar.bottom - context.bottom);
-    })).toBeLessThanOrEqual(1);
     const geometry = await header.evaluate(element => {
       const status = element.querySelector('.api-status')!;
       const label = status.querySelector('strong')!.getBoundingClientRect();
       const box = status.getBoundingClientRect();
       return { right: box.right, viewport: window.innerWidth,
+        divider: document.querySelector('.right-sidebar-container')!.getBoundingClientRect().left,
         centered: Math.abs((label.top + label.bottom) / 2 - (box.top + box.bottom) / 2),
         gradient: getComputedStyle(status).backgroundImage };
     });
     expect(geometry.right).toBeLessThanOrEqual(geometry.viewport + 1);
+    expect(Math.abs(geometry.right - geometry.divider)).toBeLessThanOrEqual(1);
     expect(geometry.centered).toBeLessThanOrEqual(1);
     expect(geometry.gradient).toContain('linear-gradient(to left');
   } else {
-    await expect(page.locator('.api-status-inline .api-status')).toBeVisible();
+    await expect(page.locator('.document-header .api-status')).toBeVisible();
     await expect(page.locator('mobile-starlight-toc .toggle')).toContainText('TABLE OF CONTENTS');
   }
   expect(order.project).toContain('Project: Inno.Editor.Annotations');
