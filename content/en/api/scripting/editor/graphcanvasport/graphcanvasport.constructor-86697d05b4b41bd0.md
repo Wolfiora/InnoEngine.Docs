@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a port presentation whose position is measured in unscaled node coordinates.
-
 ## Parameters
 
 **Parameter `endpoint`:** The existing document endpoint represented by this port.

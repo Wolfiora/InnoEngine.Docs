@@ -13,5 +13,3 @@ reviewed: bdd45cceb83e062af31542029ae3e7e8540d1a0d784df95227ab648dd733155e
 source: xml
 outdated: false
 ---
-
-Gets or sets the stored value kind.

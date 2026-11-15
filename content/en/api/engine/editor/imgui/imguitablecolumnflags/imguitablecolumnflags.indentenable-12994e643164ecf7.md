@@ -13,5 +13,3 @@ reviewed: 8229e67d6a267c2ecad17b78556479686c208a063571751e12ad58c697c54cf1
 source: xml
 outdated: false
 ---
-
-Use current Indent value when entering cell (default for column 0).

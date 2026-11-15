@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a subprocess lifetime while a previously claimed parent directory remains protected.
-
 ## Parameters
 
 **Parameter `root`:** The producer root containing the existing current claim.

@@ -13,5 +13,3 @@ reviewed: 891e7de8fe8267660bf5280d6b963099c910feb3a2dd342037f4f014fb067b4c
 source: xml
 outdated: false
 ---
-
-Identifies the S presentation key or modifier.

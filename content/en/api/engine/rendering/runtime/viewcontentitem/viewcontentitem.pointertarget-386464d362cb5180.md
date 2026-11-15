@@ -13,5 +13,3 @@ reviewed: 0a8b2d6b3f623979b02c21c0e5e84c00c606ed61743f9cdd94b3aa418f3068bc
 source: xml
 outdated: false
 ---
-
-Gets the optional pointer target associated with this draw item.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets an output released over empty canvas, allowing the feature to offer a creation workflow.

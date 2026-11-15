@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a texture descriptor.
-
 ## Parameters
 
 **Parameter `width`:** Texture width in pixels.

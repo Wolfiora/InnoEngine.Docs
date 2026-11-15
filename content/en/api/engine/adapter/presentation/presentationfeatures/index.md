@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Describes optional capabilities requested from a host presentation backend.

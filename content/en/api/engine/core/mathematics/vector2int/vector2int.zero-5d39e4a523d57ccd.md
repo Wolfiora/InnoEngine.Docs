@@ -13,5 +13,3 @@ reviewed: 575222420175f1e671c03969028502041f64993d5cf10dd932ed1f87a6b9a6b6
 source: xml
 outdated: false
 ---
-
-A value whose components are all zero.

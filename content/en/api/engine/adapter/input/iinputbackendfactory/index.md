@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Creates host-level input event sources from explicit backend selections.

@@ -13,5 +13,3 @@ reviewed: 0120c297d2c230715902d1062f724ba9e4308fc977cf0607ce1e3a9651e617bf
 source: xml
 outdated: false
 ---
-
-Gets the artist-facing shader name.

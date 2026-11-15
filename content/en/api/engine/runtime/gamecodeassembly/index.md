@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Identifies one immutable code input independently of its physical deployment representation.

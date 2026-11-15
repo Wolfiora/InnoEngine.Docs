@@ -13,5 +13,3 @@ reviewed: c8977b035c2729676d5910eefe37e3174310b484e6b0b237a17c526d12d96be2
 source: xml
 outdated: false
 ---
-
-Identifies the O presentation key or modifier.

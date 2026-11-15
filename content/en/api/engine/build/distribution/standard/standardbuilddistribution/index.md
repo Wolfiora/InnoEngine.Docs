@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 aliases: []
 ---
-
-Binds platform publication and backend configuration once at the standard distribution boundary.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes the system from its scene and records a reversible serialized history change.
-
 ## Parameters
 
 **Parameter `system`:** The registered system to remove.

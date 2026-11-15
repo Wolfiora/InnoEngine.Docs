@@ -13,5 +13,3 @@ reviewed: 794548e79c69934c7eec1751354719188e3787d5060129a0c2eef7ab4010c0ae
 source: xml
 outdated: false
 ---
-
-The 4 key on the numeric keypad.

@@ -13,5 +13,3 @@ reviewed: 4763f944fd1438200a0e653540623cc583b29a8e4669cfba6c2d4f4c4a5f45aa
 source: xml
 outdated: false
 ---
-
-Gets or sets the SDK host executable.

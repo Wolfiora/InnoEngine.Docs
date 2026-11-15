@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the target shader matching one runtime asset, variant, and device capability snapshot.
-
 ## Parameters
 
 **Parameter `shader`:** The imported runtime shader description.

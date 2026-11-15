@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a texture subresource box.
-
 ## Parameters
 
 **Parameter `mip`:** Zero-based mip level.

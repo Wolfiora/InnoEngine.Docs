@@ -13,5 +13,3 @@ reviewed: 503f359045748ede91e2b35c85d3c021ca07d430c2453242e64689fef8f48d1e
 source: xml
 outdated: false
 ---
-
-Selects the resize ns presentation behavior.

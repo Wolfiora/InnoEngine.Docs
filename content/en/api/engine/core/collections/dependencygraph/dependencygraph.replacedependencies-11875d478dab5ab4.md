@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces every direct dependency of a node.
-
 ## Parameters
 
 **Parameter `node`:** The dependent node.

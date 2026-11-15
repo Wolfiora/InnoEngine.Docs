@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two sampler descriptions differ.
-
 ## Parameters
 
 **Parameter `left`:** Left sampler description.

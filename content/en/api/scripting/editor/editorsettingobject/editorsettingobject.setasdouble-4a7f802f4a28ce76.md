@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets a finite double-precision property.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

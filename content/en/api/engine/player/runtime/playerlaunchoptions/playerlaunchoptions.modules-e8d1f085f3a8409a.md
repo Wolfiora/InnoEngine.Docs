@@ -13,5 +13,3 @@ reviewed: 3aa7173ed065c51a51c2c9c6216b65da6ffd7303027074674fc72ddfaa4dc182
 source: xml
 outdated: false
 ---
-
-Gets the code catalog selected by the platform composition; ownership transfers to the application.

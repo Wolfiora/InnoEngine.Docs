@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether the modal window owns scrolling when its content overflows. Disable this when a child region owns all scrolling.

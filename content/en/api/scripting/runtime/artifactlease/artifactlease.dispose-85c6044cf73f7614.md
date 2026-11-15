@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases artifact ownership, retaining metadata and callback while the provider reports Pending.
-
 ## Remarks
 
 Pending may be wrapped in another exception; classify the complete failure with RetirementPendingException.Find. Ordinary sibling failures remain observable after a later release attempt succeeds. New reads stop when release begins; already opened streams retain their independent provider pins.

@@ -13,5 +13,3 @@ reviewed: d1211e6262a30a6a3673897e831832c2e02b67f129cd92e0bc96b89bfb5afe62
 source: xml
 outdated: false
 ---
-
-Four normalized unsigned components packed into 10:10:10:2 bits.

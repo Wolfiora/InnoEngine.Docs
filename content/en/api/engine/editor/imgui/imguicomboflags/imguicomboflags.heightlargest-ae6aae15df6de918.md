@@ -13,5 +13,3 @@ reviewed: d96c73968e9222c8e42785aa4861d8d1f850d10159f58479070e5f06c9e88e00
 source: xml
 outdated: false
 ---
-
-As many fitting items as possible

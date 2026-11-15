@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the minimum value independently for each component.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

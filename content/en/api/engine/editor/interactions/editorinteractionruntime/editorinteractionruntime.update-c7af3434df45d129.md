@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recomputes owned state from the current validated inputs.
-
 ## Parameters
 
 **Parameter `frame`:** The frame consumed by update; ownership remains with the caller unless explicitly stated otherwise.

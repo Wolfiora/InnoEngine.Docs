@@ -13,5 +13,3 @@ reviewed: b6aed6448958af4baf8c7e9ed1924a62ad9adf54da38a324d3815e68cc1e671c
 source: xml
 outdated: false
 ---
-
-Gets the stable node identity for Editor widget IDs.

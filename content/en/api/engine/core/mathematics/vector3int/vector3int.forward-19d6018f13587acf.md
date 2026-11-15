@@ -13,5 +13,3 @@ reviewed: 15e250d3992294a8814cb8b2b82947ba8b834c7c6b54f4c10f03db83db4f0cc7
 source: xml
 outdated: false
 ---
-
-The forward value used as part of this type's public representation.

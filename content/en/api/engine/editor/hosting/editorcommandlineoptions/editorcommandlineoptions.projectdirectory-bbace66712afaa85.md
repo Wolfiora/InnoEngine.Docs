@@ -13,5 +13,3 @@ reviewed: c52d0aceb5dec5d4fe34cb01541ef67005fc889cbcd03d66e26c93cdd34592ee
 source: xml
 outdated: false
 ---
-
-Gets the caller-selected authoring project.

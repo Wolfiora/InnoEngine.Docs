@@ -13,5 +13,3 @@ reviewed: c92c1b3155cd5602d5fc7ee8276bd9edbfe65b81b2263c7ab7094d68b3bfde4e
 source: xml
 outdated: false
 ---
-
-Gets or sets the content pack file name relative to the packaged Content directory.

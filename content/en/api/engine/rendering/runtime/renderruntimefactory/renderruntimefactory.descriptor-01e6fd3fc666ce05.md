@@ -13,5 +13,3 @@ reviewed: fbba4b455ead055bfedabadae24b474a90cc916e6858995a28c5ca6592ead09d
 source: xml
 outdated: false
 ---
-
-Gets stable ordering metadata that places rendering after simulation features.

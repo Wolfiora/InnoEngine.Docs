@@ -13,5 +13,3 @@ reviewed: 67e22061e842f9e1ddffef5f36f2e402dc1c984f2ff1c321fe3369ad5c978654
 source: xml
 outdated: false
 ---
-
-Requests stopping all active coroutines.

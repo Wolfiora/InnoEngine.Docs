@@ -13,5 +13,3 @@ reviewed: ce407e3cbf13425e76a24e77323231ed4bfb20035e0d506b692f6a1da9a4baed
 source: xml
 outdated: false
 ---
-
-Gets the authoritative asset pipeline used by source inspectors.

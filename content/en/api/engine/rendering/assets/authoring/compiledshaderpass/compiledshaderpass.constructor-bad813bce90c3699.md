@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a compiled pass artifact.
-
 ## Parameters
 
 **Parameter `definition`:** Stable pass definition.

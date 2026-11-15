@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a detached copy of the serialized runtime graph.
-
 ## Returns
 
 A payload copy owned by the caller.

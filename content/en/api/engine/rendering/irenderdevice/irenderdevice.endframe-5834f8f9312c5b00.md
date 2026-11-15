@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ends all encoders and advances the graphics backend exactly once.
-
 ## Returns
 
 The backend frame number after submission.

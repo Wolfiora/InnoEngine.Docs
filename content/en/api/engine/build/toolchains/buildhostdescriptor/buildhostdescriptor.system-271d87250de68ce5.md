@@ -13,5 +13,3 @@ reviewed: 084d04ddca781204fb7aa766c46744e8450caffa57b789aebf7beccc47ea2060
 source: xml
 outdated: false
 ---
-
-Gets the operating system on which tools execute.

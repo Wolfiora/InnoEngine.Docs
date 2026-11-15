@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an interleaved vertex layout.
-
 ## Parameters
 
 **Parameter `attributes`:** Unique attributes in ascending byte order. Attributes with offset -1 are packed after the preceding attribute.

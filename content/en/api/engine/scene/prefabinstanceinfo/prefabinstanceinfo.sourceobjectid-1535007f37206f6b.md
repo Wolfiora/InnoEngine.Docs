@@ -13,5 +13,3 @@ reviewed: 10a00f04ee6cd6ed0dde00d90ca2d60163963ef990f84faf0683ddb345c1ccbd
 source: xml
 outdated: false
 ---
-
-Gets the source-local identity represented by this object.

@@ -13,5 +13,3 @@ reviewed: 97e983c9724da36e01991aeec388892979becaaa0c8d1e4f929e996df5808c80
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadRStickDown presentation key or modifier.

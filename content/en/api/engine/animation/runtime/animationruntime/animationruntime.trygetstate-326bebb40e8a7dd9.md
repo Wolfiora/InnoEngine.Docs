@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read the state and clip-local time of one live playback.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle produced by this runtime generation.

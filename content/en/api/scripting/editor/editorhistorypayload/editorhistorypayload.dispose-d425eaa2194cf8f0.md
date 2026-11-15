@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Releases the resident or temporary disk storage owned by this payload.

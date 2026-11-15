@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether this canvas owns a pan gesture, including while the pointer is outside its bounds.

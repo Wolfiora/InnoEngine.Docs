@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a material metadata entry.
-
 ## Parameters
 
 **Parameter `key`:** Stable provider-defined key.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a caller-owned audio service using this implementation.
-
 ## Parameters
 
 **Parameter `options`:** Backend-neutral device creation options.

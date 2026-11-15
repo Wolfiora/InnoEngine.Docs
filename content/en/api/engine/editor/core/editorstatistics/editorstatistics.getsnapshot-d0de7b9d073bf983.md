@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a deterministic snapshot combining current contributions with the previous completed frame for providers that draw after their consumer.
-
 ## Returns
 
 An immutable, sorted snapshot containing at most one value for each stable statistic ID. Unchanged content reuses the same snapshot; previously returned snapshots remain valid.

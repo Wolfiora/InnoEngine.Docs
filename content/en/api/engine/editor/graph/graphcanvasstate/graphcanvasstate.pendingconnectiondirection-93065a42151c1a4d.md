@@ -13,5 +13,3 @@ reviewed: 90e5191ebd864a4288c4b671424c50bb27970a23e5c544bdf8f6ab9bc1c6d3cf
 source: xml
 outdated: false
 ---
-
-Gets the direction of `P:Inno.Editor.Graph.GraphCanvasState.pendingConnection`.

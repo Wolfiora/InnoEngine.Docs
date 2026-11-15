@@ -13,5 +13,3 @@ reviewed: 63b0eba2ca1c766d6a17a041d7bc7f320a2e6bf63b59862b2f075291f31d677b
 source: xml
 outdated: false
 ---
-
-A newer request replaced this request before its candidate could activate.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases generation-scoped pipeline state.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Pipeline work is still active. The owner must retain this instance and retry before releasing dependencies.

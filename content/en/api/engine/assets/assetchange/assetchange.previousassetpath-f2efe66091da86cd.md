@@ -13,5 +13,3 @@ reviewed: 700233f8aca9e2882da220e2d75c745dd0b80e0d15cce7abf5f8cd1d67c59e32
 source: xml
 outdated: false
 ---
-
-Gets the previous isolated path for move operations.

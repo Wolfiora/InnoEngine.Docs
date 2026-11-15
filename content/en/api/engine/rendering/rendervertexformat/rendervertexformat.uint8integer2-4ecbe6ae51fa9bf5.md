@@ -13,5 +13,3 @@ reviewed: 5cab6f2814d233a37e90d3f435d36988d99ed4bf911b10e2e348dc79a828d362
 source: xml
 outdated: false
 ---
-
-Two unsigned bytes interpreted as integers.

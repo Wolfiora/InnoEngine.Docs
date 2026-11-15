@@ -13,5 +13,3 @@ reviewed: 8ec4b9de5d2f15b1f3bd923309ee1f54f244ad092933aecc7ebbcea99f2af694
 source: xml
 outdated: false
 ---
-
-Gets child transforms in sibling order.

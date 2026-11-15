@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, sets the position within the current stream.
-
 ## Parameters
 
 **Parameter `offset`:** A byte offset relative to the `origin` parameter.

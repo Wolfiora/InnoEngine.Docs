@@ -13,5 +13,3 @@ reviewed: 204857230cc981396abfa9a22319f2cac2099f99d3a4e8f3dc1c7eb1832dde6d
 source: xml
 outdated: false
 ---
-
-Gets the number of removed or non-deserializable properties ignored by schema matching.

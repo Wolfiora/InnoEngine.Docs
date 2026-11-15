@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Writes one named build output.
-
 ## Parameters
 
 **Parameter `outputName`:** The stable output name.

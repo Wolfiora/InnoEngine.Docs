@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Captures host-owned SDK selection and application location without probing global process state.

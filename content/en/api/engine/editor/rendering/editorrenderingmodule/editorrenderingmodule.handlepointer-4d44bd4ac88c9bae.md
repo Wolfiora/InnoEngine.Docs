@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Forwards a normalized click to the selected model controller.
-
 ## Parameters
 
 **Parameter `kind`:** Open viewport purpose.

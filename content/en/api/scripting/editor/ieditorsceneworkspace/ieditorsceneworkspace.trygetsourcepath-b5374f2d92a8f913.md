@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the current source-relative asset path of a saved scene.
-
 ## Parameters
 
 **Parameter `scene`:** The scene whose path is requested.

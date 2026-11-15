@@ -13,5 +13,3 @@ reviewed: 12d75edb00a2646cbaa393eccd120471510d65f7652d993f56daed948e53c56e
 source: xml
 outdated: false
 ---
-
-Gets the selected rendering backend.

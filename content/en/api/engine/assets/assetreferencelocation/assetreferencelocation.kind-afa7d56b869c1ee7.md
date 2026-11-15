@@ -13,5 +13,3 @@ reviewed: bd65c7148fd0e150941bc8892446b395cfdbabe1a1938a86d683f11ea6b44bdd
 source: xml
 outdated: false
 ---
-
-Gets the category of the known reference.

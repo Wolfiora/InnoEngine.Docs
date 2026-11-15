@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits publication after all dependent changes apply successfully.
-
 ## Returns
 
 A weak probe observing retired contexts; success is not reported until it completes.

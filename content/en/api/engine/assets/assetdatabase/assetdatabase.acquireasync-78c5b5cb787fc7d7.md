@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a canonical runtime asset by persistent identity for an explicit residency lifetime.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required runtime asset contract.

@@ -13,5 +13,3 @@ reviewed: 913065a93aa4ba588657e8c492383645aa16630354a1ab269aacf980f082635e
 source: xml
 outdated: false
 ---
-
-Gets the complete slash-delimited placement path.

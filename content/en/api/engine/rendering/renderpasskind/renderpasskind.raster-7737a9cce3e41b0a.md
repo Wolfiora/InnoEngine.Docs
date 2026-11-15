@@ -13,5 +13,3 @@ reviewed: b3bf503cd4158106d253a5f2b1e632dc13cc08b1337f3009faaee4fa217f3d0a
 source: xml
 outdated: false
 ---
-
-Raster draw commands with optional attachments.

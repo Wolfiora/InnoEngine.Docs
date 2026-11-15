@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves material keyword selections against an exact published shader contract.
-
 ## Parameters
 
 **Parameter `material`:** Material whose selected options are evaluated.

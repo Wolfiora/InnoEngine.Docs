@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Isolated runtime scenes are receiving the game update lifecycle.

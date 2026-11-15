@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Describes the execution and native-link capabilities of one publisher over explicit runtime targets.

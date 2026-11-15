@@ -13,5 +13,3 @@ reviewed: a414b8c1f63bd9779e84c6f490a2d8481af453c388ef458f5a0c629f1867f17d
 source: xml
 outdated: false
 ---
-
-Identifies the ImGuiModShift presentation key or modifier.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-taskhosting
 aliases: []
 ---
-
-Claims bootstrap storage before SDK compilation without depending on the full task runtime.

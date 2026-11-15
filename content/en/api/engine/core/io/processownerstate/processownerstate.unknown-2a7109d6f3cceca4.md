@@ -13,5 +13,3 @@ reviewed: 01146a93f732fecdb39132d786b2f6c1775c9ece5bf6221fbc80c52cf4873670
 source: xml
 outdated: false
 ---
-
-Ownership cannot be verified; dependent files must remain protected.

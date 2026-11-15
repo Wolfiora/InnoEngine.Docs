@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts preparation of one decoded or streamed clip from immutable encoded content.
-
 ## Parameters
 
 **Parameter `descriptor`:** Encoded artifact and preparation requirements.

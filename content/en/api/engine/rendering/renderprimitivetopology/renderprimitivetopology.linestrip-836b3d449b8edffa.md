@@ -13,5 +13,3 @@ reviewed: 377bcaaceab44c5055ebff4cc96337a3007c8de0f2bbceeb98ca66aaed1f2026
 source: xml
 outdated: false
 ---
-
-Connected line strip.

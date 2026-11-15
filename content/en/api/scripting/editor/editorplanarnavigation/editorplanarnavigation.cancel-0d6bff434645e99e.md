@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Releases capture when a canvas closes or a gesture is cancelled.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Stores a storage value without pruning unused writes or reordering surrounding memory operations.
-
 ## Parameters
 
 **Parameter `resource`:** A writable typed storage input.

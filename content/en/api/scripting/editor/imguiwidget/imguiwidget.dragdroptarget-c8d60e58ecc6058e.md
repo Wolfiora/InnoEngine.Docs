@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Accepts an unmanaged payload on an explicit screen-space rectangle.
-
 ## Type parameters
 
 **Type parameter `TPayload`:** Unmanaged payload type.

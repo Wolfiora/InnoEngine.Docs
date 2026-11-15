@@ -13,5 +13,3 @@ reviewed: 44ea040430757551d31c0f0b06c078f7fc8f5426d918d4511975eceff39efbd1
 source: xml
 outdated: false
 ---
-
-Gets the revision of the active effective settings snapshot, paired with ownerId. A generation rollback may restore its previous revision with the corresponding effective values.

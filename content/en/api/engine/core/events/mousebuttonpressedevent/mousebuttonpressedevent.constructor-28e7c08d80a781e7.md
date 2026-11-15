@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Raised when a mouse button is pressed.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: 52ab37ef461cef53034135009aebdceec9d6f9980aa238e5667e4b6a1890ef9d
 source: xml
 outdated: false
 ---
-
-Gets or sets optional presentation features requested by the host.

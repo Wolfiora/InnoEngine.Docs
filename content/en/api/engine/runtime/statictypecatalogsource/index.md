@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Resolves type metadata and factories from linked registrations without runtime type discovery.

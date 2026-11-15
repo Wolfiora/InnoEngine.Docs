@@ -13,5 +13,3 @@ reviewed: 7296916e84b1440c121677b1dfd534488bd7a7901f114930325b668776118f3e
 source: xml
 outdated: false
 ---
-
-Gets a snapshot with no active input.

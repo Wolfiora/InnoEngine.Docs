@@ -13,5 +13,3 @@ reviewed: 1956595e4002d129be698abf77e3f2fa1e16e2fe0b574d765eae0056784cb76f
 source: xml
 outdated: false
 ---
-
-Gets the stable menu ordering value.

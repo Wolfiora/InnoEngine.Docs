@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers with the owner type catalog.
-
 ## Parameters
 
 **Parameter `types`:** Catalog that outlives this registry.

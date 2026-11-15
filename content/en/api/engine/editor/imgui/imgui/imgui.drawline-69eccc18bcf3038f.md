@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a line to the current window draw list.
-
 ## Parameters
 
 **Parameter `start`:** The screen-space start point.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable keeping column always minimally visible when ScrollX is off and table gets too small. Not recommended if columns are resizable.

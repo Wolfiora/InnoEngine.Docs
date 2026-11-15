@@ -13,5 +13,3 @@ reviewed: e833d2e6555d0a1f3ffcd6663f50beb9a387ffd2017d2689fca44da9fb4fb355
 source: xml
 outdated: false
 ---
-
-Gets the corner rounding of compact colored label chips.

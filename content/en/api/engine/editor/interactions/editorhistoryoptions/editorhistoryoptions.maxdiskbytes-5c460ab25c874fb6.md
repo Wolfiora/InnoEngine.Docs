@@ -13,5 +13,3 @@ reviewed: d7903818e4846b928ea12108c3da703629fabac94696cf04a1887bb034d67a68
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum payload bytes retained in the temporary disk store.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Writes complete log entries to uniquely named rotating files under the router's delivery policy.

@@ -13,5 +13,3 @@ reviewed: 6aa4282d6d150bcc581417ec5392c8bf59eee1bbe483f0e0dcf5e67f3878133c
 source: xml
 outdated: false
 ---
-
-Gets the required target type, or `null` for a targetless action.

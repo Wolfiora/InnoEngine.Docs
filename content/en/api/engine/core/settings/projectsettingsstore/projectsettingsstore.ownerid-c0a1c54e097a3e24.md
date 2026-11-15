@@ -13,5 +13,3 @@ reviewed: 59234691b14b929a3f6419fa34e70a9004be060d81146eadb385d51397327da6
 source: xml
 outdated: false
 ---
-
-Gets the unique, non-persistent lifetime identity used with the effective snapshot revision.

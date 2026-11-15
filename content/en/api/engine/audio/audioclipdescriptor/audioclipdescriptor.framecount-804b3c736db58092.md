@@ -13,5 +13,3 @@ reviewed: af7374a042f0b8433743f6b9f6d60a2e2cab33fcefe980407c9dca7fc425e31f
 source: xml
 outdated: false
 ---
-
-Gets the total decoded frame count, or zero when unknown.

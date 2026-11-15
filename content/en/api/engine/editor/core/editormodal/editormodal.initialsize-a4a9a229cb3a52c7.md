@@ -13,5 +13,3 @@ reviewed: 1fdee6ea90111aa9931a8937943748031017f90ee5c3da67806a5e12be04f9ea
 source: xml
 outdated: false
 ---
-
-Gets the initial modal size in unscaled editor units, or `P:System.Numerics.Vector2.Zero` when the runtime should size the modal from its content.

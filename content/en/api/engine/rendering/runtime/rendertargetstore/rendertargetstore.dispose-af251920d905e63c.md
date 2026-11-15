@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues all owned resources for device-safe destruction.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A backend resource is still active. Remaining resources stay owned until disposal is retried.

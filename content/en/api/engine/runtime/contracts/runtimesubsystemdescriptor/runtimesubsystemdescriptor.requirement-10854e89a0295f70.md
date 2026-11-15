@@ -13,5 +13,3 @@ reviewed: 0ad54b69c5c02f20464e825fcff67210483ff0ac269a2088238a59f25ed12eee
 source: xml
 outdated: false
 ---
-
-Gets whether this subsystem must start for its owner to become available.

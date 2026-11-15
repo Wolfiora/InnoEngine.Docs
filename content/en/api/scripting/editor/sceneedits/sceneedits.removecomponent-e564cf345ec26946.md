@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes the component from its scene owner and records a reversible serialized history change.
-
 ## Parameters
 
 **Parameter `component`:** The attached non-Transform component to remove.

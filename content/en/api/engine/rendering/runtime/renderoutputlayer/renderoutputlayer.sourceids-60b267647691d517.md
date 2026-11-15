@@ -13,5 +13,3 @@ reviewed: fd8687c46cc4c3c9be46cf5fe53d694845019e7f98a6d47583d1816fd165db5b
 source: xml
 outdated: false
 ---
-
-Gets the assigned world-content source IDs.

@@ -13,5 +13,3 @@ reviewed: 765b57c48e6b8ccdd40c4a16e1095e01f1b89f7ad04cd59fcd906f79ef05b4ec
 source: xml
 outdated: false
 ---
-
-Disable user moving the window

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets host-owned neutral presentation state for an open document.
-
 ## Parameters
 
 **Parameter `assetId`:** Persistent source identity.

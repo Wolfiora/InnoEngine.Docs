@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-generators
 aliases: []
 ---
-
-Generates deterministic, reflection-free catalogs from local strongly typed subsystem declarations.

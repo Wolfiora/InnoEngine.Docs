@@ -13,5 +13,3 @@ reviewed: fdaf2f866875e5c23a49cfc9119fd69be232786b1f0238d4e3cf2a5f4c11f620
 source: xml
 outdated: false
 ---
-
-Gets the total number of matching occurrences.

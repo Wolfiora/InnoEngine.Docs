@@ -13,5 +13,3 @@ reviewed: 2695715e594566a5aa534ea81b63d57d32080d16b23b594f1dff6164f45e1c0f
 source: xml
 outdated: false
 ---
-
-Gets the host and active module assemblies in this generation.

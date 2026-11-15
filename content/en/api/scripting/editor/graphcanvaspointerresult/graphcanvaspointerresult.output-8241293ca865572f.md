@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a requested connection's output endpoint; its domain type still requires validation.

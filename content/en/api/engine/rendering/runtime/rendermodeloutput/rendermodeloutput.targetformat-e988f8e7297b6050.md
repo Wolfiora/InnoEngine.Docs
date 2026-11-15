@@ -13,5 +13,3 @@ reviewed: 16c7664968499794e00145f06f3612d97c21f36690aad2e745402462efdadefd
 source: xml
 outdated: false
 ---
-
-Gets required target format.

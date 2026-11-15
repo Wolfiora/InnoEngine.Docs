@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes and destroys a specific attached component.
-
 ## Parameters
 
 **Parameter `component`:** GameComponent instance to remove.

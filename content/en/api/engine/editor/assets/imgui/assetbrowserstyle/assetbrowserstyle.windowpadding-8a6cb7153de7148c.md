@@ -13,5 +13,3 @@ reviewed: 76df431c530d8439799574e4f2230a97b6c7efda3530f3619e2cdc6e78244c3c
 source: xml
 outdated: false
 ---
-
-Gets asset browser window padding.

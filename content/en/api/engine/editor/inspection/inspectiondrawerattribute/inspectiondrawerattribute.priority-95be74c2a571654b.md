@@ -13,5 +13,3 @@ reviewed: fdc6aaa348682b632b9939ce4391394c07f2a2ff3b70fefe62023f27e6230491
 source: xml
 outdated: false
 ---
-
-Gets the tie-breaking registration priority.

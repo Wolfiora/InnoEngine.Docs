@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a neutral Inspector selection separate from the Asset Browser's navigation.
-
 ## Parameters
 
 **Parameter `assetId`:** Persistent shader asset identity.

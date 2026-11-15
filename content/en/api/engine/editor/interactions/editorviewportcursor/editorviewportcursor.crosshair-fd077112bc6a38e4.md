@@ -13,5 +13,3 @@ reviewed: 02177b9d736c134f5ff55c0c06940b5069da64caf435e01e135ae59cf0064522
 source: xml
 outdated: false
 ---
-
-Uses a precise crosshair.

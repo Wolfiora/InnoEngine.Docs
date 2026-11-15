@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Resolves and validates installed Player Support Packs without loading authoring services.

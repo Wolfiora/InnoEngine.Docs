@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the reference for an active CLR type.
-
 ## Parameters
 
 **Parameter `type`:** The active CLR type.

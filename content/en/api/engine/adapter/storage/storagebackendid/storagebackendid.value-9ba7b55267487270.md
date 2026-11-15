@@ -13,5 +13,3 @@ reviewed: 678f6176bf6704f29d0ec25f42740b415c45406a8e7f8808db582faa6eb7fed8
 source: xml
 outdated: false
 ---
-
-Gets the stable identifier; a default value is unassigned.

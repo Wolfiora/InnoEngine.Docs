@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a section heading with hover-only description using the shared Inspector presentation.
-
 ## Parameters
 
 **Parameter `title`:** Section title.

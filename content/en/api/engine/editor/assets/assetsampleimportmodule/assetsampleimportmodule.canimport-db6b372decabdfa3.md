@@ -13,5 +13,3 @@ reviewed: 0ef34ccb7acd6e9e2fee9f4c080ed1f5b66562761581997dd9a923f8c19e5b73
 source: xml
 outdated: false
 ---
-
-Gets whether the current authoring generation admits a new sample import.

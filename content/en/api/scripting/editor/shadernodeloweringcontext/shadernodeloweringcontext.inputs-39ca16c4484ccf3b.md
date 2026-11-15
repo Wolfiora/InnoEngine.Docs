@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets connected values keyed by semantic input port identity, never connection order.

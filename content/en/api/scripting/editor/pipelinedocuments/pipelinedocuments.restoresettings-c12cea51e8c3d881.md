@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores detached settings using the current type and serialization generation.
-
 ## Parameters
 
 **Parameter `state`:** Neutral settings retaining their stable type identity and properties.

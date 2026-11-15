@@ -13,5 +13,3 @@ reviewed: 57ded09fdc1a38432153f3c2ceddfe984d3352b705de08419c31d368e3017674
 source: xml
 outdated: false
 ---
-
-Gets the lightbulb glyph used by standard Editor controls.

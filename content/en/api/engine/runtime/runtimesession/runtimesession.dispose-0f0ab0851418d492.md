@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases scene, asset, scheduling, serialization, and logging ownership for this session.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Session work has not drained or a shared generation still owns live dependencies.

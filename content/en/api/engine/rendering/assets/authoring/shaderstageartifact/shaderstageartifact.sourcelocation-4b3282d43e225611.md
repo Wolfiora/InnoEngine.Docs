@@ -13,5 +13,3 @@ reviewed: 793c36d12d853b0edd0e01903c8cbb2e183bd238339e23bb870db9190a126117
 source: xml
 outdated: false
 ---
-
-Gets the original source mapping.

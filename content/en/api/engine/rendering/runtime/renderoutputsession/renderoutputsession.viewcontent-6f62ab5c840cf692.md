@@ -13,5 +13,3 @@ reviewed: 417afd9a7270ca1a41dfec3211c71f5a77a3489312eb92db0f55965252044b22
 source: xml
 outdated: false
 ---
-
-Gets the world content collector.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Selects the arithmetic operation combining source and destination blend terms.

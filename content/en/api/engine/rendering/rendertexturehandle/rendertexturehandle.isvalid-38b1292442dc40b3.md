@@ -13,5 +13,3 @@ reviewed: 9f6043970f3a90407dbfbe0f7c65d9f6577cdf9e0a38d2bfec4a0d68bcea4d8b
 source: xml
 outdated: false
 ---
-
-Gets whether the handle was created by a render graph.

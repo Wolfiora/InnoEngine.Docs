@@ -13,5 +13,3 @@ reviewed: 16511d05ebe7e52fc25bafc4626cc240350dba148f051ffab348b659f6076443
 source: xml
 outdated: false
 ---
-
-Gets complete platform registrations in their explicit composition order.

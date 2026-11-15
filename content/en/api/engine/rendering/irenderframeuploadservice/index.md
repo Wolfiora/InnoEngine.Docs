@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Streams immutable CPU data into reusable GPU pages for the current frame.

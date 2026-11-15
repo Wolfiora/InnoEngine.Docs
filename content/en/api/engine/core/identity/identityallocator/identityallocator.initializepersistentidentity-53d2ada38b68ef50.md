@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Assigns a persistent identity to a detached object without allocating a runtime identity.
-
 ## Parameters
 
 **Parameter `obj`:** The detached identity object to initialize.

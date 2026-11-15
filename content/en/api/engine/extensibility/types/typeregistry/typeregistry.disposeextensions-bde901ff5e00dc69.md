@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retires distinct disposable extensions in reverse order, draining pending work before lower dependencies.
-
 ## Parameters
 
 **Parameter `extensions`:** Instances whose ownership has ended; duplicate references are disposed once.

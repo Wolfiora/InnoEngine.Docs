@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires immutable views while transferring the generation lifetime to the contribution.
-
 ## Parameters
 
 **Parameter `moduleName`:** The stable module name.

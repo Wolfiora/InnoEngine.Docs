@@ -13,5 +13,3 @@ reviewed: ed088ff2867401514f080dd445fc2e654d21f3a43e843df520491ad5bb973662
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Return true after style.HoverDelayNormal elapsed (~0.40 sec) (shared between items) + requires mouse to be stationary for style.HoverStationaryDelay (once per item).

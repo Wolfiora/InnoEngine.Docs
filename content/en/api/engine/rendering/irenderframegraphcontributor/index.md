@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Adds transient frame-final work, such as UI composition, without owning or advancing the graphics frame.

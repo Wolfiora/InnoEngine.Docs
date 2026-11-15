@@ -13,5 +13,3 @@ reviewed: 76bd6d4bfcd925a4143d547ba3e7e5ebb6dae28ee53333fdf5d52f4d82aaf995
 source: xml
 outdated: false
 ---
-
-The G letter key.

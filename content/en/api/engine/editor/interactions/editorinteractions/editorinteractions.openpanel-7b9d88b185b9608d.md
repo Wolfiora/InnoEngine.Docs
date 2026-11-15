@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens and requests presentation focus for one panel in the active extension generation.
-
 ## Parameters
 
 **Parameter `panelId`:** The stable panel identifier to resolve.

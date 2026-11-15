@@ -13,5 +13,3 @@ reviewed: 996f25d5105140bcb4008dcad37bb6e1c5d73baa482b73e2bdb55620ca048aa8
 source: xml
 outdated: false
 ---
-
-Whether this root denotes the selected native output directory.

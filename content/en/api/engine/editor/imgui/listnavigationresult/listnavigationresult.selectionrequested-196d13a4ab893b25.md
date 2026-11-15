@@ -13,5 +13,3 @@ reviewed: 82f9309613dd0264c6823b89a5035a315ce3b2b905cf0782b1be07cedb37e7b2
 source: xml
 outdated: false
 ---
-
-Gets whether the caller should apply a domain selection operation.

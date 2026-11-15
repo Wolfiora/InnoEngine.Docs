@@ -13,5 +13,3 @@ reviewed: bd0b224ed81afb7367405dbe3f3383a930176e73b8e084fa89a4a730b690bfb4
 source: xml
 outdated: false
 ---
-
-Gets the shared editor context.

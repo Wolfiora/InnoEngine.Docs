@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the exclusively owned fixed managed execution planned by this preparation identity.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels materialization without changing any installed Pack.

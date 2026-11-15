@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an issue after the represented condition no longer exists.
-
 ## Parameters
 
 **Parameter `code`:** The stable issue code.

@@ -13,5 +13,3 @@ reviewed: f73329a04d15824500d9538b509ac06448dd7b36b8091ebc5c0f3842c2a371e1
 source: xml
 outdated: false
 ---
-
-The F1 function key.

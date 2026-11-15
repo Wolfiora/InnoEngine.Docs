@@ -13,5 +13,3 @@ reviewed: b3a9025bbbf964703251055007f417eabb205211f94814c568c35ea4b4793f85
 source: xml
 outdated: false
 ---
-
-Gets the number of pending events, including producer reservations.

@@ -13,5 +13,3 @@ reviewed: 36679647166c3fe901d0d0b94954df39351d8ea9a853df0c86210a9b57001d81
 source: xml
 outdated: false
 ---
-
-Gets immutable tightly packed bytes.

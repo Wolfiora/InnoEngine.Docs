@@ -13,5 +13,3 @@ reviewed: 7889990bb061b6180b332e9aa01dd941fe647c0f78157b8350836999f8ea4d9f
 source: xml
 outdated: false
 ---
-
-Gets the alternate collection row background.

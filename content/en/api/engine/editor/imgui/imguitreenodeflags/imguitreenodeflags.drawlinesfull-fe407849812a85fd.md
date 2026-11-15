@@ -13,5 +13,3 @@ reviewed: 308c56e1935ce1ad46a0a0578e721147cb811a3bd890ff36cad0f53301f86fe4
 source: xml
 outdated: false
 ---
-
-Horizontal lines to child nodes. Vertical line drawn down to TreePop() position: cover full contents. Faster (for large trees).

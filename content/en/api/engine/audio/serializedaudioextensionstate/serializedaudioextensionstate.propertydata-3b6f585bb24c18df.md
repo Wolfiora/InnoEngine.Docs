@@ -13,5 +13,3 @@ reviewed: f2fe119e67719365c5ee18fbf3057386a233c06aef9cdc0918ea34d355c52789
 source: xml
 outdated: false
 ---
-
-Gets or sets neutral serialized property bytes.

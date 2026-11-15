@@ -13,5 +13,3 @@ reviewed: 63049e66aed4614041cc91e9d595f0c3aed48d8844628d321fa1409c559788ec
 source: xml
 outdated: false
 ---
-
-Restores the previous publication and retires discarded candidates.

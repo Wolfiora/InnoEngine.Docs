@@ -13,5 +13,3 @@ reviewed: 8dcd76e0165a53b62288c0f63e6d6440704f1c48a5c3e08a03b1f0b29fd3d61d
 source: xml
 outdated: false
 ---
-
-Selects the input hsv presentation behavior.

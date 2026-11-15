@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws clickable text centered inside an explicitly sized transparent interaction area.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.

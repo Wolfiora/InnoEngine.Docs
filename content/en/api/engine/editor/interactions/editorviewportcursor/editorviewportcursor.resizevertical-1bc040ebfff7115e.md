@@ -13,5 +13,3 @@ reviewed: 2e42fd9c87b08794212cccc9237410d1f04f394d3b0cd1bf80c3aa1986d31fcf
 source: xml
 outdated: false
 ---
-
-Uses vertical resizing arrows.

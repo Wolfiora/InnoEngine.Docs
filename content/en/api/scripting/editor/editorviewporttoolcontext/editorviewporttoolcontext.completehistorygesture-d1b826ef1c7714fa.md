@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Commits or rolls back the current gesture transaction exactly once.
-
 ## Parameters
 
 **Parameter `commit`:** `true` to commit; otherwise, roll back.

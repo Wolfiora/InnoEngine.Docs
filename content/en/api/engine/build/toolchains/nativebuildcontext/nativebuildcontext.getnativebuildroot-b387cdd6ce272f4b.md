@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves native intermediates under the owning toolchain project in this checkout.
-
 ## Parameters
 
 **Parameter `component`:** The explicit component descriptor whose recipe project owns native intermediates.

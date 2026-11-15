@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates mute state for one bus.
-
 ## Parameters
 
 **Parameter `bus`:** Bus owned by the current device generation.

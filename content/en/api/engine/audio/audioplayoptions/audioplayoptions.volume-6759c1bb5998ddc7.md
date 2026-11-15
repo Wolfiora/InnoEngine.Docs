@@ -13,5 +13,3 @@ reviewed: 236843ee08745cb6658d70abd80b66361335ae37d0220a9853a67a04028c78ca
 source: xml
 outdated: false
 ---
-
-Gets the linear voice gain.

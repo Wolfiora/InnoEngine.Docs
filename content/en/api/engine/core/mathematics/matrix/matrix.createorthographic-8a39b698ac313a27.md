@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an orthographic projection matrix (depth range 0..1).
-
 ## Parameters
 
 **Parameter `width`:** View width.

@@ -13,5 +13,3 @@ reviewed: 4f3da6b13a606f4bc903124c031c3256583456d743c6fe69aa8e38e956003098
 source: xml
 outdated: false
 ---
-
-React on left mouse button (default)

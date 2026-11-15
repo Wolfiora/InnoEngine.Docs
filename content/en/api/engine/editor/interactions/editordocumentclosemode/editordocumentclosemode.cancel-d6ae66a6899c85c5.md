@@ -13,5 +13,3 @@ reviewed: 22ac1b7033438cdc3f7e93569aad766b987acf912df8cd6f86dacd0dc7c00288
 source: xml
 outdated: false
 ---
-
-Keeps the document open.

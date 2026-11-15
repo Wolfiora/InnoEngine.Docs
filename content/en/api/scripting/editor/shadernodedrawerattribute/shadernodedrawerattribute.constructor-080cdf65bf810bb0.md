@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Associates the drawer with one stable node definition.
-
 ## Parameters
 
 **Parameter `definitionId`:** The compiler-independent graph node identity.

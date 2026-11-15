@@ -13,5 +13,3 @@ reviewed: d73b8dcc5a12d3522f490b6acb87e23691539f33967bdefc1700cc38b027fc82
 source: xml
 outdated: false
 ---
-
-Chooses the last item as the default selection in an appearing popup.

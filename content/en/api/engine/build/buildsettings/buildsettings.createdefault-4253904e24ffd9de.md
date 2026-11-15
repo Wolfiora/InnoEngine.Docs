@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates canonical defaults for a new project.
-
 ## Parameters
 
 **Parameter `projectName`:** The project directory name used for initial labels and output paths.

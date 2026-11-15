@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents one frame-resolved material pass and its material-owned bindings.
-
 ## Remarks
 
 The instance is scoped to the active render device generation. Pipeline-owned graph textures and buffers remain explicit and are bound by the caller after this material state is applied.

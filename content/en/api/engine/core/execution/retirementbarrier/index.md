@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---
-
-Bounds owner-thread retirement attempts without taking resource ownership or releasing pending dependencies.

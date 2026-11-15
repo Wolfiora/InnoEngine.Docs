@@ -13,5 +13,3 @@ reviewed: c68ca7d9e2e7c82b8983ef345bd8d24031aa4506b48cbf480533bef20c290e85
 source: xml
 outdated: false
 ---
-
-Whether cancellation is draining work.

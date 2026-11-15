@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates destination and product inputs without mutating output.
-
 ## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the request is incomplete.

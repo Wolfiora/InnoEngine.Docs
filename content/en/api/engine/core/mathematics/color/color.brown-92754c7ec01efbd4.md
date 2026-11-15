@@ -13,5 +13,3 @@ reviewed: 4c81bb8ed4058f98f1c0a4054c508b4f45b9323244c58ce7507f2762159d924e
 source: xml
 outdated: false
 ---
-
-The brown value used as part of this type's public representation.

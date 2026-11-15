@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Hashes the domain-qualified runtime destination.
-
 ## Returns
 
 A hash consistent with destination equality.

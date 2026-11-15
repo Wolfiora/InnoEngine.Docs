@@ -13,5 +13,3 @@ reviewed: 25e15925673a029c7a8ebb89134a9336bfbcc843636322df34f081ffe35e7fe3
 source: xml
 outdated: false
 ---
-
-Gets a snapshot that clears gameplay interaction while retaining the rendered output.

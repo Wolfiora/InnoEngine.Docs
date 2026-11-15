@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Derives a control identity from the current window and ID stack.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional stable ID suffix.

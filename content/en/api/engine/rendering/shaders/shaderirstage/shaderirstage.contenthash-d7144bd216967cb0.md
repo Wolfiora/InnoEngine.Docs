@@ -13,5 +13,3 @@ reviewed: 63a80480f221a44a0584ad3ca4726f6063ce105a97f97055a92d1292ca5dd6db
 source: xml
 outdated: false
 ---
-
-Gets a deterministic hash of stage semantics, ordered effects, nested regions, complete types, resource layout and frozen sources. A compiled artifact cache must additionally include toolchain identity, target capabilities, optimization and variant configuration.

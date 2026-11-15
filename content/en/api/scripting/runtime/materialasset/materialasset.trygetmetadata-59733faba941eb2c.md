@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one provider-defined metadata value.
-
 ## Parameters
 
 **Parameter `key`:** Stable metadata key.

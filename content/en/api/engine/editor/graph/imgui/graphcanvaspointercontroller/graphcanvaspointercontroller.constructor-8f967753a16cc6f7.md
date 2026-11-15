@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a pointer owner over existing document navigation and selection state.
-
 ## Parameters
 
 **Parameter `state`:** The existing canvas state, which remains the selection and pending-connection authority.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures and validates the project-authored delta as one prospective Plugin contribution.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting identifier.

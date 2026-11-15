@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies reload-safe settings to this feature generation.
-
 ## Parameters
 
 **Parameter `configuration`:** Stable feature configuration.

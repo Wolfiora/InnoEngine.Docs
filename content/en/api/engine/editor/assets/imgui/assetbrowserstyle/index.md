@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets-imgui
 aliases: []
 ---
-
-Freezes Browser-specific layout values from the shared UI scale without retaining a session. The default value uses the standard 100 percent scale.

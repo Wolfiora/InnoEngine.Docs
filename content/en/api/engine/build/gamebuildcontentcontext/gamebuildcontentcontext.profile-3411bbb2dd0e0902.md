@@ -13,5 +13,3 @@ reviewed: 3f8efa9381b7ade8e57b7cca60149b093195126783405dfc716105b54d7e9ec3
 source: xml
 outdated: false
 ---
-
-Gets the validated product and target profile.

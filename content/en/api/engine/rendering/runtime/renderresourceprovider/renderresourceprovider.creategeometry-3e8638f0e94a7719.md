@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates generation-scoped resolved geometry from persistent buffers and immutable sections.
-
 ## Parameters
 
 **Parameter `vertexBuffer`:** The persistent vertex buffer.

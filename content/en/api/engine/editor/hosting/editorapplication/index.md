@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-hosting
 aliases: []
 ---
-
-Runs the shared Editor product with explicitly supplied platform and publication composition.

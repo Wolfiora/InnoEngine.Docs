@@ -13,5 +13,3 @@ reviewed: 10cb75fbc543854d50e32575e1e576db6f69740a07a156710185a2d6ac974110
 source: xml
 outdated: false
 ---
-
-Gets the virtual source address.

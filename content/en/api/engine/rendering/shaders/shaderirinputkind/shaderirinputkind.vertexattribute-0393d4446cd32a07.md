@@ -13,5 +13,3 @@ reviewed: f905bb79b1574f86334ba7f50d065639dcf519d83b3021ea9c849465879ab196
 source: xml
 outdated: false
 ---
-
-A vertex stream attribute, including instance-rate streams.

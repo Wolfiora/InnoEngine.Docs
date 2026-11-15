@@ -13,5 +13,3 @@ reviewed: 1c18ab4ec47a78cb40390bf92f2f614501b7c5801a240da4cec48b2e2993b43f
 source: xml
 outdated: false
 ---
-
-Gets actual hashing and native execution work accumulated by this operation and its scoped contexts.

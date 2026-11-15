@@ -13,5 +13,3 @@ reviewed: 312fc572bff59738d9ccab85b80b7708d76c5442719ea602c87557822730c846
 source: xml
 outdated: false
 ---
-
-Gets the file lines glyph used by standard Editor controls.

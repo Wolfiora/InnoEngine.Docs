@@ -13,5 +13,3 @@ reviewed: 582c776a3fd05149fe61209b9fd25c077b622e493eba717bc915bd5b71e2d857
 source: xml
 outdated: false
 ---
-
-Gets whether playback loops at the clip end.

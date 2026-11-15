@@ -13,5 +13,3 @@ reviewed: 51a00fc528fbfbebd704dc6c7e95e1dfe914bb5addd6b20b8f4274b2f97619d7
 source: xml
 outdated: false
 ---
-
-Identifies the LeftArrow presentation key or modifier.

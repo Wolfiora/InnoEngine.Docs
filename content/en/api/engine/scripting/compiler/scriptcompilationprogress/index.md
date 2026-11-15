@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Describes monotonic progress through one script compilation.
-
 ## Parameters
 
 **Parameter `fraction`:** The completed fraction in the inclusive range from zero to one.

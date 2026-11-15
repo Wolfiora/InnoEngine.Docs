@@ -13,5 +13,3 @@ reviewed: db9a2a5b31f09e2c072c75689324569de7bfa2c4be007645e0a1d1e0a3e9abe1
 source: xml
 outdated: false
 ---
-
-Gets the immutable input state captured at the beginning of the current frame.

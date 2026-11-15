@@ -13,5 +13,3 @@ reviewed: a8a5b2d6649deab2a3ef5a8369b8cbd26b441cad87455b8bf12bd29fb5aa5ebc
 source: xml
 outdated: false
 ---
-
-Gets the stop glyph used by standard Editor controls.

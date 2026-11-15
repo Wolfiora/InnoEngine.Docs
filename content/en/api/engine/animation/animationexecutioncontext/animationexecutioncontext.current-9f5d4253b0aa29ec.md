@@ -13,5 +13,3 @@ reviewed: e9def9f4b94a698e002f7b52e39cd44d695527c6f89cbf7919b3f0d626a3452d
 source: xml
 outdated: false
 ---
-
-Gets the animation service bound to the current execution context.

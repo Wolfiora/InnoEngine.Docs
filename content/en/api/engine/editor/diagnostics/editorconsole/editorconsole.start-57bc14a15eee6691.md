@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attaches this service to the process logging, diagnostic, and Play Mode sources.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this service has been disposed.

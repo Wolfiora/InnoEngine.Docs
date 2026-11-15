@@ -13,5 +13,3 @@ reviewed: d7d7db8f5810be1cf695223e81d3ac2b856f93ff0e149aaee02cb5180ec92f67
 source: xml
 outdated: false
 ---
-
-Gets the user-facing group heading.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds an audio service until the returned strict last-in-first-out scope is disposed.
-
 ## Parameters
 
 **Parameter `audio`:** Host-owned audio service exposed to script-facing operations.

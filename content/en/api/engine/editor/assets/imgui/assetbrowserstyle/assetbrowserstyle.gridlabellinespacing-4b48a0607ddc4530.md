@@ -13,5 +13,3 @@ reviewed: 4e68c8dbcea23fd9b941670b5da62fdab08dcff2d585cc92da69533f4b896aee
 source: xml
 outdated: false
 ---
-
-Gets the additional vertical spacing between asset grid label lines.

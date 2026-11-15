@@ -13,5 +13,3 @@ reviewed: 5e55e85fe39472a8233ba9efe952138213d105fd9b753c27b9346837c8224224
 source: xml
 outdated: false
 ---
-
-Gets ordered feature configurations.

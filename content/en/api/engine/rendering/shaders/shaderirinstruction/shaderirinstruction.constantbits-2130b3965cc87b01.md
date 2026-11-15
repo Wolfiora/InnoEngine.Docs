@@ -13,5 +13,3 @@ reviewed: 211c35ff8a17d034978c7e3ef44378960f4f16e740e0fa523e35a71fd3008ff1
 source: xml
 outdated: false
 ---
-
-Gets exact scalar bits for a Constant instruction; the result type determines interpretation.

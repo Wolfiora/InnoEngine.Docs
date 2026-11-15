@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a font dependency with its document-private family.
-
 ## Parameters
 
 **Parameter `assetId`:** Persistent font asset identity.

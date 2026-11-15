@@ -13,5 +13,3 @@ reviewed: 51565922ff9641a43df296be523ef4da923e7f7ef8c243d2334c893fe60c5dd6
 source: xml
 outdated: false
 ---
-
-Gets the number of declared passes, including passes not contributing to an output.

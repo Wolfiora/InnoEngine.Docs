@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Set the variable if the object/window is appearing after being hidden/inactive (or the first time)

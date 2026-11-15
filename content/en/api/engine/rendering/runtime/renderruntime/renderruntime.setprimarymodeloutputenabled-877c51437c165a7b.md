@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enables or disables model rendering to the host's primary backbuffer. Editor hosts disable this because their Game and Scene sessions own offscreen outputs.
-
 ## Parameters
 
 **Parameter `enabled`:** Whether the primary backbuffer is a model output.

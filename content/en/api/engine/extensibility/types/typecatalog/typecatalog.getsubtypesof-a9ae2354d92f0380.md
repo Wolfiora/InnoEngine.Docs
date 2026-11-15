@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all non-abstract discovered types assignable to `T`.
-
 ## Type parameters
 
 **Type parameter `T`:** The required base type.

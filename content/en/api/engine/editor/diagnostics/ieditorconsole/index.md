@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---
-
-Exposes read-only editor Console snapshots and explicit retention controls to editor features.

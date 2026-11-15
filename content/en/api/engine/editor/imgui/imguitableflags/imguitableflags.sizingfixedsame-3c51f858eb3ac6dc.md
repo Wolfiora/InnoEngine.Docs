@@ -13,5 +13,3 @@ reviewed: e3ebc0046cacd787c1bb13be57739bb8740f53d2d7af0eae09024d8e77e0ea44
 source: xml
 outdated: false
 ---
-
-Columns default to \_WidthFixed or \_WidthAuto (if resizable or not resizable), matching the maximum contents width of all columns. Implicitly enable ImGuiTableFlags\_NoKeepColumnsVisible.

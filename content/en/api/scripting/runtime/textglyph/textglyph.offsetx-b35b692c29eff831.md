@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The horizontal placement offset from the pen position in logical pixels.

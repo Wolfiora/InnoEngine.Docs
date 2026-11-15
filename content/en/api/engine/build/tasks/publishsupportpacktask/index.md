@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-tasks
 aliases: []
 ---
-
-Connects MSBuild publication to the common atomic Support Pack publisher.

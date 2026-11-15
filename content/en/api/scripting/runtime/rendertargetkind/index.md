@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies whether a request renders to the main swapchain or an offscreen target.

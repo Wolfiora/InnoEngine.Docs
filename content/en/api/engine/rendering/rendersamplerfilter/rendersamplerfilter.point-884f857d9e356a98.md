@@ -13,5 +13,3 @@ reviewed: fc4d19b3ea2ffee8a4186fef0db839257d49ac1ada9ad594788119b919f79efc
 source: xml
 outdated: false
 ---
-
-Uses nearest-neighbor filtering.

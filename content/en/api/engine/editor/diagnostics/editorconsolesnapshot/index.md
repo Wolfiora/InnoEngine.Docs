@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---
-
-Provides one immutable and internally consistent view of editor Console state.

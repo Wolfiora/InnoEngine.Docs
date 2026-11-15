@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering
 aliases: []
 ---
-
-Identifies a rendering implementation independently from its graphics API and compiler language.

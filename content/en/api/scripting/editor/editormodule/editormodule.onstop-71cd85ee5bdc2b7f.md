@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Runs before the module generation is released and its disposable instances are destroyed.
-
 ## Remarks
 
 This includes partial startup compensation. Pending retirement must throw RetirementPendingException and preserve unfinished ownership; completed steps must be idempotent across retries.

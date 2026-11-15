@@ -13,5 +13,3 @@ reviewed: 317f310946b0febe678c47b0aec9c09894467dcf50baf1439c78f80d9487ac3e
 source: xml
 outdated: false
 ---
-
-Identifies the AppBack presentation key or modifier.

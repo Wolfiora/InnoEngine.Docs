@@ -13,5 +13,3 @@ reviewed: a1d7b9c4424c1c8cb1cf7e2d6505cb12fa3efbfd1a6288c623b9e444fab4198b
 source: xml
 outdated: false
 ---
-
-Gets or sets the ordered targets returning the complete hashed runtime closure.

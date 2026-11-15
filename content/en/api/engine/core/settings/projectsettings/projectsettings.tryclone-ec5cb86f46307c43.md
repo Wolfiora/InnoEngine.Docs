@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated editable copy of one effective setting.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting identifier.

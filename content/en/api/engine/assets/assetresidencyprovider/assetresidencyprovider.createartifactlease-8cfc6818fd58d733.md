@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable artifact residency lease.
-
 ## Parameters
 
 **Parameter `artifact`:** Verified artifact metadata retained by the lease.

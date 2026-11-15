@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the capability for diagnostics.
-
 ## Returns
 
 The protocol name, or an empty string for an uninitialized value.

@@ -13,5 +13,3 @@ reviewed: 5cf74e86dba28420a444057a0dd11e3ca26b21a3bc2b8079fbf3b51e9854f305
 source: xml
 outdated: false
 ---
-
-Gets the serialized property renderer.

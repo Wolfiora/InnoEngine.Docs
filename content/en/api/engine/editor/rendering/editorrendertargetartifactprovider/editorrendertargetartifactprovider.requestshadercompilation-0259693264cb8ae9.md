@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Schedules compilation if required and reports saving-independent state for the exact shader, variant and device target.
-
 ## Parameters
 
 **Parameter `shader`:** Current imported shader.

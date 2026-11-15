@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a muted device with deterministic clock and lifecycle behavior.
-
 ## Parameters
 
 **Parameter `sampleRate`:** Positive logical output sample rate used for capability reporting.

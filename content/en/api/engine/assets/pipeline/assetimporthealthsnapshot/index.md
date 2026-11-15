@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents an immutable observation of writable-source import failures at one point in time.
-
 ## Remarks
 
 The snapshot deliberately keeps importer fingerprints private to the Asset Pipeline. Callers can compare snapshots without depending on catalog records, importer implementation names, or storage details.

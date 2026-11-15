@@ -13,5 +13,3 @@ reviewed: 3f483d61eedaf688481a55ae1598667c43985e6a5d240ddb9c255e4043b1ff03
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned text factory snapshot.

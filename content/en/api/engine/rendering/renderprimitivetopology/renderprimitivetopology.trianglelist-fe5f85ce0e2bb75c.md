@@ -13,5 +13,3 @@ reviewed: 1fa8ad3e3e8d153e76040e5ff52349461403ae12058f4c930ddbfd387b593e05
 source: xml
 outdated: false
 ---
-
-Independent triangle triplets.

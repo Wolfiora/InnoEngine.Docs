@@ -13,5 +13,3 @@ reviewed: aa339f5c4218f341fbff624be7aec58228043853be5d0d3be110c8d21788b200
 source: xml
 outdated: false
 ---
-
-Adapter resources have not been initialized.

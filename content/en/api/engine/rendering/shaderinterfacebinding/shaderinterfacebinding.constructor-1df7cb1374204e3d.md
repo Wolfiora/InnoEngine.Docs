@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reflected interface binding.
-
 ## Parameters
 
 **Parameter `id`:** Stable property ID.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the complete project-scoped identity of a defined tag.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project namespace.

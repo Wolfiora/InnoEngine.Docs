@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Provides immutable, operation-independent context to serialization converters.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a drop target that validates an asset type and assigns its persistent identity to a property.
-
 ## Parameters
 
 **Parameter `expectedType`:** The runtime asset type accepted by the property.

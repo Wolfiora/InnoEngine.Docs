@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current style color including the active alpha.
-
 ## Parameters
 
 **Parameter `color`:** The packed RGBA color or semantic style slot.

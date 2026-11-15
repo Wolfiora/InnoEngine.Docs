@@ -13,5 +13,3 @@ reviewed: 1fa3afbabb1e26a161dcaad49d2c8857d7e644045232984236095c180f017b90
 source: xml
 outdated: false
 ---
-
-Gets the latest installed Plugin discovery and isolated diagnostics.

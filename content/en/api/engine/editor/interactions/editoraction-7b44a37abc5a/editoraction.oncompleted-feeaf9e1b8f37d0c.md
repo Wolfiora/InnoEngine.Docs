@@ -13,5 +13,3 @@ reviewed: a51ee5dc3315d5c579ec1ec3d11373fd71deb2476ca06b370a5b2829193c45ad
 source: xml
 outdated: false
 ---
-
-Runs after an active operation completes successfully.

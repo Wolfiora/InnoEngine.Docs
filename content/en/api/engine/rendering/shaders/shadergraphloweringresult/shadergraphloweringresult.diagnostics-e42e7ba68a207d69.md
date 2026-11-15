@@ -13,5 +13,3 @@ reviewed: 6e511af7199a86dcd56c5da817ab2eda57c8773600fb848b203e6cdb4ba558e7
 source: xml
 outdated: false
 ---
-
-Gets located graph diagnostics, including missing definitions and stale source ports.

@@ -13,5 +13,3 @@ reviewed: ef143a4983282886cc6ac4817aa7ef342a755eb93dee59fcf2ceb8a97e30e0df
 source: xml
 outdated: false
 ---
-
-Gets the size protected by current roots and their transitive dependencies when planning.

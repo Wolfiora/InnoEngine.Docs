@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Declares one contract-compatible pass mapping selectable by materials.

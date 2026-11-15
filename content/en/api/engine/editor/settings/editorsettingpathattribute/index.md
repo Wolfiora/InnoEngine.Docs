@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Places an `T:Inno.Editor.Settings.EditorSetting` at an arbitrary string Settings path.

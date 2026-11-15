@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable animation binding identifier.
-
 ## Parameters
 
 **Parameter `value`:** The non-empty binding protocol value.

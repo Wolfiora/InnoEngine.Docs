@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts a screen location back into graph coordinates.
-
 ## Parameters
 
 **Parameter `point`:** The screen coordinate to project.

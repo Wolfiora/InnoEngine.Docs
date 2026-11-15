@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces all records with deep copies from another neutral document.
-
 ## Parameters
 
 **Parameter `source`:** Complete source state.

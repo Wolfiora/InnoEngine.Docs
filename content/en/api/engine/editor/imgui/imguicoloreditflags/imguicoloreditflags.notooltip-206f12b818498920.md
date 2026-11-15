@@ -13,5 +13,3 @@ reviewed: 7034ec4de39610b9161262c335511f03d0ca7f8313e376d714398b9130691e13
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: disable tooltip when hovering the preview.

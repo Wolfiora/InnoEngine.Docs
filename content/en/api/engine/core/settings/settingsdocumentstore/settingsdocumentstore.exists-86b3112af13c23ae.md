@@ -13,5 +13,3 @@ reviewed: 7b5a07dc81f2a80a2c4a8a4fabd2d2faa66753c858ceb499311ef5897709807b
 source: xml
 outdated: false
 ---
-
-Gets whether the document currently exists.

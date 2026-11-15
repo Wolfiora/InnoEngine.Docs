@@ -13,5 +13,3 @@ reviewed: c71498d72222be008a7f15a8bc2e52cf4831271b73a55e6916969e21d7d98640
 source: xml
 outdated: false
 ---
-
-Gets the maximum UTF-8 buffer size accepted by the input.

@@ -13,5 +13,3 @@ reviewed: d92ca92dbea293c5dd2d05eece59d754939ab330f898205cb8e1803f1acaa449
 source: xml
 outdated: false
 ---
-
-The voice is scheduled against the audio clock.

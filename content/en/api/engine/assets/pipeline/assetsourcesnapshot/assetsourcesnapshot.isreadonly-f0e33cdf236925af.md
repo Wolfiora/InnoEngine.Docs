@@ -13,5 +13,3 @@ reviewed: 9dba5bf25735cb968d21beab13149464bdcaad00f0e2deed440857825bd19137
 source: xml
 outdated: false
 ---
-
-Gets whether the installation source cannot be edited in place.

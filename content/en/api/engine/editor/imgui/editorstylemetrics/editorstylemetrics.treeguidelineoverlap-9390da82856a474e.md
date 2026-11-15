@@ -13,5 +13,3 @@ reviewed: 069a0e15fc39bb7eccd65c11ceb79a9e10681ca237b12606348fd6849dec921c
 source: xml
 outdated: false
 ---
-
-Gets the overlap used to join adjacent tree guide segments.

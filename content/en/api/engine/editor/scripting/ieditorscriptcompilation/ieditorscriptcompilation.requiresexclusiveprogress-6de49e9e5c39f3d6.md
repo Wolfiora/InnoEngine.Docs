@@ -13,5 +13,3 @@ reviewed: 700785b98eccf0772b0d62193f85c42668b340cea4619935fa1d3134aaadf0f3
 source: xml
 outdated: false
 ---
-
-Gets whether compiler or activation work currently requires a blocking progress presentation.

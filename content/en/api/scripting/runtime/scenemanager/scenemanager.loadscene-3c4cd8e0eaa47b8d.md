@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the current session scene set with one active scene.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to load.

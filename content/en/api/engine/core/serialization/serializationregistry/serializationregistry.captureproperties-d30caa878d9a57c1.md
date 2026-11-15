@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures each persistent property independently for reload-safe state restoration.
-
 ## Parameters
 
 **Parameter `value`:** The object whose serializable properties should be captured.

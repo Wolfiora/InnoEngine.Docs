@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Supplies frame timing, capabilities and the request sink to one provider invocation.

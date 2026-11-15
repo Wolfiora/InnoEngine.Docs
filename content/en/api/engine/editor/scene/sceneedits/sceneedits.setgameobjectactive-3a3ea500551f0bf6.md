@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes the explicit active state of a GameObject and records the two Boolean values.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live GameObject whose active state should change.

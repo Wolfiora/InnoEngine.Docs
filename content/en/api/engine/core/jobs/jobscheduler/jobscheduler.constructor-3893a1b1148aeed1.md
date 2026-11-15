@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a scheduler using the requested execution strategy.
-
 ## Parameters
 
 **Parameter `mode`:** The execution strategy owned by the scheduler.

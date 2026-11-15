@@ -13,5 +13,3 @@ reviewed: 7c8109cef5a9bd65a60463bfd15b6f5b4dc4ea90fc2c783642396640f1c23c8b
 source: xml
 outdated: false
 ---
-
-The request identity within the owning script host.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a retained expansion value without submitting a native row or retaining domain objects.
-
 ## Parameters
 
 **Parameter `id`:** The stable row identifier within this window and owner.

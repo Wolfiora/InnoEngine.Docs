@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes the platform sources used by this publisher.
-
 ## Parameters
 
 **Parameter `sources`:** Exactly one source for each supported target identity.

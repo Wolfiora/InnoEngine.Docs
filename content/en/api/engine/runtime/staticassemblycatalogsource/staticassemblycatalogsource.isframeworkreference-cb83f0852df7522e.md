@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a referenced simple name belongs to the selected managed framework.
-
 ## Parameters
 
 **Parameter `assemblyName`:** The referenced managed assembly simple name.

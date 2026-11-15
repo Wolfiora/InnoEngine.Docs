@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects items for one exact view.
-
 ## Parameters
 
 **Parameter `context`:** Frame-scoped host content and view.

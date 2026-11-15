@@ -13,5 +13,3 @@ reviewed: 94d319149d230451765fda8f7598c655cea6cd99c095cd66cc8d3f4a19c8b0e1
 source: xml
 outdated: false
 ---
-
-Unloads every scene from the current runtime session.

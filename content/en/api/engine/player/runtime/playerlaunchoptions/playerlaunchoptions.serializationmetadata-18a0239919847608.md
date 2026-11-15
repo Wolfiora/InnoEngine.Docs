@@ -13,5 +13,3 @@ reviewed: 85bbd79e2c8b07667a4ca746cafccacbe22fe9420a8317c786587ae93fec10d1
 source: xml
 outdated: false
 ---
-
-Gets generated declaration access and collection construction for the linked code closure.

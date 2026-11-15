@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Raised when the platform commits UTF-8 text through keyboard, IME, or virtual-keyboard input.
-
 ## Parameters
 
 **Parameter `windowId`:** The source window identifier.

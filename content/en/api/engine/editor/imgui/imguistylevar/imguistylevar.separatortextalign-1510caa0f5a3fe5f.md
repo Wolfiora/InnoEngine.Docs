@@ -13,5 +13,3 @@ reviewed: fe290b246e4a7519cefa0bc5c8fdcd0ebec404fc5853166090454237c11535ae
 source: xml
 outdated: false
 ---
-
-Selects the separator text align presentation behavior.

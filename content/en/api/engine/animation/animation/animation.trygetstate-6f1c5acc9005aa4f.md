@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one live playback's state and position.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle to query.

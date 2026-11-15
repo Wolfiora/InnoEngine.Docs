@@ -13,5 +13,3 @@ reviewed: 8113ad12e0dbbec7a170e356b9749ed2f89dfe12ea6500dd9d8d469c9b835cd5
 source: xml
 outdated: false
 ---
-
-Receives a value from another node.

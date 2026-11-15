@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader compilation workspace in the registered process-owned build cache.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The checkout owning cache maintenance and the source-independent compiler request.

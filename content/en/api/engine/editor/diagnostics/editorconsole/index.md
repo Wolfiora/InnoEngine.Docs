@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---
-
-Owns one editor's bounded Console history, current diagnostics, grouping, and Play Mode clearing policy.

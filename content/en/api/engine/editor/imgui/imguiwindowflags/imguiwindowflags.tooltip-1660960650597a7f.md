@@ -13,5 +13,3 @@ reviewed: a9e75c10bd8c0141f72bd3f151b5432f56d6eeebabdf58d4d315c4cece9012eb
 source: xml
 outdated: false
 ---
-
-Don't use! For internal use by BeginTooltip()

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads one focused list's keyboard navigation without retaining its entries or changing domain selection.
-
 ## Parameters
 
 **Parameter `interactions`:** The authoritative interaction owner supplying the product modifier policy.

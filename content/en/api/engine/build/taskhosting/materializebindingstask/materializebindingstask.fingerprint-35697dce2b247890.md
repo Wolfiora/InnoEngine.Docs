@@ -13,5 +13,3 @@ reviewed: edf74261b0c9cb11455c76776bdabfebfe68e82545791e1a77637d3d6c517f5d
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact generation identity required when consuming an immutable artifact.

@@ -13,5 +13,3 @@ reviewed: 52248cb3d580990a42fca608cd03762a06590416752993eaae453de8d03c43b2
 source: xml
 outdated: false
 ---
-
-Gets the wall time spent in the stage.

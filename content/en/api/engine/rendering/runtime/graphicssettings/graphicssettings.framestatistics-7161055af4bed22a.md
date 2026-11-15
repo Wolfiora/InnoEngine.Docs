@@ -13,5 +13,3 @@ reviewed: 4b5dc10a104df7c8702c1ebffa53c5b899c21554101601a80e8de0aa945a11a5
 source: xml
 outdated: false
 ---
-
-Gets statistics for the last completed frame, or `null` before the first frame.

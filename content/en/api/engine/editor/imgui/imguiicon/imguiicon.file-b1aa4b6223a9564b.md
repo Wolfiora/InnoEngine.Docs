@@ -13,5 +13,3 @@ reviewed: bac50735c56374729b8ae10ebb4c02a1fc6f760a46e56be34d8b02b268e0a5bb
 source: xml
 outdated: false
 ---
-
-Gets the file glyph used by standard Editor controls.

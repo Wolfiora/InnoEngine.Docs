@@ -13,5 +13,3 @@ reviewed: 0fa0ab8ce84dc67c2e29a70fb851ca8a08dda74e7451280aa59968e285e6ba73
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled RmlUi implementation, not a closed backend list.

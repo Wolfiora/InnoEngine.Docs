@@ -13,5 +13,3 @@ reviewed: 398f347daf9294532fdb8f38d2c7929948520065a64567544e5e52a2b4b7fb2f
 source: xml
 outdated: false
 ---
-
-Gets the programmable stage combination used by this pass.

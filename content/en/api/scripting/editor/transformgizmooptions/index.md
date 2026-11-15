@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Supplies frame-local matrices and interaction policy without native handles.

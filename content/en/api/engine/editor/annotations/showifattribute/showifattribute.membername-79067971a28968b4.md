@@ -13,5 +13,3 @@ reviewed: 1c12c3a6cfc55c6d6fa2421d2f5260328ec3554e08e06a11a91a6c870ad85e2b
 source: xml
 outdated: false
 ---
-
-Gets the sibling member name.

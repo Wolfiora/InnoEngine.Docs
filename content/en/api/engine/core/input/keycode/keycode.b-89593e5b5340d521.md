@@ -13,5 +13,3 @@ reviewed: eec597d5b552e3f8dbb22f0dd05b7e807e6f94c7a82014ffa174bf6a255c8667
 source: xml
 outdated: false
 ---
-
-The B letter key.

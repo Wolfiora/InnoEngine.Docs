@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a managed drop request.
-
 ## Parameters
 
 **Parameter `editor`:** The shared passive editor context.

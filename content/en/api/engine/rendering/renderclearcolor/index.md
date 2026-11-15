@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Stores a linear clear color without depending on an engine math assembly.

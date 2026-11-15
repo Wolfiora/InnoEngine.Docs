@@ -13,5 +13,3 @@ reviewed: be2c0d47abdd454392e10608d3673dbc2618379b6b5a277108e89c22d3504d53
 source: xml
 outdated: false
 ---
-
-Eight-bit four-channel sRGB format.

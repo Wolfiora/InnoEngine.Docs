@@ -13,5 +13,3 @@ reviewed: bf2ea798348c1df295af5ac94ff68455719921090d8cd7190850a5606d322d0a
 source: xml
 outdated: false
 ---
-
-Gets or sets clip-local marker time in seconds.

@@ -13,5 +13,3 @@ reviewed: 59333c1611b7c18ce1234a0bf1ea025a50dccd2a34b1788f15b1c4410cba052d
 source: xml
 outdated: false
 ---
-
-Gets the isolated frozen code input directory.

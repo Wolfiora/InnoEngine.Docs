@@ -13,5 +13,3 @@ reviewed: de6d437034a94b76057f62a47c84efe21677d5b61b13c8fa155798d4ea913ccb
 source: xml
 outdated: false
 ---
-
-Scalar floating-point value.

@@ -13,5 +13,3 @@ reviewed: 0fa01f720f1e117cb6b05506ea5975cabb6b90efb264a1b1fa0b23ac0bcde175
 source: xml
 outdated: false
 ---
-
-Opens a frame scheduling scope on the owner thread.

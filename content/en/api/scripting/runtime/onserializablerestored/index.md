@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Marks one nonvirtual instance method to run after restoration succeeds, optionally receiving its SerializationContext.

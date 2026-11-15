@@ -13,5 +13,3 @@ reviewed: e1e022bfc25b1c77f27b301a13204469e72ff34329115d9ff921cee9bb15d3f7
 source: xml
 outdated: false
 ---
-
-Gets the managed projection runtime, or null for the component's portable default.

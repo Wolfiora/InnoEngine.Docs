@@ -13,5 +13,3 @@ reviewed: f09036b690ef5e75769512f4c9538487f800b74be171762d777fecda7923dbd8
 source: xml
 outdated: false
 ---
-
-Gets whether release optimization is enabled.

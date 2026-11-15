@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers only explicitly recorded ownership, without discovering artifacts by extension or directory age.
-
 ## Parameters
 
 **Parameter `id`:** The unique publisher registration identity.

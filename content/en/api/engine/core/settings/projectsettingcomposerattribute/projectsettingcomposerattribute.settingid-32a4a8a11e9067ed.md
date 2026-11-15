@@ -13,5 +13,3 @@ reviewed: 0550f2304db5204627ac8be6dc404301991aa59bc76f7e00ea130f2596df057a
 source: xml
 outdated: false
 ---
-
-Gets the stable setting protocol composed by the attributed type.

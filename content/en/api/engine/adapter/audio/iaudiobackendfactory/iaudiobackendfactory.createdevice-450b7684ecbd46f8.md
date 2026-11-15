@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a new audio device for one runtime audio generation.
-
 ## Parameters
 
 **Parameter `backend`:** audio implementation selected by the composition root.

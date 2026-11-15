@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the mandatory transform component.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when this object is destroyed or incompletely initialized.

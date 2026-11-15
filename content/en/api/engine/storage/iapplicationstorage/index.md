@@ -16,5 +16,3 @@ contracts:
 - project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---
-
-Provides asynchronous atomic access to one application-specific persistent sandbox.

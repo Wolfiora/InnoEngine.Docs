@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a tool's standard output while forwarding errors and preserving the common process lifecycle.
-
 ## Parameters
 
 **Parameter `fileName`:** The executable to launch.

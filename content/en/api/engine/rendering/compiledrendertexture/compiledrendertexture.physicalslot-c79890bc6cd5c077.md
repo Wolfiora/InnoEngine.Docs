@@ -13,5 +13,3 @@ reviewed: e53adfcde2bcb2a952616b0968f8d218e79ab934b89368497aa036b8c03d1234
 source: xml
 outdated: false
 ---
-
-Gets the aliasing allocation slot, or negative one for imported resources.

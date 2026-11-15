@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []
 ---
-
-Reports immutable content admission pressure from the most recent control-thread collection.

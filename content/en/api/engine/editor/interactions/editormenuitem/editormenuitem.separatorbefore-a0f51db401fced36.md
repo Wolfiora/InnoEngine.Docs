@@ -13,5 +13,3 @@ reviewed: 0842c1a6179c2435724b35cb64e22ca6891285fd1dc57230ebf6bea4c2e9f6f9
 source: xml
 outdated: false
 ---
-
-Gets whether a separator precedes this node.

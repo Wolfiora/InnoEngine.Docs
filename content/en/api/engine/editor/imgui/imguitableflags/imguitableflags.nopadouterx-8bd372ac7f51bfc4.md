@@ -13,5 +13,3 @@ reviewed: c9ec37c5937be7d888383487ec143463fe9a2aa1f88294778ae0f1e6b3b0faa9
 source: xml
 outdated: false
 ---
-
-Default if BordersOuterV is off. Disable outermost padding.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Exports an asset back into source bytes.
-
 ## Parameters
 
 **Parameter `context`:** The generation-bound source export services.

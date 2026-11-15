@@ -13,5 +13,3 @@ reviewed: aa410a9dbaaf1ba7580cc9eee0e46e7b7715b9ab86385e816dc58a361ac2b1ba
 source: xml
 outdated: false
 ---
-
-Occurs after a complete isolated source-mount generation is atomically replaced.

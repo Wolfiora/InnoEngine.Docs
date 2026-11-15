@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Resolves neutral assets and provider-owned uploads into opaque resources for the active device generation.

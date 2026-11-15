@@ -13,5 +13,3 @@ reviewed: a40982bfef19a9a6f40e00048a4ad80e06f6f39425fa73196ce3d8dc037f90d7
 source: xml
 outdated: false
 ---
-
-The assembly contains project scripting code in a collectible load context.

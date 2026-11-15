@@ -13,5 +13,3 @@ reviewed: 4ec2a62fa81243fdc56532e03e2de8c6df23cded03e0c28feb68adddcbf23164
 source: xml
 outdated: false
 ---
-
-Gets current logical resource statistics.

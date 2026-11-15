@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws the modal body inside the runtime-managed centered window.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context containing current project and frame state.

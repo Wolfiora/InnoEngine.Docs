@@ -13,5 +13,3 @@ reviewed: 45c63d80b53187965d2ee453bbddd0cdd3df825511e5241e364ad1c09d62f376
 source: xml
 outdated: false
 ---
-
-Gets the managed compiler identity that produced this publication.

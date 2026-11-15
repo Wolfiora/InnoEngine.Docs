@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Discards a fragment when the Boolean condition is true; other stages reject this instruction.
-
 ## Parameters
 
 **Parameter `condition`:** Scalar Boolean from this block.

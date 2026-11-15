@@ -13,5 +13,3 @@ reviewed: b89b48dd8284bc7e6851f1933cb6fbfb73d3f94d838840a413f81aee3017099f
 source: xml
 outdated: false
 ---
-
-Gets whether this target deliberately omits object binding.

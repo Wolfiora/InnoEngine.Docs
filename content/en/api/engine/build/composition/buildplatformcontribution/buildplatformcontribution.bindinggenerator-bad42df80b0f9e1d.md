@@ -13,5 +13,3 @@ reviewed: 827a2f2e88888ccb6fec5470fa30d514144ec1d6395e78d4f83735da3c48d4ce
 source: xml
 outdated: false
 ---
-
-Gets the target-owned generator, or null when no binding capability is registered.

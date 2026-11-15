@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-tasks
 aliases: []
 ---
-
-Maps an explicit MSBuild request to the shared binding application without owning generation policy.

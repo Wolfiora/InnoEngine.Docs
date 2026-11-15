@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes one editor layout section from the in-memory document.
-
 ## Parameters
 
 **Parameter `sectionName`:** The section name without its INI header syntax.

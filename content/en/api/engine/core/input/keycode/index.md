@@ -18,5 +18,3 @@ contracts:
 aliases:
 - api.inno.core.input.d97627a0eb86d9a0
 ---
-
-Represents a backend-neutral physical key used by runtime input and editor shortcut contracts.

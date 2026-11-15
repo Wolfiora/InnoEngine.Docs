@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Edits an integer by pointer drag with explicit speed and optional bounds.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional stable ID suffix.

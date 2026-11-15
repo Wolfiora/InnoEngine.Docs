@@ -13,5 +13,3 @@ reviewed: 8e0b3ba6a5f6ac9758672a75f40023b1e5562ab2a45cdbef1cac8b1af8d1c9ed
 source: xml
 outdated: false
 ---
-
-Shader-readable and writable storage textures are supported.

@@ -13,5 +13,3 @@ reviewed: 9e00ce2c6b0f1f5b49778f6cccc13b645761dfdddaee77a33bb920568a68d24e
 source: xml
 outdated: false
 ---
-
-The float value used to initialize this instance.

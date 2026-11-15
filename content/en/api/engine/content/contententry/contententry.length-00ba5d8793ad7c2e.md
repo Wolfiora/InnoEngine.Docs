@@ -13,5 +13,3 @@ reviewed: 3e13a75d0f1cfb178bab107bcb27bc7ff0c468801117faf17520ff0f141313c9
 source: xml
 outdated: false
 ---
-
-Gets the exact decoded byte count.

@@ -13,5 +13,3 @@ reviewed: 11b40254769679e0729cd31c8f32ac3484813871a938eec5af5c733e5f02d6aa
 source: xml
 outdated: false
 ---
-
-Gets the gears glyph used by standard Editor controls.

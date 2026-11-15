@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets optional node-relative label geometry shared by rendering and row hit testing.

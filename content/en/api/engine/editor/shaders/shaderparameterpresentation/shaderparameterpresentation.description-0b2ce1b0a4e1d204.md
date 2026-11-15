@@ -13,5 +13,3 @@ reviewed: b1c9e3fdf230f20145307f2b5a5b01f89d0fcacfaca816be578d01bb7da5db8e
 source: xml
 outdated: false
 ---
-
-Gets or sets the hover description without adding a permanent paragraph.

@@ -13,5 +13,3 @@ reviewed: eb1dcec7a733235c5db0dbad7310dcf79f50cda5860033c99d05491def706bbb
 source: xml
 outdated: false
 ---
-
-Restores the state produced by the committed change.

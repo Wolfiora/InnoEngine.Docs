@@ -13,5 +13,3 @@ reviewed: 9d2c803d671c5ce169f3eb35175e996928b68224d74820e1d7c41c37e9c97a8c
 source: xml
 outdated: false
 ---
-
-Gets the stable panel viewport identity.

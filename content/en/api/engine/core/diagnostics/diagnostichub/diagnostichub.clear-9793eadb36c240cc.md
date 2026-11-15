@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears the active report published by one producer.
-
 ## Parameters
 
 **Parameter `source`:** The stable producer identity to clear.

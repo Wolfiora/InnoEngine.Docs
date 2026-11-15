@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Restores nested neutral asset properties with the owning database's converter generation and references.

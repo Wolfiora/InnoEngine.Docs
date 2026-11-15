@@ -13,5 +13,3 @@ reviewed: 2c2d1d5fa4946471d30cb68f11e6bdacdda5467fdb63861021eed8001b400292
 source: xml
 outdated: false
 ---
-
-Gets the persistent lease shared with publication and protected-root changes.

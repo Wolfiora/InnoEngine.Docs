@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates discovery inputs and freezes a plan before publication output exists.
-
 ## Parameters
 
 **Parameter `context`:** The source checkout and host used for read-only SDK discovery.

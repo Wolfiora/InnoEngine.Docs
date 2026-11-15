@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enable vertical scrolling. Require 'outer\_size' parameter of BeginTable() to specify the container size.

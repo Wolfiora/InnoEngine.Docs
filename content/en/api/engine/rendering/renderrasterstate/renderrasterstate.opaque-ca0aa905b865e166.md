@@ -13,5 +13,3 @@ reviewed: e5c305cb699844bf29260fc7b5f4511643d2b1ba5544b301a2894c2671739ea6
 source: xml
 outdated: false
 ---
-
-Gets the default opaque raster state.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Owns one host's complete diagnostic state and its presentation subscriptions.

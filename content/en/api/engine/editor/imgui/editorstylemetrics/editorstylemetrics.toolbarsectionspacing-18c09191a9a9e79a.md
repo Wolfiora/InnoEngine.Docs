@@ -13,5 +13,3 @@ reviewed: c9a6a840d0d80f19f99b95c9eb034809ab51a69524d15e009eaf823b1ffe7b4d
 source: xml
 outdated: false
 ---
-
-Gets spacing between resizable content toolbar sections.

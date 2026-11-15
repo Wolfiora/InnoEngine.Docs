@@ -13,5 +13,3 @@ reviewed: ec4baa8f0f403be2d5060007fc85036f7c7fd9493e0e3d7da52ccd2f3414d934
 source: xml
 outdated: false
 ---
-
-Gets the node definition's stable identity.

@@ -13,5 +13,3 @@ reviewed: f93775e97ada8f84b1d930b6b064b9e963c54dadd927575f4678e534a6429b26
 source: xml
 outdated: false
 ---
-
-Gets the explicitly selected SDK and build execution host.

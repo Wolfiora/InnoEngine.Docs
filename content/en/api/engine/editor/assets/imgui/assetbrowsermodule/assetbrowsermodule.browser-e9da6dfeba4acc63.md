@@ -13,5 +13,3 @@ reviewed: 36e5ba81a564da6cc33a9e4666de35b1f9791e1d3b2260b291dab14b5c36267f
 source: xml
 outdated: false
 ---
-
-Gets navigation state; object selection belongs to the shared interaction owner.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Orchestrates deterministic Plugin and game builds over isolated staging and atomic commits.

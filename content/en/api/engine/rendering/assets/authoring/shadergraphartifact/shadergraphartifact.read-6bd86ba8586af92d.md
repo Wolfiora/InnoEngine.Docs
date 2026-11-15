@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a retained immutable authoring snapshot through its explicit artifact owner.
-
 ## Parameters
 
 **Parameter `shader`:** Stable Shader asset identity.

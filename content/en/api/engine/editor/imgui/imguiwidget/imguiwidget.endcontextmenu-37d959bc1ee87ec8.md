@@ -13,5 +13,3 @@ reviewed: abdd985bc095c0c0cdbfbcbf58fad47de203982acf9f06236ae6823e2b83e49e
 source: xml
 outdated: false
 ---
-
-Ends a context menu opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginContextMenu(System.String)` or `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginWindowContextMenu(System.String)`.

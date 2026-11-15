@@ -13,5 +13,3 @@ reviewed: 1245b1c4b28a156e104a8955ce0d9c357925e13896e71339294e568aac564a93
 source: xml
 outdated: false
 ---
-
-Gets the immutable platform identities shared by all hosts.

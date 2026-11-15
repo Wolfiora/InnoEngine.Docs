@@ -13,5 +13,3 @@ reviewed: 59aca78360a7cf05ea7600894c42aa09062eac19f78c0d873423bec01bfb31c3
 source: xml
 outdated: false
 ---
-
-Gets the generation-scoped collector used by rendering models for world content.

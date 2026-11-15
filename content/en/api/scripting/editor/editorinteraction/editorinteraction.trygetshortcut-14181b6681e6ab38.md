@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the shortcut displayed for an action in this area.
-
 ## Parameters
 
 **Parameter `action`:** The stable action name.

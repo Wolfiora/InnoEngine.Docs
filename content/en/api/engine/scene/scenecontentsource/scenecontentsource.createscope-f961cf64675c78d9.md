@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an explicit coherent scene presentation selected by a host.
-
 ## Parameters
 
 **Parameter `scenes`:** The ordered live scene roots.

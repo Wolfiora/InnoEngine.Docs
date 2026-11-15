@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies a native batch of project-authored overrides and removals.
-
 ## Parameters
 
 **Parameter `values`:** Setting values keyed by stable protocol identity.

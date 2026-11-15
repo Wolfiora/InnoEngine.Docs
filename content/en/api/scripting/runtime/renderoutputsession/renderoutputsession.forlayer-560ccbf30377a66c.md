@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates the session seen by one explicitly assigned model layer.
-
 ## Parameters
 
 **Parameter `layer`:** The model and content-source assignment.

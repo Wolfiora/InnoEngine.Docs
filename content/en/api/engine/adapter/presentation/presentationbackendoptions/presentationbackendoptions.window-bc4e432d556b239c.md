@@ -13,5 +13,3 @@ reviewed: 03b503824f7c4fe11473cd613c967a6e32ac18f4ca8c5cdff69b06d1bedd7970
 source: xml
 outdated: false
 ---
-
-Gets or sets the primary presentation window.

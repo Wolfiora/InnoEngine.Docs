@@ -13,5 +13,3 @@ reviewed: bf5e093e1892febb94b84c5a3f763ab21ebd166f61f3bb6d73cdb0722066d8d2
 source: xml
 outdated: false
 ---
-
-Gets the most recently visited writable project directory, independently of the displayed root.

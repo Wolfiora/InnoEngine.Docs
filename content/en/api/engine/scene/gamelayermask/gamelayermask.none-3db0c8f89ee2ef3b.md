@@ -13,5 +13,3 @@ reviewed: 9148696a5b9b66a86a34a21e865884551f6ad7b6b02c683339ad993485c03595
 source: xml
 outdated: false
 ---
-
-Gets a mask containing no layers.

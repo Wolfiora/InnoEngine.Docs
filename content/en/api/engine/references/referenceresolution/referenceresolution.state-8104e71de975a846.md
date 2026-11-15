@@ -13,5 +13,3 @@ reviewed: 4a42f5d22ef150c870e5e0c269fc3d19d96bfdad280a187b0043e5d777ef155f
 source: xml
 outdated: false
 ---
-
-Gets the current resolution state.

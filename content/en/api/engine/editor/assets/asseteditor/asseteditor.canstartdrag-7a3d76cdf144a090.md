@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the supplied entry can begin a managed editor drag operation.
-
 ## Parameters
 
 **Parameter `context`:** The immutable source and catalog snapshot for the entry.

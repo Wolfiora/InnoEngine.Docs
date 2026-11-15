@@ -13,5 +13,3 @@ reviewed: d8c3206e1b418a45989143cbf84d504ebd70dd33c8a732b48e55664b8cf81694
 source: xml
 outdated: false
 ---
-
-The home key.

@@ -13,5 +13,3 @@ reviewed: fcec0e668eea7ce8675e2d910fc29a5b89966b3b6485d65dfbc45f174df4d572
 source: xml
 outdated: false
 ---
-
-Gets spacing between cards.

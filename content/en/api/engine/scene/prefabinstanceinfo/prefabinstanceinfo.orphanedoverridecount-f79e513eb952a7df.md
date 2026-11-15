@@ -13,5 +13,3 @@ reviewed: a64be827134dccb624660098dd2e88a10468a39ca16c1d200947e5090a008f06
 source: xml
 outdated: false
 ---
-
-Gets the number of retained overrides that no longer match the current source.

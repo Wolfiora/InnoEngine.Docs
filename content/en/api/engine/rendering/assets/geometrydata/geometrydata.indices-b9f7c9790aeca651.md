@@ -13,5 +13,3 @@ reviewed: 2970a41b720751dbbbe02aa1c91c4dcd61db780f23138714d7c910c53e9b6dc0
 source: xml
 outdated: false
 ---
-
-Gets the triangle index stream.

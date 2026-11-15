@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents an immutable view of the assemblies participating in one catalog generation.
-
 ## Remarks
 
 A snapshot retains its assemblies. Consumers must not keep obsolete snapshots after a reload, because doing so can delay unloading a collectible assembly context.

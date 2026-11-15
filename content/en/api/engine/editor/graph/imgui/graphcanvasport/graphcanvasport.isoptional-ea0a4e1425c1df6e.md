@@ -13,5 +13,3 @@ reviewed: a5b779fb3e91d002da7e4336bd9697c4585b56a05d142745fd86e5c441385fbd
 source: xml
 outdated: false
 ---
-
-Gets whether the input is visually optional.

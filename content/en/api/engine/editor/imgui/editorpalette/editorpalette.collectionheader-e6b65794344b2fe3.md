@@ -13,5 +13,3 @@ reviewed: 39a6e2768cf44375437398e007e0514fffe052ed45c6870b757efdb7aca88d55
 source: xml
 outdated: false
 ---
-
-Gets the deepest collection background.

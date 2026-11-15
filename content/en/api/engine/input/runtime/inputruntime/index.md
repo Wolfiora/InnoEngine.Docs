@@ -16,5 +16,3 @@ contracts:
 - project.inno-input-runtime#frame-and-lifetime-contract
 aliases: []
 ---
-
-Captures one immutable input snapshot and binds it for the complete runtime frame.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reserves capacity for actual frozen input entries without changing a matching key.
-
 ## Parameters
 
 **Parameter `capacity`:** The expected total entry count, including Core guards.

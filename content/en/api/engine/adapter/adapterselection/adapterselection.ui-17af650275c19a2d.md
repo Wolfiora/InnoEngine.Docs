@@ -13,5 +13,3 @@ reviewed: 4a2ecdcdd53a0deef83c97cda740afc1dc92924ba050f14e36ffa9be4b7b81d0
 source: xml
 outdated: false
 ---
-
-Gets the selected retained-mode UI backend.

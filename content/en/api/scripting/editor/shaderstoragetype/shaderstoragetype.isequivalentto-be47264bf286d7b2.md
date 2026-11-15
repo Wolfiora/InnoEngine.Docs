@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares complete access, format, shape and element layout contracts.
-
 ## Parameters
 
 **Parameter `other`:** Candidate resource description.

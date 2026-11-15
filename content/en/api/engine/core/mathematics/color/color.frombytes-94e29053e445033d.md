@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a normalized color from byte channel values.
-
 ## Parameters
 
 **Parameter `r`:** The red byte channel.

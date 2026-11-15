@@ -13,5 +13,3 @@ reviewed: febd1576e1d5f9d3c25e99557803ee1fe230dcba6d110a095e23fceb087301c2
 source: xml
 outdated: false
 ---
-
-Gets the logical family.

@@ -13,5 +13,3 @@ reviewed: 528c2bc0955c8bf7deb460f79c643dcb6fc3b8604a5b4a7a6200a0e5b8b97f3e
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: ignore Alpha component (will only read 3 components from the input pointer).

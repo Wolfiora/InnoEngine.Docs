@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a preview invocation from host-owned detached inputs.
-
 ## Parameters
 
 **Parameter `resourceId`:** Isolated material publication and viewport resource identity.

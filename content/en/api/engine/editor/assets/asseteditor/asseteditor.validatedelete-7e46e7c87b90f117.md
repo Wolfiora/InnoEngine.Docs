@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a requested asset deletion before the AssetPipeline transaction begins.
-
 ## Parameters
 
 **Parameter `context`:** The immutable snapshot of the entry that would be deleted.

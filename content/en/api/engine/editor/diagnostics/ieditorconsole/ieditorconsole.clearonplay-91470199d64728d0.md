@@ -13,5 +13,3 @@ reviewed: ea94ce574dea776242b59b8413c58b91e5f6b93f33f39e9562543de1e80751d2
 source: xml
 outdated: false
 ---
-
-Gets or sets whether ordinary Console logs are cleared when a new Play Mode request begins. Current diagnostics remain visible because they represent active compiler and subsystem state.

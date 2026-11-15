@@ -13,5 +13,3 @@ reviewed: 120e3c2e1a7906671001b330c23bdaf925a9669e6611fa4d3ced2a0305654578
 source: xml
 outdated: false
 ---
-
-Gets the absolute private staging directory; files here are committed only after all transforms succeed.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one final animation sample.
-
 ## Parameters
 
 **Parameter `binding`:** Stable target binding.

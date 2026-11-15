@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a type catalog derived transactionally from one module host.
-
 ## Parameters
 
 **Parameter `modules`:** The module host that owns the assembly generations visible to this catalog.

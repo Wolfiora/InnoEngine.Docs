@@ -13,5 +13,3 @@ reviewed: 20e772f4556624c91eeba49b2e4b5d9ec047eb7e3a9f4f690d990accb9507d3d
 source: xml
 outdated: false
 ---
-
-Selects the tree lines size presentation behavior.

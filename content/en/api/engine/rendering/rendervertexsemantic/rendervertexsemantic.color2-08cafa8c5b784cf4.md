@@ -13,5 +13,3 @@ reviewed: 60a7713e7e1b87654f9cc405585b6b3585b06c958535e15701470b5616c96358
 source: xml
 outdated: false
 ---
-
-Third vertex color channel.

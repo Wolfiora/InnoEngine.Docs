@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a sibling field or property from the current owner, including non-public base members.
-
 ## Parameters
 
 **Parameter `memberName`:** Exact CLR member name.

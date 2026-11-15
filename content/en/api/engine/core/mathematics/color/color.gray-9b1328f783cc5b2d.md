@@ -13,5 +13,3 @@ reviewed: 5fa950dc22dfb03ecf2c189748bafcf834d75a3c756859e1fd6dfbff1bc0788e
 source: xml
 outdated: false
 ---
-
-The gray value used as part of this type's public representation.

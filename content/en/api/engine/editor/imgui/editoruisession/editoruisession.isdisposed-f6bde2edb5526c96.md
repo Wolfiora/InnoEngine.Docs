@@ -13,5 +13,3 @@ reviewed: b06daba324a772e00c258117113d7e8368ee9a4a66c30221cd38ff84c8689a3b
 source: xml
 outdated: false
 ---
-
-Gets whether this session has successfully retired its presentation state.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve one named immutable artifact output by persistent asset identity.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent identity of the artifact owner.

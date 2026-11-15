@@ -13,5 +13,3 @@ reviewed: ae20de075ad008444eb273d8ec2ed2f5e2e049bc04b4292c679b509085be34d2
 source: xml
 outdated: false
 ---
-
-Gets the semantic operation independent of any source language.

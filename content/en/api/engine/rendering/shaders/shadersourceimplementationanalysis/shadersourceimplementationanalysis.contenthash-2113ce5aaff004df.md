@@ -13,5 +13,3 @@ reviewed: 5b68efcb44e43889ac8c8b73613193452a320b519bb21fb6d146dd32a2f8910f
 source: xml
 outdated: false
 ---
-
-Gets a deterministic source-input hash. A compiler cache must additionally include its toolchain, target, graph semantics and binding layout; this hash alone is not a compiled artifact key.

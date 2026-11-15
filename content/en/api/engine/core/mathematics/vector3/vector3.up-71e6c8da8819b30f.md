@@ -13,5 +13,3 @@ reviewed: 79f75b1af650591ae1f502eb4f59211674f6598cdaecaf35b4737f0ac0120dd4
 source: xml
 outdated: false
 ---
-
-The up value used as part of this type's public representation.

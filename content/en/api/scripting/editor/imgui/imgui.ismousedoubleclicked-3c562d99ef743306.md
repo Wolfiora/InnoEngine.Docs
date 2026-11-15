@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks the backend-classified double-click event.
-
 ## Parameters
 
 **Parameter `button`:** The pointer button to inspect.

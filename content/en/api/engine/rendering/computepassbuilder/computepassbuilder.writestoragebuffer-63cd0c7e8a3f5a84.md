@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares an unordered buffer write.
-
 ## Parameters
 
 **Parameter `buffer`:** Storage buffer written by compute work.

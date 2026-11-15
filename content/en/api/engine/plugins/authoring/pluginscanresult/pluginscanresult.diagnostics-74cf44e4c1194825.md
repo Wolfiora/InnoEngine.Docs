@@ -13,5 +13,3 @@ reviewed: 571cf852623fc0158caf3f3319aec0a3121dad1c85a0ae86861b86756a5361fb
 source: xml
 outdated: false
 ---
-
-Gets isolated diagnostics for rejected candidates.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the reference for an active CLR type.
-
 ## Returns
 
 Its logical and generation-local identity.

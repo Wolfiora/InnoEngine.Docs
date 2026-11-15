@@ -13,5 +13,3 @@ reviewed: dbccd32f1fef0d2bed31c59fde75f35489f06fbdc33499c5f192eac2a95c44e9
 source: xml
 outdated: false
 ---
-
-Selects the title bg collapsed presentation behavior.

@@ -13,5 +13,3 @@ reviewed: f107a7e76d9a49ea626bb536ed59cb5bbd0f9337f898084f503c324859dce118
 source: xml
 outdated: false
 ---
-
-Gets the candidate generation's resolution for the preserved descriptor.

@@ -13,5 +13,3 @@ reviewed: 695749b038e707ebdcd1a9b2c137751de185818223b79e5b88e150ba2f9d9602
 source: xml
 outdated: false
 ---
-
-Gets the event dispatcher owned by this session.

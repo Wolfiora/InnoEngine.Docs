@@ -13,5 +13,3 @@ reviewed: 7246ca0e466c0357939bf5b1c6c4f98848f6b866c8707089e6623f79568a405f
 source: xml
 outdated: false
 ---
-
-Gets contributor-defined frame-only data.

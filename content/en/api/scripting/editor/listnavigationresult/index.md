@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Carries frame-local list navigation intents over visible indices without owning objects or selection state.

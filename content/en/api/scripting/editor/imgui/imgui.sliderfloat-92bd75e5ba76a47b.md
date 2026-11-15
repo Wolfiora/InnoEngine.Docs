@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a bounded floating-point slider.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

@@ -13,5 +13,3 @@ reviewed: 1d0e66796c961cb7cedff6a6951921b7353d8bec9d4fd725753e22608cc64f43
 source: xml
 outdated: false
 ---
-
-The assembly scope value used to initialize this instance.

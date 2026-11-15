@@ -13,5 +13,3 @@ reviewed: 675b3eb08b7de84320abe762ddac16fbced82d109271f8097f9a22246b60c2dd
 source: xml
 outdated: false
 ---
-
-Gets the horizontal inset that constrains an asset grid icon inside its card.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Identifies one process lifetime without retaining a process handle or confusing recycled identifiers.

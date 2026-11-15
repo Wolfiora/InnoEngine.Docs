@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the reference for a CLR type in this snapshot.
-
 ## Parameters
 
 **Parameter `type`:** The CLR type to identify.

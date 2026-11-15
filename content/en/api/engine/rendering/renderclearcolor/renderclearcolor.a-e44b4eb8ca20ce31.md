@@ -13,5 +13,3 @@ reviewed: d433ea211d37f33a29600837dba23dafa9b96fe782644ebe8bbf2217f3c65333
 source: xml
 outdated: false
 ---
-
-Gets the alpha channel.

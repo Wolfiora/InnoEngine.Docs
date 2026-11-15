@@ -13,5 +13,3 @@ reviewed: b4766e0622af26b7a4699d88b1f12b5c5f0849cd340f81fcff54cfbcc95d8e75
 source: xml
 outdated: false
 ---
-
-A unit value aligned with the z axis.

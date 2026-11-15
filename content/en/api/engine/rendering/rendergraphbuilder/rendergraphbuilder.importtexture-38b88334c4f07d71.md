@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports a persistent device texture into the current graph.
-
 ## Parameters
 
 **Parameter `name`:** Debug and diagnostic name.

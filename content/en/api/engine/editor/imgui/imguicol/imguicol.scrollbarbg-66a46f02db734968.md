@@ -13,5 +13,3 @@ reviewed: 82f2e23de6bed9be5ac1f427e2c61f99acda240a198450aa4deb9da4f2530496
 source: xml
 outdated: false
 ---
-
-Selects the scrollbar bg presentation behavior.

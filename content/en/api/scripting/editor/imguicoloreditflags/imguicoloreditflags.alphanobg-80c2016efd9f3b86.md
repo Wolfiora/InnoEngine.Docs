@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: disable rendering a checkerboard background behind transparent color.

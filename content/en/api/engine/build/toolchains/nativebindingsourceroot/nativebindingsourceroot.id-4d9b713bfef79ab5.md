@@ -13,5 +13,3 @@ reviewed: 435665474a07e473bdf15b4e51603a0f7e2103a69a369fa14d758fb5185da7ef
 source: xml
 outdated: false
 ---
-
-An ordinal identity scoped to this component's selected generation.

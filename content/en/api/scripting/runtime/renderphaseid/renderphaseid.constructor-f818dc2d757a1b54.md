@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an open render phase identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable phase value.

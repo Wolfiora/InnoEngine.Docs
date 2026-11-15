@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts this quaternion to a rotation matrix.
-
 ## Returns
 
 The validated matrix that represents the completed operation.

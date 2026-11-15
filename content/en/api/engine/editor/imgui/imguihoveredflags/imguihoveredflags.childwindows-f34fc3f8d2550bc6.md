@@ -13,5 +13,3 @@ reviewed: 9aac22ab7ea5e9d894105ad3dd412ba7e4bc9ecefe150fd94d4b81cf27ddc650
 source: xml
 outdated: false
 ---
-
-IsWindowHovered() only: Return true if any children of the window is hovered

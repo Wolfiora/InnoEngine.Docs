@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets or sets the single runtime layer used to filter this game object.
-
 ## Remarks
 
 GameLayer names are project configuration stored separately from scene data. Scene and prefab serialization persist only the stable numeric layer slot.

@@ -13,5 +13,3 @@ reviewed: e863805f663eff821ba2702defe4f50f8af3e576841f280b91c7f677c1e99d29
 source: xml
 outdated: false
 ---
-
-The A letter key.

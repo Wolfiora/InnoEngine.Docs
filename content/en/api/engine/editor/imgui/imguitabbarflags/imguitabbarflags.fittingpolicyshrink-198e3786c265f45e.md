@@ -13,5 +13,3 @@ reviewed: faab77f212cd8387c2e86353e00d178e0ecd3d0afbc7cbdc487e98cb71e144ae
 source: xml
 outdated: false
 ---
-
-Shrink down tabs when they don't fit

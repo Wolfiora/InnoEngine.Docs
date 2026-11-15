@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws wrapped non-interactive text as a centered block inside a padded layout area.
-
 ## Parameters
 
 **Parameter `text`:** The literal text to wrap and draw.

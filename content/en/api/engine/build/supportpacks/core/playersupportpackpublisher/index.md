@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Installs verified Support Packs with rollback protection using explicitly registered platform sources.

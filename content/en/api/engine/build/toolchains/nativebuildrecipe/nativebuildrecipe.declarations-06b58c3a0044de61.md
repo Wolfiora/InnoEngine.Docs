@@ -13,5 +13,3 @@ reviewed: 2b95d69fdd45f93c03ce77655421a43fba323a7dd33b1e19fb68049f6dfeb539
 source: xml
 outdated: false
 ---
-
-Gets ordered non-file inputs; callers must explicitly sort unordered metadata before construction.

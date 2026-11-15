@@ -13,5 +13,3 @@ reviewed: 3de9e90dd54d97fa2c2d59f07036cee2c41345de526e12c542259f2e9a6c685c
 source: xml
 outdated: false
 ---
-
-Gets the required mesh vertex layout, or `null` for procedural vertices.

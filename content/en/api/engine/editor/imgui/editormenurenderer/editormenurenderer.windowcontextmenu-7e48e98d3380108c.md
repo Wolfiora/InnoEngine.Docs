@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a resolved right-click menu when the current ImGui window's unoccupied background is clicked.
-
 ## Parameters
 
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.

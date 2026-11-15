@@ -13,5 +13,3 @@ reviewed: 97dfb9fd3cb7608e392a644447a44504ff5bd75462552dd9b5c2c6df9248dab2
 source: xml
 outdated: false
 ---
-
-Whether the current operation admits the action.

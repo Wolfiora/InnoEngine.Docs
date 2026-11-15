@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Handles a pointer press.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

@@ -13,5 +13,3 @@ reviewed: d0072ce8af43a0143b5a3842764b86a0a93884a88561821b6f2313f652367500
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a device readback operation.

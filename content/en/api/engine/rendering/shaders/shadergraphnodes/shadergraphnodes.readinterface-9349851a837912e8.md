@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads and validates the public node interface declared by a Shader graph.
-
 ## Parameters
 
 **Parameter `graph`:** Detached graph asset source.

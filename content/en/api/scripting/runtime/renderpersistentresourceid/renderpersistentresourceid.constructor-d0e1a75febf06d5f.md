@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a globally stable persistent resource identifier.
-
 ## Parameters
 
 **Parameter `value`:** Provider-qualified stable identifier.

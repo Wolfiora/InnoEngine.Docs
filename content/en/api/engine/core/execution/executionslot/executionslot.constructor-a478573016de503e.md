@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a slot without binding a process-global service.
-
 ## Parameters
 
 **Parameter `name`:** The diagnostic name used when access is invalid.

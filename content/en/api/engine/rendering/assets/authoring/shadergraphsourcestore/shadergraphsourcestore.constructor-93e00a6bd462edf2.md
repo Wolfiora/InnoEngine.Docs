@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Uses the authoritative asset mounts and native graph serializer.
-
 ## Parameters
 
 **Parameter `assets`:** Owner-thread authoring asset pipeline.

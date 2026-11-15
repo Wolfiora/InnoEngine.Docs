@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the defined tags with the immutable default tag first.
-
 ## Returns
 
 An independently owned deterministic tag snapshot.

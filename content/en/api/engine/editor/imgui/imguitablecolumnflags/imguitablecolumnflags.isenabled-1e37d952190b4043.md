@@ -13,5 +13,3 @@ reviewed: 050e3a9e16663156e3cd76ab22973876dbd37217e602940550dacd9b63119950
 source: xml
 outdated: false
 ---
-
-Status: is enabled == not hidden by user/api (referred to as "Hide" in \_DefaultHide and \_NoHide) flags.

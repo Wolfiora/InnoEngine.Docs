@@ -13,5 +13,3 @@ reviewed: 1410f8459bdae971601d2f9ce793bf4df772e4af2da394bc5174c1551af731a7
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable settings type identity.

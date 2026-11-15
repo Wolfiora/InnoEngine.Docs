@@ -13,5 +13,3 @@ reviewed: a3a65fd0e4608971ab023c08583c728a50451078781f201c14b4c0cb67974180
 source: xml
 outdated: false
 ---
-
-Gets the target-assigned interface location or sampled-texture slot.

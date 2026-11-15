@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Appends a selectable scene icon to the current gizmo frame.
-
 ## Parameters
 
 **Parameter `owner`:** The object that owns the resulting lifetime and state.

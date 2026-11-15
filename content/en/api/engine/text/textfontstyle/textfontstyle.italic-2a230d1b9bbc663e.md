@@ -13,5 +13,3 @@ reviewed: d6289e964eb255af6ad1b3456a6bdc53750030361492d7e289bcb7154e8417fa
 source: xml
 outdated: false
 ---
-
-Uses an italic face.

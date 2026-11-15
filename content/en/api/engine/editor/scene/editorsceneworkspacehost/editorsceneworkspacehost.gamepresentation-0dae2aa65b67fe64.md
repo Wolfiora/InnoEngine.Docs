@@ -13,5 +13,3 @@ reviewed: ac007c924d7375232a85c54cf90289a64ccda16c9febe0c8542e7389e804d767
 source: xml
 outdated: false
 ---
-
-Gets the Edit-or-Play rendering presentation boundary owned by this host.

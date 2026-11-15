@@ -13,5 +13,3 @@ reviewed: f7d71c29b189224821c9e844333b3b3b5587a239ee64eb02ee9346bca57a693e
 source: xml
 outdated: false
 ---
-
-Gets or sets parent global properties that must not enter the host tool build.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether this entry belongs to an installed Plugin sample subtree awaiting Project import.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a node and every edge connected to it.
-
 ## Parameters
 
 **Parameter `nodeId`:** Node identifier to remove.

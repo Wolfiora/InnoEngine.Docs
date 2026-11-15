@@ -13,5 +13,3 @@ reviewed: 32fd226de5a8a0a989f0e1dd455ff5a5c6922958716fc6681499439411005e59
 source: xml
 outdated: false
 ---
-
-The render pass supplies the value directly through its command encoder.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Owns detached native asset drafts with shared document, History, recovery and explicit-save semantics.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Native source type edited by the consuming feature.

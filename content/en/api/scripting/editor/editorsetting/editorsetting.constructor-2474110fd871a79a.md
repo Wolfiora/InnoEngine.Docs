@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Creates a Settings definition. A field supplies its persisted default through `P:InnoEditor.Settings.EditorSetting.defaultValue`; a page keeps the base implementation.

@@ -13,5 +13,3 @@ reviewed: 0c41683f62306e8069fee86a206e9909fdd832c6ac03b5dbbd5b39ce595ce723
 source: xml
 outdated: false
 ---
-
-Gets the source frame generation.

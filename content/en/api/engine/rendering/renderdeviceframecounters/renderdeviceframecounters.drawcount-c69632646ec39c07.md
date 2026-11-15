@@ -13,5 +13,3 @@ reviewed: 3c3da940c9ff4386ff1ac038493fe1c21f4ea633513eef1104c08e17a864d34e
 source: xml
 outdated: false
 ---
-
-Gets direct and indirect draw commands submitted during the current frame.

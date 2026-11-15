@@ -13,5 +13,3 @@ reviewed: 85525038846f69cf32fcd0307f2f1d78a1a0d405a2cfc06d3ef3c7f462461252
 source: xml
 outdated: false
 ---
-
-Gets the source identities represented by the deployed catalog.

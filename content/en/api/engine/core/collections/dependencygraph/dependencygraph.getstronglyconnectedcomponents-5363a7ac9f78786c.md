@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets every strongly connected component in deterministic order.
-
 ## Returns
 
 A stable snapshot containing cyclic components and single-node acyclic components.

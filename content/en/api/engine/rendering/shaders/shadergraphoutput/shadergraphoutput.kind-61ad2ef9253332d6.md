@@ -13,5 +13,3 @@ reviewed: bcdff8afe90e5892ddcccfe1554bf36b8c0e89d1e8506708efbdcf78edcad3e1
 source: xml
 outdated: false
 ---
-
-Gets or sets the GPU destination category.

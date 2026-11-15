@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers immutable discovery metadata and an optional parameterless construction function.
-
 ## Parameters
 
 **Parameter `metadata`:** Complete discovery facts for one assembly-local declaration.

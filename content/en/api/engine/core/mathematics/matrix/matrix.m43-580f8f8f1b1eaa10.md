@@ -13,5 +13,3 @@ reviewed: be8fb08afd3f523f896c66cb5afd05643ccd3ca268c9fc2747b9154aadb8884c
 source: xml
 outdated: false
 ---
-
-Row 4, Column 3 (translation Z component for affine transforms).

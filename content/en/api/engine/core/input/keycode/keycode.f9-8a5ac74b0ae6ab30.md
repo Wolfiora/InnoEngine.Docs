@@ -13,5 +13,3 @@ reviewed: 654b9363ff261208fdb908f13689b90a26250cd4d93a55ada1cc67bcb9aca157
 source: xml
 outdated: false
 ---
-
-The F9 function key.

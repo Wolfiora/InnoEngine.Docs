@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Defines the number of layer slots supported by the runtime bit-mask representation.

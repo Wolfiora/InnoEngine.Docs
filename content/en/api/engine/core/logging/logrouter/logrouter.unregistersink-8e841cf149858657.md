@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a sink from subsequent delivery snapshots without disposing it.
-
 ## Remarks
 
 An in-flight batch may still borrow the previous snapshot. This operation does not wait for its callbacks; the host must coordinate quiescence before releasing sink resources. Router disposal releases only sinks that remain registered.

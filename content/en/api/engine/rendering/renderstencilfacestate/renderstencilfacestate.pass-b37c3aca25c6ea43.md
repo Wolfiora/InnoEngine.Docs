@@ -13,5 +13,3 @@ reviewed: 4969269f3693d46506e181e4d74a4d12cd75fe20c8b487d3034f0bfb09482dc4
 source: xml
 outdated: false
 ---
-
-Gets the complete-pass operation.

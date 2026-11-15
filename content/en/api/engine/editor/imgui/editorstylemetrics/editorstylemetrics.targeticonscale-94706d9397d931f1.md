@@ -13,5 +13,3 @@ reviewed: 62817c3113a457a8a4d1fe6ad62c7248eec0c99ac048fccb183a81a6317447f6
 source: xml
 outdated: false
 ---
-
-Gets the font-size multiplier used by the large target icon.

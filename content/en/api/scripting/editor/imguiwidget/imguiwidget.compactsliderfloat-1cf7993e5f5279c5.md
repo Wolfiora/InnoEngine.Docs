@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a bounded slider with compact presentation and a double-click precise input mode.
-
 ## Parameters
 
 **Parameter `label`:** Stable ImGui label and identifier.

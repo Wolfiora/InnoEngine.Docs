@@ -13,5 +13,3 @@ reviewed: d49014e480097e6417937d592b4369c5f885b8de0dd49c01cbbaf0e0462101a6
 source: xml
 outdated: false
 ---
-
-The green value used as part of this type's public representation.

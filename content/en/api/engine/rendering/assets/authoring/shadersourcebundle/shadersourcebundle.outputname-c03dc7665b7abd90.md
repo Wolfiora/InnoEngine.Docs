@@ -13,5 +13,3 @@ reviewed: 6dea0a4ebc01971172036b0a107feea860f1ee54353fd31e75bd7779305bfa47
 source: xml
 outdated: false
 ---
-
-Identifies the authoring-only frozen function module output.

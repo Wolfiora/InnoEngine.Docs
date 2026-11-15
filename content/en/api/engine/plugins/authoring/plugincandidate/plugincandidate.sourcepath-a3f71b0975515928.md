@@ -13,5 +13,3 @@ reviewed: 75cc1c9ba4fb661b8355c6c854d22f7396c88aeed3d271a6d6df76869c27709f
 source: xml
 outdated: false
 ---
-
-Gets the installed `.iplugin` package path.

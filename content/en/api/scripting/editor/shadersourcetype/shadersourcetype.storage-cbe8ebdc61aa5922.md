@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a typed storage binding contract, or null for ordinary values and sampled textures.

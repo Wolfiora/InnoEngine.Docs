@@ -13,5 +13,3 @@ reviewed: c2e4d0e00b130b3a36fa51ea6358b57e1d3bb3e07f67e2b24f76ef3a0840bbd9
 source: xml
 outdated: false
 ---
-
-Uses scaled simulation time and stops while the session is paused.

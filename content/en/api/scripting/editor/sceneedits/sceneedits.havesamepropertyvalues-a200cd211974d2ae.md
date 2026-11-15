@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares common serialized property values using the complete owner serialization context.
-
 ## Parameters
 
 **Parameter `targets`:** Live compatible scene objects to compare.

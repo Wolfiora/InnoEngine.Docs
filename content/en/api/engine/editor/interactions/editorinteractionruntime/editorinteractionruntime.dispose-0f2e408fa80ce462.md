@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases the resources owned by this implementation.
-
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** Thrown after all shutdown stages have been attempted when one or more stages failed.

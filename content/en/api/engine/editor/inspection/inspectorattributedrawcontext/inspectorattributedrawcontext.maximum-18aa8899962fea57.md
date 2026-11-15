@@ -13,5 +13,3 @@ reviewed: d5e17f6d1dfe8549deb692344289b74ee4561010a060923d8202f018d8bd2609
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional inclusive numeric upper bound.

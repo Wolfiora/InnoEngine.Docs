@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records one full artifact output read without treating it as an input snapshot hash.
-
 ## Parameters
 
 **Parameter `bytes`:** The actual number of bytes consumed by output integrity verification.

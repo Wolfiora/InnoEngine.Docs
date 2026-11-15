@@ -13,5 +13,3 @@ reviewed: 8899ef72683468e2c6696eb371c3847ca2f88b0728eb9c8ae553d100d6be1969
 source: xml
 outdated: false
 ---
-
-Selects the width mask presentation behavior.

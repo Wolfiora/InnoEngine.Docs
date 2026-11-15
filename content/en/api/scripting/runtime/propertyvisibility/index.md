@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Defines member participation rules for persistence and runtime access.
-
 ## Remarks
 
 This is a flag enum. Prefer the named presets (`F:InnoEngine.Serialization.PropertyVisibility.Show`, `F:InnoEngine.Serialization.PropertyVisibility.Hide`, `F:InnoEngine.Serialization.PropertyVisibility.Readonly`, `F:InnoEngine.Serialization.PropertyVisibility.Transient`, `F:InnoEngine.Serialization.PropertyVisibility.SerializeOnly`, `F:InnoEngine.Serialization.PropertyVisibility.DeserializeOnly`) for common configurations.

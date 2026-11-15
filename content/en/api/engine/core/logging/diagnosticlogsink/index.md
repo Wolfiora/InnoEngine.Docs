@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Projects changed diagnostic issues into a host's log stream without introducing another diagnostic owner.

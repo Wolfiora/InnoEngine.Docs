@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves and reads an include without bypassing asset mount permissions.
-
 ## Parameters
 
 **Parameter `includingFile`:** Resolved path of the including source.

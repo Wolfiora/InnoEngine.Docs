@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Reports that the selected backend cannot perform an explicitly requested optional operation.

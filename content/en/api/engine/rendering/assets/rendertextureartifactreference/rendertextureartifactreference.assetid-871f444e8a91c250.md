@@ -13,5 +13,3 @@ reviewed: c73f0faafc46ee524d0a1a7a7a9484607c2a06e48c7d7fb5041518f889648992
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the owning asset.

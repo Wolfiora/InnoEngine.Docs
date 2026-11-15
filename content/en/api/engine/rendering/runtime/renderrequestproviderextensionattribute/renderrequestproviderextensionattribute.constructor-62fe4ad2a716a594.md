@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a render request provider declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable provider identifier.

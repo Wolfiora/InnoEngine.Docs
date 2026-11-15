@@ -13,5 +13,3 @@ reviewed: 074582c86046446663c1ad34b10d59721c50c2ff559a484e8d8ea30c9c8edc6d
 source: xml
 outdated: false
 ---
-
-Gets whether the user explicitly left this reference unassigned.

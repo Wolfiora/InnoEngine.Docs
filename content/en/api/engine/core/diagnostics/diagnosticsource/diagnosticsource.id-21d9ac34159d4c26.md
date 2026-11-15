@@ -13,5 +13,3 @@ reviewed: c69b7af201a3f4b9cfa73873392061a3cc4f2ee1b7561445915cb8e7d2fef48a
 source: xml
 outdated: false
 ---
-
-Gets the stable machine-readable producer identifier.

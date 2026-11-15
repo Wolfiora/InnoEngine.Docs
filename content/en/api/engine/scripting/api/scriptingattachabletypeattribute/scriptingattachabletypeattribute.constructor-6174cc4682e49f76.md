@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates attachable script-type metadata for one extensible base class.
-
 ## Parameters
 
 **Parameter `kind`:** The non-empty domain-defined kind written to script type manifests and diagnostics.

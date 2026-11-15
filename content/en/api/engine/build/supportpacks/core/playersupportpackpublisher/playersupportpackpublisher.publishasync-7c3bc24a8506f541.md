@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares a target closure in isolation and publishes its immutable deployment inputs.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The source checkout containing InnoEngine.sln.

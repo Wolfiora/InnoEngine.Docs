@@ -13,5 +13,3 @@ reviewed: a4fe732905ca2114831c9c4f760edbd959725ec119e8b96ce7fc29a2e7139a2b
 source: xml
 outdated: false
 ---
-
-Gets the stable binding protocol value.

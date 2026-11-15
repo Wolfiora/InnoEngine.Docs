@@ -13,5 +13,3 @@ reviewed: 91f1adade1958f5db19fecff1e8b0cfa8bb8f2dbfb595f7d5a3c99cfcb22c372
 source: xml
 outdated: false
 ---
-
-Persistent offscreen render texture.

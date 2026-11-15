@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the ordered selection; duplicates are removed and the final target becomes primary.
-
 ## Parameters
 
 **Parameter `targets`:** Registered objects resolved for the current callback.

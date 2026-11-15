@@ -13,5 +13,3 @@ reviewed: f44ed8fde7605ac7e34f7c72a4966ca754406b53671283fff985be4ba75786cb
 source: xml
 outdated: false
 ---
-
-Gets the view-to-clip matrix used by the submitted frame.

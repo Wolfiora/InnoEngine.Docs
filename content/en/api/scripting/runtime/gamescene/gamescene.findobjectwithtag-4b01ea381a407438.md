@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Finds the first game object with an ordinally matching tag in scene storage order.
-
 ## Parameters
 
 **Parameter `tag`:** Tag to find.

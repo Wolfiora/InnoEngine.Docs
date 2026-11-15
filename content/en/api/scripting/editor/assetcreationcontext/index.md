@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Provides source encoding services to one detached Asset creation template invocation.

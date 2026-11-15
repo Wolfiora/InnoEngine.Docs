@@ -13,5 +13,3 @@ reviewed: a827dfe0d65bb751bf6c1899efbaabdb7f0791ad24478f7f18ad514e78c6e994
 source: xml
 outdated: false
 ---
-
-Always show horizontal scrollbar (even if ContentSize.x \< Size.x)

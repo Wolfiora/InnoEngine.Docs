@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Creates common build pipelines from a single distribution and explicitly borrowed authoring owners.

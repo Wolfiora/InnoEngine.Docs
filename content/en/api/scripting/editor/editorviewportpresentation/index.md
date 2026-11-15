@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes host-selected presentation preferences without prescribing rendering behavior.

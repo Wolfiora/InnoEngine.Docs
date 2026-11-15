@@ -13,5 +13,3 @@ reviewed: fb99d21094bf1df6c323ac07ac6d745a8e9c848587f68716aab552fa043fb1c9
 source: xml
 outdated: false
 ---
-
-Gets the structured diagnostic sink.

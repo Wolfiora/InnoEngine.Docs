@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the protocol identifier for diagnostics.
-
 ## Returns
 
 The stable identifier, or `<invalid>` when empty.

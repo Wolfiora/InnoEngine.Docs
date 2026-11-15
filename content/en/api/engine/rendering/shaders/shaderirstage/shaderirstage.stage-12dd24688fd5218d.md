@@ -13,5 +13,3 @@ reviewed: 727f3123a0124e8de7b370e4c6a7ab1945707ebddc7f8221b41b57a621713b9c
 source: xml
 outdated: false
 ---
-
-Gets the programmable stage.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pins publisher activity until publication, reading handoff and current-root updates finish.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels this wait without disturbing other owners.

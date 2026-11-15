@@ -13,5 +13,3 @@ reviewed: 1813bde61f0bb18a46d447406c7b9b76e0377a66bbbdf187087a6b8c4d199b47
 source: xml
 outdated: false
 ---
-
-Selects the tab hovered presentation behavior.

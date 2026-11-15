@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Borrows validators while retaining only the immutable selected closure requirements.
-
 ## Parameters
 
 **Parameter `requirements`:** The distribution's frozen input requirements.

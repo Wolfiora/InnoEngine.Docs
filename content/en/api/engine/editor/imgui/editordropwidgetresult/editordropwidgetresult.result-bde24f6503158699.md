@@ -13,5 +13,3 @@ reviewed: e0063408fb6ad823a29832add326797f32d1a863effbdf50af904ab4458716d1
 source: xml
 outdated: false
 ---
-
-Gets the delivered drop result.

@@ -13,5 +13,3 @@ reviewed: d09c968bc451c1d6d5aaf5c3832a3cbc6338f7323cab311f76184d46f2a52797
 source: xml
 outdated: false
 ---
-
-Gets active contributions used to reject forbidden downstream references.

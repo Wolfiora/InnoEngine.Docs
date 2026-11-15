@@ -13,5 +13,3 @@ reviewed: 4eea9d2b2c330e1b0a82179c5ae77a659cddb847f5013085221cde4fdcb9c191
 source: xml
 outdated: false
 ---
-
-The reference originates from a runtime subsystem.

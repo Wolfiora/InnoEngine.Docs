@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Owns reloadable shader node compilers through the shared candidate, rollback and retirement protocol.

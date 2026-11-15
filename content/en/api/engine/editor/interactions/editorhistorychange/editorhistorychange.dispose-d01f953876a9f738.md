@@ -13,5 +13,3 @@ reviewed: 0be0707fc6b39953eb7d53c10b93a07bf3b4d39681b1e38cd3c9c38082f4ac11
 source: xml
 outdated: false
 ---
-
-Releases the payload storage owned by this history change.

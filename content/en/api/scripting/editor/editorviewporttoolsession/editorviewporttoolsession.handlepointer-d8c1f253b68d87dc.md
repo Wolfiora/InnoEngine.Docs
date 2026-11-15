@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Routes one immutable pointer sample.
-
 ## Parameters
 
 **Parameter `pointer`:** Pointer sample with precomputed world coordinates.

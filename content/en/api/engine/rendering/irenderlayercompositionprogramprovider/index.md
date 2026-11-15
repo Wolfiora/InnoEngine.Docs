@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Supplies a backend-specific graphics program for compositing ordered render layers.

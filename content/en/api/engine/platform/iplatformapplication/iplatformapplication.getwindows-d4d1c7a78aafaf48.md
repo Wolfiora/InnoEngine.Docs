@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the currently valid windows owned or tracked by this platform session.
-
 ## Returns
 
 An immutable-by-convention snapshot of the current windows.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a command-free frame that deterministically retires plugin-owned resources.
-
 ## Parameters
 
 **Parameter `meshes`:** Assigned mesh handles to retire.

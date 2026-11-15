@@ -13,5 +13,3 @@ reviewed: cef10d37a9e58f96f41d673a50df52f533232e31734a940dd1dd74cdc6dcb8ec
 source: xml
 outdated: false
 ---
-
-Gets retained runtime payload bytes.

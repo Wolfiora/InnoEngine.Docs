@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Owns one immutable UI language registration snapshot.

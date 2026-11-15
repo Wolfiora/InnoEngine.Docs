@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats this identifier for diagnostics and persistence.
-
 ## Returns
 
 The protocol value, or an empty string for an uninitialized identifier.

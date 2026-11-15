@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a barrier over a complete retirement set.
-
 ## Parameters
 
 **Parameter `probes`:** Weak unload probes for every retired collectible generation in the transaction.

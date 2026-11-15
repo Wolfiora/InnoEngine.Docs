@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes and validates a complete module without mixing frontend generations between implementations.
-
 ## Parameters
 
 **Parameter `implementations`:** Explicit implementation and variant candidates from the current asset transaction.

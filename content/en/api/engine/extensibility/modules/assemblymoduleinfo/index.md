@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides non-owning diagnostic information about an active assembly module.
-
 ## Parameters
 
 **Parameter `handle`:** The opaque handle validated by this operation.

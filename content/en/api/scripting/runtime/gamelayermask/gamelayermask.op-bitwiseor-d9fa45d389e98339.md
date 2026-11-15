@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Combines the enabled bits from two masks.
-
 ## Parameters
 
 **Parameter `left`:** The first mask.

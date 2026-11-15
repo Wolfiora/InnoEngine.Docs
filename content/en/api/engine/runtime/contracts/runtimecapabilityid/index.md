@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Identifies a backend-neutral capability supplied by composition, not an object or native handle.

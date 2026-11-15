@@ -13,5 +13,3 @@ reviewed: 780e1357b0f6141eccfe67cd6eafb98432601f925a0f97e01b7e63b9a3006ff4
 source: xml
 outdated: false
 ---
-
-Gets whether this value was initialized with a destination or sampling policy.

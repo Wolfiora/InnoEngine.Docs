@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies deployment metadata so the source can retire its own buffers immediately.
-
 ## Parameters
 
 **Parameter `manifest`:** The complete strict runtime manifest envelope.

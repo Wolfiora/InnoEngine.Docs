@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a runtime for the supplied passive context.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context.

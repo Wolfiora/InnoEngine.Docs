@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets successful native transient attachment framebuffer allocations since device creation.

@@ -13,5 +13,3 @@ reviewed: 4e76d0d80a4902dc9ab4ea6c8114a76ac2c0e8a7a4bb5205d403dda812317cca
 source: xml
 outdated: false
 ---
-
-Gets the immutable combined snapshot budget assigned to this invocation.

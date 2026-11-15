@@ -13,5 +13,3 @@ reviewed: b8b4827235c1ec934f403f2ccc7ffc0209d92c0a2b90c2bbadbea09faefa6efd
 source: xml
 outdated: false
 ---
-
-Gets the engine source checkout.

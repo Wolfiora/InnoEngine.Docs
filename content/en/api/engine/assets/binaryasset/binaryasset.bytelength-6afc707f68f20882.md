@@ -13,5 +13,3 @@ reviewed: 1d56d5548d6f9b1f61f7234085bc604e03e0ea5750b13f8988f9361c4fe5664e
 source: xml
 outdated: false
 ---
-
-Gets the imported payload length in bytes.

@@ -13,5 +13,3 @@ reviewed: 7128bc0246aa1b7219e8b9ebd0cfcda76a4f392f4c0f7f45fdea061303329698
 source: xml
 outdated: false
 ---
-
-Identifies the RightAlt presentation key or modifier.

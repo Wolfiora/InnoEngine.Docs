@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Detaches a base layer from this stack.
-
 ## Parameters
 
 **Parameter `layer`:** The base layer to detach.

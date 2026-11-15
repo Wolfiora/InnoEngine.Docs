@@ -13,5 +13,3 @@ reviewed: facc253947a04a2f1ee8c6494e4343c0087b533539812bbf1a4c5f1770b546bd
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned input factory snapshot.

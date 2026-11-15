@@ -13,5 +13,3 @@ reviewed: 0538147af8c919be54d4a752d427a0cd928eff1b10581818012ce49f7b615ae3
 source: xml
 outdated: false
 ---
-
-Gets the vertical distance after a framed Inspector section.

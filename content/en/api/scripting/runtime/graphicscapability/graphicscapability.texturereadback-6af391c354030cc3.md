@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Asynchronous texture transfer from GPU memory to CPU-visible bytes.

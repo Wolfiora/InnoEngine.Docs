@@ -13,5 +13,3 @@ reviewed: a459dfa96a402295035fa31f4b8f1f28d492f6985dfa54b95d58a647332c92ba
 source: xml
 outdated: false
 ---
-
-Gets the configured frame count.

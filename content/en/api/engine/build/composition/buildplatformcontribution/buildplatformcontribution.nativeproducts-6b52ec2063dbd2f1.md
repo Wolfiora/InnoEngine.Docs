@@ -13,5 +13,3 @@ reviewed: eac7485841fa51c996d6403bfe2edab3caf2d63b9c4da9d05830abe171d0530c
 source: xml
 outdated: false
 ---
-
-Gets the frozen ordinary product-build closures explicitly contributed by this target.

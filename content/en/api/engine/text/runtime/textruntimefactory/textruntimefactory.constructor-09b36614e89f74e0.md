@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reusable text runtime factory.
-
 ## Parameters
 
 **Parameter `runtimeFactory`:** The callback that creates one runtime per session.

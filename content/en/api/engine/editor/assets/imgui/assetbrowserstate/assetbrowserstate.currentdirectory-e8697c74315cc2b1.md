@@ -13,5 +13,3 @@ reviewed: 9a238ced099eda811324fc8120fdff81dde89e0489c91f16b278c6283670b72c
 source: xml
 outdated: false
 ---
-
-Gets the current directory inside `P:Inno.Editor.Assets.ImGui.AssetBrowserState.root`. An empty value identifies that root's overview.

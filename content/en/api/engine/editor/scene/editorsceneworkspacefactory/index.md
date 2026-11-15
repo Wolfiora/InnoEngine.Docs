@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Creates explicitly owned editor scene workspaces for embedded editor hosts and command-line tooling.

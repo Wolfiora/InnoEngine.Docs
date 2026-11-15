@@ -13,5 +13,3 @@ reviewed: b27129f57f1c9b89f7e0b5643b06522c71f7bd63af0e9886c90b799491a52182
 source: xml
 outdated: false
 ---
-
-Gets the page that owns this field, or this page's own path for a page definition.

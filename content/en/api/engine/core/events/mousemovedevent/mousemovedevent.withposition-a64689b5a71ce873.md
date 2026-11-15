@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Repositions this movement without starting a new global consumption lifetime.
-
 ## Parameters
 
 **Parameter `x`:** The routed horizontal coordinate in logical pixels.

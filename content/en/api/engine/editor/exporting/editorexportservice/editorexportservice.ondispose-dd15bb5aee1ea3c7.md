@@ -13,5 +13,3 @@ reviewed: 8fef146d0c2cf72a940609694e12845b20fc78b2824a90de1434d7b0c2e9678b
 source: xml
 outdated: false
 ---
-
-Drains export cleanup before releasing cancellation resources owned by this module.

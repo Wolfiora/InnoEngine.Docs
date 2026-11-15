@@ -13,5 +13,3 @@ reviewed: f39fceb79442883f341ec4e8dc51f396aa35ce77d5923252638bf352104c4c9e
 source: xml
 outdated: false
 ---
-
-Gets whether the entry represents a directory.

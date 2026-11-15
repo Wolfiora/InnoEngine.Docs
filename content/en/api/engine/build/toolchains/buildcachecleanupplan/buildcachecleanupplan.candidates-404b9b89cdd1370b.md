@@ -13,5 +13,3 @@ reviewed: 1be295512e3ed4f6d0509f73a613f106ab3d85564d25a9de0709c77a12344047
 source: xml
 outdated: false
 ---
-
-Gets the original eligible candidates shared by preview and execution.

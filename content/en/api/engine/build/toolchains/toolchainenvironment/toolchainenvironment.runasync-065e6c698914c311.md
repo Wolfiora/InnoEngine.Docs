@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a quoted host command with a frozen compiler and SDK environment.
-
 ## Parameters
 
 **Parameter `context`:** The context resolved before artifact fingerprinting.

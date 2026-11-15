@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds exact ordinal text, preserving the distinction between null and empty.
-
 ## Parameters
 
 **Parameter `value`:** The immutable current text input.

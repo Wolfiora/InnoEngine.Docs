@@ -13,5 +13,3 @@ reviewed: ffee445b39b1bb85e08b455e709dd0cabd58cc50917b85176aad02947df94461
 source: xml
 outdated: false
 ---
-
-Gets whether default object serialization requires an explicit converter.

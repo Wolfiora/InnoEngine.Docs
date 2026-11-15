@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Linearly interpolates between two values.
-
 ## Parameters
 
 **Parameter `value1`:** Source value.

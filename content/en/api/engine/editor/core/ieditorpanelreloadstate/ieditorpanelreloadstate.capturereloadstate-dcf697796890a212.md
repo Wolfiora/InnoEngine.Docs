@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures presentation-neutral state without retaining runtime or plugin object references.
-
 ## Returns
 
 An immutable byte payload that can be consumed by the replacement panel generation.

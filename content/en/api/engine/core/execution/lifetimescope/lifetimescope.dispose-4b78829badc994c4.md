@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases a quiescent lifetime in reverse registration order, continuing after ordinary cleanup failures.
-
 ## Remarks
 
 Pending retirement retains the current resource and all remaining dependencies for a later attempt. Concurrent or reentrant retirement reports pending work without invoking a resource twice.

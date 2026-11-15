@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads and validates the current build profile document.
-
 ## Returns
 
 A newly owned build profile that callers may edit independently.

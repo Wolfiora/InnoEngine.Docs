@@ -13,5 +13,3 @@ reviewed: 73f62cc6b0f57e12ce3dd68eaaa6f946e35fe6f93c2d47861bcaf2e8871909a7
 source: xml
 outdated: false
 ---
-
-Gets card body padding.

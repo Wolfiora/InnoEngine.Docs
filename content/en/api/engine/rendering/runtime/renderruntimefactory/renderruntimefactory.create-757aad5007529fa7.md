@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rendering feature over a newly allocated runtime layer.
-
 ## Parameters
 
 **Parameter `context`:** The isolated session context passed to the rendering runtime factory.

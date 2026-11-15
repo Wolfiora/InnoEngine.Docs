@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ends initial authoring extension discovery and strictly retries dependent imports.
-
 ## Remarks
 
 Call on the initialization thread after successful extension activation. Failed compilation must not call this method.

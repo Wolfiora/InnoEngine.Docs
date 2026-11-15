@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits an activated reload and begins cooperative unload of the old generation.
-
 ## Returns
 
 The validated assembly unload monitor that represents the completed operation.

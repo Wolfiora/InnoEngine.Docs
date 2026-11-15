@@ -13,5 +13,3 @@ reviewed: a76e9a8f13aa5df2ff1ad89af26c8af0ee59bece1f657f845713724eecd73b24
 source: xml
 outdated: false
 ---
-
-Selects the table row bg presentation behavior.

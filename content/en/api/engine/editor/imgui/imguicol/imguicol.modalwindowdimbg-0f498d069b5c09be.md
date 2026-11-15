@@ -13,5 +13,3 @@ reviewed: e07ec420884f5e0afb082f7d674d61994c273c9df8cba85f36bb462fb780ca18
 source: xml
 outdated: false
 ---
-
-Selects the modal window dim bg presentation behavior.

@@ -13,5 +13,3 @@ reviewed: 1e2633bb5782ead347d850c231e6b98d8786d493405074d76a5b7cc611b2163c
 source: xml
 outdated: false
 ---
-
-Gets the owned serialized content catalog, valid for this metadata object's lifetime.

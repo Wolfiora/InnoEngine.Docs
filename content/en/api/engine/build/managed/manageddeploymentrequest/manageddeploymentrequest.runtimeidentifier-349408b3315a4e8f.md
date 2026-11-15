@@ -13,5 +13,3 @@ reviewed: 6309627835134d6750b5761f4e1dbe687e809ea182f28f4f273e8a19cc28f4ff
 source: xml
 outdated: false
 ---
-
-Gets the exact target identifier accepted by the selected managed toolchain.

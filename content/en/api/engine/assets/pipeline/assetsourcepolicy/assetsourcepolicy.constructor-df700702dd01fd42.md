@@ -13,5 +13,3 @@ reviewed: 8b4d9d1d1ed294ff1e66edc7c68ef76480c3990796b7b4565df676fa15bde92c
 source: xml
 outdated: false
 ---
-
-Creates a source policy using the engine's default noise filters.

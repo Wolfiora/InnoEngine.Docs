@@ -13,5 +13,3 @@ reviewed: d0fef03bf8abb62214793f29cdd2d3f6bfd82ccbe421ab63f9e7580d0668b468
 source: xml
 outdated: false
 ---
-
-Gets the GPU input category.

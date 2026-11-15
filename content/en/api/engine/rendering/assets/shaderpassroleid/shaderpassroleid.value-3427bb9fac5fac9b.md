@@ -13,5 +13,3 @@ reviewed: d8f0d94d2b4291a7ace7494934e5386575edf63b6eaec1388d6534504f128822
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable role value.

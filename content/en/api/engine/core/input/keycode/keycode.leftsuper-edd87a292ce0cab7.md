@@ -13,5 +13,3 @@ reviewed: f8510185c24e4ae6dcf249871421347f4629e8fe9e354d7a65f7f227877c901e
 source: xml
 outdated: false
 ---
-
-The left super key.

@@ -13,5 +13,3 @@ reviewed: e40040d48bfc1dc54a1086230f4200a39b1f1c86cdf46a8add80ad66838e5f55
 source: xml
 outdated: false
 ---
-
-Gets the selected tab color.

@@ -13,5 +13,3 @@ reviewed: 5d6b9ca4dd9fb578b06d207cff42441c370cd4624180e387e53bfd96bf019b6a
 source: xml
 outdated: false
 ---
-
-Automatically select new tabs when they appear

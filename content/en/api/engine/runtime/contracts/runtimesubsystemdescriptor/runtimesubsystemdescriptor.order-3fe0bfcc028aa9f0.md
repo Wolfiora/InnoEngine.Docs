@@ -13,5 +13,3 @@ reviewed: 8a5e3e5de6bc41ad207c7fc6f084742b97fb1ca17acf686853e2f72af679803e
 source: xml
 outdated: false
 ---
-
-Gets the deterministic order used after dependency constraints.

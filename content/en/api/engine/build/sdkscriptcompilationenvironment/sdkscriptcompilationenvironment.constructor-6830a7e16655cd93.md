@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a host-owned input provider without selecting installed reference packs independently.
-
 ## Parameters
 
 **Parameter `dotnetHost`:** The .NET host executable selected by the composition root.

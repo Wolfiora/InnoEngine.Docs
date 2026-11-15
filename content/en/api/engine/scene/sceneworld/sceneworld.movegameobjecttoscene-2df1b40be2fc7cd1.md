@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live object subtree between two scenes loaded by this world.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live root object to move.

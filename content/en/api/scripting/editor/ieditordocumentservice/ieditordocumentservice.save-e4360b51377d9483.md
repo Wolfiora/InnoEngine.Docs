@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Saves one open document through its current provider.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable tab identity.

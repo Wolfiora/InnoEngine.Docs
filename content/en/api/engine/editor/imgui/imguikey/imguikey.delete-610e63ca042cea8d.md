@@ -13,5 +13,3 @@ reviewed: 641d0d46a13148acda1228bab635756c1a47e92fed44bcacc4366212d3df135c
 source: xml
 outdated: false
 ---
-
-Identifies the Delete presentation key or modifier.

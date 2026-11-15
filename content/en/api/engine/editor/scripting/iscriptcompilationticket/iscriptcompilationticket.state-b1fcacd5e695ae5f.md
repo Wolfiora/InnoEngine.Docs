@@ -13,5 +13,3 @@ reviewed: 6bf3e7c74bafab86cf1ca499fc6089a388754e5480ff82bbd9731d6001a06e44
 source: xml
 outdated: false
 ---
-
-Gets the current lifecycle state of this exact request.

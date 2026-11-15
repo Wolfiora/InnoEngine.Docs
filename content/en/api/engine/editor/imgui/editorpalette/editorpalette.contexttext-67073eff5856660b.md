@@ -13,5 +13,3 @@ reviewed: 85ab3cc7e52a3909bd24317afb256164290674b36ce24561c27d4fb66dc1632c
 source: xml
 outdated: false
 ---
-
-Gets the subdued contextual text color used by paths and origin hints.

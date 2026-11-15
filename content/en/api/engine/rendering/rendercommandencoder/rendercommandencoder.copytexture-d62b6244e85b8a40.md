@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies texture content without transferring resource ownership.
-
 ## Parameters
 
 **Parameter `source`:** Frame-scoped source texture.

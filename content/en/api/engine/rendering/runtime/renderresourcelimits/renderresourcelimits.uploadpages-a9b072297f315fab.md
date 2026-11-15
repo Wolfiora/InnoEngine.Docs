@@ -13,5 +13,3 @@ reviewed: a254c9dbdfd93ba35c85d0d562d4217443cfe83e35d09f260e1c9931fac388e3
 source: xml
 outdated: false
 ---
-
-Gets the maximum resident frame-upload pages.

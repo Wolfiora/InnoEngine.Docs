@@ -13,5 +13,3 @@ reviewed: 0ba6d3177bfc3ae9aa23d6064240cabfdc86f514ef79b74e02de204e0cb39ee4
 source: xml
 outdated: false
 ---
-
-Gets the presentation target format expected by the pipeline.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the settings lookup bound to the current asynchronous execution context.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no settings lookup is active for the caller.

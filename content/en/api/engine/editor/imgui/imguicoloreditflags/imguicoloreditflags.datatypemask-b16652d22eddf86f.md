@@ -13,5 +13,3 @@ reviewed: edae8cde2d4249dcc21fff151e6a058a015ef72844aaa1cdf72cade6bbb9cbd7
 source: xml
 outdated: false
 ---
-
-Selects the data type mask presentation behavior.

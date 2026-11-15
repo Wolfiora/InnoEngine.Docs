@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Serializes one validated animation clip back to its writable source mount.
-
 ## Parameters
 
 **Parameter `context`:** Generation-bound source serialization services.

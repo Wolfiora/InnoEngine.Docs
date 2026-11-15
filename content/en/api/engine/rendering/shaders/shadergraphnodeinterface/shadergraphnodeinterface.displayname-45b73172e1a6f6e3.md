@@ -13,5 +13,3 @@ reviewed: cb6f2ed1167c7322dc5fae998cb4f4dc88d15d97bf44725013fd20ccc99e8082
 source: xml
 outdated: false
 ---
-
-Gets or sets the node title displayed to authors.

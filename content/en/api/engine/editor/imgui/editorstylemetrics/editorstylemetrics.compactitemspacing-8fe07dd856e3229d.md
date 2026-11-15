@@ -13,5 +13,3 @@ reviewed: 8dc918ae2d155e172521e1f88fb15248ab3b4703bd00690defb07c614a03c382
 source: xml
 outdated: false
 ---
-
-Gets compact vertical item spacing.

@@ -13,5 +13,3 @@ reviewed: 0cac2d8327863a1ecefdda6adf9047c621e5d6b5491c8273fd6828a8874d0a01
 source: xml
 outdated: false
 ---
-
-Gets the stable node definition identifier.

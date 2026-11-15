@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks the exact lifetime conservatively without holding an operating-system handle afterwards.
-
 ## Returns
 
 Active for the matching live process, Exited for a missing or recycled process, or Unknown for uninitialized stamps and inaccessible process information.

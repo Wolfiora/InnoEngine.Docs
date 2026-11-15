@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Base class for mouse button events.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: d5a952e8fa1bd384c06889596cc4b12d161b6466075674de65e9b88c5e27b7ff
 source: xml
 outdated: false
 ---
-
-Gets or initializes the payload size at which immutable bytes are moved to the temporary disk store.

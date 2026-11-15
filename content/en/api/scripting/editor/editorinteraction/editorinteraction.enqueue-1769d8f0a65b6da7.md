@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Queues an action until the current UI traversal completes.
-
 ## Parameters
 
 **Parameter `action`:** The stable action name.

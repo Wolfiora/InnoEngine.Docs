@@ -13,5 +13,3 @@ reviewed: f61e6be24df33da7709baeec6ad1bda11eeea9f9c4a4e4e4eb3473f9e73ac269
 source: xml
 outdated: false
 ---
-
-Vector or matrix uniform data.

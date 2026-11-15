@@ -13,5 +13,3 @@ reviewed: 63d28ee7d279095938b037344acfda6ef238d3a776a1df6b51d4dbc510751d4f
 source: xml
 outdated: false
 ---
-
-Fifth texture coordinate.

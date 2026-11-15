@@ -13,5 +13,3 @@ reviewed: 5284fdc3744fe6e467c108174103eaef3ba367378883aef6cdcab61ebb87bfe2
 source: xml
 outdated: false
 ---
-
-Raster depth or stencil attachment.

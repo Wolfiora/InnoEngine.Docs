@@ -13,5 +13,3 @@ reviewed: bf52be7ffb8f721ffb655be1d851e1482bb99c5592c4d2ea33f8629f1b7e5ad4
 source: xml
 outdated: false
 ---
-
-Begins the sole API-thread frame scope and processes queued resource work.

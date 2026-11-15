@@ -13,5 +13,3 @@ reviewed: 03cf0004597cabd682444d8f7ddea80578f7958cc550735e4c89982189063ee9
 source: xml
 outdated: false
 ---
-
-Gets the stable pass name within the owning shader.

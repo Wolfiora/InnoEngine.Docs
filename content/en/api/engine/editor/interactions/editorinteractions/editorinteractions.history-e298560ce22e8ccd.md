@@ -13,5 +13,3 @@ reviewed: d7920d151fe497ac762e74d28143a01bccc7bee168083cae6023a64cdda2f0cb
 source: xml
 outdated: false
 ---
-
-Gets the transactional Undo and Redo history owned by this editor runtime.

@@ -13,5 +13,3 @@ reviewed: a89bc048dd66a4500b1c2dab8260cbc3dd45e1350e772730f34e9bb2ce1c01ef
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive base movement speed in world units per second.

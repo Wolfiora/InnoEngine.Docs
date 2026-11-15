@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Declares the source name, extension, and menu placement that cannot be inferred from an `T:InnoEngine.Assets.AssetObject` type alone.

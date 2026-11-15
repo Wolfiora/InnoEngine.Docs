@@ -13,5 +13,3 @@ reviewed: 1a4e107f6182a62a3453fdff350302bfee243b86f6722ba6b458b557407cdea5
 source: xml
 outdated: false
 ---
-
-Gets the texture width in pixels.

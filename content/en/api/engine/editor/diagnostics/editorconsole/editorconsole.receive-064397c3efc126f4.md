@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Appends one asynchronously dispatched log entry.
-
 ## Parameters
 
 **Parameter `entry`:** The immutable entry to append.

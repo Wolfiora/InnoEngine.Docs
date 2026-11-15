@@ -13,5 +13,3 @@ reviewed: f9336f227b8904cfe67235bd92f14c02b6d816bd54aa29839af74ea90204fd85
 source: xml
 outdated: false
 ---
-
-Gets the arrows up down left right glyph used by standard Editor controls.

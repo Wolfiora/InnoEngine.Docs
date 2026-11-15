@@ -13,5 +13,3 @@ reviewed: 54186ba36ca6cc4cfdd378e5316ad516b31c2ea3a499f8e21ca5697c150d9d15
 source: xml
 outdated: false
 ---
-
-Gets navigation dim background.

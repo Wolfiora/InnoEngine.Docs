@@ -13,5 +13,3 @@ reviewed: 77e51da647d58a91804df78f4c1132574fe77c467114d333b0e18257fcfeffd2
 source: xml
 outdated: false
 ---
-
-Selects the nav windowing highlight presentation behavior.

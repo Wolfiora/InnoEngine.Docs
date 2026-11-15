@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats this key for diagnostics and persistence.
-
 ## Returns
 
 The normalized key value.

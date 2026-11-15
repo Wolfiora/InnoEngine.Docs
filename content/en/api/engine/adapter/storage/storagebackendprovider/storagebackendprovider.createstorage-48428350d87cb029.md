@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a caller-owned storage service using this implementation.
-
 ## Parameters
 
 **Parameter `scope`:** The application namespace to isolate within this provider's host configuration.

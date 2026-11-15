@@ -13,5 +13,3 @@ reviewed: 64277b3a150d279d7db3780125adc492150a9afaecfd798232b592ff7ae9fae0
 source: xml
 outdated: false
 ---
-
-Selects the item inner spacing presentation behavior.

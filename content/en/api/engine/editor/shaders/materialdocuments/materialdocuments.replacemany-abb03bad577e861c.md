@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes compatible selected drafts within one shared gesture.
-
 ## Parameters
 
 **Parameter `candidates`:** Detached Material values keyed by persistent source identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances layout by an invisible size.
-
 ## Parameters
 
 **Parameter `size`:** The size consumed by dummy; ownership remains with the caller unless explicitly stated otherwise.

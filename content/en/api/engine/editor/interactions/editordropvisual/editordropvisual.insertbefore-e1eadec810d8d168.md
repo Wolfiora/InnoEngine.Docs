@@ -13,5 +13,3 @@ reviewed: 92b5c566ed2013593fcd70a581aab685cddc73d856e976464d46f653a222cf49
 source: xml
 outdated: false
 ---
-
-Draw an insertion line before the target.

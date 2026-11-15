@@ -13,5 +13,3 @@ reviewed: 7c9bac791784f47d1b138cbac98fe412e39dac2609daa8ed23c7885a5e9b50cd
 source: xml
 outdated: false
 ---
-
-Gets or sets stable module names that must be active before this module.

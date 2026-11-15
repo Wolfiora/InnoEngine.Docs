@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Starts one clip with explicit playback options.
-
 ## Parameters
 
 **Parameter `clip`:** Valid imported animation clip.

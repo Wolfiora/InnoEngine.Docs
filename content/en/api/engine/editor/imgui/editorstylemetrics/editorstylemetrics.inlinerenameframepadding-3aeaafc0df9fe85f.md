@@ -13,5 +13,3 @@ reviewed: 7a49003ef87f25008c081e8bd007e3690adb7e0fb4e75574882ff409e480c03f
 source: xml
 outdated: false
 ---
-
-Gets the compact inner padding of inline rename fields.

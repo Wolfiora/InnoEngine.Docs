@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Renames a live GameObject and records the two display strings.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live GameObject to rename.

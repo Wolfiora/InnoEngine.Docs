@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures explicitly supported library formats and ordered linker configuration.
-
 ## Parameters
 
 **Parameter `sharedLibraryExtension`:** The shared-library suffix, or null when shared linkage is unsupported.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Identifies a logical assembly module without retaining its runtime assemblies.
-
 ## Parameters
 
 **Parameter `id`:** The stable identity used to locate the requested value.

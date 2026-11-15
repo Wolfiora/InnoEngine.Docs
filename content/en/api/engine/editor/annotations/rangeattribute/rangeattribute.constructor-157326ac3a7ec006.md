@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an inclusive numeric range.
-
 ## Parameters
 
 **Parameter `minimum`:** Inclusive lower bound.

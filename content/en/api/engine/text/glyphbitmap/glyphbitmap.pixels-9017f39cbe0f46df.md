@@ -13,5 +13,3 @@ reviewed: 17503920e0802e28ac05a9f90495be822a4cfa8a93b87d04f5026edd8f15635c
 source: xml
 outdated: false
 ---
-
-Gets tightly packed row-major 8-bit coverage.

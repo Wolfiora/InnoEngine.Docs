@@ -13,5 +13,3 @@ reviewed: 7e32009fda9a08fb097e41e21ff70bf974c1776a6fc7c2ead21c21d0e83b0aa5
 source: xml
 outdated: false
 ---
-
-Gets whether the content row was double-clicked. Double-clicking a non-leaf content row also toggles its retained expansion state for the next frame.

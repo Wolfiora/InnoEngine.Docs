@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Ranks assignable editor extension targets by class ancestry, with interface registrations one step away.

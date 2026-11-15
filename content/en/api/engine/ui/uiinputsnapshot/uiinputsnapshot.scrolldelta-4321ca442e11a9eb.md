@@ -13,5 +13,3 @@ reviewed: acf2d76e4ee987fd1b92120da6e93f09ec7a42c2139e950b7d11c81f8432ade5
 source: xml
 outdated: false
 ---
-
-Gets pointer wheel movement.

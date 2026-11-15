@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a standard checkbox with the shared editor tooltip behavior.
-
 ## Parameters
 
 **Parameter `label`:** Visible label and stable ImGui identifier.

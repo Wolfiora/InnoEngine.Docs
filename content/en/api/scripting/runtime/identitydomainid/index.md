@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Identifies one isolated runtime identity namespace within the current process.
-
 ## Remarks
 
 Domain identifiers are runtime-only values. They must never be serialized or used as persistent object identity.

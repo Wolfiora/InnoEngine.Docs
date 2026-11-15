@@ -13,5 +13,3 @@ reviewed: a21087658656881cb18d407d2361349f16ab953cc7dcd78e3ee815dcb7d666c9
 source: xml
 outdated: false
 ---
-
-Gets the concrete type handled by this extension implementation.

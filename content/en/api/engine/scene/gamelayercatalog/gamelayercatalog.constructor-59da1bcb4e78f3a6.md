@@ -13,5 +13,3 @@ reviewed: c51106836d36f200275cc7ec34e30c4cb62342f646a536714beccd730e307097
 source: xml
 outdated: false
 ---
-
-Creates a layer stack containing the immutable default layer.

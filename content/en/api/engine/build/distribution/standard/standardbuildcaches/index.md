@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 aliases: []
 ---
-
-Registers the standard distribution's actual immutable artifact publishers for coordinated cleanup.

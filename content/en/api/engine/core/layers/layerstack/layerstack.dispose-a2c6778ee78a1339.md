@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Detaches every layer and permanently releases this stack.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A layer still owns live work. The current and lower layers remain owned until disposal is retried.

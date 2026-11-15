@@ -13,5 +13,3 @@ reviewed: 1819c775681f1fe104074ff4b616d3b67e8c38b9f8daed0ee957c6f3ebca5565
 source: xml
 outdated: false
 ---
-
-Gets the globally stable pipeline extension identifier.

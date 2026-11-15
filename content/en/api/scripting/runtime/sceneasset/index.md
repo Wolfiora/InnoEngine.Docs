@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Stores imported scene source that can create independent runtime scenes.

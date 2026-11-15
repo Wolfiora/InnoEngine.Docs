@@ -13,5 +13,3 @@ reviewed: e03cb5184bb6b587b652ee5600e19d9d65a71531b2bbaf9f973eca1dba25a7cc
 source: xml
 outdated: false
 ---
-
-Can serialize and deserialize, but runtime code cannot get or set through `T:Inno.Core.Serialization.SerializedProperty`.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an audio runtime over one backend device generation.
-
 ## Parameters
 
 **Parameter `types`:** Type catalog used for mixer and content-provider discovery.

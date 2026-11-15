@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Stores one backend-neutral scalar, vector, or quaternion animation value.

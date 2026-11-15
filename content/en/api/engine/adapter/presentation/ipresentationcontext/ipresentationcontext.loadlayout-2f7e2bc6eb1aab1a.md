@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads complete layout text captured by the host.
-
 ## Parameters
 
 **Parameter `settings`:** Layout text, or an empty value when no layout exists.

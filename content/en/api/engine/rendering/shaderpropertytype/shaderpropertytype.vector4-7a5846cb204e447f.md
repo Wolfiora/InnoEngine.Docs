@@ -13,5 +13,3 @@ reviewed: c813fedaa4c994f14af35bec6a1db77192af157c8f41fd55969dfcd81a1fe213
 source: xml
 outdated: false
 ---
-
-Four-component floating-point vector.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles a detached document through the same graph toolchain in an isolated preview cache.
-
 ## Parameters
 
 **Parameter `documentId`:** Preview owner identity, independent of canonical artifact lookup.

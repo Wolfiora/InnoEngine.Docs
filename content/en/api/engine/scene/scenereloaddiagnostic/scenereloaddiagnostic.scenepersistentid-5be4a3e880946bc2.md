@@ -13,5 +13,3 @@ reviewed: 7f2530a771aeb3b2da7f0db2960a9bee6861771b19955eebdb272495d5d1a909
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the affected scene.

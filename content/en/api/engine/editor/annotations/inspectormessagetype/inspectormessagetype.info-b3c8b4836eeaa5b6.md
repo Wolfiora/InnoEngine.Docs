@@ -13,5 +13,3 @@ reviewed: e1dc699e4dddfb655c4ebc7630c8122ed316461229beaa8e70b4b8a71d971073
 source: xml
 outdated: false
 ---
-
-Neutral explanatory information.

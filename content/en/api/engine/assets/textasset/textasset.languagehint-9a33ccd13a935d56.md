@@ -13,5 +13,3 @@ reviewed: 739437f11c34a478bfed65e6f7fccf9bc5431b14333bb9d83ab642fdaf573afd
 source: xml
 outdated: false
 ---
-
-Gets the language or format hint associated with the text.

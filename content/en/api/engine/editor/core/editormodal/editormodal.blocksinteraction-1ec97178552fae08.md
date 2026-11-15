@@ -13,5 +13,3 @@ reviewed: 3cec1d28583f4801e405929f65a7e23af5b9a57f7cd29671926e7f8f397c5f77
 source: xml
 outdated: false
 ---
-
-Gets whether the modal prevents interaction with regular editor views.

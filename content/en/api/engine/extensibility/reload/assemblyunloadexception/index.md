@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Reports retired collectible generations that remained reachable after the unload barrier threshold.

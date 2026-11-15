@@ -13,5 +13,3 @@ reviewed: 87232cd8539cb4340b8c8f9c51b8e7908c3f042a911a0f61fdfde4bce15bb9cb
 source: xml
 outdated: false
 ---
-
-Gets the input backend factory.

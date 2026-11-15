@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes and flushes one complete entry before returning, serializing concurrent callers.
-
 ## Parameters
 
 **Parameter `entry`:** The immutable entry to persist.

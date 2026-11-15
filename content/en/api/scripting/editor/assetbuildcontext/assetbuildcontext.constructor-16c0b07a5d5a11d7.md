@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a build context.
-
 ## Parameters
 
 **Parameter `definition`:** The build definition.

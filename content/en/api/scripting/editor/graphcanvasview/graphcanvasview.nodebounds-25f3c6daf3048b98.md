@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Projects neutral node geometry, optionally substituting a transient drag position.
-
 ## Parameters
 
 **Parameter `node`:** The immutable display node.

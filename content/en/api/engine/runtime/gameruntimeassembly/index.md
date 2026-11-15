@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Records a logical assembly identity and the content fingerprint of its build input.

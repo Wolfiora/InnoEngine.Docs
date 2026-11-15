@@ -13,5 +13,3 @@ reviewed: cd629d1b248d644fe46bb1461c0c87248448c9a095e9c4b5a0eb142f691c1456
 source: xml
 outdated: false
 ---
-
-Gets the normalized slash-separated key value.

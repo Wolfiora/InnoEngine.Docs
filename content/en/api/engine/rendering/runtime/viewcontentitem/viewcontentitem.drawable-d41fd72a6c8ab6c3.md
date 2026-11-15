@@ -13,5 +13,3 @@ reviewed: d3a89eacc154ba7d723b672ecba9ceb770189ec7f1fa0404415ee967218615af
 source: xml
 outdated: false
 ---
-
-Gets the drawable encoded by the selected rendering model.

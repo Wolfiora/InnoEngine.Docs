@@ -13,5 +13,3 @@ reviewed: 09aad3d6eae98c32952fcdd2d126555444f53247c4f214a882bf66cab64ac216
 source: xml
 outdated: false
 ---
-
-Gets the window title.

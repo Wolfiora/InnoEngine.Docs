@@ -13,5 +13,3 @@ reviewed: 5cbc12566cb91b1e0c07969d185d8adf1da5bac914d62b2eb2ed10207073602d
 source: xml
 outdated: false
 ---
-
-Gets the severity of this entry.

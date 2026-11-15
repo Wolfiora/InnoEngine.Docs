@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Loads one explicitly tagged in-memory document.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

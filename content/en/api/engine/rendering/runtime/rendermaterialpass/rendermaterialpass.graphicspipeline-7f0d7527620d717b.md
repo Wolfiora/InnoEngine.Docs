@@ -13,5 +13,3 @@ reviewed: 4b4e4d37e7f68ef024e50810044c11151505697e18cce7f93ced8c3be56ea9ed
 source: xml
 outdated: false
 ---
-
-Gets the graphics pipeline, or an invalid handle for a compute pass.

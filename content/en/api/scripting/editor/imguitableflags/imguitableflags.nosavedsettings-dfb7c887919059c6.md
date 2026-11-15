@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable persisting columns order, width, visibility and sort settings in the .ini file.

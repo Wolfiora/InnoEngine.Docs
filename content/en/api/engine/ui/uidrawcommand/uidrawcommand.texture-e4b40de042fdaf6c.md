@@ -13,5 +13,3 @@ reviewed: def0f5b7b79dde389aa30fe02daf4ecc173a746a61de4f32fef099b340e6f275
 source: xml
 outdated: false
 ---
-
-The ui texture handle value used to initialize this instance.

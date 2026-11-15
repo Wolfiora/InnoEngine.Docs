@@ -16,5 +16,3 @@ contracts:
 - project.inno-text-runtime#font-lifetime-contract
 aliases: []
 ---
-
-Creates one text service for every isolated runtime session.

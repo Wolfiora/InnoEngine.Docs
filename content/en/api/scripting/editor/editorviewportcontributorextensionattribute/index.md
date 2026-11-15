@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Marks a reloadable rendering-model contributor for one Editor viewport purpose.

@@ -13,5 +13,3 @@ reviewed: a47d9da1c5dcddff66efe4010320f10712d396d3d1bacc6511d51d07b116d386
 source: xml
 outdated: false
 ---
-
-Gets the declared property type used when the value was captured.

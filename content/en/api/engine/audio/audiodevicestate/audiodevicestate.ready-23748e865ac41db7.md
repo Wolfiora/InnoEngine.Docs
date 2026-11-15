@@ -13,5 +13,3 @@ reviewed: 1f4c96b9e5071e374f0b943bf857513429df2345528db80da749765483c76efd
 source: xml
 outdated: false
 ---
-
-The device is available for audible playback.

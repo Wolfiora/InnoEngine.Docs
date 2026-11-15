@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a game object subtree into a new unsaved prefab asset.
-
 ## Parameters
 
 **Parameter `root`:** Prefab source root.

@@ -13,5 +13,3 @@ reviewed: 0e7ef12d9bf09340c7b2bf275e91e8fd56a3712649937585d024f6812023e114
 source: xml
 outdated: false
 ---
-
-Columns default to \_WidthStretch with default weights all equal, unless overridden by TableSetupColumn().

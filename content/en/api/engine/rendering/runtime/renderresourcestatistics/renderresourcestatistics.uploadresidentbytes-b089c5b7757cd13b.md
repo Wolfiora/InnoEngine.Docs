@@ -13,5 +13,3 @@ reviewed: 5067ee7a9cedf7f8cb5793069304965f7adf51e6faf60c0cae9933dba8f67322
 source: xml
 outdated: false
 ---
-
-Gets resident upload bytes, including pages awaiting retirement.

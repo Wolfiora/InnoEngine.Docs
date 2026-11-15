@@ -13,5 +13,3 @@ reviewed: c7acf750f3a0b429b2f9c7313fbb1208379f9cc1b9d27ed12006e0a6a3f7e1a1
 source: xml
 outdated: false
 ---
-
-Gets whether the current runtime session has an active scene.

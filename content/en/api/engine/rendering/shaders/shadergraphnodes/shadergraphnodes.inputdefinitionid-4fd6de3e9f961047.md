@@ -13,5 +13,3 @@ reviewed: 1fd75618d6cecbddcf046731683dc4a8ee1d8c19c3182331764935bf41ea559c
 source: xml
 outdated: false
 ---
-
-Identifies the single multi-port node-input interface record.

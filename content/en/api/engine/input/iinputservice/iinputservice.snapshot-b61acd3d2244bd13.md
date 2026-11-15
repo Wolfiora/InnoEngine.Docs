@@ -13,5 +13,3 @@ reviewed: b180df1c209ecb3aebe2e0e3e4e0a1792e455691e0a2a9b9cf764b5ed443f8a2
 source: xml
 outdated: false
 ---
-
-Gets the snapshot captured at the current frame boundary.

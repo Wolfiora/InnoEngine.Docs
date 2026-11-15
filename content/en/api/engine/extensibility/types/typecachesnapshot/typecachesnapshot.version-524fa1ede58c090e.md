@@ -13,5 +13,3 @@ reviewed: a3888524aa90934289a2d32a4c91cb602d7890634ce49d886c789a6838c3e63e
 source: xml
 outdated: false
 ---
-
-Gets the monotonically increasing catalog version.

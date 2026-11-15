@@ -13,5 +13,3 @@ reviewed: fb8ce741780f1e4edbc96dc4087d263a8bbf21bb5f9c32f361ad6be7e31079ed
 source: xml
 outdated: false
 ---
-
-Gets the sequence element or map value type.

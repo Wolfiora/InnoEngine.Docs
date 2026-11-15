@@ -13,5 +13,3 @@ reviewed: d177fdfd37113d849ad84fdaeac5fe23285199b7a3cc5b93a7fd9e5b1c82fe65
 source: xml
 outdated: false
 ---
-
-Gets portable backend selection values.

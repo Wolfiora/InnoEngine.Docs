@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the first item by key or null if none exists.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

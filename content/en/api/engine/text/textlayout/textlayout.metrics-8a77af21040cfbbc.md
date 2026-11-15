@@ -13,5 +13,3 @@ reviewed: dc52bed92f295192efb901cf81ab35733a303c9486de3d13cc410dcdae2c4801
 source: xml
 outdated: false
 ---
-
-Gets the font metrics used to build this layout.

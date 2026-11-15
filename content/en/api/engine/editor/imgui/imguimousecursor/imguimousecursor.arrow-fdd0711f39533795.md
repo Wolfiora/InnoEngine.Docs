@@ -13,5 +13,3 @@ reviewed: b1524b3d890ed6a0c5dee1790ca6332367a6e57b24fb13df21ac394d66d897c4
 source: xml
 outdated: false
 ---
-
-Selects the arrow presentation behavior.

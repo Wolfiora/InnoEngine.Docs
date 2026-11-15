@@ -13,5 +13,3 @@ reviewed: 3a452f8e786fce6d70893a4e4e98e60d5951073cc6b5eea5167151242542f563
 source: xml
 outdated: false
 ---
-
-Gets independent RGB and alpha blending.

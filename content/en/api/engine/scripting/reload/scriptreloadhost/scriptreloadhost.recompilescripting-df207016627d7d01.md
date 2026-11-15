@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues incremental recompilation of changed script assemblies.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.

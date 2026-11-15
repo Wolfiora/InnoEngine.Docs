@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-hosting
 aliases: []
 ---
-
-Parses the shared Editor project and verification workflow before platform composition starts.

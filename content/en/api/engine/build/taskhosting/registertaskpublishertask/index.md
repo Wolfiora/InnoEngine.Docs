@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-taskhosting
 aliases: []
 ---
-
-Registers the lightweight publisher's process owner before any task uses its private load directory.

@@ -13,5 +13,3 @@ reviewed: a9cbbc166505d426d0e61bd736264d1db5e250cf7c5ff59424fb624e501cb306
 source: xml
 outdated: false
 ---
-
-Allows explicitly layered controls to share the next item bounds.

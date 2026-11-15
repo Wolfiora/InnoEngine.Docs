@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a two-column property row whose label is supplied by a custom presentation callback.
-
 ## Parameters
 
 **Parameter `id`:** Stable row identifier.

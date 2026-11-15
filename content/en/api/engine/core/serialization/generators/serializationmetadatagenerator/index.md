@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization-generators#compilation-and-access-contract
 aliases: []
 ---
-
-Generates closed member access, restoration hooks and collection construction for static deployments.

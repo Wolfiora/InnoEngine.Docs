@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Selects a presentation-independent cursor requested by a viewport tool.

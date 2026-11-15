@@ -13,5 +13,3 @@ reviewed: 86070b902d42447ef056f68c2c0dfe7cc774b4758070e85cb232701709434a6f
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable target binding identifier.

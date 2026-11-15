@@ -13,5 +13,3 @@ reviewed: 0ee00eb2a7401ffe1a12f96be5aae70003f242089d774f40e4bc1433bd82ecd7
 source: xml
 outdated: false
 ---
-
-Stable diagnostic code.

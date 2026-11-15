@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:System.Numerics.Quaternion`.
-
 ## Parameters
 
 **Parameter `q`:** The q consumed by convert; ownership remains with the caller unless explicitly stated otherwise.

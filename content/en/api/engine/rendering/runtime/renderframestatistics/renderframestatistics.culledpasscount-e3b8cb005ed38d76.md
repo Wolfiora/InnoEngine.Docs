@@ -13,5 +13,3 @@ reviewed: b8349df8d6d7f30947028a6343de364a08c5338be02bcce063fd06e2c5e3d771
 source: xml
 outdated: false
 ---
-
-Gets passes removed by graph compilation.

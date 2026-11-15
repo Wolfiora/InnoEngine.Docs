@@ -13,5 +13,3 @@ reviewed: 300a97e004cc39116fff653ff088a99c774cf52467b69cd5a3b0670b800ce52d
 source: xml
 outdated: false
 ---
-
-The object that owns the resulting lifetime and state.

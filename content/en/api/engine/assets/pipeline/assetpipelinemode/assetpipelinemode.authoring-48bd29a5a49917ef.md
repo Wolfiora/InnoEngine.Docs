@@ -13,5 +13,3 @@ reviewed: 93eb2ed584ee0eb31048d4d97265bdfa21c332462beed265e5cce85d152ecd8b
 source: xml
 outdated: false
 ---
-
-Reconciles writable source files and produces immutable artifacts.

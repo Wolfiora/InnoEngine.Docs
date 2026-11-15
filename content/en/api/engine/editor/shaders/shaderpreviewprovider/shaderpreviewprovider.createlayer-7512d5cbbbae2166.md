@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one frame-local rendering layer through the ordinary Render Graph.
-
 ## Parameters
 
 **Parameter `context`:** Detached Material, immutable candidate and isolated diagnostics for this invocation.

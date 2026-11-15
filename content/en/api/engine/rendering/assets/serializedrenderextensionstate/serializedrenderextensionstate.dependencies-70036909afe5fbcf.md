@@ -13,5 +13,3 @@ reviewed: ec5c9c0443ec421ce3db076b5d060bfdcf2ad9886bd8d2235fbb6f26cbbb321c
 source: xml
 outdated: false
 ---
-
-Gets or sets asset dependencies captured with the neutral property payload.

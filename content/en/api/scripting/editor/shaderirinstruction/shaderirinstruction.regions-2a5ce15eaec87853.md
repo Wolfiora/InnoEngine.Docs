@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets immutable nested regions: true/false for Branch, or one body for Loop.

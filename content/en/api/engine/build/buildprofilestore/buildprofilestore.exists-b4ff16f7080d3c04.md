@@ -13,5 +13,3 @@ reviewed: e76f5e5c01df3784a84f9b8d0511a0ddf390db15dd26fda3da2a251a3ca8510a
 source: xml
 outdated: false
 ---
-
-Gets whether the current project contains a build profile document.

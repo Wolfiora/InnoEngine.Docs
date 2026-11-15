@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets a key value for the stored item.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

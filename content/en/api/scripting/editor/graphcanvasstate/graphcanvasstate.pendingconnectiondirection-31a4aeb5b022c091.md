@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the direction of `P:InnoEditor.Graph.GraphCanvasState.pendingConnection`.

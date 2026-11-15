@@ -17,8 +17,6 @@ contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts
 ---
 
-Identifies one isolated runtime identity namespace within the current process.
-
 Domain identifiers are runtime-only values. They must never be serialized or used as persistent object identity.
 
 [Register and release an identity object](../../../../../manual/register-identity.md) shows the owner and lifetime sequence. Read the [shared lifecycle and failure contracts](../../../../../architecture/projects/inno-core-identity.md#lifecycle-and-failure-contracts) before using these members.

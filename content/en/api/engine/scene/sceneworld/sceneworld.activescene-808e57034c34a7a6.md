@@ -13,5 +13,3 @@ reviewed: d3f9b55fd409f3d0573dc3d4acd3797331186b58cffd93d46221fbdfce37b1ab
 source: xml
 outdated: false
 ---
-
-Gets the scene currently selected for unqualified scene operations.

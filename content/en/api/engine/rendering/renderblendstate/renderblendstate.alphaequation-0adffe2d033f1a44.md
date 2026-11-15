@@ -13,5 +13,3 @@ reviewed: 674f5d750e4b7dd883361f3c07bfacad5d733b01cdb468ae5dc97bacaf876c2e
 source: xml
 outdated: false
 ---
-
-Gets or sets the alpha combination equation.

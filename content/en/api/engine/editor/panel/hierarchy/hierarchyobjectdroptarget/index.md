@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-panel-hierarchy
 aliases: []
 ---
-
-Identifies a game object hierarchy drop target.

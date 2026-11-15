@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears all stored items and removes all defined keys.
-
 ## Remarks
 
 After calling this, all key handles are invalid and must be redefined via ```M:Inno.Core.Collections.IndexedObjectStore`1.DefineKey``1(System.String,Inno.Core.Collections.IndexedObjectKeyFlags,System.Collections.Generic.IComparer{``0})```.

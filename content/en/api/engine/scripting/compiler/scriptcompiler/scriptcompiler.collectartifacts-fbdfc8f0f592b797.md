@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes unreferenced compiler generations while retaining the supplied active directories.
-
 ## Parameters
 
 **Parameter `retainedDirectories`:** The generation directories that remain reachable from active runtime sessions.

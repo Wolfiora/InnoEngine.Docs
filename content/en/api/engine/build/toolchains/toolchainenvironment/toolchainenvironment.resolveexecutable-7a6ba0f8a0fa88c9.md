@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one explicitly selected executable before it becomes a build input.
-
 ## Parameters
 
 **Parameter `name`:** An executable path or a command name available on the current process PATH.

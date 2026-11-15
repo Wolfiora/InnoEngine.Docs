@@ -13,5 +13,3 @@ reviewed: 0219c30355b1b3973e5ea06ad85b3c59aab17bc6a0297ffcfd30429f6210f293
 source: xml
 outdated: false
 ---
-
-Gets the source editing service; this module does not implement source transactions.

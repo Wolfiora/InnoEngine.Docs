@@ -13,5 +13,3 @@ reviewed: c4e7ccb00f63023d680132e14b00d31f18a17067ffbf2d7b6204c778e6befe8e
 source: xml
 outdated: false
 ---
-
-Gets whether this entry is the root of an installed Plugin sample awaiting Project import.

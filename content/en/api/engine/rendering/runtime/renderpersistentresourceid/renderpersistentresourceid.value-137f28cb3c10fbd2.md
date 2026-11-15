@@ -13,5 +13,3 @@ reviewed: 569cf20235401cbf0c9b6c0818d158bfe9ef81daccc47de766b185c574383d2e
 source: xml
 outdated: false
 ---
-
-Gets the provider-qualified stable identifier.

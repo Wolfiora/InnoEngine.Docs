@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Uploads complete elements and returns a slice valid only during the current frame.
-
 ## Parameters
 
 **Parameter `descriptor`:** Element interpretation and permitted GPU uses.

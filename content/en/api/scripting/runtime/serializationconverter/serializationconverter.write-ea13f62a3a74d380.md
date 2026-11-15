@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Writes a value into the current structured object.
-
 ## Parameters
 
 **Parameter `writer`:** The operation-scoped writer.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates spatial playback parameters.
-
 ## Parameters
 
 **Parameter `position`:** World-space source position.

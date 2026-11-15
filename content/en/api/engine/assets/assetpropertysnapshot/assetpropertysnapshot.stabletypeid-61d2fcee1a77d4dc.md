@@ -13,5 +13,3 @@ reviewed: d30c20ca7c56d7647edbc4e1d65106969467aa49b3289c1ba7198d2dbd54bccb
 source: xml
 outdated: false
 ---
-
-Gets the persistent settings type identity.

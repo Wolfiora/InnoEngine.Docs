@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []
 ---
-
-Configures bounded audio runtime resource policies.

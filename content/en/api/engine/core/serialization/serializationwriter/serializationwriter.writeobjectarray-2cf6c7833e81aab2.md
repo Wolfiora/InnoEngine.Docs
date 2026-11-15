@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes an ordered array of structured objects.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The source element type.

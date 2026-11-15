@@ -13,5 +13,3 @@ reviewed: 08b38b1a225fe80d1d67390564da3ae88151780b79ad681f4b6eef3984fc61e3
 source: xml
 outdated: false
 ---
-
-Rotates around a focus pivot and dollies along the view direction.

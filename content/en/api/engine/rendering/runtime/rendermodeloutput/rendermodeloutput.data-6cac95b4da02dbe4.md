@@ -13,5 +13,3 @@ reviewed: fefffcd80fcf5fe6b2d697971edabdbe225d881617a1c660c614cb7bbc8922f1
 source: xml
 outdated: false
 ---
-
-Gets model frame data.

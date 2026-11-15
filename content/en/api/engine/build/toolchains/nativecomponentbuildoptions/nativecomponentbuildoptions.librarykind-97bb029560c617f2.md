@@ -13,5 +13,3 @@ reviewed: 261a0ce2fd089ea547e6b327ff31ad122c776e8ec88513aa4dcbb0157e474a6b
 source: xml
 outdated: false
 ---
-
-Gets the linkage selected by the product rather than by the execution host.

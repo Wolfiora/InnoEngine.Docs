@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a vector from explicit component values.
-
 ## Parameters
 
 **Parameter `x`:** The horizontal or first component.

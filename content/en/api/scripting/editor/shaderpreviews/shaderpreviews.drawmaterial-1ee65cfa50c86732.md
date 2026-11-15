@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws detached Material overrides using its Shader's compiled contract.
-
 ## Parameters
 
 **Parameter `ownerId`:** Persistent document identity; no Material is retained under this identity.

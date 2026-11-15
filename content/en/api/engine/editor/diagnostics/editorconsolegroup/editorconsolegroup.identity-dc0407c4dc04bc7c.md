@@ -13,5 +13,3 @@ reviewed: 1390c8ca657c6526b6011ba1d387674ee09e0e4b05f509c4fed4cdc93162ea37
 source: xml
 outdated: false
 ---
-
-Gets the deterministic content fingerprint used as the presentation identity.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Releases resources owned by this module after it has stopped and left the active extension generation.

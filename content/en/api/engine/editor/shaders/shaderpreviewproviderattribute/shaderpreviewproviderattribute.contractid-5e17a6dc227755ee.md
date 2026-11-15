@@ -13,5 +13,3 @@ reviewed: e8447bc4eb0c0be183de3f77ca153a1aad7e323cf0191592e0874c2a28d6eccc
 source: xml
 outdated: false
 ---
-
-Gets the non-empty Shader contract consumed by this preview.

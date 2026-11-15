@@ -13,5 +13,3 @@ reviewed: 1978f5e36c067a9a7807e67ba0cc8935b2e189aa5bdb06af6712f457e557e75a
 source: xml
 outdated: false
 ---
-
-Gets spacing between leading controls inside card headers.

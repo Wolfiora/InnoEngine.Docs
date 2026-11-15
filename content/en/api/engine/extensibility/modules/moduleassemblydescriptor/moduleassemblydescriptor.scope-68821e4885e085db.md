@@ -13,5 +13,3 @@ reviewed: 0cba4ac9905c8cde8e3024a459340c4fce68303f5b24926489c4affc06917ebc
 source: xml
 outdated: false
 ---
-
-The dependency scope declared by the module source.

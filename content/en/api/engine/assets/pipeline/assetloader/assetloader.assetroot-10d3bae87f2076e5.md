@@ -13,5 +13,3 @@ reviewed: 86f72b994a154b22185d7c0bb18cc43a9da52bb2cd7f03f2a4fb2a85acf7a525
 source: xml
 outdated: false
 ---
-
-Gets the absolute source root.

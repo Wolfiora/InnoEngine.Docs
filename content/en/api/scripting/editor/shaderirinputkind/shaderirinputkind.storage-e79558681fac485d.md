@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-A typed storage buffer or image whose access, shape and layout are explicit.

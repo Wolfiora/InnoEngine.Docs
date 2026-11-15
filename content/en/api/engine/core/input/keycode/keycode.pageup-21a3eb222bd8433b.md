@@ -13,5 +13,3 @@ reviewed: bf59f9aa3c7ab625f75a73df5029f521ac51cac01510021d543ff36a703a1e83
 source: xml
 outdated: false
 ---
-
-The page up key.

@@ -13,5 +13,3 @@ reviewed: faa1952c744c5aa4994277369a5fd47a01d0975f66f4345264e215aff0476d2e
 source: xml
 outdated: false
 ---
-
-Gets the stable host output session identity.

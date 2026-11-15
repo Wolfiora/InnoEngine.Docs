@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a filled rectangle to the current window draw list.
-
 ## Parameters
 
 **Parameter `minimum`:** The screen-space minimum corner.

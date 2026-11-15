@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds this runtime to script-facing audio APIs for the current asynchronous flow.
-
 ## Returns
 
 A strict last-in-first-out execution scope owned by the caller.

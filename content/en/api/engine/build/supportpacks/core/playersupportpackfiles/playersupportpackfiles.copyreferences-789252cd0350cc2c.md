@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stages current runtime references while excluding the selected executable and project scripts.
-
 ## Parameters
 
 **Parameter `buildOutput`:** The explicit product compilation output directory.

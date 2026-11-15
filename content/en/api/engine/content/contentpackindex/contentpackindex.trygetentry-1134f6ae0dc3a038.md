@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds the metadata for an exact assigned key.
-
 ## Parameters
 
 **Parameter `key`:** The case-sensitive logical identity.

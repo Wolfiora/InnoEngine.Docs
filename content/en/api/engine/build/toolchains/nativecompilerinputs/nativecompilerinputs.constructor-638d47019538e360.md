@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures explicit parser inputs supplied by the target SDK provider.
-
 ## Parameters
 
 **Parameter `cCompiler`:** The selected C compiler, or null when this selection does not provide one.

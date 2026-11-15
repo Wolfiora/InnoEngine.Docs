@@ -13,5 +13,3 @@ reviewed: 58a669b13805adb28dc1ed80509aaa982683da60c748a125d6475ad69c572883
 source: xml
 outdated: false
 ---
-
-Set cell background color (top-most color)

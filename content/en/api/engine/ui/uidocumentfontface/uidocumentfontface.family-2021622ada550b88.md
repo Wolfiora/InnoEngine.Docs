@@ -13,5 +13,3 @@ reviewed: 6c34bd215ae56b0d3d11bcb7a281632122fd11106b29053e5048bbcd42308426
 source: xml
 outdated: false
 ---
-
-Gets the family referenced by the document.

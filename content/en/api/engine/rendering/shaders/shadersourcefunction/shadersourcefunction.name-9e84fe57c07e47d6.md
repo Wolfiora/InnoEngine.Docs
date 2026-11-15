@@ -13,5 +13,3 @@ reviewed: 806b053cd6c2f4616486e0a3f6c751889f101ffba01f8a37ff0be1266498a08e
 source: xml
 outdated: false
 ---
-
-Gets the implementation function name.

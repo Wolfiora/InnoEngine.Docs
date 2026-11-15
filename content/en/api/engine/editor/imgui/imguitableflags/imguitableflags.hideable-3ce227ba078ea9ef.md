@@ -13,5 +13,3 @@ reviewed: 978dde9d61b853676f87434e4acd9133a572fc32e56f058f5d36492dbe67ffad
 source: xml
 outdated: false
 ---
-
-Enable hiding/disabling columns in context menu.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Normalizes a native artifact name and appends its build configuration.
-
 ## Parameters
 
 **Parameter `fileName`:** The source artifact file name.

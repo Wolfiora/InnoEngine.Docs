@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Takes ownership of a readable seekable pack and validates all bytes, entries, and budgets.
-
 ## Parameters
 
 **Parameter `pack`:** The owned stream; callers must not access it after this call. Failure also disposes it.

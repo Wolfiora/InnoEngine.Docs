@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides Unity-style scene operations by resolving the world in the current runtime execution context.
-
 ## Remarks
 
 This façade owns no mutable scene state. Engine internals should depend on a concrete `T:Inno.Scene.SceneWorld` and only script-facing code should use this type.

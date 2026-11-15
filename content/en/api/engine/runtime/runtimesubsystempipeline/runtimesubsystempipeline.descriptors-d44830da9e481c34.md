@@ -13,5 +13,3 @@ reviewed: 385a0fffbf26e0ceff85b5a988d4f18f07e04197e95509db111d3d395e59d536
 source: xml
 outdated: false
 ---
-
-Gets the active immutable subsystem descriptors in execution order.

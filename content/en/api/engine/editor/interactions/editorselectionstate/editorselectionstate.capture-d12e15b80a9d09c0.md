@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the ordered runtime identities without retaining their resolved objects.
-
 ## Returns
 
 An immutable callback-independent snapshot; resolve identities afresh before using targets.

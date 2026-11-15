@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles a complete runtime and editor candidate generation without activating it.
-
 ## Remarks
 
 Source discovery captures live inputs on the owner thread. Reference generation, Roslyn and artifact writes run in the background; progress observers must accept callbacks from either thread. Retain the source generation until the returned operation drains, including after cancellation. Complete cache trees use Core IO atomic publication and replacement. A committed cache remains valid if cleanup of its previous tree fails; compilation does not activate either generation.

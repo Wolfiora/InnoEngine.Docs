@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the verified Pack directory while this result holds reading ownership.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The publication's reading ownership has been released.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a mask containing the supplied layers.
-
 ## Parameters
 
 **Parameter `layers`:** The layers whose bits should be enabled.

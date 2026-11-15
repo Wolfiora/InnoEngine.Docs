@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures each domain registration snapshot without initializing native services.
-
 ## Parameters
 
 **Parameter `options`:** Explicit host configuration for location-dependent services.

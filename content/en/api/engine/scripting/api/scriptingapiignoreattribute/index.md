@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-api
 aliases: []
 ---
-
-Explicitly excludes one otherwise visible member from generated scripting reference assemblies.

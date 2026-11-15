@@ -13,5 +13,3 @@ reviewed: db99ef42456b12766c7a4f0e71a1a96d8731570dc741cecfb2895f8b068a0347
 source: xml
 outdated: false
 ---
-
-Gets the immutable cross-domain reference resolver generation owned by this session.

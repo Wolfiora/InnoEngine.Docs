@@ -13,5 +13,3 @@ reviewed: 18bb8196a6032112febdb7f6744661e85f8b39dc76a03904ecb723f27c953007
 source: xml
 outdated: false
 ---
-
-Gets the exact destination view.

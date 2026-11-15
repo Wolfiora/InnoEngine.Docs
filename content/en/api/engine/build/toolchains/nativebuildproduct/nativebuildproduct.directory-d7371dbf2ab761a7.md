@@ -13,5 +13,3 @@ reviewed: 84eb6676c1b285420fb2e39cdb153664f87707c9da58ba6b21a1d11bf2d59f1c
 source: xml
 outdated: false
 ---
-
-Gets the immutable artifact root containing Outputs and its integrity manifest.

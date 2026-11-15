@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the complete pack identity and its single portable file name.
-
 ## Parameters
 
 **Parameter `contentHash`:** The SHA-256 of the complete pack bytes.

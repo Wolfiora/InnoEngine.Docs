@@ -13,5 +13,3 @@ reviewed: 7a8a5d8a78d843e4cb9a20d0095eeabfc81526c77ccd4d0f56265db9b7bd34f7
 source: xml
 outdated: false
 ---
-
-Open when clicking on the arrow part (default for multi-select unless any \_OpenOnXXX behavior is set explicitly). Both behaviors may be combined.

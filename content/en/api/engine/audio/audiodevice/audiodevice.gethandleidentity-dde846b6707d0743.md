@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a voice handle for backend lookup and generation validation.
-
 ## Parameters
 
 **Parameter `handle`:** Backend-neutral voice handle.

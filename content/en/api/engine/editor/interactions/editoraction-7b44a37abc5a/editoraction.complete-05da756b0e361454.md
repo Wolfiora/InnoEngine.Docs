@@ -13,5 +13,3 @@ reviewed: 61ee4994512d9f6f68deb2a372cb5714f408fec75f5f8e4f6c8aa2750af8e63e
 source: xml
 outdated: false
 ---
-
-Completes the current operation and returns the action to its idle state.

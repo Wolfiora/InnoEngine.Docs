@@ -13,5 +13,3 @@ reviewed: 2918774b64cd1a87c33c3aac00c7b4e74669650c11009317171abb464a38cf42
 source: xml
 outdated: false
 ---
-
-Gets whether assignable derived types are accepted.

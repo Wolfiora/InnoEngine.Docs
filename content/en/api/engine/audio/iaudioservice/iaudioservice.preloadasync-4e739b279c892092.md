@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares a clip and retains it in the decoded or streamed cache.
-
 ## Parameters
 
 **Parameter `clip`:** Imported clip to prepare.

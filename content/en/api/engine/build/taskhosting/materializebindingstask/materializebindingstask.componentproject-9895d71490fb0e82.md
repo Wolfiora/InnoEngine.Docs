@@ -13,5 +13,3 @@ reviewed: 0234ba264c6d73ebdcc9dc94d884cc6a1682ad271d9f3017328a82d81169bd0c
 source: xml
 outdated: false
 ---
-
-Gets or sets the Native project owning mutable host-source publication.

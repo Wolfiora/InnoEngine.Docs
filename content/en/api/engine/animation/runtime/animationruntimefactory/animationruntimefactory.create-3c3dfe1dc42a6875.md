@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a feature over a newly allocated animation runtime.
-
 ## Parameters
 
 **Parameter `context`:** Isolated session context supplied to the runtime factory.

@@ -13,5 +13,3 @@ reviewed: 846e7f07c93b1eeb843df88a3be21919c6ba7876ebd1ad75e10dfb5cd3727155
 source: xml
 outdated: false
 ---
-
-Selects the image border size presentation behavior.

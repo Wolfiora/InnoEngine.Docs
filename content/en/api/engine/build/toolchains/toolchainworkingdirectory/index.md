@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Retains a provider-owned tool execution path until all dependent processes finish.

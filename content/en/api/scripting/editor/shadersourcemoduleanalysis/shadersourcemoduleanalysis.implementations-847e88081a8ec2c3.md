@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets all implementation snapshots, including failed or unavailable implementations.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the current primary target for this callback, or null when unavailable or unselected.

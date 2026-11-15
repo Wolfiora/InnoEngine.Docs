@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects a manifest that differs from the code closure linked by the build.
-
 ## Parameters
 
 **Parameter `expected`:** The independently frozen deployment to compare with this closure.

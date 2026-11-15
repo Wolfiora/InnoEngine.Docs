@@ -13,5 +13,3 @@ reviewed: aa05b3b429545491fe9306075b64f6d4f2c542904b832da7cf7448f5ba694a09
 source: xml
 outdated: false
 ---
-
-Gets the mutable presentation cadence applied at the next complete host frame. Zero maximum frame rate means no software frame limit.

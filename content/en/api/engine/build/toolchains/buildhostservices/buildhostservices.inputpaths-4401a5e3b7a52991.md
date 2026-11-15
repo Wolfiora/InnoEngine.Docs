@@ -13,5 +13,3 @@ reviewed: 503862355b83f4340ee4c0ceb2a4154b9194368507e3fbfe69079d209cbb3f2e
 source: xml
 outdated: false
 ---
-
-Gets checkout-relative execution implementation inputs.

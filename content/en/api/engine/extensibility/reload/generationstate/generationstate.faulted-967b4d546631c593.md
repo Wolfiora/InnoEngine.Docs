@@ -13,5 +13,3 @@ reviewed: b4070c78c26c54822b9b9586b3a4a8453492256a81b7b106e8c1f74998798c4a
 source: xml
 outdated: false
 ---
-
-A rollback, cleanup or unload failure requires a complete host restart.

@@ -13,5 +13,3 @@ reviewed: d3ed4daa3737c4f1bc6ae9be8b4e97fde18a7f194101f6474468e8ad9ab4cd88
 source: xml
 outdated: false
 ---
-
-Gets the completed voice handle.

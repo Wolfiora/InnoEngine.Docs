@@ -13,5 +13,3 @@ reviewed: 4cc9538aa0db7e6342c2fde3fc7a3bb294764fa9bc9897514e7b0342936867bd
 source: xml
 outdated: false
 ---
-
-Identifies the ScrollLock presentation key or modifier.

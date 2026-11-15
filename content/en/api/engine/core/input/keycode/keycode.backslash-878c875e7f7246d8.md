@@ -13,5 +13,3 @@ reviewed: c43da383d9232a4b15eed8448f822b59c44a9433e1b4ce5e0cce3bbc1e27f4e6
 source: xml
 outdated: false
 ---
-
-The backslash key.

@@ -13,5 +13,3 @@ reviewed: cb9d6e992c5e194ebc37879234b01577cf947d360ba094be02b0fdab6c704c4a
 source: xml
 outdated: false
 ---
-
-Gets the generation-aware neutral GPU resource service.

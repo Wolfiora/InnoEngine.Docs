@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the icon glyph displayed in the Inspector target header.
-
 ## Parameters
 
 **Parameter `context`:** The active Inspector drawing context.

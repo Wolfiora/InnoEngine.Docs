@@ -13,5 +13,3 @@ reviewed: f3b7849b9ef645a710289eb86f2aaabf05cdc508fe222eb76bb9a29015446af6
 source: xml
 outdated: false
 ---
-
-Gets whether every discovered script assembly compiled or reused successfully.

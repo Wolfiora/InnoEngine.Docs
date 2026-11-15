@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides a strongly typed action argument to a targetless editor action.
-
 ## Type parameters
 
 **Type parameter `TArgument`:** The action argument type required by the action.

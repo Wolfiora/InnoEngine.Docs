@@ -13,5 +13,3 @@ reviewed: 98095bd501ce038fa26150c20a2dc9979a573732bbeab1ba1a3aa3caa02792f4
 source: xml
 outdated: false
 ---
-
-Gets the source window id for this event.

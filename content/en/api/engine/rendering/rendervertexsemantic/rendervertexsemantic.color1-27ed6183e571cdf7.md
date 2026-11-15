@@ -13,5 +13,3 @@ reviewed: 4af0a56f0a66b66dadc0cfc7bf6318ac57acc7c6b5c796ae70e3b985205e47e6
 source: xml
 outdated: false
 ---
-
-Secondary vertex color.

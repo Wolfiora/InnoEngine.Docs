@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes how the host may navigate one provider-owned viewport without exposing the provider's camera model.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the previous item is hovered.
-
 ## Parameters
 
 **Parameter `flags`:** Hovered query behavior.

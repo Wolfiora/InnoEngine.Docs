@@ -13,5 +13,3 @@ reviewed: 632914db300e3a5dc2494d03599c5325c66c27553c996b8fc29e1af2ded6b57a
 source: xml
 outdated: false
 ---
-
-Passes when reference is greater or equal.

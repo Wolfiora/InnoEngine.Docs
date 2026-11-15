@@ -13,5 +13,3 @@ reviewed: c86e012e513f7d14677e5186dd7cbf63c1ed8efae483cf71f5147ffed4288801
 source: xml
 outdated: false
 ---
-
-Gets immutable preprocessing inputs included in analysis cache identity.

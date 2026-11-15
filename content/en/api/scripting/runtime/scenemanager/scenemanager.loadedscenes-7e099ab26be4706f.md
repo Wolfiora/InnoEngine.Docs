@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets an immutable snapshot of scenes loaded by the current runtime session.

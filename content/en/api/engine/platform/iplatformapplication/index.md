@@ -16,5 +16,3 @@ contracts:
 - project.inno-platform
 aliases: []
 ---
-
-Defines the backend-neutral lifetime, window creation, and event-polling contract for a platform session.

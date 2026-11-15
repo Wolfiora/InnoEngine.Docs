@@ -13,5 +13,3 @@ reviewed: 4e7820a880e83617b2a5b0ed32c134e8a90d5bd9992c2df7200510d4a6ef9bb5
 source: xml
 outdated: false
 ---
-
-The assembly can use runtime scripting APIs only.

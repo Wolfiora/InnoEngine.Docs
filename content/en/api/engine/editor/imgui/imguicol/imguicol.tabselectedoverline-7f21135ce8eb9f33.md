@@ -13,5 +13,3 @@ reviewed: 40b766ba93f1f9c9448b63a779e94c1927e057ba1ce63d66b1c30ec40744cbb5
 source: xml
 outdated: false
 ---
-
-Selects the tab selected overline presentation behavior.

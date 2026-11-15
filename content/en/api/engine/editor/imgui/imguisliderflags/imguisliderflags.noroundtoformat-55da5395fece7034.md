@@ -13,5 +13,3 @@ reviewed: 34818abde17059276f5107f14b155c31addcf8de19ead7143414f27d6665c44e
 source: xml
 outdated: false
 ---
-
-Disable rounding underlying value to match precision of the display format string (e.g. %.3f values are rounded to those 3 digits).

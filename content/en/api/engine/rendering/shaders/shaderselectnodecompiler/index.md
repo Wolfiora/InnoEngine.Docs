@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Selects between equal typed values; all producer effects remain evaluated before selection.

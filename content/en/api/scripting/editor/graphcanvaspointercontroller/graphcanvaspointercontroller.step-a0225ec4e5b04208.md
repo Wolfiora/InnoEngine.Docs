@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Consumes one routed frame and returns data-editing intents without invoking domain code.
-
 ## Parameters
 
 **Parameter `view`:** The current canvas projection.

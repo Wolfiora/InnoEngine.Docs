@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable reference to this texture's current imported content.
-
 ## Returns
 
 A reference suitable for target compilation and generation-scoped GPU resolution.

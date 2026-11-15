@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves this reference against a specific immutable type-cache snapshot.
-
 ## Parameters
 
 **Parameter `snapshot`:** The snapshot that defines the required assembly generation.

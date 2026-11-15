@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Composes independent, open provider catalogs for the standard engine distribution.
-
 ## Remarks
 
 Replacement sequences define the complete registrations for their domain. The composition owns providers; service creation and disposal remain with each caller.

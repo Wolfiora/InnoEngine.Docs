@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Changes the layer of a live GameObject and records the two stable numeric layer slots.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live GameObject whose layer should change.

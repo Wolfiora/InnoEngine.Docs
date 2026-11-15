@@ -14,5 +14,3 @@ apiScope: Authoring
 source: xml
 outdated: false
 ---
-
-Shows a value when it evaluates as false, null, or empty.

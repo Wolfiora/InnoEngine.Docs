@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The isolated runtime session is stopping and releasing its owned state.

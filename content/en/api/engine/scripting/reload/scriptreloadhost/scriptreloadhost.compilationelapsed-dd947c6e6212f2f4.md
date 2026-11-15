@@ -13,5 +13,3 @@ reviewed: 4dd922ea42187949a6c90299459e458c778e73140a6d82cc34bfeabd64806f3c
 source: xml
 outdated: false
 ---
-
-Gets the elapsed duration of the active or most recently completed compilation.

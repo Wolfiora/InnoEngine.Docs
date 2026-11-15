@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Holds validated, frozen preparation inputs without owning running processes or staging resources.

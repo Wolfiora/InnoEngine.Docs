@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes compiler tools, SDK inputs and child environment before a native operation starts.
-
 ## Parameters
 
 **Parameter `context`:** The checkout and configuration owned by the requesting operation.

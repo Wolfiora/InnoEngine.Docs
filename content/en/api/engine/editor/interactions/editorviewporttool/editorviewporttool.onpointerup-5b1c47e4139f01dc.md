@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Handles a pointer release.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

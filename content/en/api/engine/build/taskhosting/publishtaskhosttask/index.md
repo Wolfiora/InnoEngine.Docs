@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-taskhosting
 aliases: []
 ---
-
-Publishes one immutable task runtime per content identity before a build loads its private closure. This bootstrap depends only on filesystem primitives and never loads the task runtime being built.

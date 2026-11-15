@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an empty graph with a source-free shader contract; incomplete graphs remain serializable.
-
 ## Parameters
 
 **Parameter `definition`:** Material parameters, techniques and pass state.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Query builder over store keys.
-
 ## Type parameters
 
 **Type parameter `T`:** The stored reference type.

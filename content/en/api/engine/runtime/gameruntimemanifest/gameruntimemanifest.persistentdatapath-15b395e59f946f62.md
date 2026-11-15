@@ -13,5 +13,3 @@ reviewed: 56f3f5a00b914ba99d5824bc13f835f8653b1501781d614502cc2f004444593c
 source: xml
 outdated: false
 ---
-
-Gets or sets the writable data folder below local application data; empty uses the application ID.

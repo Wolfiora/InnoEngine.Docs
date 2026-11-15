@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the revision of the active effective settings snapshot. Runtime extensions may compare this value without registering reload-unsafe static delegates.
-
 ## Remarks
 
 Pair this value with ownerId. Successful updates advance the revision; a failed generation transaction restores the previous revision with its effective values. Candidate revisions are not durable identities.

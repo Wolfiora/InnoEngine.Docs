@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the complete neutral document as one atomic, undoable authoring operation.
-
 ## Parameters
 
 **Parameter `replacement`:** Complete replacement document copied by the operation.

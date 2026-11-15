@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Detaches every layer in top-to-bottom order while keeping this stack reusable.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Cleanup is incomplete. The remaining layers stay owned; only Clear or Dispose may resume cleanup.

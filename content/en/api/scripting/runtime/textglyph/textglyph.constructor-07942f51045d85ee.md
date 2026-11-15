@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Describes one positioned glyph emitted by Unicode shaping.
-
 ## Parameters
 
 **Parameter `glyphId`:** The glyph identifier in the font face that produced this layout.

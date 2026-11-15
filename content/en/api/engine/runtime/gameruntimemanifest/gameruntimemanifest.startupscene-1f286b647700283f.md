@@ -13,5 +13,3 @@ reviewed: 2740e00ae49b40e6f6dd0577a301b72695fe2cbe7f132d90e10972f1b77d7838
 source: xml
 outdated: false
 ---
-
-Gets or sets the mount-qualified startup scene path.

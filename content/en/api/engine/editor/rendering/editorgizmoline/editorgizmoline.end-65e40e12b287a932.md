@@ -13,5 +13,3 @@ reviewed: d947a706c1cd74210da4d39e3198d8d15fbd39dd11b1f8f164c010c148a0a2c6
 source: xml
 outdated: false
 ---
-
-The vector3 value used to initialize this instance.

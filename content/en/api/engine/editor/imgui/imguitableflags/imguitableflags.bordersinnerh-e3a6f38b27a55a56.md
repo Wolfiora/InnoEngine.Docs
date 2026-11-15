@@ -13,5 +13,3 @@ reviewed: 17dde4758a5b962156d779ad8eb264ce038487706f6f716515a6f8e165fb3175
 source: xml
 outdated: false
 ---
-
-Draw horizontal borders between rows.

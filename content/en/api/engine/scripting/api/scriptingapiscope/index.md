@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-api
 aliases: []
 ---
-
-Identifies the script compilation profile that receives an exported API.

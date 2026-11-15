@@ -13,5 +13,3 @@ reviewed: d08d4a3a491f716405b58c98373e8ad22dae268b625815fd4bf593d945e09304
 source: xml
 outdated: false
 ---
-
-Gets whether this is the project-authored highest-precedence contribution.

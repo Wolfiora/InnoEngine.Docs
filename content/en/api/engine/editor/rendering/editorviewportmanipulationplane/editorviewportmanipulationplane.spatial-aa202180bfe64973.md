@@ -13,5 +13,3 @@ reviewed: ae025c2af0cc4afcf9e7cdc47fa670d21a180a655a70d3a835fda370911101c9
 source: xml
 outdated: false
 ---
-
-Keeps the full three-dimensional translation, rotation, and scale controls.

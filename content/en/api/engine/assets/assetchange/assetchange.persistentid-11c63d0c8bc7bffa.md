@@ -13,5 +13,3 @@ reviewed: 2b6ad12000a70fd1222d4b871b4fbcfdc9713441114abd40513dbaa28f26765a
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity affected by the change.

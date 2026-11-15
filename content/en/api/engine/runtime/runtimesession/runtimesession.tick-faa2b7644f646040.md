@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances session events, jobs, coroutines, and scene lifecycle by one frame.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds; negative values are treated as zero.

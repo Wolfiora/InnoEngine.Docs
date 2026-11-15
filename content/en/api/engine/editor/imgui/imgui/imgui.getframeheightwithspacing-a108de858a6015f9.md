@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the standard control height and following vertical spacing.
-
 ## Returns
 
 A copied value from the active presentation context.

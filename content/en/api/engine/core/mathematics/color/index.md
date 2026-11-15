@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents mutable RGBA channels whose constructor clamps finite inputs to \[0, 1\].
-
 ## Remarks
 
 Direct field writes bypass constructor clamping. Keep channels finite and normalized before byte conversion. This value does not encode a color space or distinguish straight from premultiplied alpha.

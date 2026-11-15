@@ -13,5 +13,3 @@ reviewed: fec31759dd6bfe7cf92984677a530a4602409561119ce7e4c96539e6df3d9df7
 source: xml
 outdated: false
 ---
-
-Gets the cumulative number of unique physical payload reads started.

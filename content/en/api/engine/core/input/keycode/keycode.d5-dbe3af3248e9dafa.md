@@ -13,5 +13,3 @@ reviewed: 0c7838693fedc805a6932f28df01510938feb8e9a43d2bb9da0567444e02ff82
 source: xml
 outdated: false
 ---
-
-The 5 key on the primary keyboard row.

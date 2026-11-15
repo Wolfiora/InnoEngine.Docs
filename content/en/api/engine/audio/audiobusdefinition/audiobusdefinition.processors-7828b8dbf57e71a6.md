@@ -13,5 +13,3 @@ reviewed: 1d8d595c0b9f738b58aa27cd6c964326fafcb65c8d29e915d199f66f2ccf3abd
 source: xml
 outdated: false
 ---
-
-Gets the ordered immutable processor chain.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Detaches the panel before its extension generation is released.
-
 ## Remarks
 
 Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.

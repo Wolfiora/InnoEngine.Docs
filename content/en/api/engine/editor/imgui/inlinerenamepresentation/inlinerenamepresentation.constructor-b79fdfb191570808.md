@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates inline rename presentation data.
-
 ## Parameters
 
 **Parameter `id`:** The stable ImGui identifier used by the input field.

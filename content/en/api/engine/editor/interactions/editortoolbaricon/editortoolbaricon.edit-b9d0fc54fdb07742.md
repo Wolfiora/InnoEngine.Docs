@@ -13,5 +13,3 @@ reviewed: 4f7fc010a2861aa7b2e4d5a28cf817c59712db3a6134b7c9dbd404fb34683958
 source: xml
 outdated: false
 ---
-
-Returns to an editing state.

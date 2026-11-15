@@ -13,5 +13,3 @@ reviewed: 1bc03c46edbb8b33111b8f4732595ba35973ca80c69661fdd00b8dd75bbcc8fb
 source: xml
 outdated: false
 ---
-
-Publishes immutable target outputs under the component's generation fingerprint.

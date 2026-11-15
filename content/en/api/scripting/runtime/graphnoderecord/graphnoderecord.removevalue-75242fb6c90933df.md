@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes a neutral serialized property value.
-
 ## Parameters
 
 **Parameter `propertyId`:** Stable property identifier.

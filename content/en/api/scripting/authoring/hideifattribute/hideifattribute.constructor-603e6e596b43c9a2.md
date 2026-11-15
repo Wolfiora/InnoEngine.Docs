@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a named condition that does not require an expected value.
-
 ## Parameters
 
 **Parameter `memberName`:** Sibling field or property name.

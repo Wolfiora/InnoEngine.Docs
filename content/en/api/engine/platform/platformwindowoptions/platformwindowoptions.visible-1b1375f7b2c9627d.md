@@ -13,5 +13,3 @@ reviewed: 54335a6aab17103f574e68f1dac4b0bd1a832679501d5176164c904e791ed10e
 source: xml
 outdated: false
 ---
-
-Gets whether the window is initially shown; hidden windows retain their rendering surface.

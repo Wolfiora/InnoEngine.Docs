@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Makes one presented scene active without changing scene order.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to activate.

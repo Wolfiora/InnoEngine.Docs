@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a stable portable provider identity.
-
 ## Parameters
 
 **Parameter `value`:** A nonempty lowercase identifier composed of letters, digits and hyphens.

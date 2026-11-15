@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Uses the same owner inventory, dependency protection and retirement plan for automatic and explicit cleanup.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute checkout containing registered publishers.

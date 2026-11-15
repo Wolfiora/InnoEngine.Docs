@@ -13,5 +13,3 @@ reviewed: 7615eeda13da3fb927874db0afe4a4ac5d3379cae01d44d73a31f70c032769ca
 source: xml
 outdated: false
 ---
-
-Gets the free-space threshold below which additional retirement is requested.

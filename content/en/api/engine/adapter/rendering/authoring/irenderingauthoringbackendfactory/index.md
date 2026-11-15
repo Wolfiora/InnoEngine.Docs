@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering-authoring
 aliases: []
 ---
-
-Creates offline rendering compilers paired with a selected runtime rendering backend.

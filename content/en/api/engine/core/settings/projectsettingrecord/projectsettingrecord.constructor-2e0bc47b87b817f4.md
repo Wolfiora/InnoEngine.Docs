@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a setting record.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting identity.

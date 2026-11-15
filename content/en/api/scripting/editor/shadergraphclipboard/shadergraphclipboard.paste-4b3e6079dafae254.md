@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a detached paste candidate with new node identities and remapped program, Pass and Technique references.
-
 ## Parameters
 
 **Parameter `graph`:** Destination document, never changed.

@@ -13,5 +13,3 @@ reviewed: 1319d10b3f8b8e486e9de3a1712f12632f1ea146e6b431d841bb3bfa4ce599d6
 source: xml
 outdated: false
 ---
-
-Ends the current popup.

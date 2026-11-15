@@ -13,5 +13,3 @@ reviewed: 6977b29bcde164c29c90449da3f4846d32e0ca1811f624107c94ce13b1f6fe96
 source: xml
 outdated: false
 ---
-
-Gets one immutable snapshot of the current reload operation and its cancellation policy.

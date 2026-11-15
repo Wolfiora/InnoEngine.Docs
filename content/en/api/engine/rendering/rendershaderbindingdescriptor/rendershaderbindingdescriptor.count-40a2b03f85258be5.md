@@ -13,5 +13,3 @@ reviewed: e28d3122c785a1543574b435033306970a956fe44e465d2521c3ab2d466d4d25
 source: xml
 outdated: false
 ---
-
-Gets uniform array element count.

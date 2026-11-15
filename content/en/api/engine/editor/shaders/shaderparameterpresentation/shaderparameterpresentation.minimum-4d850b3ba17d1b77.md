@@ -13,5 +13,3 @@ reviewed: 40f0ea3cc89bb5f49b3949d7cc306b18fd5ed6092e439ae7218e8e4d94608dcf
 source: xml
 outdated: false
 ---
-
-Gets or sets the inclusive editing minimum; existing values are not changed by presentation metadata.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances late-update callbacks in bottom-to-top stack order.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

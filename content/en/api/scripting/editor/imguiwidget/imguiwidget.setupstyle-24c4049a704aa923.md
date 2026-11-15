@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Applies the centralized editor layout metrics and palette to the current ImGui context.

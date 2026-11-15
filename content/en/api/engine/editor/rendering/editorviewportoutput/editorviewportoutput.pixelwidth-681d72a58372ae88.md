@@ -13,5 +13,3 @@ reviewed: b07f61feb5c77905a0ed3a25f6bb2df99d2d9950628aee7941f3a6b09b9d84a5
 source: xml
 outdated: false
 ---
-
-Gets the current target width.

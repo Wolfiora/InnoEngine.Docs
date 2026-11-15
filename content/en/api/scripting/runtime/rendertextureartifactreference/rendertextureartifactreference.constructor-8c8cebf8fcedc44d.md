@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reference to one texture slot owned by an imported asset generation.
-
 ## Parameters
 
 **Parameter `assetId`:** Persistent identity of the asset that owns the named source artifact.

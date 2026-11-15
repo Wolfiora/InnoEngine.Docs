@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-scoped gizmo request.
-
 ## Parameters
 
 **Parameter `content`:** The scenes presented by the Scene viewport.

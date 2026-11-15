@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases the runtime resources owned by this asset without clearing its payload before quiescence.
-
 ## Remarks
 
 An unfinished release may throw RetirementPendingException. The owner retains the asset and retries this hook; completed steps must not be repeated. Other failures are terminal and are reported by the owner.

@@ -13,5 +13,3 @@ reviewed: ca52129206eb916696acdf6634c2dde66dd72ce7e109613ad702b665d66668fd
 source: xml
 outdated: false
 ---
-
-Gets the stable order of the top-level category below Create.

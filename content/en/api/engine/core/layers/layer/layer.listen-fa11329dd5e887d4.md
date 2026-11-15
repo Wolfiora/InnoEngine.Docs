@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Subscribes to an event for the lifetime of this layer attachment.
-
 ## Type parameters
 
 **Type parameter `TEvent`:** The event type handled by the callback.

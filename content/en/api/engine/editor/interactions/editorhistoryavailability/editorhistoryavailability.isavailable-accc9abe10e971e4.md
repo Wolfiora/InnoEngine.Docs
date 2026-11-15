@@ -13,5 +13,3 @@ reviewed: 3aad324c685edf6fd0febeed4a2f0c2bf68f7fd0a2e57d566c316b5a3e632184
 source: xml
 outdated: false
 ---
-
-Gets whether the requested transition is currently available.

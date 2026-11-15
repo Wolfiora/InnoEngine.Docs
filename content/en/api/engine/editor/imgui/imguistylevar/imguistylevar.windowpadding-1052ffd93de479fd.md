@@ -13,5 +13,3 @@ reviewed: e01dc4f8c323536be98df4a569554c625d35bf614063802223d785ed15a5b185
 source: xml
 outdated: false
 ---
-
-Selects the window padding presentation behavior.

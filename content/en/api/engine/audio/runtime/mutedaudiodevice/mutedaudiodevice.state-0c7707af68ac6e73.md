@@ -13,5 +13,3 @@ reviewed: 8f9a3ef5a72e0918704300305e30b98d64d65b30080cbcdebbba01d652d56ec0
 source: xml
 outdated: false
 ---
-
-Gets `F:Inno.Audio.AudioDeviceState.Muted` until this device is disposed.

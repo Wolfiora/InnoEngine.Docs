@@ -13,5 +13,3 @@ reviewed: 308722457bfa52bad0cb180aa765a00da4817206a139863618cb1fd072f657e5
 source: xml
 outdated: false
 ---
-
-Identifies the Backslash presentation key or modifier.

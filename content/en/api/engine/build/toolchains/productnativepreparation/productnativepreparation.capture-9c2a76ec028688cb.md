@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures successful immutable publications and the content inputs actually read during their preparation.
-
 ## Parameters
 
 **Parameter `context`:** The completed operation, whose recorded input hashes are still owned by this preparation.

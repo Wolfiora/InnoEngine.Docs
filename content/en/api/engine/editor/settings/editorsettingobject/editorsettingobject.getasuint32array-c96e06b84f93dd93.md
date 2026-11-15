@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a 32-bit unsigned integer array property, or a copied fallback when absent.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

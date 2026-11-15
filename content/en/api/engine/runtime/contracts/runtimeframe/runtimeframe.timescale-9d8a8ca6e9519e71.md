@@ -13,5 +13,3 @@ reviewed: 9f74356dad4295e4f35413b76ff195c7ad47b03c69df288f2cd7a96d50fcf284
 source: xml
 outdated: false
 ---
-
-Gets the simulation time multiplier used for this frame.

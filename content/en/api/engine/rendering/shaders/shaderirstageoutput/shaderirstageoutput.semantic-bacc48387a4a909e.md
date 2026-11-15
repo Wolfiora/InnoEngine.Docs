@@ -13,5 +13,3 @@ reviewed: 3697aa29dadafed686fc81531aed12e611adfcea76cee9b1468953cd7aeab6a2
 source: xml
 outdated: false
 ---
-
-Gets the varying semantic, not native assignment syntax.

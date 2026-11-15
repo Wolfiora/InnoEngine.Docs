@@ -13,5 +13,3 @@ reviewed: a580a4855601e902422512626cb87c6de74b97118feb03df63723e5e8a31094f
 source: xml
 outdated: false
 ---
-
-The Q letter key.

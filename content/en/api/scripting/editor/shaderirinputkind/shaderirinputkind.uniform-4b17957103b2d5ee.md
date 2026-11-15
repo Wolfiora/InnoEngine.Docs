@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-A material, frame or draw uniform identified by a stable binding identity.

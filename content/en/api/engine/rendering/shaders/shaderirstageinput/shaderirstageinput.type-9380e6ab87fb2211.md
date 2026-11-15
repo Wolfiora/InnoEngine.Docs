@@ -13,5 +13,3 @@ reviewed: 7bd7d94896981358726c8100f2861cb035e0521ddd2234524a1283b1cf662ec9
 source: xml
 outdated: false
 ---
-
-Gets the complete typed value received by the stage.

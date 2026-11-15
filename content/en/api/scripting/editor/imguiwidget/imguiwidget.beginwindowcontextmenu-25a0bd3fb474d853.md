@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a parent-viewport styled right-click context menu for the current window's unoccupied background.
-
 ## Parameters
 
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.

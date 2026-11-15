@@ -13,5 +13,3 @@ reviewed: 14238d897bdcd2cd7f6b0feab9b95d5d739835516a75ef1fad0a04f9fc679bfd
 source: xml
 outdated: false
 ---
-
-The H letter key.

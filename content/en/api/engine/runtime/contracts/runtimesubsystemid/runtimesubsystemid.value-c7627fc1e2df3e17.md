@@ -13,5 +13,3 @@ reviewed: 4d828b9696c4e36d15d848d20c3598d40f3ef5e4f62c30397c65cda2019bb0b5
 source: xml
 outdated: false
 ---
-
-Gets the stable protocol value.

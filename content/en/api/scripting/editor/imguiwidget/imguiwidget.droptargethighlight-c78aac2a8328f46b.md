@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws the standard yellow rectangular drag-and-drop target highlight above all normal window content in screen coordinates.
-
 ## Parameters
 
 **Parameter `min`:** Minimum target coordinate.

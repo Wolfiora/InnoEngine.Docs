@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads parameter presentation from the current authoring Shader graph.
-
 ## Parameters
 
 **Parameter `shader`:** The canonical Shader used by the Material.

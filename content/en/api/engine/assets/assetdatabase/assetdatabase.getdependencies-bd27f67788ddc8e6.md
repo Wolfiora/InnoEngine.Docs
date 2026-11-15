@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the direct persistent dependencies declared by one loaded or cataloged asset.
-
 ## Parameters
 
 **Parameter `asset`:** The canonical asset whose deployed dependency descriptors are requested.

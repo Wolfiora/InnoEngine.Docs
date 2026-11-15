@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-No focusing toward this window with keyboard/gamepad navigation (e.g. skipped by Ctrl+Tab)

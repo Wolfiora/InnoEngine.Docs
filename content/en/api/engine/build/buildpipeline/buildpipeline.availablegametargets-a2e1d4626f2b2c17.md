@@ -13,5 +13,3 @@ reviewed: faaa60c40ac508a7e55b069844e2b5e77a7caa5f58a4ec9f413aa0f2a4e8e887
 source: xml
 outdated: false
 ---
-
-Gets an immutable view of every registered build target in stable identity order.

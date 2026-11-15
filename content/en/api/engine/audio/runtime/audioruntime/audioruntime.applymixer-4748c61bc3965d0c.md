@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds and atomically installs a mixer graph from reloadable extensions.
-
 ## Parameters
 
 **Parameter `asset`:** Mixer asset containing stable extension identifiers and neutral state.

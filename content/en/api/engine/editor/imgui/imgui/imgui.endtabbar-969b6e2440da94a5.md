@@ -13,5 +13,3 @@ reviewed: a95cf3c2ed7da8e11258e96bca92c3849011e4345ee3d9231a5a8bce254138eb
 source: xml
 outdated: false
 ---
-
-Ends the current tab bar.

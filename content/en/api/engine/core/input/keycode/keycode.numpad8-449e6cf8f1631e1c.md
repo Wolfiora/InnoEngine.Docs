@@ -13,5 +13,3 @@ reviewed: da7e982cca942f9b21ce35246425c427c963a122b4c07a740f3e9932b5d96571
 source: xml
 outdated: false
 ---
-
-The 8 key on the numeric keypad.

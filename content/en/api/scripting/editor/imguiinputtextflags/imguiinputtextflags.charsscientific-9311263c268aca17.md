@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allow 0123456789.+-\*/eE (Scientific notation input)

@@ -13,5 +13,3 @@ reviewed: 2239258feb2da07ef6bd9f31e2d0fcfb443bf8eaa089e192e44bf27ee5f07502
 source: xml
 outdated: false
 ---
-
-The clip reached its natural end.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects only the offline graphics compiler component needed for shader publication.
-
 ## Returns
 
 An immutable tool product without runtime or Editor presentation dependencies.

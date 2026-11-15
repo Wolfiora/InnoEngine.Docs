@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a captured contribution contains no semantic operation.
-
 ## Parameters
 
 **Parameter `contribution`:** The contribution to inspect.

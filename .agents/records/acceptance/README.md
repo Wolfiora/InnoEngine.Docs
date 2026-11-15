@@ -1,5 +1,7 @@
 # Acceptance records
 
+- [Source summaries and editable API bodies](API_SUMMARY_2026_11_15.md): source-driven introductions, preserved authored content and sidebar clearance.
+
 - [Vercel Git setup](VERCEL_GIT_SETUP_2026_11_14.md): shared portable preparation, main-only hosting, preserved GitHub acceptance and removal of token-upload publication.
 
 - [Normalized source inputs](SOURCE_CERTIFICATE_INPUTS_2026_11_13.md): bounded shared evidence, exact-context rejection and actual full-report consumer validation.

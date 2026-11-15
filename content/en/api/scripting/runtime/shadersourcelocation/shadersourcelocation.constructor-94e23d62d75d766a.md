@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader source location.
-
 ## Parameters
 
 **Parameter `assetPath`:** Project-relative source asset path.

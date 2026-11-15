@@ -13,5 +13,3 @@ reviewed: 6b2352b98b79f079c6fac42272c3ac1d2a6f5e9464cf2dea3a46a323f6330f57
 source: xml
 outdated: false
 ---
-
-Gets the isolated runtime log session associated with the current request.

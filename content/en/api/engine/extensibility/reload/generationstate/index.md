@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Describes the shared admission gate for owner-thread generation transactions.

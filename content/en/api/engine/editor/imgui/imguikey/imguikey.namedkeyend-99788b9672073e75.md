@@ -13,5 +13,3 @@ reviewed: d7db9dd5973d2a7e9f18d67451819d6daf951632170410725b5ede7b7d9a8759
 source: xml
 outdated: false
 ---
-
-Identifies the NamedKeyEnd presentation key or modifier.

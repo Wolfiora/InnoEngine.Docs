@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-TableHeadersRow() will submit an angled header row for this column. Note this will add an extra row.

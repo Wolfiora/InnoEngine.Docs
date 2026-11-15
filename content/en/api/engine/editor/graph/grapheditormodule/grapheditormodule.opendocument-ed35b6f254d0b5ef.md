@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens or joins an active graph document session.
-
 ## Parameters
 
 **Parameter `documentId`:** Persistent document identity; use the Asset identity for asset-backed graphs.

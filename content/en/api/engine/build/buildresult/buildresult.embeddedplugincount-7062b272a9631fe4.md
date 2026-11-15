@@ -13,5 +13,3 @@ reviewed: 6483560acda7df77955b00b106cab404061cc1448f4c09332af6728f5a6c2d04
 source: xml
 outdated: false
 ---
-
-Gets the number of embedded dependency Plugin packages.

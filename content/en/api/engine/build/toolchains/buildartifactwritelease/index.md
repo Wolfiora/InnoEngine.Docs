@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Coordinates artifact replacement or retirement with every cooperating reader and writer.

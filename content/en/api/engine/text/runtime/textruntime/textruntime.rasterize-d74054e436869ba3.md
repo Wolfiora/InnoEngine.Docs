@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rasterizes one glyph from an imported font.
-
 ## Parameters
 
 **Parameter `font`:** The imported font source.

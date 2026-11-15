@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Configures and builds an explicit component target without detecting the current platform.
-
 ## Parameters
 
 **Parameter `context`:** The recipe-owned producer scope supplied by NativeArtifactPublisher, with frozen tools and inputs.

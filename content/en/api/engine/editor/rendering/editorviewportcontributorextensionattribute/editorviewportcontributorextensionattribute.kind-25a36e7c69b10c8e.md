@@ -13,5 +13,3 @@ reviewed: 38534a276d9e937a369dae456cbbc7dfec5154c7965c23836f078d00089c6c70
 source: xml
 outdated: false
 ---
-
-Gets the open viewport purpose handled by the contributor.

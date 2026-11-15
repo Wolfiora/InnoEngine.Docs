@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the presentation icon registered for an asset type or source extension.
-
 ## Parameters
 
 **Parameter `entry`:** The source entry whose presentation icon should be resolved.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---
-
-Provides script-friendly access to the current application storage sandbox.

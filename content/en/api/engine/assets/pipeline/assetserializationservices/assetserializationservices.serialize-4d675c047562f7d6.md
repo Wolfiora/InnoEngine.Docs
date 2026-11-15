@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Serializes one structured value and declares every encountered asset reference as a runtime dependency.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The serializable value contract.

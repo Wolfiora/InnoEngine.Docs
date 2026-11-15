@@ -13,5 +13,3 @@ reviewed: 30074bb95443b2251e70530da55c1f05da21107c91d89d955876223389b857ff
 source: xml
 outdated: false
 ---
-
-Multiplies by source alpha.

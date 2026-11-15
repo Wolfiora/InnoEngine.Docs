@@ -13,5 +13,3 @@ reviewed: 8a3c611920d4f35a765992c813f6c4c03af52d1ab93d2ca138670565cf71a444
 source: xml
 outdated: false
 ---
-
-Display a dot next to the title + set ImGuiTabItemFlags\_NoAssumedClosure.

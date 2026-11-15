@@ -13,5 +13,3 @@ reviewed: 05b26366c27283dc2dd63e433ba25c47cd7dc12552f7b0334cdb98b1604bf7dc
 source: xml
 outdated: false
 ---
-
-Cancels this writer's ownership wait without canceling another active restore.

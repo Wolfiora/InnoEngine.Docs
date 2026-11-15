@@ -13,5 +13,3 @@ reviewed: 8b7426db2e633aed401b8c56481c26b81fc984eac600c44b3a083e6925c36351
 source: xml
 outdated: false
 ---
-
-Gets the runtime type exposed to scripts.

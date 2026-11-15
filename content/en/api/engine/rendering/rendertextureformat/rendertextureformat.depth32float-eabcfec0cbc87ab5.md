@@ -13,5 +13,3 @@ reviewed: cf6e2e06f65ca6312511ca03f57996be6ce3d2d951bc4b7e61073793e1c5932c
 source: xml
 outdated: false
 ---
-
-Thirty-two-bit floating-point depth format.

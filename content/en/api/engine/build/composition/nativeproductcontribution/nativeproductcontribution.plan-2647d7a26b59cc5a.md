@@ -13,5 +13,3 @@ reviewed: 194ed54043c7688b12dca057d3b0af4c9a2e645263c2b254cc8134d1fd6df605
 source: xml
 outdated: false
 ---
-
-Gets the immutable product graph.

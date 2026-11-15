@@ -13,5 +13,3 @@ reviewed: 0da879324093ba0f3f9e2f649c7b859cfe02fc7128a6e8b051cc49d2eedc6407
 source: xml
 outdated: false
 ---
-
-Gets exact backend identities available in this composition generation.

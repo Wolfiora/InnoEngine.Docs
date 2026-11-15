@@ -13,5 +13,3 @@ reviewed: e6e27af71f6437b4f4e0eef69892f76e590be3719142a0a057a009e0842be5ae
 source: xml
 outdated: false
 ---
-
-Gets the minimum C standard, or zero when no C translation unit is required.

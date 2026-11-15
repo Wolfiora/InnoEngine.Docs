@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects Editor-only icons and bounds for the current Scene viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** The Scene viewport identity.

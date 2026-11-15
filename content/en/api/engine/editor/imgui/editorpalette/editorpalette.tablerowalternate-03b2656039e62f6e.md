@@ -13,5 +13,3 @@ reviewed: 2313c3052079ef6d9c8b0385d688a89c702fd997ccc03b0e12ee2eda1cc1d562
 source: xml
 outdated: false
 ---
-
-Gets the alternate table row background.

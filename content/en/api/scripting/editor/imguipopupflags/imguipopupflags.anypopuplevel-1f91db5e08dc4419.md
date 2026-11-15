@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For IsPopupOpen(): search/test at any level of the popup stack (default test in the current level)

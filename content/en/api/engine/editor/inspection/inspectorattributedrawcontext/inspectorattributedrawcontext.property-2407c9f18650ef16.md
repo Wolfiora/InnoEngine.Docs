@@ -13,5 +13,3 @@ reviewed: 2544095f90779afe46cff55bb5bf7a5187b0433ee5aaef20028b44f27a0ad101
 source: xml
 outdated: false
 ---
-
-Gets the root serialized property when one is available.

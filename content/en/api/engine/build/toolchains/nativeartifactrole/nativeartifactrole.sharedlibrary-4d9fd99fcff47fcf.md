@@ -13,5 +13,3 @@ reviewed: c2033e5d7567993ecc5e54fed75221ae29c70567bc2888024d50e92232472c3c
 source: xml
 outdated: false
 ---
-
-A library loaded by the runtime.

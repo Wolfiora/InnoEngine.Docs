@@ -13,5 +13,3 @@ reviewed: 585a0de86fc4266c0538e4e06911367bdc467423d303c7d0c349f265f3752b6e
 source: xml
 outdated: false
 ---
-
-Gets the current resolved source path.

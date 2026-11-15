@@ -13,5 +13,3 @@ reviewed: 20267a78a85f41d03b704791ed79ae4f4f7400519a4f4252c5cc495dd600d841
 source: xml
 outdated: false
 ---
-
-Gets or sets the local scale relative to the parent.

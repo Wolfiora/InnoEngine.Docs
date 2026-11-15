@@ -13,5 +13,3 @@ reviewed: 75e6d4a95f40a370cf2d6cfdf2959ca7674b999792fd78e559e97963cd2252cc
 source: xml
 outdated: false
 ---
-
-Gets asset breadcrumb bar height.

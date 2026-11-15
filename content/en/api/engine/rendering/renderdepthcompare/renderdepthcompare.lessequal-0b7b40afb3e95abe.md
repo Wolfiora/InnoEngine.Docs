@@ -13,5 +13,3 @@ reviewed: dcd0b794126d3dc9b06392c9a2428f93f829a47a5bcd662b6b464e00eb2e00f1
 source: xml
 outdated: false
 ---
-
-Accepts smaller or equal depth.

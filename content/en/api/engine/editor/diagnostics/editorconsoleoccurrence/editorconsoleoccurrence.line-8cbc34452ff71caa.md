@@ -13,5 +13,3 @@ reviewed: e4b5ec3c4a856e253a261a8c7cb99aa1c8ab16a4a7686a1893ad478b4bcf37c1
 source: xml
 outdated: false
 ---
-
-Gets the one-based source line, or zero when unavailable.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Declares a backend-owned static-library recipe and its complete checkout input closure.

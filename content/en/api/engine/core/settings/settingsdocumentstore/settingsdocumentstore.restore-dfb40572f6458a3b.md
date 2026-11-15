@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and atomically restores a native document payload.
-
 ## Parameters
 
 **Parameter `data`:** The native payload.

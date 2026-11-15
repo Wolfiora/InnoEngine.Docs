@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves and declares a strongly typed runtime asset dependency during import.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Expected asset type.

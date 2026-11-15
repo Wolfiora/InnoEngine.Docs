@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies an unmodulated style color for compound presentation.
-
 ## Parameters
 
 **Parameter `color`:** The semantic style color slot.

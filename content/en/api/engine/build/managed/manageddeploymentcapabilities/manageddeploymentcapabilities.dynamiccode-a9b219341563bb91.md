@@ -13,5 +13,3 @@ reviewed: 06e64764d335d0085367d4efc618c81528f28bd7a190206fdd9f3ee82e35568b
 source: xml
 outdated: false
 ---
-
-Gets whether the deployed runtime permits dynamic executable code generation.

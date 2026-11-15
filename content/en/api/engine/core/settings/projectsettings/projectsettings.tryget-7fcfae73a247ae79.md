@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get an isolated snapshot of a current-generation setting.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** Expected settings contract.

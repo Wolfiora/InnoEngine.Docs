@@ -13,5 +13,3 @@ reviewed: 88569f8502cd0841cc9f7b27daa7a894ebf3efcf69ea6e0872551436d4125bea
 source: xml
 outdated: false
 ---
-
-Object-space tangent and handedness.

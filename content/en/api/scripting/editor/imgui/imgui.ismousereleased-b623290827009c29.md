@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks a pointer-button release in the current frame.
-
 ## Parameters
 
 **Parameter `button`:** The pointer button to inspect.

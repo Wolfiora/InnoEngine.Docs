@@ -13,5 +13,3 @@ reviewed: a0cde6c8fd952b3e0859c5b59d5307651d4d32b9d72c84e72611f5f2465de4ff
 source: xml
 outdated: false
 ---
-
-A fully compensated startup may remain unavailable with diagnostics; cleanup failures still reject the owner.

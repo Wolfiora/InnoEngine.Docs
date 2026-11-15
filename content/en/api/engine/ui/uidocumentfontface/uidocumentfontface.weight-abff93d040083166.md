@@ -13,5 +13,3 @@ reviewed: 12d5ae7e8476394fe840865f5afd096a6763dd5e980d8f6202e37824fe7fe0aa
 source: xml
 outdated: false
 ---
-
-Gets the declared weight.

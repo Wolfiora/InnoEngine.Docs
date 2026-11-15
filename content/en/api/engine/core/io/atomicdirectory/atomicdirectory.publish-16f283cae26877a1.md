@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes a complete directory at an unoccupied path without replacing an existing destination.
-
 ## Parameters
 
 **Parameter `source`:** The complete candidate directory, disjoint from the destination.

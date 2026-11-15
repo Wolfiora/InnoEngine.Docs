@@ -13,5 +13,3 @@ reviewed: 53ae91f7ff04612cb316cfac7f82286efb7a0861c77a729c97d447a140a4f832
 source: xml
 outdated: false
 ---
-
-Pauses an operation or simulation.

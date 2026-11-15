@@ -13,5 +13,3 @@ reviewed: 2c9313b88166bf611662f59f370dfbcc3c48fd864a9634baa1370184550aada1
 source: xml
 outdated: false
 ---
-
-Gets the drawable pixel scale relative to logical UI coordinates.

@@ -13,5 +13,3 @@ reviewed: 743ca552149dcd52d50b85735683a197a74f40002ba1019ee7b7dd354a47ee12
 source: xml
 outdated: false
 ---
-
-Gets the script profile that receives the mapping.

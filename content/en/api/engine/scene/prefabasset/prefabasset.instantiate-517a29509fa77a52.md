@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Instantiates this prefab into a scene using newly generated object identities.
-
 ## Parameters
 
 **Parameter `scene`:** Target scene.

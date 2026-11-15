@@ -13,5 +13,3 @@ reviewed: 16e52efb3aff0e3936dd964b476f930f75b1a7a9c451249199609d227a9b286b
 source: xml
 outdated: false
 ---
-
-Attempts at most the configured drain budget from the current queue snapshot; reentrant posts wait for a later drain.

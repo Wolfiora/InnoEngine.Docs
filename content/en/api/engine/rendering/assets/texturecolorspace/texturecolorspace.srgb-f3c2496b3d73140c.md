@@ -13,5 +13,3 @@ reviewed: 964d905c92b5f9f5502f67cfd38610964d0769575d5cb86f8a43b30ed18e8a89
 source: xml
 outdated: false
 ---
-
-Color samples are decoded from sRGB at sampling time.

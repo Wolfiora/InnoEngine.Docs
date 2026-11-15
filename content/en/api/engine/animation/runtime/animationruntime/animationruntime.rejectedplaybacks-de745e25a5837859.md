@@ -13,5 +13,3 @@ reviewed: 0e203df8aa57b5503746fba0bd85d09e5ec2c973254f51501d2358981d3e2419
 source: xml
 outdated: false
 ---
-
-Gets playback admissions rejected by finite capacity.

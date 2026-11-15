@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds one component and records its identity, stable type, index, and persistent properties.
-
 ## Parameters
 
 **Parameter `owner`:** The live GameObject receiving the component.

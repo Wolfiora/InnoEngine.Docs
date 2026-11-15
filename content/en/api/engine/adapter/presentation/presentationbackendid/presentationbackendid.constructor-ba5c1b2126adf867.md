@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an ordinal, case-sensitive implementation identifier.
-
 ## Parameters
 
 **Parameter `value`:** A stable nonempty identifier containing no whitespace.

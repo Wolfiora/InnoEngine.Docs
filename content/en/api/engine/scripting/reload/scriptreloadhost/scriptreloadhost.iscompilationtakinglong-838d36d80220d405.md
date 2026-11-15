@@ -13,5 +13,3 @@ reviewed: 3b47f35d434e8642413c81f6471f21ffeff530e47ac9e554a3e297fdc433e824
 source: xml
 outdated: false
 ---
-
-Gets whether the active compilation exceeded the configured warning duration.

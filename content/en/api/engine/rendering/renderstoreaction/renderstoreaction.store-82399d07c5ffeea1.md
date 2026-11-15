@@ -13,5 +13,3 @@ reviewed: f12866f03bb5d5b683bf10090927f6674c2898bf30e575ceacdb73f8d2413fdb
 source: xml
 outdated: false
 ---
-
-Preserves rendered contents.

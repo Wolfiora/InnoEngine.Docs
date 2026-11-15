@@ -13,5 +13,3 @@ reviewed: 96398ec8ab4c5b0d842aeaef2fbe33e6731ecf43b67aad67b398f132fcfd14ee
 source: xml
 outdated: false
 ---
-
-Always show vertical scrollbar (even if ContentSize.y \< Size.y)

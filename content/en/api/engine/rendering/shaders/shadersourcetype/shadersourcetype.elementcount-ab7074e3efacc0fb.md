@@ -13,5 +13,3 @@ reviewed: be231b03f683f6e2b0f467385a1c8712ae31babc5376932433f1a571ed07b819
 source: xml
 outdated: false
 ---
-
-Gets the fixed array length, or zero for a non-array value.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a neutral diagnostic while keeping protocol, object and file identities distinct.
-
 ## Parameters
 
 **Parameter `code`:** The stable issue code within its producer.

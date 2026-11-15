@@ -13,5 +13,3 @@ reviewed: 71f67652d41769718013b03a8da941a16ef3186b2dc23026093f27c2248810da
 source: xml
 outdated: false
 ---
-
-Disables face culling.

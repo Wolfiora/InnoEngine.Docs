@@ -13,5 +13,3 @@ reviewed: 5e966c647ada20d93a5a51d7194436db50ea8155f944f4e5089459414cea3cc3
 source: xml
 outdated: false
 ---
-
-Gets the registration priority.

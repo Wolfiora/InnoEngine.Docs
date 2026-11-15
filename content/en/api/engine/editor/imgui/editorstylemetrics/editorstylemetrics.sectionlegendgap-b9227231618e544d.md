@@ -13,5 +13,3 @@ reviewed: 94731af7f61808f52b05728809c3b52cc4e164ea1292076120070c6d5234c7b7
 source: xml
 outdated: false
 ---
-
-Gets the gap between an Inspector section legend and its interrupted top border.

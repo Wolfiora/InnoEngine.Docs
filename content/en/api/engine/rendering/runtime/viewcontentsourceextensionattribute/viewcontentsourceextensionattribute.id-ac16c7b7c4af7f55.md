@@ -13,5 +13,3 @@ reviewed: 11993849585e755fa53329cf763d230566b445d9a2b333f8b2192b6696498e2b
 source: xml
 outdated: false
 ---
-
-Gets the globally stable source identifier.

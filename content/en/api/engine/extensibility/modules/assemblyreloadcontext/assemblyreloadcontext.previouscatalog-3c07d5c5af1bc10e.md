@@ -13,5 +13,3 @@ reviewed: e4df50c0405f2116d7b9a5193d034f7c3e6a4a57a3ca9a1e1d59b19317b00f9c
 source: xml
 outdated: false
 ---
-
-Gets the assembly catalog from before activation.

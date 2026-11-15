@@ -13,5 +13,3 @@ reviewed: ecbcfb91d3410849441c5afcd133236762fc27d69c6797856366ac23ee966aff
 source: xml
 outdated: false
 ---
-
-Gets the immutable required-subsystem identifiers.

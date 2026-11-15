@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a dockable panel registration with stable identity and presentation metadata.
-
 ## Parameters
 
 **Parameter `id`:** The stable identity used for Panel-menu routing and reload-state retention.

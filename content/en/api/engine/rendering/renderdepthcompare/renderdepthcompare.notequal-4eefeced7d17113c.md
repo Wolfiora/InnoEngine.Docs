@@ -13,5 +13,3 @@ reviewed: b268ef17f0067b48c8862f516aa3e172f1287b3bdf26c6e449b5702d3c41ec69
 source: xml
 outdated: false
 ---
-
-Accepts unequal depth.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns and clears events emitted by this UI context.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

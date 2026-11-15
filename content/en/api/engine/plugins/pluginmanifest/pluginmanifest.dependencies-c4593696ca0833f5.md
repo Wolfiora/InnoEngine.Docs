@@ -13,5 +13,3 @@ reviewed: f2dc4d36e241313f73468053d15e939dd6121797049b5fb5ec27e9f38b15a1e9
 source: xml
 outdated: false
 ---
-
-Gets or sets Plugin IDs that must activate before this Plugin.

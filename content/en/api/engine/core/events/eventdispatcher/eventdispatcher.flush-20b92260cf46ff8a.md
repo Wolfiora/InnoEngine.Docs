@@ -13,5 +13,3 @@ reviewed: 212f5268388032a13422f2cabad487ed9ee1ccc77ae86161159e561760a37fcb
 source: xml
 outdated: false
 ---
-
-Dispatches a bounded prefix of pending events; recursively enqueued work waits for a later flush.

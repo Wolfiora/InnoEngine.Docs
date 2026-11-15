@@ -13,5 +13,3 @@ reviewed: dcdc6a4b065a38d40e619557023d5a1054c42f7a6fd5d5cd0e741754ab541aab
 source: xml
 outdated: false
 ---
-
-Four 16-bit floating-point components.

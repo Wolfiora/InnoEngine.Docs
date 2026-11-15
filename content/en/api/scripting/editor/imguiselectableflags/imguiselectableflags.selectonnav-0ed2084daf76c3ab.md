@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Auto-select when moved into, unless Ctrl is held. Automatic when in a BeginMultiSelect() block.

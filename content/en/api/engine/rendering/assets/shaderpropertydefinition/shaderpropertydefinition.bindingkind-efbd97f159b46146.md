@@ -13,5 +13,3 @@ reviewed: dae53bd8505f5386902d2376cf2657eb2e7bf91e892bbbf10d3869dab3ed7902
 source: xml
 outdated: false
 ---
-
-Gets or sets how the property enters the shader resource interface.

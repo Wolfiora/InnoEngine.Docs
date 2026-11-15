@@ -13,5 +13,3 @@ reviewed: efdfe63aba393e621d245dd13c2a251a3764eba5c9523eb1be30655d2b2f02d7
 source: xml
 outdated: false
 ---
-
-Gets a visible but disabled action state.

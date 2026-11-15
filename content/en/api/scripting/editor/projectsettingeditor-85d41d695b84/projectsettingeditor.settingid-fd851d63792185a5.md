@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the stable runtime project setting protocol read from the target setting type's `T:InnoEngine.Settings.ProjectSettingDefinitionAttribute` by the Editor catalog.

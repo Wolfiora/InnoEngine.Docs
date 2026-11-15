@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the contribution introduced by the supplied project setting value.
-
 ## Parameters
 
 **Parameter `baseline`:** The value composed from lower-precedence contributors.

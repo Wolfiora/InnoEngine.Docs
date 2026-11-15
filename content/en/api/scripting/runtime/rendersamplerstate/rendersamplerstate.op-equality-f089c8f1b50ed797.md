@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two sampler descriptions are equal.
-
 ## Parameters
 
 **Parameter `left`:** Left sampler description.

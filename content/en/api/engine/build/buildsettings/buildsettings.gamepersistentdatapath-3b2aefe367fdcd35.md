@@ -13,5 +13,3 @@ reviewed: 14c972ddf417fd9e8b61216c565f9a0268547f6e3aef08c85d80f2fecb0346a6
 source: xml
 outdated: false
 ---
-
-Gets or sets the default writable data folder below the operating system's local application data directory. An empty value uses the project ID.

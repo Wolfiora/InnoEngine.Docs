@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Keeps verified Player compilation and linker inputs alive until their consumer finishes.

@@ -13,5 +13,3 @@ reviewed: 83b1b0d3eb5962e5d598338c87b9bb4e8e396cd645644206a8262cdf6a477b21
 source: xml
 outdated: false
 ---
-
-Single-channel 32-bit floating-point format.

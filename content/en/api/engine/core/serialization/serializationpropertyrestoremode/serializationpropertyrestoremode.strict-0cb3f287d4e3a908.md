@@ -13,5 +13,3 @@ reviewed: 2f12f71dac00d77177373e60f099eaa482b8c59fc076b4a93214225a79a21ed7
 source: xml
 outdated: false
 ---
-
-Stops at the first property that cannot be restored into the current object.

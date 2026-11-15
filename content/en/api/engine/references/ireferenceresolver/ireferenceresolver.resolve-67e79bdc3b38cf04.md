@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a descriptor without mutating its owner or the authoritative catalog.
-
 ## Parameters
 
 **Parameter `descriptor`:** The descriptor whose `P:Inno.References.ReferenceDescriptor.kindId` matches this resolver.

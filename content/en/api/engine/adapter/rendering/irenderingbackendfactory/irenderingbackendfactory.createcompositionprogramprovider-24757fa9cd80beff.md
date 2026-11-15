@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the composition program provider owned by the selected rendering backend.
-
 ## Parameters
 
 **Parameter `backend`:** Stable identity of the selected rendering backend.

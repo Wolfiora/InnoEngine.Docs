@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Materializes the operation's declared repository inputs into an exclusively owned source workspace. Compilers and source extraction must use the returned project and root, never the mutable checkout.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels ownership acquisition or verified copying before execution ownership is returned.

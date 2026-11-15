@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically restores a native project settings document.
-
 ## Parameters
 
 **Parameter `document`:** Native document bytes.

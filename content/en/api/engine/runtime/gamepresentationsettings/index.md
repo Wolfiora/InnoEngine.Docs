@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Defines the project-wide game presentation area shared by Editor previews and deployed Players.

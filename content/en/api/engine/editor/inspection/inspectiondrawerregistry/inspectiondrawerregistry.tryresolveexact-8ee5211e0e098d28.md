@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves only a drawer explicitly registered for the target's exact runtime type.
-
 ## Parameters
 
 **Parameter `editorContext`:** The shared editor context exposed to the selected drawer.

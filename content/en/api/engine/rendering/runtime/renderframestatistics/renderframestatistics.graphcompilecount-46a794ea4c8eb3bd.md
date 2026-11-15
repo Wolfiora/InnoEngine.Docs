@@ -13,5 +13,3 @@ reviewed: de1bf0167e135d7186a3169e40fa6fbe2a4792a5c09ac22e655cc957e5805ad6
 source: xml
 outdated: false
 ---
-
-Gets complete graph compilation attempts for the frame. Validation does not increase this count.

@@ -13,5 +13,3 @@ reviewed: 422280e28ce3d77eff5cf9e6c6321f225b116a5db8164a993c1d37b1a672073e
 source: xml
 outdated: false
 ---
-
-Gets the optional target that should become selected.

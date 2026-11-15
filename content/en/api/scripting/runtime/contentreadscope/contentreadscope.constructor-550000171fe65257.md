@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures immutable root identities without retaining their live objects or registry.
-
 ## Parameters
 
 **Parameter `contents`:** Registered identities in deterministic root order.

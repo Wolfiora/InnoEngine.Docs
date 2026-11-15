@@ -13,5 +13,3 @@ reviewed: a7095432d7f79224feea601953980399238382aa4c20982d97b12f027ed375eb
 source: xml
 outdated: false
 ---
-
-Gets navigation highlight color.

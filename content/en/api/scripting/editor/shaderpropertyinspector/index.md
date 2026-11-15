@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Uses the shared Inspector drawers for both Shader defaults and Material overrides.

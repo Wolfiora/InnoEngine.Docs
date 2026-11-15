@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this drawer handles the selected value, in addition to its registered type.
-
 ## Parameters
 
 **Parameter `target`:** Current target. The check must not mutate it.

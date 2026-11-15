@@ -13,5 +13,3 @@ reviewed: 2adcb4e7a9fb71e2e0bed08a039bd2cbff22c0dc33c6ab290f69a94010673a9d
 source: xml
 outdated: false
 ---
-
-Gets the Edit scenes outside Play Mode or the isolated runtime copies while Play Mode is active.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a persistent render texture for presentation drawing.
-
 ## Parameters
 
 **Parameter `texture`:** Texture owned by the active rendering-device generation.

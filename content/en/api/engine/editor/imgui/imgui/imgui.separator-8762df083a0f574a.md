@@ -13,5 +13,3 @@ reviewed: 4131473ffb8a0c71cfcf68daf0a67a1e255f5f21f3c1d59b90aac74a2b8cfc85
 source: xml
 outdated: false
 ---
-
-Draws a horizontal separator.

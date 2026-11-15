@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Provides Editor-script asset mutations through the authoring pipeline bound by the current host.

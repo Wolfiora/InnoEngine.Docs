@@ -13,5 +13,3 @@ reviewed: 3a0862d4387604686274755767cc9d6277372189b3157a27e407a53a1c223cb7
 source: xml
 outdated: false
 ---
-
-Gets the stable action name.

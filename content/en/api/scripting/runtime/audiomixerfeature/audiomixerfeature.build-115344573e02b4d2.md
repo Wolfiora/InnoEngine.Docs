@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds feature-owned graph declarations on the host control thread.
-
 ## Parameters
 
 **Parameter `builder`:** Candidate graph builder valid only for this invocation.

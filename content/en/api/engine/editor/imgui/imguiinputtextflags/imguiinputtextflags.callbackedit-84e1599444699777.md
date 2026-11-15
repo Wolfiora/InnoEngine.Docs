@@ -13,5 +13,3 @@ reviewed: 881189598924802a99c63059c5b0342d524a6ad4878db3532327edf81634bd8a
 source: xml
 outdated: false
 ---
-
-Callback on any edit. Note that InputText() already returns true on edit + you can always use IsItemEdited(). The callback is useful to manipulate the underlying buffer while focus is active.

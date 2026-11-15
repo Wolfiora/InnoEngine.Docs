@@ -13,5 +13,3 @@ reviewed: 1706cfe3e67809dd56f713eea581135c00e3eb35f20e016e644092aa610b4cd4
 source: xml
 outdated: false
 ---
-
-Uses hash-based lookup without key ordering.

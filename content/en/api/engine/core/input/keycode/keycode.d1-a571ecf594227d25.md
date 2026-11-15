@@ -13,5 +13,3 @@ reviewed: c3e1aa4e9434aea14cba8e4dd2423f74e0cc86e5931e7de56607109ec0904be3
 source: xml
 outdated: false
 ---
-
-The 1 key on the primary keyboard row.

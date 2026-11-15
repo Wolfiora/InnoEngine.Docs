@@ -13,5 +13,3 @@ reviewed: 5cc8a2e8affb4ad14a91e67dde36322402ef5166a28515c474bda436ef31c4bb
 source: xml
 outdated: false
 ---
-
-Gets the object-space tangent and handedness.

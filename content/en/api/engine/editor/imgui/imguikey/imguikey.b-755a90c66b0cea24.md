@@ -13,5 +13,3 @@ reviewed: db5bbc4348ab4c91f679bed9d55a8daaf830000325b8118d8b89652fb2f3838e
 source: xml
 outdated: false
 ---
-
-Identifies the B presentation key or modifier.

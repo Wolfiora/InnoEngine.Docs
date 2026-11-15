@@ -13,5 +13,3 @@ reviewed: 1659a92dbe308b4973c6b2be198ec2bc581c40417a6c34cf13a36662cc8247c3
 source: xml
 outdated: false
 ---
-
-Gets the serialized identifier value.

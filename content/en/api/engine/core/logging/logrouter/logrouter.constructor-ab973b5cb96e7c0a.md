@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated logging router with an explicit delivery policy.
-
 ## Parameters
 
 **Parameter `queueCapacity`:** Maximum pending entries and flush barriers before explicit rejection.

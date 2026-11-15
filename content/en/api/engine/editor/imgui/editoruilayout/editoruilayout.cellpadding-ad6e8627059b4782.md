@@ -13,5 +13,3 @@ reviewed: e51fa3fab2426e8c505cfef728d346d26cf19115dd83ad78f2ef3cca06e028cb
 source: xml
 outdated: false
 ---
-
-Gets table cell padding.

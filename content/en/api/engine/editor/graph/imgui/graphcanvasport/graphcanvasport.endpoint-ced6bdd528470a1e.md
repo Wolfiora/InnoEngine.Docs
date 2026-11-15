@@ -13,5 +13,3 @@ reviewed: aa2be336e55597752b7d454a268ecfc9d6aa604a91de736d339df6623b04c840
 source: xml
 outdated: false
 ---
-
-Gets the document endpoint; it does not identify a live engine object.

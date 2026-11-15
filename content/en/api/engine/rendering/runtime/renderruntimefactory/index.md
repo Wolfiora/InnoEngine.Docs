@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Creates one rendering lifecycle feature for every isolated runtime session.

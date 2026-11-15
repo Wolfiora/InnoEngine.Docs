@@ -13,5 +13,3 @@ reviewed: 9eba87fd2dea9c587d383a5a96b71e39eff52b74f9c39bbe20ecf866dfd8c035
 source: xml
 outdated: false
 ---
-
-Gets whether a Plugin source export still owns build resources.

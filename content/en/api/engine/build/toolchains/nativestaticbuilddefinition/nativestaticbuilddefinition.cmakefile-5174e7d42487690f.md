@@ -13,5 +13,3 @@ reviewed: 224896fdf0a8506c42d26027eb9491216d59619a34cd17cafc903e190455cb0b
 source: xml
 outdated: false
 ---
-
-Gets the component-owned CMake definition, which participates in artifact identity.

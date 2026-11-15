@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds this rendering runtime to script-facing graphics APIs for the current asynchronous execution flow.
-
 ## Returns
 
 A strict last-in-first-out execution scope owned by the caller.

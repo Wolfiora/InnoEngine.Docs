@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins#manifest-contract
 aliases: []
 ---
-
-Describes one local `.iplugin` package without listing discovered extension types.

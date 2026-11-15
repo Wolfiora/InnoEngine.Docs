@@ -13,5 +13,3 @@ reviewed: fbcaa26356ac8c89d6495059f902b0f101854646515384a4b1767af8d2752001
 source: xml
 outdated: false
 ---
-
-The escape key.

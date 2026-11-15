@@ -13,5 +13,3 @@ reviewed: 1ca9c78f48ef11696a52e2fcded61551d11093deb5b592157b6ade71643e06e9
 source: xml
 outdated: false
 ---
-
-Gets candidate diagnostics.

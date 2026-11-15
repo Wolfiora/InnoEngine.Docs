@@ -13,5 +13,3 @@ reviewed: 5091069d19673c4da1ff91453a392a75175db7755bece708d2baf2fcd1963d71
 source: xml
 outdated: false
 ---
-
-Gets the contextual menu target.

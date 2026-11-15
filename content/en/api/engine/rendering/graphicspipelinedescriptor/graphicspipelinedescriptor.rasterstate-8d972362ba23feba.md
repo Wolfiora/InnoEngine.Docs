@@ -13,5 +13,3 @@ reviewed: 6540e658c15570b222111928cedf88a8b049a86e90c2cfa3fbaabdd322612444
 source: xml
 outdated: false
 ---
-
-Gets fixed-function raster state.

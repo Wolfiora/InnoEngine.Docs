@@ -13,5 +13,3 @@ reviewed: 081b52807719b82f7108bcf980da244c7eb7acb0cfe66e48f478c54e5c3f869a
 source: xml
 outdated: false
 ---
-
-Gets complete tightly packed mip bytes for every addressable layer.

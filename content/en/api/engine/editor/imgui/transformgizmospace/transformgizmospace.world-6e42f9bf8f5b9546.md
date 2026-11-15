@@ -13,5 +13,3 @@ reviewed: 4d8d2998624cc0f7e0d3e82a9047ec52b7157142caad232fecaf09cc86324d08
 source: xml
 outdated: false
 ---
-
-Uses the world's orientation.

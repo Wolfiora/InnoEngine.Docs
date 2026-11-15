@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project-scoped layer identity from its project and local parts.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project identity.

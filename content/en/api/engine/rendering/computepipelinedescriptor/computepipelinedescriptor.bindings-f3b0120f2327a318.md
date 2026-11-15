@@ -13,5 +13,3 @@ reviewed: 34caf6677b98186380feab786564486649427875c55efeb906fe36ab9106a18c
 source: xml
 outdated: false
 ---
-
-Gets the manifest-derived interface contract.

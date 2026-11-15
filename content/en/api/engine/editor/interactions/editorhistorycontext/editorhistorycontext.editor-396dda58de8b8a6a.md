@@ -13,5 +13,3 @@ reviewed: 68c2b24f0c37ab4d146a1aaee515d0b0dd0b43ffb4f14895a3da5a54f5ca9238
 source: xml
 outdated: false
 ---
-
-Gets the passive editor context for the active project.

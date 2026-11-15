@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Identifies one persistent reference slot owned by a logical object.

@@ -13,5 +13,3 @@ reviewed: c39dd03769e5daecb33566941b66a33e6cce6fe866f7937034a00cc0205ff141
 source: xml
 outdated: false
 ---
-
-The 6 key on the primary keyboard row.

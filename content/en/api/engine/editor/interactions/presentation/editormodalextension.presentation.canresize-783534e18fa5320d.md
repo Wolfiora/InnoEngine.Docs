@@ -13,5 +13,3 @@ reviewed: 286953535980d70e3b22ad9a3295b212a99708313a3a8af7dfd46422a8d519a3
 source: xml
 outdated: false
 ---
-
-Gets whether the modal window can be resized.

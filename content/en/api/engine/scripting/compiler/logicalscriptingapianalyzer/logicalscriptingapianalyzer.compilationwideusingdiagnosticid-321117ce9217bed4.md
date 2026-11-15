@@ -13,5 +13,3 @@ reviewed: 84b6479dfae23d91a95cccc160e77b712fc98317d18fa941b07a3ad7d31132f9
 source: xml
 outdated: false
 ---
-
-Diagnostic identifier for a forbidden compilation-wide namespace import.

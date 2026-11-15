@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Identifies graph-level reusable-node metadata, independent of either interface direction.

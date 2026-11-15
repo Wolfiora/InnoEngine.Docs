@@ -13,5 +13,3 @@ reviewed: f40d51e31b9ee189dd345a287b988833e3a3a0061eab05e8837cc73de16ba425
 source: xml
 outdated: false
 ---
-
-Gets implementation and cross-implementation diagnostics with original source positions.

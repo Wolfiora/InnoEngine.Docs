@@ -13,5 +13,3 @@ reviewed: 216e340601daf442e2e8d678263482828030e8787043785d837b48bd63a9ee9d
 source: xml
 outdated: false
 ---
-
-Gets or sets the concrete pass name.

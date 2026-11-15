@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Displays a linear RGBA color through a display-sRGB picker and returns edits in linear space.
-
 ## Parameters
 
 **Parameter `label`:** The stable identity and visible label of the color control.

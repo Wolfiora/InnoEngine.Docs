@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds an edge indicating that one node depends on another.
-
 ## Parameters
 
 **Parameter `node`:** The dependent node.

@@ -13,5 +13,3 @@ reviewed: 0b97fbf8ff5a3dc8c0f260ce8062851620df74d2b58a5dcae36b8fbd2263f0f1
 source: xml
 outdated: false
 ---
-
-Gets the initial linear bus gain.

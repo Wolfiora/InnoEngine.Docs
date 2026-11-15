@@ -13,5 +13,3 @@ reviewed: 383d1cdeb55557c2bf36bcaae597b7ad630b328996808af97ae096d5528594bc
 source: xml
 outdated: false
 ---
-
-Gets the shared input event source used to create isolated runtime-session backends.

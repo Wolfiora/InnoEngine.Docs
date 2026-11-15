@@ -13,5 +13,3 @@ reviewed: d1bc5ad4b3a38b17bc25604bcace4ee56a9db839a8966be80b12b89c5e4306fb
 source: xml
 outdated: false
 ---
-
-Gets the exact encoded byte length used to bound preparation.

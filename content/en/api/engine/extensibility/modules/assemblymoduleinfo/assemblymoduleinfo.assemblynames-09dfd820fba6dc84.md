@@ -13,5 +13,3 @@ reviewed: 5ccff6d7a1144c02a86a0ff32da13959667612686eb0b71a1d1d680b69684828
 source: xml
 outdated: false
 ---
-
-The immutable assembly names exposed for this active module generation.

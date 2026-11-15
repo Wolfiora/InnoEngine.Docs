@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Encodes the compact runtime header shared by audio importers and runtime asset loading.

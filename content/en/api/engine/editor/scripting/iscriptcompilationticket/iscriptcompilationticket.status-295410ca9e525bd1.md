@@ -13,5 +13,3 @@ reviewed: 79dc162d0a9f551583d7d70842e8f5c56445085f12e8ebf531660d225790deab
 source: xml
 outdated: false
 ---
-
-Gets a human-readable description of the current or terminal state.

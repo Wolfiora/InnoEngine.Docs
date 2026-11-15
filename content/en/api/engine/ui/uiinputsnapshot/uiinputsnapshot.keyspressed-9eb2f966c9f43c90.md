@@ -13,5 +13,3 @@ reviewed: 01396ea8570bed957be90bd07b5c0e1a525c2b152be9e799ddfd79ecfef50305
 source: xml
 outdated: false
 ---
-
-Gets physical keys pressed this frame.

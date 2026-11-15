@@ -13,5 +13,3 @@ reviewed: 3a9e77e734da009cb76ee0b104b9971713da57f916932ff8da27fee829093fb4
 source: xml
 outdated: false
 ---
-
-Tab is selected when trying to close + closure is not immediately assumed (will wait for user to stop submitting the tab). Otherwise closure is assumed when pressing the X, so if you keep submitting the tab may reappear at end of tab bar.

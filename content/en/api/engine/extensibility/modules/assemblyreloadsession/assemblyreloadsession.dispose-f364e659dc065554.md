@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rolls back an incomplete session.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** The session still owns unfinished retirement and cannot be marked disposed.

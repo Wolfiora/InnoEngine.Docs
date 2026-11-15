@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the most specific drawer for a declared property type.
-
 ## Parameters
 
 **Parameter `propertyType`:** The declared serialized property type to resolve.

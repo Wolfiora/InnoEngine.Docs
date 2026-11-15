@@ -13,5 +13,3 @@ reviewed: 1628ec667ca485028861f0571ad50e43a45ac287cec78b26fbeafaaf1714a91f
 source: xml
 outdated: false
 ---
-
-Gets the initial window height in platform-independent logical units.

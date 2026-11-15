@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live voice cursor to a clip-relative position.
-
 ## Parameters
 
 **Parameter `voice`:** Voice owned by the current device generation.

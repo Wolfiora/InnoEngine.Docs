@@ -13,5 +13,3 @@ reviewed: 9428f32d40740f5774467426b156396b22ee34c0b71e56b238b9fabaf9b1271c
 source: xml
 outdated: false
 ---
-
-Gets disabled content opacity.

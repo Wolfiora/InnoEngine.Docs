@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an ImGui editor runtime with stable host-owned extension services.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context that owns project settings and frame state.

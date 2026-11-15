@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-reload
 aliases: []
 ---
-
-Watches, compiles, and atomically activates one project's C# script assemblies.

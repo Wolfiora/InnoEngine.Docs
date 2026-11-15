@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Keeps the full three-dimensional translation, rotation, and scale controls.

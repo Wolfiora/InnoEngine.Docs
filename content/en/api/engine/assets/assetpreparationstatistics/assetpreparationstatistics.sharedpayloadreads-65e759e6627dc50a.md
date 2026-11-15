@@ -13,5 +13,3 @@ reviewed: 9b891b6b6ef638bd82da021a9022880b18f804c342e5c6b9384d93270b8318ce
 source: xml
 outdated: false
 ---
-
-Gets payload reads reused by distinct roots with overlapping dependency closures.

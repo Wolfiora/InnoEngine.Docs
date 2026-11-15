@@ -13,5 +13,3 @@ reviewed: 1b19452ace94a4177ebd370d24fcc099155f0a4aef927cb0c87506d2a1534020
 source: xml
 outdated: false
 ---
-
-Row 3, Column 2.

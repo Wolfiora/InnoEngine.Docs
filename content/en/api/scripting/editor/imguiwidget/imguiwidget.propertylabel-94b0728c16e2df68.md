@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a label within its current table cell, wrapping when the column is narrow.
-
 ## Parameters
 
 **Parameter `label`:** Visible label text.

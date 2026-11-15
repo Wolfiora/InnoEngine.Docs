@@ -13,5 +13,3 @@ reviewed: fd1bd08e4c91f349a3bde80ab9e807e9e542c0dc2403e16f7ce7738395ba2c7e
 source: xml
 outdated: false
 ---
-
-Gets the exact ordered code identities.

@@ -13,5 +13,3 @@ reviewed: 81f65c7e8ae587fde40da9e270e4cfd1a3eefab503ce9e339b9995d37a900049
 source: xml
 outdated: false
 ---
-
-Gets the final blended value.

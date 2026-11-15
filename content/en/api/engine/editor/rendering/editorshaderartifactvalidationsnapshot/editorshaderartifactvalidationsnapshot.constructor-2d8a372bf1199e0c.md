@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Contains active-device validation state for one immutable Editor shader candidate.
-
 ## Parameters
 
 **Parameter `state`:** Pending, successful, or failed validation state.

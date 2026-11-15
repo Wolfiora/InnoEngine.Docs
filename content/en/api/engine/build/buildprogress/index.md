@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Reports monotonic progress for one asynchronous build operation.

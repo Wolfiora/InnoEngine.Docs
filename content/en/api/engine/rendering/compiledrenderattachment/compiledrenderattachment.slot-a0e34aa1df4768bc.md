@@ -13,5 +13,3 @@ reviewed: eee2d795d429cf562c26477a204d84dc489d224196f8054afef106675b73e82f
 source: xml
 outdated: false
 ---
-
-Gets the zero-based color slot, or zero for a depth attachment.

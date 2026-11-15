@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the immutable native-serialized runtime contract paired with this exact program publication.

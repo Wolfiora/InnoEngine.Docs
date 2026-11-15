@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Makes an otherwise writable serialized property read-only in the Inspector.

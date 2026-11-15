@@ -13,5 +13,3 @@ reviewed: 3860dd9c4613aa414e2e1a1674597348418b476eb78915793c81f1ade25ec126
 source: xml
 outdated: false
 ---
-
-Gets the initial floating size in UI coordinates; zero leaves native auto-sizing in control. Saved layouts take precedence.

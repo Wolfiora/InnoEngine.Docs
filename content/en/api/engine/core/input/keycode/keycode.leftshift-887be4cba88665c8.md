@@ -13,5 +13,3 @@ reviewed: 0ceb927dd18b98ccf579ed517ecd2221423f53e53fb1dccbaab7b071024e1c06
 source: xml
 outdated: false
 ---
-
-The left shift key.

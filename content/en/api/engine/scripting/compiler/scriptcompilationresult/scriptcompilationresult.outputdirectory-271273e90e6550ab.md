@@ -13,5 +13,3 @@ reviewed: 8fe40329cf6d5a826cf66a43360561558164cc83ddcc5c0cfed463873c671e6f
 source: xml
 outdated: false
 ---
-
-Gets the generation output directory when one was created.

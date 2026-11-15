@@ -13,5 +13,3 @@ reviewed: 21db4f15262603825a393b572462f605dc97f92566cb8cb522b1119638f52086
 source: xml
 outdated: false
 ---
-
-Gets the related edge identifier, if any.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a canonical shader variant from stable keyword selections.
-
 ## Parameters
 
 **Parameter `options`:** Stable keyword ID to selected option mappings.

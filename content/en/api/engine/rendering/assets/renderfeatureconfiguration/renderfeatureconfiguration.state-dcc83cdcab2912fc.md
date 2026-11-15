@@ -13,5 +13,3 @@ reviewed: 8737340079238fed1264e395f48ab198964114deadb1d9975cdac0f9b766b2e5
 source: xml
 outdated: false
 ---
-
-Gets or sets reload-safe settings state.

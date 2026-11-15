@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a stored override has the exact representation expected by a declaration.
-
 ## Parameters
 
 **Parameter `type`:** Declared material type.

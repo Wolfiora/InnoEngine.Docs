@@ -13,5 +13,3 @@ reviewed: c2c27191e1c9622e07249ac208f767e8a5ee61617ece7943cd63594d2f1f33c0
 source: xml
 outdated: false
 ---
-
-Gets parse diagnostics associated with the source snapshot.

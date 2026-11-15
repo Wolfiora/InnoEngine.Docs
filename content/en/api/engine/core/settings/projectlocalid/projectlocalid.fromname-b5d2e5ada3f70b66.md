@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a deterministic portable local identity from a display name.
-
 ## Parameters
 
 **Parameter `name`:** The user-facing name.

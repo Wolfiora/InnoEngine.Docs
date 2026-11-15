@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to merge two adjacent changes to the same logical value.
-
 ## Parameters
 
 **Parameter `older`:** The existing older history change.

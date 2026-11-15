@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a candidate count required by the implemented contract.
-
 ## Parameters
 
 **Parameter `store`:** The store consumed by get candidate count; ownership remains with the caller unless explicitly stated otherwise.

@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the exact adapter-generated symbol used only for reflection and native resource creation.

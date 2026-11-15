@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Parses one source language into canonical function interfaces; it does not create GPU objects.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures a game object subtree as a prefab in the requested directory.
-
 ## Parameters
 
 **Parameter `gameObject`:** The prefab root.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a frozen, analyzed function implementation only for a SourceCall instruction.

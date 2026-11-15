@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a failed result for an exception intercepted at an orchestration boundary.
-
 ## Parameters
 
 **Parameter `diagnostic`:** The diagnostic describing why no candidate generation was produced.

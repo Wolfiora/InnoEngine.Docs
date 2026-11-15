@@ -13,5 +13,3 @@ reviewed: 6bacba365d7dc323373d60f720512707b7d08c1dd8847acd200e626bc249e5ee
 source: xml
 outdated: false
 ---
-
-Gets the candidate-scoped dependency resolver.

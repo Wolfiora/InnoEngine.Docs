@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Places the next control at a screen-space location.
-
 ## Parameters
 
 **Parameter `position`:** The requested coordinate in UI units.

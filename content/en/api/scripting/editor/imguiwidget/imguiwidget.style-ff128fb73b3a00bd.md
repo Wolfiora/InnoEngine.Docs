@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the centralized editor layout metrics shared by every widget and feature panel.

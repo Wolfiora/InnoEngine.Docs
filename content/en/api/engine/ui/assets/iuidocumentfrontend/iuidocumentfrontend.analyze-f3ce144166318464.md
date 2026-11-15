@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes one immutable source snapshot.
-
 ## Parameters
 
 **Parameter `source`:** Original source snapshot.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Contains immutable positioned glyphs and aggregate bounds for one shaped string.

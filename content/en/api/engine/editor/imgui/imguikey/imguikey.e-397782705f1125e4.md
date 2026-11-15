@@ -13,5 +13,3 @@ reviewed: 575e6cfb0603c3ea622a16d9eaae3027bbee994e68cefd3d5bf9984de901eaa0
 source: xml
 outdated: false
 ---
-
-Identifies the E presentation key or modifier.

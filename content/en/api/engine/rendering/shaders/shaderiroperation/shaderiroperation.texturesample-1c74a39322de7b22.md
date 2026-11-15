@@ -13,5 +13,3 @@ reviewed: 95783e393ec69de7d7539afd3bd09135d882d34559305419d7a29beb69374069
 source: xml
 outdated: false
 ---
-
-Samples a floating-point texture using implicit fragment derivatives.

@@ -13,5 +13,3 @@ reviewed: d6db3f3de62c04daa5b94756edb875e00003278518670529b40dcb14d6a49c68
 source: xml
 outdated: false
 ---
-
-Gets the imported asset type represented by this declaration, or `null` for an extension declaration.

@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Addresses a live identity object within one explicitly identified runtime domain.
-
 ## Remarks
 
 This value is suitable for transient interaction payloads only and must never be persisted. Equality compares the stored domain and runtime identifier; it does not verify that an object is still live.

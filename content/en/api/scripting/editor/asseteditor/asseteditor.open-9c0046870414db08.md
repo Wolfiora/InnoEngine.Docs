@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens the supplied asset entry when no more specific typed open action handled it.
-
 ## Parameters
 
 **Parameter `context`:** The immutable source and catalog snapshot for the operation.

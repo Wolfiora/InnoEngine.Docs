@@ -16,5 +16,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Provides backend-neutral Unicode shaping and glyph rasterization for imported fonts.

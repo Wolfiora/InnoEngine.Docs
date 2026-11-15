@@ -13,5 +13,3 @@ reviewed: d8495ec45cd3ab066c68a707b934663907f43025d6a4149c5ab82f67c91c5ee0
 source: xml
 outdated: false
 ---
-
-Restores this component to its default state when it is added or explicitly reset.

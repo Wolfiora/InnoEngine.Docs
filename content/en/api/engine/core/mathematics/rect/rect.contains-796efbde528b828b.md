@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks if this rectangle fully contains another rectangle.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.

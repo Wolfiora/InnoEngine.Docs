@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Attaches a depth or depth-stencil texture.
-
 ## Parameters
 
 **Parameter `texture`:** Depth attachment texture.

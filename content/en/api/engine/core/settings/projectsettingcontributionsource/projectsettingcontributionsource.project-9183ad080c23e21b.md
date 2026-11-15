@@ -13,5 +13,3 @@ reviewed: f77e2d5d6b560b8f99ba1eca413b9c6da72a6ca49663acae741ffa842d0e4570
 source: xml
 outdated: false
 ---
-
-The contribution is the project-authored delta with highest precedence.

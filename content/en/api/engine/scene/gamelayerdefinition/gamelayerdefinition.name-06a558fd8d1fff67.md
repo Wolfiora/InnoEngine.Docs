@@ -13,5 +13,3 @@ reviewed: 1464686afa123e98de74ad5b12ac6dabea6069df7ea5ab29b8139a2ed6ec9edf
 source: xml
 outdated: false
 ---
-
-Gets the unique ordinal layer name.

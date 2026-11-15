@@ -13,5 +13,3 @@ reviewed: d03abdad4b32803c90cbd874e80273e41a0a2e37f9f72da05f082fabeca6f6ed
 source: xml
 outdated: false
 ---
-
-Gets whether publication is forbidden and current output must match fresh generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:InnoEngine.Mathematics.Vector4Int`.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

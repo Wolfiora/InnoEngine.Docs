@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a source-free runtime catalog and its exact immutable artifact closure.
-
 ## Parameters
 
 **Parameter `destinationLibraryRoot`:** Empty destination that becomes the deployed content root.

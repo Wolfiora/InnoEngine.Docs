@@ -13,5 +13,3 @@ reviewed: 9085bbc549bfc8c1a465d1adeef4918947ebfb90166d0768b8fd663edea526bf
 source: xml
 outdated: false
 ---
-
-The last measured completion fraction, or null while the active phase has no measured total.

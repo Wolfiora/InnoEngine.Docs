@@ -13,5 +13,3 @@ reviewed: ca1388e3c443a986d6113907b6b951151d81456924896c0bee92414bf96dea0a
 source: xml
 outdated: false
 ---
-
-Gets the eye glyph used by standard Editor controls.

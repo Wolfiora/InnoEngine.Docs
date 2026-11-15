@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures reload-safe settings using the currently bound authoring owner's converters and references.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Current serializable settings type.

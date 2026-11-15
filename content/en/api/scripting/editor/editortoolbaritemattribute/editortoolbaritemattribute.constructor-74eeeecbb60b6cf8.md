@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a toolbar placement for the annotated targetless action.
-
 ## Parameters
 
 **Parameter `area`:** The exact interaction area whose toolbar receives the action.

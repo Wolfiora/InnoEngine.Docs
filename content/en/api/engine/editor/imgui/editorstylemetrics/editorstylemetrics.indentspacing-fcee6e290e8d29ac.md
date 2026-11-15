@@ -13,5 +13,3 @@ reviewed: fa1ef7e5cf10764ed518a301b6d4a5e152ac1475a9c5b71a8a42232b20686eba
 source: xml
 outdated: false
 ---
-
-Gets tree indentation.

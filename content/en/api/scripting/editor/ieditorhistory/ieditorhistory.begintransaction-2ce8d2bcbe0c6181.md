@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins an atomic group of neutral history operations.
-
 ## Parameters
 
 **Parameter `name`:** The user-facing grouped operation name.

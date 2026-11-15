@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether a presentation key remains held.
-
 ## Parameters
 
 **Parameter `key`:** The presentation key to inspect.

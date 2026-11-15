@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether this owner still owns a particular edit, including after a close or generation boundary.
-
 ## Parameters
 
 **Parameter `path`:** The stable edit identity.

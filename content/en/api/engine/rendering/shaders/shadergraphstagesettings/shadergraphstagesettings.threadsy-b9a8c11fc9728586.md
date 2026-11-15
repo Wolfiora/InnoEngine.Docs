@@ -13,5 +13,3 @@ reviewed: aa4b8bb7af866571d02e70555f6c655c2caf75fcdf06003c956df65a935432e6
 source: xml
 outdated: false
 ---
-
-Gets or sets compute workgroup height.

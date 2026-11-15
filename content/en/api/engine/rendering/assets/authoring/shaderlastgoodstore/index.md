@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Atomically preserves last-good CPU shader artifacts by asset, target and variant.

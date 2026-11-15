@@ -13,5 +13,3 @@ reviewed: 358eb4a55825fbb03b4c18662c8aa686812010289869baa14aebc47b8d635fd9
 source: xml
 outdated: false
 ---
-
-Defines the largest supported editor UI zoom.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter
 aliases: []
 ---
-
-Exposes factories for every replaceable host backend family without exposing implementations.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Resolves materials through open provider-owned shader contracts and roles.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a ready viewport output inside the current ImGui window.
-
 ## Parameters
 
 **Parameter `output`:** Output returned by `M:Inno.Editor.Rendering.IEditorRenderingHost.Submit(Inno.Editor.Rendering.EditorViewportComposition)`.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an interaction runtime for an existing passive editor context.
-
 ## Parameters
 
 **Parameter `context`:** The passive editor context shared with the presentation backend.

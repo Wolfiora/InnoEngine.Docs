@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one material property.
-
 ## Parameters
 
 **Parameter `id`:** Stable shader property identifier.

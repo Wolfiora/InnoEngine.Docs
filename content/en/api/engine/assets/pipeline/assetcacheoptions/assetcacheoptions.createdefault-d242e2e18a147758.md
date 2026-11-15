@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the default cache policy.
-
 ## Returns
 
 The default cache options.

@@ -13,5 +13,3 @@ reviewed: d8e49f9e4861c2e83d24a7e3331b5e4a5365241cb0f162b1114aa83f402f46b4
 source: xml
 outdated: false
 ---
-
-Identifies the Apostrophe presentation key or modifier.

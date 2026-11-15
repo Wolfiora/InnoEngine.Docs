@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an action registration restricted to one exact area.
-
 ## Parameters
 
 **Parameter `action`:** The stable semantic action name.

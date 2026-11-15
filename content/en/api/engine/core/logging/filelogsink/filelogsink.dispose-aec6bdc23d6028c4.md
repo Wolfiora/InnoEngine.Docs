@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits for an active write and closes the owned file, reporting any final flush failure.
-
 ## Exceptions
 
 **Exception `T:System.IO.IOException`:** The owned writer cannot finish flushing or closing its file.

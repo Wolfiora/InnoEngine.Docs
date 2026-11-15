@@ -13,5 +13,3 @@ reviewed: 1ac533999fa1bbe60928330b44f6c4ba0fe04adfcfd697cda1c5d9935bbd9b47
 source: xml
 outdated: false
 ---
-
-Gets the project-selected managed SDK identity.

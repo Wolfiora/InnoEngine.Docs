@@ -13,5 +13,3 @@ reviewed: 59b37cebc6af6a115215f5b24455f93117c3e277e804d1358bef3b70f7cc67db
 source: xml
 outdated: false
 ---
-
-Identifies the optional domain target; absent means explicitly authored generic stages.

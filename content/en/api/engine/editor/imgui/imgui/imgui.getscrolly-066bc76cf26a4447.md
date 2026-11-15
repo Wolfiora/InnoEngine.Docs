@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current vertical scroll position.
-
 ## Returns
 
 A copied value from the active presentation context.

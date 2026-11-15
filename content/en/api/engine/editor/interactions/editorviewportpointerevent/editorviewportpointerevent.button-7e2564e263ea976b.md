@@ -13,5 +13,3 @@ reviewed: 4bcc9723377df498a9dd7c213d0bc807b093fd12c4aea90aa78e95fba0c2af9e
 source: xml
 outdated: false
 ---
-
-Gets the platform button number.

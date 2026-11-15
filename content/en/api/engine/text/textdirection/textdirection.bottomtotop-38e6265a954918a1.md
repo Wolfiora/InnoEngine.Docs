@@ -13,5 +13,3 @@ reviewed: 889c4d363e2ae1d1342caaa76beb15af6611236f39cc9bc7ef42eaf7cdfffd81
 source: xml
 outdated: false
 ---
-
-Shapes text from bottom to top.

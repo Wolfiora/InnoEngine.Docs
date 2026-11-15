@@ -13,5 +13,3 @@ reviewed: e86983b3b9cfd2387b846bcb0fd0fdd5883558225d33c0a59c86b2f26c74aba8
 source: xml
 outdated: false
 ---
-
-Gets the exact selected library filenames, or null when an implementation validates its deployment metadata.

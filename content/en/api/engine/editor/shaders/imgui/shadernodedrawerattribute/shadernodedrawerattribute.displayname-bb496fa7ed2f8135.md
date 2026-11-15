@@ -13,5 +13,3 @@ reviewed: e8f59867ce728195a30a9bcfb85af48d459948f14edfc8f3fbe436bfef7a68c5
 source: xml
 outdated: false
 ---
-
-Gets the optional presentation-only name; it does not participate in Shader compilation or identity.

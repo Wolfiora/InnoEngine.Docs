@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a texture; an unassigned handle selects the renderer's white texture.

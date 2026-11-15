@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies all artifacts accepted by one product policy into its output directory.
-
 ## Parameters
 
 **Parameter `buildRoot`:** The native dependency root containing the configured build directory.

@@ -13,5 +13,3 @@ reviewed: 5d81e660ef4f6764c13e561f33dd9f8f4b4faa8da17dc4a2f10b8fca64dc21ee
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadLStickUp presentation key or modifier.

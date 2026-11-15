@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve an indexed source entry.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

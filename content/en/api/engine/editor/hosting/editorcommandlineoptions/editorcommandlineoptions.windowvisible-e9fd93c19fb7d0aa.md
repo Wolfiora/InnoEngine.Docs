@@ -13,5 +13,3 @@ reviewed: f59850a9664c0672de571e49f5f3a7bb81df334504baeb2b5130df78069ca43d
 source: xml
 outdated: false
 ---
-
-Gets whether the platform window is shown; hidden execution retains the same Editor lifecycle.

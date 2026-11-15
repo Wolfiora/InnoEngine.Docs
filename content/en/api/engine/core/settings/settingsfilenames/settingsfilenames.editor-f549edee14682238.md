@@ -13,5 +13,3 @@ reviewed: 6c25c2a41425bb67f6cf58dd96b3f05ff6367722230577e81c6097b185f8abb9
 source: xml
 outdated: false
 ---
-
-Gets the machine/editor preference document name.

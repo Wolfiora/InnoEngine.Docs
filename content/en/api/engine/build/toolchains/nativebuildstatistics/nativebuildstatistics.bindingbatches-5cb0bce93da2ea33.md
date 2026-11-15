@@ -13,5 +13,3 @@ reviewed: 7f8ef223aab1d7da9c8441289341486ba88121b8b5dcf4f9028d946d41ac6280
 source: xml
 outdated: false
 ---
-
-Gets complete binding batches requested by this operation.

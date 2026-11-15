@@ -13,5 +13,3 @@ reviewed: 5bd87a27a0a773ffe8a7c5e38cc6e358743634b14c83c0e75fc2f12b2039143a
 source: xml
 outdated: false
 ---
-
-Gets the attached mip level.

@@ -13,5 +13,3 @@ reviewed: 7cd0f83bba8d77a0f2517af61970f93c1754baa644d58d283465a888334e346c
 source: xml
 outdated: false
 ---
-
-Gets or sets values supplied by callers and exposed as outputs inside the node graph.

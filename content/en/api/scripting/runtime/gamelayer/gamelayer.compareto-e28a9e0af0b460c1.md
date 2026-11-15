@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares this layer with another layer by index.
-
 ## Returns
 
 A signed value describing the relative index ordering.

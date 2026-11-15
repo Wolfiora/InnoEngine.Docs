@@ -13,5 +13,3 @@ reviewed: e5ce494b062b063a4013f3ec73b527dbc8c7d918ad43dcc09da9fcec5dab8cd4
 source: xml
 outdated: false
 ---
-
-Disable Ctrl+Click or Enter key allowing to input text directly into the widget.

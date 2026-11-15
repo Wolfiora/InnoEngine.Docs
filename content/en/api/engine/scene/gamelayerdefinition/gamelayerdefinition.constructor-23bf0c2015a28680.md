@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable layer definition.
-
 ## Parameters
 
 **Parameter `localId`:** The stable project-independent identity.

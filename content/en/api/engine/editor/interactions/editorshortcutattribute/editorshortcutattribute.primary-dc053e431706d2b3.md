@@ -13,5 +13,3 @@ reviewed: c634bdf5534ff338976c285ea9201ca619b767481631cd251f888ed2488730c1
 source: xml
 outdated: false
 ---
-
-Gets whether the platform primary modifier is required.

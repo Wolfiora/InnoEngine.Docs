@@ -13,5 +13,3 @@ reviewed: e7e5df9d38c1d389c55c1dc02debb58c3baf720dbdee908546b768fdb9809bdb
 source: xml
 outdated: false
 ---
-
-Gets final content behavior.

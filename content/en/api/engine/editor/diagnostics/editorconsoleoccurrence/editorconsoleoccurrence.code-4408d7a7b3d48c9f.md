@@ -13,5 +13,3 @@ reviewed: d652f5e4614da5fbb4564ae42584109aea14c6e39d10ce176e62902036376b39
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic code, or an empty string for uncoded entries.

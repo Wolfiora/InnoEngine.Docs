@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Hides the selected document while retaining its state.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

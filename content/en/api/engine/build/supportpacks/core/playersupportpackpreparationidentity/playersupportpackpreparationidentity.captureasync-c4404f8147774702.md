@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures Native declarations, selected binding inputs, the managed graph and explicit packaging inputs.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed operation with a frozen SDK and binding input provider.

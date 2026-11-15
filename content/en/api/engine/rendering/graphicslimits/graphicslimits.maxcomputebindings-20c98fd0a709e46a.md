@@ -13,5 +13,3 @@ reviewed: 57675039a3bcc68abe3569526bd110991881894ef9fabc06c38bc3b489433f66
 source: xml
 outdated: false
 ---
-
-Gets the maximum storage bindings in one compute pass.

@@ -13,5 +13,3 @@ reviewed: 069eb54fea6a24556c79093d2b370639107059f6406e0cdbd0088bdfac56de13
 source: xml
 outdated: false
 ---
-
-Gets whether this hub is still attached to a live dispatcher and not disposed.

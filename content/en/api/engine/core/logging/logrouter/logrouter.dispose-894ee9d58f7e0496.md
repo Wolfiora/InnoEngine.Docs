@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Drains pending entries, stops the worker, and disposes every sink still owned by this router.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** A delivery callback attempts to dispose its own router.

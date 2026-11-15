@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all concrete discovered types implementing `TInterface`.
-
 ## Type parameters
 
 **Type parameter `TInterface`:** The interface contract implemented by every selected concrete type.

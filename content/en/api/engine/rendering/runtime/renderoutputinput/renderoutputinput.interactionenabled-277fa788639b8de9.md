@@ -13,5 +13,3 @@ reviewed: c68c5bd143c4d80bf62935df029603cc97e7d28118825365953685520a885c75
 source: xml
 outdated: false
 ---
-
-Gets whether game pointer and keyboard interaction is enabled.

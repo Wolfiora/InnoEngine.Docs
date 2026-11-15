@@ -13,5 +13,3 @@ reviewed: 3e728d98319e65698f0b115ab0e1ed206a9f6dfc0ec9fa706d428a5e8f4d6765
 source: xml
 outdated: false
 ---
-
-Gets or initializes the explicitly selected rendering factory and its host surface integration.

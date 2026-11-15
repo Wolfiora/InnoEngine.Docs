@@ -13,5 +13,3 @@ reviewed: 1291b77f795296d8b10c8183d460870db90d4f586e1433c853b7a334561d215b
 source: xml
 outdated: false
 ---
-
-Gets the configured source language identity.

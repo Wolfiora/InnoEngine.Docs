@@ -13,5 +13,3 @@ reviewed: 40187abb5ef0b6c19b86a87239908eb48c1bf6144e19da1786687df07644e2ab
 source: xml
 outdated: false
 ---
-
-Gets the number of declared transient and imported buffers.

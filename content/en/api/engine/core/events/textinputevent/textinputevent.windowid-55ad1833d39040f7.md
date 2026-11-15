@@ -13,5 +13,3 @@ reviewed: b34003fb53433a17faf510e23a43368836c2cec0838bdda88dcef51c0bc1044d
 source: xml
 outdated: false
 ---
-
-Gets the source window identifier.

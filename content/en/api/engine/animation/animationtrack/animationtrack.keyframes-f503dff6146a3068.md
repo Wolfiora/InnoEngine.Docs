@@ -13,5 +13,3 @@ reviewed: a29c0fe895149b259849eb5e1ba3413aab01f2e7a0788ac628fec28ac3bf26e1
 source: xml
 outdated: false
 ---
-
-Gets or sets ordered keyframes.

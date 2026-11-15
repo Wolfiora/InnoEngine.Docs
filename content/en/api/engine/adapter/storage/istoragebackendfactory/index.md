@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-storage#ownership-and-scope-contract
 aliases: []
 ---
-
-Creates isolated application-storage instances from explicit backend selections.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Status: is visible == is enabled AND not clipped by scrolling.

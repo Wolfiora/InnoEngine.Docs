@@ -13,5 +13,3 @@ reviewed: 4746eb556db72b2ee8d2fe9f7fb7f78b06f6b99bc6346206198d7c7dd10042f1
 source: xml
 outdated: false
 ---
-
-Commits the pending mount generation after scripts, assets, settings, and registries activate.

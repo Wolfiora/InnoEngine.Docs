@@ -13,5 +13,3 @@ reviewed: 01125099f7cd262489e94b75a1425d4cfdabd482d21dff27194b530d06ac14c7
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled browser implementation.

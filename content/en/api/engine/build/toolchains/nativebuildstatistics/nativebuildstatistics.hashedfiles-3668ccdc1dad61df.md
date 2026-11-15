@@ -13,5 +13,3 @@ reviewed: 88206d7cfcf88883bd9386dddecdea5ad74ba91bdea2ccd55de1109309312111
 source: xml
 outdated: false
 ---
-
-Gets the number of complete file hashes read, including required stability verification.

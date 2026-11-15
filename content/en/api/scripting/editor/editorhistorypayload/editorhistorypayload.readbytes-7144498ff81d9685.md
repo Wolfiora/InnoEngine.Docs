@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads the complete immutable payload into a newly allocated byte array.
-
 ## Returns
 
 A copy of the payload bytes.

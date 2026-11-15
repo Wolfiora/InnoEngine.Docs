@@ -13,5 +13,3 @@ reviewed: cf4e7399ce3360cd92c1a4469d4cb7f71b081777c2562202adbe685cc27071d4
 source: xml
 outdated: false
 ---
-
-Gets ascending model-composition order.

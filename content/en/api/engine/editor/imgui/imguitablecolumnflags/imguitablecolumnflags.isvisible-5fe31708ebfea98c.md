@@ -13,5 +13,3 @@ reviewed: 41d113d61a5381bc6df7248c4e21e2bca838053c4771c0259c594275d0fec394
 source: xml
 outdated: false
 ---
-
-Status: is visible == is enabled AND not clipped by scrolling.

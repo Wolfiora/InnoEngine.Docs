@@ -13,5 +13,3 @@ reviewed: 8b8437a89e5c2fccbfbb73544b7b8b1e98a5a89a6db3d7a0186a7dc543e8b5eb
 source: xml
 outdated: false
 ---
-
-Gets standard inner item spacing.

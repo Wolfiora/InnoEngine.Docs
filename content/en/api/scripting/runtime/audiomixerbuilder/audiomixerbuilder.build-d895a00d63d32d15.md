@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Validates the graph and returns an immutable parent-before-child snapshot.
-
 ## Returns
 
 A validated mixer graph containing the mandatory master bus.

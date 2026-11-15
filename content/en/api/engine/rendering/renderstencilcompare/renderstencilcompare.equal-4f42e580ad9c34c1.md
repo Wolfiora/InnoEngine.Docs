@@ -13,5 +13,3 @@ reviewed: 53338534e4dc41aa12722b4b66a86fd00a43e55814c3e70cb1e8b2f9fa5e7255
 source: xml
 outdated: false
 ---
-
-Passes when values are equal.

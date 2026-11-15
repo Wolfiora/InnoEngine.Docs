@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated progress update.
-
 ## Parameters
 
 **Parameter `stage`:** The stable build stage name.

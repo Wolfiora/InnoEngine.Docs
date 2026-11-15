@@ -13,5 +13,3 @@ reviewed: 32b29efd5e60ec69e941869982129f4751ce880901558cf6da351ab4712e8568
 source: xml
 outdated: false
 ---
-
-Selects the header hovered presentation behavior.

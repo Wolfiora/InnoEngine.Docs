@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws visible row ranges and preserves native scrolling, navigation and table cursor bookkeeping.
-
 ## Type parameters
 
 **Type parameter `TState`:** Call-scoped drawing data, passed directly so static callbacks need no captured closure.

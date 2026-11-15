@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Lowers a parsed function module with name-based ports and explicit aggregate/member connection alternatives.

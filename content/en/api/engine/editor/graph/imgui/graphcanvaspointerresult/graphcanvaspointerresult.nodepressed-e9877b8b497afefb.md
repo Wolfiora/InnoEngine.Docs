@@ -13,5 +13,3 @@ reviewed: 60118cb81c5a70ce0e138ee5271e703ee53d9b666d3ab44294e72ee4b0394fae
 source: xml
 outdated: false
 ---
-
-Gets the pressed node header, or null when no header was pressed.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the exact scalar type of each stored component for shared Inspector value controls.
-
 ## Returns
 
 Detached scalar identities in the same order as the bit patterns.

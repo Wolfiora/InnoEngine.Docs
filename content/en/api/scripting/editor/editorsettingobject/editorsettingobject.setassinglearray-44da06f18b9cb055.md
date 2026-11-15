@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets a single-precision array property by value.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

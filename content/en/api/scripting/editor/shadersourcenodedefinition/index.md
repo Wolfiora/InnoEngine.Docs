@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Projects one resolved source interface into immutable graph ports without duplicating authored port declarations.

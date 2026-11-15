@@ -13,5 +13,3 @@ reviewed: 4a30a7c33e8bbb3f26718e3433d843e75dfc60323c98d59ea5a7be8905a5d4b1
 source: xml
 outdated: false
 ---
-
-Gets the codec protocol of the encoded artifact.

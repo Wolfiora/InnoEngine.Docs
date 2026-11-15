@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the primary identity, or null when this snapshot contains no registered targets.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes the current region without pruning unused calls or retaining this mutable builder.
-
 ## Parameters
 
 **Parameter `outputs`:** Named values returned by the enclosing region.

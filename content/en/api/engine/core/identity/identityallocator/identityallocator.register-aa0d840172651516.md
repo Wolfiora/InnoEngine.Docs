@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers an object and assigns its session-local runtime identity.
-
 ## Parameters
 
 **Parameter `obj`:** The identity object owned by this runtime session.

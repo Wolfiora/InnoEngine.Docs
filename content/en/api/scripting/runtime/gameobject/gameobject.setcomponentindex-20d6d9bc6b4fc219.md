@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves an attached component to a requested attachment index. The mandatory Transform participates in ordering but remains non-removable.
-
 ## Parameters
 
 **Parameter `component`:** Attached component to move.

@@ -13,5 +13,3 @@ reviewed: 5b12f148a3ef44059089742f61a4b19d24e143ba16d3fadc15decb2296f11f62
 source: xml
 outdated: false
 ---
-
-Gets the monotonic frame index.

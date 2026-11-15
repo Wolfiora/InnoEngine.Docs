@@ -13,5 +13,3 @@ reviewed: c33f7b563620afe7496062d7d0bc0d48aaf371422a8d3a11ea61ae8bd19ad1aa
 source: xml
 outdated: false
 ---
-
-Gets the host's scoped execution path provider.

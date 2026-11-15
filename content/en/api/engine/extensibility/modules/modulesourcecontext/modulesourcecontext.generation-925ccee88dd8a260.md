@@ -13,5 +13,3 @@ reviewed: 5b773ba74b345a3cb08dfd13e49ac229b1b37058f90783ac6ca143a80aef7f8e
 source: xml
 outdated: false
 ---
-
-Gets the candidate generation number.

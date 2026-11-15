@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Provides reloadable Inspector controls; instances must not retain frame contexts or asset objects.

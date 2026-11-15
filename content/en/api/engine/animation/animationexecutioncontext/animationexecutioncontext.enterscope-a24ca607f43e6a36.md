@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds one animation service until the returned strict scope is disposed.
-
 ## Parameters
 
 **Parameter `animation`:** Session-owned animation service.

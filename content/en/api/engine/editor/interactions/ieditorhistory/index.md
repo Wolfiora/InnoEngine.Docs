@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Exposes reload-safe Undo and Redo operations based exclusively on neutral history changes.

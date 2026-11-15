@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a sampled texture and its sampler to a shader binding.
-
 ## Parameters
 
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.

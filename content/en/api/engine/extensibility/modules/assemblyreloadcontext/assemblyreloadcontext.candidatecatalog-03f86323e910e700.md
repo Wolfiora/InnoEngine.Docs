@@ -13,5 +13,3 @@ reviewed: f22c5fb855e7c354befed0f32bdf6e067cfea571889639b9a26ae412412b5837
 source: xml
 outdated: false
 ---
-
-Gets the validated candidate assembly catalog.

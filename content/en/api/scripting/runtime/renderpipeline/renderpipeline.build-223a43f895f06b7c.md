@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Builds all passes for one request.
-
 ## Parameters
 
 **Parameter `context`:** Frame-scoped pipeline context.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reconciles a complete source snapshot while preserving unchanged entry identities.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The source filesystem has been disposed.

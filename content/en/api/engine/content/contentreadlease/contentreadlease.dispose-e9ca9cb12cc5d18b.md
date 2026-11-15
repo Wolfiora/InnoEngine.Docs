@@ -13,5 +13,3 @@ reviewed: 228e2dff674afba22984ffa53beabb95d842ac78f3162e13e027046ca4a85bbb
 source: xml
 outdated: false
 ---
-
-Releases this lease's pin once; existing streams retain their independent pins.

@@ -13,5 +13,3 @@ reviewed: 85991dfc0f729dbb820e3c26261274e412d77a55cf5fd2b92a3af6263ddd42f1
 source: xml
 outdated: false
 ---
-
-Gets or sets whether this system participates in scene lifecycle updates.

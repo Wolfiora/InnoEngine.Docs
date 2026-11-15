@@ -13,5 +13,3 @@ reviewed: 361106f9d2b6dbee6e2720feff8bd5e3153ce86963b2caf75e10ab44ef4604c1
 source: xml
 outdated: false
 ---
-
-Gets or initializes the explicitly selected platform factory and host integration.

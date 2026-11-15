@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether content belonging to the current Inspector section should be drawn.
-
 ## Remarks
 
 Attribute-driven drawers use this value to skip properties until the next section header when the current section is collapsed.

@@ -13,5 +13,3 @@ reviewed: b3ae5fe3d548ae76a8ded026f1014b55b8c6998a16fae267e230caddc7ba5a5a
 source: xml
 outdated: false
 ---
-
-InputFloat(), InputInt(), InputScalar() etc. only: parse empty string as zero value.

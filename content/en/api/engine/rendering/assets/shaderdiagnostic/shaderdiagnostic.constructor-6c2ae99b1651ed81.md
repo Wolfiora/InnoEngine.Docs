@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader diagnostic.
-
 ## Parameters
 
 **Parameter `code`:** Stable diagnostic code.

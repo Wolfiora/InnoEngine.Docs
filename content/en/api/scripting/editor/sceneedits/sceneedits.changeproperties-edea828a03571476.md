@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies one primary property edit to a selection using owner-resolved serialized values and one atomic History transaction.
-
 ## Parameters
 
 **Parameter `targets`:** Ordered compatible scene objects; the first object supplies the edited value.

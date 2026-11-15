@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written.
-
 ## Parameters
 
 **Parameter `buffer`:** An array of bytes. This method copies `count` bytes from `buffer` to the current stream.

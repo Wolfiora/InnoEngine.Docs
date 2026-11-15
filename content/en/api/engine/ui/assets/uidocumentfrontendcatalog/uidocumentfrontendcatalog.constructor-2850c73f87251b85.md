@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a validated provider set.
-
 ## Parameters
 
 **Parameter `frontends`:** Providers owned by the authoring generation.

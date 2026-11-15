@@ -13,5 +13,3 @@ reviewed: de412c3f1c2c81f9af1d208b000d9ee63376c56f8216a90465c6861564213cd1
 source: xml
 outdated: false
 ---
-
-The scaled face descender in logical pixels, using the backend's coordinate convention.

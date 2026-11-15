@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Edits an integer within explicit inclusive bounds.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional stable ID suffix.

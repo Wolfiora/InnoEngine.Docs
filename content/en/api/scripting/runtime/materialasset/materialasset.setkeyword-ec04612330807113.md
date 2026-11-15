@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Enables or disables a declared static keyword option.
-
 ## Parameters
 
 **Parameter `keyword`:** Stable keyword option identifier.

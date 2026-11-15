@@ -13,5 +13,3 @@ reviewed: 72b30e68530e13a5bf19d29b3868eab400580904bb4397739aacd024433ceea6
 source: xml
 outdated: false
 ---
-
-Texture bound for unordered shader access by a Pipeline.

@@ -13,5 +13,3 @@ reviewed: b89f35228c8f804adb753f3f0ccba092e354732cd2ee12847c2088b84efbd573
 source: xml
 outdated: false
 ---
-
-Gets the copied node count.

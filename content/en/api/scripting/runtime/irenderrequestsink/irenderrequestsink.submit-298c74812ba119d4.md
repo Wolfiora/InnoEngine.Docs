@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Queues one immutable view request for the current or next render frame.
-
 ## Parameters
 
 **Parameter `request`:** Immutable pipeline-defined request.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a render viewport.
-
 ## Parameters
 
 **Parameter `x`:** Left pixel offset in the destination.

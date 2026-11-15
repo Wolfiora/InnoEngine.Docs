@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Identifies the durable source role recorded by an asset metadata sidecar.

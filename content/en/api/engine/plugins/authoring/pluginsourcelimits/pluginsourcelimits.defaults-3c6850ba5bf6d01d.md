@@ -13,5 +13,3 @@ reviewed: 645ed902d88ecfce1ff1d909d429c10b057d4047c400a44450d8196a2dbcded7
 source: xml
 outdated: false
 ---
-
-Gets default conservative local Plugin limits.

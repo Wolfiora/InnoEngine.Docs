@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Owns one validated archive with independent entry cursors and synchronized shared-stream positioning.

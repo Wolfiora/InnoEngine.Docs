@@ -13,5 +13,3 @@ reviewed: 6209e778074cde570356867c40d76792a6e7ad11bc5691a3e89091a6163ebe28
 source: xml
 outdated: false
 ---
-
-Gets every current occurrence in chronological arrival order.

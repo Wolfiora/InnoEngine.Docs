@@ -13,5 +13,3 @@ reviewed: de3e98f170bc21d7742fe1f1557d8db5955e61f1149b36c2f0e4ca55cbacd5dd
 source: xml
 outdated: false
 ---
-
-Gets or sets the graphics API identifier.

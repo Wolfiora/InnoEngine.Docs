@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Rotates around a focus pivot and dollies along the view direction.

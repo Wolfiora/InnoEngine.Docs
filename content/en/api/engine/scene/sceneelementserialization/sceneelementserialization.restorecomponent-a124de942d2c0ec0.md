@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recreates one component without invoking Reset and restores its persistent properties.
-
 ## Parameters
 
 **Parameter `owner`:** The live GameObject that will own the component.

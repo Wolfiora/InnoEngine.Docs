@@ -13,5 +13,3 @@ reviewed: 50b2dd1452cd4ef60b5d80acd73e67cf3c0eb92892952aba164f1794106d5878
 source: xml
 outdated: false
 ---
-
-Gets a frozen module resolved by the asset owner; null means unassigned or unavailable.

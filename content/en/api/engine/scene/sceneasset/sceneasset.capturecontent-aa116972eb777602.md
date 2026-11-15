@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the immutable runtime payload and dependency descriptors required by the scene asset pipeline.
-
 ## Returns
 
 A detached authoring-content snapshot owned by the caller.

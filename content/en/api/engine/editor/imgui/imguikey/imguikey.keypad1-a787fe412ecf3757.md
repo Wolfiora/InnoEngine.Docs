@@ -13,5 +13,3 @@ reviewed: a68f69e70f40cf0d0ae35ea00fcb34aff0f1a8b0ddd28060758ace82e401bfac
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad1 presentation key or modifier.

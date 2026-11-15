@@ -16,5 +16,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Defines the replaceable native shaping and glyph-rasterization boundary.

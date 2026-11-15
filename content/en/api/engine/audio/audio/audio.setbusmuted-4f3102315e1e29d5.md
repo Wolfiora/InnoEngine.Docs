@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates mute state for a semantic mixer bus.
-
 ## Parameters
 
 **Parameter `bus`:** Stable bus identifier.

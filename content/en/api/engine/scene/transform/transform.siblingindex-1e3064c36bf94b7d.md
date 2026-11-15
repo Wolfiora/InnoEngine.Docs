@@ -13,5 +13,3 @@ reviewed: 17717f72b66d2c0c80bf792fbbd0bd6652077486206cdcc35a440b5c23dc0b78
 source: xml
 outdated: false
 ---
-
-Gets or sets this transform's index among its siblings.

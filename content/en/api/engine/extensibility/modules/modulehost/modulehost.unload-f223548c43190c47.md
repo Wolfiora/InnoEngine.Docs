@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes an active module and starts cooperative unload when it is manager-owned.
-
 ## Parameters
 
 **Parameter `module`:** The module consumed by unload; ownership remains with the caller unless explicitly stated otherwise.

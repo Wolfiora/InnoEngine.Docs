@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Buffer bound for unordered shader access by a Pipeline.

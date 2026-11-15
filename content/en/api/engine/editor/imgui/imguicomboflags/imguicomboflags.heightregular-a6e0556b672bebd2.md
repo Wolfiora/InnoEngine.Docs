@@ -13,5 +13,3 @@ reviewed: 0a528666e40de51b3908ddf3b79c5bf38298ba8eea8824c70623bd26ae4b6342
 source: xml
 outdated: false
 ---
-
-Max ~8 items visible (default)

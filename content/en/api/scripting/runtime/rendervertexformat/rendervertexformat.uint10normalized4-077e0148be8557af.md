@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Four normalized unsigned components packed into 10:10:10:2 bits.

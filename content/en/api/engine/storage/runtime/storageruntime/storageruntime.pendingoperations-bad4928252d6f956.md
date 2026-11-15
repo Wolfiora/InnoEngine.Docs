@@ -13,5 +13,3 @@ reviewed: 958703742751850207511856f41945ea18cc959b50cb1f9630da9ee0f16213b9
 source: xml
 outdated: false
 ---
-
-Gets asynchronous operations retained until completion or retirement reporting.

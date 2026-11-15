@@ -13,5 +13,3 @@ reviewed: 90f20aa664d82b5434693710c7c9b3b0674ac276b85346eab9a2280afa252bf5
 source: xml
 outdated: false
 ---
-
-Gets a semantic content identity covering the contract, variant, target, bindings and all compiled stages.

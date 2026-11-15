@@ -13,5 +13,3 @@ reviewed: 6be46c9de24f6a5823eac6a0d21ce475646bdc637e1449f220e34e4489bfc93d
 source: xml
 outdated: false
 ---
-
-Gets referenced script assembly names.

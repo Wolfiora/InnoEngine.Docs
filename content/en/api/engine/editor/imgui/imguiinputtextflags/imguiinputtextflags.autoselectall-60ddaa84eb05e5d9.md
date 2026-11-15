@@ -13,5 +13,3 @@ reviewed: d64f0bf42fbd441252c84717a0936fbf61678dbb7cd85f14f5912dcf7721b98a
 source: xml
 outdated: false
 ---
-
-Select entire text when first taking mouse focus

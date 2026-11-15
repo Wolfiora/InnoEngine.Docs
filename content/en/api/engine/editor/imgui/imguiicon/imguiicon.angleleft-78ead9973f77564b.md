@@ -13,5 +13,3 @@ reviewed: 2c9eaa6d835cdb54bf6469ede0c7f714a41093c9d7ae0f1ac8dd0449e61db392
 source: xml
 outdated: false
 ---
-
-Gets the angle left glyph used by standard Editor controls.

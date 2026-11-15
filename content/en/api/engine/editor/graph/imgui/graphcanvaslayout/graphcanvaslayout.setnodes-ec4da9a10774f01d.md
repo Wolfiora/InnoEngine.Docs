@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces a complete display snapshot, reusing unchanged node geometry by value.
-
 ## Parameters
 
 **Parameter `nodes`:** The current neutral node descriptions in draw order.

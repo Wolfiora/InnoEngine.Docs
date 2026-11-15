@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Owns the isolated catalog storage used to validate one candidate Asset Pipeline generation.
-
 ## Remarks
 
 The caller owns `P:Inno.Assets.Pipeline.AssetCatalogCandidate.loader` and must dispose it after the candidate has either been committed or discarded. Disposing this object removes only its rebuildable staging storage.

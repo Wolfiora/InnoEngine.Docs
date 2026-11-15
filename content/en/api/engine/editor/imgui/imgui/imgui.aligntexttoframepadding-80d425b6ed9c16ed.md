@@ -13,5 +13,3 @@ reviewed: 0e339ba79725de94e04b4e55e3c0e3965520cf8c65046f5a2c697ff32d42fce5
 source: xml
 outdated: false
 ---
-
-Aligns the next text baseline with framed controls.

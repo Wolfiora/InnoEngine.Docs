@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rotation quaternion that looks in `forward` direction with the given `up`.
-
 ## Parameters
 
 **Parameter `forward`:** The forward consumed by look rotation; ownership remains with the caller unless explicitly stated otherwise.

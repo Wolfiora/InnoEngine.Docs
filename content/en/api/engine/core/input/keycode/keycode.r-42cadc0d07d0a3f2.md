@@ -13,5 +13,3 @@ reviewed: e16d6a3391f27f9fab3b89fd98e2aa3a8a817670643dcb4bfc209ac01f4f77ed
 source: xml
 outdated: false
 ---
-
-The R letter key.

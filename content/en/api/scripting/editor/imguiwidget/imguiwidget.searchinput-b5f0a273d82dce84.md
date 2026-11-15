@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a single-line search field with a stable identifier.
-
 ## Remarks
 
 Escape clears a nonempty query before leaving text input on a subsequent press.

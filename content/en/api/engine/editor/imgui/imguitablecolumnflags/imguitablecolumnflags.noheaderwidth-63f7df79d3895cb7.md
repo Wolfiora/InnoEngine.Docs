@@ -13,5 +13,3 @@ reviewed: 2e985a00e0d3e707938d2528962367156b114471f7f5e4a78ba4507454e8de9c
 source: xml
 outdated: false
 ---
-
-Disable header text width contribution to automatic column width.

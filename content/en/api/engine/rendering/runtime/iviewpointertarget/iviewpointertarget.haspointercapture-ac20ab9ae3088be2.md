@@ -13,5 +13,3 @@ reviewed: fe257bfe0e0c47bd76ae57ef9e25162bc78ab34d03c66ca2101ffbf5e3e0f09b
 source: xml
 outdated: false
 ---
-
-Gets whether this target retains pointer ownership from an earlier press. Rendering models route captured input before ordinary hit testing.

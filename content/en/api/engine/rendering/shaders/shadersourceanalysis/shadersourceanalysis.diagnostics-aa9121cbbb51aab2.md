@@ -13,5 +13,3 @@ reviewed: 931c5e78fd1bb177de07f3e51146e047a342ab2b5abc52ef8a42ab46b460fd15
 source: xml
 outdated: false
 ---
-
-Gets immutable, provider-neutral diagnostics.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Uses a perspective projection controlled by a vertical field of view.

@@ -13,5 +13,3 @@ reviewed: c20c090a82593ecb0be68dad24f8feab65d66d1a07eb4728331d726132e1da4a
 source: xml
 outdated: false
 ---
-
-Gets the exact toolbar interaction area.

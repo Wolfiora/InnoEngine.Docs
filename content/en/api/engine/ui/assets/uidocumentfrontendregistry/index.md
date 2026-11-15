@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Discovers UI language frontends through the shared type-generation transaction.

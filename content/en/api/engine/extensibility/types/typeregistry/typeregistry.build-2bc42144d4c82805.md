@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds a complete candidate registry without changing the active snapshot.
-
 ## Parameters
 
 **Parameter `types`:** The candidate type-cache snapshot.

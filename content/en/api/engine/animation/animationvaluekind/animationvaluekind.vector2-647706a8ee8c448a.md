@@ -13,5 +13,3 @@ reviewed: a3fa96e7f5a777ade6c59f84d8218f7e6ac7588a48de617ad4e4dad11f526421
 source: xml
 outdated: false
 ---
-
-Two independent components.

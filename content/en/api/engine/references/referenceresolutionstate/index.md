@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Describes the current resolution state without discarding persistent reference intent.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a persistent texture handle for backend lookup and generation validation.
-
 ## Parameters
 
 **Parameter `handle`:** The backend-neutral texture handle.

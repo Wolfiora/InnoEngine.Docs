@@ -13,5 +13,3 @@ reviewed: 3497639ba1d30c407af57838518f4e05a9d9e07edd69b2dad6d9bcf4a767185b
 source: xml
 outdated: false
 ---
-
-Disable user vertically scrolling with mouse wheel. On child window, mouse wheel will be forwarded to the parent unless NoScrollbar is also set.

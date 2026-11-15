@@ -13,5 +13,3 @@ reviewed: 212e4c9e2ee58b2ebc6d1ed8b8f819e429dff7f39b9cf7e3c1ab00a92192257b
 source: xml
 outdated: false
 ---
-
-Frame will span all columns of its container table (label will still fit in current column)

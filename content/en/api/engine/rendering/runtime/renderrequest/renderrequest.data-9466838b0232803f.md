@@ -13,5 +13,3 @@ reviewed: 7ea43bab619884cf261e2a261aa775c81a055610bab8c4b45a480fccb27e3ddd
 source: xml
 outdated: false
 ---
-
-Gets immutable pipeline-defined frame data.

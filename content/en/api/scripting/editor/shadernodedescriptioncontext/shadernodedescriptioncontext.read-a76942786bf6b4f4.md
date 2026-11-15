@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a property using the owner's converter generation and complete reference resolver context.
-
 ## Type parameters
 
 **Type parameter `T`:** Declared property type supported by the native serializer.

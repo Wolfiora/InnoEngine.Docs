@@ -13,5 +13,3 @@ reviewed: 3103d7194f690b63c6248d5d9f40efd32030398761feae9d527d57e61e3bceaa
 source: xml
 outdated: false
 ---
-
-Gets the related protocol identifier without treating it as a source file.

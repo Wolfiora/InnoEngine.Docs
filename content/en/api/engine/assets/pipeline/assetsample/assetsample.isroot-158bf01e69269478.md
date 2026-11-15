@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the final segment identifies a sample directory.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path to inspect.

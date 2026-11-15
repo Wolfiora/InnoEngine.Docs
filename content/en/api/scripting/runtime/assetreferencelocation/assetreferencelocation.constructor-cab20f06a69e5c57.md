@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Describes a neutral, persistent location without retaining its live owner.
-
 ## Parameters
 
 **Parameter `kind`:** The category of reference owner.

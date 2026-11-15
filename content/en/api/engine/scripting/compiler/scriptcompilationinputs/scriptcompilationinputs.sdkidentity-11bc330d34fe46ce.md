@@ -13,5 +13,3 @@ reviewed: d249828c668580f15786b5107bf249d0e52901dc39e56adc1a6e63620ba99c3d
 source: xml
 outdated: false
 ---
-
-Gets the exact SDK identity used for IDE consistency checks and artifact identity.

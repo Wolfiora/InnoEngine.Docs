@@ -13,5 +13,3 @@ reviewed: e83a69404934f4b6a851b54b6c8601671c671a9b5f8f643611b53d39c84b5ac7
 source: xml
 outdated: false
 ---
-
-Gets the layer group glyph used by standard Editor controls.

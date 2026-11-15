@@ -13,5 +13,3 @@ reviewed: 72298fc7ccc77796e3db2b3bc330ccd2d76d02ab3a94b64d050208ef9c0b4a5f
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadR1 presentation key or modifier.

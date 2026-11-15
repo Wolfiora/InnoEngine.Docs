@@ -13,5 +13,3 @@ reviewed: 24a42b89f6cdd4f0a73b7a3989cddf318c7288ced4ba21e8d3aa83da8931b018
 source: xml
 outdated: false
 ---
-
-Gets whether scaled simulation should be disabled for authoring.

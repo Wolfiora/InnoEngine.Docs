@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Called during the fixed-rate scene stage. Use `Time.fixedDeltaTime` for step timing.

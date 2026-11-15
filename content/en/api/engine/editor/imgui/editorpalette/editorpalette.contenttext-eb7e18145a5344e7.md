@@ -13,5 +13,3 @@ reviewed: dde81c9631777533c21def62eb02a1b72bcc74a219582d4bcbee31eb6a3407d8
 source: xml
 outdated: false
 ---
-
-Gets the content text color.

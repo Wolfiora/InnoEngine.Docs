@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Dispatches one translated platform event to active session backends, honoring event consumption.
-
 ## Parameters
 
 **Parameter `evnt`:** The backend-neutral event produced by a platform adapter.

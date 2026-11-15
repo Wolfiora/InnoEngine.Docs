@@ -13,5 +13,3 @@ reviewed: 91c23b2ee6da346b717d94e64597cf50d9034d5e44be3a3a0d266aa879afe89b
 source: xml
 outdated: false
 ---
-
-Gets the content field background.

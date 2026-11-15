@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Carries one immutable compiled shader pass and its reflected runtime bindings.

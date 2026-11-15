@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Evaluates repository project inputs in one selected SDK process without executing project targets.

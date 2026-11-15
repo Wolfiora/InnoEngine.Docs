@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the persistent destination identifier, or empty for sampling-only playback.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds the target name displayed by the Inspector target header.
-
 ## Parameters
 
 **Parameter `context`:** The active Inspector drawing context.

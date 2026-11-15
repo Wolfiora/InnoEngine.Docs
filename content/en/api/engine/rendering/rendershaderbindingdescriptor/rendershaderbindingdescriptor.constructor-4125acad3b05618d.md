@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader binding descriptor.
-
 ## Parameters
 
 **Parameter `id`:** Stable manifest binding name.

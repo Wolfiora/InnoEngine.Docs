@@ -13,5 +13,3 @@ reviewed: 632fab1c013d1270819332b9f77a63fccb406445bccfdd41e5b1e1810c1a1b0b
 source: xml
 outdated: false
 ---
-
-Uses the saturated source-alpha factor.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or sets the ordinal tag used to categorize and query this game object.
-
 ## Remarks
 
 Tag definitions are project configuration stored separately from scene data. Scene and prefab serialization persist the assigned ordinal value even when its current project definition is absent.

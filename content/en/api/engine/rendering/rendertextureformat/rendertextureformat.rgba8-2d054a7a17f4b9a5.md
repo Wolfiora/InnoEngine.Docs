@@ -13,5 +13,3 @@ reviewed: 3f12aaaa9a9dbc8fb52ac8c3ec08ea3a1cde17c87b83758f2e2d73feb58fa78f
 source: xml
 outdated: false
 ---
-
-Eight-bit four-channel linear normalized format.

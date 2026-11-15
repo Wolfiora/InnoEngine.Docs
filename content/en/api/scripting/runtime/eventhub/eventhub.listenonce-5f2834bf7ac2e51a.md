@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Subscribes a one-shot listener for the specified event type.
-
 ## Type parameters
 
 **Type parameter `TEvent`:** Event type to listen for.

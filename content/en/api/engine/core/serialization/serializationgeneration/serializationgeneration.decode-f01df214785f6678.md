@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a manually defined structured root using the converter generation captured by this instance.
-
 ## Type parameters
 
 **Type parameter `TResult`:** The result produced by the read callback.

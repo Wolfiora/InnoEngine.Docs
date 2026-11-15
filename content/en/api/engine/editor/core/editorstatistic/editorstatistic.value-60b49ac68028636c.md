@@ -13,5 +13,3 @@ reviewed: 00b741e024fa4bbac135eeb88323eed5b6bcbba230de1b348c46938989f4f18b
 source: xml
 outdated: false
 ---
-
-Gets the presentation-ready value.

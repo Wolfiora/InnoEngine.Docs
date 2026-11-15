@@ -13,5 +13,3 @@ reviewed: e2c6c84e4a54f91083cefce4fd5b842e1bec11ceb05bcd89098c74f4a02feab8
 source: xml
 outdated: false
 ---
-
-Gets the named operation phase which owns these read results.

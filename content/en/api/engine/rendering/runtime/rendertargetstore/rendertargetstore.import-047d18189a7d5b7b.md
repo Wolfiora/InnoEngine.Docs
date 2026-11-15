@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports or creates one target in the current frame graph.
-
 ## Parameters
 
 **Parameter `graph`:** Current frame graph builder.

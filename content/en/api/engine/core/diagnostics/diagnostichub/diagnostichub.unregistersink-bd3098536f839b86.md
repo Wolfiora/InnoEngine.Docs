@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Unregisters a sink so it receives no future diagnostic changes.
-
 ## Parameters
 
 **Parameter `sink`:** The sink to remove when registered.

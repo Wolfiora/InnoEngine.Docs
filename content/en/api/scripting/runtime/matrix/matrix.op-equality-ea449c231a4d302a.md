@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests matrices for approximate equality (per-element).
-
 ## Parameters
 
 **Parameter `matrix1`:** First matrix.

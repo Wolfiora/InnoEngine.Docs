@@ -13,5 +13,3 @@ reviewed: f2e839d67f537374d41cfa53f838175123ca6be8445ff1952ab669a7cab581df
 source: xml
 outdated: false
 ---
-
-Gets the standard MPEG Layer III codec identifier.

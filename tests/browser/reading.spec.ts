@@ -197,6 +197,21 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
     return Math.abs(icon.top + icon.height / 2 - label.top - label.height / 2);
   });
   expect(geometry).toBeLessThan(1.5);
+  const gaps = await row.evaluate(el => {
+    const tree = el.closest('ul')!;
+    const line = tree.getBoundingClientRect().left + parseFloat(getComputedStyle(tree).borderLeftWidth);
+    const content = el.closest('.sidebar-content')!;
+    return {
+      left: el.getBoundingClientRect().left - line,
+      right: parseFloat(getComputedStyle(content).paddingRight),
+    };
+  });
+  expect(gaps.left).toBeGreaterThan(0);
+  expect(Math.abs(gaps.left - gaps.right)).toBeLessThan(1);
+  await expect.poll(async () => row.evaluate(el => {
+    const pane = el.closest('.sidebar-pane')!;
+    return pane.getBoundingClientRect().left + pane.clientLeft + pane.clientWidth - el.getBoundingClientRect().right;
+  })).toBeGreaterThanOrEqual(gaps.right - 1);
   if (testInfo.project.name !== 'mobile') {
     await expect.poll(() => page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width)).toBeGreaterThan(initialWidth + 1);
     await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width / 2 + 1);
@@ -283,6 +298,11 @@ test('type members form one compact table and manual explanations have no XML no
   await table.scrollIntoViewIfNeeded();
   await page.screenshot({ path: testInfo.outputPath('api-members-table.png') });
   await page.goto('api/engine/core/identity/identityobject/');
+  const introduction = await page.getByRole('main').evaluate(element => {
+    const title = element.querySelector('h1')!;
+    return (title.closest('.sl-heading-wrapper') ?? title).nextElementSibling?.textContent;
+  });
+  expect(introduction).toContain('Provides instance-owned persistent and session-local identity state');
   await expect(page.locator('aside.api-status-synced')).toHaveCount(0);
   await expect(page.locator('aside.api-status-verified, aside.api-status-outdated')).toHaveCount(1);
   await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');

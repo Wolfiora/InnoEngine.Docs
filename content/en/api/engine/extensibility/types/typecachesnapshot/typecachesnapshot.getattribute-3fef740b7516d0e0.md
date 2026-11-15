@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a single extension attribute without requiring runtime reflection.
-
 ## Type parameters
 
 **Type parameter `TAttribute`:** The attribute contract requested by the caller.

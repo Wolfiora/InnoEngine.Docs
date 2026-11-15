@@ -13,5 +13,3 @@ reviewed: 1da4e9c4c0b44f4883ad66fbb57f821ecaa80378b3f5d968e4ae8dbb357f37e7
 source: xml
 outdated: false
 ---
-
-Gets the immutable context supplied to the current operation.

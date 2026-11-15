@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether this entry is the root of an installed Plugin sample awaiting Project import.

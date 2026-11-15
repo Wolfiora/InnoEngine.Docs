@@ -13,5 +13,3 @@ reviewed: 8764213121b8ae9d066b45b5f1c64c2a8d947e28a31323957c3e7ac469843f52
 source: xml
 outdated: false
 ---
-
-Gets explicit scope overrides keyed by contributed assembly simple name.

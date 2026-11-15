@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts an Editor-owned preview voice through an active Edit Mode session.
-
 ## Parameters
 
 **Parameter `session`:** Active Edit Mode session.

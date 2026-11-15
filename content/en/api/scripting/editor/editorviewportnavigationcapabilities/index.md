@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Declares navigation operations supported by one viewport interaction controller.

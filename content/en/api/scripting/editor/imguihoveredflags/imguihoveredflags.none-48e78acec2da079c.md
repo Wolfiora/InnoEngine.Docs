@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Return true if directly over the item/window, not obstructed by another window, not obstructed by an active popup or modal blocking inputs under them.

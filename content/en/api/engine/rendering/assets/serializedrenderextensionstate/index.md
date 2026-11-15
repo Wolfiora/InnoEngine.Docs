@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Stores reload-safe configuration for one pipeline or feature extension generation.

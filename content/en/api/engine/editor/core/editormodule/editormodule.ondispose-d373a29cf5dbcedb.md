@@ -13,5 +13,3 @@ reviewed: 51d5d3c68b14d018cbb44f9b4e395a52d5e232c02cf186cf1dffebcdf5ca5ec0
 source: xml
 outdated: false
 ---
-
-Releases resources owned by this module after it has stopped and left the active extension generation.

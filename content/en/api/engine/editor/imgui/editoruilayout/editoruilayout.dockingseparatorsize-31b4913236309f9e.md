@@ -13,5 +13,3 @@ reviewed: 05746cfdbd5c3c7c164e073b7d54a891778c865614006044e2fa367c35deeedc
 source: xml
 outdated: false
 ---
-
-Gets dock splitter thickness.

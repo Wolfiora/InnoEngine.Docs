@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Reports a required authoring extension absent from the current generation.
-
 ## Remarks
 
 The host may defer this condition during discovery; it remains an import failure once discovery is complete.

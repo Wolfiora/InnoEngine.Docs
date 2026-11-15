@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the source container and emits runtime metadata plus encoded font data.
-
 ## Parameters
 
 **Parameter `context`:** The source import context.

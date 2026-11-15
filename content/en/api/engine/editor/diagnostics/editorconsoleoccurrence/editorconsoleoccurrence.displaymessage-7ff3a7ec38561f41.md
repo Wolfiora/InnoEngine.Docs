@@ -13,5 +13,3 @@ reviewed: 3238ec5d24d751480be5330d340cfc27baf4416ba99d51d6dcac49c847632fc3
 source: xml
 outdated: false
 ---
-
-Gets the message text prefixed by its diagnostic code when one is present.

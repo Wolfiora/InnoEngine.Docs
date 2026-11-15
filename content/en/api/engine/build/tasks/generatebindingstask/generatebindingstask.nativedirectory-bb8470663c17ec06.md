@@ -13,5 +13,3 @@ reviewed: 421c9d320a1214ef1e4eee9afb046d538eac7bd8d4a7f0d1138f8edb5cf25cd1
 source: xml
 outdated: false
 ---
-
-Gets the complete native artifacts and compilation requirements selected by this operation.

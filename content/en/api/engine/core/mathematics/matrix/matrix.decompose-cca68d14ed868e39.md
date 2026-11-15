@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decomposes a matrix into scale, rotation and translation.
-
 ## Parameters
 
 **Parameter `m`:** The transformation matrix applied to the supplied value.

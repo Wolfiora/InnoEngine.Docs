@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether this target retains pointer ownership from an earlier press. Rendering models route captured input before ordinary hit testing.

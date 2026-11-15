@@ -13,5 +13,3 @@ reviewed: 778e535b3f382f0921afc59832c68a03d5937153ec44131db79a060638d09023
 source: xml
 outdated: false
 ---
-
-Gets the row minimum screen coordinate.

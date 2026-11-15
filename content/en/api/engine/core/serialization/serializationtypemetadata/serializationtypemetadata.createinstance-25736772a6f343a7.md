@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a new instance through the declaration's selected constructor.
-
 ## Returns
 
 A new caller-owned instance; a missing factory or failed constructor throws.

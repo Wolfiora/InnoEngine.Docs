@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Defines one interleaved vertex stream independently from a graphics backend.

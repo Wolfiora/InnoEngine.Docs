@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a game system instance.
-
 ## Parameters
 
 **Parameter `system`:** System to register.

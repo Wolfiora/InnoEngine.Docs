@@ -18,5 +18,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Publishes one immutable mesh generation to a rendering plugin.

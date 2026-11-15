@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Called during the late update stage. Use `Time.deltaTime` for frame timing.

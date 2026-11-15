@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete target registration and rejects mismatched source identities immediately.
-
 ## Parameters
 
 **Parameter `descriptor`:** The immutable target facts owned by the platform package.

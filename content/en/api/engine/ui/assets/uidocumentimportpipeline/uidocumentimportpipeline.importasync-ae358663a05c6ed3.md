@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and emits a deterministic runtime payload.
-
 ## Parameters
 
 **Parameter `context`:** Source import context.

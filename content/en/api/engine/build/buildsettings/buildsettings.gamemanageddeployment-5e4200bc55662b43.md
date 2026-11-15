@@ -13,5 +13,3 @@ reviewed: fab190cf1d55bbd4e86f3d436a2b53fc5296fd06db6750b7eac32e9d73ba1f48
 source: xml
 outdated: false
 ---
-
-Gets or sets the default managed publisher; null follows the selected platform's default.

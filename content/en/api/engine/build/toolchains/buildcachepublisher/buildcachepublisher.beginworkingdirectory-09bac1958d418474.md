@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a reusable workspace before its first payload write while the caller holds activity and producer leases. Existing unregistered directories are rejected, rather than adopted by cleanup authority.
-
 ## Parameters
 
 **Parameter `directory`:** The new or previously registered workspace within this publisher root.

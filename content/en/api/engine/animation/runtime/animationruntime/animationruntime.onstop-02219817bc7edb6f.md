@@ -13,5 +13,3 @@ reviewed: 1c2b3c1f9ce56078de6877529315a49919ca4a2c9296c0b9bff4fd0a38296f79
 source: xml
 outdated: false
 ---
-
-Releases every live playback in this runtime generation.

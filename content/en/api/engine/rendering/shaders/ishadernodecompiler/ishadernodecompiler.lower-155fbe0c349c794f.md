@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Lowers the node into the supplied typed builder without generating source strings.
-
 ## Parameters
 
 **Parameter `context`:** Connected typed inputs and the shared region builder.

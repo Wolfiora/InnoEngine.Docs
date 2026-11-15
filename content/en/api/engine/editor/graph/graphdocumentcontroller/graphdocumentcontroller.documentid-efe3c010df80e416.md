@@ -13,5 +13,3 @@ reviewed: 3b100cfdc81a57338998ee659c497c417beffc03d2fd3019dbdaddbcec7af0e7
 source: xml
 outdated: false
 ---
-
-Gets the stable project-relative document identity.

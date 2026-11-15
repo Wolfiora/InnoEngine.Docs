@@ -13,5 +13,3 @@ reviewed: 7cf46c417d350c19e85ec7f8b8338d2439ea82d853164e610458a1efb9a478af
 source: xml
 outdated: false
 ---
-
-Gets an optional rendering API preference; null selects the adapter default.

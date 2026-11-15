@@ -13,5 +13,3 @@ reviewed: 5d4f0a5d5f854b4f090f892efc801f5269498d410dc98cc62dfe177de91075ef
 source: xml
 outdated: false
 ---
-
-Gets a detached read-only contribution snapshot, including independently owned payload bytes.

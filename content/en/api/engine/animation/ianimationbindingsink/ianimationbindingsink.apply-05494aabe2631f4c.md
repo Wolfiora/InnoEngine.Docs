@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies one immutable frame of final animation samples.
-
 ## Parameters
 
 **Parameter `samples`:** Samples sorted by stable binding identifier.

@@ -13,5 +13,3 @@ reviewed: a113cb9571af312db9ca91d64546015365402872e4013644826ae986323fe786
 source: xml
 outdated: false
 ---
-
-Gets an optional contextual display name.

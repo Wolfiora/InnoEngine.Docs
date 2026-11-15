@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resumes one paused playback from its current clip-local time.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle produced by this runtime generation.

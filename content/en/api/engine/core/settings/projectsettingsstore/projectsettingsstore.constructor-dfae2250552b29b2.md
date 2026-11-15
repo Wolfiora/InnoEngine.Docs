@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project settings store from one type and serialization generation owner.
-
 ## Parameters
 
 **Parameter `documentStore`:** The borrowed document boundary; writable authoring and read-only runtime sources use the same protocol.

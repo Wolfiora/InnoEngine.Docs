@@ -13,5 +13,3 @@ reviewed: 7bad47de93a07b111816c43e4582c2e42746fb4d7ca1e05b62b2f70b2e5cf278
 source: xml
 outdated: false
 ---
-
-Gets the ordered rendering-model layers.

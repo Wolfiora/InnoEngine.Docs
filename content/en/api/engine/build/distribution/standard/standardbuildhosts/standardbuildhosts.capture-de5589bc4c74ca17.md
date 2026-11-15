@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the current execution machine from registered platform providers.
-
 ## Returns
 
 The selected immutable host and execution capabilities.

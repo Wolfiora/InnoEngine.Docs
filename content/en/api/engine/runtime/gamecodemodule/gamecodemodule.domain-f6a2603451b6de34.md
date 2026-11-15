@@ -13,5 +13,3 @@ reviewed: 1349aa5c8a8a6d04fe4d69ab5e58dae55e3c43b3fa8a6fa46fca4df274b26e12
 source: xml
 outdated: false
 ---
-
-Gets the ownership domain of this contribution.

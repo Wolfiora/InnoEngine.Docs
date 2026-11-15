@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens a new independently pinned stream without transferring this lease's ownership.
-
 ## Returns
 
 A caller-owned stream; disposing this lease or its store does not invalidate the stream.

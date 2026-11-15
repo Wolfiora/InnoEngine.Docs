@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Identifies whether an assembly can participate in runtime or editor-only dependency graphs.

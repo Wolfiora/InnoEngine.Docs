@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Occurs after a failing sink has been quarantined from this router.
-
 ## Remarks
 
 Quarantine removes the sink from delivery but does not dispose it. The host must retain responsibility for safely releasing a removed sink. Observers run within delivery and must not flush or dispose this router from their callback.

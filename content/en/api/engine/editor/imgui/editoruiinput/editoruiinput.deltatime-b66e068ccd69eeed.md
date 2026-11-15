@@ -13,5 +13,3 @@ reviewed: 966bb7d0ccb56e29a1236b91b485cf7b05d19ab0bad95715bd0decd46c84ff83
 source: xml
 outdated: false
 ---
-
-Gets the frame duration in seconds.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-taskhosting
 aliases: []
 ---
-
-Coordinates SDK restore writes for explicitly selected project closures. Parent solution entry points are excluded from these owned restores.

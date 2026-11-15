@@ -13,5 +13,3 @@ reviewed: 0c0ae0d7b5ec233e0586d1c66282126be884876839ab37f32e285d96c3c525e1
 source: xml
 outdated: false
 ---
-
-Gets the isolated managed module host that owns this engine host's reload generations.

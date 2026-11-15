@@ -13,5 +13,3 @@ reviewed: 600e08e6376dd3d13b7990da8d6257f0557144b3314957124f8c06283b39600b
 source: xml
 outdated: false
 ---
-
-Gets or sets the varying semantic; empty for fixed position, color or depth outputs.

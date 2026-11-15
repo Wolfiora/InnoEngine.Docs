@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Discovers, validates, mounts, and dependency-orders local `.iplugin` packages.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries whether every registered owner accepts an explicit reload request.
-
 ## Parameters
 
 **Parameter `reason`:** The first blocking reason, or null when the request is allowed.

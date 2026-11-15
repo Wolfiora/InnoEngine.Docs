@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a detached engine asset content snapshot.
-
 ## Parameters
 
 **Parameter `payload`:** The complete serialized runtime graph.

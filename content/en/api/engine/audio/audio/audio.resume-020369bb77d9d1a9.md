@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resumes a paused voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice handle to resume.

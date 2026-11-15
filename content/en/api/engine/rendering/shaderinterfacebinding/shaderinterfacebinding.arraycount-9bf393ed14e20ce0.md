@@ -13,5 +13,3 @@ reviewed: 18ac5cf825637a9359c74c3612966959fd9508c33166528c139eab7e2ff8ba31
 source: xml
 outdated: false
 ---
-
-Gets the required array element count.

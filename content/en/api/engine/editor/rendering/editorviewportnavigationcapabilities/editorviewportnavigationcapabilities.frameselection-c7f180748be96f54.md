@@ -13,5 +13,3 @@ reviewed: e1e2b12c3e5d0db99b422c7754aac8c1d31145a09ae5e1dac236275d7ee2bbc8
 source: xml
 outdated: false
 ---
-
-Allows framing a provider-supplied or host-derived selection bound.

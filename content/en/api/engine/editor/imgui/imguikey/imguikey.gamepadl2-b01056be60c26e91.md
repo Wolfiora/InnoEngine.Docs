@@ -13,5 +13,3 @@ reviewed: b6cec04d91a8250263ce3bfbc489fa1ca54a4214d78cca18c026e446dd083342
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadL2 presentation key or modifier.

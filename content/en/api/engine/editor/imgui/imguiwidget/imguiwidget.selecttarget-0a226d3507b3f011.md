@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies ordinary, additive or visible-range selection using the active keyboard modifiers.
-
 ## Parameters
 
 **Parameter `interactions`:** The session's authoritative interaction service.

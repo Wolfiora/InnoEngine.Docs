@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the source-free deployment artifact consumed by Editor preview sessions and Players.
-
 ## Returns
 
 A deep immutable runtime artifact containing only target binaries, fixed-function state, and binding contracts.

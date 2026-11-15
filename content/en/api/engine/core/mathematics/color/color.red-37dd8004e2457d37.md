@@ -13,5 +13,3 @@ reviewed: 390ca73e0f9d8ab34552e4cf5d0413d6a6a48583dbf3f8528e7775e3800254e9
 source: xml
 outdated: false
 ---
-
-The red value used as part of this type's public representation.

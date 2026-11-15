@@ -13,5 +13,3 @@ reviewed: 7294ea84a40705afd8f0aa675067db9bab675b2188d415754ee633eaa96db4a6
 source: xml
 outdated: false
 ---
-
-Renders the Y scale handle.

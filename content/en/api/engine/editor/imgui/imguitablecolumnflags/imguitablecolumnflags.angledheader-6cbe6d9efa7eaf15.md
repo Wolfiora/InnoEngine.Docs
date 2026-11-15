@@ -13,5 +13,3 @@ reviewed: 408f4e463962e1231a94153a5604254fb3134cf0878d506be8e3d92a16023265
 source: xml
 outdated: false
 ---
-
-TableHeadersRow() will submit an angled header row for this column. Note this will add an extra row.

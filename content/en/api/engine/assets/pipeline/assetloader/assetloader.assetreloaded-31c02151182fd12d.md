@@ -13,5 +13,3 @@ reviewed: 682f67894a10a221cad1f96834781988e4932fa1a37aacc8e72e076e78681970
 source: xml
 outdated: false
 ---
-
-Occurs after a loaded canonical asset is updated in place.

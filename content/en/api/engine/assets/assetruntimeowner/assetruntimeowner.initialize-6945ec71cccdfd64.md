@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Claims an unowned asset or commits new runtime state to an already owned instance.
-
 ## Parameters
 
 **Parameter `asset`:** The instance to initialize; ownership cannot be transferred between databases.

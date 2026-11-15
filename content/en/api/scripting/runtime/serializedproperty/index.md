@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Represents a discoverable property in editor and persistence workflows.

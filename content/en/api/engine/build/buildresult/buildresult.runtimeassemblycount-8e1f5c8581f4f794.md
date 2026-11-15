@@ -13,5 +13,3 @@ reviewed: ac97eb6128ceb5995b5adf4698fb78f1434872661c2202b8584848cff8582ae8
 source: xml
 outdated: false
 ---
-
-Gets the number of deployed runtime assemblies.

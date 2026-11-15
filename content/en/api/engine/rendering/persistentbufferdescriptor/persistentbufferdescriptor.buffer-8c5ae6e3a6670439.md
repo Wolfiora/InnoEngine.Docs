@@ -13,5 +13,3 @@ reviewed: 6b40419c5fb148af5b79a4a18477f8e5a2561095451647b11afcc392cae4221e
 source: xml
 outdated: false
 ---
-
-Gets buffer capacity and usage.

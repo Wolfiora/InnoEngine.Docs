@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a key was newly pressed this frame.
-
 ## Parameters
 
 **Parameter `key`:** The backend-neutral physical key.

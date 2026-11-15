@@ -13,5 +13,3 @@ reviewed: 67a52803f558dd53faef91c5e2afe7b93f5c8394d67441021232ae1d83ac3001
 source: xml
 outdated: false
 ---
-
-Disable keeping column always minimally visible when ScrollX is off and table gets too small. Not recommended if columns are resizable.

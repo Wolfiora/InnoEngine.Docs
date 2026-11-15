@@ -13,5 +13,3 @@ reviewed: afa5bc9dff448cb30e34c3ab11f1cc12aadd0550c0d2f5ad7483ae4d2c2e1b6e
 source: xml
 outdated: false
 ---
-
-Gets effective parameterless overrides without retaining runtime MethodInfo objects.

@@ -13,5 +13,3 @@ reviewed: b9afb08cac16c269916e6de27b30101f1fda9540aeeacb00c0be3653ea403d83
 source: xml
 outdated: false
 ---
-
-Gets the outer cone angle in degrees.

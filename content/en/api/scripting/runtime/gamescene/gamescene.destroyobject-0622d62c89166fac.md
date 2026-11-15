@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Recursively destroys a game object and its complete child subtree.
-
 ## Parameters
 
 **Parameter `gameObject`:** Root object to destroy.

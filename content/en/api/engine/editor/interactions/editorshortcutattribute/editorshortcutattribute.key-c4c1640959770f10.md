@@ -13,5 +13,3 @@ reviewed: 444cd1c66ef931b6b017313d302f47d01a5ff13e31ba2ffe2905c6f66efa12b5
 source: xml
 outdated: false
 ---
-
-Gets the shortcut key.

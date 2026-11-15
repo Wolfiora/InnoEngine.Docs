@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Lists immutable keys below an optional logical prefix.
-
 ## Parameters
 
 **Parameter `prefix`:** An optional normalized directory prefix.

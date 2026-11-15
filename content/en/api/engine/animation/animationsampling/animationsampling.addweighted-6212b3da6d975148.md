@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one weighted value to an accumulation of the same kind.
-
 ## Parameters
 
 **Parameter `sum`:** The current weighted sum.

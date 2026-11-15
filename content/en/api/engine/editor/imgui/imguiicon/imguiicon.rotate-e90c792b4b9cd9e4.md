@@ -13,5 +13,3 @@ reviewed: fd23a692cdf1e904a0ed7b9b6dfa61bc05267f4f0b4e8e8dddbcc69afae72dbe
 source: xml
 outdated: false
 ---
-
-Gets the rotate glyph used by standard Editor controls.

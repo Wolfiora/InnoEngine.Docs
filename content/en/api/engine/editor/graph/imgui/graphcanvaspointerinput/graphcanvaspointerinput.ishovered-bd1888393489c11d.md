@@ -13,5 +13,3 @@ reviewed: 2be414ce647ca666355a20d6d4ca7b64de65bb57773d489588c841bfd6b2781f
 source: xml
 outdated: false
 ---
-
-Gets whether this canvas owns the pointer for starting an interaction.

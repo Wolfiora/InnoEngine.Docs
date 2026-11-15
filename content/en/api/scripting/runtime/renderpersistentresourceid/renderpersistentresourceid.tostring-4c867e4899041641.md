@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats this value as a human-readable representation.
-
 ## Returns
 
 The human-readable representation of this value.

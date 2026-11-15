@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Describes the immutable assembly artifacts and dependency topology of one compiled script module. The receiving host chooses how these artifacts enter its module catalog.

@@ -13,5 +13,3 @@ reviewed: cd308931401786b2a0b58083e10d066e7fcdbdc9da3719c0f32786fde71c24e0
 source: xml
 outdated: false
 ---
-
-Gets the candidate artifact, or `null` after failure.

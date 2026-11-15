@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Identifies the exclusive owner that creates and retires a stable engine subsystem.

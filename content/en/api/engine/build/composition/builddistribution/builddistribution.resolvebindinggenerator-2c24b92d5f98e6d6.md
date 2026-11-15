@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the generator explicitly registered by a target integration.
-
 ## Parameters
 
 **Parameter `targetId`:** The requested native target.

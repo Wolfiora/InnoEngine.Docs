@@ -13,5 +13,3 @@ reviewed: 37f043925c14afccdbb682d85b55fd3de490bf071aef8744518b1f2f3def7403
 source: xml
 outdated: false
 ---
-
-Identifies the J presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: 023c3c198baff487b6e87e1b105579904a4d5e70b8f32f09720da10fc1a28022
 source: xml
 outdated: false
 ---
-
-Unsigned 32-bit indices.

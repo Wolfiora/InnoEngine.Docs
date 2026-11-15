@@ -13,5 +13,3 @@ reviewed: 3204a530a75865f2a25fb05da45bc118ce5e8dc40917acb7de0ef26794e6ba65
 source: xml
 outdated: false
 ---
-
-Gets the monotonic output frame number.

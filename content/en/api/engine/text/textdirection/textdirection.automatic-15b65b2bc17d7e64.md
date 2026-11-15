@@ -13,5 +13,3 @@ reviewed: fd28e8a7e1f29f532073645f479832683f688cb295f6add6a6515e057b49143a
 source: xml
 outdated: false
 ---
-
-Lets the shaping engine infer direction from the text.

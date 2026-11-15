@@ -13,5 +13,3 @@ reviewed: b972de11ce869932502af21f125d742c721fe342835f8150ef49e4fe0e94fda1
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the primary backbuffer performs sRGB encoding.

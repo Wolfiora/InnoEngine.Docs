@@ -13,5 +13,3 @@ reviewed: 9b623b6ec4459651f135cca5b52a8c33d500ed041fabcac643a8ab5f15bbe170
 source: xml
 outdated: false
 ---
-
-Gets or sets the world-space position.

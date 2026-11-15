@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Stores one backend-neutral presentation extent in physical pixels.

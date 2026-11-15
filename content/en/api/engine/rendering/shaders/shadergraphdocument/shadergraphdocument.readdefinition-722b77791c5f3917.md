@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the material and pass contract without evaluating or altering the graph.
-
 ## Parameters
 
 **Parameter `graph`:** Native shader graph.

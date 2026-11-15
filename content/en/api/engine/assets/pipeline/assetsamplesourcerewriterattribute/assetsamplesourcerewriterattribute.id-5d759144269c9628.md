@@ -13,5 +13,3 @@ reviewed: 9b7e1330b33d23b5793568596fdc7b543f3a932f3f77704f5abbd4917d8da119
 source: xml
 outdated: false
 ---
-
-Gets the stable extension identity.

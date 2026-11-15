@@ -13,5 +13,3 @@ reviewed: f488c0b74795d6131f1e9dd4c83dce3c6e9eaf040edf1adee0c2c2b960df8580
 source: xml
 outdated: false
 ---
-
-Disable catching mouse, hovering test with pass through.

@@ -13,5 +13,3 @@ reviewed: 822c2ec99695aef7eacf3bb336dd2e999fa714c269205afac70f51ee784ad7d3
 source: xml
 outdated: false
 ---
-
-Identifies the AppForward presentation key or modifier.

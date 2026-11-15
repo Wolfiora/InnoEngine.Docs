@@ -13,5 +13,3 @@ reviewed: 0206acb0ca63c7ffa1692a267503411198121168b472476bd1fee01407437644
 source: xml
 outdated: false
 ---
-
-The ui mesh handle value used to initialize this instance.

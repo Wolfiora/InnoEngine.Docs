@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Creates isolated runtime scene sessions from the current editable scene set.

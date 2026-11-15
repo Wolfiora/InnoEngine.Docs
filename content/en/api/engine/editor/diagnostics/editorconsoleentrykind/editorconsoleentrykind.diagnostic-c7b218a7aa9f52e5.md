@@ -13,5 +13,3 @@ reviewed: f8507e51d170d7bc4f43e50936d32a4448df50746d82327b9cd805f41e2aa802
 source: xml
 outdated: false
 ---
-
-The occurrence represents current state from a diagnostic producer.

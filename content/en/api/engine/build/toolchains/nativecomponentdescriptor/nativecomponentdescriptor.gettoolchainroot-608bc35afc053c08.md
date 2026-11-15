@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the declared recipe owner within an explicitly supplied checkout.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute operation-owned checkout.

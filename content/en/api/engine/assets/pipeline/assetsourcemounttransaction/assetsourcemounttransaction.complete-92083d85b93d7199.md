@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits an activated candidate, notifies observers, and retires the previous generation.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Retirement exceeded its deadline. Both generations remain owned and the host must restart.

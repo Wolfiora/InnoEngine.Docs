@@ -13,5 +13,3 @@ reviewed: 6ab8b767a799cb0970fb0a68942e8a8e19af44c5ba25a461ae7d37c8df6dad24
 source: xml
 outdated: false
 ---
-
-Creates a dependency collector that preserves last-known source paths in serialized references.

@@ -13,5 +13,3 @@ reviewed: 03caf57a8ca9e4a4be183d8c71bfcb9019c3f7d3a84c78cfd0ef19aa04e7ff3c
 source: xml
 outdated: false
 ---
-
-Gets or sets the encoded byte threshold used by automatic load-mode selection.

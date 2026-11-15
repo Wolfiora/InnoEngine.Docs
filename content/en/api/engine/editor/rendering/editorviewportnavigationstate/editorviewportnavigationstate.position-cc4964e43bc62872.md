@@ -13,5 +13,3 @@ reviewed: e801fe4e5ccaff7d5b9a95a9efa0753bdbb9b4db057f5cba95daed71a0a63e49
 source: xml
 outdated: false
 ---
-
-Gets or sets the provider-defined world-space view position.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets exact scalar bits for a Constant instruction; the result type determines interpretation.

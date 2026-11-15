@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The active script generation is ready and isolated runtime state is being prepared.

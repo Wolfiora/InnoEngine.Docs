@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the current effective build defaults as a native document.
-
 ## Returns
 
 A newly owned current-format document payload.

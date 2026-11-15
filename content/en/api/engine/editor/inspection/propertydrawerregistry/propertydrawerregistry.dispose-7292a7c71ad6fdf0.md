@@ -13,5 +13,3 @@ reviewed: ab79daf8bd81eeecb3afe4741c2989e3987758e3cd1678431b8e434befd4d5e6
 source: xml
 outdated: false
 ---
-
-Releases every active property drawer snapshot and unregisters the registry from type refreshes.

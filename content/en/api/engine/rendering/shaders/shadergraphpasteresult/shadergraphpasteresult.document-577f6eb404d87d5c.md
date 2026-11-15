@@ -13,5 +13,3 @@ reviewed: 001e648a6ebaab27bac16e27ed9fc1b7b09e1a09b3c29c412e3cefcfdc4c1e14
 source: xml
 outdated: false
 ---
-
-Gets the complete detached candidate; the caller owns its subsequent edits.

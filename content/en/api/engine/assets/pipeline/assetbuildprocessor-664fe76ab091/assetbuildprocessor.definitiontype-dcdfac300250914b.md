@@ -13,5 +13,3 @@ reviewed: eb08d83708db328a124308315c16a1e90714ffeb5658247cb1634c3526b9f5b1
 source: xml
 outdated: false
 ---
-
-Gets the definition type accepted by this processor.

@@ -13,5 +13,3 @@ reviewed: c4550235b6c1d888db7e047fd6e1f232d67fbc4315887b4b645206cdebdf7cc1
 source: xml
 outdated: false
 ---
-
-Gets the page that owns this field.

@@ -13,5 +13,3 @@ reviewed: 3658802518183f64fe6a533bb543464f26986416c26884de9380ea2950365f8c
 source: xml
 outdated: false
 ---
-
-Gets the human-readable explanation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader compilation result.
-
 ## Parameters
 
 **Parameter `artifact`:** Candidate artifact, or `null` after failure.

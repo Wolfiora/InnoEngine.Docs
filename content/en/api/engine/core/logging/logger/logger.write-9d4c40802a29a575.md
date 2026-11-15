@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes one formatted entry with source information captured from the caller.
-
 ## Parameters
 
 **Parameter `level`:** The severity assigned to the entry.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an interaction runtime with stable host-owned extension services.
-
 ## Parameters
 
 **Parameter `context`:** The passive editor context shared with the presentation backend.

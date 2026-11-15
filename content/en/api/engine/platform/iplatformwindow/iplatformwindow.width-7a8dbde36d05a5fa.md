@@ -13,5 +13,3 @@ reviewed: 3102dda43e5dd5856334917ab144c74b09975e86a8f4fff62fd4c057790b1613
 source: xml
 outdated: false
 ---
-
-Gets the logical client width.

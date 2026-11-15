@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: disable display of inline text label (the label is still forwarded to the tooltip and picker).

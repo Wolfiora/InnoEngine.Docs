@@ -13,5 +13,3 @@ reviewed: 5cf0cc6eec4c41e0898f245f3d609327c8598b11f4097096a7f0d63bf3887c91
 source: xml
 outdated: false
 ---
-
-Identifies the F6 presentation key or modifier.

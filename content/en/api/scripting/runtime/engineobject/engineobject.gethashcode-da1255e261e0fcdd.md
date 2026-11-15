@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns a stable runtime reference hash code.
-
 ## Returns
 
 The reference hash code.

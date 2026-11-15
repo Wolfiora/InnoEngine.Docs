@@ -13,5 +13,3 @@ reviewed: 8d88df7f9265be0a2d58916accade79cf139269fbae0b0588053ca6b344b6a0e
 source: xml
 outdated: false
 ---
-
-Gets the immutable dependency-ordered code closure.

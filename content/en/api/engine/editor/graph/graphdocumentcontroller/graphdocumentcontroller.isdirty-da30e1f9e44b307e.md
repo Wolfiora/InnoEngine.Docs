@@ -13,5 +13,3 @@ reviewed: 9f33c58897a95f19e41d2e2e6d3c7008012a42c7d17cd90d3c2a8c33a70a997e
 source: xml
 outdated: false
 ---
-
-Gets whether content changed after its last explicit saved marker.

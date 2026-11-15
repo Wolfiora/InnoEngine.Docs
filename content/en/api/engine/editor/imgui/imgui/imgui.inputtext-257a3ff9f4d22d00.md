@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws and edits a bounded UTF-8 text value.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

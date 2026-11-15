@@ -13,5 +13,3 @@ reviewed: 49bdc00a718bd7c27ffdac87e8201da1456513fe0d7c78b6d226294d7c75bec3
 source: xml
 outdated: false
 ---
-
-Gets or sets the artist-facing property name.

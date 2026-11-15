@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated source-mount and catalog candidate without changing the active catalog.
-
 ## Parameters
 
 **Parameter `mounts`:** The complete source-mount snapshot to validate.

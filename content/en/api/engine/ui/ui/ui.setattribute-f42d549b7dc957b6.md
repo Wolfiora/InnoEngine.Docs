@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets one element attribute.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

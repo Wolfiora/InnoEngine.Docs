@@ -13,5 +13,3 @@ reviewed: 52a4d26e8dc8efc071819759b004ad2211693d3b10a8a6e72c5de29b70c0f746
 source: xml
 outdated: false
 ---
-
-Gets a requested connection's input endpoint, paired with the output endpoint.

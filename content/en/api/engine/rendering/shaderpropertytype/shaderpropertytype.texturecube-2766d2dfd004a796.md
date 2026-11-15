@@ -13,5 +13,3 @@ reviewed: 6260479efb8747220d1bedadcd9ac3e671c27c7e46337de552fb82903628c7fd
 source: xml
 outdated: false
 ---
-
-Cube texture.

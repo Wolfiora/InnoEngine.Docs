@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads one packaged portable texture artifact when it exists.
-
 ## Parameters
 
 **Parameter `texture`:** The imported texture description.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Contains render-graph compilation diagnostics and an optional executable graph.

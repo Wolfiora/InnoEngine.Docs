@@ -13,5 +13,3 @@ reviewed: facb6b939d896e8a9b4b2d6fa23b50f03fc488bb4943fe7432d35160706bd0fb
 source: xml
 outdated: false
 ---
-
-The P letter key.

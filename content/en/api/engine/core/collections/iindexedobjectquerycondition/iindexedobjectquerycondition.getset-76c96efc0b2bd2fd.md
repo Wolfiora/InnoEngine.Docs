@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns a candidate set for this condition if available.
-
 ## Parameters
 
 **Parameter `store`:** Store being queried.

@@ -13,5 +13,3 @@ reviewed: e102656e17aaab0095c649172783db7c32a979e2d20ba05f9a32175ce8b3b95f
 source: xml
 outdated: false
 ---
-
-Gets whether this module host can accept catalog operations.

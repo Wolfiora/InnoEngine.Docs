@@ -13,5 +13,3 @@ reviewed: fcc5f1aca06d7d443a1ab5c492bb9cb8024afe9f7b5f8652a005b7800baae71d
 source: xml
 outdated: false
 ---
-
-Gets the absolute path of the module's primary assembly artifact.

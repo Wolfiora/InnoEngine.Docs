@@ -13,5 +13,3 @@ reviewed: 3b0ecc812761d25b03b175fd6d2051b725817f57960521bf9d47e7b8a63c1bd0
 source: xml
 outdated: false
 ---
-
-Gets bytes read from actual outputs, separately from source snapshot verification.

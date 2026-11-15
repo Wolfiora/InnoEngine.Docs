@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Whether an input must be connected; alternative aggregate/member inputs validate in their compiler.

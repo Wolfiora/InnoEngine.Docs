@@ -13,5 +13,3 @@ reviewed: 2bd15f3a83f8e01d25413cd61ec62ca586637aba9a334406003ebdd13c39653d
 source: xml
 outdated: false
 ---
-
-Artifact production is still running and no usable artifact is available yet.

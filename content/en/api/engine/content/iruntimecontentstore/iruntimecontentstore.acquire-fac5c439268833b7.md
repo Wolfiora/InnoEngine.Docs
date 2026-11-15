@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pins an entry against source retirement and supplies independent read streams.
-
 ## Parameters
 
 **Parameter `key`:** The exact assigned logical key.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects an asset path through the editor-wide selection state, or clears Asset selection.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context whose selection should be updated.

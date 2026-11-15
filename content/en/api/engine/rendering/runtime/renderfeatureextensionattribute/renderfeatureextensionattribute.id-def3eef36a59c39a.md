@@ -13,5 +13,3 @@ reviewed: 9ad3e9799403f2275a56965a38df5e441b9b520495d7d8afe8b0f48536887d00
 source: xml
 outdated: false
 ---
-
-Gets the globally stable feature extension identifier.

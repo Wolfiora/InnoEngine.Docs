@@ -13,5 +13,3 @@ reviewed: 6e5d4a131756bfc8506905ef1086cc707f40d76ff0d6441188c7f487fdc61ad4
 source: xml
 outdated: false
 ---
-
-Gets standard window rounding.

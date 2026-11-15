@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pins generation admission for a Build or Export operation, including asynchronous snapshot consumers.
-
 ## Parameters
 
 **Parameter `operation`:** The diagnostic operation name.

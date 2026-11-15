@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes one custom project tag definition without rewriting scene assignments.
-
 ## Parameters
 
 **Parameter `tag`:** The custom tag to remove.

@@ -13,5 +13,3 @@ reviewed: a0bf31bee631513c6d6acba367c6525a61d61e90463a03a8871a8fb9815fea24
 source: xml
 outdated: false
 ---
-
-The tab key.

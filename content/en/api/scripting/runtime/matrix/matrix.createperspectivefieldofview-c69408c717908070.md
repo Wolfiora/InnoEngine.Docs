@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a left-handed, perspective projection matrix ( depth range 0..1).
-
 ## Parameters
 
 **Parameter `fov`:** Vertical field of view in radians.

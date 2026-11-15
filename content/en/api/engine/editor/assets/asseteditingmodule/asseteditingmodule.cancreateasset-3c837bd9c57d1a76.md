@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks that a creation template and writable destination are available.
-
 ## Parameters
 
 **Parameter `directory`:** The source-relative writable destination directory.

@@ -13,5 +13,3 @@ reviewed: 49dae98d7335486eb3e5cceaab9ce7d7da34a350c6affbb831de8a99943c3d0a
 source: xml
 outdated: false
 ---
-
-Gets the viewport-local pixel position.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Provides immutable content leases without exposing deployment paths or writable authoring sources.

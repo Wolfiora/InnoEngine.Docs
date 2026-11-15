@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets optional creation-menu presentation without executing the drawer.
-
 ## Parameters
 
 **Parameter `definitionId`:** Stable compiler-independent node identity.

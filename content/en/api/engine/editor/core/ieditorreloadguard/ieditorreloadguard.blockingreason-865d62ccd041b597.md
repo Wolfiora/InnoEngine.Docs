@@ -13,5 +13,3 @@ reviewed: b17766441e05a70e8121220e2d522ee0c88a4e7368b72578ca590ae1ccff0f63
 source: xml
 outdated: false
 ---
-
-Gets the reason admission is blocked, or null when the owner is ready for reload.

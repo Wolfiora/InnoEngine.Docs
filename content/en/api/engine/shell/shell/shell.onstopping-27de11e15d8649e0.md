@@ -13,5 +13,3 @@ reviewed: b202f261f7caa1c38eeae38d31421c532faed50c1454704cc444928f551b94b6
 source: xml
 outdated: false
 ---
-
-Runs once when the main loop is stopping while all product and adapter resources remain alive.

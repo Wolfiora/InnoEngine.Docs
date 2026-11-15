@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores serialized properties to the existing asset object.
-
 ## Parameters
 
 **Parameter `stableTypeId`:** The stable type id consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.

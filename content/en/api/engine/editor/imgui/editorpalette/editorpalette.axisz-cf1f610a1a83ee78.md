@@ -13,5 +13,3 @@ reviewed: 87e10d8c784842af9d6f23fe079d2263374ea8ea64fe8f66c9613c38278adb4c
 source: xml
 outdated: false
 ---
-
-Gets Z axis color.

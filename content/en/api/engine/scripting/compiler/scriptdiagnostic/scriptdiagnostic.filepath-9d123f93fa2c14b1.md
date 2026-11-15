@@ -13,5 +13,3 @@ reviewed: f3120bb9bda068e9a494451c49e616199c2bfb948936ac5e27f508d644be0e08
 source: xml
 outdated: false
 ---
-
-The source path associated with the diagnostic, or `null` for a project-level diagnostic.

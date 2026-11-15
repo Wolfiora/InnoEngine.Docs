@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ends graph execution without presenting an additional frame.
-
 ## Parameters
 
 **Parameter `graph`:** Compiled graph that finished or failed.

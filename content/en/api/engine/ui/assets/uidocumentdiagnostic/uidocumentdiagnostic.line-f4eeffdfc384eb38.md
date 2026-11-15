@@ -13,5 +13,3 @@ reviewed: d6b47eba7c243db950594abf86e0f40305abcbf5c62e4fe35ab79dd78dd95075
 source: xml
 outdated: false
 ---
-
-One-based source line.

@@ -17,6 +17,4 @@ contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts
 ---
 
-Owns the persistent-to-runtime identity map for one isolated runtime session.
-
 [Register and release an identity object](../../../../../manual/register-identity.md) shows the owner and lifetime sequence. Read the [shared lifecycle and failure contracts](../../../../../architecture/projects/inno-core-identity.md#lifecycle-and-failure-contracts) before using these members.

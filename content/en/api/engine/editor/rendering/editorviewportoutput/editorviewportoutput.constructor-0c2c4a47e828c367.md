@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an editor viewport output snapshot.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable viewport identity.

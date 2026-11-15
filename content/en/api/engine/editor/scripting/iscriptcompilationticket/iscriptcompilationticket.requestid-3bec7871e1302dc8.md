@@ -13,5 +13,3 @@ reviewed: 16176b8e3d4f02925b52957fefa4ce36635385366f23f5f3eb5ae1436437e557
 source: xml
 outdated: false
 ---
-
-Gets the producer-local monotonic identifier of this request.

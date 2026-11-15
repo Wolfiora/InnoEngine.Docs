@@ -13,5 +13,3 @@ reviewed: ac0a395760d607fa28875dbf1a6d33cc3adba3bd93f1cb61c41f2dae4186c17f
 source: xml
 outdated: false
 ---
-
-No optional feature.

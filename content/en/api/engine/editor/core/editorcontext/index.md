@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Provides passive project and frame state shared by editor extensions. Interaction routing is supplied separately by Inno.Editor.Interactions.

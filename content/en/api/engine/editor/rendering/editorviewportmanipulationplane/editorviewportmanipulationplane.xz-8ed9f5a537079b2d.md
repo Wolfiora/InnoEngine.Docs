@@ -13,5 +13,3 @@ reviewed: fa0db39955216d540165bbc8ed0f882a957062119fc849e624223e568e640baf
 source: xml
 outdated: false
 ---
-
-Uses the X/Z translation and scale axes with the Y rotation handle.

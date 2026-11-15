@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the document atomically after preparation succeeds.
-
 ## Parameters
 
 **Parameter `data`:** The complete candidate bytes; the implementation cannot retain borrowed caller memory.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []
 ---
-
-Represents an axis-aligned rectangle with integer coordinates. Coordinates assume Y-axis points upwards (top smaller than bottom).

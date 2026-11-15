@@ -13,5 +13,3 @@ reviewed: 2632732113c4fb3cf3b737771758ff596b2cc1b426ccd136e8b701d7a56722f7
 source: xml
 outdated: false
 ---
-
-Gets the stable profile identity.

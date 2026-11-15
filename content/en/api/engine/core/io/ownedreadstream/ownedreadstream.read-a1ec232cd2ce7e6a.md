@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
-
 ## Parameters
 
 **Parameter `buffer`:** An array of bytes. When this method returns, the buffer contains the specified byte array with the values between `offset` and (`offset` + `count` - 1) replaced by the bytes read from the current source.

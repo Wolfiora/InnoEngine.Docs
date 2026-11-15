@@ -13,5 +13,3 @@ reviewed: 3781e35dcf67dea150570de16a133fb814268db8ed353169a6475d2969f6a95b
 source: xml
 outdated: false
 ---
-
-Gets the number of unique content-addressed bundles.

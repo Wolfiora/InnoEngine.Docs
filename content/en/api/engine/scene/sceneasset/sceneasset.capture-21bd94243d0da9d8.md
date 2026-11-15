@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a runtime scene into a new unsaved scene asset.
-
 ## Parameters
 
 **Parameter `scene`:** Scene to capture.

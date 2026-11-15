@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens a read-only stream over the retained immutable artifact.
-
 ## Returns
 
 A new independently owned read stream.

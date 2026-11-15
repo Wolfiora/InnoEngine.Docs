@@ -13,5 +13,3 @@ reviewed: a620947c4fff4f78466357ea89ee71c7294455021976e6a9b5ddf695562e3d38
 source: xml
 outdated: false
 ---
-
-Selects the text selected bg presentation behavior.

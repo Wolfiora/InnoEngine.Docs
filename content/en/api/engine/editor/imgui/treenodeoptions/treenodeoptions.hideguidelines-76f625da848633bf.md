@@ -13,5 +13,3 @@ reviewed: 199fddd432521dc82d3305278b86f8f5e7f06060f6faa8d80de8f1b01e9e12fa
 source: xml
 outdated: false
 ---
-
-Gets whether ancestor and branch guide lines are omitted for this row.

@@ -13,5 +13,3 @@ reviewed: 0b41a5740c321eb77e22049cea8b7f322f003aeb414d354456710a217acd110c
 source: xml
 outdated: false
 ---
-
-Clears all transient node and edge selection.

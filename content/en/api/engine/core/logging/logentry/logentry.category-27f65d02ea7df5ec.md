@@ -13,5 +13,3 @@ reviewed: f998c41e0135c5859df55e65661c75a8199bc64dad03427c56ce44df7a7e646f
 source: xml
 outdated: false
 ---
-
-Gets the category name for this entry.

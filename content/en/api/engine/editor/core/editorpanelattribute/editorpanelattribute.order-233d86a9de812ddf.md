@@ -13,5 +13,3 @@ reviewed: 38977dab7158032af73ae753c49d0faac245dd80302ecd9792fd729f311539f4
 source: xml
 outdated: false
 ---
-
-Gets the stable panel ordering value.

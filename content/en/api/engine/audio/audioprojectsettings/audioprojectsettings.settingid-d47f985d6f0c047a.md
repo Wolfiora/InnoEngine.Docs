@@ -13,5 +13,3 @@ reviewed: 05000ef168ff5104d9dd5ef8791e7277ccfd459ebb47d1a5f441659608210604
 source: xml
 outdated: false
 ---
-
-Gets the stable project-setting identity for audio runtime defaults.

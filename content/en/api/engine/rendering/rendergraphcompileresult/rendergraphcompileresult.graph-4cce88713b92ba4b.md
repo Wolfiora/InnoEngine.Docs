@@ -13,5 +13,3 @@ reviewed: d1380096cafb6e222c94fe99cbd076d9a2cff80dfc4a0d0b217f774715cea578
 source: xml
 outdated: false
 ---
-
-Gets the executable graph, or `null` when compilation failed.

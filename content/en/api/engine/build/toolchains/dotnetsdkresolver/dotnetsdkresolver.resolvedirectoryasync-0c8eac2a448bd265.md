@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the SDK from an authoring owner's directory before any temporary evaluation project is created.
-
 ## Parameters
 
 **Parameter `hostPath`:** The managed host explicitly selected by the composition root.

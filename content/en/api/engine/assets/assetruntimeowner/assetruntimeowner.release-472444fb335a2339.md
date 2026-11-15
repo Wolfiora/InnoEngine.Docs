@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases an owned instance after quiescence, without relinquishing its mutation authority.
-
 ## Parameters
 
 **Parameter `asset`:** The canonical instance or uncommitted candidate to retire.

@@ -13,5 +13,3 @@ reviewed: e039a8bdccb83c6d1bee47352c1faa511da7bb587252a3edc40a1bb32ea753ae
 source: xml
 outdated: false
 ---
-
-A complete immutable generation remains protected by selected products and active readers.

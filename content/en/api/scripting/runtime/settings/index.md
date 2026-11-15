@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides script-facing project settings queries through the current runtime execution context.
-
 ## Remarks
 
 This façade owns no settings state. Engine and Editor infrastructure should depend on an explicit `T:InnoEngine.Settings.IProjectSettingsLookup` instance.

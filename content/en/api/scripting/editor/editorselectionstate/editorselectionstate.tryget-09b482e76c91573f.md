@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the primary selected target as the requested type for immediate use.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The expected target type.

@@ -13,5 +13,3 @@ reviewed: d87c451eba4b630845b39bd216e30cd1a5c67cd9205c27b5dc36935978c8a094
 source: xml
 outdated: false
 ---
-
-Gets the default dependency scope of contributed assemblies.

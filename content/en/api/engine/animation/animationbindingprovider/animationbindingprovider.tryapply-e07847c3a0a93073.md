@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to apply a value to a destination resolved through Identity.
-
 ## Parameters
 
 **Parameter `target`:** The weak, generation-qualified destination.

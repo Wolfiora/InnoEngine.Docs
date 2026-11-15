@@ -13,5 +13,3 @@ reviewed: 13d851353d19efc5d3639d82417e3783b0fdccb6494af4cce2bfb41de711593a
 source: xml
 outdated: false
 ---
-
-Gets typed map enumeration, or null for a sequence.

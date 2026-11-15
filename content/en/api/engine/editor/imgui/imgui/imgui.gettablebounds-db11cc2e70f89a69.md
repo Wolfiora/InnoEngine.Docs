@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the table and current row bounds needed by row overlays.
-
 ## Returns
 
 The table's horizontal bounds and current row's vertical bounds.

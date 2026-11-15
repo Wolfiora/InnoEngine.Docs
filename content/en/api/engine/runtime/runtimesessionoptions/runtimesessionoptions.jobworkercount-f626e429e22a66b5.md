@@ -13,5 +13,3 @@ reviewed: 06c843bcf207e04c7199c7cb1958250f36fd14d64f62de739f29a5387292198b
 source: xml
 outdated: false
 ---
-
-Gets or initializes the worker count used by the work-stealing scheduler; zero selects the default.

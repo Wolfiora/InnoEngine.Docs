@@ -13,5 +13,3 @@ reviewed: 52f2e6605261f651f8a698c01e9e6a7ab2f2651ee052a16b1c722868a42a5548
 source: xml
 outdated: false
 ---
-
-Gets the runtime project settings document name.

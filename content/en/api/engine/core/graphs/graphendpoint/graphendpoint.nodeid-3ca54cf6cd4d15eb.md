@@ -13,5 +13,3 @@ reviewed: d0b273c55585a732e3980a985a7af9052bef16b2c720c6e64c3795ca7cc1e568
 source: xml
 outdated: false
 ---
-
-Gets the owning node identifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the exact material contract stored with a compiled program using the current owner reference context.
-
 ## Parameters
 
 **Parameter `artifact`:** One immutable program publication, including its native-serialized runtime definition.

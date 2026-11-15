@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Artifact production completed unsuccessfully and published a specific diagnostic.

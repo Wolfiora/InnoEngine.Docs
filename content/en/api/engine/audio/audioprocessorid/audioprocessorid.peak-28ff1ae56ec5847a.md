@@ -13,5 +13,3 @@ reviewed: 2eb2fdb50efb9260f823214ada18a0cfaed2b76c092af9af3ade0e0c4d70e09b
 source: xml
 outdated: false
 ---
-
-Gets the standard peak equalizer processor identifier.

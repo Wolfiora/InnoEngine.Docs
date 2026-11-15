@@ -13,5 +13,3 @@ reviewed: 5dbe6a9d88a352698b9f0d6207522feed4a7d1ad62f6822a277a85d8e5d02fd1
 source: xml
 outdated: false
 ---
-
-Gets a detached control-thread snapshot of resource occupancy, high-water marks and rejected admissions.

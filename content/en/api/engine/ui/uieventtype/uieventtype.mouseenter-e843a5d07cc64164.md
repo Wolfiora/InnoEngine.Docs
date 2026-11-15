@@ -13,5 +13,3 @@ reviewed: a16c4fc9d1797592f3f40f8018be6a1dd8829a4e6f268d737f9ff15159ec02ae
 source: xml
 outdated: false
 ---
-
-A pointer entered the target.

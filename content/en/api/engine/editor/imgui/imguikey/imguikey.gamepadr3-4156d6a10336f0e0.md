@@ -13,5 +13,3 @@ reviewed: 80229cdcc3a32e2020bb28323978761211815d4bf1fb568add1ae7eb3a752351
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadR3 presentation key or modifier.

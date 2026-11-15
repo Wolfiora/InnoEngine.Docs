@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a generation-scoped resolved material pass when no compiled-interface query is required.
-
 ## Parameters
 
 **Parameter `definition`:** The selected shader pass definition.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Measures a glyph using the current font without exposing its native font handle.
-
 ## Parameters
 
 **Parameter `fontSize`:** The positive baked font size.

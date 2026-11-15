@@ -13,5 +13,3 @@ reviewed: 6fa23f2ca6f7f262a0ff79cb265cacc961739fb8ddb4396d47d5aac4a0b722cb
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadFaceUp presentation key or modifier.

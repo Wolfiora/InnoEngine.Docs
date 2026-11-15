@@ -13,5 +13,3 @@ reviewed: a4671bd9f830f053c9e9de421ba0e032347e4b6bf8bf48f499dc35c1d52bf3b6
 source: xml
 outdated: false
 ---
-
-Gets or sets storage access.

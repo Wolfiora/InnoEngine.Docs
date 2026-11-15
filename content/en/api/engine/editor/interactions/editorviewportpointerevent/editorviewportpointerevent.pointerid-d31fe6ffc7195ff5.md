@@ -13,5 +13,3 @@ reviewed: 9a86798d2fa03afa42fe932fcc3feb78e8ab4461af5bff8ead3b0d9312d45282
 source: xml
 outdated: false
 ---
-
-Gets the platform pointer identity.

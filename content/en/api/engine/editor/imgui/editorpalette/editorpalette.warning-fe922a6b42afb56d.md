@@ -13,5 +13,3 @@ reviewed: 24850457b3545a4a037f348243ec26c221f5901e8f2b09017d851d0bc7194fa4
 source: xml
 outdated: false
 ---
-
-Gets the standard warning color.

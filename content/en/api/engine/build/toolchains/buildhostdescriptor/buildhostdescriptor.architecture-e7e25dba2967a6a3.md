@@ -13,5 +13,3 @@ reviewed: 4f334cbbae7ec4d563feeb5fd46a50d186a22f903f5f6b7a897fe94a59c72607
 source: xml
 outdated: false
 ---
-
-Gets the processor architecture on which tools execute.

@@ -13,5 +13,3 @@ reviewed: cfa960bee1e951b8ec259198d93ef2d4a5e8eb721659ddf13dc35c0a7898a4e4
 source: xml
 outdated: false
 ---
-
-Gets the monotonic index of the current or most recently completed output frame.

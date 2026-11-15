@@ -13,5 +13,3 @@ reviewed: 8bd09786aa62c1ba2ac8fb74a3e0f8f681c9ff0844d66ee6e97e9410ea396d2c
 source: xml
 outdated: false
 ---
-
-Gets an empty serialization context.

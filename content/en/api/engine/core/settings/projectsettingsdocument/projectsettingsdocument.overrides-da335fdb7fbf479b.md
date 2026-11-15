@@ -13,5 +13,3 @@ reviewed: 20a3cb2193e2d68c8a76723a38417be986d0b600eaf447d1b852b0bb70a04f48
 source: xml
 outdated: false
 ---
-
-Gets or sets project-authored protocol contributions.

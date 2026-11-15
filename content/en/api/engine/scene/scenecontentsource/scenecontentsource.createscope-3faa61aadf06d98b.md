@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the ordered roots and primary identity of one scene world.
-
 ## Parameters
 
 **Parameter `world`:** The owner whose current scene set should be visible.

@@ -13,5 +13,3 @@ reviewed: e4e5cc178640d7b913a589214b7a4fde24754586e450c38d455c34502119015e
 source: xml
 outdated: false
 ---
-
-Draw vertical borders between columns.

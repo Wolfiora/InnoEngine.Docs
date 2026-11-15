@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the host router's delivery policy for host and session sinks.
-
 ## Parameters
 
 **Parameter `deliveryMode`:** Background worker or inline producer-thread delivery.

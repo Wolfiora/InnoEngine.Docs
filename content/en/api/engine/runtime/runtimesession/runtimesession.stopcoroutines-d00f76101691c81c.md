@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops every coroutine owned by a runtime object before that object is retired by an atomic reload.
-
 ## Parameters
 
 **Parameter `owner`:** The exact owner identity supplied when its coroutines were started.

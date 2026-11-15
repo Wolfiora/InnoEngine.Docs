@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a standalone texture preview without blocking target compilation.
-
 ## Parameters
 
 **Parameter `texture`:** Texture asset to preview.

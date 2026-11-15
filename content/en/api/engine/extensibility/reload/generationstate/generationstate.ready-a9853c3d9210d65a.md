@@ -13,5 +13,3 @@ reviewed: f1fd82eb9a2ac9dfdd446776f861618a60e8c572e19a6aa51ba71b261c9eb0f4
 source: xml
 outdated: false
 ---
-
-No candidate or unverified retirement is pending.

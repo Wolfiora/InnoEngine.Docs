@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the transactional Undo and Redo history owned by this editor runtime.

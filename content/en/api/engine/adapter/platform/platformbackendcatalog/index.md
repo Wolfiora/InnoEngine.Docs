@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-platform
 aliases: []
 ---
-
-Resolves platform providers from one immutable, composition-owned registration snapshot.

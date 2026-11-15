@@ -13,5 +13,3 @@ reviewed: 115795176b76608d13924d4aa1feb6b69992e43c7ebdc6d54f8bd7861f0009b2
 source: xml
 outdated: false
 ---
-
-Gets or sets reload-safe feature settings.

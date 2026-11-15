@@ -13,5 +13,3 @@ reviewed: a4a9ab2f32b32f6225bb51da656a5917c8449d18fe91656bcb446e2abd02fdd2
 source: xml
 outdated: false
 ---
-
-Selects the allow when overlapped presentation behavior.

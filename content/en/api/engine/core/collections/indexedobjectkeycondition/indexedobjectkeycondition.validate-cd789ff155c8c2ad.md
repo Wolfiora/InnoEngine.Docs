@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the supplied input and rejects state that cannot satisfy this contract.
-
 ## Parameters
 
 **Parameter `store`:** The store consumed by validate; ownership remains with the caller unless explicitly stated otherwise.

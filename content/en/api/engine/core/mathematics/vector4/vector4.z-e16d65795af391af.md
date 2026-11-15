@@ -13,5 +13,3 @@ reviewed: 7aa0e5659f373f150425d7a66df0cab0db7a3984ae7bc9d7c3a46b8cff0b9fd8
 source: xml
 outdated: false
 ---
-
-The depth or third component.

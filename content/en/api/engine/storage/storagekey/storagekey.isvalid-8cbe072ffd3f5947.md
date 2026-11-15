@@ -13,5 +13,3 @@ reviewed: 8e3b1cd8562adb2f55afcf0d41ffd6ed5b628c3bc58bb44a2eade0d64192aae0
 source: xml
 outdated: false
 ---
-
-Gets whether this value contains a valid storage key.

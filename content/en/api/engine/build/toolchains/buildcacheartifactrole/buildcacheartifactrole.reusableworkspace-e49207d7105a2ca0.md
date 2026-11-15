@@ -13,5 +13,3 @@ reviewed: 4628f88fdc8630b6ad3fdcbc20a3ed99b88a5404e88088b65bcff71b45843245
 source: xml
 outdated: false
 ---
-
-A mutable compiler workspace may retire when no producer or consumer is active.

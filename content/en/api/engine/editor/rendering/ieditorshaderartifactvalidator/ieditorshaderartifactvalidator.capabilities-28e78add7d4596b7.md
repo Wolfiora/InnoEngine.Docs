@@ -13,5 +13,3 @@ reviewed: 3f9c22c2068a5a29e331c440b1a3b3976ce905798afe3b0d26e900c78b794f1c
 source: xml
 outdated: false
 ---
-
-Gets the capability snapshot used to compile candidates for this validator.

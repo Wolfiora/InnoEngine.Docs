@@ -13,5 +13,3 @@ reviewed: c4bdfcde8ef2996b9488dd0727c7d4f03940c4de4c554c936f945fd8caf70a79
 source: xml
 outdated: false
 ---
-
-Gets whether shader debug information is emitted.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Represents the complete current diagnostic state published by one source.

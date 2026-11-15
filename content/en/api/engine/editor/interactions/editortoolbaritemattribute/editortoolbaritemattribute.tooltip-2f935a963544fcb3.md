@@ -13,5 +13,3 @@ reviewed: 632c314cf642540ab5906a11aa2cad852bfd503490abd6f9d285cce23b6f7efb
 source: xml
 outdated: false
 ---
-
-Gets the fallback tooltip.

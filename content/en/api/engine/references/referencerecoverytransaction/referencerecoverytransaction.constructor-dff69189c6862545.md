@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures neutral slots and ordered domain owners without resolving or mutating live state.
-
 ## Parameters
 
 **Parameter `catalog`:** The candidate resolver set, consulted after provisional objects are registered.

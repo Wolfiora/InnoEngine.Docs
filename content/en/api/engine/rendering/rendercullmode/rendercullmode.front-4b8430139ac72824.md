@@ -13,5 +13,3 @@ reviewed: 686acdcbba2d1374381b0c6b1d007dda3ac59546e575b6b406c19fc8228d6a19
 source: xml
 outdated: false
 ---
-
-Culls front-facing triangles.

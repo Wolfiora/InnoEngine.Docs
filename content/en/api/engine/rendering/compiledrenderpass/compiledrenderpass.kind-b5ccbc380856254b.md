@@ -13,5 +13,3 @@ reviewed: 5b152581eaf5ceb0d50c3a0cbfb3ee928a8ac3f2052da0b02d22b5b79daa25f2
 source: xml
 outdated: false
 ---
-
-Gets the pass command domain.

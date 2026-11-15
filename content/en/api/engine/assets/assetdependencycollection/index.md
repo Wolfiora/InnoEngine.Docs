@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Collects direct asset dependencies encountered by a serialization operation.
-
 ## Remarks
 
 Add this instance to a `T:Inno.Core.Serialization.SerializationContext` when serializing an asset source that must publish dependency metadata.

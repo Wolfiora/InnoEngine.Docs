@@ -13,5 +13,3 @@ reviewed: c42e23cf10f7fd314370645b0255a1ff53a13eb60e605a33902c5f7f47983291
 source: xml
 outdated: false
 ---
-
-Gets or sets the local position relative to the parent.

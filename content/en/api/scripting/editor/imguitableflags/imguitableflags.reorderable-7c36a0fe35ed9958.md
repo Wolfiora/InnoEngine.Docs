@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enable reordering columns in header row (need calling TableSetupColumn() + TableHeadersRow() to display headers)

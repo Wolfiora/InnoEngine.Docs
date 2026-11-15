@@ -13,5 +13,3 @@ reviewed: a99eec6e81c288da9f31b45a03e355f50a2ab80573f632bb93c1833fcbcdc119
 source: xml
 outdated: false
 ---
-
-Gets the terminal playback reason.

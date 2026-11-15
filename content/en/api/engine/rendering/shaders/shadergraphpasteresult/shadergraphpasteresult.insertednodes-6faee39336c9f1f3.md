@@ -13,5 +13,3 @@ reviewed: caab33d647958647b2465398f4186cdeacac5dddd752f4bc63657670f436c2bf
 source: xml
 outdated: false
 ---
-
-Gets new identities suitable for selecting the pasted nodes.

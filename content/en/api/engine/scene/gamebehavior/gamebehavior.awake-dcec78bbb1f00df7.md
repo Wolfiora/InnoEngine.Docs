@@ -13,5 +13,3 @@ reviewed: 3a4d2e48888a04492bb4cb4b1de8496377b59135607dcc191817619c4e09fa72
 source: xml
 outdated: false
 ---
-
-Called once before this behavior first becomes active.

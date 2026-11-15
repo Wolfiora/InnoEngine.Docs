@@ -13,5 +13,3 @@ reviewed: 98a58cf0dbf3e02845d215cf57bac88e76881a79573f78f88f195e01ee6b6dfd
 source: xml
 outdated: false
 ---
-
-Gets subtle opacity for selection washes and low-emphasis overlays.

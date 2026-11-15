@@ -13,5 +13,3 @@ reviewed: c971e236dd8a102e78c6a112bc89caaac3a00adf980fdcb981b4f83df7cf7592
 source: xml
 outdated: false
 ---
-
-Gets the built-in default layer stored in slot zero.

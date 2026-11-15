@@ -13,5 +13,3 @@ reviewed: 83a1c25137ac5133755fd6f0a9ec45ad608f2c5f69ccd393dae4c51018f94fc0
 source: xml
 outdated: false
 ---
-
-Selects the docking empty bg presentation behavior.

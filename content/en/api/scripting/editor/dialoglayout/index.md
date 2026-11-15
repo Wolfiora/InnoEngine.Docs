@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Carries a measured dialog layout. Only its required extent is public; drawing mechanics remain owned by the widget.

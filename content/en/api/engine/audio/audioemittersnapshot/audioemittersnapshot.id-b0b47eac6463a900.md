@@ -13,5 +13,3 @@ reviewed: fe22dcff5fcb695e5d62623c296e51d71ed171ee62c03b3a3957ef53382bd30e
 source: xml
 outdated: false
 ---
-
-Gets the stable emitter identity.

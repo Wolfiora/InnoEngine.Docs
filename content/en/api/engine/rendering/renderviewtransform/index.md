@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Stores backend-ready column-major transform matrices for one programmable view.

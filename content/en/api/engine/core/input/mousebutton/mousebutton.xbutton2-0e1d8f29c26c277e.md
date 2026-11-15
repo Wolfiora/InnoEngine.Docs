@@ -13,5 +13,3 @@ reviewed: afcebd724c31f78931e4f96907f392d573d09b6a0abde0804d58f4e8176ae63e
 source: xml
 outdated: false
 ---
-
-The xbutton2 key.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes target content into the current operation's isolated staging directory.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed authoring generation and operation-owned content destination.

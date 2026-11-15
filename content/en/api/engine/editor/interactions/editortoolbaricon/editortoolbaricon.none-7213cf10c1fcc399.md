@@ -13,5 +13,3 @@ reviewed: 16057631e7db6e5dbc52f103f4a4033cdbab913d474537882e848f405ddf83d5
 source: xml
 outdated: false
 ---
-
-No symbol is requested.

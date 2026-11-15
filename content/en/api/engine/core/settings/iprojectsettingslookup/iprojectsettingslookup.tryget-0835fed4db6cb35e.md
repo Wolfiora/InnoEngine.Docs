@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get an isolated effective setting from the active extension generation.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** The required setting contract.

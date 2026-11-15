@@ -13,5 +13,3 @@ reviewed: 47ea75ebd64d9fa0772171da80c0d250e549979bf3ce90d242742c3b95f06603
 source: xml
 outdated: false
 ---
-
-Gets the kind of document interaction.

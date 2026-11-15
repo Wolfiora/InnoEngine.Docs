@@ -55,9 +55,12 @@ class InnoSidebar extends HTMLElement {
     if (!matchMedia('(min-width: 50rem)').matches) { html.style.removeProperty('--inno-sidebar-width'); return; }
     const pane = this.closest<HTMLElement>('.sidebar-pane');
     if (!pane) return;
+    // The stable inner layout must fit the scrollport, not extend underneath its scrollbar.
+    html.style.setProperty('--inno-sidebar-gutter', `${pane.offsetWidth - pane.clientWidth}px`);
     const paneStyle = getComputedStyle(pane.querySelector('.sidebar-content')!);
     const inset = parseFloat(paneStyle.paddingLeft) + parseFloat(paneStyle.paddingRight);
     const rem = parseFloat(getComputedStyle(html).fontSize);
+    const rowInset = parseFloat(getComputedStyle(this.querySelector('.nav-row')!).marginInlineStart);
     let width = 18 * rem;
     for (const label of this.querySelectorAll<HTMLElement>('.nav-label')) {
       if (label.closest('.children:not([data-open="true"])')) continue;
@@ -72,7 +75,7 @@ class InnoSidebar extends HTMLElement {
       const spacing = parseFloat(style.letterSpacing) || 0;
       const text = label.textContent ?? '';
       width = Math.max(width, this.measure.measureText(text).width + Math.max(0, text.length - 1) * spacing
-        + depth * (.85 * rem + 1) + 2.5 * rem + inset + 24);
+        + depth * (.85 * rem + 1) + rowInset + 2.5 * rem + inset + 24);
     }
     html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth / 2))}px`);
   }

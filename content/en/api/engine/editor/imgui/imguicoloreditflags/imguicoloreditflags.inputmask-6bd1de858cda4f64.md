@@ -13,5 +13,3 @@ reviewed: 3ca1edbb7068b91a3968d003dfa8c796a5836aa61f8b87ee077d587a9ce9266b
 source: xml
 outdated: false
 ---
-
-Selects the input mask presentation behavior.

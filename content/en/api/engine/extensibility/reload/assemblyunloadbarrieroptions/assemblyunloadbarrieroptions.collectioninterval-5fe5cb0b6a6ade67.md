@@ -13,5 +13,3 @@ reviewed: 9497e3dc6502ec2ad42ed0f7da43df59c5094a5adc65c861a06974f3a6e21fa0
 source: xml
 outdated: false
 ---
-
-Gets the minimum interval between full collection attempts.

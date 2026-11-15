@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable reference kind identifier.
-
 ## Parameters
 
 **Parameter `value`:** The non-empty protocol identifier.

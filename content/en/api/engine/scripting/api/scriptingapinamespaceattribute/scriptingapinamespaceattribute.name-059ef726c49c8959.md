@@ -13,5 +13,3 @@ reviewed: 36ee4228b7032a74cdcf0d21a0e50a6c9f28dc8ba721ce73e923eefa55b8856a
 source: xml
 outdated: false
 ---
-
-Gets the stable script API namespace.

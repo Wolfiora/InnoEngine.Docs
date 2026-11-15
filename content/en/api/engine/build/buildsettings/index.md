@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Defines project-owned defaults copied into each temporary game or Plugin export request.

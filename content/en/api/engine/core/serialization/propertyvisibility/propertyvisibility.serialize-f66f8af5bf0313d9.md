@@ -13,5 +13,3 @@ reviewed: 908a4f07bff5cd5f9e8cb2a5d0a3ba7d9eb04c45e62b4839d7d8c8b8e53512c1
 source: xml
 outdated: false
 ---
-
-Participates in serialization output.

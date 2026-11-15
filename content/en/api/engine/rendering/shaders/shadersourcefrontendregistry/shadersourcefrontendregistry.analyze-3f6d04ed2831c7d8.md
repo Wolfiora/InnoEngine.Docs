@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes source while preventing provider retirement for the complete synchronous operation.
-
 ## Parameters
 
 **Parameter `languageId`:** The exact registered language identity.

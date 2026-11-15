@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Defines the read-only asset lookup boundary shared by authoring and deployed runtime databases.

@@ -13,5 +13,3 @@ reviewed: c1bbdb39022d7c64a7693bb5abc1f2647bda5c09fe0f28d080ce3130bb2bd69f
 source: xml
 outdated: false
 ---
-
-Gets whether a document currently exists; callers must still handle absence during a later read.

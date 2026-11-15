@@ -13,5 +13,3 @@ reviewed: a2acfb084dc02571612f238a721cd9e11ccc0739f6ee0cee9878882a5c1f68f9
 source: xml
 outdated: false
 ---
-
-Discards the candidate and restores the previous generation after provisional activation.

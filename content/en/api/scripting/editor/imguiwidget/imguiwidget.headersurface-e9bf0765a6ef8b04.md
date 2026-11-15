@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a square-cornered editor header surface using the shared target-header palette, border, and padding.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the header region.

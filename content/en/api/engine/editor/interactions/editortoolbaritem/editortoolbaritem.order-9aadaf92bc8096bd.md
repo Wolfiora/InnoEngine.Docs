@@ -13,5 +13,3 @@ reviewed: b5a0c441f38b0d06ee56466b882cc46e2cba9aece67695a3854aa2239c37943d
 source: xml
 outdated: false
 ---
-
-Gets the stable ordering value.

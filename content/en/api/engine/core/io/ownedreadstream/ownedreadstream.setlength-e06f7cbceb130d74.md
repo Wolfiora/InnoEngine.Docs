@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, sets the length of the current stream.
-
 ## Parameters
 
 **Parameter `value`:** The desired length of the current stream in bytes.

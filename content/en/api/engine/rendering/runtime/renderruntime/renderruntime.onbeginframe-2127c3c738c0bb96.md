@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures snapshots and binds service façades.
-
 ## Parameters
 
 **Parameter `frame`:** The variable frame timing.

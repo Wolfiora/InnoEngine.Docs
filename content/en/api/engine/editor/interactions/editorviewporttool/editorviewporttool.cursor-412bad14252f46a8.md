@@ -13,5 +13,3 @@ reviewed: 79080dfaece0d21ceba3946bec0f7479cf4b37dc4587a62b616fdaa1b0d4374a
 source: xml
 outdated: false
 ---
-
-Gets the cursor requested while this tool is active.

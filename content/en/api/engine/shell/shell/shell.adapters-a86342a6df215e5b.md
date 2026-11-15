@@ -13,5 +13,3 @@ reviewed: 3d39becfbb1901bfa411c75a177ded17613b6d3bf5ed62fe36aa3ebfbec29ab4
 source: xml
 outdated: false
 ---
-
-Gets the implementation-neutral adapter catalog used by this product host.

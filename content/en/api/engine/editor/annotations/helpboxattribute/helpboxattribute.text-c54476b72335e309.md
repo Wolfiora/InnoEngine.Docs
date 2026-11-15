@@ -13,5 +13,3 @@ reviewed: a46e9122c2f4c607956b417722a9342ffc092eaa82c936036bddeca44cb8f92e
 source: xml
 outdated: false
 ---
-
-Gets the message text.

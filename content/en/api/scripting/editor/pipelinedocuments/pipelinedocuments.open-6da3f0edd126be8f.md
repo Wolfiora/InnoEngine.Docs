@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens a native Pipeline source in the shared document service, including failed imports.
-
 ## Parameters
 
 **Parameter `path`:** Mounted source path.

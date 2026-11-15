@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats this slot identity for diagnostics.
-
 ## Returns
 
 The owner identity followed by the stable slot path.

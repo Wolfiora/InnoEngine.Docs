@@ -13,5 +13,3 @@ reviewed: 2f59415797a1c90eac1bdd9e2e711bbf20e451e9d243c90ef51e15f949b6f8ca
 source: xml
 outdated: false
 ---
-
-Gets the vertical scroll movement.

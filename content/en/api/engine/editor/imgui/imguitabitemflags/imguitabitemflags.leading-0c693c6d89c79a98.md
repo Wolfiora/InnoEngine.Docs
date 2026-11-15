@@ -13,5 +13,3 @@ reviewed: 3838446aa224419cca28183ec2e158e16d50f711600ee647250decf877d95905
 source: xml
 outdated: false
 ---
-
-Enforce the tab position to the left of the tab bar (after the tab list popup button)

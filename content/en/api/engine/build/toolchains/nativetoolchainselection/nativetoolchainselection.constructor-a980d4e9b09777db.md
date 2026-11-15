@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an immutable, explicit compiler and SDK selection supplied by a platform provider.
-
 ## Parameters
 
 **Parameter `targetId`:** The exact native target identity.

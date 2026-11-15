@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Revokes submission and releases collected references without disposing the borrowed content scope.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Disposal occurs off the owning control thread.

@@ -13,5 +13,3 @@ reviewed: 40bfb83ecd84bb31aae75f50795cc720a97346272a1ba1acc37f4f83136948e5
 source: xml
 outdated: false
 ---
-
-Gets every logical module staged by this atomic reload transaction.

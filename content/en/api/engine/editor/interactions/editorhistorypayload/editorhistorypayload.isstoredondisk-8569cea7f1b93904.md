@@ -13,5 +13,3 @@ reviewed: 8c0ed3e89733880bcd4e3821d5653110c1d27901ed7d426ebdb6f0d83c54b87c
 source: xml
 outdated: false
 ---
-
-Gets whether the payload is retained in the temporary disk store instead of resident memory.

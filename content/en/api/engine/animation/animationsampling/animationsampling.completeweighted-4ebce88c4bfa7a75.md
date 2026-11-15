@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Normalizes a weighted sum, including quaternion normalization.
-
 ## Parameters
 
 **Parameter `sum`:** The accumulated sum.

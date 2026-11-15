@@ -13,5 +13,3 @@ reviewed: 3fb41120095cb1f30b7709ea8677e61d79a0c60c6c31352f885cc131a4ca1240
 source: xml
 outdated: false
 ---
-
-Gets compact control hover color.

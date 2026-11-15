@@ -13,5 +13,3 @@ reviewed: 6b0577038289582d7eaf3e9b32b986f15e89cc2569d336ffb18020bb547cea25
 source: xml
 outdated: false
 ---
-
-Gets the adapter implementation identity.

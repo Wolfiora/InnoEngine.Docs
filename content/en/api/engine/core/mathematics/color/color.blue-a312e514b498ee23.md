@@ -13,5 +13,3 @@ reviewed: 279169f430a0866c6b8198d51d87b52cdb63d70a8066da9ed894de5e97ecc37b
 source: xml
 outdated: false
 ---
-
-The blue value used as part of this type's public representation.

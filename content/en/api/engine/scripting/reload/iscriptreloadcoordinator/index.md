@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-reload
 aliases: []
 ---
-
-Coordinates host-owned state with an atomic script assembly generation transition.

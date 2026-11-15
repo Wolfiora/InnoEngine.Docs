@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic message associated with a failed transition, or an empty string after success.

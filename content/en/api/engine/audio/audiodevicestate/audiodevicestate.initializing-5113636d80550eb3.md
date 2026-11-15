@@ -13,5 +13,3 @@ reviewed: 669a15e502566420559fe1d8d88e060419558ada63f75ca3a3dfe345b62ad0af
 source: xml
 outdated: false
 ---
-
-The device has not completed initialization.

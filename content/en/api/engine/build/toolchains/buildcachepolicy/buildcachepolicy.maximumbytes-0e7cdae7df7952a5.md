@@ -13,5 +13,3 @@ reviewed: 436ceafa91521ff65687df3968c3455e62e33f10d16c8fbf8801893ee5f9106b
 source: xml
 outdated: false
 ---
-
-Gets the maximum size of explicitly registered build caches.

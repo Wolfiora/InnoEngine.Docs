@@ -13,5 +13,3 @@ reviewed: 3ca7c57e16adb9d2ba4ec161c6fc5b035c718a9170bdc1bda54102c952356aae
 source: xml
 outdated: false
 ---
-
-Unsigned 16-bit indices.

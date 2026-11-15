@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces node selection.
-
 ## Parameters
 
 **Parameter `nodes`:** Complete selected-node set.

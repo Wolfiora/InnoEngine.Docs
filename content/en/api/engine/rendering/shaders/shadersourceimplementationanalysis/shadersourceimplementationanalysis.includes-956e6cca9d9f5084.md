@@ -13,5 +13,3 @@ reviewed: 3f76edc3ad1600d69223ca7b08aa0d525861d3a5146cf49912bdd0f87e71cc53
 source: xml
 outdated: false
 ---
-
-Gets the original resolver's frozen include edges, including aliases and mounted source paths.

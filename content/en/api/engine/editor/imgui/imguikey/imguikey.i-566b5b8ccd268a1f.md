@@ -13,5 +13,3 @@ reviewed: 8360d3625fc0f08b345018bc4cdebe5de90105aab28833cb6618f5f3fd6bb9ee
 source: xml
 outdated: false
 ---
-
-Identifies the I presentation key or modifier.

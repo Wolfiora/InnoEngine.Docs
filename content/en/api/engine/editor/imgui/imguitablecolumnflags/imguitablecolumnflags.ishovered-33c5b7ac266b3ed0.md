@@ -13,5 +13,3 @@ reviewed: 20a5e8b5993720a08aa6be913b2705744ea05904051f6eabd1e512e39ed129e1
 source: xml
 outdated: false
 ---
-
-Status: is hovered by mouse

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reload host for one compiler and runtime module owner.
-
 ## Parameters
 
 **Parameter `options`:** The automatic compilation, debounce, and long-running warning policy.

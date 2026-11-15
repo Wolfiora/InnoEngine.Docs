@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Show an outer border and enable WindowPadding. (IMPORTANT: this is always == 1 == true for legacy reason)

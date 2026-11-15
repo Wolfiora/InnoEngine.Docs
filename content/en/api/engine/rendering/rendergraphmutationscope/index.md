@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Owns isolated graph additions; earlier pass declarations are frozen and failure removes every addition.

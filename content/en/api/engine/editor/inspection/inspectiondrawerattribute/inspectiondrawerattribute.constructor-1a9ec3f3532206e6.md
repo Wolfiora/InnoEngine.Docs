@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an inspector drawer registration.
-
 ## Parameters
 
 **Parameter `targetType`:** The selected object type handled by the drawer.

@@ -13,5 +13,3 @@ reviewed: a42874597ab939d13c3e9c0ab95b08a7595578a42693b623fe6563a6fdf9d07d
 source: xml
 outdated: false
 ---
-
-Gets directly declared attribute instances owned by this generation.

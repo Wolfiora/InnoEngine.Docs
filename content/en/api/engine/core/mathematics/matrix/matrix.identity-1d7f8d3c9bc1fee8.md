@@ -13,5 +13,3 @@ reviewed: 858e5dbacd9760ce405be86f8fb765a5b4b107926263d00aa1a2029ba1530cd9
 source: xml
 outdated: false
 ---
-
-Gets the identity matrix.

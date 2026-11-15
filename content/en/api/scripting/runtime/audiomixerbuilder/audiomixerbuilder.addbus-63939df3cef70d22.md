@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds one semantic bus to the graph.
-
 ## Parameters
 
 **Parameter `id`:** Stable bus identifier.

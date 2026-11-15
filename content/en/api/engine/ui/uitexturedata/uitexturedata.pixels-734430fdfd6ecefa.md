@@ -13,5 +13,3 @@ reviewed: 412c3b36fbac5e51ff05cd4e449631b5ccb22abf4df09a42ce35a50b11213f3e
 source: xml
 outdated: false
 ---
-
-Gets the immutable RGBA8 pixels.

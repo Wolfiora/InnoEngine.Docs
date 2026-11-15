@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the supplied values are equal under the type's equality tolerance.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

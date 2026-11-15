@@ -13,5 +13,3 @@ reviewed: aa1f21144fa8dc7f8f9eb774c962576a31141da334ebc4e15c6a6abda7c9cb09
 source: xml
 outdated: false
 ---
-
-Allows at most one item for each key value.

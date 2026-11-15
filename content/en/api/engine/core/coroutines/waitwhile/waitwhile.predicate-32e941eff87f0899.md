@@ -13,5 +13,3 @@ reviewed: 6f3bbc60ac267569199622842529c15f5f2c44aee68a991ed4f9015fa91c8e43
 source: xml
 outdated: false
 ---
-
-Gets the predicate evaluated each tick.

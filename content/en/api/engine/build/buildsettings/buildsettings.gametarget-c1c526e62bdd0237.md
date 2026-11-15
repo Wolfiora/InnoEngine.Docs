@@ -13,5 +13,3 @@ reviewed: fb0fa945b06f5595efa6aaa4cf79208d4a497265ee1d25521c5b0bd232386a99
 source: xml
 outdated: false
 ---
-
-Gets or sets the default game build target.

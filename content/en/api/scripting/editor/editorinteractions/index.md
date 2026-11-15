@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Provides the single presentation-independent entry point for editor actions, menus, selection, focus, and drag-and-drop.

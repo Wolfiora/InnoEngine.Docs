@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests.
-
 ## Parameters
 
 **Parameter `buffer`:** The buffer to write the data into.

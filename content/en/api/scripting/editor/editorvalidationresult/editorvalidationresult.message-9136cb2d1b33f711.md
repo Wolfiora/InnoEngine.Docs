@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The user-facing validation diagnostic, or an empty string for a valid result.

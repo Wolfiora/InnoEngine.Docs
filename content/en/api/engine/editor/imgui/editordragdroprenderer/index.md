@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Bridges managed editor drag sessions to the native ImGui payload API.

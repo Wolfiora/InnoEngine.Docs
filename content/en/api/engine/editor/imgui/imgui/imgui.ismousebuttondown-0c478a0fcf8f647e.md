@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a mouse button is held in the current Editor UI frame, including input consumed by UI controls.
-
 ## Parameters
 
 **Parameter `button`:** The UI mouse button to query.

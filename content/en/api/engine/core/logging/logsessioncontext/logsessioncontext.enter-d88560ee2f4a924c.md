@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enters a nested execution scope whose emitted logs belong to the supplied runtime session.
-
 ## Parameters
 
 **Parameter `sessionId`:** The non-empty identifier of the runtime session receiving execution.

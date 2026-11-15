@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes an object from this session and notifies every unregistration observer.
-
 ## Parameters
 
 **Parameter `obj`:** The identity object to remove.

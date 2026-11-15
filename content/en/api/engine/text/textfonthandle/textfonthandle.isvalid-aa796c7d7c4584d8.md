@@ -13,5 +13,3 @@ reviewed: 01c2cfcc6ad94ed9a34d94e1c6a8b9cd50b3bf1103062c88a2451af1ae794be2
 source: xml
 outdated: false
 ---
-
-Gets whether this handle identifies a loaded face.

@@ -13,5 +13,3 @@ reviewed: 93e595abc79a3e621500cc32af5e48e6061c7522c961239f99f10510f378768a
 source: xml
 outdated: false
 ---
-
-Called during the fixed-rate update stage. Use `Time.fixedDeltaTime` for step timing.

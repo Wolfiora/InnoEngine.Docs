@@ -13,5 +13,3 @@ reviewed: ad30004ea3fb381b96f9f0a35b8ee124953ce1d22ff13d529c6cc32f9fdd9701
 source: xml
 outdated: false
 ---
-
-Gets the local maximum corner.

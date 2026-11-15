@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads the current interface snapshot stored on a graph-node reference.
-
 ## Parameters
 
 **Parameter `node`:** Graph-node reference.

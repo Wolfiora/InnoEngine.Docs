@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Resolves domain targets under the same generation lease as their graph expansion.

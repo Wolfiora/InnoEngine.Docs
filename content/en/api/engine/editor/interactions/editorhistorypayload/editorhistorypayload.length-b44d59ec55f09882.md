@@ -13,5 +13,3 @@ reviewed: 0a78f0db1998457f2df163f85b8ea3d2a752efbc70244a50110869e483fee4bf
 source: xml
 outdated: false
 ---
-
-Gets the number of immutable bytes represented by this payload.

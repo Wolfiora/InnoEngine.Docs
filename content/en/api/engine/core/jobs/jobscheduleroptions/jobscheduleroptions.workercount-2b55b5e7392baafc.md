@@ -13,5 +13,3 @@ reviewed: b995c3b012aaa5b66f5833478da6332b5f6aafffdd4086a91a2cb942e5864817
 source: xml
 outdated: false
 ---
-
-Gets the worker-pool thread count, clamped to 1 through 64 for positive values. Zero selects `max(1, Environment.ProcessorCount - 1)`, also capped at 64. Single-thread execution does not create workers or consume this setting.

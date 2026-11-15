@@ -13,5 +13,3 @@ reviewed: fb7055a2eb13777c7e9d8e4230b2a95993ef05a6f492c5e1787562d1f6083b21
 source: xml
 outdated: false
 ---
-
-Gets neutral canonical reference outcomes after activation, or an empty set before activation or after rollback.

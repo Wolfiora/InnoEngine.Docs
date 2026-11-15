@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Defines how one shader property enters the backend-neutral resource interface.

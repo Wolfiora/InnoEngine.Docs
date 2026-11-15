@@ -13,5 +13,3 @@ reviewed: 72c395b89cea129c6f2c9a325d2e664f57d3060b6a356d06ca5809a70d9d141e
 source: xml
 outdated: false
 ---
-
-Restores old values and lifecycle after the previous publication has been restored.

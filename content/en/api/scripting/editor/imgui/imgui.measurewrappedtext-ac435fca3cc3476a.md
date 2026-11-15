@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Measures literal text using the same current font and wrap width as wrapped drawing.
-
 ## Parameters
 
 **Parameter `text`:** The literal text, including explicit line breaks.

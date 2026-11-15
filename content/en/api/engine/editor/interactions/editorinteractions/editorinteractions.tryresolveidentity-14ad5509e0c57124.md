@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a persistent identity through one explicitly selected Editor identity domain.
-
 ## Parameters
 
 **Parameter `domainId`:** Identity domain that owns the object and any replacement generation.

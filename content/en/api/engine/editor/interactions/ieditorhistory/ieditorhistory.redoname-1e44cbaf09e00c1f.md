@@ -13,5 +13,3 @@ reviewed: e0dd1577920a494240601be08f79a6fb8d8f1aedfc38df23741ef5588975843a
 source: xml
 outdated: false
 ---
-
-Gets the next Redo operation name, or `null`.

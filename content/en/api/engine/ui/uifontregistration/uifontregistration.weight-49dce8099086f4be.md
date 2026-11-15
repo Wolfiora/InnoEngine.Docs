@@ -13,5 +13,3 @@ reviewed: acc52a584570c4afe35dc6ec1a0049aceb6a156a40bb186b014ff9ce14f83fb1
 source: xml
 outdated: false
 ---
-
-Gets the logical weight.

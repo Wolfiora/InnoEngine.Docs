@@ -18,5 +18,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Contains immutable text in one explicitly selected UI document language.

@@ -13,5 +13,3 @@ reviewed: 05bc240082ae92d7e2939ab15890296152411b91a7d35897974df103783dad95
 source: xml
 outdated: false
 ---
-
-Gets the aggregate line height.

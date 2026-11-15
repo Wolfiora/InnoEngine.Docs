@@ -13,5 +13,3 @@ reviewed: f54545e3003e17a7ece7cd218c686cbf978daad9bd81aa7bfedc8e78200321a8
 source: xml
 outdated: false
 ---
-
-The device generation that owns the resource.

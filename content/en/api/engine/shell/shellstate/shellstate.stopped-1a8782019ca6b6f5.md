@@ -13,5 +13,3 @@ reviewed: fd6538096a989c71dc3058708a8431eb9e695e566a3147868d4886062c68b096
 source: xml
 outdated: false
 ---
-
-The run ended or was canceled and the stopping callback completed.

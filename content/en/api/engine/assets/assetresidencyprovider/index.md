@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Provides controlled lease construction to concrete asset residency implementations.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Schedules one clip against the monotonic audio clock.
-
 ## Parameters
 
 **Parameter `clip`:** Imported clip to prepare and play.

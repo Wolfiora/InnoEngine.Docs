@@ -13,5 +13,3 @@ reviewed: 2fa13ea0504b11d5437465ce47ff6de82ee11dc7c2e3c20fd352eee46f397be5
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable Plugin identifier.

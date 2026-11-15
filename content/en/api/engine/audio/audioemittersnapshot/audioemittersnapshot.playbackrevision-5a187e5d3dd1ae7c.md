@@ -13,5 +13,3 @@ reviewed: 95e2e7dfc8e1d03e55a586b883a7debf45ed82698f5f5cf266fd45c97a43963d
 source: xml
 outdated: false
 ---
-
-Gets the source-owned revision that distinguishes explicit replay requests.

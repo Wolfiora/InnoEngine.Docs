@@ -13,5 +13,3 @@ reviewed: c6b4a97db02696631bd70264160957266fd6bc92e78b34c6825ea7fc98351887
 source: xml
 outdated: false
 ---
-
-No visual is drawn.

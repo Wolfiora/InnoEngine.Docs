@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins one closeable tab item.
-
 ## Parameters
 
 **Parameter `label`:** The tab label and identity.

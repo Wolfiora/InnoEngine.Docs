@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the inclusive editing minimum; existing values are not changed by presentation metadata.

@@ -13,5 +13,3 @@ reviewed: d042ef961f800ecc9ccd90171de7cb7875ada199d41e5703fb3b7dcc4f516627
 source: xml
 outdated: false
 ---
-
-Gets nodes in draw order; reverse order determines overlapping-node hit priority.

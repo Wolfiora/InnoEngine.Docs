@@ -13,5 +13,3 @@ reviewed: 6a0c8870bd0d159fe9baa439e5ada1aa56fe12229b72b76f2f2c9a2ce4ac7ca4
 source: xml
 outdated: false
 ---
-
-Gets requests still awaiting owner-thread completion, including canceled callers not yet drained.

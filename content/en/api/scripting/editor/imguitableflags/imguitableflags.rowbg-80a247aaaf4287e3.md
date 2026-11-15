@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Set each RowBg color with ImGuiCol\_TableRowBg or ImGuiCol\_TableRowBgAlt (equivalent of calling TableSetBgColor with ImGuiTableBgFlags\_RowBg0 on each row manually)

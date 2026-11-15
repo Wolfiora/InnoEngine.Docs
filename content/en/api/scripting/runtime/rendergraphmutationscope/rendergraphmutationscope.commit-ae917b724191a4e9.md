@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes additions in the current scope. Dispose must still end the scope before new work.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The scope is not current, was already committed, or the graph additions are invalid.

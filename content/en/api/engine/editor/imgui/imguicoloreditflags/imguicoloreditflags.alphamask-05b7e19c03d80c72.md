@@ -13,5 +13,3 @@ reviewed: fc04400e7cbde15dc379f1e6964122f35dd30d7558d21ca7ec722044513aa5ca
 source: xml
 outdated: false
 ---
-
-Selects the alpha mask presentation behavior.

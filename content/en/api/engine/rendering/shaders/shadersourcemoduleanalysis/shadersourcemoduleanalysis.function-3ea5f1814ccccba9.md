@@ -13,5 +13,3 @@ reviewed: 8db356278aeb2e961d346ad941cd6b8141d463b44ba0708d923a73839c35145d
 source: xml
 outdated: false
 ---
-
-Gets the common interface only when all supplied implementations agree and are valid.

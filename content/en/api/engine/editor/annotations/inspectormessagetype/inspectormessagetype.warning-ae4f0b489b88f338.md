@@ -13,5 +13,3 @@ reviewed: 5f37791ac10aa68f16f9205e584f1c355694dd541430dd4998978e480097373f
 source: xml
 outdated: false
 ---
-
-A non-blocking configuration warning.

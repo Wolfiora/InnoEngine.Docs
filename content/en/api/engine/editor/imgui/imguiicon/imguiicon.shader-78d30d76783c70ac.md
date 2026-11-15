@@ -13,5 +13,3 @@ reviewed: 13b42ad54dc59e3d44891a0320c6885bc854a99366fe689617ec6b86262debf4
 source: xml
 outdated: false
 ---
-
-Gets the shader glyph used by standard Editor controls.

@@ -13,5 +13,3 @@ reviewed: 625ca72ff735eb3987f25c7fb4780575c6e0cd3e8c1c1996991a3bb7e4372fea
 source: xml
 outdated: false
 ---
-
-Gets the preserved owner and target state.

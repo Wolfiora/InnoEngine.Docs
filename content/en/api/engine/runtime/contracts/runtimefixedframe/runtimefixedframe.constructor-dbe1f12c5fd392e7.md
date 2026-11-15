@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one deterministic fixed-step timing value.
-
 ## Parameters
 
 **Parameter `stepIndex`:** The monotonically increasing fixed-step index.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a formatted storage image; target capabilities must separately support its access and format.
-
 ## Parameters
 
 **Parameter `format`:** Linear, non-depth image format supported by the rendering contract.

@@ -13,5 +13,3 @@ reviewed: 87bef228ccc75c6800dccb76a7e1d07d7221a08ec48783cd6843ffba74ed0c9f
 source: xml
 outdated: false
 ---
-
-Gets the scale bias added to asset grid icons.

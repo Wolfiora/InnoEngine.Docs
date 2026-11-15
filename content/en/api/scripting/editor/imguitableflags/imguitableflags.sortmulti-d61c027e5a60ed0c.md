@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Hold shift when clicking headers to sort on multiple column. TableGetSortSpecs() may return specs where (SpecsCount \> 1).

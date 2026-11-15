@@ -13,5 +13,3 @@ reviewed: 930c878a208c9c5f63382ae0683f597ae209e627b3d8355b795139c4bdd1b3d0
 source: xml
 outdated: false
 ---
-
-Gets card disclosure hover background.

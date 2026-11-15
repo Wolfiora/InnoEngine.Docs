@@ -13,5 +13,3 @@ reviewed: 386a777d4673e423838ef857e3c8abf431cc18d1633d874873a022e8199ec142
 source: xml
 outdated: false
 ---
-
-Underlying file-system change type.

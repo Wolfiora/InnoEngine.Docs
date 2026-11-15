@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this model accepts the session's content.
-
 ## Parameters
 
 **Parameter `session`:** Host output session.

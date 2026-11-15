@@ -13,5 +13,3 @@ reviewed: 21d36bbbae1188a2e06e30713827008069b6cb35b7268d2533769dcf25c26c86
 source: xml
 outdated: false
 ---
-
-Gets whether a custom background is drawn behind an unselected row.

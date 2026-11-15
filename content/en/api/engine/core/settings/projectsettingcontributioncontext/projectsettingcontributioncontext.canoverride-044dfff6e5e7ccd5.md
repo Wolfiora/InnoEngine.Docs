@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether this contribution may explicitly replace data owned by another contributor.
-
 ## Parameters
 
 **Parameter `ownerId`:** The stable owner whose data would be replaced.

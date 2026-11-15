@@ -13,5 +13,3 @@ reviewed: 8f5327bf7534c197953604b959489d4fa57407b1e4e1fb9789b56a3b5c8468c7
 source: xml
 outdated: false
 ---
-
-Gets the compact padding used by the search field at the top of editor context menus. Its vertical padding matches the half-spacing that menu entries add above and below a line.

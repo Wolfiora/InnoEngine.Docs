@@ -13,5 +13,3 @@ reviewed: 2d8a3f4095e716dc56d11f1ca90213b3c9d8986f5fb69c30422effc72202aab2
 source: xml
 outdated: false
 ---
-
-Gets the viewport's screen-space minimum.

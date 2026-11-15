@@ -13,5 +13,3 @@ reviewed: 40ebc7907d16b80625df352bb79e9ba60e1ac8bcb7d2894cb3b2107173fae5b4
 source: xml
 outdated: false
 ---
-
-Gets the persistent index buffer.

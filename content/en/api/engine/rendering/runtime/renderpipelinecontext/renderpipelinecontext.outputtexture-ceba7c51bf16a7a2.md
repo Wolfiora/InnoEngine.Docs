@@ -13,5 +13,3 @@ reviewed: b60c7dfb047e5627df69f59d45049066ec06bedc287848c13463041e5f947b86
 source: xml
 outdated: false
 ---
-
-Gets the imported offscreen target, or an invalid handle for the backbuffer.

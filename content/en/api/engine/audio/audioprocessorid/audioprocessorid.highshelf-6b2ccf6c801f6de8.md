@@ -13,5 +13,3 @@ reviewed: d7b864321e3df67bc13f577fd0d2e2642ccbac108abb3d766b1d02143c3533fb
 source: xml
 outdated: false
 ---
-
-Gets the standard high-shelf equalizer processor identifier.

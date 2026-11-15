@@ -13,5 +13,3 @@ reviewed: d44ca9383a3f9cc7350a4ce2f8aede9499da339c782c62e8d456bda4df2bd127
 source: xml
 outdated: false
 ---
-
-Gets all input bindings.

@@ -13,5 +13,3 @@ reviewed: b3dff151942b6d5fa2b9351c31650b89adecaf1c3cfd8617e624c1b8821f462b
 source: xml
 outdated: false
 ---
-
-The ui clip rectangle value used to initialize this instance.

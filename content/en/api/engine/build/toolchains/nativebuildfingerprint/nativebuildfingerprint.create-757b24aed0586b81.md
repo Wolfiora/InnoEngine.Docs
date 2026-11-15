@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Hashes a complete declared input closure independently of checkout location and file timestamps.
-
 ## Parameters
 
 **Parameter `declarations`:** Ordered target, configuration, SDK, compiler and linker arguments. Order is significant.

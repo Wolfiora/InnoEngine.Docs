@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a storage feature over a newly allocated application sandbox.
-
 ## Parameters
 
 **Parameter `context`:** The isolated session context passed to the storage factory.

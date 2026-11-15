@@ -13,5 +13,3 @@ reviewed: 6a991e9391b969e40e38513fbdea7b5b366b2fb87bd0824fe1ecb25788e5b904
 source: xml
 outdated: false
 ---
-
-Gets the declared file bytes of successfully retired artifacts, excluding persistent leases. This is a logical size; hardlinks, compression and other writers can affect actual volume recovery.

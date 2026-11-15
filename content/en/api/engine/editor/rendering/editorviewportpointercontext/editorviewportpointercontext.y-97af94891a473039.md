@@ -13,5 +13,3 @@ reviewed: 96be8670c1b9e75d6bdb78703cd8c120a3d6c69dd724a129b7b946fd691c7a94
 source: xml
 outdated: false
 ---
-
-Gets normalized vertical pointer position.

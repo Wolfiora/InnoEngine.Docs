@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Owns shared reading or exclusive writing rights coordinated by independent processes.

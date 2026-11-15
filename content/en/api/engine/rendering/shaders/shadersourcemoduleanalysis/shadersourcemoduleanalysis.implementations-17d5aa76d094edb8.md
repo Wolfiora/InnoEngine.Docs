@@ -13,5 +13,3 @@ reviewed: 327eeade0589577966d88506d0e0323425706dc348f658261c8dda0d5afcc56d
 source: xml
 outdated: false
 ---
-
-Gets all implementation snapshots, including failed or unavailable implementations.

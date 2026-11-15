@@ -13,5 +13,3 @@ reviewed: cb14061a8232be47516ae0ba033528ef92a4184a20dc3aa6e0724a89c382aadb
 source: xml
 outdated: false
 ---
-
-Gets the comparison.

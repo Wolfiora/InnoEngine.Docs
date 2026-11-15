@@ -13,5 +13,3 @@ reviewed: bfad9c045e863f44774f0aa64d1f6443e3bc5efc33351acb78475a7eb3df4afe
 source: xml
 outdated: false
 ---
-
-Gets or sets the complete backend selection used by the shell and its derived product host.

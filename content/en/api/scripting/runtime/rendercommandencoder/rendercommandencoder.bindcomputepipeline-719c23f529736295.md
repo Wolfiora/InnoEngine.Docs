@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects the compute pipeline for subsequent dispatch commands.
-
 ## Parameters
 
 **Parameter `pipeline`:** Compute pipeline owned by the current device generation.

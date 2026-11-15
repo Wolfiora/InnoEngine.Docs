@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Parses the shared Player command line before creating any native resource.
-
 ## Parameters
 
 **Parameter `arguments`:** Pairs of supported option names and values.

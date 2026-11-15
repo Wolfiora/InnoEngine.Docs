@@ -13,5 +13,3 @@ reviewed: 57704f788740772faf2da48193e639036e73c2b9cad3376e032c184dc8371143
 source: xml
 outdated: false
 ---
-
-Divides two equal numeric types component by component.

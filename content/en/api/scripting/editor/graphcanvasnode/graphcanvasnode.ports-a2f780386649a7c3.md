@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets copied neutral port descriptions; no callback or domain object is retained.

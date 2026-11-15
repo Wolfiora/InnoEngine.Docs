@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves reusable resources before render graph execution.
-
 ## Parameters
 
 **Parameter `context`:** Active pipeline build context.

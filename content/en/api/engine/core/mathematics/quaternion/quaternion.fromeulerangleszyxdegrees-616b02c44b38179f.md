@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the target representation from the supplied euler angles zyxdegrees value.
-
 ## Parameters
 
 **Parameter `eulerDegrees`:** The euler degrees consumed by from euler angles zyxdegrees; ownership remains with the caller unless explicitly stated otherwise.

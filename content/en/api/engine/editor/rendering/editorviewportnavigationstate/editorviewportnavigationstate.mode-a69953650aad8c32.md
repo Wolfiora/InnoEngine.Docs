@@ -13,5 +13,3 @@ reviewed: 79577ebc9dfd0606702b8162a3a2cfe0edcce14fc2930e8b98f05784a1e56227
 source: xml
 outdated: false
 ---
-
-Gets or sets the active host navigation mode.

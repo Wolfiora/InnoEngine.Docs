@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Produces a finite, exact 32-bit floating-point constant.
-
 ## Parameters
 
 **Parameter `value`:** Finite scalar value, including signed zero.

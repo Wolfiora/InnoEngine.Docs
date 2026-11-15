@@ -13,5 +13,3 @@ reviewed: 42806f57f6a267eadcc3a476c912cf6658a6d95871c88f8f289ae64e960c274c
 source: xml
 outdated: false
 ---
-
-The num lock key.

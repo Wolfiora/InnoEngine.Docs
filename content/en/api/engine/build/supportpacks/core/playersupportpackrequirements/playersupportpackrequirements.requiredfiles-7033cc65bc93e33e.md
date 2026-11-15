@@ -13,5 +13,3 @@ reviewed: a1ae8748dbcd84a88fe8206e3c26e1ceba924dd328947392eaa0f688104a9004
 source: xml
 outdated: false
 ---
-
-Gets the immutable required Pack-relative input paths.

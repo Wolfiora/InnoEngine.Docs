@@ -13,5 +13,3 @@ reviewed: 5a12e134b018ad3d073595e6b964673b393bbf17c9628b37dd145500aae10716
 source: xml
 outdated: false
 ---
-
-Multiplies by zero.

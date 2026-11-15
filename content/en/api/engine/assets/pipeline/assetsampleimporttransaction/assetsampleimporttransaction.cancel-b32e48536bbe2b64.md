@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests cancellation of copying and validation while retaining all dependencies.
-
 ## Remarks
 
 Cancellation does not wait. Continue owner-thread retirement until Rollback or Dispose completes.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Indicates that the input lost focus and its valid value should be committed before closing.

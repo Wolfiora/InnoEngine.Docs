@@ -13,5 +13,3 @@ reviewed: a9ed745c253b9f03a403a09ef33215c90828a02b626c2154b6b35b307f5454f9
 source: xml
 outdated: false
 ---
-
-Gets the green channel.

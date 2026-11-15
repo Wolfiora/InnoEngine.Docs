@@ -13,5 +13,3 @@ reviewed: bff2c9fbcdbacd0fb596663c534f4653ec3d6223a61a0ff7b3d33b699b39de37
 source: xml
 outdated: false
 ---
-
-Gets whether the contributed creation group starts a new visual section.

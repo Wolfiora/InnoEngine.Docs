@@ -13,5 +13,3 @@ reviewed: d642b933b8aaaaed26c24f4fcec61dcd9970397ab2628a730639c725c5ecc800
 source: xml
 outdated: false
 ---
-
-Gets the vertical graph-space coordinate.

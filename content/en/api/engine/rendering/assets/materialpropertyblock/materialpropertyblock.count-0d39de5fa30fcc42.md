@@ -13,5 +13,3 @@ reviewed: 8e94072e22f0fa7158db8290fd5d3c3def1d1217e04d485723381e971f31e0cf
 source: xml
 outdated: false
 ---
-
-Gets the number of active overrides.

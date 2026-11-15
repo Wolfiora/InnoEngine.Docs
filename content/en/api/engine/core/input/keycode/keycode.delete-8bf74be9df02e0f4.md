@@ -13,5 +13,3 @@ reviewed: 57f98ef28ef0aa6781016f63d8f3976d3d018ceac5f95273fc274c7f0cafbd7e
 source: xml
 outdated: false
 ---
-
-The delete key.

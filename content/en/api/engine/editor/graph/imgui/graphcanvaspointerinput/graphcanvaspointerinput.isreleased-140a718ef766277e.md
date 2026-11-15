@@ -13,5 +13,3 @@ reviewed: dbe5a5844e488bad541ca93d07d259d5027bfc9828af80f54c323537a788169c
 source: xml
 outdated: false
 ---
-
-Gets whether the primary pointer button was released this frame.

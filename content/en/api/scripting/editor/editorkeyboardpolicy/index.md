@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Supplies immutable keyboard conventions selected by the Editor product composition.

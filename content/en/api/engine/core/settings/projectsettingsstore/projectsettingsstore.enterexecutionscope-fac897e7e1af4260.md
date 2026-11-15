@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds this settings store to the current asynchronous script execution context.
-
 ## Returns
 
 A strict last-in-first-out execution scope owned by the caller.

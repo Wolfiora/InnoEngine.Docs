@@ -13,5 +13,3 @@ reviewed: 111b0cb5c16828d82849792dcde6125061ae4856e116fad35b2c6f66fe311701
 source: xml
 outdated: false
 ---
-
-Does not reject either face orientation.

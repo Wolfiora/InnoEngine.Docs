@@ -13,5 +13,3 @@ reviewed: 5c3c3803804ced335be1c45c4132ffc213525181345f63fb306c696bc887fca1
 source: xml
 outdated: false
 ---
-
-The reference originates from a prefab source.

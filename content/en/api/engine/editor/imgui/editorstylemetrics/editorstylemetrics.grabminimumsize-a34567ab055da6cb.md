@@ -13,5 +13,3 @@ reviewed: c0e6bedf388b66bc47062650649ab827c2d5cbff2f68e517f6538de1eaed90bd
 source: xml
 outdated: false
 ---
-
-Gets minimum grab size.

@@ -13,5 +13,3 @@ reviewed: c5c38ba8472c39798d5b84daf46da97fc4cf358af394b786c77ea25448a20078
 source: xml
 outdated: false
 ---
-
-Gets the absolute managed source path selected by the component project.

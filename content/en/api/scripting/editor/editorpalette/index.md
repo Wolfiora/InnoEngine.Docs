@@ -101,5 +101,3 @@ aliases:
 - api.inno.editor.imgui.editor-script.1be4ff97ac15f882
 - api.inno.editor.imgui.editor-script.b4f17a4bf474571a
 ---
-
-Defines the complete editor color palette in one theme surface.

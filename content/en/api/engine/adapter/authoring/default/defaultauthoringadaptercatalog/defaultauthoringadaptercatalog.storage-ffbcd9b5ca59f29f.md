@@ -13,5 +13,3 @@ reviewed: a60fea448809056c803d2207b99c5b2ae09bed42954076846a11cd0329b59883
 source: xml
 outdated: false
 ---
-
-Gets the built-in application-storage backend factory.

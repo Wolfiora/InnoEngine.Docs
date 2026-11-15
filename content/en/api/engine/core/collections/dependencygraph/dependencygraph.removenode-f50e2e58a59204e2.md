@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a node and every incoming and outgoing edge connected to it.
-
 ## Parameters
 
 **Parameter `node`:** The node key.

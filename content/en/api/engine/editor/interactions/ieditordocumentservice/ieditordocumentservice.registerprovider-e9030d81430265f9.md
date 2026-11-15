@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers one current-generation document provider.
-
 ## Parameters
 
 **Parameter `provider`:** Provider instance to register.

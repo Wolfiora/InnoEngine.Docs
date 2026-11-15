@@ -13,5 +13,3 @@ reviewed: d969151bba6acf8384b53f5ff11f87dd7d0a75c072a208b67a00d56f57be3056
 source: xml
 outdated: false
 ---
-
-Gets the target-assigned stage input for this node, when applicable.

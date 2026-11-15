@@ -13,5 +13,3 @@ reviewed: c2611e8908b4ce7731ccc3cb7c0ded9927cf689a445665b70eff62edaaa217d1
 source: xml
 outdated: false
 ---
-
-Gets the declared lifetime used for retirement and preferred-workspace accounting.

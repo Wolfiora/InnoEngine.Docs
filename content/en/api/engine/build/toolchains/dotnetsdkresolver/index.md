@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Resolves the managed SDK using the prepared entry project's directory and normal global.json rules.

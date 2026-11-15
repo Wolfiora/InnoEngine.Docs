@@ -13,5 +13,3 @@ reviewed: fbcdf540d154991c89472fb2c3c2835ad69ded85a5567740d59590ecc0552e03
 source: xml
 outdated: false
 ---
-
-Gets voices that currently consume runtime budget.

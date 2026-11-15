@@ -13,5 +13,3 @@ reviewed: a14ce91cf0bb279a2af538f2f69f6caac084a5793596e31db6659a08f350666e
 source: xml
 outdated: false
 ---
-
-Gets the canonical `projectId.name` representation.

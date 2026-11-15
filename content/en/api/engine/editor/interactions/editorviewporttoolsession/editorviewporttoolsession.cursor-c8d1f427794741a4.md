@@ -13,5 +13,3 @@ reviewed: 30239fc2ac0c94a164a90c1e141dc4c3b531f0641104047b4d934775a4bf30ae
 source: xml
 outdated: false
 ---
-
-Gets the requested cursor for the active tool.

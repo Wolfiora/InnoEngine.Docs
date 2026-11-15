@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Stops a live voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice handle to stop.

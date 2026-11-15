@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares a source file that invalidates this imported asset.
-
 ## Parameters
 
 **Parameter `path`:** The isolated dependency path.

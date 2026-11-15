@@ -13,5 +13,3 @@ reviewed: 700b918258900ec3ca7802540f2cb63a6d9e34e6e1dba98a9b3e18505a6a312a
 source: xml
 outdated: false
 ---
-
-Samples are interpreted as linear values.

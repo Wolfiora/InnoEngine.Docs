@@ -13,5 +13,3 @@ reviewed: d42b95dae28758fe0829f880ccb6d415c93b6497c6777c907238c11c4d507746
 source: xml
 outdated: false
 ---
-
-Gets the validated immutable options used to create this session.

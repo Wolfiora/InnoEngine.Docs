@@ -13,5 +13,3 @@ reviewed: e5a40286f03d565a03e608d2c55ece12b1b61446c921a8aafdf3c47f32e57fcf
 source: xml
 outdated: false
 ---
-
-Gets the normalized debug or release configuration prepared by this operation.

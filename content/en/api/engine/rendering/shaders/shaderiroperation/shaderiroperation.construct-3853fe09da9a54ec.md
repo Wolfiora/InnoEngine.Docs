@@ -13,5 +13,3 @@ reviewed: a2cb72726aa3ec356d0f6d825a908bea2b22546b576cfcbe9f610690b77114c8
 source: xml
 outdated: false
 ---
-
-Constructs an aggregate from typed scalar or member values.

@@ -13,5 +13,3 @@ reviewed: 00803a421d69c9be1e5db760604399573225c3148260d9d8423d75f9d1ebfa8e
 source: xml
 outdated: false
 ---
-
-Gets the custom background color used when `P:Inno.Editor.ImGui.ImGuiWidget.TreeNodeOptions.showBackground` is enabled.

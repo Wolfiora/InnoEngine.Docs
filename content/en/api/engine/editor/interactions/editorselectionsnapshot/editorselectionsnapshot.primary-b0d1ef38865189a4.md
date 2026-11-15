@@ -13,5 +13,3 @@ reviewed: aff45155dc8a1c396725fc8d5fa81e80dd6f73369b98ba1bd833bebaf0864360
 source: xml
 outdated: false
 ---
-
-Gets the primary identity, or null when this snapshot contains no registered targets.

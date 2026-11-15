@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a non-uniform scale matrix.
-
 ## Returns
 
 A scale matrix.

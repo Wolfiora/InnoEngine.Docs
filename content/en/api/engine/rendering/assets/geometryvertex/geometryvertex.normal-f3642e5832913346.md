@@ -13,5 +13,3 @@ reviewed: 4684288c72a0af753ae0a786706642491e689780434057aa8a8fdfc6f60d5987
 source: xml
 outdated: false
 ---
-
-Gets the object-space unit normal.

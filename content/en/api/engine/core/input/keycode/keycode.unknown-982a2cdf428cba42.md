@@ -13,5 +13,3 @@ reviewed: 6245b76368212a4ab40d1119018c7f42d9546937c71cccc763197d4e3687f5ce
 source: xml
 outdated: false
 ---
-
-No recognized physical key.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Performs a Catmull-Rom interpolation using the specified positions.
-
 ## Parameters
 
 **Parameter `value1`:** The first position in the interpolation.

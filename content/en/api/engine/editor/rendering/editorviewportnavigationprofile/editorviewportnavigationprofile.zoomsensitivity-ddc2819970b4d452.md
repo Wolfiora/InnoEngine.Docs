@@ -13,5 +13,3 @@ reviewed: 46c2b6be5518026215d0cf31e7abf5966306496641c9e7ada3429bd37cf0d866
 source: xml
 outdated: false
 ---
-
-Gets or sets exponential wheel zoom sensitivity.

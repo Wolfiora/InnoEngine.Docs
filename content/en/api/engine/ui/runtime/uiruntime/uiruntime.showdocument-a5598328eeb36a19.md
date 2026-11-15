@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Makes the selected document visible in its owning UI context.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

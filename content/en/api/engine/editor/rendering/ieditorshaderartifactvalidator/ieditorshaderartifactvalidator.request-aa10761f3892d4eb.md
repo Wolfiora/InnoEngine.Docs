@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests or reads validation for an exact document revision and immutable artifact.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable Editor document identity.

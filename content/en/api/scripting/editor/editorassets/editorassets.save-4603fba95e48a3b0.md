@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates or replaces a writable project asset source and imports the committed result.
-
 ## Parameters
 
 **Parameter `path`:** The writable project asset path.

@@ -13,5 +13,3 @@ reviewed: adf93fd3c34db667be7afa9a045dd16bfa6c0b8e784dbc32a204e3760691353e
 source: xml
 outdated: false
 ---
-
-Gets the view-to-clip transform.

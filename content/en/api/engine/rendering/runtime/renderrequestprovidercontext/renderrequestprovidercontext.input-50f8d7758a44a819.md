@@ -13,5 +13,3 @@ reviewed: bf7077e711445ca4a25a56310db2b02033e869446866474608170626a42027d6
 source: xml
 outdated: false
 ---
-
-Gets viewport-local input for the primary output.

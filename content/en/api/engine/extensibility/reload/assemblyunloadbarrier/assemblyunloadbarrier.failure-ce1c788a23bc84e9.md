@@ -13,5 +13,3 @@ reviewed: 5831c00ed4ecc9194e9a1c268dae9da4aacb194a4a99652436a710b109645c24
 source: xml
 outdated: false
 ---
-
-Gets the terminal failure after the barrier enters `F:Inno.Extensibility.Reload.AssemblyUnloadBarrierState.Faulted`.

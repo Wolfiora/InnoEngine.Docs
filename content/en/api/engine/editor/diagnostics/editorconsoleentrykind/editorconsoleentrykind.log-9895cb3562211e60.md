@@ -13,5 +13,3 @@ reviewed: e59851078305596b53c8c388addda39b82bb52bcb99e269821d98eaa1cfb4254
 source: xml
 outdated: false
 ---
-
-The occurrence was emitted through the runtime logging pipeline.

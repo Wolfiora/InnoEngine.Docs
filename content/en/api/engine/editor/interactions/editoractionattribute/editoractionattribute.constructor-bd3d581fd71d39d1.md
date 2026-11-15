@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an action registration available from every area.
-
 ## Parameters
 
 **Parameter `action`:** The stable semantic action name.

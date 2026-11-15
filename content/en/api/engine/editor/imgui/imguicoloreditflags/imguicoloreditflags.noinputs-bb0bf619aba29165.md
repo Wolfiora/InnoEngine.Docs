@@ -13,5 +13,3 @@ reviewed: b200390e52ae8afc6aeb45e3da8d948201969e8971efb60ddb98d5070cf2c5ff
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: disable inputs sliders/text widgets (e.g. to show only the small preview color square).

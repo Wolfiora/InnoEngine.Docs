@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a node's current typed ports under the shared generation lease.
-
 ## Parameters
 
 **Parameter `node`:** Neutral node properties.

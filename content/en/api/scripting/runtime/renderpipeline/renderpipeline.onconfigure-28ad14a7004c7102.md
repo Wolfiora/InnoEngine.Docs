@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads pipeline-owned settings from neutral state.
-
 ## Parameters
 
 **Parameter `state`:** Reload-safe extension state.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation-runtime#playback-and-update-contract
 aliases: []
 ---
-
-Creates one animation runtime feature for each isolated session.

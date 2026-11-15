@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether another layer identifies the same index.
-
 ## Parameters
 
 **Parameter `other`:** The layer to compare with this value.

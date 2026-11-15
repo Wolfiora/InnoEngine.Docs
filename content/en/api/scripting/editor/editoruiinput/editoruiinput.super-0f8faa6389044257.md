@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether the physical Super modifier is held, independently of native shortcut conventions.

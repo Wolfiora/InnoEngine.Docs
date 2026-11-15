@@ -13,5 +13,3 @@ reviewed: 3d236939af35e04c3adc55d1602496d8570d76fc74a2df3c7544e74a57368ed4
 source: xml
 outdated: false
 ---
-
-Gets the logical module name used to resolve dependencies within this compiled generation.

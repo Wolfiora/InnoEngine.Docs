@@ -13,5 +13,3 @@ reviewed: 89c7646e4630a3ff7e3b61b7f9769899fdfaba3d77575fb58f5bbd5fc9d2376a
 source: xml
 outdated: false
 ---
-
-Gets the filter contract.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable Ctrl+Click or Enter key allowing to input text directly into the widget.

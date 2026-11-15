@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Unloads one scene and selects another loaded scene when necessary.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to unload.

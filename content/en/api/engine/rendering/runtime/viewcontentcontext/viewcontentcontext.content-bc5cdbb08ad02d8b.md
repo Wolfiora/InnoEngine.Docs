@@ -13,5 +13,3 @@ reviewed: b4c4efdfa2f7782ca6ee6bef802275e21542236eb43b9107b4c35afbeceffca1
 source: xml
 outdated: false
 ---
-
-Gets the ordered host-selected content roots.

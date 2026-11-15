@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Defines the primary shortcut modifier and the display name of the Super modifier.
-
 ## Parameters
 
 **Parameter `primaryModifier`:** One Control, Super or Alt modifier used by symbolic primary shortcuts.

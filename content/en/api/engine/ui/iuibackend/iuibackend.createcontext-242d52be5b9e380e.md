@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one independent UI context.
-
 ## Parameters
 
 **Parameter `options`:** Initial layout and density for the new context.

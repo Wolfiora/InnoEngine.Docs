@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a declared checkout or selected binding input to its copied counterpart.
-
 ## Parameters
 
 **Parameter `path`:** An absolute recipe input path. External SDK paths retain their original location.

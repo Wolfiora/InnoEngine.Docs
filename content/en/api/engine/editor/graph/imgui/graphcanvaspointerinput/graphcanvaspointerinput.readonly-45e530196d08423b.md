@@ -13,5 +13,3 @@ reviewed: 4600d99a9847dbcb2e7674988e8d684a28f803608308b97322344c1c027777ab
 source: xml
 outdated: false
 ---
-
-Gets whether selection is allowed while data-editing intents are prohibited.

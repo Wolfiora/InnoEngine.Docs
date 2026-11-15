@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes presentation to a detached graph without changing any default, Material, or compiled program.
-
 ## Parameters
 
 **Parameter `graph`:** Detached graph owned by the caller's History transaction.

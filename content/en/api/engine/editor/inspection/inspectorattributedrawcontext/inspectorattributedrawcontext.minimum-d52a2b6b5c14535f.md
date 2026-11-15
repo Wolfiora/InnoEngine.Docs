@@ -13,5 +13,3 @@ reviewed: f4d426366bfe2edae5be143299d468b27c11e731277ca9f05e83ef7a55864bfe
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional inclusive numeric lower bound.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a feature extension declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable feature extension identifier.

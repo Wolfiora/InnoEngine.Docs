@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable frame statistics snapshot.
-
 ## Parameters
 
 **Parameter `frameIndex`:** Monotonic render frame index.

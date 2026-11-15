@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a newly constructed extension to the current build's rollback ownership before further validation.
-
 ## Type parameters
 
 **Type parameter `TExtension`:** The newly constructed extension contract.

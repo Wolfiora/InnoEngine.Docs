@@ -13,5 +13,3 @@ reviewed: fca67e426ff6ec0f60894b20c626729baeba1791264926ec243da9d2ba08082a
 source: xml
 outdated: false
 ---
-
-Four-component 32-bit floating-point vector.

@@ -13,5 +13,3 @@ reviewed: 3734a4d0d8bace612188ecfadfec80b3aaff3bcea74fd10355ecce76f2bd20e9
 source: xml
 outdated: false
 ---
-
-Gets medium opacity for secondary content and overlays.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Provides one shared preview texture bridge for browsers, inspectors, and document canvases.

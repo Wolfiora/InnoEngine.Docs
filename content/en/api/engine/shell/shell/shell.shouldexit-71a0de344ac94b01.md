@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether one event requests orderly product shutdown.
-
 ## Parameters
 
 **Parameter `evnt`:** Event produced by the active platform adapter.

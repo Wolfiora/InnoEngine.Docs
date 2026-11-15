@@ -13,5 +13,3 @@ reviewed: 033a38536c77ff77a0319461adb9190c630cf97372f102d70bc6ce4e8e1e38c1
 source: xml
 outdated: false
 ---
-
-Defines the smallest supported editor UI zoom.

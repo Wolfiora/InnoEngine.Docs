@@ -13,5 +13,3 @@ reviewed: c40637fc7172c74358525d8a6ca77d1d46162026cd0602c345067ccd9145acb6
 source: xml
 outdated: false
 ---
-
-Gets whether the shell may block the calling thread to enforce its frame rate.

@@ -13,5 +13,3 @@ reviewed: 528c64bdb0f67b3be6430694c0fdc155c72e29528b0ab39deefc788e84b932bb
 source: xml
 outdated: false
 ---
-
-Gets the required asset type.

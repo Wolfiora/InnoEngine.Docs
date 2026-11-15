@@ -13,5 +13,3 @@ reviewed: 3d30a62ddbf97eff4af77b988e59b774e3d8c40494d55a09d68c96ffecda77d1
 source: xml
 outdated: false
 ---
-
-Blends linearly between adjacent keyframes.

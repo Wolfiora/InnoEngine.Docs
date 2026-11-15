@@ -13,5 +13,3 @@ reviewed: c27775b0213de5331df1313af6bc92ebc66f5f3bb7e99f2f1bcbd3c11ed7aa95
 source: xml
 outdated: false
 ---
-
-Gets or sets the optional current selection bound.

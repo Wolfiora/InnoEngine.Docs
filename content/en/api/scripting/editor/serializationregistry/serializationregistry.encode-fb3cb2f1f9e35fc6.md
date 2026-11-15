@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a manually defined structured schema into deterministic binary data.
-
 ## Parameters
 
 **Parameter `write`:** The callback that writes the root object.

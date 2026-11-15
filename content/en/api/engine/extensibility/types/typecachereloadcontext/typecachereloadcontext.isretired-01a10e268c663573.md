@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a logical type belongs to the retiring generation.
-
 ## Parameters
 
 **Parameter `typeRef`:** The logical type to inspect.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an Editor artifact provider backed by explicit shader and texture toolchains.
-
 ## Parameters
 
 **Parameter `shaderCompiler`:** The compiler that turns backend-neutral shader IR into device target programs.

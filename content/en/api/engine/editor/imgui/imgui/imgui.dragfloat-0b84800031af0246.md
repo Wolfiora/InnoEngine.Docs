@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a floating-point drag control.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

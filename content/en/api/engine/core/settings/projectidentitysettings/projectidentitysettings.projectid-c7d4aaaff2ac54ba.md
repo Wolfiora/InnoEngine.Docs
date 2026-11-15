@@ -13,5 +13,3 @@ reviewed: 81d16c7e961e166a7fca22ff52ad9ac4ba76c888b40b81688be01f97b5a3fb52
 source: xml
 outdated: false
 ---
-
-Gets or sets the editable project namespace.

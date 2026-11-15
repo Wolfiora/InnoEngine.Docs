@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws literal text wrapped to the remaining content width without using a native variadic formatting entry point.
-
 ## Parameters
 
 **Parameter `text`:** The literal text to draw.

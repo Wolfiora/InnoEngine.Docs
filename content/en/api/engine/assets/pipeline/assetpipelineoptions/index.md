@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Initialization options for `T:Inno.Assets.Pipeline.AssetPipeline`.

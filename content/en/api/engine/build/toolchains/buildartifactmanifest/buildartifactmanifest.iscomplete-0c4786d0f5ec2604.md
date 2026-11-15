@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks the identity, exact output file set and bytes before reusing a cached artifact.
-
 ## Parameters
 
 **Parameter `directory`:** The published artifact directory.

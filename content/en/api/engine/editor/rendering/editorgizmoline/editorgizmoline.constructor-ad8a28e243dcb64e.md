@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-One non-interactive Editor line.
-
 ## Parameters
 
 **Parameter `start`:** The vector3 value used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: a8a05a708391b8285354f2152c69e2a0399b3fa1b063509aa2f837220c13771e
 source: xml
 outdated: false
 ---
-
-Subscribes to committed asset changes and queues a cache-aware initial compilation request.

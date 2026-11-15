@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: \_display\_ values formatted as 0.0f..1.0f floats instead of 0..255 integers. No round-trip of value via integers.

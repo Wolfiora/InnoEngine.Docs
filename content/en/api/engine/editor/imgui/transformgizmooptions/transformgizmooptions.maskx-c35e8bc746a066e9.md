@@ -13,5 +13,3 @@ reviewed: d680c465cbe1cf897855c5fa04d531bc83033a84a817924fe7a1333b0fd89be9
 source: xml
 outdated: false
 ---
-
-Gets whether the X translation axis is excluded by the viewport plane.

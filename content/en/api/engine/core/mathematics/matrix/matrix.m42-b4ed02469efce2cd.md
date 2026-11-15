@@ -13,5 +13,3 @@ reviewed: 530a77a1d6ae06aa083150d2fad8cdb58395a9e6b9da927edaa55f87d3cabfbb
 source: xml
 outdated: false
 ---
-
-Row 4, Column 2 (translation Y component for affine transforms).

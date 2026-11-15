@@ -13,5 +13,3 @@ reviewed: 461b1e355449f36c8fc8c3930ca6ad35a5fe1c341d17ad6b685a5b36255ca1d1
 source: xml
 outdated: false
 ---
-
-Gets the immutable native deployment groups supplied by the selected steps.

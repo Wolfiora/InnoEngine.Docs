@@ -13,5 +13,3 @@ reviewed: 36d3e51f0708dc5b13b5b54b3388346211677e8f0ea6389edd0449c5a6cb4177
 source: xml
 outdated: false
 ---
-
-Selects the text link presentation behavior.

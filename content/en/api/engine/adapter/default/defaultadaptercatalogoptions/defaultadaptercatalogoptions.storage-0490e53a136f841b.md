@@ -13,5 +13,3 @@ reviewed: b909f78dc68fb024926538cf529bcbb65acd6d56f350a6b81eb790be367430e7
 source: xml
 outdated: false
 ---
-
-Gets or initializes the immutable storage factory configured for this host.

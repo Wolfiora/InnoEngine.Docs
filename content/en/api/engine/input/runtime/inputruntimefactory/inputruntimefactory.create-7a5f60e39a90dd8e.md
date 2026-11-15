@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an input feature over a newly allocated session backend.
-
 ## Parameters
 
 **Parameter `context`:** The isolated session context passed to the backend factory.

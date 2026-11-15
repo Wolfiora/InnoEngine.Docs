@@ -13,5 +13,3 @@ reviewed: fe0283d4d72d11737d09e40a2bee5325c7a6030300ec8ffaf6562d343169ada8
 source: xml
 outdated: false
 ---
-
-Gets root menu nodes in display order.

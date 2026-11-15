@@ -13,5 +13,3 @@ reviewed: 091a69c7601bf733ee2394c50c5260747ae13db9fa5747675d92a6620ca967f3
 source: xml
 outdated: false
 ---
-
-Optional expanded diagnostic text sharing the message scroll owner.

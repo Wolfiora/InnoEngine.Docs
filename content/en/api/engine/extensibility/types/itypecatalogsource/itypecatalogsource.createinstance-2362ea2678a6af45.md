@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Constructs a declared type through the selected deployment's factory mechanism.
-
 ## Parameters
 
 **Parameter `type`:** The declared runtime type.

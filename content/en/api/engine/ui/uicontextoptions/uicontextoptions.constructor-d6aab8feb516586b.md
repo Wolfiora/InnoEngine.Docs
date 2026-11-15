@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates validated context options.
-
 ## Parameters
 
 **Parameter `name`:** A non-empty diagnostic context name.

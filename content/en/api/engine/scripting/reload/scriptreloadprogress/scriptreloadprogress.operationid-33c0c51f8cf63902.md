@@ -13,5 +13,3 @@ reviewed: 63cd1afc4a576bb5c102370188a38d980b7a69d2e879db444eca0eb78c42218f
 source: xml
 outdated: false
 ---
-
-The host-local reload request sequence; zero precedes the first request.

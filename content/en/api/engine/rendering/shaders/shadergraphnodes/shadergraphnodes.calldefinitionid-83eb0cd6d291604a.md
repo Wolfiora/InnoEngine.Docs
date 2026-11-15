@@ -13,5 +13,3 @@ reviewed: 4f6c1468221a9cecbc2bf24b2d26bf69340bb740b8f6f862512d15bb93544a4a
 source: xml
 outdated: false
 ---
-
-Identifies a reference to another Shader graph used as a node.

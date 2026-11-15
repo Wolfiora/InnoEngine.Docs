@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-== ImGuiKey\_NamedKey\_BEGIN

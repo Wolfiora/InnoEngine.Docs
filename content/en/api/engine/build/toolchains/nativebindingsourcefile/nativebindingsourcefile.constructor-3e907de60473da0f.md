@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Identifies exact generated or external bytes needed by a native compilation.
-
 ## Parameters
 
 **Parameter `rootId`:** The component-local input root.

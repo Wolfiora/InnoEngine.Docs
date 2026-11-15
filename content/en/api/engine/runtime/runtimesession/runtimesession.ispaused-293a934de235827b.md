@@ -13,5 +13,3 @@ reviewed: b71efd3c1228cbeeea40a50d23e4c398ff914267b598ba4c7c21cc337ff74295
 source: xml
 outdated: false
 ---
-
-Gets or sets whether scaled simulation is paused while unscaled subsystems continue to receive frames.

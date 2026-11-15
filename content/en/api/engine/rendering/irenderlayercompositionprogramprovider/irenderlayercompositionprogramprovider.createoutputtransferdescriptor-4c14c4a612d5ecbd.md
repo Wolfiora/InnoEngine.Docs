@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the final transfer pipeline for a presentation target without automatic sRGB encoding.
-
 ## Parameters
 
 **Parameter `capabilities`:** Capabilities of the device that will own the pipeline.

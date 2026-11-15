@@ -13,5 +13,3 @@ reviewed: 075dcee8c3eb4497423e0708f65a6c251819b6342f7724445606964dfdebe84f
 source: xml
 outdated: false
 ---
-
-Gets the stable viewport purpose.

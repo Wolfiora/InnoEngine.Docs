@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-bindings
 aliases: []
 ---
-
-Captures one platform's official BGCS target and managed projection choices.

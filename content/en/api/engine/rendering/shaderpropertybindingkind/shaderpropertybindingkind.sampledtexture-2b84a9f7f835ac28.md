@@ -13,5 +13,3 @@ reviewed: 9ae163519881f9583112b1a9e3e03788525bac821f3de55cd5ef6455ed3f7ffe
 source: xml
 outdated: false
 ---
-
-Texture sampled through an explicit material sampler.

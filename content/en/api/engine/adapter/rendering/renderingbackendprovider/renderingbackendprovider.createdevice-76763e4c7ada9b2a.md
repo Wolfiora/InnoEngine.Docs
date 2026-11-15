@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a caller-owned device using backend-neutral surface options.
-
 ## Parameters
 
 **Parameter `options`:** Validated surface and device creation options.

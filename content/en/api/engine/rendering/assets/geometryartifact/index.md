@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Encodes and validates the stable backend-neutral geometry artifact shared by import and runtime stages.

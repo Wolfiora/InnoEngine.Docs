@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Right-click on columns body/contents will display table context menu. By default it is available in TableHeadersRow().

@@ -13,5 +13,3 @@ reviewed: 711d530b9e0bc29107e6cf8bb3607eefaf4f34a1eb4e24cf6804098d0e395fe5
 source: xml
 outdated: false
 ---
-
-Gets the stable module identifier.

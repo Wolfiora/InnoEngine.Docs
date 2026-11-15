@@ -13,5 +13,3 @@ reviewed: 1b2dbbb14967370a43faa0e949fd5a85bff41ad199ff9c96540b5279213d5413
 source: xml
 outdated: false
 ---
-
-Gets every view in the same model output.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a qualified project identity.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project namespace.

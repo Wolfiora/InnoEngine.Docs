@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets implementation and cross-implementation diagnostics with original source positions.

@@ -13,5 +13,3 @@ reviewed: 0b0e04a64774ea524300ed2c4bf6875ff0cc0fe047413597f39fae832b484d4e
 source: xml
 outdated: false
 ---
-
-Gets or sets whether hiding or minimizing the primary window suspends product frames. Application suspension always stops frames independently of this window policy.

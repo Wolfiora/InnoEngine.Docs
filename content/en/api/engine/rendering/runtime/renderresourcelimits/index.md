@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Sets finite native resource and asynchronous readback admission limits for one rendering owner.

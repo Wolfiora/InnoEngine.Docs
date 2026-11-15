@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Gives imported C# sample scripts distinct type identities before their scene assets are remapped.

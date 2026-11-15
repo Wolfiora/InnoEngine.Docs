@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets values supplied by callers and exposed as outputs inside the node graph.

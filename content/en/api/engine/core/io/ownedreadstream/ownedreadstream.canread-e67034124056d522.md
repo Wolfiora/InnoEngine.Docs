@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, gets a value indicating whether the current stream supports reading.
-
 ## Returns
 
 `true` if the stream supports reading; otherwise, `false`.

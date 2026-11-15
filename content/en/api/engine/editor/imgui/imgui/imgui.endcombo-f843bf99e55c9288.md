@@ -13,5 +13,3 @@ reviewed: bd9d4f06761038eb8717332c261314cdb5b06c18d04bff8cf3581013a79f6902
 source: xml
 outdated: false
 ---
-
-Ends the current combo popup.

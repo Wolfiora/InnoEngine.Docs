@@ -13,5 +13,3 @@ reviewed: 8b36c0ea4f4950ac614f6abfba2f3b82534946f5a82c8d351e3858c1d858b5cc
 source: xml
 outdated: false
 ---
-
-Gets the number of addressable elements.

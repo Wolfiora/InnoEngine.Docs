@@ -16,7 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Coordinates importing, persistent cataloging, canonical loading, reloading and collection for one source and artifact root pair.
-
-Resolves import settings and dependency invalidation for the asset loader.

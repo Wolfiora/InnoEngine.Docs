@@ -13,5 +13,3 @@ reviewed: af352d4674f114e0e4ee8babe2e07c0482c2bb5c6702dee348cb67712a61820b
 source: xml
 outdated: false
 ---
-
-Gets immutable local-space vertices.

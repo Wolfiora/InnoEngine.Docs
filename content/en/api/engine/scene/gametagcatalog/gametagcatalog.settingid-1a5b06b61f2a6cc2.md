@@ -13,5 +13,3 @@ reviewed: 8c9333e239447700ff90ccd99aef3290d0dea25b18ee5333e1aee337980d7b22
 source: xml
 outdated: false
 ---
-
-Gets the stable project setting protocol for the project-wide tag catalog.

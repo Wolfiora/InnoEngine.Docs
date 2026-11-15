@@ -13,5 +13,3 @@ reviewed: 396ac2ef4e937898e9903ca0f34a1a087a8cf891b5fa77d30bb82f96678f90e2
 source: xml
 outdated: false
 ---
-
-Gets the explicit platform import mechanism, or null for the component's mechanism.

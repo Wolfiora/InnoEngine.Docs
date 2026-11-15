@@ -13,5 +13,3 @@ reviewed: 0c17bd995b8a39189d428b01e423f351cf18dacdc5887ccbb90ed745cf450c01
 source: xml
 outdated: false
 ---
-
-Decodes the complete clip before playback.

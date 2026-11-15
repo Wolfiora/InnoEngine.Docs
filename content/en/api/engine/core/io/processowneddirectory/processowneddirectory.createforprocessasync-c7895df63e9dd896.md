@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a directory protected by this process lifetime when the caller can retain only file metadata. Payload consumers in other processes must register their lifetimes before using it.
-
 ## Parameters
 
 **Parameter `root`:** The absolute producer root; existing directories are never adopted.

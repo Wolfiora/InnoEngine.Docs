@@ -13,5 +13,3 @@ reviewed: 664bfdc0f49dd6076fa69236784cbf4582c07bf8466d69882d90deaee8fcafb2
 source: xml
 outdated: false
 ---
-
-Gets the minimum corner of this axis-aligned rectangle.

@@ -13,5 +13,3 @@ reviewed: 967b5b9da17057601ca9bc58054eed5b5d362093dfa4f8788cafc0bb4c71862d
 source: xml
 outdated: false
 ---
-
-Called during the late update stage. Use `Time.deltaTime` for frame timing.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a serialized property renderer over one drawer registry and feature-owned edit service.
-
 ## Parameters
 
 **Parameter `drawers`:** The property drawer registry used for runtime type resolution.

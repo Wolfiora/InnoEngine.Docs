@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares one buffer copy operation.
-
 ## Parameters
 
 **Parameter `source`:** Copy source.

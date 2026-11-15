@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets subtle opacity for selection washes and low-emphasis overlays.

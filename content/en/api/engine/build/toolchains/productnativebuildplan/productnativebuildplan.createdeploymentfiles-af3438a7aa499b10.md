@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves exact deployment paths from the declared layout rather than component-name conventions.
-
 ## Parameters
 
 **Parameter `products`:** The complete result of this plan, in declaration order.

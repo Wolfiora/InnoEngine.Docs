@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires an execution path for an absolute build-owned directory.
-
 ## Parameters
 
 **Parameter `physicalPath`:** The retained physical directory.

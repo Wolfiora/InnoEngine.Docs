@@ -13,5 +13,3 @@ reviewed: 3086ee4992a087c20b65a96bb174217fdb330b3b6d7e589b012dfdd66ba69f3e
 source: xml
 outdated: false
 ---
-
-Gets named region outputs by stable graph endpoint.

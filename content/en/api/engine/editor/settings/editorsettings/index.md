@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Owns the discovered Settings catalog and the project-root Settings document.

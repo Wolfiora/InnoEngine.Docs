@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an open codec identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable codec protocol value.

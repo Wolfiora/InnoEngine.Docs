@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a publisher for one absolute, non-overlapping cache boundary.
-
 ## Parameters
 
 **Parameter `directory`:** The cache root exclusively controlled by this publisher.

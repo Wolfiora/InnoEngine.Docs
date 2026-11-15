@@ -13,5 +13,3 @@ reviewed: 9984ec213251312f6cdf5aef2b173ed9e71da5d1879d6703daa2fcbac16de988
 source: xml
 outdated: false
 ---
-
-Gets the stable shader name expected by the runtime asset definition.

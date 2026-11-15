@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the signed angle in radians from one value to another.
-
 ## Parameters
 
 **Parameter `from`:** The starting value used by the operation.

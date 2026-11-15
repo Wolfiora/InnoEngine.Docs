@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks both nominal identity and complete aggregate layout.
-
 ## Parameters
 
 **Parameter `other`:** Candidate type from another implementation.

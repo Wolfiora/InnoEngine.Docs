@@ -13,5 +13,3 @@ reviewed: 92a2e2ff3ba95cc27d7c11c675d70dac79a839b5be7438a315b120b429ca3ff2
 source: xml
 outdated: false
 ---
-
-Gets an optional factory transferring each edit or play log sink to its owning session.

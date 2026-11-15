@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader pass role identifier.
-
 ## Parameters
 
 **Parameter `value`:** Stable role value within a contract.

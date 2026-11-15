@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Make outer width auto-fit to columns, overriding outer\_size.x value. Only available when ScrollX/ScrollY are disabled and Stretch columns are not used.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a render-graph diagnostic.
-
 ## Parameters
 
 **Parameter `code`:** Stable machine-readable code.

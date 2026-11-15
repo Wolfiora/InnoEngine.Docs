@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Makes a temporary Core identity domain available to selection, focus and drag resolution.
-
 ## Parameters
 
 **Parameter `allocator`:** The borrowed allocator owned by the temporary runtime session.

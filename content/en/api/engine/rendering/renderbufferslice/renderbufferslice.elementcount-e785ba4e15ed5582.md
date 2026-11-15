@@ -13,5 +13,3 @@ reviewed: a553e177880a77df79cb44a21d53e36f9138573495871ea719eb0ca61740bc53
 source: xml
 outdated: false
 ---
-
-Gets the number of uploaded elements.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the explicit construction boundary for a host or session pipeline.
-
 ## Parameters
 
 **Parameter `events`:** The owner event dispatcher.

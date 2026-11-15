@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a raster graph accepting clip-space XY positions and an exposed RGBA color.
-
 ## Parameters
 
 **Parameter `serialization`:** Owner native converter registry.

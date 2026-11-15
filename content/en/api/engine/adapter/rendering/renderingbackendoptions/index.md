@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering
 aliases: []
 ---
-
-Configures backend-neutral rendering-device creation.

@@ -13,5 +13,3 @@ reviewed: a3369e1fe109124950968b562a26c4d8e7dbd50fadb927c0e3799514fd48d1b8
 source: xml
 outdated: false
 ---
-
-Gets the occurrence timestamp.

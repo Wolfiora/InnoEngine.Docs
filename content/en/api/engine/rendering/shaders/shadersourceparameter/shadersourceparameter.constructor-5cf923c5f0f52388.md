@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated function parameter.
-
 ## Parameters
 
 **Parameter `name`:** Public parameter name, used for semantic port matching rather than ordinal matching.

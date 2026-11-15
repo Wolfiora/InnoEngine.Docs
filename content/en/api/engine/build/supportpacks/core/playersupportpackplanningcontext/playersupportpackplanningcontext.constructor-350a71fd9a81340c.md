@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the checkout and host from which project-scoped tools are resolved.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The complete checkout to inspect without modifying publication output.

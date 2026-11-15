@@ -13,5 +13,3 @@ reviewed: c6d3464acc1a549d5deffa22db792f28912411feb90ec7b8d7797567227e68df
 source: xml
 outdated: false
 ---
-
-Stops an operation or simulation.

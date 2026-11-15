@@ -13,5 +13,3 @@ reviewed: 7abd446efe2f32c095e6a00ab5347823f730f49aa1cf841ec7ef2a1de01fb76f
 source: xml
 outdated: false
 ---
-
-Gets the number of independently addressable faces in the source.

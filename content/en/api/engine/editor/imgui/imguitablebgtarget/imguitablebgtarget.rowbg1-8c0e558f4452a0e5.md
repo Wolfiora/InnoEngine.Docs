@@ -13,5 +13,3 @@ reviewed: 6bc76d90136ff45a1b582f1cd1bdbab23a4be169e1774f95e420c2c690d7878d
 source: xml
 outdated: false
 ---
-
-Set row background color 1 (generally used for selection marking)

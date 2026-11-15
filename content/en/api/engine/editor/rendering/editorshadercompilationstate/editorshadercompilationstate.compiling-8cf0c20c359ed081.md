@@ -13,5 +13,3 @@ reviewed: 63ccfa88a5c6ce17a9674ecc8243f90cd6140a675d7cb4460235c394e8ba3fda
 source: xml
 outdated: false
 ---
-
-The latest semantic candidate is being compiled.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a store for one project's current build settings document.
-
 ## Parameters
 
 **Parameter `path`:** The project-owned `Settings.Build.inno` path.

@@ -13,5 +13,3 @@ reviewed: f2779e23665792218ea6ae687fa9e2a0f5d10da6929e08984e59ff42d8295505
 source: xml
 outdated: false
 ---
-
-Multiplies by one minus destination color.

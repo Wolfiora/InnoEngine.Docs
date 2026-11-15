@@ -13,5 +13,3 @@ reviewed: b0e0cb84f33af1abcf1c81293e5d36aaf3f20a1f5e023c970c8215b52269c449
 source: xml
 outdated: false
 ---
-
-Column will not stretch. Preferable with horizontal scrolling enabled (default if table sizing policy is \_SizingFixedFit and table is resizable).

@@ -13,5 +13,3 @@ reviewed: b7b503ae35a54ac8e708d7896c3c9bde653fe8ff4769d3da875b44b81d4bcc17
 source: xml
 outdated: false
 ---
-
-Gets the builder shared by nodes in this typed region.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Stops one live playback.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle to stop.

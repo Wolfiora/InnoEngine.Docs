@@ -13,5 +13,3 @@ reviewed: aee5fe869d0f27807c4b0e3217f9f3588d372cb4a35b79201259f291700d3e6e
 source: xml
 outdated: false
 ---
-
-Gets active key modifiers for this keyboard event.

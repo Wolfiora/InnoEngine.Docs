@@ -13,5 +13,3 @@ reviewed: 6ca7aa315ab2cd019b5934533a69fbc66f1d7257f3bc56cba04e13c7b0daa1a0
 source: xml
 outdated: false
 ---
-
-Gets the rupee sign glyph used by standard Editor controls.

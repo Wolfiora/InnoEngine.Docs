@@ -13,5 +13,3 @@ reviewed: b68dbc1ac4d1ef2b0af245c9555a445205657e437067191339210e9d1ed45397
 source: xml
 outdated: false
 ---
-
-Gets active animation playback slots.

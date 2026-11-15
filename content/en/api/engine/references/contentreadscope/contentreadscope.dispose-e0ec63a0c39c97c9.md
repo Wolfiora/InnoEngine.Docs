@@ -13,5 +13,3 @@ reviewed: be6b8a9f2ca06012f752c23382739148ade53d982d9d2b1651c556d84d1bfd40
 source: xml
 outdated: false
 ---
-
-Revokes all future root resolution without affecting the owner objects.

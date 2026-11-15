@@ -13,5 +13,3 @@ reviewed: 3d8035d1a45ca34163db8d995ba75375aece7c836e6d3f41d2a38051ec085cdb
 source: xml
 outdated: false
 ---
-
-The script service has not produced its initial active generation.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Allows multiple instances of a concrete `T:InnoEngine.Scene.GameSystem` type in one scene.

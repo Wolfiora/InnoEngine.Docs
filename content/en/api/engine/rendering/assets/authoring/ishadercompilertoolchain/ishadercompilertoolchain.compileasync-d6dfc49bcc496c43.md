@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Generates and compiles one typed stage, including its frozen function modules and resource layout.
-
 ## Parameters
 
 **Parameter `request`:** Typed stage and exact target profile.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures current SDK inputs without choosing a framework inside the scripting compiler.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels input preparation before any script artifact is published.

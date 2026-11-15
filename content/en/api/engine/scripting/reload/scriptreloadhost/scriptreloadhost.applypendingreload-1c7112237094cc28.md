@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies the latest compiled generation, or commits a Plugin-unavailability generation when changed Plugin code cannot produce a replacement, at a caller-controlled main-thread safe point.
-
 ## Returns
 
 `true` when modules were replaced or retired; otherwise, `false`.

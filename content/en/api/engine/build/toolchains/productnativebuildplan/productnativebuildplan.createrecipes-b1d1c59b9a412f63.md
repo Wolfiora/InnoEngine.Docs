@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the complete selected source recipe closure before binding generation or native compilation.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed operation with a frozen target SDK; each step supplies its own component options.

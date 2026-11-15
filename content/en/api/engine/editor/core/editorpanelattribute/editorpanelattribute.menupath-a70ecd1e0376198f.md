@@ -13,5 +13,3 @@ reviewed: 760614cab4f9a56872bf86699100513085d8aa2928cdb48ecac2aad00364bfcf
 source: xml
 outdated: false
 ---
-
-Gets the optional category path under the generated `Panel` menu.

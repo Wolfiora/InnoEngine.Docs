@@ -13,5 +13,3 @@ reviewed: e49e9d06ddf0dc47cf8bec457c7ddb49b474b916bba258f2a77f4b62e110f4f4
 source: xml
 outdated: false
 ---
-
-Gets the single source selected after complete publication or successful comparison.

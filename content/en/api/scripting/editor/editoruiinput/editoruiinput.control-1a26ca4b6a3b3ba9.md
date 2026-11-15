@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether the physical Control modifier is held, independently of native shortcut conventions.

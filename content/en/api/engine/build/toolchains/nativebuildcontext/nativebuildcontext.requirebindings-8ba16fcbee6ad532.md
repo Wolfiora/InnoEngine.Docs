@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requires the target binding generation prepared for an explicitly declared Native owner.
-
 ## Parameters
 
 **Parameter `component`:** The component whose facade and managed binding share one generation.

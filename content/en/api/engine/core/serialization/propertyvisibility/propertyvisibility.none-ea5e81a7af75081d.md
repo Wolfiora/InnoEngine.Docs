@@ -13,5 +13,3 @@ reviewed: 40005e20a3572e86e08e256b0f392627b2eb4c413cdda72117e5a4c3d64d06a5
 source: xml
 outdated: false
 ---
-
-No participation in serialization, deserialization, or runtime access.

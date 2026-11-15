@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to restore the state before the gesture without discarding a failed rollback.
-
 ## Returns
 
 The rollback outcome; a state-preserving failure keeps this gesture active for retry.

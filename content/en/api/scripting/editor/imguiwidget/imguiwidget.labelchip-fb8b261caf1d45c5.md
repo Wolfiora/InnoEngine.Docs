@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws non-interactive text centered on a compact, softly rounded colored background.
-
 ## Parameters
 
 **Parameter `label`:** Visible label text.

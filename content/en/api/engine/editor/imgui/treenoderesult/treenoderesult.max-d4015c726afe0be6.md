@@ -13,5 +13,3 @@ reviewed: af3af37244c03d69e4531f0367013420c7f2e837f73e7401b142304a6d984990
 source: xml
 outdated: false
 ---
-
-Gets the row maximum screen coordinate.

@@ -13,5 +13,3 @@ reviewed: 8358568c62676429cf2955f4a8ef4f8999f0343d711b22ad7e562d8c3d9e8840
 source: xml
 outdated: false
 ---
-
-Requires the value to differ from the supplied expected constant.

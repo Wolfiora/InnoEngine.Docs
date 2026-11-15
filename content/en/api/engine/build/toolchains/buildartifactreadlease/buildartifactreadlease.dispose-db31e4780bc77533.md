@@ -13,5 +13,3 @@ reviewed: 37b944f0ef2c30f979684bb91a21c252d62a508e882416a296af5e6ced56c75e
 source: xml
 outdated: false
 ---
-
-Ends artifact access and allows repair or retirement; repeated disposal has no effect.

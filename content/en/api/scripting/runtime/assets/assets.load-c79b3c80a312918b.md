@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Loads the canonical asset with a persistent identity in the current session.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required asset contract.

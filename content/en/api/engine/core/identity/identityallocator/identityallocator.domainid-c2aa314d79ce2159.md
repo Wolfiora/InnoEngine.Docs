@@ -13,5 +13,3 @@ reviewed: f4f4221eac9a842f58815d68652167565a94494c8232772d5a908c02d3dd69f7
 source: xml
 outdated: false
 ---
-
-Gets the process-unique domain that qualifies every runtime identity allocated here.

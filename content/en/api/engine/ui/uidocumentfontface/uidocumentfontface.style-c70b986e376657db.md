@@ -13,5 +13,3 @@ reviewed: a201e6996d6437c53ee1cde4b88d49c423c72dc9867dc944a6cc22b15aa16b11
 source: xml
 outdated: false
 ---
-
-Gets the declared style.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Immediately dispatches an event to all valid hubs in priority order.
-
 ## Remarks
 
 Hub dispatch stops when the event is marked globally handled. Completion observers are still notified. A failed hub propagates its exception without reporting successful completion.

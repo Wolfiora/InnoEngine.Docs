@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Owns an immutable collection of deployment providers selected explicitly by the build composition.

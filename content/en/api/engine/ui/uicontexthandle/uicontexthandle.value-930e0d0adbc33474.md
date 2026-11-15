@@ -13,5 +13,3 @@ reviewed: 04a4842d741c7962ffbf2c28d125904c75737da227fe72a284ef846fa1f82c5d
 source: xml
 outdated: false
 ---
-
-The concrete value read or transformed by this operation.

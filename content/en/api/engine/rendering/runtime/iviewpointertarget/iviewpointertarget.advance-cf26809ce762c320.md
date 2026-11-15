@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances this target once for the frame with either routed input or an empty snapshot.
-
 ## Parameters
 
 **Parameter `input`:** Routed viewport-local input, or an empty snapshot.

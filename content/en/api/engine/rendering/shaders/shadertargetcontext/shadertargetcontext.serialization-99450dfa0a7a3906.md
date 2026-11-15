@@ -13,5 +13,3 @@ reviewed: d86e9afe2d590e054437af2e79ee1793886570df604411205cdffd4e79e9c38a
 source: xml
 outdated: false
 ---
-
-Gets the current owner converter registry, valid only during expansion.

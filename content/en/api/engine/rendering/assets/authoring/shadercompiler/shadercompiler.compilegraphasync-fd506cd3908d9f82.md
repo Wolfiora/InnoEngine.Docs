@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles an immutable import or preview candidate without reading or mutating a canonical Shader asset.
-
 ## Parameters
 
 **Parameter `artifact`:** Frozen target-expanded graph and source bundles.

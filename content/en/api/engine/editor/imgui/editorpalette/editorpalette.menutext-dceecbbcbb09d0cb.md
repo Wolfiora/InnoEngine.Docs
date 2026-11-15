@@ -13,5 +13,3 @@ reviewed: b4e713dad0fc026ffe71bc0edf56ebcb2f7733129f6325067e8d7266336cc28c
 source: xml
 outdated: false
 ---
-
-Gets text color used by editor context menus.

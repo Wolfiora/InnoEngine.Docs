@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Return true even if a popup window is normally blocking access to this item/window

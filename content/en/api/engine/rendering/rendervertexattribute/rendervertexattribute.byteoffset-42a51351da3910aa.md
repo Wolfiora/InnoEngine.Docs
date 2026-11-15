@@ -13,5 +13,3 @@ reviewed: 3a3c61a8800fb542074befd020193f60d988729a7fc3c8f6ce1d11b735be11fb
 source: xml
 outdated: false
 ---
-
-Gets the explicit byte offset in the resolved stream layout, or -1 before a layout resolves automatic placement.

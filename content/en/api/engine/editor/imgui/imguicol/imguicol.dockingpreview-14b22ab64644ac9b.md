@@ -13,5 +13,3 @@ reviewed: 01262c485fc4b7c1184128d906379db791db60bce7051125763279ff802cd88d
 source: xml
 outdated: false
 ---
-
-Selects the docking preview presentation behavior.

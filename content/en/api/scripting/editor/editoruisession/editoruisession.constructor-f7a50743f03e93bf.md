@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Creates independent controls and style state; the presentation backend retains its native context ownership.

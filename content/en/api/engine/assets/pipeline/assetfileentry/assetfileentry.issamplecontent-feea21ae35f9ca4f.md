@@ -13,5 +13,3 @@ reviewed: e6e16e4cec1d22ae9087ff9e5114ef856e452eaa647c0136f4a52a024ae89716
 source: xml
 outdated: false
 ---
-
-Gets whether this entry belongs to an installed Plugin sample subtree awaiting Project import.

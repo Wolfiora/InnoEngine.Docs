@@ -13,5 +13,3 @@ reviewed: e23806924e2438278c9ba29bcd8e574c8c418ba8af708181ece34b941747c846
 source: xml
 outdated: false
 ---
-
-The horizontal or first component.

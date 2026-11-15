@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a horizontal insertion marker above normal window content in screen coordinates.
-
 ## Parameters
 
 **Parameter `fromX`:** Marker start X coordinate.

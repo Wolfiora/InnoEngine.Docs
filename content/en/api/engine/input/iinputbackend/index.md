@@ -16,5 +16,3 @@ contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []
 ---
-
-Captures complete input state from one platform backend at frame boundaries.

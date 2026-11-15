@@ -13,5 +13,3 @@ reviewed: c379b238dad44895530b235950d388c787c62255fa92c10ce7f7b17a714c43a2
 source: xml
 outdated: false
 ---
-
-Gets the declared sample color space.

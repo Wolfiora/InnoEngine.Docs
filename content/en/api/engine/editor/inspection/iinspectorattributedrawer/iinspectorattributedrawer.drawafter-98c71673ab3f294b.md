@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a decorator immediately after the property row.
-
 ## Parameters
 
 **Parameter `context`:** Current presentation state for the annotated property.

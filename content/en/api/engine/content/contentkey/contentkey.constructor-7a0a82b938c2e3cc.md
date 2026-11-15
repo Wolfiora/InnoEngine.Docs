@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a logical key without interpreting it as a host filesystem path.
-
 ## Parameters
 
 **Parameter `value`:** A nonempty relative key with no traversal, ambiguous segments, or platform-reserved names.

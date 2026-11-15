@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Parses the common Editor command line without selecting a platform.
-
 ## Parameters
 
 **Parameter `arguments`:** The project path followed by optional name/value pairs.

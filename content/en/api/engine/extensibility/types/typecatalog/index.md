@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-types
 aliases: []
 ---
-
-Owns the active type catalog and provides all type discovery and identity queries.

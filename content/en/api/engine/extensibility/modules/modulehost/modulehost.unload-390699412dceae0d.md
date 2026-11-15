@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes several active modules in one catalog transaction, then requests unload in reverse dependency order.
-
 ## Parameters
 
 **Parameter `modules`:** The distinct active module handles to remove.

@@ -13,5 +13,3 @@ reviewed: 7ac3d8b4ae330f50ebe98d1ea2b032e3e795a1ba65ba2187c624ff36882d4cc6
 source: xml
 outdated: false
 ---
-
-Uses inverse-distance attenuation.

@@ -13,5 +13,3 @@ reviewed: b045209c5bf6095abcb408e134fdeb10bd0862925aedc816969988bc0ed9bb4b
 source: xml
 outdated: false
 ---
-
-Never load/save settings in .ini file

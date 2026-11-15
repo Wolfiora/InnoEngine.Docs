@@ -13,5 +13,3 @@ reviewed: d8bb1e6bd4c820201500f0f2a0ac8dd7c9521946da6e39a1b82e510bdb1c116f
 source: xml
 outdated: false
 ---
-
-Gets the implementation's selected callable function name.

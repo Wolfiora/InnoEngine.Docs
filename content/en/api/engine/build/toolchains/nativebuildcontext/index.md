@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Identifies the checkout, configuration and frozen initial inputs owned by one native build operation. Create a new context for each operation; changes during its lifetime fail stability verification.

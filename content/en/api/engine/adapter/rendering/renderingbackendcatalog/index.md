@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering
 aliases: []
 ---
-
-Resolves runtime providers from one immutable composition-owned registration snapshot.

@@ -13,5 +13,3 @@ reviewed: ec8fe5558452396cbde861133448cd35699f36cd2eabe1a89160df0ec76efe84
 source: xml
 outdated: false
 ---
-
-Identifies the F23 presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: 75bf21ace143645b818b7694381a4d347a712368e63d93a5587e1dd7a94a91d8
 source: xml
 outdated: false
 ---
-
-Gets structured diagnostics emitted during the build.

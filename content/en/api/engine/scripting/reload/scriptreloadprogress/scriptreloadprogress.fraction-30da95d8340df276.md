@@ -13,5 +13,3 @@ reviewed: 877db5ce2affb083ba9e7fbb36481704273d40147ab113a36e400afa5d01419d
 source: xml
 outdated: false
 ---
-
-The fraction through compilation, activation and verified retirement.

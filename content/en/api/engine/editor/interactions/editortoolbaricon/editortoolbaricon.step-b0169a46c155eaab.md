@@ -13,5 +13,3 @@ reviewed: 6f98cd70f782399cad286a210819abd179525c850aabffa345fb3014b6c975f8
 source: xml
 outdated: false
 ---
-
-Advances a paused operation by one step.

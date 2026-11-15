@@ -13,5 +13,3 @@ reviewed: 1faf1e78d40ea133edcfc7bbd3c95df19a75d5cbbfbe3d5e5ba13d466313a2bf
 source: xml
 outdated: false
 ---
-
-Compilation, activation, or generation retirement failed, so game simulation must not start.

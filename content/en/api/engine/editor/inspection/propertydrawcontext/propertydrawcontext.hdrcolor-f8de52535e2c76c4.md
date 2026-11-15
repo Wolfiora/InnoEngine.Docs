@@ -13,5 +13,3 @@ reviewed: e74a09b0bc4cfcd248b9a3bc223b8614b1986b7dda06da769b1ac6224c6a01f3
 source: xml
 outdated: false
 ---
-
-Gets whether Color values are unclamped linear floating-point channels.

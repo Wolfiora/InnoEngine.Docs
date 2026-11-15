@@ -13,5 +13,3 @@ reviewed: 7e0596d0898583985b1363e19ee24d64f6e5885a534ce55ca9b7675b9c5b3ae1
 source: xml
 outdated: false
 ---
-
-Identifies the F16 presentation key or modifier.

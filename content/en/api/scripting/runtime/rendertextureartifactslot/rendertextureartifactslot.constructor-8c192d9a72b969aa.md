@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one stable texture slot declaration.
-
 ## Parameters
 
 **Parameter `id`:** Asset-local stable slot identifier.

@@ -13,5 +13,3 @@ reviewed: 3152c2b8352c9d89d6f6a8a6cfd882f702eb48e2df6c7a44aa5e4c557b2787f1
 source: xml
 outdated: false
 ---
-
-Gets input located in this viewport's physical pixels.

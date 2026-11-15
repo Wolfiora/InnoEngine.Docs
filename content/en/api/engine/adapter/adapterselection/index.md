@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter
 aliases: []
 ---
-
-Selects one implementation for every replaceable host backend family.

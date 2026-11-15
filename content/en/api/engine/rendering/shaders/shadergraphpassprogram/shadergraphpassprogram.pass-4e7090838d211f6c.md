@@ -13,5 +13,3 @@ reviewed: 5781b2602a3c341fd74439bead18b5dc9cced427007f2bdb17b0100b2e306b5e
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact pass identity in the runtime shader definition.

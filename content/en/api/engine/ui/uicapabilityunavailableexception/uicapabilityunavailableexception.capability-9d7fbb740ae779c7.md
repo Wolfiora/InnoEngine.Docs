@@ -13,5 +13,3 @@ reviewed: f8278fec473ba47667aad89682b0d319f97d2d4af3e8350df40b3418eac0d92c
 source: xml
 outdated: false
 ---
-
-Gets the unavailable capability.

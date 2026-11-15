@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:System.Numerics.Vector2`.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically sets the complete current state of one diagnostic group owned by the calling type.
-
 ## Parameters
 
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type.

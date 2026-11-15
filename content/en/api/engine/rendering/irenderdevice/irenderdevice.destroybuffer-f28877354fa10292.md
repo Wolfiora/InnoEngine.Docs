@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues a persistent buffer for delayed GPU-safe destruction.
-
 ## Parameters
 
 **Parameter `buffer`:** Buffer owned by this device generation.

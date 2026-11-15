@@ -13,5 +13,3 @@ reviewed: a552e034f0259ff997755a5e9b56124f1ec870363ce029c6747a56d4bf2c14ee
 source: xml
 outdated: false
 ---
-
-Gets the complete source mount snapshot, or null to mount only `P:Inno.Assets.Pipeline.AssetPipelineOptions.assetRoot`.

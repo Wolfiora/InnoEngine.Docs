@@ -13,5 +13,3 @@ reviewed: 1a0a3ae2f60c4b7fbd85a93d57ca8aee05062ff2c9077a8600ca952b19222ef1
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable shader property identifier.

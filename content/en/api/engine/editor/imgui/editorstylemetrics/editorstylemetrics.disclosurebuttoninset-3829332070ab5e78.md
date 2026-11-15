@@ -13,5 +13,3 @@ reviewed: 631aef4be60c8b3801ba5f11bd899b67545285253e8069e1aa6ded59a780d09e
 source: xml
 outdated: false
 ---
-
-Gets card disclosure inset.

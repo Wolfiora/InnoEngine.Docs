@@ -13,5 +13,3 @@ reviewed: 6bbe999eb855c8f545c11024fa014f405ba4246f908658cbf89214e80985c2c2
 source: xml
 outdated: false
 ---
-
-Samples the backend border color outside the texture.

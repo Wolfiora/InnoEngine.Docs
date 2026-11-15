@@ -13,5 +13,3 @@ reviewed: ee10e37d238156b7610d2c7072a23d435b2cd278d7e74c22766e885c04f0b107
 source: xml
 outdated: false
 ---
-
-Gets the profile's exact checkout implementation inputs.

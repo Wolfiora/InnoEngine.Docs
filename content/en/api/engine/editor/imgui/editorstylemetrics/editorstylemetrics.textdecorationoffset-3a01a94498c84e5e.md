@@ -13,5 +13,3 @@ reviewed: af2658d5514a3af85847098c7d7727b87f4e86f8d137b8730157bcede4205573
 source: xml
 outdated: false
 ---
-
-Gets the vertical offset of text decorations from the baseline.

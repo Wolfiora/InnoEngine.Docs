@@ -13,5 +13,3 @@ reviewed: 3ed513819f3366f17c583e7f75b6603ad87af55d0a1f634cbaa9627a26c7c149
 source: xml
 outdated: false
 ---
-
-Always accepts the fragment.

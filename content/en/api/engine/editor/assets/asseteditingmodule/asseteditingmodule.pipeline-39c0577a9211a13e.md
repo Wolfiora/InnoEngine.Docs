@@ -13,5 +13,3 @@ reviewed: ee205a1bc324ae198220386c815e3bf2963a9e6139ffce21014cbf25151148a3
 source: xml
 outdated: false
 ---
-
-Gets the authoritative authoring pipeline; mutations must use its existing ownership protocol.

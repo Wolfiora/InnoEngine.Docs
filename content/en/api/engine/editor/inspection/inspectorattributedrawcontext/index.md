@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Carries the mutable presentation state of one attribute-annotated Inspector property.

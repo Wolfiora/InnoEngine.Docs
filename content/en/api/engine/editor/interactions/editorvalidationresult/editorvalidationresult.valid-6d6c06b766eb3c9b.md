@@ -13,5 +13,3 @@ reviewed: 702c880f4cea2f3bf44c437b49f254597cb348e93bf09800cd2328142e50599c
 source: xml
 outdated: false
 ---
-
-Gets a successful validation result.

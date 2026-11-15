@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an entry is excluded from the source database.
-
 ## Parameters
 
 **Parameter `relativePath`:** The normalized path relative to its owning source mount.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a missing-target diagnostic without retaining extension objects.
-
 ## Parameters
 
 **Parameter `targetId`:** The stable authored target identity.

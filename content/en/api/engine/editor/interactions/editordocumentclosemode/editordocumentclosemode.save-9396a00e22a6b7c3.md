@@ -13,5 +13,3 @@ reviewed: 6b7c9add00e74a21863b8201853ee29e7d9202118281eebbf1c7ede8618f66a4
 source: xml
 outdated: false
 ---
-
-Closes the document after saving.

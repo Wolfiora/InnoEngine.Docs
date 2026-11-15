@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies pending style inputs with the owned context before the backend creates its native frame.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This runtime has retired.

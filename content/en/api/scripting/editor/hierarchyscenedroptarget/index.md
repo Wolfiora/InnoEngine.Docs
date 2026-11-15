@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-panel-hierarchy
 aliases: []
 ---
-
-Identifies a scene row or scene root hierarchy drop target.

@@ -13,5 +13,3 @@ reviewed: 6882d55b0f83c77c0633628b3b3bf0ab1b0eec57432f9526368fb7e0b65eadce
 source: xml
 outdated: false
 ---
-
-Identifies the UpArrow presentation key or modifier.

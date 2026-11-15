@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Declares whether a graph-authored function is pure or intentionally emits ordered effects.

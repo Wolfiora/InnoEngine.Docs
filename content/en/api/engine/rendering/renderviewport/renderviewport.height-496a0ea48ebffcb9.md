@@ -13,5 +13,3 @@ reviewed: f94b7549138ee6e6249e26b6165cb7dc70046b095931e1a4b024d13239631b7a
 source: xml
 outdated: false
 ---
-
-Gets the viewport height.

@@ -13,5 +13,3 @@ reviewed: a41d4bcd27d10ed1c4d6880207bedb71885dfcd54cd0a400eadaa39fe2ec1713
 source: xml
 outdated: false
 ---
-
-Gets or sets the private configuration directory whose assembly was loaded for this invocation.

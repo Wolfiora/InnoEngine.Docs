@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates immutable display data that can safely outlive the extension that described it.
-
 ## Parameters
 
 **Parameter `id`:** The existing graph node identity.

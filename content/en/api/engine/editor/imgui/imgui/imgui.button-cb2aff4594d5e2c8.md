@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a standard button.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional ImGui identity suffix.

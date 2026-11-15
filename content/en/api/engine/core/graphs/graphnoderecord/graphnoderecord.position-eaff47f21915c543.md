@@ -13,5 +13,3 @@ reviewed: c01667187a33d3d78c31d0791e95c834bee18834ccb32c0a141822e33e816c55
 source: xml
 outdated: false
 ---
-
-Gets or sets the graph-space node position.

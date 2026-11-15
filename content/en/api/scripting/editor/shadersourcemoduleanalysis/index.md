@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Reports whether every supplied implementation and variant has the same callable graph interface.

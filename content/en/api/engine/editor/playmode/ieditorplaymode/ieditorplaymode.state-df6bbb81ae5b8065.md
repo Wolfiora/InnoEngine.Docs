@@ -13,5 +13,3 @@ reviewed: 33a1c1ad5239200231d8222a95474e265326a8ffa95c7a2fcfa2d270f95bf318
 source: xml
 outdated: false
 ---
-
-Gets the current Play Mode transition state.

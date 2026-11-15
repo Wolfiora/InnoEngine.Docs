@@ -13,5 +13,3 @@ reviewed: 76e896d338a0521ef68f23d73e56c377937ecd34e73c979f263bfc974b789b7a
 source: xml
 outdated: false
 ---
-
-Identifies the F2 presentation key or modifier.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Columns default to \_WidthStretch with default weights proportional to each columns contents widths.

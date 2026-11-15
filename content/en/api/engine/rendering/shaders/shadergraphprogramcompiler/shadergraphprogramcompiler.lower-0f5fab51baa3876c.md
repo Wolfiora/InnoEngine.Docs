@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the complete pass/stage graph without deleting invalid or unavailable records.
-
 ## Parameters
 
 **Parameter `document`:** Authored graph, copied before validation.

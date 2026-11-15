@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to complete one previously requested texture readback.
-
 ## Parameters
 
 **Parameter `readback`:** Readback handle returned by `M:Inno.Rendering.IRenderDevice.BeginTextureReadback(Inno.Rendering.PersistentTextureHandle,System.Int32)`.

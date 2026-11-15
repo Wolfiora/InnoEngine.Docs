@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces mutable parameters for a live voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice owned by the current device generation.

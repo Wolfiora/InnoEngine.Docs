@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete immutable stencil configuration without relying on init-only setters.
-
 ## Parameters
 
 **Parameter `enabled`:** Whether stencil testing and updates are active.

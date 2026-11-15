@@ -13,5 +13,3 @@ reviewed: d640d413d3fd5c640c2827dbd4f5f53ff585afc7f888bf8cd297f30e6194d76e
 source: xml
 outdated: false
 ---
-
-Selects the alpha presentation behavior.

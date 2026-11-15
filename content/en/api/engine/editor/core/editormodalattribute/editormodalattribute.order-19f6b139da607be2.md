@@ -13,5 +13,3 @@ reviewed: ccbe8af9d767c87567d173f2e771a1b6fc0979792b3913c30c33655fab40c038
 source: xml
 outdated: false
 ---
-
-Gets the stable draw order.

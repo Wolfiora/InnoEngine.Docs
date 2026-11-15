@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns the smallest axis-aligned rectangle containing both supplied rectangles.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

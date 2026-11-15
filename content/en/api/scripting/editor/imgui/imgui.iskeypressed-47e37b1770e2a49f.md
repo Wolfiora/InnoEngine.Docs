@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks a presentation-key press with explicit repeat policy.
-
 ## Parameters
 
 **Parameter `key`:** The presentation key to inspect.

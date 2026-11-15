@@ -13,5 +13,3 @@ reviewed: 71de972e3c7c0d9bafd36b8e9a299784a3e42cb3422f7792221e05befb1e1387
 source: xml
 outdated: false
 ---
-
-Gets the standard border shadow color.

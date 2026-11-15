@@ -13,5 +13,3 @@ reviewed: 0231c8131c6bd4f8d4e31d666907019daf66d11487061bd0b1c0b111043cfc2b
 source: xml
 outdated: false
 ---
-
-Gets immutable target binary bytes.

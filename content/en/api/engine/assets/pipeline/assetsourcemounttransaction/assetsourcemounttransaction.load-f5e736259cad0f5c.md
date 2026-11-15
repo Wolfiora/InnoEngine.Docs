@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads one candidate asset by isolated source path.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required asset type.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the logical viewport identity and copied position for the current window.
-
 ## Returns
 
 The viewport ID and its screen-space origin.

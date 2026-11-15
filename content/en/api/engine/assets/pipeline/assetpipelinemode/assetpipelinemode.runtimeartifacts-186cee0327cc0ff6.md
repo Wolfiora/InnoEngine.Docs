@@ -13,5 +13,3 @@ reviewed: de78534bb31c41f23f600c3c1d6713462fa2f3a73bf6236940bc2f61280af5ae
 source: xml
 outdated: false
 ---
-
-Loads a read-only deployed catalog and its content-addressed artifacts without source files.

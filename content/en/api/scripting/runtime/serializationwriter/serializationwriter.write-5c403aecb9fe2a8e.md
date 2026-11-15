@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Writes a value using its declared metadata type without constructing a generic method at runtime.
-
 ## Parameters
 
 **Parameter `name`:** The unique non-empty member name.

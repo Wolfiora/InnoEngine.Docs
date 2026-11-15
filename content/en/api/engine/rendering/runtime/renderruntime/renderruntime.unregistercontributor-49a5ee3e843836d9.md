@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops invoking a previously registered frame-final contributor.
-
 ## Parameters
 
 **Parameter `contributor`:** Contributor to remove.

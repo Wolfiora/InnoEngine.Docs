@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader technique identifier.
-
 ## Parameters
 
 **Parameter `value`:** Stable technique value within a shader.

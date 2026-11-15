@@ -13,5 +13,3 @@ reviewed: 1a8849da15c6b73925d9b2a13bcf3622f662c91cef12a1c2fb3b438e3b767742
 source: xml
 outdated: false
 ---
-
-Gets the sampling color-space interpretation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph port definition.
-
 ## Parameters
 
 **Parameter `id`:** Stable node-local port identifier.

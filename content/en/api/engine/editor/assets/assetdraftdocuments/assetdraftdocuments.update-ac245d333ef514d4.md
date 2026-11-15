@@ -13,5 +13,3 @@ reviewed: 7dc7cf2f06e4fb522841d6538bebf2a544fd133b6bfec21f9141a2ca3fe96795
 source: xml
 outdated: false
 ---
-
-Imports explicit saves and reconciles source changes without owning UI gesture lifetimes.

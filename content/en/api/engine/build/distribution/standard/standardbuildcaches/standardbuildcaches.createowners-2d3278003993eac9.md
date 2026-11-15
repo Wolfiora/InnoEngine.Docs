@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers exact Native, binding and Support Pack ownership recorded by their publishers. Unrecorded directories remain outside the cleanup authority.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute engine checkout containing the artifact roots.

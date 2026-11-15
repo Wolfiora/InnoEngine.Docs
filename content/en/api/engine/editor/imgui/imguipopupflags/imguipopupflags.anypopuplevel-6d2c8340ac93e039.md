@@ -13,5 +13,3 @@ reviewed: f427a5ca2bd5d1382cf5bebd693b2a08585ba734ccb5de2de25b31731b1d391a
 source: xml
 outdated: false
 ---
-
-For IsPopupOpen(): search/test at any level of the popup stack (default test in the current level)

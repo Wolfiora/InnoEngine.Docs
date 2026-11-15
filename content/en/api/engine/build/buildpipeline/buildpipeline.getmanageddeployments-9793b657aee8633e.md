@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the managed deployment choices supported by a registered publication platform.
-
 ## Parameters
 
 **Parameter `target`:** The registered publication target whose managed runtime requirements are queried.

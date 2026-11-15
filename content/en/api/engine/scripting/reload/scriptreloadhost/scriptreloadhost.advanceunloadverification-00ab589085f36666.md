@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances cooperative unload verification for retired script generations.
-
 ## Parameters
 
 **Parameter `failure`:** Receives the retention failure after all verification attempts, otherwise `null`.

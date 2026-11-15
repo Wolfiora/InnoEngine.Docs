@@ -13,5 +13,3 @@ reviewed: fdec711c2c738ef09df30f0fec7958f7b555e0f417ab9619494ce0863efe5a37
 source: xml
 outdated: false
 ---
-
-Nav: left arrow moves back to parent. This is processed in TreePop() when there's an unfulfilled Left nav request remaining.

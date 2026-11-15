@@ -13,5 +13,3 @@ reviewed: ac198b27090bb5587577f7c95294f6021a60369c6a76a3783bdc80d7d620a942
 source: xml
 outdated: false
 ---
-
-Multiplies by destination alpha.

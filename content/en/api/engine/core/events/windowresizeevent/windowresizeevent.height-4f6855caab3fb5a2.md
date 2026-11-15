@@ -13,5 +13,3 @@ reviewed: 6d3444a5190f0fcbca217cf1218124ed80caa9ce23afd14cff3c3d3dbc4529fe
 source: xml
 outdated: false
 ---
-
-Gets the new window height.

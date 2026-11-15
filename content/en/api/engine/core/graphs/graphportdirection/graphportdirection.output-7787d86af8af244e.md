@@ -13,5 +13,3 @@ reviewed: db2af1162dce8e6ff2c995a8b03c8c171fff447d95da682802500c51d1a73474
 source: xml
 outdated: false
 ---
-
-Produces a value for another node.

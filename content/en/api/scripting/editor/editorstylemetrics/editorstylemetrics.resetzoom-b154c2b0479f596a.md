@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores the baseline editor UI zoom.
-
 ## Returns
 
 `true` when the requested zoom changed.

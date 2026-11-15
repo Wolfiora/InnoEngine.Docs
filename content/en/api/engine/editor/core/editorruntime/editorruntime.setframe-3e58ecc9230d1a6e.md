@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances frame-scoped data and publishes the latest immutable frame.
-
 ## Parameters
 
 **Parameter `frame`:** The frame to publish.

@@ -13,5 +13,3 @@ reviewed: 001d243c42315f33ead3db726750458e26fb6045cd3dc8b056ae2017f240dae3
 source: xml
 outdated: false
 ---
-
-Half-precision four-channel floating-point format.

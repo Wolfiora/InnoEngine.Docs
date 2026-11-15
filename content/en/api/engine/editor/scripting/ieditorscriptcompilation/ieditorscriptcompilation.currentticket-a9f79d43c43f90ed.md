@@ -13,5 +13,3 @@ reviewed: 2e0002d1c3d847b23a52256d3ef847fa46f2da3dc7e647f484d6ccac715563d9
 source: xml
 outdated: false
 ---
-
-Gets the most recently requested compilation ticket, or `null` when no explicit request exists.

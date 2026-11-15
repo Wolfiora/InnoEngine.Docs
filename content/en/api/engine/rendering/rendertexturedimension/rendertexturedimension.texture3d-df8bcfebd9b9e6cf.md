@@ -13,5 +13,3 @@ reviewed: a3b4ef76040c0bff3a234c5f0ef70bba23eaaada5d12c05f1f1d41334bf0224c
 source: xml
 outdated: false
 ---
-
-Three-dimensional volume texture.

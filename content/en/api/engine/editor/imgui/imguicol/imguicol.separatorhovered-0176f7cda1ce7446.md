@@ -13,5 +13,3 @@ reviewed: 34e2dacfd322ae615551ac39ed21603fb5870354fa126ff1f04664cda0103ac5
 source: xml
 outdated: false
 ---
-
-Selects the separator hovered presentation behavior.

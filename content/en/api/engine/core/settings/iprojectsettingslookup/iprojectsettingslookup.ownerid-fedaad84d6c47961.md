@@ -13,5 +13,3 @@ reviewed: 49713a754ae9e810ef8732a209728de22e326cf9e4e1a876b55de2ae0cb62c74
 source: xml
 outdated: false
 ---
-
-Gets the unique lifetime identity of this settings owner; revisions from different owners are not interchangeable.

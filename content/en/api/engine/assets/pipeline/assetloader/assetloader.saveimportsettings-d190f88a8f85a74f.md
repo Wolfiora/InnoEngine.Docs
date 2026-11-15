@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically saves importer settings and reimports the source. Failed imports retain both the saved settings and the previous successful artifact; callers must inspect the returned import status separately from saving.
-
 ## Parameters
 
 **Parameter `path`:** The writable isolated source path.

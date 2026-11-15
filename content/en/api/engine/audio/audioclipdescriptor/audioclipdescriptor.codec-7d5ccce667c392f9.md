@@ -13,5 +13,3 @@ reviewed: 62896f9221160bf62608487116f7165981bedab7049855f7db4340bb621e4561
 source: xml
 outdated: false
 ---
-
-Gets the encoded codec protocol.

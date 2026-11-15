@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes frozen inputs in publisher-owned staging without selecting tools again.
-
 ## Parameters
 
 **Parameter `stagingDirectory`:** The isolated empty directory borrowed for this execution only.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stages shared registration generators and the checkout's actual SDK selection.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The selected complete source checkout.

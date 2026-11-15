@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Indicates whether this instance and a specified object are equal.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with the current instance.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a detached source editor sharing this owner's mounts, native converters and references.
-
 ## Returns
 
 A source store that must not outlive this asset pipeline.

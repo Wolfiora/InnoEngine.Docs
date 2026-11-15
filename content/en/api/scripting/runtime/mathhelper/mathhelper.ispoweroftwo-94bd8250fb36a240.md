@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines if value is powered by two.
-
 ## Returns
 
 `true` if `value` is powered by two; otherwise `false`.

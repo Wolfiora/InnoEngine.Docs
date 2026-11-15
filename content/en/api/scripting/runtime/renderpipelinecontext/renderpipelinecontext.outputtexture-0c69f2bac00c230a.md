@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the imported offscreen target, or an invalid handle for the backbuffer.

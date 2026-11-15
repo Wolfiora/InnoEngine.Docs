@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Returns a recoverable source analysis result and complete original-source dependencies.

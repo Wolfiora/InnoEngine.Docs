@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a target profile without discovering an SDK or executing a generator.
-
 ## Parameters
 
 **Parameter `targetId`:** The engine target identity that may consume this profile.

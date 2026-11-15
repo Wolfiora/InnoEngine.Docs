@@ -13,5 +13,3 @@ reviewed: 3ac514de0fb4412c19100ad1b7aea92519cbab6461300d60ea5d78a266622446
 source: xml
 outdated: false
 ---
-
-Gets the stable logical name used by dependency ordering and replacement transactions.

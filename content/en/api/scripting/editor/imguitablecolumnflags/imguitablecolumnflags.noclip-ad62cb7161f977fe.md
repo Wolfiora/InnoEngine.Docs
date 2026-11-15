@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable clipping for this column (all NoClip columns will render in a same draw command).

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the current shared scale for one Browser presentation pass.
-
 ## Parameters
 
 **Parameter `metrics`:** The existing session metrics; later mutations do not change this value.

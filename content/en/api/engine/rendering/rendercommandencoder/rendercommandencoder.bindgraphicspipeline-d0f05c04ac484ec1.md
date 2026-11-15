@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the graphics pipeline for subsequent draw commands.
-
 ## Parameters
 
 **Parameter `pipeline`:** Graphics pipeline owned by the current device generation.

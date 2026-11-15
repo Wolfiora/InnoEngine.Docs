@@ -13,5 +13,3 @@ reviewed: ca428c2e0399d0ef8940aa696202171e0293035b4268aa51964884f6ee895919
 source: xml
 outdated: false
 ---
-
-Gets whether the submitted frame used an orthographic projection.

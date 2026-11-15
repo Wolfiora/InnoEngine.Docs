@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-States the exact model order and exclusive world-content assignment for one output.

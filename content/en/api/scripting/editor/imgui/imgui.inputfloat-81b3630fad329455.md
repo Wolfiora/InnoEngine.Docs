@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws and edits a floating-point value.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

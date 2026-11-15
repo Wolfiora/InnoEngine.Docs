@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates explicit positive budgets for one content preparation operation.
-
 ## Parameters
 
 **Parameter `packBytes`:** The maximum encoded pack length.

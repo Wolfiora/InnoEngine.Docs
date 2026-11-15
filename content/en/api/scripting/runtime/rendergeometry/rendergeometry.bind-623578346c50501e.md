@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Binds both geometry streams at their first element.
-
 ## Parameters
 
 **Parameter `commands`:** Current pass command encoder.

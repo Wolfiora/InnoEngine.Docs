@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a node or document value through the common native serialization channel.
-
 ## Type parameters
 
 **Type parameter `T`:** Native serializable value type.

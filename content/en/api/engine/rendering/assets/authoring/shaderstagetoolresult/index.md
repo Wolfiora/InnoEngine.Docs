@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Returns a frozen typed-stage compilation candidate; failure never carries a usable artifact.

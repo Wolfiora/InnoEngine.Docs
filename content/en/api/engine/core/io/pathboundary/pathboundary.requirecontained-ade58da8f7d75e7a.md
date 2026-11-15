@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and normalizes an absolute path beneath a root.
-
 ## Parameters
 
 **Parameter `root`:** The owning root directory.

@@ -13,5 +13,3 @@ reviewed: b33555edac9aeb72553a1389fe28b4868083e5b26fda2f4bdfdd86958c800704
 source: xml
 outdated: false
 ---
-
-Gets the declared static build capability without requiring a platform-specific component project.

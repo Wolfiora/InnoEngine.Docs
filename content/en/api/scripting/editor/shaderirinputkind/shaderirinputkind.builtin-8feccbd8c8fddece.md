@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-A standard GPU stage input identified by a target semantic, not native source text.

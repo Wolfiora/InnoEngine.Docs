@@ -13,5 +13,3 @@ reviewed: 964d33a06e439cdb56d53dfeed610ace8b61158d493311401cd55d8890d012d7
 source: xml
 outdated: false
 ---
-
-Gets an identifier that represents process-level work outside an isolated runtime session.

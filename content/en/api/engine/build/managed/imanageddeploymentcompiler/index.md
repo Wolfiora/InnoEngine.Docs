@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Publishes an explicit code closure independently of platform layout, content packaging and signing.

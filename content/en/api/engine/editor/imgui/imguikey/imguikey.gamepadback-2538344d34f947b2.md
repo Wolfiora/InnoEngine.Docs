@@ -13,5 +13,3 @@ reviewed: baed66ee252afdb06ce8bbe7b72f136b6043bc3361a0d227674c065aa3695c7d
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadBack presentation key or modifier.

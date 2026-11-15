@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Coordinates preserved reference slots using the host generation publication and two-phase rollback protocol.
-
 ## Remarks
 
 The generation owner calls these phases at its safe point. This transaction never publishes types or rolls back automatically: old structures must be restored before old converters, and old values after them.

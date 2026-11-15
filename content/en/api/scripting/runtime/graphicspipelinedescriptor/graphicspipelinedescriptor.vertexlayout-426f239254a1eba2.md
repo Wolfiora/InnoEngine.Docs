@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the required mesh vertex layout, or `null` for procedural vertices.

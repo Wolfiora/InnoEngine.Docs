@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a new platform application for the selected backend.
-
 ## Parameters
 
 **Parameter `backend`:** platform implementation selected by the composition root.

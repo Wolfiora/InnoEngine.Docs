@@ -13,5 +13,3 @@ reviewed: dcf6ab883225c9b7c9a20c68e1a740bda8c2074f7dc1dfcb468d5a18b87e5832
 source: xml
 outdated: false
 ---
-
-Releases product resources followed by rendering, input, window, and platform resources.

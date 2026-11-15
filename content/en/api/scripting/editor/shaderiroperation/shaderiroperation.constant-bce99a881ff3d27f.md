@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Produces an exact scalar constant stored as bits, not source-language text.

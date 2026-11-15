@@ -13,5 +13,3 @@ reviewed: 8a7327ab5c2cfd28fc0f8fa7d4889c57e5b8ff5a64f1107bd7ab5a8aaa17dd7f
 source: xml
 outdated: false
 ---
-
-Gets selected content roots.

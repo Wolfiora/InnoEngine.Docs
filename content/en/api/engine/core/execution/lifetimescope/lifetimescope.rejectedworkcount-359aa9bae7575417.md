@@ -13,5 +13,3 @@ reviewed: d13c228ba6f7826600bc89dc5bc60ea189ace6f8ec377bdac35140c3b3f47421
 source: xml
 outdated: false
 ---
-
-Gets work registrations rejected before ownership transfer by finite capacity.

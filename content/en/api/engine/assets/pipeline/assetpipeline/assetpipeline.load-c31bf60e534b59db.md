@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads a canonical asset using a runtime asset type selected by an authoring workflow.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

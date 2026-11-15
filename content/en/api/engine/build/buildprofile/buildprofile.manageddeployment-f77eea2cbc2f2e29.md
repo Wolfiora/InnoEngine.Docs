@@ -13,5 +13,3 @@ reviewed: bd323231e65a7c7a5021852fcbf6a7e6bb24e1eb24aa826521448dad169e5496
 source: xml
 outdated: false
 ---
-
-Gets or sets an explicit managed publisher; null uses the platform composition's default.

@@ -13,5 +13,3 @@ reviewed: 0c63bd9e3a7fa17ff8fe4f3465c287a84cbbb935e4afd434cc2affff8e83994a
 source: xml
 outdated: false
 ---
-
-Gets the reserved archive entry that carries this index and never indexes itself.

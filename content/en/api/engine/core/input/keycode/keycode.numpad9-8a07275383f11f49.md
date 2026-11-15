@@ -13,5 +13,3 @@ reviewed: 5ffcd74c0ae6c89907c5a6dc18a9fb9c35d2dc77a6898dcc8ff23929ff9ac298
 source: xml
 outdated: false
 ---
-
-The 9 key on the numeric keypad.

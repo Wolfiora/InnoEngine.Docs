@@ -13,5 +13,3 @@ reviewed: 717e1130c3159a02edce74bb209cce87e7ae0ecad381924a1dea78ad0bbd9b79
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad4 presentation key or modifier.

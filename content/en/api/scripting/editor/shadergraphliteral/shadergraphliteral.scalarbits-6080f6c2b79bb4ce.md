@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets scalar bit patterns in declaration order; matrices use column-major order.

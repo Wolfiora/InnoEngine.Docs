@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores one stable output port's destination, independent of adapter source syntax.

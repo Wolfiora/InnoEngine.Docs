@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a node property through the existing Inspector controls, including precise numbers and asset picking.
-
 ## Type parameters
 
 **Type parameter `T`:** Supported native property type.

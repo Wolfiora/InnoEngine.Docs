@@ -13,5 +13,3 @@ reviewed: 1cae9ac0df0bd6693160e80a04b7355d6af6cbfd6ac84ac1bbe12405046a52e7
 source: xml
 outdated: false
 ---
-
-Gets the standard filter quality-factor parameter.

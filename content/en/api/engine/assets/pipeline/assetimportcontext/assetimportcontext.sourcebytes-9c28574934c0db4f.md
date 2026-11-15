@@ -13,5 +13,3 @@ reviewed: fac27f85084966ab4ca7ce806859ac12e7cc2ef14a6f4ee9222aaecbab0fcd86
 source: xml
 outdated: false
 ---
-
-Gets the raw source bytes.

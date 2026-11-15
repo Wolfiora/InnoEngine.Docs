@@ -13,5 +13,3 @@ reviewed: 4bb56dfc03f4f15c48bf21349d5c040ca642d389ca9979b585d0dfcecdf6ae36
 source: xml
 outdated: false
 ---
-
-Identifies the T presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: d7235c8b2d9b2aced94e55c370b56a25b2f424b54db125d8e9967ee51dc3d814
 source: xml
 outdated: false
 ---
-
-Gets the requested logical direction.

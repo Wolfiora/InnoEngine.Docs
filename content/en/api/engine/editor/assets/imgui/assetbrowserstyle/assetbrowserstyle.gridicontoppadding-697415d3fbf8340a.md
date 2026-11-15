@@ -13,5 +13,3 @@ reviewed: e772a32fef5046f4a11552567e757c85e23160df38f4c3eff83f6e01a18136b1
 source: xml
 outdated: false
 ---
-
-Gets the top inset reserved above an asset grid icon.

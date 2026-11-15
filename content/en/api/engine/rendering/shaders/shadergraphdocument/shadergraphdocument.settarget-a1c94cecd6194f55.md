@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Assigns a domain target by stable identity without retaining its current provider.
-
 ## Parameters
 
 **Parameter `graph`:** Document being authored.

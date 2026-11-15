@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds one presentation frame by invoking the host draw callback.
-
 ## Parameters
 
 **Parameter `drawFrame`:** Callback that emits presentation commands for the current frame.

@@ -13,5 +13,3 @@ reviewed: 0e822d718740c0a917087dfb4ce3eff6a522b679c4b36bbbaf5d89dd227fa1b2
 source: xml
 outdated: false
 ---
-
-Gets the number of retained offscreen targets.

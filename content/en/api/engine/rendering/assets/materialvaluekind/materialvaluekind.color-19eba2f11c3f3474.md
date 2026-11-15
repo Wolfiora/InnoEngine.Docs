@@ -13,5 +13,3 @@ reviewed: 97939c7c38fbd269e8cf73ab1d0d31afef7f90749889dc85414f558732847eb8
 source: xml
 outdated: false
 ---
-
-Linear color value.

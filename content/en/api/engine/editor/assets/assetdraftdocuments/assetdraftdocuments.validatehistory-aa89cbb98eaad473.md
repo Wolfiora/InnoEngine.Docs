@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a feature's neutral History record without changing the draft.
-
 ## Parameters
 
 **Parameter `change`:** Record owned by the shared History service.

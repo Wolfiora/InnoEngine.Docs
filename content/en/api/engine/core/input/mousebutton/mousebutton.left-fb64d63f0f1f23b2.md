@@ -13,5 +13,3 @@ reviewed: 3fb7d8729533b797afd77448871ef86fa04d572b39559430be60b3f94610562f
 source: xml
 outdated: false
 ---
-
-The left key.

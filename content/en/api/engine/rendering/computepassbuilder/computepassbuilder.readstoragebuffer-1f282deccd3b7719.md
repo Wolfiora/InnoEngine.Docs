@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares an unordered buffer read.
-
 ## Parameters
 
 **Parameter `buffer`:** Storage buffer read by compute work.

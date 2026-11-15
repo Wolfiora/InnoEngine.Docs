@@ -13,5 +13,3 @@ reviewed: d600d479f86fecd3501b8dca18ae641bf7de12ed991381322785c3ffebd9fa4a
 source: xml
 outdated: false
 ---
-
-Gets whether the engine has destroyed this object.

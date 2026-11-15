@@ -13,5 +13,3 @@ reviewed: 2ee56f78ce90d28ba0a61fadc67c6a1f4ab155a1640de07e194632d4c693705f
 source: xml
 outdated: false
 ---
-
-Gets the red channel.

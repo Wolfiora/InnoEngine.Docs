@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Serializes a validated document without changing the file.
-
 ## Parameters
 
 **Parameter `document`:** The document to capture.

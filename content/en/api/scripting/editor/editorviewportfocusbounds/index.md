@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes a world-space sphere that can be framed by host navigation.

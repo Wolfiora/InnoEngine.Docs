@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes a declared absolute tool with an explicitly resolved SDK environment and records the operation cost.
-
 ## Parameters
 
 **Parameter `context`:** The operation owning execution statistics and frozen recipe inputs.

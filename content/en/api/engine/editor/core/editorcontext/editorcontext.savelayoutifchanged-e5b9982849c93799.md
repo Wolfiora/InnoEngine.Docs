@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically saves the project editor layout when it changed.
-
 ## Returns
 
 `true` when a changed document was written.

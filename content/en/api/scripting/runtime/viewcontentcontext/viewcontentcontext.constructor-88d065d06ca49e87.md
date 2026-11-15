@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-scoped content collection context.
-
 ## Parameters
 
 **Parameter `content`:** Ordered roots selected by the host.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies a source texture region into a destination texture region.
-
 ## Parameters
 
 **Parameter `source`:** Frame-scoped source texture.

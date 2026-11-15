@@ -13,5 +13,3 @@ reviewed: d2ad0ccdea5ad84c2bbe8782d78318e65e886fa85a850d69df0e245483e694ce
 source: xml
 outdated: false
 ---
-
-Uses linear-distance attenuation.

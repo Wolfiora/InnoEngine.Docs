@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compact single-line rename editor inside an existing row.
-
 ## Parameters
 
 **Parameter `id`:** The stable control identifier.

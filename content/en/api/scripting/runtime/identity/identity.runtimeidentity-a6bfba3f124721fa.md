@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the domain-qualified runtime identity while this object is registered.
-
 ## Remarks
 
 The value is `null` when this identity is detached or its registry is no longer reachable.

@@ -13,5 +13,3 @@ reviewed: a0cdc037d49388369916c08c7de42bcdf58e87381f8bb37a7c16cb7a456a030c
 source: xml
 outdated: false
 ---
-
-Gets the immutable deployment implementation catalog.

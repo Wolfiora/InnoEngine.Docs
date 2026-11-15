@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two values identify the same runtime domain.
-
 ## Parameters
 
 **Parameter `left`:** The first domain identifier.

@@ -13,5 +13,3 @@ reviewed: fc28f4d4b4c2bfc6c4d09c946cece96ef2776a6b7b2e778349b90db07b051572
 source: xml
 outdated: false
 ---
-
-Gets the array element type, or null for a non-array value.

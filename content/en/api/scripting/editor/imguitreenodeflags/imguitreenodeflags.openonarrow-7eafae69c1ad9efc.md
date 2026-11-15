@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Open when clicking on the arrow part (default for multi-select unless any \_OpenOnXXX behavior is set explicitly). Both behaviors may be combined.

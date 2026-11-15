@@ -13,5 +13,3 @@ reviewed: 1bef2c818dc79249a6f24a9b64ae9b3ad6793184d5b56c8b6fcf928a7e41cf11
 source: xml
 outdated: false
 ---
-
-The assembly domain value used to initialize this instance.

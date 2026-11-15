@@ -13,5 +13,3 @@ reviewed: 790220c0cba7c6fb998673c91f73d88e4127a875c8015d338ee65fbc90d27818
 source: xml
 outdated: false
 ---
-
-Display on the preview box without the square arrow button

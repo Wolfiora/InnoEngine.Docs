@@ -13,5 +13,3 @@ reviewed: 613f3c3acb149a3c05731ee92c9db79895c9d85529c697ae44412a1c96cb5f49
 source: xml
 outdated: false
 ---
-
-Gets the immutable converter generation pinned by the surrounding build transaction.

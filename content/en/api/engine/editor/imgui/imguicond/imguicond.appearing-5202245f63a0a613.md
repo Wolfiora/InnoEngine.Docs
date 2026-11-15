@@ -13,5 +13,3 @@ reviewed: 58d65b4dd14814130395abab58c89ed6cc85206db248f2d28e0230aebaadd977
 source: xml
 outdated: false
 ---
-
-Set the variable if the object/window is appearing after being hidden/inactive (or the first time)

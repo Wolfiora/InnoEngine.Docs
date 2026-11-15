@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Closes one panel in the active extension generation without toggling its current state.
-
 ## Parameters
 
 **Parameter `panelId`:** The stable panel identifier to resolve.

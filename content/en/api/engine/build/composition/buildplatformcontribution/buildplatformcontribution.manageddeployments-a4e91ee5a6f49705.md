@@ -13,5 +13,3 @@ reviewed: f1e851493ebfb76deb61ab7d1b5fbf9386e59cffccb0a7cd171f63d3787983c1
 source: xml
 outdated: false
 ---
-
-Gets the deployment identities this platform authorizes for its declared managed runtime target.

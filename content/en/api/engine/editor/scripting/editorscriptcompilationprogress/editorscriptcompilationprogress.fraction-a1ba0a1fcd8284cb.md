@@ -13,5 +13,3 @@ reviewed: d1735fb853657d721762d4c5fa9acf0250a3c34e6c0f8f6029dc1bc1680285e7
 source: xml
 outdated: false
 ---
-
-The completed fraction of the complete reload workflow.

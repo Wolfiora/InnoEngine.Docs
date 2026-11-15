@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an active feature module for immediate use in the current Editor callback.
-
 ## Type parameters
 
 **Type parameter `TModule`:** The feature module contract to resolve.

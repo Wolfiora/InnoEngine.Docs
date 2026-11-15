@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits a complete candidate or returns the current last-good artifact after failure.
-
 ## Parameters
 
 **Parameter `shaderId`:** Persistent shader asset identity.

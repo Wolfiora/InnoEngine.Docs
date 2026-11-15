@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Provides generation-scoped GPU buffers for an imported geometry helper asset.

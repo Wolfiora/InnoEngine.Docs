@@ -13,5 +13,3 @@ reviewed: 7e88d804637d80f182aadf4dc8d48c28d94f3fabdd4d450437270d68fedb0b32
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadDpadDown presentation key or modifier.

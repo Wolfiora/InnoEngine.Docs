@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares one texture copy operation.
-
 ## Parameters
 
 **Parameter `source`:** Copy source.

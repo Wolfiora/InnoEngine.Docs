@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Describes a creation menu item without retaining a plugin instance.
-
 ## Parameters
 
 **Parameter `id`:** Stable template identity.

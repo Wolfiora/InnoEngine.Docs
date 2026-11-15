@@ -13,5 +13,3 @@ reviewed: 821e3f03e07d4406cbe8dbccbc275c67a986d2825b08b0b218d56bea41204502
 source: xml
 outdated: false
 ---
-
-Gets the resolved presentation-independent symbol.

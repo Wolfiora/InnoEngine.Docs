@@ -13,5 +13,3 @@ reviewed: c5b782ab37d25a65a0aa6520ba77b4fb197625af877a30574ef7f556009e95d0
 source: xml
 outdated: false
 ---
-
-Default if BordersOuterV is on. Enable outermost padding. Generally desirable if you have headers.

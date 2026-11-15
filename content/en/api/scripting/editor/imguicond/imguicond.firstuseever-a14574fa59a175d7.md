@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Set the variable if the object/window has no persistently saved data (no entry in .ini file)

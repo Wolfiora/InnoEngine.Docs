@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares one table column.
-
 ## Parameters
 
 **Parameter `label`:** The column label.

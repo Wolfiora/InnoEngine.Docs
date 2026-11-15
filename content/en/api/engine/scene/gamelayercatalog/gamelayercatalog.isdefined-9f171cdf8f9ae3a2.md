@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a layer slot is defined.
-
 ## Parameters
 
 **Parameter `layer`:** The layer slot to test.

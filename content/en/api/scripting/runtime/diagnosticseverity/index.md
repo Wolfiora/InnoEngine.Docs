@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Defines the presentation severity of a diagnostic.

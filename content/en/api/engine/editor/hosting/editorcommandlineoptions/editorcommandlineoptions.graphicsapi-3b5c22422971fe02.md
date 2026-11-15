@@ -13,5 +13,3 @@ reviewed: bf1c8b00b7a5b52abf409eed18aeef882fc6555558b5f06fcbc2ac962c294448
 source: xml
 outdated: false
 ---
-
-Gets an explicit renderer preference, or null for backend policy.

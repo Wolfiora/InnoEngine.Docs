@@ -13,5 +13,3 @@ reviewed: f042f3491e7e67de89bc74e06e0b20c4a6f058ae5abd196c502209e5e12a83d8
 source: xml
 outdated: false
 ---
-
-Identifies the F presentation key or modifier.

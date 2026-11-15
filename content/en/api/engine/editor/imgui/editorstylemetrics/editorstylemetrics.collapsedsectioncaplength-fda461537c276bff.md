@@ -13,5 +13,3 @@ reviewed: cb2622053d204d4c5ab48c2293767fda3d33ea30b47a779fbcf0e7630f2cc5d9
 source: xml
 outdated: false
 ---
-
-Gets the length of each centered end cap on a collapsed Inspector section.

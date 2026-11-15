@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the reusable feature factory used by Edit and Play runtime sessions.
-
 ## Parameters
 
 **Parameter `session`:** The explicit session owner; it is never exposed through subsystem contracts.

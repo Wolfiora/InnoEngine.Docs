@@ -13,5 +13,3 @@ reviewed: 7961c03442ba73c7116608cdcf1a2cbb485ef2ed1cb1f853d7860f8d4145457c
 source: xml
 outdated: false
 ---
-
-Gets or sets ordered structure member types.

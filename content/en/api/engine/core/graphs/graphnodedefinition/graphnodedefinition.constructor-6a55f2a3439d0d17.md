@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph node definition.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable definition identifier.

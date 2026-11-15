@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the issue with the same code and target, without using its message as identity.
-
 ## Parameters
 
 **Parameter `diagnostic`:** The immutable current issue.

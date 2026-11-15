@@ -13,5 +13,3 @@ reviewed: 8dc187eead2141fc095415ae1a8e41a9e10f129abdd8c8bf32b856b823372883
 source: xml
 outdated: false
 ---
-
-Identifies the Enter presentation key or modifier.

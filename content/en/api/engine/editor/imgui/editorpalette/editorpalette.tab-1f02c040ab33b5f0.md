@@ -13,5 +13,3 @@ reviewed: cdcaa6a580f55eb394b91af3ffe88665a9ad8f1d1b98b0da089a55264ca1ed2c
 source: xml
 outdated: false
 ---
-
-Gets the standard tab color.

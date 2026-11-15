@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a cubic curve without exposing a native draw list or borrowed pointer.
-
 ## Parameters
 
 **Parameter `start`:** The first screen-space endpoint.

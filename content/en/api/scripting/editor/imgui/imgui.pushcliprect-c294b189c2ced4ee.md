@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Clips subsequent controls and drawing to a screen rectangle.
-
 ## Parameters
 
 **Parameter `minimum`:** The inclusive lower bound or upper-left corner.

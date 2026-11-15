@@ -13,5 +13,3 @@ reviewed: cce1e06f9d8790b19ba3f6647a778f7591fff34218d0978f877c234ea6dadec9
 source: xml
 outdated: false
 ---
-
-Gets the portable target identity.

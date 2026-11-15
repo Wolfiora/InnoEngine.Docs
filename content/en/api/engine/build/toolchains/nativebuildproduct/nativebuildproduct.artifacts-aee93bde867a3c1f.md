@@ -13,5 +13,3 @@ reviewed: 8cb04817cdcbb4d07f6010452c300b34708fc9ff4b2c160434b839eac69b6d32
 source: xml
 outdated: false
 ---
-
-Gets the exact producer-declared output and link roles.

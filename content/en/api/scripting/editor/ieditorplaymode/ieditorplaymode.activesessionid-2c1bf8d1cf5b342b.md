@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the active isolated runtime log session, or `P:InnoEngine.Logging.LogSessionId.none` outside a Play Mode request.

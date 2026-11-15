@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Initializes transient provider state for an opened or restored document.
-
 ## Parameters
 
 **Parameter `context`:** Stable document context owned by the host.

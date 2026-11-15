@@ -13,5 +13,3 @@ reviewed: f9ad14c8591487111c71ecbea2bebdc213ef69eccf88a68ca5c003b919bbc60a
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a device texture.

@@ -13,5 +13,3 @@ reviewed: e41d253e70c386a13b8a3ca063cbd04665991710e4b51081cc12fd4fcdded756
 source: xml
 outdated: false
 ---
-
-Gets the stable pass definition.

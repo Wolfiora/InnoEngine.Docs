@@ -13,5 +13,3 @@ reviewed: 9a19370c0e68514b00b3a06c790895d2274e755e8b4e00fd3c56efa28b08ea8d
 source: xml
 outdated: false
 ---
-
-Gets the imported asset type handled by the editor.

@@ -13,5 +13,3 @@ reviewed: b13a440540894c3ce3b873f7b61c1818132b023d923ce0c3c2a77b91055c8a73
 source: xml
 outdated: false
 ---
-
-Cancels pending toolchain work and releases every cached authoring artifact.

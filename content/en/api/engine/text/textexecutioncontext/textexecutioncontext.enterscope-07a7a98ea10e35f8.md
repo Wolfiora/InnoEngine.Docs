@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a text service until the returned strict last-in-first-out scope is disposed.
-
 ## Parameters
 
 **Parameter `text`:** The host-owned text service.

@@ -13,5 +13,3 @@ reviewed: 7235fac3abe9feb244fb784ff9ffd34f1af865803bd75926aac819d2e9b3221e
 source: xml
 outdated: false
 ---
-
-Gets scrollbar width.

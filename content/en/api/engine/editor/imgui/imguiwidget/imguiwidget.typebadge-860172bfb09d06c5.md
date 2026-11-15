@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compact, non-interactive type badge with a subdued fill and semantic outline.
-
 ## Parameters
 
 **Parameter `label`:** Visible type name.

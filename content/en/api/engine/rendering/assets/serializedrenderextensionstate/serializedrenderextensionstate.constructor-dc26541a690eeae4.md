@@ -13,5 +13,3 @@ reviewed: ea8e1d29bdfb53f4a90ffbe6b39f12bbe70603899c25efbb28edeaaee8a32673
 source: xml
 outdated: false
 ---
-
-Creates empty extension state for deserialization.

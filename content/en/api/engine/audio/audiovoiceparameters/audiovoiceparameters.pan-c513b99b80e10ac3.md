@@ -13,5 +13,3 @@ reviewed: b10621b9f4e2cd85db512441b86a186ecbff4f367e2cbe1921ffab6f058252e9
 source: xml
 outdated: false
 ---
-
-Gets the stereo pan value.

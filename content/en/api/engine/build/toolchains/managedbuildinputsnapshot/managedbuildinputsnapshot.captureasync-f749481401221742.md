@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates an explicit managed graph using its frozen SDK and hashes its declared compilation inputs.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed operation that owns phase-local content reads and tool statistics.

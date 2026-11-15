@@ -13,5 +13,3 @@ reviewed: e93ac19f34e93489dccb876378cbf86f5569260f7b5f576c91088a94f69be025
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the intended target, or an empty value when unassigned.

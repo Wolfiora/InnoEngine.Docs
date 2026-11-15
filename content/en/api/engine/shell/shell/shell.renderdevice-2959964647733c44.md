@@ -13,5 +13,3 @@ reviewed: b5e82209ad3993e4512b5f39ca7122524840f3267e3ccf0667bcbb446e428ab4
 source: xml
 outdated: false
 ---
-
-Gets the active backend-neutral rendering device.

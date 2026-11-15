@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets direct or transitive runtime dependencies of an asset.
-
 ## Parameters
 
 **Parameter `asset`:** The asset to query.

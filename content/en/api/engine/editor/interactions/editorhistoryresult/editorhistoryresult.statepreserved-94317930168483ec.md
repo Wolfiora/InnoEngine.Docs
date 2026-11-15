@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a failed transition restored the domain state that existed before the attempt.
-
 ## Remarks
 
 Successful results always preserve a valid state. A failed result with this value set to `false` faults the owning history because the transition can no longer be retried safely.

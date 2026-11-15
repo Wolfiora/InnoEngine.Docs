@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the current opaque device texture for UI presentation.
-
 ## Parameters
 
 **Parameter `target`:** Persistent target description.

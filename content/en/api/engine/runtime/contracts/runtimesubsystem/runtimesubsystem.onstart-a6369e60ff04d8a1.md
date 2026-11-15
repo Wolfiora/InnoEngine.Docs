@@ -13,5 +13,3 @@ reviewed: 07f235b8c6458121141f8ef6c9fb9b5b755f0113e226ea1b6628ff8d82f06851
 source: xml
 outdated: false
 ---
-
-Acquires resources after dependencies have started.

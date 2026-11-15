@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates the exact view used to render content into a viewport.
-
 ## Parameters
 
 **Parameter `id`:** Stable identity within the current output session.

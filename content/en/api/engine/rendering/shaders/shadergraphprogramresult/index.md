@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Contains the result of lowering an entire shader graph, before target-native compilation.

@@ -13,5 +13,3 @@ reviewed: 952217a4cfd9a33a6b7d83ef7dac47f8273b57cda9c22697d96b92a3371dc075
 source: xml
 outdated: false
 ---
-
-The 2 key on the numeric keypad.

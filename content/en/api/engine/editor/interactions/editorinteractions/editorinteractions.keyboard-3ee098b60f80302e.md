@@ -13,5 +13,3 @@ reviewed: 248a5f020b10c75a227806cfcb521552e6d93db7d0f19245f0f6a07728ffcc1f
 source: xml
 outdated: false
 ---
-
-Gets the immutable product keyboard policy used by commands and selection controls.

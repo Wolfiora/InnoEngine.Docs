@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Persists one project-authored override through the native settings document.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting protocol identity.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a complete owner-produced property value.
-
 ## Parameters
 
 **Parameter `stableTypeId`:** Persistent identity of the exact serialized settings type.

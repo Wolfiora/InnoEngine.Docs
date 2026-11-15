@@ -13,5 +13,3 @@ reviewed: 8e619f90e798b12da8a75936d8836a55a4fa5e2e74002dfab675cb7ae24c8918
 source: xml
 outdated: false
 ---
-
-Gets the uniform spacing between editor context-menu items.

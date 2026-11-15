@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Advances deterministic audio state without opening an operating-system output device.
-
 ## Remarks
 
 This device is used for headless tests and explicit no-device recovery. It never claims audible output.

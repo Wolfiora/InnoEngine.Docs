@@ -13,5 +13,3 @@ reviewed: 7bfbcdeffbf3bd519ae1708f8e0080d3dcc286b1d1e14c828fea28632628f5bc
 source: xml
 outdated: false
 ---
-
-// ColorPicker: wheel for Hue, triangle for Sat/Value.

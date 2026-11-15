@@ -13,5 +13,3 @@ reviewed: cd6a483af9dc7994481b21db0e0f5ac12cdc0a8e7b0825b938d1180e6de1ec6f
 source: xml
 outdated: false
 ---
-
-Selects the rect only presentation behavior.

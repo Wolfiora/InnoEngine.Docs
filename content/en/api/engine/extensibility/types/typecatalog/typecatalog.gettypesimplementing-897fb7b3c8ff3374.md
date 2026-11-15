@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all non-abstract discovered types implementing `TInterface`.
-
 ## Type parameters
 
 **Type parameter `TInterface`:** The required interface.

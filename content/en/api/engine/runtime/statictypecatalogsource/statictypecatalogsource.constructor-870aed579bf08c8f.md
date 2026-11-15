@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes generated contributions once and freezes the resulting metadata and factory closure.
-
 ## Parameters
 
 **Parameter `catalogs`:** Assembly-local registration methods. Callbacks and the registrar are released after construction.

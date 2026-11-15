@@ -13,5 +13,3 @@ reviewed: c980e57cccd76d0b176c15c209c7517a3e773f05da42132523d7fff8f06847a3
 source: xml
 outdated: false
 ---
-
-Gets resources owned by this pipeline, not by a global container.

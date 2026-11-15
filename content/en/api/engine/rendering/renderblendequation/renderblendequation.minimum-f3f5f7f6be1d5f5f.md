@@ -13,5 +13,3 @@ reviewed: 6e3fe15b68b5c0388a95e66f690a985efa4e78507e07f6200b174360f2193dbc
 source: xml
 outdated: false
 ---
-
-Selects the component-wise minimum.

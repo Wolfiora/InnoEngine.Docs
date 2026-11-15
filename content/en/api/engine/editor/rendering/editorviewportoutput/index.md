@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Identifies a renderer-owned editor viewport image through an opaque presentation token.

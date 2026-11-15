@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns true if the value is finite (not NaN or infinity).
-
 ## Returns
 
 `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

@@ -13,5 +13,3 @@ reviewed: e6254cc67be13e4acdb32088e86bdf6cc118afd910321dc450b2b832af258dbc
 source: xml
 outdated: false
 ---
-
-Gets whether this event or any routed representation has been globally consumed.

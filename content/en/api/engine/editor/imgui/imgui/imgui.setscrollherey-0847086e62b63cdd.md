@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Scrolls the most recently submitted control into the requested relative position.
-
 ## Parameters
 
 **Parameter `ratio`:** The relative alignment from zero through one.

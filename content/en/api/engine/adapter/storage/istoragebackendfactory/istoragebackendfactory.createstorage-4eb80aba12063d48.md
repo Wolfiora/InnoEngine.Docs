@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates isolated storage for a logical application namespace.
-
 ## Parameters
 
 **Parameter `backend`:** storage implementation selected by the composition root.

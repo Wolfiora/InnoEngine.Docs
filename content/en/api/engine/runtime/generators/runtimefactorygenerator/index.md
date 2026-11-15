@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-generators
 aliases: []
 ---
-
-Composes explicit assembly-local metadata catalogs for a Player entry project selected by its build.

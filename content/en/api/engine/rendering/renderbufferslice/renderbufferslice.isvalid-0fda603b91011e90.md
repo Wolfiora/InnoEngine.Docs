@@ -13,5 +13,3 @@ reviewed: 8e4a9a26af9f3c111a6b47af4727a1d79381613a1ceaed6a6be4e7fbab89aa4e
 source: xml
 outdated: false
 ---
-
-Gets whether this slice was produced by a frame upload service.

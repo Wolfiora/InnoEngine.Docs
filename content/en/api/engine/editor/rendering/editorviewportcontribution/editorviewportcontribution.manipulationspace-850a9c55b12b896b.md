@@ -13,5 +13,3 @@ reviewed: 0541c9dd8b0ede90683b17f63bbb60b31cd599c776e8f1d8df3486418f9eaf8d
 source: xml
 outdated: false
 ---
-
-Gets the optional exact view/projection contract used by host-owned transform manipulation tools.

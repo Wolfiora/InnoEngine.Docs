@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requires product configuration for the exact component before its recipe or tools execute.
-
 ## Parameters
 
 **Parameter `component`:** The component requesting its scoped configuration.

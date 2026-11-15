@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-text#provider-and-ownership-contract
 aliases: []
 ---
-
-Creates isolated text backends without exposing implementation assemblies to composition code.

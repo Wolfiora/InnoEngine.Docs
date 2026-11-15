@@ -13,5 +13,3 @@ reviewed: 8736b485d017c29296d678f3f237253e6059a23fca39a16da1aa87c9aa9a2ffd
 source: xml
 outdated: false
 ---
-
-Narrow hit box + narrow hovering highlight, will only cover the label text.

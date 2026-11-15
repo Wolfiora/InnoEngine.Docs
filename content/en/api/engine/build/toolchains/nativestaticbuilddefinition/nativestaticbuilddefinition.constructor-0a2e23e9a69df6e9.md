@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes the component's CMake entry point, source dependencies and exact installed archive names.
-
 ## Parameters
 
 **Parameter `cmakeFile`:** The portable checkout-relative component definition.

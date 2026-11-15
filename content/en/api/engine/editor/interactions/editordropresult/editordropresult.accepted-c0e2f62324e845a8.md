@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an accepted drop result with optional presentation requests.
-
 ## Parameters
 
 **Parameter `selectionTarget`:** An optional object that the originating view should select.

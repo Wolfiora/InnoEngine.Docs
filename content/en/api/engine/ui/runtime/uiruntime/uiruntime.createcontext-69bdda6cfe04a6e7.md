@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a context using this implementation's validated inputs.
-
 ## Parameters
 
 **Parameter `options`:** The validated configuration that controls this operation.

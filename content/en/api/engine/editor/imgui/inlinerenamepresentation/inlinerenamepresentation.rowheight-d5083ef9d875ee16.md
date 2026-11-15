@@ -13,5 +13,3 @@ reviewed: ef889e90b61c47256f697768075a78d0ff9ffc9ad21e9d1b9ca3e80936f3f49c
 source: xml
 outdated: false
 ---
-
-Gets the height of the row area in which the input field is centered.

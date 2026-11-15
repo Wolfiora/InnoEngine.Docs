@@ -13,5 +13,3 @@ reviewed: ec3809a9f5c8fc594e88391e4c2f33ff1d76c5565383aed0220f7d34f75fe410
 source: xml
 outdated: false
 ---
-
-Whether this file is a translation unit rather than an include dependency.

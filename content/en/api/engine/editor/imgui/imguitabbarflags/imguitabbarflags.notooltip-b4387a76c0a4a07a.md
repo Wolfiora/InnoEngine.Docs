@@ -13,5 +13,3 @@ reviewed: 7ddd2669bc0828d4b0529624478426742b7f9f292f6ca8b92d74d8b67e43f495
 source: xml
 outdated: false
 ---
-
-Disable tooltips when hovering a tab

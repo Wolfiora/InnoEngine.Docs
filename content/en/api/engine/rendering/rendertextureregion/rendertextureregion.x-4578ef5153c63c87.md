@@ -13,5 +13,3 @@ reviewed: f84b46a8d0a8a6c9933a91a37445c743d466d3d8b03cc256417f2e55862b27c8
 source: xml
 outdated: false
 ---
-
-Gets the horizontal texel origin.

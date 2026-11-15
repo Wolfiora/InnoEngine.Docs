@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Provides backend-neutral interpolation and weighted composition used by animation runtimes.

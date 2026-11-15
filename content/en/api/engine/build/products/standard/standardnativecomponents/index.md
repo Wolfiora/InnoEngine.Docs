@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-products-standard
 aliases: []
 ---
-
-Declares the standard product closures while keeping backend selection out of shared build mechanisms.

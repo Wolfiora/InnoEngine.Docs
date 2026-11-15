@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Prepares file-based product inputs using injected target tools, source locations and native closure.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-audio#provider-ownership-contract
 aliases: []
 ---
-
-Resolves audio providers from one immutable, composition-owned registration snapshot.

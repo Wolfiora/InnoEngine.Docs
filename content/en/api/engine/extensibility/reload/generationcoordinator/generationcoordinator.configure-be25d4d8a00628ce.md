@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Configures collection cadence before beginning a generation or retirement.
-
 ## Parameters
 
 **Parameter `options`:** The collection and retention policy, copied by the coordinator.

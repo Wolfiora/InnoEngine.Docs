@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable capability description.
-
 ## Parameters
 
 **Parameter `documentLanguages`:** Explicit source languages accepted by the backend.

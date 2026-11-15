@@ -13,5 +13,3 @@ reviewed: 194c2ec68e72bf33426967d25901c9139de173acfa47d6e0ebaf2a0f3163143a
 source: xml
 outdated: false
 ---
-
-Flushes actions queued during the current presentation traversal.

@@ -13,5 +13,3 @@ reviewed: b32210a837582a89da47aa234513f3d0becf5e97f46283433f3a76c6bb4ee641
 source: xml
 outdated: false
 ---
-
-Gets the number of active dockable panels.

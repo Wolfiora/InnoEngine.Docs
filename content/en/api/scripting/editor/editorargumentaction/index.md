@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Defines a targetless editor action that requires one strongly typed command argument.
-
 ## Type parameters
 
 **Type parameter `TArgument`:** The command argument type accepted by the action.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws the selected node's controls using the shared Inspector styling.
-
 ## Parameters
 
 **Parameter `context`:** Frame-scoped value access and undoable writes.

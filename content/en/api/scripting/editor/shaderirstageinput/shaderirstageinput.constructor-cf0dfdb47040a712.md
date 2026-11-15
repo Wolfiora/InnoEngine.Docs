@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable stage input binding.
-
 ## Parameters
 
 **Parameter `id`:** Stable binding identity, also used by the block's named Input instruction.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes source using an explicitly selected language.
-
 ## Parameters
 
 **Parameter `languageId`:** Registered language identity, never inferred from the active graphics API.

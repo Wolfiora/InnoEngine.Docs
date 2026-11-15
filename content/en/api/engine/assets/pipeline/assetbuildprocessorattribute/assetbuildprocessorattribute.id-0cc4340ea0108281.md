@@ -13,5 +13,3 @@ reviewed: c4fb143aacb1b4c5e0e9c2b9ade6703f14e8d3acdd5ffcc468b59b2f3534446f
 source: xml
 outdated: false
 ---
-
-Gets the globally stable build processor identifier.

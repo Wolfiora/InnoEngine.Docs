@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Describes a missing extension using generation-neutral identities.
-
 ## Parameters
 
 **Parameter `extensionKind`:** The stable extension protocol identity.

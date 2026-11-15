@@ -13,5 +13,3 @@ reviewed: bbec1a9b836f21eafe25458a7d82e8a643d1f102498f24f9a017145b49b87ef1
 source: xml
 outdated: false
 ---
-
-Selects the frame border size presentation behavior.

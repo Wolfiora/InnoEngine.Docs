@@ -13,5 +13,3 @@ reviewed: 346f5fd297ea55dfcb32a36562966beedc3461c0824cf8b94dda47a323add9d8
 source: xml
 outdated: false
 ---
-
-Gets the midpoint derived from the rectangle bounds.

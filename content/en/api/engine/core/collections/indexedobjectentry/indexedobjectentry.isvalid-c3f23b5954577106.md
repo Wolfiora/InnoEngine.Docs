@@ -13,5 +13,3 @@ reviewed: a8efb77c2f11bb31015144bbf5001500ab40a9eb51c7654cb91efdbb76b0ab9e
 source: xml
 outdated: false
 ---
-
-Returns true if the entry is still valid in its owning store.

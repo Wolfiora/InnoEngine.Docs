@@ -13,5 +13,3 @@ reviewed: 12e296804ffb9549f34bf25346c6b2a4879478b94fd06d1a65a5ee2491591fda
 source: xml
 outdated: false
 ---
-
-Gets the neutral numeric value.

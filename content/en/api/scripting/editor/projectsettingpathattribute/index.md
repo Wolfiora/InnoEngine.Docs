@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Places a strongly typed project setting editor under the Project root of the unified Settings window.

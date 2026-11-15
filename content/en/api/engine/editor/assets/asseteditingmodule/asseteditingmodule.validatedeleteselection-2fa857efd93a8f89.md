@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks the entire source selection before a batch mutation, including extension validation and read-only ownership.
-
 ## Parameters
 
 **Parameter `editor`:** The immediate Editor context.

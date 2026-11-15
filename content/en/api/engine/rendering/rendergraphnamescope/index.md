@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Owns one nested diagnostic-name prefix in a render graph builder.

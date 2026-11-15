@@ -13,5 +13,3 @@ reviewed: 36cb8faf9066803d0debce3954b62d0d222ac8dd5540972e948ce08f1c808125
 source: xml
 outdated: false
 ---
-
-Gets the declared value flow.

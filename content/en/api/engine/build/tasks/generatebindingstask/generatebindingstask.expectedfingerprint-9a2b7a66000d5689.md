@@ -13,5 +13,3 @@ reviewed: a1aa62525b87ea32cbcd293f5a3948876b052870e98504a13b2d894d75793fde
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional expected identity; stale requests fail before generation.

@@ -13,5 +13,3 @@ reviewed: 7479f2794743e527d67266c989022f570044e962eeded42697504fbe4ed77017
 source: xml
 outdated: false
 ---
-
-Gets the complete immutable current-frame snapshot.

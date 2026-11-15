@@ -13,5 +13,3 @@ reviewed: ed248a98f0299efd7c1dbd8b7eec45199a96a9308c6dcc93062ea21209b2d833
 source: xml
 outdated: false
 ---
-
-Gets the shared-library suffix declared by the selected SDK, or null for an SDK-independent producer.

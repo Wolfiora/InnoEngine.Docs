@@ -13,5 +13,3 @@ reviewed: e437dedf344de2c936667b59943899241b9025acb9795754c5e590995499e680
 source: xml
 outdated: false
 ---
-
-Gets the pen glyph used by standard Editor controls.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases the unmanaged resources used by the `T:System.IO.Stream` and optionally releases the managed resources.
-
 ## Parameters
 
 **Parameter `disposing`:** `true` to release both managed and unmanaged resources; `false` to release only unmanaged resources.

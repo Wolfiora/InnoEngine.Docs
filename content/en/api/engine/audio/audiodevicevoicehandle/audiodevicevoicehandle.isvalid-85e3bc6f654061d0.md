@@ -13,5 +13,3 @@ reviewed: 25b21e069736fd58d2ab2270b7018323150c79b93b9a1be5409a95e4f71b3233
 source: xml
 outdated: false
 ---
-
-Gets whether this value identifies a backend allocation.

@@ -13,5 +13,3 @@ reviewed: 50878a25af6e0425c9ba874723ab37424b7713926eec3c132c6dde174202abc7
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad8 presentation key or modifier.

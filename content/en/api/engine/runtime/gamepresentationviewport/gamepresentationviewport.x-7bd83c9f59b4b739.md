@@ -13,5 +13,3 @@ reviewed: 734eb67a858119df5a6b5436812d46f799d7d1f59b13555e3dcb765d62229d00
 source: xml
 outdated: false
 ---
-
-Gets the horizontal content offset.

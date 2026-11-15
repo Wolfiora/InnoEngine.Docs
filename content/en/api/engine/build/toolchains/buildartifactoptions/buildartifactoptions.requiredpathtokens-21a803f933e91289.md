@@ -13,5 +13,3 @@ reviewed: b64374301864d2214b6427b98c392cd4f5c1585dbf497193b13aeb82e61511c3
 source: xml
 outdated: false
 ---
-
-Optional normalized path tokens used to reject unrelated intermediate files.

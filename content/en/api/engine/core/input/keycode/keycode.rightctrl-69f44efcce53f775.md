@@ -13,5 +13,3 @@ reviewed: 915bb1ef1d64df61d7aac3132aa64fc171b080444ede17487d2bdd6eaf7367be
 source: xml
 outdated: false
 ---
-
-The right ctrl key.

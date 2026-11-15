@@ -13,5 +13,3 @@ reviewed: 41856e94cc771e9478a6b12a7556b60a8c8e54113e5d11d72d0191d867e6c709
 source: xml
 outdated: false
 ---
-
-Gets or sets the primary platform window used as the presentation surface.

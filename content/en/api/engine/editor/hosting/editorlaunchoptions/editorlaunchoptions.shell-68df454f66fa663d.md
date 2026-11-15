@@ -13,5 +13,3 @@ reviewed: f4c91aa6f5a0044c00aa84e5504e8ffcc88fe4fd0b92f2392569d83ac22ce445
 source: xml
 outdated: false
 ---
-
-Gets explicit backend, primary-window and rendering policy selected by the product.

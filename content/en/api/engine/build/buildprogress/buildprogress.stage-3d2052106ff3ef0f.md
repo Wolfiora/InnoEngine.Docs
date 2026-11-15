@@ -13,5 +13,3 @@ reviewed: 37bf14ec50ddf83b534305ff5e5bcb18076bf041fa22df2ec2ba878b94e5a666
 source: xml
 outdated: false
 ---
-
-Gets the stable build stage name.

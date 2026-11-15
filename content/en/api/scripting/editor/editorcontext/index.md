@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Provides passive project and frame state shared by editor extensions. Interaction routing is supplied separately by Inno.Editor.Interactions.

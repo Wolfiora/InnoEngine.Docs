@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asks the selected host to resolve its SDK from the project location without guessing installed versions.
-
 ## Parameters
 
 **Parameter `hostPath`:** The .NET executable selected by the build composition root.

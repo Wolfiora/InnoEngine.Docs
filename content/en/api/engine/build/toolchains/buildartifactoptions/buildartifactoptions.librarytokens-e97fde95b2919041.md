@@ -13,5 +13,3 @@ reviewed: 93d23bc1e6cf028e0f8af6c60065e316d40f57af93054adb0682f1a9eb496ec1
 source: xml
 outdated: false
 ---
-
-File-name tokens that identify artifacts belonging to the product.

@@ -13,5 +13,3 @@ reviewed: 37106fbe802dab80ce6e630a9b3dac40e33271c0529099e8f83bd9d372af0575
 source: xml
 outdated: false
 ---
-
-The space key.

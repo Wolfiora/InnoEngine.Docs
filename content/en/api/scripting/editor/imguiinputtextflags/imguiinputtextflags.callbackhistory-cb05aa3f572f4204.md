@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Callback on pressing Up/Down arrows (for history handling)

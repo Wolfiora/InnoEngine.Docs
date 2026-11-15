@@ -13,5 +13,3 @@ reviewed: d774f92af520475f4a73dbf0001671f4f24b22ebd07bba2e6ddc65e70cf7ae5c
 source: xml
 outdated: false
 ---
-
-Gets the encoded sample rate in frames per second.

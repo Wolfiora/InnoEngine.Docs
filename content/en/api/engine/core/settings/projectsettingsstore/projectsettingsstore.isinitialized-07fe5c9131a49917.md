@@ -13,5 +13,3 @@ reviewed: da0c7e86949402308ca88c9e1a26ae8385b6b38aef693121159708a416410077
 source: xml
 outdated: false
 ---
-
-Gets whether project settings are initialized.

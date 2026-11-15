@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes an existing ordered set of independent property snapshots as neutral restoration bytes.
-
 ## Parameters
 
 **Parameter `snapshots`:** Snapshots previously produced by `M:Inno.Core.Serialization.SerializationRegistry.CaptureProperties(Inno.Core.Serialization.ISerializable,Inno.Core.Serialization.SerializationContext)`.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one independent editor layout section snapshot.
-
 ## Parameters
 
 **Parameter `sectionName`:** The section name without its INI header syntax.

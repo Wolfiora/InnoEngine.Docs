@@ -13,5 +13,3 @@ reviewed: 36e693e40777315d824228af7686ee8762b90ca0be0f56245714c24b58013d58
 source: xml
 outdated: false
 ---
-
-Gets encoded bytes reserved by cold-load closures, including completed IO awaiting owner publication.

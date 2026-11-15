@@ -13,5 +13,3 @@ reviewed: eabffae9847e6146282fa83f1148a91a9ad2dbdbcab62f762258066b50612814
 source: xml
 outdated: false
 ---
-
-Gets the editable settings copy, or null for an importer without settings.

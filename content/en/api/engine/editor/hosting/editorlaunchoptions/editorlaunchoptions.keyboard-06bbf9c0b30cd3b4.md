@@ -13,5 +13,3 @@ reviewed: 52af17dbcd61d202ef2f838cef41cf53f701849b0a94752602d18211137c1711
 source: xml
 outdated: false
 ---
-
-Gets explicit keyboard conventions selected by the Editor product.

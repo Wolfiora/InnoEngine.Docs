@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset change descriptor.
-
 ## Parameters
 
 **Parameter `kind`:** Committed change kind.

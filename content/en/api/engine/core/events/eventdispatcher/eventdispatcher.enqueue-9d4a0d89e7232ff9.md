@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enqueues an event for later processing via `M:Inno.Core.Events.EventDispatcher.Flush`.
-
 ## Parameters
 
 **Parameter `e`:** The event instance to enqueue.

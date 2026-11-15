@@ -13,5 +13,3 @@ reviewed: f01e391172711497d19e0b3b58f7f2d9aa876ba70f0a0c4c91b54776c5ccdff9
 source: xml
 outdated: false
 ---
-
-Gets the encoded artifact length in bytes.

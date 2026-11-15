@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the unsigned angle in radians between two values.
-
 ## Parameters
 
 **Parameter `from`:** The starting value used by the operation.

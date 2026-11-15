@@ -13,5 +13,3 @@ reviewed: fcbd7572b2595c3e99c2faf744e8dfa2ab3effd46451bc8de4b81114da3b335b
 source: xml
 outdated: false
 ---
-
-Gets or initializes the stable application identifier used to isolate persistent data.

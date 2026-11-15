@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates common adapter resources after a derived product has prepared its non-window bootstrap state.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when common adapter resources are already initialized.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes linked assembly ownership before the Player opens its runtime session.
-
 ## Parameters
 
 **Parameter `deployment`:** The build-generated code identity closure.

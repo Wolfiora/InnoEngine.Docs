@@ -13,5 +13,3 @@ reviewed: 4cb3edcaa30f171b39101c49091bced3d51526d869f36b354b8313ef5721da49
 source: xml
 outdated: false
 ---
-
-Multiplies by source color.

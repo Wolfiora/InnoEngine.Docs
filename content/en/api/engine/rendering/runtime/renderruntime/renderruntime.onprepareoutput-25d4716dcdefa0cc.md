@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens resources required for this frame's output.
-
 ## Parameters
 
 **Parameter `frame`:** The variable frame timing.

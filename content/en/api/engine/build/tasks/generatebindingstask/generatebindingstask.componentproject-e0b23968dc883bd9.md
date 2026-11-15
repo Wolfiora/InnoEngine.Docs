@@ -13,5 +13,3 @@ reviewed: 273d9491863542020b7f57150ce9acc84c2af7ce69682239619a3acfff345b51
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute Native owner project, which must belong to this checkout.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Transforms the supplied value by the requested transformation.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

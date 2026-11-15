@@ -13,5 +13,3 @@ reviewed: f7c25b9909755412f644c524f4bd0be410ece546977d06c1f8282cc219b68577
 source: xml
 outdated: false
 ---
-
-Gets the non-zero logical device generation.

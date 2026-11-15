@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Occurs when a diagnostic presentation sink fails and is quarantined.
-
 ## Remarks
 
 Observers execute synchronously during publication. Without an observer, or when an observer throws, the current implementation reports to standard error; a failure of that secondary writer can propagate. Unregistration or quarantine does not dispose the presentation sink.

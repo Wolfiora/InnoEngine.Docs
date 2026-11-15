@@ -13,5 +13,3 @@ reviewed: ca9389ecb8afee3c7999404cc28d12089eda0c8930639f86cc6bd33e49b6f0e7
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity used across assembly generations and process launches.

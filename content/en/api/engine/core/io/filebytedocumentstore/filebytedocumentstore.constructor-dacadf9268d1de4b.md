@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects one host-owned absolute document location.
-
 ## Parameters
 
 **Parameter `path`:** The absolute file path; its parent directory is prepared only when writing.

@@ -13,5 +13,3 @@ reviewed: 3ba8f5b7460465f08fefedff1eddd21b12f37ae6309cc9d7f80aa99f0ac48245
 source: xml
 outdated: false
 ---
-
-Gets a concise human-readable status message.

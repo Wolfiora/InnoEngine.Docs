@@ -13,5 +13,3 @@ reviewed: 3c8de2c717d473ccdb6d13463ffa89ed3cbb11244389fcf8a9d43f65f393a7cb
 source: xml
 outdated: false
 ---
-
-Produces libraries loaded by the deployed product.

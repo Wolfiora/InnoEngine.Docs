@@ -13,5 +13,3 @@ reviewed: b54cca805a341dcc10d4d62a465740d26cfe5cca9479a6e7c52aca9aa94ff837
 source: xml
 outdated: false
 ---
-
-Gets or sets the globally stable setting value.

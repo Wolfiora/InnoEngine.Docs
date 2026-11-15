@@ -13,5 +13,3 @@ reviewed: 79443083e2895d5093f4a18b8e231c48d37516cbcd688d71ef8754fead462602
 source: xml
 outdated: false
 ---
-
-Releases registry snapshots and generation-local setting objects.

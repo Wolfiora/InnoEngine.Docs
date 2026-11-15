@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Raised when the window size changes.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: 26f1576d5ba3a9bf280022eb292446d9ea22f41c5ae716c4a277044673a5ed66
 source: xml
 outdated: false
 ---
-
-Selects the tab min width shrink presentation behavior.

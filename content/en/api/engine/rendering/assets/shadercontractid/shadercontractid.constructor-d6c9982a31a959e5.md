@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader contract identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable contract value.

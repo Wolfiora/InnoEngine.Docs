@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits a draw whose vertices are produced without a vertex buffer.
-
 ## Parameters
 
 **Parameter `vertexCount`:** Number of vertices to submit.

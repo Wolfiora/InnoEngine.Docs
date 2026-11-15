@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a snapshot and consumes transient press, release, movement, and wheel state.
-
 ## Parameters
 
 **Parameter `frameIndex`:** The runtime frame receiving the snapshot.

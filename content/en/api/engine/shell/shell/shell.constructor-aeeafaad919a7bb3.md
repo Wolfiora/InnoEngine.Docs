@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the backend-neutral host resources shared by Player and Editor products.
-
 ## Parameters
 
 **Parameter `adapterCatalog`:** Catalog that resolves explicit backend selections without leaking implementation types.

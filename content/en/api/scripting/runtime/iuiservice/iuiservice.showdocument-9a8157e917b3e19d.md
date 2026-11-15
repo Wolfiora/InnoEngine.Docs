@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Shows one document.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

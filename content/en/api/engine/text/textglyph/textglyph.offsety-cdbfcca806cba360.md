@@ -13,5 +13,3 @@ reviewed: 754978284d42951c0ef7bb1863c29c535e3c5b9592206f7491831c24d7b1c521
 source: xml
 outdated: false
 ---
-
-The vertical placement offset from the pen position in logical pixels.

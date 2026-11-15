@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the exact model contributor order for an output with several applicable models.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable output identity.

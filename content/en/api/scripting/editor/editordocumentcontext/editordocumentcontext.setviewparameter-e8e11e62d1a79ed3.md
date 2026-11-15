@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds or replaces one stable scalar or JSON-formatted view parameter.
-
 ## Parameters
 
 **Parameter `key`:** Stable provider-local parameter name.

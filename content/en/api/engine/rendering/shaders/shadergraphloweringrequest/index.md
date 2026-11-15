@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Freezes one target-selected graph region and its externally resolved, neutral compilation inputs.

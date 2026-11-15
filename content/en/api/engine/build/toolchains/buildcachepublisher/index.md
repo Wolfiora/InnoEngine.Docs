@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Records exact publisher-owned generations and coordinates them with bounded cache retirement.

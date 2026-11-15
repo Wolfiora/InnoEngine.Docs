@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Validates and applies the current editor drag-and-drop interaction atomically.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

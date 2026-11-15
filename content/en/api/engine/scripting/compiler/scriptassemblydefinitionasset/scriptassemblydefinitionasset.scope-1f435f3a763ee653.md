@@ -13,5 +13,3 @@ reviewed: 19db30500a38d5f7abad231ca007a62b031b735655a3c1f36fa8c000f91484ba
 source: xml
 outdated: false
 ---
-
-Gets the assembly API scope.

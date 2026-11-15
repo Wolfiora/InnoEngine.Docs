@@ -13,5 +13,3 @@ reviewed: 029ef03dcaca06ead9659f6ae6ca48426e32d689adbe6148b5a968e4a31e8d29
 source: xml
 outdated: false
 ---
-
-Selects the tab rounding presentation behavior.

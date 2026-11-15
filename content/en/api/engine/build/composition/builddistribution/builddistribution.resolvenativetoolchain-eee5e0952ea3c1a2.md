@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the SDK integration bound to an explicitly registered publication target.
-
 ## Parameters
 
 **Parameter `targetId`:** The requested native target identity, independently selected from the execution host.

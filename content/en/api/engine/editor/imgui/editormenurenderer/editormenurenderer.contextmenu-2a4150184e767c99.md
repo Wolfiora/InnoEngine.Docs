@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws one context popup composed from an item interaction and its containing-scope interaction.
-
 ## Parameters
 
 **Parameter `id`:** Stable popup identifier in the current ImGui ID scope.

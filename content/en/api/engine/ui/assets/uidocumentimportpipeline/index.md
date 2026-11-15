@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Coordinates source analysis, font dependencies, and runtime UI asset emission.

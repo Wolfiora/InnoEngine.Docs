@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the Cartesian coordinate for one axis of a point that is defined by a given triangle and two normalized barycentric (areal) coordinates.
-
 ## Parameters
 
 **Parameter `value1`:** The coordinate on one axis of vertex 1 of the defining triangle.

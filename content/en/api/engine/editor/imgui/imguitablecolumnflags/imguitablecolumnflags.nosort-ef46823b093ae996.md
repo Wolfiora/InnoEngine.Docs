@@ -13,5 +13,3 @@ reviewed: ce2af0d874515dc9de587d6d288fc361f56850576d5203f229f1e06ddc4ffd81
 source: xml
 outdated: false
 ---
-
-Disable ability to sort on this field (even if ImGuiTableFlags\_Sortable is set on the table).

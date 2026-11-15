@@ -13,5 +13,3 @@ reviewed: b8ea659c6e2a2604e4066292c302ca0d82cce66c7a7e2acfd2d80c7af90b46c7
 source: xml
 outdated: false
 ---
-
-Gets the immutable column-major view matrix.

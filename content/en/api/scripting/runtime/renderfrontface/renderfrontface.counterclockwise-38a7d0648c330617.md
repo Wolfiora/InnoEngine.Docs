@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Counter-clockwise vertices form a front-facing triangle.

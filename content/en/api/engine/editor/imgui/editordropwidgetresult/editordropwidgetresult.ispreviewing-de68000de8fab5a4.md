@@ -13,5 +13,3 @@ reviewed: 1d6a41a61d43ea06e0cfb6c92e26f372bfd20da772200728ac996232ffc31030
 source: xml
 outdated: false
 ---
-
-Gets whether a compatible native payload is hovering the target.

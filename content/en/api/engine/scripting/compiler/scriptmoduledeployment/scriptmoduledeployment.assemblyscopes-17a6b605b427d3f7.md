@@ -13,5 +13,3 @@ reviewed: cbbc9ddad470477e436a2e6b655cafda473e3197492504e20f379d8053602530
 source: xml
 outdated: false
 ---
-
-Gets explicit scopes keyed by assembly simple name, with case-insensitive lookup.

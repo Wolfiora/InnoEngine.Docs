@@ -13,5 +13,3 @@ reviewed: ae2260d3327f112ed4bc9662bc277d566777dada0d263fd79df7dbe44c038ac7
 source: xml
 outdated: false
 ---
-
-Gets compiled logical buffer allocations.

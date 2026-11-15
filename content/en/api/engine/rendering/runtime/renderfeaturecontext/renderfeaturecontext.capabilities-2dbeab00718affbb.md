@@ -13,5 +13,3 @@ reviewed: 1cd2b0bad5a40835dd8da76280863c2fb5d4242c84c924421cf9245dac0825b8
 source: xml
 outdated: false
 ---
-
-Gets current device capabilities.

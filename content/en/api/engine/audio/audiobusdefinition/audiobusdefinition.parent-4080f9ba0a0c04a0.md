@@ -13,5 +13,3 @@ reviewed: 0984466c13bfc4d56d863786e2a815abc82f53d74c3070cbe4a82dea4012c027
 source: xml
 outdated: false
 ---
-
-Gets the parent bus, or `null` for the master bus.

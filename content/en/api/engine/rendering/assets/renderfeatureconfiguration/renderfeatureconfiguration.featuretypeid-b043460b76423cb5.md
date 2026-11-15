@@ -13,5 +13,3 @@ reviewed: 92f6145335dc3bd235a376b48bcf074ef848277f1afcd82327e73944810ca1d5
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable feature extension identifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the interaction mask assigned to one layer.
-
 ## Parameters
 
 **Parameter `layer`:** The source layer.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws literal text at an explicitly measured wrap width, independent of a scrolling window's virtual content extent.
-
 ## Parameters
 
 **Parameter `text`:** The literal text captured for the current layout.

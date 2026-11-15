@@ -13,5 +13,3 @@ reviewed: 3945c040daaf7bf8a89e2a384da17650581fafefcf936f9cd6840f6946560f93
 source: xml
 outdated: false
 ---
-
-Gets the stable action identifier consumed by a presentation backend.

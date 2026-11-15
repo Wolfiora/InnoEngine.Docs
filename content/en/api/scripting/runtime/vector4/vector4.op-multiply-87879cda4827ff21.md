@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Multiplies the supplied values according to their algebraic contract.
-
 ## Parameters
 
 **Parameter `m`:** The transformation matrix applied to the supplied value.

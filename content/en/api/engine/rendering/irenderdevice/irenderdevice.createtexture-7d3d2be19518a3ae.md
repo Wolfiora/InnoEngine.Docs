@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent texture at a frame safety point.
-
 ## Parameters
 
 **Parameter `descriptor`:** Texture requirements.

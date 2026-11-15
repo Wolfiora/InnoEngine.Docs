@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes the query and returns a stable snapshot.
-
 ## Returns
 
 A snapshot list detached from subsequent store mutations.

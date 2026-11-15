@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a dependency collector with an explicit location-hint policy.
-
 ## Parameters
 
 **Parameter `includeLastKnownPaths`:** Whether serialized asset references and collected dependency descriptors retain source path hints. Disable this only for semantic content comparison; persistent identity and stable type identity remain encoded.

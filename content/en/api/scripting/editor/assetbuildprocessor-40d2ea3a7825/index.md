@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Defines an automatically discovered aggregate asset build processor.

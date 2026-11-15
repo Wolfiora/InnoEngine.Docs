@@ -13,5 +13,3 @@ reviewed: fd7ec12884e818bad474479c02739912e07564100b3b9bf9a66765176ffad7a9
 source: xml
 outdated: false
 ---
-
-Gets the runtime backend identities supported by this authoring composition.

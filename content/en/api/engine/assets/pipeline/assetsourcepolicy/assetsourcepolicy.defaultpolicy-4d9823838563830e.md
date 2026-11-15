@@ -13,5 +13,3 @@ reviewed: ec01de00d7d57e0575ca3621135f41bfe0265f89070345cd0ba212386c6f848d
 source: xml
 outdated: false
 ---
-
-Gets the default source policy.

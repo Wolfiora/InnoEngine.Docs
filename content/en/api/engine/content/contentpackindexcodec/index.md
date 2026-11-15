@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Encodes the current immutable content inventory through the common serialization protocol.

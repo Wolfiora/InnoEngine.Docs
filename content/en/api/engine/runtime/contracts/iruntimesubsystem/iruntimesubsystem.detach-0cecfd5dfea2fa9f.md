@@ -13,5 +13,3 @@ reviewed: 813e94848bb31a26ec82eba7fbd0dbde3fd7ff5574153cd35f193b3615972ed8
 source: xml
 outdated: false
 ---
-
-Releases attached session resources before dependencies detach.

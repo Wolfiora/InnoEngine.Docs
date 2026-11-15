@@ -13,5 +13,3 @@ reviewed: ba7328d780ddb78e3061437046302022a97662326e4d349b88cd3842c1d85bd8
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive reference-frame width used to derive the presentation aspect ratio.

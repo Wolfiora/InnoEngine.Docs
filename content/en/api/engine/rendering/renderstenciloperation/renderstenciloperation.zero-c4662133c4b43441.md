@@ -13,5 +13,3 @@ reviewed: a66304bfd97c9e6177ac442fd6466a42b02b151923e7bac565ebdd15f70b1091
 source: xml
 outdated: false
 ---
-
-Clears the stored value to zero.

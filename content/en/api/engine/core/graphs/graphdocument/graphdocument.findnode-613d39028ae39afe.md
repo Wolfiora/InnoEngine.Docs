@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds a node by stable identifier.
-
 ## Parameters
 
 **Parameter `nodeId`:** Node identifier to find.

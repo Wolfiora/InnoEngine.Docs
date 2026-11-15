@@ -13,5 +13,3 @@ reviewed: 51c4afaef82e85bb8e4e524aff39dd1b6a8e16ac46e96b9c581e091a5a415150
 source: xml
 outdated: false
 ---
-
-Gets or sets the neutral material value.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves imported helper geometry into persistent vertex and index buffers.
-
 ## Parameters
 
 **Parameter `geometry`:** Imported geometry asset.

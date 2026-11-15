@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one mesh retirement.
-
 ## Parameters
 
 **Parameter `mesh`:** Assigned mesh handle.

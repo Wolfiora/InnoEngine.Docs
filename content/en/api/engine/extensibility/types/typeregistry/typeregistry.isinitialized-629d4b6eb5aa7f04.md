@@ -13,5 +13,3 @@ reviewed: 3a8fb92babbd11b8b93b86279992938e5d25c4bf458098bd51a33381c8079171
 source: xml
 outdated: false
 ---
-
-Gets whether the registry has built its first snapshot.

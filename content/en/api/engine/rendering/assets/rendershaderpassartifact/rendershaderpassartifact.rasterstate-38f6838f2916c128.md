@@ -13,5 +13,3 @@ reviewed: daefcef89874236c88ba352099d768db7d1f196be450c924fc8c9cba5c3357dc
 source: xml
 outdated: false
 ---
-
-Gets an immutable copy of the backend-neutral raster state.

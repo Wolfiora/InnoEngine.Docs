@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Frame will span all columns of its container table (text will still fit in current column)

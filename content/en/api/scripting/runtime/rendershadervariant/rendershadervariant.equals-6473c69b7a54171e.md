@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this instance and the supplied object represent the same logical state.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.

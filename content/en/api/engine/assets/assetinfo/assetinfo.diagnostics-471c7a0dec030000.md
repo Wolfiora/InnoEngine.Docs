@@ -13,5 +13,3 @@ reviewed: fd576b7f2f119c9a2197d89c8e1deef2e28517fdfda6fdb3e34937b6b62faac8
 source: xml
 outdated: false
 ---
-
-Gets diagnostics produced by the latest reconciliation or import.

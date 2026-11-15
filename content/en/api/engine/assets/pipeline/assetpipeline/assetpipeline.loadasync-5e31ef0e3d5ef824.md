@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asynchronously loads a canonical asset by persistent identity.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required asset type.

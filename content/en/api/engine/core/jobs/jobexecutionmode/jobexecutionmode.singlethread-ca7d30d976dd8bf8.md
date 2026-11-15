@@ -13,5 +13,3 @@ reviewed: 6ba2971077fa8a9ea92667b9a977ebfe74939dbb1739c9fe1292705c53753ce7
 source: xml
 outdated: false
 ---
-
-Executes jobs deterministically on the scheduler owner thread.

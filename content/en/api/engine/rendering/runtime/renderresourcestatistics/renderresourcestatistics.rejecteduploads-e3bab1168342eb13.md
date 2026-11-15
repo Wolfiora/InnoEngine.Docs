@@ -13,5 +13,3 @@ reviewed: 8a0e238fe4ecc337270cd657545eb708dfb013f90bdc1fead30f7825dd208633
 source: xml
 outdated: false
 ---
-
-Gets upload requests rejected by resident or per-frame limits.

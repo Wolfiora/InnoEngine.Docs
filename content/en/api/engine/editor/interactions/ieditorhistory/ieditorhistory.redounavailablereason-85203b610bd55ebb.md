@@ -13,5 +13,3 @@ reviewed: 967b4cb8c1ac2987846feff4f21fc420cbc0a83e00662d8f74c2fd7717ffab24
 source: xml
 outdated: false
 ---
-
-Gets why the next Redo entry is unavailable, or `null`.

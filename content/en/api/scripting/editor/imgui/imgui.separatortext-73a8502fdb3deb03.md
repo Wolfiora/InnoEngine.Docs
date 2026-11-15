@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a labeled horizontal separator.
-
 ## Parameters
 
 **Parameter `label`:** The label text validated by the separator text operation.

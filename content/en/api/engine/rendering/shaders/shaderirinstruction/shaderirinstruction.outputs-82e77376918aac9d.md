@@ -13,5 +13,3 @@ reviewed: 0eb56425530746024853caa1b98fbc51944284e26f7dcffa26a8060933c6c4f6
 source: xml
 outdated: false
 ---
-
-Gets produced values; a call orders its return value first, then out/inout parameters.

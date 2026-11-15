@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether this model contribution must load and preserve an earlier contribution to the same target.
-
 ## Remarks
 
 A pipeline must not clear its presentation color target when this value is `true`.

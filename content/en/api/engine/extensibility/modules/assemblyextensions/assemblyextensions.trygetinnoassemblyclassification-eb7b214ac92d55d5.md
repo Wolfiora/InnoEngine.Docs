@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads ownership metadata without treating an unrelated assembly as an extension.
-
 ## Parameters
 
 **Parameter `assembly`:** The assembly whose declared classification is inspected.

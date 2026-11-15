@@ -13,5 +13,3 @@ reviewed: 340e1f293e02e142f189dc394ad9ed6e21364156be0804fdebf19e83e71f0606
 source: xml
 outdated: false
 ---
-
-Set the variable if the object/window has no persistently saved data (no entry in .ini file)

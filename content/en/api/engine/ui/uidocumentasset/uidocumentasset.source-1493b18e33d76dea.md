@@ -13,5 +13,3 @@ reviewed: fc5374d97fd5812041a10a013998b506970d3b5d9ead64c7992483aaccd56bc4
 source: xml
 outdated: false
 ---
-
-Gets the frozen source, or null before runtime content is loaded.

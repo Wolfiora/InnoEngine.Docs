@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic explaining why the transition is unavailable, or an empty string when available.

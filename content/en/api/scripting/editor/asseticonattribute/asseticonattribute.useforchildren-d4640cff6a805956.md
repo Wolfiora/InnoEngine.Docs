@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether a type declaration may also represent derived asset types. Extension declarations always return `false`.

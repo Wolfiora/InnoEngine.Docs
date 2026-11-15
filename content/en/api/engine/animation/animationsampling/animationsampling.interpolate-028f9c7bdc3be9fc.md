@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Interpolates compatible values, normalizing quaternion output.
-
 ## Parameters
 
 **Parameter `left`:** The initial value.

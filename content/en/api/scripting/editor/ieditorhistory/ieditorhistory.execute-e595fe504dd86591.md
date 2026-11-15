@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies and records a neutral change through its current-generation handler.
-
 ## Parameters
 
 **Parameter `name`:** The user-facing operation name.

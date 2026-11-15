@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requires an explicit selection before a component can build or start a native tool.
-
 ## Returns
 
 The already frozen tool selection without performing discovery.

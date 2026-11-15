@@ -13,5 +13,3 @@ reviewed: 5a40cf7eda578724798e93a97183ab4beead2eafb399b22638c3f5517677bee7
 source: xml
 outdated: false
 ---
-
-Gets the shared output frame index.

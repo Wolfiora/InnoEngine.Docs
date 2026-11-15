@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, clears all buffers for this stream and causes any buffered data to be written to the underlying device.
-
 ## Exceptions
 
 **Exception `T:System.IO.IOException`:** An I/O error occurs.

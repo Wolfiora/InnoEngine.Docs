@@ -13,5 +13,3 @@ reviewed: 2cd2b83ab9cc4a2b87e2e92c88340ce8783464b11e31a578ac8f6c2661e818cd
 source: xml
 outdated: false
 ---
-
-Shortcut for standard flags when using IsItemHovered() + SetTooltip() sequence.

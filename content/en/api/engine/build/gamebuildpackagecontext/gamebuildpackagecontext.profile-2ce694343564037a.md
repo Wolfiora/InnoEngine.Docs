@@ -13,5 +13,3 @@ reviewed: 6450005c60e20148b72446840e5aff22d8604dd5022a1a7b05b4b6f3f8e7fcf6
 source: xml
 outdated: false
 ---
-
-Gets the validated product profile.

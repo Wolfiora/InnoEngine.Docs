@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares the exact verified pack selected by the decoded catalog.
-
 ## Parameters
 
 **Parameter `pack`:** The validated pack identity; other packs must not be substituted.

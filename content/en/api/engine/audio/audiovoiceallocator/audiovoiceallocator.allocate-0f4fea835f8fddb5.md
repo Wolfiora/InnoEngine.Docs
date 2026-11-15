@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Allocates a unique service handle that cannot alias a different service's playback.
-
 ## Returns
 
 A new opaque playback handle; identities are never reused within this owner.

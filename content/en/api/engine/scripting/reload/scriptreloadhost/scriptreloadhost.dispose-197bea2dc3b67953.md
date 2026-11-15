@@ -13,5 +13,3 @@ reviewed: a9300560d61e46482b900185894a434dbc9df429de1f13b9e6261928c02d96e4
 source: xml
 outdated: false
 ---
-
-Cancels and waits for active compilation work, stops Asset Database observation, and unloads the active script module.

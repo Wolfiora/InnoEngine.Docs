@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves a scene to its existing path or into a fallback directory.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to save.

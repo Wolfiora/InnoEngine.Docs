@@ -13,5 +13,3 @@ reviewed: 47036cc5092ffb21ca199f76164a66672db2f7f9f461f662904e95ce0e546b48
 source: xml
 outdated: false
 ---
-
-Identifies the MouseX1 presentation key or modifier.

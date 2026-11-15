@@ -13,5 +13,3 @@ reviewed: 5b29dfeaebb91d8b1137e48897e38981d6ac1f1ccb20b143c06dc27f259cfd3a
 source: xml
 outdated: false
 ---
-
-Gets the output sample rate in frames per second.

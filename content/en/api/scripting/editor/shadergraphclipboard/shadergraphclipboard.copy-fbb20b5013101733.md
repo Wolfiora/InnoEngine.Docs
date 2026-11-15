@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures selected nodes and the owned contents of selected stage outputs.
-
 ## Parameters
 
 **Parameter `graph`:** Source document, never changed.

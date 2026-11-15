@@ -13,5 +13,3 @@ reviewed: 8175fe4d4cbe6bc9a047b7d0423f553c05508966f415ce25ff747fd1fc960e2e
 source: xml
 outdated: false
 ---
-
-Columns default to \_WidthStretch with default weights proportional to each columns contents widths.

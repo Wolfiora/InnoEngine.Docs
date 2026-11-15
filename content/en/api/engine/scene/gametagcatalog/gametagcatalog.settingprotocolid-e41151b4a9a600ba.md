@@ -13,5 +13,3 @@ reviewed: b5de361919a118825ad76c69e8cd398f38380aaf625190fbb124debc6f95481f
 source: xml
 outdated: false
 ---
-
-Gets the immutable project-setting protocol value used by discovery metadata.

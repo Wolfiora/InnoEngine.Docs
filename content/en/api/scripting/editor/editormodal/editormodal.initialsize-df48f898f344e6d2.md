@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the initial modal size in unscaled editor units, or `P:System.Numerics.Vector2.Zero` when the runtime should size the modal from its content.

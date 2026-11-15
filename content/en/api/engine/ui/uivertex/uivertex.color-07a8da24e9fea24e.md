@@ -13,5 +13,3 @@ reviewed: 2a1c89777fc8b60217cdbb62406f84eea14e7a684dc1f9987e1dd7553d974b8a
 source: xml
 outdated: false
 ---
-
-The uint value used to initialize this instance.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Combines a platform's layout checks with distribution-selected managed, binding and native requirements.

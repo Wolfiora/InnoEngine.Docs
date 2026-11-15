@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies one complete document into this source.
-
 ## Parameters
 
 **Parameter `documentName`:** The stable logical diagnostic name.

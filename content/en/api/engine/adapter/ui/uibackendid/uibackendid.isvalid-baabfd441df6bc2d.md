@@ -13,5 +13,3 @@ reviewed: 75b1f2e0617916026a050c47c11ccced46c862f2bb265ee1fb2c2539dc42384e
 source: xml
 outdated: false
 ---
-
-Gets whether this value identifies an implementation.

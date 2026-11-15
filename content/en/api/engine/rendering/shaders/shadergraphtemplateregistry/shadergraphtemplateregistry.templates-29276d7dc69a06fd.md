@@ -13,5 +13,3 @@ reviewed: 95c3a840dd5abb45dafa6226c9c811fa97597c3482dd338e3802057d0c4aaf84
 source: xml
 outdated: false
 ---
-
-Gets detached menu descriptions for the current generation.

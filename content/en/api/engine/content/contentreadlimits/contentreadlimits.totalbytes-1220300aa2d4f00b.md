@@ -13,5 +13,3 @@ reviewed: c88c3e70369b093a22f2ec2c1bdf15367c1527c834cd65eb168bfd96201f6328
 source: xml
 outdated: false
 ---
-
-Gets the decoded total payload budget.

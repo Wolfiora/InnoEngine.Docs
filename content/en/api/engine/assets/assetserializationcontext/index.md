@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Creates complete asset-aware converter contexts from an owner-provided reference generation.

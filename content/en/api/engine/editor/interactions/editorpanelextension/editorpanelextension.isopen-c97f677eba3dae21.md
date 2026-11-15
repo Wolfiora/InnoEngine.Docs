@@ -13,5 +13,3 @@ reviewed: 2e51300bb07983a178ab7aa674e71be789dbac0120a50a23e59fa5ccddc06d42
 source: xml
 outdated: false
 ---
-
-Gets or sets whether this panel is open in the current extension generation.

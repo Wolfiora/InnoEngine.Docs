@@ -13,5 +13,3 @@ reviewed: c2651ea01a4110325e2833734ea91634f49f36027dc9970781a6b3ce20d21a1d
 source: xml
 outdated: false
 ---
-
-Gets the disabled opaque blend state.

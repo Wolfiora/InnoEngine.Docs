@@ -13,5 +13,3 @@ reviewed: 5c8f7f5b465b7895f7337b498c1dc68d8a23776c59a2b696f8489ef6768ce0c6
 source: xml
 outdated: false
 ---
-
-Selects the grab min size presentation behavior.

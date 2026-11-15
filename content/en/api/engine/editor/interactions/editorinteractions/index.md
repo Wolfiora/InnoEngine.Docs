@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Provides the single presentation-independent entry point for editor actions, menus, selection, focus, and drag-and-drop.

@@ -13,5 +13,3 @@ reviewed: ae8e8605b52c49fc62aeb6ef65d004c0b76a84472aa415600f9901921179d7a8
 source: xml
 outdated: false
 ---
-
-Gets the light table border.

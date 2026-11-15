@@ -13,5 +13,3 @@ reviewed: 9b97848e9ab09bf81aa0ce58334b0dd322c447ea2b6577423423dc3d160ad81f
 source: xml
 outdated: false
 ---
-
-Gets the target scene.

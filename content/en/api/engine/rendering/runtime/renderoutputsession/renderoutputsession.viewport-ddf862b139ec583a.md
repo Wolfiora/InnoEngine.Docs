@@ -13,5 +13,3 @@ reviewed: e8e08a152a8eeffc0bd3afe5ee70c303a94c203eb6d52ed275b482354733d470
 source: xml
 outdated: false
 ---
-
-Gets the output pixel viewport.

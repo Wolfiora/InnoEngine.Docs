@@ -13,5 +13,3 @@ reviewed: 8f3e153e35be33300ae0465319da7ce8da8978028f7ddf31c5dad0f06f8dbfe5
 source: xml
 outdated: false
 ---
-
-Gets the model-defined visible content bits.

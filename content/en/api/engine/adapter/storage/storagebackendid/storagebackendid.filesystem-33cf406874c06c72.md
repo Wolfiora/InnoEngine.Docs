@@ -13,5 +13,3 @@ reviewed: 2474a6c957c26db4a9d2a40e72c8898ea71a97ca2c39e7f5d28563ac92985402
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled fileSystem implementation.

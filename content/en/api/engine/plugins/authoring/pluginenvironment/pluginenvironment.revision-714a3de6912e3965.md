@@ -13,5 +13,3 @@ reviewed: 81c915cc0729a96357fe961445f30312128bcb5625508d826d4a73515f84c7e8
 source: xml
 outdated: false
 ---
-
-Gets the monotonic identity of the active Plugin generation.

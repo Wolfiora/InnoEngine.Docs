@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a model layer with explicit, distinct content-source IDs.
-
 ## Parameters
 
 **Parameter `modelId`:** Stable render-model or Editor contributor ID.

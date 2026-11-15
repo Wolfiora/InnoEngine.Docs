@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a resolved right-click menu for the most recently submitted ImGui item.
-
 ## Parameters
 
 **Parameter `id`:** The stable popup identifier in the current ImGui ID scope.

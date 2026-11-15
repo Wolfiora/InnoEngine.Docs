@@ -13,5 +13,3 @@ reviewed: 744718de7cc04c985c56cd4a48a9684b6c68edde7b0c7977f49a9ad81f4f4ab5
 source: xml
 outdated: false
 ---
-
-Selects the unsaved marker presentation behavior.

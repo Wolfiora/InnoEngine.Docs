@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins one scheduled pass and acquires its command encoder.
-
 ## Parameters
 
 **Parameter `pass`:** Scheduled pass metadata.

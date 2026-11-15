@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an event-backed input adapter for one platform window.
-
 ## Parameters
 
 **Parameter `windowId`:** The translated event window identifier, or zero to accept input from every window.

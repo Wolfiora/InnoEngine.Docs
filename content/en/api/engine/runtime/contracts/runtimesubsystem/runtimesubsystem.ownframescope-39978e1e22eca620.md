@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a binding that must close even when a frame hook fails.
-
 ## Parameters
 
 **Parameter `scope`:** The newly entered execution scope.

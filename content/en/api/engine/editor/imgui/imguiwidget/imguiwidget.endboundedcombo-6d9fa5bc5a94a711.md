@@ -13,5 +13,3 @@ reviewed: c1768653632a547639fd35007d88dc600c82ab9fbff3bf33bf500049588626da
 source: xml
 outdated: false
 ---
-
-Ends a combo opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginBoundedCombo(System.String,System.String,Inno.Editor.ImGui.ImGuiComboFlags)`.

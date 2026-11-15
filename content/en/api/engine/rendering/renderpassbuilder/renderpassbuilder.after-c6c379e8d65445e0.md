@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Orders this pass after every pass in a target phase.
-
 ## Parameters
 
 **Parameter `phase`:** Target phase.

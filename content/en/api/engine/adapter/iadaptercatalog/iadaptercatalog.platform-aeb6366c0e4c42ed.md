@@ -13,5 +13,3 @@ reviewed: dbb53c0cbd09a8475f2ecfe1f360fd8044e2ad62b8f2ebe6c6c5ceb5af042c0c
 source: xml
 outdated: false
 ---
-
-Gets the platform backend factory.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an artifact key from a hexadecimal content fingerprint.
-
 ## Parameters
 
 **Parameter `value`:** The hexadecimal content fingerprint.

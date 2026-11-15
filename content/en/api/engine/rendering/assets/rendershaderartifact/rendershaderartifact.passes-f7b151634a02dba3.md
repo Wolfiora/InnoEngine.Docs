@@ -13,5 +13,3 @@ reviewed: 13bb223f14e0d2a9d628f01b2ff199fbdfc7d57e79cf3a319394a7d50c7de671
 source: xml
 outdated: false
 ---
-
-Gets every source-free pass available to the runtime shader definition.

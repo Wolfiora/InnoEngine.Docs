@@ -13,5 +13,3 @@ reviewed: afa48ae0aaa31314f40721a174056885fd22422c828d15ca726b9ec4d8a448fd
 source: xml
 outdated: false
 ---
-
-Gets main-thread callback capacity; zero selects 65536.

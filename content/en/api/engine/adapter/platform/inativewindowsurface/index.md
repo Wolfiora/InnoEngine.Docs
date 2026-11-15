@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Supplies borrowed native presentation handles to cooperating adapters.
-
 ## Remarks
 
 Window implementations opt into this SPI when they support native rendering integration. Shared platform, Shell, and Player contracts do not expose these ABI details.

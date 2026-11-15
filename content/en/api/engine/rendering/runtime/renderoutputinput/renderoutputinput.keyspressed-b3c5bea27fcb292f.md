@@ -13,5 +13,3 @@ reviewed: 8041ebbfe3a8811e7ed2720e7402b9e1d7fb3dd014b73457c5b4635df98ed211
 source: xml
 outdated: false
 ---
-
-Gets keys pressed this frame.

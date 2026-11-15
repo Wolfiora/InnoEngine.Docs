@@ -13,5 +13,3 @@ reviewed: f0faa7d20d21a22d6bd10c45def233f780e6f843c534560bcd311fa95e60bc5b
 source: xml
 outdated: false
 ---
-
-Selects the plot lines hovered presentation behavior.

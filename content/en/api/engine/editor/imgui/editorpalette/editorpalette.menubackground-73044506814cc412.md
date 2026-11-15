@@ -13,5 +13,3 @@ reviewed: 4b32b5479c478b1b5a62798e85560066e5a634ab59bb5d3ad99f79e20bd9bf79
 source: xml
 outdated: false
 ---
-
-Gets the background used by editor context menus.

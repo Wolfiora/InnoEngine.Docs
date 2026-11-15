@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable build diagnostic.
-
 ## Parameters
 
 **Parameter `severity`:** The impact of the diagnostic on build success.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Activates a producer at an owner safe point, revoking any previous registration with the same ID.
-
 ## Parameters
 
 **Parameter `source`:** The stable owner-qualified producer identity.

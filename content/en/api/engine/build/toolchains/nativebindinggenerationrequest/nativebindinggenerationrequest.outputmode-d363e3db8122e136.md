@@ -13,5 +13,3 @@ reviewed: 60a75b948d870484c54e7a6162dcc27665bb48151988c53202b2dbf3d0f41054
 source: xml
 outdated: false
 ---
-
-Gets the selected output ownership policy.

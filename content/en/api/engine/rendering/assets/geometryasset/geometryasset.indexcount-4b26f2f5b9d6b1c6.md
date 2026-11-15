@@ -13,5 +13,3 @@ reviewed: 4acaa8664416fad5ee92f953b1fd4b75a6fd8db198ba2859646467d686f7b256
 source: xml
 outdated: false
 ---
-
-Gets the number of indices.

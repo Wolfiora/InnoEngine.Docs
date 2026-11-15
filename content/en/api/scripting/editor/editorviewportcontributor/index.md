@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Contributes one rendering model while the host owns viewport composition, targets, and presentation.

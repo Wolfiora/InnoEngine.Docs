@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Handles platform cancellation of an active gesture.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

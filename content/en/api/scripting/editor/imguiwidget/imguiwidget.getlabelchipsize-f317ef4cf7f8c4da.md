@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the layout size of a compact colored label chip using the centralized editor style.
-
 ## Parameters
 
 **Parameter `label`:** Visible label text.

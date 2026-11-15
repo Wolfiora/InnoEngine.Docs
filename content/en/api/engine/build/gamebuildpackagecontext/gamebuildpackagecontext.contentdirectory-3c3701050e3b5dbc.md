@@ -13,5 +13,3 @@ reviewed: fceee7b2d873eaa351481c5cd9f3e037a76beb2a94fc1fbce7e5e41e3fe76cd0
 source: xml
 outdated: false
 ---
-
-Gets the source-free packaged content directory to deploy.

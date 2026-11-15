@@ -13,5 +13,3 @@ reviewed: 461cfb562dbadf103dde10246f4a4e2abd3fb08f9fc9fbcbf033f342e8dcc1fe
 source: xml
 outdated: false
 ---
-
-Gets the reading location, which is not implicitly included in the fingerprint.

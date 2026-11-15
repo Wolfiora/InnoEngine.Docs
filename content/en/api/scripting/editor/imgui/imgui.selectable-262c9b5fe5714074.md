@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws one selectable item.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and identity.

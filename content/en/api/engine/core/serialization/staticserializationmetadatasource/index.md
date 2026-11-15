@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Resolves exact serialization shapes from explicit generated contributions without reflection fallback.

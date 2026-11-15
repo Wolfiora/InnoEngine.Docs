@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds or removes an asset from the current selection without retaining runtime asset objects.
-
 ## Parameters
 
 **Parameter `context`:** The current editor callback context.

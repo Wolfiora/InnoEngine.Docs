@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the active Plugin catalog owns a source mount.
-
 ## Parameters
 
 **Parameter `source`:** The source mount identity to query.

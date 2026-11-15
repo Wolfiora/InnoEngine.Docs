@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Captures and restores one GameObject subtree with its persistent object and component identities.

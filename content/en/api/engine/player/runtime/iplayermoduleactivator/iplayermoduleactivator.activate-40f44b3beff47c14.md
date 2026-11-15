@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Verifies the code closure and publishes its module contributions atomically.
-
 ## Parameters
 
 **Parameter `modules`:** The engine-owned module catalog and generation coordinator.

@@ -13,5 +13,3 @@ reviewed: 3252ba9c38419e00d096d4dbcfd5a0d2c6bb2a1971dd83ec058115d815e0be6e
 source: xml
 outdated: false
 ---
-
-Gets all exact input files; only files marked compile are translation units.

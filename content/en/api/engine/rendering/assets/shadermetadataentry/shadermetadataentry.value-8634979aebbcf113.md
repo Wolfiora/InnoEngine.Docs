@@ -13,5 +13,3 @@ reviewed: 366d2d7ad13532add14c2b22bb7de83d3831b18ebfb77d09e386405c6139fbc5
 source: xml
 outdated: false
 ---
-
-Gets or sets the metadata value.

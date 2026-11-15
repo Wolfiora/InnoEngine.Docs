@@ -13,5 +13,3 @@ reviewed: 162744902d2e83770ec70945fe2da31d42ec08af006ce41a5390438bacdcdd81
 source: xml
 outdated: false
 ---
-
-For BeginPopupContext\*(): open on Right Mouse release. Only one button allowed! (default)

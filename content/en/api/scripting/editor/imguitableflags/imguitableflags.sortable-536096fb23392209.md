@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enable sorting. Call TableGetSortSpecs() to obtain sort specs. Also see ImGuiTableFlags\_SortMulti and ImGuiTableFlags\_SortTristate.

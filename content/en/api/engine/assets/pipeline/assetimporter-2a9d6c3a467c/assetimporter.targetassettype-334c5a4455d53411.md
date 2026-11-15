@@ -13,5 +13,3 @@ reviewed: d2ab7d7b31f3a625eb417aaccf657c02a16ef3839d6c35d80001543e20ba16d0
 source: xml
 outdated: false
 ---
-
-Gets the runtime asset type accepted by this importer implementation.

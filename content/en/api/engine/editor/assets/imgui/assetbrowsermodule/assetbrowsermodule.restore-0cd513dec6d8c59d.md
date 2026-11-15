@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores the supplied snapshot while preserving current invariants.
-
 ## Parameters
 
 **Parameter `state`:** The lifecycle or domain state applied by this operation.

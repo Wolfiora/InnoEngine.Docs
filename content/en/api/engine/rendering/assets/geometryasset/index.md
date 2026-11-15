@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Represents imported geometry without prescribing scene or draw semantics.

@@ -13,5 +13,3 @@ reviewed: 1b3b3e0405524560f44d38f42553e63873d9c25f30ceb00d252e286f38aabfba
 source: xml
 outdated: false
 ---
-
-Gets ordered SDK header directories.

@@ -13,5 +13,3 @@ reviewed: 9c62daac822f634a62592fc106e15588a9d71d778ddd98cbca1514a9bd153d5b
 source: xml
 outdated: false
 ---
-
-The middle key.

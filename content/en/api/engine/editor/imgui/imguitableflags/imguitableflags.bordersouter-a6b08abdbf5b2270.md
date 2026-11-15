@@ -13,5 +13,3 @@ reviewed: 9f1f601943882698dc20de902fa925e0d1ac80704e8dcbb90fe265d24e288ab3
 source: xml
 outdated: false
 ---
-
-Draw outer borders.

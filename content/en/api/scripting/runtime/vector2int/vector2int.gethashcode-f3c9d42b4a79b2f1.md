@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Computes a hash code consistent with the implemented equality contract.
-
 ## Returns
 
 The scalar result calculated from the supplied inputs.

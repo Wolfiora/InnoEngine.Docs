@@ -13,5 +13,3 @@ reviewed: 404f77ce80c17244800e494a8a9c5cc74ff350ac43bf0e0ffb110e7184770222
 source: xml
 outdated: false
 ---
-
-Gets whether clips can be decoded incrementally.

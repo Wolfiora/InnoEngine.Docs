@@ -13,5 +13,3 @@ reviewed: 1ec42d95e8a6db20877e496abf8363d74264949424df4f6b4744fe35bc115c38
 source: xml
 outdated: false
 ---
-
-A unit value aligned with the w axis.

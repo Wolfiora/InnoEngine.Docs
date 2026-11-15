@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Reports the immutable outcome, diagnostics, and optional durable output of one build.

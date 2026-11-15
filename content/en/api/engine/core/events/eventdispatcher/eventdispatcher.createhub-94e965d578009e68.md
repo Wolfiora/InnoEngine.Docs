@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a new hub attached to this dispatcher.
-
 ## Parameters
 
 **Parameter `order`:** Hub dispatch order. Higher values run earlier.

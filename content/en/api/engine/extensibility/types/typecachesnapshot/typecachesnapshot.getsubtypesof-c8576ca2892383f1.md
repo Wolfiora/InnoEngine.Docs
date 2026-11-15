@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all concrete discovered types assignable to `T`.
-
 ## Type parameters
 
 **Type parameter `T`:** The base type used to select assignable concrete types.

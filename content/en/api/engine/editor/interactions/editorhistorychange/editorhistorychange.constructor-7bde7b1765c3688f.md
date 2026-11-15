@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a neutral history change.
-
 ## Parameters
 
 **Parameter `kind`:** The stable globally unique handler protocol identifier.

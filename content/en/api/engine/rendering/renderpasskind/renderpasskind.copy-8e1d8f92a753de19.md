@@ -13,5 +13,3 @@ reviewed: efefdabd58f6276aae65dd0f0d4d2d3d4cbe568d624c01a45cc488c8e1281c6a
 source: xml
 outdated: false
 ---
-
-Resource copy commands.

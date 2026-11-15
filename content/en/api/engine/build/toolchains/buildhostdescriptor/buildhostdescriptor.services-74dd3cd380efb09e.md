@@ -13,5 +13,3 @@ reviewed: 2b939646ab834b86800f740d12fffe6307d65919e9c141f6444c4e9d1e6dd22e
 source: xml
 outdated: false
 ---
-
-Gets frozen host execution services.

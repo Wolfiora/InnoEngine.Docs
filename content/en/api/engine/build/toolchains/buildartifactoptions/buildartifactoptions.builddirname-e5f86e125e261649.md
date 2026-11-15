@@ -13,5 +13,3 @@ reviewed: d60b60422ee58734750c795d1b9b30da08f01128938bffcc5ef9eeb84ec6abed
 source: xml
 outdated: false
 ---
-
-The dependency-relative directory searched for native build outputs.

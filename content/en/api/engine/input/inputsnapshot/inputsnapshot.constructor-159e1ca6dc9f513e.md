@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete immutable input snapshot.
-
 ## Parameters
 
 **Parameter `frameIndex`:** The runtime frame that owns the snapshot.

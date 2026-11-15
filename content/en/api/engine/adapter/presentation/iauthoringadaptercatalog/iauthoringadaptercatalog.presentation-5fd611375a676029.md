@@ -13,5 +13,3 @@ reviewed: 4cf0d8e90ea009945690e33dd5a4266bfe275c76e174598a439a31b1e84a9b5b
 source: xml
 outdated: false
 ---
-
-Gets the graphical host-presentation factory used by authoring products.

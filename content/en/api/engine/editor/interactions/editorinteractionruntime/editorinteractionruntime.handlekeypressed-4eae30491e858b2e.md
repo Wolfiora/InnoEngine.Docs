@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Dispatches an unhandled keyboard event through contextual shortcuts.
-
 ## Parameters
 
 **Parameter `keyEvent`:** The keyboard event received from the application event stream.

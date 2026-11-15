@@ -13,5 +13,3 @@ reviewed: d6f29f5365d2de6f64a3684de60259ebb6e86029386eab9ceab64f89ec379f5a
 source: xml
 outdated: false
 ---
-
-Gets or sets the composer-owned payload or default complete-property payload.

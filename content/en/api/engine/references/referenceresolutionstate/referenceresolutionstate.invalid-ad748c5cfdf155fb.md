@@ -13,5 +13,3 @@ reviewed: 83dd72e2243e000e93309e654976f591c0581300fb991fb9a5fbbee6ade73c2b
 source: xml
 outdated: false
 ---
-
-The descriptor or authoritative source is invalid.

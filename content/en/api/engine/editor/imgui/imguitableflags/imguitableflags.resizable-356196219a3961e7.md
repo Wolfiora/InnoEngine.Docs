@@ -13,5 +13,3 @@ reviewed: 1fb9d98113ab0b4f03518333f5c93ffda9485cf185287d2005926bb6be9b86f0
 source: xml
 outdated: false
 ---
-
-Enable resizing columns.

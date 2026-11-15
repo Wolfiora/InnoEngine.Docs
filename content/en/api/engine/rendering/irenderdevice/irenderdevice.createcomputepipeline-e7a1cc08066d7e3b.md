@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and reflection-validates a compute pipeline at a frame safety point.
-
 ## Parameters
 
 **Parameter `descriptor`:** Compiled stage and interface contract.

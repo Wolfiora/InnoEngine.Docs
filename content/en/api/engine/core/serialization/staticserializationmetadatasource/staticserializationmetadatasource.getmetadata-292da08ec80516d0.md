@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a complete serialization shape for the current declaration.
-
 ## Parameters
 
 **Parameter `type`:** The exact closed declaration, including its generic arguments.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Ends a tooltip opened by `M:InnoEditor.ImGui.ImGuiWidget.BeginMenuTooltip` and restores the previous style.

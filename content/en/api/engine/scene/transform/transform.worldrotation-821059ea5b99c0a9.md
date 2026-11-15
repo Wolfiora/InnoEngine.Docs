@@ -13,5 +13,3 @@ reviewed: 98fb49b5366bc9e8663ef0ccf1b8807ebc6b334a55dca76921118484647dd964
 source: xml
 outdated: false
 ---
-
-Gets or sets the world-space rotation.

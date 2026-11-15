@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces a complete value.
-
 ## Parameters
 
 **Parameter `key`:** The sandbox-relative storage key.

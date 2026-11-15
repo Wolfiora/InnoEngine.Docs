@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the revision of the settings snapshot active in the current execution context.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no project settings lookup is active for the caller.

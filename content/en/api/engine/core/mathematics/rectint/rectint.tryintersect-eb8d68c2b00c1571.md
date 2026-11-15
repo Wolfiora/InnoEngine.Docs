@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to intersect without changing state when the operation cannot complete.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

@@ -13,5 +13,3 @@ reviewed: dc72d47f31161284086aa4350f988989a0595b12e359c3de8d1e4f0e7d1a3764
 source: xml
 outdated: false
 ---
-
-Gets the number of retained overrides for this instance connection.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a source policy with additional ignored names and affixes.
-
 ## Parameters
 
 **Parameter `ignoredFileNames`:** Additional case-insensitive file names excluded from every source mount.

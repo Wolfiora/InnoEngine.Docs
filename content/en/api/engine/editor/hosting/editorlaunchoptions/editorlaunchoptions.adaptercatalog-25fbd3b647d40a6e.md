@@ -13,5 +13,3 @@ reviewed: 684b6c5f987b247b5cf51fba4178e0eb6de7c6723f16352170c22b7b6030f8ae
 source: xml
 outdated: false
 ---
-
-Gets the borrowed immutable runtime, authoring and presentation provider catalogs.

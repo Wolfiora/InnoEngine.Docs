@@ -13,5 +13,3 @@ reviewed: b2c3cf2db01bb84ce703526c0622f70e7016aa9f21331a6cad9ef92f43559936
 source: xml
 outdated: false
 ---
-
-Gets the immutable processor parameter set.

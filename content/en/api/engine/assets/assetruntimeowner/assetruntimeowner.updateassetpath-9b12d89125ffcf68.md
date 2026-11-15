@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates source location without replacing committed runtime content.
-
 ## Parameters
 
 **Parameter `asset`:** The owned canonical instance.

@@ -13,5 +13,3 @@ reviewed: 958dd6512597c6add620e2192cae31d91619137cadbd0e9eb8456504d8c1bf5c
 source: xml
 outdated: false
 ---
-
-Gets the largest simultaneous owner-thread queue occupancy.

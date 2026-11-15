@@ -13,5 +13,3 @@ reviewed: 4abaa86b1dd76c17bb7a73a8bf443eefce337f50ac0de34112e8737eb2b52f3e
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable picker when clicking on color square.

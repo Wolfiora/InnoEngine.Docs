@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The vertical pen advance in logical pixels, including backend-applied letter spacing.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Receives a log entry for processing.
-
 ## Parameters
 
 **Parameter `entry`:** The log entry to consume.

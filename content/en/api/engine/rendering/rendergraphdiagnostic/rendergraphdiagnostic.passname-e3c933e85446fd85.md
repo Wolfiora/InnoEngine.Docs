@@ -13,5 +13,3 @@ reviewed: a495e66dd5c6dd7264179f723525d05fd5455e2ad01442af06addf87f2e17784
 source: xml
 outdated: false
 ---
-
-Gets the related pass name, if any.

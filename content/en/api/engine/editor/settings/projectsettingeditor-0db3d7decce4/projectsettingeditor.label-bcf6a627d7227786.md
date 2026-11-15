@@ -13,5 +13,3 @@ reviewed: 82c33b4994f8772edb968457d829d15211e444625e9962fd0ef1f5243b8f5017
 source: xml
 outdated: false
 ---
-
-Gets the display label derived from the final path segment.

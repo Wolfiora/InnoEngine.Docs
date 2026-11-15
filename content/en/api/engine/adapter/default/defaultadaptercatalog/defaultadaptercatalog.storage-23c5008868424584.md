@@ -13,5 +13,3 @@ reviewed: 312bfd23c5bada6204928ee5315b0e7326ef47d05af1830066aeed9ef46769f2
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned storage factory snapshot.

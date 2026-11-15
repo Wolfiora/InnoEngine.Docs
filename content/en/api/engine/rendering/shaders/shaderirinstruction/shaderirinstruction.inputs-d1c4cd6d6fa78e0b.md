@@ -13,5 +13,3 @@ reviewed: 2bcb430ebc10f6b8f539752b735819d1dc6ae88bcc5eddbb90200ebd66cc531c
 source: xml
 outdated: false
 ---
-
-Gets immutable operands in operation or function-declaration order.

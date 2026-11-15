@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Defines backend-neutral value operations; graph node IDs are not instruction opcodes.

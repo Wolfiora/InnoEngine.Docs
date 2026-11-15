@@ -13,5 +13,3 @@ reviewed: 30590a2d94aa802461a460e469b4ec3e4127789ccc6133dbbbee1b54ab08a1fc
 source: xml
 outdated: false
 ---
-
-Independent blend state per color attachment.

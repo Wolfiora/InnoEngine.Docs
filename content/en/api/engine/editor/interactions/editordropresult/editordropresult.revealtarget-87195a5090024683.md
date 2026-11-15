@@ -13,5 +13,3 @@ reviewed: 0cf4b18dd297087f592abd9702fbf1a7305542fbe0ced59168b73f1497608f2a
 source: xml
 outdated: false
 ---
-
-Gets the optional hierarchy target that should be revealed.

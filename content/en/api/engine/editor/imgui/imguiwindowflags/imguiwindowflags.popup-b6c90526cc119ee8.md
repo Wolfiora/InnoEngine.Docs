@@ -13,5 +13,3 @@ reviewed: 6c1218a73763505584e2b0c5a7999c2b4b8b8ae0e494c3e0c48e74e004395021
 source: xml
 outdated: false
 ---
-
-Don't use! For internal use by BeginPopup()

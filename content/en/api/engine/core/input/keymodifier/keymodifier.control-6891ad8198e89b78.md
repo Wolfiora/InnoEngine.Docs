@@ -13,5 +13,3 @@ reviewed: d84941f47f93fd26f9940fa6371674cfa01cb86b35504316111a27b2d4583f5e
 source: xml
 outdated: false
 ---
-
-The control key.

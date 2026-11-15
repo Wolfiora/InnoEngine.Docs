@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns a mask with the supplied layer disabled.
-
 ## Returns
 
 The updated immutable mask.

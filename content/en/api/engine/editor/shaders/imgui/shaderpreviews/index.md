@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Hosts isolated Shader and Material images using domain-contributed preview pipelines.

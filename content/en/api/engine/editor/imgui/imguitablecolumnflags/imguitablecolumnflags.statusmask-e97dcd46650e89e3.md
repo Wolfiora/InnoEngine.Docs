@@ -13,5 +13,3 @@ reviewed: 1444635452da318f3d1c19e47016d70fbe7c5238f6779be6d2e8ea53314f4e25
 source: xml
 outdated: false
 ---
-
-Selects the status mask presentation behavior.

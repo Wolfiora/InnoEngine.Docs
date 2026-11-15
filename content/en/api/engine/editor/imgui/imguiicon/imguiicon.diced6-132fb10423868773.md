@@ -13,5 +13,3 @@ reviewed: b67b517f6b50a7ee73841c669f704ad520131ebcf926b9641957c2fc815ad161
 source: xml
 outdated: false
 ---
-
-Gets the dice d6 glyph used by standard Editor controls.

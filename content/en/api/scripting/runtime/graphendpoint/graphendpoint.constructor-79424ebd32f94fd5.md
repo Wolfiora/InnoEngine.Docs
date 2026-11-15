@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph edge endpoint.
-
 ## Parameters
 
 **Parameter `nodeId`:** Owning node identifier.

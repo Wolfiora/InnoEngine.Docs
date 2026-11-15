@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the stable persistent type identity of a registered serializable type.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The registered type whose stable identity is required.

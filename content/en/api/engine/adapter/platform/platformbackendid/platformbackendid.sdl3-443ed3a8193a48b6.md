@@ -13,5 +13,3 @@ reviewed: 175556ea13e733c3d12006ded566f17bf4c004b6b4ef78f6ea9ff67c4e9d4d65
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled sdl3 implementation.

@@ -13,5 +13,3 @@ reviewed: 202160547c2a99fc3c657ed111c1402820cfb71b60bce327bcd6580df1565255
 source: xml
 outdated: false
 ---
-
-Selects the plot lines presentation behavior.

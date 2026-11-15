@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a frozen module resolved by the asset owner; null means unassigned or unavailable.

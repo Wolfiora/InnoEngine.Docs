@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Raised when a key is pressed.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

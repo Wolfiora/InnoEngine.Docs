@@ -13,5 +13,3 @@ reviewed: 2c2ce9c453ae5732016c9b4c24ba3cba4959e0cf2fb7ee5d116de7c932013aa0
 source: xml
 outdated: false
 ---
-
-Identifies the W presentation key or modifier.

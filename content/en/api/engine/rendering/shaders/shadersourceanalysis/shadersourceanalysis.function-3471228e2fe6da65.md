@@ -13,5 +13,3 @@ reviewed: 65c04d6f07a20c57f4e09e5152c6a8e9e90572f246b89d0993938f567e3c5a65
 source: xml
 outdated: false
 ---
-
-Gets the parsed interface, or null after an analysis failure.

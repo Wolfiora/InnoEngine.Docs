@@ -13,5 +13,3 @@ reviewed: 4327c1bc2ea2e38be7e009ebc35b442182117167757843525aff04362a63002d
 source: xml
 outdated: false
 ---
-
-The backspace key.

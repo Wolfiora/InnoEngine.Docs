@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the stable project-independent identity assigned to a layer slot.
-
 ## Parameters
 
 **Parameter `layer`:** The layer slot to resolve.

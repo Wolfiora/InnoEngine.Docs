@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable imported texture description.
-
 ## Parameters
 
 **Parameter `width`:** The positive source pixel width.

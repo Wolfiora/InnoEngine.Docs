@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Contributes Editor-only icons and bounds without modifying a rendering model.

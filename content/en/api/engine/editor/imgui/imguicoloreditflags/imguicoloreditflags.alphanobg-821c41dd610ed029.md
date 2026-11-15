@@ -13,5 +13,3 @@ reviewed: ab0dbcc6b9bbc0243ede6da86a592f34429d72c0d7f7ee2aeb07c426f4a93df4
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: disable rendering a checkerboard background behind transparent color.

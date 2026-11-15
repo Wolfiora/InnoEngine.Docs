@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a deployed shader artifact and validates it against the requesting runtime shader and variant.
-
 ## Parameters
 
 **Parameter `bytes`:** The complete binary deployment payload.

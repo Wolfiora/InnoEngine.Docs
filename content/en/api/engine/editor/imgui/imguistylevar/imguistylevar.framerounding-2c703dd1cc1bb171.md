@@ -13,5 +13,3 @@ reviewed: 1b96f7f09c6b7d0d5385eff1864f0f3298bb5f9d1525e8017a2538fa5b393d19
 source: xml
 outdated: false
 ---
-
-Selects the frame rounding presentation behavior.

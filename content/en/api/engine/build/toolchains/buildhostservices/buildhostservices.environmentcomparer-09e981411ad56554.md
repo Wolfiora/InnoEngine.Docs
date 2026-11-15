@@ -13,5 +13,3 @@ reviewed: 8ea38dbcebaa11dc463633123c7f26b077d695ce9e58678b6b65b900eede24b9
 source: xml
 outdated: false
 ---
-
-Gets environment variable name semantics.

@@ -13,5 +13,3 @@ reviewed: 9a16b4a578bd928c05b6be64fe671a87b756ced95c7d84fd434406ed5c75eba0
 source: xml
 outdated: false
 ---
-
-Packed 10:10:10:2 vertex attributes are supported.

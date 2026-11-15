@@ -13,5 +13,3 @@ reviewed: bb66c58c681348e617b749ebc1d25fca244dfb0274f0445830906eb18607b91d
 source: xml
 outdated: false
 ---
-
-Gets the backend device generation that owns this voice.

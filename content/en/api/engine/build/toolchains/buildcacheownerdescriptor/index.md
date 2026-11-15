@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Registers a publisher's exact cache boundary and its current artifact ownership inventory.

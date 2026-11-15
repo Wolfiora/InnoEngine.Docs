@@ -13,5 +13,3 @@ reviewed: c5103b38950950845af1231f02ee98ba75f803d83eb2f12380dfdfa222ca9ad4
 source: xml
 outdated: false
 ---
-
-In multi-line mode, validate with Enter, add new line with Ctrl+Enter (default is opposite: validate with Ctrl+Enter, add line with Enter).

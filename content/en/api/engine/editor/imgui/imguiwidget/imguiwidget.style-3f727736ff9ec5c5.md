@@ -13,5 +13,3 @@ reviewed: 945b41d8e6a075731ff9768f7b06556949a8cde30462a3bf084f33be9bcabe94
 source: xml
 outdated: false
 ---
-
-Gets the centralized editor layout metrics shared by every widget and feature panel.

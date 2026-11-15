@@ -13,5 +13,3 @@ reviewed: 28139981b065be5c44c33ba88b2c367fa95d2c84401e08954249036c05f082df
 source: xml
 outdated: false
 ---
-
-Gets all diagnostics produced by the compilation.

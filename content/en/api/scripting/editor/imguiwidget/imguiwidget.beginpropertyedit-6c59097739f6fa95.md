@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Starts a History boundary only when a changed control is actively producing continuous input.
-
 ## Parameters
 
 **Parameter `history`:** The authoritative domain History receiving the control's existing mutation records.

@@ -13,5 +13,3 @@ reviewed: 2d315c844ac4c201e36ebf18977b23cded4a88a896490008afcbfb9d11e51ad8
 source: xml
 outdated: false
 ---
-
-Identifies the F10 presentation key or modifier.

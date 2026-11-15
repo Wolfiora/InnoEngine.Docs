@@ -13,5 +13,3 @@ reviewed: 920ccc595791539c8962c0b8461218f2f9b962549d8e5ecb73bb742be5141a5f
 source: xml
 outdated: false
 ---
-
-Gets syntax-level type names declared by the source.

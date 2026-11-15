@@ -13,5 +13,3 @@ reviewed: 40c5c35c0ea51ef1d71a77bcf4f459398222e828953834856e9a2b125e541660
 source: xml
 outdated: false
 ---
-
-Gets whether this handle identifies a live context candidate.

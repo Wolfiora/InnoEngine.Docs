@@ -13,5 +13,3 @@ reviewed: 0a5daae0e8ccb98ce7c78cb4b3e3fb730c5f73bb3197828e21c894a362c44d5d
 source: xml
 outdated: false
 ---
-
-Gets dependencies whose defaults may be replaced.

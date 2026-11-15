@@ -13,5 +13,3 @@ reviewed: e3de9fd5b19a0499fac01175485260a3fc51f067596585dab85256598031e45b
 source: xml
 outdated: false
 ---
-
-Gets the scene element kind that expected the missing type.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Maps one output pointer onto this item's local surface.
-
 ## Parameters
 
 **Parameter `view`:** Exact rendered view.

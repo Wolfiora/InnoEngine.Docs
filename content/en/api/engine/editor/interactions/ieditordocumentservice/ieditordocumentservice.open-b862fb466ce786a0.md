@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens a document or returns its existing single instance.
-
 ## Parameters
 
 **Parameter `assetPath`:** Project asset path.

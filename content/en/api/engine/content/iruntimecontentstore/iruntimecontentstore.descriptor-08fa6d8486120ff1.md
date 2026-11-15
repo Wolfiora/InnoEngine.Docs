@@ -13,5 +13,3 @@ reviewed: a73003b633cb534af75da69e1bb8a4d55e01e093f4eb4c5cc285e9b41c9a168c
 source: xml
 outdated: false
 ---
-
-Gets the immutable complete-pack identity.

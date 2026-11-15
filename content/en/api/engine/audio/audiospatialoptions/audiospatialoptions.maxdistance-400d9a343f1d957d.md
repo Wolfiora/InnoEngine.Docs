@@ -13,5 +13,3 @@ reviewed: 5a8a9e4894c9e6374e8bd1b6f7c2c4ccd92ad18e9df84896e2f71d5efbe6f7d8
 source: xml
 outdated: false
 ---
-
-Gets the distance beyond which attenuation is clamped.

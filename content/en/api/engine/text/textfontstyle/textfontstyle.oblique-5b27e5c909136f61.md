@@ -13,5 +13,3 @@ reviewed: 10e3c78c5b4ae3286dfc4b5174ddf87eecff5cc47f12884ba473ce8f420d7558
 source: xml
 outdated: false
 ---
-
-Uses an oblique face.

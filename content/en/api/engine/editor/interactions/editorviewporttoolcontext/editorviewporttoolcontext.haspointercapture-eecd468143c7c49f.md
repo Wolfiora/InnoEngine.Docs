@@ -13,5 +13,3 @@ reviewed: c431d97caeb6e43e97043acb83aa35b4c4969e5256f5a5575bf5596cb2068199
 source: xml
 outdated: false
 ---
-
-Gets whether this tool owns a pointer.

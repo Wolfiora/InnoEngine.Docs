@@ -13,5 +13,3 @@ reviewed: 285a1e95475dffa9595ae6a23aae157b83f0374d425a9f513d7e1d85267c81f5
 source: xml
 outdated: false
 ---
-
-Gets the active editor interaction entry point.

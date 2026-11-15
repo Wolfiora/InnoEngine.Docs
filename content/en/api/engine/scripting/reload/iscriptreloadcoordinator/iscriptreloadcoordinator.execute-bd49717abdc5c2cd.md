@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits a prepared assembly reload together with dependent host state.
-
 ## Parameters
 
 **Parameter `reload`:** The prepared assembly reload session to activate and complete.

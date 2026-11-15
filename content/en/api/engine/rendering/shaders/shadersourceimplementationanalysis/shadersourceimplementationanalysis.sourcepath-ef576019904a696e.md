@@ -13,5 +13,3 @@ reviewed: 290975c6451971ff2be0815ef42feed7a148ba5a68347f5196b01004b631e1f6
 source: xml
 outdated: false
 ---
-
-Gets the root source path in the frozen source set.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds text to the current window draw list.
-
 ## Parameters
 
 **Parameter `position`:** The screen-space text origin.

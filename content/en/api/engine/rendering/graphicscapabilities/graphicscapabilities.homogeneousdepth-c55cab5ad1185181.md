@@ -13,5 +13,3 @@ reviewed: 6c56c4d17830f0353fbd24941e9e25807c1d0c878b19ad0bbc4c0a8c9925650e
 source: xml
 outdated: false
 ---
-
-Gets whether clip-space depth uses the negative-one-to-one range.

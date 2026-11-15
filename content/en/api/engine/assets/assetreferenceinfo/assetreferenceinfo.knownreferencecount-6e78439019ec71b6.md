@@ -13,5 +13,3 @@ reviewed: c29422ef551117c6fc511f6ca61391a9d894d73dd9ee56de7c682f35cab90e49
 source: xml
 outdated: false
 ---
-
-Gets the number of engine-known reference locations.

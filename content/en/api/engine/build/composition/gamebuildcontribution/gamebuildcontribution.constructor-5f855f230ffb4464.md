@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the complete contribution without instantiating authoring services or tools.
-
 ## Parameters
 
 **Parameter `platform`:** The platform-owned target, packaging, Support Pack and SDK contribution.

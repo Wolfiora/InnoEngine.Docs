@@ -13,5 +13,3 @@ reviewed: bf5d0febbabb23fd9c8f437f0eae266ed2e8e924364b3589645cbd4707c23a58
 source: xml
 outdated: false
 ---
-
-Gets or initializes whether the complete transitive dependency closure is embedded.

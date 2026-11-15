@@ -13,5 +13,3 @@ reviewed: a45ddb295aae8de2db626af5a7dc635e1a5ef7f9082e8f0183a49342c20b11ff
 source: xml
 outdated: false
 ---
-
-Display a bullet instead of arrow. IMPORTANT: node can still be marked open/close if you don't set the \_Leaf flag!

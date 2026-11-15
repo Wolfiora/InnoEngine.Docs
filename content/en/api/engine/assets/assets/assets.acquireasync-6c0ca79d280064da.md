@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a canonical asset and explicitly retains it until the returned lease is disposed.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required asset contract.

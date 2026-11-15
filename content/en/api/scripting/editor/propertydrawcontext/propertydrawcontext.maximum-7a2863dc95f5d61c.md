@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the optional inclusive numeric upper bound supplied by Inspector metadata.

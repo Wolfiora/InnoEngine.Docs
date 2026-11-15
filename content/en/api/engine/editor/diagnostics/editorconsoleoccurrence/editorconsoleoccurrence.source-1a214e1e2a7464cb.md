@@ -13,5 +13,3 @@ reviewed: 41add8fa112308a9d0d91f222e0ddeae48a706a666b13d6318dac07a119dc39e
 source: xml
 outdated: false
 ---
-
-Gets the human-readable producer name.

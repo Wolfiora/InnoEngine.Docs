@@ -13,5 +13,3 @@ reviewed: fb7c46c08f9b2a5473e6a26e7db1bd39e6978890e463b4ba76152a80465bf71d
 source: xml
 outdated: false
 ---
-
-Gets the captured stack trace, or an empty string when unavailable.

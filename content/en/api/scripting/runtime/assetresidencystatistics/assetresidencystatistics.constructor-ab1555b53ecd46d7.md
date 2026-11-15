@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable residency snapshot.
-
 ## Parameters
 
 **Parameter `residentAssetCount`:** Number of currently materialized canonical assets.

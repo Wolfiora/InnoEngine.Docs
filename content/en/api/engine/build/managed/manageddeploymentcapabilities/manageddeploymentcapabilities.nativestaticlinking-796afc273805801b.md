@@ -13,5 +13,3 @@ reviewed: 52261276b50fdef9e1a42346ac7679352dad3040528c114fe3b38e0ba904c4be
 source: xml
 outdated: false
 ---
-
-Gets whether native objects participate in final linking.

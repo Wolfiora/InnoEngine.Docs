@@ -13,5 +13,3 @@ reviewed: 13b7112b1fd063f99a628efe866d2e90a40e5c95e45bb397523353b3e9ae9f9d
 source: xml
 outdated: false
 ---
-
-Gets the step's explicit configuration, or null to borrow the containing product configuration.

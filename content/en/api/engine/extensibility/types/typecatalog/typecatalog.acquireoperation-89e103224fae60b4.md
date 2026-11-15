@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Defers automatic assembly publication until a synchronous typed operation releases its current owners.
-
 ## Parameters
 
 **Parameter `operation`:** The operation name used for admission diagnostics.

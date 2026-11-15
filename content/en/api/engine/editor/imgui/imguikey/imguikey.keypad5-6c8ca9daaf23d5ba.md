@@ -13,5 +13,3 @@ reviewed: 1b7b2cac08bbbb027e1175585e5faff657937034f1cee007178c39fea868a5cf
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad5 presentation key or modifier.

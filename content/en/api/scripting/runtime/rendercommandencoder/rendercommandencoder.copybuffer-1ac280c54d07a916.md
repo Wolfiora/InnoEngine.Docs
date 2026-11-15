@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies buffer content without transferring resource ownership.
-
 ## Parameters
 
 **Parameter `source`:** Frame-scoped source buffer.

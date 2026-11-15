@@ -13,5 +13,3 @@ reviewed: 2a01a153c30ee2014ab3cc0e98c6e40380d31e07b380707353de989c7779afe5
 source: xml
 outdated: false
 ---
-
-Vertex input data.

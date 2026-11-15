@@ -13,5 +13,3 @@ reviewed: 7c71701e651d61e6b3335e95749f58ddddd4adc0a696d2d76e67a23a947991c8
 source: xml
 outdated: false
 ---
-
-Selects the hdr presentation behavior.

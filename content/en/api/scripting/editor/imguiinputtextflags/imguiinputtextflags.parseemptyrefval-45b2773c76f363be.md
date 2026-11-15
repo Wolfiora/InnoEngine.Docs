@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-InputFloat(), InputInt(), InputScalar() etc. only: parse empty string as zero value.

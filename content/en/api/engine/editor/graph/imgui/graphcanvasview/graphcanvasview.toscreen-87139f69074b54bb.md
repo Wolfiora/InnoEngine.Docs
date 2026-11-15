@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Projects a graph-space location into the current screen rectangle.
-
 ## Parameters
 
 **Parameter `point`:** The domain-independent graph coordinate.

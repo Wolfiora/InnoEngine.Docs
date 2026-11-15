@@ -13,5 +13,3 @@ reviewed: 690767da7881042befdf27f0aed98d206d5ee987e012abddd87dc74b363c42e1
 source: xml
 outdated: false
 ---
-
-Gets the target associated with the focused area.

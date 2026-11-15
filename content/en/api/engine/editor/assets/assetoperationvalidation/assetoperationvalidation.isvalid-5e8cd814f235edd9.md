@@ -13,5 +13,3 @@ reviewed: a1b4d34aee8823f9d8c4f097e3b2160bdab33ee09a99810874beefc35b0bf623
 source: xml
 outdated: false
 ---
-
-Gets whether the operation may proceed.

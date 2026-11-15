@@ -13,5 +13,3 @@ reviewed: b454087b0dd261f8384f797cf0f03601b999bc686426abab8a95dcc8392766e9
 source: xml
 outdated: false
 ---
-
-Gets the stable source implementation identity paired with this rendering adapter.

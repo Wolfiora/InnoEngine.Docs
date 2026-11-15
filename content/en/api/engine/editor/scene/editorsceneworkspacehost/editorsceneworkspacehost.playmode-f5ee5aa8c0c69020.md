@@ -13,5 +13,3 @@ reviewed: 91713f32c8a33b20e1061f45374dbded07f14cdf14119650f332131eed438e8c
 source: xml
 outdated: false
 ---
-
-Gets the isolated Play Mode scene-session boundary owned by this host.

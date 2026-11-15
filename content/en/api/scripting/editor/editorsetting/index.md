@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Defines one path-addressed Settings page or one custom-drawn Settings field.

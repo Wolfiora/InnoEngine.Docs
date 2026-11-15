@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Edits pass-to-program references without copying computation or changing runtime render states.

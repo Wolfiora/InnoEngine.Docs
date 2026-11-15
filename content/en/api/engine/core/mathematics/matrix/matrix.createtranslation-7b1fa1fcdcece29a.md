@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a translation matrix.
-
 ## Parameters
 
 **Parameter `x`:** Translation on X axis.

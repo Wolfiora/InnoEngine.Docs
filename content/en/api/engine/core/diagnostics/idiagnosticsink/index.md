@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Receives complete diagnostic-state changes from a `T:Inno.Core.Diagnostics.DiagnosticHub`.

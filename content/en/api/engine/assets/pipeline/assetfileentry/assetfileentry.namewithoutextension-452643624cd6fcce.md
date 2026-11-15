@@ -13,5 +13,3 @@ reviewed: 1e71492980fffdf1799f9def6a1e11f29e25e6cebc98ba5ec3d69a762b2db212
 source: xml
 outdated: false
 ---
-
-Gets the final source path segment without its last extension.

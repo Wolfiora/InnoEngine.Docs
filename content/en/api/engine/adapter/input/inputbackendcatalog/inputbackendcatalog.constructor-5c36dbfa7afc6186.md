@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and captures a complete provider set without creating any service.
-
 ## Parameters
 
 **Parameter `providers`:** Providers whose lifetime remains with the composition owner.

@@ -13,5 +13,3 @@ reviewed: d8f345dffdc355d02aea67a969507f5b3c880abe5c0cf9a0b19a689c61ab6ec7
 source: xml
 outdated: false
 ---
-
-Native preparation is still in progress and the clip must not start yet.

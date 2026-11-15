@@ -18,5 +18,3 @@ contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []
 ---
-
-Captures immutable keyboard and pointer state at one runtime frame boundary.

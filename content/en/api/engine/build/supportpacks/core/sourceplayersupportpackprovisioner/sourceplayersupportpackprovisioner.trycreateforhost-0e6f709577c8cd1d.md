@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds the checkout that owns the running Editor or build command.
-
 ## Parameters
 
 **Parameter `startDirectory`:** The host binary directory from which to search upward.

@@ -13,5 +13,3 @@ reviewed: e804359796c800b464924f818c8c3c29c2d656e39d73ae132a470cc3bd2b2a21
 source: xml
 outdated: false
 ---
-
-Gets the matching authoring target factory.

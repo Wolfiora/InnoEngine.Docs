@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a graph texture to a shader interface slot.
-
 ## Parameters
 
 **Parameter `binding`:** Stable shader binding identifier.

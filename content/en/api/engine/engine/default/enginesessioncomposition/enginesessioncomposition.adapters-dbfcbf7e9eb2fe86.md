@@ -13,5 +13,3 @@ reviewed: db8063ac21691a0ad2f4f8127ac95ba8b11ee605030d04bd88f0950b9f79bd34
 source: xml
 outdated: false
 ---
-
-Gets the backend-neutral adapter factory catalog.

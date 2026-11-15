@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a fresh directory and ownership record under an explicitly supplied file boundary.
-
 ## Parameters
 
 **Parameter `root`:** The absolute producer-controlled root; existing unrecorded directories are never adopted.

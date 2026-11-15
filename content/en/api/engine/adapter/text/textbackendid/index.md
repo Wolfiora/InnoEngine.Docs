@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-text#provider-and-ownership-contract
 aliases: []
 ---
-
-Identifies a text implementation without closing the set of supported backends.

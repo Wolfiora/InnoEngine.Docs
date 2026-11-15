@@ -13,5 +13,3 @@ reviewed: a2f47e01b6ff3dfbe49e5b00b7a101907f234cad729a1c687403d7b7b09ce71d
 source: xml
 outdated: false
 ---
-
-Eighth texture coordinate.

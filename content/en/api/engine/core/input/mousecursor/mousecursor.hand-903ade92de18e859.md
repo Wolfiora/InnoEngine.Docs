@@ -13,5 +13,3 @@ reviewed: b8ea62b2618041d934a052a2892b0803117eed4309c0da00ffc27baabe1952a4
 source: xml
 outdated: false
 ---
-
-A hand pointer for an interactive target.

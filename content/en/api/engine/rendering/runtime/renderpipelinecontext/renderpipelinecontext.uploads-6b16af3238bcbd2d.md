@@ -13,5 +13,3 @@ reviewed: 90075023f14ed1690dc97ad694537e0ac421cfff7cab94d16bd3b60925537f14
 source: xml
 outdated: false
 ---
-
-Gets the frame-scoped streaming buffer service.

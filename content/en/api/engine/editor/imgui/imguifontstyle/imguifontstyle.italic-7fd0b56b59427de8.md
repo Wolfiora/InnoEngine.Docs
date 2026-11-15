@@ -13,5 +13,3 @@ reviewed: 9b630e853614e7147b8aa50d07dc548880be906984205c95756c462c4142b8f9
 source: xml
 outdated: false
 ---
-
-Emphasizes text with the italic face.

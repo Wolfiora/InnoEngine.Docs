@@ -13,5 +13,3 @@ reviewed: 36eaa29d6d2c17201066acffd3b8e0e4c860ed3e15b8643456de51d036b569cd
 source: xml
 outdated: false
 ---
-
-Cubemap texture with optional cubemap array layers.

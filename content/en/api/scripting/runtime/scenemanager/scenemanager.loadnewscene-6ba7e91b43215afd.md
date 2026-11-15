@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates and loads a new active scene in the current runtime session.
-
 ## Parameters
 
 **Parameter `name`:** The initial scene display name.

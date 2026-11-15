@@ -13,5 +13,3 @@ reviewed: 0cca308599635a441aaff41fe07adab903e4648582c30a87a803c818bcdb7657
 source: xml
 outdated: false
 ---
-
-The 5 key on the numeric keypad.

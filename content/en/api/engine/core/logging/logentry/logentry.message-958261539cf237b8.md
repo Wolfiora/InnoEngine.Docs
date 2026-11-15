@@ -13,5 +13,3 @@ reviewed: 6b3d89ac90efba984fe67a97bab6b664d7feb6544a28c49d8448d8f79185c5e3
 source: xml
 outdated: false
 ---
-
-Gets the rendered message text.

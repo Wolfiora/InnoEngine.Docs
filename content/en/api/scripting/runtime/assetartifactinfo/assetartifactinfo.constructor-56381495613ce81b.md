@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an artifact output descriptor.
-
 ## Parameters
 
 **Parameter `key`:** The immutable bundle identity that owns this output.

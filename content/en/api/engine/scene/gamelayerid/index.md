@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Identifies one project-scoped game layer independently from its compact runtime slot.

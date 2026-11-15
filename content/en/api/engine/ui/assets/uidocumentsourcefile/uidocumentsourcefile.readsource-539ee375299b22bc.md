@@ -13,5 +13,3 @@ reviewed: 36e844b0f96a79e02ecd08541f1143449454c8ed65a1487726b2065fefa7a87a
 source: xml
 outdated: false
 ---
-
-Reads and records an optional isolated source dependency.

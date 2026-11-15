@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the optional exact view/projection contract used by host-owned transform manipulation tools.

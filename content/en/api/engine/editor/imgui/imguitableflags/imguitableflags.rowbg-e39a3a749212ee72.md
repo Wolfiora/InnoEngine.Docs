@@ -13,5 +13,3 @@ reviewed: ea5ac0e549fbb649fae71d30de815d6f49db1efb71a5f3fed188d3c6f9bf5b4a
 source: xml
 outdated: false
 ---
-
-Set each RowBg color with ImGuiCol\_TableRowBg or ImGuiCol\_TableRowBgAlt (equivalent of calling TableSetBgColor with ImGuiTableBgFlags\_RowBg0 on each row manually)

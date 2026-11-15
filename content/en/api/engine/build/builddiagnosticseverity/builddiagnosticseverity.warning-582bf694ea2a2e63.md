@@ -13,5 +13,3 @@ reviewed: fd6968bc1aeed7ce5d8e8e8f0dd2e146c24721c9800118924a6040ac44a63a9c
 source: xml
 outdated: false
 ---
-
-Reports a condition that did not prevent output creation.

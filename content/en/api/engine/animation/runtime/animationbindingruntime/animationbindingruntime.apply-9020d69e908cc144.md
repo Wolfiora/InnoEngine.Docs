@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies a frame batch using the currently committed binding generation.
-
 ## Parameters
 
 **Parameter `samples`:** Final samples, independently blended by destination and binding.

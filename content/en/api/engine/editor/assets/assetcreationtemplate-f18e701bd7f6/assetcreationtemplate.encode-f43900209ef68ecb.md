@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes the detached initial value into the source representation owned by this template.
-
 ## Parameters
 
 **Parameter `context`:** Creation services scoped to the current Asset source pipeline.

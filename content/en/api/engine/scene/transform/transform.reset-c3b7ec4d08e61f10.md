@@ -13,5 +13,3 @@ reviewed: c30ed7a22f4b3c34da46b8c7782efb14b9ee6601bf967fcfb59161010767c7d4
 source: xml
 outdated: false
 ---
-
-Restores this instance to its initial reusable state.

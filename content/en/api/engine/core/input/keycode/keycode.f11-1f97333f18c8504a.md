@@ -13,5 +13,3 @@ reviewed: 784841537de100fb30f48a69252513adf5b25ba956dbf624ef55bd6899e3f743
 source: xml
 outdated: false
 ---
-
-The F11 function key.

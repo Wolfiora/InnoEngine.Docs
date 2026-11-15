@@ -13,5 +13,3 @@ reviewed: bd056bdadb991f9b92ec802c3405feb4c6bc341e66cb343363a4f2ba261f5c38
 source: xml
 outdated: false
 ---
-
-Old path relative to watched root for rename operations. Empty for non-rename changes.

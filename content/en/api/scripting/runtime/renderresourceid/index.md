@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies a pipeline-defined semantic resource without imposing a central resource catalog.

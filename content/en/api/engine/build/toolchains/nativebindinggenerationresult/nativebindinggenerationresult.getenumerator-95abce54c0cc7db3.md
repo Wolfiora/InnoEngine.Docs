@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns an enumerator that iterates through the collection.
-
 ## Returns
 
 An enumerator that can be used to iterate through the collection.

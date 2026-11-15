@@ -13,5 +13,3 @@ reviewed: 7bc7b3706c333fe11bb7e97f4149cd229bb07e7ff40dd6cc97d5592740cd8f23
 source: xml
 outdated: false
 ---
-
-Gets whether a Redo transition is currently available.

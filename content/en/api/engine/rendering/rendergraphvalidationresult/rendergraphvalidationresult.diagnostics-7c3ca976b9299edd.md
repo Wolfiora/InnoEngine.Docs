@@ -13,5 +13,3 @@ reviewed: 9f712bf070569c45bbb0684b00cad1b88cdcefc346e436fae48acc08792a2dc0
 source: xml
 outdated: false
 ---
-
-Gets frozen deterministic diagnostics for the validated revision.

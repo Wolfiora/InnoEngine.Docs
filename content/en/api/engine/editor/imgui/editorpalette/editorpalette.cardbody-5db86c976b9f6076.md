@@ -13,5 +13,3 @@ reviewed: f70701315a13e7b7a5677066c306eae23c02bb19b528caac2843587dc82e4b3b
 source: xml
 outdated: false
 ---
-
-Gets card body background.

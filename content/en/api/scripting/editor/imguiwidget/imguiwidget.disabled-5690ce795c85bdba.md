@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws content inside an ImGui disabled scope when requested.
-
 ## Parameters
 
 **Parameter `disabled`:** Whether interaction is disabled.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and attaches a component of the requested type.
-
 ## Type parameters
 
 **Type parameter `TComponent`:** Concrete component type.

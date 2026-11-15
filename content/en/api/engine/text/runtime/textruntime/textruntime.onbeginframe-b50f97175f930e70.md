@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds the script-facing text facade for the complete runtime frame.
-
 ## Parameters
 
 **Parameter `frame`:** The current runtime frame.

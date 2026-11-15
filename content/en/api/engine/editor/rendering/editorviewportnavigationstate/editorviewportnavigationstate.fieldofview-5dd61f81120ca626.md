@@ -13,5 +13,3 @@ reviewed: e16e196ae186ab759ef7eb01bbd274d7ace85de3fa535438815ece67d02a68ac
 source: xml
 outdated: false
 ---
-
-Gets or sets the perspective vertical field of view in degrees.

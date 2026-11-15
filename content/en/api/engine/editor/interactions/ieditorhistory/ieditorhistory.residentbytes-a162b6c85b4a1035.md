@@ -13,5 +13,3 @@ reviewed: dda2234c211f32fdccc31a167352a3974619e9e2126e7c8406505ea069624eec
 source: xml
 outdated: false
 ---
-
-Gets the resident payload bytes retained by committed entries.

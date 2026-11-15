@@ -13,5 +13,3 @@ reviewed: 42c0d8a06e76b64d4201911387f2a0de9d380196223d68611443c988c527f193
 source: xml
 outdated: false
 ---
-
-Gets stable ordering metadata that updates audio after scene simulation.

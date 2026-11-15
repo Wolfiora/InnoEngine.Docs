@@ -13,5 +13,3 @@ reviewed: f4c8fd4a27748dc2d8c4bb4940e3c120f61f7a66195d7e2a52a7d039dd2b3655
 source: xml
 outdated: false
 ---
-
-Selects the frame bg hovered presentation behavior.

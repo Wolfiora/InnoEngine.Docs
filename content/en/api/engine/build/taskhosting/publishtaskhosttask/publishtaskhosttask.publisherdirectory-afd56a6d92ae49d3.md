@@ -13,5 +13,3 @@ reviewed: be11fe630add097cdd67c61f3bdad5663fb541d4e0abca6cc5e3c6a0668153f0
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional private bootstrap directory to register under the same process ownership. An empty value leaves the caller's publisher assembly lifetime outside this cache.

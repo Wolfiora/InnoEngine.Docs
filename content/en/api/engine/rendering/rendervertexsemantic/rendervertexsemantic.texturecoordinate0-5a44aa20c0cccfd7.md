@@ -13,5 +13,3 @@ reviewed: 28e4e26da02ec43ece45f2cc7ff6c2df20e1ec60897e072e23d704e779a9cbca
 source: xml
 outdated: false
 ---
-
-Primary texture coordinate.

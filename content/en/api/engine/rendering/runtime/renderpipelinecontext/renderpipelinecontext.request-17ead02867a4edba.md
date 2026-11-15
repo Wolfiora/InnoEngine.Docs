@@ -13,5 +13,3 @@ reviewed: 9b65b4b63d19a4cc882b1acf84c91a3130ea3b63e10d6f7db57d1781b40bcfb6
 source: xml
 outdated: false
 ---
-
-Gets the current request.

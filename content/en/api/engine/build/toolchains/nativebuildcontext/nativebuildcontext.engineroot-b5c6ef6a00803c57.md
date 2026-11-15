@@ -13,5 +13,3 @@ reviewed: 927b4f4a4974d595d06ed4a308c53bec9bfc6d4631ba88efc3450c4074a0e8d4
 source: xml
 outdated: false
 ---
-
-Gets the frozen physical checkout used for every source, intermediate and output path.

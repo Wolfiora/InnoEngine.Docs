@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete selection while leaving the location-dependent storage choice to the product.
-
 ## Parameters
 
 **Parameter `storage`:** The storage implementation explicitly registered by the product.

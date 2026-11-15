@@ -13,5 +13,3 @@ reviewed: 867373f7327549250871f5af48b87710e16ccaad30e72680b02621f0288d66f5
 source: xml
 outdated: false
 ---
-
-Disable behavior of closing tabs (that are submitted with p\_open != NULL) with middle mouse button. You may handle this behavior manually on user's side with if (IsItemHovered() & & IsMouseClicked(2)) \*p\_open = false.

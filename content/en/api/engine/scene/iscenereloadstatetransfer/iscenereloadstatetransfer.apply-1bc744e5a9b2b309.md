@@ -13,5 +13,3 @@ reviewed: 4cd4cb1c257da92a47bb6341e85863c84c3d1f0f5500caa33dfc6506c82f25c8
 source: xml
 outdated: false
 ---
-
-Creates replacement instances and restores their serialized state.

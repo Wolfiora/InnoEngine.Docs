@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Marks a reloadable render pipeline implementation with a stable extension identifier.

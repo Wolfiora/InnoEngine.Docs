@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one handle that completes after every supplied dependency.
-
 ## Parameters
 
 **Parameter `dependencies`:** Handles combined by the returned synchronization point.

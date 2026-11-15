@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Multiplies the supplied values according to their algebraic contract.
-
 ## Parameters
 
 **Parameter `s`:** The s consumed by \*; ownership remains with the caller unless explicitly stated otherwise.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes preparation and submission in stack order, then completion in reverse order.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

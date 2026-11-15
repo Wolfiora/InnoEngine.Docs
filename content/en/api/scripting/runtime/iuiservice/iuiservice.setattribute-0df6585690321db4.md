@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets one element attribute.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

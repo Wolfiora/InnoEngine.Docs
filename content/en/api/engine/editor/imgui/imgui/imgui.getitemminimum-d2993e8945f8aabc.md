@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the minimum screen-space corner of the previous item.
-
 ## Returns
 
 The item minimum corner.

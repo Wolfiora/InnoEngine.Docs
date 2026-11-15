@@ -13,5 +13,3 @@ reviewed: fbdcfbcc3b8bbe19cc48eda96d01554440d8d8f9edb42425ba5c923369c54093
 source: xml
 outdated: false
 ---
-
-Gets the additional assembly artifacts that belong to this same module generation.

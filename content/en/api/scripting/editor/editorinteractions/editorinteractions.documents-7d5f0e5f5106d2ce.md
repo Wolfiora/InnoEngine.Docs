@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the headless reload-safe document lifetime used by dedicated asset editors and Inspectors.

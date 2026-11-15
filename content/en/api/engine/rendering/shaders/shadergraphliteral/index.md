@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores an exact typed value for an unconnected node input, independently of source-language syntax.

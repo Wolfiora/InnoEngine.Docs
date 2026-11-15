@@ -13,5 +13,3 @@ reviewed: 5e757a7ed807d174e8ded6cc44b57b785721ec5ee2ccef74e7a06d99eba7273e
 source: xml
 outdated: false
 ---
-
-Gets the vertex layout when vertex usage is present.

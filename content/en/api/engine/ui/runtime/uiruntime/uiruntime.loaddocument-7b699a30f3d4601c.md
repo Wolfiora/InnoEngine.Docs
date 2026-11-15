@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads a document into the specified independent UI context.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

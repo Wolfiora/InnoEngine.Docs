@@ -13,5 +13,3 @@ reviewed: e0382e1a3fb21af02579d999822a8eec62ee989caee6167ca934b2b8a3afffad
 source: xml
 outdated: false
 ---
-
-Gets the serialized member key.

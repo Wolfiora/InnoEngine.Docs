@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Establishes an immutable artifact's ownership once, or confirms its unchanged registration without rewriting it.
-
 ## Parameters
 
 **Parameter `directory`:** The completed artifact within this publisher's exact boundary.

@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Owns immutable neutral bytes used by a reload-safe editor history change.

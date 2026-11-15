@@ -13,5 +13,3 @@ reviewed: bb2869e38fc95939882b1b517b26426dc30d4159062ca5fd3511f326b83d7e43
 source: xml
 outdated: false
 ---
-
-Configures the label and input columns of an active table with a shared two-to-three ratio. A following fixed-width action column may be added by the caller.

@@ -13,5 +13,3 @@ reviewed: 0cdbea7af2c9c1a3f67a76d8c865ac349e06cf06f00d3c564e0207935b68c71f
 source: xml
 outdated: false
 ---
-
-Whether an editor viewport owns application focus.

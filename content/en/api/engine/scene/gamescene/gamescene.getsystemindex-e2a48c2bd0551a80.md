@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the display index of a registered system.
-
 ## Parameters
 
 **Parameter `system`:** Registered system to locate.

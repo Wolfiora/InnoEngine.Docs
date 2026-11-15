@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds immutable target facts to the provider that owns SDK resolution.
-
 ## Parameters
 
 **Parameter `descriptor`:** The exact target and ABI supported by this contribution.

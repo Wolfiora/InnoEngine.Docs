@@ -13,5 +13,3 @@ reviewed: 6eda393ba37af39234258b80f9db5da7e0bdc49288251e6df6e39e57458fc179
 source: xml
 outdated: false
 ---
-
-Default as a sorting column.

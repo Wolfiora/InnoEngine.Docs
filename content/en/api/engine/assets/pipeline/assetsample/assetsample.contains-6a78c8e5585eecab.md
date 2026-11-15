@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a source path is a sample directory or is contained by one.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path to inspect.

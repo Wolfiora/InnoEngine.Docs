@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a format is valid as a raster attachment.
-
 ## Returns
 
 `true` when the format can be attached.

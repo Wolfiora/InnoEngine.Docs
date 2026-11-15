@@ -13,5 +13,3 @@ reviewed: cff2fe129597b98966a1fb6c568ab3b7a183ddb60d23cb249b9e642d83644e43
 source: xml
 outdated: false
 ---
-
-Gets or sets the private reader location registered before returning an immutable runtime.

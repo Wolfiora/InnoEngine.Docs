@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances completed background phases and publishes the validated import at a frame safe point.
-
 ## Parameters
 
 **Parameter `context`:** The current Editor frame and interaction services.

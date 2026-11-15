@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides a detached settings value and an optimistic concurrency token for its source sidecar.
-
 ## Remarks
 
 The value belongs to the current importer generation. Editors must retain neutral serialized state, not this instance, across extension reloads. Reading this snapshot never edits source metadata.

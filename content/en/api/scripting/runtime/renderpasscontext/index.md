@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Supplies the command encoder and immutable frame identity to a pass callback.

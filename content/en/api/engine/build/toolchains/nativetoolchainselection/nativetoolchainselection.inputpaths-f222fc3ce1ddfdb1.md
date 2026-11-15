@@ -13,5 +13,3 @@ reviewed: 117bfd5592f53dee8e2d1d6567ca0f100d788cd55d46045a2f949b683c6b4d26
 source: xml
 outdated: false
 ---
-
-Gets the immutable SDK and compiler input closure.

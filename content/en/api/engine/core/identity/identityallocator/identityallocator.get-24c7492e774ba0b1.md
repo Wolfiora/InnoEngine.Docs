@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a domain-qualified runtime identity without allowing cross-session aliasing.
-
 ## Type parameters
 
 **Type parameter `TIdentity`:** The required identity object contract.

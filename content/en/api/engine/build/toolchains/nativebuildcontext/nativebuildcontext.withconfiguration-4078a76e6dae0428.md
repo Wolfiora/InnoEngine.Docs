@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects an explicit component configuration while borrowing this operation's frozen SDK and input state.
-
 ## Parameters
 
 **Parameter `configuration`:** The debug or release configuration owned by the product step.

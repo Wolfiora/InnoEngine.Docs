@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes child-only overrides so the selected executable resolves the project's own SDK. Null SDK overrides remove inherited variables rather than borrowing a parent's loaded MSBuild.
-
 ## Parameters
 
 **Parameter `hostPath`:** The explicitly selected managed executable, resolved to an absolute path before invocation.

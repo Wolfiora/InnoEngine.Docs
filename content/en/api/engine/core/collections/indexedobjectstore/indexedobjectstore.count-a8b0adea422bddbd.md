@@ -13,5 +13,3 @@ reviewed: 936601f465bd7036c3009494408ee92b7e0cdaa2577c3d16ce9de0704f66182c
 source: xml
 outdated: false
 ---
-
-Number of stored items.

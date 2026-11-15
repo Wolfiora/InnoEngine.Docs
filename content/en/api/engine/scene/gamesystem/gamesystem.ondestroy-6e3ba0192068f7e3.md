@@ -13,5 +13,3 @@ reviewed: c76e938a4aec1f80ed7cda3bdd6b4433e15d5c42cf097a412865aa545e6b57e6
 source: xml
 outdated: false
 ---
-
-Called before a system that entered runtime lifecycle is destroyed.

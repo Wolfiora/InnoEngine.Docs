@@ -13,5 +13,3 @@ reviewed: b9ffcdcc0556582b818a2675ab0a7ec54002000a8d768f09c4cf553c7ff65ca5
 source: xml
 outdated: false
 ---
-
-Describes a recoverable issue that should be reviewed.

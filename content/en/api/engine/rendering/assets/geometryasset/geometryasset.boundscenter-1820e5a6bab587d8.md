@@ -13,5 +13,3 @@ reviewed: 86de2b5e8f1adfd6b36883e53633a738629f7fe4d515e4911bad3cf5194a4a63
 source: xml
 outdated: false
 ---
-
-Gets the object-space center of imported geometry bounds.

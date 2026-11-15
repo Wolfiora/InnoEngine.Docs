@@ -13,5 +13,3 @@ reviewed: 09eaa06e67fa4a95a35701a7bdc1fe061f51dcc34c357200091b8b34b70a819f
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadEqual presentation key or modifier.

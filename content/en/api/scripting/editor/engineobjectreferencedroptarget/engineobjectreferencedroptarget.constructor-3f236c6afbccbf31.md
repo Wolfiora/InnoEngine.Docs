@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a drop target that validates and assigns an engine object to a serialized property.
-
 ## Parameters
 
 **Parameter `expectedType`:** The engine object type accepted by the property.

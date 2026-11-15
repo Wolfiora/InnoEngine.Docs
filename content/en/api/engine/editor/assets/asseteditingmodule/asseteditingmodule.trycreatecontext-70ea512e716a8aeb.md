@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the currently indexed source and extension metadata for one immediate operation.
-
 ## Parameters
 
 **Parameter `editor`:** The current editor context used only during this invocation.

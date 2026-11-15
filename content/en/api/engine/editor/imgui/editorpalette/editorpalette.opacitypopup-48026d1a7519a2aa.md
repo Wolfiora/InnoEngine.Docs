@@ -13,5 +13,3 @@ reviewed: e67f9bb995f6a6feeb2e89d8fa6d76b02e97424168472f4e20788adbd7f7d0b4
 source: xml
 outdated: false
 ---
-
-Gets popup opacity, retaining only enough transparency for depth.

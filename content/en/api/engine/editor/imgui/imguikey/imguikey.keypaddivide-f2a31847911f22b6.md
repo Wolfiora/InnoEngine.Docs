@@ -13,5 +13,3 @@ reviewed: 0748e822ab2213b4a22214b9fcef9fa769f607fca6637944f864b2cf4bd222b4
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadDivide presentation key or modifier.

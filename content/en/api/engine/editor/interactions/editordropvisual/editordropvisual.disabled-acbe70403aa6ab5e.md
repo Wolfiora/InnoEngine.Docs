@@ -13,5 +13,3 @@ reviewed: eec5810559132b15614504dd68c4d12491367c1be9faf7f27e66c9cc15d9f3a2
 source: xml
 outdated: false
 ---
-
-Draw a disabled target visual.

@@ -13,5 +13,3 @@ reviewed: 96278065995d9858ccb18e972170887c3753ff588b4ca79ea98da3cfb307fd4b
 source: xml
 outdated: false
 ---
-
-Gets all named glyphs supplied by the installed UI font, in deterministic name order.

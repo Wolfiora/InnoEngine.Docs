@@ -13,5 +13,3 @@ reviewed: bc1bbdc00762ac50978b634da35bf6d412ab92503fb9bd7bc86d5b7224afbdaf
 source: xml
 outdated: false
 ---
-
-Gets optional behavior and accepted document languages for this generation.

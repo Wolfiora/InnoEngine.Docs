@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-DragScalarN(), SliderScalarN(): Draw R/G/B/A color markers on each component.

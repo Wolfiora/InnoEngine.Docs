@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks that owned source copies still match the bytes accepted before compilation.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels complete source verification before the consumer publishes its output.

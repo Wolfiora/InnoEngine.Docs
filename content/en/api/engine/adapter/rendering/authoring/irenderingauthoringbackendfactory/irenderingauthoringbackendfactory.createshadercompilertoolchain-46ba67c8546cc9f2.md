@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the shader compiler toolchain paired with the selected rendering backend.
-
 ## Parameters
 
 **Parameter `backend`:** Stable rendering backend identity selected by the authoring composition root.

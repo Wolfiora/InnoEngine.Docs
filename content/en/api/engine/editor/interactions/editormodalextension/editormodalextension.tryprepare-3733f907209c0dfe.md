@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares one presentation frame and quarantines callback failures within its owning presentation boundary.
-
 ## Parameters
 
 **Parameter `context`:** The active owner-thread context.

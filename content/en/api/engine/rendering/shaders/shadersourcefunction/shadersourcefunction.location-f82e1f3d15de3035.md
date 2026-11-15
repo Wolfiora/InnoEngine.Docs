@@ -13,5 +13,3 @@ reviewed: a434f3bb40a77ade6f0c20e138c950b84c961f91e147e65af742e34241004291
 source: xml
 outdated: false
 ---
-
-Gets the original declaration position.

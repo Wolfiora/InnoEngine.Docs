@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Describes an imported C# source snapshot and its parse diagnostics.

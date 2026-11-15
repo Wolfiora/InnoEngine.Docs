@@ -13,5 +13,3 @@ reviewed: 0488d5c1ae1a90173eeb35004e423aae259a51b1871ca7452a33b9899708ac40
 source: xml
 outdated: false
 ---
-
-Independent line pairs.

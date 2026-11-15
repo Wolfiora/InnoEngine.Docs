@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores requests whose resolvers can access only the captured files and edges.
-
 ## Parameters
 
 **Parameter `bytes`:** Current native authoring artifact.

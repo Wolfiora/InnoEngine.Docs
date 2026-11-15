@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a catalog rooted at the directory containing target-specific Player Support Packs.
-
 ## Parameters
 
 **Parameter `root`:** The directory whose target children contain immutable fingerprint directories and a current index.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Transfers disposal ownership of a resource to this lifetime.
-
 ## Type parameters
 
 **Type parameter `TResource`:** The disposable resource type.

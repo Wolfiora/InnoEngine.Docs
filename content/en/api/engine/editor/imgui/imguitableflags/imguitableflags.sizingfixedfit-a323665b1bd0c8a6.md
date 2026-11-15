@@ -13,5 +13,3 @@ reviewed: 0022ab8609ac52b9e113d50ef3e9255aef7a8892575d5c42f69995abead11553
 source: xml
 outdated: false
 ---
-
-Columns default to \_WidthFixed or \_WidthAuto (if resizable or not resizable), matching contents width.

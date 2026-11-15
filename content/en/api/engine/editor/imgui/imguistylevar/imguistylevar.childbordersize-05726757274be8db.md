@@ -13,5 +13,3 @@ reviewed: 3c517bf633436d4b3da7bbfa3369fc5538863e5874aeb17a037b5fa6d07a1c04
 source: xml
 outdated: false
 ---
-
-Selects the child border size presentation behavior.

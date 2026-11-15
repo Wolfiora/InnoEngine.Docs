@@ -13,5 +13,3 @@ reviewed: ad72ebc8e0c0a16af6592c3149d79e1a8c76e7b82619fe9d244d0749c656e35e
 source: xml
 outdated: false
 ---
-
-Gets target height in physical pixels.

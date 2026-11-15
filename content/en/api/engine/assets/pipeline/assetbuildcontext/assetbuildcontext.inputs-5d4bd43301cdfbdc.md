@@ -13,5 +13,3 @@ reviewed: f714cb34eb145405c989882c6ed51c7b45d51eed772909410f4c518fdf1ae29b
 source: xml
 outdated: false
 ---
-
-Gets the input catalog snapshots.

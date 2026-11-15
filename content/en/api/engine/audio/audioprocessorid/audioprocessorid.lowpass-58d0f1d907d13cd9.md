@@ -13,5 +13,3 @@ reviewed: a4a4da5ae20974ef8332790ead05677161755f0185f733329f1b938293175381
 source: xml
 outdated: false
 ---
-
-Gets the standard low-pass filter processor identifier.

@@ -13,5 +13,3 @@ reviewed: 4273f9753f7a8bb2034357934130cf7f7dd8b60b90c01c695ff2b9e05855cdf2
 source: xml
 outdated: false
 ---
-
-Gets the gain outside the outer cone.

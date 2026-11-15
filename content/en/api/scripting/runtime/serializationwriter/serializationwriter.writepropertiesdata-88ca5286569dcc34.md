@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Writes independently restorable property bytes through the current converter generation.
-
 ## Parameters
 
 **Parameter `name`:** The unique member receiving the binary property snapshot.

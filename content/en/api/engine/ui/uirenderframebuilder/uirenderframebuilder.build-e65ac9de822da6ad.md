@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes the accumulated frame. The builder cannot be reused.
-
 ## Returns
 
 An immutable frame owning every supplied array.

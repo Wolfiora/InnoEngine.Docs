@@ -13,5 +13,3 @@ reviewed: a319ead96678605352c850c86bc7137f4a3e4447731a2b48dbbacb7878f7e081
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned audio factory snapshot.

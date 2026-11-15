@@ -13,5 +13,3 @@ reviewed: 53b9527c43c8e68694f0b2eb4a75c81b671a70fb158278b530e0e644e0b6324e
 source: xml
 outdated: false
 ---
-
-Gets candidate resolutions after provisional application, or an empty set before resolution or after rollback.

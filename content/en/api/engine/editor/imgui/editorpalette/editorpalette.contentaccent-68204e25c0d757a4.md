@@ -13,5 +13,3 @@ reviewed: 9ccfdd59d3b70717247414afbd60ea5937f936939b9399cbc1f841211babaa92
 source: xml
 outdated: false
 ---
-
-Gets the opaque content accent.

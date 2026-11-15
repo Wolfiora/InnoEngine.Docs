@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the current target after closing presentations owned by another target.
-
 ## Parameters
 
 **Parameter `target`:** The new target, or `null` to clear selection.

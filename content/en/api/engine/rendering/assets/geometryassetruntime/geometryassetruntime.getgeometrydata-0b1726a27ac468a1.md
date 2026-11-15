@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes the current committed mesh payload.
-
 ## Parameters
 
 **Parameter `geometry`:** Imported geometry asset.

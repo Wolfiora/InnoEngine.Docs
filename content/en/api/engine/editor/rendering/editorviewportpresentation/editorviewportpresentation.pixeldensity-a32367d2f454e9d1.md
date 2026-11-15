@@ -13,5 +13,3 @@ reviewed: a14f4d88b2c6198407c6c0722ee519e046b9d860ea604f86b245018d4e0e4100
 source: xml
 outdated: false
 ---
-
-Gets physical render pixels per logical presentation unit.

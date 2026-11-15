@@ -13,5 +13,3 @@ reviewed: e8b0b7c5892c07b5cb9f1b380e9d0642a2e96346d36b16eb82d1893d8bee310e
 source: xml
 outdated: false
 ---
-
-Gets the only generated Compile source, owned by this SDK build after the task returns.

@@ -13,5 +13,3 @@ reviewed: e26f58076bf4fe9acda1168dfe5c3d1f8ce76e22fc1ef5af39acdf60d2f6c998
 source: xml
 outdated: false
 ---
-
-Disable drawing background color (WindowBg, etc.) and outside border. Similar as using SetNextWindowBgAlpha(0.0f).

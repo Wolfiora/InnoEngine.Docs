@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances one UI context with input routed from its rendered view.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the active document.

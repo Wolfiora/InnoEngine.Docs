@@ -13,5 +13,3 @@ reviewed: 16abf58343294c654d1b24c213ad08b802e6e0fbdb46e9e599c21cdf4acfc5a1
 source: xml
 outdated: false
 ---
-
-Gets the selected audio backend.

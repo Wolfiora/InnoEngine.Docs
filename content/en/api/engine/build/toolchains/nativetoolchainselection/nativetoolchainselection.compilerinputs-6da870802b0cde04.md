@@ -13,5 +13,3 @@ reviewed: 3903a3df4f2039b846cff9079fb8855b511354fc8c4ce34ac8dbde89ec09ac04
 source: xml
 outdated: false
 ---
-
-Gets the target provider's explicit parser inputs.

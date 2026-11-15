@@ -13,5 +13,3 @@ reviewed: 999b1dca73ce3631fcbb56126ba7112dd9b417f324d86c966ea466d23dfaf54c
 source: xml
 outdated: false
 ---
-
-Gets whether stencil testing and updates are active.

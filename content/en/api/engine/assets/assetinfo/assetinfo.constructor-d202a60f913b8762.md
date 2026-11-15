@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset information snapshot.
-
 ## Parameters
 
 **Parameter `persistentId`:** Persistent identity assigned to the source asset.

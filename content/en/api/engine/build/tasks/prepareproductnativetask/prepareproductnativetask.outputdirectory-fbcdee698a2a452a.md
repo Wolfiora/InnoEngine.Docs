@@ -13,5 +13,3 @@ reviewed: 044b2cc80901c4d7159922799ed54bd1f2e6f1fe353188e429e3f5c6c296841d
 source: xml
 outdated: false
 ---
-
-Gets or sets the managed application directory receiving the complete native deployment.

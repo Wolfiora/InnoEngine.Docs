@@ -13,5 +13,3 @@ reviewed: bd50c9fddc960e699d8c58a0ad8a71bb7506f10c39ee7a6ebc2f4dab8cdb1cf3
 source: xml
 outdated: false
 ---
-
-The 3 key on the primary keyboard row.

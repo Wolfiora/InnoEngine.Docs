@@ -13,5 +13,3 @@ reviewed: 10f4176bbb07abfb950c70877040e4f3b31439968367914533853f8c65194b61
 source: xml
 outdated: false
 ---
-
-Gets the stable module name.

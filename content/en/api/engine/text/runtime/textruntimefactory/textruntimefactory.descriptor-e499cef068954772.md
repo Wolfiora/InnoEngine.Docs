@@ -13,5 +13,3 @@ reviewed: f61bb30cd84ec22c253b754b6f615ae43a3c1878a94bfaf0d41a4a2f2fbafe0d
 source: xml
 outdated: false
 ---
-
-Gets stable ordering metadata that makes text available before scene simulation.

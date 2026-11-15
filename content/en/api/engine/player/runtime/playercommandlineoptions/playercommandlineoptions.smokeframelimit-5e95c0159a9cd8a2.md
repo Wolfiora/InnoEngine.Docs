@@ -13,5 +13,3 @@ reviewed: 9d37fe5f758f533f5308a57417041246890f2895fad02811062ea0edde083122
 source: xml
 outdated: false
 ---
-
-Gets an optional positive bounded run length.

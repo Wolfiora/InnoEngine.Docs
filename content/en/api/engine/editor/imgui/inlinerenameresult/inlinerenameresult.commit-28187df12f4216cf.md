@@ -13,5 +13,3 @@ reviewed: ebfcd6fc6d06d96126a1d13a1ce728bcf82800bc834613ced422fa7ec9e64740
 source: xml
 outdated: false
 ---
-
-Indicates that the edited text should be committed.

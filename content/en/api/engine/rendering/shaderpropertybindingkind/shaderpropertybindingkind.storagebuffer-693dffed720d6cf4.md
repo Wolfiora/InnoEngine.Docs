@@ -13,5 +13,3 @@ reviewed: c3e2fcd13c4767efb7e8e85f1f6a3cdb132a245b5e2120104476b17fee8a4754
 source: xml
 outdated: false
 ---
-
-Buffer bound for unordered shader access by a Pipeline.

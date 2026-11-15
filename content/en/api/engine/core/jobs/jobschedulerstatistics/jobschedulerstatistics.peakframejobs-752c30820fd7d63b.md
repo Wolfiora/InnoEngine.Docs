@@ -13,5 +13,3 @@ reviewed: 43e94933368b1336483126de07c16afa8406965ca647819a7cd5bafd2461331a
 source: xml
 outdated: false
 ---
-
-Gets the largest admitted frame since scheduler creation.

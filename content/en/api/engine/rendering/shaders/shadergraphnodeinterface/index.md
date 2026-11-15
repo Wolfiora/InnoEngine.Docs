@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Freezes the complete public interface resolved from one graph-authored node asset.

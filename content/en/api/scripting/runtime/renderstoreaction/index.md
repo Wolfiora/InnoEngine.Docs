@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Controls whether attachment contents remain valid after a raster pass.

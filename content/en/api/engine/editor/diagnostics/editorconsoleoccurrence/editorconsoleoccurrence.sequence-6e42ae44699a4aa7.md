@@ -13,5 +13,3 @@ reviewed: 60b540584a3ab72d820a0e6c0dc78c8dcebf4d17dd538f7f17c994212ee01b97
 source: xml
 outdated: false
 ---
-
-Gets the process-local monotonic sequence assigned when this occurrence entered the Console.

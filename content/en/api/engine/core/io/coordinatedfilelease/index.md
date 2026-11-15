@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Holds a persistent owner gate throughout waiting for and using a retireable leaf lease.

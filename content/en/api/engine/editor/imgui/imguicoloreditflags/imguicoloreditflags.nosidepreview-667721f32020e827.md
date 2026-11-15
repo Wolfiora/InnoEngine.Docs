@@ -13,5 +13,3 @@ reviewed: 3b8f62f5ee2e4e17399b28ffdba6f4a123eb703358f75a88f8e70e4e0abc5a13
 source: xml
 outdated: false
 ---
-
-// ColorPicker: disable bigger color preview on right side of the picker, use small color square preview instead.

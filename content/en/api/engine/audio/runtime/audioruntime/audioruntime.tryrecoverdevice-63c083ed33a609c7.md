@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to replace a muted or lost output generation while preserving the active mixer graph.
-
 ## Parameters
 
 **Parameter `deviceFactory`:** Host-owned factory that creates a fresh initialized device candidate.

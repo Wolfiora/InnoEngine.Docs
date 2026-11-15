@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Transforms a position as a column vector with an implicit homogeneous coordinate of one.
-
 ## Returns
 
 The transformed XYZ components, including translation. No perspective divide is performed.

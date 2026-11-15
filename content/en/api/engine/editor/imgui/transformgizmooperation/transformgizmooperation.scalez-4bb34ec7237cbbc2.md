@@ -13,5 +13,3 @@ reviewed: 50d634e66ddc716bfec92c480c537bb060dbe3a1536c34eb7568afe8fb16e954
 source: xml
 outdated: false
 ---
-
-Renders the Z scale handle.

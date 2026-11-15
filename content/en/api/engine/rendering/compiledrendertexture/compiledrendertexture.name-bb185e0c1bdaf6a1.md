@@ -13,5 +13,3 @@ reviewed: 8184028e24b1fc8bbf3aaaab2aced59f5349ce8f59973ec9e98ade2bd4fc7f35
 source: xml
 outdated: false
 ---
-
-Gets the debug and diagnostic name.

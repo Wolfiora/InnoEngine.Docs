@@ -13,5 +13,3 @@ reviewed: ee2315776c31ec81ceec9c67ad10f797374e7139f1a8ef8da0f091b89f64b652
 source: xml
 outdated: false
 ---
-
-Selects the drag drop target presentation behavior.

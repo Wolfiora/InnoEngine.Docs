@@ -13,5 +13,3 @@ reviewed: d3131055ffac10b37e94d7cc2011411759c7adc0f352416def0a30deb9ee5bb8
 source: xml
 outdated: false
 ---
-
-Gets or sets the interface index.

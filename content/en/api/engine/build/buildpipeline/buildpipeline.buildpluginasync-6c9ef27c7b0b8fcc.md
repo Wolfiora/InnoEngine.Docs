@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds and atomically commits one deterministic project Plugin package.
-
 ## Parameters
 
 **Parameter `request`:** The package identity, destination, and dependency embedding policy.

@@ -13,5 +13,3 @@ reviewed: 5bef8a153342f663ef76dd670edcea112e2512d00fd3e3ecd5dc13a7292cb2c0
 source: xml
 outdated: false
 ---
-
-The vertical or second component.

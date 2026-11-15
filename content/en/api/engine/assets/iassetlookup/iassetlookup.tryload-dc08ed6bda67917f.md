@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to load the canonical asset at a logical catalog path.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required asset contract.

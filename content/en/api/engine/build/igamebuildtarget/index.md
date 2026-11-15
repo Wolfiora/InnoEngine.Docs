@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Defines the replaceable platform packaging boundary for one game build target.

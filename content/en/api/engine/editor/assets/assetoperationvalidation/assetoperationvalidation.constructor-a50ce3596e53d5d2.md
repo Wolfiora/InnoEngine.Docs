@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the validation result returned before an asset transaction begins.
-
 ## Parameters
 
 **Parameter `isValid`:** Whether the requested asset operation may proceed.

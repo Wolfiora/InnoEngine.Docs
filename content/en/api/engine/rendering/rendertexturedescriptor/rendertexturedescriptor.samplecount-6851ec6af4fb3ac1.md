@@ -13,5 +13,3 @@ reviewed: 119dc2cebea8976ee77a49ce463ff3ec5d8311ebd7d584f39acdc3cfed3ccc36
 source: xml
 outdated: false
 ---
-
-Gets the raster sample count.

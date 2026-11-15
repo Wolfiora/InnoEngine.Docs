@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Runs an application-owned frame loop synchronously on its calling thread.

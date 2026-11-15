@@ -13,5 +13,3 @@ reviewed: a56ad8a63d27e563ed8ea29cee7d9395220c200d875f6e5a65b6416b38c990ba
 source: xml
 outdated: false
 ---
-
-Pressing TAB input a '\\t' character into the text field

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this rendering model participates in the supplied viewport content.
-
 ## Parameters
 
 **Parameter `context`:** Frame-only Editor, navigation, content, and viewport context.

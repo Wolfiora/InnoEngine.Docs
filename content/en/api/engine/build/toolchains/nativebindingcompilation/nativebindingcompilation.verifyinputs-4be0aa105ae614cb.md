@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Verifies the exact bytes at original or remapped roots before their use.
-
 ## Parameters
 
 **Parameter `resolveRoot`:** Resolves a root identity to the selected physical or copied directory.

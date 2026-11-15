@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Enforces logical scripting namespaces and rejects direct implementation namespace access.

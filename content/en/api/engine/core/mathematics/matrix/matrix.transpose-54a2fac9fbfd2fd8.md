@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the transpose of a matrix.
-
 ## Parameters
 
 **Parameter `a`:** Source matrix.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a shader read from a texture.
-
 ## Parameters
 
 **Parameter `texture`:** Texture read by this pass.

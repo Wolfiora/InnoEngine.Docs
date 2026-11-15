@@ -13,5 +13,3 @@ reviewed: b753e39814c35236b45cebdfcb26888d995fcfc765901cd191273104be38b87e
 source: xml
 outdated: false
 ---
-
-Gets whether this object is the instance connection root.

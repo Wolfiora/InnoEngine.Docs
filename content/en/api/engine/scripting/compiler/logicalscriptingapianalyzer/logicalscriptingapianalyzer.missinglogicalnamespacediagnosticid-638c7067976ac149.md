@@ -13,5 +13,3 @@ reviewed: 23c169f8e5c8dfc3ecb7f306b82d8c8034101bc898af82a676eda0e990953671
 source: xml
 outdated: false
 ---
-
-Diagnostic identifier for a missing logical namespace import.

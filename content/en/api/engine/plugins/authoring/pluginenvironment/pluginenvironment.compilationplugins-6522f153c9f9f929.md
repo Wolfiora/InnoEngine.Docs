@@ -13,5 +13,3 @@ reviewed: 695e3cc50aa312f1e129675eed02c9446e052c201ed6d59a2d00e006c591c903
 source: xml
 outdated: false
 ---
-
-Gets the Plugin candidates visible to the next script compilation.

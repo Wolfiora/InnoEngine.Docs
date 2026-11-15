@@ -13,5 +13,3 @@ reviewed: 00a0f951c6c67297bdd58851f6fd6db04ff641fc961ce052bddd8d1ddc11d30f
 source: xml
 outdated: false
 ---
-
-Identifies the RightCtrl presentation key or modifier.

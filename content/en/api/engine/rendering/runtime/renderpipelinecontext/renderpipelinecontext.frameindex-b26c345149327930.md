@@ -13,5 +13,3 @@ reviewed: 2764d456c593fdbfb87e47ca8155adcca217c6b699f9f31d647dc9a42b64bbe1
 source: xml
 outdated: false
 ---
-
-Gets the monotonic render frame index.

@@ -13,5 +13,3 @@ reviewed: fe6cf93179ed5c325b85b7bc00ccc129672181780bd840a375db7057010b46da
 source: xml
 outdated: false
 ---
-
-Gets the new window width.

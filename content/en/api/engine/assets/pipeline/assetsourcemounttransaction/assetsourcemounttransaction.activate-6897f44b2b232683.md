@@ -13,5 +13,3 @@ reviewed: 87a791b08f197af864da8d28d4c75b728eb3ca46eb81aa2dcc8272c1339bfaf3
 source: xml
 outdated: false
 ---
-
-Activates this candidate without releasing the previous generation or notifying observers.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 aliases: []
 ---
-
-Opaque handle returned by `M:Inno.Core.Coroutines.CoroutineScheduler.StartCoroutine(System.Collections.IEnumerator)` or `M:Inno.Core.Coroutines.CoroutineScheduler.StartCoroutine(System.Object,System.Collections.IEnumerator)`.

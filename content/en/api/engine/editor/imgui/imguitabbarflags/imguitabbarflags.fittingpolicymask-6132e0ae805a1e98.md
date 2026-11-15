@@ -13,5 +13,3 @@ reviewed: 6d7bda29e896e9936278680e8ad27e287f734eb6f686fbcbbf37d2b719a1dc91
 source: xml
 outdated: false
 ---
-
-Selects the fitting policy mask presentation behavior.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Returns one rendering-model contribution without exposing a GPU backend.

@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Owns the reloadable Editor presentations and history-aware project override workflow for runtime settings.

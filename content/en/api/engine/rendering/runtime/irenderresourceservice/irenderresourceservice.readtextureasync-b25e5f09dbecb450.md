@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asynchronously copies one complete persistent texture mip into CPU-visible memory.
-
 ## Parameters
 
 **Parameter `texture`:** Texture created with `F:Inno.Rendering.RenderTextureUsage.Readback`.

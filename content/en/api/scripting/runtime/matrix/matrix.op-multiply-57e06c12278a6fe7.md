@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Multiplies two matrices.
-
 ## Parameters
 
 **Parameter `a`:** Left operand.

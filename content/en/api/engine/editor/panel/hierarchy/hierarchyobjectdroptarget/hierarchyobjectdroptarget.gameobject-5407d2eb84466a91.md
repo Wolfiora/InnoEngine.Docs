@@ -13,5 +13,3 @@ reviewed: 234af3adea397d7e870face42cc8c5231b03e78df873fba0754d122d65c6c6c1
 source: xml
 outdated: false
 ---
-
-Gets the target game object.

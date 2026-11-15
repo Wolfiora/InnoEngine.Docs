@@ -13,5 +13,3 @@ reviewed: 1790e217ad8eac259ff3ab3fcf5d35e7c889f198aee7a72bb4d0ed63a260ef69
 source: xml
 outdated: false
 ---
-
-The assembly is engine-owned and remains in the default load context.

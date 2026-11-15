@@ -13,5 +13,3 @@ reviewed: 1dd45a1ad0379063d207f6b000eb655a279e86d2efb880ecc651242b0a4366b4
 source: xml
 outdated: false
 ---
-
-Gets or sets the source checkout containing the unified native toolchains.

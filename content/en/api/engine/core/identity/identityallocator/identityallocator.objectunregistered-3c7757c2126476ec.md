@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Occurs after an object has been permanently removed from this allocator.
-
 ## Remarks
 
 Every observer is invoked. Multiple observer failures are reported as one `T:System.AggregateException` after notification completes.

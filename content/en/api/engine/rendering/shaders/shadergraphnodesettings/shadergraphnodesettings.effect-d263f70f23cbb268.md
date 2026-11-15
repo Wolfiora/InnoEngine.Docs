@@ -13,5 +13,3 @@ reviewed: 4b2ef6cd74b0d287d53752cf90543dab6a133379decefe49308c5bd7667b4453
 source: xml
 outdated: false
 ---
-
-Gets or sets the observable computation behavior of an inline function.

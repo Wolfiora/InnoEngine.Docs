@@ -13,5 +13,3 @@ reviewed: a295238171050d9b68ddf5d770b976110a14096e489b6dd7cef7ce15dd01bb19
 source: xml
 outdated: false
 ---
-
-A source and its persistent metadata were removed.

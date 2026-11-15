@@ -13,5 +13,3 @@ reviewed: ee4d2d300189aa09d18c0e4dc69fc84a7387daf3ae333a1b1a01ca66a6965543
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable module name used by the managed module host.

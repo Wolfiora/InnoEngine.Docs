@@ -13,5 +13,3 @@ reviewed: 9aefa2d75cf9480d8591325d993d2f4e11930a3a2bf34b705d069da594c9e715
 source: xml
 outdated: false
 ---
-
-Gets the fixed source root used by compilation and source extraction until disposal. SDKs and restored packages retain their explicitly selected external locations.

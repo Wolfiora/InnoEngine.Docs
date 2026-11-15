@@ -13,5 +13,3 @@ reviewed: dbfe41306cc649704c05d0d0b25246cce5c14b872cc3049d1542a45873ee1f15
 source: xml
 outdated: false
 ---
-
-Gets whether this source is installed read-only content.

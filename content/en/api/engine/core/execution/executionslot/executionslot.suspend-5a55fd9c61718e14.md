@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Temporarily masks this slot without exposing an enclosing binding.
-
 ## Returns
 
 A strict scope that restores the enclosing binding when retired.

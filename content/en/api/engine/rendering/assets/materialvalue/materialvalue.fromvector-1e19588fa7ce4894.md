@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a vector material value.
-
 ## Parameters
 
 **Parameter `value`:** Vector value.

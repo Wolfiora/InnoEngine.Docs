@@ -13,5 +13,3 @@ reviewed: 331d6e856455ca5db1c140923cba6a8d9120ea1b0ad03784bc0f12f37762344f
 source: xml
 outdated: false
 ---
-
-Gets the host-owned source of SDK framework inputs for each operation.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Base component for independently enabled scene functionality with frame lifecycle callbacks.

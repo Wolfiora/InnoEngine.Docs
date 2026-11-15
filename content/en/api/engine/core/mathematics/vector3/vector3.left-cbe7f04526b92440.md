@@ -13,5 +13,3 @@ reviewed: 041ddc3ce2492bd1ab7a6268e3b574d989ec5f325fb4138f8249aef959b873a3
 source: xml
 outdated: false
 ---
-
-The left value used as part of this type's public representation.

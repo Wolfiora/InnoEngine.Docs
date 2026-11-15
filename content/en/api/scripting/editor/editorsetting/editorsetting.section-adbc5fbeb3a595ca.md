@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the section heading used to group fields alphabetically. Definitions without a section keep the base implementation, whose internal value is `null`.

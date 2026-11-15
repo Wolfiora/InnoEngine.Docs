@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the most recent transition or simulation failure, or `null` when no failure is active.

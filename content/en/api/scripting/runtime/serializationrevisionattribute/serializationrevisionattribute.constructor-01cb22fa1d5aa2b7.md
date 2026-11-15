@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects the source-owned nonserialized revision field or property.
-
 ## Parameters
 
 **Parameter `memberName`:** The exact nonstatic field or readable nonindexed property name.

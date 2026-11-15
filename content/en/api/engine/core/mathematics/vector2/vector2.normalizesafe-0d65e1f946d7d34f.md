@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns a unit-length value while handling degenerate input according to the method contract.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

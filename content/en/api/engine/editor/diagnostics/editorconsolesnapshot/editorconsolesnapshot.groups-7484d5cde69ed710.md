@@ -13,5 +13,3 @@ reviewed: 009e451e0c371365828730000bea671d2d0affb5fdb0b41e86bac65aa4ae327a
 source: xml
 outdated: false
 ---
-
-Gets global fingerprint groups ordered by their latest occurrence.

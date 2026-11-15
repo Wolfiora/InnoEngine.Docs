@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a normalized mesh vertex.
-
 ## Parameters
 
 **Parameter `position`:** Object-space position.

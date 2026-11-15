@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent material property entry.
-
 ## Parameters
 
 **Parameter `id`:** Stable shader property identifier.

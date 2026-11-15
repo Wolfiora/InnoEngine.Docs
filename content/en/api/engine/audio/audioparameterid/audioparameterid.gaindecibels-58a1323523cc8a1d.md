@@ -13,5 +13,3 @@ reviewed: 40d62c602557e72a2baea9cc7c2ee0789549cc63d06c2f494a3796c7ef90cd1a
 source: xml
 outdated: false
 ---
-
-Gets the standard equalizer gain parameter in decibels.

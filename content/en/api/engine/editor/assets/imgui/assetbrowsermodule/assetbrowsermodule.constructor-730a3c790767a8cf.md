@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the asset presentation module for the current editor generation.
-
 ## Parameters
 
 **Parameter `edits`:** The independent authoritative asset editing service.

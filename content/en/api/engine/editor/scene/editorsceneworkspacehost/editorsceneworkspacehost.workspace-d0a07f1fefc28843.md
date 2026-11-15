@@ -13,5 +13,3 @@ reviewed: 56cac77caf7f268a6fdad6ecf330cc1dd7becb3e19b5707dab7fa3e643afbc65
 source: xml
 outdated: false
 ---
-
-Gets the Edit-or-Play scene presentation and persistence boundary owned by this host.

@@ -13,5 +13,3 @@ reviewed: dce143540895a739a57984168c81394aec06074f5e64352668f0aa2bf31afca2
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadFaceLeft presentation key or modifier.

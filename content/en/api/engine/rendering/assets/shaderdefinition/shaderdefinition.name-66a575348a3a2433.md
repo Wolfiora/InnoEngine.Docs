@@ -13,5 +13,3 @@ reviewed: d9e0f5dad74cf139a0fcb73bfc62c97375bae7ffaddea51c3b4fc0b71eb33c6c
 source: xml
 outdated: false
 ---
-
-Gets or sets the artist-facing shader name.

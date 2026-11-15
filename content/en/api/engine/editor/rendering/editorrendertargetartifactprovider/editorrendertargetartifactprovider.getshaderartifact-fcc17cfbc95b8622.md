@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns a matching compiled shader when available and schedules a new candidate when source state changed.
-
 ## Parameters
 
 **Parameter `shader`:** The imported backend-neutral shader asset.

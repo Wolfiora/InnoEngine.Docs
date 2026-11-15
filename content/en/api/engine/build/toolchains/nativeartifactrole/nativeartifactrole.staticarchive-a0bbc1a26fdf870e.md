@@ -13,5 +13,3 @@ reviewed: 94ee2936cb817ace5c6a7089a647ae2370182b1804445964eabc6e2ed3877570
 source: xml
 outdated: false
 ---
-
-An archive linked into the final executable.

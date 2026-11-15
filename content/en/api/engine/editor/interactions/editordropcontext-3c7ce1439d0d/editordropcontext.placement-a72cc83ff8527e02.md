@@ -13,5 +13,3 @@ reviewed: 9303945554dcfc3874ceaa325e11ff2b54279aa2202090b7405e68a570dadf82
 source: xml
 outdated: false
 ---
-
-Gets the requested placement relative to the target.

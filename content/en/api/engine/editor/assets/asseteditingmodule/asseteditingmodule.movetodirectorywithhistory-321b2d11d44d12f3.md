@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a source and records the committed mutation in the supplied history.
-
 ## Parameters
 
 **Parameter `sourcePath`:** The current isolated source-relative path.

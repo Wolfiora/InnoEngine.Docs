@@ -13,5 +13,3 @@ reviewed: 10dca6415aeb31990ccd7d564da9ecee4d48942ea94bc196488e2160e3e08d0f
 source: xml
 outdated: false
 ---
-
-Gets or sets the sole literal definition consumed by both the project and direct generation.

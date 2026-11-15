@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated game presentation viewport.
-
 ## Parameters
 
 **Parameter `x`:** Non-negative horizontal offset.

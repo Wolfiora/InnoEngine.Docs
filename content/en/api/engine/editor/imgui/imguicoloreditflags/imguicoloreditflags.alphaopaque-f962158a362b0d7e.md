@@ -13,5 +13,3 @@ reviewed: e01918f5e3a8638fd719b8b899a572f478410d4dbe2b1714465bc0f8904c33b0
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: disable alpha in the preview,. Contrary to \_NoAlpha it may still be edited when calling ColorEdit4()/ColorPicker4(). For ColorButton() this does the same as \_NoAlpha.

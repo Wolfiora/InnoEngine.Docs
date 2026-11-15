@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops one preview voice owned by an active Edit Mode session.
-
 ## Parameters
 
 **Parameter `session`:** Active Edit Mode session.

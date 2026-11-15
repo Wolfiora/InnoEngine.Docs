@@ -13,5 +13,3 @@ reviewed: 39564825eb64ff0d9dbc732a026a21d0c387415478ab065b0e8b9ff3e8fe45e3
 source: xml
 outdated: false
 ---
-
-Publication finished but retired collectible contexts have not been verified unreachable.

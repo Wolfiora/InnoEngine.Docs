@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one animation keyframe.
-
 ## Parameters
 
 **Parameter `time`:** Non-negative clip-local time in seconds.

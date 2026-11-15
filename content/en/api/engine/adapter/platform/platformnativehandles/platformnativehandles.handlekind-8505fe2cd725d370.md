@@ -13,5 +13,3 @@ reviewed: 6b68485fac6279b0bed93556ad638729f7b11824e22e8c55183559c6df495a82
 source: xml
 outdated: false
 ---
-
-Platform handle kind.

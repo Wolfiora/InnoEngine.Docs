@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reduces a given angle to a value between π and -π.
-
 ## Parameters
 
 **Parameter `angle`:** The angle to reduce, in radians.

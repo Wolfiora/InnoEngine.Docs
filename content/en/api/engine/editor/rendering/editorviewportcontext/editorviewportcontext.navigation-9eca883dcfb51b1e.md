@@ -13,5 +13,3 @@ reviewed: 51e42bf91142bef10e979ed9e10c85bdea5d07056425078201cd339f1ef9edf8
 source: xml
 outdated: false
 ---
-
-Gets host-owned neutral navigation state that the selected controller can map to its camera model.

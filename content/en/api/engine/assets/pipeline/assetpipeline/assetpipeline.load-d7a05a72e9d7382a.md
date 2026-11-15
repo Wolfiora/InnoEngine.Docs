@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads a canonical asset by persistent identity.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required asset type.

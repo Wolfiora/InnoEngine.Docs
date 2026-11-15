@@ -13,5 +13,3 @@ reviewed: e3011b8bee66df3e283b5cec7e3cade379e7973e9d8f1cf7eef09366e8d78011
 source: xml
 outdated: false
 ---
-
-Gets the host factory transferring application storage ownership to the game session.

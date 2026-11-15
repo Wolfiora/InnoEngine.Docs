@@ -13,5 +13,3 @@ reviewed: 9f44388dccf631987a9ac15b2abc3b9843c10ea288bbf6008976dd3b696b2b0f
 source: xml
 outdated: false
 ---
-
-Gets explicitly declared cross-source dependencies.

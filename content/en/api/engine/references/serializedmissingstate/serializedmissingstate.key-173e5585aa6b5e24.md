@@ -13,5 +13,3 @@ reviewed: b32f30a87e3c95ca3febc24308264f73dc55a3ac7f77631efd0e9fd527da2a5d
 source: xml
 outdated: false
 ---
-
-Gets the persistent owner slot represented by this record.

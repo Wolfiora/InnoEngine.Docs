@@ -13,5 +13,3 @@ reviewed: 85ab83467c0ac1f336f19c105f01eda9897dfa5677028c3b67e53fd20ba5902b
 source: xml
 outdated: false
 ---
-
-Releases the artifact after all deployment, compilation and linking consumers finish. File paths must not be used afterwards; repeated disposal has no effect.

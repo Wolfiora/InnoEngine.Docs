@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Discovers source language providers through the shared type-generation transaction and owns their retirement.

@@ -13,5 +13,3 @@ reviewed: fe08e0a4625b562dac6d48345577f227c20b41ae4859b57fe0a3fed576a9c4e6
 source: xml
 outdated: false
 ---
-
-Gets tree guide left offset.

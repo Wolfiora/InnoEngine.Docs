@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates the module once per editor frame before panels and modals are drawn.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context containing the current frame state.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns the inverse, or identity when the absolute determinant is below the default tolerance.
-
 ## Parameters
 
 **Parameter `m`:** Source matrix.

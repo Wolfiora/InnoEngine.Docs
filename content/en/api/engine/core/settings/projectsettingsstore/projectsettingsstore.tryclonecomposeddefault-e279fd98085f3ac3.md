@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated setting value without the project-authored override.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting protocol identity.

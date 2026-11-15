@@ -16,5 +16,3 @@ contracts:
 - project.inno-storage-runtime#admission-and-lifetime-contract
 aliases: []
 ---
-
-Binds one application storage sandbox throughout every runtime frame.

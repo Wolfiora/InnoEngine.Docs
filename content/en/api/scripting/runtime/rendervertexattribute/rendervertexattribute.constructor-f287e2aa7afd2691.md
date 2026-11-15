@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a vertex attribute declaration.
-
 ## Parameters
 
 **Parameter `semantic`:** Shader input semantic.

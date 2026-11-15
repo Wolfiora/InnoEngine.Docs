@@ -13,5 +13,3 @@ reviewed: 751b5de6eea2eea6df27daf61aa2c422e882853d4b9b18750ab7be89ac5ed892
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum total source size.

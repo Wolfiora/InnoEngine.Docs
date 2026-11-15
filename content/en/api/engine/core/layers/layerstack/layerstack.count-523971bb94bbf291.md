@@ -13,5 +13,3 @@ reviewed: 31757fa0d1fd87c19150321626cfafc546304594e4341a3a5814dedef8b9cad0
 source: xml
 outdated: false
 ---
-
-Gets the number of attached base layers and overlays.

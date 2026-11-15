@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Uses the Y/Z translation and scale axes with the X rotation handle.

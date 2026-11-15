@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes one logical assembly identity.
-
 ## Parameters
 
 **Parameter `name`:** The exact simple assembly name.

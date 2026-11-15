@@ -13,5 +13,3 @@ reviewed: 55a91f4b1140de24fa772594e2a7c364987d2033c683a71f256297e7c57bb7b7
 source: xml
 outdated: false
 ---
-
-Gets the stable identity used to reference this value across subsystem boundaries.

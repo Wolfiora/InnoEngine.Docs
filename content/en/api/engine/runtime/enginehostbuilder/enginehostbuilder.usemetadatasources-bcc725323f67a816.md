@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the code and metadata implementation before creating the application host.
-
 ## Parameters
 
 **Parameter `modules`:** The host catalog source; ownership transfers to the built EngineHost.

@@ -13,5 +13,3 @@ reviewed: bbcfe3a1e4b79ca2d05187a0729ecfe36983b2c2fffddcd9d2667abd9fc2f659
 source: xml
 outdated: false
 ---
-
-Gets or sets the non-negative playback speed multiplier.

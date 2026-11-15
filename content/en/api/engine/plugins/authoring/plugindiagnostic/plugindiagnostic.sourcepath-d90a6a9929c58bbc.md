@@ -13,5 +13,3 @@ reviewed: 9ed7afb4baa943fbfba4d13f2e7605a4ebbd877d29111abcc037f076683a75df
 source: xml
 outdated: false
 ---
-
-Gets the related `.iplugin` package path or invalid installation entry.

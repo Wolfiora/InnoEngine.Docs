@@ -13,5 +13,3 @@ reviewed: 2e08c0c48b57f78eafab202a27a7046a91c70e3a00e8af1b123b6bbd7c772f7f
 source: xml
 outdated: false
 ---
-
-Disable scrollbars (window can still scroll with mouse or programmatically)

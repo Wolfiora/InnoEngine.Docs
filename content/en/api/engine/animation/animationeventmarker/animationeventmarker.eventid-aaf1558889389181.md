@@ -13,5 +13,3 @@ reviewed: e4321465ab54cec3b7fada2ea917c44d27ae00667f6612cd3fe49d06940fe697
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable event protocol identifier.

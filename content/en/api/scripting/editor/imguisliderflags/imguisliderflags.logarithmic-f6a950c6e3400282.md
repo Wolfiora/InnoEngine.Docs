@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Make the widget logarithmic (linear otherwise). Consider using ImGuiSliderFlags\_NoRoundToFormat with this if using a format-string with small amount of digits.

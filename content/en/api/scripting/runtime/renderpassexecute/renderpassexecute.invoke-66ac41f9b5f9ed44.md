@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Executes one frame-scoped pass payload.
-
 ## Type parameters
 
 **Type parameter `TPassData`:** Neutral pass payload type.

@@ -13,5 +13,3 @@ reviewed: 9ec10b2515d4018cdea933bcf7a4bd7b4cbb95f33697bf6134433531f0f4e363
 source: xml
 outdated: false
 ---
-
-Cancels owned work before retiring the task cancellation source.

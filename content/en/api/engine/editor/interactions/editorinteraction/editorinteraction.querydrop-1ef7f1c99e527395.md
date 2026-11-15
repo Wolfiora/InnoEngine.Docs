@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries this handle as a drop target.
-
 ## Parameters
 
 **Parameter `identity`:** The active domain-qualified runtime identity.

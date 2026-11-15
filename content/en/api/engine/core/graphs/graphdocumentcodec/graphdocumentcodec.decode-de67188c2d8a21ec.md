@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes one current native graph document.
-
 ## Parameters
 
 **Parameter `bytes`:** Complete native graph payload.

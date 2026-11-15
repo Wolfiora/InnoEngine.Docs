@@ -13,5 +13,3 @@ reviewed: 5fab30a186fba478f6091449b98d6f61574d26fb25eb007b1991e01fcbb711ac
 source: xml
 outdated: false
 ---
-
-Gets the rupiah sign glyph used by standard Editor controls.

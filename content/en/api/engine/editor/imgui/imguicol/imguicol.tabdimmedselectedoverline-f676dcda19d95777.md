@@ -13,5 +13,3 @@ reviewed: 76a20620f38629e1bbf6ae33b148548711b29b30a987595aee4a7aa259f41bf5
 source: xml
 outdated: false
 ---
-
-Selects the tab dimmed selected overline presentation behavior.

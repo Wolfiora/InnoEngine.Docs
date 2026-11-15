@@ -13,5 +13,3 @@ reviewed: 5d4009bc6ebc7698d7f1682d3c1c77c398b5e8376d96a57f8c1ae2eb1ff9acff
 source: xml
 outdated: false
 ---
-
-Gets the target backend compute shader binary.

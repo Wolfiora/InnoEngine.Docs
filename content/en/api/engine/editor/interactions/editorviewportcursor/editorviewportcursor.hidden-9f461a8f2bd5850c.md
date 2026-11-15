@@ -13,5 +13,3 @@ reviewed: 6a99a0a4d7a37d56315da2bdf1183c79f60e3b465e4a0ff6bf7fa6450c89a865
 source: xml
 outdated: false
 ---
-
-Hides the pointer while the tool owns it.

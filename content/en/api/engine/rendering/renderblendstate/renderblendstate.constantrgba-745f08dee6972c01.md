@@ -13,5 +13,3 @@ reviewed: 35a2f9736f33de853c49e9287b1730248c96d6f874f600df7b5efefeb1f0d0a0
 source: xml
 outdated: false
 ---
-
-Gets or sets the packed RGBA8 constant used by constant blend factors.

@@ -13,5 +13,3 @@ reviewed: 003198692cc9943edefe318ac972de0abfa7a7a23ef274d572265fc961734926
 source: xml
 outdated: false
 ---
-
-Gets the frozen native property bytes.

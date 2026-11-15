@@ -13,5 +13,3 @@ reviewed: b858be2bdf24bd4fa908d135a0b43075d01052c5a4e5f55722bc81b9967f25d5
 source: xml
 outdated: false
 ---
-
-Gets the complete source preparation identity, independently of the resulting Pack content fingerprint.

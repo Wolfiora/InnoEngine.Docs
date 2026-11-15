@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the source fingerprint of an asset claimed by this owner.
-
 ## Parameters
 
 **Parameter `asset`:** The owned asset.

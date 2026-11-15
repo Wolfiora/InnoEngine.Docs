@@ -13,5 +13,3 @@ reviewed: 7a5b639351e25adfe0ce3189b58e77b5a6a58aac3c887eadc5a6d8afe4b3128d
 source: xml
 outdated: false
 ---
-
-Gets the distance attenuation strength.

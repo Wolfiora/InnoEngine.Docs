@@ -13,5 +13,3 @@ reviewed: 1543693a4d844144fc29229ddaa2a38d66d1aa04094c48d7b6e9f5a6b7aeca15
 source: xml
 outdated: false
 ---
-
-Gets the physical keys newly released during this frame.

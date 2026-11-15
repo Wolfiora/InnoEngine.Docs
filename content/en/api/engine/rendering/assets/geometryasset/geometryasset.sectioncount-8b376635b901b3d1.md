@@ -13,5 +13,3 @@ reviewed: 9d3721b9fb0b3b0ddd6f6f827756792676e529bdc7036c61ba0a25e6c28f43f4
 source: xml
 outdated: false
 ---
-
-Gets the number of independently submitted geometry sections.

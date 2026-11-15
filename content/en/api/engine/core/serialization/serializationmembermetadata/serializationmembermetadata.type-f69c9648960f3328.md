@@ -13,5 +13,3 @@ reviewed: 36ba9ba04628b769b2b1cfb553a54bbb9558613cdbbc2eb56966dfd71dcd9197
 source: xml
 outdated: false
 ---
-
-Gets the declared value type.

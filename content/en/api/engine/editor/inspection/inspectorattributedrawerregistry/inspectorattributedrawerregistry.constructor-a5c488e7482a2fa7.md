@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an Inspector attribute drawer registry.
-
 ## Parameters
 
 **Parameter `interactions`:** Active editor interaction entry point.

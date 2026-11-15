@@ -13,5 +13,3 @@ reviewed: 92af59ed10dcb54838940383bdc4151af90791aca0bee18917f93876e0120826
 source: xml
 outdated: false
 ---
-
-Gets or sets whether alpha-to-coverage is enabled.

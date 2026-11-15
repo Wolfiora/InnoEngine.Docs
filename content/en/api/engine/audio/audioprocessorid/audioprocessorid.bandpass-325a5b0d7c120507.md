@@ -13,5 +13,3 @@ reviewed: 954ede20e6a8f2b45f3a5538f2607d57ec02390e5edac955884dc4acf614691e
 source: xml
 outdated: false
 ---
-
-Gets the standard band-pass filter processor identifier.

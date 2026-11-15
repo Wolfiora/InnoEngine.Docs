@@ -13,5 +13,3 @@ reviewed: a76ce45dbed0911561ddaf93d71739cd3bdc7d0ea12cd8dfef7823cc670d78c5
 source: xml
 outdated: false
 ---
-
-Gets the stable order of the leaf within its immediate category.

@@ -13,5 +13,3 @@ reviewed: 66474824ed8c9d4d271f8e775c00b9b06073441dee31dd837437ea7450d968d7
 source: xml
 outdated: false
 ---
-
-Gets product-owned configuration independently of the selected SDK.

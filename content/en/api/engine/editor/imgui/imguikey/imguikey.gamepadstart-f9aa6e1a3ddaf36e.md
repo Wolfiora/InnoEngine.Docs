@@ -13,5 +13,3 @@ reviewed: 7f813099e4d5a2c7bb4fcddda6bc893e383ed7194c255caf32b84aed2cb691ef
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadStart presentation key or modifier.

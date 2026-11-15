@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enforce the tab position to the left of the tab bar (after the tab list popup button)

@@ -13,5 +13,3 @@ reviewed: 1c4dfc3a8d7ef3899057fbf97a2e53a1d5ebf564609918290cd85df118977b99
 source: xml
 outdated: false
 ---
-
-Gets whether this value contains an initialized backend identity.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Return true even if an active item is blocking access to this item/window. Useful for Drag and Drop patterns.

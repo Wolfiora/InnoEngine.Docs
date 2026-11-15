@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Configures backend selection and primary-window policy for a composition shell.

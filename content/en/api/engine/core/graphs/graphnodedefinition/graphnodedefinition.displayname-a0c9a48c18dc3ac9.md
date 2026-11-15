@@ -13,5 +13,3 @@ reviewed: 11c5bc6f9de13961684587be39097e1e0642566325f1d9c5c34f9c4982887742
 source: xml
 outdated: false
 ---
-
-Gets the artist-facing display name.

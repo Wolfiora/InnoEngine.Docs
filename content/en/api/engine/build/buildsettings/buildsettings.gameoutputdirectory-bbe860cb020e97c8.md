@@ -13,5 +13,3 @@ reviewed: 48d30564447dc9029120f73d866ebc766763578370e1a0c33155f4bf7e7fb985
 source: xml
 outdated: false
 ---
-
-Gets or sets the default game output directory, relative to the project root or absolute.

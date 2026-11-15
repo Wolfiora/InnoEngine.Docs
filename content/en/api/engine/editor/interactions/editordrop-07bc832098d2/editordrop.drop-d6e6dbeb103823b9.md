@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes a delivered drop after a successful compatibility query.
-
 ## Parameters
 
 **Parameter `context`:** The untyped source, target, surface, and requested placement.

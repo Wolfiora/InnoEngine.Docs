@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a structured storage buffer with an explicit element layout.
-
 ## Parameters
 
 **Parameter `element`:** Non-void value layout; resources cannot be embedded in buffer elements.

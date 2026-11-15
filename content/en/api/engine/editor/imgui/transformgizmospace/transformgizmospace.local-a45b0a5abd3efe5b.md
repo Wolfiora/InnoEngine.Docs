@@ -13,5 +13,3 @@ reviewed: 82ebf47c159ac129d457878adc38737c30d9e588f664b14d8e8cd4e2f792fd73
 source: xml
 outdated: false
 ---
-
-Uses the object's local orientation.

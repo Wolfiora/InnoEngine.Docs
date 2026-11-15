@@ -13,5 +13,3 @@ reviewed: 12dda9dbade094a5ceac9e3f6265384360b202c580a612b9d999e69c97a68a3a
 source: xml
 outdated: false
 ---
-
-Can serialize, deserialize, and allow runtime get/set.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Registers a source-language sample transformer through the reloadable type catalog.

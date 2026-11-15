@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Lowers an entire target-selected region, preserving stable topological/document order and all source calls. Missing definitions, stale ports and cycles fail without mutating graph records or dropping edges.
-
 ## Parameters
 
 **Parameter `request`:** Frozen region, outputs and resolved source/target data.

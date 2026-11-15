@@ -13,5 +13,3 @@ reviewed: 14a5dc3ae0ced2def79976172d5a5438433f290a350ffb156fea5645c0a0f73d
 source: xml
 outdated: false
 ---
-
-Gets the globally stable setting identifier.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Activates this action for a target and cancels any operation it previously owned.
-
 ## Parameters
 
 **Parameter `context`:** The contextual request that starts the operation.

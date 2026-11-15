@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all attached components in attachment order.
-
 ## Returns
 
 A stable component snapshot.

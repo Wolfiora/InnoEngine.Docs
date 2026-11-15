@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Atomically adds to an integer buffer element and returns the original value.

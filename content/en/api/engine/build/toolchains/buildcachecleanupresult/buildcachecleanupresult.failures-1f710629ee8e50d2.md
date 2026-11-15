@@ -13,5 +13,3 @@ reviewed: 469125aa3b6ad5506bc591a5ca4c2ad9a6e6a4d5c976dce6b3fe6af51939b5d4
 source: xml
 outdated: false
 ---
-
-Gets failed paths and their IO, permission or metadata-integrity diagnostics. A metadata failure preserves its claim and does not erase completed payload retirements.

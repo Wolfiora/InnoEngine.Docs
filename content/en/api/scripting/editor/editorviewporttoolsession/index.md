@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Routes focused viewport input to one active tool while enforcing pointer-capture ownership.

@@ -13,5 +13,3 @@ reviewed: 86cf7abd05ebc2e04a8abf138bc290f91a528218d3b47dc4f8b691927d4aa269
 source: xml
 outdated: false
 ---
-
-Gets whether the action can execute.

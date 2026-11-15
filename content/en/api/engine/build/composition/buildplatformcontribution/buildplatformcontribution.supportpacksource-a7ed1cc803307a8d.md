@@ -13,5 +13,3 @@ reviewed: 1227f5821d5bec8c55113fdc96b3bb5f543ebb5a31945d9650056d048573b4e7
 source: xml
 outdated: false
 ---
-
-Gets the matching product input source.

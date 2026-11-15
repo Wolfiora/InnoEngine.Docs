@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Returns a candidate artifact and structured diagnostics without mutating active state.

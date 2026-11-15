@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Activates one publication and its captured domain changes, preserving all rollback and cleanup failures.
-
 ## Type parameters
 
 **Type parameter `TProbe`:** The publication's weak unload monitor.

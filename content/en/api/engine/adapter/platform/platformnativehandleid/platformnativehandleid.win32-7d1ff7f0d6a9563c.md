@@ -13,5 +13,3 @@ reviewed: 375a8214c6e0ae260637f791584bbfe14b85cd6f20e6fc4b84e40a039be34a6f
 source: xml
 outdated: false
 ---
-
-Gets the Win32 HWND surface ABI.

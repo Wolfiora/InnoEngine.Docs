@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Open on double-click instead of simple click (default for multi-select unless any \_OpenOnXXX behavior is set explicitly). Both behaviors may be combined.

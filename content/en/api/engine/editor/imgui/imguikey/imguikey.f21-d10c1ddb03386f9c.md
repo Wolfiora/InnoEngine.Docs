@@ -13,5 +13,3 @@ reviewed: 35b1b62eabf49df5cfe4cfc47db254700ec6e0ba81bd78232b38b7536c2db9c9
 source: xml
 outdated: false
 ---
-
-Identifies the F21 presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: 5d27387b9fb5398b600f59fc3f921902f7f5e7bd0fd9c882ba77973cf87a9d9d
 source: xml
 outdated: false
 ---
-
-Gets or sets compute workgroup width.

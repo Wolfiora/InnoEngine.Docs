@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates whether the strongly typed source may be dropped on the strongly typed target.
-
 ## Parameters
 
 **Parameter `context`:** The typed source, target, surface, and requested placement.

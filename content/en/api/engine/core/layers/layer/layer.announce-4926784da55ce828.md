@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Dispatches an event immediately inside this layer's event scope.
-
 ## Parameters
 
 **Parameter `evnt`:** The event to dispatch to this layer's listeners.

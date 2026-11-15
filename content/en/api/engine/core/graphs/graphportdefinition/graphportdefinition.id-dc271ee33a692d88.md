@@ -13,5 +13,3 @@ reviewed: d335f1a348d5cacd04d74c399595b4a2c83f6794bc2b4768395bab510cd36091
 source: xml
 outdated: false
 ---
-
-Gets the stable node-local port identifier.

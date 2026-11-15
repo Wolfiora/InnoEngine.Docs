@@ -13,5 +13,3 @@ reviewed: 29d239902fc1993bda7ab3e1e8c4471d87d4e06caf68c25d11add87ea7bc26fd
 source: xml
 outdated: false
 ---
-
-Gets asset browser frame rounding.

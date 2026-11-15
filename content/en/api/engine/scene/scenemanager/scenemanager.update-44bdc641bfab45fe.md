@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances variable-step scene lifecycle callbacks in the current runtime session.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

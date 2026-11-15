@@ -13,5 +13,3 @@ reviewed: ba3a535433662cbb0eac084bd5370e29af276501416aecf41742b45b3a7ff46f
 source: xml
 outdated: false
 ---
-
-Releases the resident or temporary disk storage owned by this payload.

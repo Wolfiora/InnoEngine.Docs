@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Restricts a neutral world-content collector to an output layer's source IDs.

@@ -13,5 +13,3 @@ reviewed: f2cede638d6523fdf560c14fab60ce342f5c2206a6513cdb4bcb602660b10c32
 source: xml
 outdated: false
 ---
-
-Merges the current split back into ordered draw commands.

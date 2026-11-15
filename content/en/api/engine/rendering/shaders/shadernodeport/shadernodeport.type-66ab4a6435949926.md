@@ -13,5 +13,3 @@ reviewed: 607424c4149f18b8843e02cfbc32b955e79471246a5c7e9dd4c877fa3dae7586
 source: xml
 outdated: false
 ---
-
-Complete value type, including all aggregate fields.

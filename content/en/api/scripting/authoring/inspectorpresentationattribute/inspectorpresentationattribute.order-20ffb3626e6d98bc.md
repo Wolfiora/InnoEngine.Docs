@@ -14,5 +14,3 @@ apiScope: Authoring
 source: xml
 outdated: false
 ---
-
-Gets or sets the relative order among presentation attributes declared on the same member.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores one stage's explicit output interface and compute dimensions inside its output node.

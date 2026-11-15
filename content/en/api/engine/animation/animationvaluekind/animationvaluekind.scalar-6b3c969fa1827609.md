@@ -13,5 +13,3 @@ reviewed: 06497bf3c478f2dc92c37d8e82c32ccc1387ddf223c9a4115136cedc966729b7
 source: xml
 outdated: false
 ---
-
-A single scalar component.

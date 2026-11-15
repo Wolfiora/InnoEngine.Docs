@@ -13,5 +13,3 @@ reviewed: 37925fd235a8a527efda27ea55c1df93a12b810010d8cd24a1c166db6b3a666c
 source: xml
 outdated: false
 ---
-
-Gets the impact of the diagnostic on build success.

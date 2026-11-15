@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads the stable domain target assignment without resolving extension instances.
-
 ## Parameters
 
 **Parameter `graph`:** Authored graph.

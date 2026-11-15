@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets deployment implementations registered for a target.
-
 ## Parameters
 
 **Parameter `target`:** The explicitly chosen build target.

@@ -13,5 +13,3 @@ reviewed: 95d81b777d268c5bc45789c852cafa6a0852148c3d30219bb82ff82591708462
 source: xml
 outdated: false
 ---
-
-Gets the complete canonical value type.

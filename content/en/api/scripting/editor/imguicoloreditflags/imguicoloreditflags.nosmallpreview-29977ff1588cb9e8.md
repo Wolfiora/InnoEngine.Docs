@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: disable color square preview next to the inputs. (e.g. to show only the inputs)

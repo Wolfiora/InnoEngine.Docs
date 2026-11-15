@@ -13,5 +13,3 @@ reviewed: 79f450077d583a46d9a7bcfa2b865e72ce82ed0ef4c21696aff99eb18392f999
 source: xml
 outdated: false
 ---
-
-Gets the last known managed type name for diagnostics and editor presentation.

@@ -13,5 +13,3 @@ reviewed: f6b66c33fe17ef68467229114dbaa10506dcba417aa64bed8d6c7f48f71ad1e9
 source: xml
 outdated: false
 ---
-
-Gets the stable project-independent identity.

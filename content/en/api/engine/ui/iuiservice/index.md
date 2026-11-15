@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Provides retained-mode documents and backend-neutral UI frames to scripts and rendering plugins.

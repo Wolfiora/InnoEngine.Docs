@@ -13,5 +13,3 @@ reviewed: bd7b9476c99ed34c6c346803ab317ee4d6ebba579c59828c50a6d6a5bfec2133
 source: xml
 outdated: false
 ---
-
-Gets the opaque backend token.

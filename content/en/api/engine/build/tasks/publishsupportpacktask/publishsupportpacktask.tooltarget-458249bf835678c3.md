@@ -13,5 +13,3 @@ reviewed: bb0635402e7b6af7528e4ebf2252f7802743b9343a50bbb3220051d46955ab0c
 source: xml
 outdated: false
 ---
-
-Gets or sets the independently selected native target for executable compilation tools.

@@ -13,5 +13,3 @@ reviewed: 61e776f88edf46fa382bcc418adfa88dfb7c96438286ddc1c530d5bc694aef1d
 source: xml
 outdated: false
 ---
-
-Gets the frozen relative output file paths.

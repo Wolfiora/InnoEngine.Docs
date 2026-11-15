@@ -13,5 +13,3 @@ reviewed: 194e0796930ccbc75946a8f16875ec9022490cd9dc6403ae382061d582b6554c
 source: xml
 outdated: false
 ---
-
-Preserves prior attachment contents.

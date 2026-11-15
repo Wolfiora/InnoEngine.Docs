@@ -13,5 +13,3 @@ reviewed: 78863d033c2268afadc0520ea83169b684dc57a1380128ee63373dcd328d158c
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact product identity whose component closure must be prepared.

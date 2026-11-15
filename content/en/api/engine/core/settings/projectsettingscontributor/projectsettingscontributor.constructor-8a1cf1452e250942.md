@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one settings contributor.
-
 ## Parameters
 
 **Parameter `id`:** Stable contributor identity.

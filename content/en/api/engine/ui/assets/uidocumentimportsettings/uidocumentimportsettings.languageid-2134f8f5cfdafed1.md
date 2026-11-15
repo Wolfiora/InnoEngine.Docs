@@ -13,5 +13,3 @@ reviewed: cfd961ddbc438f7f671aa72d64870fdf1d612cd1bb57ed77989e9fc3fa80d331
 source: xml
 outdated: false
 ---
-
-Gets or sets the registered source-language identity.

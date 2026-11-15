@@ -13,5 +13,3 @@ reviewed: 6594dfdd956ee63df8683c8ebd3af942b089e13d4451433ce730b494c681c247
 source: xml
 outdated: false
 ---
-
-Gets whether this identifier has a usable value.

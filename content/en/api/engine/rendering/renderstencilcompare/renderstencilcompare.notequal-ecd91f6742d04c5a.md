@@ -13,5 +13,3 @@ reviewed: 1dbfc88fbab04f765db2aa7e60f02799f61efedf5037beca8c4855d44ac7b98c
 source: xml
 outdated: false
 ---
-
-Passes when values differ.

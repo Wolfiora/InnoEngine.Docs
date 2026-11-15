@@ -13,5 +13,3 @@ reviewed: 5e0093b1e17c2b0aefb2d68b7834ecaeae9a17e6e70b3481ffed12c2a20745e4
 source: xml
 outdated: false
 ---
-
-Gets the user-facing name assigned to the transaction.

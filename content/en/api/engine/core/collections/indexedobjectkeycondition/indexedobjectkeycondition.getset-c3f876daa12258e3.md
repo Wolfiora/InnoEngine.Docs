@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a set required by the implemented contract.
-
 ## Returns
 
 The validated hash sett? that represents the completed operation.

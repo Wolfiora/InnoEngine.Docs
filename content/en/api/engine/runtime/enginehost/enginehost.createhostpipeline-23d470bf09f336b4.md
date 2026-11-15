@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates host-owned subsystems that outlive individual Edit, Play or Player sessions.
-
 ## Parameters
 
 **Parameter `factories`:** The complete host factory set; session-lifetime factories are rejected.

@@ -13,5 +13,3 @@ reviewed: ae2f21a25588b5a66dc07850dc45b2069d60fbbadd3bbf352b44afeecf5b3045
 source: xml
 outdated: false
 ---
-
-Selects the tab bar overline size presentation behavior.

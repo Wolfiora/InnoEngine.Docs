@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Describes immutable content for a measured message dialog. Actions are returned to its owner, never retained as callbacks.
-
 ## Parameters
 
 **Parameter `message`:** The current status or error text.

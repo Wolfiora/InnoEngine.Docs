@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Applies importer configuration through the common sidecar pipeline and stable-identity Editor history.

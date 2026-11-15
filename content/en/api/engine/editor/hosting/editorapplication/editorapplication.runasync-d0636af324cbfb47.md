@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates composition, owns the created Editor host and retires resources on exit, cancellation or failure.
-
 ## Parameters
 
 **Parameter `options`:** Borrowed catalogs, factories and product configuration; created resources transfer to the host.

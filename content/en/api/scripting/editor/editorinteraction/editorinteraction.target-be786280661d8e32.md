@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the borrowed target without extending its validity or resolving a replacement generation.

@@ -13,5 +13,3 @@ reviewed: 55af4894bb99cc931f22de1ed1342ca9b29764fcdd357da81241a3cb6811955c
 source: xml
 outdated: false
 ---
-
-Compares the value with the supplied expected constant.

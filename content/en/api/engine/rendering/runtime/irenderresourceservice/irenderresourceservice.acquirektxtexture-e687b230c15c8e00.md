@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires or atomically replaces a sampled texture from a portable KTX container.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable provider-owned resource ID.

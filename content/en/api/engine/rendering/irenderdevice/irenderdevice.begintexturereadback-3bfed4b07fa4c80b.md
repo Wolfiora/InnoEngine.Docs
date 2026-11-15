@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins an asynchronous readback of one complete persistent texture mip.
-
 ## Parameters
 
 **Parameter `texture`:** Texture created with `F:Inno.Rendering.RenderTextureUsage.Readback`.

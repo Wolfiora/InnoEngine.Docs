@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a predicate condition evaluated against candidate items.
-
 ## Parameters
 
 **Parameter `predicate`:** Predicate to evaluate.

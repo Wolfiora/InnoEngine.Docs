@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an explicit platform, processor, ABI and managed-runtime mapping.
-
 ## Parameters
 
 **Parameter `id`:** The stable publication target identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Uses the authoring owners responsible for source identity, converter generations and shared undo.
-
 ## Parameters
 
 **Parameter `assets`:** Authoritative asset pipeline.

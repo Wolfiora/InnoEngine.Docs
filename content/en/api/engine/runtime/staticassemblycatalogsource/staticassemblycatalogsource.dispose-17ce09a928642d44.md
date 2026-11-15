@@ -13,5 +13,3 @@ reviewed: 11289c6e1bf6b257326726c86d3ec89202e94d22987a863b7e884af8efef807a
 source: xml
 outdated: false
 ---
-
-Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.

@@ -13,5 +13,3 @@ reviewed: 479100abb576e1289683efb4f1a657433c11a3a30adb82979d8103d3ab018506
 source: xml
 outdated: false
 ---
-
-The active script generation is ready and isolated runtime state is being prepared.

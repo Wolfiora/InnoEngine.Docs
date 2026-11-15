@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an audio content provider declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable provider identifier.

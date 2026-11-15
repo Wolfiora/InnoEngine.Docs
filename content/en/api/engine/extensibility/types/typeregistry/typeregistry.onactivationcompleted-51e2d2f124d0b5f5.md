@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finalizes a successfully activated candidate after every coordinated registry has activated.
-
 ## Parameters
 
 **Parameter `previous`:** The previous snapshot that is about to be released, or `null`.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allow resize from right border (layout direction). Enable .ini saving (unless ImGuiWindowFlags\_NoSavedSettings passed to window flags)

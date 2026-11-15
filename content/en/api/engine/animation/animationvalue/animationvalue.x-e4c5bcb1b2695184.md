@@ -13,5 +13,3 @@ reviewed: 9fa0c8ca61f4a7f8b7583e4693ac4642f087a5411bb0a1836c327cab4b60debf
 source: xml
 outdated: false
 ---
-
-Gets or sets the first component.

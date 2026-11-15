@@ -13,5 +13,3 @@ reviewed: c4a5b3c063fc5e151483f9e013673d595e22d20cdf5c3c22949ddd6e837a7f4e
 source: xml
 outdated: false
 ---
-
-Gets or sets the destination multiplier for alpha.

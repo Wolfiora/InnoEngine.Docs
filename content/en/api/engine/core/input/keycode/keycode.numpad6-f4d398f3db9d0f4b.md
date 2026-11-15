@@ -13,5 +13,3 @@ reviewed: 8d0df39b8fb27b11cbb603c68596c4176f22297de0c8f6b196bd33703e415582
 source: xml
 outdated: false
 ---
-
-The 6 key on the numeric keypad.

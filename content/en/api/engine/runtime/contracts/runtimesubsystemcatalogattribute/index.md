@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Requests a generated partial method that gathers subsystem declarations with the same typed composition parameter.

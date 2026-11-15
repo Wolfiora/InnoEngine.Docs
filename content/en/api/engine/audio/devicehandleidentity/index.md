@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Stores one decoded device-owned identity.
-
 ## Parameters
 
 **Parameter `value`:** Non-zero backend resource identity.

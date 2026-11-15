@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns an order in which every dependency precedes its dependents.
-
 ## Returns
 
 A deterministic topological ordering.

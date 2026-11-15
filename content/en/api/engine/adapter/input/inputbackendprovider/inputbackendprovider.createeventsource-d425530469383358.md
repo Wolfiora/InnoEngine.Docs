@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a caller-owned input service using this implementation.
-
 ## Parameters
 
 **Parameter `window`:** The window supplying accepted input events.

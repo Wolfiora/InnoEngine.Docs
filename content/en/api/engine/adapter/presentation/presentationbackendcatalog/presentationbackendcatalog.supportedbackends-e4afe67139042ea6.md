@@ -13,5 +13,3 @@ reviewed: d666326cdcf1d5cabd332045f39d2fec70886480513442bdff4a184e04cc4a0c
 source: xml
 outdated: false
 ---
-
-Gets the implementation identities available in this immutable factory snapshot.

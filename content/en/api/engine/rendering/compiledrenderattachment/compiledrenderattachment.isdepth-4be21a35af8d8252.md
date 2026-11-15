@@ -13,5 +13,3 @@ reviewed: aa62281d516824f3c702aa5bafba88351482840b040dc40dbde24105d4bfee7b
 source: xml
 outdated: false
 ---
-
-Gets whether this is a depth or depth-stencil attachment.

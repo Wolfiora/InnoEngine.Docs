@@ -13,5 +13,3 @@ reviewed: 14523ab39303c7206dddedc29394d74a573c5b9b95d6bf3743cd06ff636e34b6
 source: xml
 outdated: false
 ---
-
-Gets the decoded protocol-owned contribution value.

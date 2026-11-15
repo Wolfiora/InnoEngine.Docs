@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the registered deployment identities that support one managed target.
-
 ## Parameters
 
 **Parameter `runtimeIdentifier`:** The managed toolchain target selected by the platform composition.

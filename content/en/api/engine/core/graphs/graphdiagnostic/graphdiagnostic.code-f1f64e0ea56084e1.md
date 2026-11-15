@@ -13,5 +13,3 @@ reviewed: 01dfd5f1fcbb5ea61a68cd5bd61643e4610185552d1277c8c468914901f979fe
 source: xml
 outdated: false
 ---
-
-Gets the stable machine-readable diagnostic code.

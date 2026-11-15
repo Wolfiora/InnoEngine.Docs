@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-text#provider-and-ownership-contract
 aliases: []
 ---
-
-Resolves text providers from one immutable, composition-owned registration snapshot.

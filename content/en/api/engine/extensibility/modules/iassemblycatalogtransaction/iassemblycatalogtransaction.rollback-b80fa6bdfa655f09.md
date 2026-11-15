@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores the previous state and releases the candidate state.
-
 ## Remarks
 
 Implementations should isolate individual cleanup failures so every candidate resource can be released.

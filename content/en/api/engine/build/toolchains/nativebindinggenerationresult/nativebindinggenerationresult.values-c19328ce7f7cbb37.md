@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets an enumerable collection that contains the values in the read-only dictionary.
-
 ## Returns
 
 An enumerable collection that contains the values in the read-only dictionary.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or sets whether this component participates in scene lifecycle and frame updates.
-
 ## Remarks
 
 Changing this value while the component belongs to a loaded scene immediately reconciles `M:Inno.Scene.GameBehavior.OnEnable` and `M:Inno.Scene.GameBehavior.OnDisable` against hierarchy activation.

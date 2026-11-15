@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates the text state and applies the resulting invariants.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

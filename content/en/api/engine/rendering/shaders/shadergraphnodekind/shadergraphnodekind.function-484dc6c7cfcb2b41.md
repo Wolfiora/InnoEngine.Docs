@@ -13,5 +13,3 @@ reviewed: f201ae2661cf9044476953b44c57fa85ea78680945dd8e49e6f3c99d4cc78bb7
 source: xml
 outdated: false
 ---
-
-Inlines the node graph into the caller before Target expansion and typed lowering.

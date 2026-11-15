@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Maps one logical binding to the adapter-generated native name, without exposing a GPU handle.
-
 ## Parameters
 
 **Parameter `id`:** Stable logical binding identity from the typed stage.

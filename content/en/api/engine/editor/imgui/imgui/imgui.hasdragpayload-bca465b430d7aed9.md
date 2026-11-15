@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks the active payload's logical protocol without exposing its native buffer.
-
 ## Parameters
 
 **Parameter `protocol`:** The exact drag protocol name.

@@ -13,5 +13,3 @@ reviewed: d03cf09b3867281d8e43f2d142d86ebd213cfdac7cd2a887bb9ced19caa62952
 source: xml
 outdated: false
 ---
-
-Gets the explanation displayed by the unified Settings frontend.

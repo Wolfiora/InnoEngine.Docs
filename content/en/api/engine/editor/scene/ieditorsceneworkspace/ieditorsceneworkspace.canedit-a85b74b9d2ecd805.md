@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a loaded scene may be changed in the current Edit or isolated Play world.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to inspect.

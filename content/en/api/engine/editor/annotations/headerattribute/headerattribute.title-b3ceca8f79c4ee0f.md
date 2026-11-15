@@ -13,5 +13,3 @@ reviewed: 8e6d797cd13e769e70756194eb6550e2bc517efccf477be6f929791fbf6d8055
 source: xml
 outdated: false
 ---
-
-Gets the visible section title.

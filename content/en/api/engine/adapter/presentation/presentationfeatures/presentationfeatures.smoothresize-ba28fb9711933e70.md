@@ -13,5 +13,3 @@ reviewed: 754db899b6da8d4c234f8f7896cee104e3f5104864a07bebea33fee06ae76ed8
 source: xml
 outdated: false
 ---
-
-Enables smooth rendering while native windows are being resized.

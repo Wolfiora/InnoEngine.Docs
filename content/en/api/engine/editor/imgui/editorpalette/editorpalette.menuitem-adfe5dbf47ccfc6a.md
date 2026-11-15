@@ -13,5 +13,3 @@ reviewed: 9b1da1c82fdf201c76be8bc6c700de6ae2627b64f4d105d124e9cd7f5ebecefb
 source: xml
 outdated: false
 ---
-
-Gets the resting background of an editor context-menu item.

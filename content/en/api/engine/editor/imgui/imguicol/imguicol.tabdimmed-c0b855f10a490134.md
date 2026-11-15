@@ -13,5 +13,3 @@ reviewed: 3600f07ef8fc9bf08d7974df2cc5ceb5e0d97b8a8a792e9c07bd636a63a95b7e
 source: xml
 outdated: false
 ---
-
-Selects the tab dimmed presentation behavior.

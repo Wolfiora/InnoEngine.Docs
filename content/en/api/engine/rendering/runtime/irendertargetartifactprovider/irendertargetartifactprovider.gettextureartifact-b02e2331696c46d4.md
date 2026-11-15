@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the portable KTX artifact for one imported runtime texture.
-
 ## Parameters
 
 **Parameter `texture`:** Stable reference to the imported texture slot.

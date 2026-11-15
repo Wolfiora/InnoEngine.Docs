@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: disable inputs sliders/text widgets (e.g. to show only the small preview color square).

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Schedules one parameterless job in the current frame.
-
 ## Parameters
 
 **Parameter `job`:** The operation to execute once its implicit empty dependency set is ready.

@@ -13,5 +13,3 @@ reviewed: 8abe69a12c1c51ed3efe56adc58ac55077933c53926b2523a7ebb68f325489ba
 source: xml
 outdated: false
 ---
-
-The reference originates from an editor-only view or selection.

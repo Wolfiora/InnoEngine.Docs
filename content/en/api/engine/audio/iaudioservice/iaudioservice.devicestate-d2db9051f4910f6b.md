@@ -13,5 +13,3 @@ reviewed: ceac870de41f8b4c23cb2e37bd671b665db39f51be2f32cf2ad2264d6824fb4e
 source: xml
 outdated: false
 ---
-
-Gets the current audio output state.

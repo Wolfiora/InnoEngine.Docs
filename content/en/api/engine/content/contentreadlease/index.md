@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Pins immutable entry bytes while independent streams obtain their own retirement protection.

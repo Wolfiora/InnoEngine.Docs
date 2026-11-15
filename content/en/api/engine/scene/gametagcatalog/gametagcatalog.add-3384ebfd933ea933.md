@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one normalized project tag definition.
-
 ## Parameters
 
 **Parameter `tag`:** The unique tag to define.

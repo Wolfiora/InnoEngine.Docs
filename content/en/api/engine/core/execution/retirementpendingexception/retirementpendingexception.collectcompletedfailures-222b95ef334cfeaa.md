@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retains ordinary failure branches across pending retries without recording transient pending signals as completed work.
-
 ## Parameters
 
 **Parameter `exception`:** The original exception tree reported by a retirement attempt.

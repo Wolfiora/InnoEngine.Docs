@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers frame-final work without transferring frame ownership.
-
 ## Parameters
 
 **Parameter `contributor`:** Contributor invoked after all user pipeline requests.

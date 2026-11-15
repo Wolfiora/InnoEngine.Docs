@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering-authoring
 aliases: []
 ---
-
-Pairs one immutable authoring provider set with a runtime rendering catalog.

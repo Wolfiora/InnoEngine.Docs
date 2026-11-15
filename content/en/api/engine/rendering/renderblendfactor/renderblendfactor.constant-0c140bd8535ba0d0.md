@@ -13,5 +13,3 @@ reviewed: bdd0877287dc9d2a6c1072f4a69a89ce9197513ea8df36c99ce784d6110e08c4
 source: xml
 outdated: false
 ---
-
-Multiplies by the packed constant blend color.

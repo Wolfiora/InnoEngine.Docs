@@ -13,5 +13,3 @@ reviewed: 95886c4e86003802e32cc1b9a2f70938c10fe2d0fbe14f5fb8e080b6a6cb3119
 source: xml
 outdated: false
 ---
-
-Gets the active scrollbar thumb.

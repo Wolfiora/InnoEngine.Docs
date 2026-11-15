@@ -13,5 +13,3 @@ reviewed: d4d0f1aaaad163696000a0720c5be65f72ee15219513e15b20b0c990d4b7375c
 source: xml
 outdated: false
 ---
-
-Unloads the active scene in the current runtime session when one exists.

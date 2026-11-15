@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the default object for a field. Page definitions keep the base implementation, whose internal value is `null`.
-
 ## Remarks
 
 Field implementations must return a newly owned object on every access.

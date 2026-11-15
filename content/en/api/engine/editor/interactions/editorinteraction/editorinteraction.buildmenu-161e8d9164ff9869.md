@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds the complete contextual menu for this area and target.
-
 ## Returns
 
 The immutable resolved menu model.

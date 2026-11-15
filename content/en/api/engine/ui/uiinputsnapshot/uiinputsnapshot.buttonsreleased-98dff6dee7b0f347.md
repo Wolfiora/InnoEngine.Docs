@@ -13,5 +13,3 @@ reviewed: 52e84db30a5354ff77e9b4a2fb18884021b518cc5b4a1f59aa8be8ba56dfc86b
 source: xml
 outdated: false
 ---
-
-Gets pointer buttons released this frame.

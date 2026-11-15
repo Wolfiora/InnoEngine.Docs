@@ -18,5 +18,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Carries one immutable input snapshot across the UI backend boundary.

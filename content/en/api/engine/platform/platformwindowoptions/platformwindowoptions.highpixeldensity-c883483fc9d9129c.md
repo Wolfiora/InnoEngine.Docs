@@ -13,5 +13,3 @@ reviewed: 58520cdcb6202307c261a669fa35001b2f0a8c97879e57b236150ae5d58f2d10
 source: xml
 outdated: false
 ---
-
-Gets whether high pixel density is requested for the window.

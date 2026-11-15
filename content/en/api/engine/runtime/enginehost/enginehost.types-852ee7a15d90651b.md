@@ -13,5 +13,3 @@ reviewed: 008dee21b225f6cbd791df97c361f8ddd696d00c5bb6a78018c4ebc6dd2d6d62
 source: xml
 outdated: false
 ---
-
-Gets the isolated immutable type catalog derived from this host's active modules.

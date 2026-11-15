@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the initial floating size in UI coordinates; zero leaves native auto-sizing in control. Saved layouts take precedence.

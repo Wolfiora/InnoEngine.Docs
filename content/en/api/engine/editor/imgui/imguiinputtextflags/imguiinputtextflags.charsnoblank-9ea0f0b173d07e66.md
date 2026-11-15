@@ -13,5 +13,3 @@ reviewed: 9b0469b3c5a25ead65193878522e5a99e788745646fc9aa58e0623011230014b
 source: xml
 outdated: false
 ---
-
-Filter out spaces, tabs

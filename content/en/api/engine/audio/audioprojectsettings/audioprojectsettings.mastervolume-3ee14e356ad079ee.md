@@ -13,5 +13,3 @@ reviewed: 3fc55366e733eb184ace9526deecc8d618e608e60424e33e0607c4e25c0c8501
 source: xml
 outdated: false
 ---
-
-Gets or sets the initial non-negative master bus gain.

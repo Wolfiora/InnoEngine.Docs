@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a portable key, byte length, and SHA-256 identity.
-
 ## Parameters
 
 **Parameter `key`:** The assigned logical content key.

@@ -13,5 +13,3 @@ reviewed: f70eb60052d5418379bb9c03feaa7656f5a71f8619240aea0d51f1ea06be0c51
 source: xml
 outdated: false
 ---
-
-Enable horizontal scrolling. Require 'outer\_size' parameter of BeginTable() to specify the container size. Changes default sizing policy. Because this creates a child window, ScrollY is currently generally recommended when using ScrollX.

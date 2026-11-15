@@ -13,5 +13,3 @@ reviewed: 98eb3cf1ce8676c289ceaad249f3194da68a7ea262bd9947f327908cc72f4cb0
 source: xml
 outdated: false
 ---
-
-Enable wrapping around from max to min and from min to max. Only supported by DragXXX() functions for now.

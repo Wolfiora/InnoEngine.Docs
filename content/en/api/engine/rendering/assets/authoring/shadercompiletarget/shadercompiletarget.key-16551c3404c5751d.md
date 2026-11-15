@@ -13,5 +13,3 @@ reviewed: 4c46da9c711e8eb8dc0294ef8daf9d0037ec4ff0ffe9fd33fdab5c278eae203f
 source: xml
 outdated: false
 ---
-
-Gets a stable target cache-key fragment.

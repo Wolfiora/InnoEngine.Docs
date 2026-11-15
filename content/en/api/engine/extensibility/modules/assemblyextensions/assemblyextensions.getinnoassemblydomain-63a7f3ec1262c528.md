@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the reload domain declared by an assembly.
-
 ## Parameters
 
 **Parameter `assembly`:** The assembly whose metadata should be inspected.

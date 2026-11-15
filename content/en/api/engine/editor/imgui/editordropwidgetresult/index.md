@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Reports the preview and delivery state of an ImGui editor drop target.

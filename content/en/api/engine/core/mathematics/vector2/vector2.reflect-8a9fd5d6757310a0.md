@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reflects an incident value across the supplied normal.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

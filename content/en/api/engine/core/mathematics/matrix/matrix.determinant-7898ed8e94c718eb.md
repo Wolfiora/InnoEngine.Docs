@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the determinant of the matrix.
-
 ## Parameters
 
 **Parameter `m`:** The transformation matrix applied to the supplied value.

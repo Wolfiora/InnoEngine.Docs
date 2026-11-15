@@ -13,5 +13,3 @@ reviewed: c574ac0d2150e6aa2cd0c5ec51f1565e1b80e69b579db2b12bfdf545bf833b2e
 source: xml
 outdated: false
 ---
-
-Gets the number of runtime-scoped assets in the deployed catalog.

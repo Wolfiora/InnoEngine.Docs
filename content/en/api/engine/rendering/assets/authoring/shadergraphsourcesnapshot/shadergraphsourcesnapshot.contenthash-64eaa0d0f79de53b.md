@@ -13,5 +13,3 @@ reviewed: 54773edadc82820c6e18704f2c47bcf07e26349ced4e13569e9e15b27d129129
 source: xml
 outdated: false
 ---
-
-Gets the source fingerprint used to reject external-edit conflicts.

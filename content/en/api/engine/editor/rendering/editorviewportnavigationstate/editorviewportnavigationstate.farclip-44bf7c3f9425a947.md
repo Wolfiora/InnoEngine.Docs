@@ -13,5 +13,3 @@ reviewed: 90d92d0e68805bfc9c29b6e6e49a5f2722ffaa419f5cd6ab6b07b3d47e5cf4b6
 source: xml
 outdated: false
 ---
-
-Gets or sets the far clipping distance greater than the near distance.

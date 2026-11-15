@@ -13,5 +13,3 @@ reviewed: 15fa78f7d2ebcff6c50f140a829c882a7675a38307f913060eeb94b25ddbbe34
 source: xml
 outdated: false
 ---
-
-Gets or sets the third component.

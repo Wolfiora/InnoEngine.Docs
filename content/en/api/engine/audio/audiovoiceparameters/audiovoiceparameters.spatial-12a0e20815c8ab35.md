@@ -13,5 +13,3 @@ reviewed: 6c9e39dafc9b8df2f14f4b69087975f24515b243871bb4c694b3d78f5076ff18
 source: xml
 outdated: false
 ---
-
-Gets optional spatial playback parameters.

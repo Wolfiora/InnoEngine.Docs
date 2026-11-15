@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Cancels only the import observed by the presentation.
-
 ## Parameters
 
 **Parameter `operationId`:** The current import identity captured by the caller.

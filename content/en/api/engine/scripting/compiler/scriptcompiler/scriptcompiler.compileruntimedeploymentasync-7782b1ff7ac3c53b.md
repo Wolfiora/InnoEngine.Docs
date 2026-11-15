@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles only the runtime assembly closure required by a deployed Player and binds it to that Player runtime.
-
 ## Remarks
 
 Complete cache trees use Core IO atomic publication and replacement. Cancellation before commit preserves the previous tree; cancellation does not undo a committed cache. Cleanup failure after commit preserves the installed tree and remaining backup without activating a generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Inverts every layer bit in a mask.
-
 ## Parameters
 
 **Parameter `mask`:** The mask to invert.

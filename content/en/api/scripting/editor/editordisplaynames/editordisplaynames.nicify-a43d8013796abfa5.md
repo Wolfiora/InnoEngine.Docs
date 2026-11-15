@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts an identifier into a readable editor label.
-
 ## Parameters
 
 **Parameter `name`:** Source identifier.

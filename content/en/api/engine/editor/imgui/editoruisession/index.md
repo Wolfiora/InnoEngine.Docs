@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Owns editor controls and transient presentation state for one host, independently from other ImGui contexts.

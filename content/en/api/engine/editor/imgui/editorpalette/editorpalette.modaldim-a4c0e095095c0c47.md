@@ -13,5 +13,3 @@ reviewed: 9492d1bc7a370da44b9f6521197c05ee8974071de353f7e3e7c059856c00c4b7
 source: xml
 outdated: false
 ---
-
-Gets modal dim background.

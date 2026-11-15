@@ -13,5 +13,3 @@ reviewed: 22e66cc36b176ba6ca4c9a1ebf495d725a3f746ea59995258c6a76e81b5d34a8
 source: xml
 outdated: false
 ---
-
-Gets or sets the default user-facing Plugin name.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the current continuous-edit merge boundary, or null for a discrete edit.

@@ -13,5 +13,3 @@ reviewed: 3af22596f9bdb5fd48af7aea039003ebe942735545eba99145636f0684cd5623
 source: xml
 outdated: false
 ---
-
-Gets ordered target definitions.

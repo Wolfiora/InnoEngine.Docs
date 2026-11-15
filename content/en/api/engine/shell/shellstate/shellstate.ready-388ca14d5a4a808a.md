@@ -13,5 +13,3 @@ reviewed: c80b406956cb64fa5b5f194391928cf5084fb4d3b826176dc2aa253b8d40317c
 source: xml
 outdated: false
 ---
-
-Adapter resources are ready for the single permitted run.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a keyboard gesture with an exact set of modifier keys after symbolic-key normalization.
-
 ## Parameters
 
 **Parameter `key`:** The non-modifier key in the gesture.

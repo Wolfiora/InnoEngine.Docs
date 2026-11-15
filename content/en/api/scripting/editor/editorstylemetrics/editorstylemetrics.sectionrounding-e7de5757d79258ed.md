@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the subtle corner rounding used by framed content sections inside editor containers.

@@ -13,5 +13,3 @@ reviewed: 72b88e3ed4f59a57240f180368e592132ad11436b3b20894ede119296f647280
 source: xml
 outdated: false
 ---
-
-Assigned texture slot; uniform locations are resolved by the runtime.

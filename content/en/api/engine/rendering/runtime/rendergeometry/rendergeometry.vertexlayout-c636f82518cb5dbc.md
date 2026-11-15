@@ -13,5 +13,3 @@ reviewed: 97fddbc18c16cd5cc68bdbd403e93d8485dfdce36e097c2cc0c434caec344175
 source: xml
 outdated: false
 ---
-
-Gets the imported interleaved vertex layout.

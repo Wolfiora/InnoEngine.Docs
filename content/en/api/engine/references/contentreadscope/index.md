@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Exposes ordered content roots through weak, generation-checked identity snapshots for one control-thread operation.
-
 ## Remarks
 
 Disposing the scope revokes lookup. Copy values into domain snapshots; never retain resolved objects across frames or reloads.

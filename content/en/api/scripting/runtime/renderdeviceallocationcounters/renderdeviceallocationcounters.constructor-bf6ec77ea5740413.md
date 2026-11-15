@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable allocation snapshot scoped to one device generation.
-
 ## Parameters
 
 **Parameter `deviceGeneration`:** Non-zero generation that owns the measured pools; counters restart for a new generation.

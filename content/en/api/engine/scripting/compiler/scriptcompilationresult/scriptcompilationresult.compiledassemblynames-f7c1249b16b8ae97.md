@@ -13,5 +13,3 @@ reviewed: 6bf85e4d8d1e06a9fc6f03469742b0a005665eb598c7972c7b3fbe051ca0cbd0
 source: xml
 outdated: false
 ---
-
-Gets assembly names compiled during this request instead of reused from the artifact cache.

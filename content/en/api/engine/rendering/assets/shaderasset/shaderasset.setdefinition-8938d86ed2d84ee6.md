@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits a validated definition through the native serialization channel.
-
 ## Parameters
 
 **Parameter `value`:** Complete definition visible to materials and target compilation.

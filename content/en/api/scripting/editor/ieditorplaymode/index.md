@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-playmode
 aliases: []
 ---
-
-Controls the editor's isolated game-simulation session.

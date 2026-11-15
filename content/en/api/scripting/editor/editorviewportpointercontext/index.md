@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Supplies normalized pointer interaction over one rendered viewport.

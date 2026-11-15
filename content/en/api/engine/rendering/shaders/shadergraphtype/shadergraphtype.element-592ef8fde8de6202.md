@@ -13,5 +13,3 @@ reviewed: 164febe8d2283d040cc4d5eb4fc51f3e503cb711049dce9f2fac1710093afe14
 source: xml
 outdated: false
 ---
-
-Gets or sets the fixed array element type, or null for a non-array.

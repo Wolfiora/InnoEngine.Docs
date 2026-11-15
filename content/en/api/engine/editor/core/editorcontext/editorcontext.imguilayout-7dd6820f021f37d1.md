@@ -13,5 +13,3 @@ reviewed: ba4705b879657fa803c0c26cc3413e05645fddb33f6a5e0848c9e2bf1cc42a2e
 source: xml
 outdated: false
 ---
-
-Gets the Dear ImGui layout text without editor module or panel state sections.

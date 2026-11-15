@@ -13,5 +13,3 @@ reviewed: 7e4453acf23522ffe0bd5c688b9f95c8626e263c05eb896b42e7e1dd59988643
 source: xml
 outdated: false
 ---
-
-Gets the world-to-view transform.

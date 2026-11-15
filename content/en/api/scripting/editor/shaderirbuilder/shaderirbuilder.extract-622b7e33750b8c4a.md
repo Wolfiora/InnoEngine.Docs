@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Extracts one static component, structure member or array element without source-language member syntax.
-
 ## Parameters
 
 **Parameter `value`:** Aggregate value from this builder.

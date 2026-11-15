@@ -13,5 +13,3 @@ reviewed: 86a8668e28a899d8ad05a456ccb99678e8e29ed5d7f74edadbc999e671643f39
 source: xml
 outdated: false
 ---
-
-Gets whether unsafe source is permitted.

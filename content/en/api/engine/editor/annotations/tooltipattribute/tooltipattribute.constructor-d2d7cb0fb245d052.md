@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates property hover help.
-
 ## Parameters
 
 **Parameter `text`:** Non-empty tooltip text.

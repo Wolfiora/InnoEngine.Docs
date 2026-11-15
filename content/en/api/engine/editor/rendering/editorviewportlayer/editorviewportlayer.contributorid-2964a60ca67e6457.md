@@ -13,5 +13,3 @@ reviewed: b964fa56f5c3899b240175f738a2e578a88f427b9b03ad927dd7066b50c1a032
 source: xml
 outdated: false
 ---
-
-Gets the stable identity of the rendering-model contributor.

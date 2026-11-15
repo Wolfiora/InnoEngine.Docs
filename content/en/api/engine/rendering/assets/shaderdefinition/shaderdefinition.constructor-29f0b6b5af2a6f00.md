@@ -13,5 +13,3 @@ reviewed: 974b1ce8c07a08a8af4e11455bcf910201e2f21067ce3fd19d7064a33558e632
 source: xml
 outdated: false
 ---
-
-Creates an empty shader definition for native deserialization.

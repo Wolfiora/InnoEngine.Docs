@@ -13,5 +13,3 @@ reviewed: d20bf58ac5ac6aff53936a8debb6908f60316ceaea7b684a54505ef5f8586e3d
 source: xml
 outdated: false
 ---
-
-Gets the active isolated source mount snapshot.

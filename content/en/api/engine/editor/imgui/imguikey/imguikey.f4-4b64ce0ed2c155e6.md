@@ -13,5 +13,3 @@ reviewed: 3c105757d488aabacc662f6898199bce5b71ba9cf9e979237c767060663aa272
 source: xml
 outdated: false
 ---
-
-Identifies the F4 presentation key or modifier.

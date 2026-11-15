@@ -13,5 +13,3 @@ reviewed: 9af8cc2bfa11942c4d851ed2830d1f4e92bcf556beb8d1e250898d150fa4b61c
 source: xml
 outdated: false
 ---
-
-Gets or sets the source multiplier for alpha.

@@ -13,5 +13,3 @@ reviewed: 67dae039f1279a7dfe48a53235e34ffcdaa0206c68c428ea80abee1becb74a58
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable metadata key.

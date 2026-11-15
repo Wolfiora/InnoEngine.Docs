@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a source-local path and rejects physical root escape.
-
 ## Parameters
 
 **Parameter `localPath`:** Source-local path.

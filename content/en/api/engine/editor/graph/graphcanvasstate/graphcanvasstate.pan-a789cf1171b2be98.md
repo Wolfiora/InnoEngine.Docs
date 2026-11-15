@@ -13,5 +13,3 @@ reviewed: c43a7422d118bc9700ab5e31b51e4336a00c55d426ac48ba7db0e99e5c8355d1
 source: xml
 outdated: false
 ---
-
-Gets the graph-space origin mapped to canvas screen origin.

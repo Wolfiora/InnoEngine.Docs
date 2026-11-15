@@ -13,5 +13,3 @@ reviewed: b8d0ed137eb47deda179709bbcaa41a6ce05bb4201b03578accc30d573329433
 source: xml
 outdated: false
 ---
-
-Gets the validated candidate type snapshot.

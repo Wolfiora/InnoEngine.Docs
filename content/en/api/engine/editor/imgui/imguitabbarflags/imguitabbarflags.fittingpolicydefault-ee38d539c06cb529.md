@@ -13,5 +13,3 @@ reviewed: 7082693f18038318cf5efccbbecaffc24d662bee6ac623fb7101d3cfe9536bbc
 source: xml
 outdated: false
 ---
-
-Selects the fitting policy default presentation behavior.

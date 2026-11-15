@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable texture subresource upload.
-
 ## Parameters
 
 **Parameter `mipLevel`:** Zero-based mip level.

@@ -13,5 +13,3 @@ reviewed: b8c7f55a12f08a8e248d645abdd7e367e42122647f6918a25fc621f1348fb3e2
 source: xml
 outdated: false
 ---
-
-Gets or sets role-to-pass mappings.

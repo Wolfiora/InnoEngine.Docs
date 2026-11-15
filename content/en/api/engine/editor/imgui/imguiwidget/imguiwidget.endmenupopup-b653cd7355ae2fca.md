@@ -13,5 +13,3 @@ reviewed: b166f444607ede93301ea1be0a7785683b234648887cbe7362cb15176bc0d60b
 source: xml
 outdated: false
 ---
-
-Ends a popup opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuPopup(System.String)` and restores the previous style.

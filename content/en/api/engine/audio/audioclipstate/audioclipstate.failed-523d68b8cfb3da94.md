@@ -13,5 +13,3 @@ reviewed: 819737a88a5458f06d1a8fdc14fc5445efedf9bf7db7d193b3e78bf5356d40d5
 source: xml
 outdated: false
 ---
-
-Preparation failed; the clip must be destroyed and callers notified.

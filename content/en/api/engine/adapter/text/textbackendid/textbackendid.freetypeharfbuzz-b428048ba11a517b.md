@@ -13,5 +13,3 @@ reviewed: 54633b9fd596b85421c79f80a6e5eff4e9caa035814ac576d6b4f29f09e9de10
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled freeTypeHarfBuzz implementation.

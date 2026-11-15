@@ -13,5 +13,3 @@ reviewed: c014a8f1a47db20ef10293139a1bafd9e6db4911762a190e42c6e5a5d15e159c
 source: xml
 outdated: false
 ---
-
-Selects the tab selected presentation behavior.

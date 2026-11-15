@@ -13,5 +13,3 @@ reviewed: c4adca3f0904a6ed1333fd53907c83816f86af91a16de108a8d366aa02a959eb
 source: xml
 outdated: false
 ---
-
-Gets whether Enter requests activation of the focused entry.

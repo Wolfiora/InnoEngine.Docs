@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores the imported graph for authoring or source export.
-
 ## Parameters
 
 **Parameter `bytes`:** Current authoring artifact bytes.

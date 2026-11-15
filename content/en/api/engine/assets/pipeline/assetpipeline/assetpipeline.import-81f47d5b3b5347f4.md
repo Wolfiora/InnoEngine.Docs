@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports one source asset from an isolated source mount.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

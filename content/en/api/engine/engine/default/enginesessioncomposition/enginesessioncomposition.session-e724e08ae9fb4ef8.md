@@ -13,5 +13,3 @@ reviewed: 8b2fc3574940848f21b15fbe13c06017e9b1c92743db83853950312930d18a5e
 source: xml
 outdated: false
 ---
-
-Gets the isolated session selected by the product.

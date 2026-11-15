@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Composes one explicit binding per implemented platform without resolving tools.
-
 ## Parameters
 
 **Parameter `context`:** The explicitly selected SDK and execution host.

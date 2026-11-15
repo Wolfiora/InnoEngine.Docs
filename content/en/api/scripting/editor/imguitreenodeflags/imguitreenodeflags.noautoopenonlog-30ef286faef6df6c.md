@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Don't automatically and temporarily open node when Logging is active (by default logging will automatically open tree nodes)

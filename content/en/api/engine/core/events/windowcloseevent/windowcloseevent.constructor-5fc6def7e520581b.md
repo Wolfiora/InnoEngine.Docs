@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Raised when the window requests close.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Describes one neutral reload-safe mutation interpreted by an attribute-discovered history handler.

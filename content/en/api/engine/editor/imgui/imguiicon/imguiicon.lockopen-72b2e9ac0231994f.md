@@ -13,5 +13,3 @@ reviewed: 90f1d2006e30e8d42156c24275fcf71d2c0b4d658465f4e101b510831ac1b914
 source: xml
 outdated: false
 ---
-
-Gets the lock open glyph used by standard Editor controls.

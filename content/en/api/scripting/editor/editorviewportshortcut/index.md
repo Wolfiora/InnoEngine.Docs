@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Contains one presentation-independent shortcut sample for a focused viewport tool.

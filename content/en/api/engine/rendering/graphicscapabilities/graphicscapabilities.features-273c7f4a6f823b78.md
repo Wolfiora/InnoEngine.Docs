@@ -13,5 +13,3 @@ reviewed: 9ba051c42108336df7a7a4f853957c3848254f9ffce1c4e34a23f8b5ff5d3bf1
 source: xml
 outdated: false
 ---
-
-Gets all supported optional features.

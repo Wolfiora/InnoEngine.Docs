@@ -13,5 +13,3 @@ reviewed: d35922a2ad367ff79d52722458051addb1f2bbd8777f2f42b0a81f3bf1fd74e0
 source: xml
 outdated: false
 ---
-
-Gets the visible panel title.

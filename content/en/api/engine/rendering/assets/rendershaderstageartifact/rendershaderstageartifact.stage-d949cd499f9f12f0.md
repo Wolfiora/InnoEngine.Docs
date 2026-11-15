@@ -13,5 +13,3 @@ reviewed: caad70c07c29920b895bacce610e0be5ac2fc92239e20b2d857c677902cf9845
 source: xml
 outdated: false
 ---
-
-Gets the programmable stage represented by this artifact.

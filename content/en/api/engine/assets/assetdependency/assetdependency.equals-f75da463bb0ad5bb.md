@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this instance and the supplied value represent the same logical state.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.

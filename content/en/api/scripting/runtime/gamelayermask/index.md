@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Stores a compact set of scene layers for rendering, physics, and query filtering.

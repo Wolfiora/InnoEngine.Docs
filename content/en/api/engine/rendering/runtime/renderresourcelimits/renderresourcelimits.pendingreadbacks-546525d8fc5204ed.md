@@ -13,5 +13,3 @@ reviewed: ec4d4a81e67a0f278ed9542eac8debdd79381e15efc1928d7f2f6230c700763b
 source: xml
 outdated: false
 ---
-
-Gets the maximum readbacks that can retain GPU resources before owner-thread completion.

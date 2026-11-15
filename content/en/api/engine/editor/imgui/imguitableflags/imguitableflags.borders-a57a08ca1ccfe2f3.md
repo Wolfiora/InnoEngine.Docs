@@ -13,5 +13,3 @@ reviewed: 1ea6aee501f406f3eefb9108a4aa24f5aab47b1b8a345658849b51ec2b754f63
 source: xml
 outdated: false
 ---
-
-Draw all borders.

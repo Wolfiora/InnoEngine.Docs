@@ -13,5 +13,3 @@ reviewed: 67e96023a93f4a57044c893d4abfb2ce50c5b5061f3873dda29a48acd3e0f396
 source: xml
 outdated: false
 ---
-
-Defines one keyboard or menu zoom increment.

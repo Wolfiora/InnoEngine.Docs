@@ -13,5 +13,3 @@ reviewed: ed3a43986f807d20f5eff3bdff43d02604280a245c395561c93933b929040a73
 source: xml
 outdated: false
 ---
-
-Gets the absolute rebuildable Library root.

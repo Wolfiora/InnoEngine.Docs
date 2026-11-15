@@ -13,5 +13,3 @@ reviewed: e91b3f18ceaebed04bda10bdd4449f365a8b7a515e50783a4bacd8f359fb7ee9
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic message associated with a failed transition, or an empty string after success.

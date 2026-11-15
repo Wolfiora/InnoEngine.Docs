@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Parses the shared Player verification and window preferences independently of publication platform.

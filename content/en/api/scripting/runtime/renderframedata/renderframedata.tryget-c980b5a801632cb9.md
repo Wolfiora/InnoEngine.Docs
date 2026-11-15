@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one typed value from an open data channel.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Expected frame-local payload type.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Derives recipe identities from ordered declarations, logical input names and complete source bytes.

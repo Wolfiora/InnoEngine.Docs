@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-api
 aliases: []
 ---
-
-Marks a script API base type whose concrete script-derived types require stable source-owned identity metadata.

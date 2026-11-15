@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens a scene asset additively as the active editor scene.
-
 ## Parameters
 
 **Parameter `relativePath`:** The source-relative scene asset path.

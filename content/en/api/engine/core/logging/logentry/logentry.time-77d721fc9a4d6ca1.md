@@ -13,5 +13,3 @@ reviewed: 6366058487f50fc21189c9aa08081ec40ff42f643c36e1ff0760deb4d8f8de1e
 source: xml
 outdated: false
 ---
-
-Gets the timestamp captured when this entry was created.

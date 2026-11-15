@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether an interactive document element occupies the supplied point.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

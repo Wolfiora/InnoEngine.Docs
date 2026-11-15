@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets a Boolean array property, or a copied fallback when the property is absent.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

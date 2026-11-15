@@ -13,5 +13,3 @@ reviewed: d78c068cd2f839a73b02cf250b7cff905277e70c64463b518c95c6aae487bb5d
 source: xml
 outdated: false
 ---
-
-Gets the frozen dependency directories protected whenever this artifact is a live root.

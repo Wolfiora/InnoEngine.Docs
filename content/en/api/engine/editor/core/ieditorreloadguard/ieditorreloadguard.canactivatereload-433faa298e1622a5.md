@@ -13,5 +13,3 @@ reviewed: d93447cb686a40e6d807a5a4f445da8d928663a5e92f47b804f0f0a6bb0b2291
 source: xml
 outdated: false
 ---
-
-Gets whether compilation and activation may proceed without a live isolated runtime session.

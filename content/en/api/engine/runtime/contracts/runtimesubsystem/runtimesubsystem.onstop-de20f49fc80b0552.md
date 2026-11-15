@@ -13,5 +13,3 @@ reviewed: 2d2b5f34f2eab44989a1cd0f54fef6ced5d7e737ecbe9336620091ff66814480
 source: xml
 outdated: false
 ---
-
-Releases domain resources, including allocations made before attachment.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []
 ---
-
-Exposes the current immutable input snapshot to runtime systems and scripts.

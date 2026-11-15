@@ -13,5 +13,3 @@ reviewed: f00235bea0c434bf83a3cde87a253568095fd6ba963a313e6c9ec341a8fc6924
 source: xml
 outdated: false
 ---
-
-Creates an empty Settings object.

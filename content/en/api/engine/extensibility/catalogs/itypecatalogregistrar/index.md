@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Accepts explicit declarations and linked generic factories while a static catalog is being composed.
-
 ## Remarks
 
 Generated contributors run synchronously on the composition thread and must not retain the registrar. Its registrations belong to the resulting generation. Constructors execute only when requested.

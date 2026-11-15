@@ -13,5 +13,3 @@ reviewed: 8d49a396d966271033bbc954c27b2dcd9561e7614ff0ceac0eeb9823022d9258
 source: xml
 outdated: false
 ---
-
-Gets the normalized complete placement path.

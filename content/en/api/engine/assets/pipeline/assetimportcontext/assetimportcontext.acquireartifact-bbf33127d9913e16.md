@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires an immutable dependency output and records its invalidation dependency automatically.
-
 ## Parameters
 
 **Parameter `assetId`:** Persistent dependency identity.

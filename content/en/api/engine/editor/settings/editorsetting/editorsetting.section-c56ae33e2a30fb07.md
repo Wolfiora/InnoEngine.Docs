@@ -13,5 +13,3 @@ reviewed: 24a60c8388224de37191935435080b5797919f5c53700c9d665c864bc63677a2
 source: xml
 outdated: false
 ---
-
-Gets the section heading used to group fields alphabetically. Definitions without a section keep the base implementation, whose internal value is `null`.

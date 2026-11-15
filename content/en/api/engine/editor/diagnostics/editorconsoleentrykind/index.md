@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---
-
-Identifies the source protocol represented by one editor Console occurrence.

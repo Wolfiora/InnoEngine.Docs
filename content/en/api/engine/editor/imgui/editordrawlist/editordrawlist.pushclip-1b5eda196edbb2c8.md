@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restricts subsequent drawing to one screen rectangle.
-
 ## Parameters
 
 **Parameter `minimum`:** The clip minimum.

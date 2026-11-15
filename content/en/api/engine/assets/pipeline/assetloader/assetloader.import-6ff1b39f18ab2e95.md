@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports one isolated source file into metadata and a runtime artifact.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a qualified identity to its compact runtime slot.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project namespace.

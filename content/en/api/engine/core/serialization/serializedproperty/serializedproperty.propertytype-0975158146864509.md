@@ -13,5 +13,3 @@ reviewed: 8cb1b6d6dc61ad098e4abea528c59ef72bf49d641cbfed5974b866abab36bd00
 source: xml
 outdated: false
 ---
-
-Gets the declared CLR type of this property.

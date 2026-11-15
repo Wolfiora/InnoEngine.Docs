@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Creates explicitly selected deployment metadata from a frozen Native closure.
-
 ## Parameters
 
 **Parameter `products`:** Borrowed complete products whose leases remain held through metadata preparation.

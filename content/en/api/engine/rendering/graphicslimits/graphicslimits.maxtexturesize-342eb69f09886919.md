@@ -13,5 +13,3 @@ reviewed: b7b76faa87bbae792c90741fe0ffdf210a0869d675c03eb77f755048d506d616
 source: xml
 outdated: false
 ---
-
-Gets the maximum two-dimensional texture extent.

@@ -13,5 +13,3 @@ reviewed: cef5f2056dea3a9fa74e113d04d193eae3518536e84539de319b3dd047d8fafe
 source: xml
 outdated: false
 ---
-
-Gets whether this driver permits blocking frame pacing (true).

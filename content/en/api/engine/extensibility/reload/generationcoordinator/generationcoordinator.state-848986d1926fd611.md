@@ -13,5 +13,3 @@ reviewed: 98e394ab60fce1a4f745b8688a344398e4a60ba273d77d2c11b3efbf406400d5
 source: xml
 outdated: false
 ---
-
-Gets the gate state shared by reload, Play, Build and Export owners.

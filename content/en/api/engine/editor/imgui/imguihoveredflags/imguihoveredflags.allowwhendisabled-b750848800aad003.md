@@ -13,5 +13,3 @@ reviewed: 0721f9caf06dbfbbee33ebe11f679457e83036f81a60a16a6c50d7f5a3aa3a39
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Return true even if the item is disabled

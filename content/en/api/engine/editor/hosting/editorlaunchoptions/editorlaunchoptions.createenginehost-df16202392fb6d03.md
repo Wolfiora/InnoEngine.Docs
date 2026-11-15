@@ -13,5 +13,3 @@ reviewed: 92b14f8985cf84589064b90ed621b1605088817e43a3fd177150cae2b0f7905c
 source: xml
 outdated: false
 ---
-
-Gets the factory transferring a newly created metadata-configured engine to the Editor owner.

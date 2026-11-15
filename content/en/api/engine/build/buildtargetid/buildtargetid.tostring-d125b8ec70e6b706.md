@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the portable target identity.
-
 ## Returns
 
 The exact stable target identity.

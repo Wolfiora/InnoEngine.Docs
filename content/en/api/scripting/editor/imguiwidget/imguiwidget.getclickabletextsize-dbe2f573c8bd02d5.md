@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Calculates a clickable text area from visible text and requested inner padding.
-
 ## Parameters
 
 **Parameter `text`:** Visible text whose dimensions determine the content size.

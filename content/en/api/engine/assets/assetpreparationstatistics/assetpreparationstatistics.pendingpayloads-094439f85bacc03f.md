@@ -13,5 +13,3 @@ reviewed: d9372ffd1df03dc77436a27d62caf9747d895654cd591500d2d784c88e263e42
 source: xml
 outdated: false
 ---
-
-Gets unique payload reservations still retained by one or more cold-load roots.

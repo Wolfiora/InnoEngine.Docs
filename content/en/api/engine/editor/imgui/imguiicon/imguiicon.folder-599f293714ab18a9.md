@@ -13,5 +13,3 @@ reviewed: 6e0125dabb0bb1074acb5028b0958515657946a9738002aa9de8a291bbdaeeb3
 source: xml
 outdated: false
 ---
-
-Gets the folder glyph used by standard Editor controls.

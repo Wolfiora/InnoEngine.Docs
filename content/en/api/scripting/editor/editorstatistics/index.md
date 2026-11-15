@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Exchanges frame-scoped, reload-safe statistics between independent editor features and viewers.
-
 ## Remarks
 
 Contributions contain only stable identifiers and strings. A contribution is retained for the current frame and one completed-frame handoff so panel draw order cannot lose data.

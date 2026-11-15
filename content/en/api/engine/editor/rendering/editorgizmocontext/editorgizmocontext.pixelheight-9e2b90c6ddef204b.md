@@ -13,5 +13,3 @@ reviewed: 27ea603ec11b8f8ed2fbcc1a0fc5fc3d9dde45c175884582eb6a935fbc302fdc
 source: xml
 outdated: false
 ---
-
-Gets the viewport height in physical pixels.

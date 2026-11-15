@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Packed 10:10:10:2 vertex attributes are supported.

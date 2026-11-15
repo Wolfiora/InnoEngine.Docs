@@ -13,5 +13,3 @@ reviewed: 235f3d7efb236352fb6387ff7357902ef83b69260ebb0144f30cab7444b8b3de
 source: xml
 outdated: false
 ---
-
-Gets named values returned to the enclosing stage or region.

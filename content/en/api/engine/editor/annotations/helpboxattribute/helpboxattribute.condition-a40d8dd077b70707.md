@@ -13,5 +13,3 @@ reviewed: 36555924196cf58ac3d3f012ee1114696b0d87e25c3d9940f7b7754c873b140c
 source: xml
 outdated: false
 ---
-
-Gets the optional sibling comparison.

@@ -13,5 +13,3 @@ reviewed: fd47dc29b78f8d978ffed8315754f8d60c15e9887d16a1f735876c8bd5b09d99
 source: xml
 outdated: false
 ---
-
-Gets whether the bounded attempt ended before processing all eligible candidates.

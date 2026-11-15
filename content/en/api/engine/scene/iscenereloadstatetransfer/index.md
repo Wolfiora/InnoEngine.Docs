@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Represents a staged scene object state transfer associated with one assembly reload transaction.

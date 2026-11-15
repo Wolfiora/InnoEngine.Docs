@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens a native asset source in the shared document service without revealing a second Inspector.
-
 ## Parameters
 
 **Parameter `path`:** Source path, including sources with failed imports.

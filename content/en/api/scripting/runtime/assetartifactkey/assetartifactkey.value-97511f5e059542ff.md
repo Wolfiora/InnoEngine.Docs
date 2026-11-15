@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the normalized SHA-256 hexadecimal fingerprint, or an empty value for an unassigned key.

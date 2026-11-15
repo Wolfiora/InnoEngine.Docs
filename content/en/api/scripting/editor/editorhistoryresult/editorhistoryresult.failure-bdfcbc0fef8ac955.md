@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a failed history result without changing the owning history stack.
-
 ## Parameters
 
 **Parameter `message`:** The non-empty diagnostic explaining why the transition could not complete.

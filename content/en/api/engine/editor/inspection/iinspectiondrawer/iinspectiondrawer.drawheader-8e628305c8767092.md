@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws the target-specific second header row.
-
 ## Parameters
 
 **Parameter `context`:** The active Inspector drawing context.

@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Records into an isolated command list on a worker thread, then replays in graph order.

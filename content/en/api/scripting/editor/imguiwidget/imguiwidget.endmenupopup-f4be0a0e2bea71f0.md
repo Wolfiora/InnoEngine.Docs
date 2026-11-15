@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Ends a popup opened by `M:InnoEditor.ImGui.ImGuiWidget.BeginMenuPopup(System.String)` and restores the previous style.

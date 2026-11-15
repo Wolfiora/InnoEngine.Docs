@@ -13,5 +13,3 @@ reviewed: 799d712e0e450b24958e3b3948f27406efaa48b69494e49dba2d3c41ecdf9315
 source: xml
 outdated: false
 ---
-
-Multiplies by one minus the packed constant blend color.

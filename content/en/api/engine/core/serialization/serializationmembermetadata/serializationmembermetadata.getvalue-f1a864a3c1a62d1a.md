@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the current value through the selected declaration accessor.
-
 ## Parameters
 
 **Parameter `target`:** The declaring object; ownership remains with the caller.

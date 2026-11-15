@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects the buffer range supplying per-instance attributes.
-
 ## Parameters
 
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.

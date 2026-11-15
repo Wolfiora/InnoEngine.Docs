@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Shows one document.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

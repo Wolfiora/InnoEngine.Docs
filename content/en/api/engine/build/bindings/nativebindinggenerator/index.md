@@ -16,7 +16,3 @@ contracts:
 - project.inno-build-bindings
 aliases: []
 ---
-
-Executes the shared facade-to-C-to-managed binding workflow independently of MSBuild.
-
-Provides preparation input planning for the shared binding generator without producing generated artifacts.

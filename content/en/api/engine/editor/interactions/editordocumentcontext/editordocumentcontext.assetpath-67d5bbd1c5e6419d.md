@@ -13,5 +13,3 @@ reviewed: a6d10a2a2a224983b81644947b0e3f9bfca36503289f731be2f55358e62a26d5
 source: xml
 outdated: false
 ---
-
-Gets the normalized project asset path.

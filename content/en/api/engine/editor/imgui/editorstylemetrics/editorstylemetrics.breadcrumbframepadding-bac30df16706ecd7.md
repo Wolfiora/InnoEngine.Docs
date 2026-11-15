@@ -13,5 +13,3 @@ reviewed: bc2c309eb7dce0f786f6453255f163936056d3c948682df367848309bbbb6257
 source: xml
 outdated: false
 ---
-
-Gets breadcrumb frame padding.

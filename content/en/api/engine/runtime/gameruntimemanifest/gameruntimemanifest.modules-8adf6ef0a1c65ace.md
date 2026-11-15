@@ -13,5 +13,3 @@ reviewed: 40ad4ca05a604e5581cf930fc6d321b46aa9bd1f2edabc56f2d0d1dd2f377d76
 source: xml
 outdated: false
 ---
-
-Gets or sets the dependency-ordered managed modules in the frozen Player generation.

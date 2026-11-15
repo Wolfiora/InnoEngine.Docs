@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compact selector control and begins a work-area-bounded menu popup.
-
 ## Parameters
 
 **Parameter `id`:** Stable selector identifier in the current ImGui scope.

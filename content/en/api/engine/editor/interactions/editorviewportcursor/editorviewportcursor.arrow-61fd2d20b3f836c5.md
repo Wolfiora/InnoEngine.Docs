@@ -13,5 +13,3 @@ reviewed: a01af197d1c7a39640123c939ef5442b40f90647eedd5dea641807fce7ce066b
 source: xml
 outdated: false
 ---
-
-Uses the normal arrow cursor.

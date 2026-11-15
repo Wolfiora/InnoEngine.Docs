@@ -13,5 +13,3 @@ reviewed: 911a41c01d13657ab3895b2d774e07846618a43ed67b649f4de0d0e5bf65c21d
 source: xml
 outdated: false
 ---
-
-Gets W axis color.

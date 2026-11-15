@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets an isolated effective setting snapshot from the active extension generation.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** Expected setting contract.

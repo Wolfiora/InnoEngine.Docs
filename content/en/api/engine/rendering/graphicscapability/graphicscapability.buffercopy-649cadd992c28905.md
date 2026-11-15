@@ -13,5 +13,3 @@ reviewed: 5b6206047defd2711fed329da1cab519a0074b8d55517eeb25877cab14c85ccb
 source: xml
 outdated: false
 ---
-
-General GPU buffer copy operations are supported directly.

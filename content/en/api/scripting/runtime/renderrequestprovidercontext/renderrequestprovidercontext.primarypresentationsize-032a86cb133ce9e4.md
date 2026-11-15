@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the current primary pixel extent, or null while only offscreen outputs are available.

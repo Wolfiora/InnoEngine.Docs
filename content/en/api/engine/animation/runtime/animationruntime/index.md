@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation-runtime#playback-and-update-contract
 aliases: []
 ---
-
-Owns animation playback, sampling, blending, and marker dispatch for one runtime session.

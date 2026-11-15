@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Carries immutable scene or prefab runtime content across the runtime-to-authoring asset boundary.

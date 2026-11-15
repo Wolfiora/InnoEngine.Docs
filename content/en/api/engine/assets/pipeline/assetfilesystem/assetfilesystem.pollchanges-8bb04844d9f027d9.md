@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Polls normalized changes and refreshes the indexed source snapshot.
-
 ## Returns
 
 The changes observed since the previous poll.

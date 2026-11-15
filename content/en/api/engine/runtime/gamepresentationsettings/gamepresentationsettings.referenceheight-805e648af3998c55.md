@@ -13,5 +13,3 @@ reviewed: 6b7ea52b6b9039fb3c4a6906e1d3e46e2ec5d87d20b6f7413b0854642b1d620e
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive reference-frame height used to derive the presentation aspect ratio.

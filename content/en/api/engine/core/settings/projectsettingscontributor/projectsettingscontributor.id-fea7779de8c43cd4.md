@@ -13,5 +13,3 @@ reviewed: 67bce3cca267738193dff8082fb9b68475fc264430a0684c8e0f0a981ef35dd0
 source: xml
 outdated: false
 ---
-
-Gets the stable contributor identity.

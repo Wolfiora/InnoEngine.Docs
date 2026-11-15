@@ -13,5 +13,3 @@ reviewed: 1f75a8d9a8f296e88bbd139ebf16dcf905dbf335ab8fc51934dee075cc9a781b
 source: xml
 outdated: false
 ---
-
-Starts source file watching.

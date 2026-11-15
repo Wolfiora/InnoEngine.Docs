@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves immutable discovery facts for a declaration in this source.
-
 ## Parameters
 
 **Parameter `type`:** The declaration whose relationships and attributes are required.

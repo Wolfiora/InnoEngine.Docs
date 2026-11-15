@@ -13,5 +13,3 @@ reviewed: 728d8e6da082993d09e1cc60a0eb92c19db1d31b0317e0d8e3a13516f8ba834d
 source: xml
 outdated: false
 ---
-
-Gets or sets the number of runtime assemblies in the pack.

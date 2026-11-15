@@ -13,5 +13,3 @@ reviewed: c93238512246de48601929b5732a48322eaa0ea060fec294fa50bd774fa3938b
 source: xml
 outdated: false
 ---
-
-Releases ownership; repeated disposal has no effect and the lease file is retained.

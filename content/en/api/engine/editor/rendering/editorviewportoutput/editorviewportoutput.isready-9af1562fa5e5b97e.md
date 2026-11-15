@@ -13,5 +13,3 @@ reviewed: ed2f8c66a51b6cc8e89812d95019d80aa0bd10193bd31bdb07c97bfc20bf1743
 source: xml
 outdated: false
 ---
-
-Gets whether a completed target can be drawn.

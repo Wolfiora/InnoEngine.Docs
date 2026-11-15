@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to resolve a logical type reference against the active immutable generation.
-
 ## Parameters
 
 **Parameter `typeRef`:** The stable type reference to resolve.

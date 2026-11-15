@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Declares immutable product target facts independently of the machine executing build tools.

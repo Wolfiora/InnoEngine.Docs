@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears all stored items but keeps defined keys.
-
 ## Remarks
 
 Keys remain valid but all indexed values are removed.

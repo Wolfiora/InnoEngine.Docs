@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes an authored graph and its target-expanded function dependencies without publishing an asset.
-
 ## Parameters
 
 **Parameter `graph`:** Detached authoring document, including incomplete source records.

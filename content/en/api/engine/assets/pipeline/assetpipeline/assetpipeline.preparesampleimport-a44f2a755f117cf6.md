@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a private background sample clone without waiting for file copying or transformation.
-
 ## Parameters
 
 **Parameter `source`:** An indexed installed Plugin sample directory whose final segment starts with `~`.

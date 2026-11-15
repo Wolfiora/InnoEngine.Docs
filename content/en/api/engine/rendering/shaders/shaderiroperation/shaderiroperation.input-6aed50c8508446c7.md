@@ -13,5 +13,3 @@ reviewed: a1c28de77c219f79266012b8eb12a45013be32d76435274e6f9260bcb2b66ec7
 source: xml
 outdated: false
 ---
-
-Reads a named input supplied by the enclosing function or stage.

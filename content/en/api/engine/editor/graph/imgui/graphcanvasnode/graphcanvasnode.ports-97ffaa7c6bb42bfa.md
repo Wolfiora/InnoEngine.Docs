@@ -13,5 +13,3 @@ reviewed: 1687d26d8c3bcc89eb937ece8011140be2faaee341ea66f7fea2519eb8377e03
 source: xml
 outdated: false
 ---
-
-Gets copied neutral port descriptions; no callback or domain object is retained.

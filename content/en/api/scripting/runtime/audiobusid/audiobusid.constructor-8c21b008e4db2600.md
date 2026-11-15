@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an open mixer bus identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable bus protocol value.

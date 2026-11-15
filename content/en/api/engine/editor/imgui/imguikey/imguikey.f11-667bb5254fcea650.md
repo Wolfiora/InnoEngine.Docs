@@ -13,5 +13,3 @@ reviewed: bfaf07961071df909bee5891325837834afaaf2591de96cf8986ddb5da25f476
 source: xml
 outdated: false
 ---
-
-Identifies the F11 presentation key or modifier.

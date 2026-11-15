@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all scene components assignable to a requested type.
-
 ## Type parameters
 
 **Type parameter `TComponent`:** The component base or concrete type included in the result.

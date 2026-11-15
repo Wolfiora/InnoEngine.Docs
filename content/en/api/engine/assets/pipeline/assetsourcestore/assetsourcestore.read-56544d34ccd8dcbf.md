@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a mounted source without modifying its canonical asset or compiled artifacts.
-
 ## Parameters
 
 **Parameter `path`:** Exact mounted source identity.

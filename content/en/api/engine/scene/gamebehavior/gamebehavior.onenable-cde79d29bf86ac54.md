@@ -13,5 +13,3 @@ reviewed: b1e30a9d61c21c9125e70c812bde7edb42d677187baf9c048b01e43f9e12b747
 source: xml
 outdated: false
 ---
-
-Called when this component becomes active and enabled.

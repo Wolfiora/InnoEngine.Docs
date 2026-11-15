@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Provides protected slice construction for replaceable frame-upload service implementations.

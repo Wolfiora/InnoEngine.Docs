@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Interpolates linearly between two values without clamping the interpolation factor.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

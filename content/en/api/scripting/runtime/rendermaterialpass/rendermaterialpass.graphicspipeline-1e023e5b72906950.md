@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the graphics pipeline, or an invalid handle for a compute pass.

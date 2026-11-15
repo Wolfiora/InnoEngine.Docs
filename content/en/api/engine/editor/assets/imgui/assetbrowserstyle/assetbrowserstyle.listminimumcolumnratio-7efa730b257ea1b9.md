@@ -13,5 +13,3 @@ reviewed: e74343bd1f03911fd7ff97db789ade1f35940fd6984e9ee6cf1546864edb101a
 source: xml
 outdated: false
 ---
-
-Gets the minimum normalized width reserved for each asset list column.

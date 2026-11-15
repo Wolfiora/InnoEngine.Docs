@@ -13,5 +13,3 @@ reviewed: c8c05208a164e800220d3e7a573b0190da36e7316165c2f66f73bfc2610d893b
 source: xml
 outdated: false
 ---
-
-Return true even if a popup window is normally blocking access to this item/window

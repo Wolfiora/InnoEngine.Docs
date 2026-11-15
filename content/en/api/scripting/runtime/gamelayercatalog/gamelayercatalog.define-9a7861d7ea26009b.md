@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Defines or renames a project layer without accepting an authored ID.
-
 ## Parameters
 
 **Parameter `layer`:** The compact runtime slot.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances work that must run after the regular update phase.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

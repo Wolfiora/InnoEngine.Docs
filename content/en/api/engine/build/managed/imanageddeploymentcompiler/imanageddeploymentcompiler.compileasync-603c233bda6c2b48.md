@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles or publishes the prepared code closure into isolated managed staging.
-
 ## Parameters
 
 **Parameter `request`:** The immutable prepared project, target, frozen inputs and staging locations.

@@ -13,5 +13,3 @@ reviewed: 84048a86aa9a7014b042db3abf845196bf34ffa9b002c84b043a8e8805c12718
 source: xml
 outdated: false
 ---
-
-Identifies the C presentation key or modifier.

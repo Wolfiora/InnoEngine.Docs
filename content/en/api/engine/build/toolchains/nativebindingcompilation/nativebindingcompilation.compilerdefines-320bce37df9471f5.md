@@ -13,5 +13,3 @@ reviewed: 92d240928dfbe909cd69a294c0da30595ed07ee09fa9402b63538d404b5461a4
 source: xml
 outdated: false
 ---
-
-Gets parser target macro facts; these must not override the consuming compiler's builtins.

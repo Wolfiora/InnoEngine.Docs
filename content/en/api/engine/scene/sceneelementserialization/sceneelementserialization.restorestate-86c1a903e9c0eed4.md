@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores a captured element state into the same logical type, including neutral state on a missing placeholder.
-
 ## Parameters
 
 **Parameter `target`:** The attached element receiving the state.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one isolated transaction for the prepared assembly generation.
-
 ## Parameters
 
 **Parameter `context`:** The prepared assembly reload context containing previous and candidate participant state.

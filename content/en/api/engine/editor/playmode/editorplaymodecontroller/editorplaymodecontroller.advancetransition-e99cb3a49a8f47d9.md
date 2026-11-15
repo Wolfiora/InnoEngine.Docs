@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances at most one Play Mode transition at an editor-controlled frame-safe point.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the controller has been disposed.

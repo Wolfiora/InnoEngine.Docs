@@ -13,5 +13,3 @@ reviewed: b5aadc45863c3b07d065387f72cd1cb1f45462764bf9f2766e7af92794066cb2
 source: xml
 outdated: false
 ---
-
-Gets the immutable component closure owned by this request.

@@ -13,5 +13,3 @@ reviewed: 67c79dbad92a8efa2d6afd900d0ed2c7b571ea08bbf3c6d9081c205cea0f0388
 source: xml
 outdated: false
 ---
-
-Gets the inner padding of compact colored label chips.

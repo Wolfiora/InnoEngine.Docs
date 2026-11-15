@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a ports required by the implemented contract.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

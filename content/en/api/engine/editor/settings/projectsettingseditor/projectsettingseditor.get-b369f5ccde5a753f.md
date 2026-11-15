@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated editable snapshot for one registered presentation.
-
 ## Parameters
 
 **Parameter `definition`:** The active presentation whose runtime protocol is requested.

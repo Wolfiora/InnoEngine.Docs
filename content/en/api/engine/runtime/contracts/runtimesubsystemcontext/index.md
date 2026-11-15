@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Exposes only foundation services and owner metadata, never a complete RuntimeSession or domain service locator.

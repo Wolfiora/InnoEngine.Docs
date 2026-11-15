@@ -13,5 +13,3 @@ reviewed: 45e96383ba2bf20aa1ae38373f58c3711ab91088195092be4998170def2c5e40
 source: xml
 outdated: false
 ---
-
-Native window handle, or a stable UTF-8 canvas selector for browser surfaces.

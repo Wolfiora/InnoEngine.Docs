@@ -13,5 +13,3 @@ reviewed: 5773bef6b4f5c3fd4fe95720b96fae112c03c6a801c66f76d092ede036b96b5a
 source: xml
 outdated: false
 ---
-
-Selects the child bg presentation behavior.

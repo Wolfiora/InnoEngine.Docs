@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Implements the deterministic state machine for one editor Play Mode workflow.
-
 ## Remarks
 
 The editor host advances transitions at frame-safe points. Editable scenes remain owned by the scene workspace while the controller owns only the isolated runtime session.

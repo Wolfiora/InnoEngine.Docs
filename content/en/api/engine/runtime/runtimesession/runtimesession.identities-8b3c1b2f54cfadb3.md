@@ -13,5 +13,3 @@ reviewed: 1fa41fc0e6c2ff7e27abacbaa841daad40503fbe16c6e63fb70bcfdc22bc354d
 source: xml
 outdated: false
 ---
-
-Gets the identity domain that owns every live object in this isolated session.

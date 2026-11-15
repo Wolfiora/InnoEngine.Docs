@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Owns the sole graphics frame boundary and executes model-neutral render requests.

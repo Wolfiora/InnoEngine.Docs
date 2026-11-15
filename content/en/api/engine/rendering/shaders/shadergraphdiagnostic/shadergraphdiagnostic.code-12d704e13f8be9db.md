@@ -13,5 +13,3 @@ reviewed: 537995464604ce5816b4d5abb9ed5afeba95a8e76a715494e66ec424aa32f54d
 source: xml
 outdated: false
 ---
-
-Stable diagnostic identity.

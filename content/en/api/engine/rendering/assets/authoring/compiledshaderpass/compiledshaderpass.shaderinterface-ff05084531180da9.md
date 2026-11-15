@@ -13,5 +13,3 @@ reviewed: 2efa9bc884b8fc07d1021753e959ba3364b76938304840c44499116232810f4d
 source: xml
 outdated: false
 ---
-
-Gets the pass-local manifest binding contract.

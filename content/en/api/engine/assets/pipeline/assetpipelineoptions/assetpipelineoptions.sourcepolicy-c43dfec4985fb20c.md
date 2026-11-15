@@ -13,5 +13,3 @@ reviewed: 5835364f2cd8c89422ab243147aad449fde2367868b7544821c66699acbc4c97
 source: xml
 outdated: false
 ---
-
-Gets the source filtering policy.

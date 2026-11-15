@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, gets or sets the position within the current stream.
-
 ## Exceptions
 
 **Exception `T:System.IO.IOException`:** An I/O error occurs.

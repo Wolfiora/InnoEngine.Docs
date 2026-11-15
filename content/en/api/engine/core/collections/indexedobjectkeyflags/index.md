@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-collections#graph-and-store-contract
 aliases: []
 ---
-
-Defines indexing and cardinality behavior for an object-store key.

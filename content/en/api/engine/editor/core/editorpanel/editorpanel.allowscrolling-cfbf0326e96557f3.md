@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the presentation backend may create a scroll range for this panel window.
-
 ## Remarks
 
 Full-canvas panels should return `false` and manage navigation inside their own content instead of allowing the host window to scroll.

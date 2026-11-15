@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allows the complete plane-oriented pan and zoom interaction model.

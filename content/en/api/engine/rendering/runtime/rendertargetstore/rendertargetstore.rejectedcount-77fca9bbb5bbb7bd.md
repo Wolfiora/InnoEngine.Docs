@@ -13,5 +13,3 @@ reviewed: 49f2fc88b1e2965b2175e0889b8ee2514da3e36ec33bdf5a989fd945e324cb1a
 source: xml
 outdated: false
 ---
-
-Gets target admissions rejected by finite capacity.

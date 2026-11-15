@@ -13,5 +13,3 @@ reviewed: 43a2e74eca84b9b25bc0a85116a4c525c975410e5ed870e7a4ce439512d996c2
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad0 presentation key or modifier.

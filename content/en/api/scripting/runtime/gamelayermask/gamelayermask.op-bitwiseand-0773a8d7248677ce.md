@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Retains only layer bits enabled in both masks.
-
 ## Parameters
 
 **Parameter `left`:** The first mask.

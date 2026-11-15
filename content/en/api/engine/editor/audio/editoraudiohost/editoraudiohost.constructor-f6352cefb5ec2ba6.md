@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the Editor audio host over the active authoring artifact lookup and settings source.
-
 ## Parameters
 
 **Parameter `types`:** Active type catalog used for provider and mixer extension generations.

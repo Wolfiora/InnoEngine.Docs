@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Exposes detached node values and one-gesture writes without exposing the live graph document.

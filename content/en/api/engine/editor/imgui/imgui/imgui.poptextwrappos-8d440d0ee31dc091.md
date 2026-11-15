@@ -13,5 +13,3 @@ reviewed: a1667350c43ec33a9d300ae8c0e0bd0cb30a8854a59eea5ed10f9a09365ae7d4
 source: xml
 outdated: false
 ---
-
-Restores the enclosing text-wrap boundary.

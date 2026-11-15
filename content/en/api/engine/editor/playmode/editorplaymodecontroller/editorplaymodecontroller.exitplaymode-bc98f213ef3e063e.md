@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests cancellation, runtime-session disposal, or dismissal of a failed transition.
-
 ## Returns
 
 `true` when the current state accepted the request; otherwise, `false`.

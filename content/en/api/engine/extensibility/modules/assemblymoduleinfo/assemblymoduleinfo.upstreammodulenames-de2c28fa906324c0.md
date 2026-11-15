@@ -13,5 +13,3 @@ reviewed: 02f2fd5903583f43176ba92bf555b26ce5947fc4a68a878ab868fb57218b5365
 source: xml
 outdated: false
 ---
-
-Gets stable module dependencies used by this active generation.

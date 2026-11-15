@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds every game object assigned to one layer in scene storage order.
-
 ## Parameters
 
 **Parameter `layer`:** The layer slot to find.

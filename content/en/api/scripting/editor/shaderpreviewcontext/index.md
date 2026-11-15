@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-shaders
 aliases: []
 ---
-
-Carries frame-only preview inputs; persistent provider state must retain stable values rather than this object.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a terminal retirement failure whose owner must remain retained until host shutdown.
-
 ## Parameters
 
 **Parameter `message`:** The owner and unfinished work that exceeded the deadline.

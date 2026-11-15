@@ -13,5 +13,3 @@ reviewed: 25e1fe5100212128d5048e789b2e50cb953a8824b638e90b724d573a95f52d27
 source: xml
 outdated: false
 ---
-
-The opaque handle validated by this operation.

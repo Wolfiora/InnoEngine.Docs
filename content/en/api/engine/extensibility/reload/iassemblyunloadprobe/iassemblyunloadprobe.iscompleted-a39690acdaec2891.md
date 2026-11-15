@@ -13,5 +13,3 @@ reviewed: 8cc52c656d41c59f3081283961ee37b309736908dc9e4ea75f904174c21bbf14
 source: xml
 outdated: false
 ---
-
-Gets whether the retired generation is unreachable and its generation storage is released.

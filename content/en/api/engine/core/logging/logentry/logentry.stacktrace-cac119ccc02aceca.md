@@ -13,5 +13,3 @@ reviewed: 02994964e5a622a309a44d9f20d33d8f96ed87246111bead0bea682f2924bbb5
 source: xml
 outdated: false
 ---
-
-Gets the managed stack trace captured at the logging call site.

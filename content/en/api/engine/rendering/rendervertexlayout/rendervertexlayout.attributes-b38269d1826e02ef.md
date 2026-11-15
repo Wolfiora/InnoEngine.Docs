@@ -13,5 +13,3 @@ reviewed: 2b81507d34ddb459be18dd8437477cb186acb63eb0ed4438df8797285b1e27f4
 source: xml
 outdated: false
 ---
-
-Gets attributes in byte-stream order.

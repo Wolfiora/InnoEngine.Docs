@@ -13,5 +13,3 @@ reviewed: 450f8bf406c92bf8a62bc2bfc722c2df8117bd6d015613113bbe1654584b2010
 source: xml
 outdated: false
 ---
-
-Gets the explicit configuration target, independent of the build execution host.

@@ -13,5 +13,3 @@ reviewed: 45889b712598f67cb71a4d7d01240ce0f02588f842ea740f26f08068b8fde88c
 source: xml
 outdated: false
 ---
-
-Gets the stable node identity handled by this drawer.

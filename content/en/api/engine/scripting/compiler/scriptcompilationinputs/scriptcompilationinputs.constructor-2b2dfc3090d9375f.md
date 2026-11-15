@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a complete C# 14 and .NET 10 reference contract without retaining SDK objects.
-
 ## Parameters
 
 **Parameter `sdkIdentity`:** The exact SDK identity that evaluated this contract.

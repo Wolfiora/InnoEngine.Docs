@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Finds nodes intersecting a screen-space selection rectangle in document draw order.
-
 ## Parameters
 
 **Parameter `layout`:** The current neutral display snapshot.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve an active node definition.
-
 ## Parameters
 
 **Parameter `definitionId`:** Stable definition identifier.

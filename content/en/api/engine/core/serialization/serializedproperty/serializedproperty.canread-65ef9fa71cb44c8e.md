@@ -13,5 +13,3 @@ reviewed: 10ab96213b5a68e92e2da38179341eaa32da9702e16dc16e62e704e9f42eeb07
 source: xml
 outdated: false
 ---
-
-Gets whether runtime callers may read this property.

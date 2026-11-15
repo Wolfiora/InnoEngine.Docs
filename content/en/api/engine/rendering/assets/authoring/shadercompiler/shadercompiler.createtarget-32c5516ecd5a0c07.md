@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a target supported by the configured backend compiler.
-
 ## Parameters
 
 **Parameter `capabilities`:** Target renderer capabilities.

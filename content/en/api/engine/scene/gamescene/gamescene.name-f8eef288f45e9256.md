@@ -13,5 +13,3 @@ reviewed: e049ad6f5c1a3b0c553793e332b204cba5a0b073b47b891af52530a6e1c03fa9
 source: xml
 outdated: false
 ---
-
-Gets or sets the scene display name.

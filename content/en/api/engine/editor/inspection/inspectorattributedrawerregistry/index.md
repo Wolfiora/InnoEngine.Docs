@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Discovers generation-aware Inspector attribute drawers and applies them in declaration order.

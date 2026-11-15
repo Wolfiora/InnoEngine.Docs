@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a published texture.
-
 ## Parameters
 
 **Parameter `id`:** Open semantic resource identifier.

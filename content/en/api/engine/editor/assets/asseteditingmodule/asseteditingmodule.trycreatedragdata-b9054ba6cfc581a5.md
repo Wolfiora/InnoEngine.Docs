@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates identity-based drag data when the current extension permits dragging.
-
 ## Parameters
 
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.

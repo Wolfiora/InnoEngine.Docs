@@ -13,5 +13,3 @@ reviewed: 052dea35302212d5274fef03f917df8b426853477e039570d373db71a3706b5b
 source: xml
 outdated: false
 ---
-
-Gets the required modifiers.

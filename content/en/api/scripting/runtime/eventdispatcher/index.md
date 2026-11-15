@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 aliases: []
 ---
-
-Thread-safe event dispatcher that owns a set of `T:InnoEngine.Events.EventHub` instances and routes events to hubs in descending `P:InnoEngine.Events.EventHub.order`.

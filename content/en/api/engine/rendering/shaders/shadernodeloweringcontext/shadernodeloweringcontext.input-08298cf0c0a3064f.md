@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requires one connected input without implicit defaults or positional rebinding.
-
 ## Parameters
 
 **Parameter `id`:** Exact semantic input port identity.

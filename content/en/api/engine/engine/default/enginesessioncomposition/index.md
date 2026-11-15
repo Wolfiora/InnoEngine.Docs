@@ -16,5 +16,3 @@ contracts:
 - project.inno-engine-default
 aliases: []
 ---
-
-Supplies strongly typed product-owned inputs to the default engine composition without exposing concrete backends.

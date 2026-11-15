@@ -13,5 +13,3 @@ reviewed: 229aa868cf49e193cda0b3b838bc56e006d18b136a02efc29283f5e242154e3c
 source: xml
 outdated: false
 ---
-
-Gets clip allocations held by the backend.

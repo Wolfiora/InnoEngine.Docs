@@ -13,5 +13,3 @@ reviewed: 58ad8144f15b10136ba3c25c63d7a8e435374b64dbde5e21c9aac609a8fe3d77
 source: xml
 outdated: false
 ---
-
-Gets or sets whether presentation waits for display synchronization.

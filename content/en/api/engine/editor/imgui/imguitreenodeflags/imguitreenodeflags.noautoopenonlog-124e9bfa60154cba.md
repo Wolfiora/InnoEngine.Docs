@@ -13,5 +13,3 @@ reviewed: 38576538dbfcf67bca3fd4cf260405824693c7fee339ff64a55351da503dd813
 source: xml
 outdated: false
 ---
-
-Don't automatically and temporarily open node when Logging is active (by default logging will automatically open tree nodes)

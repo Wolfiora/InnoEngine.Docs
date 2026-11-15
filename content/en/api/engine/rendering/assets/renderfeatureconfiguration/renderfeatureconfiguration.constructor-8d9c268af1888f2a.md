@@ -13,5 +13,3 @@ reviewed: d45b19a92417f08a6f4499eb1777c302e0d191454d9c5e39029d1fe975e68980
 source: xml
 outdated: false
 ---
-
-Creates an empty feature configuration for deserialization.

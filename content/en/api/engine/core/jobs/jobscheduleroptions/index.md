@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---
-
-Defines frame admission, main-thread queue limits and worker count for one isolated `T:Inno.Core.Jobs.JobScheduler`.

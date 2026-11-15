@@ -13,5 +13,3 @@ reviewed: 20736c758fcaf4b0c3be07b6e180243ba6376ae93cc22324b5e41d04df298229
 source: xml
 outdated: false
 ---
-
-Selects the window bg presentation behavior.

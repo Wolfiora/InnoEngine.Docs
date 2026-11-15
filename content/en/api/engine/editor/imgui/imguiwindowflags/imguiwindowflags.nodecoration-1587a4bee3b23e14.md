@@ -13,5 +13,3 @@ reviewed: 3d742009e313f95542713abe971c5899fdcdb46f1618c95feacec964d0a86e1d
 source: xml
 outdated: false
 ---
-
-Selects the no decoration presentation behavior.

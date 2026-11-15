@@ -14,5 +14,3 @@ apiScope: Authoring
 source: xml
 outdated: false
 ---
-
-Neutral explanatory information.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the canonical identifier.
-
 ## Returns
 
 The canonical identifier text.

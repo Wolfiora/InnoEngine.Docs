@@ -13,5 +13,3 @@ reviewed: 3eb549317eb74770664599b0b024ae5a75fd401683d40db9db43b56dbd0a59e1
 source: xml
 outdated: false
 ---
-
-Gets the process-unique owner generation encoded in every allocated playback handle.

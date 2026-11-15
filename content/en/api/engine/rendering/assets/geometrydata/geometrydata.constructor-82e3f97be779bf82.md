@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates normalized mesh data.
-
 ## Parameters
 
 **Parameter `vertices`:** Vertex stream.

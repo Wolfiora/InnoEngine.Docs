@@ -13,5 +13,3 @@ reviewed: 5c20fe485f4414c23cef0d88bf590262d3e5c3c69c398b914598e5d90f80ce3f
 source: xml
 outdated: false
 ---
-
-Gets the stable language identifier.

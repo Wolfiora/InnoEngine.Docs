@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one native immutable graph import candidate.
-
 ## Parameters
 
 **Parameter `graph`:** Authored graph with original node and port identities.

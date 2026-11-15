@@ -13,5 +13,3 @@ reviewed: 3762027e30c36446d75a27121ed72520706fedec8aafd136f2bcf61119081d7e
 source: xml
 outdated: false
 ---
-
-Gets the non-negative object-space half-extents of imported geometry bounds.

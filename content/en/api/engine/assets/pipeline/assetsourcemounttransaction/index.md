@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Holds an isolated source-mount candidate that can be inspected before it atomically replaces the active Asset Database.

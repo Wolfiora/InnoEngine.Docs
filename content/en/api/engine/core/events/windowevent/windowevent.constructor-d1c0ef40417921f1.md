@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Base class for window lifecycle events.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

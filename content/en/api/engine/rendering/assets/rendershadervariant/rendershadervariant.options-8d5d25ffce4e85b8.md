@@ -13,5 +13,3 @@ reviewed: 5967279e199e5ab86c89cb455e13233434179ace192dcb7f7b92ccdb6bf5a9d4
 source: xml
 outdated: false
 ---
-
-Gets the immutable stable keyword selections.

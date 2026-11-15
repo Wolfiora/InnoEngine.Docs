@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a formatted warn-level message with its source location.
-
 ## Parameters
 
 **Parameter `sourceType`:** The declaring type whose assembly supplies domain and scope metadata; it is borrowed only for this call.

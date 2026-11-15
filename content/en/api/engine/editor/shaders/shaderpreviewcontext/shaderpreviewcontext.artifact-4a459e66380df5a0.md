@@ -13,5 +13,3 @@ reviewed: f2d1593416b0e8978510b9683f1184121030dd75ef88f5cfc3906440cbd7c5ec
 source: xml
 outdated: false
 ---
-
-Gets the complete immutable GPU candidate.

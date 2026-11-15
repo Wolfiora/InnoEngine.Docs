@@ -13,5 +13,3 @@ reviewed: d7f3722d116fde78c1cb00ccab321261a0b1c6071aa70943512906ff1de01aa4
 source: xml
 outdated: false
 ---
-
-Gets the implemented Editor product location without deriving a project from target naming.

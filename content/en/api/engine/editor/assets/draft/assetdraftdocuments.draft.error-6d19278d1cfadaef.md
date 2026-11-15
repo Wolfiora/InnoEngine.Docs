@@ -13,5 +13,3 @@ reviewed: 07c7dce5af2d0a497d7f8ca89228a60c248f256bda8a797ded2663748b191bdf
 source: xml
 outdated: false
 ---
-
-Gets the latest source, save or import diagnostic.

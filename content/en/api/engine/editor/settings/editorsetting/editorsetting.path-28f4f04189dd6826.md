@@ -13,5 +13,3 @@ reviewed: fe27da22e3a5d2959af68416f6908fb77c209a19fd5acb996a1e14b95e144abd
 source: xml
 outdated: false
 ---
-
-Gets the complete slash-delimited identity and placement path.

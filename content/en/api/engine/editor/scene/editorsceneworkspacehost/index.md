@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Owns an editor scene workspace created outside the attribute-discovered editor application.

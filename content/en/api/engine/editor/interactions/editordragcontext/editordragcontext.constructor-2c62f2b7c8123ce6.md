@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a managed editor drag request.
-
 ## Parameters
 
 **Parameter `editor`:** The shared passive editor context.

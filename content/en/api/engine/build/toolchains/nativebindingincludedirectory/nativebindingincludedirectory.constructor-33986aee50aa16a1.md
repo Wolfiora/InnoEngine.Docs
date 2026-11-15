@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Preserves the order and search semantics of one native include requirement.
-
 ## Parameters
 
 **Parameter `rootId`:** The component-local input root.

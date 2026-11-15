@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Ten-bit RGB and two-bit alpha normalized format.

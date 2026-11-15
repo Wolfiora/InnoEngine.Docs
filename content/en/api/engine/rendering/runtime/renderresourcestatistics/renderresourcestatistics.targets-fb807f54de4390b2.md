@@ -13,5 +13,3 @@ reviewed: 06f7a69f76251301ca5afa1661de564741fe4fb8ac3614253b8a34c459262cc4
 source: xml
 outdated: false
 ---
-
-Gets active offscreen targets.

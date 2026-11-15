@@ -13,5 +13,3 @@ reviewed: 4a5d2584e0a710d7d30bdda309fc4508dce08205f7e5246c9f587eaeb1add88c
 source: xml
 outdated: false
 ---
-
-Eight-bit single-channel normalized format.

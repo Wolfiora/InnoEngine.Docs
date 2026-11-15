@@ -13,5 +13,3 @@ reviewed: b6bdb632418d7880f0620eb4d6b24bd668ade3f59cabc0235d988ab949326802
 source: xml
 outdated: false
 ---
-
-The standard arrow pointer.

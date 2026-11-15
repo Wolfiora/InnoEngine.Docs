@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a deployed shader stage.
-
 ## Parameters
 
 **Parameter `stage`:** The single programmable stage represented by the target binary.

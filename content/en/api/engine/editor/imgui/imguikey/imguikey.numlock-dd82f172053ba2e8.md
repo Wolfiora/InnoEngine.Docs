@@ -13,5 +13,3 @@ reviewed: 1815284c027d6cf6df48f47cb158d7d659baee617d36ba9fbe4ebf524d3123be
 source: xml
 outdated: false
 ---
-
-Identifies the NumLock presentation key or modifier.

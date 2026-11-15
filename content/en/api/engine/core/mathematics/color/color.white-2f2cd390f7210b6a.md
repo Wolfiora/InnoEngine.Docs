@@ -13,5 +13,3 @@ reviewed: 4269ebe9b16c5e0d266177abc6cd3d73e4ade7b2525e9ec0ddc69688b2e8f236
 source: xml
 outdated: false
 ---
-
-The white value used as part of this type's public representation.

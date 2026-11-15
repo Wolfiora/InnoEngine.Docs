@@ -13,5 +13,3 @@ reviewed: 980925790ec6406b12a16dd028680e9edc5836e2821778e5520f8f525773cb62
 source: xml
 outdated: false
 ---
-
-Gets the image dimension; ignored for buffers.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-scoped provider context.
-
 ## Parameters
 
 **Parameter `requests`:** Sink accepting requests for the current frame.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies one range in a frame upload page without exposing its persistent backing buffer.

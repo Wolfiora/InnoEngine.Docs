@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an analysis request for an explicitly selected function.
-
 ## Parameters
 
 **Parameter `source`:** Root source snapshot.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Transfers a readable stream and its independent lifetime pin into this wrapper.
-
 ## Parameters
 
 **Parameter `input`:** The owned readable stream; it is closed before its pin is released.

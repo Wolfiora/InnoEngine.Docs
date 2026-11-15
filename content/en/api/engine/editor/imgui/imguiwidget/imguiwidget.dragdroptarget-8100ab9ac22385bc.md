@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Accepts an unmanaged payload and reports its preview state on the most recently submitted item.
-
 ## Type parameters
 
 **Type parameter `TPayload`:** Unmanaged payload type.

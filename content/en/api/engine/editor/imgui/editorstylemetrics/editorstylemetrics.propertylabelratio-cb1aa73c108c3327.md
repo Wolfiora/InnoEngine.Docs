@@ -13,5 +13,3 @@ reviewed: eebedc093ed7427b53d4850e7a0913c99b1594b8acf2f9bbee00b4c46e9f6d0d
 source: xml
 outdated: false
 ---
-
-Gets property label width ratio.

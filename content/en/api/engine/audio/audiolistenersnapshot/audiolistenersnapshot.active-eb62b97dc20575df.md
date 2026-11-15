@@ -13,5 +13,3 @@ reviewed: ada0747cc8f52e5477ab7866301918d3d720b3a0573db13b2d9eae6466f24840
 source: xml
 outdated: false
 ---
-
-Gets whether the listener is eligible for selection.

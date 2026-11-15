@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits one immutable emitter snapshot for runtime synchronization.
-
 ## Parameters
 
 **Parameter `emitter`:** Current state for one stable emitter identity.

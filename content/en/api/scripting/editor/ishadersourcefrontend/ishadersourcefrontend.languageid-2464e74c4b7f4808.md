@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the open source language identity, distinct from a rendering backend or GPU API.

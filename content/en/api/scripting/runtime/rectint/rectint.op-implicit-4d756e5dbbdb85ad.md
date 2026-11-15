@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:InnoEngine.Mathematics.Vector4Int`.
-
 ## Parameters
 
 **Parameter `r`:** The r consumed by convert; ownership remains with the caller unless explicitly stated otherwise.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets an active treatment derived from a base theme color.
-
 ## Returns
 
 The base color blended toward the palette text color using the standard active amount.

@@ -13,5 +13,3 @@ reviewed: 918f9be040da36591cb4854b7a3c676887382bef1624b4fa264ab4d6bc1a0be8
 source: xml
 outdated: false
 ---
-
-Gets the stable panel identifier.

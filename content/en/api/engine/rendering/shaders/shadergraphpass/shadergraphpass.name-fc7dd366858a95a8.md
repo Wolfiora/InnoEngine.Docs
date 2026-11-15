@@ -13,5 +13,3 @@ reviewed: 9c8a71f07e75f70feeeac578e5a2bafe098eff8e15935c104702940286b901bc
 source: xml
 outdated: false
 ---
-
-Gets the stable pass identity.

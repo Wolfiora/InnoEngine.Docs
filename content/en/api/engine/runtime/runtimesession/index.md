@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Owns all mutable simulation, identity, asset, scheduling, and logging state for one isolated execution session.

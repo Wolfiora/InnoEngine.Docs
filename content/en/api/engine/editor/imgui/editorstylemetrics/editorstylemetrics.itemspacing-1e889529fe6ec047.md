@@ -13,5 +13,3 @@ reviewed: c2a9d2eb18b5175d7a3a50f653bea6e5bf1dc7ccf27be1fa6d1648bc5e7fa188
 source: xml
 outdated: false
 ---
-
-Gets standard item spacing.

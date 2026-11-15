@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recognizes the reserved temporary file names created by atomic byte publication.
-
 ## Parameters
 
 **Parameter `path`:** The file name or path to inspect without opening the file.

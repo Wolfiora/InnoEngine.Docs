@@ -13,5 +13,3 @@ reviewed: dd8f220af9a0b814078e8bb46bcf40e92eba8a73ef810cd604d1898ed543e483
 source: xml
 outdated: false
 ---
-
-Gets frozen diagnostics.

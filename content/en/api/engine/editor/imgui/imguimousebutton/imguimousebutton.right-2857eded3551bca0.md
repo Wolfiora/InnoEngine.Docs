@@ -13,5 +13,3 @@ reviewed: 843984bb103410e133eb83db643a589b1e9979c59269a1c8960f45534d1c7ef3
 source: xml
 outdated: false
 ---
-
-Selects the right presentation behavior.

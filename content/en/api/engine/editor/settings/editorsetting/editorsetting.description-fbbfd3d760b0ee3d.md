@@ -13,5 +13,3 @@ reviewed: e30ee07d62c0190651b29dc7b6458fab64a35efc3ab70dbddfbb535ff27cfe09
 source: xml
 outdated: false
 ---
-
-Gets the page or field explanation displayed by the Settings frontend.

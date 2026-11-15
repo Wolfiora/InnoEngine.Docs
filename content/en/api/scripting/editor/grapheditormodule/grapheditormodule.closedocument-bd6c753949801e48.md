@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Closes a document explicitly; its neutral History entries remain unavailable until the identity is reopened.
-
 ## Parameters
 
 **Parameter `documentId`:** The persistent document identity to release.

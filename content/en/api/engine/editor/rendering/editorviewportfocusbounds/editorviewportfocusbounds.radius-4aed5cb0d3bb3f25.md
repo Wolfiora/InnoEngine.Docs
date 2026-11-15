@@ -13,5 +13,3 @@ reviewed: 3c474442199bb5c5ae3b9d74a5c51a2075776af02437f3ca4ac6152034b80071
 source: xml
 outdated: false
 ---
-
-Gets the non-negative world-space radius.

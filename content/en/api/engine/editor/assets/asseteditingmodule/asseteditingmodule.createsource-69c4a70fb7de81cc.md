@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a native or ordinary-text asset source as one recoverable shared-history operation.
-
 ## Parameters
 
 **Parameter `path`:** A new file in an existing writable asset directory.

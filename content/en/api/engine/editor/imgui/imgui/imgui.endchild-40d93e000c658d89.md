@@ -13,5 +13,3 @@ reviewed: a5185e802f09f24ef231aef161af4d790c8005f4c2477b9db1cb7a64d960e79d
 source: xml
 outdated: false
 ---
-
-Ends the current child region.

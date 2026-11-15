@@ -13,5 +13,3 @@ reviewed: d913d824110efe6b0e239ad2f8c25582b2895bc9340793e9e27f2d85250a6422
 source: xml
 outdated: false
 ---
-
-Gets the stable identifier preserved by serialization and runtime reconstruction.

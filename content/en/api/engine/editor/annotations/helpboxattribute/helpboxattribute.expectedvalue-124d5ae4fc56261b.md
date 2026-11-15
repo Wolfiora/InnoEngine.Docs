@@ -13,5 +13,3 @@ reviewed: e182fc7102bb857f4d17138040933c7259147612201659364edce976b6ad57bb
 source: xml
 outdated: false
 ---
-
-Gets the optional expected constant.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the stable project-independent identity of a defined tag.
-
 ## Parameters
 
 **Parameter `tag`:** The configured tag name.

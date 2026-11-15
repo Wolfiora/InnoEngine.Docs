@@ -13,5 +13,3 @@ reviewed: aad1e3aa62e3db9e80a19e44de8ab9ea8459ca26a231e7ed616bd539d89f053a
 source: xml
 outdated: false
 ---
-
-Gets a target representing the main application backbuffer.

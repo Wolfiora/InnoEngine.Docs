@@ -13,5 +13,3 @@ reviewed: 99408552bc617682cc5e21cd39f0e49c71d8a0572ea07aaee9b60ad3ad9b051e
 source: xml
 outdated: false
 ---
-
-Gets near-opaque opacity for active overlays.

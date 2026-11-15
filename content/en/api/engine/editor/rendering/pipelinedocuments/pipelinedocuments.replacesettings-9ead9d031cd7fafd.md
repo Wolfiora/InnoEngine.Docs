@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures typed Pipeline settings with this source owner's complete reference and dependency context.
-
 ## Type parameters
 
 **Type parameter `TSettings`:** Current plugin settings contract.

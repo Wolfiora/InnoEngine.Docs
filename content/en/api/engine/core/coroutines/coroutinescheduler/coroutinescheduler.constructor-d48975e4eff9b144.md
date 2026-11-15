@@ -13,5 +13,3 @@ reviewed: 46ab09deea2dd8377b64eee55c47e832a1286941d5d6930e4a55411fc2610707
 source: xml
 outdated: false
 ---
-
-Creates an empty scheduler whose lifetime is owned by the caller.

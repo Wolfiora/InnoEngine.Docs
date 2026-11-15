@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an imported scene asset from validated runtime content produced by the scene asset pipeline.
-
 ## Parameters
 
 **Parameter `payload`:** The complete serialized runtime scene graph.

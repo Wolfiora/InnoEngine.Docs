@@ -13,5 +13,3 @@ reviewed: c77ac873d47425348d48454fd8c8aa3b9525a30a6226e40a41cbe0cc4d59f39b
 source: xml
 outdated: false
 ---
-
-The module generation is visible to assembly catalog participants.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes one model-neutral layer in an Editor viewport composition.

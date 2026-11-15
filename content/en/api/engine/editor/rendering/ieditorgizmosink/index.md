@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Receives transient world-space gizmo geometry from independent Editor extensions.

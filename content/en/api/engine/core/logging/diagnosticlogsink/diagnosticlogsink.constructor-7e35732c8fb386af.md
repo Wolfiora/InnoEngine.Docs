@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a log presentation for all current and future reports in one hub.
-
 ## Parameters
 
 **Parameter `hub`:** The authoritative diagnostic owner.

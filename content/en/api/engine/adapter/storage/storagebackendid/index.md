@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-storage#ownership-and-scope-contract
 aliases: []
 ---
-
-Identifies a storage implementation without closing the set of supported backends.

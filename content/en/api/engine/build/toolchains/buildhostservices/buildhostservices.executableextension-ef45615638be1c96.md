@@ -13,5 +13,3 @@ reviewed: 7190fc51dae4e89c336fa3368bfe2bafde0917121c80fd65239897c00399846d
 source: xml
 outdated: false
 ---
-
-Gets the host-owned executable suffix.

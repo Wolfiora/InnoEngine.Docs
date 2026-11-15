@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates immutable inputs for an isolated preparation operation.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The complete engine source checkout.

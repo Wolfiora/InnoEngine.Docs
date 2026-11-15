@@ -13,5 +13,3 @@ reviewed: 822ba1ad5b263d2d2fd819b0d393b613685e27e55faa5e3adfef9b55bf28b700
 source: xml
 outdated: false
 ---
-
-Gets the managed toolchain target identifier required by this platform composition.

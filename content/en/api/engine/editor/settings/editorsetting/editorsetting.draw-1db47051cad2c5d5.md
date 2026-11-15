@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws this field inside the frontend-managed content container.
-
 ## Parameters
 
 **Parameter `setting`:** The isolated mutable object being edited.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the optional presentation-only name; it does not participate in Shader compilation or identity.

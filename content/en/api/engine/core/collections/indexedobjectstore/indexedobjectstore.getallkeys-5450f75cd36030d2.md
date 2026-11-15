@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all defined key names as a lazy enumerable.
-
 ## Remarks
 
 Enumeration is fail-fast and throws if the store is modified during iteration.

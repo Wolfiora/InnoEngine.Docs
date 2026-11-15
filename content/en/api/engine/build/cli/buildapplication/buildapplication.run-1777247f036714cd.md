@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs one build command without taking ownership of the caller's cancellation source.
-
 ## Parameters
 
 **Parameter `arguments`:** The command and its documented options; help prints the supported command names.

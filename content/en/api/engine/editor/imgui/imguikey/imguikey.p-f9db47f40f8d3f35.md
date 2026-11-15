@@ -13,5 +13,3 @@ reviewed: cc37bd6e911f577d6414812c9ed400ad9368904a78d1cff12301783204687cb8
 source: xml
 outdated: false
 ---
-
-Identifies the P presentation key or modifier.

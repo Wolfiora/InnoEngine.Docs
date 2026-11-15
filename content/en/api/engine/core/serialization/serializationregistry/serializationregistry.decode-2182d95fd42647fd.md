@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a manually defined structured schema from deterministic binary data.
-
 ## Type parameters
 
 **Type parameter `TResult`:** The result produced by the read callback.

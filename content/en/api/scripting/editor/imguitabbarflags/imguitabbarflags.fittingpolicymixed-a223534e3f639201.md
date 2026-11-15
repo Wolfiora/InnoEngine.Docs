@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Shrink down tabs when they don't fit, until width is style.TabMinWidthShrink, then enable scrolling buttons.

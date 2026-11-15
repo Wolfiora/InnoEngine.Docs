@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts from `T:System.Numerics.Matrix4x4` preserving element order. System.Numerics assumes row-major with row vectors, so transpose as needed for column-vector usage.
-
 ## Parameters
 
 **Parameter `m`:** Source matrix.

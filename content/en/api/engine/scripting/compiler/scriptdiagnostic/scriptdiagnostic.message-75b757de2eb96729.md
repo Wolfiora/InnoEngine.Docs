@@ -13,5 +13,3 @@ reviewed: 193344ee0eef908256b8f65ed651db57bf76e7e8edf50d3e4914b171c7500d38
 source: xml
 outdated: false
 ---
-
-The human-readable diagnostic message.

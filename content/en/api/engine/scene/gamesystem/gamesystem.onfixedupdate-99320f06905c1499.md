@@ -13,5 +13,3 @@ reviewed: e4a722d612058fbdc7dcd55820ae1a1344cc5da154d9093ce4690d0a9153ce6e
 source: xml
 outdated: false
 ---
-
-Called during the fixed-rate scene stage. Use `Time.fixedDeltaTime` for step timing.

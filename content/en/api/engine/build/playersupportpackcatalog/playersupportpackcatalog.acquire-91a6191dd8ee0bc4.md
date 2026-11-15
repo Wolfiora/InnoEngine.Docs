@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one installed Support Pack after validating its deployment-only closure.
-
 ## Parameters
 
 **Parameter `target`:** The platform and architecture identity of the required Support Pack.

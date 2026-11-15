@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Declares a reloadable settings type under one stable protocol identity.

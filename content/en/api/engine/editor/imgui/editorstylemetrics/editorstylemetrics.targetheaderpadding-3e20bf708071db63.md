@@ -13,5 +13,3 @@ reviewed: 87fd0087438dd6ec44c531f1f309b7307a6a5d9a6ecd435eaac10edcb2b8c49f
 source: xml
 outdated: false
 ---
-
-Gets the inner padding of the persistent target header.

@@ -13,5 +13,3 @@ reviewed: d4484d7fa02943ff3f83517132819d22ba0bd0396fb3b56783cee1e4ca48fe58
 source: xml
 outdated: false
 ---
-
-Disable ability to hide/disable this column.

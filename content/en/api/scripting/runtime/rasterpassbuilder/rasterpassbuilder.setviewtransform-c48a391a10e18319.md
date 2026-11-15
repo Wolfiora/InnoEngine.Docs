@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets backend-ready column-major transform matrices for this raster view.
-
 ## Parameters
 
 **Parameter `viewMatrix`:** Exactly sixteen column-major world-to-view values.

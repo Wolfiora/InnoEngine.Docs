@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Starts movement for explicit node IDs, supporting domain-owned group-header composition.
-
 ## Parameters
 
 **Parameter `layout`:** The neutral snapshot supplying initial positions.

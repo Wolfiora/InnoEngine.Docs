@@ -13,5 +13,3 @@ reviewed: 83a7f2fe7401f6e10c858985c0cde432b8972c3e7a1be51c6a1f19c879d4ab3b
 source: xml
 outdated: false
 ---
-
-Creates an event with an independent global consumption lifetime.

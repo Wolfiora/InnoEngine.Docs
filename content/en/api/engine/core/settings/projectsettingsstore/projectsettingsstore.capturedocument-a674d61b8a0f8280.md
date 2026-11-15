@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the current native project override document.
-
 ## Returns
 
 A newly owned native document payload.

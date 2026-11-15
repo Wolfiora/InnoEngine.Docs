@@ -13,5 +13,3 @@ reviewed: 3699236187d42a746da8460e7d0b64e9aeaaf48285592a6e612338a25feeb687
 source: xml
 outdated: false
 ---
-
-Gets the source pixel width.

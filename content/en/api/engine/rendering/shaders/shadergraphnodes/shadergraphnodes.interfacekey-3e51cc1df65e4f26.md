@@ -13,5 +13,3 @@ reviewed: 980a8f14551615c21a1fb2bac4cbd63df43915f431fe98e90761bc18aa699312
 source: xml
 outdated: false
 ---
-
-Identifies the serialized interface snapshot retained by a graph-node reference.

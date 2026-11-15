@@ -13,5 +13,3 @@ reviewed: 3d193718b03880480344097ff92b1d296113a97f189b46bd7433b13ac3cf8649
 source: xml
 outdated: false
 ---
-
-Leaves the node as a typed domain boundary for the selected Shader Target.

@@ -13,5 +13,3 @@ reviewed: c5a06e6210452ff44ff76b0db6af47d0b4d4e87e8eb83c5a504348f14a6fe30a
 source: xml
 outdated: false
 ---
-
-Gets registered language identities for source import settings.

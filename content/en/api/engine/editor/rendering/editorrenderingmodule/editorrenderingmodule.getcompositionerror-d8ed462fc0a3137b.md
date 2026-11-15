@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the most recent isolated contribution or composition failure for one stable viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

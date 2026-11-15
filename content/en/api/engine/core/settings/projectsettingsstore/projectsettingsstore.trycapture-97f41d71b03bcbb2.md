@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one normalized Plugin setting contribution from the project-authored delta.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting protocol identity.

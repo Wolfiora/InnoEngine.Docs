@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the zero-based array layer, volume slice, or flattened cubemap face.

@@ -13,5 +13,3 @@ reviewed: 65a6d33b711765d96d7443c8e6647097d4b9739b50f16504a1a7e3ef8f1ea450
 source: xml
 outdated: false
 ---
-
-No positional placement is requested.

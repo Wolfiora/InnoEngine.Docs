@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Stores one Plugin's runtime-only project setting contribution.

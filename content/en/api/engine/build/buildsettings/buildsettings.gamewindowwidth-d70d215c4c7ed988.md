@@ -13,5 +13,3 @@ reviewed: 6cecb331b3cf2cea8cd49ca9f21b07d21af73eb4c7b413a321e0a8dc558eb296
 source: xml
 outdated: false
 ---
-
-Gets or sets the default initial logical window width.

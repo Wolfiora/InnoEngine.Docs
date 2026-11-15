@@ -13,5 +13,3 @@ reviewed: 33b1bfc912390a79e316fba3e7c65fb0d32ac7453daf58da58dea7dcaa3e53f8
 source: xml
 outdated: false
 ---
-
-Gets the current structured animation source extension.

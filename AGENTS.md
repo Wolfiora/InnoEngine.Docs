@@ -19,7 +19,7 @@ This repository owns the English documentation and website for InnoEngine. The e
 - Read source declarations and existing contracts before documenting an API. Generated signatures are not proof of semantic quality.
 - Do not fabricate supported platforms, editor workflows, examples, or features. Mark actual limitations clearly.
 - Engine changes follow the engine's applicable rules. Maintain API XML there; master automatically synchronizes API facts and default prose into this repository's `draft`. No paired PR metadata is required.
-- Each API type and member has independent prose ownership. `source: xml` or no source marker means synchronization may replace the registered fragment. Set `source: manual` when taking over its prose; generated declarations remain authoritative. Unknown markers fail. Missing or stale manual explanations produce neutral editorial warnings, not publication blockers.
+- Each API type and member has independent prose ownership. `source: xml` or no source marker means synchronization may replace the registered fragment. Set `source: manual` when taking over its prose; generated summaries and declarations remain authoritative. Store only non-summary XML sections in the editable body, with second-level headings. Unknown markers fail. Missing or stale manual explanations produce neutral editorial warnings, not publication blockers.
 - Start ordinary documentation work from `draft`; feature branches without PRs do not run CI. Draft updates and PRs validate and preview. A human `draft` to `main` merge publishes the checked site. Never automatically merge, reset, force-push or delete the persistent draft branch.
 
 ## Execution and completion

@@ -13,5 +13,3 @@ reviewed: e2682566681c96372015018c995510831f7949cee969340dd34cccc84b2f2d76
 source: xml
 outdated: false
 ---
-
-Gets the default width of searchable editor popups.

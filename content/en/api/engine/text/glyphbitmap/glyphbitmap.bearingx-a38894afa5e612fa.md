@@ -13,5 +13,3 @@ reviewed: 478dbb3d491cf984e9b320ac836863ef1357711041486fbfc452c76414317345
 source: xml
 outdated: false
 ---
-
-Gets the horizontal bearing in pixels.

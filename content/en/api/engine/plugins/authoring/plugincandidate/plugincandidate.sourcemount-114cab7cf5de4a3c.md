@@ -13,5 +13,3 @@ reviewed: 6559c6e4e6f0a5835bd6359dba35b30f0324db6ccc6717fb9d659ab0430635a3
 source: xml
 outdated: false
 ---
-
-Gets the isolated read-only asset source mount.

@@ -13,5 +13,3 @@ reviewed: 67f0e72e695a5c624386ced340783fb7ede252389b1468b111cd1518b4d7dca3
 source: xml
 outdated: false
 ---
-
-Gets the stable owner-defined implementation/configuration key.

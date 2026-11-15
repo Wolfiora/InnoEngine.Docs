@@ -13,5 +13,3 @@ reviewed: bb73650daff081b3b4a00623f579fb1a70a208536cf46c4a353c68c5d5248af4
 source: xml
 outdated: false
 ---
-
-Clamp value to min/max bounds when input manually with Ctrl+Click. By default Ctrl+Click allows going out of bounds.

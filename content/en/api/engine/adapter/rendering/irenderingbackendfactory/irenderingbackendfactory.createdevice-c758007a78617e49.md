@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rendering device for the supplied primary presentation surface.
-
 ## Parameters
 
 **Parameter `backend`:** Stable rendering backend selected by the composition root.

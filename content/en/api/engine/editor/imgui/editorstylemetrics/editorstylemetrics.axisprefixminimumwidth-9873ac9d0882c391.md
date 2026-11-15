@@ -13,5 +13,3 @@ reviewed: dbed0e67cdebfa6c869c489c471c08d1ea0f5754455c1cbcd241523b5426c697
 source: xml
 outdated: false
 ---
-
-Gets the minimum width of an axis prefix.

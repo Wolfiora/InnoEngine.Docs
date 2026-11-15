@@ -13,5 +13,3 @@ reviewed: ba0337aaf9b703aaa739cccec58d5bde52c57dd677d8bb8daf364f5f23cc60d9
 source: xml
 outdated: false
 ---
-
-Gets the candidate's exact contract, not the latest uncompiled source interface.

@@ -13,5 +13,3 @@ reviewed: 94985853020fbf6cdbe6f48550b46078d1f6f7209331d9d133c50489cf3bd832
 source: xml
 outdated: false
 ---
-
-Gets the exact existing producer/reader coordination path; retirement does not infer another lock protocol.

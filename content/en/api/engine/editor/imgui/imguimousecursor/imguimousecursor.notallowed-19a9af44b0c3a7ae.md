@@ -13,5 +13,3 @@ reviewed: 7af922e62e88f9210d0f09b8bd2ec10dd5c65a348ec5fcf58916582190a76095
 source: xml
 outdated: false
 ---
-
-Selects the not allowed presentation behavior.

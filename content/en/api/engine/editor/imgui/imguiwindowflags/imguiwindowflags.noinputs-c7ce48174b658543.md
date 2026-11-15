@@ -13,5 +13,3 @@ reviewed: e456ca31ccba502182a03ce52205fe15d3b0989deff227ea2ae6adc66f58fa7a
 source: xml
 outdated: false
 ---
-
-Selects the no inputs presentation behavior.

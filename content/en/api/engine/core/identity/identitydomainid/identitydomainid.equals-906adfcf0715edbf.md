@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this value and another value identify the same runtime domain.
-
 ## Parameters
 
 **Parameter `other`:** The domain identifier to compare with this value.

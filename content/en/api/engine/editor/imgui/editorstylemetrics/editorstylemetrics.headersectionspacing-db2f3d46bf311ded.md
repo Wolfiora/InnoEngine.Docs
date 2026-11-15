@@ -13,5 +13,3 @@ reviewed: 5aebb07b433d13fb07c79e406c96fd69fd84b04e5530e5bc0ba41020fdfc5aad
 source: xml
 outdated: false
 ---
-
-Gets spacing between distinct control groups in the target header row.

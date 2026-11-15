@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires an immutable output while excluding concurrent artifact collection.
-
 ## Parameters
 
 **Parameter `persistentId`:** The source asset's persistent identity.

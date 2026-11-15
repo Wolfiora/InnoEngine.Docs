@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one serialized asset reference to the canonical object owned by this resolver.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity encoded in the reference.

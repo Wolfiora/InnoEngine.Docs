@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reverts every operation recorded by the transaction and does not add a history entry.
-
 ## Returns
 
 The result of the atomic rollback attempt.

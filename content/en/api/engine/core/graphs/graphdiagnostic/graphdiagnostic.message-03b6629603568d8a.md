@@ -13,5 +13,3 @@ reviewed: 79dd8b7cab67a6d8bf0aea293177ba51078321e6be92e955f6193da955a1c5fc
 source: xml
 outdated: false
 ---
-
-Gets the artist-facing diagnostic text.

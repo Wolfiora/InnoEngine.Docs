@@ -13,5 +13,3 @@ reviewed: f4052024ed9ad33b68fda7a8dc2ff2b35ab06a2d737517f8c5add58540b2323b
 source: xml
 outdated: false
 ---
-
-Gets the shader stage.

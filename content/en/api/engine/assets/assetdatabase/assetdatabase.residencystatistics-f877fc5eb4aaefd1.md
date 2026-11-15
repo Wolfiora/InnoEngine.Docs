@@ -13,5 +13,3 @@ reviewed: 0d1ea3f615ae467edc1a48cba0ddb19343c3d240eec54422a69dce55403c9049
 source: xml
 outdated: false
 ---
-
-Gets current materialized asset count, payload bytes, and the configured budget.

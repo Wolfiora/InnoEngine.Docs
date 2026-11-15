@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Defines reusable product and startup settings for deterministic game builds.

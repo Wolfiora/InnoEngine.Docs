@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds items by key and returns a lazy fail-fast enumerable.
-
 ## Remarks
 
 Enumeration throws if the store is modified during iteration.

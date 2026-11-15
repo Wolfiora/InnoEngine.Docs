@@ -13,5 +13,3 @@ reviewed: ab8c19a95e0339a1384f13405adb79ac868b0621cd48003f1236c681f0fdf9b8
 source: xml
 outdated: false
 ---
-
-Gets the collection face index.

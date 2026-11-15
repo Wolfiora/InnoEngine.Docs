@@ -13,5 +13,3 @@ reviewed: 36e17ff42cb0f1955be0454cbb9e7c4f4140a00b4e975dedf72a815c982fb565
 source: xml
 outdated: false
 ---
-
-Gets or sets the maximum number of unfinished preload waiters accepted by this owner.

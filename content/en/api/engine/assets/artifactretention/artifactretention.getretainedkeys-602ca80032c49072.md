@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the keys a collector must preserve regardless of catalog reachability.
-
 ## Returns
 
 An immutable snapshot; the provider serializes collection with new acquisitions.

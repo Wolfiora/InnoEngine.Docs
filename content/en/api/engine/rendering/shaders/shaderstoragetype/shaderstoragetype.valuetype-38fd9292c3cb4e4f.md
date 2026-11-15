@@ -13,5 +13,3 @@ reviewed: fe83c34591f280f4089d787701fa9a036b1df8c3e54dbd058974c8ff791f7ee6
 source: xml
 outdated: false
 ---
-
-Gets the buffer element or image load/store value type; image operations use float4.

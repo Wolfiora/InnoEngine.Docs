@@ -13,5 +13,3 @@ reviewed: a299ff15508318b868940c4ef3210fab0596a17d9558fd1baa7f30ad8c3f9ece
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum number of embedded dependency packages in one installation.

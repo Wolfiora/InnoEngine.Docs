@@ -13,5 +13,3 @@ reviewed: 559fd881ab29a30c6040b73248242436a74f0a5c910f763bb84813840cba9a4c
 source: xml
 outdated: false
 ---
-
-The M letter key.

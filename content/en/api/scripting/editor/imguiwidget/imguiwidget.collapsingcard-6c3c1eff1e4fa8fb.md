@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a component-style collapsible card header.
-
 ## Parameters
 
 **Parameter `id`:** The stable card identifier.

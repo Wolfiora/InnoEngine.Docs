@@ -13,5 +13,3 @@ reviewed: bb586fb64f97f807c5d636f3c0e7baf74e7cd835a4ff98355c00ee13498ff65b
 source: xml
 outdated: false
 ---
-
-The pink value used as part of this type's public representation.

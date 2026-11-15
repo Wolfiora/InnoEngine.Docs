@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Computes a hash code from the domain and runtime identifier.
-
 ## Returns
 
 A hash code consistent with runtime identity equality.

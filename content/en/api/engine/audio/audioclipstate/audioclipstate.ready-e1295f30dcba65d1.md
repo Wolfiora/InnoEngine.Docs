@@ -13,5 +13,3 @@ reviewed: 9e7d83139b11d36c8495575d008be98901417e2d3ea822a2539c2b0c0d70e118
 source: xml
 outdated: false
 ---
-
-The retained native data source is ready for playback.

@@ -13,5 +13,3 @@ reviewed: deb3f8fb13f8f85e5a6e0b2fe4a8b941217a9798d00db84cc65b3cdeb9b4b580
 source: xml
 outdated: false
 ---
-
-Don't call PushID()/PopID() on BeginTabItem()/EndTabItem()

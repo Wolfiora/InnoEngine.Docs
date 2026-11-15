@@ -13,5 +13,3 @@ reviewed: cea1166751d0daaf948b3c0411b16d0fd7f0af515a17038bb5eb567bc3d22287
 source: xml
 outdated: false
 ---
-
-Gets the active graphics API family.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []
 ---
-
-Contains commonly used precalculated values and mathematical operations.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable listener snapshot.
-
 ## Parameters
 
 **Parameter `id`:** Stable listener identity across updates.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects an index buffer and its first index for subsequent indexed draws.
-
 ## Parameters
 
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.

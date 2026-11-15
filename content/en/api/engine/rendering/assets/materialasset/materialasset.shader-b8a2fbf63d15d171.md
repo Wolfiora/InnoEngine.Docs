@@ -13,5 +13,3 @@ reviewed: 827a2868e0f1122db23071f6ffa03f5ffdfad6f63e8ce38062cbcb487601881f
 source: xml
 outdated: false
 ---
-
-Gets or sets the referenced shader asset.

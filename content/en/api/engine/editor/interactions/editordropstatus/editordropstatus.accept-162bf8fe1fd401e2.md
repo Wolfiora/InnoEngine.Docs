@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an accepted drop status with the requested standard target visual.
-
 ## Parameters
 
 **Parameter `visual`:** The standard visual drawn while the compatible source hovers the target.

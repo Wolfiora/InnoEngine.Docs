@@ -13,5 +13,3 @@ reviewed: 5057e20567000186b224a13c10ff6bd3f5a0781b4d9954c5f2ad938e828ece94
 source: xml
 outdated: false
 ---
-
-Default node to be open

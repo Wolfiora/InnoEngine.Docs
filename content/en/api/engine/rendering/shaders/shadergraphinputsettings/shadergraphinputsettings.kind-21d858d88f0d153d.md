@@ -13,5 +13,3 @@ reviewed: 19619c0347df611c0044caabf6245486d00357467a199f6d35861211d4cfef67
 source: xml
 outdated: false
 ---
-
-Gets or sets the stage input category.

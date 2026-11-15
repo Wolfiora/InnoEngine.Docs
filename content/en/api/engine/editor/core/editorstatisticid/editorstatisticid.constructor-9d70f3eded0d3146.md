@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a globally stable statistic identifier.
-
 ## Parameters
 
 **Parameter `value`:** Non-empty globally stable identity.

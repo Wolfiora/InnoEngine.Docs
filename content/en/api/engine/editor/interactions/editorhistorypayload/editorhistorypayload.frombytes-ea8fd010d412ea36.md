@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable history payload by copying the supplied bytes.
-
 ## Parameters
 
 **Parameter `bytes`:** The neutral bytes to retain for future Undo and Redo transitions.

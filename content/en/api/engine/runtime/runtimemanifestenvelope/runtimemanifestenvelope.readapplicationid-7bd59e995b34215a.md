@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads and validates the application identity without requiring serialization services to be initialized.
-
 ## Parameters
 
 **Parameter `data`:** The complete runtime manifest envelope.

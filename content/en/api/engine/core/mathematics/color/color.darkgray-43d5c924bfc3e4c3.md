@@ -13,5 +13,3 @@ reviewed: fdb809ae5e6d6f18c268ba773efb5d671d089eee0bfc235980f91ba18b601073
 source: xml
 outdated: false
 ---
-
-The darkgray value used as part of this type's public representation.

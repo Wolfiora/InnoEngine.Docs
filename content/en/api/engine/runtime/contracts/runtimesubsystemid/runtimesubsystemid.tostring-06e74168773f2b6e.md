@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the subsystem identifier for diagnostics.
-
 ## Returns
 
 The protocol value, or an empty string for an uninitialized value.

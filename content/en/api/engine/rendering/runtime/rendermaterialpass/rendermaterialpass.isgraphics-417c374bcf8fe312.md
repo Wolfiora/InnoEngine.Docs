@@ -13,5 +13,3 @@ reviewed: f2fd777fe427cb91115a7569f647ddb59b0b3920f07440061033ecdb14bd1c15
 source: xml
 outdated: false
 ---
-
-Gets whether this is a graphics material pass.

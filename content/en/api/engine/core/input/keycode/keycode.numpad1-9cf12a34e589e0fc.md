@@ -13,5 +13,3 @@ reviewed: 5de4cc1f6bcb1c121ce493efa67f747aa282cb5bc6301b8060b4561b424ed458
 source: xml
 outdated: false
 ---
-
-The 1 key on the numeric keypad.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears the primary backbuffer or detached presentation surface before this pass.
-
 ## Parameters
 
 **Parameter `clearColor`:** Linear color written before draw commands.

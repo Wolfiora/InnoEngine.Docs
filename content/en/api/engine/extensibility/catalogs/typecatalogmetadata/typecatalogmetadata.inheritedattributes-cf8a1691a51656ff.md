@@ -13,5 +13,3 @@ reviewed: c1213798f69c40a4ea9f80023dd355b1d858dfc5fb65fb6f5c16d5c8dffd1bc4
 source: xml
 outdated: false
 ---
-
-Gets the effective attribute set used by inherited extension discovery.

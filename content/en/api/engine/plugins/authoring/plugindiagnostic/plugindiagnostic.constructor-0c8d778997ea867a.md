@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a Plugin source diagnostic.
-
 ## Parameters
 
 **Parameter `sourcePath`:** Related `.iplugin` package path or invalid installation entry.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether every requested optional feature is supported.
-
 ## Returns
 
 `true` when every requested feature is available.

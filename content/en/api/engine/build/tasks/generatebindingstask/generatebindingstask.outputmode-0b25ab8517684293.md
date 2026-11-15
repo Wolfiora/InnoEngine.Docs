@@ -13,5 +13,3 @@ reviewed: 25298a2b0339ec173570764fe744d83b4d6bee3236f5a8bbbc3c82c27c7ed6a4
 source: xml
 outdated: false
 ---
-
-Gets or sets HostSource or TargetArtifacts without deriving publication from a path.

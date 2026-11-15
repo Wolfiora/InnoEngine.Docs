@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an ordinal, case-sensitive ABI identifier.
-
 ## Parameters
 
 **Parameter `value`:** Stable nonempty identifier without whitespace.

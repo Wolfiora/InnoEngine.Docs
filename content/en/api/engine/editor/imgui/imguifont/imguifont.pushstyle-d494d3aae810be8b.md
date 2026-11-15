@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pushes a host-owned font face for one synchronous control group.
-
 ## Parameters
 
 **Parameter `style`:** The requested emphasis.

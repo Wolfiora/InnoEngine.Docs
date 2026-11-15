@@ -13,5 +13,3 @@ reviewed: 69a325f5e3f3e4a38ded304cced29ab5b2b79aabb3281098ee28e8cbb381c3f6
 source: xml
 outdated: false
 ---
-
-Releases the workspace and any isolated scene session that it still owns.

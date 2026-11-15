@@ -13,5 +13,3 @@ reviewed: 307511659501ad5bb396ca250c2a1196bcaf541d4ad5c14e7cf702530187db55
 source: xml
 outdated: false
 ---
-
-The xbutton1 key.

@@ -13,5 +13,3 @@ reviewed: 03cf26e0eb231ff14011fca659a688d5e74bd9a081740d60dee0dda88d096a25
 source: xml
 outdated: false
 ---
-
-Decrements and clamps the stored value.

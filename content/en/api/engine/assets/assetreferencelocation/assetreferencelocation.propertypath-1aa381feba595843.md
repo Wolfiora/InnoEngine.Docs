@@ -13,5 +13,3 @@ reviewed: f22dc3019423bf9c9906d1a86d1aa0d7484fe26c1bee824ac81c700d60a274e0
 source: xml
 outdated: false
 ---
-
-Gets the serialized or subsystem-relative property path.

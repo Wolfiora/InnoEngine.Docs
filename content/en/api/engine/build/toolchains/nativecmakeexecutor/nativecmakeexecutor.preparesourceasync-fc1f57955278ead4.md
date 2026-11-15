@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies the recipe's declared checkout inputs before a cold CMake invocation.
-
 ## Parameters
 
 **Parameter `context`:** The producer scope supplied by NativeArtifactPublisher while holding its intermediate lease.

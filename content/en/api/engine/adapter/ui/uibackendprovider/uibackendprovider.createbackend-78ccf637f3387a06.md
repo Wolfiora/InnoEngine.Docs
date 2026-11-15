@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one caller-owned backend generation.
-
 ## Returns
 
 A new backend.

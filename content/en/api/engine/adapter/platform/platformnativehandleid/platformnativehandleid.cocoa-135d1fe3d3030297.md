@@ -13,5 +13,3 @@ reviewed: 61a83e2eea41ade9715fe3b67639cddb75d1c91f6b8ee49998821d0e03abdf41
 source: xml
 outdated: false
 ---
-
-Gets the Cocoa window surface ABI.

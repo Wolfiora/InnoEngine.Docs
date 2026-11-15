@@ -13,5 +13,3 @@ reviewed: d5988594739c9c933589be44096be9ec708ac58610d9b6b0c7fa59a33a57e6ff
 source: xml
 outdated: false
 ---
-
-Gets the number of indices in the range.

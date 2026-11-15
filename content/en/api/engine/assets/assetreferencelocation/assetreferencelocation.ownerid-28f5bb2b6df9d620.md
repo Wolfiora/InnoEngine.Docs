@@ -13,5 +13,3 @@ reviewed: 193444088f762a687be274bbd60083eafa939f36df91e7c655368a4fd7d82c2a
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the known owner, when available.

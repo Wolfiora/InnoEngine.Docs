@@ -13,5 +13,3 @@ reviewed: f88402b34b0513e8342d2449082251aa2df1d6ccac440e8fefd3cc580c2a4799
 source: xml
 outdated: false
 ---
-
-Compute-readable or writable buffer.

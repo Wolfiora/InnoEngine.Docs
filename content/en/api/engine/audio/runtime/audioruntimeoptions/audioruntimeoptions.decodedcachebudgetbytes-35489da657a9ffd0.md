@@ -13,5 +13,3 @@ reviewed: 2e8999c1976805c89443ff45c0bb95fb4ceaf56333550dc68e6dd6b76dd418bb
 source: xml
 outdated: false
 ---
-
-Gets or sets the decoded clip cache budget in bytes.

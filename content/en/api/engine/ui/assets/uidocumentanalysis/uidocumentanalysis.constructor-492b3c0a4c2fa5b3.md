@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frozen analysis result.
-
 ## Parameters
 
 **Parameter `text`:** Validated canonical text, or null on failure.

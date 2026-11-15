@@ -13,5 +13,3 @@ reviewed: 867728718c29ad8ffc1741a8cd59e764c51ee2806c4a9a26839699c120004f15
 source: xml
 outdated: false
 ---
-
-Gets resource entries whose native retirement is still pending.

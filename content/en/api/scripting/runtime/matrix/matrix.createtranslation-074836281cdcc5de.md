@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a translation matrix.
-
 ## Returns
 
 A translation matrix.

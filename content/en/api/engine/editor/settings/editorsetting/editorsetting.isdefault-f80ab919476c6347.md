@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a staged field object equals this definition's bound default value.
-
 ## Parameters
 
 **Parameter `setting`:** The isolated staged object to compare.

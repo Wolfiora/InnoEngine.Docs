@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds immutable outputs from a consistent asset snapshot.
-
 ## Parameters
 
 **Parameter `context`:** The build context.

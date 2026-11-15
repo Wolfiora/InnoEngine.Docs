@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Describes an explicitly composed host presentation implementation and its creation boundary.

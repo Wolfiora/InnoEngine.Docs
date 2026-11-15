@@ -13,5 +13,3 @@ reviewed: cf30c497aae1c9e8f6a8623a1b14e6b7a8576bca77ff5bbeaf9b82345c8a6684
 source: xml
 outdated: false
 ---
-
-The isolated runtime session is stopping and releasing its owned state.

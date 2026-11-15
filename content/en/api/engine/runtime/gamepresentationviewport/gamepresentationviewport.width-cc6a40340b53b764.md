@@ -13,5 +13,3 @@ reviewed: dbea72853f61bdf828f04896c5db354fbae9594b23d5178e2c5654c3d9cc049b
 source: xml
 outdated: false
 ---
-
-Gets the content width.

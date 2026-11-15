@@ -13,5 +13,3 @@ reviewed: 7e99bed5295ca0ed86d55dc895554d542b8e5512f590608082d25b1ab158c7a5
 source: xml
 outdated: false
 ---
-
-Enforce the tab position to the right of the tab bar (before the scrolling buttons)

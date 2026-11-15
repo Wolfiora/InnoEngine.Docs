@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Isolates a managed tool invocation from the invoking IDE's SDK and MSBuild process identity.

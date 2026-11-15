@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a failed result for a transition whose compensation also failed.
-
 ## Parameters
 
 **Parameter `message`:** The diagnostic containing both the transition and compensation failures.

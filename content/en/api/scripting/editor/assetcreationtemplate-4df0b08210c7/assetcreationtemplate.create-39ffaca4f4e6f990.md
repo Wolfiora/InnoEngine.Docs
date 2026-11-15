@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a value using this implementation's validated inputs.
-
 ## Returns
 
 The validated asset object that represents the completed operation.

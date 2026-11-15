@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Linearly interpolates between two values without clamping the amount.
-
 ## Parameters
 
 **Parameter `value1`:** The value1 consumed by lerp unclamped; ownership remains with the caller unless explicitly stated otherwise.

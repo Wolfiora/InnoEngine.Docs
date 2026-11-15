@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets frame-local movement previews; callers must not persist this changing view.

@@ -13,5 +13,3 @@ reviewed: d619dbc0d93656ef7798430c6b63a2bfc124ecbf1f5366bb00f8fc27d6845b41
 source: xml
 outdated: false
 ---
-
-Gets the shader input semantic.

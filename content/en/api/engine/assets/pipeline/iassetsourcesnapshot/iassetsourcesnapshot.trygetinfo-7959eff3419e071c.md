@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves immutable catalog information by source path.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

@@ -13,5 +13,3 @@ reviewed: 846b2437d577cec7e44d2f89b4ff37fd479190eaabcc29d38889fbe35980f02c
 source: xml
 outdated: false
 ---
-
-Gets or sets the complete value type, including named aggregates and fixed arrays.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one metadata entry.
-
 ## Parameters
 
 **Parameter `key`:** Stable provider-defined key.

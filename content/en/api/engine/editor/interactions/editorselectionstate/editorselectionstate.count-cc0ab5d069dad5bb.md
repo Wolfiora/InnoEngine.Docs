@@ -13,5 +13,3 @@ reviewed: cde1bb812914b885336788d2d31b39a1b848c4e39a810e3d5a8f23af6ef6e4cb
 source: xml
 outdated: false
 ---
-
-Gets the number of selected identities, including temporarily unavailable members.

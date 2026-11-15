@@ -13,5 +13,3 @@ reviewed: 0f8c29b7f2a3c14a44749cc62780da542aea20a98f2a44a44c71b8fab2ce934a
 source: xml
 outdated: false
 ---
-
-Gets or sets the normalized provider-defined world-space view rotation.

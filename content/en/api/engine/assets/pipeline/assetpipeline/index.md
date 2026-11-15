@@ -16,9 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Provides the single application-level entry point for importing, loading, saving and collecting assets.
-
-Owns cancellable Sample preparation and owner-thread publication through the shared source transaction.
-
-Prepares isolated source catalogs and adopts them at the pipeline's owner-thread safe point.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a path placement. A definition that overrides its drawing method becomes a field; a definition that keeps the default drawing method describes the page at the complete path.
-
 ## Parameters
 
 **Parameter `path`:** The slash-delimited page and field path.

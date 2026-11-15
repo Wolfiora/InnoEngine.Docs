@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Freezes platform factories, managed publishers, and matching Support Pack sources as one distribution.

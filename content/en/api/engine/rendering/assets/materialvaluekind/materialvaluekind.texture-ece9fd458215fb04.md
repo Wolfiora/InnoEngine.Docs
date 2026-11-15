@@ -13,5 +13,3 @@ reviewed: 766f53e5181232b8ddb0a8bbc9b2f06afad7b185577c7e40d7865e157bc4a6f7
 source: xml
 outdated: false
 ---
-
-Texture asset reference.

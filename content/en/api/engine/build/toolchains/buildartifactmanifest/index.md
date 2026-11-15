@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Validates complete build outputs against their input identity and recorded file hashes.

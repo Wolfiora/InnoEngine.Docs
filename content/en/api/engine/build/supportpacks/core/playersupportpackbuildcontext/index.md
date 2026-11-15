@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Supplies preparation with explicit paths and a selected SDK, excluding installed output.

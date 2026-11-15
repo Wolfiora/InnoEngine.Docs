@@ -13,5 +13,3 @@ reviewed: fc1575a4b805e0ef78e6b6b37d48f6571edc3bb82699ebe12e786d65b72d3017
 source: xml
 outdated: false
 ---
-
-Gets the arrow rotate left glyph used by standard Editor controls.

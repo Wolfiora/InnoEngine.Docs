@@ -13,5 +13,3 @@ reviewed: 0fd0f33364ae3a3be8dd0ea098c21063618225f9e545d0324aa20d98631f1f4c
 source: xml
 outdated: false
 ---
-
-React on center mouse button

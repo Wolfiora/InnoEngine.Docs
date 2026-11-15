@@ -13,5 +13,3 @@ reviewed: 6d4629c9b469742e565906aa4d83885942fa83b780575fa8902e70902d11ffb0
 source: xml
 outdated: false
 ---
-
-Gets the stable modal identifier.

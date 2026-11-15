@@ -13,5 +13,3 @@ reviewed: a16c766345fd172137343364e2cac97ebee109d8c04831f792923c9a89983858
 source: xml
 outdated: false
 ---
-
-Uses an upright face.

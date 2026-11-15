@@ -16,5 +16,3 @@ contracts:
 - project.inno-input-runtime#frame-and-lifetime-contract
 aliases: []
 ---
-
-Creates one frame-scoped input service over a caller-selected platform backend.

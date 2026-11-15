@@ -13,5 +13,3 @@ reviewed: d422d40baa9b89ee8b0b8a88ee8ffbb0458ec1ef84dca2b74ae4c0632fac6528
 source: xml
 outdated: false
 ---
-
-Gets the hovered tab color.

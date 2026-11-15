@@ -13,5 +13,3 @@ reviewed: b05f398a5eb2a882056c138508d1e94aeec7f4d28f438946388614700511794f
 source: xml
 outdated: false
 ---
-
-Releases every viewport owned by this editor host service.

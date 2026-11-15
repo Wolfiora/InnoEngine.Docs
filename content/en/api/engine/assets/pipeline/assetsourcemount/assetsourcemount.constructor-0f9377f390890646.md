@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset source mount.
-
 ## Parameters
 
 **Parameter `id`:** Stable source identity.

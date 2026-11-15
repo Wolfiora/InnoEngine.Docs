@@ -13,5 +13,3 @@ reviewed: 74569f440c6d8248298d73506dd125ebda9934f3b98d3e5cfc5ff687edce3e0f
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute publisher root managed by the standard distribution.

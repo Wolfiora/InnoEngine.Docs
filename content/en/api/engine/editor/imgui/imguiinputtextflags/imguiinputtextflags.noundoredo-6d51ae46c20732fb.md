@@ -13,5 +13,3 @@ reviewed: c434cd1b28196433fe0a059369168318aa6d89b12f09580481c16a5cf9e41cc3
 source: xml
 outdated: false
 ---
-
-Disable undo/redo. Note that input text owns the text data while active, if you want to provide your own undo/redo stack you need e.g. to call ClearActiveID().

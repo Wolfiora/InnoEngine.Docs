@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets whether this Material-owned parameter appears in ordinary Material Inspectors.

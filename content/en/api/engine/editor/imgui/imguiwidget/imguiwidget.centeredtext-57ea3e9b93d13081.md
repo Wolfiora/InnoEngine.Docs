@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws non-interactive text centered inside a reserved layout area.
-
 ## Parameters
 
 **Parameter `text`:** Visible text.

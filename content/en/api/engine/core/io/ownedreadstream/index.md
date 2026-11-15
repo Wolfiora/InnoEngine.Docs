@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Keeps an independent read stream and its lifetime pin owned together until both retire.

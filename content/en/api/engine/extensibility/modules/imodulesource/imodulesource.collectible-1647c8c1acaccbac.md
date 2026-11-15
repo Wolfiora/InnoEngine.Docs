@@ -13,5 +13,3 @@ reviewed: 915d7d54fa703a6edd05c38c4cc655f9ffca8012a2e7883483b807b1a0f518b5
 source: xml
 outdated: false
 ---
-
-Gets whether retirement can release this source's code generation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two artifact keys are equal.
-
 ## Parameters
 
 **Parameter `left`:** The first artifact key to compare.

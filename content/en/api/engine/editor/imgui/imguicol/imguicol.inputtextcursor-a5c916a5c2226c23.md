@@ -13,5 +13,3 @@ reviewed: aa88d8358afe67527b84fdd960a140eefdab68f9b0bc1beed2c5e0fd23a8419f
 source: xml
 outdated: false
 ---
-
-Selects the input text cursor presentation behavior.

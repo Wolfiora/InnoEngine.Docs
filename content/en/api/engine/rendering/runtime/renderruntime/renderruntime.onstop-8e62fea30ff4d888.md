@@ -13,5 +13,3 @@ reviewed: 6347141cb21cda1a3a5582ebdd53f2fa1db978115b0046dce16ac9d24169921e
 source: xml
 outdated: false
 ---
-
-Releases every runtime rendering generation, persistent target, upload, and GPU resource owned by this instance.

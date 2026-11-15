@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a neutral change whose domain mutation is already applied.
-
 ## Parameters
 
 **Parameter `name`:** The user-facing operation name.

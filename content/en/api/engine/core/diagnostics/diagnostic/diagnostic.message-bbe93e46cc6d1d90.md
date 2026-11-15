@@ -13,5 +13,3 @@ reviewed: 6d57514485de6e397b68944d1a86c0905c5b46e471fbd73cb92b34a18ccfefc5
 source: xml
 outdated: false
 ---
-
-Gets the human-readable diagnostic message.

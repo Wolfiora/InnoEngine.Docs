@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stores one decoded frame-scoped graph identity for use inside a concrete backend.
-
 ## Parameters
 
 **Parameter `index`:** The zero-based logical resource index.

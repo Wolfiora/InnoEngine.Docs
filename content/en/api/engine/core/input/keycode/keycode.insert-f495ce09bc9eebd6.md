@@ -13,5 +13,3 @@ reviewed: fcaa67ebb8786bc6e721fd2809b0f66957e1f6b2bbfd2fadc0abfdf131e65717
 source: xml
 outdated: false
 ---
-
-The insert key.

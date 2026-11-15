@@ -13,5 +13,3 @@ reviewed: 137fa97d0b2addd983c4f764a18c546d2da2cd64bdd60e935fb60430595ad044
 source: xml
 outdated: false
 ---
-
-Gets or sets the task project whose complete runtime is built by the calling MSBuild engine.

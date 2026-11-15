@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For IsPopupOpen(): ignore the ImGuiID parameter and test for any popup.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Validates platform-owned runtime or link inputs without coupling the pack catalog to target names.

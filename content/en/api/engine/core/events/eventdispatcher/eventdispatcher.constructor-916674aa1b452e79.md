@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a dispatcher with bounded pending work and a finite per-flush budget.
-
 ## Parameters
 
 **Parameter `queueCapacity`:** Maximum pending events; producers must handle explicit rejection.

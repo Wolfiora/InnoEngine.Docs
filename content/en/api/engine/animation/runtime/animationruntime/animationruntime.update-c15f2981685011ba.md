@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances every playback and applies one deterministic blended sample batch.
-
 ## Parameters
 
 **Parameter `scaledDeltaTime`:** Non-negative scaled frame interval.

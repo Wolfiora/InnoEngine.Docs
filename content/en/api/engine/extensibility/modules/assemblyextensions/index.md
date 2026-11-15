@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Provides ownership and scope metadata helpers for assemblies participating in the Inno runtime.

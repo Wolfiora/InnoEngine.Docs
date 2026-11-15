@@ -13,5 +13,3 @@ reviewed: 630249dbfcea28efa5cd04baac05d109656855c6dcf90ecd7b82707bcbb7dd99
 source: xml
 outdated: false
 ---
-
-Gets the shared Editor interaction and selection service.

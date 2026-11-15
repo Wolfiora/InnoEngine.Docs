@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-When text doesn't fit, elide left side to ensure right side stays visible. Useful for path/filenames. Single-line only!

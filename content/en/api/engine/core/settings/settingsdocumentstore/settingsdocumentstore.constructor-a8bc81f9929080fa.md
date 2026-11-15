@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a type-safe settings document store.
-
 ## Parameters
 
 **Parameter `document`:** The borrowed document boundary; read-only sources explicitly reject writes.

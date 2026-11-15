@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Describes a non-fatal issue encountered while migrating scene state to a new assembly generation.

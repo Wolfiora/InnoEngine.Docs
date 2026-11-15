@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the read-only dictionary contains an element that has the specified key.
-
 ## Parameters
 
 **Parameter `key`:** The key to locate.

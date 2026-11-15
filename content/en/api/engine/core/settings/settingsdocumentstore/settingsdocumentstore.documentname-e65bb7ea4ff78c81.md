@@ -13,5 +13,3 @@ reviewed: 4e316d64dc97c3fad0f229c0c9eab2237842caf7ae0cff574a358b6daa0da672
 source: xml
 outdated: false
 ---
-
-Gets the source's logical diagnostic name without requiring a filesystem location.

@@ -13,5 +13,3 @@ reviewed: d70d3c45e4b942cb023d71af8ea73cecd9b7eb7b8cc2146a4b589fab7fbde5eb
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic severity.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Reports that a serialized scene element cannot be created because its stable type is not present in the active type catalog.

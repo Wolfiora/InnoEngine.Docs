@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a provider borrowing one source-free content store.
-
 ## Parameters
 
 **Parameter `content`:** The verified immutable content store, borrowed for this provider's lifetime.

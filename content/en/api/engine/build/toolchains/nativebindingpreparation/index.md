@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Prepares a coherent target closure through the borrowed generator, without invoking MSBuild.

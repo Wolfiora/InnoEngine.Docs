@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds an exact neutral identifier without hashing or allocating text.
-
 ## Parameters
 
 **Parameter `value`:** The current identifier input, including an empty identifier when meaningful.

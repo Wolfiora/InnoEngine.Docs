@@ -13,5 +13,3 @@ reviewed: 2468b0bfe0bd411719ed19fa96261d570bbcb34fb22c201d5282baefd1c5baee
 source: xml
 outdated: false
 ---
-
-Gets target renderer capabilities.

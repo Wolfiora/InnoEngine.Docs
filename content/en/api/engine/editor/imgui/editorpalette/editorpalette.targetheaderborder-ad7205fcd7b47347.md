@@ -13,5 +13,3 @@ reviewed: d19031b6a9af1edf3c867583823753feb5d830877e41744165ace52fa6672d0a
 source: xml
 outdated: false
 ---
-
-Gets the persistent target header border.

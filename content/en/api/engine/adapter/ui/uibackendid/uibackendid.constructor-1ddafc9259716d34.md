@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an ordinal, case-sensitive backend identifier.
-
 ## Parameters
 
 **Parameter `value`:** Stable nonempty implementation identifier.

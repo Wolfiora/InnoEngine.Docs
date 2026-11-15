@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides read-only authoring source access for active or isolated candidate compilation.
-
 ## Remarks
 
 Capture inputs on the owner thread and retain the owning generation transaction until all asynchronous consumers drain. This view neither activates nor commits its underlying catalog.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one statistic contribution.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable statistic identity used for replacement within a frame.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a trailing native debug or release token from an artifact stem.
-
 ## Parameters
 
 **Parameter `baseName`:** The artifact stem to normalize.

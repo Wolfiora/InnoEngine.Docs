@@ -13,5 +13,3 @@ reviewed: 748aa8c022f2942f8c9f9c07c7c04768cbe2dc342da5fb5d2db086d2efa86554
 source: xml
 outdated: false
 ---
-
-Gets the zero-based fixed-step index.

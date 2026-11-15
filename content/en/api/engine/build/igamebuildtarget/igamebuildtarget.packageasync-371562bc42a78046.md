@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Composes one platform output from a verified Support Pack and source-free content directory.
-
 ## Parameters
 
 **Parameter `context`:** The isolated package context owned by the current build.

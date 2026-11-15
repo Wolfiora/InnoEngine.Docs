@@ -13,5 +13,3 @@ reviewed: e19f67f054c282f1773358d97174f7a5157d86baaa4f7e61bebb34edfd55cde3
 source: xml
 outdated: false
 ---
-
-Gets all discovered path definitions in deterministic path order.

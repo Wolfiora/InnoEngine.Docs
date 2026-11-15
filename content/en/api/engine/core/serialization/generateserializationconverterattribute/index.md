@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Requests a compile-time serialization converter for a closed data-transfer type.
-
 ## Remarks
 
 The annotated type must implement `T:Inno.Core.Serialization.ISerializable`, expose a constructor that generated code can invoke, and use `T:Inno.Core.Serialization.SerializablePropertyAttribute` on every persisted member. Types with polymorphic identity, reference graphs, or custom restoration invariants must use an explicit converter instead.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the elapsed duration after which an active compilation is reported as long-running.
-
 ## Remarks
 
 Use `F:System.Threading.Timeout.InfiniteTimeSpan` to disable the warning. The warning never cancels compilation automatically.

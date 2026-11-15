@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorPicker: wheel for Hue, triangle for Sat/Value.

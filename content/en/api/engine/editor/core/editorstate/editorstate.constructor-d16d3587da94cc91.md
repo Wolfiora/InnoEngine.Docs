@@ -13,5 +13,3 @@ reviewed: 725fc223b7bec5e370315bf7ba7db4469ce7c9eafdf289bd0cddc55e1df5c43d
 source: xml
 outdated: false
 ---
-
-Initializes the base contract for a runtime-owned editor state parameter.

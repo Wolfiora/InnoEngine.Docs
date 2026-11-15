@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the display name assigned to a layer slot.
-
 ## Parameters
 
 **Parameter `layer`:** The layer slot to resolve.

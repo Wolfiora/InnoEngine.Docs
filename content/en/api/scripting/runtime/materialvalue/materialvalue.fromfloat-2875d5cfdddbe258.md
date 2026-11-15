@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a scalar material value.
-
 ## Parameters
 
 **Parameter `value`:** Scalar value.

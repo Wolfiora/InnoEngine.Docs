@@ -13,5 +13,3 @@ reviewed: 8d9ae35f47b712383a10f130617c22c61ae60068a7dc170730c7a28caaeef7ce
 source: xml
 outdated: false
 ---
-
-Gets the stable target binding.

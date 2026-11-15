@@ -13,5 +13,3 @@ reviewed: c88655498b86d303ec2026091a0017cb421d83976a18bf54a5318799b2fbbe32
 source: xml
 outdated: false
 ---
-
-Gets the destination mixer bus.

@@ -13,5 +13,3 @@ reviewed: 64b34241c99e90ef4ba741fb3af667517cffbf65900c9177c4c694159cca1932
 source: xml
 outdated: false
 ---
-
-Gets approximate decoded clip bytes held in memory.

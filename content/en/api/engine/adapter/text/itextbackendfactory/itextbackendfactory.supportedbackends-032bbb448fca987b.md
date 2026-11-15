@@ -13,5 +13,3 @@ reviewed: 398ce4d31e31f87302ec95953ae5a0147ffcde6fa6cb29eb75866af0a3f11ca2
 source: xml
 outdated: false
 ---
-
-Gets the exact registrations available in this composition snapshot.

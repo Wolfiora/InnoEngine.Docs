@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the minimum screen coordinate of the row's interactive content, excluding tree indentation.

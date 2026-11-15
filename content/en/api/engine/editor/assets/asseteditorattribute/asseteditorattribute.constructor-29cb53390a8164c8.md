@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset-editor registration for an imported runtime asset type.
-
 ## Parameters
 
 **Parameter `assetType`:** The imported asset type handled by the editor.

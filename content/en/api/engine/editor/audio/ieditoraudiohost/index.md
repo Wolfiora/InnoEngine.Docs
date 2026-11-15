@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-audio
 aliases: []
 ---
-
-Coordinates isolated audio runtime generations for Edit and Play Mode sessions.

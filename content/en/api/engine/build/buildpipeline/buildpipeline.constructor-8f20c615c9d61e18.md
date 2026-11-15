@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a build pipeline from installed Player Support Packs and platform packagers.
-
 ## Parameters
 
 **Parameter `supportPackRoot`:** The directory containing one child directory per `T:Inno.Build.BuildTargetId`.

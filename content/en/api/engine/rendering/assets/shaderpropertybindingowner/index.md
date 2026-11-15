@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Identifies which layer supplies a declared shader property's value for each dispatch or draw.

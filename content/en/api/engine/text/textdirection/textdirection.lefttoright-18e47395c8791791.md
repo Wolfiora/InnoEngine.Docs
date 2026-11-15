@@ -13,5 +13,3 @@ reviewed: 802ba118c825b1eb3e02a23dcbd0262060ec3c1ae1e16c57353f11d7464d5a74
 source: xml
 outdated: false
 ---
-
-Shapes text from left to right.

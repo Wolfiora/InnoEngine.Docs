@@ -13,5 +13,3 @@ reviewed: c59ddc0f09efb5619a8043852577314634d7590e15e16ad290570892314a0990
 source: xml
 outdated: false
 ---
-
-Gets or initializes the runtime asset payload residency budget in bytes.

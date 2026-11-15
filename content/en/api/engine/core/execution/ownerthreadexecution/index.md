@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---
-
-Runs asynchronous application work while returning its continuations to the calling thread.

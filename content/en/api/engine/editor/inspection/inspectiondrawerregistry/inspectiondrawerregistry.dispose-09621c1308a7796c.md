@@ -13,5 +13,3 @@ reviewed: 8244ff24470d6ee71d370e2004320d1e0722b50eb5aba38d64c255cff1246d4a
 source: xml
 outdated: false
 ---
-
-Releases every active drawer snapshot and unregisters the registry from type refreshes.

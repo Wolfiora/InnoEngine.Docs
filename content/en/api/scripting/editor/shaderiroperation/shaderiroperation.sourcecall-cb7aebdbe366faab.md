@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Calls a parsed source function with named inputs and ordered multiple outputs.

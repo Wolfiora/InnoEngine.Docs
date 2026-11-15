@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Exports the validated runtime artifact closure while observing cooperative cancellation between files.
-
 ## Parameters
 
 **Parameter `destinationLibraryRoot`:** The empty directory that receives the runtime-only asset database.

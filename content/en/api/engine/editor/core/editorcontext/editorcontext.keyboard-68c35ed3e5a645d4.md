@@ -13,5 +13,3 @@ reviewed: 71cb80f11ebf9d4e72e818903977494360426dd689731a9fdb2ec0d07fc77240
 source: xml
 outdated: false
 ---
-
-Gets the immutable keyboard conventions shared by discovery, dispatch and presentation.

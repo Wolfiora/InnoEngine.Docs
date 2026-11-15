@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an import settings using this implementation's validated inputs.
-
 ## Returns
 
 The validated iserializable that represents the completed operation.

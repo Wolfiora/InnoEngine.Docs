@@ -13,5 +13,3 @@ reviewed: 374e2dfed86e1b8afde344add85a4f413f570dcd1b1d9ba0769bc7ed09ea1019
 source: xml
 outdated: false
 ---
-
-Gets bounded provider admission counts from the most recent content collection on this device generation.

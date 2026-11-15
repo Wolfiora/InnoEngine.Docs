@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a texture material value.
-
 ## Parameters
 
 **Parameter `value`:** Texture asset reference.

@@ -13,5 +13,3 @@ reviewed: aa13f2d6b383745c6d146c13d74c19b1b4e671e465e9ff6fd6c442903b0660fc
 source: xml
 outdated: false
 ---
-
-Allow 0123456789.+-\*/

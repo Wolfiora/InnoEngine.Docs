@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Stores the named layer catalog and symmetric layer-interaction matrix used by a project.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes a complete ordered set of rendering-model layers targeting one Editor viewport.

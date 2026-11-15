@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns a new context containing the supplied value under its declared context type.
-
 ## Type parameters
 
 **Type parameter `TContext`:** The exact context contract type.

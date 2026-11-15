@@ -13,5 +13,3 @@ reviewed: ebe6048f0efed5b7ca6fad6f37a322b11791ff7fe7f63270e898a9339522e43e
 source: xml
 outdated: false
 ---
-
-The render-graph generation that owns the resource.

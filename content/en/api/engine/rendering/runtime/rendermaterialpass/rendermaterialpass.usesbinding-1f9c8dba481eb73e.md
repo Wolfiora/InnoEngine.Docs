@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the compiled program actively consumes one declared binding.
-
 ## Parameters
 
 **Parameter `binding`:** Stable binding declared by the shader contract.

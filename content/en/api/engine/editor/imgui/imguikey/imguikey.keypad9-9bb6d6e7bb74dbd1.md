@@ -13,5 +13,3 @@ reviewed: a206f2cd062e7e4a5f24ec4039ba2eaa445635a09c173f7008bfccbe8d0ece34
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad9 presentation key or modifier.

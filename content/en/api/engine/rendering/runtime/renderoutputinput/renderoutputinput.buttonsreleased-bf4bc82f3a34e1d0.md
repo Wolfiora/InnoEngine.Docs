@@ -13,5 +13,3 @@ reviewed: b3915912b3742964efa21fab50bdf18016cff304bb58e1eb1addfffbe26285e2
 source: xml
 outdated: false
 ---
-
-Gets buttons released this frame.

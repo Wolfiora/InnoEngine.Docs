@@ -13,5 +13,3 @@ reviewed: 6312978894f5328d954f40ad20b9ef31222dca9d9a44bdaa8fb27bb1e41eeee5
 source: xml
 outdated: false
 ---
-
-Gets whether keyboard and text input should continue reaching this target.

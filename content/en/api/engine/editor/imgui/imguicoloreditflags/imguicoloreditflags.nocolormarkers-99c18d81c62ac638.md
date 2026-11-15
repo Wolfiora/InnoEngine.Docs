@@ -13,5 +13,3 @@ reviewed: 62999d03a3acf8b0f8e3a73d64f1e234164e9efad6cab290e2e043985c52328f
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable rendering R/G/B/A color marker. May also be disabled globally by setting style.ColorMarkerSize = 0.

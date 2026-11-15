@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds an item to the store without indexing.
-
 ## Parameters
 
 **Parameter `item`:** The item to add.

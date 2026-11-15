@@ -13,5 +13,3 @@ reviewed: 44f4ba9ae946e42c923ffab0fb003247f3468a410cec9a1b980751b49ff012d6
 source: xml
 outdated: false
 ---
-
-Gets the largest simultaneous unique encoded-byte reservation.

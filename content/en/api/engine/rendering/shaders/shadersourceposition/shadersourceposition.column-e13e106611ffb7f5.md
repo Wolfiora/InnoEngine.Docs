@@ -13,5 +13,3 @@ reviewed: 480e02eb3684e18ff846f7675b232e72919e294e1af0367dd41dade48ce804c7
 source: xml
 outdated: false
 ---
-
-One-based source column.

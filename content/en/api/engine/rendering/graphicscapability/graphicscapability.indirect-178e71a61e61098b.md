@@ -13,5 +13,3 @@ reviewed: 820234d0f7448c889647be3f540bd55cd568cf4d39489be2ca242a9ecb0dcbbf
 source: xml
 outdated: false
 ---
-
-Indirect draw and dispatch commands.

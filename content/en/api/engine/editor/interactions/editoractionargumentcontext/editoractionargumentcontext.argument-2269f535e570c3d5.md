@@ -13,5 +13,3 @@ reviewed: 05101868087eb09161018c4f42bd1ecfa911fc0772d8092f4b50016f26066a54
 source: xml
 outdated: false
 ---
-
-Gets the strongly typed action argument.

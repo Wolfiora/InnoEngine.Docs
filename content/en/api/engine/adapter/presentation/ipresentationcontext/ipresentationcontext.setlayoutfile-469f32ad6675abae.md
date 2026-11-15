@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Disables or redirects backend-owned layout-file persistence.
-
 ## Parameters
 
 **Parameter `filePath`:** Layout path, or `null` when the host persists layout text itself.

@@ -13,5 +13,3 @@ reviewed: 6131fdb00bbc8de63951b0a59290f82065c5cd27e672d6b4f9937c43e20bac28
 source: xml
 outdated: false
 ---
-
-Gets the world-to-view matrix used by the submitted frame.

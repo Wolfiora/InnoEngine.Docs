@@ -13,5 +13,3 @@ reviewed: 619f93831f25212303e00b8fedb2e680bb272a57866292e30a97afc59f401797
 source: xml
 outdated: false
 ---
-
-Gets the resulting visible focus index, or minus one for no focus.

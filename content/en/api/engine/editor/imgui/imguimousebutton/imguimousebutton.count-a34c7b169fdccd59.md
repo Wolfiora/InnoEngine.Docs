@@ -13,5 +13,3 @@ reviewed: 9e13ccb0980e37aaac68541ba6c621744008066377bccaa131285ac3395058f9
 source: xml
 outdated: false
 ---
-
-Marks the exclusive end of the valid option range.

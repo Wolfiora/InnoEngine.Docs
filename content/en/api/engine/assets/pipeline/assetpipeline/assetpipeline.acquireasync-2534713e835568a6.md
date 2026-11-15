@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asynchronously acquires a canonical authoring asset by path for an explicit managed lifetime.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required asset contract.

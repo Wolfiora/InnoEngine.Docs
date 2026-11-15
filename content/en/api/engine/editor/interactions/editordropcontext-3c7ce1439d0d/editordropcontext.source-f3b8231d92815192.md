@@ -13,5 +13,3 @@ reviewed: ffe7a0f878c1475efe0d7d2147379548794604a4ec68936056c04ab0f8db2bb2
 source: xml
 outdated: false
 ---
-
-Gets the live source resolved for this query or delivery operation.

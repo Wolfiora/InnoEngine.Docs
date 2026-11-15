@@ -13,5 +13,3 @@ reviewed: c83da67da3a9ebe8fd49461bec0a72f2621ecb7f5540fb629dc0217dc0cd9f40
 source: xml
 outdated: false
 ---
-
-Gets immutable capabilities for the current audio device generation.

@@ -13,5 +13,3 @@ reviewed: 7aa7e4938033a7d21974ff529db9e38d7c0455df44d586949a6ad9c82906c405
 source: xml
 outdated: false
 ---
-
-Gets or sets the local rotation relative to the parent.

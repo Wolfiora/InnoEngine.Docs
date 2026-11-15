@@ -13,5 +13,3 @@ reviewed: d4397ae4129b8e918615af3057f0114e5204e9fa4c5c81a5c8980e5937f79b38
 source: xml
 outdated: false
 ---
-
-Gets the content extent, excluding the window title, border and padding.

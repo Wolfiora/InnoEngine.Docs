@@ -13,5 +13,3 @@ reviewed: 705df6f65984afdb6aeebef8b697b955240d3ee28438c4f62bf70dd783a04de7
 source: xml
 outdated: false
 ---
-
-Gets current backend resource statistics.

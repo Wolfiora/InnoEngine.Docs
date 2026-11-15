@@ -13,5 +13,3 @@ reviewed: 79ccc0e0ac55195b1bce17033dd7347a91a7ac264e3352cc864aeeada30c0604
 source: xml
 outdated: false
 ---
-
-Gets the source path associated with the diagnostic.

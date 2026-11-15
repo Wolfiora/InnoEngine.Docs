@@ -13,5 +13,3 @@ reviewed: 996bf31868d764ae9c781a62e757d3f4ec3e228ea625b6b0ff2c2da884cad949
 source: xml
 outdated: false
 ---
-
-Gets the complete immutable set of stable texture slots owned by the current asset content.

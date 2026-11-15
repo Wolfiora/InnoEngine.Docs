@@ -13,5 +13,3 @@ reviewed: ace817a5696fedff34bce4cb6aa4262c91f499bf4589095d3267fc9b9dde3234
 source: xml
 outdated: false
 ---
-
-Gets the controls whose transient state belongs exclusively to this session.

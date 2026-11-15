@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For OpenPopup\*(), BeginPopupContext\*(): don't reopen same popup if already open (won't reposition, won't reinitialize navigation)

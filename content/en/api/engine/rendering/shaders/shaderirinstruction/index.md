@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores one immutable typed instruction without generated stage source or backend expressions.

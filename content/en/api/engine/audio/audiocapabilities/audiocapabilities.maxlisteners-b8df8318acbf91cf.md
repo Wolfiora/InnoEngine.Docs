@@ -13,5 +13,3 @@ reviewed: ef921312c335e96baf83b3de091669d5a40ef0c72ae723fad36036ce30bbd705
 source: xml
 outdated: false
 ---
-
-Gets the maximum simultaneously active listener count.

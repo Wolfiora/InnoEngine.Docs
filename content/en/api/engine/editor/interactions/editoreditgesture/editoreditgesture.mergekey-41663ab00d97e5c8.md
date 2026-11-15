@@ -13,5 +13,3 @@ reviewed: b8bd356db6a8717b1ea5459523368f848293c84d6c23f58719d99b14ae976809
 source: xml
 outdated: false
 ---
-
-Gets the transient merge boundary shared only by updates within this gesture.

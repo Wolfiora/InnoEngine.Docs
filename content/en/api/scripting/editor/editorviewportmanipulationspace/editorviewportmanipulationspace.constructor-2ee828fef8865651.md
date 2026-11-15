@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a manipulation space matching one rendered viewport frame.
-
 ## Parameters
 
 **Parameter `viewMatrix`:** World-to-view matrix used by the submitted frame.

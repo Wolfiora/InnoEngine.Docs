@@ -13,5 +13,3 @@ reviewed: 54f70ff267d5719da16e12efb6c76e47f02ce9e6ef90975b9d1c050d9225497c
 source: xml
 outdated: false
 ---
-
-Gets whether project Plugin management is initialized.

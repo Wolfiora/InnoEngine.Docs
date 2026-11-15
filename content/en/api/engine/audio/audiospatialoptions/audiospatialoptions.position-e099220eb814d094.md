@@ -13,5 +13,3 @@ reviewed: 2378dfbcd552980fbfb5eea7826ffa68afaae43204e15ee00f75a9a3961e8ac8
 source: xml
 outdated: false
 ---
-
-Gets the world-space source position.

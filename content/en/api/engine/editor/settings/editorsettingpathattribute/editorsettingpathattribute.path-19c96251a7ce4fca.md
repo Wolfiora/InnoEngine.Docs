@@ -13,5 +13,3 @@ reviewed: 6ece2f1fe58dbcbe69a733b3bfb50b23cfcc06114ea817cf755c5023591ec978
 source: xml
 outdated: false
 ---
-
-Gets the normalized path including the field label.

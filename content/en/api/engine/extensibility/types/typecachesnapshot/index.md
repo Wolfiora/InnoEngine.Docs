@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents an immutable, internally consistent view of discoverable runtime types.
-
 ## Remarks
 
 A snapshot strongly retains its discovered `T:System.Type` instances. Callers must not cache an obsolete snapshot or one of its type lists beyond the operation that needs generation consistency, because doing so delays unloading the corresponding collectible assembly load context.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Shapes one Unicode string into positioned glyphs.
-
 ## Parameters
 
 **Parameter `font`:** The loaded face.

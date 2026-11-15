@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores a matching settings contract with this owner's asset references.
-
 ## Type parameters
 
 **Type parameter `TSettings`:** Current settings type.

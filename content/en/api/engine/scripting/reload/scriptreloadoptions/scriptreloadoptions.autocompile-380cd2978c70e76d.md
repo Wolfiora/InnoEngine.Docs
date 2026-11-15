@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether startup and subsequent source changes request automatic compilation.
-
 ## Remarks
 
 The initial request starts immediately. Later change requests are consumed only at a focused Editor safe point after the configured debounce duration.

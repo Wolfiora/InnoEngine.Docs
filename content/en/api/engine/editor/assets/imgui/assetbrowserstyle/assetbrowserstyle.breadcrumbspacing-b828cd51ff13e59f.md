@@ -13,5 +13,3 @@ reviewed: b9fe1d2cd86eccfd4791ecc3bf5b80f3f5320ba2205305785932b7442421e5a1
 source: xml
 outdated: false
 ---
-
-Gets spacing around breadcrumb separators.

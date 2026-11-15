@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves this transient snapshot through its original weak identity registry.
-
 ## Type parameters
 
 **Type parameter `TObject`:** The expected identity object type.

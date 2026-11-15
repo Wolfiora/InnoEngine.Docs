@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws disabled hint text that wraps to the current content width.
-
 ## Parameters
 
 **Parameter `text`:** Hint text.

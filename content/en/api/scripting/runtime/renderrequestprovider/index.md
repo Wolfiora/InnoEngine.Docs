@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Produces arbitrary render requests without prescribing a scene or rendering model.

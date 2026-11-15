@@ -13,5 +13,3 @@ reviewed: 362f1595021ec52b433b4aac6e69d8e1d722aa3514baf888357f25c59aa803bf
 source: xml
 outdated: false
 ---
-
-Gets an isolated copy of the canonical project defaults.

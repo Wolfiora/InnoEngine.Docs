@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a frame-scoped resource copy pass.
-
 ## Type parameters
 
 **Type parameter `TPassData`:** Pass payload type.

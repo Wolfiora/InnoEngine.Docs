@@ -13,5 +13,3 @@ reviewed: 50750051aee33ddaced90c8e4fff637af44c4f3c5e9b03cbbe7b11a41b8cc6ac
 source: xml
 outdated: false
 ---
-
-Gets whether this canvas owns a pan gesture, including while the pointer is outside its bounds.

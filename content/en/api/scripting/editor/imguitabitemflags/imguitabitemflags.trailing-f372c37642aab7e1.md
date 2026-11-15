@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enforce the tab position to the right of the tab bar (before the scrolling buttons)

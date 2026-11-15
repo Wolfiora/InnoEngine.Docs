@@ -13,5 +13,3 @@ reviewed: 59fe0931b9c9ff776bc295c545de8be4f5f0c7975602a67f96cc261ec83015c4
 source: xml
 outdated: false
 ---
-
-Make the widget logarithmic (linear otherwise). Consider using ImGuiSliderFlags\_NoRoundToFormat with this if using a format-string with small amount of digits.

@@ -13,5 +13,3 @@ reviewed: 2436b763d718c9f2f5e194627068a70a079c60feefd272561d85195b72f2360b
 source: xml
 outdated: false
 ---
-
-Sampled texture and sampler state.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the number of elements in the collection.
-
 ## Returns
 
 The number of elements in the collection.

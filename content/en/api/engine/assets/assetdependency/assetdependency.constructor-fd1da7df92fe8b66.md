@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset dependency descriptor.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent identity of the referenced asset.

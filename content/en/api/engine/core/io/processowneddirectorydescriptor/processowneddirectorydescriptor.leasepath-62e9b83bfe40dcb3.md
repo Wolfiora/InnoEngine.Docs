@@ -13,5 +13,3 @@ reviewed: 51d1571ad14d6d3c650b1a7686f908aff01545c4058e5489f4a0883775624482
 source: xml
 outdated: false
 ---
-
-Gets the persistent producer and retirement coordination file.

@@ -13,5 +13,3 @@ reviewed: 88f43862d8d6674ff39bb95675132c4b948569d86885226d1befcd8543ab1269
 source: xml
 outdated: false
 ---
-
-Gets the minimum visible width retained for either resizable content pane while its splitter is dragged.

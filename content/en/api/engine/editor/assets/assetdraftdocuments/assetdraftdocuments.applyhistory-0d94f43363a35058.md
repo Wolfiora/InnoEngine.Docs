@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies a previously validated neutral record; failed recovery leaves the draft unchanged.
-
 ## Parameters
 
 **Parameter `change`:** Record owned by the shared History service.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation-runtime#playback-and-update-contract
 aliases: []
 ---
-
-Resolves declared binding protocols through transactional, generation-owned extension snapshots.

@@ -13,5 +13,3 @@ reviewed: 9dc842dedb19895c02f7360b2999961327665e5e6278717439e9c90a7534f979
 source: xml
 outdated: false
 ---
-
-The absolute editor runtime in seconds.

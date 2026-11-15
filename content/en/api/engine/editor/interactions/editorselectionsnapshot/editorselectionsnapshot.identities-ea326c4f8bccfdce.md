@@ -13,5 +13,3 @@ reviewed: d5c4d1977e3913dac3930eccd1d4ad5bbc1da7d9b5024b5f17a5dcb8764716af
 source: xml
 outdated: false
 ---
-
-Gets unique selection identities in order; the final identity is the primary selection.

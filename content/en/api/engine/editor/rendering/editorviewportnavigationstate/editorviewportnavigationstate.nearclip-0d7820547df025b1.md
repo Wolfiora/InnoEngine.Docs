@@ -13,5 +13,3 @@ reviewed: 534c7bcb496739bab52dcaac6edb6ec9613e2366eb5e33e9b813967ff554643d
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive near clipping distance.

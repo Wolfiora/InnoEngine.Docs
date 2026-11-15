@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Uses the host's context-owned font catalog without exposing backend types to Editor features.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Observes an event after its ordered hub dispatch has completed, including globally consumed events.
-
 ## Remarks
 
 Observers run synchronously on the dispatching thread and do not participate in consumption. They must not change consumption or call HandleInHub. Observer failures propagate to the caller. Owners must unsubscribe before retiring their callbacks or extensions.

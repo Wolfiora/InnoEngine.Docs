@@ -13,5 +13,3 @@ reviewed: 1018a19c05fa83c59cc824a33825fdd4014a3fd1a79921b9d1943420bc12e812
 source: xml
 outdated: false
 ---
-
-Gets the InnoEngine logo glyph available in every default Editor font style.

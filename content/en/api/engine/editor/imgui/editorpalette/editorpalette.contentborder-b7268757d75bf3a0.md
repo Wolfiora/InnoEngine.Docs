@@ -13,5 +13,3 @@ reviewed: 823702a12b5381bc70fcf1a750622081d76497121f86ccf10cc8c979da944a20
 source: xml
 outdated: false
 ---
-
-Gets the content border.

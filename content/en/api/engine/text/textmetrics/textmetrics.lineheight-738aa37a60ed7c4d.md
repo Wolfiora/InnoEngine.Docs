@@ -13,5 +13,3 @@ reviewed: f077ea5b4c91ee543b5f4083323be6851146eb32c4de6b469703ea2862422b19
 source: xml
 outdated: false
 ---
-
-The recommended line spacing in logical pixels for the selected face and size.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a scene reload service bound to one serialization generation owner.
-
 ## Parameters
 
 **Parameter `serialization`:** The serialization registry used to capture and restore scene state.

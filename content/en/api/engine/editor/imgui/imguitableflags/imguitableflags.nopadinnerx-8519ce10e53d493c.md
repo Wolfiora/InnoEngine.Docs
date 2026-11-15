@@ -13,5 +13,3 @@ reviewed: c9bc8948c7a388efc4c014e9edfdcc358c4666a8b844625ee739b26c6bcc32e8
 source: xml
 outdated: false
 ---
-
-Disable inner padding between columns (double inner padding if BordersOuterV is on, single inner padding if BordersOuterV is off).

@@ -13,5 +13,3 @@ reviewed: c8ed802701982c130b26d26ff5a0426423853866ce1be29e1029c2669f29dd13
 source: xml
 outdated: false
 ---
-
-Gets the related resource name, if any.

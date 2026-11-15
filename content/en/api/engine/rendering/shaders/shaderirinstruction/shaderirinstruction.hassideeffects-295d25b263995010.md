@@ -13,5 +13,3 @@ reviewed: ec1f58ba63212f1138a0a48a60af82d691c74ea6a2be53811d178938bff33ad1
 source: xml
 outdated: false
 ---
-
-Gets whether removing or reordering this instruction may change observable behavior.

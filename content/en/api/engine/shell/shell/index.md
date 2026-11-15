@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Owns the backend-neutral window, event pump, input source, rendering device, and host frame lifecycle.

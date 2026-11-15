@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable missing-state record.
-
 ## Parameters
 
 **Parameter `key`:** The persistent owner slot represented by this record.

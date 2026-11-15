@@ -13,5 +13,3 @@ reviewed: 2213747188e08138109f7068ab4e4dcc59367db05f4e4b4f3f5e4ef237c6294e
 source: xml
 outdated: false
 ---
-
-Participates in deserialization (restore/read).

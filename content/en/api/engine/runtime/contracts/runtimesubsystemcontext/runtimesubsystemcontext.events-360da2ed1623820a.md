@@ -13,5 +13,3 @@ reviewed: fe799167db86289a1b9e522cfe406f65db24a1ca281052a2ecd3eeaf2da4df9b
 source: xml
 outdated: false
 ---
-
-Gets the owner-thread event dispatcher.

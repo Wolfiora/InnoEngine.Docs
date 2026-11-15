@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the standard control height including frame padding.
-
 ## Returns
 
 A copied value from the active presentation context.

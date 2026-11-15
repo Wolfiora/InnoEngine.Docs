@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Contains a detached typed region only after all graph, port and node lowering validation succeeds.

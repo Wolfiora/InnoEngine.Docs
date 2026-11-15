@@ -13,5 +13,3 @@ reviewed: 6c0ea787f66f5a901322d8d42a1edd608b778f3dd4b54c819eb3b6111eb076c4
 source: xml
 outdated: false
 ---
-
-Gets the provider ordering priority.

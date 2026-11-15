@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current screen-space cursor position.
-
 ## Returns
 
 The screen-space cursor position.

@@ -13,5 +13,3 @@ reviewed: 60da021afbfe4c0539120814e41a8a15c1bee14433b47e6d80dd0f0ccf2abde2
 source: xml
 outdated: false
 ---
-
-Read-only mode

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a pointer movement in platform-window coordinates.
-
 ## Parameters
 
 **Parameter `windowId`:** The platform window that produced the movement.

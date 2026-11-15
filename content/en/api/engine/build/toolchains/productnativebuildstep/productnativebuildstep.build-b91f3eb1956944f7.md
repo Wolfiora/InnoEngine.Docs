@@ -13,5 +13,3 @@ reviewed: 52b37472edf8d09547ffbc62764068346a967b86b228df78b2ff754392207b86
 source: xml
 outdated: false
 ---
-
-Gets the standalone producer, or null for a component owned by a static aggregate executor.

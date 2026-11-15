@@ -13,5 +13,3 @@ reviewed: cd0ac48d0784262a110967ace9a54c95f4a04f2099c5b00e0ad330f57cb9716a
 source: xml
 outdated: false
 ---
-
-Gets the previous declared property type name.

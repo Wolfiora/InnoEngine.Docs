@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Supplies one content source with the host-selected scene roots and an exact view.

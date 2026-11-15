@@ -13,5 +13,3 @@ reviewed: 5830ad56e5227b023d08f1dc79b4f1caa5d7cda815d8e1dc171ebd0415e2a768
 source: xml
 outdated: false
 ---
-
-Identifies the K presentation key or modifier.

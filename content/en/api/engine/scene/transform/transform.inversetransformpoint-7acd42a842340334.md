@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Transforms a world-space point into this transform's local space.
-
 ## Parameters
 
 **Parameter `point`:** Point expressed in world space.

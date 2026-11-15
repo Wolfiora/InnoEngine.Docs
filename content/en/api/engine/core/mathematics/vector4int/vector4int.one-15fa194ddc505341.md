@@ -13,5 +13,3 @@ reviewed: 4de003f187c3b1fadc53f28d6c6f53fafe2912bf5a5159f935b768beca4aa0ac
 source: xml
 outdated: false
 ---
-
-A value whose components are all one.

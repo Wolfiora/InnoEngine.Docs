@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes a registered game system.
-
 ## Parameters
 
 **Parameter `system`:** System to remove.

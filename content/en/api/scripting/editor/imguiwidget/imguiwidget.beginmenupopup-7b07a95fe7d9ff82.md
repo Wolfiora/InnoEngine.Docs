@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins an explicitly opened popup using the editor context-menu presentation contract. The popup stays in its parent viewport, sizes itself to submitted content, and scrolls when its work-area bound is reached.
-
 ## Parameters
 
 **Parameter `id`:** The stable identifier previously passed to ImGui when opening the popup.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a type-compatible selected value can be inspected by this drawer.
-
 ## Parameters
 
 **Parameter `target`:** Selected value, never mutated by this query.

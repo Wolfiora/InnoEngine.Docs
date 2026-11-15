@@ -13,5 +13,3 @@ reviewed: ca136a74d804ca0c6f721133b61b774668e07f632be93ae455d4bc8005a1da5c
 source: xml
 outdated: false
 ---
-
-Identifies the U presentation key or modifier.

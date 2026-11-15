@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a node exists.
-
 ## Parameters
 
 **Parameter `node`:** The node key.

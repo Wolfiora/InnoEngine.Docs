@@ -13,5 +13,3 @@ reviewed: 5b9979ec7898c86256b4b3201e67245f1e859260c18f1b890a6fa2ea661047b7
 source: xml
 outdated: false
 ---
-
-Gets or sets the managed build's frozen selection that publication must preserve before deployment. An empty value denotes initial preparation without a preceding managed compilation.

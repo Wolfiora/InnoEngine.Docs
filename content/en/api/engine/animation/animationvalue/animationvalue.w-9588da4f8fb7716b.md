@@ -13,5 +13,3 @@ reviewed: 639b8efa1674f9fca2d8e9a0bf21cadd5fda7560599293dea7f1686def749139
 source: xml
 outdated: false
 ---
-
-Gets or sets the fourth component.

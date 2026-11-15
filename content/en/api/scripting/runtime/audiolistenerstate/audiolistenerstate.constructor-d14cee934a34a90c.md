@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a listener transform snapshot.
-
 ## Parameters
 
 **Parameter `position`:** World-space listener position.

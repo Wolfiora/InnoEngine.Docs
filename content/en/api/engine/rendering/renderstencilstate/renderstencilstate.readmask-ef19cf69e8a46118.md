@@ -13,5 +13,3 @@ reviewed: c604e30f0c09eaa900245cb07c9b4ec89f4e98da2d2bf429e749093c32ccfa06
 source: xml
 outdated: false
 ---
-
-Gets the mask applied while reading stored stencil.

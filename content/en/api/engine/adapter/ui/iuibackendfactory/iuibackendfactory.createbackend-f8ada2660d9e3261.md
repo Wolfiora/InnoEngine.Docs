@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one caller-owned UI backend.
-
 ## Parameters
 
 **Parameter `backend`:** The selected backend implementation.

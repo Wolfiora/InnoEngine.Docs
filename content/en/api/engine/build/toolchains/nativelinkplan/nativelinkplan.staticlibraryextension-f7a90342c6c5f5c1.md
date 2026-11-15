@@ -13,5 +13,3 @@ reviewed: a26c267c749555748b1adf72229aea9bf53e2032b8149aefc04564d2a73da96c
 source: xml
 outdated: false
 ---
-
-Gets the static archive suffix, or null when static linkage is unavailable.

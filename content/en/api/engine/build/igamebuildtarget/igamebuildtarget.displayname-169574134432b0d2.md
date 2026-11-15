@@ -13,5 +13,3 @@ reviewed: 4cdd4aa1dae8f34b09e87cd047de8dd4a2cd13d3eababedb12f1eddcdf82d934
 source: xml
 outdated: false
 ---
-
-Gets the user-facing target name presented by authoring hosts.

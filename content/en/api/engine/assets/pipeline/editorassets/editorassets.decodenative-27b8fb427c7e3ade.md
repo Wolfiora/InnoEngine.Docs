@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes detached native asset bytes with the current authoring pipeline's converters and reference context.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Expected native asset type.

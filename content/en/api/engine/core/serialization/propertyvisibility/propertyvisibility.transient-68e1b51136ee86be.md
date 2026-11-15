@@ -13,5 +13,3 @@ reviewed: 40fdf21d11e0efa61903ba8eb66ee498c9692375ebcdfd8731332704ba8442fd
 source: xml
 outdated: false
 ---
-
-Does not participate in serialization or deserialization, but runtime can get/set.

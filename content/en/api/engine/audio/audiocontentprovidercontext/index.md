@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Collects one bounded, atomic provider contribution on the owning control thread.
-
 ## Remarks
 
 The host disposes this borrowed context when the provider returns. A rejected submission invalidates the entire contribution, even if the provider catches the exception. The context does not own the content scope.

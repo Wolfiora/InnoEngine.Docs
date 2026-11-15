@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the owning game object.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the component is detached or destroyed.

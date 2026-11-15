@@ -13,5 +13,3 @@ reviewed: 303c69c712548bb99ec1a1581ad29a0af644cc2b5dba39efc86ee935e13298d5
 source: xml
 outdated: false
 ---
-
-User-facing label.

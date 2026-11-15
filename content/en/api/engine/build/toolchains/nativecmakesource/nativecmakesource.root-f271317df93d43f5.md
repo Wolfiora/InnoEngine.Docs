@@ -13,5 +13,3 @@ reviewed: f3522b835a971711fa350f3788d760aaf431b951e6be4aa7cd0c37edc79abecd
 source: xml
 outdated: false
 ---
-
-Gets the isolated source root; this is neither the checkout nor an output installation directory.

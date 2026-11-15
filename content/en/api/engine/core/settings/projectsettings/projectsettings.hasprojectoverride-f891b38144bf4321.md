@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the project document explicitly contributes to one setting protocol.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting identifier.

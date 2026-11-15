@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a closed generic construction linked by the contributing assembly.
-
 ## Parameters
 
 **Parameter `type`:** A fully closed generic type whose definition is contributed by the completed catalog.

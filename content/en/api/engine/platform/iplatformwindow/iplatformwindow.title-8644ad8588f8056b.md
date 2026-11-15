@@ -13,5 +13,3 @@ reviewed: 00fb6d726e1ec1b6d59e83a7da0a98d949e07e6503e4fff932c1c458358f3ef7
 source: xml
 outdated: false
 ---
-
-Gets the title captured when the window was created.

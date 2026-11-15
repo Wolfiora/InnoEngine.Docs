@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a uniquely named directory and records its removal and restoration in shared History.
-
 ## Parameters
 
 **Parameter `parent`:** An existing writable source directory.

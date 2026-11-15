@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an immutable snapshot containing both individual occurrences and global groups.
-
 ## Returns
 
 A consistent snapshot that remains valid while new entries arrive.

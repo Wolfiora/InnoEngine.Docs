@@ -13,5 +13,3 @@ reviewed: 5da16d9a8b0af6a2e1e1cbb0068cfd495b8931a5c7959085c5e052c177f518af
 source: xml
 outdated: false
 ---
-
-Gets or sets the visible property label.

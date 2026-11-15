@@ -13,5 +13,3 @@ reviewed: c31a03a46f50cd1a8331fb7dd2b2c7aac00a36d1f65f1b2ea1c871716b2ac55d
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadDpadUp presentation key or modifier.

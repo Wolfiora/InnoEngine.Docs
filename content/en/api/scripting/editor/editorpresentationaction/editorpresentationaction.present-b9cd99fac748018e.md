@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Presents active content using strongly typed presentation data.
-
 ## Parameters
 
 **Parameter `context`:** The typed presentation request.

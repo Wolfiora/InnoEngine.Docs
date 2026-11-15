@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Safely reads the panel window-presentation policy through the active extension boundary.
-
 ## Parameters
 
 **Parameter `useWindowPadding`:** The requested padding policy, or the safe default when the panel is quarantined.

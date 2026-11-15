@@ -13,5 +13,3 @@ reviewed: 6d6a0c9eff1351dc0d186b59f94207e5864e76041cff89562f37173526c34aaf
 source: xml
 outdated: false
 ---
-
-Gets the accepted drop target type.

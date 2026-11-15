@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shortcut that can be dispatched from any focused interaction surface.
-
 ## Parameters
 
 **Parameter `key`:** The non-modifier key that triggers the action.

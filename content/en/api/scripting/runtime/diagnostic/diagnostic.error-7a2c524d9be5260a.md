@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an error diagnostic value without publishing it.
-
 ## Parameters
 
 **Parameter `code`:** The stable producer-defined code, or an empty string when no code is available.

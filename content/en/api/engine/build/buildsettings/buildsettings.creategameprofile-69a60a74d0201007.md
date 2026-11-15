@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated game profile from the current defaults.
-
 ## Parameters
 
 **Parameter `projectId`:** The authoritative project identity copied into the game profile.

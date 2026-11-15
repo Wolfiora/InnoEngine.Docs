@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated copy suitable for a temporary export draft.
-
 ## Returns
 
 A newly owned settings object.

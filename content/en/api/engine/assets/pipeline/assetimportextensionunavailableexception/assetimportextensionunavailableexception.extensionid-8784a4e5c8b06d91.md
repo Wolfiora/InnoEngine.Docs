@@ -13,5 +13,3 @@ reviewed: 22a913e2b37462b556eeb9f8473900fe8a7d4b4ce97e9eef8701d27f528fc854
 source: xml
 outdated: false
 ---
-
-Gets the required implementation's stable identity.

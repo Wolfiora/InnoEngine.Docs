@@ -13,5 +13,3 @@ reviewed: 84dff4d4c177394d9aa562c7746873c590b0d31d84fff833a7a808a96df1922e
 source: xml
 outdated: false
 ---
-
-Gets the static keyword variant.

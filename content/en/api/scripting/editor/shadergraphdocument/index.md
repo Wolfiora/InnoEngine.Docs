@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Defines the native graph document protocol shared by shader import, templates and the editor.

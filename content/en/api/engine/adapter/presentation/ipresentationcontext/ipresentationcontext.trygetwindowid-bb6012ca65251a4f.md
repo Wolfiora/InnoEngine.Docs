@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the platform window that owns a presentation viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** The presentation viewport identity.

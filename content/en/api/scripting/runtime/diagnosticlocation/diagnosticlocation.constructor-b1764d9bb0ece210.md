@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a source location.
-
 ## Parameters
 
 **Parameter `sourcePath`:** The source path associated with the diagnostic.

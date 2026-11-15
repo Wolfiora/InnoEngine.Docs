@@ -13,5 +13,3 @@ reviewed: 50ac477886fe437675067a98937ce8ed445eb3ca65840db7a7ef7f245d0b5125
 source: xml
 outdated: false
 ---
-
-Gets the element size in bytes.

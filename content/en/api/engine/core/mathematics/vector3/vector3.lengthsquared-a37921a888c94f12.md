@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the squared Euclidean magnitude without a square-root operation.
-
 ## Returns
 
 The scalar result calculated from the supplied inputs.

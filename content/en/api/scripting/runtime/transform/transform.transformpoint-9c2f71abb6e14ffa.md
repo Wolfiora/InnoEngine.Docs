@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Transforms a local-space point through the complete parent hierarchy.
-
 ## Parameters
 
 **Parameter `point`:** Point expressed in this transform's local space.

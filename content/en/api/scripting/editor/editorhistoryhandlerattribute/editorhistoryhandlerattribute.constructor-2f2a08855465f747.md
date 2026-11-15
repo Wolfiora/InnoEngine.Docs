@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a history handler registration.
-
 ## Parameters
 
 **Parameter `kind`:** The stable globally unique change protocol identifier.

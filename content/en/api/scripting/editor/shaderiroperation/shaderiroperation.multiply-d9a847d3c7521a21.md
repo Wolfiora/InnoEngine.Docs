@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Multiplies two equal numeric types component by component; this is not matrix multiplication.

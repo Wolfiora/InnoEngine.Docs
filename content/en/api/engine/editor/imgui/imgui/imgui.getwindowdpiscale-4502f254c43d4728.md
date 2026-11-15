@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the native viewport scale for the current window.
-
 ## Returns
 
 A copied value from the active presentation context.

@@ -13,5 +13,3 @@ reviewed: 842011782a6a5df0894c6230a03d9a3386fda003bdc5fb22746553162061b0cc
 source: xml
 outdated: false
 ---
-
-Shader-readable and writable storage data.

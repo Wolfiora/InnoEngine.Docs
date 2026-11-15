@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Routes platform input to the Play session only while the visible Game View owns focus.

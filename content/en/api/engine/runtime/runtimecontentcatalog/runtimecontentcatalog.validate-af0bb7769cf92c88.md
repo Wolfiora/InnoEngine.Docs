@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates content identity, file naming, snapshot identity, and counts.
-
 ## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the catalog cannot identify one complete content-addressed deployment.

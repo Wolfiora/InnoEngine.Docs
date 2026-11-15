@@ -13,5 +13,3 @@ reviewed: c15dc63167401f4eb930a648b4318ebe3dc6f65008ea7c002fdac266a6350176
 source: xml
 outdated: false
 ---
-
-Gets the managed drop target.

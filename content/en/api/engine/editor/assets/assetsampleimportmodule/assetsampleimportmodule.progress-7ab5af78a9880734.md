@@ -13,5 +13,3 @@ reviewed: 371e156111cfa0cc17e584728a155a8fa6860a9a7c05e0c3b8f61aec06af8cd9
 source: xml
 outdated: false
 ---
-
-Gets a complete immutable progress snapshot under the existing owner lock.

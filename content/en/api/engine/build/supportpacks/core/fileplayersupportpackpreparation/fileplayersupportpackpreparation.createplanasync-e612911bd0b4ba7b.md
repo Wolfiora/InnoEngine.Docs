@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves tools and validates required source inputs before any staging exists.
-
 ## Parameters
 
 **Parameter `context`:** The read-only source checkout and explicitly selected managed host.

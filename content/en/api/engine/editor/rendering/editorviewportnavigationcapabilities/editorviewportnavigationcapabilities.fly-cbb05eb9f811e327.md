@@ -13,5 +13,3 @@ reviewed: 594cc42a381a30c63fc6ebf625cdb8495d8f44743d69dc86c3ab1da22e09f8d5
 source: xml
 outdated: false
 ---
-
-Allows free-look movement.

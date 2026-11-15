@@ -13,5 +13,3 @@ reviewed: f05ef87e90f7bb51067ea8be3f0351bb43b9ba156f3e10f31aca7c87baaf7ebe
 source: xml
 outdated: false
 ---
-
-Gets disabled card text.

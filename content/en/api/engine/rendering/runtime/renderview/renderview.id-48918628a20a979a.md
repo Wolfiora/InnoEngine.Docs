@@ -13,5 +13,3 @@ reviewed: 93d61bc45d5417866a7646016bb4c276f2e0375e276e7858dbf41e26501c0a98
 source: xml
 outdated: false
 ---
-
-Gets the view identity within its output session.

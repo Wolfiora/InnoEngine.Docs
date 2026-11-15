@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Marks a reloadable provider that converts host content into immutable audio snapshots.

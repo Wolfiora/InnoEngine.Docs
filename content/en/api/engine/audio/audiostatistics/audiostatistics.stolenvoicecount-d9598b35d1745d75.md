@@ -13,5 +13,3 @@ reviewed: d566c106141cb0f3c75be95634da5c6fd5aa6f7072c2452f3abf7672071d7d3a
 source: xml
 outdated: false
 ---
-
-Gets voices reclaimed since runtime creation.

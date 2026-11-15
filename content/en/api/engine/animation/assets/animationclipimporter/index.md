@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation-assets#import-and-export-contract
 aliases: []
 ---
-
-Imports and exports structured `.ianim` animation clip sources.

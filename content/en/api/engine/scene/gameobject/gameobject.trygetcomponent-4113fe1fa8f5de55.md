@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the first attached component assignable to the requested type.
-
 ## Type parameters
 
 **Type parameter `TComponent`:** Requested component type.

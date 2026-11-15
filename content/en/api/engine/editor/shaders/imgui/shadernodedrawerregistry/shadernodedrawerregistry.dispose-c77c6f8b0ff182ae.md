@@ -13,5 +13,3 @@ reviewed: 7a87034d0e3a4579d8c5209ae8116c4af8301bf63e7e0a5683ba21190a8b07de
 source: xml
 outdated: false
 ---
-
-Retires the current presentation providers through the shared lifecycle.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a read-only runtime asset database from one verified immutable content store.
-
 ## Parameters
 
 **Parameter `content`:** The borrowed content store; its owner closes it after this database and all outstanding reads retire.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects unsupported target and deployment pairs before any staging or publication begins.
-
 ## Parameters
 
 **Parameter `target`:** A target composed by this distribution.

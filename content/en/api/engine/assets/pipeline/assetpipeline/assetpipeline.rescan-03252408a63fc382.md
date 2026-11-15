@@ -13,5 +13,3 @@ reviewed: 3cfa279cfcf7ffe62739bcf1f232b84ffc7442b1dffa6e4058429803ef6ba481
 source: xml
 outdated: false
 ---
-
-Reconciles source files, generated files and the persistent catalog.

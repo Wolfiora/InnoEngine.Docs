@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Carries generation-scoped, frame-only payloads between a request producer and its pipeline.
-
 ## Remarks
 
 Values may use reloadable plugin types because a snapshot is retained only until the owning render frame completes. Persistent configuration must use stable identifiers and serialized bytes.

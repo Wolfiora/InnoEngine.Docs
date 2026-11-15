@@ -13,5 +13,3 @@ reviewed: 6bf8d6b5cfaafa231b354413398ec8a3b3e7fd355353d317c7b52c0065f6c416
 source: xml
 outdated: false
 ---
-
-Gets the up right and down left from center glyph used by standard Editor controls.

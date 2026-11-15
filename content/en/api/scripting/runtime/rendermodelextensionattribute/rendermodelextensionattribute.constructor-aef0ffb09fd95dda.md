@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a model declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable model identity.

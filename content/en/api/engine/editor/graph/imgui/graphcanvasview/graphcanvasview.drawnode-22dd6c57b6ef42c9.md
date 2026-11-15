@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a visible neutral node and its ports, borrowing optional content only for this call.
-
 ## Parameters
 
 **Parameter `draw`:** The current window's frame-local drawing borrow; it is neither retained nor released by this call.

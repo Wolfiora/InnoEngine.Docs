@@ -13,5 +13,3 @@ reviewed: 526c28d414a54eddd24ce5b514a646d61ccabc4c60c21799d151bb6132020859
 source: xml
 outdated: false
 ---
-
-Gets the immutable owned assembly set.

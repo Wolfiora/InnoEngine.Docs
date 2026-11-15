@@ -13,5 +13,3 @@ reviewed: 0b6006af4b6768f108c1c78650cb5a9a8e25a7f33ac69f38962e06fd63af8eee
 source: xml
 outdated: false
 ---
-
-Allow resize from bottom border (layout direction). "

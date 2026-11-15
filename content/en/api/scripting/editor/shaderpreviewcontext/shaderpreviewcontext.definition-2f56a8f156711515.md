@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the candidate's exact contract, not the latest uncompiled source interface.

@@ -13,5 +13,3 @@ reviewed: faf76e1f1185c0b84624f05c1a6645fd5399aaec1dc333aaac8df3cb1ec04a65
 source: xml
 outdated: false
 ---
-
-Gets deterministic compilation diagnostics.

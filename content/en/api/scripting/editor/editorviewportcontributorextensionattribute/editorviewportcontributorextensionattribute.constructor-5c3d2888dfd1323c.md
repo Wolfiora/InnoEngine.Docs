@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a viewport contributor declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable contributor identity.

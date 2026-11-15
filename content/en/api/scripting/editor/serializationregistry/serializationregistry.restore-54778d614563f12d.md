@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores deterministic binary data into an existing serializable root object.
-
 ## Type parameters
 
 **Type parameter `T`:** The declared target contract.

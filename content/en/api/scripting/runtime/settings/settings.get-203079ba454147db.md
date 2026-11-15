@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets an isolated effective setting from the current extension generation.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** The required setting contract.

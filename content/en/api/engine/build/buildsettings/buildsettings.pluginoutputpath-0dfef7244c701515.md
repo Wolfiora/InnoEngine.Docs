@@ -13,5 +13,3 @@ reviewed: d9acf0a5fcc1a9e2209fd6de3225b48f8fc8fb21379cfbb396311b18cee9dae5
 source: xml
 outdated: false
 ---
-
-Gets or sets the default Plugin package destination, relative to the project root or absolute.

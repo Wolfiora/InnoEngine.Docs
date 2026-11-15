@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders
 aliases: []
 ---
-
-Owns Material authoring sessions; native source editing uses the shared asset draft lifecycle.

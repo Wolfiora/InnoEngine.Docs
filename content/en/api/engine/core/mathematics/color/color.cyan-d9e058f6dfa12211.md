@@ -13,5 +13,3 @@ reviewed: f7f9430f9701861759f7574f64337489a01765ebd575165ee96b5e24be0f54ef
 source: xml
 outdated: false
 ---
-
-The cyan value used as part of this type's public representation.

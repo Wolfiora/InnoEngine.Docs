@@ -13,5 +13,3 @@ reviewed: 08d7241b6b676774ee73180c06224a2515ba9e6cf79ec8dd8efe450779b7793a
 source: xml
 outdated: false
 ---
-
-Gets root bindings whose identities are local to this component.

@@ -13,5 +13,3 @@ reviewed: a7fd8cb24f07254afe08911ab325c04f28338de8e0f9f93b5720155eb3ef6382
 source: xml
 outdated: false
 ---
-
-Gets whether an import still owns validation or publication work.

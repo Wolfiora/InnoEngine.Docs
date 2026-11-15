@@ -13,5 +13,3 @@ reviewed: 8e8742f5e9e8253d07c3262a3f0555b735c9be5d3e8f0ed0392bfe1b626619c5
 source: xml
 outdated: false
 ---
-
-The pointer button began a gesture.

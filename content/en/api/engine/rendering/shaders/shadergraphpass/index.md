@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Freezes the graph-lowered stages of one material-selectable GPU pass.

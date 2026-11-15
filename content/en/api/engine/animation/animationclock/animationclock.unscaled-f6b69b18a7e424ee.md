@@ -13,5 +13,3 @@ reviewed: 5b0eb75b638db31be9491a21e3b857d6e84a54d16ec6d2f3df22aade76a50853
 source: xml
 outdated: false
 ---
-
-Uses unscaled session time and continues while simulation is paused.

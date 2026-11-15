@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes normalized geometry into the immutable runtime artifact layout.
-
 ## Parameters
 
 **Parameter `data`:** The normalized vertices, indices, and sections to encode.

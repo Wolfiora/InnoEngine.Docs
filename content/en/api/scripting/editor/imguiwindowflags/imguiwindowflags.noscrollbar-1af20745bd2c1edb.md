@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable scrollbars (window can still scroll with mouse or programmatically)

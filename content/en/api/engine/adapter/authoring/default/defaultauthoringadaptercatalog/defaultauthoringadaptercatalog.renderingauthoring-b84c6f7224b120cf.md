@@ -13,5 +13,3 @@ reviewed: 732d76a332b5f2fabfbf1256eca551a489d9d2b799e40bbb8fd666fe2950d6f8
 source: xml
 outdated: false
 ---
-
-Gets the built-in rendering authoring toolchain factory.

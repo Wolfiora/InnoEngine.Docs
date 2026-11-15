@@ -13,5 +13,3 @@ reviewed: 9ede07b6d1bb4df938cedf563b646091c605e8d17ef1972c6afaed05495db813
 source: xml
 outdated: false
 ---
-
-Gets whether the connection originates from a prefab variant.

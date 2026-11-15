@@ -13,5 +13,3 @@ reviewed: 3d63d5690096a0dad696fe4b40a754eca3737f03af61f698f0b714f40352f4e5
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: \_display\_ values formatted as 0..255.

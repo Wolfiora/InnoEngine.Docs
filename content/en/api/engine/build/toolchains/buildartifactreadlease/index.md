@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Pins a verified immutable build artifact against cooperating repair and retirement operations.

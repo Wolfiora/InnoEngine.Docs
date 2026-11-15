@@ -13,5 +13,3 @@ reviewed: 46e13b7ad219069ce7737c514b4f6e236f5887d956632e8fbbdaeb388dcd1b55
 source: xml
 outdated: false
 ---
-
-Gets the optional BCP 47 language code.

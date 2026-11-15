@@ -13,5 +13,3 @@ reviewed: 69bdedd2599e8d705b10e12347256df2d1bdde2072079724b0a322d14cd769db
 source: xml
 outdated: false
 ---
-
-A disposable Editor play-test session created from an immutable start snapshot.

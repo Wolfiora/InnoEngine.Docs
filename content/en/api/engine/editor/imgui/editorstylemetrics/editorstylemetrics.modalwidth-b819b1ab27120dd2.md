@@ -13,5 +13,3 @@ reviewed: c594949a297ade801bca010aba594fff59a43874a789da90f5ae0746e6fdd444
 source: xml
 outdated: false
 ---
-
-Gets the standard centered modal width.

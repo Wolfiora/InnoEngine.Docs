@@ -13,5 +13,3 @@ reviewed: 6185a975c9159e2a1fef87404f429f93c601acb71420c5d73dc2e4c731c658e7
 source: xml
 outdated: false
 ---
-
-Gets whether Plugin packages may contribute values to this protocol.

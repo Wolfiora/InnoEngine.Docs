@@ -13,5 +13,3 @@ reviewed: adb43e92ad3c106f44695e103ef2e7f51d95286533d50db0a4151ba1e700df03
 source: xml
 outdated: false
 ---
-
-Gets the canonical static keyword selection.

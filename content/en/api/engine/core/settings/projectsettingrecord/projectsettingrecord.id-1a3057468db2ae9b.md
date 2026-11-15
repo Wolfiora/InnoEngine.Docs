@@ -13,5 +13,3 @@ reviewed: 1ed4d2f67485987857bdada887e140f97b58b0a28047167d7f2d0ddc5537fd18
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable setting identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects missing selected inputs, undeclared native groups and invalid deployment metadata.
-
 ## Parameters
 
 **Parameter `directory`:** The complete Pack directory whose content manifest is independently verified by its publisher.

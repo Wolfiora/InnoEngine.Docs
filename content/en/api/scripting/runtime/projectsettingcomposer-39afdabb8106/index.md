@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Lets one setting protocol define deterministic delta capture and multi-contributor composition.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** The exact effective setting type.

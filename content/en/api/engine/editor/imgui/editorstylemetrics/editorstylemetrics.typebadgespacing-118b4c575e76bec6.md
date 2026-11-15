@@ -13,5 +13,3 @@ reviewed: 3e2e6861fd9a21b04671d0cbe58854578c2333ad9e2395a7a18702290caa6e8f
 source: xml
 outdated: false
 ---
-
-Gets the horizontal gap between a property name and its type badge.

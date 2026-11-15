@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether one type catalog currently resolves this reference.
-
 ## Parameters
 
 **Parameter `catalog`:** The catalog whose active immutable generation should be queried.

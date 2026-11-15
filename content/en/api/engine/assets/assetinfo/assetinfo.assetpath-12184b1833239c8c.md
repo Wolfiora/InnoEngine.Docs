@@ -13,5 +13,3 @@ reviewed: 801dd8143f2eae4cc6893e6a79437f89f454b3ca3f0e176b5481f1f5959b6d27
 source: xml
 outdated: false
 ---
-
-Gets the current isolated source path.

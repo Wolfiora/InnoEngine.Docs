@@ -13,5 +13,3 @@ reviewed: 0cc462e94d6cbee3d4568247e172fac425d457178c3b709bd08852b79405edd4
 source: xml
 outdated: false
 ---
-
-Four normalized signed 16-bit components.

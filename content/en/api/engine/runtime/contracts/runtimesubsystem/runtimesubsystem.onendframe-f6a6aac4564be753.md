@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finalizes control-thread frame state before execution bindings are revoked.
-
 ## Parameters
 
 **Parameter `frame`:** The frame being closed.

@@ -13,5 +13,3 @@ reviewed: 5a2b1e4505945e05f9f5dc22c14c5fc7a31baf6f6685982da45498ab9fbc6250
 source: xml
 outdated: false
 ---
-
-The elapsed frame time in seconds.

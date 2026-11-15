@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the currently active converter generation for deterministic work that may cross asynchronous continuations.
-
 ## Returns
 
 An immutable serialization generation owned by the caller.

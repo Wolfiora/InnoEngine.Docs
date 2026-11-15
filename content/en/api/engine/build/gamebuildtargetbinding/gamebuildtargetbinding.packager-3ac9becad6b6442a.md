@@ -13,5 +13,3 @@ reviewed: 027dfae72459b296b5129d380580bbcbbf03bb50f44ec4b8a756b79e4565e92b
 source: xml
 outdated: false
 ---
-
-Gets the platform implementation responsible for layout and Support Pack validation.

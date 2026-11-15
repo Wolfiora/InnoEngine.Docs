@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a named output from the current artifact bundle.
-
 ## Parameters
 
 **Parameter `persistentId`:** The stable persistent identity used for lookup.

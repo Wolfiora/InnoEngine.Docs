@@ -13,5 +13,3 @@ reviewed: 263c35b53f0926df709d986df96fcb8dc17e2db16f90c77856e41327f6f6b8dd
 source: xml
 outdated: false
 ---
-
-Shader-readable or writable storage texture.

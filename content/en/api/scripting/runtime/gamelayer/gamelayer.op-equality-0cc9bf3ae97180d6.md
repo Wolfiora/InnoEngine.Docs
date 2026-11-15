@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two layer identifiers contain the same index.
-
 ## Parameters
 
 **Parameter `left`:** The first layer identifier.

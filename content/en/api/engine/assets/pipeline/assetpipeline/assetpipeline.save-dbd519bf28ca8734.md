@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves an asset to a writable isolated source path, preserving the destination source identity when it exists.
-
 ## Parameters
 
 **Parameter `path`:** Writable isolated source path.

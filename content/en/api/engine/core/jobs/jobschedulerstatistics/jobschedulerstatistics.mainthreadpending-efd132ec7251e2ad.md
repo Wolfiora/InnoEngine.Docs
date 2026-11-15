@@ -13,5 +13,3 @@ reviewed: 07bb032b6b7dd5379364a79b6be1af0a84fdb956c225b32dbb854a41b4de95c5
 source: xml
 outdated: false
 ---
-
-Gets queued or retirement-pending owner-thread callbacks.

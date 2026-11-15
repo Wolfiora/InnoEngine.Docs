@@ -13,5 +13,3 @@ reviewed: 77372787fcb141dca06cbac0d0f70c1ef63435dd8e2ae6edea6f982f378d3aab
 source: xml
 outdated: false
 ---
-
-Gets vertical addressing.

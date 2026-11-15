@@ -13,5 +13,3 @@ reviewed: 64acd6831dc9f5a649bb763ca55bb168fe96c4805945711e793ba3ff2c8db65a
 source: xml
 outdated: false
 ---
-
-Gets the declared execution host without selecting a product target.

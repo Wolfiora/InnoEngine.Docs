@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts one clip with the runtime's default playback policy.
-
 ## Parameters
 
 **Parameter `clip`:** Valid clip to sample until completion or explicit stop.

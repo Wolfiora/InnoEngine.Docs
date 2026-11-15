@@ -13,5 +13,3 @@ reviewed: a1f15bf4478fb0120b0c1ba6927c5cf9d76c0e9e2e8920ff2eed20125be86a30
 source: xml
 outdated: false
 ---
-
-Style the child window like a framed item: use FrameBg, FrameRounding, FrameBorderSize, FramePadding instead of ChildBg, ChildRounding, ChildBorderSize, WindowPadding.

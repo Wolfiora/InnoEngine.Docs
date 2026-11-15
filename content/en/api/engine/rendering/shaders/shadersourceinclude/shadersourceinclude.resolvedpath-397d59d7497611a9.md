@@ -13,5 +13,3 @@ reviewed: cabee7711443522317004c70bfb0c6702245d3ea0f00486eb756c66d02075dc2
 source: xml
 outdated: false
 ---
-
-Exact source identity within the frozen file set.

@@ -13,5 +13,3 @@ reviewed: 31d94d0d43a567fd7d0df3810173f901ae742a48e18a14749a5c84fb97dec9cd
 source: xml
 outdated: false
 ---
-
-Gets the dependency-ordered active Plugin generation.

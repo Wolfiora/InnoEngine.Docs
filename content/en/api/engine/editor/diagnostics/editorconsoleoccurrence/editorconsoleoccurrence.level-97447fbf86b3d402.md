@@ -13,5 +13,3 @@ reviewed: 2658072be5f0d77e01ed98f55a98d2d55dd2e4a14f18688f94b3805719cdefd9
 source: xml
 outdated: false
 ---
-
-Gets the normalized Console severity.

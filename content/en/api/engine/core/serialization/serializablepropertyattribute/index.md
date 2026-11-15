@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Declares a field or property as participating in `T:Inno.Core.Serialization.ISerializable` property persistence.
-
 ## Remarks
 
 The default visibility is `F:Inno.Core.Serialization.PropertyVisibility.Show`.

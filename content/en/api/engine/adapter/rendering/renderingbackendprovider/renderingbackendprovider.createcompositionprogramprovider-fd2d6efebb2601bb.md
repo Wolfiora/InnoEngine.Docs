@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the backend-owned program provider used when the host composites render layers.
-
 ## Returns
 
 A provider compatible with devices created by this rendering implementation.

@@ -13,5 +13,3 @@ reviewed: ed3ea9745612c749efea31f445bc39e905f83bcceeece90f5e8db81505a36408
 source: xml
 outdated: false
 ---
-
-Selects the display rgb presentation behavior.

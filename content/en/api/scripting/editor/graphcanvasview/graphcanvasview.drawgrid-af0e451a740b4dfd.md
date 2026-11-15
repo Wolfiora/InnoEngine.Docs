@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a bounded graph-space grid through the current UI drawing context.
-
 ## Parameters
 
 **Parameter `color`:** The packed presentation color.

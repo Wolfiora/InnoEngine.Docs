@@ -13,5 +13,3 @@ reviewed: 374f1a2f34134cdcdc3ff435bbf5759e6655f67b56491fae93bc40a0087c8209
 source: xml
 outdated: false
 ---
-
-Begins an item group.

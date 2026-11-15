@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Stores only stable, reload-safe document identity and provider-owned draft parameters.

@@ -13,5 +13,3 @@ reviewed: 91275b1376b7357ebb5bd8aae9591599ccddd14862067329466523f564849ad0
 source: xml
 outdated: false
 ---
-
-Callback on pressing TAB (for completion handling)

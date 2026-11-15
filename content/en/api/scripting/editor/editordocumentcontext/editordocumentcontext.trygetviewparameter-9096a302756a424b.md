@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one stable view parameter.
-
 ## Parameters
 
 **Parameter `key`:** Stable provider-local parameter name.

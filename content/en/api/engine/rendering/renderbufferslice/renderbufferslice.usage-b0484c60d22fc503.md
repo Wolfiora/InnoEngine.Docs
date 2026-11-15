@@ -13,5 +13,3 @@ reviewed: 64d9b4cdbad25a88236a0cf5ae61d8edb05232cb1050cf2d77b6be66bca5f349
 source: xml
 outdated: false
 ---
-
-Gets permitted GPU uses for this slice.

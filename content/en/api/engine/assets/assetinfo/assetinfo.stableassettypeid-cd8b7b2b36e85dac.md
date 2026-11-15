@@ -13,5 +13,3 @@ reviewed: 940bb09d40b4b97ad73fa2d83cec5af0df718ef45231b08532b1a6aa6bcda3b1
 source: xml
 outdated: false
 ---
-
-Gets the stable imported asset type identity.

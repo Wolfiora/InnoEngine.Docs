@@ -13,5 +13,3 @@ reviewed: 19c39101f3c9cf2b3e7c9bd787dadea902f9dcf6eb66032e3a2e6d28db97daa4
 source: xml
 outdated: false
 ---
-
-Gets the symbol shown while the action is not checked.

@@ -13,5 +13,3 @@ reviewed: 1097f28b40065b17d23ac8c3525b03461390156a8094fd31f8fd36d3c6624a61
 source: xml
 outdated: false
 ---
-
-Gets the explicitly selected native ABI.

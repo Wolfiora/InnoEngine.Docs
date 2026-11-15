@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Scopes one component's explicit product configuration without changing the frozen SDK.
-
 ## Parameters
 
 **Parameter `component`:** The sole source and intermediate owner receiving the configuration.

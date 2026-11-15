@@ -13,5 +13,3 @@ reviewed: fb3767eea460c419d13e31ca677ac6a0f81ec028dd698212559ea4cd2b170b4c
 source: xml
 outdated: false
 ---
-
-Provides a typed iteration index or loop-carried value inside a nested region.

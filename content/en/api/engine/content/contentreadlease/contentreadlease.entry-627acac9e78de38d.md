@@ -13,5 +13,3 @@ reviewed: 9d825361e7ae7272bd61cc43b948bb6a6fe35b330ae3dd9738a2ec0aec603fad
 source: xml
 outdated: false
 ---
-
-Gets the immutable metadata, which does not retain a source or extension generation.

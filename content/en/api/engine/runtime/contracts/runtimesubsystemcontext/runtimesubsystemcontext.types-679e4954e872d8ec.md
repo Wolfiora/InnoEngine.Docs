@@ -13,5 +13,3 @@ reviewed: 71c973998cdb2671e1eef1681d3d891da3df2dbeb5874282342a7f98bbfb941d
 source: xml
 outdated: false
 ---
-
-Gets the current foundation type catalog.

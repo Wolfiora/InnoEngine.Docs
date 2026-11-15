@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Resolves presentation providers from one immutable, composition-owned registration snapshot.

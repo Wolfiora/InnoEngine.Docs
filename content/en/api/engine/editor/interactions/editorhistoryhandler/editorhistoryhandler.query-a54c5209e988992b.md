@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a neutral change can currently transition in the requested direction.
-
 ## Parameters
 
 **Parameter `context`:** The current-generation editor services.

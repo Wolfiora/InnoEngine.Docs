@@ -13,5 +13,3 @@ reviewed: 6a9ae117fd3ae13c023273b93adc6acb18056d68161f17e59affaf11332a3df5
 source: xml
 outdated: false
 ---
-
-Unregisters every document identity so issued controllers cannot resolve retired sessions.

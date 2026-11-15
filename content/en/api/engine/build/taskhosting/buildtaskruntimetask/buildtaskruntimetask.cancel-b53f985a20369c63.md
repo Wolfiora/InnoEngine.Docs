@@ -13,5 +13,3 @@ reviewed: b19e89527c4b258c25c89c0a6d9072f1861b41fef278675253279d54a860ba36
 source: xml
 outdated: false
 ---
-
-Cancels an ownership wait without racing retirement of the cancellation source.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retires previous objects after irreversible publication and releases every completed domain owner.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Application is incomplete or the caller is not the owner thread.

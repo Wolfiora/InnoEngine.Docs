@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the exact local-to-world matrix, including the complete parent hierarchy.

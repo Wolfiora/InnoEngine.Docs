@@ -13,5 +13,3 @@ reviewed: 25150263d07a6f4cba824b18fcc139e06f83d522d7c73fe5fcd740ebd8222c34
 source: xml
 outdated: false
 ---
-
-Identifies the Insert presentation key or modifier.

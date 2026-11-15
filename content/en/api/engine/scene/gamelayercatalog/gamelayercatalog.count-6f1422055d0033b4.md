@@ -13,5 +13,3 @@ reviewed: 38ac62ee9b9f7e824d868a73a713bd8dc96817044a3fcafe0f79b5d9600f434c
 source: xml
 outdated: false
 ---
-
-Gets the number of currently named layer slots.

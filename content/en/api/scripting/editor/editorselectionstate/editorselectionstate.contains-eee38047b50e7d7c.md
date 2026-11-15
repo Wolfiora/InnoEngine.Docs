@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks membership by the target's owning identity domain and generation.
-
 ## Parameters
 
 **Parameter `target`:** The immediate target to inspect.

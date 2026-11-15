@@ -13,5 +13,3 @@ reviewed: bddb1f30e4ce7a1bfa4e64292e0991d8dab4583181e432d642b56e15ac78cd46
 source: xml
 outdated: false
 ---
-
-Gets the stencil clear value.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---
-
-Binds application storage to the current asynchronous execution context.

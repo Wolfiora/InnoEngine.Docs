@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Activates a validated logical code deployment through the common module transaction boundary.

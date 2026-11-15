@@ -13,5 +13,3 @@ reviewed: 1f13df2956954c47e9092fbb62e63e4ca73230426386032141b198628d578608
 source: xml
 outdated: false
 ---
-
-Gets the linear clear color for a presentation target.

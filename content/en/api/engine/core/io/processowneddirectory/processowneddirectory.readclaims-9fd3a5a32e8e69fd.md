@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads only current explicit claims, without inferring ownership from arbitrary directory names.
-
 ## Parameters
 
 **Parameter `root`:** The producer-controlled absolute root.

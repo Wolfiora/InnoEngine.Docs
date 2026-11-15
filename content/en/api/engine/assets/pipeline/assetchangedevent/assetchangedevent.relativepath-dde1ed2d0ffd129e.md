@@ -13,5 +13,3 @@ reviewed: a361c88a9b1d4ead5a24c0957d30119ea14b7eb7761887aa640e13c5d40fcc59
 source: xml
 outdated: false
 ---
-
-Changed path relative to watched root.

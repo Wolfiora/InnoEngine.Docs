@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures execution policy and its implementation inputs.
-
 ## Parameters
 
 **Parameter `workspaces`:** The host's scoped execution path provider.

@@ -13,5 +13,3 @@ reviewed: be91a8fb675375c3d565069aab19cd81dcd08cf46dae07e6f2809ad00c32c09d
 source: xml
 outdated: false
 ---
-
-Requests one complete host frame on the event-pump thread while the operating system owns a modal window resize loop. Handlers must not poll events or reenter an active frame.

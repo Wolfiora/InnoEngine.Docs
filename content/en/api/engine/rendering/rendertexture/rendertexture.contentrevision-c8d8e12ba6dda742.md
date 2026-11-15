@@ -13,5 +13,3 @@ reviewed: 9551d13cc47b2408ca1878c220d6b9cc04a5a8dee180f22a53b6bcf660c079fe
 source: xml
 outdated: false
 ---
-
-Gets a counter incremented whenever the descriptor changes.

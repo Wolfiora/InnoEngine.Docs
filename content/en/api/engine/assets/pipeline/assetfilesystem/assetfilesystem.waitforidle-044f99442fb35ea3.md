@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits for a quiet watcher window, refreshes the index, and returns queued changes.
-
 ## Returns
 
 An immutable snapshot of the values selected by the operation.

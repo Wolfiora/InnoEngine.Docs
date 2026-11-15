@@ -13,5 +13,3 @@ reviewed: 7ca4ec7469cd36ad7d3f33be0052ad60fb36d591691a56ce301b14a31972b4d1
 source: xml
 outdated: false
 ---
-
-Gets the explicit SDK resolver for this target.

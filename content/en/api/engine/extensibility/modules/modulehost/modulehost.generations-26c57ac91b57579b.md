@@ -13,5 +13,3 @@ reviewed: ab160be109d0dff7f796168631e478bea4483dbd05c7613d8956ba5d4e9cfc56
 source: xml
 outdated: false
 ---
-
-Gets the admission gate and retirement owner shared by all module and host generation changes.

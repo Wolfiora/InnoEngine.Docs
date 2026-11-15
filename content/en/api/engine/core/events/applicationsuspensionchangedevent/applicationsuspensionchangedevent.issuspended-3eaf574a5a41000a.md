@@ -13,5 +13,3 @@ reviewed: f36e313bdec7d113a6e1ce94afa15ae31737cee13c84e988fd11be708553ea4b
 source: xml
 outdated: false
 ---
-
-Gets whether application execution is suspended after this notification.

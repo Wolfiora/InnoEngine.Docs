@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a backend voice completion record.
-
 ## Parameters
 
 **Parameter `voice`:** Voice that reached a terminal state.

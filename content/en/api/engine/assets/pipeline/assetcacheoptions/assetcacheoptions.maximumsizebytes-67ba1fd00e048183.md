@@ -13,5 +13,3 @@ reviewed: f42e470adb6b656c5a0620dc17a797186ef19bc9666440dbb12339be7246f724
 source: xml
 outdated: false
 ---
-
-Gets the maximum artifact cache size in bytes, or zero for no size limit.

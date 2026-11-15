@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers assemblies owned by an external load context.
-
 ## Parameters
 
 **Parameter `moduleName`:** The module name text validated by the register operation.

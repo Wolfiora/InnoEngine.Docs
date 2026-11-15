@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Closes one document using an explicit dirty-document decision.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable tab identity.

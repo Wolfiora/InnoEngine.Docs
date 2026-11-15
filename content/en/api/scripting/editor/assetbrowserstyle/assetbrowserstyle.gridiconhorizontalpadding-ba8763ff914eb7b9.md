@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the horizontal inset that constrains an asset grid icon inside its card.

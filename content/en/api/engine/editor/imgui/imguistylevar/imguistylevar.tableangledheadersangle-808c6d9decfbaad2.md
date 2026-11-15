@@ -13,5 +13,3 @@ reviewed: f09fb2a1ac409fae0ff266b6cb2c6aec1802deaa66e483a223a498ca4aad301b
 source: xml
 outdated: false
 ---
-
-Selects the table angled headers angle presentation behavior.

@@ -13,5 +13,3 @@ reviewed: 59db3779e3e7c50a7c7c4464d35490424bac851b3bc1036ff45866545067cf91
 source: xml
 outdated: false
 ---
-
-Detaches this service and releases its subscriptions.

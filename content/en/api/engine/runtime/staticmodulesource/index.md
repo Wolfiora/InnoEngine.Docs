@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Contributes statically linked module code to the same catalog transactions used by authoring hosts.

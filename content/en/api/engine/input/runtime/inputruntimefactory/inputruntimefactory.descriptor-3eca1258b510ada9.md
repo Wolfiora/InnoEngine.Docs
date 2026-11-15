@@ -13,5 +13,3 @@ reviewed: 804a541874e5ef3cc04ce80468a7f18d447a698caf66ed159cf0af4a3c9184ea
 source: xml
 outdated: false
 ---
-
-Gets stable ordering metadata for the frame-scoped input service.

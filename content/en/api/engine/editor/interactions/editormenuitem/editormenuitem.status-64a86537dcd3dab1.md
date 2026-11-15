@@ -13,5 +13,3 @@ reviewed: 8f2dce60465e2d07455c709537fbb1522101c72227907ffe84694d4d9bdace39
 source: xml
 outdated: false
 ---
-
-Gets the current command presentation state.

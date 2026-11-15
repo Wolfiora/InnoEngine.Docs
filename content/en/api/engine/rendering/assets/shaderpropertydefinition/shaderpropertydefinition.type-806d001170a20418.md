@@ -13,5 +13,3 @@ reviewed: 14aabf0373cedcade60bfd233c33922cf49a6262176cb27d49822cf6fd9108bf
 source: xml
 outdated: false
 ---
-
-Gets or sets the property type.

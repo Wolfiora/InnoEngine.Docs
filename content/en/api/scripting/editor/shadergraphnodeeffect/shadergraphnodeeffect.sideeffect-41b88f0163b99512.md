@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The function may contain ordered GPU effects and can intentionally expose no returned values.

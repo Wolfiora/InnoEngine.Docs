@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pauses a live or preparing voice.
-
 ## Parameters
 
 **Parameter `voice`:** Runtime voice handle to pause.

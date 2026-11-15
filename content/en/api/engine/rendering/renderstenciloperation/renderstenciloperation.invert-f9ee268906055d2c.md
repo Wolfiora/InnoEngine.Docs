@@ -13,5 +13,3 @@ reviewed: f3d2c2d9da6e6ce500443ff2f377bdca05c8463f0581383491a69ab9f7c09623
 source: xml
 outdated: false
 ---
-
-Bitwise-inverts the stored value.

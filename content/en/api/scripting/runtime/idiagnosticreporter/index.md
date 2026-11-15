@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Publishes current issues through an owner-bound producer, independently of presentation sinks.

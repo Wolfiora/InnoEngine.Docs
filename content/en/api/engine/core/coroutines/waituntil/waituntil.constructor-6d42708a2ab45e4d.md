@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits until the predicate returns `true`.
-
 ## Parameters
 
 **Parameter `predicate`:** The predicate used to initialize this instance.

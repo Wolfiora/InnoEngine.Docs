@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes the selected product without inspecting its target identity.
-
 ## Parameters
 
 **Parameter `context`:** The operation with frozen tools and binding configuration.

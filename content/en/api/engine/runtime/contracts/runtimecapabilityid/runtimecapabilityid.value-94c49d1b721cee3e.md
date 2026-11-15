@@ -13,5 +13,3 @@ reviewed: b6d8f60b27d823efb8c5d76c791fcdb43a5ace5ec0636a0c6be8413314ac21b6
 source: xml
 outdated: false
 ---
-
-Gets the stable capability name, without interpreting it as a backend name.

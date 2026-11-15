@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the lowest severity accepted by this router.
-
 ## Parameters
 
 **Parameter `level`:** The minimum dispatched severity.

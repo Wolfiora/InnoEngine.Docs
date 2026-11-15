@@ -13,5 +13,3 @@ reviewed: d7c5e7290665b43bf4c5c3865de5bed08450886c8e444fc7d5a75466c7850d18
 source: xml
 outdated: false
 ---
-
-Selects the drag drop target bg presentation behavior.

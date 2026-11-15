@@ -13,5 +13,3 @@ reviewed: 898ff81e087a6f1db75074873cd5de1e703ca4300fea9c8a374c22f77be55319
 source: xml
 outdated: false
 ---
-
-Gets the declared value type represented by this reader.

@@ -13,5 +13,3 @@ reviewed: a19926e9ae885cb73e4fa59604784fbfecdabf32b579eacbddc28773f547a12f
 source: xml
 outdated: false
 ---
-
-Gets whether graphics commands must execute on the frame owner's thread.

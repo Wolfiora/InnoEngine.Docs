@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts retirement once at an owner-thread safe point.
-
 ## Parameters
 
 **Parameter `retire`:** The owner's retryable retirement operation; the barrier never retains this delegate.

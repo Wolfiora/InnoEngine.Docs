@@ -13,5 +13,3 @@ reviewed: e6f7378c6d01deefb1d629a9a1c25f7dc1177b57efccfe1730c8ad60fbac5e74
 source: xml
 outdated: false
 ---
-
-Cancels active gesture state and deactivates the tool.

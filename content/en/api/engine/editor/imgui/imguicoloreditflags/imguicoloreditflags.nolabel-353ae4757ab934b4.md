@@ -13,5 +13,3 @@ reviewed: 547cab6a7eee2af03d2d938b277bfcee6a75f44ecdd22f81f3e5d7fde53601de
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: disable display of inline text label (the label is still forwarded to the tooltip and picker).

@@ -13,5 +13,3 @@ reviewed: fae6896d3a68f72ca02e9118eaf9bcefecf286398df3a8084f8337e6956cdcb4
 source: xml
 outdated: false
 ---
-
-Gets the portable Pack-relative native deployment root.

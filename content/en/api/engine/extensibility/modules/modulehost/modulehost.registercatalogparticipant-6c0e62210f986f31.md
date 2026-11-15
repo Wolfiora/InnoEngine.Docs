@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a transactional consumer of the assembly catalog and initializes it from the currently active generation.
-
 ## Parameters
 
 **Parameter `participant`:** The participant that derives state from catalog snapshots.

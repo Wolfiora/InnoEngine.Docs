@@ -13,5 +13,3 @@ reviewed: daadf8af4dbc8b6a0135e05e4a58b1ae7525ae872eab96292a8a89dbee9aeac2
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic that faulted this history, or `null`.

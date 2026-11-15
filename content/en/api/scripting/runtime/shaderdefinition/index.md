@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Contains the source-of-truth definition shared by shader import and material tooling.

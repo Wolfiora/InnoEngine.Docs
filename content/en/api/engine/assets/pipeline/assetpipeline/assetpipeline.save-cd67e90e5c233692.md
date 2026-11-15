@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves an asset to its current source path.
-
 ## Parameters
 
 **Parameter `asset`:** The asset to save.

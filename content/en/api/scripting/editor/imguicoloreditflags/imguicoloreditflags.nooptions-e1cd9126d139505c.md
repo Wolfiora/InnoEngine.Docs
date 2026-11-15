@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable toggling options menu when right-clicking on inputs/small preview.

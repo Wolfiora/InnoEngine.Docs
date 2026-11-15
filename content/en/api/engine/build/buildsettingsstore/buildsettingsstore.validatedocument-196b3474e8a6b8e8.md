@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a native build settings document without changing the active file.
-
 ## Parameters
 
 **Parameter `document`:** The document payload to inspect.

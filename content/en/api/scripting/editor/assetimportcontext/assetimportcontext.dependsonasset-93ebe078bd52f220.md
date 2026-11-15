@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a direct runtime dependency by isolated source path.
-
 ## Parameters
 
 **Parameter `path`:** The isolated dependency path.

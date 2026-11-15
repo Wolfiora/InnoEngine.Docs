@@ -13,5 +13,3 @@ reviewed: 800648dec5e8d04210b88b4a6bf29179723e529beb7f10654d4d2df0764dc2c3
 source: xml
 outdated: false
 ---
-
-Gets whether the change set contains no changes.

@@ -13,5 +13,3 @@ reviewed: 15cfb890d514c8c401f865faf4afc00ec8787579c97f16f085ff12c6748a7095
 source: xml
 outdated: false
 ---
-
-The U letter key.

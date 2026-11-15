@@ -13,5 +13,3 @@ reviewed: c47fb3292bf2ce0dfda26ebafb52a9bc5313414a03a6784dc9f166bde0d081a4
 source: xml
 outdated: false
 ---
-
-Gets the horizontal hit width of an asset list column separator.

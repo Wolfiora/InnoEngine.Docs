@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Bounds device-side resource admission independently of the Runtime's smaller gameplay voice budget.

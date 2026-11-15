@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph validation result.
-
 ## Parameters
 
 **Parameter `diagnostics`:** Diagnostics in deterministic validation order.

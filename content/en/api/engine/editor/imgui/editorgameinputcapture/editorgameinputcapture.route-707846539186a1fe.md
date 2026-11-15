@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Filters an engine event through the current Game View focus and pointer bounds.
-
 ## Parameters
 
 **Parameter `evnt`:** The original backend-neutral platform event.

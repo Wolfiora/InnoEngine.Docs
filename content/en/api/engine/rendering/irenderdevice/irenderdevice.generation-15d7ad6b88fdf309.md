@@ -13,5 +13,3 @@ reviewed: 700a5f3b521614f03d2217768af7a1b8caf37a1b12b6a9774cfe3aa8c95efa20
 source: xml
 outdated: false
 ---
-
-Gets the non-zero device generation used to reject stale persistent handles.

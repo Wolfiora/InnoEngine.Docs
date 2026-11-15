@@ -13,5 +13,3 @@ reviewed: 94ee6ca119a830055156ccd8dcb732de6411c17b70d97c5e50df74737efd91cb
 source: xml
 outdated: false
 ---
-
-The reference originates from a serialized property.

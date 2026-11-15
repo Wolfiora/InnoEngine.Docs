@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a 64-bit unsigned integer property, or a fallback when the property is absent.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

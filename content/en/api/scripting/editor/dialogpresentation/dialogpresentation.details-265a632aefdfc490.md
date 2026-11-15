@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Optional expanded diagnostic text sharing the message scroll owner.

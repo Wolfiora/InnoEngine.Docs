@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The runtime reclaimed the voice to satisfy its voice budget.

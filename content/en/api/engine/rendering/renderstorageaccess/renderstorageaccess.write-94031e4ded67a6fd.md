@@ -13,5 +13,3 @@ reviewed: e41f46861d626e6a034533682f59c0bc81984c22e692473338715337df6854e1
 source: xml
 outdated: false
 ---
-
-Shader write-only access.

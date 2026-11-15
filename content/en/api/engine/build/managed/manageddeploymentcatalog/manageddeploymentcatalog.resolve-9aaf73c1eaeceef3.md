@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a provider and verifies target support before staging begins.
-
 ## Parameters
 
 **Parameter `deployment`:** The stable provider identity selected by the build profile.

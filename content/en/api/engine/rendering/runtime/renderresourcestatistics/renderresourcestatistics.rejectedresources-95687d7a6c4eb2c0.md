@@ -13,5 +13,3 @@ reviewed: fc463a8ec605eb9d04e42caac573748ec9ea84df1f530aa66a7388e6492d6ae8
 source: xml
 outdated: false
 ---
-
-Gets cache admissions rejected by per-kind capacity.

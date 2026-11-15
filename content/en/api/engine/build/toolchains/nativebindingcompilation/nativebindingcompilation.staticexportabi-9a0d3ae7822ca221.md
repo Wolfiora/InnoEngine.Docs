@@ -13,5 +13,3 @@ reviewed: 802887b04184a6ff4217ce105c78a9a5d485312f2b202f1aa6f4c236e1b36cf8
 source: xml
 outdated: false
 ---
-
-Gets the static table ABI digest, or an empty value when no static table exists.

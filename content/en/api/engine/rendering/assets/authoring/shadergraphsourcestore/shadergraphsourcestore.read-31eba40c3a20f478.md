@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads source directly, so a broken graph remains editable even when import has no successful artifact.
-
 ## Parameters
 
 **Parameter `path`:** Exact graph path within an active asset mount.

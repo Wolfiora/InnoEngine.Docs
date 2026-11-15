@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scripting
 aliases: []
 ---
-
-Identifies whether the active project script generation can safely start game simulation.

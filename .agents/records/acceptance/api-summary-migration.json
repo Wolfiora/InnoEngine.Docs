@@ -1,0 +1,42 @@
+{
+  "baseline": "5075a8265bb16d5fb33d9e1fcae2462c7d653984",
+  "policy": "Remove reviewed legacy XML-summary introductions only. Preserve every remaining authored body byte. IdentityObject used a readable cref without its XML T: prefix.",
+  "manual": [
+    {
+      "path": "content/en/api/engine/core/identity/identity/index.md",
+      "removedSummary": "Identity payload for an object, carrying persistent id and runtime id.",
+      "beforeBodySha256": "9fb1a2c5b6862f24436b97bcbabd3f2cf31209c5d42a60eae938a7a22bee6845",
+      "retainedBodySha256": "36e2e50634ebc3afbab2f1ed6266f45e3727565b952fae7e67146a71ffe2afa3"
+    },
+    {
+      "path": "content/en/api/engine/core/identity/runtimeidentity/index.md",
+      "removedSummary": "Addresses a live identity object within one explicitly identified runtime domain.",
+      "beforeBodySha256": "edaf11cb38b677b2a9cb90b93fdae7f25a395d416965643daa9ca9f73d5f881e",
+      "retainedBodySha256": "390a475cb62eeaff5f97e3ce2b49ade2c5c033ffe0bc91b547e7041b13e88c6b"
+    },
+    {
+      "path": "content/en/api/engine/core/identity/identityobject/index.md",
+      "removedSummary": "Provides instance-owned persistent and session-local identity state managed by an `Inno.Core.Identity.IdentityAllocator`.",
+      "beforeBodySha256": "0f2ea17a3a5bce3913199bcfea7d546f3386cfa8f0d55e123a4438acb2e1f702",
+      "retainedBodySha256": "36e2e50634ebc3afbab2f1ed6266f45e3727565b952fae7e67146a71ffe2afa3"
+    },
+    {
+      "path": "content/en/api/engine/core/identity/identitydomainid/index.md",
+      "removedSummary": "Identifies one isolated runtime identity namespace within the current process.",
+      "beforeBodySha256": "1bece8dec6f3cf7f79df32bf2f2ab80bc09699eb02bd80bbc4814261892aae0c",
+      "retainedBodySha256": "86d76ff31e0431134a069fda056bf39ad7ff12c838f3c23cb1c6efe6cb73eea2"
+    },
+    {
+      "path": "content/en/api/engine/core/identity/identityallocator/index.md",
+      "removedSummary": "Owns the persistent-to-runtime identity map for one isolated runtime session.",
+      "beforeBodySha256": "dfd656f8c3f7edad46e7fe77cf219b6ebc083e535a1538ea981f426f9d37df28",
+      "retainedBodySha256": "36e2e50634ebc3afbab2f1ed6266f45e3727565b952fae7e67146a71ffe2afa3"
+    },
+    {
+      "path": "content/en/api/engine/core/identity/identityobject/identityobject.constructor-124d5928f025ca16.md",
+      "beforeBodySha256": "38716c5e88536a5e1ac0fdd742678ee6774ae4e429c5d4714cf5343744dd0214",
+      "retainedBodySha256": "38716c5e88536a5e1ac0fdd742678ee6774ae4e429c5d4714cf5343744dd0214",
+      "reason": "No XML summary exists; preserve the independent constructor explanation unchanged."
+    }
+  ]
+}

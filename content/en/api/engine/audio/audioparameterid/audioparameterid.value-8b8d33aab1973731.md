@@ -13,5 +13,3 @@ reviewed: 7900f140fa949b34c92311841612429c4ecc22ab193ef9f5f6cfd0a3263ce53f
 source: xml
 outdated: false
 ---
-
-Gets the stable parameter protocol value.

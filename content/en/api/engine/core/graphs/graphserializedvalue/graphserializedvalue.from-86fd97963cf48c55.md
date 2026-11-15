@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Serializes a neutral graph property through the common Inno serializer.
-
 ## Type parameters
 
 **Type parameter `T`:** Declared serializable value type.

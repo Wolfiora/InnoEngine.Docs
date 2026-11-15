@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Restores this component to its default state when it is added or explicitly reset.

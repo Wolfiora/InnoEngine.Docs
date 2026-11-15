@@ -13,5 +13,3 @@ reviewed: 6c18f12a2697a16c8c01c2228a2beeadb97451290141e8023266ce4390670190
 source: xml
 outdated: false
 ---
-
-Identifies the .NET NativeAOT publisher.

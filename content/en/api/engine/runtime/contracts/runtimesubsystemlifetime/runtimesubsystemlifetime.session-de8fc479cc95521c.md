@@ -13,5 +13,3 @@ reviewed: 9e339e86fab494ce1c0a1b7290fc4ec045d9e457746ca8430d2794efdbb9e139
 source: xml
 outdated: false
 ---
-
-The subsystem belongs to one isolated Edit, Play or Player session.

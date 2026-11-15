@@ -13,5 +13,3 @@ reviewed: a7274e773f926e8953cbee2e4c744dcadbdd4fbd0b2313b181a8b8195c31b2f7
 source: xml
 outdated: false
 ---
-
-Occurs after discovery diagnostics or the active Plugin generation changes.

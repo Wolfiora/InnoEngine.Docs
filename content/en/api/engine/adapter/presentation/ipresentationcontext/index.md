@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Defines the backend-neutral lifecycle used by a graphical composition host.

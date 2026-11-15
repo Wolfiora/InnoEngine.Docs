@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws one prepared message dialog. Text owns one bounded scroll region and actions remain outside it.
-
 ## Parameters
 
 **Parameter `presentation`:** The same immutable content used for measurement.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated copy composed without the project-authored contribution.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting identifier.

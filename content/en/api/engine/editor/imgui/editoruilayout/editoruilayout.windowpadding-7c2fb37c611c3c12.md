@@ -13,5 +13,3 @@ reviewed: 32b2128dbbd881dfd474ed7c25ae15bd99851a0260b003f24627dd4acb908939
 source: xml
 outdated: false
 ---
-
-Gets the current window inset.

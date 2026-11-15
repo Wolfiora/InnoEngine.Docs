@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Declares the immutable cache protocol identity of an automatically discovered asset build processor.

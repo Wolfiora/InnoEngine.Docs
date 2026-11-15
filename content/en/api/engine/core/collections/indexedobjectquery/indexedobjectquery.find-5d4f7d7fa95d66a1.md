@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a key equality condition.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

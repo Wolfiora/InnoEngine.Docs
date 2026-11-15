@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-reload
 aliases: []
 ---
-
-Configures automatic compilation requests and retired-generation verification.

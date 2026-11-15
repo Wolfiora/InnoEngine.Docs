@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests comfortable or compact density without changing an active session frame.
-
 ## Parameters
 
 **Parameter `value`:** `true` for compact density.

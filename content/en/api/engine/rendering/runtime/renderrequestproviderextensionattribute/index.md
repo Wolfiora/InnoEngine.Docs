@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Marks a reloadable provider that produces model-neutral render requests each frame.

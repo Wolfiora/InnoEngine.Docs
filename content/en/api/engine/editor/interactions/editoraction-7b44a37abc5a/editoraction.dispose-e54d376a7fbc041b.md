@@ -13,5 +13,3 @@ reviewed: 66617603631460a36c8ff063b9832b46effe5cd228f4b8ddbb9b938716320ae4
 source: xml
 outdated: false
 ---
-
-Cancels active work and releases this action instance.

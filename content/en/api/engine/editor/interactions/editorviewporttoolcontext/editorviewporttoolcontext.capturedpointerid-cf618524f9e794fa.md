@@ -13,5 +13,3 @@ reviewed: 8f7aa6775241cc1fbdc00abd52b13670b17b85c06359a2069e41e8e4afcca3c2
 source: xml
 outdated: false
 ---
-
-Gets the captured pointer identity, or `null`.

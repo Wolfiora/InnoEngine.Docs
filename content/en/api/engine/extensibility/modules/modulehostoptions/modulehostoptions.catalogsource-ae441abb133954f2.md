@@ -13,5 +13,3 @@ reviewed: ddb1b5124a4d4f06bb6aabe25a61868cda63ce6a54724ed1237b5587b5a8cde6
 source: xml
 outdated: false
 ---
-
-Gets the host source whose ownership transfers to the module host during construction.

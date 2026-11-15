@@ -13,5 +13,3 @@ reviewed: 67943b6df49ee8274d7c585998614967607afd3a530d8e8b2776add489e47902
 source: xml
 outdated: false
 ---
-
-Whether the compiler must use framework search semantics.

@@ -13,5 +13,3 @@ reviewed: 8beac0431821a56c25d091ceeeb5b238fafcc558d526375ac9dbf2fba8e96050
 source: xml
 outdated: false
 ---
-
-Restores the enclosing clip after a matching PushClip.

@@ -13,5 +13,3 @@ reviewed: cde4205db41740962f760c54e967beddc2f032afcdb243294ec356d610411b9b
 source: xml
 outdated: false
 ---
-
-Gets the exact simple assembly name.

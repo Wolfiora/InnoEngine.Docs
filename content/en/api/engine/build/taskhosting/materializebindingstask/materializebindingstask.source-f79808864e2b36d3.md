@@ -13,5 +13,3 @@ reviewed: 91466b496063e615391b6f0b55afc2556332e58fb430730c092a8f5aa46e5b57
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact selected managed source, without selecting another generation.

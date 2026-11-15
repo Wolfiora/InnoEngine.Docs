@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets registered systems in display and serialization order. Explicit `P:InnoEngine.Scene.GameSystem.order` values independently control lifecycle execution priority.
-
 ## Returns
 
 An immutable snapshot of the values selected by the operation.

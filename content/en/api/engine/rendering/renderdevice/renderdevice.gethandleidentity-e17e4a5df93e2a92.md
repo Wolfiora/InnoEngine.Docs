@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a frame-scoped texture handle for graph resource lookup.
-
 ## Parameters
 
 **Parameter `handle`:** The backend-neutral graph texture handle.

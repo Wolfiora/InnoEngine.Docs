@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Reports neutral interaction intents for the feature controller to validate and apply through History.

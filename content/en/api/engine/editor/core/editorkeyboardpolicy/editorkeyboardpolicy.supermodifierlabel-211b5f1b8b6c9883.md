@@ -13,5 +13,3 @@ reviewed: 98b065ff785e3336c0747ac9cbd74384be598e41af8ea46e889277a4684e9149
 source: xml
 outdated: false
 ---
-
-Gets the product-selected display name of the Super modifier.

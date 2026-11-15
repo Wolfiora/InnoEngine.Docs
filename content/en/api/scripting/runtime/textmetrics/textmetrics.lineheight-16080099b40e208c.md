@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The recommended line spacing in logical pixels for the selected face and size.

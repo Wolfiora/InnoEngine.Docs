@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a combo whose popup opens below the control and stays within its containing window.
-
 ## Parameters
 
 **Parameter `id`:** Stable combo identifier in the current ImGui scope.

@@ -13,5 +13,3 @@ reviewed: 84cd05d123e1a99c232c43f0e9584416c54374e9a6e0eaab783be9ec637ac704
 source: xml
 outdated: false
 ---
-
-Gets whether a compilation currently owns the compiler gate.

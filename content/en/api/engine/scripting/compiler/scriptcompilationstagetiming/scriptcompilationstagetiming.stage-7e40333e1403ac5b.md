@@ -13,5 +13,3 @@ reviewed: 7c86a2daa462332b489d72f29ff2733d166bbb9e973b240c196b3fe7619a3c94
 source: xml
 outdated: false
 ---
-
-Gets the human-readable stage description.

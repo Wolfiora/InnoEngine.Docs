@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers every retired or discarded context without dropping already pending monitors.
-
 ## Parameters
 
 **Parameter `probe`:** A stable engine-owned weak monitor that must not retain the collectible context.

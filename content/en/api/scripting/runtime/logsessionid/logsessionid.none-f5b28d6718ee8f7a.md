@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets an identifier that represents process-level work outside an isolated runtime session.

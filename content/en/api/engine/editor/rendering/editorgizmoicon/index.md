@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-One selectable Editor icon.
-
 ## Parameters
 
 **Parameter `owner`:** The object that owns the resulting lifetime and state.

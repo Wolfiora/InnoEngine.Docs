@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one complete project identity from a display or local name.
-
 ## Parameters
 
 **Parameter `name`:** The project-local name.

@@ -13,5 +13,3 @@ reviewed: 2d4dd255e36f54dbf000a6c7177ddd40e536899b8bc3642ee65488b4892b40a3
 source: xml
 outdated: false
 ---
-
-Gets selected pipeline configuration.

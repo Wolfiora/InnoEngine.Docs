@@ -13,5 +13,3 @@ reviewed: 50db38e752b1a1c258f888ce246d2b9a825c18e648689d9b80c567660f290851
 source: xml
 outdated: false
 ---
-
-Creates an empty text asset.

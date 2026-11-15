@@ -13,5 +13,3 @@ reviewed: a3916b616b92048b551617fb54dac324135104be76a8421c323a48759a3f8a70
 source: xml
 outdated: false
 ---
-
-Gets or initializes capabilities verified by composition for this session's selected services.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a value exists.
-
 ## Parameters
 
 **Parameter `key`:** The sandbox-relative storage key.

@@ -13,5 +13,3 @@ reviewed: 76d96d32d5b6ef12541b7e242c72bd8582eb7647e2f77e77f9c951007d0896df
 source: xml
 outdated: false
 ---
-
-Gets or sets whether an inline function is pure or intentionally emits ordered effects.

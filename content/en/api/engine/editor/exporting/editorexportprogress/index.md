@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Contains one owner-thread export presentation snapshot.
-
 ## Parameters
 
 **Parameter `operationId`:** The export identity within this service.

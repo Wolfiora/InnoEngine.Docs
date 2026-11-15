@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---
-
-Reports an expired retirement deadline without granting permission to release dependent resources.

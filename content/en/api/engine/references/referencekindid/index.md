@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Identifies an open reference-resolution protocol independently of its current implementation.

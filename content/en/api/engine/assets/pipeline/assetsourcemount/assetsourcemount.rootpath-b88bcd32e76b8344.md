@@ -13,5 +13,3 @@ reviewed: bc6d628e081cd554408460fa72a1a95ced57e58607f7114926d017c0e14b242a
 source: xml
 outdated: false
 ---
-
-Gets the controlled physical source root.

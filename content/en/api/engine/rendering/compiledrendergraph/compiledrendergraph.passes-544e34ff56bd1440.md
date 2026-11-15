@@ -13,5 +13,3 @@ reviewed: d05cec0d05423dd5fcde4d4daae2b3d60b975c006762c53e7d70ee3153ae8ca0
 source: xml
 outdated: false
 ---
-
-Gets scheduled passes in backend view order.

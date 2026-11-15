@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Owns a validated, immutable and dependency-ordered logical game code closure.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the complete detached candidate; the caller owns its subsequent edits.

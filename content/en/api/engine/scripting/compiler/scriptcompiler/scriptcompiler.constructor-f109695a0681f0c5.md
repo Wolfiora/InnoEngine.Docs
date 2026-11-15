@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a compiler over explicit authoring services owned by one host.
-
 ## Parameters
 
 **Parameter `options`:** The project and derived-cache locations used by compilation.

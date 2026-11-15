@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Drains a failed startup or final shutdown on the owner thread until completion or explicit failure.
-
 ## Parameters
 
 **Parameter `retire`:** The retryable operation, including any necessary owner-thread queue draining.

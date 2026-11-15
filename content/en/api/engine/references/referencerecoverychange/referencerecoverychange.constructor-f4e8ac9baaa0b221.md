@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a recovery change from preserved state and its candidate resolution.
-
 ## Parameters
 
 **Parameter `missingState`:** The immutable state captured before the candidate generation was applied.

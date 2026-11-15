@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether current state contains the requested value value.
-
 ## Parameters
 
 **Parameter `p`:** The p consumed by contains; ownership remains with the caller unless explicitly stated otherwise.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns a matching compiled texture when available and schedules a replacement when source state changed.
-
 ## Parameters
 
 **Parameter `texture`:** The imported texture asset whose authoring source is compiled.

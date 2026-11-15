@@ -13,5 +13,3 @@ reviewed: ae5ad3308c04ff232c0a6ffa019367998a26685a28641ab880fd33b5c8aa6e2a
 source: xml
 outdated: false
 ---
-
-Gets or sets the native serializable default value.

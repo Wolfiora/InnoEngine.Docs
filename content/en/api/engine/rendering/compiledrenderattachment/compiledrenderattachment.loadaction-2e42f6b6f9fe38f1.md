@@ -13,5 +13,3 @@ reviewed: 58c2681c125294723cd2bcd45450e5df1a9d32ee676e9fa8affe278136be3ffe
 source: xml
 outdated: false
 ---
-
-Gets initial content behavior.

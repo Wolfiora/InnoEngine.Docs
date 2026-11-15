@@ -13,5 +13,3 @@ reviewed: 8536a2683294aba568916d56e1fd165d1a4a490f6c1a0a4e42b9dd74c15100ec
 source: xml
 outdated: false
 ---
-
-React on right mouse button

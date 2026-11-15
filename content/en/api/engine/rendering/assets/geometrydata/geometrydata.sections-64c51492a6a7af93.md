@@ -13,5 +13,3 @@ reviewed: 50e2c4dff6efdd01570733a9a861e11ab34bf8c690bc01b60cb03c3b0e29fe85
 source: xml
 outdated: false
 ---
-
-Gets contiguous submesh ranges.

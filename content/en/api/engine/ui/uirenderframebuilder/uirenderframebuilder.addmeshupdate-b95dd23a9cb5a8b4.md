@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one mesh update and takes exclusive ownership of both arrays.
-
 ## Parameters
 
 **Parameter `mesh`:** Assigned mesh handle.

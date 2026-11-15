@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Identifies a stage output node; its incoming edges name the stage's GPU outputs.

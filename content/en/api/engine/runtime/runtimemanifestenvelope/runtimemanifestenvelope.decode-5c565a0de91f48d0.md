@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes and validates the complete runtime manifest after engine serialization is available.
-
 ## Parameters
 
 **Parameter `data`:** The complete runtime manifest envelope.

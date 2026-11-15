@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a pipeline extension declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable pipeline extension identifier.

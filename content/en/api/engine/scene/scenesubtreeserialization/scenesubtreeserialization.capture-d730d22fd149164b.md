@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one live GameObject and all descendants without serializing unrelated scene objects.
-
 ## Parameters
 
 **Parameter `root`:** The live subtree root.

@@ -13,5 +13,3 @@ reviewed: 5b787af1d6076c6488b1c87e10de6603b591424028b7d925cf2d805b2928b30c
 source: xml
 outdated: false
 ---
-
-Gets the type used to capture the previous value.

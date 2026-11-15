@@ -13,5 +13,3 @@ reviewed: f8db976e2773ff74b2d91c8b7282bed12e50aca8da249dce6e03af5169ea50eb
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned platform factory snapshot.

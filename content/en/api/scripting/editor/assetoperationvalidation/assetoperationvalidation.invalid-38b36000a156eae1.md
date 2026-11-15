@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a failed asset-operation validation result.
-
 ## Parameters
 
 **Parameter `message`:** The user-facing diagnostic explaining why the operation was rejected.

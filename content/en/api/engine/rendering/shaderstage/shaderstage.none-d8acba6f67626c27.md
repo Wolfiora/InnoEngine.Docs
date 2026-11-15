@@ -13,5 +13,3 @@ reviewed: 6a46babe80a92bacf1edbad1e7e39c187558e06c022f83e1f23c2d9058142895
 source: xml
 outdated: false
 ---
-
-No shader stage.

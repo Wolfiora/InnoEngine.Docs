@@ -13,5 +13,3 @@ reviewed: dcc5660f10ed14f03bef289ba0360ba71494e845a76f630d7893d00a79ac2d25
 source: xml
 outdated: false
 ---
-
-Gets the Unicode text backend factory.

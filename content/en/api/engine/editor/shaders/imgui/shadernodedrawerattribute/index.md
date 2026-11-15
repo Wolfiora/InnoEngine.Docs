@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Registers Editor-only node controls independently from a node's shader compiler.

@@ -13,5 +13,3 @@ reviewed: 82f34d557d37ad4b01c7f48c3e69ab8821efd96618d6a7a5502cc20a0e743331
 source: xml
 outdated: false
 ---
-
-Gets the backend-neutral logical view order.

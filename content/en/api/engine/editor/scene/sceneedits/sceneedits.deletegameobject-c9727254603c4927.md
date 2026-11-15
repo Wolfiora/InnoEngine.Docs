@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deletes a GameObject subtree and records only that subtree plus incoming serialized references.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live subtree root to delete.

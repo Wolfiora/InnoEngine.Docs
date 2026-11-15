@@ -13,5 +13,3 @@ reviewed: a233be85166733a43ae1ce772c2d7f0ffb98a3e3f5cc433a9513f02e3764b691
 source: xml
 outdated: false
 ---
-
-The pointer button ended a gesture.

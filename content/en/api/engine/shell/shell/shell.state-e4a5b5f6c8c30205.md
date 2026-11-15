@@ -13,5 +13,3 @@ reviewed: 9afe051c9f9c9e00c34aacbdb869a049ee0b1ad94d3126018f9113f0e7df1ea6
 source: xml
 outdated: false
 ---
-
-Gets the current owner-thread lifecycle state, including suspension and failed retirement.

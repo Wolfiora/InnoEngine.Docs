@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases one graph-generation bus after dependent objects have been removed.
-
 ## Parameters
 
 **Parameter `bus`:** Bus owned by the current device generation.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Persists a complete shader type as neutral native-serializable data, without extension instances.

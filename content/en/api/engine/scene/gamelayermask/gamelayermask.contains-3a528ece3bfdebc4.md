@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the supplied layer is contained in this mask.
-
 ## Returns
 
 `true` when the layer bit is enabled.

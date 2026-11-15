@@ -13,5 +13,3 @@ reviewed: 5fe11de65e3972b797ef8847f886beffb3091e390fd606f3fd148573902061a6
 source: xml
 outdated: false
 ---
-
-Gets the default normalized position of the asset list type/source separator.

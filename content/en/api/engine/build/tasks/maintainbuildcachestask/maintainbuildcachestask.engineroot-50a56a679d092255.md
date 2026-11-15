@@ -13,5 +13,3 @@ reviewed: 32579c165fcd6ab55b7802440212a144d7a01c60cab3f6ea9c325e7a28b29b1d
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute checkout owning the registered cache catalog.

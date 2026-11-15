@@ -13,5 +13,3 @@ reviewed: 8a7216a5f4cbaf7ba9b69f5f1606ecf9976278915e45c8911acf2de1f8d455d4
 source: xml
 outdated: false
 ---
-
-Gets whether the handle was initialized by an animation service.

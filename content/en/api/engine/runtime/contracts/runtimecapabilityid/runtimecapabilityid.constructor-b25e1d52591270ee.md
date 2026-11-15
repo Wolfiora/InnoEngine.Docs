@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an open capability protocol identifier.
-
 ## Parameters
 
 **Parameter `value`:** The non-empty, case-sensitive capability name.

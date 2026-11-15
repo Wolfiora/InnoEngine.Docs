@@ -13,5 +13,3 @@ reviewed: f93b55edd35b2b132f8a7fba78851a0cc8202a6f9344b79b38f7f596203223ba
 source: xml
 outdated: false
 ---
-
-Gets the unique subsystem protocol identifier.

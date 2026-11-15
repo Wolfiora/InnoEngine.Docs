@@ -13,5 +13,3 @@ reviewed: cf269882c4ad22cee29086cb3df3fd265b28d6e638cdb819504168ebe51bc648
 source: xml
 outdated: false
 ---
-
-Called immediately before this behavior is detached and destroyed.

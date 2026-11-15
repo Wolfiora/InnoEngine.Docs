@@ -13,5 +13,3 @@ reviewed: 40514694864cca6bfb6839989d481f0ad3c59e04f43c2a2a1f90ba1f93039042
 source: xml
 outdated: false
 ---
-
-Gets the deterministic block-local value index, not a GPU register or resource slot.

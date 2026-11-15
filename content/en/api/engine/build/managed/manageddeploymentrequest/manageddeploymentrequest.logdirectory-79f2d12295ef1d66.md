@@ -13,5 +13,3 @@ reviewed: 8c4c01fd554163a4eac0e2a509f933326019fb8f744d8f8e8c65b5e54da8f1a7
 source: xml
 outdated: false
 ---
-
-Gets the directory receiving process output and SDK selection evidence.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a source declaration with a stable identifier.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable source identifier.

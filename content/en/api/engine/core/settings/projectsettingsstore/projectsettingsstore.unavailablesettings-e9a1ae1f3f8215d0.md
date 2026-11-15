@@ -13,5 +13,3 @@ reviewed: e2ccb0d33b3b03c1a5e7a59612f6ad8da881261802a9283940ed1023c0834fa9
 source: xml
 outdated: false
 ---
-
-Gets detached neutral contributions whose setting definitions are currently Missing.

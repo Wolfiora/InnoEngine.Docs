@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the layer at the supplied stack position.
-
 ## Parameters
 
 **Parameter `index`:** The zero-based stack position.

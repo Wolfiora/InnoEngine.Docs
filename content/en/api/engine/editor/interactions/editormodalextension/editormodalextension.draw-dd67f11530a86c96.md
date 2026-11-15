@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Safely draws the modal body and quarantines a failing extension instance.
-
 ## Parameters
 
 **Parameter `context`:** The active editor context supplied by the presentation backend.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Combines adjacent samples of the same document and gesture without retaining live assets.
-
 ## Parameters
 
 **Parameter `older`:** The preceding owned record.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects an incomplete or incompatible platform closure.
-
 ## Parameters
 
 **Parameter `directory`:** The prepared or installed Support Pack directory.

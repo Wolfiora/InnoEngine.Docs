@@ -13,5 +13,3 @@ reviewed: 53a6d5aacffe1e8340b53d14a9a8c2f87a71b937a195eeffd964f4160df14803
 source: xml
 outdated: false
 ---
-
-The target lost focus.

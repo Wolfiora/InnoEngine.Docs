@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable bringing window to front when taking focus (e.g. clicking on it or programmatically giving it focus)

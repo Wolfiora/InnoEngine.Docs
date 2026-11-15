@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Prevents a generation transition from completing until every retired collectible assembly is reclaimed.

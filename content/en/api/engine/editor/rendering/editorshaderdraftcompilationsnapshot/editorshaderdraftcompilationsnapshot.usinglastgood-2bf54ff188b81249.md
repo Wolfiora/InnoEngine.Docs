@@ -13,5 +13,3 @@ reviewed: e14d66f2634269ace71aa8adad773be06284c734e9e3c6af391639884296c10e
 source: xml
 outdated: false
 ---
-
-Whether the preview artifact belongs to an earlier successful draft.

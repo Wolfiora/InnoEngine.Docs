@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares runtime destinations, including their identity domain.
-
 ## Parameters
 
 **Parameter `other`:** The destination to compare.

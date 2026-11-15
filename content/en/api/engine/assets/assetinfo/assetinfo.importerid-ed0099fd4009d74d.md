@@ -13,5 +13,3 @@ reviewed: 1bc297b7cd593082fe067a2b2c5be8839c3ba052444c7ab8239cad3fc28c6fa2
 source: xml
 outdated: false
 ---
-
-Gets the selected importer identifier.

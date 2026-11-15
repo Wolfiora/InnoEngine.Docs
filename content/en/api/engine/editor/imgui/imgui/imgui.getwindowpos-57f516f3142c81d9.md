@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current window screen-space origin.
-
 ## Returns
 
 A copied value from the active presentation context.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a section header with optional explanatory text.
-
 ## Parameters
 
 **Parameter `title`:** Visible section title.

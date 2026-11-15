@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the pending source content with a fresh capture while preserving this asset identity.
-
 ## Parameters
 
 **Parameter `scene`:** Scene to capture.

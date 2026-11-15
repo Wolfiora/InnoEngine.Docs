@@ -13,5 +13,3 @@ reviewed: 52d1745082a53b650bae2664ccab05e25fe2f187778a727e5a44e74161ebd3d0
 source: xml
 outdated: false
 ---
-
-Releases all logical clips, voices, buses, and listeners.

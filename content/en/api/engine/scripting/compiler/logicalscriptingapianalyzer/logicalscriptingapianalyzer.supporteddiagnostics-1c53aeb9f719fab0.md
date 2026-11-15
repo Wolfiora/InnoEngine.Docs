@@ -13,5 +13,3 @@ reviewed: 74b11b44a610273593fa23b3b602313d2d5830753d98943f7bbee60854a21627
 source: xml
 outdated: false
 ---
-
-Gets the complete compiler diagnostic set enforced by this analyzer.

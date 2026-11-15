@@ -13,5 +13,3 @@ reviewed: 92a47ecf5997cc7e74eabddf4c155e6ef7fdcafd2b7f747bbd2ac4bacf731a57
 source: xml
 outdated: false
 ---
-
-Gets independent artifact output hashes performed for integrity verification and publication.

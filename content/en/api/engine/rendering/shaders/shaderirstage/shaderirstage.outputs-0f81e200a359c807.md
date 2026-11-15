@@ -13,5 +13,3 @@ reviewed: ff910752568a34ca3645d4d2d012185d907a5892814c8ae249ec0267bd3e25f8
 source: xml
 outdated: false
 ---
-
-Gets all output destinations.

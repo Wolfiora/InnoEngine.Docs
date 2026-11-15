@@ -13,5 +13,3 @@ reviewed: d7cd819a888e26ca43dea9fb0f74c3ef526a85669bc9de83bf31a93f6fd66998
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute shared intermediate owner, also supplied as ArtifactsPath.

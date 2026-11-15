@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens a control-thread snapshot collector over one content read scope.
-
 ## Parameters
 
 **Parameter `content`:** The caller-owned identity read scope.

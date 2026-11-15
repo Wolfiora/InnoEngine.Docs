@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the original sample directory name for a writable Project copy.
-
 ## Parameters
 
 **Parameter `path`:** A sample directory path whose final segment starts with `~`.

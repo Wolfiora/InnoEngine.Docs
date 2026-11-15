@@ -13,5 +13,3 @@ reviewed: db4c4bd674fc2af410cd4722c132cf09bfd48fd5ec3fe836cc32e7bbfe25063b
 source: xml
 outdated: false
 ---
-
-Gets faint opacity for quiet guides and separators.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Measures literal text at a relative font scale.
-
 ## Parameters
 
 **Parameter `text`:** The literal text to measure.

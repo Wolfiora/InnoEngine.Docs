@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the layout size of a compact outlined type badge.
-
 ## Parameters
 
 **Parameter `label`:** Visible type name.

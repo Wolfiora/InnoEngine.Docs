@@ -13,5 +13,3 @@ reviewed: 19cf19375a17644d3fba48849c487bfcf11fbb86af27bb8c354983dfdbc76014
 source: xml
 outdated: false
 ---
-
-Applies captured state after candidate publication; partial changes must be rollback-safe.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stages additions, replacements, and removals as one atomic dependency-ordered transaction.
-
 ## Parameters
 
 **Parameter `requests`:** Complete candidate module additions and replacements.

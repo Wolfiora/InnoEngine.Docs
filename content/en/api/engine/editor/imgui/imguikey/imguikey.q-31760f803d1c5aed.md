@@ -13,5 +13,3 @@ reviewed: 5adcc9ee0928884f5c435bb08f171e2c5fd3bb997ecf95f321c408945d29e092
 source: xml
 outdated: false
 ---
-
-Identifies the Q presentation key or modifier.

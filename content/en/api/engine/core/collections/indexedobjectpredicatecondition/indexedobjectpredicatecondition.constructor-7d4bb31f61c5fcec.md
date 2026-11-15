@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a predicate query condition.
-
 ## Parameters
 
 **Parameter `predicate`:** The predicate evaluated for each candidate.

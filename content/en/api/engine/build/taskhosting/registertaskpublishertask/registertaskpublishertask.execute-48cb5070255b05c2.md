@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records ownership using the same protocol as full task-runtime publication.
-
 ## Returns
 
 True after recording the current process, or false after reporting an invalid owner or IO failure.

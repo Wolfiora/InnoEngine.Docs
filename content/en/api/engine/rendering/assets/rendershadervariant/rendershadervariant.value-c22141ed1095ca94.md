@@ -13,5 +13,3 @@ reviewed: 70a7d2584b73884840082cca3f964a9cce313cf8ba360dbc48caa85d55b9b59b
 source: xml
 outdated: false
 ---
-
-Gets the canonical cache-key representation.

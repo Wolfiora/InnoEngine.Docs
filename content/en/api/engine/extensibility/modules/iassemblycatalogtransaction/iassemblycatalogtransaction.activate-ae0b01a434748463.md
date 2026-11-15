@@ -13,5 +13,3 @@ reviewed: da7bb552fbe2914c12f43acc68dd46dd45cff589f972faf9cc9f5a7e3bea0343
 source: xml
 outdated: false
 ---
-
-Publishes the prepared candidate state.

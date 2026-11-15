@@ -13,5 +13,3 @@ reviewed: 7229a8b531aeb5cbe4b91a34d3ff4b5d4157ff337047809826f07a491f53e873
 source: xml
 outdated: false
 ---
-
-Return 'true' when Enter is pressed (as opposed to every time the value was modified). Consider using IsItemDeactivatedAfterEdit() instead!

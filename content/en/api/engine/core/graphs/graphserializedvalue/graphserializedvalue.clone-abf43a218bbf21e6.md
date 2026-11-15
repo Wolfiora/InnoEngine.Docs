@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an independent copy of the neutral value.
-
 ## Returns
 
 A graph value that shares no mutable byte storage.

@@ -13,5 +13,3 @@ reviewed: 23f4ec68f17876aa70ed9dff800f9ba9cd245a156337a9ab1e38269556c398fd
 source: xml
 outdated: false
 ---
-
-Gets the temporary disk payload bytes retained by committed entries.

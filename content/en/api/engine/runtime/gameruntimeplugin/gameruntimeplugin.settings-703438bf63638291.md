@@ -13,5 +13,3 @@ reviewed: e20fd99a4cbcd087c22bf52cc61ce0eabedcfd8c06a3bdf29d56ca6c12b399da
 source: xml
 outdated: false
 ---
-
-Gets or sets neutral setting contribution records.

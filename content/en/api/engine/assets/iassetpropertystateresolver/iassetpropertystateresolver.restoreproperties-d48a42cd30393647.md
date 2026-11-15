@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores a stable typed property payload into a caller-owned current-generation value.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Declared native property contract.

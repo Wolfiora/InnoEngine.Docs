@@ -13,5 +13,3 @@ reviewed: ef732fec3595a70028ce60828e15c3adbd77aa123779cce7d735189a28625216
 source: xml
 outdated: false
 ---
-
-The platform cancelled the gesture.

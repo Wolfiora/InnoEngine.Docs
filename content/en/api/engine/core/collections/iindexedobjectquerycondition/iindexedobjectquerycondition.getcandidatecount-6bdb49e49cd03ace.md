@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the estimated match count for this condition.
-
 ## Parameters
 
 **Parameter `store`:** Store being queried.

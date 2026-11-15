@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws clickable text without a persistent or hovered background.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.

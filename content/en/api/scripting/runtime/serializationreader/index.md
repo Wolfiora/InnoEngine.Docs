@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Reads a structured object during the active deserialization operation.

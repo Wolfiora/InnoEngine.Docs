@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the icon glyph displayed in the large leading slot of the Inspector target header.

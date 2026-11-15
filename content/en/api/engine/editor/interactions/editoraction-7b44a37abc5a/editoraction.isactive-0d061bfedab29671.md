@@ -13,5 +13,3 @@ reviewed: a53472494a047f2cc9163676d8394cbfbe03217d9a514577c0bc8d449d059991
 source: xml
 outdated: false
 ---
-
-Gets whether the action currently owns an active multi-frame operation.

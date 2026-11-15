@@ -13,5 +13,3 @@ reviewed: d4e564a2e2352c9891f0151454659dd7a21b336dfb6456b701d14027bd222642
 source: xml
 outdated: false
 ---
-
-The assembly is available to runtime and editor consumers.

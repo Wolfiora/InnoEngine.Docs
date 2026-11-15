@@ -13,5 +13,3 @@ reviewed: 9b2f62da1a92e7331856916b4a20d40691e12493455daa41abee6756e7bd0bc7
 source: xml
 outdated: false
 ---
-
-UTF-8 decoded immutable source text.

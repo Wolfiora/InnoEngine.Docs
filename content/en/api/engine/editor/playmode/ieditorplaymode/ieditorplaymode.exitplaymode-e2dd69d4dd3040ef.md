@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests disposal of the active runtime session or dismisses a failed transition.
-
 ## Returns
 
 `true` when entry was cancelled or a new exit request was accepted.

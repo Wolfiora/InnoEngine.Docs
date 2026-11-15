@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the owner-local change counter for object membership, parentage and sibling ordering.
-
 ## Remarks
 
 Use this counter only to invalidate derived views of this live scene. It is not a persistent identity, data format or guarantee that object properties remain unchanged.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures complete layout text when persistence is required.
-
 ## Parameters
 
 **Parameter `settings`:** Complete layout text when capture succeeds.

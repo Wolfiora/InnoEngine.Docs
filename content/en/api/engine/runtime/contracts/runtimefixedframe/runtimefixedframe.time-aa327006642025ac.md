@@ -13,5 +13,3 @@ reviewed: d4045602cc9137a2fd2e0687f30fad588ab6d88ec39dbc8c200c8fd98f237961
 source: xml
 outdated: false
 ---
-
-Gets accumulated fixed simulation time in seconds.

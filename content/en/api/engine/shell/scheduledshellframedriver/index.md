@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Runs frames when an external host grants a nonblocking presentation opportunity.

@@ -13,5 +13,3 @@ reviewed: b319140d294f48f56c5c88fd05e83731478ff448752f264466bd814ec0f3e025
 source: xml
 outdated: false
 ---
-
-Gets back-face stencil behavior.

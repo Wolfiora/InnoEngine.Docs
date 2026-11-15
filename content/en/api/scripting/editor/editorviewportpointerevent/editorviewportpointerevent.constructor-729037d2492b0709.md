@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one viewport pointer sample.
-
 ## Parameters
 
 **Parameter `pointerId`:** Platform pointer identity.

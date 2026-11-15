@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a child build with caller-owned output destinations and the shared process retirement protocol.
-
 ## Parameters
 
 **Parameter `fileName`:** The executable selected by the build composition.

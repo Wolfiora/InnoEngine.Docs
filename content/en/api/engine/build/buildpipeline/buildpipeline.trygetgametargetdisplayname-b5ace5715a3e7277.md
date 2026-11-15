@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the adapter-owned display name for a registered game target.
-
 ## Parameters
 
 **Parameter `target`:** The stable target identity to query.

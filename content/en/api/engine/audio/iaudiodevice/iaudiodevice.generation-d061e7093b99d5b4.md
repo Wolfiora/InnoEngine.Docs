@@ -13,5 +13,3 @@ reviewed: 20bd6beb2db9fd217b1414bc2a7596da0f4c688fd44da3ca0ce14a861aa05225
 source: xml
 outdated: false
 ---
-
-Gets the non-zero generation used to reject stale handles.

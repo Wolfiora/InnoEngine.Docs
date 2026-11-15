@@ -13,5 +13,3 @@ reviewed: 3da1db14a583d2701ff11107822cd69468efab0c8f6193b5afbc083aeafff15c
 source: xml
 outdated: false
 ---
-
-An all-direction move or resize cursor.

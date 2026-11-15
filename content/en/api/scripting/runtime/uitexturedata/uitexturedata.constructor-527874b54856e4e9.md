@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated immutable texture.
-
 ## Parameters
 
 **Parameter `width`:** The positive texture width.

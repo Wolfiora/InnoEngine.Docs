@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Synchronously closes transient edits before command execution or an extension-handler generation switch.
-
 ## Remarks
 
 A handler failure aborts the boundary. Subscribers must use owned Core Event hubs and release them during retirement.

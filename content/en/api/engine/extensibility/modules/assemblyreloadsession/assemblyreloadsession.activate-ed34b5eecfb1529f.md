@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically publishes the candidate module and all participant snapshots.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A participant could not quiesce. Both generations remain owned and the host must restart.

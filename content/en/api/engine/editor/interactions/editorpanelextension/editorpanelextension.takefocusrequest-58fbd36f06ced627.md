@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Consumes a pending request to focus this panel window.
-
 ## Returns
 
 `true` once for each accepted focus request.

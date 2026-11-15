@@ -13,5 +13,3 @@ reviewed: 5a27e6440d1c9865465899fe9de03ad197908ed87b6c7d787ba9b0ed7bc62de1
 source: xml
 outdated: false
 ---
-
-Identifies the MouseWheelX presentation key or modifier.

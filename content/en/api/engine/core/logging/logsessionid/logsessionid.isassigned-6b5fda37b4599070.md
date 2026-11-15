@@ -13,5 +13,3 @@ reviewed: 869008e417038e260f71982ba5c92cd964de6bb3b4a60b6394e32696ebdf6391
 source: xml
 outdated: false
 ---
-
-Gets whether this identifier names an isolated runtime session.

@@ -13,5 +13,3 @@ reviewed: 314b1857b735f2dc9ed6846faf167fad825b6e68d4e7e9aa6ea7e523ef0ec8d2
 source: xml
 outdated: false
 ---
-
-Gets the scene roots visible in this Editor viewport.

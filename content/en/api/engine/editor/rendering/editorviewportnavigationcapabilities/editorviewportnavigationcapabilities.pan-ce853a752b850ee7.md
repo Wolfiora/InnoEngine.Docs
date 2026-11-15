@@ -13,5 +13,3 @@ reviewed: 5ee0f20bdfba26222a8d5c5afe95f90e32b723172e440d4b3409ebb4a680371c
 source: xml
 outdated: false
 ---
-
-Allows translating the view parallel to its image plane.

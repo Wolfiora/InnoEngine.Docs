@@ -13,5 +13,3 @@ reviewed: 2f537be114b51943724c80884b55ea048f5daf21aed5aab7239ee24fc9d20f8d
 source: xml
 outdated: false
 ---
-
-Gets the target compiler profile and policy identity.

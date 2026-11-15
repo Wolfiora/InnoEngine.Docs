@@ -13,5 +13,3 @@ reviewed: aab3ebe8cee0a97e28923fbb6c248e26d412be43fa8c383608a84c6cf80beef7
 source: xml
 outdated: false
 ---
-
-Selects the cell padding presentation behavior.

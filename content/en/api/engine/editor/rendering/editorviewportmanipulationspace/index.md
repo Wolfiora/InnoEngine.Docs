@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Describes the exact backend-neutral view and projection used to draw a viewport so host tools can manipulate selected scene transforms without knowing the controller's camera model.

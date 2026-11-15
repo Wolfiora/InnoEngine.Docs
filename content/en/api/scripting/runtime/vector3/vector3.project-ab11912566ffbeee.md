@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Projects the supplied value onto the requested dimensional space.
-
 ## Parameters
 
 **Parameter `vector`:** The concrete value read or transformed by this operation.

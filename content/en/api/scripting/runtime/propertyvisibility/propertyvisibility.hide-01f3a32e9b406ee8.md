@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Can serialize and deserialize, but runtime code cannot get or set through `T:InnoEngine.Serialization.SerializedProperty`.

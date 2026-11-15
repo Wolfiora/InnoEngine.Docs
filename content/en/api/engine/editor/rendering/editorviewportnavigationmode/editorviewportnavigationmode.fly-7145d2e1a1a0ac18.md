@@ -13,5 +13,3 @@ reviewed: 80663276dbe6b532a8c1fd258d70153c2060113fccf0560546a4e89373586e3b
 source: xml
 outdated: false
 ---
-
-Moves and looks freely from the current view position.

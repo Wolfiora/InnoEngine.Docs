@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a validated candidate and transfers its lifetime to the caller on success.
-
 ## Parameters
 
 **Parameter `context`:** The immutable candidate dependency closure and retirement owner.

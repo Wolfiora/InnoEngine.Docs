@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent vertex, index or storage buffer at a frame safety point.
-
 ## Parameters
 
 **Parameter `descriptor`:** Buffer capacity and interpretation.

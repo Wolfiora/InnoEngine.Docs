@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Captures ordered selection identities without retaining any domain object or extension instance.

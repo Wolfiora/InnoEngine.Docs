@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Interpolates linearly after clamping the interpolation factor to \[0, 1\].
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

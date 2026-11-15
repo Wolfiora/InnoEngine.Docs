@@ -13,5 +13,3 @@ reviewed: 1220890e9a6e5d7c40cfdf54a9e9b482e768b74f5b357b5494991ec5b219be5e
 source: xml
 outdated: false
 ---
-
-Gets collection access metadata, or null for a scalar or object declaration.

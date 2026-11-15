@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads a scene alongside the current session scene set.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to load additively.

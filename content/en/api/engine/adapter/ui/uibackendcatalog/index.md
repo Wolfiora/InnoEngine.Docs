@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 aliases: []
 ---
-
-Resolves UI providers from one immutable composition-owned registration snapshot.

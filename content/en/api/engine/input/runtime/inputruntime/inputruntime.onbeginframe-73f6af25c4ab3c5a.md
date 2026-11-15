@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures pending backend input and binds the resulting snapshot to the runtime frame.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable frame state whose index labels the captured snapshot.

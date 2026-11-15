@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Changes the displayed source root and its isolated navigation directory.
-
 ## Parameters
 
 **Parameter `targetRoot`:** The navigation root that owns the requested directory.

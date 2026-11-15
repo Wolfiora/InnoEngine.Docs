@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads one face from encoded OpenType data.
-
 ## Parameters
 
 **Parameter `data`:** The complete encoded font source.

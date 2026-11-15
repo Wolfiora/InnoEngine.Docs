@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Owns sample import validation, publication and rollback independently of its progress window.

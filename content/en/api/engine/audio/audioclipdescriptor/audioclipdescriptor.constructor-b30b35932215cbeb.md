@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a backend clip description.
-
 ## Parameters
 
 **Parameter `codec`:** Codec protocol used by the artifact.

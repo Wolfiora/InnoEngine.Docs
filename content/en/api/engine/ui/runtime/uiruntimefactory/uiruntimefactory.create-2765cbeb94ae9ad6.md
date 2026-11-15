@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one session-owned UI runtime.
-
 ## Parameters
 
 **Parameter `context`:** The isolated session construction context.

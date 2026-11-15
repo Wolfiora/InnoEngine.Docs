@@ -13,5 +13,3 @@ reviewed: 7f414e8915fb594359ec87cf9500462cb4efb97069291c2187f766bf865a3cd9
 source: xml
 outdated: false
 ---
-
-Gets the normalized lower-case source extension.

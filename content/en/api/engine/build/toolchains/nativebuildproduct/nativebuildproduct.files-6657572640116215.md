@@ -13,5 +13,3 @@ reviewed: 9a195d394ce201fdb328a6ef5c594b35e4c7298e54c88b8cb3b4f90da2093ae2
 source: xml
 outdated: false
 ---
-
-Gets the exact absolute output file paths validated by the publisher.

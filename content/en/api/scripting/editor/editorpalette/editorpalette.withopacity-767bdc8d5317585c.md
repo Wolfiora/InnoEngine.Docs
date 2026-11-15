@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns a theme color with a caller-selected opacity, normally one of the shared opacity levels.
-
 ## Parameters
 
 **Parameter `color`:** Base RGB color.

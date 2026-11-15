@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes selected nodes, stage-owned nodes and declarations which lose their last graph owner.
-
 ## Parameters
 
 **Parameter `graph`:** Current shader graph, never mutated by this operation.

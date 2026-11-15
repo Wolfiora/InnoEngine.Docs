@@ -13,5 +13,3 @@ reviewed: 06d4588d6a4473fe1aae430c435bc04faf9d2c2df24612eb4c0ca41c2d4c03f0
 source: xml
 outdated: false
 ---
-
-Identifies the repository marker used while resolving a toolchain workspace.

@@ -13,5 +13,3 @@ reviewed: 1689f081a42af4840707806b1d2f5eebc5057519998d9770392c1d6b1663a385
 source: xml
 outdated: false
 ---
-
-Gets or sets the world-space orbit and framing pivot.

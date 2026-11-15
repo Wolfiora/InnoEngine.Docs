@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces a tightly packed rectangular region in one persistent texture subresource.
-
 ## Parameters
 
 **Parameter `texture`:** Texture owned by this device generation.

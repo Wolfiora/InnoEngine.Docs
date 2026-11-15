@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Marks this event as globally handled.
-
 ## Remarks
 
 Global handling stops dispatch in the current hub and all following hubs.

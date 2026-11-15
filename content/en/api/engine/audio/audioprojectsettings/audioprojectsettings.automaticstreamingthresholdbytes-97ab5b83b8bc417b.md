@@ -13,5 +13,3 @@ reviewed: b3b31fdcaf16a5a29f92ac7d0f71b5616b55d7ddee4c660f4627acc74520715f
 source: xml
 outdated: false
 ---
-
-Gets or sets the encoded byte threshold used by automatic streaming selection.

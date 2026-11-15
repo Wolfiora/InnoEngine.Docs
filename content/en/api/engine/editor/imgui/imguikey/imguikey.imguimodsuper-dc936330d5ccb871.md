@@ -13,5 +13,3 @@ reviewed: 38c85d167c00a46e9f5b6fda3c980c59f66d30234043113cacc5ca403b9aab82
 source: xml
 outdated: false
 ---
-
-Identifies the ImGuiModSuper presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: 2fdfbaaf63846095d9c11daf63607114d4eb8b7e36cc99a44ebf225181fb3201
 source: xml
 outdated: false
 ---
-
-Identifies the DownArrow presentation key or modifier.

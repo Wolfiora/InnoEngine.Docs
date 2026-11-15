@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies an owner-captured property snapshot, preserving its automatic resource dependency declarations.
-
 ## Parameters
 
 **Parameter `properties`:** Complete neutral properties produced by the asset authoring services.

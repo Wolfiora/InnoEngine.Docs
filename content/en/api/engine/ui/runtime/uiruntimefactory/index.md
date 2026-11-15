@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-runtime#session-and-font-ownership
 aliases: []
 ---
-
-Creates one UI service for every isolated runtime session.

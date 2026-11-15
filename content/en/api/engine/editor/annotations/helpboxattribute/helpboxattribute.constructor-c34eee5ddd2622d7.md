@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an Inspector help message shown when a sibling equals a compile-time value.
-
 ## Parameters
 
 **Parameter `text`:** Non-empty message text.

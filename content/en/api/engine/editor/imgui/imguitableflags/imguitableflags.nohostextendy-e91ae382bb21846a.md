@@ -13,5 +13,3 @@ reviewed: bfa56d0cb180a88a477271b12829a5829eb421935a15775190321b56e51a0174
 source: xml
 outdated: false
 ---
-
-Make outer height stop exactly at outer\_size.y (prevent auto-extending table past the limit). Only available when ScrollX/ScrollY are disabled. Data below the limit will be clipped and not visible.

@@ -13,5 +13,3 @@ reviewed: bbab0f9145fe3d0ee6045617ea5e89ccab4bb90dd1066ec1aecd052877b8fe8a
 source: xml
 outdated: false
 ---
-
-Allow 0123456789.+-\*/eE (Scientific notation input)

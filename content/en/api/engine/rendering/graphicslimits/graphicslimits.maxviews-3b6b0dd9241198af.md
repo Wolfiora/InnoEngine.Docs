@@ -13,5 +13,3 @@ reviewed: 2c56608206cfc1415ceb9c8ddeaf468be8a74f270f634878e6242f50f9f6b662
 source: xml
 outdated: false
 ---
-
-Gets the maximum logical backend views in one frame.

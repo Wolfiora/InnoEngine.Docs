@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues display synchronization policy on the API thread for the next frame boundary. Every backend must implement both policies. Repeated values are idempotent and must not reset an active pass. Windowless devices retain the requested policy without performing presentation.
-
 ## Parameters
 
 **Parameter `enabled`:** Whether presentation should wait for display refresh when a presentation surface is present.

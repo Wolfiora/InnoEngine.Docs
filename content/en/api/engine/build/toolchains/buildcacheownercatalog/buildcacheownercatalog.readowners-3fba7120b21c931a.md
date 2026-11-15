@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads explicitly registered roots using each publisher's existing inventory and protection rules.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute checkout containing registrations.

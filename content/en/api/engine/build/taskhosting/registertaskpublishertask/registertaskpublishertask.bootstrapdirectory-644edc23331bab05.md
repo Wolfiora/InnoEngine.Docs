@@ -13,5 +13,3 @@ reviewed: 48b836e76445e900899f83c09fba8a387067bd9eb05d0b499db327bd61f62711
 source: xml
 outdated: false
 ---
-
-Gets or sets the operation-owned compilation directory shared by publishers in this project invocation. This directory is never used as a task assembly load location.

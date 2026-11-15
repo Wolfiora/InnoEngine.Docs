@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a stable snapshot of indexed entries.
-
 ## Parameters
 
 **Parameter `includeDirectories`:** Whether directory entries should be included.

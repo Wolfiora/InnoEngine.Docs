@@ -13,5 +13,3 @@ reviewed: 2e4cf0596992973408d1a69901cf920ebb11eb96a10262fe5c27231d9f7bf297
 source: xml
 outdated: false
 ---
-
-Gets the unscaled header extent used for node movement hit testing.

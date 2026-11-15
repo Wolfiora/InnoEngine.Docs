@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Freezes distribution-selected files and native deployment groups independently of platform packaging.

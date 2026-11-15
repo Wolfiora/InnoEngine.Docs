@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the value that is associated with the specified key.
-
 ## Parameters
 
 **Parameter `key`:** The key to locate.

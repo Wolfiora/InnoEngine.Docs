@@ -13,5 +13,3 @@ reviewed: 1ad279e44511b45ba7c224ccc63a3b5355e83730dd2f9dc5047edad07e721ffb
 source: xml
 outdated: false
 ---
-
-Gets whether this source permits atomic replacement.

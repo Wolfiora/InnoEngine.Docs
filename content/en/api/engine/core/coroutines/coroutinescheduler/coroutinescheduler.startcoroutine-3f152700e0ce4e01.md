@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a coroutine with an owner token.
-
 ## Parameters
 
 **Parameter `owner`:** Owner key used by `M:Inno.Core.Coroutines.CoroutineScheduler.StopAllCoroutines(System.Object)`.

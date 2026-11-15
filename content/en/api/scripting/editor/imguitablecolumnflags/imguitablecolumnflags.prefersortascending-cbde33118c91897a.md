@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Make the initial sort direction Ascending when first sorting on this column (default).

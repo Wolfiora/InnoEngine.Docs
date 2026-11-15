@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Pins one immutable converter generation so serialization remains deterministic across asynchronous continuations and extension reloads.
-
 ## Remarks
 
 A generation may execute operations from any thread after it has been captured. The owner must dispose it when the surrounding transaction completes so collectible extension generations can unload.

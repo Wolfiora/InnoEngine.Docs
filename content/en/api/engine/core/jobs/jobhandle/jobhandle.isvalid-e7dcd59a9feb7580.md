@@ -13,5 +13,3 @@ reviewed: 5e17ce23deca771b1a7a25ca6082e38b0ac1bf4adc2f1410506d72348ec9aef2
 source: xml
 outdated: false
 ---
-
-Gets whether this handle contains a valid identifier.

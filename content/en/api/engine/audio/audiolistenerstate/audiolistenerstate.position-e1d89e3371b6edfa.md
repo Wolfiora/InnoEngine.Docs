@@ -13,5 +13,3 @@ reviewed: c531cd6f25038c554255764703aa16faade2994064fa57dbbf78a808053a5f90
 source: xml
 outdated: false
 ---
-
-Gets the world-space listener position.

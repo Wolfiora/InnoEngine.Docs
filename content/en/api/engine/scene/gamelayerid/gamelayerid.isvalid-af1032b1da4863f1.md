@@ -13,5 +13,3 @@ reviewed: 22bc43017de019b06afd8faeb516455b6b84ab5cdf52e237c87048c95f487149
 source: xml
 outdated: false
 ---
-
-Gets whether this value contains a usable identity.

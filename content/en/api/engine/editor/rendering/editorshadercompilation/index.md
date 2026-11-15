@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Schedules Editor shader compilation for the active device without exposing native handles to authoring panels.

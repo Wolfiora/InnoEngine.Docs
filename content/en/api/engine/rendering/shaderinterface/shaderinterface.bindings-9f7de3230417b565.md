@@ -13,5 +13,3 @@ reviewed: 5fbeda8c82506a0c5718b109eb9b78edde4309320a7924dc0688ce676bc49cf5
 source: xml
 outdated: false
 ---
-
-Gets stable expected bindings.

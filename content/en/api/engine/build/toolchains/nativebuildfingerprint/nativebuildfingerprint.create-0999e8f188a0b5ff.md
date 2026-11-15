@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Hashes declarations using the current operation's initial snapshot or explicit fresh verification phase.
-
 ## Parameters
 
 **Parameter `context`:** The owner of this phase's complete input inventory and content hashes.

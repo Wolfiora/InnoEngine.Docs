@@ -13,5 +13,3 @@ reviewed: 23e3579e8f7f067944b7c7fb36a69d31ddadad230ca0085c1037a7457d25595c
 source: xml
 outdated: false
 ---
-
-Gets the absolute source asset root.

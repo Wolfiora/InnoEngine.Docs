@@ -16,5 +16,3 @@ contracts:
 - project.inno-platform
 aliases: []
 ---
-
-Represents a backend-neutral native window owned by a platform application.

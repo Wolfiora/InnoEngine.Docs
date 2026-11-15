@@ -13,5 +13,3 @@ reviewed: e447acbe96bb63d31669e77384159e1e7e88dac1f8b5be3144261e7f98cb3cba
 source: xml
 outdated: false
 ---
-
-Gets the exact closed declaration.

@@ -13,5 +13,3 @@ reviewed: f7144275cd4fbeb4169ce13543db555ad6e1b943f7ee3233b4d2996c42dccaf8
 source: xml
 outdated: false
 ---
-
-Input or output value flow.

@@ -13,5 +13,3 @@ reviewed: 078a947459071febf13d392ec78b632dec3fae659bc33d6d234cc7ac23a11a87
 source: xml
 outdated: false
 ---
-
-Gets the logical modules required before activation.

@@ -13,5 +13,3 @@ reviewed: 7666236c1ba1400deec32aca911d80891c999491d6a526c7728cf35cef09d826
 source: xml
 outdated: false
 ---
-
-Identifies the CapsLock presentation key or modifier.

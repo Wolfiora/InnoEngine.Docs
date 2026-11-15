@@ -13,5 +13,3 @@ reviewed: c5b5aabaa7baa97a1b2d1a8f8b72194aadae0dd4e4d76d3f6e01dbcc9639ee49
 source: xml
 outdated: false
 ---
-
-Gets an optional positive frame count for a bounded verification run.

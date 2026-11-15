@@ -13,5 +13,3 @@ reviewed: 1f5951e72443d546a72575b7690c57d405e5f39ba5fafd8dc9bcf0ea7e474a26
 source: xml
 outdated: false
 ---
-
-Gets minimum window size.

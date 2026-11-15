@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Represents one isolated, strongly typed object exposed to a Settings field and its consumers.

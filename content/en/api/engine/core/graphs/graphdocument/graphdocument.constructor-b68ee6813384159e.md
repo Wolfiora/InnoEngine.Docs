@@ -13,5 +13,3 @@ reviewed: ca5dc19a2bea95dde4458209e0d04055e8eb6364ff38ec7b579da6118eee5e32
 source: xml
 outdated: false
 ---
-
-Creates an empty document with stable, read-only collection views.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a role against an exact published shader contract rather than a possibly newer authoring asset.
-
 ## Parameters
 
 **Parameter `definition`:** The immutable publication's detached material contract.

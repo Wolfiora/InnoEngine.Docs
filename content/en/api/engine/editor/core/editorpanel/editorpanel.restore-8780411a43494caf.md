@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores readable project state owned by this panel.
-
 ## Remarks
 
 This method is called only when `M:Inno.Editor.Core.EditorPanel.Capture(Inno.Editor.Core.EditorState)` is overridden. It runs once after the panel is attached and before the panel is allowed to capture replacement state.

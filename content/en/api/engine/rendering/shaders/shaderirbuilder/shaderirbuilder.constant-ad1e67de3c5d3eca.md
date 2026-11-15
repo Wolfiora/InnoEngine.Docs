@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Produces a scalar Boolean constant.
-
 ## Parameters
 
 **Parameter `value`:** Scalar Boolean value.

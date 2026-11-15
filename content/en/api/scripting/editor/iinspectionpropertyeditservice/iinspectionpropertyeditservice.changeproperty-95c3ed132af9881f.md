@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies a property mutation and records it when the owning feature observes a value change.
-
 ## Parameters
 
 **Parameter `owner`:** The domain object that owns the root serialized property.

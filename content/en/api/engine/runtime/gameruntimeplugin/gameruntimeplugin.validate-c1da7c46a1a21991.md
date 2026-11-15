@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates identity and ownership declarations.
-
 ## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the contribution is malformed.

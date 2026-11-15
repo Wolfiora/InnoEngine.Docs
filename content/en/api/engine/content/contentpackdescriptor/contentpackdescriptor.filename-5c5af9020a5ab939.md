@@ -13,5 +13,3 @@ reviewed: 1475816bd4212bb272115caf2b126712894651455b23741b187861b45239f714
 source: xml
 outdated: false
 ---
-
-Gets the validated single file name used by the selected content source.

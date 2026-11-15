@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the selected asset path when the editor-wide target belongs to the Asset Browser.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context containing the global selection.

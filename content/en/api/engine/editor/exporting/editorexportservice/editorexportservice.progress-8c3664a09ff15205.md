@@ -13,5 +13,3 @@ reviewed: 546fe986915af7dc2a4a632a8891b72ab61973b29c7fa5a01a3397e45f503803
 source: xml
 outdated: false
 ---
-
-Gets one owner-thread snapshot for the current export, including cancellation and action identity.

@@ -13,5 +13,3 @@ reviewed: 552fea1cab207b6ed9edbf50a5a02debb3eb39c913abafdf35240765111779f1
 source: xml
 outdated: false
 ---
-
-Identifies the N presentation key or modifier.

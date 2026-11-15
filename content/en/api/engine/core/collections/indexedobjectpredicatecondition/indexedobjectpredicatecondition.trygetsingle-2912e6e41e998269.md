@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to get single without changing state when the operation cannot complete.
-
 ## Parameters
 
 **Parameter `store`:** The store consumed by try get single; ownership remains with the caller unless explicitly stated otherwise.

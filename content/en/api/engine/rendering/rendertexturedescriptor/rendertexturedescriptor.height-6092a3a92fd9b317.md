@@ -13,5 +13,3 @@ reviewed: 5d72916f2b54ae2122fed3145c5c960b016bcff187c424be5270b695df0af948
 source: xml
 outdated: false
 ---
-
-Gets the texture height in pixels.

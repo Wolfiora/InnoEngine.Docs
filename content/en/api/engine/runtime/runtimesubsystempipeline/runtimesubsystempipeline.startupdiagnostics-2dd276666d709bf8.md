@@ -13,5 +13,3 @@ reviewed: d47bf726a6338b545251017f4163f1404cf279c79dc42461a752364346418f1b
 source: xml
 outdated: false
 ---
-
-Gets immutable diagnostics for unavailable optional subsystems; no exception or extension instance is retained.

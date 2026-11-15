@@ -13,5 +13,3 @@ reviewed: 5a91f5432af77dbab7a0b6a8a7ab829c8b11cc92be6c038f40a58457a04c3446
 source: xml
 outdated: false
 ---
-
-Alpha-to-coverage rasterization is supported.

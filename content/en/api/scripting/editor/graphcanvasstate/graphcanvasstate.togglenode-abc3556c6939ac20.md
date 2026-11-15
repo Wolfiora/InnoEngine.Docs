@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Toggles one node while preserving the remaining selection.
-
 ## Parameters
 
 **Parameter `nodeId`:** Node to toggle.

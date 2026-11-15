@@ -13,5 +13,3 @@ reviewed: faafd96afa90db46a4064cdd0a7f09048491bf548573b24790082adf711d5c41
 source: xml
 outdated: false
 ---
-
-OpenGL ES renderer.

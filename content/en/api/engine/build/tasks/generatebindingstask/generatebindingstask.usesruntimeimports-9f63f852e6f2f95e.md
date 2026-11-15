@@ -13,5 +13,3 @@ reviewed: 1adea9df780f97f4a02e6618f32b7aee60069c6a95ad640aa758d0ee7655c418
 source: xml
 outdated: false
 ---
-
-Gets whether the selected generated context requires runtime-import initialization.

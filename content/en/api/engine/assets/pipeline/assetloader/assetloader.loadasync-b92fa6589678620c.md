@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Asynchronously loads a canonical asset by persistent identity.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity.

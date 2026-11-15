@@ -13,5 +13,3 @@ reviewed: dbfe203c883c298419c57dc28dbfb4d38b948f8252a39ec86ab4a3f880393016
 source: xml
 outdated: false
 ---
-
-Gets whether the device must run without opening an operating-system playback endpoint.

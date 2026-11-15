@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable runtime content summary with its own frozen source inventory.
-
 ## Parameters
 
 **Parameter `sources`:** Source identities represented by the deployed catalog; their values are copied during construction.

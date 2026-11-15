@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects one declared output while excluding CMake's compiler probes and other build configurations.
-
 ## Parameters
 
 **Parameter `context`:** The selected configuration and target generator policy.

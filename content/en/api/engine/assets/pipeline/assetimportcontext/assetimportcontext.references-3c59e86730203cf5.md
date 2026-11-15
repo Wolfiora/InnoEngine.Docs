@@ -13,5 +13,3 @@ reviewed: 8012e12ad9b59c2e44c10c8c2a0703da727e50acc6793633596d8979e0ee8a23
 source: xml
 outdated: false
 ---
-
-Gets the asset-reference resolver bound to the isolated candidate generation.

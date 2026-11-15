@@ -13,5 +13,3 @@ reviewed: c4f4a7887a7077c36a3206ac8625abfd18852dc085ef320e1ad52721764d2c12
 source: xml
 outdated: false
 ---
-
-Gets immutable phase-specific read accounting accumulated by this operation.

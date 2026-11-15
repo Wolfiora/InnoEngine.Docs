@@ -13,5 +13,3 @@ reviewed: 3c7de34e89c79ad0700637af27fbfa063bbe0ef5350bdcc67e6a040eb20d5b96
 source: xml
 outdated: false
 ---
-
-Gets the mask applied while writing stencil.

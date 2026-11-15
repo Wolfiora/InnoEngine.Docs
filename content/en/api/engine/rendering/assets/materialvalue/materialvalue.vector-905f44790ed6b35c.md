@@ -13,5 +13,3 @@ reviewed: d9c3301a5ca542a6951fb24d36892d4ebeae2223090e5b5a64ab9598932048e6
 source: xml
 outdated: false
 ---
-
-Gets or sets scalar, vector, or color components.

@@ -13,5 +13,3 @@ reviewed: 7e77490aac551b5541af7bef95c129be1cb0b0ea7aefe70af89a2cc8c298cea9
 source: xml
 outdated: false
 ---
-
-Uses the ordinary face.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits a non-code availability change using the same generation gate and recovery phases as script reload.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The Host is not ready for a new generation.

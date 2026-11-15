@@ -13,5 +13,3 @@ reviewed: d44d7e9b166e34d832805dcc1dade1b48599f7bea1b5bbe862b1bf123774a990
 source: xml
 outdated: false
 ---
-
-Gets whether the host console supports changing terminal colors.

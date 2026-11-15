@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Emits ordinary typed constants and aggregate construction into the common IR.
-
 ## Parameters
 
 **Parameter `builder`:** Current region's instruction owner.

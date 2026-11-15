@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Controls one isolated rendering-extension candidate from preparation through atomic completion.

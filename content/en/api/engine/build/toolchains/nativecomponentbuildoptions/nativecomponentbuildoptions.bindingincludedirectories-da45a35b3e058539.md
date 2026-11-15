@@ -13,5 +13,3 @@ reviewed: ef360e14eee499255c0c4cda0dd4ffff6c0e73fe01370e08fbbe59a1144a589f
 source: xml
 outdated: false
 ---
-
-Gets additional checkout-relative binding header roots.

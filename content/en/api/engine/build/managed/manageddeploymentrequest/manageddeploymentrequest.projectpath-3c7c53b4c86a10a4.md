@@ -13,5 +13,3 @@ reviewed: 908e1e5680b5c064dc9f5fcefe59ff94dd49ddd803c30d72989a7fbb891d7e81
 source: xml
 outdated: false
 ---
-
-Gets the prepared entry project owned by this build.

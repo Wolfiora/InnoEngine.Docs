@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds items by key and returns a stable snapshot.
-
 ## Remarks
 
 The returned list is detached from subsequent store mutations.

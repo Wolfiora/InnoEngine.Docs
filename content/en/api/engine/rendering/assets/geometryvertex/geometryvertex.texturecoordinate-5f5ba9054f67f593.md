@@ -13,5 +13,3 @@ reviewed: 66cf977fb2f413e11a802730f84cf7a6201c469110e56736d26d37a8c30a9827
 source: xml
 outdated: false
 ---
-
-Gets the primary texture coordinate.

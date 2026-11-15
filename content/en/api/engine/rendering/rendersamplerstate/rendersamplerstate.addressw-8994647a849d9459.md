@@ -13,5 +13,3 @@ reviewed: 5727ffcef14a07092ee1b8acab47d125278f9ac2e8b88a1d19787a01b681c173
 source: xml
 outdated: false
 ---
-
-Gets depth or cube addressing.

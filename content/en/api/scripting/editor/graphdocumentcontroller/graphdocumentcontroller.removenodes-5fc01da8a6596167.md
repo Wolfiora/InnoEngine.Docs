@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes nodes and all incident connections as one structural edit.
-
 ## Parameters
 
 **Parameter `nodeIds`:** Nodes to remove.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a required named value through the unified value pipeline.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The declared value type.

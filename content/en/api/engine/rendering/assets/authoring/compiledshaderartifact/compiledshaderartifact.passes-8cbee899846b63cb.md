@@ -13,5 +13,3 @@ reviewed: 8c7e5ca72aacaf081e3925eb959c6c6370e41fd15e67109c2286f4ff5c48109d
 source: xml
 outdated: false
 ---
-
-Gets compiled pass binaries.

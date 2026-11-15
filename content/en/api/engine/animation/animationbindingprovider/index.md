@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Applies one declared binding protocol on the owner thread; implementations never run in native callbacks.

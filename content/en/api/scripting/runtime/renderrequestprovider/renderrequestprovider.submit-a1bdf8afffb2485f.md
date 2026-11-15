@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits zero or more requests for the current frame.
-
 ## Parameters
 
 **Parameter `context`:** Frame-scoped provider context.

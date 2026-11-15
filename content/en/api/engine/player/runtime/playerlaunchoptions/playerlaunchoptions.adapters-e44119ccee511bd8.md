@@ -13,5 +13,3 @@ reviewed: 2b0b0b411bbb50cea79e2e085ad1e444e4b9844faf3da9e4611fbf7795097ff3
 source: xml
 outdated: false
 ---
-
-Gets the host-owned factories used to create isolated runtime adapters.

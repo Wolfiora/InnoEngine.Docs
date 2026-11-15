@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a component step without embedding any backend list in the shared executor.
-
 ## Parameters
 
 **Parameter `id`:** The expected published component identity.

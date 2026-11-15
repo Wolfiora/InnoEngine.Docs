@@ -13,5 +13,3 @@ reviewed: 11d7e0eb99ded10362d4c670e8c6e4251fbdcec854b99af048c34edba6e4d3f0
 source: xml
 outdated: false
 ---
-
-Gets the immutable module artifacts and dependency topology produced by this compilation.

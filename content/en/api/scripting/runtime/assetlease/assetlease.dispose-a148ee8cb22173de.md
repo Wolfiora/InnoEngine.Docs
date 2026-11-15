@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases this caller's residency ownership, retaining its value and callback while the provider reports Pending.
-
 ## Remarks
 
 Pending may be wrapped in another exception; classify the complete failure with RetirementPendingException.Find. Ordinary sibling failures remain observable after a later release attempt succeeds.

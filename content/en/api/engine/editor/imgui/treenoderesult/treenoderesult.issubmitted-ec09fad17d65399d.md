@@ -13,5 +13,3 @@ reviewed: ada7d61065dcb40cca8fa238c5b274cd89d7544b17d142d87d5421c89076cb4e
 source: xml
 outdated: false
 ---
-
-Gets whether row controls were submitted; ordinary clipped rows are false, while preserved active edits remain true.

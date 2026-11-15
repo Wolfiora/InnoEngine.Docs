@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves this immutable selection in its original domains, including same-identity recovery after a generation change.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The target type accepted by the current presenter.

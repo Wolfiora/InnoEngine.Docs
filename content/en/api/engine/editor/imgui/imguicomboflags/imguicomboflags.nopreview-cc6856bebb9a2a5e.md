@@ -13,5 +13,3 @@ reviewed: ffc1125fac644037c774e67717f20bbd1d63868942aa5f8921107b0d7d65e00d
 source: xml
 outdated: false
 ---
-
-Display only a square arrow button

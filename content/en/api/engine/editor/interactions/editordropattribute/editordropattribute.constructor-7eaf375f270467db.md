@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a drop registration scoped to an exact interaction area.
-
 ## Parameters
 
 **Parameter `area`:** The exact target area handled by this registration, or an empty string for any area.

@@ -13,5 +13,3 @@ reviewed: 910651fc96bd302c1db8b2311cf494b468234bf7a070ab9e0ba0b048ba7f42be
 source: xml
 outdated: false
 ---
-
-Gets preprocessor symbols applied to this assembly.

@@ -13,5 +13,3 @@ reviewed: 4921c55cc0e20d1e20cea3932ba00e883fa7304bf2bbd1301d04dc2cb08d4748
 source: xml
 outdated: false
 ---
-
-Gets the absolute path of the project editor layout document.

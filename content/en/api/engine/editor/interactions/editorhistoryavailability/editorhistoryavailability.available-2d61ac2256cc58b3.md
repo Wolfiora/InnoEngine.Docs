@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an available transition result.
-
 ## Returns
 
 An availability value that permits the transition.

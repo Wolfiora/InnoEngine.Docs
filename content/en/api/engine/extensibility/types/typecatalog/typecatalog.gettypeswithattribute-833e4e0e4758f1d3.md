@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all non-abstract discovered types marked with `TAttribute`.
-
 ## Type parameters
 
 **Type parameter `TAttribute`:** The required attribute type.

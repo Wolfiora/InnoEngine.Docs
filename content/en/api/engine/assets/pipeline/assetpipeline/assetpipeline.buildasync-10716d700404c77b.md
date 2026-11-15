@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs an aggregate asset build using the processor registered for a definition.
-
 ## Parameters
 
 **Parameter `definition`:** The build definition asset.

@@ -13,5 +13,3 @@ reviewed: f1db8381866639c32ea9b2b57079e79420c274076cb2bd6b930286890b88084b
 source: xml
 outdated: false
 ---
-
-Gets or sets required device capabilities.

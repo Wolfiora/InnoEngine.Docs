@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Routes backend-neutral platform events through Core Events to isolated runtime-session input backends.

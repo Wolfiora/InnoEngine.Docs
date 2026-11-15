@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Presents an active action for a typed target and argument.
-
 ## Parameters
 
 **Parameter `context`:** The typed presentation request.

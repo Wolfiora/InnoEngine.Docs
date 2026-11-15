@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws transient gizmos and diagnostics over the viewport.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

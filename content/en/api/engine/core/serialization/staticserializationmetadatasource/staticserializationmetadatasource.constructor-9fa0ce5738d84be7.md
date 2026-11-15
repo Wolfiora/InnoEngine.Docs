@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes generated declaration contributions supplied by the Player composition.
-
 ## Parameters
 
 **Parameter `catalogs`:** Assembly-local registration methods; delegates are released after construction.

@@ -13,5 +13,3 @@ reviewed: 46327ddb516204500168eb48c6b34da7b1314adbd14b59f7054ccd2ef25c2893
 source: xml
 outdated: false
 ---
-
-Selects the text disabled presentation behavior.

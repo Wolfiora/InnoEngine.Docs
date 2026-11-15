@@ -13,5 +13,3 @@ reviewed: 680d51eb54d34451bc610a5122ef730b4df8d96fdd37bdf174ae68fa5347dc09
 source: xml
 outdated: false
 ---
-
-Gets the exact binding generation compiled into this product, or null for a component without bindings. Managed consumers must retain this selection rather than resolve a new generation after native preparation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts one authoring preflight after indexing, retaining its dependencies until it drains.
-
 ## Parameters
 
 **Parameter `validate`:** Owner-thread capture followed by asynchronous validation. Continuations must not mutate live Assets.

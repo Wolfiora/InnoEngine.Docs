@@ -13,5 +13,3 @@ reviewed: 4e40a4f61818a17e2453b49a5e234491f5ae378b2c7533969785e8367d908831
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: \_display\_ values formatted as 0.0f..1.0f floats instead of 0..255 integers. No round-trip of value via integers.

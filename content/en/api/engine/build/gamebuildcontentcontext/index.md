@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Supplies isolated staging and profile data for target-specific offline artifact generation.

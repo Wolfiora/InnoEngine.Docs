@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects a declared table column for subsequent controls.
-
 ## Parameters
 
 **Parameter `index`:** The zero-based item index.

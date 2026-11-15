@@ -13,5 +13,3 @@ reviewed: 9bba5e71d4e35c0cbef83b9666237c2b66ba571f169893e1200f60e9c994ac82
 source: xml
 outdated: false
 ---
-
-Gets the tie-breaking priority.

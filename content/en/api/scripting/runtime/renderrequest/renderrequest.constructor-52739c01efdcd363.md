@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable render request.
-
 ## Parameters
 
 **Parameter `name`:** Frame-local diagnostic name.

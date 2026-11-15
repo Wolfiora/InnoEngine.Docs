@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Declares the producer's file lifetime independently of target identity and directory naming.

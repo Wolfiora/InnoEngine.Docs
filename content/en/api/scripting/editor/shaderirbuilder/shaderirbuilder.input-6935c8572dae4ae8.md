@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a named input from the enclosing typed function or stage interface.
-
 ## Parameters
 
 **Parameter `name`:** Stable interface identity; it is not emitted as native source verbatim.

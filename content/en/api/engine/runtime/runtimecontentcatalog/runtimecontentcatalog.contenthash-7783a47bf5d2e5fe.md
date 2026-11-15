@@ -13,5 +13,3 @@ reviewed: 0358ce70385996bc26329f47a60de6c5e0379a96045c4ffbfb3462324eb06776
 source: xml
 outdated: false
 ---
-
-Gets or sets the SHA-256 identity of the complete content pack bytes.

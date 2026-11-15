@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Evaluates the authoring project's selected SDK and maps its framework contract into scripting inputs.

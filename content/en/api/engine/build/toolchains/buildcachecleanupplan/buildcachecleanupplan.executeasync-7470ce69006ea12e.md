@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes the original proposal under fresh owner and artifact leases without waiting for active readers.
-
 ## Parameters
 
 **Parameter `dryRun`:** Whether to report the proposal without acquiring mutation leases or deleting files.

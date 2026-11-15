@@ -13,5 +13,3 @@ reviewed: c7c07f381c03542fe7dbce98a742e0e17020b58664a3fcefdb387648cb1ecb1c
 source: xml
 outdated: false
 ---
-
-Gets the default assembly scope inferred for the source.

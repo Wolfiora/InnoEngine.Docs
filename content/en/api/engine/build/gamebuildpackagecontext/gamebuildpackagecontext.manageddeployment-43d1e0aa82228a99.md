@@ -13,5 +13,3 @@ reviewed: 2a45b69b6a2f5662dd2dcf9d260ce8257e82fdcbc4a476dbcbf44bad39581a19
 source: xml
 outdated: false
 ---
-
-Gets the verified managed publication produced independently of platform packaging.

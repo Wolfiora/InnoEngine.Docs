@@ -13,5 +13,3 @@ reviewed: c007f32d5073900fe6c89247c1ee33db0f6fdfa9c2787510de124b8701522148
 source: xml
 outdated: false
 ---
-
-Gets the stable panel identifier.

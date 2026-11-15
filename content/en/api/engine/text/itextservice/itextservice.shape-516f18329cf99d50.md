@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Shapes one Unicode string with an imported font.
-
 ## Parameters
 
 **Parameter `font`:** The imported font source.

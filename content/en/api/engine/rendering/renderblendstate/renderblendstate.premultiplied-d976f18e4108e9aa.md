@@ -13,5 +13,3 @@ reviewed: ef6ebdf0b5959ccbfa81751b9ee6a5ab323d43b91843e82de55636768684b4f0
 source: xml
 outdated: false
 ---
-
-Gets conventional premultiplied-alpha blending.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records value rendering for the current frame.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the canonical Shader candidate for an isolated Material preview without modifying Material values.
-
 ## Parameters
 
 **Parameter `shader`:** Current owner Shader reference.

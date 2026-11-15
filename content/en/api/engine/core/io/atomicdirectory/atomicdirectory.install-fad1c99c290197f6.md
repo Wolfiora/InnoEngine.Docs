@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Installs a disjoint candidate tree and restores the previous destination if installation fails.
-
 ## Parameters
 
 **Parameter `source`:** The complete candidate directory.

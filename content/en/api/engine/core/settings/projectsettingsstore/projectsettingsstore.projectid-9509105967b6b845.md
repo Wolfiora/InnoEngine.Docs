@@ -13,5 +13,3 @@ reviewed: 34654fa8bea64ee59e400ce4ff47e179201a5d0156cb5dab3d72c7bdc810b6ed
 source: xml
 outdated: false
 ---
-
-Gets the current project namespace.

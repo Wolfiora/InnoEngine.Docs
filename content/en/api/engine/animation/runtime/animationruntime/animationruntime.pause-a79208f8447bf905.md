@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pauses one live playback without changing its clip-local time.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle produced by this runtime generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Saves all document changes to its asset source.
-
 ## Parameters
 
 **Parameter `context`:** Stable document context owned by the host.

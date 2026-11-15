@@ -13,5 +13,3 @@ reviewed: a3cee936d345babb235522e26d65b10e69fb8bd51b49c22ea289cfcfdee0f675
 source: xml
 outdated: false
 ---
-
-Selects the table border light presentation behavior.

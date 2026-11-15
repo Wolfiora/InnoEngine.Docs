@@ -13,5 +13,3 @@ reviewed: a1065807d32062e4a60cdc8d73e1a7b15595eec549380ca11b044cd7a5b82da5
 source: xml
 outdated: false
 ---
-
-Gets the stable processor identifier used by build cache keys.
