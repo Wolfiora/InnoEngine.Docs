@@ -1,6 +1,6 @@
 # English documentation modernization
 
-Publication amendment (2026-11-14): the user approved [Vercel Git deployment](../decisions/VERCEL_GIT_DEPLOYMENT.md). Its GitHub PR acceptance/main-only Vercel build supersedes the older paired-publication, Pages and exact-site-artifact-upload requirements below. Earlier checkpoint counts and conclusions remain historical evidence, not current deployment instructions. Follow the [current publication guide](../../../content/en/contributing/publish-documentation.md).
+Publication amendment (2026-11-15): the user approved GitHub Pages as the sole publisher after shared navigation reduced the site below its 1 GB limit. This supersedes earlier hosting and paired-publication requirements. Follow [Pages publication](PAGES_PUBLICATION_2026_11_15.md) and the [current guide](../../../content/en/contributing/publish-documentation.md). Earlier checkpoints below remain historical evidence.
 
 Status: content and query integration locally accepted; matching hosted certification and protected deployment remain outstanding.
 

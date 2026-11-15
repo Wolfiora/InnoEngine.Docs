@@ -1,39 +1,43 @@
 ---
 import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
-import SidebarTree from './SidebarTree.astro';
-const { sidebar } = Astro.locals.starlightRoute;
+import { navigation } from '../../scripts/site-navigation.mjs';
 ---
-
-<inno-sidebar><SidebarTree entries={sidebar} /></inno-sidebar>
+<inno-sidebar data-pagefind-ignore>
+  <ul class="root">
+    {navigation.roots.map(entry => <li data-key={entry.key}>
+      <div class="nav-row">
+        {entry.children && <button type="button" class:list={{ toggle: true, 'whole-row': !entry.href }} aria-expanded="false" aria-label={`Toggle ${entry.label}`} data-children={entry.children}>
+          <span class="caret" aria-hidden="true">+</span>{!entry.href && <span>{entry.label}</span>}
+        </button>}
+        {entry.href && <a href={entry.href}>{entry.label}</a>}
+      </div>
+    </li>)}
+  </ul>
+  <noscript><p>Browse the <a href="/InnoEngine.Docs/">documentation home</a> or <a href="/InnoEngine.Docs/api/">API category tables</a>.</p></noscript>
+</inno-sidebar>
 <div class="md:sl-hidden"><MobileMenuFooter /></div>
-
-<script>
-  class InnoSidebar extends HTMLElement {
-    connectedCallback() {
-      const key = 'inno-sidebar-disclosures-v1';
-      let state: Record<string, boolean> = {};
-      try {
-        const saved = JSON.parse(sessionStorage.getItem(key) ?? '{}');
-        if (saved && typeof saved === 'object' && !Array.isArray(saved)) state = saved;
-      } catch { /* Storage is optional. */ }
-      for (const details of this.querySelectorAll<HTMLDetailsElement>('details[data-key]')) {
-        const identity = details.dataset.key!;
-        details.open = state[identity] === true;
-        details.addEventListener('toggle', () => {
-          state[identity] = details.open;
-          try { sessionStorage.setItem(key, JSON.stringify(state)); } catch { /* Native disclosure still works. */ }
-        });
-      }
-      const scroller = document.getElementById('starlight__sidebar');
-      if (scroller) {
-        try { scroller.scrollTop = Number(sessionStorage.getItem('inno-sidebar-scroll-v1')) || 0; } catch { /* Storage is optional. */ }
-        addEventListener('pagehide', () => {
-          try { sessionStorage.setItem('inno-sidebar-scroll-v1', String(scroller.scrollTop)); } catch { /* Storage is optional. */ }
-        }, { once: true });
-      }
-    }
+<script src="../scripts/sidebar.ts"></script>
+<style is:global>
+  inno-sidebar {
+    display: block;
+    ul { list-style: none; padding: 0; margin: 0; }
+    .children > ul { margin-inline-start: 1rem; border-inline-start: 1px solid var(--sl-color-hairline-light); }
+    li { overflow-wrap: anywhere; }
+    .root > li + li { margin-top: .3rem; }
+    .nav-row { display: flex; align-items: stretch; min-height: 2.2rem; border-radius: .2rem; }
+    .nav-row:hover { background: var(--sl-color-gray-6); }
+    a { flex: 1; min-width: 0; color: var(--sl-color-gray-2); padding: .35rem .45rem; text-decoration: none; line-height: 1.45; }
+    .nav-row > a:only-child { margin-inline-start: 2rem; }
+    .toggle { display: flex; align-items: flex-start; gap: .45rem; flex: 0 0 2rem; padding: .5rem .5rem; color: var(--sl-color-gray-2); background: none; border: 0; font: inherit; text-align: start; cursor: pointer; }
+    .toggle.whole-row { flex: 1; display: grid; grid-template-columns: 2rem minmax(0, 1fr); gap: 0; padding: 0; line-height: 1.45; }
+    .whole-row > span:last-child { padding: .35rem .45rem; }
+    .whole-row .caret { margin: .55rem .5rem; }
+    .caret { display: inline-flex; flex: 0 0 1rem; width: 1rem; height: 1rem; justify-content: center; align-items: center; border: 1px solid currentColor; border-radius: 2px; font: 14px/1 monospace; }
+    .children { overflow: hidden; }
+    .children[hidden] { display: none; }
+    .nav-row:has([aria-expanded='true']) { background: var(--sl-color-gray-6); }
+    [aria-current='page'] { background: var(--sl-color-text-accent); color: var(--sl-color-text-invert); border-radius: .2rem; }
+    a:focus-visible, button:focus-visible { outline: 2px solid var(--sl-color-text-accent); outline-offset: -2px; }
+    .nav-error { padding: .4rem; color: var(--sl-color-text); font-size: .85rem; }
   }
-  if (!customElements.get('inno-sidebar')) customElements.define('inno-sidebar', InnoSidebar);
-</script>
-
-<style>inno-sidebar { display: contents; }</style>
+</style>

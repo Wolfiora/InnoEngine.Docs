@@ -131,37 +131,41 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   })).toBeLessThanOrEqual(8);
 });
 
-test('sidebar starts collapsed, separates navigation from disclosure and sorts API types', async ({ page }, testInfo) => {
+test('shared sidebar loads only expanded groups, links homes and animates both directions', async ({ page }, testInfo) => {
+  const requested: string[] = [];
+  page.on('request', request => { if (request.url().includes('/navigation-data/')) requested.push(request.url()); });
   await page.goto('api/');
   const mobile = page.getByRole('button', { name: /Menu/ });
   if (await mobile.isVisible()) await mobile.click();
   const sidebar = page.locator('inno-sidebar');
-  await expect(sidebar.locator('details[open]')).toHaveCount(0);
-  const api = sidebar.locator('details[data-key="/InnoEngine.Docs/api/"]');
-  await api.locator(':scope > summary').focus();
+  await expect(sidebar.locator('[aria-expanded="true"]')).toHaveCount(0);
+  expect(requested).toHaveLength(0);
+  const toggle = (name: string) => sidebar.getByRole('button', { name: 'Toggle ' + name, exact: true });
+  await toggle('API Reference').focus();
   await page.keyboard.press('Enter');
-  await expect(api).toHaveAttribute('open', '');
-  const engine = sidebar.locator('details[data-key="/InnoEngine.Docs/api/engine/"]');
-  const engineLink = engine.locator(':scope > summary > a');
-  await expect(sidebar.locator('a[href="/InnoEngine.Docs/api/engine/"]')).toHaveCount(1);
-  await engineLink.click();
+  await expect(toggle('Engine')).toBeVisible();
+  expect(requested).toHaveLength(1);
+  await sidebar.getByRole('link', { name: 'Engine', exact: true }).click();
   await expect(page).toHaveURL(/\/api\/engine\/$/);
   if (await mobile.isVisible()) await mobile.click();
-  await expect(engine).not.toHaveAttribute('open');
-  await expect(api).toHaveAttribute('open', '');
-  await expect(page.getByRole('main').getByRole('table')).toBeVisible();
-  await engine.locator(':scope > summary > .caret').click();
-  await expect(engine).toHaveAttribute('open', '');
-  const scripting = sidebar.locator('details[data-key="/InnoEngine.Docs/api/scripting/"]');
-  await scripting.locator(':scope > summary > .caret').click();
-  const authoring = sidebar.locator('details[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
-  await authoring.locator(':scope > summary > .caret').click();
-  const names = await authoring.locator(':scope > ul > li > a').allTextContents();
-  expect(names).toContain('HeaderAttribute');
+  await expect(toggle('Engine')).toHaveAttribute('aria-expanded', 'false');
+  await expect(toggle('API Reference')).toHaveAttribute('aria-expanded', 'true');
+  await toggle('Scripting').click();
+  await toggle('Authoring').click();
+  const authoring = sidebar.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
+  const links = authoring.locator(':scope > .children > ul > li > .nav-row > a');
+  await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
+  const names = await links.allTextContents();
   expect(names).toEqual([...names].sort((a,b)=>a.localeCompare(b,'en',{sensitivity:'base'})));
-  await page.screenshot({ path: testInfo.outputPath('linked-categories.png') });
-  await authoring.locator(':scope > summary > a').focus();
-  await page.keyboard.press('Enter');
+  const panel = authoring.locator(':scope > .children');
+  await toggle('Authoring').click();
+  await expect(panel).toBeHidden();
+  const count = requested.length;
+  await toggle('Authoring').click();
+  await expect(panel).toBeVisible();
+  expect(requested).toHaveLength(count);
+  await page.screenshot({ path: testInfo.outputPath('shared-categories.png') });
+  await authoring.locator(':scope > .nav-row > a').click();
   await expect(page).toHaveURL(/\/api\/scripting\/authoring\/$/);
 });
 
@@ -270,15 +274,8 @@ test('essential ownership content remains available without JavaScript', async (
     await expect(page.getByRole('main')).toContainText('Entering a scope does not add synchronization');
     await expect(page.getByRole('link', { name: 'Types and exact member contracts', exact: true })).toBeVisible();
     await page.goto(new URL('api/', baseURL).href);
-    const sidebar = page.locator('inno-sidebar');
-    await expect(sidebar.locator('details[open]')).toHaveCount(0);
-    if (page.viewportSize()!.width < 800) {
-      // Starlight's mobile menu requires JavaScript; the canonical category table remains a complete reading path.
-      await page.getByRole('main').getByRole('link', { name: 'Engine', exact: true }).click();
-    } else {
-      await sidebar.locator('details[data-key="/InnoEngine.Docs/api/"] > summary > .caret').click();
-      await sidebar.locator('details[data-key="/InnoEngine.Docs/api/engine/"] > summary > a').click();
-    }
+    // Category tables are the complete navigation fallback without client JavaScript.
+    await page.getByRole('main').getByRole('link', { name: 'Engine', exact: true }).click();
     await expect(page).toHaveURL(/\/api\/engine\/$/);
     await expect(page.getByRole('main').getByRole('table')).toBeVisible();
   } finally {
@@ -293,8 +290,8 @@ test('navigation and theme controls work at the selected viewport', async ({ pag
   // Starlight's navigation wrapper uses display: contents; exercise the visible link itself.
   const navigation = page.getByRole('navigation', { name: 'Main', exact: true });
   const task = navigation.getByRole('link', { name: 'Instantiate a prefab in its owning scene', exact: true });
-  await navigation.locator('summary[aria-label="Toggle Manual"]').click();
-  await navigation.locator('summary[aria-label="Toggle Scenes and objects"]').click();
+  await navigation.locator('button[aria-label="Toggle Manual"]').click();
+  await navigation.locator('button[aria-label="Toggle Scenes and objects"]').click();
   await expect(task).toBeVisible();
   const theme = page.getByRole('combobox', { name: 'Select theme', exact: true });
   await theme.selectOption('dark');
