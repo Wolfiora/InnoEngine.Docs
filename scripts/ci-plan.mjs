@@ -53,7 +53,9 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   const selected = new Map();
   const choose = (file, reason) => { if (byPath.has(file) && !selected.has(file)) selected.set(file, reason); };
   const search = plan.changed.some(file => /search|pagefind/i.test(file));
-  const semantic = plan.changed.some(file => /^(scripts\/(?:api-|canonical-|documentation-|check-projection|ci-plan)|reference\/engine\.lock|package|astro\.config|\.github\/|src\/content)/.test(file)
+  const changedParser = plan.changed.includes('reference/engine.lock.json')
+    && (!catalog.documentationToolIdentity || previous?.tool !== catalog.documentationToolIdentity);
+  const semantic = changedParser || plan.changed.some(file => /^(scripts\/(?:api-|canonical-|documentation-|check-projection|ci-plan)|package|astro\.config|\.github\/|src\/content)/.test(file)
     || (!administrative(file) && !/^(content\/|reference\/|src\/|navigation\/|public\/|scripts\/|tests\/|playwright\.config|tsconfig|\.node-version)/.test(file)));
   if (plan.mode === 'Release' || search || semantic) {
     for (const page of catalog.pages) choose(page.path, plan.mode === 'Release' ? 'Release requires every page' : 'Shared semantic or search input changed');
@@ -111,7 +113,7 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   const pending = pages.filter(page => !reusedPages.includes(page));
   const browser = pending.length ? browserRequired : 'None';
   return { ...plan, snapshot: catalog.snapshot, pages: pending, reusedPages, renderer, render: pending.length > 0,
-    search: plan.mode === 'Release' || search, browser,
+    search: plan.mode === 'Release' || search || semantic, browser,
     checks: [{ id: 'guidance', required: true, reason: 'Repository instructions and links' },
       { id: 'catalog', required: true, reason: 'Global identities, references and anchors' },
       { id: 'examples', required: true, reason: 'Reuse matching groups; compile only invalidated groups' },
@@ -158,7 +160,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     try { previous = JSON.parse(await readFile('artifacts/checks/verified.json', 'utf8')); }
     catch (error) { if (error.code !== 'ENOENT') throw error; }
     const tracked = [...new Set(execFileSync('git',['ls-files','--cached','--others','--exclude-standard'],{encoding:'utf8',maxBuffer:128*1024*1024}).trim().split('\n').filter(controlInput))];
-    const renderer = identity([process.version, process.platform, process.arch, process.env.ImageVersion,
+    const renderer = identity([catalog.documentationToolIdentity, process.version, process.platform, process.arch, process.env.ImageVersion,
       (await Promise.all(tracked.map(async file => {
         try { return [file, identity(await readFile(file,'utf8'))]; }
         catch (error) { if (error.code === 'ENOENT') return null; throw error; }

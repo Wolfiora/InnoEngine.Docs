@@ -96,6 +96,7 @@ export async function prepareCatalog({ root = process.cwd(), engineRoot = proces
       const compilerInputs = await bundleInputs({ host, project:path.join(engine,'tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj'), engine, workspace, env, signal });
       const catalogPath = path.join(root,'artifacts/canonical-catalog.json');
       const catalog = JSON.parse(await readFile(catalogPath,'utf8'));
+      catalog.documentationToolIdentity = inputs.key;
       // Bind actual compiler implementation inputs, not an unrelated engine commit.
       // API dependencies remain conservative until the capture has precise references.
       const captureInputs = [];

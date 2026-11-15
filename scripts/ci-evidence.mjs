@@ -194,7 +194,7 @@ async function createChecks() {
   }));
   await mkdir('artifacts/checks/receipt',{recursive:true});
   await writeFile('artifacts/checks/receipt/identity.json',JSON.stringify({schema:'inno-page-checks/1',status:'Passed',
-    run:Number(process.env.GITHUB_RUN_ID),attempt:Number(process.env.GITHUB_RUN_ATTEMPT),pages}));
+    run:Number(process.env.GITHUB_RUN_ID),attempt:Number(process.env.GITHUB_RUN_ATTEMPT),tool:catalog.documentationToolIdentity,pages}));
 }
 /** Privileged publisher recomputes selected inputs itself; it never executes producer scripts. */
 export async function verifyPublicationInputs(producer, currentCommit) {

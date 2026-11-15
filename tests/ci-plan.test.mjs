@@ -51,3 +51,13 @@ test('API input changes select changed canonical composition and preserve exact-
  selected=selectPages(plan(['content/en/a.md']),changed,{previous,renderer:'changed-tool'});
  assert.ok(selected.pages.length>0);
 });
+
+test('API binding revisions do not invalidate an unchanged canonical tool', () => {
+  const current = {...catalog, documentationToolIdentity:'tool', pages:catalog.pages.map(p=>p.id === 'a' ? {...p,contentIdentity:'new'} : p)};
+  const previous = {tool:'tool',pages:Object.fromEntries(catalog.pages.map(p=>[p.path,{content:p.contentIdentity}]))};
+  const selected = selectPages(plan(['reference/engine.lock.json','reference/api/context.json']),current,{previous});
+  assert.ok(selected.pages.some(p=>p.id==='a'));
+  assert.ok(!selected.pages.some(p=>p.id==='c'));
+  assert.equal(selected.browser,'None');
+  assert.equal(selectPages(plan(['reference/engine.lock.json']),{...current,documentationToolIdentity:'changed'},{previous}).pages.length,4);
+});
