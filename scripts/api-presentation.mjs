@@ -19,21 +19,17 @@ export function apiPresentation() {
         summary.data = { hProperties: { className: ['api-summary'] } };
       }
     }
-    for (const node of tree.children) {
+    for (const node of [...tree.children]) {
+      if (index < 0) break;
       if (node.type !== 'blockquote') continue;
       const first = node.children[0]?.children?.[0];
       if (first?.type !== 'text') continue;
       const match = /^\[!(SYNCED|OUTDATED|VERIFIED)\]\n/.exec(first.value);
       if (!match) continue;
       const status = match[1].toLowerCase();
-      const title = status[0].toUpperCase() + status.slice(1);
-      first.value = first.value.slice(match[0].length);
-      node.data = { hName: 'aside', hProperties: { className: ['api-status', 'api-status-' + status], 'aria-label': title } };
-      node.children.unshift({ type: 'paragraph', data: { hProperties: { className: ['api-status-heading'] } }, children: [
-        { type: 'emphasis', children: [{ type: 'text', value: status === 'synced' ? '!' : status === 'outdated' ? '×' : '✓' }],
-          data: { hName: 'span', hProperties: { className: ['api-status-icon'], 'aria-hidden': 'true' } } },
-        { type: 'strong', children: [{ type: 'text', value: title }] },
-      ] });
+      if (file.data.astro.frontmatter.editorialStatus) throw new Error('Repeated canonical API status.');
+      file.data.astro.frontmatter.editorialStatus = status;
+      tree.children.splice(tree.children.indexOf(node), 1);
     }
   };
 }

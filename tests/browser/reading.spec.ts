@@ -119,9 +119,9 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   await expect(page.getByRole('main').getByRole('link', { name: 'Edit this page on GitHub', exact: true })).toHaveCount(1);
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
   await expect(page.getByRole('main')).not.toContainText('XML-synced');
-  const tip = page.locator('aside.api-status-synced');
-  await expect(tip).toContainText('synchronized from the source XML');
-  expect(await tip.evaluate(element => !!(element.compareDocumentPosition(document.getElementById('required-contracts')!) & Node.DOCUMENT_POSITION_FOLLOWING))).toBe(true);
+  const tip = page.locator('.api-status-synced:visible');
+  await expect(tip).toHaveText('! Synced');
+  await expect(page.locator('.sl-markdown-content .api-status')).toHaveCount(0);
   const actions = page.locator('.source-actions');
   await expect(actions.locator('a').nth(0)).toHaveText('Source declaration');
   await expect(actions.locator('a').nth(1)).toHaveText('Edit this page on GitHub');
@@ -269,22 +269,47 @@ test('sidebar opening has no full-height flash and rapid reversal stays open', a
   await expect(panel).toBeVisible();
 });
 
-test('status precedes the title, XML summaries are quoted, and metadata is compact', async ({ page }, testInfo) => {
+test('status sits in the page chrome, XML summaries are quoted, and metadata is compact', async ({ page }, testInfo) => {
   await page.goto('api/scripting/authoring/headerattribute/');
   const main = page.getByRole('main');
   const order = await main.evaluate(element => {
     const heading = element.querySelector('h1')!;
     const summary = (heading.closest('.sl-heading-wrapper') ?? heading).nextElementSibling;
     const metadata = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('API:'))!;
-    const status = element.querySelector('aside.api-status')!;
     return { summary: summary?.textContent, summaryTag: summary?.tagName, items: summary?.querySelectorAll('li').length,
-      statusBeforeTitle: !!(status.compareDocumentPosition(heading) & Node.DOCUMENT_POSITION_FOLLOWING),
       project: metadata.textContent, breaks: metadata.querySelectorAll('br').length };
   });
   expect(order.summary).toContain('Starts a visually separated Inspector section');
   expect(order.summaryTag).toBe('BLOCKQUOTE');
   expect(order.items).toBe(1);
-  expect(order.statusBeforeTitle).toBe(true);
+  await expect(page.locator('.api-status:visible')).toHaveCount(1);
+  await expect(main.locator('.sl-markdown-content .api-status')).toHaveCount(0);
+  await expect(page.getByRole('main')).not.toContainText('This explanation is synchronized from the source XML documentation.');
+  const desktop = (page.viewportSize()?.width ?? 0) >= 1152;
+  if (desktop) {
+    const header = page.locator('.api-sidebar-header');
+    await expect(header.locator('.api-status')).toHaveText('! Synced');
+    await expect(page.locator('.right-sidebar-panel h2')).toHaveText('TABLE OF CONTENTS');
+    await expect.poll(() => page.evaluate(() => {
+      const sidebar = document.querySelector('.api-sidebar-header')!.getBoundingClientRect();
+      const context = document.querySelector('main > .content-panel')!.getBoundingClientRect();
+      return Math.abs(sidebar.bottom - context.bottom);
+    })).toBeLessThanOrEqual(1);
+    const geometry = await header.evaluate(element => {
+      const status = element.querySelector('.api-status')!;
+      const label = status.querySelector('strong')!.getBoundingClientRect();
+      const box = status.getBoundingClientRect();
+      return { right: box.right, viewport: window.innerWidth,
+        centered: Math.abs((label.top + label.bottom) / 2 - (box.top + box.bottom) / 2),
+        gradient: getComputedStyle(status).backgroundImage };
+    });
+    expect(geometry.right).toBeLessThanOrEqual(geometry.viewport + 1);
+    expect(geometry.centered).toBeLessThanOrEqual(1);
+    expect(geometry.gradient).toContain('linear-gradient(to left');
+  } else {
+    await expect(page.locator('.api-status-inline .api-status')).toBeVisible();
+    await expect(page.locator('mobile-starlight-toc .toggle')).toContainText('TABLE OF CONTENTS');
+  }
   expect(order.project).toContain('Project: Inno.Editor.Annotations');
   expect(order.project).toContain('Inherits:');
   expect(order.breaks).toBeGreaterThan(0);
@@ -308,15 +333,13 @@ test('status precedes the title, XML summaries are quoted, and metadata is compa
       listX: first.getBoundingClientRect().x, contractX: contractList.firstElementChild!.getBoundingClientRect().x,
       top: first.getBoundingClientRect().top - quote.getBoundingClientRect().top,
       bottom: quote.getBoundingClientRect().bottom - last.getBoundingClientRect().bottom,
-      paddingTop: style.paddingTop, paddingBottom: style.paddingBottom,
-      statusPadding: parseFloat(getComputedStyle(element.querySelector('.api-status > p')!).paddingTop) };
+      paddingTop: style.paddingTop, paddingBottom: style.paddingBottom };
   });
   expect(layout.labels).toEqual(['API:', 'Implements:', 'Inherits:', 'Project:']);
   expect(layout.breaks).toBe(3);
   expect(Math.abs(layout.listX - layout.contractX)).toBeLessThanOrEqual(1);
   expect(Math.abs(layout.top - layout.bottom)).toBeLessThanOrEqual(1);
   expect(layout.paddingTop).toBe(layout.paddingBottom);
-  expect(layout.statusPadding).toBeLessThanOrEqual(3);
   await page.screenshot({ path: testInfo.outputPath('partial-summary-quotation.png') });
   await page.goto('api/engine/core/collections/');
   await main.getByRole('link', { name: 'DependencyGraph<TKey>', exact: true }).click();
@@ -352,10 +375,9 @@ test('type members form one compact table and manual explanations have no XML no
     return (title.closest('.sl-heading-wrapper') ?? title).nextElementSibling?.textContent;
   });
   expect(introduction).toContain('Provides instance-owned persistent and session-local identity state');
-  await expect(page.locator('aside.api-status-synced')).toHaveCount(0);
-  await expect(page.locator('aside.api-status-verified, aside.api-status-outdated')).toHaveCount(1);
-  expect(await page.locator('aside.api-status').evaluate(status =>
-    !!(status.compareDocumentPosition(document.querySelector('main h1')!) & Node.DOCUMENT_POSITION_FOLLOWING))).toBe(true);
+  await expect(page.locator('.api-status-synced:visible')).toHaveCount(0);
+  await expect(page.locator('.api-status-verified:visible, .api-status-outdated:visible')).toHaveCount(1);
+  await expect(page.locator('.sl-markdown-content .api-status')).toHaveCount(0);
   await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');
 });
 

@@ -1,5 +1,6 @@
 ---
 import binding from '../../reference/engine.lock.json';
+import ApiStatus from './ApiStatus.astro';
 const { entry } = Astro.locals.starlightRoute;
 const labels: Record<string, string> = {
   landing: 'Documentation', tutorial: 'Getting started', 'how-to': 'Task guide',
@@ -15,3 +16,21 @@ const labels: Record<string, string> = {
     Engine {binding.revision.slice(0, 8)}
   </a>
 </div>
+{entry.data.editorialStatus && <div class:list={['api-status-inline', { 'lg:sl-hidden': Boolean(Astro.locals.starlightRoute.toc) }]}><ApiStatus /></div>}
+
+<script>
+  // Keep the sidebar divider level with the context panel when its labels wrap.
+  let observer: ResizeObserver | undefined;
+  function alignHeader() {
+    observer?.disconnect();
+    const panel = document.querySelector('main > .content-panel');
+    if (!panel) return;
+    const update = () => document.documentElement.style.setProperty('--inno-document-header-height', `${panel.getBoundingClientRect().height}px`);
+    update();
+    observer = new ResizeObserver(update);
+    observer.observe(panel);
+  }
+  alignHeader();
+  document.addEventListener('astro:page-load', alignHeader);
+  document.addEventListener('astro:before-swap', () => observer?.disconnect());
+</script>
