@@ -105,7 +105,7 @@ class InnoSidebar extends HTMLElement {
         button.className = 'toggle' + (entry.href ? '' : ' whole-row');
         button.dataset.children = entry.children; button.setAttribute('aria-expanded', 'false');
         button.setAttribute('aria-label', `Toggle ${entry.label}`);
-        const caret = document.createElement('span'); caret.className = 'caret'; caret.setAttribute('aria-hidden', 'true'); button.append(caret);
+        const caret = document.createElement('span'); caret.className = entry.href ? 'caret' : 'caret chevron'; caret.setAttribute('aria-hidden', 'true'); button.append(caret);
         if (!entry.href) { const label = document.createElement('span'); label.className = 'nav-label'; label.textContent = entry.label; button.append(label); }
         row.append(button);
       }
