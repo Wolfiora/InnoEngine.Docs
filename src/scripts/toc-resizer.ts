@@ -3,6 +3,7 @@ const storageKey = 'inno-docs-toc-width';
 class TocResizer extends HTMLElement {
   ratio: number | null = null;
   pointer: number | null = null;
+  pointerOffset = 0;
   events?: AbortController;
   observer?: ResizeObserver;
   connectedCallback() {
@@ -18,8 +19,10 @@ class TocResizer extends HTMLElement {
     this.addEventListener('pointercancel', this.stop, options);
     this.addEventListener('lostpointercapture', this.stop, options);
     this.addEventListener('keydown', this.key, options);
+    this.addEventListener('blur', this.clearPointerFocus, options);
     this.addEventListener('dblclick', this.reset, options);
     window.addEventListener('resize', this.update, options);
+    window.addEventListener('blur', this.stop, options);
     const title = document.getElementById('starlight__on-this-page');
     if (title) { this.observer = new ResizeObserver(this.update); this.observer.observe(title); }
     document.fonts.ready.then(() => { if (this.isConnected) this.update(); });
@@ -63,12 +66,19 @@ class TocResizer extends HTMLElement {
     if (event.button !== 0 || !matchMedia('(min-width: 72rem)').matches) return;
     event.preventDefault();
     this.pointer = event.pointerId;
+    this.pointerOffset = event.clientX - this.closest('.right-sidebar')!.getBoundingClientRect().left;
     this.setPointerCapture(event.pointerId);
+    // Programmatic focus on a fresh page may match :focus-visible even for a mouse drag.
+    // Keep keyboard access, but do not leave its stronger focus paint behind after release.
+    this.dataset.pointerFocus = '';
     this.focus({ preventScroll: true });
     document.documentElement.dataset.tocResizing = '';
   };
   move = (event: PointerEvent) => {
-    if (this.pointer === event.pointerId) this.setWidth(document.documentElement.clientWidth - event.clientX);
+    if (this.pointer !== event.pointerId) return;
+    // The layout edge can differ from clientWidth when a scrollbar gutter is reserved.
+    const right = this.closest('.right-sidebar-container')!.getBoundingClientRect().right;
+    this.setWidth(right - event.clientX + this.pointerOffset);
   };
   stop = () => {
     const pointer = this.pointer;
@@ -76,7 +86,9 @@ class TocResizer extends HTMLElement {
     if (pointer !== null && this.hasPointerCapture(pointer)) this.releasePointerCapture(pointer);
     delete document.documentElement.dataset.tocResizing;
   };
+  clearPointerFocus = () => { delete this.dataset.pointerFocus; };
   key = (event: KeyboardEvent) => {
+    this.clearPointerFocus();
     const width = Number(this.getAttribute('aria-valuenow'));
     const { min, max } = this.bounds();
     const widths: Record<string, number> = { ArrowLeft: width + 16, ArrowRight: width - 16, Home: min, End: max };

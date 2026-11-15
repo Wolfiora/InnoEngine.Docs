@@ -30,30 +30,45 @@ const journeys = [
 ] as const;
 
 test('TOC divider resizes within bounds and preserves the session choice', async ({ page }) => {
+  await page.addInitScript(() => addEventListener('DOMContentLoaded', () => {
+    document.documentElement.style.scrollbarGutter = 'stable';
+  }));
   await page.goto('');
   await expect(page.locator('.api-status')).toHaveCount(0);
   const divider = page.getByRole('separator', { name: 'Resize table of contents' });
   const width = page.viewportSize()!.width;
   if (width < 1152) { await expect(divider).toBeHidden(); return; }
+  const viewportWidth = await page.evaluate(() => document.documentElement.clientWidth);
   await divider.dblclick();
-  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(width / 3, 0);
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 3, 0);
   await divider.focus();
   await page.keyboard.press('End');
-  await expect(divider).toHaveAttribute('aria-valuenow', String(width / 2));
+  await expect(divider).toHaveAttribute('aria-valuenow', String(Math.round(viewportWidth / 2)));
   await page.keyboard.press('Home');
   const minimum = Number(await divider.getAttribute('aria-valuemin'));
   expect(Number(await divider.getAttribute('aria-valuenow'))).toBe(minimum);
   const heading = page.locator('.right-sidebar-panel h2');
   expect(await heading.evaluate(e => e.scrollWidth <= e.clientWidth)).toBe(true);
+  const bodyGaps = await page.locator('.sl-markdown-content').first().evaluate(element => {
+    const panel = element.closest('.content-panel')!;
+    const box = panel.getBoundingClientRect(), body = element.getBoundingClientRect(), style = getComputedStyle(panel);
+    return [body.left - box.left - parseFloat(style.paddingLeft), box.right - body.right - parseFloat(style.paddingRight)];
+  });
+  for (const gap of bodyGaps) expect(Math.abs(gap)).toBeLessThanOrEqual(1);
   const box = (await divider.boundingBox())!;
+  const column = await page.locator('.right-sidebar-container').boundingBox();
   await page.mouse.move(box.x + box.width / 2, box.y + 80);
   await page.mouse.down();
   await page.mouse.move(width * .6, box.y + 80);
   await page.mouse.up();
   const selected = Number(await divider.getAttribute('aria-valuenow'));
-  expect(Math.abs(selected - width * .4)).toBeLessThanOrEqual(1);
+  const pointerOffset = box.x + box.width / 2 - column!.x;
+  const expectedWidth = column!.x + column!.width - width * .6 + pointerOffset;
+  expect(Math.abs(selected - expectedWidth)).toBeLessThanOrEqual(1);
   await page.reload();
   await expect(divider).toHaveAttribute('aria-valuenow', String(selected));
+  await page.mouse.move(0, 0);
+  const restingColor = await divider.evaluate(element => getComputedStyle(element, '::after').backgroundColor);
   // Fresh-page pointer focus must not add the global outline's two extra vertical lines.
   const restored = (await divider.boundingBox())!;
   await page.mouse.move(restored.x + restored.width / 2, restored.y + 80);
@@ -67,9 +82,21 @@ test('TOC divider resizes within bounds and preserves the session choice', async
   expect(bar.width).toBe('5px');
   expect(bar.color).not.toBe('rgba(0, 0, 0, 0)');
   await page.mouse.up();
+  await page.mouse.move(0, 0);
   await expect(divider).toHaveCSS('outline-style', 'none');
+  expect(await divider.evaluate(element => getComputedStyle(element, '::after').backgroundColor)).toBe(restingColor);
+  await expect(page.locator('.right-sidebar')).toHaveCSS('border-left-width', '0px');
+  await page.keyboard.press('ArrowLeft');
+  expect(await divider.evaluate(element => getComputedStyle(element, '::after').backgroundColor)).not.toBe(restingColor);
+  await page.evaluate(() => window.scrollTo(0, 200));
+  const alignment = await divider.evaluate(element => {
+    const bar = element.getBoundingClientRect();
+    const sidebar = element.closest('.right-sidebar')!.getBoundingClientRect();
+    return Math.abs(bar.left + 4 - sidebar.left);
+  });
+  expect(alignment).toBeLessThanOrEqual(1);
   await divider.dblclick();
-  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(width / 3, 0);
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 3, 0);
 });
 
 for (const theme of ['light', 'dark'] as const) {
@@ -223,6 +250,8 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await page.mouse.move(0, 0);
   for (const button of [toggle('Manual'), editorGroup]) {
     const treeColor = await button.evaluate(element => getComputedStyle(element.closest('li')!.querySelector(':scope > .children > .children-inner > ul')!).borderLeftColor);
+    await expect(button.locator('..')).not.toHaveCSS('background-color', treeColor);
+    await button.hover();
     await expect(button.locator('..')).toHaveCSS('background-color', treeColor);
     await expect(button.locator('.nav-label')).not.toHaveCSS('font-weight', '650');
     await expect(button.locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
@@ -272,6 +301,8 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   await expect(api.locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
   await page.mouse.move(0, 0);
   const treeColor = await audio.locator(':scope > .children > .children-inner > ul').evaluate(element => getComputedStyle(element).borderLeftColor);
+  await expect(row).not.toHaveCSS('background-color', treeColor);
+  await row.hover();
   await expect(row).toHaveCSS('background-color', treeColor);
   await expect(row.locator('a')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
   const geometry = await row.evaluate(el => {
