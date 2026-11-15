@@ -187,6 +187,18 @@ async function verifyChecks() {
     throw new Error('Authenticated page receipts are malformed or inconsistent.');
   await copyFile('artifacts/checks/import/identity.json','artifacts/checks/verified.json');
 }
+export function pageReceipts(plan, catalog, previous = {pages:{}}) {
+  const selected = new Map(plan.pages.map(page=>[page.path,page]));
+  return Object.fromEntries(catalog.pages.map(page => {
+    const executed = selected.get(page.path);
+    // Retain unrelated completed checks with their original input key. A later
+    // selection recomputes all dependencies before accepting that key again.
+    const retained = previous.pages[page.path]?.content === page.contentIdentity ? previous.pages[page.path] : {};
+    return [page.path, {...retained, content:page.contentIdentity,
+      ...(executed ? { input:executed.input, render:'Passed', browser:plan.browser === 'Selected'
+        && plan.browserPages.some(selected => selected.path === page.path) ? 'Passed' : 'NotApplicable' } : {})}];
+  }));
+}
 async function createChecks() {
   const plan = JSON.parse(await readFile('artifacts/ci/plan.json','utf8'));
   const result = JSON.parse(await readFile('artifacts/ci/result.json','utf8'));
@@ -194,14 +206,7 @@ async function createChecks() {
   if (result.status !== 'Passed') throw new Error('Incomplete page checks cannot produce receipts.');
   let previous = {pages:{}};
   try { previous = JSON.parse(await readFile('artifacts/checks/verified.json','utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
-  const selected = new Map(plan.pages.map(page=>[page.path,page]));
-  const reused = new Set(plan.reusedPages.map(page=>page.path));
-  const pages = Object.fromEntries(catalog.pages.map(page => {
-    const executed = selected.get(page.path);
-    return [page.path, {content:page.contentIdentity, ...(reused.has(page.path) ? previous.pages[page.path] : {}),
-      ...(executed ? { input:executed.input, render:'Passed', browser:plan.browser === 'Selected'
-        && plan.browserPages.some(selected => selected.path === page.path) ? 'Passed' : 'NotApplicable' } : {})}];
-  }));
+  const pages = pageReceipts(plan, catalog, previous);
   await mkdir('artifacts/checks/receipt',{recursive:true});
   await writeFile('artifacts/checks/receipt/identity.json',JSON.stringify({schema:'inno-page-checks/1',status:'Passed',
     run:Number(process.env.GITHUB_RUN_ID),attempt:Number(process.env.GITHUB_RUN_ATTEMPT),tool:catalog.documentationToolIdentity,pages}));

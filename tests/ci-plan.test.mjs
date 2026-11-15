@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { bootstrapPlan, selectPages, modeFor, reconcile } from '../scripts/ci-plan.mjs';
-import { inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity } from '../scripts/ci-evidence.mjs';
+import { inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity, pageReceipts } from '../scripts/ci-evidence.mjs';
 const page = (id, extra = {}) => ({ id, path: `content/en/${id}.md`, title: id, kind: 'explanation', links: [], includes: [], contracts: [], codeBlocks: [], symbols: {}, sections: {}, markdown: id, contentIdentity: id, ...extra });
 const catalog = { snapshot: 'snapshot', sourceFiles: {}, pages: [page('index'), page('a'), page('b', { links: ['a.md#heading'] }), page('c')] };
 const plan = changed => bootstrapPlan({ mode: 'Incremental', changed, baseline: 'old', candidate: 'new' });
@@ -13,6 +13,13 @@ test('one-page edits render its inbound relationship and preview entry without u
 test('removed pages still select their unchanged inbound callers', () => {
   const selected = selectPages(plan(['content/en/a.md']), { ...catalog, pages: catalog.pages.filter(p => p.id !== 'a') });
   assert.ok(selected.pages.some(p => p.id === 'b'));
+});
+test('unrelated completed page checks survive subsequent partial runs without changing their provenance', () => {
+  const previous = {pages:{'content/en/c.md':{content:'c',input:'original-input',render:'Passed',browser:'NotApplicable'}}};
+  const selected = selectPages(plan(['content/en/a.md']), catalog);
+  assert.deepEqual(pageReceipts(selected,catalog,previous)['content/en/c.md'],previous.pages['content/en/c.md']);
+  const changed = {...catalog,pages:catalog.pages.map(p=>p.id==='c'?{...p,contentIdentity:'changed'}:p)};
+  assert.deepEqual(pageReceipts(selected,changed,previous)['content/en/c.md'],{content:'changed'});
 });
 test('presentation browser checks use representatives rather than every linked context page', () => {
   const selected = selectPages(plan(['src/styles/documentation.css']), {...catalog,
