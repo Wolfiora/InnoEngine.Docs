@@ -13,5 +13,3 @@ reviewed: 861253fbf367fee22b51600620beca51af986e668d175a911bd0baec45838e6a
 source: xml
 outdated: false
 ---
-
-Gets directories actually retired; a preview always returns an empty collection.

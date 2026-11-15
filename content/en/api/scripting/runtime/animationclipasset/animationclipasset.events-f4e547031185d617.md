@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets or sets ordered stable event markers.

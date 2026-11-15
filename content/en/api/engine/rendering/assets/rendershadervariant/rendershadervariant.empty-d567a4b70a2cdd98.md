@@ -13,5 +13,3 @@ reviewed: 6e34d03eea3e32fd5959f0e7adf2245ba18f7101b1687f6333f0f6e07bd4ad65
 source: xml
 outdated: false
 ---
-
-Gets the empty default variant.

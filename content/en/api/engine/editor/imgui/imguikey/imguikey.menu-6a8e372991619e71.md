@@ -13,5 +13,3 @@ reviewed: 8d53e883e8ec41819638d4325f8cf13c9848a7377f7871765ed4f2084228ea9e
 source: xml
 outdated: false
 ---
-
-Identifies the Menu presentation key or modifier.

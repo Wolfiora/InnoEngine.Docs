@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stage artifact.
-
 ## Parameters
 
 **Parameter `stage`:** Single compiled shader stage.

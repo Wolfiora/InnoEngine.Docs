@@ -13,5 +13,3 @@ reviewed: 593e6b8e3a5beb0e24c47c151b43d788e5fa8a94c2d53a90c886c5e0fc0e0fbe
 source: xml
 outdated: false
 ---
-
-Gets or initializes the session role.

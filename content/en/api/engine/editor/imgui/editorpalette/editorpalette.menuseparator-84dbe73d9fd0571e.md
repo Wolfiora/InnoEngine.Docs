@@ -13,5 +13,3 @@ reviewed: 94de3aed8e1f8aaee8204b4b09f09eef44db138a739460e135cf88472d47cb21
 source: xml
 outdated: false
 ---
-
-Gets the separator color used by editor context menus.

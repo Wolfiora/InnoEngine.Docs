@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Optionally migrates presentation-neutral panel state across assembly reloads.

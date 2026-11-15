@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable viewport purpose identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable viewport purpose.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve one named candidate artifact.
-
 ## Parameters
 
 **Parameter `persistentId`:** Candidate asset identity.

@@ -13,5 +13,3 @@ reviewed: 0cecf26a0953e3d25ffd5809dc910d9b3f8b3235ed9e9a2d6e8389b0305808c9
 source: xml
 outdated: false
 ---
-
-Identifies the \_5 presentation key or modifier.

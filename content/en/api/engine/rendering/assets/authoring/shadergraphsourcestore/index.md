@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Reads and atomically saves the sole shader graph source format without requiring successful compilation.

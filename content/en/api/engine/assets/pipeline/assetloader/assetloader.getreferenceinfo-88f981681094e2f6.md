@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets an engine-known reference diagnostic snapshot.
-
 ## Parameters
 
 **Parameter `asset`:** The asset to inspect.

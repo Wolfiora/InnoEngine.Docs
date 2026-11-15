@@ -13,5 +13,3 @@ reviewed: b8132db598e09888e07d8f54e0a78dbed17bce478bbaec4dcd31f01c8143c2df
 source: xml
 outdated: false
 ---
-
-Gets the value-flow direction.

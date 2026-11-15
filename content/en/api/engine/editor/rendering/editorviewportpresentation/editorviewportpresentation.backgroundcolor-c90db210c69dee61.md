@@ -13,5 +13,3 @@ reviewed: 81b44f90f9f02f5e452305028994007a89adf1327aaa6812461a50fb9e6b5ce0
 source: xml
 outdated: false
 ---
-
-Gets the linear clear color preferred by the host panel.

@@ -13,5 +13,3 @@ reviewed: dc7a1f957c1b939c6e9e3df2acc1333f70e88902620a2aeeaa898ab3f6ef8da3
 source: xml
 outdated: false
 ---
-
-Gets the stable globally unique change protocol identifier.

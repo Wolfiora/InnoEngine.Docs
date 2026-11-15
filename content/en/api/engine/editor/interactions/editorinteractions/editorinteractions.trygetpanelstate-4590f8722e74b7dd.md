@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads whether one available panel is currently open.
-
 ## Parameters
 
 **Parameter `panelId`:** The stable panel identity.

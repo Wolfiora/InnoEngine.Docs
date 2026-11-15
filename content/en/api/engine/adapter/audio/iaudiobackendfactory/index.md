@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-audio#provider-ownership-contract
 aliases: []
 ---
-
-Creates backend-neutral audio devices from explicit backend selections.

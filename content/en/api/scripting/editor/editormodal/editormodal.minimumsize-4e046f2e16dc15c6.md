@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the minimum modal size in unscaled editor units, or `P:System.Numerics.Vector2.Zero` when no explicit minimum is required.

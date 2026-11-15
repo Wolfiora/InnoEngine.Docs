@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the executed logical view count.

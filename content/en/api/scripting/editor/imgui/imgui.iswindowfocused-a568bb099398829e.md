@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks keyboard focus within the declared window scope.
-
 ## Parameters
 
 **Parameter `flags`:** The explicit control and interaction options.

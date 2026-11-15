@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scripting
 aliases: []
 ---
-
-Exposes the minimal script-generation readiness contract required by editor workflows.

@@ -13,5 +13,3 @@ reviewed: 0d31e72859433ed44de28d8b986d56093e29f8c9820b9d8a9391e5a4aa5855dd
 source: xml
 outdated: false
 ---
-
-Combined with AutoResizeX/AutoResizeY. Always measure size even when child is hidden, always return true, always disable clipping optimization! NOT RECOMMENDED.

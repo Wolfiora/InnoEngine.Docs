@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a published buffer.
-
 ## Parameters
 
 **Parameter `id`:** Open semantic resource identifier.

@@ -13,5 +13,3 @@ reviewed: 40341bc97ee5affe01bf6b5022ab5ff7d000ca4a00abfc39fe3b813f35c7e7a0
 source: xml
 outdated: false
 ---
-
-Allow manually dragging tabs to re-order them + New tabs are appended at the end of list

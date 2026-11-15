@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries game objects containing one required component type.
-
 ## Type parameters
 
 **Type parameter `T1`:** The first component type required on every returned game object.

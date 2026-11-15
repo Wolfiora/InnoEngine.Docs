@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The most recent transition failed and its diagnostic remains available for inspection.

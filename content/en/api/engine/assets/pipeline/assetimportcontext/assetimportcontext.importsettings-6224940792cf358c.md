@@ -13,5 +13,3 @@ reviewed: 2f371139e46e1d11833f90bcfd0aa8ac718771e24cd70457588dedf98569d848
 source: xml
 outdated: false
 ---
-
-Gets the settings restored from this source's sidecar against the isolated import generation. The value is detached and changes made during import are not saved to the sidecar.

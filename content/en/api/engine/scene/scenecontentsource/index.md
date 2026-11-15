@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Projects loaded scenes into the shared content protocol without depending on a rendering or audio model.

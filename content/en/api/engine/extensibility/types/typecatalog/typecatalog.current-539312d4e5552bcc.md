@@ -13,5 +13,3 @@ reviewed: e9fc74794f59f96cb8f7873ace737e693421c702bfef01c84da89ffa602b25da
 source: xml
 outdated: false
 ---
-
-Gets the current immutable type snapshot after applying pending host assembly changes.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Selects the tab bar overline size presentation behavior.

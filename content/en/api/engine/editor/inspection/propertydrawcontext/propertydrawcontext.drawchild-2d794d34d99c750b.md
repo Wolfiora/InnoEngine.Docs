@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a nested serialized property.
-
 ## Parameters
 
 **Parameter `property`:** Nested property.

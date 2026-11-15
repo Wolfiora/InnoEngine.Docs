@@ -13,5 +13,3 @@ reviewed: d598937f66084a7893e009c0a9bf35578563461957f17f24c8105218c59ea8d2
 source: xml
 outdated: false
 ---
-
-Gets the complete isolated mount snapshot represented by this candidate.

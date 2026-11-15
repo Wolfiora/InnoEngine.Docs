@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes target compiler tools and SDK inputs independently of discovery and platform policy.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets a nullable string array property by value.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

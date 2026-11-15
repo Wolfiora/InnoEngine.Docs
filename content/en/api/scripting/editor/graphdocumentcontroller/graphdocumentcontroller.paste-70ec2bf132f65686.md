@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Pastes a clipboard fragment with new stable identities and a graph-space offset.
-
 ## Parameters
 
 **Parameter `clipboard`:** Detached neutral fragment.

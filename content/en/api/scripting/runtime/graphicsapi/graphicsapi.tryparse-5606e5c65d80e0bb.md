@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Parses an open backend identity without consulting a closed engine-side backend list.
-
 ## Parameters
 
 **Parameter `value`:** The exact stable backend identity.

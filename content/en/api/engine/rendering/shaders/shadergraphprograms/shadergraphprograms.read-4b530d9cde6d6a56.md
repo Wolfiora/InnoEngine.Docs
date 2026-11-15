@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads detached pass-to-stage references, including unresolved authored identities.
-
 ## Parameters
 
 **Parameter `graph`:** Shader authoring document.

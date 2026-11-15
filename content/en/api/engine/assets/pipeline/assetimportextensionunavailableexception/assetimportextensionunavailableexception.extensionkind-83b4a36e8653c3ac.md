@@ -13,5 +13,3 @@ reviewed: d96f209f484e1fdfcb3ccc7077cbfaf1d6dde1aa790697ed1d0a21d5438be650
 source: xml
 outdated: false
 ---
-
-Gets the stable extension protocol identity.

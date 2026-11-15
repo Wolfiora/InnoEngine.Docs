@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Stores text-edit state scoped to this renderer, inspected owner, and property path.
-
 ## Parameters
 
 **Parameter `key`:** Drawer-local state identity within the current property path.

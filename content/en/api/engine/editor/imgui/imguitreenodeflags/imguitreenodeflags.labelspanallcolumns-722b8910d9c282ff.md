@@ -13,5 +13,3 @@ reviewed: 7a11a517beb96ed0550da02a948cfad76ab99b384dd47e25c1b7dfc8d9110122
 source: xml
 outdated: false
 ---
-
-Label will span all columns of its container table

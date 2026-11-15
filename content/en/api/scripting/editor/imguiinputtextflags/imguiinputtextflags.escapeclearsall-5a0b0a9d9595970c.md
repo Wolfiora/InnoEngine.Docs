@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Escape key clears content if not empty, and deactivate otherwise (contrast to default behavior of Escape to revert)

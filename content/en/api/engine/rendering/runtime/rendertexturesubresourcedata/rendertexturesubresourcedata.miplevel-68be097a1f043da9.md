@@ -13,5 +13,3 @@ reviewed: 5c9e2071ee3dcdf3defeebd25f151c31d66662a111c2cff644f7ae547ff4096b
 source: xml
 outdated: false
 ---
-
-Gets the zero-based mip level.

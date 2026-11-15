@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads and validates the result of a completed component generation request.
-
 ## Parameters
 
 **Parameter `path`:** The request-owned descriptor file written after successful generation.

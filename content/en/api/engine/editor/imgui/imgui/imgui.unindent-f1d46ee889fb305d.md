@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores a matching indentation step.
-
 ## Parameters
 
 **Parameter `amount`:** The requested layout distance.

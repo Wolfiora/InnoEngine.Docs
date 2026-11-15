@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Describes one candidate missing-state transition at an owner-thread safe point.

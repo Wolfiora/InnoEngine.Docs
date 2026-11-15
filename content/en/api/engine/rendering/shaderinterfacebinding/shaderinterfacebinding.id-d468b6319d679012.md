@@ -13,5 +13,3 @@ reviewed: 539e63b978ffb29835ca8880a2f1c66862f22bad4d79787e4409aedd48477373
 source: xml
 outdated: false
 ---
-
-Gets the stable property ID.

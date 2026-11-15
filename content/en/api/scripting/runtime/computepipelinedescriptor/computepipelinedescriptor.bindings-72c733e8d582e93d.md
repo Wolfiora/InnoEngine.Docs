@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the manifest-derived interface contract.

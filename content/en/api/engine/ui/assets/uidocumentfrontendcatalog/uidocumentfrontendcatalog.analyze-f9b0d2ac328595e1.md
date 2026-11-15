@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes source using an explicit language.
-
 ## Parameters
 
 **Parameter `language`:** Registered language identity.

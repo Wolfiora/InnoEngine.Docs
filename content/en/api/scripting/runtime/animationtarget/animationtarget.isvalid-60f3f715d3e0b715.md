@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether this value was initialized with a destination or sampling policy.

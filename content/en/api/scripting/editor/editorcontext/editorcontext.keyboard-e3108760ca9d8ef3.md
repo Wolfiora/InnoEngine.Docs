@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the immutable keyboard conventions shared by discovery, dispatch and presentation.

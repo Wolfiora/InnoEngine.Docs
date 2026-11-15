@@ -13,5 +13,3 @@ reviewed: 90afe9bf642ae92f69f7767b55f286934fa9e9eb621bacb682cbe0fd254d2e36
 source: xml
 outdated: false
 ---
-
-Gets a 16-pixel regular default style.

@@ -13,5 +13,3 @@ reviewed: 7564a078e09b58cfcb301b295edf80ff5b449cda7758f022c2ef5ebf9c9eff52
 source: xml
 outdated: false
 ---
-
-Gets current runtime and backend resource statistics.

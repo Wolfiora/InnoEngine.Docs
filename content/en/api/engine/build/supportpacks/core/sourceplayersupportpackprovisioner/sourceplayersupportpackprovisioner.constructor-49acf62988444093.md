@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a provisioner for a complete engine checkout.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The directory containing InnoEngine.sln and the Player project.

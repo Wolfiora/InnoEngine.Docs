@@ -13,5 +13,3 @@ reviewed: f7d036a147561c1e178deaacd69bd97152122da7ac143eeb286d322b52fbfd87
 source: xml
 outdated: false
 ---
-
-Defines the number of layer slots supported by the runtime bit-mask representation.

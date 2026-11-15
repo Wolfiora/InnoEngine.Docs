@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a managed drag originating from this area.
-
 ## Parameters
 
 **Parameter `data`:** The managed source data.

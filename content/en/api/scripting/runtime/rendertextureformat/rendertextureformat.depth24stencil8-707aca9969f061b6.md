@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Twenty-four-bit depth and eight-bit stencil format.

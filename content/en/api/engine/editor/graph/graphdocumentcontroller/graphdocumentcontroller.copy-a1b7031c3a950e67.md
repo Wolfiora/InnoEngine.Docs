@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies selected nodes and only their internal connections.
-
 ## Parameters
 
 **Parameter `nodeIds`:** Nodes to copy.

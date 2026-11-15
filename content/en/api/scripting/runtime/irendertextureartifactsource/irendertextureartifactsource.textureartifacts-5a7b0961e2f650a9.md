@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the complete immutable set of stable texture slots owned by the current asset content.

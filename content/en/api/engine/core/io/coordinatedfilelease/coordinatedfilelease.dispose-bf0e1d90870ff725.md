@@ -13,5 +13,3 @@ reviewed: 64b96943e947f9c79bdf6f7e169e670581764b8316bab1d56d69e78e3202542b
 source: xml
 outdated: false
 ---
-
-Releases the leaf before its persistent owner gate; neither file is deleted.

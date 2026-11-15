@@ -13,5 +13,3 @@ reviewed: 4aca3e74ad7e182dbd23f089b4b9ec2c5fefd9694aa5fd334b6eafa4fced022a
 source: xml
 outdated: false
 ---
-
-Gets cancellation shared by work owned by this lifetime.

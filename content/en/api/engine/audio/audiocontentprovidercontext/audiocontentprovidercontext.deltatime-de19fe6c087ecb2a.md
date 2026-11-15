@@ -13,5 +13,3 @@ reviewed: d01de38d3bc1f1bdf3b4fdf7576490f16c1b7bd010aae08c78518a31b64d5349
 source: xml
 outdated: false
 ---
-
-Gets non-negative elapsed frame time in seconds.

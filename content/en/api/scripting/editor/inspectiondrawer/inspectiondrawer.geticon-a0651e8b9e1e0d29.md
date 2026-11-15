@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the icon glyph displayed for the current target.
-
 ## Parameters
 
 **Parameter `context`:** The active Inspector drawing context.

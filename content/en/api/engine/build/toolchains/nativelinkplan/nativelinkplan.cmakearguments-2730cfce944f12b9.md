@@ -13,5 +13,3 @@ reviewed: 04c0db1ad9057afc41694eac5b0f76a47d1a463112128cf3ee96ae986c588e2c
 source: xml
 outdated: false
 ---
-
-Gets ordered platform linker definitions.

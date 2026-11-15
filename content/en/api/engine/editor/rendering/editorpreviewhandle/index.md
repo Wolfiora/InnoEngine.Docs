@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Identifies one preview texture owned by a specific rendering-device generation.

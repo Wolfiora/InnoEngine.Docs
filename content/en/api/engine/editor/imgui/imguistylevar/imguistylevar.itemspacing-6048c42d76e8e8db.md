@@ -13,5 +13,3 @@ reviewed: 2a09dbe2293044c1128b25a828cd450b730b4292125bd073ae1277c72ef9be0f
 source: xml
 outdated: false
 ---
-
-Selects the item spacing presentation behavior.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable runtime subsystem descriptor.
-
 ## Parameters
 
 **Parameter `id`:** The unique subsystem protocol identifier.

@@ -13,5 +13,3 @@ reviewed: ff9590e06b44d671ba5236d5cc0c0666a45487a20cb5ec3459a4fbf65f191617
 source: xml
 outdated: false
 ---
-
-Enable auto-resizing width. Read "IMPORTANT: Size measurement" details above.

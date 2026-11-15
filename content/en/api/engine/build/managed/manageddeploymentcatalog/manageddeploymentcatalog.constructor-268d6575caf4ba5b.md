@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies providers and rejects ambiguous identities before any publication starts.
-
 ## Parameters
 
 **Parameter `compilers`:** The explicit provider implementations owned by the composition root.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Stores one independently encoded serializable property and its original declared type.

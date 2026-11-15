@@ -13,5 +13,3 @@ reviewed: 69c56344339246645ce716d40b40d576629ebd0c2579dc6f44775e1d7c88d140
 source: xml
 outdated: false
 ---
-
-Gets identities and classifications for the complete candidate closure.

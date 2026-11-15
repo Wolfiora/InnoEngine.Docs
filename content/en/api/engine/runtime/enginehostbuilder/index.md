@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Collects application-level runtime services before creating an `T:Inno.Runtime.EngineHost`.

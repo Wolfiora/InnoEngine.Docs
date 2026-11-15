@@ -13,5 +13,3 @@ reviewed: abc74a56fbbc56b7dfa91ac7a39464521c68f29d17b42d41107c4cb5d80de645
 source: xml
 outdated: false
 ---
-
-Gets the active title background.

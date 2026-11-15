@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts an isolated temporary Undo and Redo branch while retaining the current editing branch.
-
 ## Remarks
 
 Disposing the returned scope releases every temporary operation and restores the retained branch. This host-level boundary is intended for transient editor sessions such as Play Mode.

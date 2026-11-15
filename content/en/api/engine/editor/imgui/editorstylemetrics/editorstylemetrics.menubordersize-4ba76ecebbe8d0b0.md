@@ -13,5 +13,3 @@ reviewed: 4a98f26ee8d4d14f184de726b7cc6a552555ddf6d8323dfdb6e24a0e9fe8db79
 source: xml
 outdated: false
 ---
-
-Gets editor context-menu border thickness.

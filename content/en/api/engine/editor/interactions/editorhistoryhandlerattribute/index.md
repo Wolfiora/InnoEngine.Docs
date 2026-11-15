@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Registers a stateless editor history handler for one stable change protocol.

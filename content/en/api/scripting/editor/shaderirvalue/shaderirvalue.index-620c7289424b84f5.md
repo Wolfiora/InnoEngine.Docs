@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the deterministic block-local value index, not a GPU register or resource slot.

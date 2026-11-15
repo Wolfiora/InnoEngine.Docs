@@ -13,5 +13,3 @@ reviewed: 38858026520ac0d1cd80b6c3cd61065fedc8403d74d87204b5413d543e995505
 source: xml
 outdated: false
 ---
-
-Gets explicit indentation for a flattened row, or null for a nested native tree. Explicit-depth rows never push a native tree scope; callers must not call TreePop for them.

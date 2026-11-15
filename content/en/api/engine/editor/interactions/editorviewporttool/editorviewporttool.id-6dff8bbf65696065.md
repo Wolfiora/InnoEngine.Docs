@@ -13,5 +13,3 @@ reviewed: 1466c240fd75782079e3bcfca2b5ea71faf338ac7883e2fa56376088f0e3065f
 source: xml
 outdated: false
 ---
-
-Gets the globally stable tool identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Hides one document.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

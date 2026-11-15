@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Imports implementation-neutral UTF-8 UI source using explicit sidecar settings.

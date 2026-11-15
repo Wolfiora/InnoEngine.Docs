@@ -13,5 +13,3 @@ reviewed: e921684689e807c69a38bb83956cc99b432f61d8ff18d890efba4873b6bfd7e2
 source: xml
 outdated: false
 ---
-
-Gets the persistent source identity.

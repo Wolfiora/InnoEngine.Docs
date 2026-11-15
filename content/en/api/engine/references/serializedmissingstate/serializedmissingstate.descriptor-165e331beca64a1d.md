@@ -13,5 +13,3 @@ reviewed: c9a7bb4c2fd903d58ff94991d84d2650cb0b6ebc5d7ea69ac07a4e55b7daf82e
 source: xml
 outdated: false
 ---
-
-Gets the persistent target intent preserved by this record.

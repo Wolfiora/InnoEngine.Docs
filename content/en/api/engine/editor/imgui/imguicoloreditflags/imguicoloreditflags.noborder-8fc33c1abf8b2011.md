@@ -13,5 +13,3 @@ reviewed: 8ba386331fcefafa149f6a45229a42952f105238bee7e91767ca22686723553c
 source: xml
 outdated: false
 ---
-
-// ColorButton: disable border (which is enforced by default)

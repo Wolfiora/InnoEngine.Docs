@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a custom condition implementation.
-
 ## Parameters
 
 **Parameter `condition`:** The condition to append to this query.

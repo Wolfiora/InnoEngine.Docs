@@ -13,5 +13,3 @@ reviewed: 01fe471aa888b647a2894118bb1adf5d8e43682e515a392e9b8143d4f8028a8b
 source: xml
 outdated: false
 ---
-
-Selects the display hsv presentation behavior.

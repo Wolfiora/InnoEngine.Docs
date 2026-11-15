@@ -13,5 +13,3 @@ reviewed: a8266b6bfa50a3cbcb70132c7bf15696283fb3a6375cb72d5da7db36ba1dd754
 source: xml
 outdated: false
 ---
-
-Gets immutable triangle indices.

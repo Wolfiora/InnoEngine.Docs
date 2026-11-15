@@ -13,5 +13,3 @@ reviewed: ad90c001c003e6d44cff0996b61195a25ccf922922b0f11b3a71098c2811dc0d
 source: xml
 outdated: false
 ---
-
-Gets the tie-breaking priority after target specificity.

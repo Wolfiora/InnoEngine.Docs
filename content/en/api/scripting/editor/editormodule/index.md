@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Owns optional shared state and lifecycle for one editor feature. Simple panels and actions do not need a module.

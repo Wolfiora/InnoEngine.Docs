@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Computes a hash code from the canonical variant representation.
-
 ## Returns
 
 A hash code consistent with logical equality.

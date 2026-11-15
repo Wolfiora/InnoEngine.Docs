@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 aliases: []
 ---
-
-Identifies a UI implementation independently from its document language.

@@ -13,5 +13,3 @@ reviewed: d8aaa061aba75be489d4b1556d0fdba4a13063cd1d60b27097e1896c5a575197
 source: xml
 outdated: false
 ---
-
-Gets the logical font size.

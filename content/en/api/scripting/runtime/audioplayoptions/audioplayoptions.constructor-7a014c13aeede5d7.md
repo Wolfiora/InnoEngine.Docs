@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates playback parameters.
-
 ## Parameters
 
 **Parameter `volume`:** Linear gain applied to the voice.

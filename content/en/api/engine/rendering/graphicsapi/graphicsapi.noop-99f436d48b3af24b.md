@@ -13,5 +13,3 @@ reviewed: 27d0dc66d6168fcb8506a53cbb63c447cb025529d0ca5a32eb0202148b8cf61a
 source: xml
 outdated: false
 ---
-
-Headless validation backend.

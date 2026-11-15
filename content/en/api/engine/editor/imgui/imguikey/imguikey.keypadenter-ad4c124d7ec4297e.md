@@ -13,5 +13,3 @@ reviewed: 42a04195d9f0a6a751f8b875ab7c9e9dd3eba1a318af775644a26084bfcbb7ea
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadEnter presentation key or modifier.

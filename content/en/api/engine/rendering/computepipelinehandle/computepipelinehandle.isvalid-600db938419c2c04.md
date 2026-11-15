@@ -13,5 +13,3 @@ reviewed: 58ace5b10f830826e975f5e18cd4a8b89f17812c71ec2777fde433d3d96adb2e
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a compute pipeline.

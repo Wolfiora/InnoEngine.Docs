@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable vertical borders in columns Body (borders will always appear in Headers). -\> May move to style

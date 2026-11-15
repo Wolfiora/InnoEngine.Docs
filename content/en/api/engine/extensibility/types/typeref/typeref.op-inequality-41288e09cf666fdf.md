@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two references identify different logical types.
-
 ## Parameters
 
 **Parameter `left`:** The first reference.

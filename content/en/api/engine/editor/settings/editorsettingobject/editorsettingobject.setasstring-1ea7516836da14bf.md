@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets a nullable string property.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

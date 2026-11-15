@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a retryable retirement barrier for an owner with unfinished work.
-
 ## Parameters
 
 **Parameter `message`:** The owner and work preventing synchronous release.

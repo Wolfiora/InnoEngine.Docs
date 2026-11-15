@@ -13,5 +13,3 @@ reviewed: 69855f7caa9c5aa6eb91be21e34b0bbaed855bf0636516279a6b690e69873d29
 source: xml
 outdated: false
 ---
-
-Gets the canonical identifier text.

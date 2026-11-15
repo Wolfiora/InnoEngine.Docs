@@ -13,5 +13,3 @@ reviewed: 203cbab3338e9891ac8413375f0d500494292d4114ae40b6a3b53a41b0537d21
 source: xml
 outdated: false
 ---
-
-Gets completed compiler stage timings in execution order.

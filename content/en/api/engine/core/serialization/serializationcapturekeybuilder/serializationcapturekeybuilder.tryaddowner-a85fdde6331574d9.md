@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds an owner revision through its current Core identity; a null revision or detached source invalidates the key.
-
 ## Parameters
 
 **Parameter `source`:** The current owner, never retained in the completed key.

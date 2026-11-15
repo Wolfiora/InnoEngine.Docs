@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 aliases: []
 ---
-
-Creates one concrete UI backend registered by a composition root.

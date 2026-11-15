@@ -13,5 +13,3 @@ reviewed: 0f66ff295b368d8a637e21062769ff81be128e29fa741ce407e5035d72bfedb7
 source: xml
 outdated: false
 ---
-
-Selects the any popup presentation behavior.

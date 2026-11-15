@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether one node directly or transitively depends on another.
-
 ## Parameters
 
 **Parameter `node`:** The dependent node.

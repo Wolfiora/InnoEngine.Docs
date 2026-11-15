@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and selects a project default while preserving its last-good generation.
-
 ## Parameters
 
 **Parameter `pipelineAsset`:** Candidate project default pipeline asset.

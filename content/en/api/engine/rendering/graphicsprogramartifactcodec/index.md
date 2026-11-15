@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Transports compiled graphics programs and device binding facts independently of authored assets.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a complete immutable value.
-
 ## Parameters
 
 **Parameter `key`:** The sandbox-relative storage key.

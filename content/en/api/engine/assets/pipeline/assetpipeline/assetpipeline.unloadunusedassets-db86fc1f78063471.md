@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects assets that have no external managed references.
-
 ## Returns
 
 The number of released canonical assets.

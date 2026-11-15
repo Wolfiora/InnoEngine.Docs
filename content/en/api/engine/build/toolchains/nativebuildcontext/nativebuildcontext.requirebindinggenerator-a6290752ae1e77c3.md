@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requires generation to be configured explicitly before creating staging or launching tools.
-
 ## Returns
 
 The borrowed provider without discovering or constructing an implementation.

@@ -13,5 +13,3 @@ reviewed: 37c38fe1bc379b2367e91be6d90f3a47130712f3a704ae8ef9264230bf516acf
 source: xml
 outdated: false
 ---
-
-Fourth vertex color channel.

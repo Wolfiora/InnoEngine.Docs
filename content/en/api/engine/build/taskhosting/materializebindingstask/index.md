@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-taskhosting
 aliases: []
 ---
-
-Copies one protected generated source into the consuming SDK build's own intermediate directory.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates node availability, ports, edge types, capacity, required inputs and cycles.
-
 ## Parameters
 
 **Parameter `document`:** Graph document to validate without modifying it.

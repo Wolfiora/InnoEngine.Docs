@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Marks a texture as a graph output that keeps its producers alive.
-
 ## Parameters
 
 **Parameter `texture`:** Output texture.

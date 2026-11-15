@@ -13,5 +13,3 @@ reviewed: f37b1aa814a7991bca11c7d2cc448dc23ccaeda9f9b8e046764c7badf45d25d2
 source: xml
 outdated: false
 ---
-
-Gets the stable marker protocol identifier.

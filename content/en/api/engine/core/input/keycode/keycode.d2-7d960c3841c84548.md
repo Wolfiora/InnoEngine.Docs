@@ -13,5 +13,3 @@ reviewed: b4e44e66a3e1689bb16d9a4deba19f50b5b1deb94e9f37566dce1f56ffabc1c9
 source: xml
 outdated: false
 ---
-
-The 2 key on the primary keyboard row.

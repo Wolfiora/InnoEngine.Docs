@@ -13,5 +13,3 @@ reviewed: d0dd9b08b849d8570320c2933f2ee6c9364796869ce88ddaef0c7a2b9b5c7eaf
 source: xml
 outdated: false
 ---
-
-Gets or sets whether Plugin dependency packages are embedded by default.

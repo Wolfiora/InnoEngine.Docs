@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Exports a runtime-only artifact snapshot on a worker without loading artifact files into memory.
-
 ## Remarks
 
 Keeps generation admission and serialization pinned until the worker completes, fails or cancels. A pending or faulted generation cannot start a new export.

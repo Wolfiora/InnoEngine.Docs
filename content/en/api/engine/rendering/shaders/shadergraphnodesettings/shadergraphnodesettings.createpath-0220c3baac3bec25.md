@@ -13,5 +13,3 @@ reviewed: 7797701a68f31973d65c7dcf6033549bf8f33fdb5bd21e8d5d7a18b723cb71f4
 source: xml
 outdated: false
 ---
-
-Gets or sets the slash-separated creation catalog beneath Graph Nodes.

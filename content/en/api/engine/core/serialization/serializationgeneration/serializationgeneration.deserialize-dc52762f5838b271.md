@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes a complete root object using the converter generation captured by this instance.
-
 ## Type parameters
 
 **Type parameter `T`:** The concrete root type to create.

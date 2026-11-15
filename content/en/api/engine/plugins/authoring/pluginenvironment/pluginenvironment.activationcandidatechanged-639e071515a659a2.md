@@ -13,5 +13,3 @@ reviewed: f39c85d8adf09d6c41e76a0ccfc6058d29e984cb26f73cdbde9ae5ae928099bb
 source: xml
 outdated: false
 ---
-
-Occurs after a validated Plugin generation is staged for script compilation but before it becomes active.

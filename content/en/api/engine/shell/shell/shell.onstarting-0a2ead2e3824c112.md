@@ -13,5 +13,3 @@ reviewed: 2095abf3ac06ccf7f3163b244ea1a2a79129a8f254facef0c195517acb012c3c
 source: xml
 outdated: false
 ---
-
-Runs once immediately before the common event and frame loop starts.

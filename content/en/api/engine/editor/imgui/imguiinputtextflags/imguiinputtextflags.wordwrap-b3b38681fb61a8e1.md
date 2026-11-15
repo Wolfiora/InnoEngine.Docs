@@ -13,5 +13,3 @@ reviewed: c370650ad53f8db347efe0f36034410ae0ebaad60183cec5116551fabccfb68b
 source: xml
 outdated: false
 ---
-
-InputTextMultiline(): word-wrap lines that are too long.

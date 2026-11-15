@@ -18,5 +18,3 @@ contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []
 ---
-
-Provides script-friendly access to the current frame's input snapshot.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and registers a refreshable type registry.
-
 ## Parameters
 
 **Parameter `types`:** The type catalog that coordinates this registry's candidate generations.

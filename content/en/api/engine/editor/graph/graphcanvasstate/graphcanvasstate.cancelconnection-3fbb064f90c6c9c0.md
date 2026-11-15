@@ -13,5 +13,3 @@ reviewed: 488fe1cc8697710dec55a910663efc9ca2de94eb1a1f86c0c252b692173e9088
 source: xml
 outdated: false
 ---
-
-Cancels any active connection drag.

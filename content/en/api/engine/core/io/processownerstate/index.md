@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Describes whether an exact operating-system process lifetime can still own files.

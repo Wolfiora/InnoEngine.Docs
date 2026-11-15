@@ -13,5 +13,3 @@ reviewed: 90c7f654cd524f66f04f36cace599704c2175ab1e5482f36ca2cc08d52ce6171
 source: xml
 outdated: false
 ---
-
-Gets the normalized SHA-256 hexadecimal fingerprint, or an empty value for an unassigned key.

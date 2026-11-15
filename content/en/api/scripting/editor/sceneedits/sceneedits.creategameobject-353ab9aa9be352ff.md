@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a GameObject, optionally parents it, and records only the new subtree state.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene that will own the object.

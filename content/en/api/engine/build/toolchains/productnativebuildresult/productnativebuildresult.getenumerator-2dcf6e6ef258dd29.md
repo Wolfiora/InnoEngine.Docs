@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enumerates borrowed products in plan order without transferring their ownership.
-
 ## Returns
 
 An enumerator which must finish before this result is disposed.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads and creates a value from the current structured object.
-
 ## Parameters
 
 **Parameter `reader`:** The operation-scoped reader.

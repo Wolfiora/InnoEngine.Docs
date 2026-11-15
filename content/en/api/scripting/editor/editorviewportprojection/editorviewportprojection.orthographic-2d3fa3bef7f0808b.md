@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Uses a parallel projection controlled by an orthographic half-height.

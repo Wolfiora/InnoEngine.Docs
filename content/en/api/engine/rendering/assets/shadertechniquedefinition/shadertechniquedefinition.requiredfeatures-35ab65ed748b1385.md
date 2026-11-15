@@ -13,5 +13,3 @@ reviewed: 62bdaa9e666de14440476d20df7dfb9969ddb8619f1611b54e4d64f196cd511d
 source: xml
 outdated: false
 ---
-
-Gets or sets capabilities required by the complete technique.

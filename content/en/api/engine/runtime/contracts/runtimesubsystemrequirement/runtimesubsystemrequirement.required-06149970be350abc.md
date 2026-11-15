@@ -13,5 +13,3 @@ reviewed: fa426793c00061f504886e753a4a5cac92f5967ac786013ec8cc08ef9fb44f5d
 source: xml
 outdated: false
 ---
-
-Missing capabilities, dependencies or failed startup reject the entire owner.

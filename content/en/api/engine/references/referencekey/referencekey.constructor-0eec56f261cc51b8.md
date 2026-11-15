@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a key for one reference slot.
-
 ## Parameters
 
 **Parameter `ownerPersistentId`:** The persistent identity of the object that owns the slot.

@@ -13,5 +13,3 @@ reviewed: 9467aee6ff4ab0e98d6fd4e9a88fe8b4709fab60cdca91353343592e9fe8acb1
 source: xml
 outdated: false
 ---
-
-Gets the unscaled node extent.

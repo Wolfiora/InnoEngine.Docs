@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws and edits a four-component color.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

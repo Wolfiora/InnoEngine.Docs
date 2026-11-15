@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Identifies one immutable texture source across authoring, deployment, and runtime generations.

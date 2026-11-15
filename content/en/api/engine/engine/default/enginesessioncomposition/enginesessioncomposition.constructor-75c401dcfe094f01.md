@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the inputs borrowed during synchronous default subsystem construction.
-
 ## Parameters
 
 **Parameter `session`:** The isolated owner receiving these subsystems.

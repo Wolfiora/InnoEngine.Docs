@@ -13,5 +13,3 @@ reviewed: b800622a3525699dc3ae6624c05e32675934cdc977fa5496c5b7b0cb1b691211
 source: xml
 outdated: false
 ---
-
-Gets the standard accent color.

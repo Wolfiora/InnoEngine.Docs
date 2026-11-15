@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-local graph presenter over navigation owned by its document.
-
 ## Parameters
 
 **Parameter `state`:** The existing neutral navigation and selection state.

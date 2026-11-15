@@ -13,5 +13,3 @@ reviewed: ac49801ab10e3d9ac1d245dbc340eb18a1a3dcabf6b60a13342a3e9f8b1351a4
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive clip duration in seconds.

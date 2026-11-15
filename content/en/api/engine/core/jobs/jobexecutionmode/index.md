@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---
-
-Selects the execution strategy owned by a job scheduler.

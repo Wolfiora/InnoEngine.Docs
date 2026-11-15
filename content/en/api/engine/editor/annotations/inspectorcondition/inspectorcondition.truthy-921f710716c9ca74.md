@@ -13,5 +13,3 @@ reviewed: 068131a70a04cb8bbdb68c54b1e3a84858888207349b1bd54068fbbb68910b11
 source: xml
 outdated: false
 ---
-
-Shows a value when it evaluates as true or non-empty.

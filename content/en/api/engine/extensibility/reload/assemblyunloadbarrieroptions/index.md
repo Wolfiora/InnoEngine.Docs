@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Configures forced-collection cadence and the retention failure threshold.

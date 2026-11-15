@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies queued resource changes at the current frame safety point.
-
 ## Parameters
 
 **Parameter `frameIndex`:** Monotonic engine render frame index.

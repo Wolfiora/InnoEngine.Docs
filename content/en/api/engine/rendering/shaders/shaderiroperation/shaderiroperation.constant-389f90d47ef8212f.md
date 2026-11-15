@@ -13,5 +13,3 @@ reviewed: 765694f8350d5d140ddaff27a9f6f690770081da5fde5e23fa7d9cf7022c0320
 source: xml
 outdated: false
 ---
-
-Produces an exact scalar constant stored as bits, not source-language text.

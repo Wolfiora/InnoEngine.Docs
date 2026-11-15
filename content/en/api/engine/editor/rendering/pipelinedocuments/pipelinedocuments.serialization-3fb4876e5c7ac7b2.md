@@ -13,5 +13,3 @@ reviewed: 3fc731290507228576d5688699696011720e1bc1d13f75f7d7a1792fb3cd9a4a
 source: xml
 outdated: false
 ---
-
-Gets the current owner serialization registry.

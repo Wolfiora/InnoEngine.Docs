@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Describes one deployed runtime-only asset content snapshot.

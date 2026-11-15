@@ -13,5 +13,3 @@ reviewed: 49674b6db181953be928de57a27139ba6b4d04b797102213ffe143696eac8a9f
 source: xml
 outdated: false
 ---
-
-Identifies the MouseWheelY presentation key or modifier.

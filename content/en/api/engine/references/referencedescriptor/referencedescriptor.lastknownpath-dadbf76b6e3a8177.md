@@ -13,5 +13,3 @@ reviewed: cc9818ef9821d5a6b4664fc210de82d65978102a4ee83aa3d6aee239df5d5bfa
 source: xml
 outdated: false
 ---
-
-Gets an optional last-known source path that is never used as resolution authority.

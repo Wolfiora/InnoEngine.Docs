@@ -13,5 +13,3 @@ reviewed: 3907d87c65898457e3207994689b23e969691a00a17fcadce3127c3cd4db6146
 source: xml
 outdated: false
 ---
-
-Gets the visible label.

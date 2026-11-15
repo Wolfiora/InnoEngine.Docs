@@ -13,5 +13,3 @@ reviewed: 6c2ffc8efc5ba63788d180d3142215482b8deb237bedafd8623b4fa9c03402f8
 source: xml
 outdated: false
 ---
-
-Gets the destination pixel viewport.

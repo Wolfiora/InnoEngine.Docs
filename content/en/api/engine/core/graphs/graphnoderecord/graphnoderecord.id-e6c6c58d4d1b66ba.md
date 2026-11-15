@@ -13,5 +13,3 @@ reviewed: ef5c96c2de0e027d833e434cbda9a74110650f0ec0e109ceafa835987a2b0c9f
 source: xml
 outdated: false
 ---
-
-Gets the stable node identifier.

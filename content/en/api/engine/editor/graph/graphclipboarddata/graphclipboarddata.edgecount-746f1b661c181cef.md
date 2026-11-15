@@ -13,5 +13,3 @@ reviewed: 995562fee9c02307ca35d97052e98293bb5af86ae3b87b3045432a729dd4de4c
 source: xml
 outdated: false
 ---
-
-Gets the copied connection count whose endpoints both belong to the fragment.

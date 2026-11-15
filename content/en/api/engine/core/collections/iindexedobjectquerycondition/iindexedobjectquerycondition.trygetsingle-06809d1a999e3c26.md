@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a single matching item when possible.
-
 ## Parameters
 
 **Parameter `store`:** Store being queried.

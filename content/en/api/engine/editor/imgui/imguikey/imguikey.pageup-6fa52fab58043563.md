@@ -13,5 +13,3 @@ reviewed: 5ed9523f032d05edb60aeb0dde637a566ffea416c6bd27d584bce5ed9e1f3d3d
 source: xml
 outdated: false
 ---
-
-Identifies the PageUp presentation key or modifier.

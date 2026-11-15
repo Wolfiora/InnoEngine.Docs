@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts one clip with an explicit clock, looping, speed, layer, and blend policy.
-
 ## Parameters
 
 **Parameter `clip`:** Valid clip to sample until completion or explicit stop.

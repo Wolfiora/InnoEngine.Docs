@@ -13,5 +13,3 @@ reviewed: faaba846adc9c6fc85a9cffd70b71e03a13fdc1ad16de7392cd4b8dea8d263b1
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable node-local port identity.

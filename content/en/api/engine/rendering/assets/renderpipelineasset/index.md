@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Selects a pipeline extension and ordered feature configuration without defining a render path.

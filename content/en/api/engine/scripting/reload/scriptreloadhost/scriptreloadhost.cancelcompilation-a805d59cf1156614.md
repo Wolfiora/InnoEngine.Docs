@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests cancellation of the active compilation without changing the active script generation.
-
 ## Returns
 
 `true` when an active compilation received the request.

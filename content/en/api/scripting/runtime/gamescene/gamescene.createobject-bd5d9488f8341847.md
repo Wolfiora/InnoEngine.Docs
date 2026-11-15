@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a game object with a mandatory transform component.
-
 ## Parameters
 
 **Parameter `name`:** Initial game object name.

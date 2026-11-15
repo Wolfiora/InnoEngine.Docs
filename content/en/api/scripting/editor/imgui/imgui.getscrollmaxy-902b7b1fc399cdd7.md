@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current vertical scroll range.
-
 ## Returns
 
 A copied value from the active presentation context.

@@ -13,5 +13,3 @@ reviewed: 2ead0acff40256692ec9a2432ebff67974ddb98e05754356fc44af1e93dd4511
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact implementation key used by the selected rendering backend.

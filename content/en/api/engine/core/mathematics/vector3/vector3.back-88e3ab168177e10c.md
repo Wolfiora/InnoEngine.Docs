@@ -13,5 +13,3 @@ reviewed: 89bbeb22b817014cd0957e5e71c34c0cbb9826757d8480fe1c4cd6dc818473c4
 source: xml
 outdated: false
 ---
-
-The back value used as part of this type's public representation.

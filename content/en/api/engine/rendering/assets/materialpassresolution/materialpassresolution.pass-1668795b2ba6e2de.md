@@ -13,5 +13,3 @@ reviewed: 813347b78a273ed183b8cf00ae4d4e4e7e3bfa7219bdea2592a0fbb3733ed6ac
 source: xml
 outdated: false
 ---
-
-Gets the concrete shader pass with detached metadata storage.

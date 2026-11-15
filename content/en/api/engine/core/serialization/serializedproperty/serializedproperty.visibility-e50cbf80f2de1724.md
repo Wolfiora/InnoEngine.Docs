@@ -13,5 +13,3 @@ reviewed: b13eba28832d212c2467b0e80503bac7566e41abfe2b6ac210e2080fcbc62e06
 source: xml
 outdated: false
 ---
-
-Gets the visibility of this property.

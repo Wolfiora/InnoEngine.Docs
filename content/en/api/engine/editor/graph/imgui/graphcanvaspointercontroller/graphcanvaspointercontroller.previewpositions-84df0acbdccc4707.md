@@ -13,5 +13,3 @@ reviewed: 4aa46ecb58c64d94f9e4836ebd41997327d17c684e5448580ad1d4e0b9d16c3d
 source: xml
 outdated: false
 ---
-
-Gets frame-local movement previews; callers must not persist this changing view.

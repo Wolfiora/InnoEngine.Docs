@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Chooses composable font emphasis while leaving actual font ownership with the presentation host.

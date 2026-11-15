@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Called to initialize the generator and register generation steps via callbacks on the `context`
-
 ## Parameters
 
 **Parameter `context`:** The `T:Microsoft.CodeAnalysis.IncrementalGeneratorInitializationContext` to register callbacks on

@@ -13,5 +13,3 @@ reviewed: 87c7abb448e2d122d4dff55073d8bbe636302cee06dd7531e0c07605d8d37460
 source: xml
 outdated: false
 ---
-
-Gets the build definition.

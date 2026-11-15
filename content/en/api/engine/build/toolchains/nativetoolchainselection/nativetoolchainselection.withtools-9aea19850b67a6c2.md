@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds integration-owned tools without changing the platform SDK or replacing existing commands.
-
 ## Parameters
 
 **Parameter `tools`:** Explicit absolute executables required by the selected backend integration.

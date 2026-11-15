@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resets the consumed pointer-drag distance.
-
 ## Parameters
 
 **Parameter `button`:** The pointer button to inspect.

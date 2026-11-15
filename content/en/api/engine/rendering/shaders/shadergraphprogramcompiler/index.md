@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Partitions explicit GPU-stage regions and lowers them through registered node compilers.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns all stored items as a lazy fail-fast enumerable.
-
 ## Remarks
 
 Enumeration throws if the store is modified during iteration.

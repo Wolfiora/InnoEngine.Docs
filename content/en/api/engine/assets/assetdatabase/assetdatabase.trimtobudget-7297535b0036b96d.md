@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Evicts least-recently-used unpinned assets until the configured payload budget is met.
-
 ## Returns
 
 The number of canonical assets released by this trim operation.

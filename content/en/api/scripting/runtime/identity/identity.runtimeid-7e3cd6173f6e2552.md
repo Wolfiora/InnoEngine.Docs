@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the identifier assigned by the currently bound runtime registry.
-
 ## Remarks
 
 The value is `null` while this identity is not bound to a live registry.

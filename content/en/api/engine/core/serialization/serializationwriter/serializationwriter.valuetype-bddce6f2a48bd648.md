@@ -13,5 +13,3 @@ reviewed: b184d3b5da1514aacca57cc9baf6e787f144d5d2d77aef5d9d49a1e507edf30b
 source: xml
 outdated: false
 ---
-
-Gets the declared value type represented by this writer.

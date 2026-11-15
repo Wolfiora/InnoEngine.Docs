@@ -13,5 +13,3 @@ reviewed: e64d253c5ade073fd7e77406c22d5e1f848e028f92ad5d492da141e0e2935551
 source: xml
 outdated: false
 ---
-
-Gets the imported clip requested by the emitter.

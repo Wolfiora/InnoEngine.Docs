@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances state that depends on completed variable simulation.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable variable-frame state.

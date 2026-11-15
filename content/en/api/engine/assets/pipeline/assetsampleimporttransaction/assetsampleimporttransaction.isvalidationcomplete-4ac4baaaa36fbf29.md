@@ -13,5 +13,3 @@ reviewed: 6e685016bdf47d6960e68fd3da81e3e8a7c49667ab865ab836976f9e23b42956
 source: xml
 outdated: false
 ---
-
-Gets whether background validation has drained and Commit can inspect its outcome.

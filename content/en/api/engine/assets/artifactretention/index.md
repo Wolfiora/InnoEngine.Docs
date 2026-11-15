@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Counts explicit leases over immutable artifact keys independently of asset object residency.

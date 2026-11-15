@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Allows multiple instances of a concrete component type on one game object.

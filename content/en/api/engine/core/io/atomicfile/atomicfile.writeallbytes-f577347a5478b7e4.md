@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a complete byte payload and atomically installs it at the destination.
-
 ## Parameters
 
 **Parameter `path`:** The destination file path.

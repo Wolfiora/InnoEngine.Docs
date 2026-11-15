@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes a reviewable retirement proposal for explicitly registered cache owners in one checkout.

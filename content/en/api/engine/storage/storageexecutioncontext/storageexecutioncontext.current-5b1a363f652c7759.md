@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the storage service bound to the current execution context.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no storage scope is active.

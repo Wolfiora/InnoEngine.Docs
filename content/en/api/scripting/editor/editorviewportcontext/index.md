@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Supplies frame-only Editor interaction and output dimensions to a contributor.

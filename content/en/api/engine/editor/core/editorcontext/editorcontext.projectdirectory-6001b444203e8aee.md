@@ -13,5 +13,3 @@ reviewed: 629b109ac0df2bc7b30afd509a4bebdb40db9d991d6edff827105adf79097066
 source: xml
 outdated: false
 ---
-
-Gets the normalized project root directory.

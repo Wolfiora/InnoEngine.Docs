@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Lowers an explicit arithmetic/comparison operation; operation IDs are node configuration, not backend code.

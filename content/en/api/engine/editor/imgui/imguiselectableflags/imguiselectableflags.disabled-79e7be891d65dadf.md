@@ -13,5 +13,3 @@ reviewed: e0f02d2598f9a9ffee90298a3819fbe25f188a4a4b275ebafe73f3eb9a3300dc
 source: xml
 outdated: false
 ---
-
-Cannot be selected, display grayed out text

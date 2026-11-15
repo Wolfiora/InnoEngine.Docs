@@ -13,5 +13,3 @@ reviewed: 6542e8be232033ac6bb51d3487eca537ba39fd662ffd7a09b00b750a6e7179b4
 source: xml
 outdated: false
 ---
-
-Gets one atomically published operation, fraction, stage and cancellation snapshot.

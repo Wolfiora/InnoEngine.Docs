@@ -13,5 +13,3 @@ reviewed: cd9f2cfbbdda4d679f4161c473bd2c2cdd74d6170a7e750d60e23fff7d934eb2
 source: xml
 outdated: false
 ---
-
-Gets the minimum screen coordinate of the row's interactive content, excluding tree indentation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a capture policy using a presentation viewport to platform window resolver.
-
 ## Parameters
 
 **Parameter `resolveWindow`:** Returns a live window ID for a viewport, or null when absent.

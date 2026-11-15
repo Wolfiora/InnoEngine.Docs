@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project setting placement.
-
 ## Parameters
 
 **Parameter `path`:** The slash-delimited field path beginning with `Project/`.

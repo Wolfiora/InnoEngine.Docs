@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Shows the annotated Inspector property only when a sibling member satisfies a condition.

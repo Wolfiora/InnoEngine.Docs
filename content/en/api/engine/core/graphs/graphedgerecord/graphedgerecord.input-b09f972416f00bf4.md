@@ -13,5 +13,3 @@ reviewed: 67142e2c3863634abb756f1e75f488b2b4a474b99ed0a0778c377d3ea75e1bf0
 source: xml
 outdated: false
 ---
-
-Gets the destination endpoint.

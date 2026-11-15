@@ -13,5 +13,3 @@ reviewed: 42dd046e82361284e49d595fec757e0e7c64d39639629e4ce41cd9baefd69075
 source: xml
 outdated: false
 ---
-
-The target gained focus.

@@ -13,5 +13,3 @@ reviewed: 25de284dbd2a0ff36bcd5318dc6bdffd26d4cdcfcb85a11cc0cc350a4a5ffc8c
 source: xml
 outdated: false
 ---
-
-Gets the compute pipeline, or an invalid handle for a raster pass.

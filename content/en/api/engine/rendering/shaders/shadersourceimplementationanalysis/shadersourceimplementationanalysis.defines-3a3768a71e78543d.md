@@ -13,5 +13,3 @@ reviewed: d669a8d31c4d001f76412295760989a17b31a160e322bd9a7e0bcd7ffdffe179
 source: xml
 outdated: false
 ---
-
-Gets the immutable preprocessing inputs used for this implementation.

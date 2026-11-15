@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-One font asset declared by a UI document language frontend.
-
 ## Parameters
 
 **Parameter `assetPath`:** Isolated font asset path.

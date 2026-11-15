@@ -13,5 +13,3 @@ reviewed: f06388db0e7a700f717475fe1340b64d4897b9c9b63000a580521d31ac09468c
 source: xml
 outdated: false
 ---
-
-Identifies the PrintScreen presentation key or modifier.

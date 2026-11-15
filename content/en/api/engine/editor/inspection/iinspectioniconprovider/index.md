@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Resolves a presentation icon for inspected targets owned by another editor feature.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The target type whose icon can be resolved.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Increases editor UI zoom by one bounded increment.
-
 ## Returns
 
 `true` when the requested zoom changed.

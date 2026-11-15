@@ -13,5 +13,3 @@ reviewed: 336e02555664826f1249301b58a50247b382820e101ba6a6a9c7f1fb6e48b7ba
 source: xml
 outdated: false
 ---
-
-Drop into the target.

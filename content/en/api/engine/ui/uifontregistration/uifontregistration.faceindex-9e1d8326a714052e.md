@@ -13,5 +13,3 @@ reviewed: 48cb9ef5b8d56fea70c9e0607e6516eb53d5ceb6d8ceb788bc10bbef6c9e1a84
 source: xml
 outdated: false
 ---
-
-Gets the zero-based collection face index.

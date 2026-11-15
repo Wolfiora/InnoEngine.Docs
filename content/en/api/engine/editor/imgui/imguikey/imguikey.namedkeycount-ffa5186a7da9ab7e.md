@@ -13,5 +13,3 @@ reviewed: 846a488560be10f9853cdcc10044f12ebddd96c25aa12b50ca426bf293648053
 source: xml
 outdated: false
 ---
-
-Identifies the NamedKeyCount presentation key or modifier.

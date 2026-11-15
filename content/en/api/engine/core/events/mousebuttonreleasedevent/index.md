@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Raised when a mouse button is released.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

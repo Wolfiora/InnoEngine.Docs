@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether a submitted control owns an active interaction.
-
 ## Returns
 
 True when the documented control event or condition is present; otherwise false.

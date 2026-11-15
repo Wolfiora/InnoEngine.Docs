@@ -13,5 +13,3 @@ reviewed: 6e8f8291bdf14617da07dfd3b1786201439d177ac54543ff6339e1f8c377a963
 source: xml
 outdated: false
 ---
-
-Prefix used for generated log file names.

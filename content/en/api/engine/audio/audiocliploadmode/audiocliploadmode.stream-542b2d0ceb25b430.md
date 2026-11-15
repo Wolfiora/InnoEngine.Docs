@@ -13,5 +13,3 @@ reviewed: 42f2b00828354372d25c155d72c314d2188581709cf9fd6a98eafeef1b10f58b
 source: xml
 outdated: false
 ---
-
-Decodes encoded data incrementally while playback advances.

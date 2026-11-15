@@ -13,5 +13,3 @@ reviewed: d287faf063ecdacde0ca6cb0f596ba61c2cd8e90b101d53a2bfadeac189c53b3
 source: xml
 outdated: false
 ---
-
-Gets or sets clip-local time in seconds.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Registers a platform contribution with the content implementation selected by a distribution.

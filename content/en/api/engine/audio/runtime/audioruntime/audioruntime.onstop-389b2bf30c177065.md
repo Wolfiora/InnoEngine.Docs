@@ -13,5 +13,3 @@ reviewed: 345912f29232dfb20f0aa25d0d41f6f5fe1cd953d6b1118b4675b449ede4eb48
 source: xml
 outdated: false
 ---
-
-Stops voices and releases providers, cache entries, mixer generations, and the owned backend device.

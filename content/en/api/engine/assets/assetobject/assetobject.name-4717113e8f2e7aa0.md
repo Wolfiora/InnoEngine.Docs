@@ -13,5 +13,3 @@ reviewed: f1e0636cd41bfadd85a01429f54e26bf42fc1cfa866d01a5401e0d313c2c1770
 source: xml
 outdated: false
 ---
-
-Gets a display name derived from the source-local path.

@@ -13,5 +13,3 @@ reviewed: 3f6986c65d5550fabe8fe2429b8ba7f7f42d881cb18e3e9ac0dc760fd012de85
 source: xml
 outdated: false
 ---
-
-Gets the angle right glyph used by standard Editor controls.

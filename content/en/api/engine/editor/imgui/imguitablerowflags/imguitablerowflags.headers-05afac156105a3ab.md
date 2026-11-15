@@ -13,5 +13,3 @@ reviewed: a5566987e8d524b44c8a925592025df2d5918acb88f6aadc19e111b1e309bcb5
 source: xml
 outdated: false
 ---
-
-Identify header row (set default background color + width of its contents accounted differently for auto column width)

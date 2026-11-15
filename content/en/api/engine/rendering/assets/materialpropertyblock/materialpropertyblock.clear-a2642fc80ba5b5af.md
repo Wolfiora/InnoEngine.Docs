@@ -13,5 +13,3 @@ reviewed: cfe495c5bdf5061c7a50d76e7ce0896d3ecee956803f99ceb43e794914ccb362
 source: xml
 outdated: false
 ---
-
-Removes all frame-local overrides.

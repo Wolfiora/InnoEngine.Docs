@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares complete pure serialized-property revision access for a sealed serializable identity source.
-
 ## Parameters
 
 **Parameter `readRevision`:** The owner-controlled revision reader; null results decline reuse and counters must not repeat for different state.

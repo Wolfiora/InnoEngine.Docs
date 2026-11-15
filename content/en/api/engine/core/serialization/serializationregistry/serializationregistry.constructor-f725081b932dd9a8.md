@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a serialization registry derived from one isolated type catalog.
-
 ## Parameters
 
 **Parameter `types`:** The type catalog that owns converter extension generations.

@@ -13,5 +13,3 @@ reviewed: d34ec9f682797c446b8b30c4e234c3ae39978cfe9f5ad141cae9f9a515bc01f8
 source: xml
 outdated: false
 ---
-
-Gets whether this row should receive keyboard focus during this submission when its tree window is focused.

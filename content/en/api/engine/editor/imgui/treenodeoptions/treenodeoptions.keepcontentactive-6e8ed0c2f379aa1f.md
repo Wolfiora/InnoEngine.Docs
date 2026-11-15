@@ -13,5 +13,3 @@ reviewed: d772f932036036b66ace477843d0bda60a3ce5042a7778e5da385bd3eafaa6e9
 source: xml
 outdated: false
 ---
-
-Gets whether an active edit requires content submission even while its row is clipped.

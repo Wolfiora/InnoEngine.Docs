@@ -13,5 +13,3 @@ reviewed: e0320b7f237bc9a52bccc4b34d83de66d116782c9688bdeb23cf5b1039111e0c
 source: xml
 outdated: false
 ---
-
-Gets mesh generations that must be retired.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compiled draft without modifying the source Shader or its canonical runtime publication.
-
 ## Parameters
 
 **Parameter `ownerId`:** Persistent document identity, independent of the canonical Shader publication.

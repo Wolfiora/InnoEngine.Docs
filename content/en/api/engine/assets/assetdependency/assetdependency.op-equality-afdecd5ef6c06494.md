@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two descriptors refer to the same persistent asset.
-
 ## Parameters
 
 **Parameter `left`:** The first dependency descriptor to compare.

@@ -13,5 +13,3 @@ reviewed: 490054bf7b08aa4e735a197ca38fc048429d00784cd2f448fb0ed08774171085
 source: xml
 outdated: false
 ---
-
-Gets or sets the hub dispatch order. Higher values run earlier.

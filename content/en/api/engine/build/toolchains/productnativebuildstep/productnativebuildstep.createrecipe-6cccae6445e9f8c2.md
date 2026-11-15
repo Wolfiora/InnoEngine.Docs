@@ -13,5 +13,3 @@ reviewed: 599b6d21db1f2d8b4b4652401de24bc91f8b42892fae3254dba90758bcf96476
 source: xml
 outdated: false
 ---
-
-Gets the producer's source declaration, or null when a static aggregate owns the component recipe. The declaration must not generate bindings, run a compiler or create staging.

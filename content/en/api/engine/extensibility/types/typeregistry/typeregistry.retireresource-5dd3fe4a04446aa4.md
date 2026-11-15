@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Drains one retryable lifecycle operation at the control-thread safe point before releasing dependencies.
-
 ## Parameters
 
 **Parameter `owner`:** The resource or extension identifier included in deadline diagnostics.

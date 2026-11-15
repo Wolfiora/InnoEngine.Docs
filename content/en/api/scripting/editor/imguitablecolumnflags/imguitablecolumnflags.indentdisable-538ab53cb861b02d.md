@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Ignore current Indent value when entering cell (default for columns \> 0). Indentation changes \_within\_ the cell will still be honored.

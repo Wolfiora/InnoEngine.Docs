@@ -13,5 +13,3 @@ reviewed: 8c4a753801904d88af26c271ed864afafac37b458110d999bad4ed36bb844220
 source: xml
 outdated: false
 ---
-
-Gets the handled attribute type.

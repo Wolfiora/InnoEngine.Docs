@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a nominal structure with a validated immutable field layout.
-
 ## Parameters
 
 **Parameter `id`:** Public structure identity shared by alternative implementations.

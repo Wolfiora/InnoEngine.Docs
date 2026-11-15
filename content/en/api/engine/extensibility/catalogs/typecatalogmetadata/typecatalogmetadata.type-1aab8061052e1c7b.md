@@ -13,5 +13,3 @@ reviewed: a2abf426707e9a375808c70bdaab3f8a485fbcadaa6a13d5f78cba0bb9b80dd6
 source: xml
 outdated: false
 ---
-
-Gets the declaration whose metadata is owned by this generation.

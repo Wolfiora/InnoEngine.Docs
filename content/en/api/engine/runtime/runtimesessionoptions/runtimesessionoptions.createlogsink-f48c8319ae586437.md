@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or initializes the optional factory that transfers one session log sink to this session.
-
 ## Remarks
 
 The factory receives the session identity. The returned sink receives only this session's entries and is disposed during retirement when it implements `IDisposable`. A null factory leaves logging to the host router's existing sinks.

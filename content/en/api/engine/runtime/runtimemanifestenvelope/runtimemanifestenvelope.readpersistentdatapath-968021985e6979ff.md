@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the validated writable data folder before engine serialization is initialized.
-
 ## Parameters
 
 **Parameter `data`:** The complete runtime manifest envelope.

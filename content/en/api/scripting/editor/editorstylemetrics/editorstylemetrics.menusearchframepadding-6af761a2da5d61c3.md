@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the compact padding used by the search field at the top of editor context menus. Its vertical padding matches the half-spacing that menu entries add above and below a line.

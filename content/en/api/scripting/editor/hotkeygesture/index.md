@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Describes one keyboard gesture used to invoke an editor command.

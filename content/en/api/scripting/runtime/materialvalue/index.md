@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Stores one native-serializable material value without a GPU binding.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Provides the native geometry of a tree row while its custom content is being drawn.

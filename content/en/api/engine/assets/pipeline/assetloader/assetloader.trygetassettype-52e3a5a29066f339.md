@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve the concrete asset type without loading it.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

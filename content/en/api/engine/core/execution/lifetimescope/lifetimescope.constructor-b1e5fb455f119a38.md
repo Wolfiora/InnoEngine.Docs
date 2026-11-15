@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a lifetime with finite asynchronous admission capacity.
-
 ## Parameters
 
 **Parameter `maxTrackedWork`:** Maximum retained work records; completed successful work releases capacity immediately.

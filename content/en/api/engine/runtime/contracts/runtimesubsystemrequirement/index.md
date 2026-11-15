@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Selects startup failure behavior without changing runtime-frame or retirement error semantics.

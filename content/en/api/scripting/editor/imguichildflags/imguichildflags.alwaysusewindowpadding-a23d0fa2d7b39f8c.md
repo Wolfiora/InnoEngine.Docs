@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Pad with style.WindowPadding even if no border are drawn (no padding by default for non-bordered child windows because it makes more sense)

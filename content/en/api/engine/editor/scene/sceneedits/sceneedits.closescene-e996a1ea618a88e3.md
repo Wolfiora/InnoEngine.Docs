@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Closes one loaded scene without deleting its source asset and records a reversible document change.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to close.

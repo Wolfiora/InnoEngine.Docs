@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and atomically saves the supplied build profile.
-
 ## Parameters
 
 **Parameter `profile`:** The complete current profile to persist.

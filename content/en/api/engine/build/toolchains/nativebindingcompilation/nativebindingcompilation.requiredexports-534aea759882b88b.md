@@ -13,5 +13,3 @@ reviewed: 2a24e90f065dfc2bc2a5404350132abeb9b75be6378ba23d10396da6a2937aaa
 source: xml
 outdated: false
 ---
-
-Gets the exact native symbols that the component must provide.

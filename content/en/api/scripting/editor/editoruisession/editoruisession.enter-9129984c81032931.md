@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Activates this session for a synchronous callback while preserving the enclosing scope.
-
 ## Returns
 
 An owner-thread scope that must be released in reverse activation order.

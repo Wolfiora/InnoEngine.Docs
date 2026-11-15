@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests a directed value conversion.
-
 ## Parameters
 
 **Parameter `sourceTypeId`:** Source value type identifier.

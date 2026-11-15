@@ -13,5 +13,3 @@ reviewed: 84639094ce443fbb8e30a74bb7952686211ff56c2e85455f18e525745a927157
 source: xml
 outdated: false
 ---
-
-Gets independently drawable indexed ranges.

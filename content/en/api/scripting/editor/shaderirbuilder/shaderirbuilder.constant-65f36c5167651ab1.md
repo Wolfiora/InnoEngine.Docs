@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Produces an exact unsigned 32-bit integer constant.
-
 ## Parameters
 
 **Parameter `value`:** Scalar unsigned integer value.

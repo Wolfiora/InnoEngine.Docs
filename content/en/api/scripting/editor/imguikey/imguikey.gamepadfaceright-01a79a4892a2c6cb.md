@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadFaceRight presentation key or modifier.

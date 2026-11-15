@@ -13,5 +13,3 @@ reviewed: 5f8d50affc191fbb044b82cabe198883ec1c226a26116f98dc420dd3f7dc7b8a
 source: xml
 outdated: false
 ---
-
-Gets the persistent device buffer for imported resources.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases one clip after all voices using it have ended.
-
 ## Parameters
 
 **Parameter `clip`:** Clip owned by the current device generation.

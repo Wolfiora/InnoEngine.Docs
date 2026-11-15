@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Computes a hash code from the owner identity and stable path.
-
 ## Returns
 
 A hash code consistent with reference-key equality.

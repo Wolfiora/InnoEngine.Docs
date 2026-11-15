@@ -13,5 +13,3 @@ reviewed: a22a9b5d9ec6d97aa06e472191ce84ab1f3b4ed920ce7a7ea358a866384eaceb
 source: xml
 outdated: false
 ---
-
-Gets the playback-rate multiplier.

@@ -13,5 +13,3 @@ reviewed: 78a3fedd1b42f3014e8e32d2671ae6f152f1e518cc1b4c3b053bb4f80db26d46
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadAdd presentation key or modifier.

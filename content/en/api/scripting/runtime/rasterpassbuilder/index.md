@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Declares raster attachments and resource access.

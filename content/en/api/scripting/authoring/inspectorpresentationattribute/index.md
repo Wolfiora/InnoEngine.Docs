@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides editor-only presentation metadata for one serialized field or property.
-
 ## Remarks
 
 Presentation attributes never participate in serialization. Concrete attributes are conditional on INNO\_EDITOR, so their applications are omitted from Player script assemblies.

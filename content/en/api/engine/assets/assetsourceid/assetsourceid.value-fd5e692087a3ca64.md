@@ -13,5 +13,3 @@ reviewed: 285b654800ccd4633aa3af39297d07d3c6b3d3a98c62023194b1fc01350f98e8
 source: xml
 outdated: false
 ---
-
-Gets or sets the globally stable source value.

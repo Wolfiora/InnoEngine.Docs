@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects a channel from the current split.
-
 ## Parameters
 
 **Parameter `index`:** The zero-based channel.

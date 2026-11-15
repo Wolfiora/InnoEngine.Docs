@@ -13,5 +13,3 @@ reviewed: 66a7d7cad4673252d08e5baf0ec34c478908dbd81e679910aa9026d81598adc8
 source: xml
 outdated: false
 ---
-
-Gets the lock glyph used by standard Editor controls.

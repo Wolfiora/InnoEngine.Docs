@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Lists keys below an optional prefix.
-
 ## Parameters
 
 **Parameter `prefix`:** An optional normalized directory prefix.

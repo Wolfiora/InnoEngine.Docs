@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases transient provider state after a document closes.
-
 ## Parameters
 
 **Parameter `context`:** Stable document context owned by the host.

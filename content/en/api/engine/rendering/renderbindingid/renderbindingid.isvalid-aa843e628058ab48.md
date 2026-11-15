@@ -13,5 +13,3 @@ reviewed: 9fcb3272c1d00800255e529a353fa77df3d091fbdc96211a973ce2a9e4b34678
 source: xml
 outdated: false
 ---
-
-Gets whether the identifier contains a stable manifest name.

@@ -13,5 +13,3 @@ reviewed: 3d8b917582564b6a028f824333d5d0284cd5ea379b9b22bad3787b5d63747b62
 source: xml
 outdated: false
 ---
-
-Gets the stable listener identity.

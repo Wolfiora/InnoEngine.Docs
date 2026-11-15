@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a mixer feature declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable feature extension identifier.

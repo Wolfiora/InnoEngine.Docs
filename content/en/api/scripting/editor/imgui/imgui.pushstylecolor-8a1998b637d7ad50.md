@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Pushes one color override.
-
 ## Parameters
 
 **Parameter `color`:** The style color slot.

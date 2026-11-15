@@ -13,5 +13,3 @@ reviewed: 1ff10e6d5d882b8567d59869d5acd9726b9ac217b47a60dc0471c98ff06d6563
 source: xml
 outdated: false
 ---
-
-Gets the borrowed source checkout used for preflight.

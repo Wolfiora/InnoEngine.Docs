@@ -13,5 +13,3 @@ reviewed: ace51963731b878bbfcdf3b36f5aaa9ac9d6501f54169ef04b2c2ccd69e0d878
 source: xml
 outdated: false
 ---
-
-Gets whether a current-generation provider is available.

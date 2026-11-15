@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reports the Game View image in coordinates local to its platform window.
-
 ## Parameters
 
 **Parameter `viewportId`:** The presentation viewport containing the Game View.

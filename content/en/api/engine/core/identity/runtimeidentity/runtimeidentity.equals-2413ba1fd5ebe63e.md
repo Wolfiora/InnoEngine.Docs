@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this value and another value address the same live identity slot.
-
 ## Parameters
 
 **Parameter `other`:** The runtime identity to compare with this value.

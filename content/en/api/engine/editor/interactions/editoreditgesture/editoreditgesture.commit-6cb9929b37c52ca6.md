@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Commits the edit exactly once; rejected completion leaves the transaction available for retry.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The gesture is finished or a nested transaction remains active.

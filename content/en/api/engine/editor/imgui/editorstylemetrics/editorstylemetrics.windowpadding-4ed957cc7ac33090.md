@@ -13,5 +13,3 @@ reviewed: 20a4953704de97b54cb8f81fa06a33b2caf95d8056d043727f25a8257b44dc68
 source: xml
 outdated: false
 ---
-
-Gets standard window padding.

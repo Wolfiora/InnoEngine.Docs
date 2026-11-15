@@ -13,5 +13,3 @@ reviewed: faf2ac90c08386f951591c14eb59dcec01b01a133bcb5152b9e2004cfa864045
 source: xml
 outdated: false
 ---
-
-Gets editor context-menu corner rounding.

@@ -13,5 +13,3 @@ reviewed: eff52e25d302b04b504304aa8e618e67ffd251943db24f6650b86b04954f4658
 source: xml
 outdated: false
 ---
-
-The J letter key.

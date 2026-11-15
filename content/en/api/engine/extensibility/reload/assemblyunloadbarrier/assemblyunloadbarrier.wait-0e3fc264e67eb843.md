@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Blocks the caller until all retired generations are reclaimed, cancellation is requested, or the barrier faults.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** A token that can cancel the wait without changing the barrier state.

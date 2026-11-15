@@ -13,5 +13,3 @@ reviewed: 4baf03efe92e929bd7472f396d6ff70a074dff06401dc444c67878ffaf1a481a
 source: xml
 outdated: false
 ---
-
-Gets the object that owns the annotated member.

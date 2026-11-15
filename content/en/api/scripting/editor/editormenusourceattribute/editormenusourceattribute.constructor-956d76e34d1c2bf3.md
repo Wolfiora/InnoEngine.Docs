@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a dynamic menu-source registration for an exact interaction surface.
-
 ## Parameters
 
 **Parameter `area`:** The exact menu area that receives placements from the source.

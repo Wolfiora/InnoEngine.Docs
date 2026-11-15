@@ -13,5 +13,3 @@ reviewed: e5955133724a580d098a472bbb8727d249c01cb6541fc5a5ff26548a2a0b8f06
 source: xml
 outdated: false
 ---
-
-Gets the unique diagnostic name.

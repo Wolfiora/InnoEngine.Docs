@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies the edited components of a representative value without replacing unrelated mixed components.
-
 ## Parameters
 
 **Parameter `type`:** Common exact Shader property type.

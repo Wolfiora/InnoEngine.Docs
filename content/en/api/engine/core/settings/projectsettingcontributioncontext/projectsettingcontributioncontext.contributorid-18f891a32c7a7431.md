@@ -13,5 +13,3 @@ reviewed: 064cef8a37e4bba3a673a28d89e3b5ad520d170d90ede266751131c1bf1f009a
 source: xml
 outdated: false
 ---
-
-Gets the stable Plugin ID, or `project` for the project-authored contribution.

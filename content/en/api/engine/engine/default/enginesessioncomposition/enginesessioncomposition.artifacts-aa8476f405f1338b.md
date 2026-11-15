@@ -13,5 +13,3 @@ reviewed: f0ca2abed3902e6ccd6d1c6bb11c4abf1ce6a26f274064b3bf7458ab87198159
 source: xml
 outdated: false
 ---
-
-Gets immutable encoded content artifacts from the selected host environment.

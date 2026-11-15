@@ -13,5 +13,3 @@ reviewed: 81984526d705c2a445aa57d8cde345368a3ce5d78358326ab53341aac0616ac6
 source: xml
 outdated: false
 ---
-
-Allows runtime assignment through the `T:Inno.Core.Serialization.SerializedProperty` API.

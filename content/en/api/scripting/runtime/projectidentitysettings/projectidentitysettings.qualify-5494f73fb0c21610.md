@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Qualifies a display name under the current project identifier.
-
 ## Parameters
 
 **Parameter `name`:** The project-local display name.

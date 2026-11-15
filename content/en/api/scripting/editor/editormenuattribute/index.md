@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Places an editor action at an arbitrary path on a menu surface.

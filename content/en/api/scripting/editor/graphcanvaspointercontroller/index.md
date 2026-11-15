@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Coordinates neutral selection, movement previews, box selection and connection intents for one canvas.

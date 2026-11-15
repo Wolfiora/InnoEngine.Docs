@@ -13,5 +13,3 @@ reviewed: 195eca5e94097117fe4edf1428fbab046298cbd0d4d7d06cc67468ae6be93fc3
 source: xml
 outdated: false
 ---
-
-Skinning weights.

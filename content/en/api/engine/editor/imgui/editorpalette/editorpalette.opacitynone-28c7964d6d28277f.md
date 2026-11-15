@@ -13,5 +13,3 @@ reviewed: 610d41fb418905b0231d8950763725868615cf1887940861c19944d61c35895a
 source: xml
 outdated: false
 ---
-
-Gets zero opacity for invisible surfaces.

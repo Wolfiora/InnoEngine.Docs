@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:System.Numerics.Vector4`.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

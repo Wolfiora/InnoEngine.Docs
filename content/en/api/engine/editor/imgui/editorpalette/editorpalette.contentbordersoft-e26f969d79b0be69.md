@@ -13,5 +13,3 @@ reviewed: 53afcef0a08b1100c972d2cd1db0c77679759acdd2ea170f94abb83a0ab564b3
 source: xml
 outdated: false
 ---
-
-Gets the soft content border.

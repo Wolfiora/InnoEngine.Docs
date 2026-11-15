@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a disabled fallback profile used when no provider navigation contract exists.

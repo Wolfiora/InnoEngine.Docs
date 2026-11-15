@@ -13,5 +13,3 @@ reviewed: 984622344aa5d30c5758862b9b055e680ad480bdd0b8bbf3af55da66ab7b1fb7
 source: xml
 outdated: false
 ---
-
-No keyboard/gamepad navigation within the window

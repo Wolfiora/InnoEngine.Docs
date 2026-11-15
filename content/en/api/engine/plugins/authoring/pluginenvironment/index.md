@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Owns automatic installed Plugin source discovery and atomically publishes Asset mounts, settings contributors, and the active Plugin catalog on the Asset Database owner thread.

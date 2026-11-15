@@ -13,5 +13,3 @@ reviewed: a4e05e74656dbeb681622c123a3a6455f2212ebbb6db25d83621e62d66ed1798
 source: xml
 outdated: false
 ---
-
-Gets the generation shared by handles allocated by this owner.

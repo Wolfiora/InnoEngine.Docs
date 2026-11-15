@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a root serialized property.
-
 ## Parameters
 
 **Parameter `editorContext`:** Shared editor context.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Owns one revocable diagnostic producer registration and releases its current report on retirement.

@@ -13,5 +13,3 @@ reviewed: d7adc6c834abe46a38dba923a381d58fb19577907ec56ea21134da8041ef3190
 source: xml
 outdated: false
 ---
-
-Gets offscreen target requests rejected by finite capacity.

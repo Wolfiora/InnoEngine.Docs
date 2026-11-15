@@ -13,5 +13,3 @@ reviewed: ac468e01946eef823ddbba3e708f39655dfabe932e3e0a7017fcff336945c98b
 source: xml
 outdated: false
 ---
-
-Gets the generation-scoped mesh handle.

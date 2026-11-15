@@ -13,5 +13,3 @@ reviewed: aceb8ada55d03f43a11a451a05b29a3265603fe146c62a2f16922d384bd13bf9
 source: xml
 outdated: false
 ---
-
-Gets the world-space listener velocity.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Identifies one material-selectable technique in a shader.

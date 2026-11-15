@@ -13,5 +13,3 @@ reviewed: 4f502463de0def497692923a0d512d25033f7c52b4d9712ed99631c62c391546
 source: xml
 outdated: false
 ---
-
-Gets the declared intermediate owner independently of assembly location and MVID.

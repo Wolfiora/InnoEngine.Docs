@@ -13,5 +13,3 @@ reviewed: bc47a0c854d86b79de33ef31ec76e22da7acb71d5c0cc84773fae3b544573682
 source: xml
 outdated: false
 ---
-
-Gets the scalar measurement or identity associated with the current state.

@@ -13,5 +13,3 @@ reviewed: d7593062f69ca5e27cbe2669ab26716aeb6fbab60c568c94ae6afecaf54f6e9b
 source: xml
 outdated: false
 ---
-
-Gets the generation-scoped texture handle.

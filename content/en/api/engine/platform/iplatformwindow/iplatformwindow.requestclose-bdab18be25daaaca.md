@@ -13,5 +13,3 @@ reviewed: 5876310e561efa513243c93854cc81d4784d198a251cebaa4234e1a1ff62e3ff
 source: xml
 outdated: false
 ---
-
-Marks the window as requesting closure without destroying it immediately.

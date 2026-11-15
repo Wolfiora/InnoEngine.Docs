@@ -13,5 +13,3 @@ reviewed: 6a3514c8158291656fb0a5a480c084a8bc97ea526428f080f30701227ecd9b69
 source: xml
 outdated: false
 ---
-
-Gets the accepted value representation.

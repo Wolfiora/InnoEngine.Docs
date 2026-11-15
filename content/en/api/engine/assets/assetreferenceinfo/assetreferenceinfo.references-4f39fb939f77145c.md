@@ -13,5 +13,3 @@ reviewed: 519205d132f86ff2c1a5237ccc0daa47e3df14aebfe0c4a2e32088d22592574d
 source: xml
 outdated: false
 ---
-
-Gets the engine-known reference locations.

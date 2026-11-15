@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances coroutine execution by one frame.
-
 ## Parameters
 
 **Parameter `deltaTime`:** Frame delta time in seconds.

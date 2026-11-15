@@ -13,5 +13,3 @@ reviewed: 06730dace6aa92d85ae251e1646b28a458ba8f54ac234818a8f4f85430033bd1
 source: xml
 outdated: false
 ---
-
-Gets the immutable column-major projection matrix.

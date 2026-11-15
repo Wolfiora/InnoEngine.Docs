@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether this distribution contributes an SDK for an explicitly requested binding target. A standalone binding definition may describe a target without registering a product publisher.
-
 ## Parameters
 
 **Parameter `targetId`:** The exact target identity; no host-derived target is substituted.

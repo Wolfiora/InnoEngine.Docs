@@ -13,5 +13,3 @@ reviewed: 1069a72718fb06fe6c5e10115facac98d594dfb946d3869044505abbaaab214c
 source: xml
 outdated: false
 ---
-
-Gets the asset-local stable slot identifier.

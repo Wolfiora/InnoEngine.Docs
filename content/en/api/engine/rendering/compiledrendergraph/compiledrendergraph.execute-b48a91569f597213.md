@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes pass callbacks through a concrete backend with complete unwind.
-
 ## Parameters
 
 **Parameter `backend`:** Backend bridge for the current device generation.

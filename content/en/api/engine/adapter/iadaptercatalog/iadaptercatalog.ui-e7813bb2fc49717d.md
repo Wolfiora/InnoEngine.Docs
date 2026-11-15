@@ -13,5 +13,3 @@ reviewed: 407e04c945c9637a3d2c200ab78866ebbb5af63adab31485872fa5221e1479c6
 source: xml
 outdated: false
 ---
-
-Gets the retained-mode UI backend factory.

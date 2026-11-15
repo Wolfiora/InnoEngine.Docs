@@ -13,5 +13,3 @@ reviewed: ab160e2c17ad224c44aaf395fb5e1c3799f422a6b71eb27a4f0d76e484397dbd
 source: xml
 outdated: false
 ---
-
-Gets the invocation-local Material values.

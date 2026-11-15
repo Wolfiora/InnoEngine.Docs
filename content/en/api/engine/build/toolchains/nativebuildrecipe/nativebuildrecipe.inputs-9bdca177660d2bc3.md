@@ -13,5 +13,3 @@ reviewed: 514c64dbdb432fd95ff0e2409c3ddb666d57adea067a03c043cb462f9c0002d7
 source: xml
 outdated: false
 ---
-
-Gets the frozen declarations of physical inputs and their logical identities.

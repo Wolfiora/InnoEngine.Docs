@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an offscreen render target.
-
 ## Parameters
 
 **Parameter `texture`:** Persistent offscreen texture description.

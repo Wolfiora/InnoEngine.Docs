@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares two backend identities using stable ordinal ordering.
-
 ## Parameters
 
 **Parameter `other`:** The other backend identity.

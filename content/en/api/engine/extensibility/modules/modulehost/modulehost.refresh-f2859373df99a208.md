@@ -13,5 +13,3 @@ reviewed: efa0920a0caa192bf79450acca240d4e05209d87d64db107e8b01ea6fb845442
 source: xml
 outdated: false
 ---
-
-Applies pending host assembly changes without rebuilding an unchanged catalog.

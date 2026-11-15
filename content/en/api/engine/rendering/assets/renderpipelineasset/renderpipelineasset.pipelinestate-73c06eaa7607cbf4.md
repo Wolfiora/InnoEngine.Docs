@@ -13,5 +13,3 @@ reviewed: 2ec72ec3ea201ef2d5402112c9205774e34990ad8ce031bdda04c866a96f80dc
 source: xml
 outdated: false
 ---
-
-Gets or sets reload-safe pipeline settings.

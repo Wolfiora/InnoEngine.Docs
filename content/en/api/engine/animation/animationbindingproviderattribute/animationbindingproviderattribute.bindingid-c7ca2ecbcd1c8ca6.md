@@ -13,5 +13,3 @@ reviewed: 7f9f9e2decfd9b576b71b72293f574e182b4d6e3f9dc31bd4332581149506e5b
 source: xml
 outdated: false
 ---
-
-Gets the supported track binding protocol.

@@ -13,5 +13,3 @@ reviewed: 3289dab686421f1023854a079c25beffb062656f2263a4bc6348b216433eecd9
 source: xml
 outdated: false
 ---
-
-Gets the exact absolute output path.

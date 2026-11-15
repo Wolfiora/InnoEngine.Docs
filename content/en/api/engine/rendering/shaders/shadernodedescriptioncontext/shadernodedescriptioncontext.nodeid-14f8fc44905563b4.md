@@ -13,5 +13,3 @@ reviewed: bf2f3c0ef165c6a69b6e1756a2156fde132371e5bc6b8bd21ae37380d36b43e0
 source: xml
 outdated: false
 ---
-
-Gets the node's stable identity, never its editor runtime handle.

@@ -13,5 +13,3 @@ reviewed: be1f43669a8b4c511bf56261836f2fba52ea41dbe67d2437e0026a58d53c5b27
 source: xml
 outdated: false
 ---
-
-Gets ordered target parser arguments.

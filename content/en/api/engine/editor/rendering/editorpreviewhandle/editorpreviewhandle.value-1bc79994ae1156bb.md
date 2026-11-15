@@ -13,5 +13,3 @@ reviewed: 6ac95abd6a82d1b2fd338f499c190724358f9ad607136aba2313fd5ce285ac2d
 source: xml
 outdated: false
 ---
-
-Gets the opaque preview identity.

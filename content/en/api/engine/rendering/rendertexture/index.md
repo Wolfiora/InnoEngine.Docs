@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Describes a persistent offscreen target without owning a backend-native handle.

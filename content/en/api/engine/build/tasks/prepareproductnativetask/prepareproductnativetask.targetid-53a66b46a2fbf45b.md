@@ -13,5 +13,3 @@ reviewed: 2e8d7a7138535bb37c1a75e10c627f5551c7c66cffee3aefacc7152d7e2fe653
 source: xml
 outdated: false
 ---
-
-Gets or sets the explicitly declared product target, independent of the task execution machine.

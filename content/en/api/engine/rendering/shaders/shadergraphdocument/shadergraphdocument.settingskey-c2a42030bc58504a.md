@@ -13,5 +13,3 @@ reviewed: 93112e1c27d886fdaa8708b977e50f850ae7b3ae7e6a941be7d18b1f26d3fb9b
 source: xml
 outdated: false
 ---
-
-Identifies the structured settings stored on a stage output node.

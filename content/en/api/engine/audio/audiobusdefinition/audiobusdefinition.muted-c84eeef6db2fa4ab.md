@@ -13,5 +13,3 @@ reviewed: 1c2f2416e1e624a6649992b3ac664bd81be121b615035721cda8da31c8b9847a
 source: xml
 outdated: false
 ---
-
-Gets whether output from the bus is initially silenced.

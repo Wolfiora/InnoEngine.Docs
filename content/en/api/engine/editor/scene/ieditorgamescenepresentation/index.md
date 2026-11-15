@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Supplies the scene set that represents the game to Editor viewport consumers without exposing runtime-session ownership.

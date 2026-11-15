@@ -13,5 +13,3 @@ reviewed: b307cfd35096d88cf43c3be40606ac8cdbc3683d4f48dcbd9ab00afc5a5f8714
 source: xml
 outdated: false
 ---
-
-Four-by-four matrix.

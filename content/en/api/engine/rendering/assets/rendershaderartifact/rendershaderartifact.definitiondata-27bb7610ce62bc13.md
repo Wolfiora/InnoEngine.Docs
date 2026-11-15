@@ -13,5 +13,3 @@ reviewed: 28956a6c192f783ed0302af6460ff27682941c106dafab6752c1e39316e6088f
 source: xml
 outdated: false
 ---
-
-Gets the immutable native-serialized runtime contract paired with this exact program publication.

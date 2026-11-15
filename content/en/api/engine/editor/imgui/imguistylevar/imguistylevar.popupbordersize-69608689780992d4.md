@@ -13,5 +13,3 @@ reviewed: a6336ebff6185251e40c7927df4cb54b631627fd4d1034677fca37a30ad86203
 source: xml
 outdated: false
 ---
-
-Selects the popup border size presentation behavior.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-platform
 aliases: []
 ---
-
-Identifies a platform implementation without closing the set of supported backends.

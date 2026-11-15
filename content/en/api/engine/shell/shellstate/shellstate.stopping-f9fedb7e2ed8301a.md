@@ -13,5 +13,3 @@ reviewed: 789223b9d9951215487456e1040ff1d84becc43bb90fceedb6057430b110454c
 source: xml
 outdated: false
 ---
-
-The stopping callback is executing while resources remain alive.

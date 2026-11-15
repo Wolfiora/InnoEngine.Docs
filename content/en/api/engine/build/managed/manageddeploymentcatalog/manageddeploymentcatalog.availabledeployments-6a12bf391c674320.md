@@ -13,5 +13,3 @@ reviewed: bee478a161414eed4a98a79a25303f11c6b8476aa31c5c3bb2bc7e1c3168b649
 source: xml
 outdated: false
 ---
-
-Gets the immutable provider identities in stable order.

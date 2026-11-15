@@ -13,5 +13,3 @@ reviewed: 84063c938a942f0ab91705cd6e05be371fd955b197ab2f8ab460da22fe5f5469
 source: xml
 outdated: false
 ---
-
-Gets the initial width in pixels.

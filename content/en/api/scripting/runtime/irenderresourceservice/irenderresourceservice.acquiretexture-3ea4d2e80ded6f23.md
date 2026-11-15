@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Acquires or atomically replaces a provider-owned persistent texture.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable provider-owned resource ID.

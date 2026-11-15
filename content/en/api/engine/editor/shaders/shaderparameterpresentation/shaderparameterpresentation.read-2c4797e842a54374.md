@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads detached presentation for one binding, defaulting only when no presentation was authored.
-
 ## Parameters
 
 **Parameter `graph`:** Authoring graph, not a runtime Shader program.

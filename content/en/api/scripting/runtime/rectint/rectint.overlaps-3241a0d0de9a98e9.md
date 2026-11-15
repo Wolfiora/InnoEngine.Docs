@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks if this rectangle overlaps another rectangle.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.

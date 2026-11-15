@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Frames the serialized runtime manifest with the application identity required before engine startup.

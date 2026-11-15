@@ -13,5 +13,3 @@ reviewed: f5a37516a0af9ffea9dcbf430116b7dab15dcf64d188275af027acc0f465d51d
 source: xml
 outdated: false
 ---
-
-Gets the maximum callbacks attempted per drain; zero selects 4096.

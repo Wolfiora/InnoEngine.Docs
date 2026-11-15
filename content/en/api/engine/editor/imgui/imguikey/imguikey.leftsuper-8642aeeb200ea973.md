@@ -13,5 +13,3 @@ reviewed: d4ca7561552e8235434438090d114fc5fe17842fb0f06f0fc44d98c8df5bebb6
 source: xml
 outdated: false
 ---
-
-Identifies the LeftSuper presentation key or modifier.

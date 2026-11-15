@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles one source texture into an uncompressed KTX artifact with a complete mip chain.
-
 ## Parameters
 
 **Parameter `source`:** Borrowed encoded image stream retained by the caller until compilation completes.

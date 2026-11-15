@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Associates an Inspector attribute drawer with an attribute type.

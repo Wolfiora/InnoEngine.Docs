@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the graph is inline computation or a Target-owned output boundary.

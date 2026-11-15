@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Renders immutable editor menu models through ImGui.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores presentation-neutral state captured from the previous panel generation.
-
 ## Parameters
 
 **Parameter `state`:** The immutable payload returned by the retiring panel generation.

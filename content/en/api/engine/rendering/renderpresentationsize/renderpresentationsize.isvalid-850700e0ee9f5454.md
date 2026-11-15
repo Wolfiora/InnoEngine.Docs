@@ -13,5 +13,3 @@ reviewed: 34c809d5f520199e40f763a1c0f548a63e6425d9141ec50ba0e99490bb6ab646
 source: xml
 outdated: false
 ---
-
-Gets whether both dimensions describe a real drawable extent; a default struct is invalid.

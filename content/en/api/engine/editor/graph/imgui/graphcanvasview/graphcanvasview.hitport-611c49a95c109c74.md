@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds a port by its displayed socket or label row, without interpreting its domain type.
-
 ## Parameters
 
 **Parameter `layout`:** The current document presentation snapshot.

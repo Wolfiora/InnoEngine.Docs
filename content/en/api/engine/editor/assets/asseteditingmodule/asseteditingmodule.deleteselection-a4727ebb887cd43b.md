@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deletes minimal selected source roots in one History transaction, restoring earlier deletions if a later one fails.
-
 ## Parameters
 
 **Parameter `editor`:** The immediate Editor context.

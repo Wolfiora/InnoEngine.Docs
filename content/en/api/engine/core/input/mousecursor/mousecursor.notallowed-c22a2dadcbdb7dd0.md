@@ -13,5 +13,3 @@ reviewed: eec64bf5328166898964043c30ae60c419edeecf9e2298037bc3f9aeea7c75d8
 source: xml
 outdated: false
 ---
-
-A cursor indicating that an operation is unavailable.

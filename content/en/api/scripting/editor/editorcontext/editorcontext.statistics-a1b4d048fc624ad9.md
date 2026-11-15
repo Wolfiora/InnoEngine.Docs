@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the frame-scoped statistics exchange used by independent editor features and viewers.

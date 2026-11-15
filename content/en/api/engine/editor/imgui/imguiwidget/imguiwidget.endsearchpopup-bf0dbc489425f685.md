@@ -13,5 +13,3 @@ reviewed: 77e59ffd471a2c17fce118df959b1012d1a26f7b7b75634f9e2aaa1a861edbfe
 source: xml
 outdated: false
 ---
-
-Ends a popup opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginSearchPopup(System.String,System.String@,System.String,System.UIntPtr,System.Single)`.

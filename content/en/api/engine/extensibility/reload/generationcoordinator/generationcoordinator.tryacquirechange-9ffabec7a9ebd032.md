@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to reserve exclusive owner-controlled publication without disturbing active read leases.
-
 ## Parameters
 
 **Parameter `operation`:** The operation name used when a terminal failure rejects admission.

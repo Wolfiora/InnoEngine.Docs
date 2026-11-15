@@ -13,5 +13,3 @@ reviewed: d33d521d76730a2660dd7dad002816c51945bdf84707f5106b7a3ebf00bf3e3f
 source: xml
 outdated: false
 ---
-
-Gets whether this is a compute material pass.

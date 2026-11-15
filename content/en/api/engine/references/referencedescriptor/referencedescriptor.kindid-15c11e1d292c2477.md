@@ -13,5 +13,3 @@ reviewed: 3c4621bd61ef8a2f5e8b204b90e74519047b3c4ae215c8cb936fa9c3061f8629
 source: xml
 outdated: false
 ---
-
-Gets the protocol used to resolve this reference.

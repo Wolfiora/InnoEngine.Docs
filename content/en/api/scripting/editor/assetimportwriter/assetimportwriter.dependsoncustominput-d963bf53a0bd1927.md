@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a custom deterministic import input.
-
 ## Parameters
 
 **Parameter `key`:** The input identifier.

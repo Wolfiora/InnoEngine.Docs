@@ -13,5 +13,3 @@ reviewed: 5ba9051bf9447b967f3663ef0247c994ecdb0415b0f8e3a8e117b61c8889e393
 source: xml
 outdated: false
 ---
-
-Disable buttons to open the tab list popup

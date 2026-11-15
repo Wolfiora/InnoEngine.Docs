@@ -13,5 +13,3 @@ reviewed: 5a6e8e4fd722f913c40050ddccc36f60faedeacc0b02f13be32f6aaa5ef96bf7
 source: xml
 outdated: false
 ---
-
-The 0 key on the primary keyboard row.

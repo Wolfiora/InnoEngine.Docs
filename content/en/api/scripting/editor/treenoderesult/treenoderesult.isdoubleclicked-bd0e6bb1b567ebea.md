@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether the content row was double-clicked. Double-clicking a non-leaf content row also toggles its retained expansion state for the next frame.

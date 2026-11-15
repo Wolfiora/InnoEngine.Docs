@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases an offscreen preview, including one which has not produced its first handle.
-
 ## Parameters
 
 **Parameter `viewportId`:** The same consumer-qualified identity submitted in the composition.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-text-runtime#font-lifetime-contract
 aliases: []
 ---
-
-Owns imported font leases and a replaceable Unicode shaping backend for one runtime session.

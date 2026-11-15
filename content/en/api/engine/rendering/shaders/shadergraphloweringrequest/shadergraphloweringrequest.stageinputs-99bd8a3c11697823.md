@@ -13,5 +13,3 @@ reviewed: 26c19590cbd89e5f8907488ff9a867064e02a41e566b013934185ea4bf4f6ed8
 source: xml
 outdated: false
 ---
-
-Gets target-assigned input descriptors; they contain no native expressions.

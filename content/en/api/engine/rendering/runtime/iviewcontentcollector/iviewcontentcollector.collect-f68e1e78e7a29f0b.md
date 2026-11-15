@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects active source items in deterministic source order.
-
 ## Parameters
 
 **Parameter `context`:** Frame-scoped host content and view.

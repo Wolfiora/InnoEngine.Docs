@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures effective properties, references, source items and imports using the shared SDK evaluator.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The checkout owning the evaluator and its temporary request.

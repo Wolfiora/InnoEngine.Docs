@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats the gesture as a human-readable editor menu shortcut label.
-
 ## Returns
 
 A product-resolved textual representation of the gesture.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Restores a font push only in its original session, frame and native stack position.

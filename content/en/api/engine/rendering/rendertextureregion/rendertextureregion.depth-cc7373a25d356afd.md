@@ -13,5 +13,3 @@ reviewed: 41db0b8be7e57b105445e40937ed6a729898c4d11c4e75f928394049519f13b6
 source: xml
 outdated: false
 ---
-
-Gets the layer or depth-slice count.

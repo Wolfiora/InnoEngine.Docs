@@ -13,5 +13,3 @@ reviewed: e22c7d1ba088e6e157686e9480467fdbf032ea38af400556209767ad3309e188
 source: xml
 outdated: false
 ---
-
-Object-space normal.

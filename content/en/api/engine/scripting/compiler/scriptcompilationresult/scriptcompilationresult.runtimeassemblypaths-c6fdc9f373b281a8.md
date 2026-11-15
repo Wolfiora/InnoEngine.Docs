@@ -13,5 +13,3 @@ reviewed: 23fd1306ecd0251b584c8d22540b76488b536a19f4b1c9d9631c844d332b68d9
 source: xml
 outdated: false
 ---
-
-Gets exact runtime-scope managed assemblies suitable for a deployed Player.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Contains an immutable target shader artifact and expected reflected interface.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a left-handed view matrix that looks from `eye` to `target`.
-
 ## Parameters
 
 **Parameter `eye`:** Camera position in world space.

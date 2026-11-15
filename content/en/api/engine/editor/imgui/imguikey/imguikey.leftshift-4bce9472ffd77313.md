@@ -13,5 +13,3 @@ reviewed: 6ed30df579aa3876ad3fcba7279af1ea6b639b3f706b7703328a008aea166ae1
 source: xml
 outdated: false
 ---
-
-Identifies the LeftShift presentation key or modifier.

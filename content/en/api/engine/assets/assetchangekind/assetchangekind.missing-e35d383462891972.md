@@ -13,5 +13,3 @@ reviewed: ec1dc6b8d3d5c65ec95d66572b1c3064df2b10c1c5acddbba85664ed3a1d9b6b
 source: xml
 outdated: false
 ---
-
-A source became unavailable while retaining its identity.

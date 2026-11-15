@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the fully qualified type name of this instance.
-
 ## Returns
 
 The fully qualified type name.

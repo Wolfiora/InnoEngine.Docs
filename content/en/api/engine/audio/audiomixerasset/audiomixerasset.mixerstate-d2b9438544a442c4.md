@@ -13,5 +13,3 @@ reviewed: 4cdd4a1b73fde8976c76b442c8cb9fd6bee1dfb98be8e9d5551c9170917d886c
 source: xml
 outdated: false
 ---
-
-Gets or sets reload-safe mixer settings.

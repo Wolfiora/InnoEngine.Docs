@@ -13,5 +13,3 @@ reviewed: a242332440fcc2507c024b88aa89b42592b8fb7c9d6d9938657402ffd82f44fb
 source: xml
 outdated: false
 ---
-
-Gets monotonic elapsed host time in seconds.

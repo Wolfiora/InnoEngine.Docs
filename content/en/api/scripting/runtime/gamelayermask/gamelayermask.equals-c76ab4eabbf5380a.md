@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether another mask contains the same layer bits.
-
 ## Parameters
 
 **Parameter `other`:** The mask to compare with this value.

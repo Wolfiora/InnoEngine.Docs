@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a hierarchy drop target representing one loaded scene row or root.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene represented by the target.

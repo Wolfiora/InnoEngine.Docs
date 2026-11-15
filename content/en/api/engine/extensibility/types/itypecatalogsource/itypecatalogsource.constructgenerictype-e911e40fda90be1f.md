@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a generic construction through the deployment's linked or dynamic type mechanism.
-
 ## Parameters
 
 **Parameter `definition`:** A generic declaration owned by the candidate generation.

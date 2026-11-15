@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Atomically applies a neutral history change in the requested direction.
-
 ## Parameters
 
 **Parameter `context`:** The current-generation editor services.

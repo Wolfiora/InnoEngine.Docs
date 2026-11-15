@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated Edit, Play, or Player runtime session.
-
 ## Parameters
 
 **Parameter `options`:** The validated ownership, storage, and timing options for the session.

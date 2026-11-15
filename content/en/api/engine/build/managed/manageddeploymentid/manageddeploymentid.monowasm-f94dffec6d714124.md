@@ -13,5 +13,3 @@ reviewed: 45dd05cc5da4176ddf256c44a988ae488ca4ad47915b47ebb9016850c7b2023c
 source: xml
 outdated: false
 ---
-
-Identifies the Mono WebAssembly interpreter publisher.

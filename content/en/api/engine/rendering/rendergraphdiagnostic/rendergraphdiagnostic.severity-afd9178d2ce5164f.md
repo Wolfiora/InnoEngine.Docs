@@ -13,5 +13,3 @@ reviewed: 6e6a8b4d640011dd8a1b711e767c8f166a60799b5c60849162078bf5dac4d861
 source: xml
 outdated: false
 ---
-
-Gets diagnostic impact.

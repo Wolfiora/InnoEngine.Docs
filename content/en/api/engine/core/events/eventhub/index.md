@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-A disposable subscription hub bound to a single `T:Inno.Core.Events.EventDispatcher`.
-
 ## Remarks
 
 Dispatch visits the concrete event type before its base types. Within each type bucket, listeners are ordered by priority (descending) and registration order (ascending). Callbacks execute on the dispatching thread; subscription disposal does not join an active callback.

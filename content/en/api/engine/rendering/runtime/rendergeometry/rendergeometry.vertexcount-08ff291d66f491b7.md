@@ -13,5 +13,3 @@ reviewed: 3ecfbb319d502dd2dfab7fd164553c187bca28028befabdd47b0937c90909746
 source: xml
 outdated: false
 ---
-
-Gets the number of vertices.

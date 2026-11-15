@@ -13,5 +13,3 @@ reviewed: 847f4c1d3c2426f951cc8138074a5931a81d8addb501725e88fb5c344b7b629f
 source: xml
 outdated: false
 ---
-
-Gets spacing between asset list rows.

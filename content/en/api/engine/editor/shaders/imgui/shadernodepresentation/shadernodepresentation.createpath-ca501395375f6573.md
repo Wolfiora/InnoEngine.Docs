@@ -13,5 +13,3 @@ reviewed: 584cc3df04eb0840909e4ead239f3cc7c3615df2715a944b8b9b670dcf74eb5d
 source: xml
 outdated: false
 ---
-
-Gets the optional slash-delimited creation-menu path.

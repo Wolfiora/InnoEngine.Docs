@@ -16,7 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Produces target-specific render artifacts from imported authoring assets without exposing source access to the backend-neutral render runtime.
-
-Stages Editor shader artifacts for device validation and preview.

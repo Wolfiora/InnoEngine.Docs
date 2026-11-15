@@ -13,5 +13,3 @@ reviewed: 1d771010e42158b60b4bd084ae46078ea274d1df53f221a2ce8d480fc34a9736
 source: xml
 outdated: false
 ---
-
-A pointer left the target.

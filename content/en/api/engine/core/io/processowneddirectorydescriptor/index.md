@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Describes a recorded temporary directory without acquiring its producer's rights.

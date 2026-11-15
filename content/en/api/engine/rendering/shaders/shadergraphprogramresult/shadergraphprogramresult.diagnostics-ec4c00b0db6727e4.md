@@ -13,5 +13,3 @@ reviewed: e967c37b172fdb4992f9a1f2d76a2a59e69e5fcdf21d1285891dd8e4b34aed0a
 source: xml
 outdated: false
 ---
-
-Gets stable graph/node diagnostics without provider references.

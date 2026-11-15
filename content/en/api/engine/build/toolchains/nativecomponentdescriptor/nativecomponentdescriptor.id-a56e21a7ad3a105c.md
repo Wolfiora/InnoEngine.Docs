@@ -13,5 +13,3 @@ reviewed: 3aa26e521c14b351d389270a42c6aa69c5fc6e52c1b168329becb76a357ce316
 source: xml
 outdated: false
 ---
-
-Gets the portable artifact identity.

@@ -13,5 +13,3 @@ reviewed: 921cbc4ccc6d4457cdaf752c92c13e53989301e9a5390ab23fd2b8093c123166
 source: xml
 outdated: false
 ---
-
-Gets or sets the debug or release configuration used by the managed application.

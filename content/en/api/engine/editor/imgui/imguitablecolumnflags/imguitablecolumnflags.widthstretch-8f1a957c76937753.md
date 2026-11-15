@@ -13,5 +13,3 @@ reviewed: ef3981e68eb42280bb1b5ea7d0bec398c69cc37bb4638a3fd5fbf750f8ca7d6f
 source: xml
 outdated: false
 ---
-
-Column will stretch. Preferable with horizontal scrolling disabled (default if table sizing policy is \_SizingStretchSame or \_SizingStretchProp).

@@ -13,5 +13,3 @@ reviewed: 3dee04e80c6d1bd4edff241ddb9b7afd82f1068aa4a61488ba1751c561391c96
 source: xml
 outdated: false
 ---
-
-Gets the publisher containing the same platform input providers.

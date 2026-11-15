@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Describes the outcome of an inline rename control.

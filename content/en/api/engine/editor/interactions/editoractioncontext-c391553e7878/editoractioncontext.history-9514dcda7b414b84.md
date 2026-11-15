@@ -13,5 +13,3 @@ reviewed: 3d8a3f58b373424e8d842d79ce031abc7cfd720561fdbadf8e6544a9aa4b2e99
 source: xml
 outdated: false
 ---
-
-Gets the transactional history used to record reversible mutations performed by this action.

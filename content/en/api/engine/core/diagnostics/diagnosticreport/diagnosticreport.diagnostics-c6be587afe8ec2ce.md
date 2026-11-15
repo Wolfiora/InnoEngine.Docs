@@ -13,5 +13,3 @@ reviewed: b06a3195c3000a3131e8a39443b8348e9be243faf0dbf8d80162c279191ca044
 source: xml
 outdated: false
 ---
-
-Gets the immutable diagnostics currently reported by the producer.

@@ -13,5 +13,3 @@ reviewed: 8ee8a06778054ffcd32608c8d598df8617b6ec51e18f627a20f2e9494b1be483
 source: xml
 outdated: false
 ---
-
-Gets the stable target identity implemented by this packager.

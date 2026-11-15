@@ -13,5 +13,3 @@ reviewed: 24e9c2b8b2e0545c9b9e09d9cc7defc7a0da489654167592b52771eaf706f82c
 source: xml
 outdated: false
 ---
-
-Whether this exact operation currently admits cancellation.

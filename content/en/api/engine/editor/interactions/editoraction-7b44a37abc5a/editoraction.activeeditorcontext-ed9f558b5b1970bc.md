@@ -13,5 +13,3 @@ reviewed: 5ac1649cb6ff712dcd28581305dc778fa2e22208294b756cba48e211e0818134
 source: xml
 outdated: false
 ---
-
-Gets the host-owned passive context of the active operation, or null after completion.

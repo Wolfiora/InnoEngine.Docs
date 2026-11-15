@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Selects texture addressing independently for each coordinate axis.

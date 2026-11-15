@@ -13,5 +13,3 @@ reviewed: 987c50291e77948c631dff4404c2e97b08e3b5d59d16debeba2cd75d80759b40
 source: xml
 outdated: false
 ---
-
-Gets buses in parent-before-child creation order.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Identifies how an `.iplugin` package participates in one installation.

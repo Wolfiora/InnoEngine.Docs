@@ -13,5 +13,3 @@ reviewed: dc28943d820dca007879260b4bfdafa3c942e8b9f221a8aecd72627d53677597
 source: xml
 outdated: false
 ---
-
-Identifies the End presentation key or modifier.

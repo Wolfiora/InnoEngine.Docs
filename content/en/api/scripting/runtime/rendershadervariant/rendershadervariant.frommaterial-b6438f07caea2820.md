@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the deterministic variant selected by a material.
-
 ## Parameters
 
 **Parameter `material`:** The material whose declared keyword options are evaluated.

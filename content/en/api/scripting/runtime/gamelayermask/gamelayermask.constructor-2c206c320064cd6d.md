@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a mask from its raw thirty-two-bit representation.
-
 ## Parameters
 
 **Parameter `value`:** The raw mask bits.

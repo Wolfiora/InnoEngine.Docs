@@ -13,5 +13,3 @@ reviewed: fe74ba297a1b65fe91f06445eca5b04c59087a3eff38dff0b127a739f39dbd24
 source: xml
 outdated: false
 ---
-
-Gets the attached texture-array layer.

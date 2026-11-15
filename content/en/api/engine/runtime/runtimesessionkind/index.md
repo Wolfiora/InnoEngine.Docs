@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Identifies the ownership and lifecycle semantics of an isolated runtime session.

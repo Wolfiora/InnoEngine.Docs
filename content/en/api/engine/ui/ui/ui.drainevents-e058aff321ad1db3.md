@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Drains document events queued by preceding updates.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -13,5 +13,3 @@ reviewed: fed25ec4022a84cb201b1e8a85a8050a5d94c9b803617458898678f60a15aa64
 source: xml
 outdated: false
 ---
-
-Gets every type included in this snapshot.

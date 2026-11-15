@@ -13,5 +13,3 @@ reviewed: ade82c30598eddfcf7f78c39bcd876baa81bf2a210a68ac743768ea128620764
 source: xml
 outdated: false
 ---
-
-Identifies the ImGuiModNone presentation key or modifier.

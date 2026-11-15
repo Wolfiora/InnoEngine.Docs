@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts radians to degrees.
-
 ## Parameters
 
 **Parameter `radians`:** The angle in radians.

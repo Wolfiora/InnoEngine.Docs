@@ -13,5 +13,3 @@ reviewed: 14f6c2afb8c192fc5f881b05236bc9ffef087c1a2810785850b706f5b8dc850e
 source: xml
 outdated: false
 ---
-
-Gets the actual native row height established for the current tree node.

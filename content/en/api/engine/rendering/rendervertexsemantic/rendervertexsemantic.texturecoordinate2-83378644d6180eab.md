@@ -13,5 +13,3 @@ reviewed: 108eaa7f39354c5ba6da078b28c6d43f2159331e052b559035d48a7f48eeaf31
 source: xml
 outdated: false
 ---
-
-Third texture coordinate.

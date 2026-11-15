@@ -13,5 +13,3 @@ reviewed: 6bdfebd99a596155825f904d741e1f86d128a61b0be42a40417291d0428a74cc
 source: xml
 outdated: false
 ---
-
-Gets the compact checkbox size used by card headers.

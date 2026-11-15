@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Creates scene state-transfer transactions for assembly generation changes.

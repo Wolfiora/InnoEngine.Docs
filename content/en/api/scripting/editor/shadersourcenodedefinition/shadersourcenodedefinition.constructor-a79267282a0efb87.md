@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a source node definition for the currently resolved source generation.
-
 ## Parameters
 
 **Parameter `function`:** The single function derived by the source frontend.

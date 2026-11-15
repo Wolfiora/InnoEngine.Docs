@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one isolated authoring or deployed-runtime asset pipeline.
-
 ## Parameters
 
 **Parameter `modules`:** The module host whose candidate generations coordinate importer refreshes.

@@ -13,5 +13,3 @@ reviewed: 3b94e5a6652debee8539c51cbd9546d624133de2261137d1001568f16193b95f
 source: xml
 outdated: false
 ---
-
-Gets whether the top-level category starts after a separator.

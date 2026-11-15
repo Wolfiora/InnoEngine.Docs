@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts world coordinates to viewport-local pixel coordinates.
-
 ## Parameters
 
 **Parameter `worldPosition`:** World coordinates.

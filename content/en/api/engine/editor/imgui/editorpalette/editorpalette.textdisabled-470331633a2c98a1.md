@@ -13,5 +13,3 @@ reviewed: 8d696531b4e5c534e4d037d237c302be10473ddfb5eab55cc89760d56ff2a6e7
 source: xml
 outdated: false
 ---
-
-Gets disabled text color.

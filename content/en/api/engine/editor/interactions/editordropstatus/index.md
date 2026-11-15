@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Describes whether and how a target accepts the active drag.

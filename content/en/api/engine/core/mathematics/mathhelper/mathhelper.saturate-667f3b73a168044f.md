@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clamps a value to the inclusive range \[0, 1\].
-
 ## Returns
 
 The scalar result calculated from the supplied inputs.

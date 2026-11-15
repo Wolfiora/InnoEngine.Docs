@@ -13,5 +13,3 @@ reviewed: bea3140f0659319efcbf27fcf0baa35c156cc33b97ce8144cbbb44163493f21b
 source: xml
 outdated: false
 ---
-
-Gets or sets the author-facing source title used by diagnostics and dedicated editors.

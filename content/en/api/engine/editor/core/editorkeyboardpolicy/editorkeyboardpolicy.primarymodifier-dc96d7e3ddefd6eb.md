@@ -13,5 +13,3 @@ reviewed: a7d9f480ef93f4b43d8fce40c7db5933defd1bd2f0c4adfba5d7b3bd5034f715
 source: xml
 outdated: false
 ---
-
-Gets the modifier used when resolving symbolic primary shortcuts.

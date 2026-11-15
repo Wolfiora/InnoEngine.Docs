@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a texture target compiler using this implementation's validated inputs.
-
 ## Parameters
 
 **Parameter `backend`:** The backend consumed by create texture target compiler; ownership remains with the caller unless explicitly stated otherwise.

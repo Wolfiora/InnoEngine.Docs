@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Expands an assigned target, or copies an explicitly authored low-level graph with no domain target.
-
 ## Parameters
 
 **Parameter `document`:** Authored source, never modified by this operation.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Identifies a transient animation destination without retaining the destination object.

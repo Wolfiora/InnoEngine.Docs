@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Delivers a managed drop to this target.
-
 ## Parameters
 
 **Parameter `identity`:** The active domain-qualified runtime identity.

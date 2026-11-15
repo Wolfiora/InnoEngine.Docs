@@ -13,5 +13,3 @@ reviewed: 8438f3d5f7cf372888b0842b966a25eb5aaf0f48e31bc0ba87eed13ae0c76140
 source: xml
 outdated: false
 ---
-
-Gets the complete immutable source text.

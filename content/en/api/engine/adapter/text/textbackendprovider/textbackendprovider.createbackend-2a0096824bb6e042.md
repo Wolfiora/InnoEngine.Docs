@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a caller-owned text service using this implementation.
-
 ## Returns
 
 A new service owned by the caller; providers must not return null.

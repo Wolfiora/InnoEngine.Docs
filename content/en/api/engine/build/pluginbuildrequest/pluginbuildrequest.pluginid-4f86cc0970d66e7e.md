@@ -13,5 +13,3 @@ reviewed: 5d4e1553401ede41db273b8582915ae491d8a884b6ac976a8e4995b660d0c020
 source: xml
 outdated: false
 ---
-
-Gets or initializes the globally stable lowercase Plugin identity.

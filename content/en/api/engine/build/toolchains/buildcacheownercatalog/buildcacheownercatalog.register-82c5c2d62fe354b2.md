@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a publisher root; this never adopts unrecorded artifacts inside that root.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute checkout owning the registration.

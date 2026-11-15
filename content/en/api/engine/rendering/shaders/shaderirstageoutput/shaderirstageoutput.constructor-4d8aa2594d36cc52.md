@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable stage output binding.
-
 ## Parameters
 
 **Parameter `id`:** The exact name in the block's output map.

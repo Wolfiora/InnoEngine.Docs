@@ -13,5 +13,3 @@ reviewed: 9258c4e06ef56a86ccc301bf7ba3ed29b898409c1c502be43868d720f8621fa9
 source: xml
 outdated: false
 ---
-
-Gets whether the handle contains a non-zero backend identity and generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated rect int instance.
-
 ## Parameters
 
 **Parameter `x`:** The horizontal or first component.

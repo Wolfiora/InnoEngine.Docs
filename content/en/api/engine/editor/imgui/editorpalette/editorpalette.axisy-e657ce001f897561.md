@@ -13,5 +13,3 @@ reviewed: 9bc27a01804dab84b1d712919a91e7abea152d5de7b7b8701636544ef3d58cb9
 source: xml
 outdated: false
 ---
-
-Gets Y axis color.

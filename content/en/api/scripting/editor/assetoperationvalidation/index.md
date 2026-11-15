@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Describes whether an editor asset operation may proceed.

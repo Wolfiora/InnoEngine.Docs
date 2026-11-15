@@ -13,5 +13,3 @@ reviewed: 80f03fc8cdbba0885f95f43751b73a40a6e48e03ab53967fd8bcf2db0f21130f
 source: xml
 outdated: false
 ---
-
-Gets the number of complete physical file reads.

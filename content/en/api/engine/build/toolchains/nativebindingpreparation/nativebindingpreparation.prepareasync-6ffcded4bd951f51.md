@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests one binding batch for all generated components of a product.
-
 ## Parameters
 
 **Parameter `context`:** The operation owning a frozen target selection and configured generator.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Stores rendering-model-neutral navigation state for one Editor viewport across provider reloads.

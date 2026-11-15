@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Disable using keyboard/gamepad navigation state when active, always query mouse

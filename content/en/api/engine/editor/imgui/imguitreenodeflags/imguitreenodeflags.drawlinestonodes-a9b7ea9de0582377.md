@@ -13,5 +13,3 @@ reviewed: d1b63971980e5046d698e47c53457453c54c410abe202f74e96543b4a2ead860
 source: xml
 outdated: false
 ---
-
-Horizontal lines to child nodes. Vertical line drawn down to bottom-most child node. Slower (for large trees).

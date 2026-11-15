@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Provides protected opaque-handle encoding and validation helpers for audio backends.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes and validates one compact audio runtime header.
-
 ## Parameters
 
 **Parameter `payload`:** Complete runtime header bytes.

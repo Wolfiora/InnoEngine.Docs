@@ -13,5 +13,3 @@ reviewed: 7da2c9fa1b8c6926477e40d806297fa315ebbbfd655a82cacdcab0121b23be13
 source: xml
 outdated: false
 ---
-
-Gets the backend-neutral texture or storage slot.

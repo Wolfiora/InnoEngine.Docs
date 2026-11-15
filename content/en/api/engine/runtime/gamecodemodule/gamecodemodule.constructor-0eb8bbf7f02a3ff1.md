@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies and validates a module contribution without retaining mutable manifest objects.
-
 ## Parameters
 
 **Parameter `name`:** The stable module identity.

@@ -13,5 +13,3 @@ reviewed: e23ee3c800c4bfd81e306fadd6232560a03c3681593ee1c47f792456e44cb1c6
 source: xml
 outdated: false
 ---
-
-Gets the high-water mark of resident upload bytes.

@@ -13,5 +13,3 @@ reviewed: 08ac9a6853d41e4b97514d8870bd54fcbbe429747921cd0835f8434b3690c458
 source: xml
 outdated: false
 ---
-
-Creates an empty definition asset for deserialization.

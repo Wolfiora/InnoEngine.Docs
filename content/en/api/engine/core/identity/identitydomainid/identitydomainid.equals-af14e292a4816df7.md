@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an object represents the same runtime domain.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this value.

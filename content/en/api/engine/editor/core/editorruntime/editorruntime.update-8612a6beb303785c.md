@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates the runtime for one editor frame.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable frame state.

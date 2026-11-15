@@ -13,5 +13,3 @@ reviewed: 530a25e889b6d71c985ee2fb80e90e32a5a5013351f1591e937a4c325ba0b9c1
 source: xml
 outdated: false
 ---
-
-Gets the frame-scoped statistics exchange used by independent editor features and viewers.

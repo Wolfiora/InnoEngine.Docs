@@ -13,5 +13,3 @@ reviewed: f35ace8315739fbfa47030c92ab5dd191e658d45ffa443893c7857473ab7ba4d
 source: xml
 outdated: false
 ---
-
-Decrements and wraps the stored value.

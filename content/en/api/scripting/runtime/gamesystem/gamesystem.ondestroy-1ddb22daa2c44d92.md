@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Called before a system that entered runtime lifecycle is destroyed.

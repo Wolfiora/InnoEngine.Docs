@@ -13,5 +13,3 @@ reviewed: 63f3ab4bb3f790fca62815e79a767c9a724be1b988281f2a3f9eed18f0747c73
 source: xml
 outdated: false
 ---
-
-Gets the table header background.

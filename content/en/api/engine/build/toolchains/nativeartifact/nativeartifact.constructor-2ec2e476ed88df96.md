@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an output independently of platform suffix conventions.
-
 ## Parameters
 
 **Parameter `logicalId`:** The unique producer-owned output identity.

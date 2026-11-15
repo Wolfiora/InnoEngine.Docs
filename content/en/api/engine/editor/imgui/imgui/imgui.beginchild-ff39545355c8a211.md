@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins a child region.
-
 ## Parameters
 
 **Parameter `id`:** The child identity.

@@ -13,5 +13,3 @@ reviewed: 7bbeedf36d9fab79d9fe667981f7382dcec756c00f4341a75ab720d32247eb07
 source: xml
 outdated: false
 ---
-
-The F6 function key.

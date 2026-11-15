@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits an indexed draw using the currently bound index buffer.
-
 ## Parameters
 
 **Parameter `indexCount`:** Number of indices to submit.

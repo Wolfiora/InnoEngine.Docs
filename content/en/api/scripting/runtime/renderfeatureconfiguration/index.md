@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Stores one ordered feature extension selection using only stable data.

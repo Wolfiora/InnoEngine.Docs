@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Queues all target shader work required by a material without blocking the render thread.
-
 ## Parameters
 
 **Parameter `material`:** Material whose selected static variant should be prepared.

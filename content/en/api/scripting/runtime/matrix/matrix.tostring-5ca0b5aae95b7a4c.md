@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns a multi-line string representation of the matrix in row-major layout.
-
 ## Returns
 
 The human-readable representation of this value.

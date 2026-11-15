@@ -13,5 +13,3 @@ reviewed: 3b52a69a003b8750a09cb84879c7f12928f323ff258fd513ce9a773c29b3f429
 source: xml
 outdated: false
 ---
-
-Gets whether the modal should currently be visible.

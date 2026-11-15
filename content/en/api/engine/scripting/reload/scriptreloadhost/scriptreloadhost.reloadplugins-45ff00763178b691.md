@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues replacement of the unified plugin generation and both dependent scripting generations. Valid script artifacts are reused when plugin reference fingerprints are unchanged.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after the manager has been disposed.

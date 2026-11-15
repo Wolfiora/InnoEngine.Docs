@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the current deployment can construct a type in this exact generation.
-
 ## Parameters
 
 **Parameter `type`:** The type reference to resolve against this snapshot.

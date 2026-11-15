@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Reports how one descriptor resolves in an immutable reference-catalog generation.

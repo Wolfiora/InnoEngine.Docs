@@ -13,5 +13,3 @@ reviewed: 121dd7ff7a15f203afa69131889bdb0eb5dd12031aff180f04f89666948da43f
 source: xml
 outdated: false
 ---
-
-Gets the expected value or resource type.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether the item satisfies this condition.
-
 ## Parameters
 
 **Parameter `store`:** Store being queried.

@@ -13,5 +13,3 @@ reviewed: 16b1746c9ad4200ebace71faf4bcf01e50ef5ce3eb37e0af6596624a51a1f528
 source: xml
 outdated: false
 ---
-
-Draw frame with background (e.g. for CollapsingHeader)

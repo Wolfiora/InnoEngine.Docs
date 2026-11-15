@@ -13,5 +13,3 @@ reviewed: c4ac60e8de215a0f432d5f8a830ec7145fc68f6b66e68a81359d560e8292ac45
 source: xml
 outdated: false
 ---
-
-Gets the globally stable importer protocol identifier.

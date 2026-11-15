@@ -13,5 +13,3 @@ reviewed: bb6268f078ee026571e3cf1b173aed0719e0386081d45b0641eb1a64a53164f8
 source: xml
 outdated: false
 ---
-
-Gets the operations accepted by this provider.

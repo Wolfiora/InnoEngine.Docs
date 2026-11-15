@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Contains a detached paste candidate and its newly allocated node identities.

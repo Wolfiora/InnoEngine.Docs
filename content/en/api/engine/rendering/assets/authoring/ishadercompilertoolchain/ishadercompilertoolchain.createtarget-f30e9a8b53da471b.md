@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a target supported by this toolchain and capability snapshot.
-
 ## Parameters
 
 **Parameter `capabilities`:** Target renderer capabilities.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Resolves immutable, source-free target artifacts for the active rendering device.

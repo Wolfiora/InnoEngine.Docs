@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Defines the canonical project-root names of the independent settings documents.

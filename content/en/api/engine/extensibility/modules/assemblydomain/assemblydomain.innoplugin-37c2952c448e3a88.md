@@ -13,5 +13,3 @@ reviewed: effa4722fa048d47d66c3c8659b8125697e0f5077bdc306018a804e95925acb1
 source: xml
 outdated: false
 ---
-
-The assembly belongs to the project's unified collectible plugin generation.

@@ -13,5 +13,3 @@ reviewed: fe445d4471cb5784dd3d1ab61a9fb8f4b2a48c25efecf48ef2d8d47085993adb
 source: xml
 outdated: false
 ---
-
-Removes retained logs while keeping currently reported issues visible until their owners resolve them.

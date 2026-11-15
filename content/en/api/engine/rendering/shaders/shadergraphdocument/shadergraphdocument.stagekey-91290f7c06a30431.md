@@ -13,5 +13,3 @@ reviewed: f4708a639ff9592a649ccc22d6b59f1fda991420d58fe019c9cee7b8898f912b
 source: xml
 outdated: false
 ---
-
-Identifies a node property containing its owning stage output node identity.

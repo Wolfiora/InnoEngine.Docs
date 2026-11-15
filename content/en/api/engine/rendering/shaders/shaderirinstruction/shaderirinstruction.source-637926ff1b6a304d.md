@@ -13,5 +13,3 @@ reviewed: 5ca676ff663b091029d14e57697432de51c535e5dfb9b0d24dfa7f1f5e6d5e46
 source: xml
 outdated: false
 ---
-
-Gets a frozen, analyzed function implementation only for a SourceCall instruction.

@@ -13,5 +13,3 @@ reviewed: 68ce1be9eead88ab1b12b5d40a3dae4717ad2e29a8337579e3f68453b2ff2b45
 source: xml
 outdated: false
 ---
-
-Gets the exact logical key; a default value is unassigned and cannot be read from a store.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Stores the editable identity namespace of the current project.

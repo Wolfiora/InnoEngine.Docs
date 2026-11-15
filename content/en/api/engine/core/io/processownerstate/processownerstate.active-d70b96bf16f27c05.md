@@ -13,5 +13,3 @@ reviewed: 67118324404a77de8c589c5bbe004236ddff1c12e7188e869f21e207d8a6fa94
 source: xml
 outdated: false
 ---
-
-The matching process lifetime is still running.

@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Provides hover help for one Inspector property label.

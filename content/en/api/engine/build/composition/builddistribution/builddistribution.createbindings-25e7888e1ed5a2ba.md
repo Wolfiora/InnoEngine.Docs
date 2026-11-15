@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates platform targets and validates their identities and default deployment capabilities.
-
 ## Parameters
 
 **Parameter `assets`:** The active borrowed authoring asset owner.

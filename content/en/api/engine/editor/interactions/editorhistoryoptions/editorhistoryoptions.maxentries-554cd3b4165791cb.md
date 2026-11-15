@@ -13,5 +13,3 @@ reviewed: cda2f522e5b8619895485fe028c078743dd648e239abbf60e906d11789784538
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum number of committed top-level entries retained in memory.

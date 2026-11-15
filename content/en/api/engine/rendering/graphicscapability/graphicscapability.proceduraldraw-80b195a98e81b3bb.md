@@ -13,5 +13,3 @@ reviewed: c9f9615c6f7b0ca96836d728430bad1ed4b4422b0b8b56b96957f093ad9f69ab
 source: xml
 outdated: false
 ---
-
-Procedural draws using shader vertex identifiers are supported.

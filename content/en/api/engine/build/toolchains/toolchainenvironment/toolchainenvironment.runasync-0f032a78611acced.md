@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a child build with structured arguments, cancellation and hidden windows.
-
 ## Parameters
 
 **Parameter `fileName`:** The executable to launch.

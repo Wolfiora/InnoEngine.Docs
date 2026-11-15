@@ -13,5 +13,3 @@ reviewed: d344d34b2a6a62ce00034b04a23be23beac96f68db67db19f1349594be08a25e
 source: xml
 outdated: false
 ---
-
-Identifies the Backspace presentation key or modifier.

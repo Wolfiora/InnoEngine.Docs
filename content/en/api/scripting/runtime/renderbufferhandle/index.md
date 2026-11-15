@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies a frame-scoped render-graph buffer.

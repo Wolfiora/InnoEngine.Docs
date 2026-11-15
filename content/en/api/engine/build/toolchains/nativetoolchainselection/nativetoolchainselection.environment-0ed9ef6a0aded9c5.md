@@ -13,5 +13,3 @@ reviewed: c51ef03dcb21416433cdc667803f46064ea6106b0adeb64f60b25ff539142b92
 source: xml
 outdated: false
 ---
-
-Gets frozen SDK values supplied to owned tools and in-process binding configuration.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws expanded collapsible-card content inside a framed body.
-
 ## Parameters
 
 **Parameter `id`:** The stable card identifier.

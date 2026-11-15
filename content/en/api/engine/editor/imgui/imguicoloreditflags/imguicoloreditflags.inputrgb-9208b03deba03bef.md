@@ -13,5 +13,3 @@ reviewed: 3551c72928d37795b1894a4446369909bd9e16259e93f2b3441e663cf124df2b
 source: xml
 outdated: false
 ---
-
-Selects the input rgb presentation behavior.

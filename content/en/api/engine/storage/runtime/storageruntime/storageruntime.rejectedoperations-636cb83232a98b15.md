@@ -13,5 +13,3 @@ reviewed: a10d3ad3cc8c2550e084531ed233323ca3bcf3672e708e73920e0c2449ceb4e5
 source: xml
 outdated: false
 ---
-
-Gets operations rejected by finite asynchronous admission capacity.

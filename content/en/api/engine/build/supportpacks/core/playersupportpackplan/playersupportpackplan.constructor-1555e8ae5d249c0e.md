@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Fixes the publication identity before preparation is permitted.
-
 ## Parameters
 
 **Parameter `target`:** The nonempty target whose closure this plan prepares.

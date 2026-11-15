@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Discards the candidate or restores the previous generation after provisional activation.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Candidate retirement exceeded its deadline; its owners remain retained until host restart.

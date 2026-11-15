@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Routes one backend-neutral platform event to active input backends.
-
 ## Parameters
 
 **Parameter `evnt`:** Event produced by the active platform application.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the relative deployment path for one target shader variant.
-
 ## Parameters
 
 **Parameter `shaderId`:** The persistent shader asset identity.

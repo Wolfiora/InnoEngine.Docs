@@ -13,5 +13,3 @@ reviewed: 235ebd7a67221f0d0b75180d04041a0dfd9c9bb177995a8c2e5975c18a737c80
 source: xml
 outdated: false
 ---
-
-Enable sorting. Call TableGetSortSpecs() to obtain sort specs. Also see ImGuiTableFlags\_SortMulti and ImGuiTableFlags\_SortTristate.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies a backend-neutral graphics pipeline object.

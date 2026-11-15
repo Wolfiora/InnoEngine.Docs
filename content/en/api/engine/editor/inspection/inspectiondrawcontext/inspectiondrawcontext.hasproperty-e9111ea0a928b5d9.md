@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the target exposes one runtime-visible serialized property.
-
 ## Parameters
 
 **Parameter `propertyName`:** Exact serialized property name.

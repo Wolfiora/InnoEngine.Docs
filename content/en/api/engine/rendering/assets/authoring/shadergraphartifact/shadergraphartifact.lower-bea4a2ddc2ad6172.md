@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes frozen functions and lowers the graph in the owner's active generation.
-
 ## Parameters
 
 **Parameter `bytes`:** Committed authoring artifact bytes.

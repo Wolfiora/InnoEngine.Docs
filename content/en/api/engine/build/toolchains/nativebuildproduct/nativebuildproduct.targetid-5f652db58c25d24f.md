@@ -13,5 +13,3 @@ reviewed: ee01817f27c751d04b4fb10241a0e33736af32898c37aea3e9acc37bb2b67bd5
 source: xml
 outdated: false
 ---
-
-Gets the target ABI selected for this build.

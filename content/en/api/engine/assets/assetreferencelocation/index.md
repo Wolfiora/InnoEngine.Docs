@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Describes one engine-known reference location for an asset.

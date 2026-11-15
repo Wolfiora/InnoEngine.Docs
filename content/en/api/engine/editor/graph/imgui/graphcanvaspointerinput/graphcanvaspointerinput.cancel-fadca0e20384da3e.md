@@ -13,5 +13,3 @@ reviewed: f8b3fd669f4a736d08d8392b174c0f1b7ce825a006cbc4811ce592e9ea9cad03
 source: xml
 outdated: false
 ---
-
-Gets whether the current preview must be canceled without modifying document data.

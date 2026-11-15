@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Marks a temporarily Missing source without discarding its graph or advancing its History stack.
-
 ## Parameters
 
 **Parameter `documentId`:** The persistent identity of an open document.

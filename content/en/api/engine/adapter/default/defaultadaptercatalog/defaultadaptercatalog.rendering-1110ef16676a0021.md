@@ -13,5 +13,3 @@ reviewed: 5b4f260e6d4d2a4c8f1243ca635359612c614ac97fa629f959f96cfffe1e3f8a
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned rendering factory snapshot.

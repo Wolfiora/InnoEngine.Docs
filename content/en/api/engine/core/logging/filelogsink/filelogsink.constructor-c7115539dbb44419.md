@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens an isolated log file without creating another queue or delivery worker.
-
 ## Parameters
 
 **Parameter `logDirectory`:** Directory in which complete log files are retained.

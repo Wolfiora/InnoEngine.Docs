@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream.
-
 ## Exceptions
 
 **Exception `T:System.NotSupportedException`:** The stream does not support reading.

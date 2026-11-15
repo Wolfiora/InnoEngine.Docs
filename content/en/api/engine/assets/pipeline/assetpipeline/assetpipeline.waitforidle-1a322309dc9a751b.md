@@ -13,5 +13,3 @@ reviewed: 65f04663add18b60011a6a1d39ab80a926fa853e391b7e5a28cf6e74998e2fa5
 source: xml
 outdated: false
 ---
-
-Waits until queued source watcher changes have been processed.

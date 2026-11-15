@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable keyboard modifiers altering tweak speed. Useful if you want to alter tweak speed yourself based on your own logic.

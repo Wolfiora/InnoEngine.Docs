@@ -13,5 +13,3 @@ reviewed: 78f5ee7fbb16e28783ef6c11e446ecb9033ac70e0bab3f996b747e1402177ab2
 source: xml
 outdated: false
 ---
-
-Called once before the system first becomes active.

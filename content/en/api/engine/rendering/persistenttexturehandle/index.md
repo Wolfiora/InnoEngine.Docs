@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies a persistent device texture without exposing a backend-native handle.

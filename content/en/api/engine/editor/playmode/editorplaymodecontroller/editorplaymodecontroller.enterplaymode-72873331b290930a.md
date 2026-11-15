@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests a fresh script generation before preparing an isolated runtime session.
-
 ## Returns
 
 `true` when the controller accepted a new request; otherwise, `false`.

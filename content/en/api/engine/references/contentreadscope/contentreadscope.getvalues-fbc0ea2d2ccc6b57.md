@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves all live roots matching the requested content contract.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The identity-backed content type understood by the consumer.

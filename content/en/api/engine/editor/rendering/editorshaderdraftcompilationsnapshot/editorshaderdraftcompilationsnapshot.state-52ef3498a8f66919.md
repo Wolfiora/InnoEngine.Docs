@@ -13,5 +13,3 @@ reviewed: 0a258894936e845c5054f04f6a0396fe1fd5fcb4f0463ffa24478eb1509b1835
 source: xml
 outdated: false
 ---
-
-Latest draft compilation state.

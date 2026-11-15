@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an empty dependency graph.
-
 ## Parameters
 
 **Parameter `equalityComparer`:** Optional node equality comparer.

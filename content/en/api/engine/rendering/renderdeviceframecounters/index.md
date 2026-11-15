@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Contains backend-recorded GPU command submissions for the current frame.

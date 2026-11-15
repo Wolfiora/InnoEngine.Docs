@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-IsWindowHovered() only: Test from root window (top most parent of the current hierarchy)

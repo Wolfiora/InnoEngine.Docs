@@ -13,5 +13,3 @@ reviewed: d857ce91eac59aeb55ec62d49ef69c5e147634194c13be381925372cbf8ef919
 source: xml
 outdated: false
 ---
-
-Gets the hovered background of an editor context-menu item.

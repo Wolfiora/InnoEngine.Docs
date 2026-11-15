@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates product identity, startup content, target, and window dimensions.
-
 ## Exceptions
 
 **Exception `T:System.IO.InvalidDataException`:** Thrown when the profile cannot produce a portable Player deployment.

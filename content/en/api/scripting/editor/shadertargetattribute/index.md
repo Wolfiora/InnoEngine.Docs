@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Declares the immutable identity used to select a Shader Target from an authored graph.

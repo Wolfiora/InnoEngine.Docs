@@ -13,5 +13,3 @@ reviewed: aa702ca3083a7fd94b4e43956cba2d53e8082513d30598bdf5b9fd59af857bdc
 source: xml
 outdated: false
 ---
-
-Gets read-only information about this object's prefab source connection.

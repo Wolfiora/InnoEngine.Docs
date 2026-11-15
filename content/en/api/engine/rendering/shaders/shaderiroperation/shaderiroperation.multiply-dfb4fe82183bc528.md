@@ -13,5 +13,3 @@ reviewed: 789ab2a2a904536fb52b755d3b65bb40aaaabb1232576a612d33344271c33b59
 source: xml
 outdated: false
 ---
-
-Multiplies two equal numeric types component by component; this is not matrix multiplication.

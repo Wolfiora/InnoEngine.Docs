@@ -16,5 +16,3 @@ contracts:
 - project.inno-text-assets#import-contract
 aliases: []
 ---
-
-Imports OpenType fonts into compact metadata and immutable encoded font artifacts.

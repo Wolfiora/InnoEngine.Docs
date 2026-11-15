@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads the canonical asset with one persistent identity.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required runtime asset contract.

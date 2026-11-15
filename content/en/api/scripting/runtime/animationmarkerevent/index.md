@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Publishes a stable marker reached by one animation playback on the main runtime thread.

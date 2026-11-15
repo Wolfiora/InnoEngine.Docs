@@ -13,5 +13,3 @@ reviewed: f415692fc81b81b38abc5236ee41726d0ddcee1e23aec9d1eec63c3d4836b4e5
 source: xml
 outdated: false
 ---
-
-Gets or sets the matrix value.

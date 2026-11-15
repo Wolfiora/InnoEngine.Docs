@@ -13,5 +13,3 @@ reviewed: f8e09e2ee6aa888c8e4262e5935d503863a6e21365680f0f50c4d5a6ddc90368
 source: xml
 outdated: false
 ---
-
-Open on double-click instead of simple click (default for multi-select unless any \_OpenOnXXX behavior is set explicitly). Both behaviors may be combined.

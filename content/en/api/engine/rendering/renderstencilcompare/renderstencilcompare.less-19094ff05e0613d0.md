@@ -13,5 +13,3 @@ reviewed: eedb276d247bb0ade267c2e354b0a446cf513888340ca301d37800b34680d2e7
 source: xml
 outdated: false
 ---
-
-Passes when reference is smaller.

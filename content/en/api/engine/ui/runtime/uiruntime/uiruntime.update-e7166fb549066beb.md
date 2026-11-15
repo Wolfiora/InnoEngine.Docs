@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recomputes owned state from the current validated inputs.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

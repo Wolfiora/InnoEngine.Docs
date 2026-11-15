@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-playmode
 aliases: []
 ---
-
-Bridges the editor host frame clock to the active Play Mode session.

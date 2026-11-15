@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Saves every dirty open document.
-
 ## Returns
 
 `true` when every dirty document is saved.

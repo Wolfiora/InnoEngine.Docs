@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the varying semantic; empty for fixed position, color or depth outputs.

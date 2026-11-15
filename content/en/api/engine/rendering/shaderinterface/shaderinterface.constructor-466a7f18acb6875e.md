@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader interface contract.
-
 ## Parameters
 
 **Parameter `bindings`:** Stable expected bindings.

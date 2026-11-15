@@ -13,5 +13,3 @@ reviewed: 410348229c8c59213f5ef268bf1d3c9be04097a1a89190302c1938edee2088ac
 source: xml
 outdated: false
 ---
-
-Selects the component-wise minimum of two equal numeric types.

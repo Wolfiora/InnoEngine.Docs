@@ -13,5 +13,3 @@ reviewed: 5e72e1c44d0fa4cb229bc4cb2a26ec625bad90e993298026b9467af7a58a4cf9
 source: xml
 outdated: false
 ---
-
-Requests no optional presentation features.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Describes a selected component's native requirements independently of its source generator.

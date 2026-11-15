@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and binds the distribution to one authoring host without starting a build.
-
 ## Parameters
 
 **Parameter `context`:** The SDK selection and host location used for optional source provisioning.

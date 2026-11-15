@@ -13,5 +13,3 @@ reviewed: ceb394438e4b1952cad6270625c146bd073e02c63c79922c91708ebbfb1202b6
 source: xml
 outdated: false
 ---
-
-Selects the separator text padding presentation behavior.

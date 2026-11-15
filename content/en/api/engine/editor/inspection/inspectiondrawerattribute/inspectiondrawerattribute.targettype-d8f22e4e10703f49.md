@@ -13,5 +13,3 @@ reviewed: 4fcb639af34a8f9db4b91d63e618e84673f4d3df4c0e383c569d472c43eaf825
 source: xml
 outdated: false
 ---
-
-Gets the selected target type handled by the drawer.

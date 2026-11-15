@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable identity for one independently replaceable diagnostic producer.
-
 ## Parameters
 
 **Parameter `id`:** The globally stable machine-readable producer identifier.

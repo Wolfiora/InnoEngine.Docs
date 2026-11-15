@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and additively loads a new scene.
-
 ## Parameters
 
 **Parameter `name`:** The initial scene display name.

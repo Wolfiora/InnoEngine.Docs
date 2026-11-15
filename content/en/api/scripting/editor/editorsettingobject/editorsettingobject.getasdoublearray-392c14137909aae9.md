@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets a double-precision array property, or a copied fallback when absent.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

@@ -13,5 +13,3 @@ reviewed: b97a55987f2b02aea4dad2bb37da86463c806880343012a3e2a7c75f95ff0ea1
 source: xml
 outdated: false
 ---
-
-Latest detached preview diagnostics, separate from project diagnostics.

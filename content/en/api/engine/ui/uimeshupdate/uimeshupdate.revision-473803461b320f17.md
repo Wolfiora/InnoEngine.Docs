@@ -13,5 +13,3 @@ reviewed: 89288190d96a19eed4ce3cfb0e27cc3762d831629fef1dac3d406b3c71b4c474
 source: xml
 outdated: false
 ---
-
-Gets the monotonically increasing mesh content revision.

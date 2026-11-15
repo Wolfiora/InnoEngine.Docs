@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads and validates the shader definition value from its authoritative source.
-
 ## Parameters
 
 **Parameter `artifact`:** The resolved immutable artifact payload returned to the caller.

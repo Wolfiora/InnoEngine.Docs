@@ -13,5 +13,3 @@ reviewed: 701fd94b226884c08e702a907566cb2edca228bc0d9724f73c317718b3481682
 source: xml
 outdated: false
 ---
-
-Emphasizes text with the bold face.

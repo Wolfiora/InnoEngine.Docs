@@ -13,5 +13,3 @@ reviewed: ad62aaa309f884d32bb9aa304fdfe4db7435612bb2db04f851c41deaee0d971f
 source: xml
 outdated: false
 ---
-
-Gets the destination pixel rectangle.

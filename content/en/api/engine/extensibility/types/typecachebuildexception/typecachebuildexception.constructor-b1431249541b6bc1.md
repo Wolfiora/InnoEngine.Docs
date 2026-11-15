@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an exception for a failed type-cache snapshot build.
-
 ## Parameters
 
 **Parameter `message`:** A summary of the build failure.

@@ -13,5 +13,3 @@ reviewed: 903a8867fdc6a609b5cb9dff366458644639d452e8b46119583c9847292971f9
 source: xml
 outdated: false
 ---
-
-Gets why the next Undo entry is unavailable, or `null`.

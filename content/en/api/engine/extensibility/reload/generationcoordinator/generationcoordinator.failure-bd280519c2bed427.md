@@ -13,5 +13,3 @@ reviewed: 86474346832780eee836d39fe14e8e82417224d483fa644fd746e903152aa27a
 source: xml
 outdated: false
 ---
-
-Gets the terminal failure, retained until the entire host is discarded.

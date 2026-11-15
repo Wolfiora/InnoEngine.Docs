@@ -13,5 +13,3 @@ reviewed: 6a18b415f510715962289103d8a360555ae8d27e9c4c1650ff0b7267980cbfa3
 source: xml
 outdated: false
 ---
-
-Gets or sets the globally stable contract value.

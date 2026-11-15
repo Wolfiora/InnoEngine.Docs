@@ -13,5 +13,3 @@ reviewed: b2668f8317f5c33a74c7114b87a783b09b4afccceefd71e80b0d401e05eedc3d
 source: xml
 outdated: false
 ---
-
-Gets an empty initial reference catalog.

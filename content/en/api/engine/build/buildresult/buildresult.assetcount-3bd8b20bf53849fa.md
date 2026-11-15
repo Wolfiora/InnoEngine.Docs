@@ -13,5 +13,3 @@ reviewed: 5a5340b5a4e8952b6d35866e12cf915511de3524d04e58ebd6086020cdfcb53d
 source: xml
 outdated: false
 ---
-
-Gets the number of deployed runtime assets or packaged source assets.

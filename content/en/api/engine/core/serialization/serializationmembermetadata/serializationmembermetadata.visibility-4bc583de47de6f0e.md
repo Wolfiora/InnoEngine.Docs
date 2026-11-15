@@ -13,5 +13,3 @@ reviewed: 92df18b1a3574d476d43ac1a96d57441c8df5b9782ce56244862ceb9195664b0
 source: xml
 outdated: false
 ---
-
-Gets the member's persistent and runtime access permissions.

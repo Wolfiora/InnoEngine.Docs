@@ -13,5 +13,3 @@ reviewed: 600ffead17320f7cc14d32535f1d03f0d4e7f0a86e74c14bdcd2dec23cd923f8
 source: xml
 outdated: false
 ---
-
-Processes debounced Plugin source notifications and completed background reconciliation.

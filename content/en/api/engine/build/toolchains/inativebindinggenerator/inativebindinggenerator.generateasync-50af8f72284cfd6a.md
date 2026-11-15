@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Generates or verifies the requested closure under publication ownership.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed operation owning frozen inputs, tool selection and statistics. Configuration path variables must resolve from its selected toolchain without changing process state.

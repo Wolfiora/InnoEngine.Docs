@@ -13,5 +13,3 @@ reviewed: 937aa513329251af6222e44f32ccb51ceabac23bcbc31dc59b8891e4bb71fe4c
 source: xml
 outdated: false
 ---
-
-Gets the explicit host from which the source freezes its SDK selection.

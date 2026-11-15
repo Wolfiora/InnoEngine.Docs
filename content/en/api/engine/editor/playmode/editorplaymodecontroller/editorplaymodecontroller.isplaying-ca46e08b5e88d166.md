@@ -13,5 +13,3 @@ reviewed: 894a59fa3482045b8a6c03821f45c5335bfb4626493b5d7f4467f69240cbcb79
 source: xml
 outdated: false
 ---
-
-Gets whether isolated runtime scenes are actively simulating.

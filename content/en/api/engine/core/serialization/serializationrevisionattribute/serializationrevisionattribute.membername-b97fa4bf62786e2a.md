@@ -13,5 +13,3 @@ reviewed: c6bb572120beff21eca19efeba26d927d9b53e35ab7a3d29d4f2908d831f4458
 source: xml
 outdated: false
 ---
-
-Gets the exact source-owned revision member name.

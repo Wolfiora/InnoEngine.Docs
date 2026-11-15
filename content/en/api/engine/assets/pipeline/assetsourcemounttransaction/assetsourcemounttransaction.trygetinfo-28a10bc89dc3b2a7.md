@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get candidate catalog information by isolated source path.
-
 ## Parameters
 
 **Parameter `path`:** Candidate source path.

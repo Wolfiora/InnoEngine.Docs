@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Defines the supported input text flags choices at the Editor presentation boundary.

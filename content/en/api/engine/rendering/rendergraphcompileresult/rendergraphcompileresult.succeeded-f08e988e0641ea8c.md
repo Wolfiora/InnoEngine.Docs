@@ -13,5 +13,3 @@ reviewed: 5e6d2fc60683b2d55e433fff980bdd680472c68efde905fc9bf1b6dfd2b2b434
 source: xml
 outdated: false
 ---
-
-Gets whether an executable graph was produced.

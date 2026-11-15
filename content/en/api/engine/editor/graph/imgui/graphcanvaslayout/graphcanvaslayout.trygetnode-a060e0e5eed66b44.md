@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a node in this display snapshot without consulting domain or live-object registries.
-
 ## Parameters
 
 **Parameter `id`:** The graph node identity to resolve.

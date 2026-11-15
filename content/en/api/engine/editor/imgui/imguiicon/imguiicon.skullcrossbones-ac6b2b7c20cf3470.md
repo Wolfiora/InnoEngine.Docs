@@ -13,5 +13,3 @@ reviewed: 11e51146107d1037461a4db529927306db41d7c53be30d946b0ac5d43b038e4c
 source: xml
 outdated: false
 ---
-
-Gets the skull crossbones glyph used by standard Editor controls.

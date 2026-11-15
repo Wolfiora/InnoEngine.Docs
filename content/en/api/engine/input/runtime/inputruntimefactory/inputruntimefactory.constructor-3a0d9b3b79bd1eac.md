@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reusable factory that obtains an exclusively owned backend for each session.
-
 ## Parameters
 
 **Parameter `backendFactory`:** The composition callback that creates a distinct backend for the supplied session context.

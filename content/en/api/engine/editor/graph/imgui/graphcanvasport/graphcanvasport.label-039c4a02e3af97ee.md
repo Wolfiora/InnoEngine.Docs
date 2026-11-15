@@ -13,5 +13,3 @@ reviewed: 3dc07239bd0ee451cfcf44d28b1e8bb6d8c169acde7d7b3dd036748086520082
 source: xml
 outdated: false
 ---
-
-Gets the current display label.

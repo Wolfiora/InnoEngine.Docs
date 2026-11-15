@@ -13,5 +13,3 @@ reviewed: adfcf5a0100e170dea02f778adb01433744ed597291b1749a86a1e80695585df
 source: xml
 outdated: false
 ---
-
-Releases every cached preview registration.

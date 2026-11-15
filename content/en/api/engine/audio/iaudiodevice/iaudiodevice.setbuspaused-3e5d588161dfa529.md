@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates pause state for one bus and its routed voices.
-
 ## Parameters
 
 **Parameter `bus`:** Bus owned by the current device generation.

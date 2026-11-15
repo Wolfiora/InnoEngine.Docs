@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Selects the delivery policy independently of the operating system or execution host.

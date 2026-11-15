@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ends one scheduled pass and releases its encoder.
-
 ## Parameters
 
 **Parameter `pass`:** Scheduled pass metadata.

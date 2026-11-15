@@ -13,5 +13,3 @@ reviewed: 4ca00d56937847e553c138fd8ee2023dc3c0c5811675015c49fbd62c639525de
 source: xml
 outdated: false
 ---
-
-Gets whether file-system watching is enabled.

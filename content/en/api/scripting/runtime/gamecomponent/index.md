@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Base type for data and behavior objects attached to a `T:InnoEngine.Scene.GameObject`.

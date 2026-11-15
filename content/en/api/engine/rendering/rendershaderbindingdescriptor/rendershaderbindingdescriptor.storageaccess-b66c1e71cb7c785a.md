@@ -13,5 +13,3 @@ reviewed: e3b165f7cb333a2fd1bdbdb739754aa0d361b23b745caf5bb406959888cff981
 source: xml
 outdated: false
 ---
-
-Gets storage texture or buffer access.

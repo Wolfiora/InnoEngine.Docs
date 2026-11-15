@@ -13,5 +13,3 @@ reviewed: 6820e66656d4cd3c4798c4543b0dc68a88520e5a3af569a9817d27216a661dc2
 source: xml
 outdated: false
 ---
-
-Gets additive source-alpha blending.

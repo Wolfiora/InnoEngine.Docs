@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Exposes world-owned hierarchy operations inside one atomic scene history mutation.

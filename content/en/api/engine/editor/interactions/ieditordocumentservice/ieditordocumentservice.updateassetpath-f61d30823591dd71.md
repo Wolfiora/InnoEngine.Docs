@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates an open document's source location after an identity-preserving asset move, without changing history or focus.
-
 ## Parameters
 
 **Parameter `documentId`:** Existing document identity.

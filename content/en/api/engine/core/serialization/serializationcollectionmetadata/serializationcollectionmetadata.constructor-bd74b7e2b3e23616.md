@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Defines the shape and typed operations of a sequence or map.
-
 ## Parameters
 
 **Parameter `elementType`:** The sequence element or map value type.

@@ -13,5 +13,3 @@ reviewed: 824ac4261ecf90f676bb16e29199dc22e237440a7c3cf6bbfced3eea62b9645f
 source: xml
 outdated: false
 ---
-
-Gets the newly claimed absolute directory; its parent and persistent lease are not payloads.

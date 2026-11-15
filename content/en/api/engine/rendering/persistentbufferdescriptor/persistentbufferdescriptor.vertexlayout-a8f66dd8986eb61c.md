@@ -13,5 +13,3 @@ reviewed: 64df2f2735eeada8bc1669f79e082dc884abc23b0403a88ca654259638120cf2
 source: xml
 outdated: false
 ---
-
-Gets the vertex layout when this is a vertex buffer.

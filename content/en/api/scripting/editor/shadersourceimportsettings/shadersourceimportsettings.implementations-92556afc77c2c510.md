@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets alternate source implementations; all must expose the same public interface with unique backend IDs.

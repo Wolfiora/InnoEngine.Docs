@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable manual reordering this column, this will also prevent other columns from crossing over this column.

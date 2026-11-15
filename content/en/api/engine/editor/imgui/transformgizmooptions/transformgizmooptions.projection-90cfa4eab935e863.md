@@ -13,5 +13,3 @@ reviewed: c7a1c1448541d2c2b7b653adc9760dc3a2231487864d23c1b3063c6c2ad19241
 source: xml
 outdated: false
 ---
-
-Gets the projection matrix supplied by the viewport owner.

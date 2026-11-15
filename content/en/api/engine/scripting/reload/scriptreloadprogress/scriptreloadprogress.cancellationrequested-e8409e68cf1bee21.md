@@ -13,5 +13,3 @@ reviewed: 07a10bde1d1c4b0033520946035344ef9a0b081dc437090dd48f5ffae9fa3a9a
 source: xml
 outdated: false
 ---
-
-Whether cancellation has been requested and still requires owned work to drain.

@@ -13,5 +13,3 @@ reviewed: 529dad30f273db1de8de967ccffdfebbc7c0a7d14c1586953fa25cede5f8b20a
 source: xml
 outdated: false
 ---
-
-Gets the texel width.

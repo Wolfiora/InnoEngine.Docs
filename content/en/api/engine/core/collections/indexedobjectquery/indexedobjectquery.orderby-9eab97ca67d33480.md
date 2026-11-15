@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Orders results by a key marked with `F:Inno.Core.Collections.IndexedObjectKeyFlags.Ordered`.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the local horizontal layout cursor.
-
 ## Returns
 
 A copied value from the active presentation context.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freshly verifies the planned source graph after an ownership wait or preparation work.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels verification before selecting any Pack.

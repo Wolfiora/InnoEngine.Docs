@@ -13,5 +13,3 @@ reviewed: 64bc1df09bb5ef157567fc50e20b20d8a47da0fd40a80e2c966490cf9c229e4b
 source: xml
 outdated: false
 ---
-
-Gets the exact stable provider identity.

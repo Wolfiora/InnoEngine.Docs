@@ -13,5 +13,3 @@ reviewed: 8106e46287f2a1a0fe4bf54b4ae192487e0208d6966f7673fea9639f9d299cb1
 source: xml
 outdated: false
 ---
-
-Gets or sets maximum orbit or framing distance.

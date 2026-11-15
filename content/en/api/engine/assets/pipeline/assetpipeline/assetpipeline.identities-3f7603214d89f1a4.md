@@ -13,5 +13,3 @@ reviewed: 508174cbe30f3e21c0d184e8755018a5e587d9cd47f4ddc78b45fb41a9441fc6
 source: xml
 outdated: false
 ---
-
-Gets the authoring identity domain shared by canonical assets and addressable source entries.

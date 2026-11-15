@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a clip identity into a backend-neutral handle.
-
 ## Parameters
 
 **Parameter `value`:** Non-zero backend clip identity.

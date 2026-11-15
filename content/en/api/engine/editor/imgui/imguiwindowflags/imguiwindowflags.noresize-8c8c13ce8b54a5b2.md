@@ -13,5 +13,3 @@ reviewed: 4b5a0f3862c5157b2f1a2e4cc8fbc8b5d40590aebddb45469e16f9153e3ac433
 source: xml
 outdated: false
 ---
-
-Disable user resizing with the lower-right grip

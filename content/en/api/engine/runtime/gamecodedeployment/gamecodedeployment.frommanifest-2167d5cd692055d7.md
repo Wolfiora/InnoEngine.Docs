@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes validated manifest declarations without retaining their mutable arrays or entries.
-
 ## Parameters
 
 **Parameter `modules`:** Current-format runtime manifest declarations.

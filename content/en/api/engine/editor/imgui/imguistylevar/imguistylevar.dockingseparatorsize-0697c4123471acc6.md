@@ -13,5 +13,3 @@ reviewed: 4894bdc337e7168a4e977dbf0f7f6e27b72c9643c5e15697360fd6e9d3c72e0e
 source: xml
 outdated: false
 ---
-
-Selects the docking separator size presentation behavior.

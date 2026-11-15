@@ -13,5 +13,3 @@ reviewed: b9328cfde5d78b5a0a8a88f5bb7779b7a743cce06d204df80d8945e301525357
 source: xml
 outdated: false
 ---
-
-Gets minimum asset grid scale.

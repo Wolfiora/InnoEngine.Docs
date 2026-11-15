@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides script-facing asset queries through the lookup bound to the current runtime session.
-
 ## Remarks
 
 This façade owns no asset state. Engine and Editor infrastructure should depend on an explicit `T:InnoEngine.Assets.IAssetLookup` instance.

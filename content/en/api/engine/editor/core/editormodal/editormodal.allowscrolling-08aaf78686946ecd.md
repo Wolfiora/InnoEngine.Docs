@@ -13,5 +13,3 @@ reviewed: dac5dc27fae7b547b25820c158b42b97d3b1e02cc2c716644fc868bea3638579
 source: xml
 outdated: false
 ---
-
-Gets whether the modal window owns scrolling when its content overflows. Disable this when a child region owns all scrolling.

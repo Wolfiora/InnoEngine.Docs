@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a feature-owned draft store; call Start after document services become available.
-
 ## Parameters
 
 **Parameter `assets`:** Owner of source identities, serialization and import.

@@ -13,5 +13,3 @@ reviewed: 5a4d92489533ccaff6ab2f5883a0d9abee3e2147d06c5ee5a3023b45d56f468f
 source: xml
 outdated: false
 ---
-
-Rejects back-facing triangles.

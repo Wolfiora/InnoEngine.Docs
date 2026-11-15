@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Atomically initializes an orthographic navigation view.
-
 ## Parameters
 
 **Parameter `position`:** Provider-defined world-space position.

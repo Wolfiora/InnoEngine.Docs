@@ -13,5 +13,3 @@ reviewed: e20e7fd3d26caee385cd59b22b7e9163f8b914d11a7cec14f17b5c2488a74d03
 source: xml
 outdated: false
 ---
-
-Gets the time at which the report was published.

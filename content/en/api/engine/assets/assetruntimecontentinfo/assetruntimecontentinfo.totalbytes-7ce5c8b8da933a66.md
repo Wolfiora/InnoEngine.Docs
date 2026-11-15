@@ -13,5 +13,3 @@ reviewed: 128d36ae3415507300c99e3793a53c229a879464cb386680e613cb3b3e564c6b
 source: xml
 outdated: false
 ---
-
-Gets the total bytes copied into the runtime content root.

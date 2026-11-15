@@ -13,5 +13,3 @@ reviewed: 604c80551724d466277815ea5e0cce6bc4c626c7030f4c05ece427397aab1bf7
 source: xml
 outdated: false
 ---
-
-Gets the explicit source-language identities accepted by this adapter's typed IR generator.

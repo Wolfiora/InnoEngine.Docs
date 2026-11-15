@@ -13,5 +13,3 @@ reviewed: 022e773e2292c78f18d4074ce6bcdf664a1c631a309a8a1612baca8476c8d5e5
 source: xml
 outdated: false
 ---
-
-Gets the derived content-addressed artifact root.

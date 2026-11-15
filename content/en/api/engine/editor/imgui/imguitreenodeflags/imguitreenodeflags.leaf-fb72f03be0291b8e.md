@@ -13,5 +13,3 @@ reviewed: 3b3164448b37c85ca4fc6d199340956f8257feb1fca389df79e469c852e7a8c7
 source: xml
 outdated: false
 ---
-
-No collapsing, no arrow (use as a convenience for leaf nodes).

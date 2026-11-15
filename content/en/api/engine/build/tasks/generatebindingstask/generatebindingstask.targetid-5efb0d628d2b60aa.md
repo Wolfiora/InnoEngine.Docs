@@ -13,5 +13,3 @@ reviewed: f5acedb53f5492d42a762ba38f8fef8c2f236864b5d4690048c523bdbc678dfb
 source: xml
 outdated: false
 ---
-
-Gets or sets the explicit configuration identity selected from the definition.

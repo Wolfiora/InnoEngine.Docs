@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the live source for an active runtime identity.
-
 ## Parameters
 
 **Parameter `identity`:** The domain-qualified runtime identity carried by the drag protocol.

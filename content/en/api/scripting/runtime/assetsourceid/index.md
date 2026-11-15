@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Identifies one isolated asset source mount.

@@ -13,5 +13,3 @@ reviewed: fca51541749600042fbd6f1acca50a684e326b36bb2649d7b10b8a2c2552c72c
 source: xml
 outdated: false
 ---
-
-Gets the exact required output closure within this component's target directory.

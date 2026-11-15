@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an absolute execution path and its optional release protocol.
-
 ## Parameters
 
 **Parameter `toolPath`:** The execution directory selected by the host provider.

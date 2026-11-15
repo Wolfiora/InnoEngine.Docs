@@ -13,5 +13,3 @@ reviewed: f596dc4ec51207053d2daa310e80503592776d2ede78659f683dc9b801f03550
 source: xml
 outdated: false
 ---
-
-Gets assembly names reused from the deterministic artifact cache.

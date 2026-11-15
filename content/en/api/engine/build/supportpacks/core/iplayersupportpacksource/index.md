@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Prepares one platform's runtime and compiler inputs without owning installation or replacement.

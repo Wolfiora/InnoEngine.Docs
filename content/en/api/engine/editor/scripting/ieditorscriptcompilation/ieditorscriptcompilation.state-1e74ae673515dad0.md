@@ -13,5 +13,3 @@ reviewed: 16c7762b9bc0fd3fd36db73603b9e5f18293fde50447789709c029c1bb4d6376
 source: xml
 outdated: false
 ---
-
-Gets the current script-generation readiness state.

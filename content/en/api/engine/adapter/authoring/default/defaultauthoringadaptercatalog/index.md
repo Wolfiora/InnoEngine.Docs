@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-authoring-default
 aliases: []
 ---
-
-Combines explicitly supplied rendering toolchains and standard ImGui presentation to the built-in runtime adapter catalog.

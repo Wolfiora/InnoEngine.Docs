@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Owns a complete ordered Native product closure and releases its reading leases together.

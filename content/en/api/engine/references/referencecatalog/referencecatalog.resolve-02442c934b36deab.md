@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a persistent descriptor using the resolver selected by its kind.
-
 ## Parameters
 
 **Parameter `descriptor`:** The descriptor to resolve.

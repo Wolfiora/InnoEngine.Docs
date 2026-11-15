@@ -13,5 +13,3 @@ reviewed: 7dc54e04d290a91579f4d8670a12b7ee96dd779b8f79ab72ed63ef0dff6372c0
 source: xml
 outdated: false
 ---
-
-Identifies the Minus presentation key or modifier.

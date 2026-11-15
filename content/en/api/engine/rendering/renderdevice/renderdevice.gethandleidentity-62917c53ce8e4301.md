@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a persistent buffer handle for backend lookup and generation validation.
-
 ## Parameters
 
 **Parameter `handle`:** The backend-neutral buffer handle.

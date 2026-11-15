@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Assigns the managed asset produced by the importer.
-
 ## Parameters
 
 **Parameter `asset`:** The imported asset.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Provides script-friendly access to Unicode shaping and glyph rasterization.

@@ -13,5 +13,3 @@ reviewed: ceb7bc62e2bd4902b32b77e552d6603887e6e561ee3003d24353f00c2f9fa372
 source: xml
 outdated: false
 ---
-
-Defers later modules while the import pins their generation or requires a Host restart.

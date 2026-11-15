@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-InvisibleButton(): do not disable navigation/tabbing. Otherwise disabled by default.

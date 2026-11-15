@@ -13,5 +13,3 @@ reviewed: 0779a0c0e27a3f4784a67cdddca6cd5c3236538fcbd5565c6915534aab375218
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadDpadLeft presentation key or modifier.

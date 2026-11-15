@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated in-memory document source.
-
 ## Parameters
 
 **Parameter `language`:** Explicit source language understood by a registered backend.

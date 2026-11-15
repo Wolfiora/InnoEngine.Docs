@@ -13,5 +13,3 @@ reviewed: 9e1944c1e50a8ba02bef07888d0a34c17917f71bbfdd1cf53a65a7b0f6c2074b
 source: xml
 outdated: false
 ---
-
-Subtracts two equal numeric types component by component.

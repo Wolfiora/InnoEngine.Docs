@@ -13,5 +13,3 @@ reviewed: 564163d30185e1710439f037c16eea6eda87f9de94e69ba0d75e175368eb79b0
 source: xml
 outdated: false
 ---
-
-Creates an empty script source asset for deserialization.

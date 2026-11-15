@@ -13,5 +13,3 @@ reviewed: cc1b1f06588aa6fbd59e9235a60bfe9be81f8af9e9b37146eef0a634078542d1
 source: xml
 outdated: false
 ---
-
-Gets the screen-space pointer position.

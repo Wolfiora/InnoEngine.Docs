@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Identifies the ownership and reload boundary of a managed assembly.

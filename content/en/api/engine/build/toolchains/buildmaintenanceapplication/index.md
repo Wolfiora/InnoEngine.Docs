@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Runs publisher-owned cache maintenance without backend, generator or Editor dependencies.

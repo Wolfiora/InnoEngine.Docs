@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads required graph-level reusable-node metadata.
-
 ## Parameters
 
 **Parameter `graph`:** Graph declaring the reusable node.

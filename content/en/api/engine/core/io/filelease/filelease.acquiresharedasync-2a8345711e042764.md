@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pins an existing generation against exclusive retirement while permitting other readers.
-
 ## Parameters
 
 **Parameter `path`:** The absolute persistent lease path previously initialized by an exclusive owner.

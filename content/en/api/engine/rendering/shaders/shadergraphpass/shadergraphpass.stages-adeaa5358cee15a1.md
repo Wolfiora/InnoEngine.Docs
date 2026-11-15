@@ -13,5 +13,3 @@ reviewed: c8f1414acd393a2cbdae5dfae0791a570e11ef5c6965501cc45fe2e206f71359
 source: xml
 outdated: false
 ---
-
-Gets immutable graph-lowered stages.

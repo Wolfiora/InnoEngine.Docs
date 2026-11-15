@@ -13,5 +13,3 @@ reviewed: 22cbddd78df23f6498ef18f49ea410c090f25dcb0ffd211ddc9ad940838be7f2
 source: xml
 outdated: false
 ---
-
-Gets immutable nested regions: true/false for Branch, or one body for Loop.

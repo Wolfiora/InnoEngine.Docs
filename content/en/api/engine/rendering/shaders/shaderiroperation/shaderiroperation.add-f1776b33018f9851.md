@@ -13,5 +13,3 @@ reviewed: a09f9c2702875392badf23124d80498ec6650484f1da4101321e34602ed06759
 source: xml
 outdated: false
 ---
-
-Adds two equal numeric types component by component.

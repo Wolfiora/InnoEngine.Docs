@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a format is valid as a multisampled raster attachment.
-
 ## Parameters
 
 **Parameter `format`:** Texture format to query.

@@ -13,5 +13,3 @@ reviewed: 9c21bbe7acf922fddd30bafa6e89df96173fad7e189a97f9b9a33d1a9edf7588
 source: xml
 outdated: false
 ---
-
-Rejects front-facing triangles.

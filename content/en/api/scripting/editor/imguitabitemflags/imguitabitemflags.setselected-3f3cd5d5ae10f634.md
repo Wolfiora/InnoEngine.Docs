@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Trigger flag to programmatically make the tab selected when calling BeginTabItem()

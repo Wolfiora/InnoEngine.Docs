@@ -13,5 +13,3 @@ reviewed: 5b4648ac2e866fd8831ef7c97fa9fc063fae8f7342c1d3565d921cddc24eef1e
 source: xml
 outdated: false
 ---
-
-Identifies the Equal presentation key or modifier.

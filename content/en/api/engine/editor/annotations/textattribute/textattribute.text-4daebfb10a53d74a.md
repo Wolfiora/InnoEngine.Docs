@@ -13,5 +13,3 @@ reviewed: 30689150ce78cc3de85b2bbd41bec55942eed122c09f24ffb07406b482d3f364
 source: xml
 outdated: false
 ---
-
-Gets the persistent Inspector text.

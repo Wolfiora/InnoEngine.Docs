@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Expands every inline graph-node reference and refreshes domain-output interfaces.
-
 ## Parameters
 
 **Parameter `graph`:** Authored parent graph.

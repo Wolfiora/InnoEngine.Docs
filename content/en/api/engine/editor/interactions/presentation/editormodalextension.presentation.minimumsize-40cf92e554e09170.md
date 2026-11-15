@@ -13,5 +13,3 @@ reviewed: b4ef39e507ea22bca0b21ed83b0671963bedfd95a758277041bdc8a60b180f92
 source: xml
 outdated: false
 ---
-
-Gets the minimum size in unscaled editor units.

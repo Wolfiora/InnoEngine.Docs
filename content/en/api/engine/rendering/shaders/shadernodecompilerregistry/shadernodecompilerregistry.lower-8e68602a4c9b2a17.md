@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Lowers a whole region under one shared generation operation.
-
 ## Parameters
 
 **Parameter `request`:** Frozen graph region and resolved immutable inputs.

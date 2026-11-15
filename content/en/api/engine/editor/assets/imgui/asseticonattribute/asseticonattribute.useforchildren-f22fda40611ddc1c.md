@@ -13,5 +13,3 @@ reviewed: ed03a49dcd9c34dcf2a70a3d35603b762fdfa4755bf1b0559001e72577ee7096
 source: xml
 outdated: false
 ---
-
-Gets whether a type declaration may also represent derived asset types. Extension declarations always return `false`.

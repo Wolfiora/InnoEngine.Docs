@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Stores the project-wide tag definitions used to author and validate scene object assignments.

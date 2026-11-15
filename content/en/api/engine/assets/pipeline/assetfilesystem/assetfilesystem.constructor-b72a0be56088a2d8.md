@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an indexed source file system.
-
 ## Parameters
 
 **Parameter `assetRoot`:** The absolute source root.

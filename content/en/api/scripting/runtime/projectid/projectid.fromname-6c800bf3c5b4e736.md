@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a portable initial project identifier from a user-facing project name.
-
 ## Parameters
 
 **Parameter `name`:** The project name used to derive the initial namespace.

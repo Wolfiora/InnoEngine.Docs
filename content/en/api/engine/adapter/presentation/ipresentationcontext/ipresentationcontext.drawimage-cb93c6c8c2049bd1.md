@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a registered texture in the active presentation surface.
-
 ## Parameters
 
 **Parameter `texture`:** Opaque presentation texture token.

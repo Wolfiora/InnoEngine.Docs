@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Always show vertical scrollbar (even if ContentSize.y \< Size.y)

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Forces validation and prepares or commits one atomic Plugin availability generation.
-
 ## Returns
 
 `true` when a different mount generation was committed immediately or staged for code reload; otherwise, `false`.

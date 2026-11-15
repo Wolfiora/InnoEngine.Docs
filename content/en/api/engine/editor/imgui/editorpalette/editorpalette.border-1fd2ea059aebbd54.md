@@ -13,5 +13,3 @@ reviewed: 7ec57ff291d51c0fa2ab1e1645dee6ecaf9eb0b948acf566ed41ac13f6e570f8
 source: xml
 outdated: false
 ---
-
-Gets the standard border color.

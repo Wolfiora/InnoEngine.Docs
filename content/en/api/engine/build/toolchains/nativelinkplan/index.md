@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes platform library formats and linker configuration independently of component recipes.

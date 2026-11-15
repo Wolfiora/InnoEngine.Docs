@@ -13,5 +13,3 @@ reviewed: c22ab3360c62c89103f4d43efe4dd7ead2c46e4af98c67d065faf81398b5a4af
 source: xml
 outdated: false
 ---
-
-Gets completed movement positions, or null when no data edit was requested.

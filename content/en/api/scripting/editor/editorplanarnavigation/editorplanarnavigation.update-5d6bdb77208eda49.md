@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Advances pointer capture using logical button state rather than window-local release events.
-
 ## Parameters
 
 **Parameter `hovered`:** Whether a new gesture may start in this canvas.

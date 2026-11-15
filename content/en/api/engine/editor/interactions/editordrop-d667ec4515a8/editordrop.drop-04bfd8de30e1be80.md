@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes a delivered drop for the strongly typed source and target.
-
 ## Parameters
 
 **Parameter `context`:** The typed source, target, surface, and requested placement.

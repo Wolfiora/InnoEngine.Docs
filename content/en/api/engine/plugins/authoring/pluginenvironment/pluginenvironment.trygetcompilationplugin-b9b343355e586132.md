@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a Plugin owned by the active or pending script-compilation generation.
-
 ## Parameters
 
 **Parameter `source`:** Plugin source mount ID.

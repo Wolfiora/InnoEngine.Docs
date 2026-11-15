@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers an editor feature that owns generation-bound live state.
-
 ## Parameters
 
 **Parameter `participant`:** The feature participant. The coordinator retains only a weak reference to this instance.

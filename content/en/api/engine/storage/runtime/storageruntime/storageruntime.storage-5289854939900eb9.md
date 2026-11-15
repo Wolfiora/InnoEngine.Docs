@@ -13,5 +13,3 @@ reviewed: dc5ac0c33bc71c10aa0c7cf294036a16a600186c3eb765b6bf4dbd438c2a1d56
 source: xml
 outdated: false
 ---
-
-Gets the storage service owned by this runtime feature.

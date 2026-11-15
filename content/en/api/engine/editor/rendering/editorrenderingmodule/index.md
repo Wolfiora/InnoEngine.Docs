@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Composes reloadable rendering-model contributors while retaining only opaque presentation outputs.

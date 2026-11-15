@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Represents an authoring-only source-function library; it is never a complete GPU stage or runtime dependency.

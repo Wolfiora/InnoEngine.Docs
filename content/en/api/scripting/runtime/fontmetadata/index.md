@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Describes immutable metadata for an imported OpenType font source.

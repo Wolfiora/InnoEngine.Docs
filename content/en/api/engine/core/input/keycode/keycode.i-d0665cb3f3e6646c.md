@@ -13,5 +13,3 @@ reviewed: c394cca3c8263daaae6c5c070fb7e8348de14b25795aa8dd7e5ad8fe2c221d7f
 source: xml
 outdated: false
 ---
-
-The I letter key.

@@ -13,5 +13,3 @@ reviewed: 8ed3ae5977e63ffc7d76996433fa005faaf3565dd849147e01a0fc9502602320
 source: xml
 outdated: false
 ---
-
-Gets the last known source-relative path.

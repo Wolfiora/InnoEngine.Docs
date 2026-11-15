@@ -13,5 +13,3 @@ reviewed: c3f681ca6c58d658ff992198f6448623b1a34709169c8877499d539fbb8134ee
 source: xml
 outdated: false
 ---
-
-Attaches this feature to its owning runtime generation.

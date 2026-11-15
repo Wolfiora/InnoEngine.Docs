@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures each persistent property independently while preserving scene-reference identities.
-
 ## Parameters
 
 **Parameter `target`:** Live scene object whose properties should be captured.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects this target, or clears selection when the target is `null`.
-
 ## Returns
 
 `true` when the built-in selection action executed; otherwise, `false`.

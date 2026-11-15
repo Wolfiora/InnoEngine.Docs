@@ -13,5 +13,3 @@ reviewed: 2938cb56859e0f4921709abf9aeb1f1fc3991347aefdddf978376664debd1842
 source: xml
 outdated: false
 ---
-
-Gets whether the asset is currently held by the loader cache.

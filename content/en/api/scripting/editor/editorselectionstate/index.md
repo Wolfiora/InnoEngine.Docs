@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Owns ordered transient selection through domain-qualified identities instead of retaining live objects.

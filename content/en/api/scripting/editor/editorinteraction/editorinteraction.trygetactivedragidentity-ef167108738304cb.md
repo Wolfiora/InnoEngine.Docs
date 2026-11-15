@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the currently active drag identity, if its source remains registered.
-
 ## Parameters
 
 **Parameter `identity`:** The active domain-qualified runtime identity when available.

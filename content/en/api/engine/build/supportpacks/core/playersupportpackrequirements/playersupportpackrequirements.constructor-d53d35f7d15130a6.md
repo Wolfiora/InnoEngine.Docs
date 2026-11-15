@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the exact publication inputs and native groups supplied by the selected product closure.
-
 ## Parameters
 
 **Parameter `target`:** The stable target whose inputs are being validated.

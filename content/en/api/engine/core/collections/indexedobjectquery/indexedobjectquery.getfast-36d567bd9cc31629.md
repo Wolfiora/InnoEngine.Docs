@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes the query and returns a lazy fail-fast enumerable of results.
-
 ## Remarks
 
 Enumeration is fail-fast and throws if the store is modified during iteration.

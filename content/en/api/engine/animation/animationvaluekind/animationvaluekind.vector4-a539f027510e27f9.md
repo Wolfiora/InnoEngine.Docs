@@ -13,5 +13,3 @@ reviewed: 4cd4e158ba598b4b5642538f1b264b2cc1a85ae1977dd6a1bf926fbd243c36ee
 source: xml
 outdated: false
 ---
-
-Four independent components.

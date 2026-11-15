@@ -13,5 +13,3 @@ reviewed: 8cd30cda985e9765904ef3323c77ee91bb2f864208d6e440c6802abf482c5ca2
 source: xml
 outdated: false
 ---
-
-Gets or sets the default player-facing product name.

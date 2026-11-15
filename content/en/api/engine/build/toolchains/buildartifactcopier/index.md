@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Copies filtered native outputs into the engine's rebuildable dependency store.

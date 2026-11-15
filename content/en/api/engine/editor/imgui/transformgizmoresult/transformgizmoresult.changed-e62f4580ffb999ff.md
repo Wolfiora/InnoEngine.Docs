@@ -13,5 +13,3 @@ reviewed: b370134316ff0041e2a5c8c7425cbc1b3d0dff53b3e35026cc78938fa220ed90
 source: xml
 outdated: false
 ---
-
-Whether the native presenter reported an edited value.

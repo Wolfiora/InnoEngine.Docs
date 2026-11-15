@@ -13,5 +13,3 @@ reviewed: 039934e8df58424059ac636354b73171d24a03e3fc5567f5140d9c9ef3caeb8d
 source: xml
 outdated: false
 ---
-
-Gets the offscreen target count and per-frame target allocation capacity.

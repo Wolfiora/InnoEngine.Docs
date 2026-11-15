@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a named structured object.
-
 ## Parameters
 
 **Parameter `name`:** The unique non-empty member name.

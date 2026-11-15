@@ -13,5 +13,3 @@ reviewed: 671c56937ce4f351a9e96eeabf014b81f33ab3dbac9ba7d5e79080b987e0ce5e
 source: xml
 outdated: false
 ---
-
-Gets the neutral distribution borrowed by product hosts and shared pipeline mechanisms.

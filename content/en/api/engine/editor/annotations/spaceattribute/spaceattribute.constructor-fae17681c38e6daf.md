@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a spacing decorator.
-
 ## Parameters
 
 **Parameter `height`:** Non-negative logical pixel height.

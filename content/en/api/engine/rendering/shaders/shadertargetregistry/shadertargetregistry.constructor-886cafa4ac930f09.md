@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a target owner participating in shared candidate publication and retirement.
-
 ## Parameters
 
 **Parameter `types`:** The authoring catalog, which must outlive this registry.

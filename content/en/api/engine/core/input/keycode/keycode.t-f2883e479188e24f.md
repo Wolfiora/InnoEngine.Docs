@@ -13,5 +13,3 @@ reviewed: 1be80caeb5c16b9f311871c79582775d09261f7319333f78f80b3d3b0588028d
 source: xml
 outdated: false
 ---
-
-The T letter key.

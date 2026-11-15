@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the configuration shared by all native component builds.
-
 ## Parameters
 
 **Parameter `configuration`:** The debug or release token supplied by the build workflow.

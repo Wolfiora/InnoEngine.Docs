@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the verified absolute directory while this lease owns reading rights.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The consumer has already released its reading rights.

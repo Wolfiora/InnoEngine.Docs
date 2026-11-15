@@ -13,5 +13,3 @@ reviewed: 38b87e8db7f5c81ea247d520ca3785bb85985b9d15d418ec82614a16b9ad946c
 source: xml
 outdated: false
 ---
-
-Starts an operation or simulation.

@@ -13,5 +13,3 @@ reviewed: 1d3e7cb63b3d8ea69989cf61f5357e43008b91b62adfec16f8c10cba664e4ca4
 source: xml
 outdated: false
 ---
-
-Gets compiled logical texture allocations.

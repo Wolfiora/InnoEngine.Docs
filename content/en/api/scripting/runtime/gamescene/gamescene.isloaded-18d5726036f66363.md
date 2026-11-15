@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether this scene is currently owned by `T:InnoEngine.Scene.SceneManager`.

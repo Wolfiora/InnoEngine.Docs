@@ -13,5 +13,3 @@ reviewed: bda2fc6c6892b53eab5870eabf1b54372cb39e5a411fff3c9033ddc0e7f291cb
 source: xml
 outdated: false
 ---
-
-Gets the outline color of framed sections.

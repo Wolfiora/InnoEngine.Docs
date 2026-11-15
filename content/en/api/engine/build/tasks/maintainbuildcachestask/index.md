@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-tasks
 aliases: []
 ---
-
-Runs bounded cache maintenance after a successful root Editor operation.

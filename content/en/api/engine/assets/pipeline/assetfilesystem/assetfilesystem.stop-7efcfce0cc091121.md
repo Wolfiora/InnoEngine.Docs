@@ -13,5 +13,3 @@ reviewed: 69214176233fa0553dc4f073d45657db794afec6f895ee1ea5424c69c12c3d67
 source: xml
 outdated: false
 ---
-
-Stops source file watching.

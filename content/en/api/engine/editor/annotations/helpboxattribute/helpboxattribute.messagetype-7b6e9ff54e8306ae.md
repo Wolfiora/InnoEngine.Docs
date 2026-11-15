@@ -13,5 +13,3 @@ reviewed: 2b210af068b5f1d052520cbdd5e98df3fe10ad888817fcf5654c0b12f27e82aa
 source: xml
 outdated: false
 ---
-
-Gets the visual severity.

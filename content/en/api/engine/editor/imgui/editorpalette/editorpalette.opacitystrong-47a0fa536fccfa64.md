@@ -13,5 +13,3 @@ reviewed: 08bbae97ad1504f3023bd7e4c0e9559cc08c8a399e1c15f480e1d5370f7bc082
 source: xml
 outdated: false
 ---
-
-Gets strong opacity for accents that remain translucent.

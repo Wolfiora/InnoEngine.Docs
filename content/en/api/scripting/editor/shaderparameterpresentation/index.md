@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-shaders
 aliases: []
 ---
-
-Stores Editor-only parameter presentation by stable binding identity in the Shader's authoring graph.

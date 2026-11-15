@@ -13,5 +13,3 @@ reviewed: adb05513ea361b7c26b1e67719332a5a5b517873ce3b49079a2b1e09254ca146
 source: xml
 outdated: false
 ---
-
-Gets whether the row has no expandable children.

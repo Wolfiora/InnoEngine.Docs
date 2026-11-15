@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a persistent buffer identity into a backend-neutral handle.
-
 ## Parameters
 
 **Parameter `value`:** The backend-owned non-zero buffer identity.

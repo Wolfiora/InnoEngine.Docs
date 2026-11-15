@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Identifies one provider-owned persistent GPU resource without exposing a native handle.

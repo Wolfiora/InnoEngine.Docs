@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live object subtree into another scene owned by the current runtime session.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live root object to move.

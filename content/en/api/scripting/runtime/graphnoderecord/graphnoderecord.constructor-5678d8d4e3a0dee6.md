@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph node record.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier within the document.

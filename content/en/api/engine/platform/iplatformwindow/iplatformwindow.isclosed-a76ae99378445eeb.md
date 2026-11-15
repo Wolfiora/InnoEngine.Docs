@@ -13,5 +13,3 @@ reviewed: ac636178ba39f0aeb17384755025298608f79387fb296efaee09b05195f4856a
 source: xml
 outdated: false
 ---
-
-Gets whether the window has received or requested a close operation.

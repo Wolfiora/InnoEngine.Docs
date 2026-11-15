@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Selects the session clock used to advance an animation playback.

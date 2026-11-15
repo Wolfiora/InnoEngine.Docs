@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads feature-owned settings from neutral state.
-
 ## Parameters
 
 **Parameter `state`:** Reload-safe extension state.

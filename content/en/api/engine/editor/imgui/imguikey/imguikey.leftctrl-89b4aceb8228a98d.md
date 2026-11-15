@@ -13,5 +13,3 @@ reviewed: 45f90b22f9e90a973447a60e3a1fac2153a22f3944fa37775b8c73b4a5c5e097
 source: xml
 outdated: false
 ---
-
-Identifies the LeftCtrl presentation key or modifier.

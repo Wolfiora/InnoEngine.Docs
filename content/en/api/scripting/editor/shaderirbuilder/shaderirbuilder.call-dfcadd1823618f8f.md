@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Calls a validated source implementation using semantic parameter names, preserving all call side effects.
-
 ## Parameters
 
 **Parameter `module`:** A module whose selected implementations and variants share the same interface.

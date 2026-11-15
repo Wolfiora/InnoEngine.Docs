@@ -13,5 +13,3 @@ reviewed: 4c261dcd40d7fdbc4c9b067edbbebf1ede73de43759d307662ebf587a9d3684a
 source: xml
 outdated: false
 ---
-
-Gets the persistent destination identifier, or empty for sampling-only playback.

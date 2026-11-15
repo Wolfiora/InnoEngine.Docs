@@ -13,5 +13,3 @@ reviewed: d54e91ee9897333ae82c2194eeb7a421e5cb974e5feaea54cdf5efa211e8e0f5
 source: xml
 outdated: false
 ---
-
-Gets the Doppler effect multiplier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Lowers this graph node to typed shader IR after validating its inputs.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -13,5 +13,3 @@ reviewed: d55e419f730c9fea1b016e6a88041b8ea80636bd7c98c851c20e3061f75e2557
 source: xml
 outdated: false
 ---
-
-Gets the first uploaded element in the backing frame page.

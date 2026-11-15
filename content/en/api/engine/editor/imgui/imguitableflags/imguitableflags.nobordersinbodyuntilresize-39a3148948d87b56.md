@@ -13,5 +13,3 @@ reviewed: cc5de4adb616b990cc0bbc29650ddf65ef978020c17443d163afe5dcb849cc53
 source: xml
 outdated: false
 ---
-
-Disable vertical borders in columns Body until hovered for resize (borders will always appear in Headers). -\> May move to style

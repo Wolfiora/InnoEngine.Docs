@@ -13,5 +13,3 @@ reviewed: 8fdc2c43af0545c60fa34a395ffc094df731df9cc66b43f688880074ea40fa6d
 source: xml
 outdated: false
 ---
-
-Selects the tab border size presentation behavior.

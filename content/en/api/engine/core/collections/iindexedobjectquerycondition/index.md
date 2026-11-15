@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Defines one condition evaluated by an object-store query.
-
 ## Type parameters
 
 **Type parameter `T`:** The stored reference type.

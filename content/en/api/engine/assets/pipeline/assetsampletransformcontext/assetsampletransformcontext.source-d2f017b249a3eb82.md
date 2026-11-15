@@ -13,5 +13,3 @@ reviewed: cac8dbcf65101b61f98dce5bfd770d8606290fc9d1eb14c439faacfb2fabea69
 source: xml
 outdated: false
 ---
-
-Gets the installed sample source path.

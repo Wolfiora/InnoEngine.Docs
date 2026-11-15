@@ -13,5 +13,3 @@ reviewed: c78000e94ba7010f9aa709e635ca889f12763af09bc5fbe6892eca3a399d9bbb
 source: xml
 outdated: false
 ---
-
-Diagnostic severity.

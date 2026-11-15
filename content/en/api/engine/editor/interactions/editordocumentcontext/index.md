@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Stores only stable, reload-safe document identity and provider-owned draft parameters.

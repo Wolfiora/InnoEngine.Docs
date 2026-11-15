@@ -13,5 +13,3 @@ reviewed: 99503f2bccf45c11c6933e22199f8132b0ac692e7fadf6249872b229d830ecea
 source: xml
 outdated: false
 ---
-
-Set row background color 0 (generally used for background, automatically set when ImGuiTableFlags\_RowBg is used)

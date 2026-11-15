@@ -13,5 +13,3 @@ reviewed: be53fd0b52950b002724f2b80246c12110d308c1d180c8ffe09b2782e85d1208
 source: xml
 outdated: false
 ---
-
-Gets the deterministic content identity, or `null` when the build failed.

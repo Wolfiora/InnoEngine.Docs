@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances domain state on the variable clock.
-
 ## Parameters
 
 **Parameter `frame`:** The variable frame timing.

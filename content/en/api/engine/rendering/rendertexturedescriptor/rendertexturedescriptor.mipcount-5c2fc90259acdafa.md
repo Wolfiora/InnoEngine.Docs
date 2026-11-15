@@ -13,5 +13,3 @@ reviewed: 990ec98dfe485b51ad195aa097781f7201369b8afb0222f7380a04b7c841f1cf
 source: xml
 outdated: false
 ---
-
-Gets the number of mip levels.

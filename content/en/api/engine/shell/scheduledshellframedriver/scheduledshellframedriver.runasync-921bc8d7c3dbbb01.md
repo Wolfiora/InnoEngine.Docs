@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances frames until the callback stops the loop, cancellation is requested or a callback fails.
-
 ## Parameters
 
 **Parameter `advanceFrame`:** The owner-thread frame callback; false terminates the loop.

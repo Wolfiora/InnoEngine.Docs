@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a feature configuration.
-
 ## Parameters
 
 **Parameter `featureTypeId`:** Globally stable feature extension identifier.

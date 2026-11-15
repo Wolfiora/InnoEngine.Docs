@@ -13,5 +13,3 @@ reviewed: f96be7fb7e2c5f8328d98b4ca6213345696e9fcfc460eb5bf54cd6d51f203b6a
 source: xml
 outdated: false
 ---
-
-For BeginPopupContext\*(): open on Middle Mouse release. Only one button allowed!

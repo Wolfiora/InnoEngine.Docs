@@ -13,5 +13,3 @@ reviewed: 7704f85835491be7f607f404a870f615d4824aa1a3a6d72f9056289b4a7f8500
 source: xml
 outdated: false
 ---
-
-Gets the optional exact interaction area.

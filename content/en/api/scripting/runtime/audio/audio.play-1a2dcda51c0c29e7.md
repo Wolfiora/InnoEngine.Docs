@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Starts one clip using default playback parameters.
-
 ## Parameters
 
 **Parameter `clip`:** Imported clip to prepare and play.

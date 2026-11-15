@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Validates neutral graph topology against generation-scoped node definitions.

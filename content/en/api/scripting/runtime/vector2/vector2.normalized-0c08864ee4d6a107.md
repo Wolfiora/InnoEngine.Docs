@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets a unit-length copy, or the zero value when normalization is undefined.

@@ -13,5 +13,3 @@ reviewed: 02fd9825cd70d40e75574c4cf4ec58c9ded5d3dc515a9efa0c19a7745035fbe3
 source: xml
 outdated: false
 ---
-
-The homogeneous or fourth component.

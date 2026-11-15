@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Preserves the stable intent and diagnostic metadata for one logical object reference.

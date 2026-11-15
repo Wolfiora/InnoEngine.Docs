@@ -13,5 +13,3 @@ reviewed: 8ce0b2721c01ac46aae27d55304d10225616b0b855f185c42360b0ef4fb97658
 source: xml
 outdated: false
 ---
-
-The left alt key.

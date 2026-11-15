@@ -13,5 +13,3 @@ reviewed: 1188da0a4e86cd97549eb08511e2787e88a998818939fa0333c2bea1a924aa30
 source: xml
 outdated: false
 ---
-
-Affected semantic port when known.

@@ -13,5 +13,3 @@ reviewed: 2ea42da93637b515b610a8219435a7a8fea92d9cf458067a73dbf15944879135
 source: xml
 outdated: false
 ---
-
-Gets or sets whether rendering must execute on the calling thread.

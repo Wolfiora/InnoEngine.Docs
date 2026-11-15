@@ -13,5 +13,3 @@ reviewed: 91cb1746c16a0705d4ca7a743715d40b3e9281e7505a40538b11b9b23db53431
 source: xml
 outdated: false
 ---
-
-Gets the backend-neutral interface binding domain.

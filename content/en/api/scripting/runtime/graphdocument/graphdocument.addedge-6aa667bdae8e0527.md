@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds an edge while preserving document order.
-
 ## Parameters
 
 **Parameter `edge`:** Edge record to add.

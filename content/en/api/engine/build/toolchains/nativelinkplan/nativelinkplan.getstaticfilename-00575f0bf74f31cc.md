@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats an explicitly declared logical archive using the selected platform format.
-
 ## Parameters
 
 **Parameter `logicalName`:** The component-owned logical archive name.

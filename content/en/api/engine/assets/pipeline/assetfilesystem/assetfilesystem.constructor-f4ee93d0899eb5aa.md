@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an indexed file system over isolated source mounts.
-
 ## Parameters
 
 **Parameter `mounts`:** Complete source mount snapshot.

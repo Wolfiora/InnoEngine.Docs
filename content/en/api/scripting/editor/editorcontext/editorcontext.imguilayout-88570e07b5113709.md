@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the Dear ImGui layout text without editor module or panel state sections.

@@ -13,5 +13,3 @@ reviewed: 45aa1eefaaf7969718b902609c6acf5bebe0e7f0efa13eedfca1d440994e98f9
 source: xml
 outdated: false
 ---
-
-Gets or sets externally supplied inputs.

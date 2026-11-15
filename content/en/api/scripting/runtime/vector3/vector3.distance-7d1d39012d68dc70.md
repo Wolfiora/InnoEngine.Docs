@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the Euclidean distance between two points.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

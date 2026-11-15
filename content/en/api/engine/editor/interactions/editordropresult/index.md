@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Describes the observable result of a completed editor drop.

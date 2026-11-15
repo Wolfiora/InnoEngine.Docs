@@ -13,5 +13,3 @@ reviewed: 0c8c01162b3bb6886f99dea6e1b2fb6f70a1a42e385987743c06f362b8d00882
 source: xml
 outdated: false
 ---
-
-Gets the current texture requirements.

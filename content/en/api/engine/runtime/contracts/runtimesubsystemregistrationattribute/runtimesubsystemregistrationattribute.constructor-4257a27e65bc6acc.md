@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares the stable ID returned by this method's subsystem factory.
-
 ## Parameters
 
 **Parameter `id`:** The exact non-empty subsystem descriptor ID.

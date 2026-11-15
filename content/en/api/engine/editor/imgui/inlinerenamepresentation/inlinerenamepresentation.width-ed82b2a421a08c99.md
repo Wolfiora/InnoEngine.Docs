@@ -13,5 +13,3 @@ reviewed: 3e378cc905502f036693c818271ae7045cccef08312bc85e01fc7f5c8a0e568a
 source: xml
 outdated: false
 ---
-
-Gets the requested input width in logical pixels.

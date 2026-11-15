@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one compute material pass through an open provider contract and role.
-
 ## Parameters
 
 **Parameter `material`:** Material asset to resolve.

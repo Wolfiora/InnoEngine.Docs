@@ -13,5 +13,3 @@ reviewed: 4b60623878300f42f9c467fe7f811a2bf71a72faabd926dabf54500b0d34fc7d
 source: xml
 outdated: false
 ---
-
-Allows the backend to discard rendered contents.

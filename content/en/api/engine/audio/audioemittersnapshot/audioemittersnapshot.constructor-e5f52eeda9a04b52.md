@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable emitter snapshot.
-
 ## Parameters
 
 **Parameter `id`:** Stable emitter identity across updates.

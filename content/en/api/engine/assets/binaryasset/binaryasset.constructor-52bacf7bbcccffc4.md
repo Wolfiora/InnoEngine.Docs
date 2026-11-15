@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a binary asset descriptor with a byte length.
-
 ## Parameters
 
 **Parameter `byteLength`:** Payload length in bytes.

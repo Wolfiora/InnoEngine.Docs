@@ -13,5 +13,3 @@ reviewed: d712f57bd855ec80b505729e3e2a8fed172950d470c64da491493696fbf2e4ea
 source: xml
 outdated: false
 ---
-
-Records one complete binding batch executed by the borrowed provider.

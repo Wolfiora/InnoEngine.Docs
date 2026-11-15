@@ -13,5 +13,3 @@ reviewed: 676b4b9e822164944516bee1965df9fc1246ca2db969795e0537edd06eacdacf
 source: xml
 outdated: false
 ---
-
-Draw a content highlight.

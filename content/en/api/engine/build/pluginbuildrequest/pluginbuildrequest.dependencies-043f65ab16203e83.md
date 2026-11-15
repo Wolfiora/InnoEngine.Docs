@@ -13,5 +13,3 @@ reviewed: 2af7b287f9f600552391dd2e33ea885a855be828804cc304fe5cb54a4225e6f7
 source: xml
 outdated: false
 ---
-
-Gets or initializes the installed plugins this package actually requires. Their transitive dependencies are included in the package manifest.

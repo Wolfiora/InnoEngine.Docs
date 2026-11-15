@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Drains the active Play session before the product tears down editor modules, history or presentation.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The session cannot retire within its deadline; the host is faulted and its dependencies must remain alive.

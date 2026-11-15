@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Observes committed Apply, Undo and Redo changes through an owned Core Event hub.
-
 ## Parameters
 
 **Parameter `observer`:** Synchronous callback reading the current committed settings; observer failures are logged and isolated.

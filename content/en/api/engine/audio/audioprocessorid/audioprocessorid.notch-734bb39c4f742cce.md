@@ -13,5 +13,3 @@ reviewed: 92820f5a82464240e03d664c412d0c8890a80f8ed95088812617f96a822869e9
 source: xml
 outdated: false
 ---
-
-Gets the standard notch filter processor identifier.

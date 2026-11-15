@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Bounds encoded packs, decoded entries, inventory size, and total expansion before any content is accepted.

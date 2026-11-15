@@ -13,5 +13,3 @@ reviewed: 01b6c91953af6f58f7f6c7772d18d50b8f77e18441065e4856912a995e06ab60
 source: xml
 outdated: false
 ---
-
-The right alt key.

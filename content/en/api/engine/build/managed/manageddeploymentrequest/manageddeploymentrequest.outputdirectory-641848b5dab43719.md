@@ -13,5 +13,3 @@ reviewed: 95f1706e2ca257d08a0f3a2e91c0d3c410a1ebac9b9c4be1afc4e3dfc53ab777
 source: xml
 outdated: false
 ---
-
-Gets the managed publication staging directory.

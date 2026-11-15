@@ -13,5 +13,3 @@ reviewed: fb65cbd3ad90c13497f6d22487bdac828554b59c167f66178f115e4e8736e791
 source: xml
 outdated: false
 ---
-
-Gets the absolute source path.

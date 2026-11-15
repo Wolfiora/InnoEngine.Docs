@@ -13,5 +13,3 @@ reviewed: 40ff022671fee07e489d65544dc26a9d8b28708f9ec8a6ea1fbd8f0c629a6900
 source: xml
 outdated: false
 ---
-
-The plus key.

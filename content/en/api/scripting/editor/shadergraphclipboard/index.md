@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Copies and pastes shader structures as detached atomic candidates, including their parameter and Pass contracts.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enqueues an operation that must run on the scheduler owner thread.
-
 ## Parameters
 
 **Parameter `action`:** The owner-thread operation.

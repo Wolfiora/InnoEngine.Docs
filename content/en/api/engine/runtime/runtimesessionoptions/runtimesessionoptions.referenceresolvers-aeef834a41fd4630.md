@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or initializes owner-provided resolvers included in this session's immutable reference catalog.
-
 ## Remarks
 
 A deployed `AssetDatabase` automatically contributes its asset resolver and must not be repeated here.

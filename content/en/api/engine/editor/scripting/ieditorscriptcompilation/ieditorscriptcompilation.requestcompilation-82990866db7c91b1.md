@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues a fresh cache-aware compilation for a build or simulation workflow.
-
 ## Returns
 
 A ticket bound to the exact request. Success requires activation and completed retirement verification; a faulted host returns a failed ticket and requires restart.

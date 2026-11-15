@@ -13,5 +13,3 @@ reviewed: e53722aad8e172b1f6b44f7bdbda672264a7484933b71c6e069251e8ccb12184
 source: xml
 outdated: false
 ---
-
-A standard GPU stage input identified by a target semantic, not native source text.

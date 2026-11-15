@@ -13,5 +13,3 @@ reviewed: 65dcdffd93c343e742f50dacfae1bfcf1f68266073e5b9d07cdf3860eada1c24
 source: xml
 outdated: false
 ---
-
-Two-component floating-point vector.

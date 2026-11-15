@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes managed drag data for the most recently submitted ImGui item.
-
 ## Parameters
 
 **Parameter `interaction`:** The interaction area and target that produced the drag source.

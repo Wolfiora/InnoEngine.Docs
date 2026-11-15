@@ -13,5 +13,3 @@ reviewed: 6324e539532d1e6e1b66c1136be40adaf1be17ab0edd31dc26ba6f60606e9c6c
 source: xml
 outdated: false
 ---
-
-Draws the complete editor frame through ImGui.

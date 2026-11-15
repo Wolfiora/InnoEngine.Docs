@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores persistent canvas navigation state with bounded zoom.
-
 ## Parameters
 
 **Parameter `pan`:** Graph-space pan offset.

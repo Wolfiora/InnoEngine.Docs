@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader property definition.
-
 ## Parameters
 
 **Parameter `id`:** Stable property identifier.

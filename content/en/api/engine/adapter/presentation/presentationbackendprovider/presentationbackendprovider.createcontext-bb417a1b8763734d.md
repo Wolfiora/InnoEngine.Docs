@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a new caller-owned presentation context over the supplied host resources.
-
 ## Parameters
 
 **Parameter `options`:** Externally owned platform and rendering resources, together with the requested presentation policy.

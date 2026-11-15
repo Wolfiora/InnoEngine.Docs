@@ -13,5 +13,3 @@ reviewed: c437b48a2ec7934a495f1dfd8695141f42adabde69542829a48a2982d68c15be
 source: xml
 outdated: false
 ---
-
-Selects the menu bar bg presentation behavior.

@@ -13,5 +13,3 @@ reviewed: 29e5ba0a4df9386917caa88c8c9095f6e2ecf597eac46d208447f79fe68839d7
 source: xml
 outdated: false
 ---
-
-Gets the compute workgroup Z size.

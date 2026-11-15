@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a floating-point drag field with a compact one-decimal presentation and precise text editing.
-
 ## Parameters
 
 **Parameter `label`:** Stable ImGui label and identifier.

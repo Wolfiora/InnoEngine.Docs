@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Uses the shared node compiler generation rather than retaining individual providers.
-
 ## Parameters
 
 **Parameter `nodes`:** The owner-scoped node registry.

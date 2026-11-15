@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a deadline that starts with the first retirement attempt.
-
 ## Parameters
 
 **Parameter `owner`:** A diagnostic name identifying the retained resource owner.

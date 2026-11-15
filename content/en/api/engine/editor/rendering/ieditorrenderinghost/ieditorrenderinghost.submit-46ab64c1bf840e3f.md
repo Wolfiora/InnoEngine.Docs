@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits or updates one composed offscreen editor viewport.
-
 ## Parameters
 
 **Parameter `composition`:** Complete ordered model composition for the current frame.

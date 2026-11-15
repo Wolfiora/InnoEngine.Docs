@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to queue an immutable entry, draining it inline when the host has no logging worker.
-
 ## Parameters
 
 **Parameter `entry`:** The message to accept under the current severity policy.

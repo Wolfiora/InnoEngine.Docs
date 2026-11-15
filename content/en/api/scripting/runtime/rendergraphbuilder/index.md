@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Builds one generation-scoped render graph from explicit passes and resources.

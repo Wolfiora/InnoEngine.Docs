@@ -13,5 +13,3 @@ reviewed: 0da10e666ee9d54c2ef77963a1cde248b11ba58eb345a7fdd39f8a44b6085dea
 source: xml
 outdated: false
 ---
-
-Requests diagnostics derived from the active host generation to be republished.

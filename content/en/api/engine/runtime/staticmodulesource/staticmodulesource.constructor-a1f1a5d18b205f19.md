@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a linked module's explicit assemblies and logical dependencies.
-
 ## Parameters
 
 **Parameter `moduleName`:** The stable logical module name.

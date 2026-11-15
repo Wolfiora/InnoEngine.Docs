@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a category-bound logger for one engine service or extension type.
-
 ## Type parameters
 
 **Type parameter `TOwner`:** The type whose assembly ownership and category identify emitted entries.

@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Describes the requested placement relative to an editor drop target.

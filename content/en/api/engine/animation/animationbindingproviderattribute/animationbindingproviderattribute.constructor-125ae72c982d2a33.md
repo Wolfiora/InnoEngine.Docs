@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares one provider and the value protocol it implements.
-
 ## Parameters
 
 **Parameter `id`:** Globally unique stable extension identifier.

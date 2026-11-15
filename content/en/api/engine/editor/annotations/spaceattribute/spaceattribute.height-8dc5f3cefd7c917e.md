@@ -13,5 +13,3 @@ reviewed: eed05c0446e0689598a2d063934fb7c6b32b2470567b65bdf9543e4637a4e53a
 source: xml
 outdated: false
 ---
-
-Gets the logical pixel height.

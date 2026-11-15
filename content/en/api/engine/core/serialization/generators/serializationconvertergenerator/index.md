@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization-generators#compilation-and-access-contract
 aliases: []
 ---
-
-Generates stateless serialization converters for explicitly annotated closed data-transfer types.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a canonical asset by logical path and keeps it resident until the lease is released.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required asset contract.

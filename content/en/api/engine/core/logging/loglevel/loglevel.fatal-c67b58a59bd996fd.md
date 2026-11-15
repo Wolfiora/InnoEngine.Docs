@@ -13,5 +13,3 @@ reviewed: 4ae45866c2587e944fbe0f53d0490c9268a171982198f8f39e6e663b1da3df9b
 source: xml
 outdated: false
 ---
-
-Fatal logs for unrecoverable failures.

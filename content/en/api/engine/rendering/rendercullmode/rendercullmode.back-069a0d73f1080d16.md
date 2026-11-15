@@ -13,5 +13,3 @@ reviewed: a294ca427a3a258cf0c0204293711870745c4fa225877070129f6c74338bab2b
 source: xml
 outdated: false
 ---
-
-Culls back-facing triangles.

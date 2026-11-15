@@ -13,5 +13,3 @@ reviewed: ad2e9adbc9e17a96148c20cfa03479c5d9855524971d0fce356d219b54e635d1
 source: xml
 outdated: false
 ---
-
-Identifies the Semicolon presentation key or modifier.

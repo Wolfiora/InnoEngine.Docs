@@ -13,5 +13,3 @@ reviewed: d07aa387237b6f5b96288426e70096df34cb2811731b98aff8f16f0e64c9b345
 source: xml
 outdated: false
 ---
-
-IsWindowHovered() only: Consider docking hierarchy (treat dockspace host as parent of docked window) (when used with \_ChildWindows or \_RootWindow)

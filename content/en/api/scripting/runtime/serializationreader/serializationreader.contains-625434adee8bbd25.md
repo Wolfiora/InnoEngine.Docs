@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the current object contains a named member.
-
 ## Parameters
 
 **Parameter `name`:** The member name.

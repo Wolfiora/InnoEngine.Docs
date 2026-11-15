@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable modal presentation snapshot.
-
 ## Parameters
 
 **Parameter `isVisible`:** Whether the modal should currently be visible.

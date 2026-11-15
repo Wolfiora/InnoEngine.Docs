@@ -13,5 +13,3 @@ reviewed: 01b7076e39cc7ac15ee78d468aa386a7920df8936e8e222358ee2b05432964f7
 source: xml
 outdated: false
 ---
-
-Gets whether this scene is currently owned by `T:Inno.Scene.SceneManager`.

@@ -13,5 +13,3 @@ reviewed: 395f68a8d641493bb50dd7c25416c78c571acb9dad2b315a778910b69a2ffb18
 source: xml
 outdated: false
 ---
-
-Gets the width and height derived from the rectangle bounds.

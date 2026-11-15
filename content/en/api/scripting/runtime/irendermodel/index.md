@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Builds view requests from host output sessions without owning a host window.

@@ -13,5 +13,3 @@ reviewed: 1206662e5070f844873a1c3773d1d12e6199fad19aecfd817255754589c2ac46
 source: xml
 outdated: false
 ---
-
-Gets the duration after which an attempt starts no further retirement work. An already executing filesystem operation finishes before ownership is released.

@@ -13,5 +13,3 @@ reviewed: 0f28c240c554d0317f2bd58093f3c1df271619ce7b879fe072ea4a32fc9f83df
 source: xml
 outdated: false
 ---
-
-Gets whether a history transaction is active for the current gesture.

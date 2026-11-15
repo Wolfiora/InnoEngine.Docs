@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retains a verified output before its owner permits cache collection.
-
 ## Parameters
 
 **Parameter `artifact`:** Verified immutable metadata; the provider must serialize acquisition with collection.

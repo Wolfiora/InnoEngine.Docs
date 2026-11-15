@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes a new serializable root object from deterministic binary data.
-
 ## Type parameters
 
 **Type parameter `T`:** The concrete root type to create.

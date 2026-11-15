@@ -13,5 +13,3 @@ reviewed: 33855b92eef759cbed6454f76ce9967f8bc5993a93716f2cebc6a8ce1ecbb12d
 source: xml
 outdated: false
 ---
-
-Gets the index representation when this is an index buffer.

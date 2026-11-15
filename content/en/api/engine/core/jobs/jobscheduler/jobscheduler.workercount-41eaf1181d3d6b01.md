@@ -13,5 +13,3 @@ reviewed: 59493bf959635b248c81e7329394cff8cdfdab374e04a06df20ec55d56f5f6b3
 source: xml
 outdated: false
 ---
-
-Gets the number of background workers owned by this scheduler.

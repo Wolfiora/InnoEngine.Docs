@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-types
 aliases: []
 ---
-
-Reports one or more failures encountered while building a type-cache snapshot.

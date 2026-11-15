@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Defines which side of the asset pipeline an `T:Inno.Assets.Pipeline.AssetPipeline` instance serves.

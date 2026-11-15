@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enumerates regular files in an owned tree without following filesystem links.
-
 ## Parameters
 
 **Parameter `root`:** The existing physical root whose files and subdirectories belong to the caller.

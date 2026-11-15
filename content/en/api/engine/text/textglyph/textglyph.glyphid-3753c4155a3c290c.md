@@ -13,5 +13,3 @@ reviewed: 85c5aa2516fcb94a8f55db68acbad170daeecc8c499862a561344bbf592a101e
 source: xml
 outdated: false
 ---
-
-The glyph identifier in the font face that produced this layout.

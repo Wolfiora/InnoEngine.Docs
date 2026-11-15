@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates one native project settings document without changing active state.
-
 ## Parameters
 
 **Parameter `document`:** Native project settings bytes.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Writes a structured object during the active serialization operation.

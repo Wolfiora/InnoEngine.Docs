@@ -13,5 +13,3 @@ reviewed: 028c1b5e04271f7916deb3f3184e61ecca46ec12e3e0e006aa21a6f33cdd7c3d
 source: xml
 outdated: false
 ---
-
-Selects the no direct resize presentation behavior.

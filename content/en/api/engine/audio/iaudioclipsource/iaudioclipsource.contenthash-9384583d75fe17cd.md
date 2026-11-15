@@ -13,5 +13,3 @@ reviewed: 885a72d26b9ef7ebc6e1dc8201db06377fa069a84f8081bf8bff9c9768cbb678
 source: xml
 outdated: false
 ---
-
-Gets the SHA-256 identity of the complete encoded bytes.

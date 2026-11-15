@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a registered object by its persistent identity.
-
 ## Type parameters
 
 **Type parameter `TIdentity`:** The required identity object contract.

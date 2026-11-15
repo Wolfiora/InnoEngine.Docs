@@ -13,5 +13,3 @@ reviewed: 202613b5a0fa589446cb007a587ff19949a5b151349a0de52c60976246ba4ded
 source: xml
 outdated: false
 ---
-
-Max ~4 items visible. Tip: If you want your combo popup to be a specific size you can use SetNextWindowSizeConstraints() prior to calling BeginCombo()

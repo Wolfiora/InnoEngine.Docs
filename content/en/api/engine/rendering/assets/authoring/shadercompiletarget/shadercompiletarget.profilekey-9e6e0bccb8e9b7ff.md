@@ -13,5 +13,3 @@ reviewed: 43af352789b84ff14131c3acd6f225f54d3c436dfb41297dc42c904845d7182e
 source: xml
 outdated: false
 ---
-
-Gets the backend compiler-owned stable profile key.

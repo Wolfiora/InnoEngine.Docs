@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reports a frontend problem without retaining a language-specific exception or parser.
-
 ## Parameters
 
 **Parameter `code`:** Stable diagnostic code.

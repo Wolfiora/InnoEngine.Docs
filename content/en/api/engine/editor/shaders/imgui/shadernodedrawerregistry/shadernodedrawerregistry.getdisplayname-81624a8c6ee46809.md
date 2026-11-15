@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an optional artist-facing name without executing a drawer or retaining its generation.
-
 ## Parameters
 
 **Parameter `definitionId`:** Stable compiler-independent node identity.

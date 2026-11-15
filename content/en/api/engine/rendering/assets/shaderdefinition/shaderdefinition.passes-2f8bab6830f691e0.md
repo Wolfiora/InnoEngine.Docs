@@ -13,5 +13,3 @@ reviewed: 5a1e4c145cd4fe2aec99e1c0168e5d6afc90dc0abebce4f3cf388a1f7fdec6af
 source: xml
 outdated: false
 ---
-
-Gets or sets backend-neutral pass declarations.

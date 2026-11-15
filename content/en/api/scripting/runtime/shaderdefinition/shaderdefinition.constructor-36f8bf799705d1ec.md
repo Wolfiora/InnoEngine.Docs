@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader definition.
-
 ## Parameters
 
 **Parameter `name`:** Artist-facing shader name.

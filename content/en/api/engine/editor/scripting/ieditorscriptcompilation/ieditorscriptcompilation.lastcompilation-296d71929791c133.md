@@ -13,5 +13,3 @@ reviewed: 5ffbafc975198329067bbb688dabdf8ed277efa47a9a5788e1d390d6661adc46
 source: xml
 outdated: false
 ---
-
-Gets the most recently completed compilation, or `null` before the first attempt completes.

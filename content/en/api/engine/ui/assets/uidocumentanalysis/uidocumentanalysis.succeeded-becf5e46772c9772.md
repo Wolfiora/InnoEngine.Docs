@@ -13,5 +13,3 @@ reviewed: d77989dcb268b08e5c870700adab1fd74572cd99f784f2d40e9ad3106dda7d76
 source: xml
 outdated: false
 ---
-
-Gets whether the frontend accepted the source.

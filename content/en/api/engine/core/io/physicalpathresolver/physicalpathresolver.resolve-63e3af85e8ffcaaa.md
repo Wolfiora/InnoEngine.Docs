@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves existing link components and retains their observed physical spelling for this phase.
-
 ## Parameters
 
 **Parameter `path`:** The file or directory to inspect; relative paths use the current working directory.

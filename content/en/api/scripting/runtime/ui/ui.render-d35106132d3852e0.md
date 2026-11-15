@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Builds an immutable frame of incremental resources and ordered draws.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

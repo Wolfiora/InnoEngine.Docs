@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a horizontal-tangent connection using the same curve used for hit testing.
-
 ## Parameters
 
 **Parameter `draw`:** The current window's frame-local drawing borrow; it is neither retained nor released by this call.

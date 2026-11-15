@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one capability-compatible pass.
-
 ## Parameters
 
 **Parameter `material`:** Material whose shader and technique should be queried.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a required ordered array of structured objects.
-
 ## Parameters
 
 **Parameter `name`:** The required member name.

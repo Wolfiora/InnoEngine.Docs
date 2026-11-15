@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes an edge by stable identifier.
-
 ## Parameters
 
 **Parameter `edgeId`:** Edge identifier to remove.

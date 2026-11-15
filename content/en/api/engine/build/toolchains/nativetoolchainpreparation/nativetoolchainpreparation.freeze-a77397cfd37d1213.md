@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes a provider's complete tool selection before product staging.
-
 ## Parameters
 
 **Parameter `targetId`:** The explicit requested target.

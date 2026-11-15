@@ -13,5 +13,3 @@ reviewed: 07532757c904d4685a116a31206939d1f768f0281dfa9f14ef073c9791ff1b2d
 source: xml
 outdated: false
 ---
-
-Gets the dependency scope used for assemblies without an explicit scope override.

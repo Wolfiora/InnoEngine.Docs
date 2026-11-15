@@ -13,5 +13,3 @@ reviewed: 2b14347f31d34017a1783201213eded56bfec21420c57846d6a526bb399ac8cc
 source: xml
 outdated: false
 ---
-
-Gets the stable provider identity used to recover across extension reload.

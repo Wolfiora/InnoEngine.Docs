@@ -13,5 +13,3 @@ reviewed: 0b3cd9d5fdc02dce7c2c2f8bff848afb36097be03f34d0b82a969ce11b13de3b
 source: xml
 outdated: false
 ---
-
-Gets the key code for this keyboard event.

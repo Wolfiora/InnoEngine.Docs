@@ -13,5 +13,3 @@ reviewed: 3b5e20cc92cef76494b2b89f2d2d1c30f0b2ef7065b07116f9548289d0d1ce6a
 source: xml
 outdated: false
 ---
-
-Gets the authoritative asset catalog used by source-aware inspectors.

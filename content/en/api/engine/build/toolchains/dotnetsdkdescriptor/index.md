@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes the host, SDK identity and managed CLI entry selected by one managed entry project.

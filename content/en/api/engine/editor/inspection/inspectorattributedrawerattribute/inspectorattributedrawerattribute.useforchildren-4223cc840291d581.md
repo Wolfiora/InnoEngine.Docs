@@ -13,5 +13,3 @@ reviewed: 9426fc1f0e2d69c55949c1896510ae818cd45dbaca2bda9bb153cc5f2b78a015
 source: xml
 outdated: false
 ---
-
-Gets whether derived attribute types are accepted.

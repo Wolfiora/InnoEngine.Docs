@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies an explicitly typed binary arithmetic or scalar comparison operation.
-
 ## Parameters
 
 **Parameter `operation`:** Add, Subtract, Multiply, Divide, Minimum, Maximum, Equal or LessThan.

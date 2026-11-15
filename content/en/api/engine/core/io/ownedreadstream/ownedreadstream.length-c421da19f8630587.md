@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-When overridden in a derived class, gets the length in bytes of the stream.
-
 ## Exceptions
 
 **Exception `T:System.NotSupportedException`:** A class derived from `Stream` does not support seeking and the length is unknown.

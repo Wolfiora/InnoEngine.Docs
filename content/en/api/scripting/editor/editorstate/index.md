@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides the serialization-neutral parameter used to capture or restore one editor extension's project state.
-
 ## Remarks
 
 The editor supplies this object to the protected state hooks on `T:InnoEditor.Core.EditorModule` and `T:InnoEditor.Core.EditorPanel`. Extensions should write values during capture and read values during restore; storage format and persistence remain private runtime details.

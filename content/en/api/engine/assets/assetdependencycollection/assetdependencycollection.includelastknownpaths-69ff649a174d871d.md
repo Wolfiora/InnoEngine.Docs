@@ -13,5 +13,3 @@ reviewed: 0211da3c9efa46c659404aadd42f89da1b80064ed66f04472880906297970fd3
 source: xml
 outdated: false
 ---
-
-Gets whether serialized asset references and collected dependencies retain source path hints.

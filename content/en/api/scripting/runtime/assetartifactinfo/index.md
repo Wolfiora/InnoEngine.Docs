@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Describes one named output in an immutable artifact bundle.

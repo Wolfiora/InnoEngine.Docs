@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the callback that draws controls fixed to the current viewport without extending the tree's horizontal content boundary.

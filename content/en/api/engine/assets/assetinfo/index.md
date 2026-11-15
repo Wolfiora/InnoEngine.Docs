@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Provides an immutable public snapshot of one cataloged asset.

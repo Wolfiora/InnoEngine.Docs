@@ -13,5 +13,3 @@ reviewed: be0af2072d5103ba59f9a689ab6c4e3de041fdd840887d3b49482dc724bf6e7d
 source: xml
 outdated: false
 ---
-
-Gets the referenced stable texture slot.

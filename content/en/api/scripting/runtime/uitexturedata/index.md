@@ -18,5 +18,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Contains immutable RGBA8 texture pixels addressable by a document source name.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get the manipulation space from the selected controller's latest contribution.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

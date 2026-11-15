@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores independently captured properties into an existing object.
-
 ## Parameters
 
 **Parameter `target`:** The object receiving compatible property values.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads the saved settings or returns an isolated copy of the canonical defaults.
-
 ## Returns
 
 A newly owned settings object.

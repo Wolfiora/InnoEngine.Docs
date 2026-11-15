@@ -13,5 +13,3 @@ reviewed: c2b77461326958ddeeb0577c78b30e46702fa6fb18287024089740ea07d91159
 source: xml
 outdated: false
 ---
-
-Gets or initializes the fixed simulation interval in seconds.

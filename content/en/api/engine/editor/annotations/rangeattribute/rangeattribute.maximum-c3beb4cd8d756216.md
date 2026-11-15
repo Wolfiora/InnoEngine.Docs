@@ -13,5 +13,3 @@ reviewed: cb81ae525c14f000edcd3d2134a3aa2044591d29ac337284b604199d1a878a8d
 source: xml
 outdated: false
 ---
-
-Gets the inclusive upper bound.

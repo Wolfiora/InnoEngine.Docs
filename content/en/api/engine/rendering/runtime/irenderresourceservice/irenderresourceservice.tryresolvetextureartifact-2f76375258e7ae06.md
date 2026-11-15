@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one imported artifact texture into a persistent sampled texture.
-
 ## Parameters
 
 **Parameter `texture`:** Stable texture artifact reference.

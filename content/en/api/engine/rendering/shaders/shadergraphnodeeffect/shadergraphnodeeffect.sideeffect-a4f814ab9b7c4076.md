@@ -13,5 +13,3 @@ reviewed: 93da697f5aeb87266b5f90cb4a60fc9ede7bdc5809fb49d9922f3abe1b14adb3
 source: xml
 outdated: false
 ---
-
-The function may contain ordered GPU effects and can intentionally expose no returned values.

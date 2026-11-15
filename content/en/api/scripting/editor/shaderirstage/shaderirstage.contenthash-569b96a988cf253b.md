@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a deterministic hash of stage semantics, ordered effects, nested regions, complete types, resource layout and frozen sources. A compiled artifact cache must additionally include toolchain identity, target capabilities, optimization and variant configuration.

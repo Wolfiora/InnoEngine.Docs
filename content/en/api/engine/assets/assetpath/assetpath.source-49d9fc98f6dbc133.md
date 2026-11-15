@@ -13,5 +13,3 @@ reviewed: 1274a31e390ef76b6f4af1a63bb0aaefdbe5822d2a3ad7e5a80f96486ce1d857
 source: xml
 outdated: false
 ---
-
-Gets or sets the owning source mount.

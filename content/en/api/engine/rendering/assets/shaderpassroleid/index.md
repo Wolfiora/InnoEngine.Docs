@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Identifies an open pass purpose defined by a rendering provider.

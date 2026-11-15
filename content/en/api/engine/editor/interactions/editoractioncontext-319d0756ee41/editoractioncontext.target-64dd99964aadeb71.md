@@ -13,5 +13,3 @@ reviewed: 2783aca3aabd2fd73adb83fd481e136e018177dfca2c839f3bee47da7f791294
 source: xml
 outdated: false
 ---
-
-Gets the strongly typed action target.

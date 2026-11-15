@@ -13,5 +13,3 @@ reviewed: e536648c3d274cd806f861ad7f7d6b4fda5f43606c1bfcea4d87ed6d4b79bc9f
 source: xml
 outdated: false
 ---
-
-Gets the root currently displayed by the Asset Browser.

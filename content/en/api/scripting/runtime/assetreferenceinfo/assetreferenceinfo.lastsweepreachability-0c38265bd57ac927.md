@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether an external managed reference was found by the previous unused-asset sweep, or `null` when no sweep has inspected this asset.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 aliases: []
 ---
-
-Registers supported build hosts without duplicating their execution facts.

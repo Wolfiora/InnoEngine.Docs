@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stages a dependency-ordered set of module additions or replacements as one atomic transaction. Existing modules are matched by their stable module names; an unknown name creates a new module.
-
 ## Parameters
 
 **Parameter `requests`:** The complete reverse-dependency reload closure.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Directs this pass to a persistent presentation surface instead of the primary backbuffer.
-
 ## Parameters
 
 **Parameter `surface`:** Surface owned by the active graphics-device generation.

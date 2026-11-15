@@ -13,5 +13,3 @@ reviewed: 1cfd8a7bf502fb56d26403b9f03a917246023cd0a321de0f5dedbd845dbac30d
 source: xml
 outdated: false
 ---
-
-Gets the compute workgroup X size.

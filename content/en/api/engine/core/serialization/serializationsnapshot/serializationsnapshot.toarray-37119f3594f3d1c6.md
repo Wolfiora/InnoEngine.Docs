@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes this capture using the same deterministic binary format as ordinary serialization.
-
 ## Returns
 
 A new caller-owned byte array; changing it cannot modify this snapshot.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a configured script assembly definition for native asset export.
-
 ## Parameters
 
 **Parameter `assemblyName`:** Stable managed assembly name.

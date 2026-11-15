@@ -13,5 +13,3 @@ reviewed: 79b5bf3991c2b9afb5e99535d62fa16c70d54f482bf158e7aa2143ce4be25a7e
 source: xml
 outdated: false
 ---
-
-Gets the declared native fragment's source root, or null when the recipe only consumes its other inputs.

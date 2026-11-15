@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 aliases: []
 ---
-
-Base class for mouse events.

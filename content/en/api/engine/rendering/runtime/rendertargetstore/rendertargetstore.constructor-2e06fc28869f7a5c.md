@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a target registry for one device generation.
-
 ## Parameters
 
 **Parameter `device`:** Device that owns persistent target resources.

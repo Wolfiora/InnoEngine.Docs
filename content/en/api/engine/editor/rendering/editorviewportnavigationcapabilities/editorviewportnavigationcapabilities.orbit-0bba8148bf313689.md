@@ -13,5 +13,3 @@ reviewed: 453d553fd6c5ca33aa72fe8713f6628cbf44ff99360be83bdd81ff6b26b0eb4f
 source: xml
 outdated: false
 ---
-
-Allows pivot-oriented orbit and dolly.

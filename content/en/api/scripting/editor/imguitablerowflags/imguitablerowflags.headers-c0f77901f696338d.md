@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Identify header row (set default background color + width of its contents accounted differently for auto column width)

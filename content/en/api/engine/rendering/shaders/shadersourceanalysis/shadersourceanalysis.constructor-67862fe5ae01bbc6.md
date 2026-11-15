@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a completed analysis without retaining compiler objects.
-
 ## Parameters
 
 **Parameter `function`:** Parsed interface, or null when parsing failed.

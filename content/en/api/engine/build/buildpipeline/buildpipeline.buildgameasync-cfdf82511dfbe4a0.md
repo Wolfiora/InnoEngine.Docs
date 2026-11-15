@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds and installs one complete source-free game deployment with rollback protection.
-
 ## Remarks
 
 Prepare current packs with EnsurePlayerSupportPackAsync before invoking this method on the authoring owner's thread. The synchronous snapshot phase never waits for asynchronous provisioning. Coordinate readers and writers of the output directory during its two installation moves. Post-commit backup, staging and progress observer failures are warnings on the successful result.

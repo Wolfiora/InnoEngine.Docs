@@ -13,5 +13,3 @@ reviewed: 4b06c6c6f657ef71934e00a8d8e09b5414718a4db2339608270106274ce2d855
 source: xml
 outdated: false
 ---
-
-Gets the persistent target header background.

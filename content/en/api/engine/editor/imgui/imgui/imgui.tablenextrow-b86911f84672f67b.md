@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances to the next table row.
-
 ## Parameters
 
 **Parameter `flags`:** Row presentation flags.

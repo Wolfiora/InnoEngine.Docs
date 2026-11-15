@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one ordered mesh draw.
-
 ## Parameters
 
 **Parameter `command`:** Draw command referencing an assigned mesh.

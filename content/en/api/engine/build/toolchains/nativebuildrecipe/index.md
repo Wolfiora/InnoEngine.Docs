@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes a component's input closure, ordered tool selection and intermediate owner.

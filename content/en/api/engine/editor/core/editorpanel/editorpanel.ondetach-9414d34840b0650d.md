@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs before the panel is detached from its active extension generation.
-
 ## Remarks
 
 This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.

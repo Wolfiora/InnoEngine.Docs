@@ -13,5 +13,3 @@ reviewed: dd3d253c9d7dd89b6a048f893080295658013214e01c3750758ebc735f4ae148
 source: xml
 outdated: false
 ---
-
-Gets the encoded pack budget.

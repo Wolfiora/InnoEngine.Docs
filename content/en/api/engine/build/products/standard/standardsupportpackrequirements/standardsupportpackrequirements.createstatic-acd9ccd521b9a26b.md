@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares the complete standard Player inputs for the selected linkage.
-
 ## Parameters
 
 **Parameter `plan`:** The platform-configured component graph.

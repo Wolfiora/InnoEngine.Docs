@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets a 32-bit unsigned integer property.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Stores immutable options used to begin one animation playback.

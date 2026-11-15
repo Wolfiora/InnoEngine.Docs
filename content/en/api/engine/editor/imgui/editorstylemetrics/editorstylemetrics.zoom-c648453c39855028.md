@@ -13,5 +13,3 @@ reviewed: 64200026584ae70c0b578a7ecd173e87abfd4bcf2bf20bcaf94cafa96e325576
 source: xml
 outdated: false
 ---
-
-Gets the effective zoom used by the current presentation frame.

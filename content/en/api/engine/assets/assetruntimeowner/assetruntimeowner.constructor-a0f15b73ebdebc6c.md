@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates exclusive mutation authority with optional owner-bound extension state restoration.
-
 ## Parameters
 
 **Parameter `properties`:** Owner resolver, weakly referenced so stale assets cannot retain a retired database.

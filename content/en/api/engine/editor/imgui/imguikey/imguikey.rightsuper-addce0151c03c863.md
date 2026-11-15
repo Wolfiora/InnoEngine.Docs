@@ -13,5 +13,3 @@ reviewed: 4274bab9fbc274b548bf62b9274de2455732193c9c99d794eeb62e96af14a568
 source: xml
 outdated: false
 ---
-
-Identifies the RightSuper presentation key or modifier.

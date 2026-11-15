@@ -13,5 +13,3 @@ reviewed: 3af67fc100328495d85bbebd9ef6b4b408d093d642e964bd061fd6ce85386b5c
 source: xml
 outdated: false
 ---
-
-Gets the content fingerprint covering sources, tool executables and toolchain declarations.

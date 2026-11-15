@@ -13,5 +13,3 @@ reviewed: 7beff515453f435602194307e753bb2caea83a6f36e108ba2d8ebc4d5e0e4357
 source: xml
 outdated: false
 ---
-
-The V letter key.

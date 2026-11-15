@@ -13,5 +13,3 @@ reviewed: d00bb977f519dcbb8b66f81245f7531f621931673720706e63e947078c57c31c
 source: xml
 outdated: false
 ---
-
-Gets immutable target binary data, empty on failure.

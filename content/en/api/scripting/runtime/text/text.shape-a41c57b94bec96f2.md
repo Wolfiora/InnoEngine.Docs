@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Shapes text with explicit language, script, and direction hints.
-
 ## Parameters
 
 **Parameter `font`:** The imported font source.

@@ -13,5 +13,3 @@ reviewed: bd1e39f396fa0d3d69f10f2cf3f1ae50a02bdc20dcb30e5515759509258d67b5
 source: xml
 outdated: false
 ---
-
-The 9 key on the primary keyboard row.

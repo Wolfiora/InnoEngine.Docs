@@ -13,5 +13,3 @@ reviewed: 6a335524ff148c1ee3dac7844828cfe047ded679de4a41f118a47a8843fb4b7a
 source: xml
 outdated: false
 ---
-
-Gets a new empty operation scope owned by the caller.

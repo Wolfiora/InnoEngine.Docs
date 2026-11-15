@@ -13,5 +13,3 @@ reviewed: 3bf6ab3b225864f7d0b944bd4e3fb379ca3c4377926467952374f14026a082ab
 source: xml
 outdated: false
 ---
-
-The scroll lock key.

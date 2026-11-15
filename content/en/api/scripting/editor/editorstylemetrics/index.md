@@ -103,8 +103,6 @@ aliases:
 - api.inno.editor.imgui.editor-script.eabc7ff2d9bbf5fc
 ---
 
-Defines reusable layout metrics and separates owned frame values from requested style changes.
-
 ## Remarks
 
 Standalone instances apply changes immediately. Session-owned instances defer changes requested during native drawing until the next style preparation. They are mutable only on the owner thread and must not be modified after their session retires.

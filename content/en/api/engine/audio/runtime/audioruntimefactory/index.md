@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []
 ---
-
-Creates one audio lifecycle feature for every isolated runtime session.

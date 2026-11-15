@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies a persistent presentation surface without exposing a backend framebuffer or swapchain handle.

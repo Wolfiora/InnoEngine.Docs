@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []
 ---
-
-Represents a rotation as a normalized four-component quaternion.

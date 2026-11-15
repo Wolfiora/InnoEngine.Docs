@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Resolves one platform's SDK for an explicit target on a declared tool execution host.

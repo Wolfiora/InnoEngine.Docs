@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes only the local vertical layout cursor.
-
 ## Parameters
 
 **Parameter `position`:** The requested coordinate in UI units.

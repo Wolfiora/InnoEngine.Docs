@@ -13,5 +13,3 @@ reviewed: 187ea5646ff0a2df0f55435587f6233b22fa8abae61adffd88bed3260edfb7fc
 source: xml
 outdated: false
 ---
-
-Gets active persistent buffers, textures, pipelines, material programs and geometry pairs.

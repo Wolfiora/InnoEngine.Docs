@@ -13,5 +13,3 @@ reviewed: 2283181e56d3ccb9258e9f8037d2aa2cd5598ca26c05a8fd1098e47314a373ef
 source: xml
 outdated: false
 ---
-
-Gets the camera glyph used by standard Editor controls.

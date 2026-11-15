@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Returns validated text without retaining parser or implementation objects.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Identifies a port within its owning node definition.

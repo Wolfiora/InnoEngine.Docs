@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Describes one indexed range in resolved backend-neutral geometry.

@@ -13,5 +13,3 @@ reviewed: decb1d45e339e393050598008d8960cdd484ee88a6160171b1b09ddacf48fc22
 source: xml
 outdated: false
 ---
-
-Gets whether the key is empty.

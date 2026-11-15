@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an object contains the same reference kind identifier.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this value.

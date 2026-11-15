@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores data into an existing value.
-
 ## Parameters
 
 **Parameter `reader`:** The operation-scoped reader.

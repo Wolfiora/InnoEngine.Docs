@@ -13,5 +13,3 @@ reviewed: 07912dbef9a63a9b0608527447342c69295773e6416b4aa2a12464dd6ecfb6b5
 source: xml
 outdated: false
 ---
-
-Selects the root and child windows presentation behavior.

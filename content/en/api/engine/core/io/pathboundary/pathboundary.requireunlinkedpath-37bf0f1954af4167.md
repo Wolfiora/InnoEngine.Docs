@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an owned path while rejecting existing links in its containment chain.
-
 ## Parameters
 
 **Parameter `root`:** The trusted ownership root, which may not exist yet.

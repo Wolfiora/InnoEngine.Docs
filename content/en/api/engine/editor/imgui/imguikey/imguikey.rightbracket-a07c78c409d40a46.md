@@ -13,5 +13,3 @@ reviewed: 3611b7caede82c9a465e5ccd6273e52cbf427c9f6bbf81276d181ae6599e6923
 source: xml
 outdated: false
 ---
-
-Identifies the RightBracket presentation key or modifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reports whether a platform window can present visible content.
-
 ## Parameters
 
 **Parameter `windowId`:** The application-local identity of the affected window.

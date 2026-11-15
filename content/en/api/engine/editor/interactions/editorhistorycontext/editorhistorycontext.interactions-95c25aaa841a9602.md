@@ -13,5 +13,3 @@ reviewed: 0c16879e8c19231f1e11a6721fd437ff4850441e1d9edb5a1e8dd4e91b0380d9
 source: xml
 outdated: false
 ---
-
-Gets the active interaction entry point used for selection and feature coordination.

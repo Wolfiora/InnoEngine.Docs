@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Executes component-owned CMake definitions using an already frozen target SDK selection.

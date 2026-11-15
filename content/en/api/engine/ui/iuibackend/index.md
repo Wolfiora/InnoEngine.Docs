@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Defines the replaceable document, layout, input, and draw-geometry backend boundary.

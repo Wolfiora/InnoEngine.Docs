@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Carries the immutable inputs required to execute one shader source request.

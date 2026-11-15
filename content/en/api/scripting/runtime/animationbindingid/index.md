@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Identifies one backend-neutral value destination inside an animation binding scope.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Prepares current checkout and SDK inputs and selects a verified, immutable Player Support Pack.

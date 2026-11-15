@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-generators
 aliases: []
 ---
-
-Emits a local, explicit type and construction catalog for statically deployed managed assemblies.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the stable ordered runtime-visible properties for a serializable object.
-
 ## Parameters
 
 **Parameter `value`:** The object whose property metadata should be created.

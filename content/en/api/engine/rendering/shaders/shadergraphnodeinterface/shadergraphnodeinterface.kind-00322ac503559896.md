@@ -13,5 +13,3 @@ reviewed: b76100a163f6d5a35d9409e9e5a963883e179b7c9e64143a570850d8ddfbbccd
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the graph is inline computation or a Target-owned output boundary.

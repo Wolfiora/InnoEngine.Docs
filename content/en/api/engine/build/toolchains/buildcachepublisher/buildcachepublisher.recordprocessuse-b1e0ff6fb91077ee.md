@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a process-owned loader directory and its dependencies before returning it to a loader. Retirement preserves the directory until every recorded process has exited. Repeated registrations retain the complete dependency closure of that process-owned operation.
-
 ## Parameters
 
 **Parameter `directory`:** The completed directory within this publisher's boundary.

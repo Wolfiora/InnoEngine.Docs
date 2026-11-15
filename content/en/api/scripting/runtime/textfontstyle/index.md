@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Selects the typographic slant requested from a font face.

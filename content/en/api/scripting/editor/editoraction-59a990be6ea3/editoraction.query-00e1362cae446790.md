@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates the action for a typed target and argument.
-
 ## Parameters
 
 **Parameter `context`:** The typed contextual request.

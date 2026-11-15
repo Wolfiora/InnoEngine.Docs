@@ -13,5 +13,3 @@ reviewed: b9a4822a7f993704f04af6288b68042b1a5f57d3b420d0d9e056bfbfc9e749eb
 source: xml
 outdated: false
 ---
-
-Gets whether interface analysis succeeded; native compilation is a separate gate.

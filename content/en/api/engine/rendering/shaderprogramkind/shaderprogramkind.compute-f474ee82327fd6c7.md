@@ -13,5 +13,3 @@ reviewed: 475fc9f8956b3048a9ff71e2200dd0eeac31eefb1f59e2c23f20a13b6e25c5e2
 source: xml
 outdated: false
 ---
-
-A compute stage used by a compute pass.

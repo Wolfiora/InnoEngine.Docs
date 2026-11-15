@@ -13,5 +13,3 @@ reviewed: 8beab1f78eb53a29be935dc2ae6158570f4920e7f9959080ca18522f76f17ef3
 source: xml
 outdated: false
 ---
-
-Enable auto-resizing height. Read "IMPORTANT: Size measurement" details above.

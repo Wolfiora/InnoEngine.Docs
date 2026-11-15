@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Describes one dynamically or statically resolved node port.

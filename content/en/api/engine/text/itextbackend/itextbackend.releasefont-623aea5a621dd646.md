@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases one loaded face.
-
 ## Parameters
 
 **Parameter `font`:** The face handle to release.

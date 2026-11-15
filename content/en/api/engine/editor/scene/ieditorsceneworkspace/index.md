@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Exposes the active Edit or Play scene presentation and the persistence operations available to it.

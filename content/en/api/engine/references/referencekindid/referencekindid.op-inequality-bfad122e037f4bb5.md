@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two reference kind identifiers are different.
-
 ## Parameters
 
 **Parameter `left`:** The first identifier.

@@ -13,5 +13,3 @@ reviewed: 0bf98bfdb6d9851aa6ced383e61ad454c5361de1c263956faacb0958440f4cda
 source: xml
 outdated: false
 ---
-
-Gets the visible node label.

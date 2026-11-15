@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits draws described by consecutive commands in an indirect buffer.
-
 ## Parameters
 
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.

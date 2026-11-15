@@ -13,5 +13,3 @@ reviewed: 736cf59d25086ecd96bd5ac050a59786df780701fc54c2dea292e128319b210e
 source: xml
 outdated: false
 ---
-
-Gets the hovered frame background.

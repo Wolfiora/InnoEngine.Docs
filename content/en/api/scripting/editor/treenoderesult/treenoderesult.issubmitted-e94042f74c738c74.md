@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether row controls were submitted; ordinary clipped rows are false, while preserved active edits remain true.

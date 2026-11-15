@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Contains one immutable, source-free shader artifact ready for runtime GPU resource creation.

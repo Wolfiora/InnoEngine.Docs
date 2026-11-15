@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes the current report for one diagnostic source.
-
 ## Parameters
 
 **Parameter `source`:** The source whose current report was cleared.

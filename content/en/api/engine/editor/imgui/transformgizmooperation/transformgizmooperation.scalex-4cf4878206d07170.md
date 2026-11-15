@@ -13,5 +13,3 @@ reviewed: c6cdb4212a7e19e34d8e3572b3905c6967db215a56eeb97ed7e206f067decee0
 source: xml
 outdated: false
 ---
-
-Renders the X scale handle.

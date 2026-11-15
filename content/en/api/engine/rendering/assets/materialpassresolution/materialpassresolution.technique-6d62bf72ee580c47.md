@@ -13,5 +13,3 @@ reviewed: 74124f55e70a873d26b88971e268c1c5607e310a49e2cfc96c0ff8fd333b794a
 source: xml
 outdated: false
 ---
-
-Gets the selected technique with detached role mapping storage.

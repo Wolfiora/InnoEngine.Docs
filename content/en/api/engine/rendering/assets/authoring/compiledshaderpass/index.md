@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Stores all compiled stages and state for one shader pass.

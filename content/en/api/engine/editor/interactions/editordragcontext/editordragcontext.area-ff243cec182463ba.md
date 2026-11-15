@@ -13,5 +13,3 @@ reviewed: c41583eccc71a898b57b4b091cca8ad39c95d2c84fb1fb96adc2b734e9512c42
 source: xml
 outdated: false
 ---
-
-Gets the source interaction area.

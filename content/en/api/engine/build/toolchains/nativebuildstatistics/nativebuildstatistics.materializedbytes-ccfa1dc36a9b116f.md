@@ -13,5 +13,3 @@ reviewed: 247a9fde100d9a9d5d9946e28c85447f61de0b24265c088bdb016b85dd7ae839
 source: xml
 outdated: false
 ---
-
-Gets bytes copied to freeze mutable repository inputs.

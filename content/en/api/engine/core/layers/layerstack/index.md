@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-layers#attachment-and-frame-contract
 aliases: []
 ---
-
-Owns an ordered collection of base layers and overlays with isolated event scopes.

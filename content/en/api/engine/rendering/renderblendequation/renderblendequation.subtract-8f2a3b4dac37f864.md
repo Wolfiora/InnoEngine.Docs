@@ -13,5 +13,3 @@ reviewed: e4907f779b17df56030590f7cfcf1fae260e6787820f279bb55d1eef4fe7399d
 source: xml
 outdated: false
 ---
-
-Subtracts the destination term from the source term.

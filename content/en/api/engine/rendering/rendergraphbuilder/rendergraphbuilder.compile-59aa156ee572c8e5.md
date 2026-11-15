@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates, culls and schedules this graph exactly once.
-
 ## Returns
 
 A compilation result containing either an executable graph or diagnostics.

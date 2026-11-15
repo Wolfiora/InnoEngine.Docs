@@ -13,5 +13,3 @@ reviewed: 0ed761ae2caac0cb4010f6141b5d3fa08b5999d82f7ae29b5b5800e30ed8cd7c
 source: xml
 outdated: false
 ---
-
-Gets X axis color.

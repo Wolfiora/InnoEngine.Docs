@@ -13,5 +13,3 @@ reviewed: 3d83d1002c78158d6a4023f59fb4c5181df3e6b0413bd92c9cccaf62c24ae7b7
 source: xml
 outdated: false
 ---
-
-Gets the modal fade-in duration in seconds.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures complete serialized state while sharing unchanged neutral values with a previous capture.
-
 ## Type parameters
 
 **Type parameter `T`:** The exact concrete root type, interpreted by the current converter generation.

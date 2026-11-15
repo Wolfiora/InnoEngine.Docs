@@ -13,5 +13,3 @@ reviewed: 178a9c77b8edad029e471a863429ea717569f11a97fa3df855f220ad87b39237
 source: xml
 outdated: false
 ---
-
-Identifies the MouseX2 presentation key or modifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an executable from the frozen selection rather than a mutable process PATH.
-
 ## Parameters
 
 **Parameter `name`:** The explicit command registered by the platform provider.

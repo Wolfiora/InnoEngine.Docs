@@ -13,5 +13,3 @@ reviewed: 5af611f7916057f151e1039a60db6eb181c5bd485c0f0b4b36ccf5ee78824844
 source: xml
 outdated: false
 ---
-
-Identifies the Oem102 presentation key or modifier.

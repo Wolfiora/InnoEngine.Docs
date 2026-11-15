@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the platform layout and validator without preparing any tools or files.
-
 ## Parameters
 
 **Parameter `target`:** The publication platform identity.

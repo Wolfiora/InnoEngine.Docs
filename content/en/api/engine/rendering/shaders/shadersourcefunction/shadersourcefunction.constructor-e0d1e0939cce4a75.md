@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a source function declaration without retaining parser or provider objects.
-
 ## Parameters
 
 **Parameter `name`:** Implementation function name selected by import settings.

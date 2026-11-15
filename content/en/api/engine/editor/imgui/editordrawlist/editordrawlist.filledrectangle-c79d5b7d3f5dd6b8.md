@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a filled rectangular surface.
-
 ## Parameters
 
 **Parameter `minimum`:** The upper-left corner.

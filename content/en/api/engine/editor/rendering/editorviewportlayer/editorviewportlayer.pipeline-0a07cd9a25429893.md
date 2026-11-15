@@ -13,5 +13,3 @@ reviewed: 952652abff8a9f9497eb3348eda82fc3611ff78809cbbb0a6437c2fb002f89e0
 source: xml
 outdated: false
 ---
-
-Gets the contributor-selected pipeline, or null for the project default.

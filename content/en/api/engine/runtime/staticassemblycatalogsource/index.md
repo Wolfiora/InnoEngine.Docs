@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Supplies an explicit linked host closure without runtime assembly probing or dynamic loading.

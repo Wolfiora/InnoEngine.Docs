@@ -13,5 +13,3 @@ reviewed: 0ddb3fc481e6c462204a24f201fc1c123dab2f8d8397b9cabab3fb7b633ef6dd
 source: xml
 outdated: false
 ---
-
-Gets whether the window can present visible content after this notification.

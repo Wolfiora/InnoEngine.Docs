@@ -13,5 +13,3 @@ reviewed: 0c67d6ecacf725c63eb1b7199b1e6ea7455c4edf6b3690b2ff23ffb858874653
 source: xml
 outdated: false
 ---
-
-Gets the deterministic source hash.

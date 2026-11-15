@@ -13,5 +13,3 @@ reviewed: bc073822e126ef08dc57a20365ba5a1c591b6cd822a241c2be40efebf04cc734
 source: xml
 outdated: false
 ---
-
-Gets the mutable neutral document used by the current asset generation.

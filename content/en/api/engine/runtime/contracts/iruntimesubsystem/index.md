@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Participates in the ordered lifecycle of one isolated runtime session.

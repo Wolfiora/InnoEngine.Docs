@@ -13,5 +13,3 @@ reviewed: 7aaafaaabada883b9750783824c9f5abb4871e9914f2444e67a178601d3d3fe4
 source: xml
 outdated: false
 ---
-
-Gets the owning pipeline context.

@@ -13,5 +13,3 @@ reviewed: 10c2be22578b9981d95dfd9ec60aed83abe3b21bb8def32f209e625467305daa
 source: xml
 outdated: false
 ---
-
-Gets the immutable typed region, or null on failure.

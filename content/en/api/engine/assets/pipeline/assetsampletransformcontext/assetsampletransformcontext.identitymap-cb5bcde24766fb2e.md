@@ -13,5 +13,3 @@ reviewed: 7aa9ed95992191c03e0bc3e1631fa310fb807b4b20f92ae57c81546cba6c8f4c
 source: xml
 outdated: false
 ---
-
-Gets cloned source identities, including directory and file metadata.

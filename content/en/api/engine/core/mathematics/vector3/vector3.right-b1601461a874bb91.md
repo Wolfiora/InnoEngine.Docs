@@ -13,5 +13,3 @@ reviewed: 97957ef473f02155596a14e2e213367ac253e789cd3f2115dd021be8ea403bfb
 source: xml
 outdated: false
 ---
-
-The right value used as part of this type's public representation.

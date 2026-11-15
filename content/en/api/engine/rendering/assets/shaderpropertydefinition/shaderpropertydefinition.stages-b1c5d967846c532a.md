@@ -13,5 +13,3 @@ reviewed: ab4b301643392ba838659724547f61c922b515e73f85333aab74c0bc6cb1d924
 source: xml
 outdated: false
 ---
-
-Gets or sets stages that access the property.

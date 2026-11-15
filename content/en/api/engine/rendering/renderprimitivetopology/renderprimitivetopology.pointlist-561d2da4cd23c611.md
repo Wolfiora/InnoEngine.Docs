@@ -13,5 +13,3 @@ reviewed: d8f888be0eb54607c57fcbebff02832f4c264a58846c804487b3705fbd45d1da
 source: xml
 outdated: false
 ---
-
-Independent points.

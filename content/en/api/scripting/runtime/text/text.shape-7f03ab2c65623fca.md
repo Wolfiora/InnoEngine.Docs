@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Shapes text with default automatic language and direction detection.
-
 ## Parameters
 
 **Parameter `font`:** The imported font source.

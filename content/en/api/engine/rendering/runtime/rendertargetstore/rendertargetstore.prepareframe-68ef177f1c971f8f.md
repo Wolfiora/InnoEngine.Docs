@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances queued target releases at a frame safety point.
-
 ## Remarks
 
 Retired textures remain active across one complete submitted frame so a prepared UI or presentation packet cannot observe an invalidated handle.

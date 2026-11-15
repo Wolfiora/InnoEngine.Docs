@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pauses a live voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice owned by the current device generation.

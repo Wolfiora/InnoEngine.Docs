@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Queues immutable shader candidates for validation at the active device's next frame safety point.

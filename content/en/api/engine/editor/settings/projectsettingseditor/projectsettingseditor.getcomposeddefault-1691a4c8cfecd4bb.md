@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the composed host and Plugin default without the project override.
-
 ## Parameters
 
 **Parameter `definition`:** The active presentation whose default is requested.

@@ -13,5 +13,3 @@ reviewed: 894094e13838e2497928ca5ab900fcc940bd2c648eaf5fe2cdfed50036390329
 source: xml
 outdated: false
 ---
-
-Gets whether this instance represents an unavailable persistent asset.

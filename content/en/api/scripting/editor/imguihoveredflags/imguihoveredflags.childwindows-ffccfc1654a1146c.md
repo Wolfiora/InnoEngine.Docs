@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-IsWindowHovered() only: Return true if any children of the window is hovered

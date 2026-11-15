@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads the saved value, or creates a validated default when absent.
-
 ## Returns
 
 A newly owned current-format document.

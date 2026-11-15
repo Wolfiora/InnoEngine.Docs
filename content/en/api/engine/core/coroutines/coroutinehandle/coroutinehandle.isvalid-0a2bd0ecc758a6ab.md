@@ -13,5 +13,3 @@ reviewed: 59843be43091621d4f0b31f6cc3fb0ebc5614d1baea0c3db608a384f527cfcc7
 source: xml
 outdated: false
 ---
-
-Gets whether this handle currently points to a live coroutine in a still-alive scheduler.

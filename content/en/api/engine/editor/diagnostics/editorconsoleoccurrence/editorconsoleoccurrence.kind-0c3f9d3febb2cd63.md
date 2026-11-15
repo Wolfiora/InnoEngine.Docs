@@ -13,5 +13,3 @@ reviewed: feab78a89322f91333d78de5aadd7e169ee436c2f0145976c87158d03c34a47e
 source: xml
 outdated: false
 ---
-
-Gets the source protocol represented by this occurrence.

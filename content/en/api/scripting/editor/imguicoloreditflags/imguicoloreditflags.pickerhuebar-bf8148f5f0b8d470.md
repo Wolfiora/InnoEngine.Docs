@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorPicker: bar for Hue, rectangle for Sat/Value.

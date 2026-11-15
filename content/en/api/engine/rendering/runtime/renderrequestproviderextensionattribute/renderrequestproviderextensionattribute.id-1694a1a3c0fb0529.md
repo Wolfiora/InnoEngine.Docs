@@ -13,5 +13,3 @@ reviewed: be36004a171a80889e2d90f8a46d552b48fc4db3246ce630af9e0b6274e6416f
 source: xml
 outdated: false
 ---
-
-Gets the globally stable provider identifier.

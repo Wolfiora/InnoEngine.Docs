@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The scaled face descender in logical pixels, using the backend's coordinate convention.

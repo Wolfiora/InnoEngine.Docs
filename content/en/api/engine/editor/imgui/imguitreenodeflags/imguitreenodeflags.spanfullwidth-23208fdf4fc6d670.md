@@ -13,5 +13,3 @@ reviewed: 942e63712f25170c54e516af91ad54d03f4c339e1f5e110a2654edff8422bdcb
 source: xml
 outdated: false
 ---
-
-Extend hit box to the left-most and right-most edges (cover the indent area).

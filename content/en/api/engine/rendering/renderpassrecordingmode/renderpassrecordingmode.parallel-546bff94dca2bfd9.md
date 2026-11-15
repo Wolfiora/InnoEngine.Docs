@@ -13,5 +13,3 @@ reviewed: e673a6f0f2cb7969d9e11d3acc30e29f5159069a37a96cf6528d59cdea9a059e
 source: xml
 outdated: false
 ---
-
-Records into an isolated command list on a worker thread, then replays in graph order.

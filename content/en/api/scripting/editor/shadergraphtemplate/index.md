@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Contributes an ordinary shader graph to the shared asset creation workflow.

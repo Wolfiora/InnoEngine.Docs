@@ -13,5 +13,3 @@ reviewed: 4585fe5ce2176aa986cc1903cb70d9b00ce5926adca98849ceee496d8f620c7e
 source: xml
 outdated: false
 ---
-
-Gets minimum column spacing.

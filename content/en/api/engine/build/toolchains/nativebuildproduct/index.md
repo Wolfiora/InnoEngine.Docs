@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Identifies one complete, integrity-checked native artifact and its exact published file closure.

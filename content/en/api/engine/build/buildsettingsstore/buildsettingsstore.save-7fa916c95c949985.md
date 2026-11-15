@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces the project-owned build defaults.
-
 ## Parameters
 
 **Parameter `settings`:** The complete defaults to persist.

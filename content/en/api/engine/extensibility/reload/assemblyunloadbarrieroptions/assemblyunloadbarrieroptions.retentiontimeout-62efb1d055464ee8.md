@@ -13,5 +13,3 @@ reviewed: 9cb6086095c5b03bbd82e6f2f43475a43ef06a8b850511180bbe3b2323819351
 source: xml
 outdated: false
 ---
-
-Gets the duration after which a still-reachable generation faults the reload subsystem.

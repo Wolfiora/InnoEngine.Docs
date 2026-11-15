@@ -13,5 +13,3 @@ reviewed: b8f4b15db35e26918b26380c02e425430d243203b17e3af7bfa64f6dac0d3f44
 source: xml
 outdated: false
 ---
-
-The 7 key on the primary keyboard row.

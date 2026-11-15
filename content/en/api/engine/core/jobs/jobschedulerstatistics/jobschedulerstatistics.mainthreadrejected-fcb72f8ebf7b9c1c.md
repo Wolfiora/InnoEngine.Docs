@@ -13,5 +13,3 @@ reviewed: 5b54f8fcde0046ef7e19d0876463a059344594049cc70c8bd18a374221088d9e
 source: xml
 outdated: false
 ---
-
-Gets callbacks rejected because the queue was full or closed.

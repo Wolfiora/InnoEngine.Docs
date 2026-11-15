@@ -13,5 +13,3 @@ reviewed: 7a1a9abe08dcf5a0ccaa4adf98bb069ae73a55e48fbd3d469f143841eae0a28c
 source: xml
 outdated: false
 ---
-
-Gets the standard equalizer shelf-slope parameter.

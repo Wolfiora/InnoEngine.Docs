@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets a requested connection's input endpoint, paired with the output endpoint.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Processes input and advances document state.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

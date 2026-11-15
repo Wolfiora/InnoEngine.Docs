@@ -13,5 +13,3 @@ reviewed: ef5687735dfae28ba25846734d0382f88ef2283fa0746b8a1e06ac0ff9198ab3
 source: xml
 outdated: false
 ---
-
-Gets the corresponding world position.

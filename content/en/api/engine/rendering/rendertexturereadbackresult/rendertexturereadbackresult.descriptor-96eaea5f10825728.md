@@ -13,5 +13,3 @@ reviewed: 7dd100d3d3c4c61b643468659697dd9c1406c3ceb821873bc6a5cb306bb928f7
 source: xml
 outdated: false
 ---
-
-Gets the source texture descriptor.

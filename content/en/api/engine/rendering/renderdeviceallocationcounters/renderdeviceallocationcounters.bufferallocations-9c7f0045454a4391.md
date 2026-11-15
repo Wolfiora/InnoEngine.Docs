@@ -13,5 +13,3 @@ reviewed: 6525e18122030443960faf393e20476e2fce6127b9adad3193a97ffb84a29830
 source: xml
 outdated: false
 ---
-
-Gets successful native transient buffer allocations since device creation.

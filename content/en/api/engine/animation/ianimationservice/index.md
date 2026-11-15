@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Defines backend-neutral animation playback and control for one isolated runtime session.

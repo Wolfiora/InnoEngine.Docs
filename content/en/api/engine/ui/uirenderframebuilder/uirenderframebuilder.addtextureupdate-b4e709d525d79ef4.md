@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one texture update and takes exclusive ownership of its pixel array.
-
 ## Parameters
 
 **Parameter `texture`:** Assigned texture handle.

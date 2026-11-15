@@ -13,5 +13,3 @@ reviewed: 2ea6923de12fc3d4d441313a080dfab10a5fe14be08b544a388779cc510a3e64
 source: xml
 outdated: false
 ---
-
-Gets whether the pipeline reconciles authoring sources or consumes a deployed artifact catalog.

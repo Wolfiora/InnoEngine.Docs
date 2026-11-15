@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Represents a mutable four-by-four transformation matrix using column-vector multiplication.
-
 ## Remarks
 
 Conventions used by this type: 

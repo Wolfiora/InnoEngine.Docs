@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable viewport composition.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

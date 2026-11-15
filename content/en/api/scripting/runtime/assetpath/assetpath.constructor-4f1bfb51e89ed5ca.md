@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset path.
-
 ## Parameters
 
 **Parameter `source`:** Owning source mount.

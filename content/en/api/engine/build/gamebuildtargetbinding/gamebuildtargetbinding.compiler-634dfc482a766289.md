@@ -13,5 +13,3 @@ reviewed: ffd5572d3f0b514e7d825217d4cf3089affe57a9688d02f018f43ac1e4d57b23
 source: xml
 outdated: false
 ---
-
-Gets the content implementation borrowing this pipeline's authoring generation.

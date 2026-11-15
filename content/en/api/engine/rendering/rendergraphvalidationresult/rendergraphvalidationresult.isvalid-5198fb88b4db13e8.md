@@ -13,5 +13,3 @@ reviewed: eeadbce36de95b76d7c2a4ce1e6973bb7062eb41bc95e8365d4a2864ad317ff6
 source: xml
 outdated: false
 ---
-
-Gets whether the current graph satisfies device, dependency and presentation limits.

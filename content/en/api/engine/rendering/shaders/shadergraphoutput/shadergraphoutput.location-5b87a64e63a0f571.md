@@ -13,5 +13,3 @@ reviewed: f747e9067799bb0a3c51013d19b1c7fe46ccafecb09ed9ad3433c84d675de89b
 source: xml
 outdated: false
 ---
-
-Gets or sets the varying or attachment index.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a completed generation and optionally selects it as a protected current root. The caller must hold this publisher's activity lease and the artifact's producer or reading lease.
-
 ## Parameters
 
 **Parameter `directory`:** An existing artifact within this publisher's exact boundary.

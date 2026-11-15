@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a content admission snapshot without retaining providers or host content.
-
 ## Parameters
 
 **Parameter `capacity`:** Combined emitter and listener budget available to the update.

@@ -13,5 +13,3 @@ reviewed: f18e9d0feb99e2510f31899044714fbb52165a75edd96e87ab49b7f76556d062
 source: xml
 outdated: false
 ---
-
-Builds and validates every candidate registry and last-good rendering generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Rebinds an active session to a newly imported current-generation document.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable document identity.

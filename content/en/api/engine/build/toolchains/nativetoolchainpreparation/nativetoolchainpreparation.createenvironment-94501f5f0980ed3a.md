@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a child-process environment that clears undeclared ambient compiler policy.
-
 ## Returns
 
 A caller-owned dictionary to populate with explicitly selected SDK variables.

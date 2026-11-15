@@ -13,5 +13,3 @@ reviewed: 327dfa2d7b1cf62abc9369976897d5664a2e241ad6f3f7edf9f6fcbec822c958
 source: xml
 outdated: false
 ---
-
-Gets the borrowed immutable publication distribution.

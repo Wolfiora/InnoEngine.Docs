@@ -13,5 +13,3 @@ reviewed: 81b64eee0da99ec8e714de1e15f5a03c972a3397786c6ca256df0600103090a7
 source: xml
 outdated: false
 ---
-
-Gets whether the type catalog is registered with an initialized `T:Inno.Extensibility.Modules.ModuleHost`.

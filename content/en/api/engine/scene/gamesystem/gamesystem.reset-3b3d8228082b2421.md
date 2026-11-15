@@ -13,5 +13,3 @@ reviewed: deb36e90b6603539c139c30e6e2aa664fa2817dbe8780ec75eb4929303312335
 source: xml
 outdated: false
 ---
-
-Restores this system to defaults when added or explicitly reset.

@@ -13,5 +13,3 @@ reviewed: 8543eda294f6921aa5db952d484ea1a4f09c256ead6d399602ead757396c69a8
 source: xml
 outdated: false
 ---
-
-Gets the concrete asset type produced by this importer.

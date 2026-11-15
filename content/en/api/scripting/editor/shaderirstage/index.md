@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Freezes a typed GPU stage and its explicit interface. It contains no main function, varying declarations or source expressions. Targets own stage/resource layout; adapters translate these semantics into their native language.

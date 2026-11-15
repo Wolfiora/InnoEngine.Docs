@@ -13,5 +13,3 @@ reviewed: 245b490418e9202bbd4f4f89a88c7a797be9062875a6f1777431b3ded0a5c3a4
 source: xml
 outdated: false
 ---
-
-Gets the application-local identifier of this window.

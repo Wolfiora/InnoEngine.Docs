@@ -13,5 +13,3 @@ reviewed: da24d017b18ea2c89d83bfae42ba5c663f28cb506e3e48456d4710a5cec5de55
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional request-owned descriptor destination written only after success.

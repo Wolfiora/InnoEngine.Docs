@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries asynchronous clip preparation without blocking the owner thread.
-
 ## Parameters
 
 **Parameter `clip`:** A handle created by this device generation.

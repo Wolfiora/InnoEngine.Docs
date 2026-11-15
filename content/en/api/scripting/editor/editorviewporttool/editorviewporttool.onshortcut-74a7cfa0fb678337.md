@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Handles a focused viewport shortcut before global action routing.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

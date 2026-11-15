@@ -13,5 +13,3 @@ reviewed: 9680771a45c24615395b5c9144108af8c757b2dd8c38d1376601f16b66e6d629
 source: xml
 outdated: false
 ---
-
-Cancels ownership acquisition without disturbing an active publisher.

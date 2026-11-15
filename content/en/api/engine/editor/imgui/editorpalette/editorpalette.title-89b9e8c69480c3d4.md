@@ -13,5 +13,3 @@ reviewed: bf061bfeb660382ff3654fe42777676725bda2803c191b065f9dad0686493788
 source: xml
 outdated: false
 ---
-
-Gets the inactive title background.

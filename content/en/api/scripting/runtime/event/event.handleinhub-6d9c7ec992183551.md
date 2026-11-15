@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Marks this event as handled in the current hub only.
-
 ## Remarks
 
 Hub handling stops remaining listeners in the current hub but does not affect following hubs.

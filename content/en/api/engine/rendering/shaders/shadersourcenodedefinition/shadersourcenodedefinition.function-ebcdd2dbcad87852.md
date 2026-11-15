@@ -13,5 +13,3 @@ reviewed: 7fe2603ec9053fe68f622a86defed933f587777f85dea6f66bc0169fe916bd0d
 source: xml
 outdated: false
 ---
-
-Gets the immutable parsed source interface belonging to this definition.

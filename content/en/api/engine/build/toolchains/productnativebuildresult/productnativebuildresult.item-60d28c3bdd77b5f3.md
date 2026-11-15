@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Borrows a product whose lease is owned by this result until disposal.
-
 ## Parameters
 
 **Parameter `index`:** The zero-based position in the plan's declaration order.

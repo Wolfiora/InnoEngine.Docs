@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the managed source, preview label, and validity predicate for an asset drag.
-
 ## Parameters
 
 **Parameter `context`:** The immutable source and catalog snapshot for the entry.

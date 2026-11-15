@@ -13,5 +13,3 @@ reviewed: 50a8d2136a84892fc10e975f5020edd778e198f11b9c59f13bae027e1b0faa0b
 source: xml
 outdated: false
 ---
-
-Gets the previous tree retained for a later owner-coordinated cleanup attempt.

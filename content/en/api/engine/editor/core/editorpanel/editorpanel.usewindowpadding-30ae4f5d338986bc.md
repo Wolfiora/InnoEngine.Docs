@@ -13,5 +13,3 @@ reviewed: 2d0b5782dd3bc0d6900f0eae13245c78bd37e17a10b03ed25264b5baa2c01999
 source: xml
 outdated: false
 ---
-
-Gets whether the presentation backend should inset this panel body by its standard window padding.

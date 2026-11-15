@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a canonical asset by persistent identity and keeps it resident until release.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Required asset contract.

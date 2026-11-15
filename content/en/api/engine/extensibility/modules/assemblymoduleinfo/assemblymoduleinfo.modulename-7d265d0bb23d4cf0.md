@@ -13,5 +13,3 @@ reviewed: f91900ec3cdefb5241ba10405eceba308a546a6e947ceca84596827cefe45561
 source: xml
 outdated: false
 ---
-
-The string value used to initialize this instance.

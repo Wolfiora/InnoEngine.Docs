@@ -13,5 +13,3 @@ reviewed: b3b6faa5eb1a0b527bd3eda394a3a63c86e55f981c33136023807d50e6ee3c48
 source: xml
 outdated: false
 ---
-
-Selects the selectable text align presentation behavior.

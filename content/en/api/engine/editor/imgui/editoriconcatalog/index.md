@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Describes the host's complete standard glyph vocabulary as immutable presentation values.

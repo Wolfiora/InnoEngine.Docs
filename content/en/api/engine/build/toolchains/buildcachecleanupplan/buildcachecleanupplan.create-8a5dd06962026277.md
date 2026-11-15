@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Plans retirement by budget pressure or an explicit request to retire every unreferenced artifact.
-
 ## Parameters
 
 **Parameter `workspace`:** The absolute checkout boundary; no owner may manage it or its parent.

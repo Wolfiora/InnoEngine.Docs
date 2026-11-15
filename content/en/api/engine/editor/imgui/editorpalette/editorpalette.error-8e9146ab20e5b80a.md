@@ -13,5 +13,3 @@ reviewed: 30928e9bd353078bd18c367e11af965f5b4467f6548f8a3503bbc0a80c1c8c84
 source: xml
 outdated: false
 ---
-
-Gets the standard error color.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies the graphics API family selected by the host without exposing a backend-native enum. Pipelines use this value only for capability-aware choices and target artifact selection; it does not require separate pipeline or shader source implementations.

@@ -13,5 +13,3 @@ reviewed: 8acf33a1a3af959eec1b253ba07376b2c829479afa534a3d0dd7ee70878dae4d
 source: xml
 outdated: false
 ---
-
-Gets the deterministic logical audio clock in seconds.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Display a dot next to the title + set ImGuiTabItemFlags\_NoAssumedClosure.

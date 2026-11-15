@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks pointer distance against the displayed cubic connection without any UI or document access.
-
 ## Parameters
 
 **Parameter `point`:** The screen-space pointer location.

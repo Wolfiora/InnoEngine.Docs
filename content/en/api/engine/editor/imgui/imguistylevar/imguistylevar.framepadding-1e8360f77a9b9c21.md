@@ -13,5 +13,3 @@ reviewed: 7aeefcff5ecab41e3c8a25c71c3e42c045c8cebb807fe3307e7eb8927ec08ad5
 source: xml
 outdated: false
 ---
-
-Selects the frame padding presentation behavior.

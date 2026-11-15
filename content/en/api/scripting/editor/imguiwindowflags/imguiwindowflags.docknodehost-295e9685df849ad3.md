@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Don't use! For internal use by Begin()/NewFrame()

@@ -13,5 +13,3 @@ reviewed: 3729cb766bd9d106eeb130b88bb82d955467a0e3fa423803a8c1d1d3a59deee0
 source: xml
 outdated: false
 ---
-
-Gets the current action availability and checked state.

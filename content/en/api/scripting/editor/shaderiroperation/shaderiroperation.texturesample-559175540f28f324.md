@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Samples a floating-point texture using implicit fragment derivatives.

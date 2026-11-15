@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Accepts an unmanaged payload and controls whether ImGui draws its default target rectangle.
-
 ## Type parameters
 
 **Type parameter `TPayload`:** Unmanaged payload type.

@@ -13,5 +13,3 @@ reviewed: 91dc56d7980a0946fbe1e83baccd85bfd021fbf435807e96dbf8076d0044a54a
 source: xml
 outdated: false
 ---
-
-A typed storage buffer or image whose access, shape and layout are explicit.

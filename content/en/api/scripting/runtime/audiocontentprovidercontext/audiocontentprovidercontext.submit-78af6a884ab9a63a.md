@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits one immutable listener snapshot for runtime selection.
-
 ## Parameters
 
 **Parameter `listener`:** Current state for one stable listener identity.

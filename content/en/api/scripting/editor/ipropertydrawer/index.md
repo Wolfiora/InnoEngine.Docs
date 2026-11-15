@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Draws and optionally edits one serialized property value.

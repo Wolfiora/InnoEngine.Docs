@@ -13,5 +13,3 @@ reviewed: ca5a68dfee160af0453db95471a558bbce4a9ce76c4e5289852a0caa0354e1fb
 source: xml
 outdated: false
 ---
-
-Gets the exact reflected symbol emitted by the adapter, distinct from the logical property ID.

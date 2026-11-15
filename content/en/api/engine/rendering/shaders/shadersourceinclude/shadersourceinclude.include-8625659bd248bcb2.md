@@ -13,5 +13,3 @@ reviewed: f0efafca846652bec607529bdfd3f104172f3cea46a3fab23fcd0c18de4c38b4
 source: xml
 outdated: false
 ---
-
-Original include spelling passed to the source resolver.

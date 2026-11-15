@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Imports one source into a managed asset and named artifact outputs.
-
 ## Parameters
 
 **Parameter `context`:** The import transaction context.

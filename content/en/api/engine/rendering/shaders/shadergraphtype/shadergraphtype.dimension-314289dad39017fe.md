@@ -13,5 +13,3 @@ reviewed: e3480cad0e3534830b6b5c89f55f556722cb7e227c24d37a1478221faaf82b05
 source: xml
 outdated: false
 ---
-
-Gets or sets the image spatial dimension.

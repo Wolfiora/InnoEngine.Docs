@@ -13,5 +13,3 @@ reviewed: c0fbce151be6e567dbe800b0e28bc29e37fcc3f8e283b132ac4524b788739aa6
 source: xml
 outdated: false
 ---
-
-Gets whether the candidate replaced active state.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Creates one runtime subsystem instance for each declared Host or Session owner.

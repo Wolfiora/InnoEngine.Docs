@@ -13,5 +13,3 @@ reviewed: 54f01f110421aa703773c6e44eae946dcec19264f5fafb6b5cd1a41932396f7e
 source: xml
 outdated: false
 ---
-
-Gets the independently encoded property data.

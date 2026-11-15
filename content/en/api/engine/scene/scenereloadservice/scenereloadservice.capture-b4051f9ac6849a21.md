@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures all loaded scene objects affected by a prepared type-cache reload.
-
 ## Parameters
 
 **Parameter `context`:** The prepared type-cache reload context.

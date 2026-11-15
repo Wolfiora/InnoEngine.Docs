@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Describes the multi-port external inputs while editing a graph-authored node asset.

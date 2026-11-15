@@ -13,5 +13,3 @@ reviewed: 526be318c200e11e28b9c57b41a1eee380a7c09ba0e03a112d3c55174174f687
 source: xml
 outdated: false
 ---
-
-Gets the immutable capabilities verified by the owner, never a mutable service container.

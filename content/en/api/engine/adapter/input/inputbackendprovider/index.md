@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Describes one explicitly composed input implementation and its creation boundary.
-
 ## Remarks
 
 The composition owns this provider and its immutable registration identity. Products are owned by their callers. This registration does not perform type discovery.

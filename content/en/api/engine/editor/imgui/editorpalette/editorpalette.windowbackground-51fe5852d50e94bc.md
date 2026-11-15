@@ -13,5 +13,3 @@ reviewed: 8a0e35aa3f61a31e413f30b83661afd210c5f901c0f6abb85bbc9276e302064e
 source: xml
 outdated: false
 ---
-
-Gets the editor window background.

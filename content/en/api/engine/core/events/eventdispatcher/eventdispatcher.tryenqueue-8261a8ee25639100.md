@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to enqueue without silently dropping a critical event on overload.
-
 ## Parameters
 
 **Parameter `e`:** The event whose ownership transfers only on success.

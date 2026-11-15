@@ -13,5 +13,3 @@ reviewed: ae621fcf86a935b861dc248151315bc6eca3fd35d3c8fd17e146ce089de9c847
 source: xml
 outdated: false
 ---
-
-Executes ready jobs on a bounded worker pool owned by the session.

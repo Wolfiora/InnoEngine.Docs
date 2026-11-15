@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a platform packager without borrowing authoring or content compiler services.
-
 ## Returns
 
 A non-null packaging implementation retained by the pipeline without a separate lifetime.

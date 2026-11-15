@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Collects immutable named outputs for an aggregate asset build.

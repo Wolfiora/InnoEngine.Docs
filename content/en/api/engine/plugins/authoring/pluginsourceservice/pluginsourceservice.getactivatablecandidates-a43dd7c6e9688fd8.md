@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets validated candidates in complete dependency order.
-
 ## Parameters
 
 **Parameter `result`:** Complete scan result.

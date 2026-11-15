@@ -13,5 +13,3 @@ reviewed: 659e583bb5ee3fc59214bfc6c038b9f66d0129b825be9bf8a8f72decd3599e4a
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the affected component or system.

@@ -13,5 +13,3 @@ reviewed: d9c58398d2ae7beaf13f3be4544e27a922d0dbf6c540ee4ecdc1bac13084b3c1
 source: xml
 outdated: false
 ---
-
-The stable identity used to locate the requested value.

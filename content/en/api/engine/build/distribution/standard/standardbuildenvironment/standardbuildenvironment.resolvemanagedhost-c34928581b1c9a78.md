@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the managed SDK executable without selecting a native tool target or preparing a product.
-
 ## Parameters
 
 **Parameter `dotnetHost`:** Explicit executable, or null to use DOTNET\_HOST\_PATH and then the currently loaded runtime's installation. Normal executable discovery is used only when there is no shared runtime installation.

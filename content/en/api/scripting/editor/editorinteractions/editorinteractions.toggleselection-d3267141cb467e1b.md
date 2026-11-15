@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds or removes a member while preserving the existing range anchor.
-
 ## Parameters
 
 **Parameter `target`:** A currently registered selection target.

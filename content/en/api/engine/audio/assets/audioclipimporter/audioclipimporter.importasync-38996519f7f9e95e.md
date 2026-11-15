@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates source metadata and emits the compact runtime and immutable encoded-data artifacts.
-
 ## Parameters
 
 **Parameter `context`:** Source bytes and normalized source extension for the current import.

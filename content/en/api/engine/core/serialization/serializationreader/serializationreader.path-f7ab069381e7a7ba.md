@@ -13,5 +13,3 @@ reviewed: 45304e7ab5d9ab1f446699dcaf06bc2b571c127cc22c0e4d1172a16621635fe5
 source: xml
 outdated: false
 ---
-
-Gets the current diagnostic path.

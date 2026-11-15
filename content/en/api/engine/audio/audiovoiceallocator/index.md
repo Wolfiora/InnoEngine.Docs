@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Allocates service-owned playback handles without impersonating a backend audio device.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Returns copied manipulation output; the domain owner decides how to apply and record it.
-
 ## Parameters
 
 **Parameter `matrix`:** The resulting world matrix.

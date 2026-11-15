@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Materializes an explicitly built host-native closure into one application's deployment directory.

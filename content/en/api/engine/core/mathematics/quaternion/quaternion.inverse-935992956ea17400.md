@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the inverse rotation represented by the supplied quaternion.
-
 ## Parameters
 
 **Parameter `q`:** The q consumed by inverse; ownership remains with the caller unless explicitly stated otherwise.

@@ -13,5 +13,3 @@ reviewed: 1a0e6ea705cffed1154c09db324f766ccab5041ca28ba7f84351b3380a1e9f1e
 source: xml
 outdated: false
 ---
-
-Gets the completed compiler result, or `null` before the compiler finishes.

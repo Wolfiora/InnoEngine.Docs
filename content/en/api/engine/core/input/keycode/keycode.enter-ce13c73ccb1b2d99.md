@@ -13,5 +13,3 @@ reviewed: 6ab2153c3c3ee7c9cfe9882312413a6748f4d161a4b5264e7744c64ba14d4f76
 source: xml
 outdated: false
 ---
-
-The enter key.

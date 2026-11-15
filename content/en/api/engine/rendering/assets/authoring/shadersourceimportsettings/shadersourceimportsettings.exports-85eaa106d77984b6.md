@@ -13,5 +13,3 @@ reviewed: 7c070795d051fd6b8afcd7cfb42dcb5edc676b12489c2895001e586efff46d95
 source: xml
 outdated: false
 ---
-
-Gets or sets the explicitly exported function names. Unlisted helpers remain private to the source library.

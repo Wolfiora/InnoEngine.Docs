@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the most specific registered drawer and creates its drawing context.
-
 ## Parameters
 
 **Parameter `editorContext`:** The shared editor context exposed to the selected drawer.

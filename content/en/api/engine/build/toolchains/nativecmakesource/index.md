@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Describes copied recipe inputs owned by one cold CMake producer. External SDK locations remain assigned to the frozen toolchain.

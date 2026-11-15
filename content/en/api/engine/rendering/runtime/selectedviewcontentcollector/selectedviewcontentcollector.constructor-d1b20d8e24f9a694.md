@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a collector that forwards only the selected source identities.
-
 ## Parameters
 
 **Parameter `inner`:** Active generation's source collector.

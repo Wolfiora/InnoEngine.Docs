@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Defines a backend-owned target compiler used by the common Shader IR pipeline.

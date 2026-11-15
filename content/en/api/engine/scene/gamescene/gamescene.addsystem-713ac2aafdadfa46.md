@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and registers a parameterless game system.
-
 ## Type parameters
 
 **Type parameter `TSystem`:** Concrete system type.

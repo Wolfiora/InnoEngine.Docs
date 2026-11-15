@@ -13,5 +13,3 @@ reviewed: 1ac66f7935cd6f2511e31f51bf30e9264d01fb1722b74065035dff6c19c1e45a
 source: xml
 outdated: false
 ---
-
-Gets the source extensions decoded by the standard audio metadata reader.

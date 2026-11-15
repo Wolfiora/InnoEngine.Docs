@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces ordered feature configurations.
-
 ## Parameters
 
 **Parameter `features`:** Complete ordered feature configuration set.

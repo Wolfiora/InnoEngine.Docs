@@ -13,5 +13,3 @@ reviewed: 92a98d985d68bfc32e1d7aec00a9d6cc65bcfe065baa778c7f16ae3514923fd8
 source: xml
 outdated: false
 ---
-
-Gets the menu presenter whose search state belongs exclusively to this session.

@@ -13,5 +13,3 @@ reviewed: ff7778f3952c5b4472a85a7abe0bb56084e464bd092f7f2ff9e51c45a089d178
 source: xml
 outdated: false
 ---
-
-Gets the source pixel height.

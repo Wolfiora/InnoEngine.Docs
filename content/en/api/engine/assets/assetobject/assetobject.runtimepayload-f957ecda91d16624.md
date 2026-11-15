@@ -13,5 +13,3 @@ reviewed: a0a7797bb495f29a8c9d620d87606cf41c57570358fdddc8f48bff347ac6941f
 source: xml
 outdated: false
 ---
-
-Gets the runtime artifact payload produced by the importer.

@@ -13,5 +13,3 @@ reviewed: 542a7e044cc7dfd8a72dd9dbc6d6d65c07613c64156124539b62224c3f807cfe
 source: xml
 outdated: false
 ---
-
-Gets whether this handle identifies a usable generation-scoped preview.

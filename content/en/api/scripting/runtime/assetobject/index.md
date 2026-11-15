@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Provides the common runtime identity and payload contract for imported assets.

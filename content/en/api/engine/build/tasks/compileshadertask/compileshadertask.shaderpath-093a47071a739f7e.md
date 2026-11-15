@@ -13,5 +13,3 @@ reviewed: 290bf0adc09c6068d48524d14029824550e8f623f4345d2ac91acfd86ca5d42e
 source: xml
 outdated: false
 ---
-
-Gets or sets the source-local shader graph path.

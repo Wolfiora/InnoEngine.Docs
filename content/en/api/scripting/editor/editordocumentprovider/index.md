@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Implements one reloadable asset-document kind without owning presentation or source identity.

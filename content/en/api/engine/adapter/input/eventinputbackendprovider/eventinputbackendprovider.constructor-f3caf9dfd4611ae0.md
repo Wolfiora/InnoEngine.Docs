@@ -13,5 +13,3 @@ reviewed: b8f38a87caf6fe0aafea931bbc990b2bac17cbcb6205684ea0c5d47011df3fa7
 source: xml
 outdated: false
 ---
-
-Creates an explicitly composed registration for the bundled implementation.

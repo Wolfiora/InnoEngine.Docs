@@ -13,5 +13,3 @@ reviewed: 47eaa52a65bf3fafc096a81271a6af02cf71589df2c206211d414acb86f85087
 source: xml
 outdated: false
 ---
-
-Gets detached stable target identities available in the current generation.

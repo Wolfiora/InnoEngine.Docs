@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the selection revision, incremented only when membership, order or resolved generation changes.

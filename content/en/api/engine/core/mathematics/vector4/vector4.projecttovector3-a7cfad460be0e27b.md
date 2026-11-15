@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Projects the supplied value onto the requested dimensional space.
-
 ## Returns
 
 The validated vector3 that represents the completed operation.

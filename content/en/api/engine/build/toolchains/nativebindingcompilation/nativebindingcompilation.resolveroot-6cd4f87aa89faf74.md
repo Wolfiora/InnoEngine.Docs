@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a component-local root using the current checkout and selected output.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The current checkout's absolute root.

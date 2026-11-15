@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the fallback asset editor can open the supplied source entry.
-
 ## Parameters
 
 **Parameter `context`:** The immutable source and catalog snapshot for the operation.

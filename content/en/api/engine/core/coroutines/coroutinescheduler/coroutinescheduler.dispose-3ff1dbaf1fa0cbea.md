@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Closes admission and disposes all active and pending enumerators. Reentrant disposal retires the executing enumerator after its callback returns.
-
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** Cleanup failed after all eligible enumerators were attempted.

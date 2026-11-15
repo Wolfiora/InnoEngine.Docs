@@ -13,5 +13,3 @@ reviewed: 6df274bf9ad477569b916a014ade65111f362daaa0a8b9d8bc8bb292e7665370
 source: xml
 outdated: false
 ---
-
-Gets whether the currently presented scenes are authoring documents that may be persisted.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves one graphics material pass through an open provider contract and role.
-
 ## Parameters
 
 **Parameter `material`:** Material asset to resolve.

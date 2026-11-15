@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and attaches a component of the requested runtime type.
-
 ## Parameters
 
 **Parameter `componentType`:** Concrete component type.

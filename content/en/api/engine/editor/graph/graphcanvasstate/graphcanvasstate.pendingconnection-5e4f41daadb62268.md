@@ -13,5 +13,3 @@ reviewed: 6fc3b3ef912693ade8171bc860df3076878408af0ca80613f74de14f03db3bc3
 source: xml
 outdated: false
 ---
-
-Gets the endpoint currently being connected, or `null`.

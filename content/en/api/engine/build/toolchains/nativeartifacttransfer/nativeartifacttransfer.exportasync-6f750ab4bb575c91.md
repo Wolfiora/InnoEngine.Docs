@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Exports only locally registered immutable native and binding generations under their existing read leases.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The checkout whose publishers have already verified the selected generations.

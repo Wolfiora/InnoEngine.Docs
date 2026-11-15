@@ -13,5 +13,3 @@ reviewed: 17f275c5f53dfff20de58536750a086f08289c87f6d48fde88d516192985d09d
 source: xml
 outdated: false
 ---
-
-Records one actual bridge or managed generator invocation.

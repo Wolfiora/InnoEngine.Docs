@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets nodes in draw order; reverse order determines overlapping-node hit priority.

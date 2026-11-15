@@ -13,5 +13,3 @@ reviewed: 901cc20e10e2cdee40052c79b6b5943595c078e653d2279481cacc6525adb7d2
 source: xml
 outdated: false
 ---
-
-Gets or sets the open rendering-provider contract.

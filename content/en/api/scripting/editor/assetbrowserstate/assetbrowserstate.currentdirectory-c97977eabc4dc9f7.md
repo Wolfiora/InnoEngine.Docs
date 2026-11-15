@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the current directory inside `P:InnoEditor.Assets.AssetBrowserState.root`. An empty value identifies that root's overview.

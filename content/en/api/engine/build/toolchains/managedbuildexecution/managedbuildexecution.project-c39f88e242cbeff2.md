@@ -13,5 +13,3 @@ reviewed: af162cf75f665017aa76ddef967d418f2293ba287f156c1c72db6bdf1b73b894
 source: xml
 outdated: false
 ---
-
-Gets the entry project within this execution's copied source root.

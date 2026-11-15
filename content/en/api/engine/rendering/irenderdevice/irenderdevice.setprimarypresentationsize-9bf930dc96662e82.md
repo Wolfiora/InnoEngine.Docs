@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues primary output availability and its real pixel extent for the next frame safety point.
-
 ## Parameters
 
 **Parameter `size`:** A valid drawable pixel extent, or null when the primary surface cannot currently present.

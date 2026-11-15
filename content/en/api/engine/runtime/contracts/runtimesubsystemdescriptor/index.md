@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Describes stable ordering and dependency requirements for one runtime subsystem.

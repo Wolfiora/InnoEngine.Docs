@@ -13,5 +13,3 @@ reviewed: 5ebcdb5ccf5282be178e8a3ac4ed4694082ab6d4d639d723130c2aaa540c935c
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive orbit and framing distance.

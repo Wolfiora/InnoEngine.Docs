@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-A canonical runtime object was replaced by an incompatible imported type.

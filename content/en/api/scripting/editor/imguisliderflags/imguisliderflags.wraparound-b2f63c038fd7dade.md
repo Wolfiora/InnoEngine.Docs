@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enable wrapping around from max to min and from min to max. Only supported by DragXXX() functions for now.

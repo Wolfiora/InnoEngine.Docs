@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph-space position.
-
 ## Parameters
 
 **Parameter `x`:** Horizontal graph-space coordinate.

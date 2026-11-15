@@ -13,5 +13,3 @@ reviewed: c8d70985047cd8f336d334c2a4d39e589dffdc0df5b0a035504335cb673e8265
 source: xml
 outdated: false
 ---
-
-Gets the distance attenuation model.

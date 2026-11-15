@@ -13,5 +13,3 @@ reviewed: ea9d6109e15fbbc2ecafa7ecda15c5a3e27e60b4f0c0fb016eb486491c21e727
 source: xml
 outdated: false
 ---
-
-Gets passes removed because they did not contribute to an output or side effect.

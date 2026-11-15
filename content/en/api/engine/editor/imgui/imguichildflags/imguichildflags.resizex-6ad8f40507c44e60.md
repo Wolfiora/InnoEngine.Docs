@@ -13,5 +13,3 @@ reviewed: 6c9e388a5d14b155404f81defbb274a8ddc9ebe6e454dcc8da0909c8356215d3
 source: xml
 outdated: false
 ---
-
-Allow resize from right border (layout direction). Enable .ini saving (unless ImGuiWindowFlags\_NoSavedSettings passed to window flags)

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and atomically restores a native build settings document.
-
 ## Parameters
 
 **Parameter `document`:** The complete document payload.

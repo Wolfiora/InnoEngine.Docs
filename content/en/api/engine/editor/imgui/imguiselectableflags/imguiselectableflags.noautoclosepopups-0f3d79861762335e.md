@@ -13,5 +13,3 @@ reviewed: bae44b017e461d9e2941ea024397deecdd59648323da28a559e6f80c3e0b01bf
 source: xml
 outdated: false
 ---
-
-Clicking this doesn't close parent popup window (overrides ImGuiItemFlags\_AutoClosePopups)

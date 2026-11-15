@@ -13,5 +13,3 @@ reviewed: 397ef5427351879edfdeacda63566a887842cc3fac81bb90d8baea5d92e1a644
 source: xml
 outdated: false
 ---
-
-Identifies the graph metadata containing the source-free material and pass contract.

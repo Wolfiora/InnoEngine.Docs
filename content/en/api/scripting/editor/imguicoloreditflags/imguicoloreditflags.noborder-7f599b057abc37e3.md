@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorButton: disable border (which is enforced by default)

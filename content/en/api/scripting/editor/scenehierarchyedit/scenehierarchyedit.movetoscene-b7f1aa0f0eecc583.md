@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live GameObject subtree into another scene owned by the current editor world.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live root object to move.

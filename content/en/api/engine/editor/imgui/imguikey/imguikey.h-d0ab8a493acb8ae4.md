@@ -13,5 +13,3 @@ reviewed: 7f4de0a0b0d1b43bef5adaf502e06f2c498e650010706d777a586ec1d17af3f1
 source: xml
 outdated: false
 ---
-
-Identifies the H presentation key or modifier.

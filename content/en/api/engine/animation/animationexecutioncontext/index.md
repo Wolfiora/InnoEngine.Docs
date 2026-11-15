@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Binds one animation service to the current asynchronous execution context.

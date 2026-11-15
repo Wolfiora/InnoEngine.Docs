@@ -13,5 +13,3 @@ reviewed: e4bf9287c4220aaaf0ee0101ced5488a0f5a2dfed7e73757ad3db64c89e63859
 source: xml
 outdated: false
 ---
-
-Gets the source endpoint.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Applies domain-owned missing and recovered representations as one candidate transaction participant.

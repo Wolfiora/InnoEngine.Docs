@@ -13,5 +13,3 @@ reviewed: 87ac605c75826e074c2d72285c43c42df9eaaa7e32f401565d5c5ecc4e358f26
 source: xml
 outdated: false
 ---
-
-The scaled underline position relative to the baseline in logical pixels.

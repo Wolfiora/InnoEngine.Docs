@@ -13,5 +13,3 @@ reviewed: f68fb3f2af88a333b0f4c572993a7ece9268875cad35bf1747622f6b31e98099
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadRStickRight presentation key or modifier.

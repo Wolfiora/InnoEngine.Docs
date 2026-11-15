@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically replaces the complete diagnostic state published by one producer.
-
 ## Parameters
 
 **Parameter `source`:** The stable producer identity whose previous report is replaced.

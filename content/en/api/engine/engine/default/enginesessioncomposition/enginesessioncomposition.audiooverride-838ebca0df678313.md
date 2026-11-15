@@ -13,5 +13,3 @@ reviewed: d0d27b5d21baf7acceeb13eedfcf9bdf8037e41367558f9f0aba4d5a8705461a
 source: xml
 outdated: false
 ---
-
-Gets an optional product-specific audio owner factory.

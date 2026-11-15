@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allows framing a provider-supplied or host-derived selection bound.

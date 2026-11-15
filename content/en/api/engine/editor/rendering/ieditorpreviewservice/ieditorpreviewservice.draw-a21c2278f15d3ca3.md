@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws one current-generation preview into the active presentation surface.
-
 ## Parameters
 
 **Parameter `handle`:** Preview handle returned by this service.

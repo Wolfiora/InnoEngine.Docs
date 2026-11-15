@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads one indexed payload through this lease's independently pinned stream.
-
 ## Returns
 
 Newly owned bytes with the exact indexed length; oversized or truncated payloads fail explicitly.

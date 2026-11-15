@@ -13,5 +13,3 @@ reviewed: 907f0484d2b5b4b94818794c285cae5f5f24148e6af6fb46d543d7474041f4b0
 source: xml
 outdated: false
 ---
-
-The left arrow key.

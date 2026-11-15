@@ -13,5 +13,3 @@ reviewed: f343a5ecb90af32061a2b9ba32f71a650f05b434682684a0031c64ee57d1215b
 source: xml
 outdated: false
 ---
-
-Gets the writable project source identifier.

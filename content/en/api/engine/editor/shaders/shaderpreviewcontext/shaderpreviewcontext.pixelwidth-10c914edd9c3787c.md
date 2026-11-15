@@ -13,5 +13,3 @@ reviewed: d39607d19710bfb3fe69b3cdfc98dc239bdc8fc5772094bf19df2a3c06c4cd09
 source: xml
 outdated: false
 ---
-
-Gets target width in physical pixels.

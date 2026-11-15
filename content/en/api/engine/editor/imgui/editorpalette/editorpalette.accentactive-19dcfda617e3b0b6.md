@@ -13,5 +13,3 @@ reviewed: bcedd0bfdf6b77deff62af58db4e737503d117bf00d15b5af1ccbed02d155a9d
 source: xml
 outdated: false
 ---
-
-Gets the active accent color.

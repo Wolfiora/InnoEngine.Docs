@@ -13,5 +13,3 @@ reviewed: 76b784eae7712992f089e57f73895dc19f1d84ab3c6842483ca591cc391a93b8
 source: xml
 outdated: false
 ---
-
-Gets persistent offscreen target services for viewport presentation.

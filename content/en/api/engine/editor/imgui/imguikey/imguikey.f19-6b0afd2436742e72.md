@@ -13,5 +13,3 @@ reviewed: 12b3357c93cc19851dbcc046c877a5a51025536cda693e797bbe1fc5135326a1
 source: xml
 outdated: false
 ---
-
-Identifies the F19 presentation key or modifier.

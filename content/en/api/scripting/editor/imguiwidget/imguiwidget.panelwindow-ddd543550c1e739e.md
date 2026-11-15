@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens a standard panel window and executes panel body.
-
 ## Parameters
 
 **Parameter `title`:** Window title.

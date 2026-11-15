@@ -13,5 +13,3 @@ reviewed: 9bddc558abb16534de267696ea6d79d770ab391c28d4531c624964712d36dbba
 source: xml
 outdated: false
 ---
-
-Gets a stable diagnostic name for this document, independent of its storage implementation.

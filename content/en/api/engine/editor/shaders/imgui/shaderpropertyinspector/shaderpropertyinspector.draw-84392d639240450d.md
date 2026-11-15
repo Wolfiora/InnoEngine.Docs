@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a typed value without choosing its persistence or history policy.
-
 ## Parameters
 
 **Parameter `context`:** Current Inspector invocation.

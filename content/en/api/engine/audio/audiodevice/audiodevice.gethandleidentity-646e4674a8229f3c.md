@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a clip handle for backend lookup and generation validation.
-
 ## Parameters
 
 **Parameter `handle`:** Backend-neutral clip handle.

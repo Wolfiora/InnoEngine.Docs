@@ -13,5 +13,3 @@ reviewed: 2678be19dd2c3bcb83ba592f99d40208ea7c5aa807cb1fccc7ef1c72e357e2fb
 source: xml
 outdated: false
 ---
-
-Gets the shared candidate resolutions for actual scene element and asset dependency slots after application.

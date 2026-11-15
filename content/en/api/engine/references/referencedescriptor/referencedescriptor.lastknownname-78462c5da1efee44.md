@@ -13,5 +13,3 @@ reviewed: 4c4097989568eb02822ef843e2b583f41148ddf63ef477945e391495ffbdfb6b
 source: xml
 outdated: false
 ---
-
-Gets optional display text retained only for diagnostics and missing-state presentation.

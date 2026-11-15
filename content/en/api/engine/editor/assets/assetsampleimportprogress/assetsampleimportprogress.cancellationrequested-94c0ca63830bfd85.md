@@ -13,5 +13,3 @@ reviewed: c195c4436c2f67245fcea7de1622dc4d0b25f9b31b7ed2a10820d107ce0cbc4f
 source: xml
 outdated: false
 ---
-
-Whether cancellation is draining owned work.

@@ -13,5 +13,3 @@ reviewed: b5c5fade80a3b668f3bf5843bbf811ea8490ef32cddb5b0fcd74df838a1ac3cd
 source: xml
 outdated: false
 ---
-
-Gets the unscaled variable frame interval in seconds.

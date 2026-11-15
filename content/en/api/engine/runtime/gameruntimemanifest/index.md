@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Stores the immutable startup contract consumed by a deployed game Player.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets immediate children of an indexed directory.
-
 ## Parameters
 
 **Parameter `parent`:** The isolated parent directory path.

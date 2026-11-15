@@ -13,5 +13,3 @@ reviewed: 47abe31bd175b0349f6fe064e7d59ba7f4194d1e8a1a54124c14f7d519a5804f
 source: xml
 outdated: false
 ---
-
-Gets the user-facing metric label.

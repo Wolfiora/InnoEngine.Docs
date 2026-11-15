@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-types
 aliases: []
 ---
-
-Provides type metadata for an explicit assembly in a candidate module generation.

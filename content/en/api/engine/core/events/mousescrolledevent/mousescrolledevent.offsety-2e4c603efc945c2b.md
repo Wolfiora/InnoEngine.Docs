@@ -13,5 +13,3 @@ reviewed: 0f1389838e676d662f78adf951f4891e85fae75be70a929ffd27c950cbdbe2af
 source: xml
 outdated: false
 ---
-
-Gets vertical scroll offset.

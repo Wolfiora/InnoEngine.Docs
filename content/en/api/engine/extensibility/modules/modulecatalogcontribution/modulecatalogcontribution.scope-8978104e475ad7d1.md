@@ -13,5 +13,3 @@ reviewed: 89ea5a294a4965f5f88c2196a43a8cdc59781cf7b7175b10ba16c004e9e18b81
 source: xml
 outdated: false
 ---
-
-Gets the default dependency scope.

@@ -13,5 +13,3 @@ reviewed: e535e5c4da1d37f3f2f7118061b4334ef633def2462385f1fac5bd2768f20eb9
 source: xml
 outdated: false
 ---
-
-Gets the stable target identity required by the authored graph.

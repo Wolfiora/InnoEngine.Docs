@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Executes a frozen product closure with one target toolchain and no implicit backend selection.

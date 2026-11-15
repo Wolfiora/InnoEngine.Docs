@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-layers#attachment-and-frame-contract
 aliases: []
 ---
-
-Defines a backend-neutral lifecycle participant that can receive frame callbacks and own event subscriptions.

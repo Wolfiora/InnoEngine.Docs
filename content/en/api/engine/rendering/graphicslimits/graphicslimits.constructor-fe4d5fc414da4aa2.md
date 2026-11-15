@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graphics limits snapshot.
-
 ## Parameters
 
 **Parameter `maxViews`:** Maximum logical backend views in one frame.

@@ -13,5 +13,3 @@ reviewed: 7b82f1ad5180c23fb2dfdf544731b2e9e0bf848bf9f20cb72e99ac087a08387e
 source: xml
 outdated: false
 ---
-
-A separate linker input referring to a shared library.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Defines the read-only effective settings boundary shared by Editor and Player hosts.

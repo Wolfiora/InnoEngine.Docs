@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Owns a cancellable sample clone, its pinned generation and its owner-thread publication.
-
 ## Remarks
 
 Advance and Commit run on the AssetPipeline initialization thread. A prepared copy is indexed in an isolated catalog for validation without publishing Changed; ordinary mutations and generation changes are deferred. Rollback must finish before the pipeline or any validation dependency can be released.

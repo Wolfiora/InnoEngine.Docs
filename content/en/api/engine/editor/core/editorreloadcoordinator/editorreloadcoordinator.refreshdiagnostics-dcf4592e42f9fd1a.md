@@ -13,5 +13,3 @@ reviewed: fa23105d39fc76b3fe8433df4e6875486fe914a1cf815d82dad1530c167e8344
 source: xml
 outdated: false
 ---
-
-Requests every live participant to republish diagnostics derived from its current state.

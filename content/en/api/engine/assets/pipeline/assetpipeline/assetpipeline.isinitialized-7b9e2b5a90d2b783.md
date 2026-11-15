@@ -13,5 +13,3 @@ reviewed: db35ef5232936b1af0d41816dcc5759570a736cf19283347769d06222f7717cc
 source: xml
 outdated: false
 ---
-
-Gets whether asset services are initialized.

@@ -13,5 +13,3 @@ reviewed: 1d690190e2062983a788060f95202420dd40620e6a77230b53b94ef155d63d4e
 source: xml
 outdated: false
 ---
-
-Gets the exact storage image format, or null for a structured buffer.

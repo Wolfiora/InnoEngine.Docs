@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a node with a generated stable identity.
-
 ## Parameters
 
 **Parameter `definitionId`:** Stable node definition ID.

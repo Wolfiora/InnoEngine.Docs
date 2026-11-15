@@ -13,5 +13,3 @@ reviewed: ca1e28a5c35af89a8a08e1a0e1ac26efd6fb7cee0d52cfafdba27a2ab9839c26
 source: xml
 outdated: false
 ---
-
-Gets the stable viewport identity.

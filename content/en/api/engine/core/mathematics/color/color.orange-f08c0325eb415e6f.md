@@ -13,5 +13,3 @@ reviewed: 0e13bb41c9d33684bcd5fc2c7ae86a72fd5e9461c5db1a622828fbf24da50ce8
 source: xml
 outdated: false
 ---
-
-The orange value used as part of this type's public representation.

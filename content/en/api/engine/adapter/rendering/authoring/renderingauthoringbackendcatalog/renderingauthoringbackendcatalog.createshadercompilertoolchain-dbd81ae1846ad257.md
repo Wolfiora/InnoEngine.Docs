@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader compiler toolchain using this implementation's validated inputs.
-
 ## Parameters
 
 **Parameter `backend`:** The backend consumed by create shader compiler toolchain; ownership remains with the caller unless explicitly stated otherwise.

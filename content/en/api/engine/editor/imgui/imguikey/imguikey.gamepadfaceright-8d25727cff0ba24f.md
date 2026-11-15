@@ -13,5 +13,3 @@ reviewed: f5759ac20dec3ef633d20bf955cb2ffb53a656d56fab672d53b00ae3234ee7f6
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadFaceRight presentation key or modifier.

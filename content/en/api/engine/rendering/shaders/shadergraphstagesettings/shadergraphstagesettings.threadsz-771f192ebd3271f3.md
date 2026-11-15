@@ -13,5 +13,3 @@ reviewed: aec467cc6567fd722bd6b9bbcded7966522d80361fa0b92ac58da041addb8878
 source: xml
 outdated: false
 ---
-
-Gets or sets compute workgroup depth.

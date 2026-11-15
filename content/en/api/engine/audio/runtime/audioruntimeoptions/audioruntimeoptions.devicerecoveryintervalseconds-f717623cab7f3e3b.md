@@ -13,5 +13,3 @@ reviewed: ae66bab93faf0a4efec6b9e7385ee74133550a90eb148439fb5d5b3e9ee93bf2
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive delay between output-device recovery attempts in seconds.

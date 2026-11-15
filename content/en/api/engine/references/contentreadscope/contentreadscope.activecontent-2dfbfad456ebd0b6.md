@@ -13,5 +13,3 @@ reviewed: b3dbaf210be80d954b023712ddbd103ce85098dc68e3624e7cf1aaf5f11e16eb
 source: xml
 outdated: false
 ---
-
-Gets the optional persistent identity selected as primary content.

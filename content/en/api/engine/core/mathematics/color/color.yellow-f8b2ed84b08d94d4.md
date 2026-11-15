@@ -13,5 +13,3 @@ reviewed: 431b68fbe66369514bffb59355e21fead735e02a4c9626ea7c9cdd49d03f693a
 source: xml
 outdated: false
 ---
-
-The yellow value used as part of this type's public representation.

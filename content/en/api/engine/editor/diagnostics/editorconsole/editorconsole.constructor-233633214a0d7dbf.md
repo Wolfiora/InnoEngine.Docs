@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a Console service that observes one editor Play Mode controller.
-
 ## Parameters
 
 **Parameter `logRouter`:** The host logging router whose entries are presented by this Console.

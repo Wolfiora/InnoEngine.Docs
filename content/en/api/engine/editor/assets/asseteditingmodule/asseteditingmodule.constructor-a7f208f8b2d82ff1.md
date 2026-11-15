@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the asset editing service for one authoring generation.
-
 ## Parameters
 
 **Parameter `interactions`:** The active editor interaction entry point.

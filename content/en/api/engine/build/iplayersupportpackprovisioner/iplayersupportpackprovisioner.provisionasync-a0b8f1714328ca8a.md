@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks current source inputs and selects a complete immutable pack before the build resumes.
-
 ## Parameters
 
 **Parameter `target`:** The platform and architecture target whose current inputs are required.

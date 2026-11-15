@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an opaque presentation texture token.
-
 ## Parameters
 
 **Parameter `value`:** Non-zero token allocated by the active presentation backend.

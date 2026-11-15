@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Optionally declares every input to a snapshot capture without writing data.
-
 ## Parameters
 
 **Parameter `value`:** The current registered identity source.

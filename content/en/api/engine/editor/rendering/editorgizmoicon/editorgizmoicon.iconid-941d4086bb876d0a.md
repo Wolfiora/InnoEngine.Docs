@@ -13,5 +13,3 @@ reviewed: 653942ac06cb56aa74a9cfb30fbb8d98d87043f7611a6178f7ee862b166693dc
 source: xml
 outdated: false
 ---
-
-The stable visual identity resolved by the Scene View presentation.

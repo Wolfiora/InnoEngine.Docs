@@ -13,5 +13,3 @@ reviewed: 11ae06b4333fc276ec10aac9966ad12f3996bf4f1ed73aa9034ee4d8f8e8248f
 source: xml
 outdated: false
 ---
-
-Gets the complete stage set; empty if any stage failed.

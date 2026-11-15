@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins an edit whose updates use the existing domain mutation and History protocols.
-
 ## Parameters
 
 **Parameter `history`:** The authoritative History for the current editor session.

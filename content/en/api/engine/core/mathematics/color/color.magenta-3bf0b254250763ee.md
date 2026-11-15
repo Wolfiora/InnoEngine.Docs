@@ -13,5 +13,3 @@ reviewed: 7258b901e1117d10fb87edd36a1a2f81ac3a6354669a395cbc85b1e03ea31848
 source: xml
 outdated: false
 ---
-
-The magenta value used as part of this type's public representation.

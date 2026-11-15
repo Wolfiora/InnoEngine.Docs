@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the zero-based component/member/element ordinal for an Extract instruction.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates validated text styling.
-
 ## Parameters
 
 **Parameter `fontSize`:** The positive font size in logical pixels.

@@ -13,5 +13,3 @@ reviewed: 6c5c6f92bb02f33395b842771324d6e6dbb85ca98de55761de6c78943843d62f
 source: xml
 outdated: false
 ---
-
-Uses four-direction movement arrows.

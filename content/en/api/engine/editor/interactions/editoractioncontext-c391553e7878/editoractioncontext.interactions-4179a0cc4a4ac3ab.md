@@ -13,5 +13,3 @@ reviewed: 3723ea10fa74eeda7792a7c1966daa3744ef1749c89bdd29783132ef10c9f343
 source: xml
 outdated: false
 ---
-
-Gets the active interaction entry point.

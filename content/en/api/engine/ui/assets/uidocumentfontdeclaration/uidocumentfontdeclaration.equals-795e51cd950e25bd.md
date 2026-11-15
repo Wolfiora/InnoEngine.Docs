@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether the specified object is equal to the current object.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with the current object.

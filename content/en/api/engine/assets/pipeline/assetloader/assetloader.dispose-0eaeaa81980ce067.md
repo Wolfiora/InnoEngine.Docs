@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops new loads and releases canonical assets before their registries and diagnostics.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A load, serialized operation or unload hook is still active. Retain the loader and retry after quiescence.

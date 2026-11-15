@@ -13,5 +13,3 @@ reviewed: 23eb43eaec5db0b6dcb2584c090410b86dad3e2bc32088ca765fdd50d9e898b5
 source: xml
 outdated: false
 ---
-
-Gets open semantic resources for this request.

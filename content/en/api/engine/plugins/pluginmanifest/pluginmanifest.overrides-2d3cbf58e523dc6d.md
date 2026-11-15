@@ -13,5 +13,3 @@ reviewed: 6f9b7b18531fb523bda8505efb0f0fdb83e34a133794ac68effeb993be29f08b
 source: xml
 outdated: false
 ---
-
-Gets or sets dependency Plugin IDs whose contributions may be explicitly replaced.

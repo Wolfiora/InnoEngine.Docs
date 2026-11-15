@@ -13,5 +13,3 @@ reviewed: 8fc01e312d23683bd6cd570692eca4f5faad4cd4c15ae81309b03a715469ab4e
 source: xml
 outdated: false
 ---
-
-Gets the current primary target for this callback, or null when unavailable or unselected.

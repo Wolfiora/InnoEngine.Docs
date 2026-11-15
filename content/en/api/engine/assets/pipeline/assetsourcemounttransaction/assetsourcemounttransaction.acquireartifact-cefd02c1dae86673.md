@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retains one verified output so cache collection cannot remove an active generation.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity.

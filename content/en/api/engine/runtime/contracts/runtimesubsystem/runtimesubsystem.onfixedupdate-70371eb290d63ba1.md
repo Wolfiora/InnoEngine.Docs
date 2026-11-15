@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances one deterministic fixed step.
-
 ## Parameters
 
 **Parameter `frame`:** The fixed-step timing.

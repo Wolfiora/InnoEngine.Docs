@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Describes an issue that prevents the associated operation from succeeding.

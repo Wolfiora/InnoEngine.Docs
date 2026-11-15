@@ -13,5 +13,3 @@ reviewed: 96671beb98183497fb7351f60c348c3cf9ebe2faebde387221ff09428bd1a399
 source: xml
 outdated: false
 ---
-
-Gets whether every matching property was restored successfully.

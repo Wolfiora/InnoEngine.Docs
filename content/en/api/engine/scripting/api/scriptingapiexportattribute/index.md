@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Exports one public runtime type to a script compilation profile.
-
 ## Remarks
 
 The declaration assembly does not need to own the exported type. Feature projects may expose selected types from lower-level dependencies while the generated runtime reference preserves the exported type's original assembly identity.

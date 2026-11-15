@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reversibly activates a complete candidate while the previous snapshot remains available.
-
 ## Parameters
 
 **Parameter `previous`:** The previous active snapshot, or `null` during initial activation.

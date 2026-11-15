@@ -13,5 +13,3 @@ reviewed: b97db1f295796bc9ebd598ee741f5451b70b7c5aa84b092fba2aa65c7025d054
 source: xml
 outdated: false
 ---
-
-Gets the immutable capability prerequisites checked before allocating subsystem resources.

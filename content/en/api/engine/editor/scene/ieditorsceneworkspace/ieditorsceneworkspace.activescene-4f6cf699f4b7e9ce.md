@@ -13,5 +13,3 @@ reviewed: a3c063240ef687f09617240b801608c675f3f6c92cd8fa7d3d0e57ad1001418f
 source: xml
 outdated: false
 ---
-
-Gets the active scene from the currently presented Edit or Play world.

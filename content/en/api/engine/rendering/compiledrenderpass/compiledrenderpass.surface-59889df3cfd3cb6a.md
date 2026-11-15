@@ -13,5 +13,3 @@ reviewed: a893974cb2b5e434fa0c76e4790ce22b3656f599dfea0b6b97157168307504ef
 source: xml
 outdated: false
 ---
-
-Gets the detached presentation surface, or an invalid handle for the primary backbuffer.

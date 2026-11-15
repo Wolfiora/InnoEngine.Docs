@@ -13,5 +13,3 @@ reviewed: c75c39d870aba8405e7f446b1af99a3c682ecd0848d352ac64bea65eac8d348f
 source: xml
 outdated: false
 ---
-
-Gets the provider's actual target and execution capabilities.

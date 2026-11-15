@@ -13,5 +13,3 @@ reviewed: e7c7193dcbf5e778878e011bdbbee27c68553fbb8f121f0c8665f77ffa37b742
 source: xml
 outdated: false
 ---
-
-Gets whether failed publication or retirement has faulted the host and requires a restart.

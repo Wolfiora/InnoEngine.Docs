@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Always show horizontal scrollbar (even if ContentSize.x \< Size.x)

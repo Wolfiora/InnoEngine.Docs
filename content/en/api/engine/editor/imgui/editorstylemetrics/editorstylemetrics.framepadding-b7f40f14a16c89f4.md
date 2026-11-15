@@ -13,5 +13,3 @@ reviewed: 32ec05549b9b37d62b34387c7bc34de5c57dfe996998738f627a364f25c55660
 source: xml
 outdated: false
 ---
-
-Gets standard frame padding.

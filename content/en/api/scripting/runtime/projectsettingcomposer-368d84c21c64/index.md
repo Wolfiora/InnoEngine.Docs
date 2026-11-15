@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Defines the non-generic base for a protocol-owned project setting composer.

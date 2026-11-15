@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a requested name without modifying the source.
-
 ## Parameters
 
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.

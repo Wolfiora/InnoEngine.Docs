@@ -13,5 +13,3 @@ reviewed: 312834059b27dc9e6a16e6066a44d42f4262a720ff1dbbfd9c6187cf3c52bd18
 source: xml
 outdated: false
 ---
-
-Gets whether the backend can select nonzero faces from a font collection.

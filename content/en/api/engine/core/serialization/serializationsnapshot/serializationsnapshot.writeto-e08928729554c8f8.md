@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Streams this capture in the ordinary deterministic binary format without requiring a contiguous complete-output buffer.
-
 ## Parameters
 
 **Parameter `destination`:** The writable caller-owned stream, which remains open.

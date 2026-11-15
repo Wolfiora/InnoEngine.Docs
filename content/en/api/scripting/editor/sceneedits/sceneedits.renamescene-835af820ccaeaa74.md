@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Renames a loaded scene and records the two display strings.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to rename.

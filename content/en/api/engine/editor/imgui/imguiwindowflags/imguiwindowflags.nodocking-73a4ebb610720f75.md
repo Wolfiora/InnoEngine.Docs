@@ -13,5 +13,3 @@ reviewed: 26b927fddf5681613fe24b41234f03468f942d2a7f6b6d8136dadf9743a0d98f
 source: xml
 outdated: false
 ---
-
-Disable docking of this window

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds every game object assigned to any layer contained in a mask.
-
 ## Parameters
 
 **Parameter `layers`:** The set of accepted layer slots.

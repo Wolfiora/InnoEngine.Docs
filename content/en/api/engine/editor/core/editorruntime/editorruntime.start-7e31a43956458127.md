@@ -13,5 +13,3 @@ reviewed: 97d02d4dc7cb4a316882c1f82d6360f1c7cb41cc6f818c3ca07744bd36c3e3a6
 source: xml
 outdated: false
 ---
-
-Starts the runtime and activates its initial extension generation.

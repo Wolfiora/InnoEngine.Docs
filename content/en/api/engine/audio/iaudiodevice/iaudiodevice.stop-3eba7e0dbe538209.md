@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops a voice and makes its handle terminal.
-
 ## Parameters
 
 **Parameter `voice`:** Voice owned by the current device generation.

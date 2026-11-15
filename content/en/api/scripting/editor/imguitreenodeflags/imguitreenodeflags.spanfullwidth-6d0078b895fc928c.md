@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Extend hit box to the left-most and right-most edges (cover the indent area).

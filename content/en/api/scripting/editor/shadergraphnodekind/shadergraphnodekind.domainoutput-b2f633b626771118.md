@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Leaves the node as a typed domain boundary for the selected Shader Target.

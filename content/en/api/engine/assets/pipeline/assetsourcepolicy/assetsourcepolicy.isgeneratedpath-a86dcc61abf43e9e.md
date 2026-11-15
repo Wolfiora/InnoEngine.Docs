@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a path is generated asset metadata.
-
 ## Parameters
 
 **Parameter `relativePath`:** The normalized path relative to its owning source mount.

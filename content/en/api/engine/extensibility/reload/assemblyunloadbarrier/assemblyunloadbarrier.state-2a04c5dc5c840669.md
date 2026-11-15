@@ -13,5 +13,3 @@ reviewed: cba6baf58ea05ec72e4627983ebba49fd55cbfcec56007e03020ad387655d814
 source: xml
 outdated: false
 ---
-
-Gets the current barrier state.

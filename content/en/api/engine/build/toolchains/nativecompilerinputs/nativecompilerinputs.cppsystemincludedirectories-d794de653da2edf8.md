@@ -13,5 +13,3 @@ reviewed: 01dcbb2b85ba6ad4218dc7eff1b7c97e44f2b37cdbbd1a15588baff84269cd9c
 source: xml
 outdated: false
 ---
-
-Gets ordered C++ standard library directories.

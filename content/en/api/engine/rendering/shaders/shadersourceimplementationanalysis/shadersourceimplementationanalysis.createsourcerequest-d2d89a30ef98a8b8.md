@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recreates a compiler input backed only by immutable captured sources and resolution edges.
-
 ## Returns
 
 A request with no filesystem access or reference to the original frontend, resolver or generation.

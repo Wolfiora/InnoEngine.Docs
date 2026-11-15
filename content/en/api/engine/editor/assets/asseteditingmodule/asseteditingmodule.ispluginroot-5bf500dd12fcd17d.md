@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an indexed entry is the root of an installed Plugin.
-
 ## Parameters
 
 **Parameter `entry`:** The currently indexed source identity.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Creates a default-constructed native source for an authorable asset type.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Concrete serializable asset type.

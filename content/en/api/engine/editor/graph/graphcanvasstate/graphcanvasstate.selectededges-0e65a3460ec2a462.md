@@ -13,5 +13,3 @@ reviewed: 8275e99dee8ebba2aa3a87c2edf11a6108bc2eeea2a1e40e000b0b0ef925488f
 source: xml
 outdated: false
 ---
-
-Gets selected edge identities.

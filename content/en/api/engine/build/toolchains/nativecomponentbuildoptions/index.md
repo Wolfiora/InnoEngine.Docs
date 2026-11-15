@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes product-owned linkage, ordered component definitions and their configuration inputs.

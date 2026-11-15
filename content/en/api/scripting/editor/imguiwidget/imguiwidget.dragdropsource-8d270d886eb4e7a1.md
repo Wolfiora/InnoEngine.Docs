@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Publishes an unmanaged drag payload for the most recently submitted item.
-
 ## Type parameters
 
 **Type parameter `TPayload`:** Unmanaged payload type.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Rasterizes one shaped glyph into immutable 8-bit coverage.
-
 ## Parameters
 
 **Parameter `font`:** The imported font source.

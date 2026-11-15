@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs after an asset deletion transaction commits successfully.
-
 ## Parameters
 
 **Parameter `context`:** The immutable snapshot captured before the entry was deleted.

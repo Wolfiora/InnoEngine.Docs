@@ -13,5 +13,3 @@ reviewed: 3cc48be5ecf75567f8bf0b3130175cb3f0131284d45f2d55cd657a7fa1ee99af
 source: xml
 outdated: false
 ---
-
-Gets the most recently completed compilation.

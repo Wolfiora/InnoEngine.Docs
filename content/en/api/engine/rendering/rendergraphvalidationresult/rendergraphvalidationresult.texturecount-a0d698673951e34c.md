@@ -13,5 +13,3 @@ reviewed: 98fc0c353f088c11308abdd16121f6461760d7f8eba3470d05b320e68f0cc04e
 source: xml
 outdated: false
 ---
-
-Gets the number of declared transient and imported textures.

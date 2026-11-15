@@ -13,5 +13,3 @@ reviewed: 2dd5ac30317731e5e2c718f4efe1c1cd16e452db8f1857fceb261952e449f1ea
 source: xml
 outdated: false
 ---
-
-Compute dispatch commands.

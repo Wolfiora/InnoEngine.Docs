@@ -13,5 +13,3 @@ reviewed: 4a022e5faa99ffb0ffb8c0d1e783e1297e3793036357e41fd7a818cf8c6e8681
 source: xml
 outdated: false
 ---
-
-Gets wheel movement accumulated during this frame.

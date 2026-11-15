@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the complete identity assigned to a layer slot.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project namespace.

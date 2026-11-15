@@ -13,5 +13,3 @@ reviewed: 92fcee0d3a5ff9bd04e696b6b341aeb0fd31772e3231d4cda062039601e856b5
 source: xml
 outdated: false
 ---
-
-Resize every window to its content every frame

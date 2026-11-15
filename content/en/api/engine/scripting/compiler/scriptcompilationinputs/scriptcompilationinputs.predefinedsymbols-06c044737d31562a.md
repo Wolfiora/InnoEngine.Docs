@@ -13,5 +13,3 @@ reviewed: 4babb26d85090b5c1019d952e8d00cf25685aa64de029ffbe559ecd6fc6e3042
 source: xml
 outdated: false
 ---
-
-Gets SDK-produced symbols shared by runtime compilation and IDE projects.

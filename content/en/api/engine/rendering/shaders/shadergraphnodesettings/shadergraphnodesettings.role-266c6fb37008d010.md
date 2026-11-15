@@ -13,5 +13,3 @@ reviewed: 5127aec177068fc749ce444a2d97eb6b9322f2169293867b64e2d195ea77d152
 source: xml
 outdated: false
 ---
-
-Gets or sets the domain role consumed by a Target; empty for ordinary inline functions.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rectangle from minimum and maximum boundaries; point containment excludes the maximum boundary.
-
 ## Parameters
 
 **Parameter `min`:** The min consumed by from min max; ownership remains with the caller unless explicitly stated otherwise.

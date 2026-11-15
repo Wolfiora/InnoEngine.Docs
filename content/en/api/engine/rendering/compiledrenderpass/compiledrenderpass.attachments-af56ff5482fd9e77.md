@@ -13,5 +13,3 @@ reviewed: 3101d0fb26f19533d4ded47dde5f81e055dbe81564f2e6745b248e68629ed44e
 source: xml
 outdated: false
 ---
-
-Gets raster attachments in declaration order.

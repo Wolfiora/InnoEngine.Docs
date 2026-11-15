@@ -13,5 +13,3 @@ reviewed: 0cb1734d8d8d78ddb17995791cacdc9ced254c5204253f49b21841d124850c19
 source: xml
 outdated: false
 ---
-
-Gets the linear color clear value.

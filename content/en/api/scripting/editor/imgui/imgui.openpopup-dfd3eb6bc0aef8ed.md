@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Opens a named popup.
-
 ## Parameters
 
 **Parameter `id`:** The popup identity.

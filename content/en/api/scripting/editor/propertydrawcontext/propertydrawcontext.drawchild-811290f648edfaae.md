@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a nested value whose setter writes through this property path.
-
 ## Parameters
 
 **Parameter `childName`:** The stable child member name appended to this property path.

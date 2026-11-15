@@ -13,5 +13,3 @@ reviewed: c6e0262b780fb8310ec1e7ea5281795c24d5e74ceb9173864cd4d942bce53a18
 source: xml
 outdated: false
 ---
-
-Creates a Settings definition. A field supplies its persisted default through `P:Inno.Editor.Settings.EditorSetting.defaultValue`; a page keeps the base implementation.

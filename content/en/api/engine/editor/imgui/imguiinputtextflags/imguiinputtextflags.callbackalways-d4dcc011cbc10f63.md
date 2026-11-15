@@ -13,5 +13,3 @@ reviewed: 3b2b903fa8c2e19976d7c20d0904009ca705b25e06640d99767800b9ddfa2fdd
 source: xml
 outdated: false
 ---
-
-Callback on each iteration. User code may query cursor position, modify text buffer.

@@ -13,5 +13,3 @@ reviewed: 3cba734fe53769e9c153e6426a57671458214f6b3232eafe5929825afe93743a
 source: xml
 outdated: false
 ---
-
-Gets rejected contributions in this collection, including overflow and duplicate identities.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a detached property value; missing values use the node's declared default.
-
 ## Type parameters
 
 **Type parameter `T`:** Native serializable property type.

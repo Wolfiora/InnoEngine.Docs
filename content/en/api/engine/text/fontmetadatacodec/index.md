@@ -16,5 +16,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Encodes the compact runtime payload shared by the font importer and text runtime.

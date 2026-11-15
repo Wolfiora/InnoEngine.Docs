@@ -13,5 +13,3 @@ reviewed: a21776647c27d7c0763beb8dbadbd85d44c17d3cef8afa8abaf16514d219335c
 source: xml
 outdated: false
 ---
-
-Gets the stable visual group identity.

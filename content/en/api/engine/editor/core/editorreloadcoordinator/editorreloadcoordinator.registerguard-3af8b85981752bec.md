@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a weak admission guard without stopping its owner or creating a generation transaction.
-
 ## Parameters
 
 **Parameter `guard`:** The owner whose current state determines reload admission.

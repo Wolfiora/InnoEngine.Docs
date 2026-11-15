@@ -13,5 +13,3 @@ reviewed: bb604ba4913532cc25ac1e88f958527a08edb33e159dbf1c3338b0cd3ac8312d
 source: xml
 outdated: false
 ---
-
-Gets whether the visible focus index changed.

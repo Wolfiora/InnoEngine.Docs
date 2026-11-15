@@ -13,5 +13,3 @@ reviewed: f282c323cfa947a489bf3ac97964b5acc0a2d49a6a78333d7bd84dba7e898bb7
 source: xml
 outdated: false
 ---
-
-The F2 function key.

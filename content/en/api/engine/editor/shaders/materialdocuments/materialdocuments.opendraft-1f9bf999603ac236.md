@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens the current source draft without publishing it.
-
 ## Parameters
 
 **Parameter `path`:** The isolated Material source path.

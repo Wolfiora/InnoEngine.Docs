@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Default if BordersOuterV is on. Enable outermost padding. Generally desirable if you have headers.

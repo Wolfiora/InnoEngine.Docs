@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Provides small backend-neutral starting documents composed exclusively of ordinary graph nodes.

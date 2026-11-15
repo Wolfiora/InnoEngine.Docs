@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one backend spatial listener.
-
 ## Parameters
 
 **Parameter `state`:** Initial listener transform.

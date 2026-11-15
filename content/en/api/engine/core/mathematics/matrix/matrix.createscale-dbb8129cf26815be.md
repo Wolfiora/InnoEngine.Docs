@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a non-uniform scale matrix.
-
 ## Parameters
 
 **Parameter `x`:** Scale factor on X axis.

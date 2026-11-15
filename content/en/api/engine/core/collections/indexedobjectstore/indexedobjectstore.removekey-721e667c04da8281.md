@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a key previously defined on the store.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

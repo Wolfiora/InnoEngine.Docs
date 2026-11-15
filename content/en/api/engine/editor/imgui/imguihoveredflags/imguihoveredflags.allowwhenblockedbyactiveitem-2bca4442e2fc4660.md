@@ -13,5 +13,3 @@ reviewed: 5a798ee54c8029c403db9d6eace5747a25704eb4b5bdd2df1da787b2f403b7fe
 source: xml
 outdated: false
 ---
-
-Return true even if an active item is blocking access to this item/window. Useful for Drag and Drop patterns.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Describes the availability of the active audio output generation.

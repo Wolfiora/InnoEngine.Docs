@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a new native tree into an unpublished candidate exclusively owned by the caller.
-
 ## Parameters
 
 **Parameter `products`:** The pinned, validated products to copy into the candidate.

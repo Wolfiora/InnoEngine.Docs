@@ -13,5 +13,3 @@ reviewed: 2c11669843b52d380cc0146146331c158ee494a4a7abc09490f01c660a625cba
 source: xml
 outdated: false
 ---
-
-Gets the borrowed source of deployment metadata and verified immutable content.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Re-evaluates the graph and re-reads its current bytes in a fresh verification phase.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels evaluation and verification without changing any published output.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically published progress owned by one reload request, containing no runtime or extension objects.
-
 ## Parameters
 
 **Parameter `operationId`:** The host-local reload request sequence; zero precedes the first request.

@@ -13,5 +13,3 @@ reviewed: 863bb8490361d6af8a2242f09c04ebc57e8a474f94654e719d13988dfab46d77
 source: xml
 outdated: false
 ---
-
-Selects the middle presentation behavior.

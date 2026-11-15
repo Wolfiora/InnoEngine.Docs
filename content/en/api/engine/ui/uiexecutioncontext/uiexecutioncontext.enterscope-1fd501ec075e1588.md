@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a UI service until the returned strict last-in-first-out scope is disposed.
-
 ## Parameters
 
 **Parameter `ui`:** The host-owned UI service.

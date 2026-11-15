@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Prepares an entire binding closure without coupling native recipes to a generator or build host.

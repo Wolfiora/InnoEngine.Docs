@@ -13,5 +13,3 @@ reviewed: cd7b2aa905f919e50754d15ccb25d37ff2852b34cb44d14a1c16d821f5b0804b
 source: xml
 outdated: false
 ---
-
-Gets whether an Undo transition is currently available.

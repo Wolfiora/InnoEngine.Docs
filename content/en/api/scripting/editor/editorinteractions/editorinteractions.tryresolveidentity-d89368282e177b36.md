@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a domain-qualified runtime identity through the Editor's complete identity-domain set.
-
 ## Parameters
 
 **Parameter `identity`:** Runtime identity captured from a live Editor target.

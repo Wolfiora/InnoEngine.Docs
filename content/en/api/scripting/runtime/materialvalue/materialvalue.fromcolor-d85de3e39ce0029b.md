@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a linear color material value.
-
 ## Parameters
 
 **Parameter `value`:** Color value.

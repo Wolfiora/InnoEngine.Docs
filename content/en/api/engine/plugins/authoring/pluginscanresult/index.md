@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Contains a complete immutable Plugin discovery result.

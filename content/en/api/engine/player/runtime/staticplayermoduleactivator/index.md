@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Activates explicit linked code without probing assemblies or opening runtime code files.

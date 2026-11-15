@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Prepares current Player Support Pack inputs without coupling game builds to an SDK or platform toolchain.

@@ -13,5 +13,3 @@ reviewed: b38f44c79702cedc216f913c034cfe0e5597851a9bab0e0eb6ebd4e5d18e4cfd
 source: xml
 outdated: false
 ---
-
-Gets or sets the managed and native tool configuration.

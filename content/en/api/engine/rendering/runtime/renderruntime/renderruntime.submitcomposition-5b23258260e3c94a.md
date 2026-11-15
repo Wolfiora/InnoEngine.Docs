@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits one or more independently rendered model layers for premultiplied-alpha output composition.
-
 ## Parameters
 
 **Parameter `name`:** Stable frame-local composition identity.

@@ -13,5 +13,3 @@ reviewed: 376fe9837beaa5e69a5031b58923016b6e2b5bb3506b7fddedabdabe4c83e7a7
 source: xml
 outdated: false
 ---
-
-Gets exact model and source assignments in draw order.

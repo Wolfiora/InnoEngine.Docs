@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects frame requests from rendering models and registered providers.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

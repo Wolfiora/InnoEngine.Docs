@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the maximum owner-thread drain duration before retirement faults the host.
-
 ## Parameters
 
 **Parameter `timeout`:** A positive deadline shared by failed startup, session stop and host shutdown.

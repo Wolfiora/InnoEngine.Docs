@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a key is currently held.
-
 ## Parameters
 
 **Parameter `key`:** The backend-neutral physical key.

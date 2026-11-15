@@ -13,5 +13,3 @@ reviewed: e623e00b2ea90e28bfe2355bef41f9f1b4f4f57266f229535792529cb7e07854
 source: xml
 outdated: false
 ---
-
-Gets the definition id text used by the current instance.

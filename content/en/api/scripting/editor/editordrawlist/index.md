@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-A pointer-free drawing borrow valid only in its original window, UI session and frame.

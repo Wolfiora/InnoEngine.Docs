@@ -13,5 +13,3 @@ reviewed: fd1cd49ca62d973075eb52f90f8d4213f81b72abe43133e17a24c98232f28fd8
 source: xml
 outdated: false
 ---
-
-Gets whether source or plugin changes are waiting to be compiled.

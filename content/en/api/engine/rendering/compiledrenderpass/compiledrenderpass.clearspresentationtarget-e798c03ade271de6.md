@@ -13,5 +13,3 @@ reviewed: ae9b81b8b03a8cdc6dbab9fe2579e32433a0e183020e8726feb3ecd6923216d5
 source: xml
 outdated: false
 ---
-
-Gets whether this pass clears its presentation target before drawing.

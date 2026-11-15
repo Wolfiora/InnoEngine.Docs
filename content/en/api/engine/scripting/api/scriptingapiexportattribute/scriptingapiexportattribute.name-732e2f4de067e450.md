@@ -13,5 +13,3 @@ reviewed: c19148b4d30e8bf033e5630acba776814a5263830b72dcfc6caf14d78966a98f
 source: xml
 outdated: false
 ---
-
-Gets the type name presented by the script facade.

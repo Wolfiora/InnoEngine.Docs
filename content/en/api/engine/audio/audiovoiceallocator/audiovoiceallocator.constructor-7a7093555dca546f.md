@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an isolated playback identity owner.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The process exhausted its owner generations.

@@ -13,5 +13,3 @@ reviewed: 03b09e8c69fac8d1203a1d8db41f84f05c14997f7c45476e4a3876db6d810647
 source: xml
 outdated: false
 ---
-
-Gets the host-owned, isolated diagnostic producer.

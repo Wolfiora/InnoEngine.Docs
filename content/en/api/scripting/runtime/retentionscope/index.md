@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Owns multiple asset, artifact, or subsystem leases as one reverse-order lifetime.

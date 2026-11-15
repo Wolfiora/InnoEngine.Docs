@@ -13,5 +13,3 @@ reviewed: 0d66e7026f83e1fdf6b7cb64ce0733ee2dfb84c8b07647429d8afb43e4a5398d
 source: xml
 outdated: false
 ---
-
-The 7 key on the numeric keypad.

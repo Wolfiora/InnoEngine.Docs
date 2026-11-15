@@ -20,5 +20,3 @@ contracts:
 aliases:
 - api.inno.editor.imgui.editor-script.8d9805abb89f7a4a
 ---
-
-Defines the supported key choices at the Editor presentation boundary.

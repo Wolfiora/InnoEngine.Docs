@@ -13,5 +13,3 @@ reviewed: 9ecbf3dbd3a744b8cb3709eccb42d220f02c58f0a7a42e3dbdfe3d3ca7a28c46
 source: xml
 outdated: false
 ---
-
-Gets the narrow structured serialization API bound to this importer candidate.

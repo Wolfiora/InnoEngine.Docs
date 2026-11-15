@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a layer with the supplied diagnostic name.
-
 ## Parameters
 
 **Parameter `name`:** The non-empty name used to identify the layer in diagnostics.

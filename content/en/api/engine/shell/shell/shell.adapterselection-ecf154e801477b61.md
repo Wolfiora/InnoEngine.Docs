@@ -13,5 +13,3 @@ reviewed: 730f8085bc8283f44100abfce3c0e84254c012edd5370155e790edea449def30
 source: xml
 outdated: false
 ---
-
-Gets the immutable backend selection used by this product host.

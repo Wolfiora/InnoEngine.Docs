@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Creates a content compiler borrowing the active authoring services for one pipeline.
-
 ## Parameters
 
 **Parameter `assets`:** The asset owner whose content the build freezes.

@@ -13,5 +13,3 @@ reviewed: e7cf1a586261dd1e05537382bb1a622ac1da3e2b16dd04d4f93d1944952c2e2a
 source: xml
 outdated: false
 ---
-
-The width in logical units or pixels required by this operation.

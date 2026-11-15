@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Lowers an exact scalar constant; its type/value are native graph properties.

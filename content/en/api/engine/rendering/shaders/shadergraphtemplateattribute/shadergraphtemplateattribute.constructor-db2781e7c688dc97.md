@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates Shader graph template discovery metadata.
-
 ## Parameters
 
 **Parameter `id`:** Stable template identity used by creation commands.

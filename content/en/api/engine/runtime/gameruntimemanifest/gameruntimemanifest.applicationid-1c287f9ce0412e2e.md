@@ -13,5 +13,3 @@ reviewed: 7e3c86ee6a9ed323344cc92c8c2c318d542766f95cf7b3a3c8e26f722b6b1dc3
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable lowercase application identifier.

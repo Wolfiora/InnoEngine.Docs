@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the composition host around stable rendering and interaction services.
-
 ## Parameters
 
 **Parameter `host`:** Host-owned target and opaque texture bridge.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the number of currently registered identity entries.
-
 ## Remarks
 
 Registry entries are weak. An entry whose object has been collected may remain counted until a lookup or registration observes and removes it. This property is not a strong-reference count or a liveness test.

@@ -13,5 +13,3 @@ reviewed: 17a79da5b34cbf23f15d27c31b2709bb240c2ee1e016c15d3d0c3e15f2d312a7
 source: xml
 outdated: false
 ---
-
-Gets the number of materialized canonical assets.

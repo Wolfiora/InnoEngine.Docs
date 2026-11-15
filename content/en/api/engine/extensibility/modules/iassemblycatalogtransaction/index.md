@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Controls one participant's prepared state during an assembly catalog transaction.

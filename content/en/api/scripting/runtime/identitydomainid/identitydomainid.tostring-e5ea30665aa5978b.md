@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats this runtime domain identifier for diagnostics.
-
 ## Returns
 
 The numeric domain value, or `<invalid>` when the value is not allocated.

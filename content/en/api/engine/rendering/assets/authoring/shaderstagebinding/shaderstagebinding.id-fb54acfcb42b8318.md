@@ -13,5 +13,3 @@ reviewed: 2a15529d8d45a3ba9b5e5df818226fad857621f6e4fd1518e021a1afec7621e0
 source: xml
 outdated: false
 ---
-
-Stable logical binding identity from the typed stage.

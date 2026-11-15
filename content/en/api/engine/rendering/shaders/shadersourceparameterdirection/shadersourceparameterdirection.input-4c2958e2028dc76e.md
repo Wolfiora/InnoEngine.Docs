@@ -13,5 +13,3 @@ reviewed: 4d355401b4b20d890134d319644291455514f2367ed9a448ac3db5c00b73f1d9
 source: xml
 outdated: false
 ---
-
-The caller supplies a value.

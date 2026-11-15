@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores detached extension settings using this asset's actual owner and converter generation.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Current settings contract with a stable type identity.

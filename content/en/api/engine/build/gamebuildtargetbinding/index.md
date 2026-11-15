@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Binds independent packaging and content implementations for one publication target.

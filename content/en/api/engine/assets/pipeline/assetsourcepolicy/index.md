@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Defines which physical entries are excluded from an asset source tree.

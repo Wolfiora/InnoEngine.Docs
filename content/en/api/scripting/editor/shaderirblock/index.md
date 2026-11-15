@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Contains immutable ordered instructions and nested structured regions without retaining builder callbacks.

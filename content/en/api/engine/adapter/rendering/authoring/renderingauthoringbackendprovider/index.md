@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering-authoring
 aliases: []
 ---
-
-Supplies authoring tools paired with one runtime rendering implementation.

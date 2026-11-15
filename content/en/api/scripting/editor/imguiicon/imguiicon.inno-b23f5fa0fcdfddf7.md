@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the InnoEngine logo glyph available in every default Editor font style.

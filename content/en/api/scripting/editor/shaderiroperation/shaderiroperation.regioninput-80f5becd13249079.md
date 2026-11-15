@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Provides a typed iteration index or loop-carried value inside a nested region.

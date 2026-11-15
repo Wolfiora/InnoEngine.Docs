@@ -13,5 +13,3 @@ reviewed: 6767e0bb74a176d154b7b000da4374eaab36a5d3cca0c7cb0b62f2fe75d2fa48
 source: xml
 outdated: false
 ---
-
-Selects the mouse button shift presentation behavior.

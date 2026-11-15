@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attaches a provider's immutable tool selection while preserving this operation's input ownership.
-
 ## Parameters
 
 **Parameter `toolchain`:** The complete selection resolved for the requested target.

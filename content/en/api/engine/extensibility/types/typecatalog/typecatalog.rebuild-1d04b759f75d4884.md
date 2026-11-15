@@ -13,5 +13,3 @@ reviewed: 73298e3339f35f57f08dd361d25c6a8a480a4336753883218de8a75bcd683829
 source: xml
 outdated: false
 ---
-
-Rebuilds the assembly catalog, type snapshot, and every registered type registry.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a menu item with explicit availability and checked state.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional stable ID suffix.

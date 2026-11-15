@@ -13,5 +13,3 @@ reviewed: 7146703bf526c746131d0d9525fbaa5eef29ac8d89f902753d2d43ab92297fe6
 source: xml
 outdated: false
 ---
-
-Gets the distribution-selected factory borrowing each pipeline's authoring generation.

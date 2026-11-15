@@ -13,5 +13,3 @@ reviewed: fca5aee3788b5aea311d2284966d9fc0fc39d94f57fdb73547c2449e38233ce9
 source: xml
 outdated: false
 ---
-
-Gets the serialization visibility flags.

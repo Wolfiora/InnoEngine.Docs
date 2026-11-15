@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Preserves one recoverable slot and its neutral owner state without retaining runtime objects.

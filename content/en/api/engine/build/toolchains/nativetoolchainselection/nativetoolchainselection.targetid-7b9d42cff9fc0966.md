@@ -13,5 +13,3 @@ reviewed: c7cffa6ad8e201eff76c1805d708cfa3391c94181311cbd18e8d3b2441ca7a85
 source: xml
 outdated: false
 ---
-
-Gets the target identity, without inferring it from the execution host.

@@ -13,5 +13,3 @@ reviewed: f41f37e0cf5b6cec7741e274fe3587ac1506b4456895b91514170d6cd057b300
 source: xml
 outdated: false
 ---
-
-Gets the maximum accepted jobs per frame; zero selects 65536.

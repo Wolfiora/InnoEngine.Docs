@@ -13,5 +13,3 @@ reviewed: 5000cdfa428a792184832a95fff360cd3cd96c97bbe05c684b3ddfae3d743fd4
 source: xml
 outdated: false
 ---
-
-Gets the latest immutable editor frame snapshot.

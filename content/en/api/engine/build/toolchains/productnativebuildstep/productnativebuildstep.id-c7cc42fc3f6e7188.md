@@ -13,5 +13,3 @@ reviewed: d6da7f309c55d34a4ab9d9fa8dacdbfcf80ddb2d2cc21e13d7efdee0edb31a3d
 source: xml
 outdated: false
 ---
-
-Gets the exact expected component identity.

@@ -13,5 +13,3 @@ reviewed: e406d4b288d3e73ad713b5d7377a5bfac4510e7ace7ca9398aa2738988775248
 source: xml
 outdated: false
 ---
-
-Gets the source fingerprint required by a subsequent save.

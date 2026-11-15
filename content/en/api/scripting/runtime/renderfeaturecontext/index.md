@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Supplies one configured feature with frame-scoped graph services.

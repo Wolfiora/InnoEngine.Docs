@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Contributes editor-owned live state to an assembly reload without coupling the reload requester to a feature domain.

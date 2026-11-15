@@ -13,5 +13,3 @@ reviewed: 59bfc2bcefcfdcbed9d0d1f909c845084354981be274557b567ae56e294c1000
 source: xml
 outdated: false
 ---
-
-The down value used as part of this type's public representation.

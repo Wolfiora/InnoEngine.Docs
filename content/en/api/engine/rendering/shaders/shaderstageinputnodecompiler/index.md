@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Reads one target-assigned stage/resource input without choosing a native variable name.

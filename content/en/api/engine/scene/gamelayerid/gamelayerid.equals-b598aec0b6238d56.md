@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Indicates whether the current object is equal to another object of the same type.
-
 ## Parameters
 
 **Parameter `other`:** An object to compare with this object.

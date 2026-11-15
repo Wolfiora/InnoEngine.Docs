@@ -13,5 +13,3 @@ reviewed: 5348c951d11a148fdc2bcd6f6d56d6adb35efbed9b85bc50c6a2b1ac43e4ef32
 source: xml
 outdated: false
 ---
-
-Gets whether the row is selected.

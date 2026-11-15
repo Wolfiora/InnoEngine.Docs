@@ -13,5 +13,3 @@ reviewed: 663cf5b70ec478b21c5f510b285612215e8ea8b60ddd6cbac0847fed9e2e3eaf
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the clip repeats after its duration.

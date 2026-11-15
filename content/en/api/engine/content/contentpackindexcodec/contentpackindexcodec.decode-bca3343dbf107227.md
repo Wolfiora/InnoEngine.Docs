@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores and validates one current-format payload inventory.
-
 ## Parameters
 
 **Parameter `data`:** The complete structured index bytes.

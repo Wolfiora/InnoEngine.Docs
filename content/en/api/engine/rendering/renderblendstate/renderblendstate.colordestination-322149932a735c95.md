@@ -13,5 +13,3 @@ reviewed: 337a74763f907b85e2afeeb298cf67573933ab565be5ab6f69938bd8a57eaacb
 source: xml
 outdated: false
 ---
-
-Gets or sets the destination multiplier for RGB channels.

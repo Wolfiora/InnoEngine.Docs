@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Collects the validated presentation backend options values that configure one owned operation.

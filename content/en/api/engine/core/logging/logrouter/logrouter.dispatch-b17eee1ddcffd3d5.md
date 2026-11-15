@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues an immutable entry under the configured worker or inline delivery policy.
-
 ## Parameters
 
 **Parameter `entry`:** The entry to dispatch when it satisfies the current severity policy.

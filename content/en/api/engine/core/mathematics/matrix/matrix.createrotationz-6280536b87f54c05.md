@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rotation matrix around the Z axis (radians).
-
 ## Parameters
 
 **Parameter `radians`:** Rotation angle in radians.

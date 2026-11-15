@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allow no sorting, disable default sorting. TableGetSortSpecs() may return specs where (SpecsCount == 0).

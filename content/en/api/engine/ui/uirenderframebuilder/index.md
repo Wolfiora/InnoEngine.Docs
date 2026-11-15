@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Builds one immutable backend-neutral frame while transferring ownership of update arrays.
-
 ## Remarks
 
 This backend SPI is intentionally not exported to ordinary game scripts.

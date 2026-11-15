@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a detached current-generation value; callers must never mutate its referenced canonical assets.
-
 ## Parameters
 
 **Parameter `assetId`:** Open asset identity.

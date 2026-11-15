@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this instance is equal to another matrix.
-
 ## Parameters
 
 **Parameter `other`:** Other matrix.

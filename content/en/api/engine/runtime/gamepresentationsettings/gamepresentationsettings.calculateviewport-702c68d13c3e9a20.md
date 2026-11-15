@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the centered content region for an available presentation surface.
-
 ## Parameters
 
 **Parameter `availableWidth`:** Positive available surface width in pixels or logical preview units.

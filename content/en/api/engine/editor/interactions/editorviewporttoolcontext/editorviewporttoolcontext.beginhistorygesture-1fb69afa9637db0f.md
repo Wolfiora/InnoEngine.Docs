@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins the only history transaction allowed for the current captured gesture.
-
 ## Parameters
 
 **Parameter `name`:** User-facing Undo operation name.

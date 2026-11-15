@@ -13,5 +13,3 @@ reviewed: cbce2f0faecd44142d7cbf5eb9d5ee8a63c2f6c29cef581647003db656a7d660
 source: xml
 outdated: false
 ---
-
-Gets canonical source text, or null after failure.

@@ -13,5 +13,3 @@ reviewed: f892ad7e004f17da8a23644accda3e299a06db7ff116c39e8e3b8bc3264106d5
 source: xml
 outdated: false
 ---
-
-Gets the selected SDK's managed CLI entry assembly, invoked with the recorded host without resolving another SDK from a temporary execution directory.

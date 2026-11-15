@@ -13,5 +13,3 @@ reviewed: dd76b465bd8a028c285ab5cdd175db739d456341486df642b1ba88918a0a8944
 source: xml
 outdated: false
 ---
-
-Disable ability to sort in the ascending direction.

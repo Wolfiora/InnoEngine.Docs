@@ -13,5 +13,3 @@ reviewed: a596f1e2a540ea90dda736e9f8ecda823f1174f44ad59db6aa9eef44f57278ab
 source: xml
 outdated: false
 ---
-
-Gets the editor popup background.

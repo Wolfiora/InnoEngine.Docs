@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the settings restored from this source's sidecar against the isolated import generation. The value is detached and changes made during import are not saved to the sidecar.

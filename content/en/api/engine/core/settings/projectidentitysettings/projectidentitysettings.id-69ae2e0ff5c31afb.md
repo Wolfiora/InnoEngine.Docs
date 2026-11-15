@@ -13,5 +13,3 @@ reviewed: aeee226b5afc8bca74d085ffa3c5c7945b9f4a44a01698b5e1290ed7afe50586
 source: xml
 outdated: false
 ---
-
-Gets the validated project identifier.

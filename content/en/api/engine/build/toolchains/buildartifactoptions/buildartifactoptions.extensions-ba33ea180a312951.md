@@ -13,5 +13,3 @@ reviewed: 375966434804bca33f82a1dd985b848d62aee48b435de904a16a0e101ae49cdd
 source: xml
 outdated: false
 ---
-
-The accepted native artifact extensions.

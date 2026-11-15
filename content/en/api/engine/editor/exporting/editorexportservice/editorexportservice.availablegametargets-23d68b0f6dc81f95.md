@@ -13,5 +13,3 @@ reviewed: 34483e332d628a1789fae45333db578f771bbd074439ebe1ba26295509d117e6
 source: xml
 outdated: false
 ---
-
-Gets the targets registered by the active Build distribution.

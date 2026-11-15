@@ -13,5 +13,3 @@ reviewed: c55237a8183b44bc33709c844cb296477185d422eb6ad1a8a736cf5919dda918
 source: xml
 outdated: false
 ---
-
-Gets or sets primary-window creation options.

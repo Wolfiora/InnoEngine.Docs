@@ -13,5 +13,3 @@ reviewed: 690d7c461cc693d9e0d318584583d59e3d28772cb11de9d4af26f4f510686e1c
 source: xml
 outdated: false
 ---
-
-Gets the drawable width in physical pixels.

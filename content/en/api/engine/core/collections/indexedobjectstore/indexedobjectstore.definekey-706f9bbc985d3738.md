@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Defines a query key over stored items.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

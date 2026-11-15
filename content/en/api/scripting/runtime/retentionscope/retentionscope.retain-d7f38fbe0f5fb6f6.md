@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Transfers one lease into this scope.
-
 ## Type parameters
 
 **Type parameter `TLease`:** Disposable lease type.

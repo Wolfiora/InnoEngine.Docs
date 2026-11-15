@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the previous item is active.
-
 ## Returns
 
 `true` while the item owns an active interaction.

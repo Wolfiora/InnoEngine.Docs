@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits rendering work without presenting a concrete graphics backend.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets isolated source paths for all canonical loaded assets.
-
 ## Returns
 
 A stable isolated path snapshot.

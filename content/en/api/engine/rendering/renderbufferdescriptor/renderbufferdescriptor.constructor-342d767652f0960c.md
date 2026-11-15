@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a buffer descriptor.
-
 ## Parameters
 
 **Parameter `elementCount`:** Number of addressable elements.

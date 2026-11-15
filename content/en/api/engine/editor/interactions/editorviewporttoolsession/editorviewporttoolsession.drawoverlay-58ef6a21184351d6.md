@@ -13,5 +13,3 @@ reviewed: 5c5c111c261ea956bfa3cfbdfbeb1c55a6398a489249708a526a4fba9719a72b
 source: xml
 outdated: false
 ---
-
-Draws the active tool overlay.

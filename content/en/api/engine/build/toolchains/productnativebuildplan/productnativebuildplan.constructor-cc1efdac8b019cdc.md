@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the complete ordered component graph before tools or staging can start.
-
 ## Parameters
 
 **Parameter `productId`:** The product identity whose native closure is selected.

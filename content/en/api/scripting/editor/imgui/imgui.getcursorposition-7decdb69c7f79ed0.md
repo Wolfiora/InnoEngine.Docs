@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current local cursor position.
-
 ## Returns
 
 The local cursor position.

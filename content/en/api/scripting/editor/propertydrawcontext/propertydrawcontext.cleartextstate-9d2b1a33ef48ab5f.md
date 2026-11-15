@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes text-edit state for this renderer, inspected owner, and property path.
-
 ## Parameters
 
 **Parameter `key`:** Drawer-local state identity within the current property path.

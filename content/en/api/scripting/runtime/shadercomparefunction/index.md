@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Selects the comparison used by depth testing.

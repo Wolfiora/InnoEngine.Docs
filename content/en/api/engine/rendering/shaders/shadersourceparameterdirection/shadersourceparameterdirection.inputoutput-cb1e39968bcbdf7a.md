@@ -13,5 +13,3 @@ reviewed: 157789249484e71fff2ceb3e26e5167128ad73483e6a77a42dad5a6884bffdc2
 source: xml
 outdated: false
 ---
-
-The caller supplies a value and the function produces its replacement.

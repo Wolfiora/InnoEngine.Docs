@@ -13,5 +13,3 @@ reviewed: f963eced34dace7a20f546c942a6e8bc9ed996648fdf7543dcf79f8afabb4630
 source: xml
 outdated: false
 ---
-
-Original source position.

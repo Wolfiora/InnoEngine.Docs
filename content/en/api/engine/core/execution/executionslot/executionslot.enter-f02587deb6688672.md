@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a value until the returned scope is retired in strict last-in-first-out order.
-
 ## Parameters
 
 **Parameter `value`:** The service or value owned by the enclosing lifetime.

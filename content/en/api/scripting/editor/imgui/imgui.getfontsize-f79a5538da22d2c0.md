@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the active font size in UI units.
-
 ## Returns
 
 A copied value from the active presentation context.

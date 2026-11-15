@@ -13,5 +13,3 @@ reviewed: b815463ef0129ac37ab427209df9432ec5332cd54f4f728bbe056e31f9fd9ea0
 source: xml
 outdated: false
 ---
-
-Gets the platform-owned, explicit target mapping.

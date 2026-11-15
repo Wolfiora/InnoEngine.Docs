@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one caller-owned text backend.
-
 ## Parameters
 
 **Parameter `backend`:** The selected backend implementation.

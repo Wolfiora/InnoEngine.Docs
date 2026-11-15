@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a bounded line plot from borrowed numeric samples without copying their buffer.
-
 ## Parameters
 
 **Parameter `label`:** The visible plot title and stable item identifier in its current owner.

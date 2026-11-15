@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Produces an exact signed 32-bit integer constant.
-
 ## Parameters
 
 **Parameter `value`:** Scalar integer value.

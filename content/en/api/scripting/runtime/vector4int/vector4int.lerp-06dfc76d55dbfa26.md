@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Clamps the interpolation factor to \[0, 1\] and truncates each interpolated component to an integer.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

@@ -13,5 +13,3 @@ reviewed: e3deeb83c1c84f1af64c0105303423978522f0e810d3afd788400de06f691261
 source: xml
 outdated: false
 ---
-
-Starts value processing after validating the current state.

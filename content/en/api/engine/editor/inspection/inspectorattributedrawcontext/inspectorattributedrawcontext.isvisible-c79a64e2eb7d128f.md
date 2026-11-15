@@ -13,5 +13,3 @@ reviewed: 20e359703e74abb85bab4f63f3da18d914bcc200e16b4f2f2d0c24801349091d
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the complete property row is visible.

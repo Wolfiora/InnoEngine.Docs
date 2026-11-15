@@ -13,5 +13,3 @@ reviewed: a7324ffd498cae89f8575f41315481eb0a230a441960e06403a1667a3ed5fcc5
 source: xml
 outdated: false
 ---
-
-Gets validation and compiler diagnostics.

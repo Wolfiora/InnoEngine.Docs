@@ -13,5 +13,3 @@ reviewed: e4523b30df95da4112af2507c62ad06e005caf65e3b98a111e0fdf9137499c5b
 source: xml
 outdated: false
 ---
-
-Gets the main key.

@@ -13,5 +13,3 @@ reviewed: 5d33222279f078a735aa4507927e5cd62a92a828f068ccc2b8579eb55cefda64
 source: xml
 outdated: false
 ---
-
-Gets the exact backend implementation selected when the source was imported.

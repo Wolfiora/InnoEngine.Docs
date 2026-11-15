@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a matching component is attached.
-
 ## Type parameters
 
 **Type parameter `TComponent`:** Requested component type.

@@ -13,5 +13,3 @@ reviewed: 9f3bd56a762d7f87539f207fa3b6cfa40ce0c8dd4c1bbae37d5a076cb2b8d142
 source: xml
 outdated: false
 ---
-
-Gets the expected identities which must match before any candidate is generated.

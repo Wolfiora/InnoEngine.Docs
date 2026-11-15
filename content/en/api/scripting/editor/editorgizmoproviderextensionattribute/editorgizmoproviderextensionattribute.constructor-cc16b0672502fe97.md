@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a provider declaration with a stable identifier.
-
 ## Parameters
 
 **Parameter `id`:** The globally unique provider identifier.

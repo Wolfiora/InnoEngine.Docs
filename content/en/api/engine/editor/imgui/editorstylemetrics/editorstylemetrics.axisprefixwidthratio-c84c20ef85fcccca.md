@@ -13,5 +13,3 @@ reviewed: ccb9d03a937a2aeddf63ca3aa209da7cc4a118481a45137a813518c4eb15702b
 source: xml
 outdated: false
 ---
-
-Gets the axis prefix share of the complete control.

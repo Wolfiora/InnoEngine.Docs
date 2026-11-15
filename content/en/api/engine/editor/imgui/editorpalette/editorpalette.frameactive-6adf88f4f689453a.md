@@ -13,5 +13,3 @@ reviewed: 2d5986681327f5dc7d39bac7df155e342ab875fe3a0bf6d8a2e7307975f23ad0
 source: xml
 outdated: false
 ---
-
-Gets the active frame background.

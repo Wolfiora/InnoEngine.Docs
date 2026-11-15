@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures presentation state before submitting content. Content-sized windows prepare before opening; explicitly sized resizable windows prepare after current input establishes their content bounds.
-
 ## Parameters
 
 **Parameter `context`:** The owner-thread editor context for this frame.

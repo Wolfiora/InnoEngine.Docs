@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For OpenPopup\*(), BeginPopupContext\*(): don't open if there's already a popup at the same level of the popup stack

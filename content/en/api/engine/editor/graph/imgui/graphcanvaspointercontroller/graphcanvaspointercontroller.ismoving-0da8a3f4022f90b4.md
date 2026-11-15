@@ -13,5 +13,3 @@ reviewed: 23e9ef94eeabd33c9054d72abac31a403746c7441eeb0dc338de144595337964
 source: xml
 outdated: false
 ---
-
-Gets whether a node movement preview is active.

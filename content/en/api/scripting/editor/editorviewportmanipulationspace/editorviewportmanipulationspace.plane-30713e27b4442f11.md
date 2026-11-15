@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the contributor-declared neutral manipulation plane, or Spatial for all axes.

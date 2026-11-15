@@ -13,5 +13,3 @@ reviewed: 1e01b13133c58209ba8b517090633a6395eaf450460a33a1a3dbfd9124aaa8b9
 source: xml
 outdated: false
 ---
-
-Resolved asset mount path.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a local Plugin source service.
-
 ## Parameters
 
 **Parameter `serialization`:** The serialization registry used to read the current Plugin manifest contract.

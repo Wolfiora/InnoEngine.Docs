@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Supplies read-only discovery inputs before a publication directory exists.

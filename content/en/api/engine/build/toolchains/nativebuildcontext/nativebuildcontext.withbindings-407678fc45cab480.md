@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a scoped operation with an immutable, explicitly prepared target binding closure.
-
 ## Parameters
 
 **Parameter `bindings`:** Borrowed completed generations indexed by their Native owners. Retain this result until all derived contexts finish.

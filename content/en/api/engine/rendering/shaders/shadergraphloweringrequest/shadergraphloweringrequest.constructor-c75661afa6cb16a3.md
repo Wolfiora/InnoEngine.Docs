@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a region without retaining an asset object, source resolver, node provider or UI selection.
-
 ## Parameters
 
 **Parameter `graph`:** Nodes and edges in this stage region; canvas positions are not compilation inputs.

@@ -13,5 +13,3 @@ reviewed: 52171921850ce09d975fcedf4f4a4d7c037d18d6016a5fbb1f38a4617db8bd02
 source: xml
 outdated: false
 ---
-
-Identifies the \_4 presentation key or modifier.

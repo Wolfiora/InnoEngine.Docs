@@ -13,5 +13,3 @@ reviewed: b98022e8341b6c6cfac1cac0fa633d9784623c31a251efeb24755f52b09b6f1a
 source: xml
 outdated: false
 ---
-
-For BeginPopupContext\*(): open on Left Mouse release. Only one button allowed!

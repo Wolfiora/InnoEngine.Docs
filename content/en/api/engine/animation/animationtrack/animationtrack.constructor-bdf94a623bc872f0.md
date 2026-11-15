@@ -13,5 +13,3 @@ reviewed: 761e74711add5e74bf26edd1bb80b57a17f8be2d4566ed2eacd283cdc6d81b89
 source: xml
 outdated: false
 ---
-
-Creates an empty track for structured deserialization.

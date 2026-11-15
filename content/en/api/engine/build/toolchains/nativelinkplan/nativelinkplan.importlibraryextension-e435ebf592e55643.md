@@ -13,5 +13,3 @@ reviewed: c1e1a69613886ec94a2ccab75352fa57f5c2ef52937b37e9f829c5caa3e7328a
 source: xml
 outdated: false
 ---
-
-Gets the separate import suffix, or null when no separate import library is used.

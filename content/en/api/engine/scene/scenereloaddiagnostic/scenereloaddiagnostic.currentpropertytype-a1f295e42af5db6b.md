@@ -13,5 +13,3 @@ reviewed: aa089cd46bf66e328c3ea513587039de3802d67d92c2e60c9edc221d1f89d122
 source: xml
 outdated: false
 ---
-
-Gets the current declared property type name.

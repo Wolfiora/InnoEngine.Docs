@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Identifies one backend mixer bus within a device generation.

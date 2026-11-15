@@ -13,5 +13,3 @@ reviewed: bf43ba14012764a759735ee61ceb4b78aec9c29e964de27fa6dccb337dfcdc5f
 source: xml
 outdated: false
 ---
-
-Gets the stable source identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Borrows a generator while preserving this operation's input and tool ownership.
-
 ## Parameters
 
 **Parameter `generator`:** The shared generation implementation selected by composition.

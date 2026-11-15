@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Selects a mixer extension and ordered features without defining a game-specific mixing model.

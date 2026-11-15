@@ -13,5 +13,3 @@ reviewed: e6fbebd6dd1cb95a8d44998b97371e399c9387af58b69fd3fed25a2247c48e44
 source: xml
 outdated: false
 ---
-
-Gets the most recently received matching occurrence.

@@ -13,5 +13,3 @@ reviewed: fa29df4a04854215a6de4de6bde7c4d96f7848f94de05e7dee8205451081ee5c
 source: xml
 outdated: false
 ---
-
-Allow 0123456789ABCDEFabcdef

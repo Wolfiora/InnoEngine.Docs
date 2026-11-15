@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Provides immutable backend-facing metadata for one scheduled pass.

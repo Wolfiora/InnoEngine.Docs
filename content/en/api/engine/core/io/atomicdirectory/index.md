@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Provides rollback-safe installation of complete directory trees.

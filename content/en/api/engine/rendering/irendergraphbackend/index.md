@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Bridges compiled graph execution to a concrete graphics backend.

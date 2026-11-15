@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a connected instance of an imported prefab in this loaded scene.
-
 ## Parameters
 
 **Parameter `prefab`:** The prefab asset that supplies the object subtree.

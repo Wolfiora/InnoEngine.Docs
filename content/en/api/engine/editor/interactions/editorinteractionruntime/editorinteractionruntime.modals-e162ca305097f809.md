@@ -13,5 +13,3 @@ reviewed: f4f7942c6fcc9e74586600d525e4bfde51ac9666c15d76f8c78a3a2bed85dc53
 source: xml
 outdated: false
 ---
-
-Gets active modal extensions in deterministic order.

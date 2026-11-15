@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Invokes the selected template under one generation lease.
-
 ## Parameters
 
 **Parameter `id`:** Stable template identity from the creation menu.

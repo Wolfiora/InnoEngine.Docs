@@ -13,5 +13,3 @@ reviewed: b5dd462323448c1e13b5f6d8f47d5635e9bc1130c4c369b40b116cf73aca4f95
 source: xml
 outdated: false
 ---
-
-Gets the assembly ownership domain for this entry.

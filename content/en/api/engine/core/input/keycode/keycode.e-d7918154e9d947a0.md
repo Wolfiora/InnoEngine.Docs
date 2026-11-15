@@ -13,5 +13,3 @@ reviewed: aa9226742e18528df1d453be1f2a039b298c786e22756e39d5a3596bf61598ef
 source: xml
 outdated: false
 ---
-
-The E letter key.

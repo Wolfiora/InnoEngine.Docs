@@ -13,5 +13,3 @@ reviewed: 2f570f2cefedd5872ad46f455cecaddb2dc0fec47ff169116c4169896bdbf31e
 source: xml
 outdated: false
 ---
-
-Requests an orderly exit after the current event or frame callback completes.

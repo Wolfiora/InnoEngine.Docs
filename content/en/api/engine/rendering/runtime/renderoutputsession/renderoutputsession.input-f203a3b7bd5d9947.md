@@ -13,5 +13,3 @@ reviewed: c22a0ff079acd90c660ed58f158075d27d004d3b709d9a9f15edbe14e726b718
 source: xml
 outdated: false
 ---
-
-Gets viewport-local input.

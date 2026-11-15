@@ -13,5 +13,3 @@ reviewed: e00c5e4c0701f95aa7f1f0b27ab01910f8b6c9694e8d91540a6c2366c04146fc
 source: xml
 outdated: false
 ---
-
-Gets or sets the slash-delimited authoring catalog path used to group this library in creation UIs.

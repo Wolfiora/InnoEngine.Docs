@@ -13,5 +13,3 @@ reviewed: 3c37148e2bbdcc52b19e734a66343cdff568e6ea1288f398275231051592e9a4
 source: xml
 outdated: false
 ---
-
-Gets the active backend-neutral platform application.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a presentation context over compatible platform and rendering adapters.
-
 ## Parameters
 
 **Parameter `backend`:** Stable presentation implementation selected by the composition root.

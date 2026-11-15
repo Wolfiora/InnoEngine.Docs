@@ -13,5 +13,3 @@ reviewed: d8fab672ddfd8ba52cc25ee81fdd37f897852e80b985f384e12c49d781c7a2ae
 source: xml
 outdated: false
 ---
-
-Gets the top pixel offset.

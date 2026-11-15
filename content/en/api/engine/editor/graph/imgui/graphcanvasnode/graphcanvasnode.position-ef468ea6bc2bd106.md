@@ -13,5 +13,3 @@ reviewed: ed6302a3df30ac5e1a6789179c5781984ad615aef07b1d505753fd2e4e1d5476
 source: xml
 outdated: false
 ---
-
-Gets the document position, before transient gesture previews.

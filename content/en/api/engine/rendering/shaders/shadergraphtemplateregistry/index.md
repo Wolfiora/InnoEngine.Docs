@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Owns generation-safe template discovery and invocation for editor asset creation.

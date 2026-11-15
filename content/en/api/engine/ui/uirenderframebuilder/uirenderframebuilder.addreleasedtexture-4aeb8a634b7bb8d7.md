@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one texture retirement.
-
 ## Parameters
 
 **Parameter `texture`:** Assigned texture handle.

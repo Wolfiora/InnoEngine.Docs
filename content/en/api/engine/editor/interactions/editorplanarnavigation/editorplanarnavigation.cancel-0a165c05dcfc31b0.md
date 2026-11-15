@@ -13,5 +13,3 @@ reviewed: 9702778bd5af961a365d3e666582026f5fcb3936ec19cd9be077e9d4d8961293
 source: xml
 outdated: false
 ---
-
-Releases capture when a canvas closes or a gesture is cancelled.

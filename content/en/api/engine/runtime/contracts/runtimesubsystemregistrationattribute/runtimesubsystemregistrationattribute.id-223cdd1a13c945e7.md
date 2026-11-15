@@ -13,5 +13,3 @@ reviewed: 2f5925b0a1f7a7325fc96ae8142d75319e7655f0c9a7cfd7aa1a1d1b44f1f988
 source: xml
 outdated: false
 ---
-
-Gets the stable descriptor ID checked by the generated catalog.

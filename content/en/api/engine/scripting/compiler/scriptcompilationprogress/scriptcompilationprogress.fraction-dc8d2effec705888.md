@@ -13,5 +13,3 @@ reviewed: fd9e4501d4edee2f162729861fec035c816b5a3f91f48b6ab13715979da958f1
 source: xml
 outdated: false
 ---
-
-The completed fraction in the inclusive range from zero to one.

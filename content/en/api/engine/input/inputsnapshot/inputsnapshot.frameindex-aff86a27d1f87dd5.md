@@ -13,5 +13,3 @@ reviewed: a746db22a2bd9424e201d1e35b1a879376ebcc0ae1562e226a6368946d2bdac3
 source: xml
 outdated: false
 ---
-
-Gets the runtime frame that owns this snapshot.

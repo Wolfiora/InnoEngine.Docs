@@ -13,5 +13,3 @@ reviewed: 5352d5be2736025518d8dd24548a2aef98163a4ca96a4c8d2676fbe079d19cfa
 source: xml
 outdated: false
 ---
-
-Gets the isolated serialization registry derived from this host's active type generation.

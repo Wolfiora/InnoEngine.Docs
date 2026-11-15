@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the persisted descriptor and freezes its stage binding.
-
 ## Returns
 
 An immutable backend-neutral input binding.

@@ -13,5 +13,3 @@ reviewed: 7f0592edb5801cb52f8556067346a7f3445cdcd0f914095404912db9321bd147
 source: xml
 outdated: false
 ---
-
-Gets or sets the complete neutral type descriptor.

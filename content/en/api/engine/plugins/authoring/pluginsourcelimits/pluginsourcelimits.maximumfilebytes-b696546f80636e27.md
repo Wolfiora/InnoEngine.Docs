@@ -13,5 +13,3 @@ reviewed: 754e0cfc59f7f725541ecee2341299b40ebfa34c54d7a4727e3eded336f6f41b
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum size of one source file.

@@ -13,5 +13,3 @@ reviewed: 85c29d61f7b222bed253ceeaf405bb6ecd7648fdabc67d23d5fae70cfbe2f082
 source: xml
 outdated: false
 ---
-
-Gets ordered immutable member declarations.

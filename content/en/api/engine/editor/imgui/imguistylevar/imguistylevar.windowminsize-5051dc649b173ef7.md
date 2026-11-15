@@ -13,5 +13,3 @@ reviewed: a2da3c5a73d39095a3d1311ef1ea8facfb84e44719a5a4b5694b454384959bbe
 source: xml
 outdated: false
 ---
-
-Selects the window min size presentation behavior.

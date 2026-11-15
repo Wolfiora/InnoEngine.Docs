@@ -13,5 +13,3 @@ reviewed: e5aed584a4f6f81bd24d8e056cd60996cb8a9bc896f5f6653db880181a68663c
 source: xml
 outdated: false
 ---
-
-The actual stage or outcome message.

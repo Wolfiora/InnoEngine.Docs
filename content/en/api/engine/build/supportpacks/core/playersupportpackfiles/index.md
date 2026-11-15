@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Prepares explicit product source and reference inputs for isolated Support Pack publication.

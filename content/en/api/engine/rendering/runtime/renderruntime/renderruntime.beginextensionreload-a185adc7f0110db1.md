@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins an isolated rendering-extension reload transaction at a frame boundary.
-
 ## Returns
 
 A transaction that preserves the active generation until its candidate is explicitly completed.

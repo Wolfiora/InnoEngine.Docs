@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a frame-uploaded vertex slice as per-instance input.
-
 ## Parameters
 
 **Parameter `buffer`:** Current-frame instance records.

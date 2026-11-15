@@ -13,5 +13,3 @@ reviewed: dd7a106ce7f00549eb7e2a72876d6b855036178a3980cbe308647b006f3c6a20
 source: xml
 outdated: false
 ---
-
-The current status or error text.

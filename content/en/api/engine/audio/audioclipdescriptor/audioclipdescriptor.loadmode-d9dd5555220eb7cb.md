@@ -13,5 +13,3 @@ reviewed: 3c41b01338bb3eb88934afd55eaa5b90bf9411c0a4994f2f74cfed026c103f0d
 source: xml
 outdated: false
 ---
-
-Gets the required storage strategy.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the current process lifetime and releases its temporary inspection handle.
-
 ## Returns
 
 The current process identifier and UTC start timestamp.

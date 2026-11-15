@@ -13,5 +13,3 @@ reviewed: abd71f1e52de7e21b238a1519a2c304b9fb7c6bee561667df1806bd811c42824
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable ordering value of this library inside its authoring catalog group.

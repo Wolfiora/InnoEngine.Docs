@@ -13,5 +13,3 @@ reviewed: 5b730755a477fe5fdcff0f0fa8d6b0f389d4a42fab72979ce175e1c4f4d191b2
 source: xml
 outdated: false
 ---
-
-Gets or sets the registered language identity; an empty selection is an import error.

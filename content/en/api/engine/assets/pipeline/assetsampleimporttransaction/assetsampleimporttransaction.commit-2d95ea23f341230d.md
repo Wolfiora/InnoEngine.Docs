@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes a successfully validated import exactly once, without waiting for unfinished work.
-
 ## Parameters
 
 **Parameter `beforePublish`:** Optional owner-thread finalization, such as recording neutral History data. Failure leaves the transaction open for Rollback and no Changed notification is published.

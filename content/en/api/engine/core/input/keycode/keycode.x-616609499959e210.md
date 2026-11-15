@@ -13,5 +13,3 @@ reviewed: 7a3c52773a3951a631c84e7bbd01d5c5bcf2660414175fe4b3ac72b4b0245269
 source: xml
 outdated: false
 ---
-
-The X letter key.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Encodes and validates the strict source-free binary format shared by game builds and Players.

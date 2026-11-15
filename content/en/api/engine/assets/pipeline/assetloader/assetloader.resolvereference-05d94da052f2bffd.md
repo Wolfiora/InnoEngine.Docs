@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a serialized reference or creates a persistent missing placeholder.
-
 ## Parameters
 
 **Parameter `persistentId`:** The referenced persistent identity.

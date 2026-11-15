@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops this feature before its owning runtime releases the active generation.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

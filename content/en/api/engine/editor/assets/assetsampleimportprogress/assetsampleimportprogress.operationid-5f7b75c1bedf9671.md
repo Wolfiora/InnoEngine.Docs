@@ -13,5 +13,3 @@ reviewed: a1f8d722178fcd008cb5c8523efed949c2bd656cbcc38503ab6acd6acbbdeae2
 source: xml
 outdated: false
 ---
-
-The import identity within its owner.

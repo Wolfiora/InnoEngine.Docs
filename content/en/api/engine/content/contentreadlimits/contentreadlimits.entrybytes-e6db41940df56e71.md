@@ -13,5 +13,3 @@ reviewed: f1ebface027bc5b8cef7c081f6371e744dd943d49838d812efd9523c8277e9e3
 source: xml
 outdated: false
 ---
-
-Gets the decoded single-payload budget.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Allow manually dragging tabs to re-order them + New tabs are appended at the end of list

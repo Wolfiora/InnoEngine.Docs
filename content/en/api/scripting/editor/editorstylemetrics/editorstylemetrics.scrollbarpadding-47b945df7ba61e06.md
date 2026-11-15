@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the inset that keeps an overlay scrollbar grab visually lightweight.

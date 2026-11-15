@@ -13,5 +13,3 @@ reviewed: c9fdc758c22722a629b6f03d67bea9e122c580de001da71623c07a35e09bbb26
 source: xml
 outdated: false
 ---
-
-Called when the system stops being active and enabled.

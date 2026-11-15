@@ -13,5 +13,3 @@ reviewed: 8a171c58eb78ec2c48d6beb0dc7e660d315015ae0e7eb522387e1ac277a6ddec
 source: xml
 outdated: false
 ---
-
-Whether an input must be connected; alternative aggregate/member inputs validate in their compiler.

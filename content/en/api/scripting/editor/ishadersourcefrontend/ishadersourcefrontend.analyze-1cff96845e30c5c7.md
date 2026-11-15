@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes an immutable source candidate with explicit preprocessing inputs.
-
 ## Parameters
 
 **Parameter `request`:** Source, selected function, dependencies, and target inputs.

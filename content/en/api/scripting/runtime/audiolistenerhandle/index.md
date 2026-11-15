@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Identifies one spatial listener within a device generation.

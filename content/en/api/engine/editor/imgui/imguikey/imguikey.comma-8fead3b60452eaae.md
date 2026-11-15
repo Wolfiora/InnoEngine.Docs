@@ -13,5 +13,3 @@ reviewed: 9bcae101cc8241313ef2213556f2a4cbb8b1db19f8ee6f877549166196f553e7
 source: xml
 outdated: false
 ---
-
-Identifies the Comma presentation key or modifier.

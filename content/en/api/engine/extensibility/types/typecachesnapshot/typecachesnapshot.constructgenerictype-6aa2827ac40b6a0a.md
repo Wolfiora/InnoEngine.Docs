@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a generic construction belonging to this exact generation.
-
 ## Parameters
 
 **Parameter `definition`:** A registered generic declaration.

@@ -13,5 +13,3 @@ reviewed: 7748289cd7c86ed81d5327b488f6d24d23d5fabc88327965ca0f5a4e28f0cfdf
 source: xml
 outdated: false
 ---
-
-Disable reordering this tab or having another tab cross over this tab

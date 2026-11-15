@@ -13,5 +13,3 @@ reviewed: c3fc4060884c16fe24d031f478b6a9ded2cb451ec17ac097f493fcac5e464457
 source: xml
 outdated: false
 ---
-
-Gets the target SDK root, or null when unnecessary.

@@ -13,5 +13,3 @@ reviewed: 4eecb8bc5415c1d761977204c8ba02722b785453a3170079ec25e36104a065ef
 source: xml
 outdated: false
 ---
-
-Gets the empty staging parent where the target must create exactly one output.

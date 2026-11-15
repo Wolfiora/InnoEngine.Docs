@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Adds capability-aware passes without owning frame graph state.

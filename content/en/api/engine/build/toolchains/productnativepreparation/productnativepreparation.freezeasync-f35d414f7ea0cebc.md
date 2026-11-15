@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Identifies the explicitly selected recipe, SDK, configuration and component request before preparation.
-
 ## Parameters
 
 **Parameter `context`:** The operation with its selected toolchain and binding generator.

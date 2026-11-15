@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an icon declaration using a glyph from the Editor icon catalog.
-
 ## Parameters
 
 **Parameter `assetType`:** The imported asset type represented by the icon.

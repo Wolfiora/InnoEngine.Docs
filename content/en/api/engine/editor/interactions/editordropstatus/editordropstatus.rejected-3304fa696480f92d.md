@@ -13,5 +13,3 @@ reviewed: 56e94e9c9268980a1ca5b44e1a9f6330c73acdfb4fc76fecb83e6a6fd0761aab
 source: xml
 outdated: false
 ---
-
-Gets an incompatible drop status.

@@ -13,5 +13,3 @@ reviewed: e8a1ba729ca305ce96c51d3c0f780ea1cee21f2ba55ae227c997afdb0fdd8328
 source: xml
 outdated: false
 ---
-
-Gets current audio resource statistics.

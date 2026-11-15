@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-hosting
 aliases: []
 ---
-
-Supplies product-owned composition to the shared Editor lifecycle without selecting a platform or backend.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies the current UI layout metrics.
-
 ## Returns
 
 Value metrics valid independently from the native style pointer.

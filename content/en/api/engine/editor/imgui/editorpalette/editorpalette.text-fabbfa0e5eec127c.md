@@ -13,5 +13,3 @@ reviewed: 708600cc0335a5668e04581b887b6ed250e5bbe9fbcedf16b147213898143e31
 source: xml
 outdated: false
 ---
-
-Gets the primary text color.

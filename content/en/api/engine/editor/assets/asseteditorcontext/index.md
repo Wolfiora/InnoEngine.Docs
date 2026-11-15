@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Provides an immutable snapshot for an asset editor operation.

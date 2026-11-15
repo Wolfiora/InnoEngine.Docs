@@ -13,5 +13,3 @@ reviewed: ed5956722a336d6acc25add46090ff3399a5f3822d8984da7da30cb912d8badd
 source: xml
 outdated: false
 ---
-
-Stable node-local port identity.

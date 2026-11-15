@@ -13,5 +13,3 @@ reviewed: d55d24effd11ec85e6124f29733af1af706c8b5f94d307312cede1ce5ade8214
 source: xml
 outdated: false
 ---
-
-Called during the variable-rate scene stage. Use `Time.deltaTime` for frame timing.

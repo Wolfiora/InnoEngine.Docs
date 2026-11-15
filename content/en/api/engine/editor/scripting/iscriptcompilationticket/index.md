@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scripting
 aliases: []
 ---
-
-Exposes the immutable observer view of one exact script compilation and activation request.

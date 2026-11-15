@@ -13,5 +13,3 @@ reviewed: 126460d2dd48239d3bd51fe6c89eda85d568db63f9544cbe349f03af56faff4a
 source: xml
 outdated: false
 ---
-
-Gets the immutable combined snapshot budget assigned to the runtime.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the platform and managed deployment before asynchronously preparing its Support Pack.
-
 ## Parameters
 
 **Parameter `target`:** The registered platform and architecture target to prepare.

@@ -13,5 +13,3 @@ reviewed: bbe54bcadbce09a17c6201b132bd7e0335ed117fd6b230248dacf53d919570a8
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadFaceDown presentation key or modifier.

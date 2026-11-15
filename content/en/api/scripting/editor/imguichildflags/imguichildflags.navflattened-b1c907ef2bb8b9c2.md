@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Share focus scope, allow keyboard/gamepad navigation to cross over parent border to this child or between sibling child windows.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes one owner-managed slot revision into an opaque playback handle.
-
 ## Parameters
 
 **Parameter `slot`:** The non-negative slot owned by the runtime.

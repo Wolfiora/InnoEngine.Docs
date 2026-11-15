@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Owns opaque playback identity encoding without requiring a runtime to inherit a fake service base.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Identifies one component-local root without exposing a generator-specific contract.
-
 ## Parameters
 
 **Parameter `id`:** An ordinal identity scoped to this component's selected generation.

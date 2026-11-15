@@ -13,5 +13,3 @@ reviewed: 0c9f79663e0acb01fde59181164d0aabacd22a97b18b536a31b139574fae1728
 source: xml
 outdated: false
 ---
-
-Gets whether the action should be displayed.

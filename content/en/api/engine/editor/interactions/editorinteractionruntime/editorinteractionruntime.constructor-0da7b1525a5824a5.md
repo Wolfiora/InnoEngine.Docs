@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an interaction runtime for one project.
-
 ## Parameters
 
 **Parameter `projectDirectory`:** The project root containing Assets and Library.

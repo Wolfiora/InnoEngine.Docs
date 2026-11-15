@@ -13,5 +13,3 @@ reviewed: 9c2693c01a60cf7e4e3812dc5c5aa07b17ef443419c103884bd0bbb8362efb21
 source: xml
 outdated: false
 ---
-
-Gets the GPU output category.

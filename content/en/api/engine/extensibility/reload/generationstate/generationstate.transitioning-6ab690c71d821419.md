@@ -13,5 +13,3 @@ reviewed: 0097f18891396a549b35d5f3259a991215f3f33646254043694199385e92e2d0
 source: xml
 outdated: false
 ---
-
-A candidate is being activated or rolled back.

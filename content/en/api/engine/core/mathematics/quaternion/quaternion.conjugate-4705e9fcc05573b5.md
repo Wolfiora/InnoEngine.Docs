@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the quaternion conjugate by negating its vector components.
-
 ## Parameters
 
 **Parameter `q`:** The q consumed by conjugate; ownership remains with the caller unless explicitly stated otherwise.

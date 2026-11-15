@@ -13,5 +13,3 @@ reviewed: 2f453b8254c1a94a3983dc0b0d70c68c6942527e080296db2d61fa450b94a0b8
 source: xml
 outdated: false
 ---
-
-Gets the factory transferring storage ownership to this session.

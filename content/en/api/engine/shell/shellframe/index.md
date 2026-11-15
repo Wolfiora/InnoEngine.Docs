@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Captures immutable timing and identity for one composition-shell frame.

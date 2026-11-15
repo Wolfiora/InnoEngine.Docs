@@ -13,5 +13,3 @@ reviewed: e0b1333a6719b91afe038ca5b888f51050cdd9b4b1670c9896827749619cedfe
 source: xml
 outdated: false
 ---
-
-Gets the validated direct upstream contributions for this candidate.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read input when a host has installed an input subsystem for this frame.
-
 ## Parameters
 
 **Parameter `input`:** Bound service, or null when unavailable.

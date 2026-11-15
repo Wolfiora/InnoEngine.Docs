@@ -13,5 +13,3 @@ reviewed: d01371bcae175ff89fc4b2dc3d5e04a5c833faa25fb897d610fa07f9cff9feef
 source: xml
 outdated: false
 ---
-
-Gets or sets open contract and role mappings.

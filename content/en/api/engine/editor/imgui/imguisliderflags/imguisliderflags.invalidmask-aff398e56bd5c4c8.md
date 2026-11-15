@@ -13,5 +13,3 @@ reviewed: a35c3e0847b92a727ec1a42a779f942e34069c204718ad6617b4d9cc2b2c923f
 source: xml
 outdated: false
 ---
-
-Selects the invalid mask presentation behavior.

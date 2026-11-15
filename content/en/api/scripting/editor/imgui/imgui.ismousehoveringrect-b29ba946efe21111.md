@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks pointer containment in a screen rectangle with optional window clipping.
-
 ## Parameters
 
 **Parameter `minimum`:** The inclusive lower bound or upper-left corner.

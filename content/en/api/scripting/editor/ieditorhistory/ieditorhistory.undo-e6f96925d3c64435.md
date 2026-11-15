@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to restore the state preceding the newest committed operation.
-
 ## Returns
 
 The transition result. A state-preserving failure remains available for retry.

@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---
-
-Provides hover help for one Inspector property label.

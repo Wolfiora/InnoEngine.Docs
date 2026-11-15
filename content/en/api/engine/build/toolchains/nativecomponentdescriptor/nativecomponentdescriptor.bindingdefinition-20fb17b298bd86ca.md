@@ -13,5 +13,3 @@ reviewed: 9b6922bc44852c14bd24daa66868d59d4aa6b4f4ed65a9873a2c10574cafd1df
 source: xml
 outdated: false
 ---
-
-Gets the declared binding definition, or null for a component without generated bindings.

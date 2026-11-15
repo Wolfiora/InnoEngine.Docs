@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws and edits a Boolean value.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

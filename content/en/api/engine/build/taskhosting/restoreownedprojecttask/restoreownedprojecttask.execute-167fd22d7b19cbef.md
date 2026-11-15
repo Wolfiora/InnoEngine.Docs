@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits outside the MSBuild node, then restores under exclusive cross-process write ownership.
-
 ## Returns
 
 True after every requested restore succeeds; false with a logged failure or cancellation.

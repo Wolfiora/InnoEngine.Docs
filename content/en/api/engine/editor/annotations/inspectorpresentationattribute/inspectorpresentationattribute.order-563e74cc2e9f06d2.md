@@ -13,5 +13,3 @@ reviewed: 081d4d65bd795b65c4b09467a9620353ab143629ede2429a7ef50e474a5d7490
 source: xml
 outdated: false
 ---
-
-Gets or sets the relative order among presentation attributes declared on the same member.

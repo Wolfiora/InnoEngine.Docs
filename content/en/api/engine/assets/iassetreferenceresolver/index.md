@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Resolves persistent asset references against one isolated asset database generation.

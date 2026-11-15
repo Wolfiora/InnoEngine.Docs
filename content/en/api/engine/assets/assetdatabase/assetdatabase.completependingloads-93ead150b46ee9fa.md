@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes completed cold loads on the database owner thread without waiting for outstanding IO.
-
 ## Parameters
 
 **Parameter `completionBudget`:** The maximum number of ready requests committed at this frame safety point.

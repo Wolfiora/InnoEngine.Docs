@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances one context with explicitly routed viewport-local input.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the domain role consumed by a Target; empty for ordinary inline functions.

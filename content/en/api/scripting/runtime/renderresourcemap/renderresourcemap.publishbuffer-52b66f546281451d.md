@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Publishes a buffer under a pipeline-defined semantic identifier.
-
 ## Parameters
 
 **Parameter `id`:** Open semantic resource identifier.

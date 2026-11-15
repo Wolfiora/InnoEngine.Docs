@@ -13,5 +13,3 @@ reviewed: a9dc06af4049bacd919a08aad10813117f919bdf5f717a2eb2e41d9fb0d8aba1
 source: xml
 outdated: false
 ---
-
-Gets the standard low-shelf equalizer processor identifier.

@@ -13,5 +13,3 @@ reviewed: 23e756b6a1aa669ca9012162975413264e0a7278f0562a710cff5827e4370d21
 source: xml
 outdated: false
 ---
-
-Gets the world-space source velocity.

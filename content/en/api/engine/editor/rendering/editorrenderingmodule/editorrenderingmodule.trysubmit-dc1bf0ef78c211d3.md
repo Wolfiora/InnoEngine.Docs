@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds, composes, submits, and returns one host-owned offscreen viewport.
-
 ## Parameters
 
 **Parameter `kind`:** Open viewport purpose.

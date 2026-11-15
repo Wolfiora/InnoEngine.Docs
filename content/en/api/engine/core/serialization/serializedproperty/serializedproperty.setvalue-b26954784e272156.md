@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the current value.
-
 ## Parameters
 
 **Parameter `value`:** The value to assign.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Requests one pipeline-defined rendering operation without prescribing world semantics.

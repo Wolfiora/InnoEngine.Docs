@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires a new consumer's complete reading protection and verifies mutable inputs after acquisition.
-
 ## Parameters
 
 **Parameter `context`:** The consumer operation with its own selected SDK and statistics.

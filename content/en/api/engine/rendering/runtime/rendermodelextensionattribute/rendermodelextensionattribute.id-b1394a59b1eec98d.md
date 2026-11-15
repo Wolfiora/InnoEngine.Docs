@@ -13,5 +13,3 @@ reviewed: 1bc5e91d4c5927148f2b3561df99ad1463002177ae1167063791f417a2870bfb
 source: xml
 outdated: false
 ---
-
-Gets the globally stable model identity.

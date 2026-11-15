@@ -13,5 +13,3 @@ reviewed: d182dffdde83fe52413d9258928c3d08a43962d0c3ad3b32ab24e341b4fac612
 source: xml
 outdated: false
 ---
-
-Gets or sets the provider-defined world-up direction.

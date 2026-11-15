@@ -13,5 +13,3 @@ reviewed: d0972613e1d7ac0f9252b4bae9f4de2dd84142df8e179583b484cbb0a4613316
 source: xml
 outdated: false
 ---
-
-Gets the stable host output identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a passive editor context for one project.
-
 ## Parameters
 
 **Parameter `projectDirectory`:** The project root containing Assets and Library.

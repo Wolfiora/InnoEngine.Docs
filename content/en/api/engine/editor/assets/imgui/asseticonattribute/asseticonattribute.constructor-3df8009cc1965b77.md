@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an icon declaration for files ending with a source extension.
-
 ## Parameters
 
 **Parameter `extension`:** The simple or compound file extension. A leading period is optional and matching is case-insensitive.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares the real static component closure consumed by an explicit aggregate executor.
-
 ## Returns
 
 A Player closure with static recipes and no unused standalone producers.

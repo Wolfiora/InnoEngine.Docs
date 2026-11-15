@@ -13,5 +13,3 @@ reviewed: b3d3d4df0a8a570e950b413f0cd8bb460705e055ce68da67e469bfbfdfa78927
 source: xml
 outdated: false
 ---
-
-Gets the publisher root coordinating the selected immutable artifact, or empty for host sources.

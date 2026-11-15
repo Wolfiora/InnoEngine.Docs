@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates alternative implementations by semantic names, types, direction, and call order.
-
 ## Parameters
 
 **Parameter `other`:** Candidate interface, whose private implementation function name may differ.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compares engine objects using reference identity and destroyed-object null semantics.
-
 ## Parameters
 
 **Parameter `left`:** Left operand.

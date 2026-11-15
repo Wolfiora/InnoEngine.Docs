@@ -13,5 +13,3 @@ reviewed: ec1d569d2228f16a07ed8a466babe4a65315327ec1a5ac7945d54a874e422e12
 source: xml
 outdated: false
 ---
-
-Gets the immutable ordered component definitions; order contributes to artifact identity.

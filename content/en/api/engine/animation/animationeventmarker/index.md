@@ -16,5 +16,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Stores one stable event marker embedded in an animation clip.

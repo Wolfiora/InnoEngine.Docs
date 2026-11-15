@@ -13,5 +13,3 @@ reviewed: ad5715f5afe46254e00fec5e20cb7544a7216538eba5ff842f9f2fa339a1c511
 source: xml
 outdated: false
 ---
-
-Gets the standard foreground interaction-overlay thickness.

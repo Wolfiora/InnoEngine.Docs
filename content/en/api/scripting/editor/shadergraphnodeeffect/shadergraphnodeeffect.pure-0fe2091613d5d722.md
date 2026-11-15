@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The function only computes returned values and therefore requires at least one output.

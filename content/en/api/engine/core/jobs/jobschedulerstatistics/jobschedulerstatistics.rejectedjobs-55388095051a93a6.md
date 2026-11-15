@@ -13,5 +13,3 @@ reviewed: 9907de20ccb326a002834e731272694aec6d48377fec11c32da7d1a8b06e1813
 source: xml
 outdated: false
 ---
-
-Gets rejected job admissions caused by the finite frame capacity.

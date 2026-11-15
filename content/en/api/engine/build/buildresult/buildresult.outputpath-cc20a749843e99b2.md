@@ -13,5 +13,3 @@ reviewed: d7457c4538bab82cdf6cf0a6b670581eb7885e8bb33b235c0ce0c45a18792065
 source: xml
 outdated: false
 ---
-
-Gets the atomically committed output path, or `null` when the build failed.

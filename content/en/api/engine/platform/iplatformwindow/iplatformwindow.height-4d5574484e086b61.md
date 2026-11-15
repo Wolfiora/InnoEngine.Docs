@@ -13,5 +13,3 @@ reviewed: 05921042c66f0f53af7ed734a4085bf6d136082f795d2747679d004c1db2bfef
 source: xml
 outdated: false
 ---
-
-Gets the logical client height.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Exposes one or more portable image artifacts owned by an imported asset.

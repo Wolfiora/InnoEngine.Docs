@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Reports completed retirement independently from protected, active and failed artifacts.

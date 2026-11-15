@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live or preparing voice cursor to a clip-relative position.
-
 ## Parameters
 
 **Parameter `voice`:** Runtime voice handle to seek.

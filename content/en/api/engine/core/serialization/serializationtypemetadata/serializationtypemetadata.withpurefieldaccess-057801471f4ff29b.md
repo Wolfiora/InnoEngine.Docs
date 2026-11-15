@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares that every serialized member of this value type reads a direct primitive field.
-
 ## Returns
 
 An immutable declaration with pure field access; the original declaration remains unchanged.

@@ -13,5 +13,3 @@ reviewed: 6508b432ec4d4603e6b070b39d8e28d65c88c3182f835e88f6c44ac9ad28bce4
 source: xml
 outdated: false
 ---
-
-Gets the audio backend factory.

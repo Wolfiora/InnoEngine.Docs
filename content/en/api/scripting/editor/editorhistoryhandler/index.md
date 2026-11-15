@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Interprets neutral editor history payloads for one current-generation feature protocol.

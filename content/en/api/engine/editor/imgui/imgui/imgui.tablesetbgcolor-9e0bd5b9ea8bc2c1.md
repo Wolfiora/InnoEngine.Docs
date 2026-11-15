@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets a table row or cell background through the current table scope.
-
 ## Parameters
 
 **Parameter `target`:** The table background role.

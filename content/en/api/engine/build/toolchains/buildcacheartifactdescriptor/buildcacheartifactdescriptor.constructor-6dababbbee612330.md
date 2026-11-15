@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes ownership metadata supplied by the artifact's actual publisher.
-
 ## Parameters
 
 **Parameter `directory`:** The absolute published artifact or producer-owned workspace directory.

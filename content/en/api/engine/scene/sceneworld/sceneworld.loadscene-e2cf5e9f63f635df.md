@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the loaded set with one scene and makes it active.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to load.

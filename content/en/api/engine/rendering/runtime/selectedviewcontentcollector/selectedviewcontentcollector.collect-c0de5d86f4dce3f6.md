@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects only the assigned world-content sources for one exact view.
-
 ## Parameters
 
 **Parameter `context`:** The original model view, output input, and frame timing.

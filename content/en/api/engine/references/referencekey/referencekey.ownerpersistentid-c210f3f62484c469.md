@@ -13,5 +13,3 @@ reviewed: 204a5a07da0c070b721272e5a46ef6207b1fcbcf2fe05fee5b7662586ab5c52f
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the object that owns this reference slot.

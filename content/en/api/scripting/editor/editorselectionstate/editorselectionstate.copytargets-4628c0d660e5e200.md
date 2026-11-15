@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies currently available selected targets into a caller-owned temporary collection.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The target type accepted by the caller.

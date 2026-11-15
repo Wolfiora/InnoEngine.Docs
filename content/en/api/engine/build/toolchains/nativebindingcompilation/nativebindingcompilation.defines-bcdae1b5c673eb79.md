@@ -13,5 +13,3 @@ reviewed: 6882a9a25102d0e2a2f6ae1f4e528cc5406a0737050ecf7e048132e6a4ca7e90
 source: xml
 outdated: false
 ---
-
-Gets ordered definitions for manifest translation units; upstream target configuration remains component-owned.

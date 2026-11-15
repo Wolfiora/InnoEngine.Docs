@@ -13,5 +13,3 @@ reviewed: a0a89441aef5787dc578632c1129a1515bbc98194adb2dfbb0079d71c6a7f07e
 source: xml
 outdated: false
 ---
-
-Three 32-bit floating-point components.

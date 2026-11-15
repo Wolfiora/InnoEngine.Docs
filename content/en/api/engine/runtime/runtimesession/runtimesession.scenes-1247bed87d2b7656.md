@@ -13,5 +13,3 @@ reviewed: ebced7d2521618b699eaec733f77880903cb1b8d5e6a8f54cce4e6a1dd3053ac
 source: xml
 outdated: false
 ---
-
-Gets the isolated scene world owned by this session.

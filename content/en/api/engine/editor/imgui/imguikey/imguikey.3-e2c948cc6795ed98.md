@@ -13,5 +13,3 @@ reviewed: 2a828190969734d85948e3de5f1585222267b6e99186c1171e082ad132ecee90
 source: xml
 outdated: false
 ---
-
-Identifies the \_3 presentation key or modifier.

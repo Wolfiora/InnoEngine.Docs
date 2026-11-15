@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Refreshes extension registries and reimports affected sources when their snapshot changed.
-
 ## Returns
 
 `true` when the importer registry changed.

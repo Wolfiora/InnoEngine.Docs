@@ -13,5 +13,3 @@ reviewed: a01625c836cff0da95821db41fb4626285bffecd5aa3ec3f7f0c77e4d459280b
 source: xml
 outdated: false
 ---
-
-Marks the current revision as saved without creating a data History entry.

@@ -13,5 +13,3 @@ reviewed: 2d46956bfd4f5bcc98f580adedf63b167156d7dab1776a856bfafad77cfd590d
 source: xml
 outdated: false
 ---
-
-Gets the standard cutoff or center-frequency parameter in hertz.

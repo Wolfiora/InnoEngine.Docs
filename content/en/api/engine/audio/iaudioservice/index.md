@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Provides backend-neutral audio playback, caching, mixer, and device-state services.

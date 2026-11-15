@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a direct runtime dependency by persistent descriptor.
-
 ## Parameters
 
 **Parameter `dependency`:** The persistent dependency descriptor.

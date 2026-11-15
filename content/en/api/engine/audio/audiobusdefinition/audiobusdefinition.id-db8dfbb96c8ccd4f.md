@@ -13,5 +13,3 @@ reviewed: f92906a473689e50ed87d9d33bcf79b151fcb68f743175f8ca1c823c0ae3e65a
 source: xml
 outdated: false
 ---
-
-Gets the stable bus identifier.

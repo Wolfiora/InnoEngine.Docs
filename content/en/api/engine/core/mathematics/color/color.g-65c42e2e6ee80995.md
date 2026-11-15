@@ -13,5 +13,3 @@ reviewed: b9b713d4fb8a175a75479dcfac769ba1ba38b7e69603c14ef1d74dee16441a97
 source: xml
 outdated: false
 ---
-
-The green color component.

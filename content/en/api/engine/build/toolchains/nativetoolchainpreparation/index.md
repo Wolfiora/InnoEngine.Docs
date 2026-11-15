@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Supplies shared environment isolation and SDK input validation without selecting a platform.

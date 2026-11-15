@@ -13,5 +13,3 @@ reviewed: 99c896f37b7ab74db4e06fc698565ddfb0eec78585b0f0ff036328ac824aabef
 source: xml
 outdated: false
 ---
-
-Gets whether the modal window can be moved.

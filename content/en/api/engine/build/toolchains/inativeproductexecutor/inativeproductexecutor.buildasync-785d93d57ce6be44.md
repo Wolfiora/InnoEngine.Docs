@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds or reuses the complete product with the operation's frozen tools.
-
 ## Parameters
 
 **Parameter `context`:** The frozen operation.

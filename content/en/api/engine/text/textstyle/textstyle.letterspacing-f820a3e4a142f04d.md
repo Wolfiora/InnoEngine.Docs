@@ -13,5 +13,3 @@ reviewed: b9dbfe9191c40bdabb195c7c0732da22b25f7d0f21d462ecef12630433e8609c
 source: xml
 outdated: false
 ---
-
-Gets additional spacing appended to each glyph advance.

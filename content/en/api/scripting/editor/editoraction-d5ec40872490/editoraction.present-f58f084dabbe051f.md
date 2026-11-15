@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Presents an active action at the current target location.
-
 ## Parameters
 
 **Parameter `context`:** The current presentation area and target.

@@ -13,5 +13,3 @@ reviewed: d91859a29a877b16020fefddb487fca33894cffa4b4ad913986508fc69127a17
 source: xml
 outdated: false
 ---
-
-Gets the source metadata fingerprint required when saving this copy.

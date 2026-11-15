@@ -13,5 +13,3 @@ reviewed: eea8bc5d41670b5cf39c3ee6be88c28df72607507a0e4349b23b8b1a454c0020
 source: xml
 outdated: false
 ---
-
-Gets the open render phase identifier.

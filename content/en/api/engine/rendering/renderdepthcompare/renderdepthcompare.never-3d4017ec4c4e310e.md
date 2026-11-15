@@ -13,5 +13,3 @@ reviewed: ed6cacfa6919ad23c1291e8e87d9f7156816ef5b7bd2e13832e0edb5e35330bb
 source: xml
 outdated: false
 ---
-
-Always rejects.

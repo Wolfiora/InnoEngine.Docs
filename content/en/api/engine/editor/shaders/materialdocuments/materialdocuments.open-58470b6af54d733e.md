@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens native source, including a source with failed import, without publishing its draft.
-
 ## Parameters
 
 **Parameter `path`:** Mounted Material source path.

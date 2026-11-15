@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes automatic extension-state persistence and writes the final project state before editor modules begin shutting down.
-
 ## Remarks
 
 This operation is idempotent and prevents module teardown from overwriting the saved module sections with transient empty state.

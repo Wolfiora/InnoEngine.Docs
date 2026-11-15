@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes graph-level metadata by stable key.
-
 ## Parameters
 
 **Parameter `key`:** Stable metadata key.

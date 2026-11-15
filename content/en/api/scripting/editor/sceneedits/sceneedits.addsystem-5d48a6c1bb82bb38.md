@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds one scene system and records its identity, stable type, index, and persistent properties.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene receiving the system.

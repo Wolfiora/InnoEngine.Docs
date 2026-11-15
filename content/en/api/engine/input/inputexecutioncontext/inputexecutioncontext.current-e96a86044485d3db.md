@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the input service bound to the current execution context.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no input scope is active.

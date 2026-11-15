@@ -13,5 +13,3 @@ reviewed: 7c807c61488cd56b0956874ac77f39bd933dd8764f0a005ff89f97d641b86010
 source: xml
 outdated: false
 ---
-
-The request owns the compiler pipeline or is activating its candidate generation.

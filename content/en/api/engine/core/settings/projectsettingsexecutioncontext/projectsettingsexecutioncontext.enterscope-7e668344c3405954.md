@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a settings lookup until the returned strict last-in-first-out scope is disposed.
-
 ## Parameters
 
 **Parameter `settings`:** The host-owned settings lookup to expose to script-facing operations.

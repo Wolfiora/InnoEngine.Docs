@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reuses a validated product or builds an isolated candidate and publishes it after input stability checks.
-
 ## Parameters
 
 **Parameter `context`:** Checkout and configuration selected by build composition.

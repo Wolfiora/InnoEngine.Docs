@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Forgets pending and completed validation state owned by one document.
-
 ## Parameters
 
 **Parameter `documentId`:** Closing or invalidated document identity.

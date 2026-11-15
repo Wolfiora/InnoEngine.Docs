@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a provider-defined navigation profile.
-
 ## Parameters
 
 **Parameter `id`:** Stable profile identity.

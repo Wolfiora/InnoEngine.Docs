@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Freezes a Support Pack's source preparation identity independently of reconstructible build outputs.

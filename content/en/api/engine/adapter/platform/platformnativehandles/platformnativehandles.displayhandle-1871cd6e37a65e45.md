@@ -13,5 +13,3 @@ reviewed: b8727db06a656e9e812c7512eec07c77d511cac69aa972830a5e7f1c6b651176
 source: xml
 outdated: false
 ---
-
-Native display handle when required by the platform.

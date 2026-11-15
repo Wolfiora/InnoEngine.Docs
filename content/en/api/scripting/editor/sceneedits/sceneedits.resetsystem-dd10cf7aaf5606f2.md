@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resets one scene system and records its compact property state before and after Reset.
-
 ## Parameters
 
 **Parameter `system`:** The registered system to reset.

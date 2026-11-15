@@ -13,5 +13,3 @@ reviewed: 5e47351349f2d0cc6f5977abf42b497b604f25985d65ff4fd03239223d894408
 source: xml
 outdated: false
 ---
-
-Uses linear filtering.

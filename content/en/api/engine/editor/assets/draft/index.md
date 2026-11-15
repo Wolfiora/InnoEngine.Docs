@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Contains neutral draft status; only the owning store can change it.

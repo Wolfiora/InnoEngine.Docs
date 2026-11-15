@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable processor configuration.
-
 ## Parameters
 
 **Parameter `id`:** Open processor protocol identifier.

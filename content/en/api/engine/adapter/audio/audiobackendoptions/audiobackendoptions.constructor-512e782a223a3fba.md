@@ -13,5 +13,3 @@ reviewed: 709b42542b94d1159d26ed8a4a7310311b53ef84566706384bacb96de4979c5e
 source: xml
 outdated: false
 ---
-
-Configures backend-neutral audio device creation.

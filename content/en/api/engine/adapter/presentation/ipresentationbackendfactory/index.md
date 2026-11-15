@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Creates host presentation contexts from explicit backend selections.

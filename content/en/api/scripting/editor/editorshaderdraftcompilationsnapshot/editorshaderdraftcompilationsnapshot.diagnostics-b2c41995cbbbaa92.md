@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Latest detached preview diagnostics, separate from project diagnostics.

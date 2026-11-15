@@ -13,5 +13,3 @@ reviewed: a3a30288ca996b5839e9e00d6bdbf1e2af86ff6430df14e8af60dcbc9380ff03
 source: xml
 outdated: false
 ---
-
-Gets the minimum C++ standard, or zero when no C++ translation unit is required.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two locations are different.
-
 ## Parameters
 
 **Parameter `left`:** The left location.

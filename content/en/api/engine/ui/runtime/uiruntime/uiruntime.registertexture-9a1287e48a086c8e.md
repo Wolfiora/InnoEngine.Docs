@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a named RGBA texture source for UI document drawing.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

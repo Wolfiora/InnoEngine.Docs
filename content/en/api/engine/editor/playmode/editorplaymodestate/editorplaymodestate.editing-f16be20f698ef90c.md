@@ -13,5 +13,3 @@ reviewed: a9c70d28266effc01e02075a2d053ff66944552fe5417a02ec27877b1a0c68c2
 source: xml
 outdated: false
 ---
-
-Editable scene documents are loaded and game simulation is stopped.

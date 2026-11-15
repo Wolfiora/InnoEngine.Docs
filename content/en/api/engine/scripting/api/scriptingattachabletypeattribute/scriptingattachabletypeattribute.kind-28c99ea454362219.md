@@ -13,5 +13,3 @@ reviewed: 811bf9a1631719392e86dc24fa7abe243777113ba44064b1346bb3197830edca
 source: xml
 outdated: false
 ---
-
-Gets the domain-defined attachable type kind recorded in script manifests.

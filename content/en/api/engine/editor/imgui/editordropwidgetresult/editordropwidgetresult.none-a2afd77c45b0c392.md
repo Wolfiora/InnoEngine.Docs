@@ -13,5 +13,3 @@ reviewed: 22b6d24b69656f6ca27707ea504f89de44520b4d499c546550280c47411ad996
 source: xml
 outdated: false
 ---
-
-Gets an inactive drop target result.

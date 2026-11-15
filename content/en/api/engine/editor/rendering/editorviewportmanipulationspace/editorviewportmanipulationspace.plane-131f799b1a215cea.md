@@ -13,5 +13,3 @@ reviewed: 7d874bb83fc429590cb4a971ea46358cc2268939fecb2d8afbad4cad5581c47a
 source: xml
 outdated: false
 ---
-
-Gets the contributor-declared neutral manipulation plane, or Spatial for all axes.

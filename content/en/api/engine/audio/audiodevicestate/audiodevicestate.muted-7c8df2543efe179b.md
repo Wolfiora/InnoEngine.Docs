@@ -13,5 +13,3 @@ reviewed: 322e7e94bde15a8f09a31ffc654794349d619186d5058f4cd25229bda8b7a4bd
 source: xml
 outdated: false
 ---
-
-Playback is advancing without an output device.

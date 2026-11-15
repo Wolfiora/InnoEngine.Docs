@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the host-owned neutral navigation state for one stable Editor viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

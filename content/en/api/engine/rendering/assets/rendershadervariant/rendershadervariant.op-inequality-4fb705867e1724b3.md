@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two variants select different stable options.
-
 ## Parameters
 
 **Parameter `left`:** The first canonical shader variant to compare.

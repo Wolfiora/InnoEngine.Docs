@@ -13,5 +13,3 @@ reviewed: dff42403a31ea4ccbc7564f5bab7b4e4eaaba4905c89c77a5f3f46d5b588c666
 source: xml
 outdated: false
 ---
-
-Gets the left pixel offset.

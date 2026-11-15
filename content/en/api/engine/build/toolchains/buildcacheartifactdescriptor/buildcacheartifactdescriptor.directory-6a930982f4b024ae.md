@@ -13,5 +13,3 @@ reviewed: 0deee0b2bffcc02838b44fea647abd71ce83dfc25a89f1509767483c1a513296
 source: xml
 outdated: false
 ---
-
-Gets the absolute cache entry controlled by the declaring producer.

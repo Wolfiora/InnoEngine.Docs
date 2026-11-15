@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Provides deterministic host-process and workspace operations shared by native dependency toolchains.

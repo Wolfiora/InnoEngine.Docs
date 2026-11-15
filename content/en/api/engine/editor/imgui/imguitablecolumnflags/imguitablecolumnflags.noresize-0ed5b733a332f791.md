@@ -13,5 +13,3 @@ reviewed: 79a6620c15889ec58754cab81c68d27d07fb60664f94eb37dd9357ba6e456d4a
 source: xml
 outdated: false
 ---
-
-Disable manual resizing.

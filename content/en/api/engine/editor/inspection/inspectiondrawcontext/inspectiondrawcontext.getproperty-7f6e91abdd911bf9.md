@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads one runtime-visible serialized property from the target.
-
 ## Type parameters
 
 **Type parameter `T`:** Expected property value type.

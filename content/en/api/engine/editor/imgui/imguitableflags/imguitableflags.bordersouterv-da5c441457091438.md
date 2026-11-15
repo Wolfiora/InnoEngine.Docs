@@ -13,5 +13,3 @@ reviewed: 567154b30d98511a80dca333a9e4ebc3137fd2d7d48c49de1462af2e4435d87f
 source: xml
 outdated: false
 ---
-
-Draw vertical borders on the left and right sides.

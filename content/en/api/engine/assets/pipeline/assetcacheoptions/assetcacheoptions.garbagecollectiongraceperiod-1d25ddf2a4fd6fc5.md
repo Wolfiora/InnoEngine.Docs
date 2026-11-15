@@ -13,5 +13,3 @@ reviewed: d138f8cc31631615794feadba17f7415b3e5da9ce5a04c1c1603420f2936426c
 source: xml
 outdated: false
 ---
-
-Gets the minimum age of an unreachable artifact before it can be collected.

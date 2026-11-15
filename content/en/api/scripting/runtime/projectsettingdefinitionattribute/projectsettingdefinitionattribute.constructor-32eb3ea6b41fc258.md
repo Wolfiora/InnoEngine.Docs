@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project setting declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable setting identifier.

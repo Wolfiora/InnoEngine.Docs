@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Clicking this doesn't close parent popup window (overrides ImGuiItemFlags\_AutoClosePopups)

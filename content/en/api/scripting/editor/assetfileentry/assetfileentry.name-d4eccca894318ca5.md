@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the final source path segment, or the semantic mount-root label when this entry is a source root.

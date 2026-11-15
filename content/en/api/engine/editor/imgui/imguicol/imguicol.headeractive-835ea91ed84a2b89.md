@@ -13,5 +13,3 @@ reviewed: 0cf28a95634735e530affcd1a05b0dde7ed33df28518a92222dfeacfa566cc00
 source: xml
 outdated: false
 ---
-
-Selects the header active presentation behavior.

@@ -13,5 +13,3 @@ reviewed: bdf6ee00bd1b5c82dca28f650e330cb70a16c00a3892c1a87b95d3d317fccdcd
 source: xml
 outdated: false
 ---
-
-Gets the writable project destination path.

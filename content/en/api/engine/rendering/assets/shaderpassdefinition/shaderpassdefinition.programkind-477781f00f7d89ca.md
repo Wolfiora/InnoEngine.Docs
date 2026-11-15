@@ -13,5 +13,3 @@ reviewed: 661be3be3fb67d10689162a70839aade5a423a61abe3da903768b707e215b06c
 source: xml
 outdated: false
 ---
-
-Gets or sets the programmable stage combination.

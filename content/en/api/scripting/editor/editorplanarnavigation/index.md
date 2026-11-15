@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Shares captured planar gestures and mouse-anchored zoom math between scene and graph canvases.

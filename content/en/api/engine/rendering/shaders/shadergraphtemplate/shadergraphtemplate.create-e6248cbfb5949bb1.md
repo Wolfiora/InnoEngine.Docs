@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a fresh detached graph with its target and parameter declarations.
-
 ## Parameters
 
 **Parameter `serialization`:** Current owner converters.

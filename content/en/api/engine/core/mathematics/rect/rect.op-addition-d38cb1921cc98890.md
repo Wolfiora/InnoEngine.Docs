@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds the supplied values component by component.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

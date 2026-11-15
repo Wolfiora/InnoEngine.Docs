@@ -13,5 +13,3 @@ reviewed: 42447e14eab451e27ae13a6ef35907999ac0aeb620fc73c7dd30298f8422b815
 source: xml
 outdated: false
 ---
-
-Gets the normalized lower-case file extension.

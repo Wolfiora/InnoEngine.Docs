@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets synchronous Editor lifecycle notifications implemented by the Core event dispatcher.
-
 ## Remarks
 
 Own and dispose a hub rather than retaining callbacks beyond their extension generation.

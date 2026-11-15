@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a collapsible section header.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and identity.

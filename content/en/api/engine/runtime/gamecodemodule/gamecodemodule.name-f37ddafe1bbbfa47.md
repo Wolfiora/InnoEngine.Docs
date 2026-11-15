@@ -13,5 +13,3 @@ reviewed: d3a6939e86e1bf53e56c25a90fcb78ea4baf679be73eef9d0b23e5ccdfa71207
 source: xml
 outdated: false
 ---
-
-Gets the stable logical module identity.

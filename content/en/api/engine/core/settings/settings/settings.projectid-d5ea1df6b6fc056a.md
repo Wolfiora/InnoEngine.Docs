@@ -13,5 +13,3 @@ reviewed: 4c347dc76c186b78aa85f956365987de5b97ef3eed51a0f1224378e9f6ef013a
 source: xml
 outdated: false
 ---
-
-Gets the current project namespace used to qualify project-authored logical names.

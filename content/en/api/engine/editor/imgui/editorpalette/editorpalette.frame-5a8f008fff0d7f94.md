@@ -13,5 +13,3 @@ reviewed: 4830b55cedc215d29c272c52e737ca9e22cb815b7b25c396b5d4e40205b7befe
 source: xml
 outdated: false
 ---
-
-Gets the standard frame background.

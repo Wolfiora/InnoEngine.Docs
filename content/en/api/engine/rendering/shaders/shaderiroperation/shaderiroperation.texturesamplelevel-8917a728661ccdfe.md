@@ -13,5 +13,3 @@ reviewed: 5d9d80c923fcbb95ed65caf430885f5f4b0d80502df83c50fec5ba96905be2c1
 source: xml
 outdated: false
 ---
-
-Samples a floating-point texture at an explicit mip level.

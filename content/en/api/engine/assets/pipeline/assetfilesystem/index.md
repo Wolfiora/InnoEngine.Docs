@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Indexed asset source filesystem model backed by `T:Inno.Assets.Pipeline.AssetWatcher`.

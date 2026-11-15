@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies one prepared assembly reload together with every registered editor feature migration.
-
 ## Parameters
 
 **Parameter `reload`:** The prepared assembly reload session to activate and complete.

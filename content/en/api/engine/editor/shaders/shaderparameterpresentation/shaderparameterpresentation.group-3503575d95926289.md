@@ -13,5 +13,3 @@ reviewed: e9466531cbb8daf4e419fb3011f8f7fecc798991dfba25764f1dfd83c1c2712f
 source: xml
 outdated: false
 ---
-
-Gets or sets the Material Inspector section; empty uses the standard Parameters section.

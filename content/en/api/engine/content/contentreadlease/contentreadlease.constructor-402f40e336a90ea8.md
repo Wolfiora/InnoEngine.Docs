@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Transfers a provider pin and independent-stream factory into a caller-owned lease.
-
 ## Parameters
 
 **Parameter `entry`:** Immutable metadata identifying the pinned bytes.

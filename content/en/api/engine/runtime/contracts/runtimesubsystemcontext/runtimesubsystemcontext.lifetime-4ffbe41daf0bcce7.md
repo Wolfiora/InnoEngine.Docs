@@ -13,5 +13,3 @@ reviewed: 3dc0b11f937f030b4b1906d775e2be3aa1a61e2a732748f3abb2f0cfbe2faf3a
 source: xml
 outdated: false
 ---
-
-Gets the owner scope used to validate factory lifetimes.

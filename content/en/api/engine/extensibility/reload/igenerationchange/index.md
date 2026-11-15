@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Stages domain-owned state around an atomic generation publication without retaining it after completion.

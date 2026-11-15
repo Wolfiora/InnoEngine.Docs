@@ -13,5 +13,3 @@ reviewed: 3663d08206c8ac3e37e7b967d36566d00e4145842d82a83bf5f3ebc97b43c694
 source: xml
 outdated: false
 ---
-
-The scaled face ascender in logical pixels, using the backend's coordinate convention.

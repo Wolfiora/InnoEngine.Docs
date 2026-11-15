@@ -13,5 +13,3 @@ reviewed: 45cf7c3aa6260ce36c7f4e7b00536dfeb6d0f9dfcbc783efafc4a6923623c8cf
 source: xml
 outdated: false
 ---
-
-Gets the target semantic; an adapter must reject unsupported semantics.

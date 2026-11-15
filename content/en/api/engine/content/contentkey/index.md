@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Identifies one content entry with case-sensitive, portable, slash-separated segments.

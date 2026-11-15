@@ -13,5 +13,3 @@ reviewed: 1876a5be1a76be8ce3245753c469fa1eb3c813c0462ba0f37c011a77cd4c1dce
 source: xml
 outdated: false
 ---
-
-Gets the transient selected identity.

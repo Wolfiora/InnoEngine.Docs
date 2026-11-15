@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two sources have the same stable identifier.
-
 ## Parameters
 
 **Parameter `left`:** The left source.

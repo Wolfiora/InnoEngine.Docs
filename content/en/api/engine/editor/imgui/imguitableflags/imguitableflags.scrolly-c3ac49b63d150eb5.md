@@ -13,5 +13,3 @@ reviewed: 4a0dacf0ec59608d645526092b69a6176c4b12ca444a22ceae8ef99b8a2049f3
 source: xml
 outdated: false
 ---
-
-Enable vertical scrolling. Require 'outer\_size' parameter of BeginTable() to specify the container size.

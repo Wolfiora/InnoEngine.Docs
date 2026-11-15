@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a custom deterministic input that invalidates this asset.
-
 ## Parameters
 
 **Parameter `key`:** The input identifier.

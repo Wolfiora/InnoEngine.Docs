@@ -13,5 +13,3 @@ reviewed: 4c0f84291d2b7419cfda9717d95d363444e2b43350eae9442dc57187b043daf6
 source: xml
 outdated: false
 ---
-
-Gets or sets the authoring source directory.

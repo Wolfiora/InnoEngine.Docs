@@ -13,5 +13,3 @@ reviewed: 2c29469b973a518e3c35dc5be2dfd6abaf8885aae20b4e041eea5a7e3b1eb204
 source: xml
 outdated: false
 ---
-
-Gets the live target identity when `P:Inno.References.ReferenceResolution.state` is `F:Inno.References.ReferenceResolutionState.Resolved`.

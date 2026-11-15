@@ -13,5 +13,3 @@ reviewed: d344d8513e4e4002978e5a4b2a5f6c538b65ac541db93dcde22ac74367fd5b25
 source: xml
 outdated: false
 ---
-
-Gets immutable capabilities for the current backend generation.

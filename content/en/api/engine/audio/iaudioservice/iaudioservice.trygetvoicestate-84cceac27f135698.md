@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries the current state of a voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice handle to query.

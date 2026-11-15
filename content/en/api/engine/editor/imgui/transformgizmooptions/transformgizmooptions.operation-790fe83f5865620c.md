@@ -13,5 +13,3 @@ reviewed: 57913484ea3efc86e6d197b45dc46687095f641264246388795ed04347a3f873
 source: xml
 outdated: false
 ---
-
-Gets the requested handles.

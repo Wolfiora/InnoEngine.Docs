@@ -13,5 +13,3 @@ reviewed: 8d53721566fcc892980ba0bac0d1ac2ce25bf6b79af697a792df528b380d535d
 source: xml
 outdated: false
 ---
-
-Gets the most recent transition or simulation failure.

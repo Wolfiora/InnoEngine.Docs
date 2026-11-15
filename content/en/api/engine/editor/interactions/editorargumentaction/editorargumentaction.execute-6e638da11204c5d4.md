@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies the editor action to the supplied interaction context.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Performs a Hermite spline interpolation.
-
 ## Parameters
 
 **Parameter `value1`:** Source position.

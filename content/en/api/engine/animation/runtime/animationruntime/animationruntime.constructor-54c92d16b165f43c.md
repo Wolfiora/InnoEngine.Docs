@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one isolated animation runtime generation.
-
 ## Parameters
 
 **Parameter `events`:** Session event dispatcher that receives marker events.

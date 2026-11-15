@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires one verified authoring artifact generation for an explicit lifetime.
-
 ## Parameters
 
 **Parameter `persistentId`:** Persistent identity of the artifact owner.

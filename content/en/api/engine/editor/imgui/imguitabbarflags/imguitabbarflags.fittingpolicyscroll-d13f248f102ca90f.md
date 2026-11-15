@@ -13,5 +13,3 @@ reviewed: 196b66b40c5936cd23d1bd208c5b540455b73efd7b2815a0a3f234ffb9d81303
 source: xml
 outdated: false
 ---
-
-Enable scrolling buttons when tabs don't fit

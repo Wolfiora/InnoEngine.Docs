@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates one immutable content identity and atomically selects it for subsequent readers.
-
 ## Parameters
 
 **Parameter `target`:** The explicit target whose prepared Pack is requested.

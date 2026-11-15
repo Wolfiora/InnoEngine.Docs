@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a sink and synchronously replays every active report before registration completes.
-
 ## Parameters
 
 **Parameter `sink`:** The sink that receives current and future reports.

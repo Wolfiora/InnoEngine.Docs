@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Computes an ordinal hash code for this identifier.
-
 ## Returns
 
 A hash code consistent with ordinal equality.

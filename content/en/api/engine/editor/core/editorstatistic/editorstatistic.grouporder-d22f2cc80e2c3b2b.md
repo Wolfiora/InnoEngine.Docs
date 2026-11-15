@@ -13,5 +13,3 @@ reviewed: 55f82480ff713c7ef678698955f0727a97b4fb9fbda54f5d76715c4af08618df
 source: xml
 outdated: false
 ---
-
-Gets ascending group presentation order.

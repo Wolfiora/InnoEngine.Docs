@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-types
 aliases: []
 ---
-
-Provides the previous and candidate type catalogs during an assembly reload transaction.

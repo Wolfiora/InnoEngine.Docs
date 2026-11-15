@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets a semantic content identity covering the contract, variant, target, bindings and all compiled stages.

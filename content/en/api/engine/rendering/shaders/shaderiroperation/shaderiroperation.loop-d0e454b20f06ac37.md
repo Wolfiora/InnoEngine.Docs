@@ -13,5 +13,3 @@ reviewed: 21200c0b53e11f3a1838061916fb79ece6a2129705bdbffdbcb90e4d2d93ffce
 source: xml
 outdated: false
 ---
-
-Executes a counted loop with explicit typed carried values and ordered body effects.

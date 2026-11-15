@@ -13,5 +13,3 @@ reviewed: a5ee7e5746f3567630f2237ec1aaa972946c4107649c89856f228c81ad828593
 source: xml
 outdated: false
 ---
-
-Gets the active generation's model-independent world-content collector.

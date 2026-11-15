@@ -13,5 +13,3 @@ reviewed: f78d5bc8e699f66e42ee30f95e81bc1fa4df983f1e4d617f753edcebc57decc0
 source: xml
 outdated: false
 ---
-
-Identifies the ImGuiModAlt presentation key or modifier.

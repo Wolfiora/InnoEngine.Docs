@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Declares one manifest-derived shader binding used for reflection validation.

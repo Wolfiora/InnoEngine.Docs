@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Represents one imported OpenType font file or collection.

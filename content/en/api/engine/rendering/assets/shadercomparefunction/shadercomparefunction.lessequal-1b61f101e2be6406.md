@@ -13,5 +13,3 @@ reviewed: b433895d4ef701cbf6a4118ecb5867726a235d62fed3cdb0aef86de80ee12b54
 source: xml
 outdated: false
 ---
-
-Accepts a fragment with a smaller or equal depth.

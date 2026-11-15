@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Describes one neutral reload-safe mutation interpreted by an attribute-discovered history handler.

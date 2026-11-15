@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Describes the exact uncompressed bytes of one immutable content entry.

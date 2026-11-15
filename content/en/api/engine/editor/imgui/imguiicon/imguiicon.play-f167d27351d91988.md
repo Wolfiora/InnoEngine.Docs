@@ -13,5 +13,3 @@ reviewed: d149a511e921f192185846638001567d8d36b5ec19402e49701d24b7ba579a54
 source: xml
 outdated: false
 ---
-
-Gets the play glyph used by standard Editor controls.

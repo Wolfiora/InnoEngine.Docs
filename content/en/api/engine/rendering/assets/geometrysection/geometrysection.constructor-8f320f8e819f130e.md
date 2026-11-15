@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a submesh range.
-
 ## Parameters
 
 **Parameter `firstIndex`:** First index in the shared index buffer.

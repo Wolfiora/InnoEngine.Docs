@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the original runtime slot without binding to a replacement generation.
-
 ## Type parameters
 
 **Type parameter `TObject`:** The expected destination contract.

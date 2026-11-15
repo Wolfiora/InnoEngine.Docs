@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Chooses whether a graph-authored node is inlined or consumed by a domain Target.

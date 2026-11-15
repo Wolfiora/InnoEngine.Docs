@@ -13,5 +13,3 @@ reviewed: 1122aaee489f299243ce3f834a4df2c91135c027f452a65bb4379cb344e9a0b2
 source: xml
 outdated: false
 ---
-
-Gets the new process-owned directory whose claim precedes all bootstrap payloads.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Reports owner-thread cold-load admission and unique encoded IO reservations without retaining assets or tasks.

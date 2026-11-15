@@ -13,5 +13,3 @@ reviewed: c1e41b0da4f3126ff8f6f582a4d0f337ad1dd058787a6d1f093d26250d4669f2
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the referenced asset.

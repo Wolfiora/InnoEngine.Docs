@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes dependency-ordered default contributors for the next current-generation rebuild without constructing setting instances from types that may still be awaiting assembly activation.
-
 ## Parameters
 
 **Parameter `contributors`:** Complete dependency-ordered contributor snapshot.

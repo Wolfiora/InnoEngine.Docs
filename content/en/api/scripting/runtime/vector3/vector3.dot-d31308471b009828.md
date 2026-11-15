@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the scalar dot product of two values.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

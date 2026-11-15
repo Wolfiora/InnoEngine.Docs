@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two layer identifiers contain different indices.
-
 ## Parameters
 
 **Parameter `left`:** The first layer identifier.

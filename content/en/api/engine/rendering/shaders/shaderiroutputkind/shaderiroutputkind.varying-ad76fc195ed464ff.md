@@ -13,5 +13,3 @@ reviewed: ea71c994376ea97d1e510beac434f3352f446da848325a8a814ac210c4efdf61
 source: xml
 outdated: false
 ---
-
-A value interpolated for the next raster stage.

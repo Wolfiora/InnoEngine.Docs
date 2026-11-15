@@ -13,5 +13,3 @@ reviewed: 4552b39f004d66fb22a2a29f7fb69881709ad68c40361042b83452aaf29229ba
 source: xml
 outdated: false
 ---
-
-Gets the icon glyph displayed in the large leading slot of the Inspector target header.

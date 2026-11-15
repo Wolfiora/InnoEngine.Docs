@@ -13,5 +13,3 @@ reviewed: dbf4315b69e341426739efaa42eb1d4f5595dbd5b28834afec430d09b09c66fc
 source: xml
 outdated: false
 ---
-
-Gets the current listener transform.

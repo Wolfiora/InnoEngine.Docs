@@ -13,5 +13,3 @@ reviewed: ccb76018c59120eb1ad28aee3320fb23527bd667bc6afc9f9f6caca643a9495d
 source: xml
 outdated: false
 ---
-
-Immutable latest completed compiler diagnostics.

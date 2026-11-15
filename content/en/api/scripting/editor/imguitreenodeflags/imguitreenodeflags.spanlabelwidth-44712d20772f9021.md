@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Narrow hit box + narrow hovering highlight, will only cover the label text.

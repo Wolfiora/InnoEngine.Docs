@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or sets the member order within its declaring type.
-
 ## Remarks
 
 Lower values are processed first. The script compiler fills this value from source declaration order.

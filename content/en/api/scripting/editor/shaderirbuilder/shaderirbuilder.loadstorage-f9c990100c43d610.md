@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Loads a storage value at this exact point in the block's memory-effect sequence.
-
 ## Parameters
 
 **Parameter `resource`:** A readable typed storage input.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds and validates an isolated source-mount candidate without changing active AssetPipeline state.
-
 ## Parameters
 
 **Parameter `mounts`:** A writable project source followed by zero or more read-only sources.

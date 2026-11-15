@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures all persistent properties without serializing the complete scene.
-
 ## Parameters
 
 **Parameter `target`:** The live scene object whose state should be captured.

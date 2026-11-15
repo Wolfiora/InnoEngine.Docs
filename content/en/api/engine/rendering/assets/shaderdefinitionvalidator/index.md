@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Validates the source-free material, pass and technique contract shared by graph compilation and deployed shaders.

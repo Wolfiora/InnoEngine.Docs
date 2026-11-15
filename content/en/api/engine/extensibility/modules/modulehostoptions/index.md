@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Selects the isolated host catalog without prescribing storage for contributed module sources.

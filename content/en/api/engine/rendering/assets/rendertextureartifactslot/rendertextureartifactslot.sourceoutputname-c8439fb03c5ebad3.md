@@ -13,5 +13,3 @@ reviewed: 4178c4c4862c60e8e55e65c5a76e21eb1678707b3653734305a5fdaae0e83913
 source: xml
 outdated: false
 ---
-
-Gets the named portable image artifact consumed by target compilation.

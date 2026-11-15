@@ -13,5 +13,3 @@ reviewed: 2aad5af370408b27657cdad8c4dd55362c5308b8a7c51c82b52b7cde48490b46
 source: xml
 outdated: false
 ---
-
-Starts a presentation pass in which the visible Game View must report its current bounds.

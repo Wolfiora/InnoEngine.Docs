@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a sampler state.
-
 ## Parameters
 
 **Parameter `filter`:** Minification, magnification, and mip filtering contract.

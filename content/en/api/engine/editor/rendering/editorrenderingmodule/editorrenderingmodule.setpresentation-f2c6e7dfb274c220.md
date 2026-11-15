@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets presentation preferences supplied to every contributor for one Editor viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

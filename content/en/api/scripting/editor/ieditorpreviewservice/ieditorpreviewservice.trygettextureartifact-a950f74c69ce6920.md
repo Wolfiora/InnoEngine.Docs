@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a named texture artifact preview without blocking target compilation.
-
 ## Parameters
 
 **Parameter `texture`:** Stable named texture artifact reference.

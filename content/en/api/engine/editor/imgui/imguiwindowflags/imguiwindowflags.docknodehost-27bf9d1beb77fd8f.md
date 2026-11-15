@@ -13,5 +13,3 @@ reviewed: 908a42ce3f3110802a445572aac2ed985e9a3d3d32fdfeef40c372b31a798972
 source: xml
 outdated: false
 ---
-
-Don't use! For internal use by Begin()/NewFrame()

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates the observable result of a completed drop operation.
-
 ## Parameters
 
 **Parameter `accepted`:** Whether the handler accepted and completed the drop.

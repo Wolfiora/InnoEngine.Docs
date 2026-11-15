@@ -13,5 +13,3 @@ reviewed: 399a571633d2947fdf1fa39c130ebdfb813daa32de59f13b43a3e056a431dece
 source: xml
 outdated: false
 ---
-
-Gets asset grid cell padding.

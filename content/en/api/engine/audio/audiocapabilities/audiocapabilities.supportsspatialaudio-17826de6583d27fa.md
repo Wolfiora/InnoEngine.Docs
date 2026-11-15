@@ -13,5 +13,3 @@ reviewed: 727068d5b536e3a1d1aeb31fe3b46d75aabe619e5b88fe2094db9c086b885191
 source: xml
 outdated: false
 ---
-
-Gets whether listener-relative spatial playback is available.

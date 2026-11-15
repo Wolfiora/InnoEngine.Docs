@@ -13,5 +13,3 @@ reviewed: 6cee497e08ef8f936f71213aefb76551ad602844963f0178a3cfb18459b349ad
 source: xml
 outdated: false
 ---
-
-Identifies the Keypad6 presentation key or modifier.

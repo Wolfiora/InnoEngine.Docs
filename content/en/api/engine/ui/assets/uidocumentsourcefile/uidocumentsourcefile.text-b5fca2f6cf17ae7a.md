@@ -13,5 +13,3 @@ reviewed: f98f15954ebc479b7225015136aa639cef3791f6cd70ce3dc449123e51500e7e
 source: xml
 outdated: false
 ---
-
-Strictly decoded UTF-8 text.

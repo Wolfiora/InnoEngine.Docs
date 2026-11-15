@@ -13,5 +13,3 @@ reviewed: 3ef82bbab0a7bddb926861a0cc2a557313bff90b18aaac70bd4edc6549fcf1f9
 source: xml
 outdated: false
 ---
-
-Releases every native face and retained immutable artifact before the backend.

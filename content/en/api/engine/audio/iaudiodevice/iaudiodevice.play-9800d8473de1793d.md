@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and starts or schedules one playback voice.
-
 ## Parameters
 
 **Parameter `clip`:** Prepared clip owned by this device generation.

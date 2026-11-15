@@ -13,5 +13,3 @@ reviewed: 0707010c29733a9b0aad42b9c63340b109db85c06ae73949fea56a19f0eed869
 source: xml
 outdated: false
 ---
-
-The S letter key.

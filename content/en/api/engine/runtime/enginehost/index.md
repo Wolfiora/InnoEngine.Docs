@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Owns application-level engine services and creates isolated runtime sessions.

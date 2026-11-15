@@ -13,5 +13,3 @@ reviewed: 1b2ab97a3c3216f6fbb4f1d7933bbbcd5861c2fe12b4871585526284e177c045
 source: xml
 outdated: false
 ---
-
-Gets the explicitly selected SDK executable.

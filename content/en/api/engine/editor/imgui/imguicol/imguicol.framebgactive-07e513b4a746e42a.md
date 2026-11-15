@@ -13,5 +13,3 @@ reviewed: 77a3b1d59f79ff75f9b866e98e0866195026da5d16ef0536e91fbcd8d10c9f65
 source: xml
 outdated: false
 ---
-
-Selects the frame bg active presentation behavior.

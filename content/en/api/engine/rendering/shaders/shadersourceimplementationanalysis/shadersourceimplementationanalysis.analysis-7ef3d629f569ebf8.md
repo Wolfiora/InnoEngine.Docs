@@ -13,5 +13,3 @@ reviewed: b369da4933261a606c7bc8234733938717e38a12151634a130669d92fec12575
 source: xml
 outdated: false
 ---
-
-Gets the parsed interface and implementation-local diagnostics.

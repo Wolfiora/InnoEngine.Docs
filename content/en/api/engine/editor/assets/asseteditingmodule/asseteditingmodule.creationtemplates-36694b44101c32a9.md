@@ -13,5 +13,3 @@ reviewed: 20f351d29b031a4106c2e169912186c653b950f7a56541317b82ecbb72cfcd09
 source: xml
 outdated: false
 ---
-
-Gets the current immutable creation menu declarations without retaining template instances.

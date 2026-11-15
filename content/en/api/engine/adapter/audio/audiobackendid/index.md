@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-audio#provider-ownership-contract
 aliases: []
 ---
-
-Identifies a audio implementation without closing the set of supported backends.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Describes a neutral port's node-relative geometry and display state without retaining extensions.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks if this rectangle contains a point.
-
 ## Parameters
 
 **Parameter `px`:** The px consumed by contains; ownership remains with the caller unless explicitly stated otherwise.

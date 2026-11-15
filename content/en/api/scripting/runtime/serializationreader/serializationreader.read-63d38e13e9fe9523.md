@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a value using its declared metadata type without constructing a generic method at runtime.
-
 ## Parameters
 
 **Parameter `name`:** The required non-empty member name.

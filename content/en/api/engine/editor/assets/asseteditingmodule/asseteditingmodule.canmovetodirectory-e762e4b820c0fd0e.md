@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether a source can move into the destination without a cycle or name collision.
-
 ## Parameters
 
 **Parameter `sourcePath`:** The current isolated source-relative path.

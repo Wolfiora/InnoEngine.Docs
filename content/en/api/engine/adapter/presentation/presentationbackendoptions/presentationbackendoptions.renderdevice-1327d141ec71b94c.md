@@ -13,5 +13,3 @@ reviewed: 432dc4aff0c9baebade8c907392a1bb85a710b99cc52fdca883c0957622273a1
 source: xml
 outdated: false
 ---
-
-Gets or sets the rendering device used to present host draw data.

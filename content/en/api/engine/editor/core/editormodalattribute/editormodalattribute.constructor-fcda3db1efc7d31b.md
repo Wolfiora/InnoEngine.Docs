@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a centered modal registration with a stable identity and draw order.
-
 ## Parameters
 
 **Parameter `id`:** The stable identity used to retain modal transition state across refreshes.

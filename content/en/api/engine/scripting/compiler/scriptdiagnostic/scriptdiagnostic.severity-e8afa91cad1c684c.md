@@ -13,5 +13,3 @@ reviewed: 085269396fe93eef3d44c3cba9ea4d4efdb6700eede85635831bb4de7da021bd
 source: xml
 outdated: false
 ---
-
-The presentation severity of the diagnostic.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Identifies an edge within one graph document using a stable serialized value.

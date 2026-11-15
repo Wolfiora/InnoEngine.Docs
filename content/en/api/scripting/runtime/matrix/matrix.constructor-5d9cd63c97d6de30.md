@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Initializes a 4x4 matrix with explicit row-major elements.
-
 ## Parameters
 
 **Parameter `m11`:** Row 1, Column 1.

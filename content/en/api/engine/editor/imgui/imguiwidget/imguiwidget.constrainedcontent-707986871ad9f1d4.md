@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a vertically auto-sized content region that is constrained to the current available width and cannot create an independent scroll range.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the content region.

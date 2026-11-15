@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all concrete discovered types marked with `TAttribute`.
-
 ## Type parameters
 
 **Type parameter `TAttribute`:** The attribute type required on every selected concrete type.

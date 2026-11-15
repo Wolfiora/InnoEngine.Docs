@@ -13,5 +13,3 @@ reviewed: 8d79ff01d7004ac7a86ec1a3111ae2371f86f06b1933e1ea342f4df57bd9cca2
 source: xml
 outdated: false
 ---
-
-Uses exponential-distance attenuation.

@@ -13,5 +13,3 @@ reviewed: 85b9075bb7f45c60214048490b2b374628bc75faf1d04f18bb658cea623ce444
 source: xml
 outdated: false
 ---
-
-Gets the rendering-device generation that owns this handle.

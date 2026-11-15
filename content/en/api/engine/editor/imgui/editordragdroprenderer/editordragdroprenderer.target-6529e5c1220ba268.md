@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates and, on delivery, accepts a managed drag on the most recently submitted ImGui item.
-
 ## Parameters
 
 **Parameter `interaction`:** The interaction area and managed drop target.

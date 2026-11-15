@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Supplies resolved host services and content to the common Player lifecycle.

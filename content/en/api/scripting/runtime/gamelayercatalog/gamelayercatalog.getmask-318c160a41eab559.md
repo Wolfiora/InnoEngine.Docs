@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a mask from configured ordinal layer names.
-
 ## Parameters
 
 **Parameter `names`:** The configured names to include.

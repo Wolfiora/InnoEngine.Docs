@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the shared generation-scoped preview service for optional inline texture previews; valid only during this draw.

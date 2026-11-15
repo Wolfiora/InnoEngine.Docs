@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graphics pipeline descriptor.
-
 ## Parameters
 
 **Parameter `vertexShader`:** Target backend vertex shader binary.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Builds one model-neutral render contribution for the current frame.
-
 ## Parameters
 
 **Parameter `context`:** Frame-only Editor and viewport context.

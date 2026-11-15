@@ -13,5 +13,3 @@ reviewed: 110f6620673d97a4a20b10bcca233cae1d37c6a4ce9236db7c27f077fae031bc
 source: xml
 outdated: false
 ---
-
-Releases the isolated runtime session and history scope owned by this controller.

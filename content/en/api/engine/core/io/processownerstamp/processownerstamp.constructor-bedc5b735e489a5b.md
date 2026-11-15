@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes the identifier and UTC start timestamp observed from the same process.
-
 ## Parameters
 
 **Parameter `processId`:** The positive operating-system identifier.

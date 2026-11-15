@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Describes a render-graph buffer independently from a graphics backend.

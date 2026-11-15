@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the number of independently addressable layers or slices at one mip level.
-
 ## Parameters
 
 **Parameter `mipLevel`:** Zero-based mip level.

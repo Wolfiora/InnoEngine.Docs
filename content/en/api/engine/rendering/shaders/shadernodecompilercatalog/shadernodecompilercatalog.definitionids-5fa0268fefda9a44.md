@@ -13,5 +13,3 @@ reviewed: 28492bc53c87e484f1eb96c53880a91736eb18d7ac05872183b233b280c61e36
 source: xml
 outdated: false
 ---
-
-Gets stable registered definition identities, without exposing providers.

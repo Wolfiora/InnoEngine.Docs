@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a tree node and pushes its tree scope when it is open.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and identity.

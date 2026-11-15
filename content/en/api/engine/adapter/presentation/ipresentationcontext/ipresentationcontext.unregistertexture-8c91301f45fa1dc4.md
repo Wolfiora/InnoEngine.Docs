@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases a presentation token without taking ownership of the source texture.
-
 ## Parameters
 
 **Parameter `texture`:** Previously allocated presentation token.

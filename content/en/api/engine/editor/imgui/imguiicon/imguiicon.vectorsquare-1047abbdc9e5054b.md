@@ -13,5 +13,3 @@ reviewed: f8e1659cc25eecf211bec51b495c739785db7f772bedbbdc364feb48b7e54e18
 source: xml
 outdated: false
 ---
-
-Gets the vector square glyph used by standard Editor controls.

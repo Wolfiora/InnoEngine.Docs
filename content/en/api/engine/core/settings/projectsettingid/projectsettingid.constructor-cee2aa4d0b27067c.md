@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project setting identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable setting value.

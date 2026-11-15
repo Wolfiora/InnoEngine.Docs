@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets the current Asset Browser directory and infers its root from the isolated source identity.
-
 ## Parameters
 
 **Parameter `relativePath`:** The isolated source-relative directory path, or an empty value for the currently displayed root.

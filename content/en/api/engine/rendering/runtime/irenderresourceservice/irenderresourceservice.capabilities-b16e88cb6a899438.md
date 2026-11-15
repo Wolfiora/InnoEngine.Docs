@@ -13,5 +13,3 @@ reviewed: 1fec7b431fe08c04ed7817c342c12305813b971b03529bd56a921f1aa3384149
 source: xml
 outdated: false
 ---
-
-Gets the active backend-neutral capability snapshot.

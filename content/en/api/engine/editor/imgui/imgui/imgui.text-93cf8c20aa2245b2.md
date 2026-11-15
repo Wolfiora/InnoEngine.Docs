@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws unformatted text.
-
 ## Parameters
 
 **Parameter `text`:** Literal text to draw; percent characters are displayed without format-string interpretation.

@@ -13,5 +13,3 @@ reviewed: 3e95a15447d7826cbe977f34d8b20df35c28fa9ac0765cc837af487ca41a18e6
 source: xml
 outdated: false
 ---
-
-Gets the stable implementation identifier; the default value is unassigned.

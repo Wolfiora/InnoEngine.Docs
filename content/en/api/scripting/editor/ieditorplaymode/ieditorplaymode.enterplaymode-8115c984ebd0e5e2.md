@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Requests entry after the active script generation becomes ready.
-
 ## Returns
 
 `true` when a new entry request was accepted.

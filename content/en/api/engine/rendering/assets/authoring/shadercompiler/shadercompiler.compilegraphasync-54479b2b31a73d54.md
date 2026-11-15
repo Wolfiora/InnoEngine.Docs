@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an imported graph in the current owner generation, then starts native compilation without retaining its asset.
-
 ## Parameters
 
 **Parameter `shader`:** Committed graph-backed shader asset.

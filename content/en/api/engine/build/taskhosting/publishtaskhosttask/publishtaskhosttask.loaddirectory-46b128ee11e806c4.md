@@ -13,5 +13,3 @@ reviewed: d1e169d5f3d190d5ef7993ed2441651c5ea7137d89d4da7a5e9aa45f5f3e9eb2
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute private load directory whose parent receives this process's ownership marker.

@@ -13,5 +13,3 @@ reviewed: d8066175c265909c2c0c9364f62d61e49ab537118af99a302582b8a21136d7c5
 source: xml
 outdated: false
 ---
-
-Gets or sets the freshly built Foundation assembly selected by this SDK bootstrap.

@@ -13,5 +13,3 @@ reviewed: cb47dd506f633c7eb6daaff425ed548158b6a51ee8c27f8d7a78359ec095cf35
 source: xml
 outdated: false
 ---
-
-Gets static table entry points, or an empty array for dynamic-only bindings.

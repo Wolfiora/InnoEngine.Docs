@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a Play Mode controller around the runtime host, scene snapshot, scripting, and history boundaries.
-
 ## Parameters
 
 **Parameter `engineHost`:** The application host that owns every isolated Play Mode runtime session.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts the supplied value to `T:InnoEngine.Mathematics.Quaternion`.
-
 ## Parameters
 
 **Parameter `q`:** The q consumed by convert; ownership remains with the caller unless explicitly stated otherwise.

@@ -13,5 +13,3 @@ reviewed: 78909ac92bed2834b8430afcbb98a4316cf48c0ae27192a8bf7a130a027a6b99
 source: xml
 outdated: false
 ---
-
-Discards an unfinished candidate and releases its rebuildable staging storage.

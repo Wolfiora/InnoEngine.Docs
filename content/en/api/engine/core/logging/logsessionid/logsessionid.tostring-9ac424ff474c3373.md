@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns the stable textual representation used by diagnostics and persisted logs.
-
 ## Returns
 
 The lowercase hexadecimal identifier, or an empty string for process-level work.

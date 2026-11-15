@@ -13,5 +13,3 @@ reviewed: d0572eba707f440701b2f09c05421bdf66db84221153d24448ac61b1122171f3
 source: xml
 outdated: false
 ---
-
-The left ctrl key.

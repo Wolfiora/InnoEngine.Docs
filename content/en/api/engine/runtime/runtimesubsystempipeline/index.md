@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Owns the dependency-ordered runtime subsystem generation for one Host or Session scope.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Produces deterministic runtime and editor script artifacts from one authoring snapshot.

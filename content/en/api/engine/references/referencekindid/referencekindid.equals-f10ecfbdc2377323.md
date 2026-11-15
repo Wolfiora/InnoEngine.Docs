@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compares two identifiers using ordinal protocol identity.
-
 ## Parameters
 
 **Parameter `other`:** The identifier to compare with this value.

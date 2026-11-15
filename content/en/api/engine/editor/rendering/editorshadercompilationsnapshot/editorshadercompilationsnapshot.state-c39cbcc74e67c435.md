@@ -13,5 +13,3 @@ reviewed: ba5c7f8b5371c289ba322e3ba234392b83f573834bbce575832c4a549b8017dd
 source: xml
 outdated: false
 ---
-
-Latest requested semantic candidate state.

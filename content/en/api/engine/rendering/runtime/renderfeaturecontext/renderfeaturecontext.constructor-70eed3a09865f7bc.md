@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a feature build context.
-
 ## Parameters
 
 **Parameter `pipeline`:** Owning pipeline context.

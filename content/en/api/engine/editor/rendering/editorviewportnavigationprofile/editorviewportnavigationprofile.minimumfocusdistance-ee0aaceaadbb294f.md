@@ -13,5 +13,3 @@ reviewed: 4951c815e58f9610acb04bc7d3501dfb00437b224ed44d3c90eb0e450086f006
 source: xml
 outdated: false
 ---
-
-Gets or sets minimum orbit or framing distance.

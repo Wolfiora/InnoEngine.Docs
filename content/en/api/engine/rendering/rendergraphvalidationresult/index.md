@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Describes graph validity and scheduling counts without creating resources or executable callbacks.

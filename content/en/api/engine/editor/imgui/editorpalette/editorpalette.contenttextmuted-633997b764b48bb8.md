@@ -13,5 +13,3 @@ reviewed: 1e0af4d19aee90c42ad2077266e32255d414dc28100078b9cdb371fcefd3b874
 source: xml
 outdated: false
 ---
-
-Gets the muted content text color.

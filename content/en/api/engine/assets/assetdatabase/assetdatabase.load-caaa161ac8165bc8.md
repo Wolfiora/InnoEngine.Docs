@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads the canonical asset at one catalog path.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required runtime asset contract.

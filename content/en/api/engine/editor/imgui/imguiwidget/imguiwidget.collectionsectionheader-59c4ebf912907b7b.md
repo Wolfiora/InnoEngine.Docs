@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a square collection-section band whose background, separator, and padding are shared with hierarchy and Inspector presentation.
-
 ## Parameters
 
 **Parameter `title`:** Literal section title.

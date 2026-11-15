@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Draws persistent wrapped explanatory text before the annotated Inspector property.

@@ -13,5 +13,3 @@ reviewed: 59be9fc79b4a246c8ddefbbcf61c77c09b1b53955caf938d6f902b2a009df7bb
 source: xml
 outdated: false
 ---
-
-Gets the explicit ordered host content visible to this viewport.

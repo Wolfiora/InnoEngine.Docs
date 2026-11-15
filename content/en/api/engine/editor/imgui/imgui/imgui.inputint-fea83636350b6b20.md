@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws and edits an integer value.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

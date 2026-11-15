@@ -13,5 +13,3 @@ reviewed: 3849e695db39923b47e3c26096e5bfeb98a84e75d5c60ce37e0d04f1631c20ec
 source: xml
 outdated: false
 ---
-
-Identifies the \_6 presentation key or modifier.

@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Describes one Editor presentation for a strongly typed runtime project setting.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attaches a base layer below all overlays.
-
 ## Parameters
 
 **Parameter `layer`:** The layer to attach.

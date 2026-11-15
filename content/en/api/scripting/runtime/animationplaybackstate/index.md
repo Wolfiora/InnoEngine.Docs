@@ -18,5 +18,3 @@ contracts:
 - project.inno-animation#target-and-service-contract
 aliases: []
 ---
-
-Describes the observable lifecycle of one animation playback.

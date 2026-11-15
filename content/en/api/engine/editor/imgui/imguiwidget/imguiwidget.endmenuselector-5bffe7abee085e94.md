@@ -13,5 +13,3 @@ reviewed: dbe57bb6fcbfe9e8c05bb779f998bd2199374904c5ad16a2b528b52cca996d81
 source: xml
 outdated: false
 ---
-
-Ends a selector popup opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuSelector(System.String,System.String,System.Single,System.Single)`.

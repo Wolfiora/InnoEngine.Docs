@@ -13,5 +13,3 @@ reviewed: d3a43eb2a3ac252a46f0ddf6c1e2e15a50062e7fdd891b1450ea2674abf1a80e
 source: xml
 outdated: false
 ---
-
-Retires providers through the shared generation lifecycle.

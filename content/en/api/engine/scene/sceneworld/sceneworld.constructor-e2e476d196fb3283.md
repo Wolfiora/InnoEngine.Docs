@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an empty scene world bound to one session identity allocator.
-
 ## Parameters
 
 **Parameter `identities`:** The allocator that owns identities for scenes and their elements.

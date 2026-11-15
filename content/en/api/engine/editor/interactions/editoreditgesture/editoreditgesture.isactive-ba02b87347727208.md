@@ -13,5 +13,3 @@ reviewed: 312574c0cf6e2a162684f3adb6da83242c5a9dad8f73e2019058d9321493e7c9
 source: xml
 outdated: false
 ---
-
-Gets whether this gesture still owns an active transaction, including a rejected completion.

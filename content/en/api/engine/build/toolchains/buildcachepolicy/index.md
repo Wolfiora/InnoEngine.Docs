@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Defines bounded retirement pressure without allowing active or current generations to be removed.

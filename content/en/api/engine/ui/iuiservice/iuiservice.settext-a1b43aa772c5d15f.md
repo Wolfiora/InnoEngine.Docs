@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces an element's children with plain Unicode text.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

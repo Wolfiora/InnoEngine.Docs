@@ -13,5 +13,3 @@ reviewed: e705343ef250a9f2b9b3afa8a5f8a2e386e251e52e0a711f21f492e0a942d530
 source: xml
 outdated: false
 ---
-
-Gets indexing or cleanup diagnostics which do not undo the successful selection. An empty collection means all post-commit work completed.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Requests a bounded zoom without changing metrics partway through an owned native frame.
-
 ## Parameters
 
 **Parameter `value`:** The requested UI zoom multiplier.

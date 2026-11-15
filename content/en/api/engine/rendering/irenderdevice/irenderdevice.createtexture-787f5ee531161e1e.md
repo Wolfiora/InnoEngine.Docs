@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent sampled texture from a validated portable container.
-
 ## Parameters
 
 **Parameter `container`:** Portable texture container kind.

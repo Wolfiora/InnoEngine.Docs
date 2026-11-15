@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-audio
 aliases: []
 ---
-
-Owns Editor audio devices, previews, diagnostics, and isolated Play Mode audio generations.

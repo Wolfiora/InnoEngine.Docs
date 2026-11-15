@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Borrows an object property's type and assignment callback for one synchronous drop request.
-
 ## Remarks
 
 Recreate this target for each presentation request. Its type and callback must not be retained across frames or extension generations, or included in History or persistent state.

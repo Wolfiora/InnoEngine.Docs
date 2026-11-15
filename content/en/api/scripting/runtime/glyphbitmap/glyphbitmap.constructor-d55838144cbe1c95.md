@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated immutable glyph bitmap.
-
 ## Parameters
 
 **Parameter `width`:** The bitmap width in pixels.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates the same current-generation presentation attributes used by drawing without creating any UI state.
-
 ## Parameters
 
 **Parameter `owner`:** The current object declaring the property's conditional metadata.

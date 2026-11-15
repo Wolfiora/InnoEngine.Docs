@@ -13,5 +13,3 @@ reviewed: 9482ba312a8555666f77ff0e6948ceedc9992b1d496ec83a5d9e7c1737f2e961
 source: xml
 outdated: false
 ---
-
-The super key.

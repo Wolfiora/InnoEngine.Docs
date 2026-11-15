@@ -13,5 +13,3 @@ reviewed: 44fdebc7c81f4ba9904785b563bde3c26140356824ccd8a171d0ab57d7752bd4
 source: xml
 outdated: false
 ---
-
-Creates an independent typed region builder and value identity scope.

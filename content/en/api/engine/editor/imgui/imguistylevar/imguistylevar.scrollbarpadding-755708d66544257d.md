@@ -13,5 +13,3 @@ reviewed: 4d46c43ca7ec3a7f86601406998314a6e5ea5754d085fbc47326f720fb64bbe1
 source: xml
 outdated: false
 ---
-
-Selects the scrollbar padding presentation behavior.

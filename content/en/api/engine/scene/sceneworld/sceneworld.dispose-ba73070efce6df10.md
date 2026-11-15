@@ -13,5 +13,3 @@ reviewed: 9ddcbb27085a4ce8fcb7ae93a1d42971522d8cafbd92775fa52b4acb81463fa2
 source: xml
 outdated: false
 ---
-
-Unloads every scene and permanently releases this world.

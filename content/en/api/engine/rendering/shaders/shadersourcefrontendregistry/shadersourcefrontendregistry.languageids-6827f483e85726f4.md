@@ -13,5 +13,3 @@ reviewed: 80fc956e828feb55621bc913d0c5a0903394c8ffac6a20b6777accc430c823ae
 source: xml
 outdated: false
 ---
-
-Gets immutable language identities available in the current generation.

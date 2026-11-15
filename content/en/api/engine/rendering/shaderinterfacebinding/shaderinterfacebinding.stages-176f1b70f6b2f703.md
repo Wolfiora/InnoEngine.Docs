@@ -13,5 +13,3 @@ reviewed: f9069b95d07195ba00b349ef03f478e62fc7745e659e183a9d4e14411dc69790
 source: xml
 outdated: false
 ---
-
-Gets stages that consume the binding.

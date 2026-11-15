@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the last visited isolated directory for a navigation root.
-
 ## Parameters
 
 **Parameter `targetRoot`:** The root whose independent navigation position is requested.

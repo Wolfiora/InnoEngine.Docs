@@ -13,5 +13,3 @@ reviewed: fd0db2898f7e1ee2f7e694bfe3736cfde1dbb5c15aa2047ad7b3944f1cbf4b6d
 source: xml
 outdated: false
 ---
-
-Completes every frame job and closes the current frame scheduling scope.

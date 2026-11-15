@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds one explicitly selected published dependency while preserving the recipe's frozen execution tools.
-
 ## Parameters
 
 **Parameter `input`:** The dependency file whose bytes participate in compilation.

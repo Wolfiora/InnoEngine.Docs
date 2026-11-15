@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a parent-viewport tooltip using the same padding, colors, border, and spacing as editor menus.
-
 ## Returns
 
 `true` when tooltip content should be submitted; otherwise, `false`.

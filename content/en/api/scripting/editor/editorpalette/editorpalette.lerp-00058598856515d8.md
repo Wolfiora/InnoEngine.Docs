@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Linearly interpolates two palette colors using a clamped amount.
-
 ## Parameters
 
 **Parameter `from`:** The color returned when `amount` is zero.

@@ -13,5 +13,3 @@ reviewed: 9f79b0d433fdcca3e5b64ea71f7a7ff043700427f8a07cba1bcf7bb655337b4c
 source: xml
 outdated: false
 ---
-
-Gets an optional factory transferring one host log sink to the Editor lifetime.

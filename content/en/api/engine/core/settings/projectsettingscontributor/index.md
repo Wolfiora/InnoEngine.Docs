@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Describes one dependency-ordered provider of default setting values.

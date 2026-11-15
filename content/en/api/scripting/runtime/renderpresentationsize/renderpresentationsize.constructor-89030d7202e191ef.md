@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a positive presentation extent.
-
 ## Parameters
 
 **Parameter `width`:** Positive physical-pixel width.

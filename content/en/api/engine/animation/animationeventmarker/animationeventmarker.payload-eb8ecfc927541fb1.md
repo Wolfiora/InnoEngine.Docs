@@ -13,5 +13,3 @@ reviewed: 3e4b9ca6e7515a0d4e0b2413e712e7ce3caf639f2411d5c29e9fee12aa1fbee2
 source: xml
 outdated: false
 ---
-
-Gets or sets opaque reload-safe event payload bytes.

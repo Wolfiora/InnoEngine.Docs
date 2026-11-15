@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the inverse of the exact local-to-world matrix.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when a zero-scale hierarchy is not invertible.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores an attached component to the defaults defined by its optional Reset message.
-
 ## Parameters
 
 **Parameter `component`:** GameComponent instance to reset.

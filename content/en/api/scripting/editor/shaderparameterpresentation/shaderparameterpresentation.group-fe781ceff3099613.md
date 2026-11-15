@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the Material Inspector section; empty uses the standard Parameters section.

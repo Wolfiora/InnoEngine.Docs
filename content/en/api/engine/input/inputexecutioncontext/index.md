@@ -16,5 +16,3 @@ contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []
 ---
-
-Binds one input service to the current asynchronous execution context.

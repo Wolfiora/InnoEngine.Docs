@@ -13,5 +13,3 @@ reviewed: ba673943648e726f3fa5828713dae1a2d8dd3f3791d6122c7643a7648e509684
 source: xml
 outdated: false
 ---
-
-Indicates that the input lost focus and its valid value should be committed before closing.

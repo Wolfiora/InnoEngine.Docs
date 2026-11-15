@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Reports read-only statistics for the most recently completed render frame.

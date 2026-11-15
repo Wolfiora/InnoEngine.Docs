@@ -13,5 +13,3 @@ reviewed: 3ce85c532d34e4caf676a2cefe42d8b65866dc912f228541b18bc64b00646f5a
 source: xml
 outdated: false
 ---
-
-The right shift key.

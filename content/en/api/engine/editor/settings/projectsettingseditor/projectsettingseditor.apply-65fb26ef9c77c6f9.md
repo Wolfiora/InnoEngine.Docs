@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically applies project-authored overrides and records one stable history entry.
-
 ## Parameters
 
 **Parameter `values`:** Staged exact-type values keyed by stable setting identity.

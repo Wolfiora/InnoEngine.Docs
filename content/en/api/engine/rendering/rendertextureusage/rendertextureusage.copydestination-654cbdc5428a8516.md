@@ -13,5 +13,3 @@ reviewed: 5a415501fa61fa5ac0b1a74abb6b320c4c3e0c807c5fb7d4a49b566789b02216
 source: xml
 outdated: false
 ---
-
-Copy operation destination.

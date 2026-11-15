@@ -13,5 +13,3 @@ reviewed: 14f8dc7f3eee710de71878c51e13f832ef93445f72e58cff059f4b70ac60a261
 source: xml
 outdated: false
 ---
-
-Selects the text presentation behavior.

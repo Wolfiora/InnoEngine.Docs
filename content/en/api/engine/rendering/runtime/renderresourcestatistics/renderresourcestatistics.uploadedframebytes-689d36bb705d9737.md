@@ -13,5 +13,3 @@ reviewed: fbb41fe129ad0debd5fd4b51393604c7298e99e00a973b2e5fbb231f467fc526
 source: xml
 outdated: false
 ---
-
-Gets successfully uploaded bytes during the current frame.

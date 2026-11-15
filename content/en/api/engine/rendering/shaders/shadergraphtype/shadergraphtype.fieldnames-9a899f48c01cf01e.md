@@ -13,5 +13,3 @@ reviewed: dacb839b4e1152992e358b168d916467eb3a5ac0cefed28d7f14795d56771bbb
 source: xml
 outdated: false
 ---
-
-Gets or sets ordered structure member names.

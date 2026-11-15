@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one strongly typed asset residency lease.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Concrete canonical asset type.

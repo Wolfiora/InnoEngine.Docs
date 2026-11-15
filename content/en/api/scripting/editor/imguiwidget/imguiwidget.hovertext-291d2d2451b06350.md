@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a text link with no button background and highlights it only through text presentation.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Captures and restores individual scene-object properties while preserving scene reference identities.
-
 ## Remarks
 
 Each operation borrows its owning Core identity domain and resolves current references within that scene. Property access does not enumerate unrelated scene objects. Complete graph and prefab operations keep their explicit frozen local-identity boundaries. Asset references retain the supplied resolver context.

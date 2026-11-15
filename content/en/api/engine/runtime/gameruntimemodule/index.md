@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Describes one dependency-ordered managed module in a frozen Player generation.

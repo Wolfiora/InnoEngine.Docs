@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the entire index with the operation's pinned converter generation.
-
 ## Parameters
 
 **Parameter `index`:** The validated immutable inventory.

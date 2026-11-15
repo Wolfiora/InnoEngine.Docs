@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Defines non-dockable modal editor content.

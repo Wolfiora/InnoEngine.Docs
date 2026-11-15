@@ -13,5 +13,3 @@ reviewed: 7b1ec8733a29c6ec5db903404c9ba72c950e221497104449dd1391489c3b4ce0
 source: xml
 outdated: false
 ---
-
-Provides non-failing build context.

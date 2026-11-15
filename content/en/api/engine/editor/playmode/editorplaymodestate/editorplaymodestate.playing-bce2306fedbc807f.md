@@ -13,5 +13,3 @@ reviewed: 70bdb4bb8966efb6a7fa86342d0334c78c6c191227b82d722b979f5c07fdb168
 source: xml
 outdated: false
 ---
-
-Isolated runtime scenes are receiving the game update lifecycle.

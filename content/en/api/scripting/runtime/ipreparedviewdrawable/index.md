@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Encodes a resource-ready draw into the owning model's scene pass.

@@ -13,5 +13,3 @@ reviewed: c387eaef60583e076b2c7adde211565881355500e8bf9d2dc6a71d2b1865cb7e
 source: xml
 outdated: false
 ---
-
-Gets buttons pressed this frame.

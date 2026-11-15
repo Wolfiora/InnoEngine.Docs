@@ -13,5 +13,3 @@ reviewed: b4ff21e6df97633f8f0b06e04a13fe7252f55652f9a09e015e05dfb8f13b7398
 source: xml
 outdated: false
 ---
-
-Gets selected stable node identities.

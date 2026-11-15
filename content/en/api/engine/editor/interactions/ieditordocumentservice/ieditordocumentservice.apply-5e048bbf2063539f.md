@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies staged changes through the current provider.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable tab identity.

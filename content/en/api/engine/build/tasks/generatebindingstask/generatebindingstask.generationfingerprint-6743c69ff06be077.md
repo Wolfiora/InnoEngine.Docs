@@ -13,5 +13,3 @@ reviewed: cfde417b4ea108c99cc0e0b7cb57e759c233bd35cbc9297426666bad6d68f364
 source: xml
 outdated: false
 ---
-
-Gets the complete validated input identity.

@@ -13,5 +13,3 @@ reviewed: 2aa8ea1b850a5dbdc8f99930ebc2fca14a98eecc71dc9007b1fa0be8e7b86639
 source: xml
 outdated: false
 ---
-
-Gets or sets the source-local path.

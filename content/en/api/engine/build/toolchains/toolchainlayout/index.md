@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Defines stable repository-relative names shared by native dependency toolchains.

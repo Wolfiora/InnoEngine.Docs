@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a compute pipeline descriptor.
-
 ## Parameters
 
 **Parameter `computeShader`:** Target backend compute shader binary.

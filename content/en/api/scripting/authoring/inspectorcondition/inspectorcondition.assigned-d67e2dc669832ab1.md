@@ -14,5 +14,3 @@ apiScope: Authoring
 source: xml
 outdated: false
 ---
-
-Requires a reference-like value to expose an assigned resource.

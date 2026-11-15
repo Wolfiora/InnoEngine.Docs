@@ -13,5 +13,3 @@ reviewed: 0db8f6591e71a29ff8e271a984b5a696944f693aff2593e44dd4dddac589d92d
 source: xml
 outdated: false
 ---
-
-Gets the canonical result type.

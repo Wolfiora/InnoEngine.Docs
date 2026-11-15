@@ -13,5 +13,3 @@ reviewed: 9c687e41e8af5aa7637a68c540b02698639debb3a3a70abf1160c023bea7ce81
 source: xml
 outdated: false
 ---
-
-Gets the related persistent object identity, or null for a non-object issue.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the slash-delimited authoring catalog path used to group this library in creation UIs.

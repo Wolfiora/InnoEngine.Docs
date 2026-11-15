@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether an Edit scene contains unsaved serialized changes.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to inspect.

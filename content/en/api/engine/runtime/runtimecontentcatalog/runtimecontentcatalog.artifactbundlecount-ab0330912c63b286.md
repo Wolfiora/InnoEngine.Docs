@@ -13,5 +13,3 @@ reviewed: 60e64354c955c3c34a2059f9c673072f50fa08856c308e4099c819582545500e
 source: xml
 outdated: false
 ---
-
-Gets or sets the number of content-addressed artifact bundles in the pack.

@@ -13,5 +13,3 @@ reviewed: b85977ddfb0583da7092291fc4da63502a8a33bbb0ac87ce2b1aa2e9c245d794
 source: xml
 outdated: false
 ---
-
-Gets the host input source shared by isolated session readers.

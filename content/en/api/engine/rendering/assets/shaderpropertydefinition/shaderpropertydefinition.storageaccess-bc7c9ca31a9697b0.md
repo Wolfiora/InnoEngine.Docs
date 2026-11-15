@@ -13,5 +13,3 @@ reviewed: 002d7738c98d2fc4cf187b4f98434f4bebd81177c025a8c30175e0a099bf18bd
 source: xml
 outdated: false
 ---
-
-Gets or sets required access for storage texture or buffer bindings.

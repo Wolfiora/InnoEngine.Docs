@@ -13,5 +13,3 @@ reviewed: 26c47bcba3d0b91ac0658f117e9f8fa18dc4d9b2eb192550bdedc93a30f9a19c
 source: xml
 outdated: false
 ---
-
-Gets the current target member type.

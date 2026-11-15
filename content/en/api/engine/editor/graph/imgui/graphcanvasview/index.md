@@ -16,7 +16,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Projects and presents an arbitrary graph viewport without owning document mutations or domain semantics.
-
-Draws and hit-tests neutral graph nodes using the frame's frozen viewport projection.

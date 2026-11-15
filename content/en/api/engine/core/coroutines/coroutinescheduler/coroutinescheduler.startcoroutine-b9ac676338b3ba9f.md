@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a coroutine.
-
 ## Parameters
 
 **Parameter `routine`:** Enumerator exclusively transferred to the scheduler after successful admission.

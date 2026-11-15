@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders
 aliases: []
 ---
-
-Identifies a shader document and selected nodes without retaining a graph, extension object or delegate.

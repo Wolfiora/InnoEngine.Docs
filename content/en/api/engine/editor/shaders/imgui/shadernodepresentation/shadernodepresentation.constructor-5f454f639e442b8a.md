@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates presentation metadata for one Shader node definition.
-
 ## Parameters
 
 **Parameter `displayName`:** Optional artist-facing node name.

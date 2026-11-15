@@ -13,5 +13,3 @@ reviewed: 71bd4c123b952c9cd381f943017bd21e28a10841c85c456364018389b4341563
 source: xml
 outdated: false
 ---
-
-The most recent compilation succeeded, its generation is active, and retired generations passed GC verification.

@@ -13,5 +13,3 @@ reviewed: df568425a5fdec62ded035f5f7eb2d9eced34838865a07a1014286e9655d15aa
 source: xml
 outdated: false
 ---
-
-Gets the optional bounded verification frame count.

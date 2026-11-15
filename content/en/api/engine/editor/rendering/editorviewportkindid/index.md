@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Identifies one open Editor viewport purpose without prescribing rendering semantics.

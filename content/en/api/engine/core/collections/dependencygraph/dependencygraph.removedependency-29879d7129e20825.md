@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a dependency edge.
-
 ## Parameters
 
 **Parameter `node`:** The dependent node.

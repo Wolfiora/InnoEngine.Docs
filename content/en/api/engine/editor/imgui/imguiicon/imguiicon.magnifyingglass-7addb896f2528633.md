@@ -13,5 +13,3 @@ reviewed: b85e5c24474a4be64c2a08be651ffef9847c7617a89fbb6211c4d15fa13c96cf
 source: xml
 outdated: false
 ---
-
-Gets the magnifying glass glyph used by standard Editor controls.

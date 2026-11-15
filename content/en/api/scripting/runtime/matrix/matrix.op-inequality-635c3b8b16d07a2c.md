@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests matrices for inequality.
-
 ## Parameters
 
 **Parameter `a`:** First matrix.

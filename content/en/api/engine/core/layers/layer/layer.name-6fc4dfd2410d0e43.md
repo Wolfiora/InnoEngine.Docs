@@ -13,5 +13,3 @@ reviewed: fa8d07b176d2cfabb333ac576b0af2710a55bc24a191081e3bdcb9f3bcee8659
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic name of this layer.

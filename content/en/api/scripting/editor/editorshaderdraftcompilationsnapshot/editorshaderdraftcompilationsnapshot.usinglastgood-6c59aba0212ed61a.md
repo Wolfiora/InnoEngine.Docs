@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Whether the preview artifact belongs to an earlier successful draft.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits transient icons and lines for the presented scenes.
-
 ## Parameters
 
 **Parameter `context`:** The current Scene viewport request.

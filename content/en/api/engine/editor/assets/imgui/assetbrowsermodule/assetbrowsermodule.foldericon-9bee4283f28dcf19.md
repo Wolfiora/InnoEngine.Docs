@@ -13,5 +13,3 @@ reviewed: b479fa755432a4b7d1c0a932ef8cf6b0af4093ba1ab0a2284b1b0d4ba478a438
 source: xml
 outdated: false
 ---
-
-Gets the configured folder glyph used by asset navigation.

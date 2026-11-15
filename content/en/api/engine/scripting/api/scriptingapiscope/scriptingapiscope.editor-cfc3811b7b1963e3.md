@@ -13,5 +13,3 @@ reviewed: 1dcdf51d723039d83fc618512da4171fd7c03663a2f3051a8a61424903ac86a4
 source: xml
 outdated: false
 ---
-
-Exposes the API only to editor scripts.

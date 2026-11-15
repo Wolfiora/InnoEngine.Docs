@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Cancels transient presentation state without applying or undoing document changes.

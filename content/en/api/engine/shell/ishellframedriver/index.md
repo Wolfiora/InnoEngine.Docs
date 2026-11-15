@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Gives a host ownership of frame scheduling while the shell owns frame execution and retirement.

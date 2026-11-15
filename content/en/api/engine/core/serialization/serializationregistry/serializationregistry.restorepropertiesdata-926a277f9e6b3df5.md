@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores one or more independently encoded persistent properties from neutral bytes.
-
 ## Parameters
 
 **Parameter `target`:** The existing object receiving the captured values.

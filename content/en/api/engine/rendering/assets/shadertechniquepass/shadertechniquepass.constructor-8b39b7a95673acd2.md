@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a technique pass mapping.
-
 ## Parameters
 
 **Parameter `role`:** Open role defined by the technique contract.

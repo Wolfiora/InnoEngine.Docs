@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Contains one immutable viewport pointer sample in screen and world coordinates.

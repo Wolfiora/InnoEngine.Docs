@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Describes verified staging output produced by one managed deployment compiler.

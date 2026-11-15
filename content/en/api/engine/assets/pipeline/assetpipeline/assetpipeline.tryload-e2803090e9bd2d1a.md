@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to load a canonical asset by isolated source path.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required asset type.

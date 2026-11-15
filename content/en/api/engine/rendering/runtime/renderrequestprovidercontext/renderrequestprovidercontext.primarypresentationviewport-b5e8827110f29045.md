@@ -13,5 +13,3 @@ reviewed: f388b31373d6b2a4d0ad3d956d5b655d11e6a692a60f1dd9976843216a565ad0
 source: xml
 outdated: false
 ---
-
-Gets the host-selected primary region, or null while no primary output is available.

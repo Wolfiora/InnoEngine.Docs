@@ -13,5 +13,3 @@ reviewed: 35a8ffa7d54ff34bc391001b43925915210907d3a82bd68d3e12c9cf3f3d2e11
 source: xml
 outdated: false
 ---
-
-Gets elapsed frame time.

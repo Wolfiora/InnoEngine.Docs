@@ -13,5 +13,3 @@ reviewed: d3b414418edcd9d021d7397f59e07a224e45ad52ff36f56190dcf702fdbbef10
 source: xml
 outdated: false
 ---
-
-Identifies a stage output node; its incoming edges name the stage's GPU outputs.

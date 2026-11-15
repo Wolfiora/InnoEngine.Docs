@@ -13,5 +13,3 @@ reviewed: 8b6d6aa3c823c4dadc7b953b4ec584a692a2e4b504f0f45f7a20ee38ab8ac4c0
 source: xml
 outdated: false
 ---
-
-Gets pointer movement accumulated during this frame.

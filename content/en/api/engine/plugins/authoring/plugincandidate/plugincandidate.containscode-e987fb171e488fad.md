@@ -13,5 +13,3 @@ reviewed: bc8235463cc25d40cabc8bb5a8e59e0e3c56d3faf887d7750da6ca39ce604df6
 source: xml
 outdated: false
 ---
-
-Gets whether source code exists in this Plugin.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a two-column property row with a stable internal identifier.
-
 ## Parameters
 
 **Parameter `id`:** Stable row identifier.

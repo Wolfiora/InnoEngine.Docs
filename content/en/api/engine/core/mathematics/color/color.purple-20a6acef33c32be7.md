@@ -13,5 +13,3 @@ reviewed: 80b12cd2f12305fc980ced4f5ad880f0570ee844dbb8199246f442723f99ee0c
 source: xml
 outdated: false
 ---
-
-The purple value used as part of this type's public representation.

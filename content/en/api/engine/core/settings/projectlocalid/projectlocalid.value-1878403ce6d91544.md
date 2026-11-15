@@ -13,5 +13,3 @@ reviewed: 4d306c9e34adef9b97d4bfc147db02547344b07f807eced36aef8f1913eb4283
 source: xml
 outdated: false
 ---
-
-Gets the canonical local identity text.

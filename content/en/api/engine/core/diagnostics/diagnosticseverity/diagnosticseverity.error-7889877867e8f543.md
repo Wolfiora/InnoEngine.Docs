@@ -13,5 +13,3 @@ reviewed: 71ccf27bb443c118f40fd7d4fda700e8cce3f8ef03c65b9c41f2a28cda58af3a
 source: xml
 outdated: false
 ---
-
-Describes an issue that prevents the associated operation from succeeding.

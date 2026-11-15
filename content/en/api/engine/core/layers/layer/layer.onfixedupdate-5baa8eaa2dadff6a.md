@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances fixed-step work for this layer.
-
 ## Parameters
 
 **Parameter `fixedDeltaTime`:** The fixed simulation interval in seconds.

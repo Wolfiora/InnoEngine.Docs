@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a progress bar whose overlay remains centered over the complete bar.
-
 ## Parameters
 
 **Parameter `fraction`:** The completed fraction rendered by the progress bar.

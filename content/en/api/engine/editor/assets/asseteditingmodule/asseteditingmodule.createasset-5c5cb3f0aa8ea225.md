@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and imports a source using a discovered template and records the committed change.
-
 ## Parameters
 
 **Parameter `directory`:** The source-relative writable destination directory.

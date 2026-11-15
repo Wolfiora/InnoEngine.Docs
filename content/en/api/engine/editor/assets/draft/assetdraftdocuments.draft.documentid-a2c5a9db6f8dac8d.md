@@ -13,5 +13,3 @@ reviewed: 85299d5062b5a78556b9a78446394f2a98a72d372c4dd7521aa170870fca8ec4
 source: xml
 outdated: false
 ---
-
-Gets the shared document identity used for Save/Revert and close confirmation.

@@ -13,5 +13,3 @@ reviewed: c4fac6595b0e914bc112c817b11e9558b1ae0476a94f0e29d4f31652604dd9b7
 source: xml
 outdated: false
 ---
-
-Gets the generation-qualified destination for this sample.

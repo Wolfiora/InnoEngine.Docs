@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Provides immutable timing state to one variable runtime frame.

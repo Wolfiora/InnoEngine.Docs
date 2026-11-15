@@ -13,5 +13,3 @@ reviewed: 079959c1af1b34677e8e332b9a303a7c869dd108ae2c3f926ca548c31d538c6a
 source: xml
 outdated: false
 ---
-
-Gets the clip duration derived from frame count and sample rate.

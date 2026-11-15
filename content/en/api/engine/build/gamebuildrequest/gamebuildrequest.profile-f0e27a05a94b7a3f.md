@@ -13,5 +13,3 @@ reviewed: 6c268fc41bb61431a0401bb9071dd119c6dcbf1e5cf54bef8f148bcb252466f1
 source: xml
 outdated: false
 ---
-
-Gets or initializes the reusable product profile.

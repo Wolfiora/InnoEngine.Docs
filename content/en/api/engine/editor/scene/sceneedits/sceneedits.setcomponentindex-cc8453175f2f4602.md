@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves an attached component and records only its two attachment indices.
-
 ## Parameters
 
 **Parameter `component`:** The attached component to move, including the mandatory Transform.

@@ -13,5 +13,3 @@ reviewed: bcab9f2807e03c4f155aa519c40dd2c94788cf771775e16394d754713a3f7a52
 source: xml
 outdated: false
 ---
-
-Gets the maximum resident frame-upload bytes, including retired pages.

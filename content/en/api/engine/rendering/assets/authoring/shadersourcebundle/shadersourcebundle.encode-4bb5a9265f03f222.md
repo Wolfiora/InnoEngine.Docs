@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures every exported function, implementation and include resolution from a successful source import.
-
 ## Parameters
 
 **Parameter `functions`:** Complete source analyses keyed by explicit exported function name.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-graph
 aliases: []
 ---
-
-Owns active neutral graph document sessions resolved by reload-safe Editor History.

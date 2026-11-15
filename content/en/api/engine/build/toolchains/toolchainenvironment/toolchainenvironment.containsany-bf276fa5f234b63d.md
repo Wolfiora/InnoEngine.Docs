@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a value contains at least one token without regard to casing.
-
 ## Parameters
 
 **Parameter `value`:** The value searched for candidate tokens.

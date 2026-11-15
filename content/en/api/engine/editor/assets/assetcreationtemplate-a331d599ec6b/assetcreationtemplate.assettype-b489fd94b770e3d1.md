@@ -13,5 +13,3 @@ reviewed: 1320173175d1959e3f6c02b2653fab0b579e1fbd5b17e682b70454f33723f245
 source: xml
 outdated: false
 ---
-
-Gets the asset type created by this Editor template.

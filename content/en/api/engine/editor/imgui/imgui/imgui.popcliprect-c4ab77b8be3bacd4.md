@@ -13,5 +13,3 @@ reviewed: 3735921b8a7efe05cc25f4681835f697d228cebdbe318d06cbb8ab0f1c44528c
 source: xml
 outdated: false
 ---
-
-Restores the enclosing control clip after a matching push.

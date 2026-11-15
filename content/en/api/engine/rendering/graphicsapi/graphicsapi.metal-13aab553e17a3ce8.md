@@ -13,5 +13,3 @@ reviewed: ef706a15318e4c195b94305adc69b02c8210ef7fd8b8d3e1e09352db9687882b
 source: xml
 outdated: false
 ---
-
-Apple Metal renderer.

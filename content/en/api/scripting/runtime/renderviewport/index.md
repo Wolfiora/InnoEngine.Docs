@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Defines a destination pixel rectangle without assuming producer or rendering semantics.

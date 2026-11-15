@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a uniform scale matrix.
-
 ## Returns
 
 A scale matrix.

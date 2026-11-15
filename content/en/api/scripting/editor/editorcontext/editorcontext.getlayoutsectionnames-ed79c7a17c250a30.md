@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets layout section names matching an ordinal prefix.
-
 ## Parameters
 
 **Parameter `prefix`:** The prefix to match, or an empty string for every section.

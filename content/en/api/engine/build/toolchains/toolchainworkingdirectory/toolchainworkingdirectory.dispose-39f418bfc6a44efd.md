@@ -13,5 +13,3 @@ reviewed: f9d5b2ce835642d5a23a3254d86baab2fd35beaaac3bc9d23757e0a06e75ef79
 source: xml
 outdated: false
 ---
-
-Releases provider resources after all dependent processes have stopped.

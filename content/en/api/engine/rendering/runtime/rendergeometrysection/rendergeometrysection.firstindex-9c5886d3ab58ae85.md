@@ -13,5 +13,3 @@ reviewed: 353bb830af4a8efc87bbc40066b45dad96de57dbf50e0e727fa547663f82aabf
 source: xml
 outdated: false
 ---
-
-Gets the first index in the shared index buffer.

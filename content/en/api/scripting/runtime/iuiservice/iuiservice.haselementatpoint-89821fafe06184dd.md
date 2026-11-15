@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a visible document element receives pointer events at a pixel location.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

@@ -13,5 +13,3 @@ reviewed: 11c0b83eb73a9c49a6dd3cb85d30368dbd6ddc7dd3d5a91987520892d0d7e25a
 source: xml
 outdated: false
 ---
-
-Reports a condition that prevented a valid build.

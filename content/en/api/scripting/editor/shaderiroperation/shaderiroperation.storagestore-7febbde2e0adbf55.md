@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Stores one typed buffer element or formatted image texel in memory-effect order.

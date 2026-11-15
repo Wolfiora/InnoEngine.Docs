@@ -13,5 +13,3 @@ reviewed: 30602af362a248a9d2d0d7c5cafc236aae46272bcdef47a8c23e7715f18f78dd
 source: xml
 outdated: false
 ---
-
-Gets standard frame rounding.

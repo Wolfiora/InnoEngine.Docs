@@ -13,5 +13,3 @@ reviewed: 179c3325f87a6926b47f34eeada2d4ea119685fca289b1d136441394045b546f
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a texture; an unassigned handle selects the renderer's white texture.

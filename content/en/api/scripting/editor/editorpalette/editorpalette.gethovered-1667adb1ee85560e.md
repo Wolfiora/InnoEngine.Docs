@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets a hover treatment derived from a base theme color.
-
 ## Returns
 
 The base color blended toward the palette text color using the standard hover amount.

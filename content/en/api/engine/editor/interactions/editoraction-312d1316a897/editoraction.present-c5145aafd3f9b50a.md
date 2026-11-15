@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Presents this action through the current editor interaction surface.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -13,5 +13,3 @@ reviewed: e2311fe5753e4c0d8f49ffc86c779ab0dba63aa3577d5347138e46578ba25f7f
 source: xml
 outdated: false
 ---
-
-Cancels ownership waits and unpublished copies without racing token retirement.

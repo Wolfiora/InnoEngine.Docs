@@ -13,5 +13,3 @@ reviewed: 0d012a4a0e0625b44dd6cd4c6075d39be5f06c0152dee8446b595fa5cf409667
 source: xml
 outdated: false
 ---
-
-Gets the playback that crossed the marker.

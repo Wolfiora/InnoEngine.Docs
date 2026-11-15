@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes and validates a native payload without changing the file.
-
 ## Parameters
 
 **Parameter `data`:** The native payload.

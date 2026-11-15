@@ -13,5 +13,3 @@ reviewed: 76ccd84c196c8377e7601ab6c6223960970ba61a82bbaa9acfab0fc7e75529a1
 source: xml
 outdated: false
 ---
-
-Gets the current snapshot, refreshing it when the type catalog changed.

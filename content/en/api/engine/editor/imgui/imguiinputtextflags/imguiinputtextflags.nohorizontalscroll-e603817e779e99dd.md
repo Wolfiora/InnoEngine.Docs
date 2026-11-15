@@ -13,5 +13,3 @@ reviewed: f7c519c7ec09cc908a7a1b434983dd583fef3436b2c13af02c80b5d762911c82
 source: xml
 outdated: false
 ---
-
-Disable following the cursor horizontally

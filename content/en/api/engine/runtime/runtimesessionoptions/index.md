@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Defines storage, scheduling, and timing policy for one runtime session.

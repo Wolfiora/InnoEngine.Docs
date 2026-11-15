@@ -13,5 +13,3 @@ reviewed: 66a3d20072d4484a9d9c3b015000f0c22747d786677d678b89fde0e30d199a18
 source: xml
 outdated: false
 ---
-
-Gets whether a game export or its Support Pack preparation is active.

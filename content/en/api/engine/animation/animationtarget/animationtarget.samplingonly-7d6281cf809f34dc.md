@@ -13,5 +13,3 @@ reviewed: 0967843dce8003489378766178c5eb51f00c3d1e6c06ce1256bfc47660a889e2
 source: xml
 outdated: false
 ---
-
-Gets an explicit destination for sampling and markers without object binding.

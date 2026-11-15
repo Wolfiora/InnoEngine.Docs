@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats this transient identity for diagnostics.
-
 ## Returns
 
 A domain-qualified runtime identifier.

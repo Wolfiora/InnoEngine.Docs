@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Inlines the node graph into the caller before Target expansion and typed lowering.

@@ -13,5 +13,3 @@ reviewed: 9afcf4f3bde6367d4139f64cc5bc7d1a91d440922130beb8dfd0b64511049d39
 source: xml
 outdated: false
 ---
-
-Gets stable ordering and dependency metadata without creating runtime state.

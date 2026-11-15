@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Schedules one stateful job after all supplied dependencies complete.
-
 ## Parameters
 
 **Parameter `job`:** The operation receiving `state`.

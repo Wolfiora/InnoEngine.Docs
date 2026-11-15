@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Toggles one panel in the currently active extension generation.
-
 ## Parameters
 
 **Parameter `panelId`:** The stable panel identifier to resolve.

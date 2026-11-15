@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Pushes one two-component style override.
-
 ## Parameters
 
 **Parameter `style`:** The style variable.

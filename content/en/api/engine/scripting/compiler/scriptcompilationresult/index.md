@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Reports the outputs and diagnostics of one authoring-generation or runtime-deployment script compilation.

@@ -13,5 +13,3 @@ reviewed: a00ada488de69595a13df8e8f5bf6d62b6bbf9092cd8006e39afff9317129296
 source: xml
 outdated: false
 ---
-
-Gets the compute workgroup Y size.

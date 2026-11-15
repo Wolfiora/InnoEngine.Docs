@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Identifies one editor statistic across panels, modules, and reloadable extensions.

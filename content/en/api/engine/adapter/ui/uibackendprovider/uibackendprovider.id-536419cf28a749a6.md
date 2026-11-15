@@ -13,5 +13,3 @@ reviewed: 6108c7a9eb277c5207b6bdef99baf10c76635088e6ecbc6d74071813273f4e13
 source: xml
 outdated: false
 ---
-
-Gets this provider's stable implementation identity.

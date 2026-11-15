@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves a live voice cursor to a clip-relative position.
-
 ## Parameters
 
 **Parameter `voice`:** Voice handle to seek.

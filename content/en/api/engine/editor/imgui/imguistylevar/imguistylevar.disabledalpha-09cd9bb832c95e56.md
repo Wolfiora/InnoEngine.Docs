@@ -13,5 +13,3 @@ reviewed: 5bffc99f7dae9b112a176f1739c356712990260ae3284211a66f1775d8fafb69
 source: xml
 outdated: false
 ---
-
-Selects the disabled alpha presentation behavior.

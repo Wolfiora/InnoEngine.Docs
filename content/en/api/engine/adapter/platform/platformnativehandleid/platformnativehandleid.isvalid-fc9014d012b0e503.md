@@ -13,5 +13,3 @@ reviewed: 22beeaa91a12d36f06db57f704426de5fe7f9ae66bf8b911787a58e236dc2107
 source: xml
 outdated: false
 ---
-
-Gets whether a surface ABI was assigned.

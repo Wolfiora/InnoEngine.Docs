@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures host facts supplied by a product or command composition boundary.
-
 ## Parameters
 
 **Parameter `system`:** The execution operating system identity.

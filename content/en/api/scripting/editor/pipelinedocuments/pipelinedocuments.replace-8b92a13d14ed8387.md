@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Changes a draft through shared History without publishing it to Scene/Game.
-
 ## Parameters
 
 **Parameter `assetId`:** Open Pipeline identity.

@@ -13,5 +13,3 @@ reviewed: e04e39d684e54546c53c1c0b8c1a650422148aafaab7ffed8da2eee56476be50
 source: xml
 outdated: false
 ---
-
-Gets whether an explicit user reload request may be accepted in the current owner state.

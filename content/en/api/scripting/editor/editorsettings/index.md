@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Owns the discovered Settings catalog and the project-root Settings document.

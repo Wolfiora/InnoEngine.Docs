@@ -13,5 +13,3 @@ reviewed: 8b831d3a44e02769a49fe6503a8cbf6eb93ea5d1360aa021a4df72c5adb7f449
 source: xml
 outdated: false
 ---
-
-Pad with style.WindowPadding even if no border are drawn (no padding by default for non-bordered child windows because it makes more sense)

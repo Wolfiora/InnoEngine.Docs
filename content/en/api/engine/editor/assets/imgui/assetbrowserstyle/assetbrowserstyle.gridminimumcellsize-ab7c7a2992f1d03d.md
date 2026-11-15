@@ -13,5 +13,3 @@ reviewed: d407a3278f7c37c8cc48a5e316af15429feeb880a7233e3cb609b909ab281753
 source: xml
 outdated: false
 ---
-
-Gets minimum asset grid cell size.

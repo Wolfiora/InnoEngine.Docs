@@ -13,5 +13,3 @@ reviewed: 1c88c5b5c71233fc2e3ab773aa8c6090f210e1fbbc925950267abf47ad51f343
 source: xml
 outdated: false
 ---
-
-Ends the name prefix scope.

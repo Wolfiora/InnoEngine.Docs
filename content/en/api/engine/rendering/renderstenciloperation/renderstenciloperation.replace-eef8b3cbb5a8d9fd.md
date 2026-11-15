@@ -13,5 +13,3 @@ reviewed: 28ca154ddd07915c607a3012d3e331613c97c28d5452abad72e01009f4fb4ef9
 source: xml
 outdated: false
 ---
-
-Replaces the stored value with the reference.

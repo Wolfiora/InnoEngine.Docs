@@ -13,5 +13,3 @@ reviewed: 927e0ce45b5ace901951b1363e8d6c5e65bbb5e26ecd31fafff9fe1d06ed122d
 source: xml
 outdated: false
 ---
-
-Require mouse to be stationary for style.HoverStationaryDelay (~0.15 sec) \_at least one time\_. After this, can move on same item/window. Using the stationary test tends to reduces the need for a long delay.

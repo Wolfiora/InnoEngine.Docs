@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Describes the current availability of one target-specific rendering artifact.

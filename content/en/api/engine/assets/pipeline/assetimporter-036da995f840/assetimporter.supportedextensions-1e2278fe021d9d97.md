@@ -13,5 +13,3 @@ reviewed: 63cccd607b41c1f6a4e4a57f91cb6facb41e4e01c80e9f0dc696c22e16582df5
 source: xml
 outdated: false
 ---
-
-Gets the normalized source extensions accepted by this importer.

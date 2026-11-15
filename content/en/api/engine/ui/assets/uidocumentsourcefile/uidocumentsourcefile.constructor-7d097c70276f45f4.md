@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Contains immutable source text supplied to a UI language frontend.
-
 ## Parameters
 
 **Parameter `assetPath`:** Original asset mount path.

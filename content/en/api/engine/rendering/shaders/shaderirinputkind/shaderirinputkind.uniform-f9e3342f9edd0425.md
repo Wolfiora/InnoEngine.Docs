@@ -13,5 +13,3 @@ reviewed: e41571d71f6706aa2bd16efa8807d4fb17c3abc0b7b3fc34c263711f1c7a98ed
 source: xml
 outdated: false
 ---
-
-A material, frame or draw uniform identified by a stable binding identity.

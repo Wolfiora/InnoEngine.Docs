@@ -13,5 +13,3 @@ reviewed: e3f96709826cf71e2d8f3187301d751467e7ae176ae21fac21056612614afcf5
 source: xml
 outdated: false
 ---
-
-Identifies the \_0 presentation key or modifier.

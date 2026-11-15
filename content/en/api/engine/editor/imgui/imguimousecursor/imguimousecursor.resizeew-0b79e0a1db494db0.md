@@ -13,5 +13,3 @@ reviewed: fcd286e2e9d1f1ea66e48e7999b2a0724c6326a7c61056326357028f4771052d
 source: xml
 outdated: false
 ---
-
-Selects the resize ew presentation behavior.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the source-free runtime asset database configured for this session.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when this Edit or Play session was composed without a runtime content deployment.

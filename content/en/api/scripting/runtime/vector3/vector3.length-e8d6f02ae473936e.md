@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the Euclidean magnitude of this value.
-
 ## Returns
 
 The scalar result calculated from the supplied inputs.

@@ -13,5 +13,3 @@ reviewed: 341cc87ebf05f8b0655a08763ea3a458232fb8c069a19613004ee9fee80e382a
 source: xml
 outdated: false
 ---
-
-Disable persisting columns order, width, visibility and sort settings in the .ini file.

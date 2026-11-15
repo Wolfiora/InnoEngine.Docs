@@ -13,5 +13,3 @@ reviewed: 82ab4920c8a3b03cb698ef6879a5748b720e744a62df1558e64a086bcd2befeb
 source: xml
 outdated: false
 ---
-
-Gets the unique logging identity assigned to this session.

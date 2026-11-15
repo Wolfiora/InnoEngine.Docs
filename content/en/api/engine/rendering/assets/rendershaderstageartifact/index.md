@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Stores one immutable target shader stage without retaining authoring source or compiler state.

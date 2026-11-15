@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Persists project-owned export defaults independently from temporary export requests.

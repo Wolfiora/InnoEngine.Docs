@@ -13,5 +13,3 @@ reviewed: 42126d09ae4b854b8734039f9d21d923a8568d3970ad76233e7f2293a0d645f6
 source: xml
 outdated: false
 ---
-
-Identifies the M presentation key or modifier.

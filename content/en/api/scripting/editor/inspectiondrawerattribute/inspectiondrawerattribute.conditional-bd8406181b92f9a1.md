@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether CanInspect selects a subset of targets, allowing peer conditional registrations at the same priority.

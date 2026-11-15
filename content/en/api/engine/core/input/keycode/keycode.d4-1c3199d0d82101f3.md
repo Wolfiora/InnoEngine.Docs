@@ -13,5 +13,3 @@ reviewed: 687ec9fae4396d84ca3029551b91566fbc53718f69aea96dc6d3ff96c66cc1bd
 source: xml
 outdated: false
 ---
-
-The 4 key on the primary keyboard row.

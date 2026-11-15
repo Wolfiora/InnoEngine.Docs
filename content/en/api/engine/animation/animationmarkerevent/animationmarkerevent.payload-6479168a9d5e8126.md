@@ -13,5 +13,3 @@ reviewed: 8fe1faa975e9d0029334d50d497acaba1be8954898047978dd64766324167ff7
 source: xml
 outdated: false
 ---
-
-Gets an immutable copy of the marker payload.

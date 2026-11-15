@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Return true immediately (default). As this is the default you generally ignore this.

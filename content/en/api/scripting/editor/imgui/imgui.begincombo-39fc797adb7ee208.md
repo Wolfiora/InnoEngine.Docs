@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a combo popup.
-
 ## Parameters
 
 **Parameter `label`:** The control label.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two layer slots may interact.
-
 ## Parameters
 
 **Parameter `first`:** The first layer.

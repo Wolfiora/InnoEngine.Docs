@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reverses lifecycle work performed while activating a candidate snapshot.
-
 ## Parameters
 
 **Parameter `previous`:** The restored active snapshot, or `null` when none existed.

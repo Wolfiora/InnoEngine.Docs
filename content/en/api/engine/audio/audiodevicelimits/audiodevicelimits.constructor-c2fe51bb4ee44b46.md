@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates immutable positive capacities for one backend generation.
-
 ## Parameters
 
 **Parameter `clips`:** Maximum simultaneously retained clip descriptors and native sources.

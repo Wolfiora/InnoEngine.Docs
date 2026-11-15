@@ -13,5 +13,3 @@ reviewed: 7ee941269a87dd884cc3a93646a441baca4d9a3a28af49fb8e43ce78def8e48b
 source: xml
 outdated: false
 ---
-
-Gets or sets the current operation identity already propagated through the project graph.

@@ -13,5 +13,3 @@ reviewed: be4e614197b096280d6bb5f6cdf8bc7e92a22323514d8bcf6ea42dcb8cfc03ab
 source: xml
 outdated: false
 ---
-
-Gets the SHA-256 of all encoded bytes, including the index.

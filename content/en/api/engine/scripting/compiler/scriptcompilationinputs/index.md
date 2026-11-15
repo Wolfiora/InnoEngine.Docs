@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Describes framework references and predefined symbols selected by the authoring host's SDK.

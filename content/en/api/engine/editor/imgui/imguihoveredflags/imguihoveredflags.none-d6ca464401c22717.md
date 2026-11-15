@@ -13,5 +13,3 @@ reviewed: c20f0e7028aead465d39dfdbaa2bf08f1d87a4a61c57c5089f07fe9a7d838df5
 source: xml
 outdated: false
 ---
-
-Return true if directly over the item/window, not obstructed by another window, not obstructed by an active popup or modal blocking inputs under them.

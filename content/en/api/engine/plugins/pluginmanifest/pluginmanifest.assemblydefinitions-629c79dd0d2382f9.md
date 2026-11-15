@@ -13,5 +13,3 @@ reviewed: 3049ace28cc1d2c77ce766c6c4054f12b0547b42228986aa532a172b023af5cc
 source: xml
 outdated: false
 ---
-
-Gets or sets source-local assembly definition entries.

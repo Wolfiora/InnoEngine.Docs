@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the presentation icon for one inspected target.
-
 ## Parameters
 
 **Parameter `target`:** The target whose icon should be resolved.

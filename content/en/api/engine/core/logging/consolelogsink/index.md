@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Writes log entries to the process console, using level-based colors when a terminal is available.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates build-processor discovery metadata.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable build processor identifier.

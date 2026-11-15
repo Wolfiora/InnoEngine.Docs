@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Describes ports for the current neutral properties and resolved source/target inputs.
-
 ## Parameters
 
 **Parameter `context`:** Invocation-scoped node properties and frozen source/target data.

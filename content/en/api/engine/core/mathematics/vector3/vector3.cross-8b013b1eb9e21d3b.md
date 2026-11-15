@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the vector perpendicular to both supplied vectors.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

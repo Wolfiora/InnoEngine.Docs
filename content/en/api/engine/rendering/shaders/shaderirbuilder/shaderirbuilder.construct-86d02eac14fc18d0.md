@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Constructs a complete vector, column-major matrix, structure or fixed array from typed members.
-
 ## Parameters
 
 **Parameter `type`:** The complete aggregate type.

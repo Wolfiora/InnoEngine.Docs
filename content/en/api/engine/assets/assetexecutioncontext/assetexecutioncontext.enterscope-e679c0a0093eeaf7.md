@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds an asset lookup until the returned strict last-in-first-out scope is disposed.
-
 ## Parameters
 
 **Parameter `assets`:** The host-owned lookup to expose to script-facing asset operations.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Owns one graphics backend generation and its frame submission boundary.

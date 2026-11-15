@@ -13,5 +13,3 @@ reviewed: 5b57bca5b4cbf255696797aa033823125067da708d615c71689bca627840fde8
 source: xml
 outdated: false
 ---
-
-Gets the decoded index budget.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Shares generation-scoped node presentation between graph and Inspector hosts.

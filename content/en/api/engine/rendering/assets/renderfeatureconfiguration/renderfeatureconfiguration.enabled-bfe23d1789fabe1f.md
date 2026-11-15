@@ -13,5 +13,3 @@ reviewed: 58b729f8bb1ae5caf68694b46814a1e2adcfae8aab82f62e89593b9bbab43f2f
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the feature participates in graph building.

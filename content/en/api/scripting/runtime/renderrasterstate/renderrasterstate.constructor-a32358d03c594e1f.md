@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete immutable raster configuration without relying on init-only setters.
-
 ## Parameters
 
 **Parameter `cull`:** Face culling mode.

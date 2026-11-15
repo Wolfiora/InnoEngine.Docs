@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the identity assigned by the composition owner.
-
 ## Parameters
 
 **Parameter `id`:** The assigned implementation identity.

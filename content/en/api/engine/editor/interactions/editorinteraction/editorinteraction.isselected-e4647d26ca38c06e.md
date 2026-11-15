@@ -13,5 +13,3 @@ reviewed: c2387d88fc32a76dd9fee8eb5c8419a56b9b520f827a3dae168bf45d403f1670
 source: xml
 outdated: false
 ---
-
-Gets whether this handle's target is the current editor selection.

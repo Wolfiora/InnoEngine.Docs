@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one asset creation menu declaration.
-
 ## Parameters
 
 **Parameter `id`:** Globally stable template identifier.

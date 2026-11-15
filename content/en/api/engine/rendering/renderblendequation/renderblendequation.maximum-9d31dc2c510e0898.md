@@ -13,5 +13,3 @@ reviewed: 0432c1f6300230e3a49a0964be9b46afd4e696f8bb51470f6c789e706d381fb6
 source: xml
 outdated: false
 ---
-
-Selects the component-wise maximum.

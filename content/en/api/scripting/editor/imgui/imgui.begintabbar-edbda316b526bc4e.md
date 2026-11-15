@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a tab bar.
-
 ## Parameters
 
 **Parameter `id`:** The tab bar identity.

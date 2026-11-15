@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Decodes a graph value against the current owner generation.
-
 ## Type parameters
 
 **Type parameter `T`:** Expected native serializable type.

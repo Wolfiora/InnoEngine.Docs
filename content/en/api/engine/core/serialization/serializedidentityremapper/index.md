@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Rewrites selected scalar identities in a serialized value and its nested serialized payloads.

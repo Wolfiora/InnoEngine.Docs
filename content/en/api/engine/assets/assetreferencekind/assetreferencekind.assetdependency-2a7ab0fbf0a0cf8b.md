@@ -13,5 +13,3 @@ reviewed: dadf938dcf1190f5191fad4338f811197112ec5cedf01fb9078c1b45caf4fbdb
 source: xml
 outdated: false
 ---
-
-The reference originates from another asset's runtime dependencies.

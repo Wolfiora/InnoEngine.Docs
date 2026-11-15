@@ -13,5 +13,3 @@ reviewed: e146314119894338639f8fe877ea5ef91b96dd92cf0f055bdd5ff208397bea7d
 source: xml
 outdated: false
 ---
-
-Gets the active editor context.

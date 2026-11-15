@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the target-expanded runtime interface from the same frozen candidate as its computations.
-
 ## Parameters
 
 **Parameter `bytes`:** Immutable captured authoring artifact.

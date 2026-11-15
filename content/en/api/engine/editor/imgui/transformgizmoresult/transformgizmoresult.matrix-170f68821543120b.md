@@ -13,5 +13,3 @@ reviewed: dfb7369f646f9a0ea1152808d7265b281d33aaee8e7629423c090cb09c929277
 source: xml
 outdated: false
 ---
-
-The resulting world matrix.

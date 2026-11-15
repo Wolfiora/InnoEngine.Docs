@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Detaches an overlay from this stack.
-
 ## Parameters
 
 **Parameter `overlay`:** The overlay to detach.

@@ -13,5 +13,3 @@ reviewed: 6c28137599a9942e2e6c5d1b1b885469887b6a64e950fd7872cf19dcc80a4b48
 source: xml
 outdated: false
 ---
-
-The slot has no assigned target.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Stores decoded text content and its language hint.

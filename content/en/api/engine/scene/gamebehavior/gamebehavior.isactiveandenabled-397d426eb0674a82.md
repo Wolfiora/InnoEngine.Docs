@@ -13,5 +13,3 @@ reviewed: 5bc9a55d26caa37e5da8f2196606bafa234dc49ae489bbd387c8c9370cc1702b
 source: xml
 outdated: false
 ---
-
-Gets whether this component is enabled and active in its owning hierarchy.

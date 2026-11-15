@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers one source-language type replacement for subsequent structured asset rewriting.
-
 ## Parameters
 
 **Parameter `oldId`:** The type identity stored in installed sample assets.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent buffer descriptor.
-
 ## Parameters
 
 **Parameter `buffer`:** Capacity and usage.

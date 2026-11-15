@@ -13,5 +13,3 @@ reviewed: 7e6ec2b2615ae1d903e809ff2ce58f9b36f894e54fa05b2dcf31353d5292aa9f
 source: xml
 outdated: false
 ---
-
-The lowercase SHA-256 content identity.

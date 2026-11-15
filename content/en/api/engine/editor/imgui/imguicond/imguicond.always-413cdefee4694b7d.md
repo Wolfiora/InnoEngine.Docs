@@ -13,5 +13,3 @@ reviewed: acff700db6234d1fb37a0842e1484518ae7d8f398be54eff895901b7ab6558a8
 source: xml
 outdated: false
 ---
-
-No condition (always set the variable), same as \_None

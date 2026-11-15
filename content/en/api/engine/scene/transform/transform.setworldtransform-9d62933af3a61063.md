@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically applies world-space translation, rotation, and scale.
-
 ## Parameters
 
 **Parameter `position`:** Requested world-space translation.

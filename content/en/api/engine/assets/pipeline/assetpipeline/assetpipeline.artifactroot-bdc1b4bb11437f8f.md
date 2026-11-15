@@ -13,5 +13,3 @@ reviewed: 52dee0595b3059dbb6461f6ed6528c787a30a7350413c8f25f0d099317864261
 source: xml
 outdated: false
 ---
-
-Gets the absolute generated artifact root.

@@ -13,5 +13,3 @@ reviewed: fa567db553882c7a69a4f30ab83dd273913f15937af402b2049f60a15eb325c3
 source: xml
 outdated: false
 ---
-
-Gets the quiet period applied to source changes before a compilation starts, in milliseconds.

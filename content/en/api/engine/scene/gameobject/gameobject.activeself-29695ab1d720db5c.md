@@ -13,5 +13,3 @@ reviewed: e5bdcd7476f0c2831ba34d74be96d934fdbc145a15cf54af1e62273e8ced4495
 source: xml
 outdated: false
 ---
-
-Gets whether this object is explicitly active.

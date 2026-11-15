@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Contains detached graph source state, not a compiled or live runtime asset.

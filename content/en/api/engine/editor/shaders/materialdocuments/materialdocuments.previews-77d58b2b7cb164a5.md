@@ -13,5 +13,3 @@ reviewed: b866ba1664240182396d66e314012684d7f63dc428828e9847cd66f42e80529e
 source: xml
 outdated: false
 ---
-
-Gets the generation-scoped preview service shared by material presentations.

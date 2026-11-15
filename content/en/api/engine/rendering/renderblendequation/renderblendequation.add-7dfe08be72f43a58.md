@@ -13,5 +13,3 @@ reviewed: 22dee175358c555caebaffe2a754832d22dd75aae0b697c3fa1a9599a7687b60
 source: xml
 outdated: false
 ---
-
-Adds source and destination terms.

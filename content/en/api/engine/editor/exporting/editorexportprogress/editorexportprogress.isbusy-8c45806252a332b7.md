@@ -13,5 +13,3 @@ reviewed: 29f2d24c4660beb9f85973845b436901abd504e2bbb8b4cb9013f2bff0d28c21
 source: xml
 outdated: false
 ---
-
-Whether work still owns resources.

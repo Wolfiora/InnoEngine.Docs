@@ -13,5 +13,3 @@ reviewed: ee4848d7c12a55949b24e3d7990108fcba2e1d1872da6c4d588d6efd5aa1af68
 source: xml
 outdated: false
 ---
-
-Gets the ascending frame scheduling priority.

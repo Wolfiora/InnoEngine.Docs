@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits for all readers before allowing mutation of one immutable artifact directory.
-
 ## Parameters
 
 **Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.

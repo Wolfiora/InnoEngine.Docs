@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deletes one explicitly resolved toolchain output directory when it exists.
-
 ## Parameters
 
 **Parameter `path`:** The exact directory selected by a toolchain command.

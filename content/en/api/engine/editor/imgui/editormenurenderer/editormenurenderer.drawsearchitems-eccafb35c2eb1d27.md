@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws matching leaf commands as a flat searchable list.
-
 ## Parameters
 
 **Parameter `interaction`:** The interaction used to enqueue selected actions.

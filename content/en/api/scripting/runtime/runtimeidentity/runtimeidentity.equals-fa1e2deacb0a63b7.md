@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an object addresses the same live identity slot.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this value.

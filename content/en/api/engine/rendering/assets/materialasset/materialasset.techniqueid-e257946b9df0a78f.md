@@ -13,5 +13,3 @@ reviewed: 1a6c56f961e74648c057de33c0f9623efad0c41c66f2bda512714bd8b4da392f
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional explicitly selected technique.

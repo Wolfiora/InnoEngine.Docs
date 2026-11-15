@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Declares backend-neutral fixed-function state for one shader pass.

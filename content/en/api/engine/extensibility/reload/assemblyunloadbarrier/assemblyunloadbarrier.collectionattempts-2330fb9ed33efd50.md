@@ -13,5 +13,3 @@ reviewed: bcd3d738b6c40465982198d523b036775f928772ce6d4d338399f66d84d69494
 source: xml
 outdated: false
 ---
-
-Gets the number of full collection cycles performed by this barrier.

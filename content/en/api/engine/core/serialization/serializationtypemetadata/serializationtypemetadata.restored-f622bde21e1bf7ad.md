@@ -13,5 +13,3 @@ reviewed: 327ce103b36d958f90be72ee8afaa9266871f495cff4c8fbe6d2298181ced3b0
 source: xml
 outdated: false
 ---
-
-Gets the generation-owned restoration callback, or null when no hooks are declared.

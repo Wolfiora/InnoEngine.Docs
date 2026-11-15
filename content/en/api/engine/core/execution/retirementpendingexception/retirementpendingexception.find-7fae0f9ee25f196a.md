@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds unfinished retirement in an exception tree without discarding its contextual or sibling failures.
-
 ## Parameters
 
 **Parameter `exception`:** The exception to classify, including aggregate and ordinary inner-exception wrappers.

@@ -13,5 +13,3 @@ reviewed: 4583af26a257c16a4155c7dbc3121c90fb9fe392eeeda853940b241c360ddc41
 source: xml
 outdated: false
 ---
-
-Unregisters this presentation and releases its neutral de-duplication snapshot.

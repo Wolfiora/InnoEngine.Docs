@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a horizontally centered button with optional space above it.
-
 ## Parameters
 
 **Parameter `label`:** Visible label and optional ImGui identifier suffix.

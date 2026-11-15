@@ -13,5 +13,3 @@ reviewed: ffbfda87a3019e3249b9a414f174ad64eea8c8b485474aa57dbc533d9912bb8d
 source: xml
 outdated: false
 ---
-
-The F7 function key.

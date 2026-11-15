@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Qualifies a local project name beneath this project namespace.
-
 ## Parameters
 
 **Parameter `name`:** The portable local name.

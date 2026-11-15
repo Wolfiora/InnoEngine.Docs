@@ -13,5 +13,3 @@ reviewed: b8a2a419fc41aa683ac4bdb1e725bb05210098b29f836a226165a80d81e71068
 source: xml
 outdated: false
 ---
-
-Executes jobs deterministically on the session owner thread.

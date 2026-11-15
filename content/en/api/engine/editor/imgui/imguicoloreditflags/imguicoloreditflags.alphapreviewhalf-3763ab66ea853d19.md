@@ -13,5 +13,3 @@ reviewed: a4a467d5c64fe2343d9856f9fc7bd0bb3007eb05a9f9ca5752c8b65328850c8f
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: display half opaque / half transparent preview.

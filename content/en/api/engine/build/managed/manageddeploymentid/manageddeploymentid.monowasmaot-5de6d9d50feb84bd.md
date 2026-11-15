@@ -13,5 +13,3 @@ reviewed: 10ff87fab3318add07064d8b3afa6928e645e648a28148d7a947a07d72677c1d
 source: xml
 outdated: false
 ---
-
-Identifies the Mono WebAssembly ahead-of-time publisher.

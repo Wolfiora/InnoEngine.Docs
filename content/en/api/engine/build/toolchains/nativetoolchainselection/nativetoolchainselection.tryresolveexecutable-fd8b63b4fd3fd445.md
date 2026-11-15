@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks an optional tool capability without discovering a command from the process environment.
-
 ## Parameters
 
 **Parameter `name`:** The declared tool identity to check.

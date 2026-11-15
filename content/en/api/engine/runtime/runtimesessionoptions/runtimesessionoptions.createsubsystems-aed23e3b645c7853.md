@@ -13,5 +13,3 @@ reviewed: eb28a354390ad4fb2f6ec15d0b97f431e4f764149fafaaed5c1dee472b1fb4cb
 source: xml
 outdated: false
 ---
-
-Gets or initializes the backend-neutral subsystem factories composed into each session.

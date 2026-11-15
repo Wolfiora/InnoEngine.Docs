@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader compilation target.
-
 ## Parameters
 
 **Parameter `profileKey`:** Backend compiler-owned stable profile key.

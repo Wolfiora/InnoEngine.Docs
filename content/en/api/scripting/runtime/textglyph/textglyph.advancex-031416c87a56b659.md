@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The horizontal pen advance in logical pixels, including backend-applied letter spacing.

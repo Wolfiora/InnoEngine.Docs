@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds a validated result from the current immutable input snapshot.
-
 ## Parameters
 
 **Parameter `types`:** The active type catalog generation used for extension resolution.

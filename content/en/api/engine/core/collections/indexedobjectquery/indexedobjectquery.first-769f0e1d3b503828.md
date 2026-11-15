@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes the query and returns the first matching item or null.
-
 ## Returns
 
 The first matching item or null.

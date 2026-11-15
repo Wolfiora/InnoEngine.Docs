@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Assigns exactly one rendering model and its world-content sources to an output layer.

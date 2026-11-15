@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a clickable icon inside the same square interaction slot used by editor close controls. The icon has no resting background and changes only its glyph color while hovered or active.
-
 ## Parameters
 
 **Parameter `id`:** Stable identifier used by ImGui to track the interaction.

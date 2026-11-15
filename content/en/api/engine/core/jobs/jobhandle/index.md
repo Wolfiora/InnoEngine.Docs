@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---
-
-Opaque handle representing a scheduled job.

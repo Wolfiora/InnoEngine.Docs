@@ -13,5 +13,3 @@ reviewed: 15ace3bf4fc1786f96aa46f541ba52fee549e74af9149b52ad919e616ef5ad9c
 source: xml
 outdated: false
 ---
-
-The source is unavailable while its persistent identity is retained.

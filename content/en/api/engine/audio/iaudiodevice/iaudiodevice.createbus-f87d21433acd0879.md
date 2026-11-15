@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one bus routed to a parent bus.
-
 ## Parameters
 
 **Parameter `id`:** Stable semantic bus identifier.

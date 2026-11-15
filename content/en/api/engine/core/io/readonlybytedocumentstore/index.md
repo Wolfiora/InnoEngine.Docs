@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Owns an immutable document snapshot that cannot be replaced through its read boundary.

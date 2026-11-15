@@ -13,5 +13,3 @@ reviewed: fd0b3322ab06b1f3e4974475be1803df44f6e1357aace34246229ca85f6c0794
 source: xml
 outdated: false
 ---
-
-Gets the standard delay duration parameter in milliseconds.

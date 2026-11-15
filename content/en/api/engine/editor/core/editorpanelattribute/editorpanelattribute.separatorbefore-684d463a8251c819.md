@@ -13,5 +13,3 @@ reviewed: bb02275cb258a6ace59d9388799f68be7185e35418ecc98a427a6ab101753e97
 source: xml
 outdated: false
 ---
-
-Gets whether the generated panel toggle begins a new visual group.

@@ -13,5 +13,3 @@ reviewed: b010f763011c2ed2178b2de10dcfcd008dfc1f983d3935dbb55250b9aa1c7993
 source: xml
 outdated: false
 ---
-
-Show an outer border and enable WindowPadding. (IMPORTANT: this is always == 1 == true for legacy reason)

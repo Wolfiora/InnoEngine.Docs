@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets indexed source entries.
-
 ## Parameters
 
 **Parameter `includeDirectories`:** Whether directories should be included.

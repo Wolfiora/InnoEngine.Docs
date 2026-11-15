@@ -13,5 +13,3 @@ reviewed: a10e6c6b6dbb8b70a583d28623466ef2e35e2df0b189751b472215f4d991ef05
 source: xml
 outdated: false
 ---
-
-Releases the selected Pack after every reader and tool has finished; repeated disposal has no effect.

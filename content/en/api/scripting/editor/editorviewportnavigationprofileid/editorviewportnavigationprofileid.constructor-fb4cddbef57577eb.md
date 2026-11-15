@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable profile identifier.
-
 ## Parameters
 
 **Parameter `value`:** Globally stable profile identity.

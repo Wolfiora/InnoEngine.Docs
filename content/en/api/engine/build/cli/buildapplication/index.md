@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-cli#product-preparation-and-ownership
 aliases: []
 ---
-
-Executes explicit engine and project build commands for a caller-owned development lifetime.

@@ -13,5 +13,3 @@ reviewed: 9deca8e0c701340fae90c744fde49a2cdc482220c579d02c06e1ba29093f3d37
 source: xml
 outdated: false
 ---
-
-The N letter key.

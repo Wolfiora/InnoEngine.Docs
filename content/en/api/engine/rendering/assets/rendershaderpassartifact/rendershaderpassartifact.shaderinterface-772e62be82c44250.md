@@ -13,5 +13,3 @@ reviewed: 78b8461f67fa43c62c4863f3b066a36697c82f025af31394f94b71fabbf40308
 source: xml
 outdated: false
 ---
-
-Gets the validated pass-local resource binding contract.

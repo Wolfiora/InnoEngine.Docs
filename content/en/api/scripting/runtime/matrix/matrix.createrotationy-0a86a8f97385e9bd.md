@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rotation matrix around the Y axis (radians).
-
 ## Parameters
 
 **Parameter `radians`:** Rotation angle in radians.

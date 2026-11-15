@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Reports one voice terminal transition on the owning runtime's main-thread event dispatcher.

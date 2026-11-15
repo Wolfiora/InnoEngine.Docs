@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Stores a graph-space position independently from any editor UI framework.

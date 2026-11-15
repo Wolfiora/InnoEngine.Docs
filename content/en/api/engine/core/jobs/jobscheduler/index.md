@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---
-
-Owns one isolated frame-scoped job scheduler and hides its concrete execution strategy.

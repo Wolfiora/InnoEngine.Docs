@@ -13,5 +13,3 @@ reviewed: 63fc7e5fa96d2c57c273c55ce60dc1584281c5b9acdcbd32cccc98c8a0f0d5f3
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum number of source entries.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a query condition from a predicate delegate.
-
 ## Parameters
 
 **Parameter `predicate`:** The predicate to wrap.

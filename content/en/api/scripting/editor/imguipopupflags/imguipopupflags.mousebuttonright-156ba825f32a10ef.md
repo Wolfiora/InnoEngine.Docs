@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For BeginPopupContext\*(): open on Right Mouse release. Only one button allowed! (default)

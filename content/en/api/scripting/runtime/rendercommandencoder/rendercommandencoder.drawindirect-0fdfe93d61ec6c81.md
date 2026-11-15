@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits draws described by consecutive commands in an indirect buffer.
-
 ## Parameters
 
 **Parameter `buffer`:** Frame-scoped buffer owned by the current graph generation.

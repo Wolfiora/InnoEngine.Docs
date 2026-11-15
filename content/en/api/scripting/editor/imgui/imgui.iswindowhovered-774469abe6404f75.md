@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks window hover under the declared interaction policy.
-
 ## Parameters
 
 **Parameter `flags`:** The explicit control and interaction options.

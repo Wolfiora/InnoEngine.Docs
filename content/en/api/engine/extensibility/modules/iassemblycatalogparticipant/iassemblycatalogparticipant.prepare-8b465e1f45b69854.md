@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a candidate catalog and prepares state without publishing it.
-
 ## Parameters
 
 **Parameter `catalog`:** The complete candidate assembly catalog.

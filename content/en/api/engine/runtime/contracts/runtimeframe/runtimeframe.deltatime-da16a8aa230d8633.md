@@ -13,5 +13,3 @@ reviewed: 5210aebe65f5226d3128245f15460fb44faf725f4a48252522083b5e168ba743
 source: xml
 outdated: false
 ---
-
-Gets the scaled variable frame interval in seconds.

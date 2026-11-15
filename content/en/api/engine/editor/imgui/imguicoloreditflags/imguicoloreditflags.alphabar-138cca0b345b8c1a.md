@@ -13,5 +13,3 @@ reviewed: 0f0f6dc65f25e85fc35a7ee3c081e77f0a732edd4980008d5929bf76591be44e
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: show vertical alpha bar/gradient in picker.

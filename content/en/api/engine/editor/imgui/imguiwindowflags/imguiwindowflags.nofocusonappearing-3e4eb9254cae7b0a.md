@@ -13,5 +13,3 @@ reviewed: 777c36d69af2bb773db39ff957e7e9bbe75c2d207a6a0f7f014c4b7b68d9ca6a
 source: xml
 outdated: false
 ---
-
-Disable taking focus when transitioning from hidden to visible state

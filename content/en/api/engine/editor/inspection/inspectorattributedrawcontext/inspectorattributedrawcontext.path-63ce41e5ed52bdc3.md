@@ -13,5 +13,3 @@ reviewed: 76b52a49a61b372ffa9c37ddb4e83d31d3986e2a868a3039894aaf701405107e
 source: xml
 outdated: false
 ---
-
-Gets the stable Inspector control path.

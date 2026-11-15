@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Ends a context menu opened by `M:InnoEditor.ImGui.ImGuiWidget.BeginContextMenu(System.String)` or `M:InnoEditor.ImGui.ImGuiWidget.BeginWindowContextMenu(System.String)`.

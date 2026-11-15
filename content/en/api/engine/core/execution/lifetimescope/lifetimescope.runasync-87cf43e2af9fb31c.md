@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically admits and tracks asynchronous work under this owner's cancellation boundary.
-
 ## Type parameters
 
 **Type parameter `TResult`:** The operation result type.

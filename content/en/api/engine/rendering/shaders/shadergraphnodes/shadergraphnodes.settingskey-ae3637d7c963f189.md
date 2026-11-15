@@ -13,5 +13,3 @@ reviewed: 0a5229cd4edd494b2ccd03df64b7d05d7ecef9bf4a72df7b17ee783d2d64df9d
 source: xml
 outdated: false
 ---
-
-Identifies graph-level reusable-node metadata, independent of either interface direction.

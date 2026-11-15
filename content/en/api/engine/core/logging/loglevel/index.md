@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Represents log severity levels in ascending order.

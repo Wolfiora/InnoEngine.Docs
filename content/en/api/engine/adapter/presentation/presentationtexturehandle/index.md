@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Identifies a renderer-owned texture through an opaque host-presentation token.

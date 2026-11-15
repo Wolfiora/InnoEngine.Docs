@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Applies one root serialized-property mutation through the history mechanism owned by a feature.

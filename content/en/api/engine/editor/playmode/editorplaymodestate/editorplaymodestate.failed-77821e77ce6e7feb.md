@@ -13,5 +13,3 @@ reviewed: 3c85750d39cca0c2ed0fb50d5c8cb93150e6e0a3a59383ba70add9f470924417
 source: xml
 outdated: false
 ---
-
-The most recent transition failed and its diagnostic remains available for inspection.

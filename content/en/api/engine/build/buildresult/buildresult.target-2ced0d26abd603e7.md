@@ -13,5 +13,3 @@ reviewed: 1ca2d03ac02993d88ccc617547db1f298b474999143592ea9d92aba5d9f9e11e
 source: xml
 outdated: false
 ---
-
-Gets the game target, or `null` for a Plugin package.

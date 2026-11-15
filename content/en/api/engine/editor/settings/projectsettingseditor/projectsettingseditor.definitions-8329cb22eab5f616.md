@@ -13,5 +13,3 @@ reviewed: 8a72cb70d42adde1731bda9e0ab694228f1e6856027171eb5cdbd0906f1bda3d
 source: xml
 outdated: false
 ---
-
-Gets all active strongly typed project setting presentations.

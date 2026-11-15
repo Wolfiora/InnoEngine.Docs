@@ -13,5 +13,3 @@ reviewed: 1fe3c5fc7952db61c500d55dcddb357db9e6ee68839e9b44e001dfc11171fd7e
 source: xml
 outdated: false
 ---
-
-Clamp even if min==max==0.0f. Otherwise due to legacy reason DragXXX functions don't clamp with those values. When your clamping limits are dynamic you almost always want to use it.

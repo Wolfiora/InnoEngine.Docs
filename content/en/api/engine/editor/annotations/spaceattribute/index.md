@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---
-
-Inserts vertical spacing before the annotated Inspector property.

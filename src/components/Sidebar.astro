@@ -18,7 +18,8 @@ import { navigation } from '../../scripts/site-navigation.mjs';
 <div class="md:sl-hidden"><MobileMenuFooter /></div>
 <script src="../scripts/sidebar.ts"></script>
 <style is:global>
-  .sidebar-pane { overflow-anchor: none; }
+  .sidebar-pane { overflow-anchor: none; --nav-edge-gap: .5rem; }
+  .sidebar-pane .sidebar-content { padding-inline-end: var(--nav-edge-gap); }
   inno-sidebar {
     display: block;
     --nav-motion: 220ms;
@@ -27,7 +28,7 @@ import { navigation } from '../../scripts/site-navigation.mjs';
     li { margin-block: .18rem; overflow-wrap: anywhere; }
     .root > li { margin-block: .3rem; }
     .children-inner > ul { margin-inline-start: .85rem; border-inline-start: 1px solid var(--sl-color-hairline-light); }
-    .nav-row { display: flex; align-items: stretch; min-height: 2.35rem; border-radius: .25rem; color: var(--sl-color-gray-2); transition: background-color 120ms ease; }
+    .nav-row { margin-inline-start: var(--nav-edge-gap); display: flex; align-items: stretch; min-height: 2.35rem; border-radius: .25rem; color: var(--sl-color-gray-2); transition: background-color 120ms ease; }
     .nav-row:hover { background: color-mix(in srgb, var(--sl-color-gray-2) 9%, transparent); }
     .nav-row > a, .nav-label { min-width: 0; padding: .4rem .5rem .4rem 0; line-height: 1.45; }
     .nav-row > a { flex: 1; color: inherit; background: transparent; text-decoration: none; }
@@ -59,7 +60,7 @@ import { navigation } from '../../scripts/site-navigation.mjs';
   @media (min-width: 50rem) {
     :root[data-has-sidebar] { --sl-content-inline-start: min(var(--inno-sidebar-width, 18rem), 50vw); }
     .sidebar-pane { width: min(var(--inno-sidebar-width, 18rem), 50vw); overflow-x: clip; transition: width 220ms cubic-bezier(.2, .7, .3, 1); }
-    .sidebar-pane .sidebar-content { width: min(var(--inno-sidebar-width, 18rem), 50vw); box-sizing: border-box; }
+    .sidebar-pane .sidebar-content { width: calc(min(var(--inno-sidebar-width, 18rem), 50vw) - var(--inno-sidebar-gutter, 0px)); box-sizing: border-box; }
     .main-frame { transition: padding-inline-start 220ms cubic-bezier(.2, .7, .3, 1); }
     :root[data-sidebar-restoring] .sidebar-pane, :root[data-sidebar-restoring] .main-frame { transition: none; }
   }

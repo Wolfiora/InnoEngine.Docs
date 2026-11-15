@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes one stable connection.
-
 ## Parameters
 
 **Parameter `edgeId`:** Connection to remove.

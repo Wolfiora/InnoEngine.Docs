@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Enumerates exact file declarations for standalone or aggregate recipe fingerprinting.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The current checkout's absolute root.

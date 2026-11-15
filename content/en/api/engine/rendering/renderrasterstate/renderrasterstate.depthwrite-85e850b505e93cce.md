@@ -13,5 +13,3 @@ reviewed: f1ce0b9eeb63c724be9123896ada667c5ee284e5008845cb40b39fefaaefa128
 source: xml
 outdated: false
 ---
-
-Gets whether accepted fragments update depth.

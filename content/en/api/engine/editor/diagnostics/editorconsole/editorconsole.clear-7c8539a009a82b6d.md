@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes the current diagnostic report for one producer.
-
 ## Parameters
 
 **Parameter `source`:** The producer whose report should be removed.

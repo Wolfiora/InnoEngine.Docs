@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves serializable graph records independently of import or native compilation success.
-
 ## Parameters
 
 **Parameter `path`:** Exact destination within a writable active mount.

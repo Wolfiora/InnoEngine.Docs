@@ -13,5 +13,3 @@ reviewed: 5e2ec62855d8a21d62245cd541f7bdb87e88ad83ff0cc396aeed29c990682294
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Return true immediately (default). As this is the default you generally ignore this.

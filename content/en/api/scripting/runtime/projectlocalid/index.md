@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Stores the project-independent portion of one project-scoped identity.

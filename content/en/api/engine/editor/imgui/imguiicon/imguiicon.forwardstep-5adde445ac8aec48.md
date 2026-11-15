@@ -13,5 +13,3 @@ reviewed: 92f109ec3c034707c3d7e97de4bd9d60484eb16e0036acfa8d1481760af579ca
 source: xml
 outdated: false
 ---
-
-Gets the forward step glyph used by standard Editor controls.

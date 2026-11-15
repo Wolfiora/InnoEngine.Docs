@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports complete payload candidates without adopting them; each consumer's publisher must still verify its requested inputs.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The consumer checkout whose existing native publishers own the destination layout.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Invokes optional node controls within one generation lease.
-
 ## Parameters
 
 **Parameter `definitionId`:** Stable node definition identity.

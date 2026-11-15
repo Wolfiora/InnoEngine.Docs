@@ -13,5 +13,3 @@ reviewed: d64391d65c65444621cfa8787ef74ad4d1460ba3fecc807c7fc37a46e0429383
 source: xml
 outdated: false
 ---
-
-Gets the plus glyph used by standard Editor controls.

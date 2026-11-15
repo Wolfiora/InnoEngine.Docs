@@ -13,5 +13,3 @@ reviewed: 8f5bf94fd7bc863fdfb73a70a6eefa73907f80c0af244174bd0c0375664b38cc
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity assigned to the source asset.

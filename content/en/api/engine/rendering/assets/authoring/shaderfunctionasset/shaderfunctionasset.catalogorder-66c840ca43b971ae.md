@@ -13,5 +13,3 @@ reviewed: 062c6a8183e336a6bda1c31f06d1ecbe74ca3d1ceb3b3d70acb7f4dca916fb26
 source: xml
 outdated: false
 ---
-
-Gets the stable ordering value inside the authoring catalog.

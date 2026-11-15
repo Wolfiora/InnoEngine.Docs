@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Binds one host-owned asset lookup to the current asynchronous script execution context.
-
 ## Remarks
 
 This type is a composition boundary for Editor and Player hosts. Game code should use `T:Inno.Assets.Assets` instead of managing execution scopes directly.

@@ -13,5 +13,3 @@ reviewed: 81674eb50f7dec1705902848f9fed9575382df12d14a1c41d4145f6041dc0325
 source: xml
 outdated: false
 ---
-
-Gets whether the full row is hovered.

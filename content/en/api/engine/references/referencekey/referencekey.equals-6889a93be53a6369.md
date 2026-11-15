@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an object identifies the same owner slot.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this value.

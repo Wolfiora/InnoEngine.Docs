@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ends one frame and releases frame-scoped state.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable variable-frame state.

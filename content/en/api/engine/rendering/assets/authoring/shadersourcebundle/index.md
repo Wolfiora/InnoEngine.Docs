@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Persists only frozen function compilation inputs, never a parser, live asset, resolver or generated main function.

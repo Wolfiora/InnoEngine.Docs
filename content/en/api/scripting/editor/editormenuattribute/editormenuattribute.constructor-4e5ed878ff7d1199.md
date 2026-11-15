@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a static placement for the annotated action on an exact menu surface.
-
 ## Parameters
 
 **Parameter `area`:** The exact interaction area whose menu receives the action.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an indexed source entry exists.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

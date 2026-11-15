@@ -13,5 +13,3 @@ reviewed: a79d92e2136609a94e5b3558863ae12bece7ab28a23ef8f60f9a639082fb25be
 source: xml
 outdated: false
 ---
-
-Gets the horizontal glyph advance.

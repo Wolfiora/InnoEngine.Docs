@@ -13,5 +13,3 @@ reviewed: 33797a57f51c936f569e7999905281a97d58a8d5c2938acbc688dc7a07b375fe
 source: xml
 outdated: false
 ---
-
-The alt key.

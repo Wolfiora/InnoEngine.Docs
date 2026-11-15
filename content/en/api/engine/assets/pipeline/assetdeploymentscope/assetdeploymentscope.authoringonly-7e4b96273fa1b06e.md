@@ -13,5 +13,3 @@ reviewed: e1f793b6f4bd36a73d8d782743b8b0ceb0fd611317de0408c5415b02b13c4541
 source: xml
 outdated: false
 ---
-
-The asset exists only for authoring workflows and is omitted from deployed catalogs.

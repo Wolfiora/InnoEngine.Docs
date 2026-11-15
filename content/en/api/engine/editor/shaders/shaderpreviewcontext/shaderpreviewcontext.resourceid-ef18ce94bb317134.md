@@ -13,5 +13,3 @@ reviewed: 370c3782fe4ff91b30df622ab73be510adcbbf1169a25b91311f59980e268e43
 source: xml
 outdated: false
 ---
-
-Gets the publication scope released by the host when this preview closes.

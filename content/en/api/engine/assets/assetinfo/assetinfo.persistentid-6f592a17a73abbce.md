@@ -13,5 +13,3 @@ reviewed: 91f61645a7f1c59cae0201f6731e36df194bebe6d77e40d3a41dc906187dfb64
 source: xml
 outdated: false
 ---
-
-Gets the persistent asset identity.

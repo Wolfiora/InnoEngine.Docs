@@ -13,5 +13,3 @@ reviewed: f5c5946fcf14ea8ae43ee715f4af0e37392449f7976c9dd20465b6f97927b180
 source: xml
 outdated: false
 ---
-
-Gets the menu area.

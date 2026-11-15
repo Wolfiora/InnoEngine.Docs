@@ -13,5 +13,3 @@ reviewed: ebbccd5b4b557dad38b6837526cd99535e2d0cfb8e4b90a530c66a1e15ed51bb
 source: xml
 outdated: false
 ---
-
-Identifies the ReservedForModShift presentation key or modifier.

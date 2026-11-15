@@ -13,5 +13,3 @@ reviewed: 8903e6d7b3c68ab2a52243c5eca0605686ce80be3677bb910bb79eabae00d2cf
 source: xml
 outdated: false
 ---
-
-Gets the stable value type identifier.

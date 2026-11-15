@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable picker when clicking on color square.

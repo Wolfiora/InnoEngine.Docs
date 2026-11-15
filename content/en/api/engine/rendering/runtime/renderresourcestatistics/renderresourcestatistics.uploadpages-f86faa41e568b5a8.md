@@ -13,5 +13,3 @@ reviewed: eb5a00a6f3205453b22ab1d6c9b86464438b34dd3b3cd157298cadbd5d8b3066
 source: xml
 outdated: false
 ---
-
-Gets retained upload pages, including pages awaiting retirement.

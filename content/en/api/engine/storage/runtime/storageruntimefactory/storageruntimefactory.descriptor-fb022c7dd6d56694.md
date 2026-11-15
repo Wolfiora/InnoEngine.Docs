@@ -13,5 +13,3 @@ reviewed: 1db0612349c81118186fd782580afe51df5b28c57c58db14c73cbed3d66bcbe7
 source: xml
 outdated: false
 ---
-
-Gets stable ordering metadata for the frame-scoped storage service.

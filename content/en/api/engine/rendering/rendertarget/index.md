@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Selects one render destination without exposing a swapchain or framebuffer handle.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a path in the writable project source.
-
 ## Returns
 
 A project-owned asset path.

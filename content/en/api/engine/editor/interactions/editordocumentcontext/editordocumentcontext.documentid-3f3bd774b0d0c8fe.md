@@ -13,5 +13,3 @@ reviewed: 4a848afc7bfb11f28e75b085e87cb3aabff6db860d3489b2a5bf85b4786a3c5a
 source: xml
 outdated: false
 ---
-
-Gets the stable identity of this open source document.

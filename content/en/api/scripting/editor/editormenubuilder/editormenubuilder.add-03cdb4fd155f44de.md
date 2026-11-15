@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a dynamic action placement to the menu currently being constructed.
-
 ## Parameters
 
 **Parameter `path`:** The slash-delimited path used to create parent menus and the leaf label.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a non-interactive world-space line, normally for selected bounds.
-
 ## Parameters
 
 **Parameter `start`:** The first world-space endpoint.

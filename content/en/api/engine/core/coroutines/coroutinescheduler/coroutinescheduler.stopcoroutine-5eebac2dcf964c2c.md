@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Requests stopping a coroutine by handle.
-
 ## Parameters
 
 **Parameter `handle`:** Target coroutine handle.

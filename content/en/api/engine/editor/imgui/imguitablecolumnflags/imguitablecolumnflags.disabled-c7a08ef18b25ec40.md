@@ -13,5 +13,3 @@ reviewed: c554bb5609aeb7853f893cb56d0befefc1a57308a18ea96891475321276cc952
 source: xml
 outdated: false
 ---
-
-Overriding/master disable flag: hide column, won't show in context menu (unlike calling TableSetColumnEnabled() which manipulates the user accessible state)

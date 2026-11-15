@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances state that depends on completed simulation.
-
 ## Parameters
 
 **Parameter `frame`:** The frame timing snapshot.

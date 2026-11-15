@@ -13,5 +13,3 @@ reviewed: 67ae37abd2749b59b5a60b0c706faf3c465b013d876775c89b3988a520f7bed3
 source: xml
 outdated: false
 ---
-
-Identifies the R presentation key or modifier.

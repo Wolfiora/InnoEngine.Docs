@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-A sampled texture binding whose slot is assigned by target resource layout.

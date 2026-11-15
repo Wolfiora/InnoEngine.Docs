@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable target identity.
-
 ## Parameters
 
 **Parameter `value`:** A lowercase portable identifier composed of letters, numbers, and hyphens.

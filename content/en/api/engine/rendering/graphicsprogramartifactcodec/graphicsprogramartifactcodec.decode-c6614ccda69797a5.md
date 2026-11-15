@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a complete device program artifact before constructing an owned pipeline descriptor.
-
 ## Parameters
 
 **Parameter `bytes`:** The complete current artifact, including its strict magic header.

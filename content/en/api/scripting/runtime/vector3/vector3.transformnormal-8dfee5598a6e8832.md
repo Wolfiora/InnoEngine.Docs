@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies the matrix's upper-left 3-by-3 linear transform without translation.
-
 ## Parameters
 
 **Parameter `normal`:** The surface normal used by the operation.

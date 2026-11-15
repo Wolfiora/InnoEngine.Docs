@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a named RGBA8 texture source.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

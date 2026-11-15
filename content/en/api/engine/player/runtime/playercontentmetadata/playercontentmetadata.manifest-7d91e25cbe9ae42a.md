@@ -13,5 +13,3 @@ reviewed: 0814e29e6980e6922a1cd8b369f1063b7cfb59e6b4642afb77f51cc6978a99bc
 source: xml
 outdated: false
 ---
-
-Gets the owned manifest envelope, valid for this metadata object's lifetime.

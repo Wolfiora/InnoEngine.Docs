@@ -13,5 +13,3 @@ reviewed: db8284a9f315995661652c120d2caec1beccd9c8ebef2d85e08c75318b96465d
 source: xml
 outdated: false
 ---
-
-Gets the gesture lifecycle phase.

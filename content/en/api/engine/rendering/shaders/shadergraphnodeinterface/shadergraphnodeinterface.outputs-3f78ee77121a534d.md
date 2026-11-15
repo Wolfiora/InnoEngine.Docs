@@ -13,5 +13,3 @@ reviewed: 7fbd2caa558937528c53c76fb156920f654467a26fa47bd73e7517e04dcc7340
 source: xml
 outdated: false
 ---
-
-Gets or sets externally visible results.

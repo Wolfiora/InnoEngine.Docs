@@ -13,5 +13,3 @@ reviewed: baf1da62f7985acb656e5d7c1e0b4aed3db6756d7b08a1c70cb443283e2c3e9b
 source: xml
 outdated: false
 ---
-
-Releases all provider instances and unregisters their generation participant.

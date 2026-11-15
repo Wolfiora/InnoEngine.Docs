@@ -13,5 +13,3 @@ reviewed: d2df0720321a3651f7c629636cab3dcabac0907ee27807673dec738b5f9fc14f
 source: xml
 outdated: false
 ---
-
-Gets whether the identifier contains a protocol value.

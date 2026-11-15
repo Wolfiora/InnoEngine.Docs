@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Defines language and script hints for one shaping operation.

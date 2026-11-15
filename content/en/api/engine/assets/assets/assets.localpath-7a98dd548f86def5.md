@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a path relative to the Asset source that owns the calling script.
-
 ## Parameters
 
 **Parameter `localPath`:** The normalized path relative to the caller's Project or installed Plugin Assets root.

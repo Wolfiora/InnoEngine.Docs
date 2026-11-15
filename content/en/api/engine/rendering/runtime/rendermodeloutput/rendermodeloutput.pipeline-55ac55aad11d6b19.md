@@ -13,5 +13,3 @@ reviewed: e15c30804e679924406e71b4874261c33c9b349a452b03d59d581956fc1ae2c3
 source: xml
 outdated: false
 ---
-
-Gets the model's pipeline.

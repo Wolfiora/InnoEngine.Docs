@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an Inspector attribute drawer registration.
-
 ## Parameters
 
 **Parameter `targetType`:** Attribute type handled by the drawer.

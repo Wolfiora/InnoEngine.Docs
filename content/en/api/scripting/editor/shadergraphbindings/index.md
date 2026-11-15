@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Keeps graph input edits and the material-visible parameter contract in one neutral document change.

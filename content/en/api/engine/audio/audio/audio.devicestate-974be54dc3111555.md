@@ -13,5 +13,3 @@ reviewed: f59a130736645ceab5a5302214ccfda86c6836738cf4112af9adb621e316de5c
 source: xml
 outdated: false
 ---
-
-Gets the current output availability state.

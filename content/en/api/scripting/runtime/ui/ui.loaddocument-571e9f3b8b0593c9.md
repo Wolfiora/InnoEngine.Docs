@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Loads one imported document compatible with the selected backend.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

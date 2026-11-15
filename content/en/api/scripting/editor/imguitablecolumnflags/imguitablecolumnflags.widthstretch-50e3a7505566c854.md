@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Column will stretch. Preferable with horizontal scrolling disabled (default if table sizing policy is \_SizingStretchSame or \_SizingStretchProp).

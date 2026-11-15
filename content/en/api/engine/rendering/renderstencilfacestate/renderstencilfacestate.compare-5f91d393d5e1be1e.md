@@ -13,5 +13,3 @@ reviewed: 0393425f1868bdcaab02d66c45289656ad2f2e7d0286ae18b92387811336e38d
 source: xml
 outdated: false
 ---
-
-Gets stencil comparison.

@@ -13,5 +13,3 @@ reviewed: 3c27161c952973a894adc4d8189f26302bc61d04e4f9c56ff18e0245690c67a2
 source: xml
 outdated: false
 ---
-
-Gets elapsed time in seconds.

@@ -13,5 +13,3 @@ reviewed: 8ad3e892e089e6fd24fbbf5d96337c430e69217152458dc62d0108128cc3d982
 source: xml
 outdated: false
 ---
-
-Gets the device-generation cumulative transient allocation snapshot at frame completion. Null means the backend does not report allocation accounting; it does not mean zero allocations.

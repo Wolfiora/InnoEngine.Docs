@@ -13,5 +13,3 @@ reviewed: 119825073e7b66a84bb320d204a95dc9a5f5a6aecd72c10d8c7e397b46ef04b1
 source: xml
 outdated: false
 ---
-
-Gets or sets whether an image has array layers.

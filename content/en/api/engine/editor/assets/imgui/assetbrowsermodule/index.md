@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets-imgui
 aliases: []
 ---
-
-Owns asset navigation and icon presentation independently from source mutations.

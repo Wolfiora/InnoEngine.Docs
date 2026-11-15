@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Describes a language-independent function value, including aggregate members and fixed arrays.

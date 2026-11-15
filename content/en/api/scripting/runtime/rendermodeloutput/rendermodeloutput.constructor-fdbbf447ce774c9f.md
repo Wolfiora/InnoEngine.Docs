@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates prepared model output.
-
 ## Parameters
 
 **Parameter `name`:** Frame-local diagnostic name.

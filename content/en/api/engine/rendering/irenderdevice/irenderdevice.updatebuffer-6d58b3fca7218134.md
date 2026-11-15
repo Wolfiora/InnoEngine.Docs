@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces a contiguous range in a dynamic persistent buffer at a frame safety point.
-
 ## Parameters
 
 **Parameter `buffer`:** Dynamic buffer owned by this device generation.

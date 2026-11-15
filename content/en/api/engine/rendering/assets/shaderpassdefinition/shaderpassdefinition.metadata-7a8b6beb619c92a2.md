@@ -13,5 +13,3 @@ reviewed: 3b37c59e9ca2bd41b9b9796494aea5afba0abe05344a7d58448cbfa7ed3b0f85
 source: xml
 outdated: false
 ---
-
-Gets or sets provider-defined metadata.

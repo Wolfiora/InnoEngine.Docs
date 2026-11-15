@@ -13,5 +13,3 @@ reviewed: a6857db892a0dd5b4cfb9b510c27635691b5bb6548991766271d168a36b56987
 source: xml
 outdated: false
 ---
-
-Gets the texture width.

@@ -13,5 +13,3 @@ reviewed: 9c9f488dcc136ec5a1b0770e0bdf3c29acd507b1b69d2067c067c6bb40c7ab74
 source: xml
 outdated: false
 ---
-
-Gets the control-thread source of portable audio defaults.

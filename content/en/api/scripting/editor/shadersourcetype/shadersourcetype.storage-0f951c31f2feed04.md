@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an opaque storage binding value with a complete element, format and access contract.
-
 ## Parameters
 
 **Parameter `storage`:** Resource description, independent of any actual GPU object.

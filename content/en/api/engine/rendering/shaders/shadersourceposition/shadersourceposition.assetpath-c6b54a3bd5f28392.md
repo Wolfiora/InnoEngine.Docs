@@ -13,5 +13,3 @@ reviewed: 3985fb773160f9f32e194d636efe1d8da70a2d64c2f3c04e23bef40ac22e58ac
 source: xml
 outdated: false
 ---
-
-Source path in the current asset mount.

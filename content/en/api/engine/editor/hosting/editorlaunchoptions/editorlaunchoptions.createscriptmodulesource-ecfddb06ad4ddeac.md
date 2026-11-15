@@ -13,5 +13,3 @@ reviewed: 7c90cac4d96eef39a6effa3c9aff6d63b53f4cea793086f2296506b47d2a25d8
 source: xml
 outdated: false
 ---
-
-Gets the factory transferring a candidate script module source to the existing reload transaction.

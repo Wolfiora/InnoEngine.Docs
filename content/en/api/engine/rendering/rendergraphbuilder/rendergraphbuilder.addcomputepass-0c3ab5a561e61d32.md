@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a frame-scoped compute pass.
-
 ## Type parameters
 
 **Type parameter `TPassData`:** Pass payload type.

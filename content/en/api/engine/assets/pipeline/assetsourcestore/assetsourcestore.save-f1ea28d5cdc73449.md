@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically saves bytes after checking the source fingerprint; import is a separate operation.
-
 ## Parameters
 
 **Parameter `path`:** Writable mounted destination.

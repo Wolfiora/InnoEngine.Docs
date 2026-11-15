@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Produces the detached initial value for one authorable native asset source.
-
 ## Remarks
 
 Derivation is the discovery contract. `T:Inno.Editor.Assets.AssetCreationMenuAttribute` supplies only source-format and presentation data that the asset inheritance hierarchy cannot express.

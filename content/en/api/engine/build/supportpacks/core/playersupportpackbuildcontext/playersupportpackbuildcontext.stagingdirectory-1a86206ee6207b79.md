@@ -13,5 +13,3 @@ reviewed: 2d22756c8cf6ac5cba9a38f6c6d65c4611527f2125369bdc509a30f4ca946ae5
 source: xml
 outdated: false
 ---
-
-Gets the isolated directory that the source must populate.

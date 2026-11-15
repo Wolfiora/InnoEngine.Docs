@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores readable project state owned by this module.
-
 ## Remarks
 
 This method is called only when `M:Inno.Editor.Core.EditorModule.Capture(Inno.Editor.Core.EditorState)` is overridden. It runs once after the module is started and before the module is allowed to capture replacement state.

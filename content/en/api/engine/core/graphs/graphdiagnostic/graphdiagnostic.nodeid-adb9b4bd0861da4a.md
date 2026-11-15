@@ -13,5 +13,3 @@ reviewed: 627865f041f80bfc0ffd0ed2a5de45acdd75e31a13bea0bb91df28b6074ec256
 source: xml
 outdated: false
 ---
-
-Gets the related node identifier, if any.

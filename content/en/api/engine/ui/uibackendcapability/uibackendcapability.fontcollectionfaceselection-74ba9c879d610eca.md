@@ -13,5 +13,3 @@ reviewed: 2f925b968d4cd50f9aa95aed694f88a5941a74bd169680cbb0dd263fe3fb77f0
 source: xml
 outdated: false
 ---
-
-Selecting an explicit face from a font collection.

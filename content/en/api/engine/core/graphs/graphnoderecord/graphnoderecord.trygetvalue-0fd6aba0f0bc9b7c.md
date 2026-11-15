@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read a neutral serialized property value.
-
 ## Parameters
 
 **Parameter `propertyId`:** Stable property identifier.

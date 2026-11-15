@@ -13,5 +13,3 @@ reviewed: fdfc2b37c09a0e37b539711178d071d75ea7705a03b5a68f46ac8e2d676b2fc3
 source: xml
 outdated: false
 ---
-
-Provisionally publishes at the shared generation safety point; the owning change must roll back failures.

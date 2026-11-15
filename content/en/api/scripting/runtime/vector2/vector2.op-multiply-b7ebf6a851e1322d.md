@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Multiplies the supplied values according to their algebraic contract.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.

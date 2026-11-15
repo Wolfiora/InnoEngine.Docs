@@ -13,5 +13,3 @@ reviewed: 379f23891c6b3e810a00ba0aa9f995c73c6feab88777a487b42dea4f4f119eea
 source: xml
 outdated: false
 ---
-
-Disable bringing window to front when taking focus (e.g. clicking on it or programmatically giving it focus)

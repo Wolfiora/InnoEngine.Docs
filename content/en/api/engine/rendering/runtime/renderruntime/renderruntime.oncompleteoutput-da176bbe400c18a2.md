@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits output and closes output-specific temporary resources.
-
 ## Parameters
 
 **Parameter `frame`:** The variable frame timing.

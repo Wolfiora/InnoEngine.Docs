@@ -13,5 +13,3 @@ reviewed: 61e491d0d9580b2fabced0d5fd425540946103370e5d67b6d260f8963455c601
 source: xml
 outdated: false
 ---
-
-Applies queued source and build changes on the initialization thread.

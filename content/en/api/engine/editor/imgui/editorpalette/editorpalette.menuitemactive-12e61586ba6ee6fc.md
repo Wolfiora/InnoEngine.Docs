@@ -13,5 +13,3 @@ reviewed: f712ae96dc863f33147f7aa6751f593b9310f4c9faa54858e789738d04e00433
 source: xml
 outdated: false
 ---
-
-Gets the active background of an editor context-menu item.

@@ -13,5 +13,3 @@ reviewed: 75b87c6b742d856ba5b0b7a809cca3a9f9cf4b2558515f6469f0dedd1970a05b
 source: xml
 outdated: false
 ---
-
-Gets repeated physical hash requests satisfied from this phase's cache.

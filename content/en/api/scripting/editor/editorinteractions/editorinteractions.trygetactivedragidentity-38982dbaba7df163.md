@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the active drag identity used to select the matching native payload domain.
-
 ## Parameters
 
 **Parameter `identity`:** The active runtime identity when one remains valid.

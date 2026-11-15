@@ -13,5 +13,3 @@ reviewed: e378638521b181abe37fb4f5bc854dbef2e40be17daa6630ef14237815e12887
 source: xml
 outdated: false
 ---
-
-Identifies the GraveAccent presentation key or modifier.

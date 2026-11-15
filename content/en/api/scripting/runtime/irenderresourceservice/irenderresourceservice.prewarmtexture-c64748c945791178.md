@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Queues target texture conversion without blocking the render thread.
-
 ## Parameters
 
 **Parameter `texture`:** Texture source to prepare.

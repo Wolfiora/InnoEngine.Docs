@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Reports control-thread resource occupancy and admission pressure without exposing backend objects.

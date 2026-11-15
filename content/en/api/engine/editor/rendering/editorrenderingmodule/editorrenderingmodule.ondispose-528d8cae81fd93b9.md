@@ -13,5 +13,3 @@ reviewed: bb3f5e6519e8c640b389fab0b71dfd53afbb88a91fc1c5f0b6fb8c92afdd6057
 source: xml
 outdated: false
 ---
-
-Releases resources retained by this feature after it has stopped.

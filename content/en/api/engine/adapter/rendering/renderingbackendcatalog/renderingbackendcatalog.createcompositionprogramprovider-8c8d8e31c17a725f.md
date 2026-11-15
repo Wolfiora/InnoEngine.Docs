@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a backend-owned program provider for ordered render layer composition.
-
 ## Parameters
 
 **Parameter `backend`:** Stable identity of the selected rendering backend.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a binding owner connected to the host's transactional type catalog.
-
 ## Parameters
 
 **Parameter `types`:** The shared type catalog; candidate failure preserves its last good snapshot.

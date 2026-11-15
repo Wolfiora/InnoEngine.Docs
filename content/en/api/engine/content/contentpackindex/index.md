@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Freezes the complete payload set and rejects ambiguous keys before publication.

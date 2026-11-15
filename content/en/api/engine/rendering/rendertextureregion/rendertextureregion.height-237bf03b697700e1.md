@@ -13,5 +13,3 @@ reviewed: 646ee2f6eb54e35f3c8d4adb717a9bd6551c1126eedf64a8a8b9d908ed79ed72
 source: xml
 outdated: false
 ---
-
-Gets the texel height.

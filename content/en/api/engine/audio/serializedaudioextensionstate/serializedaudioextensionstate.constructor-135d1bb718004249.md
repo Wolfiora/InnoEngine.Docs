@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates neutral extension state.
-
 ## Parameters
 
 **Parameter `stableTypeId`:** Stable settings type identity, or empty when no typed settings exist.

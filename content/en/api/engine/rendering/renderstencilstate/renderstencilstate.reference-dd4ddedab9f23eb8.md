@@ -13,5 +13,3 @@ reviewed: 1a5b7d16603b25b246325764c936addbc00c0cb5cdc6cc9d6d56de997e79df9b
 source: xml
 outdated: false
 ---
-
-Gets the eight-bit stencil reference value.

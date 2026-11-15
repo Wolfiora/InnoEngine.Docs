@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts background indexing after cloning, then adopts its completed catalog without waiting.
-
 ## Returns
 
 True when the candidate is indexed and ready for BeginValidation; false while preparation is pending.

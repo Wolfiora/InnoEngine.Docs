@@ -13,5 +13,3 @@ reviewed: e558bf450375e63aecba37869603d0f5d10334140bf614b9d3938a2869e979d4
 source: xml
 outdated: false
 ---
-
-Gets padding inside a control.

@@ -13,5 +13,3 @@ reviewed: fc65fe94947b4ee6025dff44c44f607f573da7431c2c164a6cbc822c56a06037
 source: xml
 outdated: false
 ---
-
-Gets original source dependencies for invalidation.

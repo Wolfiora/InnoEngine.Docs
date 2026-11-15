@@ -13,5 +13,3 @@ reviewed: 6dabca662d2560bfb9cde86fba8d026ba343a913570de73faa4203e22ecf0129
 source: xml
 outdated: false
 ---
-
-Gets a copy of the captured native source bytes.

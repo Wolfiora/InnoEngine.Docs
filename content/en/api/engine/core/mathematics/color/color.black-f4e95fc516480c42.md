@@ -13,5 +13,3 @@ reviewed: 94af2b3aaeb30a5934559d4634b38e7333bb984b863f36844f8195b309c16ef2
 source: xml
 outdated: false
 ---
-
-The black value used as part of this type's public representation.

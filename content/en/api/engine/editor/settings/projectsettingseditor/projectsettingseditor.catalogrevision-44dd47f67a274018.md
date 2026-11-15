@@ -13,5 +13,3 @@ reviewed: 6c8f1d7d511c88c3aab978ef3a0e027e2ae99d6be2d6d2e4f4fa3971deaa5db6
 source: xml
 outdated: false
 ---
-
-Gets the active project setting Editor catalog revision.

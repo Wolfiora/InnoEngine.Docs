@@ -13,5 +13,3 @@ reviewed: 41140168005c2a73b186881f12b82b06afd197a37a520195a6cc9060ebf42904
 source: xml
 outdated: false
 ---
-
-Gets or sets stable stage output node identities; computation remains owned by those nodes.

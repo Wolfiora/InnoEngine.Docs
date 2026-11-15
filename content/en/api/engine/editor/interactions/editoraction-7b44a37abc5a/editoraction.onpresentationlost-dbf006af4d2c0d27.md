@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs when this action's active target loses editor presentation focus.
-
 ## Remarks
 
 The default behavior cancels the active operation. An action that owns an editable value may override this method to validate and commit that value. The operation is cancelled automatically when an override returns without calling `M:Inno.Editor.Interactions.EditorAction.Complete` or `M:Inno.Editor.Interactions.EditorAction.Cancel`.

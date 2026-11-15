@@ -13,5 +13,3 @@ reviewed: fa07b151a6ae6a181bcbfdfe08f05187580fc047fcfa6baf85c89b39b88b0ed0
 source: xml
 outdated: false
 ---
-
-No condition (always set the variable), same as \_Always

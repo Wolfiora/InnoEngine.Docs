@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets read-only mounts that passed validation and dependency ordering.
-
 ## Parameters
 
 **Parameter `result`:** Complete scan result.

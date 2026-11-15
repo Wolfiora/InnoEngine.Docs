@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Executes an action for this area and target.
-
 ## Parameters
 
 **Parameter `action`:** The stable action name.

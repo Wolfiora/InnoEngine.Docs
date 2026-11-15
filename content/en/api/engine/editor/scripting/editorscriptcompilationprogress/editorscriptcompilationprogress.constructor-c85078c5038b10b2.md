@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the progress and cancellation policy of one editor script request.
-
 ## Parameters
 
 **Parameter `operationId`:** The request identity within the owning script host.

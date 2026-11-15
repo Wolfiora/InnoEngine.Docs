@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether the source entry belongs to the current asset selection.
-
 ## Parameters
 
 **Parameter `context`:** The current editor callback context.

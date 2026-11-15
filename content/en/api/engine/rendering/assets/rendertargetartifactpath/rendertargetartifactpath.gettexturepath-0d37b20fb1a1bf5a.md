@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the relative deployment path for one portable texture artifact.
-
 ## Parameters
 
 **Parameter `texture`:** Stable texture artifact reference.

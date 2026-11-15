@@ -13,5 +13,3 @@ reviewed: 4144290a93e8766674d23c61333fce2b3a10a7af51a8c3994c40b48ac541a6aa
 source: xml
 outdated: false
 ---
-
-Selects the resize grip active presentation behavior.

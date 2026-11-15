@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Converts coordinates for one viewport camera without exposing its presentation backend.

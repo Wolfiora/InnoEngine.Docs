@@ -13,5 +13,3 @@ reviewed: 9f62e87fd46a0519cdcb0ef911deb13ce07396b39a5ece309fed6aeb4b57841a
 source: xml
 outdated: false
 ---
-
-Gets font assets declared by the canonical document.

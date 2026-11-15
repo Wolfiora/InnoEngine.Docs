@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an already open document without replacing its authored contents.
-
 ## Parameters
 
 **Parameter `documentId`:** The persistent document identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets accumulated pointer displacement from the current UI drag's starting position for timeline and canvas controls.
-
 ## Parameters
 
 **Parameter `button`:** The button that owns the drag.

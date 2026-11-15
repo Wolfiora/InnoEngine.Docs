@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a straight screen-space stroke.
-
 ## Parameters
 
 **Parameter `start`:** The first endpoint.

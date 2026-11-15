@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Resolves drawers and renders serialized property paths with isolated error handling.

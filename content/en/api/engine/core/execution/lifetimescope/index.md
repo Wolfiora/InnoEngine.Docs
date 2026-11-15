@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---
-
-Owns cancellation, tracked work and reverse-order resource retirement for one lifecycle.

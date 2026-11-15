@@ -13,5 +13,3 @@ reviewed: 1a36161495a1077f770d5fa340c038f6cdde76026f092fbbfbf39404e09eeab6
 source: xml
 outdated: false
 ---
-
-Gets the changes committed by this revision.

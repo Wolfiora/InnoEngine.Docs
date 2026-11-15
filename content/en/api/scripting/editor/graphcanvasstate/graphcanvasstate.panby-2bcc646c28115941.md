@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves the canvas origin by screen-space pixels.
-
 ## Parameters
 
 **Parameter `deltaX`:** Horizontal screen-space delta.

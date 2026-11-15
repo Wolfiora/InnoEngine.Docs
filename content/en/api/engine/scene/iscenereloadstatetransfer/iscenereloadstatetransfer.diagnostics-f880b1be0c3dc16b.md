@@ -13,5 +13,3 @@ reviewed: 11ff848a98a4b59480c16095da9c9bd49db7ca40bc116209c4ad3b1cacc64f3a
 source: xml
 outdated: false
 ---
-
-Gets non-fatal state transfer decisions produced while replacing reloadable scene objects.

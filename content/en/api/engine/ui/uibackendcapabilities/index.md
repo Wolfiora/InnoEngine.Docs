@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Describes optional behavior implemented by one UI backend generation.

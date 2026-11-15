@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads whether an open popup or modal currently prevents underlying canvas and list input.
-
 ## Returns
 
 True when any popup is open in this native context, independently of its identifier or nesting.

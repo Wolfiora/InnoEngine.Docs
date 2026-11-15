@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates options with sensible defaults for most projects.
-
 ## Parameters
 
 **Parameter `assetRoot`:** Source assets root folder.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Immediately dispatches an event inside this hub only.
-
 ## Remarks
 
 This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.

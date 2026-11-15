@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides Unity-style timing values for the runtime session bound to the current execution context.
-
 ## Remarks
 
 This façade owns no process-global timing state. Engine systems update an instance clock and scripts resolve that clock through the active `T:InnoEngine.Core.RuntimeSession` scope.

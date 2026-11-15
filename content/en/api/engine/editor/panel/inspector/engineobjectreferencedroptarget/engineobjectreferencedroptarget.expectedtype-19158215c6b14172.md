@@ -13,5 +13,3 @@ reviewed: da9a7713d4c59220538008a28996ba763ae626d42a564a0833cbe3872ebd4f35
 source: xml
 outdated: false
 ---
-
-Gets the required engine object type.

@@ -13,5 +13,3 @@ reviewed: e309249b70bcc43111e2b9839210b84e04c19718ded4f7683df2e5b96f511f00
 source: xml
 outdated: false
 ---
-
-Gets the immutable official BGCS target configuration.

@@ -13,5 +13,3 @@ reviewed: 729a65f87f50c8e9717315ba7c745a73fe16165bdcbfb2d21c3db8054e9886b9
 source: xml
 outdated: false
 ---
-
-Gets the complete native artifact and compilation-requirement directory, or empty when none is required.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Binds one text service to the current asynchronous execution context.

@@ -13,5 +13,3 @@ reviewed: 1eca6547646abdcc92c3fc18c17ca4f4cf06a87f09896684e88168127ed476d1
 source: xml
 outdated: false
 ---
-
-Allow no sorting, disable default sorting. TableGetSortSpecs() may return specs where (SpecsCount == 0).

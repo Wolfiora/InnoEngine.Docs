@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a detached copy of this stack.
-
 ## Returns
 
 An independent layer stack.

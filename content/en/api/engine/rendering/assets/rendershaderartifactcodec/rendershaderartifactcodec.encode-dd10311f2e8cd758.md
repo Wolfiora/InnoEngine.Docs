@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a validated shader artifact into its deterministic runtime deployment representation.
-
 ## Parameters
 
 **Parameter `artifact`:** The complete source-free artifact to encode.

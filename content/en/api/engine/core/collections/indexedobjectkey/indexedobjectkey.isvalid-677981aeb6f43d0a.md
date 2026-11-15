@@ -13,5 +13,3 @@ reviewed: 90f14cf39bdf70867f1be65f6791506236ae63bac169ac4f085b1f0439781eae
 source: xml
 outdated: false
 ---
-
-Returns true if the store key is still valid in its owning store.

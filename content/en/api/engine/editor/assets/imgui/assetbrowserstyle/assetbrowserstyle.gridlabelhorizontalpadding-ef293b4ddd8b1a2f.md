@@ -13,5 +13,3 @@ reviewed: 898020ce320a8507d10682d09c48cc05cb28baa4fc10bd585c735444195d5f4f
 source: xml
 outdated: false
 ---
-
-Gets horizontal padding for asset grid labels.

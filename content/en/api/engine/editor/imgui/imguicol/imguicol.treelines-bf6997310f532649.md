@@ -13,5 +13,3 @@ reviewed: e0aeeb7554690663fa7c038e53b792a72d31860fb9767f8b0787a23ab53999dc
 source: xml
 outdated: false
 ---
-
-Selects the tree lines presentation behavior.

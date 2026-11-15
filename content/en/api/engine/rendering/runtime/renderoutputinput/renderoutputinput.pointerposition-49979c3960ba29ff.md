@@ -13,5 +13,3 @@ reviewed: b28753789c61588a6767c15480fd4126bbeb1f1be112401dd77afe4f9d008a7c
 source: xml
 outdated: false
 ---
-
-Gets viewport-local pointer coordinates.

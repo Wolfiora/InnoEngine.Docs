@@ -13,5 +13,3 @@ reviewed: dc9b35a72ff215484098434a0091bbc08d549a7036876faef52a21101566147a
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a mesh.

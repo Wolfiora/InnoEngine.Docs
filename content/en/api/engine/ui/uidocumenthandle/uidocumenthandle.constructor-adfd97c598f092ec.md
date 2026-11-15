@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Identifies one document owned by a UI context.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

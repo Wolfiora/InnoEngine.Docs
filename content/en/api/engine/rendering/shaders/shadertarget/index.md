@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Expands a domain's surface contract into ordinary graph stages before source dependency capture.

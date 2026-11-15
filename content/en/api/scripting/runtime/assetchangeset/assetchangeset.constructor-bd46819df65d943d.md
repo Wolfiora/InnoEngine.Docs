@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a committed change set.
-
 ## Parameters
 
 **Parameter `revision`:** The monotonic database revision assigned to the atomic commit.

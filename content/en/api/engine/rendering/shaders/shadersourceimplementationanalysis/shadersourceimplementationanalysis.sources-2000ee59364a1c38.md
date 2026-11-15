@@ -13,5 +13,3 @@ reviewed: 7b2b714377a3edad3ef4e651c2bb593ffee0852c42f0831095470313258059ca
 source: xml
 outdated: false
 ---
-
-Gets every successfully read source, including the root, ordered by path.

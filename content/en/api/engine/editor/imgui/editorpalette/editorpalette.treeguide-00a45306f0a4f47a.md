@@ -13,5 +13,3 @@ reviewed: c9d58e1ce1309b183ed8c5420d5d4f527ed3ef80ec949577758b8301c73a1daa
 source: xml
 outdated: false
 ---
-
-Gets the guide color of reusable tree controls.

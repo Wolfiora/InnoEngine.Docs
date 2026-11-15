@@ -13,5 +13,3 @@ reviewed: 50a6fcb22298e4de801a0aded7e220550ffed5ec80021ec10ad7db8fa42ee8ad
 source: xml
 outdated: false
 ---
-
-Gets direct and indirect compute dispatches submitted during the current frame.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a text asset with content and an optional language hint.
-
 ## Parameters
 
 **Parameter `content`:** Decoded text content.

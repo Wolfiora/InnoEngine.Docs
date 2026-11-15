@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Executes one explicit component request and publishes task outputs only after success.
-
 ## Returns
 
 True after generation or comparison; false after a logged failure and complete cleanup.

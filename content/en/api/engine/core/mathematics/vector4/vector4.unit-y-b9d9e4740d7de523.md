@@ -13,5 +13,3 @@ reviewed: 0bd811ca99417ee002bf508226f7d96fa4978cc6dcd47cb80af62e90a95a8723
 source: xml
 outdated: false
 ---
-
-A unit value aligned with the y axis.

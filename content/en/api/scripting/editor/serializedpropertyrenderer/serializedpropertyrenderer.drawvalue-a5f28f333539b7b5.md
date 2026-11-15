@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a declared authoring value with existing property drawers and a feature-owned draft edit service.
-
 ## Parameters
 
 **Parameter `editorContext`:** Current Editor frame.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stages and validates a replacement generation without publishing it.
-
 ## Parameters
 
 **Parameter `module`:** The module consumed by begin reload; ownership remains with the caller unless explicitly stated otherwise.

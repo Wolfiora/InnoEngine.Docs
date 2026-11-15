@@ -13,5 +13,3 @@ reviewed: 6914e795ccfc812bfa7a6490bdd273dae2f92ea2b776102c282dc6a3e981b1a0
 source: xml
 outdated: false
 ---
-
-Gets the authoring build-default document name.

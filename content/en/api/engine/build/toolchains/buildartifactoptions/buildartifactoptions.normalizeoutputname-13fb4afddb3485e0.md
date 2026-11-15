@@ -13,5 +13,3 @@ reviewed: 92d20f2a5521e86c1f9885ba9c1046dbdd7cba849c506ca7c13a1511bcaa9afc
 source: xml
 outdated: false
 ---
-
-The deterministic output naming policy.

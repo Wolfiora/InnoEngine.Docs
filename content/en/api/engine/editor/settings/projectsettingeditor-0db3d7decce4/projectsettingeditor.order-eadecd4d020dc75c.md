@@ -13,5 +13,3 @@ reviewed: 44d608ddd89dadf4ebfbde43ba1bbe078b456f7272a65169849bd59fcd141abc
 source: xml
 outdated: false
 ---
-
-Gets the stable order among fields in the same section.

@@ -13,5 +13,3 @@ reviewed: 2f9d0893d3fae30b7187cbde06b0257563d7a48fbba5f4de18a779090da6ce5a
 source: xml
 outdated: false
 ---
-
-The 8 key on the primary keyboard row.

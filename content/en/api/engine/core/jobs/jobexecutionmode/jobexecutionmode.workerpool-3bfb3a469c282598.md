@@ -13,5 +13,3 @@ reviewed: 98af972b20818c1b77cbc6f650a357dd7cb16e6e264413e081918f9ae18a8efb
 source: xml
 outdated: false
 ---
-
-Executes ready jobs on a bounded work-stealing worker pool.

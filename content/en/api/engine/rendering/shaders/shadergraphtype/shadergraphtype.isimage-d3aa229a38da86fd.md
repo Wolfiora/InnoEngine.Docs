@@ -13,5 +13,3 @@ reviewed: 5775cb66cc5085453b6fee704d1c3349d69b627e417b40e3f110354a080e167e
 source: xml
 outdated: false
 ---
-
-Gets or sets whether storage is an image instead of a buffer.

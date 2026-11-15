@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Contains one listener transform used by backend spatialization.

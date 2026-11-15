@@ -13,5 +13,3 @@ reviewed: c0efc56f261f8bfb8ca56e1aaca47c2773d912c0c6616644de13654f04c33639
 source: xml
 outdated: false
 ---
-
-Primary vertex color.

@@ -13,5 +13,3 @@ reviewed: 56d465774a30e9d9b0812e539078c5bb65ceb40738292b321622ad2e8aac09c8
 source: xml
 outdated: false
 ---
-
-Gets or initializes the optional directory that owns temporary history payloads for this editor session.

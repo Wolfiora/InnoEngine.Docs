@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Analyzes all selected implementations and variants against one immutable provider generation.
-
 ## Parameters
 
 **Parameter `implementations`:** Explicit implementation/configuration candidates; no native-code translation is attempted.

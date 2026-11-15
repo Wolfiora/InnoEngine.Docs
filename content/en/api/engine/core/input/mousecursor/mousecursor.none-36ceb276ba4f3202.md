@@ -13,5 +13,3 @@ reviewed: c189d38b7eb5e553e91df3107ad01e711fc278c4dbe62067749d0acbd71b6b7c
 source: xml
 outdated: false
 ---
-
-No concrete cursor shape; the consuming host defines visibility behavior.

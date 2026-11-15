@@ -13,5 +13,3 @@ reviewed: 361796dc37a903e087999ed25bec0b93ecfb959b25f773b1ac3e8194e14c162b
 source: xml
 outdated: false
 ---
-
-Gets the globally stable protocol value.

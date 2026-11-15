@@ -13,5 +13,3 @@ reviewed: 4ac29ed59d82a4aa339dcda71eb98b868c29177a8da819d8d6f4bae96f4ec431
 source: xml
 outdated: false
 ---
-
-Gets the immutable input identity assigned to this target generation.

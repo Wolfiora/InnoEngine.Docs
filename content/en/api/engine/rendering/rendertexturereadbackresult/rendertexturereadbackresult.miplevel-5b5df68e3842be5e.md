@@ -13,5 +13,3 @@ reviewed: 71e3fa6face4339a67017fa4eeb4ba48675ea113d11e9006966289a27b30bfcf
 source: xml
 outdated: false
 ---
-
-Gets the source mip level.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Identifies one stable platform and architecture combination supported by the game build pipeline.

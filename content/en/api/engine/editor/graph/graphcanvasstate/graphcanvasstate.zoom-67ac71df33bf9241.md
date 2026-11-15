@@ -13,5 +13,3 @@ reviewed: a9dfb41c000757c9dbcb89e6dacdab3c015670548c476b58964b8ccc0503decb
 source: xml
 outdated: false
 ---
-
-Gets the current graph-to-screen scale.

@@ -13,5 +13,3 @@ reviewed: 01d01a08a3f4cfc51a89becf2044692f4a7fc9aba7c779495f39eb3ffc637e5e
 source: xml
 outdated: false
 ---
-
-Gets the exact local-to-world matrix, including the complete parent hierarchy.

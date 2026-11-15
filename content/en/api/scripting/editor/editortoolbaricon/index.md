@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Identifies a presentation-independent symbol for an editor toolbar command.

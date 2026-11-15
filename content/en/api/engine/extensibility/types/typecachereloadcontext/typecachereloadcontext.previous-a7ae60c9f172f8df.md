@@ -13,5 +13,3 @@ reviewed: 16c7030e47bead4c7bc549eb5dc75822d6f8f65e84e52c1c529fd3af94c02f78
 source: xml
 outdated: false
 ---
-
-Gets the active type snapshot from before activation.

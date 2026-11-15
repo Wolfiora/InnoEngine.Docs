@@ -13,5 +13,3 @@ reviewed: 0472621f554c916cf464f1cf3212e5e713c2b5e2b753be22768f5b1592f9efbd
 source: xml
 outdated: false
 ---
-
-Gets the open semantic type identifier, independent of source-language spelling.

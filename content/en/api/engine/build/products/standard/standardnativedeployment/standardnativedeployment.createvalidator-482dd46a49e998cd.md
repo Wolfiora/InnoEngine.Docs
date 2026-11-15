@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validator for the platform-selected native suffix.
-
 ## Parameters
 
 **Parameter `target`:** The platform target.

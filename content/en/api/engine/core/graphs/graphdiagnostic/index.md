@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Reports one graph validation problem using stable document identifiers.

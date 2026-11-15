@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Restores annotated properties from the current structured object into an existing object.
-
 ## Parameters
 
 **Parameter `target`:** The target whose annotated properties should be restored.

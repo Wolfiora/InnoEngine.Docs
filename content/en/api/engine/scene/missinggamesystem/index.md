@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Preserves the identity, order, and serialized state of a scene system whose managed type is unavailable.
-
 ## Remarks
 
 The scene serializer and script reload pipeline create this placeholder automatically. It remains disabled and does not retain the unavailable managed `T:System.Type` or its collectible assembly load context.

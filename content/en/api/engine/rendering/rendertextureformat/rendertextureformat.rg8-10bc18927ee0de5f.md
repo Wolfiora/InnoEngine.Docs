@@ -13,5 +13,3 @@ reviewed: 1eb4ad1b7b96a1e430ad8455de2109f4a10764d223135cbaa431f4e162bf1f8d
 source: xml
 outdated: false
 ---
-
-Eight-bit two-channel normalized format.

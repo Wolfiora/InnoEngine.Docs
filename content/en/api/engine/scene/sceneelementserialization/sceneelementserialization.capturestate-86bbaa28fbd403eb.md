@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one element's logical type, neutral properties, asset dependencies and scene-reference aliases.
-
 ## Parameters
 
 **Parameter `target`:** The live component or system, including a missing placeholder.

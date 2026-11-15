@@ -13,5 +13,3 @@ reviewed: 2d8b3f8ce795a7bad586fa903e9601c263273e86ea36ea008bda08798fddf2b9
 source: xml
 outdated: false
 ---
-
-Gets the current output frame index shared by Editor views.

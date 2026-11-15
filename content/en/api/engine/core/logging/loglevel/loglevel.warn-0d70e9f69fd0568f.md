@@ -13,5 +13,3 @@ reviewed: e3cedb7793c8b59bbfda706d6e4c22665317e3d11d029712d921faa4c32bf777
 source: xml
 outdated: false
 ---
-
-Warning logs for recoverable problems.

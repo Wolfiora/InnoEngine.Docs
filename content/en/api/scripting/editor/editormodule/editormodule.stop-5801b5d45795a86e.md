@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Stops the module before the containing extension generation is released.
-
 ## Remarks
 
 Also compensates a partially failed Start. Completed stops are idempotent; pending stops may be retried.

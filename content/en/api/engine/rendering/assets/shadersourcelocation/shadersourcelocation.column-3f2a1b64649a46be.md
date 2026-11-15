@@ -13,5 +13,3 @@ reviewed: 3051074a8e835b4787bdc74d11c4722999c2f922cc8e6e5d2013de78923f64ab
 source: xml
 outdated: false
 ---
-
-Gets the one-based column, or zero when unavailable.

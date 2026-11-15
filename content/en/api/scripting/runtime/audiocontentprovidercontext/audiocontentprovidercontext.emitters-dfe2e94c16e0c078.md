@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets a frozen copy of submitted source state in provider order.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This provider invocation has ended.

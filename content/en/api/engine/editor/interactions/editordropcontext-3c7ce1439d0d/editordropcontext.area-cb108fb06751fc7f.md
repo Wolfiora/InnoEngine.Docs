@@ -13,5 +13,3 @@ reviewed: 41d78ba6f3650f2a8ceb310c609affec973cd12ac71a7629add655ecc60aeef7
 source: xml
 outdated: false
 ---
-
-Gets the target interaction area.

@@ -13,5 +13,3 @@ reviewed: 94c66f723914772a56504dddd940353ede2db18ceb7f988f370cfa346fe2cd46
 source: xml
 outdated: false
 ---
-
-Replaces the component's authored host source and bridge outputs together.

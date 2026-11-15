@@ -13,5 +13,3 @@ reviewed: 8fe9bf3894885029dd47f2e621ae8dce5387052917677299305f6fa744d90e43
 source: xml
 outdated: false
 ---
-
-Gets the text service bound to the current execution context.

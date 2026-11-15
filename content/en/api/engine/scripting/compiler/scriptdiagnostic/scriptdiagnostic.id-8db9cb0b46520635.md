@@ -13,5 +13,3 @@ reviewed: 33754a3397a210da3d30a8205a63e926773f63b6aeb47b9185c21039b4b6c652
 source: xml
 outdated: false
 ---
-
-The stable compiler, analyzer, or reload diagnostic identifier.

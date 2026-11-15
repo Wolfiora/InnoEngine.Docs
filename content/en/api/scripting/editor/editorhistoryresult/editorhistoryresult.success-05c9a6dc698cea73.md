@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a successful history result.
-
 ## Returns
 
 A result representing a completed transition.

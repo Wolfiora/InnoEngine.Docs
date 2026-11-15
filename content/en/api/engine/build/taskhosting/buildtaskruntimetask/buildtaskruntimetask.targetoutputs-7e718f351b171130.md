@@ -13,5 +13,3 @@ reviewed: f1abddeeca9c1a9ff7eb6981d60e97c7359bdc1477814732e6c11c6bf8668b5f
 source: xml
 outdated: false
 ---
-
-Gets the returned runtime files and their hash metadata after successful compilation.

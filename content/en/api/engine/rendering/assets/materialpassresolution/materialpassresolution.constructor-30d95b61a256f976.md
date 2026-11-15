@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a material pass resolution.
-
 ## Parameters
 
 **Parameter `technique`:** Selected open-contract technique.

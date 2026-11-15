@@ -13,5 +13,3 @@ reviewed: 9c9cd69f003159b9ed3bfb4306707782bba03ad117dd6635f8ce6eb5783c727b
 source: xml
 outdated: false
 ---
-
-Gets the managed runtime mapping without deriving it from the target identity.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Replaces mutable parameters for a live voice.
-
 ## Parameters
 
 **Parameter `voice`:** Voice handle to update.

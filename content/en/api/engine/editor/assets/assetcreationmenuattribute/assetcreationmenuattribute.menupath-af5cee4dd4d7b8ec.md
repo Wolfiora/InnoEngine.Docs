@@ -13,5 +13,3 @@ reviewed: 18bfc814bdd20969e096305e5fd026ceeacad81f8efcd6adeade96a881183384
 source: xml
 outdated: false
 ---
-
-Gets the slash-delimited path below the File Browser Create menu.

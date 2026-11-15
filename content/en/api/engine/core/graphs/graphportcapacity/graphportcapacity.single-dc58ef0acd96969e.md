@@ -13,5 +13,3 @@ reviewed: de5e2847b11d7eaf5a0d03073de2c117a1610b020a8262dbf0bab7895d0eea64
 source: xml
 outdated: false
 ---
-
-At most one edge may connect to the port.

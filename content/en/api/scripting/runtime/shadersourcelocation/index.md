@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Maps a shader diagnostic back to an asset, pass, stage, and source position.

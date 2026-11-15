@@ -13,5 +13,3 @@ reviewed: 27b5e4139bd45ba09c94cf56cc0b21e18dc0241fc4057459bf6a8e11a3961dd8
 source: xml
 outdated: false
 ---
-
-Typed stage with target-assigned interface/resource locations.

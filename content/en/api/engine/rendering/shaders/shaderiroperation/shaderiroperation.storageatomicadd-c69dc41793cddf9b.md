@@ -13,5 +13,3 @@ reviewed: 66fd8d39a03454d76c746e1a33e24216d038a4d3d4d769171693be6315e6a2a2
 source: xml
 outdated: false
 ---
-
-Atomically adds to an integer buffer element and returns the original value.

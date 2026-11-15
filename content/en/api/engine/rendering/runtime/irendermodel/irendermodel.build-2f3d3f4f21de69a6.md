@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds one model output after acceptance.
-
 ## Parameters
 
 **Parameter `session`:** Host output session.

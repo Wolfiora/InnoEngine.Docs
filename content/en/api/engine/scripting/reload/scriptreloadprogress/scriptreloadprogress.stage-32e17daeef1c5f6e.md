@@ -13,5 +13,3 @@ reviewed: bec2c27367b3693a30e90c5905e0bfa577c2dd036e07ea2fd6fe867e08ca9c58
 source: xml
 outdated: false
 ---
-
-The actual stage or terminal diagnostic.

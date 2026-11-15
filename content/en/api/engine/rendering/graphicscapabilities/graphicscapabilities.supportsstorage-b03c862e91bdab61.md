@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a format supports the requested unordered shader access.
-
 ## Parameters
 
 **Parameter `format`:** Texture format to query.

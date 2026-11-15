@@ -13,5 +13,3 @@ reviewed: 785b0fde9df48f452520276d1dd5ce0aba7ff3fb29da661f8d1d1039b510701c
 source: xml
 outdated: false
 ---
-
-The read-only `Plugins` installation root.

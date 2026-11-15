@@ -13,5 +13,3 @@ reviewed: b2b1003a9b0212231d7cd2bd13ac4b9534cf5077e51c7c9e17ad27c511733c31
 source: xml
 outdated: false
 ---
-
-Gets whether overflow scrolling belongs to the modal window.

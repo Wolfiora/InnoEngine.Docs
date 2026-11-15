@@ -13,5 +13,3 @@ reviewed: c2a320a9f0c6964372aa2e067c7c0bec9f4e615d7f8bbe46ee96c8eb0de3891c
 source: xml
 outdated: false
 ---
-
-Gets the immutable function parameters.

@@ -13,5 +13,3 @@ reviewed: 3eb9cac7ded4a4090a123ff7e5dc33594c7c27614ff5629f579bbb6c1989d12a
 source: xml
 outdated: false
 ---
-
-Gets child menu nodes.

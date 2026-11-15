@@ -13,5 +13,3 @@ reviewed: fd886ff5d82bf55cdd3bc6a67735056dcba5ffae8691915a695b7af7ad921d71
 source: xml
 outdated: false
 ---
-
-The device has been released and cannot accept work.

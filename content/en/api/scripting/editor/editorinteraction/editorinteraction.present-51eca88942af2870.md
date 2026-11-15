@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Presents an active action in place of this target's normal content.
-
 ## Parameters
 
 **Parameter `action`:** The stable action name.

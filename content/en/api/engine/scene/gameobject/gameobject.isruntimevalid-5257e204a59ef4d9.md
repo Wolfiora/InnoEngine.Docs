@@ -13,5 +13,3 @@ reviewed: 2a2e196bb1068c09dbd79c95c83021af3b850ca4b5690517ea05b5c5a654d56f
 source: xml
 outdated: false
 ---
-
-Gets whether this object is live in its owning scene.

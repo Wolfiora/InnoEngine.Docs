@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one generation-scoped preview handle.
-
 ## Parameters
 
 **Parameter `value`:** Non-zero preview identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops and retires one live playback slot.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle produced by this runtime generation.

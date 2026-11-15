@@ -13,5 +13,3 @@ reviewed: d4e736c4011a7b4d898c1e51b123aefda1ee19b7bad10cf291daa1f79db931ad
 source: xml
 outdated: false
 ---
-
-Gets the content identity of the evaluated graph, compiler inputs and selected SDK.

@@ -13,5 +13,3 @@ reviewed: 0e402cf39e0e50b411df246494630611c0be7d2c66da3ce19e9fa463b5f58cfa
 source: xml
 outdated: false
 ---
-
-Gets the frozen SDK host and CLI entry used without resolving another SDK.

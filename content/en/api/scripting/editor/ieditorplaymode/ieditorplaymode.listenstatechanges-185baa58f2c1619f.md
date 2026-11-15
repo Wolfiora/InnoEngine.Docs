@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Subscribes to committed state transitions through the Core event lifetime.
-
 ## Parameters
 
 **Parameter `listener`:** The observer invoked synchronously after a transition.

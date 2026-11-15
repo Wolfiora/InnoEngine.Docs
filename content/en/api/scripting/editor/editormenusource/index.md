@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Contributes dynamic entries to one or more editor menu surfaces.

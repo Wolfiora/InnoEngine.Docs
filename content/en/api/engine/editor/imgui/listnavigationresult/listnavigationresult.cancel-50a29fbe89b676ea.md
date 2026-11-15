@@ -13,5 +13,3 @@ reviewed: 96175b1f55dd2ce898078ab992f5a3b4e625c5ea8b4c721f2b8958300fe34c28
 source: xml
 outdated: false
 ---
-
-Gets whether Escape requests canceling the current list workflow.

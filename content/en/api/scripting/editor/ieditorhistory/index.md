@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Exposes reload-safe Undo and Redo operations based exclusively on neutral history changes.

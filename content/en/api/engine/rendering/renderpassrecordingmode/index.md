@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Controls where a frame-local pass callback records backend-neutral commands.

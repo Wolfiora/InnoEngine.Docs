@@ -13,5 +13,3 @@ reviewed: 32d444b3b474a22ee758225c113bcaa8f8a3e34ce5693ff5b1e9bbbfe0f49fc3
 source: xml
 outdated: false
 ---
-
-Gets the script profile that receives the type.

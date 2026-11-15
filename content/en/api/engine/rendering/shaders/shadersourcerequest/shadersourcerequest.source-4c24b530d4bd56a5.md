@@ -13,5 +13,3 @@ reviewed: 09c7a62f7affdb87380f437638772ff16fd34c3a4be7844142a531affb9486fa
 source: xml
 outdated: false
 ---
-
-Gets the root source snapshot.

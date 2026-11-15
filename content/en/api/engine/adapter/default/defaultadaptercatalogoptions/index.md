@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-default
 aliases: []
 ---
-
-Supplies host-owned services whose locations cannot be inferred by the engine distribution.

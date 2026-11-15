@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a driver whose scheduling callback resumes on the frame owner's thread.
-
 ## Parameters
 
 **Parameter `nextFrame`:** The callback that waits for a presentation opportunity and observes cancellation.

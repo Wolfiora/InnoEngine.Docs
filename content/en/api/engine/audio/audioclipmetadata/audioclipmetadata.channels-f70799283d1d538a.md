@@ -13,5 +13,3 @@ reviewed: 14c50b7de8748ce0858643f9edc7ce1b984cc513bff2dafdf09e4e834cbede13
 source: xml
 outdated: false
 ---
-
-Gets the encoded channel count.

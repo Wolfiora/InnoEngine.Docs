@@ -13,5 +13,3 @@ reviewed: 4c5e81806f3ae03e12ecc15c2f4e2e6cb86a810673b6248a2514eb31bccf2e97
 source: xml
 outdated: false
 ---
-
-Gets the current mount-qualified asset path.

@@ -13,5 +13,3 @@ reviewed: 537cf888b03ab07c4db4dde1e351a463186312b48f7de58332d93fbf8cefd031
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a presentation surface.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a generation-aware property drawer registry.
-
 ## Parameters
 
 **Parameter `interactions`:** The active editor interaction entry point available to property drawer constructors.

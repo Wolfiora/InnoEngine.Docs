@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a window owned by this platform session.
-
 ## Parameters
 
 **Parameter `options`:** The validated initial window properties.

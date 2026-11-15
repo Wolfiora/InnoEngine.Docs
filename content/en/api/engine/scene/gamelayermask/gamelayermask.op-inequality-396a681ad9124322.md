@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two masks contain different bits.
-
 ## Parameters
 
 **Parameter `left`:** The first mask.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases this owner's registrations and resources exactly once.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Tracked work, the stop hook or a child resource is still draining. Retry without releasing dependencies.

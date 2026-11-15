@@ -13,5 +13,3 @@ reviewed: a92ce3882a89d72cf3ed835bd8c450f83b7986778ba6de49a78edb1a658bdf1a
 source: xml
 outdated: false
 ---
-
-Gets the winding order interpreted as the front face.

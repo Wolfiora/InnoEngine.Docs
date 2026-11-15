@@ -13,5 +13,3 @@ reviewed: 316f0ec9f150c31a8d7e5faa95611c74bbe88aacf52dd8d8dea58a63054abad3
 source: xml
 outdated: false
 ---
-
-Gets the stable manifest binding name.

@@ -13,5 +13,3 @@ reviewed: 6822f362a6193c2b385eec24d31d5ea7b57b4d89dd7b978919619042baec2f05
 source: xml
 outdated: false
 ---
-
-Selects the popup rounding presentation behavior.

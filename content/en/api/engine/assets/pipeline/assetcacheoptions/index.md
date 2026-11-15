@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Controls cleanup of rebuildable asset database data.

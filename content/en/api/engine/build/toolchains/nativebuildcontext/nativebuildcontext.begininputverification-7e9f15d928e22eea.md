@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a fresh verification phase whose reads can be shared only within this derived context.
-
 ## Parameters
 
 **Parameter `phase`:** The operation phase recorded in statistics, such as binding-locks or binding-generation.

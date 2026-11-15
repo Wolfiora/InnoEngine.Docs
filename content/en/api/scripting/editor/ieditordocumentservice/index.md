@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Owns single-instance editor documents independently from reloadable providers and presentation.

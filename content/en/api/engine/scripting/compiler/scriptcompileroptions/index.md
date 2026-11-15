@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Identifies the project and derived-cache locations used by one script compiler.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tests whether a format is valid for sampled two-dimensional textures.
-
 ## Parameters
 
 **Parameter `format`:** Texture format to query.

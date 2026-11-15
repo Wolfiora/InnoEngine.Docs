@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats the canonical local identity.
-
 ## Returns
 
 The canonical local identity text.

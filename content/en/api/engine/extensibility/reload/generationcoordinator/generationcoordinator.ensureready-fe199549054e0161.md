@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects work while a candidate, retained context or terminal failure is pending.
-
 ## Parameters
 
 **Parameter `operation`:** The caller's operation name included in rejection diagnostics.

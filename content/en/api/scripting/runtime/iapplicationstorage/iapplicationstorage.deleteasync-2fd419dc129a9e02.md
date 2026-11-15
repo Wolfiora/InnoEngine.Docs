@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Deletes one value without failing when it is already absent.
-
 ## Parameters
 
 **Parameter `key`:** The sandbox-relative storage key.

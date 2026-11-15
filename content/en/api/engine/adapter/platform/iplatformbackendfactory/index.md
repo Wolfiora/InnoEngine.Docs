@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-platform
 aliases: []
 ---
-
-Creates backend-neutral platform applications from explicit backend selections.

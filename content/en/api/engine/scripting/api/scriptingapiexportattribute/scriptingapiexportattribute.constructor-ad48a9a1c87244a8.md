@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an explicit script API export with a script-facing type name.
-
 ## Parameters
 
 **Parameter `type`:** The runtime type exposed to scripts.

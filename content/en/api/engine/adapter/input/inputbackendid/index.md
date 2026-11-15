@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Identifies a input implementation without closing the set of supported backends.

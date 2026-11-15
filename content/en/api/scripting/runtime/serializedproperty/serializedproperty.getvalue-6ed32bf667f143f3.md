@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current value.
-
 ## Returns
 
 The value produced by the getter delegate.

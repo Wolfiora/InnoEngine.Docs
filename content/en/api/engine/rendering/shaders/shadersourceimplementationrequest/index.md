@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Identifies one explicitly selected implementation and preprocessing configuration of a source module.

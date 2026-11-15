@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a pending compilation after the configured quiet period has elapsed.
-
 ## Remarks
 
 The initial automatic request is immediately ready and does not observe the debounce duration.

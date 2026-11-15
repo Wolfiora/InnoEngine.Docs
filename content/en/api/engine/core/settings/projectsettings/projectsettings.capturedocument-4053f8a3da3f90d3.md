@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the native project contribution document.
-
 ## Returns
 
 A newly owned native document payload.

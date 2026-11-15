@@ -13,5 +13,3 @@ reviewed: 01089d5b402da2310f241ae257c93fa9d783539fcee38a9c0650b67be4b5e1e9
 source: xml
 outdated: false
 ---
-
-Gets the allowed edge capacity.

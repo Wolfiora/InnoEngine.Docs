@@ -13,5 +13,3 @@ reviewed: 9d6bb0320f6ff8aab4656c997c3e9f37609f4f1f6fe1d8c20eddfd8c05bf8767
 source: xml
 outdated: false
 ---
-
-Gets the complete validated shader resource binding contract.

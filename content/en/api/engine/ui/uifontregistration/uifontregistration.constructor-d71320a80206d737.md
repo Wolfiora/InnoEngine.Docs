@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated synchronous font registration request.
-
 ## Parameters
 
 **Parameter `data`:** Encoded font bytes, valid for the duration of the backend call.

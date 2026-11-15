@@ -13,5 +13,3 @@ reviewed: 2343e480871c34f1b873eeb7e943804218018c06c60b4579a0636a817ea24b24
 source: xml
 outdated: false
 ---
-
-Gets enabled stable keyword option identifiers.

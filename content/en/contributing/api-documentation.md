@@ -68,7 +68,7 @@ npm run docs:review -- content/en/api/engine/core/identity/identity/index.md
 
 Replace the path with the registered page you edited. The command uses the pinned managed documentation tooling, sets `reviewed` to the current contract and clears `outdated`. It never edits the explanation, builds engine products, or publishes the site. It can explicitly fetch/bootstrap the pinned tool on first use. An explicit existing immutable engine checkout can be selected with `--engine-root PATH`. Ordinary read-only queries do not perform this preparation.
 
-The generated declaration, parameters, inheritance and member list always follow the captured source. An authored signature in prose cannot replace those facts.
+The generated summary, declaration, parameters, inheritance and member list always follow the captured source. The summary appears below the title and above the status panel, including on `source: manual` pages; it is not stored in the editable Markdown body. Change source XML to correct that introduction. An authored signature in prose cannot replace generated facts.
 
 | Marker or state | Next synchronization |
 | --- | --- |
@@ -117,9 +117,25 @@ A status panel appears above required contracts:
 
 Verified describes editorial ownership and review state; it does not certify the explanation's semantic correctness. Editorial gaps remain non-blocking warnings. Source provenance remains directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
 
-For XML-managed pages, the source summary appears directly below the title. XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment; they are not appended to a generated signature. The website preserves their section headings, and exact symbol queries include the summary and these sections. Project, API family and Scope appear immediately above inheritance. No generic explanation is substituted for the author's source comments.
+XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment, using `##` headings at the same level as Declaration. An API with only a summary can have an empty Markdown body. With `source: manual`, you can replace or remove these body sections; synchronization preserves your body while the summary and declaration continue to follow source facts. The website and exact symbol queries include both the generated summary and the editable body. Project, API family and Scope appear immediately above inheritance.
 
 Sidebar groups start collapsed. Top-level headings only expand or collapse and use chevrons. Deeper groups use square plus/minus controls; a linked category name opens its own page independently. Full-row highlights and animated width changes preserve readable labels up to half the desktop viewport. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
+
+## Maintain required contract links
+
+The editable `contracts` list identifies prerequisites the reader must understand before using the API. Values are stable page identities with an optional section anchor, not filenames or source signatures. The composer exposes them under **Required contracts**. Member pages also receive their declaring type's contracts.
+
+For example, `InspectorCondition` references:
+
+```yaml
+contracts:
+- api.projects.inno-editor-annotations#loading-and-script-availability
+- manual.scripting.use-script-api
+```
+
+The first link explains annotation loading and script availability; the second explains the script API model. Keep both while those prerequisites apply. If a new conditional Inspector guide becomes authoritative, add its actual registered page identity. If a guide moves or its section is renamed, update the identity or anchor. Do not remove a necessary ownership, lifetime or availability constraint merely to shorten the page. Missing destinations and invalid anchors fail documentation validation.
+
+These associations remain editable for both XML-managed and manual explanations. Editing them does not transfer prose ownership: leave `source: xml` when you only maintain links.
 
 ## Interpret the checks
 

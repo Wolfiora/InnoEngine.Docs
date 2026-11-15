@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Owns an immutable compiler map; the common lowering algorithm never switches on concrete node identities.

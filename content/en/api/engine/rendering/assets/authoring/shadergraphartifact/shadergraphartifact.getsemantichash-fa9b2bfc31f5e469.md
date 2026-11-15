@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Fingerprints semantic graph records and every frozen source dependency, excluding node positions and reserved Editor metadata.
-
 ## Parameters
 
 **Parameter `bytes`:** Committed graph authoring artifact.

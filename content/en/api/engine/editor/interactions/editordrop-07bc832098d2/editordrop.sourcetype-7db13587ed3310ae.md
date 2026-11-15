@@ -13,5 +13,3 @@ reviewed: 56a3c1ad55d5a6c2d4bece96183dd077816f0ce41023aa09281c755646c3803c
 source: xml
 outdated: false
 ---
-
-Gets the accepted drag source type.

@@ -13,5 +13,3 @@ reviewed: f723374616ca54dbceaca3cc24d2492cee2b8b49b052f3fd60c09f879b266449
 source: xml
 outdated: false
 ---
-
-Gets the stable interface or region-parameter identity, only for Input or RegionInput.

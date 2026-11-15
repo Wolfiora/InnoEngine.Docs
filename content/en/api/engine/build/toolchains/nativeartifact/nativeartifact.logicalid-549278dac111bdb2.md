@@ -13,5 +13,3 @@ reviewed: 48d41741c3853c53c80a20fdeeb100a872bbdae8c1de1dc5026858111de9baf3
 source: xml
 outdated: false
 ---
-
-Gets the producer-owned output identity.

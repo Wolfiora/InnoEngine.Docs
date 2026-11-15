@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Supplies typed stage semantics and frozen source modules to a target compiler.
-
 ## Parameters
 
 **Parameter `stage`:** Typed stage with target-assigned interface/resource locations.

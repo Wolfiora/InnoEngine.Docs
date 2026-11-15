@@ -13,5 +13,3 @@ reviewed: ba99bc0decf51a77256c7caf1ef82be2dfd215660cd4f81bad15262cf9d890ab
 source: xml
 outdated: false
 ---
-
-Gets the single source artifact compiled for this imported texture.

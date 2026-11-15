@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Can serialize, deserialize, and allow runtime get/set.

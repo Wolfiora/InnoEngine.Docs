@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the minimum visible width retained for either resizable content pane while its splitter is dragged.

@@ -13,5 +13,3 @@ reviewed: 02e5eb32214d599b05bd4ee7b70e257866a7e19711bee70b38d76eefdd62f1e8
 source: xml
 outdated: false
 ---
-
-Gets the component's artifact path segment.

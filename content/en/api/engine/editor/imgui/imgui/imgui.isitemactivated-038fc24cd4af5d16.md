@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks the first frame of the last control interaction.
-
 ## Returns
 
 True when the documented control event or condition is present; otherwise false.

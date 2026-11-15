@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets a symmetric interaction pair.
-
 ## Parameters
 
 **Parameter `first`:** The first layer.

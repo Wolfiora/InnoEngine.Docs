@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and reflection-validates a graphics pipeline at a frame safety point.
-
 ## Parameters
 
 **Parameter `descriptor`:** Compiled stages, interface, layout and raster state.

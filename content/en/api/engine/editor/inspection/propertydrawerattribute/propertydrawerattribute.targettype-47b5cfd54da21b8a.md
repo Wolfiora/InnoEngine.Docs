@@ -13,5 +13,3 @@ reviewed: 12526482daabee222ae7ae166745e76c31457f1e3de7276d5288dd16226d456c
 source: xml
 outdated: false
 ---
-
-Gets the declared property type handled by the drawer.

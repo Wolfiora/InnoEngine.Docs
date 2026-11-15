@@ -13,5 +13,3 @@ reviewed: cce44a35da7b2b782c09dfae59bfc95213e57017f93d61df49aa7296bb859176
 source: xml
 outdated: false
 ---
-
-Selects the slider grab presentation behavior.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Default if BordersOuterV is off. Disable outermost padding.

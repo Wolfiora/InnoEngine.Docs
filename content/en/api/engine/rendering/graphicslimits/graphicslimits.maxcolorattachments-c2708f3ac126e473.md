@@ -13,5 +13,3 @@ reviewed: dcb263467ab0137f7d7859df27d2eab327cf0bc6ea934a0c7a8c90abb743851b
 source: xml
 outdated: false
 ---
-
-Gets the maximum color attachments in one raster pass.

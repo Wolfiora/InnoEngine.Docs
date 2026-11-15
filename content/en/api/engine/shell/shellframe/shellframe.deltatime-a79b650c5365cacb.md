@@ -13,5 +13,3 @@ reviewed: e144a804cfe5c9d733755beed468e59e410d3f0354de24a4975c82ec2bb707fe
 source: xml
 outdated: false
 ---
-
-Gets non-negative elapsed time since the previous frame in seconds.

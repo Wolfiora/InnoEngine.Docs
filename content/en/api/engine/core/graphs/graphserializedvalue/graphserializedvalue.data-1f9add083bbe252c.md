@@ -13,5 +13,3 @@ reviewed: e29caf9ae142953973ddefa0325780ffa88b2b30680b1e650efa2490a648a720
 source: xml
 outdated: false
 ---
-
-Gets an immutable view of the native serialized value.

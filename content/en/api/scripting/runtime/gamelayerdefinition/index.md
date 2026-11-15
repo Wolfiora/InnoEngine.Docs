@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Describes one named layer slot in a `T:InnoEngine.Scene.GameLayerCatalog` snapshot.

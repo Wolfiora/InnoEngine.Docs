@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a pointer button was newly released this frame.
-
 ## Parameters
 
 **Parameter `button`:** The backend-neutral pointer button.

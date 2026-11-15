@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Refreshes this registry from the currently active type snapshot.
-
 ## Remarks
 
 Each refresh iteration is a complete transaction. If the active type snapshot changes during activation, convergence runs as a separate transaction after the completed transaction returns.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and validates a caller-owned from axis angle value.
-
 ## Parameters
 
 **Parameter `axis`:** The axis consumed by create from axis angle; ownership remains with the caller unless explicitly stated otherwise.

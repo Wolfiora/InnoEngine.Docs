@@ -13,5 +13,3 @@ reviewed: 64ef3a9ccb3ef4d7e475629cd7fcfa21c23dd7d0b5d0196578c984d098b15f10
 source: xml
 outdated: false
 ---
-
-Gets the base mip depth for a three-dimensional texture.

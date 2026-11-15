@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds a texture subresource for shader storage access.
-
 ## Parameters
 
 **Parameter `binding`:** Stable shader binding declared by the selected pipeline.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets a string property, or a fallback when the property is absent or null.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

@@ -13,5 +13,3 @@ reviewed: 1c670ebb7cb6cd938cb68184627adf23dbc32b144a52238fe021fe48a9bea556
 source: xml
 outdated: false
 ---
-
-Gets unique encoded bytes retained until all requesting roots complete, fail or cancel.

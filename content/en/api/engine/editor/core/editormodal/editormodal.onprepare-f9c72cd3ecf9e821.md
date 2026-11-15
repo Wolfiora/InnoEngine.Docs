@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the state consumed by OnDraw and measures it without drawing or performing domain operations. Content-sized modals must return a finite, nonnegative size. Fixed-size modals may return null.
-
 ## Parameters
 
 **Parameter `context`:** The current owner-thread context.

@@ -13,5 +13,3 @@ reviewed: 34137925779c312148d449aa7a3895bba2fdd30af082f5d00c214bb631dcd850
 source: xml
 outdated: false
 ---
-
-Uses a parallel projection controlled by an orthographic half-height.

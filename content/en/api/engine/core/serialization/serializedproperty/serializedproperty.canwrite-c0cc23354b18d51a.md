@@ -13,5 +13,3 @@ reviewed: f4ba63ae7b018c91682ae6be14b979b7e3c9e01c97f82d740bf787422a3fd3ef
 source: xml
 outdated: false
 ---
-
-Gets whether runtime callers may write this property.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a candidate count required by the implemented contract.
-
 ## Returns
 
 The scalar result calculated from the supplied inputs.

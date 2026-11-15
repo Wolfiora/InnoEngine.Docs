@@ -13,5 +13,3 @@ reviewed: 896d899d5e2fa801be746c7590ae2160b08b0072bdd6892c4805ce2c932207b8
 source: xml
 outdated: false
 ---
-
-Gets the active presentation-independent interaction entry point.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates shaping hints.
-
 ## Parameters
 
 **Parameter `direction`:** The logical text direction.

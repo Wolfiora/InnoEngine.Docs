@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets instructions in evaluation order, including source calls whose outputs are unused.

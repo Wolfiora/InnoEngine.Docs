@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies the current window's effective clip after parent and viewport clipping.
-
 ## Returns
 
 Screen-space minimum and maximum values for bounding frame-local submission work.

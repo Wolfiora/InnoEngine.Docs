@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Defines a member whose access is implemented by the selected metadata provider.
-
 ## Parameters
 
 **Parameter `name`:** The exact persistent key.

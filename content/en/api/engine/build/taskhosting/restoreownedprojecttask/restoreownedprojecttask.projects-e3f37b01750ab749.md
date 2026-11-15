@@ -13,5 +13,3 @@ reviewed: 273e03df86abab26c034121c3896e6ba8c62851c90f85b7e4816361567779fc0
 source: xml
 outdated: false
 ---
-
-Gets or sets projects with explicit AdditionalProperties and GlobalPropertiesToRemove metadata.

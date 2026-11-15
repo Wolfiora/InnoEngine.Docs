@@ -13,5 +13,3 @@ reviewed: c0398c6487a2104fbc2632251347f81dcc62b40ee946c4dfd73975f2940e954d
 source: xml
 outdated: false
 ---
-
-Gets non-owning information about active managed and external modules.

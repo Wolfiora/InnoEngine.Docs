@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two runtime identities are different.
-
 ## Parameters
 
 **Parameter `left`:** The first runtime identity.

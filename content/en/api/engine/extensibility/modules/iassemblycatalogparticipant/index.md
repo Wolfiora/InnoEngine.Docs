@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Builds transactional derived state for an assembly catalog generation.

@@ -13,5 +13,3 @@ reviewed: b674217d0ef7bb1395650ba3217e355ae1ad73f7a3b49837f8f08cd138421712
 source: xml
 outdated: false
 ---
-
-Gets the dimmed tab color.

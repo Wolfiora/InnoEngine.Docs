@@ -13,5 +13,3 @@ reviewed: 2936650326332218d577c2cd20559c1eaaac2aeace855787700a3509e2efe42e
 source: xml
 outdated: false
 ---
-
-Gets whether a previous artifact was preserved.

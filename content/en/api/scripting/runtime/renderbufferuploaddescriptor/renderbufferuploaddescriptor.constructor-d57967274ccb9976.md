@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame upload descriptor.
-
 ## Parameters
 
 **Parameter `elementStride`:** Element size in bytes.

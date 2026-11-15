@@ -13,5 +13,3 @@ reviewed: 993313b1537bc005b9fb1cbb26b52cf1d2b5a1edd00148baa389be39bde22bbd
 source: xml
 outdated: false
 ---
-
-A regular imported source file.

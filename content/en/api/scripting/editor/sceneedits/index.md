@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-scene
 aliases: []
 ---
-
-Applies scene-document mutations and records compact, reload-safe inverse data in editor history.

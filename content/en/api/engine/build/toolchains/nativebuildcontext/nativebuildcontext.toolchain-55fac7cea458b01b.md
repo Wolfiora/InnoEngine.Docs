@@ -13,5 +13,3 @@ reviewed: cae3698e5af3f7dfc9e087082cf6969b09636ec41386357860de9a5114374af3
 source: xml
 outdated: false
 ---
-
-Gets the explicit frozen target compiler and SDK selection, or null before composition resolves it. Browser toolchains resolve their own workload-specific SDK independently.

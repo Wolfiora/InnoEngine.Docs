@@ -13,5 +13,3 @@ reviewed: a5ff15b2fd086ef45210579bcf0aea76bfd779533171213e42da3bef3ccd539b
 source: xml
 outdated: false
 ---
-
-Gets immutable tightly packed premultiplied RGBA8 pixels.

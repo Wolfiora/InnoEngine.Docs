@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recreates one scene system without invoking Reset and restores its persistent properties.
-
 ## Parameters
 
 **Parameter `scene`:** The live loaded scene that will own the system.

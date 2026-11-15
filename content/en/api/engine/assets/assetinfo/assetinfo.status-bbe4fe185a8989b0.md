@@ -13,5 +13,3 @@ reviewed: 908f0176249114127a0a0e3702d3f44c41ab20ed72b0125ef045a0eb5003d868
 source: xml
 outdated: false
 ---
-
-Gets the current import status.

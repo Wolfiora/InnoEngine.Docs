@@ -13,5 +13,3 @@ reviewed: 37c7cab1748bfd7792a7fd950338dfdc35940aa6577f6c738272daccbbc2e62b
 source: xml
 outdated: false
 ---
-
-Identifies the NamedKeyBegin presentation key or modifier.

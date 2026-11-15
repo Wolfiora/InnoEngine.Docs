@@ -13,5 +13,3 @@ reviewed: 2efe1e1474e628c4e22142793a31cc1f0f95c5b0102cb7020355339dbdbeeabf
 source: xml
 outdated: false
 ---
-
-Gets the independently declared native target of build tools executed by this host.

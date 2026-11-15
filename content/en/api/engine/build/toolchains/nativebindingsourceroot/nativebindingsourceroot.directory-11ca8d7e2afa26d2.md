@@ -13,5 +13,3 @@ reviewed: 74d132e396d61d424af1e545f10d1841846c1df69ac58b72f868fef39ec11142
 source: xml
 outdated: false
 ---
-
-The checkout-relative or absolute external location; empty for generated output.

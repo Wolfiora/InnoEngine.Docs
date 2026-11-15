@@ -13,5 +13,3 @@ reviewed: 4f760e3986d4799acae224f99d46f7a3a5077fc78f639688e2aad395af9407bf
 source: xml
 outdated: false
 ---
-
-The K letter key.

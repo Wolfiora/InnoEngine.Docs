@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Appends one processor to an existing bus chain.
-
 ## Parameters
 
 **Parameter `bus`:** Existing bus identifier.

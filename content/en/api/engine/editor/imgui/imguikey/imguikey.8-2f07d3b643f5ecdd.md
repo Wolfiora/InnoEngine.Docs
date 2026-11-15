@@ -13,5 +13,3 @@ reviewed: f63589cccd5744bbd11fb1cc9f5653cfaf9e9b04313fcbc655e471fdbb873920
 source: xml
 outdated: false
 ---
-
-Identifies the \_8 presentation key or modifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a catalog snapshot by persistent identity.
-
 ## Parameters
 
 **Parameter `persistentId`:** The stable persistent identity used for lookup.

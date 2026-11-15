@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the previous item was clicked with a mouse button.
-
 ## Parameters
 
 **Parameter `button`:** The mouse button to query.

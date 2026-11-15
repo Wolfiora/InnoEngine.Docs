@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances backend maintenance at a main-thread safety point.
-
 ## Parameters
 
 **Parameter `deltaTime`:** Non-negative elapsed frame time in seconds.

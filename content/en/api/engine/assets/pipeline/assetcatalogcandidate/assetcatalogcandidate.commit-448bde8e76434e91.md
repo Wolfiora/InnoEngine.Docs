@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Publishes staged source metadata and atomically promotes the validated catalog, compensating metadata on failure.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the candidate has already been committed or disposed.

@@ -13,5 +13,3 @@ reviewed: 93bb7bd9851c43e8c34203fa28f818504dd44acd1e1d049a14dc390fcfde7a6b
 source: xml
 outdated: false
 ---
-
-Gets the monotonic revision of the captured Console state.

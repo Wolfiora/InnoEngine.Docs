@@ -13,5 +13,3 @@ reviewed: 0c4e3d6fe245229d0430adf18ea3f64cba66e3c72a922cf91fc75ff599f9fde4
 source: xml
 outdated: false
 ---
-
-Gets or sets the Target-owned role for a domain output.

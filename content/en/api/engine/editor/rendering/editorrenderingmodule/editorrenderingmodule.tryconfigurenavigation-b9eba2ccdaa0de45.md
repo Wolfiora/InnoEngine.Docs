@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries the selected controller's navigation contract before viewport input is processed.
-
 ## Parameters
 
 **Parameter `kind`:** Open viewport purpose.

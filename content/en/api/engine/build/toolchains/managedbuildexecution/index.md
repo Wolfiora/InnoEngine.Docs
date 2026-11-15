@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Owns a reusable, exclusively leased source workspace containing verified copies of an operation's inputs.

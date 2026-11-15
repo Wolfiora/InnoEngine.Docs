@@ -13,5 +13,3 @@ reviewed: c6c9104a0b9a74ffbac041cf4b8cf70061a7dfff57ad1855aea32bcef63e50f8
 source: xml
 outdated: false
 ---
-
-Whether source files must be copied before compilation.

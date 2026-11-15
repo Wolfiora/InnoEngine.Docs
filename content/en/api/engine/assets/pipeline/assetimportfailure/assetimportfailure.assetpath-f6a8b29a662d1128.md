@@ -13,5 +13,3 @@ reviewed: 7173ec01238d75257bca111c3c4349564edb41645345e5617417be24dd3427c6
 source: xml
 outdated: false
 ---
-
-The isolated path of the source that failed to import.

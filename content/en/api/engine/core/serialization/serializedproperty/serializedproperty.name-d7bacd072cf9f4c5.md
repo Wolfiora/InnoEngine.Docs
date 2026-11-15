@@ -13,5 +13,3 @@ reviewed: 78535db79b0b43949c1d45d2818c7d9288b2f4a23c7abb966e3ddf5d1a33a745
 source: xml
 outdated: false
 ---
-
-Gets the display and serialization key name.

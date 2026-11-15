@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the original resolver's frozen include edges, including aliases and mounted source paths.

@@ -13,5 +13,3 @@ reviewed: a97a627b72163d2952a327b4f64c8518845a4c7a2f527c7d438e62da9ccbcda6
 source: xml
 outdated: false
 ---
-
-Maintains key ordering using the supplied comparer.

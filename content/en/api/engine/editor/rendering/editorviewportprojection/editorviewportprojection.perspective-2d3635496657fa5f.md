@@ -13,5 +13,3 @@ reviewed: 65cd74193c9ea4c482d1d1e08b206bb488c845c45bd3f16f208b28ef0a688e34
 source: xml
 outdated: false
 ---
-
-Uses a perspective projection controlled by a vertical field of view.

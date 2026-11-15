@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether this gesture still owns an active transaction, including a rejected completion.

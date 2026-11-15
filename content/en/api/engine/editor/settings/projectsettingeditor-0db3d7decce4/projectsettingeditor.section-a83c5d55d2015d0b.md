@@ -13,5 +13,3 @@ reviewed: 58a403ebfbaf9517a7367c4aef326a473fe00fc363beb2bbf4ef027e9ba463d3
 source: xml
 outdated: false
 ---
-
-Gets the section heading used to group this field.

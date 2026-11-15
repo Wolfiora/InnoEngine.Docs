@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 aliases: []
 ---
-
-Supplies a source with the frozen dependencies and retirement boundary of one candidate generation.

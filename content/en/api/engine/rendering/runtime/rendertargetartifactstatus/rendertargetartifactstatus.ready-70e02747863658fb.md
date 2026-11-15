@@ -13,5 +13,3 @@ reviewed: 06ecf860e3248a8229300b773099c3477b5e9d5415242c35b5d81dbf68bb4f60
 source: xml
 outdated: false
 ---
-
-A validated artifact is available for immediate use.

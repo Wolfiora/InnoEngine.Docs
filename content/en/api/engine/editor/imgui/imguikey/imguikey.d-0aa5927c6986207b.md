@@ -13,5 +13,3 @@ reviewed: 0eec1d4366580f730cdba88638623b27848f1aed04d7ba0d65d4660bd301682c
 source: xml
 outdated: false
 ---
-
-Identifies the D presentation key or modifier.

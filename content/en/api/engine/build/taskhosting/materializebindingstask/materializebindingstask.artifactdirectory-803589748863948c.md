@@ -13,5 +13,3 @@ reviewed: e8e95911f8091110b5958ed61d93622f66bea60a13150d4645ab23f35c59665a
 source: xml
 outdated: false
 ---
-
-Gets or sets the immutable artifact root; empty denotes mutable host-source publication.

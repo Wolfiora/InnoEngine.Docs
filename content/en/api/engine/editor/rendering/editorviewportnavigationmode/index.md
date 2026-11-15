@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Identifies the active interaction model without prescribing a rendering camera type.

@@ -13,5 +13,3 @@ reviewed: 32f0caeba286282933327b61f6010227e664d97c1ed86c9fb4d0dd8db7651fac
 source: xml
 outdated: false
 ---
-
-The assembly is available only to editor consumers.

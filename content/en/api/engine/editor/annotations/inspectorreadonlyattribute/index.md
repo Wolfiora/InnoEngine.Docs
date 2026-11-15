@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---
-
-Makes an otherwise writable serialized property read-only in the Inspector.

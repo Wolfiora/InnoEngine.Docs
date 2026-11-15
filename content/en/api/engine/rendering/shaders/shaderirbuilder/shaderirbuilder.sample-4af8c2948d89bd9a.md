@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Samples a texture using implicit derivatives; the enclosing stage must be Fragment.
-
 ## Parameters
 
 **Parameter `texture`:** A sampled 2D, 2D-array, 3D or cube texture.

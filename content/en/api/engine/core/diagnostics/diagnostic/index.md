@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Represents one current issue reported by a compiler, importer, validator, or other diagnostic producer.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Supplies neutral authoring data to a domain target without exposing an adapter or live asset.

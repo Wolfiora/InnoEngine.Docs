@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a pass and only computations whose final referencing pass was removed.
-
 ## Parameters
 
 **Parameter `graph`:** Source document, never modified.

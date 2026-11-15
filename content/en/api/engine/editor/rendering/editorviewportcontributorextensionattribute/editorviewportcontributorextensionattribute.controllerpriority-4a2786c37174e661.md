@@ -13,5 +13,3 @@ reviewed: b3e75a3bbbbbf3d5d7e9234d8d5bbf12b704758de80302205aa3b470ba186c61
 source: xml
 outdated: false
 ---
-
-Gets the priority used to select the viewport interaction controller.

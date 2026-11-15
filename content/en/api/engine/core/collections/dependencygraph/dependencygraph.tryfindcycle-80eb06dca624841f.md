@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to find one complete cycle in the graph.
-
 ## Parameters
 
 **Parameter `cycle`:** A closed cycle whose first and last nodes are equal, or an empty list when acyclic.

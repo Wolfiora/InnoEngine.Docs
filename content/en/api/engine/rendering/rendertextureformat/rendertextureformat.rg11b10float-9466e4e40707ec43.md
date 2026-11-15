@@ -13,5 +13,3 @@ reviewed: 6c763e877178bf21af78000c199da5bd7faa861717de1caade603e1b3e947074
 source: xml
 outdated: false
 ---
-
-Eleven-bit RGB floating-point format.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Resolves paths while enforcing an explicit filesystem ownership boundary.
-
 ## Remarks
 
 Ownership uses ordinal spelling on every filesystem, including case-insensitive volumes. Callers must retain the root's spelling when constructing child paths. Case aliases are deliberately rejected: operating-system identity does not determine volume case semantics.

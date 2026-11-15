@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a frozen game deployment using explicitly supplied host services.
-
 ## Parameters
 
 **Parameter `options`:** The prepared content and platform service composition.

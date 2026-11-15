@@ -13,5 +13,3 @@ reviewed: 7e30b7eed05454deebfe5e60735d8254c0eddd76b771fe8046494bcd4d92eb4c
 source: xml
 outdated: false
 ---
-
-Gets the physical source container kind.

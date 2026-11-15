@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compares a boxed destination with this value.
-
 ## Parameters
 
 **Parameter `obj`:** The value to compare.

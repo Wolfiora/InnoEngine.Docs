@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph value from one complete native serialization payload.
-
 ## Parameters
 
 **Parameter `data`:** Bytes produced by the common Inno serialization pipeline.

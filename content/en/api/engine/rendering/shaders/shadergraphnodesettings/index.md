@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores graph-level identity and catalog metadata for a reusable Shader node.

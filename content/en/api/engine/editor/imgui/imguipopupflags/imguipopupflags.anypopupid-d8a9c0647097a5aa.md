@@ -13,5 +13,3 @@ reviewed: a9f21b152f2c9e9fb4d43de591684d4f67070890d90c3ce18c812a85efed8b38
 source: xml
 outdated: false
 ---
-
-For IsPopupOpen(): ignore the ImGuiID parameter and test for any popup.

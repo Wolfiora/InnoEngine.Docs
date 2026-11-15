@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers an encoded font face in the document engine.
-
 ## Parameters
 
 **Parameter `registration`:** Font bytes and family metadata to register.

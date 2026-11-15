@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prefixes pass and resource diagnostic names until the returned scope is disposed.
-
 ## Parameters
 
 **Parameter `name`:** Non-empty scope segment.

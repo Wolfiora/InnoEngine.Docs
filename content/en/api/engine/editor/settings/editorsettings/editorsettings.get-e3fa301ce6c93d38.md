@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads an isolated effective object from one complete Settings path.
-
 ## Parameters
 
 **Parameter `path`:** The slash-delimited Settings field path.

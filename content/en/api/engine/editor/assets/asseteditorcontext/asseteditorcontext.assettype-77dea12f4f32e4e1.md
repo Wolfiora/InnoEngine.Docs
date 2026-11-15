@@ -13,5 +13,3 @@ reviewed: ec4541f2c8ca3659ef6791e46ca58e14f5e6de9e3ba6b5225bb0040ae24c7bf3
 source: xml
 outdated: false
 ---
-
-Gets the resolved imported asset type when available.

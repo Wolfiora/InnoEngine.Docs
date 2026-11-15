@@ -13,5 +13,3 @@ reviewed: ccff7949e869b7e41b44f668f88b3d8ff9062f53726f977ea6b93259e6af3f03
 source: xml
 outdated: false
 ---
-
-Gets the configured wait time in seconds.

@@ -13,5 +13,3 @@ reviewed: f1579e7c5feee302751b5375b74587b80b7b458f79f599ee10899807ebca591a
 source: xml
 outdated: false
 ---
-
-Selects the nav cursor presentation behavior.

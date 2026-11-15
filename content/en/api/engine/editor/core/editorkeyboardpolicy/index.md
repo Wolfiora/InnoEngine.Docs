@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Supplies immutable keyboard conventions selected by the Editor product composition.

@@ -13,5 +13,3 @@ reviewed: d2944322c34d581c69d5d6cf2a9073b7aeaf2cfb9b29d7f0aa797d1058c7024d
 source: xml
 outdated: false
 ---
-
-Three-by-three 32-bit floating-point matrix.

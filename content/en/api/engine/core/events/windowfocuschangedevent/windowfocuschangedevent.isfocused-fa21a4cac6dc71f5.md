@@ -13,5 +13,3 @@ reviewed: a58f0a006264059267808c57a2ec41bd51c8adfd5ac90f38f32f2d15abfcc2ec
 source: xml
 outdated: false
 ---
-
-Gets whether the window has input focus after the change.

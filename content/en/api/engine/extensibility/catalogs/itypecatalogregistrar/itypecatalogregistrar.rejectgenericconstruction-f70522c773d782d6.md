@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a construction whose argument set was rejected by the declaration's compile-time constraints.
-
 ## Parameters
 
 **Parameter `definition`:** The generic declaration contributed by the completed catalog.

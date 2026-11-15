@@ -13,5 +13,3 @@ reviewed: 804140a33231c79852ed9450b0705fd66c868228f543dd5743bf21c9f2ea8e49
 source: xml
 outdated: false
 ---
-
-Selects the border shadow presentation behavior.

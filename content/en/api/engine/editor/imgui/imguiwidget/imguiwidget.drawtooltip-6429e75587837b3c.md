@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws the standard viewport-clamped tooltip when a custom-drawn canvas element is hovered.
-
 ## Parameters
 
 **Parameter `text`:** Tooltip contents. The caller owns hit testing; empty text draws nothing.

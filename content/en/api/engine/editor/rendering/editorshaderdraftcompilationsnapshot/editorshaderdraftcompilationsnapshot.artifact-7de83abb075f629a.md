@@ -13,5 +13,3 @@ reviewed: 080dab860e702cc3491510fd4a79126c3accc8e850b7f42eea7618ff9ac6e985
 source: xml
 outdated: false
 ---
-
-Preview-only complete shader candidate, or null before the first success.

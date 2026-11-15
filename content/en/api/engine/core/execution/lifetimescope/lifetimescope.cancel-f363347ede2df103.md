@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops new registrations and invokes cancellation callbacks on the calling thread.
-
 ## Remarks
 
 Callbacks must return promptly. Dependent resources remain owned while cancellation callbacks execute, including when another thread attempts disposal. A callback reporting pending work permanently blocks release.

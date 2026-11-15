@@ -13,5 +13,3 @@ reviewed: a553956e78678a6c1df1cdd9eec22b9b761b9c578dc4305b7feaed85288b0774
 source: xml
 outdated: false
 ---
-
-Gets or sets whether panel is visible.

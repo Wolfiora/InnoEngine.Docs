@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Reports one Plugin discovery, validation, or dependency problem.

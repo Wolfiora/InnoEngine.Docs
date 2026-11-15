@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the parent while preserving this transform's world-space values.
-
 ## Parameters
 
 **Parameter `parent`:** New parent, or `null` to move to scene level.

@@ -13,5 +13,3 @@ reviewed: 0f97d99a80d911bade97aa8f364ded4bf0074a63214aa313e45f1a37ef27a13f
 source: xml
 outdated: false
 ---
-
-Identifies the F14 presentation key or modifier.

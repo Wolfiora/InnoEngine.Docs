@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits for exclusive ownership without blocking an owner thread or changing shared data.
-
 ## Parameters
 
 **Parameter `path`:** The absolute lease file path; all participants must use the same persistent path.

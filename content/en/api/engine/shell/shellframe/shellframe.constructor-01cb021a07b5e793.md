@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one validated shell frame.
-
 ## Parameters
 
 **Parameter `frameIndex`:** Zero-based shell frame index.

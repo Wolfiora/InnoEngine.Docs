@@ -13,5 +13,3 @@ reviewed: 8d7f4587f69f2066b79adee44ed48c82a08299ef3f84bef885ea36b24c08e4e7
 source: xml
 outdated: false
 ---
-
-Gets or sets whether blending is enabled.

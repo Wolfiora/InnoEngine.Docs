@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the source draft for a canonical Material identity.
-
 ## Parameters
 
 **Parameter `material`:** The current canonical Material whose source is edited.

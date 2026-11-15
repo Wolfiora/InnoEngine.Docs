@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Serializes a complete serializable root object into deterministic binary data.
-
 ## Type parameters
 
 **Type parameter `T`:** The declared concrete root type.

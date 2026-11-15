@@ -13,5 +13,3 @@ reviewed: 3e41c25d5f4ad177dfc64613dd397eb723ac8f73a1401a61828942951239b1e8
 source: xml
 outdated: false
 ---
-
-Gets the generation-local action argument consumed by a presentation backend.

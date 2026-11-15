@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Contains one atomically captured sample import status.
-
 ## Parameters
 
 **Parameter `operationId`:** The import identity within its owner.

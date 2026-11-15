@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Encapsulates one editable property path and its drawing services.

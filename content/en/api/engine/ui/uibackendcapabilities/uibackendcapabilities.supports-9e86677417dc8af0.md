@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an exact source language is supported.
-
 ## Parameters
 
 **Parameter `language`:** Language to test.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects a vertex buffer and its first vertex for subsequent draws.
-
 ## Parameters
 
 **Parameter `buffer`:** Persistent buffer owned by the current device generation.

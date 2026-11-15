@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Compiles source-free runtime content independently of application packaging.

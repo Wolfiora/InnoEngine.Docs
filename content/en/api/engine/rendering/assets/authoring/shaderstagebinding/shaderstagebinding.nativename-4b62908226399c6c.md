@@ -13,5 +13,3 @@ reviewed: d73b49a7edf2c30c7c360941046cea3d3214c4d5f7718e6b21d43df7432bba3f
 source: xml
 outdated: false
 ---
-
-Generated name used for reflection and runtime uniform binding.

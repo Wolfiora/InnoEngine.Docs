@@ -13,5 +13,3 @@ reviewed: 29c6cbd68b8511003781d0afb9050d839f43688b2e7df92646a8ddb848641280
 source: xml
 outdated: false
 ---
-
-Gets the default normalized position of the asset list name/type separator.

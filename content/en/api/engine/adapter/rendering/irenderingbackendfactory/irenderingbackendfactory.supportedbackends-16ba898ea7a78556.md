@@ -13,5 +13,3 @@ reviewed: dee3b539a3f402292c9e445e4729274cff9154d7ee313d0d617159e4bb77cb8e
 source: xml
 outdated: false
 ---
-
-Gets the exact runtime backend identities available in this composition generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a right-handed, perspective projection matrix (depth range 0..1).
-
 ## Parameters
 
 **Parameter `fov`:** The fov consumed by create perspective field of view rh; ownership remains with the caller unless explicitly stated otherwise.

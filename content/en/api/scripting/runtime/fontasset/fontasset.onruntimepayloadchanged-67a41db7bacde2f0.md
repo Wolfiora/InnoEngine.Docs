@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Refreshes imported metadata after an artifact commit.
-
 ## Parameters
 
 **Parameter `previousPayload`:** The previous compact runtime payload.

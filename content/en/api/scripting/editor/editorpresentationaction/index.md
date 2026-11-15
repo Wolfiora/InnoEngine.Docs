@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Defines a target action with a typed presentation-only argument.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The target type accepted by the action.

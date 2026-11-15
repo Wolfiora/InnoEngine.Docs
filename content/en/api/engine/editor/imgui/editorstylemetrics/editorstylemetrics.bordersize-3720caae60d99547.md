@@ -13,5 +13,3 @@ reviewed: e94d5d6bf6f1f4c2ba60e90b61c1ed2f35784e00807457386d516073099456b3
 source: xml
 outdated: false
 ---
-
-Gets standard border thickness.

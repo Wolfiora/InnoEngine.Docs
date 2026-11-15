@@ -13,5 +13,3 @@ reviewed: fcd94596e4ddf5ba5b99478c77838867a7e73df023b280cd0f5b59b39110b072
 source: xml
 outdated: false
 ---
-
-Secondary texture coordinate.

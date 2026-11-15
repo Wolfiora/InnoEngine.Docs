@@ -13,5 +13,3 @@ reviewed: 7f47ea8b827be6f71f9ec973fd0ed5607439aeaf5b49653669cc0f09e374d291
 source: xml
 outdated: false
 ---
-
-Gets the exact registered cache root; its parent directories are never managed implicitly.

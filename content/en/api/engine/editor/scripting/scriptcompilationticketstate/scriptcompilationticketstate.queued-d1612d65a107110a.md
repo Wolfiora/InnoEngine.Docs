@@ -13,5 +13,3 @@ reviewed: e93e3713652e675bd2a6538e7b596f5064ffaa7d1ff2dffa73d0186e54b612e9
 source: xml
 outdated: false
 ---
-
-The request is queued behind the active compiler operation.

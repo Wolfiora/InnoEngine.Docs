@@ -13,5 +13,3 @@ reviewed: b3f70705938b4adfad7e66b087e5b56f31ce9676b303e3abcef8c454cc19c9c1
 source: xml
 outdated: false
 ---
-
-Gets the recorded draw count.

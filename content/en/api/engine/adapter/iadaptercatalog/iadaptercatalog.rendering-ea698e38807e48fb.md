@@ -13,5 +13,3 @@ reviewed: 8f64bba686d05602c601139baf82b743c760e03c4d31111fb69124a1feb2dcc9
 source: xml
 outdated: false
 ---
-
-Gets the rendering backend factory.

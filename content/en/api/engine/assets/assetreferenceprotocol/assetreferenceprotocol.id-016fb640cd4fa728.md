@@ -13,5 +13,3 @@ reviewed: bd521955fd5c013d64a671a8226586556bd591550d3b37f5ce37a312bc52f40f
 source: xml
 outdated: false
 ---
-
-Gets the stable asset reference kind registered in shared reference catalogs.

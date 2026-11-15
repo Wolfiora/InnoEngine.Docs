@@ -13,5 +13,3 @@ reviewed: a171aca8ea696ec8856ae367e4fdf24ca26ba25e556c655a8c50816d6bf3eebe
 source: xml
 outdated: false
 ---
-
-The voice is waiting for clip preparation.

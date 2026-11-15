@@ -13,5 +13,3 @@ reviewed: d534fbbfb3c50927d6cb815da7bc8cd9a27100dc108e9c80ccf270ab9e9c361d
 source: xml
 outdated: false
 ---
-
-Gets the collected dependencies in deterministic persistent-identity order.

@@ -13,5 +13,3 @@ reviewed: 19a36f1fa1c03b0ea97866fe9b5101e0b2b2200e29863aa4c4b9743da6a038a0
 source: xml
 outdated: false
 ---
-
-Identifies the ReservedForModAlt presentation key or modifier.

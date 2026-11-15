@@ -13,5 +13,3 @@ reviewed: 34e549b133513c96a690e4615ba39977d2569700bef4be938e25ba78213e73aa
 source: xml
 outdated: false
 ---
-
-Shader-readable and writable unordered texture.

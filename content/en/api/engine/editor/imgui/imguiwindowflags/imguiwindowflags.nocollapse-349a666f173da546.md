@@ -13,5 +13,3 @@ reviewed: 78552945ccc293c172a02be28efd7fbfb718bd3fe5a7266b235599c63b183086
 source: xml
 outdated: false
 ---
-
-Disable user collapsing window by double-clicking on it. Also referred to as Window Menu Button (e.g. within a docking node).

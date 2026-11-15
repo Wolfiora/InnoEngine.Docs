@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes the complete descriptor.
-
 ## Returns
 
 An immutable type; contradictory or incomplete descriptors fail explicitly.

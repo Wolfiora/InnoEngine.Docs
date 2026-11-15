@@ -13,5 +13,3 @@ reviewed: dcf9629c8f954cb151ddde3f5947fde1298a78b460edb439810ad9cd0c3ef779
 source: xml
 outdated: false
 ---
-
-Gets native execution processes started through the context's frozen tool selection. SDK discovery and managed task bootstrapping are recorded by their separate build logs.

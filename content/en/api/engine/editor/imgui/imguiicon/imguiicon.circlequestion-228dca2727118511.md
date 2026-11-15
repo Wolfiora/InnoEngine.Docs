@@ -13,5 +13,3 @@ reviewed: 41d7c95720653718ca24d78810c69416ecc519a4a48a9634a05b50187c215fef
 source: xml
 outdated: false
 ---
-
-Gets the circle question glyph used by standard Editor controls.

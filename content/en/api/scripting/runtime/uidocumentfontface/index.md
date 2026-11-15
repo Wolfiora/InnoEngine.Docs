@@ -18,5 +18,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Identifies one imported font face owned by a single UI document.

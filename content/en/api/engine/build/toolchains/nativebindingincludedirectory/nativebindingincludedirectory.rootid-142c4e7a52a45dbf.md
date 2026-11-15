@@ -13,5 +13,3 @@ reviewed: 2f1312fdfbca20f5bc840371c257e6b3d62d64d45e7547b36241f1a83a4554a7
 source: xml
 outdated: false
 ---
-
-The component-local input root.

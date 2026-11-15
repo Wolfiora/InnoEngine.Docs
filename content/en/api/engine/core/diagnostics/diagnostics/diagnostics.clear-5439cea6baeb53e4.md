@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears one diagnostic group owned by the calling type.
-
 ## Parameters
 
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type.

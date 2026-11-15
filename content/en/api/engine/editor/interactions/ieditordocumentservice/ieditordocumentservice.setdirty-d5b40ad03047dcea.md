@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates a document's unsaved state without saving, discarding or changing its History.
-
 ## Parameters
 
 **Parameter `documentId`:** Stable tab identity.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Renames a source atomically and records its reversible history payload.
-
 ## Parameters
 
 **Parameter `context`:** The immutable metadata captured for this immediate source operation.

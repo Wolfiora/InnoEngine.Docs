@@ -16,5 +16,3 @@ contracts:
 - project.inno-shell
 aliases: []
 ---
-
-Describes the observable lifetime of one owner-thread composition shell.

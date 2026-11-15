@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a path belongs to an authoring-only sample subtree that must not enter a Player runtime closure.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path to inspect.

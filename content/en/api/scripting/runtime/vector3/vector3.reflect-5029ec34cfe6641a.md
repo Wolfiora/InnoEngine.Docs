@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reflects an incident value across the supplied normal.
-
 ## Parameters
 
 **Parameter `dir`:** The dir consumed by reflect; ownership remains with the caller unless explicitly stated otherwise.

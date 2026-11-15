@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reference-resolution result.
-
 ## Parameters
 
 **Parameter `descriptor`:** The persistent descriptor that was resolved.

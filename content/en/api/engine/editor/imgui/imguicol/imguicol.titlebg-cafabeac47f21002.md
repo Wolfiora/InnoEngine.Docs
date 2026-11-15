@@ -13,5 +13,3 @@ reviewed: d4749f6436b4c2d913eb2ddc38d54b9c6405d6b31976073c20f71f2b0e2a1712
 source: xml
 outdated: false
 ---
-
-Selects the title bg presentation behavior.

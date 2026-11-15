@@ -13,5 +13,3 @@ reviewed: b435ce79175a9b5d1f6cfbc2917e5cc47bf5101aed5c8c8440d7bc3fd8ed52db
 source: xml
 outdated: false
 ---
-
-Callback on pressing Up/Down arrows (for history handling)

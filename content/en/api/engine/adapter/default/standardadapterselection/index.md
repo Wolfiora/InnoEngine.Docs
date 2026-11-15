@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-default
 aliases: []
 ---
-
-Explicitly selects the shared backends shipped by the standard runtime composition.

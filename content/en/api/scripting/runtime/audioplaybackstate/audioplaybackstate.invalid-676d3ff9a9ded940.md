@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The handle is invalid, stale, or unknown to the active runtime.

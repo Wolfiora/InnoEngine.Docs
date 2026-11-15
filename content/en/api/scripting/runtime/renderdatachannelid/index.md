@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies one pipeline-owned frame-data channel without constraining its payload model.

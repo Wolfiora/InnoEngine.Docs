@@ -13,5 +13,3 @@ reviewed: 76da1cfbb4afb149401b928752969ce9500238bef3a9cfd2dad6653c59764d98
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the property control is read-only in the Inspector.

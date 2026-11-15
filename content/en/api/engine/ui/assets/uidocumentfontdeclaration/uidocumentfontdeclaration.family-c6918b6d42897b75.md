@@ -13,5 +13,3 @@ reviewed: 4697fcb992d7e1b4013d3c451f7ebd6499d7e7fcf92f17c612c022f31a1e1861
 source: xml
 outdated: false
 ---
-
-Document-private physical family used in canonical text.

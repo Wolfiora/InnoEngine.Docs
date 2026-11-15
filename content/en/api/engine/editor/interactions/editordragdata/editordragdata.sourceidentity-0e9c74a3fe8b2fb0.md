@@ -13,5 +13,3 @@ reviewed: 4876276901b278b3ffd22b8f04d09bad3cb33fe0d87b03c2efdef550e66852c4
 source: xml
 outdated: false
 ---
-
-Gets the domain-qualified transient identity written to the native drag protocol.

@@ -13,5 +13,3 @@ reviewed: 3af037b4bb2f96895d3a7746821a180deaf12c7a13fbc6f47b6f33c257508434
 source: xml
 outdated: false
 ---
-
-The expected byte length.

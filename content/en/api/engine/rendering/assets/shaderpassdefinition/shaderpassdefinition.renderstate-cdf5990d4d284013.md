@@ -13,5 +13,3 @@ reviewed: 9714f272a4c7fb21c25759e22b354a987113192d5679c885663f880edac488f7
 source: xml
 outdated: false
 ---
-
-Gets or sets backend-neutral fixed-function state.

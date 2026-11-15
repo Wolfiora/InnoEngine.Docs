@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an equality condition.
-
 ## Parameters
 
 **Parameter `memberName`:** Sibling field or property name.

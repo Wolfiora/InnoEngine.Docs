@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds and validates the requested artifact asynchronously before publishing it.
-
 ## Parameters
 
 **Parameter `definition`:** The build definition asset.

@@ -13,5 +13,3 @@ reviewed: 4f37d9f3b46575dc9d32bed751524c4f36753948738f7de2bbbbf8d33570705d
 source: xml
 outdated: false
 ---
-
-Gets the immutable target backend program bytes.

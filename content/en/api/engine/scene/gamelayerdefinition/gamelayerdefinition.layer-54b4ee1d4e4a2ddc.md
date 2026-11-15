@@ -13,5 +13,3 @@ reviewed: 09263bcf6c0d167fff61cce93821bbd897046496f068afddde1eba33d98ec776
 source: xml
 outdated: false
 ---
-
-Gets the layer slot represented by this definition.

@@ -13,5 +13,3 @@ reviewed: 047cccf728cf1032cb10679461f6aee6b3220bf87ebd631ef71575dfaeb6dccd
 source: xml
 outdated: false
 ---
-
-Gets the one-based source column, or zero when unavailable.

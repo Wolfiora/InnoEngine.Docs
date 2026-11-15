@@ -13,5 +13,3 @@ reviewed: 205419f2b1fa433aeaa6b6c6cddfdf0544c490a618bcecc8280f2475e9f03b64
 source: xml
 outdated: false
 ---
-
-Gets control corner radius.

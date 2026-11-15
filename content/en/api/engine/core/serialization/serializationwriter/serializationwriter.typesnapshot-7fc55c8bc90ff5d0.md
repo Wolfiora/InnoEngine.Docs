@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Borrows the immutable type snapshot pinned by this operation's converter generation.
-
 ## Remarks
 
 Use this snapshot for consistent type identities during a complete capture. It must not be retained beyond the writer's operation; keeping it would retain its collectible types after the converter lease is released.

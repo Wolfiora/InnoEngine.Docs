@@ -13,5 +13,3 @@ reviewed: cf8971f9d29c90b0a79313093b0042696b5e154c36d54f73b7f676ff8dcf0a21
 source: xml
 outdated: false
 ---
-
-Unloads the active scene when one exists.

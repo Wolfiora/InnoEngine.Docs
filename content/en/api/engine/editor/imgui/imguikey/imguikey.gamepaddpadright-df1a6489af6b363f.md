@@ -13,5 +13,3 @@ reviewed: b203ccd22426cb9fa7224ded15cbcb3fd5c75582c829f648867cc9f2ff68767a
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadDpadRight presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: aedbaed314506cc476f7a5628c6fe3a043915e6373ebf042c38dcfc1b36f3b4a
 source: xml
 outdated: false
 ---
-
-The right super key.

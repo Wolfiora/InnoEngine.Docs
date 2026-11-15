@@ -13,5 +13,3 @@ reviewed: 65321cba84eaa38d8bcc846f1437293693cee49cd54f45bd9caa50224e2a8a84
 source: xml
 outdated: false
 ---
-
-A deployed standalone game session backed only by runtime artifacts.

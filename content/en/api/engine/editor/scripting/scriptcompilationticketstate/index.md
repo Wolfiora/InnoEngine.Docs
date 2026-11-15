@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-scripting
 aliases: []
 ---
-
-Identifies the lifecycle state of one exact script compilation request.

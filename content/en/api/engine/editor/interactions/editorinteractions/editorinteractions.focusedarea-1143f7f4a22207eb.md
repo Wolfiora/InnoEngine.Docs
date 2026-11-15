@@ -13,5 +13,3 @@ reviewed: c2752042506c892f58d05c89ccb537386f1a27fc2abff850f3f0a971c6d4d0ee
 source: xml
 outdated: false
 ---
-
-Gets the area that most recently received keyboard focus.

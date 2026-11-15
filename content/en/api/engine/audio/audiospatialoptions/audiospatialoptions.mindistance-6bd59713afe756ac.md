@@ -13,5 +13,3 @@ reviewed: c2497b0da1b55576b082b658cc9b65c574495e9a5ca635763dbf5dddf1ad5b8e
 source: xml
 outdated: false
 ---
-
-Gets the distance at which attenuation begins.

@@ -13,5 +13,3 @@ reviewed: 999caa53c20905f17d07586ce4b3741fd0d46fd89b19fc941de4a71ecc7393f0
 source: xml
 outdated: false
 ---
-
-Width dynamically calculated from preview contents

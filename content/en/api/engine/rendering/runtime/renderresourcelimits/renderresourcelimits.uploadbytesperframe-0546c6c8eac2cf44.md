@@ -13,5 +13,3 @@ reviewed: 2aba6a14cfd71e0da162d7a5db8d0da23ba34f3ae136507821cb6dad52d4c79d
 source: xml
 outdated: false
 ---
-
-Gets the maximum bytes uploaded during one frame.

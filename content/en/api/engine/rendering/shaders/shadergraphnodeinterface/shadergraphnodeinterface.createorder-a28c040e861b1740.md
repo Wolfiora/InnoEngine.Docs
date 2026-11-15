@@ -13,5 +13,3 @@ reviewed: f01adc497fe4dbd7b68a760385cbf071270c165ccd2f2afd8b96bcadd2f285e8
 source: xml
 outdated: false
 ---
-
-Gets or sets the deterministic order within the creation catalog.

@@ -13,5 +13,3 @@ reviewed: 5fe9ecae2bb45eaa89dfd6fbfc86b8a7e47b36c2ce41547ca7ba20643673e9fb
 source: xml
 outdated: false
 ---
-
-Gets the immutable inventory in deterministic logical-key order.

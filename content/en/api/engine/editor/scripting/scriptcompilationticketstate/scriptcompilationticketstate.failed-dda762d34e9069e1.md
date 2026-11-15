@@ -13,5 +13,3 @@ reviewed: a55b9d5e6ba9a2be530836563436b854b4413d040b3e1a96fd1a8d804b066431
 source: xml
 outdated: false
 ---
-
-Compilation or candidate activation failed without replacing the active generation.

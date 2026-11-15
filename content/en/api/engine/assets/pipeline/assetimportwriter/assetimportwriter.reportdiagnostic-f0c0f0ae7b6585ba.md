@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a non-fatal import diagnostic.
-
 ## Parameters
 
 **Parameter `message`:** The diagnostic message.

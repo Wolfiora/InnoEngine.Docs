@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the active project document explicitly overrides one setting protocol.
-
 ## Parameters
 
 **Parameter `id`:** Stable setting protocol identity.

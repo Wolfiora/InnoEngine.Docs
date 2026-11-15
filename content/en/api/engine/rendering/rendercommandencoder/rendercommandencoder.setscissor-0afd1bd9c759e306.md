@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the scissor rectangle in render-target pixels.
-
 ## Parameters
 
 **Parameter `x`:** Left coordinate in render-target pixels.

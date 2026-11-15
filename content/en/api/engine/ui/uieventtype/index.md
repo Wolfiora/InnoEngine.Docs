@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Identifies one document event made visible to game code.

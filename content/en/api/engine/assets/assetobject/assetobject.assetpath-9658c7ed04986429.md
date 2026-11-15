@@ -13,5 +13,3 @@ reviewed: 5968851e239525633e9736efdc8ca7e7662daad290b6bfb7cf36300a4ca46e9c
 source: xml
 outdated: false
 ---
-
-Gets the isolated source path associated with this asset.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Ensures that subsequently drawn default properties belong to a framed section.
-
 ## Parameters
 
 **Parameter `title`:** Title used only when the current section layout has not declared a section yet.

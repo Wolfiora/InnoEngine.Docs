@@ -13,5 +13,3 @@ reviewed: b2cec4324361d96c9689ad0984e66931c4324ab243aff0b57b1756b8705f8631
 source: xml
 outdated: false
 ---
-
-Gets the encoded source length in bytes.

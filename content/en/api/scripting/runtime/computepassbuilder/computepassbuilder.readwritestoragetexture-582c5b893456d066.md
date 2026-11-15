@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares an unordered texture read and write.
-
 ## Parameters
 
 **Parameter `texture`:** Storage texture read and written by compute work.

@@ -13,5 +13,3 @@ reviewed: cdd86a9e094d09ad934c44c5759628ae240b49ee34c136cbb72d2fbd27aab4cb
 source: xml
 outdated: false
 ---
-
-Gets the monotonic identity of the current committed asset and source-mount state.

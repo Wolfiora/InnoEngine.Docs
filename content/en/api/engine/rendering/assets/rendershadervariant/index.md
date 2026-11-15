@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Identifies one deterministic selection of static shader keyword options shared by authoring and runtime.

@@ -13,5 +13,3 @@ reviewed: 3495de9539542360c36ee415521fa06c8ec0e5f04ee4664e81e403a9b0c3099a
 source: xml
 outdated: false
 ---
-
-Gets the root of this object's prefab instance connection.

@@ -13,5 +13,3 @@ reviewed: 5e2573a47e28dc6625035ce626f7fe64b7d67b874d27d1948e718114ef95803b
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Disable using keyboard/gamepad navigation state when active, always query mouse

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The asset exists only for authoring workflows and is omitted from deployed catalogs.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Handles pointer movement or hover.
-
 ## Parameters
 
 **Parameter `context`:** Gesture and coordinate context.

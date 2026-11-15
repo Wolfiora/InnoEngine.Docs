@@ -13,5 +13,3 @@ reviewed: 05f570835a39fd242c4e4e1f6e31d38c688210d3bbeb2bc6726db0ac04274a16
 source: xml
 outdated: false
 ---
-
-Gets whether the build committed a complete output.

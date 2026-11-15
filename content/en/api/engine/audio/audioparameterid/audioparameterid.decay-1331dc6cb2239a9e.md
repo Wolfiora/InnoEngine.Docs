@@ -13,5 +13,3 @@ reviewed: 0a0594c9e48e4208d3df2bd6bacfc05cc28ca8a7ae012b41782867d689d5bad2
 source: xml
 outdated: false
 ---
-
-Gets the standard delay feedback decay factor.

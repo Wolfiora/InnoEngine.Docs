@@ -13,5 +13,3 @@ reviewed: 0b136875caea8782b5e1b9e6c21e70afa8cc40afb61d01176d7adfa3d2418cba
 source: xml
 outdated: false
 ---
-
-Produces archives for the selected final linker.

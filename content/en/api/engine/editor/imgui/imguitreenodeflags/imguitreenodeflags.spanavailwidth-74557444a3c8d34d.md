@@ -13,5 +13,3 @@ reviewed: 8291e1dd50b7f6bae4df19fb87a27664440a410ed162f88b26e19837146eb448
 source: xml
 outdated: false
 ---
-
-Extend hit box to the right-most edge, even if not framed. This is not the default in order to allow adding other items on the same line without using AllowOverlap mode.

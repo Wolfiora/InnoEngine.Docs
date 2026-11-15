@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads and validates one packaged shader target artifact when it exists.
-
 ## Parameters
 
 **Parameter `shader`:** The imported backend-neutral shader asset.

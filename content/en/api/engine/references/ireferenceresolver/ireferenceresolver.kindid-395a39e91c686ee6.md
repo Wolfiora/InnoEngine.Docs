@@ -13,5 +13,3 @@ reviewed: d8101460f63593b8addd92814bbdb3525545670bb9080a830a61fb23b966ce2c
 source: xml
 outdated: false
 ---
-
-Gets the unique reference kind implemented by this resolver.

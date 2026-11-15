@@ -13,5 +13,3 @@ reviewed: 08e237a699b7072dc404637d1b883a48bd2bbf66a5b56a0ff16141bccae0e256
 source: xml
 outdated: false
 ---
-
-Gets or sets the layer responsible for supplying this binding at execution time.

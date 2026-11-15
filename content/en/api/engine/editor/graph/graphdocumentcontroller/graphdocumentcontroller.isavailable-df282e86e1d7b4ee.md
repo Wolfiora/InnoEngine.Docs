@@ -13,5 +13,3 @@ reviewed: 4b00733f12b618a3c2d876f493d3dd6ffb77384b767d5033f6f8c8955824956f
 source: xml
 outdated: false
 ---
-
-Gets whether the current document identity and source are both available.

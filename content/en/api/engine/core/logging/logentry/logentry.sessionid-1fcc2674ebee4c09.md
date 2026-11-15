@@ -13,5 +13,3 @@ reviewed: 332c029146dc6c613c0a8e10746bb6b654e211a6eba54b316bd38c855bac3c9f
 source: xml
 outdated: false
 ---
-
-Gets the isolated runtime session that produced this entry.

@@ -13,5 +13,3 @@ reviewed: 43a9b18a3019c07cd517467aca8f86347e171c953da816fd0cfdab2837d41a04
 source: xml
 outdated: false
 ---
-
-Gets the stable pass name.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Publishes or replaces one statistic for the current editor frame.
-
 ## Parameters
 
 **Parameter `statistic`:** Immutable contribution containing no runtime provider references.

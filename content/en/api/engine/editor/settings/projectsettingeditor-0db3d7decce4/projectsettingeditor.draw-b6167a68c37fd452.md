@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws one isolated staged value through this presentation.
-
 ## Parameters
 
 **Parameter `value`:** The exact setting type owned by this presentation.

@@ -13,5 +13,3 @@ reviewed: 6fbc71feb5aeec175be0a550094d63c6a240ab973ebf8d98904574699f256f6c
 source: xml
 outdated: false
 ---
-
-Gets the standard delay processor identifier.

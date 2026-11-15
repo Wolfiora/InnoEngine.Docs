@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Forwards a typed connection without adding instructions or changing resource-effect order.

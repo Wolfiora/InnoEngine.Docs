@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns whether this provider can open the supplied project asset path.
-
 ## Parameters
 
 **Parameter `assetPath`:** Normalized project asset path.

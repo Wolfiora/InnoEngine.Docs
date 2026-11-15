@@ -13,5 +13,3 @@ reviewed: bf23ae391122f4359a52ee7441a585051ed35bce76420817adb9e38ecaadb9b2
 source: xml
 outdated: false
 ---
-
-Gets the optional sibling member controlling message visibility.

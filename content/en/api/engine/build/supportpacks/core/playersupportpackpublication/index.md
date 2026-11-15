@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-supportpacks-core
 aliases: []
 ---
-
-Owns a successfully selected Pack and immutable diagnostics from work after its commit.

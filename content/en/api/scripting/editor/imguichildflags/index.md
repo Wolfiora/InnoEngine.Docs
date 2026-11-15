@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Defines the supported child flags choices at the Editor presentation boundary.

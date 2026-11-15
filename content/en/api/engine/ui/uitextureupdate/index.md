@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Publishes one immutable premultiplied RGBA8 texture generation.

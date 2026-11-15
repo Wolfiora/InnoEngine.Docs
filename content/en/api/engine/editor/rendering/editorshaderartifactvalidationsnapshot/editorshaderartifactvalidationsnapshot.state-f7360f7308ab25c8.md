@@ -13,5 +13,3 @@ reviewed: 88ea3b7ef72a46e557c256388cc8b75bf61cc693cf260e7a9a9ddf42febe06c0
 source: xml
 outdated: false
 ---
-
-Pending, successful, or failed validation state.

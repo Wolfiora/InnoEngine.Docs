@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Composes the shared runtime closure and the Editor's presentation and authoring tools.
-
 ## Returns
 
 A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.

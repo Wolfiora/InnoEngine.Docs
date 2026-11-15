@@ -13,5 +13,3 @@ reviewed: fca6e611bc063a0f93254930c0e1e6514852a9859a2163e2c7b74bab01196af5
 source: xml
 outdated: false
 ---
-
-Gets whether this value contains a usable capability name.

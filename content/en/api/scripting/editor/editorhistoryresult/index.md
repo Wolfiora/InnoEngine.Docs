@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Describes the outcome of applying, undoing, or redoing an editor history operation.

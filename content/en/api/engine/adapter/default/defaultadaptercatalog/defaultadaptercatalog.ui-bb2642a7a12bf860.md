@@ -13,5 +13,3 @@ reviewed: 46a983893b9c322ccde9c7f2bdfec1f7cdebdabd5b29a44040cf67b68d5d3764
 source: xml
 outdated: false
 ---
-
-Gets the composition-owned ui factory snapshot.

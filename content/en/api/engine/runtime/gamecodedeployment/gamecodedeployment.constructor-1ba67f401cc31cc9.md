@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies an explicit code closure and verifies unique ownership and dependency ordering.
-
 ## Parameters
 
 **Parameter `modules`:** Ordered immutable module contributions; an empty closure describes an engine-only composition.

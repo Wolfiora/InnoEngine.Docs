@@ -13,5 +13,3 @@ reviewed: 4cc797e61d968e7f5644b61a4ab003667ac7620c72331cf9cc0dc62f223bf8af
 source: xml
 outdated: false
 ---
-
-Called once immediately before the first update of this behavior.

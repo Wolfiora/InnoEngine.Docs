@@ -13,5 +13,3 @@ reviewed: 617052389a0ae42374da4f29a0c6685f9aff10e9918b1188eda5ccfac614874e
 source: xml
 outdated: false
 ---
-
-Gets the interleaved vertex stride in bytes.

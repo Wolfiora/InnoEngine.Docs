@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Selects whether transform handles use all axes or a contributor-declared planar orientation.

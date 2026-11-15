@@ -13,5 +13,3 @@ reviewed: 60323101e7142ebedc7b9ec833bf96c83211bb6188b41156c90610d7dbab92e5
 source: xml
 outdated: false
 ---
-
-Four-by-four 32-bit floating-point matrix.

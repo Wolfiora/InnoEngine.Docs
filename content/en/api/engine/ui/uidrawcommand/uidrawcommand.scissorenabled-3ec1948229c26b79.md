@@ -13,5 +13,3 @@ reviewed: 10c785649e1516ab104d56621550546b1377badb1be43b1a8a6db0a1ebcf2e05
 source: xml
 outdated: false
 ---
-
-The bool value used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: bc451881b9c937d35246f9ebde5c23ef48c8f6c24a86ff02cdf4c5bf0c2a36f1
 source: xml
 outdated: false
 ---
-
-Selects the header presentation behavior.

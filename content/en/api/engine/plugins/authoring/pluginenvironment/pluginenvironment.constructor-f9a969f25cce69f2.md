@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates automatic Plugin discovery around one asset pipeline and project settings store.
-
 ## Parameters
 
 **Parameter `assets`:** The authoring asset pipeline that owns Plugin source mounts.

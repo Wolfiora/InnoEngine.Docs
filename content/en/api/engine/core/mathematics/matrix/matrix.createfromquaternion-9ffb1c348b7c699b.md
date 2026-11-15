@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a rotation matrix from a quaternion.
-
 ## Parameters
 
 **Parameter `q`:** Source quaternion.

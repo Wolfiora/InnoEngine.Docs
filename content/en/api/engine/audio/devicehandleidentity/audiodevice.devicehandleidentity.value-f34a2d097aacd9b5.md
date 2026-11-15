@@ -13,5 +13,3 @@ reviewed: bc3fd5ee2fb431c62cd71b15756c0edb8763a19739b5dff435ce2200bdff651c
 source: xml
 outdated: false
 ---
-
-Non-zero backend resource identity.

@@ -13,5 +13,3 @@ reviewed: 7b48bdf5394b2e7e5cbbdc36602182f775de1a14de255fd6e8e09e3783947029
 source: xml
 outdated: false
 ---
-
-Identifies the LeftBracket presentation key or modifier.

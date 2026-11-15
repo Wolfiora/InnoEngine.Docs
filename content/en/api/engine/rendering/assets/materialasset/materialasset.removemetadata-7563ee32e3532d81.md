@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes one provider-defined metadata value.
-
 ## Parameters
 
 **Parameter `key`:** Stable metadata key.

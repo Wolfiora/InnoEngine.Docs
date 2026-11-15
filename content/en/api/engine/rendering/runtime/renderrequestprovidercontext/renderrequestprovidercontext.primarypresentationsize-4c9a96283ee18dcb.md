@@ -13,5 +13,3 @@ reviewed: 332f3dfac16794a2f896a6b18d1a1565d04772c94b6b271fdf38d2f5cf360a4e
 source: xml
 outdated: false
 ---
-
-Gets the current primary pixel extent, or null while only offscreen outputs are available.

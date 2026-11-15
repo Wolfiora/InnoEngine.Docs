@@ -13,5 +13,3 @@ reviewed: b6e7eab0b233fb2c6daac1555990bd26819ab0c28d4ff6609177590585089e29
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable property identifier.

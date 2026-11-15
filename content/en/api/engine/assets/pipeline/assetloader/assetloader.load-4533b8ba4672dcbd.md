@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads a canonical asset by isolated source path.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

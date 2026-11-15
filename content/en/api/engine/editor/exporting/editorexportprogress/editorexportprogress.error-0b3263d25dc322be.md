@@ -13,5 +13,3 @@ reviewed: 7c13a88957204961dc6f269c62f035237807e4f15c9a03646e2dfbb77d282298
 source: xml
 outdated: false
 ---
-
-The current failure diagnostic, or empty.

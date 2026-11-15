@@ -13,5 +13,3 @@ reviewed: f36ba10fd7122d51fa451cecb40ddcf6d219f322fa7b207dfccc63cb67efd438
 source: xml
 outdated: false
 ---
-
-Gets stable compiler identities without exposing provider instances.

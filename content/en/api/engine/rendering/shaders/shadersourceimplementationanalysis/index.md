@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Freezes a parsed implementation and its complete source inputs without retaining a frontend or resolver.

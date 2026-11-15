@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and validates a caller-owned from yaw pitch roll value.
-
 ## Parameters
 
 **Parameter `yaw`:** The yaw consumed by create from yaw pitch roll; ownership remains with the caller unless explicitly stated otherwise.

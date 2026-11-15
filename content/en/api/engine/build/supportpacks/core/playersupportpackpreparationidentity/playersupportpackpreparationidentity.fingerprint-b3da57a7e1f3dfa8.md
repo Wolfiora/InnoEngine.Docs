@@ -13,5 +13,3 @@ reviewed: b957eb35bdeff23b24862a567cefd8e1d8fe5d2d29289d95c25fb468036d5419
 source: xml
 outdated: false
 ---
-
-Gets the frozen source input identity used to find a complete prepared Pack.

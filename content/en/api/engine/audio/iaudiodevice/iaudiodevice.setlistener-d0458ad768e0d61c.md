@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates one backend spatial listener.
-
 ## Parameters
 
 **Parameter `listener`:** Listener owned by the current device generation.

@@ -13,5 +13,3 @@ reviewed: c0112ec10fb53440456559728c1997b3728c3dadb19201161b16b3195f73eaba
 source: xml
 outdated: false
 ---
-
-Gets the primary collection row background.

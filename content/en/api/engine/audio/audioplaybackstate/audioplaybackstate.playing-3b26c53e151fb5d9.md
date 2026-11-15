@@ -13,5 +13,3 @@ reviewed: 4a4b922619f7dee84337dc4c979c525662880c44e15b9eb8f1de23f78d6f4785
 source: xml
 outdated: false
 ---
-
-The voice is actively advancing.

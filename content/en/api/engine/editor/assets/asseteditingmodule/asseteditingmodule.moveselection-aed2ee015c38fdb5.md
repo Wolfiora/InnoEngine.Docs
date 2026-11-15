@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves selected source roots in one transaction; a later failure restores earlier moves.
-
 ## Parameters
 
 **Parameter `targets`:** Live entries, including descendants covered by a selected directory.

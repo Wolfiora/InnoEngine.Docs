@@ -13,5 +13,3 @@ reviewed: 29de4bf97af30bee5945e27389d232b73919b5963158156cdf06e9fa20983689
 source: xml
 outdated: false
 ---
-
-Gets whether the catalog entry represents a file or directory source.

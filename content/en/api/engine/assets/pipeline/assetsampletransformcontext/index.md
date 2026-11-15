@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Gives a source-language extension access to a staged sample clone before serialized references are remapped.

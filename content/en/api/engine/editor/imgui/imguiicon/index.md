@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Provides the standard Editor glyph vocabulary; extension controls may also supply their own glyph text.

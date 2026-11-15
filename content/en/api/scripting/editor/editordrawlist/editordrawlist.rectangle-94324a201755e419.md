@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a rectangular outline.
-
 ## Parameters
 
 **Parameter `minimum`:** The upper-left corner.

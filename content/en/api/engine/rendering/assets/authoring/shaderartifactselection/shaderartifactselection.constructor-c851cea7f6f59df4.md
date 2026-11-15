@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an artifact selection result.
-
 ## Parameters
 
 **Parameter `artifact`:** Selected candidate or last-good artifact.

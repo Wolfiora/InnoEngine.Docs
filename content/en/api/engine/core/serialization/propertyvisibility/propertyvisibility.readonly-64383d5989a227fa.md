@@ -13,5 +13,3 @@ reviewed: 3f4d69c73e39744d515d5e5702d073b4701231ff70253e16965b9f9a26f39a4a
 source: xml
 outdated: false
 ---
-
-Can serialize and deserialize, runtime can get but cannot set. Runtime set attempts should be rejected (see `M:Inno.Core.Serialization.SerializedProperty.SetValue(System.Object)` behavior).

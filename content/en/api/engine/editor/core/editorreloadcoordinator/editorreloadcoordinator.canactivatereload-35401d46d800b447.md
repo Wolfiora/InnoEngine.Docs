@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries whether compilation and activation can proceed without interrupting a running session.
-
 ## Parameters
 
 **Parameter `reason`:** The first blocking reason, or null when activation is allowed.

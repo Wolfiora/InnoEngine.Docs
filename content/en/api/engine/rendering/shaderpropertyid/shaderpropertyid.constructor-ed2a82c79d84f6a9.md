@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable shader property identifier.
-
 ## Parameters
 
 **Parameter `value`:** Stable manifest property identifier.

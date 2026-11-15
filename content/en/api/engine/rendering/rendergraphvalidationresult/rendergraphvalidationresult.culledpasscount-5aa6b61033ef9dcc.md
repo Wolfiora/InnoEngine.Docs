@@ -13,5 +13,3 @@ reviewed: 501f0b35719445dd98a6853ef50afaf2baf63eef259cb4cc612b6c2a4fb7c475
 source: xml
 outdated: false
 ---
-
-Gets passes removed by valid output and side-effect analysis; returns zero for an invalid graph.

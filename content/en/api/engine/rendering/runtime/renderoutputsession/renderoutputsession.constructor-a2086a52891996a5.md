@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-scoped output session.
-
 ## Parameters
 
 **Parameter `id`:** Stable host output identity.

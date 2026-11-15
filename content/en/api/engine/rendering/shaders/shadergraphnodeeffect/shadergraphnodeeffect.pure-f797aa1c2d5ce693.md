@@ -13,5 +13,3 @@ reviewed: b7cb0181e0ac7998417377275d196b8932d0afd3ec7d317070c8658611248b1f
 source: xml
 outdated: false
 ---
-
-The function only computes returned values and therefore requires at least one output.

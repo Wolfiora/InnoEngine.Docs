@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes the exact contract captured with a candidate using the current owner's references.
-
 ## Parameters
 
 **Parameter `artifact`:** Complete candidate, not the latest uncompiled asset definition.

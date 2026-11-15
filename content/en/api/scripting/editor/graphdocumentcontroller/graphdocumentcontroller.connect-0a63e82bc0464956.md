@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates or reconnects one input endpoint to an output endpoint.
-
 ## Parameters
 
 **Parameter `output`:** Source endpoint.

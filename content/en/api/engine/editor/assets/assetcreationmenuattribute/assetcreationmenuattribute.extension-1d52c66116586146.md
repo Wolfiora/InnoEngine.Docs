@@ -13,5 +13,3 @@ reviewed: 28190c5e734a8c13946e187c0edfbbcb5265ac8b197bdc2f73996297d79ac5f6
 source: xml
 outdated: false
 ---
-
-Gets the native source extension, including its leading dot.

@@ -13,5 +13,3 @@ reviewed: ebd6f2d746d4f7b47c4bdd046952f26c65b6717b1dc661a44fa5ee4e288bd084
 source: xml
 outdated: false
 ---
-
-The Plugin is installed as one top-level `.iplugin` package.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases one cached preview registration.
-
 ## Parameters
 
 **Parameter `handle`:** Preview handle returned by this service.

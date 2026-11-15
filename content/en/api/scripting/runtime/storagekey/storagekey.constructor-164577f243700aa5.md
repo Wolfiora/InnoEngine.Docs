@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a normalized storage key from slash-separated path segments.
-
 ## Parameters
 
 **Parameter `value`:** The non-rooted key with no empty, current, or parent segments.

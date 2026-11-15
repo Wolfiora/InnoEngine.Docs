@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Unloads one scene from the current runtime session.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to unload.

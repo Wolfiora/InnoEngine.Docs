@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Tests equality of two scalar values and produces a scalar Boolean.

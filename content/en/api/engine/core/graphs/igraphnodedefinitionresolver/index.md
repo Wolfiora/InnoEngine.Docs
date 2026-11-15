@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Resolves generation-scoped node definitions by stable identifier.

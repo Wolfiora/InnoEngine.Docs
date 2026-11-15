@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets a 32-bit signed integer array property by value.
-
 ## Parameters
 
 **Parameter `name`:** The stable property name.

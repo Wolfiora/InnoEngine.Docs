@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Row 4, Column 1 (translation X component for affine transforms).

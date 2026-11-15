@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Enable auto-resizing height. Read "IMPORTANT: Size measurement" details above.

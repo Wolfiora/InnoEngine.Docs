@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a graph edge record.
-
 ## Parameters
 
 **Parameter `id`:** Stable edge identifier within the document.

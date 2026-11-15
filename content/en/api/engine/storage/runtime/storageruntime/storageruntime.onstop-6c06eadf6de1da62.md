@@ -13,5 +13,3 @@ reviewed: 0e2502e27875d8877793ca317b91af5d2c73703f5b1990de1755be78100fad9f
 source: xml
 outdated: false
 ---
-
-Releases the storage backend after owned work has quiesced.

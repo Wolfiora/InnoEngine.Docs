@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a selected root without rebinding a stale snapshot to a replacement generation.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The required identity-backed root type.

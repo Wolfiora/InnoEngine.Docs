@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Makes one loaded scene active without changing the loaded set.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to activate.

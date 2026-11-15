@@ -13,5 +13,3 @@ reviewed: e7bf1094347e8cf2289358d156630685a0878e401f4edd02ba3b9b4a596afc0b
 source: xml
 outdated: false
 ---
-
-Gets whether this identifier contains a usable protocol value.

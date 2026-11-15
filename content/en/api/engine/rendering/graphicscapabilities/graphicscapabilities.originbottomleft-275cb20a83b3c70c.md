@@ -13,5 +13,3 @@ reviewed: c48c8bb022ec1ea1ab11a2c5199bbc34e3c54c3590ee1736ed63c60933985424
 source: xml
 outdated: false
 ---
-
-Gets whether render-target coordinates start at the bottom-left.

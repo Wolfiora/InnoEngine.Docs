@@ -13,5 +13,3 @@ reviewed: 1ab73307a8aa8d6c10cf17edbbf538bbf5f5ac470143059c010d01522905b5c6
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable component identity declared by the sole binding definition.

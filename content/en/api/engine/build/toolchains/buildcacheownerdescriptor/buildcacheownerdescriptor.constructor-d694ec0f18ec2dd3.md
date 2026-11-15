@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Borrows publisher callbacks without discovering artifacts from directory names or file extensions.
-
 ## Parameters
 
 **Parameter `id`:** The unique registration identity within this cleanup operation.

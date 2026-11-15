@@ -13,5 +13,3 @@ reviewed: ed9519033f7879ec6cd9a781cd62552640fa38c866b4d8c14103ff41fc47cd97
 source: xml
 outdated: false
 ---
-
-Gets the current frame graph builder.

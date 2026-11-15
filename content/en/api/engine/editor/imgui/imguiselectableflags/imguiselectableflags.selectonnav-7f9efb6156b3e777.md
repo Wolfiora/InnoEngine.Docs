@@ -13,5 +13,3 @@ reviewed: 469e040c16b775516a40cae4a3fc42dfdb35c84e42952caf746d7bd5d7057b76
 source: xml
 outdated: false
 ---
-
-Auto-select when moved into, unless Ctrl is held. Automatic when in a BeginMultiSelect() block.

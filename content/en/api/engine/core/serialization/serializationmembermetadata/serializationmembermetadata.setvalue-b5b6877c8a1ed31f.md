@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes a value through the selected declaration accessor.
-
 ## Parameters
 
 **Parameter `target`:** The object receiving the value.

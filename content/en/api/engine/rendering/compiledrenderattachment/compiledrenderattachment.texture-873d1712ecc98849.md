@@ -13,5 +13,3 @@ reviewed: 8a081c1675a3e3754f568951ff209c911d0ac1f48ff2914c6396466915969142
 source: xml
 outdated: false
 ---
-
-Gets the attached graph texture.

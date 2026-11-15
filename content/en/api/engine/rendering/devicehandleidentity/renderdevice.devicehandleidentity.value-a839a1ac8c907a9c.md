@@ -13,5 +13,3 @@ reviewed: 950ad145cdffec14ba35d1ee4d382b01053e43317018c2f0c72e767a0d92be0a
 source: xml
 outdated: false
 ---
-
-The backend-owned non-zero resource identity.

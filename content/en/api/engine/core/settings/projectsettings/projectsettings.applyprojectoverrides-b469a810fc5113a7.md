@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies multiple project contributions and removals as one atomic document update.
-
 ## Parameters
 
 **Parameter `values`:** Complete authored values keyed by stable setting identity.

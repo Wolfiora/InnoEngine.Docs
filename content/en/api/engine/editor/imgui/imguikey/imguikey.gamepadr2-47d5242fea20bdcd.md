@@ -13,5 +13,3 @@ reviewed: 1beffc955baeb6908e7407bed7a6556bc7238bf454a5f872e9e476c95278ce62
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadR2 presentation key or modifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates or replaces graph-level neutral metadata.
-
 ## Parameters
 
 **Parameter `key`:** Stable metadata key.

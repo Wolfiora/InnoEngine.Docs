@@ -13,5 +13,3 @@ reviewed: 11a2a6874e8d4b7cb3c86ca710c9f0c1111291fe5dc9ac396535de7453fc8760
 source: xml
 outdated: false
 ---
-
-Gets the first logical module in dependency staging order.

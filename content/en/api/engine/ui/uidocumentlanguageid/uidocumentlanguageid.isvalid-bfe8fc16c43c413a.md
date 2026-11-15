@@ -13,5 +13,3 @@ reviewed: c718331ed22f826af16074e526b32c7d8b6ce098f2752d75b5dffc6e95e2b90a
 source: xml
 outdated: false
 ---
-
-Gets whether the identifier is assigned.

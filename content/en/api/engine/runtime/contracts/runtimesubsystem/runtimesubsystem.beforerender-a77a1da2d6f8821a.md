@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares frame output after simulation has completed.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable variable-frame state.

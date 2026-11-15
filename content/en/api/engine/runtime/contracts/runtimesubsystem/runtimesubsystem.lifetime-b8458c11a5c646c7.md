@@ -13,5 +13,3 @@ reviewed: 05a6fa79a08f39f7390dd67d793fab723f40c6a9a43b757db9a4a650d9c37db1
 source: xml
 outdated: false
 ---
-
-Gets resources and cancellation owned exclusively by this subsystem.

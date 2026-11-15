@@ -13,5 +13,3 @@ reviewed: 1b049bed88740e56c95b61c91a0fd229d3acdbe7484626ea7c7d83a426d6b2c2
 source: xml
 outdated: false
 ---
-
-Gets the frame padding used while docked panel tabs are laid out.

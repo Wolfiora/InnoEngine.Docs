@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a lightweight interaction handle for one area and optional target.
-
 ## Parameters
 
 **Parameter `area`:** The stable interaction area.

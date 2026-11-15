@@ -13,5 +13,3 @@ reviewed: 703e6adfcf0be6403efbaec99201b9c1a8f57319b9566ce15fc0096c8df28be3
 source: xml
 outdated: false
 ---
-
-Stops issuing leases and closes the archive after every existing lease and stream releases its pin.

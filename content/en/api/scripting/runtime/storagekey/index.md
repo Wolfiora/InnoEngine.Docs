@@ -18,5 +18,3 @@ contracts:
 - project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---
-
-Identifies one sandbox-relative application storage value.

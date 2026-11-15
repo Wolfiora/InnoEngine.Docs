@@ -13,5 +13,3 @@ reviewed: 21437a0409c129af921bb351be3f97d7338b244dd2fecbbe30c28420adfee88b
 source: xml
 outdated: false
 ---
-
-Gets the spacing around the separator between inline metadata and its value.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates and registers a concrete game system by runtime type.
-
 ## Parameters
 
 **Parameter `systemType`:** The system type consumed by add system; ownership remains with the caller unless explicitly stated otherwise.

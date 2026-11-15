@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Row 4, Column 3 (translation Z component for affine transforms).

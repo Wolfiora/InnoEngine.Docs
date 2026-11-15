@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Returns all stored items as a stable snapshot.
-
 ## Remarks
 
 The returned list is detached from subsequent store mutations.

@@ -13,5 +13,3 @@ reviewed: 79c2b5be023b39a532a728c710a5494436edd33be37ec3de90512619a15fe1f9
 source: xml
 outdated: false
 ---
-
-Gets or sets the directory owning installed target packs.

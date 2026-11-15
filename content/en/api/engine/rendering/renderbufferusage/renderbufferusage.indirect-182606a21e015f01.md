@@ -13,5 +13,3 @@ reviewed: 8a8d1c49d9d7ea572ab973c1a77ada11631ed8ec4ec7852b7dbd95a701948a9b
 source: xml
 outdated: false
 ---
-
-Indirect command data.

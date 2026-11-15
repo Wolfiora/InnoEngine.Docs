@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-input#input-value-contract
 aliases: []
 ---
-
-Identifies the supported mouse button values for this contract.

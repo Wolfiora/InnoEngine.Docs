@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Keeps one synchronous operation on the published generation and defers automatic catalog replacement.
-
 ## Parameters
 
 **Parameter `operation`:** The operation name included in admission failures.

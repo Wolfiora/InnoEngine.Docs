@@ -13,5 +13,3 @@ reviewed: 5f62f6078f08c06e8bcaa9581bf73214d429f98bac0a216268d0c7dbf639c347
 source: xml
 outdated: false
 ---
-
-Gets the platform-owned contribution, independent of backend selection.

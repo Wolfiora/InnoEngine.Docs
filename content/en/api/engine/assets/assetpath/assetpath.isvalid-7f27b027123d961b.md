@@ -13,5 +13,3 @@ reviewed: 174a98ffaafa6452662c64de8fd73755432cbed367403f9c26cb903d41eafc32
 source: xml
 outdated: false
 ---
-
-Gets whether the source and local path are valid.

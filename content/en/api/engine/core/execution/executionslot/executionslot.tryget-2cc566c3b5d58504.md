@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read the current binding without falling through an expired child scope.
-
 ## Parameters
 
 **Parameter `value`:** Receives the live value, or the default value when access is unavailable.

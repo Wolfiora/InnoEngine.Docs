@@ -13,5 +13,3 @@ reviewed: 1e28c53c4f0429fb01c39ee058e872794ec1404be2c2737c583fb09cb8f21103
 source: xml
 outdated: false
 ---
-
-All owned resources were released successfully.

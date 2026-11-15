@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Materializes frozen native inputs without rewriting identical intermediate files.

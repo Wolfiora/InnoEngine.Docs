@@ -13,5 +13,3 @@ reviewed: 943af0bcb9b524a3d25deb23fa6b33507f907d9c420de41897c0c4de0fda5d99
 source: xml
 outdated: false
 ---
-
-Draws the table header row from configured column labels.

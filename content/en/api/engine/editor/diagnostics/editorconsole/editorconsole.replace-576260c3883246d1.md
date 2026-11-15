@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces the complete current diagnostic report for one producer.
-
 ## Parameters
 
 **Parameter `report`:** The complete report to expose in subsequent snapshots.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Consider docking hierarchy (treat dockspace host as parent of docked window) (when used with \_ChildWindows or \_RootWindow)

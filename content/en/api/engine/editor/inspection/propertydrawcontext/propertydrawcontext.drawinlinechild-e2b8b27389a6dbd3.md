@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a nested value inline without adding another label row.
-
 ## Parameters
 
 **Parameter `childName`:** The stable child member name appended to this property path.

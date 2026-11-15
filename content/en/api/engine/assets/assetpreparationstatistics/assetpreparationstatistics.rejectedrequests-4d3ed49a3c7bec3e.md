@@ -13,5 +13,3 @@ reviewed: 29613320ea79945e8d6ac5a02094774f62c52ff026d867723546894ecd22f58d
 source: xml
 outdated: false
 ---
-
-Gets requests rejected by the pending-count or encoded-byte budget.

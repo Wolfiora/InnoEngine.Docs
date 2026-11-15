@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the custom background color used when `P:InnoEditor.ImGui.TreeNodeOptions.showBackground` is enabled.

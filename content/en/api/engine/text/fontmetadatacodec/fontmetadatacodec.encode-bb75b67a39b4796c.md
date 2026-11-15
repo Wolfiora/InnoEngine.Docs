@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes validated metadata into a deterministic runtime payload.
-
 ## Parameters
 
 **Parameter `metadata`:** The metadata to encode.

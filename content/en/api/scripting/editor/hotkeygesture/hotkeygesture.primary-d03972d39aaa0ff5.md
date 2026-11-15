@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a gesture that includes the product-selected primary modifier.
-
 ## Parameters
 
 **Parameter `key`:** The non-modifier key in the gesture.

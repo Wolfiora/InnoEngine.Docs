@@ -13,5 +13,3 @@ reviewed: d0c9bcae04cbffe59b2486aec205ef92125c85c29d9226fdc697a34db11f603e
 source: xml
 outdated: false
 ---
-
-Cancels offline tool preparation and prevents publication of newly prepared tool products.

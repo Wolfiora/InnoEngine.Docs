@@ -13,5 +13,3 @@ reviewed: 01a73a3f41e9dd81fe3bc39772c9b2afb7f7ce4844c5942a15eadaa030da42d4
 source: xml
 outdated: false
 ---
-
-The current human-readable compiler stage.

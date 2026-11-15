@@ -13,5 +13,3 @@ reviewed: c31acb605da0f2d80eaebba6e2470507302470c924bb24881bc5d8ba7f4309b7
 source: xml
 outdated: false
 ---
-
-Gets the optional creation-menu path below Create.

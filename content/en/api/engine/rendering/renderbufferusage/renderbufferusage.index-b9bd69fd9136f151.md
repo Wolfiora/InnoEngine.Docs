@@ -13,5 +13,3 @@ reviewed: 84e0b0c2e48a8a9ad687929b36194b649a2c150dee41d37f58bb4d43cc1f3c8b
 source: xml
 outdated: false
 ---
-
-Index input data.

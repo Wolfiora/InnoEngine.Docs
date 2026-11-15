@@ -13,5 +13,3 @@ reviewed: 1bdb7bbbd2dff3eb4e78ae4baa451fb8cd03f897cdba6bed6529650bca6c7ed9
 source: xml
 outdated: false
 ---
-
-Gets whether the primary presentation target encodes linear RGB to sRGB during writes.

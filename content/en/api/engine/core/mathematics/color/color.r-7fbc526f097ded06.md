@@ -13,5 +13,3 @@ reviewed: 4bc000b96f9acee9b6fa88a430aed1c3e71c43c147578849ee2651766ce65c55
 source: xml
 outdated: false
 ---
-
-The red color component.

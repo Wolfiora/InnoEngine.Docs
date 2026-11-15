@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a UI runtime and assumes ownership of its backend.
-
 ## Parameters
 
 **Parameter `backend`:** The retained-mode UI backend.

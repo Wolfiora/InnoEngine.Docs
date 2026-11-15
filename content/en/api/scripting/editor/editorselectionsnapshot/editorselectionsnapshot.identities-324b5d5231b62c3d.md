@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets unique selection identities in order; the final identity is the primary selection.

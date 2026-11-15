@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares a shader read from a buffer.
-
 ## Parameters
 
 **Parameter `buffer`:** Buffer read by this pass.

@@ -13,5 +13,3 @@ reviewed: 07ce7110d11fb65400d9ca79912d32faccbed4dda44b0dbb06f04ee6e4f2baaa
 source: xml
 outdated: false
 ---
-
-Gets readbacks rejected before native allocation.

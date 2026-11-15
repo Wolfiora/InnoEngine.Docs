@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the selected managed host and captures execution capabilities at the composition boundary.
-
 ## Parameters
 
 **Parameter `applicationDirectory`:** The product or tool's installed location used for source provisioning.

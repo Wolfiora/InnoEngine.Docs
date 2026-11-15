@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the normalized source extension represented by this declaration, or `null` for a type declaration.

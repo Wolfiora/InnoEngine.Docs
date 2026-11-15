@@ -13,5 +13,3 @@ reviewed: 5c52683e8b4a9dd322f8222a6c3cc8c04b309f27471da6bc512dc910f9dfb4ba
 source: xml
 outdated: false
 ---
-
-Gets or sets the current projection family.

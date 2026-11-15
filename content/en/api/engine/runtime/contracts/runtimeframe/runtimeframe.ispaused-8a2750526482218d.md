@@ -13,5 +13,3 @@ reviewed: 7b4142818bf6e84459cc7c14f7cf8ad4517371674bdd7c66fd2a1b339c12ae1d
 source: xml
 outdated: false
 ---
-
-Gets whether scaled simulation is paused for this frame.

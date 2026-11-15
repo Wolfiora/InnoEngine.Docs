@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Owns the two metadata documents required to identify and verify a Player deployment.

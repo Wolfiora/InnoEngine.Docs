@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Unregisters every document identity so issued controllers cannot resolve retired sessions.

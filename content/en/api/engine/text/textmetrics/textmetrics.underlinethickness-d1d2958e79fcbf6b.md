@@ -13,5 +13,3 @@ reviewed: f3dc576f598060b907f6a0387714d186a0d20a86fe6c156dd225eb5dfa8b1221
 source: xml
 outdated: false
 ---
-
-The scaled underline thickness in logical pixels.

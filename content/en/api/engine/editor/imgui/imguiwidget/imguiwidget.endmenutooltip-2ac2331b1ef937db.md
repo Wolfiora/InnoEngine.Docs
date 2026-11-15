@@ -13,5 +13,3 @@ reviewed: 49a9a6d17523f27845fe8bbb1f159d050abce99b199c3fb1db8ae349423c6b37
 source: xml
 outdated: false
 ---
-
-Ends a tooltip opened by `M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuTooltip` and restores the previous style.

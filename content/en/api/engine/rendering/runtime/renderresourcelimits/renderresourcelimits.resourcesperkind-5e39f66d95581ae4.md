@@ -13,5 +13,3 @@ reviewed: 0ce7c008ee488ffe9fa037d95b00b730d4e98f15803652f729951e142ccff356
 source: xml
 outdated: false
 ---
-
-Gets the maximum active entries in each buffer, texture or pipeline cache.

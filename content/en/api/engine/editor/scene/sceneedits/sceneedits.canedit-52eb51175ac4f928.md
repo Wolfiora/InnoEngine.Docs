@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether a scene object belongs to an editable presented scene.
-
 ## Parameters
 
 **Parameter `target`:** The scene object to inspect.

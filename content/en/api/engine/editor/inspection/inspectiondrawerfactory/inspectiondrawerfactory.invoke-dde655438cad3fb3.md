@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one discovered inspection drawer through the owning editor composition root.
-
 ## Parameters
 
 **Parameter `drawerType`:** The concrete drawer type selected from the active type catalog.

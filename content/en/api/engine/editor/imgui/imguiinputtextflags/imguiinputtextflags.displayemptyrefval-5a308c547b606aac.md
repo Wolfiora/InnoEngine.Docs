@@ -13,5 +13,3 @@ reviewed: b5feb0c8befe6b563c5fdffde5f73b86d8ff40963b761142cca82c1d4cd090dd
 source: xml
 outdated: false
 ---
-
-InputFloat(), InputInt(), InputScalar() etc. only: when value is zero, do not display it. Generally used with ImGuiInputTextFlags\_ParseEmptyRefVal.

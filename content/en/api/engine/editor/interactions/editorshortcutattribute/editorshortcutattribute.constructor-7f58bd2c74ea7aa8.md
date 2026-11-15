@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shortcut scoped to an exact interaction area.
-
 ## Parameters
 
 **Parameter `area`:** The exact focused area that accepts the shortcut, or an empty string for any area.

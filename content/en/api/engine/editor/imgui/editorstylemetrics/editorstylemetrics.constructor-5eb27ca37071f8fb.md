@@ -13,5 +13,3 @@ reviewed: 0582b9fc22a42a905eb72a6917fbc3cb6c4b7a54c81110cad4c0d3877efc2094
 source: xml
 outdated: false
 ---
-
-Creates independent metrics whose changes apply immediately without a native context.

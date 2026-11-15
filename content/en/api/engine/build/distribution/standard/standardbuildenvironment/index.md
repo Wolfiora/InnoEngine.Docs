@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 aliases: []
 ---
-
-Captures the actual machine running distribution tools without choosing an output target.

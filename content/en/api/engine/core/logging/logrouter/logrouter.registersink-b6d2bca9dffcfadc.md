@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers a sink to receive future entries from this router.
-
 ## Parameters
 
 **Parameter `sink`:** The sink to register exactly once.

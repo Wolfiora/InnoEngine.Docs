@@ -13,5 +13,3 @@ reviewed: 012ccde74df59f977e01b95acbf2061e801894edbf89f9443a98fedfc917adb0
 source: xml
 outdated: false
 ---
-
-Removes the candidate catalog staging storage without disposing the candidate loader.

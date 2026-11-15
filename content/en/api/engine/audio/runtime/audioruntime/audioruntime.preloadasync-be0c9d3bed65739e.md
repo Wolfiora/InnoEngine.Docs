@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares and explicitly retains a clip cache entry.
-
 ## Parameters
 
 **Parameter `clip`:** Imported clip to retain.

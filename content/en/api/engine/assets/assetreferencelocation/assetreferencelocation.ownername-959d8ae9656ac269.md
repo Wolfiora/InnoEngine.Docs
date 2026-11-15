@@ -13,5 +13,3 @@ reviewed: 5a726c7070eed15c89a87fd2bf1408b280001a3232b2e0c4de503e2bd754402d
 source: xml
 outdated: false
 ---
-
-Gets the display name of the known owner.

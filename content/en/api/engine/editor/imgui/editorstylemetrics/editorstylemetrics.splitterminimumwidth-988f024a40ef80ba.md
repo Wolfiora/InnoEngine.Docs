@@ -13,5 +13,3 @@ reviewed: 789423a67e1a9ce33830ac7ecda4ed9bad88e914063b426cd8676f17a0cbea70
 source: xml
 outdated: false
 ---
-
-Gets the minimum draggable resizable content splitter width.

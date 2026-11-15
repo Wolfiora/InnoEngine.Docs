@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether interface analysis succeeded; native compilation is a separate gate.

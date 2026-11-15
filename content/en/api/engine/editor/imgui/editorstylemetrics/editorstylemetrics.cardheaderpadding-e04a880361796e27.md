@@ -13,5 +13,3 @@ reviewed: 7ece356bb0233392ede9afd7cc1c41b1d6a10d801c046d54a7d4c2f6126915a6
 source: xml
 outdated: false
 ---
-
-Gets card header padding.

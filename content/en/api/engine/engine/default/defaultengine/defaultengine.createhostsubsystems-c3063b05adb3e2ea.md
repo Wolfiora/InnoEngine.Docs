@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the default host factory set over the product-configured rendering runtime.
-
 ## Parameters
 
 **Parameter `context`:** The rendering runtime whose domain resources are owned by this host.

@@ -13,5 +13,3 @@ reviewed: 9024d28cadcd566c57e0c00697cfc7054f8ab84632161c0cbcc906ee81a71dd2
 source: xml
 outdated: false
 ---
-
-Instanced draw input is supported.

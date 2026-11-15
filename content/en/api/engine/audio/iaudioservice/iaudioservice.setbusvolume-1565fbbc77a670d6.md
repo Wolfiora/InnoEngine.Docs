@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Updates linear gain for a semantic mixer bus.
-
 ## Parameters
 
 **Parameter `bus`:** Stable bus identifier.

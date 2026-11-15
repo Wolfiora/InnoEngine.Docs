@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Declares an immutable source artifact that is compiled into one sampled texture slot.

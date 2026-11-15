@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares a component's source, execution and SDK inputs before binding outputs need to exist. The artifact publisher attaches the exact selected generation before hashing or compiling.
-
 ## Parameters
 
 **Parameter `context`:** The operation's checkout and previously selected host tools.

@@ -13,5 +13,3 @@ reviewed: ff5f53428bd3fa10d3db40809ff2127e083942d2bdd00ac4d535f050dfa54bb5
 source: xml
 outdated: false
 ---
-
-Gets whether manipulation can consume pointer input.

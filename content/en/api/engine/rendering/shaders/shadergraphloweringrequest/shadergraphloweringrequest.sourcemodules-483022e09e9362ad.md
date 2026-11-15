@@ -13,5 +13,3 @@ reviewed: 4e3f119df9544d65d709c6cbbf1e5ead69506c99003780748700074ad87899b4
 source: xml
 outdated: false
 ---
-
-Gets frozen source modules, including unavailable/failed modules for accurate diagnostics.

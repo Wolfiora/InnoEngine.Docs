@@ -13,5 +13,3 @@ reviewed: ef6c6f45e3aec6cd49c3c1461dc04a559a6bb24a8f24f9115116f43b805f0907
 source: xml
 outdated: false
 ---
-
-Gets the normalized vertex stream.

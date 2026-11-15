@@ -13,5 +13,3 @@ reviewed: 487570d9732076e73b3ce163cc3888c5185b80d3e04408bd8f422913a3bcad4e
 source: xml
 outdated: false
 ---
-
-The Plugin is embedded as one complete `.iplugin` dependency package.

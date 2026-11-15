@@ -13,5 +13,3 @@ reviewed: 2c8daae0bde7f2e652084fba2ca9f422cc9fb7a31c6e91ee4a9684a30ae624f6
 source: xml
 outdated: false
 ---
-
-Gets the public field name.

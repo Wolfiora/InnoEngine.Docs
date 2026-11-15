@@ -13,5 +13,3 @@ reviewed: 990455b0136c13ae18d451074ce4fb2e9556463cc30451749eafd4a70c0c1181
 source: xml
 outdated: false
 ---
-
-The 0 key on the numeric keypad.

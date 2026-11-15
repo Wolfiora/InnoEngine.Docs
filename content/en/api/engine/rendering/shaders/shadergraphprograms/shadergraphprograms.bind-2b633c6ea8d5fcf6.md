@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Assigns existing shared stages to one pass in an atomic detached candidate.
-
 ## Parameters
 
 **Parameter `graph`:** Source document, never modified.

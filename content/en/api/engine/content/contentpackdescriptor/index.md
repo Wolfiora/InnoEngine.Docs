@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Identifies the complete encoded pack independently of its physical source.

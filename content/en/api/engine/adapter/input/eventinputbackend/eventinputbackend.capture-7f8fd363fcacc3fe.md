@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures an immutable snapshot of the current observable state.
-
 ## Parameters
 
 **Parameter `frameIndex`:** The monotonic frame identity associated with this operation.

@@ -13,5 +13,3 @@ reviewed: 61a09b6c7e1dece0f8b166bc5c3de3a2d5a791ad63eeb6e6f9b76213c389e8d0
 source: xml
 outdated: false
 ---
-
-Gets the actionable problem description.

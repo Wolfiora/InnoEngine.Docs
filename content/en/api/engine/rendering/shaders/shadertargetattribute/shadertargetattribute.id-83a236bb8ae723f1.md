@@ -13,5 +13,3 @@ reviewed: 8246497c55e2cb4858d9d2b2e62184bb1322ae09e10d4e9fabcb0a634e253d8b
 source: xml
 outdated: false
 ---
-
-Gets the stable target identity persisted by Shader assets.

@@ -13,5 +13,3 @@ reviewed: 79ccd3196428f95a66d3d8e355edc3d52841947c5ab489957c2a0e41ccd1fac8
 source: xml
 outdated: false
 ---
-
-Gets the node-local port identifier.

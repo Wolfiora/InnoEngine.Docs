@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a validated language provider set without a process-global registry.
-
 ## Parameters
 
 **Parameter `frontends`:** Providers owned and retired by the calling generation.

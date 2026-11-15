@@ -13,5 +13,3 @@ reviewed: 2ff1c94bda0bf4d1b5af249f0fafc25be303a1bf513295f00b31a9e35e6a1d83
 source: xml
 outdated: false
 ---
-
-Gets the explicit model route, if configured.

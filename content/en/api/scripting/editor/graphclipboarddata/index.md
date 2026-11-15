@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-graph
 aliases: []
 ---
-
-Contains a neutral copied node fragment suitable for graph clipboard operations.

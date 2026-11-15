@@ -13,5 +13,3 @@ reviewed: 13aa7a5a667261e1b0aad0d3439d12cd3b82170abbeac9b2c01b55835067d41c
 source: xml
 outdated: false
 ---
-
-Gets the explicit native import identity, or null for the component default.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Reads and expands reusable node graphs without retaining assets or provider instances.

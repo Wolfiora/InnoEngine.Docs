@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Moves a source asset while preserving its persistent identity and generated metadata.
-
 ## Parameters
 
 **Parameter `source`:** Existing isolated source path.

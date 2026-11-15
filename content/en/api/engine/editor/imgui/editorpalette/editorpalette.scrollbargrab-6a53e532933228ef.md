@@ -13,5 +13,3 @@ reviewed: 38893046d356ddf6ab8de1a093459f189b2121f14b28daa6b45356bc7ff7fcf9
 source: xml
 outdated: false
 ---
-
-Gets the standard scrollbar thumb.

@@ -13,5 +13,3 @@ reviewed: 6f8bf046b6ad59d17edcb5d393747c6e428ff09576678d8804f52594af069200
 source: xml
 outdated: false
 ---
-
-Gets the bitmap height in pixels.

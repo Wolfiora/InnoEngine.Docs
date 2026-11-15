@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides a typed drawing extension for one runtime project setting protocol.
-
 ## Type parameters
 
 **Type parameter `TSetting`:** The exact serializable setting type registered by the runtime Plugin or host.

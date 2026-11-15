@@ -13,5 +13,3 @@ reviewed: edde23633210b8a1ed7ae73eca2208a806dc3208c6c7683bc787b024c6a2e864
 source: xml
 outdated: false
 ---
-
-Selects the button active presentation behavior.

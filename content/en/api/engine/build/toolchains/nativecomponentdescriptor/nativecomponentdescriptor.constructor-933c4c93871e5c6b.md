@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes portable checkout-relative owner locations without assembly-name or directory inference.
-
 ## Parameters
 
 **Parameter `id`:** The portable component artifact identity.

@@ -13,5 +13,3 @@ reviewed: 42a39a3f9c81b2daa2c6508315d1be8feec1dc6f260112d201cc2f0ec874ce13
 source: xml
 outdated: false
 ---
-
-Draw inner borders.

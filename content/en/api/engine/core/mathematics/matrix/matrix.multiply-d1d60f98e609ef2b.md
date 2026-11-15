@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Multiplies two matrices using standard matrix multiplication.
-
 ## Parameters
 
 **Parameter `a`:** Left operand.

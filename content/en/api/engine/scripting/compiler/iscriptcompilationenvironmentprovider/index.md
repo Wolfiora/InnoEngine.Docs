@@ -16,5 +16,3 @@ contracts:
 - project.inno-scripting-compiler
 aliases: []
 ---
-
-Supplies the host-selected framework contract for one compilation or IDE projection operation.

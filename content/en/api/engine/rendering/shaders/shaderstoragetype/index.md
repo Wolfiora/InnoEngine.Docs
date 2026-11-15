@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Describes typed storage without embedding a backend register, declaration or resource handle.

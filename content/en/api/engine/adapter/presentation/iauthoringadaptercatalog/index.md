@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-presentation
 aliases: []
 ---
-
-Extends the runtime adapter catalog with tooling and presentation factories required by authoring products.

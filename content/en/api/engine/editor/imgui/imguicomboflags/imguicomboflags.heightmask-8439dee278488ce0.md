@@ -13,5 +13,3 @@ reviewed: e41f95861acb0603b2a249e6600bca475101ddff144dd3c743ab9814676ff98f
 source: xml
 outdated: false
 ---
-
-Selects the height mask presentation behavior.

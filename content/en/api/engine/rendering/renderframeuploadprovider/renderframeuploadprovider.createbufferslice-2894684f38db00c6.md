@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a frame-scoped slice over a provider-owned persistent upload buffer.
-
 ## Parameters
 
 **Parameter `buffer`:** The persistent upload page backing the slice.

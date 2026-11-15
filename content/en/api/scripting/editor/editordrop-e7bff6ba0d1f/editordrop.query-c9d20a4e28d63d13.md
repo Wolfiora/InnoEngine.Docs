@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates whether the current managed source may be dropped on the supplied target.
-
 ## Parameters
 
 **Parameter `context`:** The untyped source, target, surface, and requested placement.

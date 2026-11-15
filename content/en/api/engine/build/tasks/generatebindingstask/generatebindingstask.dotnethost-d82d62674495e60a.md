@@ -13,5 +13,3 @@ reviewed: e20489d8a35ac92ce5681a5f742b58b61c1182a1e05ca07afc07078c47fe0daf
 source: xml
 outdated: false
 ---
-
-Gets or sets the explicitly selected managed SDK host used to compose the target toolchain.

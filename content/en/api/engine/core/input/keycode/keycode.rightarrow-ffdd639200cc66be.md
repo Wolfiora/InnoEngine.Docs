@@ -13,5 +13,3 @@ reviewed: 851479879b4d847a746f0af4563081e6961f485c6857c8d66d21ab457b23a114
 source: xml
 outdated: false
 ---
-
-The right arrow key.

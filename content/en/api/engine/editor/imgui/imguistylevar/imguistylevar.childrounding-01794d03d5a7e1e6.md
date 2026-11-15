@@ -13,5 +13,3 @@ reviewed: a7b302b1b3d5f5fc48f3e4ded434cef862c27eafa1d8370458ac23e3935adb42
 source: xml
 outdated: false
 ---
-
-Selects the child rounding presentation behavior.

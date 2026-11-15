@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reports a language-neutral source problem.
-
 ## Parameters
 
 **Parameter `code`:** Stable diagnostic code.

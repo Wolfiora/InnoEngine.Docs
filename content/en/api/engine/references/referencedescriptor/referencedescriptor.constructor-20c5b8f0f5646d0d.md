@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a persistent reference descriptor.
-
 ## Parameters
 
 **Parameter `kindId`:** The open protocol used to resolve the target.

@@ -13,5 +13,3 @@ reviewed: ed64e79b7f83e6b2aabbc458e5b8e78371ebcf41f21460e02982221956b4f9e1
 source: xml
 outdated: false
 ---
-
-Gets whether selection extension is requested.

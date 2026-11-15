@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the generation-safe identifier interpreted inside `P:InnoEngine.Core.RuntimeIdentity.domainId`.

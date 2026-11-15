@@ -13,5 +13,3 @@ reviewed: b5c885ad872d12ce146fefa30f5cd780f0d6b6f05416f0d170b60476b5477229
 source: xml
 outdated: false
 ---
-
-Requires a reference-like value to expose an assigned resource.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-assets-imgui
 aliases: []
 ---
-
-Identifies the authoring or installed-content root displayed by the Asset Browser.

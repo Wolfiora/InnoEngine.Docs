@@ -13,5 +13,3 @@ reviewed: 8e9531a0b8952af4027c6b46c8059a132569127a662f0d51b804f347ee413148
 source: xml
 outdated: false
 ---
-
-The caps lock key.

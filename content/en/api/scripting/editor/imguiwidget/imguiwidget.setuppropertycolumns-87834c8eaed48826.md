@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Configures the label and input columns of an active table with a shared two-to-three ratio. A following fixed-width action column may be added by the caller.

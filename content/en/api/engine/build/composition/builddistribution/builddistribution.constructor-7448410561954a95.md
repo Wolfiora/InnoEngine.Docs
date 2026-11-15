@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a complete distribution without creating authoring services or starting any tool.
-
 ## Parameters
 
 **Parameter `games`:** Complete target contributions with explicitly bound factories, sources and SDK providers.

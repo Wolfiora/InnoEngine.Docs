@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the complete identity under a project namespace.
-
 ## Parameters
 
 **Parameter `projectId`:** The current project namespace.

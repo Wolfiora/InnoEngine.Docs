@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the complete default session factory set from local subsystem declarations.
-
 ## Parameters
 
 **Parameter `context`:** The strongly typed composition inputs borrowed during factory creation.

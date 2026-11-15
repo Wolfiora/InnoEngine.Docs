@@ -13,5 +13,3 @@ reviewed: 29bbf5a42681e524ff50189c8041b7567e6273454df516f78208077218aeadc4
 source: xml
 outdated: false
 ---
-
-Gets the cube glyph used by standard Editor controls.

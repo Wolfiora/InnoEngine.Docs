@@ -13,5 +13,3 @@ reviewed: a24296850b0ed353ed608f569e8a2a501170613c865bc949081036aa77a257f1
 source: xml
 outdated: false
 ---
-
-The one-based source column, or zero when no source location is available.

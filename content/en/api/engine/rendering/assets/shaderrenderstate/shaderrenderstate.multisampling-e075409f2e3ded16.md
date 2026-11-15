@@ -13,5 +13,3 @@ reviewed: 187222de559a795190eb90a8300d68289b60071a6de552c29df9f3995506e05b
 source: xml
 outdated: false
 ---
-
-Gets or sets whether compatible targets use multisample rasterization.

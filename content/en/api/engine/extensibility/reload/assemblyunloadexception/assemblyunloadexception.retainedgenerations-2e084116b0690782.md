@@ -13,5 +13,3 @@ reviewed: 5f5bdacaca9d322beb37275f5baf6de4c19761d228e298ab202afb8e86b98a62
 source: xml
 outdated: false
 ---
-
-Gets stable descriptions of every generation that prevented completion.

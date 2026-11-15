@@ -13,5 +13,3 @@ reviewed: 7d6f78aae9ac5d375381be9954255345df57ee9cd1087adba38dd3460456ff9d
 source: xml
 outdated: false
 ---
-
-Gets the headless reload-safe document lifetime used by dedicated asset editors and Inspectors.

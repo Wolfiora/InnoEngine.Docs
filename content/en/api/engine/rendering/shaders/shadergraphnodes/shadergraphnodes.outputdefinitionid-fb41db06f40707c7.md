@@ -13,5 +13,3 @@ reviewed: 15e17bb824aa3ce6cc349474307b13b6b1116f900222cd17c1431696c6c857a8
 source: xml
 outdated: false
 ---
-
-Identifies the optional multi-port node-output interface record.

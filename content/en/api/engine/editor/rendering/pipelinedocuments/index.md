@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Edits Pipeline sources and typed extension settings without changing canonical rendering assets before Save.

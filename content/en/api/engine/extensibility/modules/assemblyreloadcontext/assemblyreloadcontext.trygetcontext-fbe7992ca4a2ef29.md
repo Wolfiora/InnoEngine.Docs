@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a context contributed by a registered catalog participant.
-
 ## Type parameters
 
 **Type parameter `TContext`:** The requested participant context type.

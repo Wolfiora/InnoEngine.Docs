@@ -13,5 +13,3 @@ reviewed: 00e958c894e25e5fe7216c1ce8ee120e4309fd2dcf415d14996138184841a5bf
 source: xml
 outdated: false
 ---
-
-Gets or initializes the user-facing Plugin name.

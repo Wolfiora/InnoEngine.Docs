@@ -13,5 +13,3 @@ reviewed: 553b972d33882fca52930061e71bf525399d4f3e4251ee38f1702f79886c0f57
 source: xml
 outdated: false
 ---
-
-Revokes this registration without clearing a newer registration for the same producer.

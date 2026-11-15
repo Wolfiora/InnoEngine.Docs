@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds this allocator to the current asynchronous execution context until the returned scope is disposed.
-
 ## Returns
 
 A strict last-in-first-out scope owned by the caller.

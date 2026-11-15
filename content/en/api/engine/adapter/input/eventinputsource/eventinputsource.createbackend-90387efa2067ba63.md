@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one isolated backend that receives subsequent events from this source.
-
 ## Returns
 
 A caller-owned backend whose disposal unregisters it from this source.

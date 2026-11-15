@@ -13,5 +13,3 @@ reviewed: 9f3fbd699750fee1d3012e853f3aea8781df277bd88508191cc36e72e14352a6
 source: xml
 outdated: false
 ---
-
-Gets or sets how a reference to this graph participates in compilation.

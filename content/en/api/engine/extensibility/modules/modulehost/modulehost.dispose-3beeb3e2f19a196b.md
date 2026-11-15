@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Unsubscribes assembly discovery and begins unload of every module owned by this host.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** A generation still owns live work. Discovery stops, but modules are not unloaded or forgotten.

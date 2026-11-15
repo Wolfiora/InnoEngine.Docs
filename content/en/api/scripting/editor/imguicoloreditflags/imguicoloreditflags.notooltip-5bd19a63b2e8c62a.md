@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: disable tooltip when hovering the preview.

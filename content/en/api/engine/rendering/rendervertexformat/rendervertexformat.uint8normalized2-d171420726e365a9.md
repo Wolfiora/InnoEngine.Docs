@@ -13,5 +13,3 @@ reviewed: e55925657f09e6d49ad237a1ac5e34da49f3b2059dbc797961cd4f2717c516ad
 source: xml
 outdated: false
 ---
-
-Two normalized unsigned bytes.

@@ -13,5 +13,3 @@ reviewed: fceeb1b07a8533aba19bed08e9f43609c1a533a16f3def4176e743b19bb4e983
 source: xml
 outdated: false
 ---
-
-Gets the stable ImGui identifier used by the input field.

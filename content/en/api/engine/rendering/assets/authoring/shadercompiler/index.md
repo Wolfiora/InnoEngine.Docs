@@ -16,9 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Compiles validated Shader IR through one target toolchain.
-
-Carries validated inputs and outputs for one shader compilation stage.
-
-Carries validated inputs and outputs for one shader compilation stage.

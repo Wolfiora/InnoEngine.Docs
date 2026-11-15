@@ -13,5 +13,3 @@ reviewed: 9d133256abf566abfe1ac43d90a021f64f7d353923aeb3c7b6226c8fb76f7c52
 source: xml
 outdated: false
 ---
-
-Test from root window (top most parent of the current hierarchy)

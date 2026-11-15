@@ -13,5 +13,3 @@ reviewed: 2c69a09a47a0b824880e684bbc88abf64a3ccee94feec80fdf64ceac2828fb8e
 source: xml
 outdated: false
 ---
-
-Gets cumulative native transient allocations for this device generation on the API thread. A null snapshot means allocation accounting is unavailable, not that no resources were allocated.

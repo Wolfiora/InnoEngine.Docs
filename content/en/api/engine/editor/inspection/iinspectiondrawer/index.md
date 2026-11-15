@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Defines the runtime bridge used to render a discovered inspection drawer.

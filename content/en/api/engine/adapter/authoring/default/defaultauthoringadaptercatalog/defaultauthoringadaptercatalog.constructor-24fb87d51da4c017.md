@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates paired runtime and authoring registrations before any native device is initialized.
-
 ## Parameters
 
 **Parameter `options`:** The host's explicit runtime service configuration.

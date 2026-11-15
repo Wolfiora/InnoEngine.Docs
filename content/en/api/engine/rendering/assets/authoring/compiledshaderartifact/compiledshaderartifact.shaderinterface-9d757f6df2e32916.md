@@ -13,5 +13,3 @@ reviewed: 95d3ab42bdbcc5b8c466027df533647bc4bf5c9e75386ce754bf7f662dd73194
 source: xml
 outdated: false
 ---
-
-Gets the manifest-derived binding contract.

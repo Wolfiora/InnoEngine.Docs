@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Sets the viewport rectangle in render-target pixels.
-
 ## Parameters
 
 **Parameter `x`:** Left coordinate in render-target pixels.

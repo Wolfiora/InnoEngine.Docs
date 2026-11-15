@@ -13,5 +13,3 @@ reviewed: 5287ffacbf836b02b7961ceeed7bfc84fe73fae26edd518f2a35bf213f3b07a9
 source: xml
 outdated: false
 ---
-
-Identifies the Y presentation key or modifier.

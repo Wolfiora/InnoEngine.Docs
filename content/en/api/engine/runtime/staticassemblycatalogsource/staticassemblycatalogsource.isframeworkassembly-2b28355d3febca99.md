@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an assembly is a framework contract rather than a contributed module.
-
 ## Parameters
 
 **Parameter `assembly`:** The candidate shared assembly.

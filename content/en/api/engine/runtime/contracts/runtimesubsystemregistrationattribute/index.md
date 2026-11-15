@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Declares a strongly typed composition method for build-time subsystem catalog generation.

@@ -13,5 +13,3 @@ reviewed: 88902345eec13f730d37d00b3eb6c5cb27465299575cd29f70a17d39e4c3cf58
 source: xml
 outdated: false
 ---
-
-Gets the candidate asset assigned by the importer.

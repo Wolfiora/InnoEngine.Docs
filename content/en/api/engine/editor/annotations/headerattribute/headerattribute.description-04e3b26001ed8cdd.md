@@ -13,5 +13,3 @@ reviewed: 5c5ef6c346ec9c93ffa36513f8a1b13a8e5895e890f8aa7027c76a060964f991
 source: xml
 outdated: false
 ---
-
-Gets the optional explanatory text.

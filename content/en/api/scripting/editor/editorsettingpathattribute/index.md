@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Places an `T:InnoEditor.Settings.EditorSetting` at an arbitrary string Settings path.

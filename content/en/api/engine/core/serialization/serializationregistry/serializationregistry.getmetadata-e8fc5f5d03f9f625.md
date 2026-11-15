@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the current provider's declaration metadata for domain operations such as prefab overrides.
-
 ## Parameters
 
 **Parameter `type`:** The exact declaration owned by the current serialization generation.

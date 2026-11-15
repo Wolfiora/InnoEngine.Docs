@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Discards staged authoring changes and reloads the last saved source.
-
 ## Parameters
 
 **Parameter `context`:** Stable document context owned by the host.

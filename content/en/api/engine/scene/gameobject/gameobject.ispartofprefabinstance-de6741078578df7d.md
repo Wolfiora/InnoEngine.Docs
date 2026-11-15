@@ -13,5 +13,3 @@ reviewed: 36dcba66b7713755a6cb6c16683c643c8c081b55dcfe74a32ac603abdd8947e4
 source: xml
 outdated: false
 ---
-
-Gets whether this object retains a prefab source connection.

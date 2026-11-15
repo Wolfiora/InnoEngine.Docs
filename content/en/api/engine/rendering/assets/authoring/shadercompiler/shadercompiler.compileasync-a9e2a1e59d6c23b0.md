@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles every graph-lowered pass through the adapter's typed stage interface.
-
 ## Parameters
 
 **Parameter `definition`:** Source-free material, technique, capability and pass contract.

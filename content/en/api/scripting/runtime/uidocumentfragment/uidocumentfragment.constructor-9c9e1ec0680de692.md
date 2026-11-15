@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated source fragment.
-
 ## Parameters
 
 **Parameter `language`:** Explicit fragment language.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable texture readback result.
-
 ## Parameters
 
 **Parameter `descriptor`:** Source texture descriptor.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a device capability snapshot.
-
 ## Parameters
 
 **Parameter `backend`:** Active graphics API family.

@@ -13,5 +13,3 @@ reviewed: 5d88f4bdc71ba8cfc89ad42c812d4a36c821444288b492e91f53338f7b3d1e37
 source: xml
 outdated: false
 ---
-
-Gets permitted GPU uses.

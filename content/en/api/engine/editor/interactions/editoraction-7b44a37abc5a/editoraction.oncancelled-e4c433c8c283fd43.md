@@ -13,5 +13,3 @@ reviewed: 647f413bedfad97a0667c768a587f079d6504959fac1350ee30cc41ea2544152
 source: xml
 outdated: false
 ---
-
-Runs after an active operation is cancelled.

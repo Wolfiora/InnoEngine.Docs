@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores one concrete asset and its declared direct dependencies.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Concrete asset source type.

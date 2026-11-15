@@ -13,5 +13,3 @@ reviewed: 7e5217041d9dc86d63ce31e43dfef7361c1a866cf11f4058d4010c0d4201c53d
 source: xml
 outdated: false
 ---
-
-Gets a rejected drop result.

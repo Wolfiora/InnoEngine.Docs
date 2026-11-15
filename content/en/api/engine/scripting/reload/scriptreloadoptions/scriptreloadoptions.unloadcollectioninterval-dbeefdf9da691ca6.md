@@ -13,5 +13,3 @@ reviewed: 0ed86660703ebf0c6a0e86c00bca25954341ab18a434170fbe55c2699f00e615
 source: xml
 outdated: false
 ---
-
-Gets the minimum interval between full garbage-collection attempts for retired assembly generations.

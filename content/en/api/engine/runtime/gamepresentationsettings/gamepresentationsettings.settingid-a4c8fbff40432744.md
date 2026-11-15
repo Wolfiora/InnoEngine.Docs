@@ -13,5 +13,3 @@ reviewed: d719e28ceecbd73ca6f0febe4f5af7a5d87f8acd008e250030379647ae0833fe
 source: xml
 outdated: false
 ---
-
-Gets the stable project-setting identity for game presentation.

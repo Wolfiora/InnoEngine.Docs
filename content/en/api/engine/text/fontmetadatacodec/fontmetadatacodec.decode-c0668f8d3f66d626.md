@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes and validates a compact font runtime payload.
-
 ## Parameters
 
 **Parameter `payload`:** The complete runtime payload.

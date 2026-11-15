@@ -13,5 +13,3 @@ reviewed: 0ae9451f954e1a3f84d043f41539d8a8f1fa3b6f056f5e9fc72ad1c372d92d10
 source: xml
 outdated: false
 ---
-
-Gets the world-space source forward direction.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an input snapshot for one output viewport.
-
 ## Parameters
 
 **Parameter `pointerPosition`:** Pointer coordinates relative to the viewport's top-left corner.

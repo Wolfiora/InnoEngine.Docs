@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds the frontmost node beneath a pointer using the same geometry as drawing.
-
 ## Parameters
 
 **Parameter `layout`:** The current document presentation snapshot.

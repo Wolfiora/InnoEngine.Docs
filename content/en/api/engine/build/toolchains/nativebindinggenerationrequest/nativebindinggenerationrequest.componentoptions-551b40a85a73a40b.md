@@ -13,5 +13,3 @@ reviewed: 4acd77880c98c4d705c21a636ba58ced72720bec2d20a6ca593cb3049883f77c
 source: xml
 outdated: false
 ---
-
-Gets explicit component binding and linkage choices.

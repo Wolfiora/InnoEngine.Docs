@@ -13,5 +13,3 @@ reviewed: 10dcd4c991de52358fb04c98d05f3bf83bfc2ede216ee082fafbe745361d171f
 source: xml
 outdated: false
 ---
-
-Gets the face culling mode.

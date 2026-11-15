@@ -13,5 +13,3 @@ reviewed: 9aeae163ba07dd37dca01868a99a4c7dfb157b86a0053e3ef2e4eda17df84c54
 source: xml
 outdated: false
 ---
-
-Identifies the F12 presentation key or modifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a registered target label or a diagnostic for an unavailable target.
-
 ## Parameters
 
 **Parameter `target`:** The target to describe.

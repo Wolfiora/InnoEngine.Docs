@@ -13,5 +13,3 @@ reviewed: 76f9d5c13fb66deb3a73473652d00cb1d1b9b55c895529cfe714c39d446b5269
 source: xml
 outdated: false
 ---
-
-Gets the stable implementation identity used by imported document artifacts.

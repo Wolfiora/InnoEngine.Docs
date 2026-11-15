@@ -13,5 +13,3 @@ reviewed: 5bb02aa088cdbd3f0ff599de4152c0ad510cf1058a1bc3bdfb6314391a999b5d
 source: xml
 outdated: false
 ---
-
-Gets the globe glyph used by standard Editor controls.

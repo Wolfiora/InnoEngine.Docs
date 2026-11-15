@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Base class for editor panel implementations.

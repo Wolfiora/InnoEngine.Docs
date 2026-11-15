@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a table.
-
 ## Parameters
 
 **Parameter `id`:** The table identity.

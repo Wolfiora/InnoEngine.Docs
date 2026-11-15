@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies product and deployment settings before an asynchronous build retains the request.
-
 ## Returns
 
 A newly owned profile with the same current-format scalar settings and stable selections.

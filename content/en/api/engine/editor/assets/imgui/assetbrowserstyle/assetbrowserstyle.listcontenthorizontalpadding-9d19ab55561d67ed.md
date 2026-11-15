@@ -13,5 +13,3 @@ reviewed: 4edbddff85c40ccc98dad7448fd08645ad5045bb0e5e5dc66114f02d4774c061
 source: xml
 outdated: false
 ---
-
-Gets the horizontal inset between an asset list separator and column content.

@@ -13,5 +13,3 @@ reviewed: 7b4bffd21975fed1d11e7eedd5cda589b08c12f38c478bc42ba66286daa04f19
 source: xml
 outdated: false
 ---
-
-Gets depth comparison.

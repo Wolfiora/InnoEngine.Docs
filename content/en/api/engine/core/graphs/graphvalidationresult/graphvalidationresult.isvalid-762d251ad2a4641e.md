@@ -13,5 +13,3 @@ reviewed: f3596e9a35ad5ecb764edc60c3b0259b5d14de6efc28ff2b57b46a4e59d97eae
 source: xml
 outdated: false
 ---
-
-Gets whether no error diagnostic is present.

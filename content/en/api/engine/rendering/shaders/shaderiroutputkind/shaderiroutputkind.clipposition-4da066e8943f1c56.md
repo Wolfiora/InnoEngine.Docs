@@ -13,5 +13,3 @@ reviewed: 0a783ef57a67a431f730d47335b78edac840d82b6fe1a10491fc11b529f113d6
 source: xml
 outdated: false
 ---
-
-The vertex position in homogeneous clip space.

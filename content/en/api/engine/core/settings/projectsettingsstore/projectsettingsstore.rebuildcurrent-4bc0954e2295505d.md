@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rebuilds effective settings after the active type catalog changes.
-
 ## Parameters
 
 **Parameter `allowUnresolvedContributions`:** Whether Plugin contributions awaiting type activation are skipped.

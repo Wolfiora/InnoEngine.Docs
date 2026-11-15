@@ -13,5 +13,3 @@ reviewed: ef776cceb7b961029616ad9d736d581195e3143ee6540e9e7cd4fd41466b30c5
 source: xml
 outdated: false
 ---
-
-Gets the selected storage backend.

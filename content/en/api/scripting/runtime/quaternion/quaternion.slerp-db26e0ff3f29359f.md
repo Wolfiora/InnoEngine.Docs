@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Interpolates along the shortest spherical path between two rotations.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides one decoded contribution and its immutable composition context.
-
 ## Type parameters
 
 **Type parameter `TContribution`:** The protocol-owned neutral contribution type.

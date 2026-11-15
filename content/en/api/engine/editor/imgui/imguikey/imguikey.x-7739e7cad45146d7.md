@@ -13,5 +13,3 @@ reviewed: 5bc4f905b0887317ba4cc7c190f219c4920f624af606c14a2d16b70edae1094d
 source: xml
 outdated: false
 ---
-
-Identifies the X presentation key or modifier.

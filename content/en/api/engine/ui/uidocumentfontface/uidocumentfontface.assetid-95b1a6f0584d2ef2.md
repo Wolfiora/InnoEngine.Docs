@@ -13,5 +13,3 @@ reviewed: da03b4a71aabebea6ae66776d029ea596b99045b7ad9f05184213337cbaaed79
 source: xml
 outdated: false
 ---
-
-Gets the imported font asset identity.

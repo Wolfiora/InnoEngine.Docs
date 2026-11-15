@@ -13,5 +13,3 @@ reviewed: 8eabc1270157c28df796a5cd74bebbacb4597c6b90119bbd01c2314a3f4f242c
 source: xml
 outdated: false
 ---
-
-Error logs for failures that should be investigated.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Receives one backend-neutral platform event after shared input routing and close evaluation.
-
 ## Parameters
 
 **Parameter `evnt`:** Event produced by the active platform adapter.

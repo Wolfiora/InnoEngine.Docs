@@ -13,5 +13,3 @@ reviewed: 9be89630df2ff622fc3d10ea00ab82d63ea90db3b2f345bf1a4a10e71296eb5f
 source: xml
 outdated: false
 ---
-
-Gets the author-declared catalog path used by Shader creation tools.

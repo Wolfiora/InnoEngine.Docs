@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Marks a reloadable extension that creates the base audio mixer graph.

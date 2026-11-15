@@ -13,5 +13,3 @@ reviewed: 3d6c434a1d4562b0211fffb58df746b7c3ba0155bb04cc3b128826851ab74065
 source: xml
 outdated: false
 ---
-
-Disables distance attenuation while retaining spatial direction.

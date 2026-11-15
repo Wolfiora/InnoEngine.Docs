@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures typed properties and their references as one neutral, owner-independent value.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Current serializable settings contract.

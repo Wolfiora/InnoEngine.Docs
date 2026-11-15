@@ -13,5 +13,3 @@ reviewed: 60d8f17bcdf4e8b6f9b1b2263ca3da209bbc1867f437c37fb3152ce80fd3f2e6
 source: xml
 outdated: false
 ---
-
-The right bracket key.

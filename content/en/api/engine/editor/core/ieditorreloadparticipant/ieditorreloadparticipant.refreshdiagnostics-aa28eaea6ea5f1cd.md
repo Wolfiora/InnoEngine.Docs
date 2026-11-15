@@ -13,5 +13,3 @@ reviewed: 7fae698a0203830946536210b00ca851ed3f1138b20461bc8470cfceef038416
 source: xml
 outdated: false
 ---
-
-Republishes diagnostics derived from the participant's current live state.

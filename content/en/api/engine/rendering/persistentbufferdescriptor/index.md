@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Describes a persistent buffer and any vertex/index interpretation required at creation.

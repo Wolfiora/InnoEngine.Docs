@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an input event source for one window or for the entire application.
-
 ## Parameters
 
 **Parameter `backend`:** input implementation selected by the composition root.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a structure field.
-
 ## Parameters
 
 **Parameter `name`:** Stable field name.

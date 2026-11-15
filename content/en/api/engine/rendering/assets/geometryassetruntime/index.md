@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Decodes normalized CPU geometry committed by mesh importers.

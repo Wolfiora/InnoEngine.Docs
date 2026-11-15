@@ -13,5 +13,3 @@ reviewed: 951cfd263436bda7b7c400844f2aeabdc221a41dfb87d6205c96b8f1f130c79e
 source: xml
 outdated: false
 ---
-
-Gets or sets whether this Material-owned parameter appears in ordinary Material Inspectors.

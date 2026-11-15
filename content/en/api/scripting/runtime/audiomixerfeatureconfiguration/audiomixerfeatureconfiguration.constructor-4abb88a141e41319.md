@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a mixer feature configuration.
-
 ## Parameters
 
 **Parameter `featureTypeId`:** Globally stable feature extension identifier.

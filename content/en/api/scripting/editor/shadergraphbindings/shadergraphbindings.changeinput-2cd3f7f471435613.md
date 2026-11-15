@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a detached candidate with the input and its material/resource declaration updated together.
-
 ## Parameters
 
 **Parameter `graph`:** Current shader graph, never mutated by this operation.

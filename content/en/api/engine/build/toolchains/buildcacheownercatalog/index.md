@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Persists explicit publisher registrations for maintenance without loading the production distribution.

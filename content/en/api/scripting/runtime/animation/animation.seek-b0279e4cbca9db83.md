@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Seeks one live playback to a clip-local time.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle to seek.

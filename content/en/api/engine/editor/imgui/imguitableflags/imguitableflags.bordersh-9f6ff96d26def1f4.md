@@ -13,5 +13,3 @@ reviewed: 5223ca1e511ba8be5aca2f7b2317dde68e4874cac1b6aca71ac6e0f08e854404
 source: xml
 outdated: false
 ---
-
-Draw horizontal borders.

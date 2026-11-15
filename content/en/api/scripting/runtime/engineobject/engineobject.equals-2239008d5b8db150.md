@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares this instance to another object using reference identity.
-
 ## Returns
 
 `true` when `obj` is this instance.

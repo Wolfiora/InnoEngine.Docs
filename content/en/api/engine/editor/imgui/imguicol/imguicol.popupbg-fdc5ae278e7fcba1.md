@@ -13,5 +13,3 @@ reviewed: b1e7d770a69de309cc009b08d1badd551c03142e5ba04664f484e589aaf83af3
 source: xml
 outdated: false
 ---
-
-Selects the popup bg presentation behavior.

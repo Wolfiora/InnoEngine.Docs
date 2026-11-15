@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets candidate source entries without publishing them to active AssetPipeline consumers.
-
 ## Parameters
 
 **Parameter `includeDirectories`:** Whether directory entries should be included.

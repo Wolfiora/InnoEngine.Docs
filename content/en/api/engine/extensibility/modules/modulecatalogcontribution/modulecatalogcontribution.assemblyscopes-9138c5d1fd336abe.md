@@ -13,5 +13,3 @@ reviewed: e565696608f013837d761c1225b5cb18be40653e64ce97dc0fd5218300659fe4
 source: xml
 outdated: false
 ---
-
-Gets the complete per-assembly scope map.

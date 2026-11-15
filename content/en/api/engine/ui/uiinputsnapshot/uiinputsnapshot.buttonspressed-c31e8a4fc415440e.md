@@ -13,5 +13,3 @@ reviewed: ba6fcafa708dcefdfb8103d78bb8ce69beb974967a82ba0b0a02723379a818ec
 source: xml
 outdated: false
 ---
-
-Gets pointer buttons pressed this frame.

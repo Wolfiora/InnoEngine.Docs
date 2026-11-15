@@ -13,5 +13,3 @@ reviewed: 104d966afd60e44c6e65b313be9e278ee22288069eb7627146882a9be4961db6
 source: xml
 outdated: false
 ---
-
-Tests equality of two scalar values and produces a scalar Boolean.

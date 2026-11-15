@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable animation marker event.
-
 ## Parameters
 
 **Parameter `playback`:** Playback that crossed the marker.

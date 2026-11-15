@@ -13,5 +13,3 @@ reviewed: b8e0dcd9255adcecc631a11c859baeda9ac73ba54b2bb843624bbd31ce0a5528
 source: xml
 outdated: false
 ---
-
-Gets the stencil-failure operation.

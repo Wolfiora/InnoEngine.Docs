@@ -13,5 +13,3 @@ reviewed: 5545af5b2f19482081192b4aafd0c8267bc1fa1ca9f21552aa59880059547837
 source: xml
 outdated: false
 ---
-
-The writable project `Assets` authoring root.

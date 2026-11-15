@@ -13,5 +13,3 @@ reviewed: 21514519ff34f0ad876d07caf0dfec06d8e9bccf542d64342ce0f44ac2fbb417
 source: xml
 outdated: false
 ---
-
-Gets the regular resizable content toolbar spacing.

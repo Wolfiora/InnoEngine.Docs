@@ -13,5 +13,3 @@ reviewed: dc42ba0da92f7cb40b85a45edf3c83dca31bf266917af486c1b2a8ecfb5d6602
 source: xml
 outdated: false
 ---
-
-Gets or sets the maximum combined emitter and listener snapshots accepted across all providers per update.

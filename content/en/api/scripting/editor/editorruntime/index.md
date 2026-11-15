@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Defines the presentation-independent lifecycle of an editor runtime.

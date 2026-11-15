@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finalizes an activated state and releases the previous state without performing further publication work.
-
 ## Remarks
 
 Ordinary cleanup failures must remain observable after all independent owners have been attempted. The coordinator faults further generation admission instead of ignoring the failure or pretending publication can roll back. Unfinished retirement must retain its owners and propagate the retirement barrier before releasing their dependencies.

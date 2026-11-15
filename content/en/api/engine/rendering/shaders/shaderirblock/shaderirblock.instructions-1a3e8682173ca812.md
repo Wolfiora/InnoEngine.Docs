@@ -13,5 +13,3 @@ reviewed: ef6b5369e7e8774c9f2039c46a6f8f21c3934d72bb5ba9788a4dab2984f06b9c
 source: xml
 outdated: false
 ---
-
-Gets instructions in evaluation order, including source calls whose outputs are unused.

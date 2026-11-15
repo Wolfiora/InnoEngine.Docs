@@ -13,5 +13,3 @@ reviewed: 235a2a13adc1ba0aa4f7a9ab6952bfe2728ec7eb8fd50ac3c9779c6ac66f1481
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum simultaneous cold asset payload preparation bytes before admission is rejected.

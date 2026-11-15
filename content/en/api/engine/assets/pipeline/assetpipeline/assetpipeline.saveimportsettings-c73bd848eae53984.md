@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves import settings with conflict detection and immediately attempts to reimport the source.
-
 ## Parameters
 
 **Parameter `path`:** The writable isolated source path.

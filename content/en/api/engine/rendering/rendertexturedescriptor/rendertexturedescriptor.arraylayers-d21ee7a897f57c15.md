@@ -13,5 +13,3 @@ reviewed: 47faee88eda3d7c3aacf8d50e58bd6ecdb093e27f1618be43d0b3006a8637cb7
 source: xml
 outdated: false
 ---
-
-Gets the number of array layers.

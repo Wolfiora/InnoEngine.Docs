@@ -13,5 +13,3 @@ reviewed: b0a4d6fabbfe403d6f453f12a135bb9f2f7c534721bf1b4876d91d67bfac3d6a
 source: xml
 outdated: false
 ---
-
-Draw vertical borders.

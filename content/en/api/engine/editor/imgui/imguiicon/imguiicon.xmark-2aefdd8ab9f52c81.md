@@ -13,5 +13,3 @@ reviewed: 53f1cd644a79df9c8c0690634a0529d936fd573738b70622c76250c5e8b3913e
 source: xml
 outdated: false
 ---
-
-Gets the xmark glyph used by standard Editor controls.

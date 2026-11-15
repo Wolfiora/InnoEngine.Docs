@@ -13,5 +13,3 @@ reviewed: f5b3a055a98e66799a997ca08edd6bc31de3211062a01bfa3ed3ebe80ec3f7f9
 source: xml
 outdated: false
 ---
-
-Gets or sets the maximum number of ordinary log occurrences retained in memory.

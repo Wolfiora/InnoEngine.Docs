@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-graph
 aliases: []
 ---
-
-Applies neutral graph edits atomically and records every data mutation in reload-safe Editor History.

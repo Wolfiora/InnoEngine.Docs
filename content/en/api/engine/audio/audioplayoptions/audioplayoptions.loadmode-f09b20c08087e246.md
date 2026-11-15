@@ -13,5 +13,3 @@ reviewed: 1aaddfb5a8a5c59d75030f40c1eb124eba0e745d996c8a895f515243a319f600
 source: xml
 outdated: false
 ---
-
-Gets the clip preparation override.

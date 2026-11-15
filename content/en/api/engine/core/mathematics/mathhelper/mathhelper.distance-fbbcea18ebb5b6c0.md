@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Calculates the absolute value of the difference of two values.
-
 ## Parameters
 
 **Parameter `value1`:** Source value.

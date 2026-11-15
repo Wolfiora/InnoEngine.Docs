@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one backend-neutral UI input snapshot.
-
 ## Parameters
 
 **Parameter `mousePosition`:** Pointer position in surface coordinates.

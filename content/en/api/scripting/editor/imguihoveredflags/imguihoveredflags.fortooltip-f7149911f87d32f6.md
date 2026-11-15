@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Shortcut for standard flags when using IsItemHovered() + SetTooltip() sequence.

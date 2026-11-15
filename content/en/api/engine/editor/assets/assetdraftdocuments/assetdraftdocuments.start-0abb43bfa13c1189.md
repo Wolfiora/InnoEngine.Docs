@@ -13,5 +13,3 @@ reviewed: 9f1be2dd58ab99129176cbf7c4e12990dae2046d280047923a53573decad8024
 source: xml
 outdated: false
 ---
-
-Registers the feature provider with the headless document ownership service.

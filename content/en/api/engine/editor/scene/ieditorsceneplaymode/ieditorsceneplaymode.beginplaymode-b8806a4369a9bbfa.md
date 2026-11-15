@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the editable scene set and materializes independent runtime copies in the supplied session.
-
 ## Parameters
 
 **Parameter `runtimeSession`:** The isolated Play Mode session that receives the immutable start snapshot and owns editor-side operations performed against the runtime copies.

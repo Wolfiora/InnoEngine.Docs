@@ -13,5 +13,3 @@ reviewed: 2acb42e25f581881ce90ff0b0aaadbd52587a0686cd6824df935f432c1186820
 source: xml
 outdated: false
 ---
-
-Gets the explicit logical upstream module names.

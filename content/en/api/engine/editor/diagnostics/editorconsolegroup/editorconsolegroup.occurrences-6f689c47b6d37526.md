@@ -13,5 +13,3 @@ reviewed: 5160557d1abb11fc75e339d05fed4e4be1a05f4f49326e3f863453ad9086fd36
 source: xml
 outdated: false
 ---
-
-Gets every matching occurrence in arrival order.

@@ -13,5 +13,3 @@ reviewed: f6840f340e8214dacc65e3c09d783462ddb4315c68efb7fa3e99d337af67c2cf
 source: xml
 outdated: false
 ---
-
-Gets the runtime session associated with the current asynchronous execution flow.

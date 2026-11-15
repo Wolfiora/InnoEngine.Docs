@@ -13,5 +13,3 @@ reviewed: f0e2a0d063e2e8d3bb2383e8c1047e492df78cc0cd797a4cded8434eb72e91bf
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled ImGui implementation.

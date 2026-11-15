@@ -13,5 +13,3 @@ reviewed: 649ea4081bf2566fad7c9118431363bce1924d76e0edb4bb4fac727687c1e5e3
 source: xml
 outdated: false
 ---
-
-Selects the no nav presentation behavior.

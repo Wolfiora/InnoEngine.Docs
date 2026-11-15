@@ -13,5 +13,3 @@ reviewed: 4656c762a8f779d4fb967e892daf4cfa39b4413bdd77ed373f8d948f43373228
 source: xml
 outdated: false
 ---
-
-Gets whether the window currently owns platform input focus.

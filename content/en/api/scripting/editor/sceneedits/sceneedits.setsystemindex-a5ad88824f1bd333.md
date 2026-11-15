@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves a registered system and records only its two display indices.
-
 ## Parameters
 
 **Parameter `scene`:** The scene currently owning the system.

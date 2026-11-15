@@ -13,5 +13,3 @@ reviewed: b546e278c91185bdce20291ce7abbbb4068d1fbb88b2b7e69ae850e1ebbc7006
 source: xml
 outdated: false
 ---
-
-Gets the pointer buttons newly released during this frame.

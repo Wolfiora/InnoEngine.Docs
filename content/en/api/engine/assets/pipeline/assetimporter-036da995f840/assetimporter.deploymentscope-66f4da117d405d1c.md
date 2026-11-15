@@ -13,5 +13,3 @@ reviewed: 8e1d8bbb39069924e3528ab882fc4c9375b086a224b5e8229ebdebea4e518253
 source: xml
 outdated: false
 ---
-
-Gets whether imported assets are deployed or retained only for authoring workflows.

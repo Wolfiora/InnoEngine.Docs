@@ -13,5 +13,3 @@ reviewed: 1dc7b987e88023f0c8830ea3c80222344d5c6b49648161b25209d8810ac80e60
 source: xml
 outdated: false
 ---
-
-Selects the mouse button mask presentation behavior.

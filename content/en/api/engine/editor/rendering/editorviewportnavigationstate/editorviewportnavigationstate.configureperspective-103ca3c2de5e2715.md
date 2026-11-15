@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically initializes a perspective navigation view.
-
 ## Parameters
 
 **Parameter `position`:** Provider-defined world-space position.

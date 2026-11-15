@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a module registration with stable identity and deterministic lifecycle order.
-
 ## Parameters
 
 **Parameter `id`:** The globally unique module identifier used for discovery diagnostics and optional persisted module state.

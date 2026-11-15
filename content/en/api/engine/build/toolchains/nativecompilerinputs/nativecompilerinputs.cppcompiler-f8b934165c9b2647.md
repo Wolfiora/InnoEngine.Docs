@@ -13,5 +13,3 @@ reviewed: 4ff37b54d2391f5c99b44a478065956fd93a120e9d65dbd747b3d08f54d4f0b6
 source: xml
 outdated: false
 ---
-
-Gets the explicit C++ compiler, or null when unavailable.

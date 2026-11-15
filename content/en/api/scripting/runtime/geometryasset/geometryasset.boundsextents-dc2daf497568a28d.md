@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the non-negative object-space half-extents of imported geometry bounds.

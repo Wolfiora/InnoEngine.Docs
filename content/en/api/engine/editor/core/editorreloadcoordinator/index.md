@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---
-
-Coordinates weakly registered editor feature migrations around atomic assembly reload sessions.

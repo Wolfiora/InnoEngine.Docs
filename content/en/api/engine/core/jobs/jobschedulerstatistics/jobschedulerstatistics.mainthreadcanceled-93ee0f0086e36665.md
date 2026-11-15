@@ -13,5 +13,3 @@ reviewed: 3b55231efb076ce251e21d663d0a8845e15ec04e61ff01d6b5cf3dfb5f2479b0
 source: xml
 outdated: false
 ---
-
-Gets accepted callbacks canceled before execution during shutdown.

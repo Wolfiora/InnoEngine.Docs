@@ -13,5 +13,3 @@ reviewed: b45badce1d8589e54d4868773bde5dcf54dec7a8b675437eb9aa4b13f9589d17
 source: xml
 outdated: false
 ---
-
-Gets whether the drop was accepted.

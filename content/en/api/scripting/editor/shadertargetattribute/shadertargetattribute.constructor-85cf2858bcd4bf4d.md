@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates target discovery metadata.
-
 ## Parameters
 
 **Parameter `id`:** Stable target identity persisted by Shader assets.

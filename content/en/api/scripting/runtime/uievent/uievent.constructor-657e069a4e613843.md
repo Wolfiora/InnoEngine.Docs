@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a document event with its source document and target element.
-
 ## Parameters
 
 **Parameter `type`:** The kind of document interaction.

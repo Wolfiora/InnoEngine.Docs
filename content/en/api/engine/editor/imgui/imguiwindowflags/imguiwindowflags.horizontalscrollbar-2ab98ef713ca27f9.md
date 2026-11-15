@@ -13,5 +13,3 @@ reviewed: ea45a1e5cc51bfaaae42a18abf255f766039f0b12a645bae9bdb038802db5997
 source: xml
 outdated: false
 ---
-
-Allow horizontal scrollbar to appear (off by default). You may use SetNextWindowContentSize(ImVec2(width,0.0f)); prior to calling Begin() to specify width. Read code in imgui\_demo in the "Horizontal Scrolling" section.

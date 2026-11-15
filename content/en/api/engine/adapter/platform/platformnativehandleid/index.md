@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-platform
 aliases: []
 ---
-
-Identifies an open native surface ABI understood by cooperating window and graphics adapters.

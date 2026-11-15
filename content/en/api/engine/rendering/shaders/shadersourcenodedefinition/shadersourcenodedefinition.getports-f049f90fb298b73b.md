@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a ports required by the implemented contract.
-
 ## Parameters
 
 **Parameter `node`:** The node consumed by get ports; ownership remains with the caller unless explicitly stated otherwise.

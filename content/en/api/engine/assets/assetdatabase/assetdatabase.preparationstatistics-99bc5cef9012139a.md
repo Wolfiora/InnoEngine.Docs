@@ -13,5 +13,3 @@ reviewed: cc5e1eef13acffd767bd0a0b5666a1aa65158e63661c25f1fef8b7b48914ddd1
 source: xml
 outdated: false
 ---
-
-Gets immutable cold-load admission, unique IO and peak reservation counters for this database lifetime.

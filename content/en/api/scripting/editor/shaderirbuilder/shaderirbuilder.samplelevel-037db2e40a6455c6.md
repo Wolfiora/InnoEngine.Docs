@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Samples a texture at an explicit floating-point mip level without implicit derivatives.
-
 ## Parameters
 
 **Parameter `texture`:** A sampled 2D, 2D-array, 3D or cube texture.

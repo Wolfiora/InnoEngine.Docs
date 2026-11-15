@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Computes the selected generator source input identity without producing bindings or compiling a product.
-
 ## Parameters
 
 **Parameter `context`:** The borrowed operation with frozen target tools and phase-local input reads.

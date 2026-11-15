@@ -13,5 +13,3 @@ reviewed: 7bfa7d8015825e7255dcf19b9508e1aa4f3a1dffb65523ed91be813925c137cb
 source: xml
 outdated: false
 ---
-
-Gets the contribution source.

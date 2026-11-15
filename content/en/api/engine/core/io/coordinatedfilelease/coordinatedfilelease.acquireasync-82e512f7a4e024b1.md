@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires owner reading rights before opening or waiting for a leaf lease.
-
 ## Parameters
 
 **Parameter `coordinationPath`:** The persistent owner gate, never removed by retirement.

@@ -13,5 +13,3 @@ reviewed: c1fd91298dea7978d01e829aafbc68f4467745cdcd49d19101163f2e77c38eef
 source: xml
 outdated: false
 ---
-
-Selects the scrollbar grab active presentation behavior.

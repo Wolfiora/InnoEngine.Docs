@@ -13,5 +13,3 @@ reviewed: 50ba1bc050831fd2f25fd06371bd56ea0446ee818f663e39a161824c57cfcbbc
 source: xml
 outdated: false
 ---
-
-Gets disabled stencil state.

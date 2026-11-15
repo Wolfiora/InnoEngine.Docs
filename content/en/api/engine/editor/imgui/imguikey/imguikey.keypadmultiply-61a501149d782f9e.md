@@ -13,5 +13,3 @@ reviewed: 274356ed077a9ec5899b2bedad1e2ceb79f66e8945561f28753a9f5dfa6ff086
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadMultiply presentation key or modifier.

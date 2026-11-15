@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-For BeginPopupContextWindow(): don't return true when hovering items, only when hovering empty space

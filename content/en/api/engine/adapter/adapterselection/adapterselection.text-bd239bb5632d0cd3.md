@@ -13,5 +13,3 @@ reviewed: 32423ac4fb88911b018252fe292833ee46935b9cf98c1a929d38d6af48292f09
 source: xml
 outdated: false
 ---
-
-Gets the selected Unicode text backend.

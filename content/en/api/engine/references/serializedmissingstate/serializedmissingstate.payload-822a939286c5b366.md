@@ -13,5 +13,3 @@ reviewed: 30b07818e69f40454d39edffb9f6b873fb0076969c348cdd96078eba2763cb8d
 source: xml
 outdated: false
 ---
-
-Gets immutable neutral bytes used to reconstruct the owner state.

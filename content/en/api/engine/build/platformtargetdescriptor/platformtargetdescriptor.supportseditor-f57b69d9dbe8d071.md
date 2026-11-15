@@ -13,5 +13,3 @@ reviewed: 435ea1dd646aec597b05804c7941f77c8320e80641ff35031fe8293b1edd461f
 source: xml
 outdated: false
 ---
-
-Gets whether this target provides an implemented Editor host.

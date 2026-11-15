@@ -13,5 +13,3 @@ reviewed: f22196b374922b24d5bbc2eaa3dfdc6ec8a6724eddd2a1a47c6f15ea1836f5f4
 source: xml
 outdated: false
 ---
-
-Selects the sizing mask presentation behavior.

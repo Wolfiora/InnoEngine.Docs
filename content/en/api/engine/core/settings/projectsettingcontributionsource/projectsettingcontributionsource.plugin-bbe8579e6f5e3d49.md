@@ -13,5 +13,3 @@ reviewed: 384c689436a4cb7cd4c39fb2ca47cae9f2b44ad400d35c18b242001878d32080
 source: xml
 outdated: false
 ---
-
-The contribution is a default supplied by an activated Plugin.

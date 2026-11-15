@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores a previously captured subtree into a loaded scene with its original persistent identities.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded destination scene.

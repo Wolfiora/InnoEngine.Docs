@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures component configuration without selecting an SDK or starting a build.
-
 ## Parameters
 
 **Parameter `libraryKind`:** The explicitly requested linkage; a recipe must support it before execution starts.

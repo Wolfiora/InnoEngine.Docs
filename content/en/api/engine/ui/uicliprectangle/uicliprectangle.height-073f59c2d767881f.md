@@ -13,5 +13,3 @@ reviewed: 609e6faf50eead1241d470fc4c0612d96255f39c50b4ccf16f85634ff757cd2b
 source: xml
 outdated: false
 ---
-
-The height in logical units or pixels required by this operation.

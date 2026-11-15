@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---
-
-Defines one path-addressed Settings page or one custom-drawn Settings field.

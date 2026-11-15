@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins validating an installed sample before its source copy can be committed.
-
 ## Parameters
 
 **Parameter `source`:** The installed sample root to validate and import.

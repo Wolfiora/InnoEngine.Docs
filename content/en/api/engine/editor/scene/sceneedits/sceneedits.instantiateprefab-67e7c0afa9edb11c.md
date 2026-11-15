@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Instantiates a prefab into a loaded scene and records the created subtree as one reversible edit.
-
 ## Parameters
 
 **Parameter `prefab`:** The imported prefab asset to instantiate.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a named node value; absent values use the declared default, corrupt values never do.
-
 ## Type parameters
 
 **Type parameter `T`:** Expected native serializable type.

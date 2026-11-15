@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime
 aliases: []
 ---
-
-Freezes the code ownership, ordered assembly identities and dependencies of one logical module.

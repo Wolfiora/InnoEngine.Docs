@@ -13,5 +13,3 @@ reviewed: 11201ff18299b445e913de1a28f65c8569f495e112e81477aff44b0015e7088b
 source: xml
 outdated: false
 ---
-
-The quote key.

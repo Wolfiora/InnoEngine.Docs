@@ -13,5 +13,3 @@ reviewed: 8348899fe15a0d18051fe592bc43b4f1cca912ad5d189f93608c206c5df8ae66
 source: xml
 outdated: false
 ---
-
-Gets or sets the target semantic, not a native expression.

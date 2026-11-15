@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Captures one persistent property as independently restorable neutral bytes without reading unrelated members.
-
 ## Parameters
 
 **Parameter `value`:** The serializable object containing the requested property.

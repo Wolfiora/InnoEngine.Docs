@@ -13,5 +13,3 @@ reviewed: d0c4b1f8e53ddf70def1ce935b4bdb0bda6d03ac3c3bcbe0f80f48b595572c12
 source: xml
 outdated: false
 ---
-
-Gets the logical style.

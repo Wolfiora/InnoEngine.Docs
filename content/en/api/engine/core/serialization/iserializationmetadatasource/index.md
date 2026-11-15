@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Supplies declaration access and construction without choosing a runtime reflection implementation.

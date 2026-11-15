@@ -13,5 +13,3 @@ reviewed: e126eb9eb96497e09fc2d2308c9dbe0baf7f4f4ba96c73d19eced0e70699cdfe
 source: xml
 outdated: false
 ---
-
-Selects the picker mask presentation behavior.

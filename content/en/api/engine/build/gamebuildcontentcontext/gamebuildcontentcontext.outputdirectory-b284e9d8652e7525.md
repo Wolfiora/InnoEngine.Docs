@@ -13,5 +13,3 @@ reviewed: 156f1ec76f97a414921ffff71699b3e56335d5988b7fce5ef486afeb8d4ee521
 source: xml
 outdated: false
 ---
-
-Gets the empty staging directory that receives source-free target artifacts.

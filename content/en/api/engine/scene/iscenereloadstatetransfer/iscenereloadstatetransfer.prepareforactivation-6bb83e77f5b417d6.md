@@ -13,5 +13,3 @@ reviewed: a23b17517a4b914ecd5cdbd2ebec241c58f3884f51ff194454056c8a58e8f2e0
 source: xml
 outdated: false
 ---
-
-Disables active retiring lifecycle objects before the new assembly generation becomes active.

@@ -13,5 +13,3 @@ reviewed: 917957fcbd12148868d30b0ae8f70947a2935225bfcbc05cfcdcd06ea2bd2508
 source: xml
 outdated: false
 ---
-
-Gets or sets the platform target.

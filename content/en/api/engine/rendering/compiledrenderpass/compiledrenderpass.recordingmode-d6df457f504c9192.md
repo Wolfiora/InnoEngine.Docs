@@ -13,5 +13,3 @@ reviewed: a04678adf4ad700e60f6c668c45d7ac3c220dc1054075a7f2d8f732766b31c0b
 source: xml
 outdated: false
 ---
-
-Gets whether callback recording is serial or worker-thread eligible.

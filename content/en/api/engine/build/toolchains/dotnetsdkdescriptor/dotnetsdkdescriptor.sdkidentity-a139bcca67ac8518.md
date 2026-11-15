@@ -13,5 +13,3 @@ reviewed: cf650739e4c69251dc0606b4592f95c7fbab65953f9ddb32d17f48374207595a
 source: xml
 outdated: false
 ---
-
-Gets the exact SDK identity selected by the project's global.json resolution rules.

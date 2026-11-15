@@ -13,5 +13,3 @@ reviewed: f123b6c24b790ccc78534c29c1e51767ec6286aef038c4ec597c93fcc9a45420
 source: xml
 outdated: false
 ---
-
-Gets the ordered inheritance chain, excluding System.Object.

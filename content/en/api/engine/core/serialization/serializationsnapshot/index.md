@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Holds an immutable, neutral capture of serialized values without retaining the source object or its generation.
-
 ## Remarks
 
 Capture again through ```M:Inno.Core.Serialization.SerializationRegistry.CaptureSnapshot``1(``0,Inno.Core.Serialization.SerializationContext,Inno.Core.Serialization.SerializationSnapshot)``` to reuse unchanged values. Readers may share a snapshot across threads. It owns only scalar values, strings and copied binary data, never source instances, metadata, converters or delegates. It is transient and is not a persistence format.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Describes the link or deployment role explicitly assigned by a native producer.

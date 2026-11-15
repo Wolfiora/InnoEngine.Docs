@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides protected construction operations for replaceable render resource-service implementations.
-
 ## Remarks
 
 The boundary lets a runtime resource service create generation-scoped values while their mutable representation remains private to the Rendering assembly.

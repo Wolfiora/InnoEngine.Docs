@@ -13,5 +13,3 @@ reviewed: 8fbd1d8a5f9b428869439b1367d71115573199bd51d97e67f1621fb7ec00d882
 source: xml
 outdated: false
 ---
-
-Gets optional node-relative label geometry shared by rendering and row hit testing.

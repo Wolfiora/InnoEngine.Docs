@@ -13,5 +13,3 @@ reviewed: 187c764be6d0e807f623c318fb275c970d095c0b1a7600265e800d38ba5da121
 source: xml
 outdated: false
 ---
-
-Gets managed SDK processes started for generator extension preparation and managed input evaluation.

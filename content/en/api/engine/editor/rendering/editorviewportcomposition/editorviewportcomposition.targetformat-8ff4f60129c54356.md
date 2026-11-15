@@ -13,5 +13,3 @@ reviewed: 30795d2dc8119bc68047bb9caa4ff7910d291d58d58de8d38e44f68686625926
 source: xml
 outdated: false
 ---
-
-Gets the shared presentation target format.

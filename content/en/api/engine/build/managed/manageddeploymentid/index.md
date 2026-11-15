@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Identifies an open managed deployment implementation independently of the publication platform.

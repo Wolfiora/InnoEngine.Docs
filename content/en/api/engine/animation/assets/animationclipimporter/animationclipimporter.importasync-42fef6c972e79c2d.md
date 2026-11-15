@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports one validated structured animation clip.
-
 ## Parameters
 
 **Parameter `context`:** Candidate source bytes and serialization generation.

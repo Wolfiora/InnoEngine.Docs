@@ -13,5 +13,3 @@ reviewed: 7cb0cff923f7058ca68b20eeea3290dd7ea67b997dd990036e30399c8c89cddf
 source: xml
 outdated: false
 ---
-
-Gets neutral serialized property values keyed by stable property identifier.

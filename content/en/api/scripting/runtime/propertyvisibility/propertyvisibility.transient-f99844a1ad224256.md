@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Does not participate in serialization or deserialization, but runtime can get/set.

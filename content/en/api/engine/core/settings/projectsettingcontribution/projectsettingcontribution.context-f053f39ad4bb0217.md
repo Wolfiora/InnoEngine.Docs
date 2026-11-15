@@ -13,5 +13,3 @@ reviewed: cd5314cf18c877dcb95bc9dc84c794c3a1472826ef5e3f0ddf899f4b31af9932
 source: xml
 outdated: false
 ---
-
-Gets the ownership and dependency context for this contribution.

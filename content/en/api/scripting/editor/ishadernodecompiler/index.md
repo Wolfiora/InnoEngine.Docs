@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Defines one shader node's typed ports and lowering; drawing belongs to a separate editor extension.

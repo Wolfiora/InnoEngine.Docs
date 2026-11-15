@@ -13,5 +13,3 @@ reviewed: 3d21ab68cdce796555557de3e21ebdc4aaef88ae1066f1ebf877025651e8417b
 source: xml
 outdated: false
 ---
-
-Gets the owner-assigned generation represented by this snapshot.

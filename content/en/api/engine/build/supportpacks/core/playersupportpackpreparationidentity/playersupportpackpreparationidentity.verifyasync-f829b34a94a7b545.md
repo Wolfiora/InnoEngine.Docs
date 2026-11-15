@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freshly verifies the complete current source input closure after waiting or preparing output.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels verification before cache acceptance or publication.

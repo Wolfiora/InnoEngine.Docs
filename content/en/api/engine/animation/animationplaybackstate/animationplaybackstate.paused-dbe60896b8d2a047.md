@@ -13,5 +13,3 @@ reviewed: 7cca168494b6e58d680da5428de32d5ce7c49ad273bf114bce443ecf809fdfb7
 source: xml
 outdated: false
 ---
-
-The playback retains its position without advancing.

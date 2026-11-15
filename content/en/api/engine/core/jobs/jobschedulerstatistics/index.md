@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---
-
-Reports lifetime admission and bounded owner-thread queue measurements without retaining job delegates.

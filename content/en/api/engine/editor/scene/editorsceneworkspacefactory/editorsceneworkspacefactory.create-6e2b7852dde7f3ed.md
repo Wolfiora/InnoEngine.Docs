@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an unattached workspace over explicitly owned Edit-session services.
-
 ## Parameters
 
 **Parameter `runtimeSession`:** The Edit session that owns the workspace scene world.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an explicitly compiled candidate in a caller-owned publication scope, without publishing it as an asset.
-
 ## Parameters
 
 **Parameter `scope`:** Non-empty resource identity for this isolated consumer; release it when the consumer closes.

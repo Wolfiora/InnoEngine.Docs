@@ -13,5 +13,3 @@ reviewed: fd40d928591bfdf428fee135296b6c1b1a15059fccb923833e1b9469f83f76d3
 source: xml
 outdated: false
 ---
-
-Ten-bit RGB and two-bit alpha normalized format.

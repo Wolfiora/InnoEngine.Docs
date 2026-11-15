@@ -13,5 +13,3 @@ reviewed: 99d5497aca071870bd71c9b6d4e52ca53a74fc41e826b78ea2005d3fa146037a
 source: xml
 outdated: false
 ---
-
-Renders all local scale handles.

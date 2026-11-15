@@ -13,5 +13,3 @@ reviewed: 2f23795b3f22980bd58ea9bef53293029df0e030faeded5f243111cc327a5908
 source: xml
 outdated: false
 ---
-
-Gets the default playback options.

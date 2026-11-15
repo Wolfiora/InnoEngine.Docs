@@ -13,5 +13,3 @@ reviewed: b3bb8c68dc1a4b3086ce7a76539d53e8306fae0b23184a63507fcc5da83b8fc6
 source: xml
 outdated: false
 ---
-
-Gets the current continuous-edit merge boundary, or null for a discrete edit.

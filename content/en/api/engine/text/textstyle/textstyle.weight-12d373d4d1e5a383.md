@@ -13,5 +13,3 @@ reviewed: d9ef0cd35a0057f6243dcbd26ed01b1c8e456122bb7ce06dc8bf73f1afda671c
 source: xml
 outdated: false
 ---
-
-Gets the CSS-compatible font weight.

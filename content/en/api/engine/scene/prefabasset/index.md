@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Stores a persistent game object subtree that can be instantiated repeatedly.

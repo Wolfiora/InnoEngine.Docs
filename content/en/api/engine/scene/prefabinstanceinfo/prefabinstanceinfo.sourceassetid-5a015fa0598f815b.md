@@ -13,5 +13,3 @@ reviewed: 9df80a085c91c0aaf6bca724f1ebe1cea78eb9d4fde080b100bd06fc7c819e40
 source: xml
 outdated: false
 ---
-
-Gets the persistent identity of the source prefab asset.

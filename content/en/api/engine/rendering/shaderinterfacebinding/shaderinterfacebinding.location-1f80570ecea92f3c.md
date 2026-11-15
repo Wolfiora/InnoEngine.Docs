@@ -13,5 +13,3 @@ reviewed: 35545638a71515e97e7d81e92d23432241cd4e08d6e87729ba2d588d87b88342
 source: xml
 outdated: false
 ---
-
-Gets an explicitly compiled resource slot, or null for a caller-assigned layout.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or sets the software frame-rate ceiling. Zero leaves the frame rate unlimited.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentOutOfRangeException`:** The value is negative.

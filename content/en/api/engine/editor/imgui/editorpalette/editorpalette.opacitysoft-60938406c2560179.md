@@ -13,5 +13,3 @@ reviewed: 346d6bc183960425f8a2e9af3c64c5630287e706508451ce988b52b01fd798fb
 source: xml
 outdated: false
 ---
-
-Gets soft opacity for tinted container surfaces.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the bounded deployment manifest and content catalog before serialization starts.
-
 ## Parameters
 
 **Parameter `cancellationToken`:** Cancels metadata acquisition before content preparation starts.

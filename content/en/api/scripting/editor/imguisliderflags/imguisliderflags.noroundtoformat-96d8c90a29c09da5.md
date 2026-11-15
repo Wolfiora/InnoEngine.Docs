@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable rounding underlying value to match precision of the display format string (e.g. %.3f values are rounded to those 3 digits).

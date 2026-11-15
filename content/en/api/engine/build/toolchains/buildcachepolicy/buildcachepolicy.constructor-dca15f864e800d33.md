@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable cache budget and automatic retirement time limit.
-
 ## Parameters
 
 **Parameter `maximumBytes`:** The managed cache budget; defaults to 64 GiB.

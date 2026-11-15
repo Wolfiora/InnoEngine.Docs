@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Optionally migrates presentation-neutral panel state across assembly reloads.

@@ -13,5 +13,3 @@ reviewed: 2f35a747d2ded2c8af5a1c630bd060481a6ed22b8d7c8737b0c9eaf15370e81d
 source: xml
 outdated: false
 ---
-
-Gets whether the modal blocks regular editor interaction.

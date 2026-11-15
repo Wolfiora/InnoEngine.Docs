@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the hierarchy index of a scene loaded by the current runtime session.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to locate.

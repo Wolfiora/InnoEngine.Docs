@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this value and the supplied value represent the same logical state.
-
 ## Parameters
 
 **Parameter `other`:** The strongly typed value compared with this value.

@@ -13,5 +13,3 @@ reviewed: 768bc76949f4770e9f098f8ef3316a8aeb30feac92c0a4f66fa01d3fe7c4bf1f
 source: xml
 outdated: false
 ---
-
-Gets the visible modal title.

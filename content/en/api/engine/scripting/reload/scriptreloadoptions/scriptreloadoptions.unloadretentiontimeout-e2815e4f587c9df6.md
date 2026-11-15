@@ -13,5 +13,3 @@ reviewed: 1eea67c263fc27dbc8672a08c4ab3c2dc07d8a51e90c976c0f43b5b4a3f1bf62
 source: xml
 outdated: false
 ---
-
-Gets the duration after which a retained collectible generation permanently faults this reload host.

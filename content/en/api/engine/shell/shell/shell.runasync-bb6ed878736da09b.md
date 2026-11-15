@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs one shell lifecycle using an explicitly selected owner-thread frame driver.
-
 ## Parameters
 
 **Parameter `driver`:** The host's scheduling policy; it must execute frames on their owning thread.

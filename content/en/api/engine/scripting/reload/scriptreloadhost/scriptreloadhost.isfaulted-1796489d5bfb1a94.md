@@ -13,5 +13,3 @@ reviewed: fb3339e42658fd7223e64bbe205b166c4720caaa1d1350073e3d36c4ddd9f78a
 source: xml
 outdated: false
 ---
-
-Gets whether a retired generation exceeded the retention threshold and permanently stopped this host.

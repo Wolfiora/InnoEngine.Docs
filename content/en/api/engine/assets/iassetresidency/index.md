@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Exposes explicit asynchronous asset and artifact residency ownership.

@@ -13,5 +13,3 @@ reviewed: bc84feb04f0b03ca18b0ddd5ad05d584211a27a43eac0aca914596585ae73f0b
 source: xml
 outdated: false
 ---
-
-Called during the late scene stage. Use `Time.deltaTime` for frame timing.

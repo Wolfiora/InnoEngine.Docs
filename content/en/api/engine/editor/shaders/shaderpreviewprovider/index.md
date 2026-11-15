@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders
 aliases: []
 ---
-
-Builds domain-owned preview geometry and pass inputs without changing a scene or canonical asset.

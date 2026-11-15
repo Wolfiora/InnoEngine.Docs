@@ -13,5 +13,3 @@ reviewed: a97b2846c442d3fe8792f410e33564294ec5ee8df3c1c69d112729b050a1ba19
 source: xml
 outdated: false
 ---
-
-Selects the check mark presentation behavior.

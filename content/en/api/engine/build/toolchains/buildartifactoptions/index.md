@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Defines the deterministic filter and naming policy used to collect one native product.
-
 ## Parameters
 
 **Parameter `buildDirName`:** The dependency-relative directory searched for native build outputs.

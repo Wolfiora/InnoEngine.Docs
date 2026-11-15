@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a persistent identity without loading the asset.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

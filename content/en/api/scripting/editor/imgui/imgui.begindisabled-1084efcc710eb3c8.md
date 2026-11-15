@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a disabled block.
-
 ## Parameters
 
 **Parameter `disabled`:** Whether controls in the block are disabled.

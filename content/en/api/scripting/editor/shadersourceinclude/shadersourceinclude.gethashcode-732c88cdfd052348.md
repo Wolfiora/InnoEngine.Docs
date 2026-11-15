@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Serves as the default hash function.
-
 ## Returns
 
 A hash code for the current object.

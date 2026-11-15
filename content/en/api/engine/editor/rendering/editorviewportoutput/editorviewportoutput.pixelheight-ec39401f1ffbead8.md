@@ -13,5 +13,3 @@ reviewed: 4b83b04b7c6c3428692af8e5f48ffd0ec5b54f94fcf177fe5bd19a5ce5bbfceb
 source: xml
 outdated: false
 ---
-
-Gets the current target height.

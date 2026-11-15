@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Stores the manifest-derived binding contract verified after backend program creation.

@@ -13,5 +13,3 @@ reviewed: 0848eac6996cbb1f7fe9bbd4780bda016a3dc3df456278ed2dda1c91269772c5
 source: xml
 outdated: false
 ---
-
-Gets source languages accepted by the backend.

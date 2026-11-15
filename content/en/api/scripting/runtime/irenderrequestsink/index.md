@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Accepts rendering-model-neutral requests without exposing runtime or backend ownership.

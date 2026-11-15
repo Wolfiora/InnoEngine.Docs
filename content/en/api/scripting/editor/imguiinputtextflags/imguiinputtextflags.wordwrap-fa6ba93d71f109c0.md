@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-InputTextMultiline(): word-wrap lines that are too long.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an imported prefab asset from validated runtime content produced by the prefab asset pipeline.
-
 ## Parameters
 
 **Parameter `payload`:** The complete serialized runtime object subtree.

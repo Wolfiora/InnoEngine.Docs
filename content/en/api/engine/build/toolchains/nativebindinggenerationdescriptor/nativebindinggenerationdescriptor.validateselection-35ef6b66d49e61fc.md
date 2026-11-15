@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects publication when the managed selection differs from the complete native generations to deploy.
-
 ## Parameters
 
 **Parameter `path`:** The operation-owned selection consumed during managed compilation.

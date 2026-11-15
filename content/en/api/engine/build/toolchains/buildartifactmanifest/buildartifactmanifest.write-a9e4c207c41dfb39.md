@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Records a completed staging tree before its owner publishes the directory.
-
 ## Parameters
 
 **Parameter `directory`:** The complete staging root owned exclusively by the caller.

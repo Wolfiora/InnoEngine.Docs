@@ -13,5 +13,3 @@ reviewed: ca2941851cd74da2352508f6996df7e23956fac0f67f4f9a40f12abc099eb38b
 source: xml
 outdated: false
 ---
-
-Gets the normalized source container name.

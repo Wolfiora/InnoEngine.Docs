@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures native settings and nested asset dependencies through this explicit authoring owner.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Current settings type.

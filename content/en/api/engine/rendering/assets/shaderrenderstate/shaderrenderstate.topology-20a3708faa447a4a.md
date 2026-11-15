@@ -13,5 +13,3 @@ reviewed: 36cabc1bb2bc3fc62dd1efbe7a09e6793d511a70018b9ab1926d498d34cded1a
 source: xml
 outdated: false
 ---
-
-Gets or sets the primitive assembly used by raster draws.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Keeps one verified immutable artifact generation available for an explicit lifetime.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an unavailable transition result.
-
 ## Parameters
 
 **Parameter `message`:** The non-empty diagnostic explaining why the transition is unavailable.

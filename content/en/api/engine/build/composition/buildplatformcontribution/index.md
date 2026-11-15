@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Binds one implemented target to its factory, Support Pack source and SDK provider as a single registration.

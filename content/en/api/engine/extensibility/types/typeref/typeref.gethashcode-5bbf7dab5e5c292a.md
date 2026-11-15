@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Computes a hash code from the fields that participate in logical equality.
-
 ## Returns
 
 A hash code consistent with the implemented equality contract.

@@ -13,5 +13,3 @@ reviewed: 8edd23e72bfa4f9a1a93587c4e5de88143cddf2d0f5400eaa0d06bc65b90acda
 source: xml
 outdated: false
 ---
-
-Draw horizontal borders at the top and bottom.

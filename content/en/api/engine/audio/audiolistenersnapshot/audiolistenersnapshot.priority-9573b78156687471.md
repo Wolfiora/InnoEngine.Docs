@@ -13,5 +13,3 @@ reviewed: dfd70b072d92778c81d1dfc440b93bfe3d5fa2f5262190d305b4fe37f0e03f1f
 source: xml
 outdated: false
 ---
-
-Gets the selection priority.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a manually defined structured root using the converter generation captured by this instance.
-
 ## Parameters
 
 **Parameter `write`:** The callback that writes the complete root object.

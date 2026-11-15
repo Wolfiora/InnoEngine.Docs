@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Transports verified native payloads without copying publisher registrations, leases or writable workspaces.

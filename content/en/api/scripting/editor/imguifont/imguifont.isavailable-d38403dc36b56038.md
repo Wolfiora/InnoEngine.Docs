@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Checks whether the current host registered an exact face.
-
 ## Parameters
 
 **Parameter `style`:** The requested emphasis.

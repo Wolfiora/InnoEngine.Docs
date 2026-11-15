@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves ports for one node record, including any data-driven dynamic ports.
-
 ## Parameters
 
 **Parameter `node`:** Neutral node record to inspect.

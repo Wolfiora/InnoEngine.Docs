@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates immutable extension state from stable identity and property bytes.
-
 ## Parameters
 
 **Parameter `stableTypeId`:** Stable type identity, or empty when the extension has no typed settings.

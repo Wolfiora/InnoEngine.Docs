@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs while the layer is leaving its stack and before its event scope is released.
-
 ## Remarks
 
 This callback also compensates a partially failed attachment. Throwing `T:Inno.Core.Execution.RetirementPendingException` retains ownership and permits a later cleanup retry. Completed cleanup steps must not be repeated on that retry.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes one immutable named artifact output.
-
 ## Parameters
 
 **Parameter `outputName`:** The stable output name.

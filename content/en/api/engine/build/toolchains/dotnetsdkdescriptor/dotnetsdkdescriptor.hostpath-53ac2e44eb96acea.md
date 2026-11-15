@@ -13,5 +13,3 @@ reviewed: 2984a442864c357b28c5b01fbb4c3b428ffc73238ab43ab349c905a16b065371
 source: xml
 outdated: false
 ---
-
-Gets the executable used for project-scoped SDK and workload resolution.

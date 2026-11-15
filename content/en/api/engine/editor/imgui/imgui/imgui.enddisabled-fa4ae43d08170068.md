@@ -13,5 +13,3 @@ reviewed: abd978ec7a3ef25077b6c4d00e4f7f44360e7e104b838ac914ba27401fa71899
 source: xml
 outdated: false
 ---
-
-Ends the current disabled block.

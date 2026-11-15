@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Assigns a value when the property is writable.
-
 ## Parameters
 
 **Parameter `value`:** New value.

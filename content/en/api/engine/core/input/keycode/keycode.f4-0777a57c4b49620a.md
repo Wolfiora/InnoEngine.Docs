@@ -13,5 +13,3 @@ reviewed: be5f866b31f1fd3acef09e83d9356f8dc2dbd7d8f9635de2db5087f0e5e59df2
 source: xml
 outdated: false
 ---
-
-The F4 function key.

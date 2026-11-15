@@ -13,5 +13,3 @@ reviewed: 65ad9412020106e36d68860e2a6ec1535afdebb6033d3187159076a30698a237
 source: xml
 outdated: false
 ---
-
-Gets the SDK-selected framework paths, whose content is frozen before Roslyn compilation.

@@ -13,5 +13,3 @@ reviewed: 48963347f7020849af1bc1bf8cf841676878644278d2be07184b8c0d1639bdc2
 source: xml
 outdated: false
 ---
-
-Selects the table header bg presentation behavior.

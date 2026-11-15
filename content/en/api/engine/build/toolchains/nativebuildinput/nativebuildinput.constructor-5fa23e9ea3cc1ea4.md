@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares one file or directory consumed by a native recipe.
-
 ## Parameters
 
 **Parameter `logicalPath`:** A nonempty, slash-separated identity relative to a declared logical root.

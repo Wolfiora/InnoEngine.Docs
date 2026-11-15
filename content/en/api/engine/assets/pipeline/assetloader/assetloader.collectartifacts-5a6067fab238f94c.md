@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Collects unreachable content-addressed artifacts.
-
 ## Parameters
 
 **Parameter `gracePeriod`:** The minimum age of an unreachable bundle.

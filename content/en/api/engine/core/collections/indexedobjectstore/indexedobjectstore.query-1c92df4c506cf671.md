@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a query over stored items.
-
 ## Returns
 
 A query builder.

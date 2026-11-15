@@ -13,5 +13,3 @@ reviewed: 24035b807d2d3ecc7abe5321a390a86d0a6950c9cbdf0de35b3eb2e7088bbed5
 source: xml
 outdated: false
 ---
-
-Gets the component identity supplied by the owning toolchain.

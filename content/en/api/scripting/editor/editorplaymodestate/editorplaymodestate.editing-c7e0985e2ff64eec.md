@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Editable scene documents are loaded and game simulation is stopped.

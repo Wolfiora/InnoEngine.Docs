@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets all attached components assignable to the requested type in attachment order.
-
 ## Type parameters
 
 **Type parameter `TComponent`:** Requested component type.

@@ -13,5 +13,3 @@ reviewed: a6ba73c1925d718833928de9c0b260b0dff42d8ad75c210597fa9d620ff855e8
 source: xml
 outdated: false
 ---
-
-Gets the ownership domain.

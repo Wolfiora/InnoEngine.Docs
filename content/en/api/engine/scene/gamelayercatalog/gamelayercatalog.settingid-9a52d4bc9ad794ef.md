@@ -13,5 +13,3 @@ reviewed: c2609553d1e5381d82fa7a29f043f7f9871c2cb8d90d5b33e2904c34bd608ab3
 source: xml
 outdated: false
 ---
-
-Gets the stable project setting protocol for the project-wide layer catalog.

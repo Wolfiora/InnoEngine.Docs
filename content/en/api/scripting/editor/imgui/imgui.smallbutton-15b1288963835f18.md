@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compact button.
-
 ## Returns
 
 `true` when the button is activated.

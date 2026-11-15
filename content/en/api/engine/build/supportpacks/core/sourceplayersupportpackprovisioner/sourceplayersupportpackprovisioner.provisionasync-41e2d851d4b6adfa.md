@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares current target inputs and atomically selects their immutable Support Pack.
-
 ## Parameters
 
 **Parameter `target`:** The target platform and architecture identity.

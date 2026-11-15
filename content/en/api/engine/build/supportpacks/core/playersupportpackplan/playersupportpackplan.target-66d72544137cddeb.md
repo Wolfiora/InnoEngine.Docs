@@ -13,5 +13,3 @@ reviewed: a85ac567c070457bdfa1e36ec946ed7f5ff4713c123e1c13749c1411299a618c
 source: xml
 outdated: false
 ---
-
-Gets the immutable target checked by the publisher before creating output.

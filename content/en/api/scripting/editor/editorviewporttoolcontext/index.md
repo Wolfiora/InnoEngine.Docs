@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Coordinates pointer capture, transforms, and one history transaction for a viewport gesture.

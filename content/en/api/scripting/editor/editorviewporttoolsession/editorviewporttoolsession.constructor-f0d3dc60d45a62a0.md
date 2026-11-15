@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a viewport tool session.
-
 ## Parameters
 
 **Parameter `history`:** History stack used by gesture transactions.

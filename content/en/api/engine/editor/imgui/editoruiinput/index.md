@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Copies frame input facts used by presentation without exposing native input storage.

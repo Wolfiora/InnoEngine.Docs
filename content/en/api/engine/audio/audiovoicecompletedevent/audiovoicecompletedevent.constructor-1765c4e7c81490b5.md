@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a voice completion event.
-
 ## Parameters
 
 **Parameter `voice`:** Voice that reached a terminal state.

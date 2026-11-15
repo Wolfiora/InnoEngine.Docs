@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a voice identity into a backend-neutral handle.
-
 ## Parameters
 
 **Parameter `value`:** Non-zero backend voice identity.

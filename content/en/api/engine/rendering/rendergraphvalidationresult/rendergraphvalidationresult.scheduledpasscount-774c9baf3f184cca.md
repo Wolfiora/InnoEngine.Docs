@@ -13,5 +13,3 @@ reviewed: 78275b1c3a49c54e7ae568e52489ca7301d26e45ad16ba0a58a921c8fe56abf2
 source: xml
 outdated: false
 ---
-
-Gets scheduled passes, or zero when validation could not produce a valid schedule.

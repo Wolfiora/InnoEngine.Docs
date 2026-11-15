@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes a custom layer definition while retaining its numeric slot and interactions.
-
 ## Parameters
 
 **Parameter `layer`:** The custom layer slot to undefine.

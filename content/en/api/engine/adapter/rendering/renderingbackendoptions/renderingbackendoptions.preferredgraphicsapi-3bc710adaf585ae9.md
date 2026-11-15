@@ -13,5 +13,3 @@ reviewed: 73a551b84d623702f19822aff64a5c1efd25704313329b4c5e18daaa538558e4
 source: xml
 outdated: false
 ---
-
-Gets or sets the preferred graphics API, or `null` for the backend default.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Persists one project's current game build profile through the engine serialization contract.
-
 ## Remarks
 
 The store writes a complete candidate beside the destination and replaces the active document only after serialization and validation succeed.

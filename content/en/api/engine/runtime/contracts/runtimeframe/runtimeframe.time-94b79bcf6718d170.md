@@ -13,5 +13,3 @@ reviewed: 5218fe5740d984f5ee19af9aaa675785c09ec32b939409b9b6b6efd4a6b9ce8e
 source: xml
 outdated: false
 ---
-
-Gets accumulated scaled session time in seconds.

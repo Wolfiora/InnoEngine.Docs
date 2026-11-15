@@ -16,5 +16,3 @@ contracts:
 - project.inno-platform
 aliases: []
 ---
-
-Defines host presentation cadence independently of simulation and fixed-step timing.

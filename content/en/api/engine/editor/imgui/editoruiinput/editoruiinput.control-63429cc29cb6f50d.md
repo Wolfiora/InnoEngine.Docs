@@ -13,5 +13,3 @@ reviewed: 60ba5a7f1b20651aa33a7420f56367f6d24567136d3e00a0944c9cce689d70f6
 source: xml
 outdated: false
 ---
-
-Gets whether the physical Control modifier is held, independently of native shortcut conventions.

@@ -13,5 +13,3 @@ reviewed: 8247ba342e76df1303dd7f4020ba918f28eaf5960880ace3e4655fa949a9185c
 source: xml
 outdated: false
 ---
-
-Releases every active audio generation before their owning Editor sessions are torn down.

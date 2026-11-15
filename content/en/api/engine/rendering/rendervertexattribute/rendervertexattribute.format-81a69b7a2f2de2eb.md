@@ -13,5 +13,3 @@ reviewed: b4d0ee50830db40a2cef06f58d72bbf108ac5802837dcf2404e97201535f87fa
 source: xml
 outdated: false
 ---
-
-Gets the packed component representation.

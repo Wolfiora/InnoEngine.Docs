@@ -13,5 +13,3 @@ reviewed: f4b4c8e44cb425ab751aee9e3b8f50820ebd5a3b1f877d1399e0d82224a2797c
 source: xml
 outdated: false
 ---
-
-Gets the uniform shape.

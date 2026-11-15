@@ -13,5 +13,3 @@ reviewed: 18ca791a9761818dea190a9f49cde70fdb444933a740f789a2f989f42a86f0ff
 source: xml
 outdated: false
 ---
-
-Gets the world-space focus center.

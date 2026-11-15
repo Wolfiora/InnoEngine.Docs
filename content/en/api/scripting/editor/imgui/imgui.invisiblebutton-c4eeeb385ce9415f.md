@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits an explicitly drawn control interaction rectangle.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional stable ID suffix.

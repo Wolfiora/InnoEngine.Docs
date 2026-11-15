@@ -13,5 +13,3 @@ reviewed: ee9868d8f28977a3f5ebeb5f4a2adbb6039ee492f89cdd9017a0ce89c21fe939
 source: xml
 outdated: false
 ---
-
-Gets the actual bytes consumed by input hashing, excluding output integrity validation.

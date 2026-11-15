@@ -13,5 +13,3 @@ reviewed: 79e538d0427eee5172840c8ff959867b814df753636b68b6f37ef48c8aa93b28
 source: xml
 outdated: false
 ---
-
-The request compiled and atomically activated its candidate generation.

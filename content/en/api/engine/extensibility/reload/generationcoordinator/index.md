@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---
-
-Owns generation admission, atomic domain changes, rollback, and non-bypassable weak unload verification.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-managed
 aliases: []
 ---
-
-Freezes the build-owned project, code closure and output locations supplied to a managed publisher.

@@ -13,5 +13,3 @@ reviewed: aaaa678913c751a4ed6dddb2e79e053d999f73bdb2342be2f39b149d22dcab64
 source: xml
 outdated: false
 ---
-
-// ColorPicker: bar for Hue, rectangle for Sat/Value.

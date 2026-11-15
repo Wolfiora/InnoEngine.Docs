@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Borrows surface handles from a live window for cooperating native adapters.
-
 ## Remarks
 
 Handles remain valid only while their window is alive. Consumers must not release them. The handle identifier selects the ABI; this value is not a runtime or scripting contract.

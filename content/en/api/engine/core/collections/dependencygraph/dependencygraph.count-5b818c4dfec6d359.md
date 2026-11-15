@@ -13,5 +13,3 @@ reviewed: 75f79d0f7b6c783b10384e07bf60149be80783f55a13f3b421bc777c771e4d52
 source: xml
 outdated: false
 ---
-
-Gets the number of nodes in the graph.

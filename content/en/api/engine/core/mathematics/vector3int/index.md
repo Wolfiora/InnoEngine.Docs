@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []
 ---
-
-Represents a mutable vector3int value with component-wise arithmetic semantics.

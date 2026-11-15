@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the texture compiler paired with the selected rendering backend.
-
 ## Parameters
 
 **Parameter `backend`:** Stable rendering backend identity selected by the authoring composition root.

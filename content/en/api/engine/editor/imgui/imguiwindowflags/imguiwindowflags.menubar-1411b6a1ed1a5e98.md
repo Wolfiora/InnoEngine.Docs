@@ -13,5 +13,3 @@ reviewed: 877fd150a87e3b32ad56c6ed4ce544532ab6196f975fcf0a786cf391830df9ad
 source: xml
 outdated: false
 ---
-
-Has a menu-bar

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a context containing the required asset resolver and an optional dependency collector.
-
 ## Parameters
 
 **Parameter `references`:** The authoritative asset reference resolver for the operation's complete generation.

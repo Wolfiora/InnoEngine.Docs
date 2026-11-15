@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a relative path beneath a root and rejects traversal outside that root.
-
 ## Parameters
 
 **Parameter `root`:** The owning root directory.

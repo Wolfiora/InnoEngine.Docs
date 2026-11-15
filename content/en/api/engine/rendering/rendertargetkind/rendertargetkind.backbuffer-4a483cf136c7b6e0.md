@@ -13,5 +13,3 @@ reviewed: bfe9a1f3d7b70dd53a8f129d6ef823deed395a54bc5e9caf342208a08d20732d
 source: xml
 outdated: false
 ---
-
-Main application window swapchain.

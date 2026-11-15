@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the explicit byte offset in the resolved stream layout, or -1 before a layout resolves automatic placement.

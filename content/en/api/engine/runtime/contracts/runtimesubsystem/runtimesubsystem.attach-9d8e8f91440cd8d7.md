@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires session resources after every dependency has attached.
-
 ## Remarks
 
 The caller must own this instance before attachment. Failed attachment stops admission but leaves partial resources with that owner, which must drive Dispose through any pending retirement.

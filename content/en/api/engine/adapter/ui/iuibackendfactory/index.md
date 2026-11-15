@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 aliases: []
 ---
-
-Creates isolated UI backends without exposing implementation assemblies to composition code.

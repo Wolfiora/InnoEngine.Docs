@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers the Core identity domain used by a temporary scene presentation.
-
 ## Parameters
 
 **Parameter `allocator`:** The borrowed allocator owned by that presentation's runtime session.

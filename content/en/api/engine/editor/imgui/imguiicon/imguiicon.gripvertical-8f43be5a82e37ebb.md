@@ -13,5 +13,3 @@ reviewed: bff67dae3ab149119cf0e820625a8aff8a5f6806d4d2a584974db36f8e2b40e8
 source: xml
 outdated: false
 ---
-
-Gets the grip vertical glyph used by standard Editor controls.

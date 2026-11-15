@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Freezes member access, construction and restoration callbacks for an exact closed declaration.

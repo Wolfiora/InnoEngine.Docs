@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an imported texture into a persistent sampled texture.
-
 ## Parameters
 
 **Parameter `texture`:** Imported texture asset.

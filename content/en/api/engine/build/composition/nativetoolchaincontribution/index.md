@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Registers an implemented native SDK capability without declaring a complete game product.

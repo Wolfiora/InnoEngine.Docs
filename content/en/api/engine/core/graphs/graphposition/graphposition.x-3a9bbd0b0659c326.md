@@ -13,5 +13,3 @@ reviewed: d9d963eb6257cf03d3c532b699fbf74e923a96c28bcc8ee7d6b69c7bd9684b1f
 source: xml
 outdated: false
 ---
-
-Gets the horizontal graph-space coordinate.

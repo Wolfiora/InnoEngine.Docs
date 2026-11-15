@@ -13,5 +13,3 @@ reviewed: ae00eafff74058ce388e74ea98c67f82431ec62480c2020491b438ba8221286b
 source: xml
 outdated: false
 ---
-
-The F10 function key.

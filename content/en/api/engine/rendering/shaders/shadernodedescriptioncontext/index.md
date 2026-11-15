@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Provides invocation-scoped property decoding through the complete owner serialization context.

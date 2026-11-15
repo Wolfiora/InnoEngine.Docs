@@ -13,5 +13,3 @@ reviewed: a5e3d9aa4f3cadfa3a74e353ae571a81c1dd23d2a8e5a8f701349bc93bb6cb56
 source: xml
 outdated: false
 ---
-
-Gets command counts recorded since the latest `M:Inno.Rendering.IRenderDevice.BeginFrame` call. Backends that cannot provide command accounting return zero counters.

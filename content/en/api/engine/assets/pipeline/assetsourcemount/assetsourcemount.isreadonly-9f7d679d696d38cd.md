@@ -13,5 +13,3 @@ reviewed: c5a8709adcc25f48316de390d2b68ca3cb9b27af6bd4fda6c256812cf9fbb521
 source: xml
 outdated: false
 ---
-
-Gets whether source mutations are forbidden.

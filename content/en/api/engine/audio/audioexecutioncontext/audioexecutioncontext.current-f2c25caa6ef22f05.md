@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the audio service bound to the current asynchronous execution context.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when no audio service is active for the caller.

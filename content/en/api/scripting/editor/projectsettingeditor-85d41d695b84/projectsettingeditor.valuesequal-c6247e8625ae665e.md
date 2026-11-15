@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Compares two exact-type values through their native serialized property data.
-
 ## Parameters
 
 **Parameter `left`:** The first setting value.

@@ -13,5 +13,3 @@ reviewed: 04834795f014569839d1d327d33e071cfc4ffb58b9452fea810de1d537d0321f
 source: xml
 outdated: false
 ---
-
-Gets the persistent shader identity.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-assets-imgui
 aliases: []
 ---
-
-Stores asset browser navigation independently from global object selection.

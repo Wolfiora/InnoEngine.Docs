@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically applies staged field objects as one shared Undo and Redo history entry.
-
 ## Parameters
 
 **Parameter `values`:** The complete or partial path-addressed objects to apply from the active catalog.

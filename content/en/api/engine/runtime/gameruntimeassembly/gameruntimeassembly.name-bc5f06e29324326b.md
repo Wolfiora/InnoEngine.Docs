@@ -13,5 +13,3 @@ reviewed: aa8769600a3c259590884db5b4919f5ff558b71f1df2cf1a2dc632ba129b4475
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact simple assembly name, independent of deployment file layout.

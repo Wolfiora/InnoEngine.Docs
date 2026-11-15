@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a graph document into deterministic native bytes.
-
 ## Parameters
 
 **Parameter `document`:** Document to encode.

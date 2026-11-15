@@ -13,5 +13,3 @@ reviewed: bbba6d9df8d7813d4cde7cf34487d807c206ed171e5018e50c477cf9e9e89cb2
 source: xml
 outdated: false
 ---
-
-Gets the root folder containing rebuildable project data.

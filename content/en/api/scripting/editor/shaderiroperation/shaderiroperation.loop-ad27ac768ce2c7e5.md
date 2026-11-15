@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Executes a counted loop with explicit typed carried values and ordered body effects.

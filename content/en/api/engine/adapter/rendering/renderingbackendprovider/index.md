@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering
 aliases: []
 ---
-
-Supplies one rendering implementation registered by a composition owner.

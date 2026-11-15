@@ -16,5 +16,3 @@ contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---
-
-Describes one validated installed Plugin source candidate.

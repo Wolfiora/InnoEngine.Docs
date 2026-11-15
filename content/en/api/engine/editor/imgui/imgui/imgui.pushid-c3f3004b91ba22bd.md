@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pushes a string identity onto the ImGui ID stack.
-
 ## Parameters
 
 **Parameter `id`:** The stable identity used to locate the requested value.

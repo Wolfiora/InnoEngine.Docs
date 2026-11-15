@@ -13,5 +13,3 @@ reviewed: 78615cef779f11e0a27c4c1f4ce21d9487499582bbaa19ed4f9360285dd582fb
 source: xml
 outdated: false
 ---
-
-Gets the destination path with the original sample directory name preserved.

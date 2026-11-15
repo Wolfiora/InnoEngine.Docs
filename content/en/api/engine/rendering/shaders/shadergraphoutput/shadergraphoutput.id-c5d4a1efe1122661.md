@@ -13,5 +13,3 @@ reviewed: 272fe1d498948642b149bf14c9ff7d3c92fa95dba8b59dd82e710bcf22186f9c
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable input port identity on the stage output node.

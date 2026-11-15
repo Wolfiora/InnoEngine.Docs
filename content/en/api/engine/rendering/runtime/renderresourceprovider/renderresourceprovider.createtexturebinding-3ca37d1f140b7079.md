@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a protected sampled-texture binding value.
-
 ## Parameters
 
 **Parameter `id`:** The stable shader binding identifier.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Publishes complete native products by source and toolchain identity under process-shared ownership.

@@ -13,5 +13,3 @@ reviewed: 8dc76e2542818cc6c29912087b0a576546f24332465745a29faf38140ffbba73
 source: xml
 outdated: false
 ---
-
-Gets open semantic resources for the request.

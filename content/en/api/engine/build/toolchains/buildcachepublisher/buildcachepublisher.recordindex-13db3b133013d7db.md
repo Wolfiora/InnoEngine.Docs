@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Registers an exact cache index and the publication directories required to keep it useful.
-
 ## Parameters
 
 **Parameter `path`:** The producer-owned index file within this publisher root.

@@ -13,5 +13,3 @@ reviewed: f538b40101d1c2d93b5067d9db7e39a71dd6d21957c1ab6c5afb85b8ddb7e3b5
 source: xml
 outdated: false
 ---
-
-Uses the ordinary behavior without additional options.

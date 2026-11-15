@@ -13,5 +13,3 @@ reviewed: 584c64ba9747bd709ecb4d8678267d3b564705b0b141bda6eae80154f4e030c4
 source: xml
 outdated: false
 ---
-
-Gets or sets the complete backend-neutral value type.

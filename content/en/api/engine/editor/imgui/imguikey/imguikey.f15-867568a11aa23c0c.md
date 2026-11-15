@@ -13,5 +13,3 @@ reviewed: 6e7895f4045b9e594a739b1e29297e8934dc5ba89a62baa2ff08d858ca75455d
 source: xml
 outdated: false
 ---
-
-Identifies the F15 presentation key or modifier.

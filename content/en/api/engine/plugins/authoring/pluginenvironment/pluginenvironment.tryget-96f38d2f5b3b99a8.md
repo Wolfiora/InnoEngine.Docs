@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve the active Plugin that owns an asset source.
-
 ## Parameters
 
 **Parameter `source`:** The isolated asset source identity.

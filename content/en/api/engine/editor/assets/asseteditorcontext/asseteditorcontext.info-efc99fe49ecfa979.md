@@ -13,5 +13,3 @@ reviewed: c0231703c15f7ee756d289a50b95d241d704e881be140831a9df2159981ee264
 source: xml
 outdated: false
 ---
-
-Gets the cataloged asset information when available.

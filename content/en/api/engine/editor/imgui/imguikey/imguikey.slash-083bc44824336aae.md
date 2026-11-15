@@ -13,5 +13,3 @@ reviewed: f274c0a9bbea664774f133e54f2f8a3f19d18743355b397ace9cac6cd937a649
 source: xml
 outdated: false
 ---
-
-Identifies the Slash presentation key or modifier.

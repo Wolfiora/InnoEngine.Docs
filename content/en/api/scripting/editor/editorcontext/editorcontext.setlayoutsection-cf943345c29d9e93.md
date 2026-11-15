@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds or replaces one human-readable editor layout section in memory.
-
 ## Parameters
 
 **Parameter `sectionName`:** The section name without its INI header syntax.

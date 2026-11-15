@@ -13,5 +13,3 @@ reviewed: f1e5d95da40bf154535f17a5a153455fdeeecc39c3c763999e3426d8db6f7195
 source: xml
 outdated: false
 ---
-
-Gets the texture height.

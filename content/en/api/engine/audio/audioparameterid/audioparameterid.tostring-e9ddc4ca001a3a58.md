@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats the identifier for diagnostics and persistence.
-
 ## Returns
 
 The stable protocol value.

@@ -13,5 +13,3 @@ reviewed: e6487ae2789c5bd9be21f0d860ac7f668a3df791fda4e022868bc8dd771acfed
 source: xml
 outdated: false
 ---
-
-Restores lifecycle state on the previous scene instances after rollback.

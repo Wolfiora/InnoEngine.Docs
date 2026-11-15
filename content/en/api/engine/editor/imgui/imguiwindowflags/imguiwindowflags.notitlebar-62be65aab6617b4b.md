@@ -13,5 +13,3 @@ reviewed: d1036f4ffeb8e016a2417517f762d39c765076b263b18fbc69f5edb00d504444
 source: xml
 outdated: false
 ---
-
-Disable title-bar

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a local identity to its compact runtime slot.
-
 ## Parameters
 
 **Parameter `localId`:** The stable project-local identity.

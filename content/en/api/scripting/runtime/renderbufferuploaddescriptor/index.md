@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Describes one CPU-to-GPU buffer upload that remains valid for the current frame only.

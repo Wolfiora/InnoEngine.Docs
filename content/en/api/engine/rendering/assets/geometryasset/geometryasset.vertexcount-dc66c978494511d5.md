@@ -13,5 +13,3 @@ reviewed: 60bb86a1b0f7cc0890fd11e107bf11d038b6ba10c46eb468cb5ef282d7e97077
 source: xml
 outdated: false
 ---
-
-Gets the number of normalized vertices.

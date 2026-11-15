@@ -13,5 +13,3 @@ reviewed: 5cb24cd249164e3a997c347b84ae96f634b35e76ddd7f9b72bdeffe133b309f8
 source: xml
 outdated: false
 ---
-
-Gets the exact generated logical-to-native resource layout.

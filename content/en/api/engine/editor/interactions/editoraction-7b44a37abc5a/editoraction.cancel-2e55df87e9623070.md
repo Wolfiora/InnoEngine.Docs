@@ -13,5 +13,3 @@ reviewed: 65541b2d63d6fb5af475aefe9fe981f10675de4cf74143842d31a21aafaaac2d
 source: xml
 outdated: false
 ---
-
-Cancels the current operation and returns the action to its idle state.

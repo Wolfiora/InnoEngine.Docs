@@ -13,5 +13,3 @@ reviewed: ab669bf250169e4ef5b638305baee60d3afa8b3dcf6fba746f7a6b44c3e896e3
 source: xml
 outdated: false
 ---
-
-Read-only or read-write buffer.

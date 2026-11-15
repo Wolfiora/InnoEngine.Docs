@@ -13,5 +13,3 @@ reviewed: ff1556bc950d3dae70c51334a2032733294d556a1b11d6fb973171603b4c4bae
 source: xml
 outdated: false
 ---
-
-Gets the exact implementation key selected by the target.

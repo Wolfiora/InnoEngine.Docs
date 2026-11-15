@@ -13,5 +13,3 @@ reviewed: 55b8e994a6a15c57db5170cdc1429c91e09bbf71f1038a872e28b19cf5dd0bc7
 source: xml
 outdated: false
 ---
-
-Gets whether CanInspect selects a subset of targets, allowing peer conditional registrations at the same priority.

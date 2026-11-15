@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorPicker: disable bigger color preview on right side of the picker, use small color square preview instead.

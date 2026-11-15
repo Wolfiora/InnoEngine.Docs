@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Can serialize and deserialize, runtime can get but cannot set. Runtime set attempts should be rejected (see `M:InnoEngine.Serialization.SerializedProperty.SetValue(System.Object)` behavior).

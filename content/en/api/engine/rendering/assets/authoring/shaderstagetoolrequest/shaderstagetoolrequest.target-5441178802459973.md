@@ -13,5 +13,3 @@ reviewed: 2a359b5a695dc7defcb9edc945fa33dfdab541d56e69da312c983242cb447003
 source: xml
 outdated: false
 ---
-
-Exact toolchain profile and capability snapshot.

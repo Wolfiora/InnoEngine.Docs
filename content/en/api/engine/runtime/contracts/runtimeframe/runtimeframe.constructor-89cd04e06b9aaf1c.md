@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the immutable timing snapshot for one variable frame.
-
 ## Parameters
 
 **Parameter `frameIndex`:** The monotonically increasing owner frame index.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Restores neutral render settings through the canonical asset's actual owner and pinned references.

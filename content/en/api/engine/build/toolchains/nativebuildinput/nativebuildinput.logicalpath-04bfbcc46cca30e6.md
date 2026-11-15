@@ -13,5 +13,3 @@ reviewed: 8c0cc105eae60e3c06710c8b6d308f93d81c1a389d1f69115171fde3de7b0d43
 source: xml
 outdated: false
 ---
-
-Gets the identity included in the recipe fingerprint.

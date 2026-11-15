@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Contains native properties and automatically captured asset dependencies without retaining their owner or typed object.

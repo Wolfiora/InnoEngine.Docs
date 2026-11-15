@@ -13,5 +13,3 @@ reviewed: c313d611ecfeb6c17fc0a398cafa65e5fc72201a4343d9d5c17a930c11a2dd47
 source: xml
 outdated: false
 ---
-
-Gets the opaque presentation token.

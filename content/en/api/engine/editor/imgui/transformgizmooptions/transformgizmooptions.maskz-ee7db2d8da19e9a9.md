@@ -13,5 +13,3 @@ reviewed: 53a54c3ded4802dfab5420be6da771af80f8b9dbe238cc62a30d39f94d9256a1
 source: xml
 outdated: false
 ---
-
-Gets whether the Z translation axis is excluded by the viewport plane.

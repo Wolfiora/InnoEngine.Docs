@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a right-handed view matrix that looks from `eye` to `target`.
-
 ## Parameters
 
 **Parameter `eye`:** The eye consumed by create look at rh; ownership remains with the caller unless explicitly stated otherwise.

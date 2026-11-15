@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Subtracts or negates the supplied value component by component.
-
 ## Parameters
 
 **Parameter `a`:** The first operand or interpolation endpoint.

@@ -13,5 +13,3 @@ reviewed: 21a49b2bfd359ddfb278a4066af61f0cfcf428baa971251a414bdf7a8cd6a0d3
 source: xml
 outdated: false
 ---
-
-Creates independent controls and style state; the presentation backend retains its native context ownership.

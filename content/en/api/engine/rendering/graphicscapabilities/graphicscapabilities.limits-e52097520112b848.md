@@ -13,5 +13,3 @@ reviewed: 7b88dd62787e86e504476dce25ed70b34e2bad9c300c2e51a528f75728005567
 source: xml
 outdated: false
 ---
-
-Gets device limits.

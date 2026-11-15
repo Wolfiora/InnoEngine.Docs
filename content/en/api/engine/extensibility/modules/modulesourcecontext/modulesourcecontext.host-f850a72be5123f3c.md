@@ -13,5 +13,3 @@ reviewed: f8a4755fb69a472fe8d3be60b0c5baed2fdb54c996d69e62bd1968df4488ca70
 source: xml
 outdated: false
 ---
-
-Gets the borrowed host contract source.

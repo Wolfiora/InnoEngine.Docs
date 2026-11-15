@@ -13,5 +13,3 @@ reviewed: d02ffdb50b2da09ecfb3f4b3069d78e9ccf55badc5837ac95cece01a2fc61edc
 source: xml
 outdated: false
 ---
-
-Gets the verified immutable task assembly path after successful publication.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits compute work with the specified workgroup counts.
-
 ## Parameters
 
 **Parameter `groupCountX`:** Number of workgroups along the X axis.

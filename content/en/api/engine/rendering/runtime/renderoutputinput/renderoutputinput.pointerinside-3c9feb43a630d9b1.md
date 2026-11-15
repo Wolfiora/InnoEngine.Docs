@@ -13,5 +13,3 @@ reviewed: edb079754d0ca3456c93e58f6c8f3580b32cd99f02bf73a1750683bcb1d43ad2
 source: xml
 outdated: false
 ---
-
-Gets whether the pointer is inside this output.

@@ -13,5 +13,3 @@ reviewed: bc138c84279c46a39fe094bfbd30d3a01c21683f546a2261c465046174563bea
 source: xml
 outdated: false
 ---
-
-Gets properties skipped because their previous data was incompatible.

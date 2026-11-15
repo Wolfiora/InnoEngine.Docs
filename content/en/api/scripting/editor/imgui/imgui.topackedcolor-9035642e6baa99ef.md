@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts a floating-point RGBA color to Dear ImGui packed color order.
-
 ## Returns
 
 The packed color value.

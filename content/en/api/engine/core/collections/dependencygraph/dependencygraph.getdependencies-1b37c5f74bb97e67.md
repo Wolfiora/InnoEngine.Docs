@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets direct or transitive dependencies of a node.
-
 ## Parameters
 
 **Parameter `node`:** The node to query.

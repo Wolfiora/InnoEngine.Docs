@@ -13,5 +13,3 @@ reviewed: 430422b2f0d45fa28c41f6078e3d0c421d4735ae22f724529b192395552823f5
 source: xml
 outdated: false
 ---
-
-Gets the pointer buttons newly pressed during this frame.

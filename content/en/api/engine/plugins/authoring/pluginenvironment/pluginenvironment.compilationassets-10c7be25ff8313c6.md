@@ -13,5 +13,3 @@ reviewed: a56d1ddd749152f48ef111cecdd70a449ccf3fc261323564e7b3545630d00a2a
 source: xml
 outdated: false
 ---
-
-Gets the isolated Asset candidate used by the next Plugin script compilation.

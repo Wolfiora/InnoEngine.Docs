@@ -13,5 +13,3 @@ reviewed: cc6966b4b7fdd86b8354201e873170a71d38d60c092cc533cd394a7aebc57ee1
 source: xml
 outdated: false
 ---
-
-Gets component-specific platform link settings, or null for the target defaults.

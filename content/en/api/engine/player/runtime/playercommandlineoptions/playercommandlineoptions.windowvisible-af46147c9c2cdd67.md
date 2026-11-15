@@ -13,5 +13,3 @@ reviewed: 0b39c314520a2044e495b884226fbbd44a524e04c0714e7b92532e81bac5a31f
 source: xml
 outdated: false
 ---
-
-Gets whether the primary window should initially be shown.

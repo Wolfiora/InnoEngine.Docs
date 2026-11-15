@@ -13,5 +13,3 @@ reviewed: 51db2fa3bd28ca85bc58104d2316648415339f60806bad3e3cdc9a78e4df489e
 source: xml
 outdated: false
 ---
-
-Identifies the normalized debug configuration token.

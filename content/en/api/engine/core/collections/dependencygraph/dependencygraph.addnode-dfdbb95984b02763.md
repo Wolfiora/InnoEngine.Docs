@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a node when it does not already exist.
-
 ## Parameters
 
 **Parameter `node`:** The node key.

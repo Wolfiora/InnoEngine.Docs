@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this instance and the supplied value represent the same logical state.
-
 ## Returns
 
 `true` when both values represent the same logical state; otherwise, `false`.

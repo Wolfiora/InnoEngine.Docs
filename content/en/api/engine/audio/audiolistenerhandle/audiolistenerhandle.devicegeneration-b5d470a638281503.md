@@ -13,5 +13,3 @@ reviewed: 0f74ba5f0f3c09c07d2404ee671a4f687dcedf97ead365e6b4f5070e9c2c44f1
 source: xml
 outdated: false
 ---
-
-Gets the generation of the device that created this handle.

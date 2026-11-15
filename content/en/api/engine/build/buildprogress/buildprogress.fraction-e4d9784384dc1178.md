@@ -13,5 +13,3 @@ reviewed: e3d31e3db78762c5077b9b60c9eed20a8e1211a2bd94cfc96d683d3b634e19a9
 source: xml
 outdated: false
 ---
-
-Gets the completed fraction in the inclusive range from zero to one.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-runtime-contracts
 aliases: []
 ---
-
-Enforces one control-thread lifecycle while derived runtimes compose their own domain services.

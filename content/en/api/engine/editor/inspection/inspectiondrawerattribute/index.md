@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Associates an inspector drawer with a selected target type.

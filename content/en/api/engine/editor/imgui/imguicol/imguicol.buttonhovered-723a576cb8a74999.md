@@ -13,5 +13,3 @@ reviewed: c2c2c3b682ca15d54db7309f2408b8e3aa0cb56fe35b1b610ea4aaf20dfc48d5
 source: xml
 outdated: false
 ---
-
-Selects the button hovered presentation behavior.

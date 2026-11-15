@@ -13,5 +13,3 @@ reviewed: 456d96c6d53242e6b2a69bdea183e1733662501a619f0685c603bf32b873950e
 source: xml
 outdated: false
 ---
-
-Gets whether compact editor density is active.

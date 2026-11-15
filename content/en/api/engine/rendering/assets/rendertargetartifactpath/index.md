@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets
 aliases: []
 ---
-
-Defines deterministic relative paths shared by target-artifact producers and runtime consumers.

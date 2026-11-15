@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Defines the open cross-domain protocol used to resolve persistent asset identities.

@@ -13,5 +13,3 @@ reviewed: 02c4549df401ca1af0898f3cbc90f952904c1dd96a585bfb0b5e2fd62b1f8bba
 source: xml
 outdated: false
 ---
-
-Gets the explicit checkout-relative recipe owner project.

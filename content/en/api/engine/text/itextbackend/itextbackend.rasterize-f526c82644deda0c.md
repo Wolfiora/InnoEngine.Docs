@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rasterizes one shaped glyph into 8-bit coverage.
-
 ## Parameters
 
 **Parameter `font`:** The loaded face.

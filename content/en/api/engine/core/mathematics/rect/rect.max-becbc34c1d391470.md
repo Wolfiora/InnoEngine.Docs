@@ -13,5 +13,3 @@ reviewed: c82047f15215f34efb53f41c17c18963429cc39c160a12de0e007543adb8df04
 source: xml
 outdated: false
 ---
-
-Gets the maximum corner of this axis-aligned rectangle.

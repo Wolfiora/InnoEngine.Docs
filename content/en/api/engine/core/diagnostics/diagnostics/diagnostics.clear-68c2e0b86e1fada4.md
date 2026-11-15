@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clears one targeted diagnostic group owned by the calling type.
-
 ## Parameters
 
 **Parameter `targetId`:** The stable identity of the asset, scene element, or other dynamic target.

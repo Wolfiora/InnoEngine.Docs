@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pops color overrides.
-
 ## Parameters
 
 **Parameter `count`:** The positive number of overrides to pop.

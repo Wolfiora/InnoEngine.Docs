@@ -13,5 +13,3 @@ reviewed: 1e52c2dfe870e5e6d0359dcd217a1bffff7c2020bbc3419e911d54a4ff8fdad6
 source: xml
 outdated: false
 ---
-
-CSS-compatible face weight.

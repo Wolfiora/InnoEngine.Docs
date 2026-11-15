@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Owns a document's neutral node display snapshot, independently of viewport transforms and domain instances.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queues a graphics pipeline for delayed GPU-safe destruction.
-
 ## Parameters
 
 **Parameter `pipeline`:** Pipeline owned by this device generation.

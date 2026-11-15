@@ -13,5 +13,3 @@ reviewed: a031bdc155a355c31afff80d6d8fd32548aee14818a6fd1ca093a5095bceeb9b
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadL1 presentation key or modifier.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-shaders-imgui
 aliases: []
 ---
-
-Immutable authoring presentation contributed for one Shader node definition.

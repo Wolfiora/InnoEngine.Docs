@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Applies a hierarchy mutation and records only the affected parent and sibling-index tuples.
-
 ## Parameters
 
 **Parameter `gameObject`:** The primary GameObject being moved.

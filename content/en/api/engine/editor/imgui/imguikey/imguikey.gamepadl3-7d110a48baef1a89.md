@@ -13,5 +13,3 @@ reviewed: fd349e143a7e6bd9ba2010d84c0da49d59e8812a15a49c071549e8f9d2b62696
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadL3 presentation key or modifier.

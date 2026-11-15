@@ -13,5 +13,3 @@ reviewed: 7d486f04c8ca1e293ea41bb15d32e4723ee5b367f49a11d8ea9e9da22f55c214
 source: xml
 outdated: false
 ---
-
-Disable tooltip for the given tab

@@ -13,5 +13,3 @@ reviewed: a7f447854157beb1afa28c4b59a257df60cc7022d5d577823f7c6672205f3839
 source: xml
 outdated: false
 ---
-
-Gets the stable target identity implemented by this source.

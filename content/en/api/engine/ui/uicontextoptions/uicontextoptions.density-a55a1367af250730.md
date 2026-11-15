@@ -13,5 +13,3 @@ reviewed: aefb968c1500286c5e74a7e95bf8e9e41e98262183191cfa976dbc12258bbed9
 source: xml
 outdated: false
 ---
-
-Gets the density-independent pixel ratio.

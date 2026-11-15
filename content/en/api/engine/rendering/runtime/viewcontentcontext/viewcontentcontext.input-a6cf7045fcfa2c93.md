@@ -13,5 +13,3 @@ reviewed: 502c348b7ad553374a77544be860683d900b21421498e965615eba6b70854607
 source: xml
 outdated: false
 ---
-
-Gets frame-local input for this output.

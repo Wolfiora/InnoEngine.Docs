@@ -13,5 +13,3 @@ reviewed: 962268278afea60b0fdeb0ec89bcdae5f99d77275797fb36bd753a31d52bf70c
 source: xml
 outdated: false
 ---
-
-Gets or sets the ownership domain declared by the deployed module.

@@ -13,5 +13,3 @@ reviewed: 64e40fe85b021306e836b93899e16e235edf38d423227e42121b8903e3b90049
 source: xml
 outdated: false
 ---
-
-The up arrow key.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retires claims for absent payloads while the caller exclusively owns the persistent root gate.
-
 ## Parameters
 
 **Parameter `root`:** The exact producer root whose owner.lock the caller exclusively holds.

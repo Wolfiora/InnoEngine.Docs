@@ -13,5 +13,3 @@ reviewed: 300edd5c6888d5a63265ad63f4e24874497bd701ff5777150ced2020b3166265
 source: xml
 outdated: false
 ---
-
-The horizontal placement offset from the pen position in logical pixels.

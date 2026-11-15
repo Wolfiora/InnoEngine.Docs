@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Dispatches a bounded prefix of pending events; recursively enqueued work waits for a later flush.

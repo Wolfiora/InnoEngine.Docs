@@ -13,5 +13,3 @@ reviewed: abb98e810abcc39504fc2860f052612602c129d41ee89542d5c2920b5e45659a
 source: xml
 outdated: false
 ---
-
-Gets the stable importer implementation identifier.

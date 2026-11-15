@@ -13,5 +13,3 @@ reviewed: be18204e78dc40ae5dba8851c90f7cada4f5b38e91862ebbf5bc76475a6091c7
 source: xml
 outdated: false
 ---
-
-Gets the optional stable key used to merge adjacent changes to the same logical value.

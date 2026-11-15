@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a fixed-length array without collapsing its element type.
-
 ## Parameters
 
 **Parameter `element`:** Element type.

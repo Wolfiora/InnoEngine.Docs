@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable graph node identifier.
-
 ## Parameters
 
 **Parameter `value`:** Non-empty identifier value.

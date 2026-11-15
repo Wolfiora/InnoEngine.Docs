@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures one pointer until explicit release or cancellation.
-
 ## Parameters
 
 **Parameter `pointerId`:** Platform pointer identity.

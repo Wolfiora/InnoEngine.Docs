@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates imported audio metadata.
-
 ## Parameters
 
 **Parameter `codec`:** Codec protocol of the encoded artifact.

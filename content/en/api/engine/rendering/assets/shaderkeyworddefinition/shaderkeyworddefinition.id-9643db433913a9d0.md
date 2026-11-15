@@ -13,5 +13,3 @@ reviewed: d7e1448351733e6bb9b00966d0f635be1c5e966b466fc4aaad887f5187a54474
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable keyword identifier.

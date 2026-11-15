@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Represents one isolated, strongly typed object exposed to a Settings field and its consumers.

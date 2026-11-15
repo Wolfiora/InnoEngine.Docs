@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Changes zoom while preserving the graph point beneath a screen-space pivot.
-
 ## Parameters
 
 **Parameter `factor`:** Positive multiplicative zoom factor.

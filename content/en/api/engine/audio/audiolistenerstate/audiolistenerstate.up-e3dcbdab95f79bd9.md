@@ -13,5 +13,3 @@ reviewed: d360bb42408e4accfb12e175dfb8885e790e184797961f5958f5ca31ee3818b3
 source: xml
 outdated: false
 ---
-
-Gets the world-space listener up direction.

@@ -13,5 +13,3 @@ reviewed: abffb1c9fa02fe5b524175fed8c3a2db8b0acf8673b9043a2177a35683abde23
 source: xml
 outdated: false
 ---
-
-Raster color attachment.

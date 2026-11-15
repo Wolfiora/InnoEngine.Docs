@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Regenerates IDE project files from the current source graph and logical API references.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the authoring asset pipeline is not initialized.

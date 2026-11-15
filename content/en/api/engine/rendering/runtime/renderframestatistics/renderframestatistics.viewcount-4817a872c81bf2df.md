@@ -13,5 +13,3 @@ reviewed: 92aeb7fc089ace903c0fccf548648888116bea5a16f4b4009cfbfee36704c216
 source: xml
 outdated: false
 ---
-
-Gets the executed logical view count.

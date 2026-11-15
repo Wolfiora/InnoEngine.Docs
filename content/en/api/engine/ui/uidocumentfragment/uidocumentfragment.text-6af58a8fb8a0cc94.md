@@ -13,5 +13,3 @@ reviewed: 4a8142aa30df8c22c70a7d6289d5d0839141111369c86e3987aa322ecbaa5058
 source: xml
 outdated: false
 ---
-
-Gets the complete fragment text.

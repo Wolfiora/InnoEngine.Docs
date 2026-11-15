@@ -13,5 +13,3 @@ reviewed: 2ca3fd17f3ceeac751b8e9f063a2648a74ae9420e8105c8342401ba9f8cfc212
 source: xml
 outdated: false
 ---
-
-The source is waiting for import or commit.

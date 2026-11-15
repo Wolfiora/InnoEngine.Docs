@@ -13,5 +13,3 @@ reviewed: ff6770dd47398f0334eed9e1cc6a64650949fc709ea52844bcbadac194bddb7b
 source: xml
 outdated: false
 ---
-
-Identifies the desktop CoreCLR publisher.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws optional controller-specific toolbar controls when this contributor owns viewport interaction.
-
 ## Parameters
 
 **Parameter `context`:** Frame-only Editor and viewport context.

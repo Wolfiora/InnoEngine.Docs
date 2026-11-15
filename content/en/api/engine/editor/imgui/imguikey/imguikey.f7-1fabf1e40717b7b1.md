@@ -13,5 +13,3 @@ reviewed: 30bbff7ff86180c7cece760ce2834ad0e4a3b3d52aa95b4c5f320ecf13f3aca2
 source: xml
 outdated: false
 ---
-
-Identifies the F7 presentation key or modifier.

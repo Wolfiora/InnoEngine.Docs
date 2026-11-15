@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Prefixes stable port IDs storing explicit typed defaults for unconnected inputs.

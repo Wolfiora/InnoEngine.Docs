@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the indexed entries represented by this view.
-
 ## Parameters
 
 **Parameter `includeDirectories`:** Whether directory entries are included.

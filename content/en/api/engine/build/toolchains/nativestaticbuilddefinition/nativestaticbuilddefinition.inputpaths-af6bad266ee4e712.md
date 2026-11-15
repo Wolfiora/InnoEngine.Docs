@@ -13,5 +13,3 @@ reviewed: 88b43150b38546c50f6b3eaead3bab14740ab55bf7c69fc1aa7c8849b5270560
 source: xml
 outdated: false
 ---
-
-Gets the immutable complete source dependency paths relative to the checkout.

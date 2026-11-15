@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a property drawer registration.
-
 ## Parameters
 
 **Parameter `targetType`:** The declared serialized property type handled by the drawer.

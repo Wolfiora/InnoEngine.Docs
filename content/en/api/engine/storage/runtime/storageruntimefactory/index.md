@@ -16,5 +16,3 @@ contracts:
 - project.inno-storage-runtime#admission-and-lifetime-contract
 aliases: []
 ---
-
-Creates one frame-scoped storage service for a runtime session.

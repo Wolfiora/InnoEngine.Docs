@@ -13,5 +13,3 @@ reviewed: 5954f6c150d38c378c08f8d5075edf7f7a4ef8b1acd91eaec8ed1fbcdab55b8c
 source: xml
 outdated: false
 ---
-
-Gets whether assignments are disabled.

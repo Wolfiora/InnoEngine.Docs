@@ -13,5 +13,3 @@ reviewed: a320e58b2b6786d5e483eefb643615d93220823f2023c207bb71a47db3f1d72c
 source: xml
 outdated: false
 ---
-
-Gets the ordered non-interactive lines.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Owns the loaded scene set and lifecycle state for one isolated runtime session.

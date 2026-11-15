@@ -13,5 +13,3 @@ reviewed: 812e6c5e78cba35de5485e4eddf9b783f48645151637aafba57bc67f64f375f1
 source: xml
 outdated: false
 ---
-
-Gets the logical namespace, or null for an unassigned value.

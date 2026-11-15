@@ -13,5 +13,3 @@ reviewed: d42a513445c9124fb85f337f3344aadb4e8621b0fea8c2c7c4416e7cd43b447b
 source: xml
 outdated: false
 ---
-
-Gets the mouse button for this event.

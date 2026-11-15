@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Whether Escape activates this action; opt in only for cancellation or dismissal.

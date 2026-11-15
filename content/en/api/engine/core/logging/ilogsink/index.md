@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Defines a log sink that consumes log entries from a `T:Inno.Core.Logging.LogRouter`.

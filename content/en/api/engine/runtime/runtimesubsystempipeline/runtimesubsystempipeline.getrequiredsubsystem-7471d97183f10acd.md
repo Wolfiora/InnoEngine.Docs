@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the unique active subsystem that implements the requested contract.
-
 ## Type parameters
 
 **Type parameter `TFeature`:** The subsystem contract or concrete subsystem type required by the composition root.

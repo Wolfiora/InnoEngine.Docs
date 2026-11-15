@@ -13,5 +13,3 @@ reviewed: 06adbf007e62d827af408b369ec48077e6b80bfa16a4f7cf356ce37103fc61db
 source: xml
 outdated: false
 ---
-
-Counter-clockwise vertices form a front-facing triangle.

@@ -13,5 +13,3 @@ reviewed: ca788a881607a616606a2af8de14cdaa7584416a0253c2aab33113ed8bfdea3f
 source: xml
 outdated: false
 ---
-
-Gets whether a usable interface was found without errors.

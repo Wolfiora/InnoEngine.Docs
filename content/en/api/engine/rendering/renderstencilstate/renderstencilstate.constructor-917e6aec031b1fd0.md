@@ -13,5 +13,3 @@ reviewed: 46ac4212095d1be62c7b8c41c91e1cb52eef332564f4f46a546cf836b837e31c
 source: xml
 outdated: false
 ---
-
-Creates the default disabled stencil state.

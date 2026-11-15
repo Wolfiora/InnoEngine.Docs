@@ -13,5 +13,3 @@ reviewed: cbd86930b3cc282803f59d99cff776316c44b021873a5760c79552bbef18c1e7
 source: xml
 outdated: false
 ---
-
-Gets the typed drop target.

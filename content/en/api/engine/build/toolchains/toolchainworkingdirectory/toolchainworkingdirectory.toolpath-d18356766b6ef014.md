@@ -13,5 +13,3 @@ reviewed: 4141a3ac80e3785544a37a8e64c7b7fdce8c9b09ec0263ec9d77c11f205dc13c
 source: xml
 outdated: false
 ---
-
-Gets the execution path, valid until disposal.

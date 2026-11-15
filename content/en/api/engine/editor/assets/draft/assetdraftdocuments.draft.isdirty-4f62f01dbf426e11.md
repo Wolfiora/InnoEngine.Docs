@@ -13,5 +13,3 @@ reviewed: be232a06242ac9dcb810da27bb6ed3724d6fbb3ecf0fab7b17bda2143ba5f33c
 source: xml
 outdated: false
 ---
-
-Gets whether detached bytes differ from the saved baseline.

@@ -13,5 +13,3 @@ reviewed: 4ead785ce6180247ba66af167682d803e131c3511bbc8b429b7dae3da0282aa2
 source: xml
 outdated: false
 ---
-
-Gets the owning scene after this system has been registered.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Seeks one live playback to a clamped clip-local time.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle produced by this runtime generation.

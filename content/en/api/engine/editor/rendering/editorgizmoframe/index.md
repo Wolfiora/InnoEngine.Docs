@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Holds the transient gizmo primitives for one Scene viewport frame.

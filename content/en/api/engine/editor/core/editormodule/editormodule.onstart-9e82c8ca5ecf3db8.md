@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs after the module generation becomes active and before its first update.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context for the active runtime.

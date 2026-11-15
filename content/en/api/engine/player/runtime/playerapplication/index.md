@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Owns the common Player startup, frame execution and verified resource retirement.

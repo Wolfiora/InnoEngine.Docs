@@ -13,5 +13,3 @@ reviewed: 780d7648e3fa0c7820d52980fac785c7fd462ca74a48885bf8c8c72c9af5aab0
 source: xml
 outdated: false
 ---
-
-Gets whether the Y translation axis is excluded by the viewport plane.

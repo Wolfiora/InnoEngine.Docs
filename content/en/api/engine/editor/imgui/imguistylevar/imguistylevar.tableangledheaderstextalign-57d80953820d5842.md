@@ -13,5 +13,3 @@ reviewed: 7f423549dd8736103f836827e69b624bf187a3fc51c8feb2227ac343f83846fd
 source: xml
 outdated: false
 ---
-
-Selects the table angled headers text align presentation behavior.

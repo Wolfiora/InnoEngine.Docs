@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Samples a graph-connected texture with implicit derivatives or an explicit level of detail.

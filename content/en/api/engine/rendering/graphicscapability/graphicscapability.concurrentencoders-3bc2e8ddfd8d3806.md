@@ -13,5 +13,3 @@ reviewed: 1f756662166621a339ad6d6a1322cf1250e7d49bd40128f6465b0154e5932823
 source: xml
 outdated: false
 ---
-
-Multiple command encoders may record concurrently.

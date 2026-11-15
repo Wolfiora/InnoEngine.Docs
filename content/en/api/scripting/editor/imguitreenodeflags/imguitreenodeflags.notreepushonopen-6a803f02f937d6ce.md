@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Don't do a TreePush() when open (e.g. for CollapsingHeader) = no extra indent nor pushing on ID stack

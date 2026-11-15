@@ -13,5 +13,3 @@ reviewed: 87d6e46519e533e71d5718b6698df0f9e674802b2081b2e5fca38d377f6b657e
 source: xml
 outdated: false
 ---
-
-Gets or sets the positive orthographic half-height in provider world units.

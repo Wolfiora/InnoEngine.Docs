@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws the target-specific Inspector body below the shared target header.
-
 ## Parameters
 
 **Parameter `context`:** The active Inspector drawing context.

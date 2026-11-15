@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Allows runtime assignment through the `T:InnoEngine.Serialization.SerializedProperty` API.

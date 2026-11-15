@@ -13,5 +13,3 @@ reviewed: 65cc9048d34cc4864f10bf5af86cd707f7298c8ae1196985376ffd2103785582
 source: xml
 outdated: false
 ---
-
-Makes the fully prepared candidate provisionally visible at an owner-thread safe point.

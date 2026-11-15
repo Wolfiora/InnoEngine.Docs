@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The source cannot be reconciled without resolving an identity conflict.

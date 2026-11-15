@@ -13,5 +13,3 @@ reviewed: 65ed29503af96fd142aeb4114acb8f34bece775b30fa0086a9024e053d183366
 source: xml
 outdated: false
 ---
-
-Gets the UTC start ticks; zero denotes an uninitialized stamp.

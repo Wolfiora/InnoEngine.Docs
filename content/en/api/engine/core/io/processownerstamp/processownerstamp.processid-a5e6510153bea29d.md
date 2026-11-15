@@ -13,5 +13,3 @@ reviewed: 40e998cb9ceb9d4a830cb4375d413cc1a84109f0c34c1365eecb1a95c4b4eb96
 source: xml
 outdated: false
 ---
-
-Gets the operating-system identifier; zero denotes an uninitialized stamp.

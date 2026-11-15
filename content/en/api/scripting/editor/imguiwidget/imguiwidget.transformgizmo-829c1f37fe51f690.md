@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a transform handle using stack-owned ABI buffers and restores native global style and masks before returning.
-
 ## Parameters
 
 **Parameter `world`:** The current world matrix, copied into the native call.

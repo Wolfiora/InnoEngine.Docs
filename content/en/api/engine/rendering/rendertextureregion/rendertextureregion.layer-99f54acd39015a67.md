@@ -13,5 +13,3 @@ reviewed: 3d42f8fecc023afb2e3aa79f12df723003ad4798fc9eef83c0b12b20f4fe7f83
 source: xml
 outdated: false
 ---
-
-Gets the array layer or depth-slice origin.

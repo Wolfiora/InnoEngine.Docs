@@ -13,5 +13,3 @@ reviewed: 8a9183368fe743e8ed07aff94131c00486d8707b29e5cba6f712d018cacd97be
 source: xml
 outdated: false
 ---
-
-The right key.

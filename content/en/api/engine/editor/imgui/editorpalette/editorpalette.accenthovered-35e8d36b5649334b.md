@@ -13,5 +13,3 @@ reviewed: 98b726df13d47d514650a1fc52e5eeecbc42a5edb254e040da73856df325d543
 source: xml
 outdated: false
 ---
-
-Gets the hovered accent color.

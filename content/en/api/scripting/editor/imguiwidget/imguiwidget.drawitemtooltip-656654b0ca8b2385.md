@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a consistently sized, wrapped editor tooltip for the most recently submitted item.
-
 ## Parameters
 
 **Parameter `text`:** Tooltip text. Empty values do not draw a tooltip.

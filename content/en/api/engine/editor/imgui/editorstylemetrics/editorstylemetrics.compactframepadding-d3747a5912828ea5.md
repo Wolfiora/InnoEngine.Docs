@@ -13,5 +13,3 @@ reviewed: 082a5339e61a3b025013bf69e70f2fe4aa98bcf02c9eefa22842c28ef0ebd051
 source: xml
 outdated: false
 ---
-
-Gets compact frame padding.

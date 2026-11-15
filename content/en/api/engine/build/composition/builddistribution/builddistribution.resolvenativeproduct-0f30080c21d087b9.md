@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a platform-contributed product closure without selecting backends inside the invoking host.
-
 ## Parameters
 
 **Parameter `targetId`:** The explicit registered product target.

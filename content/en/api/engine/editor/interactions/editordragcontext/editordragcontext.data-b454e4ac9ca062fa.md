@@ -13,5 +13,3 @@ reviewed: b528cfcb1c4e0ab548ebf888d9fe048eb0baa34df815325e5f10d70977b338da
 source: xml
 outdated: false
 ---
-
-Gets the managed drag data.

@@ -13,5 +13,3 @@ reviewed: dca4626681052f1b8cb7f5b44035f9cf6a7cdb12398427ecc4b8ca3dfeda66b5
 source: xml
 outdated: false
 ---
-
-Gets the stable lifecycle order.

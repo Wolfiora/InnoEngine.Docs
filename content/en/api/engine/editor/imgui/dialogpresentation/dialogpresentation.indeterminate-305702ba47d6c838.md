@@ -13,5 +13,3 @@ reviewed: 7ef18c363a90e375fc87e221652dfb88f741ff4879d3b9c1c8e2d7cb0f9b7fa8
 source: xml
 outdated: false
 ---
-
-Whether to show activity without inventing a completed fraction.

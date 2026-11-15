@@ -13,5 +13,3 @@ reviewed: 66a5a070543b477d68e748165429c1af54de39d58bb7f61f9fc8a9663f43e9a9
 source: xml
 outdated: false
 ---
-
-Gets accumulated unscaled session time in seconds.

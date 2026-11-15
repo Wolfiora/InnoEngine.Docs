@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a borrowed descriptor whose outputs remain protected until this result is disposed.
-
 ## Parameters
 
 **Parameter `key`:** The checkout-relative Native owner project.

@@ -13,5 +13,3 @@ reviewed: f186d6f5afe9aff457ce95c2358d7d0a496f473457511672fe9b00c805659345
 source: xml
 outdated: false
 ---
-
-Gets ordering metadata that evaluates animation after scene simulation.

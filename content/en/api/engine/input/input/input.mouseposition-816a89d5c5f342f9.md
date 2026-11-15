@@ -13,5 +13,3 @@ reviewed: 9c2567182b37f661c8c67af951247d1df886342617ff8613d3db71d87203e1ac
 source: xml
 outdated: false
 ---
-
-Gets the current pointer position in window coordinates.

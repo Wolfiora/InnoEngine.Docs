@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces exact Guid and string values while retaining the binary serialization structure.
-
 ## Parameters
 
 **Parameter `source`:** A complete serialized value or property snapshot.

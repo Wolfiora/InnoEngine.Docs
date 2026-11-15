@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds base buses and processors to a candidate mixer graph.
-
 ## Parameters
 
 **Parameter `builder`:** Candidate graph builder valid only for this invocation.

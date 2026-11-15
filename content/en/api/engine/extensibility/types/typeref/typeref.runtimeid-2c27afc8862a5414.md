@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the generation-local lookup hint captured when this value was created.
-
 ## Remarks
 
 This value must not be persisted or used as logical type identity.

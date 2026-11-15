@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates immutable device frame counters.
-
 ## Parameters
 
 **Parameter `drawCount`:** Direct and indirect draw commands submitted so far.

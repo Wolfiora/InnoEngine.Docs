@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Describes one immutable, presentation-ready statistic without retaining provider instances or types.

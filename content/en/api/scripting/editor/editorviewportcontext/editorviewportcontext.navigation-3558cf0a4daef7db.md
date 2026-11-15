@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets host-owned neutral navigation state that the selected controller can map to its camera model.

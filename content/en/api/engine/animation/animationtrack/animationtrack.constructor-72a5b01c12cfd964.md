@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one validated animation track.
-
 ## Parameters
 
 **Parameter `bindingId`:** Stable target binding identifier.

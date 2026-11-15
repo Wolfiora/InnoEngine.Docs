@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts this value to its euler angles xyz representation.
-
 ## Returns
 
 The validated vector3 that represents the completed operation.

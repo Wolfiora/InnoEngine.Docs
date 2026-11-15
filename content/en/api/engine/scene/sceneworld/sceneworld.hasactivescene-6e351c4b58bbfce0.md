@@ -13,5 +13,3 @@ reviewed: 4c13758978aabdf243289cd2382224ffc281c2972c319fad43a8874a4f552da4
 source: xml
 outdated: false
 ---
-
-Gets whether this world contains an active scene.

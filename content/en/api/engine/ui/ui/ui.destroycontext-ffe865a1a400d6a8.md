@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Destroys one UI context and all owned documents.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

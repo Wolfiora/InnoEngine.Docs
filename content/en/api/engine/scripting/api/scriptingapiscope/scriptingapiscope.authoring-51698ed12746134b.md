@@ -13,5 +13,3 @@ reviewed: 60be946f6fe70908240fba76417450295fa85dd4ae2f2e133ec0a20d13ebc847
 source: xml
 outdated: false
 ---
-
-Exposes compile-time annotations to game and editor scripts. Player compilation erases their applications and derived annotation declarations before binding to target assemblies.

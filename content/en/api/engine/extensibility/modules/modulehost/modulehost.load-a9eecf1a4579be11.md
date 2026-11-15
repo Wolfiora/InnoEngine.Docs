@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Prepares and activates a new module contribution through its selected source.
-
 ## Parameters
 
 **Parameter `request`:** The validated immutable request that defines this operation.

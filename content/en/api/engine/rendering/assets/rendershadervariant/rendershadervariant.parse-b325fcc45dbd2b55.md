@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Parses the canonical representation stored in a deployed artifact.
-
 ## Parameters
 
 **Parameter `value`:** The canonical semicolon-separated keyword selections.

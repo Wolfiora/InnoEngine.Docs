@@ -13,5 +13,3 @@ reviewed: c6380dded475a9e42044b3215563d0689738164b09515ba159bf64a92635a7b1
 source: xml
 outdated: false
 ---
-
-Gets the stable modal ordering value.

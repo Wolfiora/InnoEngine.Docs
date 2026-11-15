@@ -13,5 +13,3 @@ reviewed: 0006f85a3c58269342840910ac9cb26f2d81f61c2669e55918a471e796362536
 source: xml
 outdated: false
 ---
-
-Called when the system becomes active and enabled.

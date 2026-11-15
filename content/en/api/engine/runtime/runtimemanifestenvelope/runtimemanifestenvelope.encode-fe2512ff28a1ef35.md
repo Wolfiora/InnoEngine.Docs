@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes a validated runtime manifest into the strict deployment envelope.
-
 ## Parameters
 
 **Parameter `manifest`:** The manifest whose application identity and serialized payload must agree.

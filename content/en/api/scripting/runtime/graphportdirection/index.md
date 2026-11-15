@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Declares the direction in which values flow through a graph port.

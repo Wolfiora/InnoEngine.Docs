@@ -16,5 +16,3 @@ contracts:
 - project.inno-extensibility-catalogs#composition-and-factory-contract
 aliases: []
 ---
-
-Freezes a declaration's discovery facts independently of its runtime's reflection implementation.

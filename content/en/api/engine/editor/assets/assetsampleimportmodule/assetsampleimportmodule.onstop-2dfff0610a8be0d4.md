@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Cancels and retires pending work before the scripting and asset dependencies stop.
-
 ## Parameters
 
 **Parameter `context`:** The stopping Editor's interaction services.

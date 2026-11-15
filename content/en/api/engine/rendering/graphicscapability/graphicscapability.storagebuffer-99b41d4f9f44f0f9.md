@@ -13,5 +13,3 @@ reviewed: 926803b3d69abbb8333c87970438c637e499b4f3bf909ef27bb2722ebe8f65d1
 source: xml
 outdated: false
 ---
-
-Shader-readable and writable storage buffers.

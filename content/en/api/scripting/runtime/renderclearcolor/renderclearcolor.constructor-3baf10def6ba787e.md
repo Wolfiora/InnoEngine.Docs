@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a linear clear color.
-
 ## Parameters
 
 **Parameter `r`:** Red channel.

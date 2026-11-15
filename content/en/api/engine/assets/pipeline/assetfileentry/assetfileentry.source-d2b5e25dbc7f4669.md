@@ -13,5 +13,3 @@ reviewed: 9ce4d9069eff49db6d7acc0c91083fc3d944005f74776f04e1119bb4f3624ed2
 source: xml
 outdated: false
 ---
-
-Gets the owning source mount identity.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Accumulates backend-neutral platform events into complete runtime input snapshots.

@@ -13,5 +13,3 @@ reviewed: 7145fe1fd46488158ea984956f575a0e2a9fb40a9fe8915447ade85593ac8eb0
 source: xml
 outdated: false
 ---
-
-Gets the stable graph identity represented by this display snapshot.

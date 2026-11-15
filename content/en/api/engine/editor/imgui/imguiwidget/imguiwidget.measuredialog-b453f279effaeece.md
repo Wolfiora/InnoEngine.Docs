@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Measures current dialog content before its window is opened. The returned geometry must be used with the same presentation.
-
 ## Parameters
 
 **Parameter `presentation`:** The immutable content captured for this frame.

@@ -13,5 +13,3 @@ reviewed: f02bc3186337be50c8f5c8a3d338e22aad60f4c97d896061dcf35c5d2b76fc6e
 source: xml
 outdated: false
 ---
-
-Gets the untyped drop context.

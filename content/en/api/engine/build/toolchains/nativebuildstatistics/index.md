@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Reports actual input reading and compiler process work accumulated by one build context.

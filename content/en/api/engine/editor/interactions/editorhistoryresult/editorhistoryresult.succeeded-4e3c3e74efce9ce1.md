@@ -13,5 +13,3 @@ reviewed: 2263d43a5c2472709811cb9ee3d5078a6dda8d280e20c7b1381087e47612fd67
 source: xml
 outdated: false
 ---
-
-Gets whether the requested history transition completed successfully.

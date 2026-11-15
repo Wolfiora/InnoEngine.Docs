@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the repository containing the currently executing toolchain assembly.
-
 ## Returns
 
 The absolute path of the repository root.

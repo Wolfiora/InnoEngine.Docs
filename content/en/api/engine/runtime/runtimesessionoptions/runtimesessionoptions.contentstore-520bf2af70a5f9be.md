@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets or initializes the immutable content store borrowed for the session lifetime.
-
 ## Remarks
 
 Player sessions require this store. Edit and Play sessions may omit it when an authoring asset service is composed by the Editor.

@@ -13,5 +13,3 @@ reviewed: 7b8427ed55467c7d0c334c369cb540177e17e03fca2df56f90b77426590f87c4
 source: xml
 outdated: false
 ---
-
-Sixth texture coordinate.

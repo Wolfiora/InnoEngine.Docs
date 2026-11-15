@@ -13,5 +13,3 @@ reviewed: 64cc186ec8ddfe032eda93d5f5ef0b848efeabe69639aaa60fa818eb76de66e2
 source: xml
 outdated: false
 ---
-
-Gets a detached editable copy of the committed backend-neutral definition, or null before import. Nested declaration arrays are copied; referenced assets remain identity-owned resources.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the imported asset type represented by this declaration, or `null` for an extension declaration.

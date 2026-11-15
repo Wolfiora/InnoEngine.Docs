@@ -13,5 +13,3 @@ reviewed: 00157cf2f3b1a74500446f9193c11c05ac4cc99128e558df73058b5a1adfa3a7
 source: xml
 outdated: false
 ---
-
-Gets the ordered UTF-8 text commits captured during this frame.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a generation-aware inspection drawer registry.
-
 ## Parameters
 
 **Parameter `interactions`:** The active editor interaction entry point exposed to draw contexts.

@@ -13,5 +13,3 @@ reviewed: 28e61c7b022f32fb69d50f97acdf51a0eeb16ae40779be56b76203d069cb615b
 source: xml
 outdated: false
 ---
-
-Gets whether Alt is held.

@@ -13,5 +13,3 @@ reviewed: a1a96a642c69f7d266da4ad3db7f0bab72d5aa3d3c9ec39e0e3796f517bf0886
 source: xml
 outdated: false
 ---
-
-Gets the registered SDK boundary; registration does not start tools or inspect the environment.

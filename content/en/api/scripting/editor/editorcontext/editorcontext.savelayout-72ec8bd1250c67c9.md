@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Atomically rewrites the complete project editor layout document.
-
 ## Exceptions
 
 **Exception `T:System.IO.IOException`:** Thrown when the layout document cannot be written atomically.

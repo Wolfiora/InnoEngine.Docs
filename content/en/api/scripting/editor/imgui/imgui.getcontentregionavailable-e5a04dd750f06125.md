@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the remaining content size in the current region.
-
 ## Returns
 
 The remaining local width and height.

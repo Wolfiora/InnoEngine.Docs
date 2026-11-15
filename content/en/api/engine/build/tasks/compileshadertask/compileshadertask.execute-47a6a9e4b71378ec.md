@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles the requested graph artifact and reports compilation failures through MSBuild.
-
 ## Returns
 
 True after writing the artifact; false when validation or compilation fails.

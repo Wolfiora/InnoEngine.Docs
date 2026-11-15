@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a pass's ordered typed stages.
-
 ## Parameters
 
 **Parameter `name`:** Exact pass identity in the program contract.

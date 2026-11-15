@@ -13,5 +13,3 @@ reviewed: f5597a8f661814cd90a19302f5cd1b02bd7c4b888585c234337fc09e9da1fceb
 source: xml
 outdated: false
 ---
-
-Gets the generation-safe identifier interpreted inside `P:Inno.Core.Identity.RuntimeIdentity.domainId`.

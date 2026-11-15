@@ -13,5 +13,3 @@ reviewed: 829be8db13dd91d63257f3537c32d842d374503e73e18af936022348bf3b632d
 source: xml
 outdated: false
 ---
-
-Gets or sets whether a scalar Float control uses the declared editing bounds.

@@ -13,5 +13,3 @@ reviewed: 4452285f4461aa5f4ddf3b1b7e1a5e5e8b8e54bf5fe23cd5345141bd63058abd
 source: xml
 outdated: false
 ---
-
-Gets the validation diagnostic.

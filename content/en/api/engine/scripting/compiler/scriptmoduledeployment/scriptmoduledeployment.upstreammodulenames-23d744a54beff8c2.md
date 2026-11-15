@@ -13,5 +13,3 @@ reviewed: 8df2f7a29e8e15038f5b55e16049caecd484c489c2e341f476b828f8c574d8cc
 source: xml
 outdated: false
 ---
-
-Gets the logical names of modules that supply managed dependencies to this module.

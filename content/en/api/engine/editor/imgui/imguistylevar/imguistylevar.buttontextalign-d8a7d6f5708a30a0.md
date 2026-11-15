@@ -13,5 +13,3 @@ reviewed: fbf6abacbdcd18c900a5f4e6d898c5736d5a328c78875395070ef3c4b4cc35fb
 source: xml
 outdated: false
 ---
-
-Selects the button text align presentation behavior.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a combined native-preview and managed-drop result.
-
 ## Parameters
 
 **Parameter `isPreviewing`:** Whether a compatible native payload is currently hovering the target.

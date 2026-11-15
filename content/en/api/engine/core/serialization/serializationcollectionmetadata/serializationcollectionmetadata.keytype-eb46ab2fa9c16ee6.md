@@ -13,5 +13,3 @@ reviewed: f016e76899fe1b7b044bd316be354e1eda70be636c30386d82102da9c50536eb
 source: xml
 outdated: false
 ---
-
-Gets the map key type, or null for a sequence.

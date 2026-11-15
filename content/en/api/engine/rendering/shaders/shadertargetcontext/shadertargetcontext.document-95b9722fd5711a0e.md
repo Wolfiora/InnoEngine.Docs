@@ -13,5 +13,3 @@ reviewed: 60d46c9fb6c9124f81b317dc1eb4b2047ec4bfc06185734ce338db36d6b77c8a
 source: xml
 outdated: false
 ---
-
-Gets a private document copy; expansion cannot modify the authored source.

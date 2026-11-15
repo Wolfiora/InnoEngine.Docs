@@ -13,5 +13,3 @@ reviewed: d61a29479514c8f22c9baf399c06f6d11de61b5868e000dda171d2fc1972751e
 source: xml
 outdated: false
 ---
-
-Gets the elapsed duration before the barrier faulted.

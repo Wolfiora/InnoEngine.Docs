@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an explicit zero value for a supported scalar, vector, matrix, structure or array.
-
 ## Parameters
 
 **Parameter `type`:** Complete numeric or boolean value type; resources and effect tokens are not values.

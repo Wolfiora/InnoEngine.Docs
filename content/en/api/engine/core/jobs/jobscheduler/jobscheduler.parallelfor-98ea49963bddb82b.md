@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Schedules a range as independent contiguous batches.
-
 ## Parameters
 
 **Parameter `length`:** The exclusive upper bound of the complete range.

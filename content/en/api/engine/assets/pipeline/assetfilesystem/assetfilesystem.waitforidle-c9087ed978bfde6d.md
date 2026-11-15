@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Waits for queued changes and reports whether a full rescan is required.
-
 ## Parameters
 
 **Parameter `requiresFullRescan`:** Whether the watcher reported an unreliable event stream.

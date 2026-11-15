@@ -13,5 +13,3 @@ reviewed: 8623c3f16a8ec621d0a9cfc3f9dccb77c0ac022254457e9ace0571ec724922b4
 source: xml
 outdated: false
 ---
-
-Gets or sets the globally stable mixer extension identifier.

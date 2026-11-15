@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the texture compiler for this implementation.
-
 ## Returns
 
 A compiler compatible with devices registered under the same identity.

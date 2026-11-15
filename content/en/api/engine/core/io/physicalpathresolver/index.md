@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Resolves filesystem aliases within one caller-owned reading phase without granting write authority.
-
 ## Remarks
 
 Instances are not thread-safe. Create a fresh instance when validating filesystem changes. Resolved paths still require an explicit PathBoundary check before ownership or mutation.

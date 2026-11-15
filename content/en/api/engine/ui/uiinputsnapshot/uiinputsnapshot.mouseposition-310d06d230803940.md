@@ -13,5 +13,3 @@ reviewed: f56903aed7fb2e68758e76b787fd942177ca7830398a8f73cb49d32ae02ef91a
 source: xml
 outdated: false
 ---
-
-Gets the pointer position.

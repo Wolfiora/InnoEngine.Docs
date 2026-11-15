@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets whether this row should receive keyboard focus during this submission when its tree window is focused.

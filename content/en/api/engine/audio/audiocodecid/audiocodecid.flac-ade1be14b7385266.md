@@ -13,5 +13,3 @@ reviewed: 3e8922ba7c09e822c2c60ff7b80477a97035991f528b5daf9d8e43a40306d9c2
 source: xml
 outdated: false
 ---
-
-Gets the standard Free Lossless Audio Codec identifier.

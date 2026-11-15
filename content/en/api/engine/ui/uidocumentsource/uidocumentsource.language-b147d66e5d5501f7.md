@@ -13,5 +13,3 @@ reviewed: 104138224780dc26d63f10357aeb98329aff06ba9422d7f00f6ac6453b0c47c1
 source: xml
 outdated: false
 ---
-
-Gets the explicitly selected source language.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a project-scoped layer identity.
-
 ## Parameters
 
 **Parameter `value`:** The canonical qualified identity.

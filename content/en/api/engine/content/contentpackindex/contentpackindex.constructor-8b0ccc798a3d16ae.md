@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies and sorts a complete payload inventory.
-
 ## Parameters
 
 **Parameter `entries`:** Immutable payload descriptions; ownership of the input enumeration remains with the caller.

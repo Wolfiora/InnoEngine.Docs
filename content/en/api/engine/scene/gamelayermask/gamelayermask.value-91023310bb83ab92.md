@@ -13,5 +13,3 @@ reviewed: 0b8f4b035d9ec1872e0958b7701347f74e7244250a4701c6f17da4783c775f03
 source: xml
 outdated: false
 ---
-
-Gets the raw thirty-two-bit mask value.

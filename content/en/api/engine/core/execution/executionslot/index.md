@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides an isolated, revocable execution binding whose values never survive scope retirement.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The explicitly selected service or immutable execution value.

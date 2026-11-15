@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a compact checkbox whose checked fill uses the current text color.
-
 ## Parameters
 
 **Parameter `id`:** Stable control identifier.

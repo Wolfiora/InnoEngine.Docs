@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Stores a stage input node's logical interface without native names or GPU handles.

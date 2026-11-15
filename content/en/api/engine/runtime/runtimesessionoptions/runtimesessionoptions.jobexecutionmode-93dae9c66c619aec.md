@@ -13,5 +13,3 @@ reviewed: 499b8bdd1b335bd48ca19f50663d04f631a1d82c2d091207863d7a7c7d1850d6
 source: xml
 outdated: false
 ---
-
-Gets or initializes the job execution strategy owned by this session.

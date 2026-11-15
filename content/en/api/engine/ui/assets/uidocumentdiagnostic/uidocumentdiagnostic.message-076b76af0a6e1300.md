@@ -13,5 +13,3 @@ reviewed: e570135dd52b89bd36ed12ceeb85847c4ce6e90feab1a0ec929955c9b15ae476
 source: xml
 outdated: false
 ---
-
-Actionable description.

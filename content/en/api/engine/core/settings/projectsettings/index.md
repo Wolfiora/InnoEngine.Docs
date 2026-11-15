@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Composes setting defaults, Plugin contributions, and project overrides atomically.

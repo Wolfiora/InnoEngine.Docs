@@ -13,5 +13,3 @@ reviewed: 7ebdd1684b2a48e711ca89c15ea1943cbc77fadb76933dbd84bcdaf202e24e6b
 source: xml
 outdated: false
 ---
-
-Gets or sets the exact ordered code identities contributed by this module.

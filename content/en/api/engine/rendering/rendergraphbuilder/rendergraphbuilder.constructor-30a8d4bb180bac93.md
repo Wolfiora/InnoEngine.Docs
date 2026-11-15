@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a render graph builder for one frame generation.
-
 ## Parameters
 
 **Parameter `generation`:** Non-zero frame-scoped generation.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the Edit scenes outside Play Mode or the isolated runtime copies while Play Mode is active.

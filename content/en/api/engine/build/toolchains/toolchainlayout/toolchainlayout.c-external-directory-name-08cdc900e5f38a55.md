@@ -13,5 +13,3 @@ reviewed: 653c7bc3db97ebafbf56d917c3f015d26de615c5142ffed1a8edb6a740633e8a
 source: xml
 outdated: false
 ---
-
-Identifies the directory containing checked-out native dependency sources.

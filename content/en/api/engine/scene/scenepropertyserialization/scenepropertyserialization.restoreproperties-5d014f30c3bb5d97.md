@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores independently captured properties into a live scene object.
-
 ## Parameters
 
 **Parameter `target`:** The current object generation receiving the values.

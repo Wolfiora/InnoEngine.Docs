@@ -13,5 +13,3 @@ reviewed: 3a2d3452ab17dd6560d7a4fd938be8ab45e2e2070cd221881c7617bfc8327c9e
 source: xml
 outdated: false
 ---
-
-Gets whether Shift is held.

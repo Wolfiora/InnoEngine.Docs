@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Provides backend-neutral draw, dispatch and copy commands for one compiled pass.

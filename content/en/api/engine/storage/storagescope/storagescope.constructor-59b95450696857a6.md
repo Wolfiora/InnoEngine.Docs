@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a portable, case-sensitive application namespace.
-
 ## Parameters
 
 **Parameter `value`:** A nonempty namespace containing ASCII letters, digits, dots, underscores, or hyphens.

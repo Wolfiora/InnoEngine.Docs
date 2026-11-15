@@ -13,5 +13,3 @@ reviewed: 9db2227ded19372065bbe874325979da804b9ebdf6cf9781b801765ffea323fd
 source: xml
 outdated: false
 ---
-
-Shows a value when it evaluates as false, null, or empty.

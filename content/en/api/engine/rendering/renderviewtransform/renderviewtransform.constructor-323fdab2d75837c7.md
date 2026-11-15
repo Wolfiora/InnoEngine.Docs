@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a raster view transform.
-
 ## Parameters
 
 **Parameter `viewMatrix`:** Exactly sixteen column-major world-to-view values.

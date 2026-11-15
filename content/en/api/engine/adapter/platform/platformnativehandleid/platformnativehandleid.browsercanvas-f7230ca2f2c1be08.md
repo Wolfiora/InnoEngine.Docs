@@ -13,5 +13,3 @@ reviewed: a49f266daa143d90678a0c0828d94034a7e6ad6c0ed2dc8f8553e9083ee4d272
 source: xml
 outdated: false
 ---
-
-Gets the UTF-8 canvas selector surface ABI.

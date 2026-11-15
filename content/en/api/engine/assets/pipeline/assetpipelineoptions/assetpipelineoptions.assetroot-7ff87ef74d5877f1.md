@@ -13,5 +13,3 @@ reviewed: 5674f0e8fd064e4629edd545c5b6f9563e7783fd55341f432ae990360269c681
 source: xml
 outdated: false
 ---
-
-Gets the root folder containing source assets.

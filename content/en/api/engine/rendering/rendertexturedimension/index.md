@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Identifies the dimensional shape of a backend-neutral texture resource.

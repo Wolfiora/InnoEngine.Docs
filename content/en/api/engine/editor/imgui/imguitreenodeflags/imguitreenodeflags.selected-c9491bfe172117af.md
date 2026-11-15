@@ -13,5 +13,3 @@ reviewed: 2991b55f02506d83860ca13a3b1ab50b51f0120e9723b561c38292cd0c67af73
 source: xml
 outdated: false
 ---
-
-Draw as selected

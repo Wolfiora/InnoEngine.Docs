@@ -13,5 +13,3 @@ reviewed: 41a176ce8fd768c7466c511de2427300c9bb80490d7a48045ad8efe78e7c1b50
 source: xml
 outdated: false
 ---
-
-Gets or sets values collected inside the node graph and exposed as outputs to callers.

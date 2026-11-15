@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-assets-authoring
 aliases: []
 ---
-
-Persists graph and frozen function inputs as an authoring artifact; Player export removes this payload.

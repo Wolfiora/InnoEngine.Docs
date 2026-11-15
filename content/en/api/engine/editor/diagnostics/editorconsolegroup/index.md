@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---
-
-Groups equivalent Console occurrences regardless of whether they arrived consecutively.

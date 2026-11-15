@@ -13,5 +13,3 @@ reviewed: 4df98c6d74848d82b27f719740467ae6dcba214cc0d5944a856210b9d878cda2
 source: xml
 outdated: false
 ---
-
-Gets or sets ordered stable event markers.

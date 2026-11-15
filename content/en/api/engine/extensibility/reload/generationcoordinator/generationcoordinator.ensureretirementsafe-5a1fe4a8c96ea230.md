@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Rejects dependency destruction after a generation owner reported unfinished retirement.
-
 ## Remarks
 
 Ordinary terminal cleanup failures do not prevent remaining cleanup. Unfinished retirement remains blocking even if an earlier ordinary error is the primary diagnostic failure.

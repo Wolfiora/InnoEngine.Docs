@@ -13,5 +13,3 @@ reviewed: 12f8420134329180934c94405587de2e98d79832ee00931d4f35c6da7813c69a
 source: xml
 outdated: false
 ---
-
-Gets the public parameter name.

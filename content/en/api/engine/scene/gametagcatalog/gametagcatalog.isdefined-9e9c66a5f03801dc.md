@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether an ordinal tag is defined by the project.
-
 ## Parameters
 
 **Parameter `tag`:** The tag to resolve.

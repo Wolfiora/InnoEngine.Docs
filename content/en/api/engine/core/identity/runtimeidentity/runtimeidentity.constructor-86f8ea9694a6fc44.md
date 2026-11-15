@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a runtime identity from its domain and generation-safe object identifier.
-
 ## Parameters
 
 **Parameter `domainId`:** The identity domain that owns the runtime identifier.

@@ -13,5 +13,3 @@ reviewed: 395a5641615fa813a9c9034ced064918662840cd854be61f87c11659b3b1182c
 source: xml
 outdated: false
 ---
-
-Allows changing orthographic size or perspective focus distance.

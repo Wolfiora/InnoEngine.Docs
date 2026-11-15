@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets an explicitly compiled resource slot, or null for a caller-assigned layout.

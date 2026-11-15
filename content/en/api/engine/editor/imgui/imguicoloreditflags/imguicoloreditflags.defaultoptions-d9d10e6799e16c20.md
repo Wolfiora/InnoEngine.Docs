@@ -13,5 +13,3 @@ reviewed: caefc72993a96477945e325bf815b891c76fe2b759dbfcb968e6f355cb65c7e0
 source: xml
 outdated: false
 ---
-
-Selects the default options presentation behavior.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a deployed shader pass.
-
 ## Parameters
 
 **Parameter `name`:** The stable pass name within the owning shader.

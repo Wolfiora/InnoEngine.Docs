@@ -13,5 +13,3 @@ reviewed: 7d05b7ac71ea30873fb12dbd19af8b413c8c117b160db20793e4587e45677f57
 source: xml
 outdated: false
 ---
-
-Gets whether this descriptor denotes an image rather than a structured buffer.

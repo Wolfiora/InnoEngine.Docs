@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Writes one neutral value under a stable extension-local key.
-
 ## Type parameters
 
 **Type parameter `T`:** The neutral value type supplied by the caller.

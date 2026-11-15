@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds context-dependent placements for the supplied menu request.
-
 ## Parameters
 
 **Parameter `context`:** The requested menu surface, target, and shared editor context.

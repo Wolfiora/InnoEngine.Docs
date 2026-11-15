@@ -13,5 +13,3 @@ reviewed: f0e37a3d12712cd1e95a9abe4d9ebf11f78a337652c5a20ee0f7765ed605344b
 source: xml
 outdated: false
 ---
-
-Gets the producer-defined category.

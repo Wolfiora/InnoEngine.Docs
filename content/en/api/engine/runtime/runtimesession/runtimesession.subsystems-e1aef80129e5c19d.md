@@ -13,5 +13,3 @@ reviewed: f8300638b1679485c820f946bdfc2ab1bab783d31d149338ba83d809875523ca
 source: xml
 outdated: false
 ---
-
-Gets the dependency-ordered subsystem generation owned by this session.

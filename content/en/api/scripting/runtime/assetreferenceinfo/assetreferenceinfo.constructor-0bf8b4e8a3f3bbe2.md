@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Freezes one diagnostic view of the engine-known references to an asset.
-
 ## Parameters
 
 **Parameter `persistentId`:** The persistent asset identity.

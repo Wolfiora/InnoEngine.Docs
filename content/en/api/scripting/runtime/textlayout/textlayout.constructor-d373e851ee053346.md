@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable text layout.
-
 ## Parameters
 
 **Parameter `glyphs`:** The positioned glyph sequence.

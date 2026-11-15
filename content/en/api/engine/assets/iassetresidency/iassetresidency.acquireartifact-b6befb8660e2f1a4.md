@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires one verified immutable artifact output.
-
 ## Parameters
 
 **Parameter `persistentId`:** Persistent identity of the artifact owner.

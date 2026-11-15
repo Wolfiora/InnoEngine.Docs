@@ -13,5 +13,3 @@ reviewed: 49850f23cdbd7a46c28b597eb8f94f2af168d554e5f646a57ae0b4774900ec3e
 source: xml
 outdated: false
 ---
-
-Gets spacing between the two rows of the persistent target header.

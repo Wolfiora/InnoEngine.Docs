@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether an action owns an active multi-frame operation for this target.
-
 ## Parameters
 
 **Parameter `action`:** The stable action name.

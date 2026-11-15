@@ -13,5 +13,3 @@ reviewed: ef2816a6a0c4d288b314f36dd3ea233289b68358a24f918582cdd1a4257bbfa4
 source: xml
 outdated: false
 ---
-
-Gets the parent transform, or `null` for a scene-level object.

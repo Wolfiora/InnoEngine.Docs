@@ -13,5 +13,3 @@ reviewed: 7e56cfa1b23c45b0b1dec9e72d4b30a37259366de479112b9f9b3c3a1a0fd2fd
 source: xml
 outdated: false
 ---
-
-Gets or sets the initial logical window height.

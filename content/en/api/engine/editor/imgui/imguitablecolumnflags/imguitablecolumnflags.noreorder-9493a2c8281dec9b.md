@@ -13,5 +13,3 @@ reviewed: 8acee61e5b66ff12bd4a4a0b2f891fe147d34776f584a7faa261826746b5bde7
 source: xml
 outdated: false
 ---
-
-Disable manual reordering this column, this will also prevent other columns from crossing over this column.

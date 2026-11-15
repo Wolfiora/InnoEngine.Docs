@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Reports backup cleanup failure after a complete directory installation has already committed. The installed tree remains authoritative and must not be treated as a failed installation.

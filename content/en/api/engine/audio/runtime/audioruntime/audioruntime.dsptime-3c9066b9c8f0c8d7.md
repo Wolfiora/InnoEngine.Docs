@@ -13,5 +13,3 @@ reviewed: cf45afc4a51c9e6d84b3ad955fcede8dbf77622529c9a87fbde1b3ed2bf78cc0
 source: xml
 outdated: false
 ---
-
-Gets the monotonic backend audio clock in seconds.

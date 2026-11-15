@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds an exact neutral numeric input to the declared key.
-
 ## Parameters
 
 **Parameter `value`:** The current complete input value.

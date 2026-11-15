@@ -13,5 +13,3 @@ reviewed: 7b3865aa3979d847389429cec167483b3929476aba49418e8fd0511301413cb6
 source: xml
 outdated: false
 ---
-
-Gets or sets the four-bit RGBA color write mask.

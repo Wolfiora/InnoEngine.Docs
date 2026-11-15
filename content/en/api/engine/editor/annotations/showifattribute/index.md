@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---
-
-Shows the annotated Inspector property only when a sibling member satisfies a condition.

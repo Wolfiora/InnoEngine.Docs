@@ -18,5 +18,3 @@ contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---
-
-Contains one rasterized glyph as tightly packed 8-bit coverage.

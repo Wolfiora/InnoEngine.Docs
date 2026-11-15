@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one face stencil state.
-
 ## Parameters
 
 **Parameter `compare`:** Stencil comparison.

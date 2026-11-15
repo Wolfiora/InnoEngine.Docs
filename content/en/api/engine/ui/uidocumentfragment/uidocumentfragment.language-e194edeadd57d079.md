@@ -13,5 +13,3 @@ reviewed: 846689e6c8a1c107b78a5537e8a31575254b63630bd4e1403a6bbaa08e57fb73
 source: xml
 outdated: false
 ---
-
-Gets the explicitly selected fragment language.

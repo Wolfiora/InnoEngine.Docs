@@ -13,5 +13,3 @@ reviewed: 178bd26ed8e00403fe39d0011aa928bb29c81b180b94b442f394eafeb07a6108
 source: xml
 outdated: false
 ---
-
-Gets the number of populated channel and value-type pairs.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Builds a real conditional: only the selected region executes, including its memory and source-call effects.
-
 ## Parameters
 
 **Parameter `condition`:** Scalar Boolean visible in this region.

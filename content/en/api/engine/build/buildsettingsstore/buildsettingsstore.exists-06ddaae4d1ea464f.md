@@ -13,5 +13,3 @@ reviewed: dd5b868aea6e190be033e8a8a3ab11f81c25b5e585aede4c24e2654769125b03
 source: xml
 outdated: false
 ---
-
-Gets whether a project-owned build settings document exists.

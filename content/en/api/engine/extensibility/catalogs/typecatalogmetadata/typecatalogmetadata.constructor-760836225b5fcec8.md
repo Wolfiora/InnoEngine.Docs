@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures type relationships and attributes for one candidate generation.
-
 ## Parameters
 
 **Parameter `type`:** The declared type belonging to the contributing assembly.

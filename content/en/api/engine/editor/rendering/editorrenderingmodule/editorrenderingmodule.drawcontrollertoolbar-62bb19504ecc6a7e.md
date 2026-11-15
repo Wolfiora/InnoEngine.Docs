@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws toolbar controls owned by the selected model controller.
-
 ## Parameters
 
 **Parameter `kind`:** Open viewport purpose.

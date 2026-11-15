@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a render runtime without installing any concrete pipeline.
-
 ## Parameters
 
 **Parameter `device`:** Active backend-neutral device.

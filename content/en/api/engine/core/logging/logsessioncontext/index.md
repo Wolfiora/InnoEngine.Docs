@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Associates logs written on one asynchronous execution flow with an isolated runtime session.

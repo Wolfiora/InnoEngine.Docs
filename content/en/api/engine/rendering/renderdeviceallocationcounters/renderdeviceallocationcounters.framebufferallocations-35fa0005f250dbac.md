@@ -13,5 +13,3 @@ reviewed: ad586bfb47089fdd2db206cc5011f8b0301f20dea69250e50f5233a494a9dab5
 source: xml
 outdated: false
 ---
-
-Gets successful native transient attachment framebuffer allocations since device creation.

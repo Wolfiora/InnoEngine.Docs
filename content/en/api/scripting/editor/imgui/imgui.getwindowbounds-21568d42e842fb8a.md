@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets copied inner and work bounds for the current window.
-
 ## Returns
 
 Screen-space horizontal bounds and work maximum.

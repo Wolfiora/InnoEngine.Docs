@@ -13,5 +13,3 @@ reviewed: 43ec6acc16fbbf6fcf6a01864342610e0e56163277411e492794987412ae1cfd
 source: xml
 outdated: false
 ---
-
-Gets whether voices can start against the audio clock.

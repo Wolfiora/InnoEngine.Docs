@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Exposes ownership and dependency information while a protocol-owned composer combines one contribution.

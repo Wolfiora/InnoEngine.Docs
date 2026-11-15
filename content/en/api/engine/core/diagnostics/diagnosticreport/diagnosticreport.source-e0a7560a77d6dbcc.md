@@ -13,5 +13,3 @@ reviewed: 800e45dde4cf542ff49b3e86ab3adfc0cf77cd4742b66b1bbf830d1dbdd24328
 source: xml
 outdated: false
 ---
-
-Gets the producer that owns this report.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an unloaded runtime scene and acquires its hard asset dependencies.
-
 ## Returns
 
 A newly allocated scene.

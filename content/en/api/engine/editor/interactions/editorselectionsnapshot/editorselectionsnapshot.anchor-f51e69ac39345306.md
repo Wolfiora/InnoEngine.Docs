@@ -13,5 +13,3 @@ reviewed: e8bd6dc70d1eacbdf0eaa1c3e72fc13c8116114db9c23c46ecb91e057ff0184a
 source: xml
 outdated: false
 ---
-
-Gets the range anchor identity, or null when there is no registered anchor.

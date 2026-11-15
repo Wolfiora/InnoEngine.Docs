@@ -13,5 +13,3 @@ reviewed: 0902b5d8c07ce3b15b7eb81702047ffeb124dc2cbe2eb8e3ee52f98d09740709
 source: xml
 outdated: false
 ---
-
-Releases resources owned by the derived product before common adapter resources are destroyed.

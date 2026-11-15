@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Khronos Texture container containing validated GPU texture payloads.

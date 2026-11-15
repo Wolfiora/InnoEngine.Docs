@@ -13,5 +13,3 @@ reviewed: b400dadbcfcfcbb4138ceb80f5cc5d9e166c9e01b2462339339694deb5ec7352
 source: xml
 outdated: false
 ---
-
-The user-facing validation diagnostic, or an empty string for a valid result.

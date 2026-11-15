@@ -13,5 +13,3 @@ reviewed: bd310e5b8efd49e5616295c093e677f783fd5cdda84fe38bbf67c9a33ac814ed
 source: xml
 outdated: false
 ---
-
-Return true if any window is focused. Important: If you are trying to tell how to dispatch your low-level inputs, do NOT use this. Use 'io.WantCaptureMouse' instead! Please read the FAQ!

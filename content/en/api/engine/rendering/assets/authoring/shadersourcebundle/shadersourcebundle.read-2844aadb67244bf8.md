@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads an immutable function snapshot through its explicit artifact owner.
-
 ## Parameters
 
 **Parameter `function`:** Stable function asset identity.

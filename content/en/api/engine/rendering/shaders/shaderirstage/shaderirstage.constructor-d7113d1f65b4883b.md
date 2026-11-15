@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and freezes a single stage's interface and ordered body.
-
 ## Parameters
 
 **Parameter `stage`:** Exactly Vertex, Fragment or Compute.

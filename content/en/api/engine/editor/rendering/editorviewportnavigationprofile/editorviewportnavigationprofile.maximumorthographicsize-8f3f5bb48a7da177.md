@@ -13,5 +13,3 @@ reviewed: af5313428569397e29ed14fcfd448655241ba35c9c26c9f546089caf78d33f84
 source: xml
 outdated: false
 ---
-
-Gets or sets maximum orthographic half-height.

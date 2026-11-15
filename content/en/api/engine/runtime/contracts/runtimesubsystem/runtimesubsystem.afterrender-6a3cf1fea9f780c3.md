@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finalizes frame output even when rendering fails.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable variable-frame state.

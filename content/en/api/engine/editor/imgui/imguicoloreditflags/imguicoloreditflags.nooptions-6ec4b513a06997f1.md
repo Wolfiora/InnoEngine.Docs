@@ -13,5 +13,3 @@ reviewed: 91d2401d7ed3bd70dc5c5be8fa4b69574b2395c6a7e5edbec12a66fd0e80ddbf
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable toggling options menu when right-clicking on inputs/small preview.

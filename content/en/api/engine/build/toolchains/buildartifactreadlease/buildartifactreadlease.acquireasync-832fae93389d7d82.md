@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Acquires reading ownership and verifies the complete artifact before exposing it to a consumer.
-
 ## Parameters
 
 **Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.

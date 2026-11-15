@@ -13,5 +13,3 @@ reviewed: c2cc59a84dd2046034a9ec4ba80dc6e882852185ccf9ef7b4f20d7e186153924
 source: xml
 outdated: false
 ---
-
-Gets the host's logging delivery policy.

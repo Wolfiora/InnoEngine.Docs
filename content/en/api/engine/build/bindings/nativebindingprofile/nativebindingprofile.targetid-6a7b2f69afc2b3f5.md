@@ -13,5 +13,3 @@ reviewed: cbf6631520e8a856cf845fffa05c75cb84d33ada68ff88d0abde2f4b956d0220
 source: xml
 outdated: false
 ---
-
-Gets the engine target authorized to consume this profile.

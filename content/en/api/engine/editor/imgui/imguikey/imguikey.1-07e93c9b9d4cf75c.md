@@ -13,5 +13,3 @@ reviewed: 4c8add4a06b1dd607442baf7bef3b1bf15792ba766f53a057cd5fb3b551438a3
 source: xml
 outdated: false
 ---
-
-Identifies the \_1 presentation key or modifier.

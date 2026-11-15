@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the first attached component assignable to a runtime type.
-
 ## Parameters
 
 **Parameter `componentType`:** Requested component type.

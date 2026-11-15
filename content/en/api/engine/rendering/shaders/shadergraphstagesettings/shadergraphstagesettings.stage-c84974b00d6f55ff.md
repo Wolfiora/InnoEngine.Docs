@@ -13,5 +13,3 @@ reviewed: 632abc40c625385b51b5974991c2159c0e27c544c29a395dbfc6f0fcb0f5ccfd
 source: xml
 outdated: false
 ---
-
-Gets or sets the programmable stage.

@@ -13,5 +13,3 @@ reviewed: b1fc459716f131f73834eda25f3519a73e238b94eab06afb2c175cf1a4598b2f
 source: xml
 outdated: false
 ---
-
-Gets the stable producer-defined code, or an empty string when unavailable.

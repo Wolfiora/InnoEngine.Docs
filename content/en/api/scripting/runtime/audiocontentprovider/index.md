@@ -18,5 +18,3 @@ contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []
 ---
-
-Converts arbitrary host-owned content into backend-neutral emitter and listener snapshots.

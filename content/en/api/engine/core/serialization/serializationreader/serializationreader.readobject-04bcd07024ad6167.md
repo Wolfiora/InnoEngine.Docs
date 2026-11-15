@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a required named structured object.
-
 ## Parameters
 
 **Parameter `name`:** The required member name.

@@ -13,5 +13,3 @@ reviewed: 09538a4d4aa7213a01dbd9f82f9d0fe6d30c3546d3e450ac17ea100a3910d09e
 source: xml
 outdated: false
 ---
-
-Discards the current fragment when the scalar condition is true.

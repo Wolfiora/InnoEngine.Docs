@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds or replaces one typed value in an open data channel.
-
 ## Type parameters
 
 **Type parameter `TValue`:** Frame-local payload type.

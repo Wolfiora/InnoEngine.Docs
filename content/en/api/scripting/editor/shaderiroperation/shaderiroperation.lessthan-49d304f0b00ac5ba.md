@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Compares two equal numeric scalar types and produces a scalar Boolean.

@@ -13,5 +13,3 @@ reviewed: 4caa5d5feed15e289e43f995f1d02e64c2f5fea7703c4e43917495b501671bd4
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable pass name.

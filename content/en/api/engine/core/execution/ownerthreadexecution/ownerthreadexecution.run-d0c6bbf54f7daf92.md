@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pumps continuations until the owned operation completes, then restores the previous context.
-
 ## Type parameters
 
 **Type parameter `TResult`:** The result produced by the operation.

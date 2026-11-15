@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Callback on each iteration. User code may query cursor position, modify text buffer.

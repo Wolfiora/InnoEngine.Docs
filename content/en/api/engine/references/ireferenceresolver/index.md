@@ -16,5 +16,3 @@ contracts:
 - project.inno-references
 aliases: []
 ---
-
-Resolves one open reference kind against a complete immutable domain generation.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an open, stable backend identity without registering a backend implementation.
-
 ## Parameters
 
 **Parameter `value`:** A portable case-sensitive identifier used in target artifact paths.

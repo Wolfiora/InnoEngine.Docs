@@ -13,5 +13,3 @@ reviewed: 8cdf38b006278a276d4a4ba6bf3d2265ce14cae08db5fc9f1321e43d1f24afb9
 source: xml
 outdated: false
 ---
-
-Gets the exact rendering model ID.

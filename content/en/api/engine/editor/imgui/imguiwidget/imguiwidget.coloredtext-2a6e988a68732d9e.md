@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws unformatted text with a temporary foreground color.
-
 ## Parameters
 
 **Parameter `color`:** The foreground color applied only while drawing the text.

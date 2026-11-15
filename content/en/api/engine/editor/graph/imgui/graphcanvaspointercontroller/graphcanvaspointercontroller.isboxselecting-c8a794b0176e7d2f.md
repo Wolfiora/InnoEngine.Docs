@@ -13,5 +13,3 @@ reviewed: bb61c0c7bf6ae3aac535b90616ebddcb0b4cd723789ff8cd4015e12da52d1439
 source: xml
 outdated: false
 ---
-
-Gets whether a selection box is active.

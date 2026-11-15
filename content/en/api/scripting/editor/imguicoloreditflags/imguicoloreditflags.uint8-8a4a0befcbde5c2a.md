@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: \_display\_ values formatted as 0..255.

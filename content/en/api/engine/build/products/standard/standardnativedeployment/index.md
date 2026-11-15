@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-products-standard
 aliases: []
 ---
-
-Composes validated standard product deployment metadata.

@@ -13,5 +13,3 @@ reviewed: 596d9e3843156ab23aeebd61385e2a9971c6844877eecae755e7c25c00bb1498
 source: xml
 outdated: false
 ---
-
-Gets whether the runtime should retain active playback for this emitter.

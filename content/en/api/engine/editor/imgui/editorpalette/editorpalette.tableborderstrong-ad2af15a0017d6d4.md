@@ -13,5 +13,3 @@ reviewed: 625dd3e342847134e63ee0e25e545a52eefe911b5319133685503d2cb2758a58
 source: xml
 outdated: false
 ---
-
-Gets the strong table border.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates the application's native tree and atomically replaces it when its exact contents differ.
-
 ## Parameters
 
 **Parameter `products`:** Validated runtime and optional authoring products returned by the declared product plan. All products must use the same target; each component can appear once.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and captures a complete set of runtime providers.
-
 ## Parameters
 
 **Parameter `providers`:** Providers whose lifetime is owned by this composition generation.

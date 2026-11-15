@@ -13,5 +13,3 @@ reviewed: e932ea0e5891f432fd2f9c0498ad3c6841a5ae734b467262cb4bdade3c4c1fc1
 source: xml
 outdated: false
 ---
-
-Gets whether an active control owns text input.

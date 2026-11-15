@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable model-neutral viewport layer.
-
 ## Parameters
 
 **Parameter `contributorId`:** Stable identity of the rendering-model contributor that produced the layer.

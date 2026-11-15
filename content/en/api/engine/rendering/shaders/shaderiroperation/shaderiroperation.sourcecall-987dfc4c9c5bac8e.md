@@ -13,5 +13,3 @@ reviewed: 06fca72a7be19eef958fcc88d354cd50ecffc935cd2f4a8ea24f614c8ae08f7e
 source: xml
 outdated: false
 ---
-
-Calls a parsed source function with named inputs and ordered multiple outputs.

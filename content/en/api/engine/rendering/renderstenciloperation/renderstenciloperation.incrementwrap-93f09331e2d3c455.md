@@ -13,5 +13,3 @@ reviewed: 836c8d2f6c717a270e8c3e53ef7f6ab46bfcf5a26eaa341dedfa144d07b8692f
 source: xml
 outdated: false
 ---
-
-Increments and wraps the stored value.

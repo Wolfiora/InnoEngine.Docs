@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets host contracts and framework assemblies available to candidate modules.
-
 ## Returns
 
 A snapshot of shareable assemblies owned by the host implementation.

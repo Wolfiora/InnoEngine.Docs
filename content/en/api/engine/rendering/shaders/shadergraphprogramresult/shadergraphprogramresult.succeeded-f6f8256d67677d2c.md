@@ -13,5 +13,3 @@ reviewed: 802187502154f106615ab0afc64a2dcedb126333865eee829e7299262678875a
 source: xml
 outdated: false
 ---
-
-Gets whether every declared pass was lowered without errors.

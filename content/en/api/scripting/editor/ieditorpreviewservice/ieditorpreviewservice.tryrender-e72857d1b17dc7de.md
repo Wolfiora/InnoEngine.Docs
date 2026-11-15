@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Submits an isolated rendering composition through the shared offscreen viewport bridge.
-
 ## Parameters
 
 **Parameter `composition`:** Invocation-local layers; the host retains no contributor instances after the frame.

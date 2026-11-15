@@ -13,5 +13,3 @@ reviewed: 08def829892b168e9d4eb1135f24e737bbb8f897c81db76e5eaf925109845582
 source: xml
 outdated: false
 ---
-
-Draw selected overline markers over selected tab

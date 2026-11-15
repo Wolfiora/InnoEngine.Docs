@@ -13,5 +13,3 @@ reviewed: e786c7bb6366e6610228f57aa9947cfa0eb707757626cacdd6a7b925fcb71b2e
 source: xml
 outdated: false
 ---
-
-Selects the indent mask presentation behavior.

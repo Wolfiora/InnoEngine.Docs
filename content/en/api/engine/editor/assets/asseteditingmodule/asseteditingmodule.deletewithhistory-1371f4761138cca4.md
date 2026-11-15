@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deletes a source with a recoverable archive and records the committed mutation.
-
 ## Parameters
 
 **Parameter `asset`:** The captured source metadata to validate and delete.

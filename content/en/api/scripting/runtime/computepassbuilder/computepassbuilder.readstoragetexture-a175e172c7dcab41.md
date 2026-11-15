@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Declares an unordered texture read.
-
 ## Parameters
 
 **Parameter `texture`:** Storage texture read by compute work.

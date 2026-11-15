@@ -13,5 +13,3 @@ reviewed: 458c3851ee37e3cb94e9187477e60e712235a8556deb75f3e15f86af71d589e1
 source: xml
 outdated: false
 ---
-
-Gets whether the source identity has a usable value.

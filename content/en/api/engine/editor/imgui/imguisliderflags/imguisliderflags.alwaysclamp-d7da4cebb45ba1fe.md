@@ -13,5 +13,3 @@ reviewed: c31340311957af8a1f06a1430f30389dccd9a135a1dae95a8c38cab516703ede
 source: xml
 outdated: false
 ---
-
-Selects the always clamp presentation behavior.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes owned program binaries, reflected bindings, and raster state for device distribution. Vertex layout belongs to the eventual caller and is not part of this artifact.
-
 ## Parameters
 
 **Parameter `descriptor`:** The compiled graphics program to distribute without any asset or material metadata.

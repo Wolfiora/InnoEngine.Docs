@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes a complete generation map and accepts its already acquired reading ownership.
-
 ## Parameters
 
 **Parameter `generations`:** The complete Native project to generation mapping.

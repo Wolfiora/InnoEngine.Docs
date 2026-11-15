@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides a stable diagnostic snapshot of references known to the asset pipeline.
-
 ## Remarks
 
 The known reference count is not the number of CLR strong references and is never used to decide whether an asset can be collected.

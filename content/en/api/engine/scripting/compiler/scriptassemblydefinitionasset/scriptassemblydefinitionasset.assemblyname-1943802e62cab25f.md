@@ -13,5 +13,3 @@ reviewed: 12d1e5ecb2741d11afd4e7b8a74f9aff9534094c66001ab1d02fa05bd333585d
 source: xml
 outdated: false
 ---
-
-Gets the stable assembly name.

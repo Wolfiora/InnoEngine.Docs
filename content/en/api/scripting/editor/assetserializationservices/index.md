@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Provides generation-bound structured serialization without exposing host registries to importer extensions.

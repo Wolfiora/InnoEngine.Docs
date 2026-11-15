@@ -13,5 +13,3 @@ reviewed: 8fffd4b3baf4557a16792754a7e90aee44e32075cc1574502093c9c84991028e
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadRStickUp presentation key or modifier.

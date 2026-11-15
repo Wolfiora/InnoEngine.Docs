@@ -13,5 +13,3 @@ reviewed: 6df079bb775d22060b8ef825a681e0c18e814c5b73aeefab7d5057c8212c4148
 source: xml
 outdated: false
 ---
-
-Gets standard table cell padding.

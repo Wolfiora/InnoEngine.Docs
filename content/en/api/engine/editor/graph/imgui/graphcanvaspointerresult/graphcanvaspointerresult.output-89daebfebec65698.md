@@ -13,5 +13,3 @@ reviewed: ac66915007f01363553ee5f6fa02aec25dfee99a56a624b7a990260173af9743
 source: xml
 outdated: false
 ---
-
-Gets a requested connection's output endpoint; its domain type still requires validation.

@@ -13,5 +13,3 @@ reviewed: b4f7aa4f3a08971c02478e3de33cc425d941331711d485f3ccefb2ff05fbbae6
 source: xml
 outdated: false
 ---
-
-Gets the globally stable phase value.

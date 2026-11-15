@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads another source as UTF-8 from the current candidate mount snapshot and records the dependency.
-
 ## Parameters
 
 **Parameter `path`:** An isolated source path.

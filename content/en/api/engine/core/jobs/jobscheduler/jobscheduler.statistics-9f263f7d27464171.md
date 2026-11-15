@@ -13,5 +13,3 @@ reviewed: 31721ac30f452da7e35e6a4223d6f84fe0a51289d94f0e075d10adb7c565972c
 source: xml
 outdated: false
 ---
-
-Gets detached admission and owner-thread queue measurements.

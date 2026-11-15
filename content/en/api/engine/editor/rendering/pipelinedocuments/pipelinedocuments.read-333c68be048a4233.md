@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a detached current-generation Pipeline value; its referenced canonical assets must not be mutated.
-
 ## Parameters
 
 **Parameter `assetId`:** Open Pipeline identity.

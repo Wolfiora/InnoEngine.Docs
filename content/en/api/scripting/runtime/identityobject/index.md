@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Provides instance-owned persistent and session-local identity state managed by an `T:InnoEngine.Core.IdentityAllocator`.

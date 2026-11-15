@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Initializes a new instance of the `T:InnoEngine.Serialization.SerializablePropertyAttribute` class.
-
 ## Parameters
 
 **Parameter `visibility`:** The member visibility in the serialization graph.

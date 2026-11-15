@@ -13,5 +13,3 @@ reviewed: f8d608e34ddc7d65cb44f5137d466bd5b61d7350021deb3cf241876c2be2eaf6
 source: xml
 outdated: false
 ---
-
-Gets the globally stable identity.

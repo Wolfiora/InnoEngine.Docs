@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Preserves the order and search semantics of one native include requirement.
-
 ## Parameters
 
 **Parameter `rootId`:** The component-local input root.

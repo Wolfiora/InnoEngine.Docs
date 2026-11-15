@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes one structured value against the active importer candidate generation.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The serializable value contract.

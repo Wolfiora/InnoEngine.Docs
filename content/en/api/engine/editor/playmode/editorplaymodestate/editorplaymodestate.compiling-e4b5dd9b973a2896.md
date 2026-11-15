@@ -13,5 +13,3 @@ reviewed: 34fc3943b5c0eae5d962653941f7706d1122adbb488b0c8222f76e687728ec83
 source: xml
 outdated: false
 ---
-
-Play Mode is waiting for the requested script generation to become active.

@@ -13,5 +13,3 @@ reviewed: 5e9e1dad6d4236e86a42f1eb9f3b14a96fa77fe259658813f5b4f5702aa634aa
 source: xml
 outdated: false
 ---
-
-Disconnects all session backends and rejects subsequent event delivery.

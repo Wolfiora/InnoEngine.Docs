@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Describes current typed ports for editor presentation without exposing the compiler provider.
-
 ## Parameters
 
 **Parameter `node`:** Neutral node properties.

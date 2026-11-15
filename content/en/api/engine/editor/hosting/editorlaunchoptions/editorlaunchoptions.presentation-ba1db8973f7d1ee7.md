@@ -13,5 +13,3 @@ reviewed: 532e8ef0bdd2ad67306cbdad0f442e84f374b149ad68e005aa1fd2e779a8ad48
 source: xml
 outdated: false
 ---
-
-Gets the explicit presentation implementation selected by the product.

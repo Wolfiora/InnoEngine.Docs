@@ -13,5 +13,3 @@ reviewed: 0d8bee3ea270bf1b554c379e0664347f9468098bff2006eb0907c8ec66e75122
 source: xml
 outdated: false
 ---
-
-Gets whether the handle identifies a device buffer.

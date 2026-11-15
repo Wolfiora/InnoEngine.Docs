@@ -13,5 +13,3 @@ reviewed: 2d3e1331e47f76694f5a301da1ba1acb3b9e4e1b7758f7d0027bb8249be570d6
 source: xml
 outdated: false
 ---
-
-Gets the circle xmark glyph used by standard Editor controls.

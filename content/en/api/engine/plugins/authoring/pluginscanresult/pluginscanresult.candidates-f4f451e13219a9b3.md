@@ -13,5 +13,3 @@ reviewed: 959c2ec4a074fd6a3347b00078150d6187ba43e8c7830809cd19b7992bccb7e5
 source: xml
 outdated: false
 ---
-
-Gets dependency-ordered valid candidates.

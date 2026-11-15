@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the current extension generation contributes to one viewport purpose.
-
 ## Parameters
 
 **Parameter `kind`:** Open viewport purpose.

@@ -13,5 +13,3 @@ reviewed: 05118878e29bce1da81b2fda436c98685563994066c4a6dfa962177806215237
 source: xml
 outdated: false
 ---
-
-The current stage or failure diagnostic.

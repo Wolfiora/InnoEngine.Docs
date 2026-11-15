@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates drag data for a registered identity object.
-
 ## Parameters
 
 **Parameter `source`:** The registered source object resolved again for each drop query and delivery.

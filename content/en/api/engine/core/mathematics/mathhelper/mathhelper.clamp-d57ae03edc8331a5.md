@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Clamps a value to the inclusive range \[min, max\].
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.

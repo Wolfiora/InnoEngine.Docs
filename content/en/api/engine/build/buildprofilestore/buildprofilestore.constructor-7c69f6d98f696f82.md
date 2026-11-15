@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a store for one current-format build profile document.
-
 ## Parameters
 
 **Parameter `path`:** The project-owned path of the build profile document.

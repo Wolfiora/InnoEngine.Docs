@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads one project settings document and builds the initial effective snapshot.
-
 ## Parameters
 
 **Parameter `documentStore`:** The project document source; read-only deployments cannot persist project overrides.

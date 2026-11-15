@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Parses a canonical path, treating an unqualified value as project-owned.
-
 ## Parameters
 
 **Parameter `value`:** Canonical or project-local path.

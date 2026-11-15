@@ -13,5 +13,3 @@ reviewed: d7ad37f8f5688b9806f70fa23242b929e96cac8805b036348e2104a07f58a59c
 source: xml
 outdated: false
 ---
-
-Gets the portable entry identity.

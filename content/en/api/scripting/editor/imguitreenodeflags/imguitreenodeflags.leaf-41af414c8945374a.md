@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-No collapsing, no arrow (use as a convenience for leaf nodes).

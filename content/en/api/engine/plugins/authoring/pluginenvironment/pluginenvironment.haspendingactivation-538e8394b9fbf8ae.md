@@ -13,5 +13,3 @@ reviewed: 13689c12520e6fd628916cb1f2d2e2aa1c3cdb1358f2ab8414a596e644ea037d
 source: xml
 outdated: false
 ---
-
-Gets whether a source-mount candidate is waiting for successful script generation activation.

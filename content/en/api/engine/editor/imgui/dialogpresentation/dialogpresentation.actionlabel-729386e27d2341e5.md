@@ -13,5 +13,3 @@ reviewed: 11369fbd763354b449298cab1f04f6dffdf0e0669ed10191f88fb0d103c7efbe
 source: xml
 outdated: false
 ---
-
-The optional centered action label.

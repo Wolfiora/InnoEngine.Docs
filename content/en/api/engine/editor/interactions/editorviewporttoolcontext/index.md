@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
-
-Coordinates pointer capture, transforms, and one history transaction for a viewport gesture.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete deployed shader artifact.
-
 ## Parameters
 
 **Parameter `shaderName`:** The stable shader name expected by the runtime asset definition.

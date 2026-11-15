@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---
-
-Validates one UI document language without creating runtime UI objects.

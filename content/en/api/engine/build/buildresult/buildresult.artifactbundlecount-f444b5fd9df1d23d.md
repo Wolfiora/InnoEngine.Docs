@@ -13,5 +13,3 @@ reviewed: f3d0f6f705009a53722db333fe9590536d35d3ac67ff096dd9dd571eea0db800
 source: xml
 outdated: false
 ---
-
-Gets the number of content-addressed artifact bundles represented by the output.

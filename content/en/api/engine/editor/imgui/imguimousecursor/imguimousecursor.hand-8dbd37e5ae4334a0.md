@@ -13,5 +13,3 @@ reviewed: 46211e221857490086a552cd925d5322d518896edcfe45b33e09bc6d465de12d
 source: xml
 outdated: false
 ---
-
-Selects the hand presentation behavior.

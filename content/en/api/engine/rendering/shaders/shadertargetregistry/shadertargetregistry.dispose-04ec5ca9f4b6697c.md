@@ -13,5 +13,3 @@ reviewed: 604e968ed6a8f95cdf5669d04b35aa9bfa981a6194100ef98334bc9b9c226bc3
 source: xml
 outdated: false
 ---
-
-Retires the target snapshot through the shared registry lifecycle.

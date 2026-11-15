@@ -13,5 +13,3 @@ reviewed: c4bec9e8d719a6e256a93090859937fc598a7019e78451386bad95c0f611a723
 source: xml
 outdated: false
 ---
-
-Gets the payload count budget.

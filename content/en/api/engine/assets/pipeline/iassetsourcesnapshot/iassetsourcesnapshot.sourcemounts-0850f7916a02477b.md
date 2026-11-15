@@ -13,5 +13,3 @@ reviewed: 1104cb713dababd2a8e60c46e783c15fbbf1a57fefd3cd577a907ece848b088f
 source: xml
 outdated: false
 ---
-
-Gets the source mounts represented by this view.

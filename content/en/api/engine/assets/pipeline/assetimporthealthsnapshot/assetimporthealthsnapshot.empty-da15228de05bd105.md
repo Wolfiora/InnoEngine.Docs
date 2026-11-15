@@ -13,5 +13,3 @@ reviewed: eb2bb12d6a14cdfc5f99c0e670428603189147187a66724aa88773cc89311b53
 source: xml
 outdated: false
 ---
-
-Gets the immutable snapshot used when no Asset Pipeline generation is active.

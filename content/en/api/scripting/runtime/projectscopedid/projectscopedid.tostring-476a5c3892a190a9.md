@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Formats the canonical qualified identity.
-
 ## Returns
 
 The `projectId.name` representation.

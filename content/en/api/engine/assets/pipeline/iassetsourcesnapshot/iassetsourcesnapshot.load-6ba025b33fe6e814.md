@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Loads an authoring asset without publishing a candidate catalog.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** The required authoring asset type.

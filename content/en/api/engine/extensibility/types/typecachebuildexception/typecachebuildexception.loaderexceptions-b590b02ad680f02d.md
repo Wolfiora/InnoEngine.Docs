@@ -13,5 +13,3 @@ reviewed: 2912b48a550fd868da4ab2bc74ba5aad15adc9ec466c672afa2baeb1e46b5383
 source: xml
 outdated: false
 ---
-
-Gets the individual type-loader failures.

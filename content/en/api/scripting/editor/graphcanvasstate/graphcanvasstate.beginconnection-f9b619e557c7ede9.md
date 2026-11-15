@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a connection drag from one endpoint.
-
 ## Parameters
 
 **Parameter `endpoint`:** Stable endpoint.

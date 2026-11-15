@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to consume one terminal voice transition recorded by the backend.
-
 ## Parameters
 
 **Parameter `completion`:** Receives one terminal transition when available.

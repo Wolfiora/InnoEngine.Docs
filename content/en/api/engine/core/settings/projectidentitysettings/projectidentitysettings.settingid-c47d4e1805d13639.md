@@ -13,5 +13,3 @@ reviewed: 0c78281040b68b68a1b13318be27dd8159f91cca2c61385e489d3d572381f740
 source: xml
 outdated: false
 ---
-
-Gets the stable project setting protocol identity.

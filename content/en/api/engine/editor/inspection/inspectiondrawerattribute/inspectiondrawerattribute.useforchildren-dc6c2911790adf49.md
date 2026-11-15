@@ -13,5 +13,3 @@ reviewed: 30c75f052fda87136ca2687ea7675a8ac286c5b5212bf8ac68a49ac22ac1b1f0
 source: xml
 outdated: false
 ---
-
-Gets whether derived target types are accepted.

@@ -13,5 +13,3 @@ reviewed: 9882b0273b5f03d819d54ecd423834e2a3201ebf7abaa013134752cede77fddf
 source: xml
 outdated: false
 ---
-
-Selects the title bg active presentation behavior.

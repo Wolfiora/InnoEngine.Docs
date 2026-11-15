@@ -16,9 +16,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Handles asset creation actions in the Editor file browser.
-
-Owns source mutations, asset extension dispatch and neutral shared-history records independently of presentation.
-
-Applies validated selection operations through the authoritative asset and History owners.

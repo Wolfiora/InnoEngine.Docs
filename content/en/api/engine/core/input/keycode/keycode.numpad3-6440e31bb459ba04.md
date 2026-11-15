@@ -13,5 +13,3 @@ reviewed: 3b28e36416adfd53c92cee5d3ebad5d3c946b8f8d876c3e7a32b357f2d44ee81
 source: xml
 outdated: false
 ---
-
-The 3 key on the numeric keypad.

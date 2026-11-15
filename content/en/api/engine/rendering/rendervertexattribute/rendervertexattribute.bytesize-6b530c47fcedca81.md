@@ -13,5 +13,3 @@ reviewed: e29a92ba0fe45e4f73f0abb22908966b5aad062b1e67afa2e121e7b04b49214c
 source: xml
 outdated: false
 ---
-
-Gets the packed byte size.

@@ -13,5 +13,3 @@ reviewed: 9b6b256ea4cc8460acdceb706448de6fea94bfbea0b922cfd6a07983abdc13ed
 source: xml
 outdated: false
 ---
-
-Gets the selected platform backend.

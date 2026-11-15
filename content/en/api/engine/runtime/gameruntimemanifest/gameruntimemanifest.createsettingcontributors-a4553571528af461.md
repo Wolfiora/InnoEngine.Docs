@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates current-generation setting contributors from neutral manifest data.
-
 ## Returns
 
 Dependency-ordered contributors ready for `T:Inno.Core.Settings.ProjectSettingsStore`.

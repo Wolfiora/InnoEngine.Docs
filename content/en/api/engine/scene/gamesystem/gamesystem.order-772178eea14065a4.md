@@ -13,5 +13,3 @@ reviewed: 9f198132c0b08d865bdda865609d8329be54fced32156f519740539b241533dc
 source: xml
 outdated: false
 ---
-
-Gets the ascending execution order used by the owning scene.

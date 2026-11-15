@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Carries one frame's already-routed pointer input without depending on a native backend.

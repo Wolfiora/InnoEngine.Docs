@@ -13,5 +13,3 @@ reviewed: f35170ce9cf4a7ef84dcfb5ec5b736b50a2e4b5b6c1ec0ca7f4555b21a0c6048
 source: xml
 outdated: false
 ---
-
-Gets whether lowering produced a complete region without errors; native compilation is a separate gate.

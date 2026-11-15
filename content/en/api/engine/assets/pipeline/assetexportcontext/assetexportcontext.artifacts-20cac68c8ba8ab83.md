@@ -13,5 +13,3 @@ reviewed: 57035b66e8570c78df4bee8bec0d253ee794cb94c0f58cecb6bd4e84cd24e538
 source: xml
 outdated: false
 ---
-
-Gets the owner-bound immutable outputs used to reconstruct editable sources.

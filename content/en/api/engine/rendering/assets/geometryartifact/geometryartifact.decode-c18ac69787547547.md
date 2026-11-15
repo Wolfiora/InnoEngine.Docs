@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Decodes and strictly validates one immutable geometry artifact.
-
 ## Parameters
 
 **Parameter `bytes`:** The complete artifact payload.

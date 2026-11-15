@@ -13,5 +13,3 @@ reviewed: bb5427f54efca3d0e51d11b3e59636a1c878befef05f663ddebc7ed943db418c
 source: xml
 outdated: false
 ---
-
-Gets diagnostics in deterministic validation order.

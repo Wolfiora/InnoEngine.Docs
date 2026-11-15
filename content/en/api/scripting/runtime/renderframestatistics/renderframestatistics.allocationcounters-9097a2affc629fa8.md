@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the device-generation cumulative transient allocation snapshot at frame completion. Null means the backend does not report allocation accounting; it does not mean zero allocations.

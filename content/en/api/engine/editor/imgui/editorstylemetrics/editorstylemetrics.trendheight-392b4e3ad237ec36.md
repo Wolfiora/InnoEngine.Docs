@@ -13,5 +13,3 @@ reviewed: c19c4d0741c4e9ea0d140e235acd40fa37e344a5bce3ceed645eca4838077673
 source: xml
 outdated: false
 ---
-
-Gets the scaled height of a compact sampled-value trend plot.

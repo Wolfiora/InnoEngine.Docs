@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a voice parameter snapshot.
-
 ## Parameters
 
 **Parameter `volume`:** Linear voice gain.

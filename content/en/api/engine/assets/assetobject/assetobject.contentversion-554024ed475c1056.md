@@ -13,5 +13,3 @@ reviewed: 00403f296d3cf956a3bf429bfbd8a8604d7b107c6931ce4930a9f76ce8a77e30
 source: xml
 outdated: false
 ---
-
-Gets the version of the currently committed runtime content.

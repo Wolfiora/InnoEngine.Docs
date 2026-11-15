@@ -13,5 +13,3 @@ reviewed: 32a204603f4a8eeb8abd0a7c8f9585d5efe6b1b37cd1a4be1132039b702cf03f
 source: xml
 outdated: false
 ---
-
-Share focus scope, allow keyboard/gamepad navigation to cross over parent border to this child or between sibling child windows.

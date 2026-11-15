@@ -13,5 +13,3 @@ reviewed: da154d5b7100df6afa570372d77ff72b396b88a74d1f78455a19738b62fd7ebd
 source: xml
 outdated: false
 ---
-
-Gets the stable backend identity used by target artifacts and provider selection.

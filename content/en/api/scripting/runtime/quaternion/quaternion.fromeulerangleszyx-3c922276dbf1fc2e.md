@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates the target representation from the supplied euler angles zyx value.
-
 ## Parameters
 
 **Parameter `euler`:** The euler consumed by from euler angles zyx; ownership remains with the caller unless explicitly stated otherwise.

@@ -13,5 +13,3 @@ reviewed: e4282e2fead34fcc167b0db69b57e2a6e92b77cc9bceafdeb0db3ecf7f54fe02
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Return true even if the position is obstructed or overlapped by another window.

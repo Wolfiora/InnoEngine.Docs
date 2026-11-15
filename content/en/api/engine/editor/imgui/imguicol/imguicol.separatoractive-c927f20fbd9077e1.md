@@ -13,5 +13,3 @@ reviewed: 3139939af094693f0fd5f515eba764f011538e2220365f51a3af8aecdf85e658
 source: xml
 outdated: false
 ---
-
-Selects the separator active presentation behavior.

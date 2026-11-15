@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Composes the standard Player's reusable native components with explicit deployment policies.
-
 ## Returns
 
 A fresh immutable Player plan without resolving tools or touching source files.

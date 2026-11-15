@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures every persistent property as neutral bytes without serializing the owning object graph.
-
 ## Parameters
 
 **Parameter `value`:** The serializable object whose persistent properties should be captured.

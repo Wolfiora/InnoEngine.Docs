@@ -13,5 +13,3 @@ reviewed: 16114d16633e426fb4af9ca9e7d10500733998fcae9b6ca0e19e5f4b2bc4ca8d
 source: xml
 outdated: false
 ---
-
-Gets the normalized source extension represented by this declaration, or `null` for a type declaration.

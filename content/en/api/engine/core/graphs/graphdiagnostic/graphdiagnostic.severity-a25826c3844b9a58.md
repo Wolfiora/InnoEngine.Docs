@@ -13,5 +13,3 @@ reviewed: 72e51fd854b0fcd985a0dd8510d32db7b611c350336bda192dabcf070d681f2b
 source: xml
 outdated: false
 ---
-
-Gets the diagnostic impact.

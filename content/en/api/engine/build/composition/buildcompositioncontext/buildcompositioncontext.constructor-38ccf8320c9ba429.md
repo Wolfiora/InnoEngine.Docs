@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures the host dependencies used by deployment and Support Pack preparation.
-
 ## Parameters
 
 **Parameter `dotnetHost`:** The SDK executable selected by the host, either an executable path or a command name.

@@ -13,5 +13,3 @@ reviewed: 41fc6691b398c53dbfe968d221ab479bf255b1beca469a696ebe635058b96b7a
 source: xml
 outdated: false
 ---
-
-Make the initial sort direction Descending when first sorting on this column.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a hierarchy drop target representing one live game object row.
-
 ## Parameters
 
 **Parameter `gameObject`:** The game object represented by the target row.

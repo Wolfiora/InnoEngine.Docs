@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Cancels and asynchronously drains tracked work before reverse-order release.
-
 ## Remarks
 
 Only use asynchronous disposal for thread-neutral resources. Control-thread owners must await their work and call synchronous disposal at their own safe point; this method does not marshal to an owner thread.

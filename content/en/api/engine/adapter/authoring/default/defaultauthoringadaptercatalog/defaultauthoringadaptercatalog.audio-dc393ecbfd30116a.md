@@ -13,5 +13,3 @@ reviewed: 422a06c8658186b582c4b01dcc1cceaa442e72cae05138d3da311965b527dac4
 source: xml
 outdated: false
 ---
-
-Gets the built-in audio backend factory.

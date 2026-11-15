@@ -13,5 +13,3 @@ reviewed: 5fd0b7aceaedfbac06aab16eee0011cdee70976d5579989e7d583346dfa3ab89
 source: xml
 outdated: false
 ---
-
-Gets whether the active source may be dropped.

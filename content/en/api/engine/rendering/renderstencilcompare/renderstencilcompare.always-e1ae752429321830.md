@@ -13,5 +13,3 @@ reviewed: fd4bd273c9ff6ffc9fe0de723be2179ed928a64dfa841e67e15559cac142401d
 source: xml
 outdated: false
 ---
-
-Always passes.

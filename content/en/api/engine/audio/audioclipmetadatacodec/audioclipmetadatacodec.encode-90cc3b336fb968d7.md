@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes audio metadata into a compact deterministic runtime header.
-
 ## Parameters
 
 **Parameter `metadata`:** Valid metadata to encode.

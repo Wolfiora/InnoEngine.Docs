@@ -13,5 +13,3 @@ reviewed: f51db3c3127995314a75458ac3a3fe2dd0ac78df9455e2c737e485c32e859808
 source: xml
 outdated: false
 ---
-
-Gets the monotonically increasing content revision.

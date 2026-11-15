@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable inner padding between columns (double inner padding if BordersOuterV is on, single inner padding if BordersOuterV is off).

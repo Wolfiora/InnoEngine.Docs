@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the exact reflected symbol emitted by the adapter, distinct from the logical property ID.

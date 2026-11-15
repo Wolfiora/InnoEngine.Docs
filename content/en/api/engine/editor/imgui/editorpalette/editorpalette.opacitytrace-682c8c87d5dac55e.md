@@ -13,5 +13,3 @@ reviewed: 321c0e46d86275d74398fd5baad2cb3c7bfe9ccc7fa6c10998effe2d052b9af6
 source: xml
 outdated: false
 ---
-
-Gets trace opacity for barely perceptible alternating surfaces.

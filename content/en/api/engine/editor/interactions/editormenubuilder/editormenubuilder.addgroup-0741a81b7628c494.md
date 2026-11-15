@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares presentation for an intermediate menu group without inventing a no-op action.
-
 ## Parameters
 
 **Parameter `path`:** The slash-delimited path of the group.

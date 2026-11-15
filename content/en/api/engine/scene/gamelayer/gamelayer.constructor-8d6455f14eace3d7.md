@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a layer identifier from a zero-based layer index.
-
 ## Parameters
 
 **Parameter `index`:** The layer index in the inclusive range from zero through thirty-one.

@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Grants one database exclusive mutation authority over the asset instances it initializes.
-
 ## Remarks
 
 This capability is not a global mutation bridge and is not exported to scripts. A database keeps its owner private and explicitly releases canonical assets; the capability itself retains no assets.

@@ -13,5 +13,3 @@ reviewed: e24ba0133de24e1fe4389e84f7881d2270f73c7e2908f35baaad9a1cf1284615
 source: xml
 outdated: false
 ---
-
-Gets or sets an optional operation-owned selection consumed by the subsequent managed project closure.

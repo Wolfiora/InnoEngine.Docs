@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---
-
-Reports that cancellation has begun but the owner must retain its dependencies until work drains.

@@ -13,5 +13,3 @@ reviewed: 2bafcbe865fa8b8f9825d3cc3036f53705d6924a221788e3b7cff7fcf5a6922e
 source: xml
 outdated: false
 ---
-
-Gets the shared padding around separator-style section titles.

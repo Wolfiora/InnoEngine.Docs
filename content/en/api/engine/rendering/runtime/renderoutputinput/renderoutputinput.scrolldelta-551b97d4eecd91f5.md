@@ -13,5 +13,3 @@ reviewed: 598798ec329ff88314a8b85abb887ea157e8256526da4d2d62efa8be9e3e047d
 source: xml
 outdated: false
 ---
-
-Gets wheel movement.

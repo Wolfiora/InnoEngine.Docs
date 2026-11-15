@@ -13,5 +13,3 @@ reviewed: b7d8f855d67ae634d280539fc2e846429274ff03a515b53ad29274f4d8f3e4b4
 source: xml
 outdated: false
 ---
-
-Gets or sets the node title displayed to authors.

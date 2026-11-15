@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Imports a persistent device buffer into the current graph.
-
 ## Parameters
 
 **Parameter `name`:** Debug and diagnostic name.

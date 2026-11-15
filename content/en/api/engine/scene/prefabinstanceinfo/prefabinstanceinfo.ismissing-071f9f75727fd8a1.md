@@ -13,5 +13,3 @@ reviewed: d53c6198c8d18520f6fbcb9f3eb1cdc5ebf3d31d720c8d73804c3a831eaf4fa4
 source: xml
 outdated: false
 ---
-
-Gets whether the source prefab was unavailable during restoration.

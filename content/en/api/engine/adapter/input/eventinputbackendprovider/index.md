@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Supplies the common event implementation through the neutral input creation boundary.

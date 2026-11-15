@@ -13,5 +13,3 @@ reviewed: ce4ce6feff9dc4bad6ae2314bd175491e73eee9f8b53c098d3fc6c10368d5118
 source: xml
 outdated: false
 ---
-
-Gets the underlying compatibility failure message.

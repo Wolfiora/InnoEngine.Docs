@@ -13,5 +13,3 @@ reviewed: ed409c8cf634e88a89d4b29001e2a48146b3b44b6be6557f639873c19801eca8
 source: xml
 outdated: false
 ---
-
-Gets the output length in bytes.

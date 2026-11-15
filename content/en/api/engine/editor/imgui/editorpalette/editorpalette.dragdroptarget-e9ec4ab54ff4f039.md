@@ -13,5 +13,3 @@ reviewed: bdbfb861e288254aba3257199890751e57cc5bc42ae7d0e20b48824f76f260ba
 source: xml
 outdated: false
 ---
-
-Gets the standard drag target color.

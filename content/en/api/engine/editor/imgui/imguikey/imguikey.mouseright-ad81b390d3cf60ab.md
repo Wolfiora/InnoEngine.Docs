@@ -13,5 +13,3 @@ reviewed: 3da2eb6279ffa644f6b6b3b31c8ca33b4217369dd489eb4c5691d2fbe0ab193e
 source: xml
 outdated: false
 ---
-
-Identifies the MouseRight presentation key or modifier.

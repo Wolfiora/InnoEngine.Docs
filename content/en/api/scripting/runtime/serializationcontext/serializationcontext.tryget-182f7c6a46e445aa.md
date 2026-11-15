@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to resolve a value registered under the exact context contract type.
-
 ## Type parameters
 
 **Type parameter `TContext`:** The exact context contract type.

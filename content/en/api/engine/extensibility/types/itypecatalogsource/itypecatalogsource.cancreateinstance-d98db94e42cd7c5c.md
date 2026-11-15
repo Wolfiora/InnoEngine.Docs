@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether this deployment supplies a parameterless factory for a declared type.
-
 ## Parameters
 
 **Parameter `type`:** The declared runtime type.

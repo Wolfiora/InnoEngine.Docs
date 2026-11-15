@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically installs an existing same-directory candidate file.
-
 ## Parameters
 
 **Parameter `source`:** The complete candidate file beside the destination.

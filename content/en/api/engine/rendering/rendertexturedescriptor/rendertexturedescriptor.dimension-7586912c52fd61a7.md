@@ -13,5 +13,3 @@ reviewed: 57c5bedbb5c2e751fdbb268b958e2b56e311771e0608ccb9a4bbb8628b4052e0
 source: xml
 outdated: false
 ---
-
-Gets the dimensional texture shape.

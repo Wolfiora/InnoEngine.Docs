@@ -13,5 +13,3 @@ reviewed: 3c924c618ccffee27a2a389819152767cda6b0655c1ef9eaec8ab3dbbea13bf5
 source: xml
 outdated: false
 ---
-
-Gets the stable execution namespace included in compiler workspace identity.

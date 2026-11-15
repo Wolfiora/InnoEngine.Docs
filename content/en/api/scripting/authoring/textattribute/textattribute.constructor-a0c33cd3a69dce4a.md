@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates persistent Inspector text.
-
 ## Parameters
 
 **Parameter `text`:** Non-empty text displayed in the Inspector layout.

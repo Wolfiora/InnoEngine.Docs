@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Changes retained expansion before a flattened view is computed, without submitting a row.
-
 ## Parameters
 
 **Parameter `id`:** The stable row identifier within this window and owner.

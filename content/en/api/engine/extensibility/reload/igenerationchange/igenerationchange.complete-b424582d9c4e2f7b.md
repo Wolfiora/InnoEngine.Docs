@@ -13,5 +13,3 @@ reviewed: 69295e48b06d15eed016400ee6e32011dee4cf541ac699cbbdffdbe129140ccd
 source: xml
 outdated: false
 ---
-
-Releases old instances after irreversible publication; cleanup failures fault the owner.

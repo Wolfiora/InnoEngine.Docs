@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit: disable drag and drop target/source. ColorButton: disable drag and drop source.

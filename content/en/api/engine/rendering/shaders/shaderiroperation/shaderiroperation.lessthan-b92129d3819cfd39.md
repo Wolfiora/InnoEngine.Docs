@@ -13,5 +13,3 @@ reviewed: df93ba9719d265ebd6e4350ac19e2a2870b5a80c45a4343bb5cfe2b3d4848ddf
 source: xml
 outdated: false
 ---
-
-Compares two equal numeric scalar types and produces a scalar Boolean.

@@ -13,5 +13,3 @@ reviewed: 0a0d9c4e7f91f01190304e605a6c535b629754fa058f2c4377bb39df69501951
 source: xml
 outdated: false
 ---
-
-Gets or sets alternate source implementations; all must expose the same public interface with unique backend IDs.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the active target afresh for this callback; null means the identity is unavailable.
-
 ## Remarks
 
 Do not retain the result across callbacks. Activation stores a domain-qualified reference rather than the live object.

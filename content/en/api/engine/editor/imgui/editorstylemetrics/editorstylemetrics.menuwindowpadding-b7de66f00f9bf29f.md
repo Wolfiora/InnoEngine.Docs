@@ -13,5 +13,3 @@ reviewed: 7e3d7a103adf0e51dfbac17a37a238a53b604a6eb7070070f93028ccd0644e9b
 source: xml
 outdated: false
 ---
-
-Gets the uniform content padding of editor context menus.

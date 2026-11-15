@@ -13,5 +13,3 @@ reviewed: 5f42f479551e1bbcd7c350f6ad51bd41f51ec249e1519778fafca79f433eafea
 source: xml
 outdated: false
 ---
-
-Gets the declared property type.

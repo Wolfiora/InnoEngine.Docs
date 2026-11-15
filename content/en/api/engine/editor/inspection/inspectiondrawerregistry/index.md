@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Discovers and resolves inspection drawers through the active type catalog.

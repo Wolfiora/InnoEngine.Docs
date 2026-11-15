@@ -13,5 +13,3 @@ reviewed: 5275a67d6dd80b93f1a3252f63d116995ac6737fba336f2b472003dc9507d68e
 source: xml
 outdated: false
 ---
-
-Gets an immutable snapshot of scenes loaded by the current runtime session.

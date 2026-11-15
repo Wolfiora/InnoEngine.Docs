@@ -13,5 +13,3 @@ reviewed: 2854ed2ea9b967593c8d94f9baa3a3c1544559bd1be2eceb789a99eff722d07b
 source: xml
 outdated: false
 ---
-
-At least one retired collectible generation remains reachable.

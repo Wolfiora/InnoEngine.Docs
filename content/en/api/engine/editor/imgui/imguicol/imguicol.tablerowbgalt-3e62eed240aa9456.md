@@ -13,5 +13,3 @@ reviewed: 4f116434f44474259f9af60029d87aa90c7610d77b49658c9c7e38f384ec28a3
 source: xml
 outdated: false
 ---
-
-Selects the table row bg alt presentation behavior.

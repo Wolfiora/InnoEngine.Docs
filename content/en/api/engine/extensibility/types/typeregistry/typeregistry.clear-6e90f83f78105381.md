@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases the active snapshot while keeping the registry reusable.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Generation work could not retire safely. The snapshot remains owned and this registry cannot be reused.

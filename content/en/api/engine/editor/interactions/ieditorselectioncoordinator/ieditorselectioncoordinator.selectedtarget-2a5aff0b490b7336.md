@@ -13,5 +13,3 @@ reviewed: c66bd75679dde82c081bbabfccfd481dfccffcee9e346cc862a3c4d54dbe8f02
 source: xml
 outdated: false
 ---
-
-Gets the currently selected target, or `null` when selection is empty.

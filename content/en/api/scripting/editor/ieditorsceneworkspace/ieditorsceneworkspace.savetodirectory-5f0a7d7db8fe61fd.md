@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Saves a scene into the requested asset directory.
-
 ## Parameters
 
 **Parameter `scene`:** The scene to save.

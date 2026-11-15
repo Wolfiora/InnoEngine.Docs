@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Owns the reading protection of a complete binding closure until its final compiler consumer finishes.

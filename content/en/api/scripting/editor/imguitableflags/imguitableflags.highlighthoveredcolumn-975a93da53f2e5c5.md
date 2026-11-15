@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Highlight column headers when hovered (may evolve into a fuller highlight)

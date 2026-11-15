@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets source import dependencies that invalidate an asset artifact.
-
 ## Parameters
 
 **Parameter `asset`:** The asset to query.

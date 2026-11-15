@@ -13,5 +13,3 @@ reviewed: 6a3acab0b214bc99ec303f059bcef7aea5db4650bdacd8341fdb57d0a749a4ed
 source: xml
 outdated: false
 ---
-
-A sampled texture binding whose slot is assigned by target resource layout.

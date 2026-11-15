@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deletes a source asset and its metadata while retaining a Library tombstone for existing references.
-
 ## Parameters
 
 **Parameter `path`:** Existing isolated file or directory path.

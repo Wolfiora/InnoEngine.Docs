@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Extends serialized-property presentation with reusable attribute-driven behavior.

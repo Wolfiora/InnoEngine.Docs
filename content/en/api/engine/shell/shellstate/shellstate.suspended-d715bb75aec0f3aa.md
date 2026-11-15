@@ -13,5 +13,3 @@ reviewed: c8bcea5645cce3e63f8492d22e7fb20b55524b81de4529fc014ac80cc763a1df
 source: xml
 outdated: false
 ---
-
-Platform events continue while product frames and their clock are suspended.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-assets
 aliases: []
 ---
-
-Resolves verified named outputs from immutable asset artifact bundles.

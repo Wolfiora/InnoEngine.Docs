@@ -13,5 +13,3 @@ reviewed: d6f8ec0eb5281e66c02926da5bd077a42bf3331d142b30fa95330a5aaf32a75a
 source: xml
 outdated: false
 ---
-
-Releases reading rights after all compilation, copying and linking have completed. Repeated disposal has no effect.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets explicit host content visible during this update.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** This provider invocation has ended.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds this session's script façades to the current asynchronous execution context.
-
 ## Returns
 
 A strict last-in-first-out scope owned by the caller.

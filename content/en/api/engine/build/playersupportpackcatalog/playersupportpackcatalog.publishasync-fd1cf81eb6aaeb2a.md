@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates and publishes an immutable pack, then atomically selects it for new readers.
-
 ## Parameters
 
 **Parameter `target`:** The platform and architecture owning the staged inputs.

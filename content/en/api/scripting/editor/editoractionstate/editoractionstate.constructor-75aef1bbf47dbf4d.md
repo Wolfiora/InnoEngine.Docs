@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates the contextual presentation state of an editor action.
-
 ## Parameters
 
 **Parameter `isVisible`:** Whether the action should be included in the current presentation.

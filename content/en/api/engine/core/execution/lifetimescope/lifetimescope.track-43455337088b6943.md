@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tracks work that must complete before this lifetime's resources can be released.
-
 ## Parameters
 
 **Parameter `task`:** Work that observes this lifetime's cancellation token.

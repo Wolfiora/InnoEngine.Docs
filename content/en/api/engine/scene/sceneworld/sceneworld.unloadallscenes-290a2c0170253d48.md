@@ -13,5 +13,3 @@ reviewed: c590177a76b2f4c18f41b73f0ef98cb448d9a75b67d461f76d083cd94e8c854f
 source: xml
 outdated: false
 ---
-
-Unloads every scene while preserving the first lifecycle failure.

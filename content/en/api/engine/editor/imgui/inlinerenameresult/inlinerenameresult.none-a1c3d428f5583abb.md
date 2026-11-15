@@ -13,5 +13,3 @@ reviewed: 6153c2d1ae920b636aaa97d65bbbc8d233b81a090560357f5b1a8b58c76f6a81
 source: xml
 outdated: false
 ---
-
-Indicates that the interaction remains active.

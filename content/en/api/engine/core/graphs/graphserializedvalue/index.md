@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---
-
-Stores one graph property as backend-neutral Inno serialization bytes.

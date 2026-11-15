@@ -13,5 +13,3 @@ reviewed: 64243021f273f31560350648f8a05cc8289f7849eee3b4f44ebfcaa267b3fbd3
 source: xml
 outdated: false
 ---
-
-Gets the frame-scoped logical handle.

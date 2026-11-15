@@ -13,5 +13,3 @@ reviewed: cea5ef59093aef32fd3d9a005e3b62b66da2ea6893921e8ca431eefed1bc7f66
 source: xml
 outdated: false
 ---
-
-Cancels transient presentation state without applying or undoing document changes.

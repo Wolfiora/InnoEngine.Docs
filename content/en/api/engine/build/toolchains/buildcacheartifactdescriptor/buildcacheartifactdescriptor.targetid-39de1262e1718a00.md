@@ -13,5 +13,3 @@ reviewed: 6860635d88fd731522178e519075fbb4398e68028b32b9c3281a47c39340ccaa
 source: xml
 outdated: false
 ---
-
-Gets the producer-declared target, or null when this artifact is shared by host operations.

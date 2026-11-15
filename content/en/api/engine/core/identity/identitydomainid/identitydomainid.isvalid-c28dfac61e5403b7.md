@@ -13,5 +13,3 @@ reviewed: 8b116ec4845339a760d3489bd1db4f314858d9354d72bc184a82f08b63dc2794
 source: xml
 outdated: false
 ---
-
-Gets whether this value identifies an allocated runtime domain.

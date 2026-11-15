@@ -13,5 +13,3 @@ reviewed: df04b4e7a7f07b9ced3fb8323a11a79d5a24f7e87c401f5f33bb6e40f910b3a7
 source: xml
 outdated: false
 ---
-
-Gets asset browser cell padding.

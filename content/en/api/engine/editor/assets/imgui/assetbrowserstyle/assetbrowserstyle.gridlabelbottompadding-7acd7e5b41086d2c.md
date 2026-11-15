@@ -13,5 +13,3 @@ reviewed: 810228535c1af590b0822abbabbabb1bc2088601b023749dd502fb08b77ac0ee
 source: xml
 outdated: false
 ---
-
-Gets bottom padding for asset grid labels.

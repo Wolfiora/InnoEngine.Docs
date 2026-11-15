@@ -13,5 +13,3 @@ reviewed: 7ab67d4dccc023f5a1ae3102e079b7c6f5ba8840b587bf61909fd9b05f04efc3
 source: xml
 outdated: false
 ---
-
-DragScalarN(), SliderScalarN(): Draw R/G/B/A color markers on each component.

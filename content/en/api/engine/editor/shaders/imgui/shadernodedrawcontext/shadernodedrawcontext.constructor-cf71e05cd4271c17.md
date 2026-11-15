@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates invocation-scoped access for a graph or Inspector host.
-
 ## Parameters
 
 **Parameter `node`:** Detached node values for this invocation.

@@ -13,5 +13,3 @@ reviewed: b9c7a1854fcd92fbea7bfcecd7a0af81695bcdccfe59270fbba02d66ac8d6be4
 source: xml
 outdated: false
 ---
-
-Gets the change kind.

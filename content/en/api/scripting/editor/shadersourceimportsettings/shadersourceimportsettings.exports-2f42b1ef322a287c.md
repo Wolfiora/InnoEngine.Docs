@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets or sets the explicitly exported function names. Unlisted helpers remain private to the source library.

@@ -13,5 +13,3 @@ reviewed: 7c7398d04c5b7f4b97d3b33bbc82361969910572bf75ec368a2d61e52a700a8f
 source: xml
 outdated: false
 ---
-
-Gets or sets the writable data folder relative to the operating system's local application data directory. An empty value uses `P:Inno.Build.BuildProfile.applicationId`.

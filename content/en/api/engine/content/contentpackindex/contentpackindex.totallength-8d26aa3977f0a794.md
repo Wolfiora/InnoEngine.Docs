@@ -13,5 +13,3 @@ reviewed: 745ae8938ac046e63d02a64fdf30a81c9acca557e0987d85fcc7e295c27dcd39
 source: xml
 outdated: false
 ---
-
-Gets the checked sum of all decoded payload lengths, excluding the index.

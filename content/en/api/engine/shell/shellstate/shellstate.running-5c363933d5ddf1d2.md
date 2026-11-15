@@ -13,5 +13,3 @@ reviewed: f6ca3572451dd22b174a1f369e022d0d855ab70639115e3144467639ad73cedb
 source: xml
 outdated: false
 ---
-
-Platform events and product frames are advancing.

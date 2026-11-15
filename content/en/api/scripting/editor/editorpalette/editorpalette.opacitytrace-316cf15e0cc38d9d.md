@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets trace opacity for barely perceptible alternating surfaces.

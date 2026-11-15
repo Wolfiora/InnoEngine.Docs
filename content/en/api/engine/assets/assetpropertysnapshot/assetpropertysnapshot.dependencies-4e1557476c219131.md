@@ -13,5 +13,3 @@ reviewed: e8f26591f47145972c687861aaf1b9aa74ccf10a869dbd55332369ccdd6a107f
 source: xml
 outdated: false
 ---
-
-Gets the frozen direct dependency declarations.

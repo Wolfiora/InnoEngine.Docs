@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Removes one neutral node property as a structural edit.
-
 ## Parameters
 
 **Parameter `nodeId`:** Owning node.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Configures neutral host navigation before input is processed and a request is built.
-
 ## Parameters
 
 **Parameter `context`:** Frame-only Editor, navigation, content, and viewport context.

@@ -13,5 +13,3 @@ reviewed: 71069547992b813a882208ae684bb14633af5a4e76136102dc0fde97ed291c7a
 source: xml
 outdated: false
 ---
-
-Gets the zero-based array layer, volume slice, or flattened cubemap face.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically adds to a scalar integer buffer element and returns its previous value.
-
 ## Parameters
 
 **Parameter `resource`:** A read-write int or uint storage buffer.

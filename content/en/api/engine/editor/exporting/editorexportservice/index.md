@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-exporting
 aliases: []
 ---
-
-Owns asynchronous export, progress, cancellation and retirement independently from presentation.

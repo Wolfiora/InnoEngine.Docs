@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Binds a frame-uploaded vertex slice.
-
 ## Parameters
 
 **Parameter `buffer`:** Current-frame vertex slice.

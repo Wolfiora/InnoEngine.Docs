@@ -13,5 +13,3 @@ reviewed: d217a34376d384a9818830f25cb62020971a58e32430990ea18d311ea71f86cf
 source: xml
 outdated: false
 ---
-
-Ignore current Indent value when entering cell (default for columns \> 0). Indentation changes \_within\_ the cell will still be honored.

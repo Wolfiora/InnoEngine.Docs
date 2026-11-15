@@ -13,5 +13,3 @@ reviewed: c089a944cdaa2f1ed475ec23b7a9595ae362c4103415b59498786754a4ea334e
 source: xml
 outdated: false
 ---
-
-Gets the target element identifier.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads a detached importer settings value without changing source metadata.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path, not its sidecar path.

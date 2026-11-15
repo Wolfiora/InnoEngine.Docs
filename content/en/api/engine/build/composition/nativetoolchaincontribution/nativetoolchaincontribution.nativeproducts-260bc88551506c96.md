@@ -13,5 +13,3 @@ reviewed: d192fc7db980c33fad4b3e013ea7643a2a11fca964b9e3c08c55140fe52adaf1
 source: xml
 outdated: false
 ---
-
-Gets explicitly implemented native-only product closures keyed by stable product identity.

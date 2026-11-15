@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Finds the first game object with an ordinally matching name.
-
 ## Parameters
 
 **Parameter `name`:** Name to find.

@@ -13,5 +13,3 @@ reviewed: 57253b995bc3807c33dc1cb272d8c075887e00068c510e5669d16606b5835e38
 source: xml
 outdated: false
 ---
-
-Four signed 16-bit components interpreted as integers.

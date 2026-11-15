@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Publishes or replaces several statistics for the current editor frame.
-
 ## Parameters
 
 **Parameter `statistics`:** Contributions to publish in enumeration order.

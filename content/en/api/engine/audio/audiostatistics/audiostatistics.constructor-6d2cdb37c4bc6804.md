@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an audio statistics snapshot.
-
 ## Parameters
 
 **Parameter `activeVoices`:** Voices that currently consume runtime budget.

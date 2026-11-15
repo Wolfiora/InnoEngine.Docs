@@ -13,5 +13,3 @@ reviewed: a061eb111576354f8ecf4138551d6e28180cc3eb359003e3f97b06a7a3906d61
 source: xml
 outdated: false
 ---
-
-Finalizes replacement instances after the assembly reload is committed.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable graph port identifier.
-
 ## Parameters
 
 **Parameter `value`:** Non-empty identifier value.

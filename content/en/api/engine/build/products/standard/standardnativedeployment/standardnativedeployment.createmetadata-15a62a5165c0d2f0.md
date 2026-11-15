@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes the exact runtime payload selected by the platform layout.
-
 ## Parameters
 
 **Parameter `products`:** The validated product closure.

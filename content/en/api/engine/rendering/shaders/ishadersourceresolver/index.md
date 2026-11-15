@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Reads dependencies only from the current source candidate and records their import dependencies.

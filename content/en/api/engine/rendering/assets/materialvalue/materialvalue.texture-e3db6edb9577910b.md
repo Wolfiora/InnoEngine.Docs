@@ -13,5 +13,3 @@ reviewed: f7b05431703d2d7065b7b5bdc6b2c69e942f3b5e1736593b5db9a4657a129013
 source: xml
 outdated: false
 ---
-
-Gets or sets the texture reference.

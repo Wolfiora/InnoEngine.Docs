@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws one wrapped, subdued value whose metadata and content remain in the value column.
-
 ## Parameters
 
 **Parameter `metadata`:** Short contextual text such as a declared value type.

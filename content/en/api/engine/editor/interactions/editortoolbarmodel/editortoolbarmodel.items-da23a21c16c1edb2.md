@@ -13,5 +13,3 @@ reviewed: de4bab3f16cc8bee45fe5ee0b5eebb6b20ab001d108a3012f03be0b64b2d3f1a
 source: xml
 outdated: false
 ---
-
-Gets visible toolbar commands in deterministic display order.

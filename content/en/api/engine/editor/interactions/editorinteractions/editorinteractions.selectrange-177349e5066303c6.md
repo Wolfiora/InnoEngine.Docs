@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Selects the inclusive visible range between the current anchor and the clicked target.
-
 ## Parameters
 
 **Parameter `orderedTargets`:** Runtime identities in the current visible sort and filter order, resolved through Core Identity only when selected.

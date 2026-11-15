@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the explicit model composition route for the primary output at a frame boundary.
-
 ## Parameters
 
 **Parameter `route`:** Ordered model identities, or null for automatic single-model selection.

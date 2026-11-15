@@ -13,5 +13,3 @@ reviewed: d0e97dd37696422502d64b57364f493983ac98d5ce722f1c931bb293c8e1f8ca
 source: xml
 outdated: false
 ---
-
-Gets pointer movement accumulated since the previous snapshot.

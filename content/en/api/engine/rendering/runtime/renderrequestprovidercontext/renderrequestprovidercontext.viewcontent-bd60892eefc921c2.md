@@ -13,5 +13,3 @@ reviewed: b295aecee54f59db459d6ed6ec9e1b040e143ce988dac0900151c2877e19a7a1
 source: xml
 outdated: false
 ---
-
-Gets the active generation's world-content collector.

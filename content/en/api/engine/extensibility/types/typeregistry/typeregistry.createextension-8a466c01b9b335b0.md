@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a validated extension instance using a parameterless constructor.
-
 ## Type parameters
 
 **Type parameter `TExtension`:** The required extension contract.

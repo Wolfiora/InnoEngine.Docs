@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Queries the current state of a runtime voice.
-
 ## Parameters
 
 **Parameter `voice`:** Runtime voice handle to query.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attaches a color texture.
-
 ## Parameters
 
 **Parameter `texture`:** Color attachment texture.

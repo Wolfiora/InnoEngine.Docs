@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates validated imported font metadata.
-
 ## Parameters
 
 **Parameter `faceCount`:** The number of faces in the source collection.

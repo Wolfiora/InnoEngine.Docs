@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Encodes an Asset value through the current native structured source serializer.
-
 ## Parameters
 
 **Parameter `asset`:** Detached Asset value to encode.

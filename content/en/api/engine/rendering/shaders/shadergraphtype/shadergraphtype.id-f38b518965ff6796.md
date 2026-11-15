@@ -13,5 +13,3 @@ reviewed: 7093ff575e3bdd0ff636db6eca0c4baf2674cf0ebc4a39f6e2fbc770874d1c96
 source: xml
 outdated: false
 ---
-
-Gets or sets the atomic or nominal structure type identity.

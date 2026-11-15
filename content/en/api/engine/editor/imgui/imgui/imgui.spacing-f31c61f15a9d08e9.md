@@ -13,5 +13,3 @@ reviewed: 2d3d2396029e4c440fa5ef22e5d42f673702314b6cfd6fd00d9a95f30633c14c
 source: xml
 outdated: false
 ---
-
-Adds one standard vertical spacing unit.

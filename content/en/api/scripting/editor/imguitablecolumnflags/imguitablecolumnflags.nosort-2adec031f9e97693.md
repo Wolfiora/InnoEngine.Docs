@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable ability to sort on this field (even if ImGuiTableFlags\_Sortable is set on the table).

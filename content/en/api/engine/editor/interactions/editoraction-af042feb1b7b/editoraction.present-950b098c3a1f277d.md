@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Presents this action through the current editor interaction surface.
-
 ## Returns
 
 `true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

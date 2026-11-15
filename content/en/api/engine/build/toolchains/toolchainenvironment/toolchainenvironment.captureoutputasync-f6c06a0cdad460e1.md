@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures platform tool discovery through the same cancellable process lifecycle as builds.
-
 ## Parameters
 
 **Parameter `start`:** The prepared discovery command, including any platform-specific argument quoting.

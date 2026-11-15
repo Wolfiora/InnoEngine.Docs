@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---
-
-Resolves input providers from one immutable, composition-owned registration snapshot.

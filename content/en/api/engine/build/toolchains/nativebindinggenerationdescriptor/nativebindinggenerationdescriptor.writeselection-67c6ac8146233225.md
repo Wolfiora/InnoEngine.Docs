@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Writes the exact native binding identities for a subsequent managed build without reselecting generations. Identical content preserves the existing import timestamp; changed content is installed atomically.
-
 ## Parameters
 
 **Parameter `path`:** The MSBuild selection document in an intermediate directory exclusively owned by the caller.

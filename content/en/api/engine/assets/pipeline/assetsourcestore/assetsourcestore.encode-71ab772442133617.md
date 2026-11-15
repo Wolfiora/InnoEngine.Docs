@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Encodes native asset properties with the owner's reference context and dependency capture.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Native asset source type.

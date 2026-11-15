@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-A completed fraction, or null when no progress bar is needed.

@@ -13,5 +13,3 @@ reviewed: 08f72291c0ba017e822f60d73ca9091f52ddefab86d8037ca7ff6d33cf003348
 source: xml
 outdated: false
 ---
-
-Gets active keyboard modifiers.

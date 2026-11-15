@@ -13,5 +13,3 @@ reviewed: c187226d425a9283a64554f7c83ac3a29571c515a3f4bef151ff63036646f911
 source: xml
 outdated: false
 ---
-
-Gets the built-in graphical host-presentation factory.

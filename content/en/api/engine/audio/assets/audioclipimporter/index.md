@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio-assets#artifact-and-ownership-contract
 aliases: []
 ---
-
-Imports standard encoded audio sources into compact runtime metadata and immutable encoded-data artifacts.

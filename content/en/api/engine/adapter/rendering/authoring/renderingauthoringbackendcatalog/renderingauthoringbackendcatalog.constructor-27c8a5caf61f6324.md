@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates that every runtime backend has exactly one matching authoring provider.
-
 ## Parameters
 
 **Parameter `runtime`:** Runtime provider snapshot paired with these authoring tools.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a pipeline descriptor compatible with the supplied fullscreen vertex layout.
-
 ## Parameters
 
 **Parameter `capabilities`:** Capabilities of the device that will own the pipeline.

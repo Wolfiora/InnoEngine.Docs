@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Validates a complete binding without starting tools or taking ownership of services.
-
 ## Parameters
 
 **Parameter `packager`:** The borrowed platform packaging implementation.

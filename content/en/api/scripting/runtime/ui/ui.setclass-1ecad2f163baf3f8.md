@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Activates or deactivates one element class.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -13,5 +13,3 @@ reviewed: 82d4e7b74a3e482de1d1adfafbc192e120bd93327862e9f283153104389ce428
 source: xml
 outdated: false
 ---
-
-Releases the resources owned by this implementation.

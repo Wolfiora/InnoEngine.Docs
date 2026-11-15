@@ -13,5 +13,3 @@ reviewed: 981caccfe21f8ed3685a0341594e61037900ba042173c3b4bd1a1a3f3b3d7e3f
 source: xml
 outdated: false
 ---
-
-Gets the maximum retained bus count.

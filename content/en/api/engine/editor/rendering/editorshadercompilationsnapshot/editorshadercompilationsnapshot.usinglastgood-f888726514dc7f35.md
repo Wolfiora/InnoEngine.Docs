@@ -13,5 +13,3 @@ reviewed: f8c50eaa35d93d28c5556a2d7bd804f289073f8ec1bdc4be0c37be413ba91851
 source: xml
 outdated: false
 ---
-
-Whether rendering still uses a previous successful candidate.

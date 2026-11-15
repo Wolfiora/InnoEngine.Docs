@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the structural version of the graph.
-
 ## Remarks
 
 The version changes after every successful structural mutation.

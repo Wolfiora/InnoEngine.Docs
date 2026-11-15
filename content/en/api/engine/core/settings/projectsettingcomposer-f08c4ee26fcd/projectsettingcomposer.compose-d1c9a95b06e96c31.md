@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Composes dependency-ordered Plugin deltas and the optional final project delta into a host default.
-
 ## Parameters
 
 **Parameter `target`:** The newly created host default to mutate into the effective value.

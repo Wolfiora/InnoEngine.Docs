@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Status: is enabled == not hidden by user/api (referred to as "Hide" in \_DefaultHide and \_NoHide) flags.

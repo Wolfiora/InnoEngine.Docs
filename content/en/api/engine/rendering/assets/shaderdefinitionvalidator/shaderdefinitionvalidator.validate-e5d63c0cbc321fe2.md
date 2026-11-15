@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Checks declaration identities, resource kinds, stage visibility and open technique mappings without mutating the candidate.
-
 ## Parameters
 
 **Parameter `definition`:** The candidate runtime contract.

@@ -13,5 +13,3 @@ reviewed: 750f0de95b4d66894998969cf2cde15c4563f07315cce505603e1545d25dde13
 source: xml
 outdated: false
 ---
-
-Identifies the F18 presentation key or modifier.

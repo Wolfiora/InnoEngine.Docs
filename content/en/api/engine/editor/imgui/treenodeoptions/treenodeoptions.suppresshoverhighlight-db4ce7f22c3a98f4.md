@@ -13,5 +13,3 @@ reviewed: 3d1bd549ebb17ad63caeb9384d5dfb7dc463edac893229aaa589b5c8f79b9f44
 source: xml
 outdated: false
 ---
-
-Gets whether the row keeps its configured background while hovered.

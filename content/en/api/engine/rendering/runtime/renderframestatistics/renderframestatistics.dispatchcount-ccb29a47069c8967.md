@@ -13,5 +13,3 @@ reviewed: 3895144f8d7d17b8829e8ab4f4a6820ee6a5703f19024d2edcf9c4a443db4367
 source: xml
 outdated: false
 ---
-
-Gets the recorded compute dispatch count.

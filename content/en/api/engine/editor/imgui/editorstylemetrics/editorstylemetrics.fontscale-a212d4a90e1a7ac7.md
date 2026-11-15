@@ -13,5 +13,3 @@ reviewed: c4d50118c375a8a360c098da58999899b876be8e0af35bfc314eefd2ba076c67
 source: xml
 outdated: false
 ---
-
-Gets global content scale.

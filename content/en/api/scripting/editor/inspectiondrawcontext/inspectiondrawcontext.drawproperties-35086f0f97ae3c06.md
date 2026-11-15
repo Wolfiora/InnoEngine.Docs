@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws every runtime-visible serialized property through the shared attribute and property drawer pipeline.
-
 ## Remarks
 
 Properties without an explicit `Header` attribute are placed in the shared implicit Properties section. Custom drawers may call this method before or after their own sections.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-tasks
 aliases: []
 ---
-
-Connects MSBuild to the same graph compiler used by the unified build workflow.

@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-assets
 aliases: []
 ---
-
-Customizes editor interactions for one imported asset type.

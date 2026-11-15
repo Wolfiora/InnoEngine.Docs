@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the scene is editable in the current Edit or isolated Play world.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to inspect.

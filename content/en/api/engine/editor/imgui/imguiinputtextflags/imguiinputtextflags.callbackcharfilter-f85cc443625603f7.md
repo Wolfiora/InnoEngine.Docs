@@ -13,5 +13,3 @@ reviewed: fbb112e06a59348ae6c31b1d0b7e5ad78108c6311bc5c1848ae425fd42994989
 source: xml
 outdated: false
 ---
-
-Callback on character inputs to replace or discard them. Modify 'EventChar' to replace or discard, or return 1 in callback to discard.

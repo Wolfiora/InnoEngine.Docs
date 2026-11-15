@@ -13,5 +13,3 @@ reviewed: 88c3a38240acbe92d43c3eb4c2a1c538df7bdd55714681da59744581ecd98bcd
 source: xml
 outdated: false
 ---
-
-Gets or sets dependencies whose setting defaults may be replaced.

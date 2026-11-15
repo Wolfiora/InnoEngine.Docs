@@ -13,5 +13,3 @@ reviewed: 78d4da622f2e703126e2e4919694a26d6339ddb60037a272272fa80b988170f7
 source: xml
 outdated: false
 ---
-
-Gets spacing between a leading icon and its text.

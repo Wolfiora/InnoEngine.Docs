@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable imported geometry description.
-
 ## Parameters
 
 **Parameter `vertexCount`:** The number of normalized vertices.

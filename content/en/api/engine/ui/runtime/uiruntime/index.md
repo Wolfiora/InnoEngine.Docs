@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui-runtime#session-and-font-ownership
 aliases: []
 ---
-
-Owns retained UI contexts, imported font leases, and current-frame input for one runtime session.

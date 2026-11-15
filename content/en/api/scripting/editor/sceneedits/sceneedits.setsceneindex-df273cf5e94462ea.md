@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves a loaded scene to a hierarchy index and records the two integer positions.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to reorder.

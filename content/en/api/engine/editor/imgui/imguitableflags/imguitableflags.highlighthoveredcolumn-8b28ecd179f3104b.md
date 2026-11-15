@@ -13,5 +13,3 @@ reviewed: f76a3ee8804c73afa91c09c4ece793b16e94bd68795fc374ad970063fc665377
 source: xml
 outdated: false
 ---
-
-Highlight column headers when hovered (may evolve into a fuller highlight)

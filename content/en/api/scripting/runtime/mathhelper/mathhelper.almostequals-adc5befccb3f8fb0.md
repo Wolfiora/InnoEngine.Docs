@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two floating-point numbers are approximately equal, using a relative tolerance based on the magnitude of the numbers. This is useful for comparing floats where rounding errors may occur.
-
 ## Parameters
 
 **Parameter `a`:** The first float value to compare.

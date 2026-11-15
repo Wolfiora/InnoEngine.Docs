@@ -13,5 +13,3 @@ reviewed: 4f1d31c4528275952157c820e03b6a18c0ac40832689ab9b7aa1bfadf18840b8
 source: xml
 outdated: false
 ---
-
-Gets logical configuration input paths whose actual bytes participate in the recipe.

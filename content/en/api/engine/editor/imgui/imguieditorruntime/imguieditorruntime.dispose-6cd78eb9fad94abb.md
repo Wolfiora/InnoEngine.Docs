@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases the resources owned by this implementation.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Editor extensions still own live work. The interaction runtime remains retained for safe shutdown.

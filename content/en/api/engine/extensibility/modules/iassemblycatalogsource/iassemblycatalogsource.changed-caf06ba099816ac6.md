@@ -13,5 +13,3 @@ reviewed: eaae166be16775fe12514e465409863085018842a934d57f9c81beb8e4e3b546
 source: xml
 outdated: false
 ---
-
-Notifies the owner that the host assembly snapshot should be refreshed at a safe point.

@@ -13,5 +13,3 @@ reviewed: e3a1c58174c272ba2d2015b6a4a9bc062c8e2d56e9623b60e2405201200e8338
 source: xml
 outdated: false
 ---
-
-Identifies the Home presentation key or modifier.

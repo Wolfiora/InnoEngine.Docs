@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Exports the current source-free runtime catalog and its exact artifact closure.
-
 ## Parameters
 
 **Parameter `destinationContentRoot`:** Empty destination for the deployed asset database.

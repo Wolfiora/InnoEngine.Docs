@@ -13,5 +13,3 @@ reviewed: 07f6ee10518ca28bc6847d4d2cf8e0f5bc7ef110e0c1b3188aa042a2b083a441
 source: xml
 outdated: false
 ---
-
-Releases subscriptions and resources owned by this extension generation.

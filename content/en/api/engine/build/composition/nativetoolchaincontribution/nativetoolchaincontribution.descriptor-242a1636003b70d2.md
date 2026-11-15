@@ -13,5 +13,3 @@ reviewed: 27fe30abf663b7deb3d82379d5b84a1dade006d2f28ca48c17b61eadbcecd183
 source: xml
 outdated: false
 ---
-
-Gets explicit target facts independently of the current execution machine.

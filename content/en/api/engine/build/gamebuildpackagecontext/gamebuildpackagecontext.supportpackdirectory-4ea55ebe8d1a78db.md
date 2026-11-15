@@ -13,5 +13,3 @@ reviewed: 7251a40c9e70cdbe44e0903c2fefde4b57f75710960151d2d315a0be1942bbec
 source: xml
 outdated: false
 ---
-
-Gets the verified read-only Support Pack directory for this target.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Set row background color 0 (generally used for background, automatically set when ImGuiTableFlags\_RowBg is used)

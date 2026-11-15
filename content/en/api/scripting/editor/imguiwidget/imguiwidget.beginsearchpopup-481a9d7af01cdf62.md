@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Begins a popup and draws its focused search field.
-
 ## Parameters
 
 **Parameter `id`:** The popup identifier previously supplied to ImGui.

@@ -13,5 +13,3 @@ reviewed: 3748c52d2eb7fe46a2a6f447d1579bf0324242a355314db0e39aa77859c472c1
 source: xml
 outdated: false
 ---
-
-Gets the active tool, or `null`.

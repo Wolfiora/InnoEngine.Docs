@@ -13,5 +13,3 @@ reviewed: d2569abec03c183e2362dd4ebab14eedeca7182b01abc82d2cddb21b27de025d
 source: xml
 outdated: false
 ---
-
-Gets the search-menu category path.

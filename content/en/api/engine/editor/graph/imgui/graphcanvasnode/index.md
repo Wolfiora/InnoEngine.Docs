@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-graph-imgui
 aliases: []
 ---
-
-Freezes one node's geometric and textual presentation without owning its domain record.

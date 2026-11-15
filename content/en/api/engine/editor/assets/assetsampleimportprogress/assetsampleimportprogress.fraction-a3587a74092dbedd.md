@@ -13,5 +13,3 @@ reviewed: be66c0466e186d478c5014b9fec52aec7ed9a2ab41b9bb140fb111b02cccecc2
 source: xml
 outdated: false
 ---
-
-The completed validation and publication fraction.

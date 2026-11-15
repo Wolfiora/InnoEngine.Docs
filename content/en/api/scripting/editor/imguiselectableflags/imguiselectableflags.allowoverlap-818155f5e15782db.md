@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-(WIP) Hit testing to allow subsequent widgets to overlap this one

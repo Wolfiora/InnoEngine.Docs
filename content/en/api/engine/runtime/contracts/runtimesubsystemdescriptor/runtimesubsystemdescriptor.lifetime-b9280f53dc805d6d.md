@@ -13,5 +13,3 @@ reviewed: 2d2e958b0d13fc9042a2fc8db68c98cad2a66936b8d351b1eaa04f0119348e1c
 source: xml
 outdated: false
 ---
-
-Gets the exclusive owner scope required by this subsystem.

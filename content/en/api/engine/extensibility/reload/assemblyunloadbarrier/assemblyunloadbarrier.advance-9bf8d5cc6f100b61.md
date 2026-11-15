@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Performs a due full collection cycle and reevaluates every retired generation.
-
 ## Returns
 
 `true` only when every probe has completed; otherwise, `false`.

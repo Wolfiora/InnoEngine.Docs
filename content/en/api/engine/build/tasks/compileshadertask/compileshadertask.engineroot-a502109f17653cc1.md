@@ -13,5 +13,3 @@ reviewed: 31643aef43110a0e1fde532b91c6c0fbb66be940c08921dad3d10610b8951ad4
 source: xml
 outdated: false
 ---
-
-Gets or sets the checkout whose native offline tools must match this build.

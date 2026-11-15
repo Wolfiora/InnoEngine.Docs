@@ -13,5 +13,3 @@ reviewed: cbea238885fe3a25f1f70902ff5a713b8326f5f9c90f078bf0981f33e28f3ffd
 source: xml
 outdated: false
 ---
-
-Gets the owned generation lifetime, or null for externally owned code.

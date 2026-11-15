@@ -13,5 +13,3 @@ reviewed: 53d90283a927a94299cafb730b35a3129c2224d5e798cb809b2e355b509ad33e
 source: xml
 outdated: false
 ---
-
-Gets the stable machine-readable code.

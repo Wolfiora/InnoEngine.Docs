@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Selects between equal typed values without conditionally executing their producers.
-
 ## Parameters
 
 **Parameter `condition`:** Scalar Boolean condition from this builder.

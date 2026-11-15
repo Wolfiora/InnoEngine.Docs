@@ -16,5 +16,3 @@ contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []
 ---
-
-Owns playback scheduling, clip retention, mixer generations, and content synchronization.

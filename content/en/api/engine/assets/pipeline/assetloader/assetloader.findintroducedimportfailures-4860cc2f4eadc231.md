@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds writable-source failures that are new or changed relative to an earlier health snapshot.
-
 ## Parameters
 
 **Parameter `baseline`:** The health snapshot captured before the candidate generation was activated.

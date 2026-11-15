@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Returns the stable identifier.
-
 ## Returns
 
 The identifier, or an empty string for an unassigned value.

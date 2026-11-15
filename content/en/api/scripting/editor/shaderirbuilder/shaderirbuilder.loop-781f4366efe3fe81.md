@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Builds a counted loop; each iteration receives the preceding iteration's complete carried state.
-
 ## Parameters
 
 **Parameter `iterations`:** Unsigned iteration count, evaluated once before entering the loop.

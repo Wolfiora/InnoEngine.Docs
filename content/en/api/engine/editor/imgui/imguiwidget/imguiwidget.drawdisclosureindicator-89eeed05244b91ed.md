@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a vertically centered disclosure triangle with button-style hover feedback.
-
 ## Parameters
 
 **Parameter `min`:** The minimum screen coordinate of the indicator area.

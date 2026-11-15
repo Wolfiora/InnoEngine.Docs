@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an explicitly supported linkage format before staging or generation begins.
-
 ## Parameters
 
 **Parameter `kind`:** The component's requested linkage.

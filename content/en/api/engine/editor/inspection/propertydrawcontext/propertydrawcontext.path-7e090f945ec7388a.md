@@ -13,5 +13,3 @@ reviewed: 611c7716280339c26bc7cc429a03346deaaf86928923fe8d71cae84234fd45c6
 source: xml
 outdated: false
 ---
-
-Gets the stable control path.

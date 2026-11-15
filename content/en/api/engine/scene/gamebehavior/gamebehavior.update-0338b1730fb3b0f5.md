@@ -13,5 +13,3 @@ reviewed: f15e7ef51178ffec28dbeb9b22f8d7bfa0eea31dd141905c41b8d64961e015be
 source: xml
 outdated: false
 ---
-
-Called during the variable-rate update stage. Use `Time.deltaTime` for frame timing.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether modules ordered after this module must defer their updates for the current frame.
-
 ## Remarks
 
 A module may return `true` while completing a project-wide bootstrap or atomic transition that later modules must not observe partially. Panels and modals remain drawable.

@@ -13,5 +13,3 @@ reviewed: 85d994a17d0a14a7ce17c5aadf5cb4c708cced49ae660fa62c0a840968fe4b7e
 source: xml
 outdated: false
 ---
-
-Gets source width in pixels.

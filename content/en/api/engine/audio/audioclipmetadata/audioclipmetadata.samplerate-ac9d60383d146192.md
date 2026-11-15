@@ -13,5 +13,3 @@ reviewed: ab5983d6638123049cb54cf002e17c2cd69f90a43e9ef67b777d241ece29b199
 source: xml
 outdated: false
 ---
-
-Gets the sample rate in frames per second.

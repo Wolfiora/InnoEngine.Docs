@@ -13,5 +13,3 @@ reviewed: 455f0e790c3714bf92635bf8ac6ede5c987e801e4a1447df4e18226032e6a6b2
 source: xml
 outdated: false
 ---
-
-The left bracket key.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets the stable interface or region-parameter identity, only for Input or RegionInput.

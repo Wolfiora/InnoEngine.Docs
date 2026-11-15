@@ -13,5 +13,3 @@ reviewed: cab9d55c542af1a11f0ee4c22f4247ef6933a8367ee3b02b7052ed6a04dbde08
 source: xml
 outdated: false
 ---
-
-Gets the UTC use timestamp, which is never used to validate cached content.

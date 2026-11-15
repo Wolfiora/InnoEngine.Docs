@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Disable user collapsing window by double-clicking on it. Also referred to as Window Menu Button (e.g. within a docking node).

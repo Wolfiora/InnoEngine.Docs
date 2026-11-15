@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Processes current-frame input and advances one context.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

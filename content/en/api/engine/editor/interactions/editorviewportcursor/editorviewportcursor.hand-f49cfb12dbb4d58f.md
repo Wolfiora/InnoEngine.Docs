@@ -13,5 +13,3 @@ reviewed: d2629f8b7e808de96fd341675f596cf012ca4cab93bbf419e64bf11dd1a277cb
 source: xml
 outdated: false
 ---
-
-Uses a hand suitable for panning.

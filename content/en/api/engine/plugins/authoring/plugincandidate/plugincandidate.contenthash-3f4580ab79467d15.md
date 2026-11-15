@@ -13,5 +13,3 @@ reviewed: f40dde998009a668f93cfcd1897013327efb4c67433d075469dfe1313c205754
 source: xml
 outdated: false
 ---
-
-Gets the deterministic complete source-content hash.

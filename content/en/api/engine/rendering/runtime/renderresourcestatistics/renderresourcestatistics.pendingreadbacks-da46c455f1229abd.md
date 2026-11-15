@@ -13,5 +13,3 @@ reviewed: bde166ebb785ac71be36af6be741e9ec298f31af3d9fc41c31d474500910fd8d
 source: xml
 outdated: false
 ---
-
-Gets readbacks that still own native operations.

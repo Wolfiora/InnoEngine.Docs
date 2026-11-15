@@ -13,5 +13,3 @@ reviewed: d6324d982df0ac5ae1b9db776b0db2f3221d142015c3243094e6d3796ccc7ef5
 source: xml
 outdated: false
 ---
-
-Gets the real primary presentation extent in physical pixels, or null while no output is available.

@@ -13,5 +13,3 @@ reviewed: d79a57ce660c906a79bd438fde587a74071085bfd622982d6fa2aac02f95ed21
 source: xml
 outdated: false
 ---
-
-Identifies the KeypadDecimal presentation key or modifier.

@@ -13,5 +13,3 @@ reviewed: 6b97040734bb14ddc4cad615648929f6a8edf8c707e46361c31c3749dc11d48b
 source: xml
 outdated: false
 ---
-
-Gets generation and native compiler diagnostics.

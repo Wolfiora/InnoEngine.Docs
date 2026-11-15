@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Schedules a callback to run after the complete decode operation succeeds.
-
 ## Parameters
 
 **Parameter `callback`:** The callback to schedule.

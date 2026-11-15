@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the device generation whose cumulative counters are represented by this snapshot.

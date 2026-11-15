@@ -13,5 +13,3 @@ reviewed: 69c93cb527388aba1d9836fe81ebfff9d8b54af189eb3f06b5e44ba48c308afc
 source: xml
 outdated: false
 ---
-
-Gets the most recent transition or simulation failure, or `null` when no failure is active.

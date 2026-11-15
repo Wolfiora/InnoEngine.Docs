@@ -13,5 +13,3 @@ reviewed: 0ece9d0a814bc3b9a448ee3cfafd73b9e3f7a4c350eac7b3dff8e994bbedab0f
 source: xml
 outdated: false
 ---
-
-Gets the source draft owner shared by Pipeline inspectors.

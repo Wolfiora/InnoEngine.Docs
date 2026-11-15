@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resumes one paused playback.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle to resume.

@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets the current owner's lifetime identity. Pair it with revision when caching an isolated settings snapshot.

@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-The scaled underline position relative to the baseline in logical pixels.

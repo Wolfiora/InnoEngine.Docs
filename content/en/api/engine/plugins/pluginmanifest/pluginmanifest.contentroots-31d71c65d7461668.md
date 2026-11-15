@@ -13,5 +13,3 @@ reviewed: f120b5a2c87c875f04f7c71918564ca4580ec5195f1e61d029af804b4578320d
 source: xml
 outdated: false
 ---
-
-Gets or sets source-local content roots relative to the Plugin container.

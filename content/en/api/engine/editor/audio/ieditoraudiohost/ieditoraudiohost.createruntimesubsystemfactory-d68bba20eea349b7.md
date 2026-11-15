@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates the reusable factory that contributes isolated audio runtimes to Editor sessions.
-
 ## Returns
 
 A factory whose features are owned and released by their runtime sessions.

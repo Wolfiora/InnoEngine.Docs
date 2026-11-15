@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a matrix material value.
-
 ## Parameters
 
 **Parameter `value`:** Four-by-four matrix value.

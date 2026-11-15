@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a terminal unload failure with stable generation diagnostics.
-
 ## Parameters
 
 **Parameter `retainedGenerations`:** Descriptions of every retired generation that remains reachable.

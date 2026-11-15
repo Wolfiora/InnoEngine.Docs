@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Opens output resources, accepts product requests and submits each owner's output once.
-
 ## Parameters
 
 **Parameter `frame`:** The frame timing snapshot.

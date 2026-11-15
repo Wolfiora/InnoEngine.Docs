@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds the script-facing `N:Inno.Editor.Audio` façade to one session's audio runtime.
-
 ## Parameters
 
 **Parameter `session`:** Session whose feature pipeline owns an active Editor audio generation.

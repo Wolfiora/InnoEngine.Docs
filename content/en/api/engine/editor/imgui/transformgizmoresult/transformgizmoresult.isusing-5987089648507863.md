@@ -13,5 +13,3 @@ reviewed: 39904dae37e57d9305e6cd3bb488c5c2c46afca61ed34a32c24e6317abb80846
 source: xml
 outdated: false
 ---
-
-Whether the handle currently captures the pointer.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Interpolates between two values using a cubic equation.
-
 ## Parameters
 
 **Parameter `value1`:** Source value.

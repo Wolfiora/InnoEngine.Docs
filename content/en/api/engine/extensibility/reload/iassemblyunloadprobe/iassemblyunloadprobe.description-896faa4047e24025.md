@@ -13,5 +13,3 @@ reviewed: 55209a10748ca9e58848c50ccc2c0a940184b0c7d24c2e2ea5ef36d2e9cbf4b7
 source: xml
 outdated: false
 ---
-
-Gets a stable diagnostic description of the retired generation.

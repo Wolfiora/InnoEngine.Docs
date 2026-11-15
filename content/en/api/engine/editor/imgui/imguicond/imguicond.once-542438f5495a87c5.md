@@ -13,5 +13,3 @@ reviewed: 5234ef036a23799d94c7cb3560dd9f2b8e0f43f8a55bec25424689597743e431
 source: xml
 outdated: false
 ---
-
-Set the variable once per runtime session (only the first call will succeed)

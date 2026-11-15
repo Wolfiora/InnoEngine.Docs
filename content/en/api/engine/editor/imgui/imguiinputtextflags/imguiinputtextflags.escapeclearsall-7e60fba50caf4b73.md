@@ -13,5 +13,3 @@ reviewed: bb0ac86b4e7ff045cc1d4c003b93a6c225a92c586c9056acb54b9de16b8ab103
 source: xml
 outdated: false
 ---
-
-Escape key clears content if not empty, and deactivate otherwise (contrast to default behavior of Escape to revert)

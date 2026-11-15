@@ -13,5 +13,3 @@ reviewed: 6776361e3b4c02c1e979728819fe97e41a66c3100da40c84f445aa695254d851
 source: xml
 outdated: false
 ---
-
-Gets the shared passive editor context.

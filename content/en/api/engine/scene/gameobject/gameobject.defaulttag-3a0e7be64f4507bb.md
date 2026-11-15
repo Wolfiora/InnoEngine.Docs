@@ -13,5 +13,3 @@ reviewed: 24b996a80869df2ff5c8200077627a9e6b244673fff70a2d424c925e34130f8a
 source: xml
 outdated: false
 ---
-
-Defines the tag assigned to newly created game objects.

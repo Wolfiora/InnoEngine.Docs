@@ -13,5 +13,3 @@ reviewed: 2d09a67d7bcf9b205bc4e85a5ba0fac3408c4fd5a21e98c90c7cef267dced9ad
 source: xml
 outdated: false
 ---
-
-Gets top padding above trailing add buttons.

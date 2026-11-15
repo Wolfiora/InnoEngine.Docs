@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a full-width interactive tree row whose non-leaf content toggles expansion when double-clicked, while preserving single-click disclosure-arrow behavior.
-
 ## Parameters
 
 **Parameter `id`:** Stable row identifier.

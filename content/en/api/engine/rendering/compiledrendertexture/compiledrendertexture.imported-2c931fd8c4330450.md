@@ -13,5 +13,3 @@ reviewed: 9bf5c36d9e50afafcc7a9fbd78b34f286fa25aceaf012b3a02b2d74a4586f698
 source: xml
 outdated: false
 ---
-
-Gets whether the resource was imported from persistent device state.

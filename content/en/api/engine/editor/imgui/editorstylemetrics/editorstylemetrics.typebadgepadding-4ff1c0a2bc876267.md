@@ -13,5 +13,3 @@ reviewed: d201653ee73d0cfdf835e4feeeba92fe0e68301bcace5a71c046271fbf745ed7
 source: xml
 outdated: false
 ---
-
-Gets the compact inner padding of outlined type badges.

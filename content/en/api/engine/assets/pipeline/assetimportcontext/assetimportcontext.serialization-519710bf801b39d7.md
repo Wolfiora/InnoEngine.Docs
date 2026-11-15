@@ -13,5 +13,3 @@ reviewed: a14d3fb364530be0819ac48f94d7f1d77ea5ef8541dadcb6a074097be7690e9b
 source: xml
 outdated: false
 ---
-
-Gets the serialization registry bound to the active import generation.

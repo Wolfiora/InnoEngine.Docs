@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker, ColorButton: display half opaque / half transparent preview.

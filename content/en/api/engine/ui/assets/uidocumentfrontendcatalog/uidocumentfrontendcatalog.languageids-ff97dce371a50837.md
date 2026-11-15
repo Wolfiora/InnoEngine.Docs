@@ -13,5 +13,3 @@ reviewed: c1bd3e830c9808fc0a79b316c0ec66eff2d99ef686921b7bc7be7cc31625705b
 source: xml
 outdated: false
 ---
-
-Gets registered language identities.

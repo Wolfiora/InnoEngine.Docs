@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve a named artifact output.
-
 ## Parameters
 
 **Parameter `persistentId`:** The artifact owner identity.

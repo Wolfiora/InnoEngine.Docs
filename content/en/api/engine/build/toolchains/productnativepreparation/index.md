@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Transfers completed native preparation across private task loads using neutral data and independent consumer leases.

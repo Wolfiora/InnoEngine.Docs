@@ -13,5 +13,3 @@ reviewed: b00133a37a90ecd181102c148b25cb7fcf8942b885429a04b66b814f7802a381
 source: xml
 outdated: false
 ---
-
-Selects the window border size presentation behavior.

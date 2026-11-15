@@ -13,5 +13,3 @@ reviewed: 0e0639a52ee57119571d4c0bc809b5c64adaa3c1d79947ba217ba866642ff850
 source: xml
 outdated: false
 ---
-
-Releases the pinned converter generation and every collectible type reference owned by this lease.

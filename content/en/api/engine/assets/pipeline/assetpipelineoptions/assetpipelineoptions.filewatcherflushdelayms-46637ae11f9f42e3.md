@@ -13,5 +13,3 @@ reviewed: c5559bcab5befa47142964e71ab34b6967c476282f6745c524f2386ec491cb42
 source: xml
 outdated: false
 ---
-
-Gets the watcher change coalescing delay in milliseconds.

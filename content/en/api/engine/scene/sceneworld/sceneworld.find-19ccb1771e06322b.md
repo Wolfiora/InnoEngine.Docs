@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves a live scene object by its persistent identity within this world.
-
 ## Type parameters
 
 **Type parameter `TObject`:** The required scene object contract.

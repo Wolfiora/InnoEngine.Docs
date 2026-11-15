@@ -13,5 +13,3 @@ reviewed: 82e7fa3abd835c7e7f7dc1ed4da06f04e3a8320916f2f64578140655ea9d453e
 source: xml
 outdated: false
 ---
-
-Selects the nav windowing dim bg presentation behavior.

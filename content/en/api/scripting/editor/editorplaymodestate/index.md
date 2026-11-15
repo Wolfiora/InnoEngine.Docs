@@ -18,5 +18,3 @@ contracts:
 - project.inno-editor-playmode
 aliases: []
 ---
-
-Identifies the current relationship between editor documents and game simulation.

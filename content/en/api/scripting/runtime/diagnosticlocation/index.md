@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---
-
-Identifies an optional source location associated with a diagnostic.

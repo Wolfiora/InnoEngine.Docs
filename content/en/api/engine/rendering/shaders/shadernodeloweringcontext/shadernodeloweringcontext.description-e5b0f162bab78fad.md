@@ -13,5 +13,3 @@ reviewed: 29232675cbb98b018c943fc619dd9d89ae88cadd6b799a10be7476a3ebfeb4ec
 source: xml
 outdated: false
 ---
-
-Gets the invocation-scoped node description.

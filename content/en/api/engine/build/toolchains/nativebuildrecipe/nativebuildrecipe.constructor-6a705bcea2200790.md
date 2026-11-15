@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete recipe without inferring implementation identity from an assembly MVID.
-
 ## Parameters
 
 **Parameter `owner`:** The explicit component descriptor identifying source and intermediate owners.

@@ -13,5 +13,3 @@ reviewed: d8118e2ae7b7563a817938d16617ad8e43293a18f034231d3baf9c015c64655e
 source: xml
 outdated: false
 ---
-
-Gets the binding domain.

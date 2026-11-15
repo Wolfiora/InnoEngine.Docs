@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances fixed-step callbacks in bottom-to-top stack order.
-
 ## Parameters
 
 **Parameter `fixedDeltaTime`:** The fixed simulation interval in seconds.

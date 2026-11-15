@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the hierarchy index of a loaded scene.
-
 ## Parameters
 
 **Parameter `scene`:** The loaded scene to locate.

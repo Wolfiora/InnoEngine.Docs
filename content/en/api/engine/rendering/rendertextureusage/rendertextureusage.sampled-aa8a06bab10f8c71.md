@@ -13,5 +13,3 @@ reviewed: 12f0986a8f17793abd627d4abd6beaae42cbdb461471a6ef42f64f258d9a7d85
 source: xml
 outdated: false
 ---
-
-Shader-readable texture.

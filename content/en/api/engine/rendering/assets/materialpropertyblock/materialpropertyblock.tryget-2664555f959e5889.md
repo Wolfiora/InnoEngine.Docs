@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to read one frame-local override.
-
 ## Parameters
 
 **Parameter `id`:** Stable shader property identifier.

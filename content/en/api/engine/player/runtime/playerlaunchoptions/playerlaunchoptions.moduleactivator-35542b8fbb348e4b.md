@@ -13,5 +13,3 @@ reviewed: 6cd1c7579f8d0f651252f5dd7bcf66c5d3e0113542d5bfa8ad36f564ddb21854
 source: xml
 outdated: false
 ---
-
-Gets the strategy that activates the frozen deployment's managed modules.

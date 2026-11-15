@@ -13,5 +13,3 @@ reviewed: ab0e2498aa9b8d5c5b2aa62e5e8637023fdda0dc5d90a26f277ff59fc0700efb
 source: xml
 outdated: false
 ---
-
-IsItemHovered() only: Disable shared delay system where moving from one item to the next keeps the previous timer for a short time (standard for tooltips with long delays)

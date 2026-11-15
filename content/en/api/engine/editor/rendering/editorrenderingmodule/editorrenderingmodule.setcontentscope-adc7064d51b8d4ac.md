@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Sets the explicit ordered host content visible to one Editor viewport.
-
 ## Parameters
 
 **Parameter `viewportId`:** Stable panel viewport identity.

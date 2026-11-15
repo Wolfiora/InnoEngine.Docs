@@ -13,5 +13,3 @@ reviewed: 2e873e5d29274a9f76fdbaa83f84eb19a857e22cce3de6342b0a4c690da336dc
 source: xml
 outdated: false
 ---
-
-Gets whether this retained endpoint currently lacks an implementation.

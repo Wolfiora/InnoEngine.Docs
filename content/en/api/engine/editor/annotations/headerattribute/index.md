@@ -16,5 +16,3 @@ contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---
-
-Starts a visually separated Inspector section before the annotated property.

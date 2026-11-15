@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the active font line height without spacing.
-
 ## Returns
 
 A copied value from the active presentation context.

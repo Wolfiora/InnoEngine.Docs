@@ -13,5 +13,3 @@ reviewed: d0497968c0801649b2bce152315ffb8baff1fa45bfe60927852bc4f6080ba0b2
 source: xml
 outdated: false
 ---
-
-Gets the monotonic audio clock in seconds.

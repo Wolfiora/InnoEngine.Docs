@@ -13,5 +13,3 @@ reviewed: 014ac0fc3c93bfe23641188baf08a7080003547182e4fce4b92bd6c0fea57dbe
 source: xml
 outdated: false
 ---
-
-Gets whether a provider or restored panel state initialized this state.

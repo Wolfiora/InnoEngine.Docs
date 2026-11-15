@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-rendering
 aliases: []
 ---
-
-Bridges editor extensions to a host-owned render request sink and opaque texture presenter.

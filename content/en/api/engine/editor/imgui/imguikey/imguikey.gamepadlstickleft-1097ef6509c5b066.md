@@ -13,5 +13,3 @@ reviewed: 1bfc6d8e5419c0a85f75ea99747feef6a2d478c89748a02cb4daeb1f84f5ad0e
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadLStickLeft presentation key or modifier.

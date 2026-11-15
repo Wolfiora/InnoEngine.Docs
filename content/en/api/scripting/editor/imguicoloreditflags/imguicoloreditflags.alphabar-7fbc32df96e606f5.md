@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-// ColorEdit, ColorPicker: show vertical alpha bar/gradient in picker.

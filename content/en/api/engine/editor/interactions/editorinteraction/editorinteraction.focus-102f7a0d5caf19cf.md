@@ -13,5 +13,3 @@ reviewed: fb8a56db3fb94810493a43f0d50a25368b5ab689b48c0ce697631c7dfcad1ce2
 source: xml
 outdated: false
 ---
-
-Marks this area and target as the active keyboard context.

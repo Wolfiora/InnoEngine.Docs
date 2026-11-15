@@ -13,5 +13,3 @@ reviewed: 40a2b2b190ed206f730f82e16eecbf663931ba08cda3ea6f31a4bd89305af954
 source: xml
 outdated: false
 ---
-
-Gets the complete aggregate install directory, or null for individually published products.

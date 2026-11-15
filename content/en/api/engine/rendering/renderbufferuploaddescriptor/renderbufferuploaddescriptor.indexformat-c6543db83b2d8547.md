@@ -13,5 +13,3 @@ reviewed: a8dc56cc3363f79486b915b86c4ab8aaa5790404ec08971486746842b14d65a4
 source: xml
 outdated: false
 ---
-
-Gets the index representation when index usage is present.

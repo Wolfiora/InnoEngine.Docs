@@ -13,5 +13,3 @@ reviewed: 0fc3d16dbf8000cfee66950298bc9419241e17658ab56b53a7802e1ef5161d3b
 source: xml
 outdated: false
 ---
-
-Disable clipping rectangle for every individual columns (reduce draw command count, items will be able to overflow into other columns). Generally incompatible with TableSetupScrollFreeze().

@@ -13,5 +13,3 @@ reviewed: b0fa37c5d5013512e7a4ddf81c104d3ade25361448e355e35970e14e28cc666f
 source: xml
 outdated: false
 ---
-
-Ends the current table.

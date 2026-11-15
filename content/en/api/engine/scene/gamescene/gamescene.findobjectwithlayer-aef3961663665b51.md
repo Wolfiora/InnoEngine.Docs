@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Finds the first game object assigned to a layer in scene storage order.
-
 ## Parameters
 
 **Parameter `layer`:** The layer slot to find.

@@ -13,5 +13,3 @@ reviewed: c65cbf5671eec0477843324e8bb8c4fc4ff8263e1b08bd9be6c2b3b6524fdb71
 source: xml
 outdated: false
 ---
-
-Gets the stable target cache key.

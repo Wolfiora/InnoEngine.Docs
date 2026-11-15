@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two reference keys are equal.
-
 ## Parameters
 
 **Parameter `left`:** The first key.

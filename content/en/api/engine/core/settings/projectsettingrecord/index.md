@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
-
-Stores one protocol-owned neutral setting contribution for persistence and composition.

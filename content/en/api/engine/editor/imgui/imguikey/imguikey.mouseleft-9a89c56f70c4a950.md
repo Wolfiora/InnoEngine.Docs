@@ -13,5 +13,3 @@ reviewed: 3045ebdc29501f3200f46f4054597ff877803841af0fe828679df4bd77b0a1ed
 source: xml
 outdated: false
 ---
-
-Identifies the MouseLeft presentation key or modifier.

@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates one independent UI context.
-
 ## Parameters
 
 **Parameter `options`:** The validated configuration that controls this operation.

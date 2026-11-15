@@ -13,5 +13,3 @@ reviewed: c0ba1fd080321b212045eaf40ca98c415add3dbb4ce3861bd7212b5d818a10e3
 source: xml
 outdated: false
 ---
-
-Gets the command encoder scoped to the current pass.

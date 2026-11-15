@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves this reference against one catalog's active immutable generation.
-
 ## Parameters
 
 **Parameter `catalog`:** The catalog that owns the required type generation.

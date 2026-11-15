@@ -13,5 +13,3 @@ reviewed: b9e60b306675bd66033aaa2248c234c2bafe3b2f54d4052ed58eac977ea0d429
 source: xml
 outdated: false
 ---
-
-Gets the open processor protocol identifier.

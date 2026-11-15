@@ -13,5 +13,3 @@ reviewed: 3d834a13e7200aa73d00a9c6c4ba1fa006768b1859601d64ac1e1be843c5fecd
 source: xml
 outdated: false
 ---
-
-Gets the explicitly exported functions available to graph source-function nodes.

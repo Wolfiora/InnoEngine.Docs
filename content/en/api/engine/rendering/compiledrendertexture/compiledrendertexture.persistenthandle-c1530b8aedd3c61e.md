@@ -13,5 +13,3 @@ reviewed: 99f101353f42a600f4752e5b309ca073b9242f4a6a59b19f55bad8558b3bd73b
 source: xml
 outdated: false
 ---
-
-Gets the persistent device texture for imported resources.

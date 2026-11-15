@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Reads the current engine-owned compilation description from a selected native output.
-
 ## Parameters
 
 **Parameter `nativeDirectory`:** The complete selected generation's native directory.

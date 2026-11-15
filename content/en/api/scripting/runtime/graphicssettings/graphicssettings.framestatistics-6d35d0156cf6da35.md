@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets statistics for the last completed frame, or `null` before the first frame.

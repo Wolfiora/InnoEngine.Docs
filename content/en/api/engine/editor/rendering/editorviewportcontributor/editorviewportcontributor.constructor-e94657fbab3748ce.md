@@ -13,5 +13,3 @@ reviewed: 9107f5ba7e429c3442f8bdf6e7c2d0a54ed40f376a4c031f161c466009e124fe
 source: xml
 outdated: false
 ---
-
-Creates a parameterless reloadable viewport contributor.

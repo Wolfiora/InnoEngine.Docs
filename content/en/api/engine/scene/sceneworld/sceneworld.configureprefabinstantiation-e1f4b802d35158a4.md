@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds the session-owned serialization and asset generations used by scene prefab instances.
-
 ## Parameters
 
 **Parameter `serialization`:** The active serialization registry for this session.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Presents the backend-independent editor interaction runtime through ImGui.

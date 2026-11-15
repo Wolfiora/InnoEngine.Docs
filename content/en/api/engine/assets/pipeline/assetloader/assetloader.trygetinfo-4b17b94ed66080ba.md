@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Tries to get a catalog snapshot by isolated source path.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

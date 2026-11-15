@@ -13,5 +13,3 @@ reviewed: 804608037ded6de4a0cb42579d1ce38299ff54961ca5fcca55ca9bb63eea7bc2
 source: xml
 outdated: false
 ---
-
-The transparent value used as part of this type's public representation.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Freezes automatic extension-state persistence and writes the final state before modules begin shutting down.
-
 ## Remarks
 
 This operation is idempotent. After it succeeds, later disposal cannot recapture transient teardown state such as an empty scene workspace.

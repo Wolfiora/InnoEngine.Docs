@@ -13,5 +13,3 @@ reviewed: c473e2d50c643d868b1198d62fdca3f8c15e88092a1f9cdc0fdcca817b5d7520
 source: xml
 outdated: false
 ---
-
-Gets the backend-owned dependency transformation, or null for an independent source recipe. The supplied products are borrowed only during recipe construction.

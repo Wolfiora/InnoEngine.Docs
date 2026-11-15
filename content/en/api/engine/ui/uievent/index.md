@@ -16,5 +16,3 @@ contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []
 ---
-
-Describes one queued document event after a context update.

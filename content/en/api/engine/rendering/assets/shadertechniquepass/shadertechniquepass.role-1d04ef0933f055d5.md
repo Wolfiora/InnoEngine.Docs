@@ -13,5 +13,3 @@ reviewed: 2dc5cfb093fca694018baac3cd0b1b2de98c9766b664fef1ee7b04272d4551ef
 source: xml
 outdated: false
 ---
-
-Gets or sets the provider-defined role.

@@ -13,5 +13,3 @@ reviewed: be76ba09adb459341b94bff12939027f858c08ee7a6a0c3ec072fe7bc89696a4
 source: xml
 outdated: false
 ---
-
-Asynchronous texture transfer from GPU memory to CPU-visible bytes.

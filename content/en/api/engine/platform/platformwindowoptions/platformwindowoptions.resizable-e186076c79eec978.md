@@ -13,5 +13,3 @@ reviewed: e0b2fc9c2c9d0623cdf1128bbf0b9700130ec4a6903265bdfece8f28c78bcd2c
 source: xml
 outdated: false
 ---
-
-Gets whether the window is user-resizable.

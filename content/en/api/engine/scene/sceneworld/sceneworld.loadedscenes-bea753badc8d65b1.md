@@ -13,5 +13,3 @@ reviewed: a4ee2733f8bac1417ef9156bc74a9f4338d42e380125a8f07385d1c36837177d
 source: xml
 outdated: false
 ---
-
-Gets an immutable snapshot of loaded scenes in hierarchy order.

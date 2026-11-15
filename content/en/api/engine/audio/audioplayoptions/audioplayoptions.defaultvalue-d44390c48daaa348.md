@@ -13,5 +13,3 @@ reviewed: e68e31beec2558d2359f3011fd41bbebe0a004cd81bce704c2097e7652cc3077
 source: xml
 outdated: false
 ---
-
-Gets the default playback parameters.

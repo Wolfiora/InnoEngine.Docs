@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether two values identify the same owner slot.
-
 ## Parameters
 
 **Parameter `other`:** The key to compare with this value.

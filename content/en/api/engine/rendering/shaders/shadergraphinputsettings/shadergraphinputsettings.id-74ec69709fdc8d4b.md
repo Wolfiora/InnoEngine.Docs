@@ -13,5 +13,3 @@ reviewed: 4d9ad131ad2b0982a5fcebc31ed1adda9f0bb8a8179837cd15ca55be33841333
 source: xml
 outdated: false
 ---
-
-Gets or sets the stable logical binding identity.

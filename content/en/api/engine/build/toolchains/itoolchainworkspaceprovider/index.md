@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Owns the relationship between physical build storage and host tool execution paths.

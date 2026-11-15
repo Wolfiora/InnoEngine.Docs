@@ -13,5 +13,3 @@ reviewed: 099882e13df9e1443f32efe3bf02bc161978efde05e2b37ddf45d802d2da4830
 source: xml
 outdated: false
 ---
-
-Gets the selection revision, incremented only when membership, order or resolved generation changes.

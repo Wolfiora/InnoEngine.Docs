@@ -13,5 +13,3 @@ reviewed: d09da54a3fb912248243f5df69c12dfe9120b04637adc80f32bae22e771b6906
 source: xml
 outdated: false
 ---
-
-Selects the scrollbar size presentation behavior.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets the reference for a CLR type in this snapshot.
-
 ## Returns
 
 The logical and generation-local identity of `type`.

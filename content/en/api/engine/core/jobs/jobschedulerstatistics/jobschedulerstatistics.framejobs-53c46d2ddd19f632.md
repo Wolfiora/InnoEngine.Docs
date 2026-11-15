@@ -13,5 +13,3 @@ reviewed: ebc5948c1e9896bb5dc868f62bfca71d3a7bd177069b586c68dab6a83a708c95
 source: xml
 outdated: false
 ---
-
-Gets jobs admitted in the current frame, including completed jobs awaiting EndFrame.

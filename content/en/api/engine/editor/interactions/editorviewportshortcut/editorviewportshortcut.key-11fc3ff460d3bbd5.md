@@ -13,5 +13,3 @@ reviewed: e87b6089688c00106c7cef3e42a6f972f5a3a898d881f8ac623e807c40e303fc
 source: xml
 outdated: false
 ---
-
-Gets the pressed key.

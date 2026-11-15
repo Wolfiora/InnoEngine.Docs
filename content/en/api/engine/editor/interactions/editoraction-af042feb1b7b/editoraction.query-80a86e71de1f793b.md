@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Evaluates the operation's current availability and presentation state.
-
 ## Returns
 
 The validated editor action state that represents the completed operation.

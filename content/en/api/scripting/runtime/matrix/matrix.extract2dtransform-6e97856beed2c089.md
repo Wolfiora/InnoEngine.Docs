@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Extracts the 2D-affine portion of a matrix (XY basis + XY translation).
-
 ## Parameters
 
 **Parameter `m`:** Source matrix.

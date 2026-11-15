@@ -13,5 +13,3 @@ reviewed: ec59d6c33102f27261194062eceff2ece1e7480273e688e9243cc349c39957c6
 source: xml
 outdated: false
 ---
-
-Gets the most recent successfully imported artifact key.

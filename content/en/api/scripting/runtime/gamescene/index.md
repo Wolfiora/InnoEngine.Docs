@@ -18,5 +18,3 @@ contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []
 ---
-
-Owns a runtime scene, including its objects, components, hierarchy, and systems.

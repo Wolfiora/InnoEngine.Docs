@@ -16,5 +16,3 @@ contracts:
 - project.inno-build
 aliases: []
 ---
-
-Supplies an isolated staging layout to a replaceable platform packager.

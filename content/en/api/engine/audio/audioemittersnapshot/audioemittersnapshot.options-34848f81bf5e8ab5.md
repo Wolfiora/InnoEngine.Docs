@@ -13,5 +13,3 @@ reviewed: 561020f3831e7bb562ab973f6a46da8a07f944cc315225f014cd6511f313b87e
 source: xml
 outdated: false
 ---
-
-Gets current playback and spatial parameters.

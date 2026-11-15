@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Produces frame output owned by this subsystem.
-
 ## Parameters
 
 **Parameter `frame`:** The immutable variable-frame state.

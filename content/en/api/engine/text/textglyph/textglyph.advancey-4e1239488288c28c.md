@@ -13,5 +13,3 @@ reviewed: 453a075c6ce1d8257e98a2c33452dd4958c181656dd47a4bf30a8845813d3bed
 source: xml
 outdated: false
 ---
-
-The vertical pen advance in logical pixels, including backend-applied letter spacing.

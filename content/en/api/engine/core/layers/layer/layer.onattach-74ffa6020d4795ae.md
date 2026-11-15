@@ -13,5 +13,3 @@ reviewed: 8561ee715911fa01985f580501485ab870969341169984ee7bbf986fb9d9c1bd
 source: xml
 outdated: false
 ---
-
-Runs after the layer has received its event scope and joined a stack.

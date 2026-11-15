@@ -13,5 +13,3 @@ reviewed: a834508931ebf6e2d12bee6948b253917da5325c84c65d06107065345c979c1a
 source: xml
 outdated: false
 ---
-
-Gets the supported OpenType source extensions.

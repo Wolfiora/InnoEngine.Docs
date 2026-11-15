@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a shader pass definition.
-
 ## Parameters
 
 **Parameter `name`:** Stable pass name within the shader.

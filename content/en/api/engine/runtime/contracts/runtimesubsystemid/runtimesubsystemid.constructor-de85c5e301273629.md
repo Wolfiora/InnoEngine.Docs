@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a stable runtime subsystem identifier.
-
 ## Parameters
 
 **Parameter `value`:** The non-empty protocol identifier.

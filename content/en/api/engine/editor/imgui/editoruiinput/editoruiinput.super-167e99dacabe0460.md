@@ -13,5 +13,3 @@ reviewed: c7577b118f3602e93b48093839eb7f6a74c672d14fe1254b26696f6618566038
 source: xml
 outdated: false
 ---
-
-Gets whether the physical Super modifier is held, independently of native shortcut conventions.

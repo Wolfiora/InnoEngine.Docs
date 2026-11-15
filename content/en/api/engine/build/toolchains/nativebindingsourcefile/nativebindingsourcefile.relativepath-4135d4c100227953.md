@@ -13,5 +13,3 @@ reviewed: e63a221f54b953548b5d58625b187fe44f8e1ff71c25de97fdf1d3e1ecfb9669
 source: xml
 outdated: false
 ---
-
-The portable root-relative filename.

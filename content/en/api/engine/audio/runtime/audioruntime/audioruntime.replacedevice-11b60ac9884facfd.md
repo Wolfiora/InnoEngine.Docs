@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Replaces a lost or muted backend at a main-thread safety point.
-
 ## Parameters
 
 **Parameter `replacement`:** Initialized replacement device, consumed on success and disposed if preparation fails.

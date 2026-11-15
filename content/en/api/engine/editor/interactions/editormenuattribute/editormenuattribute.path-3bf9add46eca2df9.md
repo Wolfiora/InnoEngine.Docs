@@ -13,5 +13,3 @@ reviewed: 7f831698d4ac1a9608970461a4acdd214eb398e86247c868bb5b1c0bceddfee6
 source: xml
 outdated: false
 ---
-
-Gets the slash-delimited menu path.

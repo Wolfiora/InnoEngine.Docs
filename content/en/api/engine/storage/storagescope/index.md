@@ -16,5 +16,3 @@ contracts:
 - project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---
-
-Identifies an application data namespace independently of its physical storage location.

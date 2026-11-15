@@ -13,5 +13,3 @@ reviewed: 80da049f29efed846ebb46cfd2cc45827b1fae45f1bfccdf585f5254fc1a4d32
 source: xml
 outdated: false
 ---
-
-Gets the zero-based component/member/element ordinal for an Extract instruction.

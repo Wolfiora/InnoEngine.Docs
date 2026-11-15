@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies the host and framework identities provided by the generated platform composition.
-
 ## Parameters
 
 **Parameter `assemblies`:** The complete statically linked Inno host closure.

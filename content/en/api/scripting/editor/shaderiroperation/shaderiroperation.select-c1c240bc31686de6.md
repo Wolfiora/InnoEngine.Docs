@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Selects between equal types using a scalar Boolean; it does not introduce control flow.

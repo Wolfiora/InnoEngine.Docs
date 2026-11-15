@@ -13,5 +13,3 @@ reviewed: 45aa84002563a419be3f04aca15db4132d0f4345ed51638c7b04b5fa2f3658bb
 source: xml
 outdated: false
 ---
-
-When text doesn't fit, elide left side to ensure right side stays visible. Useful for path/filenames. Single-line only!

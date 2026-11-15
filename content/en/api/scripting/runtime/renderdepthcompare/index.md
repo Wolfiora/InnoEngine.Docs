@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering
 aliases: []
 ---
-
-Selects depth comparison for a backend-neutral raster pipeline.

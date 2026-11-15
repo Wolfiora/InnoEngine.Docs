@@ -13,5 +13,3 @@ reviewed: 5dad7c168ff6fadc52113dba1b06bf4753644c14426d75452433c2a5f592b925
 source: xml
 outdated: false
 ---
-
-Gets the completed build-owned publication directory.

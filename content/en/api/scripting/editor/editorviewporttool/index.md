@@ -18,5 +18,3 @@ contracts:
 - manual.scripting.use-script-api
 aliases: []
 ---
-
-Defines one presentation-independent, reloadable viewport editing tool.

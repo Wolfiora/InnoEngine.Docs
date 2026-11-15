@@ -13,5 +13,3 @@ reviewed: 05ee25f156a0b09dd2eb73573ab99fca2705fcc048b6e119c834e769b32425cc
 source: xml
 outdated: false
 ---
-
-Gets or sets the compiled file inside an owned Outputs subdirectory. Its parent artifact directory is validated and atomically published with a content manifest.

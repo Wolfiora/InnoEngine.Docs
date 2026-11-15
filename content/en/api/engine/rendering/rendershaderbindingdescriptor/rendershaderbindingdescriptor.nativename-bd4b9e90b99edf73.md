@@ -13,5 +13,3 @@ reviewed: 19c0e742b36f24ccba086a5e7729bacb8ef770179fc25c83d3e462829c050107
 source: xml
 outdated: false
 ---
-
-Gets the exact adapter-generated symbol used only for reflection and native resource creation.

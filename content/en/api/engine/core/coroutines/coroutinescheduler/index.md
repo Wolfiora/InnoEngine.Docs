@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 aliases: []
 ---
-
-Serializes coroutine execution and owns reverse-order retirement of admitted enumerators.

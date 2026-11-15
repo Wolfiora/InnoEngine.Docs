@@ -13,5 +13,3 @@ reviewed: b078a63bd0446b819461233fd4db108de224d97e90a74ee9e87acecb0a826c61
 source: xml
 outdated: false
 ---
-
-Gets the optional artist-facing node name.

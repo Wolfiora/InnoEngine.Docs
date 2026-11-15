@@ -13,5 +13,3 @@ reviewed: 18174c1f36c1adf86ddc8aa3776a9fb83ef8dd192d2ee2e22bb6a229b570f7b2
 source: xml
 outdated: false
 ---
-
-Gets the blue channel.

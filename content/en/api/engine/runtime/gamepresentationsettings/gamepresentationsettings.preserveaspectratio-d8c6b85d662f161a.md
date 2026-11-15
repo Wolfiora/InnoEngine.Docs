@@ -13,5 +13,3 @@ reviewed: c4d22b7a159e303b92b868bd4d236a198b213783162db603a2025bebf215e85d
 source: xml
 outdated: false
 ---
-
-Gets or sets whether the complete reference frame is fitted inside the available surface.

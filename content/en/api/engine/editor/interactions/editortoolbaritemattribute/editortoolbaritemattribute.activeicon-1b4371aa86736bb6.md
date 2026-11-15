@@ -13,5 +13,3 @@ reviewed: f7ce5ae9d0f84ad4ee24f4e2b9f9cedbb75c15914bbc9fe2d51b36d8f5b746da
 source: xml
 outdated: false
 ---
-
-Gets the optional replacement symbol shown while the action is checked.

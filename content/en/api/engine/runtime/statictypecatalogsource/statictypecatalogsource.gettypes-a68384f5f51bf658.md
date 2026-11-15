@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the complete type set without publishing a partial generation.
-
 ## Parameters
 
 **Parameter `assembly`:** An assembly owned by the candidate module catalog.

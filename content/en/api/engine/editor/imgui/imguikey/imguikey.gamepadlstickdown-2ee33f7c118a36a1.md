@@ -13,5 +13,3 @@ reviewed: 9e600eb92a7617b51e77c7d11793f26e8e2360f31e94046e47ecc6bea8cc66ce
 source: xml
 outdated: false
 ---
-
-Identifies the GamepadLStickDown presentation key or modifier.

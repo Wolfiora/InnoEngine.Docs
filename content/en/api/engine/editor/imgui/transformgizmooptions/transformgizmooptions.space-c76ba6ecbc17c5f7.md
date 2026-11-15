@@ -13,5 +13,3 @@ reviewed: 2c90ba3a4cef05d44cc7d998a70b52f8927383f33cb341d3af651a75df57935c
 source: xml
 outdated: false
 ---
-
-Gets the handle coordinate space.

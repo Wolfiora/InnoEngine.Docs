@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores a detached native value using current-generation asset references.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Native asset source type.

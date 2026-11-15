@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable mixer bus definition.
-
 ## Parameters
 
 **Parameter `id`:** Stable bus identifier.

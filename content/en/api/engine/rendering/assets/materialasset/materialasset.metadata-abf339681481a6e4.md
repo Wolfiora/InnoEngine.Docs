@@ -13,5 +13,3 @@ reviewed: 6adb276064962187eeb0680e7395f305b8d45af252a0556ded361cdfc12fa27c
 source: xml
 outdated: false
 ---
-
-Gets open provider-defined metadata.

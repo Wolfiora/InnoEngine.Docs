@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-inspection
 aliases: []
 ---
-
-Provides services and state to an inspector drawer.

@@ -13,5 +13,3 @@ reviewed: 660fabd5426086853944c8687c1c86c12bd0647d08c3d0d5090b8a39228ffad7
 source: xml
 outdated: false
 ---
-
-Gets the explicit default game target for new project build settings.

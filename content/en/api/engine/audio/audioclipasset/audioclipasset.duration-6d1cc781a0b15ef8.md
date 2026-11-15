@@ -13,5 +13,3 @@ reviewed: 6009f452d0e175ef880b8a9402254c9d6b66dd79987355ceaa67e615753be5a5
 source: xml
 outdated: false
 ---
-
-Gets the imported clip duration, or zero before runtime content is loaded.

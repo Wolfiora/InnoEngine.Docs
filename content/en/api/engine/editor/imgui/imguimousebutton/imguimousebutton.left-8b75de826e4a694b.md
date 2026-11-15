@@ -13,5 +13,3 @@ reviewed: 6441af44195bd3e74fbe6782feb1a402ac901dff1fb0d3c3f9148715ddea7630
 source: xml
 outdated: false
 ---
-
-Selects the left presentation behavior.

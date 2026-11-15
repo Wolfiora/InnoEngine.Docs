@@ -13,5 +13,3 @@ reviewed: ef61dcf5aebe24256de33d529440de1f04bde04ce1d34d8ece3a72f7e9d64baa
 source: xml
 outdated: false
 ---
-
-Gets the inclusive lower bound.

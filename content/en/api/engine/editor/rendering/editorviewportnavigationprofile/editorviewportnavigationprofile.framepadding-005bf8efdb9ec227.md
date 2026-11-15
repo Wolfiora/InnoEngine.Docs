@@ -13,5 +13,3 @@ reviewed: 2626c421523dafff165a01aa6619654cccd259b881bc5af6bc1e8048d2bc33bc
 source: xml
 outdated: false
 ---
-
-Gets or sets additional framing space around selection bounds.

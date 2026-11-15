@@ -13,5 +13,3 @@ reviewed: 8dbd56dd636f219e0a47b9f27de636f83a5b7a30c6ff0ac09fa8e45ea4117b98
 source: xml
 outdated: false
 ---
-
-Gets whether the current asynchronous execution context is bound to an allocator.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-composition
 aliases: []
 ---
-
-Binds a product's immutable graph to its platform-selected execution strategy.

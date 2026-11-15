@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to dequeue the next backend-neutral platform event.
-
 ## Parameters
 
 **Parameter `evnt`:** The translated event when one is available; otherwise, `null`.

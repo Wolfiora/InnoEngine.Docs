@@ -13,5 +13,3 @@ reviewed: 478c1609ce90a3c2ff87265616125edc4c37db4d8626d4683f99defe742f73df
 source: xml
 outdated: false
 ---
-
-Gets the managed publisher selected when the profile does not specify an override.

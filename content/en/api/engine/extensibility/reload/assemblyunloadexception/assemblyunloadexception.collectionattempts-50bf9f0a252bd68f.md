@@ -13,5 +13,3 @@ reviewed: 135ffdd460497a2f945a7b0a10c5acdce82d1ed58d85d33348dad1b2f7d95af3
 source: xml
 outdated: false
 ---
-
-Gets the number of full collection cycles performed before failure.

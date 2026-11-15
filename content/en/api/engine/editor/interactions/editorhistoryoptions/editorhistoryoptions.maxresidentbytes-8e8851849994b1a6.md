@@ -13,5 +13,3 @@ reviewed: 97e14a91e09ddcc5e26def3f5ddbfe6cbfbc6239cb90079b90c5db61240fe39c
 source: xml
 outdated: false
 ---
-
-Gets or initializes the maximum estimated resident payload bytes retained by the history.

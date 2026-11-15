@@ -13,5 +13,3 @@ reviewed: bc79431a4dde3538dfb1da6bac3ca8c47ef0c938c625ff4842f9c4709e56e441
 source: xml
 outdated: false
 ---
-
-Fragment shaders may write depth explicitly.

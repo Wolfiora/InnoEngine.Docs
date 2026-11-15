@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-tasks
 aliases: []
 ---
-
-Connects explicit product builds and publication to their target-native closure and exact deployment.

@@ -13,5 +13,3 @@ reviewed: 55ba29ee93b565606830ee3b79297f41fb35a55040f3bedecc8d9c07411f4aa3
 source: xml
 outdated: false
 ---
-
-Gets the vertical bearing in pixels.

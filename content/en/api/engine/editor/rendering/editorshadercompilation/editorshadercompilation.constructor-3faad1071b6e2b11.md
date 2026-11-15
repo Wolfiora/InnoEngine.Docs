@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Pairs the authoring artifact owner with active-device validation at frame safety points.
-
 ## Parameters
 
 **Parameter `provider`:** Host-owned shader compilation service.

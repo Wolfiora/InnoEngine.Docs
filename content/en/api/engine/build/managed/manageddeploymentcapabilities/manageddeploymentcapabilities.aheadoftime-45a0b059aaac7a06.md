@@ -13,5 +13,3 @@ reviewed: 1af1af8fe699213720331552b534d96ec7eccae32493ac0a849935f3032a486a
 source: xml
 outdated: false
 ---
-
-Gets whether managed code is compiled ahead of runtime execution.

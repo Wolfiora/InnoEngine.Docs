@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Converts degrees to radians.
-
 ## Returns
 
 The angle in radians.

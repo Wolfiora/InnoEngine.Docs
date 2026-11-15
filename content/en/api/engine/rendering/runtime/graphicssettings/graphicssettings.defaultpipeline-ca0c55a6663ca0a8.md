@@ -13,5 +13,3 @@ reviewed: 56fdea883e9f107969a5a6fadf653eb181e28c65b9d57c60fdd6f83653d3073e
 source: xml
 outdated: false
 ---
-
-Gets or sets the project default pipeline used by requests without an override.

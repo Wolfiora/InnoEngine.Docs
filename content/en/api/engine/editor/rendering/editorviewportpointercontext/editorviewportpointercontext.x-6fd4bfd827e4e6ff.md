@@ -13,5 +13,3 @@ reviewed: 89f0fc0d6735023d28a35e92cc8711fde6c3268027b4c309dfa73f3d8b13d60e
 source: xml
 outdated: false
 ---
-
-Gets normalized horizontal pointer position.

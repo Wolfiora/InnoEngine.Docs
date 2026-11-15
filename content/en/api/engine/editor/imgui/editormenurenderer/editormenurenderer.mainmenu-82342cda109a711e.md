@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws the complete editor main menu bar for the supplied menu context.
-
 ## Parameters
 
 **Parameter `interaction`:** The main-menu interaction area.

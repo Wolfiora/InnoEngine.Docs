@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-One world item supplied to a rendering model without choosing its sort policy.

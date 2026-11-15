@@ -13,5 +13,3 @@ reviewed: eec17f3d3ee08f5e858d5d0ffbc75070b98ad4c76031b4250be7857e796714f6
 source: xml
 outdated: false
 ---
-
-Do not consider popup hierarchy (do not treat popup emitter as parent of popup) (when used with \_ChildWindows or \_RootWindow)

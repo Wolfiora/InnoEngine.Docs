@@ -13,5 +13,3 @@ reviewed: 33658d81fe56fd6dcd0587721456de3878aa558e27dbaa29d415f61ed9366c8d
 source: xml
 outdated: false
 ---
-
-Selects the resize all presentation behavior.

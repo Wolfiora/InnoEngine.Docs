@@ -13,5 +13,3 @@ reviewed: edb62ce8ee93e02de35664c4652e8f30ec2298e5f24a4422fc64e89e528b0b85
 source: xml
 outdated: false
 ---
-
-Gets the open stable implementation identity.

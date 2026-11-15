@@ -13,5 +13,3 @@ reviewed: 2d4a07d4da62f8c2c37cc3dcb31ab6474d54527bf62b961ac9290b8ad51efa07
 source: xml
 outdated: false
 ---
-
-Gets whether no further state transition is valid for this request.

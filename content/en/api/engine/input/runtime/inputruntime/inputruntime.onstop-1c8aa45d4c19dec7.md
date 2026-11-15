@@ -13,5 +13,3 @@ reviewed: c42195333d048c49dffbddb3b94b227fdb406072607de119d9137b9ec69ca604
 source: xml
 outdated: false
 ---
-
-Releases the input backend after its frame scope and owned work have quiesced.

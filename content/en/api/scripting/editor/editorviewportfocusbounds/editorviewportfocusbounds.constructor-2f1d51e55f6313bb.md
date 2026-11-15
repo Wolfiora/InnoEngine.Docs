@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a finite focus bound.
-
 ## Parameters
 
 **Parameter `center`:** World-space focus center.

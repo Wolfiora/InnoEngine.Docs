@@ -13,5 +13,3 @@ reviewed: 2cb27d0e83a731719fe18fa8250f080b5dd452071d11961505c6c58f9e76ef59
 source: xml
 outdated: false
 ---
-
-Gets the minimum modal size in unscaled editor units, or `P:System.Numerics.Vector2.Zero` when no explicit minimum is required.

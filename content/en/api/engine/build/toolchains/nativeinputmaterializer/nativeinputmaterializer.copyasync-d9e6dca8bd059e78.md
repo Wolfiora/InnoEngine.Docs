@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies a declared input atomically when its destination differs, preserving identical file timestamps.
-
 ## Parameters
 
 **Parameter `context`:** The operation whose initial source bytes and hashing statistics are shared across components.

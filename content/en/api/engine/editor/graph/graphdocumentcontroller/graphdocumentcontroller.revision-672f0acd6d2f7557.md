@@ -13,5 +13,3 @@ reviewed: 0668b11edb9d1e6a3d9c58c213324375db9a43f80325f1c4dfcae0ba76cab401
 source: xml
 outdated: false
 ---
-
-Gets the monotonic in-session content revision.

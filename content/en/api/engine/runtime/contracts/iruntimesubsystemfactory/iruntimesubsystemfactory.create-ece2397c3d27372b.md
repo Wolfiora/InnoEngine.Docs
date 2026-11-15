@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a subsystem owned exclusively by the supplied construction scope.
-
 ## Parameters
 
 **Parameter `context`:** Stable foundation services and a private factory lifetime. Register partial allocations and work here before callbacks can fail.

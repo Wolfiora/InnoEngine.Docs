@@ -13,5 +13,3 @@ reviewed: 9b5b6d778f83725d3719b4bf17a2a83e24ea01b35f7473294160ee50d91f2cf1
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute lock belonging to all writers of the shared restore graph. The lock file remains after release.

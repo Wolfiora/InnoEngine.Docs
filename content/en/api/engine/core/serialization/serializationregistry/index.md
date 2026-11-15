@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Owns one generation-aware converter registry and provides deterministic root serialization operations.

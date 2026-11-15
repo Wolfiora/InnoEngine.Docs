@@ -13,5 +13,3 @@ reviewed: 56abae3286fec29165ba0543fdf6c1211fc9b3111921f3d41655a0deab1c799c
 source: xml
 outdated: false
 ---
-
-Contents may be replaced at frame safety points.

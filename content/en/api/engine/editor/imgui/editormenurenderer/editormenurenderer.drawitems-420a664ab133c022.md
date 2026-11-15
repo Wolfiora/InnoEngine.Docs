@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Recursively draws resolved menu nodes into the currently open popup or menu.
-
 ## Parameters
 
 **Parameter `interaction`:** The interaction used to resolve shortcuts and enqueue selected actions.

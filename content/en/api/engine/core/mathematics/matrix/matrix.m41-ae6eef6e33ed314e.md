@@ -13,5 +13,3 @@ reviewed: e1b7c918a7c71d370070d3d4ca8d32349b55d65d9cc29288a4c55b2a374924e1
 source: xml
 outdated: false
 ---
-
-Row 4, Column 1 (translation X component for affine transforms).

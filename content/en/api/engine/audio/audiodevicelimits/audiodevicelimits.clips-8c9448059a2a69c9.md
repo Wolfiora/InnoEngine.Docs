@@ -13,5 +13,3 @@ reviewed: f0225abfa7400a28ef885ad993f432d1d1e2e4e497379276561d8687f7dc1778
 source: xml
 outdated: false
 ---
-
-Gets the maximum retained clip count.

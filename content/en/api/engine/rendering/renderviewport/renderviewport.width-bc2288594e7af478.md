@@ -13,5 +13,3 @@ reviewed: a041be3c390dc96876382737048fd3d08683314794c85e127b8b8dbb962c4277
 source: xml
 outdated: false
 ---
-
-Gets the viewport width.

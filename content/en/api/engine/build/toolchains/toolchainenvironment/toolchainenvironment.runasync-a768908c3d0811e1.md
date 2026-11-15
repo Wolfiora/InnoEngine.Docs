@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a host-native process with the context's frozen compiler and SDK selection.
-
 ## Parameters
 
 **Parameter `context`:** A context resolved by NativeToolchainSelection before artifact fingerprinting.

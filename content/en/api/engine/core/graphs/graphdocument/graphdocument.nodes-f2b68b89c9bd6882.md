@@ -13,5 +13,3 @@ reviewed: 2b5cdc8760664c635f12f054b58c11c971dea5c02e3dc3f4761aa215d9e4b5e1
 source: xml
 outdated: false
 ---
-
-Gets all node records in stable document order.

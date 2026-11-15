@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Defines metadata shared by automatically discovered asset importers.

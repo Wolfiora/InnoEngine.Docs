@@ -13,5 +13,3 @@ reviewed: 1565916d884d86414fc3e46d551b689832d53eb23fbf38cce43b397009b7f32e
 source: xml
 outdated: false
 ---
-
-Identifies the L presentation key or modifier.

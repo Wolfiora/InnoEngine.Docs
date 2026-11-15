@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Serializes one asset's editable properties and direct asset dependencies.
-
 ## Type parameters
 
 **Type parameter `TAsset`:** Concrete asset source type.

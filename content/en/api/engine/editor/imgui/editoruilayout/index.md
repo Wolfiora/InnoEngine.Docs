@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-imgui
 aliases: []
 ---
-
-Copies the presentation metrics needed by custom layouts without retaining native style memory.

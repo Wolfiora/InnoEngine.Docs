@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a viewport model contribution.
-
 ## Parameters
 
 **Parameter `data`:** Pipeline-defined frame-only data.

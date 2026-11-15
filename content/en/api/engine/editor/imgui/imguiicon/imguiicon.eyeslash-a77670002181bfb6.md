@@ -13,5 +13,3 @@ reviewed: c7be6a8df71645ac130a29837b8455f9d6d68762200fcd4d6bf2cfe7a8bc4c38
 source: xml
 outdated: false
 ---
-
-Gets the eye slash glyph used by standard Editor controls.

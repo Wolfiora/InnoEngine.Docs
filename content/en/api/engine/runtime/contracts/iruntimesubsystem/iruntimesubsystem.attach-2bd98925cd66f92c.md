@@ -13,5 +13,3 @@ reviewed: 000395ec1db3114865111f3aa26149924c84b4f4e9fa0ba03fc6ffa46d99d5be
 source: xml
 outdated: false
 ---
-
-Acquires session resources after every dependency has attached.

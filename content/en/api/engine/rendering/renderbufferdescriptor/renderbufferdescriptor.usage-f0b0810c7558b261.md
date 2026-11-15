@@ -13,5 +13,3 @@ reviewed: 3adfd358b360d4a73ae40d9ba06936918889adc02924bcf252b28b67336f173d
 source: xml
 outdated: false
 ---
-
-Gets permitted operations.

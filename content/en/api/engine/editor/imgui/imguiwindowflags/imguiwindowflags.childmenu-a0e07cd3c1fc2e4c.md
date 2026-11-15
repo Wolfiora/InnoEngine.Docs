@@ -13,5 +13,3 @@ reviewed: d348ba16e319c36fb5680198eab2c14d6604628a378b45a984995a226590661e
 source: xml
 outdated: false
 ---
-
-Don't use! For internal use by BeginMenu()

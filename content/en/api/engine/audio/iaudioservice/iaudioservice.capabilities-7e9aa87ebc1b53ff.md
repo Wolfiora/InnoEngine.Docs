@@ -13,5 +13,3 @@ reviewed: 274bc521f43099d7417c5bccc95a2af5c8ee5f82b7e720cf6dd40f62fd655b4d
 source: xml
 outdated: false
 ---
-
-Gets immutable capabilities for the current device generation.

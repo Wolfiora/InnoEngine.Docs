@@ -13,5 +13,3 @@ reviewed: 628daced63db1e43a623e0302f65da5eb8fe353fc745659291e13dc84a561a26
 source: xml
 outdated: false
 ---
-
-Gets the Editor icon glyph to render.

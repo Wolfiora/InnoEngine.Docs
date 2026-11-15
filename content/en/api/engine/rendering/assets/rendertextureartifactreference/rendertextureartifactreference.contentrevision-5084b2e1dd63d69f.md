@@ -13,5 +13,3 @@ reviewed: 87890aef31833428137799a9ac8e5035251330c53c728fc8e46822b2199ceac6
 source: xml
 outdated: false
 ---
-
-Gets the committed owner content revision used for last-good replacement.

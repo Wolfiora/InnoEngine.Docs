@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a compiled shader artifact.
-
 ## Parameters
 
 **Parameter `shaderName`:** Artist-facing shader name.

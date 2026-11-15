@@ -13,5 +13,3 @@ reviewed: de8152094ff670657244e198217e3c69665f6bed2c69a74d09713a9183083f76
 source: xml
 outdated: false
 ---
-
-Stores one typed buffer element or formatted image texel in memory-effect order.

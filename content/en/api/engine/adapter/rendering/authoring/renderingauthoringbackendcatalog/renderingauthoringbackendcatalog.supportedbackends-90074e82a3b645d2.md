@@ -13,5 +13,3 @@ reviewed: fc05f9940f9d7a53a948e04cc43569b75b15ae3ab0b244fc93414a878410fdf7
 source: xml
 outdated: false
 ---
-
-Gets backend registrations available in this type generation.

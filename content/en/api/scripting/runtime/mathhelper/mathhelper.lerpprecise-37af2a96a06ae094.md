@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Linearly interpolates between two values. This method is a less efficient, more precise version of `M:MathHelper.Lerp(System.Single,System.Single,System.Single)`. See remarks for more info.
-
 ## Parameters
 
 **Parameter `value1`:** Source value.

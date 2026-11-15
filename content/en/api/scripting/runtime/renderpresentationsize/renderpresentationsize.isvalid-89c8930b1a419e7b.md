@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets whether both dimensions describe a real drawable extent; a default struct is invalid.

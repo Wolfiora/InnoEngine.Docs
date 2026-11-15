@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Formats this value as a human-readable component list.
-
 ## Returns
 
 The validated text representation owned by the caller.

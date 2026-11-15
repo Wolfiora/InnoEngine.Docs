@@ -13,5 +13,3 @@ reviewed: 861a207e663e9199498af13b020eb9f9b9a1968572e24b76de5cee00701fb713
 source: xml
 outdated: false
 ---
-
-Gets whether this object is active after parent hierarchy state is applied.

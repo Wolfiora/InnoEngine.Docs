@@ -13,5 +13,3 @@ reviewed: 5b0d352974cab9ecceea3fb3e27c1fa9b62d8d0d2f6585ee251f78307daa38c6
 source: xml
 outdated: false
 ---
-
-Gets the stable template identity used by creation commands.

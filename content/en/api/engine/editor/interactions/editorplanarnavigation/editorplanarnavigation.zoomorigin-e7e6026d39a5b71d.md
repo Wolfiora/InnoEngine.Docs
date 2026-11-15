@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes the screen-space origin so zoom preserves the same content point beneath the cursor.
-
 ## Parameters
 
 **Parameter `origin`:** Current logical-pixel content origin.

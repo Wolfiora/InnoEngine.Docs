@@ -13,5 +13,3 @@ reviewed: 8472186ac2c4a919eb7021520d259e8296f912f260363fc7e3b818334bf1e15b
 source: xml
 outdated: false
 ---
-
-Gets the local minimum corner.

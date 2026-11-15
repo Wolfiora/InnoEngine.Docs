@@ -13,5 +13,3 @@ reviewed: 2ecaa4bbf3302395b08ee5ea1e11e230feb0c5b94f69e09e85fcb475313ac2fb
 source: xml
 outdated: false
 ---
-
-Gets the build input's content fingerprint.

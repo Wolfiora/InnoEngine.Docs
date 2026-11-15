@@ -13,5 +13,3 @@ reviewed: cbdc066227415a9ff24d395c2b9122555f285bc8946cf1cf0634fe8b3399bffa
 source: xml
 outdated: false
 ---
-
-Gets the stable runtime implementation identity served by these tools.

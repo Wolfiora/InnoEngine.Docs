@@ -13,5 +13,3 @@ reviewed: 5858b038e9b83b061f65679e7cdde39ff68d1963962410f7876d79acd3f7bcf4
 source: xml
 outdated: false
 ---
-
-Selects the resize nwse presentation behavior.

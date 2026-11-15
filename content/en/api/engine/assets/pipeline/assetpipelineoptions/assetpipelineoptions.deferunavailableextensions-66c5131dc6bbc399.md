@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets whether the composition host must still publish its initial authoring extensions.
-
 ## Remarks
 
 Only missing extensions are deferred. The host must call AssetPipeline.CompleteExtensionDiscovery after activation.

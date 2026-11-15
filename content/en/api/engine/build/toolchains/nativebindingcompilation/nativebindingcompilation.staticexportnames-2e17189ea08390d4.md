@@ -13,5 +13,3 @@ reviewed: 19633389f253cf2f50c62cabd01d594013610040d5edada2aafcaaff8b4e37f7
 source: xml
 outdated: false
 ---
-
-Gets static table entries in address-resolution order.

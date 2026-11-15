@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Submits validated work to the active backend for ordered processing.
-
 ## Parameters
 
 **Parameter `request`:** The validated immutable request that defines this operation.

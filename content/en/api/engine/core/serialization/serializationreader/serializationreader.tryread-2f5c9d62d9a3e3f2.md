@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Attempts to read a named value through the unified value pipeline.
-
 ## Type parameters
 
 **Type parameter `TValue`:** The declared value type.

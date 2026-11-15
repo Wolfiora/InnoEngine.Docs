@@ -13,5 +13,3 @@ reviewed: c0568467398108ccedcd61bc11baa6366b465f68aca62701c5e774e2a781b348
 source: xml
 outdated: false
 ---
-
-Gets the optional ISO 15924 script code.

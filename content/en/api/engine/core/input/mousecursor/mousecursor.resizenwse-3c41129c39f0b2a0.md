@@ -13,5 +13,3 @@ reviewed: 52256962d74200b3329e98a82fe7e1f3926291818000c4af90e875871cdde325
 source: xml
 outdated: false
 ---
-
-A northwest-southeast diagonal resize cursor.

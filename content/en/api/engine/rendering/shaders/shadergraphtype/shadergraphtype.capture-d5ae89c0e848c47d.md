@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures a full immutable source type as reload-safe authoring data.
-
 ## Parameters
 
 **Parameter `type`:** Atomic, aggregate or storage type to capture.

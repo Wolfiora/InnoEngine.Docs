@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Saves an asset to its initial or existing isolated source path while preserving an existing destination identity.
-
 ## Parameters
 
 **Parameter `path`:** The isolated source path.

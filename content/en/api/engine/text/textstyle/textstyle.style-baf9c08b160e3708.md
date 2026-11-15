@@ -13,5 +13,3 @@ reviewed: b99af0c12ab529cf821e4f03e4f8cc1b1f8c269a138db61176b029cab00de003
 source: xml
 outdated: false
 ---
-
-Gets the requested face slant.

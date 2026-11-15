@@ -13,5 +13,3 @@ reviewed: d144a5cf6f3a756b9e2d8d3e4ae3369843058dc5210028baba8f5054b6233999
 source: xml
 outdated: false
 ---
-
-Gets backend-ready view transforms, or `null` for a matrix-free pass.

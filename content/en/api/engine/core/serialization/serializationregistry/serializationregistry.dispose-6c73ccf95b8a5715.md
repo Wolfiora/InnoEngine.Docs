@@ -13,5 +13,3 @@ reviewed: 9cb0b6a020bac94ad0b686511c9c2d9ffe3fc339f4c28132f94b379d27ef67c8
 source: xml
 outdated: false
 ---
-
-Releases every converter generation owned by this registry.

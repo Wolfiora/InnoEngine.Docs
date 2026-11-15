@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies complete declaration metadata before it participates in a serialization generation.
-
 ## Parameters
 
 **Parameter `type`:** The exact closed declaration.

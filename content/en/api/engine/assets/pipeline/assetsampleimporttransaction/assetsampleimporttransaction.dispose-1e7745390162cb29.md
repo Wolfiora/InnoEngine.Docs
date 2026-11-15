@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Retires an uncommitted import on its owner thread after cancellation has drained.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Canceled work has not drained; disposal must be retried without releasing its owner.

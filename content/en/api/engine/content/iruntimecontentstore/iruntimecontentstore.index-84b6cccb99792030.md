@@ -13,5 +13,3 @@ reviewed: eb77bbba9a65262e185e85b76e7002f898bc41ca6cdd2de68dbcdfddefd69966
 source: xml
 outdated: false
 ---
-
-Gets the immutable complete payload inventory.

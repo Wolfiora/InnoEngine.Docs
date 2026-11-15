@@ -13,5 +13,3 @@ reviewed: 20d9dc79cb1da5f24864bd0d271433dc2e3140cc5768d8486250ccaa8e1fbcd1
 source: xml
 outdated: false
 ---
-
-Gets cursor Y coordinate.

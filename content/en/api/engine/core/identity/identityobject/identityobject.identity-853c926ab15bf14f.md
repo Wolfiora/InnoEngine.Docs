@@ -13,5 +13,3 @@ reviewed: 863ca02116e33386a7f2e4564ea9a800c8f1b07704e0ea9dc0cc66b04da08ce1
 source: xml
 outdated: false
 ---
-
-Gets this object's current persistent and optional session-local identity snapshot.

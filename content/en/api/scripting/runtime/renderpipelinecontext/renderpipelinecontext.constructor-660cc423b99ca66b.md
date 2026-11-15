@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a pipeline build context.
-
 ## Parameters
 
 **Parameter `request`:** Pipeline-defined render request.

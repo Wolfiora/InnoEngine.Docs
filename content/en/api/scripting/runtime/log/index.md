@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
-
-Writes logs with compiler-provided locations and explicitly declared type ownership across managed deployments.

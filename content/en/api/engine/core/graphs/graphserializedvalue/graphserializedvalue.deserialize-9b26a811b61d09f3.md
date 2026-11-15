@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Deserializes this value through the common Inno serializer.
-
 ## Type parameters
 
 **Type parameter `T`:** Requested declared result type.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-player-runtime
 aliases: []
 ---
-
-Supplies deployment metadata and verified content without prescribing a physical layout.

@@ -13,5 +13,3 @@ reviewed: 8ceee24e9e9b847b33d7415822284f84cfb235b90aab8a8d9b468836129a800b
 source: xml
 outdated: false
 ---
-
-Gets the decoded text content.

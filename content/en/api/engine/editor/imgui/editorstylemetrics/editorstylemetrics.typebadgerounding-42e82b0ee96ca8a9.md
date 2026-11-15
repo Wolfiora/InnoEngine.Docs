@@ -13,5 +13,3 @@ reviewed: e9b8d37f69ddee85097bb28656afb32d9eaa9beb9f38cbcfea8531c00dc122a9
 source: xml
 outdated: false
 ---
-
-Gets the corner rounding of outlined type badges.

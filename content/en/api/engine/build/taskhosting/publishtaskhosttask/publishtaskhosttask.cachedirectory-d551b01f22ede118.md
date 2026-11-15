@@ -13,5 +13,3 @@ reviewed: 4a58efffcbf68377c6baea40f0744adf26d5c18360531f21e9eca2713fc7d234
 source: xml
 outdated: false
 ---
-
-Gets or sets the absolute owner of content-addressed, shared task runtime snapshots.

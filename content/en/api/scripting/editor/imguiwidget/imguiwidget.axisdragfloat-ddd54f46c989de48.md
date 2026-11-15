@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws a float drag field with a compact colored axis prefix.
-
 ## Parameters
 
 **Parameter `id`:** Stable control identifier.

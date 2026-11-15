@@ -13,5 +13,3 @@ reviewed: 8cec75aae406f4674ef2a6765ae076ada7e6cf5a8c4f2d200475a364ca5d5c31
 source: xml
 outdated: false
 ---
-
-Gets whether a two-dimensional storage image has array layers.

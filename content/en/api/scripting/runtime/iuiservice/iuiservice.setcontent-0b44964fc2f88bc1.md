@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Replaces an element's children with an explicitly tagged source-language fragment.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

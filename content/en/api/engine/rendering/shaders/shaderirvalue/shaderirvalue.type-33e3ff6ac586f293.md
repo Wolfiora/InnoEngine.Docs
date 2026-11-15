@@ -13,5 +13,3 @@ reviewed: 96f3df54f1c5d4790addec49756b02c6d986b0dc50ea33895d4b3244351c4ef7
 source: xml
 outdated: false
 ---
-
-Gets the complete language-independent value type.

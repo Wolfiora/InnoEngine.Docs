@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes SDK-resolved native compiler and header inputs without interpreting environment conventions.

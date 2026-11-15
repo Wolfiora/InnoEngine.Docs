@@ -13,5 +13,3 @@ reviewed: f7c9ab1b0dc5456acb7af9dbc9ac812d3ccc82be232c71ce0eb44870686a3aaf
 source: xml
 outdated: false
 ---
-
-Gets the persistent descriptor that produced this result.

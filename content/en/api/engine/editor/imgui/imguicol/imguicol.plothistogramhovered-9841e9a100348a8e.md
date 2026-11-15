@@ -13,5 +13,3 @@ reviewed: 01a7bf372aa346f30e3cad0b153311a20027f29586170fea9191148cfd52c078
 source: xml
 outdated: false
 ---
-
-Selects the plot histogram hovered presentation behavior.

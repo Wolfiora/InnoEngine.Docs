@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Copies the selected project's evaluated source closure into isolated template input.
-
 ## Parameters
 
 **Parameter `context`:** The selected checkout, SDK and preparation lifetime.

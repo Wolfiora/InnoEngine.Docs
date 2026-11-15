@@ -13,5 +13,3 @@ reviewed: 57065a108ab14641ffeb7c1fc0b9f4622b3439df8799c25bc13101def5da4a32
 source: xml
 outdated: false
 ---
-
-Gets the shared-library suffix, or null when shared linkage is unsupported.

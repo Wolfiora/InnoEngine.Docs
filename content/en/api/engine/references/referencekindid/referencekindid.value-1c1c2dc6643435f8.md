@@ -13,5 +13,3 @@ reviewed: a2b7a3c2d08f5269f3bd6de5cf32dde22bdd6a0b24d85fe0eeefdc9f8e9f5096
 source: xml
 outdated: false
 ---
-
-Gets the stable protocol identifier.

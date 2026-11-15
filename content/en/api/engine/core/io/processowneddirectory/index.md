@@ -16,5 +16,3 @@ contracts:
 - project.inno-core-io#publication-and-ownership-contract
 aliases: []
 ---
-
-Claims a new temporary directory before payload writes and preserves failed cleanup for later retirement.

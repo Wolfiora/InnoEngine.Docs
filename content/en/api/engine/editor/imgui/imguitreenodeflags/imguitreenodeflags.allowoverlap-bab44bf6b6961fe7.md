@@ -13,5 +13,3 @@ reviewed: 85c37406a8d0d5778e4d18bd220f4cb34533343ded46e4749986b2250ad50be8
 source: xml
 outdated: false
 ---
-
-Hit testing to allow subsequent widgets to overlap this one

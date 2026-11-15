@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one immutable stage timing sample.
-
 ## Parameters
 
 **Parameter `stage`:** The human-readable stage description.

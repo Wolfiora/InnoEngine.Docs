@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves the source and clone identity of one file relative to the sample directory.
-
 ## Parameters
 
 **Parameter `relativePath`:** Slash-separated source-local file path below the sample directory.

@@ -13,5 +13,3 @@ reviewed: be13ab9754b515788f5caadc592d9a4cf7c9c9c8702f396b997bdf151aa96536
 source: xml
 outdated: false
 ---
-
-Gets the identity domain that owns this runtime identifier.

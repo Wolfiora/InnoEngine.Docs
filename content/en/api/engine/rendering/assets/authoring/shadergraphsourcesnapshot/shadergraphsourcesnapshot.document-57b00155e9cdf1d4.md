@@ -13,5 +13,3 @@ reviewed: c90ec059fcd60b5414f7ee8e3e636be81d070a0856a12e722ac46c75edec6bb2
 source: xml
 outdated: false
 ---
-
-Gets a detached copy of authored graph records.

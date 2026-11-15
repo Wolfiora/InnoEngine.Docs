@@ -13,5 +13,3 @@ reviewed: 78cb186ec37e74bf53b6b475523b53d3045f91db017dbd336e13005ddb211e65
 source: xml
 outdated: false
 ---
-
-Gets muted opacity for shadows and subdued outlines.

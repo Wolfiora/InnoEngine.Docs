@@ -13,5 +13,3 @@ reviewed: 209394d5ece1c9c53e54ce6fc598f1e5faba5ae6d4d8a62f5c632881f96897ce
 source: xml
 outdated: false
 ---
-
-Vertex shader stage.

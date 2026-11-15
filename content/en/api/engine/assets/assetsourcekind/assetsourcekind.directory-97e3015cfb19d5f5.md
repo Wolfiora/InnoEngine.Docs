@@ -13,5 +13,3 @@ reviewed: 7f07066301ed58675ceb3bf3419ed62178bed3b60a97abfff4b6257e1fbb72c1
 source: xml
 outdated: false
 ---
-
-A source directory with persistent identity but no runtime artifact.

@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets complete graph compilation attempts for the frame. Validation does not increase this count.

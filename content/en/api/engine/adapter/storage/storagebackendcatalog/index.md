@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-storage#ownership-and-scope-contract
 aliases: []
 ---
-
-Resolves storage providers from one immutable, composition-owned registration snapshot.

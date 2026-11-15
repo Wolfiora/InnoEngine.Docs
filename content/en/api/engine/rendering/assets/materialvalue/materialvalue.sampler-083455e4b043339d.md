@@ -13,5 +13,3 @@ reviewed: ab4256e92b18e2d35c219f7b565dd3a0abbdf912df1f30da86cfeb305889c10c
 source: xml
 outdated: false
 ---
-
-Gets or sets the sampler used when this value stores a texture.

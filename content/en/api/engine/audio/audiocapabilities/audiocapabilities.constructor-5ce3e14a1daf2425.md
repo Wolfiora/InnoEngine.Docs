@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an immutable audio capability snapshot.
-
 ## Parameters
 
 **Parameter `supportsStreaming`:** Whether clips can be decoded incrementally.

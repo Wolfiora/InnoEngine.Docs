@@ -13,5 +13,3 @@ reviewed: 5c3fc4243d10aa9480becfcaae5f80a9826da3b7e7d33a0f45417fd496b14132
 source: xml
 outdated: false
 ---
-
-Gets the triangle exclamation glyph used by standard Editor controls.

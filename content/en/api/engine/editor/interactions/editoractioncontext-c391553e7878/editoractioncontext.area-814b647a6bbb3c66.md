@@ -13,5 +13,3 @@ reviewed: 84d147086c99bcb496748288c46e686fb6d8658f7616cd26eea6defe48502fff
 source: xml
 outdated: false
 ---
-
-Gets the stable interaction area.

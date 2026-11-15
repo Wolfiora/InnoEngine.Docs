@@ -13,5 +13,3 @@ reviewed: 132abfa52656cf61c81498c1d19defa2d0fd8644f92be3b352db54b8b2013155
 source: xml
 outdated: false
 ---
-
-Twenty-four-bit depth and eight-bit stencil format.

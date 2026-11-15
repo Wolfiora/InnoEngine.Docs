@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Saves one settings gesture, recording neutral before/after properties even when reimport reports an error.
-
 ## Parameters
 
 **Parameter `path`:** Writable source asset path.

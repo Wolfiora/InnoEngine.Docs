@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Releases all retained leases in reverse acquisition order.
-
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** Thrown after every lease is attempted when one or more releases fail.

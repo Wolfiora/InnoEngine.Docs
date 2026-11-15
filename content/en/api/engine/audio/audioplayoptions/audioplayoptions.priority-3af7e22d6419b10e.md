@@ -13,5 +13,3 @@ reviewed: eefdb1fc0649ac37f0549b550e53caa2e627984d8394de6bab72a6851bddd127
 source: xml
 outdated: false
 ---
-
-Gets the voice retention priority.

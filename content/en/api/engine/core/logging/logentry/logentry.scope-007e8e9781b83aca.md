@@ -13,5 +13,3 @@ reviewed: 9dbb1548afacabbd7b944706641f6b713f6f00ecf3e7a2d74627092dffbf3f07
 source: xml
 outdated: false
 ---
-
-Gets the runtime or editor scope for this entry.

@@ -13,5 +13,3 @@ reviewed: 1d1b965f3cc4b113e14dc6739eaf264cf29836ca537fe5ba8024b6326709c01d
 source: xml
 outdated: false
 ---
-
-Gets the execution policy available to the game's job scheduler.

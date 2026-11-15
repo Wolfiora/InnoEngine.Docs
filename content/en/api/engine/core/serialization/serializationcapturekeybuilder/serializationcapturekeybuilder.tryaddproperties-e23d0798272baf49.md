@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Adds a complete property revision only when current metadata proves context-free default capture without converters.
-
 ## Parameters
 
 **Parameter `source`:** The current serializable identity object.

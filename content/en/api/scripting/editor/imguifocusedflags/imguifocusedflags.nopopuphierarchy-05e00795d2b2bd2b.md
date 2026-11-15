@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Do not consider popup hierarchy (do not treat popup emitter as parent of popup) (when used with \_ChildWindows or \_RootWindow)

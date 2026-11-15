@@ -13,5 +13,3 @@ reviewed: b89fa165934c25b3e9eca30c7e2e228819746f38623d4dccbf139f09b671af58
 source: xml
 outdated: false
 ---
-
-Gets the complete target stage binaries required by this pass.

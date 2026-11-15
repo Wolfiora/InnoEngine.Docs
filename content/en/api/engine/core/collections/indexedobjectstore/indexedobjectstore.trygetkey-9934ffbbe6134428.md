@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Gets a previously defined key by name.
-
 ## Type parameters
 
 **Type parameter `TKey`:** Key type.

@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Gets produced values; a call orders its return value first, then out/inout parameters.

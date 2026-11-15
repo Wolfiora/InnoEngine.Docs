@@ -13,5 +13,3 @@ reviewed: e1ff2e9b368e2e29051d0993afbb4822ba452fdaa818d6a206a85031fb12e1ab
 source: xml
 outdated: false
 ---
-
-Continues restoring independent properties and reports every rejected value.

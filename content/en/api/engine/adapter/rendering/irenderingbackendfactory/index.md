@@ -16,5 +16,3 @@ contracts:
 - project.inno-adapter-rendering
 aliases: []
 ---
-
-Creates runtime rendering devices from one backend selection.

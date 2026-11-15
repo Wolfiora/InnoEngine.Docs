@@ -13,5 +13,3 @@ reviewed: 6cb1350cce48b1338f832a47f852ad0318e70cf955074736b9d45b4b05883a5a
 source: xml
 outdated: false
 ---
-
-Gets whether the modal window can be moved inside the main viewport.

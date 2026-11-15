@@ -13,5 +13,3 @@ reviewed: 42ec6825c6729445b2d3d2d1a89501d1210c6d957006dd308f5b229485badf5f
 source: xml
 outdated: false
 ---
-
-Gets the exclusive source allowlist; null collects every active source.

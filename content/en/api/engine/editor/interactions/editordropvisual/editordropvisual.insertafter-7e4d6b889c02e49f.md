@@ -13,5 +13,3 @@ reviewed: 2e8d863f4b72eed9fa9916b934e01c00a76995edcb7eba6962502d2f21b03d32
 source: xml
 outdated: false
 ---
-
-Draw an insertion line after the target.

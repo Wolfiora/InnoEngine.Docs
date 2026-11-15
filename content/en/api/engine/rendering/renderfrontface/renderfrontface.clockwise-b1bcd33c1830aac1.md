@@ -13,5 +13,3 @@ reviewed: 16374caafaddd75b1a186f1c34ca3553a3f24937381e9d37c8baf4f5cd4bec92
 source: xml
 outdated: false
 ---
-
-Clockwise vertices form a front-facing triangle.

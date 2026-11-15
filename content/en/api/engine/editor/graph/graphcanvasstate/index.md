@@ -16,5 +16,3 @@ contracts:
 - project.inno-editor-graph
 aliases: []
 ---
-
-Stores transient pan, zoom, selection and connection interaction state without ImGui dependencies.

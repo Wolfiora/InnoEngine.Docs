@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Reads a compatible value or returns the caller-provided fallback.
-
 ## Type parameters
 
 **Type parameter `T`:** The neutral value type expected by the caller.

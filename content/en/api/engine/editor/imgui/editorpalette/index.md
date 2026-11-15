@@ -99,5 +99,3 @@ aliases:
 - api.inno.editor.imgui.af38eef9942911ee
 - api.inno.editor.imgui.ff8c1b0bc7e41342
 ---
-
-Defines the complete editor color palette in one theme surface.

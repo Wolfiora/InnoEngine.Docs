@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves explicitly registered shader configuration independently of tool execution target.
-
 ## Parameters
 
 **Parameter `target`:** The artifact's actual publication target.

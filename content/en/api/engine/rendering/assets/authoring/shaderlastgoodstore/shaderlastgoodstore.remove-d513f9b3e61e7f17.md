@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes all CPU artifacts associated with one persistent shader.
-
 ## Parameters
 
 **Parameter `shaderId`:** Persistent shader asset identity.

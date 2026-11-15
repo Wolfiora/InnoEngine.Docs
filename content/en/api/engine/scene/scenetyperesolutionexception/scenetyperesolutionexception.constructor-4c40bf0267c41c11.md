@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an exception for one unresolved serialized scene type.
-
 ## Parameters
 
 **Parameter `stableTypeId`:** The stable identity stored by the serialized scene element.

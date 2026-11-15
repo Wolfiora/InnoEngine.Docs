@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a key was newly released during this frame.
-
 ## Parameters
 
 **Parameter `key`:** The backend-neutral physical key.

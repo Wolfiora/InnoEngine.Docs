@@ -13,5 +13,3 @@ reviewed: f97663a7529cb69bb800f56147d8e2045673241bfd8a058eb6120f61cb8910ac
 source: xml
 outdated: false
 ---
-
-Gets a unit-length copy, or the zero value when normalization is undefined.

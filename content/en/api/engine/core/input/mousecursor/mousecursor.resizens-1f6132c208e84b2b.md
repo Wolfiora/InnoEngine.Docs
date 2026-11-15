@@ -13,5 +13,3 @@ reviewed: cc1607d9e289a840f5ef5afdb6d974140225bf8a7c791869fe5488d7b7bd8a72
 source: xml
 outdated: false
 ---
-
-A north-south resize cursor.

@@ -13,5 +13,3 @@ reviewed: 033926b4bc427f6788a6797060daefa881d685bed44897d6f653c1fa38376ca4
 source: xml
 outdated: false
 ---
-
-Gets optional diagnostics describing why the reference is not resolved.

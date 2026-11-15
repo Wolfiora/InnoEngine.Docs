@@ -13,5 +13,3 @@ reviewed: c7f5191299616764211dba3221cd633518474fcbdd0a029bc67f0d8e34120d23
 source: xml
 outdated: false
 ---
-
-Gets the platform identity whose closure this source prepares.

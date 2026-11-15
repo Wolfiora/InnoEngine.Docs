@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Destroys the context after its in-flight references retire.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.

@@ -13,5 +13,3 @@ reviewed: c6420092b011510578cb3d9db82497a41e6c6d6f6963a53e8381e5372a706a93
 source: xml
 outdated: false
 ---
-
-Gets the platform-selected executor.

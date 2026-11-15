@@ -13,5 +13,3 @@ reviewed: 4f9433cb91227be1f77c177dfb1fd30fb5434eec144a30051667fdf5acfdf571
 source: xml
 outdated: false
 ---
-
-The asset is deployed and must produce a named `runtime` artifact output.

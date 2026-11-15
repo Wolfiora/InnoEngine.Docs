@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Provides validated current-format serialization and atomic persistence for one settings document type.
-
 ## Type parameters
 
 **Type parameter `TDocument`:** The complete serializable document type.

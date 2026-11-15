@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a four-component animation value.
-
 ## Parameters
 
 **Parameter `kind`:** Interpretation of the populated components.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Runs a child build using a complete argument string, without a shell.
-
 ## Parameters
 
 **Parameter `fileName`:** The executable resolved by the host operating system.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Captures explicit owners and a target without discovering components or parsing a build project.
-
 ## Parameters
 
 **Parameter `components`:** The component owners, each declaring one binding definition.

@@ -13,5 +13,3 @@ reviewed: 3f769cbacd5775084ecd09c33adf98c0f4c57136d7a0fcadd2a0fc510148f9ff
 source: xml
 outdated: false
 ---
-
-Identifies the RightArrow presentation key or modifier.

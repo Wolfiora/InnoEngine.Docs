@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Declares a checkout-relative input, or an external SDK location whose path affects tool selection.
-
 ## Parameters
 
 **Parameter `engineRoot`:** The absolute checkout root assigned the logical prefix `engine/`.

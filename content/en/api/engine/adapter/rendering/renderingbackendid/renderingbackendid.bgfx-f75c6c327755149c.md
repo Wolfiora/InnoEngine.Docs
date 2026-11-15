@@ -13,5 +13,3 @@ reviewed: f74fcad8261078f8470bfbb97e6cc839ddb2532f7be249bb6aa474af76976e17
 source: xml
 outdated: false
 ---
-
-Gets the identifier of the bundled BGFX implementation, not a whitelist of supported backends.

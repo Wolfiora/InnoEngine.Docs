@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Releases managed generation-scoped state.
-
 ## Parameters
 
 **Parameter `disposing`:** Always true for explicit disposal.

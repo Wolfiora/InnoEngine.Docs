@@ -13,5 +13,3 @@ reviewed: af966516efba99bfc810ccad1db64ccb6344cc8ad8640d6e56c9820133d8f59b
 source: xml
 outdated: false
 ---
-
-Gets the world-space listener forward direction.

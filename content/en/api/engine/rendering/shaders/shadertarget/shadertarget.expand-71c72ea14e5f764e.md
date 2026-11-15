@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds explicit stage interfaces, resource declarations, techniques and pass states.
-
 ## Parameters
 
 **Parameter `context`:** Invocation-scoped detached document and complete owner serialization services.

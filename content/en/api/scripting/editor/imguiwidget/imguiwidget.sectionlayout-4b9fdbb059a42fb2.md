@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Draws content in a scope where consecutive section headers become framed fieldsets.
-
 ## Parameters
 
 **Parameter `drawContent`:** Callback that draws all content participating in the section layout.

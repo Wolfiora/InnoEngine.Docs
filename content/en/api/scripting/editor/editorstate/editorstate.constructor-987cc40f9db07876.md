@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Initializes the base contract for a runtime-owned editor state parameter.

@@ -13,5 +13,3 @@ reviewed: e7c4abf5e46f19d3343bc878a6eedab3bbfece868ded4e13cfe4cc6e74482026
 source: xml
 outdated: false
 ---
-
-Don't do a TreePush() when open (e.g. for CollapsingHeader) = no extra indent nor pushing on ID stack

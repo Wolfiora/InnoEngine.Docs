@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a registration accepts a concrete target and returns its specificity distance.
-
 ## Parameters
 
 **Parameter `concreteType`:** The target type supplied by the active extension generation.

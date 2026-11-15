@@ -18,5 +18,3 @@ contracts:
 - project.inno-assets-pipeline
 aliases: []
 ---
-
-Declares the immutable protocol identity of an automatically discovered asset importer.

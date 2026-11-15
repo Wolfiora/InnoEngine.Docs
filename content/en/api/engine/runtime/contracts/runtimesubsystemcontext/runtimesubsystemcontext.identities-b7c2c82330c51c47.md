@@ -13,5 +13,3 @@ reviewed: 2544922bab37780207baf48e7af82445832ef49ecaea106f888d6f0097f958a9
 source: xml
 outdated: false
 ---
-
-Gets the isolated live-object identity domain.

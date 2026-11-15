@@ -13,5 +13,3 @@ reviewed: a1a91bae1279a8111ad2f50497359ea8c184cc1b921ad5b9fd05956b79850bb1
 source: xml
 outdated: false
 ---
-
-Gets or sets scalar bit patterns in declaration order; matrices use column-major order.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Removes an item from the store and all keys.
-
 ## Parameters
 
 **Parameter `item`:** The item to remove.

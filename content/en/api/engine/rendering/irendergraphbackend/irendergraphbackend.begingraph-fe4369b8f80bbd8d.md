@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Begins execution and prepares transient allocations.
-
 ## Parameters
 
 **Parameter `graph`:** Compiled graph to execute.

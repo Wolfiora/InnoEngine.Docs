@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a transient buffer eligible for lifetime aliasing.
-
 ## Parameters
 
 **Parameter `name`:** Debug and diagnostic name.

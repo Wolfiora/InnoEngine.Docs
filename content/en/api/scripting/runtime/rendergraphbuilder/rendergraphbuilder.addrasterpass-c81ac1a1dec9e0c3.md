@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Adds a frame-scoped raster pass.
-
 ## Type parameters
 
 **Type parameter `TPassData`:** Pass payload type.

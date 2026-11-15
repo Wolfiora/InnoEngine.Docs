@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Takes ownership of a complete native and binding closure.
-
 ## Parameters
 
 **Parameter `products`:** Owned products in dependency order.

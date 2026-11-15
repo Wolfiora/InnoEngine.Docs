@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Advances providers, pending preparation, backend maintenance, and completion dispatch at a main-thread safety point.
-
 ## Parameters
 
 **Parameter `deltaTime`:** Non-negative elapsed frame time in seconds.

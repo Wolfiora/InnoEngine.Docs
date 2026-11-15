@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Starts a source-package export using the existing Build pipeline.
-
 ## Parameters
 
 **Parameter `request`:** The complete, explicitly selected package request.

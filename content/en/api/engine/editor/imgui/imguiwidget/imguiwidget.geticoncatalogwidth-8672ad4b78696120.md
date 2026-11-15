@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Measures the standard glyph column once per native frame in this UI session.
-
 ## Returns
 
 The widest visible standard glyph at the current font size, at least one text-line height.

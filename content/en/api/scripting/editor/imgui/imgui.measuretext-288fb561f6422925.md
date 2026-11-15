@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Measures text using the current font.
-
 ## Returns
 
 The measured width and height.

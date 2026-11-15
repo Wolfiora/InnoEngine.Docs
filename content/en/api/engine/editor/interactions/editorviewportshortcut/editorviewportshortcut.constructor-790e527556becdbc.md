@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates one viewport shortcut sample.
-
 ## Parameters
 
 **Parameter `key`:** Pressed key.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-rendering-shaders
 aliases: []
 ---
-
-Constructs a vector or column-major matrix from individually connected scalar components.

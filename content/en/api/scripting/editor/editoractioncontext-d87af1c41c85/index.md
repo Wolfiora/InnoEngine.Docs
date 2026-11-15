@@ -19,8 +19,6 @@ contracts:
 aliases: []
 ---
 
-Provides a strongly typed target to an editor action implementation.
-
 ## Type parameters
 
 **Type parameter `TTarget`:** The target type required by the action.

@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Binds one product component to an owned build operation and explicit deployment layout.

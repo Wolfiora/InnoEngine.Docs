@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Binds the program and all material-owned values and textures.
-
 ## Parameters
 
 **Parameter `commands`:** Current pass command encoder.

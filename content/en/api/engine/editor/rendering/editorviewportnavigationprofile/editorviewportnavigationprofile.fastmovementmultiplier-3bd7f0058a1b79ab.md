@@ -13,5 +13,3 @@ reviewed: 3975ba9b4a00cd68db1658c6881ff21b8ab62cca30d06a1159161c142e9e4677
 source: xml
 outdated: false
 ---
-
-Gets or sets the multiplier used while fast fly movement is requested.

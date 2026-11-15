@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Determines whether a Shader graph declares a reusable node interface.
-
 ## Parameters
 
 **Parameter `graph`:** Graph to inspect.

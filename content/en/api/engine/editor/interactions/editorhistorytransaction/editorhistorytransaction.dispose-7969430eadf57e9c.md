@@ -13,5 +13,3 @@ reviewed: e83575597a6201532dea505ee0130692ce7988f7d24b96d6536f63508bb25333
 source: xml
 outdated: false
 ---
-
-Rolls back an uncommitted transaction before releasing it.

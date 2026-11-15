@@ -13,5 +13,3 @@ reviewed: 42ebe11f983e13a835534a811510084c86b25492d03b7d1f117d95f1f3674641
 source: xml
 outdated: false
 ---
-
-Gets the ownership domain of this module's assemblies.

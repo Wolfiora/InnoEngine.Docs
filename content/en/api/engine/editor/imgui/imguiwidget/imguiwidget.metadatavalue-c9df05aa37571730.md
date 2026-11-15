@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Draws a subdued metadata prefix followed by an interactive value on the same line.
-
 ## Parameters
 
 **Parameter `metadata`:** Short contextual text such as a declared value type.

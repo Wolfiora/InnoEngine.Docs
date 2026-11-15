@@ -13,5 +13,3 @@ reviewed: b439b2cada69673f5c368bee658ce224a5363a50afd854cc507cd9f4138ed3c2
 source: xml
 outdated: false
 ---
-
-Gets the mandatory root bus identifier.

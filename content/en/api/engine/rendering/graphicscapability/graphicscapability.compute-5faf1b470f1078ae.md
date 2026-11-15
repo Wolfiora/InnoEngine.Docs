@@ -13,5 +13,3 @@ reviewed: 81fccb54f61f8b826bcfddedee655c1e885f6fd99a3b8691730956734b40b3bb
 source: xml
 outdated: false
 ---
-
-Compute shader dispatch.

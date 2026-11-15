@@ -13,5 +13,3 @@ reviewed: daea68975526e223b03f25d9611bc30fed4d237b31ba0ea7618e081e92ce803e
 source: xml
 outdated: false
 ---
-
-The request was explicitly canceled before activation.

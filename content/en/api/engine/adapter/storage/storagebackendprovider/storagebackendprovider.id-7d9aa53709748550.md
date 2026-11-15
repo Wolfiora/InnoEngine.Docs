@@ -13,5 +13,3 @@ reviewed: 1c4c4f89a858f99e52dd723b75b719c7f00107c673dd05002ac69a42c3e0d3d0
 source: xml
 outdated: false
 ---
-
-Gets this registration's immutable implementation identity.

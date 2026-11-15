@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Gets the current synchronous drawing scope; this accessor never creates or owns a session.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** No UI drawing scope is active on the calling thread.

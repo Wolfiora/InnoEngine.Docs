@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Converts wheel input to the common exponential magnification used by Editor canvases.
-
 ## Parameters
 
 **Parameter `wheel`:** Logical wheel units, independent of framebuffer DPI.

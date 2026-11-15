@@ -18,5 +18,3 @@ contracts:
 - project.inno-rendering-runtime
 aliases: []
 ---
-
-Stores one complete texture mip and addressable layer, slice, or cubemap-face upload.

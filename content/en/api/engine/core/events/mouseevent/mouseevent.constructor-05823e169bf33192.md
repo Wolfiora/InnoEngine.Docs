@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a routed mouse event sharing its source's window and global consumption.
-
 ## Parameters
 
 **Parameter `source`:** The mouse event whose input lifetime remains authoritative.

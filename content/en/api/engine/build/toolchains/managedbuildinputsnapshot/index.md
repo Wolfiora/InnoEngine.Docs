@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Freezes the selected SDK's evaluated managed source graph without compiling a product.

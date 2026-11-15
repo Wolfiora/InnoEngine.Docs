@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes the tag of a live GameObject and records the two ordinal tag strings.
-
 ## Parameters
 
 **Parameter `gameObject`:** The live GameObject whose tag should change.

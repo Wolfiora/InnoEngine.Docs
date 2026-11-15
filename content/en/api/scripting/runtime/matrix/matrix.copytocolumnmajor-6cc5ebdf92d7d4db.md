@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Copies matrix elements into an array in column-major order. Useful for APIs like bgfx that expect column-major float\[16\].
-
 ## Parameters
 
 **Parameter `destination`:** Destination array.

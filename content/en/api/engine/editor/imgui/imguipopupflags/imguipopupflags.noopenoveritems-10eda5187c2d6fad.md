@@ -13,5 +13,3 @@ reviewed: c3132edf471664e0ff0622ecb47574bfddeb043091faeab1ff7208f29bf3b840
 source: xml
 outdated: false
 ---
-
-For BeginPopupContextWindow(): don't return true when hovering items, only when hovering empty space

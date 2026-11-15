@@ -13,5 +13,3 @@ reviewed: d850566597d6d570c7cef18f0144d36e60d8ba31db784c20fb37904cefb059cb
 source: xml
 outdated: false
 ---
-
-Gets card header background.

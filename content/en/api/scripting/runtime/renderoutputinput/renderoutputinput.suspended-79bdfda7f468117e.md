@@ -14,5 +14,3 @@ apiScope: Runtime
 source: xml
 outdated: false
 ---
-
-Gets a snapshot that clears gameplay interaction while retaining the rendered output.

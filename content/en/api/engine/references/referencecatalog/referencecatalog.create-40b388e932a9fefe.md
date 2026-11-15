@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Builds a complete resolver generation and rejects duplicate protocol identifiers.
-
 ## Parameters
 
 **Parameter `generation`:** The positive generation assigned by the catalog owner.

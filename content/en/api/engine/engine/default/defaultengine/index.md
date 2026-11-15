@@ -16,5 +16,3 @@ contracts:
 - project.inno-engine-default
 aliases: []
 ---
-
-Provides build-generated default engine assembly, independent of Editor and Player loop implementations.

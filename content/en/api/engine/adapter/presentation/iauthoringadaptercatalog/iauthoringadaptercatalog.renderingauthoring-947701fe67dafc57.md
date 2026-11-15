@@ -13,5 +13,3 @@ reviewed: 465d2da9ad22f2ae9c7d472a5c20bb734839967acc615c9658a61d7fd626a0df
 source: xml
 outdated: false
 ---
-
-Gets the rendering toolchain factory used to compile authoring artifacts.

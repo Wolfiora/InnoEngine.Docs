@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Tries to resolve an ordinal layer name to its compact slot.
-
 ## Parameters
 
 **Parameter `name`:** The layer name to find.

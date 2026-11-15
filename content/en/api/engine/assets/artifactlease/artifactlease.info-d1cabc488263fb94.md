@@ -13,5 +13,3 @@ reviewed: e512c22d668c92c6f657a49272ad41bb0f7000e8dc5f22b101f9fccf4422649f
 source: xml
 outdated: false
 ---
-
-Gets verified metadata for the retained artifact.

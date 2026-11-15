@@ -13,5 +13,3 @@ reviewed: d9a7feae50d3f498cee3ccacb0e41200d4d04e6fd1b2d359667d5b93152fdeba
 source: xml
 outdated: false
 ---
-
-Gets the combined voice and undelivered completion capacity.

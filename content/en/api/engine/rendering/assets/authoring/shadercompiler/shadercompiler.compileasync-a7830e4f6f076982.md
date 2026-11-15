@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Compiles a typed stage through the configured adapter without an intermediate complete-source authoring asset.
-
 ## Parameters
 
 **Parameter `stage`:** Typed stage and frozen function modules.

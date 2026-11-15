@@ -13,5 +13,3 @@ reviewed: 8ffde88be5fe8131a6dbea8af68caa105f97226aa6f2cb6af4b66270ea50eebb
 source: xml
 outdated: false
 ---
-
-A completed fraction, or null when no progress bar is needed.

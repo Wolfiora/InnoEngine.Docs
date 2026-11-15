@@ -16,5 +16,3 @@ contracts:
 - project.inno-build-toolchains
 aliases: []
 ---
-
-Describes actual full reads and physical read reuse within one explicitly bounded input phase.

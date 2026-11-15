@@ -13,5 +13,3 @@ reviewed: b88ad5bd83b28cc82e334d09a40b9aed68f0e1aef9c1311949b38be6681addc6
 source: xml
 outdated: false
 ---
-
-Gets or initializes the destination `.iplugin` package path.

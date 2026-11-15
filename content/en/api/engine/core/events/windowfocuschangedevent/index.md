@@ -17,8 +17,6 @@ contracts:
 aliases: []
 ---
 
-Raised when a window gains or loses input focus.
-
 ## Parameters
 
 **Parameter `windowId`:** The window id used to initialize this instance.

@@ -13,5 +13,3 @@ reviewed: babb1722fc3d9d251ab27cdfc8d7056f144b147eac68c7aa616510f0854d20d6
 source: xml
 outdated: false
 ---
-
-Gets the logical binding identity.

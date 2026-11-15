@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies staged authoring changes and saves their asset source.
-
 ## Parameters
 
 **Parameter `context`:** Stable document context owned by the host.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Applies a mutation to one serializable scene property and records only its before and after values.
-
 ## Parameters
 
 **Parameter `target`:** The live scene object containing the root serialized property.

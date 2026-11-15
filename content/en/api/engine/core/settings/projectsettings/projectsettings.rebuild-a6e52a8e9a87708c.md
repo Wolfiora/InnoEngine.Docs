@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Atomically rebuilds effective settings for a new extension generation.
-
 ## Parameters
 
 **Parameter `contributors`:** Dependency-ordered default contributors.

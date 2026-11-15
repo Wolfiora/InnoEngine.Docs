@@ -13,5 +13,3 @@ reviewed: 8ec5775a13dabf93bec1a2445ba68636fa62b6abe144267d1546d4cab17b5531
 source: xml
 outdated: false
 ---
-
-Fragment shader stage.

@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Stops one live playback.
-
 ## Parameters
 
 **Parameter `handle`:** Playback handle from this runtime generation.

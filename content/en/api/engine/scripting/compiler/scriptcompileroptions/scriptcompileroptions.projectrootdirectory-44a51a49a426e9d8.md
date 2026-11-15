@@ -13,5 +13,3 @@ reviewed: c3e4671bb1fb8357358b20c5a5ed2dbeff461d80f6088ccea416b24b5ed0fca1
 source: xml
 outdated: false
 ---
-
-Gets the project root containing Assets and Library.

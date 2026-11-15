@@ -13,5 +13,3 @@ reviewed: 1f42d9344e6c5cc715ffc84f6bc8924d7219a84faa09cb565933c049471e801e
 source: xml
 outdated: false
 ---
-
-Gets or initializes the parent directory that receives the atomically committed platform output.

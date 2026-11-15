@@ -13,5 +13,3 @@ reviewed: f56259257f69bbc82dfc60ba46a52acd006d29cfbb793d51af996fa76f031eeb
 source: xml
 outdated: false
 ---
-
-Gets immutable capabilities for the active device generation.

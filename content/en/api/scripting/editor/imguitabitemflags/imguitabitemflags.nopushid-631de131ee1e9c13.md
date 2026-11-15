@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-Don't call PushID()/PopID() on BeginTabItem()/EndTabItem()

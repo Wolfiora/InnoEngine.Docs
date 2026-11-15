@@ -13,5 +13,3 @@ reviewed: d85f73331432869ea1854b7ebab166f32c04550fb75d3678708c675155915026
 source: xml
 outdated: false
 ---
-
-Gets the metadata implementation corresponding to the selected code deployment.

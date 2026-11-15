@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Creates a portable project identifier.
-
 ## Parameters
 
 **Parameter `value`:** Lowercase ASCII namespace segments.

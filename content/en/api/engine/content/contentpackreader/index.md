@@ -16,5 +16,3 @@ contracts:
 - project.inno-content
 aliases: []
 ---
-
-Verifies complete encoded and decoded identities before transferring a pack into an immutable store.

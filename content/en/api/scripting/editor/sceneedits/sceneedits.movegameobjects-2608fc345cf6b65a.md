@@ -15,8 +15,6 @@ source: xml
 outdated: false
 ---
 
-Moves minimal selected roots together, preserving descendants and recording only affected placements.
-
 ## Parameters
 
 **Parameter `targets`:** Selected live objects in their required relative order.

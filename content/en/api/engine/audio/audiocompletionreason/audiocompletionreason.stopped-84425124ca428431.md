@@ -13,5 +13,3 @@ reviewed: 5b4ca408b90314646022ff5aee4caea3aee6e1ccc323a88e64cf31b09db56109
 source: xml
 outdated: false
 ---
-
-A caller explicitly stopped the voice.

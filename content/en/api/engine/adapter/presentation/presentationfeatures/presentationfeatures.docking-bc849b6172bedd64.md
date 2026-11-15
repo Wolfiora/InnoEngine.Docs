@@ -13,5 +13,3 @@ reviewed: 5dc3fdf70260c8f9d0549c6ace09d7b784a1a162655b094b6ca008cfb18fe678
 source: xml
 outdated: false
 ---
-
-Enables dockable host surfaces when supported.

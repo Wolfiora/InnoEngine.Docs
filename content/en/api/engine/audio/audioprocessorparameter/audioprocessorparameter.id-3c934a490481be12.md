@@ -13,5 +13,3 @@ reviewed: 61c5c47a82653920e230fb4a98a5502daaf7de2dcb23122a0b64616e0ffa008a
 source: xml
 outdated: false
 ---
-
-Gets the open parameter identifier.

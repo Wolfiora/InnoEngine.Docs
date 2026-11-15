@@ -13,5 +13,3 @@ reviewed: 2943b3383aaad2a2f77d9d09d644c5b27d0582e33828bbfcfb0c6f1b2ff5e886
 source: xml
 outdated: false
 ---
-
-Right-click on columns body/contents will display table context menu. By default it is available in TableHeadersRow().

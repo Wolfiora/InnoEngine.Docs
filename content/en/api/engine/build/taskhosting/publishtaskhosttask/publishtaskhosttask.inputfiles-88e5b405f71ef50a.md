@@ -13,5 +13,3 @@ reviewed: b5fc24eb62259a1cc99cd14a5dc0433df0aeb0f2188a5fb88e4afef49492303c
 source: xml
 outdated: false
 ---
-
-Gets or sets the frozen runtime files, each declaring RelativePath and FileHash metadata.

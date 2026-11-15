@@ -18,5 +18,3 @@ contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
-
-Marks a reference type whose annotated properties can participate in property-based serialization.

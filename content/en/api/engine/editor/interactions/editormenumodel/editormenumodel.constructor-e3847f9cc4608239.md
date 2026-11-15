@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a complete immutable menu tree from resolved root nodes.
-
 ## Parameters
 
 **Parameter `items`:** The root nodes in stable display order, or `null` for an empty menu.

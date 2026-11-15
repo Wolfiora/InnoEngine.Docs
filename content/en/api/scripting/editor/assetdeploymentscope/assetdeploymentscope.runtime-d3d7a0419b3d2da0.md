@@ -14,5 +14,3 @@ apiScope: Editor
 source: xml
 outdated: false
 ---
-
-The asset is deployed and must produce a named `runtime` artifact output.

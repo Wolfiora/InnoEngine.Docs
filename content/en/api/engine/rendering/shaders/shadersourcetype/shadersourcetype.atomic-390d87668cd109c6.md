@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an atomic type supplied by a language or graph target.
-
 ## Parameters
 
 **Parameter `id`:** Canonical type identity, such as float3, texture2d, or a provider-qualified opaque type.

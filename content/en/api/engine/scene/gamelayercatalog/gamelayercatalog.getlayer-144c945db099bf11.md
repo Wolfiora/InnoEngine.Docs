@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Resolves an ordinal layer name to its compact slot.
-
 ## Parameters
 
 **Parameter `name`:** The configured layer name.

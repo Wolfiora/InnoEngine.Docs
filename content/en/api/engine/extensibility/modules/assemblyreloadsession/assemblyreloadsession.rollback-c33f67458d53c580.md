@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Restores the previous generation and unloads the candidate generation.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Rollback cannot safely release the candidate. Contexts remain owned and the shared gate is faulted.

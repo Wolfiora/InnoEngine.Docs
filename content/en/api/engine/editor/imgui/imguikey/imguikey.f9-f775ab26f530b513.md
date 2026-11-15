@@ -13,5 +13,3 @@ reviewed: b71f7939657855096a89d161eac953c6e3dd31481aeea450aa86f3beab3ab87d
 source: xml
 outdated: false
 ---
-
-Identifies the F9 presentation key or modifier.

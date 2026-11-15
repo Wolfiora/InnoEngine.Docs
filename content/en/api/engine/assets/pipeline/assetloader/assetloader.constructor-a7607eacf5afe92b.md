@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates an asset loader over one project source and zero or more isolated sources.
-
 ## Parameters
 
 **Parameter `types`:** The immutable type-generation owner used to discover importers and resolve asset types.

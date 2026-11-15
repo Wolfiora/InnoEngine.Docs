@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Changes one context's pixel dimensions and density.
-
 ## Parameters
 
 **Parameter `context`:** The context that owns the requested document or state.

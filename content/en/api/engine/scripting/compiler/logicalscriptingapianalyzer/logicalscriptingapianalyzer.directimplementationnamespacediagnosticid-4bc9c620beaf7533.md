@@ -13,5 +13,3 @@ reviewed: 3a3a992ab663d3d40924d54a4c184b496a257638add100beb16b18fef2a859cc
 source: xml
 outdated: false
 ---
-
-Diagnostic identifier for direct implementation namespace access.

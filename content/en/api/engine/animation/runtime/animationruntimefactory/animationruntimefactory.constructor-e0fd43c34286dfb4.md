@@ -14,8 +14,6 @@ source: xml
 outdated: false
 ---
 
-Creates a reusable feature factory around a composition-owned runtime callback.
-
 ## Parameters
 
 **Parameter `runtimeFactory`:** Callback that creates a distinct animation runtime for each session.
