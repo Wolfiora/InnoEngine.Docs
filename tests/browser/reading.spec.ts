@@ -275,7 +275,7 @@ test('status precedes the title, XML summaries are quoted, and metadata is compa
   const order = await main.evaluate(element => {
     const heading = element.querySelector('h1')!;
     const summary = (heading.closest('.sl-heading-wrapper') ?? heading).nextElementSibling;
-    const metadata = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('Project:'))!;
+    const metadata = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('API:'))!;
     const status = element.querySelector('aside.api-status')!;
     return { summary: summary?.textContent, summaryTag: summary?.tagName, items: summary?.querySelectorAll('li').length,
       statusBeforeTitle: !!(status.compareDocumentPosition(heading) & Node.DOCUMENT_POSITION_FOLLOWING),
@@ -283,7 +283,7 @@ test('status precedes the title, XML summaries are quoted, and metadata is compa
   });
   expect(order.summary).toContain('Starts a visually separated Inspector section');
   expect(order.summaryTag).toBe('BLOCKQUOTE');
-  expect(order.items).toBe(0);
+  expect(order.items).toBe(1);
   expect(order.statusBeforeTitle).toBe(true);
   expect(order.project).toContain('Project: Inno.Editor.Annotations');
   expect(order.project).toContain('Inherits:');
@@ -295,6 +295,28 @@ test('status precedes the title, XML summaries are quoted, and metadata is compa
     'Executes the shared facade-to-C-to-managed binding workflow independently of MSBuild.',
     'Provides preparation input planning for the shared binding generator without producing generated artifacts.',
   ]);
+  const layout = await main.evaluate(element => {
+    const quote = element.querySelector('.api-summary')!;
+    const list = quote.querySelector('ul')!;
+    const contractList = [...element.querySelectorAll('.sl-markdown-content > ul')][0];
+    const metadata = [...element.querySelectorAll('p')].find(p => p.textContent?.startsWith('API:'))!;
+    const style = getComputedStyle(quote);
+    const labels = [...metadata.querySelectorAll('strong')].map(node => node.textContent);
+    const first = list.firstElementChild!;
+    const last = list.lastElementChild!;
+    return { labels, breaks: metadata.querySelectorAll('br').length,
+      listX: first.getBoundingClientRect().x, contractX: contractList.firstElementChild!.getBoundingClientRect().x,
+      top: first.getBoundingClientRect().top - quote.getBoundingClientRect().top,
+      bottom: quote.getBoundingClientRect().bottom - last.getBoundingClientRect().bottom,
+      paddingTop: style.paddingTop, paddingBottom: style.paddingBottom,
+      statusPadding: parseFloat(getComputedStyle(element.querySelector('.api-status > p')!).paddingTop) };
+  });
+  expect(layout.labels).toEqual(['API:', 'Implements:', 'Inherits:', 'Project:']);
+  expect(layout.breaks).toBe(3);
+  expect(Math.abs(layout.listX - layout.contractX)).toBeLessThanOrEqual(1);
+  expect(Math.abs(layout.top - layout.bottom)).toBeLessThanOrEqual(1);
+  expect(layout.paddingTop).toBe(layout.paddingBottom);
+  expect(layout.statusPadding).toBeLessThanOrEqual(3);
   await page.screenshot({ path: testInfo.outputPath('partial-summary-quotation.png') });
   await page.goto('api/engine/core/collections/');
   await main.getByRole('link', { name: 'DependencyGraph<TKey>', exact: true }).click();

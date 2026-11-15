@@ -13,6 +13,11 @@ export function apiPresentation() {
       file.data.astro.frontmatter ??= {};
       file.data.astro.frontmatter.sourceDeclaration = link.url;
       tree.children.splice(index, 2);
+      const titleIndex = tree.children.findIndex(node => node.type === 'heading' && node.depth === 1);
+      const summary = titleIndex >= 0 ? tree.children[titleIndex + 1] : null;
+      if (summary?.type === 'blockquote') {
+        summary.data = { hProperties: { className: ['api-summary'] } };
+      }
     }
     for (const node of tree.children) {
       if (node.type !== 'blockquote') continue;

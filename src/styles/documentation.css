@@ -36,15 +36,20 @@ body { text-rendering: optimizeLegibility; }
 .sl-markdown-content table code:not(pre code) { overflow-wrap: normal; }
 .sl-markdown-content a { text-underline-offset: .18em; }
 .sl-markdown-content blockquote { border-inline-start: 3px solid var(--sl-color-accent); background: var(--sl-color-accent-low); padding: .8rem 1.15rem; border-radius: 0 .35rem .35rem 0; }
+.sl-markdown-content blockquote.api-summary { border: 0; box-shadow: inset 3px 0 color-mix(in srgb, currentColor 24%, transparent); background: color-mix(in srgb, currentColor 5%, transparent); padding: .8rem 0; }
+.sl-markdown-content .api-summary > ul { margin-block: 0; }
+.sl-markdown-content .api-summary > ul > li > p:first-child { margin-block-start: 0; }
+.sl-markdown-content .api-summary > ul > li > p:last-child { margin-block-end: 0; }
 :focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 3px; }
-.sl-markdown-content .api-status { --status-color: #f5d36d; padding: 0; border: 0; border-radius: .3rem; overflow: hidden; background: color-mix(in srgb, var(--status-color) 12%, transparent); margin-block: 1.25rem; }
+.sl-markdown-content .api-status { --status-color: #f5d36d; padding: 0; border: 0; border-radius: .3rem; overflow: hidden; background: color-mix(in srgb, var(--status-color) 12%, transparent); margin-block: .25rem; }
+.sl-markdown-content .api-status + :is(h1, .sl-heading-wrapper) { margin-block-start: .35rem; }
 .sl-markdown-content .api-status-outdated { --status-color: #f59aa6; }
 .sl-markdown-content .api-status-verified { --status-color: #9cdbad; }
 :root[data-theme='light'] .api-status-synced { --status-color: #805a00; }
 :root[data-theme='light'] .api-status-outdated { --status-color: #a72b42; }
 :root[data-theme='light'] .api-status-verified { --status-color: #246e3b; }
-.sl-markdown-content .api-status > p { margin: 0; padding: .75rem 1rem; }
-.sl-markdown-content .api-status > .api-status-heading { display: flex; align-items: center; gap: .65rem; padding-block: .35rem; background: color-mix(in srgb, var(--status-color) 20%, transparent); color: var(--status-color); line-height: 1.5; }
+.sl-markdown-content .api-status > p { margin: 0; padding: .12rem 1rem; }
+.sl-markdown-content .api-status > .api-status-heading { display: flex; align-items: center; gap: .65rem; padding-block: .12rem; background: color-mix(in srgb, var(--status-color) 20%, transparent); color: var(--status-color); line-height: 1.5; }
 .api-status-icon { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 1.05em; width: 1.05em; height: 1.05em; border: 1.5px solid currentColor; border-radius: 50%; font-style: normal; font-weight: 750; line-height: 1; }
 @media (max-width: 50rem) {
   :root { --sl-text-h1: 1.9rem; --sl-text-h2: 1.45rem; }

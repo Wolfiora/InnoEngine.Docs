@@ -3,6 +3,14 @@ import assert from 'node:assert/strict';
 import { apiPresentation } from '../scripts/api-presentation.mjs';
 import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 
+test('only the canonical API summary gets scoped quotation styling, including one summary', async () => {
+  const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
+  const url = 'https://github.com/Wolfiora/InnoEngine/blob/' + 'a'.repeat(40) + '/src/Value.cs#L8';
+  const rendered = await processor.render('# Value\n\n> - Exact summary.\n\n## Remarks\n\n> An ordinary quotation.\n\n<!-- api-source -->\n[Source declaration](' + url + ')');
+  assert.match(rendered.code, /<blockquote class="api-summary">\s*<ul>\s*<li>Exact summary\.<\/li>/);
+  assert.match(rendered.code, /<blockquote>\s*<p>An ordinary quotation\.<\/p>/);
+});
+
 test('status precedes the title while separate partial summaries remain a quoted list', async () => {
   const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
   const rendered = await processor.render('> [!SYNCED]\n> XML explanation.\n\n# Generator\n\n> - First declaration.\n>   \n>   Same summary, another paragraph.\n> \n> - Second declaration with `Value`.');
