@@ -3,6 +3,16 @@ import assert from 'node:assert/strict';
 import { apiPresentation } from '../scripts/api-presentation.mjs';
 import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 
+test('status precedes the title while separate partial summaries remain a quoted list', async () => {
+  const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
+  const rendered = await processor.render('> [!SYNCED]\n> XML explanation.\n\n# Generator\n\n> - First declaration.\n>   \n>   Same summary, another paragraph.\n> \n> - Second declaration with `Value`.');
+  assert.ok(rendered.code.indexOf('<aside') < rendered.code.indexOf('<h1'));
+  assert.match(rendered.code, /<blockquote>\s*<ul>/);
+  assert.equal((rendered.code.match(/<li>/g) ?? []).length, 2);
+  assert.match(rendered.code, /Same summary, another paragraph\./);
+  assert.match(rendered.code, /Second declaration with <code>Value<\/code>/);
+});
+
 test('the real Markdown renderer forwards source metadata and renders a status header and icon', async () => {
   const url = 'https://github.com/Wolfiora/InnoEngine/blob/' + 'a'.repeat(40) + '/src/Value.cs#L8';
   const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });

@@ -68,7 +68,9 @@ npm run docs:review -- content/en/api/engine/core/identity/identity/index.md
 
 Replace the path with the registered page you edited. The command uses the pinned managed documentation tooling, sets `reviewed` to the current contract and clears `outdated`. It never edits the explanation, builds engine products, or publishes the site. It can explicitly fetch/bootstrap the pinned tool on first use. An explicit existing immutable engine checkout can be selected with `--engine-root PATH`. Ordinary read-only queries do not perform this preparation.
 
-The generated summary, declaration, parameters, inheritance and member list always follow the captured source. The summary appears below the title and above the status panel, including on `source: manual` pages; it is not stored in the editable Markdown body. Change source XML to correct that introduction. An authored signature in prose cannot replace generated facts.
+The generated summary, declaration, parameters, inheritance and member list always follow the captured source. The status panel appears above the title. The summary appears immediately below the title in a Markdown blockquote, including on `source: manual` pages; it is not stored in the editable Markdown body. Change source XML to correct that introduction. An authored signature in prose cannot replace generated facts.
+
+For a partial type, the compiler can combine XML comments from more than one declaration. For example, `NativeBindingGenerator` has a summary in both `NativeBindingGenerator.cs` and `NativeBindingGenerator.Inputs.cs`; both are present in the captured type XML. Each distinct summary appears as a separate bullet inside the quote. Paragraph breaks within one summary do not create additional bullets. A single summary uses a plain quote. These introductions are source summaries, not generated explanatory prose. Inspect every partial declaration when comparing the reference with source. The renderer must not silently discard a summary, invent additional sentences or relabel source summaries as remarks.
 
 | Marker or state | Next synchronization |
 | --- | --- |
@@ -107,7 +109,7 @@ A manual file is not frozen source code. Its authored explanation is retained wh
 
 API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification and the `reviewed` fingerprint. The lower group holds editable ownership, review requests, contract links, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
 
-A status panel appears above required contracts:
+A status panel appears above the API title:
 
 | Status | Meaning |
 | --- | --- |
@@ -119,7 +121,7 @@ Verified describes editorial ownership and review state; it does not certify the
 
 XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment, using `##` headings at the same level as Declaration. An API with only a summary can have an empty Markdown body. With `source: manual`, you can replace or remove these body sections; synchronization preserves your body while the summary and declaration continue to follow source facts. The website and exact symbol queries include both the generated summary and the editable body. Project, API family and Scope appear immediately above inheritance.
 
-Sidebar groups start collapsed. Top-level headings only expand or collapse and use chevrons. Deeper groups use square plus/minus controls; a linked category name opens its own page independently. Full-row highlights and animated width changes preserve readable labels up to half the desktop viewport. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
+Sidebar groups start collapsed. Top-level headings only expand or collapse and use chevrons. At any depth, a group without its own page also uses a chevron. Only linked categories use square plus/minus controls; their names open their pages independently. The current page has a stronger full-row highlight than its expanded ancestor groups. Animated width changes preserve readable labels up to half the desktop viewport. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
 
 ## Maintain required contract links
 
