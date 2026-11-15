@@ -222,8 +222,10 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await expect(editorGroup).toHaveAttribute('aria-expanded', 'true');
   await page.mouse.move(0, 0);
   for (const button of [toggle('Manual'), editorGroup]) {
-    await expect(button.locator('..')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
+    const treeColor = await button.evaluate(element => getComputedStyle(element.closest('li')!.querySelector(':scope > .children > .children-inner > ul')!).borderLeftColor);
+    await expect(button.locator('..')).toHaveCSS('background-color', treeColor);
     await expect(button.locator('.nav-label')).not.toHaveCSS('font-weight', '650');
+    await expect(button.locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
   }
   await editorGroup.click();
   await expect(editorGroup).toHaveAttribute('aria-expanded', 'false');
@@ -269,7 +271,8 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   await expect(row.locator('a')).toHaveCSS('text-decoration-line', 'none');
   await expect(api.locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
   await page.mouse.move(0, 0);
-  await expect(row).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
+  const treeColor = await audio.locator(':scope > .children > .children-inner > ul').evaluate(element => getComputedStyle(element).borderLeftColor);
+  await expect(row).toHaveCSS('background-color', treeColor);
   await expect(row.locator('a')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
   const geometry = await row.evaluate(el => {
     const icon = el.querySelector('.caret')!.getBoundingClientRect();

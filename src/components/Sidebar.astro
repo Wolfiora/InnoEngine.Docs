@@ -49,6 +49,7 @@ import { navigation } from '../../scripts/site-navigation.mjs';
     .children[data-open='true'] { grid-template-rows: 1fr; opacity: 1; }
     .children-inner { min-height: 0; overflow: hidden; }
     .children[hidden] { display: none; }
+    .nav-row:has(> [aria-expanded='true']) { background: var(--sl-color-hairline-light); }
     li:has([aria-current='page']) > .nav-row { background: color-mix(in srgb, var(--sl-color-text-accent) 10%, transparent); color: var(--sl-color-text); }
     li:has([aria-current='page']) > .nav-row .nav-label { font-weight: 650; }
     .nav-row > .nav-label[aria-current='page'] { text-decoration: underline; text-underline-offset: .2em; text-decoration-thickness: 1px; }
