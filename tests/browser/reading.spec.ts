@@ -269,20 +269,33 @@ test('sidebar opening has no full-height flash and rapid reversal stays open', a
   await expect(panel).toBeVisible();
 });
 
-test('XML summaries lead the page and project metadata sits directly above inheritance', async ({ page }, testInfo) => {
+test('status precedes the title, XML summaries are quoted, and metadata is compact', async ({ page }, testInfo) => {
   await page.goto('api/scripting/authoring/headerattribute/');
   const main = page.getByRole('main');
   const order = await main.evaluate(element => {
     const heading = element.querySelector('h1')!;
     const summary = (heading.closest('.sl-heading-wrapper') ?? heading).nextElementSibling;
     const metadata = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('Project:'))!;
-    return { summary: summary?.textContent, project: metadata.textContent, breaks: metadata.querySelectorAll('br').length };
+    const status = element.querySelector('aside.api-status')!;
+    return { summary: summary?.textContent, summaryTag: summary?.tagName, items: summary?.querySelectorAll('li').length,
+      statusBeforeTitle: !!(status.compareDocumentPosition(heading) & Node.DOCUMENT_POSITION_FOLLOWING),
+      project: metadata.textContent, breaks: metadata.querySelectorAll('br').length };
   });
   expect(order.summary).toContain('Starts a visually separated Inspector section');
+  expect(order.summaryTag).toBe('BLOCKQUOTE');
+  expect(order.items).toBe(0);
+  expect(order.statusBeforeTitle).toBe(true);
   expect(order.project).toContain('Project: Inno.Editor.Annotations');
   expect(order.project).toContain('Inherits:');
   expect(order.breaks).toBeGreaterThan(0);
   await page.screenshot({ path: testInfo.outputPath('xml-summary-and-metadata.png') });
+  await page.goto('api/engine/build/bindings/nativebindinggenerator/');
+  const summaries = main.locator('blockquote > ul > li');
+  await expect(summaries).toHaveText([
+    'Executes the shared facade-to-C-to-managed binding workflow independently of MSBuild.',
+    'Provides preparation input planning for the shared binding generator without producing generated artifacts.',
+  ]);
+  await page.screenshot({ path: testInfo.outputPath('partial-summary-quotation.png') });
   await page.goto('api/engine/core/collections/');
   await main.getByRole('link', { name: 'DependencyGraph<TKey>', exact: true }).click();
   const remarks = main.getByRole('heading', { name: 'Remarks', exact: true });
@@ -319,6 +332,8 @@ test('type members form one compact table and manual explanations have no XML no
   expect(introduction).toContain('Provides instance-owned persistent and session-local identity state');
   await expect(page.locator('aside.api-status-synced')).toHaveCount(0);
   await expect(page.locator('aside.api-status-verified, aside.api-status-outdated')).toHaveCount(1);
+  expect(await page.locator('aside.api-status').evaluate(status =>
+    !!(status.compareDocumentPosition(document.querySelector('main h1')!) & Node.DOCUMENT_POSITION_FOLLOWING))).toBe(true);
   await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');
 });
 
