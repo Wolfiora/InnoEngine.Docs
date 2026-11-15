@@ -24,7 +24,7 @@ Read-only authenticated GitHub checks confirmed Pages build_type=workflow, sourc
 
 ## External cutover
 
-Disconnect the previous provider's Git repository integration before publishing the configuration removal. Existing Git credentials can read Pages settings but cannot manage GitHub App installations. The browser is currently in active use; it was not taken over. The user was asked to disconnect the Docs project under Settings > Git > Disconnect. No external project or deployment was deleted, and no production PR was automatically merged.
+Disconnect the previous provider's Git repository integration before publishing the configuration removal. Existing Git credentials can read Pages settings but cannot manage GitHub App installations. The browser is currently in active use; it was not taken over. The user confirmed the Docs project Git integration was disconnected on 2026-11-15. The configuration removal can now be pushed. Existing external deployments remain available for rollback until the first successful Pages publication. No external project or deployment was deleted, and no production PR was automatically merged.
 
 ## Execution boundary
 
