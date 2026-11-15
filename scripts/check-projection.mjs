@@ -74,14 +74,6 @@ export async function checkProjection({ root, catalog, site, complete = false, e
     .map((page) => `${page.path}\0${page.contentIdentity}`).join('\n'));
   if (contentIdentity !== catalog.contentIdentity) errors.push('Canonical aggregate content identity is invalid.');
   const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog);
-  // Verify each shared navigation fragment once; pages retain their own HTML checks.
-  if (site) {
-    const shared = sharedNavigation(navigation, catalog);
-    for (const [id, expected] of shared.chunks) {
-      const actual = await readFile(inside(path.resolve(site), 'navigation-data/' + id + '.json'), 'utf8');
-      if (actual !== expected || digest(actual) !== id) errors.push('Invalid shared navigation resource: ' + id);
-    }
-  }
   const navigated = new Set();
   function inspect(items) {
     if (!Array.isArray(items)) throw new Error('Navigation items must be an array.');
@@ -95,6 +87,15 @@ export async function checkProjection({ root, catalog, site, complete = false, e
     }
   }
   inspect(navigation);
+  // Verify each shared navigation fragment once; pages retain their own HTML checks.
+  if (site && errors.length === 0) {
+    const shared = sharedNavigation(navigation, catalog);
+    for (const [id, expected] of shared.chunks) {
+      const actual = await readFile(inside(path.resolve(site), 'navigation-data/' + id + '.json'), 'utf8');
+      if (actual !== expected || digest(actual) !== id) errors.push('Invalid shared navigation resource: ' + id);
+    }
+  }
+
   const api = await checkApiReferences(root, binding, catalog, projects, errors);
   const licenses = await checkLicenseProvenance(root, errors);
   const missingProjects = Object.entries(catalog.projects).filter(([, entry]) => entry === null).map(([name]) => name);
