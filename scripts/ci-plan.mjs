@@ -8,6 +8,7 @@ import { contentRoute } from './documentation-routes.mjs';
 export const identity = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 const administrative = file => /^(README\.md|CONTRIBUTING\.md|AGENTS\.md|LICENSE|\.agents\/.*\.md)$/.test(file);
 export const controlInput = file => /^(scripts\/|src\/|tests\/|\.github\/|navigation\/|astro\.config|playwright\.config|package|tsconfig|\.node-version)/.test(file);
+export const renderingInput = file => controlInput(file) || file.startsWith('public/');
 export const publicationInput = file => controlInput(file) || /^(content\/|reference\/|public\/)/.test(file);
 export function modeFor(event, name, ref) {
   if (name === 'workflow_dispatch') {
@@ -55,7 +56,7 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   const search = plan.changed.some(file => /search|pagefind/i.test(file));
   const changedParser = plan.changed.includes('reference/engine.lock.json')
     && (!catalog.documentationToolIdentity || previous?.tool !== catalog.documentationToolIdentity);
-  const semantic = changedParser || plan.changed.some(file => /^(scripts\/(?:api-|canonical-|documentation-|check-projection|ci-plan|build-site|prepare-catalog|tooling-bundle|site-environment)|package|astro\.config|playwright\.config|tsconfig|\.node-version|tests\/browser\/|\.github\/|src\/content)/.test(file)
+  const semantic = changedParser || plan.changed.some(file => /^(scripts\/|package|astro\.config|playwright\.config|tsconfig|\.node-version|tests\/browser\/|\.github\/|src\/content)/.test(file)
     || (!administrative(file) && !/^(content\/|reference\/|src\/|navigation\/|public\/|scripts\/|tests\/|playwright\.config|tsconfig|\.node-version)/.test(file)));
   if (plan.mode === 'Release' || search || semantic) {
     for (const page of catalog.pages) choose(page.path, plan.mode === 'Release' ? 'Release requires every page' : 'Shared semantic or search input changed');
@@ -166,10 +167,10 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     let previous = null;
     try { previous = JSON.parse(await readFile('artifacts/checks/verified.json', 'utf8')); }
     catch (error) { if (error.code !== 'ENOENT') throw error; }
-    const tracked = [...new Set(execFileSync('git',['ls-files','--cached','--others','--exclude-standard'],{encoding:'utf8',maxBuffer:128*1024*1024}).trim().split('\n').filter(controlInput))];
+    const tracked = [...new Set(execFileSync('git',['ls-files','--cached','--others','--exclude-standard'],{encoding:'utf8',maxBuffer:128*1024*1024}).trim().split('\n').filter(renderingInput))];
     const renderer = identity([catalog.documentationToolIdentity, process.version, process.platform, process.arch, process.env.ImageVersion,
       (await Promise.all(tracked.map(async file => {
-        try { return [file, identity(await readFile(file,'utf8'))]; }
+        try { return [file, identity(await readFile(file))]; }
         catch (error) { if (error.code === 'ENOENT') return null; throw error; }
       }))).filter(Boolean)]);
     await save(selectPages(JSON.parse(await readFile('artifacts/ci/plan.json', 'utf8')), catalog,

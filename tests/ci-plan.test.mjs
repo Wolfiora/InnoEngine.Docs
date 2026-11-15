@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { bootstrapPlan, selectPages, modeFor, reconcile } from '../scripts/ci-plan.mjs';
+import { bootstrapPlan, selectPages, modeFor, reconcile, renderingInput, controlInput } from '../scripts/ci-plan.mjs';
 import { inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity, pageReceipts } from '../scripts/ci-evidence.mjs';
 const page = (id, extra = {}) => ({ id, path: `content/en/${id}.md`, title: id, kind: 'explanation', links: [], includes: [], contracts: [], codeBlocks: [], symbols: {}, sections: {}, markdown: id, contentIdentity: id, ...extra });
 const catalog = { snapshot: 'snapshot', sourceFiles: {}, pages: [page('index'), page('a'), page('b', { links: ['a.md#heading'] }), page('c')] };
@@ -37,12 +37,16 @@ test('records and README do not select a renderer, but unknown input expands con
 });
 test('rendering entry points and browser configuration cannot select an empty validation plan', () => {
   for (const file of ['scripts/build-site.mjs','scripts/prepare-catalog.mjs','scripts/tooling-bundle.mjs',
-    'playwright.config.ts','tests/browser/reading.spec.ts','tsconfig.json','.node-version']) {
+    'playwright.config.ts','tests/browser/reading.spec.ts','tsconfig.json','.node-version','scripts/new-renderer.mjs']) {
     const selected = selectPages(plan([file]),catalog);
     assert.equal(selected.pages.length,catalog.pages.length,file);
     assert.equal(selected.browser,'Full',file);
     assert.equal(selected.search,true,file);
   }
+});
+test('binary public assets invalidate rendering evidence without becoming privileged control code', () => {
+  assert.equal(renderingInput('public/branding/logo.png'),true);
+  assert.equal(controlInput('public/branding/logo.png'),false);
 });
 test('release, manual mode and required-result reconciliation fail closed', () => {
   assert.equal(modeFor({ pull_request: { base: { ref: 'main' } } }, 'pull_request', ''), 'Release');
