@@ -118,10 +118,12 @@ export async function create() {
 }
 async function portabilityKey() {
   const bundle = JSON.parse(await readFile('artifacts/tooling-bundle.json', 'utf8'));
-  const files = ['scripts/prepare-catalog.mjs', 'scripts/tooling-bundle.mjs', 'scripts/tooling-process.mjs', 'scripts/documentation-sdk.mjs',
-    'scripts/catalog-adapter.cs', 'scripts/ci-evidence.mjs', 'tests/site-build.test.mjs', 'package-lock.json'];
+  const { moduleInputs } = await import('./tooling-bundle.mjs');
+  const modules = await moduleInputs(['scripts/prepare-catalog.mjs', 'scripts/check-projection.mjs',
+    'scripts/ci-evidence.mjs', 'tests/site-build.test.mjs']);
+  const files = ['scripts/catalog-adapter.cs', 'package-lock.json'];
   return identity([bundle.key, process.version, process.platform, process.arch, process.env.ImageVersion,
-    await Promise.all(files.map(async file => [file, identity(await readFile(file, 'utf8'))]))]);
+    modules, await Promise.all(files.map(async file => [file, identity(await readFile(file, 'utf8'))]))]);
 }
 async function selectPortability() {
   const key = await portabilityKey();
